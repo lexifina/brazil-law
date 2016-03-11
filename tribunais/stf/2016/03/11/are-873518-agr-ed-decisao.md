@@ -1,0 +1,14 @@
+Decisão: Trata-se de embargos de declaração opostos pela Defensoria Pública da União contra acórdão proferido no Agravo Regimental no Agravo em Recurso Extraordinário 873.518/PR, assim ementado (eDOC 199, p. 1):
+    “Agravo regimental em recurso extraordinário com agravo. 2. Penal e Processual Penal. Violação de direitos autorais (184, § 2º, do CP). Condenação. Competência da Justiça Federal: procedência estrangeira das mercadorias e depoimento do acusado confessando ter adquirido as mídias no Paraguai. 3. Incidência das Súmulas 282 e 356 do STF. 4. Pedido que demanda reanálise da instrução probatória (Súmula 279). 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.”
+    Nestes embargos, a defesa alega omissão do referido julgado em razão da não apreciação da preliminar de prescrição da pretensão punitiva formulada no agravo regimental.
+    É breve o relatório.
+    Com efeito, em consulta ao sítio eletrônico do Tribunal Regional Federal da 4ª Região, verifico que o Juízo de primeiro grau recebeu a denúncia em 9.2.2010. Sendo que, posteriormente, declinou da competência em 1º.8.2011. Contudo, resolvido o conflito de competência pelo Superior Tribunal da Justiça, o processo voltou a trâmite na Justiça Federal em 30.4.2013, não havendo qualquer ilegalidade no primeiro recebimento da denúncia uma vez que recebida pelo juízo competente.
+    Posteriormente em 25.2.2014, o recorrente foi condenado à pena de 2 anos de reclusão pela prática do delito previsto no art. 184, § 2º, do CP (eDOC 169).
+    Assim, considerando que a prescrição, antes de transitar em julgado e sem recurso da acusação, regula-se pela pena aplicada (art. 110, § 1º, c/c art. 112, inciso I, do CP), verifico que o prazo a ser considerado entre os marcos interruptivos da prescrição é o de 4 anos, conforme preconiza o art. 109, inciso V, do CP.
+    Logo, ao se observar que entre os marcos interruptivos da prescrição, recebimento da denúncia (9.2.2010) e sentença condenatória (25.2.2014), transcorreu lapso superior a 4 anos é o caso de se reconhecer a ocorrência da prescrição da pretensão punitiva, na modalidade retroativa, nos termos do art. 117, incisos I e IV, e § 2º, c/c art. 110, § 1º, todos do CP.
+    Ante o exposto, com fundamento no art. 107, inciso IV, do CP, declaro extinta a punibilidade de Jeferson Lincoln Breda, tendo em vista a superveniência da prescrição da pretensão punitiva, na modalidade retroativa, e, em consequência, julgo prejudicado o presente recurso (embargos de declaração) pela perda superveniente do objeto deste agravo em recurso extraordinário (RI/STF, art. 21, inciso IX, e Lei n. 8.038/1990, art. 38).
+    Publique-se. Intime-se.
+    Brasília, 11 de março de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
