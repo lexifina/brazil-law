@@ -1,0 +1,19 @@
+DECISÃO
+PENA – REGIME DE CUMPRIMENTO – REGÊNCIA.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – AUSÊNCIA DE PREJUÍZO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da 25ª Vara da Comarca da Capital do Rio de Janeiro/RJ condenou o paciente a 4 anos e 8 meses de reclusão, no regime inicialmente fechado, e ao pagamento de 12 dias-multa, ante o suposto cometimento do delito descrito no artigo 157, § 2º (roubo majorado), incisos I e II (uso de arma e concurso de pessoas), do Código Penal. A pena-base foi aumentada em 2/5 pelo emprego de arma por corréu.
+    A 7ª Câmara Criminal negou o recurso da defesa, em que pleiteada a desclassificação para o delito de furto, bem como a substituição da pena privativa de liberdade por restritiva de direitos. Deu provimento ao recurso do Ministério Público, para afastar a minorante de participação de menor importância. De ofício, reviu a dosimetria da pena, elevando-a para 5 anos e 6 meses de reclusão, com 66 dias-multa. Justificou o aumento com base na jurisprudência da própria Câmara – ocorrendo duas causas de aumento, adota-se a fração de 3/8.
+    Embargos de declaração foram desprovidos em razão da ausência de vícios. Interpôs-se recurso especial, inadmitido na origem, em observância, por simetria, ao Verbete nº 284 da Súmula do Supremo. Protocolou-se agravo de instrumento, desprovido pelo relator no Superior Tribunal de Justiça, com fundamento no artigo 34, inciso VII, do próprio Regimento Interno. A decisão transitou em julgado em 24 de abril de 2008.
+    No Superior Tribunal de Justiça, impetrou-se o Habeas Corpus nº 317.777/RJ, alegando-se constrangimento ilegal quanto ao regime inicialmente fechado, que teria sido determinado de maneira injustificada. Aduziu-se que o aumento da reprimenda ante o emprego de arma de fogo consiste dupla punição. Postulou-se a modificação do regime prisional. O relator indeferiu a liminar. Formalizou-se agravo regimental, desprovido pela Quinta Turma, por entender que houve supressão de instância.
+    Neste habeas, a impetrante renova os argumentos alusivos à insuficiência da fundamentação quanto ao regime inicial de cumprimento da pena. Aponta as condições subjetivas favoráveis, bem como o tratamento desigual dado a corréu, cujo processo foi desmembrado, tendo sido imposto o regime semiaberto. Destaca que considerar o uso de arma de fogo para aumentar a pena-base e agravar o regime inicial implica dupla valoração.
+    Requer, liminarmente, a declaração da nulidade da decisão em que determinado regime mais gravoso e a fixação do semiaberto para o cumprimento da pena. No mérito, busca a confirmação da providência.
+    A fase é de exame da medida acauteladora.
+    2. O regime de cumprimento da pena, considerados os patamares legais, é fixado, a teor do disposto no artigo 33, § 3º, do Código Penal, ante as circunstâncias judiciais. O caráter positivo destas conduziu à imposição da pena-base no mínimo previsto para o tipo mas, ainda assim, estabeleceu-se o regime fechado. Sob esse ângulo, mostra-se relevante o pedido formalizado, porquanto o regime de cumprimento da pena é norteado pela pessoalidade. Além de não haver prova de o corréu ter sido beneficiado com o semiaberto, o fato surge como neutro, considerado o pleito ora examinado.
+    3. Defiro a liminar pleiteada. Observem o regime semiaberto até o julgamento final deste habeas corpus, quanto à sentença proferida pelo Juízo da 25ª Vara Criminal da Comarca da Capital/RJ, no Processo nº 2004.001.139251-0.
+    4. O curso deste habeas corpus não prejudica o de nº 317.777/RJ, formalizado no Superior Tribunal de Justiça. Com a homenagem merecida, remetam cópia desta decisão ao relator, ministro Jorge Mussi.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília – residência –, 11 de março de 2016.
+Ministro MARCO AURÉLIO
+Relator
