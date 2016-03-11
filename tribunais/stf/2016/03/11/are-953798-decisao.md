@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “ADMINISTRATIVO – MANDADO DE SEGURANÇA – REEXAME NECESSÁRIO – APELAÇÃO – SERVIDOR PÚBLICO ESTADUAL – POLICIAL CIVIL – APOSENTADORIA ESPECIAL – PROMOÇÃO – CLASSE IMEDIATAMENTE SUPERIOR – ART. 3º DA LC Nº 23/1991 – PRAZO DO REQUERIMENTO – 60 (SESSENTA DIAS) DA AQUISIÇÃO DO TEMPO DE SERVIÇO – PEDIDO DE APOSENTADORIA – DESISTÊNCIA – NOVO REQUERIMENTO – CONCESSÃO DA PROMOÇÃO – IMPOSSIBILIDADE – PRAZO ESGOTADO – SENTENÇA REFORMADA – RECURSO PREJUDICADO. O art. 3º da Lei Complementar nº 23/1991 prevê a possibilidade de promoção à classe imediatamente superior quando da aposentadoria, desde que o pedido seja formulado dentro do prazo legal (60 dias). Não faz jus à promoção por aposentadoria o servidor que protocolou o pedido no prazo previsto em lei, mas requereu seu cancelamento para buscar promoção por merecimento, tendo, anos depois, realizado novo requerimento, fora do prazo legal. Em reexame necessário, reformar a sentença para denegar a segurança. Recurso voluntário prejudicado.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, XXXVI, e 37, caput, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob os fundamentos de que: (i) incidem, no caso, as Súmulas 279 e 280/STF; e (ii) eventual ofensa ao texto constitucional somente ocorreria de maneira indireta ou reflexa.
+    O recurso extraordinário é inadmissível. Isso porque, para chegar a conclusão pretendida pela parte recorrente, seriam imprescindíveis o reexame dos fatos e o material probatório constantes dos autos e da legislação local pertinente (Lei Complementar nº 23/1991), providências vedadas neste momento processual, nos termos das Súmulas 279 e 280/STF.
+     Ademais, é firme o entendimento desta Corte no sentido de que a controvérsia relativa à existência de direito adquirido e de ato jurídico perfeito, quando dependente da análise de legislação infraconstitucional, não enseja a abertura da via extraordinária.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 11 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
