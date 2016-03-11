@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA NULA. FGTS. INCIDÊNCIA DO ART. 19-A DA LEI N. 8.036/1990. PRECEDENTES. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “CONSTITUCIONAL E ADMINISTRATIVO. COMARCA DE PATROCÍNIO. APELAÇÃO CÍVEL. DESIGNAÇÃO TEMPORÁRIA PARA EXERCER FUNÇÃO PÚBLICA. CONTRATAÇÃO NULA. AUSÊNCIA DE CONCURSO PÚBLICO. FGTS. DIREITO AO RECOLHIMENTO. REPERCUSSÃO GERAL. RE 596.478 RG/RR. PRESCRIÇÃO QUINQUENAL. DECRETO N° 20.910/32. REFORMA PARCIAL.
+    - A contratação de servidores públicos para exercer função de natureza permanente e habitual, independente de concurso público, configura ilegalidade e acarreta a nulidade do vínculo.
+    - Hipótese em que houve inobservância à lei local que estabelece o tempo máximo de duração dos contratos para que a necessidade pública possa ser considerada temporária.
+    - A declaração de nulidade do contrato de trabalho em razão da ocupação de cargo público sem a necessária aprovação em prévio concurso público, consoante previsto no art. 37, II, da CF/88, gera para o trabalhador o direito ao levantamento das quantias depositadas na sua conta vinculada ao FGTS, a título de indenização.
+    - O egrégio STF reconheceu, no Recurso Extraordinário (RE) 596.478 RG/RR, o direito aos depósitos do Fundo de Garantia do Tempo de Serviço (FGTS) aos trabalhadores que tiverem o contrato de trabalho com a Administração Pública declarado nulo em função da inobservância da regra constitucional de prévia a provação em concurso público.
+    - Se a pretensão tem por base o pagamento de verbas salariais decorrentes da função exercida na Administração Pública, a prescrição atinge somente as parcelas vencidas antes do quinquênio que precede à propositura da ação.
+    - Recurso provido em parte” (doc. 1).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Recorrente alega contrariados os arts. 37, incs. IX e X, e 39, § 3º, da Constituição da República, asseverando que
+    “o art. 39, § 3º, da CR/88, expressamente excluiu o direito ao FGTS, direito estabelecido no art. 7º, III, da CR/88, do rol dos direitos de ocupantes de cargo ou função pública, ainda que temporariamente sob o chamado regime especial.
+    Por isso, sem lei que autoriza referido gasto, não pode nem mesmo haver tal determinação, por tratar-se de direito não amparado pela Constituição.
+    Destaca-se, ademais, que o contrato temporário, por ter natureza administrativa, pode ser rescindido unilateralmente pela Administração Pública a qualquer momento, sem que daí decorra qualquer obrigação trabalhista, mormente direito não previsto no art. 39, § 3º, ou em qualquer outra norma” (doc. 2).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. Reconhecida a nulidade da contratação temporária da Recorrida, na linha da jurisprudência deste Supremo Tribunal, deve-se aplicar o art. 19-A da Lei n. 8.036/1990 e assegurar-se o pagamento do Fundo de Garantia por Tempo de Serviço.
+    No julgamento do Recurso Extraordinário n. 596.478/RR, Relatora a Ministra Ellen Gracie, Redator para o acórdão o Ministro Dias Toffoli, o Plenário do Supremo Tribunal Federal decidiu:
+    “Recurso extraordinário. Direito Administrativo. Contrato nulo. Efeitos. Recolhimento do FGTS. Artigo 19-A da Lei nº 8.036/90. Constitucionalidade. 1. É constitucional o art. 19-A da Lei nº 8.036/90, o qual dispõe ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário. 2. Mesmo quando reconhecida a nulidade da contratação do empregado público, nos termos do art. 37, § 2º, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados. 3. Recurso extraordinário ao qual se nega provimento” (DJe 1º.3.2013).
+    Confiram-se também, como exemplos, os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Contratação temporária. Nulidade do contrato. Direito ao recebimento do Fundo de Garantia por Tempo de Serviço. Repercussão geral reconhecida. Precedentes. 1. O Plenário da Corte, no exame do RE nº 596.478/RR-RG, Relator para o acórdão o Ministro Dias Toffoli, concluiu que, “mesmo quando reconhecida a nulidade da contratação do empregado público, nos termos do art. 37, § 2º, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados”. 2. Essa orientação se aplica também aos contratos temporários declarados nulos, consoante entendimento de ambas as Turmas. 3. Agravo regimental não provido” (ARE n. 867.655-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 4.9.2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. NULIDADE. DIREITO AO DEPÓSITO DO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO – FGTS. RE 596.478-RG. REPERCUSSÃO GERAL RECONHECIDA. JULGAMENTO DE MÉRITO. 1. O Fundo de Garantia do Tempo de Serviço - FGTS é devido aos servidores temporários, nas hipóteses em há declaração de nulidade do contrato firmado com a Administração Pública, consoante decidido pelo Plenário do STF, na análise do RE 596.478-RG, Rel. para o acórdão Min. Dias Toffoli, DJe de 1/3/2013” (RE n. 830.962-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 25.11.2014).
+    O acórdão recorrido harmoniza-se com esse entendimento, pelo que nada há a prover quanto às alegações do Recorrente.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de março de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
