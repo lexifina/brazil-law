@@ -1,0 +1,23 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizado pelo Município de Macapá em face de ato da 2ª Vara do Trabalho de Macapá do Tribunal Regional do Trabalho da 8ª Região, no âmbito do Processo 0001222-44.2014.5.08.0202, o qual determinou o bloqueio de numerário da conta da parte Reclamante, em decorrência de créditos devidos por esta em relação à sociedade empresária Clean Gestão Ambiental Serviços Gerais Ltda.
+    Sustenta-se, em síntese, o seguinte:
+    “Fato é, que a decisão aqui reclamada institui, em desfavor da Fazenda Pública Municipal, sequestro de verba pública para satisfação de débito reconhecido por força de decisão judicial distinta da hipótese constitucionalmente prevista e asseverada pelo STF na ADI nº 1.662/DF, qual seja, ‘[a] inobservância da ordem cronológica de apresentação do ofício requisitório’.” (eDOC 1, p. 19)
+    Em relação à plausibilidade jurídica das alegações postas na inicial, alega-se que “A exposição fático-jurídica, bem como os documentos anexados aos autos, é suficiente para demonstrar a violação e o desrespeito ao que decidido por essa Egrégia Corte, capaz de convencer o nobre julgador quanto a verossimilhança do que fora alegado”. (eDOC 1, p. 19)
+    No tocante ao dano irreparável, tem-se que o ente federativo estaria sujeito a inúmeros bloqueios judiciais em reclamações trabalhistas, com volumoso impacto em suas finanças públicas.
+    É o relatório. Passo ao exame do pedido liminar.
+    A reclamação é o instrumento previsto pela Constituição, em seu art. 102, I, “l”, para a preservação da competência do Supremo Tribunal Federal e garantia da autoridade de suas decisões. Nesse último caso, a decisão deve ter sido proferida com efeitos vinculantes, ou prolatada no caso concreto.
+    Tem-se como requisito indispensável para o cabimento de reclamação a relação de pertinência estrita entre o ato reclamado e o parâmetro de controle, não sendo possível a sua utilização como sucedâneo recursal.
+    Nesse sentido, confiram-se os seguintes julgados: Rcl 7.082 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 11.12.2014; Rcl 11.463 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 13.02.2015; Rcl 15.956 ED, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 05.03.2015; Rcl 12.851 AgR-segundo, Rel. Min. Luiz Fux, Primeira Turma, DJe de 26.03.2015.
+    Em que pese a existência de severas dúvidas sobre a cognoscibilidade da demanda pela via da reclamação constitucional, constata-se prima facie uma potencial violação à sistemática especial de pagamentos de débitos judiciais da Fazenda Pública, com guarida no art. 100 da Constituição da República.
+    Ademais, os bens públicos são impenhoráveis, o que, como regra geral, impede o bloqueio de numerário de recursos públicos pertencentes ao ente federativo, mesmo no caso de existir créditos em favor da sociedade empresária Intimada.
+    Por outro lado, o perigo de dano irreparável ou de difícil reparação é evidente, na medida em que está em jogo a continuidade dos serviços públicos os quais seriam prejudicados na hipótese do referido bloqueio de verbas pretendido pela autoridade reclamada.
+    Ademais, conforme consta no ato reclamado, a sociedade empresária Intimada encontra-se em vias de insolvência, o que dificultaria sobremaneira a recuperação dos valores, caso estes se mostrarem posteriormente indevidos.
+    Por conseguinte, diante da sumariedade da cognição própria desse juízo, entendo que, por cautelaridade, em caráter provisório, o ato reclamado deve ter sua eficácia suspensa, para fins de melhores esclarecimentos sobre o contexto jurídico-normativo que o ensejou.
+    Ante o exposto, defiro a medida cautelar pleiteada pela parte Reclamante, sujeita a revisão superveniente, inclusive com nova análise dos pressupostos de admissibilidade desta ação, para fins de, por ora, suspender o ato reclamado, isto é, a eficácia da ordem de bloqueio de numerário das contas do Município de Macapá, emitida pela juízo da 2ª Vara do Trabalho de Macapá do Tribunal Regional do Trabalho 8ª Região, no âmbito do Processo 0001222-44.2014.5.08.0202.
+    Comunique-se, com urgência e pelo meio mais expedito, inclusive via fax, o teor da presente decisão à Presidência do Tribunal Regional do Trabalho 8ª Região e ao juízo da 2ª Vara do Trabalho de Macapá do Tribunal Regional do Trabalho 8ª Região.
+    Ademais, requisitem-se informações da parte Reclamada, que as prestará no prazo de dez dias, conforme previsto no art. 14, I, da Lei 8.038/90.
+    Após, venham-me os autos conclusos, ressalvada a possibilidade de novo juízo de cognição sumária, à luz do artigo 807, caput, do CPC.
+    Publique-se.
+    Brasília, 11 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
