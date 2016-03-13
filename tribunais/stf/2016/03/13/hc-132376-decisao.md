@@ -1,0 +1,31 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra decisão monocrática, proferida no âmbito do Superior Tribunal de Justiça, que indeferiu liminarmente o HC n°. 343.606/SP.
+    Narra o impetrante que: a) a prisão preventiva foi imposta sem lastro concreto que justifique a cautelaridade da custódia, na medida em fundada tão somente na suposta periculosidade de corréu; b) há excesso de prazo na formação da culpa.
+    É o relatório. Decido.
+    1. Cabimento do habeas corpus:
+    Não se inaugura a competência deste Supremo nas hipóteses em que não esgotada a jurisdição antecedente, visto que tal proceder acarretaria indevida supressão de instância, dado o cabimento de agravo regimental. Precedentes:
+    “Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição, à falta de manejo de agravo regimental ao Colegiado, não se esgotou.”(HC 123926, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 14/04/2015, grifei)
+    “Inexistindo deliberação colegiada do Superior Tribunal de Justiça a respeito da questão de fundo suscitada pelo impetrante, não compete ao Supremo Tribunal Federal analisá-la originariamente, sob pena de indevida supressão de instância.” (HC 124561 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 10/02/2015, grifei)
+    2. Possibilidade de concessão da ordem de ofício:
+    Ainda que ausentes hipóteses de conhecimento, a Corte tem admitido, excepcionalmente, a concessão da ordem de ofício.
+    Calha enfatizar que tal providência tem sido tomada tão somente em casos absolutamente aberrantes e teratológicos, em que “a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF” (HC 95009, Rel. Min. Eros Grau, Tribunal Pleno, julgado em 06/11/2008, grifei).
+    Devido ao caráter excepcional da superação do verbete sumular, a ilegalidade deve ser cognoscível de plano, sem a necessidade de produção de quaisquer provas ou colheita de informações. Nesse sentido, não pode ser atribuída a pecha de flagrante à ilegalidade cujo reconhecimento demande dispendioso cotejamento dos autos ou, pior, que desafie a complementação do caderno processual por meio da coleta de elementos externos.
+    Como reforço, cumpre assinalar que o Código de Processo Penal, ao permitir que as autoridades judiciárias concedam a ordem de ofício em habeas corpus, apenas o fez quanto aos processos que já lhes são submetidos à apreciação:
+    “Art. 654. (…)
+    (…)
+    § 2o Os juízes e os tribunais têm competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.”
+    De tal modo, ao meu sentir, não se admite que o processo tenha como nascedouro, pura e simplesmente, a alegada pretensão de atuação ex officio de Juiz ou Tribunal, mormente quando tal proceder se encontra em desconformidade com as regras de competência delineadas na Constituição da República. Em outras palavras: somente se cogita da expedição da ordem de ofício nas hipóteses em que não se desbordar da competência do órgão, de modo que essa não pode ser a finalidade precípua da impetração.
+    3. Análise da possibilidade de concessão da ordem de ofício no caso concreto:
+    No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Em relação aos requisitos da prisão preventiva, a decisão proferida pelo Juiz singular aponta que o paciente, na companhia de outros acusados, teria participado da tentativa de homicídio da vítima JOSÉ NOVAES JUNIOR. Argumentou-se, na oportunidade, que a execução teria sido precedida de minuciosa preparação e implementada de forma especialmente gravosa, com deflagração de diversos disparos que poderiam ter causado a morte dos demais passageiros do veículo em que a vítima se encontrava (há menção de ocorrência de lesões corporais). Embora o paciente seja acusado de ter atuado como motorista dos demais denunciados, não é possível, na estreita via do habeas corpus, reconhecer uma sensível distinção de periculosidade entre os envolvidos, até porque, num primeiro olhar, a suposta premeditação, com pleno conhecimento prévio das singularidades da execução vindoura, depõe contra o paciente. Portanto, não há teratologia na decisão atacada.
+    Quanto ao excesso de prazo, as informações prestadas pelo Juiz da causa dão conta de que a defesa do paciente foi intimada duas vezes para apresentar alegações finais, que “desloca o tempo de término do processo por sua exclusiva responsabilidade”. Não bastasse, verifico a superveniente prolação de sentença de pronúncia, a prejudicar referida alegação:
+    “A superveniência de decisão de pronúncia, que reafirma a necessidade da prisão cautelar, torna prejudicado o habeas corpus ou o recurso ordinário em habeas corpus interposto sob o fundamento de excesso de prazo da instrução criminal (HC 103.020, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 06.05.11; HC 100.567, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 06.04.11; RHC 95.207, Primeira Turma, Relator o Ministro Ricardo Lewandowsk. (RHC 123730 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 12/05/2015)“
+    “Superação do alegado excesso de prazo ante a superveniência da sentença de pronúncia. Precedentes. (HC 124804, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 03/03/2015)”
+    “Segundo o entendimento desta Corte, fica superada a alegação de excesso de prazo com a superveniência da sentença de pronúncia. Precedentes. (HC 118065, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 10/12/2013)“
+    Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF, ou de flagrante hipótese de constrangimento ilegal, não é o caso de concessão da ordem de ofício.
+    Posto isso, com fulcro no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 13 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
