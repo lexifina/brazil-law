@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido ao Tribunal de Justiça do Estado de Santa Catarina, por entender que a controvérsia estaria representada na sistemática da repercussão geral (tema 218), cujo paradigma é o RE-RG 588.954, de minha relatoria, DJe 13.11.2009. (fl. 397)
+    Encaminhados os autos ao Tribunal de origem, este entendeu que a discussão não se amolda ao paradigma indicado. (fl. 399).
+    Assiste razão ao Tribunal de origem. Desse modo, torno sem efeito a decisão de fl. 397 e passo à apreciação do recurso.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Santa Catarina, assim ementado:
+    “TRIBUTÁRIO. ICMS. COMPENSAÇÃO DE CRÉDITOS. CONVÊNIO N.º 66/88. CONSTITUCIONALIDADE. ‘Não implicará crédito para compensação com o montante do imposto devido nas operações ou prestações seguintes, a entrada de bens destinados a consumo ou à integração no ativo fixo do estabelecimento (art. 31, II, do Convênio ICMS 66/88). Se não há saída do bem, ainda que na qualidade de componente do produto industrializado, não há falar-se em cumulatividade tributária’ (STF- RE 200.168)”. (fl. 209)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 155, II e § 2°, do texto constitucional.
+    Nas razões recursais, alega-se que a não cumulatividade do ICMS é um imperativo constitucional, que não pode ter aplicação limitada, pela normatização infraconstitucional, à cadeia de circulação de cada bem.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o acórdão recorrido está em consonância com a jurisprudência desta Corte que se firmou no sentido de que não ofende o princípio da não cumulatividade a inexistência de direito a crédito de ICMS pago em razão da aquisição de bens destinados ao ativo fixo da empresa.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “Agravo regimental no recurso extraordinário. Creditamento. Não ocorrência. Aquisição de produtos intermediários. Consumidor final. Direito ao crédito. Impossibilidade. Aquisição de bens destinados ao ativo fixo ou de materiais de uso e consumo. Ausência de ofensa ao princípio da não cumulatividade. Agravo não provido. 1. É pacífica a jurisprudência desta Corte no sentido de não reconhecer o direito de creditamento do valor do ICMS, no período anterior à vigência da Lei Complementar nº 87/96, quando pago em razão da aquisição de bens para o ativo fixo do contribuinte. 2. A aquisição de produtos intermediários aplicados no processo produtivo que não integram fisicamente o produto final não gera direito ao crédito de ICMS, uma vez que a adquirente, nesse caso, mostra-se como consumidora final. Precedentes. 3. Agravo regimental não provido”. (RE-AgR 540.588/MG, Rel. Min. Dias Toffoli, Primeira Turma, DJe 21.3.2013)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. CREDITAMENTO. NÃO OCORRÊNCIA. AQUISIÇÃO DE BENS DESTINADOS AO ATIVO FIXO. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA NÃO CUMULATIVIDADE. MEDIDA CAUTELAR APRECIADA PELO PLENÁRIO. JULGAMENTO IMEDIATO DE OUTRAS CAUSAS SOBRE IDÊNTICA CONTROVÉRSIA. POSSIBILIDADE. AGRAVO IMPROVIDO. I - A decisão agravada está de acordo com entendimento adotado por ambas as Turmas desta Corte, que consolidaram a jurisprudência no sentido de que não ofende o princípio da não cumulatividade a inexistência de direito a crédito de ICMS pago em razão da aquisição de bens destinados ao ativo fixo da empresa. Precedentes. II - A existência de decisão em controle abstrato, na qual a medida cautelar foi indeferida, não impede o julgamento de outros processos sobre idêntica controvérsia. Precedentes. III - Agravo regimental improvido”. (RE-AgR 644.541/MG, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 26.4.2012)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 14 de março de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
