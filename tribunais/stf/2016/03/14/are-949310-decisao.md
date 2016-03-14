@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. PLANO DE CARGOS E SALÁRIOS. PROMOÇÃO POR MERECIMENTO: OMISSÃO DO EMPREGADOR. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Superior do Trabalho:
+    “RECURSO DE REVISTA. PROMOÇÕES POR MERECIMENTO. NECESSIDADE DE DELIBERAÇÃO DA DIRETORIA. AVALIAÇÃO DE DESEMPENHO. REQUISITO IMPRESCINDÍVEL.
+    A jurisprudência sedimentada no âmbito da SBDI-1 deste Tribunal estabelece que as promoções por merecimento, em face de seu caráter subjetivo, estão condicionadas aos critérios do regulamento empresarial, sendo essencial a deliberação da diretoria. Dessa forma, na hipótese de omissão do empregador em proceder à avaliação de desempenho funcional do empregado, não impõe considerar implementadas as condições inerentes à progressão por merecimento, o que ocorreu, na hipótese.
+    Recurso de revista conhecido e provido” (fl. 1, doc. 33).
+    2. No recurso extraordinário, o Agravante alega ter o Tribunal de origem contrariado os arts. 1º, inc. III, 5º, caput e incs. LIV, 7º, caput e incs. IV e VI, 37, 173, § 1º, inc. II, e 170, inc. VIII, da Constituição da República.
+    Afirma que “a agravada instituiu Plano de Cargos e Salários prevendo o aumento (progressão) salarial por critério de merecimento, cujos critérios seriam definidos em regulamentação específica. Assim, assegurou-se aos empregados, dentre eles o agravante, aumentos salariais baseados em avaliações de desempenho, as quais deveriam ter sido estipuladas por normas internas. … O que se nota, portanto, é que o próprio TST já decidiu diferente em diversos outros casos ENVOLVENDO O MESMO ASSUNTO. Porém, como consta do v. acórdão do C. TST, hoje o posicionamento daquela Corte (Seção de Dissídios Individuais) está no sentido de que estas diferenças não são devidas, mesmo que haja previsão no plano e a reclamada (recorrida) tenha se mostrado inerte em implantá-las” (fls. 6-11, doc. 51).
+    3. Inadmitiu-se o recurso extraordinário ao fundamento de ausência de ofensa direta à Constituição.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. No art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu-se que o agravo contra inadmissão de recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A apreciação do pleito recursal demandaria exame prévio da legislação infraconstitucional aplicável à espécie (Consolidação das Leis do Trabalho e Código Civil) e do ato normativo pelo qual se instituiu o Plano de Cargos e Salários da categoria. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “Agravo regimental no agravo de instrumento. Trabalhista. Prequestionameto. Ausência. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alegam violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido” (AI n. 714.433-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 17.8.2011).
+    “TRABALHISTA. ART. 461, § 2º, DA CLT. SÚMULA 6 TST. MATÉRIA INFRACONSTITUCIONAL. ART. 7º, XXVI, DA CF: OFENSA INDIRETA. 1. A matéria debatida nos autos não possui índole constitucional, porque depende de prévio exame da legislação infraconstitucional na qual se fundou o acórdão recorrido. 2. A eventual ofensa ao art. 7º, XXVI, seria indireta ou reflexa, o que elide o processamento do recurso extraordinário. 3. Agravo regimental improvido” (RE n. 602.626-AgR, Relatora Ministra Ellen Gracie, Segunda Turma, DJe 25.10.2010).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 14 de março de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
