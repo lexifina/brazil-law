@@ -1,0 +1,23 @@
+Vistos etc.
+    Aplicada a sistemática da repercussão geral e devolvido o recurso à origem para os fins do art. 543-B do CPC, considerado o ARE 637.975, retornam os autos a esta Suprema Corte, com a informação de que a questão em exame é distinta da veiculada no citado paradigma.
+    É o relatório.
+    Decido.
+    Assiste razão.
+    A matéria, de fato, não guarda identidade com aquela submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no ARE 637.975.
+    Ante o exposto, torno sem efeito a decisão pela qual aplicado o art. 543-B do CPC, e passo ao exame do recurso.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário, interposto com fundamento no art. 102, III, “d”, da Lei Maior, reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação do art. 5º, XXXV, da Constituição Federal.
+    Nada colhe o agravo.
+    Não se mostra cabível o apelo extremo pelo permissivo da alínea “d” do art. 102, III, da CF/88, deixando o Tribunal de origem de julgar válida lei local contestada em face de lei federal. Colho os seguintes precedentes o RE 633.421-AgR/MS, 1ª Turma, Rel. Min. Cármen Lúcia, unânime, DJe 12.4.2011; e o RE 597.003-AgR/RJ, 2ª Turma, Rel. Min. Eros Grau, unânime, DJe 29.5.2009, verbis:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. PROMOÇÃO. LEI COMPLEMENTAR ESTADUAL N. 53/1990. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO PELAS ALÍNEAS C E D DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    (…)
+    1. A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 do Supremo Tribunal Federal.
+    2. Acórdão recorrido que não julgou válida lei ou ato de governo local contestado em face da Constituição, tampouco julgou válida lei local contestada em face de lei federal. Inviabilidade da admissão do recurso extraordinário interposto com fundamento nas alíneas “c” e “d” do artigo 102, III, da Constituição.
+    3. Agravo regimental a que se nega provimento”.
+    Ademais, deixou o recorrente de demonstrar qual norma de direito local contestada em face de lei federal teria sido julgada válida. Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula 284/STF: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.” Nesse sentido: ARE 656.357-AgR, 2ª Turma, rel. Min. Joaquim Barbosa, DJe 23.02.2012; AI 762.808-AgR, 2ª Turma, rel. Min. Ayres Britto, DJe 30.3.2012; RE 356.310-AgR-segundo, 1ª Turma, Rel. Min. Dias Toffoli, DJe 11.10.2011; RE 656.256-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 05.3.2012; ARE 944168 AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 11.3.2016; e AI 833240 AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 26-02-2014, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. TRANSPORTE PÚBLICO COLETIVO URBANO. GRATUIDADE A IDOSOS. RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NAS ALÍNEAS A, C E D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO APELO EXTREMO. SÚMULA 284 DO STF. INOCORRÊNCIA DE CONFLITO DE COMPETÊNCIA LEGISLATIVA. AGRAVO A QUE SE NEGA PROVIMENTO. I - É deficiente a fundamentação do recurso que não particulariza de que forma ocorreu a alegada ofensa à Constituição. Incidência da Súmula 284 do STF. II - A admissão do recurso extraordinário pela alínea d do inciso III do art. 102 da Constituição Federal pressupõe a ocorrência de conflito de competência legislativa entre os entes da Federação. Dessa forma, é incabível o apelo extremo, fundado no aludido dispositivo, cuja pretensão seja provocar o reexame da interpretação de norma infraconstitucional conferida pelo Juízo de origem. III - Agravo regimental a que se nega provimento.” (destaquei)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Ante o exposto, torno sem efeito a decisão pela qual aplicado o art. 543-B do CPC, e nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de março de 2016.
+Ministra Rosa Weber
+Relatora
