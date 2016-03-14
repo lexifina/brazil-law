@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 33ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 189):
+    “REEXAME NECESSÁRIO. AÇÃO DE INDENIZAÇÃO. NEGLIGÊNCIA MÉDICA. DANO MORAL CARACTERIZADO. RESPONSABILIDADE OBJETIVA DO PODER PÚBLICO. EXEGESE DO § 6º ART. 37 DA CF/88. DEVER DO ESTADO DE INDENIZAR. QUANTUM INDENIZATÓRIO ARBITRADO COM RAZOABILIDADE. MANUTENÇÃO DO VALOR FIXADO. SENTENÇA INTEGRALIZADA. RECURSO DESPROVIDO.
+    1. Em se tratando de poder público, a teoria do risco administrativo, consagrada no art. 37, § 6º, da Constituição Federal, confere fundamento doutrinário à responsabilidade civil objetiva do Poder Público pelos danos a que os agentes públicos houverem dado causa, por ação ou omissão, independente da prova da culpa na prática da lesão, somente se eximindo a administração, quando houver culpa exclusiva da vítima ou força maior.
+    2. O conjunto probatório encartado nos autos, não deixa a menor dúvida de que houve negligência por parte dos profissionais do hospital, evidenciada pela demora no atendimento da autora, sem qualquer justificativa para tanto, devendo o Estado responder por tal omissão.
+    3. Sentença integralizada. Recurso desprovido.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 10-14).
+    No recurso extraordinário (eDOC 2, p. 19-28), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 37, § 6º, do Texto Constitucional.
+    Sustenta-se, em síntese, o seguinte (eDOC 2, p. 26):
+    “Portanto, não há nexo causal entre a ação do Estado e o alegado dano suportado pela Recorrida, isto porque o Estado de Roraima prestou o serviço de atendimento médico dentro dos padrões legais e aceitáveis, não procedendo de qualquer forma com culpa ou omissão que possam ter gerado tais sequelas.
+    A pretensão indenizatório não merece guarida porque desprovida dos requisitos ensejadores da figura do dano moral, quais sejam: conduta ilícita, resultado lesivo e comprovado nexo causal entre a conduta ilícita e o resultado lesivo.”
+    Alega-se, ainda, desproporcionalidade na fixação do valor da indenização.
+    A Presidência do TJ/RR inadmitiu o recurso extraordinário com base na Súmula 279 do STF (eDOC 2, p. 43-44).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Quando do julgamento do reexame necessário da sentença, o Tribunal de origem assentou que (eDOC 1, p. ):
+    “Na esteira desse entendimento, constata-se que a sentença em reexame, merece ser confirmada pelos seus próprios fundamentos, os quais ficam inteiramente adotados como razão de decidir pelo desprovimento da remessa necessária, que a seguir transcrevo:
+    (…)
+    Veja-se que o fundamente da indenização não é “falso” resultado positivo do exame de HIV, mas sim o atendimento prestado quando da internação da autora, que acabou por causar o falecimento de sua criança. No caso examinado, muito embora não se tenha elementos nos autos para concluir que a medicação prescrita pela médica tenha sido a causa da morte do bebê ou tenha contribuído para esta, tenho para mim, que a demora no atendimento resultou na morte da criança, extraio este entendimento do relatório médico acostado aos autos, in literis:
+    “... Fomos ver o prontuário da paciente e lá relatado dois testes Elisa para HIV discordantes (1 positivo e outro negativo) além do histórico de M.A. A mesma relatou que tinha colhido teste rápido para HIV na internação. Devido aos riscos apresentados, eu mesmo fui ao laboratório e pedi o resultado do teste em questão. Foi-me entregue pela bioquímica Rosilane Reis Rocha o resultado como NEGATIVO. Conduzi eu mesmo a paciente para a Ala das Orquídeas e passei o caso para a Dr. Rita, falando do resultado do Doppler e do teste rápido, para que não se perdesse tempo, porque não era necessário o uso de antiretrovirais pré-operatório. Como era meu dia de plantão noturno, voltei ao serviço para o plantão das 19 horas, onde me foi relatado que não tinha sido feita a cesária dessa paciente e que a mesma se encontrava na Ala das Violetas desde às 18;00 horas. Conforme a chegada dos plantonistas (que se deu das 19:15 às 19:30hs) fui ao Centro Cirúrgico para realização da cesária...”
+    Anote-se, como já assinalado fora registrado que o bebê encontrava-se em sofrimento fetal, pela falta de oxigenação e, mesmo assim, muito embora o médico tenha tido a cautela de registrar em relatório o ocorrido, se procedeu ao parto de emergência.
+    (...)
+    Desta forma, no caso em apreço, houve a comprovada negligência médica no atendimento da autora, que acabou por provocar a morte do seu filho logo após a ocorrência do parto cesariano, motivo pelo qual fora julgada procedente a demanda, mostrando-se que o desprovimento do presente reexame é medida que se impõe, adotando-se integralmente as razões de decidir do Magistrado sentenciante com o desiderato de evitar desnecessário repetição.”
+    Desta forma, constata-se que, de fato, eventual divergência ao entendimento adotado pelo juízo a quo acerca da responsabilidade do Estado demandaria o reexame de fatos e provas, de modo a inviabilizar o processamento do apelo extremo, tendo em conta o enunciado da Súmula 279 do STF. Neste sentido os seguintes precedentes: ARE 838.670 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 04.11.2014, ARE 678.522 AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.05.2012, RE 568.317 AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 23.09.2011 e AI 810.613 AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1º.02.2011.
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 544, § 4º, II, “a”, CPC, e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 14 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
