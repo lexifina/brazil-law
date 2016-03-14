@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação do art. 146, III, “a”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Colho precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Exceção de pré-executividade. Prescrição. Dilação probatória. Execução Fiscal. Demora na citação. Matéria infraconstitucional. Ofensa constitucional indireta ou reflexa. 1. Possui natureza infraconstitucional a discussão a respeito do prazo prescricional em sede de execução fiscal na qual se envolve o contexto da demora na citação em razão de circunstâncias ínsitas ao aparelhamento do Poder Judiciário. A afronta ao texto constitucional seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Precedentes. 2. Agravo regimental não provido.” (ARE 858514 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 25/08/2015, ACÓRDÃO ELETRÔNICO DJe-190 DIVULG 23-09-2015 PUBLIC 24-09-2015)
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA LEGAL E REPERCUSSÃO GERAL INADMITIDA – EXECUÇÃO FISCAL – PRESCRIÇÃO – ARTIGO 174, PARÁGRAFO ÚNICO, INCISO I, DO CÓDIGO TRIBUTÁRIO NACIONAL. O Supremo, consignando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema referente à ocorrência de prescrição em execução fiscal, nos termos do artigo 174, parágrafo único, inciso I, do Código Tributário Nacional, anteriormente à Lei Complementar nº 118/2005.” (ARE 735257 ED-AgR, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, julgado em 03/09/2013, ACÓRDÃO ELETRÔNICO DJe-184 DIVULG 18-09-2013 PUBLIC 19-09-2013)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de março de 2016.
+Ministra Rosa Weber
+Relatora
