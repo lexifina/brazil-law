@@ -1,0 +1,25 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Município de Roque Gonzales. Aparelhado o recurso na violação dos arts. 2º, 29, 29-A e 37 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    A Corte de origem decidiu a controvérsia em acórdão cuja fundamentação transcrevo:
+    “[...]
+    Conforme se observa no art. 4º da Lei Municipal 2.496/2013, a constituição do fundo contábil em questão - Fundo Especial de natureza contábil na Câmara Municipal de Roque Gonzales destinado à aquisição de bens imóveis e construção de sua sede própria - é resultante de economias financeiras dos repasses constitucionais do exercício corrente, de aplicações financeiras próprias e de doações específicas à finalidade a qual está vinculado o fundo.
+    Portanto, os recursos destinados ao fundo são, na integralidade, provenientes de dotação orçamentária do próprio Poder Legislativo, sem qualquer interferência em verbas do Poder Executivo.
+    Dessa forma, não se há falar em vício formal de iniciativa, pois a criação de fundo contábil com dotações orçamentárias próprias do Poder Legislativo não tem pertinência com a iniciativa de matéria orçamentária do Poder Executivo, uma vez que a lei objurgada não altera percentual de dotação orçamentária do Município destinado ao Legislativo.
+    Além disso, a lei não versa sobre aumento de despesas públicas sem a devida previsão orçamentária, inexistindo vício material.
+    Nessa esteira, igualmente não se há falar em ingerência por parte da Câmara de Vereadores sobre verba do Poder Executivo, inexistindo afronta ao princípio da separação e independência dos Poderes, previstos nos arts. 8º e 10 da Constituição Estadual.
+    Por fim, no tocante à alegação de que a lei municipal inquinada estaria a afrontar o princípio da anualidade do orçamento, não procede. Como estabelecem os arts. 72 e 73 da Lei Federal 4.320/1964, os recursos que alimentam fundos contábeis especiais, ali devem permanecer, havendo, ou não, o uso total pela Casa Legislativa, sem necessidade de devolução das sobras, in verbis:
+    […]
+    Portanto, a lei em questão não revela inconstitucionalidade formal ou material, pois é constitucional a criação de fundo especial de natureza contábil pelo Poder Legislativo, alimentado por recursos próprios [...]”
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DIREITO FINANCEIRO. DIREITO ADMINISTRATIVO. AMPLIAÇÃO DO PERÍODO DE ALOCAÇÃO DE RECURSOS ORÇAMENTÁRIOS. AGÊNCIA ESTADUAL DE REGULAÇÃO DOS SERVIÇOS PÚBLICOS DELEGADOS DO RIO GRANDE DO SUL – AGERGS. MEDIDA LIMINAR INDEFERIDA. VÍCIO DE INICIATIVA. CHEFE DO PODER EXECUTIVO DO ENTE FEDERATIVO. 1. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que não há violação, por vício de iniciativa, ao art. 61, § 1º, II, “e”, da Constituição Federal, quando a norma impugnada não cria, extingue ou altera órgãos administrativos, bem como quando não institui nova atribuição à órgão integrante da administração estatal. 2. Constata-se a inexistência de ofensa ao art. 165, III, do Texto Constitucional, uma vez que não se haure das disposições impugnadas tratamento de matéria orçamentária, notadamente vinculação ou destinação específica de receitas orçamentárias. 3. Ação direta de inconstitucionalidade a que se nega procedência.” (ADI 2528, Relator(a): Min. EDSON FACHIN, Tribunal Pleno, julgado em 25/11/2015, ACÓRDÃO ELETRÔNICO DJe-246 DIVULG 04-12-2015 PUBLIC 07-12-2015)
+    “PROCESSO LEGISLATIVO – POSSIBILIDADE DE O MUNICÍPIO, MEDIANTE LEI, OBRIGAR AS INSTITUIÇÕES FINANCEIRAS A INSTALAR, EM SUAS AGÊNCIAS, DISPOSITIVOS DE SEGURANÇA – QUESTÃO SEM REPERCUSSÃO NO ORÇAMENTO MUNICIPAL – INEXISTÊNCIA DE RESERVA DE INICIATIVA – PREVALÊNCIA DA REGRA GERAL DA INICIATIVA CONCORRENTE QUANTO À INSTAURAÇÃO DO PROCESSO DE FORMAÇÃO DAS LEIS – LEGITIMIDADE CONSTITUCIONAL DA INICIATIVA PARLAMENTAR – RECURSO DE AGRAVO IMPROVIDO.” (RE 681307 AgR, Relator(a): Min. CELSO DE MELLO, Segunda Turma, julgado em 09/04/2013, ACÓRDÃO ELETRÔNICO DJe-098 DIVULG 23-05-2013 PUBLIC 24-05-2013)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de março de 2016.
+Ministra Rosa Weber
+Relatora
