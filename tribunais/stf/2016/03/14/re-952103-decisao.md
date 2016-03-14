@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina, ementado, na parte que interessa, nos seguintes termos:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDORA PÚBLICA DO MUNICÍPIO DE SEARA. OCUPANTE DO CARGO EFETIVO DE FISIOTERAPEUTA. REDUÇÃO DA CARGA HORÁRIA DE 40 (QUARENTA) PARA 30 (TRINTA) HORAS SEMANAIS, POR FORÇA DA LEI FEDERAL N. 8.856/94. IMPOSSIBILIDADE. AUTONOMIA MUNICIPAL PARA DISPOR SOBRE A CARGA HORÁRIA DE SEUS SERVIDORES. PRECEDENTE DO STJ. SENTENÇA DE CONCESSÃO DE ORDEM MANTIDA EM PARTE. APELO E REMESSA PARCIALMENTE PROVIDOS”. (eDOC 6, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, caput e XXXVI; 37, caput e XV; e 22, I e XVI, do texto constitucional.
+    Nas razões recursais, alega-se que o Município recorrido não teria autonomia para dispor sobre a jornada de trabalho de seus servidores em afronta à legislação federal, bem como seria inconstitucional a redução proporcional dos vencimentos da recorrente, diante do princípio da irredutibilidade salarial.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei Federal 8.856/94, Lei Municipal 759/90, Leis Complementares Municipais 2/01 e 18/03, Decreto Municipal 686/14 e Portaria 61/14), consignou que deve prevalecer a jornada de trabalho estabelecida pelo ente municipal. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Denota-se que o Município de Seara expressamente disciplinou que o regime jurídico dos servidores municipais é de natureza estatutária, conforme se observa do art. 1º da Lei n. 759/90 (vigente quando a impetrante ingressou no serviço público municipal) e nas alterações posteriores advindas com o art. 76 da LCM n. 2/01 e art. 1º da LCM n. 18/03.
+    […]
+    Dada a autonomia municipal para fixar a jornada de trabalho dos servidores públicos do ente federativo, esta deve ser respeitada em detrimento de leis de iniciativa federal que versem sobre as profissões”. (eDOC 6, pp. 8 e 9)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDORA PÚBLICA. PSICÓLOGA. REGIME DE TRABALHO. EQUIPARAÇÃO DE JORNADA DE TRABALHO. ANÁLISE DE LEI LOCAL. SÚMULA 280. SÚMULA VINCULANTE 37. 1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia (Súmula Vinculante 37). 3. Agravo regimental a que se nega provimento”. (ARE-AgR 905.094, Rel Min. Edson Fachin, Primeira Turma, DJe 10.12.2015)
+    “Embargos de declaração em recurso extraordinário com agravo. 2. Decisão monocrática. Embargos recebidos como agravo regimental. 3. Administrativo. Proventos. Incorporação. Abono-permanência e jornada complementar. 4. Necessidade de reexame da legislação local, Leis 6.590/1994 e 7.169/1996 do município de Belo Horizonte, bem como do conjunto fático-probatório. Incidência das súmulas 280 e 279. 5. Ausência de argumentos suficientes a infirmar a decisão recorrida. 6. Agravo regimental a que se nega provimento”. (ARE-ED 892.367, de minha relatoria, Segunda Turma, DJe 1.9.2015)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 14 de março de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
