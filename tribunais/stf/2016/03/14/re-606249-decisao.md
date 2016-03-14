@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+      “AÇÃO DIRETA DE INCONSTITUCIONALIDADE - LEI MUNICIPAL 3.272/06 - AFRONTA AOS ARTIGOS 66, III, I, 170, PARÁGRAFO ÚNICO E 173, 'CAPUT', DA CARTA ESTADUAL. Feridos os princípios da harmonia e separação dos poderes, além de afrontar ao pacto federativo e invasão da competência privativa do Poder Executivo, é inconstitucional a norma em questão, que, ademais, cria despesa ao Município sem a correspondente fonte de custeio/receita. Representação acolhida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 63, I; e 93, IX, da Constituição.
+    O recurso não deve ser provido. O Supremo Tribunal Federal possui orientação no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ademais, observa-se que a decisão proferida pelo Tribunal de origem está alinhada à jurisprudência desta Corte, firme no sentido de que há inconstitucionalidade formal na lei de iniciativa parlamentar que cria atribuições a órgãos públicos pertencentes ao Poder Executivo. Nessa linha, confira-se a ementa do RE 578.017-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. CONTROLE DE CONSTITUCIONALIDADE. DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO TRIBUNAL DE ORIGEM EM FACE DA CONSTITUIÇÃO ESTADUAL. LEI MUNICIPAL 3.524/2003. LEI QUE DISPÕE SOBRE ATRIBUIÇÃO DE ÓRGÃOS DA ADMINISTRAÇÃO PÚBLICA. VÍCIO FORMAL. INICIATIVA DO PODER EXECUTIVO. AGRAVO IMPROVIDO.
+    I - O acórdão recorrido encontra-se em consonância com o entendimento desta Corte, no sentido de que é inconstitucional a lei proveniente de iniciativa parlamentar que disponha sobre atribuições de órgãos da Administração Pública. Precedentes.
+    II - Agravo regimental improvido.”
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 14 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
