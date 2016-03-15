@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PROFESSOR. VANTAGEM DENOMINADA “PRÊMIO EDUCAR”. VEDAÇÃO LEGAL DE EXTENSÃO A PROFESSORES AFASTADOS DA ATIVIDADE DOCENTE POR MOTIVO DE FÉRIAS. INCIDÊNCIA AFASTADA. AFRONTA À CLÁUSULA DE RESERVA DE PLENÁRIO. SÚMULA VINCULANTE Nº 10. ACÓRDÃO RECORRIDO EM DIVERGÊNCIA COM O ENTENDIMENTO DESTA CORTE. RECURSO PROVIDO. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM.
+    DECISÃO: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que possui a seguinte ementa:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONCESSÃO DE FÉRIAS. PRÊMIO EDUCAR. SUPRESSÃO. INADMISSIBILIDADE. INTELIGÊNCIA DO ARTIGO 93 DA LEI ESTADUAL N. 6.844/1986. PROCEDÊNCIA DO PEDIDO. ‘O professor afastado da atividade docente por motivo de férias não deixa de receber o Prêmio Educar, sob pena de caracterização de decesso remuneratório’ (Ap. Cív. n. 2010.023000-6, rel. Des. Jânio Machado).
+    HONORÁRIOS ADVOCATÍCIOS. QUANTIDADE EXPRESSIVA DE AÇÕES UNIPESSOAIS PATROCINADAS PELOS MESMOS CAUSÍDICOS. NATUREZA DA MATÉRIA QUE AUTORIZA A PROPOSITURA DE AÇÕES COM LITISCONSÓRCIO MULTITUDINÁRIO. CAUSA SINGELA. VERBA FIXADA EM 10% (DEZ POR CENTO) SOBRE O VALOR DA CONDENAÇÃO, EM ATENDIMENTO AO DISPOSTO NO ART. 20, § 3º, DO CPC, AFASTADO O PATAMAR MÍNIMO ESTABELECIDO NA SENTENTIA. [...] RECURSO PROVIDO PARCIALMENTE.” (doc. 10).
+    Nas razões de apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 97 da Constituição Federal e à Súmula Vinculante nº 10.
+    É o relatório. DECIDO.
+    O recurso merece provimento.
+    In casu, o Tribunal a quo, por meio de órgão fracionário, afastou a aplicação do artigo 5º da Lei Estadual nº 14.406/2008 por entender que o professor da rede estadual de ensino não pode sofrer decesso remuneratório durante o período de férias.
+    O acórdão proferido pelas instâncias ordinárias, que afasta a aplicação de dispositivo legal, com fundamento em preceitos constitucionais, sem a observância da regra prevista no artigo 97 da Constituição Federal, contraria a Súmula Vinculante nº 10, que dispõe, verbis: “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    Nesse sentido, ARE 730.809-AgR, rel. Min. Gilmar Mendes, Segunda Turma, DJe de 17/12/2014; RE 733.657, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 30/9/2013; AI 464.257-AgR-Segundo, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 11/9/2013; AI 857.856-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 19/6/2013; RE 705.958-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 4/12/2012; AI 601.723-AgR, Rel. Min Joaquim Barbosa, Segunda Turma, DJe de 14/8/2012; e RE 736.102-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 8/10/2014, assim ementado:
+    “Agravo regimental no recurso extraordinário. Tributário. Violação da cláusula de reserva de plenário. Artigo 97, CF. Súmula Vinculante nº 10.
+    1. Viola a cláusula de reserva de plenário contida no art. 97 da Constituição, a decisão de órgão fracionário do Tribunal que afasta a incidência de lei ou ato normativo por fundamento constitucional.
+    2. Agravo regimental não provido.”
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 557, § 1º-A, do Código de Processo Civil, para anular o acórdão recorrido e determinar a devolução dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento, com observância do disposto no artigo 97 da Constituição Federal.
+    Publique-se.
+    Brasília, 15 de março de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
