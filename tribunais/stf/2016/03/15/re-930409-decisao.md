@@ -1,0 +1,28 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. REDE FERROVIÁRIA FEDERAL – RFFSA. IPTU. IMUNIDADE. ARTIGO 150, VI, “A”, DA CONSTITUIÇÃO FEDERAL.
+    I. A Rede Ferroviária Federal (RFFSA), sucedida pela União, tratava-se de pessoa jurídica prestadora de serviço público obrigatório e exclusivo do estado. Assim equiparava-se à Fazenda Pública, gozando dos mesmos privilégios, inclusive em relação à imunidade tributária recíproca, nos termos do artigo 12 do Decreto-Lei n. 509/69 e do artigo 150, inciso VI, alínea “a” da Constituição Federal, respectivamente.
+    II. Apelação e reexame necessário desprovidos.” (fls. 131)
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI; 150, VI, “a”; e 173, §2º, da Constituição Federal.
+    Nas razões recursais, sustenta-se a “impossibilidade de a imunidade tributária retroagir, alcançando fatos geradores anteriores à transferência do imóvel para o Patrimônio da União”. (fls. 136-v)
+    A Vice-Presidência do TRF-3 sobrestou o presente recurso em razão de o STF ter reconhecido a repercussão geral da matéria invocada pelo recorrente ( RE-RG 599.176, Tema 224). (fls. 197)
+    No juízo de retratação, o Tribunal de origem reconheceu prejudicado o tema relativo à imunidade recíproca do responsável tributário por sucessão, tendo em vista que as razões recursais estão dissociadas da matéria examinada pelo acórdão recorrido, pois este concluiu que a própria RFFSA goza de imunidade tributária recíproca. (fls. 203)
+    A Vice-Presidência do TRF4 admitiu o recurso por entender preenchidos todos os requisitos de admissibilidade.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido e da realidade processual, o que torna aplicável ao caso o enunciado da súmula 284 do STF.
+    Ocorre que a parte Recorrente sustenta que “a mera transferência de patrimônio para um Ente Federativo não acarreta a extinção dos créditos tributários regularmente lançados anteriormente.” (fls. 137)
+    De fato, esta Corte já se manifestou, em sede de repercussão geral, no julgamento do RE 599.176, de relatoria do Ministro Joaquim Barbosa, DJe 14.11.2014, acerca do tema invocado pelo recorrente, e assentou que “a imunidade tributária recíproca não exonera o sucessor das obrigações tributárias relativas aos fatos jurídicos tributários ocorridos antes da sucessão (aplicação “retroativa” da imunidade tributária). Recurso Extraordinário ao qual se dá provimento.”
+    No entanto, outro foi o fundamento do acórdão impugnado, porquanto restou decidido pelo Tribunal de origem o seguinte:
+    “De rigor observar que o Plenário do E. Supremo Tribunal Federal, no julgamento do RE nº 220.906, firmou entendimento no sentido de que a Empresa Brasileira de Correios e Telégrafos - ECT -, por se tratar de pessoa jurídica prestadora de serviço público obrigatório e exclusivo do Estado, equipara-se à Fazenda Pública, gozando dos mesmos privilégios, inclusive em relação à imunidade de impostos, nos termos do artigo 12 do Decreto-Lei nº 509/69 e do artigo 150, inciso VI, alínea "a", da Constituição Federal.
+    (...)
+    O entendimento supratranscrito se aplica in casu, por ser a antiga Rede Ferroviária Federal S/A (RFFSA) prestadora serviço público obrigatório do Estado, gozando, portanto, da aludida imunidade recíproca.”
+    Assim, verifica-se que as razões recursais não se mostram suficientes para afastar os fundamentos da decisão recorrida.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas desta Corte:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MULTA. CARÁTER CONFISCATÓRIO. RAZÕES DISSOCIADAS. IMPOSSIBILIDADE ANÁLISE DO RECURSO. SÚMULAS 283 E 284/STF. 1. O acórdão recorrido afirmou ser inviável a discussão acerca da exigibilidade da multa em sede de exceção de pré-executividade. Por outro lado, as razões do recurso extraordinário limitaram-se a pugnar pelo reconhecimento do caráter confiscatório da penalidade. Nota-se, então, que os argumentos apresentados no recurso extraordinário estão dissociados dos fundamentos do acórdão recorrido. Nessas condições, a hipótese atrai a incidência das súmulas 283 e 284/STF. 2. Agravo regimental a que se nega provimento. (ARE 707173 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJE-075 DIVULG 22-04-2015 PUBLIC 23-04-2015)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE DO APELO EXTREMO. SÚMULA 284 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. I O recorrente não impugnou especificadamente os fundamentos do acórdão recorrido. Inviável, portanto, o recurso extraordinário, a teor da súmula 284 do STF. Para se chegar à conclusão contrária à adotada pelo acórdão impugnado, seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. - Agravo regimental a que se nega provimento. (RE 718.234-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 9.12.2013).
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do artigo 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 15 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
