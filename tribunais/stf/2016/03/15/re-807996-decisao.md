@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. GRATIFICAÇÃO ELEITORAL. PROMOTOR DE JUSTIÇA. CONVERSÃO DE VENCIMENTOS. URV. REAJUSTE DE 11,98%. LIMITAÇÃO TEMPORAL. ADI 1.797-0.
+    1. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de adotar sem restrições o entendimento do Supremo Tribunal Federal, por ocasião do julgamento da ADI 1.797-0, segundo o qual o adimplemento das diferenças de Unidade Real de Valor – URV devidas à magistratura federal, juízes classistas e promotores, sob pena de ocorrer o pagamento sem causa, está limitado a janeiro de 1995, não se aplicando a essas hipóteses o que restou decidido no julgamento da ADI 2.323-MC/DF. Além disso, por força do art. 741, parágrafo único, do Código de Processo Civil, pode a Fazenda Pública suscitar em sede de embargos à execução a questão da limitação temporal do direito às diferenças decorrentes de Unidade Real de Valor – URV, tendo em vista que não incluída nos limites da coisa julgado o objeto do título exequendo.
+    2. Precedentes: AgRg no AREsp 188.442/GO, Rel. Min. Eliana Calmon, Segunda Turma, DJe 20.8.2013; AgRg no AREsp 174281/SC, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 5.2.2013; AgRg no REsp 1281910/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 22.5.2013; e AgRg no AgRg no Ag 1429026/GO, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 13.3.2013.
+    3. Agravo regimental não provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, LIV e LV; 93, IX; e 102, III, a, da Constituição Federal. Sustenta que “é forçoso reconhecer que toda a fase de cognição da demanda (ação nº 1999.35.00.002372-7), proposta pela Associação Goiana do Ministério Público – AGMP, foi despicienda, oportunizando-se nada mais do que uma reabertura (pela via inadequada) da discussão acerca do material jurídico que abarca a questão já decidida.”
+    O Supremo Tribunal Federal, nos autos do RE 611.503-RG, Rel. Min. Ayres Britto, reconheceu a repercussão geral da questão relativa à possibilidade de desconstituição de título executivo judicial mediante aplicação do art. 741, parágrafo único, do CPC. O tema ficou assim ementado (Tema 360):
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. ADEQUAÇÃO DOS TÍTULOS JUDICIAIS EXEQÜENDOS ÀS DECISÕES DO SUPREMO TRIBUNAL FEDERAL. PARÁGRAFO ÚNICO DO ART. 741 DO CÓDIGO DE PROCESSO CIVIL. COISA JULGADA. PRESENÇA DA REPERCUSSÃO GERAL NA QUESTÃO CONSTITUCIONAL DISCUTIDA.
+    Possui repercussão geral a questão constitucional atinente à compatibilidade entre a garantia constitucional da coisa julgada e o parágrafo único do art. 741 do Código de Processo Civil. ”
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+          Brasília, 15 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
