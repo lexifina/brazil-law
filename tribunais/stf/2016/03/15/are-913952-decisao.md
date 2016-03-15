@@ -1,0 +1,22 @@
+DECISÃO: O apelo extremo a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “EMBARGOS INFRINGENTES. DIREITO TRIBUTÁRIO. EMOLUMENTOS. PRIMEIRA AQUISIÇÃO IMOBILIÁRIA ATRAVÉS DO SFH. REDUÇÃO. LEGALIDADE.
+    Embora exercidos de modo privado, os serviços notariais e registrais são delegados e norteados pelos princípios do Direito Público.
+    O disposto no artigo 236, § 2º, da Constituição Federal, consubstancia repartição de competência legislativa concorrente, atribuindo à União a emissão de normas gerais e aos Estados e Distrito Federal a normatização supletiva, não estando presente no caso concreto a exceção de que trata o artigo 24, § 3º, da Carta Magna.
+    Precedentes do STF.
+    É constitucional a redução de que trata o artigo 290 da Lei nº 6.015/73, replicada pela Portaria nº 12/2011 da Direção do Foro da Comarca de Porto Alegre. Os emolumentos devidos pelos atos relacionados com a primeira aquisição imobiliária para fins residenciais, financiada pelo Sistema Financeiro da Habitação, são reduzidos em 50%. Atendida a exigência insculpida no artigo 150, § 6º, da CF.
+    HONORÁRIOS ADVOCATÍCIOS. Não conhecido o recurso quanto ao tema, por não se configurar a hipótese do art. 530 do CPC.
+    EMBARGOS INFRINGENTES CONHECIDOS EM PARTE E, NESTA, PROVIDOS.”
+    A parte recorrente, ao deduzir o recurso extraordinário em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O Ministério Público Federal, em parecer da lavra do ilustre Subprocurador-Geral da República Dr. ODIM BRANDÃO FERREIRA, ao opinar pelo improvimento do apelo extremo em referência, ofereceu manifestação assim ementada:
+    “Recurso extraordinário com agravo. Direito tributário. Primeira aquisição imobiliária no âmbito do SFH. Redução dos emolumentos. Legalidade.
+    A atividade cartorária e notarial é serviço prestado em caráter privado, por delegação do poder público, regulamentado no art. 236 da CR. Improcedência da tese segundo a qual a transferência de certa competência da União para os estados na ordem de 1988 provoca a cessação da lei federal anterior: não havendo inconstitucionalidade formal superveniente, apenas a incompatibilidade material da lei federal pré-constitucional com a Constituição de 1988 privaria o ato inferior de eficácia, de modo que o benefício do art. 290 da Lei de Registros Públicos continua a viger, como direito estadual, nas unidades federadas que não o retiraram de vigência por meio de lei local editada já sob a nova ordem constitucional.
+    Não é tema para o recurso extraordinário saber se o legislador local revogou o art. 290 da LRP.
+    Parecer pelo desprovimento do agravo ou do recurso extraordinário.”
+    Entendo assistir razão ao parecer da douta Procuradoria-Geral da República, no ponto em que opina pelo improvimento do apelo extremo, cujos termos adoto como fundamento da presente decisão, valendo-me, para tanto, da técnica da motivação “per relationem”, reconhecida como plenamente compatível com o texto da Constituição (AI 738.982/PR, Rel. Min. JOAQUIM BARBOSA – AI 809.147/ES, Rel. Min. CÁRMEN LÚCIA – AI 814.640/RS, Rel. Min. RICARDO LEWANDOWSKI – ARE 662.029/SE, Rel. Min. CELSO DE MELLO – HC 54.513/DF, Rel. Min. MOREIRA ALVES – MS 28.989-MC/PR, Rel. Min. CELSO DE MELLO – RE 37.879/MG, Rel. Min. LUIZ GALLOTTI – RE 49.074/MA, Rel. Min. LUIZ GALLOTTI, v.g.):
+    “Reveste-se de plena legitimidade jurídico-constitucional a utilização, pelo Poder Judiciário, da técnica da motivação ‘per relationem’, que se mostra compatível com o que dispõe o art. 93, IX, da Constituição da República. A remissão feita pelo magistrado – referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator) – constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir. Precedentes.”
+    (AI 825.520-AgR-ED/SP, Rel. Min. CELSO DE MELLO)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 15 de março de 2016.
+Ministro CELSO DE MELLO
+Relator
