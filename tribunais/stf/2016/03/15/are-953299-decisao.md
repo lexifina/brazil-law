@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Goiás, assim ementado:
+    APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA SECURITÁRIA. INVALIDEZ PARCIAL PERMAMENTE. INCIDÊNCIA DA TABELA DA SUSEP. PAGAMENTO PROPORCIONAL. INTERPRETAÇÃO EXTENSIVA DO CONTRATO DE SEGURO. INADIMISSIBILIDADE. CONCREÇÃO DO PRINCÍPIO DA AUTONOMIA PRIVADA. NECESSIDADE DE RESPEITO AOS PRINCÍPIOOS DAOBRIGATORIEDADE (PACTA SUNT SERVANDA) E DA RELATIVIDADE DOS CONTRATOS (INTER ALIOS ACTA). Nos contratos de seguro, a seguradora responde somente pelos riscos assumidos na apólice, nos estritos limites da lei civil, mormente considerando que tais contratos não comportam interpretação extensiva, mas, apenas restritiva, nos exatos termos contratados, razão pela qual deve prevalecer o pacta sunt servanda. Recurso provido conf. Art. 557, § 1º-A, do CPC.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, alega-se violação a dispositivos do Código de Defesa do Consumidor (artigos 4º a 6º), bem como ao artigo 93, IX, do Texto Constitucional.
+    O Supremo Tribunal Federal já se manifestou sobre o tema constitucional discutido nestes autos.
+    No julgamento do AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe de 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação das decisões judiciais, reafirmando a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca do tema suscitado neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 15 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
