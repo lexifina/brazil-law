@@ -1,0 +1,31 @@
+Decisão: Trata-se de habeas corpus preventivo, com pedido de medida liminar, impetrado por Walter Barbosa Bittar e outros, em favor de Luiz Antônio Marqueze e Silvano Aparecido Bonilha, os quais se encontrariam na iminência de sofrer constrangimento ilegal, quando do julgamento pela Sexta Turma do Superior Tribunal de Justiça do HC 327.805/PR.
+    Preliminarmente, os impetrantes noticiam que “as medidas cautelares pessoais decretadas inicialmente nos presentes autos decorrem dos desdobramentos da investigação denominada ‘Operação Publicano’ realizada na cidade de Londrina-PR que visou apurar a existência dos crimes de organização criminosa, sonegação fiscal, corrupção ativa e passiva, falsidade ideológica, prevaricação e lavagem de dinheiro praticados - em tese - por auditores da receita estadual e empresários” (eDOC 2, p. 3).
+    Assim, o Juízo da 3ª Vara Criminal da Comarca de Londrina/PR decretou a prisão preventiva dos pacientes.
+    Inconformada, a defesa impetrou, perante o Tribunal de Justiça do Estado do Paraná, o HC 1.395.862-4, cujo Relator indeferiu o pedido de medida liminar (eDOCs 4-5).
+    Daí a impetração, perante o STJ, do citado HC 327.805/PR, cujo então Relator, Ministro Sebastião Reis Júnior, deferiu “o pedido liminar para substituir a prisão preventiva dos pacientes por medidas alternativas à prisão consistentes em a) comparecimento quinzenal em juízo para informar e justificar suas atividades (art. 319, I, do CPP); b) proibição de manter contato com os demais corréus e qualquer pessoa relacionada aos fatos objeto da investigação e ação penal (art. 319, III, do CPP); c) proibição de ausentar-se da comarca e do país, mediante a entrega do passaporte (art. 319, IV, do CPP); e d) suspensão do exercício de função pública (art. 319, VI, do CPP), a serem implementadas pelo magistrado singular” (eDOCs 42-43). Posteriormente, os autos foram redistribuídos, por prevenção, em 21.10.2015, ao Ministro Rogerio Schietti Cruz (eDOC 44).
+    No presente HC, os impetrantes sustentam, em síntese, o seguinte:
+    a) cabimento do writ, em face da relevância da modificação da relatoria do referido HC 327.805/PR, da Sexta Turma do STJ, a qual, em caso conexo (HC 323.125/PR, paciente Orlando Coelho Aranda, eDOC. 45), indeferiu a ordem, por maioria, tendo sido vencedor o voto divergente do Ministro Rogerio Schietti Cruz, o que ensejou a alteração da relatoria em todas as ações conexas;
+    b) ocorrência de constrangimento ilegal, consistente na ausência de suporte fático e probatório para decretação da prisão cautelar;
+    c) inexistência de fundamentação suficiente justificadora da prisão preventiva, o que viola o art. 93, inciso IX, da Constituição Federal;
+    d) ausência dos requisitos autorizadores da prisão preventiva (garantia da ordem pública e econômica, conveniência da instrução criminal e aplicação da lei penal); e
+    e) possibilidade de aplicação de medidas cautelares diversas da prisão, nos termos do art. 319 do CPP.
+    Ao final, os impetrantes pedem “a CONCESSÃO da medida cautelar requerida para, liminarmente e inaudita altera pars, impedir a aplicabilidade imediata dos efeitos de provável acórdão indeferindo o Habeas Corpus 327.805/PR, em trâmite perante o Superior Tribunal de Justiça, até a apreciação da matéria pelo Supremo Tribunal Federal”. No mérito, “a CONCESSÃO da ordem de habeas corpus, impedindo o restabelecimento da medida cautelar prisional em desfavor do paciente, por ocasião do julgamento do mérito do writ em trâmite perante o Superior Tribunal de Justiça, mormente porque flagrantemente desnecessária, além de despida de fundamentação e em descompasso dos requisitos legais dispostos no art. 312 do Código de Processo Penal, expedindo-se o competente salvo-conduto” (eDOC 2, p. 29-30).
+    Registro que o presente HC foi a mim distribuído por prevenção ao HC 131.497/PR (certidão, eDOC 49).
+    A Presidente em exercício do Supremo Tribunal Federal, Ministra Cármen Lúcia, em 27.1.2016, entendeu que o presente feito não se amolda à hipótese descrita no art. 13, inciso VIII, do RI/STF (eDOC 50).
+    É o breve relatório.
+    Decido.
+    A concessão de liminar em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora.
+    Trata-se de writ preventivo, no qual os impetrantes defendem que os pacientes “se encontram na iminência de sofrer constrangimento ilegal, em virtude do julgamento do Habeas Corpus nº. 327.805/PR, pela 6ª Turma do Superior Tribunal de Justiça” (eDOC 2, p. 1). Além disso, o pedido de liminar, consoante relatado, visa a “impedir a aplicabilidade imediata dos efeitos de provável acórdão indeferindo o Habeas Corpus 327.805/PR, em trâmite perante o Superior Tribunal de Justiça” (eDOC 2, p. 29).
+    Assevere-se que, até a presente data, conforme consta nestes autos, a liminar deferida no STJ e ainda vigente, foi favorável aos pacientes, os quais se encontram em liberdade.
+    Por outro lado, considerando o entendimento desfavorável já externado pelo Ministro Rogério Schietti Cruz em feitos correlatos que tramitam no STJ (HCs 339.076/PR e 323.125/PR), vislumbro plausibilidade na tese sustentada pela defesa (presunção de que uma futura decisão de mérito no HC n. 327.805/PR será desfavorável aos pacientes).
+    Desse modo, há justo receio do direito de liberdade dos pacientes ser infringido, devendo-se deferir aos acusados os necessários salvo-condutos que evitem possível constrangimento.
+    Sem prejuízo disso, o STJ deverá julgar a ação dos pacientes, apenas ficando obstado o imediato cumprimento de eventual ordem de prisão.
+    Ante o exposto, concedo a liminar requerida, para impedir a aplicabilidade imediata dos efeitos de provável acórdão denegatório nos autos do Habeas Corpus 327.805/PR, em trâmite no Superior Tribunal de Justiça, até a apreciação da matéria pelo Supremo Tribunal Federal.
+    Comunique-se com urgência.
+    Solicitem-se informações ao Juiz da 3ª Vara Criminal da Comarca de Londrina/PR (Processos 0031659-42.2015.8.16.0014 e 0034046-30.2015.8.16.0014), bem como ao Relator, no STJ, do HC 327.805/PR.
+    Com a resposta, encaminhem-se os autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 15 de março de 2016.
+Ministro Gilmar Mendes
+Relator
+  Documento assinado digitalmente.
