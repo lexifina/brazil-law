@@ -1,0 +1,11 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal "a quo" teria transgredido preceito inscrito na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário não se revela viável.
+    É que a jurisprudência do Supremo Tribunal Federal tem enfatizado, a propósito da questão pertinente à transgressão constitucional indireta, que, em regra, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, hipóteses em que não se revelará admissível o recurso extraordinário (AI 165.054/SP, Rel. Min. CELSO DE MELLO – AI 174.473/MG, Rel. Min. CELSO DE MELLO – AI 182.811/SP, Rel. Min. CELSO DE MELLO – AI 188.762-AgR/PR, Rel. Min. SYDNEY SANCHES – RE 236.333/DF, Rel. Min. MARCO AURÉLIO, v.g.).
+    É por essa razão que a situação de ofensa indireta ao texto constitucional, quando ocorrente, não bastará, só por si, para viabilizar o acesso à via recursal extraordinária.
+    Cumpre salientar, com relação à alegada ofensa à norma inscrita no art. 5º, inciso XXXVI, da Constituição, que a espécie ora em exame também não foge aos padrões acima mencionados, refletindo, por isso mesmo, possível situação de ofensa indireta às prescrições da Carta Política, circunstância essa que impede – como precedentemente já enfatizado – o próprio conhecimento do recurso extraordinário (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO).
+    Cabe registrar, finalmente, que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 16 de março de 2016.
+Ministro CELSO DE MELLO
+Relator
