@@ -1,0 +1,28 @@
+Decisão: Trata-se de habeas corpus remetido a esta Corte pelo Superior Tribunal de Justiça em razão do trâmite da AC n. 4.039 neste Tribunal.
+    A petição manuscrita por “EDUARDO TAL”, a qual requer a liberdade do paciente André Santos Esteves, é confusa e ininteligível.
+    In casu, em que pese a legitimidade ativa para a impetração de habeas corpus ser universal, o paciente, ex-diretor de instituição financeira, além de encontrar-se em liberdade, ostenta situação econômica privilegiada que lhe permite constituir bons advogados, por isso que é recomendável o não conhecimento de habeas corpus impetrado por pessoa desautorizada, consoante se extrai dos seguintes trechos da decisão proferida pelo Ministro Celso de Mello no HC n. 114.815:
+    “É fato notório que o paciente em questão, mediante outorga do pertinente mandato judicial, nomeou, como seu Advogado, o ilustre Dr. Antônio Nabor Areias Bulhões, a quem conferiu poderes para promover, em sede penal, todos os atos necessários à proteção de seus direitos.
+    Não se desconhece que o remédio constitucional do “habeas corpus” – qualificando-se como típica ação penal popular (RT 718/518 – RTJ 164/193, Rel. Min. CELSO DE MELLO) – pode ser impetrado “por qualquer pessoa, em seu favor ou de outrem (...)” (CPP, art. 654, “caput” – grifei).
+    Vê-se, portanto, que a legitimidade ativa para o ajuizamento da ação de “habeas corpus” reveste-se de caráter universal, circunstância essa que torna prescindível, até mesmo, a outorga de mandato judicial que autorize o impetrante a agir em favor de quem estaria sujeito, alegadamente, a situação de injusto constrangimento em sua liberdade de locomoção física.
+    Não obstante a universalidade da legitimação para agir em sede de “habeas corpus” (JOSÉ FREDERICO MARQUES, “Elementos de Direito Processual Penal”, vol. IV/422, item n. 1.208, 1965, Forense), cabe ter presente a norma inscrita no art. 192, § 3º (antigo parágrafo único), do RISTF, segundo a qual “Não se conhecerá de pedido desautorizado pelo paciente” (grifei).
+    É por essa razão que o Supremo Tribunal Federal, em situações como a que se registra nestes autos, tem decidido, com apoio no preceito regimental mencionado, que “Não se deve conhecer do pedido de ‘habeas corpus’, quando este, ajuizado originariamente perante o Supremo Tribunal Federal, é desautorizado pelo próprio paciente (RISTF, art. 192, parágrafo único)...” (RTJ 161/475, Rel. Min. CELSO DE MELLO, v.g.):
+    ‘HABEAS CORPUS’ – ‘WRIT’ IMPETRADO PELO MINISTÉRIO PÚBLICO – POSSÍVEL DESVIO DE SUA FINALIDADE JURÍDICO-CONSTITUCIONAL – CONVENIÊNCIA DE SE OUVIR, PREVIAMENTE, O PACIENTE – PROVIDÊNCIA AUTORIZADA PELO REGIMENTO INTERNO DO STF (ART. 192, PARÁGRAFO ÚNICO) – CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA.
+    - O Ministério Público dispõe de legitimidade ativa ‘ad causam’ para ajuizar, em favor de terceiros, a ação penal de ‘habeas corpus’.
+    - O remédio processual do ‘habeas corpus’ não pode ser utilizado como instrumento de tutela dos direitos do Estado. Esse ‘writ’ constitucional há de ser visto e interpretado em função de sua específica destinação tutelar: a salvaguarda do estado de liberdade do paciente. A impetração do ‘habeas corpus’, com desvio de sua finalidade jurídico-constitucional, objetivando satisfazer, ainda que por via reflexa, porém de modo ilegítimo, os interesses da Acusação, descaracteriza a essência desse instrumento exclusivamente vocacionado a proteção da liberdade individual.
+    - Não se deve conhecer do pedido de ‘habeas corpus’ quando este, ajuizado originariamente perante o Supremo Tribunal Federal, é desautorizado pelo próprio paciente (RISTF, art. 192, parágrafo único). Conversão do julgamento em diligência, para que o paciente, uma vez pessoalmente intimado, esclareça se está de acordo, ou não, com a impetração do ‘writ’.
+    (HC 69.889/ES, Rel. Min. CELSO DE MELLO)
+    ‘CONSTITUCIONAL. PROCESSUAL PENAL. ‘HABEAS CORPUS’ impetrado pelo Ministério Público: desautorização pelo paciente.
+    I. - ‘Habeas corpus’ impetrado originariamente ao Supremo Tribunal Federal, pelo Ministério Público, e desautorizado pelo paciente (RI/STF, art. 192, parágrafo único). Não conhecimento do pedido.
+    II. - ‘H.C.’ não conhecido.’
+    (HC 75.347/MG, Rel. Min. CARLOS VELLOSO – grifei)
+    Esse entendimento encontra apoio em autorizado magistério doutrinário (BENTO DE FARIA, “Código de Processo Penal”, vol. II/381, item n. 158, 2ª ed., 1960, Record; EDUARDO ESPÍNOLA FILHO, “Código de Processo Penal Brasileiro Anotado”, vol. VII/232-234, item n. 1.369, 6ª ed., 1965, Borsoi; ARY AZEVEDO FRANCO, “Código de Processo Penal”, vol. III/222, 7ª ed., 1960, Forense), cuja advertência, na linha exposta na presente decisão, reflete-se na jurisprudência dos Tribunais em geral (RT 246/304-305, Rel. Juiz THOMAZ CARVALHAL):
+    ‘O expresso dissenso do paciente ao pedido feito por terceiro em seu benefício, por não lhe convir a medida, leva ao não conhecimento do ‘habeas corpus’.’
+    (RT 560/292, Rel. Des. CUNHA CAMARGO)
+    Cumpre assinalar, por relevante, que tal orientação tem sido reiterada, em sucessivas decisões, por Juízes desta Suprema Corte (HC 80.417-MC/SP, Rel. Min. CELSO DE MELLO – HC 81.336/SP, Rel. Min. ILMAR GALVÃO – HC 90.302/RN, Rel. Min. CELSO DE MELLO – HC 91.433/DF, Rel. Min. GILMAR MENDES – HC 111.788/MG, Rel. Min. AYRES BRITTO).”
+    Ex positis, NEGO SEGUIMENTO ao writ, com fundamento no art. 38 da Lei n. 8.038/90, restando prejudicado o pedido de liminar.
+    Dê-se ciência ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 16 de março de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
