@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Lauri de Sousa Sassi. Aparelhado o recurso na violação do art. 5º, XXXVI, LIV, LV e LXIII, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento acerca da legalidade do procedimento administrativo que resultou na exclusão do recorrente, inclusive no concernente à prova emprestada, razão pela qual divergir da posição adotada pela Corte a quo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.”. Nesse sentido: ARE 731.306-AgR/PR, Relator Ministro Luiz Fux, 1ª Turma, DJe 21.8.2013; AI 662.686-AgR/BA, Relator Ministro Dias Tóffoli, 1ª Turma, DJe 22.10.2010; e RE 475.622-AgR/CE, Relator Ministro Ricardo Lewandowski, 1ª Turma, DJe 17.9.2010, cuja ementa transcrevo:
+    “CONSTITUCIONAL. ADMINISTRATIVO. POLÍCIA MILITAR. LICENCIAMENTO EX OFFICIO. PROCESSO ADMINISTRATIVO DISCIPLINAR. OFENSA REFLEXA À CONSTITUIÇÃO. PRECEDENTES. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. PRECEDENTES. AGRAVO IMPROVIDO. I - A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, LV, da Constituição, pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. Precedentes. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. III - Agravo regimental improvido.”
+    Verifico, ainda, que no julgamento do RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, decidiu-se pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do devido processo legal, do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, cuja ementa transcrevo:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de março de 2016.
+Ministra Rosa Weber
+Relatora
