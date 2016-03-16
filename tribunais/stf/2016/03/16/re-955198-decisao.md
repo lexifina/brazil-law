@@ -1,0 +1,33 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Amazonas e confirmado em sede de embargos de declaração, está assim ementado:
+    “DIREITO CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. SERVIDOR PUBLICO. GRATIFICAÇÃO. ADICIONAL POR TEMPO DE SERVIÇO. DIREITO ADQUIRIDO. BASE DE INCIDÊNCIA. VENCIMENTOS. SEGURANÇA CONCEDIDA.
+    I – Preliminar de ausência de provas pré-constituídas rejeitada;
+    II – O conjunto fático-probatório, demonstrado através das provas pré-constituídas acostadas aos autos, comprova o direito líquido e certo do Impetrante em ter o correto pagamento da incorporada gratificação de adicional por tempo de serviço, devendo-se adotar como critério de incidência a totalidade dos ganhos do servidor, ou seja, o vencimento somado as demais incorporações da composição remuneratória. Precedentes do TJAM.
+    III – Segurança concedida.”
+    A pretensão recursal deduzida nesta causa apoia-se, em síntese, nos seguintes fundamentos:
+    “A decisão recorrida violou o disposto no art. 37, XIV, da Constituição Federal, na exata medida em que cria efeito cascata ao autorizar que uma determinada vantagem tenha como base de cálculo a totalidade da remuneração do impetrante (vencimentos), incluindo outras gratificações dela integrantes.”
+    A Presidência do Tribunal “a quo”, ao formular juízo positivo de admissibilidade do apelo extremo em questão, assim justificou a decisão que proferiu:
+    “1. Voltando-me os autos, verifico que o processo paradigma eleito (RE 563.965) já possui decisão de mérito, inclusive com o pertinente trânsito em julgado.
+    2. Dessa forma, chamo o processo à ordem, para dar prosseguimento regular na análise de admissibilidade do Recurso Extraordinário, iniciada às fl. 137/138, uma vez que inaplicável se faz o art. 543-B, § 1º, do CPC, tendo em vista a falta de identidade plena entre os recursos paradigma e paragonado.
+    3. Observa-se a supracitada diversidade entre os referidos recursos através da matéria debatida nestes autos, ora sede de Recurso Excepcional, por possuir discussão em campo mais abrangente, tendo em vista que o ora recorrente argui a ofensa a direito adquirido por não se ter o cálculo da atualização dos quinquênios incidentes sobre a totalidade dos vencimentos, e ao menos de forma genérica, concluir que não se trata de gratificação pro labore facto, logo não tendo natureza de vantagem pecuniária, mas de vencimento básico, motivo o qual deveria se ter a atualização sobre o valor global, sob pena de ofensa ao Princípio da Irredutibilidade Salarial.
+    4. Retomando o juízo de admissibilidade, deve-se primeiro destacar que, ao Presidente do Tribunal de Justiça não é permitido, em princípio, adentrar no mérito da questão,, mas tão somente verificar o preenchimento dos requisitos genéricos e específicos de admissibilidade recursal.
+    5. No presente Recurso Extraordinário manejado pelo ESTADO DO AMAZONAS entendo estar devidamente especificadas suas hipóteses de cabimento, sob o fundamento no artigo 102, III, ‘a’, da Constituição Federal, bem como reconheço que o recorrente tem legitimidade e interesse em recorrer.
+    6. Do mesmo modo, apresenta-se por demonstrada a tempestividade, já que os referidos acórdãos foram publicados nos dias 29/11/2010 e 30/06/2011, consoante certidões de fls. 77 e fls. 103, respectivamente, e o Recurso Extraordinário interposto em 29/07/2011, dispondo a parte de 30 (trinta) dias para recorrer.
+    7. Ademais, cumpridas a obediência à regularidade formal do presente recurso, tendo sido inclusive identificado o esgotamento das instâncias ordinárias e ausentes fatos extintivos ou impeditivos do direito de recorrer.
+    8. Confirma-se a dispensa de preparo por se tratar de recurso aviado pela Fazenda Pública Estadual, nos termos do art. 511, § 1º do Código de Processo Civil.
+    9. Em relação ao necessário prequestionamento da matéria constitucional do Recurso Extraordinário, entendo que deve a pretensão recursal ser admitida pela aventada ofensa dos artigos 5º, XXXVI e 37, XIV, ambos da Constituição Federal.
+    10. Ante o exposto, ADMITO o RECURSO EXTRAORDINÁRIO interposto pelo ESTADO DO AMAZONAS contra os vv. acórdãos, tendo em conta que foram respeitados os seus requisitos intrínsecos e extrínsecos.
+    11. Por fim, em respeito ao Princípio da Celeridade Processual, aproveito o ensejo para DETERMINAR que se intime o agravado Moacir Silveira da Cruz para, apresentar, querendo, contrarrazões ao Agravo em Recurso Especial, interposto às fls. 140/147.
+    12. Sejam promovidas as intimações necessárias, conforme os comandos de nº 10 e 11.
+    13. Decorrido o prazo, com ou sem manifestação do agravado, remetam-se os auto para o STJ.
+    14. Após, remetam-se os autos ao STF.
+    15. À Secretaria para as providências cabíveis.”
+    Sendo esse o contexto, passo a examinar o presente apelo extremo. E, ao fazê-lo, reconheço que o exame desta causa evidencia achar-se o acórdão ora impugnado, em divergência com a diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Com efeito, o Plenário desta Suprema Corte, após reconhecer configurada a existência de repercussão geral do tema, julgou o fundo da controvérsia constitucional (igualmente objeto de veiculação nesta causa), proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO À REGIME JURÍDICO. BASE DE CÁLCULO DE VANTAGENS PESSOAIS. EFEITO CASCATA: PROIBIÇÃO CONSTITUCIONAL. PRECEDENTES. IMPOSSIBILIDADE DE REDUÇÃO DOS VENCIMENTOS. PRINCÍPIO DA IRREDUTIBILIDADE DOS VENCIMENTOS. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO.”
+    (RE 563.708/MS, Rel. Min. CÁRMEN LÚCIA)
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito desta Corte a propósito de questão essencialmente idêntica à que ora se examina nesta sede recursal (RE 602.344-AgR/AM, Rel. Min. DIAS TOFFOLI – RE 630.576/AM, Rel. Min. CELSO DE MELLO – RE 895.551/AM, Rel. Min. ROBERTO BARROSO, v.g.).
+    Sendo assim, e em face das razões expostas, conheço do presente recurso extraordinário, para dar-lhe provimento (CPC, art. 557, § 1º-A), em ordem a determinar sejam observados os estritos limites fixados no julgamento plenário do RE 563.708/MS. No que concerne à verba honorária, revela-se aplicável a Súmula 512/STF, reafirmada pelo art. 25 da Lei nº 12.016/2009.
+    Publique-se.
+    Brasília, 16 de março de 2016.
+Ministro CELSO DE MELLO
+Relator
