@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 156, § 2º, I, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O acórdão recorrido restou consignado no sentido da suficiente comprovação probatória dos requisitos para concessão da imunidade tributária quanto ao ITBI, observe:
+    “Há elementos nos autos que revelam a higidez da documentação fiscal apresentada pela autora, inexistindo, por outro lado, provas capazes de refutá-la. 6.5 Sob qualquer ângulo que se olhe a questão, portanto, não há negar que a autora tem direito à imunidade no tocante ao ITBI incidente sobre transferência imobiliárias na petição inicial.”
+    Constato, portanto, que o Tribunal de origem, na hipótese em apreço, se lastreou na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse mesmo sentido colaciono o seguinte precedente:
+    “AGRAVO REGIMENTAL. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO INTER VIVOS A QUALQUER TÍTULO DE BENS IMÓVEIS E DE DIREITOS REAIS SOBRE IMÓVEIS. IMUNIDADE. TRANSFERÊNCIA DE BENS PARA INTEGRALIZAÇÃO DE CAPITAL DE PESSOA JURÍDICA. SUPOSTA AUSÊNCIA DE ATIVIDADE ECONÔMICA. EFEITOS. NECESSIDADE DE REABERTURA DA INSTRUÇÃO PROBATÓRIA. ART. 156, II, DA CONSTITUIÇÃO. Nos termos da Constituição e da legislação de regência, as autoridades fiscais não podem partir de presunções inadmissíveis em matéria tributária, nem impor ao contribuinte dever probatório inexequível, demasiadamente oneroso ou desnecessário. As mesmas balizas são aplicáveis ao controle jurisdicional do crédito tributário. Para reverter as conclusões a que chegou o Tribunal de origem acerca da invalidade de cobrança do ITBI, seria necessário reabrir a instrução probatória, com o objetivo de apurar a suposta falta de atividade econômica da pessoa jurídica que recebeu os bens, bem como para confirmar o intuito de desviar ilicitamente a finalidade da proteção constitucional (Súmula 279/STF). Agravo regimental ao qual se nega provimento. (ARE 660434 AgR, Relator(a): Min. JOAQUIM BARBOSA, Segunda Turma, julgado em 06/03/2012, ACÓRDÃO ELETRÔNICO DJe-057 DIVULG 19-03-2012 PUBLIC 20-03-2012)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de março de 2016.
+Ministra Rosa Weber
+Relatora
