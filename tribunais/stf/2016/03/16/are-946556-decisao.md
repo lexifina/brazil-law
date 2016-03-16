@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa reproduzo a seguir (eDOC 1, p. 126):
+    “AÇÃO DE CONHECIMENTO – Pretensão de elevação dos proventos de aposentadoria – Cartórios não oficializados, regidos pela Lei Estadual 10.393/70 – Reclassificação das entrâncias judiciárias – Lei Complementar Estadual 980/05 – Ocorrência de alteração na remuneração dos referidos agentes públicos, com o consequente aumento de suas contribuições previdenciárias – Aplicação do artigo 45, § 3º, da Lei Estadual 10.393/70 – Jurisprudência predominante desta 9ª Câmara de Direito Público – Reforma da sentença necessária – Apelo provido.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 40, § 7º; e 236 do Texto Constitucional.
+    Nas razões recursais, alega-se, em suma, que somente pode haver majoração salarial por meio de alteração legislativa competente, após revisão atuarial, pois aumento sem previsão pode levar o Instituto, ora recorrente, ao colapso (eDOC. 1, p. 143)
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o recurso por entender tratar-se de direito local.
+    É o relatório. Decido.
+    Inicialmente, observo que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. Assim, a jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Incidem, portanto, as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+    Igualmente, verifica-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação local aplicável à espécie, o que inviabiliza o processamento do apelo extremo pela incidência da Súmula 280 do STF:
+    Confiram-se, a propósito, os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Serventia extrajudicial. Reclassificação de entrância. Leis Estaduais 10.393/1970 e 980/2005. 3. Necessidade de reexame da interpretação conferida pela origem à legislação infraconstitucional. Súmula 280 do STF. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+(ARE 913.670 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 11.11.2015)
+    DIREITO PROCESSUAL CIVIL. SERVENTIA EXTRAJUDICIAL. RECLASSIFICAÇÃO DE ENTRÂNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA 287/STF. LEIS ESTADUAIS NºS 10.393/1970 E 980/2005. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.02.2012. 1. A jurisprudência desta Suprema Corte é firme no sentido de que inadmissível o agravo que não ataca especificamente os fundamentos da decisão que inadmitiu o recurso extraordinário. Incidência da Súmula 287/STF. 2. Da detida leitura das razões recursais, bem como dos fundamentos adotadas pela Presidência da Corte a quo, ao exame da admissibilidade do recurso, verifico não impugnados os fundamentos da decisão pela qual inadmitido o extraordinário na origem. 3. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 4. Agravo regimental conhecido e não provido.
+(ARE 893.050 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 13.08.2015)
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 16 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
