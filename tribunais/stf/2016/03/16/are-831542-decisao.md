@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Colégio Recursal do Tribunal de Justiça do Estado de São Paulo, que manteve a sentença por seus próprios fundamentos. Colhem-se da sentença os seguintes trechos:
+    “Considerando-se que há lei regular a concessão de aposentadoria especial aos trabalhadores sujeitos à aposentação pelo Regime Geral da Previdência Social, não se pode, por ausência de disposição no mesmo sentido, vedar aos servidores públicos situação análoga , de modo a não usufruírem o direito que lhes é constitucionalmente garantido.
+    Portanto, no caso em comento, por se tratar de agente policial, que tem reconhecida atividade de risco, devem ser observadas as disposições constantes na Lei 8.213/91, em obediência ao princípio da igualdade, para possibilitar a averbação pretendida.”
+     O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 40, II e III, e § 4º; 98, I, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que incidem, no caso, as Súmulas 279, 282 e 356/STF.
+    O recurso extraordinário não deve ser provido. Quanto à alegada violação ao art. 98, I, o Plenário do Supremo Tribunal Federal, no julgamento do ARE 640.671-RG, sob a relatoria do Ministro Presidente, assentou a ausência de repercussão geral da questão relativa à competência dos juizados especiais em razão da complexidade da matéria, por se tratar de matéria infraconstitucional. Veja-se a ementa do referido julgado:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional.”
+    Quanto à questão de fundo, o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal. O Plenário desta Corte reconheceu a aplicação da lei geral da previdência para os casos de aposentadoria especial, enquanto permanecer omissa a União na edição da lei complementar expressa no art. 40, § 4º, da Constituição Federal. Desse entendimento não divergiu o Tribunal de origme. Nessa linha, confira-se a ementa do MI 795, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DO SERVIDOR PÚBLICO. ARTIGO 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE LEI COMPLEMENTAR A DISCIPLINAR A MATÉRIA. NECESSIDADE DE INTEGRAÇÃO LEGISLATIVA.
+    1. Servidor público. Investigador da polícia civil do Estado de São Paulo. Alegado exercício de atividade sob condições de periculosidade e insalubridade.
+    2. Reconhecida a omissão legislativa em razão da ausência de lei complementar a definir as condições para o implemento da aposentadoria especial.
+    3. Mandado de injunção conhecido e concedido para comunicar a mora à autoridade competente e determinar a aplicação, no que couber, do art. 57 da Lei n. 8.213/91.”
+    No mesmo sentido, vejam-se: ARE 665.858, Rel. Min. Celso de Mello; MI 788, Rel. Min. Ayres Britto; ARE 721.251, Rel. Min. Celso de Mello; MI 721, Rel. Min. Marco Aurélio; ARE 763.355, Rel. Min. Celso de Mello; e RE 238.591-AgR, Rel.ª Min.ª Ellen Gracie.
+    Ademais, para dissentir do Tribunal de origem, quanto ao preenchimento pela parte ora recorrida dos requisitos da averbação de tempo para aposentadoria especial, seria necessário nova análise dos fatos e das provas acostados aos autos, hipótese vedada pela Súmula 279/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 16 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
