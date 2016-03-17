@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “REPRESENTAÇÃO DE INCONSTITUCIONALIDADE CONTRA A LEI Nº 5.602/13 DO MUNICÍPIO DO RIO DE JANEIRO, QUE DETERMINA ÀS FARMÁCIAS E DROGARIAS QUE AFIXEM CARTAZ INDICATIVO DE QUE AS INSTALAÇÕES SANITÁRIAS SÃO ABERTAS AO PÚBLICO, COMINANDO DIVERSAS SANÇÕES PELO DESCUMPRIMENTO DESSE COMANDO. COMPETÊNCIA LEGISLATIVA DO ESTADO NA FORMA DO ART. 74, XII, DA CONSTITUIÇÃO ESTADUAL, NÃO ABRANGIDA, POR CONSEGUINTE, NA PREVISÃO DO ART. 358, I, DA MESMA CARTA. PROTEÇÃO À SAÚDE. IMPOSSIBILIDADE DE EXERCÍCIO DA COMPETÊNCIA SUPLEMENTAR. INVIABILIDADE DE EMPREGO DO ARGUMENTO DO INTERESSE LOCAL PARA CONTORNAR A INEXISTÊNCIA DE COMPETÊNCIA. IMPOSSIBILIDADE, ADEMAIS, DE CRIAÇÃO DE ATRIBUIÇÕES PARA ÓRGÃOS DO EXECUTIVO MUNICIPAL POR INICIATIVA DA CASA LEGISLATIVA, SOB PENA DE VIOLAÇÃO AOS ARTS. 112, § 1º, ‘d’, E 145, VI, DA CONSTITUIÇÃO ESTADUAL, APLICÁVEIS POR SIMETRIA. PROCEDÊNCIA DA REPRESENTAÇÃO E DECLARAÇÃO DA INCONSTITUCIONALIDADE DA LEI Nº 5.602/13 DO MUNICÍPIO DO RIO DE JANEIRO EM SUA INTEGRALIDADE, COM EFEITO EX TUNC.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 24, V, VIII; e 30, I e II, da Constituição.
+    A decisão agravada negou seguimento ao recurso por entender que incidem, no caso, as Súmulas 280 e 282/STF.
+    A Subprocuradora-Geral da República Cláudia Sampaio Marques opina pelo desprovimento do agravo. Veja-se a ementa do parecer ministerial:
+    “LEI Nº 5.602/2013 DO MUNICÍPIO DO RIO DE JANEIRO. IMPOSIÇÃO ÀS FARMÁCIAS E DROGARIAS DA OBRIGAÇÃO DE AFIXAR CARTAZES INDICATIVOS DE INSTALAÇÕES SANITÁRIAS ABERTAS AO PÚBLICO, SOB PENA DE SANÇÃO. REPRESENTAÇÃO POR INCONSTITUCIONALIDADE JULGADA PROCEDENTE PELO TRIBUNAL A QUO. AUSÊNCIA DE COMPETÊNCIA DO MUNICÍPIO PARA REGULAR A MATÉRIA. VÍCIO DE INICIATIVA. USURPAÇÃO DA COMPETÊNCIA LEGISLATIVA (CONCORRENTE) DO ESTADO. RECURSO EXTRAORDINÁRIO ALEGANDO VIOLAÇÃO AOS ARTS. 24, V, E VIII, E 30, I E II, AMBOS DA CF. AUSÊNCIA DOS PRESSUPOSTOS DE ADMISSIBILIDADE. RECURSO CORRETAMENTE OBSTADO NA ORIGEM. PARECER PELO DESPROVIMENTO DO AGRAVO.”
+    Correto o parecer ministerial, que adoto como razões de decidir. O Supremo Tribunal Federal reconhece compatível com a Constituição a técnica da motivação por remissão (ARE 757.522-AgR, Rel. Min. Celso de Mello).
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 17 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
