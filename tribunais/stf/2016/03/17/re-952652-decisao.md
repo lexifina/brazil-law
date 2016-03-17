@@ -1,0 +1,30 @@
+Decisão: Trata-se de recurso extraordinário contra sentença do Juízo de Direito da Comarca de Batatais-SP, o qual, em sede de embargos infringentes, manteve a sentença que declarou inexistentes os créditos tributários e extinguiu todas as execuções fiscais discutidas nos presentes embargos.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 93, IX; e 150, VI, “c”, do Texto Constitucional.
+    Nas razões recursais, sustenta-se que o contribuinte não está acobertado pela imunidade tributária, pois não preenche os requisitos necessários para ser considerada instituição educacional.
+    Alega-se, ainda, negativa de prestação jurisdicional.
+    Assevera-se também a excessividade dos honorários advocatícios.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, em relação à ofensa ao art. 93, IX, da Constituição Federal, ressalta-se que inexiste a alegada violação. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que divirja dos interesses da parte Recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral da matéria, no âmbito do Tema 339, nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    No mérito, convém reproduzir o assentado pelo juízo de origem:
+    “Sendo esses os contornos do direito, observa-se nos autos dos embargos que a embargante fez a prova dos requisitos do art. 14, demonstrando ter atividades-fim de educação e assistência social. Além disso, os arts. 15 e 16 do estatuto demonstram a vedação de distribuição de patrimônio e aplicação integral de recursos em território nacional. Finalmente, por meio dos documentos de fls. 42/79, a embargante comprovou regular escrituração em balanço geral que, devidamente analisada, indica o cumprimento dos requisitos do art. 14, I, II e III do Código Tributário Nacional.” (fls. 259)
+    De plano, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação infraconstitucional, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “Entidade educacional. ISS. Imunidade. Reexame de fatos e provas (Súmula 279). Regimental não provido.”
+(AI 339232 AgR, Rel. Min. NELSON JOBIM, Segunda Turma, DJ 22.02.2002)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. TRIBUTÁRIO. ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. IMUNIDADE TRIBUTÁRIA. ART. 150, INC. VI, ALÍNEA C, § 4º, DA CONSTITUIÇÃO FEDERAL. REEXAME DE MATÉRIA FÁTICA. INCIDÊNCIA DA SÚMULA N. 279/STF. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS. 1. A Súmula 279/STF dispõe verbis: Para simples reexame de prova não cabe recurso extraordinário. 2. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. [...] 4. Agravo regimental a que se NEGA PROVIMENTO.”
+(ARE 739369 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 13.08.2013)
+    Ademais, o entendimento iterativo do supremo Tribunal Federal é no sentido de ser infraconstitucional a matéria relativa à fixação de honorários advocatícios, não propiciando a abertura da via extraordinária.
+    Vejam-se os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Servidor estadual. Adicional por tempo de serviço. Discussão. Valores. Fixação de honorários advocatícios. Prequestionamento. Ausência. Ofensa a direito local. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. É inadmissível o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Não se abre a via do recurso extraordinário para a análise de matéria ínsita ao plano normativo infraconstitucional ou para o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 279 e 280. 3. Agravo regimental não provido.”
+(ARE 867181 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 11.12.2015)
+    “DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. HONORÁRIOS ADVOCATÍCIOS. COBRANÇA. PETIÇÃO INICIAL. INÉPCIA. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS DOS AUTOS. SÚMULA 279/STF. OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. NÃO CARACTERIZAÇÃO. 1. A solução da controvérsia pressupõe, necessariamente, a análise de legislação infraconstitucional e o reexame dos fatos, do material probatório contantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. 2. A decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante. 3. Embargos de declaração recebidos como agravo regimental a que se nega provimento.”
+(ARE 902749 ED, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 28.09.2015)
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 17 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
