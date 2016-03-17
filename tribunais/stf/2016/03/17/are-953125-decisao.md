@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Terceira Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro que, em síntese, manteve a decisão do Relator que confirmou a sentença de 1º Grau que “concedeu a ordem perquirida, tornando definitiva a liminar de fls. 68/69, para determinar que o impetrado assegure a participação do impetrante no concurso público respectivo, exigindo-se deste a apresentação do diploma somente na data da eventual posse”.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação do artigo 37, caput e inciso I, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, uma vez que o acórdão atacado não divergiu da jurisprudência deste Supremo Tribunal Federal, a qual firmou-se no sentido de que a comprovação dos requisitos para o exercício do cargo público, salvo na hipótese do artigo 93, inciso I, da Constituição, deve ser exigida no momento da posse. Nesse sentido, confiram-se os seguintes julgados:
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. CONCURSO PÚBLICO. REQUISITOS PREVISTOS NO EDITAL. MOMENTO DA EXIGÊNCIA. POSSE. PRECEDENTES. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que – exceto na hipótese prevista no art. 93, I, da Constituição – exige-se o cumprimento de requisito de habilitação para investidura em cargo público no momento da posse e não no da inscrição do concurso público. Precedentes. Agravo regimental a que se nega provimento.” (AI nº 418.727/SP-ED, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 9/5/14).
+    “CONSTITUCIONAL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. HABILITAÇÃO LEGAL. CARGO PÚBLICO: REQUISITOS ESTABELECIDOS EM LEI. C.F., ART. 37, I. I. – A habilitação legal para o exercício do cargo deve ser exigida no momento da posse. No caso, a recorrente, aprovada em primeiro lugar no concurso público, somente não possuía a plena habilitação, no momento do encerramento das inscrições, tendo em vista a situação de fato ocorrida no âmbito da Universidade, habilitação plena obtida, entretanto, no correr do concurso: diploma e registro no Conselho Regional. Atendimento, destarte, do requisito inscrito em lei, no caso. C.F., art. 37, I. II. – R.E. conhecido e provido.” (RE nº 184.425/RS, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 12/6/98).
+    “CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. MILITAR. 1º TENENTE DO QUADRO DE OFICIAIS DE SAÚDE. PARTICIPAÇÃO EM CURSO DE FORMAÇÃO. MOMENTO DA EXIGÊNCIA DE HABILITAÇÃO. CONCURSO FORA DA ÁREA JURÍDICA. INSCRIÇÃO NO CERTAME. MOMENTO DA POSSE. AGRAVO IMPROVIDO. PRECEDENTES. I – O momento para a exigência de habilitação para o exercício do cargo, que não seja da área jurídica, dar-se-á no ato da posse e não da inscrição do concurso. Precedentes. II - Agravo regimental improvido.” (RE nº 594.862, Primeira Turma, Relator o Ministro Ricardo Lewandowsski, DJe de 25/11/10).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 17 de março de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
