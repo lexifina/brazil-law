@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de dois recursos de agravos interpostos contra as decisões que não admitiram recursos extraordinários interpostos pela Vivo S/A e pelo Estado de Santa Catarina.
+    A insurgência encontra-se na análise da possibilidade de creditamento do ICMS referente ao consumo de energia elétrica empregada na prestação dos serviços de telecomunicação diante do disposto na LC 87/96 e Decreto 640/62.
+    Decido.
+    Anote-se, inicialmente, que o recurso interposto pela Vivo S/A referente ao acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina encontra-se prejudicado, haja vista que o Superior Tribunal de Justiça deu provimento ao recurso especial n° 1.323.163, interposto paralelamente ao recurso extraordinário, “para reformar o acórdão e reconhecer a possibilidade de creditamento do ICMS incidente sobre energia elétrica consumida pelas empresas de telefonia”.
+     Com relação ao recurso interposto pelo Estado de Santa Catarina contra a supracitada decisão do STJ que reformou a decisão da instância de origem para reconhecer a possibilidade de creditamento do ICMS no caso em tela, a irresignação não prospera.
+    A jurisprudência do Supremo Tribunal Federal firmou-se no sentido da natureza infraconstitucional da controvérsia relativa à possibilidade de creditamento do ICMS incidente sobre a energia elétrica consumida na prestação de serviços de telecomunicação. Com efeito, para dissentir do acórdão recorrido, seria necessária a análise da causa à luz da legislação infraconstitucional. Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS. ENERGIA ELÉTRICA. EMPRESA DE TELECOMUNICAÇÃO. EQUIPARAÇÃO À INDÚSTRIA. CREDITAMENTO. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. A aquisição de energia elétrica não está sujeita ao regime do crédito físico, notadamente porque não se verifica em tal hipótese a entrada/saída física da mercadoria adquirida. Nesse caso, por força da previsão constante da norma geral, Lei Complementar nº 87/1996, e do Decreto nº 640/1962, prevalece o regime do crédito financeiro. Em tais circunstâncias, a não cumulatividade encontra sua disciplina no âmbito infraconstitucional, não havendo repercussão constitucional imediata a ensejar aprofundamento de mérito na via do recurso extraordinário. Agravo regimental a que se nega provimento” (RE n° 837.422/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 18/2/15).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS: CREDITAMENTO. EMPRESA DE TELECOMUNICAÇÃO. EQUIPARAÇÃO À INDÚSTRIA. NECESSÁRIO EXAME PRÉVIO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n° 760.631/SP-AgR, Primeira Turma, Relatora Mina Cármen Lúcia, DJe de 23/10/09).
+     Ante o exposto, julgo prejudicado o recurso interposto pela Vivo S/A e conheço do agravo interposto pelo Estado de Santa Catarina para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 17 de março de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
