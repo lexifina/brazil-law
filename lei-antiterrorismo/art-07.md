@@ -1,0 +1,1 @@
+Art. 7º Salvo quando for elementar da prática de qualquer crime previsto nesta Lei, se de algum deles resultar lesão corporal grave, aumenta-se a pena de um terço, se resultar morte, aumenta-se a pena da metade.
