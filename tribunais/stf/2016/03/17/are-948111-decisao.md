@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário contra decisão de desembargador do Tribunal de Justiça de Minas Gerais que não conheceu de agravo de instrumento, por falta de cópia de peça obrigatória. (eDOC, p. 54)
+    O apelo extremo não foi admitido por não se haver exaurido todas as instâncias ordinárias.
+    Decido.
+    O recurso não merece prosperar.
+    Conforme expressa dicção do artigo 102, III, da Constituição Federal, a competência do Supremo Tribunal Federal para julgar o recurso extraordinário restringe-se às causas decididas em única ou última instância.
+    No presente caso, a parte agravante não esgotou as vias ordinárias cabíveis, tendo em vista que interpôs o recurso extraordinário contra decisão monocrática quando ainda era cabível agravo interno, conforme prevê o art. 557, § 1º, do Código de Processo Civil. Dessa forma, o presente recurso deve ser obstado, tendo em vista a incidência da Súmula 281 desta Corte.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO MONOCRÁTICA. RECURSO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EXAURIMENTO DE INSTÂNCIA. SÚMULA 281 DO STF. AGRAVO A QUE NEGA SE PROVIMENTO. I – Embargos de declaração recebidos como agravo regimental, na linha da pacífica jurisprudência do Supremo Tribunal Federal, por terem sido opostos contra decisão monocrática. II - A competência do Supremo Tribunal Federal (art. 102, III, da CF/88) restringe-se às causas decididas em única ou última instância. III – A parte recorrente não esgotou as vias recursais ordinárias cabíveis, incidindo no óbice da Súmula 281 deste Tribunal. IV – Agravo regimental a que se nega provimento”. (ARE-ED 818.598, Rel. Min. Ricardo Lewandowski (Presidente), Tribunal Pleno, DJe 20.8.2015)
+    “Agravo regimental no recurso extraordinário com agravo. Embargos declaratórios opostos na origem rejeitados monocraticamente pelo relator. Ausência de interposição do recurso cabível. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. Dano moral. Caracterização. Legitimidade ad causam. Quantum indenizatório. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O recurso extraordinário é inadmissível quando interposto após decisão monocrática proferida pelo relator, haja vista que não esgotada a prestação jurisdicional pelo Tribunal de origem. Incidência da Súmula nº 281/STF. 2. Não se admite o recurso extraordinário quando os dispositivos constitucionais indicados como violados, carecem do necessário prequestionamento. Incidência das Súmulas nºs 282 e 356/STF. 3. A análise das questões relativas à legitimidade ad causam, à existência de dano moral indenizável e ao quantum indenizatório encontra óbice nas Súmulas 636 e 279/STF. 4. Agravo regimental não provido”. (ARE-AgR 866.925, Rel. Min. Dias Toffoli, Segunda Turma, DJe 9.6.2015)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 17 de março de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
