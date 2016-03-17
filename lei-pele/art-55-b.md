@@ -1,0 +1,2 @@
+Art. 55-B. Até a entrada em funcionamento da JAD, o processo e o julgamento de infrações relativas à dopagem no esporte permanecerão sob a responsabilidade da Justiça Desportiva de que tratam os art. 49 a art. 55.
+Parágrafo único. Os processos instaurados e em trâmite na Justiça Desportiva quando da instalação da JAD permanecerão sob responsabilidade daquela até o seu trânsito em julgado, competindo-lhe a execução dos respectivos julgados.
