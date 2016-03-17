@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL – AÇÃO DE INDENIZAÇÃO – Autor coordenou elaboração de proposta de mestrado para a ré que foi aprovada e efetivamente trouxe lucros para a Universidade – Voluntariedade não comprovada – Ré revel – autor deve ser indenizado pelo serviço que prestou, sob pena de enriquecimento ilícito da ré – Valor da indenização a ser apurado na liquidação da sentença – Recurso não provido”. (eDOC 4, p. 102)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 37, inciso II, do texto constitucional.
+    Nas razões recursais, alega-se que o concurso público é requisito essencial para a investidura em cargo público, motivo pelo qual o recorrido não faria jus à percepção de remuneração, sob pena de enriquecimento ilícito.
+    Decido.
+    A irresignação não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que recorrido faz jus à indenização pleiteada. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Irrelevante para o deslinde da ação ter ou não o autor sido contratado e por quais motivos a contratação foi negada ou efetivada. Fato é que o autor prestou serviço à universidade, coordenando a elaboração do projeto de mestrado, o qual foi aprovado e efetivamente trouxe lucros para a ré”. (eDOC 4, p. 104)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. CONDIÇÃO DE EX-COMBATENTE. NÃO RECONHECIMENTO. ALEGAÇÃO DE OMISSÃO DA ADMINISTRAÇÃO. INOCORRÊNCIA. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 27.7.2011. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e a reelaboração da moldura fática delineada no acórdão recorrido, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido. (ARE-AgR 930.908, Rel. Min. ROSA WEBER, Primeira Turma, DJe 24.2.2016)
+    Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. 2. Indenização por danos morais e materiais. Matéria infraconstitucional. 3. Necessidade do revolvimento do conjunto fático-probatório. Incidência do Enunciado 279 da Súmula do STF. 4. Agravo regimental a que se nega provimento. (ARE 894511 AgR, de minha relatoria, Segunda Turma, DJe 25.8.2015)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 17 de março de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
