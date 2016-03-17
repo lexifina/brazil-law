@@ -1,0 +1,43 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra decisão monocrática do Superior Tribunal de Justiça que negou seguimento a idêntica ação constitucional, in verbis:
+    “Trata-se de habeas corpus com pedido de liminar impetrado em favor de CLAUDIA REGINA RODRIGUES DA SILVA, contra acórdão proferido pela 7ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, que negou provimento à apelação n. 0008881-85.2009.8.26.0604, para manter a sentença a sentença que a condenou à pena de 01 (um) ano e 04 (quatro) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 13 (treze) dias-multa, pela prática do delito previsto no art. 171, caput, do Código Penal.
+    Sustentam os impetrantes a ocorrência de constrangimento ilegal ao argumento de que não poderia a Corte de origem ter mantido o modo prisional intermediário, porquanto a conduta teria sido cometida sem violência ou grave ameaça, o quantum de pena autorizaria o regime inicial mais brando e a sanção básica teria sido fixada no mínimo legal.
+    Requer, liminarmente, a concessão da ordem constitucional para suspender o mandado de prisão, até o julgamento final do writ. No mérito, pugna pela alteração do modo prisional para o aberto.
+    A liminar foi indeferida.
+    O Ministério Público manifestou-se pelo não não conhecimento do writ.
+    É o relatório.
+    Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105 da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+    […]
+    O alegado constrangimento ilegal, entretanto, será analisado para a verificação de eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+    Infere-se dos autos que a paciente foi condenada à sanção de 01 (um) ano e 04 (quatro) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 13 (treze) dias-multa, pela prática do delito previsto no art. 171, caput, do Código Penal.
+    Irresignada, a defesa interpôs recurso de apelação perante a Corte de origem, a qual lhe negou provimento, mantido o édito condenatório.
+    No que se refere ao regime inicial, constata-se que o Colegiado manteve modo prisional intermediário fixado pelo juízo primevo, sob a seguinte fundamentação:
+    ‘Considerada a reincidência específica da ré, correta a fixação do regime inicial semiaberto para o cumprimento da pena, sendo inadmissível a conversão da pena privativa de liberdade em restritiva de direitos, ou mesmo a concessão de sursis.’ (e-STJ fl. 40).
+    Acerca do tema, convém destacar o enunciado da Súmula nº 269 deste Superior Tribunal de Justiça, que estabelece: ‘É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatros anos se favoráveis as circunstâncias judiciais’.
+    Assim, fixada a reprimenda em patamar igual ou inferior a 04 (quatro) anos de reclusão e, ainda que favoráveis as circunstâncias judiciais, não se mostra presente a ilegalidade arguida, pois inviável o estabelecimento do modo aberto de cumprimento de pena, nos termos do art. 33 do CP e da Súmula supracitada.
+    […]
+    Diante do exposto, com fundamento nos arts. 38 da Lei n. 8.038/90 e 34, XVIII, do RISTJ, por se afigurar manifestamente incabível, nega-se seguimento ao habeas corpus.
+    [...]”
+    O impetrante alega, em síntese, que o reconhecimento da reincidência com base em condenação transitada em julgado em relação a um dos crimes da continuidade delitiva, subsequente do primeiro, consubstancia constrangimento ilegal.
+    Sustenta, de outro lado, que, independentemente da reincidência, a paciente faz jus ao regime inicial aberto, porquanto as circunstâncias judiciais foram sopesadas favoravelmente.
+    Requer “seja concedida a ordem liminarmente, para que seja extirpada a agravante da reincidência, readequando-se, por consequência, a pena, assim como para que seja fixado o regime aberto e convertida a pena corporal por restritiva de direitos, ou qualquer outra matéria [rectius, medida] que Vossas Excelências entenderem de ofício, expedindo-se o que for necessário. Ao final, requer a confirmação definitiva da ordem no mérito, como prestação jurisdicional justa que se espera”.
+    É o relatório.
+    DECIDO.
+    O impetrante não se desincumbiu do ônus de interpor agravo regimental da decisão que negou seguimento ao recurso ordinário em habeas corpus no Superior Tribunal de Justiça, ou seja, não exauriu a jurisdição no âmbito daquela Corte, conforme exigido pelo artigo 102, inciso II, alínea a, da Constituição Federal, in verbis:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    II – julgar, em recurso ordinário:
+    a) o "habeas-corpus", o mandado de segurança, o "habeas-data" e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão” (grifei).
+    In casu, caberia ao recorrente a interposição de agravo regimental, à luz do que prevê o art. 39 da Lei n. 8.038/90: “Da decisão do Presidente, do Tribunal, da Seção, de Turma ou de Relator que causar gravame à parte, caberá agravo para o órgão especial, Seção ou Turma, conforme o caso, no prazo de 5 (cinco) dias”.
+    O constituinte fez clara opção pelo princípio da colegialidade ao franquear a competência desta Corte para apreciação de recurso ordinário em habeas corpus – consoante disposto na alínea “a” do inciso II do artigo 102 – quando decididos em única instância pelos Tribunais Superiores. E não há de se estabelecer a possibilidade de flexibilização dessa regra constitucional de competência, pois, sendo matéria de direito estrito, não pode ser interpretada de forma ampliada para alcançar autoridades – no caso, membros de Tribunais Superiores – cujos atos não estão submetidos à apreciação do Supremo. Daí porque, em situação similar, a Primeira Turma desta Corte, por ocasião do julgamento do Recurso Ordinário em Habeas Corpus nº 108.877/RS, relatora Ministra Cármen Lúcia, deixou expresso que ““não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça”. No mesmo sentido, RHC 117.267/SP, relator Ministro Dias Toffoli.
+    Cf., no mesmo sentido, o acórdão proferido no julgamento do RHC 111.639/DF, relator Ministro Dias Toffoli, cuja ementa possui o seguinte teor:
+    “Recurso ordinário em habeas corpus. Penal. Roubo circunstanciado pelo emprego de arma. Aplicação do aumento de pena previsto no inciso I do § 2º do art. 157 do Código Penal. Decisão monocrática do relator do habeas corpus no Superior Tribunal de Justiça a ele negando seguimento. Não cabimento do recurso ordinário. Precedentes. Recurso não conhecido. Ofensa ao princípio da colegialidade. Concessão de ordem de habeas corpus de ofício. Precedentes. 1. Segundo o entendimento da Corte ‘não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça’ (RHC nº 108.877/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/10/11). 2. Recurso não conhecido(...)” (grifei).
+    A Constituição Federal restringiu a competência desta Corte às hipóteses nas quais o ato imputado tenha sido proferido por Tribunal Superior, considerando o princípio da colegialidade. Entender de outro modo, para alcançar os atos praticados por membros de Tribunais Superiores, seria atribuir à Corte competência que não lhe foi outorgada pela Constituição.
+    Vê-se, ademais, que a tese de inocorrência de reincidência foi inaugurada neste writ, que, também por essa razão, não pode ser conhecido, sob pena de supressão de instância. Deveras, o impetrante limitou-se a sustentar, no Tribunal a quo, o direito ao regime aberto, inobstante a ocorrência de reincidência.
+    A impossibilidade de regime inicial aberto, in casu, decorre da imposição legal prevista na alínea c do § 2º do art. 33 do Código Penal, que prevê, contrario sensu, tal regime a réu não reincidente.
+    Trata-se, in casu, de utilização promíscua do habeas corpus, a evidenciar flagrante desrespeito às normas constitucionais definidoras da competência do Supremo Tribunal Federal.
+    Ex positis, NEGO SEGUIMENTO ao writ, com fundamento no artigo 38 da Lei n. 8.038/90, restando prejudicada a análise do pleito cautelar.
+    Dê-se ciência ao Ministério Público Federal.
+    Publique-se.
+    Brasília, 17 de março de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
