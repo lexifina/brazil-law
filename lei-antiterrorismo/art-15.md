@@ -1,0 +1,3 @@
+Art. 15. O juiz determinará, na hipótese de existência de tratado ou convenção internacional e por solicitação de autoridade estrangeira competente, medidas assecuratórias sobre bens, direitos ou valores oriundos de crimes descritos nesta Lei praticados no estrangeiro.
+§ 1º Aplica-se o disposto neste artigo, independentemente de tratado ou convenção internacional, quando houver reciprocidade do governo do país da autoridade solicitante.
+§ 2º Na falta de tratado ou convenção, os bens, direitos ou valores sujeitos a medidas assecuratórias por solicitação de autoridade estrangeira competente ou os recursos provenientes da sua alienação serão repartidos entre o Estado requerente e o Brasil, na proporção de metade, ressalvado o direito do lesado ou de terceiro de boa-fé.

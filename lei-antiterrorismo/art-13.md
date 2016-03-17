@@ -1,0 +1,1 @@
+Art. 13. Quando as circunstâncias o aconselharem, o juiz, ouvido o Ministério Público, nomeará pessoa física ou jurídica qualificada para a administração dos bens, direitos ou valores sujeitos a medidas assecuratórias, mediante termo de compromisso.
