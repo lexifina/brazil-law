@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Wagner Paes de Camargo, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que não conheceu do HC nº 342.309/SP, Relatora a Ministra Maria Thereza de Assis Moura.
+    Sustenta a impetrante, em linhas gerais, que as circunstâncias do caso concreto permitiram ao paciente iniciar o cumprimento da pena em regime menos gravoso do que o fechado, que foi estipulado à margem de fundamentação idônea.
+    Assevera, ainda, o preenchimento dos requisitos objetivos e subjetivos necessários à substituição da pena privativa de liberdade por restritiva.
+    Requer, liminarmente, a concessão da ordem para que seja fixado regime aberto para o início de cumprimento da pena do paciente, bem como a substituição da pena privativa de liberdade por restritiva de direitos.
+    Examinados os autos, decido.
+    Transcrevo a síntese do julgado proferido pelo Superior Tribunal de Justiça:
+    “HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. VIA INADEQUADA. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. IMPOSIÇÃO DO REGIME INICIAL FECHADO. NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. NATUREZA E QUANTIDADE DAS DROGAS. COMÉRCIO DE DROGAS À ADOLESCENTE. NÃO CONHECIMENTO.
+    1. Tratando-se de habeas corpus substitutivo de recurso especial, inviável o seu conhecimento.
+    2. Devidamente fundamentada a imposição do regime inicial fechado e a negativa de substituição da pena privativa de liberdade por restritivas de direitos, em razão das circunstâncias do caso concreto, em especial a quantidade e a natureza das substâncias entorpecentes apreendidas – um tijolo de cocaína, pesando aproximadamente 518 g (quinhentos e dezoito gramas), 06 invólucros também contendo cocaína, pesando cerca de 296 g (duzentos e noventa e seis gramas), outro invólucro com a mesma droga, com peso de 174 g (cento e setenta e quatro gramas), mas 01 porção de 5 g (cinco gramas) e 12 tubos plásticos com 22 g (vinte e dois gramas), todos contendo cocaína, além de um papelote de 4,5 g (quatro gramas e quinhentos centigramas) de maconha -, não há constrangimento ilegal a ser sanado. Ademais, o fato de o réu ter sido flagrado vendendo drogas a um adolescente atesta o exacerbado grau de reprovabilidade de sua conduta.
+    3. Habeas corpus não conhecido.”
+    Essa é a razão pela qual se insurge a impetrante.
+    Pelo que se tem no acórdão proferido pela Sexta Turma não se vislumbra flagrante ilegalidade, abuso de poder ou teratologia. Pelo contrário, a decisão proferia pelo Superior Tribunal de Justiça mostra-se devidamente fundamentada, estando justificado o convencimento formado.
+    Com efeito, conforme destacou a Ministra Maria Thereza de Assis Moura em seu voto
+    “o Tribunal de origem manteve a fixação do regime fechado e a negativa de substituição da pena privativa de liberdade por restritivas de direitos em razão da gravidade concreta do delito em comento, ressaltando a natureza e a quantidade considerável dos entorpecentes apreendidos - um tijolo de cocaína, pesando aproximadamente 518 g (quinhentos e dezoito gramas), 06 invólucros também contendo cocaína, pesando cerca de 296 g (duzentos e noventa e seis gramas), outro invólucro com a mesma droga, com peso de 174 g (cento e setenta e quatro gramas), mas 01 porção de 5 g (cinco gramas) e 12 tubos plásticos com 22 g (vinte e dois gramas), todos contendo cocaína, além de um papelote de 4,5 g (quatro gramas e quinhentos centigramas) de maconha (fl. 9). Além disso, destacou o fato de o réu ter sido flagrado vendendo drogas a um adolescente, o que atestaria o exacerbado grau de reprovabilidade concreta de sua conduta (fl. 24).
+    Com efeito, é este o espírito da Lei Antidrogas, que dispõe:
+    Art. 42. O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+    Nesse diapasão, a Corte estadual entendeu ser necessária uma resposta penal mais efetiva, como forma de retribuição proporcional à gravidade da conduta, tendo em vista que a quantidade e a natureza das substâncias entorpecentes encontradas em poder do paciente, bem como o fato de ele ter sido flagrado vendendo drogas a um adolescente, demonstram que regime mais brando ou eventual substituição da reprimenda corporal por penas alternativas não seria suficiente para a reprovação e a prevenção do delito em comento.
+    Assim, devidamente fundamentada a fixação do regime inicial fechado e a negativa de substituição da pena, com base em dados concretos constantes dos autos, não há ilegalidade a ser sanada.” (grifos da autora).
+    Esse entendimento não afronta a jurisprudência do Supremo Tribunal Federal, segundo a qual
+    “[a] valoração negativa da quantidade, natureza e diversidade do entorpecente apreendido representa fator suficiente para a fixação de regime inicial de cumprimento da pena privativa de liberdade mais gravoso e para obstar a substituição da pena privativa de liberdade por restritiva de direitos” (HC nº 131.761/SC, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe 29/2/16).
+    No mesmo sentido: HC nº 125.077/MS-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 4/3/15; RHC nº 122.804/MT, Primeira Turma, Relatora a Ministra Rosa Weber, Dje 14/10/16; RHC nº 118.405/ES, Segunda Turma, Relator o Ministro Teori Zavascki, DJe 27/7/14.
+    Ante o exposto, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 17 de março de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
