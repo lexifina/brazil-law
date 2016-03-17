@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação cível – Servidor público municipal – Adicional de insalubridade – Admissibilidade, perícia técnica que comprovou o exercício de atividade insalubre em grau médio – Adicional incidente sobre os proventos integrais – Adequação da correção monetária e dos juros de mora – Recurso voluntário da Municipalidade improvido e parcialmente provido o oficial.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, II; e 37, todos da Constituição.
+    O recurso não deve ser provido, tendo em vista que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal no sentido de que, diante da omissão legislativa, o Poder Judiciário pode fixar o vencimento básico do servidor como base de cálculo do adicional de insalubridade, vedado apenas alteração do indexador estabelecido em lei e vinculação ao salário mínimo. Nessa linha, vejam-se:
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Base de cálculo do adicional de insalubridade. 4. Ausência de legislação local que discipline o tema. 5. Vedação de vinculação da base de cálculo do referido adicional ao salário mínimo. Jurisprudência do STF. 6. Acórdão do Tribunal de origem que, ante a omissão legislativa e a impossibilidade de vinculação ao salário minimo, fixa a base de cálculo do adicional de insalubridade de acordo com os vencimentos básicos do servidor. Não há contrariedade à orientação fixada pelo STF, que apenas veda ao Poder Judiciário a alteração do indexador legalmente estabelecido, o que não ocorreu no caso dos autos. 7. Ausência de argumentos capazes de infirmar a decisão agravada. 8. Agravo regimental a que se nega provimento.” (RE 635.669-AgR, Rel. Min. Gilmar Mendes, Segunda Turma)
+    “Agravo regimental no recurso extraordinário. Administrativo. Servidor público. Município. Base de cálculo do adicional de insalubridade. Ausência de previsão legal. Incidência sobre o vencimento básico. Possibilidade. Súmula Vinculante nº 4. Precedentes.
+    1. Diante da proibição constitucional de vinculação de qualquer vantagem de servidor público ou empregado ao salário mínimo e da impossibilidade da modificação da respectiva base de cálculo, não viola a Constituição a decisão do Tribunal que, em razão da omissão legislativa, fixa o vencimento básico do servidor como base de cálculo do adicional de insalubridade.
+    2. Agravo regimental não provido.” (RE 687.395 AgR, Rel. Min. Dias Toffoli, Primeira Turma)
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 17 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
