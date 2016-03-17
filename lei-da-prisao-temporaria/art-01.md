@@ -16,3 +16,4 @@ l) quadrilha ou bando (art. 288), todos do Código Penal;
 m) genocídio (arts. 1°, 2° e 3° da Lei n° 2.889, de 1° de outubro de 1956), em qualquer de sua formas típicas;
 n) tráfico de drogas (art. 12 da Lei n° 6.368, de 21 de outubro de 1976);
 o) crimes contra o sistema financeiro (Lei n° 7.492, de 16 de junho de 1986).
+p) crimes previstos na Lei de Terrorismo.
