@@ -1,0 +1,24 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Adilberto de França Queiroz e Roberto Alves dos Santos, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao REsp 1.370.391/MS.
+    O Juízo de Direito da 1ª Vara Criminal da Comarca de Caarapó/MS condenou os pacientes à pena de 02 (dois) anos e 06 (seis) meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006). Naquela oportunidade, o magistrado de primeiro grau substituiu a pena privativa de liberdade por duas restritivas de direitos.
+    Inconformado com a dosimetria da pena, o Parquet interpôs apelação perante o Tribunal de Justiça do Estado de Mato Grosso do Sul, que deu parcial provimento ao recurso para redimensionar a pena para 05 (cinco) anos de reclusão.
+    Ato contínuo, o Superior Tribunal de Justiça deu provimento ao recurso especial interposto pelo Ministério Público para redimensionar a pena para 09 (nove) anos e 11 (onze) meses de reclusão. Naquela oportunidade, a Corte Superior, nos autos do REsp 1.370.391/MS, conheceu do agravo para conhecer em parte do recurso especial manejado pelos acusados e, nessa extensão, negar-lhe provimento.
+    No presente writ, a Impetrante insurge-se contra a dosimetria da pena aplicada aos pacientes. Alega a possibilidade de aplicação da causa de diminuição da pena prevista no § 4º do art. 33 da Lei 11.343/2006, porquanto os pacientes ostentam bons antecedentes, não se dedicam a atividades criminosas, nem integram organização criminosa. Requer, em medida liminar e no mérito, a reavaliação da dosimetria da pena.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “RECURSO ESPECIAL. TRÁFICO INTERESTADUAL DE DROGAS. JULGADO PROFERIDO EM HABEAS CORPUS. INAPTIDÃO PARA COMPROVAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. INTERESTADUALIDADE. MAJORANTE CONFIGURADA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. IMPOSSIBILIDADE. INTEGRAÇÃO EM ORGANIZAÇÃO CRIMINOSA. REGIME INICIAL E SUBSTITUIÇÃO DA PENA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RECURSO DA ACUSAÇÃO PROVIDO. RECURSO DA DEFESA CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+    1. Os julgados prolatados em habeas corpus não se prestam à configuração do dissídio jurisprudencial, nos moldes do art. 266 do RISTJ; devem, obrigatoriamente, ser oriundos de recurso especial. Ressalva do Relator.
+    2. Para a incidência da causa especial de aumento de pena prevista no inciso V do art. 40 da Lei de Drogas, é irrelevante que haja a efetiva transposição da divisa interestadual pelo agente, sendo suficiente, para a configuração da interestadualidade do delito, a comprovação de que a substância tinha como destino localidade em outro estado da Federação.
+    3. Os recorridos foram presos em flagrante com substância entorpecente adquirida em Amambai– MS e apreendida em Caarapó– MS, havendo o próprio acusado confessado que a droga seria transportada para outra unidade da Federação, qual seja, Goiás, de modo que se mostra devida a incidência da causa especial de aumento de pena prevista no inciso V do art. 40 da Lei n. 11.343/2006, ainda que não tenha ocorrido a efetiva transposição da fronteira interestadual.
+    4. Embora os recorridos fossem tecnicamente primários ao tempo do delito e possuidores de bons antecedentes, foram apontados elementos concretos dos autos que evidenciam a integração dos acusados em organização criminosa, estabelecida em contexto de tráfico de drogas.
+    5. Não se mostra razoável admitir que alguém preso com elevada quantidade de drogas (no caso, aproximadamente 480 quilos de maconha) ostente a condição de traficante eventual, de modo a ser merecedor do benefício previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+    6. A ausência de indicação do dispositivo de lei federal supostamente violado pela instância ordinária caracteriza deficiência na fundamentação, o que atrai a incidência da Súmula n. 284 do STF, aplicada por analogia ao recurso especial.
+    7. Recurso especial interposto pelo Ministério Público do Estado de Mato Grosso do Sul provido; agravo conhecido para conhecer em parte do recurso especial interposto pelos acusados e, nessa extensão, negar-lhe provimento, nos termos do voto do Ministro Relator”.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com o imediato redimensionamento da pena aplicada aos pacientes.
+    Outrossim, a liminar pleiteada tem caráter nitidamente satisfativa, confundindo-se com o próprio mérito da matéria suscitada, a merecer exame mais acurado pela composição colegiada competente para o seu julgamento.
+    Ante o exposto, indefiro a liminar .
+    Ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 17 de março de 2016.
+Ministra Rosa Weber
+Relatora
