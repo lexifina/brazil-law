@@ -1,0 +1,1 @@
+Art. 10. Mesmo antes de iniciada a execução do crime de terrorismo, na hipótese do art. 5º desta Lei, aplicam-se as disposições do art. 15 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal.
