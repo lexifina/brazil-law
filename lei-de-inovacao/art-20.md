@@ -6,3 +6,7 @@ Art. 20. Os órgãos e entidades da administração pública, em matéria de int
 § 5º Para os fins do caput e do § 4º, a administração pública poderá, mediante justificativa expressa, contratar concomitantemente mais de uma ICT, entidade de direito privado sem fins lucrativos ou empresa com o objetivo de:
 I - desenvolver alternativas para solução de problema técnico específico ou obtenção de produto ou processo inovador; ou
 II - executar partes de um mesmo objeto.
+§ 6º Observadas as diretrizes previstas em regulamento específico, os órgãos e as entidades da administração pública federal competentes para regulação, revisão, aprovação, autorização ou licenciamento atribuído ao Poder Público, inclusive para fins de vigilância sanitária, preservação ambiental, importação de bens e segurança, estabelecerão normas e procedimentos especiais, simplificados e prioritários que facilitem:
+I - a realização das atividades de pesquisa, desenvolvimento ou inovação encomendadas na forma do caput;
+II - a obtenção dos produtos para pesquisa e desenvolvimento necessários à realização das atividades descritas no inciso I; e
+III - a fabricação, a produção e a contratação de produto, serviço ou processo inovador resultante das atividades descritas no inciso I.
