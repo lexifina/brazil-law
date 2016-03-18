@@ -1,6 +1,0 @@
-Art. 28 - Denegado o recurso extraordinário ou o recurso especial, caberá agravo de instrumento, no prazo de cinco dias, para o Supremo Tribunal Federal ou para o Superior Tribunal de Justiça, conforme o caso.
-§ 1º - Cada agravo de instrumento será instruído com as peças que forem indicadas pelo agravante e pelo agravado, dele constando, obrigatoriamente, além das mencionadas no parágrafo único do art. 523 do Código de Processo Civil, o acórdão recorrido, a petição de interposição do recurso e as contra-razões, se houver.
-§ 2º - Distribuído o agravo de instrumento, o relator proferirá decisão.
-§ 3º - Na hipótese de provimento, se o instrumento contiver os elementos necessários ao julgamento do mérito do recurso especial, o relator determinará, desde logo, sua inclusão em pauta, observando-se, daí por diante, o procedimento relativo àqueles recursos, admitida a sustentação oral.
-§ 4º - O disposto no parágrafo anterior aplica-se também ao agravo de instrumento contra denegação de recurso extraordinário, salvo quando, na mesma causa, houver recurso especial admitido e que deva ser julgado em primeiro lugar.
-§ 5º - Da decisão do relator que negar seguimento ou provimento ao agravo de instrumento, caberá agravo para o órgão julgador no prazo de cinco dias.
