@@ -1,5 +1,5 @@
 Art. 33. A parte interessada poderá pleitear ao órgão do Poder Judiciário competente a declaração de nulidade da sentença arbitral, nos casos previstos nesta Lei.
 § 1º A demanda para a declaração de nulidade da sentença arbitral, parcial ou final, seguirá as regras do procedimento comum, previstas na Lei nº 5.869, de 11 de janeiro de 1973 (Código de Processo Civil), e deverá ser proposta no prazo de até 90 (noventa) dias após o recebimento da notificação da respectiva sentença, parcial ou final, ou da decisão do pedido de esclarecimentos.
 § 2º A sentença que julgar procedente o pedido declarará a nulidade da sentença arbitral, nos casos do art. 32, e determinará, se for o caso, que o árbitro ou o tribunal profira nova sentença arbitral.
-§ 3º A declaração de nulidade da sentença arbitral também poderá ser arguida mediante impugnação, conforme o art. 475-L e seguintes da Lei nº 5.869, de 11 de janeiro de 1973 (Código de Processo Civil), se houver execução judicial.
+§ 3º A decretação da nulidade da sentença arbitral também poderá ser requerida na impugnação ao cumprimento da sentença, nos termos dos arts. 525 e seguintes do Código de Processo Civil, se houver execução judicial.
 § 4º A parte interessada poderá ingressar em juízo para requerer a prolação de sentença arbitral complementar, se o árbitro não decidir todos os pedidos submetidos à arbitragem.
