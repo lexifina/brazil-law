@@ -1,1 +1,0 @@
-Art. 38 - O Relator, no Supremo Tribunal Federal ou no Superior Tribunal de Justiça, decidirá o pedido ou o recurso que haja perdido seu objeto, bem como negará seguimento a pedido ou recurso manifestamente intempestivo, incabível ou, improcedente ou ainda, que contrariar, nas questões predominantemente de direito, Súmula do respectivo Tribunal.
