@@ -1,1 +1,0 @@
-Art. 12. A parte beneficiada pela isenção do pagamento das custas ficará obrigada a pagá-las, desde que possa fazê-lo, sem prejuízo do sustento próprio ou da família, se dentro de cinco anos, a contar da sentença final, o assistido não puder satisfazer tal pagamento, a obrigação ficará prescrita.

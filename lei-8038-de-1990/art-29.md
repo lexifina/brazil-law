@@ -1,1 +1,0 @@
-Art. 29 - É embargável, no prazo de quinze dias, a decisão da turma que, em recurso especial, divergir do julgamento de outra turma, da seção ou do órgão especial, observando-se o procedimento estabelecido no regimento interno.
