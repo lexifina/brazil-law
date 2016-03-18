@@ -1,0 +1,34 @@
+Execução Penal. RHC. Superveniência de trânsito em julgado de nova condenação no curso da execução penal. Novo termo inicial para a obtenção de benefícios. Precedentes.
+- Recurso ordinário em habeas corpus desprovido, com fundamento no artigo 193 do RISTF.
+    Decisão: Trata-se de recurso ordinário em habeas corpus interposto de acórdão do Superior Tribunal de Justiça cuja ementa possui o seguinte teor:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. ALTERAÇÃO DA DATA-BASE. TERMO INICIAL. TRÂNSITO EM JULGADO DA ÚLTIMA CONDENÇÃO. RECURSO NÃO PROVIDO.
+    1. Este Superior Tribunal de Justiça possui o entendimento de que a prolação de nova condenação definitiva no curso da execução penal enseja a unificação das reprimendas, fixando-se como novo termo a quo, para a concessão de futuros benefícios, a data do trânsito em julgado da nova condenação, sendo irrelevante que o crime tenha sido praticado antes ou depois do início da execução da pena.
+    2. Verificada a superveniência de nova condenação no curso da execução da pena, é imperiosa a interrupção do lapso temporal, com a consequente recontagem do prazo para a concessão de novos benefícios (exceto para fins de livramento condicional, indulto e comutação de penas), tendo como termo inicial a data do trânsito em julgado do novo decreto condenatório.
+    3. Agravo regimental não provido.”
+    O recorrente alega, em síntese, que no silêncio da LEP, a unificação da pena em decorrência do trânsito em julgado de nova condenação não tem aptidão para interromper o prazo para obtenção de benefícios da execução penal, devendo ser considerado, in casu, a data da última prisão (28/2/2014) e não a do trânsito em julgado de nova condenação (15/9/2014).
+    Requer o provimento do recurso.
+    Sem contrarrazões.
+    O Ministério Público Federal manifestou-se em parecer do qual extraio o seguinte:
+    “[...]
+    4. Não é possível vislumbrar qualquer ilegalidade no acórdão proferido pelo Superior Tribunal de Justiça, cujo teor está em consonância com a jurisprudência firmada por essa Suprema Corte em casos análogos:
+    Recurso ordinário em habeas corpus. Penal. Roubo triplamente qualificado. Não conhecimento da impetração pelo Superior Tribunal de Justiça, por ser ela substitutiva de recurso especial. Entendimento que não se coaduna com o entendimento da Corte. Precedentes. Execução penal. Somatória ou unificação de penas. Alteração da data-base para a concessão de benefícios. Trânsito em julgado de última condenação. Precedentes. Recurso parcialmente provido.
+    1. O Supremo Tribunal Federal não tem admitido a rejeição da impetração perante o Superior Tribunal de Justiça a pretexto de se cuidar de substitutivo de recurso especial cabível (HC nº 115.715/CE, Primeira Turma, Rel. p/ o ac. Min. Marco Aurélio, julg. em 11/6/13).
+    2. Firmou-se na Turma o entendimento de que, sobrevindo nova condenação no curso da execução penal, a contagem do prazo para a concessão de benefícios é interrompida e passa a ter como parâmetro a pena unificada ou somada, considerando-se como termo inicial para a contagem do período aquisitivo, a data do trânsito em julgado da última condenação, não importando se o delito é anterior ou posterior ao início da execução penal. Precedentes.
+    3. Recurso a que se dá parcial provimento. Grifo nosso.
+    (RHC 121849, Rel. Min. DIAS TOFFOLI, Primeira Turma, julgado em 22/04/2014, Dje-116 DIVULG 16-06-2014 PUBLIC 17-06-2014)
+    Ementa: PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ACÓRDÃO DENEGATÓRIO DE HC PROLATADO POR TRIBUNAL ESTADUAL. IMPETRAÇÃO DE NOVO WRIT NO STJ EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. VEDAÇÃO. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE NOVA CONDENAÇÃO DURANTE O CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE. ALTERAÇÃO DA DATA-BASE PARA A CONCESSÃO DE NOVOS BENEFÍCIOS. POSSIBILIDADE. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO DA ÚLTIMA CONDENAÇÃO. RECURSO ORDINÁRIO EM HABEAS CORPUS A QUE SE NEGA PROVIMENTO.
+    1. “A superveniência de nova condenação definitiva no curso da execução criminal sempre altera a data-base para concessão de benefícios, ainda que o crime tenha sido cometido antes do início de cumprimento da pena. A data do trânsito em julgado da nova condenação é o termo inicial de contagem para concessão de benefícios, que passa a ser calculado a partir do somatório das penas que restam a ser cumpridas” (HC 101.023, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 26.03.10).
+    2. In casu, o paciente cumpria pena de 8 (oito) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, em regime semiaberto, quando foi condenado definitivamente pela prática de nova infração penal. O juízo da execução determinou a unificação das penas, sem alterar, contudo, a data-base para a concessão de novos benefícios. Entretanto, a Corte Estadual deu provimento ao agravo em execução interposto pelo Ministério Público para determinar que o termo inicial da data-base para a concessão de novos benefícios fosse a data do trânsito em julgado da nova condenação.
+    3. O recurso cabível contra acórdão denegatório de habeas corpus prolatado pelos Tribunais Regionais Federais ou pelos Tribunais de Justiça dos Estados ou do Distrito Federal e Territórios, é o recurso ordinário, a ser apreciado pelo Superior Tribunal de Justiça, nos termos do artigo 105, inciso II, alínea a, da Constituição Federal.
+    4. “A impetração de novo habeas corpus em caráter substitutivo escamoteia o instituto recursal próprio, em manifesta burla ao preceito constitucional” (HC 116.481-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 1º.08.13).
+    5. Ademais, “não há nenhuma ilegalidade no acórdão do Superior Tribunal de Justiça que, embora assente que não conhece de habeas corpus porque impetrado em substituição ao recurso ordinariamente previsto, examina as questões postas com o fito de verificar a existência de constrangimento ilegal apto a justificar a concessão da ordem de ofício” (HC 116.389, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 14.05.13).
+    6. O Superior Tribunal de Justiça, inobstante não ter conhecido do habeas corpus lá impetrado, sob o fundamento de que o writ é substitutivo de recurso ordinário, tendo em vista ter sido manejado contra decisão denegatória de HC na Corte Estadual – analisou a possibilidade da concessão da ordem de ofício, tendo concluído que, no caso sub examine, não há flagrante ilegalidade que justifique a adoção desta medida.
+    7. Recurso ordinário em habeas corpus a que se nega provimento.
+    (RHC nº 116.528/RS, Rel. Min. Luiz Fux, DJe de 26/02/2014).
+    Deveras, o acórdão recorrido guarda perfeita sintonia com a jurisprudência pacífica desta Corte.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 192 do RISTF.
+    Publique-se. Int..
+    Brasília, 18 de março de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
