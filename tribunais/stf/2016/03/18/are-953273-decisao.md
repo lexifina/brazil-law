@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Tribunal de Justiça que negou seguimento a apelação, mantendo a sentença pela condenação da recorrente ao pagamento de indenização por dano moral, em decorrência de acidente de trânsito.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, alega-se violação ao disposto no artigo 5º, caput, I, XXXV, LIV e LV da Constituição Federal, por ofensa aos princípios da isonomia, da efetividade na prestação jurisdicional, do devido processo legal e do contraditório e da ampla defesa.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Verifica-se que, no julgamento do ARE-RG 945.271, de minha relatoria, julgado em 18.03.2016, (Tema 880), o Tribunal decidiu pela inexistência de repercussão geral das controvérsias que versem sobre o direito, ou não, à indenização por dano moral, decorrente de responsabilidade civil extracontratual (acidente de trânsito), por demandar o reexame de fatos e provas e o da legislação infraconstitucional, como na hipótese dos autos.
+    Ademais, no exame do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Por fim, ao analisar o ARE 639.228-RG, de relatoria do Ministro Cezar Peluso, DJe de 31.08.2011 (Tema 424), o Plenário desta Corte reconheceu a inexistência de repercussão geral da controvérsia referente à suposta ofensa aos princípios do contraditório e da ampla defesa, em virtude do indeferimento de produção de prova no âmbito de processo judicial, tendo em vista a natureza infraconstitucional da questão posta.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 18 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
