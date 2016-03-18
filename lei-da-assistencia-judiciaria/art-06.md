@@ -1,1 +1,0 @@
-Art. 6º. O pedido, quando formulado no curso da ação, não a suspenderá, podendo o juiz, em face das provas, conceder ou denegar de plano o benefício de assistência. A petição, neste caso, será autuada em separado, apensando-se os respectivos autos aos da causa principal, depois de resolvido o incidente.

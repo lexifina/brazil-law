@@ -1,1 +1,0 @@
-Art. 17. Quando não for possível a efetivação executiva da sentença ou do acordo mediante desconto em folha, poderão ser as prestações cobradas de alugueres de prédios ou de quaisquer outros rendimentos do devedor, que serão recebidos diretamente pelo alimentando ou por depositário nomeado pelo juiz.
