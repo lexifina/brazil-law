@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Processual Civil/Tributário – Mandado de segurança – Empresa de telefonia celular – Pretensão ao afastamento da taxa de adesão a planos promocionais da base de cálculo do ICMS. Preliminar de inadequação da via arredada. Contribuinte de direito que passou a ter legitimação para demandar sobre tributo indireto – Decisão do STJ em sede de repetitivos – Extinção processual que se reforma. No cerne, também sob a égide do art. 543-c do CPC, decidiu a Instância Especial que “o ICMS somente incide sobre o serviço de telecomunicações propriamente dito e não sobre as atividades-meio e serviços suplementares” - Súmula 350 daquela Corte – Segurança concedida nesse tópico. Restituição/compensação, todavia, restrita ao período que incia na data da impetração (Súmula 271 do STF), o que, em parte, ficou prejudicado diante da liminar – Recurso provido em parte.”
+    No recurso extraordinário do Estado de São Paulo, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 155, II, da Constituição Federal.
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o recurso por entender controvérsia suscitada demandaria o exame de matéria infraconstitucional.
+    É o relatório.
+    De plano, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo, em relação à incidência de ICMS sobre a taxa de adesão de programa promocional de telefonia, demandaria o reexame de fatos e provas e o da legislação infraconstitucional, aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ICMS. SERVIÇO DE TELEVISÃO POR ASSINATURA. INCIDÊNCIA. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – Questão dirimida pelo Tribunal de origem com base na interpretação da legislação infraconstitucional aplicável à espécie. Assim, a afronta à Constituição, se ocorrente, seria apenas indireta, o que inviabiliza o recurso extraordinário. Precedentes. II – Agravo regimental improvido.” (RE 554722 AgR, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 12.04.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. INTERNET. ICMS. INCIDÊNCIA. MATÉRIA INFRACONSTITUCIONAL. 1. A questão relativa à incidência do ICMS sobre os serviços prestados pelos provedores de internet foi dirimida com fundamento na legislação infraconstitucional que disciplina a espécie: Lei n. 9.472/97, Lei Complementar n. 87/96 e norma n. 004/95, do Ministério das Comunicações. 2. A ausência de ofensa direta à norma constitucional torna incabível o recurso extraordinário. Agravo regimental a que se nega provimento.”
+(RE 596805 AgR, Rel. Min. EROS GRAU, Segunda Turma, DJe 20.11.2009)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 21 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
