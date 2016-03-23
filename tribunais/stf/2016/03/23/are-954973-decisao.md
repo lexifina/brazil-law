@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. TELEFONIA: DEFEITO NA PRESTAÇÃO DOS SERVIÇOS. DANOS MORAIS. ALEGAÇÃO DE OFENSA AO PRINCÍPIO CONSTITUCIONAL DA LEGALIDADE: INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE INOBSERVÂNCIA DO ART. 5º, INCS. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra julgado da Primeira Vara do Juizado Especial Cível de São Paulo:
+    “INTERNET – defeitos na prestação dos serviços – cancelamento por parte do consumidor – continuidade das cobranças – devolução dos valores – dano moral – cabimento – sentença mantida – Recurso improvido” (fl. 143).
+    2. No recurso extraordinário, a Agravante alega ter o Colégio Recursal contrariado os arts. 5º, incs. II, LIV e LV, e 37 da Constituição da República, ao manter o “valor indenizatório de R$ 2.000,00” (fl. 151).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa direta à Constituição da República.
+    Analisados os elementos havidos nos autos, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. Este Supremo Tribunal Federal assentou não caber recurso extraordinário por contrariedade ao princípio da legalidade quando necessária a análise da legislação infraconstitucional aplicada à espécie. Incide a Súmula n. 636 do Supremo Tribunal Federal:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    6. No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral quanto às alegações de contrariedade aos princípios do devido processo legal, do contraditório e da ampla defesa quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    7. A apreciação do pleito recursal demandaria também a avaliação do conjunto probatório do processo, procedimento inviável em recurso extraordinário. Incide, na espécie, a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. TELEFONIA. COBRANÇA INDEVIDA. MULTA DIÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. VALOR DA INDENIZAÇÃO POR DANOS MORAIS E ALEGAÇÃO DE AFRONTA AO ART. 5º, INCS. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 893.353-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 8.10.2015).
+    “DIREITO DO CONSUMIDOR. TELEFONIA MÓVEL. COMPETÊNCIA DOS JUIZADOS ESPECIAIS. ALEGAÇÃO DE NECESSIDADE DE PROVA TÉCNICA. TROCA DE LINHAS E DE PLANOS. EQUÍVOCO MANTIDO APÓS RECLAMAÇÃO. DANOS MORAIS. INDENIZAÇÃO. SÚMULA 279/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO REGIONAL PUBLICADO EM 18.10.2011. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 279 do STF e ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido” (ARE n. 682.565-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 19.2.2013).
+    Nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de março de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
