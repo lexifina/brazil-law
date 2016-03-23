@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. TELEFONIA: DEFEITO NA PRESTAÇÃO DOS SERVIÇOS. DANOS MORAIS. ALEGAÇÃO DE OFENSA AO PRINCÍPIO CONSTITUCIONAL DA LEGALIDADE: INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra julgado da Turma Recursal Cível e Criminal do Colégio Recursal – Casa Branca/SP:
+    “JUIZADO ESPECIAL CÍVEL – TELEFONIA. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. CONTRATO TELEFONIA RURAL. DEFICIÊNCIA NA PRESTAÇÃO DO SERVIÇO. SENTENÇA: PROCEDÊNCIA. RECURSO INOMINADO: ARGUMENTOS: PRELIMINARES: INÉPSIA DA INICIAL, POR AUSÊNCIA DE CAUSA DE PEDIR. CARÊNCIA DA AÇÃO – INADEQUAÇÃO DO RITO. MÉRITO: ARGUMENTOS: TROCA DE TECNOLOGIA POR EXIGÊNCIA DA ANATEL. AUSÊNCIA DE PROVAS E DE DANO MORAL. RECURSO IMPROVIDO” (fl. 160).
+    2. No recurso extraordinário, a Agravante alega ter o Colégio Recursal contrariado os arts. 5º, incs. II, V e X, e 37 da Constituição da República.
+    Argumenta que “o artigo 5º, inciso X, prevê a ressarcibilidade compensatória de danos a imagem, honra, bem como outros bens afetos a égide imaterial da personalidade jurídica, no entanto o v. acórdão ora recorrido procedeu a interpretação diversa, aplicando o referido artigo constitucional inadequadamente” (fl. 169).
+    3. O recurso extraordinário foi inadmitido ao fundamento de que “assertivas de ofensa a dispositivos de lei federal não servem de suporte à interposição de recurso extraordinário” (fl. 183).
+    Analisados os elementos havidos nos autos, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. Este Supremo Tribunal Federal assentou não caber recurso extraordinário por contrariedade ao princípio da legalidade quando necessária a análise da interpretação da legislação infraconstitucional aplicada à espécie. Incide a Súmula n. 636 do Supremo Tribunal Federal:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    6. A apreciação do pleito recursal demandaria reexame do conjunto probatório do processo, procedimento inviável em recurso extraordinário. Incide, na espécie, a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. TELEFONIA. COBRANÇA INDEVIDA. MULTA DIÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. VALOR DA INDENIZAÇÃO POR DANOS MORAIS E ALEGAÇÃO DE AFRONTA AO ART. 5º, INCS. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 905.715-AgR, de minha relatoria, Segunda Turma, DJe 29.9.2015).
+    “DIREITO DO CONSUMIDOR. TELEFONIA MÓVEL. COMPETÊNCIA DOS JUIZADOS ESPECIAIS. ALEGAÇÃO DE NECESSIDADE DE PROVA TÉCNICA. TROCA DE LINHAS E DE PLANOS. EQUÍVOCO MANTIDO APÓS RECLAMAÇÃO. DANOS MORAIS. INDENIZAÇÃO. SÚMULA 279/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO REGIONAL PUBLICADO EM 18.10.2011. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 279 do STF e ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido” (ARE n. 682.565-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 19.2.2013).
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego provimento a este agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de março de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
