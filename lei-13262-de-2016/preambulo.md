@@ -1,0 +1,2 @@
+Autoriza o Banco do Brasil S.A. e a Caixa Econômica Federal a constituírem subsidiárias e adquirirem participação nos termos e condições previstos no art. 2º da Lei nº 11.908, de 3 de março de 2009; reabre o prazo previsto no art. 9º da Lei nº 13.155, de 4 de agosto de 2015; altera a data da exigibilidade do disposto no inciso II do § 1º e no § 3º do art. 10 da Lei nº 10.671, de 15 de maio de 2003; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
