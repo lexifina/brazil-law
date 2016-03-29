@@ -1,0 +1,17 @@
+Decisão:
+ementa: Processual penal. Habeas Corpus. Súmula 691/STF. Homicídio qualificado. Prisão cautelar.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão da Ministra Laurita Vaz, que indeferiu a cautelar requerida nos autos do RHC 67.182, em trâmite no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi denunciado pela suposta prática do crime previsto no artigo 121, § 2º, inciso III, c/c o artigo 14, inciso II, ambos do Código Penal.
+    3. Frustradas as tentativas de localizar o paciente, foi realizada a citação por edital. Considerando que o acusado não atendeu ao chamamento da Justiça e não constituiu advogado, o Juízo de origem decretou a revelia, determinou a suspensão do processo e do prazo prescricional, bem como decretou a prisão preventiva, nos termos do artigo 366 do Código de Processo Penal. O mandado de prisão foi cumprido em 02.04.2014.
+    4. Em seguida, o magistrado suspendeu o andamento do feito e determinou a instauração de incidente de insanidade mental, tendo o paciente sido transferido para um hospital de custódia.
+    5. Na sequência, foi impetrado habeas corpus no Tribunal de Justiça do Estado do Rio de Janeiro. Denegada a ordem, a defesa manejou recurso ordinário no Superior Tribunal de Justiça. A cautelar, como visto, foi indeferida.
+    6. Neste habeas corpus, a parte impetrante sustenta o “manifesto excesso de prazo da prisão decretada contra o paciente”, desde 02.04.2014. Daí o pedido de concessão da ordem “para relaxar a prisão do paciente”, não obstante o óbice da Súmula 691 do STF.
+    Decido.
+    7. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As decisões das instâncias precedentes não são teratológicas ou patentemente desfundamentadas. Ademais, a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas do feito (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo). Mais: os autos dão conta de que “houve a instauração de incidente de insanidade mental, que, a despeito de ter se alongado, já se encontra concluído, consoante informação contida no sítio deste Tribunal. Ademais, a instrução vem seguindo seu curso regular, sendo certo que a necessidade de expedição de carta precatória para a inquirição da vítima e de uma testemunha de acusação decerto também justificam o excesso apontado. O fato é que a Autoridade apontada como coatora tem se esforçado para imprimir celeridade ao feito, avizinhando-se a prestação jurisdicional. Nesse contexto, não há que se falar em ilegalidade por excesso de prazo, a justificar o relaxamento pleiteado”.
+    9. Diante do exposto, com base no art. 21, §1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+    Brasília, 29 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
