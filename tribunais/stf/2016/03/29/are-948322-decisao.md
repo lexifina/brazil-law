@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO Complementação de aposentadoria para recebimento do piso de 2,5 salário mínimos Autores, no entanto, que pretende corrigir distorção na estrutura de seu salário, mantendo-se as diferenças entre as classes salariais a partir do piso da categoria. Embargos de declaração acolhidos.
+    COMPLEMENTAÇÃO DE APOSENTADORIA. Pensionistas da extinta Fepasa. Pretensão de manter as diferenças entre as classes salariais a partir do piso da categoria, de 2,5 salários mínimos. Inadmissibilidade. O piso eleva os menores salários, não afeta os salários maiores. Não há garantia de distância mínima entre as classes salariais. Precedentes do TJSP. Sentença mantida Recurso de apelação desprovido.” (Relator(a): J. M. Ribeiro de Paula;  Comarca: São Paulo;  Órgão julgador: 12ª Câmara de Direito Público;  Data do julgamento: 06.02.2013;)”
+    No recurso extraordinário, fundamentado no art. 102, III, “a”, do permissivo constitucional, aponta-se violação ao art. 7º, incisos IV, V e VI, do texto constitucional.
+    Defende-se, em síntese, a necessidade de respeito ao piso salarial de 2,5 salários mínimos e a equidistância das classes salariais no plano de cargos e salários.
+    O recurso extraordinário foi inadmitido na origem pela ausência de prequestionamento, decisão contra a qual foi interposto o presente agravo.
+    O Estado de São Paulo apresentou suas contrarrazões.
+    É o relatório.
+    Decido.
+    Verifica-se que o Supremo Tribunal Federal, no julgamento do RE-RG 603.451, Rel. Min. Rosa Weber, DJe 20.02.2015 (tema 256), manteve a orientação já consolidada na Súmula Vinculante 4 de que “o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial”.
+    No entanto, tendo em vista que o caso em questão guarda certas peculiaridades, deixo de efetuar a devolução para adequação ao disposto no art. 328 do RISTF.
+    No mérito, observo que o acórdão recorrido decidiu a questão com base na legislação local aplicável à espécie (Lei Estadual 9.343/96 e Decreto Estadual 35.530/59), bem como no acervo fático-probatório constante dos autos e nas cláusulas contratuais da convenção coletiva. Assim, a ofensa à Constituição, se houvesse, seria reflexa ou indireta, inviabilizando o processamento do recurso extraordinário. Incide na espécie, portanto, o óbice das Súmulas 279 e 280 do STF.
+    Neste sentido, confiram-se os seguintes precedentes:
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Previdenciário. Complementação de aposentadoria. Revisão. Legislação infraconstitucional. Cláusulas de acordo coletivo. Reexame. Impossibilidade. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. A discussão acerca da manutenção da proporcionalidade entre os pisos salariais do quadro de empregados da FEPASA não prescinde da análise da legislação infraconstitucional ou do reexame das cláusulas de acordo coletivo de trabalho. Incidência das Súmulas nºs 280, 636 e 454/STF. 3. Agravo regimental não provido” (ARE n. 890.071-ED, Rel. Min. Dias Toffoli, DJe 21.10.2015).
+    "RECURSO EXTRAORDINÁRIO COM AGRAVO. COMPLEMENTAÇÃO DE APOSENTADORIA. REVISÃO. PROPORCIONALIDADE ENTRE OS PISOS SALARIAIS DO QUADRO DE EMPREGADOS DA FEPASA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULAS NS. 279, 280 E 454 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO." (ARE 917.936/SP, Rel. Min. Cármen Lúcia, DJe 24.11.2015)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de março de 2016.
+Ministro Edson Fachin
+Relator
