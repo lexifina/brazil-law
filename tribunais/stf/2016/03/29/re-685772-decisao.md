@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “ADMINISTRATIVO – SERVIDOR PÚBLICO MUNICIPAL – PROFESSOR – MODIFICAÇÃO DO ESTADO DE SAÚDE – READAPTAÇÃO PREVISTA EM LEI – ALTERAÇÃO DA FUNÇÃO DESEMPENHADA – ALEGADA PERDA DE VANTAGENS DESTINADAS AOS MEMBROS DO MAGISTÉRIO – INCONSTITUCONALIDADE DO ATO – AFRONTA À SÚMULA N. 685 DO STF – TESE COMPLETAMENTE DESCABIDA – ATO QUE SE COADUMA COM OS PRINCÍPIOS DO DIREITO ADMINISTRATIVO E COM A CONSTITUIÇÃO FEDERAL DE 1988.
+    Nos termos da lei municipal, cabe readaptação, como forma derivada de provimento de cargo, ao membro do Magistério Público, que por motivo de doença atestada por Junto Médico Oficial, não tem condições de exercer as funções normais do cargo, mas não está incapacitada para outras atividades, ainda que burocráticas, sem perder as vantagens do cargo inicial.”
+    A parte recorrente interpôs o recurso com fundamento no art. 102, III, a, da Constituição Federal. Alega violação ao art. 37, II, XV, § 2º, da Constituição. Sustenta que: (i) “a readaptação é forma derivada de provimento em cargo público, que prescinde de concurso público, em manifesta ofensa ao art. 37, II, da Constituição Federal”; e (ii) “Foram suprimidas da remuneração do Recorrente determinadas vantagens pecuniárias, como é o caso da gratificação de regência e outras do gênero, a despeito de a lei vedar a diminuição da sua remuneração”.
+    O recurso não merece provimento. Em primeiro lugar, a solução da controvérsia demanda necessariamente a análise da legislação local aplicada ao caso (Leis Complementares do Município de Blumenau nºs 001/1990, 660/2007, 661/2007 e 662/2007; e Lei nº 6.844/1986, do Estado de Santa Catarina), procedimento vedado neste momento processual, conforme a Súmula 280/STF.
+    Em segundo lugar, o acórdão assentou que “Os contracheques juntados demonstram que a parte autora não teve redução de vencimentos e sim incremento”. Para dissentir desse entendimento seria necessário o reexame de fatos e provas constantes dos autos, procedimento vedado pela Súmula 279/STF.
+    Em terceiro lugar, o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal, que já assentou que “o instituto da readaptação tem como objetivo a reabilitação funcional digna e eficaz do servidor público. No plano individual tem como objetivo o respeito à dignidade da pessoa humana com o desenvolvimento de atividades produtivas de acordo com as limitações sofridas” (RE 585.109, Rel. ª Min. ª Cármen Lúcia).
+    Outros precedentes: ARE 671.600, Rel. Min. Luiz Fux; AI 820.381, Rel. Min. Dias Toffoli; e ARE 724.058, Rel. Min. Gilmar Mendes.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
