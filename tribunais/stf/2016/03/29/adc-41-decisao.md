@@ -1,0 +1,8 @@
+DESPACHO:
+    1. Trata-se de ação declaratória de constitucionalidade, com pedido de medida cautelar, proposta pelo Conselho Federal da Ordem dos Advogados do Brasil (CFOAB), tendo por objeto a Lei n° 12.990/2014, que reserva aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos para provimento de cargos efetivos e empregos públicos no âmbito da administração pública federal direta e indireta.
+    2. A matéria submetida à apreciação desta Corte é de inequívoca relevância, bem como possui especial significado para a segurança jurídica. A ação direta envolve a análise da compatibilidade da política de ação afirmativa para negros em concursos públicos com a Constituição Federal, à luz dos princípios da igualdade e da proporcionalidade. Além disso, existe controvérsia judicial relevante sobre a validade da aplicação da Lei n° 12.990/2014, evidenciada tanto por decisões judiciais que declararam a inconstitucionalidade incidental da lei, quanto pela possibilidade de proliferação de questionamentos semelhantes em todos os concursos públicos federais no país.
+    3. Em face da presença dos requisitos legais, aplico o rito abreviado do art. 12 da Lei nº 9.868/1999, de modo a permitir a célere e definitiva resolução da questão. Assim, determino as seguintes providências: (i)  solicitem-se informações à Presidência da República e à Presidência do Congresso Nacional, no prazo de dez dias; (ii) em seguida, encaminhem-se os autos ao Advogado-Geral da União para manifestação, no prazo de cinco dias; e (iii) sucessivamente, colha-se o parecer do Procurador-Geral da República, também no prazo de cinco dias.
+    Intimem-se. Publique-se.
+    Brasília, 29 de março de 2016.
+Ministro LUÍS ROBERTO BARROSO
+Relator
