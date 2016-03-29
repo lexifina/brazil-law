@@ -1,0 +1,24 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra ato do Superior Tribunal de Justiça consubstanciado na decisão monocrática que indeferiu liminarmente o HC n. 350.554, sob o fundamento de que se tratava de reiteração de writ anterior.
+    Os impetrantes alegam que a decisão traduz negativa de prestação jurisdicional, porquanto a matéria posta no HC – excesso de prazo do julgamento da apelação – é diversa da constante da impetração anterior.
+    Afirmam que o paciente foi preso em 31/06/2013, como incurso nos artigos 33 e 35 da Lei n. 11.343/2006 (tráfico e associação para o tráfico de entorpecentes), e condenado, em 21/10/2014, à pena de 10 anos e 8 meses de reclusão, sendo-lhe negado o direito de apelar em liberdade, sobrevindo recurso de apelação, em 24/10/2014, que subiu ao Tribunal apenas em 14/05/2015, onde se encontra até a presente data sem perspectiva de quando será julgado.
+    Alegam que a demora em julgar o recurso de apelação constitui flagrante constrangimento ilegal a ser sanado por esta Corte.
+    Requerem, liminarmente, a expedição de alvará de soltura e, no mérito, a concessão da ordem para que o paciente aguarde o julgamento da apelação em liberdade.
+    É o relatório.
+    DECIDO.
+    Os impetrantes não se desincumbiram do ônus de interpor agravo regimental da decisão que negou desproveu o agravo em recurso especial no Superior Tribunal de Justiça, ou seja, não exauriram a jurisdição no âmbito daquela Corte, conforme exigido pelo artigo 102, inciso II, alínea a, da Constituição Federal, in verbis:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    II – julgar, em recurso ordinário:
+    a) o "habeas-corpus", o mandado de segurança, o "habeas-data" e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão” (grifei).
+    In casu, caberia aos impetrantes a interposição de agravo regimental, à luz do que prevê o art. 39 da Lei n. 8.038/90: “Da decisão do Presidente, do Tribunal, da Seção, de Turma ou de Relator que causar gravame à parte, caberá agravo para o órgão especial, Seção ou Turma, conforme o caso, no prazo de 5 (cinco) dias”.
+    O constituinte fez clara opção pelo princípio da colegialidade ao franquear a competência desta Corte para apreciação de recurso ordinário em habeas corpus – consoante disposto na alínea “a” do inciso II do artigo 102 – quando decididos em única instância pelos Tribunais Superiores. E não há de se estabelecer a possibilidade de flexibilização dessa regra constitucional de competência, pois, sendo matéria de direito estrito, não pode ser interpretada de forma ampliada para alcançar autoridades – no caso, membros de Tribunais Superiores – cujos atos não estão submetidos à apreciação do Supremo. Daí porque, em situação similar, a Primeira Turma desta Corte, por ocasião do julgamento do Recurso Ordinário em Habeas Corpus nº 108.877/RS, relatora Ministra Cármen Lúcia, deixou expresso que ““não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça”. No mesmo sentido, RHC 117.267/SP, relator Ministro Dias Toffoli.
+    Cf., no mesmo sentido, o acórdão proferido no julgamento do RHC 111.639/DF, relator Ministro Dias Toffoli, cuja ementa possui o seguinte teor:
+    “Recurso ordinário em habeas corpus. Penal. Roubo circunstanciado pelo emprego de arma. Aplicação do aumento de pena previsto no inciso I do § 2º do art. 157 do Código Penal. Decisão monocrática do relator do habeas corpus no Superior Tribunal de Justiça a ele negando seguimento. Não cabimento do recurso ordinário. Precedentes. Recurso não conhecido. Ofensa ao princípio da colegialidade. Concessão de ordem de habeas corpus de ofício. Precedentes. 1. Segundo o entendimento da Corte ‘não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça’ (RHC nº 108.877/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/10/11). 2. Recurso não conhecido(...)” (grifei).
+    A Constituição Federal restringiu a competência desta Corte às hipóteses nas quais o ato imputado tenha sido proferido por Tribunal Superior, considerando o princípio da colegialidade. Entender de outro modo, para alcançar os atos praticados por membros de Tribunais Superiores, seria atribuir à Corte competência que não lhe foi outorgada pela Constituição.
+    Ademais, o conhecimento deste writ, sem o exame da questão pelo Tribunal a quo, configura indevida supressão de instância.
+    Ex positis, NEGO SEGUIMENTO ao writ, com fundamento na Súmula 691/STF, restando prejudicado o exame do pleito cautelar.
+    Dê-se ciência ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 29 de março de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
