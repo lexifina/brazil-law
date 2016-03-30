@@ -1,0 +1,32 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (eDOC. 17, p. 2.787-2.790):
+    PENAL E PROCESSUAL PENAL. CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL (ARTS. 11, 16 E 22 DA LEI 7.492/86). CRIME DE LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS E VALORES (ART. 1º, VI, PARÁG. 1º, I E II, PARÁG. 2º, I E II, E PARÁG. 4º, DA LEI 9.613/98). QUADRILHA OU BANDO (ART. 288 DO CPB). CONCURSO MATERIAL.
+    1. O réu foi denunciado pela prática dos crimes previstos no art. 16 da Lei 7.492/86, e no art. 288 do CPb, cujas penas máximas previstas são 4 anos e 3 anos, respectivamente.
+    2. A prescrição das penas privativas de liberdade e das penas pecuniárias (art. 109 e 114, II, do CPB) consumam-se em 8 anos (art. 109, IV, do CPB).
+    3. Se entre a data do fato – até 21 de julho de 2000 - , e a do recebimento da denúncia – em 13 de julho de 2006, não se conta lapso temporal superior 8 anos, não é de se declarar extinta a punibilidade pela prescrição da pena em abstrato.
+    4. O réu foi condenado a 2 anos de reclusão pelo delito do art. 288 do CP.
+    5. Conforme o art. 109, V, do CPB, a prescrição da pena superior a 1 ano e não excedente a 2 perfaz-se em 4 anos.
+    6. Se entre a data do fato – 21 de julho de 2000 – e a do recebimento da denúncia – em 13 de julho de 2006, não se conta lapso temporal superior a 4 anos, é de se declarar extinta a punibilidade pela prescrição retroativa.
+    7. A conduta relativa à lavagem ou ocultação de bens, direitos e valores não é atípica, pois há nos autos provas de que a prática criminosa perdurou mesmo após a vigência da Lei 9.613/98. As atividades das empresas fantasmas não se encerraram no ano de 1997.
+    8. MÉRITO. MATERIALIDADE E AUTORIA COMPROVADAS. Restou cabalmente demonstrado nos autos que o recorrente constituiu fraudulentamente empresas fantasmas, em nome de laranjas, a fim de praticar delitos contra o Sistema Financeiro Nacional.
+    9. As provas da materialidade e da autoria delitiva consistem nas declarações das várias testemunhas arroladas pela acusação, nos documentos constantes dos procedimentos investigatórios realizados pela Receita Federal e pelo Banco Central do Brasil, e nas provas apreendidas pela Polícia Federal na residência dos sócios e na sede da empresa de câmbio e turismo de propriedade do réu.
+    10. Estão presentes os elementos caracterizadores dos tipos penais descritos nos arts. 11, 16 e 22 da Lei 7.492/86 (crimes contra o Sistema Financeiro Nacional), e no art. 1º, VI, parág. 1º, I e II, e parág. 4º, da Lei 9.613/98 (crime de lavagem ou ocultação de bens, direitos e valores).
+    11. DOSIMETRIA DA PENA. ANTÔNIO EDUARDO JOCA BAYMA. Alteração do quantum fixado pelo Magistrado de Primeira Instância. A pena referente ao tipo do art. 11 da Lei 7.492/86, para o acusado, deve ser fixada em 2 anos de reclusão, mais 70 dias-multa. Com relação ao art. 16 da Lei 7.492/86, deve a pena ser fixada em 1 ano e 8 meses, mais 50 dias-multa. Com relação ao delito de evasão, previsto no art. 22 da Lei 7.492/86, deve a pena ser fixada em 3 anos de reclusão, mais 80 dias-multa. No que pertine ao delito previsto na Lei 9.613/98, reduz-se a pena-base para 4 anos de reclusão, aplicando-se o acréscimo de 1/3 (habitualidade na prática do crime contra o sistema financeiro), o que repercute em uma pena definitiva de 5 anos e 4 meses de reclusão, mais 100 dias-multa.
+    12. Em razão do concurso material (art. 69 do CPB), a soma das penas privativas de liberdade alcança 16 anos de reclusão, que deverá ser cumprida inicialmente em regime fechado, mais um total de 300 dias multa, sendo cada dia-multa fixado tal qual estabelecido na sentença condenatória.
+    13. APELAÇÃO DA RÉ MARTA LÉO PESTANA DA SILVA. PRELIMINAR. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO RETROATIVA. A ré foi condenada a 1 ano de reclusão e ao pagamento de 30 dias-multa, para cada uma das condutas descritas nos arts. 11, 16, 22 da Lei 7.492/86, e no art. 288 do CPB.
+    14. Segundo o art. 109, V, do CPB, a prescrição da pena igual a 1 ano perfaz-se em 4 anos.
+    15. Se entre a data do fato – 21 de julho de 2000 - , e a do recebimento da denúncia – em 13 de julho de 2006, conta-se lapso temporal superior a 4 anos, é de se declarar extinta a punibilidade pela prescrição da pena em abstrato.
+    16. MÉRITO. MATERIALIDADE E AUTORIA COMPROVADAS. SENTENÇA. PENA PRIVATIVA DE LIBERDADE. QUANTUM. Também não há dúvida acerca da responsabilidade da recorrente pelos crimes pelos quais foi condenada. As declarações das testemunhas e dos corréus deixam claro que a apelante agia na condição de pessoa de confiança dos sócios da empresa de câmbio e turismo, e que, na ausência deles, respondia pela administração da mesma.
+    17. Em face do quantum da pena privativa de liberdade do delito do art. 1º, VI, c/c o parág. 1º, I e II; parág. 2º, I e II, da Lei nº 9.613/98 (4 anos de reclusão), deve-se fixar o regime aberto para cumprimento dela.
+    18. Apelações parcialmente providas.
+    Foram opostos embargos de declaração, que restaram parcialmente providos para sanar erro material e declarar a extinção da punibilidade do acusado Antônio Eduardo Joca Bayma.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXIX, XL, XLVI e LVII, da Constituição Federal, buscando-se a nulidade do acórdão recorrido quanto à condenação referente ao art. 1º, VI, c/c o § 1º, I e II, e § 2º, I e II, da Lei 9.613/1998.
+    É o relatório. Decido.
+    Verifico a ausência de preliminar formal e fundamentada de repercussão geral na petição do recurso extraordinário, pressuposto de admissibilidade do recurso.
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 06.09.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 03.05.2007, data da publicação da Emenda Regimental 21 do STF, o que ocorre no presente caso.
+    Ademais, observo que as questões referentes à violação dos dispositivos constitucionais apontados não foram objeto de debate no acórdão recorrido, embora tenham sido opostos embargos de declaração. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF).
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
