@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. MEDIDA LIMINAR. DECISÃO PROVISÓRIA E PRECÁRIA: SÚMULA N. 735 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Paraná:
+    “AGRAVO DE INSTRUMENTO. DELEGACIA DA POLÍCIA FEDERAL DE LONDRINA. VAGAS. PRESOS. COMPETÊNCIA. ANTECIPAÇÃO DOS EFEITOS DA TUTELA.
+    1. Havendo nítido interesse da União no deslinde do feito, a composição do polo passivo da lide processualizada com ente político não constante do artigo 109, I, da CRFB, em litisconsórcio passivo, não afasta a competência da Justiça Federal - antes a confirma.
+    2. Em situações especiais, como a ora em apreço, o Supremo Tribunal Federal vem admitindo a análise judicial de políticas públicas, mormente quando presente grave violação a direitos fundamentais (omissão nitidamente constitucional).
+    3. Não há que se falar em esgotamento do objeto da ação e irreversibilidade da medida como obstáculos insuperáveis à concessão da antecipação de tutela. Havendo a colisão de interesses, consoante o princípio da proporcionalidade, deve ser privilegiado aquele de maior valor, in casu, a dignidade da pessoa humana” (doc. 10).
+    Os embargos de declaração opostos foram parcialmente acolhidos para fins de prequestionamento.
+    2. O Recorrente alega contrariados os arts. 2º, 5º, inc. XXXV, e 109, inc. I, da Constituição da República, asseverando que
+    “o presente recurso extraordinário enfrenta acórdão proferido pelo TRF4, que deixou de prover agravo de instrumento manejado pelo Estado do Paraná em face de tutela antecipada decidida pelo Juízo da 4ª Vara Federal de Londrina, em ação civil pública proposta pelo Ministério Público Federal.
+    (…)
+    É evidente a incompetência absoluta deste Juízo Federal, visto que não cabe à autoridade judiciária federal impor ao Estado obrigação que implique em aumento ou criação concreta de dotação orçamentária, motivo pelo qual os autos devem ser imediatamente remetidos ao Juízo da Vara da Fazenda Pública de Londrina.
+    (…)
+    A liminar deferida e agora ratificada pelo Tribunal significa direta interferência do Poder Judiciário Federal em instância governamental, legislativa e administrativa do Estado Membro, com determinações que ensejarão dispêndios para além das dotações orçamentárias vigentes para desembolso pelo Tesouro Estadual, em típico ato de gestão” (doc. 10).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. As medidas antecipatórias e cautelares, por não representarem pronunciamento definitivo, mas provisório, sobre a controvérsia, devem ser confirmadas (ou, se for o caso, revogadas) pela decisão de mérito da causa, podendo ser modificadas ou revogadas a qualquer tempo, até mesmo pelo órgão que as deferiu.
+    A natureza precária e provisória do juízo emitido em liminar ou tutela antecipada inviabiliza o recurso extraordinário, pois somente com a decisão de mérito se terá o pronunciamento definitivo, na instância específica, sobre as questões jurídicas apreciadas:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PROCURAÇÃO AO ADVOGADO SUBSTABELECENTE. AÇÃO CAUTELAR INOMINADA. ACÓRDÃO QUE SE LIMITA A ANALISAR OS REQUISITOS DE CABIMENTO DA CAUTELAR. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O Supremo Tribunal Federal firmou entendimento no sentido de que a ausência da procuração outorgada ao advogado substabelecente impede o conhecimento do recurso extraordinário. 2. Não cabe recurso extraordinário contra acórdão que, em ação cautelar inominada, limita-se à verificação da presença dos requisitos do fumus boni juris e do periculum in mora. Entendimento da Súmula 735 do Supremo Tribunal Federal” (AI n. 607.260-AgR, de minha relatoria, Primeira Turma, DJe 17.9.2009).
+    "RECURSO EXTRAORDINÁRIO - ACÓRDÃO QUE CONFIRMA INDEFERIMENTO DE LIMINAR MANDAMENTAL - ATO DECISÓRIO QUE NÃO SE REVESTE DE DEFINITIVIDADE - MERA ANÁLISE DOS PRESSUPOSTOS DO 'FUMUS BONI JURIS' E DO 'PERICULUM IN MORA' (...). - Não cabe recurso extraordinário contra decisões que concedem ou que denegam medidas cautelares ou provimentos liminares, pelo fato de que tais atos decisórios - precisamente porque fundados em mera verificação não conclusiva da ocorrência do 'periculum in mora' e da relevância jurídica da pretensão deduzida pela parte interessada - não veiculam qualquer juízo definitivo de constitucionalidade, deixando de ajustar-se, em consequência, às hipóteses consubstanciadas no art. 102, III, da Constituição da República. Precedentes" (AI n. 439.613-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJ 17.10.2003).
+    “A jurisprudência desta Corte se firmou no sentido de não ser cabível recurso extraordinário contra decisão que concede ou denega medida cautelar ou provimento liminar, pois a verificação da existência dos requisitos para sua concessão, além de se situar na esfera de avaliação subjetiva do magistrado, não é manifestação conclusiva de sua procedência para ocorrer a hipótese de cabimento do recurso extraordinário pela letra a do inciso III do artigo 102 da Constituição. Agravo regimental a que se nega provimento” (AI n. 605.933-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 5.2.2009).
+    Incide na espécie vertente a Súmula n. 735 do Supremo Tribunal Federal: “Não cabe recurso extraordinário contra acórdão que defere medida liminar”.
+    Nada há a prover quanto às alegações do Recorrente.
+    5. Pelo exposto, nego provimento ao recurso extraordinário (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de março de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
