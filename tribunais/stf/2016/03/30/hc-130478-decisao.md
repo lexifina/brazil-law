@@ -1,0 +1,31 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de Jan Paul Paladino e Joseph Lepore, em face de acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça (STJ) nos autos do Embargos de Declaração no Recurso Especial n. 1.458.012/MT, assim ementado (eDOC 30, p. 2):
+    “PENAL E PROCESSUAL PENAL. ART. 261, § 3º E 263 DO CÓDIGO PENAL. CONTRADIÇÃO APONTADA. INEXISTÊNCIA DE REFORMATIO IN PEJUS. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. VIOLAÇÃO AO ART. 68, PARÁGRAFO ÚNICO, DO CP. OMISSÃO. MATÉRIA NÃO PREQUESTIONADA. CAUSA DE AUMENTO. COMPATIBILIDADE.
+    I - Decisão que julga o recurso especial, mas é tornada sem efeito pela Relatora por constatar error in procedendo não vincula exame posterior do mérito das insurgências manifestadas por ambas as partes. Não há que se falar, portanto, em reformatio in pejus.
+    II - São cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+    III - Inviável, entretanto, a concessão do excepcional efeito modificativo quando, sob o pretexto de ocorrência de omissão na decisão embargada, é nítida a pretensão de rediscutir matéria já incisivamente apreciada.
+    IV - A apontada violação ao art. 68, parágrafo único, do CP, não foi enfrentada pelo acórdão embargado, caracterizada, neste ponto, omissão. Não obstante, a matéria não foi apreciada pelo eg. Tribunal de origem nem tampouco suscitada em sede de contrarrazões de apelação, configurada, portanto, a falta de prequestionamento. (Precedentes).
+    V - Não há incompatibilidade na aplicação do disposto no art. 258 do CP e, simultaneamente, da majorante inserta no art. 121, § 4º do mesmo diploma legal.
+    Embargos de declaração parcialmente acolhidos sem efeitos modificativos.”
+    Nesta Corte Suprema, em resumo, a defesa alega violação dos princípios constitucionais do devido processo legal e da ampla defesa devido a anulação da decisão monocrática proferida pela Min. Laurita Vaz (eDOC 27), que tornou sem efeito decisão anterior proferida pela mesma.
+    Sustenta, ainda, que o recurso de embargos de declaração não é medida processual adequada para anular decisão que dá provimento a recurso especial, sobretudo, porque havia apenas pedido da defesa, configurando reformatio in pejus.
+    Ademais, alega que, ao deixar de enfrentar a tese de negativa de vigência do art. 68 do CP, por ausência de prequestionamento, o STJ impõe manifesto constrangimento ilegal aos pacientes.
+    Liminarmente, a defesa requer a suspensão da tramitação do processo dos pacientes até o o julgamento final deste habeas corpus.
+    No mérito, pretende o restabelecimento da decisão monocrática proferida pela Min. Relatora que afastou a incidência da causa de aumento de pena prevista no art. 121, § 4º, do CP, bem como, em caso de novo julgamento do recurso especial, o reconhecimento de bis in idem e o enfrentamento da tese de negativa de vigência do art. 68 do CP.
+    Estes autos vieram distribuídos a mim por prevenção em razão de minha relatoria no ARE 896.843/MT.
+    É o relatório.
+    Decido.
+    A pretensa tese defensiva concernente à ilegalidade devido à anulação da decisão monocrática proferida pela Min. Laurita Vaz (eDOC 27), que tornou sem efeito decisão anterior proferida por ela, não encontra qualquer ilegalidade a ser sanada.
+    Consta do acórdão ora contestado:
+    “Em primeiro lugar, verifico não haver contradição ou omissão no voto proferido pela eminente Relatora, Ministra Laurita Vaz, no que tange à alteração de entendimento acerca da aplicação da causa de aumento inserta no art. 121, § 4º do CP, se considerada a decisão monocrática por ela anteriormente proferida.
+    É que a decisão anterior foi tornada sem efeito (fl. 5848) pela própria Relatora em razão da constatação de error in procedendo, consistente em equívoco cartorário na Corte de origem, o que implicou a apreciação exclusiva de recurso da defesa, olvidando-se a irresignação manifestada pelo Parquet e pelo assistente de acusação.
+    Portanto, reconhecida e declarada a nulidade do decisum, seguiu-se procedimento adequado, qual seja, o julgamento conjunto de todos os recursos interpostos perante a Quinta Turma. A toda evidência, não havia qualquer limitação dos julgadores no que tange à possibilidade de ampla e irrestrita cognição das irresignações manifestadas pois, conforme já consignado, a decisão anteriormente proferida não produziu qualquer efeito.”
+    Ainda, a tese defensiva proposta não se reflete na situação existente nos autos, porquanto foram opostos embargos de declaração pelo MPF e interposto agravo regimental pela assistente de acusação (eDOC 47, p. 54-71, no ARE n. 896.843/MT) – que restou prejudicado ante o julgamento dos embargos (eDOC 47, p. 121, no ARE n. 896.843/MT) – com idênticos fundamentos.
+    Logo, ainda que, em tese, fosse possível admitir que os embargos não eram o meio adequado para reforma da decisão, a irresignação com idêntico objeto recursal preexistia, sendo, portanto, manifestamente legítima a retratação da relatora, ainda que monocraticamente, conforme determina a liturgia processual.
+    Assim, ficam afastadas as demais teses defensivas da pretensa nulidade, sobretudo a da suposta ocorrência de reformatio in pejus.
+    De outra banda, verifico não caber ao Supremo Tribunal Federal substituir-se ao Superior Tribunal de Justiça na análise dos requisitos de admissibilidade do recurso especial, salvo em caso de abuso de poder ou flagrante ilegalidade (HC 112.130/MG, Rel. Min. Ayres Britto, DJe 8.6.2012; HC 125.024/DF, Rel. Min. Rosa Weber, DJe 3.12.2014; HC 126.750/SP, Rel. Min. Teori Zavascki, DJe 4.3.2015, e HC 110.186/SP, Primeira Turma, Relator originário Ministro Marco Aurélio, Red. p/ o acórdão Ministro Roberto Barroso, DJe 2.12.2014), o que não ocorreu no caso em epígrafe.
+    Ante o exposto, com base no art. 192, caput, do RI/STF, denego a ordem.
+    Publique-se. Int..
+    Brasília, 30 de março de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
