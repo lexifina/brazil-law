@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 20, de 1º de março de 2016
+ASSUNTO: Simples Nacional EMENTA: DESENHO TÉCNICO. ANEXO. Para optantes pelo Simples Nacional, os serviços de desenho técnico relacionados à arquitetura e engenharia (código CNAE 7119-7/03): (i) eram vedados, de 1º de julho de 2006 a 30 de novembro de 2010; (ii) eram tributados pelo Anexo III, de 1º de dezembro de 2010 a 31 de dezembro de 2014; e (iii) são tributados pelo Anexo VI, a partir de 1º de janeiro de 2015. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 17, XI, art. 18, §§ 5º-F e 5º-I, VI.
+[arquivo anexo: SC Cosit nº 20-2016.pdf]
