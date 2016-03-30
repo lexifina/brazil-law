@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Turma Recursal dos Juizados Especiais do Estado da Bahia, assim ementado:
+    “RECURSOS INOMINADOS. RELAÇÃO DE CONSUMO. VÍCIO DO PRODUTO. PROPAGANDA ENGANOSA. VEÍCULO NOVO VENDIDO COM QUALIDADE E PEÇAS INFERIORES AO DO FIRMADO NA ÉPOCA DA CONTRATAÇÃO. SENTENÇA PROCEDENTE PARTE. A RECORRENTE IMPUGNA PELO INDEFERIMENTO DOS DANOS MATERIAIS E MORAIS, PUGNANDO QUE PROCEDEU DA FORMA CONTRATADA. INEXISTÊNCIA DE PROVA DE CULPA DA CONSUMIDORA, QUE JUNTA PPROVAS E EMAILS QUE RELATAM QUE O PRODDUTO ADQUIRIDO NÃO CONFEREM AO DA PROMESSA DE VENDA. DEVER DE REPARAR RECAI SOBRE O COMERCIANTE, ANTE A CONDUTA ABUSIVA. DANOS MATERIAIS REDUZIDOS NO IMPORTE DE R$ 2.500,00, AO INVÉS DE R$ 6.790,00. DANOS MORAIS CONFIGURADOS NO IMPORTE DE R$ 5.000,00, AO INVÉS DE R$ 8.000,00. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO EM PARTE.”
+    Opostos embargos de declaração, foram acolhidos em parte, em acórdão assim ementado:
+    “EMBARGOS DE DECLARAÇÃO. ACÓRDÃO QUE NEGOU PROVIMENTO AOS RECURSOS INOMINADOS DA ORA EMBARGANTE. ALEGAÇÃO DE CONTRADIÇÃO QUANTO AO JUGAMENTO DAS PRELIMINARES, DO DANO MATERIAL E DO DANO MORAL ARBITRADO PELA AFERIÇÃO DE SUPOSTA PROPAGANDA ENGANOSA DISPOSTOS NO R. ACÓRDÃO. PROCEDE A ALEGAÇÃO DE REDUÇÃO DOS DANOS MATERIAIS PARA O IMPORTE DE R$ 1.790,00, ANTE AS PROVAS DOS AUTOS. IMPROCEDEM AS DEMAIS ALEGAÇÕES. EMBARGOS DA PARTE AUTORA CONHECIDOS E ACOLHIDOS EM PARTE.”
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso LV, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ademais, o Plenário desta Suprema Corte, em sessão realizada por meio eletrônico, rejeitou a repercussão geral do tema referente à alegação do afronta aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando necessária a análise da correta aplicação de normas infraconstitucionais, haja vista tratar-se de matéria restrita ao âmbito da legalidade. Confira-se a ementa do caso paradigma:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE nº 748.371/MT, Relator Ministro Gilmar Mendes, DJe de 1/8/13).
+    Ante o exposto, nos termos do artigo 21, § 1º, do regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de março de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
