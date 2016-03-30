@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Agravo de Instrumento – Cancelamento de precatório complementar para evitar pagamento em duplicidade – Inadmissibilidade – Foi dado cumprimento de decisão com trânsito em julgado ao determinar-se que os credores fizessem sua instrução com a devida protocolização, que, aliás, já foi efetuada – Recurso improvido.” (fl. 667)
+    Os embargos de declaração foram rejeitados (fls. 676/677).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 97 do ADCT.
+    Nas razões recursais, sustenta-se, em síntese, que há “previsão expressa no texto constitucional para inclusão dos precatórios parcelados nos termos do art. 33 do ADCT ou do art. 78 do ADCT no regime especial instituído pela EC 62/09”. (fl. 683)
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o recurso extraordinário com base na Súmula 279 do STF (fl. 713).
+    É o relatório. Decido.
+    As alegações não merecem prosperar.
+    Inicialmente, observo que os artigos constitucionais apontados pelo contribuinte como violados carecem do necessário prequestionamento. Esta Corte tem consignado ser inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido. Incide, portanto, a Súmula 282 do Supremo Tribunal Federal.
+    Ademais, convém reproduzir o assentado pelo Tribunal de Origem
+    “Alega a agravante que o r. despacho deveria ser integralmente modificado a fim de determinar a extinção de complementações de requisição de pagamentos anteriores, para que o débito seja liquidado pelo precatório novo já consolidado com o valor integral da indenização, observada a sistemática implementada pela EC 62/09, evitando o pagamento em duplicidade.
+    Sem razão, no entanto.
+    Pelo que se depreende dos autos, sobretudo da petição de fls. 591/592 e item 2 do despacho de fls. 602/603, corroborado pela contraminuta dos expropriados a fls. 628/629 (deste instrumento), nada há para ser modificado, uma vez que que foi dado cumprimento de decisão com trânsito em julgado ao determinar-se que só credores fizessem sua instrução com a devida protocolização, que, aliás, já foi efetuada (fls. 630 e seguintes).
+    Assim, nada resta ao D. Juízo de primeiro grau do que aguardar-se o processamento do precatório complementar sob o nº de 349/90 até a satisfação do valor homologado. Sendo que, falar-se de cancelamento do precatório, na atual circunstância, seria precipitado e temerário.
+    Porém, para evitar-se prejuízo irreparável, valores correspondentes a eventuais pagamentos permanecerão à disposição da justiça por ora.”
+    Assim, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação infraconstitucional, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “Segundo agravo regimental no agravo de instrumento. Precatório. Saldo devedor. Novo precatório. Prescrição. Discussão. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação inconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido.” (AI 831108, Min. Dias Toffoli, Segunda Turma, Dje 04.09.2015)
+    “Agravo regimental no recurso extraordinário. Administrativo. Desapropriação indireta. Indenização. Adoção do regime de precatório. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidências das Súmulas nºs 280, 636 e 279/STF. 2. Agravo regimental não provido.” (RE 871.442, Min. Dias Toffoli, Segunda Turma, Dje 17.08.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. OBRIGAÇÃO DECORRENTE DE SENTENÇA TRANSITADA EM JULGADO. CUMPRIMENTO DOS PRECATÓRIOS JUDICIAIS. DECISÕES DE NATUREZA ADMINISTRATIVA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Impossibilidade de revisão do acervo fático-probatório para dissentir da conclusão do acórdão recorrido sobre a justa indenização do imóvel desapropriado. Incidência da Súmula 279 do STF. II - O Tribunal a quo dirimiu a controvérsia dos autos alegando trânsito em julgado da sentença proferida no processo de despropriação. III - A orientação do Plenário desta Corte firmou-se no sentido de que as decisões proferidas no cumprimento dos precatórios judiciais possuem cunho administrativo. IV - Agravo regimental a que se nega provimento.” (ARE 759979, Min. Ricardo Lewandowski, Segunda Turma, Dje 26.09.2014)
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, do RISTF.
+    Publique-se.
+    Brasília, 30 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
