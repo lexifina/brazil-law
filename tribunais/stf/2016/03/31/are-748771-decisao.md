@@ -1,0 +1,22 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, III, da Constituição Federal, em que a parte recorrente sustenta a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus do recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional discutida no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. Não bastam, portanto, para que seja atendido o requisito previsto nos artigos 102, § 3º, da CF e 543-A, § 2º, do CPC, alegações genéricas a respeito do instituto, como a mera afirmação de que (a) a matéria controvertida tem repercussão geral; (b) o tema goza de importância econômica, política, social ou jurídica; (c) a questão ultrapassa os interesses subjetivos da parte ou tem manifesto potencial de repetitividade; (d) a repercussão geral é consequência inevitável de suposta violação a dispositivo constitucional; ou, ainda, (e) há jurisprudência pacífica desta Corte quanto ao tema discutido. Nesse sentido: ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Ora, no caso, a alegação de repercussão geral não está acompanhada de fundamentação demonstrativa nos moldes exigidos pela jurisprudência do STF.
+    3. Quanto à negativa de prestação jurisdicional e ao pedido de anulação do julgamento dos embargos declaratórios, relacionados à suposta afronta ao art. 5º, LIV e LV, da Carta Magna, é inviável a apreciação, em recurso extraordinário, de violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, uma vez que, se houvesse, seria meramente indireta, já que é imprescindível o exame de normas infraconstitucionais (ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, Tema 660).
+    4. Ademais, o Tribunal de origem, ao julgar a apelação da parte ora recorrida, assim se manifestou:
+    O pagamento da URP em favor dos requeridos decorreu de decisão judicial prolatada no âmbito da Justiça federal, em que reconhecido, em decisão transitada em julgado em 02-5-2003 – fl. 72 (AMS 2001.71.01.001283-4), seu direito à manutenção da vantagem.
+    Ocorre que o Supremo Federal, em sede de ADIn, houve por bem declarar a inconstitucionalidade da URP, implicando a rescisão, pela via indireta, dos títulos executivos que acolheram a tese do direito adquiridos, em julgado assim ementado:
+    (…)
+    Desta forma, em razão do reconhecimento da inconstitucionalidade do pagamento da URP pelo Supremo Tribunal Federal, seria o caso de reconhecer-se a inviabilidade da manutenção do seu pagamento, uma vez que tornado o título judicial que o fundava inexigível, a teor do disposto no art. 741 do Código de Processo Civil:
+    (…)
+    Contudo, a hipótese dos autos é peculiar.
+    (…)
+    A declaração de inconstitucionalidade remonta aos 11-03-1994, data de publicação da decisão que tramitara perante o Pretório Excelso.
+    Neste marco temporal, entretanto, há muito já se houvera operado a coisa julgada do édito federal, donde decorre a possibilidade de extrair-se, pois, toda a eficácia da sentença judicial naquela seara exarada, pois acobertada pelo manto deste fenômeno, não havendo falar em subsunção aos ditames do art. 741 do Codex Processual. (e-STJ fl. 277/279)
+    No recurso extraordinário, a recorrente defende que a Administração Pública tem direito de rever seus atos ilegais, notadamente quando não transcorreu o prazo decadencial dessa revisão, como assegura ser a situação no caso dos autos.
+    Como se vê, as razões do recurso extraordinário encontram-se dissociadas do fundamento central utilizado pelo Tribunal Regional Federal da 4ª Região, o que atrai a aplicação da Súmula 284/STF: é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    5. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 31 de março de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
