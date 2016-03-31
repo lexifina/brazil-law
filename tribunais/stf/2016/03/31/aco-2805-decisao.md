@@ -1,0 +1,13 @@
+Decisão: Trata-se de ação cível originária com pedido de antecipação da tutela ajuizada pelo Estado de Alagoas em face da União Federal, com vistas ao reconhecimento da desnecessidade de aplicação da das condições impostas pelo parágrafo 1º, do art. 2º, do Decreto 8.616/2015, especialmente e prevista no inciso II, para a celebração do aditivo ao contrato de refinanciamento da dívida pública, com a diminuição dos juros nominais para 4% ao ano, nos termos do art. 2º da LC 148/2014 e do art. 1º da LC 151/2015.
+    Na decisão de 21/01/2016, a Ministra Cármen Lúcia, Vice-Presidente, deferiu parcialmente a liminar “para afastar a necessidade de cumprimento pelo Autor da condição estabelecida no inc. II do § 1º do art. 2º do Decreto n. 8.616/2015, para celebração do aditivo ao contrato de refinanciamento da dívida pública estadual, nos termos da Lei Complementar n. 148/2014, alterada pela Lei Complementar n. 151/2015, sem se exigir desistência de ações judiciais em curso cujo objeto seja dívida ou contratos de financiamento celebrados entre Alagoas e a União” (eDOC 16).
+    Contra essa decisão, a União interpôs agravo regimental (eDOC 24).
+    Em 12/02/2016, a ré peticionou nos autos para informar a revogação dos incisos I, II e IV do § 1º do art. 2º do Decreto 8.616/2015, pelo Decreto 8.665/2016, de 11.02.2016, motivo pelo qual requereu a extinção do feito sem julgamento de mérito, ante a ausência superveniente de interesse de agir do autor (eDOC 29).
+    Intimado (eDOC 34), o Estado de Alagoas afirmou não possuir interesse no prosseguimento do feito, ante a revogação dos incisos I, II e IV, do § 1º do art. 2º, do Decreto 8.616/2015 (eDOC 36).
+    Assim, tendo em vista que não mais subsistem as condições para a celebração do aditivo ao contrato de refinanciamento da dívida pública do Estado de Alagoas, previstas nos incisos I, II e IV do § 1º do art. 2º, do Decreto 8.616/2015, que fundamentavam o pedido inicial, é caso de extinção do processo, por perda superveniente de interesse de agir pelo autor.
+    Sublinhe-se, ademais, que o Supremo Tribunal Federal firmou jurisprudência no sentido de que a perda superveniente de interesse de agir gera ônus à parte que deu causa à instauração do processo. Nesse sentido: AR 1814-AgR-segundo, Rel. Min. Teori Zavascki, Pleno, Dje 24.08.2015; ACO 1158, Rel. Min. Dias Toffoli, Dje 03.02.2016.
+    Ante o exposto, declaro extinta a ACO 2.805, sem resolução de mérito, nos termos do art. 485, VI, do CPC/2015. Sem custas. Condeno a União em honorários advocatícios, no valor de R$ 500,00 (quinhentos reais), nos termos do art. 85, § 2º, do CPC/2015.
+    Publique-se. Intime-se.
+    Brasília, 31 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
