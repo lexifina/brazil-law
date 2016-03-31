@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 7ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 84):
+    “AÇÃO ORDINÁRIA – Servidor Público Municipal – Cálculo do adicional por tempo de serviço sobre os vencimentos integrais que deve incidir sobre todas as verbas, exceção feita às eventuais e às vantagens não incorporadas – Recurso provido.”
+    No recurso extraordinário (eDOC 1, p. 101-118), com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 1º; 2º, 18, caput; 30, I; 37, caput e inciso XIV; 39; e 169 do Texto Constitucional.
+    Sustenta-se a incidência do quinquênio sobre “o padrão de vencimento do servidor e não sobre seus vencimentos integrais” (eDOC 1, p. 107), à luz da Lei nº 8.989/1979, do Município de São Paulo.
+    Alega-se que o acórdão recorrido violaria o pacto federativo e o princípio da autonomia municipal, uma vez que inexistiria previsão legal para o cálculo do quinquênio sobre outras parcelas que não sejam o padrão de vencimentos.
+    Aduz-se afronta ao princípio da separação dos poderes, haja vista que o Poder Judiciário não poderia aumentar fundamentos de servidores sob a égide do princípio da isonomia.
+    Aponta-se, ainda, a impossibilidade de majoração de vencimentos sem previsão legal.
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário com base na Súmula 280 do STF (eDOC 1, p. 140).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Quando do julgamento da apelação interposta, o Tribunal de origem assentou que (eDOC 1, p. 87-89):
+    “É bem de ver, todavia, que o legislador fez expressa referência a restrição semelhante àquela estabelecida no artigo 115, XVI, da Constituição do Estado, limitação que, de resto, também encontra previsão no texto original do artigo 37, XIV, da Constituição Federal.
+    Sucede que se alterou a regra do artigo 37, XIV, da Constituição da República, por força do advento da Emenda Constitucional nº 19/98. Com efeito, a regra anterior vedava a concessão de acréscimos ulteriores incidentes sobre acréscimos concedidos sob o mesmo título. De acordo com a atual redação, é vedada a incidência recíproca, ainda que as vantagens não tenham a mesma natureza.
+    No nível estadual, é bem de ver que subsiste a regra do artigo 115, XVI, da Constituição do Estado, nos seguintes termos: “os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores sob o mesmo título ou idêntico fundamento”.
+    Com efeito, o simples fato de a regra da Constituição Federal ter sido alterada não implica reconhecer a revogação da norma do artigo 115, XVI, da Constituição do Estado, porque bem se sabe que os estados federados organizam-se e regem-se pelas constituições e leis que adotarem, observados os princípios da Constituição Federal (artigo 25 da CF). Ora, a regra do artigo 37, XIV, é norma jurídica, que não se confunde com princípio jurídico, segundo a clássica distinção de Carnelutti e Crisafulli.
+    (...)
+    O mesmo vale no que diz respeito ao Município, cuja Lei Orgânica atende apenas aos princípios estabelecidos na Constituição Federal (art. 29 da C.F.), e não necessariamente às normas.
+    Destarte, não se pode dizer que o artigo 97 da Lei Orgânica do Município de São Paulo seja inconstitucional, uma vez que observou os fundamentos e princípios da Constituição Federal, tanto quanto aqueles da Constituição do Estado à qual também deve obediência (art. 29 da C.F.).
+    Assim, a incidência recíproca de sexta-parte e quinquênio é vedada, tanto quanto a incidência de qualquer destas vantagens sobre aquela prevista no artigo 133 da Constituição do Estado.
+    Há de se afastar também a incidência do cálculo da sexta-parte sobre verbas eventuais, vale dizer, aqueles pagamentos cuja percepção dependa de circunstâncias específicas e passageiras, a exemplo das diárias, ajuda de custo, horas-extras, tanto quanto sobre vantagens não incorporadas, aspecto em que, curvando-me à orientação da douta maioria, revejo meu entendimento anterior.”
+    Desta forma, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo acerca da base de cálculo do quinquênio demandaria o reexame da legislação local aplicável à espécie, notadamente a Lei Orgânica do Município de São Paulo e a Constituição do Estado de São Paulo, de modo a inviabilizar o processamento do apelo extremo, tendo em conta o enunciado da Súmula 280 do STF. Neste sentido os seguintes precedentes: ARE 687.655 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 14.11.2014, ARE 767.978 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 13.02.2014 e RE 593.098 AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 19.12.2008, este último assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DE SÃO PAULO. ADICIONAL DE SEXTA PARTE. QUINQUÊNIOS. LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. As normas contidas no artigo 129 da Constituição do Estado de São Paulo dizem respeito tão-somente ao Direito local. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local, circunstância que impede a admissão do recurso extraordinário ante o óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento.”
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
