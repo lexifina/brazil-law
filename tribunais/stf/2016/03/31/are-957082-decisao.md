@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO RECURSAL. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma da decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. AUDITOR FISCAL DO TRABALHO. ATRIBUIÇÃO. LAVRATURA DE AUTO DE INFRAÇÃO. CONTRATAÇÃO IRREGULAR DE MÃO DE OBRA EM ATIVIDADE FIM DA EMPRESA. 1. Trata-se de agravo que não consegue desconstituir os fundamentos da decisão monocrática que negou seguimento ao agravo de instrumento, que pretendia destrancar recurso de revista desprovido dos pressupostos previstos no art. 896 da CLT. 2. A competência jurisdicional da Justiça do Trabalho, prevista no art. 114, VII, da Constituição Federal, não exclui a atribuição do auditor fiscal do trabalho, nos moldes dos arts. 36 a 39 e 628, da CLT e 11, I e II, da Lei nº 10.593/2002, de efetuar a lavratura de auto de infração, ao concluir pela existência de violação de preceito de lei, na espécie, a contratação irregular de mão de obra para execução de atividade fim da empresa. Precedentes. Agravo a que se nega provimento.”
+    Os embargos de declaração opostos não foram conhecidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, II, XXXVI, LIV e LV, 21, XXIV, 22, I, 93, IX, e 114 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por entender que o recurso seria intempestivo.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Verifica-se que o recurso extraordinário é intempestivo. O acórdão recorrido foi publicado em 1º/6/2012. A partir daí, foram opostos sucessivos embargos declaratórios com intuito manifestamente protelatório, que restaram desprovidos. No entanto, conforme se verifica do evento 44, fls. 1-5, em acórdão publicado em 17/5/2013, os últimos embargos de declaração não foram conhecidos.
+    Dessa forma, constato que a petição de recurso extraordinário foi recebida pelo protocolo do TST no dia 18/10/2013, quando já decorrido o prazo para a sua interposição.
+    Insta salientar que a interposição de recurso manifestamente incabível ou intempestivo não suspende o decurso do prazo recursal. Nesse sentido, AI 695.942-AgR, Rel. Min. Ellen Gracie, AI 499.340-AgR, Rel. Min. Joaquim Barbosa, AI 563.548-AgR-ED-ED, Rel. Min. Cezar Peluso, e o AI 653.421-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 19/9/2008, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO INTERPOSTO POR MEIO DE FAC-SÍMILE. PRAZO PARA APRESENTAÇÃO DE ORIGINAIS. CINCO DIAS IMPRORROGÁVEIS E CONTÍNUOS. EMBARGOS DECLARATÓRIOS NÃO CONHECIDOS NÃO INTERROMPEM OU SUSPENDEM PRAZO RECURSAL. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. AGRAVO IMPROVIDO. I - Os originais do recurso devem ser entregues em Juízo até cinco dias da data do término do prazo recursal. II - Esse prazo é improrrogável e contínuo, ainda que se trate de dia sem expediente forense. III - Embargos declaratórios que não foram conhecidos por serem intempestivos, não suspendem nem interrompem o prazo para a interposição de outro recurso. IV - Agravo regimental improvido.” (Grifos meus).
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de março de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
