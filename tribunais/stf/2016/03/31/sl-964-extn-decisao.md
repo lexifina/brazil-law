@@ -1,0 +1,24 @@
+Trata-se de suspensão de liminar ajuizada pela Tim Celular S/A contra decisão proferida pelo Juízo da 1ª Vara da Fazenda Pública da Comarca de Barreiras-BA na Ação Civil Pública 0301365-13.2015.8.05.0022, que havia determinado que a requerente
+    “[...] se abstivesse de comercializar novos produtos e/ou serviços em todos os Municípios que integram a área do DDD 77, além de se abster de cobrar valores adicionais à franquia básica de voz, que correspondam aos serviços de franquia de dados 2G ou 3G, ou outra superior, bem como de reduzir pela metade a cobrança pela utilização dos serviços de telefonia móvel dos consumidores da modalidade pré-paga, dentre outras obrigações ” (pág. 2 do documento eletrônico 28).
+    Neste pedido, requer-se a extensão da decisão que proferi nestes autos, por meio da qual determinei a suspensão da referida liminar, uma vez que
+    “a TIM permanece impedida de comercializar seus produtos e serviços nos Municípios abrangidos pelo DDD 77 em razão de nova decisão liminar proferida nos autos de Ação Civil Pública também ajuizada pelo Ministério Público do Estado da Bahia contra a TIM, que tramita perante a Vara da Comarca de Luis Eduardo Magalhães-BA (processo nº 0002976-66.2015.805.0154) ” (grifos no original; pág. 2 do documento eletrônico 28).
+    É o relatório.
+    Decido.
+    Estão presentes as condições para a extensão.
+    No tocante ao pleito de extensão propriamente dito, entendo que é caso de deferimento.
+    Isso porque a manutenção da decisão impugnada configura grave lesão à ordem pública e à segurança jurídica.
+    Não foi por outra razão que, em 28/03/2016, deferi o pedido de suspensão formulado pela empresa Oi nestes autos.
+    Assentei, à ocasião, que
+    "(...) ainda que se perceba a sindicabilidade das condutas praticadas pela empresa requerente no mercado de consumo, a decisão guerreada possui forte carga regulatória, suspendendo a atuação da delegatária do serviço público e condicionando o retorno à prestação dos serviços ao cumprimento de "melhorias", a serem fiscalizadas não por um corpo técnico especializado, mas pelo próprio juiz, logicamente após a certificação de quem tem a competência para tanto: a ANATEL.
+    A ANATEL, por ser responsável pelo exercício da atividade regulatória setorial, não foca sua atuação na tutela particular do consumidor, mas em aspectos relacionados à continuidade e à universalização do serviço, ao equilíbrio econômico-financeiro do contrato de concessão e à modicidade tarifária, entre outros. Assim, a suspensão da prestação do serviço essencial seria sanção que caberia à ANATEL aplicar, não ao Poder Judiciário, que poderia analisar apenas a legalidade na aplicação de referida sanção.
+    Não cabe, portanto, a interrupção inesperada dos serviços regulados (concedida sem a oitiva da ANATEL e muito menos da empresa requerente), em caráter punitivo, por parte do Poder Judiciário. Reafirmo que a atuação judicial sobre a atividade de regulação é excepcional, faltando razoabilidade à medida judicial que substituiu indevidamente a vontade da agência, invadindo a conveniência e a oportunidade da prática de ato administrativo por parte da entidade federal de telecomunicações.
+    Ademais, vislumbro o risco da ocorrência do efeito multiplicador da medida, de modo que sua manutenção permitiria o deferimento de outros pedidos de tutela de urgência em situações semelhantes, no âmbito do Estado da Bahia e de outros Estados, possibilitando a criação de desigualdades entre usuários e a indevida intervenção de terceiros na autorização conferida pela União ao delegatário do serviço de telefonia móvel. Em tempo, a empresa requerente juntou decisões proferidas em sede de ações civis públicas nas quais também foram suspensas as atividades de telefonia móvel pelas operadoras Oi e Vivo.
+    No caso, entendo que está devidamente demonstrado o fundamento de aplicabilidade do instituto da suspensão, pois a decisão impugnada importa grave lesão à ordem pública e à segurança jurídica" (pág. 7-8 do documento eletrônico 22).
+    Os motivos elencados naquela oportunidade autorizam o deferimento deste pedido de extensão, uma vez que o tema em debate é idêntico àquele veiculado nos processos indicados na inicial.
+    Ademais, os princípios da economicidade e da eficiência justificam o acolhimento do pleito ora formulado pela requerente, conforme o disposto no art. 4º, § 8º, da Lei 8.437/1992, combinado com o art. 1º da Lei 9.494/1997.
+    Isso posto, defiro este pedido de extensão para suspender a execução da liminar concedida nos autos da Ação Civil Pública 0002976-66.2015.805.0154, em curso na Vara dos Feitos de Relação de Consumidor, Cível e Comerciais da Comarca de Luis Eduardo Magalhães, Estado de Bahia, até o trânsito em julgado da ação.
+    Comunique-se.
+    Publique-se.
+    Brasília, 31 de março de 2016.
+Ministro Ricardo Lewandowski
+Presidente
