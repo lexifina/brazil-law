@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. INCIDÊNCIA SOBRE OS VALORES ATRASADOS REFERENTES À RAV – RETRIBUIÇÃO ADICIONAL VARIÁVEL. LEI 6.899/1981. RESOLUÇÃO 242/2001 DO CONSELHO DA JUSTIÇA FEDERAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. VANTAGEM RESULTANTE DE PAGAMENTO ADMINISTRATIVO - RAV. CORREÇÃO MONETÁRIA. INCIDÊNCIA NO VALORES ATRASADOS. POSSIBILIDADE. ART. 100 DA CF. RESOLUÇÃO N° 242 DO CONSELHO DA JUSTIÇA FEDERAL.
+    1. Trata-se de ação ordinária proposta por LOBÉLIA CAVALVCANTE SILVA contra INSS e a UNIÃO FEDERAL, insurgindo-se contra a não incidência da correção monetária no pagamento de atrasados referentes às remuneração adicional variável – RAV.
+    2. O pagamento das parcelas atrasadas do benefício previdenciário da autora deve ser feito de acordo com os preceitos do art. 100, §1°, da Constituição Federal.
+    3. Há incidência de correção monetária nos moldes estatuídos pelo Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, aprovado pela Resolução n° 242, de 03 de julho de 2001, do Conselho da Justiça Federal.
+    4. Apelações improvidas.”
+    Os embargos de declaração opostos pelo Instituto Nacional de Seguro Social - INSS foram providos para sanar a omissão quanto ao responsável pelo pagamento dos valores devidos a título de correção monetária, entendendo-se ser a União.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação: aos artigos 37 (1) e 100 (2) da Constituição Federal. Alega que “não há como ser deferido o pedido de correção monetária dos valores recebidos, uma vez que a legislação aplicável ao assim não prevê”.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da CF).
+    No que concerne às alegações 1 e 2, a matéria relativa à incidência de correção monetária sobre os valores atrasados referentes à RAV – Retribuição Adicional Variável, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie (Lei 6.899/1981 e Resolução 242/2001 do Conselho da Justiça Federal), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição da República. Nesse sentido:
+    “1. RECURSO. Extraordinário. Tema não decidido em recurso especial. Prejudicialidade parcial. Decisão agravada. Reconsideração. Deve ser conhecido recurso extraordinário que não ficou totalmente prejudicado com o julgamento de recurso especial. 2. RECURSO. Extraordinário. Não provimento. Índices de correção monetária de precatório complementar. Questão infraconstitucional. Agravo Regimental não provido. Não cabe recurso extraordinário que tenha por objeto questão relativa a índices de correção monetária, cujo debate, dependente de reexame prévio de normas inferiores, pode configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição.” (RE 404.801-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJ de 4/3/2005).
+     “Correção monetária do valor de precatório. Índice para o cálculo. Ausência de prequestionamento (Súmulas 282 e 356). Controvérsia infraconstitucional. Regimental não provido.” (AI 466.584-AgR, Rel. Min. Nelson Jobim, Segunda Turma, DJ de 21/5/2004).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de março de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
