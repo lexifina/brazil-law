@@ -1,0 +1,13 @@
+Decisão: Trata-se de ação cível originária com pedido liminar ajuizada pelo Estado do Acre em face da União e da Empresa Brasileira de Pesquisa Agropecuária – EMBRAPA – empresa pública federal, com vistas à sua exclusão do sistema SIAFI/CADIN/CAUC, em razão do não pagamento de GRU referente ao reembolso da remuneração e dos encargos sociais decorrentes de cessão de um servidor da EMBRAPA para a EMATER-AC, empresa pública estadual.
+    Na decisão de 28/12/2015, deferi em parte a antecipação dos efeitos da tutela “para determinar à União e à EMBRAPA a retirada da inscrição do Estado do Acre contida no SIAFI, CAUC, CADIN, ou em qualquer outro cadastro de inadimplentes de responsabilidade das requeridas, cujo fundamento seja relativo ao ‘não pagamento de GRU referente à cessão de um servidor da EMBRAPA para a EMATER-AC, entidade da administração indireta estadual’” (eDOC 13).
+    A EMBRAPA apresentou contestação (eDOC 21), na qual afirma que, por meio de tratativas administrativas entre as partes, houve a exclusão das restrições contra o Estado do Acre no CADIN, na data de 25/12/2015. Pugnou, assim, pela extinção do feito por perda superveniente de objeto.
+    Diante das informações acima mencionadas, foi aberta vista ao Autor para se manifestar sobre o interesse no prosseguimento da ação (eDOC 29). O Estado do Acre requereu a extinção do feito por perda de objeto e falta de interesse de agir e informou o seguinte:
+    “Conforme depreende-se dos autos, não obstante a presente ação ter sido ajuizada em 18/12/2015 e a decisão interlocutória concedendo a ordem judicial liminar requerida ter sido prolatada em 29/12/2015, a EMBRAPA, por meio de tratativas administrativas entre o Estado e a empresa, realizou a exclusão do Estado do Acre do cadastro de inadimplentes já no dia 24/12/2016”.
+    Assim, tendo em vista que não mais subsiste a inscrição do Estado do Acre no sistema SIAFI/CADIN/CAUC, é caso de extinção do processo, por perda superveniente de objeto.
+    Sublinhe-se, ademais, que o Supremo Tribunal Federal firmou jurisprudência no sentido de que a perda superveniente de interesse de agir gera ônus à parte que deu causa à instauração do processo. Nesse sentido: AR 1814-AgR-segundo, Rel. Min. Teori Zavascki, Pleno, Dje 24.08.2015; ACO 1158, Rel. Min. Dias Toffoli, Dje 03.02.2016.
+    Ante o exposto, declaro extinta a ACO 2.798, sem resolução de mérito (art. 485, VI, do CPC/2015). Sem custas. Condeno a União em honorários advocatícios, no valor de R$ 500,00 (quinhentos reais), nos termos do art. 85, § 2º, do CPC/2015.
+    Publique-se. Intime-se.
+    Brasília, 31 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
