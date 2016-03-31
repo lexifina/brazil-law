@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão, assim ementado:
+    “AÇÃO RESCISÓRIA. DESAPOSENTAÇÃO. DECADÊNCIA. VIOLAÇÃO À LITERAL DISPOSIÇÃO DE LEI. NÃO OCORRÊNCIA.
+    I. Os artigos 543-B, parágrafo 1º e 543-C, parágrafo 1º, ambos do Código de Processo Civil, determinam apenas o sobrestamento dos recursos especiais e extraordinários, quando repetitivos e submetidos à análise de Repercussão Geral, razão pela qual é desnecessária tal medida nesta instância recursal.
+    II. No tocante à decadência, cabe anotar que tal instituto não estava contemplado na redação original da Lei n. 8.213/91, que previa, em seu art. 103, somente a prescrição das prestações não pagas na época própria. Por sua vez, o aludido art. 103 teve, por diversas vezes, a sua redação alterada, de modo a estabelecer, a partir da MP n. 1.523/97, um prazo decadencial, ora de 10 anos, ora de 05 anos, para a revisão do ato de concessão de benefício. Depreende-se, portanto, que a decadência refere-se apenas e tão-somente ao direito à revisão do ato de concessão de benefício, e não ao ato de concessão em si, daí não ser aplicável ao caso em exame.
+    III. Não vislumbro a mencionada ausência de interesse de agir, haja vista que a existência de previsão legal para a desconstituição do título executivo em sede de embargos à execução (art. 741, parágrafo único, do CPC) não obsta o manejo da via rescisória, sendo este, inclusive, o instrumento processual propício para a desconstituição da coisa julgada, nos termos do artigo 485 da Lei Processual Civil.
+    IV. Inaplicabilidade da Súmula nº 343 do STF, uma vez que a questão envolve a interpretação de preceitos constitucionais.
+    V. Ausente a hipótese de rescindibilidade prevista no inciso V do artigo 485 do CPC, pois a v. decisão rescindenda não veiculou interpretação absolutamente errônea da norma regente da matéria, não configurando violação à literal disposição de lei a mera injustiça ou o entendimento contrário ao defendido pelo INSS, parte autora da presente demanda.
+    VI. A Autarquia Previdenciária está se valendo da presente ação rescisória para reabrir uma discussão amplamente aforada e debatida, o que não se pode admitir, uma vez que a ação rescisória não se presta a socorrer o inconformismo do sucumbente, consoante vasta jurisprudência desta E. Corte Regional e do C. STJ.
+    VII. Matéria preliminar rejeitada. Ação rescisória julgada improcedente.”
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, e II, XXXVI, 37, caput, 194, caput, e parágrafo único, 195, § 5º, e 201, caput, § 1º, §§ 2º e 11, todos da Constituição.
+    O recurso extraordinário é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Seja como for, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em sede de recurso extraordinário.
+    Por fim, ressalte-se que a peça recursal não aponta, de forma clara e concreta, as razões pelas quais seria cabível a interposição do recurso extraordinário pelo art. 102, III, b, da Constituição. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 31 de março de 2016.
+Ministro Luís Roberto Barroso
+Relator
