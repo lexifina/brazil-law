@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da Primeira Turma Recursal dos Juizados Especiais Federais do Estado de Pernambuco, assim ementado (eDOC 13, p. 1):
+    “PREVIDENCIÁRIO. PENSÃO POR MORTE. SENTENÇA IMPROCEDENTE. PEDIDO DE RESTABELECIMENTO. MENOR DESIGNADA EM 1982. ÓBITO OCORRIDO EM 24/08/1988, SOB A ÉGIDE DA LEI Nº 3.087/60 E DECRETO Nº 89.312/84. BENEFICIÁRIA MAIOR DE 21 ANOS. DIREITO ADQUIRIDO. AUSÊNCIA DE PREVISÃO LEGAL PARA EXTINÇÃO DO BENEFÍCIO PARA PESSOA DESIGNADA DO SEXO FEMININO. RECURSO DO PARTICULAR PROVIDO.”
+    Os embargos de declaração opostos foram desprovidos (eDOC 23, p. 1).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI e 195, § 5º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que não há amparo constitucional à extensão da pensão por morte até os vinte e quatro anos de idade, bem como não há direito adquirido a regime jurídico (eDOC 27, p. 6).
+    A Presidência da Primeira Turma Recursal dos Juizados Especiais Federais do Estado de Pernambuco inadmitiu o recurso em virtude da ofensa indireta à Constituição Federal, bem como aplicação da Súmula 279 do STF.
+    É o relatório. Decido.
+    Como se observa da leitura do acórdão recorrido, o exame das razões recursais exige análise da legislação infraconstitucional (Lei 3.807/60 e Decreto 3.807/60). Assim, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo, referente à concessão da pensão, demandaria o reexame da legislação aplicável à espécie e de fatos e provas, o que inviabiliza o processamento do apelo extremo. Incidem no caso as Súmulas 279 do STF.
+    Nesse sentido, ambas as Turmas já se manifestaram:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PENSÃO POR MORTE. MAIORIDADE PREVIDENCIÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 810.878-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 24.06.2014)
+    EMENTA DIREITO ADMINISTRATIVO. PENSÃO POR MORTE. RESTABELECIMENTO. FILHA SOLTEIRA MAIOR DE 21 ANOS. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 05.4.2011. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.” (ARE 877.530-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 06.08.2015)
+    Ante o exposto, nego provimento ao agravo, nos termos do artigo 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 31 de março de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
