@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL PROVIDO: DECISÃO TRANSITADA EM JULGADO. SUBSTITUIÇÃO DE TÍTULO JUDICIAL. PERDA SUPERVENIENTE DE OBJETO: PREJUÍZO. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “EMBARGOS INFRINGENTES – CONSTITUCIONAL – ADMINISTRATIVO – AÇÃO CIVIL PÚBLICA – PRETENSÃO DE OBTER O FORNECIMENTO DE MEDICAMENTOS A MENOR – RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS – AUSÊNCIA – PORTARIA Nº 2.981/2009, DO MINISTÉRIO DA SAÚDE – DESCABIMENTO DA DISPOENSAÇÃO DOS REMÉDIOS DE COMPETÊNCIA DO ESTADO.
+    1. À luz da Portaria MS/GM nº 2.981/2009, que conferiu a cada uma das esferas federas a atribuição para a prática de determinadas categorias de atos inerentes à prestação da assistência farmacêutica, cabe infirmar a condenação imposta ao Município de fornecer medicamentos previstos no Grupo 2 do Anexo II da Portaria GM/MS nº 2.981/2009, cujas aquisição e distribuição incumbem aos Estados.
+    2. Embargos infringentes rejeitados.
+    V.V: Cabe ao Estado assegurar, aí incluídos os três níveis da federação, através dos recursos que se fizerem necessários ao tratamento da moléstia de que padece a parte, o direito à vida, permitindo aliviar o sofrimento e a dor de enfermidade reversível ou irreversível, garantindo ao cidadão o direito à sobrevivência. Em razão da descentralização do Sistema Único de Saúde, os entes federados são solidariamente responsáveis pela disponibilização do tratamento médico necessário ao indivíduo, inclusive com o fornecimento de medicamentos e insumos necessários à sobrevivência digna e manutenção da saúde da parte” (fl. 345).
+    2. O Recorrente alega contrariados os arts. 5º, § 1º, 6º, 196, 197, 198 e 227, § 1º, da Constituição da República, asseverando que “a manutenção da não imposição ao Município do dever de fornecer os medicamentos Clenil® spray 250 (beclometasona) e Budesonida à criança, subverteria o prescrito tanto na Constituição da República quanto na legislação infraconstitucional pertinente” (fl. 393).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. O recurso extraordinário está prejudicado pela perda superveniente do objeto.
+    4. O Recorrente interpôs, simultaneamente ao recurso extraordinário, recurso especial.
+    O Ministro Relator no Superior Tribunal de Justiça deu provimento ao Recurso Especial n. 1.535.197, nos seguintes termos:
+    “O Superior Tribunal de Justiça, em reiterados precedentes, tem decidido que o funcionamento do Sistema Único de Saúde - SUS é de responsabilidade solidária dos entes federados, de forma que qualquer deles tem legitimidade para figurar no polo passivo de demanda que objetive o acesso a meios e medicamentos para tratamento de saúde.
+    (…)
+    Ante o exposto, dou provimento ao recurso especial para restabelecer a sentença de primeiro grau no que se refere à obrigação do Município de Ubá ao fornecimento do medicamento postulado” (fls. 448-450).
+    Essa decisão transitou em julgado em 14.3.2016. Operou-se a substituição expressa do título judicial, conduzindo ao prejuízo do presente recurso. Assim, por exemplo:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO PREJUDICADO EM VIRTUDE DE PROVIMENTO DO RECURSO ESPECIAL. PERDA DE OBJETO. O Superior Tribunal de Justiça, em decisão transitada em julgado, deu provimento ao recurso especial, determinando o retorno dos autos à origem, para que o tribunal a quo aprecie eventual ocorrência de prescrição da ação, considerado o prazo de cinco anos do recebimento das restituições. Recurso extraordinário prejudicado, por perda de seu objeto. Agravo regimental a que se nega provimento” (AI n. 651.966-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 17.9.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. PEDIDO DE INTIMAÇÃO ESPECÍFICA. RECURSO ESPECIAL PROVIDO. RECURSO EXTRAORDINÁRIO PREJUDICADO: PERDA SUPERVENIENTE DE OBJETO. ART. 512 DO CÓDIGO DE PROCESSO CIVIL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Atendida a pretensão recursal no julgamento do recurso especial, é de ser reconhecido o prejuízo do recurso com o mesmo objeto” (RE n. 662.773-AgR, de minha relatoria, Primeira Turma, DJe 25.4.2012).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. PERDA SUPERVENIENTE DE OBJETO. AGRAVO PREJUDICADO. I - A pretensão deduzida no recurso extraordinário perdeu seu objeto, prejudicando, pois, o recurso de agravo nele interposto. II – Agravo regimental improvido” (ARE n. 639.404-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 10.2.2012).
+    5. Pelo exposto, alteradas as condições jurídico-processuais na espécie, não conheço do recurso pelo seu prejuízo decorrente de perda do objeto (inc. III do art. 932 do Código de Processo Civil e art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 31 de março de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
