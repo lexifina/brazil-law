@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da 2ª Turma Recursal Mista dos Juizados Especiais do Estado do Mato Grosso do Sul, assim ementado:
+    “RECURSO INOMINADO. CONVERSÃO DA MOEDA DE CRUZEIRO REAL PARA REAL. URV. DEFASAGEM SALARIAL. INCOMPETÊNCIA DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA PARA CONHECER DE CAUSAS DE NATUREZA PESSOAL DE SERVIDOR PÚBLICO. ART. 23 DA LEI N° 12.153/2009 E ART. 2° DA RESOLUÇÃO N° 42/2010. SENTENÇA ILÍQUIDA. NECESSIDADE DE REALIZAÇÃO DE PERÍCIA. INCOMPETÊNCIA DOS JUIZADOS ESPECIAIS.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, XXXVI; 22, I; 25; 37, caput, X e XXXVI; 39, § 1º, I e III e § 4º; 168; e 169, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário, sob o fundamento de que o caso atrai a incidência da Súmula 279/STF.
+    O recurso extraordinário é inadmissível. O Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão relativa à competência dos juizados especiais para a apreciação de processo em que seja necessária a produção de prova complexa para o deslinde da controvérsia. Nessa linha, veja-se a ementa do ARE 640.671-RG, julgado sob a relatoria do Ministro Presidente, à época Ministro Cezar Peluso (Tema 433):
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional. “
+    Quanto à discussão acerca da comprovação da hipossuficiência do recorrente, para fins de concessão da gratuidade de justiça, o Plenário Virtual do Supremo Tribunal Federal, ao apreciar o AI 759.421-RG, sob a relatoria do Ministro Cezar Peluso, também decidiu pela ausência de repercussão geral da questão. Veja-se, nesse sentido, a ementa do julgado (Tema 188):
+    “RECURSO. Extraordinário. Incognoscibilidade. Gratuidade de justiça. Declaração de hipossuficiência. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à declaração de hipossuficiência, para obtenção de gratuidade de justiça, versa sobre matéria infraconstitucional.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
