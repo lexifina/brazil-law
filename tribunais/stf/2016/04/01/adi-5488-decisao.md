@@ -1,0 +1,17 @@
+Despacho:
+    Vistos.
+    Trata-se de ação direta de inconstitucionalidade, com pedido de medida cautelar, ajuizada pela Associação Brasileira de Emissoras de Rádio e Televisão - ABERT, a fim de que seja fixada interpretação conforme à Constituição ao art. 46, caput e § 5º, da Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), com a redação dada pela Lei nº 13.165, de 29 de setembro de 2015, “para fixar-se o entendimento de que, ao elaborar as regras aplicáveis aos debates realizados antes do primeiro turno das eleições, os candidatos e partidos aptos a deliberar, nos termos da lei, poderão definir o número de participantes, ainda que em quantitativo inferior ao de partidos com representação superior a nove deputados”.
+    Eis o teor das normas questionadas:
+    ”Art. 46. Independentemente da veiculação de propaganda eleitoral gratuita no horário definido nesta Lei, é facultada a transmissão por emissora de rádio ou televisão de debates sobre as eleições majoritária ou proporcional, sendo assegurada a participação de candidatos dos partidos com representação superior a nove Deputados, e facultada a dos demais, observado o seguinte: (Redação dada pela Lei nº 13.165, de 2015).
+    (…)
+    § 5º Para os debates que se realizarem no primeiro turno das eleições, serão consideradas aprovadas as regras, inclusive as que definam o número de participantes, que obtiverem a concordância de pelo menos 2/3 (dois terços) dos candidatos aptos, no caso de eleição majoritária, e de pelo menos 2/3 (dois terços) dos partidos ou coligações com candidatos aptos, no caso de eleição proporcional. (Redação dada pela Lei nº 13.165, de 2015)”.
+    O autor alega que, a partir da leitura combinada do § 5º com o caput do art. 46, seria possível chegar à conclusão – que considera equivocada – de que não seria possível a aprovação pelos candidatos aptos de regra para os debates eleitorais que exclua a participação de candidatos de partido com representação superior a 9 (nove) deputados. Aduz ter sido essa a interpretação adotada pelo Tribunal Superior Eleitoral (TSE) no § 5º do art. 32 da Resolução nº 23.457/2015, o qual prevê que “a emissora responsável e os candidatos que representem dois terços dos aptos não poderão deliberar pela exclusão de candidato cuja presença seja garantida”.
+    Assevera que essa interpretação viola: o princípio democrático e o direito à informação (artigos 1º e 5º, inciso XIV, da CF/88), “na medida em que impede que se desenhem debates capazes de promover em maior e melhor medida o direito dos eleitores à informação adequada”; as liberdades de expressão jornalística e de programação (artigos 5º, incisos IV e IX, e 220, da CF/88), ao fundamento de que as emissoras devem ter liberdade para limitar o número de participantes nos debate eleitorais; e a autonomia partidária, que envolve a liberdade do partido político para se posicionar quanto à aprovação ou não das regras dos debates, inclusive quanto ao número de participantes (art. 17, § 1º, da Constituição Federal).
+    É o breve relato.
+    Em razão da relevância da matéria, entendo que deva ser aplicado o procedimento abreviado do art. 12 da Lei nº 9.868/99, a fim de que a decisão seja tomada em caráter definitivo.
+    Solicitem-se informações aos requeridos. Após, abra-se vista, sucessivamente, no prazo de cinco dias, ao Advogado-Geral da União e ao Procurador-Geral da República.
+    Publique-se.
+    Brasília, 1º de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
