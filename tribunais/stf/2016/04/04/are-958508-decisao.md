@@ -1,0 +1,27 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 7º, XVI, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Julgo oportuna a transcrição dos seguintes trechos do acórdão proferido no Tribunal de origem:
+    “Ora, os requerentes são ocupantes do cargo Agente Tributário Estadual, submetidos, como é cediço, a escalas de plantão que incluem o período noturno, em razão da função que exige a fiscalização ininterrupta (24h/dia), do trânsito de mercadorias, bens e serviços.
+    Nesse contexto, incabível o pagamento do adicional noturno, em razão da expressa exclusão de incidência no que tange ao trabalho realizado em escala de plantão.
+    Isso porque o §2º do art. 20 do Decreto Estadual n. 10.738/02 dispõe expressamente que o caput não se aplica aos servidores que se encontram nestas condições.
+    (…)
+    Como é cediço, a Constituição Federal, em seu art. 39, §3º, reconhece a aplicação aos servidores públicos, do art. 7º, XVI, que expressamente prevê o direito à remuneração do trabalho extraordinário, no mínimo, em cinquenta por cento superior ao valor pago pelas horas comuns.
+    Embora não se desconheça tratar-se de norma autoaplicável, a teor do que se decidiu no STF, quando do julgamento do Ag. Reg no Agravo de Instrumento 642.528/RJ, de relatoria do Ministro Dias Toffoli, por exemplo, vejo que não é cabível o pagamento do adicional de horas extra para os requerentes.
+    É que os requerentes são ocupantes do cargo Agente Tributário Estadual, submetidos, como é cediço, a escalas de plantão, em razão da função que exige a fiscalização ininterrupta (24h/dia), do trânsito de mercadorias, bens e serviços.
+    É ínsito ao exercício do seu cargo a prestação de serviço em escalas de plantão, em jornada superior a 8h/dia, o que é devidamente recompensado pelo regime de revezamento e pela remuneração da função.” (fls. 571-3).
+    Não há falar em afronta ao preceito constitucional indicado nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário.”
+    Ademais, verifico que, para aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo, seria necessário o revolvimento do quadro fático delineado na instância ordinária, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. HORAS EXTRAS E ADICIONAL NOTURNO. REGIME DE COMPENSAÇÃO. LEIS ESTADUAIS 2.068/1976, 2.148/1977 E 3.868/1977 E DECRETO 21.892/2003. MATÉRIA INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base no conjunto fático-probatório dos autos e na legislação infraconstitucional local aplicável à espécie, o que inviabiliza o recurso extraordinário, nos termos das Súmulas 279 e 280 do STF. Precedentes. II - Agravo regimental improvido.” (RE 606.516-AgR/SE, Rel. Min. Ricardo Lewandowski, 1ª Tuma, DJe 04.5.2011).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO CIVIL. ADICIONAL NOTURNO. REVEZAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil.Precedentes. Agravo regimental a que se nega provimento.” (AI 766.188-AgR/MG, Rel. Min Eros Grau, 2ª Turma, DJe 18.12.2009).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Regime de compensação. Jornada de trabalho. Horas extras. 3. Ofensa meramente reflexa ao texto constitucional. Lei Complementar Estadual n. 92/2002. Súmula 280 do STF. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 784.408-AgR/PR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 23.4.2014).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de abril de 2016.
+Ministra Rosa Weber
+Relatora
