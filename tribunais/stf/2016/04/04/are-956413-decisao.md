@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Superior Tribunal Militar:
+    “APELAÇÃO. POSSE DE SUBSTÂNCIA ENTORPECENTE. ARGUIÇÃO DE DESCONHECIMENTO. CRIME CULPOSO. COMPROVAÇÃO DO DOLO. IMPROCEDÊNCIA. CRIME DE PERIGO ABSTRATO. LESÃO PRESUMIDA. CONSUMAÇÃO DO DELITO.
+    A mera alegação de desconhecimento ou de esquecimento, sem devido respaldo probatório, não descaracteriza a intenção do agente de trazer a substância entorpecente para o interior da Unidade Militar.
+    O dolo ficou demonstrado quando o Réu, sabendo das consequências do seu comportamento, de forma livre e consciente, entrou na OM com um cigarro de maconha que estava dentro da sua bolsa em uma carteira de cigarros da marca Dunhill.
+    Por se tratar de crime de perigo abstrato, o simples fato de ser surpreendido com a droga em local sob a Administração Militar é suficiente para que ocorra a posse ilícita de entorpecentes, independentemente da efetivação do resultado lesivo à saúde das pessoas.
+    Apelo provido. Decisão unânime”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. Inadmitiu-se o recurso extraordinário sob os fundamentos de inexistência de repercussão geral e de ofensa constitucional direta.
+    3. O Agravante sustenta ser de repercussão geral a matéria discutida no processo e “ofensa à Lei Maior quando se contariam os princípios constitucionais apontados em sede recursal extraordinária sob pena de nulidade caso assim não o fizer”.
+    No recurso extraordinário, alega-se contrariedade ao art. 5º, incs. LIV e LV, da Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A apreciação da controvérsia demandaria o reexame da matéria fático-probatória dos autos, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal.
+    Este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, incs. LIV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (Código Penal Militar), inviabiliza o recurso extraordinário, pois ofensa constitucional, se tivesse ocorrido, seria indireta:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DESTE SUPREMO TRIBUNAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência deste Supremo Tribunal firmou-se no sentido de que "Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada". Precedentes. 2. O Supremo Tribunal Federal firmou jurisprudência no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República. Precedentes. 3. Agravo regimental desprovido” (AI n. 580.465-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2008).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CRIMINAL. HOMICÍDIO. NULIDADE DO JULGAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. 3. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de violação meramente reflexa do texto da Constituição. Agravo regimental a que se nega provimento” (AI n. 757.450-AgR, Relator o Ministro Eros Grau, Segunda Turma, DJe 4.12.2009).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. DIFAMAÇÃO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE PROVA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 769.951-AgR, de minha relatoria, DJe 26.11.2013).
+    6. Pelo exposto, nego seguimento a este agravo (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+     Publique-se.
+    Brasília, 4 de abril de 2016.
+ Ministra CÁRMEN LÚCIA
+Relatora
