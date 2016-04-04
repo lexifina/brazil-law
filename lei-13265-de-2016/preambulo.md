@@ -1,0 +1,2 @@
+Altera as Leis nº 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016; e 10.451, de 10 de maio de 2002, para prorrogar a isenção de tributos incidentes sobre a importação de equipamentos e materiais esportivos.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
