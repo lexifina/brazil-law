@@ -1,0 +1,28 @@
+Decisão: Trata-se de embargos de declaração opostos em face de decisão monocrática (eDOC 9) que, com fundamento na Súmula 284 do Supremo Tribunal Federal, negou provimento ao agravo, ao argumento de que a peça processual do recurso extraordinário estaria ininteligível.
+    A recorrente alega a inexistência da referida ininteligibilidade.
+    Assiste razão à recorrente, motivo pelo qual torno sem efeito a decisão anteriormente prolatada.
+    Passo à análise do recurso.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, ementado nos seguintes termos:
+    “Apelação Cível. Administrativo e Constitucional. Candidato aprovado em concurso público municipal e eliminado, em razão de não comparecer à 2ª etapa do concurso, para a qual não foi comunicado por correspondência pessoal. Convocação dos candidatos aprovados, exclusivamente, pelo Diário Oficial e Internet, que se constituiu em violação ao art. 77, IV, da Constituição Estadual, aplicável ao ente municipal. Princípio da simetria. Violação aos princípios da legalidade e publicidade. Precedentes desta Corte. Recurso provido.” (eDOC 3, p. 37)
+    No recurso extraordinário (eDOC 4, p. 26-42), interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 37, caput, do texto constitucional.
+    Nas razões recursais, alega-se a decisão do Tribunal a quo contraria o princípio da publicidade, uma vez que a regra prevista no art. 77, IV, da Constituição do Estado do Rio de Janeiro (que exige a convocação por correspondência pessoal do candidato aprovado em concurso, sem prejuízo da publicação oficial) deveria ser aplicada apenas quando da convocação para a investidura no cargo, e não para as fases subsequentes dos certames.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Constituição do Estado do Rio de Janeiro), consignou que o art. 77, IV, do referido diploma assegura o envio de carta pessoal aos aprovados nos concursos, o que abrangeria os casos de convocações para as demais fases dos certames. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No mérito, assiste razão ao Apelante, que logrou êxito em provar que teve seu direito violado pelos Apelados.
+    Observa-se do exame dos autos, que os Apelados não promoveram a convocação do Apelante, classificado em concurso público, considerando o mesma desclassificada, ao argumento de que não cometeu ato que possa ser reputado como ilegal ou arbitrário, uma vez que inexistia previsão editalícia relativa à comunicação pessoal e, que sendo o Edital, a lei do concurso, não lhe pode ser garantido tratamento diferenciado.
+    Como é notório, o edital de um concurso visa à sua regulação sob seus diversos aspectos. Contudo, não se pode olvidar que as regras editalícias de qualquer concurso para serem tidas como legais, devem se pautar pelas normas que norteiam a Administração Pública, mormente, pelas constitucionais.
+    Nessa esteira, ao aferir a legalidade das normas editalícias de um concurso, o Judiciário não está adentrando no mérito administrativo, mas cumprindo sua função institucional.
+    Para ser tida como legal a regra de convocação dos candidatos aprovados pelo Diário Oficial, não basta o fato de ter sido expressa no edital, se não está em conformidade total com as normas administrativas e constitucionais. (…)
+    Nesse passo, in casu, plenamente aplicável a disposição contida no artigo 77, VI, da Constituição Estadual, segundo a qual, a convocação deve seguir os princípios da Administração Pública e deve ser feita mediante publicação oficial e por correspondência pessoal: (...)” (eDOC 3, p. 41)
+    Assim, verifico que a matéria debatida no Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CONVOCAÇÃO DE CANDIDATO APENAS POR DIÁRIO OFICIAL. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 669.689-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 16.05.2012);
+    “Agravo regimental em recurso extraordinário com agravo 2. Concurso público. Escrivão de polícia civil. Controvérsia acerca da adequada forma de convocação de candidato para participar de fase seguinte do certame. Acórdão recorrido que, ao analisar todos os elementos de fato e de prova, entendeu não ser razoável a convocação apenas por diário oficial. 3. Impossibilidade de reexame do conjunto fático-probatório, bem como das normas do edital pertinente ao caso. Verbetes 279 e 454 da Súmula desta Corte. Precedentes. 4. Ausência de argumentos suficientes para infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento.” (ARE 647.064-AgR, de minha relatoria, Segunda Turma, DJe de 11.10.2011).
+    No mesmo sentido, cito o ARE 810.578, Rel. Min. Teori Zavascki, DJe 5.6.2014; o AI 801.223, Rel. Min. Dias Toffoli, DJe 27.5.2011; e o AI 542.111, de minha relatoria, DJe 6.4.2006.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC).
+    Publique-se.
+    Brasília, 4 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
