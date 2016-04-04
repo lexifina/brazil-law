@@ -1,0 +1,43 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra decisão monocrática do Superior Tribunal de Justiça que negou seguimento à idêntica ação constitucional, in verbis:
+    “Trata-se de habeas corpus com pedido liminar impetrado em favor de AIRTON DIAS ALVINO, contra acórdão proferida pela 2ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, que proveu parcialmente a Apelação n. 0015584-58.2010.8.26.0196, para reduzir a pena para 01 (um) ano e 02 (dois) meses de reclusão, em regime inicial semiaberto, e pagamento de 11 (onze) dias-multa, em razão da prática do delito previsto no art. 171, caput, do Código Penal.
+    Sustenta o impetrante a ocorrência de constrangimento ilegal sob o argumento de que deveria ser abrandado o modo prisional para o aberto, porquanto a condenação anterior, a qual o sentenciante valeu-se para justificar a imposição do regime mais severo, refere-se a fato findo há mais de 05 (cinco) anos, não sendo, portanto, idôneo a gerar qualquer agravamento no sistema carcerário.
+    Defende que o quantum final da pena fixada autoriza a imposição do modo prisional aberto, conforme previsto no art. 33, § 2º, alínea c, do CP.
+    Requer, liminarmente, a concessão da ordem constitucional para que o paciente aguarde em liberdade o julgamento final do writ. No mérito, pugna pela fixação do regime inicial aberto.
+    A liminar foi indeferida.
+    O Ministério Público Federal opinou pelo não conhecimento do writ.
+    É o relatório.
+    Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105 da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+    […]
+    O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+    Infere-se dos autos que o paciente foi condenado à pena de 02 (dois) anos de reclusão, em regime inicial semiaberto, e ao pagamento de 20 (vinte) dias-multa, pela prática do delito previsto no art. 171, caput, do Código Penal.Irresignada, a defesa interpôs recurso de apelação perante a Corte de origem, a qual proveu parcialmente, para reduzir a reprimenda para 01 (um) ano e 02 (dois) meses de reclusão, e pagamento de 11 (onze) dias-multa, mantido, no mais, o édito condenatório.
+    No que concerne ao regime inicial, verifica-se que o juízo sentenciante fixou o intermediário, sob o seguinte fundamento:
+    ‘O regime inicial de cumprimento da pena privativa de liberdade é o semi-aberto em razão dos péssimos antecedentes antes comentados, que também impedem a concessão de benefícios.’ (e-STJ fls. 18-19).
+    A Corte impetrada manteve o modo prisional semiaberto limitando-se a afirmar que ‘o regime não poderia ser diverso do semiaberto’ (e-STJ fl. 30).
+    Acerca do tema, cumpre salientar que, a teor da jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena corporal firmada, devendo-se considerar as demais circunstâncias do caso concreto, especialmente o contido no art. 59 do CP.
+    Assim, não se pode considerar ilegal a sentença condenatória e o acórdão impugnado no ponto em que deixaram de fixar o regime aberto, pois, embora a reprimenda tenha sido definitivamente estabelecida em patamar inferior a 04 (quatro) anos, é possível constatar a presença de circunstâncias judiciais desfavoráveis ao paciente.
+    Correta, portanto, a imposição do regime inicial intermediário, nos termos em que apresentados, os quais corroboram, inclusive, ser este o único apto a prevenção e a repressão do delito denunciado no caso concreto, consoante o disposto no art. 33 do Código Penal.
+    […]
+    Ademais, no que concerne à alegação de que a condenação anterior, utilizada para fundamentar a imposição do modo prisional intermediário teria sido atingida pelo período depurador, observa-se que o Sodalício estadual não se manifestou sobre a referida tese, o que torna inviável a análise diretamente por esta Corte Superior, sob pena de incidir em indevida supressão de instâncias.
+    Nesse contexto, verifica-se que a fixação do regime inicial semiaberto, mantida pelo Tribunal apontado como coator, encontra-se devidamente justificada, não havendo ilegalidade a reparar.
+    Ante o exposto, com fundamento nos arts. 38 da Lei 8.038/90, e 34, inciso XVIII, do Regimento Interno deste Superior Tribunal, nega-se seguimento ao habeas corpus.
+    […].”
+    O impetrante reitera as razões relatadas no decisum acima transcrito, cuja reprodução é aqui dispensada, para evitar tautologia, e requer a concessão de liminar a fim de que o paciente aguarde, em regime aberto, o julgamento definitivo deste writ e, no mérito, o reconhecimento do direito ao regime aberto.
+    É o relatório.
+    DECIDO.
+    O impetrante não se desincumbiu do ônus de interpor agravo regimental da decisão que negou seguimento ao habeas corpus no Superior Tribunal de Justiça, ou seja, não exauriu a jurisdição no âmbito daquela Corte, conforme exigido pelo artigo 102, inciso II, alínea a, da Constituição Federal, in verbis:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    II – julgar, em recurso ordinário:
+    a) o "habeas-corpus", o mandado de segurança, o "habeas-data" e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão” (grifei).
+    In casu, caberia ao recorrente a interposição de agravo regimental, à luz do que prevê o art. 39 da Lei n. 8.038/90: “Da decisão do Presidente, do Tribunal, da Seção, de Turma ou de Relator que causar gravame à parte, caberá agravo para o órgão especial, Seção ou Turma, conforme o caso, no prazo de 5 (cinco) dias”.
+    O constituinte fez clara opção pelo princípio da colegialidade ao franquear a competência desta Corte para apreciação de recurso ordinário em habeas corpus – consoante disposto na alínea “a” do inciso II do artigo 102 – quando decididos em única instância pelos Tribunais Superiores. E não há de se estabelecer a possibilidade de flexibilização dessa regra constitucional de competência, pois, sendo matéria de direito estrito, não pode ser interpretada de forma ampliada para alcançar autoridades – no caso, membros de Tribunais Superiores – cujos atos não estão submetidos à apreciação do Supremo. Daí porque, em situação similar, a Primeira Turma desta Corte, por ocasião do julgamento do Recurso Ordinário em Habeas Corpus nº 108.877/RS, relatora Ministra Cármen Lúcia, deixou expresso que ““não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça”. No mesmo sentido, RHC 117.267/SP, relator Ministro Dias Toffoli.
+    Cf., no mesmo sentido, o acórdão proferido no julgamento do RHC 111.639/DF, relator Ministro Dias Toffoli, cuja ementa possui o seguinte teor:
+    “Recurso ordinário em habeas corpus. Penal. Roubo circunstanciado pelo emprego de arma. Aplicação do aumento de pena previsto no inciso I do § 2º do art. 157 do Código Penal. Decisão monocrática do relator do habeas corpus no Superior Tribunal de Justiça a ele negando seguimento. Não cabimento do recurso ordinário. Precedentes. Recurso não conhecido. Ofensa ao princípio da colegialidade. Concessão de ordem de habeas corpus de ofício. Precedentes. 1. Segundo o entendimento da Corte ‘não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça’ (RHC nº 108.877/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/10/11). 2. Recurso não conhecido(...)” (grifei).
+    A Constituição Federal restringiu a competência desta Corte às hipóteses nas quais o ato imputado tenha sido proferido por Tribunal Superior, considerando o princípio da colegialidade. Entender de outro modo, para alcançar os atos praticados por membros de Tribunais Superiores, seria atribuir à Corte competência que não lhe foi outorgada pela Constituição.
+    Vê-se, ademais, que a tese de inocorrência de reincidência foi inaugurada neste writ, que, também por essa razão, não pode ser conhecida, sob pena de supressão de instância.
+    Ex positis, NEGO SEGUIMENTO ao writ, com fundamento no artigo 21, § 1º, do RISTF, restando prejudicada a análise do pleito cautelar.
+    Dê-se ciência ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 4 de abril de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
