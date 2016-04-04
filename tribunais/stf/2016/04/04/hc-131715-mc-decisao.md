@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, no qual se alega demora do Superior Tribunal de Justiça para julgar o HC 330.210/RS, Rel. Min. Francisco Falcão. Consta dos autos, em síntese, que (a) o paciente encontra-se preso cautelarmente há 5 anos e 6 meses, acusado da prática do crime de homicídio; (b) após a inclusão de qualificadora na pronúncia, decorrente de aditamento da denúncia, a defesa interpôs recurso em sentido estrito ao Tribunal de Justiça de Minas Gerais, que lhe negou provimento; (c) contra esse julgado, foi interposto recurso especial ao Superior Tribunal de Justiça, pendente de julgamento em definitivo; (d) contra a segregação provisória, o paciente impetrou habeas corpus ao TJMG, que denegou a ordem; (e) na sequência, interposto recurso ordinário perante o STJ, que indeferiu a liminar.
+    Nesta ação, o impetrante alega, em síntese, que (a) o caso comporta a superação da súmula 691 STF; (b) há excesso de prazo na prisão do paciente que se encontra encarcerado há 5 anos e 6 meses no aguardo do julgamento das vias processuais submetidas ao STJ; (c) não há razão para a suspensão do curso do processo no Tribunal do Júri, estando o paciente segregado. Requer o deferimento da medida liminar, a fim de que seja determinada a imediata soltura do paciente. No mérito, pleiteia a concessão da ordem com a confirmação da liminar.
+    2. As questões suscitadas não evidenciam hipótese que autoriza, liminarmente, a imediata soltura do paciente. Consideradas as circunstâncias da causa, o exame da pretensão será feito no momento próprio, em caráter definitivo.
+    3. Ante o exposto, indefiro o pedido de liminar. Solicitem-se informações, com urgência, ao Juízo da Comarca de Itambacuri/MG, especialmente acerca da realização da sessão plenária de julgamento. Após, à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 4 de abril de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
