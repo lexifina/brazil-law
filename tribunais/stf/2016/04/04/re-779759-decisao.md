@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, do qual se extrai o seguinte trecho da ementa:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA AÇÃO RESCISÓRIA. DESAPROPRIAÇÃO. ALEGAÇÃO DE VIOLAÇÃO LITERAL DO ART. 184 DA CONSTITUIÇÃO FEDERAL. DECISÃO RESCINDENDA QUE NEGA O DIREITO À INDENIZAÇÃO COM ARRIMO NO ART. 515 DO CPC. TEMA EMINENTEMENTE PROCESSUAL.
+    1. O STJ ostenta entendimento uníssono no sentido de que o ajuizamento da ação rescisória fulcrado no inciso V do art. 485 do Código de Processo Civil pressupõe a manifesta ocorrência de afronta a dispositivo legal em sua literalidade, ou seja, requer a adoção de entendimento que incorra no desprezo pelo sistema de normas pertinentes ao julgado rescindendo.
+    2. No caso concreto, a decisão rescindenda está fundamenta no argumento de ser defeso ao Tribunal a quo, no bojo de remessa necessária, agravar a condenação imposta ao INCRA, já que o expropriado, ora autor, sucumbiu quanto à indenização e não interpôs recurso de apelação, ou seja, está arrimada em tema eminentemente processual. Dessarte, não ostenta a propriedade de amparar a pretensão autoral a norma do art. 184 da Constituição Federal, que apenas assegura, em havendo desapropriação, o direito do expropriado receber a respectiva justa indenização. Precedente: AR 4.248/MT, Relator Ministro Mauro Campbell Marques, Primeira Seção, DJe 8/3/2012.
+    3. Agravo regimental não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação do art. 184 da Constituição. Sustenta, em síntese, que, “se a Carta Magna não traz qualquer ressalva à percepção previa e justa de indenização que corresponda ao valor do bem expropriado pela via do interesse social, não pode o tribunal recorrido, negar seguimento a presente ação rescisória sob o fundamento de que, a questão não ultrapassa o âmbito do Código de Processo Civil”.
+    O recurso é inadmissível, tendo em vista que, para dissentir da conclusão do Tribunal de origem que considerou ser manifestamente improcedente a ação rescisória por estar a decisão rescindenda fundamentada em tema eminentemente processual, seriam imprescindíveis a análise da legislação infraconstitucional aplicada ao caso (Código de Processo Civil) e o reexame do conjunto fático-probatório dos autos, o que torna inviável o processamento do recurso extraordinário (Súmula 279/STF).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 04 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
