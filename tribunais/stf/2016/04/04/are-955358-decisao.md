@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “AÇÃO DE REPETIÇÃO DE INDÉBITO. ISS. Exercício de 2004. Município de São Paulo. Improcedente. Imposto Sobre Serviços de Qualquer Natureza. Serviços de intermediação, agenciamento ou corretagem (DVTM's). Incidência. Serviços prestados em bolsas de mercadorias e futuros. Tributo devido à municipalidade. Sentença mantida. Apelo improvido”. (eDOC 2, p. 89)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXV, LIV e LV, do texto constitucional.
+    Nas razões recursais, alega-se que as instituições financeiras estão sujeitas ao ISS apenas quanto aos serviços descritos no item 15 do anexo, enquanto os serviços relativos à corretagem e intermediação de títulos e valores mobiliários estão descritos no item 10.02 desta Lei. Aduz-se, ainda, que a atividade que se busca tributar com o ISS é em realidade fato gerador do tributo do art. 153, V, da CF, de competência da União. (eDOC 2, p. 165)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie – LC 116/2003 – e o conjunto probatório constante dos autos, consignou que a atividade exercida pela recorrente está sujeita ao tributo questionado. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A autora pretende a repetição do valor pago por meio da guia de recolhimento de fl. 32, pelo agenciamento e corretagem de títulos, no exercício de 2004, o que porém é compatível com o seu objeto social (fl. 26) e com o item 10.02, da Lista anexa à LC 116/2003, o que o torna devido, tal como concluiu a r. sentença, pois esse item do rol, já não traz qualquer exceção quanto às instituições autorizadas a funcionar, pelo Banco Central, daí a correta incidência do tributo, sem violação à taxatividade da Lista ou ao artigo 153, inciso V, da Constituição Federal, até porque não se definiu com prova hábil qual o específico objeto da aludida corretagem”. (eDOC 2, p. 94)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPOSTO SOBRE SERVIÇOS. INTERMEDIAÇÃO EM ATIVIDADE SUJEITA À FISCALIZAÇÃO DA COMISSÃO DE VALORES MOBILIÁRIOS. CONTROVÉRSIA SOBRE O ENQUADRAMENTO DO SERVIÇO DESEMPENHADO PELA CONTRIBUINTE. AUSÊNCIA DE REPERCUSSÃO CONSTITUCIONAL. SÚMULA 279/STF. A controvérsia sobre o enquadramento da atividade desempenhada pelo contribuinte para fins de incidência do ISS demanda o exame da legislação infraconstitucional pertinente à hipótese (Lei Complementar nº 56/1987) e do acervo probatório constante dos autos, providência vedada nesta via processual. Agravo regimental a que se nega provimento”. (AI 641314 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 21.8.2014)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA (ISSQN). ENQUADRAMENTO DE ATIVIDADE NA LISTA ANEXA À LEI COMPLEMENTAR N. 56/1987. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 737957 AgR, rel. Min. Cármen Lúcia, Primeira Turma, DJe 6.6.2012)
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 4 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
