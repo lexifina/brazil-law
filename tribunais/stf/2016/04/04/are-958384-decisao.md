@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Tribunal de Justiça que negou provimento a apelação, mantendo a sentença pela improcedência da ação, pela qual se reconheceu a capitalização mensal de juros firmada em contrato bancário de abertura de conta corrente.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, alega-se violação ao disposto no artigo 5º, XXXV, LIV e LV da Constituição Federal, por ofensa aos princípios da inafastabilidade jurisdicional, do devido processo legal e do contraditório e da ampla defesa. Aduz-se, em suma, a onerosidade excessiva dos contratos, o indeferimento de prova pericial e a inconstitucionalidade do art. 5º da medida provisória nº 2.170-36/2001.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+     No julgamento do AI-RG 844.474, de relatoria do Ministro Cezar Peluso, Dje de 01.09.2011 (Tema 421), esta Corte decidiu que não apresenta repercussão geral discussão sobre a limitação da taxa de juros a 12% ao ano nos contratos bancários, por não existir questão constitucional no debate, como na hipótese dos autos.
+    Verifica-se também que, em exame do RE-RG 568.396, de relatoria do Ministro Marco Aurélio, substituído pelo RE 592.377, DJe de 20.03.2015, de relatoria para o acórdão do Ministro Teori Zavascki, o Plenário desta Corte assentou a repercussão geral do Tema 33, que versa sobre a constitucionalidade, ou não, da MP 2.170-36/2001, a qual autorizou a capitalização de juros em periodicidade inferior a um ano, nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional, como é o caso dos autos.
+    Ademais, ao analisar o ARE 639.228-RG, de relatoria do Ministro Cezar Peluso, DJe de 31.08.2011 (Tema 424), o Tribunal reconheceu a inexistência de repercussão geral da controvérsia referente à suposta ofensa aos princípios do contraditório e da ampla defesa, em virtude do indeferimento de produção de prova no âmbito de processo judicial, tendo em vista a natureza infraconstitucional da questão posta.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 04 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
