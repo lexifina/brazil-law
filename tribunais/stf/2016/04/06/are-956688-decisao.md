@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    "TRIBUTÁRIO. CONTRIBUIÇÃO PARA FGTS. INCIDÊNCIA SOBRE O SALÁRIO-MATERNIDADE E FÉRIAS GOZADAS.
+    1. Nos termos da jurisprudência pacífica do STJ, o FGTS trata de um direito autônomo dos trabalhadores urbanos e rurais de índole social e trabalhista, não possuindo caráter de imposto e nem de contribuição previdenciária. Logo, não é possível a sua equiparação com a sistemática utilizada para fins de incidência de contribuição previdenciária e imposto de renda, de modo que é irrelevante a natureza da verba trabalhista (remuneratória ou indenizatória/compensatória) para fins de incidência da contribuição ao FGTS. Precedentes.
+    2. Da interpretação sistemática dos arts. 15, caput, e § 6º, da Lei n. 8.036/90 e 28, § 9º, da Lei n. 8.212/91, verifica-se que somente em relação às verbas expressamente excluídas pela lei é que não haverá a incidência do FGTS. Desse modo, impõe-se a incidência do FGTS sobre o salário-maternidade e as férias gozadas. Agravo regimental improvido." (fl. 1008)
+    "TRIBUTÁRIO. PROCESSUAL CIVIL. CONTRIBUIÇÃO PARA FGTS. INCIDÊNCIA SOBRE AVISO-PRÉVIO INDENIZADO, TERÇO CONSTITUCIONAL DE FÉRIAS GOZADAS E PRIMEIROS QUINZE DIAS DE AUXÍLIO-DOENÇA/ACIDENTE.
+    1. O FGTS é um direito autônomo dos trabalhadores urbanos e rurais de índole social e trabalhista, não possuindo caráter de imposto nem de contribuição previdenciária. Logo, não é possível a sua equiparação com a sistemática utilizada para fins de incidência de contribuição previdenciária e imposto de renda, de modo que é irrelevante a natureza da verba trabalhista (remuneratória ou indenizatória/compensatória) para fins de incidência da contribuição ao FGTS.
+    2. Da interpretação sistemática dos arts. 15, caput, e § 6º, da Lei n. 8.036/90 e 28, § 9º, da Lei n. 8.212/91, verifica-se que somente em relação às verbas expressamente excluídas pela lei é que não haverá a incidência do FGTS. Desse modo, impõe-se a incidência do FGTS sobre o aviso-prévio indenizado, terço constitucional de férias gozadas e sobre os quinzes primeiros dias de auxílio-doença/acidente.
+    3. Precedentes: REsp 1.486.093/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/04/2015, DJe 21/05/2015 ; REsp 1.436.897/ES, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 4/12/2014, DJe 19/12/2014.
+    Agravo regimental improvido" (fl. 1018).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7.º, VI e XVII, e 195, I, a, da Carta.
+    Após detida análise dos autos, conclui-se que a decisão denegatória de seguimento do recurso extraordinário está correta e alinhada aos precedentes firmados por esta Corte.
+    Nota-se que a decisão agravada enfrentou todos os argumentos deduzidos no recurso extraordinário capazes de reformar o julgado recorrido, aduzindo que a ofensa no caso em exame é reflexa.
+    Por outro lado, a parte agravante limita-se a sustentar que a ofensa constitucional é direta porquanto a Lei nº 8.036/90 somente instituiu a contribuição ao FGTS, na medida em que o dispositivo constitucional do art. 195, inc. I, a, possui aplicabilidade mediata. Defende, ainda, que as conclusões referentes às contribuições previdenciárias se aplicam igualmente às contribuições ao FGTS, na medida em que a base de cálculo de ambas é a mesma. Tais argumentos não são aptos a demonstrar a necessidade de superação, no caso concreto, dos precedentes que fundamentaram a conclusão do Superior Tribunal de Justiça.
+    Dessa forma, a alegada ofensa constitucional demonstra apenas inconformismo e resistência da parte recorrente em pôr termo ao processo em detrimento da eficiente prestação jurisdicional.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 06 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
