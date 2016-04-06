@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “RESPONSABILIDADE CIVIL – DANO MORAL – MATÉRIA JORNALÍSTICA – DIREITO DE INFORMAR – INEXISTÊNCIA DE OFENSA À HONRA – SENTENÇA MANTIDA – RECURSO AUTOR IMPROVIDO.
+    HONORÁRIOS ADVOCATÍCIOS – VALOR DE R$ 1.000,00 QUE NÃO REMUNERA CONDIGNAMENTE O TRABALHO DOS ADVOGADOS DOS RÉUS – VERBA MAJORADA PARA R$ 10.000,00 – RECURSO DOS RÉUS PROVIDO EM PARTE.”
+    Foram opostos embargos de declaração por ambas as partes. Os embargos declaratórios do autor, ora recorrente, foram rejeitados e os embargos da recorrida, por sua vez, foram acolhidos “para o fim de fixar a data de publicação do acórdão como termo inicial para os cálculos reclamados.”
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, incisos V, IX e X, e 220 da Constituição Federal.
+    Decido.
+    Colhe-se do voto condutor do acórdão recorrido a seguinte fundamentação:
+    “Depreende-se, portanto que, ao contrário do que sustenta, não houve violação aos direitos à honra, moral e imagem, visto que as matérias publicadas pela revista ré não distorceram a realidade fática, muito menos houve álbum tipo de abuso de informação que ensejasse o direito à indenização por dano moral.
+    O tom da reportagem é informativo, e não ilícito, nesse sentido, o entendimento desse E. Tribunal de Justiça:
+    …...................................................................................................
+    A matéria jornalística está relacionada a fatos da atualidade e de interesse publico, e da leitura contextual não se evidencia intenção de prejudicar ou ofender a honra ou a imagem do autor, inexistindo buso do direito de informação, não se caracterizando violação ao art. 5º, inciso V e X, da Constituição Federal.
+    (…)
+    A conduta dos réus não excedeu os limites dos direitos de informação, opinião e de crítica, de modo que não se justifica o acolhimento da pretendida indenização.”
+    Como visto, o Tribunal de origem amparou seu entendimento no conjunto fático-probatório que permeia a lide. Desse modo, para divergir do entendimento firmado pela Corte local e acolher a pretensão do recorrente seria necessário o reexame dos fatos e provas constantes dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. Nesse sentido:
+    “DIREITO CIVIL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. MATÉRIA JORNALÍSTICA. VERIFICAÇÃO IN CONCRETO DA OCORRÊNCIA DE DANO À IMAGEM. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. ANÁLISE DA OCORRÊNCIA DE EVENTUAL AFRONTA AOS PRECEITOS CONSTITUCIONAIS INVOCADOS NO APELO EXTREMO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE NO ACÓRDÃO REGIONAL. SÚMULA 279/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. ACÓRDÃO RECORRIDO PUBLICADO EM 07.4.2010. Inexiste violação do art. 93, IX, da Constituição Federal de 1988. O Supremo Tribunal Federal entende que o referido dispositivo constitucional exige que o órgão jurisdicional explicite as razões do seu convencimento, dispensando o exame detalhado de cada argumento suscitado pelas partes. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 279 do STF, a inviabilizar o trânsito do recurso extraordinário. Precedentes. Agravo regimental conhecido e não provido” (ARE nº 799.471-AgR, Primeira Turma, Relatora a Ministra Rosa Weber , DJe de 4/6/14).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. 1. PROCESSUAL CIVIL. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA: NULIDADE PRETENDIDA AFASTADA. 2. CIVIL. MATÉRIA VEICULADA EM JORNAL. DANOS MORAIS. INDENIZAÇÃO. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 715167-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 20/5/13).
+    “Indenização. Dano moral. Notícias divulgadas por jornal. Controvérsia que exige o prévio exame de provas (Súmula 279). Precedentes. Regimental não provido” (RE nº 375.095-AgR, Segunda Turma, Relator o Ministro Nelson Jobim, DJ de 21/5/04).
+    Essa orientação foi consolidada pelo Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do ARE nº 739.382/RJ, Relator o Ministro Gilmar Mendes, onde-se concluiu pela ausência da repercussão geral de questão similar à debatida no recuso extraordinário objeto do presente agravo. A decisão do Pleno está assim ementada:
+    Recurso Extraordinário com agravo. 2. Dano moral. 3. Liberdade de expressão. 4. Crítica contundente. 5. Discussão não ultrapassa o interesse subjetivo das partes. 6. Não compete ao Supremo Tribunal Federal revolver a matéria fática para verificar a ocorrência de dano à imagem ou à honra, a não ser em situações excepcionais, nas quais se verifique esvaziamento do direito a imagem e, portanto, ofensa constitucional direta. 7. Ausência de repercussão geral da questão suscitada. 8. Recurso extraordinário não conhecido (DJe de 3/6/13).
+    Ante o exposto, nos termos do artigo 21, § 1º, do regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 6 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
