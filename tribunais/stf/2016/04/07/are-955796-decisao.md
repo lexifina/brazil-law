@@ -1,0 +1,12 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação, sustentou as suas conclusões em aspectos fático-probatórios a seguir destacados (fls. 2.608/2.609):
+    “Por outro lado, conforme concluiu o laudo pericial de fls. 183/187, elaborado pelo Núcleo de Perícias Criminalísticas de São José do Rio Preto, o caderno de gabarito do candidato Alvaci Fochi, aprovado em 1º lugar para o cargo de Médico Clínico Geral (fl. 69), foi preenchido a lápis (fl. 186), embora o item 8 das instruções para o concurso público exigisse que as provas fossem feitas à tinta (fl. 132).
+    O laudo também concluiu que foram corrigidas provas de dois candidatos que não passaram as respostas para o caderno de gabarito (fls. 185), em afronta ao item 11 das instruções (fl. 132), sendo certo que um dos candidatos, Edito Edino, foi aprovado para o cargo de lixeiro (fl. 68).
+    Além disso, conforme documento juntado pelo corréu Mario, quatro candidatos não assinaram o caderno de respostas (fl. 2.163), em afronta à lisura do concurso.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 07 de abril de 2016.
+Ministro CELSO DE MELLO
+Relator
