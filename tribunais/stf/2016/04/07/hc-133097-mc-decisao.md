@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão monocrática emanada de eminente Ministro do E. Superior Tribunal de Justiça que negou seguimento a recurso ordinário em “habeas corpus” interposto pela ora paciente (RHC 59.127/MS).
+    Sendo esse o contexto, passo a apreciar a admissibilidade, na espécie, da presente ação de “habeas corpus”. E, ao fazê-lo, devo observar que ambas as Turmas do Supremo Tribunal Federal firmaram orientação no sentido da incognoscibilidade desse remédio constitucional, quando impetrado, como sucede na espécie, contra decisão monocrática proferida por Ministro de Tribunal Superior da União (HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA – HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA – HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI – HC 118.189/MG, Rel. Min. RICARDO LEWANDOWSKI – HC 119.821/TO, Rel. Min. GILMAR MENDES – HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI – HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI – HC 122.718/SP, Rel. Min. ROSA WEBER – RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA – RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, v.g.):
+    “’HABEAS CORPUS’. CONSTITUCIONAL. PENAL. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL. SUPRESSÃO DE INSTÂNCIA. IMPETRAÇÃO NÃO CONHECIDA.
+    I – (…) verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, o qual pressupõe seja a coação praticada por Tribunal Superior.
+    …...................................................................................................
+    III – ‘Writ’ não conhecido.”
+    (HC 118.212/MG, Rel. Min. RICARDO LEWANDOWSKI – grifei)
+    Embora respeitosamente dissentindo dessa diretriz jurisprudencial, por entender possível a impetração de “habeas corpus” contra decisão monocrática de Ministro de Tribunal Superior da União, devo aplicar, em respeito ao princípio da colegialidade, essa orientação restritiva que se consolidou em torno da utilização do remédio constitucional em questão, impondo-se, em consequência, o não conhecimento do presente “writ”.
+    De outro lado, mesmo que fosse possível “retificar a classificação do processo” – como requer a parte ora impetrante na petição de aditamento à inicial (PG/STF 7.915/2016) –, ainda assim a análise da matéria na perspectiva da nova classificação por ela pretendida não se mostraria processualmente viável, pois seria deduzida contra decisão proferida pelo E. Superior Tribunal de Justiça em sede de outro recurso ordinário em “habeas corpus” (RHC 59.127/MS).
+    Vê-se, desse modo, que faleceria competência a esta Corte para apreciar o presente feito, eis que são taxativas as hipóteses do art. 102, II, letra “a”, da Constituição Federal, pertinentes à interposição de recurso ordinário para o Supremo Tribunal Federal (RHC 119.377/SP, Rel. Min. ROSA WEBER – RHC 120.539-ED/DF, Rel. Min. DIAS TOFFOLI – RHC 122.980-AgR/GO, Rel. Min. TEORI ZAVASCKI – RHC 123.002/MS, Rel. Min. ROSA WEBER – RHC 123.116-AgR/MG, Rel. Min. DIAS TOFFOLI, v.g.):
+    “RECURSO ORDINÁRIO EM ‘HABEAS CORPUS’ MANEJADO NO STF CONTRA DECISÃO DO STJ EM RECURSO ORDINÁRIO EM ‘HABEAS CORPUS’. NÃO CABIMENTO. INADEQUAÇÃO DA VIA ELEITA. CONEXÃO ENTRE AÇÕES PENAIS. INSTRUÇÃO DEFICIENTE.
+    1. Contra acórdão exarado em recurso ordinário em ‘habeas corpus’ cabível o recurso extraordinário previsto no art. 102, III, da Constituição Federal, e não o manejo de novo recurso ordinário, como no presente caso, o que conduz a seu não conhecimento.
+    2. A instrução deficiente do ‘writ’, não suprida pela Defesa, inviabilizou o exame da matéria de fundo pelo Superior Tribunal de Justiça, o que impede, por conseguinte, sua análise por esta Corte Suprema, sob pena de supressão de instância.
+    3. Recurso ordinário em ‘habeas corpus’ não conhecido.”
+    (RHC 123.706/ES, Rel. Min. ROSA WEBER – grifei)
+    “AGRAVO REGIMENTAL. RHC CONTRA ACÓRDÃO DO STJ PROFERIDO EM OUTRO RHC. INVIABILIDADE. REGRA DE COMPETÊNCIA PREVISTA NO ART. 102, II, ‘A’, DA CONSTITUIÇÃO FEDERAL. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DO AGENTE. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL.
+    1. Segundo o art. 102, II, ‘a’, da CF, compete ao STF julgar, em recurso ordinário, o ‘habeas corpus’ decidido em última instância pelos Tribunais Superiores, se denegatória a decisão. A decisão foi proferida não no âmbito de ‘habeas corpus’ originário, mas de julgamento de recurso ordinário em ‘habeas corpus’ interposto no Superior Tribunal de Justiça. Considerando as normas de distribuição de competências na Constituição Federal, de natureza estrita, o presente recurso ordinário é manifestamente incabível. Precedentes.
+    …...................................................................................................
+    4. Agravo regimental a que se nega provimento.”
+    (RHC 126.967-AgR/SC, Rel. Min. TEORI ZAVASCKI – grifei)
+    Sendo assim, e tendo em consideração as razões expostas, não conheço da presente ação de “habeas corpus”, restando prejudicado, em consequência, o exame do pedido de medida liminar.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 07 de abril de 2016.
+Ministro CELSO DE MELLO
+Relator
