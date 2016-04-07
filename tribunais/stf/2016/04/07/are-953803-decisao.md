@@ -1,0 +1,23 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela União contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. CERTIFICADO DE FILANTROPIA. PROVA DA ‘ISENÇÃO’ CONSTITUCIONAL (IMUNIDADE). EFICÁCIA ‘EX TUNC’ DO RECONHECIMENTO ADMINISTRATIVO. AUSÊNCIA DE DOLO PROCESSUAL. HONORÁRIOS. PRECEDENTES.
+    1. Fundação Municipal de Ensino Superior de Marília foi declarada: a) de utilidade pública federal, mediante Decreto presidencial nº 86.239/81, publicado no DOU de 31.07.1981; b) de utilidade pública estadual, por intermédio da Lei nº 4.321/84, publicada no Diário Oficial do Estado de São Paulo de 24.10.1984; e c) de utilidade pública municipal, pela Lei nº 1.576/68, publicada na Secretaria de Administração da Prefeitura Municipal de Marília em 09.10.1968.
+    2. O Ministério Público do Estado de São Paulo atestou, em 06.02.1990, o cumprimento das finalidades estatutárias pela entidade, reconhecendo não haver remuneração dos membros da diretoria.
+    3. Também se comprova o registro no Conselho Nacional de Serviço Social – CNSS, desde 08.12.1969, e Certificado de Entidade de Fins Filantrópicos, com validade desde 07.06.1977.
+    4. Os estatutos e o relatório de atividades não deixam dúvidas a respeito dos propósitos filantrópicos e assistenciais da entidade.
+    5. Os precedentes do C. STJ garantem eficácia ‘ex tunc’ aos certificados de filantropia, de modo a produzir efeitos pretéritos ao reconhecimento do benefício, à luz da situação vigente à época do pedido administrativo.
+    6. A imunidade também abrange débitos de SAT e de salário-educação, nos termos do art. 195, § 7º, da CF.
+    7. Tratando-se de contribuições previdenciárias relativas ao período 08/85 a 07/91 e considerando não haver qualquer outro elemento em sentido contrário à ‘isenção’ (imunidade), não merece reparos a sentença recorrida.
+    8. Não se vislumbra abuso do direito de ação nem a existência de dolo processual para a caracterização da litigância de má-fé.
+    9. Os honorários advocatícios foram fixados em patamar adequado, atendendo aos preceitos do art. 20, § 4º, do CPC.
+    10. Apelo do INSS e remessa oficial improvidos.”
+    A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no RE 642.442-RG/RS, Rel. Min. CEZAR PELUSO, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “RECURSO. Extraordinário. Inadmissibilidade. Imunidade tributária. Entidade beneficente de assistência social. Requisitos legais. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o preenchimento dos requisitos impostos pelo art. 55 da Lei 8.212/1991, aptos a caracterizar pessoa jurídica como entidade beneficente de assistência social, para efeitos de reconhecimento de imunidade tributária, versa sobre tema infraconstitucional.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora recorrente.
+    De outro lado, o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Impõe-se observar, ainda, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 694.140-AgR/RJ, Rel. Min. RICARDO LEWANDOWSKI – RE 660.494-AgR/DF, Rel. Min. DIAS TOFFOLI, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 07 de abril de 2016.
+Ministro CELSO DE MELLO
+Relator
