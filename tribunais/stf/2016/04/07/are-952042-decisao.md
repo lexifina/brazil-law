@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 3ª Região, que deu provimento à apelação, em entendimento assim sintetizado (eDOC 4, p. 20):
+    “AÇÃO RESCISÓRIA. PREVIDENCIÁRIO E PROCESSUAL CIVIL. SÚMULA 343 STF. NÃO INCIDÊNCIA. ART. 485, V, CPC. VIOLAÇÃO A DISPOSITIVO DE LEI. OCORRÊNCIA.
+    Não há que se falar em incidência da Súmula 343 do STF, quando a questão versar matéria constitucional.
+    A aplicação de lei posterior a benefícios já concedidos ou cujos requisitos foram implementados anteriormente ao início de sua vigência, viola o art. 5º, XXXVI, bem assim o art. 195, § 5º, ambos da Constituição da República.
+    Se o direito ao benefício foi adquirido anteriormente à edição da L 9.032/95, o seu cálculo deve ser efetuado de acordo com a legislação vigente à época.
+    Em razão do princípio da irrepetibilidade dos alimentos, não é possível a restituição dos valores pagos a título de benefício previdenciário, devido ao seu caráter alimentar. Precedentes.
+    Preliminar rejeitada. Ação rescisória provida. Pedido de restituição indeferido.”
+    Os embargos de declaração opostos foram acolhidos sem efeitos modificativos (eDOC 4, p. 50).
+    No recurso extraordinário, com fundamento no art. 102, III, “a” e “b”, do permissivo constitucional, aponta-se ofensa ao artigo 97, da Constituição Federal.
+    Nas razões recursais, aduz com a necessidade de devolução dos valores recebidos porquanto pagos indevidamente pela Administração. Sustenta que o acórdão recorrido não aplicou o artigo 115 da Lei nº 8.213/91 e artigo 884 e seguintes do Código Civil, violando a cláusula de reserva de Plenário (eDOC 4, p. 70).
+    A Vice-Presidência do TRF da 3ª Região inadmitiu o recurso por considerar inexistente a violação ao artigo 97 da Constituição de 1988.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    No julgamento do AI-RG 841.473, Rel. Min. Cezar Peluso, DJe 09.09.2011, esta Corte concluiu pela ausência de repercussão geral quanto à discussão sobre a necessidade de devolução dos valores recebidos de boa-fé pelo beneficiário (Tema 425). Na oportunidade, o entendimento ficou assim sintetizado:
+    Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Valores pagos indevidamente. Administração pública. Restituição. Beneficiário de boa-fé. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o dever de o beneficiário de boa-fé restituir aos cofres públicos os valores que lhe foram pagos indevidamente pela administração pública, versa sobre tema infraconstitucional.
+    Em relação à violação do artigo 97 da Constituição Federal, o Tribunal a quo não contrariou o entendimento desta Corte que já se manifestou no sentido de que “a decisão judicial que reconhece a impossibilidade de descontos dos valores indevidamente recebidos pelo segurado não implica declaração de inconstitucionalidade do art. 115 da Lei nº 8.213/1991” (ARE 734.242-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 08.09.2015).
+    Ainda sobre o tema:
+    “DIREITO PREVIDENCIÁRIO. BENEFÍCIO RECEBIDO POR FORÇA DE DECISÃO JUDICIAL. DEVOLUÇÃO. ART. 115 DA LEI 8.213/91. IMPOSSIBILIDADE. BOA-FÉ E CARÁTER ALIMENTAR. ALEGAÇÃO DE VIOLAÇÃO DO ART. 97 DA CF. RESERVA DE PLENÁRIO: INOCORRÊNCIA. ACÓRDÃO RECORRIDO PUBLICADO EM 22.9.2008. A jurisprudência desta Corte firmou-se no sentido de que o benefício previdenciário recebido de boa-fé pelo segurado em virtude de decisão judicial não está sujeito à repetição de indébito, dado o seu caráter alimentar. Na hipótese, não importa declaração de inconstitucionalidade do art. 115 da Lei 8.213/91, o reconhecimento, pelo Tribunal de origem, da impossibilidade de desconto dos valores indevidamente percebidos. Agravo regimental conhecido e não provido.” (ARE 734.199-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 23.09.2014)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – BENEFÍCIO DO REGIME GERAL DE PREVIDÊNCIA SOCIAL – VALORES PAGOS INDEVIDAMENTE – DEVOLUÇÃO AOS COFRES PÚBLICOS – BOA-FÉ DO SEGURADO – ART. 115 DA LEI Nº 8.213/91 – AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO – CONTENCIOSO DE MERA LEGALIDADE – CONTROVÉRSIA SUSCITADA NO AI 841.473-RG/RS – MATÉRIA A CUJO RESPEITO NÃO SE RECONHECEU A EXISTÊNCIA DE REPERCUSSÃO GERAL – APELO EXTREMO DEDUZIDO COM FUNDAMENTO EM ALEGADA VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO – ACÓRDÃO QUE NÃO DECLAROU A INCONSTITUCIONALIDADE DE QUALQUER ATO ESTATAL – INVIABILIDADE DO RECURSO EXTRAORDINÁRIO – RECURSO DE AGRAVO IMPROVIDO.” (ARE 701.883-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 12.11.2012)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos dos artigo 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 7 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
