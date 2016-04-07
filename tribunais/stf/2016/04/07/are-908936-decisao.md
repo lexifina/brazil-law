@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 1, p. 323):
+    “EMENTA: APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - ESTADO DE MINAS GERAIS - OFICIAL DE CARTÓRIO EXTRAJUDICIAL - APOSENTADORIA PELO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL - REQUISITOS NÃO PREENCHIDOS QUANDO DO ADVENTO DA EMENDA CONSTITUCIONAL Nº 20/1998 - IMPROCEDÊNCIA DO PEDIDO - MANUTENÇÃO.
+    - Em observância ao princípio tempus regit actum, o pedido de concessão de benefícios previdenciários, dentre os quais a aposentadoria, deve ser analisado de acordo com a lei vigente à época em que o beneficiário preencher as condições necessárias à sua concessão.
+    - Somente fazem jus a aposentadoria por tempo de serviço pelo Regime Próprio de Previdência Social os oficiais dos Cartórios Extrajudiciais que, quando do advento da EC nº 20/1998, já preenchiam os requisitos necessários à sua concessão, na forma estabelecida no art. 40, inc. III, "a" e "c", da Constituição Federal, em sua redação original.
+    - Recurso não provido. ”
+    Os embargos de declaração opostos foram rejeitados (eDOC 1, p. 340).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXV, LIV e LV; 93, IX; e 236, § 1º, da Constituição Federal.
+    Na fundamentação, a Recorrente sustenta, em suma, que, não tendo feito a opção do art. 48, § 2º, da Lei 8.935/1994, permaneceu no regime previdenciário de direito público, ao qual era vinculada antes do advento da EC 20/98, sendo-lhe devido o direito à aposentadoria pelo regime de previdência do Estado.
+    A Primeira Vice-Presidência do TJ/MG inadmitiu o recurso, em virtude de incidir na hipótese a Súmula 280 do STF; e de se ter observado a jurisprudência do STF.
+    É o relatório. Decido.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (eDOC 1, p. 328):
+    “Destarte, não reunindo a requerente os requisitos necessários ao deferimento da aposentadoria por tempo de serviço através do Regime Próprio de Previdência Social do Estado de Minas Gerais, e, sendo a segurada obrigatória do Regime Geral de Previdência Social, nos termos do art. 40, § 13, da CF/1988 e art. 3º do Decreto Estadual nº 45.172/2009, as contribuições por ela eventualmente recolhidas ao IPSEMG, relativas ao período de 08/1993 a 09/2003 (f. 74-78), poderão ser, em sendo o caso, compensadas e utilizadas para fins de aposentadoria pelo regime geral, conforme expressamente estabelecido no art. 201, § 9º, também da Carta Magna.”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o exame da legislação local e o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional. (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, Tema 660 da sistemática da RG).
+    Outrossim, no tocante à alegada afronta ao art. 93, IX, da C.F., verifica-se que o acórdão recorrido inequivocamente prestou jurisdição e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a Agravante.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Por fim, o Supremo Tribunal Federal já firmou jurisprudência no sentido de que aos serventuários de cartórios extrajudiciais não se aplica o regime próprio de previdência dos servidores públicos. Neste sentido: RE 411.266-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 04.08.2011; ARE 800.313-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 22.08.2014.
+    Ante o exposto, nego provimento ao agravo, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 7 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
