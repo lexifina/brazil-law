@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA DA SAÚDE E DO TRABALHO – GDPST. EXTENSÃO AOS INATIVOS LIMITADA AO PRIMEIRO CICLO AVALIATIVO. IRREDUTIBILIDADE DE VENCIMENTOS: IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Paraná:
+    “Trata-se de recurso contra sentença que julgou parcialmente procedente o pedido inicial, reconhecendo o direito da parte autora à paridade remuneratória entre ativos e inativos, relativamente à gratificação GDPST, a partir de 1º de março de 2008, em oitenta pontos, até a devida regulamentação do desempenho.
+    Demanda a parte autora pela reforma parcial da sentença, requerendo a manutenção do pagamento da GDPST, equivalente a 80 pontos, independentemente da avaliação e desempenho a ser regulado por lei, argumentando para tanto princípio constitucional da irredutibilidade de vencimentos. Sustenta ser indevido o pagamento proporcional da gratificação determinada na sentença, pois ausente a previsão legal.
+    No caso, a sentença deve ser mantida por seus próprios fundamentos, com base no permissivo do artigo 46, da Lei nº 9.099/95, aplicável subsidiariamente aos Juizados Especiais Federais.
+    1. A gratificação, por ser vantagem funcional, pode ser reduzida ou mesmo suprimida, sem que isto implique ofensa à irredutibilidade de vencimentos. Nesse sentido, já se manifestou recentemente a Turma Regional de Uniformização da 4ª Região.
+    (…) Assim, rejeito a irredutibilidade de vencimentos arguida pela parte autora.
+    2. Quanto ao pagamento proporcional da gratificação, esta Turma Recursal consolidou recentemente o entendimento de que deve ser observada a proporção da aposentadoria. Como exemplo colaciono o seguinte julgamento da Turma Suplementar do Paraná (autos n. 2008.70.51.001332-7, sessão de 12/05/2010), em que foi Relator o Exmo Sr. Juiz Federal Leonardo Castanho Mendes: “GDATA. (...) APOSENTADORIA. PROPORCIONAL. INCIDÊNCIA TAMBÉM PROPORCIONAL DAS DIFERENÇAS DA GDATA. (...) 4. Cuidando-se de aposentadoria proporcional, sobre as diferenças decorrentes da aplicação isonômica da GDATA aos inativos, incide também a proporção segundo a qual foi concedida a aposentadoria (....)” – (autos nº 2008.70.59.002974-6, Relator Juiz Federal André Luís Medeiros Jung, data da sessão de julgamento 22.08.2011) – sem destaques no original.
+    Sendo assim, nesse ponto não merece reforma a sentença.
+    Ante o exposto, voto por NEGAR PROVIMENTO AO RECURSO DA PARTE AUTORA” (doc. 23).
+    2. O recurso extraordinário foi inadmitido sob os fundamentos de harmonia do acórdão recorrido com a jurisprudência do Supremo Tribunal Federal e de incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    3. A Agravante sustenta que, “nos termos decididos no julgamento do RE 631.880/CE, mesmo após a regulamentação dos critérios de avaliação, homologação e implementação dos seus resultados, devem ser resguardados os direitos dos inativos, sem prejuízo da manutenção do valor integral da remuneração, razão pela qual deve ser modificada a r. decisão agravada”.
+    Assevera ser “vedado ao Exmo. Juiz Presidente da Turma Recursal a quo, em sede de juízo de admissibilidade recursal, examinar o mérito do recurso interposto”.
+    No recurso extraordinário, alega ter a Turma Recursal contrariado os arts. 5°, caput , incs. I, XXXV e LIV, e 37, inc. XV, da Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. No julgamento do Recurso Extraordinário n. 631.880-RG, o Supremo Tribunal Federal reafirmou a jurisprudência no sentido de que a Gratificação de Desempenho da Carreira da Previdência, da Saúde e do Trabalho – GDPST somente é extensível aos servidores inativos até a implantação do primeiro ciclo de avaliação de desempenho:
+    “Recurso Extraordinário. Gratificação de Desempenho da Carreira da Previdência, da Saúde e do Trabalho GDPST. Critérios de cálculo. Extensão. Servidores públicos inativos. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso improvido. É compatível com a Constituição a extensão, aos servidores públicos inativos, dos critérios de cálculo da GDPST estabelecidos para os servidores públicos em atividade”.
+    6. A apreciação do pleito recursal quanto à irredutibilidade de vencimentos exigiria o reexame do conjunto fático-probatório do processo, procedimento inviável nesta senda recursal. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES DOS FISCAIS FEDERAIS AGROPECUÁRIOS – GDFFA. EXTENSÃO AOS SERVIDORES APOSENTADOS. AUSÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. IRREDUTIBILIDADE DE VENCIMENTOS. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 715.224-AgR, de minha relatoria, Segunda Turma, DJe 25.3.2014).
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de abril de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
