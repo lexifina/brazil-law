@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. EMPREGADOS PÚBLICOS DO MUNICÍPIO DE FORTALEZA - EMLURB. CONTRIBUIÇÃO PARA O INSTITUTO DA PREVIDÊNCIA DO MUNICÍPIO (IPM) POR FORÇA DE LEI MUNICIPAL. APOSENTADORIA COM BASE NO REGIME PRÓPRIO DE PREVIDÊNCIA. IMPOSSIBILIDADE. APELAÇÃO IMPROVIDA.
+    1. A Constituição Federal de 1988 dispõe que o regime jurídico único será instituído para os servidores da administração pública direta, das autarquias e das fundações públicas, não incluindo aí as empresas públicas e sociedades de economia mista, justamente porque estas, nos termos do parágrafo 1º, do art. 173, sujeitam-se ao regime jurídico próprio das empresas privadas, inclusive quanto às obrigações trabalhistas.
+    2. A vinculação dos autores a regime próprio de previdência feria o artigo 173 da Constituição Federal, visto que são regidos pela CLT e devem ser vinculados ao RGPS, de forma que não é possível deferir que os apelantes voltem a contribuir para o regime próprio do Município e por ele se aposentem. O que aconteceu foi que o Município, ao editar lei municipal que vinculava os autores ao regime jurídico próprio, incorreu em ilegalidade, usurpando a competência da União para regular acerca dos empregados de empresas privadas, caso dos postulantes, na condição de empregados públicos.
+    3. É de se reputar de nenhum vício a lei local (Lei Municipal nº 8.388/99) que desligou os demandantes do regime da previdência do IPM, submetendo-os ao regime geral do INSS.
+    4. Pacificado o entendimento no sentido da inexistência de direito adquirido a regime jurídico. Precedentes.
+    5. Também não pode prosperar o pedido no sentido de que seja paga complementação dos proventos de sua aposentadoria pelo IPM, visto que o artigo 40, parágrafo 14º, da CF 1988, estabelece que o regime de previdência complementar pode ser instituído para servidores titulares de cargo efetivo, que não é o caso dos autores, uma vez que se tratam de empregados públicos, ao mesmo tempo em que o regime de previdência complementar é operado por entidades de previdência complementar, consoante a Lei Complementar 109, o que não é o caso do IPM.
+    6. Apelação improvida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, LIV e LV; e 37, XV, da Constituição.
+    O recurso extraordinário é inadmissível, tendo em vista que, à exceção do art. 5º, XXXVI, os demais dispositivos constitucionais tidos por violados não foram apreciados pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para suprimir eventual omissão, de modo que o recurso extraordinário carece, no ponto, do necessário prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    Quanto ao art. 5º, XXXVI, da Constituição, observa-se que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal, que, após reconhecida a repercussão geral da matéria no RE 563.965-RG, Rel.ª Min.ª Cármen Lúcia, fixou o entendimento de que não há direito adquirido à forma de composição dos vencimentos, tendo em vista a inexistência de direito adquirido a regime jurídico.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 08 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
