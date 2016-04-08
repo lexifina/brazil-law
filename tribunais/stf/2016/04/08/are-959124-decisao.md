@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “AÇÃO ORDINÁRIA – INCIDENTE DE ARGUIÇÃO DE INCONSTITUCIONALIDADE DE NORMA MUNICIPAL REJEITADO PELO ÓRGÃO ESPECIAL – ART. 20, § 2º DA LEI MUNICIPAL Nº 4.062/2007 – CONSTITUCIONALIDADE – INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO – RECURSO NÃO PROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, I, II e XV; e 41, § 1º, da Constituição.
+     O recurso extraordinário não pode ser admitido, tendo em vista que a decisão recorrida está alinhada com a jurisprudência do Supremo Tribunal Federal, que, após reconhecida a repercussão geral da matéria no RE 563.965, Rel.ª Min.ª Cármen Lúcia, fixou o entendimento de que não há direito adquirido à forma de composição dos vencimentos, tendo em vista a inexistência de direito adquirido a regime jurídico. Assegurou-se, por outro lado, a irredutibilidade de vencimentos e proventos. Veja-se a ementa do julgado:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE. 1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico. 2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, consequentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração. 3. Recurso extraordinário ao qual se nega provimento.”
+    Quanto à ocorrência de diminuição remuneratória, para dissentir do acórdão recorrido seria necessário interpretar a legislação infraconstitucional pertinente e reexaminar as provas dos autos, o que não é possível neste momento processual (Súmula 279/STF).
+     Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 08 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
