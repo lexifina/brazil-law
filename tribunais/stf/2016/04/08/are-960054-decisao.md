@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 195, §7º, da Constituição Federal.
+    Decisão recorrida publicada em 25.01.2011.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Verifico que, para aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo, seria necessário o reexame da legislação infraconstitucional e o revolvimento do quadro fático delineado na instância ordinária, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “DIREITO TRIBUTÁRIO. ICMS. IMUNIDADE. ENTIDADE SEM FINS LUCRATIVOS. REQUISITOS. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE NO ACÓRDÃO REGIONAL. APLICAÇÃO DA SÚMULA 279/STF. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 10.02.2010. A controvérsia, a teor do que já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar, nesse compasso, em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto compreender de modo diverso exigiria reelaboração da moldura fática delineada na origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Corte. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido.”
+    Ademais, ressalto que o Supremo Tribunal Federal, no julgamento do RE 642.442-RG/RS, consolidou o entendimento de que “não apresenta repercussão geral recurso extraordinário que, tendo por objeto o preenchimento dos requisitos impostos pelo art. 55 da Lei 8.212/1991.” Eis a ementa do referido julgado:
+    “Recurso. Extraordinário. Inadmissibilidade. Imunidade tributária. Entidade beneficente de assistência social. Requisitos legais. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o preenchimento dos requisitos impostos pelo art. 55 da Lei 8.212/1991, aptos a caracterizar pessoa jurídica como entidade beneficente de assistência social, para efeitos de reconhecimento de imunidade tributária, versa sobre tema infraconstitucional.” ( RE 642.442-RG/RS, Rel. Min. Presidente, Plenário Virtual, DJe 08.9.2011).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 08 de abril de 2016.
+Ministra Rosa Weber
+Relatora
