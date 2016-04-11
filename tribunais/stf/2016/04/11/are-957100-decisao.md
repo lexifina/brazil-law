@@ -1,0 +1,19 @@
+DECISÃO
+COISA JULGADA – ENVERGADURA – MITIGAÇÃO EXCEPCIONAL – AGRAVO DESPROVIDO.
+    1. Eis a síntese do acórdão prolatado pelo Tribunal Regional Federal da 5ª Região:
+EMENTA: PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. GDASST. DECISÃO FUNDADA NOS CÁLCULOS E INFORMAÇÕES APRESENTADOS PELA CONTADORIA DO JUÍZO. PRESUNÇÃO DE VERACIDADE. LIMITAÇÃO PROPORCIONAL DO CÁLCULO DAS GRATIFICAÇÕES À MESMA RAZÃO DOS PROVENTOS RECEBIDOS. INDEFERIMENTO. HIPÓTESE NÃO AVENTADA NO TÍTULO EXECUTIVO.
+1. Trata-se de apelação cível interposta em contrariedade à sentença da lavra do MM Juiz Federal da 21ª Vara da Seção Judiciária da Pernambuco, a de julgar parcialmente procedentes os embargos à execução opostos pela UNIÃO, para determinar o prosseguimento da execução com base na quantia apurada pela Contadoria Oficial.
+2. Esta e. Corte Regional já firmou entendimento no sentido de atribuir às manifestações da Contadoria Oficial presunção de veracidade juris tantum, em
+razão da posição imparcial ocupada pelo órgão auxiliar do Juízo no processo. Precedentes: AC539929/PB, Primeira Turma, Rel. Desembargador Federal FRANCISCO CAVALCANTI, pub. DJE 06/09/2012, p. 252; e AC 00052035320104058200, Terceira Turma, Rel. Desembargador Federal LUIZ ALBERTO GURGEL DE FARIA, pub. DJE 05/12/2012, p. 232.
+3 O mero trazimento de questões anteriormente ventiladas e esclarecidas pelo
+Setor de Cálculos (fl. 433/438) não é capaz de autorizar a reabertura da discussão acerca de informações sobre as quais paira presunção de veracidade juris tantum.
+4. Não obstante o entendimento firmado nesta Corte Regional segundo o qual o pagamento das gratificações aos inativos deva ser feito de forma proporcional, à mesma razão adotada para o cálculo dos proventos de aposentadoria, impende ressaltar que, no feito em discussão, o título executivo não estabeleceu a referida limitação, a qual, somente agora, na fase de execução do julgado, pretende impor a parte apelante/embargante.
+5. Não há, pois, como acolher a pretensão de proporcionalidade dos cálculos da gratificação em cotejo, tendo em vista que o acórdão transitado em julgado, em momento algum, assenta a necessidade de que a conta seja elaborada em proporção à aposentadoria recebida pela autora.
+    2. A tese contida no recurso revela o desprezo à coisa julgada – ato jurídico perfeito e acabado por excelência, porque tem origem na atuação do Estado-juiz. A decisão judicial condenatória, preclusa na via da recorribilidade, implicou a condenação da União ao pagamento da Gratificação de Desempenho de Atividade de Seguridade Social e do Trabalho - GDASST. Não constou desse título, como salientado no acórdão recorrido, qualquer limitação. Como aditá-lo para, em execução, ver-se observada a questão da proporcionalidade em relação à aposentadoria do recorrido? Não se fazendo explícita, no pronunciamento judicial, a limitação, há de se entender que o que decidido se mostrou abrangente. Como, então, em execução – que é do título judicial condenatório, tal como formalizado –, dar o dito pelo não dito? A organicidade e a dinâmica do Direito obstaculizam o retorno a fase já ultrapassada, ou seja, do processo de conhecimento.
+    Em bom vernáculo, a União foi condenada a satisfazer as diferenças pretéritas com integração definitiva no cálculo da remuneração. Desconhecer o que proclamado é voltar a estágio anterior e, na via da execução, chegar-se à alteração do que assentado.
+    Deve-se reconhecer a envergadura maior do instituto da coisa julgada. A Carta, no artigo 5º, inciso XXXVI, agasalhou-o como direito fundamental, expressão do sobreprincípio da segurança jurídica. Em execução do título judicial, restringir, no tempo, o direito declarado mediante pronunciamento transitado em julgado equivale a ignorar a fundamentalidade dessa garantia constitucional.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 11 de abril de 2016.
+Ministro MARCO AURÉLIO
+Relator
