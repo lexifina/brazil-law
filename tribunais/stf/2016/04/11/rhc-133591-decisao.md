@@ -1,0 +1,31 @@
+Decisão:
+ementa: Penal. Recurso ordinário em habeas corpus. Condenação transitada em julgado. Dosimetria da pena.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria da Ministra Maria Thereza de Assis Moura, assim ementado:
+     “PENAL. HABEAS CORPUS. ART. 157, § 2º, II, DO CÓDIGO PENAL. CRIME CONTINUADO. (1) WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. VIA INADEQUADA. (2) DELITO DE ROUBO MAJORADO. CIRCUNSTÂNCIA JUDICIAL VALORADA NEGATIVAMENTE. PERSONALIDADE. CONDENAÇÃO ANTERIOR COM TRÂNSITO EM JULGADO. POSSIBILIDADE. (3) PENA-BASE. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. (4) WRIT NÃO CONHECIDO.
+    1. Tratando-se de habeas corpus substitutivo de recurso especial, inviável o seu conhecimento, restando apenas a avaliação de flagrante ilegalidade.
+    2. A jurisprudência remansosa desta Corte Superior de Justiça preceitua que constatada a existência de condenações transitadas em julgado por fatos anteriores, não há ilegalidade na valoração negativa dos antecedentes e da personalidade (HC 324443/SP, Rel. Min. ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/08/2015).
+    3. Na linha do entendimento esposado por reiterados precedentes deste Tribunal, é permitido ao julgador mensurar com discricionariedade o percentual de aumento da pena a ser aplicado, desde que seja observado o princípio do livre convencimento motivado.
+    4. Habeas corpus não conhecido.”
+    2. Extrai-se dos autos que o recorrente foi condenado à pena de 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e ao pagamento de 89 (oitenta e nove) dias-multa, pelo crime previsto no artigo 157, § 2º, II, c/c o artigo 71, caput, ambos do Código Penal.
+    3. O Tribunal Regional Federal da 3ª Região deu parcial provimento à apelação da defesa apenas para reduzir a pena de multa.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça, não conhecido.
+    5. Neste recurso ordinário, a parte recorrente aponta a ilegalidade da fixação da pena-base em patamar acima do mínimo legal, sob o argumento de que “O aumento da pena-base em 12 meses foi justificado pela valoração negativa da personalidade com base apenas em condenação em outra ação penal. No entanto, a sentença confirmada pelo acórdão não indicou dados concretos para fundamentar a majoração da pena”. De modo que, “não foi indicado na sentença o comportamento habitual do paciente, nem atitudes anormais durante o crime, nem elementos concretos que indiquem agressividade fora do comum ou especial frieza que se permita concluir ser ele possuidor de personalidade distorcida”. Com essa argumentação, requer seja concedida a ordem de habeas corpus a fim de fixar a pena-base no mínimo legal.
+    6. O Ministério Público Federal opinou “pelo não conhecimento do recurso, em razão da sua manifesta inadmissibilidade e, no mérito, pelo seu desprovimento”.
+    Decido.
+    7. O Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal (v.g, RHC119.605-AgR, Rel. Min. Luís Roberto Barroso; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski).
+    8. No caso, em consulta à página oficial do Tribunal Regional Federal da 3ª Região, verifico que foi interposto recurso especial contra o acórdão que deu parcial provimento à apelação da defesa. O recurso foi inadmitido na origem em 30.06.15 e, contra essa decisão, foi interposto agravo. Conforme informações obtidas no site do Superior Tribunal de Justiça, observo que a Vice-Presidência daquele Tribunal não conheceu do agravo em 03.08.2016, tendo a decisão transitado em julgado em 14.06.2015.
+    9. Além disso, a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Nesse sentido, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda pertence).
+    10. Não bastasse isso, é certo que “O Supremo Tribunal Federal admite o agravamento da pena em razão da reincidência” (HC 108.331, Relª. Minª. Cármen Lúcia). De modo que não enxergo ilegalidade flagrante ou abuso de poder na sentença condenatória, mantida pelo Tribunal Regional Federal da 3ª Região, tendo em vista que o Juízo de origem justificou a exacerbação da pena-base com respaldo na “personalidade distorcida e dirigida à prática de delitos”, evidenciada pela reincidência criminosa, conforme revelam as seguintes passagens:
+    “[...]
+    O acusado já ostenta condenação transitada em julgado na ação penal nº 000010925.90.2009.8.26.0050 da 25ª Vara Criminal de São Paulo, pelo delito previsto no artigo 16, § único, inciso IV, da Lei nº 10.826/03.
+    Tal fato demonstra personalidade distorcida e dirigida à prática de delitos, o que autoriza a majoração da pena, nos termos do que prescreve o artigo 59 do Código Penal.
+    No crime de roubo a pena vai de 4 a 10 anos de reclusão, o que gera um lapso de 6 anos. Assim, aumento 1/6 sobre o lapso de 6 anos entre a mínima e a máxima, o que equivale a 1 (um) ano de reclusão.
+    Utilizando o mesmo raciocínio para a pena de multa, o lapso entre a mínima e a máxima, nos termos do artigo 49 são 350 dias-multa. Desperzando para menos, temos então que 1/6 sobre 350 são 58 dias-multa (arredondando para menos).
+    Assim, aumento a pena em 1/6 (um sexto) e fixo a pena-base em 05 (cinco) anos e 58 (cinquenta e oito) dias-multa de acordo com o artigo 49 do Código Penal, para cada roubo.
+    [...]”.
+    11. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+    Brasília, 11 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
