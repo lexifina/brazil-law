@@ -1,0 +1,17 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Turma Recursal dos Juizados Especiais do Estado da Bahia, assim ementado:
+    “REVISÃO CONTRATUAL C/C REPETIÇÃO DE INDÉBITO E DECLARAÇÃO DE NULIDADE DE CLASULAS CONTRATUAIS. EMPRÉSTIMO PESSOAL – CHEQUE ESPECIAL. REVOGAÇÃO DO § 3º DO ARTIGO 192 DA CONSTITUIÇÃO FEDERAL PELA EMENDA CONSTITUCIONAL N° 40. INAPLICABILIDADE DA LEI DE USURA ÀS TAXAS DE JUROS COBRADAS PELAS INSTITUIÇOES FINANCEIRAS. SÚMULA 596, STF. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. SITUAÇÃO DE ABUSIVIDADE DEMONSTRADA. TAXAS DE JUROS INCOMPATÍVEIS COM OS ÍNDICES APLICADOS NO MERCADO. SENTENÇA REFORMADA. RECURSO PARCIALMENTE PROVIDO PARA DETERMINAR APLICAÇÃO DA TAXA DE JUROS MÉDIA APLICADA NO MERCADO NO PERÍODO EM QUE FOI FIRMADO O CONTRATO.”
+    No recurso extraordinário, sustenta-se violação dos artigos 192 da Constituição Federal e 2º da Emenda Constitucional nº 32/01.
+    Decido.
+    No que se refere ao artigo 2º da Emenda Constitucional nº 32/01 da Constituição, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Por outro lado, o Plenário deste Supremo Tribunal, em sessões realizadas por meio eletrônico, no exame do AI nº 804.209/MS e do ARE nº 675.505/RJ, ambos da relatoria do Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral das matérias referentes à limitação dos juros remuneratórios nos contratos celebrados posteriormente à Emenda Constitucional nº 40/03 e à “legitimidade, ou não, da cobrança de tarifas e taxas acessórias, vinculadas a contratos bancários (como, por exemplo, ‘de abertura de crédito’, ‘de retorno’, ‘de emissão de boleto’ e ‘de cadastro’)”. Os acórdão desses julgamentos ficaram assim ementados, respectivamente:
+    “juros. Limitação em 12% ao ano. Contratos celebrados após o advento da Emenda Constitucional n. 40/2003. Legislação Infraconstitucional. Inexistência de repercussão geral”.
+    “Código de Defesa do Consumidor. 2. Cobrança de tarifas e taxas administrativas acessórias, vinculadas a contratos bancários. Controvérsia que se situa no âmbito da legislação infraconstitucional. Inexistência de repercussão geral.”
+    Ante o exposto, nos termos do artigo 21, § 1º, do regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 12 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
