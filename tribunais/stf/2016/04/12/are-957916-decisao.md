@@ -1,0 +1,20 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. DEMANDA BUSCANDO A RESCISÃO DE JULGADO QUE CONSIDEROU LEGAL A EXCLUSÃO DA AUTORA DO REFIS POR FALTA DE PAGAMENTO, NA FORMA DO INC. II, DO ART. 5º, DA LEI 9.964, DE 2000, CALCANDO A AUTORA A PRESENTE AÇÃO NO INC. V, DO ART. 485, DO CÓDIGO DE PROCESSO CIVIL.
+    A participação de empresa devedora no REFIS se opera por força da Lei 9.964, a prever a exclusão da empresa quando esta deixa de pagar três parcelas consecutivas ou seis parcelas alternadas, situação que, por si só, dispensa qualquer abertura de processo e de contraditório, por sua total desnecessidade. Não se faz preciso que, ante a inadimplência, tenha a credora de comunicar a devedora a sua exclusão, quando ela própria, por não recolher as prestações, já sabe, de antemão.
+    O ato de exclusão, ante a falta de pagamento, não viola nenhuma norma. A violação só se daria se, estando em dia com o pagamento das prestações, fosse a devedora surpreendida com a sua exclusão, situação bem diferente da aqui vivida.
+    Improcedência da demanda.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, caput; 5º, II e LV; 37, todos da Carta. Sustenta, em síntese, que a exclusão do contribuinte de programa de parcelamento deveria se dar mediante decisão fundamentada e prévia notificação, razão pela qual buscou a desconstituição de julgado anterior por meio de rescisória. Sustenta a inconstitucionalidade do acórdão que manteve a validade do ato de exclusão da então autora do REFIS, notificado via internet.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[...]
+    De início, verifico que, no tocante ao inciso II, do art. 5º, da Lei Maior, a apontada ofensa ao texto constitucional, se ocorrente, seria reflexa ou indireta, uma vez que a matéria objeto do recurso foi analisada no acórdão recorrido com enfoque na legislação infraconstitucional.
+    Em relação aos incisos LIV e LV, do mesmo dispositivo constitucional, ressalto que o STF rejeitou a existência de repercussão geral do tema relativo às alegações de cerceamento de defesa e de suposta ofensa aos princípios do devido processo legal (art. 5º, LIV, da CF), do contraditório, da ampla defesa (art. 5º, LV, da CF) e dos limites da coisa julgada (art. 5º, XXXVI, da CF), quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE, 748371/MT, Rel. Min. GILMAR MENDES, DJe 01/08/2013).
+    Com essas considerações, em relação à alegação de ofensa ao art. 5º, LIV e LV, da CF, DECLARO PREJUDICADO o recurso interposto, nos termos do art. 543-B, § 2º, do Código de Processo Civil c/c art. 223, §2º do Regimento Interno desta Corte, e INADMITO-O no que diz respeito à suscitada violação ao inciso II, do supracitado artigo constitucional.”
+    A pretensão recursal não merece acolhida, haja vista que a controvérsia não tem repercussão geral. Confira-se, a propósito, a ementa a seguir:
+    “NOTIFICAÇÃO PESSOAL PARA EXCLUSÃO DO PROGRAMA DE RECUPERAÇÃO FISCAL - REFIS. POSSIBILIDADE DA INTIMAÇÃO POR MEIO DA IMPRENSA OFICIAL E DA INTERNET. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.” (RE 611.230-RG, Rel.ª Min.ª Ellen Gracie)
+    Ademais, cumpre registrar que esta Corte já se manifestou pela ausência de repercussão geral quando a suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, depender de prévia análise da aplicação das normas infraconstitucionais. (ARE 748.371-RG, Rel. Min. Gilmar Mendes)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 12 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
