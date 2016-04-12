@@ -1,0 +1,18 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 1ª Câmara Cível Isolada do Tribunal de Justiça do Estado do Pará, assim ementado:
+    “APELAÇÕES CÍVEIS. AÇÃO DE EMBARGOS ÀEXECUÇÃO. ALEGAÇÃO DE INÉPCIA DA INICIAL E EXCESSO DE EXECUÇÃO. SENTENÇA DE IMPROCEDÊNCIA. CONDENAÇÃO DOS EMBARGANTES NAS CUSTAS E HONORÁRIOS DE SUCUMBÊNCIA DE 1% SOBRE O VALOR DA CAUSA. PRIMEIRA APELAÇÃO. HONORÁRIOS IRRISÓRIOS. VALOR ATENTATÓRIO À DIGNIDADE DO ADVOGADO. ART. 133 DA CRFB/1988. VIOLAÇÃO DO ART. 20, § 32, DO CPC E AO PRINCÍPIO DA RAZOABILIDADE. NORMA DO ART. 20, § 42, DO CPC, APLICÁVEL AO CASO. CAUSA SEM CONDENAÇÃO. JUÍZO DE EQUIDADE E INCIDÊNCIA DOS CRITÉRIOS DAS ALÍNEAS A), B) E C) DO § 32 DO ART. 20 DO CPC. RECURSO CONHECIDO E PROVIDO. SEGUNDA APELAÇÃO. ALEGAÇÃO DE NULIDADE DA EXECUÇÃO POR CERCEAMENTO DE DEFESA. CONTRARRAZÕES. PRELIMINAR DE INTEMPESTIVIDADE. ACOLHIDA. NEGATIVA DE SEGUIMENTO, NOS TERMOS DO ART. 557 DO CPC”.
+    Opostos embargos declaratórios, foram rejeitados.
+    Sustentam os recorrente afronta aos artigos 5º, incisos II, XXXVI, LIV e LV, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    Não procede a alegada afronta aos dispositivos constitucionais suscitados no recurso extremo por ausência de prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “Agravo regimental em agravo de instrumento. 2. Prequestionamento. Ausência. Embargos de declaração que não trataram da matéria constitucional. Súmulas 282 e 356 do STF. 3. Ofensa aos princípios da legalidade e da prestação jurisdicional. Análise da legislação infraconstitucional. Precedente. 4. Revisão de cláusula contratual. Ofensa reflexa. Precedente. 5. Agravo regimental a que se nega provimento” (AI nº 551.533/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 3/3/06).
+    Não colhe êxito o apelo, igualmente, quanto ao valor dos honorários advocatícios, uma vez que a petição recursal, nesse ponto, não indica os artigos constitucionais eventualmente violados pelo acórdão atacado. A jurisprudência desta Corte é firme no sentido de não conhecer de recurso extraordinário amparado na alínea “a” do permissivo constitucional em que não se aponta o dispositivo da Constituição Federal tido por contrariado. Nesse sentido:
+    “AGRAVO REGIMENTAL. FALTA DE INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL TIDO POR VIOLADO. Não se conhece de recurso extraordinário no qual não se aponta o dispositivo constitucional tido por violado. Agravo regimental a que se nega provimento” (AI nº 603.864/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa , DJ de 16/2/07).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO EXTRAORDINÁRIO. QUESTÃO CONSTITUCIONAL: NÃO-INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. I. - Inatacados os fundamentos da decisão agravada, torna-se inviável o recurso. Precedentes. II. - O recurso extraordinário é inviável se a questão constitucional não é posta com clareza, com a indicação expressa das normas constitucionais que se dizem ofendidas. III. - Agravo não provido” (AI nº 527.232/SP-AgR, Segunda Turma, Relator o Ministro Carlos Velloso , DJ de 23/8/05).
+    Ante o exposto, nos termos do artigo 21, § 1º, do regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 12 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
