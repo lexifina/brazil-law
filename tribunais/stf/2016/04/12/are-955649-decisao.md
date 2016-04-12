@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5°, caput, XXXV, 146, III, “b”, e 150, II, da Constituição Federal.
+    Anote-se parte da ementa da decisão proferida pelo Tribunal de origem:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. CONFEDERAÇÃO DA AGRICULTURA E PECUÁRIA DO BRASIL – CNA. PRESCRIÇÃO. CONTRIBUIÇÃO SINDICAL”.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o Tribunal de origem decidiu pela prescrição da pretensão referente ao crédito tributário com base nas normas infraconstitucionais aplicáveis à espécie, notadamente as Leis n°s 8.847/94, 9.393/96 e o Código Tributário Nacional. Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “EMENTA DIREITO TRIBUTÁRIO. PRESCRIÇÃO. CONTRIBUIÇÃO SINDICAL RURAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 07.11.2014. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido” (ARE n° 908.392/DF-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 26/11/15).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTRIBUIÇÃO SINDICAL RURAL. LANÇAMENTO. PRESCRIÇÃO. LEI Nº 8.847/1994. ARTIGOS 174 DO CTN E 587 DA CLT. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE n° 916.874/DF-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 19/11/15).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGADA VIOLAÇÃO PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA MESMA CARTA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I - O Supremo Tribunal Federal possui entendimento pacífico no sentido de que a violação ao art. 5º, XXXV, LIV e LV, da Magna Carta, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. II - O art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada, mas sim que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. III – Agravo regimental improvido” (AI nº 812.481/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1°/2/11).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 12 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
