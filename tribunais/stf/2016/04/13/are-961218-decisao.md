@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão que julgou deserto o recurso inominado, sob o entendimento de que a Ambiental Limpeza Urbana e Saneamento não realizou o preparo correspondente à multa por litigância de má-fé, conforme determinam os arts. 42, § 1º, e 54, parágrafo único, da Lei 9.099/1995 e o art. 35 do CPC/1973.
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação aos arts. 2º e 5º, LV, da mesma Carta, sob o argumento de que o recolhimento do valor correspondente à indenização por litigância de má-fé não constitui pressuposto processual de admissibilidade para a interposição de qualquer recurso, de modo que não se aplicam ao caso os arts. 54, § 1º, da Lei 9.099/1995 e o art. 35 do CPC/1973.
+    Além disso, sustenta-se que a interpretação conferida ao art. 42, § 1º, da Lei 9.099/1995 deve ser complementada pelo disposto no art. 511, § 2º, do CPC/1973.
+    Por fim, alega-se que não ficou configurada a litigância de má-fé por parte da ora recorrente, o que impõe o afastamento da multa aplicada.
+    A pretensão recursal não merece acolhida.
+    Isso porque os Ministros desta Corte, no RE 598.365-RG (Tema 181), Rel. Min. Ayres Britto, e no RE 633.360-RG (Tema 401), Rel. Min. Presidente, manifestaram-se pela inexistência de repercussão geral das questões em exame, por se limitarem ao âmbito infraconstitucional. Transcrevo, por oportuno, as ementas dos referidos julgados, respectivamente:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608”.
+    “RECURSO. Extraordinário. Inadmissibilidade. Multa. Litigância de má-fé. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a aplicação de multa por litigância de má-fé, com fundamento no art. 18 do CPC, nos casos de interposição de recursos com manifesto propósito protelatório, versa sobre tema infraconstitucional”.
+    Isso posto, nego seguimento ao recurso (art. 13, V, c, do RISTF).
+    Publique-se.
+    Brasília, 13 de abril de 2016.
+Ministro Ricardo Lewandowski
+Presidente
