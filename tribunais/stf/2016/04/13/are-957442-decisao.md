@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE JURÍDICA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Turma Recursal do Juizado Especial Federal da Terceira Região:
+    “SERVIDORES. GRATIFICAÇÕES. GDAJ. POSSIBILIDADE DE PAGAMENTO RETROATIVO DOS EFEITOS FINANCEIROS DOS RESULTADOS DA PRIMEIRA AVALIAÇÃO AO INÍCIO DO PERÍODO CONTRIBUTIVO. LEGISLAÇÃO NÃO FAZ DIFERENÇAS ENTRE SERVIDORES QUE ESTAVAM EM EXERCÍCIO NO CARGO NA DATA DA REGULAMENTAÇÃO DA GRATIFICAÇÃO E OS QUE INGRESSARAM POSTERIORMENTE. NEGA PROVIMENTO AO RECURSO” (doc. 20).
+    2. O recurso extraordinário foi inadmitido ao fundamento de inexistência de contrariedade direta à Constituição da República (doc. 23).
+    3. A Agravante sustenta que ”analisar se a matéria objeto do recurso incorre apenas em ofensa reflexa é inquestionavelmente matéria de mérito, o que só deve ser apreciado pelas instâncias superiores – STJ e/ou STF. Ora, considerando que os pressupostos de admissibilidade do recurso extraordinário foram amplamente atendidos pela União, a negativa de seguimento do seu recurso extremo viola o Direito de recorrer e, em última análise, o direito de ação e à ampla defesa” (doc. 35).
+    No recurso extraordinário a Agravante alega ter a Turma Recursal contrariado os arts. 2°, 5º, caput, inc. II, 7°, inc. XXX, 37, caput, e 39, § 3°, da Constituição da República.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5.  A Turma Recursal asseverou:
+    “A GDAJ foi extinta pela Medida Provisória 305 de 29.06.2006, convertida em lei nº 11.358 de 2006, que, dispondo sobre a remuneração das carreiras jurídicas da Administração Pública Federal, instituiu o subsídio.
+    A questão controvertida nos autos refere-se ao pagamento retroativo dos efeitos financeiros da primeira avaliação de desempenho individual a que o autor fora submetido após seu ingresso na carreira de Procurador Federal, ocorrido posteriormente a julho de 2001.
+    A alegação de que o artigo 61 da Medida Provisória n° 2.229-43/2001 teria caráter transitório e que somente se aplicaria à primeira avaliação de desempenho individual realizada no âmbito da AGU, não abrangendo os servidores que ingressaram após julho de 2001 não se sustenta.
+    Com efeito, há de se observar que a referida MP não fez qualquer tratamento diferenciado entre os servidores já pertencentes ao quadro e os novos servidores que ingressaram na carreira quanto à percepção da GDAJ e os seus efeitos financeiros. Além disso, pelo que consta, nos pagamentos subsequentes, fora efetuada a compensação entre o percentual fixo obtido antes da 1º avaliação e o efetivamente obtido após a 1ª avaliação, de modo que não há como se considerar que o referido artigo 61 da Medida Provisória 2229-43/2001 se tratasse, realmente, de norma meramente transitória.
+    Assim, penso ser possível a retroação dos efeitos financeiros dos resultados da primeira avaliação a que o requerente for efetivamente submetido, até o início do período avaliado”.
+    A apreciação do pleito demandaria a análise da legislação infraconstitucional e o reexame da matéria fático-probatória. A contrariedade à Constituição da República se tivesse ocorrido seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “ADMINISTRATIVO. SERVIDORES PÚBLICOS. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE JURÍDICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. 1. O Tribunal a quo entendeu que a gratificação em tela deveria ser parcialmente estendida aos inativos. Para divergir desse entendimento seria necessário a prévia análise da legislação infraconstitucional aplicável à espécie, hipótese inviável em sede extraordinária. Precedentes. 2. Agravos regimentais improvidos” (RE n. 539.875-AgR, Relatora a Ministra Ellen Gracie, Segunda Turma, Dje 3.9.2010).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE JURÍDICA [GDAJ]. EXTENSÃO AOS SERVIDORES INATIVOS. LEGISLAÇÃO INFRACONSTITUCIONAL. FATOS E PROVAS. INVIABILIDADE DO RECURSO. 1. O Tribunal de origem decidiu que a Gratificação de Desempenho de Atividade Jurídica --- GDAJ --- não deve ser estendida aos inativos, vez que não possui caráter geral. 2. Entendimento diverso exigiria o reexame de legislação infraconstitucional e do conjunto fático-probatório, procedimento vedado nesta instância. Agravo regimental a que se nega provimento” (RE n. 510.3090AgR, Relator o Ministro Eros Grau, Segunda Turma, DJe 6.6.2008).
+    Nesse sentido, as seguintes decisões monocráticas transitadas em julgado: RE n. 941.037, Relator o Ministro Luiz Fux, DJe 25.2.2016, RE n. 868.495, Relator o Ministro Roberto Barroso, DJe 27.4.2015.
+    Nada há a prover quanto às alegações da Agravante.
+    6. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de abril de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
