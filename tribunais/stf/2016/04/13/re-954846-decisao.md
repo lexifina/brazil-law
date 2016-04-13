@@ -1,0 +1,18 @@
+DECISÃO: O presente recurso extraordinário foi interposto por Maria Aparecida Lopes contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Mato Grosso do Sul, está assim ementado:
+    “APELAÇÃO CÍVEL – DIREITO ADMINISTRATIVO – AÇÃO DE INDENIZAÇÃO CONVERTIDA EM COBRANÇA DE F.G.T.S. – VERBA DE NATUREZA TRABALHISTA – CONTRATAÇÃO TEMPORÁRIA DE PROFESSORA PELA ADMINISTRAÇÃO PÚBLICA ESTADUAL E SUA RENOVAÇÃO – POSSIBILIDADE – REGIME JURÍDICO ESTATUTÁRIO ESTIPULADO EM CONTRATO – INAPLICABILIDADE DA CLT – SENTENÇA MANTIDA – RECURSO IMPROVIDO.
+    O servidor temporário possui seus direitos estabelecidos no contrato celebrado com a administração pública, não lhe sendo permitido pleitear verbas previstas na Consolidação das Leis do Trabalho (CLT), quando não constantes do instrumento administrativo acordado entre as partes.”
+    A parte recorrente, ao deduzir o presente apelo extremo, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 37, incisos II e IX, e § 2º, da Constituição da República.
+    Cumpre ressaltar, por oportuno, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 705.140/RS, Rel. Min. TEORI ZAVASCKI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “CONSTITUCIONAL E TRABALHO. CONTRATAÇÃO DE PESSOAL PELA ADMINISTRAÇÃO PÚBLICA SEM CONCURSO. NULIDADE. EFEITOS JURÍDICOS ADMISSÍVEIS EM RELAÇÃO A EMPREGADOS: PAGAMENTO DE SALDO SALARIAL E LEVANTAMENTO DE FGTS (RE 596.478 – REPERCUSSÃO GERAL). INEXIGIBILIDADE DE OUTRAS VERBAS, MESMO A TÍTULO INDENIZATÓRIO.
+    1. Conforme reiteradamente afirmado pelo Supremo Tribunal Federal, a Constituição de 1988 reprova severamente as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público, cominando a sua nulidade e impondo sanções à autoridade responsável (CF, art. 37, § 2º).
+    2. No que se refere a empregados, essas contratações ilegítimas não geram quaisquer efeitos jurídicos válidos, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço – FGTS.
+    3. Recurso extraordinário desprovido.”
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito do Supremo Tribunal Federal (ARE 788.922-AgR/MG, Rel. Min. CELSO DE MELLO – RE 830.962-AgR/MG, Rel. Min. LUIZ FUX – RE 853.403-AgR/MG, Rel. Min. TEORI ZAVASCKI, v.g.):
+    “RECURSO EXTRAORDINÁRIO – SERVIÇO PÚBLICO – CONTRATAÇÃO EM CARÁTER TEMPORÁRIO – RENOVAÇÕES SUCESSIVAS DO CONTRATO – EXTENSÃO DOS DIREITOS SOCIAIS PREVISTOS NO ART. 7º DA CONSTITUIÇÃO DA REPÚBLICA – DIREITO AO DEPÓSITO DO FGTS – ORIENTAÇÃO QUE PREVALECE NO SUPREMO TRIBUNAL FEDERAL EM RAZÃO DE JULGAMENTO FINAL, COM REPERCUSSÃO GERAL, DO RE 596.478/RR – RECURSO DE AGRAVO IMPROVIDO.”
+    (RE 752.206-AgR/MG, Rel. Min. CELSO DE MELLO)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC/15, art. 932, VIII e RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 13 de abril de 2016.
+Ministro CELSO DE MELLO
+Relator
