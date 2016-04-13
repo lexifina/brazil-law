@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REENQUADRAMENTO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça da Bahia:
+    “APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. ENQUADRAMENTO NO CARGO DE AUDITOR FISCAL E PERCEPÇÃO DE RESPECTIVAS VANTAGENS. IMPOSSIBILIDADE. VEDAÇÃO CONSTITUCIONAL. APELO A QUE SE NEGA PROVIMENTO.
+    O art. 37, II, da Constituição Federal, o art. 14, da Constituição do Estado da Bahia e o art. 12, da Lei nº 6.677/94, não permitem o “enquadramento” de servidor público. Segundo tais dispositivos, o ingresso em cargo público, isolado ou de carreira, somente se dá através de concurso público de provas e títulos, e não de forma derivada, através de enquadramento, como pretende o ora Apelante.
+    APELAÇÃO CÍVEL IMPROVIDA” (fls. 496-498).
+    Os embargos de declaração opostos foram rejeitados (fls. 508-510).
+    2. O Agravante alega ter o Tribunal de origem contrariado os arts. 37, inc. II, e 39, § 1º, da Constituição da República.
+    Argumenta que
+    “No caso em tela insurge-se a Recorrente contra decisão do Egrégio Tribunal de Justiça que manteve a decisão do juízo de 1º Grau que julgou improcedente a referida ação.
+    Acontece que tal decisão acaba por gerar uma situação de extrema injustiça e de violação de inúmeros dispositivos legais, em especial ao dispositivo exposto pelo art. 39, § 1º da Constituição Federal.
+    Ocorre que diversos servidores do Estado da Bahia já conquistaram o reenquadramento, via judicial, por decisões favoráveis formuladas pelo Tribunal de Justiça da Bahia, conforme se mostrar no corpo desta peça. São os mesmos argumentos, a mesma situação, porque alguns conseguem e outros não? Essa é uma indagação corriqueira nos corredores da Secretaria da Fazenda do Estado da Bahia, nada mais clara do que a sua repercussão geral
+    (…)
+    Com todo respeito às considerações trazidas [pelo] Acórdão atacado no que tange a dita impossibilidade jurídica do pedido formulado pelo recorrente, permanece o questionamento da aplicabilidade ao presente caso do art. 37, inciso II da Constituição Federal, o que denota a latente violação” (fls. 512-525).
+    3. O recurso extraordinário foi inadmitido ao fundamento da “estrita simetria estabelecida entre o acórdão recorrido e a jurisprudência pacífica do Supremo Tribunal Federal” (fls. 545-546).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal Federal no sentido da impossibilidade de ascensão funcional após a promulgação da Constituição da República de 1988:
+     “Servidor Público: estabilidade extraordinária (ADCT/CF/88, art. 19). O Tribunal tem afirmado a sujeição dos Estados-membros às disposições da Constituição Federal relativas aos servidores públicos, não lhes sendo dado, em particular, restringir ou ampliar os limites da estabilidade excepcional conferida no artigo 19 do ato federal das disposições transitórias. II. Estabilidade excepcional (Art. 19 ADCT): não implica efetividade no cargo, para a qual é imprescindível o concurso público (v.g. RE 181.883, 2ª T., Corrêa, DJ 27.02.98; ADIns. 88-MG, Moreira, DJ 08.09.00; 186-PR, Rezek, DJ 15.09.95; 2433-MC, Corrêa, DJ 24.8.01). III. Concurso público: exigência incontornável para que o servidor seja investido em cargo de carreira diversa. 1. Reputa-se ofensiva ao art. 37, II, CF, toda modalidade de ascensão de cargo de uma carreira ao de outra, a exemplo do "aproveitamento" de que cogita a norma impugnada. 2. Incidência da Súmula/STF 685 ("É inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido"). IV. Ação direta de inconstitucionalidade julgada procedente, para declarar a inconstitucionalidade dos artigos 25, 26, 29 e 30 do Ato das Disposições Constitucionais Transitórias da Constituição do Estado do Ceará” (ADI n. 289, Relator o Ministro Sepúlveda Pertence, Plenário, DJ 16.3.2007).
+    6. Dispõe-se na Súmula Vinculante n. 43 deste Supremo Tribunal Federal:
+    “É inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido”.
+    7. Na espécie vertente, ao interpretar a Lei estadual n. 6.677/1994, o Tribunal de origem concluiu que o reenquadramento pleiteado pelo Agravante seria ascensão funcional, modalidade de provimento inconstitucional.
+    A apreciação do pleito recursal demandaria a análise da legislação local, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal. Assim, por exemplo:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REENQUADRAMENTO. LEI COMPLEMENTAR ESTADUAL 62/2005. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282 DO STF. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMA INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Precedentes. II - É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional local que fundamenta a decisão a quo. Incidência da Súmula 280 desta Corte. III - Agravo regimental improvido” (RE n. 642.448-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 29.5.2012).
+    Confira-se também, por exemplo, a decisão monocrática proferida no ARE n. 814.107, Relator o Ministro Dias Toffoli, DJe 4.2.2015, transitada em julgado em 18.2.2015.
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de abril de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
