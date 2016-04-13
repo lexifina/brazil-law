@@ -1,0 +1,20 @@
+DECISÃO
+PROCESSO-CRIME – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL ADMITIDA – SUSPENSÃO – HABEAS CORPUS – LIMINAR DEFERIDA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juizado Especial de Belo Horizonte/MG, no processo nº 6133160-95.2009.8.13.0024, absolveu o paciente da suposta prática do delito versado no artigo 28 (porte de drogas para consumo pessoal) da Lei nº 11.343/2006. Consignou a inconstitucionalidade do preceito ante a previsão do artigo 5º, inciso X, da Carta Federal, tendo em vista o princípio constitucional da autonomia privada.
+    A Segunda Turma Recursal, ao prover a apelação interposta pelo Ministério Público, afastou a inconstitucionalidade declarada na sentença. Assentou o caráter criminoso da conduta, considerada lesão ao bem jurídico saúde pública.
+    A Defensoria Pública formalizou extraordinário, afirmando o reconhecimento de repercussão geral no recurso extraordinário nº 635.659. Pleiteou o sobrestamento de todos os processos semelhantes em curso no Juizado Especial Criminal de Belo Horizonte. O Juiz Presidente deixou de emitir juízo de admissibilidade, nos termos do artigo 328-A do Regimento Interno do Supremo. Ressaltou que o Relator do referido recurso não implementou a suspensão dos processos com matérias idênticas. Destacou ser desnecessária, pela sistemática atual dos extraordinários, a remessa dos recursos ao Supremo. Determinou o prosseguimento do processo no Juízo de origem. Interpostos embargos de declaração, não foram acolhidos em razão da ausência de vícios.
+    Protocolou-se agravo de instrumento contra a decisão em que inadmitido o recurso extraordinário, a qual foi mantida pelo Juiz Presidente.
+    Impetrou-se habeas corpus no Tribunal de Justiça, visando a suspensão do processo até o exame definitivo do mérito do recurso extraordinário nº 635.659, na forma do artigo 543-B do Código de Processo Civil e 328-A do Regimento Interno. Afirmou-se que o sobrestamento não decorre do efeito suspensivo do recurso extraordinário – porquanto ausente –, mas do reconhecimento da repercussão geral. Sublinhou-se a necessidade de suspensão, ante os efeitos decorrentes do julgamento nos processos de idêntica matéria. O Relator implementou a liminar. A 4ª Câmara Criminal indeferiu a ordem, revogando a medida acauteladora. Entendeu que o sobrestamento depende de determinação expressa do Relator, consoante dispõe o artigo 328 do Regimento Interno.
+    No Superior Tribunal de Justiça, interpôs-se o recurso ordinário constitucional de nº 37.296/MG, ao qual foi negado seguimento. O Relator reportou-se a precedentes do Tribunal pelo não sobrestamento das ações penais que versem a tipicidade do porte de droga para consumo pessoal. Indicou o respeito ao verbete nº 695 da Súmula do Supremo.
+    Neste habeas, a impetrante renova os argumentos alusivos ao constrangimento ilegal causado pela ausência de sobrestamento do processo. Destaca o artigo 543-B, § 1º, do Código de Processo Civil e o pronunciamento de Vossa Excelência no agravo em recurso extraordinário nº 601.643/DF.
+    Requer, em âmbito liminar, a suspensão do processo originário até o julgamento definitivo deste habeas, bem como a observância ao teor do verbete nº 727 da Súmula do Supremo. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Supremo, em 4 de abril de 2016, revelou que o julgamento do recurso extraordinário nº 635.659 encontra-se suspenso em razão de pedido de vista formulado pelo ministro Teori Zavascki.
+    A fase é de análise da medida acauteladora.
+    2. O fato de ter-se não só recurso extraordinário com repercussão geral admitida mas também o início do julgamento direciona à suspensão de processos que versem idêntica matéria, considerada a circunstância de haver sentença e acórdão formalizados na origem.
+    3. Defiro a liminar pleiteada para suspender o processo nº 6133160-95.2009.8.13.0024 do Juizado Especial de Belo Horizonte/MG.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília – residência –, 13 de abril de 2016, às 12h10.
+Ministro MARCO AURÉLIO
+Relator
