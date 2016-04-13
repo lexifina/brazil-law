@@ -1,0 +1,8 @@
+Decisão: 1. Trata-se de reclamação contra ato do Tribunal de Justiça do Estado do Paraná no Mandado de Segurança 1137461-8 (doc. 6) que teria usurpado a competência desta Corte, bem como desrespeitado o entendimento firmado no julgamento do MS 29.130, de minha relatoria (Dje de 3/4/2012). Alega o reclamante, em síntese, que a decisão reclamada: (a) desrespeitou a conclusão adotada no MS 29.130, por manter a titularidade do 1º Tabelionato de Protesto de Títulos da Comarca de Londrina/PR, obstando a declaração de vacância da serventia em questão; e (b) invade prerrogativa conferida ao Supremo Tribunal Federal de processar e julgar mandado de segurança impetrado contra ato do Conselho Nacional de Justiça. Requer o deferimento de medida liminar para a suspensão do ato reclamado, o qual deve ser cassado em definitivo quando do julgamento do mérito da reclamação.
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, de modo a garantir a efetividade do resultado de futuro e provável juízo de procedência. No caso, são relevantes os fundamentos da reclamação, sendo também iminente o risco de dano, em particular, porque o ato reclamado parece confirmar o provimento considerado ilegítimo por esta Corte, no julgamento do paradigma invocado (MS 29.130).
+    3. Ante o exposto, defiro a medida liminar para suspender a execução da decisão reclamada até o julgamento da reclamação. Solicitem-se informações à autoridade reclamada. Após, à Procuradoria-Geral da República para parecer.
+    Publique-se. Intime-se.
+    Brasília, 13 de abril de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
