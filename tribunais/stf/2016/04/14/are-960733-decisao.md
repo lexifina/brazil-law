@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. SAÚDE. RESSARCIMENTO DE GASTOS COM MEDIDAMENTOS. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Rio Grande do Sul:
+    “APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. DIREITO À SAÚDE. AÇÃO DE COBRANÇA. RESSARCIMENTO DE VALORES GASTOS PARA COMPRA DE MEDICAMENTO. IMPOSSIBILIDADE NO CASO CONCRETO. 1. A assistência à saúde é direito de todos garantido constitucionalmente, devendo o ente público custear os medicamentos e tratamentos aos necessitados. Inteligência do art. 196 da CF. 2. Descabe o ressarcimento dos valores gastos pelo paciente que custeou com seus próprios recursos o seu tratamento médico, sem ao menos postular judicialmente o seu direito, haja vista que a obrigação estatal não pressupõe o direito ao ressarcimento, limitando-se aqueles que não possuem condições financeiras de adquirir a medicação. 3. Cogente a reforma da sentença, com a consequente improcedência da ação de cobrança, invertendo-se os ônus sucumbenciais. RECURSO PROVIDO, EM DECISÃO MONOCRÁTICA”.
+    Os embargos de declaração foram rejeitados.
+    2. O Agravante alega contrariados os arts. 1º, inc. III, 5º, caput, 6º, 23, III, e 196 da Constituição da República.
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A apreciação do pleito recursal dependeria do reexame de provas, procedimento inadmissível em recurso extraordinário. Incide, na espécie vertente, a Súmula n. 279 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. NECESSIDADE DE INTERVENÇÃO CIRÚRGICA. GRAVIDADE E URGÊNCIA. INEXISTÊNCIA DE VAGA IMEDIATA NA REDE PÚBLICA DE SAÚDE. REALIZAÇÃO DO PROCEDIMENTO EM HOSPITAL PARTICULAR. RESSARCIMENTO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II – Agravo regimental improvido” (ARE n. 677.280-AgR/DF, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe de 5.12.2012).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. FORNECIMENTO DE MEDICAMENTOS. CONTROVÉRSIA DECIDIDA PELO TRIBUNAL A QUO COM FUNDAMENTO NAS PROVAS DOS AUTOS. INCIDÊNCIA, NA ESPÉCIE, DA SÚMULA 279 DESTE SUPREMO TRIBUNAL. AGRAVO REGIMENTAL DESPROVIDO” (AI n. 562.703-AgR/RS, de minha relatoria, Primeira Turma, DJ 20.4.2007).
+    “EMENTA: EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. EFEITOS INFRINGENTES. CONVERSÃO EM AGRAVO REGIMENTAL. DIREITO CONSTITUCIONAL. FORNECIMENTO DE MEDICAMENTO. ADEQUAÇÃO DO MEDICAMENTO PRESCRITO. REEXAME DE PROVAS. IMPOSSIBILIDADE: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”(RE n. 924.158-ED/MG, de minha relatoria, Segunda Turma, DJ 29.2.2016).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MEDICAMENTO. FORNECIMENTO PELO ESTADO. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. ALEGAÇÃO TARDIA. INVIABILIDADE. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. AGRAVO REGIMENTAL DESPROVIDO” (RE n. 884.516-AgR/AL, Relator o Ministro Luiz Fux, Primeira Turma, DJ 25.9.2015).
+    6. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 14 de abril de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
