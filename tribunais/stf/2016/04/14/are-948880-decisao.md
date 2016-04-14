@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Eis a síntese do acórdão impugnado:
+    Apelação Cível. Ação ordinária. Responsabilidade civil. Veículo que transitava por rodovia estadual, sob a administração do DER/SP, vindo a colidir com animal que se encontrava na pista asfáltica, causando danos materiais (perda total). Ação proposta contra o DER, autarquia estadual. Pretensão de obter reparação dos danos material e moral. Admissibilidade apenas do dano material. Responsabilidade objetiva tanto da autarquia, como do proprietário do animal (CC/2002, art. 936). Ação julgada improcedente na origem. Inadmissibilidade. Recurso provido em parte para julgar parcialmente procedente a ação e responsabilizar o DER pelo dano material, negada a compensação por dano moral. assegurado o direito de regresso contra o proprietário do animal. — "Sendo o DER - Departamento de Estradas de Rodagem, autarquia estadual, ente autônomo criado por lei, com personalidade de direito público interno e patrimônio próprio, responde objetivamente pelos acidentes com veículos que ocorrerem em rodovias por ela administradas, nos termos art. 37, §6° da CF/W
+    O recorrente pretende ser absolvido da condenação, afirmando ausência de nexo causalidade entre ação da concessionária e o dano sofrido pelo autor. Tece considerações sobre a impossibilidade de considerar a responsabilidade objetiva do DER-SP.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 14 de abril de 2016.
+Ministro MARCO AURÉLIO
+Relator
