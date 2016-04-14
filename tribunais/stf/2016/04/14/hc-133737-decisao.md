@@ -1,0 +1,32 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União (DPU), em favor de Luciano Gonçalves Pereira, contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao Agravo Regimental no Agravo em Recurso Especial n. 800.597/RO.
+    Segundo os autos, no dia 15/07/2010, agentes de fiscalização da ANATEL, em diligências no município de Buritis/RO, surpreenderam o paciente desenvolvendo atividade clandestina de telecomunicações, mediante o funcionamento de estação de rádio, denominada Atlanta e instalada na Rua Niterói, 2691, na frequência 91,1 MHZ, com potência de 30 Watts.
+    Sobreveio condenação à pena de 2 anos de detenção, mais o pagamento de 10 dias-multa, substituídas por duas penas restritivas de direito, pela prática do delito descrito no art. 183, da Lei n. 9.472/97.
+    Contra essa decisão, a defesa interpôs recurso de apelação no Tribunal Regional Federal da 1ª Região, requerendo a aplicação do princípio da insignificância ao caso em tela.
+    A Corte Federal deu parcial provimento ao apelo tão somente para isentar o recorrente das custas processuais.
+    Irresignada, a defesa interpôs recurso especial, que, não admitido pelo Tribunal de origem, motivou o manejo de agravo perante o STJ, que negou provimento ao recurso monocraticamente.
+    Daí a interposição de agravo regimental, ao qual foi negado provimento em acórdão assim ementado:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO PELO JULGADOR. POSSIBILIDADE. CRIME CONTRA AS TELECOMUNICAÇÕES. ESTAÇÃO DE RÁDIO CLANDESTINA. ART. 183 DA LEI N. 9.472/1997. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. PRECEDENTES DESTA CORTE. SÚMULA 83/STJ. APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA.
+    1. É possível ao relator apreciar o mérito do recurso especial ao julgar monocraticamente o agravo, sem que isso configure ofensa ao princípio da colegialidade, haja vista a existência de previsão legal para tanto. Precedentes.
+    2. É pacífico nesta Corte Superior de Justiça o entendimento de que a prática de serviço de radiodifusão clandestina, mesmo que de baixa potência e sem a obrigatoriedade de autorização por parte do órgão regulador, constitui delito formal de perigo abstrato, o que afasta o reconhecimento da atipicidade material da conduta pela aplicação do princípio da insignificância. Precedentes de ambas as Turmas da Terceira Seção.
+    3. A esta Corte é vedada a análise de dispositivos constitucionais em sede de recurso especial, ainda que para fins de prequestionamento, de modo a viabilizar o acesso à instância extraordinária, sob pena de usurpação da competência do Supremo Tribunal Federal.
+    4. Não sendo aptos os argumentos trazidos na insurgência para desconstituir a decisão agravada, deve ela ser mantida pelos seus próprios fundamentos.
+    5. Agravo regimental improvido.”
+    No presente habeas corpus, a defesa insiste na aplicação do princípio da insignificância, alegando que a rádio operada pelo paciente utilizava-se de um transmissor de baixa potência (30 watts) e que, tendo em vista que o funcionamento desta se dava na cidade de Buritis/RO, com população de aproximadamente 35.000 habitantes, possivelmente a aludida rádio tratava-se de um dos poucos meios de comunicação social no pacato município.
+    Liminarmente, “requer-se absolvição do paciente, tendo em vista a atipicidade da conduta, conforme art. 386, III, V e VII, do Código de Processo Penal, ou, subsidiariamente, que seja suspenso o curso da ação penal originária até o julgamento do presente habeas corpus.” (eDOC 1, p. 12)
+    É o breve relatório.
+    Decido.
+    No caso em apreço, discute-se a aplicação do princípio da insignificância ao delito de exploração clandestina de serviços de telecomunicações.
+    Acerca do tema, entendo que a instalação de estação clandestina de radiofrequência, sem autorização do órgão regulador (ANATEL) já é suficiente a comprometer a regularidade do sistema de telecomunicações.
+    Também, compartilho do entendimento no sentido de que, mesmo se tratando de rádio de baixa frequência, é imprescindível a autorização governamental para seu funcionamento.
+    Com o tipo do art. 183 da Lei 9.472/97, o legislador buscou tutelar a segurança dos meios de comunicação, pois se sabe que o funcionamento dessas rádios pode causar interferência em vários sistemas, principalmente o aéreo. Daí, a prescindibilidade de comprovação de prejuízo efetivo para sua consumação.
+    Conforme auto de apresentação e apreensão (eDOC 3, p. 18), a rádio clandestina denominada Atlanta, instalada no município de Buritis/RO, possuía um aparelho de 30W de potência e operava na frequência 91,1MHz. Ademais, as informações prestadas pela ANATEL dão conta que “a entidade fiscalizada encontrava-se com equipamentos instalados inadequadamente, sem aterramento, com o transmissor sem sistema de filtragem e antena inadequada. Equipamentos instalados de forma incorreta causam interferência por emissões de harmônicos e espúrios com níveis elevados, podendo interferir em equipamentos de telecomunicações.” (eDOC 3, p. 44)
+    Dessarte, considerada a real possibilidade de as atividades desenvolvidas pelo acusado interferir em outros serviços de telecomunicações, entendo inviável a aplicação do princípio da insignificância.
+    No mesmo sentido de afastar a aplicação do princípio da insignificância aos crimes contra os serviços de telecomunicações, cito os seguintes julgados das duas turmas do STF: HC 111.518/DF, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 26.3.2013; HC 119.979/MG, Rel. Min. Rosa Weber, Primeira Turma, DJe 3.2.2014; HC 120.602/SP, Rel. Min. Luiz Fux, Primeira Turma, DJe 18.3.2014 e HC 128.130/BA, Rel. Min. Teori Zavascki, Segunda Turma, DJe 23.9.2015.
+    Portanto, embora não sendo detectada efetiva interferência prejudicial a outros serviços de telecomunicações, a rádio se utilizava de um transmissor não homologado pela ANATEL.
+    Por fim, ressalto que a Lei 9.472/97 busca proteger toda a operacionalidade do sistema de telecomunicações, razão pela qual, ainda que se trate de rádio comunitária, que não provocou danos efetivos, o princípio da insignificância deve ser afastado.
+    Ante o exposto, com fundamento no art. 192, caput, RI/STF, denego a ordem.
+    Publique-se. Int..
+    Brasília, 14 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
