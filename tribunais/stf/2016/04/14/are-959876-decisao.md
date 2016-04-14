@@ -1,0 +1,22 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sexta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO POR MORTE. EX-CÔNJUGE DO PARTICIPANTE DO PLANO. PRETENSÃO DE RATEIO COM A COMPANHEIRA E FILHOS. IMPOSSIBILIDADE. EXPRESSA INDICAÇÃO DOS BENEFICIÁRIOS. INDEPENDÊNCIA DA PREVIDÊNCIA PRIVADA EM RELAÇÃO À PREVIDÊNCIA PÚBLICA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+    1) Trata-se de recurso de apelação interposto contra a sentença de improcedência proferida nos autos da ação de complementação de benefício previdenciário por morte.
+    2) O regulamento do plano de benefícios do qual o ex-cônjuge da parte autora era participante prevê expressamente que a pensão por morte será destinada aos beneficiários habilitados, nos quais não se incluem a parte demandante, mas apenas a companheira e os dois filhos havidos com ela.
+    3) A previdência privada é independe da previdência pública, tendo em vista a revogação da Lei nº 6.435/77 pela Lei Complementar nº 109/2001, podendo o participante indicar como beneficiário quem entender conveniente, mormente no caso em apreço em que a inscrição no plano ocorreu três anos após a separação judicial do casal (separação ocorrida em 1980, inscrição em 1983, falecimento em 2003).
+    4)  Ademais, a rigor, a obrigação de alimentar se extingue com a morte do alimentante, descabendo suprimir direitos dos beneficiários da complementação de pensão morte quando essa não era a vontade do participante.
+    APELAÇÃO DESPROVIDA. “
+    Opostos dois embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do artigo 201, inciso V, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o Tribunal a quo lastreou-se no conjunto fático-probatório dos autos e nas cláusulas do regulamento da entidade de previdência privada para firmar seu entendimento. Decidir de forma divergente demandaria, induvidosamente, o reexame dessas cláusulas e das provas dos autos, procedimentos vedados em sede extraordinária. Incidência, na espécie, das Súmulas 279 e 454 do STF. A propósito:
+    “AGRAVO DE INSTRUMENTO - COMPLEMENTAÇÃO DE APOSENTADORIA E/OU PENSÃO - ENTIDADE DE PREVIDÊNCIA PRIVADA - ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL - SÚMULA 454/STF - RECURSO DE AGRAVO IMPROVIDO. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. - A análise de pretensão jurídica, quando dependente de interpretação de cláusulas inscritas em contrato de previdência privada (Súmula 454/STF), revela-se processualmente inviável em sede de recurso extraordinário, pois, em referido tema, a decisão emanada do Tribunal recorrido reveste-se de inteira soberania. Precedentes” (AI nº 671.660/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 24/4/09).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REVISÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA. ESTATUTO E REGULAMENTOS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I - A apreciação dos temas constitucionais, no caso, depende do reexame dos fatos e provas constantes dos autos e a interpretação de cláusulas contratuais da entidade de previdência privada, o que encontra óbice nas Súmulas 279 e 454 do STF. Precedentes. II - Agravo regimental improvido” (ARE nº 644.881/DF-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 20/9/11).
+          “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. REVISÃO DO BENEFÍCIO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DAS CLÁUSULAS CONTRATUAIS. (SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”(AI nº 836.845/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 25/4/11).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 14 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
