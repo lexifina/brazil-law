@@ -1,0 +1,16 @@
+DECISÃO
+HABEAS CORPUS – LIMINAR – RELEVÂNCIA NÃO DEMONSTRADA – INDEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal e Anexo da Infância e da Juventude da Comarca de Catanduva/SP, no processo nº 680/2009, condenou o paciente a 2 anos e 11 meses de reclusão, em regime inicialmente fechado, e 28 dias-multa, ante o suposto cometimento do delito previsto no artigo 171, cabeça (estelionato), combinado com o 71 (crime continuado), ambos do Código Penal. Consignou a impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos, em virtude da reincidência em crime doloso e os maus antecedentes.
+    A defesa interpôs apelação, pleiteando a absolvição do paciente, em razão da fragilidade do acervo probatório e da ilegitimidade passiva de partes e, sucessivamente, o abrandamento da pena. A Quarta Câmara de Direito Criminal, ao negar provimento ao recurso, manteve a sentença na integridade.
+    No Superior Tribunal de Justiça, habeas corpus nº 278.002/SP, sustentou-se o cabimento da pena limitadora de direitos, presentes as condições legais. Ressaltou-se não ser o paciente reincidente específico. Afirmou-se a ocorrência de dupla punição, uma vez considerada a reincidência como circunstância judicial e agravante genérica, motivo que ensejou o implemento do regime fechado. O Relator negou seguimento à impetração, nos termos dos artigos 38 da Lei 8.038/1990 e 34, inciso XVIII, do Regimento Interno do Superior, assentando a inadequação da via como substitutiva ao meio impugnativo próprio. Disse não vislumbrar ilegalidade a viabilizar a concessão da ordem de ofício.
+    Neste habeas, o impetrante reitera as alegações atinentes à substituição da pena privativa de liberdade e ao regime de cumprimento. Salienta preencher o paciente os requisitos do benefício: ter sido condenado a pena inferior a quatro anos, não ser reincidente específico e ser a medida socialmente recomendável. Renova o argumento da dupla punição resultante da consideração da reincidência na dosimetria da pena e na fixação do regime. Evoca o verbete nº 241 da Súmula do Superior.
+    Requer, em âmbito liminar, a substituição da pena privativa de liberdade por restritiva de direitos, bem como o implemento do regime aberto. No mérito, busca a confirmação da providência.
+    A fase é de exame da medida acauteladora.
+    2. Observem que a pena-base foi fixada acima do mínimo legal, fato que, a teor do disposto no artigo 33, § 3º, do Código Penal, conduz à imposição do regime fechado. No tocante à dupla consideração da reincidência, o fenômeno não ocorre. O regime fechado resultou da culpabilidade na prática criminosa. Por último, o artigo 44 do Código Penal obstaculiza a substituição da pena privativa de liberdade pela restritiva de direitos quando seja o réu reincidente em crime doloso e haja circunstância judicial negativa – incisos II e III. Descabe reescrever o artigo, mediante interpretação, para estabelecer-se especificidade, além da referência a crime doloso, quanto ao óbice previsto. A reincidência diz respeito à prática delituosa sem considerar-se o mesmo crime.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília – residência –, 14 de abril de 2016, às 11h.
+Ministro MARCO AURÉLIO
+Relator
