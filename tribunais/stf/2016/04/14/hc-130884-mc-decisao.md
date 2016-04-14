@@ -1,0 +1,20 @@
+DECISÃO
+PRESCRIÇÃO – RELEVÂNCIA NÃO DEMONSTRADA – HABEAS CORPUS – LIMINAR INDEFERIDA.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – AUSÊNCIA DE PREJUÍZO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Comarca de Itapecerica da Serra/SP – Foro Distrital de Taboão da Serra –, no processo nº 0006197-12.2008.8.26.0609, pronunciou o paciente em virtude do suposto cometimento do delito descrito no artigo 121, § 2º, inciso II (homicídio qualificado por motivo fútil), do Código Penal. Recurso em sentido estrito interposto pela defesa, no qual pleiteada a impronúncia, foi desprovido.
+    O Tribunal do Júri, em 1º de abril de 2014, condenou-o a doze anos de reclusão, em regime inicial fechado. Protocolou-se apelação, buscando-se a realização de novo julgamento, uma vez que a decisão dos jurados seria contrária às provas do processo. A 13ª Câmara de Direito Criminal desproveu o recurso, assentando estar calcada a condenação em depoimentos testemunhais e laudo pericial.
+    No Tribunal de origem, impetrou-se habeas, sustentando-se a prescrição da pretensão punitiva. Destacou-se que o paciente, à época do crime, era menor de 21 anos, reduzindo-se, portanto, o prazo prescricional à metade, com base no artigo 115 do Código Penal. Consignou-se, levando-se em conta essa regra e a sanção aplicada, ser o prazo prescricional de oito anos, período de tempo que teria transcorrido entre a data da decisão de pronúncia e a da publicação da sentença condenatória. O 7º Grupo de Direito Criminal não conheceu da impetração, salientando a impossibilidade de, em sede de habeas corpus, aferir-se a legalidade do ato, conforme o princípio da hierarquia.
+    No Superior Tribunal de Justiça, habeas corpus nº 333.742, renovou-se a argumentação expendida. O Relator indeferiu liminarmente a impetração, em virtude de a tese veiculada não ter sido suscitada nem analisada pelo Tribunal estadual. Aduziu inviável a apreciação, sob pena de indevida supressão de instância. Observou não haver prescrição da pretensão punitiva, visto que a decisão confirmatória de pronúncia – prolatada em 2007 – também seria marco interruptivo da prescrição, nos termos do artigo 117, inciso III, do Código Penal, não tendo transcorrido o lapso prescricional.
+    Neste habeas, os impetrantes reafirmam estar extinta a punibilidade do paciente, ante a prescrição da pretensão punitiva. Assinalam o escoamento do prazo prescricional, considerada a reprimenda imposta e a regra do artigo 115 do Diploma Penal, iniciando-se na data da sentença de pronúncia – 7 de dezembro de 2004 – e findando-se no dia da publicação do título condenatório – 1º de abril de 2014. Frisam não ter o acórdão que ratifica a pronúncia o condão de interromper a prescrição.
+    Requerem, liminarmente, seja declarada a extinção da punibilidade e deferido salvo-conduto ao paciente. No mérito, buscam a confirmação da providência.
+    Anoto que, à época do fato criminoso, ocorrido em 12 de junho de 2000, o paciente encontrava-se com dezenove anos de idade. A sentença de pronúncia foi publicada em 7 de dezembro de 2004, o acórdão que a confirmou data de 13 de dezembro de 2007 e a condenatória formalizou-se em 1º de abril de 2014, conforme revelou consulta ao sítio do Tribunal de Justiça do Estado de São Paulo.
+    A fase é de exame da medida acauteladora.
+    2. Observem que, a teor do disposto no inciso III do artigo 117 do Código Penal, a decisão confirmatória da pronúncia tem eficácia interruptiva do prazo prescricional. Daí não concorrer, na espécie, a relevância do pedido, conforme consignou o Superior Tribunal de Justiça.
+    3. Indefiro a liminar.
+    4. O curso deste habeas corpus não prejudica o de nº 333.742, formalizado no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Reynaldo Soares da Fonseca.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília – residência –, 14 de abril de 2016, às 10h25.
+Ministro MARCO AURÉLIO
+Relator
