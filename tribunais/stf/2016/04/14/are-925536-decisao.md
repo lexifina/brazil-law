@@ -1,0 +1,40 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 02, p. 191):
+    APELAÇÃO – ROUBO IMPRÓPRIO – AGENTE QUE APÓS SE APOSSAR DO DINHEIRO DO CAIXA, AGRIDE E AMEAÇA FUNCIONÁRIA – RECRUDESCIMENTO DO REGIME ABERTO – Necessidade: A gravidade da conduta praticada demonstra maior periculosidade do agente que não merece a manutenção do regime aberto com mera substituição da pena corporal por medidas alternativas, mostrando-se necessário recrudescimento do regime com a fixação da modalidade fechada.
+    DOSIMETRIA – AGENTE PRIMÁRIO E CONFESSO – ELEVAÇÃO DA PENA-BASE – Descabimento: Tratando-se de agente primário que confessou espontaneamente sua conduta, incabível a elevação da pena-base. Recurso parcialmente provido.
+    Após o trânsito em julgado para a acusação e a interposição de recurso especial pela defesa, o Tribunal de Justiça, ao detectar erro material no acórdão, submeteu novamente os autos à Turma Julgadora para retificação de julgamento.
+    Foram opostos embargos de declaração, que restaram rejeitados.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXVI, LIV e LV, da Constituição.
+    Alega-se, em suma, a nulidade da decisão que, a pretexto de corrigir erro material, alterou o regime de cumprimento da pena, importando em verdadeira reformatio in pejus.
+    A Presidência da Seção de Direito Criminal do TJSP inadmitiu o recurso sob os fundamentos de ausência de prequestionamento e ofensa reflexa ao Texto Constitucional.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Observo que as questões referentes à violação dos dispositivos constitucionais apontados, não foram objeto de debate no acórdão recorrido. Falta-lhes, pois, o indispensável prequestionamento (Súmula 282 do STF).
+    Ademais, ressalto que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que não há ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura mediatamente ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    Confira-se, a propósito, a ementa do ARE-RG 748.371, de relatoria do ministro Gilmar Mendes, DJe de 1º.08.2013:
+    Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+    Não obstante seja o caso de negar provimento ao agravo, verifico hipótese de constrangimento ilegal a autorizar a concessão do habeas corpus de ofício, nos termos do art. 654, § 2º, do CPP, no que se refere ao regime inicial para o cumprimento de pena.
+    Enfatizo que, considerando a excepcionalidade de tal proceder, a ilegalidade deve ser reconhecida de plano, apta a oportunizar a atuação jurisdicional de ofício, como é a situação desses autos.
+    O ora agravante foi condenado como incurso no art. 157, § 1º, do Código Penal, à pena de 04 (quatro) anos de reclusão, em regime aberto, e 10 (dez) dias-multa, em sentença assim fundamentada:
+    Fixo a pena-base no mínimo legal de quatro anos de reclusão e dez dias-multa. Não é caso de aumentar a pena, nem de fixar regime diverso do previsto em lei, sob o argumento de que o acusado é envolvido com drogas. Em verdade se trata de condição de vulnerabilidade e que poderia inclusive, somadas às outras circunstâncias e modo de vida do acusado, ensejar o reconhecimento de atenuante inominada (art. 66, do C.P.), todavia, estando a pena fixada no mínimo legal, inviável sua redução por circunstâncias atenuantes inominadas. Com base nas súmulas 718 e 719, do S.T.F. fixo o regime aberto para o início de cumprimento de pena. Fixo o dia-multa no mínimo legal. Com base no artigo 387, § único do C.P.P. e tendo em vista a pena aplicada, substituo a prisão preventiva por medidas cautelares diversas da prisão consistentes em : 1 – comparecimento mensal em Juízo para informar e justificar atividades, 2- proibição de acesso ou frequência a bares, boates e similares, bem com o casas de prostituição; 3 - recolhimento domiciliar no período noturno, das 22,00 às 6,00 horas, bem como aos fins de semana e feriados durante o período todo. Expeça-se alvará de soltura. Serve o presente de termo de compromisso.
+    O Tribunal de Justiça do Estado de São Paulo deu provimento ao recurso do Ministério Público para, mantendo o cálculo da pena, alterar, tão somente, o regime de cumprimento inicial da pena do aberto para o fechado, sob os seguintes fundamentos (eDOC 02, p. 193-194):
+    O crime foi praticado com violência contra uma jovem profissional que, durante seu trabalho de atendimento ao público, foi atacada de surpresa e, ainda, ameaçada de morte.
+    Diante de tal conduta, que gera insegurança na sociedade ordeira, a fixação da modalidade aberta, com substituição da pena corporal por medidas cautelares, mostra-se insuficiente como resposta jurisdicional.
+    Ao contrário do afirmado pelo culto magistrado a quo, data maxima venia, a condição de dependente químico torna o agente ainda mais perigoso e, como apontado pelo zeloso Promotor de Justiça oficiante em Primeiro Grau, “a falta de discernimento do apelado quando necessitar adquirir mais drogas possibilita a ocorrência de novos fatos semelhantes, até crimes ainda mais graves” [sic] (fls. 113).
+    A fixação do regime inicial segue os critérios estabelecidos no art. 33 do Código Penal, quais sejam, a quantidade de pena, a reincidência e as circunstâncias judiciais:
+    Art. 33 - A pena de reclusão deve ser cumprida em regime fechado, semi-aberto ou aberto. A de detenção, em regime semi-aberto, ou aberto, salvo necessidade de transferência a regime fechado.
+    (…)
+    § 2º - As penas privativas de liberdade deverão ser executadas em forma progressiva, segundo o mérito do condenado, observados os seguintes critérios e ressalvadas as hipóteses de transferência a regime mais rigoroso:
+    a) o condenado a pena superior a 8 (oito) anos deverá começar a cumpri-la em regime fechado;
+    b) o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto;
+    c) o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto .
+    § 3º - A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código.
+    Como se vê, o regime inicial será fixado à luz da pena concreta e com observância das circunstâncias judiciais, ou seja, exige-se fundamentação idônea, autônoma e compatível com a argumentação despendida ao longo da dosimetria da pena. Nesse sentido, as Súmulas 718 e 719 do STF:
+    Súmula 718: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada
+    Súmula 719: A imposição de regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+    Dessa forma, constato que o acórdão recorrido não descreve razões adequadas a justificar a escolha de regime inicial mais gravoso que o sugerido pela Lei Penal.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, § 1º, do RISTF. Contudo, nos termos do art. 654, § 2º, do CPP, concedo a ordem de habeas corpus, de ofício, para fixar o regime aberto como início do cumprimento de pena, nos termos do art. 33, §§ 2º e 3º, do CP.
+    Publique-se.
+    Brasília, 14 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
