@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão que reconhecera a servidor público o direito ao recebimento de abono de permanência, desde o momento em que preenchidos os requisitos para a concessão da aposentadoria voluntária especial previstos na Lei Complementar nº 51/1985.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 3º da Emenda Constitucional nº 20/1998, ao art. 3º, § 1º, da Emenda Constitucional nº 41/2003, e ao art. 40, § 19, da Constituição Federal. Sustenta, em síntese, que para o recebimento do abono de permanência não basta o preenchimento dos requisitos constantes na Lei Complementar nº 51/1985, devendo ser observados os prazos previstos nas disposições constitucionais suscitadas no recurso.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que o acórdão recorrido está alinhado à jurisprudência desta Corte.
+    O recurso não deve ser admitido. O Plenário Virtual do Supremo Tribunal Federal, no julgamento do ARE 954.408-RG, sob a relatoria do Ministro Teori Zavascki (Tema 888), reconheceu a repercussão geral da controvérsia e reafirmou a jurisprudência no sentido de que não há qualquer óbice à extensão do direito ao abono de permanência aos servidores públicos beneficiados por aposentadoria especial. Isso porque a Constituição Federal não restringe a concessão da vantagem apenas aos servidores que cumprirem os requisitos necessários para a aposentadoria voluntária comum, tampouco veda o benefício aos que se aposentam com fundamento no art. 40, § 4º, da CF.
+    Dessa orientação não divergiu o acórdão do Tribunal de origem, uma vez que assentou ser legítimo o pagamento do abono de permanência previsto no art. 40, § 19, da CF, ao servidor público que preencheu os requisitos para a concessão da aposentadoria voluntária especial (art. 40, § 4º, da CF), mas optou por permanecer em atividade.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 15 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
