@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade ao art. 52, X, da Constituição Federal. Insurge-se contra o efeito repristinatório referente à declaração de inconstitucionalidade no tocante às modificações introduzidas no art. 25 da Lei nº 8.212/91.
+    Anote-se a ementa da decisão recorrida:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO INCIDENTE SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. PRODUTOR RURAL PESSOA FÍSICA EMPREGADOR. INCONSTITUCIONALIDADE. PRESCRIÇÃO. LC Nº 118/05.
+    1- O STF, ao julgar o RE nº 363.852, declarou inconstitucional as alterações trazidas pelo art. 1º da Lei nº 8.540/92, que deu nova redação aos artigos 12, incisos V e VII, 25, incisos I e II, e 30, inciso IV, da Lei nº 8.212/91.
+    2- A Corte Especial deste Tribunal, ao julgar a Arguição de Inconstitucionalidade na AC nº 2008.70.16.000444-6/PR, declarou, por maioria, a inconstitucionalidade do artigo 1º da Lei nº 10256/2001.
+    3- Indevido o recolhimento de contribuição para o Fundo de Assistência ao Trabalhador Rural (FUNRURAL) sobre a receita bruta proveniente da comercialização da produção rural de empregadores, pessoas naturais.
+    4- Nas ações ajuizadas até 08/06/2005, incide a regra dos 'cinco mais cinco' para a restituição de tributo sujeito ao lançamento por homologação, ou seja, de dez anos a contar do fato gerador. Para as ações ajuizadas a partir de 09/06/2005, o prazo decadencial/prescricional de cinco anos conta-se da data do pagamento antecipado do tributo.”
+    Decido.
+    A irresignação não merece prosperar.
+    Segundo a jurisprudência desta Corte, é de índole infraconstitucional a controvérsia a respeito da legislação aplicável resultante do efeito repristinatório advindo de declaração de inconstitucionalidade de normas, conforme se verifica da ementa do seguinte julgado do Tribunal Pleno do STF:
+“EMENTA Embargos de declaração no recurso extraordinário. Tributário. Pedido de modulação de efeitos da decisão com que se declarou a inconstitucionalidade do inciso IV do art. 22 da Lei nº 8.212/91, com a redação dada pela Lei nº 9.876/99. Declaração de inconstitucionalidade. Ausência de excepcionalidade. Lei aplicável em razão de efeito repristinatório. Infraconstitucional. 1. A modulação dos efeitos da declaração de inconstitucionalidade é medida extrema, a qual somente se justifica se estiver indicado e comprovado gravíssimo risco irreversível à ordem social. As razões recursais não contêm indicação concreta, nem específica, desse risco. 2. Modular os efeitos no caso dos autos importaria em negar ao contribuinte o próprio direito de repetir o indébito de valores que eventualmente tenham sido recolhidos. 3. A segurança jurídica está na proclamação do resultado dos julgamentos tal como formalizada, dando-se primazia à Constituição Federal. 4. É de índole infraconstitucional a controvérsia a respeito da legislação aplicável resultante do efeito repristinatório da declaração de inconstitucionalidade do inciso IV do art. 22 da Lei nº 8.212/91, com a redação dada pela Lei nº 9.876/99. 5. Embargos de declaração rejeitados” (RE nº 595.838/SP-ED, Tribunal Pleno, de minha relatoria, DJe de 25/2/15).
+    Ainda, no mesmo sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. EMPRESA AGROINDUSTRIAL. DECLARAÇÃO DE INCONSTITUCIONALIDADE PARCIAL DA LEI Nº 8.870/1994. REPRISTINAÇÃO. LEGISLAÇÃO APLICÁVEL. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. A declaração de inconstitucionalidade tem efeitos repristinatórios, porquanto fulmina a norma desde o seu surgimento. Ante a nulidade do dispositivo que determinava a revogação de norma precedente, torna-se novamente aplicável a legislação anteriormente revogada. A controvérsia acerca do correto regime a ser aplicado à agravante, em razão da declaração de inconstitucionalidade da Lei nº 8.870/1994, demanda o reexame da legislação infraconstitucional pertinente, providência vedada nesta fase processual. Agravo regimental a que se nega provimento” (AI nº 602.277/BA-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 16/3/15).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 15 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
