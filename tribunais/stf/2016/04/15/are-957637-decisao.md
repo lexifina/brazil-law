@@ -1,0 +1,16 @@
+Decisão: Trata-se recurso extraordinário com agravo interposto em face do acórdão do Tribunal Regional Federal da 1ª Região, cuja ementa reproduz-se a seguir:
+    “TRIBUTÁRIO, CONSTITUCIONAL E PROCESSUAL CIVIL. TUTELA ANTECIPADA. REQUISITOS DO ART. 273 DO CPC. TAXA DE SERVIÇOS ADMINISTRATIVOS – TSA. LEI N. 9.960/2000. AUSÊNCIA DE ESPECIFICAÇÃO DO FATO GERADOR. INCONSTITUCIONALIDADE DO ART. 1º RECONHECIDA PELA CORTE ESPECIAL DO TRF1. CORREÇÃO MONETÁRIA E JUROS DE MORA PELA TAXA SELIC.
+    1. Se presentes os pressupostos elencados pelo art. 273 do CPC, nada impede que se antecipem os efeitos da tutela definitiva contra o Poder Público. Nesse sentido, o STJ já firmou entendimento, segundo o qual “a tutela antecipada pode ser aplicada contra o poder público, quando presentes os pressupostos para sua outorga” (Resp n. 260.085/RS, Rel. Ministra Eliana Calmon).
+    2. Declaração de inconstitucionalidade pela Corte Especial deste TRF1 do art. 1º da Lei n. 9.960/2000 no julgamento da INAMS n. 0005632-98.2007.4.01.3200/AM, sob a relatoria do Desembargador Federal Catão Alves.
+    3. “O parágrafo único do art. 24 do Decreto-Lei n. 288/1967, que autoriza a Superintendência da Zona Franca de Manaus – Suframa a instituir taxas por meio de portaria contraria o princípio da legalidade e, portanto, não foi recepcionado pela Constituição da República de 1988” (STF, RE n. 556854, Tribunal Pleno, Rel. Ministra Cármen Lúcia).
+    4. “A Lei nº 9.960, de 28 de janeiro de 2000, que, dentre outras disposições, instituiu a Taxa de Serviços Administrativos – TSA, em favor da Superintendência da Zona Franca de Manaus – Suframa, definindo como fato gerador o exercício regular do poder de polícia, ou a utilização, efetiva ou potencial, de serviço público específico e divisível, prestado pela SUFRAMA ao contribuinte ou que lhe seja posto a disposição... É evidente que a aludida lei não atendeu aos requisitos necessários à criação de tributo, como bem determina a Constituição Federal, em seu artigo 145, e, por consequência, violou o disposto no art. 150, estabelecendo este preceito que: “Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios: I – exigir ou aumentar tributo sem lei que o estabeleça” (TRF1, AC 0021756-49.2013.4.01.3200/AM, Sétima Turma, Rel. Desembargador Federal Reynaldo Fonseca)
+    5. Apelação e remessa oficial a que se nega provimento.” (fls. 189)
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 145, II e §2º; e 150 da Constituição Federal. (fls. 194-210)
+    Nas razões recursais, sustenta-se a constitucionalidade da Taxa de Serviços Administrativos da SUFRAMA, após o advento da Lei 9.960/00.
+    De plano, verifica-se que a presente controvérsia se encontra sujeita à sistemática da repercussão geral no bojo do Tema 891, cujo recurso-paradigma é o ARE-RG 957.650, de relatoria do Ministro Teori Zavascki.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 1.036 do Novo Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 15 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
