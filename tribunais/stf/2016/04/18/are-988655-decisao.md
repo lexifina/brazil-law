@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, ementado nos seguintes termos:
+    “Apelação. Ação de cobrança. Policial Militar. Gratificação Especial de Atividade (GEAT). Inteligência dos artigos previstos no Decreto nº 28.585/01 e Lei 3.691/01. É cediço que diante da legislação supramencionada, o vencimento base do apelante sofreu reajuste no percentual de 5,625% em doze parcelas mensais iguais e sucessivas a contar a partir de junho de 2001, até maio de 2002, sendo que, em contrapartida, a Gratificação Especial de Atividade – GEAT foi reduzida progressivamente na mesma proporção. Não obstante, a demanda versa sobre pedido de pagamento do percentual de 5,625% de forma progressiva e sucessiva, que não foi implementado no vencimento base dos contracheques dos meses de fevereiro a maio de 2002. Valores incorretos, através de simples cálculo aritmético.
+    Precedentes deste E.Tribunal e do C.STJ. Parcial provimento do apelo. Art.557, §1º-A, do CPC”. (eDOC 2, p. 34)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º; 167, I; 169, §1º, I e II, do texto constitucional.
+    Nas razões recursais, sustenta-se a impossibilidade de o Judiciário substituir a vontade do Administrador, sem afrontar o princípio da separação de poderes, e adentrar livremente na análise do mérito administrativo estabelecendo qual deve ser a ação do Poder Público na implementação de uma política pública.(eDOC 3, p. 21)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Estadual 3.691/01 e Decreto 28.585/01) e o conjunto probatório constante dos autos, consignou que é devido o reajuste pleiteado pelos recorridos. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Diante da simples leitura de documentos, verifica-se que o recorrido não implementou de forma correta o percentual de 5,625%, conforme se denota em simples cálculo aritmético, nos meses de fevereiro a maio de 2002.
+    De fato, no documento de fls.17, contracheque de novembro/2001, o soldo do apelante era de 291,40, sendo que a GEAT era de 75,00. Através de simples cálculo aritmético (291,40 x 5,625% = 16,39 = 291,40 + 16,39 = 307,79), conforme consta no contracheque de dezembro/2001. No contracheque do mês de janeiro de 2002 (fls.18), consta o soldo no valor de 325,10, verificando-se que houve o acréscimo correto do percentual de 5,625% sobre o valor do vencimento base do apelante (307, 79 x 5,625%= 17,31 = 307,79 + 17,31 = 325,10).
+    Não obstante, no mês de fevereiro de 2002, o percentual de 5,625% não foi implementado de forma correta, conforme se depreende da leitura do documento de fls.18. No mês de janeiro, o vencimento base do apelante era de 325,10. Assim, através
+    de simples cálculo aritmético, no mês de fevereiro de 2002, o vencimento base do apelante deveria ser de 343,38 (325,10 x 5,625% = 18,28 = 325,10 + 18,28 = 343,38), e não de 336,89, conforme consta em documento de fls.18.
+    E nos contracheques dos meses subsequentes, observa-se que o percentual de 5,625% também não foi implementado de forma correta nos aludidos contracheques, denotando-se, portanto, que o apelado não observou as disposições contidas nos dispositivos do Decreto nº 28.585/01 e Lei 1.639/90, sendo desnecessária a produção da prova pericial para apurar o incorreto valor do vencimento base do apelante nos documentos supramencionados”.(eDOC 2, p. 37)
+    Dessa forma, para se dissentir do acórdão recorrido e entender que a interpretação dada à lei estadual está em descompasso com a Constituição, ou para divergir do entendimento do Tribunal de origem quanto ao fato de a Fazenda Pública Estadual não ter se desincumbido do seu ônus probatório, far-se-ia imprescindível a análise do arcabouço legislativo estadual, bem como o revolvimento do acervo fático-probatório, providências que encontram óbice em sede de apelo extremo, nos termos das Súmulas 279 e 280 do STF.
+    Nesse mesmo sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO ESPECIAL DE ATIVIDADE - GEAT. EXTENSÃO AOS SERVIDORES APOSENTADOS. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO ESTADUAL PERTINENTE. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. 2. Agravo regimental desprovido”. (AI-AgR 595.764, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 28.10.2010)
+    Destaco, também, as decisões monocráticas nos ARE 856.235, Rel. Min. Cármen Lúcia, DJe 16.12.2014; ARE 829.532, Rel. Min. Cármen Lúcia, DJe 27.8.2014; e RE 791.189, Rel. Min. Cármen Lúcia, DJe 12.2.2014.
+    No mesmo sentido, o ARE 874.589, de minha relatoria, DJe 6.4.2015.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
