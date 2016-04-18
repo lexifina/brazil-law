@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto contra acórdão do 1ª Turma Recursal do JESP Civil/Criminal da Comarca de Divinópolis/MG, que manteve sentença que condenou o ora recorrente à pena de 15 dias-multa pela pratica do delito previsto no art. 42 do Decreto-Lei nº 3.688/1941, e à pena de 20 dias de detenção pela prática do crime previsto no art. 330 do Código Penal.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XLVI; e 93, IX, da Constituição. Sustenta: (i) ser incorreta a “DUPLA VALORAÇÃO DA REINCIDÊNCIA PARA AGRAVAR A PENA IMPOSTA PELO CRIME DE DESOBEDIÊNCIA E CONTRAVENÇÃO PENAL DE PERTURBAÇÃO DE SOSSEGO”; (ii) que não foi aplicada “a compensação entre a circunstância agravante da reincidência e a atenuante da confissão espontânea”. Requer “a substituição da pena corporal por restritiva de direitos e fixação do regime aberto par ao início de cumprimento da reprimenda”.
+    O recurso extraordinário é inadmissível, tendo em vista que esta Corte tem entendimento no sentido de que a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido, vejam-se os REs 740.576 e 817.400, ambos da Rel. Min. Teori Zavascki; o ARE 821.916 e o RE 826.709, ambos de minha relatoria, e os AREs 816.452 e 855.469, ambos julgados sob a relatoria da Ministra Cármen Lúcia, assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. DOSIMETRIA DA PENA. MATÉRIA INFRACONSTITUCIONAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.”
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, imprescindível seria uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário.
+    O Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, confira-se o AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 18 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
