@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL – DIREITO ADMINISTRATIVO – SERVIDOR PÚBLICO DO MUNICÍPIO DE UBERABA – PLEITO DE INDENIZAÇÃO DE VALORES RELATIVOS A DESCANSO SEMANAL REMUNERADO – REGIME DE REVEZAMENTO – JORNADA DE 12X36 HORAS – ART. 3º DA LEI COMPLEMENTAR MUNICIPAL 349/2005. IMPOSSIBILIDADE.
+    O art. 39, § 3º da Carta Maior estendeu aos servidores públicos os direitos previstos nos incisos IV, VII, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII e XXX do art. 7º, de forma que os servidores públicos, em regra, fazem jus ao descanso semanal remunerado preferencialmente aos domingos.
+    O art. 3º da Lei Complementar Municipal 349/2005 garante um repouso semanal remunerado aos servidores, preferencialmente aos domingos. Entretanto, isto não quer dizer que o repouso deva obrigatoriamente ocorrer neste dia da semana, de forma que se pode considerar que o descanso semanal remunerado do servidor está incluído naquelas 36 horas de descanso concedidas após 12 horas de efetivo labor. Recurso não provido.” (fl. 235)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 7º, XV; e 39, 3º, do texto constitucional.
+    Nas razões recursais, alega-se que a compensação da jornada não corresponde ao repouso semanal remunerado, de modo que tal direito social não teria sido concedido ao recorrente.
+    Sustenta-se que, “no presente caso, e tendo em vista o art. 3º da Lei Municipal n. 349/2005, do município de Uberaba, o regime de compensação de jornada, possível por interpretação extensiva do inciso XIII do art. 7º da CR/88, contempla textualmente a concessão de um repouso remunerado, que não se confunde nem pode se confundir com os dias de compensação da jornada” (fl. 246-247).
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipal 349 de 2005), consignou que o descanso semanal remunerado está incluído nas 36 horas de descanso concedidas após as 12 horas de trabalho. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “(...) extrai-se que a legislação garante um repouso semanal remunerado, preferencialmente aos domingos, o que não quer dizer que deva ser concedido obrigatoriamente neste dia da semana. A partir da leitura do dispositivo, não se constata o alegado direito a um DSR além daquele descanso de 36 horas concedido após 12 horas de trabalho.
+    Destaca-se que o próprio artigo prevê a possibilidade de cumprimento de jornada aos sábados, domingos e feriados. (…)
+    Conclui-se, portanto, que o descanso semanal remunerado do servidor está incluído naquelas 36 horas de descanso concedidas após 12 horas de labor, de forma que a manutenção da sentença é medida que se impõe.” (fl. 236-237)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito administrativo. 3. Servidor público municipal. 4. Discussão acerca da jornada de trabalho, do pagamento de horas extras e de repouso semanal remunerado aos servidores submetidos ao regime de compensação. 5. Regime disciplinado por legislação local (leis 7/99 e 552/93 do município de Rancharia/SP). 6. Incidência da Súmula 280. A ofensa à Constituição Federal, se existente, dar-se-ia de forma reflexa. 7. Ausência de argumentos capazes de infirmar a decisão agravada. 8. Agravo regimental a que se nega provimento.” (ARE 678.131-AgR, de minha relatoria, Segunda Turma, DJe 25.2.2013)
+    “Agravo regimental no recurso extraordinário com agravo. Trabalhista. Acordo coletivo de trabalho. Cláusula. Validade. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas da causa, bem como das cláusulas constantes em acordo coletivo de trabalho. Incidência das Súmulas nº 636, 279 e 454/STF 2. Agravo regimental não provido.” (ARE 715.077-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 1.8.2013)
+    No mesmo sentido, em caso análogo ao dos autos, destaco o ARE 851.499/MG, Rel. Min. Luiz Fux, DJe 4.12.2014.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
