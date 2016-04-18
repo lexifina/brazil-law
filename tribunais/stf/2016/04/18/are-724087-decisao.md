@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que não conheceu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, do qual se extrai o seguinte trecho:
+    “3) DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO POPULAR. MATÉRIA VEICULADA EM MEIO DE COMUNICAÇÃO. CONTRATAÇÃO DE ESPAÇO EM REVISTAS E JORNAIS DE CIRCULAÇÃO NACIONAL. OPÇÃO PELA VIA MAIS EFICIENTE. DISCRICIONARIEDADE DO GESTOR. AUSÊNCIA DE OFENSA AOS PRINCÍPIOS DA EFICIÊNCIA, RAZOABILIDADE E PROPORCIONALIDADE. AUSÊNCIA DE LESIVIDADE.
+    a) Se a matéria veiculada em renomada revista, especializada em assuntos econômicos e financeiros, é capaz de afetar a imagem e credibilidade do Estado do Paraná e das empresas paranaenses citadas, incumbe aos representantes legais destes, no exercício de seu poder-dever, adotar as medidas necessárias para esclarecimento dos fatos e defesa dos seus respectivos interesses.
+    b) A escolha do meio de resposta apropriado se insere no âmbito da discricionariedade do Administrador, não sendo exigível - por evidente ineficácia - simples manifestação na seção de cartas da respectiva revista, ou pedido de resposta, na forma da então vigente Lei de Imprensa.
+    c) A opção pela publicação da resposta em três meios publicitários revela-se, no caso, proporcional e adequada, pois, a escolha recaiu em veículos de comunicação também voltados para a comunidade de negócios que, entretanto, sozinhos, não têm a tiragem e notoriedade suficientes para a divulgação dos esclarecimentos na escala pretendida, alcançada pela revista que veiculou a matéria ofensiva.“
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 5º, V; e 37, caput, da Constituição Federal. Sustenta, em síntese, que os recorridos, no exercício do direito de resposta previsto no art. 5º, V, da CF, escolheram o meio mais onerosos para o patrimônio público.
+    A decisão agravada negou seguimento ao recurso extraordinário sob os seguintes fundamentos: (i) os artigos apontados como violados não foram devidamente prequestionados (Súmulas 282 e 356/STF); (ii) com base na jurisprudência do STF, as supostas violações somente seriam indiretas ou reflexas; e (iii) incide, no caso, a Súmula 279/STF.
+    A Procuradoria-Geral da República opinou pelo desprovimento do agravo, em parecer assim ementado:
+    “Recurso extraordinário com agravo. Ação Popular. Ressarcimento ao erário. Divulgação de resposta em meios de comunicação impressos, em reação de entidades estatais a matéria entendida como ataque ao Chefe do Poder Executivo paranaense.
+    A reforma da condenação de primeiro grau não se fundou em debate constitucional. Limita-se à esfera das provas e das circunstâncias do caso, para entender inexistente lesão ao erário. O caso não trata da extensão constitucional do direito de resposta, nem parece versar sobre princípios constitucionais regentes da administração pública.
+    A referência do agravo a passagens da sentença não é suficiente para atender o requisito do prequestionamento. A decisão objeto de recurso extraordinário é o acórdão que a substituiu. Súmulas 282 e 356/STF.
+    Parecer pelo desprovimento do agravo.”
+    O recurso extraordinário não merece seguimento. Isso porque, para dissentir da conclusão do Tribunal de origem acerca da ausência de lesão ao erário por parte dos ora recorridos, seria necessário o reexame do conjunto fático-probatório dos autos, bem como a análise da legislação infraconstitucional aplicável à hipótese, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF. Nessa linha, vejam-se os seguintes julgados de ambas as Turmas:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPROBIDADE ADMINISTRATIVA. IRREGULARIDADE EM CONTRATAÇÕES. SÚMULAS 279 E 280/STF. PRECEDENTES.
+    A resolução da controvérsia demandaria a análise da legislação local e o reexame dos fatos e provas constantes dos autos, o que é vedado em recurso extraordinário. Incidência das Súmulas 279 e 280/STF. Precedentes.
+    Agravo regimental a que se nega provimento.” (AI 612.576-AgR, de minha relatoria, Primeira Turma)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 806.641-AgR, Rel.ª Min.ª Carmén Lúcia, Segunda Turma)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 18 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
