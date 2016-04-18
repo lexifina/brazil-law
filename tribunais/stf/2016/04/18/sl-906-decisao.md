@@ -1,0 +1,21 @@
+Trata-se de suspensão de liminar proposta pela Câmara Municipal de Guarulhos/SP contra a medida cautelar deferida monocraticamente pelo relator da Ação Direta de Inconstitucionalidade 2128362-64.2015.8.26.0000, que tramita no Tribunal de Justiça do Estado de São Paulo.
+    A decisão combatida, conforme noticia a inicial, determinou a suspensão, até julgamento definitivo, dos seguintes dispositivos:
+    “§7º do artigo 1º; do §1º do artigo 6º, do artigo 8º; das expressões Assessor Legislativo do Anexo I – Tabela VII; Assessor de Gabinete de Vereador, Assessor de Gabinete de Vereador I, II, III, IV, V, VI, VII, VIII, IX e X do Anexo II – Tabela I; Assessor de Plenário da Presidência, Assessor Parlamentar das Comissões Técnicas Permanentes, Assessor Especial de Imprensa da Presidência, Assessor de Gabinete da Presidência I e II, Assessor de Gabinete da 1º Vice Presidência, Assessor de Gabinete da 2º Vice Presidência, Assessor de Gabinete da 1º Secretaria, Assessor de Gabinete da 2º Secretaria, Assessor de Gabinete da 3º Secretaria, Assessor de Gabinete da 4º Secretaria, Assessor de Gabinete de Liderança Partidária, Assessor de Gabinete de Liderança do Governo e Assessor de Gabinete de Liderança da Oposição do Anexo II - Tabela II, todos da Lei nº 7.321, de 06 de novembro de 2014, do Município de Guarulhos”.
+    A requerente aduz, em síntese, o seguinte:
+    "Fica marcante o prejuízo institucional representado pela decisão liminar e os prejuízos à ordem e à segurança públicas marcados pela impossibilidade da prestação dos serviços pelos assessores até que se decida definitivamente sobre a matéria ou se regularize a estrutura funcional da Edilidade" (página 12 do documento eletrônico 2).
+    Em seguida houve a apresentação de parecer pelo Procurador-Geral da República, que opinou pelo não conhecimento do pedido da suspensão (documento eletrônico 13).
+    É o relatório.
+    Decido.
+    Bem examinados os autos, pondero inicialmente que a suspensão de liminar é medida excepcionalíssima e que os requisitos para a sua concessão devem ser interpretados estritamente.
+    A interferência mínima do Supremo Tribunal Federal justifica-se pela necessária preservação da jurisdição que ainda será prestada pelo juízo e pelos tribunais competentes, considerado o mérito da demanda subjacente e toda a pirâmide recursal prevista pelo ordenamento jurídico pátrio.
+    Transportando-se esse raciocínio para o caso em exame, tem-se que a concessão da contracautela não encontra apoio nos autos, porquanto o Supremo Tribunal Federal já pacificou o entendimento de não ser cabível o pedido de suspensão de liminar em processos de controle abstrato de constitucionalidade.
+    Com efeito, ficou devidamente assentado que o art. 4º da Lei 8.437/1992 trata da suspensão de liminar como atinente a interesses subjetivos veiculados em ações movidas contra o Poder Público ou seus agentes, não se aplicando, portanto, aos processos objetivos, nos quais se desenvolve o controle abstrato de constitucionalidade para despejar uma determinada norma do ordenamento jurídico.
+    Nesse sentido, vide SL 10- AgR, Rel. Min. Maurício Corrêa; Pet 1.543-AgR, Rel. Min. Marco Aurélio; SL 80, Rel. Min. Nelson Jobim; Pet 1.120-MC, Rel. Min. Celso de Mello; e SL 98, Rel. Min. Ellen Gracie.
+    De fato, a suspensão somente pode ser concedida para beneficiar o Poder Público, impelido a atuar ou deixar de atuar em situação concreta, o que inviabiliza o juízo de abstração necessário ao desempenho do controle concentrado de constitucionalidade.
+    Transcrevo, a propósito, trecho do parecer do Procurador-Geral da República:
+    “Face ao entendimento consolidado pelo Supremo Tribunal Federal e do caráter absolutamente estrito e excepcional da competência constitucional da Suprema Corte para exercer juízo de contracautela, especialmente quando se trata de pedido de suspensão de decisão liminar concedida em sede de controle abstrato de constitucionalidade estadual, não se justifica sua atuação diante de casos como o dos autos” (página 6 do documento eletrônico 13).
+    Isso posto, nego seguimento à presente suspensão de liminar, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de abril de 2016.
+Ministro RICARDO LEWANDOWSKI
+Presidente
