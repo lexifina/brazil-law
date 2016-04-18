@@ -1,0 +1,13 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação, sustentou as suas conclusões em aspectos fático-probatórios a seguir destacados:
+    “Consigne-se que a prova oral que o autor alega ter sido preterida não teria o condão de determinar se havia ou não ruído excessivo no local, uma vez que a constatação dos ruídos está condicionada a utilização de equipamentos apropriados para tanto.
+    Ainda, não passou desapercebido por este Relator o fato de que o autor, em sua oportunidade de indicar as provas que reputava pertinentes, sequer apresentou o rol das testemunhas que pretendia fossem ouvidas (fl. 100).
+    Por outro lado, diante da impossibilidade fática de se realizar outra aferição de ruídos na mesma data e horário daquele em que ocorreu a autuação ora impugnada, descabe outra ilação, senão a de que o julgamento antecipado da lide era medida que se impunha.
+    Por fim, não é demais que se diga que, ainda que se admitisse a realização da prova testemunhal requerida e, ainda que se afastasse, em decorrência da mesma, a ocorrência de ruídos acima do limite permitido por lei, permaneceria a ilegalidade consistente na ausência de licença para o funcionamento do estabelecimento comercial autuado (fl. 42), cuja penalidade é a mesma aplicada.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 18 de abril de 2016.
+Ministro CELSO DE MELLO
+Relator
