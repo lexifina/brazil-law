@@ -1,0 +1,44 @@
+Vistos etc.
+    Aplicada a sistemática da repercussão geral e devolvido o recurso à origem para os fins do art. 543-B do CPC, considerado o RE 626.489, retornam os autos a esta Suprema Corte, com a informação de que a questão em exame é distinta da veiculada no citado paradigma.
+    É o relatório.
+    Decido.
+    Assiste razão.
+    A matéria, de fato, não guarda identidade com aquela submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 626.489.
+    Ante o exposto, torno sem efeito a decisão pela qual aplicado o art. 543-B do CPC e passo ao exame do recurso.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo Sílvio José Flores Soares. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação do art. 5º, XXXVI, da Constituição Federal.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo o inteiro teor do acórdão recorrido:
+    “VOTO
+    Trata-se de recurso inominado interposto contra sentença pela parte autora, que postula a anulação da sentença em face de suposta declaração de decadência.
+    Contudo, não foi pronunciada a decadência de quaisquer direitos da parte autora na sentença recorrida.
+    Assim, voto por não conhecer do recurso interposto, por sua dissociação com o conteúdo da sentença. Sem condenação em honorários advocatícios, nos termos do art. 55 da Lei nº 9.099/1995. Custas, na forma da lei.
+    Susana Sbrogio’Galia
+    Juíza Relatora – 2ª Turma Recursal”
+    Verifico ausente impugnação específica, no recurso extraordinário, às razões de decidir adotadas pela Corte de origem. As razões recursais encontram-se completamente dissociadas dos fundamentos do acórdão recorrido, o qual manteve a sentença que julgou improcedente o pedido formulado na ação, inexistente declaração de decadência do direito da parte. Oportuna a transcrição da sentença mantida pela Turma Recursal:
+    "Mérito
+    Da prescrição
+    No que tange à prescrição, tratando-se de parcelas remuneratórias periódicas, restam atingidas somente as parcelas vencidas no período anterior ao quinquênio que antecedeu a propositura da ação, nos termos do parágrafo único do art. 103 da Lei de Benefícios.
+    Da limitação do salário-de-benefício e da renda mensal inicial
+    A Lei nº 8.213/91 estabeleceu, no art. 29, par. 2º, limitação ao valor apurado a título de salário-de-benefício, dispondo que este não seria superior ao valor do limite máximo do salário-de-contribuição na data de início do benefício. De outra banda, instituiu, no art. 33, que a renda mensal de benefício de prestação continuada que substituísse o salário-de-contribuição ou o rendimento do trabalho do segurado não teria valor superior ao salário-de-contribuição. Já a Lei nº 8.212/91, no art. 20, par. 1º, estabeleceu que os valores do salário-de-contribuição merecem ser reajustados na mesma época e com os mesmos índices dos benefícios de prestação continuada da Previdência Social, impondo, ainda, no art. 28, par. 5º, como valor-teto do salário-de-contribuição o montante de Cr$ 170.000,00 (cento e setenta mil cruzeiros), o qual deveria sofrer revisão “na mesma época e com os mesmos índices que os do reajustamento dos benefícios de prestação continuada da Previdência Social”.
+    Inicialmente, cumpre esclarecer que, editadas as Emendas Constitucionais nº 20/98 e 41/2003, o limite máximo de valor para os benefícios do RGPS foi alçado a R$ 1.200,00 (um mil e duzentos reais) e R$ 2.400,00 (dois mil e quatrocentos reais), respectivamente, com o que houve a necessidade de adequação dos patamares contributivos máximos, de forma a possibilitar a futura obtenção de prestações dentro do novo limite por aquele segurado a quem a disposição ao menos potencialmente favoreceu. Daí não se conclua, entretanto, que a majoração deva repercutir direta e imediatamente nos benefícios em manutenção, eis que nenhuma das disposições aludidas obriga o reajustamento dos benefícios previdenciários quando da elevação do teto prestacional ou do teto contributivo. Nesse sentido decidiu recentemente a Turma de Uniformização dos Juizados Especiais Federais da 4ª Região:
+    ‘O reajuste do limite máximo do salário-de-contribuição, determinado pelas Emendas Constitucionais nº 20/1998 e nº 41/2003, não gera direito ao reajustamento das prestações previdenciárias pelo mesmo índice. (Incidente de Uniformização nº 2005.70.50.003559-3/PR, Rel. Juiz Federal Alexandre Gonçalves Lippel, DE 27.03.2007)’
+    De outra parte, não se pode dar guarida ao argumento da parte autora, no sentido de que, uma vez aplicados sobre os valores estampados nos arts. 14 da EC nº 20/98 e 5º da EC nº 41/2003, em junho de 1999 (MP nº 1.824/99) e abril de 2004 (Decreto nº 5.061/2004), respectivamente, o índice integral – ou seja, acumulado desde a revisão anterior, em junho de 1998 (4,61%) e junho de 2003 (4,53%) – e não o proporcional desde dezembro – 2,28% e 2,73 –, teria havido “abuso do poder regulamentar” e, portanto, haveria direito à incorporação da diferença sobre a renda mensal de seu benefício, à razão de 2,28% e 1,75%.
+    Em primeiro lugar, porque não houve o dito abuso. Com efeito, a par de proceder à elevação do limite máximo para o valor dos benefícios mantidos pelo RGPS, dispuseram as citadas emendas constitucionais que o valor apontado seria “atualizado pelos mesmos índices aplicados aos benefícios”, índices esses previstos, supervenientemente, nos arts. 2º da MP nº 1.824/99 e 1º do Decreto nº 5.061./2004. Portanto, é o raciocínio do postulante que teria o condão de, caso acolhido, impor o delineamento de situação jurídica violadora da Constituição: a adoção do índice proporcional dependeria de expressa previsão da norma, sem o que resta despida de fundamento a aplicação do critério pro rata, o mesmo utilizado para o reajustamento dos benefícios concedidos no período verificado desde a última correção, de acordo com as respectivas datas de início. Aliás, o equívoco reside justamente em se inserirem as inovações trazidas pelas reformas à Carta de 1988 na sequência materializada pela legislação ordinária até então, as quais encontram esteio no art. 201, parágrafo 4º, da Constituição, dispositivo esse que não serviu de âncora para a atuação do constituinte.
+    Em segundo lugar, ainda se houvesse ocorrido a ilegalidade, não geraria outro efeito senão a possibilidade de ser advogada a redução do limite máximo para fins de contribuição, ou seja, do “teto” do salário-de-contribuição, sendo inviável a extensão da majoração aos benefícios, conforme antes foi mencionado.
+    DISPOSITIVO
+    Em face do exposto, reconheço a incidência de prescrição quinquenal e julgo improcedente o pedido, resolvendo o mérito com base no art. 269, I, c/c 285-A, caput, do CPC.
+    Sem custas, deferida a AJG.
+    Havendo recurso, cite-se a parte ré para responder, no prazo de dez dias, remetendo os autos, oportunamente, à Turma Recursal (art. 285-A, par. 2º, do CPC).
+    Após o trânsito em julgado da sentença, dê-se baixa e arquivem-se. Publique-se.
+    Registre-se. Intimem-se.
+    GUSTAVO SCHNEIDER ALVES,
+    Juiz Federal Substituto na Titularidade Plena.”
+    Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula 284/STF: “[...] É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.” Nesse sentido: ARE 656.357-AgR, 2ª Turma, Rel. Min. Joaquim Barbosa, DJe 23.02.2012; AI 762.808-AgR, 2ª Turma, Rel. Min. Ayres Britto, DJe 30.3.2012; RE 356.310-AgR-segundo, 1ª Turma, Rel. Min. Dias Toffoli, DJe 11.10.2011; e RE 656.256-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 05.3.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REVISÃO DE ATO ADMINISTRATIVO. DECADÊNCIA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Torno sem efeito a decisão pela qual aplicado o art. 543-B do CPC e nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de abril de 2016.
+Ministra Rosa Weber
+Relatora
