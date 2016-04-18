@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra julgado do Tribunal de Justiça de Minas Gerais:
+    “APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO. EXASPERAÇÃO DA PENA-BASE EM RELAÇÃO AO PRIMEIRO DELITO. POSSIBILIDADE- DECOTE DA CAUSA DE DIMINUIÇÃO DESCRITA NO §4° DO ART-33 DA LEI ÂNTIDROGAS. NECESSIDADE. FIXAÇÃO DO REGIME ABERTO E SUBSTITUIÇÃO DA PENA CORPORAL INADMISSIBILIDADE. DADO PARCIAL PROVIMENTO AO APELO MINISTERIAL (1o). NEGADO PROVIMENTO AO RECURSO DEFENSIVO (2°). 1. Considerando que uma circunstância judicial foi sopesada em desfavor do acusado, suas reprimendas devem ser estabelecidas em patamar acima do mínimo legal. 2. Em razão da natureza e da elevada quantidade de drogas encontradas, evidenciada a dedicação do apelante à atividade criminosa relacionada ao tráfico de drogas, deve ser decotada a minorante prevista no §4° do art. 33 da Lei 11.343/06. 3. Na esteira da diretriz do STF, em que pese ser possível, a priori, a fixação de regime mais brando, in casu, a grande quantidade e natureza altamente lesiva de parte da droga apreendida justificam a manutenção do regime inicial fechado para desconto da pena corporal. 4. Ausentes os requisitos legais, não há que se falar em substituição da pena privativa de liberdade por restritivas de direitos. 5. Dado parcial provimento ao recurso ministerial (1º). Negado provimento ao apelo defensivo”.
+    2. Inadmitiu-se o recurso extraordinário sob os fundamentos de ausência de demonstração de repercussão geral, de inexistência de contrariedade direta à Constituição da República e de incidência das Súmulas ns. 279 e 284 do Supremo Tribunal Federal.
+    3. O Agravante reitera os fundamentos do recurso extraordinário, sem impugnar especificamente a decisão agravada.
+    No recurso extraordinário não se indica o dispositivo constitucional contrariado.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. O agravo não pode ter seguimento por não ter o Agravante impugnado os fundamentos da decisão agravada.
+     Este Supremo Tribunal assentou ser incabível o agravo no qual não se infirmam todos os fundamentos da decisão agravada:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287. AGRAVO IMPROVIDO. I - O agravo não atacou os fundamentos da decisão que inadmitiu o recurso extraordinário, o que o torna inviável, conforme a Súmula 287 do STF. Precedentes. II - Agravo regimental improvido” (ARE n. 654.292-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 25.10.2011).
+    “1. RECURSO. Embargos de declaração. Deficiência na fundamentação do recurso. Súmula 284. Embargos rejeitados. Há fundamentação deficiente de recurso, quando não revele correlação entre as suas razões e os fundamentos da decisão recorrida. 2. RECURSO. Embargos de declaração. Caráter meramente protelatório. Litigância de má-fé. Imposição de multa. Aplicação do art. 538, § único, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a oposição de embargos de declaração manifestamente protelatórios, deve o Tribunal condenar o embargante a pagar multa ao embargado” (RE n. 511.693-ED, Relator o Ministro Cezar Peluso, Segunda Turma, DJe 19.12.2008).
+    6. Pelo exposto, nego seguimento a este agravo (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+     Publique-se.
+    Brasília, 18 de abril de 2016.
+ Ministra CÁRMEN LÚCIA
+Relatora
