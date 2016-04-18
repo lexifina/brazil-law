@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL. ROUBO. CARRO FORTE. TERCEIRO ATINGIDO POR PROJÉTIL. DANO. IMPOSSIBILIDADE DE ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. DESCABIMENTO DO RECURSO PELA AL. C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, als. a e c, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Embargos infringentes. Cliente de supermercado atingido em ato de comércio por bala no tiroteio entre assaltantes e vigilantes do carro forte que recolhia malotes em horário de atendimento. Voto vencido que exclui o dano moral, o que não se cogita diante da lesão a direito de personalidade (integridade física). Embargos infringentes”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Agravante alega contrariedade ao art. 144 da Constituição da República, sustentando ser a segurança pública responsabilidade do Estado.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e de inexistência de contrariedade ao art. 102, inc. III, al. c, da Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. A apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie vertente (Código Civil) e o reexame do conjunto fático-probatório do processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário e atrair a incidência da Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Responsabilidade civil do estado. Indenização por danos morais e materiais. Assalto a posto de pedágio. Atuação negligente da concessionária de serviço público. 4. Acórdão recorrido em consonância com a jurisprudência da Corte. Necessidade de revolvimento do conjunto fático-probatório dos autos. Impossibilidade. Incidência do Enunciado 279 da Súmula do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE n. 829.118-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 23.9.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. ASSALTO NO INTERIOR DE TRANSPORTE COLETIVO. VERIFICAÇÃO DA OCORRÊNCIA DO NEXO DE CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF” (ARE n. 776.656-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 2.4.2014).
+    6. Tampouco se viabiliza o extraordinário pela al. c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válidos lei ou ato de governo local contestados em face da Constituição da República. Incide na espécie a Súmula n. 284 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PRÊMIO DE PRODUTIVIDADE. 1. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL (SÚMULA 280). OFENSA CONSTITUCIONAL INDIRETA. 2. O TRIBUNAL A QUO NÃO JULGOU VÁLIDA LEI OU ATO DE GOVERNO LOCAL CONTESTADO EM FACE DA CONSTITUIÇÃO. INADMISSIBILIDADE DO RECURSO PELA ALÍNEA C DO ART. 102, INC. III, DA CONSTITUIÇÃO DA REPÚBLICA (SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n. 763.681-AgR, de minha relatoria, Primeira Turma, DJe 13.11.2009).
+    “Recurso extraordinário. - Inocorrência da hipótese prevista na alínea ‘c’ do inciso III do artigo 102 da Constituição Federal. Falta de fundamentação, por isso mesmo, a esse respeito. Aplicação da Súmula 284” (RE n. 148.355, Relator o Ministro Moreira Alves, Primeira Turma, DJ 5.3.1993).
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de abril de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
