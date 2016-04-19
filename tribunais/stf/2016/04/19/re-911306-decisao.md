@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (eDOC 10, p. 1):
+    “PROCESSUAL CIVIL – APELAÇÃO CÍVEL JULGADA – RECURSO EXTRAORDINÁRIO INTERPOSTO – REVISÃO DE ACÓRDÃO DETERMINADA PELO ART. 543-B, § 3º, DO CPC, PARA EVENTUAL RETRATAÇÃO, EM VIRTUDE DE DECISÃO CONTRÁRIA DO SUPREMO TRIBUNAL FEDERAL TOMADA EM RECURSOS REPETITIVOS SOBRE A MATÉRIA – ALEGAÇÃO DE POSSÍVEL OFENSA AO ENTENDIMENTO PROFERIDO EM REPERCUSSÃO GERAL NO RECURSO EXTRAORDINÁRIO N. 705140/RS – NÃO OCORRÊNCIA – DISCUSSÃO ACERCA DA ADMISSÃO DE SERVIDOR EM CARÁTER TEMPORÁRIO – PRETENSÃO AO RECEBIMENTO DE VERBAS DO REGIME CELETISTA – IMPOSSIBILIDADE – CONTRATO SUBMETIDO AO REGIME ADMINISTRATIVO ESPECIAL – AGENTE DE SERVIÇOS GERAIS (COORDENADOR DE ALUNOS) – FORMA DE CONTRATAÇÃO PREVISTA NA CONSTITUIÇÃO FEDERAL E NA LEGISLAÇÃO ESTADUAL – DIREITO ÀS VERBAS ESTATUTÁRIAS QUE NÃO ENGLOBAM O PAGAMENTO DO FGTS – MANUTENÇÃO DO JULGADO.
+    O fato de o contrato ter vigorado por longo tempo ‘não altera a natureza jurídica de cunho administrativo que se estabelece originalmente’ (STF – Rcl 7157 AgR/MG, Rel. Ministro Dias Toffoli). Ainda que o contrato por prazo determinado fosse considerado nulo ou irregular, o contratado faria jus apenas às verbas do regime administrativo especial, devidas pela contraprestação do serviço, mas nada poderia exigir com fundamento na Consolidação das Leis do Trabalho, porque esta não se aplica aos servidores contratados para trabalho temporário.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º; 7º, III, XXI e XXIII; e 37, II e IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “no caso em apresso, não esta demonstrada a excepcionalidade, tendo em vista que o requerente era contratado ano após ano, consecutivamente, não se tratando mais de excepcionalidade, mas de necessidade do ente público, que deveria assim, preencher as vagas mediante concurso, conforme determina a carta magna.” (eDOC 7, p. 7).
+    Aduz-se, ainda, que “o ente público foi beneficiado com o labor do recorrente, valendo-se de forma irregular da mão de obra, sem a prestação pecuniária correspondente, tornando assim a situação cômoda ao Estado, que exime-se de pagar as vantagens decorrente da contratação via concurso público.” (eDOC 7, p. 7).
+    A 2ª Vice-Presidência do TJ/SC admitiu o recurso extraordinário. (eDOC 13. p. 1).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o tribunal de origem, quando do julgamento, assim asseverou (eDOC 5, p. 10):
+    “Portanto, as disposições da Lei Estadual n. 8.391, de 13/11/1991, que dispõe sobre a admissão de pessoal em caráter temporário sob regime administrativo especial, no âmbito do Magistério Público Estadual, se aplicam, no que couber, ao contrato de trabalho firmado entre as partes, por força do § 2º do art. 5º, da Lei Complementar Estadual n. 46/1992.
+    Logo, não há dúvida alguma de que o apelante, durante a vigência do contrato de trabalho, se submetia ao regime administrativo especial, e não às normas da Consolidação das Leis do Trabalho (CLT), o que afasta o alegado direito ao percebimento de verbas decorrentes do regime celetista.”
+    Constata-se, assim, que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o exame das provas dos autos e da legislação infraconstitucional aplicável à espécie (Lei Complementar Estadual 46/1992 e Lei Estadual 8.391/1991), o que inviabiliza o processamento do apelo extremo, nos termos das Súmulas 279 e 280 do STF.
+    Ademais, o Tribunal recorrido considerou o caso ora analisado distinto da situação debatida na ocasião do julgamento do RE 705.140 (Tema 308). Entendeu-se que o recorrente não é subordinado a contrato de trabalho nulo, pelo contrário, sujeita-se ao regime jurídico estatutário, e dessa forma, regido pelo Estatuto dos Servidores local.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 19 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
