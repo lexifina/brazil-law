@@ -1,0 +1,13 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Luiz Everton Reis Moura afirma haver o Juízo da 17ª Vara Federal da Seção Judiciária de Pernambuco, na ação penal nº 70-21.2015.4.05.8308, no pedido de prisão preventiva e busca e apreensão nº 71-06.2015.4.05.8308 e no incidente de insanidade mental nº 77-13.2015.4.05.8308, usurpado a competência do Supremo.
+    Segundo narra, figura como réu na ação penal nº 70-21.2015.4.05.8308, na qual é acusado da prática dos crimes previstos nos artigos 138 (calúnia), 139 (difamação), 140 (injúria) e 344 (coação no curso do processo) do Código Penal. Aponta, no cumprimento de diligências, a apreensão de documento intitulado “A Conciliação”, cujo teor ofenderia os membros da magistratura vinculados ao Tribunal Regional Federal da 5ª Região. Transcreve trechos do referido documento. Reporta-se à nota de esclarecimento veiculada pela Justiça Federal em Pernambuco. Menciona manifestações da Associação dos Juízes Federais da 5ª Região e da Associação dos Juízes Federais do Brasil no tocante à própria prisão. Conclui pela existência de interesse dos membros do Judiciário Federal relativamente ao desenlace da ação penal formalizada contra si e demais incidentes, do que decorreria a competência originária do Supremo.
+    Não alude ao requisito do risco.
+    Requer, em sede liminar, a suspensão dos atos que implicaram a custódia e o recebimento da denúncia contra si formulada, bem assim do curso da ação penal, e o afastamento do magistrado responsável pelo processo na 17ª Vara Federal de Pernambuco. Busca, alfim, a anulação dos citados pronunciamentos e o envio do caso ao Supremo.
+    2. É imprópria a irresignação. A competência do Supremo é de direito estrito, descabendo elastecê-la para além do que consignado na Constituição Federal. O caso não se enquadra em nenhum dos incisos do artigo 102 da Carta da República, no que evidenciado não caber ao Tribunal, originariamente, atuar na ação penal e nos incidentes conexos iniciados perante a Justiça Federal em Pernambuco. Além de o reclamante não ocupar nenhum dos cargos mencionados nas alíneas “b” e “c” do inciso I do artigo 102 da Lei Maior, não se faz em jogo, presente a redação da subsequente alínea “n”, interesse de todos os membros da magistratura, senão o do próprio reclamante de ter a verdade por si proclamada reconhecida no campo da persecução criminal.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 19 de abril de 2016.
+Ministro MARCO AURÉLIO
+Relator
