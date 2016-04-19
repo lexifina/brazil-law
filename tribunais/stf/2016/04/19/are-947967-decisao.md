@@ -1,0 +1,34 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. RECURSO DE AGRAVO. MILITAR. DIREITO A DUAS PROMOÇÕES NA PASSAGEM PARA INATIVIDADE. PROVENTOS COM BASE EM GRAU HIERARQUICO SUPERIOR. MANUTENÇÃO DA DECISÃO TERMINATIVA POR SEUS PRÓPRIOS FUNDAMENTOS. NÃO PROVIMENTO DO AGRAVO.
+    Trata-se de Recurso de Agravo interposto por José Assis de Amorim, em face de decisão terminativa (fls. 58/59) desta Relatoria, que negou seguimento ao recurso de apelação.
+    Em síntese, a recorrente busca rediscutir toda a matéria já tratada em sede de recurso de apelação. Alega a recorrente (fls. 64/81) que, de acordo com a Súmula 51 do STF, teria direito a duas promoções na passagem para inatividade, ou seja, para o posto de 2º Sargento PM.
+    Sustenta, ainda, que houve ofensa ao direito adquirido e ao princípio da legalidade. Requer, ainda, a declaração incidental da inconstitucionalidade do §2º, artigo 171 da emenda constitucional 16/99. Por fim, defende que o não pagamento dos proventos com base em grau hierárquico superior teria gerado direito à indenização por danos materiais e morais. Por fim, defende que o não pagamento dos proventos com base em grau hierárquico superior teria gerado direito à indenização por danos materiais e morais.
+    O presente recurso de Agravo não merece ser provido, pois os argumentos trazidos pela recorrente são insuficientes para modificar a decisão agravada, a qual deve ser mantida.
+    Com efeito, foi assegurada a todos os militares inativos a percepção da remuneração correspondente ao posto ou graduação imediatamente superior ao que ocupava em atividade. Embora o enunciado da Súmula 51 do STF, permita até duas promoções no que pertine aos militares, a legislação estadual que regula a matéria não dá ensejo a dupla promoção como pretende a recorrente.
+    O pedido de indenização por danos materiais e morais não merece prosperar visto que não houve configuração de ato ilegal por parte do recorrido, o qual efetuou corretamente o pagamento dos proventos da recorrente.
+    Quanto ao requerimento de declaração incidental de inconstitucionalidade do §2º, art. 171 da Emenda Constitucional 16/99, entendo que este não deve ser apreciado em razão da vedação à inovação recursal, visto que a declaração não foi peticionada em momento oportuno.
+    Por unanimidade, negou-se provimento ao agravo, nos termos do voto do Relator, mantendo-se a decisão terminativa concedida no bojo da apelação nº 028560-9.”
+    Embargos de declaração desprovidos.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37, caput, XV, § 6º da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, o direito de receber os proventos referentes a duas graduações superiores a que exercia na ativa, antes de passar para a inatividade.
+    A Presidência do TJPE inadmitiu o recurso por ausência de repercussão geral, e, ainda, com base no enunciado da Súmula 280 do STF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De fato, verifico a ausência de preliminar de repercussão geral na petição do recurso extraordinário, pressuposto de admissibilidade do referido recurso (fls. 349-356).
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 06.09.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 03.05.2007, data da publicação da Emenda Regimental 21 do STF.
+    Ademais, alegações vagas e genéricas acerca da transcendência subjetiva da demanda, como é o caso, não cumprem o preconizado nos dispositivos legais do CPC que regulamentam à matéria e tampouco no art. 102, § 3º, da Constituição Federal, à luz da função de Corte Constitucional desempenhada pelo Supremo Tribunal Federal.
+    Mesmo que assim não fosse, convém reproduzir o assentado pelo Tribunal de origem:
+    “No caso em tela, tem espaço as disposições trazidas pela LC  nº 59/04, haja vista a relação jurídica objeto da lide ser de trato sucessivo, e, portanto, passível de receber influência dos atos normativos supervenientes.
+    Neste contexto, percebe-se que a citada lei complementar é expressa, no §2º do art. 21, em aplicar o disposto no seu caput aos militares que tenham sido reformados ou transferidos para a reserva remunerada no mesmo posto ou graduação que ocupavam em atividade. Com efeito, foi assegurada a todos os militares inativos a percepção da remuneração correspondente ao posto ou graduação imediatamente superior ao que ocupava em atividade.
+    In casu, o autor/apelado, então ‘Cabo PM’, foi reformado no posto exatamente superior ao que ocupava na ativa – ‘3º Sargento PM’, conforme se observa da Portaria-FUNAPE nº 2643 de 28/08/2009, fls. 23, razão pela qual, com base no regramento supra, corresponde a remuneração correspondente ao posto ou graduação imediatamente superior a que ocupava em atividade.
+    Impende destacar que, no que concerne às disposições da referida Lei nº 10.426/90, não houve qualquer ressalva na lei complementar mencionar apta a justificar a exclusão dos militares reformados sob a sua égide. Vê-se, por conseguinte, que a mens legis foi a de beneficiar todos os militares, unificando o tratamento para os inativos.
+    O adventos da LCE 59/04, como dito alhures, assegurou aos militares a percepção da remuneração correspondente ao posto ou graduação imediatamente superior ao que ocupava em atividade, com reflexos financeiros contados a partir da vigência daquela lei.
+    Desta feita, a legislação aplicável ao caso em exame é justamente a Lei Complementar nº 59/04 e não a Lei 2.370/54 como quer fazer crer o apelante, esta última é aplicável somente aos militares do Exército, Marinha e Aeronáutica.”
+    Sendo essas as razões acolhidas para solucionar a lide, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo, notadamente sobre a questão envolvendo se o militar faz jus ou não a remuneração de posto imediatamente superior ao que se deu a aposentação, demandaria o reexame de fatos e provas e o exame da legislação local (Lei Complementar nº 59/04 e Lei 2.370/54), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    A esse respeito, confiram-se os seguintes precedentes: ARE 850.308-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 07.04.2015, e ARE 803.540-AgR, Rel. Min. Roberto Barroso, Segunda Turma, DJe de 29.05.2014.
+    Ante o exposto, nego seguimento ao recurso, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 19 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
