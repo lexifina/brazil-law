@@ -1,0 +1,13 @@
+Decisão: Trata-se de Agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL. ADMINISTRITATIVO. SERVIDOR PÚBLICO. INATIVOS E PENSIONISTAS. PARIDADE DE VENCIMENTOS. GRATIFICAÇÃO DE CARÁTER GERAL. GDATA. GDPGTAS. GDPGE. RECURSO IMPROVIDO.”
+    Acerca da controvérsia posta em juízo, o Supremo Tribunal Federal, no julgamento do RE-RG 597.154, de Relatoria do Min. Presidente, DJe 29.05.2009 (Tema 153); RE-RG 631.389, de Relatoria do Min. Marco Aurélio, Dje 18.02.2011 (Tema 351); e, RE-RG 633.933, de Relatoria do Ministro Presidente, Dje 01.09.2011 (Tema 410), reconheceu a existência de repercussão geral sobre a questão relativa à extensão, em relação aos servidores inativos, dos critérios de cálculo da GDATA, GDPGPE e GDPGTAS, respectivamente, estabelecidos para os servidores em atividade.
+    Reproduz-se o teor da ementa dos julgados:
+    “1. Questão de ordem. Repercussão Geral. Recurso Extraordinário. 2. GDATA e GDASST. 3. Servidores inativos. Critérios de cálculo. Aplicação aos servidores inativos dos critérios estabelecidos aos ativos, de acordo com a sucessão de leis de regência. 4. Jurisprudência pacificada na Corte. 5. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do tribunal, desprover o recurso, autorizar a devolução aos tribunais de origem dos recursos extraordinários e agravos de instrumento que versem sobre o mesmo tema e autorizar as instâncias de origem à adoção dos procedimentos do art. 543-B, § 3º, do Código de Processo Civil.”
+    “ISONOMIA – SERVIDORES PÚBLICOS ATIVOS E INATIVOS – PARCELA REMUNERATÓRIA. Possui repercussão geral a controvérsia sobre a obrigatoriedade, ou não, de estender aos inativos e pensionistas a Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo – parcela remuneratória prevista na Lei nº 11.357/2006 e paga aos servidores em atividade.”
+    “Extraordinário. Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte – GDPGTAS. Critérios de cálculo. Extensão. Servidores públicos inativos. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso improvido. É compatível com a Constituição a extensão, aos servidores públicos inativos, dos critérios de cálculo da Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte – GDPGTAS estabelecidos para os servidores públicos em atividade.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 19 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
