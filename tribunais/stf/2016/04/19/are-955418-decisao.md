@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPTU. SINDICATO. CONTROVÉRSIA QUANTO AO PREENCHIMENTO DOS REQUISITOS LEGAIS PARA O ENQUADRAMENTO DE PESSOA JURÍDICA COMO ENTIDADE IMUNE. DISCUSSÃO A RESPEITO DA DESTINAÇÃO DO BEM IMÓVEL. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS E REEXAME DE MATÉRIA FÁTICA. INVIABILIDADE EM SEDE EXTRAORDINÁRIA. SÚMULA 279 DO STF. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – IPTU – IMUNIDADE – ART. 150, INC. VI, ALÍNEA ‘C’, DA CF E ART. 9º, ALÍNEA ‘C’ DO CTN – PROVA PRÉ CONSTITUÍDA EXISTENTE – PREENCHIMENTO DOS REQUISITOS CONSTANTES NO ART. 14 DO CTN – PARECER DA PROCURADORIA MUNICIPAL QUE RECONHECE A IMUNIDADE DA APELADA EM 2005 – DOCUMENTOS PRESENTES NOS AUTOS QUE SÃO CLAROS QUANTO A POSSIBILIDADE DE IMUNIDADE DO IMÓVEL – IMUNIDADE RECONHECIDA REFERENTE AO PERÍODO DE 2010 – REPETIÇÃO DE INDÉBITO EM MANDADO DE SEGURANÇA – IMPOSSIBILIDADE – SENTENÇA REFORMADA E SEGURANÇA PARCIALMENTE CONCEDIDA – RECURSO PROVIDO.”
+    Nas razões do apelo extremo, o Município sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, LXIX; e 150, VI, c, e § 4º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a análise da matéria demandaria o reexame do conjunto fático-probatório.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    O Tribunal de origem entendeu que estariam preenchidos os requisitos do artigo 14 do CTN e que o bem imóvel sobre o qual se pretende cobrar o IPTU estaria destinado às finalidades essenciais do sindicato ora recorrido. Conclusão diversa, no sentido da ausência de satisfação dos requisitos legais para o enquadramento do recorrido como entidade imune e do desvio de finalidade do bem, demandaria a interpretação da legislação infraconstitucional de regência e o reexame do quadro fático-probatório dos autos, o que é vedado na via estreita do recurso extraordinário. Incide, in casu, o óbice da Súmula 279 do STF, que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental em recurso extraordinário. Tributário. Imunidade. Entidade beneficente de educação (art. 150, VI, a, CF). Destinação dos bens. Revolvimento de fatos e provas. Súmula nº 279/STF.
+    1. A Corte já firmou entendimento quanto à imunidade das entidades privadas de serviço social e de formação profissional. Precedentes.
+    2. Para fins de declaração de imunidade tributária das entidades beneficentes de educação sem fins lucrativos, descabe, em sede de recurso extraordinário, rediscutir questões atinentes ao ônus da prova, bem como verificar a finalidade para a qual foi destinado o bem. O caso em tela enseja reexame de fatos e provas, o que é inviável em sede de recurso extraordinário, a teor da Súmula nº 279/STF.
+    3. Agravo regimental não provido.” (RE 634.447-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 7/6/2013)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMUNIDADE. IPTU. LOCAÇÃO DE IMÓVEL. INCIDÊNCIA DA SÚMULA 724 DO STF. VERIFICAÇÃO DO PREENCHIMENTO DOS REQUISITOS LEGAIS. IMPOSSIBILIDADE. SÚMULA 279. TAXA DE LIMPEZA PÚBLICA. INCONSTITUCIONALIDADE. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+    I – O Tribunal a quo não divergiu da jurisprudência desta Corte, a qual firmou-se no sentido de que a imunidade tributária prevista no art. 150, VI, c, da Constituição, aplica-se aos imóveis alugados a terceiros, desde que o valor dos aluguéis seja aplicado nas atividades essenciais de tais entidades.
+    II – Para dissentir do acórdão recorrido no que concerne à destinação do imóvel objeto da lide, bem como a discussão acerca do preenchimento dos requisitos legais necessários ao reconhecimento da imunidade, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    III – Esta Corte firmou entendimento no sentido da inconstitucionalidade da cobrança da taxa de limpeza pública, uma vez que não há a individualização dos serviços postos à disposição ou prestados, além de existir identidade com a base de cálculo de imposto. Precedentes.
+    IV – Agravo regimental improvido.” (AI 848.281-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 4/10/2011)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 19 de abril de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
