@@ -1,0 +1,34 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão, proferido no âmbito do Superior Tribunal Militar (APF nº 0000081-45.2014.7.04.0004), que manteve a condenação do paciente.
+    Narra o impetrante que: a) o paciente foi condenado pela prática do crime previsto no artigo 290, do Código Penal Militar (tráfico de drogas); b) a defesa constituída que precedeu à Defensoria Pública da União teria deixado de apontar diversos vícios processuais que ensejariam a absolvição, ou mesmo o retrocesso da marcha processual; c) em razão da inércia da defesa técnica, o paciente teria sofrido prejuízos que culminaram na consolidação do édito condenatório.
+    É o relatório. Decido.
+    1. Cabimento do habeas corpus:
+    O sistema de recursos e meios de impugnação previsto na Constituição Federal, lida enquanto regra de distribuição de competências, tem uma razão de ser. Nessa ótica, não há como se admitir habeas corpus impetrado em substituição a instrumento recursal constitucionalmente previsto, como são os recursos ordinário e extraordinário . Nesse sentido:
+    A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal. (Min. ROBERTO BARROSO, Primeira Turma, julgado em 04/08/2015, grifei ).
+    A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus em substituição ao recurso extraordinário , previsto no art. 102, III, da Constituição Federal. (HC 126934 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 28/04/2015, grifei )
+    No caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merece conhecimento, na medida em que funciona como sucedâneo de instrumento recursal constitucionalmente previsto, qual seja o recurso ordinário.
+    2. Possibilidade de concessão da ordem de ofício:
+    Ainda que ausentes hipóteses de conhecimento, a Corte tem admitido, excepcionalmente, a concessão da ordem de ofício.
+    Calha enfatizar que tal providência tem sido tomada tão somente em casos absolutamente aberrantes e teratológicos, em que “a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF” (HC 95009, Rel. Min. Eros Grau, Tribunal Pleno, julgado em 06/11/2008, grifei).
+    Devido ao caráter excepcional da superação do verbete sumular, a ilegalidade deve ser cognoscível de plano, sem a necessidade de produção de quaisquer provas ou colheita de informações. Nesse sentido, não pode ser atribuída a pecha de flagrante à ilegalidade cujo reconhecimento demande dispendioso cotejamento dos autos ou, pior, que desafie a complementação do caderno processual por meio da coleta de elementos externos.
+    Como reforço, cumpre assinalar que o Código de Processo Penal, ao permitir que as autoridades judiciárias concedam a ordem de ofício em habeas corpus, apenas o fez quanto aos processos que já lhes são submetidos à apreciação:
+    “Art. 654. (…)
+    (…)
+    § 2o Os juízes e os tribunais têm competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.”
+    De tal modo, ao meu sentir, não se admite que o processo tenha como nascedouro, pura e simplesmente, a alegada pretensão de atuação ex officio de Juiz ou Tribunal, mormente quando tal proceder se encontra em desconformidade com as regras de competência delineadas na Constituição da República. Em outras palavras: somente se cogita da expedição da ordem de ofício nas hipóteses em que não se desbordar da competência do órgão, de modo que essa não pode ser a finalidade precípua da impetração.
+    3. Análise da possibilidade de concessão da ordem de ofício no caso concreto:
+    No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Inicialmente, registro que a existência de efetivo prejuízo, “a teor do art. 563 do CPP, é essencial à alegação de nulidade, seja ela relativa ou absoluta, eis que (…) o âmbito normativo do dogma fundamental da disciplina das nulidades pas de nullité sans grief compreende as nulidades absolutas” (HC 85.155/SP, Rel. Min. Ellen Gracie).
+    À obviedade, a hígida formação da coisa julgada não pressupõe o esgotamento das possibilidades de interposição de todos os recursos e impugnações imagináveis. Em verdade, resguarda-se à defesa a escolha, à luz de seu próprio convencimento, da forma mais conveniente do exercício defensivo em sua plenitude, forte na voluntariedade que caracteriza a oposição e interposição de recursos, bem como as arguições de eventuais nulidades.
+    Nesse contexto, incide a Súmula 523/STF, que enuncia que “No processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu.”
+    Esse gravame não se traduz, simplesmente, a partir da condenação. É imperioso que o interessado evidencie certo nexo causal entre a suposta irregularidade e o resultado da ação penal, bem como que indique, ao menos de forma indiciária, a possibilidade efetiva de reversão do julgamento se ausente a nulidade ventilada. Na mesma linha:
+    “Ademais, o reconhecimento de nulidade dos atos processuais demanda, em regra, a demonstração do efetivo prejuízo causado à defesa técnica. Vale dizer, o pedido deve expor, claramente, como o novo ato beneficiaria o acusado. Sem isso, estar-se-ia diante de um exercício de formalismo exagerado, que certamente comprometeria o objetivo maior da atividade jurisdicional. (HC 119372, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 04/08/2015)”
+    Esse ônus é acentuado nas hipóteses em que os atos não praticados são disponíveis, como a indicação de testemunhas e a realização de sustentação oral, que não constituem desdobramento necessário e indispensável do devido processo legal.
+    No caso concreto, o impetrante limita-se a apontar a suposta “fragilidade” da defesa exercitada, sem indicar, de forma pormenorizada, quais medidas efetivamente deveriam ter sido praticadas e qual o prejuízo concreto decorrente da inércia da defesa técnica.
+    Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF, ou de flagrante hipótese de constrangimento ilegal, descabe conceder a ordem de ofício.
+    Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 19 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
