@@ -1,0 +1,40 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Rodrigo de Oliveira Kaufmann e outros, em favor de Stalin Passos, contra acórdão da Quinta Turma do Superior Tribunal de Justiça (STJ) no Agravo em Recurso Especial n. 311.775/SC.
+    Na espécie, o paciente foi denunciado pela prática, em tese, dos delitos descritos nos arts. 297, § 1º, c/c art. 29, caput, do CP (por 2 vezes); 297, § 1º, do CP (por 8 vezes); 299, parágrafo único, c/c art. 29, caput, do CP (por 3 vezes) e 299, parágrafo único, do CP (por 3 vezes) falsificação de documento público e falsificação ideológica, com aumento de pena em razão de o delito ter sido praticado por funcionário público.
+    Após regular trâmite da instrução processual, a denúncia foi julgada parcialmente procedente e o réu condenado pela prática dos delitos descritos nos artigos 297, § 1º, por nove vezes, c/c 71, caput, e 299, parágrafo único, por cinco vezes, c/c art. 71, caput, todos do CP, ambos c/c art. 69, caput , do CP, à pena de 6 anos, 4 meses e 6 dias de reclusão, em regime inicial semiaberto, além do pagamento de 196 dias-multa.
+    Irresignada, a defesa interpôs apelação perante o Tribunal de Justiça do Estado de Santa Catarina (TJ/SC), que deu parcial provimento ao recurso para reconhecer a prescrição da pretensão punitiva quanto à imputação do crime de falsidade ideológica em relação às matrículas n. 03300, 11089 e 7045, e readequar a pena final em 5 anos, 3 meses e 14 dias de reclusão, além de 121 dias-multa, mantido o regime inicial semiaberto.
+    Opostos embargos de declaração, estes foram rejeitados.
+    Ainda inconformada, a defesa interpôs os recursos extraordinário e especial, os quais foram obstados na origem.
+    Em face da decisão prolatada pelo 2º Vice-presidente do TJ/SC, foram interpostos agravos perante o STJ e o STF.
+    A Ministra Laurita Vaz, relatora do AREsp. n. 311.775/SC, negou seguimento ao recurso.
+    Dessa decisão, a defesa interpôs agravo regimental, o qual restou não provido.
+    Opostos ainda embargos de declaração, foram rejeitados por unanimidade.
+    O ARE 839.680/SC, distribuído ao Min. Dias Toffoli, teve seguimento negado em 8.6.2015. O agravo regimental encontra-se pendente de julgamento.
+    No presente writ, a defesa insiste no reconhecimento da redução do prazo prescricional pela metade, conforme o art. 115 do CP. Pleiteia, também, a absolvição em razão da suposta ausência de prova dos fatos imputados ao réu.
+    Liminar indeferida em 31.10.2014.
+    A Procuradoria-Geral da República manifestou-se pela denegação da ordem.
+    Em 16 de março de 2015, a defesa protocolou petição reiterando o pedido de reconhecimento da prescrição.
+    Destacou a iminência de prisão do paciente tendo em vista o recente julgamento pelo Plenário do STF do HC n. 126.292/SP, de relatoria do Min. Teori Zavascki, que autorizou o início da execução da pena após a manutenção da sentença penal pela segunda instância.
+    Novamente indeferi o pedido formulado, considerando que a melhor apreciação caberia ao Colegiado e ressaltando também julgado desta Turma, de relatoria do Ministro Teori Zavascki, no sentido contrário ao postulado pela defesa (RHC 125.565, DJe 17.6.2015).
+    Registro que, desde a petição inicial, os impetrantes noticiaram a anterior distribuição do Agravo em Recurso Extraordinário ao Ministro Dias Toffoli.
+    Ocorre que, somente após o segundo indeferimento do pedido liminar e a apresentação do feito em mesa para julgamento, a defesa suscita incidente relativo à distribuição, mencionando que o ARE 839.680 (rel. Min. Dias Toffoli) e o presente writ são provenientes da mesma ação penal na origem (0004564-40.2006.8.24.0125).
+    Em 12.4.2016, a defesa comunicou a concessão de liminar no HC n. 10000301.28.2016.8.24.0000, do TJ/SC, que suspendeu a execução provisória da pena e recolheu o mandado de prisão expedido em desfavor do paciente.
+    Na presente data, o paciente peticionou requerendo a desistência e extinção do processo.
+    O processo estava pronto para julgamento (incluído na sessão da Segunda Turma de 19.4.2016).
+    Cumpre registrar que somente após o segundo indeferimento do pedido liminar e a apresentação do feito para julgamento (em 12.4.2016 e em 19.4.2016), sobreveio pleito de homologação de desistência do writ.
+    Não obstante o pedido de homologação de desistência, anoto meu entendimento a respeito da controvérsia.
+    Como bem assentou o Min. Teori Zavascki, no julgamento do RHC 125.565/DF, a expressão sentença, mencionada no art. 115 do Código penal, deve ser entendida como a primeira decisão de mérito condenatória proferida no processo.
+    Aqui entendo ser necessário tecer alguns esclarecimentos quanto à alegação da defesa no sentido de que, com o julgamento pelo Pleno do STF dos Embargos de Declaração na Ação Penal n. 516/DF, a interpretação do art. 115 do CP há de ser feita considerando-se a idade do acusado, não na data do pronunciamento do Juízo, mas naquela em que o título executivo penal condenatório se torne imutável na via do recurso.
+    No julgamento do RHC 125.565/DF (cujo tema foi idêntico ao julgado nestes autos prescrição da pretensão punitiva réu com idade superior a 70 anos após a sentença condenatória e antes do trânsito em julgado) , o relator, Ministro Teori Zavascki (Segunda Turma, sessão de 5.5.2015, DJe 20.5.2015), destacou não haver similitude fática a justificar a aplicação da solução jurídica adotada no julgamento da Ação Penal n. 516.
+    Para tanto, citou excertos do voto de desempate proferido pelo Ministro Celso de Mello, que bem delimitou as particularidades daquele caso.
+    Conforme bem mencionou o Ministro Teori Zavascki no julgamento do RHC 125.565/DF, também entendo que a redução do prazo prescricional prevista no art. 115 do CP é aplicável ao agente maior de 70 anos na data da sentença, e não na data em que o título executivo penal condenatório se tornou imutável. A jurisprudência firmada pelo STF em casos análogos é firme nesse sentido: AI 844.400 AgR/RS, Rel. Min. Rosa Weber, 1ª Turma, DJe 8.5.2012; HC 86.320, Rel. Min. Ricardo Lewandowski; HC 71.711, Rel. Min. Carlos Velloso; AI 394.065-AgR-ED-ED, de minha relatoria; HC 96.968/RS, Rel. Min. Ayres Britto, DJe 5.2.2010; HC 86.320/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJ 24.11.2006.
+    Colhe-se da ementa dos Embargos de Declaração na Ação Penal n. 516 a referência a apenas um julgado no sentido contrário: HC 89.969/RJ, rel. Min. Marco Aurélio.
+    Também, as particularidades do caso que conduziram os Ministros do STF à conclusão de se reconhecer a prescrição da pretensão punitiva naquela ação penal foram descritas acima (o acusado completou 70 anos no dia seguinte ao do julgamento e o fato da decisão dos embargos declaratórios possuir função integrativo-retificadora e complementar: discutiu-se a extinção da punibilidade em virtude do pagamento do débito tributário).
+    No caso dos autos, na data da publicação da sentença condenatória, o paciente contava com 69 anos de idade. Só veio a completar 70 anos 4 meses depois. Pelo que não há como aplicar a causa de redução do prazo prescricional a que se refere o art. 115 do CP, pois, segundo jurisprudência de ambas as Turmas e entendimento doutrinário respeitável (Guilherme de Souza Nucci, Paulo Queiroz, André Estefam), a redução não opera quando, no julgamento da apelação, o Tribunal confirma a condenação.
+    A redução do prazo prescricional aplica-se apenas àqueles que, na data da primeira decisão condenatória (seja sentença ou acórdão), já tenham completado 70 anos de idade, o que não se verifica na hipótese dos autos.
+    Por fim, não havendo impedimentos legais, homologo, para que produza seus efeitos jurídicos, o pedido de desistência do presente HC apresentado pelo paciente, nos termos do artigo 21, inciso VIII, do RI/STF.
+    Determino, por conseguinte, a extinção do processo sem resolução do mérito, conforme o art. 267, inciso VIII, do CPC.
+    Publique-se.
+    Brasília, 19 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
