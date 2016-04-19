@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário, sob o fundamento de que não houve “violação direta a nenhum artigo da Constituição Federal”.
+    Na instância ordinária, o acórdão do Tribunal de Justiça do Estado de São Paulo negou provimento ao agravo de instrumento contra decisão que, em cumprimento de sentença, indeferiu o pedido da parte recorrente de que fosse reconhecida a existência de limite temporal à percepção de vantagens incorporadas pelo recorrido.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte alega violação aos arts. 5º, XXXVI; e 37, X, da Constituição. Sustenta, em síntese, que o acórdão do Tribunal de origem vai de encontro ao decidido no RE 596.663-RG.
+    Após detida análise dos autos, conclui-se que o entendimento adotado pelo Tribunal de origem merece reforma, uma vez que não está alinhado com a jurisprudência do Supremo Tribunal Federal, que, em julgamento realizado sob regime de repercussão geral, decidiu que a sentença que reconhece ao trabalhador ou servidor o direito a determinado percentual de acréscimo remuneratório deixa de ter eficácia a partir da superveniente incorporação definitiva do referido percentual nos seus ganhos (RE 596.663, Relator p/o acórdão o Ministro Teori Zavascki).
+    No citado paradigma, firmou-se o entendimento de que, tratando-se de relação jurídica de trato continuado, a eficácia temporal da sentença permanece enquanto se mantiverem inalterados os pressupostos fáticos e jurídicos que lhe serviram de suporte (cláusula rebus sic stantibus).
+    Dessa orientação divergiu o acórdão recorrido que, com fundamento em jurisprudência do Tribunal de origem, decidiu que, havendo coisa julgada, é irrelevante o argumento quanto à superveniência da Lei Complementar nº 1.197/2013, que determinou a absorção dos valores do ALE nos vencimentos integrais das carreiras das Polícias Civil, Militar e dos Agentes de Segurança Penitenciária.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou parcial provimento ao recurso, a fim de que seja aplicado ao caso o entendimento assentado pelo RE 596.663-RG, devendo o Tribunal de origem apreciar se houve ou não modificação nos pressupostos fáticos e jurídicos que serviram de suporte à coisa julgada.
+    Publique-se.
+                Brasília, 19 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
