@@ -57,3 +57,4 @@ III - abertura de filial.
 § 22. Fica vedado às concessionárias de serviço público o aumento das tarifas pagas pelo MEI por conta da modificação da sua condição de pessoa física para pessoa jurídica.
 § 23. (VETADO).
 § 24. Aplica-se ao MEI o disposto no inciso XI do § 4º do art. 3º.
+§ 25. O MEI poderá utilizar sua residência como sede do estabelecimento, quando não for indispensável a existência de local próprio para o exercício da atividade.
