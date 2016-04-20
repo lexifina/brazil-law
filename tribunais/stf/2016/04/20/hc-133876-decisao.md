@@ -1,0 +1,26 @@
+Decisão:
+ementa: Processual penal. Habeas corpus. Súmula 691/STF. Deficiência na instrução do writ. Ausência de ilegalidade flagrante ou abuso de poder.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão do Ministro Felix Fischer, que indeferiu a cautelar requerida nos autos do HC 345.189, em trâmite no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente, preso desde 09.05.2014, foi condenado à pena de 11 (onze) anos de reclusão, em regime inicial fechado, pelo crime previsto no artigo 33, caput, da Lei nº 11.343/06.
+    3. Em seguida, foi impetrado habeas corpus no Tribunal de Justiça do Estado do Pará. A ordem foi parcialmente concedida a fim de determinar “a decretação de nulidade dos atos a partir do recebimento da denúncia com o reinício do processo a partir da intimação dos pacientes para apresentar defesa prévia, nos termos do art. 55 da Lei Nº 11.343/06”, mantida a custódia cautelar do paciente.
+    4. Na sequência, sobreveio a impetração de habeas corpus no Superior Tribunal de Justiça. O Relator do HC 345.189, Ministro Felix Fischer, indeferiu a medida liminar.
+    5. Dessa decisão, foi impetrado o HC 132.799 neste Supremo Tribunal Federal. O Relator do HC 132.799, Ministro Celso de Mello, não conheceu da impetração. Ato contínuo, foi interposto agravo regimental, não provido pela Segunda Turma do STF.
+    6. Neste habeas corpus, a parte impetrante sustenta o excesso de prazo da custódia cautelar. Alega que a demora na apreciação do HC impetrado no Superior Tribunal de Justiça configuraria constrangimento ilegal. Daí o pedido de concessão da ordem para determinar o imediato julgamento da impetração formalizada no STJ ou, subsidiariamente, para revogar a prisão processual do paciente.
+    Decido.
+    7.  O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As decisões das instâncias precedentes não são teratológicas ou patentemente desfundamentadas. Ademais, a petição inicial do writ não foi instruída com cópia do ato impugnado, o que atrai a orientação jurisprudencial desta Corte, no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Relator o Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Rel. Min. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    9. Além disso, dou especial relevância ao fundamento adotado pelo Tribunal Estadual, no sentido de que “tendo em vista a complexidade da causa uma vez que envolve 05 denunciados, bem como a imperiosa necessidade de nova manifestação do magistrado de piso sob a custódia cautelar dos ora pacientes, não acolho o pedido de expedição do alvará de soltura sob pena de supressão de instância”.
+    10. Reconheço que a demora excessiva no julgamento de habeas corpus por parte de Tribunal Superior pode caracterizar constrangimento ilegal. Tal possibilidade fica reforçada pela explicitação, feita pela Emenda Constitucional nº 45/2004, do direito fundamental à razoável duração do processo. Nesse sentido, a título de exemplo, destaco o HC 110.367, julgado sob a relatoria da Ministra Cármen Lúcia.
+    11. No caso dos autos, contudo, a página oficial do Superior Tribunal de Justiça na internet não evidencia desídia que justifique a concessão do pedido. O writ foi autuado naquele Tribunal em 14.12.2015 e distribuído ao Ministro Felix Fischer, que, em 17.12.2015, indeferiu a medida cautelar. Os autos foram instruídos com parecer da Procuradoria-Geral da República e conclusos ao relator. De modo que não vejo ilegalidade flagrante ou abuso de poder que justifique o imediato acolhimento da pretensão defensiva.
+    12.  Nesse sentido, vejam-se o HC 133.690, Rel. Min. Luiz Fux, e o HC 128.928-AgR, Rel. Min. Rosa Weber, assim ementado:
+    “[...]
+    1. A sobrecarga de processos em trâmite nos Tribunais superiores inviabiliza, na hipótese, compreender violada a garantia constitucional da razoável duração do processo, prevista no inciso LXXVIII do artigo 5º da Constituição Federal, em que distribuída a ação constitucional há menos de um ano.
+    2. A razoável duração do processo não pode ser considerada de maneira isolada e descontextualizada das peculiaridades do caso concreto.
+    3. Inviável o exame da tese defensiva não analisada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+    4. Agravo regimental conhecido e não provido.”
+    13. Diante do exposto, com apoio no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 20 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
