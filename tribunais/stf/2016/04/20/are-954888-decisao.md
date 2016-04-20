@@ -1,0 +1,12 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal Regional Federal da 3ª Região, no julgamento da apelação, sustentou as suas conclusões em aspectos fático-probatórios a seguir destacados (fls. 262/264):
+    “Do quanto ali lançado, denota-se que a questão dos autos não se insere perfeitamente à descrição da União em seu recurso, ao contrário, os autores demonstraram suficientemente seu direito, ao passo que a União apenas apresentou argumento baseado em suposto direito constitucional, sem contudo, trazer provas de seu domínio sobre a área.
+    …...................................................................................................
+    A alegação da União não resiste a uma análise apurada, uma vez que o ordenamento jurídico não previa o domínio da União antes da Constituição de 1967, de modo que era possível a aquisição do bem por usucapião, o que restou demonstrado no caso, pois nada constava no Registro de Imóveis sobre qualquer proprietário da área, e a posse mansa, pacífica e incontestada contava com mais de 50 anos.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 20 de abril de 2016.
+Ministro CELSO DE MELLO
+Relator
