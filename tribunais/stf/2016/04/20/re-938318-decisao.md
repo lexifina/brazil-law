@@ -1,0 +1,10 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, na qual se discute a manutenção do reajuste de 26,06% que foi adquirida através de decisão judicial. (eDOC 3, p. 183).
+    Verifica-se que o Supremo Tribunal Federal ao analisar o RE 596.663, Rel. Min. Marco Aurélio, DJe 26.11.2014 (tema 494), reconheceu a existência de repercussão geral da controvérsia em debate.
+    Na oportunidade, a ementa restou assim redigida:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. SENTENÇA AFIRMANDO DIREITO À DIFERENÇA DE PERCENTUAL REMUNERATÓRIO, INCLUSIVE PARA O FUTURO. RELAÇÃO JURÍDICA DE TRATO CONTINUADO. EFICÁCIA TEMPORAL. CLÁUSULA REBUS SIC STANTIBUS. SUPERVENIENTE INCORPORAÇÃO DEFINITIVA NOS VENCIMENTOS POR FORÇA DE DISSÍDIO COLETIVO. EXAURIMENTO DA EFICÁCIA DA SENTENÇA. 1. A força vinculativa das sentenças sobre relações jurídicas de trato continuado atua rebus sic stantibus: sua eficácia permanece enquanto se mantiverem inalterados os pressupostos fáticos e jurídicos adotados para o juízo de certeza estabelecido pelo provimento sentencial. A superveniente alteração de qualquer desses pressupostos (a) determina a imediata cessação da eficácia executiva do julgado, independentemente de ação rescisória ou, salvo em estritas hipóteses previstas em lei, de ação revisional, razão pela qual (b) a matéria pode ser alegada como matéria de defesa em impugnação ou em embargos do executado. 2. Afirma-se, nessa linha de entendimento, que a sentença que reconhece ao trabalhador ou servidor o direito a determinado percentual de acréscimo remuneratório deixa de ter eficácia a partir da superveniente incorporação definitiva do referido percentual nos seus ganhos. 3. Recurso extraordinário improvido.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 20 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
