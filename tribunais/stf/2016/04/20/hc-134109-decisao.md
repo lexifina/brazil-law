@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de habeas corpus impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça proferido nos autos do HC 190.355/SP. Consta dos autos, em síntese, que (a) o paciente cumpre pena pela prática do crime de roubo (art. 157, § 2º, II, do Código Penal); (b) o Superior Tribunal de Justiça, em 1/12/2011, concedeu parcialmente a ordem de habeas corpus para fixar-lhe o regime prisional inicial semiaberto, em acórdão assim ementado, no que interessa:
+    “(...)
+    1. 1. O artigo 33, § 2º, b, do CP estabelece que o condenado à pena superior a 4 (quatro) anos e não excedente a 8 (oito) anos poderá iniciar o cumprimento da pena no regime semiaberto, observando-se os critérios do art. 59 do aludido diploma legal.
+    2. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que fixada a pena-base no mínimo legal e sendo favoráveis as circunstâncias judiciais não se justifica a fixação do sistema carcerário mais gravoso com base unicamente em assertivas genéricas relativas à gravidade do crime e inerentes ao próprio tipo penal violado. Súmula 440/STJ.
+    3. Na hipótese, o paciente foi condenado à pena de 5 anos e 4 meses de reclusão, no modo inicial fechado, o qual foi firmado apenas com base na reprovabilidade abstrata do delito.
+    4. Ordem parcialmente concedida apenas para fixar o regime semiaberto para o início do cumprimento da sanção reclusiva imposta, nos termos do art. 33, § 2º, b, do Código Penal”.
+    Neste habeas corpus, o impetrante alega, em suma, que “até a presente data o sentenciado continua aguardando cumprimento da pena em regime semiaberto”, “mesmo tendo o direito de perseguir ao cumprimento do regime aberto”. Requer, ao final, a concessão da ordem “para fixar o regime aberto para o início do cumprimento da sanção reclusiva imposta, nos termos do artigo 33 do Código Penal”.
+    2. Ao paciente foi fixado, para o início de cumprimento da pena, o regime prisional semiaberto, em decisão do STJ prolatada em dezembro de 2011. O eventual descumprimento dessa ordem judicial deveria ter sido impugnado perante àquela Corte Superior, o que parece não ter ocorrido na espécie. De todo modo, sequer foram juntados aos autos documentos a atestar o alegado descumprimento da determinação judicial.
+    Não bastasse, o exame da possibilidade de colocação do paciente no regime prisional aberto implicaria dupla supressão de instância, pois ensejaria a deliberação de matéria que sequer foi objeto de apreciação pelo Tribunal de origem. Nesse sentido, há precedentes deste Supremo Tribunal Federal: HC 115266, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 24/09/2013; HC 116717, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 26/09/2013; RHC 117301, Rel. Min. DIAS TOFFOLI, Primeira Turma, Dje 16/10/2013; HC 111773, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 21/03/2013.
+    3. Pelo exposto, nego seguimento ao habeas corpus. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 20 de abril de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
