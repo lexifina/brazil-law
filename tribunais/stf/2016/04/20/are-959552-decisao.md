@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Primeira Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Servidora pública municipal. Barueri. Pretensão ao recebimento de parcelas atrasadas do denominado ‘14º Salário’, instituído pela Lei Municipal 546/1985, e que restou substituído pela vantagem denominada ‘Abono Merecimento’. Sentença de parcial procedência. Recursos da Municipalidade e da autora buscando a inversão do julgado na parte que sucumbiram. Competência da Justiça Estadual, por tratar-se de matéria de natureza estatutária, sem vínculo direto com relação de trabalho. Prescrição. Inocorrência. Aplicação do artigo 1º, do Decreto-lei 20.910/32. Recurso da municipalidade que comporta acolhimento, para julgar a ação improcedente. O benefício previsto na Lei Municipal 546/1985, restou expressamente substituído pelo denominado ‘Abono Merecimento’, da Lei Municipal nº 1.493/2005. Benefício criado por mera liberalidade do legislador municipal, sem idoneidade a se incorporar aos vencimentos da servidora. Precedentes desta E. Corte. Recurso da Municipalidade provido, para julgar a ação improcedente. Prejudicado o apelo da autora.”
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso XXXVI, e 37, inciso XV, da Constituição Federal.
+    Decido.
+    Colhe-se do voto condutor do acórdão recorrido a seguinte fundamentação:
+    “A autora, servidora municipal estatutária, Professora de Educação Básica II, pretende o recebimento do benefício denominado ‘14º Salário’, instituído no regime constitucional anterior, pela Lei Municipal nº 546, de 25.11.1985:
+    (…)
+    A Lei Municipal nº 1.493, de 21.3.2005, revogou a Lei 546/1985, e substituiu aquele abono pelo denominado ‘Abono Merecimento’, ‘in verbis’:
+    (…)
+    O antigo benefício incondicionado foi substituído pelo legislador municipal por outro, este sujeito a critérios e condicionamentos específicos para sua prestação. Não houve supressão da vantagem, e nem vulneração ao princípio da irredutibilidade vencimental. (…)
+    (…)
+    O denominado ‘14º Salário’, pago aos servidores municipais de Barueri até o ano de 2005, nos termos da revogada Lei 546/1985, foi criado por ato de mera liberalidade do legislador municipal, tratando-se de vantagem de caráter precário e insusceptível de incorporação aos vencimentos.”
+    Desse modo, para ultrapassar o entendimento firmado no acórdão recorrido seria imprescindível reexaminar a legislação local aplicável à espécie e o quadro fático-probatório dos autos, o que se mostra incabível em sede de recurso extraordinário. Incidência, na espécie, das Súmulas nº 279 e 280 desta Corte. Nesse sentido, mencionem-se os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE PRODUTIVIDADE. REDUÇÃO DE VENCIMENTOS. SÚMULA 279/STF. PRECEDENTES. 1. O Supremo Tribunal Federal, ao julgar o RE 563.965-RG, da relatoria da Ministra Cármen Lúcia, reafirmou a jurisprudência no sentido de que não há direito adquirido a regime jurídico, assegurada a irredutibilidade de vencimentos. 2. Dissentir da conclusão do Tribunal de origem no sentido de que houve decesso remuneratório demandaria o reexame dos fatos e do material probatório constantes dos autos. Incidência da Súmula 279/STF. Precedentes. 3. Agravo regimental a que se nega provimento.” (AI nº 747.605/RO-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 21/9/15).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. ABONO DE DESEMPENHO. NATUREZA JURÍDICA. INTEGRAÇÃO DA BASE DE CÁLCULO DO DÉCIMO TERCEIRO SALÁRIO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE nº 909.659/SP-AgR, Segunda Turma Relatora a Ministra Cármen Lúcia, DJe de 22/10/15).
+    “Agravo regimental em agravo de instrumento. 2. Servidores públicos do IBAMA. Reestruturação da carreira pelas leis 10.410/2002, 10.472/2002 e 10.775/2003. Inexistência de direito adquirido a regime jurídico. 3. Existência ou não decréscimo remuneratório. Necessidade de reexame dos fatos e provas. Incidência do Verbete 279 da Súmula desta Corte. 4. Ausência de argumentos suficientes para infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento” (AI nº 845.209/SE-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 29/6/11).
+    Ante o exposto, nos termos do artigo 21, §1° do Regimento Interno do Supremo Tribunal Federal, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 20 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
