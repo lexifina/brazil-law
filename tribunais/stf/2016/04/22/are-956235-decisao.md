@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, nos autos da Apelação Criminal n. 990.10.31119-8, assim ementado (eDOC 4, p. 7):
+    “ROUBO MAJORADO. Configuração. Conduta de subtrair R$ 300 da vítima, em concurso de agentes, levando-a para um local ermo e empregando grave ameaça. Pretendida absolvição. Inadmissibilidade. Materialidade e autoria demonstradas. Palavra da vítima e das testemunhas de acusação. Reconhecimento pessoal. Negativa isolada. Suficiência das provas para a procedência da ação penal. Quantidade de pena bem dosada. Reparo apenas quanto ao regime, para alterá-lo para o semiaberto. Apelo parcialmente provido.”
+    Opostos embargos de declaração, estes foram rejeitados (eDOC 4, p. 41).
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido violou o art. 1º, inciso III; art. 3º, inciso I; e art. 5º, inciso LIV, todos da Constituição Federal de 1988. (eDOC 5, p. 6-15)
+    Em síntese, alega-se suposta ilegalidade no reconhecimento pessoal do réu feito em Juízo, por não observância ao art. 226, inciso II, do Código de Processo Penal.
+    A irresignação não foi admitida por ausência de prequestionamento, ofensa indireta ou reflexa à Constituição e óbice da Súmula 279 do Supremo Tribunal Federal. (eDOC 5, p. 51-53)
+    É o relatório.
+    Decido.
+    Inicialmente, a tese ventilada no arrazoado do recurso extraordinário, apontando afronta ao texto constitucional, não foi discutida no acórdão contestado. Incide, neste caso, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - Nos termos da orientação firmada pelo Supremo Tribunal Federal, cabe à parte agravante impugnar todos os fundamentos da decisão. Incidência da Súmula 283 do STF. III - Agravo regimental a que se nega provimento.” (ARE 790.511/MG AgR, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, unânime, DJe 15.4.2015)
+    Ainda, forçoso concluir que a instância a quo, ao decidir a lide, ateve-se ao exame da legislação penal processual, in casu, o art. 226, inciso II, do CPP. Desse modo, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    É uníssona a jurisprudência desta Corte no sentido de que o recurso extraordinário não se presta a analisar legislação infraconstitucional.
+    Nesse esteira, vale dizer que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral (tema 660), não haver repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013). Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Frisa-se que a irresignação, concernente a pretensa ofensa à norma em referência, foi devidamente apreciada pelo Superior Tribunal de Justiça, sendo, porém, contrária aos interesses do recorrente. (eDOC 6, p. 41-45; p. 67-71; p. 83-88)
+    Ante o exposto, nego seguimento ao agravo em recurso extraordinário (art. 21, § 1º, do RI/STF).
+    Publique-se. Int..
+    Brasília, 22 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
