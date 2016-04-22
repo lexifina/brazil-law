@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+    "FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS. REDUTOR FINANCEIRO INSTITUÍDO NA LC N. 91-97. AUSÊNCIA DE AFRONTA AO PRINCÍPIO DA ISONOMIA.
+    A disparidade no cálculo das cotas do Fundo de Participação dos Municípios, gerada pela aplicação do redutor instituído pela LC 91/97 é inerente à sistemática implementada pela referida norma e objetiva, em última análise, equiparar os repasses a municípios em situações equivalentes. Conforme entendimento do STF, essa sistemática não viola o princípio da isonomia.
+    Precedentes."
+     O recurso busca fundamento no art. 102, III, a, da Constituição Federal. O recorrente alega violação aos arts. 161, II; e 5º, XXXV, da Constituição. Sustenta que a decisão do Tribunal de origem não considerou os objetivos expressos na Constituição para os critérios de rateio dos recursos do Fundo de Participação dos Municípios – FPM (promover o equilíbrio socioeconômico entre Estados e Municípios). E que a lei não pode excluir da apreciação do Poder Judiciário lesão ou ameaça a direito.
+    O acórdão recorrido, socorrendo-se em parecer técnico e em jurisprudência de suas Turmas e desta Corte, entendeu não haver violação ao princípio da isonomia na Lei Complementar nº 91/1997 e, por esse motivo, manteve integralmente a sentença.
+    O recurso não deve ser admitido, uma vez que a decisão do Tribunal de origem está alinhada com o entendimento do Supremo Tribunal Federal no sentido de não haver violação ao princípio constitucional da isonomia na forma com que a Lei Complementar 91/1997 implementou a distribuição dos recursos do Fundo de Participação dos Municípios – FPM (e, consequentemente, seus redutores).
+    No julgado, assentou-se que a CF limitou-se a apontar os objetivos gerais do referido fundo, cabendo ao legislador ordinário a escolha dos meios pelos quais eles seriam alcançados. De modo que, para atender o pedido do recorrente e dissentir do acórdão impugnado, seria necessário nova apreciação dos fatos e do material probatório constante dos autos, bem como de legislação infraconstitucional (Lei Complementar 91/1997) e até de portarias administrativas da autarquia envolvida. Procedimentos inviáveis nesta via recursal e que encontram óbice nas Súmulas 279 e 636/STF. Nesse sentido, veja-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. VALOR DO REPASSE DE VERBAS VINCULADAS AO FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS. ERRO DE CÁLCULO. REDUTOR FINANCEIRO INSTITUÍDO NA LC N.º 91/97. ALEGAÇÃO DE CONTRARIEDADE DOS ARTIGOS 5º, XXXV, 159, I, 161, II, DA CONSTITUIÇÃO FEDERAL. CONTROVÉRSIA QUE DEMANDA O REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL, DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N.º 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. “ (RE 682.395 AgR/RS, Rel. Min. Luiz Fux).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
