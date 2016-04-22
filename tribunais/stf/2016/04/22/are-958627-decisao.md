@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Turma Recursal que deu parcial provimento a recurso inominado, reduzindo o valor arbitrado a título de ressarcimento pelos danos morais para montante de 2.000,00 (dois mil reais), em decorrência de falha na prestação de serviço de fornecimento de água.
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, aduz-se violação do artigo 5º, V, LIV e LV da Constituição Federal, por ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Primeiramente, verifica-se que, no julgamento do ARE-RG 927.467, de minha relatoria, Dje de 17.12.2015, (Tema 869), o Tribunal decidiu pela inexistência de repercussão geral das controvérsias que versem sobre o direito, ou não, à indenização por dano moral, em virtude de inadimplemento de cláusula contratual (contrato de prestação de serviço de fornecimento de água), por demandar o reexame de fatos e provas e da legislação infraconstitucional, como na hipótese dos autos.
+    Verifica-se também que, no exame do AI-RG 839.695, de relatoria do Ministro Cezar Peluzo, DJe de 1º.09.2011, (Tema 413), o Plenário da Corte decidiu que não possuem repercussão geral as controvérsias relativas ao quantum indenizatório de condenação de danos morais e materiais decorrentes da relação entre concessionária de serviço público e consumidor, por se tratar de questão infraconstitucional, como no caso dos autos.
+    Por fim, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 22 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
