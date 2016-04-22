@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, LV, e 7º, XXII e XXIII , da Constituição Federal. Acórdão recorrido publicado em 4.11.2015. Decisão agravada publicada dia 27.01.2016.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.”
+    Não prospera a insurgência pelo prisma do inciso LV do art. 5º da Carta Política, consagrador do princípio do contraditório e da ampla defesa, uma vez que o Plenário Virtual desta Suprema Corte negou a existência de repercussão geral da questão no ARE 748.371-RG, verbis:
+    "Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.” (ARE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.8.2013)
+    Para concluir de forma diversa do consignado pelo Tribunal de origem, no que pertine ao recebimento do adicional de periculosidade, faz-se imprescindível a prévia interpretação da legislação infraconstitucional aplicável à espécie – Lei municipal nº 10.067/1994. No caso, a ofensa à Constituição Federal, se existente, dar-se-ia de forma reflexa, o que inviabiliza o prosseguimento do recurso extraordinário, nos termos da Súmula 280 do STF. Nesse sentido, confiram-se os seguintes precedentes:
+     “Agravo regimental no recurso extraordinário. Servidor público. Jornada de trabalho. horas extras. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o exame de ofensa reflexa à Constituição Federal e de fatos e provas dos autos. Incidência das Súmulas 636 e 279/STF. 2. Agravo regimental não provido.” (RE-AgR 633.663, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 22.6.2012)
+     “DECISÃO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AGENTE DE SEGURANÇA PENITENCIÁRIO. ADICIONAL DE LOCAL DE TRABALHO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO-FÁTICO PROBATÓRIO E DA LEGISLAÇÃO LOCAL. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.” ( ARE 872040, Relatora Min. Cármen Lúcia, DJe 09/04/2015)
+    “SERVIDOR PÚBLICO ESTADUAL. ADICIONAL DE INSALUBRIDADE. EXAME DE NORMA LOCAL E DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 279 E 280 DESTE TRIBUNAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.” (AI 475.568-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJ 16.2.2007)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de abril de 2016.
+Ministra Rosa Weber
+Relatora
