@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Agravo de Instrumento. Direito previdenciário. Possibilidade de antecipação de tutela contra a Fazenda Pública. Súmula 60 do TJ/RJ. Impasse na concessão dos proventos de aposentadoria a que faz jus o autor. Município réu que, segundo a alegação autoral, não teria realizado o repasse das contribuições previdenciárias realizadas pelo demandante. Legitimidade passiva do Município que se verifica. Acerto da decisão agravada. Recurso desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV e LV; e 93, IX, da Constituição Federal, bem como à jurisprudência firmada a partir do julgamento da ADC 4.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) o acórdão recorrido está de acordo com a jurisprudência desta Corte; e (ii) a hipótese atrai a incidência da Súmula 279/STF.
+    O recurso extraordinário não merece acolhida, tendo em vista originar-se de decisão que deferiu pedido de liminar, portanto, de natureza precária. Dessa forma, o recurso não preenche o requisito do art. 102, III, da Constituição Federal, o qual prevê a competência do Supremo Tribunal Federal para julgar, “mediante recurso extraordinário, as causas decididas em única ou última instância”. Nesse sentido, vejam-se:
+    “RECURSO EXTRAORDINÁRIO – ACÓRDÃO QUE DEFERE LIMINAR – ATO DECISÓRIO QUE NÃO SE REVESTE DE DEFINITIVIDADE – MERA ANÁLISE DOS PRESSUPOSTOS DO “FUMUS BONI JURIS” E DO “PERICULUM IN MORA” – INVIABILIDADE DO APELO EXTREMO – RECURSO DE AGRAVO IMPROVIDO. – Não cabe recurso extraordinário contra decisões que concedem ou que denegam a antecipação dos efeitos da tutela jurisdicional ou provimentos liminares, pelo fato de que tais atos decisórios – precisamente porque fundados em mera verificação não conclusiva da ocorrência do “periculum in mora” e da relevância jurídica da pretensão deduzida pela parte interessada – não veiculam qualquer juízo definitivo de constitucionalidade, deixando de ajustar-se, em consequência, às hipóteses consubstanciadas no art. 102, III, da Constituição da República. Precedentes.” ( RE 829602-AgR, Rel. Min. Celso de Mello, Segunda Turma)
+    Incide, no caso, a Súmula 735/STF:
+    “Não cabe recurso extraordinário contra acórdão que defere medida liminar.”
+    Nesse sentido, vejam-se: ARE 804.183-AgR, Rel.ª Min.ª Rosa Weber, Primeira Turma; ARE 938.377-AgR, Rel. Min. Dias Toffoli, Segunda Turma; e ARE 893.510-ED, Rel. Min. Dias Toffoli, Segunda Turma.
+    Ademais, o recurso não merece seguimento quanto ao mérito, uma vez que esta Corte tem firme jurisprudência no sentido de que a antecipação de tutela contra a Fazenda Pública, quando proferida em sede de sentença de mérito, não afronta a decisão da ADC 4. Nesse sentido: Rcl 5.476-AgR, Min.ª Rel.ª Rosa Weber, Primeira Turma; Rcl 6.829-AgR, de minha relatoria, Primeira Turma; e Rcl 8.335-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma.
+    Diante do exposto, com base no art. 21, § 1º do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
