@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo regimental cujo objeto é decisão do Ministro Joaquim Barbosa, relator originário do feito, que deu provimento ao agravo para dar provimento ao recurso extraordinário (fls. 97/98). Em seguida, foi interposto agravo regimental (fls. 101-104), o qual apontou questões relevantes para o deslinde da causa, motivo pelo qual reconsidero a decisão inicialmente proferida e passo à analise do agravo de instrumento.
+    Após detida análise dos autos, observa-se que o agravo de instrumento não pode ser conhecido. É que faltam peças essenciais para a formação do instrumento e para a exata compreensão da controvérsia.
+    De início, note-se que na procuração apresentada às fls. 16 não consta a data em que foi firmado o instrumento de mandato, contrariando os termos do art. 654, § 1º, do Código Civil. Ademais, não estão presentes os estatutos instituidores dos ora agravados, o que torna impossível saber se os subscritores da procuração apresentada têm poderes o bastante para assinar em nome dos agravantes e outorgar mandato aos advogados peticionantes, desrespeitando os ditames do art. 12, VI, do Código de Processo Civil.
+    Em observância ao art. 8º, II (princípio da unicidade sindical), da Constituição Federal, os ora agravados tinham que ter instruindo os autos com as peças que comprovassem a inexistência, na mesma base territorial, de outras entidades sindicais representantes da categoria ora em debate. Estas são peças essenciais para a compreensão controvérsia. O Supremo Tribunal Federal já se manifestou sobre o princípio da unicidade sindical no RMS 21.758/RJ, Rel. Min. Sepúlveda Pertence, do qual se extrai, da ementa, o seguinte trecho:
+    “[...]
+    3. A admissibilidade da contribuição sindical imposta por lei e inseparável, no entanto, do sistema de unicidade (CF, art. 8., II), do qual resultou, de sua vez, o imperativo de um organismo central de registro das entidades sindicais, que, a falta de outra solução legal, continua sendo o Ministério do Trabalho (MI 144, 3.8.92, Pertence).
+    4. Dada a controvérsia de fato sobre a existência, na mesma base territorial, de outras entidades sindicais da categoria que o impetrante congrega, não há como reconhecer-lhe, em mandado de segurança, o direito a exigir o desconto em seu favor da contribuição compulsória pretendida.”
+    Portanto, de acordo com a jurisprudência desta Corte, o agravo de instrumento deve ser instruído com as peças obrigatórias e também com as necessárias ao exato conhecimento das questões discutidas, o que não ocorreu nos autos ora em análise, atraindo, dessa forma, a Súmula 288/STF:
+    “Nega-se provimento a agravo para subida de recurso extraordinário, quando faltar no traslado o despacho agravado, a decisão recorrida, a petição de recurso extraordinário ou qualquer peça essencial à compreensão da controvérsia.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
