@@ -1,0 +1,46 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, nos autos da Apelação Criminal n. 1.0024.06.127739-8/001, assim ementado (eDOC 2, p. 86):
+    “APELAÇÃO CRIMINAL. ALEGAÇÃO DE INTEMPESTIVIDADE NÃO ACOLHIDA. PRELIMINARES DE NULIDADE AFASTADAS. AUSÊNCIA DE PREJUÍZO. ACOLHIMENTO DE PREJUDICIAL DE MÉRITO DA PRESCRIÇÃO EM RELAÇÃO AO PRIMEIRO DELITO PRATICADO. MÉRITO. CRIME DE APROPRIAÇÃO INDÉBITA. MATERIALIDADE E AUTORIA COMPROVADAS. MANUTENÇÃO DA CAUSA DE AUMENTO PREVISTA NO ART. 168, § 1º, INC. III, DO CÓDIGO PENAL. AFASTAMENTO DA CONTINUIDADE DELITIVA.
+    - Não tendo sido devolvida a carta precatória para intimação da ré da sentença, não é possível se acolher a alegação da intempestividade, por ausência de elementos nos autos.
+    - Cediço é que não pode ser declarado nulo qualquer ato que não gere demonstrado prejuízo às partes. Nesse sentido, o art. 563 do Código de Processo Penal dispõe que ‘nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa’.
+    - Tendo sido admitida a participação de assistente da acusação e a este permitida a prática de atos processuais, sem qualquer protesto da defesa, torna-se preclusa tal questão.
+    - Afasta-se a alegação de nulidade, se a defesa não logrou êxito em demonstrar um suposto temor reverencial das testemunhas que pudesse causar qualquer prejuízo a macular o feito.
+    - Não se mostra possível desconsiderar o recolhimento da acusada, por inobservância das formalidades do art. 266 do CPP. Cediço é que a prova deve ser coligida com os demais elementos probatórios colhidos na instrução para a formação da convicção do magistrado.
+    - Considerando-se que entre a data de um dos fatos e do recebimento da denúncia transcorreu prazo superior a 4 (quatro) anos, deve ser reconhecida a extinção da punibilidade da agente, em relação a este delito.
+     - Demonstrada, pelo conjunto probatório presentes nos autos, a materialidade e a autoria em relação à prática do delito, a manutenção da condenação da ré é medida que se impõe.
+    - Dispõe o art. 168, § 1º, inciso III, do Código Penal, que a pena pela prática do crime de apropriação indébita será aumentada de um terço, quando o agente recebeu a coisa em razão de ofício, emprego ou profissão.
+     - Afasta-se a continuidade delitiva, tendo em vista o reconhecimento da prescrição em relação ao primeiro crime praticado.”
+    Opostos embargos de declaração, estes foram rejeitados (eDOC 2, p. 132).
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido violou o art. 5º, inciso LIV, da Constituição Federal de 1988 (eDOC 2, p. 166-189).
+    Em síntese, alega-se não observância do devido processo legal em razão da: a) atuação do assistente de acusação sem a devida formalização; b) coação advinda do vínculo hierárquico, decorrente da presença da vítima em audiência quando da oitiva das testemunhas; e c) reconhecimento pessoal em juízo da recorrente sem as formalidades determinadas pela lei processual.
+    A irresignação não foi admitida por ausência de prequestionamento, ofensa reflexa à Constituição Federal e óbice da Súmula 279 do Supremo Tribunal Federal (eDOC 2, p. 225).
+    Contra referida decisão foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário, refutando os fundamentos da decisão recorrida.
+    É o relatório.
+    Decido.
+    Inicialmente, a tese ventilada no arrazoado do recurso extraordinário, apontando afronta ao texto constitucional, não foi discutida no acórdão contestado. Incide, neste caso, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - Nos termos da orientação firmada pelo Supremo Tribunal Federal, cabe à parte agravante impugnar todos os fundamentos da decisão. Incidência da Súmula 283 do STF. III - Agravo regimental a que se nega provimento.” (ARE 790.511/MG AgR, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 15.4.2015)
+    Ainda vale dizer que o Supremo Tribunal Federal já assentou que não há repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE-RG 748.371, tema 660, de minha relatoria, DJe 1º.8.2013). Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Ainda que fosse possível ultrapassar esses óbices, o Código de Processo Penal, em seu artigo 563, dispõe que “nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa”. A literalidade do dispositivo deixa clara a exigência do prejuízo às partes para reconhecimento da nulidade processual.
+    Nesse sentido, esta Suprema Corte firmou entendimento no sentido de que, para reconhecimento de eventual nulidade, ainda que absoluta, faz-se necessária a demonstração do prejuízo. Consoante frisou o ministro Cezar Peluso, ao denegar a ordem no HC n. 82.899/SP: Não há, no processo penal, nulidade ainda que absoluta, quando do vício alegado não haja decorrido prejuízo algum ao réu.
+    Corroborando o acima exposto, menciono que o Tribunal a quo apontou razões legítimas para não reconhecer as nulidades apontadas. Por oportuno, transcrevo excerto (eDOC 2, p. 90-92):
+    “No caso em exame, a conversa entre o membro do Ministério Público e o representante da vítima em nada interferiu no processo ou na audiência, não tendo a defesa conseguido demonstrar qualquer prejuízo decorrente de tal ato.
+    Não se pode desconsiderar que o assistente da acusação foi admitido em ato posterior (cf. fl. 211) e a este foi permitida a prática de atos processuais, sem qualquer protesto da defesa, tornando tal questão preclusa.
+    Esta Egrégia Câmara Criminal já se manifestou da seguinte forma: […]
+    Rejeita-se, assim, tal preliminar.
+    A alegação de nulidade pela coação advinda do vínculo hierárquico, decorrente da presença da vítima em audiência quando da oitiva das testemunhas Bruno Borba e Márcia Cândida, também deve ser rechaçada.
+    Conforme já salientado pelo douto magistrado a quo e pelo representante do Ministério Público, Bruno Borba nem era mais funcionário da empresa, quando foi ouvido em juízo. Outrossim, a defesa não logrou êxito em demonstrar um suposto temor reverencial das testemunhas que pudesse causar qualquer prejuízo e macular o feito.
+    Nos termos da r. sentença (fl. 316), ‘(...) congênere ao asseverado por este Juízo, às fls. 165, a única hipótese prevista pelo Código de Processo Penal é a retirada do réu, de acordo com o art. 217’. Rejeita-se, assim, a preliminar.
+    No que tange à inobservância do art. 266 do CPP, tem-se que a prova deve ser coligida com os demais elementos probatórios colhidos na instrução para formação da convicção do magistrado.
+    Conforme o ilustre Promotor de Justiça salientou ‘(...) várias outras provas demonstraram a autoria delitiva da apelante, de modo que seu reconhecimento ora contestado não foi determinante para sua condenação. (...)’ - fl. 367.
+    Embora não tenha o ato processual observado na íntegra as formalidades de dispositivo legal, a ré foi reconhecida sem sombra de dúvidas, em juízo, inclusive.
+    De mais a mais, é cediço que a providência de se colocar a pessoa a ser reconhecida ao lado de outras que com ela tiverem qualquer semelhança somente será efetivada se possível, conforme expressamente consta do inciso II do artigo 226 do CPP: [...]
+    Não foi de outra forma que decidiu este Tribunal: […]
+    Dessa forma, não se vislumbra a nulidade alegada.”
+    Por último, forçoso concluir que a instância a quo, ao decidir a lide, ateve-se ao exame da legislação penal processual comum. Desse modo, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    É uníssona a jurisprudência desta Corte no sentido de que o recurso extraordinário não se presta a analisar legislação infraconstitucional.
+    Ante o exposto, nego seguimento ao agravo em recurso extraordinário (art. 21, § 1º, do RI/STF).
+    Publique-se. Int..
+    Brasília, 22 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
