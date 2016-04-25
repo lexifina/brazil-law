@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (eDOC 2, p. 64):
+    “AGRAVO – ART. 557, § 1º, CPC. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. INEXISTÊNCIA DE FATO NOVO. DESPROVIMENTO. I – Fundado no art. 557, caput, CPC, o relator está autorizado a negar seguimento a recurso em confronto com a jurisprudência dominante dos tribunais superiores e do tribunal local. II – In casu, as teses levantadas no apelo foram devidamente analisadas na decisão agravada, mormente sobre a inexistência de responsabilidade exclusiva da Secretaria da Educação Municipal na postulação extemporânea da progressão horizontal, questão intimamente ligada ao reconhecimento dos pedidos de indenização por danos materiais e morais. III – Evidenciado que as razões arguidas em sede de agravo interno não trazem fatos novos, aptos a modificar o entendimento do julgador de segundo grau, a decisão recorrida há de ser mantida. Precedentes. III – Agravo improvido. ”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI; e 37, § 6º, da Constituição Federal.
+     Nas razões recursais, sustenta-se, em suma, que concluiu o curso de qualificação para fins de progressão horizontal, e, por culpa exclusiva da Secretaria Municipal de Educação, o diploma não foi emitido a tempo de o servidor aproveitar a progressão daquele ano, tendo seu pedido indeferido, causando-se assim prejuízos consideráveis para o recorrente.
+    A Vice-Presidência do TJ/GO inadmitiu o recurso, em virtude de incidir na hipótese as Súmulas 282 e 356 do STF.
+    É o relatório. Decido.
+    Inicialmente, observa-se que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. A jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário, quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Além disso, não foram opostos embargos declaratórios com a finalidade de sanar a omissão. Incidem, portanto, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Ademais, verifica-se que o Tribunal de origem assim asseverou (eDOC2, p. 58):
+    “Consoante se extrai dos autos, o juiz primário julgou improcedentes os pedidos contidos na peça vestibular, porque não provados pelo autor os fatos constitutivos do seu direito (art. 333, I, CPC). Desse modo, afastou o direito à progressão horizontal com pedido retroativo, bem como os pedidos de indenização por danos materiais e morais. Interposto recurso apelatório, o decisum restou mantido pelo ato ora agravado.”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o exame da legislação infraconstitucional, configurando, quando muito, ofensa reflexa à Constituição, o que não autoriza o acesso à via extraordinária, e o reexame de fatos e provas, o que também inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 25 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
