@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, assim ementado:
+    “RECURSO INOMINADO. SERVIDOR PÚBLICO MUNICIPAL DE SAPUCAIA DO SUL. PRETENSÃO DE RESTABELECIMENTO DE PAGAMENTO INTEGRAL DA REMUNERAÇÃO PARA FUNCIONARIO EM LICENÇA SAÚDE.
+    1. Divergem os litigantes sobre o direito da servidora pública municipal em ver restabelecido o pagamento de sua remuneração de forma integral após entrar em licença à saúde, quando passou a perceber auxílio-doença;
+    2. Estando o servidor afastado e percebendo auxilio doença, não faz jus a verbas como insalubridade e avanços as quais são devidas somente no exercício efetivo do cargo. Em consequência descabe a devolução dos valores descontados de seu contracheque.
+    3. Sentença mantida por seus próprios fundamentos, nos moldes do artigo 46, última figura, da Lei n.º 9.099/95.
+    À UNANIMIDADE, NEGARAM PROVIMENTO AO RECURSO INOMINADO.”
+    Opostos embargos de declaração, não foram acolhidos.
+    No recurso extraordinário, sustenta-se violação dos artigos 5°, incisos II e XXXVI, 37, inciso XV, 40, caput e § 12, 60, § 4º, inciso IV, e 194, parágrafo único, inciso IV, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, o acórdão recorrido manteve a sentença de primeiro grau que julgou improcedente o pedido formulado pela autora, ora recorrente, amparado nos seguintes fundamentos:
+    “Registro, por oportuno, que a legislação do Município de Sapucaia do Sul, especificamente a Lei Municipal n.º 2.028/97, que instituiu o Estatuto dos Servidores Municipais de Sapucaia do Sul, com a redação dada pela Lei Municipal n.º 2.371/2001, dispõe em seu artigo 233:
+    (…)
+    E mais. O artigo 219 da supracitada Lei inserido no Título VII que trata da Seguridade Social do Servidor estabelece que:
+    (…)
+    Dito isso, estando a receber o benefício de auxílio-doença o qual é pago pelo Fundo de Aposentadoria e Pensão do Servidor após os primeiros 15 (quinze) dias, não faz quaisquer menções a descontos na remuneração, ao contrário, prevê que a referida licença será concedida sem prejuízo da remuneração.
+    Portanto, ao fazer a leitura conjuntamente com a Lei Municipal n.º 3.303/11, que dispõe sobre o Fundo Municipal de Aposentadoria e Pensão do Servidor – FAPS, vinculado à Secretaria Municipal de Gestão Pública, destinada ao custeio das aposentadorias e pensões por morte de servidores municipais ocupantes de cargos de provimento efetivo, sujeitos ao Regime Jurídico dos Servidores Públicos Municipais de Sapucaia do Sul, verifica-se que, conforme o § 1.º do artigo 1.º, serão custeados pelo Fundo outros benefícios, inclusive o “auxílio-doença”, expresso na alínea “d”.
+    Acrescento, por conseguinte, que do exame do Relatório de Assentamentos, estando a parte autora em licença saúde pelo período demonstrado, não faz jus ao pagamento das vantagens transitórias, não permanentes, as quais englobam as gratificações de risco de vida, horas extras e adicional noturno, gratificações estas propter laborem.”
+    Nesse caso, para acolher a pretensão da recorrente e divergir do entendimento firmado pelas instâncias de origem seria necessário interpretar a legislação infraconstitucional pertinente (Leis Municipais nºs 2.028/97, 2.371/01 e 3.303/11) e reexaminar o conjunto fático-probatório dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Anote-se:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. LICENÇA PARA TRATAMENTO DE SAÚDE. PAGAMENTO DE AUXÍLIO-ALIMENTAÇÃO. DISCIPLINA NA LEGISLAÇÃO ESTADUAL. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 02.8.2010. A suposta ofensa aos postulados constitucionais somente poderia ser constatada a partir da análise da legislação infraconstitucional local, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Tendo a Corte Regional dirimido a lide com espeque em interpretação de legislação estadual, aplicável, na espécie, a Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Agravo regimental conhecido e não provido” (ARE nº 649.999/SC-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 20/6/13).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. LICENÇA À GESTANTE. VALOR DO BENEFÍCIO. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Entendimento diverso implicaria rever a interpretação dada pelo Tribunal paulista à lei municipal, bem como reexaminar o acervo fático-probatório dos autos. Providências vedadas na instância recursal extraordinária. 2. De mais a mais, incidem as Súmulas 282 e 356 do STF. 3. Agravo regimental desprovido” (RE nº 599.756/SP-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 26/11/10).
+    Aplicando essa orientação, destacam-se as seguintes decisões: ARE nº 653.485/SC, Relator o Ministro Gilmar Mendes, DJe de 31/8/11; AI nº 848.679/SC, Relator o Ministro Ricardo Lewandowski, DJe de 3/8/11; e AI nº 841.507/SC, Relatora a Ministra Cármen Lúcia, DJe de 1/6/11.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
