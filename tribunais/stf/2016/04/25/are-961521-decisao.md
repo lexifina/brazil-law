@@ -1,0 +1,23 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio de Janeiro, está assim ementado:
+    “CIVIL.
+    PREVIDÊNCIA COMPLEMENTAR. AÇÃO AJUIZADA PELA BRASLIGHT. PRETENSÃO DE COBRANÇA DE VALOR DE RESGATE PAGO EQUIVOCADAMENTE À EX- -PARTICIPANTE. PRESCRIÇÃO. OCORRÊNCIA. PRETENSÃO DE RESSARCIMENTO DE ENRIQUECIMENTO SEM CAUSA. ART. 206, § 3º, IV DO CÓDIGO CIVIL. INAPLICABILIDADE DO ART. 75 DA LEI COMPLEMENTAR 109/01 AO CASO. PROVIMENTO DO RECURSO.IMPROVIDO. FALTA DE INTERESSE RECURSAL DA FUNASA.
+    A Fundação de Seguridade Social Braslight ao rever os cálculos e regulamentos da entidade, observou que o ex-participante recebeu resgate maior do que o devido.
+    Inaplicável o art. 75 da Lei Complementar nº 109/2001, pois este dispositivo refere-se somente às pretensões de recebimento de prestações não pagas nem reclamadas na época própria.
+    A causa de pedir nesta demanda diz respeito ao pagamento realizado a maior por equívoco da sociedade responsável pelo plano de custeio de previdência complementar. Inaplicável também, portanto, o enunciado nº 427 da Súmula do Superior Tribunal de Justiça.
+    Trata-se, em verdade, de pretensão fundada na cláusula geral de direito civil que veda o enriquecimento sem causa, atraindo, assim, a aplicação do prazo prescricional previsto no art. 206, § 3º, inciso IV do Código Civil.
+    Considerando que o pagamento dos valores supostamente indevidos ocorreu em 30/01/2008 e que a presente ação somente foi ajuizada no ano de 2012, entendo que a pretensão autoral está prescrita.
+    Provimento do recurso para declarar a prescrição da pretensão autoral, julgando-se extinto o processo na forma do art. 269, inciso IV do CPC.”
+    A ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, LV, 93, IX, 195, § 5º e 202, todos da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei Complementar nº 109/2001), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, para negar provimento ao recurso da parte ora agravante, apoiou-se em dispositivos de ordem meramente legal:
+    “Ora, tenho que no caso em questão é inaplicável o art. 75 da Lei Complementar nº 109/2001. O mencionado dispositivo é aplicável somente às pretensões de recebimento de prestações não pagas nem reclamadas na época própria. Veja-se:
+    ‘Art. 75. Sem prejuízo do benefício, prescreve em cinco anos o direito às prestações não pagas nem reclamadas na época própria, resguardados os direitos dos menores dependentes, dos incapazes ou dos ausentes, na forma do Código Civil.’
+    …...................................................................................................
+    Pretende a autora da ação a devolução de parte do pagamento ao argumento de que foi realizado equivocadamente. Trata-se, em verdade, de pretensão fundada na cláusula geral de direito civil que veda o enriquecimento sem causa, atraindo, assim, a aplicação do prazo prescricional previsto no art. 206. § 3º, inciso IV do Código Civil.”
+    Os precedentes que venho de referir guardam inteira pertinência com a legislação processual que se achava em vigor no momento em que ocorrida a publicação do ato questionado no apelo extremo (“tempus regit actum”).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 25 de abril de 2016.
+Ministro CELSO DE MELLO
+Relator
