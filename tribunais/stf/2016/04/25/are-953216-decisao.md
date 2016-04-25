@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Tribunal de Justiça que deu provimento a agravo de instrumento, concedendo efeito suspensivo a decisão que determinou exclusão de todos os textos vinculados aos fatos narrados nos autos da ação indenizatória por danos morais cumulada com obrigação de fazer da base de buscas do google.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos artigos 1º, III, 5º, X e XXXV e 93, IX, da Constituição Federal, por violação aos princípios da proteção da dignidade humana, da proporcionalidade e razoabilidade, da inafastabilidade do controle jurisdicional, bem como por contrariedade ao dever constitucional de fundamentação das decisões judiciais.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    O Plenário desta Corte, ao julgar o ARE 833.248-RG, DJe de 20/02/2015, de Relatoria do Ministro Dias Toffoli, Tema 786, reconheceu a existência de repercussão geral da questão constitucional que versa sobre a aplicabilidade do direito ao esquecimento na esfera civil quando for invocado pela própria vítima ou pelos seus familiares, por considerar a harmonização dos princípios constitucionais da liberdade de expressão e do direito à informação com aqueles que protegem a dignidade da pessoa humana e a inviolabilidade da honra e da intimidade.
+    Outrossim, este Tribunal, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe de 13.08.2010, assentou a repercussão geral do Tema 339, referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 25 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
