@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Helio Viana da Costa interpõe recurso extraordinário, com fundamento na alínea “a”do permissivo constitucional, contra acórdão da Turma Recursal Única de Porto Velho/RO, assim ementado:
+    “AGRAVO REGIMENTAL – DECISÃO MONOCRÁTICA. REDISCUSSÃO DE MATÉRIA. IMPOSSIBILIDADE. Nega-se provimento a Agravo Regimental quando pretende tão somente a rediscussão da decisão, sem a apresentação de qualquer fato novo ou fundamentação diversa.”
+     Alega o recorrente violação dos artigos 7º, inciso VIII, e 142 da Constituição Federal.
+    Com contrarrazões, o recurso extraordinário foi admitido.
+    Decido.
+    Colhe-se a seguinte fundamentação da decisão monocrática mantida pelo acordão recorrido:
+    “Extrai-se do artigo 69, § 1º, da Lei Complementar Estadual 68/92, que as indenizações não se incorporam ao vencimento. Dessa forma, não incidem junto ao soldo para o cálculo do décimo terceiro salário ou terço de férias. Já o § 2º do mesmo dispositivo supradito dispõe que as gratificações e os adicionais podem ser incorporados ao vencimento ou provento nos casos e condições previstos em lei.
+    Desse modo, para que os servidores públicos civis do Estado de Rondônia e militares em razão do disposto no art. 15 da Lei nº 1.063/2002, tenham as gratificações e adicionais utilizados na base de cálculo do décimo terceiro salário e terço de férias, seria necessário previsão legal, o que não é verificado nas legislações pertinentes aos Militares.
+    Qualquer interpretação extensiva no sentido de permitir a utilização de adicionais e gratificações violaria o princípio da legalidade, até porque traria despesa ao Ente Federativo.”
+    Assim, verifica-se que as instâncias de origem solucionaram a lide com fundamento na interpretação da legislação local pertinente, insuscetível de análise na sede extraordinária. Incide, na espécie, a Súmula nº 280 da Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. REMUNERAÇÃO DE POLICIAIS MILITARES. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO ESTADUAL. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 674.274/MS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 26/6/09).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Gratificação de Incentivo à Eficientização do Serviço (GIEFS). Base de cálculo. Décimo terceiro salário e terço constitucional de férias. 4. Ofensa reflexa. Lei estadual n. 11.406/94. Súmula 280. 5. Agravo regimental a que se nega provimento” (ARE nº 882.247/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 24/8/15).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. ABONO DE DESEMPENHO. NATUREZA JURÍDICA. INTEGRAÇÃO DA BASE DE CÁLCULO DO DÉCIMO TERCEIRO SALÁRIO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 909.659/SP-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 21/10/15).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO MUNICIPAL. GRATIFICAÇÃO ESPECIAL DE REGIME DE PLANTÃO. GRATIFICAÇÃO ESPECIAL POR PRESTAÇÃO DE SERVIÇO ASSISTENCIAL EM SAÚDE. INCLUSÃO NA BASE DE CÁLCULO DO DÉCIMO TERCEIRO SALÁRIO E NO TERÇO DE FÉRIAS. IMPOSSIBILIDADE. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. ALEGAÇÃO DE INAPLICABILIDADE DA LEI 11.960/2009. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Leis municipais 11.716/1995 e 13.493/2003), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes. II - A questão que não foi debatida em momento processual anterior constitui inovação recursal, insuscetível de ser levantada nas razões do agravo regimental. Precedentes. III - Agravo regimental improvido” (ARE nº 758.962/SP-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16/10/13).
+    Ante o exposto, nos termos do artigo 21, § 1º, do regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
