@@ -1,0 +1,13 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “MANDADO DE SEGURANÇA – Instrução Normativa que obsta a emissão de nota fiscal eletrônica por contribuinte inadimplente – Ilegalidade – Fazenda Pública deve cobrar os seus créditos por meio do ajuizamento de execução fiscal, sem impedir direta ou indiretamente a atividade profissional ou econômica do contribuinte – Súmulas 70, 323 e 547 do STF, bem como súmula 127 do STJ – Reforma da decisão que denegou a ordem – Recurso provido.”
+    O Município de São Paulo, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 170, parágrafo único, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao julgar o RE 565.048/RS, Rel. Min. MARCO AURÉLIO, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa e reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+    “TRIBUTO – ARRECADAÇÃO – SANÇÃO POLÍTICA. Discrepa, a mais não poder, da Carta Federal a sanção política objetivando a cobrança de tributos – Verbetes nº 70, 323 e 547 da Súmula do Supremo.
+    TRIBUTO – DÉBITO – NOTAS FISCAIS – CAUÇÃO – SANÇÃO POLÍTICA – IMPROPRIEDADE. Consubstancia sanção política visando o recolhimento de tributo condicionar a expedição de notas fiscais a fiança, garantia real ou fidejussória por parte do contribuinte. Inconstitucionalidade do parágrafo único do artigo 42 da Lei nº 8.820/89, do Estado do Rio Grande do Sul.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu – e reafirmou – na matéria em referência.
+    Impõe-se observar, ainda, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 923.604/SP, Rel. Min. DIAS TOFFOLI – ARE 950.398/SP, Rel. Min. CÁRMEN LÚCIA, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC/15, art. 932, IV, “b”).
+    Publique-se.
+    Brasília, 25 de abril de 2016.
+Ministro CELSO DE MELLO
+Relator
