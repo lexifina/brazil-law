@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “APELAÇÃO CRIMINAL. CRIME CONTRA A. ORDEM TRIBUTÁRIA PREVISTO NO ARTIGO 1º, INCISO V, DA LEI 8.137190. REJEITADA PRELIMINAR DE NULIDADE DA NÃO-PRESTAÇÃO JURISDICIONAL ANTE A APRECIAÇÃO EM SENTENÇA DAS TESES ACOSTADAS EM MEMORIAIS.REJEITADA PRELIMINAR DE ILEGITIMIDADE DE PARTES EM VIRTUDE DA COMPROVAÇÃO DA PARTICIPAÇÃO DA RÉ NA GESTÃO DA EMPRESA. TIPICIDADE DA CONDUTA. APLICAÇÃO DA TEORIA DO DOMÍNIO DO FATO.CONFIGURADO O DOLO DE SUPRESSÃO DE TRIBUTO DEVIDO, COM O FIM DE FRAUDAR A FISCALIZAÇÃO TRIBUTÁRIA. RECURSO CONHECIDO E IMPROVIDO.
+    I - Tendo em vista que a sentença manifestou-se expressamente sobre as teses suscitadas pelas partes, não há nulidade por negativa de prestação jurisdicional.
+    II A participação da ré na gestão da empresa está devidamente comprovada nos autos e fundamentada em sentença, muito embora o seu nome não conste no contrato social.
+    III - Resta comprovada a autoria delitiva do crime de sonegação fiscal, qual seja, omissão de receita tributável apurada com base, no confronto entre as informações prestadas pela administradora de cartão de crédito/débito e as saídas declaradas pela empresa no livro fiscal eletrônico, por parte dos sócios administradores da empresa, através da aplicação da teoria do domínio do fato, a qual considera autor quem tem o controle final do fato e decide sobre a prática, circunstâncias e interrupção do crime.
+    IV - Recurso CONHECIDO e IMPROVIDO.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV, LV, LXVII; e 93, IX, da Constituição. Sustenta que: (i) o acórdão recorrido ignorou, “de forma solene e a despeito das inúmeras repetições, um argumento central da defesa: a inexistência de qualquer dolo, genérico ou específico, dos Recorrentes em não emitir notas fiscais”; (ii) “a necessidade de comprovação de dolo foi dispensada porque ela é difícil, é complicado demonstrar em um processo que o agente teve a reserva mental de cometer o crime”.
+    O recurso é inadmissível, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário. Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão recorrido:
+    “[...]
+    Com efeito, a materialidade é incontroversa, pelas irrefutáveis provas dos autos, tais como Auto de Infração (f. 8/9); Termo de conclusão de Fiscalização (f. 10-1); Resumo de Crédito Tributário (f. 17); Demonstrativo de Apuração de omissão de receita tributáveis provenientes do confronto entre os valores do cartão de débito e crédito Visa e os valores declarados nos livros fiscais eletrônicos (f. 20).
+    [...]
+    Muito embora em outros julgados tenha me posicionado pela necessidade da configuração do dolo específico para a condenação em crime tributário, passo a me filiar ao entendimento de que a autoria do crime tributário prevista no artigo 1º da Lei 8.137/90, deve ser imputada ao sócio administrador ou gerente que possua o controle final do fato, bastando a ocorrência do dolo genérico.
+    […].”
+    Nessa linha, veja-se o RE 856.197, Rel. Min. Gilmar Mendes.
+    Quanto à alegada ofensa ao art. 93, IX, da Constituição, esta Corte já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. No caso, a decisão está devidamente fundamentada, embora em sentido contrário ao interesse da parte agravante.
+    Cabe ressaltar, por fim, que não foram ofendidas as garantias da inafastabilidade do controle jurisdicional, do devido processo legal, do contraditório e da ampla defesa, uma vez que a parte recorrente teve acesso a todos os meios de impugnação previstos na legislação processual, havendo o acórdão recorrido examinado todos os argumentos e fundamentado suas conclusões de forma satisfatória.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 25 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
