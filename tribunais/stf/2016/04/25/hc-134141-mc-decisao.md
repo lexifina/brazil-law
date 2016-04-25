@@ -1,0 +1,19 @@
+DECISÃO
+PASSAPORTE – AUSÊNCIA DO PAÍS – APELAÇÃO – PENDÊNCIA – HABEAS CORPUS – LIMINAR DEFERIDA.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – AUSÊNCIA DE PREJUÍZO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    Licínio Soares Bastos, cidadão português residente no Brasil, buscou, no âmbito do Tribunal Regional Federal da 2ª Região – processo nº 0010271-22.2013.4.02.0000 –, autorização para empreender viagem a Lisboa, em Portugal, e Londres, na Inglaterra, no período de 29 de abril a 20 de maio do ano corrente, motivada em comparecimento à cerimônia de graduação da filha. O Relator, ao deixar de acolher o pedido, consignou inexistente situação urgente de saúde e de afastamento imprescindível. Ressaltou haver apelação na iminência de ser incluída em pauta de julgamento. Salientou não se enquadrar o caso nas situações previstas nos artigos 318, inciso II, do Código de Processo Penal e 117, inciso II, da Lei de Execuções Penais. Citou o que definido pelo Supremo no exame da reclamação nº 13.424/RJ.
+    No Superior Tribunal de Justiça, habeas corpus nº 354.266/RJ, reiterou-se o pleito. Em apreciação sumária, o Relator entendeu não haver manifesta ilegalidade a justificar o deferimento da liminar.
+    Neste habeas, os impetrantes aduzem a inidoneidade das premissas lançadas no ato atacado. Afirmam não estar o paciente submetido a medida constritiva, pois a prisão preventiva anteriormente imposta pelo Juízo da 6ª Vara Federal teria sido afastada pela Turma, no julgamento do habeas corpus nº 91.723/RJ. Dizem do equívoco da alusão feita à reclamação nº 13.424/RJ, porque o paciente não teria figurado como reclamante, não sendo alcançado pelos efeitos da respectiva decisão. Apontam a afronta à autoridade do acórdão formalizado pelo Supremo na mencionada impetração. Salientam que a existência de apelação em curso não justifica a restrição à liberdade do paciente, ante a falta de condenação definitiva. Articulam com a violação ao princípio da presunção da não culpabilidade. Mencionam a autorização para ausentar-se do país implementada em favor do corréu Jaime Garcia Dias, no habeas corpus nº 130.200, da relatoria de Vossa Excelência.
+    Pretendem, em âmbito liminar, seja assegurado ao paciente o direito de retirar-se do território nacional, no período de 29 de abril a 20 de maio de 2016, a fim de comparecer à cerimônia de graduação da filha na cidade de Londres e, posteriormente, de empreender viagem a Portugal, determinando-se ao Tribunal Regional Federal da 2ª Região a devolução do passaporte retido. No mérito, requerem o reconhecimento do livre direito de locomoção do paciente, com a restituição definitiva do passaporte.
+    A fase é de apreciação da medida acauteladora.
+    2. Ao acolher o pedido de liminar no habeas corpus nº 130.200/RJ, assim consignei:
+    2. Observem não estar, até aqui, selada a culpa do paciente. Então, de início, há de manter-se o direito à liberdade de ir e vir, inclusive mediante a feitura de viagem ao exterior, a lazer ou, como no caso, em atendimento a compromisso profissional.
+    O quadro é similar ao retratado neste processo, considerados o princípio da presunção da não culpabilidade e a necessidade de comparecimento a cerimônia de graduação de parente próximo.
+    3. Defiro a medida acauteladora pleiteada, determinando a entrega do passaporte ao paciente e autorizando a viagem pretendida, no período de 29 de abril a 20 de maio do ano corrente.
+    4. O curso deste habeas corpus não prejudica o de nº 354.266/RJ, formalizado no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Felix Fischer.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 25 de abril de 2016.
+Ministro MARCO AURÉLIO
+Relator
