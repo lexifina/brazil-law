@@ -1,0 +1,10 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão do Pleno do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+    “AÇÃO CÍVEL ORIGINÁRIA. PROCESSUAL CIVIL. TRIBUTÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. RECEITAS TRIBUTÁRIAS. PARTICIPAÇÃO DOS MUNICÍPIOS NO PRODUTO DE ARRECADAÇÃO DO ICMS. INTELIGÊNCIA DO ARTIGO 158, IV, DA CONSTITUIÇÃO FEDERAL. REPASSE AO MUNICÍPIO DA PARCELA DO ICMS SEM DEDUÇÃO DE INCENTIVOS FISCAIS PORVENTURA CONCEDIDOS PELO ESTADO. RESTITUIÇÃO DA DIFERENÇA DE VALORES PRETÉRITOS NÃO REPASSADOS À EDILIDADE. OBSERVÂNCIA DA PRESCRIÇÃO QUINQUENAL. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL E DESTA CORTE. PROCEDÊNCIA DO PEDIDO”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV e LV; 25; 145; 155, §2º, XII, g; e 158, IV, todos da Carta. Sustenta, em síntese, que o caso em exame se diferencia dos precedentes citados, porquanto no RE 572.762/SC, o STF entendeu que havia efetiva arrecadação de ICMS sem o posterior repasse da cota-parte para o Município. Já no caso em análise, não há falar em arrecadação, pois, com o benefício fiscal concedido, houve renúncia de receita por parte do Estado do Rio Grande do Norte.
+    A despeito de não se tratar da mesma espécie tributária, a matéria em discussão foi inserida na sistemática da repercussão geral no RE 705.423, porquanto neste último caso se discute, à luz do art. 159, I, b e d, da Constituição Federal, se a concessão de benefícios, incentivos e isenções fiscais relativos ao Imposto de Renda (IR) e ao Imposto sobre Produtos Industrializados (IPI) pode impactar no cálculo do valor devido aos municípios a título de participação na arrecadação dos referidos tributos. O mesmo raciocínio aplica-se ao ICMS, pelo que a matéria é semelhante àquela ora em exame (Tema 653).
+     Diante do exposto, determino a devolução dos autos à origem para aplicação da sistemática da repercussão geral, nos termos do art. 328, parágrafo único, do RI/STF, e da legislação processual civil.
+    Publique-se.
+          Brasília, 25 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
