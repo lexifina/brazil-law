@@ -1,0 +1,33 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. PREVIDÊNCIA PRIVADA. RESGATE DE CONTRIBUIÇÕES. CORREÇÃO MONETÁRIA. ÍNDICE. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Quinta Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios decidiu:
+    “PREVIDÊNCIA PRIVADA – APELAÇÃO CÍVEL - INOVAÇÃO EM SEDE RECURSAL – MATÉRIA RELATIVA A PRESCRIÇÃO JÁ FOI DECIDIDA NO FEITO – TELOS - RESERVAS DE POUPANÇA - EXPURGOS INFLACIONÁRIOS - CORREÇÃO MONETÁRIA PLENA - JUROS MORATÓRIOS – HONORÁRIOS ADVOCATÍCIOS – SENTENÇA REFORMADA – APELO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO.
+    1. Por se tratar de manifesta supressão de instância, a inovação em sede recursal é vedada pelo ordenamento jurídico. Neste sentido, não merece ser conhecido o pleito de aplicação de juros remuneratórios no percentual de 6% ao ano.
+    2. Não merece ser conhecida a preliminar de prescrição parcial suscitada pela ré, porquanto se trata de questão já decidida e acobertada pela coisa julgada, aplicando-se à hipótese o art. 471 do Código de Processo Civil, que dispõe que ‘Nenhum juiz decidirá novamente as questões já decididas, relativas à mesma lide’.
+    3. A reposição de parcelas pagas a plano de previdência privada referente a perdas inflacionárias deve respeitar a correção monetária plena, livre de expurgos, de acordo com o enunciado da Súmula 289 do Colendo Superior Tribunal de Justiça que estabelece: ‘A restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda’.
+    4. Aplica-se o índice que melhor refletiu a inflação nos períodos em que se implementaram diversos planos econômicos, considerando-se que não representa qualquer acréscimo ao valor devido, mas simplesmente atualização do poder aquisitivo da moeda.
+    5. Nos casos de responsabilidade contratual, apenas com a citação válida é que se constitui em mora o devedor (art. 219 do Código de Processo Civil), devendo ser este o termo inicial para a incidência de juros de mora.
+    6. Nas causas de valor inestimável, os honorários serão fixados consoante apreciação equitativa do juiz, atendidos o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e importância da causa, assim como o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+    7. Apelo conhecido e parcialmente provido” (doc. 5, fl. 41).
+    Os embargos declaratórios opostos foram rejeitados.
+    3. Na decisão agravada, foram adotados como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 282 do Supremo Tribunal Federal e a ausência de ofensa constitucional direta.
+    4. A Agravante argumenta ter sido “mantida a agressão ao ato jurídico perfeito e ao princípio da força obrigatória dos contratos, dentre outras normas constitucionais, razão pela qual se fez necessária a interposição do Recurso Extraordinário” (doc. 6, fl. 13).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os arts. 5º, incs. II e XXXVI, e 202 da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste à Agravante.
+    A matéria constitucional suscitada no recurso extraordinário não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco tendo sido opostos embargos de declaração para comprovar ocorrido, no momento processual próprio, o prequestionamento. Incidem, na espécie vertente, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal:
+    “A jurisprudência deste Supremo Tribunal firmou-se no sentido de que os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. Precedentes” (AI n. 580.465-AgR, de minha relatoria, Primeira Turma, DJ 19.9.2008).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processual adequado, nos termos da legislação vigente. A inovação da matéria em embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento. Precedentes” (ARE n. 693.333-AgR, de minha relatoria, Primeira Turma, DJ 19.9.2012).
+    6. No julgamento do Recurso Extraordinário n. 582.504, Relator o Ministro Cezar Peluso, este Supremo Tribunal assentou inexistir repercussão geral na questão discutida neste processo, pela natureza infraconstitucional da matéria:
+    “RECURSO. Extraordinário. Incognoscibilidade. Plano de previdência privada. Resgate das contribuições. Índices de correção. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão de resgate de contribuição de plano de previdência privada, versa sobre matéria infraconstitucional” (DJe 9.10.2009).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Confira-se também o seguinte julgado, de minha relatoria:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDÊNCIA COMPLEMENTAR. RESGATE DE CONTRIBUIÇÕES. CORREÇÃO MONETÁRIA. ÍNDICE APLICÁVEL. AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGADA AFRONTA AO ATO JURÍDICO PERFEITO. PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INCIDÊNCIA DA SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 896.642-AgR, Segunda Turma, DJe 30.9.2015).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego provimento a este agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de abril de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
