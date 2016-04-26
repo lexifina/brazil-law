@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 46, de 11 de abril de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8471.80.00 Mercadoria: Unidade de processamento gráfico constituída de placa de circuito impresso com processador próprio (GPU) e outros elementos elétricos e eletrônicos montados, dotado de dispositivo de dissipação de calor, especialmente concebida para processar os sinais digitais de informações de vídeo em uma máquina automática de processamento de dados, comercialmente denominada placa de vídeo.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.71 e da Nota 5, C) do Capítulo 84) e RGI 6 (texto da subposição 8471.80), da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8471.80.00 Mercadoria: Unidade de processamento gráfico constituída de placa de circuito impresso com processador próprio (GPU) e outros elementos elétricos e eletrônicos montados, dotado de dispositivo de dissipação de calor, especialmente concebida para processar os sinais digitais de informações de vídeo em uma máquina automática de processamento de dados, comercialmente denominada placa de vídeo.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.71 e da Nota 5, C) do Capítulo 84) e RGI 6 (texto da subposição 8471.80), da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+FERNANDO KENJI MYAMOTO
+Vice- Presidente da 3ª Turma
