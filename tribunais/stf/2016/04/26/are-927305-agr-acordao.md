@@ -1,0 +1,430 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 11
+
+26/04/2016
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 927.305 S ÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. LUIZ FUX
+: NAIR MARIA DE ASSIS
+: CARLOS MOLTENI JUNIOR
+: INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+: PROCURADOR-GERAL FEDERAL
+
+EMENTA:
+AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO
+DO BENEFÍCIO DO INSTITUIDOR DA PENSÃO POR MORTE.
+LIMITES DA COISA JULGADA. MATÉRIA COM REPERCUSSÃO
+GERAL REJEITADA PELO STF NO ARE 748.371. TEMA 660. MULTA
+DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. AGRAVO
+REGIMENTAL DESPROVIDO.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal, sob a Presidência do
+Senhor Ministro Luís Roberto Barroso, na conformidade da ata de
+julgamento e das notas taquigráficas, por maioria de votos, em negar
+provimento ao agravo regimental, com imposição de multa, nos termos
+do voto do Relator, vencido o Senhor Ministro Marco Aurélio.
+Brasília, 26 de abril de 2016.
+Ministro LUIZ FUX - RELATOR
+Documento assinado digitalmente
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10975940.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 11
+
+26/04/2016
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 927.305 S ÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. LUIZ FUX
+: NAIR MARIA DE ASSIS
+: CARLOS MOLTENI JUNIOR
+: INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+: PROCURADOR-GERAL FEDERAL
+
+RELATÓRIO
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Trata-se de agravo
+regimental interposto por NAIR MARIA DE ASSIS contra decisão de
+minha relatoria, cuja ementa transcrevo:
+“RECURSO EXTRAORDINÁRIO COM AGRAVO.
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ.
+RMI. LIMITES DA COISA JULGADA. MATÉRIA COM
+REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO
+STF NO ARE 748.371. AGRAVO DESPROVIDO.”
+
+Inconformada com a decisão supra, a agravante interpõe o presente
+recurso, alegando, em síntese:
+"Preliminarmente, data maxima venia, toda a discussão
+inserida na apelação se referiu ao descumprimento da coisa julgada, ou
+seja exatamente ao descumprimento da força normativa do V. Acórdão
+já declinado (doc. 2), visto que o ilustre juiz primário e da mesma
+forma o preclaro Desembargador Relator Fausto de Sancti, da mesma
+colenda Turma, onde foi prolatado o V. Acórdão que estabeleceu os
+critérios dos cálculos, desrespeitaram o teor do v. Acórdão transitado
+em julgado e acolheram a ‘tese’, do INSS, na contra mão do
+entendimento consagrado no referido v. acórdão e que se constituiu em
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10975941.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 11
+
+ARE 927305 AGR / SP
+coisa julgada, data maxima venia, ou seja na r. decisão da mesma
+sétima Turma do TRF de São Paulo e que deu origem ao manto da
+preclusão" (fl. 163v).
+
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10975941.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 4 de 11
+
+26/04/2016
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 927.305 S ÃO
+PAULO
+VOTO
+O SENHOR MINISTRO LUIZ FUX (RELATOR): A presente irresignação
+não merece prosperar.
+Em que pesem os argumentos expendidos no agravo, resta
+evidenciado das razões recursais que a agravante não trouxe nenhum
+argumento capaz de infirmar a decisão hostilizada, razão pela qual deve
+ela ser mantida, por seus próprios fundamentos.
+Com efeito, o acórdão recorrido entendeu que o cálculo da renda
+mensal inicial do benefício de pensão por morte, elaborado pelo INSS,
+encontra-se em conformidade com o título executivo judicial que
+determinou a revisão do benefício do instituidor da pensão por morte
+mediante a aplicação da primeira parte da Súmula 260 do extinto TFR,
+bem como da equivalência salarial prevista no art. 58 do ADCT nos
+reajustes do benefício do segurado falecido.
+Destaco passagem ilustrativa do acórdão recorrido:
+"A RMI devida do benefício de pensão por morte da autora com
+DIB em 08/04/1990, no coeficiente de 60% perfaz o valor de Cr$
+4.893,85, conforme corretamente calculada pelo Instituo na forma da
+legislação vigente, bem como consoante o título judicial, tendo
+corretamente apurado o total de R$ 10.352,23, atualizado até julho de
+2007." (fl. 75 do doc. 5).
+
+Nesse contexto, conforme asseverado na decisão impugnada, a
+suposta violação aos limites da coisa julgada, quando debatida sob a ótica
+infraconstitucional, não desafia a instância extraordinária, por implicar
+análise de matéria infraconstitucional.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10975942.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 5 de 11
+
+ARE 927305 AGR / SP
+
+Aliás, outro não foi o entendimento do Supremo ao afirmar a
+inexistência de repercussão geral do tema ora versado, consoante
+decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da
+Relatoria do Min. Gilmar Mendes, DJe de 1º/8/2013, o qual possui a
+seguinte ementa:
+“Alegação de cerceamento do direito de defesa. Tema relativo à
+suposta violação aos princípios do contraditório, da ampla defesa, dos
+limites da coisa julgada e do devido processo legal. Julgamento da
+causa dependente de prévia análise da adequada aplicação das normas
+infraconstitucionais. Rejeição da repercussão geral.“
+
+Nesse sentido, aliás, é a jurisprudência desta Corte, como se infere
+dos seguintes julgados:
+“DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL
+EM RECURSO EXTRAORDINÁRIO. REVISÃO DE PENSÃO.
+LIMITES OBJETIVOS DA COISA JULGADA. 1. O Supremo
+Tribunal Federal já assentou a ausência de repercussão geral da
+controvérsia relativa à violação aos limites da coisa julgada, quando o
+julgamento da causa depender de prévia análise da adequada aplicação
+de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar
+Mendes). 2. Agravo regimental a que se nega provimento.” (RE
+778.348-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe
+de 25/2/2016).
+“PROCESSUAL
+CIVIL.
+AGRAVO
+REGIMENTAL.
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR
+DE
+REPERCUSSÃO
+GERAL.
+FUNDAMENTAÇÃO
+DEFICIENTE. ÔNUS DO RECORRENTE. VIOLAÇÃO AO ART.
+93, IX, DA CF/88. OMISSÃO NÃO CONFIGURADA.
+FUNDAMENTAÇÃO DO JULGADO RECORRIDO NOS
+TERMOS DAS DIRETRIZES FIXADAS NO AI 791.292 RG (REL.
+MIN. GILMAR MENDES, TEMA 339). OFENSA AOS
+PRINCÍPIOS DO DIREITO ADQUIRIDO, DO ATO JURÍDICO
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10975942.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 6 de 11
+
+ARE 927305 AGR / SP
+PERFEITO, DA COISA JULGADA, DA LEGALIDADE, DO
+CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO
+PROCESSO LEGAL. QUESTÃO INFRACONSTITUCIONAL.
+REPERCUSSÃO GERAL NEGADA (ARE 748.371, REL. MIN.
+GILMAR MENDES, TEMA 660). AGRAVO REGIMENTAL A
+QUE SE NEGA PROVIMENTO.” (ARE 922.412-AgR, Rel. Min.
+Teori Zavascki, Segunda Turma, DJe de 1º/3/2016).
+
+Por fim, impende consignar que o agravo regimental revela-se
+manifestamente incabível, notadamente em função da reiterada rejeição
+dos argumentos repetidamente expendidos pela parte nas sedes recursais
+anteriores. Destarte, impõe-se a aplicação da multa prevista no § 2º do
+artigo 557 do Código de Processo Civil de 1973, a qual fixo em 1% (um
+por cento) do valor corrigido da causa (precedentes: AI 552.492-AgR, Rel.
+Min. Marco Aurélio, Primeira Turma, DJe de 7/3/2016; ARE 827.024-AgR,
+Rel. Min. Marco Aurélio, Primeira Turma, DJe de 25/2/2016; ARE 878.103AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 25/2/2016).
+Ex positis, NEGO PROVIMENTO ao agravo regimental, aplico à
+agravante a multa de 1% (um por cento) sobre o valor da causa (artigo
+557, § 2º, do CPC/1973).
+É como voto.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 10975942.
+
+Supremo Tribunal Federal
+Voto - MIN. MARCO AURÉLIO
+
+Inteiro Teor do Acórdão - Página 7 de 11
+
+26/04/2016
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 927.305 S ÃO
+PAULO
+
+O SENHOR MINISTRO MARCO AURÉLIO – Presidente, estamos a
+ver que, pelo menos, o ministro Luiz Fux adotará o trânsito em julgado
+nos primeiros embargos declaratórios e, também, no agravo.
+O SENHOR
+(PRESIDENTE) - É.
+
+MINISTRO
+
+LUÍS
+
+ROBERTO
+
+BARROSO
+
+O SENHOR MINISTRO MARCO AURÉLIO – Então, saliento que
+não se trata de situação singular. Em segundo lugar, vencido quanto a
+essa determinação de baixa.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11284721.
+
+Supremo Tribunal Federal
+Aditamento ao Voto
+
+Inteiro Teor do Acórdão - Página 8 de 11
+
+26/04/2016
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 927.305 S ÃO
+PAULO
+
+O SENHOR MINISTRO MARCO AURÉLIO – Estou a divergir no de
+nº 7 da lista. É a questão dos limites da coisa julgada, no que apontada
+como matéria infraconstitucional.
+Para mim, é tema constitucional de envergadura maior. Revela-se ato
+jurídico perfeito e acabado por excelência, porque originário do
+Judiciário, e cabe ao Supremo, caso a caso, analisar se houve, ou não, o
+menosprezo às balizas respectivas.
+Estou provendo o de nº 7. E, por último, o de nº 11, que também
+versa a mesma matéria.
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO
+(PRESIDENTE) - Vossa Excelência discorda no mérito no sétimo ...?
+O SENHOR MINISTRO MARCO AURÉLIO – E, também, quanto à
+determinação de trânsito em julgado sem a publicação do acórdão
+resultante destes julgamentos. Divirjo nos dois enunciados por Vossa
+Excelência.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11284753.
+
+Supremo Tribunal Federal
+Observação
+
+Inteiro Teor do Acórdão - Página 9 de 11
+
+26/04/2016
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 927.305 S ÃO
+PAULO
+
+OBSERVAÇÃO
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO
+(PRESIDENTE) - Ministro Fux, eu, para nós, pelo menos
+majoritariamente, e o Ministro Fachin agirmos de maneira padronizada.
+O SENHOR MINISTRO LUIZ FUX (RELATOR) – Padronizarmos.
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO
+(PRESIDENTE) - Eu me inclinaria a determinar trânsito em julgado e
+baixa imediata nos embargos de declaração.
+O SENHOR MINISTRO LUIZ FUX (RELATOR) - Está bem.
+O SENHOR MINISTRO
+(PRESIDENTE)- Está bem assim?
+
+LUÍS
+
+ROBERTO
+
+BARROSO
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR) - Está bem assim.
+Então, aqui, temos que corrigir.
+O SENHOR MINISTRO LUÍS ROBERTO
+(PRESIDENTE) - Fazemos uma retificação. Lista nº 5.
+
+BARROSO
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR) - Desprover os
+agravos com aplicação de multa. Só.
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO
+(PRESIDENTE) - Lista nº 5. Desprovidos os agravos com aplicação de
+multa. Vencido o Ministro Marco Aurélio.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11284734.
+
+Supremo Tribunal Federal
+Observação
+
+Inteiro Teor do Acórdão - Página 10 de 11
+
+ARE 927305 AGR / SP
+Portanto, retiramos a parte que Vossa Excelência e a Ministra Rosa
+divergem.
+Vencido o Ministro Marco Aurélio quanto aos itens 7 e 11.
+O SENHOR MINISTRO MARCO AURÉLIO – Retiramos ou
+formamos maioria? Não vamos mais determinar o trânsito em julgado em
+se tratando de agravo?
+O SENHOR MINISTRO LUÍS ROBERTO
+(PRESIDENTE) - Não. Ficou convencionado pela maioria...
+
+BARROSO
+
+O SENHOR MINISTRO MARCO AURÉLIO – Por unanimidade.
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO
+(PRESIDENTE) - Não, eu digo, mas ficou convencionado que nós
+praticaremos a baixa imediata nos embargos de declaração. Quer dizer, o
+agravo regimental - jogo normal, ainda. Embargos de declaração, depois
+do agravo regimental, se não houver matéria nova ...
+O SENHOR MINISTRO MARCO AURÉLIO – Se forem os primeiros
+embargos declaratórios, o escore é apertado? Três a dois.
+O SENHOR MINISTRO
+(PRESIDENTE) - Três a dois.
+
+LUÍS
+
+ROBERTO
+
+BARROSO
+
+O SENHOR MINISTRO MARCO AURÉLIO – Está bem.
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO
+(PRESIDENTE) - Mas nós havíamos cogitado de nem caber agravo
+regimental. Nós estamos admitindo o agravo regimental e, agora,
+dizendo que embargos já é demais.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11284734.
+
+Supremo Tribunal Federal
+Extrato de Ata - 26/04/2016
+
+Inteiro Teor do Acórdão - Página 11 de 11
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 927.305
+PROCED. : SÃO PAULO
+RELATOR : MIN. LUIZ FUX
+AGTE.(S) : NAIR MARIA DE ASSIS
+ADV.(A/S) : CARLOS MOLTENI JUNIOR (0015155/SP)
+AGDO.(A/S) : INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+PROC.(A/S)(ES) : PROCURADOR-GERAL FEDERAL
+Decisão: Por maioria de votos, a Turma negou provimento ao
+agravo regimental, com imposição de multa, nos termos do voto do
+Relator, vencido o Senhor Ministro Marco Aurélio. Presidência do
+Senhor Ministro Luís Roberto Barroso. 1ª Turma, 26.4.2016.
+Presidência do Senhor Ministro Luís Roberto Barroso. Presentes
+à Sessão os Senhores Ministros Marco Aurélio, Luiz Fux, Rosa Weber
+e Edson Fachin.
+Subprocurador-Geral
+Almeida.
+
+da
+
+República,
+
+Dr.
+
+Edson
+
+Oliveira
+
+de
+
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 10914871
