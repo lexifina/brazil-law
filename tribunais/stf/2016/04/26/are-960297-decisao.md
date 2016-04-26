@@ -1,0 +1,20 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituídas de repercussão geral as questões suscitadas no RE 611.505-RG/SC, Red. p/ o acórdão Min. RICARDO LEWANDOWSKI, e no RE 745.901- -RG/PR, Rel. Min. TEORI ZAVASCKI, fazendo-o, respectivamente, em decisões assim ementadas:
+    “REPERCUSSÃO GERAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE VALORES PAGOS PELO EMPREGADOR NOS PRIMEIROS QUINZE DIAS DE AUXÍLIO-DOENÇA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+    I – A discussão sobre a incidência, ou não, de contribuição previdenciária sobre valores pagos pelo empregador nos primeiros quinze dias de auxílio-doença situa-se em âmbito infraconstitucional, não havendo questão constitucional a ser apreciada.
+    II – Repercussão geral inexistente.”
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. AVISO PRÉVIO INDENIZADO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA JURÍDICA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. A controvérsia relativa à incidência de contribuição previdenciária sobre as verbas pagas a título de aviso prévio indenizado, fundada na interpretação da Lei nº 8.212/91 e do Decreto nº 6.727/09, é de natureza infraconstitucional.
+    2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009).
+    3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento, no ponto, do recurso extraordinário interposto pela parte ora agravante.
+    Cabe registrar, de outro lado, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 593.068-RG/SC, Rel. Min. ROBERTO BARROSO, reconheceu existente a repercussão geral da questão constitucional nele suscitada, que coincide com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+    “CONSTITUCIONAL. REPERCUSSÃO GERAL.
+    TRIBUTÁRIO. SERVIDOR PÚBLICO FEDERAL. REGIME PREVIDENCIÁRIO. CONTRIBUIÇÃO. BASE DE CÁLCULO. TERÇO CONSTITUCIONAL DE FÉRIAS. GRATIFICAÇÃO NATALINA (DÉCIMO-TERCEIRO SALÁRIO). HORAS EXTRAS. OUTROS PAGAMENTOS DE CARÁTER TRANSITÓRIO. LEIS Nº 9.783/1999 E Nº 10.887/2004.
+    CARACTERIZAÇÃO DOS VALORES COMO REMUNERAÇÃO (BASE DE CÁLCULO DO TRIBUTO). ACÓRDÃO QUE CONCLUI PELA PRESENÇA DE PROPÓSITO ATUARIAL NA INCLUSÃO DOS VALORES NA BASE DE CÁLCULO DO TRIBUTO (SOLIDARIEDADE DO SISTEMA DE CUSTEIO).
+    1. Recurso extraordinário em que se discute a exigibilidade da contribuição previdenciária incidente sobre adicionais e gratificações temporárias, tais como ‘terço de férias’, ‘serviços extraordinários’, ‘adicional noturno’, e ‘adicional de insalubridade’. Discussão sobre a caracterização dos valores como remuneração, e, portanto, insertos ou não na base de cálculo do tributo. Alegada impossibilidade de criação de fonte de custeio sem contrapartida de benefício direto ao contribuinte. Alcance do sistema previdenciário solidário e submetido ao equilíbrio atuarial e financeiro (arts. 40, 150, IV e 195, § 5º da Constituição).
+    2. Encaminhamento da questão pela existência de repercussão geral da matéria constitucional controvertida.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, conheço, em parte, do recurso extraordinário, para, nessa parte, determinar a devolução dos presentes autos ao Tribunal de origem, para que, neste, seja observado o disposto no art. 1.040 do CPC/15 quanto ao Tema 163 – www.stf.jus.br – Jurisprudência – Repercussão Geral.
+    Publique-se.
+    Brasília, 26 de abril de 2016.
+Ministro CELSO DE MELLO
+Relator
