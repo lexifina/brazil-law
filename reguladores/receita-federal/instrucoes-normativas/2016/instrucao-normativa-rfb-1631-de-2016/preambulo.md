@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1631, de 22 de abril de 2016
+Estabelece regras especiais sobre obrigações tributárias acessórias para as pessoas jurídicas que gozam dos benefícios fiscais de que trata a Lei nº 12.780, de 9 de janeiro de 2013, relativos à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paralímpicos de 2016.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Lei nº 12.780, de 9 de janeiro de 2013, e no Decreto nº 8.463, de 5 de junho de 2015, resolve:
