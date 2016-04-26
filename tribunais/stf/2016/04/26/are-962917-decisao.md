@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Turma Recursal dos Juizados Especiais Cíveis e Criminais de Natal/RN, assim ementado:
+    “RECURSO INOMINADO. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS E PEDIDO LIMINAR. RELAÇÃO DE CONSUMO. EMPRÉSTIMOS CONSINGADOS. PLEITO PARA DESCONTOS NO LIMITE DE 30% (TRINTA POR CENTO) DO VALOR LÍQUIDO PERCEBIDO. INTELIGÊNCIA DA LEI N. 10820/03. SENTENÇA QUE DETERMINOU A OBRIBAÇÃO DE FAZER CONSISTENTE EM CESSAR OS DESCONTOS SUPERIORES A 30% DA REMUNERAÇÃO DO PROMOVENTE. DESCUMPRIMENTO. EXECUÇÃO. MULTA POR DESCUMPRIMENTO. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO REALIZADA. NÃO HOUVE ACORDO. COMPROVAÇÃO DO DESCUMPRIMENTO. NOVA DETERMINAÇÃO PARA QUE AS PARTES APRESENTEM O VALOR ATUAL DA DÍVIDA PARA FINS DE COMPENSAÇÃO COM O VALOR DA MULTA EM EXECUÇÃO. DETERMINAÇÃO REITERADA PARA CESSAR OS DESCONTOS SUPERIORES A 30% DOS VENCIMENTOS. SENTENÇA QUE DETERMINOU A COMPENSAÇÃO DOS CRÉDITOS. ART. 368 DO CÓDIGO CIVIL. RECURSO. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. COMUNICADO DO CUMPRIMENTO DA OBRIGAÇÃO DE FAZER. DOCUMENTO CONFECCIONADO DE FORMA UNILATERAL. RECURSO CONHECIDO E IMPROVIDO” (fl. 94).
+    No recurso extraordinário, sustenta-se violação do artigo 170, inciso IX, parágrafo único, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, ressalte-se que a jurisprudência desta Suprema Corte é firme no sentido de que a discussão acerca do valor da multa aplicada em razão de descumprimento de decisão judicial está restrita à interpretação da legislação processual ordinária e ao exame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 636 desta Corte. Sobre o tema, anote-se:
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MULTA (ASTREINTES) PELO DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER. VALOR EXCESSIVO. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTES DOS AUTOS. SÚMULA 279/STF. 1. Para dissentir do acórdão recorrido, quanto ao valor da multa aplicada, considerado excessivo, seria necessário nova apreciação dos fatos e do material probatório constantes dos autos (Súmula 279/STF), assim como a análise de matéria infraconstitucional. Precedentes. 2. Agravo regimental a que se nega provimento” (ARE nº 884.168/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 11/9/15).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 26 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
