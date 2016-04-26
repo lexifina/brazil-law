@@ -1,0 +1,17 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo interposto contra decisão que não admitiu recurso extraordinário fundado na letra a do permissivo constitucional, por estar o acórdão recorrido em consonância com a jurisprudência do Supremo Tribunal Federal.
+    A União alega contrariedade ao art. 150, VI, “c” da Constituição, bem como aos princípios do contraditório e da ampla defesa. Sustenta não ter sido intimada da juntada de documentos novos.
+    A irresignação não merece prosperar.
+    Inicialmente registro que a questão relativa a ausência de intimação da União tem natureza processual. A jurisprudência da Corte é firme no sentido de que a alegação de ofensa aos princípios do contraditório e da ampla defesa, se dependentes da análise de normas infraconstitucionais, como no caso, pode configurar, quando muito, afronta reflexa ao texto constitucional, não viabilizando a abertura da via extraordinária.
+    Ademais, a Corte, nos termos da Súmula 730/STF, firmou orientação no sentido de que A imunidade tributária conferida a instituições de assistência social sem fins lucrativos pelo art. 150, VI, "c", da Constituição, somente alcança as entidades fechadas de previdência social privada se não houver contribuição dos beneficiários .
+    No mesmo sentido, os seguintes julgados:
+    EMBARGOS DE DIVERGÊNCIA. TRIBUTÁRIO. IMUNIDADE. ASSISTÊNCIA SOCIAL. ENTIDADE DE PREVIDÊNCIA PRIVADA. 1. A orientação firmada pela Corte somente reconhece a imunidade tributária prevista no art. 150, VI, c, da Constituição às entidades fechadas de previdência social privada se não houver contribuição dos beneficiários, nos termos da Súmula 730/STF. 2. Embargos de divergência não conhecidos (RE n° 127.584/SP-EDv, Tribunal Pleno, Relator o Ministro Joaquim Barbosa , DJE de 14/11/08).
+    1. RECURSO. Extraordinário. Inadmissibilidade. Tributário. Imunidade. Inexistência. Entidade fechada de previdência privada. Contribuição dos beneficiários. Agravo regimental não provido. Súmula 730. Não há falar em imunidade tributária das entidades fechadas de previdência privada, quando há cobrança de contribuição dos seus beneficiários . 2. RECURSO. Agravo. Regimental. Contrariedade a jurisprudência assentada sobre a matéria. Súmula 730. Argumentação velha e impertinente. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar a parte agravante a pagar multa ao agravado. Reputa-se abusivo o recurso que, sem novos argumentos sobre a quaestio iuris , investe contra orientação sumulada ou jurisprudência (RE n° 281.052/RJ-AgR, Primeira Turma, Relator o Ministro Cezar Peluso , DJ de 24/9/04).
+    No caso dos autos, o Tribunal de origem, a partir dos elementos fáticos dos autos, concluiu que o plano de previdência privada é custeado integralmente pelas empresas patrocinadoras e não pelos seus beneficiários participantes, razão pela qual aplicável o entendimento sumulado. Para dissentir do que decidido, mister o revolvimento do conjunto fático e probatório dos autos, providência vedada em sede de recurso extraordinário.
+    Ante o exposto, nos termos do art. 21, § 1º do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 26 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
