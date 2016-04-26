@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado, no que interessa:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. COISA JULGADA FORMAL. AUSÊNCIA DE INTERESSE DE AGIR. AJUIZAMENTO DE NOVA DEMANDA IDÊNTICA. CAUSA EXTINTIVA DA AÇÃO ANTERIOR NÃO SUPERADA. IMPOSSIBILIDADE. SEGURANÇA JURÍDICA (...). RECURSO DE REVISTA. PRELIMINAR DE NULIDADE DO ACÓRDÃO DO REGIONAL POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL (…). COISA JULGADA FORMAL. AUSÊNCIA DE INTERESSE DE AGIR. AJUIZAMENTO DE NOVA DEMANDA IDÊNTICA. CAUSA EXTINTIVA DA AÇÃO ANTERIOR NÃO SUPERADA. IMPOSSIBILIDADE. SEGURANÇA JURÍDICA”. (eDOC 16, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 5º, XXXVI e LIV; e 8º, III, do texto constitucional.
+    Aponta-se equívoco do Tribunal Superior do Trabalho que extinguiu o processo ante a existência de coisa julgada, sob o fundamento de que apenas a coisa julgada material poderia acarretar a extinção do feito.
+    Alega-se ainda que o acórdão recorrido ofendeu o art. 8º, III, da CF/88, uma vez que o sindicato possui legitimidade ativa ampla e irrestrita para defender os interesses da categoria.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    No tocante à suposta ofensa ao princípio do devido processo legal e aos limites da coisa julgada, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Quanto à alegação de afronta ao artigo 8º, III, da Constituição Federal, verifico que o Tribunal Superior do Trabalho apenas reconheceu a existência da coisa julgada, sem o enfrentamento da questão suscitada. Assim, verifico que, com relação a este ponto, as razões do recurso extraordinário encontram-se dissociadas dos fundamentos do acórdão recorrido. Aplicável à espécie, portanto, a Súmula 284 do STF.
+    Quanto ao tema, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. ICMS. MERCADORIA IMPORTADA. REALIDADE PROCESSUAL. PRESSUPOSTOS DE ADMISSIBILIDADE. 1. Constata-se que as alegações esposadas pela parte Agravante encontram-se dissociadas da realidade processual dos autos, porquanto se negou seguimento aos embargos de divergência em razão da inexistência de distinção de entendimento entre as Turmas desta Corte. Súmula 284 do STF. Precedentes. 2. Agravo regimental a que se nega provimento”. (AI 405.654-AgR-EDv-AgR/RS, Rel. Min. Edson Fachin, Tribunal Pleno, DJe 17.3.2016)
+    “Embargos de declaração em embargos de declaração em recurso extraordinário com agravo contra decisão que determinou a inversão dos ônus sucumbenciais no montante fixado na sentença, tendo em vista o total provimento do extraordinário. Conversão em agravo regimental. Princípio da Fungibilidade. Precedentes. 2. Razões do recurso dissociadas dos fundamentos da decisão recorrida. Incidência da Súmula 284. 3. Preclusão da matéria objeto da irresignação recursal. Julgamento claro e bem fundamentado do recurso extraordinário com agravo contra o qual a agravante não interpôs recurso. 4. Agravo regimental a que se nega provimento”. (ARE 723.378-ED-ED/RN, da minha relatoria, Segunda Turma, DJe 11.9.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
