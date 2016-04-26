@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “CONCURSO – Anulação de questões – Opções confusas, dando causa a mais de uma interpretação – Mais de uma questão correta – Desacordo com edital – Possibilidade de revisão pelo Poder Judiciário – Sentença mantida – Recurso improvido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 2º da Constituição. Sustenta que “é ‘iterativa a orientação dos tribunais superiores no sentido de que o Poder Judiciário é incompetente para, substituindo-se à banca examinadora de concurso público, reexaminar o conteúdo das questões formuladas, os critérios de correção das provas, e atribuição de notas aos candidatos, matérias cuja responsabilidade é da Administração Pública’”.
+    O recurso merece acolhida, tendo em vista que a decisão proferida pelo Tribunal de origem não está alinhada com a jurisprudência desta Corte.
+    No caso, o Tribunal de origem declarou nulas as questões de números 03, 08 e 16 do concurso público de promoção à graduação de Cabo da Polícia Militar do Estado de São Paulo, diante da possibilidade de respostas diversas, entre as escolhas colocadas para a análise dos candidatos.
+    O Supremo Tribunal Federal, ao analisar caso semelhante sob a sistemática da repercussão geral, deu provimento ao RE 632.853-RG, Rel. Min. Gilmar Mendes, por entender que: “Não compete ao Poder Judiciário substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, salvo ocorrência de ilegalidade e inconstitucionalidade”. Vejam-se os seguintes trechos do voto do precedente mencionado:
+    “O acórdão recorrido confirmou a sentença que declarou nula as questões objetivas 23, 25, 26, 27, 29, 39, 42 e 48 do concurso, por entender que elas possuem mais de uma alternativa correta, conforme a doutrina indicada no edital do certame.
+    É antiga a jurisprudência desta Corte no sentido de que não compete ao Poder Judiciário substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, salvo ocorrência de ilegalidade e inconstitucionalidade.
+    […]
+    Na espécie, o acórdão recorrido divergiu desse entendimento ao entrar no mérito do ato administrativo e substituir a banca examinadora para renovar a correção de questões de concurso público, violando o princípio da separação dos poderes e a própria reserva de administração ( Verwaltungsvorbehalt ).
+    Não se trata de controle de conteúdo das provas ante os limites expressos no edital, admitido pela jurisprudência do STF nas controvérsias judiciais sobre concurso público. Ao contrário, o acórdão recorrido, expressamente, substituiu a banca do certame, de forma a proceder à nova correção das questões.
+    Tanto a sentença quanto o aresto recorrido reavaliaram as respostas apresentadas pelos candidatos para determinar quais seriam os itens corretos e falsos de acordo com a doutrina e a literatura técnica em enfermagem. Com base nessa literatura especializada, o acórdão recorrido infirmou o entendimento da banca e identificou mais de um item correto em determinadas questões do certame, extrapolando o controle de legalidade e constitucionalidade, para realizar análise doutrinária das respostas.
+    Em outras palavras, os juízos ordinários não se limitaram a controlar a pertinência do exame aplicado ao conteúdo discriminado no edital, mas foram além para apreciar os critérios de avaliação e a própria correção técnica do gabarito oficial.
+    Assim, houve indevido ingresso do Poder Judiciário na correção de provas de concurso público, em flagrante violação à jurisprudência do Supremo Tribunal Federal.”
+    Dessa orientação divergiu o acórdão recorrido ao anular as questões do concurso em análise por entender que outras respostas seriam as corretas, substituindo os critérios de correção da banca examinadora do certame, o que é vedado pelo poder Judiciário.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário para julgar improcedente os pedidos formulados na inicial, invertidos os ônus de sucumbência.
+    Publique-se.
+                Brasília, 26 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
