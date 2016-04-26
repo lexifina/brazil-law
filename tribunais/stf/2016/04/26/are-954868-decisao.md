@@ -1,0 +1,27 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pela E. 2ª Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado da Bahia, está assim ementado:
+    “RECURSO INOMINADO. EXTINÇÃO EM RAZÃO DE INCOMPETÊNCIA TERRITORIAL RECONHECIDA DE OFÍCIO. AÇÃO DE INDENIZAÇÃO A TÍTULO DE DANOS MORAIS. CONSUMIDOR. CONTRATO DE PROMESSA DE COMPRA E VENDA. APLICAÇÃO DO ENUNCIADO 39 DO FONAJE. PROPAGANDA ENGANOSA. DANOS MORAIS CONFIGURADOS. PRORROGAÇÃO DA COMPETÊNCIA QUE É RELATIVA. CAUSA MADURA. RESPONSABILIDADE SOLIDÁRIA. RECURSO CONHECIDO E PROVIDO.
+    1. Nos Juizados Especiais Cíveis vigoram os princípios da simplicidade, informalidade, economia e celeridade.
+    2. Com efeito, quando o construtor edifica e vende a unidade, assume obrigação de dar coisa certa, o que configura o produto, de que cogita o CDC.
+    3. A propaganda veiculada, estipulando uma determinada infraestrutura, gera expectativa legítima nos consumidores, razão pela qual obriga o fornecedor e integra o contrato a ser celebrado, nos termos do art. 30 do CDC.”
+    As partes ora recorrentes, ao deduzirem o apelo extremo em questão, sustentaram que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, II, 22, I, e 24, X, da Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário não se revela viável.
+    É que ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368, Rel. Min. MOREIRA ALVES – RTJ 131/1391, Rel. Min. CELSO DE MELLO – RTJ 144/300, Rel. Min. MARCO AURÉLIO – RTJ 153/989, Rel. Min. CELSO DE MELLO), incidem as Súmulas 282 e 356 desta Corte.
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelos recorrentes, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    A configuração jurídica do prequestionamento – que traduz elemento indispensável ao conhecimento do recurso extraordinário – decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 – RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+    De qualquer maneira, no entanto, e mesmo que se pudesse superar tal óbice, ainda assim não se revelaria acolhível o apelo extremo a que se refere o presente agravo.
+    Com efeito, cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cabe enfatizar, de outro lado, que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte:
+    “Agravo regimental no agravo de instrumento. Negativa de prestação jurisdicional. Não ocorrência. Juizados especiais. Competência. Complexidade da matéria. Valor da causa. Ofensa reflexa. Precedentes.
+    1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente fundamentada.
+    2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o exame de ofensa reflexa à Constituição Federal. Incidência da Súmula nº 636/STF.
+    3. Agravo regimental não provido.”
+    (AI 858.108-AgR/MG, Rel. Min. DIAS TOFFOLI – grifei)
+    “Agravo regimental em recurso extraordinário. 2. Direito Previdenciário. Juizado especial. Valor da causa. Competência. Necessidade do revolvimento do conjunto fático-probatório dos autos. Incidência do Enunciado 279 da Súmula do STF. Matéria infraconstitucional. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.”
+    (RE 797.454-AgR/RS, Rel. Min. GILMAR MENDES – grifei)
+    Os precedentes que venho de referir guardam inteira pertinência com a legislação processual que se achava em vigor no momento em que ocorrida a publicação do ato ora questionado no apelo extremo (“tempus regit actum”).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 26 de abril de 2016.
+Ministro CELSO DE MELLO
+Relator
