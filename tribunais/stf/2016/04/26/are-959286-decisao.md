@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. PRESCRIÇÃO. TERMO FINAL. FERIADO. PRORROGAÇÃO PRIMEIRO DIA ÚTIL. OCORRÊNCIA. A razão do instituto da prescrição refere-se à preservação da segurança jurídica, de modo a impedir a eterna vinculação do devedor ao credor. Situações excepcionais que se refletem nos casos em que o termo final do prazo prescricional ocorrer em dias que não haja expediente forense, como finais de semanas, feriados e férias, devem ser analisados de modo peculiar, de forma a não implicar na perda da pretensão, tendo em vista não ser o rigor exacerbado da norma que trará a pacificação social. Aplicação do disposto no art. 184, § 1º do C.P.C. De forma analógica, estendendo o termo ad quem para o primeiro dia útil subsequente à data da ocorrência do prazo prescricional. Conhecimento do recurso e seu provimento.”
+     O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 236 da Constituição. Sustenta que “mister a culminância de interpretação de todos os artigos legais supra citados, inclusive de âmbito constitucional para que a legitimidade do Estado seja afastada e, por conseguinte, o seu dever de indenizar, uma vez que , sendo a atividade do Notário função delegada da Administração Pública, deverá ser enquadrado , nos termos do art. 236 da Constituição Federal, logo, devendo ser diretamente responsabilizados pelos danos causados a terceiros”.
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, a Súmula 282/STF.
+    O recurso é inadmissível. Isso porque o Tribunal de origem se restringiu a afastar a prescrição da presente controvérsia. As razões do recurso extraordinário, por sua vez, limitaram-se a sustentar os argumentos de mérito da questão. Portanto, as razões apresentadas no recurso extraordinário estão dissociadas dos fundamentos do acórdão recorrido. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
