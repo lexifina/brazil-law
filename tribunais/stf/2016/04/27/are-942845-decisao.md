@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – PRESTAÇÃO JURISDICIONAL – ENTREGA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de origem assentou, com alicerce em regulamentação infraconstitucional, a procedência do pedido, afirmando ter a autora direito líquido e certo à nomeação ao cargo de professor mediante a apresentação de atestado de conclusão de curso de ensino superior diverso do diploma emitido pela Instituição de ensino. No extraordinário cujo processamento busca alcançar, o recorrente alega violação aos artigos 5º, cabeça, e 37, incisos I e II, da Constituição Federal. Aponta omissões no acórdão atacado. Sustenta não ter a recorrida atendido os requisitos prescritos no edital.
+    2. O recurso extraordinário direciona ao atendimento cumulativo dos requisitos gerais de recorribilidade adequação, oportunidade, interesse de agir, representação processual e preparo e a um dos específicos previstos no inciso III do artigo 102 da Carta da República. O acesso ao Supremo faz-se, por isso mesmo, em via de excepcionalidade maior, tudo objetivando a atuação precípua do Tribunal, qual seja, a guarda da supremacia da Constituição Federal.
+    Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter à análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço deste agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 27 de abril de 2016.
+Ministro MARCO AURÉLIO
+Relator
