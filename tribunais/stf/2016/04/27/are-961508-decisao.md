@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPI. PRODUTO INDUSTRIALIZADO IMPORTADO. SAÍDA DO ESTABELECIMENTO DO IMPORTADOR. EQUIPARAÇÃO À INDUSTRIAL. POSSIBILIDADE DA INCIDÊNCIA NO DESEMBARAÇO ADUANEIRO E NA REVENDA NO MERCADO INTERNO. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS (CTN, LEI Nº 4.502/1964, DECRETO nº 7.212/2010). NÃO CABIMENTO DO RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “TRIBUTÁRIO. IPI. IMPORTADOR. COMERCIANTE EQUIPARADO A INDUSTRIAL. DESEMBARAÇO ADUANEIRO. SAÍDA DO ESTABELECIMENTO. PRINCÍPIO CONSTITUCIONAL DA NÃO CUMULATIVIDADE.
+    1. É devido o IPI no desembaraço aduaneiro de produto industrializado, assim como na saída do estabelecimento comercial, equiparado a industrial, compensando-se o que for devido na última operação com o que foi pago na primeira, por força do princípio constitucional da não cumulatividade. Precedente do STJ representativo da controvérsia.
+    2. Sentença reformada.” (documento eletrônico 5).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 153, IV, e 154, I, da Constituição Federal, alegando, em síntese, a inconstitucionalidade da incidência do IPI sobre a venda de produto industrializado importado.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição da República).
+    Com efeito, a controvérsia discutida nos autos foi decidida à luz da interpretação de normas infraconstitucionais (CTN, Lei nº 4.502/1964, Decreto nº 7.212/2010). Ocorre que a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário.
+    Adotando esse entendimento em situações semelhante, destaco os seguintes precedentes: RE 815.694-AgR, Rel. Min. Rosa Weber, 1ª Turma, DJe de 18/12/2014, RE 586.496-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe de 2/3/2011, ADI 2.932, Rel. Min. Eros Grau, DJe de 10/11/2008, RE 804.243, Rel. Min. Marco Aurélio, DJe de 10/6/2014, RE 799.688, Rel. Min. Ricardo Lewandowski, DJe de 29/4/2014, RE 810.531-AgR-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe de 8/4/2015, este último com a seguinte ementa:
+     “Agravo regimental no agravo regimental no recurso extraordinário. Tributário. IPI na importação. Princípio da isonomia. Operação de industrialização. Afronta reflexa. 1. O Tribunal de origem decidiu a controvérsia com base na legislação infraconstitucional (arts. 46, I, II e III; e 51 do Código Tributário Nacional; arts. 4º, I; e 25 da Lei 4.502; e art. 226 do Decreto 7.212/2010), sendo certo que para rever essa decisão, seria necessário analisar a controvérsia à luz da referida legislação. 2. Eventual afronta ao texto constitucional, caso ocorresse, seria meramente reflexa ou indireta. 3. Agravo regimental não provido”.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de abril de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
