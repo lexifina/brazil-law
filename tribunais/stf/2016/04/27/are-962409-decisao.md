@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “CONCURSO PÚBLICO – DEFICIÊNCIA – NANISMO – NÃO COMPROVAÇÃO – VIOLAÇÃO AO PRINCÍPIO DO CONTRADITÓRIO E AMPLA DEFESA – INOCORRÊNCIA – SENTENÇA MANTIDA.
+    1) - Tendo o laudo da perícia médica presunção de veracidade e legalidade, possuindo fé pública, concluído por não ser a candidata considerada como pessoal com deficiência e não tendo a recorrente requerido a produção de provas, não se desincumbiu do ônus de fazer provas dos fatos constitutivos do seu direito, nos precisos termos do artigo 333, I, do CPC.
+    2) – A perícia médica concluiu não ser a candidata portadora da deficiência física declarada, possuindo 1,43 m (Um metro e quarenta e três centímetros) de altura, ou seja, acima da altura máxima estabelecida para mulher com nanismo, que é de 1,40 m (um metro e quarenta centímetros), além de não apresentar alterações ósseas que pudessem caracterizar o nanismo, conforme documento emitido pela Coordenação de Saúde e Segurança do Trabalho.
+    3) – As normas do edital são a lei regente do consumo, sendo vedado à banca examinadora dar à recorrente tratamento diverso daquele dispensado aos demais candidatos.
+    4) – Não havendo previsão de recurso contra o laudo da perícia médica, não há que se falar em ofensa ao princípio do contraditório e ampla defesa.
+    5) – Recurso conhecido e improvido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, b, e c, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, LV; e 37, caput, da Constituição. Sustenta que a “Recorrente comprovou a sua deficiência através de atestado Médico realizado pelo hospital Alvorada no qual atesta a Apelante com NANISMO (Doc. n. 5º, pag 34), bem como documentos fornecidos pelo próprio serviço médico do Detran - SERMED, no qual também comprovam a deficiência da Recorrente em decorrência do NANISMO, inclusive diagnosticando a mesma na CID 10 M21, R62.8 (conforme doc nº 6 pag 35)”.
+    A decisão agravada negou seguimento ao recurso por entender que a parte recorrente não demonstrou a repercussão geral do caso em análise.
+    O recurso não merece seguimento. Na hipótese, para dissentir da conclusão do Tribunal de origem e concluir se foi ou não correta a exclusão do candidato no concurso público ora em debate, faz-se necessária a análise dos fatos e do material probatório constantes dos autos e o reexame das cláusulas do edital do certame, providências inviáveis de ser realizada neste momento processual (Súmula 279/STF). Nessa linha, veja-se a ementa do ARE 805.255-AgR, Rel. Min. Gilmar Mendes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Constitucional e Administrativo. 3. Concurso público. Ilegalidade da exclusão na condição de concorrente a uma vaga de deficiente físico. Impossibilidade de interpretação de cláusula de edital. Enunciados 279 e 454 da Súmula do STF. 4. Agravo regimental a que se nega provimento.”
+    Ademais, em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode questionar nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Quanto à interposição do recurso com base no art. 102, III, b e c, da Constituição Federal, não há, na peça recursal, fundamentação apta a justificar o conhecimento do recurso extraordinário. Incide, portanto, a Súmula 284/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 27 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
