@@ -1,0 +1,19 @@
+DECISÃO
+PASSAPORTE – AUSÊNCIA DO PAÍS – APELAÇÃO – PENDÊNCIA – HABEAS CORPUS – LIMINAR DEFERIDA.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – AUSÊNCIA DE PREJUÍZO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    Paulo Roberto Ferreira Lino buscou, perante o Tribunal Regional Federal da 2ª Região – processo nº 0010271-22.2013.4.02.0000 –, autorização para empreender viagem à cidade de Nova York, nos Estados Unidos, no período de 10 de maio a 20 de junho deste ano, por motivo de saúde de familiar próximo. Destacou ter sido deferido pedido anterior, com idêntico destino e objetivo, entre os dias 11 e 27 de março de 2016, deslocamento não efetivado por razões particulares. O Relator, ao deixar de acolher o pleito, consignou superada a situação de urgência ante a não realização da viagem previamente autorizada. Ressaltou haver apelação na iminência de ser incluída em pauta de julgamento. Salientou não se enquadrar o caso no que previsto nos artigos 318, inciso II, do Código de Processo Penal e 117, inciso II, da Lei de Execuções Penais. Assentou ser situação a recomendar a permanência do paciente no território nacional. Citou o que definido pelo Supremo no julgamento da reclamação nº 13.424 MC/RJ.
+    No Superior Tribunal de Justiça, formalizou-se o habeas corpus nº 335.189/RJ, renovando-se o pedido. Em apreciação sumária, o Relator concluiu pela não ocorrência de manifesta ilegalidade a justificar o implemento da medida acauteladora.
+    Neste habeas, os impetrantes alegam cerceamento do direito de ir e vir, ante a retenção do passaporte. Reiteram a necessidade da viagem, aludindo à gravidade do estado de saúde da irmã do paciente, a exigir a presença deste. Dizem haver recomendação médica no sentido da proximidade de ambos. Articulam com a violação ao artigo 5º, inciso XIII, da Constituição Federal, segundo o qual “é livre a locomoção no território nacional em tempo de paz”, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens. Afirmam inexistir, no ordenamento jurídico pátrio, as penas de confinamento territorial ou exílio local de nacional. Reportam-se à liminar deferida em benefício do corréu Jaime Garcia Dias, no habeas corpus nº 130.200, da relatoria de Vossa Excelência.
+    Pretendem, liminarmente, seja assegurado ao paciente o direito de ausentar-se do território nacional, no período de 10 de maio a 20 de junho de 2016, a fim de que possa prestar auxílio à irmã, residente na cidade de Nova York, nos Estados Unidos, determinando-se ao Tribunal Regional Federal da 2ª Região a devolução do passaporte retido. No mérito, requerem a restituição definitiva do passaporte, garantindo-lhe o direito de viajar.
+    A fase é de apreciação da medida acauteladora.
+    2. Ao acolher o pedido de medida de urgência no habeas corpus nº 130.200/RJ, assim consignei:
+    2. Observem não estar, até aqui, selada a culpa do paciente. Então, de início, há de manter-se o direito à liberdade de ir e vir, inclusive mediante a feitura de viagem ao exterior, a lazer ou, como no caso, em atendimento a compromisso profissional.
+    O quadro é similar ao retratado neste processo, considerados o princípio da presunção da não culpabilidade e a necessidade de acompanhamento de parente próximo em tratamento de saúde.
+    3. Defiro a liminar, determinando a entrega do passaporte ao paciente e autorizando a viagem pretendida, no período de 10 de maio a 20 de junho do ano corrente.
+    4. O curso deste habeas corpus não prejudica o de nº 353.189/RJ, formalizado no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Felix Fischer.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 27 de abril de 2016.
+Ministro MARCO AURÉLIO
+Relator
