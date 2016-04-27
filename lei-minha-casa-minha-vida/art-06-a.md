@@ -23,4 +23,4 @@ III - não se admite transferência inter vivos de imóveis sem a respectiva qui
 § 12. O FAR poderá prestar garantia à instituição financeira em favor do beneficiário nos casos de operações de financiamento habitacional ao beneficiário com desconto concedido pelo FGTS para aquisição de imóveis construídos com recursos do FAR.
 § 13. No caso de execução da garantia de que trata o § 12, ficará o FAR sub-rogado nos direitos do credor.
 § 14. Para assegurar a expectativa trimestral de venda de imóveis estabelecida pelo FAR, as instituições financeiras executoras do PMCMV deverão repassar ao FAR o valor equivalente aos descontos do FGTS correspondente à referida expectativa trimestral.
-§ 15. Caso os recursos de que trata o § 14 não sejam integralmente utilizados, o FAR devolverá o excedente às instituições financeiras ao final de cada trimestre, corrigido pela taxa Selic apurada no período.
+§ 15. Caso os recursos de que trata o § 14 não sejam integralmente utilizados, o FAR devolverá o excedente às instituições financeiras ao final de cada trimestre, corrigido pela taxa do Sistema Especial de Liquidação e de Custódia - SELIC apurada no período.
