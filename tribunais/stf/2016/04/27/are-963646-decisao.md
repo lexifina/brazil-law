@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 106):
+    “POLICIAL MILITAR – Pensão deixada por policial falecido – Mãe e filha beneficiárias – Pedido de acréscimo em razão do óbito da mãe – Sentença de procedência – A mera propositura de ação questionando a validade da concessão do benefício não autoriza a interrupção dos pagamentos – Verba com caráter alimentar – Cautela da magistrada de primeiro grau ao determinar os depósitos nos autos – Sentença mantida.”
+    Os embargos de declaração foram desprovidos (eDOC 1, p. 115).
+    No recurso extraordinário, com fundamento no art. 102, III, “a” e “d”, do permissivo constitucional, aponta-se ofensa aos artigos 24, XII, § 4º; e 42, § 2º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “a superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrária”, motivo pelo qual o acórdão recorrido preteriu a aplicação da Lei Federal 9.717/1998 em relação à Lei Estadual 452/1974.
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso, em virtude de incidir na hipótese a Súmula 280 do STF.
+    É o relatório. Decido.
+    Inicialmente, observa-se que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. A jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário, quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Incide, portanto, a Súmula 282.
+    Ademais, verifica-se que o Tribunal de origem manteve a sentença, cuja fundamentação transcrevo (eDOC. 1, p. 85):
+    “E, por sua vez, a Lei Estadual nº 452/74, com as alterações trazidas pela Lei Complementar nº 1.013/07, em seu artigo 9º, § 5º, estabelece a possibilidade de reversão de quota-parte de pensão por morte, caso ocorra a perda da qualidade de um dos beneficiários. Admite, entretanto, essa situação apenas entre filhos e cônjuge ou companheiro/companheira do servidor falecido – daqueles para esses e desses para aqueles, como é o caso dos autos.”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo arresto impugnado demandaria o exame da legislação local (Lei Estadual 425/1974 e Lei Complementar Estadual nº 1.013/2007) e o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 280 e 279 do STF. Sobre o tema:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.11.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido.” (ARE 877.864-AgR, Min. Rel. Rosa Weber, Primeira Turma, DJe 11.06.2015)
+    Ante o exposto, nego provimento ao agravo, nos termos dos artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 27 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
