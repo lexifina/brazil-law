@@ -1,7 +1,7 @@
 Art. 3º Para a indicação dos beneficiários do PMCMV, deverão ser observados os seguintes requisitos:
 I - comprovação de que o interessado integra família com renda mensal de até R$ 4.650,00 (quatro mil, seiscentos e cinquenta reais);
 II - faixas de renda definidas pelo Poder Executivo federal para cada uma das modalidades de operações;
-III - prioridade de atendimento às famílias residentes em áreas de risco ou insalubres ou que tenham sido desabrigadas;
+III - prioridade de atendimento às famílias residentes em áreas de risco, insalubres, que tenham sido desabrigadas ou que perderam a moradia em razão de enchente, alagamento, transbordamento ou em decorrência de qualquer desastre natural do gênero;
 IV - prioridade de atendimento às famílias com mulheres responsáveis pela unidade familiar; e
 V - prioridade de atendimento às famílias de que façam parte pessoas com deficiência.
 § 1º Em áreas urbanas, os critérios de prioridade para atendimento devem contemplar também:
@@ -18,3 +18,8 @@ II - a periodicidade de atualização dos limites de renda familiar estabelecido
 I - quando o teto previsto no dispositivo for de R$ 4.650,00 (quatro mil, seiscentos e cinquenta reais), o valor atualizado não poderá ultrapassar 10 (dez) salários mínimos;
 II - quando o teto previsto no dispositivo for de R$ 2.790,00 (dois mil, setecentos e noventa reais), o valor atualizado não poderá ultrapassar 6 (seis) salários mínimos;
 III - quando o teto previsto no dispositivo for de R$ 1.395,00 (mil, trezentos e noventa e cinco reais), o valor atualizado não poderá ultrapassar 3 (três) salários mínimos.
+§ 7º Os requisitos dispostos no caput deste artigo, bem como aqueles definidos em regulamentos do Poder Executivo, relativos à situação econômica ou financeira dos beneficiários do PMCMV deverão ainda:
+I - observar a exigência da qualificação pessoal completa do beneficiário para constar do respectivo contrato, incluindo seu número de inscrição no Cadastro de Pessoa Física - CPF, mantido na Secretaria da Receita Federal do Brasil;
+II - ter sua veracidade verificada por meio do cruzamento de dados fiscais e bancários do beneficiário, assegurado o sigilo constitucional dos dados informados.
+§ 8º O agente financeiro responsável pelo financiamento responderá pelo cumprimento do disposto no § 7º deste artigo.
+§ 9º (VETADO).
