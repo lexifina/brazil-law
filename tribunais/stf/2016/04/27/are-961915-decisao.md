@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “REVISÃO CRIMINAL. CONDENAÇÃO IMPOSTA PELO TRIBUNAL DO JÚRI. HOMICÍDIO DUAS VEZES QUALIFICADO. ALEGAÇÃO DE NULIDADE DO PROCESSO POR NÃO TER HAVIDO RECURSO DA DECISÃO DE PRONÚNCIA PELA DEFENSORIA PÚBLICA E POR TER O RÉU MANIFESTADO SEU DESEJO DE RECORRER AO OFICIAL DE JUSTIÇA QUE O INTIMOU, SEM QUE SUA FALA FOSSE POR ESTE REGISTRADA NA CERTIDÃO QUE LANÇOU. NULIDADE QUE NÃO SE RECONHECE, MANTIDA ÍNTEGRA A COISA JULGADA.
+    Ação julgada improcedente. Unânime.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVIII, a, LIV, LV, LVII, LXIII e LXXIV, da Constituição. Sustenta que “na certidão cartorária verifica-se a carência de indicação acerca da manifestação de vontade do requerente em recorrer, ou não, da pronúncia, em que pese o recorrente tenha manifestado, expressante, ao Oficial de Justiça, seu interesse em recorrer, conforme depreende-se de sua declaração de próprio punho, anexada aos autos”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário. Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão recorrido:
+    “[...]
+    Começo por dizer que não há evidência alguma da falha do servidor que é apontada pelo autor da revisional, o que já fere de morte a pretensão deduzida. Se ele nada certificou, considerada a fé pública, deve ser presumido que nada ouviu. E, como bem aponta o parecer ministerial, a certificação a respeito do desejo de recorrer não constitui formalidade do ato de intimação, ainda que possa ser conveniente e seja recomendável. Calha recordar que, ao tempo da intimação, ainda não se consolidara essa praxe, não havia recomendação da doutrina ou da jurisprudência.
+    […]
+    Por fim, o que se percebe é que a defesa, à falta de melhor argumento para desconstituir a decisão soberana dos jurados, que constitui um ato decisório conclusivo e definitivo, busca abalar seus alicerces pelo ataque a decisão de pronúncia, que é interlocutória, precária e não decisória, o que representa um nonsense, sobretudo à vista do tempo transcorrido desde o julgamento da causa e à vista do disposto no artigo 571, incisos I e V, combinado com o artigo 572, inciso I, e 593, inciso III, letra “a”, todos do Código de Processo Penal.
+    [...]”
+    Quanto à alegada violação ao inciso XXXVIII, a, do art. 5º da Constituição, cabe registrar que o recorrente se limita a postular uma nova apreciação dos fatos e do material probatório constante dos autos. Nessa linha, vejam-se o AI 709.068-AgR, Rel. Min. Ayres Britto; o RE 559.742, Rel.ª Min.ª Ellen Gracie; e o AI 837.155-ED, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
