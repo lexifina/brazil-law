@@ -1,0 +1,10 @@
+Decisão: Trata-se de recurso extraordinário remetido à 2ª Turma Recursal do Estado de Pernambuco, para que se cumprisse o disposto no art. 543-B do CPC, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral, pelo tema 351 (“Extensão a inativos e pensionistas da Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo – GDPGPE”), cujo paradigma é o RE-RG 631.389, Rel. Min. Marco Aurélio, DJe 18.2.2011 .
+    Encaminhados os autos ao Tribunal de origem, este devolveu o processo ao Supremo Tribunal Federal, ao fundamento de que “a despeito de também ser discutida nos presentes autos a referida gratificação, a matéria levada à Corte foi apenas a aplicação da proporcionalidade da referida gratificação para aqueles que recebem aposentadoria proporcional ou pensão decorrente de aposentadoria proporcional” (eDOC 87).
+    Informa, ainda, que “Em relação à repercussão geral no RG 631.389, este juízo já determinou anteriormente o sobrestamento dos autos até que a questão transite em julgado no STF, tendo o recurso sido encaminhado, em sede de agravo, à instância superior para resolução apenas da problemática da proporcionalidade” (eDOC 87).
+    Reexaminando os autos, constato que as alegações da Presidência da 2ª Turma Recursal do Estado de Pernambuco são pertinentes, motivo pelo qual torno sem efeito a decisão anteriormente prolatada (eDOC 42).
+    Verifico que o assunto versado no recurso extraordinário corresponde ao tema 751 da sistemática da repercussão geral (“Possibilidade de cálculo proporcional do valor da Gratificação de Desempenho de Atividade de Seguridade Social e do Trabalho GDASST nos casos de aposentadoria proporcional”), cujo paradigma é o ARE-RG nº 808.997, Rel. Min. Luiz Fux, DJe 1.8.2014. Assim, devolvam-se os autos ao tribunal de origem, para que observe o disposto no art. 1.036 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 27 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
