@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA – Prestação de serviços – Energia elétrica – Empreendimento Imobiliário – Obras de instalação da rede e pedido para ressarcimento de tais despesas com condenação da Concessionária ao ressarcimento dos gastos já efetivados – Descabimento – Inteligência do artigo 18 da Lei 6.766/79 – Empreendimento que beneficia diretamente o Consórcio apelante – Custos do projeto e infraestrutura a seu cargo exclusivamente – Sentença de Primeiro Grau bem fundamentada – Aplicação ao caso em exame do artigo 252 do Regimento Interno deste Egrégio Tribunal – RECURSO NÃO PROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, XXII e XXIV; 21, XII, b; e 22, IV, da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso extraordinário sob fundamento de que o recurso não reúne condições de admissibilidade, uma vez que, “para perquirir a ocorrência de contrariedade à legislação constitucional, mister se mostra o revolvimento de normas infraconstitucionais, não se caracterizando o requisito da afronta direta à Carta Magna”.
+    O recurso extraordinário é inadmissível, tendo em vista que a solução da controvérsia pressupõe, necessariamente, a análise da legislação infraconstitucional aplicada ao caso, procedimento inviável em sede de recurso extraordinário. Precedentes: ARE 869.109-AgR, Rel.ª Min.ª Rosa Weber; ARE 728.048-AgR, Rel.ª Min.ª Cármen Lúcia; e ARE 823.942-AgR, Rel. Min. Gilmar Mendes, assim ementado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito do Consumidor. 3. Implementação de rede elétrica como obra de infraestrutura em loteamento. Pretensão do implantador em se ver ressarcido das despesas despendidas com a instalação da rede de distribuição interna de energia junto à concessionária do serviço público. Matéria infraconstitucional. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
