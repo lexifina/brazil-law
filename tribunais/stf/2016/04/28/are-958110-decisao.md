@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal Regional Federal da 5ª Região, cuja ementa se reproduz a seguir:
+    “CONSTITUCIONAL E TRIBUTÁRIO. CONTRIBUIÇÕES SOCIAIS. IMUNIDADE. ISENÇÃO. AUSÊNCIA DO CUMPRIMENTO DOS REQUISITOS LEGAIS.
+    1 – A imunidade prevista no art. 150, VI, “C”, da Constituição da República abrange unicamente os impostos, sendo os demais tributos exigíveis, uma vez que toda regra de limitação de competência tributária deve ser interpretada de maneira restritiva.
+    2 – Quanto à isenção prevista Art. 195, § 7º, da Constituição da República, é relativa às “entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei”. E as disposições legais ali referidas são as constantes do art. 55, da Lei nr. 8.212/91.
+    3 – A Demandante não comprovou nos autos que preenche os requisitos cumulativos previstos no referido art. 55, da Lei nr 8.212/91. Correta a sentença que julgou a pretensão improcedente. Apelação improvida.”(eDOC 2, p. 173)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 197, § 7º; 150, VI, “c”; 146, II, do Texto Constitucional.
+    Nas alegações recursais, sustenta-se que “as matérias referentes às limitações constitucionais ao poder de tributar são de competência exclusiva e restrita de lei complementar. Por isso se entende que as entidades beneficentes de assistência social, para fazerem jus à imunidade tributária, devem preencher os requisitos do artigo 14 do CTN (lei complementar), e não do artigo 55 da Lei nº 8.112/91 (lei ordinária).” (eDOC 4, p. 55)
+    A Vice-Presidência do TRF-5 inadmitiu o recurso por inexistente, ante a ausência de assinatura do advogado. (eDOC 4, p. 78)
+    É o relatório. Decido.
+    Verifica-se que não consta do recurso extraordinário a assinatura do advogado da parte. A jurisprudência desta Corte firmou-se no sentido de que é inexistente o recurso interposto sem assinatura do patrono da causa.
+    A esse respeito, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Recurso extraordinário. Ausência de assinatura original. Recurso inexistente. Intempestividade. Precedentes. 1. É pacífica a jurisprudência do Supremo Tribunal Federal no sentido de se considerar inexistente o recurso sem a assinatura original do advogado. 2. Não foi observado o prazo de 15 dias para a interposição do recurso extraordinário na origem, conforme estabelece o art. 508 do Código de Processo Civil. 3. É pacífica a jurisprudência do Supremo Tribunal Federal de que a tempestividade do recurso extraordinário deve ser aferida a partir da data de recebimento da petição recursal no protocolo do tribunal competente, sendo irrelevante para esse fim a data da postagem do recurso junto à Empresa Brasileira de Correios e Telégrafos (EBCT). 4. Agravo regimental não provido.” (ARE 897.577 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 21.10.2015)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE ASSINATURA NA PEÇA RECURSAL. AGRAVO REGIMENTAL INEXISTENTE. PRECEDENTES. O Supremo Tribunal Federal possui jurisprudência pacífica no sentido de considerar inexistente o recurso não assinado pelo procurador do recorrente. Precedentes. Ademais, é firme o entendimento desta Corte de que não é aplicável ao recurso extraordinário a norma inscrita no art. 13 do CPC. Precedentes. Agravo regimental não conhecido.” (AI 780.441 Agr, Rel. Min. Roberto Barroso, Primeira Turma, DJe 20.11.2013)
+    Ante o exposto, não conheço do recurso, por ser manifestamente incabível, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 28 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
