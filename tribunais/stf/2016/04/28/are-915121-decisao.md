@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão de Tribunal de Justiça que negou provimento a apelação para manter a sentença de primeiro grau, a qual, em decorrência de acidente de trânsito, condenou a recorrente em indenização por dano material e lucros cessantes.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos artigos, 5º, LIV e LV e 93, IX, todos da Constituição Federal, por violação dos princípios constitucionais do processo, quais sejam, o devido processo legal, o contraditório, a ampla defesa e a motivação dos atos decisórios.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Verifica-se que, no que tange à restituição de valores, no julgamento do ARE-RG 640.525, de relatoria do Ministro Cezar Peluso, DJe de 31.08.2011 (Tema 417), o Plenário desta Corte decidiu pela inexistência de repercussão geral da questão referente à responsabilidade civil por dano material em face de relações contratuais e extracontratuais, por se tratar de matéria infraconstitucional.
+    Ademais, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.8.2013 (Tema 660), este Tribunal decidiu pela inexistência, em regra, de repercussão geral das controvérsias que versam sobre a violação dos princípios do devido processo legal, do contraditório e da ampla defesa quando do julgamento depender de prévia análise da adequada aplicação das normas infraconstitucionais, como no caso dos autos.
+    Por fim, no exame do AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, em vista dos pronunciamentos desta Corte acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 28 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
