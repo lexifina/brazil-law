@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “DIREITO CONSTITUCIONAL E PREVIDENCIÁRIO. POLICIAL MILITAR. INCAPACIDADE DEFINITIVA. MOLÉSTIA INCURÁVEL. PAGAMENTO DE TRIÊNIOS EM PERCENTUAL MÁXIMO. LEI ESTADUAL Nº 4.024/02. INCONSTITUCIONALIDADE RECONHECIDA. VIOLAÇÃO AO CONTRADITÓRIO E AMPLA DEFESA. INOCORRÊNCIA. NEGATIVA DE SEGUIMENTO.
+    1. Recurso de Agravo com fundamento no artigo 557, parágrafo 1º, do Código de Processo Civil, contra decisão desta relatoria que negou seguimento a apelo contra sentença em demanda na qual pretende o autor, policial militar inativo, o restabelecido do pagamento de triênios em percentual máximo, como decorrência de moléstia incurável determinada por incapacidade definitiva a teor da Lei estadual nº 4.024/02.
+    2. Questão da possibilidade do pagamento de triênios em percentual máximo, como decorrência de moléstia incurável determinante de incapacidade definitiva, a teor da Lei estadual nº 4.024/02, que já foi pacificada pelo Egrégio órgão Especial desta Corte ao julgar a Arguição de Inconstitucionalidade nº 25/2007, concluindo pela contrariedade ao disposto no artigo 40, parágrafo 10, da Constituição República.
+    3. Decisão proferida por unanimidade de votos, o que, a teor do artigo 103, caput, do Regimento Interno desta Corte, torna sua observância obrigatória por todos os seus Órgãos Julgadores.
+    4. Inocorrente violação ao princípio da ampla defesa e do contraditório em razão da diminuição do adicional pago em sede administrativa, pois, ante o reconhecimento da inconstitucionalidade, agiu a administração nos estritos limites do seu poder de autotutela.
+    5. Agravo improvido.”
+    Os embargos de declaração opostos foram rejeitados.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo. 5º, incisos XXXVI, 40, §1º, I da Constituição Federal.
+    Nas razões recursais, sustenta-se violação ao direito adquirido quanto ao recebimento de triênios em seus valores máximos, recebidos quando da transferência do militar para inatividade, em razão de moléstia incurável determinante de incapacidade definitiva.
+    A Presidência TJRJ inadmitiu o recurso, em decorrência da aplicação da Súmula 400 do STF e da jurisprudência dominante desta Corte.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De fato, ressalta-se que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não ostenta repercussão geral.
+    Confira-se, a propósito, a ementa do RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.08.2013:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ademais, convém reproduzir o assentado pelo Tribunal de origem:
+    “A questão da possibilidade do pagamento de triênios em percentual máximo, como decorrência de moléstia incurável determinante de incapacidade definitiva, a teor da Lei estadual nº 4.024/02, já foi pacificada pelo Egrégio Órgão Especial desta Corte que, ao julgar a Arguição de Inconstitucionalidade nº 25/2007, concluiu pela sua contrariedade ao disposto no artigo 40, parágrafo 10, da Constituição República, verbis:
+    REPRESENTAÇÃO POR INCONSTITUCIONALIDADE. LEI ESTADUAL N. 4024, DE 2002. POLICIAL MILITAR. REFORMA DE MILITAR. INVALIDEZ PERMANENTE ADICIONAL POR TEMPO DE SERVIÇO. Incidente de Inconstitucionalidade. Artigo 4. da Lei Estadual n. 4.024 de 11/12/2002. Incorporação de gratificação de tempo de serviço, em seu valor máximo, a Policial Militar ou Bombeiro Militar transferido para a inatividade por incapacidade. Vícios formal e material. Competência privativa do Executivo para a iniciativa de leis sobre benefícios de servidores públicos e regime de aposentadoria ou reforma e transferência de militares para a inatividade. Artigo 112, par. 1., letra “b” da Constituição Estadual. A lei não pode estabelecer contagem de tempo fictício em favor de qualquer servidor. Artigo 40, par. 10 da Constituição Federal. Incidente acolhido. Inconstitucionalidade reconhecida. (Processo nº 0032955-12.2005.8.19.0000 (2005.017.00017) Arguição de Inconstitucionalidade, Des. Marcus Faver, julgamento em 09/01/2006, Órgão Especial).”
+    Assim, eventual divergência em relação ao entendimento adotado pelo juízo a quo, demandaria o reexame da matéria infraconstitucional aplicável à espécie, de índole local, o que inviabiliza o processamento do apelo extremo em sede extraordinária.
+    Nesse mesmo sentido e sobre a mesma controvérsia, confiram-se os seguintes julgados: AREs 736.973 e 766.542, Rel. Min. Luiz Fux; e ARE 814.933, Rel. Min. Cármen Lúcia.
+    Ante o exposto, conheço do agravo para negar-lhe seguimento, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 28 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
