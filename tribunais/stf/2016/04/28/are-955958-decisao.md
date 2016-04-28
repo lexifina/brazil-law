@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – MATÉRIA FÁTICA – AGRAVO DESPROVIDO
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto ao direito do autor à progressão funcional pleiteada, na forma da legislação de regência. No extraordinário cujo processamento pretende alcançar, o recorrente alega a violação aos artigos 5º, inciso II, e 37, cabeça e inciso X, da Constituição Federal, apontando a impossibilidade de concessão de benefício a servidor com fundamento no princípio da isonomia.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis os fundamentos do acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais:
+    Como bem asseverado na sentença, uma primeira análise levaria à conclusão precipitada de que os servidores que não aderiram ao novo plano não fazem jus à referida progressão horizontal, tal como argumenta o apelante.
+    Entretanto, deve-se notar que a exposição de motivos do Projeto de Lei Complementar em questão (f. 55/58) deixa concluir que a finalidade da instituição do acréscimo de 0,83% por cada ano de efetivo exercício aos atuais servidores efetivos e estáveis é a de, justamente, suprir a não concessão da progressão horizontal pela Lei Municipal 2240/1991 que, desde a sua edição, não fora regulamentada. O texto esclarece que "Há 231 servidores efetivos ou estáveis com tempo de serviço máximo de 17 anos, ou seja, anterior ou no ano do último concurso público" e que "Esse benefício aumentará 14,11% aos vencimentos desses servidores a partir da vigência desta Lei Complementar".
+    Fica claro, portanto, que apesar da confusão na redação do texto legal, o benefício objetivou, desde o início, alcançar todos os servidores que adimplissem os requisitos determinados pelo § 1o do art. 68, o que é o caso do autor/apelado.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação da Lei Complementar nº 61/2009. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: “Por ofensa a direito local não cabe recurso extraordinário” -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 28 de abril de 2016.
+Ministro MARCO AURÉLIO
+Relator
