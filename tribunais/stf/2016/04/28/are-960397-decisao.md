@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 18ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 4):
+    “AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. Ação anulatória de ato administrativo. Inconformismo manifestado contra interlocutória que inadmitiu o recurso de apelação por intempestivo. Ausência de pressuposto extrínseco de admissibilidade recursal. Recurso interposto quando de há muito decorrido o prazo recursal. Prazo peremptório que não admite prorrogação, suspensão ou interrupção por vontade das partes. Matérias recursais suscitadas que demandam recurso próprio. AGRAVO A QUE SE NEGA PROVIMENTO.”
+    No recurso extraordinário (eDOC 6), interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, não se aponta qual dispositivo constitucional teria sido violado.
+    Nas razões recursais, sustenta-se, em síntese, o seguinte (eDOC 6, p. 6):
+    “Como se não bastasse, o Estado do Rio de Janeiro, ao tentar acessar a segunda instância e ver revista a decisão do i. juízo, se depara com a descabida certidão datada de 29 de abril de 2014 sendo utilizada de fundamento para a inadmissão da nova apelação protocolada notadamente dentro do prazo aberto em razão da republicação da sentença.”
+    A 3ª Vice-Presidência do TJ/RJ inadmitiu o recurso extraordinário com base na Súmula 284 do STF.
+    É o relatório. Decido.
+    De plano, verifica-se que o recorrente não explicitou a norma constitucional que teria sido violada. Disso decorre a impossibilidade da exata compreensão da controvérsia. Incide, portanto, ao caso a Súmula 284 do STF.
+    Ademais, quando do julgamento do agravo interno, o Tribunal de origem assentou que (eDOC 4, p. 2-4):
+    “A decisão monocrática ponderou, verbis:
+    (…)
+    A decisão monocrática proferida pela Des. Leila Albuquerque, em novembro de 2011, anulou os atos processuais a partir da publicação da sentença, para que, corrigida a autuação, fosse intimado o candidato que alcançou o terceiro lugar, seguindo-se o correto processamento do feito, com a republicação da sentença, prejudicado o julgamento dos recursos. (pasta 244 – fls. 276).
+    Em cumprimento ao julgado, o cartório fez publicar a inclusão do candidato no polo passivo da autuação (pasta 277, - fls. 279) e republicou a sentença aos 03.04.2012 (fls. 280-281). O recurso de apelação foi interposto pelo ente público aos 08.11.2013 (fls. 284), certificada a sua intempestividade (fls. 292), recurso este que resultou inadmitido.
+    Escorreita a interlocutória que inadmitiu o recurso ante a ausência de pressuposto extrínseco de admissibilidade recursal, qual seja a tempestividade. A sentença foi publicada aos 03.04.2012 (terça-feira); o termo inicial do prazo recursal ocorreu aos 04.04.2012 e se escoou aos 03.05.12 (quinta-feira), observado o prazo em dobro (CPC, art. 188). No entanto, o recurso foi interposto aos 08.11.2013 (pasta 277 - fls. 284), mais de um ano após a publicação do julgado monocrático, daí a intempestividade que deve ser declarada (CPC, art. 506, II, e 508), tal como o fora. Cuida-se, pois, de prazo peremptório, que não admite prorrogação, suspensão ou interrupção por vontade das partes.
+    Ademais, ao contrário do que sustenta o recorrente, a autuação foi retificada pelo cartório, que fez inclui no polo passivo o nome do candidato Paulo Cesar da Silva Rosa, tanto que publicada aos 03.04.2012 (pasta 277 – fls. 279), motivo pelo não se verifica equívoco a ser sanado.
+    No que se refere à modificação do julgado que previu a imposição de astreintes em caso de descumprimento do julgado, não se vislumbra interesse recursal, na medida em que os aclaratórios de fls. 301 esclarecem que a sentença não concedeu a tutela antecipada em relação a obrigação de fazer nela determinada. Assim, a multa foi mantida com a ressalva de que, com o trânsito em julgado da sentença, os réus deverão ser pessoalmente intimados para o seu cumprimento (pasta 277 – fls. 301). Ainda que assim não fosse, a matéria tão-somente poderia ser impugnada por meio do recurso cabível, dado ser inviável o reexame em sede de agravo de instrumento, tal como também entendeu o parecer ministerial (pasta 19 – fls. 21).”
+    Desta forma, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, de modo a inviabilizar o processamento do apelo extremo, tendo em conta o enunciado da Súmula 279 do STF.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 28 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
