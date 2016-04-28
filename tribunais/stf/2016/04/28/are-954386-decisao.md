@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 10ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. SCORE CRÉDITO. SERVIÇO DE ANÁLISE DE RISCO. LEGALIDADE. DANO MORAL NÃO CONFIGURADO.
+    PRÁTICA COMERCIAL LÍCITA. ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPRESENTATIVO DE CONTROVERSIA. O Col. Superior Tribunal de Justiça, no julgamento de Recurso Especial Representativo de controvérsia (Wesp 1.419.697/RS), considerou lícita a utilização da ferramenta que atribui pontuação ao consumidor para avaliação de risco de crédito. Alinhando-me a tal paradigma, revejo posicionamento anterior, para considerar não configurado dano moral presumido em decorrência da utilização da ferramenta de avaliação de crédito mantida pela ré. O reconhecimento da responsabilidade das empresas fornecedoras do serviço fica condicionado à comprovação da indevida recusa de crédito ao consumidor, em razão da utilização de dados excessivos, incorretos os desatualizados.
+    CASO CONCRETO. DANO MORAL. NÃO CONFIGURADO. Não tendo a parte autora demonstrado que teve seu crédito cerceado em virtude da utilização de informações extraídas do sistema da ré, é improcedente o pedido de indenização por danos morais. Inversão do ônus da prova que não ocorre de forma automática, quando inexistente a hipossuficiência probatória, como no caso dos autos. Desatendimento ao disposto no art. 333, I, do CPC.
+    PEDIDO COMINATÓRIO. NÃO DIVULGAÇÃO DOS DADOS E EXIBIÇÃO DAS INFORMAÇÕES DO SISTEMA. DESCABIMENTO. Reconhecida a legalidade da abertura do registro de informações no sistema mantido pela ré, é corolário lógico o indeferimento do pedido de pedido de obrigação de fazer, consistente na não divulgação dos dados. Ausência de interesse quanto ao pedido de exibição das informações do sistema, considerando que não houve prova da negativa de crédito, bem como que a requerida deixou de disponibiliza a ferramento de consulta à pontuação do consumidor.
+    APELAÇÃO CÍVEL DESPROVIDA. “
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, X, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que “inviabiliza o trânsito da insurgência o fato de a alegada ofensa ao regramento constitucional não ser frontal e direta, ou seja, há a necessidade de examinar-se como maltratados dispositivos infraconstitucionais” (fls. 158).
+    O recurso é inadmissível. O Supremo Tribunal Federal assentou entendimento pela ausência de repercussão geral da questão acerca de indenização por danos morais decorrentes da inscrição de consumidor em sistema de avaliação de crédito (ARE 867326-RG, Rel. Min. Teori Zavascki -Tema 802).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 28 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
