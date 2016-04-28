@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, nos autos dos Embargos Infringentes e de Nulidade n. 0005900-24.2013.8.22.0000, assim ementado:
+    “Embargos infringentes. Tribunal do Júri. Decisão manifestamente contrária às provas dos autos. Inocorrência. Decisão que acolhe tese que encontra amparo probatório. Embargos não provido.
+    1. A decisão do Tribunal do Júri não pode ser taxada de manifestamente contrária às provas dos autos quando Conselho de Sentença acolhe uma das teses apresentadas em plenário e há elemento probatório suficiente para embasá-la.
+    2. Recurso não provido”. (eDOC 13, p. 21)
+    Opostos embargos de declaração, estes foram rejeitados. (eDOC 13, p. 43)
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido violou o art. 5º, inciso XXXVIII, alínea “a”, e inciso LV, da Constituição Federal. (eDOC 13, p. 52-59)
+    Em síntese, alega-se que a recusa à juntada da prova pela defesa resultou em ofensa à garantia da plenitude da defesa dirigia tão só aos crimes dolosos contra a vida, restando da mesma forma, deveras demonstrado o prejuízo causado com o alijamento de tal prova.
+    A irresignação não foi admitida por ausência de prequestionamento e óbice da Súmula 279 do Supremo Tribunal Federal. (eDOC 13, p. 95-97)
+    Contra referida decisão de inadmissibilidade foi interposto o presente agravo, que reafirma a tese exposta no apelo extremo.
+    É o relatório.
+    Decido.
+    Inicialmente, a tese ventilada no arrazoado do recurso extraordinário, apontando afronta ao texto constitucional, não foi discutida no acórdão contestado. Incide, neste caso, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - Nos termos da orientação firmada pelo Supremo Tribunal Federal, cabe à parte agravante impugnar todos os fundamentos da decisão. Incidência da Súmula 283 do STF. III - Agravo regimental a que se nega provimento.” (ARE 790.511/MG AgR, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 15.4.2015)
+    De outra banda, quanto à pretensa ofensa ao inciso LV, art. 5º, da CF, vale dizer que o Supremo Tribunal Federal já assentou não haver repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013 – tema 660). Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Nessa esteira, esta Corte Suprema já decidiu não existir repercussão geral com fundamento nos princípios do contraditório e da ampla defesa, quando a pretensão visa rever o indeferimento da postulação de provas em processo judicial (tema 424). Cito a ementa:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.” (ARE 639.228/RJ RG, Rel. Min. Ministro Presidente, DJe 31.8.2011)
+    Assim, forçoso concluir que a instância a quo, ao decidir a lide, ateve-se ao exame da legislação penal processual. Desse modo, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    É uníssona a jurisprudência desta Corte no sentido de que o recurso extraordinário não se presta a analisar legislação infraconstitucional.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RI/STF).
+    Publique-se. Intime-se.
+    Brasília, 28 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
