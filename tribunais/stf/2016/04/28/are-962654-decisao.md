@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão de Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “COMPETÊNCIA - ‘Ratione Personae’ - IPTU – Execução fiscal ajuizado pelo Município em face de empresa pública federal – Competência da Justiça Federal, por aplicação à espécie do art. 109, I, da CR – Remessa dos autos à Justiça Federal, prejudicado o exame do recurso. (eDOC. 1, p. 93)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 5º, LIV, LV, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que “deveria o MM. Juízo de Primeiro Grau ter intimado pessoalmente os Procuradores Municipais de Leme – Estado de São Paulo para que os mesmos se manifestassem acerca da ocorrência, ou não, da prescrição, o que não ocorreu nos autos”. (eDOC. 1, p. 125)
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o recurso com base na Súmula 282 do STF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido e da realidade processual, o que torna aplicável ao caso o enunciado da súmula 284 do STF.
+    Ocorre que a parte Recorrente sustenta que não poderia ter sido proferida decisão de prescrição sem proporcionar à recorrente o direito de manifestação prévia.
+    No entanto, outro foi o fundamento do acórdão impugnado, porquanto restou decidido pelo Tribunal de origem o seguinte:
+    “Como resta claro do exame dos autos, cuida-se de execução fiscal ajuizada pela Municipalidade de Leme em face de Maria Helena da Silva Camillo e da Caixa Econômica Federal (empresa pública federal), objetivando a satisfação de crédito relativo a IPTU dos exercícios de 1996 a 1998.
+    Assim, levando-se em conta o comando do art. 109, I, da Constituição da República – e considerando a presença de uma empresa pública federal no polo passivo da ação executiva – impõe-se reconhecer a incompetência da Justiça Comum do Estado para a causa, determinando-se, de consequência, a remessa dos autos à Justiça Federal, ficando com isso prejudicado o exame do recurso.” (eDOC 1, p. 94)
+    Em decisão de embargos de declaração, acrescentou, ainda:
+    “No caso de que se cuida, a embargante moveu a presente execução perante a Justiça Estadual, e o fez corretamente, ante a inexistência de vara federal na Comarca de Leme. A sentença, por sua vez, justamente em decorrência da correta propositura, foi proferida pelo juízo competente. Apenas o recurso em face dessa sentença é que foi dirigido ao Tribunal incompetente, haja vista as considerações acima tecidas.” (eDOC 1, p. 109)
+    Assim, verifica-se que as razões recursais não se mostram suficientes para afastar os fundamentos da decisão recorrida.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MULTA. CARÁTER CONFISCATÓRIO. RAZÕES DISSOCIADAS. IMPOSSIBILIDADE ANÁLISE DO RECURSO. SÚMULAS 283 E 284/STF. 1. O acórdão recorrido afirmou ser inviável a discussão acerca da exigibilidade da multa em sede de exceção de pré-executividade. Por outro lado, as razões do recurso extraordinário limitaram-se a pugnar pelo reconhecimento do caráter confiscatório da penalidade. Nota-se, então, que os argumentos apresentados no recurso extraordinário estão dissociados dos fundamentos do acórdão recorrido. Nessas condições, a hipótese atrai a incidência das súmulas 283 e 284/STF. 2. Agravo regimental a que se nega provimento. “(ARE 707173 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJE-075 DIVULG 22-04-2015 PUBLIC 23-04-2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE DO APELO EXTREMO. SÚMULA 284 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. I O recorrente não impugnou especificadamente os fundamentos do acórdão recorrido. Inviável, portanto, o recurso extraordinário, a teor da súmula 284 do STF. Para se chegar à conclusão contrária à adotada pelo acórdão impugnado, seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. - Agravo regimental a que se nega provimento.” (RE 718.234-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 9.12.2013).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 28 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
