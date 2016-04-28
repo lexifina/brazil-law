@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – FALTA DE PREQUESTIONAMENTO – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de origem confirmou o entendimento constante na sentença quanto ao direito do autor à obtenção de pontos, em decorrência de comprovada desigualdade no critério de correção de provas relativas ao exame da Ordem dos Advogados, os quais resultaram na aprovação do candidato. A recorrente afirma a violação dos artigos 2º, 5º, cabeça, incisos XII e XXXVI, e 37 da Constituição Federal. Aponta ofensa ao princípio da separação dos poderes, ressaltando não cabe ao Judiciário adentrar o mérito administrativo em substituição a banca examinadora. Alega que toda análise de prova consiste na emissão de juízos eminentemente subjetivos.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis os fundamentos constantes do acórdão recorrido:
+    Nesse caso restou demonstrada a ofensa à isonomia. No entender da Banca Examinadora tanto o impetrante quanto os examinandos paradigma não satisfizeram o requisito em comento pois não expuseram uma fundamentação complementar sobre a 'licitude dos descontos verificados em face das multas de trânsito, citando especificamente que o direito comum é fonte subsidiária do direito do trabalho, razão pela qual, deveria o(a) examinando(a) pugnar pela aplicabilidade dos artigos 186 e 927 do Código Civil (...)'. No entanto, para os paradigmas admite a Banca Examinadora que fora atribuída no quesito 2.5 a pontuação máxima (ou seja, a nota 0,80), enquanto para o impetrante foi atribuída nota 0,00. Não é possível tal diferenciação na correção das provas, em se tratando de critério objetivo, desigualando as partes, com evidente prejuízo ao impetrante.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Pelas razões acima, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 28 de abril de 2016.
+Ministro MARCO AURÉLIO
+Relator
