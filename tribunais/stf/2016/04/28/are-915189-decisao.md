@@ -1,0 +1,12 @@
+Decisão: : Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, que deu parcial provimento à apelação para modificar o critério de fixação dos honorários advocatícios, em ação relativa a cobrança de valores relativos a atualização dos expurgos inflacionários das contribuições de plano de ex-beneficiário de previdência privada.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aduz-se ofensa aos artigos 5º, LV, 195, § 5º e 202, caput, todos da Constituição Federal, sob alegação de violação do contraditório e da ampla defesa, da precedência do custeio e do equilíbrio financeiro-atuarial do regime da previdência privada.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    O Plenário desta Corte, quando do julgamento do ARE-RG 582.504, de relatoria do Ministro Cezar Peluzo, Dje de 09.10.2009 , entendeu pela inexistência de repercussão geral do Tema 174, que discute índices de correção monetária de resgate de contribuição de plano de previdência privada, por se tratar de matéria infraconstitucional.
+    Ademais, no exame do ARE-RG 642.137, de relatoria do Ministro Cézar Peluso, Dje de 15.09.2011, (Tema 466), o Plenário deste Tribunal entendeu pela inexistência de repercussão geral quando se tratar de revisão de contrato celebrado com entidade de previdência complementar, uma vez que eventual ofensa à Constituição se ocorresse, seria apenas de forma indireta ou reflexa, como ocorre no caso dos autos.
+    Por fim, verifica-se que, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, Dje de 1º.8.2013 (Tema 660), esta Corte decidiu pela inexistência, em regra, de repercussão geral das controvérsias que versem sobre a violação dos princípios do devido processo legal, do contraditório e da ampla defesa quando o julgamento depender de prévia análise da adequada aplicação das normas infraconstitucionais, como na hipótese dos autos.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 28 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
