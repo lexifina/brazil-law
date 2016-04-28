@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ART. 311 DO CÓDIGO PENAL. CRIME DE ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. USO DE FITA ADESIVA PARA ALTERAR A PLACA DO AUTOMÓVEL COM O FIM DE BURLAR O RODÍZIO MUNICIPAL DE VEÍCULOS. CONDUTA TÍPICA. DESNECESSIDADE DA EXISTÊNCIA DE DOLO ESPECÍFICO DE FRAUDAR A FÉ PÚBLICA.
+    1. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que a norma contida no art. 311 do Código Penal busca resguardar a autenticidade dos sinais identificadores dos veículos automotores, sendo, pois, típica, a simples conduta de alterar, com fita adesiva, a placa do automóvel, ainda que não caracterizada a finalidade específica de fraudar a fé pública.
+    2. Agravo regimental a que se nega provimento.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 1º, III da Constituição e aos princípios da proporcionalidade e da intervenção mínima. Sustenta que “a conduta de simples adulteração do sinal identificador do veículo (um único número da placa do automóvel) com fita adesiva tinha como finalidade exclusiva burlar o rodízio municipal, o que não configura o crime previsto na referida norma penal, tendo em vista que a colocação da fita adesiva não altera a propriedade, registro ou o licenciamento do veículo automotor”.
+    O recurso é inadmissível, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário. Nessa linha, vejam-se os AREs 923.477 e 859.864-AgR, ambos de minha relatoria; e o AI 830.422, Rel. Min. Dias Toffoli.
+    O acórdão recorrido está alinhado com a jurisprudência desta Corte no sentido de ser típica a adulteração de placa numerada dianteira ou traseira do veículo. Nessa linha, em sede de habeas corpus, veja-se o RHC 116.371, Rel. Min. Gilmar Mendes, assim ementado:
+    “Recurso ordinário em habeas corpus . 2. Art. 311, caput, do CP. Adulteração de placa traseira do veículo com aposição de fita isolante preta. 3. As placas de um automóvel são sinais identificadores externos do veículo, obrigatórios conforme dispõe o Código de Trânsito Brasileiro. A jurisprudência do STF considera típica a adulteração de placa numerada dianteira ou traseira do veículo. 4. Reconhecimento da tipicidade da conduta atribuída ao recorrente. Recurso a que se nega provimento.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 28 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
