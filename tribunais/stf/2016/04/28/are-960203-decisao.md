@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado do Maranhão deferiu a ordem em mandado de segurança, ante fundamentos assim resumidos:
+    MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. DELEGADO DE POLÍCIA CIVIL. PRINCÍPIOS DA LEGALIDADE E DA VINCULAÇÃO DA ADMINISTRAÇÃO PÚBLICA AO EDITAL. AUSÊNCIA DE CRITÉRIO PARA DESEMPATE NA PROVA OBJETIVA. AFRONTA AO PRINCÍPIO DA SEGURANÇA JURÍDICA. CORREÇÃO DA PROVA DISCURSIVA. DIREITO LÍQUIDO E CERTO. CONFIGURAÇÃO. PROSSEGUIMENTO NO CERTAME. CONSEQUENCIA EVENTUAL. SUSPENSÃO DO CERTAME. DESNECESSIDADE. I. A atuação do Poder Judiciário em concursos públicos deve se restringir à verificação da observância dos princípios da legalidade e da vinculação ao edital, em razão da discricionariedade da Administração Pública. Precedentes do STJ. II. A adoção, pela instituição ou pelo órgão público, de critério de desempate não previsto no edital viola os princípios da vinculação à lei do concurso e da segurança jurídica, mormente quando tal restrição inviabiliza a correção da prova discursiva do candidato. III. O candidato que pontua em todas as matérias do certame, atinge o percentual mínimo de 50% de acerto da prova objetiva e encontra-se entre os 190 melhores concorrentes possui direito à correção da prova discursiva, a possibilitar sua participação nas demais etapas do concurso, acaso aprovado. IV. Desnecessária se entremostra a suspensão do certame em face da pretensão objeto do mandamus. V. Segurança parcialmente concedida.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões dos extraordinários partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade dos recursos.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 28 de abril de 2016.
+Ministro MARCO AURÉLIO
+Relator
