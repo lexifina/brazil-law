@@ -1,0 +1,44 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra decisão monocrática, proferida no âmbito do Superior Tribunal de Justiça, que negou provimento ao agravo em recurso especial.
+    O eminente Ministro Ricardo Lewandowski, meu antecessor no feito, ao indeferir o pleito liminar, assim resumiu o contexto da impetração:
+    “Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União, em favor de RICARDO ALEXANDRE CAETANO, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no Resp. 1.429.164/MG, Rel. Min. Moura Ribeiro.
+    A impetrante relata que o paciente, condenado pela prática de homicídio triplamente qualificado à sanção de 14 (quatorze) anos de reclusão, cumpria regulamente a pena quando, em setembro de 2012, foi informado de que coletaram sua urina e os resultados indicaram uso de substância ilícita, maconha. Embora tenha negado o uso da referia substância, o juiz reconheceu o cometimento de falta grava e determinou a regressão do regime prisional para o semiaberto.
+    Inconformada, a defesa ajuizou habeas corpus no TJMG sob o argumento de que o reconhecimento da falta grave foi feito sem que houvesse prova cabal da materialidade delitiva, uma vez que não houve laudo toxicológico. O Tribunal concedeu a ordem, pois entendeu que, no rol taxativo do art. 50 da LEP, não se inclui, como falta grave, o resultado positivo para substâncias entorpecentes.
+    Buscando o restabelecimento da decisão do juízo de piso, o Ministério Público estadual opôs embargos de declaração, sem sucesso. Interpôs, então, recurso especial no STJ que, em decisão monocrática do Relator, Min. Moura Ribeiro, deu provimento ao recurso para reconhecer o cometimento de falta grave e determinar a regressão do regime do paciente.
+    Irresignada, a defesa interpôs agravo regimental, mas a Quinta Turma daquela Corte Superior negou provimento ao recurso.
+    É contra esse decisum que se insurge a impetrante.
+    Alega, em síntese, que o o Tribunal mineiro agiu com acerto ao afastar o reconhecimento de falta grave, já que a conduta do paciente não se encontra prevista no rol taxativo do art. 50 da LEP.
+    Sustenta, nesse contexto, que o STF já decidiu que o rol previsto no dispositivo mencionado é taxativo.
+    Requer, ao final, o deferimento da liminar para determinar “o sobrestamento dos efeitos da r decisão proferida até o julgamento final do presente writ”. No mérito, pede a concessão da ordem “para que seja afastado o cometimento de falta grave e, portanto, permitida a progressão de regime” (págs. 8-9 do documento eletrônico 2).
+    A PGR manifestou-se pelo não conhecimento da impetração, com a concessão da ordem de ofício para o fim de determinar que o agravo regimental, no âmbito do STJ, seja julgado por órgão colegiado.
+    É o relatório. Decido.
+    1. Cabimento do habeas corpus:
+    Não se inaugura a competência deste Supremo nas hipóteses em que não esgotada a jurisdição antecedente, visto que tal proceder acarretaria indevida supressão de instância, dado o cabimento de agravo regimental. Precedentes:
+    “Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição, à falta de manejo de agravo regimental ao Colegiado, não se esgotou.”(HC 123926, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 14/04/2015, grifei)
+    “Inexistindo deliberação colegiada do Superior Tribunal de Justiça a respeito da questão de fundo suscitada pelo impetrante, não compete ao Supremo Tribunal Federal analisá-la originariamente, sob pena de indevida supressão de instância.” (HC 124561 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 10/02/2015, grifei)
+    No caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merece conhecimento, na medida em que ataca decisão monocrática, sem ter manejado irresignação regimental.
+    2. Possibilidade de concessão da ordem de ofício:
+    Ainda que ausentes hipóteses de conhecimento, a Corte tem admitido, excepcionalmente, a concessão da ordem de ofício.
+    Calha enfatizar que tal providência tem sido tomada tão somente em casos absolutamente aberrantes e teratológicos, em que “a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF” (HC 95009, Rel. Min. Eros Grau, Tribunal Pleno, julgado em 06/11/2008, grifei).
+    Devido ao caráter excepcional da superação do verbete sumular, a ilegalidade deve ser cognoscível de plano, sem a necessidade de produção de quaisquer provas ou colheita de informações. Nesse sentido, não pode ser atribuída a pecha de flagrante à ilegalidade cujo reconhecimento demande dispendioso cotejamento dos autos ou, pior, que desafie a complementação do caderno processual por meio da coleta de elementos externos.
+    Como reforço, cumpre assinalar que o Código de Processo Penal, ao permitir que as autoridades judiciárias concedam a ordem de ofício em habeas corpus, apenas o fez quanto aos processos que já lhes são submetidos à apreciação:
+    “Art. 654. (…)
+    (…)
+    § 2o Os juízes e os tribunais têm competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.”
+    De tal modo, ao meu sentir, não se admite que o processo tenha como nascedouro, pura e simplesmente, a alegada pretensão de atuação ex officio de Juiz ou Tribunal, mormente quando tal proceder se encontra em desconformidade com as regras de competência delineadas na Constituição da República. Em outras palavras: somente se cogita da expedição da ordem de ofício nas hipóteses em que não se desbordar da competência do órgão, de modo que essa não pode ser a finalidade precípua da impetração.
+    3. Análise da possibilidade de concessão da ordem de ofício no caso concreto:
+    No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Com efeito, a Lei de Execuções Penais consagra a prática de crime doloso como falta disciplinar de natureza grave:
+    “Art. 52. A prática de fato previsto como crime doloso constitui falta grave e, quando ocasione subversão da ordem ou disciplina internas, sujeita o preso provisório, ou condenado, sem prejuízo da sanção penal, ao regime disciplinar diferenciado, com as seguintes características:”
+    Assim, a despeito da ausência de inclusão dessa hipótese no artigo 50 da mesma norma, que elenca as faltas disciplinares de natureza grave, é induvidoso que referido fato ostenta referida condição. Portanto, diante da expressa previsão legal, não há flagrante abusividade nessa conclusão.
+    No caso concreto, concluiu-se que o paciente teria cometido a infração prevista no artigo 28 da Lei 11.343/06. Registro que a impetração não discute o caráter penal da referida infração. Embora esse tema possa ser alvo de aguda controvérsia (inclusive, no RE 635.659/SP, em julgamento pendente de conclusão, votei pela declaração de inconstitucionalidade sem redução de texto do tipo penal), é certo que, forte na presunção de constitucionalidade das normas, a aplicação da regra não traduz situação teratológica, mormente na pendência, no âmbito desta Corte, da solução acerca de sua (in)constitucionalidade.
+    Vale dizer, até o presente momento remanesce relevante debate atinente à constitucionalidade da norma, de modo que esse cenário, por si só, afasta a conclusão de flagrante ilegalidade reclamada nas hipóteses de concessão da ordem de ofício.
+    Consigno que, por óbvio, a questão poderá ser reapreciada pelas instâncias próprias após a conclusão do julgamento do RE 635.659/SP.
+    Em relação ao agravo regimental julgado no âmbito do STJ, aduzo que a retratação implementada pelo Relator prejudica a atuação do órgão colegiado. Ou seja, a decisão monocrática recorrida (não conhecimento do agravo em recurso especial) foi reconsiderada, oportunidade em que se concluiu pela negativa de provimento do agravo em recurso especial. Dessa decisão, a defesa não recorreu, de modo que não se inaugurou a competência do colegiado para julgamento de agravo regimental em agravo em recurso especial, cabível para atacar o julgamento do mérito recursal.
+    Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF, ou de flagrante hipótese de constrangimento ilegal, não é o caso de concessão da ordem de ofício.
+    Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 28 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
