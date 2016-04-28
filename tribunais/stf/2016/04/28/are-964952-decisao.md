@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu o recurso extraordinário. A decisão agravada negou seguimento ao apelo extremo amparada, inclusive, nos seguintes fundamentos:
+    “D'outro bordo, o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame de direito local. Atuante a Súmula 280 do Colendo Supremo Tribunal Federal, adotada pela Corte Superior (REsp. 631.569, rel. Min. Maria Isabel Gallotti, DJ 01/02/13; AgRg no AResp. 1.085.637, rel. Min. Og Fernandes, DJ 27/02/13; AgRg no AResp. 265.966, rel. Min. Napoleão Nunes Maia Filho, DJ 10/04/13; AgRg no AResp. 129.216, rel. Min. Eliana Calmon, DJ 09/04/13).
+    No mais, o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame das provas colhidas no correr do feito.
+    Incidente a Súmula 279 do Colendo Supremo Tribunal Federal.
+    Quanto à interposição do apelo extremo pelo permissivo da alínea “b” do art. 102, III, da CF/88, também não se mostra cabível o recurso, deixando o Tribunal de origem de declarar a inconstitucionalidade de tratado ou lei federal (cf. AI 750.443-GO, rel. Min. Rosa Weber, DJ 14/03/2013).”
+    Decido.
+    Esta Suprema Corte firmou o entendimento de que deve a parte impugnar todos os fundamentos da decisão que não admitiu o recurso extraordinário, o que não ocorreu na espécie, uma vez que mantidas incólumes as motivações anteriormente reproduzidas.
+    Nesse caso, a jurisprudência de ambas as Turmas deste Tribunal, com amparo na norma do art. 544, § 4º, inc. I, do Código de Processo Civil, com a redação da Lei nº 12.322/10, é no sentido de não conhecer do agravo. Nesse sentido, os seguintes julgados: AI nº 488.369/RS-AgR, Primeira Turma, Relator Ministro Sepúlveda Pertence, DJ de 28/5/04; AI nº 330.535/SP-AgR, Segunda Turma, Relator o Ministro Maurício Corrêa, DJ de 21/9/01; ARE nº 637.373/MS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/6/11; e ARE nº 704.986/PA-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 28/2/13, esse último assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO POPULAR. ESCOLHA DE CIDADE SEDE DE EVENTO DA COPA DO MUNDO DE FUTEBOL DE 2014. FUNDAMENTOS DO DESPACHO DENEGATÓRIO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO NÃO IMPUGNADOS. AGRAVO NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC. SÚMULA 283/STF. A teor do art. 544, § 4º, I, do CPC e da Súmula 283/STF, não se conhece de agravo contra despacho negativo de admissibilidade de recurso extraordinário quando, lastreada a decisão agravada em múltiplos fundamentos, independentes e suficientes para obstar o processamento do apelo extremo, não foram esgrimidos argumentos tendentes a desconstituir todos eles. Não importa em ofensa ao princípio constitucional da inafastabilidade da jurisdição (art. 5º, XXXV, da Constituição da República) a negativa de seguimento a recurso extraordinário, ou o não conhecimento de agravo, quando verificado o não-atendimento dos pressupostos extrínsecos ou intrínsecos de admissibilidade recursal, cuja observância pelas partes constitui verdadeira imposição da garantia constitucional do devido processo legal (art. 5º, LIV, da Lei Maior). Agravo regimental conhecido e não provido.”
+    Ante o exposto, não conheço do agravo.
+    Publique-se.
+    Brasília, 28 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
