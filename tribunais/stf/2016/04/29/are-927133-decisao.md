@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado:
+    “FAZENDA PÚBLICA. PROFESSOR. GRATIFICAÇÃO. ALUNOS COM NECESSIDADES ESPECIAIS. DIREITO AO RECEBIMENTO. INEXISTÊNCIA DE NULIDADE DA SENTENÇA. PERCENTUAL DA GRATIFICAÇÃO. MANTIDO. MULTA POR DESCUMPRIMENTO DE OBRIGAÇÃO DE DAR. INDEVIDA. RECURSO CONHECIDO E PARCIALMENTE APENAS PARA EXCLUIR A MULTA FIXADA (...)”. (eDOC 11, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se violação dos artigos 2º; 5º, XXXV, LIV e LXXI; 25, 84, IV; e 93, IX, do texto constitucional.
+    Aponta-se que o Poder Judiciário atuou como legislador positivo ao implementar e arbitrar o percentual de gratificação aos professores que exercem a docência com alunos portadores de necessidades especiais.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, com relação à alegada ofensa aos artigos 5º, XXXV, e 93, IX, da Constituição Federal, observo que o Supremo Tribunal Federal já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, reconheceu a existência de repercussão geral do tema e reafirmou sua jurisprudência no sentido de que o referido artigo exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Complementar Estadual 67/1999) e o conjunto probatório constante dos autos, entendeu que a recorrida faria jus ao adicional ali previsto, por lecionar a alunos portadores de necessidades especiais.
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Sobre o tema, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Servidor público. Gratificação pelo exercício de docência a alunos portadores de necessidades especiais. Lei Complementar nº 67/1999 do Estado do Acre. 3. Matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional. Ofensa reflexa à Constituição Federal. Súmula 280 do STF. 4. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento”. (ARE 928.531-AgR/AC, da minha relatoria, Segunda Turma, DJe 1º.3.2016)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROFESSOR. GRATIFICAÇÃO DE ENSINO ESPECIAL. GATE. LEI COMPLEMENTAR ESTADUAL 67/1999. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. LEI LOCAL. SÚMULA 280. 1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. A decisão que inadmitiu o recurso extraordinário não ofendeu a norma do art. 93, IX, da Constituição, porquanto está devidamente fundamentada. 3. Agravo Regimental a que se nega provimento”. (ARE 900.563-AgR/AC, Rel. Min. Edson Fachin, Primeira Turma, DJe 17.02.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
