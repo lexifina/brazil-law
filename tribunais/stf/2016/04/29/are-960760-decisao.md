@@ -1,0 +1,18 @@
+DECISÃO: A controvérsia suscitada no recurso extraordinário a que se refere o presente agravo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. PROVENTOS. INATIVOS. EXTENSÃO DA GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO – GDPST. REPERCUSSÃO GERAL RECONHECIDA PELA CORTE. RE 631.880-RG. ARTIGO 40, § 8º, DA CONSTITUIÇÃO FEDERAL. LIMITAÇÃO DA EXTENSÃO. REPERCUSSÃO GERAL RECONHECIDA PELO STF. RE 631.389-RG. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO.
+    1. A Gratificação de Desempenho da Carreira da Previdência, da Saúde e do Trabalho – GDPST, é extensível aos servidores inativos, no período em que não foi regulamentada por critérios específicos de avaliação de desempenho pessoal, sob pena de ofensa ao art. 40, § 8º, da Constituição Federal. Precedentes.
+    2. A extensão da GDPST não pode se dar ad aeternum, devendo restar limitada até que sobrevenha regulamentação da Gratificação de Desempenho da Lei 11.784/2008 e processados os resultados da primeira avaliação individual institucional. Precedente.
+    3. In casu, o acórdão extraordinariamente recorrido confirmou a sentença que julgara a ação procedente para condenar a União ao pagamento das diferenças relativas à Gratificação de Desempenho da Carreira da Previdência Social e do Trabalho – GDPST, até a realização do primeiro ciclo de avaliação.
+    4. Agravo regimental DESPROVIDO.”
+    (ARE 786.865-AgR/PR, Rel. Min. LUIZ FUX)
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ART. 5º, XXXV E LV, DA CF/88. OFENSA CONSTITUCIONAL REFLEXA. SERVIDOR PÚBLICO. INATIVOS. GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO (GDPST). REDUÇÃO DO PERCENTUAL PAGO EM RAZÃO DO ADVENTO DAS AVALIAÇÕES DE DESEMPENHO. OFENSA AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. INOCORRÊNCIA.
+    1. Apreciando a Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo (GDPGPE), cujo regramento é similar ao da Gratificação de Desempenho da Carreira da Previdência, da Saúde e do Trabalho (GDPST), o Plenário do STF, no julgamento do RE 631.389, Rel. Min. MARCO AURÉLIO, DJe de 3/6/2014, Tema 351, submetido ao regime do art. 543-B do CPC, decidiu pela sua concessão aos inativos, no mesmo percentual pago aos ativos, apenas até que fossem processados os resultados da primeira avaliação de desempenho. A partir desse termo, a gratificação perde sua natureza geral e adquire o caráter ‘pro labore faciendo’.
+    2. Assim, avaliados os servidores em atividade, o pagamento da GDPST aos pensionistas e inativos deverá observar o art. 5º-B, § 6º, da Lei 11.355/2006, de modo que a redução da gratificação de desempenho paga aos servidores não importa ofensa ao princípio da irredutibilidade de vencimentos.
+    3. Agravo regimental a que se nega provimento.”
+    (ARE 916.187-ED/PR, Rel. Min. TEORI ZAVASCKI)
+    O exame da presente causa evidencia que o acórdão questionado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC/15, art. 932, VIII, e RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 29 de abril de 2016.
+Ministro CELSO DE MELLO
+Relator
