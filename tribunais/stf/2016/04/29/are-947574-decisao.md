@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário em face de acórdão do Tribunal de Justiça Militar do Estado de São Paulo, assim ementado (eDOC 4, p. 15):
+    “Agravo Regimental interposto contra decisão que indeferiu inicial de ação rescisória por manifesta improcedência – pedido formulado com base em decisão absolutória de natureza penal – art. 386, V, CPP – provimento criminal não apto a ensejar a incidência do princípio constitucional estadual inserto no art. 138, § 3º, da CE/SP – universo fático de interesse administrativo mais amplo que aquele apurado em sede criminal – independência e autonomia entre as esferas jurídicas administrativa e criminal – art. 2º da CF/88 – decisão obstativa mantida - agravo improvido - unânime.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, LVII, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “a reintegração DEVE ocorrer, mormente se a denúncia e a portaria do procedimento administrativo relatarem os mesmos fatos, ou seja guardarem absoluta relação de identidade, como nos caso dos autos. (eDOC 4, p. 34).
+    A Presidência do TJM/SP inadmitiu o recurso em virtude de incidir à hipótese o óbice as Súmulas 280 e 282 do STF. (eDOC 4, pp. 66-69).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (eDOC 4, p. 18):
+    “Conforme já assinalei, referida decisão não só foi alvo de Embargos Infringentes, submetidos a julgamento perante o E. Tribunal Pleno desta Casa Julgadora, como também, houve o autor rescindente por alçar instâncias recursais superiores, nas quais, igualmente, não obteve sucesso.
+    Ademais, erguendo seu inconformismo com fundamento em absolvição criminal que alegou versar sobre idênticos fatos, constatamos, ao contrário, que a acusação e procedência administrativas se deram em razão de universo fático mais amplo que aquele envolvendo o crime de homicídio pelo qual foi acusado e absolvido, razão pela qual não se há incidir sobre a hipótese o princípio do art. 138, § 3º, da CE/SP.”
+    Assim, constato que eventual divergência ao entendimento adotado pelo juízo a quo, demandaria o reexame de fatos e provas e o da legislação aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no agravo de instrumento. Policial militar. Independência das esferas penal e administrativa. Processo administrativo disciplinar. Expulsão. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. O acórdão recorrido está em consonância com a jurisprudência desta Corte no sentido da independência entre as esferas penal e administrativa. 2. Para divergir do entendimento do Tribunal de origem, no sentido da regularidade do procedimento administrativo disciplinar que determinou a expulsão do ora agravante dos quadros da Polícia Militar, seria imprescindível a interpretação da legislação infraconstitucional pertinente e o reexame das provas dos autos, o que é inviável em recurso extraordinário. Incidência da Súmula n. 279 desta Corte. 3. Agravo regimental não provido.” (AI n. 681.487-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 1.2.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAL MILITAR. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. ABSOLVIÇÃO NA ESFERA PENAL. INDEPENDÊNCIA RELATIVA ENTRE AS ESFERAS ADMINISTRATIVA E PENAL. OBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 763.426-AgR, Relatora a Ministra Cármen Lúcia, Segunda Turma, DJe 28.10.2013).
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 29 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
