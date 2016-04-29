@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E FINANCEIRO. REPASSE DE DUODÉCIMOS. REPASSE A MENOR. SEGURANÇA CONCEDIDA PARA DETERMINAR O REPASSE INTEGRAL. EXERCÍCIO FINANCEIRO DE 2011. ORÇAMENTO EXAURIDO. PERDA DO OBJETO DO EXTRAORDINÁRIO. AGRAVO PREJUDICADO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “MANDADO DE SEGURANÇA - CONSTITUCIONAL - DUODÉCIMO - REPASSE. IMPOSSIBILIDADE DE COMPENSAÇÃO – POSSIBILIDADE DE RETENÇÃO DOS VALORES REFERENTES À CONTRIBUIÇÃO PREVIDENCIÁRIA. 1) A ordem constitucional, tanto Federal quanto Estadual, incumbe ao Poder Executivo efetuar o repasse de duodécimos até o dia vinte de cada mês aos demais poderes, bem como ao Ministério Público e ao Tribunal de Contas, inclusive os valores relativos aos créditos suplementares e especiais que lhes são destinados. 2) O duodécimo tem cunho tutelar, isto é, não creditício, o que por si só veda a compensação de valores anteriormente repassados, mormente com relação a repasses referentes a outro ano, regido por outra Lei, por força do princípio da anualidade orçamentária. 3) É excepcionalmente admissível a retenção e compensação de parte do duodécimo a ser repassado ao Poder Legislativo, quando esse não providencia o recolhimento das contribuições previdenciárias. 4) Segurança parcialmente concedida.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 165, §§ 5º e 9º, e 168, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 279 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A controvérsia refere-se ao repasse a menor de duodécimos ao Assembleia Legislativa do Estado do Amapá no exercício financeiro de 2011. In casu, o Tribunal a quo determinou que o Estado efetuasse os repasses de forma integral, com observância do percentual previsto na Lei estadual nº 1.533/2010 (Lei de Diretrizes Orçamentárias).
+    Consigne-se que a eficácia das leis orçamentárias estaduais e o exercício financeiro do ano 2011 encontram-se exauridos, de forma que a discussão a respeito da implementação do orçamento estadual de 2011, em sede mandamental, resta prejudicada. Nesse contexto, verifica-se que o recurso extraordinário perdeu seu objeto. No mesmo sentido, trago à colação os seguintes julgados:
+    “DIREITO TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. REPASSE DE DUODÉCIMO À CÂMARA MUNICIPAL. EMENDA CONSTITUCIONAL 58/2009. ORÇAMENTO DO EXERCÍCIO DE 2010. PERDA SUPERVENIENTE DE OBJETO.
+    1. Exaurida a eficácia da lei de diretrizes orçamentárias elaborada em 2009, bem como o exercício de 2010, resta prejudicado o recurso extraordinário por perda superveniente de objeto.
+    2. Embargos de declaração recebidos como agravo regimental a que se nega provimento.” (ARE 784.415-ED, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 7/8/2015)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Repasse de duodécimo à Câmara Municipal. Emenda Constitucional 58/2009. Redução de 8% para 7%. Orçamento do exercício de 2010 esgotado. Perda superveniente de objeto. Prejudicialidade. 3. Agravo regimental a que se nega provimento.” (ARE 734.233-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 22/5/2014)
+    Confiram-se, ainda: RE 685.426, Rel. Min. Dias Toffoli, DJe de 2/2/2015; RE 762.684, Rel. Min. Roberto Barroso, DJe de 20/8/2014; ARE 734.671, Rel. Min. Ricardo Lewandowski, DJe de 5/5/2014; RE 737.904, Rel. Min. Rosa Weber, DJe de 31/3/2014; ARE 729.460, Rel. Min. Cármen Lúcia, DJe de 19/12/2013; ARE 753. 573, Rel. Min. Gilmar Mendes, DJe de 27/6/2013 e ARE 951.879, Rel. Min. Luiz Fux, DJe 15/04/2016.
+    Ex positis, JULGO PREJUDICADO o agravo, com fundamento no disposto no artigo 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 29 de abril de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
