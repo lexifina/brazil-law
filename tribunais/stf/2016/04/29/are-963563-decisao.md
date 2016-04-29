@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, do qual se extrai da ementa o seguinte trecho:
+    “PENAL E PROCESSO PENAL. APELAÇÃO. HOMICÍDIO QUALIFICADO POR MOTIVO FÚTIL E PELA IMPOSSIBILIDADE DE DEFESA DA VÍTIMA. DECISÃO DOS JURADOS QUE NÃO DISSOCIA DO ACERVO PROBATÓRIO. CONDENAÇÃO MANTIDA EM TODOS OS SEUS TERMOS. INEXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS AO RÉU. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+    […].”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 93, IX, da Constituição. Aduz “o Julgador se atém a mencionar a materialidade do delito, bem como os indícios de autoria, aduzindo tão somente que a decisão dos jurados encontrou arrimo no acervo probatório dos autos”.
+    O recurso é inadmissível, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que não atende ao disposto no art. 543-A, § 2º, do CPC/1973. Como já registrado por este Tribunal, a “simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, imprescindível seria a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário.
+    Quanto à alegada ofensa ao art. 93, IX, da Constituição, esta Corte já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. No caso, a decisão está devidamente fundamentada, embora em sentido contrário ao interesse da parte agravante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
