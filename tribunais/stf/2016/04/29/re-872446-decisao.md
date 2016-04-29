@@ -1,0 +1,22 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado, em sede de embargos de declaração, pelo E. Tribunal de Justiça do Estado do Espirito Santo, está assim ementado:
+    “PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. AÇÃO ACIDENTÁRIA. AUSÊNCIA DE NEXO DE CAUSALIDADE ENTRE O ACIDENTE DE TRABALHO E A ATIVIDADE LABORAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. ANÁLISE DO PEDIDO SOB A ÓTICA PREVIDENCIÁRIA. RECURSO DESPROVIDO.
+    1) Como cediço, é da competência da Justiça Estadual o julgamento de ação em que se discute a concessão, restabelecimento ou revisão de benefício decorrente de acidente de trabalho, por se enquadrar em um dos casos de competência residual prevista no inciso I do art. 109 da CF.
+    2) Por outro lado, a competência da Justiça Federal é determinada para o julgamento de ações objetivando a percepção de benefícios de índole previdenciária, decorrentes de acidentes de outra natureza, que não do trabalho.
+    3) Sob esse prisma, é iterativa a jurisprudência desta Corte, inclusive desta Segunda Câmara Cível, no sentido de que, ausente o nexo de causalidade entre o acidente de trabalho e a atividade laboral, caberá à Justiça Federal a análise do pedido sob a ótica previdenciária.
+    4) De ressaltar, ademais, que em demanda similar, o Superior Tribunal de Justiça já se manifestou no sentido de ser cabível a remessa dos autos à Justiça Federal quando o Juízo Estadual verificar que o autor, embora não preencha os requisitos previstos na legislação para o deferimento do benefício acidentário, faz jus a outro benefício previdenciário.
+    5) Recurso desprovido.”
+    O Instituto Nacional do Seguro Social – INSS, ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, XXXV, LIV, 93, IX, e 109, I, todos da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o presente recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido nesta sede processual, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Não foi por outro motivo que o acórdão recorrido fundamentou as suas conclusões em aspectos fático-probatórios, a seguir destacados:
+    “Cuida-se de agravo de instrumento por meio do qual pretende, INSS – Instituto Nacional do Seguro Social, ver reformada a r. decisão de fls. 126/8 que, em sede de ação acidentária, declinou da competência para julgar a demanda em favor da Justiça Federal, tendo em vista a ausência de nexo de causualidade entre o acidente de trabalho e as atividades laborais desenvolvidas.
+    …...................................................................................................
+    Por outro lado, a competência da Justiça Federal é determinada para o julgamento de ações objetivando a percepção de benefícios de índole previdenciária, decorrentes de acidentes de outra natureza, que não do trabalho.
+    Sob esse prisma, é iterativa a jurisprudência desta Corte, inclusive desta Segunda Câmara Cível, no sentido de que, ausente o nexo de casualidade entre o acidente de trabalho e a atividade laboral, caberá à Justiça Federal a análise do pedido sob a ótica previdenciária (…).”
+    Vê-se, portanto, que a pretensão ora deduzida pela parte recorrente revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 29 de abril de 2016.
+Ministro CELSO DE MELLO
+Relator
