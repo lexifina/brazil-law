@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 278):
+    “ADMINISTRATIVO. CONCURSO PÚBLICO. MAGISTÉRIO. REQUISITOS. Mandado de segurança impetrado contra ato de autoridade que, sob pretexto de que impetrante havia concluído curso de habilitação por meio de ensino "à distância", a impediu de tomar posse no cargo de professor municipal. Procedência. A política educacional tem um eixo para além do critério do peculiar interesse do Município, vale dizer: os valores estabelecidos pela lei federal 9.394/96 (LDB), têm por escopo disciplinar um eixo normativo principial a ser adotado por toda a Federação - logo – pelos órgãos federais, pelos demais que se repetem nos Estados (referentemente ao ensino) e naturalmente pelos dos Municípios. Se a LDB possibilita o ensino à distância, não subsiste ato da autoridade, mesmo lastreada em lei municipal, de não reconhecer sua validade. Recurso e remessa necessária desprovidos.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 18 e 211 da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “nos termos da Indicação CME nº 05/04 e Deliberação CME nº 02/04, só terão validade os diplomas obtidos em cursos na forma presencial, não se podendo aceitar diplomas de cursos de formação a distância quando se tratar da formação inicial de docentes para a educação infantil e para os anos iniciais do ensino fundamental.” (eDOC1, p. 301)
+    Aduz, ainda, que “o edital deve estar sujeito à lei. E a lei, como já se demonstrou, conferiu autonomia a cada um dos entes federativos para aceitar ou não os certificados obtidos em cursos à distância.” (eDOC 1, p. 305)
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso, em virtude de incidir na hipótese a Súmula 282/STF.
+    É o relatório. Decido.
+    Inicialmente, observa-se que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. A jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário, quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Além disso, não foram opostos embargos declaratórios com a finalidade de sanar a omissão. Incidem, portanto, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Ademais, verifica-se que o Tribunal de origem assim asseverou (eDOC1, p. 286-289):
+    “Logo, a ação suplementar da Municipalidade tem apenas o condão de subsidiar – assim como, nos Estados e mesmo na esfera federal, - as ações governativas dos negócios da Educação desde que obedientes aos princípios insculpidos na lei federal em referência. Se for válido, se formou professor, se a lei federal o reconhece como apto a gerar efeitos, não poderá gestor municipal sob o argumento de reserva da autonomia que cabe ao Município – discriminar o valor e a extensão desta titulação – ou seja, daquela que provenha de cursos à distância.”
+    Como se observa da leitura do acórdão recorrido, o exame das razões recursais exige análise da legislação infraconstitucional, pois eventual contrariedade com a Constituição Federal é apenas reflexa, o que não autoriza o acesso à via extraordinária.
+     Confira-se a esse respeito o seguinte precedente: AI 736.282-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 17.12.2012.
+     No mesmo sentido, as decisões monocráticas: ARE 858.581, Rel. Min. Cármen Lúcia, DJe 06.02.2015; ARE 903.408, Rel. Min. Dias Toffoli, DJe 19.08.2015.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 29 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
