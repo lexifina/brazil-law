@@ -1,0 +1,39 @@
+Penal e Processual. RHC. Porte ilegal de arma de fogo – art. 14, caput, da Lei n. 10.826/2007. Absolvição. Reexame de fatos e provas. Vedação em sede de habeas corpus. Pena-base fixada no mínimo legal. Acréscimo pela reincidência. Quantum compatível com o regime aberto. Imposição, per saltum, de regime fechado. Opinião do julgador a respeito da gravidade do crime. Ofensa aos enunciados das Súmulas 718 e 719/STF. Circunstância judicial desfavorável. Inexistência. Cabimento do regime semiaberto. Parecer ministerial pelo provimento parcial do recurso.
+- RHC provido, em parte, com fundamento no artigo 192 do Regimento Interno do Supremo Tribunal Federal, para determinar que o recorrente inicie o cumprimento de sua pena no regime semiaberto.
+    Decisão: Trata-se de recurso ordinário em habeas corpus interposto de acórdão do Superior Tribunal de Justiça sintetizado na seguinte ementa:
+    “HABEAS CORPUS. ART. 14 DA LEI N.° 10.826/03. IMPETRAÇÃO SUBSTITUTIVA DE REVISÃO CRIMINAL. IMPROPRIEDADE DA VIA ELEITA. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. VIA INADEQUADA. PENA-BASE NO MÍNIMO LEGAL. REPRIMENDA FINAL INFERIOR A 4 ANOS DE RECLUSÃO. REGIME INICIAL FECHADO. ELEMENTOS CONCRETOS E REINCIDÊNCIA. ADEQUAÇÃO. NÃO CONHECIMENTO.
+    1. Tratando-se de habeas corpus substitutivo de revisão criminal, inviável o seu conhecimento.
+    2. O mandamus se presta a sanar ilegalidade ou abuso de poder que resulte em coação ou ameaça à liberdade de locomoção. Não cabe nesta via estreita do writ revolvimento fático-probatório a ensejar a absolvição do paciente.
+    3. Não obstante a estipulação da reprimenda final em patamar inferior a 4 (quatro) anos de reclusão, encontra-se motivada a sujeição ao regime fechado quando alicerçado em elementos concretos, a despeito desses não terem sido empregados na fixação da pena- ase, estabelecida no mínimo legal. Na espécie, a reincidência e o destaque de particularidade fática (a periculosidade se mostrou latente em razão de estarem os dois com armas de fogo em local duvidoso e na presença de menores) evidenciam um plus de reprovabilidade na conduta do paciente, que respalda a fixação do regime mais gravoso.
+    4. Habeas corpus não conhecido.”
+    O paciente foi absolvido do crime de porte ilegal de arma de fogo de uso permitido, sobrevindo recurso de apelação que restou provido para condená-lo à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime fechado, e pagamento de 11 (onze) dias multa.
+    O recorrente alega, em síntese, que a arma apreendida no carro em que ele se encontrava com dois menores pertence a estes, conforme afirmado na sentença absolutória, por isso que se impõe seja restabelecida a absolvição em face, no mínimo, da incidência do in dubio pro reo.
+    Sustenta, por outro lado, que a fixação do regime fechado teve como fundamento apenas a opinião “... puramente subjetiva do Egrégio Tribunal de Justiça”, o que afronta os enunciados das Súmulas ns. 718 e 719 desta Corte.
+    Requer a concessão de liminar a fim de que possa aguardar o julgamento em liberdade e, no mérito, o provimento do recurso para restabelecer a absolvição ou, alternativamente, para que o início do cumprimento da pena se dê no regime aberto.
+    É o relatório, em síntese.
+    A liminar foi indeferida.
+    O Ministério Público Federal manifestou-se em parecer do qual extraio os seguintes trechos:
+    “[...]
+    3. Assiste razão em parte ao recorrente.
+    4. Primeiramente é inviável, na via estreita do habeas corpus, revisar matéria fático probatória com a finalidade de obter pronunciamento judicial que implique na absolvição do paciente. ‘A decisão do Superior Tribunal de Justiça está em perfeita consonância com a jurisprudência desta Corte no sentido de que a via do habeas corpus não comporta reexame de fatos e provas para alcançar a absolvição do paciente.’ (HC nº 114.592/MT, Rel. Min. Ricardo Lewandowski, DJe de 26.3.2013); ‘A pretensão de absolvição ou atenuação da pena é questão controversa e somente pode ser analisada e decidida nas instâncias ordinárias, próprias para a verificação das alegações da Impetrante, pois demanda exame acurado do acervo probatório, o que não é admitido na via estreita do habeas corpus. Precedentes.’ (HC nº 111.086/AL, Rel. Min. Cármen Lúcia, DJe de 11.12.2012).
+    5. Consoante se depreende dos autos, a condenação do recorrente lastreou-se em diversos elementos de prova dos autos, não sendo possível averiguar em sede de habeas corpus a escorreita instrução da ação penal nas instâncias ordinárias.
+    6. No que tange ao regime inicial de cumprimento da pena, é entendimento dessa Suprema Corte que ‘a imposição de regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea’ - Súmula 719/STF, e ‘a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada’ - Súmula 718/STF.
+    7. No caso em testilha, o acórdão condenatório fixou a pena-base no mínimo legal, 2 anos de reclusão, aumentando-a em 1/6 (um sexto) em razão da reincidência, totalizando 2 (dois) anos e 4 (quatro) meses de reclusão. Alfim, fixou o regime fechado considerando a reincidência e as circunstâncias do crime: ‘O regime fica fixado no inicial fechado, em razão dos apelados não serem mais jejunos no crime. A periculosidade se mostrou latente em razão de estarem os dois como armas de fogo em local duvidoso e na presença na presença de menores’.
+    8. O Superior Tribunal de Justiça, ao denegar a ordem, destacou: ‘Na espécie, a reincidência e o destaque da particularidade fática (a periculosidade se mostrou latente em razão de estarem os dois com armas de fogo em local duvidoso e na presença de menores) evidenciam um plus de reprovabilidade na conduta do paciente, que respalda a fixação do regime mais gravoso’.
+    9. Em caso de sentenciado reincidente até quatro anos, o art. 33, § 2º, Código Penal, não permite o regime aberto, mas não veda o regime semiaberto. A imposição do regime fechado, per saltum, depende do reconhecimento de um maior grau de reprovabilidade, a indicar a insuficiência do regime intermediário.
+    10. No caso concreto, a pena-base foi fixada no patamar mínimo, e não obstante indicado o regime semiaberto, por ser o paciente reincidente, foi imposto a ele o regime inicial fechado, o que não mostra conformidade com o princípio da proporcionalidade, sendo a motivação do acórdão condenatório insuficiente para justificar o regime fechado.
+    Isso posto, opino pelo provimento parcial do recurso, para que seja estipulado o regime inicial semiaberto para o cumprimento da pena.”
+    É o relatório.
+    DECIDO.
+    Com razão o Parquet.
+    Destarte, a tese absolutória fundada em reexame de provas é insuscetível de acolhimento em habeas corpus.
+    Lado outro, a pena mínima fixada para o tipo, dois anos, acrescida de quatro meses em razão da reincidência, é compatível com o regime aberto.
+    In casu, o Tribunal local fixou, per saltum, o regime fechado com base na reincidência e tendo em conta sua opinião subjetiva a respeito da periculosidade da conduta, porquanto, houvesse circunstância judicial objetiva, a pena-base seria fixada acima do mínimo legal.
+    Ora, a reincidência justifica, sim, a imposição de regime mais gravoso que o aberto, que é o semiaberto, e não o fechado per saltum sem qualquer circunstância judicial desfavorável.
+    Ex positis, dou provimento parcial ao recurso, com fundamento no artigo 192 do Regimento Interno do Supremo Tribunal Federal, para determinar que o paciente inicie o cumprimento de sua pena no regime semiaberto.
+    Comunique-se.
+    Publique-se. Int..
+    Brasília, 29 de abril de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
