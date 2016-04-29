@@ -1,0 +1,9 @@
+Solução de Consulta Disit/SRRF02 nº 2005, de 12 de abril de 2016
+ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF
+EMENTA: DANO MORAL. PESSOA FÍSICA. AÇÃO JUDICIAL. NÃO INCIDÊNCIA. Em razão do conteúdo expresso no Ato Declaratório PGFN nº 9, de 2011, e Parecer PGFN/CRJ nº 2.123, de 2011, resta configurada a não incidência do imposto de renda sobre verba percebida por pessoa física, em ação judicial, a título de dano moral. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 98, DE 3 DE ABRIL DE 2014
+DISPOSITIVOS LEGAIS: Constituição da República de 1988, arts.150, § 6º, e 153, inc. III; Código Tributário Nacional, arts. 43 e 97, inc. VI; Lei nº 7.713, de 1988; art. 3º, § 4º; Lei nº 10.522, de 2002, art. 19, inc. II e §§ 4º, 5º e 7º; Parecer PGFN/CRJ nº 2.123, de 2011; e Ato Declaratório PGFN nº 9, de 2011; Solução de Consulta Cosit nº 98, 3 de abril de 2014; IN RFB nº 1.396, de 2013, art. 22.
+ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF
+EMENTA: DANO MORAL. PESSOA FÍSICA. AÇÃO JUDICIAL. NÃO INCIDÊNCIA. Em razão do conteúdo expresso no Ato Declaratório PGFN nº 9, de 2011, e Parecer PGFN/CRJ nº 2.123, de 2011, resta configurada a não incidência do imposto de renda sobre verba percebida por pessoa física, em ação judicial, a título de dano moral. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 98, DE 3 DE ABRIL DE 2014
+DISPOSITIVOS LEGAIS: Constituição da República de 1988, arts.150, § 6º, e 153, inc. III; Código Tributário Nacional, arts. 43 e 97, inc. VI; Lei nº 7.713, de 1988; art. 3º, § 4º; Lei nº 10.522, de 2002, art. 19, inc. II e §§ 4º, 5º e 7º; Parecer PGFN/CRJ nº 2.123, de 2011; e Ato Declaratório PGFN nº 9, de 2011; Solução de Consulta Cosit nº 98, 3 de abril de 2014; IN RFB nº 1.396, de 2013, art. 22.
+ALDENIR BRAGA CHRISTO
+Chefe
