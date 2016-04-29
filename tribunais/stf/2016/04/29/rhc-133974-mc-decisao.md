@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, com pedido de liminar, interposto por Fabiana da Silva, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que não conheceu do HC nº 326.240/RJ, Relator o Ministro Félix Fischer.
+    Alega a recorrente, em síntese, a ocorrência de bis in idem quando da fixação da sua pena pelo delito de tráfico de drogas, visto que a quantidade de droga apreendida em seu favor teria sido valorada negativamente “em dois momentos da dosimetria: para exasperar a pena-base assim como para aplicar a diminuição mínima na terceira fase” (fl. 110).
+    Afirma, ainda, que
+    “o fato de o crime ter sido praticado em estabelecimento prisional igualmente foi considerado em dois momentos distintos: (1) para aplicar a causa de aumento de pena; e (2) para aplicar o patamar mínimo da diminuição de pena do §4º do art. 33 da Lei de Drogas” (fl. 110).
+    Requer-se o deferimento da liminar para “suspender até decisão final neste recurso a expedição de mandado de prisão em [seu] desfavor (…) em razão do processo criminal de autos n. 00000937-24.2013.8.19.0204” (fl. 111 - grifos da autora).
+    No mérito, pede o provimento do recurso para que seja concedida a ordem de habeas corpus “no sentido de declarar a ilegalidade da decisão atacada com o consequente retorno da pena aplicada em primeiro grau” (fl. 112).
+    Examinados os autos, decido.
+    Transcrevo a ementa do acórdão recorrido:
+    “PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. ART. 33, § 4º, DA LEI 11.343/2006. NATUREZA E QUANTIDADE DA DROGA. VALORAÇÃO DA CIRCUNSTÂNCIA EXCLUSIVAMENTE NA PRIMEIRA FASE DA DOSIMETRIA. POSSIBILIDADE. BIS IN IDEM. INOCORRÊNCIA. OUTROS VETORES APTOS A MODULAR O QUANTUM DA APLICAÇÃO DA MINORANTE DE TRÁFICO EVENTUAL. HABEAS CORPUS NÃO CONHECIDO.
+    I - A Primeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso ordinário (v.g.: HC n. 109.956/PR, Rel. Min. Marco Aurélio, DJe de 11/9/2012; RHC n. 121.399/SP, Rel. Min. Dias Toffoli, DJe de 1º/8/2014 e RHC n. 117.268/SP, Rel. Min. Rosa Weber, DJe de 13/5/2014). As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (v.g.: HC n. 284.176/RJ, Quinta Turma, Rel. Min. Laurita Vaz, DJe de 2/9/2014; HC n. 297.931/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014; HC n. 293.528/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014 e HC n. 253.802/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 4/6/2014).
+    II - Portanto, não se admite mais, perfilhando esse entendimento, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não-conhecimento da impetração. Contudo, no caso de se verificar configurada flagrante ilegalidade apta a gerar constrangimento ilegal, recomenda a jurisprudência a concessão da ordem de ofício.
+    III - O col. Supremo Tribunal Federal, por ocasião do julgamento do ARE n. 666.334/AM, reconheceu a repercussão geral da matéria referente à valoração da natureza e quantidade da droga na dosimetria relativa ao delito de tráfico de entorpecentes e, reafirmando sua jurisprudência, fixou entendimento segundo o qual caracteriza bis in idem tal valoração tanto na primeira quanto na terceira fases do cálculo da pena (ARE n. 666.334 RG/AM, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe de 6/5/2014).
+    IV - No caso dos autos, o v. acórdão reprochado coaduna-se com o atual entendimento do col. STF sobre a matéria, uma vez que considerou a natureza e a quantidade da droga exclusivamente na primeira fase da dosimetria, utilizando-se de outros vetores para modular a fração da minorante insculpida no art. 33, § 4º, da Lei n. 11.343/2006.
+    Habeas Corpus não conhecido” (fls.88/89 – grifos do autor).
+    Essa é a razão pela qual se insurge a recorrente no presente feito.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação constante dos autos representar manifesto constrangimento ilegal.
+    Pelo que se tem no julgado proferido pela Quinta Turma do Superior Tribunal de Justiça, não se vislumbra, neste primeiro exame, ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento de liminar. Com efeito, o acórdão proferido por aquela Corte de Justiça encontra-se devidamente motivado, restando justificado o convencimento formado.
+    Ademais, não vislumbro, neste juízo de estrita delibação, a ocorrência do apontado bis in idem na fixação da pena da recorrente, pois, tal como afirmou o Ministro Félix Fischer em seu voto,
+    “extrai-se do v. acórdão proferido que foram sopesados outros fatores para se modular o quantum da minorante de tráfico eventual, em especial o modus operandi da paciente, ‘valendo-se, inclusive, de adesivo para dentaduras, com vistas a dificultar a revista’ (fl. 13), dado que, a meu ver, seria suficiente à modulação da minorante na fração de 1/6, tal como realizado no eg. Tribunal de origem.
+    Portanto, não há que se falar, entendo eu, em indevido bis in idem na hipótese, haja vista a existência de outros vetores capazes de modular a fração de redução da minorante no denominado ‘tráfico eventual’.
+    Neste sentido, inclusive, manifestou-se a d. Procuradoria-Geral da República, em parecer do qual retiro o seguinte excerto:
+    ‘Diversamente do que pretende fazer crer a defesa, o fator determinante da reforma da sentença para reduzir a fração de diminuição da pena na terceira fase, de conformidade com o art. 33, §4º, da Lei nº 11.343/06, não fora quantidade nem natureza dos entorpecentes, mas a alta reprovabilidade da conduta perpetrada no interior de estabelecimento prisional. Assim, não se identifica a suposta hipótese de bis in idem na dosimetria penal’ (fl. 77)” (fls. 96/97 – grifos do autor).
+    Ante o exposto, sem prejuízo de exame mais detido quando do julgamento de mérito, indefiro o pedido de liminar formulado.
+    Estando devidamente instruído o recurso, dispenso o pedido de informações.
+    Abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 29 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
