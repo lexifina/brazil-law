@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Acre, assim ementado (eDOC 20):
+    “FAZENDA PÚBLICA. PROFESSOR. GRATIFICAÇÃO. ALUNOS COM NECESSIDADES ESPECIAIS. DIREITO AO RECEBIMENTO. PRELIMINARES. NULIDADE DA SENTENÇA. "INVERSÃO DO ÔNUS DA PROVA NO MOMENTO DA SENTENÇA". "AUSÊNCIA DE FUNDAMENTAÇÃO" PRELIMINARES AFASTADAS. PRELIMINAR DE INCOMPETÊNCIA DOS JUIZADOS E INADEQUAÇÃO DA VIA ELEITA. INOCORRÊNCIA. AFASTAMENTO QUE TAMBÉM SE IMPÕE. SENTENÇA DEVIDAMENTE FUNDAMENTADA. PRECEDENTES DO STF. SENTENÇA MANTIDA. PERCENTUAL DA GRATIFICAÇÃO MANTIDO CONFORME ENTENDIMENTO MAJORITÁRIO DESTE COLEGIADO. RECURSO IMPROVIDO, AFASTANDO DE OFÍCIO A CONDENAÇÃO DA MULTA FIXADA.
+    1. Os professores que exercem a docência com alunos portadores de necessidades especiais — independente da quantidade — têm direito à gratificação prevista em lei. Precedentes de diversas Turmas Recursais do país.
+    2. Preliminar de nulidade da sentença por inversão do ônus da prova no momento da sentença não merece guarida, vez que, sendo o Estado detentor de toda documentação (prontuários, apontamentos e arquivos profissionais dos servidores vinculados) necessária e comprobatória da matéria debatida, a ele compete a apresentação de toda documentação necessária a solução da questão até a instalação da audiência de conciliação. Inteligência do artigo 9° da Lei 12.153/2009. Preliminar rejeitada.
+    2.1. Preliminar de nulidade da sentença por ausência de fundamentação também não merece prosperar, pois, perfeitamente admissível a colação de precedentes, não tendo sido julgada a presente demanda unicamente com depoimento da parte autora, inexistindo assim desrespeito ao contraditório e ampla defesa. Lei n. 9.099/95 que autoriza julgamentos pelas regras de experiência, decisão mais justa e equânime, livre motivação com fundamentação. Preliminar rejeitada.
+    3. Incompetência dos juizados em razão de ausência de norma reguladora que não merece guarida, uma vez que o direito ao recebimento possui fundamento legal (arts. 18, 1 e 22, da LCE 67/99). Eficácia plena da norma. Regulamentação é sobre tabela com os índices. Não bastasse isso, o Estado quer se valer de sua inércia de 14 anos sem regulamentar norma, não podendo o professor deixar de receber a gratificação por conta da desídia do poder público.
+    4. Do mesmo modo é de se afastar a alegação de inadequação da via eleita, pois o pedido é tão admissível que houve a procedência da reclamação.
+    5. Alegação de que a sentença é imotivada carece de amparo. Conforme precedentes do STF, o acórdão recorrido fora desfavorável aos interesses da parte Recorrente, mas foi prestada a jurisdição, mediante decisão suficientemente motivada, justificando suas razões de decidir, com delimitação do objeto e do pedido (STF. ARE 0660661. Min. DIAS TOFFOLI. Pub. 24/11/2011).
+    6. Parte autora que trabalhou com alunos com necessidades especiais. Manutenção da sentença com relação ao percentual da gratificação fixada ante o entendimento majoritário deste colegiado no sentido do percentual incidir sobre 15% (quinze por cento) dos salários, enquanto perdurar a ausência de regulamentação.
+    7. De ofício, excluo a multa fixada, tendo em vista a ausência de respaldo legal para sua cominação, e não se tratar das estabelecidas nos art. 475-J e 463, §4°, ambas do CPC.
+    8. Recurso conhecido e improvido.
+    9. Sem custas. Honorários advocatícios no importe de 15% (quinze por cento) sobre o valor da condenação, pelo Recorrente vencido.”
+    Os embargos de declaração foram rejeitados (eDOC 24).
+    No recurso extraordinário (eDOC 26), com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 5º, LIV e LXXI; 25; 84, IV e 93, IX, do Texto Constitucional.
+    Nas razões recursais, sustenta-se a nulidade do acórdão recorrido, uma vez que este não teria se manifestado quanto às alegações apresentadas pelo Recorrente.
+    No mérito, alega-se violação ao princípio da separação entre os poderes, haja vista a impossibilidade de o Poder Judiciário conceder e regular a gratificação em análise. Neste sentido, aduz-se afronta ao art. 5º, LXXI, uma vez que o mandado de injunção seria a via adequada à regulamentação de norma de eficácia limitada.
+    Assevera-se, ainda, a desproporcionalidade na fixação da gratificação pleiteada.
+    A Presidência do TJ/AC inadmitiu o recurso extraordinário com base na ausência de prequestionamento (eDOC 32).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que inexiste a alegada ofensa ao art. 93, IX, do Texto Constitucional, visto que o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses da Recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ademais, observa-se que os dispositivos constitucionais apontados não foram objeto de debate no acórdão recorrido. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF).
+    Constata-se, ainda, da leitura da ementa do acórdão recorrido, que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação local aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em conta os enunciados das Súmulas 279 e 280 do STF.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de abril de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
