@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Eis a síntese do acórdão recorrido:
+    EXECUÇÃO FISCAL. PREVIDÊNCIA SOCIAL PAGAMENTOS | INDEVIDOS. NÃO ENQUADRAMENTO COMO DÍVIDA NÃO TRIBUTÁRIA. NULIDADE DA EXECUÇÃO. DESNECESSIDADE DE INDIVIDUALIZAÇÃO NUMÉRICA DOS ARTIGOS.
+    1. O débito oriundo do pagamento indevido de benefício previdenciário não se enquadra no conceito de dívida ativa não tributária (artigos 1º e 2º da Lei nº 6.830/80 e art. 39, § 2º, da Lei nº 4.320/64), de acordo com precedentes desta Corte e do STJ, devendo o INSS ajuizar a ação ordinária cabível, assegurado o contraditório e a ampla defesa. Ausentes os pressupostos da certeza, liquidez e exigibilidade do título, é confirmada a sentença que julgou extinto o processo de execução fiscal.
+    No recurso extraordinário, cujo trânsito busca alcançar, o recorrente insiste na possibilidade da execução fiscal para a cobrança de crédito não tributário apurado em procedimento administrativo.
+    2. Constam da decisão impugnada os seguimentos fundamentos:
+    É inadequada a via eleita pelo INSS, porquanto a jurisprudência deste Tribunal e do colendo STJ deixam claro que a cobrança de proventos pagos pelo Instituto Previdenciário indevidamente ao segurado, seja por erro, seja por má-fé deste, não pode ser admitida pela inscrição em dívida ativa, o que viola o princípio constitucional do devido processo legal (art. 5o, inciso LIV, da CF/88), tornando-se necessário, desta forma, o ajuizamento da ação ordinária por parte da Fazenda Pública, através do processo de conhecimento, assegurado ao devedor o contraditório e a ampla defesa.
+    A adequação do rito processual executivo deve ser efetivada inclusive de ofício pelo juiz, por se tratar de matéria de ordem pública, sendo certo que a inadequação da via processual eleita acarreta a falta de interesse processual, o que origina a ausência de condição da ação, o que também é pronunciável de ofício pelo julgador.
+    Desta forma, ocorrendo a impossibilidade de inscrição em dívida ativa, não havendo certeza, liquidez e exigibilidade, há nulidade do título executivo (nulla executio sine titulo), cuja declaração independe de manifestação da parte interessada.
+    Ademais, a jurisprudência entende que os proventos pagos pelo INSS de forma alegadamente indevida não constituem dívida não tributária, que poderia justificar a formação da CD A, justamente porque é necessária a discussão da regularidade dos pagamentos através da via processual própria (ação ordinária de cobrança).
+    Desta forma, a dívida cobrada pelo INSS não pode ser inscrita na Dívida Ativa nem mesmo sob o atributo de não tributária, sendo esta a interpretação dada aos artigos 1º e 2º da Lei n° 6.830/80 e ao art. 39, § 2º, da Lei n° 4.320/64, o que resulta na impossibilidade da formação da CDA para a execução fiscal.
+    Não há, pelos motivos acima, ofensa aos artigos 5º, inciso LXXVIII e 37 da Constituição Federal. Ademais, não vejo violação ao art. 114 da Lei n° 8.112/91, bem como ao art. 53 da Lei n° 9.784/99, porquanto aqui se declara a ausência de título válido para o 'ajuizamento da execução (nulidade da CDA), restando intacto o direito da Administração de rever seus atos, a qualquer tempo, quando eivados de ilegalidade.
+    À toda evidência, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 29 de abril de 2016.
+Ministro MARCO AURÉLIO
+Relator
