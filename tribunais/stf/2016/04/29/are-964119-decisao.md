@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário no qual, com fundamento no art. 102, III, a, da Constituição Federal, sustenta-se violação aos arts. 2º; 37, X e XIII; 39, § 4º; 40, § 2º, 3º e 8º, da Constituição.
+    A decisão agravada assentou que: (i) “à exceção dos artigos 39, §º4º, e 40, § 8º, os demais artigos da Constituição Federal, apontado para fundamentar o recurso, não foram objeto de enfrentamento explícito pela decisão impugnada”; (ii) a controvérsia demanda a análise de legislação local aplicável à espécie.
+    O acórdão do Tribunal de Justiça do Estado de Goiás entendeu que “o subsídio criado pela Lei Delegada n. 04/2003, posteriormente substituída pela Lei nº. 15.668/06, resultou em simples mudança de nomenclatura da gratificação de função para a expressão ‘subsídio’. Por não representar efetiva mudança no regime remuneratório dos servidores públicos estaduais, as vantagens financeiras concedidas pela Lei nº 15.668/06 evem ser estendidas aos inativos, em observância ao princípio da isonomia”.
+    A parte agravante rebate os fundamentos da decisão agravada e reitera os argumentos do recurso extraordinário. Pretende, em síntese, a revisão do julgado, por entender que “o Egrégio Tribunal de origem, ao considerar possível a extensão ao recorrido das vantagens pecuniárias previstas na Lei Delegada Estadual nº. 04/2003, acabou por negar vigência ao disposto no art. 37, inciso XIII, c/c art. 39, § 4º e art. 40, §§ 2º e 8º, da Constituição Federal”.
+    Após detida análise dos autos, conclui-se que não há violação constitucional para justificar a superação do juízo negativo de admissibilidade do Tribunal de origem. Isso porque a solução da controvérsia se deu com fundamento na interpretação da Lei delegada estadual nº 04/2003, o que, de fato, afasta o cabimento do recurso extraordinário. Nesse sentido, vejam-se os seguintes julgados do Supremo Tribunal Federal:
+    “ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE REPRESENTAÇÃO ESPECIAL. INTERPRETAÇÃO DA LEI DELEGADA ESTADUAL 04/2003. SÚMULAS STF 279 E 280.
+    1. Esta Corte já pacificou sua jurisprudência no sentido de que a análise da Gratificação de Representação , prevista na Lei Delegada estadual 04/2003, depende de exame da legislação local.
+    2. Para se concluir, como pretende a parte agravante, pelo caráter específico da gratificação em análise, necessário seria o reexame de legislação local e de fatos e provas, o que é defeso nesta via extraordinária (Súmulas STF 279 e 280). Precedentes.  3. Agravo regimental improvido.” (AI 651.271-AgR, Rel.ª Min.ª Ellen Gracie)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE REPRESENTAÇÃO. EXTENSÃO AOS SERVIDORES INATIVOS. NECESSIDADE DO EXAME DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 394.635-AgR, Rel.ª Min.ª Cármen Lúcia)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
