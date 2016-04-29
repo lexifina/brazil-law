@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 1ª Turma Recursal dos Juizados Especiais do Distrito Federal, assim ementado:
+    “JUIZADOS ESPECIAIS CÍVEIS. PROCESSUAL CIVIL. PRELIMINAR DE INÉPCIA DA PEÇA RECURSAL, ARGUIDA EM CONTRARRAZÕES, REJEITADA. CONSUMIDOR. CONTRATO DE PROMESSA DE COMPRA E VENDA DE BEM IMÓVEL. ATRASO INJUSTIFICADO NA ENTREGA DO BEM. APLICAÇÃO DE MULTA, POR INVERSÃO, FIXADA NO CONTRATO EXCLUSIVAMENTE EM BENEFÍCIO DO FORNECEDOR. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+    1. A par do processo nos Juizados Especiais orientar-se pelos critérios da oralidade, simplicidade, informalidade, economia processual e celeridade, a peça recursal apresenta razões associadas aos fundamentos da sentença que pretende atacar, com correspondência lógica à pretensão de afastar a responsabilidade das recorrentes pelo atraso na entrega do imóvel. Preliminar de inépcia da peça recursal arguida em contrarrazões rejeitada.
+    2. Se restou incontroverso o fato do atraso injustificado na entrega do bem objeto da lide, merece confirmação a sentença que condena a construtora ao pagamento da multa inserida no contrato de adesão pelo próprio fornecedor, no percentual de 2% sobre o valor pago, por inversão , uma única vez.
+    3. Todavia, deve ser excluído o valor afeto aos juros remuneratórios de 1% ao mês, pois os juros, na hipótese, ocorrem sobre dinheiro e não sobra a obrigação de entregar coisa certa.
+    4. A alegada demora na expedição de habite-se pelos órgãos públicos, a par de não provada, apenas distingue o atraso e não configura, por evidente, caso fortuito ou força maior. O prazo de tolerância de 180 dias, fixado contratualmente em atenção a própria natureza da atividade de construção civil, tem por objeto mesmo resguardar a empresa de eventual atraso. Diante de tal quadro, o fato alegado é desinfluente à solução da controvérsia, haja vista que integrante do risco da atividade comercial das empresas fornecedoras, caracterizando assim fortuito interno e, nessa ordem, não possui habilidade técnica para a aplicação da pretendida excludente de responsabilidade.
+    5. Recurso conhecido e parcialmente provido para decotar da r. sentença a condenação afeta aos juros de 1% ao mês, mantendo-se os demais termos da sentença.”
+    No recurso extraordinário, sustenta-se violação dos artigo 170 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636/STF.
+    Ante o exposto, nos termos do art. 21, §1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
