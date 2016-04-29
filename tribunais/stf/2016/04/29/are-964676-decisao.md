@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+    “EMENTA – APELAÇÃO CÍVEL. AÇÃO REVISIONAL CUMULADA COM COMPENSAÇÃO DE PAGAMENTOS INDEVIDOS CUMULADA COM PEDIDO DE TUTELA ANTECIPADA. LIMITAÇÃO DE JUROS REMUNERATÓRIOS. SÚMULA VINCULANTE N. 7 DO STF. INTELIGÊNCIA DAS SÚMULAS 539 E 541 DO STJ. CAPITALIZAÇÃO MENSAL. POSSIBILIDADE DE APLICAÇÃO CASO EXPRESSAMENTE PACTUADA. COMISSÃO DE PERMANÊNCIA, VALIDADE DA CLÁSULA. TAXA DE ABERTURA DE CRÉDITO E TARIFA DE EMISSÃO DE BOLETO. LEGALIDADE DA COBRANÇA. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+    O Superior Tribunal de Justiça, em sede de recurso repetitivo, já decidiu que a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade, bem como firmou posição no sentido de que é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada.
+    É permitida a capitalização de juros com periodicidade inferior à anual nos termos das Súmulas 539 e 541 do Superior Tribunal de Justiça.
+    A importância cobrada a título de comissão de permanência não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, ou seja: a) juros remuneratórios à taxa média de mercado, não podendo ultrapassar o percentual contratado para o período da normalidade da operação; b) juros moratórios até o limite de 12% ao ano; e c) multa contratual limitada a 2% do valor da prestação, nos termos do art. 52, § 1º, do CDC.
+    Nos contratos bancários celebrados até 30.04.2008 (fim da vigência da Resolução CMN 2.303/96) era válida a pactuação das tarifas de abertura de crédito (TAC) e de emissão de carnê (TEC), ou outra denominação para o mesmo fato gerador, ressalvado o exame de abusividade em cada caso concreto.”
+    O Tribunal de origem rejeitou embargos de declaração, em acórdão cuja ementa é a seguinte:
+    “EMENTA - EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO REVISIONAL. PERIODICIDADE DOS JUROS REMUNERATÓRIOS. MENSAL. CLÁUSULA LIVRIMENTE PACTUADA. SÚMULA VINCULANTE N. 7 DO STF. INTELIGÊNCIAS DAS SÚMULAS 539 E 541 DO STJ. REDISCUSSÃO DA MATÉRIA. INEXISTÊNCIA DE VÍCIO. EMBARGOS REJEITADOS.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXII; 22, VI e VII; 48, XIII; 59; 62; § 1º, III; 68, I, II e III; e 192, todos da Constituição, e ao art. 25 do ADCT.
+    O recurso extraordinário é inadmissível. O Plenário do Supremo Tribunal Federal, ao apreciar o mérito do RE 592.377, com repercussão geral reconhecida, (Tema 33), decidiu pela constitucionalidade do art. 5º da edição da Medida Provisória nº 1.963-17, de 30.03.2000, reeditada até a Medida Provisória nº 2.170-36, de 23.08.2001.
+    Ademais, a peça recursal não aponta, de forma clara e concreta, as razões pelas quais seria cabível a interposição do recurso extraordinário pelo art. 102, III, c, da Constituição, o que atrai a incidência da Súmula 284/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de abril de 2016.
+Ministro Luís Roberto Barroso
+Relator
