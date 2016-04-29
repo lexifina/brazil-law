@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 2ª Turma Recursal dos Juizados Especiais do Distrito Federal, assim ementado:
+    “JUIZADOS ESPECIAIS CÍVEIS. CONSUMIDOR. CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. IMÓVEL NÃO ENTREGUE NO PRAZO ESTIPULADO NO CONTRATO. LUCROS CESSANTES DEVIDOS EM RAZÃO DA MORA. FRUSTAÇÃO DE LEGÍTIMA EXPECTATIVA. POSSIBILIDADE DE CUMULAÇÃO COM CLÁSULA PENAL. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.
+    1. Trata-se de Recurso Inominado interposto pelo réu, pugnando pela reforma da sentença proferida às fls. 75/76, que julgou procedentes os pedidos da parte autora, condenando-o ao pagamento do valor de R$8.691,08 (oito mil, seiscentos e noventa e um reais e oito centavos), a título de lucros cessantes e juros moratórios (cláusula penal) pelo atraso no cumprimento da obrigação avençada em contrato de compra e venda de imóvel.
+    2. O atraso na entrega da unidade imobiliária depois de ultrapassado o prazo de tolerância de 180 dias é fato incontroverso.
+    3. Os fatos fortuitos internos, como chuvas, greves, atrasos das atividades do poder público, falta de mão de obra e de insumos, por serem riscos inerentes à atividade, não afetam o direito do consumidor, devendo ser acobertados pelo prazo de tolerância já previsto em contrato para esta finalidade.
+    4. Quando a empresa deixa de entregar um bem em determinada data, a falta daquele bem causa um prejuízo a quem deixou de receber, porque ficou privado do seu uso. A sua utilização é uma questão pessoal. Na realidade, o que se indeniza é a privação do uso, sendo utilizado como parâmetro para avaliar o prejuízo, em reais, o valor médio de aluguel efetivamente praticado no mercado, tornando, assim, mais acertado e justo o cálculo dos LUCROS CESSANTES. O lucro cessante, nesse caso, decorre do que legitimamente se esperava em relação ao ganho patrimonial que deixou de ser incorporado, não havendo necessidade de ser comprovado (Precedente: REsp 644.984/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/08/2005, DJ 05/09/2005, p. 402). São, portanto, devidos.
+    5. A imposição de multa por descumprimento contratual somente para o consumidor viola os preceitos contidos no inciso I e IV do artigo 51 do CDC, devendo, em razão da reciprocidade e do equilíbrio contratual, ser aplicada, nos mesmos moldes e percentuais, à construtora que descumpriu o contrato. Ressalta-se que a Turma de Uniformização dos Juizados Especiais do Distrito Federal pacificou entendimento de que é cabível a cumulação de LUCROS CESSANTES com cláusula penal moratória no mesmo processo (UNJ nº 2013.01.1.042631-8), não merecendo reforma a sentença a quo.
+    6. Recurso Conhecido e Improvido.
+    7. Custas e honorários advocatícios, em favor do patrono do recorrido, pelo recorrente, estes fixados em 10% (dez por cento) sobre o valor corrigido da condenação.
+    8. Acórdão elaborado de conformidade com o disposto nos artigos 46 da Lei 9.099/1995, 12, inciso IX, 98 e 99 do Regimento Interno das Turmas Recursais.”
+    Opostos embargos de declaração, foram improvidos.
+    No recurso extraordinário, sustenta-se violação dos artigo 170 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636/STF.
+    Ante o exposto, nos termos do art. 21, §1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de abril de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
