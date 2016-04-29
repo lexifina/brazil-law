@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “SERVIDOR PÚBLICO. Município de Barueri. Abono pecuniário (14º salário). Lei Municipal posterior que altera os critérios de sua concessão. Pretensão à manutenção do regime anterior, Inadmissibilidade. Inexistência de direito adquirido ao regime jurídico anterior. Ação julgada procedente em Primeiro Grau. Anulação, de ofício, do capítulo da sentença que conheceu de pedido correspondente a época em que a autora se sujeitava à CLT, por se tratar de matéria de competência da Justiça do Trabalho. Recurso provido para julgar improcedente a ação”. (eDOC 2, p. 26)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI, 37, XV, do texto constitucional.
+    Nas razões recursais, alega-se que a Lei Municipal 1.493/2005 não operaria efeitos sobre a remuneração dos servidores admitidos antes de sua edição. Assim, a recorrente teria o direito à percepção do 14º salário nos moldes estabelecidos pela revogada Lei Municipal 546/85, sob pena de violação aos dispositivos constitucionais invocados.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipais 546/85 e 1.493/2005) e o conjunto probatório constante dos autos, consignou que a recorrente não tem direito adquirido ao regime anterior. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O abono pecuniário (14º salário) foi instituído pela Lei Municipal de Barueri nº 546/85. Ela foi revogada pela Lei nº 1.493/2005, que, por seu turno, foi alterada pela Lei 1.516/2005.
+    De acordo com os novos diplomas legais, o abono pecuniário foi mantido, mas sua percepção passou a ser condicionada a requisitos atinentes à assiduidade e inexistência de punições administrativas.
+    Em razão das alterações legislativas, a autora, que ingressou no serviço público municipal antes delas, deixou de receber o abono relativo aos anos de 2005, 2006 e 2009. Perdeu o direito à sua percepção, naqueles anos, por excesso de faltas (fls. 70/74).
+    Ao contrário do alegado pela autora, não tinha ela direito adquirido ao regime anterior”. (eDOC 2, pp. 28 e 29)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EXTINÇÃO DE ÓRGÃO PÚBLICO. SERVIDOR PÚBLICO MUNICIPAL. REMOÇÃO. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. RE 606.199-RG. IRREDUTIBILIDADE REMUNERATÓRIA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS Nº 279 E Nº 280 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO”. (RE-AgR 637.287, Rel. Min. LUIZ FUX, Primeira Turma, DJe 16.6.2015)
+    “mbargos de declaração em recurso extraordinário com agravo. 2. Decisão monocrática. Embargos declaratórios recebidos como agravo regimental. 3. Direito Administrativo. Servidor público. Horas extras. 4. Transposição do regime celetista para estatutário. Ausência de direito adquirido às vantagens concedidas do regime anterior. 5. Alegação de redução de vencimentos. Necessidade de revolvimento do acervo fático-probatório e legislação local aplicável. Súmulas 279 e 280. 6. Ausência de argumentos suficientes a infirmar a decisão recorrida. 7. Agravo regimental a que se nega provimento.”. (ARE-ED 770.684, de minha relatoria, Segunda Turma, DJe 16.6.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de abril de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
