@@ -1,0 +1,34 @@
+DECISÃO:
+Ementa: DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROMOÇÃO NA INATIVIDADE DE ANISTIADO POLÍTICO. ILEGITIMIDADE PASSIVA.
+1. Mandado de segurança originário, visando à promoção, com base na Lei nº 10.559/2002, de anistiado político, que aponta como impetrados o Ministro da Defesa e o Comandante da Marinha.
+2. Ilegitimidade das autoridades impetradas para figurar no polo passivo do writ, tendo em vista que cabe ao Ministro da Justiça decidir os requerimentos fundados na Lei nº 10.559/2002 (art. 10).
+3. De outro lado, os autos do mandado de segurança impugnam parecer aprovado pelo Consultor Jurídico Substituto do Ministério da Defesa. Ainda que se entenda que a impetração volta-se contra este ato, o Consultor Jurídico não foi apontado como autoridade impetrada, não cabendo ao “órgão julgador fazer a substituição da autoridade indicada como coatora pelo impetrante” (RMS 24.552, Rel. Min. Gilmar Mendes). E, de toda forma, o STJ não é competente para julgar mandado de segurança em que a autoridade impetrada não está prevista no 105, I, b, da CF/1988.
+4. Recurso a que se nega seguimento.
+    1.  Trata-se de recurso ordinário em mandado de segurança contra acórdão do STJ, com a seguinte ementa (e-STJ fls. 747):
+    “MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. MILITAR REFORMADO. CAPITÃO TENENTE. PROMOÇÃO NA INATIVIDADE POR MERECIMENTO. LEI FEDERAL 10.559/2002. AUTORIDADES TIDAS COATORAS. MINISTRO DE ESTADO DA DEFESA E COMANDANTE DA MARINHA DE GUERRA DO BRASIL. ILEGITIMIDADE PASSIVA AD CAUSAM. PRECEDENTES DA TERCEIRA SEÇÃO. PROCESSO EXTINTO SEM JULGAMENTO DE MÉRITO.
+    1. O impetrante, militar, anistiado político, segundo a Lei 6.683/79 e a Emenda Constitucional 26/85, foi reformado no posto de Capitão-de-Mar-e-Guerra e busca, por meio do presente mandamus, impetrado em desfavor do Ministro de Estado da Defesa e do Comandante da Marinha, sua promoção, na inatividade, ao posto de Vice-Almirante, a partir de 05/10/88, com proventos do grau hierárquico superior.
+    2. Consoante precedente orientador da Terceira Seção, compete, exclusivamente, ao Ministro de Estado da Justiça, com o assessoramento da Comissão de Anistia, decidir a respeito dos requerimentos de anistia formulados após a entrada em vigor da Lei 10.559, de 13/11/2002, com a finalidade de reintegração, de promoção, de auferir reparação econômica, ainda que para tanto seja necessário proceder à revisão de processos de anistia concedida com base em leis anteriores.
+    3. Ilegitimidade passiva ad causam do Ministro de Estado da Defesa e do Comandante da Marinha reconhecida.
+    4. Processo extinto sem resolução de mérito.”
+    2. Os embargos de declaração opostos foram rejeitados (e-STJ fls. 765-770). A parte apresentou simultaneamente recurso ordinário (e-STJ fls. 774-807) e embargos de divergência (e-STJ fls. 814-824), tendo sido indeferido liminarmente o processamento dos últimos (e-STJ fls. 835-837).
+    3. Nas razões do recurso ordinário, a parte recorrente insiste na legitimidade do Ministro da Defesa e do Comandante da Marinha para figurarem no polo passivo da impetração. Afirma que, já sendo anistiado, não caberia apresentar novo requerimento à Comissão de Anistia. Cita precedentes do STF. Sustenta, ademais, ter direito à promoção ao posto de Vice-Almirante, com proventos de Almirante de Esquadra, a partir da promulgação da CF/1988, dado o disposto no art. 8º do ADCT, regulamentado pela Lei nº 10.559/2002, que assegurou aos anistiados políticos o direito a todas as promoções por merecimento.
+    4. Com contrarrazões (e-STJ fls. 848-863), o feito chegou ao STF. O parecer ministerial é pelo desprovimento do recurso (doc. 12).
+    5. É o relatório. Decido.
+    6. Não assiste razão ao recorrente. A Comissão de Anistia é o órgão responsável para examinar requerimentos de reparação econômica – cujo respectivo valor deve levar em conta eventual promoção a que teria direito o anistiado (art. 6º) – e elaborar parecer para subsidiar a decisão do Ministro da Justiça, nos termos do art. 3º, § 2º, da Lei nº 10.559/2002. Os arts. 10 e 12 preveem, ainda, as atribuições para, respectivamente, examinar e decidir os requerimentos fundados nesta lei. Veja-se:
+    Art. 3º. A reparação econômica de que trata o inciso II do art. 1º desta Lei, nas condições estabelecidas no caput do art. 8º, correrá à conta do Tesouro Nacional.
+    (…)
+    § 2º A reparação econômica, nas condições estabelecidas no caput do art. 8º, será concedida mediante portaria do Ministro de Estado da Justiça, após parecer favorável da Comissão de Anistia de que trata o art. 12 desta Lei.
+    (…)
+    Art. 10. Caberá ao Ministro de Estado da Justiça decidir a respeito dos requerimentos fundados nesta Lei.
+    (...)
+    Art. 12. Fica criada, no âmbito do Ministério da Justiça, a Comissão de Anistia, com a finalidade de examinar os requerimentos referidos no art. 10 desta Lei e assessorar o respectivo Ministro de Estado em suas decisões.
+    7. O Ministério da Defesa é responsável apenas pela efetivação do benefício reconhecido aos militares anistiados, conforme o subsequente art. 18, parágrafo único, que assim estabelece : “[t]ratando-se de anistias concedidas aos militares, as reintegrações e promoções, bem como as reparações econômicas, reconhecidas pela Comissão, serão efetuadas pelo Ministério da Defesa (...)” (destaque acrescentado).
+    8. Nesse sentido, cito as decisões monocráticas proferidas nos RMSs 31.742 e 30.660, Rel. Min. Luiz Fux.
+    9. Como bem destaca o parecer ministerial, a hipótese dos presentes autos não se identifica com aquela decidida pelo Supremo Tribunal Federal no RMS 26.959, Rel. para o acórdão Min. Menezes Direito, que tinha por objeto a interrupção dos descontos relativos ao imposto de renda feitos nos proventos dos anistiados.
+    10. De outro lado, observo que os autos do mandado de segurança impugnam parecer aprovado pelo Consultor Jurídico Substituto do Ministério da Defesa, que concluiu pela incompetência no Ministro da Defesa para apreciar e deferir o pedido de promoção (e-STJ fls. 34-36). Ainda que se entenda que a impetração volta-se contra este ato, o Consultor Jurídico não foi apontado como autoridade impetrada no writ, não cabendo ao “órgão julgador fazer a substituição da autoridade indicada como coatora pelo impetrante” (RMS 24.552, Rel. Min. Gilmar Mendes). E, de toda forma, o STJ não é competente para julgar writ em que a autoridade impetrada não está prevista no 105, I, b, da CF/1988.
+    11. A extinção do feito, portanto, é medida que se impunha. Deste modo, não merece reparo o acórdão recorrido.
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso ordinário.
+    Publique-se. Intimem-se.
+          Brasília, 29 de abril de 2016
+Ministro LUÍS ROBERTO BARROSO
+Relator
