@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – AGRAVO DESPROVIDO
+    1. Eis a síntese do acórdão recorrido:
+    EMENTA: REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO -APELAÇÃO CÍVEL - ADMINISTRATIVO - SERVIDOR PÚBLICO -MUNICÍPIO DE GOVERNADOR VALADARES - PROGRESSÃO HORIZONTAL-LC35/2002-REQUISITOS LEGAIS -PREENCHIMENTO-RECONHECIMENTO ADMINISTRATIVO DA BENESSE - REFLEXOS PECUNIÁRIOS_- AUSÊNCIA DE COMPROVAÇÃO DA ALEGADA-QUITAÇÃO - PRESCRIÇÃO - ACORDO COLETIVO - INTERRUPÇÃO DECORRENTE DO RECONHECIMENTO DA OBRIGAÇÃO - JUROS E CORREÇÃO MONETÁRIA - NOVO ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NA SISTEMÁTICA DO ARTIGO 543-C, DO C.P.C. - HONORÁRIOS DE ADVOGADO - READEQUAÇÃO -SENTENÇA PARCIALMENTE REFORMADA EM REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO - PREJUDICADA A ANÁLISE DO RECURSO VOLUNTÁRIO
+    - O reconhecimento administrativo das progressões pela municipalidade ré se mostra suficiente para chancelar o cumprimento, pelos servidores autores, dos requisitos legais ensejadores das benesses./
+    - Demonstradamente  excetuados  do    parcelamento  administrativo pactuado em acordo coletivo, ostentam os servidores autores de ações " judiciais o interesse necessário à busca, em Juízo, do pagamento relativo às progressões na carreira.
+    - Indistintamente reconhecida pela municipalidade, no bojo do acordo coletivo, a obrigação de quitação das verbas pretéritas inadimplidas, a decorrente interrupção do prazo da prescrição também aproveita aos litigantes na presente ação.
+    - A mera declaração de quitação da obrigação laborai, desacompanhada de prova de seu creditamento em conta ou mediante recibo de pagamento, não se mostra suficiente para comprovar o saldar argüido.
+    - Reconhecido o direito à progressão, a quitação das repercussões pecuniárias decorrentes do novel reposicionamento é medida que se impõe.
+    - "Em virtude da declaração de inconstitucionalidade parcial do art 5° da Lei 11.960/09: (a) a correção monetária das dívidas fazendárias deve observar índices que reflitam a inflação acumulada do período, a ela não se aplicando os índices de remuneração básica da caderneta de poupança; e (b) os juros moratórios serão equivalentes aos índices oficiais de remuneração básica e juros aplicáveis à caderneta de poupança, exceto quando a dívida ostentar natureza tributária, para as quais prevalecerão as regras específicas" (REsp n. 1270439/PR).
+    - Voltada a ação ao recebimento das quantias pretéritas inadimplidas, deve ser decotada da base de cálculo dos honorários sucumbenciais a inclusão de período anuo das prestações vincendas.
+    - Sentença parcialmente reformada, em reexame necessário conhecido de ofício. Prejudicada a análise do recurso voluntário.
+    No recurso extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, inciso XXXVI, 37, inciso XIV, da Constituição Federal e 17 do Ato das Disposições Constitucionais Transitórias. Sustenta a impossibilidade de cumulação de biênios com adicionais temporais incidentes sobre o mesmo período.
+    2. Da leitura da decisão impugnada mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação da Lei Complementar Municipal nº 35/2002. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: “Por ofensa a direito local não cabe recurso extraordinário” -, o acesso ao Supremo.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 2 de maio de 2016.
+Ministro MARCO AURÉLIO
+Relator
