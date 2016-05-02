@@ -1,0 +1,9 @@
+Solução de Consulta Cosit nº 38, de 19 de abril de 2016
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF
+EMENTA: FUNDO DE INVESTIMENTO. INSTITUIÇÃO INTERMEDIÁRIA. RESPONSABILIDADE TRIBUTÁRIA. PERDAS. COMPENSAÇÃO.
+Nas aplicações em fundo de investimento (FI), a responsabilidade pela retenção e recolhimento do imposto sobre a renda (IR) devido pelo cotista é, em regra, do administrador do FI, cabendo a este proceder ao controle de eventuais perdas no resgate de cotas para compensação futura, observadas as demais exigências legais e infralegais.
+Havendo intermediação de recursos nas aplicações em FI, a responsabilidade pela retenção e recolhimento do IR devido pelo cotista é da instituição intermediária que atua por conta e ordem do cliente, cabendo a ela proceder ao controle de eventuais perdas no resgate de cotas para compensação futura, observadas as demais exigências legais e infralegais.
+As perdas apuradas no resgate de cotas de FI poderão ser compensadas com rendimentos auferidos em resgates posteriores, no mesmo ou em outro FI intermediado pela mesma pessoa jurídica que atua por conta e ordem, ainda que os fundos de investimento sejam administrados por pessoas jurídicas distintas.
+Em qualquer hipótese, a compensação de perdas pela instituição intermediária que atua por conta e ordem não abrange eventuais perdas apuradas pelos mesmos clientes quando controladas por outros intermediários ou administradores.
+O prazo de que trata o § 2º do art. 15 da Instrução Normativa (IN) RFB nº 1.022, de 2010, não estabelece um limite temporal ao direito à compensação, mas sim uma garantia mínima ao investidor de que a instituição manterá os registros e controles necessários para viabilizar a compensação das perdas por ele apuradas.
+DISPOSITIVOS LEGAIS: Lei nº 9.532, de 1997, arts. 28 e 32; MP nº 2.158-35, de 2001, art. 28; Lei nº 10.426, de 2002, art. 6º; IN RFB nº 1.022, de 2010, arts. 15 e 17.
