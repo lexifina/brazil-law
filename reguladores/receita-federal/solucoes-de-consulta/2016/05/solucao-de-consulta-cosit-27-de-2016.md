@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 27, de 29 de março de 2016
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS
+EMENTA: SISCOSERV. DATAS DE INÍCIO E DE CONCLUSÃO. REGISTRO.
+Para fins do Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (Siscoserv), a data de início da prestação do serviço de transporte internacional de mercadorias importadas corresponderá à data constante do conhecimento de transporte, documento que formaliza a relação contratual estabelecida entre o prestador (transportador), residente ou domiciliado no exterior, e o tomador do serviço de transporte, residente ou domiciliado no Brasil. A data de conclusão da prestação do serviço de transporte internacional de carga a residente ou domiciliado no Brasil corresponde àquela em que ocorre a entrega da mercadoria importada ao destinatário (tomador do serviço), no local por ele acordado com o prestador do serviço de transporte.
+DISPOSITIVOS LEGAIS: Lei nº 556, de 1850 (Código Comercial), art. 575; Lei nº 6.562, de 1978, art. 5º; Lei nº 7.565, de 1986 (Código Brasileiro de Aeronáutica), art. 235, I; Lei nº 10.406, de 2002 (Código Civil), arts. 744, 749, 750 e 754; Decreto nº 6.759, de 2009, arts. 554 e 556; Portaria Conjunta RFB/SCS nº 219, de 2016.
+[arquivo anexo: SC Cosit nº 27-2016.pdf]
