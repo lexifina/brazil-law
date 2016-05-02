@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal Regional Federal da 5ª Região confirmou o entendimento do Juízo no tocante à responsabilidade do DNIT pelo pagamento dos prejuízos decorrentes de acidente de automóvel em rodovia. No extraordinário cujo trânsito busca alcançar, o recorrente alega violação ao artigo 37, § 6º, da Constituição Federal. Discorre sobre as atribuições que lhe são fixadas, afirmando não estarem entre elas a de fiscalizar a conservação das árvores que margeiam as rodovias federais, como atestam os artigos 80, 81 e 82, incisos I e IV, da Lei 10.233/2001.
+    2. Eis os fundamentos do acórdão recorrido:
+    14. Diante dos elementos constantes nos autos,
+dentre os quais as fotografias de fls. 47/54 e, notadamente, o Boletim de Ocorrência de fls. 34/35, revelam que a causa da queda de uma árvore sobre o automóvel que trafegava na BR 104, ocasionando danos patrimoniais, foi o mau estado de conservação da árvore, resultante da atuação deficiente do órgão responsável pela manutenção dos canteiros
+de jardinagem da pista, e a falta de fiscalização por parte da
+Administração para impedir as queimadas realizadas por terceiros, para, garantir a segurança daqueles que trafegam na via como, assinalado na sentença.
+    15. Saliente-se que cabe ao DNIT estabelecer padrões, normas e especificações técnicas para os programas de segurança operacional, sinalização, manutenção ou conservação, restauração ou reposição de vias, terminais e instalações, pelo que a sua 'omissão abre margem à responsabilização civil' pelos danos causados a terceiros. No caso vertente, reprise-se, a má conservação das árvores do canteiro da BR 104, suficiente para causar transtornos e riscos aos motoristas, bem como a ausência de fiscalização das queimadas realizadas por terceiros durante o dia, certamente configuram omissão da Administração quanto à conservação da estrada.
+    16. Por outro lado, a responsabilidade civil somente poderia ser elidida pelo caso fortuito, força maior ou pela culpa exclusiva da vítima, ou atenuada pela culpa parcial do lesado no evento danoso, hipóteses que não se acham caracterizadas no caso em apreço.
+    17. Conclui-se, portanto, que o Estado (DNIT) gerou um dano específico, produziu um evento lesivo, o que reclama a aplicação da responsabilidade objetiva, ou seja, a obrigação de indenizar, eis que se identifica o nexo de causalidade entre o comportamento danoso e o dano propriamente dito.
+    18. Vislumbro, portanto, a ocorrência de todos os pressupostos necessários para imputar ao DNIT a responsabilidade civil objetiva pela reparação dos danos causados à Autora pela ação omissiva de seus agentes (falta de manutenção do trecho em que ocorreu o acidente).
+    19. Estando presentes os pressupostos necessários à configuração da responsabilidade civil objetiva, e, por via de consequência, o dever de indenizar, bem como inexistindo recurso da parte autora quanto ao indeferimento dos danos morais pleiteados, limito-me a examinar o quantum da indenização arbitrada para recomposição dos danos materiais.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 02 de maio de 2016.
+Ministro MARCO AURÉLIO
+Relator
