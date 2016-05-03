@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios. Veja-se o seguinte trecho de ementa:
+    “DIREITO PROCESSUAL CIVIL E DIREITO CONSTITUCIONAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. BENEFÍCIO ALIMENTAÇÃO. PROSSEGUIMENTO DO FEITO. AGRAVO REGIMENTAL. PRETENSÃO DE SOBRESTAMENTO DA EXECUÇÃO. INEXISTÊNCIA DE RE CURSO EXTREMO PENDENTE DE JULGAMENTO. EXECUÇÃO EXCEPCIONALMENTE JÁ SOBRESTADA PELA OPOSIÇÃO DOS EMBARGOS. AUSÊNCIA DE INTERESSE RECURSAL. MANDADO DE SEGURANÇA COLETIVO. SINDICATO. SUBSTITUIÇÃO PROCESSUAL. COISA JULGADA. ADMISSIBILIDADE DE AFILIADOS EM QUALQUER FASE DO PROCESSO (CDC, 103, III). PRINCÍPIO DO JUIZ NATURAL. OBSERVÂNCIA. MULTA DO ART. 557, § 2º, DO CPC. NÃO INCIDÊNCIA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXI, XXXVI e LIV, da Constituição. Sustenta que, “sob pena de violação à coisa julgada e ao princípio do juiz natural, não se pode interpretar a extensão subjetiva da coisa julgada de modo a albergar até mesmo aqueles que vieram a se filiar ao sindicato em momento posterior à prolação da decisão definitiva”.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) incidem, no caso, as Súmulas 282 e 356/STF; e (ii) existência de ofensa reflexa à Constituição.
+    O Plenário do Supremo Tribunal Federa, ao examinar o RE 612.043-RG, Rel. Min. Marco Aurélio, reconheceu a existência de repercussão da presente controvérsia (momento de filiação do substituído processual para execução de sentença de ações coletivas ajuizadas por associação). Veja-se a ementa do mencionado paradigma:
+    “AÇÃO COLETIVA SUBSTITUIÇÃO PROCESSUAL ARTIGO 5º, INCISO XXI, DA CARTA DE 1988 ALCANCE TEMPORAL DATA DA FILIAÇÃO. Possui repercussão geral a controvérsia acerca do momento oportuno de exigir-se a comprovação de filiação do substituído processual, para fins de execução de sentença proferida em ação coletiva ajuizada por associação se em data anterior ou até a formalização do processo”.
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 03 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
