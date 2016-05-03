@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C COMPENSAÇÃO OU RESTITUIÇÃO DE QUANTIAS PAGAS. REPERCUSSÃO GERAL. SOBRESTAMENTO DO FEITO AFASTADO. DECISÃO MONOCRÁTICA. APLICAÇÃO DO ART. 557, CAPUT, DO CPC. OFENSA DO CONTRADITÓRIO E DA AMPLA DEFESA. INOCORRÊNCIA. REEXAME DA MATÉRIA. INADMISSIBILIDADE.
+    1. É inadmissível o sobrestamento do feito neste momento processual, com base no artigo 543-B do Código de Processo Civil, máxime pelo fato de que somente é aplicável em caso de eventual interposição de Recurso Extraordinário pela parte interessada e quando da análise de seu juízo de admissibilidade perante o Tribunal.
+    2. Em se tratando de matéria a cujo respeito é pacífico o entendimento no respectivo Tribunal e/ou Cortes Superiores (STF e STJ) veiculado em súmula ou jurisprudência e sendo a decisão recorrida manifestamente a ele confrontante, o Relator está autorizado com lastro no art. 557, caput, do CPC a negar seguimento ao recurso, faculdade que não implica em ofensa ao devido processo legal e/ou supressão de instância.
+    3. Não infirmados pelos agravantes os requisitos que embasaram a decisão recorrida, desmerece modificação o ato monocrático verberado.
+    AGRAVO INTERNO CONHECIDO E DESPROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5°, II; 146, III, a; 150, I; 175, parágrafo único, III e 195, I, b, todos da Carta. Sustenta a ilegalidade e a inconstitucionalidade no repasse do PIS e da COFINS nas faturas mensais de energia elétrica enviadas aos consumidores, visto que inexiste norma legal balizadora permitindo que essas contribuições sejam destacadas nas faturas de energia elétrica e repassadas para os consumidores. Aduz que ao repassar a cobrança de tais tributos aos consumidores, a recorrida está alterando o sujeito passivo tributário. Defende que tais contribuições incidem sobre o faturamento bruto da empresa e não devem ser repassadas aos consumidores/destinatários finais da relação jurídica.
+    O Plenário do Supremo Tribunal Federal, nos autos do ARE 638.550, de relatoria do Ministro Gilmar Mendes, discute, à luz dos arts. 5º, II, e 146, III, a, da Constituição Federal, a necessidade, ou não, de Lei Complementar para definir a possibilidade de repasse, em faturas telefônicas, do PIS e da COFINS aos usuários dos serviços (Tema de nº 415).
+    O caso em análise tem discussão semelhante àquela presente na repercussão geral indicada, razão pela qual seu julgamento é prejudicial ao presente caso. Assim sendo, os presentes autos devem aguardar o julgamento da matéria no ARE 638.550.
+    Diante do exposto, com base no art. 21, I, do RI/STF, determino o sobrestamento dos presente autos, devendo permanecer em secretaria até que seja concluído o julgamento da matéria, objeto de análise na sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 03 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
