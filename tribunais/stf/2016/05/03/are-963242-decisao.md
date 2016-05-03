@@ -1,0 +1,36 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que está assim ementado:
+    “RECURSOS INOMINADOS. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO DE OBRA. MULTA DE MORA NO VALOR DE 10% SOBRE O VALOR ATUALIZADO DO PREÇO DE AQUISIÇÃO DO LOTE. PREVISÃO CONTRATUAL. ALEGAÇÃO DAS DEMANDADAS DE CULPA DE TERCEIRO, CONSISTENTE EM ATRASO DA ADMINISTRAÇÃO PÚBLICA NA CONCESSÃO DO HABITE-SE, NÃO COMPROVADA. PARTE NÃO SE DESINCUMBIU DE SEU ÔNUS DE PROVA A TEOR DO QUANTO DETERMINA O ARTIGO 333, II, CPC. DANOS MORAIS CONFIGURADOS. ‘QUANTUM’ ARBITRADO EM R$ 4.000,00 (QUATRO MIL REAIS). SENTENÇA REFORMADA. RECURSO DAS EMPRESAS CONHECIDO E IMPROVIDO. RECURSO DO AUTOR CONHECIDO E PROVIDO.”
+    A decisão de que se recorre negou trânsito ao apelo extremo em questão, no qual a parte recorrente sustenta que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    O exame dos presentes autos evidencia que a pretensão recursal não se revela acolhível.
+    É que o Supremo Tribunal Federal tem enfatizado, a propósito da questão pertinente à transgressão constitucional indireta, que, em regra, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, hipóteses em que não se revelará admissível o recurso extraordinário (AI 165.054/SP, Rel. Min. CELSO DE MELLO – AI 174.473/MG, Rel. Min. CELSO DE MELLO – AI 182.811/SP, Rel. Min. CELSO DE MELLO – AI 188.762-AgR/PR, Rel. Min. SYDNEY SANCHES – RE 236.333/DF, Red. p/ o acórdão Min. NELSON JOBIM, v.g.).
+    É por essa razão que a situação de ofensa indireta ao texto constitucional, quando ocorrente, não bastará, só por si, para viabilizar o acesso à via recursal extraordinária.
+    Nem se alegue, neste ponto, que a suposta transgressão ao ordenamento legal – derivada da interpretação que lhe deu o órgão judiciário de origem – teria importado em desrespeito ao princípio constitucional da legalidade.
+    Não se pode desconsiderar, quanto a tal postulado, a orientação firmada pelo Supremo Tribunal Federal, cuja jurisprudência vem proclamando, a propósito desse tema, que o procedimento hermenêutico do Tribunal inferior – quando examina o quadro normativo positivado pelo Estado e dele extrai a interpretação dos diversos diplomas legais que o compõem, para, em razão da inteligência e do sentido exegético que lhes der, obter os elementos necessários à exata composição da lide – não transgride, diretamente, o princípio da legalidade (AI 161.396-AgR/SP, Rel. Min. CELSO DE MELLO – AI 192.995-AgR/PE, Rel. Min. CARLOS VELLOSO – AI 307.711/PA, Rel. Min. CELSO DE MELLO).
+    É por essa razão – ausência de conflito imediato com o texto da Constituição – que a jurisprudência desta Corte vem enfatizando que “A boa ou má interpretação de norma infraconstitucional não enseja o recurso extraordinário, sob color de ofensa ao princípio da legalidade (CF, art. 5º, II)” (RTJ 144/962, Rel. Min. CARLOS VELLOSO – grifei):
+    “E é pacífica a jurisprudência do S.T.F., no sentido de não admitir, em R.E., alegação de ofensa indireta à Constituição Federal, por má interpretação de normas infraconstitucionais, como as trabalhistas e processuais (…).”
+    (AI 153.310-AgR/RS, Rel. Min. SYDNEY SANCHES – grifei)
+    “A alegação de ofensa ao princípio da legalidade, inscrito no art. 5º, II, da Constituição da República, não autoriza, só por si, o acesso à via recursal extraordinária, pelo fato de tal alegação tornar indispensável, para efeito de sua constatação, o exame prévio do ordenamento positivo de caráter infraconstitucional, dando ensejo, em tal situação, à possibilidade de reconhecimento de hipótese de mera transgressão indireta ao texto da Carta Política. Precedentes.”
+    (RTJ 189/336-337, Rel. Min. CELSO DE MELLO)
+    Não foi por outro motivo que o eminente Ministro MOREIRA ALVES, Relator, ao apreciar o tema pertinente ao postulado da legalidade, em conexão com o emprego do recurso extraordinário, assim se pronunciou:
+    “A alegação de ofensa ao artigo 5º, II, da Constituição, por implicar o exame prévio da legislação infraconstitucional, é alegação de infringência indireta ou reflexa à Carta Magna, não dando margem, assim, ao cabimento do recurso extraordinário.”
+    (AI 339.607/MG, Rel. Min. MOREIRA ALVES – grifei)
+    Cumpre acentuar, por oportuno, que essa orientação acha-se presentemente sumulada por esta Corte, como resulta claro da Súmula 636 do Supremo Tribunal Federal, cuja formulação possui o seguinte conteúdo:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.” (grifei)
+    Cabe observar, ainda, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula contratual, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmulas 279/STF e 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o órgão judiciário de origem, no julgamento dos recursos inominados, sustentou as suas conclusões nos aspectos a seguir destacados:
+    “Compulsando-se os autos, vejo que a sentença merece reforma.
+    Com efeito, não há prova nos autos quanto as alegações levantadas das demandadas, capazes de infirmar as alegações da parte autora, ônus que lhe cabia a teor do quanto determina o artigo 333, II, CPC.
+    O argumento de que a culpa seria da Administração Pública não está calcada em nenhum documento ou outro meio de prova capaz de embasar a tese.
+    …...................................................................................................
+    Restou patente nos autos que houve atraso na entrega do imóvel e que a demora ultrapassou a cláusula de tolerância de 180 dias.
+    A cláusula 20 do contrato entabulado entre as partes rege que em caso de descumprimento de qualquer das cláusulas do contrato e não havendo outra mais específica será aplicada multa no percentual de 10% do valor atualizado do preço de aquisição do lote.
+    Acredito na força vinculativa dos contratos de modo que deve este ser cumprido como encartado.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte agravante revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 03 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
