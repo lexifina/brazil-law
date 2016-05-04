@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO, NA FORMA DO ART. 557 CAPUT DO CPC, EIS QUE MANIFESTAMENTE IMPROCEDENTE. 4º DO CPC. REJEIÇÃO DA PRELIMINAR DE ILEGITIMIDADE PASSIVA E DE CERCEAMENTO DE DEFESA. RELAÇÃO DE CONSUMO. RESPONSABILIDADE OBJETIVA DO RÉU. TEORIA DO RISCO DO EMPREENDIMENTO. UMA VEZ DEMONSTRADO QUE O RÉU APENAS OFERECIA O CURSO DE EDUCAÇÃO FÍSICA NO GRAU DE LICENCIATURA PLENA À ÉPOCA DA MATRÍCULA DO AUTOR, DEVERIA INFORMAR DE FORMA CLARA E ADEQUADA QUANTO AOS LIMITES DA ATUAÇÃO PROFISSIONAL DA CARREIRA NA ÁREA DA EDUCAÇÃO BÁSICA. A ATUAÇÃO DO PROFISSIONAL DE EDUCAÇÃO FÍSICA EM CLUBES E ACADEMIAS DEPENDE DA CONCLUSÃO DO CURSO NO GRAU DE BACHARELADO. FALHA NO DEVER DE INFORMAÇÃO. EXPECTATIVA FRUSTRADA DO AUTOR. DEVER DO RÉU DE OFERECER GRATUITAMENTE O CURSO DE BACHARELADO. OCORRÊNCIA DE DANOS MORAIS, QUE FORAM ARBITRADOS EM R$ 10.000,00, EM CONFORMIDADE COM OS PARÂMETROS ADOTADOS POR ESTA CORTE, OBEDECENDO AO PRINCÍPIO DA RAZOABILIDADE E AO CRITÉRIO PUNITIVO-PEDAGÓGICO. NÃO DEMONSTRADO O DESACERTO DA DECISÃO IMPUGNADA, NÃO HÁ COMO PROSPERAR A IRRESIGNAÇÃO, TANTO MAIS QUANDO NADA DE NOVO É TRAZIDO QUE JUSTIFIQUE SUA REFORMA. DECISÃO QUE SE MANTÉM. DESPROVIMENTO DO RECURSO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II e XIII; 22, XVI; e 93, IX, todos da Constituição Federal.
+    O recurso extraordinário é inadmissível, tendo em vista a solução da controvérsia demanda a análise da legislação infraconstitucional aplicada ao caso e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em sede de recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 04 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
