@@ -1,0 +1,11 @@
+Art. 5º-A. Caberá à Aneel definir em ato específico o calendário de recolhimento, as multas incidentes, as punições cabíveis para os casos de inadimplência e a forma de pagamento do valor a que se refere a alínea "b" do inciso I do art. 5º, no prazo máximo de 60 (sessenta) dias a contar da publicação desta Lei.
+§ 1º O repasse anual dos recursos ao Procel e sua utilização estão condicionados à:
+I - apresentação, pelo Grupo Coordenador de Conservação de Energia Elétrica (GCCE), de plano de aplicação dos recursos referidos na alínea "b" do inciso I do art. 5º desta Lei;
+II - aprovação do plano de aplicação de recursos pelo Comitê Gestor de Eficiência Energética referido no art. 6º-A desta Lei, no prazo máximo de 60 (sessenta) dias de sua apresentação pelo GCCE;
+III - apresentação, pelo GCCE, da prestação de contas dos recursos utilizados no período anterior;
+IV - aprovação da prestação de contas de que trata o inciso III deste parágrafo pelo Comitê Gestor de Eficiência Energética referido no art. 6º-A desta Lei, no prazo máximo de 60 (sessenta) dias de sua apresentação pelo GCCE.
+§ 2º O plano de investimentos e a prestação de contas previstos no § 1º deverão ser apresentados, anualmente, em audiência pública a ser realizada pela Aneel, de forma a garantir a transparência do processo e a participação da sociedade.
+§ 3º O GCCE deve apresentar plano de aplicação de recursos em até 90 (noventa) dias da publicação desta Lei.
+§ 4º Nos anos subsequentes, o plano de aplicação de recursos deverá ser apresentado em até 60 (sessenta) dias a contar da aprovação da prestação de contas do período anterior.
+§ 5º Decorridos os prazos constantes dos §§ 3º e 4º deste artigo, não havendo o GCCE apresentado o referido plano, fica o recurso disponível à aplicação prevista na alínea "a" do inciso I do art. 5º desta Lei.
+§ 6º Os recursos previstos na alínea "b" do inciso I do art. 5º deverão ser depositados pelas concessionárias e permissionárias de serviços públicos de distribuição de energia elétrica na conta corrente denominada Programa Nacional de Conservação de Energia Elétrica (Procel), administrada pelas Centrais Elétricas Brasileiras S.A. (Eletrobras), e fiscalizada pela Aneel.
