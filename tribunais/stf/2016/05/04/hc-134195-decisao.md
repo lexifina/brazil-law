@@ -1,0 +1,26 @@
+HABEAS CORPUS. ROUBO E RECEPTAÇÃO. PRISÃO PREVENTIVA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE, TERATOLOGIA OU ABUSO DE PODER. ENUNCIADO N. 691 DA SÚMULA DO STF. NEGADO SEGUIMENTO.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado de decisão de ministro do Superior Tribunal de Justiça cujo teor reproduzo:
+    Trata-se de habeas corpus com pedido liminar impetrado em favor de Raymundo Maciel Viana Neto contra acórdão prolatado pela Sétima Câmara Criminal do Tribunal de Justiça de São Paulo, que denegou a ordem no HC n. 2165048-55.2015.8.26.0000 (fl. 19):
+    Habeas Corpus . Recurso em liberdade. Inadmissibilidade. Presença dos requisitos contidos no artigo 312, do Código de Processo Penal. Gravidade do delito, preservação da ordem pública e da aplicação da lei penal – Denegada a ordem.
+    Narra-se que o paciente se encontra preso em virtude da sentença prolatada pelo Juiz de Direito da 3ª Vara Criminal da comarca de Bebedouro, nos autos da Ação Penal n. 0009469-63.2014.8.26.0072, da qual a defesa apelou. O paciente foi condenado pelo crime de receptação (art. 180, caput, do CP) à pena de 1 ano de reclusão e 10 dias-multa, e pelo delito de roubo (art. 157, § 2º, I, II, e V, do CP) à pena de 3 anos, 1 mês e 15 dias de reclusão e 9 dias-multa, no regime inicial fechado, negado o direito de recorrer em liberdade (fls. 204/205).
+    Daí o presente mandamus , no qual se sustenta, em suma, que o paciente estaria sendo submetido a constrangimento ilegal, pois, no caso em tela, não obstante a condenação em 1º grau, como ainda não houve o trânsito em julgado da sentença penal, o juiz, sem prejuízo do conhecimento da apelação interposta, resolveu, por bem, manter a prisão preventiva. E mais! Por mais paradoxal que possa parecer, em afronta ao quanto disposto no parágrafo único do artigo 387 do Código de Processo Penal, em sentença prolatada, não declarou qualquer fundamentação idônea para a manutenção do paciente no cárcere (fl. 2). Requer-se a concessão de liberdade provisória, com a imediata expedição de alvará de soltura em favor do paciente.
+    É o relatório.
+    A concessão de liminar em habeas corpus é medida de caráter excepcional, cabível apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, o que não ocorre no presente caso, no qual, nesse exame preliminar, entendo não estar presente o fumus boni iuris.
+    Isso porque, o Magistrado, ao prolatar a sentença condenatória, entendeu que os réus deverão ser mantidos em prisão preventiva, não podendo recorrer em liberdade, vez que os requisitos cautelares já demonstrados nas decisões anteriores restaram confirmados com o advento desta sentença penal condenatória (fl. 209). E, da decisão que converteu a prisão em flagrante do paciente em preventiva, para garantia da ordem pública, verifica-se, neste juízo de cognição sumária, a presença de fundamentação baseada em fatos concretos, em razão da periculosidade demonstrada pelo agente no cometimento do delito, porquanto os acusados teriam praticado grave crime contra vítima, rendida e ameaçada, inclusive sendo agredida, tudo a evidenciar extrema gravidade e periculosidade dos investigados (fl. 217).
+    O Tribunal a quo, ao manter a custódia cautelar, asseverou que, não se pode desconsiderar que a soltura do paciente colocaria em risco, outrossim, a ordem pública, nos termos do art. 312, caput, do Código de Processo Penal, dada sua inegável periculosidade, diagnosticada, in concreto, a partir dos gravíssimos fatos que lhe são imputados e, notadamente, das peculiares e circunstâncias que os permeiam (fl. 234 – grifo nosso).
+    Assim, nesta análise preliminar, as instâncias ordinárias teriam trazido justificativa idônea para a imposição e manutenção da segregação cautelar.
+    Em face do exposto, indefiro o pedido de liminar.
+    Apensem-se os presentes autos aos do HC n. 338.609/SP, que já tem manifestação do Ministério Público Federal, e venham conclusos para análise do mérito.
+    O impetrante sustenta, em síntese a ilegalidade na prisão preventiva.
+    É o relatório, passo a fundamentar e decidir.
+    O Supremo Tribunal Federal segue, de forma pacífica, a orientação de que não lhe cabe julgar habeas corpus de decisão liminar proferida em idêntico remédio constitucional em curso nos tribunais superiores, conforme o enunciado n. 691 da Súmula desta Corte, verbis: [n]ão compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    In casu, não ressai teratologia ou flagrante ilegalidade da decisão que negou o pedido de liminar na instância a quo.
+    Ademais, qualquer antecipação desta Corte sobre o mérito do pedido de habeas corpus implica supressão de instância, devendo aguardar-se o fim da tramitação do pedido no STJ para, se for o caso, interpor-se o recurso cabível.
+    Ex positis, nego seguimento ao pedido de habeas corpus, por ser manifestamente incabível, nos termos dos artigos 38 da Lei 8.038/1990 e 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Julgo prejudicado o exame da medida cautelar.
+    Dê-se ciência ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 4 de maio de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
