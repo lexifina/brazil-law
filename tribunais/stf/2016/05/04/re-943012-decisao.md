@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, que reconheceu a obrigatoriedade de observância dos critérios previstos na Lei federal nº 8.880/94 para conversão em URV dos vencimentos e proventos dos servidores estaduais.
+    O recurso extraordinário busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV; 37, XIV; 93, IX; 97, e 102, § 2º, todos da Constituição.
+    O recurso extraordinário não deve ser provido. Em primeiro lugar, a alegada violação aos arts. 97 e 102, § 2º, da Carta não foi apreciada pelo acórdão impugnado. Nesse ponto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Quanto às demais alegações, a decisão proferida pelo Tribunal de origem está alinhada à jurisprudência no Supremo Tribunal Federal. A questão constitucional debatida nos autos teve sua repercussão geral reconhecida no RE 561.836-RG, julgado sob a relatoria do Ministro Luiz Fux. Colhem-se do voto do relator as seguintes premissas:
+    A) compete à União legislar sobre direito monetário, de modo que a legislação estadual não pode dispor sobre a matéria de maneira diversa da prevista na Lei federal nº 8.880/1994 (AI 587.741-AgR, Rel. Min Gilmar Mendes; RE 529.559, Rel. Min. Ricardo Lewandowski);
+    B) o direito ao percentual de 11,98%, ou do índice decorrente do processo de liquidação, na remuneração do servidor, resultante da equivocada conversão do Cruzeiro Real em URV, não se trata de reajuste, mas de mera recomposição cujo reconhecimento não depende de lei (AI 638.226-AgR, Rel. Min. Ricardo Lewandowski);
+    C) “a incorporação do índice de 11,98%, ou de um índice obtido em processo de liquidação, sem qualquer abatimento ou compensação em decorrência de aumentos salariais supervenientes a título de reajuste ou revisão, é medida legítima e necessária, sob pena de a supressão originar uma autêntica ofensa ao princípio da irredutibilidade da remuneração dos servidores públicos”;
+    D) “O índice de 11,98% é devido em decorrência de um equívoco na conversão da moeda, o que não impede o seu acúmulo com índices de aumento posteriormente concedidos aos servidores para assegurar o poder de compra da moeda.” (Negritos acrescentados)
+    E) “Por sua vez, a incorporação do índice de 11,98%, ou do eventual índice obtido por processo de liquidação, não poderá subsistir quando a remuneração do servidor tiver sofrido uma reestruturação financeira que inviabilize a sua perpetuação.” (Negrito acrescentado)
+    Por fim, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, para o cabimento do recurso interposto com base na alínea b do inciso III do art. 102 da Constituição Federal, é imprescindível, para sua admissão, a existência de declaração formal de inconstitucionalidade de tratado ou lei federal pelo plenário ou órgão especial do Tribunal, o que não ocorreu no presente caso. Nessa linha, vejam-se o ARE 701.883 AgR, Rel. Min. Celso de Mello; e o AI 821.963, Rel.ª Min.ª Cármen Lúcia.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 04 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
