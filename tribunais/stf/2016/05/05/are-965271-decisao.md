@@ -1,0 +1,32 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face do acórdão de Tribunal Regional Federal da 3ª Região, assim ementado:
+    “EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS – LEI 11.9941/09 – AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE DECLAROU A DISPENSA POR PARTE DOS EXECUTADOS DO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS – AUSÊNCIA DE PREVISÃO LEGAL PARA A EXCLUSÃO DO VALOR DOS HONORÁRIOS ADVOCATÍCIOS – RECURSO PROVDO.
+    1. A isenção de 100% sobre o valor do encargo legal prevista no artigo 1º, §3º, inciso I, da Lei nº 11.941/2009, não alcança a verba honorária devida nas execuções fiscais previdenciárias.
+    2. Tampouco cuida a hipótese dos autos da ação judicial a que alude o § 1º do art. 6º da mesma lei (ações em que se requer o restabelecimento de sua opção ou sua reinclusão em outros parcelamentos), única hipótese de exclusão dos honorários.
+    3. Ainda, a Portaria Conjunta PGFN/RFB nº 06/2009, editada para regulamentar o pagamento e o parcelamento de débitos de que tratam a Lei nº 11.941/2009, não traz qualquer previsão acerca da exclusão, no débito consolidado, dos honorários devidos nas execuções fiscais de débitos previdenciários.
+    4. Agravo de instrumento provido.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 5º, caput, e 150, II, da Constituição Federal.
+    Nas razões recursais, alega-se, em suma, que o acórdão recorrido viola frontalmente o princípio da isonomia tributária.
+    O TRF3 inadmitiu o recurso por entender que se trata a controvérsia de ofensa indireta à Constituição Federal.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem:
+    “A controvérsia cinge-se ao alcance da redução de 100% do sobre o valor do ‘encargo legal’.
+    A execução fiscal originária foi ajuizada no ano de 1998 objetivando a cobrança de CDA’s que veiculam dívidas previdenciárias anteriores à vigência da Lei nº 11..457/2007, logo não acrescidas do encardo legal substitutivo da condenação do devedor em honorários previsto no Decreto-Lei nº 1.025/69.
+    Assim, a isenção de 100% sobre o valor do encargo legal prevista no artigo 1º, §3º, inciso I, da Lei 11.941/2009, não alcança a verba honorária devida nas execuções fiscais previdenciárias.
+    Tampouco cuida a hipótese dos autos da ação judicial a que alude o §1º do art. 6º da mesma lei (ações em que se requer o restabelecimento de sua opção ou sua reinclusão em outros parcelamentos), única hipótese de exclusão dos honorários.
+    Por fim, a Portaria Conjunta PGFN/RFB nº 06/2009, editada para regulamentar o pagamento e o parcelamento de débitos de que tratam a Lei nº 11.941/2009, não traz qualquer previsão acerca da exclusão, no débito consolidado, dos honorários devidos nas execuções fiscais de débitos previdenciários.
+    Assim, não há qualquer razão legal para se afastar a cobrança de honorários sobre o total da dívida paga com os benefícios previstos na Lei nº 11.941/2009.”
+    Assim, constata-se que eventual divergência ao entendimento adotado pelo Tribunal de origem, sobretudo em relação ao alcance da isenção sobre o encargo legal previsto na Lei 11.941/2009, demandaria o reexame de fatos e provas e o da própria legislação infraconstitucional, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida no verbete da Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. PARCELAMENTO DE DÉBITO. LEI N. 11.941/2009. PREQUESTIONAMENTO NÃO DEMONSTRADO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(RE 882799 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 12.08.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. DEPÓSITO JUDICIAL. CONVERSÃO EM RENDA. JUROS REMUNERATÓRIOS. RESGATE. LEI 11.941/2009. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de legislação infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. Precedentes. II – Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Precedentes. III – Agravo regimental a que se nega provimento.” (RE 790778 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 12.06.2014)
+    Ademais, quanto à alegação de que houve violação ao princípio da isonomia tributária, a jurisprudência do STF é pacífica no sentido de não se reconhecer uma situação mais favorável ao contribuinte, que não tenha sido prevista na legislação pertinente, sob pena de avocar para si a condição de legislador positivo.
+    Nesse sentido, em casos análogos ao dos autos, destaco os seguintes julgados: RE 924.333, Rel. Min. Edson Fachin, DJe 13.11.2015; ARE 785.600, Rel. Min. Dias Toffoli, DJe 03.02.2015; RE 808.402, Rel. Min. Gilmar Mendes, DJe 20.05.2014; RE 713.133, Rel. Min. Ricardo Lewandowski, DJe 15.05.2014; e RE 709.315-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 14.12.2012, este último com a seguinte ementa:
+    "RECURSO EXTRAORDINÁRIO - TRIBUTÁRIO - PARCELAMENTO DE DÉBITOS - LEI Nº 10.522/2002 - IMPOSSIBILIDADE DE EXTENSÃO DE TAL BENEFÍCIO A EMPRESA OPTANTE PELO SIMPLES NACIONAL - ALEGADA OFENSA AO PRINCÍPIO DA ISONOMIA - INOCORRÊNCIA - ATUAÇÃO DO JUDICIÁRIO COMO LEGISLADOR POSITIVO - INADMISSIBILIDADE - RECURSO IMPROVIDO."
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 05 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
