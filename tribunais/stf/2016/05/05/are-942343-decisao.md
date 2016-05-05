@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (eDOC 1, p. 92):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADO NA VIGÊNCIA DA LEI N. 8.112/90. PAGAMENTO CONJUNTO DE QUINTOS/DÉCIMOS INCORPORADOS COM A VANTAGEM DO ARTIGO 192, II. POSSIBILIDADE. PRECEDENTES DESTE TRIBUNAL E DO SUPERIOR TRIBUNAL DE JUSTIÇA. JUROS DE MORA. CORREÇÃO MONETÁRIA. CUSTAS. HONORÁRIOS DE ADVOGADO.
+    1. A previsão estatuída no artigo 193, § 2º, da Lei n. 8.112/90 vedou a percepção conjunta da vantagem estabelecida pelo referido artigo com a do artigo 62, § 2º, ou com a do artigo 192, inciso II, da mesma lei, não alcançando, contudo, o direito de o servidor acumular as vantagens do artigo 62, § 2º, da Lei n. 8.112/90 – quintos/décimos – com a do artigo 192,II.
+    2. Entendimento consolidado pela Súmula n. 40 da Advocacia Geral da União, editada em 16 de setembro de 2008, nos seguintes termos: “Os servidores públicos federais aposentados na vigência do Regime Jurídico Único, têm direito à percepção simultânea do benefício denominado “quintos” previsto no art. 62, § 2º, da Lei n. 8.112/90, com o regime estabelecido no art. 192 do mesmo diploma”.
+    3. Assim, ocorrendo a inativação sob a égide da lei n. 8.112/90, como é o caso dos autos, tem direito a autora ao recebimento dos quintos/décimos incorporados com a vantagem do artigo 192, inciso II, da referida Lei n. 8.112/90. Precedentes deste Tribunal e do STJ.
+    4. Na correção monetária devem ser observados os índices decorrentes da aplicação da Lei 6.899/81, como enunciados no Manual de Orientação de Procedimentos para Cálculos na Justiça Federal, incidindo desde o momento em que cada prestação se tornou devida, conforme jurisprudência desta Corte e do STJ.
+    5. Os juros de mora devem ser fixados em 1% ao mês, uma vez que a presente ação foi proposta antes da vigência do artigo 4º da Medida Provisória 2.180-35, de 24 de agosto de 2001, que acrescentou a letra “F”, ao art. 1º da Lei nº. 9.494/97, fluindo, no caso, a partir da citação.
+    6. Os honorários advocatícios são fixados em 5% sobre o valor da condenação por se tratar, na espécie, de causa singela, que versa sobre matéria repetida e eminentemente de direito, não exigindo maior esforço e tempo do profissional.
+    7. Apelação provida.”
+    Os embargos de declaração foram desprovidos (eDOC 2, p. 15).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, XXXV, LIV e LV; 37, II, X e XIII; 61, § 1º, II, ‘a’; e 93, IX, Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a impossibilidade de cumulação de quintos e décimos incorporados aos proventos de servidor. Aduz com a inexistência de direito adquirido a regime jurídico.
+    A Vice-Presidência do TRF da 1ª Região inadmitiu o recurso, em decorrência da aplicação da Súmula 282 do STF e da impossibilidade de análise de legislação infraconstitucional na via extraordinária.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, constata-se que as questões referentes à violação dos dispositivos constitucionais apontados, não foram objeto de debate no acórdão recorrido. Falta-lhes, pois, o indispensável prequestionamento, consoante o previsto nas Súmulas 282 e 356 do STF.
+    Verifica-se, ainda, que no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa ao princípio do devido processo legal, do contraditório ou da ampla defesa é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Ademais, ao julgar o AI-QO-RG 791.292, da relatoria do Ministro Gilmar Mendes, DJe de 13.08.2010, o Plenário desta Corte assentou a repercussão geral do tema 339, referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Por fim, eventual divergência em relação ao entendimento adotado pelo juízo a quo, referente à cumulação deferida, demandaria o reexame da matéria infraconstitucional aplicável à espécie (Lei nº 8.112/1190), o que inviabiliza o processamento do apelo extremo em sede extraordinária. Nesse sentido, confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO: INCORPORAÇÃO DE QUINTOS E DÉCIMOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 725.112-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 26.06.2009).
+    Ante o exposto, conheço do agravo para negar-lhe seguimento, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 5 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
