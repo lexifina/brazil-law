@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC1, p. 161):
+    “MANDADO DE SEGURANÇA – EX-POLICIAL MILITAR REFORMADO – Impetração voltada contra ato que o excluiu da folha de pagamento da Corporação em consequência da perda do seu posto e patente por indignidade – Segurança concedida corretamente em primeiro grau – Decisão proferida pelo Tribunal de Justiça Militar que decretou apenas a perda da graduação, explicitando a subsistência do direito à percepção dos proventos da inatividade, regularmente alcançada – Hipótese, ademais, em que os atos delituosos e a consequente condenação criminal ocorreram em data posterior à consumação do ‘ato jurídico perfeito’, sendo certo que os proventos adquiridos não são decorrência imediata da patente, mas atendimento dos requisitos legais para a aposentação – Arts. 98, I a VIII, 99 e 102 do Código Penal Militar, aplicáveis ‘in casu’, que não determinam expressamente a cessação do benefício previdenciário, sendo vedado ao intérprete impor essa grave sanção sem a previsão pertinente – Regramento posterior invocado no apelo (MP Nº 2.215/2001), que, de resto, não pode ser aplicado retroativamente – Reexame necessário e apelo da Fazenda Estadual não providos. “
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 42, §1º; 125, § 4º;142, § 3º, da Constituição Federal.
+     Nas razões recursais, sustenta-se, em suma, que “não existe dispositivo legal permitindo que a Administração estadual continue pagando proventos em favor de policial militar excluído da Corporação, razão pela qual, não há falar em direito adquirido aos proventos de inatividade para o recorrido.” (eDOC 1, p. 182)
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso, em virtude de inexistir ofensa direta à Constituição Federal.
+    É o relatório. Decido.
+    Inicialmente, constata-se que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. A jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário, quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Além disso, não foram opostos embargos declaratórios com a finalidade de sanar a omissão. Incidem, portanto, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Ademais, verifica-se que o Tribunal de origem, com fundamento nos artigos 98, I a VIII; 99 e 102, do Código Penal Militar (Decreto-lei 1.001/1969) assim asseverou (eDOC1, p. 167):
+    “(...)
+     a condenação dos militares a pena privativa de liberdade, por tempo superior a dois anos, acarreta a perda de posto e patente, bem como das condecorações, além da exclusão da Corporação; o texto legal, em nenhum momento, determina expressamente a perda dos proventos de aposentadoria, sendo vedado ao intérprete impor essa grave sanção sem a previsão pertinente.”
+    Como se observa da leitura do acórdão recorrido, o exame das razões recursais exige análise da legislação infraconstitucional, pois eventual contrariedade com a Constituição Federal é apenas reflexa, o que não autoriza o acesso à via extraordinária
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 05 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
