@@ -1,0 +1,1 @@
+Art. 82-A. Ficam estendidos até 5 de maio de 2017 os prazos para inscrição no CAR e para adesão ao PRA, previstos, respectivamente, nos art. 29, § 3º, e art. 59, § 2º, exclusivamente para os proprietários e possuidores de imóveis rurais a que se referem o art. 3º, caput, inciso V, e parágrafo único, e que se enquadrem nos dispositivos do Capítulo XIII.
