@@ -1,0 +1,26 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a União. Aparelhado o recurso na afronta aos arts. 5º, XXXV, LIV e LV, 21, X, XI e XII, 93, IX, 150, caput, VI, “a”, §§ 2º e 3º, 173, 175 e 177 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Da leitura dos fundamentos do acórdão prolatado na origem, constato explicitados os motivos de decidir, a afastar o vício da nulidade por negativa de prestação jurisdicional arguido. Destaco que, no âmbito técnico-processual, o grau de correção do juízo de valor emitido na origem não se confunde com vício ao primado da fundamentação, notadamente consabido que a disparidade entre o resultado do julgamento e a expectativa da parte não sugestiona lesão à norma do texto republicano. Colho precedente desta Suprema Corte na matéria, julgado segundo a sistemática da repercussão geral:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG, Relator Ministro Gilmar Mendes, Plenário Virtual, DJe 13.8.2010)
+    No mérito, o entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    "CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA RECÍPROCA. INAPLICABILIDADE À RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO. ART. 150, VI, A DA CONSTITUIÇÃO. A imunidade tributária recíproca não exonera o sucessor das obrigações tributárias relativas aos fatos jurídicos tributários ocorridos antes da sucessão (aplicação “retroativa” da imunidade tributária). Recurso Extraordinário ao qual se dá provimento.” (RE 599176, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe 30-10-2014)
+    Do voto do relator colho o seguinte trecho:
+    "[…]
+    a imunidade tributária recíproca é inaplicável se a atividade ou a entidade tributada demonstrarem capacidade contributiva, se houver risco à livre-iniciativa e às condições de justa concorrência econômica ou se não estiver em jogo risco ao pleno exercício da autonomia política conferida aos entes federados pela Constituição.
+    De fato, a Constituição é expressa ao excluir da imunidade:
+    “[o] patrimônio, [a] renda e [os] serviços, relacionados com exploração de atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados, ou em que haja contraprestação ou pagamento de preços ou tarifas pelo usuário, nem exonera o promitente comprador da obrigação de pagar imposto relativamente ao bem imóvel” (art. 150, VI, § 3º).
+    Como sociedade de economia mista, constituída sob a forma de sociedade por ações, apta a cobrar pela prestação de seus serviços e a remunerar o capital investido, a RFFSA não fazia jus à imunidade tributária.
+    [...]
+    No caso em exame, a União não pode se livrar da responsabilidade tributária simplesmente indicando que o tributo era devido por sociedade de economia mista, ou sugerindo a aplicação de regra constitucional que protege a autonomia política de entes federados, e não de empresas públicas, nem de sociedades de economia mista [...]”
+    Verifico, ainda, que no julgamento do RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, decidiu-se pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do devido processo legal, do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, cuja ementa transcrevo:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 05 de maio de 2016.
+Ministra Rosa Weber
+Relatora
