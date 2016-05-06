@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado:
+    “Constitucional e Administrativo – Mandado de Segurança – Pensionista – Não pagamento da pensão especial em sua integralidade – Gratificação de Incentivo – A Constituição Federal é clara ao determinar que a paridade é de qualquer remuneração de qualquer natureza – Verificada a lesão ao direito, à liquidez do direito da impetrante – Segurança Concedida – Decisão por maioria.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, LXIX; 40, § 8º, da Constituição.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Odim Brandão Ferreira, opinou pelo desprovimento do recurso extraordinário.
+    O recurso não merece acolhida, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência do Supremo Tribunal Federal. O Tribunal de origem, ao decidir a controvérsia, assim se manifestou:
+    “Pedindo vênias, entendo que as informações da eminente autoridade impetrada, ou seja, o Secretário de Administração Maurício Romão, constante à folha 38 dos autos, demonstram como é formado o soldo do cabo e dizem precisamente que o que a Impetrante pretende é não tem direito é a gratificação de incentivo. A Constituição Federal é clara ao determinar que a paridade é de qualquer remuneração de qualquer natureza. Já enfrentamos, aqui, essa matéria de que é devida essa gratificação de incentivo também à viúva. O esposo da Impetrante faleceu no exercício da atividade: em combate.”
+    No caso, se o policial falecido estivesse em atividade, faria jus ao benefício ora questionado. Nesses termos, o viúva possui direito a receber a gratificação de incentivo nos mesmos molde do servidor se na ativa estivesse, conforme preceitua a jurisprudência desta Corte. Nesse sentido, veja-se o RE 429.239-AgR, Rel. Min. Marco Aurélio:
+    “APOSENTADOS EXTENSÃO DE BENEFÍCIO ARTIGO 40, § 8º, DA CONSTITUIÇÃO FEDERAL. A pedra de toque da incidência do preceito é saber se em atividade os aposentados lograriam o benefício.”
+    Ademais, para se chegar à conclusão pretendida pela parte recorrente no sentido do não preenchimento dos requisitos para o recebimento da gratificação em debate, faz-se necessária a análise da legislação infraconstitucional aplicada ao caso, bem como o reexame do conjunto fático-probatório dos autos, procedimentos vedados neste momento processual. Nesse sentido, confira:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. POLICIAL CIVIL. GRATIFICAÇÃO DE INCENTIVO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Ausência do devido prequestionamento da matéria constitucional suscitada. Incidência das Súmulas 282 e 356 do Supremo Tribunal Federal. 2. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas. Incidem, na espécie, as Súmulas 279 e 280 do Supremo Tribunal.” (AI 564.359-AgR, Rel.ª Min.ª Cármen Lúcia).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 06 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
