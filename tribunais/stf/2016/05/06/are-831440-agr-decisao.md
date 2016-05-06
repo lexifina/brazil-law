@@ -1,0 +1,12 @@
+Decisão: Trata-se de petição de agravo regimental na qual se questiona ato que determinou a remessa dos autos à origem, com base nos RE-RG 576.967 (tema 72); RE-RG 593.068 (tema 163); AI-QO-RG 791.292 (tema 339); RE-RG 611.505 (tema 482); e ARE-RG 748.371 (tema 660), para os fins do disposto no art. 543-B do CPC.
+    Nas razões do agravo, sustenta-se que a matéria tratada no tema 72, acerca da inclusão do salário-maternidade na base de cálculo da contribuição previdenciária incidente sobre a remuneração, foi objeto do recurso especial interposto pela União, admitido e parcialmente provido pelo Superior Tribunal de Justiça (eDOC 2, p. 55). Alega-se ainda que a parte recorrente não se insurgiu contra o assunto versado no tema 163, que trata da contribuição previdenciária sobre o terço constitucional, entre outras verbas.
+    Cumpre destacar que a determinação da remessa dos autos à origem para a aplicação da sistemática da repercussão geral é ato de mero expediente e, por isso, não desafia impugnação.
+    Entretanto, após detida análise, verifico que decisão impugnada merece ser retificada. Com efeito, a questão constitucional representada pelo tema 163 da sistemática da repercussão geral não foi objeto do recurso extraordinário.
+    Ademais, verifico que o Superior Tribunal de Justiça deu parcial provimento ao recurso especial interposto concomitantemente ao extraordinário com relação à inclusão do salário-maternidade na base de cálculo da contribuição previdenciária incidente sobre a remuneração, matéria tratada no RE-RG 576.967, processo-paradigma da repercussão geral, tema 72 (eDOC 2, p. 55). Essa decisão transitou em julgado em 19.8.2014 (eDOC 2, p. 63), o que torna prejudicado o recurso quanto à questão.
+    Já no tocante à matéria remanescente, verifico que o assunto versado no recurso extraordinário corresponde aos temas 339, 482 e 660 da sistemática da repercussão geral, cujos paradigmas são, respectivamente, o AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010; RE-RG 611.505, Rel. Min. Ricardo Lewandowski, DJe 28.10.2014; e o ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013.
+    Ante o exposto, torno sem efeito a decisão constante do eDOC 3, julgo prejudicado o presente recurso quanta à matéria decidida pelo Superior Tribunal de Justiça e determino a devolução dos autos ao tribunal de origem, para que observe o disposto no art. 1.036 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 6 de maio de 2015.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
