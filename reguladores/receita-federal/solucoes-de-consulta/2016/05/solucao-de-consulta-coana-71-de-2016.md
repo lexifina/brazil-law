@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 71, de 29 de abril de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 2939.99.90 Mercadoria: Insumo farmacêutico denominado bromidrato de hiosciamina, CAS number 306-03-6, princípio ativo utilizado na fabricação de medicamento antiespasmódico, com grau de pureza mínimo de 98,5%, apresentado na forma de pó cristalino e acondicionado em tambores.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 1 a) do Capítulo 29 e da posição 29.39) e RGI 6 (textos da subposição de 1º nível 2939.9 e da subposição de 2º nível 2939.99) e RGC 1 (texto do item 2939.99.90), da NCM constante da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 2939.99.90 Mercadoria: Insumo farmacêutico denominado bromidrato de hiosciamina, CAS number 306-03-6, princípio ativo utilizado na fabricação de medicamento antiespasmódico, com grau de pureza mínimo de 98,5%, apresentado na forma de pó cristalino e acondicionado em tambores.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 1 a) do Capítulo 29 e da posição 29.39) e RGI 6 (textos da subposição de 1º nível 2939.9 e da subposição de 2º nível 2939.99) e RGC 1 (texto do item 2939.99.90), da NCM constante da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+FERNANDO KENJI MYAMOTO
+Vice-Presidente da 3ª Turma
