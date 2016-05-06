@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da 4ª Turma Recursal dos Juizados Especiais Federais da 3ª Região, o qual consignou que o recorrido não preencheu os requisitos para aposentadoria rural por idade. (eDOC 30)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida. No mérito, aponta-se violação aos artigos 5º, XXXVI, e 201, § 7º, II, da Carta Magna.
+    Nas razões recursais, defende-se, em síntese, que foram preenchidos todos os requisitos para concessão da aposentadoria rural por idade.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 8.213/1991) e o conjunto probatório constante dos autos, consignou que o recorrente não preencheu os requisitos para aposentadoria rural por idade .
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A prova material está adstrita à carteira de trabalho, onde se verifica o exercício da atividade rural em dois períodos, conforme assinalados pela Contadoria: de 01.07.1971 a 28.02.1975 e de 05.08.1975 a 20.08.1978. Não há outros elementos de prova que confirmam a existência de atividade posterior à referida data.
+    O art. 143 da Lei nº 8.213/1991 preconiza que o ‘trabalhador rural, ora enquadrado como segurado obrigatório no Regime Geral de Previdência Social, na forma da alínea ‘a’ do inciso I, ou do inciso IV ou VII do art. 11 desta Lei, pode requerer aposentadoria por idade, no valor de um salário mínimo, durante quinze anos, contados a’partir da data de vigência desta Lei, desde que comprove o exercício de atividade rural, ainda que descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico à carência do referido benefício’.
+    A comprovação da atividade rural no período ‘imediatamente anterior’ ao requerimento do benefício entendo que não se deve exigir do segurado rural que continue a trabalhar na lavoura até às vésperas do dia do requerimento do benefício de aposentadoria por idade. Por outro lado, também não deve existir um hiato temporal extremamente longo entre o afastamento da atividade e o implemento do requisito etário, sob pena de termos por desatendida a exigência resumida na expressão ‘imediatamente anterior ao requerimento’.
+    (...)
+    Nesse contexto o largo período decorrido entre o afastamento das lides campesinas, em 1978, e o implemento da idade/requerimento administrativo, respectivamente em 1982 e em 2008, impede o reconhecimento do direito à aposentadoria vindicada”. (eDOC 30, p. 1-2)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes, de ambas as Turmas desta Corte, assim ementados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. REQUISITOS. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E NOVA APRECIAÇÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. Hipótese em que para dissentir do entendimento do Tribunal de origem seriam necessários nova apreciação do material probatório constantes dos autos (Súmula 279/STF) e a análise da legislação infraconstitucional pertinente. Precedentes. Agravo regimental a que se nega provimento”. (ARE-AgR 770.399, Rel. Min. Roberto Barroso, Primeira Turma, DJe 14.8.2014)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Previdenciário. Requisitos para a concessão de aposentadoria especial rural. Preenchimento de requisitos. 3. Necessidade de prévia análise e interpretação da legislação infraconstitucional. Ofensa reflexa. 4. Necessidade de revolvimento de fatos e provas. Óbice do Enunciado 279 da Súmula do STF. 5. Agravo regimental a que se nega provimento”. (ARE-AgR 788.456, de minha relatoria, Segunda Turma, DJe 28.4.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 6 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
