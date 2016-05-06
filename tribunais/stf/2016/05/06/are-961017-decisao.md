@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de Sergipe, está assim ementado:
+    “APELAÇÃO CÍVEL – RESPONSABILIDADE CIVIL – FALECIMENTO DE POLICIAL CIVIL – ESCRIVÃO DE POLÍCIA MORTO NO EXERCÍCIO DE SUAS FUNÇÕES – RESPONSABILIDADE OBJETIVA DO ENTE ESTATAL – DANO MORAL EXISTENTE – NECESSIDADE DE MAJORAÇÃO DO VALOR – PENSIONAMENTO DEVIDO – MANUNTENÇÃO DO QUATUM FIXADO – JUROS E CORREÇÃO – OBSERVÂNCIA DA NOVA REGRA INSCULPIDA NA LEI 11960/09 – RECURSO AUTORAL PROVIDO PARCIALMENTE E RECURSO DO ENTE ESTATAL IMPROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 37, § 6º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário em questão revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de Sergipe, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático- -probatórios, a seguir destacados:
+    “Da análise dos elementos de prova reunidos nestes autos, constata-se que no caso trazido a análise desta Corte de Justiça inquestionável a presença do dano, traduzido pela morte do policial civil em decorrência de ferimento por projétil, tendo como causa mortis ‘choque hipovolêmico, decorrente da ação de instrumento perfuro contundente’.
+    Inquestionável também o nexo de causalidade entre a morte e a ausência de segurança e condições adequadas para o exercício da profissão de policial, evidenciando-se a total falha na prestação do serviço.
+    No caso em comento restaram demonstrados o fato, o dano e o nexo de causalidade, portanto clarividente está o dever de indenizar do Estado.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 06 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
