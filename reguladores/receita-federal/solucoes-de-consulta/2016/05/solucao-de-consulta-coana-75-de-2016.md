@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 75, de 29 de abril de 2016
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8421.39.90 Mercadoria: Cartucho filtrante para máscara facial e semifacial de proteção contra gases tóxicos, constituído de carvão ativado tratado quimicamente e microfibras sintéticas, contidos em um invólucro de plástico rígido, destinado a eliminação da amônia e metilamina presentes no ar que se respira. DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 2 a) do Capítulo 90 e da posição 84.21), RGI 6 (textos da subposição de 1º nível 8421.3 e da subposição de 2º nível 8421.39) e na Regra Geral Complementar daNomenclatura Comum do Mercosul RGC 1 (texto do item 8421.39.90)constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8421.39.90 Mercadoria: Cartucho filtrante para máscara facial e semifacial de proteção contra gases tóxicos, constituído de carvão ativado tratado quimicamente e microfibras sintéticas, contidos em um invólucro de plástico rígido, destinado a eliminação da amônia e metilamina presentes no ar que se respira.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 2 a) do Capítulo 90 e da posição 84.21), RGI 6 (textos da subposição de 1º nível 8421.3 e da subposição de 2º nível 8421.39) e na Regra Geral Complementar da
+Nomenclatura Comum do Mercosul RGC 1 (texto do item 8421.39.90)
+constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+FERNANDO KENJI MYAMOTO
+Vice-Presidente da 3ª Turma
