@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 54, de 19 de abril de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9503.00.10 Mercadoria: Carrinho com uma roda motriz dianteira e quatro rodízios, provido de direção, acelerador, motor elétrico e barra de drift, pesando 32 kg, próprio para se movimentar para frente, para trás, lateralmente, em arcos à deriva ou em círculos, numa velocidade máxima de 20 km/h, próprio para ser conduzido por criança ou adulto de até 63 kg para prática de drift (derrapagem controlada), denominado comercialmente "Carrinho Elétrico Crazy Cart".
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 95.03) e RGC 1 (texto do item 9503.00.10) constantes da TEC aprovada pela Res. Camex nº 94, de 2011, e da Tipi aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9503.00.10 Mercadoria: Carrinho com uma roda motriz dianteira e quatro rodízios, provido de direção, acelerador, motor elétrico e barra de drift, pesando 32 kg, próprio para se movimentar para frente, para trás, lateralmente, em arcos à deriva ou em círculos, numa velocidade máxima de 20 km/h, próprio para ser conduzido por criança ou adulto de até 63 kg para prática de drift (derrapagem controlada), denominado comercialmente "Carrinho Elétrico Crazy Cart".
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 95.03) e RGC 1 (texto do item 9503.00.10) constantes da TEC aprovada pela Res. Camex nº 94, de 2011, e da Tipi aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+CARLOS HUMBERTO STECKEL
+Presidente Da 2ª Turma
