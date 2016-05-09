@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de reclamação contra decisões do STJ na Rcl 24.830. Naqueles autos, o ora reclamante impugnava decisão de Turma Recursal de Juizado Especial que não conhecera de recurso inominado, em razão de sua intempestividade. Em primeira decisão monocrática, o STJ concluiu que a reclamação não continha requisito próprio, tendo sido usada como autêntico recurso. Interposto agravo regimental, este não foi conhecido, em decisão do seguinte teor:
+    “Vistos etc.
+    Trata-se de agravo regimental interposto pelo ANTONIO GERALDO FERREIRA e OUTRO em face da decisão que negou seguimento à reclamação.
+    É o breve relatório. Decido.
+    O art. 6º da Resolução n.º 12/2009 do Superior Tribunal de Justiça é expresso ao afirmar a irrecorribilidade das decisões monocráticas proferidas pelo relator nas reclamações contra decisão de turma recursal dos juizados especiais.
+    Por essa razão é que a 2ª Seção deste Tribunal Superior assentou, no julgamento da Rcl n.º 6.721/MT, julgada em 09/11/2011, que os agravos regimentais interpostos em face de decisões monocráticas que não conheceram das reclamações também não serão conhecidos por decisão monocrática do relator.
+    Ante o exposto, não conheço do agravo regimental”.
+    No presente feito, a parte alega que a decisão fere o “princípio hierárquico e o da fungibilidade recursal” o que “contraria a NORMA SUPERIOR GERAL CF/ ARTIGO 5, caput e inciso LV , ao dar TRATAMENTO DIFERENCIADO , a uma mesma decisão, ou seja que a ‘DECISÃO MONOCRATICA’, admite-se AGRAVO REGIMENAL , desde que seja em RESP , e afastando em caso de RECLAMAÇÃO,o que trata de vicio suscetível para que seja declarada a nulidade por esse STF, guardiã da Constituição” (sic). Defende, ademais, a tempestividade do recurso inominado apresentado no Juizado Especial, pedindo, ao final que esta Corte “afaste a INTEMPESTIVIDADE DO RECURSO INOMOMNADO, ante negativa do STJ, em ratificar sus PRECEDENTES”(sic).
+    É o relatório. Decido.
+    Dispenso a prestação das informações, por considerar o feito suficientemente instruído, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único).
+    É manifesto o descabimento da via. A reclamação dirigida a esta Corte só é cabível quando se sustenta usurpação de sua competência, ofensa à autoridade de suas decisões ou contrariedade a Súmula Vinculante (CF/88, arts. 102, I, l, e 103-A, § 3º). No segundo e no terceiro casos, exige-se que o pronunciamento tenha efeito vinculante ou, ao menos, que tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte. A alegação de ofensa ao direito objetivo ou a precedente e enunciado de Súmula sem força vinculante não dá ensejo à propositura de reclamação. Nesse sentido firmou-se a jurisprudência: Rcl 5.063/PR AgR, Rel. Min. Ayres Britto; Rcl 4.381 AgR/RJ, Rel. Min. Celso de Mello; Rcl 4.119 AgR/BA, Rel. Min. Cármen Lúcia; Rcl 5.391 AgR, Rel. Min. Dias Toffoli.
+    Observo que, desde os autos de origem, a parte vem reiteradamente utilizando-se de expedientes processuais manifestamente inadmissíveis, na tentativa de fazer prevalecer o que é do seu interesse sem atentar para as específicas regras processuais. Tal prática atrasa e tumultua a prestação jurisdicional, podendo configurar litigância temerária ou de má-fé. Por ora, afasto a incidência de sanção processual, sem prejuízo de futura aplicação, em caso de reiteração.
+    Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    Publique-se.
+    Brasília, 09 de maio de 2016.
+Ministro LUÍS ROBERTO BARROSO
+Relator
