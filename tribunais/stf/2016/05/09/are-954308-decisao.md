@@ -1,0 +1,14 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário em questão revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que a E. Sexta Turma Recursal da Seção Judiciária do Estado do Rio de Janeiro, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios, a seguir destacados:
+    “No presente caso, a partir da comprovação de efetiva avaliação dos servidores ativos, em função de expressa previsão legal, o pleito de paridade referente à GDATEM deve ter como termo final a data do 1º ciclo de avaliação.
+    Finalmente, no tocante a pretensão de extensão aos inativos dos 80 pontos relativos à avaliação institucional, sob o argumento de que seria genérica e fictícia, portanto ilegal, não pode ser ela acolhida, pois, ao contrário do que alegam os servidores inativos, mostra-se plenamente legítima a atribuição da mesma pontuação a todos os integrantes de determinada organização, uma vez que, tal como o nome diz, a avaliação é institucional, ou seja, de toda a instituição, devendo ser igualmente atribuída a todos a que dela fazem parte.
+    ‘In casu’, como o autor aposentou após o 1º ciclo de avaliação realizado pelo seu órgão de origem, não faz jus ao recebimento da gratificação em condições isonômicas aos servidores em atividade.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 09 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
