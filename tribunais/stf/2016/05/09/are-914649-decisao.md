@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 93, inciso IX, 146, inciso III, da Constituição Federal.
+    A decisão recorrida encontra-se como a seguir ementada:
+    “AGRAVO. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. RESPONSABILIDADE SOLIDÁRIA DOS SÓCIOS CONFIGURADA. CLÁUSULA EXPRESSA DO TERMO DE PARCELAMENTO FIRMADO TAMBÉM PELOS SÓCIOS DA EXECUTADA. CONTINÊNCIA NÃO CARACTERIZADA. AUSÊNCIA DE PROVA CONTUNDENTE ACERCA DA IDENTIDADE DOS DÉBITOS DECLARADOS EM GIA PELO PRÓPRIO CONTRIBUINTE COM AQUELES RECLAMADOS NA ANULATÓRIA. SUSPENSÃO DO FEITO EXECUTIVO. DESCABIMENTO.”
+    Decido.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    No mais, observo que o Tribunal de origem concluiu estar configurada a responsabilidade solidária dos sócios, com base na legislação infraconstitucional pertinente (Lei nº 6.830/80; Código de Processo Civil e Código Tributário Nacional) e nos fatos e provas dos autos. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 279/STF. Sobre o tema:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO FISCAL. PRESCRIÇÃO. INTERRUPÇÃO. CITAÇÃO. RETROAÇÃO DO MARCO INTERRUPTIVO À DATA DO AJUIZAMENTO DA AÇÃO. ARTIGOS 174 DO CTN E 219, § 1º, DO CPC. SÚMULA Nº 106 DO STJ. DISSOLUÇÃO IRREGULAR DA SOCIEDADE. RESPONSABILIDADE SOLIDÁRIA DOS SÓCIOS. INTERPRETAÇÃO DE NORMAS LEGAIS E REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. INCIDÊNCIA DAS SÚMULAS 279 E 636 DO STF. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. INEXISTÊNCIA. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO STF NO ARE 748.371-RG, TEMA Nº 660. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO. (ARE nº 900.769/PE – AgR, Primeira Turma, Rel. Min. Luiz Fux, Dje de 15/9/15)
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 9 de maio de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
