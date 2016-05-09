@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1635, de 6 de maio de 2016
+Altera a Instrução Normativa RFB nº 958, de 15 de julho de 2009, que estabelece procedimentos para revisão das Declarações de Ajuste Anual do Imposto de Renda das Pessoas Físicas (DIRPF) e do Imposto sobre a Propriedade Territorial Rural (DITR), e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 6º da Lei nº 10.593, de 6 de dezembro de 2002, resolve:
