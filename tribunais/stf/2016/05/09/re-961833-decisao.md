@@ -1,0 +1,18 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO E PROCESSUAL CIVIL. IMUNIDADE RECÍPROCA. ART. 150, INCISO VI, ALÍNEA ‘A’ E PARÁGRAFOS 2º E 3º. CODEVASF. ITR. RECONHECIMENTO. PRECEDENTES DO COLENDO STF E DESTA CORTE. VERBA HONORÁRIA. FIXAÇÃO EM VALOR EXORBITANTE. DIMINUIÇÃO. PRECEDENTES DO STJ.
+    1. Apelação contra sentença que julgou procedente pedido para declarar a inexistência da relação jurídica tributária entre a CODEVASF e União quanto à cobrança de ITR e determinar a suspensão da exigibilidade do crédito tributário.
+    2. A jurisprudência do STF orienta-se no sentido de que a imunidade recíproca deve ser reconhecida em favor das empresas públicas que prestem serviços públicos (RE nº 407099, Rel. Min. Carlos Velloso; RE nº 773992, Rel. Min. Dias Toffoli, Pleno, julgado em 15/10/2014, Acórdão Eletrônico Repercussão Geral – Mérito, DJe 19/02/2015; ACO-AgR nº 1331, Luiz Fuz).
+    3. Verificada a prestação de serviços públicos pela CODEVASF, como do desenvolvimento integrado de áreas prioritárias e a implantação de distritos agroindustriais e agropecuários; realização de obras de infraestrutura; obras de saneamento básico, eletrificação e transportes; implementação de projetos voltados à estruturação dos meios de produção e comercialização de determinada atividade econômica, deve ser reconhecida a imunidade tributária.
+    4. Precedente desta Corte: AR 00041197620104050000, Des. Federal Leonardo Resende Martins, Pleno, DJe 10/11/2010.
+    5. A jurisprudência do colendo STJ é pacífica na esteira de que é possível a alteração dos honorários advocatícios quando o valor arbitrado é exorbitante ou irrisório.
+    6. ‘In casu’, a sentença fixou em 10% sobre o valor da causa, (equivalente a R$16.279,94), quantia essa que é exorbitante para o deslinde que teve a demanda. Diminuição dos honorários para R$ 8.000,00 (cerca de 5% do valor da causa).
+    7. Apelação e remessa oficial parcialmente providas.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao julgar o ARE 638.315-RG/BA, Rel. Min. CEZAR PELUSO (Presidente), reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa, e, na mesma oportunidade, reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO. Extraordinário. Imunidade tributária recíproca. Extensão. Empresas públicas prestadoras de serviços públicos. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso improvido. É compatível com a Constituição a extensão de imunidade tributária recíproca à Empresa Brasileira de Infraestrutura Aeroportuária – INFRAERO, na qualidade de empresa pública prestadora de serviço público.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu – e reafirmou – na matéria em referência.
+    Sendo assim, e em face das razões expostas, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC/15, art. 932, IV, “b”).
+    Publique-se.
+    Brasília, 09 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
