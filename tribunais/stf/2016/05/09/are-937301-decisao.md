@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do , que deu parcial provimento ao recurso especial e cuja ementa transcrevo a seguir (eDOC 5, p. 31):
+    “PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO PROPORCIONAL. CONVERSÃO DE TEMPO ESPECIAL EM COMUM. IMPRESSOR. ATIVIDADE INSALUBRE.
+    1. O tempo de serviço especial deve ser comprovado de acordo com a legislação de regência da época dos fatos, ou seja, até 29/04/95 (Lei nº 9.032), pela categoria profissional; a partir daí até a vigência do Decreto nº 2.172/97, por meio dos formulários SB-40 e DSS-8030; e após, a edição do referido decreto, por laudo técnico.
+    2. No caso em exame, os formulário e o laudo pericial atestam que, nos períodos de 01/02/1985 a 28/08/1990 e de 01/09/1990 a 20/11/1997, na Papelaria e Tipografia Jacira Ltda e na Renacar Artes Gráficas Ltda, respectivamente, o autor exerceu a função de impressor, atividade que se enquadrava como insalubre, de acordo como os Decretos nºs 53.831/1964 (código 2.5.5) e 83.080/1979 (código 2.5.8 do Anexo II), o que caracteriza como especial.
+    3. Devem ser considerados com tempo especial os períodos acima mencionados, em que o autor exerceu a função de impressor, sendo devida a sua conversão para tempo comum, aplicando-se o multiplicador 1,40 nos termos do artigo 70 do Decreto nº 3.048/99.
+    4. Em 02/04/1998, data do requerimento administrativo, o autor contava com 30 anos, 07 meses e 20 dias de tempo de contribuição, se somado o tempo de serviço comum, conforme o cálculo da Contadoria Judicial.
+    5. Diante do reconhecimento deste tempo de serviço, anterior à vigência da Emenda Constitucional nº 20/98, o autor faz juz à concessão de uma aposentadoria proporcional a partir de 02/04/1998, a ser calculada com base no percentual de 70% do salário-de-benefício, segundo a legislação então vigente (artigo 53, inciso II, da Lei 8.213/81), conforme decidiu o juízo a quo.
+    6. Remessa necessária parcialmente provida apenas para explicar que a correção monetária das parcelas devidas deverá ser feita segundo os critérios da Lei nº6.899/81, cujos índices são adotados pela Justiça Federal, na forma do Manual previsto na Resolução nº 561/07, de 02/07/07, do Conselho da Justiça Federal, mantida, no mais, a sentença de primeiro grau.”
+    Os embargos declaratórios foram desprovidos (eDOC 7, p. 46).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 5º, XXXVI da Constituição Federal.
+    Nas razões recursais, sustenta-se que o fator de conversão a ser aplicado para conversão de tempo especial em comum é aquele vigente à época da prestação de serviço do segurado, regido pela Lei em vigor na época de sua prestação (eDOC 8, p. 39).
+    Aduz, ainda, com a prescrição “de todas as parcelas vencidas antes de setembro de 2000, tendo-se em vista que o ajuizamento é de setembro de 2005”, bem como requer a revisão da aplicação dos juros e correção monetária.
+    A Presidência do TRF da 3ª Região inadmitiu o extraordinário por entender que não existe violação direta ao texto constitucional.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, quanto aos juros e à correção monetária resta prejudicado o pedido. Isso porque, conforme decisão da Presidência da Corte de origem, a Segunda Turma Especializada operou o juízo de retratação e determinou que tais critérios sigam os índices oficiais de remuneração básica e juros aplicados às cadernetas de poupança” (eDOC 9, p. 28).
+    Ademais, o Supremo Tribunal Federal já se manifestou, sob a sistemática da repercussão geral, sobre as teses de violação ao devido processo legal e ao dever de motivação das decisões judiciais. No julgamento do ARE 748.371 (Relatoria do Ministro Gilmar Mendes, Pleno, DJe 01.08.2013, Tema 660), esta Corte assentou que o tema sobre violação dos princípios do contraditório, da ampla defesa e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, não possui repercussão geral.
+    Verifica-se, ainda, que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria a análise da legislação infraconstitucional aplicável à espécie (Lei 9.032/1995) e do conjunto fático-probatório, o que não autoriza o acesso à via extraordinária, incidindo no caso, a Súmula 279 do STF.
+    De todo modo, o acórdão do Superior Tribunal de Justiça está em harmonia com o entendimento desta Corte, pois o Supremo Tribunal Federal, no julgamento da ADI 3.104 decidiu que “em questões previdenciárias, aplicam-se as normas vigentes ao tempo da reunião dos requisitos de passagem para a inatividade”, não havendo falar-se, portanto, em violação ao princípio tempus regit actum.
+    Ante o exposto, nego provimento ao agravo nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 10 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
