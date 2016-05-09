@@ -1,0 +1,16 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. APOSENTADORIA. PROFESSOR. GRATIFICAÇÃO EXTRACLASSE. LEI 11.820/1991 DO ESTADO DO CEARÁ. NATUREZA JURÍDICA DA VANTAGEM. INCIDÊNCIA DA SÚMULA Nº 280 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil/1973, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que concedeu a segurança para assegurar à impetrante o recebimento de seus proventos no valor percebido anteriormente à sua aposentação, na sua totalidade. Assim decidindo, reconheceu como devido o pagamento da gratificação “Extraclasse” prevista na Lei Estadual 11.820/1991.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 40, §§ 3º e 8º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula nº 280 do STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (artigo 102, § 3º, da CF).
+    Destarte, verifica-se que a controvérsia foi decidida com fundamento em norma infraconstitucional local (Lei Estadual nº 11.820/1991). Ora, a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais locais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário, a teor da Súmula nº 280 do STF: “Por ofensa a direito local não cabe recurso extraordinário”.
+    Ambas as Turmas já decidiram sobre o tema posto neste autos. Cito exemplarmente:
+    “Ementa: ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. APOSENTADORIA. VANTAGENS. GRATIFICAÇÃO EXTRACLASSE. EXTENSÃO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. SÚMULA 280/STF. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VEDAÇÃO. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (AI 502.687-AgR, Segunda Turma, Rel. Min. Teori Zavascki, DJe 18/8/2013)
+    “EMENTA Agravo regimental no recurso extraordinário. Gratificação extraclasse. Lei nº 11.820/91 do Estado do Ceará. Natureza jurídica da vantagem. Necessidade de reexame da legislação local e dos fatos e provas dos autos. Impossibilidade. Incidência das Súmulas nºs 280 e 279/STF. Precedentes. 1. Não se abre a via do recurso extraordinário para a análise de matéria ínsita ao plano normativo local, nem para o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 280 e 279 desta Corte. 2. Agravo regimental não provido.” (AI 722.122-AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe 16.6/2011)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 9 de maio de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
