@@ -1,0 +1,14 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Terezinha Maria Rodrigues contra acórdão que, proferido pela E. Turma Recursal da Seção Judiciária do Estado do Rio Grande do Norte, está assim ementado:
+    “CONSTITUCIONAL. TUTELA ESPECÍFICA DE OBRIGAÇÃO DE FAZER. DIREITO FUNDAMENTAL À SAÚDE. DETERMINAÇÃO JUDICIAL DE FORNECIMENTO DE TRATAMENTO PELA FAZENDA PÚBLICA. AUSÊNCIA DE COMPROVAÇÃO DE INEFICÁCIA DA TERAPEUTICA OFERECIDA PELA REDE PÚBLICA. SENTENÇA IMPROCEDENTE. DESPROVIMENTO DO RECURSO INOMINADO.”
+    As partes ora recorrentes, ao deduzirem os apelos extremos em questão, sustentaram que a decisão recorrida teria vulnerado o preceito inscrito no art. 196,”caput”, da Constituição Federal.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário não se revela viável.
+    Com efeito, a decisão recorrida decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que a Turma Recursal da Seção Judiciária do Estado do Rio Grande do Norte, no julgamento do recurso inominado, sustentou as suas conclusões em aspectos fáticos-probatórios, a seguir destacados:
+    “Verifica-se que, de fato, há tratamento alternativo existente para a demanda médica do paciente e a petição inicial, assim como a peça recursal, não apresentam elementos satisfatórios, capazes de indicar minimamente a ineficácia dos tratamentos existentes na rede pública, sendo o pedido, na forma como foi apresentado, um pleito de tratamento diferenciado, de oferta do melhor tratamento possível, o que, nos termos já anunciados, não pode ser atendido.
+    Diante, pois, da ausência de comprovação de que o tratamento ofertado pelo SUS é ineficaz, deve o recurso ser desprovido, mantida a sentença recorrida.”
+    Vê-se, portanto, que as pretensões deduzidas, em sede recursal extraordinária, pelas partes ora recorrentes revelam-se processualmente inviáveis, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 09 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
