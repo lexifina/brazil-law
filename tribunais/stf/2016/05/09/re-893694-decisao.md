@@ -1,0 +1,15 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão do E. Tribunal de Justiça do Estado de Sergipe que está assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. CONTRATAÇÃO DE ADVOGADO. IMPOSIÇÃO DE CRIAÇÃO DE CARREIRA DE PROCURADOR DE MUNICÍPIO. DISCRICIONARIEDADE DO ADMINISTRADOR NA ESCOLHA DO MELHOR PROFISSIONAL, DESDE QUE PRESENTE O INTERESSE PÚBLICO E INOCORRENTE O DESVIO DE PODER, AFILHADISMO OU COMPADRIO. DESCABIMENTO DA INTERVENÇÃO DO PODER JUDICIÁRIO PARA COMPELIR A MUNICIPALIDADE A ORGANIZAÇÃO DO QUADRO DE CARREIRA DE PROCURADOR MUNICIPAL. DESCABIMENTO. REFORMA DA SENTENÇA. REDIMENSIONAMENTO DOS HONORÁRIOS ADVOCATÍCIOS. RECURSO CONHECIDO E PROVIDO.
+    – É impossível aferir, mediante processo licitatório, o trabalho intelectual do Advogado, pois se trata de prestação de serviços de natureza personalíssima e singular, mostrando-se patente a inviabilidade de competição.
+    – A singularidade dos serviços prestados pelo Advogado consiste em seus conhecimentos individuais, estando ligada à sua capacitação profissional, sendo, dessa forma, inviável escolher o melhor profissional, para prestar serviço de natureza intelectual, por meio de licitação, pois tal mensuração não se funda em critérios objetivos (como o menor preço).
+    – Diante da natureza intelectual e singular dos serviços de assessoria jurídica, fincados, principalmente, na relação de confiança, é lícito ao administrador, desde que movido pelo interesse público, utilizar da discricionariedade, que lhe foi conferida pela lei, para a escolha do melhor profissional.
+    – É preciso, outrossim, asseverar que descabida a intervenção do judiciário para organização de carreira de procuradores posto que implicaria na espécie violação ao princípio da separação dos poderes e mácula ao princípio federativo.”
+    O recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, II, e 37, II, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao julgar o RE 225.777/MG, Red. p/ o acórdão Min. DIAS TOFFOLI, fixou entendimento que desautoriza a pretensão de direito material ora deduzida.
+    Cumpre destacar, por oportuno, quanto ao tema da obrigatoriedade de os municípios instituírem órgãos de advocacia pública, ante a inquestionável procedência de suas observações, a decisão proferida pelo eminente Ministro RICARDO LEWANDOWSKI (RE 690.765/MG), no sentido de que “não há na Constituição Federal previsão que os obrigue a essa instituição”.
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC/15, art. 932, IV, “b”).
+    Publique-se.
+    Brasília, 09 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
