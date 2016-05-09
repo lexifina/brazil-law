@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “Trata-se de recurso do CREA-RS contra sentença que o condenou a restituir à parte autora os valores por ela pagos a título de ART (Anotação de Responsabilidade Técnica) ao órgão de fiscalização, tendo reconhecido a inconstitucionalidade da fixação administrativa do valor dessa taxa, até o início de vigência da Lei 12.514/2011, isto é, até 01.01.2012.
+    ‘As contribuições cobradas pelas autarquias responsáveis pela fiscalização do exercício profissional são contribuições parafiscais, contribuições corporativas, com caráter tributário' (STF, Plenário, MS 21.797, DJ 18.5.2001), e a inconstitucionalidade da fixação administrativa de seu valor tem sido reconhecida pela jurisprudência das Turmas Recursais e do TRF4, como demonstram, entre outros, os seguintes precedentes: 3ª TRJEF/RS, RI 5005414-38.2012.404.7108, j. 24.10.2012; 3ª TR-JEF/RS, RI 5014733- 67.2011.404.7107, j. 19.6.2013; 4ª TR-JEF/RS, RI 5000305-40.2012.404.7109, j. 05.7.2012; TRF4, Corte Especial, ArgInc 2007.70.00013915-1, j. 24.9.2009.
+    Logo, a sentença está correta ao reconhecer a inconstitucionalidade e a determinar a repetição dos valores invalidamente cobrados.
+    (...)
+    Condeno a parte recorrente ao pagamento das custas e de honorários advocatícios, estes fixados em 10% (dez) sobre o valor atualizado da condenação, em conformidade com o art. 55 da Lei 9.099/1995”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 150, § 1º, da Carta. A parte recorrente sustenta que, se ocorrida ofensa a legalidade tributária pela Lei nº 6.496/77, houve seu suprimento com a Lei nº 6.994, de 1982, e, posteriormente, com a Lei nº 12.514, de 2011. Desse modo, entende legítima a exigência da taxa de ART, a partir da Lei nº 6.994/1982, no valor máximo de 5 MVR, e a partir da Lei nº 12.514/2011, no valor máximo de R$ 150,00.
+    A pretensão recursal não merece prosperar. De início verifico que, quanto à Lei nº 12.514, de 2011, a alegada ofensa à Constituição não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Quanto às demais normas, o Plenário do Supremo Tribunal Federal, nos autos do RE 838.284-RG, de relatoria do Ministro Dias Toffoli, reconheceu a repercussão geral da controvérsia relativa à validade da exigência da taxa para expedição da anotação de responsabilidade técnica (ART) baseada na Lei nº 6.994/1982, que estabeleceu limites máximos para a ART (Tema 829).
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 09 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
