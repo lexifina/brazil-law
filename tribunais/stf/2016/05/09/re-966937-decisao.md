@@ -1,0 +1,14 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão da Primeira Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. COMPENSAÇÃO DE OFÍCIO. DÉBITOS PARCELADOS. INCONSTITUCIONALIDADE DO PARÁGRAFO ÚNICO DO ART. 73 DA LEI Nº 9.430/96, INCLUÍDO PELA LEI Nº 12.844/2013. AFRONTA AO ART. 146, III, 'B' DA CF/88. EFICÁCIA PLENA DA SUSPENSÃO DA EXIGIBILIDADE.
+    1. A Corte Especial deste Tribunal, em julgamento do Incidente de Arguição de Inconstitucionalidade declarou a inconstitucionalidade do parágrafo único do art. 73 da Lei nº 9.430/96 (incluído pela Lei nº 12.844/13).
+    2. Por conseguinte, considerou a norma prevista no parágrafo único do art. 73 da Lei nº 9.430/96 (incluído pela Lei nº 12.844/13) inconstitucional, pois afronta o disposto no art. 146, III, 'b' da CF/88.
+    3. Isso porque, com a finalidade única de permitir que o Fisco realize compensação de ofício de débito parcelado sem garantia, condiciona a eficácia plena da hipótese de suspensão do crédito tributário, no caso, o parcelamento (CTN - art. 151, VI), à condição não prevista em Lei Complementar.
+    4. Assim sendo, não é possível a realização de compensação de ofício com débitos parcelados, entendendo-se pela eficácia plena da suspensão da exigibilidade do débito tributário regularmente parcelado.”
+    O recurso busca fundamento no art. 102, III, b, da Constituição Federal. A parte recorrente alega que o art. 73, parágrafo único, da Lei nº 9.430/1996 não viola a Constituição Federal. Sustenta, em síntese, que as alterações promovidas pela Lei nº 12.844/2013 não afrontam o art. 146, III, da Constituição de 1988. Destaca o entendimento do STJ, proferido no RESP nº 1.213.082 restou superado após a edição da Lei nº 12.844/2013. Defende que nem todas as hipóteses previstas no art. 151 do CTN tornam ilegítimo o encontro de contas efetuado pela Administração. Requer seja reconhecida a constitucionalidade do art. 73, parágrafo único, da Lei nº 9.430/1996.
+    O Plenário do Supremo Tribunal Federal, ao examinar o RE 917.285-RG, sob relatoria do Ministro Dias Toffoli, reconheceu a repercussão geral da matéria. Trata-se de recurso extraordinário em que se discute, à luz do art. 146 da Constituição Federal, se o Fisco pode, quando da restituição ou ressarcimento de tributos administrados pela Secretaria da Receita Federal, proceder à compensação, de ofício, com débitos não parcelados ou parcelados sem garantia, na forma prevista no parágrafo único do art. 73 da Lei 9.430/1996, com a redação dada pela Lei nº 12.844/2013 (Tema 874).
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem até o julgamento da matéria em sede de repercussão geral.
+    Publique-se.
+          Brasília, 09 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
