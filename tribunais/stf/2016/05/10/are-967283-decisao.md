@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. HOMOLOGAÇÃO DE PEDIDO DE DESISTÊNCIA. ALEGADA CONTRARIEDADE AO ART. 5º, INCS. LIV, LIV E LVI, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “AGRAVO INTERNO. INTERPOSIÇÃO CONTRA DECISÃO QUE HOMOLOGOU PEDIDO DE DESISTÊNCIA MANIFESTADO PELO PRÓPRIO RECORRENTE. NADA A RECONSIDERAR SE A PARTE NÃO DEMONSTROU EVENTUAL DESACERTO DA DECISÃO. DECISÃO MANTIDA” (doc. 4).
+    Os embargos de declaração opostos foram rejeitados.
+    2. Os Agravantes alegam contrariado o art. 5º, incs. LIV, LV e LVI, da Constituição da República, requerendo “seja acolhida a tese sustentada no agravo regimental ofertado, onde demonstrou de forma cabal a real vontade e intenção de prosseguir com a apelação, inexistindo a alegada manifestação expressa ou tácita por parte do recorrente no sentido de desistir, como entenderam a senhora relatora e seus pares” (doc. 5).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de prequestionamento e de inexistência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste aos Agravantes.
+    5. O Tribunal de origem decidiu:
+    “O equívoco dos autos se originou quando do intento do agravante de desistência do recurso apelatório (fls. 143/144), nestes autos de embargos de terceiro, circunstância que, se tivesse de pronto sido acatada, sem maiores delongas acautelatórias, nada mais restaria ao embargante e agravante fazer, eis que estava certo de que conquistaria i resultado buscado em primeira instância (homologação do acordo), o que se soube só posteriormente fora negado.
+    Todavia, ainda em tempo e em melhor análise dos autos (fl. 199), atendeu esta relatora ao insistente pedido do embargante-agravante de desistência do recurso, por duas vezes desferido (fls. 143/144 e 183/184), independentemente da negativa do pleito de sobrestamento do feito (fl. 196), só ulteriormente buscado porquanto já não havia a necessária certeza de que seria o acordo homologado em primeiro grau, embora tal homologação também tenha sido requerida mais de uma vez.
+    Acresço que a decisão homologatória (desistência) foi proclamada com estrita atenção à hipótese dos autos e todas as suas peculiaridades, sendo que nada do que trouxe o agravante tem força para transpor os fundamentos acima invocados, máxime porque não pode o Judiciário ficar à mercê dos interesses de cada litigante, que deve arcar com os ônus de seus atos, ainda que errôneos ou inoportunamente sacramentados. Se o interesse da parte era o de, em princípio, desistir do recurso, não pode este ficar condicionado a qualquer outra circunstância, à época, mais benéfica ao pretendente.
+    Ante o exposto, pelo meu voto, nego provimento ao agravo interno” (doc. 4).
+    A contrariedade ao art. 5º, incs. LIV, LV e LVI, da Constituição da República não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foi suscitada nos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem, na espécie, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n. 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    6. No julgamento do Recurso Extraordinário com Agravo n. 748.371, Relator o Ministro Gilmar Mendes, o Supremo Tribunal Federal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do contraditório, da ampla defesa e do devido processo legal quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações dos Agravantes.
+    7. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de maio de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
