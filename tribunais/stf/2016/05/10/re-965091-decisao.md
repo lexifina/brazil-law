@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Procurador-Geral de Justiça do Estado de São Paulo. Aparelhado o recurso na violação dos arts. 5º, XV e XXXV, 22, I e XXVII, 21, I, 30, I, II e VIII, 37, caput, XII, 175 e 182, caput, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “Agravo regimental. Ação direta de inconstitucionalidade manifestamente improcedente. Indeferimento da petição inicial pelo Relator. Art. 4º da Lei nº 9.868/99. 1. É manifestamente improcedente a ação direta de inconstitucionalidade que verse sobre norma (art. 56 da Lei nº 9.430/96) cuja constitucionalidade foi expressamente declarada pelo Plenário do Supremo Tribunal Federal, mesmo que em recurso extraordinário. 2. Aplicação do art. 4º da Lei nº 9.868/99, segundo o qual "a petição inicial inepta, não fundamentada e a manifestamente improcedente serão liminarmente indeferidas pelo relator". 3. A alteração da jurisprudência pressupõe a ocorrência de significativas modificações de ordem jurídica, social ou econômica, ou, quando muito, a superveniência de argumentos nitidamente mais relevantes do que aqueles antes prevalecentes, o que não se verifica no caso. 4. O amicus curiae somente pode demandar a sua intervenção até a data em que o Relator liberar o processo para pauta. 5. Agravo regimental a que se nega provimento.” (ADI 4071 AgR, Rel. Min. Menezes Direito, Tribunal Pleno, DJe 16.10.2009)
+    “EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CPMF. CONSTITUCIONALIDADE. O Plenário desta colenda Corte, ao julgar a ADI 2.031, rejeitou todas as alegações de inconstitucionalidade do caput e dos §§ 1º e 2º do art. 75 do ADCT, introduzidos pela Emenda Constitucional 21/99. Isto porque as ações diretas de inconstitucionalidade possuem causa de pedir aberta. É dizer: ao julgar improcedentes ações dessa natureza, o Supremo Tribunal Federal afirma a integral constitucionalidade dos dispositivos questionados (Precedente: RE 343.818, Relator Ministro Moreira Alves). Embargos de declaração rejeitados.” (RE 372.535 AgR-ED, Rel. Min. Carlos Britto, 1ª Turma, DJe 11.4.2008)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de maio de 2016.
+Ministra Rosa Weber
+Relatora
