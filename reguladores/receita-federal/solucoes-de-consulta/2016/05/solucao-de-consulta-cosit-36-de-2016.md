@@ -1,0 +1,16 @@
+Solução de Consulta Cosit nº 36, de 19 de abril de 2016
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA – IRPJ
+EMENTA: LUCRO PRESUMIDO. SERVIÇOS HOSPITALARES. PERCENTUAL DE PRESUNÇÃO.
+Para fins de aplicação do percentual de presunção de 8% (oito por cento), a ser aplicado sobre a receita bruta auferida no período de apuração pela pessoa jurídica, com vistas à determinação da base de cálculo do imposto, consideram-se serviços hospitalares aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde, prestados pelos estabelecimentos assistenciais de saúde que desenvolvem as atividades previstas nas atribuições 1 a 4 da RDC Anvisa nº 50, de 2002. Desse conceito estão excluídas as simples consultas médicas, que não se identificam com as atividades prestadas no âmbito hospitalar, mas nos consultórios médicos.
+Para fazer jus ao percentual de presunção referido, a prestadora dos serviços hospitalares deve, ainda, estar organizada, de fato e de direito, como sociedade empresária e atender às normas da Anvisa. Caso contrário, a receita bruta advinda da prestação dos serviços, ainda que caracterizados como hospitalares, estará sujeita ao percentual de presunção de 32% (trinta e dois por cento).
+DISPOSITIVOS LEGAIS: Lei nº 9.249, de 1995, art. 15, caput e §§ 1º, III, “a” e 2º; IN RFB nº 1.234, de 2012, art. 30 (com redação dada pela IN RFB nº 1.540, de 2015); Nota Explicativa PGFN/CRJ nº 1.114, de 2012, Anexo, item 52.
+ASSUNTO: CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL
+EMENTA: LUCRO PRESUMIDO. SERVIÇOS HOSPITALARES. PERCENTUAL DE PRESUNÇÃO.
+Para fins de aplicação do percentual de presunção de 12% (doze por cento), a ser aplicado sobre a receita bruta auferida no período de apuração pela pessoa jurídica, com vistas à determinação da base de cálculo da contribuição, consideram-se serviços hospitalares aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde, prestados pelos estabelecimentos assistenciais de saúde que desenvolvem as atividades previstas nas atribuições 1 a 4 da RDC Anvisa nº 50, de 2002. Desse conceito estão excluídas as simples consultas médicas, que não se identificam com as atividades prestadas no âmbito hospitalar, mas nos consultórios médicos.
+Para fazer jus ao percentual de presunção referido, a prestadora dos serviços hospitalares deve, ainda, estar organizada, de fato e de direito, como sociedade empresária e atender às normas da Anvisa. Caso contrário, a receita bruta advinda da prestação dos serviços, ainda que caracterizados como hospitalares, estará sujeita ao percentual de presunção de 32% (trinta e dois por cento).
+DISPOSITIVOS LEGAIS: Lei nº 9.249, de 1995, art. 15, caput e §§ 1º, III, “a” e 2º, e art. 20; IN RFB nº 1.234, de 2012, art. 30 (com redação dada pela IN RFB nº 1.540, de 2015); Nota Explicativa PGFN/CRJ nº 1.114, de 2012, Anexo, item 52.
+ASSUNTO: PROCESSO ADMINISTRATIVO FISCAL
+EMENTA: INEFICÁCIA PARCIAL. É ineficaz a consulta, não produzindo efeitos, quando tiver por objetivo a prestação de assessoria jurídica ou contábil-fiscal pela RFB.
+DISPOSITIVOS LEGAIS: Decreto nº 70.235, de 1972, art. 52, I, c/c art. 46. Instrução Normativa RFB nº 1.396, de 2013, art. 18, inciso XIV.
+a
+[arquivo anexo: SC Cosit nº 36-2016.pdf]
