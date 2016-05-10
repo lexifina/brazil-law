@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela União contra acórdão que, confirmado em sede de embargos de declaração pelo Tribunal Regional Federal da 1ª Região, está assim ementado (fls. 360):
+    “ADMINISTRATIVO. ENSINO SUPERIOR. PROUNI. RECEBIMENTO DE DOCUMENTAÇÃO PARA ANÁLISE. MATRÍCULA EM CASO DE PREENCHIMENTO DOS REQUISITOS. SENTENÇA MANTIDA.
+    1 – A estipulação de critérios para o recebimento de documentação destinada a comprovar o preenchimento dos requisitos para acesso às bolsas do PROUNI por parte das instituições de ensino deve viabilizar o amplo acesso dos interessados, não se afigurando razoável que o estudante tenha que remeter documentação para outra unidade da federação, quando a Universidade disponibiliza a vaga para aquela localidade, dispondo de unidade física no Estado de residência da estudante.
+    2 – Sentença que se limita a determinar o recebimento e exame da documentação, ordenando a efetivação da matrícula apenas em caso de cumprimento das exigências legais e regulamentares do programa.
+    3 – Apelação desprovida.”
+    A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal "a quo" teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário em questão revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal Regional Federal da 1ª Região, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos  fático-probatórios, a seguir destacados (fls. 357):
+    “Está devidamente comprovado que a autora procurou a instituição de ensino em sua cidade de residência, mesma localidade de opção para o curso a ter a matrícula efetivada pelas regras do PROUNI (fls. 17/18).
+    Também estão documentadas as comunicações com a instituição de ensino que demonstram a dificuldade para a entrega da documentação, quer por Correio, quer por outros meios de comunicação, como mensagem eletrônica ou fax.
+    Na decisão que antecipou a tutela e na sentença, o que se resguardou foi a possibilidade de apresentação da documentação, afastando as dificuldades impostas pela instituição de ensino superior. Assegurou-se a matrícula e a bolsa apenas se cumpridas todas as exigências legais e regulamentares.
+    Não há, portanto, qualquer fundamento para acolher a apelação da União, pois a sentença não determinou o deferimento de matrícula ou bolsa, apenas reconheceu que, inscrita no PROUNI, tinha o direito de ver sua documentação examinada, afastando os óbices impostos pela Universidade.”
+    Vê-se, portanto, que a pretensão deduzida pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 10 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
