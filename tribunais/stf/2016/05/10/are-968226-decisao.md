@@ -1,0 +1,16 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo, no qual a parte ora agravante sustenta que o órgão judiciário de origem teria transgredido os preceitos inscritos nos arts. 194 e 201 da Constituição da República.
+    Cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 8.213/91), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Impende assinalar, ainda, que o exame da presente causa evidencia que o recurso extraordinário em questão, nos termos em que interposto, não se revela processualmente viável, vez que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido demonstra que a E. Turma Recursal do Estado do Rio Grande do Sul, no julgamento do recurso inominado, sustentou as suas conclusões em dispositivos de ordem meramente legal e aspectos fático-probatórios a seguir destacados:
+    “Acerca da pensão por morte, dispõe a Lei 8.213/91 que:
+    Art. 74. A pensão por morte será devida ao conjunto dos dependentes do segurado que falecer, aposentado ou não, a contar da data:
+    I – do óbito, quando requerida até trinta dias depois deste;
+    II – do requerimento, quando requerida após o prazo previsto no inciso anterior;
+    No caso dos autos, o benefício de pensão por morte foi requerido cerca de 6 meses após o falecimento do segurado, inexistindo razões para o pagamento retroativo requerido eis que a autora é maior e capaz, portanto correta a sentença de improcedência do pedido.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 10 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
