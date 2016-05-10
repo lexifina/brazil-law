@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INEXISTÊNCIA DE PRELIMINAR DE REPERCUSSÃO GERAL. DESATENDIMENTO AO ART. 1.035, § 2º, DO CÓDIGO DE PROCESSO CIVIL E AO ART. 327 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Crime contra a honra. Falta de justa causa. Ausência de mínimos elementos a justificar o recebimento da queixa. Mantém rejeição” (doc. 4).
+    2. Inadmitiu-se o recurso extraordinário ao fundamento de inexistência de preliminar de repercussão geral.
+    3. O Agravante alega que, “se o não recebimento das graves denúncias se basearam em fatos inexistentes e que nunca fizeram parte dos autos, surgindo então decisões aberratórias, ao arrepio da lei, ao arrepio dos fatos e que me leva a crer sequer tenham sido lidas, já que nada se falou sobre os fatos narrados, ao contrário, se referiram a fatos completamente destoante e sem nexo”.
+    No recurso extraordinário ausente a indicação do dispositivo constitucional contrariado.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. O agravo não pode ter seguimento porque o Agravante não impugnou o fundamento da decisão agravada.
+     Este Supremo Tribunal assentou ser incabível o agravo no qual não se infirmam todos os fundamentos da decisão agravada:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287. AGRAVO IMPROVIDO. I - O agravo não atacou os fundamentos da decisão que inadmitiu o recurso extraordinário, o que o torna inviável, conforme a Súmula 287 do STF. Precedentes. II - Agravo regimental improvido” (ARE n. 654.292-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 25.10.2011).
+    6. O julgado recorrido foi publicado em 12.11.2015 (doc. 4), mas não há, na petição de recurso extraordinário, preliminar de repercussão geral da questão constitucional.
+    O Agravante descumpriu o art. 1.035, § 2º, do Código de Processo Civil e o art. 327 do Regimento Interno do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. INTIMAÇÃO DO RECORRENTE APÓS 3.5.2007. NECESSIDADE DE DEMONSTRAÇÃO FORMAL. REQUISITO NÃO OBSERVADO. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. COMPETÊNCIA DO JUÍZO PRIMEIRO DE ADMISSIBILIDADE, REALIZADO NO TRIBUNAL A QUO, PARA APRECIAR, COMO OCORREU NO CASO, A EXISTÊNCIA DA PRELIMINAR FORMAL E FUNDAMENTADA DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n. 718.993-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009).
+    “Agravo regimental em agravo de instrumento. 2. Apresentação expressa de preliminar formal e fundamentada sobre repercussão geral no recurso extraordinário. Necessidade. Art. 543-A, § 2º, do CPC. 3. Preliminar formal. Hipótese de presunção de existência da repercussão geral prevista no art. 323, § 1º, do RISTF. Necessidade. Precedente. 4. Ausência da preliminar formal. Negativa liminar pela Presidência no recurso extraordinário e no agravo de instrumento. Possibilidade. Art. 13, V, c, e 327, caput e § 1º, do RISTF. 5. Agravo regimental a que se nega provimento” (AI n. 744.686-AgR, Relator o Ministro Gilmar Mendes, Plenário, DJe 26.6.2009).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. PRELIMINAR FORMAL E FUNDAMENTADA. INEXISTÊNCIA. PETIÇÃO EM APARTADO. PRECLUSÃO CONSUMATIVA. PRECEDENTES. 1. A recorrente não ofereceu preliminar formal e adequadamente fundamentada, no que tange a eventual repercussão geral das questões constitucionais debatidas no caso, não tendo sido observado o disposto no artigo 543-A, § 2º, do Código de Processo Civil, introduzido pela Lei n. 11.418/06. 2. O Supremo Tribunal Federal fixou entendimento no sentido da exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas quando a intimação do acórdão recorrido tenha ocorrido a partir de 3 de maio de 2007, data da publicação da Emenda Regimental n. 21, de 30 de abril de 2007. Precedente. Agravo regimental a que se nega provimento” (AI n. 746.303-AgR, Relator o Ministro Eros Grau, Segunda Turma, DJe 9.6.2009).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de maio de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
