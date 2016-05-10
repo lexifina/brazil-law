@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Agravo – Precatório alimentar – Insurgimento contra decisão que determinou a incidência de juros compensatórios.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 78 do ADCT. Sustenta que “os juros compensatórios e moratórios, neste novo parcelamento, incidem até a data da Emenda nº 30, ou seja, 13/09/2000, sendo que, a partir de então só incidem o pagamento dos juros legais determinados pela Emenda Constitucional, uma vez que, em virtude do parcelamento, não existe mais mora ou juros compensatórios, ficando os débitos consolidados”.
+    O recurso extraordinário deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem não está alinhada com a jurisprudência desta Corte, que, ao julgar o mérito do RE 590.751-RG, Rel. Min. Ricardo Lewandowski, assentou não serem devidos juros moratórios e compensatórios no pagamento, na forma prevista no art. 78 do ADCT, de precatórios decorrentes de desapropriação, contanto que sejam respeitadas as épocas próprias de vencimento das prestações. Veja-se a ementa do mencionado paradigma:
+    “CONSTITUCIONAL. PRECATÓRIO. ART. 78 DO ADCT, INTRODUZIDO PELA EC 30/2000. INCIDÊNCIA DE JUROS COMPENSATÓRIOS E MORATÓRIOS NAS PARCELAS SUCESSIVAS. INADMISSIBILIDADE. ART 5º, XXIV E XXXVI, DA CONSTITUIÇÃO. OFENSA AO PRINCÍPIO DA JUSTA INDENIZAÇÃO. NECESSIDADE DE REEXAME DE PROVA. OFENSA REFLEXA. INCIDÊNCIA DA SÚMULA 279 DO STF. RE PARCIALMENTE PROVIDO.
+    I - O art. 78 do ADC possui a mesma mens legis que o art. 33 deste Ato, razão pela qual, uma vez calculado o precatório pelo valor real do débito, acrescido de juros legais, não há mais falar em incidência destes nas parcelas anuais, iguais e sucessivas em que é fracionado, desde que adimplidas a tempo e corrigidas monetariamente.
+    II Não se mostra possível, em sede de recurso extraordinário, examinar a alegação de ofensa ao princípio da justa indenização, abrigado no art. 5º, XXIV, da Constituição Federal, diante do que dispõe a Súmula 279 do STF.
+    III - A discussão acerca dos limites objetivos da coisa julgada, ademais, constitui matéria de legislação ordinária, que não dá ensejo à abertura da via extraordinária.
+    IV - Recurso extraordinário parcialmente provido”
+    Dessa orientação divergiu o acórdão recorrido, ao decidir que “a Fazenda Municipal de São Paulo, não bastasse se valer do favor da moratória constitucional, pagou a primeira parcela do precatório sem a atualização monetária do valor fracionado da indenização, nela compreendidos os juros compensatórios e o cômputo dos moratórios, devidos ex vi legis (cf. o texto expresso do art. 78 do ADCT/88, modificado pela EC n. 30/00)”.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário, a fim de excluir da condenação a incidência de juros compensatórios e limitar a incidência dos juros moratórios à hipótese de pagamento em atraso das parcelas.
+    Publique-se.
+          Brasília, 10 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
