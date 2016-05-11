@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Rondônia, assim ementado:
+    “Apelação criminal. Homicídio qualificado. Preliminares. Nulidades. Cerceamento de defesa. Violação aos arts. 564, “h” e 479 do CPP. Impossibilidade. Nulidade do Julgamento. Decisão contrária à prova dos autos. Não caracterização. Soberania do Júri. Qualificadoras. Exclusão. Impossibilidade. Soberania do Júri.
+    É inviável o reconhecimento da nulidade em razão da não intimação da vítima para depoimento em plenário, sendo inaplicável a ela todas as disposições inerentes às testemunhas, não sendo classificada como tal.
+    A apresentação em plenário de artigo científico ou publicação análoga que não trate de matéria fática não ofende o art. 479 do CPP, ainda que não tenha sido juntada aos autos no prazo mínimo que determina este dispositivo legal. Não há que se falar em decisão manifestamente contrária a prova dos autos, quando existente versão coerente e consentânea com os meios de provas existentes nos autos.
+    Confirma-se a decisão do júri popular que reconheceu ter o agente praticado o crime de homicídio qualificado pelo motivo torpe e uso de recurso que dificultou a defesa da vítima, quando tais qualificadoras encontrarem respaldo probatório nos autos.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV, da Constituição. Sustenta que “o julgamento não deveria ter ocorrido, uma vez que a defesa antes de seu início se manifestou em ata, pugnando pela suspensão dos trabalhos até a condução coercitiva das testemunhas arroladas com a cláusula de imprescindibilidade ou que fosse realizado o julgamento em outra data”. Afirma que “ler uma matéria jornalística em plenário de julgamento sem antes dar a outra parte o prévio conhecimento, volta-se aos tribunais medievais que utilizavam de qualquer sujeira para buscar a condenação a qualquer custo”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 11 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
