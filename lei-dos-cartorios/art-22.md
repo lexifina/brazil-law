@@ -1,1 +1,2 @@
-Art. 22. Os notários e oficiais de registro, temporários ou permanentes, responderão pelos danos que eles e seus prepostos causem a terceiros, inclusive pelos relacionados a direitos e encargos trabalhistas, na prática de atos próprios da serventia, assegurado aos primeiros direito de regresso no caso de dolo ou culpa dos prepostos.
+Art. 22. Os notários e oficiais de registro são civilmente responsáveis por todos os prejuízos que causarem a terceiros, por culpa ou dolo, pessoalmente, pelos substitutos que designarem ou escreventes que autorizarem, assegurado o direito de regresso.
+Parágrafo único. Prescreve em três anos a pretensão de reparação civil, contado o prazo da data de lavratura do ato registral ou notarial.
