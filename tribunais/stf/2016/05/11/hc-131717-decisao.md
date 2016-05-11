@@ -1,0 +1,43 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União em favor de Vinícius Soares da Silva, contra acórdão do Superior Tribunal Militar (STM) que não conferiu efeitos infringentes aos Embargos de Declaração nº 69-65.2013.7.04.0004/DF.
+    Consta dos autos que o paciente foi condenado à pena de 1 ano, 11 meses e 10 dias de reclusão, como incurso no art. 254 do Código Penal Militar (receptação), porquanto foi flagrado na condução de viatura militar descaracterizada após a sua subtração.
+    Irresignada, a defesa interpôs recurso de apelação no Superior Tribunal de Justiça, que negou provimento ao apelo em acórdão assim ementado:
+    “APELAÇÃO. DEFESA. RECEPTAÇÃO (CPM, ART. 254). CONJUNTO PROBATÓRIO SUFICIENTE. AUSÊNCIA DE DOLO. NÃO CARACTERIZAÇÃO. REDUÇÃO DA PENA. IMPOSSIBILIDADE. MANUNTENÇÃO DA SENTENÇA CONDENATÓRIA. (...)”
+    Opostos embargos de declaração, estes restaram acolhidos tão somente para sanar a omissão quanto ao enfrentamento das teses da Defesa levantadas em sustentação oral, sem qualquer efeito infringente.
+    Daí a impetração do presente habeas corpus, no qual a defesa alega, em síntese, a incompetência da Justiça Militar para processar e julgar o feito, uma vez que o paciente é cidadão civil, não restando comprovado nos autos que o bem objeto da receptação é de propriedade da Administração Militar.
+    Requer a concessão de medida liminar para determinar a suspensão dos efeitos do acórdão proferido pelo STM até o julgamento final deste writ. No mérito, pede a concessão definitiva da ordem para declarar a incompetência da Justiça Militar.
+    Indeferi o pedido liminar.
+    A Procuradoria-Geral da República manifestou-se pela concessão da ordem.
+    É o relatório.
+    Decido.
+    No caso dos autos, a defesa alega a incompetência da Justiça Militar para processar e julgar o feito, porquanto o paciente é cidadão civil, não restando comprovado nos autos que o bem objeto da receptação é de propriedade da Administração Militar.
+    Vale registrar que a competência da Justiça Militar é excepcional, sobretudo quando se trata de crime praticado por civil, como é o caso dos autos. O artigo 9º, III, do CPM, é expresso ao prever os casos em que a competência da Justiça Castrense para processar e julgar civis está caracterizada:
+    “Art. 9º: Consideram-se crimes militares, em tempo de paz:
+    (...)
+    III - os crimes praticados por militar da reserva, ou reformado, ou por civil, contra as instituições militares, considerando-se como tais não só os compreendidos no inciso I, como os do inciso II, nos seguintes casos:
+    a) contra o patrimônio sob a administração militar, ou contra a ordem administrativa militar” (Grifei)
+    O dispositivo penal de receptação está situado no Título V, dos Crimes contra o Patrimônio, Capítulo V, Da Receptação, com a seguinte redação: “adquirir, receber ou ocultar em proveito próprio ou alheio, coisa proveniente de crime, ou influir para que terceiro, de boa-fé, a adquira, receba ou aculte. Pena – reclusão, até cinco anos”.
+    O sujeito ativo da conduta, conforme se denota do tipo, pode ser militar em atividade, da reserva ou reformado, ou, ainda, o civil. Por outro lado, o sujeito passivo é a Administração Militar da União.
+    Caracteriza-se como crime militar impróprio, uma vez que a conduta pode ser praticada por militar (ativo e inativo) ou civil, e consta do rol dos crimes militares do CPM.
+    É certo que a jurisprudência desta Corte, há muito, vem construindo o entendimento restritivo no sentido de que o civil somente deve ser submetido à Justiça Militar quando o bem jurídico protegido pela norma esteja diretamente ligado às instituições militares da União, seu patrimônio, segurança e respeitabilidade, contanto que estejam situados na essência da atividade castrense, sob pena de desrespeito aos princípios do juiz natural e do devido processo legal.
+    Como bem assentou o Min. Celso de Mello, no voto condutor do HC 109.544-MC/BA (DJe 31.8.2011), julgado por unanimidade pela Segunda Turma, ao dispor que:
+    “A tentativa de o Estado pretender sujeitar, arbitrariamente, a Tribunais castrenses, em tempo de paz, réus civis, fazendo instaurar, contra eles, perante órgãos da Justiça Militar da União, fora das estritas hipóteses legais, procedimentos de persecução penal, por suposta prática de crime militar, representa clara violação ao princípio constitucional do juiz natural (CF, art. 5º, LIII).
+    Não se pode deixar de acentuar, bem por isso, o caráter anômalo da submissão de civis, notadamente em tempo de paz, jurisdição dos Tribunais e órgãos integrantes da Justiça militar da União, por suposta prática de crime militar, especialmente se se tiver em consideração que tal situação - porque revestida de excepcionalidade – só se legitima se e quando configuradas, quanto a réus civis, as hipóteses delineadas em sede legal e cujo reconhecimento tem merecido, do Supremo Tribunal Federal, estrita interpretação”.
+    Ainda segue o Relator afirmando:
+    “(…) que não se tem por configurada a competência da Justiça Militar da União, em tempo de paz, tratando-se de réus civis, se a ação eventualmente delituosa, por eles praticada, não afetar, de modo real ou potencial, a integridade, a dignidade, o funcionamento e a respeitabilidade das instituições militares que constituem, em essência, os bens jurídicos penalmente tutelados.
+    Mostra-se grave, por isso mesmo, a instauração, em tempo de paz, de inquérito policial militar (IPM) contra civil, com o objetivo de submetê-lo, fora dos casos autorizados em lei, a julgamento perante a Justiça Militar da União!”.
+    Contudo, a Primeira Turma, em situações análogas, vem-se posicionando no sentido de submeter o civil àquela Justiça. Cito os seguintes julgados: HC 109.574, Rel. Min. Dias Toffoli, 1ª Turma, DJe de 17.12.2012; HC 113.423, Rel. Ministra Rosa Weber, 1ª Turma, DJe 27.2.2013; HC 113.162/BA, Rel. Luiz Fux, 1ª Turma, DJe de 29.4.2013 e HC 119.581/PA, Rel. Ministro Dias Toffoli, 1ª Turma, DJe 7.5.2014.
+    Colho, ainda, precedente desta Segunda Turma no mesmo sentido: HC 117.335/PA, de minha relatoria, DJe 11.11.2013. Eis a ementa desse julgado:
+    “Habeas corpus. 2. Furto (art. 240, caput, do CPM). Saques indevidos de pensão militar. Crime militar praticado por civil. 3. Competência para processo e julgamento. Art. 9º, III, a, do CPM: ofensa a patrimônio sob administração militar. Fixação da competência da Justiça Militar. Precedentes. 4. Ordem denegada.”
+    Dessa forma, a tipicidade formal da norma incriminadora contida no art. 254 do CPM admite a possibilidade da persecução criminal pela Justiça Militar quando o agente for civil.
+    Daí a tese defensiva se pautar no fato de o bem objeto da receptação ser ou não de propriedade da Administração Militar.
+    Compulsando os autos, verifico que, apesar de não estar acostado ao processo documento de propriedade do veículo, é inconteste o fato de o bem tratar-se de viatura descaracterizada pertencente ao Exército Brasileiro, segundo Boletim de ocorrência, Auto de Prisão em Flagrante, Termo de Apreensão e provas testemunhais. (eDOC 3-4)
+    Pertinente colacionar os fatos relatados pelo STM:
+    “Consta dos autos que, no dia 18 de julho de 2013, o veiculo Fiat Uno, cor branca, placa GMF 2979, da 4ª Companhia de Comunicações, sediada em Belo Horizonte/MG, foi levado e deixado pelo 3º Sgt ERNANI JOSÉ DE MATTOS na oficina mecânica Proauto Alinhamento e Balancemento Ltda., para alguns reparos. Após a realização dos serviços, para a liberação de espaço no interior da oficina, a viatura foi estacionada por um funcionário na rua próxima à oficina. Ocorre que, por volta das 18:15h, a proprietária da oficina percebeu que o veículo havia sido furtado, tendo, em consequência, entrado em contato com a referida Organização Militar e com a Polícia Militar para relatar o fato e registrar a ocorrência.”
+    Assim, o bem tutelado por essa norma, sem dúvida, é o patrimônio sob a Administração Militar, in casu, veículo automotor descaracterizado, receptado pelo paciente, portanto em consonância com o entendimento restritivo desta Corte para julgamento dos casos de civis que devam ser submetidos ao rito especial castrense, nos termos do art. 124 da CF/88.
+    Dessarte, a competência para julgamento da ação penal é da Justiça Militar.
+    Ante o exposto, ausente constrangimento ilegal a ser sanado, denego a presente ordem de habeas corpus, com fundamento no art. 192, caput, RISTF.
+    Publique-se.
+    Brasília, 11 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
