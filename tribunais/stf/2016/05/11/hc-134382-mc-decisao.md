@@ -1,0 +1,42 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União, em favor de Itamar Pires Caetano, contra acórdão da Quinta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao RHC n. 66.178/MG.
+    Eis a ementa desse julgado:
+    “PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+    1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+    2. No caso dos autos, o recorrente possui diversas anotações criminais em sua folha de antecedentes, circunstância que justifica sua segregação cautelar para garantia da ordem pública, como forma de conter a reiteração delitiva.
+    3. Recurso ordinário em habeas corpus desprovido”.
+    Na espécie, o paciente foi preso em flagrante e denunciado em razão da suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de entorpecentes).
+    A custódia foi então convertida em prisão preventiva.
+    Irresignada, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Minas Gerais, requerendo a revogação da custódia cautelar. A Corte estadual denegou a ordem em acórdão assim ementado:
+    “HABEAS CORPUS - TRÁFICO ILÍCITO DE ENTORPECENTES - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - DENEGAÇÃO DA LIBERDADE PROVISÓRIA - REQUISITOS DO ARTIGO 312 DO CPP - GARANTIA DA ORDEM PÚBLICA - DESPROPORCIONALIDADE DA PRISÃO PREVENTIVA COM A PENA DEFINITIVA EM CASO DE EVENTUAL CONDENAÇÃO - MOMENTO PROCESSUAL INOPORTUNO - CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+    Evidenciada a gravidade concreta do crime em tese cometido, diante da diversidade e natureza dos entorpecentes apreendidos, mostra-se necessária a continuidade da segregação provisória para o bem da ordem pública. As condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a decretação da prisão provisória. É incabível a alegação de que a prisão preventiva afronta o principio da proporcionalidade, pois caberá ao juízo, no momento oportuno, após a análise de todas as provas, julgar a causa e, em caso de condenação, dosar a pena, o que demanda valoração probatória e exame completo das circunstâncias judiciais previstas no art. 59 do CP, fixar o regime de cumprimento e substituir a pena corporal por pena alternativa, o que é inviável na via estreita do writ.”
+    Daí a interposição de recurso ordinário em habeas corpus perante o STJ, que negou provimento ao apelo, consoante ementa transcrita.
+    Neste writ, a defesa reitera as alegações suscitadas nas demais instâncias, reforçando a tese de carência de fundamentação idônea do decreto da prisão preventiva do paciente, porquanto embasada na gravidade abstrata, reputando ausentes os requisitos autorizadores da medida, previstos no art. 312 do CPP.
+    Sustenta que:
+    “A quantidade de droga e a suposta reiteração delitiva foram considerados como motivos aptos a justificar a prisão preventiva, isto porque foi encontrado com o paciente duas buchas de maconha e 9 (nove) pedras de crack.
+    No entanto não há como mensurar qual a quantidade pode ensejar fundamentação idônea em casos como esse, ficando esta decisão livre a discricionariedade do juiz, tampouco à reiteração, sendo que não há como prever que o paciente possa voltar a cometer delitos”. (eDOC 1)
+    Ressalta, ainda, que o paciente ostenta condições pessoais favoráveis, tais como primariedade, bons antecedentes e residência fixa.
+    Requer, liminarmente e no mérito, seja revogado o decreto de prisão preventiva e expedido alvará de soltura em favor da paciente.
+    Breve relato.
+    Decido.
+    A concessão de liminar em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora.
+    No caso dos autos, em uma análise preliminar, não vislumbro a presença dos requisitos exigidos para a concessão da medida liminar. Explico.
+    De um modo geral, a prisão preventiva deve indicar, de forma expressa, os seguintes fundamentos para a sua decretação, nos termos do art. 312 do CPP: I) garantia da ordem pública; II) garantia da ordem econômica; III) garantia da aplicação da lei penal; e IV) conveniência da instrução criminal.
+    Entendo, a priori, que o Juízo de origem indicou elementos mínimos concretos e individualizados, aptos a demonstrar a necessidade da prisão preventiva, sobretudo para garantir a ordem pública, atendendo, assim, ao disposto no artigo 312 do CPP, que rege a matéria e à interpretação que dá ao dispositivo o STF.
+    Por oportuno, transcrevo trecho do acórdão proferido pelo TJ/MG:
+    “Consta no auto de prisão em flagrante (fis. 11/14) que policiais militares receberam denúncia anônima noticiando que um indivíduo conhecido como Itinho estava praticando tráfico de drogas ria Rua João Porphirlo Souza, no Bairro Antônio Maranhão, em Ubá. Em razão disso, eles foram até o local e abordaram o paciente, com quem foram encontradas duas buchas de maconha e nove pedras de crack, já em invólucros e prontas para a venda.
+    Os militares ainda ressaltaram que o paciente confirmou a propriedade das substâncias entorpecentes e especificou o valor pelo qual as vendida.
+    Ao todo, segundo o laudo de constatação preliminar de fl. 26, foram apreendidos, aproximadamente, 1,5 g de crack e 3,2 g de maconha.
+    Em primeiro lugar, ressalta-se que, no presente caso, há prova da materialidade delitiva e há indícios suficientes da autoria, visto que, conforme resta documentado nos autos, os entorpecentes foram apreendidos com o paciente, que confessou que os mantinha para venda.
+    E nem se diga que há ofensa ao princípio constitucional de presunção de inocência no mero reconhecimento dos indícios de autoria e da prova da materialidade para a decretação da prisão preventiva, pois a prisão cautelar está igualmente previstas na Carta Magna, artigo 5°, inciso LXI, e é possível mitigar a liberdade em hipótese estritamente necessária, quando devidamente fundamentada pelo juiz, conforme entendo ser o caso.
+    Penso que, apesar da pequena quantidade das drogas apreendidas, a sua diversidade e natureza, e o fato de que o paciente tem diversas passagens policiais, conforme consta em sua CAC (fls. 40/41), evidenciam a gravidade concreta do crime e a real periculosidade social do agente, autorizando a adoção da medida extrema, tendo em vista a proteção da ordem pública, conforme fez a autoridade apontada como coatara (fis. 65/67).” (eDOC 6)
+    Destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública considerada a gravidade concreta dos crimes e em virtude do fundado receio de reiteração delitiva (HC 122.894/PR, de minha relatoria, Segunda Turma, DJe 1º.9.2014; AgR no HC 125.290/MG, rel. min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 119.715/TO, rel. min. Teori Zavascki, Segunda Turma, DJe 29.5.2014 e HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015).
+    Ademais, ressalto que a jurisprudência do Supremo Tribunal Federal é no sentido de que a primariedade e os bons antecedentes do réu, por si sós, não afastam a possibilidade da prisão preventiva (cf.: HC n. 98.113/RJ, rel. Min. Ellen Gracie, 2ª Turma, DJe 12.3.2010; HC n. 96.235/SP, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 5.3.2010; HC n. 98.331/SP, rel. Min. Ellen Gracie, 2ª Turma, DJe 11.12.2009).
+    Dessa forma, salvo melhor juízo quanto ao mérito, os fundamentos adotados pela decisão proferida pelo STJ, assim como os demais elementos constantes dos autos, não autorizam a concessão da liminar.
+    Por fim, ressalto que merece o caso exame mais detalhado quanto às alegações levantadas pela impetrante, o que se dará no julgamento de mérito deste feito, até porque a motivação que dá suporte ao pedido liminar confunde-se com o próprio mérito.
+    Ante o exposto, indefiro o pedido de medida liminar.
+    Abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 11 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
