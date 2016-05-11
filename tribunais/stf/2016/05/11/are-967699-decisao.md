@@ -1,0 +1,38 @@
+PREVIDENCIÁRIO. RECURSO EXTRAORDINÁRIO COM AGRAVO. PENSÃO POR MORTE. COISA JULGADA CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo nas alíneas a e b do permissivo constitucional, contra acórdão que assentou, verbis:
+    “Cuida-se de ação de pensão por morte proposta em face do INSS.
+    O processo foi extinto, sem resolução de mérito, tendo a r. sentença reconhecido a coisa julgada.
+    Recorre a parte autora pleiteando, em síntese, a reforma da decisão que extinguiu o feito e a procedência do pedido formulado na inicial.
+    (…)
+    Verifico que não assiste razão à parte recorrente.
+    Não se pode olvidar que o processo apontado no termo de prevenção de nº 00872002820064036301 tem as mesmas partes, a mesma causa de pedir e o mesmo pedido do caso em tela, configurando a coisa julgada.
+    (…)
+    Ante o exposto, NEGO PROVIMENTO ao recurso interposto, nos termos supra aduzidos.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 1º, III, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Verifica-se que o artigo 1º, III, da Constituição Federal, que a agravante considera violado, não foi debatido no acórdão recorrido. Além disso, os embargos de declaração opostos não sanaram tal omissão, faltando, ao caso, o necessário prequestionamento da questão constitucional, o que inviabiliza a pretensão de exame do recurso extraordinário. Incide, portanto, o óbice das Súmulas 282 e 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+    A respeito da aplicação das aludidas súmulas, assim discorre Roberto Rosas:
+    “A Constituição de 1891, no art. 59, III, a, dizia: 'quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela'.
+    De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: ‘quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado’.
+    Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+    (...)
+    Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+    A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+    O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 139-140 e 175-176).
+    Nesse sentido, AI 738.029-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 25/6/2013, e ARE 737.360-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 24/6/2013, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Agravo regimental improvido.”
+    Demais disso, ainda que ultrapassado esse óbice, dissentir do que decidido pelo Tribunal a quo quanto às razões que o levaram à manutenção da sentença de extinção do processo sem resolução de mérito, demanda a análise de legislação infraconstitucional. Ora, a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido:
+    “DIREITO PROCESSUAL CIVIL. MANDADO DE SEGURANÇA COLETIVO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. ART. 267, VI, DO CPC. FEDERAÇÃO. LEGITIMIDADE ATIVA. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 04.6.2010.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido.” (AI 648.256-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 26/5/2015).
+    “Agravo regimental no recurso extraordinário com agravo. Direito processual civil. Princípio do devido processo legal. Motivação das decisões judiciais. Ofensa reflexa. Litispendência. Fixação de honorários advocatícios. Legislação infraconstitucional. Reexame. Fatos e provas. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Não procede a alegada violação do art. 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. 3. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido.” (ARE 822.725-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 23/2/2015).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 11 de maio de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
