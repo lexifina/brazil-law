@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 2°, 37, caput, 205 e 207 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A verificação da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo demanda prévio reexame da interpretação conferida pelo Tribunal de origem a cláusulas editalícias, bem como o revolvimento do quadro fático delineado, o que é vedado a esta instância extraordinária, a teor das Súmulas 279 e 454/STF: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Constitucional e Administrativo. Ensino superior. Matrícula. Perda de prazo. Motivos justificados. Razoabilidade e proporcionalidade. 3. Impossibilidade de interpretação de cláusulas editalícias e revolvimento do conjunto fático-probatório. Súmulas 279 e 454. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento”. (ARE 844919 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 03/03/2015, PROCESSO ELETRÔNICO DJe-050 DIVULG 13-03-2015 PUBLIC 16-03-2015).
+    Quanto à alegada violação do art. 2º da Lei Fundamental, o Supremo Tribunal Federal entende que exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. Nesse sentido: RE 417.408-AgR/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 26.4.2012; ARE 655.080-AgR/DF, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 09.9.2012, este assim ementado:
+    "Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. 4. Controle judicial dos atos administrativos quando eivados de ilegalidade ou abuso de poder. Possibilidade. Ausência de violação ao Princípio da separação de Poderes. Precedentes do STF. 5. Discussão acerca da existência de ilegalidade e quanto à apreciação do preenchimento dos requisitos legais, pela agravada, para investidura no cargo público de magistério estadual. Necessário reexame do conjunto fático-probatório da legislação infraconstitucional e do edital que rege o certame. Providências vedadas pelas súmulas 279, 280 e 454. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento".
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de maio de 2016.
+Ministra Rosa Weber
+Relatora
