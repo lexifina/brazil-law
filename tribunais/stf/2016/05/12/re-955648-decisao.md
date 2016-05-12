@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CRÉDITO TRIBUTÁRIO – PRESCRIÇÃO – ARTIGOS 3º E 4º, SEGUNDA PARTE, DA LEI COMPLEMENTAR Nº 118/05 – NEGATIVA DE SEGUIMENTO.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal da 3ª Região reformou o Juízo, assentando a prescrição quinquenal na compensação de valores recolhidos indevidamente de Imposto de Renda Pessoa Jurídica – IRPJ sobre o Programa de Alimentação do Trabalhador – PAT, em observância à Lei Complementar nº 118/05. Asseverou a aplicação do artigo 170-A do Código Tributário Nacional quanto a impossibilidade de compensação imediata dos créditos pleiteados.
+    No extraordinário cujo trâmite busca alcançar, a recorrente alega violados os artigos 2º, 5º, cabeça e incisos XXXV e XXXVI, 150, incisos II e III, da Carta Política. Sustenta a irretroatividade da prescrição quinquenal prevista na Lei Complementar nº 118/05, mantida a garantia do direito adquirido e do ato jurídico perfeito. Aduz a inconstitucionalidade do artigo 170-A do Código Tributário Nacional, por afastar o controle judicial sobre o tema.
+    2. O Colegiado de origem decidiu em harmonia com o Supremo Tribunal Federal. O Tribunal, no julgamento do recurso extraordinário nº 566.621/RS, da relatoria da ministra Ellen Gracie, concluiu ser inconstitucional a aplicação dos artigos 3º e 4º, segunda parte, da Lei Complementar nº 118/2005 às situações anteriores à vigência da norma, isto é, 9 de junho de 2005, considerada a data de propositura da demanda.
+    Tendo o pedido inicial sido formulado em 24 de setembro de 2009, a aplicação da aludida norma complementar deve ser observada.
+    Acresce ser inviável a apreciação, em recurso extraordinário, de alegada violação ao direito adquirido, ao ato jurídico perfeito, aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e da inafastabilidade da jurisdição, uma vez que, se houvesse, seria meramente indireta ou reflexa, já que é imprescindível o exame de normas infraconstitucionais. Nesse sentido: ARE 748.371-RG/MT, Min. GILMAR MENDES, Tema 660, Plenário, DJe de 1º/8/2013; AI 796.905AgR/PE, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/5/2012; AI 622.814-AgR/PR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/3/2012; e ARE 642.062-AgR/RJ, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/8/2011.
+    3. Ante o precedente, nego provimento ao extraordinário.
+    4. Publiquem.
+Brasília, 12 de maio de 2016.
+Ministro MARCO AURÉLIO
+Relator
