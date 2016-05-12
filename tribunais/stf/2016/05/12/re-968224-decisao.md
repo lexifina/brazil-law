@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade aos artigos 5º , caput, e 150, inciso II, da Constituição Federal.
+    Anote-se a ementa da decisão recorrida:
+    “TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. IBAMA. TAXA DE CONTROLE E FISCALIZAÇÃO AMBIENTAL. TCFA. EMPRESA DE GRANDE PORTE. DESPROPORCIONALIDADE NA MULTA. EXCESSO DE PENHORA.
+    A alegação de desproporção na multa aplicada depende do afastamento da lei, seja por inconstitucionalidade ou ilegalidade, pois o anexo IX da Lei nº 6.938/81 mencionado na sentença não permite aplicação parcial dos valores devidos a título de TCFA.
+    A tabela do Anexo VIII da Lei nº 6.938/81, considerando uma empresa de grande porte, apenas diferencia as multas conforme o potencial poluidor da atividade que a empresa desenvolve. E no caso da executada, a atividade de fiscalização exercida pelo IBAMA constatou que a apelante tem potencial poluição em grau alto.
+    Embargos improvidos.”
+    Decido.
+    Não merece prosperar a irresignação, uma vez que o acórdão recorrido está em sintonia com a jurisprudência desta Corte que firmou entendimento no sentido de ser constitucional a Taxa de Controle e Fiscalização Ambiental – TCFA designada pela Lei nº 10.165/2000. Nesse sentido, anote-se:
+    “EMENTA: TRIBUTÁRIO. TAXA DE CONTROLE E FISCALIZAÇÃO AMBIENTAL. CONSTITUCIONALIDADE. LEIS 6.938/81 E 10.165/2000. AGRAVO IMPROVIDO. I - Constitucionalidade da Taxa de Controle e Fiscalização Ambiental, objeto da Lei 6.938/81, com a redação dada pela Lei 10.165/2000. Precedente do Plenário. II - Agravo regimental improvido” (AI n° 638.092/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 17/4/09).
+    “Agravo regimental em agravo de instrumento. 2. Taxa de Controle e Fiscalização Ambiental. Lei no 10.165/2000. Constitucionalidade. Precedentes. 3. Agravo regimental a que se nega provimento” (AI nº 638.133/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 28/3/08).
+    “1. RECURSO. Extraordinário. Inadmissibilidade. Taxa de Controle e Fiscalização Ambiental - TCFA. Lei nº 10.165, de 27.12.2000. Constitucionalidade. Precedente do Plenário. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental quando a parte agravante não infirma os fundamentos adotados na decisão agravada. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar a agravante a pagar multa ao agravado” (RE nº 421.279/SC-AgR, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 2/6/06).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TAXA DE CONTROLE E FISCALIZAÇÃO AMBIENTAL - TCFA. INSTITUTO BRASILEIRO DO MEIO AMBIENTE E RECURSOS NATURAIS E RENOVÁVEIS - IBAMA. LEI Nº 10.165/2000. LEGITIMIDADE. PLENÁRIO. O Supremo Tribunal Federal declarou a legitimidade da Taxa de Controle e Fiscalização Ambiental - TCFA, no julgamento do RE 416.601, Relator o Ministro Carlos Velloso. A propósito, menciono as seguintes decisões singulares, todas com trânsito em julgado: RE 465.371, Relator o Ministro Sepúlveda Pertence; RE 440.890, Relator o Ministro Gilmar Mendes; 464.006, Relator o Ministro Celso de Mello; e RE 433.025, de minha relatoria. Agravo regimental desprovido” (RE nº 401.071/SC-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 23/6/06).
+    “CONSTITUCIONAL. TRIBUTÁRIO. IBAMA: TAXA DE FISCALIZAÇÃO. Lei 6.938/81, com a redação da Lei 10.165/2000, artigos 17-B, 17-C, 17-D, 17-G. C.F., art. 145, II. I. - Taxa de Controle e Fiscalização Ambiental - TCFA - do IBAMA: Lei 6.938, com a redação da Lei 10.165/2000: constitucionalidade. II. - R.E. conhecido, em parte, e não provido” (RE nº 416.601/DF, Tribunal Pleno, Relator o Ministro Carlos Velloso, DJ de 30/9/05).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 12 de maio de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
