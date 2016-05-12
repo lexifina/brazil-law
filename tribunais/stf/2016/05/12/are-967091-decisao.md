@@ -1,0 +1,28 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 1º, III, 5º, LIV, 6º e 201, I, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A Corte de origem decidiu a controvérsia nos seguintes termos:
+    “Em perícia com médica cardiologista (evento 23), o expert afirmou que a parte recorrente apresenta cardiopatia hipertensiva (CID I11) e acidente vascular cerebral (CID I67), concluindo pela sua incapacidade total e permanente desde setembro de 2013.
+    Verifica-se que o ponto controverso, no caso dos autos, são as contribuições vertidas pela parte autora como segurada facultativa de baixa renda no período de 09/2012 a 08/2013, as únicas contribuições vertidas pela parte autora.
+    Ainda, em atenção ao CNIS (evento 36), verifica-se que a parte autora recebe benefício de pensão por morte (NB 631123830) desde 22/02/1995.
+    No que tange ao recolhimento como segurada facultativa pagando o percentual de 5% sobre o salário mínimo, para fins de enquadramento nessa modalidade, deverá a dona de casa não possuir renda própria e dedicar-se ao trabalho doméstico no âmbito de sua residência, desde que pertencente à família de baixa renda.
+    Desse modo, a lei 12.470/2011 deu nova redação aos §§2º e 4º do art. 21 da lei 8.212/91. In verbis:
+    § 2º No caso de opção pela exclusão do direito ao benefício de aposentadoria por tempo de contribuição, a alíquota de contribuição incidente sobre o limite mínimo mensal do salário de contribuição será de:
+    I - 11% (onze por cento), no caso do segurado contribuinte individual, ressalvado o disposto no inciso II, que trabalhe por conta própria, sem relação de trabalho com empresa ou equiparado e do segurado facultativo, observado o disposto na alínea b do inciso II deste parágrafo;
+    II - 5% (cinco por cento): a) no caso do microempreendedor individual, de que trata o art. 18-A da Lei Complementar no 123, de 14 de dezembro de 2006; e b) do segurado facultativo sem renda própria que se dedique exclusivamente ao trabalho doméstico no âmbito de sua residência, desde que pertencente a família de baixa renda.
+    § 4º Considera-se de baixa renda, para os fins do disposto na alínea b do inciso II do § 2º deste artigo, a família inscrita no Cadastro Único para Programas Sociais do Governo Federal - CadÚnico cuja renda mensal seja de até 2 (dois) salários mínimos.' (grifos acrescidos)
+    Nesse passo, tenho que as guias de recolhimento apresentadas pela parte autora no evento 54 não podem ser caracterizadas como contribuições vertidas ao RGPS, pois, além de não ter havido validação pela entidade competente do cadastro como segurada facultativa de baixa renda, a parte autora não comprovou em juízo se enquadrar nos requisitos exigidos para tal classificação, porquanto percebe rendimento próprio desde 1995 em razão do recebimento de benefício de pensão por morte.
+    Isso posto, com base na data fixada pela perícia médica como de início da incapacidade (09/2013) e não tendo a parte autora vertida qualquer contribuição válida, não faz jus, portanto, ao benefício pleiteado.”
+    Verifico que no julgamento do ARE 821.296-RG , Rel. Min. Roberto Barroso, Tribunal Pleno, DJe 17.10.2014, esta Suprema Corte decidiu pela inexistência de repercussão geral da matéria relacionada à verificação dos requisitos legais necessários para concessão de benefício previdenciário, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Veja-se:
+    "PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. VERIFICAÇÃO DOS REQUISITOS PARA CONCESSÃO DO BENEFÍCIO. 1. Hipótese em que o acórdão recorrido consigna a ausência dos requisitos necessários à concessão do auxílio-doença. 2. Discussão que envolve matéria infraconstitucional, além de exigir o revolvimento da matéria fática (Súmula 279/STF). 3. Inexistência de repercussão geral.” (ARE 821296 RG, Relator(a): Min. ROBERTO BARROSO, julgado em 25/09/2014, PROCESSO ELETRÔNICO DJe-203 DIVULG 16-10-2014 PUBLIC 17-10-2014)
+    Constato, ainda, que no julgamento do RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, decidiu-se pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do devido processo legal, do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, cuja ementa transcrevo:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de maio de 2016.
+Ministra Rosa Weber
+Relatora
