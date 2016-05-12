@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 43, de 19 de abril de 2016
+ASSUNTO NORMAS DE ADMINISTRAÇÃO TRIBUTÁRIA EMENTA: AUTARQUIA FEDERAL. RETENÇÃO DE TRIBUTOS NA FONTE. CÓDIGO DE RECEITA. SERVIÇOS DE ADMINISTRAÇÃO DE BENS. Deve a consulente, autarquia federal, nos pagamentos efetuados a contratada, relativamente à prestação de serviços de administração de sua frota de veículos (administração de bens móveis), no tocante a abastecimento de combustível e à manutenção automotiva, promover a retenção sobre o valor total constante da nota fiscal emitida pela contratada, sob à alíquota de 9,45% (nove vírgula quarenta e cinco por cento), código de receita 6190, conforme determinação contida no Anexo 1 combinado com o art. 3º, caput, todos, da Instrução Normativa RFB nº 1.234, de 2012. DISPOSITIVOS LEGAIS: IN RFB nº 1.234/2012, arts. 3º, Anexo 1.
+Novo segmento
+[arquivo anexo: SC Cosit nº 43-2016.pdf]
