@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se de reclamação, com pedido liminar, contra decisão que deixou de remeter a este Tribunal agravo em recurso extraordinário (art. 544 do CPC/73).
+    O reclamante narra que, contra acórdão de Turma Recursal que manteve sentença de improcedência de pedidos de declaração de inexistência de débito, indenização e cancelamento de contrato de consumo, interpôs recurso extraordinário em que alegou ofensa aos arts. 5º, X, XXXII, XXXV, e 170, V, da CRFB/88. Deduz que, no juízo primário de admissibilidade, a Terceira Vice-Presidência do TJ/RJ teria inadmitido o recurso extraordinário em uma parte e, em outra, aplicado os efeitos da ausência de repercussão, conforme tema 417 (“Responsabilidade civil por dano material em face de relações contratuais e extracontratuais”) .
+    Inconformada, a parte interpôs agravo do art. 544 do CPC/73 na parte que entendeu ser relativa à inadmissão do recurso extraordinário e agravo regimental contra aplicação da sistemática da repercussão geral. O Órgão Especial do TJ/RJ negou provimento ao agravo regimental; o Terceiro Vice-Presidente deixou de conhecer do agravo do art. 544 do CPC, nos seguintes termos:
+    “Trata-se de agravo, com fundamento no artigo 544 do Código de Processo Civil, interposto contra o acórdão proferido no âmbito do e. Órgão Especial.
+    É patente o não cabimento do recurso de agravo com fundamento no artigo 544 do Código de Processo Civil, considerando que a decisão contra a qual se insurge o agravante não configura decisão de inadmissão de recurso extraordinário ou especial, nada havendo a prover para ale´m do seu não conhecimento.
+    Pelo exposto, DEIXO DE CONHECER do agravo de fls. 14./150.
+    Quanto ao recurso de fls. 135/145, a toda evidência, trata-se de um segundo recurso interposto contra a decisão de fls. 102/104, razão pela qual dele não conheço face à preclusão consumativa ocorrida em obediência ao princípio da unirrecorribilidade das decisões”.
+    Opostos embargos de declaração, a decisão foi mantida.
+    Na presente reclamação, a reclamante alega que, por possuir dois capítulos decisórios distintos, a decisão que realizou o juízo de admissibilidade e aplicou a parte do recurso extraordinário a sistemática da repercussão geral seria impugnável por meio de agravo regimental e agravo do art. 544 do CPC/73, devendo o órgão reclamado ter dado regular trâmite a este. Com base nisso, sustenta a ocorrência de usurpação da competência do STF para apreciar o agravo em recurso extraordinário.
+    As informações foram prestadas pela autoridade reclamada. O beneficiário da decisão reclamada manifestou-se pela manutenção daquela.
+    É o relatório. Decido.
+    Dispenso a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único).
+    As alegações do reclamante não condizem com a realidade fática dos autos. Com efeito, a decisão que realizou o juízo de admissibilidade de origem afirmou a índole infraconstitucional da matéria versada no processo e, ainda, a ausência de repercussão geral do recurso extraordinário, para ao final julgá-lo prejudicado. É dizer, o fundamento inicial serviu de mero reforço argumentativo. Extraio da decisão:
+    “O argumento calcado na alegação de ofensa ao artigo 5º, XXXV, da Constituição da República, não se sustenta.
+    O Supremo Tribunal Federal firmou o entendimento no sentido de que as alegações de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame da legislação infraconstitucional, como na espécie vertente, não viabilizam o recurso extraordinário, pois eventual ofensa constitucional seria indireta.
+    (…)
+    Ademais, analisando o v. Acórdão recorrido, verifica-se que a alegada violação dos artigos 5º, XXXII e 170, V, da Constituição da República, se existisse, seria reflexa, vez que necessariamente precedida de afronta a dispositivo de legislação infraconstitucional.
+    (…)
+    Ademais, ao julgar o ARE nº 640.525/STF, o paradigma do tema 417 do e. STF (“Responsabilidade civil por dano material em face das relações contratuais e extracontratuais.”) - Tese nº 335 do repertório de teses deste Tribunal de Justiça, o Supremo Tribunal Federal assentou não existir interesse econômico, político, social ou jurídico que justifique o seu enfrentamento em sede extraordinária.
+    (…)
+    À conta de tais fundamentos, DECLARO PREJUDICADO o recurso extraordinário em estrita observância ao disposto no art. 543-B, § 3º, do Código de Processo Civil”.
+    Ademais, ainda que assim não fosse, o recurso extraordinário ao qual a parte visa a dar trânsito encontra-se manifestamente inadmissível, em razão da incidência ao caso dos efeitos da ausência de repercussão geral, por força dos seguintes temas (além do já aplicado na origem): 800 (“Viabilidade de recurso extraordinário contra acórdão proferido por Juizado Especial Cível da Lei 9.099/1995 em matéria de responsabilidade pelo adimplemento de obrigação assumida em contrato de direito privado”);  655 (“Modificação do valor fixado a título de indenização por danos morais”); e 660 (“Violação dos princípios do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Extensão do entendimento ao princípio do devido processo legal e aos limites da coisa julgada).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, prejudicada a análise do pedido liminar.
+    Defiro a gratuidade da justiça. Fixo os honorários de sucumbência em 10% sobre o valor da causa de origem, cuja execução fica suspensa nos termos do § 3º do art. 98 da Lei nº 13.105/2015.
+    Publique-se.
+          Brasília, 12 de maio de 2016.
+Ministro LUÍS ROBERTO BARROSO
+Relator
