@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão do TRF da 3ª Região assim ementado:
+    “DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. DECISÃO MONOCRÁTICA. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO, OBSCURIDADE E OMISSÃO INEXISTENTES. EFEITOS INFRINGENTES. RECEBIMENTO DOS EMBARGOS DE DECLARAÇÃO COMO AGRAVO REGIMENTAL. EMBARGOS À EXECUÇÃO FISCAL. REDE FERROVIÁRIA FEDERAL - RFFSA. IPTU. IMUNIDADE. ARTIGO 150, IV, "A" DA C.F.
+    I. Não obstante o cabimento de embargos de declaração em face de decisões monocráticas, o recurso deve ser recebido como agravo, quando o propósito é atribuir efeitos infringentes à decisão embargada bem como não se vislumbre obscuridade, contradição ou omissão. Precedentes do STJ.
+    II. Ausência de violação ao art. 535, do Código de Processo Civil quando a decisão é expressa, congruente e motivada.
+    III. A antiga Rede Ferroviária Federal (RFFSA), sucedida pela União, era pessoa jurídica prestadora de serviço público obrigatório e exclusivo do Estado. Assim, equiparava-se à Fazenda Pública, gozando dos mesmos privilégios, inclusive em relação à imunidade tributária recíproca, nos termos do artigo 12 do Decreto-Lei n. 509/69 e do artigo 150, inciso VI, alínea "a" da Constituição Federal. Precedentes do STJ.
+    IV. Agravo regimental desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, VI, a; e 156, I, todos da Carta. O recorrente afirma que não se aplica ao caso o paradigma da repercussão geral no RE 599.176, porquanto neste julgado trata-se da ausência de imunidade recíproca da União, por sucessão, em relação aos débitos tributários da RFFSA. O que se está a suscitar no presente caso é a imunidade da própria RFFSA. Assim, o tema ora exposto não teria sido objeto de expressa deliberação pelo STF, razão pela qual possível sua alegação no presente momento.
+    A União sustenta ser beneficiária da imunidade tributária recíproca porque, a época dos fatos geradores, a própria RFFSA detinha tal benefício por ser prestadora, em nome do Estado, serviços públicos que lhes foram outorgados, ainda que mediante remuneração, a título de preço ou tarifa.
+    A pretensão recursal não merece prosperar. A despeito de haver precedentes no sentido de que determinadas empresas públicas ou sociedades de economia mista que prestem serviços públicos sejam beneficiárias da imunidade tributária recíproca, esta não é a regra. Os julgados nesse sentido tratam de situações excepcionais, fundadas na análise das especificidade de cada caso, o que não permite concluir que todas as empresas públicas ou sociedade de economia mista que prestem serviços públicos, em regra, estejam sujeitas ao art. 150, VI, a, da Constituição. Prova disso é são as questões ainda sob apreciação do Supremo Tribunal Federal em recursos extraordinários com repercussão geral reconhecida, quais sejam, REs 580.264, 594.015 e 600.867.
+    Dissentir das conclusões adotadas demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, bem como o reexame dos fatos e provas, providências vedadas nesta fase processual (Súmulas 279 e 280/STF).
+    No mesmo sentido: RE 911.498, Rel. Min. Dias Toffoli; ARE 908.054, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento do recurso.
+    Publique-se.
+          Brasília, 13 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
