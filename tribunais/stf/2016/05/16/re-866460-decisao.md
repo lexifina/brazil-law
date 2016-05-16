@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado:
+    “AGRAVO REGIMENTAL. ACÕRDÃO DO TCE. EXECUÇÃO. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. PRECEDENTES DO STJ. CONFORMIDADE DA DECISÃO. 1. Inúmeros julgados do STJ, fundamentados no art. 25, VIII da Lei nº 8.625/93, consideram o Ministério Público parte legítima para promover execução de título formado por decisão do Tribunal de Contas. 2. Agravo regimental conhecido e improvido. Unanimidade.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 129, IX, da Constituição. Sustenta que “é clarividente que o Parquet não detém legitimidade para propor ação cível pública de execução contra ex-gestores municipal e, e por um simples motivo: não representa judicialmente pessoa jurídica de direito público (Município ou Estado), devendo as referidas execuções serem propostas por procuradores estaduais ou municipais”.
+    O recurso merece ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem destoa da jurisprudência desta Corte. O Supremo Tribunal Federal, ao julgar o ARE 823.347-RG, Rel. Min. Gilmar Mendes, reconheceu a repercussão geral da matéria ora em debate e reafirmou sua jurisprudência no sentido de que o Ministério Público não detém legitimidade ativa para executar condenações patrimoniais impostas pelos Tribunais de Contas, cabendo tal providência ser tomada somente pelo ente público beneficiário da execução. Veja-se a ementa do mencionado precedente:
+    “Recurso extraordinário com agravo. Repercussão geral da questão constitucional reconhecida. Reafirmação de jurisprudência. 2. Direito Constitucional e Direito Processual Civil. Execução das decisões de condenação patrimonial proferidas pelos Tribunais de Contas. Legitimidade para propositura da ação executiva pelo ente público beneficiário. 3. Ilegitimidade ativa do Ministério Público, atuante ou não junto às Cortes de Contas, seja federal, seja estadual. Recurso não provido”.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recuso extraordinário. Invertidos os ônus da sucumbência.
+    Publique-se.
+          Brasília, 16 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
