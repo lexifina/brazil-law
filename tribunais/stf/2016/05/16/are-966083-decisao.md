@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 5ª Câmara Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO REVISIONAL DE CONTRATO – JUROS REMUNERATÓRIOS – LIMITAÇÃO À TAXA MÉDIA DE MERCADO FIXADA PELO BANCO CENTRAL DO BRASIL – CAPITALIZAÇÃO MENSAL DOS JUROS REMUNERATÓRIOS – LEGITIMIDADE – PREVISÃO CONTRATUAL – COMISSÃO DE PERMANÊNCIA – NÃO CUMULATIVIDADE COM OUTROS ENCARGOS – TAXA DE ABERTURA DE CRÉDITO – ILEGALIDADE – REPETIÇÃO DE INDÉBITO SIMPLES – RECURSO DO MUTUÁRIO IMPROVIDO – RECURSO DA INSTITUIÇÃO FINANCEIRA PARCIALMENTE PROVIDO.
+    A limitação dos juros remuneratórios somente é possível se restar comprovada que a taxa contratada destoa da taxa média de mercado (STJ, Resp n. 1.061.530). Inaplicabilidade do Decreto n. 22.626/33, bem como dos artigos ns. 591 e 406 do Código Civil de 2002.
+    A capitalização mensal de juros é admitida pela Medida Provisória n. 1963-17 de 30 de março de 2000 (atualmente Medida Provisória n. 2170-30/2001), nos contratos celebrados após sua vigência, desde que expressamente pactuada.
+    É legítima a exigência de comissão de permanência, a qual, todavia, não poderá ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, ou seja: a) à taxa média de mercado, não podendo ultrapassar o percentual contratado para o período de normalidade da operação; b) juros moratórios até o limite de 12% ao ano; e c) multa contratual limitada a 2% do valor da prestação, nos termos do artigo 52, §1º, do Código de Defesa do Consumidor.
+    É ilegal a cobrança da taxa de abertura de crédito, uma vez que transferem ao consumidor o ônus que deveria ser suportado pela instituição financeira, uma vez que decorre da natureza de sua atividade.
+    A repetição de indébito é corolário da ilegalidade perpetrada pela instituição financeira em razão da cobrança de encargos ilegais e abusivos, de sorte que apurada por simples cálculo aritmético a existência de saldo credor em favor do mutuário, é devida a restituição das quantias pagas a maior, a ser realizada de forma simples, sob pena de enriquecimento ilícito.”
+    No recurso extraordinário, sustenta-se violação dos artigos 62, 154, inciso I, 194, e 195, inciso I e §§ 4º, 8º e 9º, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636/STF.
+    Ante o exposto, nos termos do art. 21, §1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 16 de maio de 2015.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
