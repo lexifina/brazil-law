@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “MANDADO DE SEGURANÇA – CONCURSO PÚBLICO – REALIZAÇÃO DE TESTE DE FÍSICO – CARÁTER ELIMINATÓRIO – CANDIDATA GESTANTE – ABSTENÇÃO – DIREITO LÍQUIDO E CERTO – PRINCÍPIO CONSTITUCIONAL DA ISONOMIA – VIOLAÇÃO – SEGURANÇA CONCEDIDA.
+    Para a concessão da segurança, imprescindível a demonstração, pelo impetrante, da presença de seu direito líquido e certo à prática de determinado ato, bem como da ilegalidade ou abuso de poder de que se reveste o ato combatido. Inteligência do artigo 1º, caput, da Lei n. 12.016/09.
+    Não importa violação às garantias constitucionais da isonomia e da igualdade assegurar à candidata em concurso o direito de se abster da etapa consistente na realização de testes físicos, tendo em vista seu estado gestacional. Precedentes.
+    Segurança concedida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, caput; e 37, caput, I e II, da Constituição.
+    O recurso deve ser provido. O Supremo Tribunal Federal, após reconhecer a repercussão geral da matéria no RE 630.733-RG, Rel. Min. Gilmar Mendes, assentou o entendimento de que não há direito subjetivo à remarcação de provas em razões de circunstâncias pessoais do candidato, salvo se houver expressa autorização do edital do certame resguardando essa possibilidade. Confira-se a ementa do mencionado julgado:
+    “Recurso extraordinário. 2. Remarcação de teste de aptidão física em concurso público em razão de problema temporário de saúde. 3. Vedação expressa em edital. Constitucionalidade. 4. Violação ao princípio da isonomia. Não ocorrência. Postulado do qual não decorre, de plano, a possibilidade de realização de segunda chamada em etapa de concurso público em virtude de situações pessoais do candidato. Cláusula editalícia que confere eficácia ao princípio da isonomia à luz dos postulados da impessoalidade e da supremacia do interesse público. 5. Inexistência de direito constitucional à remarcação de provas em razão de circunstâncias pessoais dos candidatos. 6. Segurança jurídica. Validade das provas de segunda chamada realizadas até a data da conclusão do julgamento. 7. Recurso extraordinário a que se nega provimento.”
+    No caso, há expressa previsão no item 11.5 do edital (fls. 25), que impede tratamento diferenciado por parte da comissão examinadora, notadamente quanto às eventuais “alterações orgânicas, permanentes ou temporárias (…) [inclusive] gravidez ou outros que impossibilite ou diminua a capacidade física e/ou orgânica do candidato para se submeter aos testes físicos específicos”.
+    Diante do exposto, com base no art. 21, § 2º do RI/STF, dou provimento ao recurso, a fim de denegar a segurança. Invertidos os ônus da sucumbência e sem condenação em honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+          Brasília, 16 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
