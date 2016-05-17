@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de origem confirmou o entendimento do Juízo quanto à extinção do processo sem julgamento do mérito. Afirmou a ilegitimidade ativa do autor, tendo em vista estarem os servidores vinculados a sindicato específico. Nas razões do recurso extraordinário, o SINDISRF/RS alega ofensa aos artigos 5º inciso XXXV e LV, 8º, inciso III, e 93, inciso IX, da Constituição Federal. Arguiu a negativa de prestação jurisdicional, apontando não ter o Colegiado se pronunciado quanto a legislação apontada, relativa a legitimidade do sindicato para atuar como substituto processual. Entende violado o princípio da livre associação sindical.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis os fundamentos do acórdão recorrido:
+    No caso concreto, verifico que os servidores da FUNASA têm como representante oficial o Sindicato dos Trabalhadores Federais da Saúde, Trabalho e Previdência no Estado do Rio Grande do Sul - SINDISPREV-RS, com base territorial idêntica à do SINDISERF e criado anteriormente.
+    A propósito, transcrevo trecho da sentença, na qual a MM. Julgadora singular enfrentou a questão da legitimidade para a representação da referida categoria, in verbis:
+    O artigo 8°, inciso III, da Constituição Federal estabelece que ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas. Ademais, em seu inciso II, o mesmo artigo consagra o princípio da unicidade sindical, nos seguintes termos:
+    II - é vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município;
+    Em razão de tal previsão constitucional, não estará mais de um sindicato legitimado à defesa dos interesses da categoria. Com efeito, consoante já decidido pelo TRF da 4ª Região, havendo sindicato específico para determinada categoria profissional ou segmento de trabalhadores, incumbir-lhe-á a representação dos respectivos interesses, restando impedidos os entes sindicais de maior abrangência, na mesma base territorial, de atuarem em igual sentido.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Nego seguimento a este extraordinário.
+    4. Publiquem.
+Brasília, 17 de maio de 2016.
+Ministro MARCO AURÉLIO
+Relator
