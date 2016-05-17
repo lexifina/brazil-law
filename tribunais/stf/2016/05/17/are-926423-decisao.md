@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao agravo de instrumento, por sua vez contra decisão que julgou improcedente alegação de litispendência e de prescrição intercorrente, bem como declarou o cabimento de honorários advocatícios em sede de execução de sentença em ação de cobrança dos expurgos inflacionários relativos aos planos econômicos.
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, alega-se ofensa ao artigo 5º, II, XXXVI, LVI e LV da Constituição Federal, sob os argumentos de violação dos princípios da legalidade, do devido processo legal, da segurança jurídica e da ampla defesa e do contraditório. Aduz-se, em suma, excesso na execução ao valor apurado pelo contador judicial.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    No exame do ARE-RG 690.819, de relatoria do Ministro Cezar Peluso, relator para o acórdão Ministro Ricardo Lewandowski, Dje de 08.09.2014 (Tema 587), esta Corte decidiu que não possui repercussão geral a discussão referente a eventual caracterização de excesso de execução decorrente de erro de cálculo nos processos em que se discute a cobrança dos expurgos inflacionários relativos aos planos econômicos.
+    Ademais, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, Dje 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório e dos limites da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 23 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
