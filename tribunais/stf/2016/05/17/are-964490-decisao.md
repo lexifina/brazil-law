@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário em que se discute o direito à revisão de cálculo de benefício previdenciário, para incidir a legislação vigente ao tempo da reunião dos requisitos para concessão do benefício, a qual se revela mais vantajosa.
+    O Supremo Tribunal Federal, no julgamento RE-RG 630.501, Rel. Min. Ellen Gracie, redator para acórdão o Min. Marco Aurélio, entendeu pela existência de repercussão geral da matéria versada nestes autos (Tema 334) e, ao julgar o mérito, consolidou entendimento sobre a possibilidade de se revisar o ato de concessão de aposentadoria para retroagir a data na qual preenchidos os requisitos legais para a obtenção de um benefício mais vantajoso, porém ressalvou a inadmissibilidade de se adotar um sistema de aposentadoria híbrido, ou seja, de pertencer a dois regimes simultaneamente, consoante se depreende do seguinte excerto do voto da relatora:
+    “Também não admite (o Supremo) a combinação dos aspectos mais benéficos de cada lei com vista à criação de regimes híbridos. Efetivamente, resta consolidado que não há direito adquirido a regime jurídico de modo a tutelar simples expectativas e que não é possível combinar regimes para colher o melhor de cada qual (AgRegAI 655.393, Min. Carmen Lúcia, set/09; AI 654.807, de minha relatoria, jun/09) ou pretender submeter à lei antiga fatos posteriores à lei nova ("Embora tenha o recorrente direito adquirido à aposentadoria, nos termos do art. 3º da EC 20/98, não pode computar tempo de serviço posterior a ela, valendo-se das regras vigentes antes de sua edição." Pleno, RE 575.089, Ricardo Lewandowski, set/08).”
+    Ao final, a conclusão ficou assim sintetizada:
+    “APOSENTADORIA – PROVENTOS – CÁLCULO. Cumpre observar o quadro mais favorável ao beneficiário, pouco importando o decesso remuneratório ocorrido em data posterior ao implemento das condições legais. Considerações sobre o instituto do direito adquirido, na voz abalizada da relatora – ministra Ellen Gracie –, subscritas pela maioria.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 17 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
