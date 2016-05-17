@@ -1,0 +1,17 @@
+DECISÃO
+HABEAS CORPUS – LIMINAR – RELEVÂNCIA NÃO DEMONSTRADA – INDEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da 9ª Vara Criminal da Comarca de Belo Horizonte/MG, no processo nº 0024.13.298.719-9, deixou de receber a denúncia oferecida em desfavor do paciente em virtude do suposto cometimento do delito previsto no artigo 155, § 4º, inciso IV, combinado com o artigo 14, inciso II (furto qualificado pelo concurso de pessoas, na modalidade tentada), ambos do Código Penal. Assentou a atipicidade material do ato praticado considerada a insignificância da lesão ao bem jurídico – cinco peças de carne bovina avaliadas em R$ 253,00. Aludiu à subsidiariedade do Direito Penal e à irrelevância do dano.
+    O Ministério Público interpôs recurso em sentido estrito, sustentando a não pertinência do princípio da bagatela, assentada, no caso, ante o desvalor da conduta e a culpabilidade do réu. A 4ª Câmara Criminal do Tribunal de Justiça, ao prover o recurso, determinou o prosseguimento do processo. Afirmou que a observância do mencionado princípio implicaria estímulo à delinquência e à reiteração criminosa. Recurso especial formalizado pela defesa foi inadmitido na origem, em razão do óbice descrito no verbete nº 7 da Súmula do Superior.
+    No Superior Tribunal de Justiça, agravo nº 762.623/MG, arguiu-se a violação aos artigos 155 do Código Penal e 386, inciso III, do Código de Processo Penal, presentes a atipicidade e a ausência de prejuízo à vítima. O Relator, ao conhecer do agravo, negou seguimento ao especial, consignando inexistentes os requisitos autorizadores da incidência do princípio da insignificância. Ressaltou não configurados o reduzido grau de reprovabilidade no comportamento do agente e a inexpressividade do valor dos bens. Protocolado agravo regimental, foi-lhe negado provimento pela Quinta Turma.
+    Neste habeas corpus, a Defensoria Pública renova a argumentação vinculada à ausência de lesividade a bem jurídico. Diz da necessidade de observância dos princípios da bagatela e da dignidade da pessoa humana, considerada a primariedade do paciente. Destaca o fato de o bem ter sido integralmente restituído à vítima. Ressalta que a jurisprudência do Supremo já reconheceu a atipicidade da conduta – em virtude do pequeno valor da coisa furtada – mesmo em caso de reincidência.
+    Em âmbito liminar, requer sejam afastados os efeitos do acordão formalizado pela Quinta Turma do Superior Tribunal de Justiça, declarando-se a absolvição do paciente, nos termos do artigo 386, inciso III, do Código de Processo Penal, até o julgamento final da impetração. No mérito, pretende a confirmação da providência.
+    A fase é de exame da medida acauteladora.
+    2. Observem a organicidade do Direito. Descabe vislumbrar, no pronunciamento do Superior Tribunal de Justiça, decisão ilegal a implicar o cerceamento da liberdade de ir e vir do paciente. Atuou o Tribunal a partir da ordem jurídica. Considerem o disposto no § 2º do artigo 155 do Código Penal:
+    § 2º Se o criminoso é primário, e é de pequeno valor a coisa furtada, o juiz pode substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços, ou aplicar somente a pena de multa.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 17 de maio de 2016.
+Ministro MARCO AURÉLIO
+Relator
