@@ -1,0 +1,23 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 37 DA SÚMULA DO SUPREMO – DESRESPEITO – RELEVÂNCIA – RECLAMAÇÃO – LIMINAR DEFERIDA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    A União afirma haver o Juízo da 1ª Vara Federal de Chapecó/SC, no processo nº 5008975-74.2015.4.04.7202/SC, olvidado o teor do verbete vinculante nº 37 da Súmula do Supremo.
+    Segundo narra, Marines Agnes Knorst, servidora do Judiciário federal, ajuizou contra si ação na qual pretende ver reconhecida a incorporação, aos próprios vencimentos, do percentual de 13,23%, com o pagamento de parcelas vencidas, por entender que a vantagem pecuniária individual versada na Lei nº 10.698/2003 consistiu em dissimulada revisão geral anual, a valer para qualquer servidor, ante a inadequação de concessão de aumentos em percentuais diferenciados. Realça a procedência do pedido em primeira instância, no que evocado o princípio da isonomia, surgindo daí o alegado desrespeito.
+    Sustenta violado o paradigma, pois fundamentado o ato reclamado no princípio da isonomia e na suposta ofensa ao artigo 37, inciso X, da Lei Maior, para determinar-se a incorporação do percentual aos vencimentos da ora interessada. Assevera que o Judiciário não poderia imiscuir-se na função legislativa e conceder aumento a servidores públicos. Transcreve trecho da decisão impugnada. Evoca jurisprudência.
+    Sob o ângulo do risco, alude ao impacto financeiro decorrente da extensão do percentual discutido aos servidores do Poder Judiciário e do Ministério Público da União. Acrescenta a dificuldade para reaver valores eventualmente pagos uma vez envolvida verba de natureza alimentar.
+    Requer, em sede liminar, a suspensão e, alfim, a cassação do pronunciamento atacado.
+    2. Percebam as balizas do caso concreto. A interessada, servidora do Judiciário federal, postulou a condenação da União à incorporação de certo percentual aos próprios vencimentos, frisando que o reajuste implementado por meio da Lei nº 10.698/2003 implicaria revisão geral anual mediante índices diferenciados, a ensejar violação ao artigo 37, inciso X, da Constituição Federal. Julgado parcialmente procedente o pedido, surgiu a irresignação da reclamante.
+    Mostra-se relevante a alegação. A leitura do ato impugnado revela haver o Juízo federal determinado a incorporação do mencionado percentual aos vencimentos da interessada, consideradas a isonomia e a impossibilidade de utilização de índices diferenciados visando a revisão geral anual da remuneração dos servidores públicos. Ao fazê-lo, ofendeu o paradigma porquanto estendido o reajuste, nessas condições, pela via judicial. Confiram o seguinte trecho da decisão atacada:
+    […]
+    A fim de garantir a concessão de reajuste integral apenas para os servidores públicos federais de menor remuneração, bem como considerando as limitações orçamentárias para o exercício fiscal de 2003, o Governo Federal utilizou um artifício para burlar a norma impositiva do art. 37, X, da CF, cindindo a normatização do reajuste em duas diferentes leis.
+    Porém a concessão de uma parcela de igual valor para todos os servidores públicos federais representou reajustes em diferentes índices, decrescentes em proporção inversa à respectiva remuneração. Embora tal fosse ao que tudo indica a intenção do Governo Federal, tal medida violou o referido comando constitucional, que determinava a aplicação de índice único para todo o funcionalismo público federal.
+    Em razão disso, na recente decisão a respeito do tema, acima referida, o Superior Tribunal de Justiça determinou a aplicação de índice de reajuste que garantisse revisão isonômica de salários dos servidores públicos federais no ano de 2003 (STJ, REsp 1.536.597, 1ª T., Rel. Min. Napoleão Nunes Maia Filho, j. em 23/06/15, DJe 04/08/2015):
+    […]
+    Consoante se verifica, o pronunciamento reclamado implicou, de modo imediato, alteração de vencimentos de servidor público, no que verificado, de forma direta, o impacto financeiro. O quadro demonstra inobservância ao contido no verbete vinculante nº 37 da Súmula, cujo teor é o seguinte:
+    Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento da isonomia.
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, a eficácia da sentença proferida pelo Juízo da 1ª Vara Federal de Chapecó/SC no processo nº 5008975-74.2015.4.04.7202/SC.
+    4. Presente a regência do Código de Processo Civil de 2015, citem a interessada e requisitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 17 de maio de 2016.
+Ministro MARCO AURÉLIO
+Relator
