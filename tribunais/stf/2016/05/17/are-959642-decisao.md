@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo que deu parcial provimento à apelação apenas para reduzir a verba honorária, mantendo nos demais termos a sentença que condenara o Recorrente em danos materiais e morais, em acórdão assim ementado (eDOC-1, p. 162):
+    “INDENIZAÇÃO RECOLHIMENTO DE TRIBUTO PARA LIBERAÇÃO DE MERCADORIA EM TERMINAL AEROPORTUÁRIO RETENÇÃO DA CARGA POR FALTA DE COMUNICAÇÃO DE PAGAMENTO À SECRETARIA DA FAZENDA PELO BANCO QUE O RECEBERA RECOLHIMENTO ADICIONAL COM ENCARGOS, ANTE O IMPASSE CONFIGURAÇÃO DE DANO MATERIAL E MORAL REDUÇÃO DA VERBA HONORÁRIA APELAÇÃO PARCIALMENTE PROVIDA PARA ESSE FIM.”
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa ao artigo 5º, XXXV e LV, da Constituição Federal, por violação aos princípios da ampla defesa e do contraditório. Defende-se, por fim, a redução do valor da condenação em danos morais.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Em primeiro lugar, no que tange à responsabilidade civil por dano material em face de relações contratuais e extracontratuais, a Corte, no julgamento do ARE-RG 640.525, de relatoria do Ministro Cezar Peluso, DJe 31.08.2011 (Tema 417), decidiu pela inexistência de repercussão geral da questão suscitada, por se tratar de matéria infraconstitucional.
+    Ademais, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Por fim, no que tange à discussão sobre a proporcionalidade e razoabilidade do valor da indenização fixada a título de danos morais, a Corte, no julgamento do ARE-RG 743.771, de relatoria do Ministro Gilmar Mendes, DJe de 31.05.2013 (Tema 655), decidiu pela inexistência de repercussão geral da questão suscitada, por se tratar de matéria infraconstitucional.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 17 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
