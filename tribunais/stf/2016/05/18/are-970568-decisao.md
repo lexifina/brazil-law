@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 3ª Turma Recursal de Paranaguá – Seção Judiciária do Paraná, que manteve sentença de improcedência do pedido inicial de revisão de benefício de aposentadoria por tempo de contribuição (eDOCs 40 e 41).
+    No recurso extraordinário (eDOC 43), interposto com fundamento no art. 102, III, a, da Constituição Federal, o recorrente deixa de indicar o dispositivo constitucional violado.
+    Nas razões recursais, alega-se que faz jus à revisão do seu benefício previdenciário.
+    Decido.
+    O recurso não merece prosperar.
+    Verifico, na petição do recurso extraordinário, a ausência de preliminar formal e fundamentada de repercussão geral, pressuposto de admissibilidade do recurso (art. 543-A, § 2º, do antigo CPC, e art. 1.035, § 2º, do atual CPC).
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 6.9.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 3.5.2007, data da publicação da Emenda Regimental n. 21 do STF, o que ocorre no presente caso.
+    Ainda que assim não fosse, verifica-se que a parte recorrente não demonstrou de que forma o acórdão recorrido teria afrontado a Constituição Federal, não indicando sequer o dispositivo constitucional que teria sido violado.
+    Registre-se que é necessária, para a admissão do recurso extraordinário, a demonstração efetiva de ofensa ao texto cosntitucional, o que não ocorreu no caso dos autos. Nesse sentido:
+     “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULAS STF 284 E 287. 1. Razões do agravo regimental que não atacam o fundamento da decisão impugnada. 2. É imprescindível para a admissão do apelo extremo previsto no art. 102, III, da Constituição Federal que a demonstração de ofensa à norma constitucional seja posta com clareza, o que não foi suficientemente feito pela parte recorrente. Súmulas STF 284 e 287. Precedentes. 3. Recurso Extraordinário interposto com base no art. 102, III, a e c, da Constituição Federal, sem indicação de dispositivos constitucionais na petição do recurso. 4. Inexistência de argumento capaz de infirmar a decisão agravada, que deve ser mantida pelos seus próprios fundamentos. 5. Agravo regimental a que se nega provimento”. (grifei) (AI-AgR 786.680, Rel. Min. Ellen Gracie, Segunda Turma, DJe 30.6.2011)
+    “Agravo regimental no recurso extraordinário com agravo. Direito eleitoral. Recurso especial eleitoral. Cabimento. Recurso extraordinário deficiente. Ausência de indicação dos dispositivos constitucionais tidos por violados. Incidência da súmula 284 do STF. Ausência da preliminar formal de repercussão geral. Agravo regimental desprovido. 1. O recurso extraordinário é inadmissível quando ausente a indicação dos dispositivos constitucionais tidos por violados. Incide no caso o disposto na Súmula 284 do STF, verbis: (…)”. (ARE-AgR 664.727, Rel. Min. Luiz Fux, Primeira Turma, DJe 25.4.2012)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
