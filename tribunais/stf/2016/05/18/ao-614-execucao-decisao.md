@@ -1,0 +1,10 @@
+O Plenário desta Corte, no julgamento do Recurso Extraordinário 564.132/RS, Red. p/ o ac. Min. Cármen Lúcia, assentou, em repercussão geral, a possibilidade de execução autônoma dos honorários advocatícios a que for condenada a Fazenda Pública, devendo ser implementado o pagamento mediante precatório ou, se for o caso, requisição de pequeno valor.
+    Na espécie, após anuência do exequente e do executado a respeito do quantum debeatur, a Ministra Rosa Weber homologou os cálculos apresentados, o montante de R$ 391.938,11 (trezentos e noventa e um mil, novecentos e trinta e oito reais e onze centavos), e determinou a remessa dos autos a esta Presidência para, nos termos do art. 345, I, do Regimento Interno, requisitar o pagamento ao Governador do Estado da Bahia.
+    Consoante disposto no art. 100 da Constituição Federal, os pagamentos devidos pelas Fazenda Públicas Federal, Estadual, Distrital e Municipal, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos.
+    Impõe-se, portanto, a requisição dos valores indispensáveis ao pagamento do crédito reclamado, bem assim a observância da obrigatória inclusão, no orçamento do Estado da Bahia, de verba necessária ao pagamento do débito assinalado, oriundo de sentença judicial transitada em julgado, devendo o crédito aberto ser consignado diretamente ao Poder Judiciário, no caso, à Presidência desta Corte. Esta deverá realizar o pagamento integral do débito que, constante do precatório apresentando até 1º de julho, será pago até o final do exercício seguinte, com valores devidamente atualizados (CF, art. 100, caput, e §§ 5º e 6º).
+    Posto isso, determino a expedição de ofício requisitório ao Governador do Estado da Bahia, para que inclua no orçamento a verba necessária ao pagamento do débito reclamado, devendo ser observado o que acima exposto.
+    À Secretária Judiciária, para as providências.
+    Publique-se.
+    Brasília, 18 de maio de 2016.
+Ministro Ricardo Lewandowski
+Presidente
