@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da Segunda Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro, o qual não manteve a sentença de improcedência, para reconhecer a aplicabilidade do teto previsto no art. 29, §2º, da Lei 8.213/91 aos benefícios concedidos antes do advento da EC 20/98.
+    No recurso extraordinário com fundamento no artigo 102, III, “a”, do permissivo constitucional, alega-se a violação ao artigo 202 da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que os trabalhadores que se aposentaram entre os anos de 1986 e 2003 podem requerer a revisão judicial de suas renda mensais.
+    A Presidência da Turma Recursal inadmitiu o recurso por entender que o exame da matéria debatida depende de prévia análise das provas produzidas nos autos, incidindo a Súmula 279 do STF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Constata-se que as razões contidas no agravo estão dissociadas dos fundamentos da decisão agravada, o que torna aplicável ao caso a Súmula 284 desta Corte.
+    Isso porque o recurso extraordinário foi inadmitido diante da compreensão de que a solução da causa demandaria a análise das provas dos autos, enquanto nas razões de agravo o Recorrente limita-se a repetir os argumentos contidos no extraordinário para justificar o seu provimento.
+    Ainda que assim não fosse, observo que também o recurso extraordinário traz em seu bojo fundamentos diversos dos contidos no acórdão recorrido. O Tribunal de origem dirimiu a controvérsia pela não auto-aplicabilidade do artigo 202 da Constituição Federal e pela constitucionalidade da criação de um teto limite para os salários-de-contribuição pelo art. 29, § 2º da Lei 8.213/91, na esteira da jurisprudência do STF (v. g. AI 279.377-AgR-ED, Rel. Min. Ellen Gracie; RE 295.739, Rel. Min. Moreira Alves), enquanto no recurso extraordinário pugna-se pela aplicação dos novos tetos estabelecidos pelas EC 20/98 e 41/2003 ao benefício titularizado pelo Recorrente.
+    Sobre o tema, confiram-se os seguintes julgados de ambas as Turmas:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E PREVIDENCIÁRIO. 1. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 652.247 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 10.10.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE DO APELO EXTREMO. SÚMULA 284 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. I O recorrente não impugnou especificadamente os fundamentos do acórdão recorrido. Inviável, portanto, o recurso extraordinário, a teor da súmula 284 do STF. Para se chegar à conclusão contrária à adotada pelo acórdão impugnado, seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. - Agravo regimental a que se nega provimento.” (RE 718.234-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 9.12.2013).
+    Ante o exposto, nego provimento ao agravo, nos termos do artigo 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 18 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
