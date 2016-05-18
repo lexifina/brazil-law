@@ -1,9 +1,1 @@
-Art. 3º Poderão promover a desapropriação mediante autorização expressa constante de lei ou contrato:
-I - os concessionários, inclusive aqueles contratados nos termos da Lei nº 11.079, de 30 de dezembro de 2004, permissionários, autorizatários e arrendatários;
-II - as entidades públicas;
-III - as entidades que exerçam funções delegadas do Poder Público; e
-IV - o contratado pelo Poder Público para fins de execução de obras e serviços de engenharia sob os regimes de empreitada por preço global, empreitada integral e contratação integrada.
-Parágrafo único. Na hipótese prevista no inciso IV do caput, o edital deverá prever expressamente:
-I - o responsável por cada fase do procedimento expropriatório;
-II - o orçamento estimado para sua realização; e
-III - a distribuição objetiva de riscos entre as partes, incluído o risco pela variação do custo das desapropriações em relação ao orçamento estimado.
+Art. 3º Os concessionários de serviços públicos e os estabelecimentos de carater público ou que exerçam funções delegadas de poder público poderão promover desapropriações mediante autorização expressa, constante de lei ou contrato.
