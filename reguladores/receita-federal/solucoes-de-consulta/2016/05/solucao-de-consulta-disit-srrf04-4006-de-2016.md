@@ -1,0 +1,13 @@
+Solução de Consulta Disit/SRRF04 nº 4006, de 17 de maio de 2016
+Assunto: Contribuição para o Financiamento da Seguridade Social – Cofins
+Ementa: Variações monetárias. Receitas financeiras. Regime não cumulativo. Depósitos judiciais e extrajudiciais de valores referentes a tributos e contribuições federais.
+No caso de depósitos efetuados ao amparo do regramento estabelecido pela Lei nº 9.703, de 1998, considerando-se a existência de previsão legal de ocorrência de acréscimos ao montante depositado judicial ou administrativamente tão somente quando da solução favorável da lide ao depositante, só se encontra caracterizada a ocorrência do fato gerador da Cofins, no regime de apuração não cumulativa:
+a) quando desta solução e na proporção que favorecer o contribuinte-depositante ou b) quando o levantamento do depósito com acréscimos se der por autorização administrativa ou judicial, antes daquela solução.
+VINCULAÇÃO À SOLUÇÃO DE CONSULTA COSIT Nº 157, DE 24 DE JUNHO DE 2014 (EMENTA PUBLICADA NO DOU DE 1º DE JULHO DE 2014).
+Dispositivos Legais: Lei nº 6.404, de 1976, arts. 177, “caput”, e 187, § 1º; Lei nº 9.703, de 1998, art. 1º; Lei nº 9.718, de 1998, art. 9º; Medida Provisória nº 2.158-35, de 2001, arts. 20 e 30; Decreto nº 4.524, de 2002, arts. 13 e 14; Decreto nº 8.426, de 2015, alterado pelo Decreto nº 8.451, de 2015; Instrução Normativa RFB nº 1.079, de 2010.
+Assunto: Contribuição para o PIS/Pasep
+Ementa: Variações monetárias. Receitas financeiras. Regime não cumulativo. Depósitos judiciais e extrajudiciais de valores referentes a tributos e contribuições federais.
+No caso de depósitos efetuados ao amparo do regramento estabelecido pela Lei nº 9.703, de 1998, considerando-se a existência de previsão legal de ocorrência de acréscimos ao montante depositado judicial ou administrativamente tão somente quando da solução favorável da lide ao depositante, só se encontra caracterizada a ocorrência do fato gerador da Contribuição para o PIS/Pasep, no regime de apuração não cumulativa: a) quando desta solução e na proporção que favorecer o contribuinte depositante ou b) quando o levantamento do depósito com acréscimos se der por autorização administrativa ou judicial, antes daquela solução.
+VINCULAÇÃO À SOLUÇÃO DE CONSULTA COSIT Nº 157, DE 24 DE JUNHO DE 2014 (EMENTA PUBLICADA NO DOU DE 1º DE JULHO DE 2014).
+Dispositivos Legais: Lei nº 6.404, de 1976, arts. 177, “caput”, e 187, § 1º; Lei nº 9.703, de 1998, art. 1º; Lei nº 9.718, de 1998, art. 9º; Medida Provisória nº 2.158-35, de 2001, arts. 20 e 30; Decreto nº 4.524, de 2002, arts. 13 e 14; Decreto nº 8.426, de 2015, alterado pelo Decreto nº 8.451, de 2015; Instrução Normativa RFB nº 1.079, de 2010.
+[arquivo anexo: SC SRRF04-Disit nº 4006-2016.pdf]
