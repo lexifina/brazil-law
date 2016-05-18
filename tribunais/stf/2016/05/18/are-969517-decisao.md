@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO RESCISÓRIA DE ACÓRDÃO – DIFERENÇAS SALARIAIS – PROCURADORS DO ESTADO.
+    Compete ao Procurador Geral do Estado disciplinar o valor a ser rateado nos termos da Resolução GPG 139/02. Forma de cálculo que se coaduna com teto remuneratório estabelecido pela Lei Estadual nº 6.995/90 e pela Emenda Constitucional nº 41/03.
+    Precedentes do Tribunal.
+    Pretensão teórica ao recebimento de diferenças que não encontram suporte legal.
+    Ação procedente.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, X, XIII; 39, § 4º; e 135 da Constituição.
+    A decisão agravada negou seguimento ao recurso por entender que “os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada”.
+    O recurso não deve ser provido. Isso porque a alegada violação ao art. 37, X, da Constituição não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência do Supremo Tribunal Federal no sentido de que a verba correspondente aos honorários advocatícios devidos aos Procuradores de Estado deve ser incluída no redutor do teto remuneratório. Nesse sentido, vejam-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCURADOR DO ESTADO. HONORÁRIOS ADVOCATÍCIOS. SUBMISSÃO AO TETO. PARADIGMA DO PLENÁRIO NA REPERCUSSÃO GERAL NO RE 417.200. BAIXA À ORIGEM. IRRECORRIBILIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM O ENTENDIMENTO DO SUPREMO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. 1. O Plenário do Supremo Tribunal Federal, no julgamento do RE 220397, Relator Ministro Ilmar Galvão, assentou que os honorários advocatícios percebidos por procurador público não se classificam como vantagem pessoal e, por essa razão, entram no cálculo da remuneração para a submissão ao teto estabelecido no artigo 37, inciso XI, da CF/88. 2. A submissão dos agravados às regras do teto constitucional e ao subteto estadual estabelecido na Lei nº 6.995/90 deverão ter por parâmetro os termos estabelecidos no acórdão do julgamento de mérito da repercussão geral no RE 417.200, Relator Ministro Marco Aurélio. 3. A decisão monocrática que submete o recurso extraordinário ao regime da repercussão geral e remete o feito à origem por aplicação do artigo 543-B do CPC não tem cunho decisório e, portanto, é irrecorrível. Precedentes: AI 503064-AgR-AgR, Relator o Ministro Celso de Mello, DJ de 26.3.2010; AI 811626-AgR-AgR, Relator o Ministro Ricardo Lewandowski, DJe de 03.03.2011; RE 513.473-ED, Relator o Ministro Cezar Peluso, DJe de 18.12.2009. 4. Agravo Regimental desprovido.” (RE 629.675-AgR, Rel. Min. Luiz Fux)
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. CONSTITUCIONAL. PROCURADOR ESTADUAL. HONORÁRIOS ADVOCATÍCIOS. VERBA INCLUÍDA NO CÁLCULO DO TETO REMUNERATÓRIO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 634.576-ED, Rel.ª Min.ª Cármen Lúcia)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 18 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
