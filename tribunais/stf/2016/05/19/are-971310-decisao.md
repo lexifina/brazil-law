@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Amapá, assim ementado (eDOC 01, p. 140):
+    PENAL E PROCESSUAL PENAL. APELAÇÃO. CRIMES DE TRÂNSITO (ART. 302 E 306 DA LEI Nº 9.503/1997). INOBSERVÂNCIA DO DEVER OBJETIVO DE CUIDADO COMPROVADA. ERRO MATERIAL. 1) Se da fundamentação e dosimetria da pena constata-se que o juiz condenou o réu apenas pelo crime culposo previsto no art. 302 do Código de Trânsito Brasileiro, consistindo em mero erro material a condenação pelo delito capitulado no art. 306 do mesmo código, cabe ao tribunal fazer a retificação, para ajustar o dispositivo da sentença, em grau de apelo. 2) Recurso parcialmente provido.
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XLVI, da Constituição. Busca-se, em suma, a reforma da dosimetria da pena acessória de suspensão da habilitação para dirigir veículo automotor ou, caso não seja admitido o recurso, a concessão de habeas corpus de ofício.
+    A Vice-Presidência do TJAP inadmitiu o recurso sob o fundamento de ausência de prequestionamento e por configurar ofensa reflexa ao Texto Constitucional.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifico a ausência da preliminar formal e fundamentada de repercussão geral na petição do recurso extraordinário, pressuposto de admissibilidade do recurso.
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 06.09.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 03.05.2007, data da publicação da Emenda Regimental 21 do STF, o que ocorre no presente caso.
+    Por outro lado, observo que as questões referentes à violação ao princípio constitucional da individualização da pena, não foram objeto de debate no acórdão recorrido. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF).
+    Da mesma forma, quanto à pretensão de concessão de habeas corpus de ofício, observo que não se inaugura a competência deste Supremo nas hipóteses em que não esgotada a jurisdição antecedente, visto que tal proceder acarretaria indevida supressão de instância. Nesse sentido:
+    HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DE JURISDIÇÃO. ATENTADO VIOLENTO AO PUDOR. PROGRESSÃO DE REGIME. INSTRUÇÃO DEFICIENTE DO WRIT NA CORTE SUPERIOR. SUPRESSÃO DE INSTÂNCIA. FATOS E PROVAS. INVIABILIDADE. 1. Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição, à falta de manejo de agravo regimental ao Colegiado, não se esgotou. Precedentes. 2. A instrução deficiente do writ, não suprida pelas informações das instâncias ordinárias ou, ainda, pela Defesa, inviabiliza o exame da matéria pelo Superior Tribunal de Justiça, o que impede, por conseguinte, sua análise por esta Corte Suprema, sob pena de supressão de instância. Precedentes. 3. Para incursão mais aprofundada na matéria, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedente. 4. Habeas corpus extinto sem resolução de mérito. (HC 123.926, Rel. Min. Rosa Weber, Primeira Turma, DJe 08.05.2015)
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 19 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
