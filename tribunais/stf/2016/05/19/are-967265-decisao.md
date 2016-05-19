@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DANOS MORAIS – INDENIZAÇÃO – VALOR – REPERCUSSÃO GERAL INADMITIDA – AGRAVO DESPROVIDO.
+    1. O Tribunal de origem confirmou o entendimento do Juízo quanto ao direito à pensão mensal vitalícia e indenização por danos morais, em face de acidente ocorrido em local de trabalho e que culminou na perda parcial da visão do autor. No extraordinário cujo trânsito buscam alcançar, om recorrente alegam violados os artigos 5º, incisos LIV e LV, 7º, inciso VI, e 93, inciso IX, da Constituição Federal. Arguem a nulidade da decisão no tocante à desconsideração da personalidade jurídica da empresa, porque prolatada sem fundamentação e em momento processual equivocado. Sustentam a ilegitimidade passiva para a causa. Requerem, por fim, a redução do valor do benefício deferido, mencionando a impossibilidade de fixação em múltiplos do salário mínimo.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo os seguintes trechos:
+    transcrever
+    À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No tocante à possibilidade de fixação dos danos morais em salários mínimos, a decisão recorrida está de acordo com a jurisprudência do Supremo. Confiram com o teor das seguintes ementas:
+    Agravo regimental no recurso extraordinário com agravo. Indenização. Valor inicial. Fixação em salários mínimos. Possibilidade. Precedentes. 1. É firme a jurisprudência desta Corte de que é legítima a utilização do salário mínimo quando se tiver por finalidade apenas a expressão do valor inicial da indenização, a qual, se necessário, será atualizada pelos índices oficiais de correção monetária. 2. Agravo regimental não provido.
+    (agravo regimental no recurso extraordinário com agravo nº 704.878/RJ, relator ministro Dias Toffoli, Primeira Turma, acórdão publicado no Dário da Justiça de 11 de março de 2014)
+    Agravo regimental em agravo de instrumento. 2. Indenização por dano moral. Princípios do contraditório e ampla defesa. Ofensa reflexa. Precedente. 3. Fixação da condenação em salários mínimos vigentes à época. Possibilidade. Precedentes. 4. Agravo regimental a que se nega provimento.
+    (agravo regimental no agravo de instrumento nº 493.494/RS, relator ministro Gilmar Mendes, Segunda Turma, acórdão publicado no Dário da Justiça de 4 de março de 2005)
+    Quanto ao montante fixado, o Supremo, no recurso extraordinário com agravo nº 743.771/SP, da relatoria do ministro Gilmar Mendes, assentando a natureza infraconstitucional da matéria, concluiu pela inexistência de repercussão geral do tema referente à fixação do valor relativo a indenização por danos morais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 19 de maio de 2016.
+Ministro MARCO AURÉLIO
+Relator
