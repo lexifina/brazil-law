@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santo. Extrai-se da ementa o seguinte trecho conclusivo:
+    “APELAÇÃO CÍVEL - ADMINISTRATIVO, CONSTITUCIONAL E AMBIENTAL - PRELIMINAR - PRESSUPOSTOS DE ADMISSIBILIDADE - REGULARIDADE FORMAL - REJEITADA - AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO AMBIENTAL - ILEGITIMIDADE DO ÓRGÃO MUNICIPAL - INOCORRÊNCIA - INTELIGÊNCIA DO ART. 23, INCS. VI E VII, DA CF/88 - ART. 143, DA LEI MUNICIPAL Nº 4.438/1997, C/C ART. 17, XXVIII, DO DECRETO MUNICIPAL Nº 10.023/1997 - PODER DE POLÍCIA AMBIENTAL - DESCUMPRIMENTO DE CONDICIONANTE RC 05 - TERMO DE COMPROMISSO Nº 059/2001 - LEGALIDADE DA LAVRATURA DO AUTO DE INFRAÇÃO - PROPORCIONALIDADE DA MULTA - RECURSO DESPROVIDO.
+    […].”
+    O recurso extraordinário busca fundamento no art. 102, III, a e d, da Constituição Federal. A parte recorrente alega violação aos arts. 16 e 17 da Lei Complementar nº 140/2011. Sustenta que o Tribunal de origem julgou válida lei local em face da Lei federal nº 6.938/1981.
+    O recurso é inadmissível. A peça recursal não aponta, de forma clara e concreta, como o acórdão recorrido teria violado algum dispositivo constitucional, como exige o art. 102, III, a, da Constituição. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Ademais, ressalta-se ser igualmente incabível o recurso extraordinário com fundamento na alínea d do inciso III do art. 102 da Constituição. Isso porque o recurso, com base nesse dispositivo, depende da demonstração de conflito de competência legislativa entre entes da Federação, sendo inviável seu uso com a simples pretensão de rever interpretação dada pelo Tribunal de origem à norma infraconstitucional. Nesse sentido, veja-se trecho da ementa do ARE 697.583-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS FEDERAIS E LOCAIS. IMPOSSIBILIDADE. OFENSA INDIRETA À CONSTITUIÇÃO. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279. RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA DE CONFLITO DE COMPETÊNCIA LEGISLATIVA AGRAVO IMPROVIDO.
+    […]
+    V – A admissão do recurso extraordinário pela alínea d do inciso III do art. 102 da Constituição Federal pressupõe a ocorrência de conflito de competência legislativa entre os entes da Federação. Dessa forma, é incabível o apelo extremo, fundado no aludido dispositivo, cuja pretensão seja provocar o reexame da interpretação de norma infraconstitucional conferida pelo Juízo de origem. VI – Agravo regimental improvido.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 19 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
