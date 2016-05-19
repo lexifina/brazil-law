@@ -1,0 +1,11 @@
+Solução de Consulta Disit/SRRF10 nº 10023, de 25 de abril de 2016
+ASSUNTO: Obrigações Acessórias
+EMENTA: SISCOSERV. RESPONSABILIDADE PELO REGISTRO. SERVIÇOS DE TRANSPORTE INTERNACIONAL. IMPORTAÇÃO POR CONTA E ORDEM.
+A responsabilidade pelo registro no Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (Siscoserv) é do residente ou domiciliado no País que mantém relação contratual com residente ou domiciliado no exterior para a prestação do serviço.
+Na importação por conta e ordem de terceiros, se o agente de carga, domiciliado no Brasil, apenas representar a pessoa jurídica tomadora do serviço de transporte internacional de carga e os serviços a ele conexos perante os prestadores desses serviços, residentes ou domiciliados no exterior, a responsabilidade pelo registro no Siscoserv dos referidos serviços será: da pessoa jurídica adquirente, se a pessoa jurídica importadora atuar como interposta pessoa, na condição de mera mandatária da adquirente; da pessoa jurídica importadora, quando ela contratar esses serviços em seu próprio nome.
+Quando o agente de cargas, domiciliado no Brasil, contratar, com residente ou domiciliado no exterior, em seu próprio nome, o serviço de transporte internacional de carga e os serviços a ele conexos, caberá a ele o registro desses serviços no Siscoserv.
+SOLUÇÃO DE CONSULTA VINCULADA ÀS SOLUÇÕES DE CONSULTA COSIT Nº 257, DE 26 DE SETEMBRO DE 2014, E Nº 23, DE 7 DE MARÇO DE 2016.
+DISPOSITIVOS LEGAIS: Decreto-Lei nº 37, de 1966, art. 37, § 1º; Medida Provisória nº 2.158-35, de 2001, art. 80; Lei nº 10.406, de 2002, arts. 710, 730 e 744; Lei nº 12.546, de 2011, arts. 24 e 25; Lei nº 12.995, de 2014; Portaria Conjunta RFB/SCS nº 1.908, de 2012; Portaria Conjunta RFB/SCS nº 1.895, de 2013; Portaria Conjunta RFB/SCS nº 219, de 2016; Instrução Normativa SRF nº 225, de 2002, arts. 1º, parágrafo único, 2º, caput e 3º; Instrução Normativa SRF nº 247, de 2002, arts. 12, 86 e 87; Instrução Normativa RFB nº 800, de 2007, arts. 2º, II, e 3º; Instrução Normativa RFB nº 1.277, de 2012; Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+IOLANDA MARIA BINS PERIN
+Chefe
+[arquivo anexo: SC SRRF10-Disit nº 10023-2016.pdf]
