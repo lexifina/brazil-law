@@ -1,0 +1,21 @@
+DECISÃO: A parte recorrente, ao deduzir o presente apelo extremo, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, XXXVI, e 37, XIII, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei estadual nº 1.762/86), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o E. Tribunal de Justiça do Estado do Amazonas, ao proferir a decisão questionada, apoiou-se em dispositivos de ordem meramente legal:
+    “Quanto ao mérito, extrai-se dos autos que a impetrante é funcionária pública estadual, do Quadro de Pessoal da Fundação Alfredo da Mata – FUAM, com os vencimentos integrais dos cargos, mais a vantagem pessoal denominada ‘quintos’, cuja vantagem lhe foram assegurada pelo art. 82 da Lei estadual nº 1.762/86 (Estatuto dos Servidores Civis do Estado do Amazonas).
+    …...................................................................................................
+    No que concerne à impetrante, vale ressaltar que o cargo de confiança de Coordenador de Epidemiologia, simbologia AD-1, exercido pela mesma, por força das disposições do Decreto 23.219, de 06.01.2003, teve suas verbas relativas a vencimentos e representação elevadas significativamente.
+    Não obstante, as autoridades impetradas se recusam a fazer a correspondente revisão nos vencimentos da impetrante, com base nos valores previstos no citado Decreto.
+    O fundamento da recusa foi a simples alegação de que a vantagem pessoal denominada ‘quintos’, prevista no art. 82 da Lei estadual nº 1.762, de 14.11.86 (Estatuto dos Servidores Civis do Estado do Amazonas), fora anteriormente extinta pela Lei Estadual nº 2.531, de 16.04.99.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 633.420/AM, Rel. Min. ROSA WEBER – RE 922.505/AM, Rel. Min. EDSON FACHIN, v.g.):
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. VANTAGEM PESSOAL. QUINTOS. INCORPORAÇÃO. LEIS ESTADUAIS 1.762/86 E 2.271/94. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 27.10.2006.
+    Divergir do entendimento do Tribunal a quo acerca do direito à percepção da vantagem pessoal de ’quintos’ estabelecidos pelas Leis 1.762/86 e 2.271/94 e sua atualização exigiria análise da legislação infraconstitucional aplicável à espécie, bem como reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Precedentes.
+    As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+    Agravo regimental conhecido e não provido.”
+    (ARE 633.661-AgR/DF, Rel. Min. ROSA WEBER)
+    Os precedentes que venho de referir guardam inteira pertinência com a legislação processual que se achava em vigor no momento em que ocorrida a publicação do ato questionado no apelo extremo (“tempus regit actum”).
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 20 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
