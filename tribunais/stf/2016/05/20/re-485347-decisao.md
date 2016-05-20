@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que decidiu pela: (i) inconstitucionalidade da MP 2.170-36/2001, não permitindo a capitalização dos juros com periodicidade inferior a um ano, e (ii) limitação do juros remuneratórios em 12% a/a (doze por cento ao ano), com fundamento na autoaplicabilidade do art. 192, § 3º, da CF.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 5º, XXXV e LV; 62, § 1º; e 192, todos da Constituição Federal.
+    A instância judicante de origem, ao apreciar cláusula de contrato bancário, decidiu que é autoaplicável o § 3º do art. 192 do Magno Texto (redação anterior à EC 40/2003), que limitou os juros remuneratórios a 12% ao ano, bem como vedou a aplicação da capitalização dos juros em qualquer periodicidade.
+    O recurso deve ser provido. Quanto à autoaplicabilidade do mencionado dispositivo constitucional, tenho que incide no caso a Súmula Vinculante 7:
+    “A NORMA DO § 3º DO ARTIGO 192 DA CONSTITUIÇÃO, REVOGADA PELA EMENDA CONSTITUCIONAL Nº 40/2003, QUE LIMITAVA A TAXA DE JUROS REAIS A 12% AO ANO, TINHA SUA APLICAÇÃO CONDICIONADA À EDIÇÃO DE LEI COMPLEMENTAR.”
+    Ademais, o Plenário do Supremo Tribunal Federal assentou o entendimento, sob a sistemática da repercussão geral, no RE 592.377 Rel. Min. Marco Aurélio, de que o art. 5º da MP 2.170/2001 é constitucional, sendo permitida a capitalização dos juros com periodicidade inferior a um ano. Veja-se como ficou a ementa do referido julgado, que teve como redator para o acórdão o Ministro Teori Zavascki:
+    “CONSTITUCIONAL. ART. 5º DA MP 2.170/01. CAPITALIZAÇÃO DE JUROS COM PERIODICIDADE INFERIOR A UM ANO. REQUISITOS NECESSÁRIOS PARA EDIÇÃO DE MEDIDA PROVISÓRIA. SINDICABILIDADE PELO PODER JUDICIÁRIO. ESCRUTÍNIO ESTRITO. AUSÊNCIA, NO CASO, DE ELEMENTOS SUFICIENTES PARA NEGÁ-LOS. RECURSO PROVIDO.
+    1. A jurisprudência da Suprema Corte está consolidada no sentido de que, conquanto os pressupostos para a edição de medidas provisórias se exponham ao controle judicial, o escrutínio a ser feito neste particular tem domínio estrito, justificando-se a invalidação da iniciativa presidencial apenas quando atestada a inexistência cabal de relevância e de urgência.
+    2. Não se pode negar que o tema tratado pelo art. 5º da MP 2.170/01 é relevante, porquanto o tratamento normativo dos juros é matéria extremamente sensível para a estruturação do sistema bancário, e, consequentemente, para assegurar estabilidade à dinâmica da vida econômica do país.
+    3. Por outro lado, a urgência para a edição do ato também não pode ser rechaçada, ainda mais em se considerando que, para tal, seria indispensável fazer juízo sobre a realidade econômica existente à época, ou seja, há quinze anos passados.
+    4. Recurso extraordinário provido. o Supremo Tribunal Federal concluiu pela presença de repercussão geral na matéria envolvendo a constitucionalidade da capitalização mensal dos juros, nos termos da Medida Provisória 2.170-36 (RE 568.396, substituído pelo RE 592.377, ambos da relatoria do ministro Marco Aurélio).
+    5. Esta nossa Casa de Justiça assentou ainda que, em casos como o presente, o regime de que trata o art. 543-B do Código de Processo Civil é aplicável inclusive aos recursos extraordinários interpostos contra acórdãos cuja intimação houver ocorrido antes de 03/05/2007.” (RE 540.410-QO, da relatoria do ministro Cezar Peluso)
+    Diante do exposto, no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário. Invertidos os ônus da sucumbência.
+    Publique-se.
+          Brasília, 20 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
