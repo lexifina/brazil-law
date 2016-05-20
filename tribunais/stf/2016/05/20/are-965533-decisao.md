@@ -1,0 +1,16 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CADERNETA DE POUPANÇA. AÇÃO CIVIL PÚBLICA. LIMITES DA COISA JULGADA. EXECUÇÃO INDIVIDUAL. CONTROVÉRSIA QUANTO À LEGITIMIDADE DE POUPADOR. MATÉRIA JÁ EXAMINADA SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA 848. ARE 901.963. PLANOS ECONÔMICOS. EXPURGOS INFLACIONÁRIOS. MATÉRIA QUE AGUARDA EXAME SOB O ENFOQUE DA REPERCUSSÃO GERAL PELO PLENÁRIO DO STF. TEMA 264. RE 626.307. TEMA 265. RE 591.797. TERMO A QUO PARA A FLUÊNCIA DOS JUROS MORATÓRIOS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO PARCIALMENTE DESPROVIDO. DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “AGRAVO REGIMENTAL – Os juros da mora são devidos a partir da citação – Aplicação da Tabela Prática do Tribunal de Justiça do Estado de São Paulo – Os juros remuneratórios não foram previstos no título exequendo – Impossibilidade da inclusão no quantum debeatur – Entendimento consolidado no Superior Tribunal de Justiça – Pré-questionamento – Recursos improvidos.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXVI e LV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que incidiria o óbice da Súmula 282 do STF.
+    É o relatório. DECIDO.
+    Quanto à ausência de legitimidade da parte autora, ressalto que os limites subjetivos de sentença condenatória genérica transitada em julgado proferida nos autos de ação civil pública ajuizada por associação já foi objeto de julgamento pela sistemática da repercussão geral no Plenário Virtual desta Corte, no ARE 901.963, de relatoria do Min. Teori Zavascki, Tema 848.
+    Ressalte-se, também, que as diferenças de correção monetária de depósitos em caderneta de poupança, por alegados expurgos inflacionários decorrentes dos planos econômicos, aguardam exame por esta Corte na sistemática da repercussão geral (Temas 264 e 265, RE 626.307 e RE 591.797, respectivamente, ambos de relatoria do Ministro Dias Toffoli). Assim, quanto ao objeto principal da ação, faz-se necessária a devolução do feito à origem para aguardar o julgamento dos referidos leading cases.
+    Assevere-se, por fim, que a matéria relativa ao termo a quo para a fluência dos juros de mora, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie, o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição.
+    Ex positis, com fundamento no disposto no artigo 21, § 1º, do RISTF, DESPROVEJO PARCIALMENTE o agravo, especificamente quanto à matéria relativa ao termo a quo para a fluência dos juros de mora, e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO do feito à origem, no que concerne às matérias relativas aos Temas 264, 265 e 848 da repercussão geral.
+    Publique-se.
+    Brasília, 20 de maio de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
