@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “AÇÃO ANULATÓRIA. Autos de infração ambiental. Pesca supostamente irregular. Deficiências dos AIA’s que inviabiliza o direito à defesa. Inexistência de indicação dos dispositivos legais violados, bem como de normas ou regulamentos que estabeleçam, quais são as espécies que devem ser preservadas, citadas no art. 32, § 1º, I, da Resolução SMA nº 32/10. Circunstâncias e depoimentos colhidos que indicam a prática de pesca de subsistência, a qual é autorizada pela Lei Estadual nº 11.165/02. Falta de provas dos danos morais e materiais. Sentença parcialmente reformada. Recurso provido em parte.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, II, da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso extraordinário sob os fundamentos de que: (i) “o acórdão impugnado decidiu com base na legislação infraconstitucional e no conjunto fático probatório, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta”; e (ii) “ofensa que irradiando-se de má interpretação, aplicação, ou, até, inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, pretensão de reexame de provas (Súmulas 279 e 454, ambas do Supremo Tribunal Federal)”.
+    O recurso extraordinário é inadmissível, tendo em vista que para dissentir do acórdão recorrido seria necessária a análise da legislação infraconstitucional pertinente (AIA 214872, do IBAMA, e Resolução nº 37/2005 SMA), procedimento inviável em sede de recurso extraordinário. Nesse sentido, veja-se a ementa do ARE 566.558-AgR, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AMBIENTAL E ADMINISTRATIVO. JULGADO RECORRIDO FUNDAMENTADO NA INTERPRETAÇÃO E NA APLICAÇÃO DAS INSTRUÇÕES NORMATIVAS NS. 6/2002 E 1/2003, DO INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.”
+    Outros precedentes na mesma linha: RE 558.625, Rel. Min. Gilmar Mendes; RE 602.976, Rel. Min. Joaquim Barbosa; e RE 573.384, Rel. Min. Ricardo Lewandowski.
+    Ademais, a solução da controvérsia pressupõe, necessariamente, a análise do material fático probatório dos autos, procedimento vedado em sede de recurso extraordinário. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se
+     Brasília, 20 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
