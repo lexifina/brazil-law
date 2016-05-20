@@ -1,0 +1,25 @@
+RECLAMAÇÃO. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. ALEGAÇÃO DE AFRONTA AO ART. 5º, LV, DA CONSTITUIÇÃO FEDERAL. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL.
+    Vistos, etc.
+    1. Trata-se de reclamação proposta por Raul Wosniak e outro(a/s) contra decisão proferida pela Vice-Presidência do Superior Tribunal de Justiça nos autos do AREsp 712.632/SP, sob alegação de afronta ao art. 5º, LV, da Constituição Federal e de usurpação de competência do Supremo Tribunal Federal.
+    2. Os reclamantes narram que, contra a decisão de inadmissibilidade do recurso extraordinário manejado nos autos do Processo nº 712.632-SP, interpuseram agravo regimental e, posteriormente, agravo do art. 544 do CPC/73. Segundo alegam, foi encaminhado ao Supremo Tribunal Federal apenas o agravo interposto nos próprios autos, e não o recurso extraordinário […] “com toda a matéria de mérito.”
+    3. Afirmam que o Superior Tribunal de Justiça, “[…] ao não encaminhar o recurso extraordinário e ter encaminhado o agravo nos autos, prejudicou os recorrentes em relação ao seu objetivo processual, prejudicando a defesa na forma legal permitida pela Constituição Federal, causando, contudo, a nulidade do ato e dos subsequentes por violar o princípio constitucional do devido processo legal”.
+    4. Requerem a anulação do “[…] acórdão nos autos que julgou o Agravo nos Autos, processo n. 712632-SP (2015/0115590-0), para que seja encaminhado ao Supremo Tribunal Federal o Recurso Extraordinário para julgamento por esta Corte”.
+    É o relatório.
+    Decido.
+    1. A reclamação é instituto processual previsto no texto original da Carta de 1988, destinado à preservação da competência e à garantia da autoridade das decisões do Supremo Tribunal Federal (art. 102, “l”, da Lei Maior). Com o advento da EC nº 45/2004, o texto constitucional passou a contemplar a possibilidade de reclamação em face de ato administrativo ou decisão judicial contrária a súmula vinculante, aprovada, de ofício ou mediante provocação, por decisão de dois terços dos membros desta Suprema Corte, após reiteradas decisões sobre a matéria (art. 103-A, § 3º, da Magna Carta).
+    2. Dentro dessa moldura, inviável cogitar, nessa via processual, de alegada ofensa, por parte do ato reclamado, ao art. 5º, LV, da Constituição Federal.
+    3. Os reclamantes sustentam, ainda, usurpada a competência desta Suprema Corte e requerem a remessa do recurso extraordinário manejado nos autos do AREsp 712.632, à alegação de que o juízo reclamado teria determinado o encaminhamento apenas do agravo interposto contra acórdão que não conheceu do agravo regimental manejado contra decisão de inadmissibilidade do recurso extraordinário.
+    4. Verifico que a Ministra Vice-Presidente do Superior Tribunal de Justiça não admitiu o recurso extraordinário manejado pela parte reclamante à consideração de que não apresentada a preliminar formal de existência da repercussão geral da questão constitucional. Manejado agravo regimental, o recurso não foi conhecido, sob o entendimento de que “contra a decisão que não admite o recurso extraordinário – exatamente a hipótese dos autos – é cabível agravo nos próprios autos para a Suprema Corte, e não agravo regimental.”
+    Interposto agravo nos próprios autos, foi determinado o encaminhamento dos autos a esta Suprema Corte, nos termos da decisão a seguir transcrita:
+    “Trata-se de agravo nos próprios autos interposto por RAUL WOSNIAK e por IVONE FRANCO DE CAMARGO WOSNIAK, após o ato no qual não conheci do agravo regimental manejado contra a decisão em que não admiti o recurso extraordinário, diante da regra do art. 544, caput, do Código de Processo Civil.
+    Não cabe ao Superior Tribunal de Justiça proferir quaisquer juízos sobre pressupostos do presente recurso, pois somente o Supremo Tribunal Federal tem competência para examinar a admissibilidade dos agravos que lhe são dirigidos. A propósito, mutatis mutandis:
+    "AGRAVO DE INSTRUMENTO – JUÍZO PRIMEIRO DE ADMISSIBILIDADE – INADEQUAÇÃO. O agravo de instrumento protocolado visando à seqüência de recurso extraordinário não passa por crivo de admissibilidade na origem, cabendo a remessa automática ao Supremo. " (STF, Rcl 4.484/SP, Rel. Ministro MARCO AURÉLIO, TRIBUNAL PLENO, DJe de 22/11/2007.)
+    Assim, oportunize-se à parte Agravada o prazo de 10 (dez) dias para oferecer resposta (art. 544, § 2.º, do Código de Processo Civil).
+    Após, encaminhem-se os autos ao Supremo Tribunal Federal.
+    Publique-se. Intimem-se.”
+    5. Não há falar em usurpação de competência desta Suprema Corte, uma vez que a autoridade reclamada concluiu não competir ao STJ o exame acerca do cabimento do agavo e determinou expressamente o encaminhamento dos autos para análise por este Supremo Tribunal Federal.
+    6. Ante o exposto, diante da ausência de demonstração de usurpação da competência desta Suprema Corte, forte no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação.
+    Publique-se.
+    Brasília, 20 de maio de 2016.
+Ministra Rosa Weber
+Relatora
