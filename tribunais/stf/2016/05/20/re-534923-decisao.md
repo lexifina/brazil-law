@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Turma Recursal que reconheceu a extensão, para pensionistas de previdência complementar fechada, de abono concedido aos funcionários na ativa.
+    No recurso, aduz-se ofensa aos artigos 5º, II, XXXVI e LIV; 7º, XXVI; 93, IX, 114; 194, parágrafo único; 195, § 5º; 201, caput; e 202, caput § 2º, todos da Constituição Federal. Alega-se violação aos princípios da legalidade, do ato jurídico perfeito, do devido processo legal, e dos princípios norteadores da previdência social.
+    Inicialmente, constato que a alegação referente aos arts. 114 e 202 do Texto Constitucional resta prejudicada, tendo em vista a decisão da Presidência da 1ª Turma Recursal do TJ/SC (fls. 505/506). Quanto ao mais, o Supremo Tribunal Federal já se manifestou sobre os outros temas discutidos nestes autos.
+    Em primeiro lugar, ressalte-se que a jurisprudência desta Corte, consolidada no exame do RE-RG 590.005, de relatoria do Ministro Cezar Peluso, DJe 18.12.2009 (Tema 219), é no sentido de que não possui repercussão geral a discussão referente à possibilidade de extensão, aos beneficiários de plano de previdência privada, de vantagem concedida aos trabalhadores em atividade, em virtude da ausência de matéria constitucional e por demandar o reexame dos fatos e provas dos autos.
+    Por fim, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal e do ato jurídico perfeito é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 20 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
