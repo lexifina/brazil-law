@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face do acórdão da 3ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 157):
+    “Apelação cível - Responsabilidade Civil extracontratual do Estado - Teoria da responsabilidade subjetiva na modalidade do risco administrativo - Inserção equivocada em bancos de dados de proteção ao crédito - Dano moral “in re ipsa” caracterizado - Precedentes do Superior Tribunal de Justiça - Adequação do “quantum” devido a título de danos morais ao disposto no art. 1º- F da lei nº 9.494/97, com redação conferida pela lei nº 11.960/09 - Sentença reformada exclusivamente para adequar a correção monetária e os juros de mora - Recursos voluntário do Estado de São Paulo e oficial parcialmente providos.”
+    No recurso extraordinário (eDOC 1, p. 166-174), interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37, § 6º, do Texto Constitucional.
+    Sustenta-se a impossibilidade de responsabilização do Estado de São Paulo, haja vista a inexistência de nexo causal entre a conduta do Recorrente e o dano alegado pelo Recorrido. Neste sentido, ressalta-se a legalidade na atuação do ente estatal.
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário com base nas Súmulas 279, 282 e 356 do STF (eDOC 1, p. 181).
+    É o relatório.
+    Decido.
+    Quando do julgamento da apelação interposta pelo Recorrente, o Tribunal de origem assentou que (eDOC 1, p. 159):
+    “Com efeito, os documentos acostados às fls. 32/46 e 56/58 demonstram que não havia razão para que o nome da apelada fosse mantido/inserido nos cadastros do CADIN estadual pelos débitos informados às fls. 26.
+    A omissão restou comprovada nos autos, tendo em vista que o agente público, efetivamente, não zelou pela regular inserção de dados no sistema. Cediço que os bancos de dados devem ser alimentados com informações fidedignas, cabendo àquele que vai se utilizar da informação, bem como aqueles que a inseriram certificarem-se da correção, sob pena de arcarem com as consequências legais do ato ilícito. Pouco importa se o protocolo para tais circunstância foi seguido corretamente, o que é fato, é que o procedimento utilizado pelo agente público culminou na negativação indevida.
+    Vislumbra-se, dessa forma, o preenchimento da fórmula: omissão/fato nexo causal dano. O nexo causal se consubstancia na falha/falta de serviço minimamente adequado, conforme determinado pela lei correta inserção e utilização de dados. Sendo que estão ausentes as excludentes de responsabilidade civil do Estado: caso fortuito, força maior, culpa exclusiva da vítima ou o redutor, culpa concorrente entre o Estado e a vítima.
+    O dano moral é evidente, pois atributos da personalidade da apelada foram flagrantemente atingidos pelo evento danoso. Nesse contexto, a quantia fixada a título de danos morais está bem posta, não merecendo nenhum ajuste.”
+    Desta forma, constata-se que, de fato, eventual divergência ao entendimento adotado pelo juízo a quo acerca da caracterização dos elementos ensejadores da responsabilidade civil demandaria o reexame de fatos e provas, de modo a inviabilizar o processamento do apelo extremo, tendo em conta o enunciado da Súmula 279 do STF. Neste sentido os seguintes precedentes: ARE 916.540 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.12.2015 e ARE 842.590 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 30.04.2015.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 20 de maio de 2016.
+Ministro Edson Fachin
+Relator
