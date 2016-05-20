@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Câmara de Direito Privado do Tribunal de Justiça de São Paulo, assim ementado:
+    “Decisão da relatoria que negou seguimento a agravo de instrumento em face da ausência de interesse recursal – Regimental que busca alterar a monocrática sob os mesmíssimos argumentos – Descabimento – Tema não tratado na deliberação atacada que comportará exame oportuno – Recurso improvido.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do artigo 7º, inciso X, da Constituição Federal.
+    O Superior Tribunal de Justiça, em decisão transitada em julgado, negou seguimento ao agravo da decisão que não admitiu o recurso especial interposto simultaneamente ao extraordinário.
+    Decido.
+    A irresignação não merece prosperar, haja vista que a discussão acerca do pressuposto processual do interesse de agir está restrita ao plano da legislação processual ordinária. Desse modo, alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “DIREITO PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. INTERESSE DE AGIR. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 02.02.2010. Divergir do entendimento do Tribunal de origem que decidiu no sentido de manter a sentença que julgou extinto o processo sem resolução de mérito, por reconhecer a ausência de interesse de agir, exigiria a análise da legislação processual aplicável à espécie, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário, considerada a disposição do art. 102, III, “a”, da Lei Maior. Precedentes. Agravo regimental conhecido e não provido” (RE nº 629.595/PB-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 25/8/14).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INTERESSE DE AGIR. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n° 599.258/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 21/9/07).
+    “Agravo regimental. Execução fiscal. Extinção. Falta de interesse de agir. - Necessidade de exame prévio de norma infraconstitucional para a verificação de contrariedade ao Texto Maior. - Caracterização de ofensa reflexa ou indireta. Agravo regimental a que se nega provimento” (AI n° 327.033/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 12/11/04).
+    “PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NORMAS PROCESSUAIS. OFENSA REFLEXA. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280. AGRAVO IMPROVIDO. I - Ausência de prequestionamento das questões constitucionais suscitadas. Incidência das Súmulas 282 e 356 do STF. II - O acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. III - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. IV - Agravo regimental improvido” (AI nº 631.775/AL-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 13/3/09).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 20 de maio de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
