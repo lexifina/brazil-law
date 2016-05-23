@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+    “TRIBUTÁRIO. Ação ordinária visando à anulação do lançamento de valor apurado pra ITBI. A jurisprudência do STJ firmou-se no sentido de que o fato gerador do ITBI é o registro imobiliário. A escritura de promessa de compra e venda, mesmo que quitada, revela apenas aspectos patrimoniais do direito de propriedade, não configurando direito de dispor, o que só ocorre com a transcrição do título translativo no registro imobiliário. Embora seja possível excepcionalmente a cobrança do imposto antes do fato gerador, para tanto é necessário previsão legal, como ocorre, em especial, no caso da dinâmica circulação de bens. Pensar-se de forma diferente é ferir o princípio da legalidade estrita e subverter arbitrariamente a regra geral do Direito Tributário, consubstanciada no § 1º do artigo 113 do CTN, onde se enuncia que a obrigação tributária principal surge com o fato gerador. RECURSO PROVIDO”. (fl. 148)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 150, § 7°, do texto constitucional.
+    Nas razões recursais, alega-se que a legislação municipal permite a cobrança do ITBI antes do fato gerador – o registro imobiliário do título translativo –, de modo que não há violação constitucional na imposição de multa e juros de mora para o pagamento após o trigésimo dia da quitação do preço, acertado em contrato de promessa de compra e venda. (fl. 14)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o entendimento fixado no acórdão não destoa da jurisprudência pacífica desta Corte, segundo a qual o fato gerador do ITBI origina-se no momento do registro do bem imóvel.
+    Nesse sentido, confiram-se os julgados abaixo:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS. FATO GERADOR. PROMESSA DE COMPRA E VENDA. IMPOSSIBILIDADE. 1. A cobrança de ITBI é devida no momento do registro da compra e venda na matrícula do imóvel. 2. A jurisprudência do STF considera ilegítima a exigência do ITBI em momento anterior ao registro do título de transferência da propriedade do bem, de modo que exação baseada em promessa de compra e venda revela-se indevida. 3. Agravo regimental provido”. (grifei – ARE 759.964/RJ-AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe 29.9.2015)
+    “Agravo regimental no recurso extraordinário com agravo. ITBI. Alcance do art. 150, § 7º, CF. Matéria não decidida nas instâncias ordinárias. Impossibilidade de apreciação. 1. A matéria atinente ao alcance do art. 150, § 7º, da CF não foi objeto de decisão nas instâncias ordinárias. Normas da legislação municipal que não foram analisadas no acórdão recorrido. Impossibilidade de análise, em sede de recurso extraordinário, de questões não decididas na origem, sob pena de supressão de instância. 2. O entendimento da jurisprudência desta Corte é de que o fato gerador do ITBI somente ocorre com a transferência efetiva da propriedade imobiliária, mediante o registro competente. 3. Agravo regimental não provido”. (ARE 765899 AgR, rel. Min. Dias Toffoli, Primeira Turma, DJe 17.3.2014)
+    Cito também as decisões monocráticas: ARE 825019/RJ, de minha relatoria, DJe 8.9.2014; e ARE 888799/RJ, rel. Min. Roberto Barroso, DJe 6.8.2015.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
