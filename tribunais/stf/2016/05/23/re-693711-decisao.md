@@ -1,0 +1,21 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Mato Grosso do Sul, está assim ementado:
+    “APELAÇÃO CÍVEL – REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO – ADICIONAL POR TEMPO DE SERVIÇO – PAGAMENTO A MENOR – DIFERENÇAS DEVIDAS – ATO ADMINISTRATIVO CONTRÁRIO À LEI – INOVAÇÃO – RECURSO PROVIDO PARCIALMENTE.
+    Verificado que o pagamento do adicional por tempo de serviço estava sendo efetuado em valor inferior aos 25% a que tinha direito o servidor, o Poder Público deve pagar a diferença das prestações não prescritas.
+    Ato administrativo que contrariou a lei não pode ser considerado ato jurídico perfeito.
+    Rejeita-se, por constituir inovação em fase recursal, o exame de matéria que não foi objeto de defesa nem de debate ou apreciação judicial em primeira instância.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal "a quo" teria transgredido os preceitos inscritos nos arts. 2º, 5º, XXXVI, 18 ,25 e 37, XIV e XV, da Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário não se revela viável.
+    Cabe referir, desde logo, que – com a exceção dos temas concernentes às alegadas transgressões aos preceitos inscritos nos arts. 5º, XXXVI e 37, XV, da Constituição – os demais temas não se acham devidamente prequestionados.
+    Ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368, Rel. Min. MOREIRA ALVES – RTJ 131/1391, Rel. Min. CELSO DE MELLO – RTJ 144/300, Rel. Min. MARCO AURÉLIO – RTJ 153/989, Rel. Min. CELSO DE MELLO), incidem as Súmulas 282 e 356 desta Corte.
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    A configuração jurídica do prequestionamento – que traduz elemento indispensável ao conhecimento do recurso extraordinário – decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 – RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+    Cabe salientar, de outro lado, a propósito da alegada violação aos arts. 5º, XXXVI e 37, XV, da Constituição Federal, que o Plenário desta Suprema Corte, após reconhecer configurada a existência de repercussão geral do tema, julgou o fundo da controvérsia constitucional (igualmente objeto de veiculação nesta causa), proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO À REGIME JURÍDICO. BASE DE CÁLCULO DE VANTAGENS PESSOAIS. EFEITO CASCATA: PROIBIÇÃO CONSTITUCIONAL. PRECEDENTES. IMPOSSIBILIDADE DE REDUÇÃO DOS VENCIMENTOS. PRINCÍPIO DA IRREDUTIBILIDADE DOS VENCIMENTOS. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO.”
+    (RE 563.708/MS, Rel. Min. CÁRMEN LÚCIA)
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito desta Corte a propósito de questão essencialmente idêntica à que ora se examina nesta sede recursal (RE 602.344-AgR/AM, Rel. Min. DIAS TOFFOLI – RE 630.576/AM, Rel. Min. CELSO DE MELLO – RE 895.551/AM, Rel. Min. ROBERTO BARROSO, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC/15, art. 932, IV, “b”).
+    Publique-se.
+    Brasília, 23 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
