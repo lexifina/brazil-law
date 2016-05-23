@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à condenação da ré pela prática de exploração de jogos de azar. No extraordinário cujo processamento busca alcançar, a recorrente alega a violação do artigo 5º, incisos XLVI e LVII, da Constituição Federal. Diz não comprovada a autoria e materialidade, considerada a condenação com base exclusivamente no testemunho de policial, depoente sem imparcialidade.
+    2. Da sentença constaram os seguintes fundamentos:
+    O local, como comprovado, se destinava ao jogo de azar, sendo que ali haviam máquinas caça-níqueis que foram apreendidas. O referido policial ainda afirmou que a acusada estava no local e se apresentou como responsável e que as máquinas estavam ligadas e eram visíveis ao público.
+    A ré é revel e com isso deixou de apresentar sua versão sobre os fatos. No entanto, confessou a autoria do delito na fase policial, como se vê do relato do TCO.
+    (…)
+    Lado outro, é cediço que para caracterizar o jogo de azar punível pela lei, além do local público ou acessível ao público, é necessário haver uma exploração habitual, isto é, frequente, costumeira ou repetida. Dessa forma, pela análise dos autos, não resta dúvida de que a prática contraconvencional foi desenvolvida de forma habitual, como se vê pelos depoimentos das testemunhas.
+    A Turma Recursal assim resumiu a decisão recorrida:
+    Artigo 50 da LCP - a conduta em exame, trata-se de exploração de máquinas operadoras do jogo popularmente conhecido como "caça-níqueis" - os jogos eletrônicos desempenhados nas denominadas "máquinas caça-níqueis", muito embora tenham sido questão polêmica no sentido de configurar ou não a contravenção do jogo de azar, não podem ser considerados meros instrumentos mecânicos de entretenimento, pois em que pese entendimento contrário, levam sim o usuário a perder muito mais do que ganha, não havendo que se falar que o objetivo único de tais aparelhos é simplesmente proporcionar prazer, divertimento - a prova testemunhal coligida mostra-se harmônica com o laudo pericial e confissão extrajudicial da acusada, todos a demonstrar a prática do delito - no que diz respeito à prestabilidade do depoimento dos policiais como prova a sustentar um decreto condenatório, é de bom alvitre ressaltar que a jurisprudência majoritária é no sentido de que os policiais merecem, em seus relatos, a normal credibilidade dos testemunhos em geral, a não ser quando se apresente razão concreta de suspeição - enquanto isso não ocorra e desde que não defendam interesse próprio, suas palavras servem para formar o convencimento do julgador - sentença mantida pelos seus próprios fundamentos.
+    As instâncias julgadoras consignaram ser a prova testemunhal colhida harmônica com o laudo pericial e com a confissão extrajudicial da acusada. As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 23 de maio de 2016.
+Ministro MARCO AURÉLIO
+Relator
