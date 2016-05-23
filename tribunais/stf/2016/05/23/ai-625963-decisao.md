@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo de instrumento em que se discute a imunidade de jurisdição de organizações internacionais. O feito estava sobrestado até que a controvérsia fosse julgada pelo Supremo Tribunal Federal (RE 578.543, Relª. Minª. Ellen Gracie).
+    Afasto o sobrestamento e passo a análise do recurso.
+    O recurso extraordinário busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II e XXXV; 93, IX e; 114, todos da Constituição Federal.
+    A parte agravante pede a reforma do acórdão recorrido para que seja julgada procedente a ação rescisória para reconhecer a imunidade de jurisdição e execução da Organização das Nações Unidas.
+    O recurso extraordinário deve ser provido, tendo em vista que o Plenário desta Corte, ao analisar o RE 578.543, Relª. Minª. Ellen Gracie, firmou entendimento de que as entidades internacionais gozam de imunidade de jurisdição quando há essa previsão em “norma específica nesse sentido, ou seja, tratados constitutivos e acordos de sede solenemente celebrados pelo Brasil” e a organização internacional. Veja-se trecho do voto da relatora:
+    “No tocante à imunidade de jurisdição das organizações intergovernamentais, sua origem e finalidade, como não poderia ser diferente, são igualmente diversas daquela usufruída pelos Países. Enquanto estes a têm, ainda que de forma abrandada, por força de direito consuetudinário internacional, os organismos interestatais a recebem por expressa e formal vontade dos Estados-membros que os constituem.
+    É preciso ficar claro que a imunidade de jurisdição não é um atributo inerente à condição de organização internacional. A regra é, portanto, que elas não as tenha. Esses entes de direito público externo somente a gozarão, perante o Estado brasileiro, se existente norma específica nesse sentido, ou seja, tratados constitutivos e acordos de sede solenemente celebrados pelo Brasil nos quais estejam definidos os privilégios e imunidades que terão determinada organização internacional e seu pessoal no âmbito jurisdicional do Estado receptor. Caso contrário, não haverá qualquer distinção, para efeito de exercício da jurisdição, entre essas entidades de direito público externo e as demais pessoas jurídicas de direito interno.
+    Aliás, esta Casa já enfrentou caso no qual a verificação da existência de acordo internacional, perfeito e acabado, mostrou-se determinante para o reconhecimento da imunidade jurisdicional de determinado organismo internacional do qual o Governo Brasileiro havia se tornado membro.”
+    No caso, a ora recorrente é a mesma entidade do processo paradigma da repercussão geral supracitada, em que já foi comprovada a imunidade de jurisdição e execução da Organização das Nações Unidas.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário para reconhecer a imunidade de jurisdição da parte recorrente, julgando procedente a ação rescisória e determinando o arquivamento, sem exame de mérito, da reclamação trabalhista.
+    Publique-se.
+          Brasília, 23 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
