@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF06 nº 6024, de 19 de maio de 2016
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA (CPRB). OPÇÃO. MAJORAÇÃO DE ALÍQUOTA. 1. A Contribuição Previdenciária sobre a Receita Bruta - CPRB somente se tornou opcional a partir de 1º de dezembro de 2015, em relação aos fatos geradores ocorridos a partir dessa data, e, para o ano de 2015, essa opção formaliza-se mediante o pagamento da contribuição incidente sobre a receita bruta relativa à competência dezembro de 2015. 2. A majoração da alíquota da CPRB somente se aplica para os fatos geradores ocorridos a partir de 1º de dezembro de 2015 (competência dezembro/2015), devendo a competência novembro de 2015 ser recolhida com utilização das alíquotas anteriormente previstas. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 24, DE 23/03/2016.
+DISPOSITIVOS LEGAIS: Constituição Federal de 1988, art. 195, §§ 6º e 13; Medida Provisória nº 540, de 2011, art. 1º; Lei nº 12.546, de 2011, arts. 8º, 8º-A, art. 9º, §§ 13 e 14; Lei nº 12.715, de 2012, art. 55; Lei nº 13.161, de 2015, art. 1º e 7º; Lei nº 8.212, de 1991, art. 22, incisos I e III; Instrução Normativa RFB nº 1.436, de 2013, art. 1º, §§ 5º e 6º; Instrução Normativa RFB nº 1.597, de 2015, art. 1º.
+Novo segmento
+[arquivo anexo: SC SRRF06-Disit nº 6024-2016.pdf]
