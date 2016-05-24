@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de conflito de atribuições suscitado pelo Ministério Público do Estado de São Paulo em face do Ministério Público Federal para a apuração de suposto delito de posse ilegal de arma de fogo, cuja figura penal está prevista no art. 14 da Lei 10.826/03 (fls. 66/69).
+    O Ministério Público do Estado de São Paulo sustenta deter atribuição para investigar o eventual crime narrado, argumentando ser competente a Justiça Estadual Comum para o julgamento da matéria. O Ministério Público Federal, por sua vez, entende ser a Justiça Federal a competente, razão pela qual, igualmente, sustenta deter atribuição para investigar os fatos noticiados.
+    Diante da divergência instalada, os autos foram encaminhados a esta Corte para solução do conflito.
+    Após o parecer da Procuradoria-Geral da República (fls. 107/121), os autos vieram-me conclusos.
+    É o relatório. Decido.
+    O entendimento até então adotado na ambiência deste Supremo Tribunal Federal decorria do julgamento da Petição 3.528-3/BA, Rel. Min. Marco Aurélio (DJ 03.03.2006). Assentou-se, naquela oportunidade, ser competente esta Suprema Corte para dirimir conflito de atribuições entre Ministério Público Federal e Ministério Público Estadual, não só com base no art. 102, I, f, da Constituição, mas também forte no argumento segundo o qual, na ausência de um Tribunal expressamente designado pela Constituição, caberia a este Supremo Tribunal Federal, como Órgão de cúpula do Judiciário, decidir a respeito.
+    Contudo, tendo em vista novel orientação traçada pelo Plenário deste Supremo Tribunal Federal, quando do julgamento da ACO 924, de relatoria do Min. Luiz Fux, da ACO 1.394, de relatoria do Min. Marco Aurélio, e das PET 4.706 e 4.863, ambas igualmente de relatoria do Min. Marco Aurélio, na data de 19.05.2016, restou definido, em guinada jurisprudencial, que esta Corte não é competente para dirimir o conflito de atribuições entre Ministério Público Federal e Ministério Público Estadual. Isso porque o art. 102, I, f, da Constituição, ao atribuir competência ao Supremo Tribunal Federal para julgar as causas e os conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da administração indireta, não o faz para todo e qualquer conflito envolvendo órgãos vinculados a diferentes pessoas políticas da Federação, mas tão só aos conflitos que pudessem comprometer a harmonia do pacto federativo.
+    Destarte, decidido restou que não mais cabe a esta Corte dirimir ordinariamente eventual conflito de atribuições entre Ministério Público Federal e Ministério Público Estadual. Na mesma ocasião, foi assentado que competirá ao Procurador-Geral da República a tarefa de resolver esses conflitos de atribuições.
+    Consigno, apenas para fins de registro, que não participei do julgamento dos precitados processos, já que meu antecessor, Min. Joaquim Barbosa, havia proferido voto anteriormente.
+    Sendo assim, ressalvado posicionamento pessoal sobre a matéria, em observância ao princípio da colegialidade, não conheço do presente conflito de atribuições, com fulcro no art. 21, §1º, do RISTF.
+    Diante do que foi decidido no Tribunal Pleno desta Corte, após as diligências e baixas necessárias, encaminhem-se os autos à Procuradoria-Geral da República para decisão sobre o conflito de atribuições em comento.
+    Publique-se.
+    Brasília, 24 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
