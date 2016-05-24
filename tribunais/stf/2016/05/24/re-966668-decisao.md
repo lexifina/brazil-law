@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    BV Financeira S/A Crédito Financiamento e Investimento interpôs recurso extraordinário contra acórdão da Décima Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “EMENTA: REVISIONAL DE CONTRATO – CÉDULA DE CRÉDITO BANCÁRIO – JUROS REMUNERATÓRIOS – LEI DE USURA – INAPLICABILIDADE – CAPITALIZAÇÃO DE JUROS – IMPOSSIBILIDADE – COMISSÃO DE PERMANÊNCIA – NÃO CUMULAÇÃO COM OUTROS ENCARGOS – MANUTENÇÃO – TARIFA DE ABERTURA DE CRÉDITO – COBRANÇA INDEVIDA – DEVOLUÇÃO EM DOBRO.”
+    Alega-se, no apelo extremo, a constitucionalidade do artigo 5 da Medida Provisória nº 2.170-36/01, que prevê a possibilidade da capitalização de juros com periodicidade inferior a um ano.
+    O Tribunal de origem, por força da norma do artigo 543-C, § 7º, inciso II, do Código de Processo Civil 1973, o tribunal examinou novamente a questão, prolatando novo acórdão no qual ficou autorizada a capitalização mensal dos juros. Esse julgado ficou assim ementado:
+    “CONTRATO BANCÁRIO – CÉDULA DE CRÉDITO BANCÁRIO – REVISÃO – CAPITALIZAÇÃO DOS JUROS – PERMISSÃO. Desde que pactuada, é permitida a capitalização mensal dos juros em cédula de crédito bancário. V.V. REVISIONAL DE CONTRATO - NULIDADE DA SENTENÇA - NEGÓCIO JURÍDICO NULO - LEI 7.492/86 - CDC - APLICABILIDADE - CAPITALIZAÇÃO DE JUROS - VEDAÇÃO. A sentença carente dos requisitos dos artigos 4º da LINDB, e do artigo 126 do CPC é nula de pleno direito. A validade do negócio jurídico pressupõe agente capaz, objeto lícito e forma prescrita ou não proibida pela Lei, sendo nulos os contratos de mútuo firmados entre consumidores e instituições financeiras, uma vez que o artigo 8º da Lei 7.492 de 16 de junho de 1986 define como crime a cobrança por instituição vinculada ao sistema financeiro nacional de juros comissão ou qualquer tipo de remuneração sem que haja previsão na Lei. A Lei 8.070/90 concebeu um sistema de proteção ao consumidor que fixa parâmetros de conduta que devem ser observados pelos fornecedores de serviços e servem como medida para a aferição da legalidade da prestação fornecida, tomando-se por base a legítima expectativa do consumidor, consoante os limites da função social do contrato e da boa-fé objetiva. As medidas provisórias que supostamente autorizam a capitalização dos juros por instituições financeiras são despidas de valor legal, pela falta de competência do executivo para legislar e ainda porque a matéria não se reveste da urgência ou relevância que autoriza, nos termos Constitucionais, a edição de medida provisória.”
+    Decido.
+    Conforme destacado, o Tribunal de Justiça do Estado de Minas Gerais reexaminou a questão e concluiu pela possibilidade da capitalização mensal de juros, o que torna prejudicado o recurso extraordinário que versa, unicamente, sobre esse tema.
+    Ante o exposto, nos termos do artigo 21, inciso IX, do Regimento Interno do Supremo Tribunal Federal, julgo prejudicado o recurso extraordinário.
+    Publique-se.
+    Brasília, 24 de maio de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
