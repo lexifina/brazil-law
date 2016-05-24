@@ -1,0 +1,19 @@
+DECISÃO:
+    Vistos.
+    O Estado da Bahia interpõe agravo contra decisão que inadmitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso XXXV e XXXVI, 37, caput, incisos XIV e XV, 40, caput, § 8º, 93, inciso IX, 149, 194, parágrafo único, inciso V e 195, inciso II da Constituição.
+    Insurge-se, no apelo extremo, contra acórdão do Tribunal de Justiça da Bahia que entendeu pela impossibilidade da incidência de contribuição previdenciária sobre os proventos de inativos e pensionistas.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente observo que a matéria constitucional contida nos arts. 5º, XXXV e XXXVI e 37, caput, incisos XIV e XV, da Constituição carece do necessário prequestionamento, sendo certo que não foi objeto dos embargos de declaração opostos. Incidência das Súmulas 282 e 356 da Corte.
+    Ademais,o Plenário do Supremo Tribunal Federal, no julgamento do RE nº 580.871-QO-RG/SP, Relator o Ministro Gilmar Mendes, reafirmou a jurisprudência no sentido de que é indevida a cobrança da contribuição previdenciária sobre os proventos de inativos e pensionistas após o advento da EC n° 20/98 até a edição da EC n° 41/03. O acórdão restou assim ementado:
+    “Questão de ordem. 2. É devida a devolução aos pensionistas e inativos de contribuição previdenciária indevidamente recolhida no período entre a EC 20/98 e a EC 41/03, sob pena de enriquecimento ilícito do ente estatal. Precedentes. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso, autorizar a devolução aos tribunais de origem dos recursos extraordinários e agravos de instrumento que versem sobre o mesmo tema, autorizando as instâncias de origem a adotar procedimentos do art. 543-B, § 3º, do Código de Processo Civil” (RE nº 580.871-QO-RG/SP, Plenário, Relator o Ministro Gilmar Mendes, DJe de 13/12/10).
+     No mais, observo que, embora seja pacífico o entendimento da Corte de que é constitucional a cobrança de contribuições previdenciárias sobre os proventos de servidores inativos após a entrada em vigor da Emenda Constitucional nº 41/2003, no caso dos autos o Tribunal de origem reconheceu que a Lei Estadual nº 7.249/98, que disciplinava os descontos em questão, é anterior à vigência da referida emenda, e contemporânea à vigência da EC 20/98. Entendeu, ainda, que referida lei não foi convalidada pela EC 41/2003, o que está em consonância com o entendimento desta Suprema Corte de que não existe constitucionalidade superveniente no ordenamento jurídico brasileiro. Nesse sentido:
+    “CONTRIBUIÇÃO PREVIDENCIÁRIA DOS INATIVOS – LEI Nº 6.915, DE 1995, DO ESTADO DA BAHIA – EMENDA CONSTITUCIONAL Nº 41, DE 2003 – CONSTITUCIONALIDADE SUPERVENIENTE – IMPOSSIBILIDADE. Lei estadual que instituiu contribuição de inativo, inconstitucional quando da edição, não se torna válida em razão de mudança do parâmetro normativo superior. O Supremo já assentou inexistir, no ordenamento jurídico nacional, a constitucionalidade superveniente. Precedentes – Ação Direta de Inconstitucionalidade nº 2.158/PR, relator ministro Dias Toffoli, Diário da Justiça de 16 de dezembro de 2010.” (AI 620557 AgRG, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, julgado em 25/03/2014, ACÓRDÃO ELETRÔNICO Dje – 071 DIVULG 09-04-2014 PUBLIC 10-04-2014)
+    Para que os descontos efetuados pelo Estado da Bahia fossem considerados legítimos seria necessário que ele demonstrasse a existência de lei posterior à EC 41/2003 que validasse a cobrança de contribuições previdenciárias, o que não foi feito.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de maio de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
