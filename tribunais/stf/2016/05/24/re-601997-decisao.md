@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da 2ª Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “PROCESSO CIVIL. EMBARGOS À EXECUÇÃO DE SENTENÇA. 84,32%. TRANSITO EM JULGADO. COISA JULGADA SOBERANA. VALIDADE FORMAL DA EXECUÇÃO. LEGITIMAÇÃO PASSIVA E ATIVA. EXIGIBILIDADE DO TÍTULO.
+    - A inicial das execuções de sentença não reclama complexidade formal, até porque se segue ao processo de cognição, bastando a identificação das partes, a enunciação do valor e o desejo do vencedor de ver cumprida a obrigação.
+    - Proposta a ação contra autarquia federal que se extingue depois de instaurada a instância, tem, a União Federal, bem assim a autarquia que sucede a extinta, legitimidade passiva para responder pela condenação;
+    - Nas ações coletivas que versem sobre interesses individuais homogêneos, a lista de substituídos processuais que acompanha a inicial do processo de cognição não pode ser posteriormente complementada, máxime em casos onde a matéria já restou discutida e preclusa, devendo ser acolhida a preliminar de ilegitimidade ativa quanto aos exeqüentes que não figuravam da lista original;
+    - A decisão do STF que torna inexigível o título executivo judicial, nos termos do parágrafo único, do art. 741, do CPC, é a tomada em sede de controle concentrado, dado que opera efeitos erga omnes e vinculantes. Assim, a inexigibilidade da sentença é sanção imposta ao ato judicial recalcitrante. Não é o que ocorre no caso dos autos onde a sentença é anterior ao pronunciamento da Suprema Corte, este em sede de controle difuso, daí porque o título é exigível;
+    - Se o tão só julgamento do Supremo Tribunal Federal, em sede de controle difuso, em desfavor de uma tese, fosse suficiente para deseficacizar todas as outras decisões, passadas e futuras, em favor da mesma tese, seria desnecessária a existência, no sistema jurídico, do próprio Recurso Extraordinário;
+    - Apelação parcialmente provida"(fl. 416).
+    Alega a parte recorrente contrariedade aos arts. 5º, incisos XXXV, XXXVII, LIV e LV, 37 e 97 da Constituição Federal.
+    Decido.
+    Inicialmente, torno sem efeito o sobrestamento determinado à folha 964 dos autos.
+    O presente recurso extraordinário foi interposto contra acórdão proferido pelo TRF da 5ª Região o qual rejeitou a aplicação do art. 741, parágrafo único, do Código de Processo Civil de 1973 por entender que referida norma somente se presta a desconstituir título executivo quando a coisa julgada julgada houver se formado em desconformidade com entendimento proferido pelo Supremo Tribunal Federal em controle concentrado.
+    No apelo extremo, insiste a União que se aplica ao caso a citada norma processual, devendo, em consequência, ser declarado inexigível o título executivo por excesso de execução, haja vista que este STF já teria reconhecido a ausência de direito adquirido ao reajuste de 84,32% concedido aos associados da recorrida na ação de conhecimento que se executa na origem.
+    Assim, é certo que a questão posta nos autos não se refere à análise da questão de fundo, relativa ao direito dos associados da recorrida à revisão de vencimentos, posto que já reconhecido por sentença transitada em julgado, mas sim à possibilidade de esse título ser afastado, com fundamento no art. 741, parágrafo único, do Código de Processo Civil de 1973, em virtude de julgados proferidos pelo STF, declarando a ausência do direito dos servidores ao reajuste de 84,32%, que serviu de fundamento ao título judicial exequendo.
+    O Supremo Tribunal Federal, no exame do RE nº 586.068/PR, Relatora a Ministra Rosa Weber, reconheceu a repercussão geral dessa discussão, o qual corresponde ao Tema nº 100 da Gestão por Temas da Repercussão Geral do portal do STF na internet.
+    Posteriormente, a Ministra Cármen Lúcia, no exame do RE nº 595.629/PE, afirmou, ainda, que o debate travado no citado processo paradigma abrange: “a) a constitucionalidade do mencionado artigo em face da coisa julgada; b) a possibilidade de aplicação retroativa do dispositivo; e c) a necessidade de declaração de inconstitucionalidade de norma pelo Supremo Tribunal em controle concentrado”.
+    Com efeito, a decisão a ser proferida no processo submetido à sistemática da repercussão geral poderá refletir na orientação a ser adotada no presente recurso extraordinário, uma vez que a questão concernente à relativização da coisa julgada é prejudicial à análise do tema de fundo. A depender do resultado do julgamento no recurso paradigma, a Corte de origem terá que reconhecer o óbice da coisa julgada, mantendo, outrossim, a concessão do reajuste, ou afastá-lo e, então, novamente se debruçar acerca do direito ao pagamento da vantagem.
+    Adotando a orientação aqui exposta, registro a decisão proferida no RE nº 854.238/DF-AgR, de minha Relatoria, publicada no DJe de 20/8/15.
+    Ante o exposto, nos termos do art. 328 do Regimento Interno do Supremo Tribunal Federal, determino a devolução dos autos ao Tribunal de origem para aplicação da sistemática da repercussão geral quanto ao tema ora suscitado.
+    Publique-se.
+    Brasília, 24 de maio de 2016.
+Ministro Dias Toffoli
+Relator
+documento assinado digitalmente
