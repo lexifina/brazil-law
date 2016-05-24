@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO – PROCESSO EM FASE DE EXECUÇÃO DE SENTENÇA – URP DE FEVEREIRO/89 – ARGÜIÇÃO DE INEXIGIBILIDADE DO TÍTULO EXECUTIVO - ART. 741, PARÁGRAFO ÚNICO, DO CPC - ÓBICE DA SÚMULA 266 DO TST E DO ART. 896, § 2°, DA CLT.
+    1. Consoante o disposto no parágrafo único do art. 741 do CPC, considera-se inexigível o título judicial fundado em lei ou ato normativo declarados inconstitucionais pelo Supremo Tribunal Federal, ou fundado em aplicação ou interpretação da lei ou ato normativo tidas pelo Supremo Tribunal Federal como incompatíveis com a Constituição Federal.
+    2. Na hipótese vertente, a Executada se insurge contra a decisão proferida pelo Regional, sustentando que o Supremo Tribunal Federal concluiu pela inconstitucionalidade dos reajustes alusivos aos Planos Econômicos, de modo que o título exeqüendo deve ser considerado inexigível, em face da diretriz do dispositivo legal supramencionado, sob pena de violação do art. 5°, II e XXXVI, da CF.
+    3. Observa-se, portanto, que a Executada pretende discutir, na seara da execução de sentença, a aplicabilidade da diretriz do art. 741, parágrafo único, do CPC, em relação aos julgamentos anteriores a sua vigência, questão que poderia configurar apenas ofensa indireta ou reflexa a normas constitucionais (questão de direito intertemporal, ligada ao art. 6º da LICC). Assim sendo, a alegação de afronta aos incisos II e XXXVI do art. 5° da CF não poderia dar azo ao recurso de revista, em sede de processo de execução, já que tais dispositivos tratam, genericamente, de princípios-normas constitucionais, incidindo o óbice da Súmula 266 do TST e do art. 896, § 2°, da CLT.
+    Agravo de instrumento desprovido” (fl. 187).
+    Alega a parte recorrente contrariedade aos incisos II e XXXVI do art. 5º da Constituição Federal.
+    Decido.
+    Inicialmente, afasto o sobrestamento anteriormente determinado nestes autos.
+    O presente recurso extraordinário foi interposto contra acórdão proferido no julgamento de agravo de instrumento em recurso de revista aviado no processamento de execução movida pela ora recorrida contra a União. Pretende esta, com o provimento do apelo extremo, tornar inexigível sentença trabalhista transitada em julgado na qual se reconheceu à parte recorrida direito à diferenças remuneratórias.
+    Com efeito, a questão posta nos autos não se refere à análise da questão de fundo, relativa ao direito da recorrida à revisão de vencimentos, posto que já reconhecido por sentença transitada em julgado, mas sim à possibilidade de esse título ser afastado, com fundamento no art. 741, parágrafo único, do Código de Processo Civil de 1973, em virtude do julgamento proferido na ADI nº 694/DF, no qual reconhecida a inconstitucionalidade do ato normativo que serviu de fundamento ao título judicial exequendo.
+    O Supremo Tribunal Federal, no exame do RE nº 586.068/PR, Relatora a Ministra Rosa Weber, reconheceu a repercussão geral dessa discussão, o qual corresponde ao Tema nº 100 da Gestão por Temas da Repercussão Geral do portal do STF na internet.
+    Posteriormente, a Ministra Cármen Lúcia, no exame do RE nº 595.629/PE, afirmou, ainda, que o debate travado no citado processo paradigma abrange: “a) a constitucionalidade do mencionado artigo em face da coisa julgada; b) a possibilidade de aplicação retroativa do dispositivo; e c) a necessidade de declaração de inconstitucionalidade de norma pelo Supremo Tribunal em controle concentrado”.
+    É certo que a decisão a ser proferida no processo submetido à sistemática da repercussão geral poderá refletir na orientação a ser adotada no presente recurso extraordinário, uma vez que a questão concernente à relativização da coisa julgada é prejudicial à análise do tema de fundo. A depender do resultado do julgamento no recurso paradigma, a Corte de origem terá que reconhecer o óbice da coisa julgada, mantendo, outrossim, a concessão do percentual de 26,05%, ou afastá-lo e, então, novamente se debruçar acerca do direito ao pagamento do reajuste face ao julgado proferido na ADI nº 694/DF.
+    Adotando a orientação aqui exposta, registro a decisão proferida no RE nº 854.238/DF-AgR, de minha Relatoria, publicada no DJe de 20/8/15.
+    Ante o exposto, nos termos do art. 328 do Regimento Interno do Supremo Tribunal Federal, determino a devolução dos autos ao Tribunal de origem para aplicação da sistemática da repercussão geral quanto ao tema ora suscitado.
+    Publique-se.
+    Brasília, 24 de maio de 2016.
+Ministro Dias Toffoli
+Relator
+documento assinado digitalmente
