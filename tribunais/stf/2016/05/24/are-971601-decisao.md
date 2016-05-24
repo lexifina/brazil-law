@@ -1,0 +1,27 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. FRAUDE À EXECUÇÃO. PEQUENA PROPRIEDADE RURAL.
+    1. Os elementos de prova juntados aos autos indicam a efetiva ocorrência de fraude à execução, consoante disposto no artigo 593 do CPC e na Súmula n. 375 do Egrégio STJ no tocante, tão-somente, ao automóvel modelo Fiesta, alienado ao genitor do agravante. Logo, não há falar em fraude à execução, pelo menos por ora, com relação ao caminhão também objeto de constrição.
+    2. Alega a parte agravante ser indevida a restrição que recaiu sobre a motocicleta de placas IPR 9433, dado que teria sido essa adquirida para que servisse ao seu deslocamento para tratamento médico. No entanto, tal hipótese não se encontra dentre aquelas hipóteses elencadas no artigo 649 do CPC, e tampouco há prova de que não possa o requerente valer-se de outro meio de transporte, ainda que mais oneroso, para dar continuidade ao seu tratamento.
+    3. Por outro lado, restando demonstrado que o imóvel constrito atende aos requisitos inscritos nos artigos 5º, inciso XXVI, da CF/88 e 649, inciso VIII, do CPC, mostra-se viável o acolhimento da tese de impenhorabilidade.
+    AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 5º, XXVI, da Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário em questão revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado do Rio Grande do Sul, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos  fático-probatórios, a seguir destacados:
+    “De mais a mais, deve ser observado que, quando da inspeção realizada pelo Oficial de Justiça, verificou-se a existência, em galpão nos fundos da casa, de uma colheitadeira, bem como um trator, outros implementos agrícolas e soja (fl. 68). Ou seja, o bem em comento, embora não sirva de moradia para o demandante, além de apresentar dimensões inferiores a um módulo fiscal, ao que tudo indica, é efetivamente utilizado para fins produtivos, sendo trabalhada pela família do agravante, nos termos da legislação supracitada, em atividades relacionadas à exploração agrícola.
+    Logo, impõe-se a declaração da sua impenhorabilidade, merecendo reforma a decisão agravada. (…).”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. BEM DE FAMÍLIA. IMPENHORABILIDADE. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E NOVA APRECIAÇÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 279/STF.
+    Hipótese em que para dissentir do entendimento do Tribunal de origem seria necessário nova apreciação do material probatório constantes dos autos (Súmula 279/STF), bem como a análise da legislação infraconstitucional pertinente. Precedentes.
+    Agravo regimental a que se nega provimento.“
+    (AI 811.723-AgR/SP, Rel. Min. ROBERTO BARROSO)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EMBARGOS À EXECUÇÃO FISCAL. DÍVIDA ATIVA: INSCRIÇÃO E REQUISITOS. BEM DE FAMÍLIA. IMPENHORABILIDADE. NECESSIDADE DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 844.757-AgR/SC, Rel. Min. CÁRMEN LÚCIA)
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Os precedentes que venho de referir guardam inteira pertinência com a legislação processual que se achava em vigor no momento em que ocorrida a publicação do ato ora questionado no apelo extremo (“tempus regit actum”).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 24 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
