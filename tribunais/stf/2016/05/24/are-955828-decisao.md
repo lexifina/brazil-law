@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Superior do Trabalho, assim ementado, no que interessa:
+    “CONTRIBUIÇÃO SINDICAL RURAL. COMPETÊNCIA PARA CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. Este Tribunal Superior pacificou entendimento no sentido de que a Confederação da Agricultura e Pecuária do Brasil (CNA) detém legitimidade para constituição e cobrança da contribuição sindical rural. Logo, é inviável o destrancamento do recurso de revista, nos termos do art. 896, § 4º, da CLT (atual § 7º do art. 896 da CLT) e da Súmula n. 333 desta Corte Superior. CONTRIBUIÇÃO SINDICAL RURAL. PRESCRIÇÃO. MARCO INICIAL. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 126 DO TST. A partir da leitura do venerando acórdão, observa-se que o Tribunal de origem não delimitou as premissas fáticas necessárias para a análise do marco inicial do prazo prescricional, previsto no artigo 174 do CTN, para a cobrança da contribuição sindical rural, na medida em que não consignou a data do efetivo lançamento do crédito tributário. Nesse contexto, exsurge evidente a constatação de que, para se chegar a conclusão diversa daquela esposada no venerando acórdão quanto advento da prescrição, seria necessário o reexame de fatos e provas, procedimento vedado nesta fase recursal de natureza extraordinária, a teor da Súmula n. 126 do TST”. (eDOC 9, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos artigos 5º, caput; 146, III, b; e 150, II, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que a emissão de guia de recolhimento da contribuição sindical rural não pode ser equiparada ao lançamento tributário para configurar termo inicial do prazo prescricional para a cobrança do tributo. (eDOC 15, p. 15)
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    No caso, o Tribunal de origem entendeu que o prazo prescricional para a cobrança da contribuição sindical rural tem início com a constituição do crédito tributário (artigo 174 do CTN), o que ocorreria em janeiro de cada ano, nos termos do art. 587 da CLT.
+    Verifica-se, portanto, que a questão foi decidida à luz da interpretação da legislação infraconstitucional, de forma que eventual ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO SINDICAL RURAL. PRESCRIÇÃO. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia sobre o prazo prescricional da pretensão para exigir o pagamento de contribuição sindical. No caso, o acórdão limita-se a interpretar normas infraconstitucionais. 2. Agravo regimental a que se nega provimento”. (ARE 923465 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 11.2.2016)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito do Trabalho. 3. Contribuição sindical rural. Prescrição. Discussão de índole infraconstitucional. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento”. (ARE 884738 AgR, de minha relatoria, Segunda Turma, DJe 5.4.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
