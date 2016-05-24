@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. SERVIDOR PÚBLICO. PROMOÇÃO. ATRASO NA CONCESSÃO. INDENIZAÇÃO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Primeira Câmara Cível do Tribunal de Justiça do Paraná decidiu:
+    “APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. AGENTE PENITENCIÁRIO. PAGAMENTO DE INDENIZAÇÃO PELO ATRASO NA CONCESSÃO DA PROMOÇÃO POR MERECIMENTO PREVISTA NO ART. ARTIGO 10 DA LEI ESTADUAL N. 13.666/2002. NÃO CABIMENTO. NÃO COMPROVAÇÃO DOS REQUISITOS NECESSÁRIOS DESDE LOGO. INSTRUÇÃO DEFICITÁRIA DO PEDIDO ADMINISTRATIVO. RECURSO DESPROVIDO” (doc. 2, fl. 67).
+    3. Na decisão agravada, foram adotadas como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 280 do Supremo Tribunal Federal e a ausência de prequestionamento.
+    4. O Agravante argumenta que “o Tribunal de Justiça do Estado do Paraná proferiu juízo acerca de tais matérias de forma direta e não indireta, em razão de que o próprio recurso de apelação foi interposto sob o fundamento do desrespeito previsto no art. 37 da Constituição Federal” (doc. 2, fl. 107).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 37, caput, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste ao Agravante.
+    No agravo não foram infirmados todos os fundamentos da decisão agravada, não tendo o Agravante se manifestado sobre a incidência da Súmula n. 280 deste Supremo Tribunal, fundamento autônomo e suficiente para inviabilizar o recurso extraordinário. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1. RECURSO INADMISSÍVEL. POSSIBILIDADE DE JULGAMENTO PELO RELATOR. ART. 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO INTERPOSTO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n. 837.124-AgR, de minha relatoria, Segunda Turma, DJe 18.9.2012).
+    6. A apreciação do pleito recursal demandaria a análise da legislação infraconstitucional aplicável à espécie (Lei n. 13.666/2002) e do conjunto fático-probatório constante do processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 279 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. PROMOÇÃO. LEI ESTADUAL Nº 15.464/2005 E DECRETO Nº 44.769/2008. REQUISITOS NÃO PREENCHIDOS. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULAS 280 E 636/STF. Hipótese em que a resolução da controvérsia demandaria a análise de legislação infraconstitucional, o que é inviável em sede de recurso extraordinário (Súmulas 280 e 636/STF)” (ARE n. 805.532-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 2.2.2015).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. PROMOÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 748.809-AgR, de minha relatoria, Primeira Turma, DJe 21.8.2009).
+    “ADMINISTRATIVO. SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 37, § 6º, DA CF. OFENSA CONSTITUCIONAL REFLEXA. ANÁLISE DOS ASPECTOS FÁTICOS DO NEXO DE CAUSALIDADE ENTRE A CONDUTA DO ESTADO E O DANO. REEXAME DE PROVAS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE n. 399.284-AgR-segundo, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 22.8.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORINÁDIO COM AGRAVO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. NECESSIDADE DO REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 825.215-AgR, de minha relatoria, Segunda Turma, DJe 3.10.2014).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego provimento a este agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de maio de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
