@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+    “ AGRAVO REGIMENTAL – APLICAÇÃO DAS MULTAS DO ART. 16 C.C. ART. 811, AMBOS DO CPC – AFASTADAS – RECURSO PARCIALMENTE PROVIDO.
+    Ainda que a parte tenha praticado fato gerador para a aplicação da multa do art. 16 e art. 811, ambos do CPC elas podem ser, excepcionalmente afastadas, mormente, quando a mulher na separação tem passado por dificuldades econômicas e em dificuldade na manutenção da família. Aplicação desta multa, nesta situação excepcional não seria proporcional e feriria o princípio da dignidade da pessoa humana, bem como, geraria descrédito ao poder judiciário. Assim, se em conflito um princípio (inciso III do art. 1º da CF/88) e regras (art. 16 e art. 811, ambos da Lei 5.869/73), aqueles que prevalecem sobre estes, o que recomenda a não aplicação da multa.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 97 da Constituição.
+    O recurso extraordinário não pode ser provido, uma vez que as razões aduzidas pelo recorrente conflitam com a jurisprudência do Supremo Tribunal Federal.
+    Quanto ao art. 97 da Constituição, não há que se falar em ofensa, uma vez que o acórdão recorrido não declarou a inconstitucionalidade da norma nem afastou sua aplicação. Nessa linha, vejam-se o ARE 701.883 AgR, Rel. do Min. Celso de Mello, e o AI 821.963, julgado sob a relatoria da Ministra Cármen Lúcia, assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) BENEFÍCIO DO REGIME GERAL DE PREVIDÊNCIA SOCIAL VALORES PAGOS INDEVIDAMENTE DEVOLUÇÃO AOS COFRES PÚBLICOS BOA-FÉ DO SEGURADO ART. 115 DA LEI Nº 8.213/91 AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO CONTENCIOSO DE MERA LEGALIDADE CONTROVÉRSIA SUSCITADA NO AI 841.473-RG/RS MATÉRIA A CUJO RESPEITO NÃO SE RECONHECEU A EXISTÊNCIA DE REPERCUSSÃO GERAL APELO EXTREMO DEDUZIDO COM FUNDAMENTO EM ALEGADA VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO ACÓRDÃO QUE NÃO DECLAROU A INCONSTITUCIONALIDADE DE QUALQUER ATO ESTATAL INVIABILIDADE DO RECURSO EXTRAORDINÁRIO RECURSO DE AGRAVO IMPROVIDO.” (ARE 701.883-AgR, Rel. Min. Celso de Mello)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDÊNCIÁRIO. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA RESERVA DE PLENÁRIO. ACÓRDÃO RECORRIDO QUE SE LIMITA A INTERPRETAR A NORMA E APLICÁ-LA AO CASO CONCRETO. AUSÊNCIA DE CONTRARIEDADE AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 821.963 AgR, Rel.ª Min.ª Cármen Lúcia)
+    Ademais, para dissentir do acórdão recorrido quanto aos fundamentos para o afastamento da aplicação da multa, seria imprescindível a análise do material fático-probatório dos autos, procedimento inviável em sede de recurso extraordinário. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Por fim, incide a jurisprudência desta Corte no sentido da ausência de repercussão geral da questão acerca de aplicação de multa por litigância de má-fé com fundamento no art. 18 do CPC (RE 633.360, Rel. Min. Presidente, à época Min. Cezar Peluso – Tema 401).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
