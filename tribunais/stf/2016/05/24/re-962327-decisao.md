@@ -1,0 +1,13 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o acórdão proferido pelo Tribunal Regional Federal da 5ª Região teria transgredido os preceitos inscritos nos arts. 2º, 5º, “caput”, 195, § 5º e 201, “caput” da Constituição da República.
+    O exame da presente causa evidencia que o apelo extremo em questão não se revela viável.
+    É que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no ARE 906.569-RG/PE, Rel. Min. EDSON FACHIN, por tratar-se de litígio referente a matéria infraconstitucional e decidido à luz dos fatos e das provas existentes nos autos, fazendo-o em decisão assim ementada:
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. CONVERSÃO DO TEMPO DE SERVIÇO. CARACTERIZAÇÃO DA ESPECIALIDADE DO LABOR. ARTIGOS 57 E 58 DA LEI 8.213/91.
+    1. A avaliação judicial de critérios para a caracterização da especialidade do labor, para fins de reconhecimento de aposentadoria especial ou de conversão de tempo de serviço, conforme previsão dos artigos 57 e 58 da Lei 8.213/91, é controvérsia que não apresenta repercussão geral, o que inviabiliza o processamento do recurso extraordinário, nos termos do art. 543-A, § 5º, do Código de Processo Civil.
+    2. O juízo acerca da especialidade do labor depende necessariamente da análise fático-probatória, em concreto, de diversos fatores, tais como o reconhecimento de atividades e agentes nocivos à saúde ou à integridade física do segurado; a comprovação de efetiva exposição aos referidos agentes e atividades; apreciação jurisdicional de laudos periciais e demais elementos probatórios; e a permanência, não ocasional nem intermitente, do exercício de trabalho em condições especiais. Logo, eventual divergência ao entendimento adotado pelo Tribunal de origem, em relação à caracterização da especialidade do trabalho, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie.
+    INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do presente recurso extraordinário.
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 24 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
