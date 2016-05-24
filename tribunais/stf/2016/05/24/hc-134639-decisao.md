@@ -1,0 +1,44 @@
+Decisão:
+    Vistos.
+    Habeas corpus, sem pedido de liminar, impetrado em favor de Andreia Rodrigues Soares, apontado como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que concedeu a ordem de ofício no HC nº 321.507/SP, Relator o Ministro Jorge Mussi.
+    A impetrante sustenta, em síntese, que o fato imputado à paciente como falta disciplinar de natureza grave seria atípico.
+    Aduz, para tanto, que
+    “[é] impossível a conclusão pela prática de falta grave, já que a conduta supostamente praticada pela sindicada não trata, de maneira alguma, de infração aos artigos 46, IV, do RIP e 50, VII, da LEP, na medida em que o presente PAD trata de posse de um carregador de celular.” (grifos da autora).
+    Prossegue argumentando que
+    “o acessório de telefonia celular apreendido no presente caos configura, evidentemente, fato atípico, eis que componentes de celulares, quando dissociados do restante do aparelho de telefonia, não são abarcados pelo inciso VII do artigo 50 da Lei 11.466/07, mormente na medida em que um carregador de celular, por si só, não é apto a permitir comunicação.” (grifos da autora).
+    Afirma, nesse contexto, que,
+    “[e]ntendida como provada a materialidade e a autoria, o episódio ocorrido na data do evento, consistente na posse de carregador de celular, pode ser imputado à sentenciada, no máximo, como falta de natureza média, na forma do art. 45, II, da Resolução SAP nº. 144 de 2010”.
+    Requer a concessão da ordem para que seja “conhecida e concedida a presente ordem, cassando-se o v. acórdão e restabelecendo a bem lançada decisão de primeira instância que desclassificou a conduta para falta média”.
+    É o relatório.
+    Decido.
+    Narra a impetrante, na inicia, que,
+    “[r]elata-se, no procedimento administrativo nº 303/2013, que a sentenciada, em 25/09/2013, teria sido flagrada com um carregador de telefone celular.
+    A Douta Magistrada, acertadamente, decidiu pela desclassificação da conduta para falta disciplinar de natureza média, nos termos do art. 45, II, do Manual de Procedimento Padrão dos Estabelecimentos Prisionais.
+    Em face da referida decisão, o Ministério Público interpôs agravo em execução, ao qual a 10ª Câmara do Tribunal de Justiça de São Paulo deu provimento, para o fim de cassar a r. decisão de primeira instância que havia desclassificado a conduta faltosa de grave para média. O referido acórdão entendeu que a posse de um carregador de celular configura falta grave e determinou a perda de um terço dos dias remidos e a interrupção do prazo para a aquisição de benefícios, excetuando-se os casos de livramento condicional e comutação de penas.
+    A Defensoria Pública impetrou HC perante o STJ, que concedeu a ordem apenas para afastar a interrupção de lapso para fins de indulto, mantendo o reconhecimento da falta grave.”
+    Transcrevo o teor do julgado questionado:
+    “HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CONSTITUCIONAL CABÍVEL. IMPOSSIBILIDADE. RESPEITO AO SISTEMA RECURSAL PREVISTO NA CARTA MAGNA.
+    1. Com o intuito de homenagear o sistema criado pelo Poder Constituinte Originário para a impugnação das decisões judiciais, necessária a racionalização da utilização do habeas corpus, o qual não deve ser admitido para contestar decisão contra a qual exista previsão de recurso específico no ordenamento jurídico.
+    2. Tendo em vista que a impetração aponta como ato coator acórdão proferido por ocasião do julgamento de agravo em execução, contra a qual seria cabível a interposição de recurso especial, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+    3. Entretanto, o constrangimento apontado na inicial será analisado, a fim de que se verifique a existência de flagrante ilegalidade que justifique a atuação de ofício por este Superior Tribunal de Justiça.
+    EXECUÇÃO PENAL. POSSE DE CARREGADOR DE CELULAR. FALTA GRAVE. LEI N. 11.466/07. ART. 50, VII, DA LEP. RECONHECIMENTO.
+    1. É assente nesta Corte Superior o entendimento de que após a edição da Lei n. 11.466/2007, a posse de aparelho telefônico ou dos componentes essenciais ao seu efetivo funcionamento, passou a ser considerada falta grave.
+    2. Na espécie, foi encontrado com a reeducanda um carregador de celular, configurando, portanto, o cometimento de falta grave.
+    PRAZO PARA PROGRESSÃO DE REGIME. INTERRUPÇÃO. EXCEÇÃO. LIVRAMENTO CONDICIONAL, COMUTAÇÃO DE PENA E INDULTO. TRIBUNAL DE ORIGEM QUE RESSALVA APENAS OS DOIS PRIMEIROS BENEFÍCIOS. CONSTRANGIMENTO ILEGAL VERIFICADO. ORDEM, DE OFÍCIO, CONCEDIDA.
+    1. À luz da reiterada jurisprudência desta Corte Superior, o cometimento de falta grave acarreta a interrupção do prazo para a obtenção de benefícios em sede de execução penal, salvo no tocante ao livramento condicional (Súmula 441/STJ), comutação de pena e indulto (Súmula 535/STJ).
+    2. O Tribunal de origem, ao estabelecer que apenas o livramento condicional e a comutação de pena não têm o prazo para sua concessão interrompido diante da falta grave, divergiu do entendimento consolidado neste Sodalício, emergindo o constrangimento ilegal que possibilita a intervenção, de ofício, por esta Corte de Justiça.
+    3. Habeas corpus não conhecido, concedendo-se, contudo, a ordem de ofício para ressalvar que, mesmo diante da falta grave, também não há interrupção de prazo para a concessão de indulto.”
+    O julgado proferido pelo Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia que justifique a concessão da ordem. Pelo contrário, encontra-se suficientemente motivado, restando justificado convencimento formado.
+    Além do mais, o entendimento daquela Corte de Justiça a respeito da posse de um carregador de celular caracterizar falta grave está em concordância com a já consolidada jurisprudência da Corte, segundo a qual,
+    “pratica infração grave, na forma prevista no art. 50, VII, da Lei 7.210/84, com as alterações introduzidas pela Lei 11.466/2007, o condenado à pena privativa de liberdade que é flagrado na posse de acessórios de aparelhos celulares em unidade prisional” (RHC nº 106.481/MS, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe 3/3/11).
+    Conforme bem anotou o Ministro Ayres Britto ao analisar a matéria,
+    “[e]m rigor de interpretação jurídica, o que se extrai da Lei de Execução Penal é a compreensão de que o controle estatal tem de incidir sobre o aparelho telefônico, mas na perspectiva dos seus componentes. É dizer: a Lei 11.466/2007 encampou a lógica finalística de proibir a comunicação a distância intra e extramuros. Pelo que a posse de qualquer artefato viabilizador de tal comunicação faz a norma incidir de pleno direito. 3. Tal maneira de orientar a discussão não implica um indevido alargamento da norma proibitiva. Norma que faz menção expressa à posse, ao uso e ao fornecimento de aparelho telefônico, de rádio ou similar. E o fato é que o chip faz parte da compostura operacional do telefone celular. Não tem outra serventia senão a de se acoplar ao aparelho físico em si para com ele compor uma unidade funcional. Donde se concluir que o referido artefato nem sequer é de ser tratado como mero acessório do aparelho telefônico, sabido que acessório é aquilo que se junta ao principal, sem lhe ser essencial; detalhe, complemento, achega. Ele se constitui em componente do aparelho e com ele forma um todo operacional pró-indiviso” (HC nº 105.973/RS, Segunda Turma, DJe 26/5/11).
+    Trago à colação, ainda os seguintes precedentes:
+    “Habeas corpus. Execução penal. Cometimento da falta grave. Posse de chip de aparelho celular dentro do presídio. Falta cometida sob a égide da Lei nº 11.466/07. Ordem denegada. 1. A introdução de chip de telefone celular em estabelecimento penal constitui causa configuradora de falta grave pelo apenado. 2. A decisão hostilizada está em sintonia com o entendimento deste Supremo Tribunal, preconizado no sentido de que “o disposto no inciso VII do artigo 50 da Lei de Execução Penal alcança a introdução de chips de telefone celular em penitenciária” (HC nº 99.896/RS, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 1º/2/11). 3. Ordem denegada” (HC nº 112.601/SP, Primeira Turma, de minha relatoria, DJe 20/9/12);
+    “PENA – EXECUÇÃO – FALTA GRAVE – ARTIGO 50, INCISO VII, DA LEI DE EXECUÇÃO PENAL. O disposto no inciso VII do artigo 50 da Lei de Execução Penal alcança a introdução de chips de telefone celular em penitenciária” (HC nº 99.896/RS, Primeira Turma, Relator o Ministro Marco Aurélio, DJe 1º/2/11).
+    Com essas considerações, nos termos do art. 192, caput, do Regimento Interno da Corte, denego a ordem de habeas corpus.
+    Publique-se.
+    Brasília, 24 de maio de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
