@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “PLANO DE SAÚDE – REAJUSTE EM FUNÇÃO DE REENQUADRAMENTO EM NOVA FAIXA ETÁRIA – FALTA DE PROVA DE QUE O CONSUMIDOR TENHA SIDO INFORMADO SOBRE AS FAIXAS E RESPECTIVOS PERCENTUAIS – INVIABILIDADE DE APLICAÇÃO DO REAJUSTE – RECURSO IMPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIII, LIV e LV da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os fundamentos de que “o que se almeja, na realidade, é a reanálise de questões fáticas já exaustivamente analisadas”.
+    O recurso extraordinário é inadmissível. O Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão relativa à competência dos Juizados Especiais para a apreciação de processo em que seja necessária a produção de prova complexa para o deslinde da controvérsia. Nessa linha, veja-se a ementa do ARE 640.671, julgado sob a relatoria do Ministro Presidente, à época Ministro Cezar Peluso:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional.”
+    Ademais, a parte recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constante dos autos, bem como das cláusulas do contrato firmado entre as partes, o que não enseja abertura da via extraordinária. Nessas condições, a hipótese atrai a incidência das Súmula 279 e 454/STF. Veja-se, no mesmo sentido, a ementa do ARE 926.135-AgR, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. REAJUSTE. FAIXA ETÁRIA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. ACÓRDÃO SUFICIENTE E ADEQUADAMENTE FUNDAMENTADO. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+     Brasília, 24 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
