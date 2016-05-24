@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, nos autos do Habeas Corpus n. 1411713-03.2015.8.12.0000, assim ementado:
+    “HABEAS CORPUS – PRELIMINAR DE NÃO CONHECIMENTO REFUTADA – PRETENDIDO TRANCAMENTO DA AÇÃO PENAL – POSSIBILIDADE – IMUNIDADE PARLAMENTAR VERIFICADA – AUSÊNCIA DE JUSTA CAUSA PARA O PROSSEGUIMENTO DA AÇÃO PENAL PRIVADA – ORDEM CONCEDIDA.
+    Inexiste supressão de instância no pedido de habeas corpus que bate contra a decisão que recebeu a denúncia, tendo em vista que ao receber a denúncia, o juiz deixa claro que se convenceu da justa causa para o prosseguimento do processo. Diante disso, abre-se a oportunidade do Tribunal avaliar se há ou não essa justa causa. Habeas corpus conhecido.
+    Está acobertado pela imunidade parlamentar o vereador que, utilizando da tribuna da Câmara Municipal, com estrita pertinência com o exercício do seu mandato parlamentar, vem a se exceder em seu discurso e é acusado de cometer crimes contra a honra de Secretário Municipal”. (eDOC 7, p. 1)
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido viola o artigo 29, inciso III, da Constituição Federal. (eDOC 10)
+    Em síntese, sustenta-se que, no caso, não deve ser reconhecida a imunidade parlamentar, uma vez que “o louvável instituto constitucional não protege, evidentemente, situações que possam ser caracterizadas como crimes, tais como as graves ofensas perpetradas pelo paciente, geradoras de sérios danos à honra do recorrente, quando o vinculou a fato calunioso, porquanto afirmou que este, ao adquirir sua nova residência, teria conseguido o capital a partir do desvio de recursos públicos (peculato, art. 312 do Código Penal; documentos indicados no primeiro parágrafo desta peça)”.
+    Aduz-se que a “imunidade de vereador (art. 29, VIII, CF) não se apresenta como direito absoluto, como amplamente reconhecido pela jurisprudência deste STF (RE/AgR 583559). Sim, nos tempos atuais, ‘não se reconhece a presença de direitos absolutos, mesmo de estatura de direitos fundamentais previstos no art. 5º, da Constituição’ (STF, HC 93.250, Rel. Min. Ellen Gracie, destaque nosso)”.
+    Por fim, afirma-se que “vereador algum tem o direito de praticar crimes, mesmo quando esteja a discursar na tribuna da Câmara. A imunidade existe para garantir a atuação parlamentar independente e livre, mas não para proteger quem, inequivocamente, está a se valer do mandato para praticar crime contra a honra”.
+    A irresignação não foi admitida por óbice da Súmula 286 do Supremo Tribunal Federal. (eDOC 14)
+    Contra referida decisão, foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário, refutando os fundamentos da decisão recorrida. (eDOC 16)
+    É o relatório.
+    Decido.
+    A despeito dos argumentos do recorrente, o Supremo Tribunal Federal, pela sistemática de repercussão geral, no julgamento do tema 469, fixou a tese de que o conteúdo das manifestações proferidas por vereador, nos limites previstos no art. 29, VIII, da Constituição Federal (manifestação proferida no exercício do mandato e na circunscrição do Município) gozam de imunidade absoluta (imunidade parlamentar material), não sendo passíveis de reprimenda judicial, incidindo o abuso dessa prerrogativa ao controle da própria Casa legislativa a que pertence o parlamentar.
+    Por oportuno, colho ementa do julgado:
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. INVIOABILIDADE CIVIL DAS OPINIÕES, PALAVRAS E VOTOS DE VEREADORES. PROTEÇÃO ADICIONAL À LIBERDADE DE EXPRESSÃO. AFASTAMENTO DA REPRIMENDA JUDICIAL POR OFENSAS MANIFESTADAS NO EXERCÍCIO DO MANDATO E NA CIRCUNSCRIÇÃO DO MUNICÍPIO. PROVIMENTO DO RECURSO.
+    1. Vereador que, em sessão da Câmara, teria se manifestado de forma a ofender ex-vereador, afirmando que este “apoiou a corrupção [...], a ladroeira, [...] a sem-vergonhice”, sendo pessoa sem dignidade e sem moral.
+    2. Observância, no caso, dos limites previstos no art. 29, VIII, da Constituição: manifestação proferida no exercício do mandato e na circunscrição do Município.
+    3. A interpretação da locução “no exercício do mandato” deve prestigiar as diferentes vertentes da atuação parlamentar, dentre as quais se destaca a fiscalização dos outros Poderes e o debate político.
+    4. Embora indesejáveis, as ofensas pessoais proferidas no âmbito da discussão política, respeitados os limites trazidos pela própria Constituição, não são passíveis de reprimenda judicial. Imunidade que se caracteriza como proteção adicional à liberdade de expressão, visando a assegurar a fluência do debate público e, em última análise, a própria democracia.
+    5. A ausência de controle judicial não imuniza completamente as manifestações dos parlamentares, que podem ser repreendidas pelo Legislativo.
+    6. Provimento do recurso, com fixação, em repercussão geral, da seguinte tese: nos limites da circunscrição do Município e havendo pertinência com o exercício do mandato, os vereadores são imunes judicialmente por suas palavras, opiniões e votos.” (RE 600.063/SP – Mérito RG, Rel. Min. Marco Aurélio, Rel. p/ acórdão: Min. Roberto Barroso, Tribunal Pleno, Dje 15.5.2015)
+    Desse modo, verifico que o Tribunal de origem, considerando o caso dos autos, decidiu a controvérsia com base na jurisprudência desta Corte.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se. Intime-se.
+    Brasília, 24 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
