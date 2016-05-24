@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Contrato bancário – ação revisional visando afastar a cobrança de encargos reputados como ilegais e abusivos – Determinação ao banco, em segunda instância, para exibir o contrato discutido na ação – Determinação ão regularmente atendida pelo mesmo – Existência do contrato não provada – Cobrança de quaisquer encargos de inadimplência que, à míngua de comprovação da respectiva pactuação, é indevida perante os demandantes – Saldo devedor da conta corrente destes que deverá ser apurado sem a incidência de tais encargos, devendo ser calculado unicamente com a incidência da correção monetária, restituindo-lhes eventual saldo credor – Restituição em dobro descabida, por não estar evidenciada a má-fé do banco – suspensão da anotação dos nomes dos demandantes que deverá ser mantida, conforme já determinado na tutela antecipada que lhes foi concedida – Indenização por danos morais descabida nesta hipótese – Ação que deve ser julgada parcialmente procedente – recurso dos autores provido em parte.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, II e LIV, da Constituição Federal.
+    O recurso é inadmissível. A parte recorrente afirma que houve a pactuação da capitalização dos juros e que não há a previsão da expressão “juros capitalizados” no contrato firmado entre as partes. Para dissentir do acórdão recorrido seria necessária a análise do contrato firmado entre as partes, cujo reexame é vedado em sede de recurso extraordinário. Nessas condições, a hipótese atrai a incidência da Súmula 454/STF. Veja-se, no mesmo sentido, a ementa do ARE 808.805-AgR, julgado sob minha relatoria:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIAS CONSTITUCIONAIS TIDAS POR VIOLADAS NÃO PREQUESTIONADAS. SÚMULAS 282 E 356/STF. DIREITO DO CONSUMIDOR. PLANO DE PREVIDÊNCIA PRIVADA. TAXA DE JUROS PACTUADA. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF. ANÁLISE DE CLÁUSULA CONTRATUAL. SÚMULA 454/STF.”
+    Ademais, os temas constitucionais do apelo extremo não foram objeto de análise prévia e conclusiva pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+     Brasília, 24 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
