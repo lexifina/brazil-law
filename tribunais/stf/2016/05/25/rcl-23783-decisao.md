@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de reclamação, com pedido de liminar, em face de acórdão do STJ, proferido em sede de recurso especial, o qual manteve decisão do TJ/SP que julgou procedente ação revisional de aposentadoria por invalidez, reconhecendo o direito de servidora ao percebimento de proventos integrais.
+    A parte reclamante alega afronta à tese firmada pelo STF no tema 524 da repercussão geral (RE 656.860, Rel. Min. Teori Zavaski) segundo a qual a definição das doenças graves e moléstias que ensejam a aposentadoria por invalidez com proventos integrais devem estar contidas em rol legal, de natureza taxativa. Afirma que, não obstante o art. 543-B, § 3º, do CPC/73, o TJ/SP deixou de reexaminar a questão, mantendo assim a aplicação de tese contrária àquela afirmada pelo STF.
+    A parte contrária apresentou contestação.
+    É o relatório. Decido.
+    Estando o feito suficientemente instruído, dispenso as informações, bem como o parecer ministerial, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único).
+    O CPC/73 consagrou a regra da interposição simultânea dos recursos extraordinário e especial. É dizer, o recurso extraordinário é cabível do último acórdão proferido por instância ordinária que versar sobre questão constitucional, de modo que da decisão do STJ em recurso especial, só cabe recurso extraordinário se a questão constitucional for diversa da resolvida pela instância ordinária. Confira-se: AI 364.277-AgR, Rel. Min. Carlos Velloso; AI 436.046-AgR, Rel. Min. Carlos Britto; AI 618.700, Rel. Min. Sepúlveda Pertence; AI 472.822, Rel. Min. Dias Toffoli.
+    No caso dos autos, contra o acórdão do TJ/SP que deu provimento a apelação para julgar procedente ação revisional de aposentadoria por invalidez, proferido em 06.03.2013, o Instituto de Previdência municipal interpôs unicamente recurso especial, o qual teve o trânsito obstado no juízo de admissibilidade original. Interposto o agravo do art. 544 do CPC/73, os autos foram remetidos ao STJ, que desproveu o recurso, sem análise do seu mérito (Súmula 7/STJ).
+    Não obstante, o reclamante afirma que o Tribunal de Justiça e o STJ não observaram o art. 543-B, § 3º, do CPC/73. Ocorre que o TJ/SP não pôde reexaminar a matéria constitucional pertinente em razão da não interposição do recurso extraordinário, ao passo que ao STJ não compete julgar questão constitucional em sede de recurso especial.
+    Assim, o que a parte pretende com a presente reclamação é superar a preclusão da questão constitucional nos autos de origem. Conforme jurisprudência desta Corte, o equívoco da parte que deixa de interpor o recurso cabível no momento oportuno não pode ser sanado com o ajuizamento de uma reclamação. Nas palavras do Min. Sepúlveda Pertence, não cabe reclamação para o exame da tese de fundo quando o que se pretende, na verdade, é viabilizar um recurso não interposto (Rcl 4.637 AgR).
+    Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, prejudicado o exame do pedido liminar.
+    Fixo os honorários de sucumbência em 10% sobre o valor da causa de origem (art. 85, § 2º, do CPC/2015).
+    Publique-se.
+    Brasília, 25 de maio de 2016
+Ministro LUÍS ROBERTO BARROSO
+Relator
