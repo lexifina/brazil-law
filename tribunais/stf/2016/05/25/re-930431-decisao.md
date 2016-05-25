@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Quarta Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. REDE FERROVIÁRIA FEDERAL - RFFSA. IPTU. IMUNIDADE. ARTIGO 150, VI, "A", DA CONSTITUIÇÃO FEDERAL.
+    I. A Rede Ferroviária Federal (RFFSA), sucedida pela União, tratava-se de pessoa jurídica prestadora de serviço público obrigatório e exclusivo do Estado. Assim, equiparava-se à Fazenda Pública, gozando dos mesmos privilégios, inclusive em relação à imunidade tributária recíproca, nos termos do artigo 12 do Decreto-Lei n. 509/69 e do artigo 150, inciso VI, alínea "a" da Constituição Federal, respectivamente.
+    II. Apelação desprovida”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte alega violação ao art. 150, VI, a, §2º, da Carta. Sustenta, em síntese, que deve ser afastado o reconhecimento da imunidade recíproca com relação ao IPTU da RFFSA anteriormente à sua incorporação pela União, na medida em que a referida entidade possuía natureza privada e que a recorrida não. Ademais, defende que a pura e simples incorporação da RFFSA pela União não torna os bens da antiga rede ferroviária imunes.
+    A pretensão recursal não merece prosperar. A despeito de haver precedentes no sentido de que determinadas empresas públicas ou sociedades de economia mista que prestem serviços públicos sejam beneficiárias da imunidade tributária recíproca, esta não é a regra. Os julgados nesse sentido tratam de situações excepcionais, fundadas na análise das especificidade de cada caso, o que não permite concluir que todas as empresas públicas ou sociedade de economia mista que prestem serviços públicos, em regra, estejam sujeitas ao art. 150, VI, a, da Constituição. Prova disso é são as questões ainda sob apreciação do Supremo Tribunal Federal em recursos extraordinários com repercussão geral reconhecida, quais sejam, o RE n° 594.015 e o RE n° 600.867. Destarte, cada situação particular demanda exame individualizado.
+    No caso dos autos, o Tribunal de origem andou bem ao descrever as particularidades envolvidas, expondo as razões pelas quais na presente hipótese não há que se reconhecer a imunidade recíproca da RFFSA:
+    “(...) Nenhuma destas características se verificava em relação aos serviços prestados pela extinta RFFSA à época dos fatos geradores. Com efeito, desde a edição do Decreto nº 473, de 10 de março de 1992, que incluiu a RFFSA no Plano Nacional de
+    Desestatização, as atividades de prestação dos serviços de transporte ferroviário, previstas no artigo 21, XII, d, da CF/88, passaram a se dar de forma descentralizada, com a transferência ao setor privado, mediante leilão, da concessão de serviços de transporte ferroviário. Tudo isto indica que a sociedade de economia mista não era responsável pela prestação de serviço público de natureza exclusiva, essencial ou em regime de monopólio.
+    Assim, de acordo com os parâmetros fornecidos pela jurisprudência do STF, não se lhe poderia estender a norma que prevê a imunidade tributária recíproca (artigo 150, VI, a, e §2º, da CF/88).”
+     Dissentir das conclusões adotadas demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, bem como o reexame dos fatos e provas, providências vedadas nesta fase processual (Súmulas nº 279 e 280/STF).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de maio 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
