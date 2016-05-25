@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. DEVOLUÇÃO DAS CONTRIBUIÇÕES PESSOAIS. CORREÇÃO MONETÁRIA PLENA.
+    1. Aplica-se o IPC nos meses em que ocorreram reconhecidos expurgos procedidos pelos planos econômicos do governo, consoante jurisprudência amplamente dominante do egrégio Superior Tribunal de Justiça.
+    2. A correção monetária plena deve ser aplicada, isso porque esta objetiva, tão somente manter no tempo o valor real da dívida, não gerando acréscimo ao montante do débito nem traduzindo sanção punitiva.
+    3. Recurso desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV e XXXVI; 93, IX; 195 § 5º; 201 e 202, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos “os princípios da legalidade, o do devido processo legal, o da ampla defesa e do contraditório, bem como da verificação dos limites da coisa julgada e da motivação das decisões judiciais quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que por si só, não desafia instância extraordinária”.
+    O recurso não deve ser provido. Incide, no caso, a jurisprudência do Supremo Tribunal Federal firmada no sentido da ausência de repercussão geral da questão ora debatida, por tratar-se de matéria infraconstitucional. Nessa linha, veja-se a ementa do RE 582.504 RG, julgado sob a relatoria do Ministro Cezar Peluso:
+    “RECURSO. Extraordinário. Incognoscibilidade. Plano de previdência privada. Resgate das contribuições. Índices de correção. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão de resgate de contribuição de plano de previdência privada, versa sobre matéria infraconstitucional.”
+    Outros precedentes no mesmo sentido: AI 823.849-AgR-segundo, Rel. Min. Luiz Fux; e RE 589.714-AgR, Rel. Min. Eros Grau.
+    Quanto à alegada ofensa aos arts. 5º, XXXV, e 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 25 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
