@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Adicional de quinquênio e sexta-parte sobre vencimentos integrais – servidor público do Município de Itapetininga – legislação própria – dado provimento ao recurso para julgar improcedente o pedido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, XXXVI e LIV; 6º e 37, XV, da Constituição. Sustenta, em síntese, que o pagamento dos adicionais sobre o salário-base e não sobre os vencimentos integrais fere previsão legal.
+    O acórdão recorrido entendeu que do confronto dos dispositivos legais, das respectivas tabelas e dos recibos apresentados não se verifica a violação apontada. Ressaltou, ainda, os princípios da autonomia administrativa dos entes federados e da reserva legal, que veda ao administrador público o pagamento de vantagem pecuniária não prevista em lei.
+    O recurso é inadmissível. Isso porque os dispositivos constitucionais tidos por violados não foram apreciados pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para suprimir eventual omissão, de modo que o recurso extraordinário carece do necessário prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    Ainda que superado o óbice apontado, observa-se que o Tribunal de origem, interpretando a Lei municipal nº 4.497/2001 e a Lei Complementar nº 26/2008, deu provimento ao recurso do ora recorrido, por entender que o pagamento do adicional por tempo de serviço não deve ser calculado sobre o valor integral da remuneração. Dissentir do entendimento acerca da base de cálculo do adicional por tempo de serviço (quinquênios) demandaria uma nova análise das referidas legislações locais, providência vedada no âmbito do recurso extraordinário, a atrair a incidência da Súmula 280/STF. Nessa linha, confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DE SÃO PAULO. ADICIONAL DE SEXTA PARTE. QUINQUÊNIOS. LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. As normas contidas no artigo 129 da Constituição do Estado de São Paulo dizem respeito tão-somente ao direito local. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local, circunstância que impede a admissão do recurso extraordinário ante o óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento”. (RE 593.098-AgR, Rel. Min. Eros Grau)
+    Outros precedentes: ARE 681.902, Rel. Min. Gilmar Mendes; ARE 682.548, Rel. Min. Cezar Peluso; e RE 576.197, Rel. Min. Ayres Britto.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+Brasília, 25 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
