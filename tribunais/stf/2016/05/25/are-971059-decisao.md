@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 8ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 1, p. 140):
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO – ADMINISTRATIVO – AÇÃO ORDINÁRIA – SERVIDORA PÚBLICA MUNICIPAL – PRESCRIÇÃO DO FUNDO DE DIREITO – SUPERAÇÃO – PROGRESSÃO PROFISSIONAL AUTOMÁTICA – CABIMENTO DO BENEFÍCIO APÓS A INSTITUIÇÃO DO PLANO DE CARREIRA – RETROAÇÃO DA PRIMEIRA PROGRESSÃO – NÃO CABIMENTO – IMPROCEDÊNCIA DO PEDIDO.
+    1. Se a hipótese dos autos espelha uma relação de trato sucessivo, incide a prescrição apenas sobre as verbas anteriores ao quinquênio que precedeu a propositura da ação, ‘ex vi’ do art. 1º do Decreto n.º 20.910/32, mas não sobre o fundo de direito reclamado.
+    2. A concessão da progressão profissional prevista nos arts. 90 e seguintes da Lei n.º 7.169/96, do Município de Belo Horizonte, se revela cabível somente após a instituição do plano de carreira, que, no caso do servidor integrante do quadro da educação, foi feita pela Lei n.º 7.235/96, razão por que insubsistente a pretensão da demandante de retroação da data da primeira progressão na carreira.
+    3. Preliminar rejeitada, sentença reformada, em reexame necessário, e recurso voluntário prejudicado.”
+    Os embargos de declaração foram desprovidos (eDOC 1, p. 160-164).
+    No recurso extraordinário (eDOC 1, p. 185-197), com fundamento no art. 102, III, “a” e “c”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, II, e 37, caput, da Constituição Federal.
+    Sustenta-se que “ainda que a Recorrente não tenha sido submetida à avaliação de desempenho pelo Município-réu, tem ela direito à progressão automática a partir da implementação dos requisitos estabelecidos no art. 91, II do Estatuto dos Servidores Públicos Municipais de Belo Horizonte, assim como o recebimento das diferenças devidas” (eDOC 1, p. 191).
+    Alega-se que as Leis 7.169/96 e 7.235/1996 não estabelecem qualquer limitação quanto ao período a ser considerado para progressão, não cabendo ao intérprete fazê-lo, sob pena de ofensa ao princípio da legalidade.
+    Aduz-se, ainda, que o acórdão recorrido, ao não conceder a progressão profissional, violou os princípios da isonomia e da impessoalidade.
+    A Primeira Vice-Presidência do TJ/MG inadmitiu o recurso extraordinário com base nas Súmulas 280 e 284 do STF (eDOC 1, p. 217-219).
+    É o relatório. Decido.
+    Inicialmente, verifica-se que a análise da violação do princípio da legalidade, no caso, demandaria, necessariamente, o reexame de ato normativo infraconstitucional. Aplicável à espécie, portanto, a Súmula 636 do STF:
+    Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida .
+    Ademais, quando do julgamento da apelação e do reexame necessário, o Tribunal de origem assentou que (eDOC 1, p. 145 e 147):
+    “Neste aspecto, em que pese o alegado pela parte autora na inicial, convenço-me de que, como a progressão horizontal é o instituto pelo qual o servidor obtém a elevação ao nível superior de sua respectiva série de classe, ela pressupõe, necessariamente, a prévia criação do plano de carreira, bem como o ingresso do servidor no citado plano.
+    Destarte, não obstante o benefício já estivesse disciplinado, para todos os servidores municipais, nos arts. 90 e seguintes do Estatuto dos Servidores Públicos – Lei Municipal n.º 7.196/96 –, somente após o advento da Lei Municipal n.º 7.235, de 27/12/96, instituidora da carreira dos servidores da educação, segmentada em classes e níveis, passou a ser materialmente possível a evolução dos servidores na carreira.
+    (…)
+    Destarte, implantado o plano de carreira dos servidores da educação em 28/12/96 – data da publicação da Lei n.º 7.235/96 –, contabiliza-se o prazo de 1.095 (um mil e noventa e cinco) dias desde aquela data até 28/12/99, quando a demandante implementou o requisito temporal exigido pelo inc. II do art. 91 da Lei n.º 7.169/96 e, por força do inc. II do mesmo dispositivo, deveria ser submetida à avaliação de desempenho. Diante da omissão da Administração Pública municipal em promover a mencionada avaliação nos seis meses seguintes à satisfação daquele requisito temporal, a servidora passou a fazer jus à progressão de forma automática em 28/06/2000, nos termos do art. 96 do mesmo diploma legal.
+    Neste contexto, convenço-me de que correta a concessão da primeira progressão profissional à demandante em 28/06/2000, conforme documentos de f. 28 e 44, razão por que a pretensão deduzida nos presentes autos não merece subsistir.”
+    Desta forma, constata-se que eventual divergência ao entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas e o da legislação local aplicável à espécie, notadamente as Leis 7.169/1996 e 7.235/96, do Município de Belo Horizonte, de modo a inviabilizar o processamento do apelo extremo, tendo em conta os enunciados das Súmulas 279 e 280 do STF.
+    A esse respeito, confiram-se os seguintes precedentes: ARE 868.948-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 18.06.2015; ARE 870.901-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 20.05.2015; ARE 820.238-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 15.10.2014; ARE 738.975-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 17.03.2014.
+    Por fim, ressalta-se que o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal, o que inviabiliza o recurso extraordinário pela alínea “c”, inciso III, do art. 102 do Texto Constitucional.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 25 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
