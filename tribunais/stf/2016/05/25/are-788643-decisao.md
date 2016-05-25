@@ -1,0 +1,33 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ESTADO-MEMBRO ONDE SITUADO O DESTINATÁRIO JURÍDICO DA MERCADORIA. ALEGAÇÃO DE EXISTÊNCIA DE SIMULAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. SÚMULA 279 DO STF. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos, interposto com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “Execução Fiscal – Embargos – Autuação da embargante por simulação – Inocorrência — Prova pericial contábil que demonstrou com precisão a inocorrência de simulação – ICMS recolhido em outro Estado, sede da importadora – Embargos procedentes – Recurso improvido.”
+    Nas razões do apelo extremo, o Estado sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 155, § 2º, I e IX, a, da Constituição Federal. Alega, em síntese, que a empresa recorrida teria obtido vantagem fiscal indevida, por meio da realização de importação indireta simulada.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que “os argumentos expendidos não são suficientes para infirmar a conclusão do v. aresto combatido”, que “não restou evidenciado qualquer maltrato a normas constitucionais” e que a análise da matéria demandaria a interpretação de normas infraconstitucionais.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    Esta Corte firmou orientação no sentido de que o ICMS incidente sobre as operações de importação de bens e mercadorias é devido ao estado membro onde situado o destinatário jurídico da mercadoria, ainda que o desembaraço aduaneiro se dê em outro estado membro. Confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ALÍNEA ‘A’ DO INCISO IX DO § 2º DO ART. 155 DA CONSTITUIÇÃO DO BRASIL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.
+    1. O Supremo Tribunal Federal fixou jurisprudência no sentido de que o sujeito ativo da relação jurídico-tributária do ICMS é o Estado onde estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria importada, pouco importando se o desembaraço aduaneiro ocorreu por meio de outro ente federativo. Precedentes.
+    2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF.
+    Agravo regimental a que se nega seguimento.” (RE 598.051-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe de 29/5/2009)
+    In casu, o Tribunal a quo entendeu que a destinatária jurídica da mercadoria importada seria a empresa importadora situada no Estado do Espírito Santo; entendeu, também, que não teria havido simulação por parte da empresa ora recorrida, que posteriormente adquiriu as mercadorias. Nesse contexto, concluir diversamente do acórdão recorrido, no sentido de que teria existido importação indireta, demandaria o reexame do quadro fático-probatório dos autos, o que é vedado na via estreita do recurso extraordinário. Na hipótese, incide o óbice da Súmula 279 do STF, que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”. No mesmo sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. ICMS. Importação. Sujeito ativo. Destinatário jurídico do bem. Particularidade do caso. Importação indireta. Simulação. Reexame fático-probatório. Súmula nº 279/STF.
+    1. O acordão recorrido está em harmonia com a jurisprudência da Corte no sentido de o sujeito ativo da relação jurídico-tributária do ICMS ser o Estado onde estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria.
+    2. Para acolher a pretensão da agravante e ultrapassar o entendimento do Tribunal de origem, seria necessário o reexame da causa à luz da legislação infraconstitucional e das provas dos autos (Súmula 279/STF), o que não é cabível em sede de recurso extraordinário.
+    3. Agravo regimental não provido.” (ARE 893.609-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 15/12/2015)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ESTABELECIMENTO DESTINATÁRIO. IMPORTAÇÃO INDIRETA. SÚMULA 279/STF.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o sujeito ativo da relação jurídico-tributária do ICMS é o Estado onde estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria.
+    Dissentir das conclusões adotadas pelo Tribunal de origem e concluir acerca da ocorrência, ou não, de importação indireta demandaria o reexame do acervo probatório constante dos autos, providência vedada nesta fase processual (Súmula 279/STF).
+    Agravo regimental a que se nega provimento.” (AI 850.508-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 18/12/2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. IMPORTAÇÃO. SUJEITO ATIVO: ESTADO DESTINATÁRIO DO BEM IMPORTADO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 811.597-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 7/8/2014)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ESTABELECIMENTO JURÍDICO DO IMPORTADOR. PRECEDENTES. DISCUSSÃO SOBRE O REAL DESTINATÁRIO JURÍDICO DA MERCADORIA. SÚMULA 279/STF.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o sujeito ativo da relação jurídico-tributária do ICMS é o Estado onde estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria (alínea “a” do inciso IX do § 2º do art. 155 da Magna Carta de 1988); pouco importando se o desembaraço aduaneiro ocorreu por meio de ente federativo diverso.
+    2. Incidência da Súmula 279/STF.
+    3. Agravo regimental desprovido.” (RE 572.505-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe de 1/2/2012)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Tributário. ICMS. Importação. 3. Sujeito ativo. Estado-membro em que localizado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria importada, independentemente de onde ocorra o desembaraço aduaneiro. 4. Incidência da Súmula 279. 5. Agravo regimental a que se nega provimento.” (ARE 641.880-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 4/10/2011)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 25 de maio de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
