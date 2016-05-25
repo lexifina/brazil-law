@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CONCURSO PÚBLICO – TESTE DE APTIDÃO FÍSICA – REMARCAÇÃO – AUSÊNCIA DE PREVISÃO NO EDITAL – IMPOSSIBILIDADE – PROVIMENTO.
+    1. A Corte de origem assentou a parcial procedência do pedido, afirmando a possibilidade de remarcação de exame físico de gestante candidata ao ingresso no cargo de agente investigador de polícia judiciária. No extraordinário cujo processamento busca alcançar, o recorrente alega violação dos artigos 2º, 5º e 37 da Constituição Federal. Articula com a impossibilidade de dispensar tratamento privilegiado à recorrida, destacando decorrer da lei a exigibilidade do teste de aptidão física. Diz da inobservância, pelo Colegiado local, do entendimento consolidado pelo Supremo, sob o ângulo da repercussão geral, no sentido da ausência de direito líquido e certo à segunda chamada da referida etapa.
+    2. O Supremo, no exame do recurso extraordinário nº 630.733/DF, da relatoria do ministro Gilmar Mendes, Tribunal Pleno, publicado no diário de justiça em 20 de novembro de 2013, concluiu pela inexistência de direito de candidatos à remarcação de testes de aptidão física, em razão de circunstâncias pessoais, ainda que de caráter fisiológico ou de força maior, salvo contrária previsão em edital. Assentou, ainda, a validade das provas de segunda chamada realizadas até a data do julgamento – 15 de maio de 2013. Na ocasião, fiquei vencido.
+    3. Ante o exposto, conheço do agravo e o provejo, assentando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Considerado o precedente, julgo, desde logo, o recurso. Dele conheço e, ressalvada a óptica pessoal, o provejo para, reformando o acórdão recorrido, indeferir os pedidos formulados no mandado de segurança.
+    4. Publiquem.
+Brasília, 25 de maio de 2016.
+Ministro MARCO AURÉLIO
+Relator
