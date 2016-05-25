@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – FALTA DE PREQUESTIONAMENTO - INTERPRETAÇÃO DE NORMAS LEGAIS INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Colegiado de origem deixou de conhecer do recurso inominado, ante a falta de fundamentação, afirmando terem as respectivas razões apenas replicado os termos da contestação. No extraordinário, a recorrente alega a violação ao artigo 5º, inciso LIV, da Constituição Federal. Diz contrariado o princípio do devido processo legal.
+    2. O recurso extraordinário direciona ao atendimento cumulativo dos pressupostos gerais de recorribilidade – adequação, oportunidade, interesse de agir, representação processual e preparo – e a um dos específicos previstos no inciso III do artigo 102 da Carta da República. O acesso ao Supremo faz-se, por isso mesmo, em via de excepcionalidade maior, tudo objetivando a atuação precípua do Tribunal, qual seja, a guarda da supremacia da Constituição Federal.
+    Quanto ao pressuposto específico, quase sempre retratado na alínea “a” do inciso III do artigo 102 da Lei Fundamental – violência a dispositivo nela inserto –, mostra-se necessário, ante a ordem natural das coisas, proceder-se a cotejo. Somente é possível definir se houve transgressão a texto do Diploma Maior mediante o confronto do que decidido com as razões do extraordinário, mais precisamente com o que evocado no tocante à adoção de entendimento contrário ao ditame constitucional. Daí o instituto do prequestionamento, que significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o acórdão impugnado nada contém sobre o que versado no extraordinário, descabe assentar o enquadramento deste no permissivo constitucional.
+    No caso, o que sustentado no extraordinário não foi enfrentado pelo Órgão julgador, eis que nem sequer foram interpostos embargos de declaração. Padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a violência ao Diploma Maior, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 25 de maio de 2016.
+Ministro MARCO AURÉLIO
+Relator
