@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. RESPONSABILIDADE DE SÓCIO. CDA. ALEGAÇÃO DE INOBSERVÂNCIA AO ART. 5º, INCS. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO NÃO CONHECIDO NESSE PONTO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO NA PARTE CONHECIDA.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quinta Região:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR DA EMPRESA EXECUTADA. REDIRECIONAMENTO DO FEITO EXECUTIVO PARA SÓCIO. POSSIBILIDADE”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. No recurso extraordinário, o Agravante alega contrariado o art. 5º, incs. XXXV, LIV e LV, da Constituição da República.
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Código Tributário Nacional). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. REFORMA DA SENTENÇA DE MÉRITO. REDIRECIONAMENTO DA EXECUÇÃO PARA OS SÓCIOS. NOME DOS SÓCIOS NA CERTIDÃO DE DÍVIDA ATIVA - CDA. PRESUNÇÃO DE CERTEZA E LIQUIDEZ. ART. 135 DO CTN. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 24.02.2010. O exame da alegada ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Divergir do entendimento do Tribunal a quo acerca do redirecionamento da execução para o sócios da empresa executada promovida pelo Estado demandaria a análise de normas infraconstitucionais e da moldura fática dos autos. Na hipótese, consta a indicação do nome dos sócios na Certidão de Dívida Ativa - CDA que nos termos do art. 135 do Código Tributário Nacional – CTN preencheu os requisitos indispensáveis e essenciais de validade, razão pela qual não há falar em exclusão de responsabilidade dos sócios da empresa executada. Precedentes. Agravo regimental conhecido e não provido” (AI n. 837.053-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 11.11.2014).
+    6. No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do devido processo legal, do contraditório e da ampla defesa quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o conhecimento negado pelos respectivos relatores, conforme o art. 1.035 do Código de Processo Civil e o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, conheço em parte do presente agravo (art. 1.035 do Código de Processo Civil e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal) e, na parte conhecida, a ele nego provimento (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de maio de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
