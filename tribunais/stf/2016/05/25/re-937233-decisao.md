@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CARGO EM COMISSÃO – LIVRE NOMEAÇÃO E EXONERAÇÃO – ARTIGO 37, INCISO II, DA CONSTITUIÇÃO FEDERAL – MATÉRIA FÁTICA – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. Na interposição deste recurso, atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por advogado regularmente constituído, foi protocolada no prazo legal.
+    2. O Tribunal Regional da 4ª Região negou provimento ao recurso, ante fundamentos assim resumidos:
+    ADMINISTRATIVO. SERVIDOR PÚBLICO DISPENSADO DE CARGO. DE LIVRE NOMEAÇÃO E EXONERAÇÃO. DANOS MORAIS - INCABÍVEIS. AÇÃO RECONVENCIONAL - UNIÃO QUER DANOS MORAIS CONTRA AUTOR. CULPA CONCORRENTE ÇÃO - INDENIZAÇÃO INCABÍVEL. 1. Não colhe provimento a alegação de nulidade da decisão monocrática, tendo em vista que os pontos de insurgência foram devidamente abordados e as razões de seu indeferimento estão expressas e suficientemente fundamentadas no decisum objurgado. Em verdade, nesse ponto, as alegações da apelante consubstanciam a antítese do que decidido pelo magistrado de origem, o que não atrai a nulidade da decisão. 2. Os servidores com cargos em comissão são nomeados em função da relação de confiança que existe entre eles e a autoridade nomeante. A exoneração do titular é despida de qualquer formalidade especial e fica a exclusivo critério da autoridade nomeante, mormente quando demonstrado ser a exoneração por culpa da servidora. 3. Não havendo qualquer ato ou fato ilícito a ser imputável à União, descabe de indenização por danos morais. Também não há direito à União em ressarcir-se por alegados danos causados pela parte autora à sua imagem. Ocorrência de culpa concorrente.
+    O que decidido pelo Tribunal de origem está em harmonia com as balizas do artigo 37, inciso II, da Constituição Federal, a versar os cargos em comissão declarados em lei de livre nomeação e exoneração, no que cabe assentar a validade do ato de afastamento do servidor público.
+    No tocante à alegada violação ao artigo 37, § 6º, da Constituição Federal, cabe assentar que e a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões dos extraordinários partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Ante o quadro, nego seguimento ao recurso.
+    4. Publiquem.
+Brasília, 25 de maio de 2016.
+Ministro MARCO AURÉLIO
+Relator
