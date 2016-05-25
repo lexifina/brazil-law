@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 1, p. 89):
+    “AGRAVO INOMINADO. DIREITO ADMINISTRATIVO. DEMANDANTE, POLICIAL MILITAR, QUE PRETENDE O RECEBIMENTO DE RIOCARD, NOS TERMOS DO BOLETIM PMERJ Nº 174/2008. SENTENÇA DE PARCIAL PROCEDÊNCIA QUE NÃO DESAFIA QUALQUER REPARO. BENEFÍCIO CONCEDIDO INDISTINTAMENTE A TODOS OS POLICIAIS MILITARES DESTE ESTADO. INEXISTÊNCIA DE INDEVIDA INTROMISSÃO JUDICIAL NO MÉRITO ADMINISTRATIVO OU DE OFENSA AO PRINCÍPIO CONSTITUCIONAL DA SEPARAÇÃO DOS PODERES, MAS SIM DE ATUAR ILEGAL E ANTI ISONÔMICO DA ADMINISTRAÇÃO PÚBLICA. PRECEDENTES JURISPRUDENCIAIS. AGRAVO INOMINADO A QUE SE NEGA PROVIMENTO.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 37, caput e inciso X; e 169, § 1º, incisos I e II, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “a concessão do benefício almejado, é certo que a entrega do referido vale-transporte sujeita-se a planejamentos orçamentários e a discricionariedade administrativa, não se traduzindo em direito subjetivo do servidor, mormente pela ausência de norma estatutária que, de forma cogente, obriga o Poder Executivo a sua concessão.” (eDOC 2, p. 21)
+    Aduz-se, ainda, que “Ao Poder Judiciário não cabe analisar o mérito do ato administrativo que entenda inconveniente ou inoportuno, cabendo apenas revê-lo quanto a sua ilegalidade, sob pena de violação do princípio constitucional da separação dos poderes.” (eDOC 2, p. 22)
+    A Terceira Vice-Presidência do TJ/RJ inadmitiu o recurso, em virtude de inexistir ofensa direta à Constituição Federal; e de incidir na hipótese a Súmula 279/STF.
+    É o relatório. Decido.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (eDOC1, p. 94):
+    “(...) deve ser salientado que, de fato, embora a Lei nº1.412/88 tenha conferido à Administração Pública autorização para a concessão de vale transporte a seus servidores, fato é que a concessão indiscriminada a todos os policiais militares foi levada a efeito pelo Boletim PMERJ nº 174/2008.
+    Note-se, por oportuno, que, na espécie, não se há de falar em indevida intromissão do Poder Judiciário no mérito administrativo ou mesmo em violação do princípio constitucional da separação de poderes, mas sim em atuar ilegal e anti-isonômico por parte da Administração Pública, que pretende conceder o benefício em tela a apenas alguns de seus servidores, ao passo que, repita-se, no Boletim PMERJ nº 174/2008 não há qualquer ressalva nesse sentido.”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o exame da legislação local infraconstitucional e o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 280 e 279 do STF.
+    Ademais, na espécie, ressalta-se que a violação do princípio da legalidade demanda necessariamente a análise de atos normativos infraconstitucionais. Aplicável à espécie, portanto, a Súmula 636 do STF:
+     “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Por fim, destaca-se que a jurisprudência da Corte já se firmou no sentido de que o exame da legalidade e abusividade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação dos poderes. Nesse sentido, os seguintes julgados: ARE 791.625-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 10.06.2015; AI 410.544-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 17.03.2015.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 25 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
