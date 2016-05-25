@@ -1,0 +1,7 @@
+Solução de Consulta Coana nº 95, de 18 de maio de 2016
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 8307.90.00 Mercadoria: Conjunto de acessórios para instalação de chaminé de aquecedores a gás, constituído por tubo flexível, chapéu “T” e aro de arremate, todos de alumínio, e braçadeira de arame zincado (galvanizado), apresentado na forma de sortido acondicionado para venda a retalho, comercialmente denominado “Kit Chaminé Fácil”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 83.07), RGI 3 b) e RGI 6 (texto da subposição 8307.90.00) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. no 435, de 1992, e atualizadas pela IN RFB no 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 8307.90.00 Mercadoria: Conjunto de acessórios para instalação de chaminé de aquecedores a gás, constituído por tubo flexível, chapéu “T” e aro de arremate, todos de alumínio, e braçadeira de arame zincado (galvanizado), apresentado na forma de sortido acondicionado para venda a retalho, comercialmente denominado “Kit Chaminé Fácil”.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 83.07), RGI 3 b) e RGI 6 (texto da subposição 8307.90.00) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. no 435, de 1992, e atualizadas pela IN RFB no 807, de 2008, e alterações posteriores.
+MARCO ANTÔNIO RODRIGO CASADO
+Presidente da 5ª Turma
