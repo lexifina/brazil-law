@@ -1,0 +1,47 @@
+DECISÃO
+HABEAS CORPUS. PENAL. HOMICÍDIO. ALEGAÇÃO DE TEMPESTIVIDADE DO RECURSO EM SENTIDO ESTRITO INTERPOSTO PELA DEFENSORIA PÚBLICA. TRANSCURSO IN ALBIS DO PRAZO RECURSAL. PRECLUSÃO. PEDIDO MANIFESTAMENTE IMPROCEDENTE. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado pela Defensoria Pública da União, em benefício de Deusimar Pinheiro Costa, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que, em 17.9.2015, negou provimento ao Recurso Ordinário em Habeas Corpus n. 61.467.
+    2. Narra a Impetrante na presente ação:
+    “(...) Consta nos autos que no dia 05 de dezembro de 2002, o paciente foi preso em flagrante por assassinar a vítima Silvério Pereira da Silva.
+    Em sentença, o paciente foi pronunciado. Logo após, no dia 11/04/2012, os autos foram remetidos à Defensoria Pública para se tornarem cientes da r. decisão de pronúncia.
+    Contudo, a Defensoria Pública do Pará devolveu os autos sem tomar ciência da decisão, pois, na data em que foram intimados, já havia advogado constituído no processo, então somente foi requerida a intimação do patrono particular, para tomar ciência da decisão.
+    Após tomar ciência, o advogado constituído renunciou aos poderes que lhe foram outorgados, sem, contudo, recorrer. Desta forma, no dia 21/10/2013, os autos foram encaminhados novamente à Defensoria Pública, e no dia 25/10/2013 foi interposto Recurso em Sentido Estrito.
+    O Recurso supracitado foi considerado intempestivo, sob o argumento de que a Defensoria já havia sido intimada no dia 11/04/2012.
+    Em 08/10/2014, a Defensoria Pública foi intimada para se manifestar na fase do 422, do CPP. Em 09/10/2014 foi impetrada ordem de habeas corpus perante o Tribunal local a fim de sanar a ilegalidade da decisão de intempestividade do RESE.
+    O Tribunal de Justiça do Estado do Pará denegou a ordem de Habeas Corpus, ratificando os argumentos do juízo a quo, em que diz respeito a não existir nenhuma irregularidade em relação a intempestividade do Recurso em Sentido Estrito.
+    No dia 14/11/2014, o paciente foi condenado pelo Tribunal do Júri, a cumprir uma pena de 25 anos de reclusão em regime inicial fechado, como também sua prisão preventiva foi decretada.
+    Inconformada com a ordem negada, a defesa interpôs Recurso Ordinário em Habeas Corpus pugnando pelo direito do paciente de interpor novo Recurso em Sentido Estrito da decisão de pronúncia (...)”.
+    3. Em 27.10.2015, a Quinta Turma do Superior Tribunal de Justiça negou provimento ao Recurso Ordinário em Habeas Corpus n. 61.467:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NÃO APRESENTAÇÃO DE ALEGAÇÕES FINAIS PELO ADVOGADO DO ACUSADO. RÉU NÃO ENCONTRADO NO ENDEREÇO CONSTANTE DOS AUTOS PARA CONSTITUIR NOVO PATRONO. REMESSA DOS AUTOS À DEFENSORIA PÚBLICA. MÁCULA NÃO CARACTERIZADA.
+    1. Não obstante o acusado tenha o direito de constituir advogado de sua confiança, na hipótese a Defensoria Pública foi nomeada para atuar em favor do paciente porque, expedido mandado de intimação para o endereço constante nos autos, não foi localizado, deixando de indicar novo profissional para patrocina-lo em juízo, o que afasta a mácula suscitada na impetração.
+    INTEMPESTIVIDADE DO RECURSO EM SENTIDO ESTRITO INTERPOSTO PELA DEFENSORIA PÚBLICA. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO NA PRIMEIRA OPORTUNIDADE EM QUE A INSTITUIÇÃO SE PRONUNCIOU NOS AUTOS. ÓRGÃO QUE SE MANIFESTOU NA FASE DO ARTIGO 422 DO CÓDIGO DE PROCESSO PENAL E PERMITIU QUE O ACUSADO FOSSE JULGADO PELO TRIBUNAL DO JÚRI. INCIDÊNCIA DO ARTIGO 565 DO CÓDIGO DE PROCESSO PENAL. EIVA INEXISTENTE.
+    1. De acordo com o artigo 565 do Código de Processo Penal, ‘nenhuma das partes poderá argüir nulidade a que haja dado causa, ou para que tenha concorrido, ou referente a formalidade cuja observância só à parte contrária interesse’.
+    2. Na espécie, não tendo a Defensoria Pública se insurgido contra a decisão que julgou intempestivo o recurso em sentido estrito interposto na primeira oportunidade que teve de se pronunciar nos autos, manifestando-se na fase do artigo 422 do Código de Processo Penal e permitindo que o julgamento do réu pelo Tribunal do Júri ocorresse, não pode agora pretender que o feito seja anulado desde o momento em que considerado extemporâneo o inconformismo, já que o ordenamento jurídico repudia comportamentos contraditórios em sede processual.
+    3. Recurso desprovido”.
+    4. Na presente ação a Impetrante reitera as questões suscitadas nas instâncias antecedentes, sustentando, basicamente, a tempestividade do recurso em sentido estrito interposto em 25.10.2013.
+    Este o teor do pedido:
+    “(...) Ante o exposto, demonstrados os fatos e fundamentos jurídicos deste habeas corpus, requer:
+    a) liminarmente, seja suspensa a tramitação da ação original, até que seja julgado o mérito deste writ.
+    b) no mérito, a concessão meritória da ordem de habeas corpus, a fim de que sejam anulados todos os atos processuais posteriores ao da decisão que considerou o recurso em sentido estrito intempestivo, bem como a seção do tribunal do júri que condenou o paciente em 25 anos de reclusão, determinando-se a abertura de novo prazo para apresentação das razões recursais do recurso em sentido estrito (...)”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    6. A presente ação é juridicamente inviável, por se ter como incabível habeas corpus contra decisão proferida em recurso ordinário em habeas corpus pelo Superior Tribunal de Justiça.
+    Além da inafastabilidade dos precedentes neste sentido, o que impediria a superação desse óbice, a pretensão recursal não poderia prosperar por não se demonstrar nos autos do processo-crime ilegalidade a comprometer a sua validade, não sendo admissível ação em casos como o presente.
+    7. Tem-se nos autos que
+    a) em 7.2.2012, o Paciente foi pronunciado “como incurso no artigo 121, § 2º, inciso II, do Código Penal”;
+    b) em 11.4.2012, os autos do processo-crime foram remetidos à Defensoria Pública paraense para ciência da sentença de pronúncia;
+    c) em 16.4.2012, a Defensoria Pública paraense “devolveu os autos sem exarar ciência da sentença [de pronúncia] prolatada”, pois “constat[ou] haver advogado devidamente constituído nos autos”;
+    d) em 17.5.2012, o advogado do Paciente foi intimado da sentença de pronúncia;
+    e) em 23.5.2012, o advogado do Paciente renunciou ao mandato outorgado; e
+    f) em 25.10.2013, a Defensoria Pública interpôs recurso em sentido estrito.
+    8. O art. 586 do Código de Processo Penal estabelece o prazo de cinco dias para a interposição do recurso em sentido estrito.
+    9. A intimação da sentença de pronúncia ocorreu em 17.5.2012, quinta-feira. O prazo começou a fluir em 18.5.2012, sexta-feira, transcorreu in albis e findou em 22.5.2012, terça-feira. O advogado do Paciente renunciou os poderes que lhe tinham sido atribuídos em 23.5.2012, quarta-feira, quando esgotado o prazo legal de cinco dias para interpor o recurso em sentido estrito.
+    O recurso em sentido estrito interposto pela Defensoria Pública paraense, no entanto, foi protocolizado no dia 25.10.2013, quando precluída a oportunidade recursal há mais de um ano.
+    Verifica-se, portanto, que o recurso em sentido estrito interposto pela Defensoria Pública paraense é intempestivo.
+    10. Na linha da jurisprudência do Supremo Tribunal Federal, “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental” (HC n. 96.883-AgR, de minha relatoria, DJe 1º.2.2011).
+    Nesse sentido, entre outras, as decisões proferidas no julgamento do RHC n. 118.004, de minha relatoria, DJe 5.6.2013; RHC n. 117.983, Relatora a Ministra Rosa Weber, DJe 21.6.2013; RHC n. 117.164, Relator o Ministro Celso de Mello, DJe 19.6.2013; RHC n. 116.071, Relator o Ministro Dias Toffoli, DJe 12.6.2013; RHC n. 117.976-MC, de minha relatoria, DJe 7.6.2013; RHC n. 117981, Relator o Ministro Teori Zavascki, DJe 3.6.2013; HC n. 93.343, Relator o Ministro Ricardo Lewandowski, DJe 1º.2.2008; HC n. 89.994, Relator o Ministro Ricardo Lewandowski, DJe 22.11.2006; HC n. 94.134, Relator o Ministro Ayres Britto, DJe 18.3.2008; HC n. 93.973, Relator o Ministro Cezar Peluso, DJe 13.3.2008; HC n. 92.881, Relator o Ministro Eros Grau, DJe 31.10.2007; HC n. 88.803, Relator o Eros Grau, DJe 23.5.2006; HC n. 92.595, Relator o Ministro Menezes Direito, DJe 5.10.2007; HC n. 92.206, Relator o Ministro Joaquim Barbosa, DJe 17.8.2007; HC n. 91.476, Relator o Ministro Gilmar Mendes, DJe 13.8.2007; HC n. 90.978, Relator o Ministro Gilmar Mendes, DJe 13.4.2007; HC n. 87.921, Relatora a Ministra Ellen Gracie, DJe 15.2.2006; HC n. 87.271, Relatora a Ministra Ellen Gracie, DJe 30.11.2005; HC n. 92.989, Relator o Ministro Celso de Mello, DJe 21.2.2008; HC n. 93.219, Relator o Ministro Celso de Mello, DJe 11.12.2007; HC n. 96.883, de minha relatoria, DJe 9.12.2008; e HC n. 109.133-AgR, Relator o Ministro Ricardo Lewandowski, DJe 17.10.2011.
+    11. Pelo exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal), ficando, por óbvio, prejudicada a medida liminar requerida.
+    Publique-se.
+    Brasília, 25 de maio de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
