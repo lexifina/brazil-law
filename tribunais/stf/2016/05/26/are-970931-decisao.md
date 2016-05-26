@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, assentou a ocorrência de concorrência desleal pelos ora recorrentes ante a cessão de cotas de sociedade empresária. A partir da interpretação conferida ao artigo 1.147, do Código de Processo Civil, bem como por meio da análise das provas colacionadas ao processo, entendeu terem sido praticados atos que caracterizam referido ilícito. O recorrente, em extraordinário cujo trânsito busca alcançar, sustenta violados os incisos XXXVI, do artigo 5º da Carta da República. Aduz não ter ocorrido trespasse, e sim mera cessão de cotas, não sendo possível a aplicação do artigo 1.147 do Código Civil. Defende ser o contrato de cessão firmado entre as partes ato jurídico perfeito, devendo ter seus efeitos respeitados. Entende ter o Tribunal de origem interpretado o contrato em desacordo ao estabelecido no artigo 422 do Código Civil.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Consoante entendimento já consagrado nesta Corte, a cessão de cotas traz implícita a cláusula de não concorrência, especialmente porque a alienação se submete às regras da boa-fé contratual.
+    Em festejada decisão proferida pela C. 1ª Câmara de Direito Privado deste E. Tribunal na AP 994.02.061614-7 (266.032.4/1-00), o I. Relator, Des. José Roberto Bedran, faz uma análise detalhada da matéria, invocando Doutrina que, inclusive, ressalta a evolução do entendimento ainda na vigência do revogado CC de 1916, antes portanto da disposição contida no art. 1.147 da novel legislação.
+    [...]
+    Então, nessa linha de entendimento com a qual comungo, há obrigação implícita de não concorrência mesmo em se tratando de contrato de cessão de cotas de sociedade empresária e é necessário reconhecer-se que há provas suficientes nos autos da prática de atos que configuram a concorrência desleal que, inclusive, sustentaram a própria concessão antecipada da tutela.
+    Veja-se que a questão está, de certa forma, até confessada na medida em que o corré Rubens, após a concessão da antecipação da tutela, afirma que rescindiu o contrato com a empresa “Nestlé”, acarretando prejudicialidade reconhecida no Recurso de Agravo de Instrumento antes interposto contra a decisão antecipatória.
+    O Apelante trouxe aos autos notas fiscais que denotam a comercialização de sorvetes, pelos Réus, não importando aqui dizer-se que são sorvetes fabricados por empresa concorrente daquela que mantém contrato com a Apelante. A utilização das informações privilegiadas é evidente pela prova produzida a caracterizar os atos descritos na inicial.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Conheço do agravo interposto por Rubens Fernandes e o desprovejo.
+    3. Publiquem.
+Brasília, 26 de maio de 2016.
+ Ministro MARCO AURÉLIO
+Relator
