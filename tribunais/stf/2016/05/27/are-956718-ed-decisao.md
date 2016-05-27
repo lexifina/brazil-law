@@ -1,0 +1,21 @@
+Decisão
+    Vistos.
+    Carla Ines Noelli Pereira de Lima opõe tempestivos embargos de declaração contra decisão mediante a qual neguei seguimento ao recurso extraordinário com agravo, sob o fundamento de que, para superar o entendimento das instâncias de origem, seria necessário reexaminar o conjunto fático-probatório dos autos, ao que não se presta o recurso extraordinário, nos termos da Súmula nº 279/STF.
+    Alega a embargante que a questão suscitada nos presentes autos, apresentaria repercussão geral.
+    Aduz, in verbis, que:
+    “(...), diante de que restou incontroverso o fato de a parte recorrente, efetivamente, ter fornecido os dados de seu contato, para que fosse informada sobre o estado de saúde de sua genitora enquanto internada e de que por ocasião do óbito nada lhe foi informado, tem-se como certeza absoluta de que houve falha na prestação de serviços pela recorrida.
+    E, sendo este direito à informação, um direito difuso, por encerrar compromisso com a verdade, o faz também sob o amparo do consumidor em uma conjuntura aos artigos 8º e 9º do CDC e 5º, XXXII e XXXIII, 170, V, todos da CF/88.
+    Sendo assim, não é crível que a repercussão geral seja relevada quanto à fundamentação das decisões e, ao mesmo tempo, ao direito à informação que redunda na violação aos princípios de proteção ao consumidor e ao direito à informação, seja desconsiderada, haja vista possuir idêntica solidez (repercussão geral).”
+    Decido.
+    Não está presente nenhum dos vícios previstos no art. 1.022 do Código de Processo Civil.
+    A decisão embargada não incorreu em omissão, tendo-se decidido, fundamentadamente, todos os pontos colocados em debate, nos limites necessários ao deslinde do feito. Ademais, a contradição que autoriza opor o recurso declaratório deve ser interna à decisão, verificada entre os fundamentos do julgado e sua conclusão, o que não ocorreu no caso. Da mesma forma, a decisão não é obscura, pois a ela não faltam clareza nem certeza quanto ao que foi decidido.
+    Nessa conformidade, o que pretende a embargante, efetivamente, é promover o rejulgamento da causa, fim para o qual não se prestam os embargos declaratórios. Nesse sentido, anotem-se:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.” (ARE nº 919.449/PE-AgR-ED, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 28/4/16).
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. REDISCUSSÃO DA MATÉRIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO AOS QUAIS SE NEGA PROVIMENTO. I - Ausência dos pressupostos do art. 535, I e II, do Código de Processo Civil. II - A embargante busca tão somente a rediscussão da matéria, porém os embargos de declaração não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. III - Embargos de declaração aos quais se nega provimento.” (ARE nº 866.886/RS-AgR-ED, Tribunal Pleno, Relator o Ministro Ricardo Lewandowski, DJe de 18/4/16).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. REDISCUSSÃO DA MATÉRIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS. I - Ausência dos pressupostos do art. 535, I e II, do Código de Processo Civil. II - O embargante busca, tão somente, a rediscussão da matéria nestes embargos de declaração, os quais, por sua vez, não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. III - Embargos de declaração rejeitados (RE nº 558.258/SP-ED, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 30/6/11).
+    Ante o exposto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 27 de maio de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
