@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo que denegou agravo de instrumento para revogar cominação de multa diária em caso de descumprimento de decisão antecipatória de tutela. (eDOC, p. 87)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, XXXV e LV, do texto constitucional.
+    Nas razões recursais, alega-se que foi desrespeitado o devido processo legal e que o valor da multa cominatória é desproporcional ao da obrigação principal. (eDOC, p. 99)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, registro que a referida decisão não configura pronunciamento definitivo a respeito da controvérsia, motivo pelo qual o apelo extremo é inadmissível, conforme entendimento da Súmula 735 do Supremo Tribunal Federal.
+    Além disso, observo que é firme a jurisprudência desta Corte no sentido de que a alegação de afronta ao princípio do devido processo legal configura ofensa meramente reflexa ou indireta ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário quanto às apontadas violações à norma do art. 5º, LIV.
+    Cito, a propósito, o ARE-AgR 657.316, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.3.2012, e o tema 660 da sistemática da repercussão geral, cujo paradigma é o ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013.
+    Por fim, ressalto que o entendimento do Supremo Tribunal Federal é no sentido de que a discussão referente ao cabimento e ao valor das astreintes (multa diária) depende do prévio exame de normas processuais. Desse modo, a ofensa à Constituição, se existente, seria reflexa ou indireta, o que também inviabiliza o processamento do presente recurso.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRATO BANCÁRIO. PROCESSO CIVIL. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. RECURSO CONTRA DECISÃO DE NATUREZA PRECÁRIA. IMPOSSIBILIDADE. SÚMULA 735/STF. MULTA (ASTREINTES) PELO DESCUMPRIMENTO DE OBRIGAÇÃO DE NÃO FAZER. VALOR EXCESSIVO. DISPOSITIVOS CONSTITUCIONAIS TIDOS POR VIOLADOS NÃO PREQUESTIONADOS. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTES DOS AUTOS. SÚMULA 279/STF. Recurso interposto contra acórdão que confirmou decisão que deferira antecipação de tutela, portanto, de natureza precária. Incidência da Súmula 735/STF. Os temas constitucionais do apelo extremo não foram objeto de análise prévia e conclusiva pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF. Para dissentir da conclusão do Colegiado de origem, quanto ao valor da multa aplicada, considerado excessivo, seria necessário nova apreciação dos fatos e do material probatório constantes dos autos (Súmula 279/STF), bem como a análise de matéria infraconstitucional. Precedentes. Agravo regimental a que se nega provimento”. (ARE 711698 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 27.5.2014)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. MULTA COMINATÓRIA (ASTREINTES). QUANTUM FIXADO. REVISÃO. SÚMULA 279 DO STF. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. INVIABILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (ARE 750060 AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 21.8.2013)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
