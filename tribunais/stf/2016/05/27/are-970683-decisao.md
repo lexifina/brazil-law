@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INDEFERIMENTO. AGRAVO DE INSTRUMENTO. PETIÇÃO INCOMPLETA. ARTIGO 524 DO CPC DE 1973. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INICIAL INCOMPLETA.
+    No caso dos autos, a inicial do agravo está incompleta, estando ausente a exposição do fato e do direito, sendo incompreensíveis as razões do pedido de reforma da decisão, na forma exigida pelo art. 524 do CPC.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XXXV, LIV e LV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 284 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ressalte-se que, para divergir das razões do acórdão recorrido, seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Código de Processo Civil de 1973), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido, ARE 814.626-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 20/10/2015, verbis:
+    “Agravo regimental no recurso extraordinário com agravo. Ausência de prequestionamento. Incidência das Súmulas 282 e 356/STF. Exceção de pré-executividade. Matéria infraconstitucional.
+    1. O dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 da Corte.
+    2. Questões envolvendo o cabimento de exceção de préexecutividade não extrapolam o âmbito da legalidade. A afronta ao texto constitucional, caso ocorresse, seria meramente reflexa ou indireta.
+    3. Agravo regimental não provido.”
+    Ademais, os princípios da ampla defesa, do contraditório (artigo 5º, LV) e do devido processo legal (artigo 5º, LIV), quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, Tema 660, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Por fim, quanto à alegação de ofensa ao artigo 5°, XXXV, da Constituição Federal, melhor sorte não assiste à agravante, tendo em vista que da análise dos autos é possível observar que a parte se valeu dos meios recursais cabíveis e teve a jurisdição devidamente prestada por decisões fundamentadas, embora contrárias aos seus interesses. Assim, não resta caracterizada a negativa de prestação jurisdicional. Nesse sentido, ARE 740.877-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 4/6/2013, o qual possui a seguinte ementa:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. 3. Alegação de ausência de prestação jurisdicional. Decisão fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. Precedente: AI-QO-RG 791.292 de minha relatoria, DJe 13.8.2010. 4. Afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, se dependente do reexame prévio de normas infraconstitucionais, configura ofensa reflexa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. 5. Alegação de ofensa ao princípio da legalidade. Enunciado 636 da Súmula desta Corte. 6. Ausência de argumentos suficientes para infirmar a decisão recorrida. 7. Agravo regimental a que se nega provimento.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de maio de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
