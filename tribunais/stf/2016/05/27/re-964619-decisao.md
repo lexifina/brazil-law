@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (eDOC 4, p. 14):
+    “CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. CONCURSO PÚBLICO. CANDIDATO APROVADO PARA O CARGO DE TÉCNICO DE ADMINISTRAÇÃO PÚBLICA DA SECRETARIA DE GESTÃO ADMINISTRATIVA DO DF. INVESTIDURA NO CARGO DE ASSISTENTE DE EDUCAÇÃO DA SECRETARIA DE EDUCAÇÃO DO DF. POSSIBILIDADE. REGULAÇÃO NORMATIVA VIGORANTE. TERMO DE OPÇÃO. DECRETO Nº 21.688/2000. INCONSTITUCIONALIDADE. CABIMENTO. NORMA CONSTITUCIONAL À ÉPOCA DA POSSE DO CANDIDATO. INOBSERVÂNCIA DA ORDEM DE CLASSIFICAÇÃO DO CERTAME. NÃO DEMONSTRAÇÃO. INOCORRÊNCIA DE FATOS NOVOS A INFLUIR NO JULGAMENTO DA LIDE.”
+    Os embargos de declaração foram rejeitados. (eDOC 5, pp. 46-58).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, “c” e “d”, do permissivo constitucional, aponta-se ofensa ao art. 37, II, IV e § 6º da Constituição Federal, bem como às Súmulas 15 e 685 do STF.
+    Nas razões recursais, sustenta-se, em suma, que “ressalvado exclusivamente o provimento derivado mediante promoção que pressupõe a integração de ambos os cargos na mesma carreira, são inadmissíveis quaisquer outras formas de provimento do servidor público, em cargo diverso daquele do qual já seja titular a qualquer título.” (eDOC 5, p. 55).
+    Alega-se, ainda, que “Nenhum dos servidores empossados, inclusive a Recorrente, que foram aproveitados ilegal e indevidamente, em cargos diversos daqueles para os quais foram concursados, estavam em disponibilidade remunerada, do que por simples inferência literal se deduz a total ilegalidade dos atos praticados.” (eDOC 5, p. 56).
+    A Presidência do TJDFT admitiu o recurso extraordinário. (eDOC 6, pp. 29-32).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem, quando do julgamento, assim asseverou (eDOC 4, p. 28):
+    “não se vislumbra qualquer prejuízo ao apelante, ao contrário, pudera ingressar em carreira pública muito antes do que o previsto para a carreira de Técnico de Administração Pública, eis que fora investido em 28 de julho de 2005, sendo que os demais concursandos que optaram por guardar, além de assumirem o risco da espera, vieram a tomar posse quase um ano depois, segundo informação prestada pelo apelado e não infirmada pelo apelante. Da mesma forma, não se infere a alegada preterição porquanto, exercida a opção , o que possibilitara a convocação de candidatos classificados em ordem posterior, não havendo se falar, portanto, em quebra da precedência, até mesmo porque não demonstrada pelo apelante.”
+    Constata-se, assim, que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas e das normas editalícias, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 454 do STF.
+    A esse respeito, confiram-se os seguintes precedentes: ARE 719-.854-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 18.9.2013; e ARE 743.244-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 23.9.2013.
+    Quanto à violação das Súmulas 15 e 685 deste Tribunal, apontadas pela parte recorrente, verifica-se que para chegar à conclusão contrária à adotada pelo acórdão impugnado – e afirmar que ocorreu inobservância da ordem de classificação do certame, bem como a ilegalidade do aproveitamento do recorrente – necessário seria o reexame da legislação local que o orientou e o reexame do conjunto fático probatório, o que inviabiliza o extraordinário, a teor dos enunciados nas Súmulas 280 e 279 do Supremo Tribunal Federal.
+    Quanto à interposição do apelo extraordinário com base no art. 102, III, alínea “c”, da Constituição Federal, observa-se que o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal. Portanto, resta inviabilizado o recurso extraordinário.
+    Por fim, quanto à objeção do recurso extraordinário com fundamento no art. 102, III, alínea “d”, do Texto Constitucional, percebe-se que não houve, por parte do Tribunal a quo, julgamento no qual considerou válida lei local em face de lei federal, impossibilitando, assim, o prosseguimento do apelo extremo.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 27 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
