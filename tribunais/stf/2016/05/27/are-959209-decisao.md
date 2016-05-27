@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+    “Apelação Cível. Transporte. Ação de reparação de danos. Hipótese em que a autora logrou comprovar ao transporte irregular de passageiros efetivado pela ré. Indenização devida, a ser apurada em sede de liquidação de sentença”. (eDOC 5, p. 17)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 175 do texto constitucional.
+    Nas razões recursais, alega-se que uma das concessões de transporte intermunicipal da recorrida fora indevidamente prorrogada, sem submissão a procedimento licitatório e, sendo inválida, não autorizaria a esta exigir indenização da recorrida por haver explorado serviço de transporte no mesmo trecho. (eDOC 5, p. 44)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o acórdão recorrido não abordou o tema da licitude da exploração da linha de transporte pela recorrida, nem confirma o elemento fático que dá suporte à argumentação recursal: de que a concessão fora prorrogada sem licitação. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Com relação ao argumento da ré de que alguns contratos já estavam vencidos, não sendo da autora a concessão, tal situação também será analisada na liquidação, já que é o momento adequado para averiguar os valores que a demandante deixou de receber em virtude da conduta da ré, desobedecendo-se à concessão”. (eDOC 5, p. 20)
+    Logo, não houve prequestionamento da questão constitucional, o que inviabiliza o apelo extremo, pois incide no caso o óbice das Súmulas 282 e 356 do STF. Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de entendimento. O instituto visa o cotejo indispensável a que se diga enquadrado o recurso extraordinário no permissivo constitucional”. (ARE 869557 AgR, rel. Min. Marco Aurélio, Primeira Turma, DJe 26.5.2015)
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Ausência de prequestionamento. Incidência das Súmulas nº 282 e 356 da Corte. Ofensa reflexa à Constituição. Reapreciação de fatos e provas. Inadmissibilidade. Incidência da Súmula nº 279/STF. Precedentes. Agravo regimental não provido. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. 2. O exame de legislação infraconstitucional é inadmissível em recurso extraordinário, por configurar ofensa reflexa à Constituição. 3. Conclusão em sentido diverso daquele do acórdão recorrido demandaria, na espécie, o reexame aprofundado do conjunto fático-probatório dos autos, o que é inviável na via eleita, segundo o enunciado da Súmula nº 279/STF. 4. Agravo regimental ao qual se nega provimento”. (ARE 871219 AgR, rel. Min. Dias Toffoli, Segunda Turma, DJe 8.6.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
