@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Tribunal de Justiça que negou provimento ao recurso de agravo regimental, assim ementado:
+    AGRAVO INTERNO. ASSISTÊNCIA MULTIDISCIPLINAR DE SAÚDE. PETROBRÁS. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. SUPRESSÃO DE INSTÂNCIA. COBERTURA DE EXAMES QUE IMPLIQUEM RISCO DE VIDA OU LESÃO IRREPARÁVEL. APLICAÇÃO DO VERBETE N.º 59 DA SÚMULA DESTE EGRÉGIO TRIBUNAL. RECURSO CONHECIDO E DESPROVIDO.
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, aduz-se ofensa aos artigos 5º, XXXV; 93, IX e 114, I, todos da Constituição da República, afirmando-se afronta ao dever de prestação jurisdicional e fundamentação das decisões judiciais, bem como à competência da Justiça do Trabalho.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    No exame do ARE-RG 808.726, de relatoria do Ministro Teori Zavascki, Dje de 20.06.2014 (Tema 740), o Plenário desta Corte entendeu inexistir repercussão geral nas discussões sobre a competência para processar e julgar causas relativas a prestações por parte da Assistência Multidisciplinar de Saúde – AMS, oferecida pela Petrobrás a seus empregados e respectivos dependentes, por demandar o reexame de fatos e provas, bem como de cláusulas contratuais, uma vez que eventual ofensa à Constituição, se existente, ocorreria de forma indireta ou reflexa, tal como o caso dos autos.
+    Ademais, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, Dje de 13.08.2010, o Tribunal assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 27 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
