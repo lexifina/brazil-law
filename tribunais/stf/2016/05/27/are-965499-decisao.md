@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “Ação de cobrança de diferenças de complementação de aposentadoria com base no Regulamento vigente após sua data de aposentação, 02.09.1991. Impossibilidade. Incidência do Regulamento em vigor na data da aposentação. Base de cálculo do benefício do autor que considerou um teto retributivo limitado a 136% da remuneração do cargo efetivo, enquanto o benefício especial, criado para os que se aposentaram a partir de 24.12.1997, impunha uma limitação a 75% sobre a remuneração, que foi majorada para 90%. O benefício concedido deve ser compatível com sua forma de contribuição (custeio), não havendo que se falar em isonomia geral e indiscriminada. Precedentes do STJ. Apelo não provido”. (eDOC 3, p. 88)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, caput, e 202, § 3º, do texto constitucional.
+    Nas razões recursais, o recorrente alega que suas contribuições para o fundo de previdência complementar também contaram para a formação do superávit geral, de modo que privá-lo do benefício especial financiado por este superávit seria discriminatório. (eDOC 3, p. 119)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos e interpretar cláusulas dos planos de benefícios mantidos pela recorrida, consignou que haveria fator de discrímen objetivo e razoável entre o recorrente e os segurados contemplados pelo benefício especial. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “De fato, à época da aposentadoria do autor, o salário de participação tinha, como teto, 136% do somatório do vencimento padrão e anuênios recebidos nos últimos doze meses.
+    O plano de Benefícios n. 1, entretanto, vigente a partir de 19/12/1997, estabeleceu, no seu art. 86, para os participantes que se aposentaram a partir de 24/12/97, um benefício especial, alterando o teto do cálculo contributivo de 75% para 90%.
+    Nesse contexto, o benefício especial de aposentadoria teve o condão de majorar o percentual de cálculo dos proventos apenas dos empregados cuja aposentadoria era limitada a 75% da remuneração, haja vista que, no tocante aos empregados que se aposentaram antes de 24/12/1997, a complementação é calculada em percentual superior, aumentado anualmente após trinta anos de filiação à PREVI.
+    O benefício em tela, assim, instituído em 19/12/1997, não poderia contemplar os contribuintes, porquanto veio justamente para corrigir desigualdades verificadas no tocante à base de cálculo da contribuição dos associados da PREVI”. (eDOC 3, p. 92)
+    Assim, verifica-se que divergir do entendimento firmado pelo Tribunal de origem demandaria o reexame do acervo fático-probatório e das cláusulas dos planos de benefícios, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. BENEFÍCIO ESPECIAL. RENDA CERTA. EXTENSÃO. MATÉRIA INFRACONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF. 1. A solução da controvérsia pressupõe, necessariamente, a análise de legislação infraconstitucional, o reexame dos fatos, do material probatório constante dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. Precedentes. 2. Agravo regimental a que se nega provimento”. (ARE 892947 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 24.9.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PREVIDÊNCIA COMPLEMENTAR. REAJUSTE. NECESSÁRIO REEXAME DE PROVAS, DE CLÁUSULAS CONTRATUAIS E DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 863391 AgR, rel. Min. Cármen Lúcia, Segunda Turma, DJe 13.5.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
