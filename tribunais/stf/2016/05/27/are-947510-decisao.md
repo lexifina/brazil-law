@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “APELAÇÃO. AÇÃO MONITÓRIA. EMBARGOS OPOSTOS. AFERIÇÃO DO VALOR DA OBRIGAÇÃO. DIFERENÇA APURADA DO VALOR OBTIDO DA VENDA EXTRAJUDICIAL DE BEM APREENDIDO. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DO BANCO. APURAÇÃO DO SALDO MEDIANTE PERCENTUAL DA VENDA EXTRAJUDICIAL. IMPOSSIBILIDADE. NOTIFICAÇÃO PARA CONSTITUIÇÃO EM MORA. VALOR DA GARANTIA. RECURSO DESPROVIDO”. (eDOC2, p. 188)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI, do texto constitucional.
+    Nas razões recursais, alega-se que o contrato entre as partes é valido e, portanto, deve ser cumprido ainda que se torne inconveniente para o devedor.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie e o conjunto probatório constante dos autos, consignou que os juros foram corretamente fixados pelo Juízo a quo e que o valor devido pelos recorridos não seria o aventado pelo recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A credora notificou para comunicar o vencimento do cheque especial e declinou a soma de R$ 7.187,04 (fls. 17), daí porque o quadro elaborado para recebimento da diferença mostra-se equivocado e não traduz, com precisão, realidade sobre os fatos”. (eDOC 2, p. 190)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. REVISÃO CONTRATUAL. CARTÃO DE CRÉDITO. COMISSÃO DE PERMANÊNCIA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. JUROS REMUNERATÓRIOS: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 898203 AgR, rel. Min. Cármen Lúcia, Segunda Turma, DJe 6.11.2015)
+    “DIREITO CIVIL. CONTRATO BANCÁRIO. JUROS. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. SÚMULA Nº 454/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 18.01.2014. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. Incidência da Súmula nº 454/STF: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. 3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. Agravo regimental conhecido e não provido”. (ARE 913387 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 9.11.2015)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, b, do CPC).
+    Publique-se.
+    Brasília, 27 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
