@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ISS. INSTRUÇÃO NORMATIVA SF/SUREM N. 19/2011. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Tributário. Mandado de Segurança. Sentença concessiva. Pretensão à reforma. Instrução Normativa SF/SUREM n. 19/2011. Indevida sanção política configurada. Precedentes deste Tribunal de Justiça, baseados em súmulas do Supremo Tribunal Federal. Reexame necessário e recurso voluntário desprovidos”.
+    2. O Agravante alega “restar claro inexistir motivação para que se considere que a existência de uma instrução normativa impede o livre exercício da atividade econômica do prestador do serviço. O acórdão recorrido, por evidente contraria os artigos 5º, XIII e LIV, e 170, parágrafo único, da Constituição Federal, ao lhes conferir apreciação jurídica claramente equivocada”.
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência das Súmulas ns. 279 e 280 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A apreciação do pleito recursal demandaria a análise da legislação infraconstitucional local aplicável à espécie (Instrução Normativa n. 19/2011 SF/SUREM), a inviabilizar o processamento do recurso extraordinário. A alegada ofensa constitucional, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal. Assim, por exemplo:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. ISS. Nota fiscal. Instrução normativa. Alegada inexistência de inovação do ordenamento jurídico. Necessidade de reexame da legislação local. Súmulas nºs 280 e 636/STF. 1. Para ultrapassar o entendimento do Tribunal de origem, no sentido de que Instrução Normativa nº 19/2011 SF/SUREM desbordou dos limites das leis e do decreto de regência, seria necessário o reexame da causa à luz da legislação local aplicável à espécie, o que não é admitido em sede de recurso extraordinário. Incidência das Súmulas nºs 280 e 636 da Corte. 2. Agravo regimental não provido” (ARE n. 923.604-AgR/SP, Relator o Ministro DiasToffoli, Segunda Turma, DJe 17.12.2015).
+    “‘Agravo regimental no recurso extraordinário. Tributário. Contribuição ao PIS. COFINS. Não cumulatividade. IN SFR nºs 247/02 e 404/04. Leis nºs 10.637/02 e 10.833/03. Necessidade de reexame da contenda à luz da legislação infraconstitucional. Ofensa constitucional indireta ou reflexa. 1. No caso, o debate de temas constitucionais porventura envolvidos demanda previamente o cotejo das Instruções Normativas da Secretaria da Receita Federal nºs 247/02 e 404/04 com as Leis nºs 10.637/02 e 10.833/03, notadamente para saber se os atos normativos limitaram ou não o alcance dos diplomas legais. 2. Questão de mera legalidade. A afronta ao texto constitucional, se ocorresse, seria meramente reflexa ou indireta. 3. Agravo regimental não provido” (RE n. 809.400-AgR, Primeira Turma, Relator o Ministro Dias Toffoli, DJe de 23.2.2015).”
+    Nada há a prover quanto às alegações do Agravante.
+    6. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de maio de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
