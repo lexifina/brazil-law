@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TERÇO DE FÉRIAS: NATUREZA JURÍDICA DA PARCELA. INCIDÊNCIA DE IMPOSTO DE RENDA. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “IMPOSTO DE RENDA. ADICIONAL CONSTITUCIONAL DE FÉRIAS. EXERCÍCIO REGULAR DO DIREITO A FÉRIAS. NATUREZA SALARIAL. INEXISTÊNCIA DE DANO OU PREJUÍZO A REPARAR. INCIDÊNCIA. CABIMENTO. HONORÁRIOS ADVOCATÍCIOS.
+    1. O terço constitucional não tem como escapar do enquadramento de acréscimo patrimonial tributado pelo IR, uma vez que a própria CF/88 qualifica-o como direito do trabalhador, ou seja, é o produto pecuniário do trabalho.
+    2. É incabível argumentar que tais valores estariam amparados por uma suposta natureza indenizatória, pois não há uma perda ou dano correspondente por ele reparado. Ao contrário, é um valor agregado ao trabalho de modo a facilitar e oportunizar o usufruto deste período de férias.
+    3. O adicional constitucional de férias, regularmente usufruído, tem natureza remuneratória e, como tal, é passível de tributação pelo imposto de renda.
+    4. Em face da inversão da decisão, condena-se o Sindicato autor no pagamento das custas processuais e de honorários advocatícios. Tendo em mente a singeleza da causa, a moderação deve imperar, adotando-se valor que não onere demasiadamente o vencido e remunere merecidamente o patrono do vencedor na demanda. Observando o art. 20, § 4º, do CPC, bem como considerando o valor da causa, o valor de R$ 5.000,00, atende a ambos os critérios, nem representando quantia exorbitante, nem acarretando aviltamento à dignidade profissional do advogado” (doc. 6).
+    2. O Recorrente alega ter o Tribunal de origem contrariado os arts. 7º, inc. XVII, 39, § 3º, e 153, inc. III, da Constituição da República, asseverando que “o terço constitucional, portanto, tem caráter nitidamente indenizatório/compensatório, na medida em que representa um reforço financeiro, que pretende apenas garantir aos trabalhadores condições para que possam usufruir plenamente do seu direito a férias” (doc. 10).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. A apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie. A alegada contrariedade à Constituição da República, se ocorrida, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA. TERÇO DE FÉRIAS: NATUREZA JURÍDICA DA PARCELA. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 851.677-AgR, de minha relatoria, Segunda Turma, DJe 13.2.2015).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. ALEGAÇÃO DE VIOLAÇÃO AO ART. 41, § 1º, DA CF/88. RAZÕES DISSOCIADAS DO ACÓRDÃO RECORRIDO. APLICAÇÃO ANALÓGICA DA SÚMULA 284/STF. TRIBUTÁRIO. IMPOSTO DE RENDA. TERÇO CONSTITUCIONAL DE FÉRIAS. NATUREZA JURÍDICA. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. INVIABILIDADE. OFENSA INDIRETA À CONSTITUIÇÃO. JURISPRUDÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE n. 773.707-AgR, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 1º.4.2014).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA FÍSICA. INCIDÊNCIA SOBRE O TERÇO CONSTITUCIONAL DE FÉRIAS. NATUREZA JURÍDICA DA VERBA. 1. A jurisprudência do STF é firme no sentido de que a definição da natureza jurídica do terço constitucional de férias, para fins de incidência de Imposto de Renda, cinge-se ao âmbito infraconstitucional, o que inviabiliza o processamento do recurso extraordinário. Súmula 279 do STF. 2. Agravo regimental a que se nega provimento” (ARE n. 818.684-AgR, Relator o Ministro Edson Fachin, Primeira Turma, DJe 1º.10.2015).
+    Nada há a prover quanto às alegações do Recorrente.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 932, inc. VIII, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de maio de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
