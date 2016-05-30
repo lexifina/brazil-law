@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 6ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação Cível Administrativo Anulação de Ato Administrativo - Pretensão de retorno à carga horária anterior - Sentença de improcedência. Recurso pela autora Desprovimento de rigor - Inexistência de direito a regime jurídico de seu cargo Discricionariedade da Administração para organizar seus serviços, respeitando-se os limites constitucionais estabelecidos - Redução de proventos não demonstrada - Precedentes. R. Sentença mantida - Apelação improvida.”
+    No recurso extraordinário, sustenta-se violação do artigo 37, inciso XV, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    Colhe-se do acórdão recorrido:
+    “No tocante à questão de fundo, não restou demonstrado que a atuação de autoridade, no caso, tenha efetivamente causado prejuízo à autora.
+    Com efeito, verifica-se dos autos que a autora é submetida ao regime jurídico estatutário, em consonância com a Lei Municipal nº 2.979/89, estatuto dos servidores públicos municipais de Tupã.
+    A remoção da servidora, através da Portaria nº 12.361/2007 deu-se motivadamente, nada havendo que macule o ato administrativo combatido.
+    (…)
+    No caso concreto, o conjunto probatório colacionado aos autos faz prevalecer os pressupostos de legitimidade e legalidade do ato administrativo atacado na presente demanda (fls. 360/361).
+    Além disso, a servidora, quando da alteração legislativa não mais estava lotada na Secretaria de Saúde. Frise-se, ainda, que encontra-se readaptada a pedido desde maio de 2008, prestando serviço junto ao arquivo do PROCON. Falta-lhe, portanto, legitimidade para discutir a legalidade das leis que se referem expressamente aos servidores lotados na Secretaria de Saúde.
+    Também não restou demonstrada a redução nos seus vencimentos, ao contrário com a publicação da LCM nº 140/2008, após o reenquadramento instituído, houve aumento nos seus vencimentos, conforme fichas financeiras juntadas, sendo inadmissível que se pretenda usufruir de benefício anterior e concomitantemente ao da nova legislação.
+    Daí por que, não há como prosperar a pretensão pretendida pela autora.”
+    Destarte, verifica-se que o Tribunal de origem decidiu a lide amparado na legislação local pertinente. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Além disso, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 280 desta Corte. Nesse sentido, anote-se:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. REMUNERAÇÃO. TRANSFORMAÇÃO EM SUBSÍDIO. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. AUSÊNCIA DE OFENSA À IRREDUTIBILIDADE DE VENCIMENTOS. APLICAÇÃO DO ÓBICE DA SÚMULA 279/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 13.3.2012. A jurisprudência firmada no âmbito deste Supremo Tribunal Federal é no sentido de que não há direito adquirido a regime jurídico, bem como ofensa ao princípio da irredutibilidade de vencimentos, quando preservado seu valor nominal, razão pela qual não se divisa a alegada ofensa ao dispositivo constitucional suscitado. Divergir do entendimento do Tribunal a quo no sentido de não houve redução vencimental demandaria a reelaboração da moldura fática delineada na origem, inviável em sede recursal extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Agravo regimental conhecido e não provido” (RE n° 790.203/BA-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 19/8/14).
+    “Agravo regimental em recurso extraordinário. 2. Servidores inativos. 3. Inexistência de direito adquirido a regime jurídico, desde que observada a irredutibilidade salarial. Discussão acerca da irredutibilidade salarial. Revolvimento do conjunto fático-probatório. Óbice previsto na Súmula 279. Precedentes. 4. Ausência de argumentos suficientes para infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (RE n° 597.653/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 28/2/13).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO MUNICIPAL. AMPLIAÇÃO DE JORNADA DE TRABALHO E AUMENTO DE VENCIMENTOS. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL E DE REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE nº 728.776/MG-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 30/8/13).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (AI nº 556.757/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 12/5/06).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de maio de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
