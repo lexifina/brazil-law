@@ -1,25 +1,16 @@
-Art. 16. A União, os Estados, o Distrito Federal e os Municípios poderão, no âmbito de suas competências, por meio de seus órgãos de controle interno, de forma isolada ou em conjunto com o Ministério Público ou com a Advocacia Pública, celebrar acordo de leniência com as pessoas jurídicas responsáveis pela prática dos atos e pelos fatos investigados e previstos nesta Lei que colaborem efetivamente com as investigações e com o processo administrativo, de forma que dessa colaboração resulte:
-I - a identificação dos demais envolvidos na infração, quando couber;
-II - a obtenção de informações e documentos que comprovem a infração noticiada ou sob investigação;
-III - a cooperação da pessoa jurídica com as investigações, em face de sua responsabilidade objetiva; e
-IV - o comprometimento da pessoa jurídica na implementação ou na melhoria de mecanismos internos de integridade.
+Art. 16. A autoridade máxima de cada órgão ou entidade pública poderá celebrar acordo de leniência com as pessoas jurídicas responsáveis pela prática dos atos previstos nesta Lei que colaborem efetivamente com as investigações e o processo administrativo, sendo que dessa colaboração resulte:
+I - a identificação dos demais envolvidos na infração, quando couber; e
+II - a obtenção célere de informações e documentos que comprovem o ilícito sob apuração.
 § 1º O acordo de que trata o caput somente poderá ser celebrado se preenchidos, cumulativamente, os seguintes requisitos:
+I - a pessoa jurídica seja a primeira a se manifestar sobre seu interesse em cooperar para a apuração do ato ilícito;
 II - a pessoa jurídica cesse completamente seu envolvimento na infração investigada a partir da data de propositura do acordo;
-III - a pessoa jurídica, em face de sua responsabilidade objetiva, coopere com as investigações e com o processo administrativo, comparecendo, sob suas expensas, sempre que solicitada, a todos os atos processuais, até seu encerramento; e
-IV - a pessoa jurídica se comprometa a implementar ou a melhorar os mecanismos internos de integridade, auditoria, incentivo às denúncias de irregularidades e à aplicação efetiva de código de ética e de conduta.
-§ 2º O acordo de leniência celebrado pela autoridade administrativa:
-I - isentará a pessoa jurídica das sanções previstas no inciso II do caput do art. 6º e das sanções restritivas ao direito de licitar e contratar previstas na Lei nº 8.666, de 21 de junho de 1993, e em outras normas que tratam de licitações e contratos;
-II - poderá reduzir a multa prevista no inciso I do caput do art. 6º em até dois terços, não sendo aplicável à pessoa jurídica qualquer outra sanção de natureza pecuniária decorrente das infrações especificadas no acordo; e
-III - no caso de a pessoa jurídica ser a primeira a firmar o acordo de leniência sobre os atos e fatos investigados, a redução poderá chegar até a sua completa remissão, não sendo aplicável à pessoa jurídica qualquer outra sanção de natureza pecuniária decorrente das infrações especificadas no acordo.
+III - a pessoa jurídica admita sua participação no ilícito e coopere plena e permanentemente com as investigações e o processo administrativo, comparecendo, sob suas expensas, sempre que solicitada, a todos os atos processuais, até seu encerramento.
+§ 2º A celebração do acordo de leniência isentará a pessoa jurídica das sanções previstas no inciso II do art. 6º e no inciso IV do art. 19 e reduzirá em até 2/3 (dois terços) o valor da multa aplicável.
 § 3º O acordo de leniência não exime a pessoa jurídica da obrigação de reparar integralmente o dano causado.
-§ 4º O acordo de leniência estipulará as condições necessárias para assegurar a efetividade da colaboração e o resultado útil do processo administrativo e quando estipular a obrigatoriedade de reparação do dano poderá conter cláusulas sobre a forma de amortização, que considerem a capacidade econômica da pessoa jurídica.
+§ 4º O acordo de leniência estipulará as condições necessárias para assegurar a efetividade da colaboração e o resultado útil do processo.
 § 5º Os efeitos do acordo de leniência serão estendidos às pessoas jurídicas que integram o mesmo grupo econômico, de fato e de direito, desde que firmem o acordo em conjunto, respeitadas as condições nele estabelecidas.
 § 6º A proposta de acordo de leniência somente se tornará pública após a efetivação do respectivo acordo, salvo no interesse das investigações e do processo administrativo.
 § 7º Não importará em reconhecimento da prática do ato ilícito investigado a proposta de acordo de leniência rejeitada.
 § 8º Em caso de descumprimento do acordo de leniência, a pessoa jurídica ficará impedida de celebrar novo acordo pelo prazo de 3 (três) anos contados do conhecimento pela administração pública do referido descumprimento.
-§ 9º A formalização da proposta de acordo de leniência suspende o prazo prescricional em relação aos atos e fatos objetos de apuração previstos nesta Lei e sua celebração o interrompe.
+§ 9º A celebração do acordo de leniência interrompe o prazo prescricional dos atos ilícitos previstos nesta Lei.
 § 10. A Controladoria-Geral da União - CGU é o órgão competente para celebrar os acordos de leniência no âmbito do Poder Executivo federal, bem como no caso de atos lesivos praticados contra a administração pública estrangeira.
-§ 11. O acordo de leniência celebrado com a participação das respectivas Advocacias Públicas impede que os entes celebrantes ajuizem ou prossigam com as ações de que tratam o art. 19 desta Lei e o art. 17 da Lei nº 8.429, de 2 de junho de 1992, ou de ações de natureza civil.
-§ 12. O acordo de leniência celebrado com a participação da Advocacia Pública e em conjunto com o Ministério Público impede o ajuizamento ou o prosseguimento da ação já ajuizada por qualquer dos legitimados às ações mencionadas no § 11.
-§ 13. Na ausência de órgão de controle interno no Estado, no Distrito Federal ou no Município, o acordo de leniência previsto no caput somente será celebrado pelo chefe do respectivo Poder em conjunto com o Ministério Público.
-§ 14. O acordo de leniência depois de assinado será encaminhado ao respectivo Tribunal de Contas, que poderá, nos termos do inciso II do art. 71 da Constituição Federal, instaurar procedimento administrativo contra a pessoa jurídica celebrante, para apurar prejuízo ao erário, quando entender que o valor constante do acordo não atende o disposto no § 3º.
