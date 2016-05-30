@@ -1,1 +1,1 @@
-Art. 15. A comissão designada para apuração da responsabilidade de pessoa jurídica, após a instauração do processo administrativo, dará conhecimento ao Ministério Público de sua existência, para apuração de eventuais delitos.
+Art. 15. A comissão designada para apuração da responsabilidade de pessoa jurídica, após a conclusão do procedimento administrativo, dará conhecimento ao Ministério Público de sua existência, para apuração de eventuais delitos.

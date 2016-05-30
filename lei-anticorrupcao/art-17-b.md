@@ -1,1 +1,0 @@
-Art. 17-B. Os documentos porventura juntados durante o processo para elaboração do acordo de leniência deverão ser devolvidos à pessoa jurídica quando não ocorrer a celebração do acordo, não permanecendo cópias em poder dos órgãos celebrantes.

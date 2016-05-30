@@ -1,1 +1,0 @@
-Art. 17-A. Os processos administrativos referentes a licitações e contratos em curso em outros órgãos ou entidades que versem sobre o mesmo objeto do acordo de leniência deverão, com a celebração deste, ser sobrestados e, posteriormente, arquivados, em caso de cumprimento integral do acordo pela pessoa jurídica.
