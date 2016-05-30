@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de agravo interposto contra decisão que, aplicando a sistemática da repercussão geral (CPC/1973, art. 543-B, § 3º), declarou parcialmente prejudicado recurso extraordinário e, quanto às demais questões, inadmitiu-o sob as razões de que (a) o acórdão impugnado não violou dispositivos constitucionais; e (b) a análise da matéria suscitada demandaria o reexame do conjunto fático-probatório, incidindo o óbice da Súmula 279/STF.
+    No agravo, sustenta-se que (a) os argumentos do recurso extraordinário não foram analisados e decididos no julgamento do RE 592.377/RS; (b) a decisão de admissibilidade do apelo extremo ofendeu o art. 5º, LV, da CF/88; (c) a controvérsia debatida nos autos possui repercussão geral; e (d) o aresto adversado contrariou a Constituição Federal.
+    2. O Plenário do STF, no julgamento das Rcls 7.569 e 7.547, ambas da relatoria da Min. Ellen Gracie, assentou o entendimento de que não constitui juízo de admissibilidade do apelo a negativa de seguimento do recurso extraordinário, na origem, com base nos §§ 2º e 3º do art. 543-B do CPC/1973 e no art. 328-A do RISTF, de modo que se revela incabível o ajuizamento de reclamação ou a interposição do agravo do art. 544 do CPC/1973. Definiu-se, também, que o não encaminhamento do recurso a esta Corte não importa violação à Súmula 727/STF. Essa orientação foi reafirmada pelo Pleno quando do julgamento do AI 760.358-QO (Rel. Min. GILMAR MENDES, Presidente, DJe de 12/2/2010).
+    Entretanto, havendo decisão de admissibilidade do extraordinário com partes autônomas em que se aplica a sistemática da repercussão geral a apenas algumas delas, evidentemente não compete ao Juízo de origem a apreciação daquilo que for obstado por fundamentos diversos.
+    No caso dos autos, o Tribunal de Justiça de São Paulo negou o processamento do recurso extraordinário, no que toca à capitalização mensal dos juros, com base em precedente prolatado pelo Supremo Tribunal Federal sob a sistemática da repercussão geral. No que se refere a esse ponto, não cabe irresignação para o STF.
+    Desse modo, o presente agravo apenas comportaria conhecimento quanto à inadmissão do extraordinário pela suposta violação ao art. 5º, LV, da Carta Magna.
+    3. Contudo, a respeito dessa parte, as razões do agravo não impugnaram especificamente todos os fundamentos suficientes para manter a decisão agravada, nada aduzindo sobre a Súmula 279/STF, o que também acarreta o não conhecimento do presente recurso, nos termos do art. 544, § 4º, I, do CPC/1973.
+    4. Diante do exposto, não conheço do agravo.
+    Publique-se. Intime-se.
+    Brasília, 30 de maio de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
