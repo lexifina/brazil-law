@@ -1,0 +1,26 @@
+Decisão
+    União interpõe recurso extraordinário, com fundamento na alínea ‘a’ do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “OPÇÃO DE NACIONALIDADE. EFEITO 'EX TUNC'. REQUISITOS PARA HOMOLOGAÇÃO.
+    Deve ser homologado o pedido de Opção de Nacionalidade Brasileira quando preenchidos os requisitos legais previstos no art. 12, inciso I, alínea 'c', da Constituição Federal, ou seja, caberá ao autor comprovar ter mãe ou pai brasileiro e que tenha vindo a residir em território nacional.
+    No caso dos autos, o autor comprovou que seu pai era brasileiro mediante a juntada da sentença que homologou a opção de nacionalidade do pai.
+    O STF reconhece que a homologação, por sentença judicial, de opção pela nacionalidade brasileira (artigo 12, inciso I , alínea c , da Constituição do Brasil) possui efeitos ex tunc.”
+    No recurso extraordinário, sustenta-se violação ao artigo 12, inciso I, alínea ‘c’, da Constituição Federal.
+    Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Paulo Gustavo Gonet Branco, pelo “desprovimento do recurso”. Referido parecer restou assim ementado:
+    “Recurso extraordinário. Opção pela nacionalidade brasileira. Arguida falta de preenchimento de requisitos constitucionais. A sentença que homologa a opção pela nacionalidade brasileira produz efeitos ex tunc. Precedentes. Consequências no caso concreto. Parecer pelo desprovimento do recurso.”
+    Decido.
+    A irresignação não merece prosperar.
+    Colhe-se do voto condutor do acórdão vergastado:
+    “O fato do pai do autor ainda não ter optado pela nacionalidade brasileira quando do seu nascimento do filho não é empecilho para homologação do pedido de nacionalidade do autor/filho. Isso porque a homologação do pedido de nacionalidade brasileira feita pelo pai possui efeitos ex tunc.
+    (...)
+    Assim, embora reconhecida nacionalidade brasileira do pai após o nascimento do filho, este se beneficia da condição de brasileiro do pai para fins de optar pela nacionalidade brasileira.”
+    Com efeito, a orientação adotada pela instância de origem está de acordo com o entendimento adotado por este Supremo Tribunal Federal. Confira-se:
+    “I. Nacionalidade brasileira de quem, nascido no estrangeiro, é filho de pai ou mãe brasileiros, que não estivesse a serviço do Brasil: evolução constitucional e situação vigente. 1. Na Constituição de 1946, até o termo final do prazo de opção - de quatro anos, contados da maioridade -, o indivíduo, na hipótese considerada, se considerava, para todos os efeitos, brasileiro nato sob a condição resolutiva de que não optasse a tempo pela nacionalidade pátria. 2. Sob a Constituição de 1988, que passou a admitir a opção "em qualquer tempo" - antes e depois da ECR 3/94, que suprimiu também a exigência de que a residência no País fosse fixada antes da maioridade, altera-se o status do indivíduo entre a maioridade e a opção: essa, a opção - liberada do termo final ao qual anteriormente subordinada -, deixa de ter a eficácia resolutiva que, antes, se lhe emprestava, para ganhar - desde que a maioridade a faça possível - a eficácia de condição suspensiva da nacionalidade brasileira, sem prejuízo - como é próprio das condições suspensivas -, de gerar efeitos ex tunc, uma vez realizada. 3. A opção pela nacionalidade, embora potestativa, não é de forma livre: há de fazer-se em juízo, em processo de jurisdição voluntária, que finda com a sentença que homologa a opção e lhe determina a transcrição, uma vez acertados os requisitos objetivos e subjetivos dela. 4. Antes que se complete o processo de opção, não há, pois, como considerá-lo brasileiro nato. II. Extradição e nacionalidade brasileira por opção pendente de homologação judicial: suspensão do processo extradicional e prisão domiciliar. 5. Pendente a nacionalidade brasileira do extraditando da homologação judicial ex tunc da opção já manifestada, suspende-se o processo extradicional (CPrCiv art. 265, IV, a). 6. Prisão domiciliar deferida, nas circunstâncias, em que se afigura densa a probabilidade de homologar-se a opção.” (AC 70/RS-QO, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 12/3/04).
+    Peço vênia para transcrever o trecho em que, expressamente o E. Ministro Sepúlveda Pertence, assinala a respeito da eficácia da homologação de pedido de nacionalidade brasileira:
+    “Ora, não obstante sua eficácia retroativa, a opção só se reputa efetivada com a sentença e, por isso, antes dela não é possível reconhecer o status de brasileiro nato do requerente de modo a denegar liminarmente a extradição.”
+    Destarte, o recorrido preenche os requisitos do artigo 12, inciso I, alínea ‘c’, da Constituição Federal, haja vista ser filho de brasileiro nato. Ressalte-se que a nacionalidade do genitor fora adquirida de acordo com as formalidades legais, com a homologação da opção por meio de sentença cujos efeitos se operam de forma retroativa, abarcando, portanto, o momento de nascimento do ora recorrido.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de maio de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
