@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 2ª Turma da Fazenda Pública do Colégio Recursal Central da Capital/SP, ementado nos seguintes termos:
+    “1. Tributário e Processual Civil. Pretensão à declaração de inexigibilidade de imposto de renda retido na fonte quanto a pagamento de benefício por força de decisão judicial.
+    2. Na medida em que a parte autora deu quitação no autos de ação por ela ajuizada, não pode, em outra ação, rediscutir tal ponto, incontroverso. Houve, no caso, preclusão, que engloba não só o deduzido como o dedutível.
+    3. Recurso improvido”. (eDOC. 14, p. 2)
+    No recurso extraordinário, interposto sem indicação do fundamento da Constituição Federal, aponta-se violação aos arts. 93, IX; e 150, II, do texto constitucional.
+    Nas razões recursais, alega-se que o Tribunal de origem deixou de aplicar ao caso o entendimento adotado pelo Supremo Tribunal Federal quanto ao tema 368, da sistemática de repercussão geral, representado pelo RE-RG 614.406, Rel. Min. Rosa Weber, DJe 27.11.2014, referente à incidência do imposto de renda de pessoa física sobre rendimentos percebidos acumuladamente.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Verifico que o Tribunal de origem considerou ter havido preclusão da matéria, que se quer rediscutir no presente recurso. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A coisa julgada quanto ao v. Aresto, data venia, não é válida para que se afaste a resignação da parte exequente quanto ao desconto do imposto de renda. Com efeito, a parte exequente levantou os valores (ainda com desconto) e houve extinção dos autos da execução. Houve, pois, preclusão. Por isto mesmo, a autora não pode, portanto, rediscutir matéria já decidida e incontroversa, o que não guarda relação à coisa julgada na fase de conhecimento. Em outras palavras, na medida em que a parte autora deu quitação nos autos de ação por ela ajuizada, não pode, em outra ação, rediscutir tal ponto, que se tornou incontroverso. Houve, no caso, preclusão da matéria, que engloba não só o deduzido como o dedutível”. (eDOC. 14, p. 2-3)
+    Ademais, o Supremo Tribunal Federal assentou ser de índole infraconstitucional a discussão acerca da possibilidade de relativização da coisa julgada, no que diz respeito a seus limites objetivos e que não enseja abertura da via extraordinária, pois ofensa à Constituição Federal, se existisse, seria indireta ou reflexa. Nesse sentido, destaco os julgamentos do AI-AgR 639.002, Rel. Min. Menezes Direito, DJe 17.4.2009; do AI-AgR 702.182, Rel. Min. Ricardo Lewandowski, DJe 27.3.2009, e do RE-AgR 397.227, Rel. Min. Ayres Britto, DJe 13.8.2010, este último assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA ALUSIVA AOS LIMITES OBJETIVOS DA COISA JULGADA. 1. A discussão em torno dos limites objetivos da coisa julgada pertence ao plano infraconstitucional. Precedentes: AIs 639.002-AgR, da relatoria do Ministro Menezes Direito; 667.691-AgR, da relatoria do Ministro Celso de Mello; 702.182-AgR, da relatoria do Ministro Ricardo Lewandowski; e 735.268-AgR, da relatoria da Ministra Cármen Lúcia. 2. Incide, de mais a mais, a Súmula 279/STF. 3. Agravo regimental desprovido.”
+    Além disso, anoto que divergir do entendimento adotado pelo acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, providência vedada na via extraordinária, em face do óbice previsto na Súmula 279 do STF.
+     Por fim, no tocante à suposta ofensa ao princípio da ampla defesa e do contraditório, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
