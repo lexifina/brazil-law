@@ -1,0 +1,34 @@
+Decisão: Trata-se de recursos extraordinários interpostos em face do acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 22, p. 2.040):
+    PROCESSUAL PENAL. PENAL. OPERAÇÃO LINCE. CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA. OITIVA DE TESTEMUNHA. ABSOLVIÇÃO. INTERESSE RECURSAL DO RÉU. LEGALIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. QUADRILHA OU BANDO. CONCUSSÃO. PREVARICAÇÃO. PROVA. ASPECTOS MATERIAIS. AUTORIA. EFEITO DA CONDENAÇÃO. PERDA DO CARGO.
+    1. O art. 616 do Código de Processo Penal permite ao Tribunal determinar outras diligências. Contudo, a providência tem caráter meramente supletivo, para esclarecimento dos julgadores, não ensejando nova instrução processual.
+    2. Verifica-se interesse recursal quando o réu pretende a alteração do fundamento do decreto absolutório, considerando as diferentes repercussões cíveis e administrativas que decorrem da absolvição.
+    3. A interceptação de ligações telefônicas dos réus foi deferida pelo Juízo a quo em decisão fundamentada, nos autos do procedimento Criminal Diverso n. 2002.61.02.003194-2, após anuência do Ministério Público Federal, por força de pedido de Autoridade Policial na denominada Operação Lince.
+    4. A prorrogação de interceptação telefônica é disciplinada pelo art. 5º da Lei n. 9.296/96, não havendo comprovação nos autos de nenhuma ilegalidade no seu deferimento (CPP, art. 156).
+    5. Comprovados os aspectos materiais e a autoria dos delitos de concussão e prevaricação.
+    6. Não configura o crime de quadrilha ou bando quando a associação para a finalidade de cometimento de crimes não atingir o mínimo de quatro integrantes.
+    7. apuração de eventual participação de terceiros nos fatos delituosos não exclui a responsabilidade penal do réu descaracteriza a sua conduta.
+    8. A perda do cargo é efeito da condenação, cumprindo ser decretada em virtude da infração aos deveres para com a
+Administração Pública e da pena privativa de liberdade ser superior a 1 (um) ano, nos termos do art. 92, I, a, do Código Penal.
+    9. Preliminares rejeitadas e apelação de Wilson Alfredo Perpétuo prejudicada. Apelação do Ministério Público Federal parcialmente provido para condenar os co-réus conforme explicitado. Decretada, ex officio, a extinção da punibilidade dos réu Wilson Alfredo Perpétuo, Edison Damião Alves e Edenilson Sebastião Cazula com relação ao delito do art. 319 do Código Penal.
+    Os embargos de declaração opostos por meio de fac-símile não foram conhecidos em razão da intempestividade e da ausência dos originais.
+    No recurso extraordinário de Wilson Alfredo Perpétuo, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos princípios da proporcionalidade, da presunção da inocência, bem como nulidade da decisão que determinou a interceptação telefônica, por ofensa aos arts. 5º, LIV e LVI, e 93, IX, da Constituição.
+    No recurso extraordinário de Edison Damião Alves, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos princípios da presunção da inocência, da ampla defesa, do contraditório e do devido processo legal, bem como ausência de fundamentação.
+    É o relatório. Decido.
+    Inicialmente, verifico que o Superior Tribunal de Justiça deu provimento ao Recurso Especial 1.052.270/SP, simultaneamente interposto ao presente recurso, para afastar o reconhecimento de inquéritos e processos em andamento para fins de caracterização de maus antecedentes e redimensionar as penas dos ora recorrentes. Essa decisão transitou em julgado (eDOC 28, p. 2.786).
+    Prejudicados, portanto, os recursos extraordinários nesse ponto (art. 21, IX, do RISTF).
+    Quanto ao recurso de Wilson Alfredo Perpétuo, observo que a análise da alegação de nulidade da decisão que determinou a interceptação telefônica demandaria o reexame da legislação pertinente (Lei 9.296/1996), bem como do conjunto fático-probatório constante dos autos, o que encontra óbice na Súmula 279 do STF.
+    No recurso extraordinário de Edison Damião Alves, observo a ausência da preliminar formal e fundamentada de repercussão geral na petição do recurso extraordinário, pressuposto de admissibilidade do recurso.
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 06.09.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 03.05.2007, data da publicação da Emenda Regimental 21 do STF, o que ocorre no presente caso.
+    Igualmente, importa destacar que alegações vagas e genéricas acerca da transcendência subjetiva da demanda não cumprem o preconizado no art. 1.035 do NCPC, à luz da função de Corte Constitucional desempenhada pelo Supremo Tribunal Federal.
+    Ademais, noto que as questões referentes à violação dos dispositivos constitucionais apontados, não foram objeto de debate no acórdão recorrido. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF).
+    Verifico, por outro lado, que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que não há ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    Confira-se, a propósito, a ementa do ARE-RG 748.371, de relatoria do ministro Gilmar Mendes, DJe de 1º.08.2013:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Por fim, inexiste a alegada ofensa ao art. 93, IX, da Constituição Federal. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses do recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, julgo prejudicado, em parte, os recursos extraordinários e, no restante, nego seguimento ao recursos, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 30 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
