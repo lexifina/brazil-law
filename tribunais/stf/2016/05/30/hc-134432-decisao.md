@@ -1,0 +1,16 @@
+Decisão:
+ementa: Processual penal. Habeas corpus. Homicídio qualificado. Prisão preventiva. Ausência de teratologia.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria da Ministra Maria Thereza de Assis Moura, que negou provimento ao RHC 69.290.
+    2. Extrai-se dos autos que o paciente foi denunciado pelo crime previsto no artigo 121, § 2º, II e IV, do Código Penal. No ato de recebimento da denúncia, o Juízo de origem decretou a prisão preventiva do paciente.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado do Rio de Janeiro. Denegada a ordem, foi interposto recurso ordinário no Superior Tribunal de Justiça, não provido.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência dos requisitos necessários à decretação da prisão preventiva e o excesso de prazo da custódia. Daí o pedido de concessão da ordem para revogar a prisão processual do paciente.
+    Decido.
+    5. A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus em substituição ao recurso extraordinário, previsto no art. 102, III, da Constituição Federal (HC 110.055, Rel. Min. Marco Aurélio, HC 106.158, Rel. Min. Dias Toffoli, e HC 118.568, Rel.ª Min.ª Rosa Weber). De modo que o processo deve ser extinto sem resolução do mérito por inadequação da via eleita.
+    6. Não é caso de concessão da ordem de ofício. A jurisprudência do Supremo Tribunal Federal consolidou o entendimento de que constitui ônus da parte impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Relator o Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Rel. Min. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski). E o fato é que a petição inicial deste HC sequer foi instruída com cópia do inteiro teor do acórdão impugnado e do aresto do Tribunal Estadual, o que impossibilita a exata compreensão da controvérsia.
+    7. Ademais, dou relevância ao fundamentado adotado pelo Juízo de origem para decretar a custódia cautelar, no sentido de que “o crime está relacionado às atividades de milícia, sendo necessário resguardar a integridade dessas pessoas, conferindo-lhes a segurança necessária para que prestem declarações de forma isenta, sem temerem sofrer qualquer influência ou represália por parte do acusado. Saliente-se que o denunciado responde pelo crime de homicídio qualificado em que há fortes relatos da existência de prática de grupo paramilitar denominado milícia, cuja atuação na localidade é de imposição de terror e medo aos moradores, com práticas de extorsão e intimidação. Assim, impõe-se preservar a integridade física e psicológica das testemunhas, que residem naquela localidade tomada por milícias, o que certamente não seria possível com o acusado solto, eis que as testemunhas não se sentirão seguras para comparecerem em juízo e confirmar o que já disseram em sede policial”.
+    8. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 30 de maio de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
