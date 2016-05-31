@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMA ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO AGRAVADA: INVIABILIDADE. APLICAÇÃO DE MULTA PREVISTA NO § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. RECOLHIMENTO PRÉVIO. PRESSUPOSTO DE RECORRIBILIDADE. PRECEDENTES. AGRAVO NÃO CONHECIDO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A 18ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo decidiu:
+    “AGRAVO REGIMENTAL – Suscitada competência do órgão colegiado para o julgamento do agravo de instrumento – Descabimento – Recurso manifestamente em confronto com jurisprudência desta Corte e do Superior Tribunal de Justiça – Hipótese em que o Relator pode julgar monocraticamente o agravo – Inteligência do caput do artigo 557 do Código de Processo Civil – A multa imposta tem previsão no parágrafo 2º do supracitado dispositivo legal – Recurso improvido, com observação” (doc. 3, fl. 67).
+    3. Na decisão agravada, adotou-se o seguinte fundamento para a inadmissibilidade do recurso extraordinário: “a douta Turma Julgadora condenou o ora recorrente ao pagamento da multa prevista no art. 557, § 2º, do Código de Processo Civil, já que manifestamente inadmissível ou infundado o agravo. Assim, não comprovado o depósito do respectivo valor, inviável a análise do presente recurso” (doc. 4, fl. 44).
+    4. O Agravante argumenta ter havido “a demonstração da ocorrência da vulneração dos dispositivos constitucionais, notadamente a afronta direta à Constituição Federal (artigo 5º, XXXV, II, LIV e LV, da CF), na medida em que negou seguimento ao Recurso de Agravo de instrumento, bem como aplicou multa ao Agravante por exercer o seu direito constitucional de acesso à justiça” (doc. 4, fl. 53).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os arts. 5º, incs. II, XXI, XXXV, LIV e LV, e 92, § 2º, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste ao Agravante.
+    O agravo não pode ter seguimento, pois o Agravante não infirmou, especificamente, o fundamento da decisão agravada, o qual, por esse motivo, subsiste. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1. RECURSO INADMISSÍVEL. POSSIBILIDADE DE JULGAMENTO PELO RELATOR. ART. 557, CAPUT , DO CÓDIGO DE PROCESSO CIVIL. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO INTERPOSTO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n. 837.124-AgR, de minha relatoria, Segunda Turma, DJe 18.9.2012).
+    6. Este Supremo Tribunal assentou ser pressuposto de recorribilidade o pagamento da multa prevista no § 4º do art. 1.021 do Código de Processo Civil, mesmo quando interposto recurso para discutir-se o acerto da imposição da multa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. IMPOSIÇÃO DE MULTA: ART. 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL. RECOLHIMENTO DO VALOR: PRESSUPOSTO DE RECORRIBILIDADE. AUSÊNCIA DE COMPROVAÇÃO DO DEPÓSITO. INCOGNOSCIBILIDADE DO RECURSO. AGRAVO REGIMENTAL NÃO CONHECIDO” (ARE n. 854.187-AgR, de minha relatoria, Segunda Turma, DJe 16.3.2015).
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. MULTA PREVISTA NO ART. 557, § 2º, DO CPC. AUSÊNCIA DE RECOLHIMENTO. INTERPOSIÇÃO PREMATURA DO AGRAVO REGIMENTAL. AUSÊNCIA DE RATIFICAÇÃO. RECURSO EXTEMPORÂNEO. AGRAVO REGIMENTAL CONTRA ACÓRDÃO. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO. BAIXA IMEDIATA DOS AUTOS. I - O prévio depósito da multa aplicada, com base no art. 557, § 2º, do Código de Processo Civil, configura pressuposto objetivo de recorribilidade, sendo certo que a ausência de recolhimento inviabiliza o recurso. II - (… .)V - Agravo regimental não conhecido (ARE n. 777.814-AgR-AgR-AgR-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 22.5.2014).
+    A decisão agravada harmoniza-se com a jurisprudência deste Supremo Tribunal, nada havendo a prover quanto às alegações do Agravante.
+    7. Pelo exposto, não conheço do agravo (art. 932, inc. III, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 31 de maio de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
