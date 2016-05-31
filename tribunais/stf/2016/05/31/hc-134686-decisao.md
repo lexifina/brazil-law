@@ -1,0 +1,22 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Luiz Carlos da Silva Neto e outro em favor de Silvio José de Araújo Cintra, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp 745.828/RJ.
+    O paciente foi denunciado pela suposta prática do crime de extorsão qualificada, tipificado no art. 158, §§ 1º e 3º, do Código Penal. Após o encerramento da instrução criminal, o Juízo da 39ª Vara Criminal da Comarca do Rio de Janeiro/RJ condenou o paciente à pena de 02 (dois) anos de reclusão, em regime inicial aberto, pela prática do crime de concussão, tipificado no art. 316 do Código Penal, substituída por duas restritivas de direito. Naquela oportunidade, o magistrado de primeiro grau declarou a perda do cargo público de policial civil, nos termos do art. 92, I, a, do Código Penal.
+    Inconformada com a suposta violação do art. 384 do Código de Processo Penal, a Defesa interpôs apelação perante o Tribunal de Justiça do Estado do Rio de Janeiro, que negou provimento ao recurso.
+    A Defesa, então, interpôs recurso especial, que, inadmitido na origem, ensejou o manejo de agravo perante o Superior Tribunal de Justiça. A Ministra Maria Thereza de Assis Moura, via decisão monocrática, negou provimento ao agravo. Interposto agravo regimental, a Corte Superior negou provimento ao recurso defensivo.
+    No presente writ, alegam os Impetrantes nulidade processual decorrente da violação do procedimento da mutatio libelli previsto no art. 384 do Código de Processo Penal, ante a desclassificação do crime indicado na denúncia (extorsão mediante sequestro - art. 158, §§ 1º e 3º do CP) para o de concussão (art. 316 do CP). Sustentam que a obtenção de vantagem indevida resultou da grave ameaça (elementar do crime de extorsão) e de sua qualificadora (restrição de liberdade das vítimas). Asseveram que ‘na concussão a exigência de vantagem indevida não passa pela grave ameaça (elementar apenas da extorsão), mas sim pelo metus publicae potestatis, ou seja, a coação feita pelo funcionário público que abusa de sua função’. Requerem, em medida liminar e no mérito, a suspensão dos efeitos da condenação. No mérito, pugnam pela anulação da sentença condenatória, “impondo-se a observância estrita ao comando do art. 384 do Código de Processo Penal”.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 384 DO CPP. ALTERAÇÃO DA CAPITULAÇÃO JURÍDICA. HIPÓTESE DE EMENDATIO LIBELLI. POSSIBILIDADE. AFRONTA AOS ARTS. 59 E 92, I, “A”, AMBOS DO CP. PERDA DO CARGO PÚBLICO COM SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. POSSIBILIDADE. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. Não havendo modificação quanto ao fato descrito na exordial acusatória, pode o magistrado dar nova classificação jurídica ao fato definido na denúncia ao prolatar a sentença (emendatio libelli), prescindindo de aditamento da peça exordial ou mesmo abertura de prazo para a defesa se manifestar, já que o réu se defende dos fatos narrados pela acusação e não dos dispositivos de lie indicados. Incidência do enunciado 83 da Súmula deste STJ.
+    2. A substituição da pena privativa de liberdade por restritiva de direitos não tem o condão de afastar o efeito disposto no artigo 92 do Código Penal, uma vez que a perda do cargo não está adstrita à efetiva provação da liberdade do réu. Aplicação da Súmula 83/STJ.
+    3. Agravo regimental a que se nega provimento.”
+    Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que a decisão exarada pela Corte Superior se encontra fundamentada, apontando as razões de seu convencimento para negar provimento ao agravo regimental interposto.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com a imediata suspensão dos efeitos da condenação do paciente.
+    Ante o exposto, indefiro o pedido de liminar.
+    Determino seja retificada a autuação, a fim de inserir o nome completo do paciente, observada a ratio das Resoluções 458, de 22.3.2011, e 501, de 17.4.2013, desta Suprema Corte.
+    Colha-se a manifestação do Ministério Público Federal.
+    Publique-se.
+    Brasília, 31 de maio de 2016.
+Ministra Rosa Weber
+Relatora
