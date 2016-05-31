@@ -1,0 +1,11 @@
+Solução de Consulta Cosit nº 57, de 13 de maio de 2016
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS
+EMENTA: SISCOSERV. TRANSPORTE INTERNACIONAÇL DE CARGA. OBRIGAÇÕES DO CLIENTE DE AGENTE DE CARGA.
+a.Cabe ao importador/exportador o registro no Siscoserv quando contrata diretamente o proprietário, armador, gestor ou afretador estrangeiros do navio ou a companhia aérea estrangeira (em suma, o operador do veículo, que efetivamente realiza o transporte).
+SOLUÇÃO DE CONSULTA VINCULADA, NESTA PARTE, À SOLUÇÃO DE CONSULTA COSIT Nº 257, DE 26 DE SETEMBRO DE 2014.
+b.Porém, o importador/exportador (ou qualquer outro tomador de serviço de transporte de carga) não deverá efetuar o registro se contrata o operador estrangeiro do veículo por meio das filiais, sucursais ou agências deste domiciliadas no Brasil.
+c.Se a contratação do serviço envolver a participação de agente de carga, o importador/exportador deverá verificar qual é exatamente o objeto do contrato com o agente de carga contratado e compará-lo com as situações examinadas na referida SC Cosit nº 257/14, a fim de determinar quais as obrigações do importador/exportador relativas ao Siscoserv. Notar que o “agenciamento de carga” é uma função dentro da transação envolvendo o transporte de carga, a qual independe da autodenominação da pessoa jurídica que a realiza e de outras atividades que exerça.
+SOLUÇÃO DE CONSULTA VINCULADA, NESTA PARTE, À SOLUÇÃO DE CONSULTA COSIT Nº 257, DE 26 DE SETEMBRO DE 2014.
+d.Nas situações em que o agente de carga é obrigado a realizar registros no Siscoserv, a sua responsabilidade pela não prestação ou pela prestação de forma inexata ou incompleta não se transfere a seu cliente. Tal segregação, contudo, poderá ser afastada se se verificar interesse comum no cometimento da infração, o que configuraria, em tese, a solidariedade quanto à respectiva multa, nos termos do inciso I do art. 124 do CTN.
+DISPOSITIVOS LEGAIS: CTN, arts. 113, §§1º e 3º, 124, I, 128, 134, §ún, 136, 137 e 138; Acordo Geral sobre Comércio de Serviços (GATS), Artigo I, 2, “c”, c/c Artigo XXVIII, “d”, internalizado pelo Decreto nº 1355/1994; Manual do Módulo de Aquisição do Siscoserv, 8ª ed., aprovada pela Port. Conj. RFB/SCS nº 1895/2013; IN RFB 1277/2012, art. 1º, §6º, II c/c §7º, e art. 4º; IN RFB nº 1396/2013, arts. 9º e 22; SC Cosit nº 257/2014;
+[arquivo anexo: SC Cosit nº 57-2016.pdf]
