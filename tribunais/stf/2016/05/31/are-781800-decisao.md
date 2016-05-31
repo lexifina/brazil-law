@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO FISCAL. PRESCRIÇÃO. DEMORA NA CITAÇÃO IMPUTÁVEL AO PODER JUDICIÁRIO. RETROAÇÃO DO MARCO INTERRUPTIVO À DATA DA PROPOSITURA DA AÇÃO. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS E REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. SÚMULAS 279 E 636 DO STF. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU E TAXAS. PRESCRIÇÃO NÃO CONFIGURADA. APLICAÇÃO DA SÚMULA 106 DO STJ. INÉRCIA DO PODER PÚBLICO. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÉNCIA ALTERADA, FEITA A DEVIDA COMPENSAÇÃO.
+    Recurso do Município não conhecido e dado provimento parcial ao recurso da embargante. Sentença mantida quanto às demais questões em sede de reexame necessário conhecido de oficio." (doc. 9, fls. 14)
+    Referido acórdão foi integrado pela decisão proferida no julgamento dos embargos de declaração, cuja ementa transcrevo:
+    “EMBARGOS DE DECLARAÇÃO. EXISTÊNCIA DE OMISSÃO QUANTO À FIXAÇÃO DA DATA BASE PARA CORREÇÃO MONETÁRIA E QUAL ÍNDICE A SER APLICADO. DEFEITO SANADO, SEM ALTERAÇÃO DO RESULTADO DO JULGAMENTO. NO MAIS, INEXISTÊNCIA DE OBSCURIDADE E OMISSÃO DA DECISÃO EMBARGADA. PRETENSÃO INFRINGENTE INADMISSÍVEL NA HIPÓTESE. DESNECESSIDADE DE MANIFESTAÇÃO SOBRE CADA UM DOS DISPOSITIVOS LEGAIS MENCIONADOS PELA RECORRENTE.
+    Embargos de Declaração acolhidos parcialmente, sem modificação do resultado do julgamento.” (doc. 4, fls. 47)
+    Nas razões do apelo extremo, a recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 146, III, b, da Constituição Federal e ao artigo 535, II, do CPC/1973.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que não seria admissível o exame de alegação de ofensa a normas infraconstitucionais em sede extraordinária, bem como por concluir que a alegada contrariedade ao artigo 146, III, b, da Constituição não teria sido prequestionada.
+    É o relatório. DECIDO.
+    O recurso não merece provimento.
+    Ab initio, saliento ser inviável o exame da alegada ofensa ao artigo 535, II, do CPC/1973, pois em sede extraordinária somente se permite a veiculação de matéria constitucional.
+    Ademais, observo que concluir diversamente do Tribunal de origem, no sentido da prescrição do crédito tributário, demandaria a interpretação das normas infraconstitucionais de regência (CTN e CPC/1973) e o reexame de matéria fática, de forma que eventual ofensa ao artigo 146, III, b, da Constituição Federal seria meramente indireta e reflexa, o que inviabiliza o recurso extraordinário. Incide, in casu, os óbices das Súmulas 279 e, mutatis mutandis, 636 do STF, que dispõem, respectivamente, verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Nesse sentido:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. DEMORA NA CITAÇÃO IMPUTÁVEL AO PODER JUDICIÁRIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 751.864-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 1º/8/2013)
+    “TRIBUTÁRIO. EXECUÇÃO FISCAL. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. CONFLITO ENTRE A APLICAÇÃO DO ART. 174, PARÁGRAFO ÚNICO, I, DO CTN, COM REDAÇÃO ANTERIOR À LC 118/05, E A DO ART. 8º, § 2º, DA LEI 6.830/80. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.” (RE 602.883-RG, Rel. Min. Ellen Gracie, Plenário, DJe de 27/8/2010, Tema 288)
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Execução fiscal. Prescrição. Interrupção. Código Tributário Nacional, Código de Processo Civil e Lei nº 6.830/80. Infraconstitucional. Ofensa constitucional indireta ou reflexa.
+    1. Possui natureza infraconstitucional a discussão a respeito da interrupção do prazo prescricional em sede de execução fiscal na qual se envolva a interpretação do Código Tributário Nacional, do Código de Processo Civil e da Lei nº 6.830/80. A afronta ao texto constitucional seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo.
+    2. Agravo regimental não provido.” (ARE 810.802-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 1/9/2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. NATUREZA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 818.905-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 28/8/2014)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de maio de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
