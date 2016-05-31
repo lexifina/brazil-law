@@ -1,0 +1,39 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL. CONTROVÉRSIA SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 1.036 DO CÓDIGO DE PROCESSO CIVIL. ART. 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Turma Recursal do Paraná:
+    “Trata-se de recurso interposto pela parte autora contra sentença que julgou improcedente seu pedido de não incidência da contribuição social do servidor público (PSS) sobre o montante recebido a título de Gratificação de Atividade de Combate e Controle de Endemias - GACEN; bem como a condenação da parte ré a restituir os valores indevidamente descontados a tal título desde março de 2008.
+    A decisão recorrida reconheceu a natureza remuneratória da rubrica e, consequentemente, a legitimidade da incidência de PSS.
+    O recorrente sustenta que a sentença está em desacordo com o entendimento da Turma Nacional de Uniformização. Argumenta que a natureza da GACEN é remuneratória decorrente do local de trabalho, assim encaixa-se na hipótese de isenção prevista pelo inciso VII, § 1º, do artigo 4º, da Lei nº. 10.887/04.
+    Razões e voto.
+    O tema objeto do presente recurso foi uniformizado pela Turma Nacional de Uniformização no julgamento do PEDILEF nº 0006275-98.2012.4.01.3000 (sessão de 06/08/2014), que recebeu a seguinte ementa:
+    (…)
+    Nos termos da decisão referida, restou uniformizado o entendimento de que, não obstante o caráter remuneratório da GACEN, a referida gratificação não está sujeita à contribuição para o PSS em razão de enquadrar-se na hipótese de isenção prevista no art. 4º, §1º, VII, da Lei nº 10.887, de 2004, in verbis (grifei):
+    (…)
+    Assim, uma vez uniformizada a questão de direito material ora examinada, cumpre aplicar o entendimento assentado pela TNU.
+    Por conseguinte, acolho o recurso, condenando a recorrida a repetir os valores da contribuição ao PSS pagas sobre a gratificação em causa (GACEN), observada a prescrição quinquenal, contada do ajuizamento da ação.
+    Incidirá a taxa SELIC sobre os valores a serem repetidos, a contar do pagamento indevido (STJ, Súmula nº 162), ante a especialidade da Lei nº 9.250/95, sem aplicação cumulativa de outros índices de atualização monetária ou juros, haja vista que a SELIC já representa a taxa de juros reais e a taxa de inflação no período considerado, remunerando o capital e recuperando a desvalorização da moeda.
+    Sem honorários.
+    Ante o exposto, voto por dar provimento ao recurso”.
+    2. A Agravante alega ter a Turma Recursal contrariado os arts. 5º, inc. II, e 37 da Constituição da República.
+    Requer o provimento do recurso para que “seja declarada a constitucionalidade da cobrança da contribuição social do servidor público sobre a verba remuneratória GACEN”.
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Cumpre afastar o fundamento da decisão agravada, por ser a matéria constitucional, pelo que se há se superar o fundamento acolhido na decisão agravada e determinar-se o retorno deste recurso à Turma Recursal de origem, para observância da sistemática da repercussão geral.
+    5. No julgamento eletrônico do Recurso Extraordinário n. 593.068-RG, Relator o Ministro Joaquim Barbosa, este Supremo Tribunal reconheceu a repercussão geral da questão constitucional suscitada na espécie:
+    “CONSTITUCIONAL. REPERCUSSÃO GERAL. TRIBUTÁRIO. SERVIDOR PÚBLICO FEDERAL. REGIME PREVIDENCIÁRIO. CONTRIBUIÇÃO. BASE DE CÁLCULO. TERÇO CONSTITUCIONAL DE FÉRIAS. GRATIFICAÇÃO NATALINA (DÉCIMO-TERCEIRO SALÁRIO). HORAS EXTRAS. OUTROS PAGAMENTOS DE CARÁTER TRANSITÓRIO. LEIS 9.783/1999 E 10.887/2004. CARACTERIZAÇÃO DOS VALORES COMO REMUNERAÇÃO (BASE DE CÁLCULO DO TRIBUTO). ACÓRDÃO QUE CONCLUI PELA PRESENÇA DE PROPÓSITO ATUARIAL NA INCLUSÃO DOS VALORES NA BASE DE CÁLCULO DO TRIBUTO (SOLIDARIEDADE DO SISTEMA DE CUSTEIO). 1. Recurso extraordinário em que se discute a exigibilidade da contribuição previdenciária incidente sobre adicionais e gratificações temporárias, tais como 'terço de férias', 'serviços extraordinários', 'adicional noturno', e 'adicional de insalubridade'. Discussão sobre a caracterização dos valores como remuneração, e, portanto, insertos ou não na base de cálculo do tributo. Alegada impossibilidade de criação de fonte de custeio sem contrapartida de benefício direto ao contribuinte. Alcance do sistema previdenciário solidário e submetido ao equilíbrio atuarial e financeiro (arts. 40, 150, IV e 195, § 5º da Constituição). 2. Encaminhamento da questão pela existência de repercussão geral da matéria constitucional controvertida” (DJe 22.5.2009).
+    Ao manifestar-se, o Ministro Relator afirmou:
+    “Trata-se de recurso extraordinário (art. 102, III, a da Constituição Federal) interposto de acórdão prolatado pela Segunda Turma Recursal da Seção Judiciária do Estado de Santa Catarina assim ementado:
+     ‘TRIBUTÁRIO. SERVIDOR PÚBLICO FEDERAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. PSS. TERÇO CONSTITUCIONAL DE FÉRIAS. OUTRAS VERBAS. NATUREZA. LEI 9.783/99 E 10.887/2004. OBSERVÂNCIA DAS REGRAS DO DIREITO TRIBUTÁRIO. CONSECTÁRIOS LEGAIS. HONORÁRIOS. PRESCRIÇÃO.
+    1. As verbas recebidas a título de terço constitucional de férias, assim outras como gratificação natalina e horas extras, por exemplo, possuem natureza remuneratória, sendo, portanto, passíveis de contribuição previdenciária.
+    (…)
+    4. A gratificação natalina (13º salário), o acréscimo de 1/3 sobre a remuneração de férias e o pagamento de horas extraordinárias, direitos assegurados pela Constituição aos empregados (CF, art. 7º, incisos VIII, XVII e XVI) e aos servidores públicos (CF, art. 39, § 3º), e os adicionais de caráter permanente (Lei 8.112/91, art. 41 e 49) integram o conceito de remuneração, sujeitando-se, consequentemente, à contribuição previdenciária’.
+    O acórdão recorrido assentou duas conclusões relevantes. Registrou, inicialmente, que os valores recebidos a título de gratificação natalina (13º salário), acréscimo de 1/3 sobre a remuneração de férias e o pagamento de horas extraordinárias e os adicionais de caráter permanente constituem remuneração e, portanto, fazem parte da base de cálculo da contribuição destinada ao custeio do sistema de previdência do servidor público. Em segundo lugar, o acórdão assentou que a ausência de contraprestações específicas ou proporcionais em favor do contribuinte não tornava inválida a tributação, dado o caráter solidário do sistema previdenciário do servidor público (art. 40 da Constituição).
+    (...)
+    Também está caracterizada a relevância constitucional da discussão sobre o alcance das normas constitucionais que estabelecem a base de cálculo do tributo (“conceito de remuneração”) e os limites para formação de regime previdenciário regido pelo princípio da solidariedade e pela correspondência atuarial entre o custeio e os benefícios concedidos (reconhecimento ou não do propósito atuarial da exação, no contexto de sistema caracterizado pela solidariedade, isto é, a circunstância de os valores recolhidos não reverterem direta e necessariamente em benefício do contribuinte)”.
+    Reconhecida a repercussão geral do tema, os autos deverão retornar à origem, para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 1.036 do Código de Processo Civil.
+    6. Pelo exposto, dou provimento a este agravo para admitir o recurso extraordinário, observando-se quanto a este o art. 1.036 do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 31 de maio de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
