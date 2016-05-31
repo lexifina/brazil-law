@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E FINANCEIRO. RETENÇÃO DAS COTAS MUNICIPAIS. LEI ESTADUAL 3.140/1991. APELO EXTREMO MANEJADO CONTRA ACÓRDÃO PROFERIDO PELO ÓRGÃO ESPECIAL DO TRIBUNAL DE ORIGEM NO JULGAMENTO DE ARGUIÇÃO DE INCONSTITUCIONALIDADE. RECURSO PREMATURO. INCIDÊNCIA DA SÚMULA 513 DO STF. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “INCIDENTE DE INCONSTITUCIONALIDADE - Dedução de ICMS decorrente de plano de incentivo fiscal do Estado - Retenção de parte da parcela pertencente aos Municípios - Alegada burla á sistemática constitucional de repasse das cotas municipais - Inocorrência - Exercício da competência tributária por parte do Estado - Distinção entre titularidade de receita, fenômeno de direito financeiro e competência tributária - Incidente conhecido para declarar a constitucionalidade do art. 3º, da Lei Estadual nº 3.140/91. DECISÃO POR MAIORIA.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 158, IV, e 160 da Constituição Federal.
+    É o relatório. DECIDO.
+    A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição Federal).
+    O recurso extraordinário foi manejado de forma prematura, haja vista que a decisão que autoriza a interposição do apelo extremo não é a do plenário ou órgão especial que resolve o incidente de inconstitucionalidade, mas aquela proferida posteriormente pelo órgão competente, que completa o julgamento do feito. Incide, no caso, o óbice da Súmula 513 do STF, que dispõe, verbis: “A decisão que enseja a interposição de recurso ordinário ou extraordinário não é a do Plenário, que resolve o incidente de inconstitucionalidade, mas a do Órgão (Câmara, Grupos ou Turmas) que completa o julgamento do feito”.
+    Nesse sentido: ARE 853.013, Rel. Min. Roberto Barroso, julgado em 19/12/2014; ARE 824.482, Rel. Min. Gilmar Mendes, DJe de 2/9/2014; ARE 751.397, Rel. Min. Celso de Mello, DJe de 7/6/2013; ARE 689.559, Rel. Min. Rosa Weber, DJe de 18/12/2012; ARE 706.056, Rel. Min. Joaquim Barbosa, DJe de 31/10/2012; e RE 535.523-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 29/3/2011, cuja ementa possui o seguinte teor:
+    “RECURSO EXTRAORDINÁRIO. PREMATURO. JULGAMENTO. ÓRGÃO ESPECIAL. ARGUIÇÃO DE INCONSTITUCIONALIDADE. DECISÃO PROFERIDA PELO ÓRGÃO COMPETENTE QUE COMPLETA O JULGAMENTO DO FEITO. NÃO OCORRÊNCIA. SÚMULA 513 DO STF. AGRAVO IMPROVIDO.
+    I - O recurso extraordinário foi interposto prematuramente, uma vez que a decisão que enseja a interposição do extraordinário não é a do Órgão Especial que julgou o incidente de inconstitucionalidade, mas aquela proferida, posteriormente, pelo órgão competente, que completa o julgamento do feito. Incidência da Súmula 513 do STF. Precedentes.
+    II - Agravo regimental improvido.”
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de maio de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
