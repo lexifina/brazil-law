@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (eDOC 2, p. 120-121):
+    “Apelações Cíveis. Administrativo. Servidor público. Reexame necessário conhecido de ofício. Policial Militar. Regime jurídico próprio. Reajuste sobre o valor fixo pago a título indenização pelo serviço extraordinário. Previsão expressa na Lei Estadual n. 13.280/2001. Reajuste devido. Ofensa ao princípio da separação de poderes não verificada. Verba honorária majorada. Custas processuais não devidas. Serventia oficializada. Readequação da incidência de juros de mora e correção monetária. Reexame necessário. Período de graça constitucional. Apelações cíveis parcialmente providas. Sentença parcialmente reformada em sede de reexame necessário.
+    1. Encontra-se sedimentado no Superior Tribunal de Justiça o entendimento segundo o qual é obrigatória a remessa necessária da sentença ilíquida proferida contra a União, os Estados, o Distrito Federal, os Municípios e as respectivas autarquias e fundações de direito público.
+    2. O regime dos servidores militares é diferenciado, como estabelecido na própria Constituição Federal (art. 142, X, da CF), não lhes sendo aplicáveis certas garantias constitucionais relativas aos trabalhadores em geral (art. 7°, XVI, da Constituição Federal).
+    3. São devidos os reajustes aos Policiais Militares em razão do serviço extraordinário, conforme previsão constante da parte final do art. 19, da lei n. 13.280/200.
+    4. Não ofende o Princípio da Separação dos Poderes a análise, pelo Poder Judiciário, de possível ilegalidade por parte da Administração Pública ao não conceder o reajuste previsto em lei por ela mesma editada, exercendo, assim, função constitucionalmente lhe imposta pela ordem constitucional (art. 59, XXXV), eis que a discussão não adentra a oportunidade e conveniência do ato administrativo.
+    5. Merece majoração a verba honorária cujo arbitramento, mesmo vencida a Fazenda Pública, não observa o grau de zelo profissional, o lugar da prestação do serviço, a natureza e a importância da causa, o trabalho realizado.
+    6. A incidência de juros de mora e correção monetária deve observar o disposto nas Leis n. 9.494/1997 e n. 11.960/2009, respeitado o período de graça constitucional, compreendido entre a homologação dos valores devidos e a expedição do precatório ou requisição de pequeno valor, nos termos da Súmula Vinculante n. 17, do Supremo Tribunal Federal.”
+    No recurso extraordinário (eDOC 2 p. 138-147), com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37, XIII, do Texto Constitucional e à Súmula 339 do STF.
+    Nas razões recursais, sustenta-se que o Tribunal de origem consolidou situação vedada constitucionalmente ao indexar à revisão geral anual dos vencimentos dos servidores públicos o reajuste do valor da indenização por prestação de serviço extraordinário referente aos policiais militares.
+    A 1ª Vice-Presidência do TJ/PR inadmitiu o recurso extraordinário com base na Súmula 280 do STF (eDOC 3, p. 81-83).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Conforme se depreende da leitura da ementa do acórdão recorrido, o Tribunal de origem decidiu a questão referente ao reajuste da indenização pelo serviço extraordinário prestado por militar com fulcro na legislação local. Sendo assim, eventual divergência em relação ao entendimento por ele adotado demandaria a análise da legislação infraconstitucional aplicável à espécie (Lei Estadual 13.280/2001), o que inviabiliza o processamento do apelo extremo, nos termos da vedação contida na Súmula 280 do STF. Nesse sentido, confiram-se as seguintes decisões monocráticas: ARE 917.159, Rel. Ministro Gilmar Mendes, DJe de 26.11.2015, e ARE 916968, Rel. Ministro Marco Aurélio, DJe de 06.10.2015.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
