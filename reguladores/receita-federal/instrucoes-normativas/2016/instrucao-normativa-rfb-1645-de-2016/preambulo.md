@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1645, de 30 de maio de 2016
+Dispõe sobre a incidência do Imposto sobre a Renda Retido na Fonte sobre rendimentos pagos, creditados, empregados, entregues ou remetidos para pessoas jurídicas domiciliadas no exterior nas hipóteses que menciona.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 60 da Lei nº 12.249, 11 de junho de 2010, e na Medida Provisória nº 713, de 1º de março de 2016, resolve:
