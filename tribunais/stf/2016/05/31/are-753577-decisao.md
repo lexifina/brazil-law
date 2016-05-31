@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ISSQN. EDIÇÃO DE LISTAS TELEFÔNICAS. IMUNIDADE TRIBUTÁRIA. ARTIGO 150, VI, D, DA CONSTITUIÇÃO. CARÁTER OBJETIVO E AMPLO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “TRIBUTÁRIO. ISS. LISTA TELEFÔNICA. CONCEITO DE PERIÓDICO. UTILIDADE PÚBLICA. IMUNIDADE. ART. 150, INCISO VI, ALÍNEA “D”, DA CONSTITUIÇÃO FEDERAL.
+    1. O Supremo Tribunal Federal ‘Reconhece, também, proteção de imunidade tributária para a edição e publicidade das listas telefônicas.’ (REsp 883.254/MG, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 18/12/2007, DJ 28/02/2008, p. 74).
+    2. ‘Não estão excluídas da imunidade constitucional as publicações que cuidam de informações genéricas ou específicas, sem caráter noticioso, discursivo, literário, poético ou filosófico, mas de inegável utilidade pública, como é o caso das listas telefônicas’. (Apelação cível 45207694200080600000. Relator(a): EDMILSON DA CRUZ NEVES. Órgão julgador: 3ª Câmara Cível. Data de registro: 07/07/2004)
+    RECURSO CONHECIDO E IMPROVIDO.”
+    Nas razões do apelo extremo, a parte sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 150, VI, d, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o acórdão recorrido estaria em consonância com a jurisprudência do Supremo Tribunal Federal.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    A jurisprudência desta Corte é assente no sentido de que a imunidade tributária prevista em prol de livros, jornais, periódicos e o papel destinado à sua impressão ostenta caráter objetivo e amplo, alcançando publicações veiculadoras de informações genéricas ou específicas, ainda que desprovidas de caráter noticioso, discursivo, literário, poético ou filosófico. Nesse contexto, a imunidade tributária prevista artigo 150, VI, d, da Constituição Federal abrange a edição de listas telefônicas. Nesse sentido, confiram-se os seguintes julgados:
+    "DIREITO CONSTITUCIONAL E TRIBUTÁRIO. ISS. IMUNIDADE PREVISTA NO ART. 150, VI, ‘D’, DA LEI MAIOR. EXTENSÃO ÀS LISTAS TELEFÔNICAS. PRECEDENTES. ALEGAÇÃO DE FATO GERADOR DIVERSO. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 279/STF. REELABORAÇÃO DA MOLDURA FÁTICA DELINEADA NA ORIGEM. ACÓRDÃO RECORRIDO PUBLICADO EM 19.12.2012.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que a imunidade tributária prevista em prol de livros, jornais, periódicos e o papel destinado a sua impressão, alcança as listas telefônicas.
+    Divergir do entendimento de que o fato gerador da exação é a edição de listas telefônicas demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula 279/STF: ‘Para simples reexame de prova não cabe recurso extraordinário.’
+    Agravo regimental conhecido e não provido." (ARE 778.643-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 1/8/2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA PREVISTA NO ART. 150, INC. IV, ALÍNEA D, DA CONSTITUIÇÃO DA REPÚBLICA. EDIÇÃO DE LISTAS TELEFÔNICAS: INCIDÊNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 763.001- AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 7/2/2014)
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE. LIVRO, JORNAL, PERIÓDICO E PAPEL DESTINADO À SUA IMPRESSÃO. EXTENSÃO ÀS LISTAS TELEFÔNICAS. PROCESSUAL CIVIL. AGRAVO REGIMENTAL.
+    Segundo orientação do Supremo Tribunal Federal, a imunidade do livro, jornal, período e do papel destinado à sua impressão é aplicável às operações com listas telefônicas.
+    Agravo regimental ao qual se nega provimento.” (AI 663.747-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe de 30/4/2010)
+    “IMUNIDADE TRIBUTÁRIA (ART. 19, III, 'D', DA C.F.). I.S.S. - LISTAS TELEFÔNICAS. A EDIÇÃO DE LISTAS TELEFÔNICAS (CATÁLOGOS OU GUIAS) É IMUNE AO I.S.S., (ART. 19, III, 'D', DA C.F.), MESMO QUE NELAS HAJA PUBLICIDADE PAGA. SE A NORMA CONSTITUCIONAL VISOU FACILITAR A CONFECÇÃO, EDIÇÃO E DISTRIBUIÇÃO DO LIVRO, DO JORNAL E DOS ‘PERIÓDICOS’, IMUNIZANDO-SE AO TRIBUTO, ASSIM COMO O PRÓPRIO PAPEL DESTINADO À SUA IMPRESSÃO, É DE SE ENTENDER QUE NÃO ESTÃO EXCLUÍDOS DA IMUNIDADE OS ‘PERIÓDICOS’ QUE CUIDAM APENAS E TÃO-SOMENTE DE INFORMAÇÕES GENÉRICAS OU ESPECÍFICAS, SEM CARÁTER NOTICIOSO, DISCURSIVO, LITERÁRIO, POÉTICO OU FILOSÓFICO, MAS DE ‘INEGÁVEL UTILIDADE PÚBLICA’, COMO É O CASO DAS LISTAS TELEFÔNICAS. RECURSO EXTRAORDINÁRIO CONHECIDO, POR UNANIMIDADE DE VOTOS, PELA LETRA ‘D’ DO PERMISSIVO CONSTITUCIONAL, E PROVIDO, POR MAIORIA, PARA DEFERIMENTO DO MANDADO DE SEGURANÇA.” (RE 101.441, Rel. Min. Sydney Sanches, Plenário, DJ de 19/8/1988)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de maio de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
