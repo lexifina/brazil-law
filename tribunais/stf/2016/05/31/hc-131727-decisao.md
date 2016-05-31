@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de “habeas corpus” impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. MOEDA FALSA. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA NA SENTENÇA. REFORMA NO TRIBUNAL. RECEBIMENTO DA DENÚNCIA. PLEITO PELA ATIPICIDADE DA CONDUTA. CÉDULA FALSIFICADA DE PEQUENO VALOR. DELITO CONTRA A FÉ PÚBLICA. AUSÊNCIA DE MÍNIMA OFENSIVIDADE NA CONDUTA.
+    1. Independentemente da quantidade e do valor das cédulas falsificadas, haverá ofensa ao bem jurídico tutelado, razão pela qual não há falar em mínima ofensividade da conduta do agente, o que afasta a incidência do princípio da insignificância.
+    2. Agravo regimental improvido.”
+    (AREsp 558.790-AgRg/SP, Rel. Min. SEBASTIÃO REIS JÚNIOR – grifei)
+    Busca-se, nesta sede processual, seja concedida a ordem de “habeas corpus”, “(…) a fim de se absolver o paciente com base na aplicação do princípio da insignificância (…)”.
+    O Ministério Público Federal, em pronunciamento da lavra da ilustre Subprocuradora-Geral da República Dra. DEBORAH MACEDO DUPRAT DE BRITTO PEREIRA, opinou pela denegação da ordem de “habeas corpus” em parecer assim ementado:
+    “’Habeas corpus’. Moeda falsa. Princípio da insignificância. Trancamento da ação penal. Impossibilidade.  Parecer pela denegação da ordem.” (grifei)
+    Passo a examinar o pleito em causa. E, ao fazê-lo, entendo assistir razão à douta Procuradoria-Geral da República, eis que os fundamentos que dão suporte a seu douto parecer ajustam-se, com integral fidelidade, à orientação jurisprudencial firmada por esta Suprema Corte na matéria em exame.
+    Impende assinalar, desde logo, no que concerne à aplicabilidade do princípio da insignificância ao crime de moeda falsa (CP, art. 259), que ambas as Turmas desta Suprema Corte firmaram orientação que desautoriza a pretensão deduzida pela parte ora impetrante (HC 96.080/DF, Rel. Min. CÁRMEN LÚCIA – HC 97.220/MG, Rel. Min. AYRES BRITTO – HC 105.638/GO, Rel. Min. ROSA WEBER – HC 105.829/MG, Rel. Min. DIAS TOFFOLI – HC 107.171/RN, Rel. Min. DIAS TOFFOLI – HC 111.266/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.), valendo referir, por expressivo desse entendimento, os seguintes julgados:
+    “’Habeas Corpus’ substitutivo de agravo regimental cabível na origem. Crime de moeda falsa. Inaplicabilidade do princípio da insignificância penal. 1. A jurisprudência do Supremo Tribunal Federal entende que ‘a impetração de ‘habeas corpus’ como substitutivo de agravo regimental inclusive noutra Corte representa medida teratológica’ (HC 115.659, Rel. Min. Luiz Fux). Precedentes. 2. Ambas as Turmas do Supremo Tribunal Federal já consolidaram o entendimento de que é ‘inaplicável o princípio da insignificância aos crimes de moeda falsa, em que objeto de tutela da norma a fé pública e a credibilidade do sistema financeiro, não sendo determinante para a tipicidade o valor posto em circulação’ (HC 105.638, Rel. Min. Rosa Weber). Precedentes.  3. O pedido alternativo de desclassificação da conduta imputada ao paciente, além de implicar um amplo revolvimento do conjunto fático-probatório dos autos, não foi submetido às instâncias judicantes competentes. Logo, a imediata apreciação dessa matéria, pelo Supremo Tribunal Federal, acarretaria uma indevida supressão de instâncias. 4. ‘Habeas Corpus’ extinto sem resolução de mérito por inadequação da via processual.”
+    (HC 108.193/SP, Rel. Min. ROBERTO BARROSO – grifei)
+    “’HABEAS CORPUS’. PENAL. MOEDA FALSA.  ART. 289, § 1º, DO CÓDIGO PENAL. PACIENTES QUE INTRODUZIRAM EM CIRCULAÇÃO DUAS NOTAS FALSAS DE CINQUENTA REAIS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE EM FUNÇÃO DO BEM JURÍDICO TUTELADO PELA NORMA, QUE, NO CASO, É A FÉ PÚBLICA, DE CARÁTER SUPRAINDIVIDUAL. REPRIMENDA QUE NÃO DESBORDOU OS LINDES DA PROPORCIONALIDADE E DA RAZOABILIDADE. PRECEDENTES. ORDEM DENEGADA.
+    I – Mostra-se incabível, na espécie, a aplicação do princípio da insignificância, pois a fé pública a que o Título X da Parte Especial do CP se refere foi vulnerada. Precedentes.
+    II – Em relação à credibilidade da moeda e do sistema financeiro, o tipo exige apenas que estes bens sejam colocados em risco para a imposição da reprimenda.
+    III – Os limites da razoabilidade e da proporcionalidade na aplicação da pena foram observados pelo TRF da 1ª Região, que, além de fixar a reprimenda em seu patamar mínimo, substituiu a privação da liberdade pela restrição de direitos.
+    IV – ‘Habeas corpus’ denegado.”
+    (HC 112.708/MA, Rel. Min. RICARDO LEWANDOWSKI – grifei)
+    Vê-se, portanto, que a pretensão jurídica ora em exame não tem o beneplácito do magistério jurisprudencial desta Suprema Corte.
+    Sendo assim, em face das razões expostas, e acolhendo, ainda, o parecer da douta Procuradoria-Geral da República, indefiro o pedido de “habeas corpus”.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 31 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
