@@ -1,0 +1,10 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa transcreve-se a seguir:
+    “AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE INDEFERIU REQUERIMENTO NO SENTIDO DE SER CANCELADO PRECATÓRIO EXPEDIDO PELO VALOR TOTAL, COM A SUBSEQUENTE EXPEDIÇÃO DE REQUISIÇÕES DE CRÉDITO DE PEQUENO VALOR – INADMISSIBILIDADE- HIPÓTESE DE LITISCONSÓRCIO FACULTATIVO – APÓS A EXPEDIÇÃO DO PRECATÓRIO PELO VALOR GLOBAL, NÃO SE ADMITE MAIS A ALTERAÇÃO DA FORMA DE EXECUÇÃO. PRECLUSÃO. OCORRÊNCIA. RECURSO IMPROVIDO.”
+    De plano, verifica-se que a presente controvérsia cinge-se ao Tema 148 da sistemática da repercussão geral, cujo recurso-paradigma é o RE-RG 568.645, de relatoria da Ministro Cármen Lúcia, DJe 13.11.2014, assim ementado:
+    “REPERCUSSÃO GERAL. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. VEDAÇÃO CONSTITUCIONAL DE FRACIONAMENTO DE EXECUÇÃO PARA FRAUDAR O PAGAMENTO POR PRECATÓRIO. ART. 100, § 8º (ORIGINARIAMENTE § 4º), DA CONSTITUIÇÃO DA REPÚBLICA. LITISCONSÓRCIO FACULTATIVO SIMPLES. CONSIDERAÇÃO INDIVIDUAL DOS LITISCONSORTES: CONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO. 1. Ausência de prequestionamento quanto à alegação de inconstitucionalidade da Resolução n. 199/2005 do Tribunal de Justiça de São Paulo e quanto ao fracionamento dos honorários advocatícios. Incidência das Súmulas 282 e 356. 2. A execução ou o pagamento singularizado dos valores devidos a partes integrantes de litisconsórcio facultativo simples não contrariam o § 8º (originariamente § 4º) do art. 100 da Constituição da República. A forma de pagamento, por requisição de pequeno valor ou precatório, dependerá dos valores isoladamente considerados. 3. Recurso extraordinário ao qual se nega provimento.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 31 de maio de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
