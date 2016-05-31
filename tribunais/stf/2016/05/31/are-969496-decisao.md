@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 5ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, cujo trecho do voto transcrevo a seguir:
+    ‘’Assim, o voto é pelo desprovimento do recurso da União e pelo parcial provimento do recurso do FNDE, exclusivamente para imputar a responsabilidade financeira pela restituição do indébito apenas à União, sem prejuízo de esta cobrar-lhe, na esfera administrativa, o montante correspondente à quota que lhe é destinada’’. (eDOC 99, p. 6)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, ‘’a’’, da Constituição Federal, aponta-se violação aos artigos 212, §5°, do texto constitucional.
+    Nas razões recursais, alega-se que, no que concerne ao salário- educação, o empregador rural pessoa física deve ser considerado como empresa, conforme demonstra-se no trecho a seguir: “o contribuinte individual com segurados a seu serviço não é empresa, mas equipara-se à empresa, cumprindo em relação àqueles as mesmas obrigações da empresa constituída como tal”.
+    Ademais, aduz-se que, se o equiparado à empresa não estivesse obrigado ao pagamento da contribuição social do salário-educação, a lei instituidora e o decreto regulamentador o teriam excluído expressamente do rol de contribuintes.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar o Código Civil, a Lei nº 9.424/96, o Decreto nº 6.003/06, a Lei nº 9.766/98, a Lei nº 8.212/91, a Lei nº 9.876/99 e a Lei nº 11.718/08, bem como demais legislações infraconstitucionais aplicáveis à espécie, firmou-se no sentido da ilegitimidade da cobrança . Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Vale consignar ser descabida a argumentação fazendária de que os empregadores rurais pessoas físicas seriam equiparados a empresa, na qualidade de contribuintes individuais, nos termos do artigo 15, parágrafo único, da Lei 8.212/1991. Isso porque esta lei, alcunhada de Lei de Custeio da Seguridade Social, aplica-se apenas às contribuições previdenciárias e securitárias, não ao Salário-Educação, que constitui uma contribuição educacional”. (eDOC 99, p. 4)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, o seguinte precedente:
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. SALÁRIO-EDUCAÇÃO. INCIDÊNCIA SOBRE VALORES PAGOS A TRABALHADORES PORTUÁRIOS AVULSOS. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 21.8.2012. A controvérsia, a teor do que já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar, nesse compasso, em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto compreender de modo diverso exigiria análise da legislação infraconstitucional encampada na decisão prolatada pela Corte de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Corte. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido. (ARE-AgR 85.784, Rel. Min. Rosa Weber, Primeira Turma, DJe 19.2.2015)”.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de maio de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
