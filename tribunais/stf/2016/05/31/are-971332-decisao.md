@@ -1,0 +1,31 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. ARTIGOS 163, III, E 121, § 2º, IV, COMBINADO COM O ARTIGO 14, II, TODOS DO CÓDIGO PENAL. PRONÚNCIA. ALEGADA VIOLAÇÃO AOS ARTIGOS 5º, LVII, E 93, IX, DA CONSTITUIÇÃO FEDERAL. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. ÓBICE DA SÚMULA 284 DO STF. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por Edvaldo Bruno Silva da Paixão objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão que assentou:
+    “APELO MINISTERIAL. TENTATIVA DE HOMICÍDIO QUALIFICADO E DANO AO PATRIMÔNIO PÚBLICO. SENTENÇA DE IMPRONÚNCIA. ART. 121, § 2º, IV, C/C ART. 14, II, E ART. 163, III, TODOS DO CPB.
+    I. PRESENÇA DE SUFICIENTES INDÍCIOS DE AUTORIA E MATERIALIDADE. ACOLHIMENTO. JUÍZO FUNDADO DE SUSPEITA. PRONÚNCIA DOS APELADOS.
+    PROVIMENTO DO APELO DO MINISTÉRIO PÚBLICO PARA PRONUCIAR OS APELADOS E SUBMETÊ-LOS AO TRIBUNAL DO JÚRI.
+    FATOS
+    A imputatio facti, descrita na Denúncia (fls. 02/03), revela que ‘no dia 30/08/2007, por volta das 03:10 horas, no cárcere do GERRC, os denunciados, armados com pedaços de pau e facas, tentaram contra a vida de Arivaldo Coutinho de Jesus, atingindo-o com um golpe com um barrote de madeira, não o levando à morte por circunstâncias que não dependeram dos denunciados.
+    (…) os denunciados serraram as grades do cárcere, danificando patrimônio público, pretendendo fugir, atraindo a atenção da segurança com gritos de que tinha um presso passando mal, tendo a vítima Arivaldo ido verificar o que ocorria, quando ao abrir a primeira grade que dá acesso à Custódia, foi atacado pelos denunciados, com um golpe dado com um pedaço de pau, vindo ao chão percebendo nesse momento que os que estavam armados de faca também partiram para cima dele, quando conseguiu sacar de sua arma e atirar várias vezes, vindo a atingir os denunciados Carlos Messias, Edvaldo Bruno Silva da Paixão e Wellington Araújo de Assis’. Aditamento da denúncia para o reconhecimento do delito na modalidade tentada.
+    II. RAZÕES SIMULTÂNEAS
+    1. Presença de suficientes indícios de autoria e materialidade. Acolhimento. Crime tentado, não sendo evidenciado sinais de Agressão no Laudo de Exames Corporais. O delito praticado é hipótese de típica tentativa branca, ou seja, não deixou lesões.
+    1.2. Se da tentativa não resplandecem vestígios (tentativa branca), a doutrina e a jurisprudência pátrias admitem a comprovação material do delito de homicídio tentado, através de testemunhas presenciais, que na espécie foram ouvidas e que ratificam a demonstração material do ato ilícito efetuado pelo boletim de ocorrência.
+    1.3. Há nos autos suficientes elementos para o convencimento sobre a existência do crime de tentativa de homicídio qualificado e dano ao patrimônio e indícios de que os Apelados foram os autores do procedimento delitivo, impondo-se sejam pronunciados, restando afastada a impronúncia. Dúvida. Prevalência do in dubio pro societate.” (doc. 2, fl. 316/doc. 3, fl. 1)
+    Os embargos de declaração interpostos pela defesa não foram acolhidos (doc. 3, fl. 37).
+    Nas razões do apelo extremo, o recorrente sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, LVII, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a controvérsia está adstrita ao âmbito da legislação infraconstitucional, que incide o óbice da Súmula 279/STF, além de aplicar a sistemática da repercussão geral quanto ao artigo 93, IX, da Constituição Federal.
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    Verifica-se que o acórdão recorrido concluiu pelo provimento da apelação interposta pelo Ministério Público para pronunciar os recorridos pela prática dos crimes de homicídio tentado e de dano ao patrimônio público, por entender como suficientes os indícios de autoria e materialidade dos delitos. Já nas razões do recurso extraordinário, a parte recorrente tratou de imputação referente a tipo penal diverso, qual seja, do tráfico de drogas, como se infere do trecho das razões recursais a seguir transcritas:
+    “Observe-se que a alegação de flagrante se funda no porte da droga, pois não existiu flagrante de traficância, e ademais registre-se, a quantidade de droga encontrada era insignificante para configurar o crime de tráfico, sendo lastreada por supostas denúncias que nunca foram comprovadas, ou trazidos aos autos quaisquer elementos que as revestisse de veracidade.
+    (…)
+    De uma simples leitura da sentença a quo, e do acórdão, percebe-se que ambos, no momento da apreciação das provas, o fizeram de forma, data venia, equivocadas. As decisões consideraram exclusivamente depoimentos de testemunhas que se revelaram superficiais e evasivos.
+    É de se notar que nenhuma das testemunhas presenciaram a prática do crime de tráfico de drogas, mas a prisão ocorreu fundada em mera posse de quantia insignificante e denúncias que nunca se concretizaram em prova dos autos.
+    (…)
+    Não se pode admitir que o famoso ‘ouvir dizer’ sirva como indício de prova. Todos os depoentes foram unânimes em afirmar que ouviram falar de A ou de B, que fora o recorrente quem efetivamente estaria praticando o crime de tráfico de substâncias entorpecentes. Parece-nos, data venia, que as decisões invocaram como indício o famoso jargão popular que diz: ‘onde há fumaça, há fogo’, pois de outra forma não podemos ver qual prova conduziu para a conclusão constante da sentença e dos acórdãos.” (doc. 3, fls. 76/77)
+    Assim, verifico que as razões do apelo extremo estão dissociadas dos fundamentos do acórdão impugnado, o que caracteriza a deficiência na sua fundamentação. Incide, portanto, o óbice da Súmula 284 do STF, verbis: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de maio de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
