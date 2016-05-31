@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso extraordinário interposto pela União contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “TRIBUTÁRIO. IRPF. PERCEPÇÃO ACUMULADA DE RENDIMENTOS. REGIME DE COMPETENCIA. JUROS DE MORA. NATUREZA INDENIZATORIA.
+    1. A tributação dos valores que são pagos de uma só vez não pode se dar sobre o montante total acumulado, sob pena de ferir os princípios constitucionalmente garantidos da isonomia tributária (art. 150, II, da CF/88) e da capacidade contributiva (§ 1º do art. 145 da CF/88).
+    2. Os juros de mora incidentes sobre parcelas reconhecidas judicialmente não estão sujeitos ao imposto de renda, consoante entendimento consolidado pela Corte Especial deste Tribunal, nos autos da Arguição de Inconstitucionalidade nº 5020732- -11.2013.404.0000/TRF, em sessão de 24-10-2013, quando, por maioria, declarou a inconstitucionalidade parcial, sem redução de texto, do § 1º do art. 3º da Lei nº 7.713/1988 e do art. 43, inciso II, § 1º, do Código Tributário Nacional, Lei nº 5.172/1966.
+    3. Remessa oficial e apelação desprovidas, provido o apelo da parte autora.”
+    A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que o Plenário desta Suprema Corte, ao julgar o RE 614.406/RS, Red. p/ o acórdão Min. MARCO AURÉLIO, fixou entendimento que desautoriza, em parte, a pretensão de direito material deduzida pela parte ora recorrente:
+    “IMPOSTO DE RENDA – PERCEPÇÃO CUMULATIVA DE VALORES – ALÍQUOTA. A percepção cumulativa de valores há de de ser considerada, para efeito de fixação de alíquotas, presentes, individualmente, os exercícios envolvidos.”
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se, neste ponto, à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Cabe registrar, de outro lado, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 855.091-RG/RS, Rel. Min. DIAS TOFFOLI, reconheceu existente a repercussão geral da questão constitucional nele suscitada, que coincide com a mesma controvérsia jurídica também versada na presente causa, fazendo-o em acórdão assim ementado:
+    “TRIBUTÁRIO. REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DO IMPOSTO DE RENDA PESSOA FÍSICA. JUROS DE MORA. ART. 3º, § 1º, DA LEI Nº 7.713/1988 E ART. 43, INCISO II, § 1º, DO CTN. ANTERIOR NEGATIVA DE REPERCUSSÃO. MODIFICAÇÃO DA POSIÇÃO EM FACE DA SUPERVENIENTE DECLARAÇÃO DE INCONSTITUCIONALIDADE DE LEI FEDERAL POR TRIBUNAL REGIONAL FEDERAL.”
+    Sendo assim, tendo em consideração as razões expostas, nego provimento ao presente recurso extraordinário, no que se refere ao Tema nº 368 (RE 614.406-RG/RS), e, de outro lado, quanto ao Tema nº 808 (RE 855.091-RG/RS), determino, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem, para que, neste, seja observado o disposto no art. 1.040 do CPC/15.
+    Publique-se.
+    Brasília, 31 de maio de 2016.
+Ministro CELSO DE MELLO
+Relator
