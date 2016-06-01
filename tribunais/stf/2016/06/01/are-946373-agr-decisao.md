@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo regimental interposto em face de decisão monocrática por mim proferida, nos seguintes termos (eDOC67):
+    “Trata-se de agravo cujo objeto é a decisão que, em juízo de admissibilidade, aplicou o artigo 543-B do Código de Processo Civil, por entender que a controvérsia dos autos é idêntica à do Tema 793 da sistemática da repercussão geral, cujo recurso-paradigma é o RE-RG 855.178, Rel. Min. Luiz Fux.
+    De plano, verifica-se que contra a decisão de inadmissibilidade do apelo extremo foi interposto agravo, tal como previsto no art. 544 do Código de Processo Civil. Entretanto, ante o indeferimento do recurso extraordinário, era cabível o agravo interno para o órgão colegiado competente.
+    Ademais, impende registrar que não se admite a fungibilidade do recurso em agravo interno no caso de erro grosseiro, o que ocorre na espécie.
+    Nesse sentido, veja-se a ementa do seguinte julgado:
+    ‘AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL A QUO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 543-B DO CPC). DESCABIMENTO DO AGRAVO PREVISTO NO ART. 544 DO CPC. CABIMENTO DE AGRAVO REGIMENTAL (OU INTERNO) PARA A ORIGEM. IMPOSSIBILIDADE DE CONVERSÃO EM AGRAVO REGIMENTAL.ACÓRDÃO RECORRIDO PUBLICADO APÓS 19.11.2009. É pacífico o entendimento desta Corte de que, por não se cuidar de juízo negativo de admissibilidade de recurso extraordinário, não é cabível o agravo previsto no art. 544 do Código de Processo Civil, para atacar decisão de Presidente de Tribunal ou Turma Recursal de origem que aplique a sistemática da repercussão geral. A parte que queira impugnar decisão monocrática de Presidente de Tribunal ou de Turma Recursal de origem, proferida nos termos do art. 543-B do CPC, deve fazê-lo por meio de agravo regimental (ou interno). Inaplicável a conversão do presente recurso em agravo regimental a ser apreciado pela origem, já que a jurisprudência desta Corte já fixou entendimento de que após 19.11.2009, data em que julgado o AI 760.358-QO, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro. Agravo regimental a que se nega provimento.’ (ARE 761.661 AgR, Rel. Min. PRESIDENTE, Plenário, DJe 29.4.2014 – Grifos originais)
+    Ante o exposto, não conheço do agravo, nos termos dos arts. 544, § 4º, I, CPC, e 21, § 1º, RISTF.
+    Publique-se.”
+    A agravante sustenta, em síntese, que o Tribunal de origem aplicou a sistemática da repercussão geral, julgando prejudicado o recurso, apenas em relação a parte do pedido. Por essa razão, alega que o agravo previsto no art. 544 do CPC/1973 é cabível contra a parte da decisão (eDOC35) que inadmitiu o recurso extraordinário.
+    Em contrarrazões, alega-se que o presente recurso não merece provimento, visto que esbarra no óbice da Súmula 279 do STF.
+    Assiste razão à agravante, razão por que passo à reapreciação do agravo.
+    Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão que reconheceu a legitimidade passiva da recorrente face à existência de responsabilidade solidária dos entes federados quanto ao fornecimento de medicamentos.
+    Verifica-se que o Supremo Tribunal Federal, no julgamento do RE-RG 855.178, Rel. Ministro Luiz Fux, DJe 16.03.2015 (Tema 793), reconheceu a existência de repercussão geral da controvérsia constitucional referente à responsabilidade solidária dos entes federados em matéria de saúde e reafirmou a jurisprudência pertinente ao tema. Na oportunidade, a ementa restou assim redigida:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+    O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente.”
+    Entretanto, constata-se que a decisão ainda não transitou em julgado, uma vez que está pendente o julgamento dos embargos de declaração opostos.
+    Ante o exposto, reconsidero a decisão agravada, julgo prejudicado o presente agravo regimental e determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 1º de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
