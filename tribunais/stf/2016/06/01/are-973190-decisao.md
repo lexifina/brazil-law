@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPTU. MELHORAMENTOS. ART. 32 DO CÓDIGO TRIBUTÁRIO NACIONAL. DECRETO MUNICIPAL N. 10.084/2005. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “APELAÇÃO CÍVEL - Ação Declaratória de Inexistência de Obrigação Tributária cumulada com Anulatória de Lançamento Fiscal com pedido Liminar - IPTU - Alegação de não incidência do tributo por ausência de melhoramentos urbanos - Imóvel situado no perímetro urbano do Município- Para fins de incidência do IPTU não há necessidade de que o imóvel disponha dos melhoramentos urbanos indicados pelo § 1º do art. 32 do CTN - Imóvel em área urbanizável ou em expansão - Sentença reformada- Recurso parcialmente provido”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante alega contrariados os arts. 5º, incs. I, II e XXIII, e 150, incs. I e II, da Constituição da República, sustentando a ilegitimidade da cobrança do IPTU.
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência das Súmulas ns. 279 e 280 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A alegada ofensa aos arts. 5º, incs. I e XXIII, e 150, inc. II, da Constituição da República, suscitada no recurso extraordinário, não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco os embargos de declaração opostos o foram com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem, na espécie vertente, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal:
+    “A jurisprudência deste Supremo Tribunal firmou-se no sentido de que os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. Precedentes” (AI n. 580.465-AgR, de minha relatoria, Primeira Turma, DJ 19.9.2008).
+    6. A alegação de inobservância do princípio constitucional da legalidade não prospera por ser, na espécie vertente, imprescindível a análise prévia de legislação infraconstitucional, em afronta à Súmula n. 636 do Supremo Tribunal Federal, na qual se dispõe não caber “recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida” (Código Tributário Nacional e Decreto municipal n. 10.084/2005):
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. PROCESSUAL CIVIL. AÇÃO ANULATÓRIA. IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU. 1. Alegada contrariedade ao princípio constitucional da legalidade. Análise de norma infraconstitucional. Súmula n. 636 do Supremo Tribunal Federal. 2. Limites objetivos da coisa julgada. Análise de norma infraconstitucional. Ofensa constitucional indireta. 3. Agravo regimental ao qual se nega provimento” (AI n. 673.377-AgR/SP, de minha relatoria, Primeira Turma, DJe 21.9.2012).
+    “Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI n. 745.965-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 26.6.2011).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE E DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE EXAME PRÉVIO DE NORMAS INFRACONSTITUCIONAIS. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ” (RE n. 631.736-ED, de minha relatoria, Primeira Turma, DJe 8.4.2011).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
