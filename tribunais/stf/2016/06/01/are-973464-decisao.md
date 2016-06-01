@@ -1,0 +1,14 @@
+DECISÃO: A parte ora agravante, ao deduzir o recurso extraordinário a que se refere o presente agravo, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição Federal.
+    O recurso extraordinário em questão foi interposto contra acórdão que não reconheceu, em favor da parte recorrente, o direito à percepção do adicional de atividade penosa, instituído em favor de servidor lotado em zona de fronteira, nos termos do art. 71 da Lei nº 8.112/90 e da Portaria nº 633/2010-PGR/MPU, durante o período em que esteve lotado em Campo Mourão/PR.
+    A jurisprudência do Supremo Tribunal Federal, a propósito dessa questão, e em contexto idêntico ao da presente causa, firmou entendimento no sentido de que a controvérsia suscitada tem natureza infraconstitucional e que, no caso, a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa (AI 335.194-AgR/RS, Rel. Min. ILMAR GALVÃO – AI 335.400-AgR/RS, Rel. Min. MAURÍCIO CORRÊA – RE 276.544-AgR/RS, Rel. Min. ELLEN GRACIE – RE 282.553-AgR/RS, Rel. Min. NELSON JOBIM – RE 282.716- -AgR/RS, Rel. Min. NELSON JOBIM – RE 298.489-AgR/RS, Rel. Min. MAURÍCIO CORRÊA – RE 323.367-AgR/RS, Rel. Min. MOREIRA ALVES, v.g.):
+    “Gratificação especial atribuída aos servidores em exercício em zona de fronteira. Lei 8.270/91 regulamentada pelo Decreto 493/92.
+    – A interpretação dada pelo acórdão recorrido à expressão ‘zona de fronteira’ utilizada na legislação infraconstitucional em causa, como tendo sentido diverso da expressão ‘faixa de fronteira’, não ofende evidentemente o disposto no § 2º do artigo 20 da Constituição Federal que conceitua o que seja ‘faixa de fronteira’ e não ‘zona de fronteira’. A questão, no caso, se cinge exclusivamente à interpretação de norma infraconstitucional, e interpretação essa que só seria violadora do citado dispositivo constitucional se – o que não ocorre no caso – a lei em causa se referisse à ‘faixa de fronteira’ prevista na Carta Magna e a ela fosse dado, nesse ponto, sentido contrário ao que lhe dera o texto constitucional.
+    – No mesmo sentido, manifestou-se esta Primeira Turma nos AGRAG’s 281.735 e 335.194, e a Segunda Turma nos AGRRE’s 279.256 e 282.716.
+    Recurso extraordinário não conhecido.”
+    (RE 288.326-RS, Rel. Min. MOREIRA ALVES – grifei)
+    Desse modo, não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência do Supremo Tribunal Federal (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min CELSO DE MELLO), torna-se insuscetível de conhecimento o recurso extraordinário.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 01 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
