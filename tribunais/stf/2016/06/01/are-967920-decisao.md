@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Turma Recursal que não conheceu do recurso inominado, por deserção, em razão do não recolhimento do valor correspondente a indenização por litigância de má-fé, mantendo a sentença relativa a repetição de indébito de tarifa correspondente aos serviços gerais de limpeza urbana.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, alega-se violação ao disposto nos artigos 2º e 5º, XXXVI e LV da Constituição Federal, por ofensa aos princípios da separação dos poderes, do contraditório e da ampla defesa, do equilíbrio econômico e da segurança jurídica.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    No que tange aos pressupostos de admissibilidade de recursos de competência de outros Tribunais, a Corte, no julgamento do RE-RG 598.365, de relatoria do Ministro Ayres Britto, Dje de 26.03.2010 (Tema 181), entendeu pela ausência de repercussão geral da questão suscitada, dado que as ofensas à Carta Magna, caso existentes, ocorreriam de modo indireto ou reflexo.
+    Ademais, ao julgar o RE-RG 633.360, de relatoria do Ministro Cezar Peluso, Dje de 31.08.2011, esta Corte decidiu pela ausência de repercussão geral do Tema 401, que, tendo por objeto a aplicação de multa por litigância de má-fé, com fundamento no art. 18 do CPC de 1973, nos casos de interposição de recursos com manifesto propósito protelatório, versa sobre matéria infraconstitucional, como a hipótese dos autos.
+    Verifica-se ainda, que no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, Dje 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como na hipótese dos autos.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 1º de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
