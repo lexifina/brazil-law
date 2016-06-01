@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de recurso extraordinário interposto pela Universidade Federal do Triângulo Mineiro contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 1ª Região, está assim ementado:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO FEDERAL. CÔMPUTO DO TEMPO DE SERVIÇO ESPECIAL CELETISTA. AVERBAÇÃO. ATIVIDADE PERIGOSA, INSALUBRE OU PENOSA. PRECEDENTES. EC 20/1998. REQUISITO ETÁRIO NÃO CUMPRIDO. PROVIMENTO PARCIAL.
+    O servidor público regido pela CLT, antes do RJU, que exerceu atividade perigosa, insalubre ou penosa, assim considerada em lei vigente à época, tem direito adquirido à contagem de tempo de serviço com o devido acréscimo legal, para fins de aposentadoria estatutária.
+    O reconhecimento do tempo de serviço especial pelo exercício de atividade profissional elencada nos decretos previdenciários regulamentares é possível até o advento da Lei nº 9.032/95 (28.04.95), independentemente da comprovação de efetiva exposição aos agentes insalubres. Precedentes do STJ. (AC 2001.38.00.037236-4/MG, Rel. Desembargador Federal Luiz Gonzaga Barbosa Moreira, Primeira Turma, e-DJF1 p.349 de 11/03/2008).
+    ‘In casu’, a parte autora esteve expostas a agentes biológicos entre 01/11/1967 a 31/07/1974 e de 01/07/1985 até a entrada em vigor da Lei 8112/1990, devendo o tempo de serviço prestado como ‘celetista’ ser acrescido de 40% para efeitos de aposentaria.
+    Além do tempo de serviço igual ou superior a 30 anos, na vigência da Emenda Constitucional 20/1998, a servidora pública tem direito à aposentadoria proporcional se contar com mais de 55 anos de idade, o que não ocorre na hipótese.
+    Apelação parcialmente provida para conceder a segurança determinando a averbação do tempo de serviço prestado junto à Faculdade de Medicina do Triângulo Mineiro, no regime celetista, em atividade insalubre, com os acréscimos legais.”
+    A parte recorrente, ao deduzir o presente apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 612.358- -RG/ES, Rel. Min. ELLEN GRACIE, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “ADMINISTRATIVO. CONTAGEM ESPECIAL DO TEMPO DE SERVIÇO PRESTADO EM CONDIÇÕES INSALUBRES. PERÍODO ANTERIOR À INSTITUIÇÃO DO REGIME JURÍDICO ÚNICO. DIREITO ADQUIRIDO. RATIFICAÇÃO DA JURISPRUDÊNCIA FIRMADA POR ESTA SUPREMA CORTE. EXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito do Supremo Tribunal Federal (ARE 711.096/MG, Rel. Min. DIAS TOFFOLI – RE 333.246-AgR/RS, Rel. Min. MARCO AURÉLIO – RE 380.413-AgR/PB, Rel. Min. EROS GRAU – RE 456.480-AgR/PB, Rel. Min. GILMAR MENDES – RE 473.895-AgR/RS, Rel. Min. SEPÚLVEDA PERTENCE – RE 743.009/RN, Rel. Min. ROSA WEBER, v.g.):
+    “AGRAVO DE INSTRUMENTO – EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO – SERVIDOR PÚBLICO – POSSIBILIDADE DE CONTAGEM ESPECIAL DE TEMPO DE SERVIÇO – PRETENDIDA AVERBAÇÃO – ATIVIDADE INSALUBRE EXERCIDA ANTES DA CONVERSÃO DO REGIME CELETISTA EM REGIME ESTATUTÁRIO – SUPERVENIÊNCIA DA LEI Nº 8.112/90, QUE INSTITUIU O REGIME JURÍDICO ÚNICO – DIREITO ADQUIRIDO – PRECEDENTES – ALEGADA VIOLAÇÃO AO PRECEITO CONSTITUCIONAL INSCRITO NO ART. 37, § 6º – AUSÊNCIA DE PREQUESTIONAMENTO EXPLÍCITO DESTA MATÉRIA CONSTITUCIONAL – RECURSO IMPROVIDO.”
+    (AI 728.697-ED/RS, Rel. Min. CELSO DE MELLO)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. APOSENTADORIA. CONTAGEM DO TEMPO DE SERVIÇO PÚBLICO PRESTADO POR SERVIDOR CELETISTA ANTES DA PASSAGEM PARA O REGIME ESTATUTÁRIO. PRECEDENTES.
+    1. Consoante a firme jurisprudência do Supremo Tribunal Federal, se comprovado o exercício de atividade considerada insalubre, perigosa ou penosa, possui o servidor direito à contagem especial do respectivo período.
+    2. Agravo Regimental desprovido.”
+    (RE 363.064-AgR/RS, Rel. Min. AYRES BRITTO)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC/15, art. 932, IV, “b”).
+    Publique-se.
+    Brasília, 01 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
