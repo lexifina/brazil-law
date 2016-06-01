@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. MAUS ANTECEDENTES. IMPOSSIBILIDADE DE UTILIZAÇÃO DE INQUÉRITOS E PROCESSOS EM CURSO. JULGADO RECORRIDO HARMÔNICO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional da Terceira Região:
+    “PENAL. ESTELIONATO CONTRA A PREVIDÊNCIA SOCIAL. MATERIALIDADE, AUTORIA E DOLO COMPROVADOS. IMPROVIMENTO DO RECURSO. DOSIMETRIA DA PENA. ALTERAÇÃO DE OFÍCIO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. OCORRÊNCIA.
+    Materialidade e autoria delitiva comprovadas.
+    Irrelevante a realização de nova prova pericial, pois pela análise dos elementos probatórios trazidos aos autos, oriundos do procedimento administrativo e provas testemunhais, mesmo porque ao apelante não lhe é imputado crime de falsidade material, hipótese que se imporia o exame de corpo de delito, nos termos do artigo 158, do Código Penal.
+    De acordo com conjunto probatório carreado aos autos conclui-se que os documentos foram forjados pelo apelante, tendo em vista que o beneficiário José Tiago da Silva nunca trabalhou na empresa em que Eduardo Rocha era o responsável pela guarda das fichas de registros de empregados, tendo este protocolado o requerimento e aposentadoria, observando-se, ainda, que este não foi o único benefício obtido por meio fraudulento pelo recorrente, com falsos vínculos empregatícios com a empresa Indústrias Reunidas Irmãos Spina S/A.
+    Observa-se que o réu se aproveitou da qualidade de depositário da documentação da empresa "Indústrias Reunidas Irmãos Spina S/A" para produzir documentos falsos com o intuito de fraudar a Previdência Social, demonstrando que conduta extremamente reprovável no meio social.
+    Considerando a ocorrência de apenas uma circunstância judicial desfavorável (art. 59 do CP) diminuo de ofício a pena-base para 01 (um) ano e 6 (seis) meses, utilizando o critério da diferença entre os limites mínimo - 01 - e máximo - 5 anos.
+    Na segunda fase não incidiu qualquer circunstância agravante ou atenuante. Na terceira e última fase a pena foi aumentada em 1/3 (um terço) em razão da incidência do parágrafo 3º, do artigo 171, do Código Penal, tornando a pena definitiva em 02 (dois) anos de reclusão e 70 (setenta) dias-multa, à razão de 1/30 (um trinta avos).
+    Utilizando a mesma proporcionalidade estabelecida para a aplicação da pena-base corporal, altero a pena de multa respeitando a diferença entre os limites mínimo e máximo, estabelecido no artigo 49 do Código Penal, que é de 10 a 360 dias-multa, perfazendo o montante de 53 (cinquenta e três) dias multas.
+    Em razão da diminuição de ofício da pena ora aplicada (dois anos de reclusão), observa-se que decorreu o prazo prescricional preconizado pelo artigo 109, inciso V, do Código Penal entre a data dos fatos 10/08/1998 e a data do recebimento da denúncia 27/05/2003 (art. 110, do Código Penal, na redação anterior à Lei nº 12.234/2010), bem como entre a data de publicação da sentença condenatória 29/10/2008 e a presente data, razão pela qual deve reconhecida de ofício a prescrição da pretensão punitiva estatal.
+    Apelação desprovida. Diminuição da pena-base de ofício. Extinção da punibilidade diante da ocorrência da prescrição estatal punitiva”.
+    2. O Agravante alega ter o Tribunal de origem contrariado o art. 5º, incs. XLVI e LVII, da Constituição da República.
+    Assevera que, “por meio desta via difusa de controle de constitucionalidade, referente à contrariedade ao art. 5°, XLVI e LVII, da Constituição da República ante a impossibilidade de consideração de inquéritos policiais ou ações penais em curso na dosimetria da pena-base, guarda relevância jurídica e transcendência porque repercutirá na individualização da pena em todos os casos concretos que vierem a ser apreciados pelo Tribunal a quo, de maneira que o objeto do presente recurso não se limita na dosimetria da pena de determinado indivíduo, e sim na garantia de que a mens legislaforis seja preservada à luz das garantias constitucionais, evitando, assim, a multiplicidade de decisões divergentes e a insegurança jurídica”.
+    3. Inadmitiu-se o recurso extraordinário ao fundamento de que a ofensa constitucional, se tivesse ocorrido, seria indireta e dependeria de análise de legislação infraconstitucional.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. Ao julgar o mérito do Recurso Extraordinário n. 591.054, este Supremo Tribunal decidiu que “inquéritos e processos criminais em curso são neutros na definição dos antecedentes criminais”:
+    “PENA – FIXAÇÃO – ANTECEDENTES CRIMINAIS – INQUÉRITOS E PROCESSOS EM CURSO – DESINFLUÊNCIA. Ante o princípio constitucional da não culpabilidade, inquéritos e processos criminais em curso são neutros na definição dos antecedentes criminais” (RE 591054, Relator(a): Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 17/12/2014, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-037 DIVULG 25-02-2015 PUBLIC 26-02-2015)”.
+    O julgado recorrido harmoniza-se com essa orientação jurisprudencial.
+    6. Pelo exposto, nego seguimento ao agravo (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
