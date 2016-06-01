@@ -1,0 +1,30 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo de instrumento foi interposto pelo Estado de Mato Grosso do Sul contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Mato Grosso do Sul, está assim ementado:
+    “DANO MORAL – PRISÃO ILEGAL – INDENIZAÇÃO DEVIDA.
+    O Estado tem o dever de indenizar dano moral decorrente do exercício de atividade jurisdicional, no caso prisão ilegal que causou constrangimento e desmoralização da conduta social e prestígio profissional do autor.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 5º, X, LXVII e LXXV, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte ora recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise das razões recursais da parte recorrente evidencia a necessidade de exame da questão suscitada nos autos, considerados os aspectos fático-probatórios da causa:
+    “A responsabilização do Magistrado é fundamental para configurar o erro judiciário, além do que, deve ficar devidamente delineada para fins, inclusive, de eventual ação regressiva, o que não ocorreu no caso vertente, demonstrando há não ocorrência de ato jurisdicional que viesse a causar dano ao recorrido, mormente se foi esse quem deu caso a toda a situação, ao assinar, mesmo que inadvertidamente, Termo de Nomeação de bens à penhora e Depósito, assumindo o ônus inerente ao cargo de Depositário, auxiliar do Juiz e que lhe imputou responsabilidades.
+    Portanto, evidente que a decisão proferida pelo Tribunal ‘a quo’, ora recorrida, contraria e ofende a legislação federal apontada, na medida em que decidiu em desacordo com tal legislação, acerca da responsabilidade do Estado indenizar os danos provenientes de atos praticados por magistrados tidos como ‘erro judiciário’, que seja, praticados com dolo, fraude (art. 133, I, do CPC, art. 49, I, da LOMÁN), ou culpa grave, esta revelada pela negligência manifesta (art. 133, II, do CPC, art. 49, II, e 56, I, da LOMAN) ou pela incapacitação para o trabalho (art. 56, II, da LOMAM).
+    Em não havendo o chamado ‘erro judiciário’ indenizável, por ausência de dolo, fraude ou culpa grave do juiz, incabível a verba estipulada a título de reparação, o que ofende o art. 186 e o art. 927. ambos do Código Civil/2002, posto que não há fundamento para decretar a indenização do dano alegado pelo recorrido.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte:
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PRISÃO INDEVIDA. DEPOSITÁRIO INFIEL. DANO MORAL. NECESSIDADE DE REEXAME DO MATERIAL PROBATÓRIO. SÚMULA 279/STF.
+    1. Para dissentir do acórdão recorrido e concluir pela existência das inconstitucionalidades apontadas, seria necessária a análise do material fático probatório constante dos autos, procedimento inviável em sede de recurso extraordinário.
+    2. Agravo regimental a que se nega provimento.”
+    (ARE 783.983-AgR/SP, Rel. Min. ROBERTO BARROSO)
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Responsabilidade civil do Estado. Elementos configuradores demonstrados na origem. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF.
+    2. Agravo regimental não provido.”
+    (RE 891.445-AgR/RS, Rel. Min. DIAS TOFFOLI)
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impende assinalar, finalmente, que a douta Procuradoria-Geral da República, ao opinar nesta causa, manifestou-se contrariamente à parte ora recorrente, apoiando-se, para tanto, em fundamentos evidenciadores da inviabilidade processual do recurso extraordinário em questão, em parecer do qual se destaca a seguinte passagem:
+    “Acresce que acolher a premissa do recurso extraordinário, consistente na ausência de configuração de erro judiciário, não prescindiria do reexame de fatos e provas, exercício vedado na instância extraordinária (Súmula 279). Este precedente ilustra o entendimento:
+    ‘DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO. PRISÃO ILEGAL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279/STF.
+    1. Hipótese em que para dissentir da solução conferida pelo Tribunal de origem à controvérsia – ocorrência, ou não, de erro judiciário – faz-se necessária uma nova apreciação dos fatos e do material probatório constantes dos autos (incidência da Súmula 279/STF).
+    2. Agravo regimental a que se nega provimento.’ (AI nº 673872-AgR/PI, Rel. Ministro Roberto Barroso, DJe 22.9.2015).”
+    À falta de perspectiva de êxito para o recurso extraordinário, o parecer sugere o desprovimento do agravo.
+    Sendo assim, e em face das razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+    Publique-se.
+    Brasília, 01 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
