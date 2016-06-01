@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fls. 330-330v):
+    “REEXAME NECESSÁRIO C/C RECURSO DE APELAÇÃO – AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO – SERVIDOR CONTRATADO TEMPORARIAMENTE PELO PODER JUDICIÁRIO – RESCISÃO CONTRATUAL – ATO 007/2011-CRH – POSSIBILIDADE – AUSÊNCIA DE ESTABILIDADE – VALIDAÇÃO DE CONTRATAÇÃO TEMPORÁRIA – IMPOSSIBILIDADE – REQUISITOS NÃO PREENCHIDOS – SENTENÇA RETIFICADA – RECURSO PROVIDO.
+    I – Este E. Sodalício possuía o entendimento no sentido de ser necessária a instauração de processo administrativo, com as garantias do contraditório e da ampla defesa, consagrados no art. 5º LIV e LV, da Constituição Federal, antes de proceder à rescisão dos contratos temporários celebrados há muitos anos e reiteradamente prorrogados no tempo, em respeito aos princípios do devido processo legal, da segurança jurídica e da dignidade da pessoa humana;
+    II – No entanto, o Supremo Tribunal Federal ratificou o entendimento no sentido de que a norma prevê a estabilidade para os servidores não concursados apenas beneficia aqueles que, em 05/10/1988, data da promulgação da Constituição da República, contasse, no mínimo, com cinco anos ininterruptos de serviço público. (RE nº 858870, Rel. Min. Luiz Fux, j. 18/02/15);
+    III – Sem que date de mais de cinco anos antes da promulgação da Constituição em vigor, ou que, depois disso, tenha o ‘servidor’ obtido aprovação em concurso, não há direito que ampare a pretensão de estabilidade, mesmo quando, por longo período, perdure o vínculo funcional temporário;
+    IV – O contrato temporário de trabalho pressupõe relação de trato sucessivo, e quando não seja ilegal, segundo a conveniência e oportunidade da administração, renova a cada período a oportunidade da rescisão.”
+    Os embargos de declaração foram rejeitados (fls. 368-370).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, II, XXXVI, LV e LX; 37, caput; e 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “alguns vínculos remetem a período anterior a promulgação da Constituição Federal de 1988 (quando não existia contrato de trabalho), em que pese os servidores não terem sido beneficiados com a estabilidade excepcional prevista no artigo 19 dos Atos das Disposições Constitucionais Transitórias - ADCT.” (fls. 378).
+    Alega-se, ainda, que “a primeira infringência diz respeito à falta de abertura do devido processo administrativo, tão sedimentado nos tribunais de justiça pátrios e pelas Cortes Superiores como causa primordial de nulidade, quando ausentes” (fls. 378).
+    A Vice-Presidência do TJ/MT inadmitiu o recurso, por entender pela inexistência de ofensa direta à Constituição Federal (fls. 418-419).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (fls. 335v):
+    “Em verdade, o conjunto probatório carreado demonstra que os Apelantes não possuem direito à estabilidade, bem como a validação de suas contratações temporárias. Isto porque foram contratados posteriormente a vigência da Constituição Federal de 1988, não gozando da garantia estabelecida pelo ADCT àqueles contratados nos cinco anos que antecederam à Magna Carta.
+    Portanto, inexiste o direito à estabilidade no caso apresentado, não sendo também possível validar as contratações temporárias realizadas, vez que não apresentam os requisitos apontados como essenciais pela Suprema Corte Brasileira, razão pela qual desnecessária a abertura de procedimento administrativo anterior ao rompimento contratual.”
+    Como se depreende desses fundamentos e daqueles que constam da ementa do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    No tocante à alegada afronta ao art. 93, IX, da CF, verifica-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o ora recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 1º de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
