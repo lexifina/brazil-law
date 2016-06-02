@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de demanda, aqui autuada como Ação Cível Originária - ACO, proposta pelo Ministério Público do Estado de São Paulo visando a que o Supremo Tribunal Federal dirima o que denominou de “conflito de atribuições” estabelecido em face do Ministério Público do Estado de Minas Gerais, conflito esse surgido em procedimento instaurado com o objetivo de investigar a suposta prática dos delitos previstos no art. 16, parágrafo único, IV, da Lei 10.826/03 e no art. 28 da Lei 11.343/06.
+    2. Em parecer, a Procuradoria-Geral da República resumiu o presente conflito, nos termos seguintes:
+    “(...) após a realização de diligências, a Promotoria de Justiça de Cabo Verde requereu a remessa dos autos ao Juízo da Vara do Júri da Comarca de Piracicaba/SP, alegado a existência de conexão com investigação em curso perante aquele juízo envolvendo suposta prática de homicídio atribuída a José Henrique.
+    O Juízo da Comarca de Cabo Verde/MG, adotando a manifestação do Parquet como razões de decidir, determinou a remessa dos autos à Vara do Júri da Comarca de Piracicaba/SP, considerando-a o juízo competente para o processo e julgamento do feito (…).
+      O 2º Promotor de Justiça de Piracicaba/SP, reiterando o entendimento de que inexiste conexão (…), solicitou ao juízo que suscite conflito negativo de atribuições, a ser dirimido pelo STF.
+    O magistrado determinou a juntada de certidão de objeto e pé do Processo 340/2009 e, após, o envio do procedimento à Procuradoria-Geral de Justiça”.
+    Ao final, o chefe do Ministério Público Federal manifestou-se pelo não conhecimento do conflito negativo de atribuição entre órgãos do Ministério Público.
+    3. Não há, no caso, sequer a existência de conflito negativo de atribuições entre membros do Ministério Público. É que o Juízo da Vara da Comarca de Cabo Verde/MG já reconheceu sua incompetência para o processamento da causa penal, determinando a remessa dos autos ao Juízo da Comarca Piracicaba/SP, que, por sua vez, não chegou a decidir se é competente, ou não, para dar-lhe andamento. Isso porque os autos foram encaminhados a esta Corte em razão do “conflito” suscitado pelo Ministério Público do Estado de São Paulo.
+    Ora, tendo havido decisão proferida pelo Juízo do Estado de Minas Gerais acerca da sua incompetência, aqui o que há é uma divergência entre autoridade judiciária e deliberação do órgão ministerial. Divergência dessa natureza não se qualifica, à evidência, como conflito federativo com estatura minimamente razoável para inaugurar a competência do Supremo Tribunal Federal de que trata o art. 102, I, f , da Constituição (cf. CC 7117, Relator(a): Min. SYDNEY SANCHES, Tribunal Pleno, julgado em 08/08/2002, DJ 21-02-2003 PP-00028 EMENT VOL-02099-02 PP-00334).
+    4. Ante o exposto, nego seguimento ao pedido, determinando a remessa dos autos ao Juízo da Comarca de Piracicaba/SP, para que decida se se considera competente, ou não, para processar e julgar a causa.
+    Comunique-se. Intime-se.
+    Brasília, 2 de junho de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
