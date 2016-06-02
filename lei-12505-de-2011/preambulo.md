@@ -1,0 +1,2 @@
+Concede anistia aos policiais e bombeiros militares dos Estados de Alagoas, de Goiás, do Maranhão, de Minas Gerais, da Paraíba, do Piauí, do Rio de Janeiro, de Rondônia, de Sergipe, do Tocantins, da Bahia, do Ceará, de Mato Grosso, de Pernambuco, do Rio Grande do Norte, de Roraima, de Santa Catarina, do Amazonas, do Pará, do Acre, de Mato Grosso do Sul, do Paraná e do Distrito Federal.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
