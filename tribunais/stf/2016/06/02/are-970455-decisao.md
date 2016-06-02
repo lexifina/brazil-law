@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 930):
+    “AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO C/C REPARAÇÃO DE DANOS. AGENTE DA POLÍCIA CIVIL. ESTÁGIO PROBATÓRIO. EXONERAÇÃO. AVALIAÇÕES DESFAVORÁVEIS AO DESEMPENHO NO EXERCÍCIO DE CARGO PÚBLICO. INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO COM GARANTIA DA AMPLA DEFESA E CONTRADITÓRIO.
+    I – É incontroverso que o agravante, na condição de Agente da polícia Civil do Estado de Goiás, quando de sua exoneração, encontrava-se em estágio probatório, que é o período de exercício do funcionário durante o qual é observada e apurada pela administração a conveniência ou não de sua permanência no serviço público, mediante a verificação dos requisitos estabelecidos em lei para a aquisição da estabilidade, quais sejam, idoneidade moral, aptidão, disciplina, assiduidade, dedicação ao serviço, eficiência, circunstância ocorrente na espécie em exame.
+    II – Diante do quadro produzido, não merecem acolhida as alegações do recorrente, pois a conclusão de sua inaptidão para o o serviço público ocorreu após a instauração de Processo Administrativo, de modo que a ele foi permitido se defender no plano administrativo das acusações que culminaram com a sua exoneração dos quadros da Polícia Civil. Sendo assim, a manutenção da sentença primeva é medida que se impõe.
+    AGRAVO IMPROVIDO.”
+    Os embargos de declaração foram rejeitados (fls. 966-972).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º e 37 do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em suma, que “o Recorrente foi exonerado por avaliações desfavoráveis colacionadas no processo administrativo por meio dos Memorandos que, em suma, tratavam da dificuldade de convivência que alguns poucos colegas de trabalho tinham com o Agravante. (Memorando nº 006/2012 e 043/2012 e 314/2012).” (Fls. 984).
+    Alega-se, ainda, que “Não há gravidade nos desafetos demonstrados nos Memorandos, não há nenhum dano ao Serviço Público provocado pelo Agravante. Muito pelo contrário, o Agravante possuía notas máximas no seu estágio probatório e, excepcionalmente, no mês de Dezembro teve a reviravolta de sua brilhante carreira desmoronar sob a óptica de um único mês e analisado por um Delegado que nem lhe era o superior imediato.” (Fls. 985).
+    A Vice-Presidência do TJ/GO inadmitiu o recurso com fundamento no óbice da Súmula 279 do STF (Fls. 1010-1012).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (fls. 939-940):
+    “O processo de exoneração do apelante, com observância do devido processo legal e das regras previstas nos arts. 39 a 41 da Lei Estadual nº 10.460/88, não padece de nenhum vício de nulidade, tendo a comissão processante exonerado o apelante por não ter cumprido durante o Estágio Probatório requisitos básicos previstos nos incisos I, III, IV e V do art. 39, § 1º da Lei Estadual nº 10460/88, tais como idoneidade moral, disciplina, eficiência e aptidão, tendo sido a pena de demissão aplicada de acordo com os princípios da razoabilidade e proporcionalidade.”
+    Assim, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o exame das provas dos autos e da legislação infraconstitucional aplicável à espécie (Lei Estadual nº 10.460/88), o que inviabiliza o processamento do apelo extremo, nos termos das Súmulas 279 e 280 do STF.
+    Ademais, verifico que o entendimento esposado pelo acórdão recorrido encontra-se em consonância com a jurisprudência do Supremo Tribunal Federal, no sentido de ser obrigatória a instauração de procedimento administrativo, com a observância dos princípios do contraditório e da ampla defesa, para se proceder à exoneração de servidor admitido por concurso público, ainda que não-estável.
+    A esse respeito, confira-se o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. EXONERAÇÃO DE SERVIDOR PÚBLICO. NECESSIDADE DE OBSERVÂNCIA DOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Para a exoneração de servidor público, ainda que em estágio probatório, é imprescindível a observância do devido processo legal com as garantias a ele inerentes. Precedentes. 2. Impossibilidade de reexame de provas em recurso extraordinário: incidência da Súmula 279 do Supremo Tribunal Federal.” (AI nº 623.854/MA-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 23.10.2009)
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 2 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
