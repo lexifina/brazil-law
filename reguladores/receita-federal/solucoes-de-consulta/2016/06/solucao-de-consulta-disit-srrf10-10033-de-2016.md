@@ -1,0 +1,11 @@
+Solução de Consulta Disit/SRRF10 nº 10033, de 3 de maio de 2016
+ASSUNTO: Obrigações Acessórias
+EMENTA: SISCOSERV. RESPONSABILIDADE PELO REGISTRO. SERVIÇO DE TRANSPORTE INTERNACIONAL. IMPORTAÇÃO POR CONTA E ORDEM. AGENTE DE CARGA.
+O valor da Taxa de Movimentação no Terminal (THC), da “taxa de BAF” (Bunker Adjustment Factor - BAF) e das “taxas do CE”, constante do conhecimento de carga, emitido por residente ou domiciliado no exterior, em virtude da prestação de serviço de transporte internacional de mercadorias, deve ser computado no valor da operação a ser informado no Siscoserv pelo tomador desse serviço, no mesmo código NBS do serviço de transporte de cargas, mesmo que esse valor tenha sido repassado ao prestador do serviço por intermédio de um agente de carga, domiciliado no Brasil.
+Quando o agente de cargas, domiciliado no Brasil, contratar, com residente ou domiciliado no exterior, em seu próprio nome, o serviço de transporte internacional de carga, caberá a ele o registro desse serviço no Siscoserv.
+Na importação por conta e ordem de terceiros, se o agente de carga, domiciliado no Brasil, apenas representar a pessoa jurídica tomadora do serviço de transporte internacional perante o prestador desse serviço, residente ou domiciliado no exterior, a responsabilidade pelo registro no Siscoserv será: da pessoa jurídica adquirente, se a pessoa jurídica importadora atuar como interposta pessoa, na condição de mera mandatária da adquirente; da pessoa jurídica importadora, quando ela contratar esse serviço em seu próprio nome.
+SOLUÇÃO DE CONSULTA VINCULADA ÀS SOLUÇÕES DE CONSULTA COSIT Nº 257, DE 26 DE SETEMBRO DE 2015, E Nº 23, DE 7 DE MARÇO DE 2016.
+DISPOSITIVOS LEGAIS: Decreto-Lei nº 37, de 1966, art. 37, § 1º; Medida Provisória nº 2158-35, de 2001, art. 80; Lei nº 10.406, de 2002 (Código Civil), arts. 710, 730 e 744; Lei nº 12.546, de 2011, arts. 24 e 25; Lei nº 11.281, de 2006, art. 11; Lei nº 12.995, de 2014; Portarias Conjuntas RFB/SCS nº 1.908, de 2012, nº 1.895, de 2013, e nº 219, de 2016; Instruções Normativas SRF nº 225, de 2002, arts. 1º, parágrafo único, 2º, caput e 3º; nº 247, de 2002, arts. 12, 86 e 87; e nº 634, de 2006; e Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+IOLANDA MARIA BINS PERIN
+Chefe
+[arquivo anexo: SC SRRF10-Disit nº 10033-2016.pdf]
