@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “AGRAVO. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. INCLUSÃO DE EMPRESA DEVEDORA DE ICMS NO REGIME ESPECIAL DE FISCALIZAÇÃO.
+    A empresa apelante foi corretamente classificada como devedora contumaz à luz da legislação estadual de regência.
+    PRINCÍPIOS. ISONOMIA. LIVRE CONCORRÊNCIA. Os princípios da isonomia e da livre concorrência não respaldam práticas empresariais sem lisura. Artigos 150, II e 170, II, ambos da Constituição Federal, cujo escopo é equilibrar contribuintes em situação equivalente, permitindo a livre concorrência. Evasão fiscal que não pode beneficiar uma empresa em detrimento das demais.
+    CONSTITUCIONALIDADE. LEI ESTADUAL Nº 13.711/11 E REGULAMENTADO PELO DECRETO Nº 48.494/11.
+    Constitucionalidade do Regime Especial de Fiscalização. Ato impugnado no mandamus que obedeceu ao princípio da legalidade. Precedente do e. STJ nos autos do Resp nº 1.032.515-SP, da lavra da Ministra Eliana Calmon, entendendo pela possibilidade de ser instituído o regime impugnado. ADI 4854 em cujos atos não foi proferida qualquer decisão até o momento, permanecendo hígida a legislação estadual de regência.
+    AGRAVO DESPROVIDO. UNÂNIME.” (fl. 153)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, XIII, LIV, LV; 150, II; e 170, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, a inconstitucionalidade do Regime Especial de Fiscalização. (fls. 172-183)
+    A Primeira Vice-Presidência do TJRS inadmitiu o recurso com base na jurisprudência do STF.
+    É o relatório. Decido.
+    Inicialmente, ressalto que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não ostenta repercussão geral.
+    Confira-se, a propósito, a ementa do RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.8.2013:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    No mérito, convém ressaltar o assentado pelo Tribunal de origem:
+    “Tal é ocaso da apelante, em débito com o Fisco Estadual, tendo deixado de recolher o ICMS declarado em GIA nos moldes antes transcritos.
+    O artigo 150, II, da Constituição Federal impõe que não se institua tratamento desigual entre contribuintes que se encontrem em situação equivalente. Ora, uma empresa que é devedora contumaz não está em situação equivalente às demais. Além de não recolher os tributos como as outras, concorre no mercado com vantagem, pois pode praticar preços inferiores pela evasão fiscal que pratica. Com certeza, tampouco é este o escopo do artigo 170, II, da Constituição Federal, não sendo livre concorrência uma carta branca para práticas empresariais sem lisura.
+    Além disso, tenho que o Regime Especial de Fiscalização não possui a pecha de inconstitucionalidade, porquanto previsto em lei e devidamente regulamentado, tendo o ato impugnado no mandamus observado o princípio da legalidade.” (fl. 156)
+    Assim, constata-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, inclusive de índole local, o que inviabiliza o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Nesse sentido, cito os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. ICMS. Regime especial de fiscalização. Devedor contumaz. Alegada existência de sanção política e inviabilidade do exercício das atividades empresariais. Suscitada violação dos princípios da isonomia, do livre exercício de atividade profissional, da livre iniciativa e da livre concorrência. Necessidade de reexame da legislação infraconstitucional. 1. Para divergir do entendimento do Tribunal de origem no sentido de que o regime especial de fiscalização de devedor contumaz não viola os princípios da isonomia, do livre exercício de atividade profissional, da livre iniciativa e da livre concorrência, nem obsta o desempenho da livre atividade econômica, seria necessário o reexame da causa à luz da legislação infraconstitucional pertinente (Lei nº 13.711/11 e Decreto nº 48.494/11), o que não é permitido em sede de recurso extraordinário. 2. Agravo regimental não provido.” (ARE 837.436 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 03.05.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. REGIME ESPECIAL DE FISCALIZAÇÃO DE DEVEDOR CONTUMAZ. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DO REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 805.558 AgR. Rel. Min. Cármen Lúcia, Segunda Turma, DJe 13.06.2014)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 02 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
