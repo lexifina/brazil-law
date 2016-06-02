@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de agravo regimental interposto contra decisão do então relator, Min. Ayres Britto, que deu provimento ao recurso extraordinário ao seguinte fundamento:
+    “(...) Tenho que a insurgência merece acolhida. É que o Plenário do Supremo Tribunal Federal, ao apreciar a ADI 3.106 e o RE 573.540, em 14/04/2010, concluiu que os Estados-Membros não têm legitimidade para cobrar, de forma compulsória, contribuição destinada à saúde de seus servidores (Informativo STF 582).
+    Ante o exposto, e frente ao § 1º-A do art. 557 do CPC, dou provimento ao recurso. Ficam invertidos, no ponto, os ônus da sucumbência.” (fl. 108).
+    A parte ora agravante sustenta, em síntese, que (a) “(...) no RE 573.540/MG, em que a repercussão geral da matéria em debate foi reconhecida, restou assentado por essa Suprema Corte a inconstitucionalidade da contribuição compulsória dos servidores públicos estaduais para o custeio de serviços de assistência médico-hospitalar prestados pelos órgãos e entidades estatais. Mas não a inconstitucionalidade do serviço e da contribuição em si”(fl. 111); (b) (...) não restou demonstrado que o servidor está compulsoriamente vinculado ao chamado IPE-SAÚDE e que paga a contribuição mensal de 3,6% contra a sua vontade.”(fl. 112); (c) (...) à míngua de demonstração de pedido administrativo de desvinculação do plano de saúde estatal, não há o que restituir” (fl. 114).
+    2. A decisão ora agravada não merece subsistir, pois o recurso extraordinário não supera o juízo de admissibilidade. A discussão emergente do presente processo – a respeito da restituição dos valores pertinentes ao percentual de 3,6%, recolhido dos servidores inativos do Rio Grande do Sul e destinado especificamente à assistência à saúde - demanda exame de fatos, notadamente no que concerne à comprovação da existência de discordância dos funcionários quanto à cobrança do referido percentual. Aplica-se o óbice da Súmula 279/STF.
+    Veja-se o seguinte precedente:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL – IPERGS. 1. FUNDO DE ASSISTÊNCIA MÉDICA: AUSÊNCIA DE COMPULSORIEDADE. 2. RESTITUIÇÃO DE VALORES: IMPOSSIBILIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”(RE 614496 AgR, Relator(a):  Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 02/12/2010, DJe-020 DIVULG 31-01-2011 PUBLIC 01-02-2011 EMENT VOL-02454-07 PP-01641)
+    3. Diante do exposto, reconsidero a decisão de fls. 107/108 e nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 2 de junho de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
