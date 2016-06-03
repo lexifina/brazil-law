@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Trigésima Primeira Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “PRESTAÇÃO DE SERVIÇOS – TELEFONIA – INDENIZAÇÃO POR DANOS MORAIS – AUSÊNCIA DE PROVAS – SENTENÇA MANTIDA – RECURSO NÃO PROVIDO.
+    Considerando que a autora não trouxe elementos de prova a demonstrar os danos morais que alega ter sofrido com a conduta das rés, de rigor o afastamento do pedido compensatório.”
+    No recurso extraordinário, sustenta-se violação dos artigos 1º, inciso III, e 5º, incisos V e X, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere ao artigo 1º, inciso III, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, para acolher a pretensão da recorrente e divergir do entendimento firmado pelas instâncias de origem acerca da improcedência do pedido indenizatório em questão, seria necessário o reexame dos fatos e provas constantes dos autos, operação vedada no âmbito do recurso extraordinário. Incidência da Súmula nº 279 desta Suprema Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. DANOS MORAIS. AUSÊNCIA DE NEXO CAUSAL. REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 828.807/RJ-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 26/9/14).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. DANO MORAL. NEXO DE CAUSALIDADE. MONTANTE INDENIZATÓRIO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. ALEGADA VIOLAÇÃO AO ART. 5º, XXXVI, DA CONSTITUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO A QUE SE NEGA PROVIMENTO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido quanto à existência de nexo de causalidade a ensejar o dever de indenizar, bem como quanto ao montante indenizatório, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II - Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos para suprir essa omissão, é inviável o recurso, a teor da Súmula 356 desta Corte. III – Agravo regimental a que se nega provimento” (ARE nº 729.314/MG-AgR, Segunda Turma, Relator o Ministro Luiz Fux, DJe de 9/12/13).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. DANOS MORAIS E INDENIZAÇÃO COMPENSATÓRIA. 1. Turma recursal. Possibilidade de remissão, no acórdão, aos fundamentos da sentença. 2. Controvérsia decidida à luz do Código de Defesa do Consumidor, das provas dos autos e do contrato firmado pelas partes. Incidência das Súmulas n. 279 e 454 do Supremo Tribunal Federal. 3. Alegada contrariedade ao art. 5º, inc. XXXV, LIV e LV, da Constituição: ofensa constitucional indireta. 4. Agravo regimental ao qual se nega provimento” (ARE nº 682.317/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 1º/8/2012).
+          “Agravo regimental em recurso extraordinário com agravo. 2. Consumidor. Falha na prestação do serviço. Indenização por danos morais. Incidência do Enunciado 279 da Súmula do STF. 3. Agravo regimental a que se nega provimento” (ARE nº 685.480/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 1º/8/2012).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 3 de junho de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
