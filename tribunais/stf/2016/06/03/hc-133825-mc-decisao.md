@@ -1,0 +1,20 @@
+DECISÃO
+PAUTA – PUBLICAÇÃO – REPRESENTAÇÃO PROCESSUAL – INOBSERVÂNCIA.
+HABEAS CORPUS – SUSPENSÃO DO CUMPRIMENTO DA PENA – LIMINAR DEFERIDA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Conselho Especial de Justiça para o Exército, no processo nº 0000117-13.2010.7.11.0011, absolveu o paciente da suposta prática do delito versado no artigo 251, § 3º (estelionato em detrimento da administração militar), combinado com o 71 (crime continuado), do Código Penal, por inexistir prova suficiente para a condenação.
+    O Superior Tribunal Militar, ao prover a apelação formalizada pelo Ministério Público, condenou o paciente a 2 anos, 9 meses e 18 dias de reclusão, em regime inicialmente aberto, e à pena acessória de exclusão das Forças Armadas, aludindo ao artigo 102 do Código Penal Militar. Interpostos declaratórios, foram desprovidos em razão da impossibilidade de rediscussão de matéria probatória. Em seguida, foram protocolados embargos em embargos de declaração, visando-se o prequestionamento da matéria, desprovidos pelo Tribunal. Formalizou-se recurso extraordinário, sustentando-se a violação aos princípios da não culpabilidade e da dúvida favorável ao réu. O Relator negou seguimento ao recurso, afirmando ausente o requisito da repercussão geral.
+    No Supremo, agravo nº 932.965, arguiu-se a violação aos artigos 5º, incisos LV e LVIII, e 93, inciso IX, da Carta Federal. Vossa Excelência desproveu o recurso, assentando a impossibilidade do reexame de prova, considerado o verbete nº 279 da Súmula do Supremo. Consignou não se enquadrar a matéria na previsão do inciso III do artigo 102 da Lei Maior.
+    Neste habeas, o impetrante sustenta ter havido falha na publicação da decisão monocrática proferida por Vossa Excelência. Diz não ter sido observado o pedido veiculado em substabelecimento acerca da publicação em nome do impetrante, seguido da palavra “outros”. Aponta que a jurisprudência é no sentido da nulidade de notificações enviadas a patrono diverso do indicado na procuração, ainda que pertencente ao mesmo escritório. Ressalta que foi requerida a republicação do ato em razão do mencionado erro, encontrando-se pendente de apreciação.
+    Requer, no campo precário e efêmero, seja suspensa a aplicação das penas de prisão e expulsão das Forças Armadas até o julgamento definitivo da petição formalizada no agravo nº 932.965, com expedição de salvo-conduto.
+    Por meio da petição/STF nº 20.204/2016, o impetrante reitera o pedido de liminar e apresenta documentação reveladora da iminência de cumprimento da pena acessória de exclusão das Forças Armadas pelo comando do Exército Brasileiro.
+    Vossa Excelência, em 28 de abril de 2016, por meio de despacho veiculado no agravo nº 932.965, instou a Secretaria Judiciária a informar acerca da procedência do articulado, ou seja, de não haver consignado na intimação o nome do profissional da advocacia João Estenio Campelo.
+    Através de certidão, a Secretaria Judiciária revelou que, na autuação, constou apenas o nome do advogado Carlos Aureliano Motta de Souza.
+    A fase é de exame da medida acauteladora.
+    2. Percebam o requerido quanto às intimações, ante a transferência de poderes para representar o paciente. A petição mediante a qual juntado o substabelecimento data de 2 de dezembro de 2014, dia em que recebida pelo Cartório. A decisão que implicou o não conhecimento do agravo foi publicada no Diário de 2 de fevereiro de 2016, consignando-se o nome de substabelecido diverso do indicado no requerimento de preferência. Confira-se com a certidão da Secretaria Judiciária. O vício salta aos olhos.
+    3. Defiro a liminar para suspender, até o julgamento final do agravo nº 932.965, a execução das penas privativa de liberdade e de exclusão das Forças Armadas, impostas pelo Superior Tribunal Militar no processo nº 0000117-13.2010.7.11.0011.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 3 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
