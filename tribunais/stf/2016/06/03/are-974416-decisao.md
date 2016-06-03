@@ -1,0 +1,21 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela Universidade Federal de Alagoas contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “CONSTITUCIONAL. SISTEMA DE COTAS. NOTA COM INCENTIVO. CRITÉRIO REGIONAL. OFENSA AO PRINCÍPIO DA ISONOMIA.
+    1. Não há, em princípio, qualquer ilegalidade (inconstitucionalidade) no uso de critério social/econômico ou racial, para destinar parte das vagas disponíveis em universidade pública aos candidatos que atendam aos requisitos, como forma de promover a igualdade de oportunidade de acesso ao ensino.
+    2. Hipótese em que a bonificação estipulada em edital de concurso vestibular para ingresso à Universidade Federal de Alagoas tem como requisito haver o candidato cursado o ensino médio integralmente em cidade do interior daquele estado, o que fere a isonomia entre os candidatos ao certame, como no caso em exame, em que o impetrante é originário do Estado de Sergipe.
+    3. Remessa Oficial e apelação improvidas.”
+    A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário em questão revela-se insuscetível de conhecimento, eis que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula de edital, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contêm nas Súmulas 279/STF e 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal Regional Federal da 5ª Região, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático- -probatórios, e de cláusula de edital, a seguir destacados:
+    “O cerne da questão a ser dirimida diz respeito à legalidade do ato que indeferiu a matrícula do impetrante, no curso de graduação em letras, da Universidade Federal de Alagoas, em virtude de não haver ele comprovado que cursou o ensino médio integralmente no interior do Estado de Alagoas, como previa o item 5.2 do Edital nº 01/2010 (fls. 26).
+    Consta do referido item do edital a previsão de que os candidatos inscritos para os cursos ofertados pelos campi de Arapiraca ou Sertão, teriam sua nota final acrescida de 10% (dez por cento), desde que comprovado que cursaram o ensino médio integralmente em escolas do interior do Estado de Alagoas.
+    …...................................................................................................
+    No caso em exame, vê-se que o candidato logrou ser aprovado em 23ª colocação, dentro do número de vagas disponíveis (fls. 13), e comprova, à fls. 14, haver cursado integralmente o ensino médio em cidade do interior do Estado de Sergipe.”
+    Vê-se, portanto, que a pretensão deduzida pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 03 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
