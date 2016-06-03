@@ -1,0 +1,12 @@
+DECISÃO
+CONDENADO A REGIME SEMIABERTO – CUMPRIMENTO DE PENA PRIVATIVA DA LIBERDADE EM PRISÃO DOMICILIAR – AUSÊNCIA DE VAGA EM ESTABELECIMENTO PRISIONAL QUE ATENDA AOS REQUISITOS DA LEI DE EXECUÇÕES PENAIS – MATÉRIA JULGADA SOB O RITO DA REPERCUSSÃO GERAL – RECURSO PARCIALMENTE PROVIDO.
+    1. Afasto o sobrestamento determinado em 30 de setembro de 2013.
+    2. O Tribunal, no exame do recurso extraordinário nº 641.320/RS, relator o ministro Gilmar Mendes, julgado sob o ângulo da repercussão geral, deu-lhe parcial provimento para determinar que, havendo viabilidade, em vez da prisão domiciliar, fosse observada: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada do recorrido, enquanto em regime semiaberto; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao recorrido após progressão ao regime aberto. Alfim, assentou-se a possibilidade de deferir a prisão domiciliar ao sentenciado, até que fossem estruturadas as medidas alternativas versadas.
+    No entender do Plenário, a falta de penitenciária adequada não autorizaria a manutenção do condenado em regime prisional mais gravoso, podendo os juízes da execução penal avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificá-los.
+    Na oportunidade, limitei-me às balizas do acórdão e das razões do extraordinário interposto pelo Ministério Público para desprovê-lo, no que compus a corrente minoritária. Ressaltei a consonância da decisão proferida pelo Tribunal de origem com a jurisprudência do Supremo.
+    Este recurso veicula questão similar à levada ao Plenário em repercussão geral. O Tribunal de Justiça do Estado do Rio Grande do Sul determinou que, não existindo estabelecimento prisional apropriado destinado aos condenados no regime semiaberto, a reprimenda deveria ser cumprida em regime domiciliar. O Ministério Público, em extraordinário, pleiteia a reforma do pronunciamento, ante a necessidade de potencializar o interesse público, não passando o réu, fora das situações jurídicas previstas na Lei de Execuções Penais, ao regime domiciliar.
+    3. Considerado o recente precedente, e ressalvada a óptica pessoal, conheço do agravo para provê-lo parcialmente, nos termos do decidido pelo Plenário no recurso extraordinário nº 641.320/RS.
+    4. Publiquem.
+Brasília, 3 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
