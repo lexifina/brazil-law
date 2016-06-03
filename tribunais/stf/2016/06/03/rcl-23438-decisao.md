@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido liminar, ajuizada por Telefônica Brasil S.A. em face do Juiz Presidente do Colégio Recursal - Marília/SP, cuja decisão teria usurpado a competência do Supremo Tribunal Federal para conhecer e julgar agravo interposto contra decisão que inadmitiu recurso extraordinário.
+    No caso dos autos, tem-se que:
+    a) a antecipação de tutela do pedido formulado na Ação declaratória de inexistência de débito cumulado com danos morais nº 0000702-03.2015.8.26.0201 foi mantida em sede de agravo e instrumento, o que deu ensejo à interposição de recurso extraordinário;
+    b) negou-se seguimento ao referido recurso extraordinário pelo reconhecimento de que sobre a matéria já se pronunciara o STF de acordo com a sistemática da repercussão geral (Tema nº 7), o que motivou a interposição do agravo cujo envio a esta Suprema Corte se pretende por meio desta reclamatória.
+    Defende que há usurpação da competência do STF, uma vez que “somente esta Corte Suprema tem competência para julgar questões envolvendo recursos contra decisão denegatória de Recurso Extraordinário”. Alega, ainda, violação à Súmula 727/STF.
+    Pede a suspensão, em caráter liminar, do processo de origem e, alfim, a procedência da reclamação para determinar o envio do recurso para exame pelo STF.
+    É o relatório. Decido.
+    I – O caso dos autos
+    A presente reclamação, embora ajuizada 21/3/2016 (quando vigente o Novo CPC), diz respeito à competência do STF para julgar recurso de agravo contra juízo negativo de admissibilidade de recurso extraordinário pelo órgão a quo interposto sob a vigência do CPC/1973, portanto regulamentado pelo art. 544 da Lei 5.869/1973, com a redação dada pela Lei nº 12.322/2010, in verbis:
+    “Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo nos próprios autos, no prazo de 10 (dez) dias.”
+    A circunstância de a presente reclamação ter como objeto recurso regulamentado pelo CPC/73, entretanto, não interfere na solução da demanda, porquanto a jurisprudência desta Suprema Corte firmou-se, ainda sob a égide do diploma legal revogado, no sentido de não admitir o agravo do art. 544 ou a reclamação, como instrumentos destinados a questionar a aplicação, pelo órgão de origem, do entendimento do STF em observância à sistemática da repercussão geral, salvo, quanto à reclamação, em casos excepcionais.
+    Saliente-se que o novo código apenas sistematiza o instituto da reclamação de modo a não deixar dúvidas quanto a sua hipótese de cabimento. Vejamos:
+    a) há ressalva quanto ao cabimento de recurso de agravo contra decisão do órgão de origem que, fundada em entendimento firmado em regime de repercussão geral, não admite recurso extraordinário (parte final do caput do art. 1.042 do Novo CPC);
+    b) há previsão expressa quanto ao cabimento de “agravo interno” contra decisão que inadmite, na origem, recurso extraordinário com fundamento em repercussão geral (art. 1.030, §2º, do CPC/2015), cuja competência para julgamento é do órgão colegiado ao qual pertence o juízo prolator da decisão, conforme art. 1.021, caput, do Novo CPC.
+    Não há que se falar, portanto, em competência desta Suprema Corte para julgar agravo interposto contra despacho do órgão a quo (tribunal ou colégio recursal) que inadmite o recurso extraordinário com fundamento em tese firmada segundo a sistemática da repercussão geral.
+    Ademais, ainda que houvesse falar em erronia da decisão recorrida, inaplicabilidade da tese de repercussão geral ou superação do precedente, caberia ao reclamante promover a distinção no órgão a quo para, acaso negado provimento ao agravo interno e efetivamente demonstrado o fundamento de admissibilidade da reclamação constitucional, instaurar-se, de forma válida, a competência originária desta Suprema Corte em sede reclamatória; e não se valer da presente reclamação como atalho processual ou sucedâneo do recurso cabível.
+    No sentido de não se admitir o uso da reclamação constitucional como instrumento destinado a questionar a aplicação, pelo órgão de origem, do entendimento do STF em observância à sistemática da repercussão geral, vide precedentes construídos sob a égide do diploma processual revogado aplicáveis à hipótese dos autos:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECLAMAÇÃO. DECISÃO QUE APLICA O REGIME DA REPERCUSSÃO GERAL A RECURSO EXTRAORDINÁRIO. 1. A jurisprudência desta Corte firmou-se no sentido de que a decisão de origem que aplica o regime da repercussão geral a recurso extraordinário só é impugnável por meio de agravo interno no âmbito do próprio órgão de origem. 2. São inviáveis, nessa hipótese, a interposição do agravo do art. 544 do CPC ou a reclamação constitucional. 3. Agravo regimental ao qual se nega provimento” (Rcl nº 19.039/RJ-AgR, Relator Min. Roberto Barroso, Primeira Turma, DJe de 24/2/16).
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO STF. INADMISSIBILIDADE. PRECEDENTES. 1. Não se admite reclamação contra decisão que, nos tribunais de origem, aplica a sistemática da repercussão geral, ressalvada a hipótese de negativa de retratação. Precedentes. 2. Agravo regimental a que se nega provimento” (Rcl nº 22.640/DF-agR, Relator o Ministro Teori Zavascki, Segunda Turma, DJe de 24/2/16).
+    II - Dispositivo
+    Ante o exposto, nego seguimento à reclamação, nos termos do art. 21, §1º, do RI/STF, prejudicada a análise do pedido liminar.
+    Publique-se. Int..
+    Brasília, 3 de junho de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
