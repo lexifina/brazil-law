@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CITAÇÃO POR EDITAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO NA PARTE CONHECIDA.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “APELAÇÃO CÍVEL. AÇÃO DECLARATORIA DE NULIDADE. QUERELA NULITATIS. PRELIMINAR. NÃO CONHECIMENTO DOS RECURSOS. IMPUGNAÇÃO ESPECÍFICA. REJEIÇÃO. USUCAPIÃO. CITAÇÃO EDITALÍCIA. NÃO ESGOTAMENTO DOS MEIOS PARA ENCONTRAR A PARTE RÉ. AUSÊNCIA DE PRESSUPOSTO PROCESSUAL. NULIDADE. SENTENÇA CASSADA. ANULAÇÃO PARCIAL DO PROCESSO”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. No recurso extraordinário, os Agravantes alegam contrariado o art. 5º, incs. II e XXXV, da Constituição da República.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de incidência da Súmula n. 282 do Supremo Tribunal Federal e de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Cumpre afastar o fundamento da decisão agravada de incidência da Súmula n. 282 do Supremo Tribunal Federal, por ter sido a matéria prequestionada no momento processual adequado.
+    A superação desse fundamento, todavia, não é suficiente para o acolhimento da pretensão dos Agravantes, não lhes assistindo razão jurídica.
+    5. A alegação de inobservância do art. 5º, inc. II, da Constituição da República não prospera porque seria imprescindível a análise prévia da legislação infraconstitucional, em afronta à Súmula n. 636 do Supremo Tribunal Federal, na qual se dispõe não caber “recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”, como ocorre na espécie vertente (Código de Processo Civil). Assim, por exemplo:
+    “Recurso extraordinário: descabimento: questão relativa ao pagamento de horas in itinere decidida pelo acórdão recorrido à luz da legislação infraconstitucional: incidência, mutatis mutandis, da Súmula 636; inocorrência de negativa de prestação jurisdicional ou violação dos princípios constitucionais apontados no recurso extraordinário” (AI n. 233.548-AgR, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 18.3.2005).
+    “Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI n. 745.965-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 26.6.2011).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE E DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE EXAME PRÉVIO DE NORMAS INFRACONSTITUCIONAIS. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ” (RE n. 631.736-ED, de minha relatoria, Primeira Turma, DJe 8.4.2011).
+    6. A apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Código de Processo Civil). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário:
+    “PROCESSUAL CIVIL. MATÉRIA INFRACONSTITUCIONAL: IMPOSSIBILIDADE DE DEBATE PELA VIA EXTRAORDINÁRIA. VIOLAÇÃO AO ART. 5º, XXXV, LIV e LV, CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. 1. A questão relativa ao cabimento ou não da citação por edital na execução fiscal somente após o esgotamento dos meios processuais disponíveis para a localização do devedor configura mera ofensa indireta ao texto constitucional, o que inviabiliza a via extraordinária. 2. Agravo regimental improvido” (AI n. 748.075-AgR, Relatora a Ministra Ellen Gracie, Segunda Turma, DJe 29.10.2009).
+    Nada há a prover quanto às alegações dos Agravantes.
+    7. Pelo exposto, nego provimento ao presente agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
