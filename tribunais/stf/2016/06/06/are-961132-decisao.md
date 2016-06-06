@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. INCIDÊNCIA DO IMPOSTO DE RENDA SOBRE AUXÍLIO-CRECHE. NATUREZA JURÍDICA DO BENEFÍCIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado da Segunda Turma Recursal da Justiça Federal do Rio de Janeiro:
+    “TRIBUTÁRIO. IMPOSTO DE RENDA INCIDENTE SOBRE AUXÍLIO-CRECHE OU PRÉ-ESCOLAR. NATUREZA INDENIZATÓRIA. IMPOSSIBILIDADE. ENTENDIMENTO FIRMADO PELO STJ. SENTENÇA MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E IMPROVIDO”.
+    2. A Agravante alega contrariado o art. 153, incs. I e III, § 2º, da Constituição da República.
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4.  Razão jurídica não assiste à Agravante.
+    5. O Supremo Tribunal Federal assentou que a discussão sobre a natureza jurídica de benefício, para verificação de incidência de imposto de renda, inviabiliza a interposição de recurso extraordinário, pois eventual ofensa constitucional seria indireta:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. NATUREZA DE AJUDA DE CUSTO E DE GABINETE. INCIDÊNCIA DE IMPOSTO DE RENDA. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 596.518-AgR/AL, de minha relatoria, Primeira Turma, DJe 15.10.2009).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA. MATÉRIA INFRACONSTITUCIONAL. 1.Para dissentir-se do acórdão impugnado quanto ao caráter da verba percebida --- indenizatória ou remuneratória --- seria necessária a análise da legislação infraconstitucional que disciplina a espécie. Agravo regimental a que se nega provimento” (RE n. 344.021-AgR/RJ, Relator o Ministro Eros Grau, Segunda Turma, DJe 31.7.2008).
+    Em casos semelhantes, o Plenário Virtual do Supremo Tribunal Federal decidiu:
+    “TRIBUTÁRIO E CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DE IMPOSTO DE RENDA SOBRE O ABONO DE PERMANÊNCIA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL (ART. 543-A DO CPC). 1. A controvérsia a respeito da incidência do imposto de renda sobre as verbas percebidas a título de abono de permanência é de natureza infraconstitucional, não havendo, portanto, matéria constitucional a ser analisada (ARE 665800 AgR, de minha relatoria, Segunda Turma, DJe de 20/08/2013; ARE 691857 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, Dje 19/09/2012; ARE 662017 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 03/08/2012; ARE 646358 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 15/05/2012). 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC” (RE n. 688.001-RG/RS, Relator o Ministro Teori Zavascki, DJe 14.11.2013).
+    “RECURSO. Extraordinário. Incognoscibilidade. Rescisão de contrato de trabalho. Verbas rescisórias. Natureza jurídica. Definição para fins de incidência de Imposto de Renda. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a definição da natureza jurídica de verbas rescisórias (salarial ou indenizatória), para fins de incidência de Imposto de Renda, versa sobre matéria infraconstitucional” (AI n. 705.941-RG/SP, Relator o Ministro Cezar Peluso, DJe 22.4.2010).
+    6. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
