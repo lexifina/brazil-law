@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 5ª Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. AGENTE PENITENCIÁRIO. PROVA DE CONHECIMENTO. MÍNIMO DE 30 ACERTOS. CANDIDATA ELIMINADA. OBSERVÂNCIA DAS NORMAS EDITALÍCIAS. QUESTÕES ABRANGIDAS PELO CONTEÚDO PROGRAMÁTICO DO EDITAL. AUSÊNCIA DE ILEGALIDADE. RECURSO CONHECIDO E DESPROVIDO.
+    A competência do Poder judiciário se limita ao exame da legalidade das normas instituídas no edital e dos atos praticados na realização do concurso, sendo vedado o exame de questões das provas e de notas atribuídas aos candidatos, matérias cuja responsabilidade é da banca examinadora.
+    A análise da relação de pertinência entre a questão formulada e o conteúdo programático do edital não configura ingresso no mérito da correção realizada pela Banca Examinadora, por dizer respeito ao cumprimento do Princípio da Legalidade e da Vinculação ao Edital.
+    As questões impugnadas estão abrangidas pelo conteúdo programático do edital, no item atualidades.
+    Embora, muitas vezes, os temas atuais e relevantes possuam vinculação histórica, isso não lhes retira a natureza de atualidade.”
+    No recurso extraordinário, sustenta-se violação do artigo 37 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que para entender de forma diversa do assentado pelo acórdão recorrido faz-se imprescindível a análise das cláusulas do edital do certame e a revisão dos fatos e provas presentes nos autos, providências vedadas em sede de recurso extraordinário. Incidência, na espécie, das Súmulas nºs 279 e 454 do STF. Sobre o tema:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. EDITAL. CONTEÚDO PROGRAMÁTICO. PREVISÃO NO EDITAL. SÚMULA Nº 279 DO STF. VALORIZAÇÃO DA CORREÇÃO. PODER JUDICIÁRIO. IMPOSSIBILIDADE TEMA Nº 485 DA REPERCUSSÃO GERAL. RE 632.853. AGRAVO REGIMENTAL DESPROVIDO” (ARE nº 639.311/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 26/8/15).
+    “Agravo regimental no recurso extraordinário com agravo. Direito administrativo. Concurso público. Prova objetiva. Questões em desconformidade com o conteúdo programático constante no instrumento convocatório do certame. Anulação. Possibilidade. Fatos e provas. Reexame. Cláusulas editalícias. Análise. Impossibilidade. Precedentes. 1. A jurisprudência do Supremo Tribunal Federal é no sentido da possibilidade do controle jurisdicional da legalidade do concurso público quando verificado o descompasso entre as questões cobradas em prova e o conteúdo programático descrito no edital. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a interpretação das cláusulas do edital do certame. Incidência das Súmulas nºs 279 e 454/STF. 3. Agravo regimental não provido” (ARE nº 839.653/RO-AgR, Segunda Turma, de minha relatoria, DJe de 19/6/15).
+    “AGRAVO REGIMENTAL. CONCURSO PÚBLICO. ILEGALIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 279. AGRAVO DESPROVIDO. Não é possível, na via extraordinária, o reexame de fatos e provas do processo, ante o óbice consagrado pelo enunciado da Súmula 279 deste Supremo Tribunal Federal” (AI nº 558.199/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia , DJe de 9/2/07).
+    “AGRAVO REGIMENTAL. CONCURSO PÚBLICO. PROVA DE TÍTULOS. CARÁTER ELIMINATÓRIO. REGRA CONSTANTE DO EDITAL. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. REEXAME DE FATOS E PROVAS. Os requisitos estabelecidos em edital de concurso constituem matéria de âmbito infraconstitucional. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição Federal. Reexame de fatos e provas vedado pela Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI nº 521.421/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa , DJe de 22/9/06).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 6 de junho de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
