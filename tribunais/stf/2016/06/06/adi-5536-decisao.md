@@ -1,0 +1,15 @@
+Despacho: Trata-se de Ação Direta de Inconstitucionalidade, com pedido de medida cautelar, ajuizada pelo Procurador-Geral da República para impugnar a validade constitucional do art. 115, caput e §§ 1º e 3º, da Constituição do Estado do Amazonas, na redação dada pela Emenda 82/2013.
+    Inicialmente, o requerente aponta vício de constitucionalidade formal subjetivo, uma vez que a matéria ventilada é de iniciativa legislativa privativa do chefe do Poder Executivo (CF/88, art. 61, § 1º, II), e, por isso, a emenda em análise não poderia ter se originado no âmbito do Poder Legislativo.
+    No que respeita aos aspectos materiais, o requerente afirma que a alteração realizada pela referida emenda à Constituição estadual – que confere à carreira de delegado de polícia natureza jurídica e isonomia de tratamento e de prerrogativas com as demais carreiras jurídicas, notadamente com a da magistratura e a do Ministério Público – viola os princípios da finalidade e da eficiência (CF/88, art. 37, caput), bem como as definições de polícia e as funções constitucionais do Ministério Público, contidas, respectivamente, nos arts. 144, § 6º, e 129, I, VII e VIII, da Constituição federal.
+    Cita precedentes desta Corte no sentido de que o cargo de delegado de polícia, à luz das competências constitucionais que lhe foram asseguradas, não possui natureza jurídica.
+    Aduz que a Constituição federal, em seu art. 144, não atribuiu à carreira de delegado de polícia as prerrogativas de vitaliciedade, inamovibilidade e independência funcional nem demais garantias previstas para a magistratura e para o Ministério Público. Afirma que houve silêncio eloquente do constituinte originário, não lacuna normativa, e que tal disciplina deve ser observada pelas Constituições Estaduais, em decorrência do princípio da simetria.
+    Acrescenta que, ao conferir independência funcional aos delegados de polícia, a emenda afronta a atribuição constitucional do Ministério Público para realizar o controle externo da atividade policial e que permitir aos delegados juízo de livre convicção sobre os fatos em investigação interfere na exclusiva iniciativa da ação penal cometida ao Ministério Público, além de poder dar azo a desvios de finalidade, ineficiência na ação estatal e tumulto processual.
+    Por fim, requer o deferimento de medida cautelar e, no mérito, a procedência da ação, para declarar a inconstitucionalidade da Emenda 23/2013 à Constituição do Estado do Amazonas.
+    Diante da relevância da matéria constitucional suscitada e de seu especial significado para a ordem social e a segurança jurídica, mostra-se adequada a adoção do rito do art. 12 da Lei 9.868/99, pelo que determino:
+    a) solicitem-se as informações, a serem prestadas pela Assembleia Legislativa local no prazo de 10 (dez) dias; e
+    b) em seguida, remetam-se os autos ao Advogado-Geral da União e ao Procurador-Geral da República, sucessivamente, no prazo de 5 (cinco) dias, para a devida manifestação.
+    Publique-se. Intime-se.
+    Brasília, 6 de junho de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
