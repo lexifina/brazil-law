@@ -1,0 +1,22 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Banco Itaú Veículos S/A contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Sergipe, está assim ementado:
+    “CONSTITUCIONAL E CIVIL – AÇÃO DE REVISÃO CONTRATUAL – FINANCIAMENTO DE VEÍCULO – APLICABILIDADE DO CDC – CAPITALIZAÇÃO DE JUROS – TAC – HONORÁRIOS ADVOCATÍCIOS – ÔNUS SUCUMBENCIAL.
+    I – Não há que se questionar a possibilidade de enfrentamento pelo Judiciário quanto a abusividade ou não das cláusulas contratuais, independentemente da ocorrência de fatos excepcionais e imprevistos, com fundamento no Pacta Sunt Servanda, como almeja o Banco réu;
+    II – Ainda que pactuada a capitalização de juros em periodicidade mensal, não deve ser aplicada sua incidência, tal como bem consignado no ‘decisum’;
+    III – Sendo o contrato posterior à 30 de Abril de 2008, é devido concluir pela ilegalidade da TAC, razão pela qual não merece reforma o julgado, neste ponto;
+    IV – Analisando os parâmetros legais, que não dizem respeito apenas à natureza e complexidade da causa, mas também ao trabalho desempenhado pelo advogado da parte, bem como à duração do processo, entendo como razoável manter o valor dos honorários advocatícios fixados pelo juízo ‘a quo’ em 10% do valor do contrato;
+    V – Face a sucumbência da instituição financeira ter sido muito mais expressiva que a do autor, deve ser reformado o ônus sucumbencial, para condenar as partes ao pagamento das custas processuais e honorários advocatícios, na proporção de 80% para o banco e 20% para o autor;
+    VI – Conheço do apelo do Banco, para dar-lhe parcial provimento.”
+    A parte recorrente, ao deduzir o presente apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 592.377/RS, Red. p/ o acórdão Min. TEORI ZAVASCKI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “CONSTITUCIONAL. ART. 5º DA MP 2.170/01. CAPITALIZAÇÃO DE JUROS COM PERIODICIDADE INFERIOR A UM ANO. REQUISITOS NECESSÁRIOS PARA EDIÇÃO DE MEDIDA PROVISÓRIA. SINDICABILIDADE PELO PODER JUDICIÁRIO. ESCRUTÍNIO ESTRITO. AUSÊNCIA, NO CASO, DE ELEMENTOS SUFICIENTES PARA NEGÁ-LOS. RECURSO PROVIDO.
+    1. A jurisprudência da Suprema Corte está consolidada no sentido de que, conquanto os pressupostos para a edição de medidas provisórias se exponham ao controle judicial, o escrutínio a ser feito neste particular tem domínio estrito, justificando-se a invalidação da iniciativa presidencial apenas quando atestada a inexistência cabal de relevância e de urgência.
+    2. Não se pode negar que o tema tratado pelo art. 5º da MP 2.170/01 é relevante, porquanto o tratamento normativo dos juros é matéria extremamente sensível para a estruturação do sistema bancário, e, consequentemente, para assegurar estabilidade à dinâmica da vida econômica do país.
+    3. Por outro lado, a urgência para a edição do ato também não pode ser rechaçada, ainda mais em se considerando que, para tal, seria indispensável fazer juízo sobre a realidade econômica existente à época, ou seja, há quinze anos passados.
+    4. Recurso extraordinário provido.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC/15, art. 932, VIII e RISTF, art. 21, § 1º), invertidos, no ponto, os ônus da sucumbência.
+    Ressalvo, no entanto, quanto aos encargos resultantes da sucumbência, a hipótese de ser, a parte vencida, eventual beneficiária da gratuidade, caso em que lhe será aplicável a cláusula de exoneração prevista na Lei nº 1.060/50 (art. 3º), observando-se, no que couber, a norma inscrita no art. 12 desse mesmo diploma legislativo, cuja incidência foi reputada compatível com o que dispõe o art. 5º, LXXIV, da Constituição da República (RE 184.841/DF, Rel. Min. SEPÚLVEDA PERTENCE).
+    Publique-se.
+    Brasília, 06 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
