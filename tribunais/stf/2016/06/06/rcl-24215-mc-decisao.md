@@ -1,0 +1,61 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, ajuizada contra decisão que, emanada da Presidência das Turmas Recursais dos Juizados Especiais Federais da Seção Judiciária do Estado do Rio Grande do Sul (Processo nº 5060335-97.2014.4.04.7100/RS), está assim fundamentada:
+    “Trata-se de ação em que se discute contribuição previdenciária sobre o terço constitucional de férias de empregado celetista.
+    O recurso extraordinário é tempestivo, houve o devido prequestionamento da matéria constitucional e a controvérsia é exclusivamente jurídica. Além disso, o recorrente apresentou preliminar formal de repercussão geral.
+    E, analisando o Informativo nº 776 do STF (2 a 6 de março de 2015), verifico que o eminente Ministro Relator do RE 593.068, paradigma do Tema 163 da Repercussão Geral (Contribuição previdenciária sobre o terço constitucional de férias, a gratificação natalina, os serviços extraordinários, o adicional noturno e o adicional de insalubridade), manifestou que, ‘embora vários dispositivos fizessem menção ao regime próprio e ao regime geral, seu voto estaria focado apenas no regime próprio dos servidores públicos’.
+    Assim, foram enviados ao STF recursos extraordinários que versam sobre o caso específico dos celetistas, processos 50026156420134047115 (concluso com Ministro Barroso – RE 908949), 50387034920134047100 (Rejeitado pelo Ministro Marco Aurélio) e 50000358120154047118/RS (Rejeitado pelo Ministro Marco Aurélio).
+    Portanto, de acordo com o art. 14 da Lei nº 10.259/2001, correlacionado com o artigo 24, § 4º, do Regimento Interno das Turmas Recursais e da Turma Regional de Uniformização da 4ª Região, artigo 1.030 do Código de Processo Civil (Lei nº 13.105/2015, alterada pela Lei nº 13.256/2016), o presente processo deverá ficar sobrestado aguardando o julgamento do precedente.” (grifei)
+    A parte reclamante alega que o órgão judiciário em questão teria incidido em comportamento usurpador da competência desta Suprema Corte, sustentando, em síntese, o que se segue:
+    “A Reclamante ajuizou ação ordinária objetivando, em breve síntese, a declaração da inexistência da relação jurídico-tributária que submeta a Autora ao recolhimento da contribuição previdenciária incidente sobre o terço constitucional de férias gozadas.
+    A contribuinte é vinculada ao REGIME GERAL DA PREVIDÊNCIA SOCIAL, ou seja, empregada celetista com CTPS devidamente registrada pelo empregador.
+    Processado o feito, sobreveio sentença de procedência a qual restou confirmada pela Turma Recursal.
+    A União Federal interpôs recurso extraordinário.
+    Após os trâmites legais, sobreveio decisão – ora reclamada – determinando o SOBRESTAMENTO DO FEITO COM BASE NA REPERCUSSÃO GERAL DO RE 593.068.
+    Ocorre que, data máxima vênia, INEXISTE SIMILITUDE ENTRE AS QUESTÕES JURÍDICAS VERSADAS NO RE N. 593.068/SC, porquanto a neste último recurso tratar-se apenas de servidor público federal tendo como base o art. 40 da Constituição da República (Regime Próprio de Previdência Social), o que não é o caso dos autos.
+    Resta incontroverso, no caso dos autos, o sobrestamento precoce do feito sem qualquer vínculo de mérito.
+    Por outro lado, cabe destacar, igualmente, que a Turma Recursal entrou na própria esfera de competência do STF ao realizar a apreciação ou não da existência de repercussão geral no recurso extraordinário, competência esta exclusiva do STF conforme previsto no § 2º do artigo 543-A do CPC.
+    Diante desses fatos, a Reclamante requer a análise, o conhecimento e provimento da ação ao efeito de determinar o regular exame do mérito diante da ausência de vínculo de mérito com a repercussão geral apontada.” (grifei)
+    Sendo esse o contexto, passo a apreciar, inicialmente, questão de índole formal por mim constatada na presente causa.
+    E, ao fazê-lo, observo, desde logo, que a procuração produzida nestes autos refere-se a outro processo que se instaurou perante o Juizado Especial Federal da Seção Judiciária do Estado do Rio Grande do Sul.
+    A jurisprudência do Supremo Tribunal Federal, em situações como a ora em exame, tem exigido que se produza, especificamente, nos autos da ação reclamatória, um novo instrumento de mandato judicial  (Rcl 3.649/DF, Rel. Min. JOAQUIM BARBOSA – Rcl 5.293/DF, Rel. Min. CÁRMEN LÚCIA – Rcl 20.830/RO, Rel. Min. MARCO AURÉLIO – Rcl 22.450/RS, Rel. Min. MARCO AURÉLIO – Rcl 23.199/PR, Rel. Min. MARCO AURÉLIO – Rcl 23.230-MC/RJ, Rel. Min. CELSO DE MELLO, v.g.).
+    Revelar-se-ia pertinente, desse modo, a intimação da parte reclamante para a regularização da sua representação processual, sob pena de extinção do processo sem resolução de mérito (CPC/15, art. 76, § 1º, inciso I, c/c o art. 485, inciso IV).
+    Deixo de ordenar, no entanto, a providência acima referida, considerada a absoluta inadmissibilidade da presente reclamação.
+    É que a jurisprudência do Supremo Tribunal Federal firmada sob a égide do Código de Processo Civil de 1973 orientava-se no sentido da inviabilidade do recurso de agravo ou da reclamação, quando se tratasse de decisão que fizesse incidir o regime jurídico disciplinador do instituto da repercussão geral, fosse nos casos de reconhecimento da transcendência da controvérsia constitucional (AI 760.358-QO/SE, Rel. Min. GILMAR MENDES – Rcl 16.004-AgR/PB, Rel. Min. CÁRMEN LÚCIA – Rcl 16.349- -AgR/RN, Rel. Min. CELSO DE MELLO, v.g.), fosse naquelas situações de ausência desse pré-requisito de admissibilidade do recurso extraordinário (Rcl 12.351-AgR/DF, Rel. Min. GILMAR MENDES – Rcl 17.323-AgR/GO, Rel. Min. ROSA WEBER – Rcl 19.060-AgR/SP, Rel. Min. ROBERTO BARROSO, v.g.):
+    “A reclamação não constitui instrumento processual adequado para questionar o acerto de decisão do Tribunal de origem que, tendo em vista a ausência de repercussão geral firmada no âmbito desta Suprema Corte, e com suporte no art. 543-B, § 2º, do CPC, considera inadmitido recurso extraordinário. Precedentes.
+    Agravo regimental conhecido e não provido.”
+    (Rcl 14.278-AgR/SP, Rel. Min. ROSA WEBER – grifei)
+    “1. O Plenário desta Corte firmou o entendimento de que não cabe recurso ou reclamação ao Supremo Tribunal Federal para rever decisão do Tribunal de origem que aplica a sistemática da repercussão geral, a menos que haja negativa motivada do juiz em se retratar para seguir a decisão da Suprema Corte. Precedentes.
+    2. Agravo regimental a que se nega provimento.”
+    (Rcl 15.165-AgR/MT, Rel. Min. TEORI ZAVASCKI, Pleno – grifei)
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. EXECUÇÕES FISCAIS DE BAIXO VALOR. DECISÃO- -PARADIGMA PROFERIDA EM RECURSO JULGADO COM REPERCUSSÃO GERAL. 1. As decisões proferidas em sede de recurso extraordinário, ainda que em regime de repercussão geral, não geram efeitos vinculantes aptos a ensejar o cabimento de reclamação, que não serve como sucedâneo recursal. 2. Agravo regimental a que se nega provimento.”
+    (Rcl 17.512-AgR/SP, Rel. Min. ROBERTO BARROSO – grifei)
+    Também se mostrava inadmissível a reclamação, na linha da diretriz jurisprudencial estabelecida pelo Supremo Tribunal Federal (Rcl 10.449- -AgR/SE, Rel. Min. DIAS TOFFOLI – Rcl 11.375-AgR/DF, Rel. Min. ROSA WEBER, v.g.), nas hipóteses em que a decisão reclamada, aplicando a sistemática da repercussão geral, determinava o sobrestamento do recurso extraordinário (CPC/73, art. 543-B):
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. SOBRESTAMENTO DO APELO EXTREMO PELA CORTE DE ORIGEM. OBSERVÂNCIA DA SISTEMÁTICA DA REPERCUSSÃO GERAL. INVIABILIDADE DA RECLAMAÇÃO.
+    A reclamação não constitui instrumento processual adequado para questionar o acerto de determinação do Tribunal de origem que sobrestou recurso extraordinário na forma do artigo 543-B do Código de Processo Civil.
+    Agravo regimental conhecido e não provido.”
+    (Rcl 11.418-AgR/DF, Rel. Min. ROSA WEBER – grifei)
+    Ocorre, no entanto, que, com o advento do novo estatuto processual civil (CPC/15), vigente e eficaz a partir de 18/03/2016, inclusive, passou-se a admitir o instituto da reclamação na hipótese em que o ato reclamado deixa de observar acórdão do Supremo Tribunal Federal proferido em sede “de recurso extraordinário com repercussão geral reconhecida”, desde que esgotadas as instâncias meramente ordinárias (CPC/15, art. 988, § 5º, II, na redação dada pela Lei nº 13.256/2016).
+    Assim delineado o quadro normativo pertinente à reclamação nos casos em que há específica alegação de que a decisão impugnada teria deixado de observar acórdão desta Suprema Corte proferido em julgamento de recurso extraordinário com repercussão geral reconhecida, impende verificar se, na situação ora exposta nestes autos, registra-se, ou não, a hipótese prevista no art. 988, § 5º, inciso II, do CPC/15, na redação dada pela Lei nº 13.256/2016.
+    O exame destes autos e dos documentos que os instruem evidencia que, no caso ora em análise, não houve o esgotamento das instâncias ordinárias, o que torna inadmissível a reclamação em causa.
+    Cumpre ressaltar, finalmente, em face da ausência, na espécie, dos pressupostos que poderiam legitimar o ajuizamento da reclamação, que este remédio constitucional não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto desta Suprema Corte.
+    É que a reclamação – constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, “l”, da Carta Política (RTJ 134/1033) – não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tais finalidades revelam-se estranhas à destinação constitucional subjacente à instituição dessa medida processual, consoante adverte a jurisprudência do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO EM RECLAMAÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. AUSÊNCIA DE ARGUMENTOS NOVOS. RECLAMAÇÃO UTILIZADA COMO SUCEDÂNEO RECURSAL. INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    .......................................................................................................
+    3. O instituto da Reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo ‘a quo’.
+    .......................................................................................................
+    5. Agravo regimental não provido.”
+    (Rcl 5.465-ED/ES, Rel. Min. CÁRMEN LÚCIA, Pleno – grifei)
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. A RECLAMAÇÃO NÃO É SUCEDÂNEO DE RECURSO PRÓPRIO. RECURSO IMPROVIDO.
+    I – A reclamação constitucional não pode ser utilizada como sucedâneo de recurso próprio para conferir eficácia à jurisdição invocada nos autos da decisão de mérito.
+    .......................................................................................................
+    III – Reclamação improcedente.
+    IV – Agravo regimental improvido.”
+    (Rcl 5.684-AgR/PE, Rel. Min. RICARDO LEWANDOWSKI, Pleno – grifei)
+    “(…) – O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. (…).”
+    (Rcl 6.534-AgR/MA, Rel. Min. CELSO DE MELLO, Pleno)
+    Sendo assim, em face das razões expostas, e considerando, ainda, precedentes específicos sobre a matéria em análise (Rcl 23.951/RS, Rel. Min. EDSON FACHIN – Rcl 24.180/RS, Rel. Min. ROSA WEBER – Rcl 24.203/RS, Rel. Min. ROSA WEBER – Rcl 24.212/RS, Rel. Min. EDSON FACHIN, v.g.), não conheço da presente reclamação, restando prejudicado, em consequência, o exame do pedido de medida liminar (CPC/15, art. 932, VIII, c/c o RISTF, art. 21, § 1º).
+    2. Defiro o pretendido benefício da gratuidade, tendo em vista a afirmação que a parte autora fez nos termos e para os fins a que se refere a legislação processual (CPC/15, arts. 98 e 99, “caput” e §§ 3º e 4º, c/c o RISTF, art. 21, XIX).
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 06 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
