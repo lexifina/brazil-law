@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “Apelação cível. Previdência privada. Fundação BRTPREV. Pedido de revisão da reserva matemática de transferência com a condenação da demandada ao pagamento das diferenças de resgate, consoante critérios apontados em parecer técnico atuarial acostado aos autos pela parte autora. Realização de perícia atuarial por expert do juízo que apontou a correção dos critérios e cálculos adotados pela Fundação. É regra básica do sistema probatório a de que quem alega um fato deve prová-lo. Ao autor incumbe provar os fatos constitutivos do seu direito, nos termos do art. 333, I, do Código de Processo Civil. Apelo não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, XXXVI, LIV e LV; 93, IX; 100, § 1º-A; 201 e 202, caput, todos da Constituição Federal.
+    O recurso extraordinário é inadmissível. Inicialmente, o art. 100, § 1º, da Constituição, tido por violado, não foi objeto de análise pelo Tribunal de origem. Tampouco foram opostos embargos de declaração para suprir eventual omissão, de modo que o recurso, no ponto, carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    O Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes).
+    A solução da controvérsia demanda nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), bem como a interpretação de cláusulas contratuais (Súmula 454/STF), procedimentos inviáveis em sede de recurso extraordinário. Veja-se, nesse sentido, a ementa do ARE 883.448-AgR, Relª Minª Rosa Weber:
+    “DIREITO CIVIL. CONTRATO DE PREVIDÊNCIA PRIVADA. RESGATE DE CONTRIBUIÇÕES. REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 18.4.2012.
+    Divergir da conclusão da Corte Regional exigiria a reelaboração da moldura fática delineada no acórdão da origem, bem como o reexame da interpretação conferida a cláusulas editalícias, procedimentos vedados em sede extraordinária. Aplicação das Súmulas 279 e 454/STF: ‘Para simples reexame de prova não cabe recurso extraordinário.’ e ‘Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.’
+    Agravo regimental conhecido e não provido.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 06 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
