@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Marília Nunes da Silva. Aparelhado o recurso na afronta aos arts. 5º, XXXV, XXXVI, 37, XV, e 40, § 8º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal no sentido da impossibilidade de manutenção, para os servidores inativos, do percentual das gratificações concedidas aos servidores em atividade após a implementação dos critérios de avaliação de desempenho, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: RE 635.902-AgR/DF, Rel. Min. Ricardo Lewandowski, DJe 27.02.2013; RE 664.292-AgR/PR, Rel. Min. Luiz Fux, 1ª Turma, DJe 11.12.2012; e AI 794.347-AgR/PR, Rel. Min. Dias Tóffoli, 1ª Turma, DJe 10.10.2011, cuja ementa transcrevo:
+    “Agravo regimental no agravo de instrumento. Servidor público. Gratificação de Desempenho de Atividade de Seguro Social (GDASS). Manutenção da pontuação. Impossibilidade. Precedentes. 1. A pretensão da agravante, servidora aposentada, de que o pagamento da Gratificação de Desempenho de Atividade de Seguro Social (GDASS) seja mantida no valor equivalente a 80 pontos, mesmo após o estabelecimento dos critérios para avaliação de desempenho dos servidores em atividade, encontra óbice no entendimento assentado por esta Primeira Turma no julgamento do AI nº 794.817/PR-ED, Relatora a Ministra Cármen Lúcia, DJe de 25/3/11. 2. Agravo regimental não provido.”
+    Incabível a interposição do apelo extremo pelo permissivo da alínea “b” do art. 102, III, da CF/88, deixando o Tribunal de origem de declarar a inconstitucionalidade de tratado ou lei federal. Colho os seguintes precedentes o AI 531.878-AgR/DF, Rel. Min. Ayres Britto, 2ª turma, DJe 25.4.2012; e o AI 759.677-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 15.8.2012, verbis:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. 1. Parâmetros delimitados por avaliação prévia. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 2. Recurso extraordinário interposto com base na alínea b do inc. III do art. 102 da Constituição da República. Inexistência de declaração de inconstitucionalidade de tratado ou lei federal. 3. Interposição simultânea de recursos extraordinário e especial. Aplicabilidade do art. 543, § 1º, do Código de Processo Civil somente se admitidos os recursos. Precedentes. 4. Agravo regimental ao qual se nega provimento.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 06 de junho de 2016.
+Ministra Rosa Weber
+Relatora
