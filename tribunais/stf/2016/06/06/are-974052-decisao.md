@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Vigésima Primeira Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Civil. Processual Civil. Ação de dissolução parcial de sociedade c/c apuração de haveres. Sentença de procedência do pedido de retirada do sócio falecido, sendo a apuração remetida para fase de liquidação do julgado. Condenação da parte ré ao pagamento das verbas de sucumbência. Apelo da demandada.
+    Inversão das verbas de sucumbência. Descabimento. Pedido de dissolução parcial da sociedade que restou acolhido na sentença recorrida. Êxito dos autores em relação a esse ponto, que elide a pretensão de condenação dos mesmos ao custeio integral das verbas de sucumbência.
+    Haveres da sociedade. Divergência das partes em relação quantum devido. Sentença que não acolhe o pedido de pagamento de valor pré-determinado, senão remete a apuração dessa questão para fase de liquidação. Sucumbência recíproca que se evidencia.
+    Rateio das custas do processo em partes iguais, restando os litigantes responsáveis pelos honorários de seus patronos nos termos do art. 21 do CPC. Provimento parcial do recurso.”
+    Opostos embargos de declaração, foram parcialmente providos “para retificação de erro material, mantendo os demais termos do voto embargado como lançados.”
+    No recurso extraordinário, sustenta-se violação dos artigos 7º, inciso X, e 100, § 1º-A, da Constituição Federal.
+    Decido.
+    No que se refere ao artigo 7º, inciso X, da Constituição, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, para decidir de modo diverso do que assentado nas instâncias de origem acerca dos honorários advocatícios seria necessário o reexame da legislação infraconstitucional pertinente. Assim, a alegada contrariedade à Constituição da República, se ocorresse, seria indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário. A propósito:
+    “Agravo regimental em agravo de instrumento. 2. Processual Civil. Critérios de fixação dos honorários advocatícios. Matéria infraconstitucional. Ofensa reflexa. 3. Violação ao princípio da legalidade. Enunciado 636 da Súmula do STF. Precedentes. 4. Agravo regimental a que se nega provimento” (AI nº 825.319/RS-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 15/10/12).
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. 1. A discussão relativa ao arbitramento de honorários advocatícios depende do exame prévio da norma infraconstitucional, circunstância que impede a abertura da via extraordinária. 2. Agravo regimental a que se nega provimento” (AI nº 556.275/PR-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 26/8/15).
+    “DIREITO PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS PELO TRIBUNAL A QUO. SUPOSTA AFRONTA AO ART. 133 DA CONSTITUIÇÃO DA REPÚBLICA E ART. 20 DO CÓDIGO DE PROCESSO CIVIL. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 14.10.2010. A suposta afronta aos preceitos constitucionais indicados nas razões recursais dependeria da análise de legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário, considerada a disposição do art. 102, III, a, da Lei Maior. Agravo regimental conhecido e não provido” (ARE nº 717.020/PE-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 25/10/13).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 6 de junho de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
