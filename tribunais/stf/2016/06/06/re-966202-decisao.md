@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    O Ministério Público do Estado do Rio Grande do Sul interpõe recurso extraordinário contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO-CRIME. JOGOS DE AZAR. MUDANÇA DE ORIENTAÇÃO. AUSÊNCIA DE LESÃO AO BEM JURIDICAMENTE TUTELADO. CONDUTA ATÍPICA.
+    A contemporaneidade reclama interpretação necessária e atualizada sobre o bem juridicamente tutelado pela conduta de jogos de azar, ‘os bons costumes’, impedindo a justificativa de sua lesão para manutenção da condição típica da ação.
+    Tampouco o argumento da inibição de outros ilícitos através da proibição dos jogos de azar, como lavagem de dinheiro, corrupção e sonegação fiscal, não se sustenta nos dias atuais.
+    Ademais, a prática forense indica que, no mais das vezes, somente o trabalhador, funcionário do estabelecimento, por estar na linha de frente e presente nas apreensões, é quem sofre o ônus do processo penal, inexistindo sequer investigação por parte do Estado, na grande maioria dos casos, sobre o efetivo proprietário, que aufere o lucro com a atividade, demonstrando total desinteresse na persecutio criminis por quem deveria ser o maior interessado
+    APELO PROVIDO.” (fl. 84)
+    Alega o recorrente violação aos arts. 1º, inciso IV, 5º, caput, incisos II, VI, VIII, XXXIX, LIV, 19, inciso I, e 170 , todos da Constituição Federal. No recurso extraordinário, aduz que:
+    “[...] um direito fundamental pode e deve ser restringido pela atuação legislativa, para que seja alcançado grau satisfatório de proteção concreta a outro de mesma natureza, visando à proteção da sociedade, evitando que ela seja exposta a riscos desnecessários, auxiliando na repressão de condutas parcialmente danosas, antecipando a incidência da normal penal para antes da ocorrência do resultado, como forma de evitá-lo, para proteger não apenas resultados, mas também ações perigosas que venham a criar novos riscos à sociedade, de forma antecipada e preventiva.” (fl. 94)
+    Examinados os autos, decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais, indicados como violados no recurso extraordinário, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, anota-se:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Ausência de prequestionamento. Incidência das Súmulas nºs 282 e 356. Ofensa reflexa ao texto constitucional. Agravo não provido. 1. O inciso IX do art. 109 da Constituição Federal carece do efetivo prequestionamento, sendo certo que não foi objeto de embargos declaratórios para sanar eventual omissão no julgado recorrido, o que atrai o enunciado das Súmulas nºs 282 e 356 da Corte. 2. O Tribunal de origem decidiu a questão com base na legislação infraconstitucional, qual seja, o art. 9º, inciso III, alínea d, do Código Penal Militar. Logo, a violação da Constituição Federal, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário. 3. Regimental a que se nega provimento.” (RE nº 843,3.724/SE-AgR, Segunda Turma, de minha relatoria, DJe de 10/02/16)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. AUSÊNCIA DE PREQUESTIONAMENTO. INOVAÇÃO DA MATÉRIA CONSTITUCIONAL NO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido. Súmulas 282 e 356 do STF. 2. A alegada violação constitucional, ventilada apenas no recurso extraordinário, constitui incabível inovação de fundamentos. 3. Agravo regimental a que se nega provimento.” (ARE nº 926.484/RJ-AgR, Primeira Turma, Relator o Ministro Edson Fachin, DJe de 8/4/16)
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 6 de junho de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
