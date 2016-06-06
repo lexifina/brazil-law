@@ -1,0 +1,10 @@
+DECISÃO: O presente agravo foi interposto por Francisco Felix dos Santos contra decisão que negou trânsito ao apelo extremo por ele deduzido, no qual sustentou que o acórdão proferido pela 7ª Turma Recursal do Juizado Especial Federal da 3ª Região teria transgredido preceito inscrito na Constituição da República.
+    Cumpre ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte ora recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise da sentença de 1º grau, confirmada pelo acórdão recorrido por seus próprios fundamentos, torna evidente que as suas conclusões fundamentam-se em aspectos fático-probatórios a seguir destacados:
+    “No entanto, conforme informado pela contadoria judicial em seu parecer, ao desenvolver o valor da RMI limitada (Cr$27.374,76), apurou-se valor consistente com o pago pelo INSS. Ademais, o valor da renda mensal reajustada não sofreu limitação aos tetos vigentes imediatamente antes da publicação das Emendas Constitucionais nº 20/98 e nº 41/2003.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria idêntica à veiculada no caso em exame (ARE 685.015/RS, Rel. Min. RICARDO LEWANDOWSKI – ARE 757.680/RS, Rel. Min. DIAS TOFFOLI – ARE 758.618/RS, Rel. Min. CÁRMEN LÚCIA – ARE 766.856/RJ, Rel. Min. LUIZ FUX – ARE 767.918/RJ, Rel. Min. TEORI ZAVASCKI – ARE 772.943/BA, Rel. Min. GILMAR MENDES – ARE 792.960/DF, Rel. Min. ROBERTO BARROSO – RE 783.262/SC, Rel. Min. ROSA WEBER, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 06 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
