@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Prestação de serviços. Tarifa de água e esgoto. Classificação de usuários. Pretensão de enquadramento no regime de economias. Prescrição. Inocorrência. Prazo decenal (artigo 205 do Código Civil) a contar da entrada em vigor do Novo Código Civil. Inteligência do art. 2.028 do Código Civil de 2002. Inadmissibilidade na vigência do Decreto Estadual n. 41.446/96. Regime apenas aplicável aos condomínios residenciais. Inexistência de ilegalidade ou inconstitucionalidade no Decreto Estadual, na medida em que atendeu aos ditames da Lei n. 6.528/78 e do Decreto Federal n. 82.587/78. Recurso improvido, com observação.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, com fundamento nos permissivos constitucionais do art. 102, III, “a” e “d”, alega-se ofensa aos artigos 5º, caput, I, II, XXII, XXIII; 37, caput; 170; 175, parágrafo único, II e III, todos da Constituição Federal. Aponta-se violação aos princípios da isonomia, da legalidade, e à competência da União em matéria de saneamento básico. Sustenta-se, em suma, que o Decreto Estadual de São Paulo 41.446/96, ao permitir a reclassificação dos consumidores do serviço de água e esgoto e promover a exclusão dos condomínios comercias do regime de economias, atentou contra os dispositivos constitucionais indicados.
+    A Presidência da Seção de Direito Privado do TJSP admitiu o recurso extraordinário por entender cumpridas as condições de admissibilidade recursal.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Em que pese, abstratamente, o estatuto constitucional dos princípios da isonomia (artigo 5º, caput) e da legalidade (artigo 5º, II, e 37, caput), constata-se que, no caso concreto, o Recorrente fundamenta o apelo extremo em argumentos genéricos, demonstrando inconformismo com o deslinde legal, fundado em normas infraconstitucionais (Decretos 21.123/1983 e 41.446/1996 do Estado de São Paulo e Leis Federais 6.528/1978 e 11.445/2007), o que não se admite em sede de recurso extraordinário, por exigir o reexame de legislação infraconstitucional.
+    Em situações como a dos presentes autos, eventual ofensa aos princípios indicados seria de natureza indireta, sendo firme a jurisprudência do Supremo Tribunal Federal no sentido de que o debate nesses termos não alcança estatura constitucional. Nessa direção, confiram-se as seguintes decisões: RE 959.074, Rel. Min. Luís Roberto Barroso, DJe 18.05.2016; ARE 971.015, Rel. Min. Rosa Weber, DJe 30.05.2016; ARE 967.791, Min. Luiz Fux, DJe 1º.06.2016; RE 960.807, Rel. Min. Celso de Mello, DJe 06.05.2016; ARE 966.827, Rel. Min. Cármen Lúcia, DJe 11.05.2016; ARE-ED 950.364, Rel. Min. Gilmar Mendes, DJe 16.05.2016.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 932, III, do CPC/15, e do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 06 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
