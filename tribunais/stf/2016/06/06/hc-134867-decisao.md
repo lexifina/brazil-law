@@ -1,0 +1,19 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra decisão monocrática, proferida no âmbito do Superior Tribunal de Justiça, que indeferiu liminarmente o HC n°. 355.900/SP.
+    Narra o impetrante que: a) a paciente é acusada da suposta prática dos crimes previstos nos artigos 33 e 35, ambos da Lei 11.343/06; b) a prisão preventiva foi imposta sem lastro concreto que justifique a cautelaridade da custódia; c) a paciente encontra-se em avançado estado gestacional, circunstância a lhe conferir direito à liberdade ou à prisão domiciliar.
+    É o relatório. Decido.
+    Registro, de início, que se trata de habeas corpus impetrado contra decisão monocrática proferida pelo STJ, que deveria ser combatida por agravo regimental. Portanto, não merece conhecimento, mas, em caso de ilegalidade flagrante, admite concessão da ordem de ofício.
+    Em relação aos requisitos da preventiva, anote-se que o Juiz singular apontou que a natureza do entorpecente e as peculiaridades da ação tida como criminosa denotavam a existência de uma empresa criminosa, circunstância a legitimar, num primeiro olhar, a medida gravosa. A propósito, segundo consta, a paciente teria cometido o crime já na condição de custodiada:
+    “A droga apreendida, cocaína em forma de crack, é de grande poder degenerador da personalidade, de alto índice viciante e de conhecida letalidade, violando de maneira intensa o bem juridicamente tutelado. A quantidade de droga apreendida, trinta e uma porções, representa tímida amostragem, possível quando da diligência policial, uma vez que a empresa criminosa conta com outros associados, v.g. Dayane Torres de Souza e Sergio Kazuo Abe. Dayane, segundo consta, encontra-se recolhida em estabelecimento prisional, o que faz forte a conclusão de que os mecanismos de prevenção e repressão do Estado não são aptos a demover os agentes do impulso criminoso.”
+    A compreensão do Juiz da causa foi reforçada pela prolação de sentença condenatória recorrível, em que reconhecida a prática dos referidos delitos e fixado pena incompatível com regime inicial diverso do fechado. Nesse particular, a prisão preventiva não se afigura manifestamente ilegal.
+    Quanto à soltura ou concessão de prisão domiciliar em razão do estado gestacional, ao que parece, a questão não foi previamente submetida ao Juiz da causa. Isso porque as decisões apresentadas pelo impetrante não contêm esse debate, que, aparentemente, surgiu apenas no contexto do Tribunal local.
+    Em casos de prisão domiciliar, é indispensável que a questão seja previamente posta ao Juiz natural. Isso porque, além do juízo de adequação da medida cautelar, a prisão domiciliar pressupõe comprovação idônea de seus pressupostos. Vale dizer, é altamente recomendável que o avançado estado gestacional seja previamente debatido, na medida em que se revela no mínimo temerário que tal circunstância fática seja originariamente reconhecida pela Corte Suprema.
+    De fato, a comprovação dos requisitos excepcionais da medida domiciliar configura ato indispensável, sob pena de que o relevante instituto seja utilizado como subterfúgio à submissão do acusado à lei incriminadora. E, repito, essa questão deve ser previamente reconhecida pelas instâncias ordinárias, sob pena de impossibilidade de acolhimento da impetração por esta Corte.
+    Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF, ou de flagrante hipótese de constrangimento ilegal, não é o caso de concessão da ordem de ofício.
+    Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Sem prejuízo, recomende-se ao Tribunal de Justiça, com urgência, celeridade quanto ao enfrentamento do habeas corpus pendente de julgamento no contexto daquele órgão jurisdicional.
+    Publique-se. Intime-se.
+    Brasília, 06 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
