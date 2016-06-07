@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que deixou de admitir recurso extraordinário interposto em face de acórdão de Tribunal de Justiça que negou provimento a agravo do ora recorrente, cuja ementa transcrevo:
+    DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. AÇÃO DE CONHECIMENTO. CUMPRIMENTO DE SENTENÇA. MULTA DIÁRIA. POSSIBILIDADE DE EXECUTAR A MULTA ANTES DO TRÂNSITO EM JULGADO, QUANDO PENDE APENAS RECURSO SEM EFEITO SUSPENSIVO. TERMO INICIAL DE INCIDÊNCIA. INTIMAÇÃO DA SENTENÇA. DECISÃO MANTIDA.
+    Segundo assentado pelo Superior Tribunal de Justiça, em procedimento de recurso repetitivo, “A multa diária prevista no § 4º do art. 461 do CPC, devida desde o dia em que configurado o descumprimento, quando fixada em antecipação de tutela, somente poderá ser objeto de execução provisória após a sua confirmação pela sentença de mérito e desde que o recurso eventualmente interposto não seja recebido com efeito suspensivo.
+    As astreintes têm por escopo garantir a efetividade de obrigação imposta em decisão judicial e basta a intimação da parte obrigada para que seja exigível.
+    Constatado que o réu foi devidamente intimado da antecipação da tutela concedida na sentença e confirmada no acórdão, é desnecessária qualquer outra iniciativa da parte autora para que se dê início ao cumprimento do que foi determinado.
+    Agravo de instrumento conhecido, mas não provido. Unânime.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, alega-se violação aos artigos 5º, LIV, LV e 93, IX, da Constituição Federal, por ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, além da alegação de infração ao dever de fundamentação das decisões judiciais.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Verifica-se que no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa ao princípio do devido processo legal e seus consectários é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe de 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 07 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
