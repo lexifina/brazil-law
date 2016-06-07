@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CONTROVÉRSIA SOBRE CABIMENTO DE RECURSO DA COMPETÊNCIA DO TRIBUNAL SUPERIOR DO TRABALHO – IMPROPRIEDADE.
+    1.Eis a síntese do acórdão recorrido:
+    EMBARGOS DE DECLARAÇÃO OPOSTOS PELA PRIMEIRA RECLAMADA. CAIXA ECONÔMICA FEDERAL - CEF. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. INCLUSÃO DO CTVA NA CONTRIBUIÇÃO PARA A FÜNCEF. NÃO CONFIGURAÇÃO DOS VÍCIOS ELENCADOS NOS ARTS. 897-A DA CLT E 535 DO CPC. A decisão impugnada, ao negar provimento ao agravo de instrumento interposto pela primeira reclamada que versava acerca do tema correlato à inclusão do CTVA na contribuição para a Funcef, abordou todos os aspectos correlatos à controvérsia. Logo, os declaratórios não se enquadram em nenhum dos permissivos dos arts. 897-A da CLT e 535 do CPC, sendo certo que os embargos de declaração não constituem remédio processual apto a alterar decisão, pois se destinam a eliminar obscuridade, omissão, contradição ou irregularidades, não constatadas no acórdão embargado. Embargos de declaração rejeitados.
+    No extraordinário, cujo trânsito espera alcançar, a recorrente alega a violação aos artigos 5º, inciso XXXV,I e 202, § 2º, da Constituição Federal. Diz que o deferimento da revisão das cláusulas contratuais de quitação implica contrariedade ao princípio do ato jurídico perfeito. Tece considerações no tocante ao CTVM, afirmando ter sido quitado no momento em que o reclamante optou para o Novo Plano da FUNCEF.
+    2. Nota-se que o não processamento do recurso extraordinário pelo Tribunal Superior do Trabalho tem desaguado, com verdadeira automaticidade, na interposição de agravo. Para tanto, articula-se com ofensa à Carta da República, quando, na realidade, o acórdão impugnado faz-se alicerçado em interpretação de normas estritamente legais. Na espécie, deu-se essa prática.
+    Em momento algum, o Tribunal de origem adotou entendimento conflitante com a Constituição Federal. O que se observa é a tentativa de transformar o Supremo em órgão meramente revisor das decisões prolatadas na última instância do Judiciário Trabalhista.
+    No mais, no Recurso Extraordinário nº 598.365/MG, da relatoria do ministro Ayres Britto, o denominado Plenário Virtual, assentando a natureza infraconstitucional da matéria, concluiu pela inexistência de repercussão geral do tema relativo ao cabimento de recursos da competência dos demais tribunais.
+    A par desse aspecto, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente na origem, considerando-se as premissas constantes do acórdão atacado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    No caso dos autos, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão recorrido, buscando-se, em última análise, conduzir este Tribunal ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 7 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
