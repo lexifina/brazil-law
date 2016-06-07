@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA –
+INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal Regional Federal da 3º Região confirmou o entendimento do Juízo quanto ao enquadramento da ré como incursa nos crimes objeto da denúncia. No extraordinário cujo processamento busca alcançar, a recorrente aponta a violação do artigo 5º, incisos LIV, LVI e LVII, da Constituição Federal. Tece consideração sobre a declaração de nulidade do procedimento administrativo pelo Superior Tribunal de Justiça, afirmando não mais haver fundamento suficiente a sustentar a condenação, ante o princípio da persuasão racional das provas. Entende que a utilização de provas oriundas de processo administrativo declarado nulo, em processo criminal, ofende os princípios do contraditório e da ampla defesa. Caso assim não se entenda, aponta a atipicidade da conduta.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Colegiado de origem, em acórdão de 84 páginas, faz análise detida do procedimento realizado pela recorrente. Primeiro esclareceu não se confundirem as esferas administrativas e penal, havendo no processo elementos bastantes para a demonstração dos fatos alegados pelo Ministério Público. Na sequência, apontando as provas, transcrevendo depoimentos, inclusive o prestado pela ré, apontou detalhadamente a conduta da acusada: inserção de dados falsos na base de dados do INSS, como se pesquisa em domicílio tivesse feito, a fim de ser ressarcida das despesas pertinentes. Apresentou a tipicidade, a materialidade, o dolo e estabeleceu a pena. À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 7 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
