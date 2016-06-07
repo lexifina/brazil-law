@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Turma Recursal que negou provimento a recurso inominado, por decisão assim ementada:
+    RECURSO INOMINADO. FACHESF. PLANO DE SAÚDE COLETIVO POR ADESÃO. CONTRATO ANTIGO ADAPTADO À LEI 9.656/98. REAJUSTE POR MUDANÇA DE FAIXA ETÁRIA. CLÁUSULA DE REAJUSTAMENTO COM PREVISÃO EXPRESSA DOS PERCENTUAIS FIXOS E ESPECÍFICOS. REAJUSTE DE 97,09% APÓS A PARTE AUTORA COMPLETAR 59 ANOS DE IDADE. ABUSIVIDADE. INCIDÊNCIA DO ART. 51 DO CDC. CLÁUSULA QUE PREVÊ O REAJUSTE DA MENSALIDADE EM RAZÃO DA MUDANÇA DE FAIXA ETÁRIA DOS “59 ANOS OU MAIS”, OU SEJA, FAIXA ETÁRIA SUPERIOR A 60 ANOS, QUE OBJETIVA VIOLAR O ESTABELECIDO NO ESTATUTO DO IDOSO. PROCEDE-SE A UMA MAJORAÇÃO EXCESSIVA, BUSCANDO COMPENSAR A AUSÊNCIA DE REAJUSTES ULTERIORES. SENTENÇA QUE LIMITOU O REAJUSTE AO PERCENTUAL DE 15%. MANUTENÇÃO DO PERCENTUAL FIXADO NA SENTENÇA EM FACE DA VEDAÇÃO À REFORMATIO IN PEJUS. RESTITUIÇÃO SIMPLES DAS PARCELAS PAGAS A MAIOR. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+    No recurso extraordinário, com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa ao art. 5º, II, XVIII e XXXVI, do Texto Constitucional, sob alegação de violação ao princípio da legalidade, à garantia de autotutela associativa e ao ato jurídico perfeito.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    O Plenário dessa Corte, no exame do ARE-RG 835.833, de relatoria do Ministro Teori Zavascki, DJe 26.03.2015 (Tema 800), decidiu que, em regra, não possuem repercussão geral as controvérsias decididas no âmbito dos Juizados Especiais Cíveis da Lei 9.099/1995, que decorrem de uma relação de direito privado (contrato de plano de saúde), revestida de simplicidade fática e jurídica, como a do caso em exame.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca do tema suscitado neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 07 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
