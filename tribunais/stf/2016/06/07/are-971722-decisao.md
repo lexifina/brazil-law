@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo reformou o entendimento do Juízo quanto aos índices a serem aplicados para a correção dos valores devidos. No extraordinário, cujo trânsito busca alcançar, o recorrente alega a violação do artigo 5º, inciso XXXVI, da Constituição Federal. Afirma ofensa à coisa julgada, uma vez que o Tribunal alterou a forma de cálculo da correção monetária estabelecida na sentença transitada em julgado.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    A respeito, os cálculos de fls. 830/883 evidenciam que o contador judicial adotou a Tabela Prática para a recomposição da diferença devida pelo embargante, apurando o débito de R$ 176.185,44, relativo ao mês de julho de 2001, data da constrição, bem como de R$ 352.193,32, válido para agosto de 2006.
+    Bem por isso, tendo em vista que tais cálculos foram elaborados em conformidade com o título executivo judicial, devem prevalecer sobre aqueles apresentados pelo credor, mesmo porque a impugnação manifestada por este às fls.895/896, sob o enfoque de que “a partir de fevereiro de 1991, o Sr. Contador atualizou os saldos existentes nas cadernetas de poupança pela Tabela Prática de Atualização dos Débitos Judiciais elaborada pelo Tribunal de Justiça, e não mais pelo INPC (que substituiu o IPC a partir de fev/91), mês a mês”, não pode ser acolhida diante dos fundamentos destacados alhures.
+    À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    De resto, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, assentando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender da prévia análise da adequada aplicação de normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 7 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
