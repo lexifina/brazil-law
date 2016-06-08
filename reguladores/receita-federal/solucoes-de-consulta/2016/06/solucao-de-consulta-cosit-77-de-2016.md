@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 77, de 24 de maio de 2016
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA – IRPJ
+EMENTA: PARCELAMENTO. QUITAÇÃO ANTECIPADA. CESSÃO DE PREJUÍZOS FISCAIS. GANHO PATRIMONIAL.
+O ganho patrimonial obtido pela cessionária na aquisição de prejuízos fiscais e/ou de bases de cálculo negativas da CSLL, por meio de doação ou de venda com deságio, para utilização na quitação antecipada do parcelamento instituído pela Lei nº 11.941, de 2009, nos termos do art. 33 da Lei nº 13.043, de 2014, é tributável pela legislação do Imposto sobre a Renda da Pessoa Jurídica.
+DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966, art. 43; Lei nº 9.065, de 1995, art. 15; Lei nº 12.973, de 2014, art. 43; Lei nº 11.941, de 2009, art. 1º, caput e § 7º e art. 4º, parágrafo único; Lei nº 12.996, de 2014, art. 2º, caput e § 7º; Lei nº 13.043, de 2014, art. 33, § 1º, Portaria Conjunta PGFN/RFB nº 6, de 2009, art. 27; Portaria Conjunta PGFN/RFB nº 2, de 2011, arts. 5º e 8º; Portaria Conjunta PGFN/RFB nº 15, de 2014, art. 5º, §§ 1º e 4º; SC Cosit nº 21, de 2013.
+ASSUNTO: CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL
+EMENTA: PARCELAMENTO. QUITAÇÃO ANTECIPADA. CESSÃO DE BASES DE CÁLCULO NEGATIVAS DA CSLL. GANHO PATRIMONIAL.
+O ganho patrimonial obtido pela cessionária na aquisição de prejuízos fiscais e/ou de bases de cálculo negativas da CSLL, por meio de doação ou de venda com deságio, para utilização na quitação antecipada do parcelamento instituído pela Lei nº 11.941, de 2009, nos termos do art. 33 da Lei nº 13.043, de 2014, é tributável pela legislação da Contribuição Social sobre o Lucro Líquido.
+DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966, art. 43; Lei nº 8.981, de 1995, art. 57; Lei nº 9.065, de 1995, art. 16; Lei nº 12.973, de 2014, art. 43; Lei nº 11.941, de 2009, art. 1º, caput e § 7º e art. 4º, parágrafo único; Lei nº 12.996, de 2014, art. 2º, caput e § 7º; Lei nº 13.043, de 2014, art. 33, § 1º, Portaria Conjunta PGFN/RFB nº 6, de 2009, art. 27; Portaria Conjunta PGFN/RFB nº 2, de 2011, arts. 5º e 8º; Portaria Conjunta PGFN/RFB nº 15, de 2014, art. 5º, §§ 1º e 4º; SC Cosit nº 21, de 2013.
+[arquivo anexo: SC Cosit nº 77-2016.pdf]
