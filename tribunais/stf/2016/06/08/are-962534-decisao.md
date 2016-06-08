@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pela E. 1ª Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, está assim ementado (fls. 58):
+    “RECURSO INOMINADO. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL. POLICIAL CIVIL. APLICABILIDADE DA LEI COMPLEMENTAR Nº 51/85, COM A ALTERAÇÃO DA LC Nº 144/2014. ABONO DE PERMANÊNCIA. PREENCHIDOS OS REQUISITOS. EMENDA CONSTITUCIONAL Nº 41/03. POSSIBILIDADE.
+    1. O servidor que permanece em sua atividade tem direito ao abono de permanência, regulamentado pela EC nº 41/03, alterando o disposto no artigo 40, § 19º, da Constituição Federal. Ainda, a Lei Complementar nº 51185 foi recepcionada pela Constituição, consoante já assentado pelo Supremo Tribunal Federal (AgR em MI 2286 da relatoria da Min . Cármen Lúcia).
+    2. A legislação exige que o servidor, que opte por permanecer em atividade, preencha os requisitos para a concessão da aposentadoria e conte com tempo de contribuição igual ou superior a vinte anos, em caso de aposentadoria especial. Atendidos os requisitos para aposentadoria especial, desde então está consolidado o direito do autor a perceber o abono de permanência, sob pena de enriquecimento indevido da Administração Pública.
+    RECURSO INOMINADO DESPROVIDO. UNÂNIME.”
+    O Estado do Rio Grande do Sul, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido os preceitos inscritos no art. 40, § 4º e § 19, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao julgar o ARE 954.408-RG/RS, Rel. Min. TEORI ZAVASCKI, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa e reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+    “ADMINISTRATIVO E PREVIDENCIÁRIO. RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO EM ATIVIDADE APÓS O PREENCHIMENTO DOS REQUISITOS PARA A CONCESSÃO DE APOSENTADORIA VOLUNTÁRIA ESPECIAL. CONCESSÃO DO ABONO DE PERMANÊNCIA. LEGITIMIDADE.
+    1. É legítimo o pagamento do abono de permanência previsto no art. 40, § 19, da Constituição Federal ao servidor público que opte por permanecer em atividade após o preenchimento dos requisitos para a concessão da aposentadoria voluntária especial (art. 40, § 4º, da Carta Magna).
+    2. Agravo conhecido para negar provimento ao recurso extraordinário, com o reconhecimento da repercussão geral do tema e a reafirmação da jurisprudência sobre a matéria.” (grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu – e reafirmou – na matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC/15, art. 932, IV, “b”).
+    Publique-se.
+    Brasília, 08 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
