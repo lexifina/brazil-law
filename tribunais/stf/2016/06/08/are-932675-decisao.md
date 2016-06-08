@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que negou provimento a apelação, mantendo a improcedência, pela decadência, em ação renovatória de prorrogação de contrato de locação para fins comerciais.
+    No recurso, aponta-se ofensa ao artigo 5º, XXXV, XLI, LIV e LV, da Constituição da República, por violação dos princípios do devido processo legal e seus consectários, bem como por fomentar a discriminação atentatória dos direitos e liberdades fundamentais, negando acesso à efetiva prestação jurisdicional.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Verifica-se que, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, Dje de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Ademais, verifica-se que, ao apreciar o RE-RG 950.787, julgado em 28.04.2016 (Tema 890), o Plenário deste Tribunal afirmou não existir repercussão geral nos casos em que a alegada ofensa a princípios constitucionais, decorrente de relação contratual, ocorre de forma genérica, exigindo interpretação das normas infraconstitucionais e revolvimento do conjunto fático-probatório dos autos, o que torna inadmissível o processamento do recurso extraordinário.
+    Por fim, no julgamento do RE-RG 956.302, de minha relatoria, finalizado em 20.05.2016 (Tema 895), esta Corte entendeu pela inexistência de repercussão geral quando a invocação do princípio da inafastabilidade de jurisdição ocorre com fundamento em argumentos genéricos, demonstrando inconformismo com o deslinde legal dado ao feito por incidência das normas de direito processual civil, como ocorreu no caso dos autos.
+     Ante o exposto, em vista do pronunciamento do Supremo Tribunal Federal acerca do tema suscitado neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 08 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
