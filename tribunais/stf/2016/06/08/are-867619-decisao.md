@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “CÂMARA MUNICIPAL – VEREADOR – MANDATO CASSADO. Reintegração ao cargo de vereador e presidente da Câmara Municipal. Pretensão de nulidade do processo administrativo que cassou o mandato – Encerramento do mandato eletivo em 2008. Perda superveniente do objeto. RECONHECIMENTO: O provimento jurisdicional não mais terá utilidade, uma vez que é impossível garantir ao autor eventual reintegração ao cargo de vereador e presidente da Câmara Municipal relativo a mandato eletivo já encerrado no ano de 2008, considerando que a antecipação de tutela não foi deferida e a ação foi julgada improcedente.
+    RECURSO PREJUDICADO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, XXXV, LV; 29; e 55, §2º, da Constituição.
+     A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) “os argumentos expendidos não são suficientes para infirmar a conclusão do v. aresto combatido que contém fundamentação adequada para lhe dar respaldo. Tampouco restou evidenciado qualquer maltrato a normas constitucionais, não sendo atendida qualquer das hipóteses das alíneas ‘a’, ‘b’, ‘c’, e ‘d’ do permissivo constitucional”; e (ii) “a análise demandaria o exame de matéria infraconstitucional, quando é sabido que a ofensa à Constituição Federal deve ser direta e frontal, e não por via reflexa”.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Odim Brandão Ferreria, opinou pelo desprovimento do agravo.
+    Com razão o parecer ministerial. De fato, os dispositivos constitucionais tidos por violados não foram apreciados pelo Tribunal de origem. Tampouco foram opostos embargos de declaração para sanar eventual omissão. O recurso extraordinário carece, portanto, de prequestionamento. Incidem, no caso, as Súmulas 282 e 356/STF.
+    Ademais, a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC.
+    Como já registrado por este Tribunal, “a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 08 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
