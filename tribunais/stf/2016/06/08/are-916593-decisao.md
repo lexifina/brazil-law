@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário com agravo interposto em face de decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que proveu parcialmente a apelação do ora recorrido, em acórdão assim ementado:
+    DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO RETIDO. DIREITO À SAÚDE. ART. 196 DA CONSTITUIÇÃO FEDERAL. REEXAME NECESSÁRIO. MULTA COMINATÓRIA. ASTREINTES. ART. 461, § 4º, DO CPC. MODIFICAÇÃO. POSSIBILIDADE. OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. EFETIVIDADE DAS DECISÕES JUDICIAIS. VEDAÇÃO AO ENRIQUECIMENTO ILÍCITO.
+    Não se conhece do agravo retido interposto pela parte apelada, quando esta não requer a sua apreciação por ocasião da apresentação das contrarrazões, nos termos do art. 523, § 1º, do CPC.
+    Consoante se verifica da análise sistemática da Carta Magna, a saúde é consagrada como direito social (art. 6º, caput), e, também, direito público subjetivo do indivíduo, com base em seu art. 196. Cabe registrar que a norma constitucional que estabelece o direito à saúde (art. 196), apesar de entendida como caráter programático, não configura permissivo para que o Estado se esquive de suas obrigações em buscar meios para efetivar esse direito.
+    O artigo 461 do CPC, que regula a aplicação de multa cominatória nas obrigações de fazer, estatui em seu § 6º que “o juiz poderá, de ofício, modificar o valor ou a periodicidade da multa, caso verifique que se tornou insuficiente ou excessiva”, pelo que não há que se falar em impossibilidade do magistrado de primeiro grau poder rever sua decisão, haja vista tratar-se de questão de ordem processual, de caráter público.
+    Não se pode negar que a multa coercitiva prevista no artigo 461, § 4º do CPC, é um legítimo instrumento de implementação do direito fundamental à tutela efetiva, previsto em nossa Constituição.
+    Necessário destacar que a multa cominatória não pode ser utilizada pelo credor como meio de enriquecimento sem causa, em virtude da vedação ao enriquecimento ilícito presente em nosso sistema judiciário.
+    Agravo retido não conhecido. Preliminar rejeitada. Reexame necessário não provido. Apelação parcialmente provida.
+    No recurso extraordinário, com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa ao artigos 5º, caput, II e 37, caput, XXI e § 6º, do Texto Constitucional. Sustenta-se violação dos princípios da legalidade, da isonomia, da licitação e da responsabilidade civil objetiva.
+    O Presidente do Tribunal de Justiça do Distrito Federal e Territórios inadmitiu o recurso por falta de prequestionamento, aplicando-se as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Sem embargo do teor, manifestado nestes autos, a respeito, abstratamente, da previsão constitucional dos princípios da legalidade, isonomia, licitação e responsabilidade civil objetiva (artigo 5º, caput, II e 37, caput, XXI e § 6º e inciso I), constata-se que, no caso concreto, o Recorrente fundamenta o apelo extremo em argumentos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em norma infraconstitucional (análise do artigo 461, § 4º do Código de Processo Civil de 1973), o que não é cabível em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+    De igual forma, embora haja estribo argumentativo nos princípios acima citados, é certo que a discussão sobre se as astreintes devem ou não ser restabelecidas, demandaria revaloração dos dados fáticos, ou seja: se o Distrito Federal foi, ou não, diligente no cumprimento da ordem judicial de realizar o procedimento cirúrgico de artroplastia total no joelho direito da ora recorrida, a exigir o revolvimento de matéria de índole probatória, inviável na instância extraordinária.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 08 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
