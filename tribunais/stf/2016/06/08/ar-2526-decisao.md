@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de ação rescisória contra sentença do Juízo da 2ª Vara Federal de Itajaí/SC, transitada em julgado ainda na primeira instância (doc. 5, fl. 54), em que rejeitado pedido de concessão de pensão especial a viúva de ex-combatente que teria cumprido missões de vigilância no litoral durante a Segunda Guerra Mundial (Processo 5006670-70.2013.404.7208) (doc. 5, fls. 33/43).
+    2. É manifesta a incompetência desta Corte para processar e julgar a presente ação rescisória, nos termos do disposto no art. 102, I, j, da Constituição Federal. Nessa linha de consideração, citam-se os julgados:
+    AGRAVO REGIMENTAL. AÇÃO RESCISÓRIA. DECISÃO RESCINDENDA PROFERIDA POR TRIBUNAL DO TRABALHO. AUSÊNCIA DE COMPETÊNCIA DESTA SUPREMA CORTE PARA PROCESSAR E JULGAR A AÇÃO RESCISÓRIA. Nos termos do art. 102, I, “j”, da Constituição Federal, compete ao Supremo Tribunal Federal processar e julgar, originariamente, a ação rescisória de seus julgados, não detendo, pois, competência para julgar o pedido de desconstituição de decisão emanada de Tribunal do Trabalho. Agravo regimental conhecido e não provido. (AR 2336 AgR, Relator(a): Min. ROSA WEBER, Tribunal Pleno, DJe 16-02-2016)
+    Ação rescisória que tem por objeto único a rescisão de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo. Competência para julgá-la. - Incompetência do S.T.F. para processar e julgar rescisória que visa única e exclusivamente à desconstituição de acórdão local, defeso que lhe é modificar o pedido da autora. Reconheceu Tribunal sua incompetência para processar e julgar a presente ação rescisória, e determinou a devolução dos autos ao Tribunal de origem para julgá-la como entender de direito. (AR 1331, Relator(a): Min. MOREIRA ALVES, Tribunal Pleno, DJ 25-06-1999)
+    3. Diante do exposto, não conheço do pedido; e, no mais, determino a remessa dos autos ao Tribunal Regional Federal da 4ª Região, para os devidos fins de direito (RISTF, art. 21, § 1º).
+    Publique-se. Intimem-se.
+    Brasília, 8 de junho de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
