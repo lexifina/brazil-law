@@ -1,0 +1,18 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Luiz Fernando Marques Gomes de Oliveira em favor de Deraldino Gabriel da Cruz, contra acórdão do Superior Tribunal de Justiça, que não conheceu do HC 309.843/SP, mas concedeu de ofício a ordem.
+    O Juízo da 1ª Vara Criminal da Comarca de Marília/SP condenou o paciente à pena de 06 (seis) anos de reclusão, em regime integral fechado, pela prática do crime tráfico de drogas, tipificado no art. 33 da Lei 11.343/2006.
+    Inconformada com a dosimetria da pena, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso, para alterar o regime prisional, de integral para inicial fechado.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, em 21.5.2015, não conheceu do HC 309.843/SP, mas concedeu “a ordem de ofício, para determinar ao Juízo sentenciante ou, se for o caso, ao Juízo da execução penal que proceda à nova dosimetria, analisando as circunstâncias da quantidade da droga apenas em uma das fases do cálculo da pena, bem como para afastar a vedação legal ao regime menos gravoso, possibilitada a substituição da pena corporal por restritiva de direitos, cabendo ao magistrado de primeiro grau a verificação quanto ao preenchimento dos requisitos previstos no art. 44 do Código Penal”.
+    Ato contínuo, em observância ao comando exarado pela Corte Superior, o magistrado de primeiro grau, em 16.6.2015, ao reanalisar a dosimetria da pena, manteve ‘a pena anteriormente fixada de 06 (seis) anos de reclusão, a ser cumprida em regime inicial fechado’.
+    No presente habeas corpus, o Impetrante insurge-se contra a nova sentença condenatória. Alega a possibilidade de aplicação da causa de diminuição da pena do § 4º do art. 33 da Lei 11.343/2006 em seu patamar máximo, com repercussão na fixação do regime aberto e na substituição de pena privativa de liberdade por restritiva de direitos. Sustenta que o paciente ostenta circunstâncias favoráveis, como primariedade, bons antecedentes, não se dedicar a atividades criminosas e nem integrar organização criminosa. Requer, em medida liminar, a suspensão do cumprimento do mandado de prisão até o julgamento final da presente impetração. No mérito, pugna pelo redimensionamento da pena.
+    Em 30.6.2015, indeferi o pedido de liminar.
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, opina pelo não conhecimento do writ e, sucessivamente, pela denegação da ordem.
+    É o relatório.
+    Decido.
+    Inobstante tenha sido apontado como ato coator o HC 309.843/SP do Superior Tribunal de Justiça, a decisão hostilizada na presente impetração, em verdade, é a nova sentença exarada pelo juízo singular em que manteve a pena anteriormente fixada.
+    Neste contexto, na linha do preconizado no parecer ministerial, ‘o Supremo Tribunal não pode, per saltum, conhecer de matéria não submetida às instâncias precedentes, no caso, a Corte Estadual e o Superior Tribunal de Justiça. Desse modo, não tendo o Tribunal de Justiça do Estado de São Paulo e o Superior Tribunal de Justiça analisado o novo título judicial, o não conhecimento é de rigor, sob pena de dupla supressão de instância’.
+    Com efeito, à míngua de pronunciamento judicial exarado por quaisquer das autoridades elencadas no rol do art. 102, I, d e i, da Lei Maior, não há como prosseguir a impetração dada manifesta incompetência desta Suprema Corte para processamento e julgamento do presente writ.
+    Ante o exposto, não conheço do presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 09 de junho de 2016.
+Ministra Rosa Weber
+Relatora
