@@ -1,0 +1,27 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Luiz Fernando Marques Gomes de Oliveira, em favor de Wellisman Silva de Oliveira, contra decisão proferida pelo Ministro Newton Trisotto, do Superior Tribunal de Justiça (STJ), que negou seguimento ao HC n. 334.068/SP.
+    Consta dos autos que o paciente foi preso preventivamente em razão da suposta prática dos delitos tipificados no art. 121, § 2º, incisos I e IV, c/c art. 14, inciso II, e art. 121, § 2º, incisos IV e V, ambos na forma do art. 69, caput, todos do Código Penal (homicídio qualificado nas formas tentada e consumada).
+    Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, requerendo liminarmente a revogação da custódia provisória. A Corte estadual indeferiu a cautelar pleiteada.
+    Daí a impetração de novo habeas perante o STJ, que negou seguimento ao pedido, ao fundamento de implicar indevida supressão de instância.
+    Neste writ, a defesa reitera as alegações suscitadas nas demais instâncias, reforçando a tese de ausência de fundamentação idônea do decreto cautelar, porquanto embasado na gravidade abstrata do delito, reputando ausentes os requisitos autorizadores da medida, previstos no art. 312 do CPP.
+    Requer o afastamento da Súmula 691/STF para que, liminarmente e no mérito, seja revogado o decreto de prisão preventiva e expedido alvará de soltura em favor do paciente.
+    Em consulta ao sítio do TJ/SP, verifico que a 10ª Câmara de Direito Criminal promoveu o julgamento do mérito do habeas corpus lá impetrado, na data de 22.10.2015. (HC n. 2167218-97.2015.8.26.0000)
+    É o relatório.
+    Decido.
+    Observa-se que a decisão impugnada limitou-se a negar seguimento ao pedido formulado.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC 103.282/PA, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 28.8.2013 e HC 114.867/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.8.2013.
+    Destaco ainda que a decisão impugnada do STJ é monocrática e não houve a interposição de agravo regimental contra o referido decisum.
+    No ponto, registro que, na Turma, tenho-me posicionado, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, sessão de 6.11.2013), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, insculpido no art. 102, inciso II, “a”, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011 e RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012.
+    Contudo, ressalte-se que, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desses entendimentos jurisprudenciais pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder, o que não verifico no caso dos autos.
+    Isso porque, na espécie, entendo que o Juízo de origem indicou elementos mínimos concretos e individualizados, aptos a demonstrar a necessidade da prisão preventiva, sobretudo para garantir a ordem pública, atendendo, assim, ao disposto no artigo 312 do CPP que rege a matéria e à interpretação que dá ao dispositivo o STF.
+    Por oportuno, destaco trecho da decisão que decretou a custódia preventiva:
+    “A propósito, reputo que a conduta do réu é reveladora de periculosidade, haja vista que tentou matar uma vítima e consumou o homicídio em relação a outra, com emprego de recurso que dificultou a defesa da vítima (aproximou-se das vítimas, que conversavam na calçada e, sem que estas pudessem esperar qualquer agressão, sacou seu revólver e desferiu vários disparos, apenas não levando a primeira vítima a óbito porque, ao que parece, a arma falhou). Ademais, cuida-se de homicídio qualificado, caracterizado como hediondo pela Lei n° 8.072/90. Deste modo, impõe-se a neutralização do agente para o resguardo da ordem pública, posta em risco se solto permanecer o imputado.
+    Não bastasse isso, conforme relatório de investigação (fls. 118/150), há informações de que o acusado, após o cometimento do delito e quando ainda não tinha sido decretada sua prisão temporária, intimidou a testemunha presencial Aron, o que denota que possui personalidade voltada para a prática criminosa. Portanto, é necessária a decretação da prisão preventiva do denunciado diante do fundado receio de que em liberdade voltará a perpetrar crimes desta natureza”.
+    Dessarte, não vislumbro constrangimento ilegal manifesto a justificar o excepcional conhecimento deste habeas corpus. Daí, o acerto da decisão impugnada.
+    Ante o exposto, nego seguimento ao pedido formulado neste habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 10 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
