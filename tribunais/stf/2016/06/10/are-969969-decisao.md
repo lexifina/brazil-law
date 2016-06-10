@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTO - IPTU - Município de Presidente Prudente - Exercícios de 2008 e seguintes – Ação anulatória cumulada com repetição de indébito - Ilegitimidade da instituição da progressividade no tempo - Inobservância pela Municipalidade ao estatuído no art. 182, § 4º da CR e no Estatuto da Cidade Inconstitucionalidade da Lei Complementar nº 113/2001, do Município de Presidente Prudente, reconhecida pelo C. Órgão Especial desta Corte Possibilidade da cobrança do IPTU pela alíquota mínima, enquanto perdurar a situação fática e jurídica em relação ao imóvel tributado - Recurso não provido.
+    JUROS MORATÓRIOS - Contagem sobre a quantia a ser restituída a partir do trânsito em julgado da sentença, nos termos do parágrafo único do art. 167 do CTN e da Súmula nº 188 do
+    STJ - Recurso provido neste aspecto”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 156, §1º, e 182, §4º, da Carta. Defende, em síntese, a legalidade das alíquotas progressivas de IPTU. Aduz que não deve restituir valores cobrado porquanto não houve comprovação do pagamento dos tributos.
+    A pretensão não merece acolhida. A controvérsia, tal como posta nos autos, demanda o reexame dos fatos e da legislação ordinária local pertinente – Lei ordinária nº 10.257/2001 e Lei Complementar 113/2001 –, o que é vedado em sede de recurso extraordinário, nos termos das Súmulas 279 e 280/STF. No caso dos autos, o Tribunal de origem consignou o seguinte:
+    “Não se mostra viável, data venia, a instituição da progressividade enunciada pelo Plano Diretor, nem mesmo com fundamento na citada Lei Complementar Municipal nº 113/2001, que se limita a definir os perímetros onde se situam áreas não edificadas sujeitas à progressividade do IPTU, sem, todavia, enunciar as diretrizes a serem adotadas pela Administração para o cumprimento da função social da propriedade.
+    Nem mesmo é possível saber, diante do que informam os autos, se os perímetros, tal como definidos na mencionada Lei Complementar Municipal, estavam inclusos no plano diretor antecedente, diante da revisão procedida pela Lei Complementar nº 151/2008, de modo que se torna inviável defender a aplicabilidade nos exercícios anteriores à sua vigência e mesmo naqueles sob sua égide, por afronta ao estatuído no art. 5º da Lei nº 10.257/2001, segundo o qual “Lei municipal específica para área incluída no plano diretor poderá determinar o parcelamento, a edificação ou a utilização compulsórios do solo urbano não edificado, subutilizado ou não utilizado, devendo fixar as condições e os prazos para implementação da referida obrigação (…)
+    Diante disso, há de ser mantida a sentença em relação à ilegitimidade da instituição da progressividade.
+    No tocante aos juros, todavia, comporta provimento o apelo do Município, haja vista que os mesmos devem incidir a partir do trânsito em julgado da repetição de indébito, nos termos da Súmula nº 188 do STJ.
+    No contexto dos interesses em jogo, pode-se afirmar ter o autor decaído de parte mínima do pedido, sendo aplicável à espécie, daí, o parágrafo único do art. 21 do CPC.”.
+     Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 10 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
