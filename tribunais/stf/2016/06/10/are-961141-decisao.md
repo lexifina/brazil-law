@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de injúria. No extraordinário, cujo trânsito busca alcançar, o recorrente alega a violação aos artigos 5º, inciso IV, e 220 da Constituição Federal. Tece considerações sobre as opiniões emitidas, afirmando estarem no âmbito do exercício da profissão de jornalista e da liberdade de expressão, não havendo dano à imagem ou à honra que justifiquem a pena imposta.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido a seguinte fundamentação:
+    No que toca à frase Jackson Barreto é considerado um dos maiores ficha suja do Brasil, o querelado apresenta a justificativa de que baseou sua afirmação em informação apresentada no programa CQC. Tal situação não o isentaria de responsabilidade, até mesmo porque sequer há demonstração de que houve tal alegação realizada no programa mencionado. O querelante apresenta certidões de que não possui sentença condenatória que o impeça a se candidatar às eleições. Assim, também não poderia isentar de responsabilidade sua conduta, com base em reportagem veiculada há 4 anos atrás, em revista de circulação nacional. Registre também que a dita reportagem nada fala sobre o querelante em seu texto, apesar de a documentação apresentada pelo querelado apresentar foto do querelante em tal matéria.
+    Embora o querelado afirme que, na condição de jornalista, apenas relatou fatos de conhecimento público e que cumpriu com sua função de informar à sociedade, verifica-se a presença do animus injuriandi nas expressões utilizadas e que, em verdade, foram feitas ofensas pessoais com adjetivações injuriosas, caracterizando o excesso.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 10 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
