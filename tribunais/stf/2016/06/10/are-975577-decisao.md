@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA: INEXISTÊNCIA.CONTRATO DE CORRETAGEM. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO, DO CONTRATO E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “CIVIL E PROCESSUAL. CDC. APLICABILIDADE. PRELIMINAR. LEGITIMIDADE. PRECLUSÃO. EMPRESAS DE CORRETAGEM. CADEIA DE CONSUMO. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. INCORRÊNCIA. MÉRITO. PROMESSA DE COMPRA E VENDA. RESCISÃO IMOTIVADA. RETENÇÃI. SINAL. IMPOSSIBILIDADE. DISTRTATO. REVISÃO. POSSIBILIDADE. JUROS DE MORA. CITAÇÃO. HONORÁRIOS. REVISÃO. IMPOSSIBILIDADE. SENTENÇA MANTIDA”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Agravante alega contrariados os arts. 1º, incs. III e IV, 5º, incs. XXII e XXXVI, 6º, 93, inc. IX, e 170, caput e parágrafo único, da Constituição da República.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e de ausência de prequestionamento.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE n. 140.370, Relator o Ministro Sepúlveda Pertence, RTJ 150/269).
+    6. No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral quanto às alegações de contrariedade aos princípios do devido processo legal, do contraditório e da ampla defesa quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    7. A apreciação do pleito recursal dependeria do reexame de provas, do contrato firmado entre as partes e da legislação infraconstitucional, procedimento inadmissível em recurso extraordinário. Incidem, na espécie, as Súmulas ns. 279 e 484 do Supremo Tribunal Federal:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. 3. Contrato de Corretagem. Matéria infraconstitucional. Necessidade do revolvimento do conjunto fático-probatório dos autos e de cláusulas contratuais. Incidência dos Enunciados 279 e 454 da Súmula do STF. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (ARE n. 808.334-AgR/MG, Relator o Ministro Gilmar Mendes, Segunda Turma, DJ 5.6.2014).
+    “EMENTA: Recurso extraordinário: descabimento: acórdão recorrido que, ao decidir questão relativa a contrato de corretagem, restringiu-se a aplicar a legislação infraconstitucional pertinente ao caso; a alegada violação a dispositivos constitucionais, se ocorrente, seria indireta ou reflexa, que não enseja reexame na via extraordinária” (AI n. 397.415-AgR/RJ, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 26.3.2004).
+    8. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
