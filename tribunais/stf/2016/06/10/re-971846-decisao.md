@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à procedência do pedido de remoção de servidora, por motivo de saúde de dependente, na forma da Lei nº 8.112/90. Nas razões do extraordinário, a recorrente alega a violação dos artigos 5º, inciso I, 37 e 226 da Constituição Federal. Diz que a aprovação em concurso nacional submete o servidor à lotação segundo os interesses da Administração, devendo ser observado apenas local que possibilite o tratamento médico necessário, e não a cidade escolhida segundo a opção pessoal da autora. Entende contrariados os princípios da isonomia, legalidade, impessoalidade e moralidade.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Colegiado de origem expressamente consignou ter a autora preenchido os requisitos para a concessão da remoção. Confiram com o seguinte trecho:
+    [...]
+    No caso posto a julgamento, a doença da filha da postulante e a sua gravidade restaram comprovadas, por junta médica oficial, fl.207, além da vasta documentação médica acostada às fls.41/48, nas quais ficou assente ser ela portadora de traço falciforme e infecções respiratórias de repetição, necessitando de acompanhamento de rotina, fls.41.
+    Por outro lado, consoante os documentos de fls. 190/192, no município de Ji Paraná/RO, no qual foi lotada a autora, não existem médicos hematologistas, cuja especialidade é necessária ao tratamento da doença de sua filha.
+    Outrossim, tal como observado pela ilustre sentenciante, embora a patologia apresentada pela filha da postulante seja anterior à sua investidura, em 2009, uma vez que a criança já nasceu portando a doença congênita em 2006, entretanto, a moléstia é posterior à aprovação da autora para o cargo de Delegada da Polícia Federal, uma vez que o concurso público ao qual se submeteu ocorreu em 2004.
+    [...]
+    A requerente já se encontra exercendo as suas atividades na cidade de Fortaleza/CE há quase três anos, tendo sido removida provisoriamente por força de antecipação de tutela concedida nos presentes autos, a qual foi confirmada por sentença. Portanto, a reforma desta decisão no atual momento refletiria de forma negativa no tratamento médico de sua filha, prejudicando, sobremaneira, a estabilidade familiar, tão necessária à melhoria das condições de saúde das pessoas.
+    Por outro lado, não traria qualquer benefício à Administração Pública, mas, talvez, prejuízo, ante o péssimo estado emocional que a autora passaria a ostentar, ao ter que ficar longe de sua filha doente, sabendo que ela necessita de sua presença, situação esta que, inevitavelmente, refletiria no exercício do seu trabalho e, consequentemente, na sua produtividade.
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 10 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
