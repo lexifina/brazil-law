@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 1ª Turma Recursal do Paraná, ementado nos seguintes termos:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO DO MINISTÉRIO PÚBLICO DA UNIÃO. ADICIONAL DE ATIVIDADE PENOSA. ZONA DE FRONTEIRA. ART. 71 DA LEI Nº 8.112/90. REGULAMENTAÇÃO PELA PORTARIA PGR/MPU Nº 633/2010. IRRETROATIVIDADE.
+    1. O adicional de atividade penosa está previsto no art. 71 da Lei nº 8.112/90, condicionando-se o seu pagamento à edição de regulamentação.
+    2. A Portaria PGR/MPU nº 633, de 10 de dezembro de 2010, regulamentou o pagamento do adicional aos servidores do MPU, sem previsão de retroatividade.
+    3. Se o adicional carecia de ulterior regulamentação, seus efeitos só podem ser produzidos após a edição do ato normativo infralegal que regulamentou o dispositivo da Lei nº 8.112/90. Além disso, somente a partir da vigência da referida portaria é que o adicional de atividade penosa é devido.” (eDOC 42)
+    No recurso extraordinário (eDOC 44), interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 7º, XXIII, do texto constitucional.
+    Nas razões recursais, alega-se que a norma constitucional que garante o adicional de insalubridade é de eficácia plena, dispensando, portanto, regulamentação pela legislação infraconstitucional. Sustenta-se, portanto, que a Portaria PGR/MPU nº 633/2010, ao não prever a retroatividade do adicional de atividade penosa, violou a Constituição Federal.
+    Decido.
+    O recurso não merece prosperar.
+    A pretensão da parte recorrente, no sentido de que tal benefício social dispensaria regulamentação pelas normas estatutárias, diverge da jurisprudência do Supremo Tribunal Federal, que entende ser necessária edição de ato regulamentador para implantação de tais adicionais. Nesse sentido:
+    “Servidor público. Adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei. Art. 7º, XXIII, da Constituição Federal. - O artigo 39, § 2º, da Constituição Federal apenas estendeu aos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios alguns dos direitos sociais por meio de remissão, para não ser necessária a repetição de seus enunciados, mas com isso não quis significar que, quando algum deles dependesse de legislação infraconstitucional para ter eficácia, essa seria, no âmbito federal, estadual ou municipal, a trabalhista. Com efeito, por força da Carta Magna Federal, esses direitos sociais integrarão necessariamente o regime jurídico dos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios, mas, quando dependem de lei que os regulamente para dar eficácia plena aos dispositivos constitucionais de que eles decorrem, essa legislação infraconstitucional terá de ser, conforme o âmbito a que pertence o servidor público, da competência dos mencionados entes públicos que constituem a federação. Recurso extraordinário conhecido, mas não provido.” (RE 169.173, Rel. Min. Moreira Alves, Primeira Turma, DJe 16.5.1997)
+    Nessa mesma linha, cito os seguintes julgados: RE 637.282, Rel. Min. Dias Toffoli, DJe 31.8.2012; RE 477.520, Rel. Min. Celso de Mello, DJe 15/6/2010; e ARE 827.297, Rel. Min. Luiz Fux, DJe 14.10.2015.
+    Finalmente, divergir do entendimento adotado pelo Colegiado de origem, no sentido de que a Portaria PGR/MPU 633/2010 não conferiu efeitos retroativos ao referido adicional, é controvérsia que se restringe ao âmbito da legislação infraconstitucional, de modo que eventual ofensa à Constituição Federal, se existente, seria meramente reflexa ou indireta.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
