@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (eDOC 1, p. 101):
+     “ADMINISTRATIVO E PROCESSUAL CIVIL. AÇAO ORDINÁRIA. POLICIAL MILITAR DA RESERVA REMUNERADA. INDENIZAÇÃO DE FÉRAIS NÃO GOZADAS. SENTENÇA RECONHECENDO A PRESCRIÇÃO. RECURSO DE APELAÇÃO DO AUTOR.
+    1. É pacífico na jurisprudência do STJ que o termo ‘a quo’ da prescrição do direito de pleitear indenização relativa às férias não gozadas tem início no ato que transfere o servidor para a inatividade. Assim, tendo o Recorrente sido transferido para a reserva remunerada em 25.10.2004, conforme fl. 10, observa-se que a ação proposta em 11.02.2008 (fl. 02), encontra-se dentro quinquênio prescricional;
+    2. Afastada a prescrição reconhecida pela r. Sentença, aplicável, ‘in casu’, a teoria da causa madura prevista no art. 515, §3º, do CPC, já que se trata de matéria exclusivamente de direito, fato que autoriza esta Corte a analisar o mérito da demanda, conforme jurisprudência do STJ;
+    3. Conforme declaração expressa do Comandante do Batalhão, o Apelante deixou de gozar férias nos períodos mencionados na edital por extrema necessidade do serviço, bem como restou provado que as férias não foram computadas em dobro como tempo de serviço para a inatividade, conforme previsto no §5º, do art. 65, da Lei nº 3.933/81. Ademais, o Estatuto da Polícia Militar vigente (Lei nº 7.990/2001), embora não tenha estabelecido a possibilidade de cômputo do dia a dia, pelo dobro, do período de férias não gozado quando da passagem do policial militar para a inatividade, trouxe expressamente a previsão da indenização caso não sejam gozadas as férias, conforme disposto nos §§ 4º e 5º, do art. 140;
+    4. É devido o pagamento da correspondente indenização diante das informações contidas nos autos, que certificam a ausência de fruição das férias em virtude da necessidade do serviço público, bem assim porque o Estado da Bahia não juntou prova contrária ao direito do Autor.
+    RECURSO DE APELAÇÃO CONHECIDO E PROVIDO.”
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 154-160).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, caput, XXXV e XXXVI; 37, caput, XIV e XV; 39, §1º; 40, §4º; e 93, IX, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em suma, que “O recorrido, a ser transferido para a inatividade, nada pleiteou a respeito de indenização de férias não gozadas. Há de se supor, portanto, que aceitaram o fim do seu vínculo funcional com a Administração Pública, renunciando a eventual direito de ressarcimento de férias.” (eDOC 1, p. 182).
+    A 2ª Vice-Presidência do TJ/BA inadmitiu o recurso extraordinário com base nas Súmulas 279 e 280 do STF (eDOC 1, pp. 217-220).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Com efeito, quando do julgamento da apelação, o Tribunal de origem consignou que não se pode falar em prescrição do direito de pleitear a indenização em virtude das férias não gozadas, visto que o termo a quo para esta pretensão tem início no ato de transferência do servidor para a inatividade. Assentou, ainda, que (eDOC 1, p. 106):
+    “é devido o pagamento da correspondente indenização diante das informações contidas nos aludidos documentos que certificam a ausência de fruição das férias em virtude da necessidade do serviço público, bem assim por que o Estado da Bahia não juntou prova contrária ao direito do Autor.”
+    Assim, verifica-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e da legislação aplicável à espécie (Leis Estaduais 7.990/2001), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    Ademais, inexiste a alegada ofensa ao art. 93, IX, da Constituição Federal. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses da parte recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional, por ausência de fundamentação, e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 10 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
