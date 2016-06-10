@@ -1,0 +1,33 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. APLICAÇÃO DOS ÍNDICES PARA REAJUSTE DO TETO DE CONTRIBUIÇÃO: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+    “PREVIDENCIÁRIO. AGRAVO PREVISTO NO ART. 557, § 1º, DO CPC. RECURSO CABÍVEL. FUNGIBILIDADE. REVISÃO DE BENEFÍCIO. PROCESSUAL CIVIL. EMENDAS COSNTITUCIONAIS 20/98 E 41/2003. PROPORCIONALIDADE NOS REAJUSTES DOS BENEFÍCIOS EM MANUTENÇÃO.
+    I – O agravo regimental interposto, deve ser recebido como agravo previsto no art. 557, § 1º, do Código de Processo Civil, considerando a tempestividade e o princípio da fungibilidade recursal.
+    II – A r. Decisão agravada asseverou que a edição das Portarias nºs 4.883/98 e 12/2004 teve por objetivo regularizar as disposições insertas nas Emendas Constitucionais nºs 20/98 e 41/2003, relativamente aos tetos dos salários-de-contribuição, com o fito de garantir a concessão dos futuros benefícios com base nos novos limites, não se dirigindo aos reajustes daqueles já em manutenção.
+    III – Agravo previsto no artigo 557, § 1º, do CPC, interposto pela parte autora improvido” (Vol. 2, fl. 110, e-STJ).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante alega ter o Tribunal de origem contrariado os arts. 1º, inc. III, 3º, inc. I, 5º, inc. XXXVI, 201 e 202 da Constituição da República.
+    Argumenta que “o v. Acórdão negou vigência aos termos dos artigos 201 e 202, em sua redação original, da CF/88, que determina a correção e atualização de todos os salários de contribuição, não havendo limitação ao teto para a aferição do salário de benefício, apenas havendo limitação para o valor da renda mensal inicial a ser paga, sendo certo que não observou a favor do recorrente o novo teto estabelecido quando das Emendas Constitucionais 20/98 e 41/03, conforme conta apresentada pelo segurado no corpo de seu recurso de apelação, o que também já fora apresentada quando da propositura da demanda.
+    (…) não pode concordar o recorrente com a r. Decisão monocrática, uma vez que se trata da aplicação dos novos patamares máximos estabelecidos nas EC 20/98 e 41/03 aos casos concedidos antes de sua vigência, que tiveram parte de sua RMI retidos quando do pagamento dos valores mensais dos benefícios, e que, com os novos patamares são passíveis de incorporação no pagamento mensal dos benefícios, em consonância ao que disposto pelo legislador constitucional que, expressamente, determina a atualização monetária dos salários de contribuição de acordo com a variação inflacionária do período, mês a mês, com a intenção direta de preservar o valor real do benefício” (Vol. 2, fls. 136-148, e-STJ).
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula n. 284 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. No julgamento do Recurso Extraordinário com Agravo n. 685.029 (Tema n. 589), Redator para o acórdão o Ministro Luiz Fux, este Supremo Tribunal concluiu inexistir repercussão geral na pretensão de revisão de renda mensal de benefício previdenciário mediante aplicação dos mesmos índices utilizados para reajuste do teto do salário-de-contribuição:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. ÍNDICE. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. ART. 201, § 4º, DA CRFB/88. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. INEXISTÊNCIA DE REPERCUSSÃO GERAL” (DJe 7.11.2014).
+    Confira-se trecho da manifestação do Relator:
+    “Não há, porém, questão constitucional por examinar.
+    A matéria suscitada no recurso extraordinário versa sobre a adoção, para fins de revisão da renda mensal de benefício previdenciário, dos mesmos índices aplicados para o reajuste do teto do salário-de-contribuição, relativamente aos meses de junho de 1999 (Portaria nº 5.188/99) e maio de 2004 (Decreto nº 5.061/04), conforme o disposto nas Emendas Constitucionais nº 20/98 e nº 41/2003.
+    Verifico, no entanto, que o acórdão impugnado, ao confirmar os termos da sentença, decidiu a causa com base apenas na interpretação e aplicação da legislação infraconstitucional pertinente (Leis n.º 8.212/1991 e nº 8.213/1991), de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta.
+    Ademais, é assente o entendimento de que o debate em torno do índice utilizado para o reajuste de benefícios previdenciários depende de exame da legislação infraconstitucional, pois ‘[...] os critérios informadores do reajustamento dos benefícios previdenciários hão de ser aqueles resultantes da lei, segundo prescreve a própria Constituição da República, em seu art. 201, § 4º (antigo § 2º), na redação dada pela EC nº 20/98’ (cf. ARE nº 648.039, Rel. Min. CELSO DE MELLO, DJe 9.11.2011. No mesmo sentido: ARE nº 648.042-AgRg, Rel. Min. CELSO DE MELLO, DJe 23.04.2012; ARE nº 648.037-AgRg, Rel. Min. LUIZ FUX, DJe 06.06.2012; RE nº 537.616-AgRg, Rel. Min. DIAS TOFFOLI, Dje 03.02.2012; e AI nº 543.804-AgRg, Rel. Min. ELLEN GRACIE, DJe 15.04.2010).
+    Ora, é pacífica a jurisprudência desta Corte no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+    Por fim, o Plenário já assentou que é de se reputar ausente a repercussão geral da questão debatida, quando eventual ofensa à Constituição da República se dê apenas de forma indireta ou reflexa (cf. RE 583.747-RG, Rel. Min. MENEZES DIREITO, DJe de 29.4.2009):
+    (…)
+    Isto posto, não havendo questão constitucional por examinar, não se excogita, pois, existência de repercussão geral (art. 324, §2º, do RISTF)”.
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações do Agravante.
+    6. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
