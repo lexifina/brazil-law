@@ -1,0 +1,73 @@
+DECISÃO
+RECLAMAÇÃO. USO DE ALGEMAS EM AUDIÊNCIA. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 11 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PLAUSIBILIDADE JURÍDICA DAS ALEGAÇÕES. ATO RECLAMADO ANTERIOR À APROVAÇÃO DA SÚMULA INVOCADA. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Reclamação, com requerimento de medida liminar, ajuizada por Sérgio Weslei da Cunha, advogado, em causa própria, contra ato do juízo da Terceira Vara Criminal do Fórum da Comarca de Presidente Venceslau/SP, que, no Processo n. 0001975-88.2008.8.26.0483, teria descumprido a Súmula Vinculante n. 11 do Supremo Tribunal Federal na audiência de interrogatório.
+    2. Tem-se no ato reclamado:
+    “Vistos.
+    I - De todo o exposto se alvitra, em verdade, de três indagações: uma, quanto afixação de fiança para eventual concessão de liberdade provisória; duas, quanto do deferimento de gravação do ato de interrogatório; e três quanto à dispensa do uso de algemas pelo réu.
+    II - Fundamento e decido. Um, no que tange à fixação de fiança, o juízo já manifestou seu entendimento quanto à não concessão da liberdade provisória, o que, por óbvio, torna prejudicada tal questão; dois, no que concerne ao pedido de gravação do ato indefiro por absoluta ausência de plausibilidade jurídica e inutilidade, vez que, de outra banda, determino desde já a entrega a defesa técnica do réu de cópia da mídia referente ao presente interrogatório; três, finalmente indefiro o pedido de dispensa do uso de algemas. Com efeito, ainda que o réu não tenha resistido à prisão e, em princípio, colaborado com toda a atividade policial desenvolvida, a gravidade dos fatos narrados na denúncia e sua suposta conexão com uma facção criminosa requerem todo o cuidado com o ato em questão. Aliás, nem se fale em constrangimento pelo uso das algemas, como bem já decidiu o Egrégio TRIBUNAL DE JUSTIÇA DE SÃO PAULO (JTJ-LEX 247/166), o SUPERIOR TRIBUNAL DE JUSTIÇA (STJ REsp 571924/PR) e nosso Pretório Excelso (RHC 65.465-SP).
+    III Das questões alheias à atuação jurisdicional nada a prover“ (grifos nossos).
+    3. O Reclamante alega contrariedade à Súmula Vinculante n. 11 deste Supremo Tribunal e argumenta que “Não houve nenhuma fundamentação que alinhasse o decisum reclamado com o teor da Súmula Vinculante 11, do STF, ou seja:
+    1) A decisão não demonstra a ocorrência de resistência por parte do recorrente;
+    2) A decisão não demonstra fundado receio de fuga, e
+    3) A decisão não demonstra a possibilidade de perigo à integridade física própria ou alheia.
+    Atente-se que na decisão, o próprio juiz reconhece que o recorrente não resistiu e prisão e colaborou com a atividade policial, ainda que o famigerado PIC inconstitucional tenha sido feito por meses em gabinete do GAECO, sem passar pelo crivo do Poder e polícia judiciária.
+    Algemou-se por algemar!! Algemou para constranger, pois apesar desta parte inicial ter sido suprimida do vídeo, se assistido até o fim, a de se ver que as mãos do recorrente estão algemadas para trás, e só no final do interrogatório, aí sim filmado, o juiz determina que se algeme com as mãos para frente” (sic).
+    Ressalta que “a audiência de interrogatório pelo antigo rito processual É UM ATO NULO, por ter sem razão, violado o enunciado deste Pretório Excelso”.
+    Assinala “que o recorrente foi condenado a pena de 06 (seis) anos no regime fechado, pelo crime descrito no artigo 288, § 1º, do CP. Foi denunciado e condenado sozinho em um crime de concurso necessário e no modo qualificado à pena máxima, mesmo não tendo sido encontrada nenhuma arma em sua residência (objeto de busca e apreensão), em seu escritório ou no parlatório de Venceslau”.
+    Pondera “que o próprio juiz de 1º grau, antes da sentença, concedeu a liberdade provisória ao recorrente, em pedido feito à mão em uma folha de caderno pelo próprio recorrente dentro do cárcere, em detrimento às inúmeras petições da defesa técnica”.
+    Assevera que, “ Se (...) também se atentarem para os autos, poderão verificar as seguintes nulidades entre outras e concederem Habeas Corpus de Ofício:
+    1) Falta de cautelar anterior (falta de inquérito policial);
+    2) Falta de Distribuição para aferir o Juiz Natural (na Comarca existem 3 varas criminais);
+    3) PIC (GAECO) inconstitucional (da maneira que foi feito, não preencheu os requisitos do STF);
+    4) Despacho prisão temporária sem cautelar (10/03/2008);
+    5) Prorrogação prisão temporária (alegação falsa);
+    6) Prisão preventiva sem fundamentação idônea (19/03/2008);
+    7) Falta de autorização para escuta ambiental no parlatório;
+    8) CD da escuta montado, forjado, EDITADO;
+    9) Uso ilegal de material (áudio) da defesa para confronto de voz;
+    10) Falta de distribuição para aferir juiz natural. Representação do MP não foi protocolizada para definição do Juiz natural e sim “formalmente” endereçada ao Juiz da 3ª Vara Genérica;
+    11) Falta de mandado de busca e apreensão;
+    12) Apreensão de material protegido pelo Estatuto da advocacia (pasta de trabalho);
+    13) Denúncia inepta, pois crime de concurso necessário e erro de pessoa, quem arrolou o vice-secretário foi o adv Sergio Mantovani;
+    14) Uso de videoconferência quando ainda não permitido por lei;
+    15) Não requisição, nem apresentação para nenhuma das 04 audiências da instrução;
+    16) Não informação dos nomes dos funcionários e suas habilitações para realizar escutas;
+    17) Denunciação caluniosa constante da denuncia pois o representante nunca participou do proc. 1.352/06-A da 7ª Vara Criminal da Capital;
+    18) Uso abusivo de algemas com os braços para trás no interrogatório por videoconferência;
+    19) Não oitiva das testemunhas de defesa arroladas tempestivamente;
+    20) Relator da apelação SUSPEITO E AFASTADO POR VENDER LIMINARES... Também não pertencia à câmara... (Sr. Otávio Augusto);
+    21) Reforma da decisão de admissibilidade do Recurso Extraordinário de ofício, NE PROCEDAT JUDEX EX OFFICIO pelo TJSP”.
+    4. Em 7.6.2016, foi protocolada neste Supremo Tribunal a Petição n. 29.691, cujo envio pelo correio foi noticiado na inicial, acompanhada de mídia com a gravação da audiência de interrogatório, cujo conteúdo foi degravado e consta no Evento n. 15 (fls. 73-85).
+    Este o teor dos pedidos:
+    “a) A gratuidade judiciária, eis que hipossuficiente nos termos da lei nº 1.060/50, com as alterações introduzidas pela Lei nº 7.115/83 e pela Lei nº 7.510/84, que prescreve a concessão de gratuidade judiciária a todo aquele que, para custear as despesas de um processo ponham em risco o sustento próprio e ou de sua família;
+    b) O deferimento de Medida Liminar para que seja suspenso o trâmite do feito criminal até o julgamento do mérito desta reclamação;
+    c) As notificações e intimações de praxe;
+    d) O Provimento Integral da presente Reclamação, reconhecendo a negativa de vigência ao enunciado da Súmula Vinculante 11, decretando-se a nulidade da audiência de interrogatório, pois não havia motivos idôneos para manter o recorrente algemado, e anulado todos os atos subsequentes, a fim de que novo interrogatório seja realizado sem a utilização indevida de algemas;
+    e) alternativamente, a concessão de Ordem de Habeas Corpus, de ofício, para trancar a ação penal pela falta de distribuição para aferir o juiz natural, pela denúncia inepta (crime de concurso necessário e erro de pessoa), por não permitir a oitiva de testemunhas de defesa arroladas tempestivamente, e pela não requisição e não apresentação do recorrente em nenhuma das 04 (quatro) audiências realizadas, ou de ofício alterar o regime inicial para o semiaberto, entre outras inúmeras ilegalidades, todas constatadas nos autos, cuja íntegra segue em anexo”.
+    Examinados os elementos postos à apreciação, DECIDO.
+    5. Razão de direito não assiste ao Reclamante.
+    6. A reclamação é instrumento constitucional processual posto no sistema como dupla garantia formal da jurisdição: primeiro, para o jurisdicionado que tenha recebido resposta a pleito formulado judicialmente e vê a decisão proferida afrontada, fragilizada e despojada de vigor e eficácia; segundo, para o Supremo Tribunal Federal (art. 102, inc. I, al. l, da Constituição da República) ou para o Superior Tribunal de Justiça (art. 105, inc. I, al. f, da Constituição), que podem ter suas competências enfrentadas e menosprezadas por outros órgãos do Poder Judiciário e a autoridade de suas decisões mitigada em face de atos reclamados.
+    Com a reclamação, busca-se fazer com que a prestação jurisdicional mantenha-se dotada de vigor jurídico ou que o órgão judicial de instância superior tenha a sua competência resguardada.
+    A reclamação não se presta a antecipar julgados, a atalhar julgamentos, a fazer sucumbirem decisões sem que se atenham à legislação processual específica discussões ou litígios a serem solucionados juridicamente.
+    7. Põe-se em foco na presente reclamação se, ao determinar fosse o Reclamante mantido algemado na audiência de interrogatório em processo criminal, o juízo da Terceira Vara Criminal da Comarca de Presidente Venceslau/SP teria desrespeitado a Súmula Vinculante n. 11 do Supremo Tribunal Federal.
+    O advento do instituto da súmula vinculante inaugurou nova hipótese de cabimento de reclamação para o Supremo Tribunal Federal, conforme disposto no art. 103-A, § 3º, da Constituição da República.
+    A contrariedade a determinada súmula ou a sua aplicação indevida por ato administrativo ou decisão judicial possibilita a atuação do Supremo Tribunal Federal, que, ao julgar a reclamação procedente, pode anular o ato ou cassar a decisão e determinar outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    8. Na sessão plenária de 13.8.2008, este Supremo Tribunal aprovou a Súmula Vinculante n. 11, com o seguinte teor:
+    “Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado”.
+    9. A decisão reclamada foi proferida em 31.3.2008 (Evento n. 38), poucas horas antes da realização da audiência de interrogatório do Reclamante, esclarecendo-se a excepcionalidade da medida e assentando-se que a “gravidade dos fatos narrados na denúncia e sua suposta conexão com uma facção criminosa requerem todo o cuidado com o ato em questão”.
+    A autoridade reclamada não se poderia pautar por súmula que sequer havia sido aprovada na data e fundamentou a decisão reclamada em decisões do Tribunal de Justiça do Estado de São Paulo e do Superior Tribunal de Justiça (Evento n. 38, fl. 2).
+    10. A afronta invocada como base desta reclamação é impossível, por ter sido proferido em 31.3.2008 o ato reclamado e a Súmula Vinculante n. 11 aprovada pelo Plenário deste Supremo Tribunal Federal em 13.8.2008, evidenciando-se a ausência de plausibilidade jurídica da presente ação.
+    Além dessa incompatibilidade cronológica, a fundamentação lançada pela autoridade reclamada tem sido aceita como causa impeditiva do seguimento de reclamação cujo objeto seja o que aqui se contém. No julgamento da Reclamação n. 7.268/DF, o Ministro Menezes Direito decidiu:
+    “a decisão impugnada não afronta a autoridade da Súmula Vinculante n. 11, tendo em vista a existência de fundamentação escrita que justifica, no caso vertente, a excepcionalidade do uso de algemas. (...)
+    Conforme se verifica, houve a justificativa expressa do magistrado para o uso das algemas durante aquele ato processual, que tomou por base, entre outros argumentos, a declaração feita pela escolta do reclamante, que afirmou não poder garantir a segurança dos presentes à audiência se o acusado permanecesse sem as algemas.
+    Ademais, anoto, por oportuno, que em caso idêntico, esta Suprema Corte decidiu que: ‘não é possível admitir-se, em sede de reclamação, qualquer dúvida a respeito das questões de fato apontadas pela juíza para negar o pedido da defesa de retirada das algemas do reclamante’ (RCL n. 6.870/GO, decisão monocrática, Relatora a Ministra Ellen Gracie, DJE de 6/11/08). No mesmo sentido: RCL nº 6.963/SP, decisão monocrática, Relator o Ministro Cezar Peluso, DJE de 17/11/08.
+    Ante o exposto (...) nego seguimento a presente reclamação” (DJ 9.12.2008).
+    Confiram-se, por exemplo, as seguintes decisões monocráticas: Rcl n. 9.086/PA, Relator o Ministro Ricardo Lewandowski, DJ 6.10.2009; Rcl n.8.313/SP, Relator o Ministro Celso de Mello, DJ 2.10.2009; Rcl n. 8.032/SP, Relator o Ministro Menezes Direito, DJ 17.8.2009; Rcl n. 7.264/DF, Relator o Ministro Celso de Mello, DJ 12.8.2009; Rcl n. 7.260/DF, Relator o Ministro Celso de Mello, DJ 7.8.2009; Rcl n. 8.659/SP, Relator o Ministro Celso de Mello, DJ 5.8.2009; Rcl n. 8.328/SP, Relator o Ministro Celso de Mello, DJ 24.6.2009; Rcl n. 7.926/MG, Relator o Ministro Eros Grau, DJ 16.6.2009; Rcl n. 8.148/RJ, Relatora a Ministra Ellen Gracie, DJ 15.6.2009; Rcl n. 7.819/DF, Relator o Ministro Eros Grau, DJ 10.6.2009; Rcl n. 7.570/PR, Relatora a Ministra Ellen Gracie, DJ 3.6.2009; Rcl n. 7.261/DF, Relator o Ministro Eros Grau, DJ 27.5.2009; Rcl n. 8.156/RJ, Relator o Ministro Menezes Direito, DJ 11.5.2009; Rcl n. 6.781/PA, Relator o Ministro Eros Grau, DJ 29.4.2009; Rcl n. 6.540/DF, Relator o Ministro Eros Grau, DJ 24.4.2009; Rcl n. 7.943/SP, Relator o Ministro Joaquim Barbosa, DJ 13.4.2009; Rcl n. 6.599/DF, Relator o Ministro Eros Grau, DJ 23.3.2009; Rcl n. 6.564/DF, Relator o Ministro Joaquim Barbosa, DJ 5.3.2009; e Rcl n. 7.361/SP, Relator o Ministro Joaquim Barbosa, DJ 4.3.2009.
+    O precedente arguido com a juntada da petição e documento constantes do Evento n. 46 e 47, embora não identificado, não pode ser aproveitada pelo Reclamante, por retratar situação diversa da sua, na qual a audiência foi realizada no ano de 2008, antes da edição da Súmula Vinculante n. 11 e foi adequadamente fundamentada, sem adequada e tempestiva impugnação.
+    11. Pelo exposto, nego seguimento à presente reclamação (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal), ficando, por óbvio, prejudicada a medida liminar requerida.
+    Prejudicada a degravação do conteúdo da mídia recebida em 7.6.2016 com a Petição n. 29.691, cujo teor está transcrito por estenotipia no Evento n. 15, proceda-se ao seu arquivamento, devolvendo-se ao Reclamante, se oportunamente solicitado.
+    Publique-se.
+    Brasília, 10 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
