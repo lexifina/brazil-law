@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PENAL. DESCAMINHO. MATERIALIDADE E AUTORIA. COMPROVAÇÃO. TRANSPORTADOR. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. EFEITOS DA CONDENAÇÃO. INABILITAÇÃO PARA DIRIGIR. MOTORISTA PROFISSIONAL. 1. Comprovados a materialidade, a autoria e o dolo do réu na prática do crime de descaminho, mantém-se a sua condenação como incurso nas penas do artigo 334, § 1º, alínea 'd', c/c § 2º, do Código Penal. 2. Presentes os requisitos legais, cabível a substituição da pena privativa de liberdade por restritiva de direito. 3. O efeito da condenação, consistente na inabilitação para dirigir veículos, deve ser aplicado em casos de descaminho, contrabando, bem como de tráfico de drogas, armas, animais ou pessoas, restando o agente inabilitado para conduzir veículo, em especial quando evidenciado que a fruição do direito de dirigir teve importância no 'iter criminis'. Todavia, em razão do princípio da individualização da pena, não se aplica ao réu que é motorista profissional, porquanto inviabilizaria o exercício de sua atividade laborativa”.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, I, XXXIX, XLVI e XLVII, da Constituição. Sustenta que, “NENHUMA PROVA SEGURA FOI PRODUZIDA NO CONTRADITÓRIO JUDICIAL DA ORIGEM E DA PROCEDENCIA, NEM LAUDO MERCIOLOGICO NEM PERICIAL”. Afirma que “O ACORDÃO ESTÁ EM ERRO MATERAIL E FORMAL, AO AFIRMAR QUE OS BENS SÃO ESTRANGERIOS, NAO HÁ PROVA SEGURA, FEITA NOS DOCUMENTOS E NEM NOS DEPOIMENTOS EM JUIZO PELOS AUDITORES DA RECEITA FEDERAL QUANTO AO PAIS DE ORIGEM E OU FABRICANTE”.
+    O recurso é inadmissível, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão recorrido:
+    “[...]
+    Com o efeito, a materialidade está comprovada pelos documentos contidos na Representação Fiscal para Fins Penais (ev. 1, NOT_CRIME3, IP), que instrui a denúncia, destacando-se o item 'descrição dos fatos caracterizadores do ilícito', do relatório daquela Representação, segundo o qual 'constatou-se a existência de mercadorias de origem e/ou procedência estrangeira introduzidos no país irregularmente, em desacordo com a legislação vigente (...)'
+    A defesa alega que não há prova de qual país teriam vindo as mercadorias apreendidas.
+    Porém, tal argumento não é relevante, pois está comprovada a origem estrangeira e a importação irregular das mercadorias, pela prova documental, acima referida, o que foi confirmado em juízo pela testemunha Cristian Kutinskas, como destacado na fundamentação da sentença.
+    Também não procede o tópico recursal que impugna o cálculo dos tributos iludidos, porquanto feito pelos servidores públicos da Receita Federal que detém o conhecimento técnico e a competência, no exercício de suas atribuições funcionais, ao passo que a alegação da defesa é genérica, bem com como não foi produzida prova que demonstrasse eventual incorreção no procedimento administrativo.
+    […]
+    Por fim, quanto ao dolo, trata-se, no caso, de elemento subjetivo genérico, demonstrado nos autos em face da prática livre e consciente da conduta típica pelo réu, ciente da origem estrangeira e da importação irregular das mercadorias.
+    [...]”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 10 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
