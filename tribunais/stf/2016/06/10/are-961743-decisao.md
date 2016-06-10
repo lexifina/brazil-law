@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de recursos – recurso extraordinário, de um lado, e agravo (CPC, art. 544), de outro –, interpostos por Marluce de Morais Andrade e pela Fundação Sistel de Seguridade Social, respectivamente.
+    O exame da presente causa, no entanto, evidencia que os recursos extraordinários não se mostram processualmente viáveis.
+    É que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsias alegadamente impregnadas de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituídas de repercussão geral as questões suscitadas no ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES (ora renovada pela Fundação Sistel de Seguridade Social), e no ARE 742.083/DF, Rel. Min. RICARDO LEWANDOWSKI (ora reiterada por Marluce de Morais Andrade), por tratarem-se de litígios referentes a matérias infraconstitucionais, fazendo-o, respectivamente, em decisões assim ementadas:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    “PREVIDENCIÁRIO. DIREITO ADQUIRIDO AO RECEBIMENTO DE COMPLEMENTAÇÃO DE BENEFÍCIO DE ACORDO COM AS REGRAS VIGENTES NO PERÍODO DE ADESÃO AO PLANO DE PREVIDÊNCIA PRIVADA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento dos recursos extraordinários interpostos nestes autos.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do agravo interposto pela Fundação Sistel de Seguridade Social, para negar seguimento ao recurso extraordinário a que ele se refere e, de outro lado, não conheço do recurso extraordinário deduzido por Marluce de Morais Andrade, por serem os apelos extremos manifestamente inadmissíveis (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 10 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
