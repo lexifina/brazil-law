@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho que deu parcial provimento ao recurso de revista, nos seguintes termos:
+    RECURSO DE REVISTA. ENQUADRAMENTO DA PRIMEIRA E SEGUNDA RECLAMADAS COMO INSTITUIÇÕES FINANCEIRAS. EQUIPARAÇÃO DA RECLAMANTE À CATEGORIA DOS FINANCIÁRIOS. SÚMULA 55 DO TST. ALCANCE. INAPLICABILIDADE DAS NORMAS COLETIVAS DOS BANCÁRIOS. 1. Nos termos da Súmula 55 desta Corte, “as empresas de crédito, financiamento ou investimento, também denominadas financeiras, equiparam-se aos estabelecimentos bancários para os efeitos do art. 224 da CLT.” 2. O quadro fático delineado no acórdão regional demonstra que as atividades desempenhadas pela reclamante conduzem ao enquadramento da primeira e segunda reclamadas como empresas financeiras, sendo inafastável o reconhecimento à autora do direito à jornada de seis horas prevista no art. 224 da CLT. Contudo, por não se tratar de empregada bancária, mas financiária, a ela não se aplicam as normas coletivas da categoria dos bancários, na exata dicção do verbete sumular. Recurso de revista conhecido e parcialmente provido.
+     No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos artigos 5º, II e XVII, 170 e 192 da Constituição da República, por violação dos princípios da legalidade, da liberdade associativa, da livre iniciativa e do sistema financeiro.
+    A irresignação não merece prosperar.
+    Sem embargo do teor manifestado nestes autos, a respeito, abstratamente, da violação dos princípios constitucionais garantidores da legalidade, da liberdade associativa, da livre iniciativa e do sistema financeiro (artigos 5º, II e XVII, 170 e 192 da CF/88), o Recorrente fundamenta o apelo extremo em argumentos genéricos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em normas infraconstitucionais (Leis 4.595, de 31/12/64 e 7.728, de 14/07/65 e artigo 581, § 1º, da CLT), o que não é cabível em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+    Ante o exposto, nego seguimento ao recurso, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 10 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
