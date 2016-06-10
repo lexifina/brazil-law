@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ALEGAÇÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “APELAÇÃO CIVEL. AÇÃO DECLARATÓRIA C/C COBRANÇA. COMPLEMENTAÇÃO DE APOSENTADORIA. BANCO DO BRASIL. FUNCIONÁRIOS ADMITIDOS ANTERIORMENTE A 14/4/1967. PERCEPÇÃO DE BENEFÍCIO NOS MOLDES DA PORTARIA 966/1947. PRESCRIÇÃO. OCORRÊNCIA. NOVAÇÃO AFASTADA.
+    1. Inicia-se o prazo prescricional com a efetiva lesão ao direito (artigo 189 do Código Civil). Logo, o marco inicial para ajuizamento de demanda em que se pretende a percepção de complementação de aposentadoria com base em regramento disposto em Portaria de 1947 é a data da suposta supressão ao direito, consubstanciada em decisão em vigor a partir de 15/4/1967, por meio da qual a PREVI (Caixa de Previdência dos Funcionários do Banco do Brasil) foi criada e passou a gerir a complementação dos benefícios de aposentadoria antes realizada diretamente pelo Banco do Brasil.
+    2. A novação pressupõe a intenção das partes em substituir uma obrigação por outra. Portanto, não se aplica o instituto se a novação é expressamente afastada no contrato entabulado entre a PREVI e o Banco do Brasil, em 1997, firmado com o propósito de disciplinar a forma de custeio de parte da complementação da aposentadoria devida aos funcionários admitidos até 14/4/1967.
+    3. Mantém-se a sentença que reconheceu a prescrição, tendo em vista o ajuizamento da demanda somente em 2006, após o transcurso do prazo prescricional fixado no art. 177 do Código Civil de 1916 (vinte anos), vigente à época em que teria ocorrido lesão ao direito dos autores.
+    4. Recurso desprovido” (doc. 11).
+    2. Os Agravantes alegam contrariado o art. 5º, inc. XXXVI, da Constituição da República, sustentando que “a complementação de aposentadoria prometida e expressa na época das admissões dos Recorrentes passa a fazer parte de seus direitos, bem assim as condições da sua realização, podendo o Recorrido tornar mais acessíveis as condições, jamais dificultá-las. Toda e qualquer modificação futura somente terá efeito para aqueles empregados admitidos daquela data em diante. E é exatamente este o caso da Complementação de Aposentadoria negociada e acordada em 1947, entre os acionistas do Réu e a Confederação Nacional dos Bancários. (…) Ex positis, à guisa de arguição do Extraordinário pela letra ‘a’ do permissivo constitucional, insta dizer que a mesma frutifica, para um outro fim, no sentido de ser ele conhecido e provido para reconhecer o direito adquirido dos Recorrentes ao benefício complementar devido pelo Banco do Brasil, nos termos da Portaria n. 966/47, em respeito ao direito adquirido e ao ato jurídico perfeito” (doc. 11).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de prequestionamento.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. O Tribunal de origem decidiu:
+    “Ao que se vê, o termo a quo para o cômputo do prazo prescricional in casu é a data em que houve a implementação do novo regramento jurídico noticiado na Circular nº 351/66, qual seja, 15/4/1967 (fl. 91), quando, em tese, teria ocorrido a efetiva lesão ao direito dos autores (artigo 189 do Código Civil ), com a supressão da complementação da aposentadoria nos moldes disciplinado na Portaria nº 966/1947.
+    Aplica-se, desse modo, a norma descrita no artigo 177 do Código de 1916, vigente à época dos fatos, que estabelece prazo de vinte anos para a propositura das ações pessoais.
+    Nesse contexto, constata-se que, de fato, a pretensão formulada no presente feito se encontra fulminada pela prescrição, visto que a demanda foi proposta somente aos 13/7/2006, quase trinta anos após a edição do instrumento normativo que teria suprimido o direito dos autores, o que ocorreu aos 15/4/1967.
+    Por derradeiro, na situação em tela, não há que se falar em obrigação de trato sucessivo, cujo direito à pretensão se renovaria mês a mês.
+    Com efeito, não se cuida de mera revisão de proventos da inatividade, em que realmente se iniciaria a cada mês o prazo prescricional. Os autores pretendem o reconhecimento do direito a um novo regramento, totalmente distinto daquele sobre o qual repousa o benefício que vêm auferindo mensalmente.
+    Logo, contrariamente ao defendido pelos recorrentes, a prescrição alcança o próprio fundo do direito, e não somente as parcelas anteriores a cinco anos ao ajuizamento da ação.
+    Feitas essas considerações, merece ser mantida na íntegra a r. sentença prolatada na instância a quo.
+    Ante o exposto, NEGO PROVIMENTO ao recurso para manter intacta a r. sentença impugnada” (doc. 11).
+    O Tribunal de origem não decidiu a controvérsia com base na análise do direito à complementação de aposentadoria dos Agravantes, mas pela aplicação do instituto da prescrição ao caso.
+    Deficiente a argumentação do recurso extraordinário, atraindo a incidência da Súmula n. 284 do Supremo Tribunal Federal:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Processual Civil. 3. Exceção de pré-executividade. Matéria infraconstitucional. 4. Razões recursais dissociadas dos fundamentos do acórdão recorrido. Súmula 284 do STF. 5. Não impugnação de todos os fundamentos da decisão agravada. Aplicação da Súmula 287 do STF. 6. Agravo regimental a que se nega provimento” (ARE n. 895.813-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 9.12.2015).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EFEITOS INFRINGENTES. CONVERSÃO EM AGRAVO REGIMENTAL. AÇÃO DE INDENIZAÇÃO. PROCESSUAL CIVIL. RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DOS FUNDAMENTOS DO JULGADO RECORRIDO: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 772.266-AgR, de minha relatoria, Segunda Turma, DJe 11.11.2013).
+    Nada há a prover quanto às alegações dos Agravantes.
+    6. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
