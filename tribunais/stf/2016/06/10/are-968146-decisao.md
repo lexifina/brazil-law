@@ -1,0 +1,20 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO LEGAL CONTRA DECISÃO MONOCRÁTICA - ARTIGO 557 DO CPC - NEGATIVA DE SEGUIMENTO À APELAÇÃO - CDA - PRESUNÇÃO DE LIQUIDEZ E CERTEZA
+    1. Os documentos dos autos, corroborados pela prova técnica, revelam que o referido crédito exequendo não foi devidamente quitado. Com efeito, o valor pago pelo executado não espelha o que é cobrado no título executivo. Assim, verifica-se a existência de débito, o qual está sendo cobrado por meio da Certidão de Dívida Ativa retificada.
+    2. A Certidão da Dívida Ativa, formalmente em ordem, constitui título executivo extrajudicial revestido de presunção "juris tantum" de liquidez e certeza.
+    3. Ausente o recolhimento do principal corrigido, acrescido dos juros de mora, não pode o embargante valer-se dos benefícios da denúncia espontânea previstos no art. 138 do CTN.
+    4. A correção monetária não consiste em penalidade, acréscimo ou majoração do principal, mas sim no instrumento jurídico-econômico utilizado para manter o valor da moeda ante o processo inflacionário.
+    5. Os juros de mora devem ser computados a partir do vencimento da obrigação e calculados sobre o valor corrigido monetariamente.
+    6. A exigibilidade da taxa SELIC já está sedimentada pelo Superior Tribunal de Justiça, consoante REsp 879844/MG.
+    7. Manutenção da decisão impugnada, a qual se fundamentou em jurisprudência das Cortes Superiores a respeito da matéria trazida aos autos”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIV, e LV, da Constituição.
+    A pretensão recursal não merece prosperar, tendo em vista que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia referente à violação aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    A jurisprudência desta Corte é firme no sentido que a controvérsia a respeito dos requisitos da Certidão de Dívida Ativa é de índole infraconstitucional e, no caso, demanda reexame do conjunto fático e probatório. No mesmo sentido, os seguintes julgados:
+    “DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXCUÇÃO FISCAL. CERTIDÃO DE DÍVIDA ATIVA CDA. REQUISITOS. VALIDADE. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 10.3.2014. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.” (RE 933.026-AgR, Rel.ª Min.ª Rosa Weber)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ITBI. CERTIDÃO DE DÍVIDA ATIVA. CDA. REQUISITOS. 1. A análise dos requisitos de validade da Certidão de Dívida Ativa cinge-se ao âmbito infraconstitucional. Súmula 279 do STF. 2. Agravo regimental a que se nega provimento.” (ARE 911.619-AgR, Rel. Min. Edson Fachin)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 10 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
