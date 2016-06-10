@@ -1,0 +1,13 @@
+Despacho: Trata-se de agravo regimental interposto pela União em face da decisão proferida pelo Ministro Ricardo Lewandowski, a quem sucedi na relatoria deste feito, que deferiu a liminar e suspendeu os efeitos da decisão prolatada pelo Tribunal de Contas da União, restabelecendo a pensão concedida anteriormente em favor da menor Impetrante.
+    Em análise de outras demandas submetidas ao STF sobre o tema recentemente, anotei que a Corte de Contas, no Acórdão 2.377/2015, mudou o entendimento outrora sufragado, de que o menor sob guarda, o irmão emancipado e não inválido, o filho emancipado e não inválido e a pessoa designada não tem direito à pensão após o início de vigência da Lei 9.717/1998, e passou a rever o entendimento referente às pensões concedidas nessas condições, as quais vinham sendo cessadas, como sói ocorrer no caso concreto.
+    Transcrevo, por elucidativo, o seguinte excerto do mencionado Acórdão do TCU, que foi acostada aos autos de Mandado de Segurança 34.085:
+    “O Acórdão 2377/2015 TCU Plenário firmou entendimento de que, ao contrário do que havia sustentado anteriormente no Acórdão 2515/2011 TCU Plenário, o artigo 5º da Lei 9717/1998 não derrogou do Regime Próprio da Previdência Social dos Servidores Públicos da União as categorias de pensão civil estatutária destinadas a filho emancipado e não inválido, irmão emancipado e não inválido, a menor sob guarda e a pessoa designada, previstas nas alíneas a, b, c e d respectivamente, todas do inciso II do artigo 217 da Lei 8112/90.
+    Assim sendo, Vossa Senhoria por estar enquadrada em uma das situações acima mencionadas, terá o prazo de 180 (cento e oitenta) dias contados a partir da ciência desta carta, para interpor ação de reexame, nos termos do que foi estabelecido no Acórdão 2377/2015.”
+    Nesse contexto, a possível revisão de entendimento do TCU em favor dos menores sob guarda e das pessoas designadas que se enquadrem em determinados requisitos, reconhecendo-se a eles o direito à pensão por morte, interfere no interesse processual quanto ao prosseguimento desta demanda.
+    Assim, solicito informações ao Tribunal de Contas da União, em 15 dias, a fim de verificar se o caso em concreto amolda-se à possibilidade de manutenção da pensão, nos termos do Acórdão 2.377/2015.
+    Uma vez recebidas as informações, e tendo em conta o disposto no art. 1.021, § 2º, do Código de Processo Civil, intime-se a parte agravada para se manifestar sobre as informações do Tribunal de Contas da União e o agravo da Advocacia-Geral da União, no prazo de 15 dias.
+    Publique-se.
+    Brasília, 10 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
