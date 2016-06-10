@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da Sétima Turma Recursal dos Juizados Especiais Federais da 3ª Região, cuja ementa transcrevo no que interessa:
+    “PREVIDENCIÁRIO. REVISÃO DA RMI. APOSENTADORIA POR IDADE URBANA. IMPROCEDENTE. RECURSO DA PARTE AUTORA. CÁLCULO CORRETO. NEGADO PROVIMENTO AO RECURSO(...)”. (eDOC 28, p. 2)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 201 do texto constitucional.
+    A recorrente alega descompasso na apuração da renda mensal inicial do seu benefício previdenciário pelo INSS. A esse propósito, aduz o seguinte:
+    “No caso, a regra de transição estabelecida pela Lei 9.876/99 para o cálculo do salário de benefício estabelece que será calculado pela média aritmética simples dos maiores salários de contribuição do segurado, correspondentes a, no mínimo, oitenta por cento do período contributivo decorrido após julho/1994, multiplicada pelo fator previdenciário (art. 3º, caput). Contudo, o § 2.º estabelece um limite: veda que o divisor utilizado naquela média seja inferior a sessenta por cento do número de meses existente entre julho/1994 e a data de início do benefício. É justamente este divisor mínimo da regra de transição que está sendo discutido na hipótese dos autos.
+    A interpretação literal desse dispositivo é condizente com a forma de cálculo adotada pelo INSS quando da concessão do benefício: o salário de benefício deve corresponder à soma dos salários de contribuição equivalentes a oitenta por cento do período contributivo decorrido após julho/1994, dividida pelo número correspondente a sessenta por cento do número de meses existentes entre julho/1994 e a data de início do benefício, multiplicada pelo fator previdenciário.
+    Ocorre que, essa regra de transição não pode prevalecer em situação como a dos autos, em que o número de contribuições recolhidas no PBC é inferior ao divisor mínimo de 60%. Isso porque conduz a situações absurdas”.(eDOC 34, p. 3)
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Leis 8.213/91 e 9.876/99) e o conjunto probatório constante dos autos, consignou que não há equívocos no cálculo da renda mensal inicial do benefício concedido à recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Observo que o cálculo da RMI foi efetuado nos termos da legislação na data da concessão do benefício, tendo em vista que o período contributivo no caso concreto abrangeu a competência julho de 1994 até julho de 2002. Aplicando-se o percentual mínimo de 60%, chegamos ao divisor utilizado pelo INSS. Assim, não há equívoco no cálculo efetuado pelo INSS”.(eDOC 28, p. 2)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. RENDA MENSAL INICIAL DE BENEFÍCIO. CRITÉRIO DE CÁLCULO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO”. (AI-AgR 857.754, Rel. Min. LUIZ FUX, Primeira Turma, DJe 20.4.2016)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Previdenciário. Critérios de cálculo da renda mensal inicial e da atualização monetária. 3. Matéria debatida no Tribunal de origem restringe-se ao âmbito infraconstitucional. Ofensa reflexa à Constituição Federal. 4. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento”. (ARE-AgR 942.972, de minha relatoria, Segunda Turma, DJe 6.6.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
