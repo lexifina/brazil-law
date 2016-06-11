@@ -1,0 +1,9 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Rondônia, que condenou o recorrente ao pagamento de indenização por danos morais decorrentes do óbito de detento.
+    Sustenta-se, em suma, que o Estado não pode ser responsabilizado pelo sinistro que deu causa à morte do detento, no caso, visto que não ficou demonstrado o nexo causal entre sua suposta omissão e o evento danoso. Além disso, alega-se que, na fixação do quantum indenizatório, não foram observados os princípios da legalidade, razoabilidade, proporcionalidade e boa-fé objetiva.
+    Verifica-se que o Supremo Tribunal Federal, em julgamento eletrônico, ao analisar o ARE 638.467, substituído pelo RE 841.526, Rel. Min. Luiz Fux, DJe 03.10.2012 (tema 592), reconheceu a existência de repercussão geral da controvérsia em debate e, apreciando o mérito, firmou a seguinte tese: “Em caso de inobservância do seu dever específico de proteção previsto no art. 5º, inciso XLIX, da Constituição Federal, o Estado é responsável pela morte de detento” (ata de julgamento publicada no DJe 04.04.2016 – acórdão pendente de publicação).
+    No que tange à discussão sobre a proporcionalidade e razoabilidade da indenização fixada a título de danos morais, a Corte, no julgamento do ARE-RG 743.771, da relatoria do Ministro Gilmar Mendes, DJe de 31.05.2013 (Tema 655), decidiu pela inexistência de repercussão geral da questão suscitada, por se tratar de matéria infraconstitucional.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 11 de junho de 2016.
+Ministro Edson Fachin
+Relator
