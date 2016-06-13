@@ -1,0 +1,34 @@
+RECLAMAÇÃO. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL REQUERIDA COM BASE NO ART. 40, § 4ª, III, DA CONSTITUIÇÃO FEEDERAL. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 33. AUSÊNCIA DE ESTRITA ADERÊNCIA.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional, com pedido de liminar, fundada no art. 102, I, “l”, da Constituição Federal, ajuizada por Marco Aurélio Canevari contra ato da Diretoria de Recursos Humanos do Departamento Regional de Saúde IX de Marília/SP, à alegação de afronta à Súmula Vinculante nº 33.
+    2. O reclamante narra que, no ano de 2013, o Departamento de Recursos Humanos da Secretaria da Saúde do Estado de São Paulo-DRS IX de Marília indeferiu o requerimento de concessão de aposentadoria especial por ele formulado com espeque no art. 40, § 4º, III, da Constituição Federal, ocasião em que expedida “certidão para fins de ação judicial”. Segundo consta da inicial, munido da referida certidão, impetrou o Mandado de Segurança nº 1006669-39.2013.8.26.0053, em trâmite perante a 2ª Vara da Fazenda do Tribunal de Justiça de São Paulo, “ (…) que tramita letargicamente, munida pelos incontáveis recursos utilizados pela Fazenda Estadual com intuito de protelar o trânsito em julgado de litígios sobre matéria já pacificada por essa Corte Maior”.
+    3. Afirma que, diante da edição da Súmula Vinculante nº 33, formulou novo pedido de concessão de aposentadoria especial perante a Diretoria de Recursos Humanos da DRS IX de Marília/SP por meio do Requerimento Administrativo nº 109395/2015.
+    4. Consoante aponta, a administração municipal não se manifestou acerca do pedido, “adotando a mera conduta de expedir o ‘Termo de Incorporação de Protocolo’ do Requerimento protocolado em 18/06/2015 sob o nº 109395/2015 na DRS-IX de Marília, anexando-o à pasta de documentos pessoais do Mandado de Segurança individual, que restou arquivado pela Diretoria do RH (…).”
+    5. Destaca que “ingressou no serviço público em 1981, ou seja, antes da publicação da Emenda Constitucional nº 41/03, fazendo jus à paridade e à integralidade de proventos, nos termos dos parágrafos 4º e 7º do artigo 40 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 47/05 (...)”
+    6. Requer a concessão de medida liminar para o efeito de “desobrigação da permanência no local insalubre por mais 35 meses, pois findos, estará (...) automaticamente aposentado por tempo de serviço”. Pugna, por fim, pela procedência da reclamação para que possa “usufruir do direito à aposentadoria especial e consequentemente a desobrigação da continuidade no labor insalubre”
+    7. Informações prestadas pela autoridade reclamada.
+    É o relatório.
+    Decido.
+    1. Na presente reclamação, aponta-se a inobservância da Súmula Vinculante nº 33, segundo a qual: “Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III, da Constituição Federal, até a edição de lei complementar específica”.
+    2. O referido verbete vinculante consolidou o entendimento reiterado desta Suprema Corte segundo o qual a omissão legislativa na regulamentação do art. 40, § 4º, da Constituição deve ser suprida mediante a aplicação das normas do Regime Geral de Previdência Social, atualmente previstas na Lei 8.213/91 e no Decreto 3.048/99. Assim, todos os servidores públicos cujas atividades sejam exercidas sob condições especiais que prejudiquem a saúde ou a integridade física devem, desde a publicação da súmula, ter seus pedidos de aposentadoria especial apreciados à luz, no que couber, das regras do regime geral da previdência social.
+    3. Ao teor das informações prestadas (e-STF, doc. 24), o requerimento do reclamante foi encaminhado “de acordo com o Comunicado Conjunto COM/CLP/NCTS/GGP/CRH nº 05/2015”.
+    4. O referido Comunicado, anexado às informações, prevê o procedimento a ser adotado para concessão de aposentadoria especial formulado com base na Súmula Vinculante nº 33, verbis:
+    “Quando se tratar de pedido administrativo com base na Súmula Vinculante nº 33 :
+    a) caberá ao RH de origem “autuar e protocolar” o requerimento de aposentadoria especial nos termos da Súmula Vinculante nº 33, anexar a cópia do processo de insalubridade e o formulário – Descrição de Atividades (anexo I).
+    b) encaminhar o processo ao Departamento de Perícias Médicas do Estado – DPME , da Secretaria de Planejamento e Gestão, para providências de sua competência (ou seja, apreciação quanto ao Laudo Técnico de Condições Ambientais - LTCAT e Laudo Técnico Pericial – LTP);
+    c) Com o recebimento do Laudo Técnico de Condições Ambientais de Trabalho – LTCAT e Laudo Técnico Pericial do DPME cabe ao RH de origem elaborar a certidão de contagem de tempo de contribuição com a totalidade de tempo de serviço do servidor, identificando o período em que o servidor esteve exposto a agentes nocivos que prejudiquem a saúde ou a integridade física, bem como os percentuais concedidos a título de adicional de insalubridade.
+    d) Informar como fundamento legal na certidão: Súmula Vinculante nº 33.
+    e) Incumbirá ao RH de origem encaminhar o PUCT, com as cópias do LTCAT, LTP a referida certidão, ao Núcleo de Consolidação do Tempo de Serviço – NCTS/GGP/CRH, para fins de validação.
+    f) tão logo do recebimento da certidão de contagem do tempo de contribuição montar o processo de aposentadoria, nos termos da Portaria SPREV nº 25/2012 e obedecer aos trâmites que seguem:
+    I. O requerimento de aposentadoria do servidor discriminando o mesmo fundamento legal contido na CTC, dirigida à Gerencia de Aposentadoria da SPPREV;
+    II. Dar ciência ao servidor que a aposentadoria se dará nos termos da Lei 10.887/2004 (médias das contribuições – proventos integrais, porém sem paridade de vencimentos)
+    g) O RH deverá promover a inserção de dados no SIGPREV (até o limite que a ferramenta permitir)
+    h) encaminhar o processo à SPREV , a fim de que a Autarquia possa efetivar o cumprimento da aposentadoria
+    (...)”
+    5. Destaco que a afronta à Súmula Vinculante nº 33 ocorre quando a Administração se furta de examinar o pleito de concessão de aposentadoria especial ao fundamento de que inexistente a norma regulamentadora a que refere o art. 40, § 4º, III, da Constituição Federal, o que não é o caso dos autos, como deflui da própria inicial.
+    6. A Súmula Vinculante 33, enfatizo, limita-se a consagrar a compreensão desta Suprema Corte, externada ao julgamento de mandado de injunção, quanto à regulamentação aplicável, permitindo o exercício do direito à aposentadoria especial, suprida a mora legislativa.
+     7. Nesse contexto, ausente identidade material entre os atos confrontados, com espeque no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, restando prejudicado o exame do pedido liminar.
+    Publique-se.
+    Brasília, 13 de junho de 2016.
+Ministra Rosa Weber
+Relatora
