@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Mário José Moreno Nascimento, José Carlos Moreno Nascimento e Anderson Moreno Nascimento, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que não conheceu do HC 291.566/RJ, Relator o Ministro Reynaldo Soares da Fonseca.
+    O impetrante busca com esta impetração
+    “a cassação do acórdão que não conheceu do heroico manejado perante o Superior Tribunal de Justiça (STJ), com a consequente anulação do decisum proferido pela Corte Estadual, que se recusou a renovar o julgamento do recurso de apelação dos pacientes expressamente anulado pelo próprio STJ.”
+    Aduz, a esse respeito, que
+    “o STJ anulou o acórdão de um Mandado de Segurança, no qual se discutia a própria natureza do recurso defensivo a ser interposto em face da sentença condenatória. E com isso, naturalmente, desfez-se também o julgamento do TJ/RJ, que nesse ínterim havia conhecido da impugnação dos réus sob as vestes de apelação e que já a julgara definitivamente.”
+    Por esse contexto, defende “[a] repetição do julgamento da apelação se fazia (e ainda se faz) imperiosa, porque só assim estariam respeitados a hierarquia dos órgãos de jurisdição e o princípio da ampla defesa.”
+    Requer o deferimento da liminar para suspender o mandado de prisão expedido em desfavor dos pacientes e, no mérito, pede a concessão de ordem, ainda que de ofício, “para que, cassado o acórdão proferido nos autos do HC 291.566 (STJ), seja determinado ao Tribunal de Justiça do Estado do Rio de Janeiro, que refaça o julgamento da apelação dos réus/pacientes.”
+    Examinados os autos, decido.
+    Transcrevo o teor da decisão ora questionada.
+    “PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. RECEBIMENTO DE PROTESTO POR NOVO JÚRI COMO APELAÇÃO EM VIRTUDE DE CONCESSÃO DE MANDADO DE SEGURANÇA. ACÓRDÃO DO MS ANULADO PELO STJ POR FALTA DE CITAÇÃO DOS RÉUS. RENOVAÇÃO DO JULGAMENTO DO MS COM MANUTENÇÃO DO MÉRITO. 2. APELAÇÃO JÁ JULGADA. PEDIDO DE RENOVAÇÃO DO JULGAMENTO. AUSÊNCIA DE UTILIDADE PRÁTICA. 3. HABEAS CORPUS NÃO CONHECIDO.
+    1. Não há porque se falar em renovação do julgamento do recurso de apelação, uma vez que devidamente julgado de acordo com a primeira concessão da ordem no mandado de segurança. A superveniência da anulação do acórdão do mandamus, por questão formal, não repercute sobre o prévio julgamento da apelação, haja vista o Superior Tribunal de Justiça não ter sido provocado a se manifestar sobre o tema, bem como em razão de o mérito do mandado de segurança ter sido mantido o mesmo.
+    2. A simples renovação do julgamento do recurso da apelação, sem que se demonstre qualquer utilidade prática da providência, não se coaduna com o moderno sistema processual penal que preza pela duração razoável do processo e pelo aproveitamento dos atos processuais, principalmente no caso dos autos, em que nem ao menos é possível se apontar qualquer sorte de nulidade. De fato, a anulação do julgamento do mandado de segurança não teve o condão de macular o julgamento do recurso de apelação, o qual se deu de forma escorreita, sem que se tenha impugnado qualquer circunstância formal ou material do referido ato.
+    3. Habeas corpus não conhecido” (grifos do autor).
+    Essa é a razão pela qual se insurge o impetrante.
+    Há nos autos informação incontroversa no sentido de que a condenação dos pacientes já transitou em julgado e a jurisprudência da Corte já consignou que o habeas corpus não é sucedâneo de recursos (já esgotados) ou de revisão criminal (v.g. RHC nº 114.890/RS, Primeira Turma, de minha relatoria, DJe de 8/8/13; RHC nº 107.213/RS, Primeira Turma, da relatoria da Ministra Cármen Lúcia , DJe de 22/6/11; HC nº 104.920 AgR/RJ, Segunda Turma, da relatoria do Ministro Joaquim Barbosa , DJe de 4/11/10; HC nº 84.671/SP, Primeira Turma, da relatoria do Ministro Ayres Britto, DJ de 11/2/05).
+    De qualquer modo, registro, pelo que há na decisão proferida pela Quinta Turma do Superior Tribunal de Justiça, inexistir ilegalidade flagrante, abuso de poder ou teratologia. Pelo contrário, o julgado em questão encontra-se suficientemente fundamentado, estando justificado o convencimento formado.
+    Consignou o Ministro Reynaldo Soares da Fonseca que
+    “os pacientes foram condenados pelo Tribunal do Júri em 11/8/2005, tendo apresentado protesto por novo júri, o qual foi recebido pelo Magistrado de origem.
+    Irresignado, o Ministério Público impetrou mandado de segurança, cuja ordem foi concedida em 2/2/2006, para receber o recurso como apelação. A apelação foi efetivamente julgada em 5/10/2006, sendo improvida, e foi interposto recurso especial, ao qual se negou seguimento em 5/1/2007, transitando em julgado a condenação.
+    Contudo, em 6/5/2008, o Superior Tribunal de Justiça concedeu a ordem no Habeas Corpus n. 60.637/RJ, impetrado pela defesa contra o julgamento do mandado de segurança, haja vista a ausência de citação dos réus. Dessarte, foi anulado o acórdão que concedeu a segurança, determinando-se novo julgamento, o qual foi realizado em 2/9/2009, com prévia citação dos réus, mantido, no entanto, o mérito.
+    Consignou-se, outrossim, que ‘diante do lapso decorrido até a anulação do anterior acórdão, com o entendimento ora esposado, afere-se a ausência de quaisquer efeitos de ordem prática no curso da demanda originária, que há de prosseguir como já determinado, ausentes quaisquer prejuízo aos réus, mantém-se incólume os atos subsequentes, prosseguindo-se o feito principal no estado em que se encontra’ (e-STJ fl. 300)”.
+    Diante desse contexto, o aresto impugnado concluiu pela desnecessidade de se renovar o julgamento do recurso de apelação dos pacientes, uma vez que ele teria sido devidamente julgado de acordo com a primeira concessão da ordem no mandado de segurança.
+    De outra parte, conforme bem asseverou o Relator em seu voto,
+    “a superveniência da anulação do acórdão do mandamus, por questão formal, não repercute sobre o prévio julgamento da apelação, haja vista o Superior Tribunal de Justiça não ter sido provocado a se manifestar sobre o tema, bem como em razão de o mérito do mandado de segurança ter sido mantido o mesmo”.
+    Logo, não há que se falar em desacerto do entendimento firmado pelo Superior Tribunal de Justiça no julgamento do HC nº 291.566/RJ, capaz de justificar a concessão da ordem, ainda que de ofício.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 13 de junho de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
