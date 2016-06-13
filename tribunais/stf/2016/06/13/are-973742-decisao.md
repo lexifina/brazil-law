@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo interposto em face de decisão de inadmissibilidade de recurso extraordinário por ausência de assinatura do advogado subscritor do recurso extraordinário. (eDOC 2, p. 61)
+    Decido.
+    O recurso não pode ser conhecido.
+    Isso porque a jurisprudência pacífica do STF é pacífica no sentido de que a assinatura no recurso extraordinário é formalidade essencial à sua existência. Logo, a referida ausência é insuscetível de suprimento, após vencido o prazo de interposição.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas desta Corte:
+    “1. RECURSO. Agravo de instrumento. Alegação de ofensa à Constituição. Comprovação de ausência de prejudicialidade. Recurso conhecido. Provada a existência de matéria constitucional autônoma, deve o recurso ser conhecido, presentes os demais requisitos de admissibilidade. 2. RECURSO. Agravo regimental. Inadmissibilidade. Assinatura do advogado. Falta. Recurso inexistente. Agravo regimental não provido. A falta de assinatura do advogado na petição de recurso não é mera irregularidade sanável, mas defeito que lhe acarreta inexistência”. (AI 648.037 AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 29.10.2009)
+    “Agravo de instrumento: deficiência do traslado: falta das cópias da certidão de intimação do acórdão recorrido e das contra-razões ao RE ou prova de sua inexistência: peças de traslado imprescindível (C. Pr. Civil, art. 544, § 1º). 2. Recurso extraordinário: falta de assinatura do seu subscritor, considerada pela jurisprudência do Tribunal como "formalidade essencial de existência do recurso", insuscetível de suprimento, após vencido o prazo de interposição: precedentes”. (AI 536.106 AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJe 10.6.2005)
+    “AGRAVO REGIMENTAL. MILITAR. VENCIMENTOS. REAJUSTE 28,86%. ISONOMIA. RECURSO EXTRAORDINÁRIO INTERPOSTO POR CÓPIA REPROGRÁFICA, SEM A ASSINATURA ORIGINAL DO ADVOGADO. DIREITO DOS SERVIDORES MILITARES AO ÍNDICE DE 28,86%, DEVIDAMENTE COMPENSADO COM OS ACRÉSCIMOS DO REPOSICIONAMENTO CONCEDIDO PELA LEI N. 8.627/93. PRECEDENTES. MULTA. AGRAVO REGIMENTAL DESPROVIDO. 1. A falta de assinatura do advogado na peça recursal configura situação em que se impõe o não conhecimento do recurso interposto, por se cuidar de condição legal para a existência do recurso. 2. Jurisprudência pacífica do Supremo Tribunal Federal sobre o do direito dos militares ao índice de 28,86%, devidamente compensado com os acréscimos do posicionamento concedido pela Lei n. 8.627/93. 3. Multa. Art. 557, § 2º do Código de Processo Civil. 4. Agravo Regimental desprovido”. (AI 560.956 AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 20.4.2007)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+          Publique-se.
+    Brasília, 13 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
