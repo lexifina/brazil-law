@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    EMBARGOS DE TERCEIRO. Declaração incidental de “fraude à execução” vincula tão somente as partes do processo em que foi prolatada, não estendendo seus efeitos a terceiro, por força do art. 472, do CPC, sua declaração aproveita, apenas e tão somente, o exequente e seu efeito não é de anular, nem de tornar nulo o ato de alienação, mas sim de tornar ineficaz o ato de alienação em relação ao credor – Conforme orientação, que se passa a adotar, em razão do advento da Súmula 375/STJ , o fato de terceiro adquirente de imóvel penhorado não ter diligenciado junto ao Cartório do Distribuidor, nem exigido do vendedor a exibição de certidão de distribuição de ações e execuções judiciais contra o alienante, não autoriza o reconhecimento de fraude à execução, porque não basta, por si só, para provar a má-fé do adquirente, nem de que ele tinha conhecimento da existência de demanda em curso que pudesse reduzir o devedor à insolvência. Ausente registro da penhora anterior e de prova da existência de fato capaz de demonstrar que os adquirentes do imóvel tinham ciência da existência de ação suficiente para reduzir o executado à insolvência, incabível o reconhecimento de fraude à execução na alienação do imóvel objeto da ação, impondo-se em consequência, o julgamento de embargos de terceiro, para tornar insubsistente constrição judicial realizada sobre o bem em questão. Reforma da r. sentença, para julgar procedentes os embargos de terceiro. Recurso provido.
+    Foram opostos embargos de declaração, mas rejeitados.
+    No recurso extraordinário, interposto com base no art. 102, III, d do permissivo constitucional, aponta-se ofensa ao artigo 593, II, do Código de Processo Civil de 1973, por ter ocorrido, segundo o Recorrente, alienação em fraude à execução. Ademais, indica o Recorrente dissídio jurisprudencial, demonstrando como paradigmas excertos de acórdãos do TRF da 4ª Região, do TJRS e do STJ.
+    Alega-se que a boa-fé do terceiro adquirente é irrelevante para a caracterização da fraude à execução. Requer, ao fim, o provimento do recurso extraordinário.
+    A Presidência da Seção de Direito Privado do TJSP inadmitiu o recurso em face da deficiência de fundamentação, nos termos da Súmula 284 do STF .
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observo que não foi sequer citado qualquer dispositivo ou matéria constitucional no recurso extraordinário. Assim, embora tenham sido opostos embargos de declaração – os quais foram rejeitados – não se demonstrou ofensa à Constituição Federal. Ademais, não de consegue extrair, do recurso, a compreensão da controvérsia constitucional a qual se pretende ver dirimida, de modo que o presente recurso extraordinário encontra óbice na Súmula 284 do STF.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 13 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
