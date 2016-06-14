@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Roraima, está assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO DE RESSARCIMENTO POR DANOS MORAIS E MATERIAIS – OMISSÃO – NÃO PROPOSTA AÇÃO PELA DEFENSORIA PÚBLICA – PERDA DE UMA CHANCE – PROBABILIDADE DE VITÓRIA – DANOS MORAIS – FIXAÇÃO DE JUÍZO – RECURSO CONHECIDO E PROVIDO.
+    1. A ação ou omissão do Poder Público, quando lesiva aos direitos de qualquer pessoa, induz à responsabilidade civil objetiva do Estado desde que presentes os pressupostos primários (conduta, dano e nexo causal) que lhe determinam a obrigação de indenizar os prejuízos que os seus agentes, nessa condição, hajam causado a terceiros, conforme prevê o art. 37, § 6º, da Constituição Federal.
+    2. A Defensoria Pública deste Estado deixou de propor ação em favor do apelante para que o Poder Judiciário determinasse a nomeação do mesmo no concurso ao qual alegou ter sido preterido.
+    3. A conduta omissiva da Defensoria Pública incidiu na perda de uma chance para o apelante, pois este possuía a probabilidade de ser vitorioso se proposta a ação de obrigação de fazer contra o município, haja vista que já houve decisão albergando o direito dos candidatos preteridos.
+    4. Entendo que o valor de R$ 20.000,00 (vinte mil reais) é suficiente para reparar o dano sofrido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios, a seguir destacados:
+    “O apelante possuía a probabilidade de ser vitorioso se proposta a ação de obrigação de fazer contra o município, em razão do concurso público para o cargo de técnico municipal com especialidade em Agente de Trânsito (Edital nº 001/2004), haja vista que já houve decisão albergando o direito dos candidatos preteridos, como por exemplo de minha relatoria o Reexame Necessário nº 001010904936-0.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Observo, finalmente, por relevante, que o Ministério Público Federal, em manifestação da ilustre Subprocuradora-Geral da República Dra. CLAÚDIA SAMPAIO MARQUES, opinou contrariamente à parte ora recorrente, apoiando-se, para tanto, em fundamentos evidenciadores da inviabilidade processual do recurso extraordinário em questão, cujo parecer está assim ementado:
+    “RESPONSABILIDADE CIVIL DO ESTADO. ATO OMISSIVO. APLICAÇÃO DA TEORIA DA PERDA DE UMA CHANCE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. PARECER PELO DESPROVIMENTO DO AGRAVO.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 14 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
