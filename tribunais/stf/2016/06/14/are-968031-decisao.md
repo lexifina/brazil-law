@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo contra decisão que indeferiu recurso extraordinário interposto contra acórdão do Colégio Recursal de São José do Rio Preto do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “O STF já reconheceu o caráter genérico das gratificações devendo ser absorvidas aos vencimentos, proventos e pensões (AgR no Ag 440.870 eAgR no Ag 446.724). E ainda RE 197.648, afirmando que essas gratificações constituem remuneração. Entendimento seguido pelo Egrégio Tribunal de Justiça assim enfrentou a questão, guardadas as devidas proporções: "Servidor Público Estadual admitido nos termos da Lei 500/74 — Reconhecimento do Direito à sexta-parte dos vencimentos e à Licença-prêmio - Cabimento - Uniformização de Jurisprudência n.° 118.453 - Aplicação da Emenda 19/1998 e Art. 129 da Constituição Estadual Paulista - Reajuste remuneratório disfarçado com denominação "gratificação" integra o vencimento ~ Recurso parcialmente provido" ( Apelação n" 0172283- 54.2008.8.26.0000, 11" Câmara de Direito Público do Tribunal de Justiça de São Paulo, 14 de março de 2011, Rei. Des. ALIENDE RIBEIRO). RECURSO DO SERVIDOR ACOLHIDO, MANTIDA, NO MAIS, A SENTENÇA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 37, X; 40, §§ 4º e 8º, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que “os argumentos expendidos não são suficientes para infirmar as conclusões do V. Acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada”.
+    O recurso não deve ser provido, tendo em vista que, para dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza jurídica das gratificações em questão, seria necessário o exame da legislação infraconstitucional, além de uma nova apreciação dos fatos e do material probatório constantes dos autos,o que é inviável em sede de recurso extraordinário (Súmulas 279 e 280/STF).
+    Nesse sentido, confiram-se: AI 599.335-AgR, Rel.ª Min.ª Cármen Lúcia; AI 622.376 AgR, Rel. Min. Dias Toffoli; e ARE 677.568, de minha relatoria.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 14 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
