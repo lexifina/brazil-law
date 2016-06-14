@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5°, caput, XXXV e XXXVI, e 150, IV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Verifico que, para aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo, seria necessário o revolvimento do quadro fático delineado na instância ordinária, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Anterior oposição de embargos de declaração. Natureza de agravo regimental. Exercício do juízo de retratação. Possibilidade. Tributário. Taxa de Fiscalização de Ocupação e Permanência no Solo, em Áreas, em Vias e em Logradouros Municipais (TFOP). Orelhões. Efetivo exercício do poder de polícia. Questão a ser dirimida pela instância de origem. Efeito confiscatório da exação. Súmula nº 279/STF. 1. Embargos de declaração que possuem natureza de agravo regimental possibilitam o exercício do juízo de retratação, a teor do art. 557, § 1º, do CPC. 2. O objeto da fiscalização para a cobrança da TFOP não é o serviço de telecomunicação, mas, sim, a regularidade do posicionamento e da permanência dos “orelhões” em relação aos padrões locais de estética urbana, circulação de pessoas e segurança pública. 3. Cabe ao Tribunal de origem revolver o bojo probatório e concluir pela existência ou não do efetivo poder de polícia, devendo atestar, inclusive, a existência ou não de aparato hábil para realizar a fiscalização, consoante a orientação firmada pelo Supremo Tribunal Federal no RE nº 588.322/RG-RO. 4. O caráter confiscatório da exação, no caso em exame, somente seria aferível mediante reexame do quadro fático-probatório. Incidência da Súmula nº 279/STF. 5. Agravo regimental não provido.” (ARE 707908 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 16/12/2014, PROCESSO ELETRÔNICO DJe-030 DIVULG 12-02-2015 PUBLIC 13-02-2015).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de junho de 2016.
+Ministra Rosa Weber
+Relatora
