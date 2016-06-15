@@ -1,0 +1,18 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário em questão revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que a E. Sétima Turma Recursal da Seção Judiciária do Estado do Ceará, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios, a seguir destacados:
+    “Analisando atentamente a Sentença recorrida, consta-se que o Juízo ‘a quo’ formou seu convencimento à luz de uma análise adequada dos fatos, aplicando corretamente as normas de regência.
+    Por tal razão, valho-me dos fundamentos do julgado monocrático como causa de decidir, na forma do art. 46 da Lei nº 9.099/95 c/c art. 1º da Lei nº 10.259/2001, com a súmula de julgamento servindo de acórdão, ‘in verbis’:
+    ‘............................................................................................
+    No caso dos autos, observa-se que a cessação do benefício de auxílio-doença (DCB: 19/10/2012) foi anterior à data do início da incapacidade considerada pela perita (setembro de 2013).
+    Destarte, comprovados os requisitos de carência, qualidade de segurado(a) e havendo o laudo pericial atestado a incapacidade laboral temporária da parte autora, outra senda não resta a esse Juízo senão o deferimento do benefício de auxílio-doença ora perseguido, com início a partir da data do ajuizamento da ação, isto é, em 7/1/2015.’
+    ‘In casu’, inobstante a perícia judicial não ter confirmado a existência da incapacidade na DCB, é curial registrar que a atual incapacidade é decorrente da mesma doença que ensejou o benefício cessado (anexo 16). Ademais, o benefício foi cessado por limite médico (alta programada).
+    Entendo que o perito judicial informou a data mais provável para o início da incapacidade até porque, pela própria natureza da enfermidade que acomete a autora, é difícil apontar com precisão a data do início de incapacidade, ou seja, não dá para descartar a possibilidade de que a autora ainda estivesse incapacitada quando da cessação.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 15 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
