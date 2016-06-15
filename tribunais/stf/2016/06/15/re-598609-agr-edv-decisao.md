@@ -1,0 +1,29 @@
+Decisão: Ronaldo Rocha de Carvalho opõe embargos de divergência em face de acórdão, proferido pela Segunda Turma deste Tribunal, relatado pelo Min. Ricardo Lewandowski, meu antecessor na relatoria deste feito, no qual foi negado provimento ao agravo regimental em recurso extraordinário. O acórdão embargado foi assim ementado (fl. 271):
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. SUPERVENIENTE REVOGAÇÃO DO ATO ADMINISTRATIVO QUE SUPOSTAMENTE DERA CAUSA À ALEGAÇÃO DE CONSTRANGIMENTO. MANDADO DE SEGURANÇA PREJUDICADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – A revogação do ato administrativo que dera causa à suposta alegação de constrangimento ilegal trouxe como consequência a superveniente prejudicialidade do mandado de segurança, por perda do seu objeto.
+    II - Impossibilidade de se ter o prosseguimento da ação mandamental em face da ausência de pressuposto de desenvolvimento válido e regular do processo. Precedente.
+    III – Agravo regimental a que se nega provimento.
+    O embargante alega que, ao julgar o RHC 51.778, que versa sobre matéria análoga, o Pleno do Supremo Tribunal Federal deu solução diversa. O acórdão paradigma foi assim ementado:
+    “- Prerrogativas do advogado.
+    1)O acesso de advogado ao preso é consubstancial à defesa ampla garantida na Constituição, não podendo sofrer restrição outra que aquela imposta, razoavelmente, por disposição expressa de lei.
+    2)Ação penal instaurada contra advogado, por fatos relacionados com o exercício do direito de livre ingresso nos presídios. Falta de justa causa reconhecida.
+    Recurso de habeas corpus provido.”
+    Aduz que, segundo o entendimento da Corte no acórdão paradigma, não se admite qualquer restrição ou constrangimento a direitos de advogados em relação ao ingresso em presídios. Ademais, alega que a Resolução 118/2010, ato conjunto do Secretário de Estado da Defesa Social de Minas Gerais e da OAB – Seção Minas Gerais manteve a maioria das restrições previstas na Resolução 840/2006.
+    Em contrarrazões, o Estado de Minas Gerais pugna pelo não conhecimento dos presentes embargos, visto que o acórdão embargado não enfrenta a questão de fundo debatida nos autos, ao passo que o acórdão paradigma aprecia o mérito da controvérsia. Além disso, sustenta a inexistência, no caso, de demonstração analítica da divergência jurisprudencial alegada. Assim, pleiteia a manutenção do acórdão impugnado, que concluiu pela perda do objeto do recurso extraordinário.
+    É o relatório. Decido.
+    A pretensão recursal não merece acolhida.
+    Nos termos da orientação firmada nesta Corte, são incabíveis os embargos de divergência contra acórdão proferido em julgamento de agravo regimental que mantém decisão que nega seguimento a recurso extraordinário sem exame do mérito da questão quando o paradigma apontado apreciou o mérito da controvérsia. Nesse sentido, confiram-se os seguintes precedentes:
+    “EMENTA: AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE ANÁLISE COMPARATIVA ENTRE O ACÓRDÃO PARADIGMA E A DECISÃO EMBARGADA. INOBSERVÂNCIA DE PRESSUPOSTO PROCESSUAL INDISPENSÁVEL. PRETENSÃO DE CONFRONTO DE ACÓRDÃO QUE NEGOU SEGUIMENTO AO RECURSO COM PARADIGMAS NOS QUAIS HOUVE PROLAÇÃO DE DECISUM SOBRE O MÉRITO DA CONTROVÉRSIA. AUSÊNCIA DE IDENTIDADE OU DE SIMILITUDE DE TESES JURÍDICAS. IMPOSSIBILIDADE DE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A jurisprudência desta Suprema Corte assentou a necessidade de demonstração objetiva do alegado dissídio jurisprudencial mediante análise comparativa entre o acórdão paradigma e o ato embargado. 2. Inadmissíveis os embargos de divergência opostos com fundamento em acórdãos que examinaram o mérito da matéria versada no recurso extraordinário, enquanto o apelo extremo encartado nos presentes autos não foi admitido, tendo em vista óbice processual. 3. Agravo regimental a que se NEGA PROVIMENTO.” (RE 753.660-AgR-EDv-AgR, Rel. Min. Celso de Melo, Tribunal Pleno, DJe 20.04.2016)
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NÃO-CABIMENTO. 1. Cabem embargos de divergência quando o acórdão atacado analisa o mérito do recurso extraordinário. 2. Incabíveis os embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento, que teve o seguimento negado por ausência de requisitos processuais, sem avançar no mérito da questão. Agravo regimental a que se nega provimento”.
+    No caso, o acórdão recorrido cingiu-se a manter decisão que concluiu que o recurso extraordinário está prejudicado, por perda superveniente do seu objeto. A decisão assentou que (fls. 227-228):
+    “A pretensão recursal não merece acolhida, pois o recurso extraordinário está prejudicado por perda superveniente do seu objeto.
+    A Resolução 840/2006, da Secretaria de Estado de Defesa Social de Minas Gerais, e o objeto deste recurso, foi revogada pela Resolução Conjunta 118/2010, daquela mesma Secretaria, em conjunto com a Ordem dos Advogados do Brasil – Seção Minas Gerais, e essa nova resolução alterou o horário de entrada dos advogados nas unidades prisionais daquele Estado, o que esvazia a controvérsia trazida na espécie.
+    (…)
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, RISTF).”
+    Como se observam das razões que subsidiaram a decisão agravada não houve decisão de mérito no presente recurso extraordinário, a inviabilizar, na esteira dos precedentes da Corte, o conhecimento dos presentes embargos.
+    Ante o exposto, não admito os embargos de divergência (arts. 21, § 1º, e 335, § 1º).
+    Publique-se.
+    Brasília, 15 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
