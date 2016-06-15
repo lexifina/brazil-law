@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça de Santa Catarina, cuja ementa transcrevo:
+    Apelação Cível reciprocamente interposta. Previdência privada. Ação de cobrança. Sentença de procedência. Devolução dos valores retidos a título de reserva de poupança e revisão dos índices de correção monetária. Apelo da FUNCEF-Fundação dos Economiários Federais – Não preenchimento dos pressupostos de admissibilidade. Deserção. Recurso a que se nega seguimento. Art. 511, caput, da Lei nº 5.869, de 11/01/1973.
+    A ausência ou irregularidade no preparo ocasiona o fenômeno da preclusão, fazendo com que deva ser aplicada ao recorrente a pena de deserção, que impede o conhecimento do recurso (NERY JÚNIOR), Nelson; NERY, Rosa Maria. Código de Processo Civil Comentado e legislação extravagante. 10 ed. ed. e ampl. São Paulo: Revista dos Tribunais, 2007, p. 844).
+    Apelo da autora. Honorários advocatícios de sucumbência fixados em R$ 500,00 (quinhentos reais). Majoração devida para o equivalente a 10% (dez por cento) sobre a condenação, ou seja, a diferença, em favor da insurgente, resultante da aplicação dos expurgos inflacionários referidos no decisum objurgado, mais o montante dos valores da reserva de poupança a serem restituídos. Exegese do art. 20, § 3º, do CPC. Insurgência reconhecida e provida.
+    No recurso extraordinário, aduz-se ofensa aos artigos 5º, II, XXXVI e 202, caput, da Constituição Federal, sob alegação de afronta ao princípio garantidor do direito adquirido e da legalidade além do texto segundo o qual o regime da previdência privada será baseado no equilíbrio financeiro-atuarial.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    No julgamento do ARE 642.137, de relatoria do Ministro Cézar Peluso, DJE 15.09.2011, o Plenário deste tribunal entendeu não haver repercussão geral quando se tratar de revisão de contrato celebrado com entidade de previdência complementar (Tema 466).
+    Ademais, verifica-se que o Plenário deste Tribunal, ao apreciar o RE-RG 950.787, julgado em 29.04.2016 (Tema 890), reconheceu a inexistência de repercussão geral nos casos de alegada ofensa aos princípios constitucionais da legalidade e da propriedade e sua função social, em decorrência de relação contratual, por versar sobre matéria infraconstitucional, como na hipótese dos autos.
+    Ante o exposto, em vista do pronunciamento do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 15 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
