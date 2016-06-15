@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho que negou provimento ao recurso de agravo de instrumento, para manter a responsabilidade subsidiária do Banco do Brasil S/A., mas negar o direito do recorrente às diferenças salariais pleiteadas, por entender que ele não realizava as mesmas atividades dos empregados da tomadora de serviços.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos artigos 5º, caput e 7º, XXX e XXXII, da Constituição da República, por violação dos princípios garantidores da isonomia, da proibição de distinção entre salários e de exercícios de funções, bem como da distinção entre os profissionais respectivos.
+    Aduz-se, para tanto, que “há discriminação que não pode ser abraçada pelo STF, garantindo à parte autora todas as parcelas vindicadas na exordial, sem exceção, sob pena de ofensa direta ao artigo 5º, “caput” da Carta Magna, o qual garante justamente igualdade entre as partes. A isonomia invocada deve ser aplicada. Violado também o artigo 7º, XXX e XXXII da Constituição, que proíbe, de forma expressa, qualquer diferença de salários, não sendo possíveis distinções quando provada a realização das mesmas atividades” (eDOC-22, p. 6)
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    No julgamento do ARE-RG 635.546, de relatoria do Ministro Marco Aurélio, Dje de 04.05.2011 (Tema 383), o Tribunal decidiu pelo reconhecimento da repercussão geral acerca da possibilidade de se reconhecer aos empregados terceirizados os mesmos direitos conferidos aos trabalhadores contratados pela tomadora dos serviços e vinculados à Administração Pública, a teor do princípio da isonomia e da proibição preceituada no artigo 7º, inciso XXXII, da Carta Maior, no que tange à distinção laborativa, tal como o caso dos autos.
+    Ante o exposto, em vista do pronunciamento do Supremo Tribunal Federal acerca do tema suscitado neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+     Publique-se.
+     Brasília, 15 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
