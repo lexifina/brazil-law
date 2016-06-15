@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo que decidiu, em síntese, pela aplicação dos juros de mora ao valor da condenação. Além disso, definiu que o ônus sucumbenciais devem ser suportados pelo Banco do Brasil, ora recorrente. (eDOC 2)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, ‘’a’’, da Constituição Federal, aponta-se violação ao art. 5°, LIV, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, violação à coisa julgada, uma vez que foram aplicados juros remuneratórios em sentença já transitada em julgado. Ademais, aduz-se que não houve a citação válida do recorrente na liquidação da sentença, o que impossibilita que sejam cobrados juros de mora.
+    Além disso, assevera-se a incompetência territorial do Juízo a quo para o julgamento da ação e, por fim, afirma-se não ser da competência do recorrente o pagamento dos honorários advocatícios.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie, Código Civil e Código de Processo Civil, e o conjunto probatório constante dos autos, consignou que o recorrente foi citado e deve, desse modo, proceder à liquidação da sentença, além disso determinou serem os ônus sucumbenciais deveres do recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    ‘’Quanto aos juros da mora, dispõe o artigo 405 do Código Civil Brasileiro
+    […]
+    Com efeito, a devedora incidiu em mora na data da sua citação na ação civil pública, razão pela qual a percepção dos juros moratórios, oriundos da diferença da correção monetária das cadernetas de poupança mantidas junto à ré, correspondem ao mês de janeiro do ano 1989, é devida desde então ao exequente.
+    […]
+    Em virtude da improcedência da impugnação ao cumprimento da sentença, a instituição financeira arcará com o pagamento das custas processuais e honorários advocatícios, que arbitro em R$ 10.000,00 (dez mil reais), atendidos os critérios previstos nos parágrafos 3° e 4°, ambos do artigo 20 do Estatuto Adjetivo Civil”. (eDOC 2, p. 6-7)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    ''DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. HONORÁRIOS ADVOCATÍCIOS. COBRANÇA. SÚMULAS 279 E 454/STF. 1. O recurso extraordinário é inadmissível, tendo em vista que a solução da controvérsia pressupõe, necessariamente, o reexame dos fatos e do material probatório contantes dos autos, bem como do contrato celebrado entre as partes (Súmulas 279 e 454/STF). 2. Agravo regimental a que se nega provimento.'' (ARE 934386 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 25.04.2016)
+    ''AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. ACÓRDÃO ADEQUADA E SUFICIENTEMENTE FUNDAMENTADO. AUSÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DA ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA AFRONTA AOS PRINCÍPIOS DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL DEPENDENTE DO EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.'' (ARE 926379 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 01.02.2016)
+    ''AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CITAÇÃO. NULIDADE. OFENSA AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. NÃO OCORRÊNCIA. OFENSA REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO NÃO PROVIDO. 1. Não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional. 2. Agravo regimental a que se nega provimento.'' (ARE 895581 AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe 17.03.2016)
+    ''AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. NULIDADE DA CITAÇÃO. 1. A análise dos requisitos de validade da citação da parte executada demanda o exame do conjunto fático-probatório e da legislação infraconstitucional aplicável. Súmula 279 do STF. 2. Agravo regimental a que se nega provimento.'' (RE 907180 AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe 04.03.2016)
+    Por fim, com relação aos limites da coisa julgada, ressalto que esta Corte, no julgamento do ARE-RG 748.371 (tema 660), DJe 1º.8.2013, de minha relatoria, rejeitou a repercussão geral dessa matéria, nos casos em que a alegação de violação dos referidos princípios depender de prévia análise da legislação infraconstitucional, o que se verifica no caso dos autos.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
