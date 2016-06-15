@@ -1,0 +1,14 @@
+Art. 1º-A. O BNDES é autorizado a refinanciar os contratos de financiamento: (“Caput” do artigo acrescido pela Lei nº 13.126, de 21/5/2015)
+I - de que trata o art. 1º destinados à aquisição e ao arrendamento mercantil de caminhões, chassis, caminhões-tratores, carretas, cavalos mecânicos, reboques, semirreboques, incluídos os tipo dolly, tanques e afins, carrocerias para caminhões novos e usados, sistemas de rastreamento novos, seguro do bem e seguro prestamista; e
+II - firmados até 31 de dezembro de 2015 por: (“Caput” do inciso acrescido pela Lei nº 13.126, de 21/5/2015, com redação dada pela Lei nº 13.295, de 14/6/2016)
+a) pessoas físicas residentes e domiciliadas no País, do segmento de transporte rodoviário de carga;
+b) empresários individuais, empresas individuais de responsabilidade limitada, associados de cooperativas de transporte e sociedades, associações e fundações cuja receita operacional bruta ou renda anual ou anualizada seja de até R$ 2.400.000,00 (dois milhões e quatrocentos mil reais), desde que sejam do segmento de transporte rodoviário de carga;
+c) empresas arrendadoras, desde que o arrendatário se enquadre na forma das alíneas "a" e "b" deste inciso.
+§ 1º O prazo para formalização das operações de refinanciamento de que trata o caput deste artigo é até 30 de dezembro de 2016.
+§ 2º A autorização de que trata o caput limita-se ao refinanciamento: (“Caput” do parágrafo acrescido pela Lei nº 13.126, de 21/5/2015)
+I - das 12 (doze) primeiras parcelas com vencimento a partir da formalização da operação de refinanciamento; ou
+II - das parcelas restantes com vencimento a partir da formalização da operação de refinanciamento, se em número menor que 12 (doze).
+§ 3º É a União autorizada a conceder subvenção econômica, sob a modalidade de equalização de taxas de juros, nas operações de refinanciamento de que trata o caput.
+§ 4º (VETADO na Lei nº 13.126, de 21/5/2015)
+§ 5º O Conselho Monetário Nacional (CMN) estabelecerá as condições necessárias à contratação dos refinanciamentos de que trata o caput.
+§ 6º O Ministério da Fazenda regulamentará as demais condições para a concessão da subvenção econômica de que trata o § 3º, entre elas a definição da metodologia para o pagamento da equalização de taxas de juros.
