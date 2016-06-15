@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO. APLICAÇÃO DO ART. 557, § 1º-A, DO CÓDIGO DE PROCESSO CIVIL. IPTU. RFFSA. SUCESSÃO PELA UNIÃO. IMUNIDADE TRIBUTÁRIA RECÍPROCA. AFASTADA. AGRAVO DESPROVIDO.
+    1. O artigo 557, § 1º-A, do Código de Processo Civil, com redação dada pela Lei n.º 9.756/98, possibilitou ao relator, através de decisão monocrática, dar provimento a recurso quando a decisão recorrida estiver em manifesto confronto com súmula ou com jurisprudência dominante do Supremo Tribunal Federal, ou de Tribunal Superior, como no presente caso.
+    2. A questão sub judice já foi analisada pelo Supremo Tribunal Federal - STF que, por votação unânime, deu provimento ao Recurso Extraordinário 599176 (publicado em 13 de junho de 2014), com repercussão geral reconhecida, para assentar que não se aplica o princípio da imunidade tributária recíproca a débito de Imposto Predial e Territorial Urbano (IPTU) devido pela extinta Rede Ferroviária Federal S/A (RFFSA).
+    3. Agravo desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 21, XII, d; 150, VI, a e §§ 2° e 3°; 175 e 177, todos da Carta. Sustenta que a questão de ordem constitucional analisada no RE 599.176 foi a ausência da imunidade tributária recíproca, de modo que não foi analisada a imunidade tributária originária da extinta RFSSA, em decorrência da natureza dos serviços públicos pela mesma prestados.
+    A pretensão recursal não merece prosperar. A despeito de haver precedentes no sentido de que determinadas empresas públicas ou sociedades de economia mista que prestem serviços públicos sejam beneficiárias da imunidade tributária recíproca, esta não é a regra. Os julgados nesse sentido tratam de situações excepcionais, fundadas na análise das especificidade de cada caso, o que não permite concluir que todas as empresas públicas ou sociedades de economia mista que prestem serviços públicos, em regra, estejam sujeitas ao art. 150, VI, a, da Constituição. Prova disso são as questões ainda sob apreciação do Supremo Tribunal Federal em recursos extraordinários com repercussão geral reconhecida, quais sejam, o RE 594.015 e o RE 600.867.
+    No caso dos autos, para estender a norma que prevê a imunidade tributária recíproca originária da antiga rede ferroviária, há que se analisar se a antiga RFFSA era, ou não, responsável pela prestação de serviço público de natureza exclusiva, essencial ou em regime de monopólio, o que demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, bem como o reexame dos fatos e provas, providências vedadas nesta fase processual (Súmulas 279 e 280/STF).
+    No mesmo sentido: RE 911.498, Rel. Min. Dias Toffoli; ARE 908.054, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 15 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
