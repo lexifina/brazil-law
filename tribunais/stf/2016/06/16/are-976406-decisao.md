@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “ADMINSTRATIVO. SERVIDOR PÚBLICO. PODER JUDICIÁRIO. REAJUSTE DE 28,86% CONCEDIDO AOS MILITARES. LEI Nº 9.421/96. PLANO DE CARGOS E SALÁRIOS. LIMITAÇÃO. INCORPORAÇÃO.
+    1. A lei nº 9.421/96, que instituiu o Plano de Cargos e Salários para o funcionalismo do Poder Judiciário, estabeleceu novos valores para os vencimentos para 2000, a serem implementados gradualmente a partir de 1997.
+    2. A sistemática de cálculo adotada previu o acréscimo anual dos percentuais de 30%, 60%, 80% e 100% da diferença entre o novo valor e o valor percebido em dezembro de 1996, composto pelo vencimento básico do cargo somado à gratificação judiciária e ao percentual de 28,86%, relativo ao reajuste concedido aos militares por força da Leis nºs 8.622/93 e 8.627/93.
+    3. O reajuste de 28,86% não foi suprimido do vencimento do funcionalismo do Judiciário Federal, mas incorporado definitivamente a ele pela Lei nº 9.421/96.
+    4. Apelação improvida.””
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, XXXV, LIV e LV; 37, X; e 93, IX, da Constituição.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) existência de ofensa reflexa à Constituição; e (ii) ausência de violação às garantias constitucionais do processo.
+    O recurso não merece acolhida. Em primeiro lugar, quanto à alegação de ofensa aos arts. 5°, XXXV, e 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, Rel. Min. Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Em segundo lugar, aplica-se a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o seguinte trecho de ementa:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.” (AI 839.837-AgR, Rel. Min. Ricardo Lewandowski)
+    Em terceiro lugar, para divergir do entendimento firmado pelo Tribunal de origem, faz-se necessária a análise da legislação infraconstitucional aplicada ao caso, procedimento inviável neste momento processual. Nesse sentido, confiram-se os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO DO PODER JUDICIÁRIO. REAJUSTE DE 28,86%. LEI 9.421/96. 1. A discussão relativa ao reajuste de 28,86% não possui índole constitucional, pois depende do prévio exame da legislação infraconstitucional. 2. Agravo regimental improvido.” (RE 507.708-AgR, Rel.ª Min.ª Ellen Gracie).
+    “Agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Servidor Público do Poder Judiciário. Reajuste de 28,86%. Lei n. 9.421, de 1996. Ofensa reflexa à Constituição Federal. Precedentes. 4. Agravo regimental a que se nega provimento.” (RE 376.838-AgR, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 16 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
