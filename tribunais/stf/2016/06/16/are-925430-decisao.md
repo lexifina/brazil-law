@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR. FÉRIAS-PRÊMIO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO MUNICIPAL: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, als. a e c, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA – MUNICÍPIO DE MURIAÉ – FÉRIAS-PRÊMIO – VERIFICAÇÃO DOS REQUISITOS – OCORRÊNCIA – ADI 1.0000.09.505501-8/000 – RESTABELECIMENTO DA ORDEM JURÍDICA ANTERIOR – ART. 51, II, DA LEI ORGÂNICA MUNICIPAL – PEDIDO JULGADO PARCIALMENTE PROCEDENTE”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante alega ter o Tribunal de origem contrariado os arts. 5º, incs. XXXV, LIV e LV; 18; 30; 61, § 1º, inc. II, al. c; 102, § 2º; 169, § 1º, da Constituição da República.
+    3. Inadmitiu-se o recurso extraordinário sob os seguintes fundamentos: a) ausência de prequestionamento (Súmula n. 282 do Supremo Tribunal Federal); b) a ofensa constitucional, se tivesse ocorrido, seria indireta e dependeria de análise de legislação infraconstitucional.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A apreciação do pleito recursal demandaria o reexame do conjunto fático-probatório constante do processo e da legislação municipal aplicável à espécie (Lei n. 9.868/1999 e Decreto n. 29.910/1932), procedimento inviável em recurso extraordinário. Incidem as Súmulas ns. 279 e 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. CONCESSÃO DE FÉRIAS-PRÊMIO. 1. Impossibilidade de análise de legislação local: Súmula n. 280 do Supremo Tribunal Federal. 2. Inadmissibilidade de inovação de argumentos no agravo regimental. Precedentes. 3. Agravo regimental ao qual se nega provimento” (ARE n. 60-789-AgR, de minha relatoria, Primeira Turma, DJe 10.4.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. FÉRIAS-PRÊMIO. BASE DE CÁLCULO. LEIS 6.560/1994, 7.169/1996 E 7.971/2000 DO MUNICÍPIO DE BELO HORIZONTE. CONTROVÉRSIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Inviável o recurso extraordinário quando sua apreciação demanda reexame, por esta Corte, da legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 do STF. Precedentes. II – Esta Corte entende não ser cabível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). Precedentes. III – Agravo regimental a que se nega provimento” (ARE n. 782.389-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 17.2.2014).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. REMUNERAÇÃO DE SERVIDOR PÚBLICO MUNICIPAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n. 541.800-AgR, de minha relatoria, Primeira Turma, DJe 18.9.2009).
+    “EMENTA Agravo regimental no recurso extraordinário. Legislação infraconstitucional. Lei Municipais n. 7.169/96 e 8.690/03. Súmulas n. 279 e 280. Precedentes. 1. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional (Lei Municipais nºs 7.169/96 e 8.690/03) e o reexame dos fatos e das provas dos autos. Incidência da Súmulas n. 279 e 280/STF. 2. Agravo regimental não provido” (RE n. 627.731-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJ 17.6.2011).
+    6. Pelo exposto, nego seguimento ao agravo (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 16 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
