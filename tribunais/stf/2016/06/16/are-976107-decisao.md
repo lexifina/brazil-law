@@ -1,0 +1,14 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Maria Pires Nogueira contra acórdão proferido pela E. 2ª Turma Recursal do Paraná.
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido o preceito inscrito no art. 203, V, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte ora recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise do acórdão recorrido demonstra que a E. 2ª Turma Recursal do Paraná, no julgamento do recurso inominado, sustentou as suas conclusões em aspectos fático-probatórios a seguir destacados:
+    “Cumpre destacar que, no caso em tela, não há como estender o disposto no artigo 34, parágrafo único, da Lei nº 10.741/2003, posto que, embora o esposo da autora seja idoso, a aposentadoria por ele recebida não corresponde a um salário mínimo.
+    Não se pode negar que existem outros meios para provar a miserabilidade e a hipossuficiência de quem postula o benefício assistencial. De forma que, excepcionalmente, este é concedido, ainda que a renda per capita iguale ou supere o limite de ¼ do salário mínimo.
+    Todavia, no caso dos autos, não se verifica estado de miserabilidade. Muito embora a autora more em uma residência simples, não se verifica estado de miséria, capaz de fazer supor quadro de risco social.
+    Inclusive, consideradas todas as despesas descritas no mandado de constatação, a renda da família é superior à somatória. Isso significa que, feitas as despesas, ainda sobra renda, situação incompatível com o pleito de assistência estatal.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, em face das razões expostas, ao apreciar o presente agravo, e considerando, ainda, a existência de precedentes específicos sobre a matéria ora em exame (AI 766.482/PR, Rel. Min. CEZAR PELUSO – ARE 836.918/SP, Rel. Min. CELSO DE MELLO), não conheço do recurso extraordinário, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 16 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
