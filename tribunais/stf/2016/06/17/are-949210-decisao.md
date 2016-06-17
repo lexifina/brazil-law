@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho, assim ementado:
+    AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. APELO INTERPOSTO NA VIGÊNCIA DA LEI N.º 13.015/2014. OPERADOR DE VENDAS POR TELEFONE. JORNADA REDUZIDA DE SEIS HORAS. APLICAÇÃO DO ANEXO II DA NR 17 DO MINISTÉRIO DO TRABALHO E EMPREGO. Evidenciado pelo Regional, após o exame do conjunto fático-probatório produzido nos autos – notadamente a CTPS e a prova testemunhal – que o labor da Autora, em quase sua totalidade, se resumiu à função de teleatendimento, com a utilização de headset, correto o posicionamento adotado, ao fixar a jornada de trabalho em seis horas diárias, nos termos do Anexo II da NR n.º 17 do MTE. Precedentes. Agravo de Instrumento conhecido e não provido.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 5º, II, e 7º, XIII, e 22, I, da Constituição da República, por violação dos princípios garantidores da legalidade, da redução da jornada, e da competência privativa da União para legislar sobre direito do trabalho.
+    A irresignação não merece prosperar.
+    Sem embargo do teor, manifestado nestes autos, a respeito, abstratamente, da violação dos princípios constitucionais garantidores da legalidade (art. 5º, II), da redução da jornada em caso de negociação coletiva (art. 7º, XIII) e da competência privativa da União para legislar sobre direito do trabalho (art. 22, I), todos da Constituição da República, o Recorrente fundamenta o apelo extremo em argumentos genéricos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em normas infraconstitucionais (Portaria 3.214/78 do Ministério do Trabalho e Consolidação das Leis do Trabalho - CLT), o que não é cabível em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+    De igual forma, embora haja estribo argumentativo na afronta aos direitos fundamentais decorrentes da proteção à jornada de trabalho reduzida de operador de telemarketing, sua apreciação demandaria reexame de dados fáticos, a exigir o revolvimento de matéria de índole probatória, inviável na instância extraordinária.
+    Ante o exposto, nego seguimento ao recurso, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 17 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
