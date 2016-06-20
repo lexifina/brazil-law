@@ -1,0 +1,21 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “AGRAVO LEGAL. APELAÇAO CÍVEL. SERVIDORES DO PODER JUDICIÁRIO FEDERAL. LEI Nº 9.421/96. PLANO DE CARGOS E SALÁRIOS. REAJUSTE DE 28,86%. JURISPRUDÊNCIA DOMINANTE. APLICAÇÃO DO ART. 557 DO CPC. RECURSO IMPROVIDO.
+    1. O art. 557 do CPC não menciona jurisprudência pacífica, o que, na verdade, poderia tornar inviável a sua aplicação. A referência à jurisprudência dominante revela que, apesar de existirem decisões em sentido diverso, acabam por prevalecer, na jurisprudência, as decisões que adotam a mesma orientação invocada pelo relator.
+    2. Não merece reparos a decisão recorrida, porquanto em consonância com firme entendimento do Superior Tribunal de Justiça e desta Corte.
+    3. Agravo legal a que se nega provimento.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 9.421/96), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, para negar provimento ao recurso inominado, apoiou-se em dispositivos de ordem meramente legal, a seguir destacados:
+    “O pagamento do referido reajuste, como parcela autônoma, foi efetuado aos servidores do Poder Judiciário desde janeiro de 1993 até o advento da Lei nº 9.421/96, que criou o Plano de Cargos e Salários dos referidos servidores, quando passou a compor o valor dos novos vencimentos.
+    Ocorre que a Lei nº 9.421/96, reestruturando as carreiras dos servidores do Poder Judiciário Federal, deu nova denominação aos cargos existentes e estabeleceu uma nova tabela de vencimentos. O estabelecimento de uma nova carreira originou a fixação de remuneração desvinculada da que anteriormente era paga aos servidores pelo exercício de suas funções. Não se trata, por isso, de reajuste de vencimentos.
+    …...................................................................................................
+    Logo, com advento da Lei n.º 9.421/96, o reajuste de 28,86% foi incorporado ao vencimento básico dos autores, não fazendo jus, portanto, ao índice pretendido.”
+    Impõe-se registrar, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria idêntica à veiculada no caso em exame (AI 669.805/SP, Rel. Min. JOAQUIM BARBOSA – AI 673.957/SP, Rel. Min. DIAS TOFFOLI – AI 755.820/SP, Rel. Min. LUIZ FUX – ARE 848.948/SP, Rel. Min. GILMAR MENDES – RE 478.248-ED/RS, Rel. Min. CEZAR PELUSO – RE 507.708- -AgR/RS, Rel. Min. ELLEN GRACIE, v.g.):
+    “Agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Servidor Público do Poder Judiciário. Reajuste de 28,86%. Lei no 9.421, de 1996. Ofensa reflexa à Constituição Federal. Precedentes. 4. Agravo regimental a que se nega provimento.”
+    (RE 376.838-AgR/PB, Rel. Min. GILMAR MENDES)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 20 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
