@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. PIS E COFINS. BASE DE CÁLCULO. CRÉDITO DE VALORES PAGOS A TÍTULO DE MÃO DE OBRA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Sexta Turma do Tribunal Regional Federal da Terceira Região decidiu:
+    “AGRAVO. ART. 557, CAPUT, CÓDIGO DE PROCESSO CIVIL. TRIBUTÁRIO. BASE DE CÁLCULO. PIS/COFINS. CRÉDITO DE VALORES PAGOS A TÍTULO DE MÃO DE OBRA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+    1. Para a aplicação do disposto no art. 557 do Código de Processo Civil não há necessidade de a jurisprudência dos Tribunais ser unânime ou de existir súmula de Tribunal Superior a respeito. Ademais, o recurso pode ser manifestamente improcedente ou inadmissível mesmo sem estar em confronto com súmula ou jurisprudência dominante. Precedentes do Superior Tribunal de Justiça.
+    2. No caso em tela, as pessoas físicas não são contribuintes do PIS e da COFINS no fornecimento de mão de obra e, portanto, não há recolhimentos dos referidos tributos nessa fase da cadeia, não gerando crédito para a empresa adquirente abater nos recolhimentos posteriores.
+    3. A geração de um crédito em situações em que não houve recolhimento na etapa anterior da cadeia só seria possível em caso de autorização legislativa e, na hipótese em apreço, a lei é clara ao vedar a utilização desses créditos.
+    4. Agravo desprovido” (doc. 4, fl. 2).
+    Os embargos declaratórios opostos foram assim julgados:
+    “EMBARGOS DE DECLARAÇÃO. TRIBUTÁRIO. BASE DE CÁLCULO. PIS/COFINS. CRÉDITO DE VALORES PAGOS A TÍTULO DE MÃO DE OBRA. IMPOSSIBILIDADE. ACÓRDÃO OMISSO EM RELAÇÃO AOS PRINCÍPIOS DA CAPACIDADE CONTRIBUTIVA, DA VEDAÇÃO AO CONFISCO E DA LIVRE CONCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS. CONCLUSÃO DO JULGADO MANTIDA” (doc. 4, fl. 17).
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta.
+    4. A Agravante argumenta “que, ao proibir a utilização de tais quantias como crédito (insumo) na apuração do PIS e da COFINS na sistemática não cumulativa, o v. acórdão negou vigência ao referido princípio constitucional e, ainda, a diversos outros princípios previstos na Carta Magna, quais sejam, da capacidade contributiva (art. 154, § 1º), da vedação ao confisco (art. 150, VI) e da Livre concorrência (art. 170, IV).
+    Vale dizer, ao manter a sentença de improcedência da demanda, o E. Tribunal a quo concluiu, de forma absolutamente equivocada, que a despesa relacionada ao valor pago a título de mão de obra não se enquadra no conceito de insumo previsto no art. 3º, II, das Leis ns. 10.637/02 e 10.833/03 e, ainda, o Poder Judiciário não poderia ampliar o rol de créditos previstos na legislação, razão pela qual a pretensão deduzida no presente feito não deveria prosperar” (doc. 6, fl. 73).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado os arts. 145, § 1º, 150, inc. IV, 170, inc. IV, e 195, § 12, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste à Agravante.
+    A apreciação do pleito recursal demandaria reexame da matéria fático-probatória e da legislação infraconstitucional aplicável à espécie. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. PIS COFINS. BASE DE CÁLCULO. VALORES REPASSADOS A TERCEIROS POR EMPRESA DE AGENCIAMENTO DE MÃO-DE-OBRA. 1. É infraconstitucional o debate acerca da incidência do PIS e da COFINS sobre a totalidade da renda auferida pela empresa agenciadora de mão de obra, independentemente de repasse de valores a terceiros. Súmula 279 do STF. 2. Agravo regimental a que se nega provimento” (RE n. 627.290-AgR/RS, Relator o Ministro Edson Fachin, Primeira Turma, DJe 20.10.2015).
+    “DIREITO TRIBUTÁRIO. PIS E COFINS. BASE DE CÁLCULO. ART. 3º, § 1º, DA LEI Nº 9.718/1998. INCONSTITUCIONALIDADE. APLICAÇÃO DAS LEIS Ns. 10.637/2002 E 10.833/2003. PROVA PERICIAL. DESNECESSIDADE. DENÚNCIA ESPONTÂNEA. MULTA. INOCORRÊNCIA. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 23.6.2014. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Agravo regimental conhecido e não provido” (ARE n. 859.958-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 7.4.2015).
+    Nada há a prover quanto às alegações da Agravante.
+    6. Pelo exposto, nego provimento a este agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
