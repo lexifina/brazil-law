@@ -1,0 +1,24 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “MANDADO DE SEGURANÇA PREVENTIVO – PRETENSÃO DE IMPEDIR A INSCRIÇÃO DE DÉBITO TRIBUTÁRIO NO CADIN ESTADUAL – CADASTRO INFORMATIVO DE CRÉDITOS NÃO QUITADOS DE ÓRGÃOS E ENTIDADES ESTADUAIS – Sentença denegatória. Apelação da impetrante.
+    LIVRE EXERCÍCIO DA ATIVIDADE ECONÔMICA. Não há violação ao direito fundamental no registro no CADIN. Hipótese de exercício regular do direito do credor que não mais quer contratar o mau pagador. Não constitui meio coercitivo ilegal para pagamento.
+    PENDÊNCIA DE PROCESSO ADMINISTRATIVO EM QUE SE DISCUTE A COMPENSAÇÃO TRIBUTÁRIA COM CRÉDITOS ORIUNDOS DE PRECATÓRIOS CEDIDOS – Hipótese não prevista de suspensão da exigibilidade do crédito tributário. Inteligência do art. 151 do Código Tributário Nacional.
+    SENTENÇA MANTIDA. Apelo desprovido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    É que a questão suscitada nos autos foi decidida com base no direito local (Lei Estadual nº 12.799/08), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local, a seguir destacada:
+    “O Estado realiza o exercício regular de seu direito ao informar a pessoa inadimplente da inclusão de seu nome no CADIN. A inscrição de pessoas com dívidas pendentes de pagamento no cadastro estadual é respaldada pela Lei Estadual nº 12.799/08 e não configura coação indevida para a cobrança de tributo.
+    …...................................................................................................
+    O cadastro apenas é indevido se restar demonstrado que a dívida não existe (pelo pagamento, por exemplo) ou está suspensa a exigibilidade do débito. Nessa última hipótese, deverá ocorrer a suspensão do registro no CADIN, consoante dispõe o art. 8º da Lei Estadual nº 12.799/08.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 805.103-AgR/RS, Rel. Min. ROBERTO BARROSO – ARE 916.540/SP, Rel. Min. CÁRMEN LÚCIA):
+    “Agravo regimental no recurso extraordinário com agravo. Inscrição no CADIN. Constitucionalidade. ADI nº 1.454/DF. Restrição em lei e decreto estaduais. Normas de direito local. Súmula nº 280/STF. Impedimento de contratar com a administração pública. Não demonstração de incidência das Súmulas nºs 70, 323 e 547/STF.
+    1. O acórdão recorrido decidiu acerca da manutenção do registro do contribuinte no CADIN, forte no argumento de que a restrição imposta pela lei estadual seria no sentido da impossibilidade de contratar com a administração pública estadual, não vedando o exercício de atividade profissional, concluindo que o procedimento encontraria amparo na Lei estadual nº 12.799/08 e no Decreto nº 53.455/08, normas de direito local, pelo que incide a Súmula nº 280/STF.
+    2. A agravante sequer se insurge contra os normativos estaduais que impõem a alegada restrição, limitando-se a sustentar, genericamente, a incidência das Súmulas nºs 70, 323 e 547/STF, sem, no entanto, demonstrar em que medida os verbetes sumulares não foram respeitados.
+    3. Constitucionalidade do Cadastro Informativo de Créditos não Quitados do Setor Público Federal (CADIN) reconhecida na ADI nº 1454/DF, Tribunal Pleno, Relatora a Ministra Ellen Gracie, DJ de 3/8/07. Na ocasião, o Tribunal não vislumbrou ‘como a simples obrigatoriedade da consulta ao cadastro, possa ser tida como prévio e formal impedimento para o mútuo ou a celebração dos atos previstos no citado art. 6º, nem, ainda, como forma – mesmo indireta – de ser o interessado compelido a pagamentos’.
+    4. Agravo regimental não provido.”
+    (ARE 663.692-AgR/SP, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 20 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
