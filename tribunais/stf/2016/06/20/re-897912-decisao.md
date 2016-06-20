@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, em sede de embargos infringentes, assim ementado (eDOC 02, p. 55):
+     EMBARGOS INFRINGENTES — CONTRATO DE FINANCIAMENTO — TAXA DE JUROS— LIMITAÇÃO EM 12% — ART. 1º DO DECRETO N. 22.626/33 — ABUSO DE DIREITO.
+    O artigo 25 do ato das disposições constitucionais transitórias estabeleceu a revogação de todos os dispositivos legais que atribuíam ou delegavam a órgãos do poder Executivo à normatização de matéria exclusiva do Congresso Nacional; por isso os juros remuneratórios devem incindir no limite de 12% ao ano, visto que a Lei n. 4.595/64, Lei da Reforma Bancária, não revogou os artigos 1º e 13 do Decreto n. 22.626/33, Lei da Usura, e com base no art. 406 c.c 591, ambos no novo Código Civil.
+    O exercício de um direito legítimo tem limitações e deve obedecer a seus fins sociais e econômicos, além de atender aos ditames da boa-fé e dos bons costumes, não havendo direito absoluto no ordenamento brasileiro; na espécie, contratação de juros acima do limite de 12% configura abuso de direito, violando de forma expressa o conteúdo do art. 187 do novo Código Civil.
+    EMBARGOS INFRINGENTES — CONTRATO DE FINANCIAMENTO — JUROS— IMPOSSIBILIDADE DA CAPITALIZAÇÃO DIÁRIA, MENSAL OU SEMESTRAL.
+    A capitalização diária, mensal e semestral de juros somente é permitida nos casos de crédito rural, comercial e industrial quando houver previsão contratual, afastando-se sua ocorrência nos demais contratos bancários, inclusive em relação ao contrato de financiamento.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aduz-se que o acórdão recorrido negou vigência aos arts. 192, § 3º da Constituição Federal, 4º, IX da Lei 4.595/64 e à Súmula 596 do Supremo Tribunal Federal. Sustenta-se, em síntese, a legalidade da cobrança da capitalização mensal de juros e da comissão de permanência, bem como que não se deve limitar os juros à taxa de 12% ao ano “tanto pela revogação do art. 192, §3º da CF/88, tanto pela não aplicação do Decreto 22.636/33, há de ser aplicada a Lei 4.595/64, pois é a Lei que disciplina tais negócios com as instituições bancárias e a limitação de juros (...).” (eDOC 2, p. 101)
+    É o relatório. Decido.
+    Compulsando os autos, verifico que o Superior Tribunal de Justiça deu provimento ao Recurso Especial nº 1.016.606/MS, simultaneamente interposto ao presente recurso, para julgar procedentes os pedidos da ora recorrente e ajustar o acórdão recorrido para autorizar a cobrança de juros remuneratórios contratados, da comissão de permanência, bem como para admitir a capitalização mensal dos juros. Essa decisão transitou em julgado em 15.06.2015 (eDOC 4, p. 44).
+    Ante o exposto, julgo prejudicado o presente recurso por perda superveniente do objeto, nos termos do art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 20 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
