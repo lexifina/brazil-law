@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Roberto Luiz Ribeiro Haddad. Aparelhado o recurso na violação dos arts. 5º, XXXVI, LIII, LIV e LV, 37, § 4º, 85, V, e 105, I, “a”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O acórdão recorrido está em consonância com o julgamento proferido na ADI 2.797/PR (Rel. Min. Sepúlveda Pertence, Tribunal Pleno, DJ 19.12.2006), em que declarada a inconstitucionalidade da Lei 10.628/2002. Na oportunidade, fixou-se o entendimento de que inexiste foro por prerrogativa de função nas ações de improbidade administrativa. No mesmo sentido, Rcl 3.021-AgR/SP, Rel. Min. Cezar Peluso, Tribunal Pleno, DJe 06.02.2009; AI 678.927-AgR/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 1º.02.2011; RE 586.545-AgR/MG, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 1º.02.2011; AI 556.727-AgR/SP, Rel. Min Dias Tóffoli, 1ª Turma, DJe 26.4.2012; e Rcl 2.766 AgR, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 09.4.2014, assim ementado:
+    “RECLAMAÇÃO – AÇÃO CIVIL POR IMPROBIDADE ADMINISTRATIVA – COMPETÊNCIA DE MAGISTRADO DE PRIMEIRO GRAU, QUER SE CUIDE DE OCUPANTE DE CARGO PÚBLICO, QUER SE TRATE, COMO NA ESPÉCIE, DE TITULAR DE MANDATO ELETIVO (PREFEITO MUNICIPAL) AINDA NO EXERCÍCIO DAS RESPECTIVAS FUNÇÕES – RECURSO DE AGRAVO IMPROVIDO. - O Supremo Tribunal Federal tem advertido que, tratando-se de ação civil por improbidade administrativa (Lei nº 8.429/92), mostra-se irrelevante, para efeito de definição da competência originária dos Tribunais, que se cuide de ocupante de cargo público ou de titular de mandato eletivo ainda no exercício das respectivas funções, pois a ação civil em questão deverá ser ajuizada perante magistrado de primeiro grau. Precedentes.”
+    Verifico, por seu turno, que no julgamento do RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, decidiu-se pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos limites da coisa julgada e dos princípios do devido processo legal, do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, cuja ementa transcrevo:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de junho de 2016.
+Ministra Rosa Weber
+Relatora
