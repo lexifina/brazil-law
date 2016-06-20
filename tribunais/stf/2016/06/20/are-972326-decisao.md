@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do 4ª Turma Recursal do do Paraná, que indeferiu o pedido de expedição de precatório complementar para o pagamento de juros entre a realização o cálculo do precatório e a data de seu pagamento.
+    O Supremo Tribunal Federal, ao julgar o ARE 638.195, Rel. Min. Joaquim Barbosa, sob a sistemática da repercussão geral (Tema 450), ratificou a jurisprudência quanto a impossibilidade de incidência de juros no referido período. Na oportunidade, o acórdão ficou assim ementado:
+    “CONSTITUCIONAL. FINANCEIRO. REQUISIÇÃO DE PEQUENO VALOR. CORREÇÃO MONETÁRIA E JUROS DE MORA. APURAÇÃO ENTRE A DATA DE REALIZAÇÃO DA CONTA DOS VALORES DEVIDOS E A EXPEDIÇÃO DA RPV. RELEVÂNCIA DO LAPSO TEMPORAL. CABIMENTO. REPERCUSSÃO GERAL RECONHECIDA QUANTO AO CABIMENTO DA APLICAÇÃO DE CORREÇÃO MONETÁRIA. 1. “O SUPREMO TRIBUNAL FEDERAL, CONHECENDO DO RECURSO EXTRAORDINÁRIO, JULGARÁ A CAUSA, APLICANDO O DIREITO À ESPÉCIE” (Súmula 456/STF). Aplicabilidade ao recurso extraordinário em exame. 2. É devida correção monetária no período compreendido entre a data de elaboração do cálculo da requisição de pequeno valor - RPV e sua expedição para pagamento. Recurso extraordinário conhecido, ao qual se dá parcial provimento, para cassar o acórdão-recorrido, de modo que o TJ/RS possa dar continuidade ao julgamento para definir qual é o índice de correção monetária aplicável em âmbito estadual.”
+    Em relação aos critério de correção monetária previstos na Lei 11.960/2009, quando há condenação da Fazenda Pública, constata-se que o Supremo Tribunal Federal, no julgamento do RE 870.947, Rel. Min. Luiz Fux, DJe 27.4.2015 (tema 810), pendente ainda a análise de mérito, entendeu pela existência de repercussão geral da matéria versada nestes autos. Na oportunidade, a ementa restou assim redigida:
+    “DIREITO CONSTITUCIONAL. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ART. 1º-F DA LEI Nº 9.494/97 COM A REDAÇÃO DADA PELA LEI Nº 11.960/09.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 20 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
