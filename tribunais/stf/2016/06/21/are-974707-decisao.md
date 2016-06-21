@@ -1,0 +1,32 @@
+/RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. FATOR PREVIDENCIÁRIO. PROCESSO EXTINTO SEM RESOLUÇÃO DE MÉRITO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “1. Pedido revisão de benefício previdenciário, mediante afastamento do fator previdenciário, previsto no art. 29, §7º, da Lei nº 8.213/91, com redação dada pela Lei nº 9.876/99. Sentença de extinção do processo sem resolução de mérito, fundada na coisa julgada. Recurso da parte autora.
+    2. A sentença foi proferida nos seguintes termos:
+    ‘A presente demanda é apenas a reiteração da demanda anterior apontada no termo de prevenção (autos n.º 00044104520094036183). Aquela demanda foi resolvida no mérito por sentença transitada em julgado. Diante do exposto, EXTINGO o processo, sem resolução do mérito, nos termos do art. 267, inciso V, do Código de Processo Civil. Sem custas e honorários. Com o trânsito em julgado, dê-se baixa no sistema processual. Publicada e registrada neste ato. Intimem-se.’
+    3. Sentença proferida em sede de embargos de declaração:
+    ‘Conforme acórdão proferido na ação de autos n.º 0004410-45.2009.403.6183, restou decidido o seguinte:
+    ‘[...]
+    Na espécie, a parte requerente teve sua concessão concedida nos termos acima aludidos, mas pleiteia a revisão de seu benefício, ao argumento de que teria sido prejudicada com a nova metodologia utilizada pelo IBGE para o cálculo da expectativa de vida. Todavia, o INSS procedeu ao cálculo do benefício em conformidade com as normas vigentes à época de sua concessão (Lei 8.213/1991, em consonância com a Emenda 20/1998 e Lei 9.876/1999), não havendo qualquer infração aos critérios legalmente estabelecidos.
+    [...]’
+    É evidente, portanto, que a presente ação trata do mesmo objeto da ação anterior.’
+    4. Não obstante a relevância das razões apresentadas pelo(a) recorrente, o fato é que todas as questões suscitadas pelas partes foram corretamente apreciadas pelo Juízo de Primeiro Grau, razão pela qual a r. sentença deve ser mantida por seus próprios e jurídicos fundamentos, nos termos do art. 46 da Lei nº 9.099/95. NEGO PROVIMENTO AO RECURSO.
+    5. Recorrente condenado ao pagamento de honorários advocatícios, fixados em 10% sobre o valor da causa, limitados a 06 (seis) salários mínimos. Na hipótese de a parte autora ser beneficiária de assistência judiciária gratuita, o pagamento dos valores mencionados ficará suspenso nos termos do artigo 12, da Lei nº 1.060/50.
+    6. É o voto.” (Doc. 27, fl. 1).
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 3º, I, 195, caput, § 4º e § 5º, e 201, § 4º, da Constituição Federal e à Emenda à Constituição 20/1998.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 284 do STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição Federal).
+    O agravo não merece prosperar.
+    Dissentir do que decidido pelo Tribunal a quo quanto às razões que o levaram a manter a sentença de extinção do processo sem resolução de mérito, demanda a análise de legislação infraconstitucional. Ora, a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido:
+    “DIREITO PROCESSUAL CIVIL. MANDADO DE SEGURANÇA COLETIVO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. ART. 267, VI, DO CPC. FEDERAÇÃO. LEGITIMIDADE ATIVA. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 04.6.2010.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido.” (AI 648.256-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 26/5/2015).
+    “Agravo regimental no recurso extraordinário com agravo. Direito processual civil. Princípio do devido processo legal. Motivação das decisões judiciais. Ofensa reflexa. Litispendência. Fixação de honorários advocatícios. Legislação infraconstitucional. Reexame. Fatos e provas. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Não procede a alegada violação do art. 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. 3. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido.” (ARE 822.725-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 23/2/2015).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 21 de junho de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
