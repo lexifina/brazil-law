@@ -1,0 +1,26 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União (DPU), em favor de Marlon Gabriel dos Reis Pereira, contra acórdão proferido pelo Superior Tribunal Militar (STM), nos autos da Apelação n. 52-32.2013.7.03.0303/RS.
+    Consta dos autos que o paciente foi denunciado pela suposta prática dos crimes previstos no art. 290, § 1º, inciso I (1º fato); no art. 290, caput, (2º fato); no art. 223, caput (por 3 vezes), todos do Código Penal Militar, porquanto, em síntese, teria sido flagrado na posse de substância entorpecente (maconha) dentro de estabelecimento militar.
+    Finda a instrução criminal, o Conselho Permanente de Justiça para o Exército da 3ª Auditoria da 3ª CJM condenou o paciente à pena de 1 ano de reclusão, em regime inicial aberto, pela prática do delito descrito no art. 290, caput, do CPM, com benefício do sursis pelo prazo de 2 anos, e concedida a possibilidade de apelar em liberdade.
+    Irresignada, a defesa interpôs recurso de apelação no Superior Tribunal Militar, que negou provimento ao apelo, em acórdão assim ementado:
+    “APELAÇÃO. DEFESA. POSSE OU USO DE SUBSTÂNCIA ENTORPECENTE. ART. 290 DO CPM. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. ALEGAÇÃO DE FRAGILIDADE DAS PROVAS TESTEMUNHAIS. NÃO COMPROVAÇÃO. VEROSSIMILHANÇA DOS DEPOIMENTOS CARREADOS AOS AUTOS. AUSÊNCIA DO TERMO DE APREENSÃO. IRREGULARIDADE. ALEGAÇÃO DE NULIDADE. NÃO ACOLHIMENTO. AUTORIA, MATERIALIDADE E CULPABILIDADE CONFIRMADAS. MANUTENÇÃO DA SENTENÇA. NEGADO PROVIMENTO AO APELO. MAIORIA.
+    A ausência de confissão quanto à prática delituosa de posse ou uso da substancia entorpecente prevista no art. 290 do CPM, ainda que o material apreendido não tenha sido encontrado no poder do agente, não tem o condão de invalidar a condenação imposta pelo Colegiado Julgador de primeiro grau, se a prova testemunhal colhida durante a instrução criminal conduz à certeza de que a conduta foi perpetrada pelo réu e de que o entorpecente foi encontrado em área sujeita à Administração Militar lhe pertencia.
+    A ausência de Termo de Apreensão da Substância Entorpecente constitui mera irregularidade, não afastando a comprovação da autoria e da materialidade delitivas, quando os demais elementos probatórios carreados aos autos demonstram que o réu, efetivamente, introduziu a substância entorpecente apreendida em local sujeito à Administração Militar, e que o referido material foi submetido a exame pericial.”
+    Daí a impetração do presente habeas corpus.
+    Neste writ, a defesa alega, preliminarmente, que o paciente foi licenciado do Exército em data anterior à prolação da sentença, ocasionando a ausência da condição de procedibilidade/prosseguibilidade. Requer, assim, a absolvição do paciente ou o reconhecimento da incompetência da Justiça Militar para processar e julgar o feito ou, ainda, seja reconhecida a incompetência do Conselho Permanente e, por consequência, a competência do Juiz-Auditor.
+    No mérito, a defesa reitera a tese de ausência de comprovação da materialidade delitiva, levando em conta a inexistência de formalização da apreensão da droga encontrada na posse do paciente e do respectivo laudo definitivo de constatação.
+    Aduz que a ausência do auto de apreensão implicou, de modo irremediável, a quebra da idoneidade da cadeia de custódia do vestígio apreendido. Sustenta, ainda, que o único laudo constante dos autos é subscrito por apenas um perito.
+    Requer, liminarmente, a suspensão do processo até o julgamento final do presente writ. No mérito, pleiteia a absolvição do paciente.
+    É o breve relatório.
+    Como se sabe, a concessão de liminar em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora.
+    No caso dos autos, em uma análise preliminar, não vislumbro a presença dos requisitos exigidos para a concessão da medida liminar.
+    A rigor, a decisão prolatada pelo Superior Tribunal Militar não me parece conter ilegalidade patente merecedora de reforma. É que, embora repute de suma importância a presença do auto de apreensão do entorpecente para comprovação da materialidade do delito, o fato é que a ausência deste documento – conforme o caso em voga – não tem o condão, por si só, de provocar a nulidade, desde que presentes outros elementos de prova.
+    Ademais, destaco que esta Segunda Turma considera que a ausência do auto de apreensão de entorpecentes não tem o condão de invalidar a condenação, quando esta se funda em outras provas idôneas. Nesse sentido, o HC 119.464/DF, relator o Ministro Teori Zavascki (DJe 25.2.2014).
+    Dessa forma, salvo melhor juízo quanto ao mérito, os fundamentos adotados pelas decisões vergastadas, assim como os demais elementos constantes dos autos, não autorizam a concessão da liminar.
+    Por fim, ressalto que merece o caso exame mais detalhado quanto às alegações levantadas pela impetrante, o que se dará no julgamento de mérito deste writ, até porque a motivação que dá suporte ao pedido liminar confunde-se com o próprio mérito.
+    Ante o exposto, indefiro o pedido de medida liminar.
+    Abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 21 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
