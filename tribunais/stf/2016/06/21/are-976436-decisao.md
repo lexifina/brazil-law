@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DE RENDA MENSAL INICIAL DA APOSENTADORIA POR INVALIDEZ PRECEDIDA DE AUXÍLIO-DOENÇA. APLICAÇÃO DO ART. 36, § 7º, DO DECRETO N. 3.048/1999. ACÓRDÃO RECORRIDO HARMÔNICO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+    “PREVIDENCIÁRIO. BENEFÍCIO. REVISÃO DA RMI. AUXÍLIO-DOENÇA CONVERTIDO EM APOSENTADORIA POR INVALIDEZ. § 5º DO ART. 29 DA LEI 8.213/91.
+    - Exame do pedido que passa pela possibilidade da revisão e recálculo da renda mensal inicial, questões unicamente de direito a autorizar o julgamento antecipado da lide, bem como o emprego da faculdade prevista do artigo 285-A do Código de Processo Civil.
+    - Nos termos do artigo 36, parágrafo 7º, do Decreto 3048/99, a renda mensal inicial da aposentadoria por invalidez concedida por transformação de auxílio-doença será de cem por cento do salário-de-benefício que serviu de base para o cálculo da renda mensal inicial do auxílio doença, reajustado pelos mesmos índices de correção dos benefícios em geral.
+    - A hipótese do artigo 29, parágrafo 5º, da Lei nº 8.213/91, somente se aplica nas hipóteses em que há períodos intercalados de contribuição entre a concessão do auxílio-doença e sua posterior conversão em aposentadoria por invalidez. Precedentes.
+    - Matéria preliminar rejeitada. Apelação improvida” (fl. 183, e-STF).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Agravante alega contrariado o art. 5º, inc. XXXV, da Constituição da República.
+    Argumenta que “seu inconformismo reside no fato [de o Agravado], ao transformar o benefício de auxílio-doença em aposentadoria por invalidez, não ter seguido a regra contida no artigo 29, § 5º, da Lei nº 8.213/91, resultando diminuição substancial do valor da sua renda mensal inicial -RMI.
+    (…) Dessa forma, resta claro que a legislação previdenciária determina que seja feito um novo cálculo quando o auxílio-doença de um beneficiário é convertido em aposentadoria por invalidez.
+    (…) No caso, o INSS ignorou o tempo que o segurado recebeu o auxílio-doença, alegando que como o autor não trabalhou, não tem direito a que seja computado esse período em que recebeu o auxílio-doença” (fls. 189-225, e-STF).
+    3. O recurso extraordinário foi inadmitido ao fundamento de o julgado recorrido harmonizar-se com a jurisprudência do Supremo Tribunal Federal, fixada no julgamento do Recurso Extraordinário n. 583.834, com repercussão geral.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. O acórdão recorrido manteve sentença pela qual julgado improcedente pedido de “revisão da renda mensal inicial (…) da aposentadoria por invalidez, decorrente de auxílio-doença, mediante a aplicação dos critérios estabelecidos no artigo 29, § 5º, da Lei 8.213/91 [porque,] após o afastamento, a parte autora jamais retomou suas atividades profissionais (…). Nesse contexto, o salário-de-benefício da aposentadoria por invalidez deve equivaler a 100% (cem por cento) do salário do auxílo-doença imediatamente antecedente, em conformidade com o artigo 36, § 7º, do Decreto 3.048/99” (fl. 121, e-STF).
+    6. No julgamento com repercussão geral do Recurso Extraordinário n. 583.834, Relator o Ministro Ayres Britto, este Supremo Tribunal Federal decidiu:
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. REGIME GERAL DA PREVIDÊNCIA SOCIAL. CARÁTER CONTRIBUTIVO. APOSENTADORIA POR INVALIDEZ. AUXÍLIO-DOENÇA. COMPETÊNCIA REGULAMENTAR. LIMITES. 1. O caráter contributivo do regime geral da previdência social (caput do art. 201 da CF) a princípio impede a contagem de tempo ficto de contribuição. 2. O § 5º do art. 29 da Lei nº 8.213/1991 (Lei de Benefícios da Previdência Social – LBPS) é exceção razoável à regra proibitiva de tempo de contribuição ficto com apoio no inciso II do art. 55 da mesma Lei. E é aplicável somente às situações em que a aposentadoria por invalidez seja precedida do recebimento de auxílio-doença durante período de afastamento intercalado com atividade laborativa, em que há recolhimento da contribuição previdenciária. Entendimento, esse, que não foi modificado pela Lei nº 9.876/99. 3. O § 7º do art. 36 do Decreto nº 3.048/1999 não ultrapassou os limites da competência regulamentar porque apenas explicitou a adequada interpretação do inciso II e do § 5º do art. 29 em combinação com o inciso II do art. 55 e com os arts. 44 e 61, todos da Lei nº 8.213/1991. 4. A extensão de efeitos financeiros de lei nova a benefício previdenciário anterior à respectiva vigência ofende tanto o inciso XXXVI do art. 5º quanto o § 5º do art. 195 da Constituição Federal. Precedentes: REs 416.827 e 415.454, ambos da relatoria do Ministro Gilmar Mendes. 5. Recurso extraordinário com repercussão geral a que se dá provimento” (DJe 14.2.2012).
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal.
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 932, inc. VIII, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
