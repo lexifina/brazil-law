@@ -1,0 +1,29 @@
+Decisão: Trata-se de mandado de segurança, com pedido de liminar, em face de ato da Presidente da República, consistente no indeferimento de pedido de concessão de anistia, fundado na Lei 12.191/2010, a policial militar exonerado em razão de participação em movimento paredista realizado no ano de 2001.
+    Alega o impetrante, em suma, que, em respeito ao princípio da isonomia, faz jus à anistia prevista pela Lei 12.191/2010.
+    A liminar foi indeferida (eDOC 38). A autoridade coatora prestou informações (eDOC 43). A União requereu seu ingresso no feito (eDOC 47).
+    A Procuradoria-Geral da República manifestou-se no sentido da extinção do processo, sem resolução de mérito (eDOC 49). O parecer recebeu a seguinte ementa:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ANISTIA. LEI. OMISSÃO. CAUSA DE PEDIR FUNDADA NA INCONSTITUCIONALIDADE EM ABSTRATO DA NORMA. SÚMULA 266 STF. INADEQUAÇÃO DA VIA ELEITA. EXTINÇÃO SEM JULGAMENTO DE MÉRITO.
+    1 – Descabe a impugnação de lei em tese por meio de mandado de segurança, conforme o teor da Súmula 266 do STF, haja vista o incontestável juízo de inconstitucionalidade ínsito à impetração.
+    2 – Parecer pela extinção do processo sem resolução de mérito (art. 267, VI, do CPC)”.
+    É o breve relatório.
+    Decido.
+    A presente ação mandamental tem por objetivo o reconhecimento a policial militar do Estado do Paraná de pretenso direito líquido e certo à anistia instituída pela Lei 12.191/2010.
+    Razão, contudo, não lhe assiste.
+    Observo, de início, que a competência para a concessão de anistia, nos termos dos artigos 21, XVII, e 48, VIII, da CF de 1988, é privativa da União, incluindo-se no rol de atribuições do Congresso Nacional.
+    Sem afastar-se dessa premissa, a Lei 12.191/2010 expressamente concedeu anistia a policiais e bombeiros militares dos Estados do Rio Grande do Norte, Bahia, Roraima, Tocantins, Pernambuco, Mato Grosso, Ceará, Santa Catarina e Distrito Federal, punidos por participar de movimentos reivindicatórios durante o período do primeiro semestre de 1997 até 13.1.2010.
+    Percebe-se claramente não ter sido opção do legislador ordinário, ao menos em um primeiro momento, a concessão da referida anistia a policiais e bombeiros militares de outros entes da Federação, dentre eles o Estado do Paraná.
+    Por essa razão, a Presidência da República, com base em parecer da Advocacia-Geral da União (eDOC 10), indeferiu o pedido administrativo formulado pelo impetrante, por entender não preenchidos os requisitos legais necessários para a concessão da anistia pleiteada.
+    Não se verifica, dessa forma, a existência de patente ilegalidade ou abuso de poder no ato praticado pela Presidência da República, que, ao indeferir o pedido de anistia formulado pelo impetrante, limitou-se a aplicar a literalidade da Lei 12.191/2010.
+    Ademais, a concessão da ordem, nos termos em que requerida pelo impetrante, acabaria por ampliar, de forma ilegítima, as hipóteses de incidência da Lei 12.191/2010.
+    Ora, conforme jurisprudência da Corte, não cabe ao Poder Judiciário, que não detém função legislativa típica, atuar como legislador positivo, substituindo o legislador ordinário na definição dos critérios a serem observados na aplicação de lei ou ato normativo.
+    No sentido da impossibilidade de atuação do Poder Judiciário como legislador positivo, cito os seguintes precedentes desta Corte:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IRPJ E CSLL. PESSOA JURÍDICA PRESTADORA DE SERVIÇOS HOSPITALARES. NECESSIDADE DE ORGANIZAÇÃO SOB A FORMA DE SOCIEDADE EMPRESÁRIA PARA TER DIREITO ÀS BASES DE CÁLCULO DE 8% E 12% SOBRE A RECEITA BRUTA. ARTIGOS 15, § 1º, III, A; E 20, CAPUT, DA LEI Nº 9.249/1995. LEI Nº 11.727/2008. CONTRARIEDADE AO PRINCÍPIO DA ISONOMIA. IMPOSSIBILIDADE DO JUDICIÁRIO AGIR COMO LEGISLADOR POSITIVO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO DESPROVIDOS” (ARE 937323 AgR-ED, Rel. Min. LUIZ FUX, Primeira Turma, Dje de 17.6.2016. Destaquei);
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO. AFRONTA À SÚMULA VINCULANTE 4/STF NÃO CARACTERIZADA. VINCULAÇÃO AO SALÁRIO MÍNIMO. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO DETERMINAR OUTRO REFERENCIAL. Não compete ao Poder Judiciário estipular base de cálculo não fixada em lei ou norma coletiva, sob pena de atuar como legislador positivo. A inconstitucionalidade do fator de indexação não autorizaria a substituição da base de cálculo prevista no caput do art. 3º da Lei 432/85 por decisão judicial. Os critérios estabelecidos na lei devem continuar sendo aplicados, até que nova lei ou norma coletiva fixe base de cálculo diversa. Agravo regimental conhecido e não provido” (Rcl 7801 AgR, Rel. Min. ROSA WEBER, Primeira Turma, Dje de 14-04-2016);
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE POR OMISSÃO. REGULAMENTAÇÃO DE PROPAGANDA DE BEBIDAS DE TEOR ALCOÓLICO INFERIOR A TREZE GRAUS GAY LUSSAC (13° GL). AUSÊNCIA DE OMISSÃO. ATUAÇÃO DO PODER LEGISLATIVO. ART. 2º DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ATUAR O SUPREMO TRIBUNAL FEDERAL COMO LEGISLADOR POSITIVO, SUBSTITUINDO-SE AO PODER LEGISLATIVO NA DEFINIÇÃO DE CRITÉRIOS ADOTADOS NA APROVAÇÃO DAS NORMAS DE PROPAGANDA DE BEBIDAS ALCOÓLICAS: PRECEDENTES. AÇÃO JULGADA IMPROCEDENTE. DECISÃO COM EFEITOS VINCUANTES” (ADO 22, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 3.8.2015. Destaquei).
+    Nesses termos, não verificada qualquer ilegalidade ou abuso de poder, bem como não demonstrada a existência de direito líquido e certo violado, entendo ser inviável a presente ação mandamental.
+    Ante o exposto, nego seguimento ao mandado de segurança (art. 10 da Lei 12.016/2009 c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
