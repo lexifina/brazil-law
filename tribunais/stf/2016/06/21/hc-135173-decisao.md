@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Edmundo Rocha Gorini, Mauro Sponchiado e Paulo Saturnino Lorenzato, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao RHC nº 66.376/SP, Relator o Ministro Nefi Cordeiro.
+    Os impetrantes sustentam, em síntese, que
+    “[o]s pacientes foram denunciados, na qualidade de sócios da empresa SMAR EQUIPAMENTOS INDUSTRIAIS LTDA., pela suposta prática da conduta descrita no artigo 337–A, caput e inciso III, combinado com o artigo 71, por 24 vezes, todos do Código Penal. (doc. 1)
+    Recebida a peça acusatória, o MM. Magistrado de base determinou a apresentação da Resposta à Acusação nos moldes dos artigos 396 e 396-A do Código de Processo Penal, o que foi feito, tempestivamente, por todos os pacientes. (doc. 2)
+    Ato contínuo, antes mesmo de ratificar, ou não, o recebimento da exordial acusatória – como seria de praxe, o il. Julgadorabriu vista ao Ministério Público Federal para manifestação sobre a Certidão de Óbito do corréu LUIS OMAR REGULA. (doc. 3)” (grifos dos autores).
+    Afirmam que
+    “o d. Procurador da República não se ateve à análise estrita acerca do referido documento, pois, além de se manifestar em relação à certidão de óbito retro mencionada, ele foi além e, sponte propria, rechaçou de forma ferrenha todas as teses expostas pelos pacientes em suas peças defensivas. (doc. 4)” (grifos dos autores).
+    Nesse contexto, os impetrantes entendem afrontado o devido processo legal, na medida em que “não se prevê a fala do Ministério Público após a resposta à acusação.”
+    Na sua visão,
+    “[n]ão se pode perder de vista (…) que, no processo penal, repisa-se, o acusado sempre fala por último!
+    Bem assim, é inegável que o Ministério Público esgota, por meio da denúncia, sua manifestação descritiva. No máximo poderia, depois, apresentar um aditamento à exordial. À defesa, de outra banda, cabe responder à acusação, rebatendo os argumentos da denúncia. A partir daí, o órgão acusador só pode vir a falar novamente nos autos na oportunidade das alegações finais! Ou, no caso de a defesa juntar algum documento novo, como foi ocorreu no processo originário, posto que juntou-se, com a resposta à acusação, a certidão de óbito de um dos corréus. Por isso é que, neste caso, o órgão acusador deveria ter se manifestado somente em relação ao documento e não em relação ao mérito das defesas apresentadas.
+    Portanto, ao permitir-se que o parquet venha aos autos, após a resposta à acusação, para tecer argumentos complementares (agora não mais descritivos, mas argumentativos) rebatendo as teses de defesa, redunda na submissão do acusado à evidente posição de desvantagem, porque desequilibra totalmente a relação processual penal, levando ao claro desrespeito ao devido processo legal, a clara negativa de vigência ao artigo da Carta Magna.”
+    Concluem defendendo “a existência de nulidade absoluta na manifestação do órgão acusador, visto que, além da falta de previsão legal, opõe-se frontalmente à cláusula geral do devido processo legal.”
+    Requerem o deferimento da liminar para “sobrestar o andamento do Processo de 1º. Grau (Processo n. 0000806-52.2014.403.6102 da 4ª, Vara Federal da Subseção de Ribeirão Preto/SP) (...)” (grifos dos autores).
+    No mérito, pedem a concessão da ordem para “determinar a anulação do feito desde a manifestação impertinente apresentada pelo Ministério Público após a resposta à acusação (...)” (grifos dos autores).
+    Examinados os autos, decido.
+    Transcrevo o teor do julgado questionado:
+    “PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL APÓS A APRESENTAÇÃO DE RESPOSTA À ACUSAÇÃO. CERCEAMENTO DE DEFESA. NÃO VERIFICADO. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. RECURSO IMPROVIDO.
+    1 - A manifestação acusatória após a defesa inicial, embora não prevista em lei, vem justamente a atender ao princípio do contraditório, como oportunidade de ambas as partes se manifestarem sobre teses e fatos do processo, sob pena de vir o magistrado a diretamente acolher preliminares arguidas na defesa preliminar sem jamais a respeito ter-se manifestado a parte contrária.
+    2 - Recurso ordinário improvido.” (anexo 10).
+    A decisão proferida pela Sexta Turma do Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia. Pelo contrário, encontra-se suficientemente motivada, restando justificado o convencimento formado, além de estar em perfeita consonância com a jurisprudência da Corte, preconizada no sentido de que, “[a]presentada defesa prévia em que são articuladas, até mesmo, preliminares, é cabível a audição do Estado-acusador, para haver definição quanto à sequência, ou não, da ação penal” (HC nº 105.739/RJ, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 28/2/12).
+    No mesmo sentido:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. CONSTITUCIONAL. PROCESSUAL PENAL. MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO APÓS A APRESENTAÇÃO DA DEFESA PRÉVIA. AUSÊNCIA DE NULIDADE. PRECEDENTES. 1. A manifestação do Ministério Público, após a apresentação da defesa prévia pelo réu, não é causa de nulidade dos atos processuais já praticados. Precedentes. 2. Recurso ao qual se nega provimento” (RHC nº 120.384/SP, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/6/14);
+    “Agravo regimental em habeas corpus substitutivo de recurso ordinário. Inexistência de contrariedade à jurisprudência do tribunal e de risco iminente de cerceio indevido à liberdade de locomoção. 1. A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus em substituição ao recurso ordinário, previsto no art. 102, II, ‘a’, da Constituição Federal. 2. Eventual manifestação do Ministério Público após a apresentação da defesa prévia não invalida os atos processuais já praticados. Precedente. 3. Inexistindo risco iminente de cerceio indevido à liberdade de locomoção e contrariedade à orientação jurisprudencial do Tribunal, não é o caso de concessão da ordem de ofício. 4. Agravo regimental a que se nega provimento” (HC nº 120.045/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 26/3/14).
+    De minha relatoria, mutatis mutandis, destaco o RHC nº 104.261/ES, Tribunal Pleno, DJe de 7/8/12 e, ainda, o HC nº 120.121/RS, decisão monocrática, Relatora a Ministra Rosa Weber, DJe de 3/2/14.
+    Agasalhando esse entendimento, cito, por fim, o recentíssimo Inq nº 3.997/DF, Segunda Turma, Relator o Ministro Teori Zavascki, julgado em 21/6/16.
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 21 de junho de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
