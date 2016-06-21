@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário interposto pelo Instituto Chico Mendes de Conservação da Biodiversidade contra acórdão do E. Tribunal Regional Federal da 4ª Região que está assim ementado:
+    “ADMINISTRATIVO. ÁREA DE PRESERVAÇÃO PERMANENTE. DANO. RESPONSABILIDADE. RECUPERAÇÃO AMBIENTAL. PRAD. INDENIZAÇÃO. VERBA HONORÁRIA.
+    1. Mantém-se sentença que determinou a recuperação da área degradada, segundo PRAD a ser elaborado em trinta dias, a ser submetido ao ICMBio.
+    2. Ainda que o princípio da reparação total se aplique ao dano ambiental, de tal maneira que a obrigação de recuperar o meio ambiente degradado seja compatível com a indenização pecuniária por eventuais prejuízos, até sua restauração plena, há de se estabelecer que, se houver restauração imediata e completa do bem lesado, em regra, não se fala em indenização.
+    3. Acolhe-se em parte o apelo, para fixar-se a verba sucumbencial, porquanto o ora apelado decaiu de parte considerável do pedido.”
+    A parte recorrente, ao deduzir este apelo extremo, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 225, § 3º, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal Regional Federal da 4ª Região, ao manter, em sede de apelação cível, a sentença por seus próprios fundamentos, sustentou as suas conclusões em aspectos fático-probatórios a seguir destacados:
+    “Para fins de fixação do valor da indenização pecuniária, devem ser levadas em consideração a gravidade do fato, os antecedentes do infrator e sua situação econômica (Lei n. 9.605/98, art. 6º).
+    No caso concreto, a área degradada, apesar de situada em área de proteção integral, não atinge grandes dimensões, circunscrita a 6,98ha (seis hectares e noventa e oito centiares). A condição financeira do réu pode ser considerada precária, de vez que sua aposentadoria foi concedida no valor de um salário mínimo mensal (E34, DECL2, p. 2).
+    Postas essas considerações, tendo em conta que o réu já deu início à recuperação da área degradada e que, na esfera administrativa, foi-lhe cominada pena pecuniária no valor de R$ 42.000,00 (quarenta e dois mil reais), reputo indevida a imposição de pagar indenização na esfera judicial, em face da aplicação, ao caso concreto, do princípio da proporcionalidade.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, não conheço do presente recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, II).
+    Publique-se.
+    Brasília, 21 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
