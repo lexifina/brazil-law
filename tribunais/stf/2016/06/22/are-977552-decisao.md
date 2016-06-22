@@ -1,0 +1,17 @@
+Decisão: Trata-se agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da Turma Recursal da Fazenda do Colégio Recursal de Araçatuba, assim ementado (fls. 223-v):
+    “Ação de Obrigação de Fazer. Concurso público para ingresso na Polícia Militar do Estado. Recorrida considerada inapta durante o teste de aptidão física, por não possuir a altura necessária. Descabimento. A exigência de altura em concurso público, para ser válida deve estar prevista em lei, o que não ocorre no caso ora em análise, vez que inexistente lei estadual prevendo a necessidade de altura mínima de 1,60m. Precedentes do STF. Afora isso, ainda que existisse, a lei seria inconstitucional, por ferir o princípio da razoabilidade. Sentença mantida. Improvimento do recurso da Fazenda Estadual.
+    Antecipação dos efeitos da tutela já analisada em agravo de instrumento interposto pela FESP, o qual foi desprovido.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 5º, caput, e 37, caput, da Constituição Federal.
+    Sustenta-se, inicialmente, que a matéria em debate possui repercussão geral, porquanto semelhante à tratada no RE-RG 632853. Alega-se que o Poder Judiciário não pode avaliar os critérios de admissibilidade do certame, sob pena de invasão ao mérito administrativo, sob pena de ofensa ao princípio da separação dos poderes. Ademais, sustenta-se que o edital do certame, que estabelece o requisito referente à altura mínima para ingresso na Polícia Militar, está em conformidade com a Lei Complementar Estadual 697/1992, regulamentada pelo Decreto 41.113/1996, alterado pelo Decreto 42.053/1997.
+    A Turma Recursal de origem inadmitiu o recurso com base na deficiência da fundamentação referente à preliminar de repercussão geral.
+    É o relatório. Decido.
+    A Turma Recursal de origem manteve a sentença que considerou ilegítima a limitação de altura exigida no concurso para ingresso na Polícia Militar, em virtude da inexistência de lei estadual estabelecendo esse requisito.
+    Verifica-se que eventual divergência em relação ao entendimento adotado pela Turma Recursal a quo, quanto à inexistência de previsão legal referente à altura mínima exigida, demandaria o reexame de fatos e provas e da legislação pertinente (Lei Complementar Estadual 697/1992, regulamentada pelo Decreto 41.113/1996, alterado pelo Decreto 42.053/1997), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    Ademais, não mereceria prosperar o presente recurso, porquanto é firme a orientação do STF no sentido de que a exigência de altura mínima para ingresso na carreira da polícia militar é válida somente quando prevista em lei em sentido formal e material e no edital do certame. Nesse sentido, confiram-se os seguintes precedentes: ARE 906.295-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 15.12.2015; ARE 715.061-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 18.06.2013, e RE 668.499-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 22.03.2016).
+    Por fim, registre-se que a matéria em exame é diversa daquela versada no paradigma mencionado nas razões do recurso extraordinário.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 22 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
