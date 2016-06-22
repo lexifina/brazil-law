@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da 8ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 125):
+    “Servidora pública - Adicional por tempo de serviço (Quinquênio) - Base de cálculo -Situação específica dos servidores públicos do Estado de São Paulo - Inteligência das normas constitucionais e infraconstitucionais (CE, art. 129 e Estatuto dos Funcionários Públicos) - Vencimentos integrais que dizem respeito não só à sexta-parte, senão também aos adicionais por tempo de serviço - Incidência sobre o padrão e demais vantagens adicionais efetivamente recebidas, salvo as eventuais - "Gratificação extra", "Gratificação LC 904" e "Abono LC 925/02": vantagens com nítido caráter de aumento disfarçado, que devem ser computadas no cálculo dos quinquênios - Adicional de insalubridade e substituição eventual administrativa: verbas eventuais ou decorrentes de trabalho em condições especiais, que não integram os vencimentos e não devem compor o cálculo do adicional em questão - "Art. 133 CE - dif. vencimentos": vantagem que não configura aumento disfarçado e, portanto, não deve ser incluído no recálculo pleiteado - Reexame necessário acolhido, apelo do réu parcialmente provido e da autora provido.”
+    No recurso extraordinário (eDOC 1, p. 148-157), com fundamento no art. 102, III, “a” e “c”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXVI, do Texto Constitucional.
+    Sustenta-se a possibilidade de incidência do quinquênio sobre o adicional de insalubridade e a sexta parte.
+    Alega-se, ainda, a inadequação do valor fixado para o pagamento dos honorários advocatícios.
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário com base na jurisprudência do STF (eDOC 2, p. 5-6).
+    É o relatório. Decido.
+    Quanto à base de cálculo do quinquênio, verifica-se que o Supremo Tribunal Federal, ao analisar a Repercussão Geral no RE 764.332, de relatoria do Ministro Joaquim Barbosa, DJe de 21.03.2014 (Tema 702), reconheceu a inexistência de repercussão geral da controvérsia acerca da base de cálculo do adicional por tempo de serviço (quinquênio) de servidores públicos. Na oportunidade, a ementa restou assim redigida:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. QUINQUÊNIO. INCIDÊNCIA SOBRE OS VENCIMENTOS INTEGRAIS, INCLUINDO OS ADICIONAIS E AS GRATIFICAÇÕES REPUTADOS COMO DE NATUREZA PERMANENTE. INTERPRETAÇÃO DE LEGISLAÇÃO ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. ATRIBUIÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.”
+    No que tange aos honorários advocatícios, constata-se a índole infraconstitucional da controvérsia, conforme a jurisprudência desta Corte. Confiram-se, a propósito, os seguintes precedentes: ARE 944.490, Rel. Min Gilmar Mendes, Segunda Turma, DJe 12.04.2016 e RE 656.125 ED, Rel. Min. Luiz Fux, Primeira Turma, DJe 28.09.2015.
+    Ressalta-se, por fim, que o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal, o que inviabiliza o recurso extraordinário pela alínea “c”, do inciso III, do art. 102 da Constituição.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 22 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
