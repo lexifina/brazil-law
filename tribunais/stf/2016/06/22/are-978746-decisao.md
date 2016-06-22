@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “RACISMO. PUBLICAÇÃO DE CONTEÚDO DISCRIMINATÓRIO EM JORNAL CONDENAÇÃO. INSURGÊNCIA DO RÉU.
+    Somente há conflito de competência entre órgãos fracionados do Tribunal quando é formalizado o incidente. Eventual equívoco na declinação da competência recursal, com a devolução dos autos ao relator originário, sem qualquer discordância, evidencia ausência de divergência, legitimando-se, assim, a Câmara a que foi por primeiro distribuído o feito, inclusive, no caso, pela regra regimental da residualidade.
+    O fato de a ação penal ter sido ajuizada perante a Justiça Federal não torna nula ou imprestável a denúncia, e muito menos revela ilegitimidade ativa. E isso porque o Ministério Público é uno, apenas com atribuições distintas, sendo que no Juízo Estadual foi ela ratificada, com audição do réu a respeito, bem assim para eventual complementação de provas. Nada foi alegado nessa oportunidade, ou nas alegações finais ou mesmo nas razões de recurso, apenas por ocasião do julgamento, o que evidencia a fragilidade jurídica do argumento.
+    A publicação em jornal de texto discriminatório em relação a cor da pele não configura crime de injúria e sim de preconceito racial previsto no art. 20, § da Lei 7.716 de 05/01/1989, com a redação dada pela Lei 9.459 de 15/05/1997, sendo que eventual retratação não tem o condão afastar a responsabilização penal do agente.
+    Recurso não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIV e LV, da Constituição. Sustenta que: (i) “o Ministério Publico do Estado do Paraná, parte legítima para oferecimento da exordial acusatória, não subscreveu a peça inicial, deflagradora da relação jurídico-processual”; (ii) “uma nova denúncia, da lavra da parte legítima, deveria ter sido subscrita por quem de direito”. Aduz que “tendo sido o feito remetido à Justiça Estadual, o MM. Juízo de 1º Grau não oportunizou às partes a produção de novas provas”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    A jurisprudência do Supremo Tribunal Federal é no sentido de que “a pretensão de um órgão do ministério público não vincula os demais, garantindo-se a legitimidade para recorrer, em face do princípio da independência funcional” (ARE 725.491 AgR, Rel. Min. Luiz Fux).
+    Por fim, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
