@@ -1,0 +1,23 @@
+DECISÃO
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONSTITUIÇÃO DE PERNAMBUCO. LEI ORGÂNICA MUNICIPAL COMO PARÂMETRO DE CONTROLE DE CONSTITUCIONALIDADE. NECESSIDADE DE COMUNICAÇÃO DE DECLARAÇÃO DE INCONSTITUCIONALIDADE À CÂMARA MUNICIPAL. MEDIDA CAUTELAR. ART. 12 DA LEI N. 9.868/1999. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Ação direta de inconstitucionalidade, com requerimento de medida cautelar, ajuizada em 20.6.2016, pela Procuradoria-Geral da República, objetivando a declaração de inconstitucionalidade dos arts. 61, inc. I, al. l, e 63, § 3º, da Constituição de Pernambuco.
+    2. Nas normas questionadas se estabelece:
+    Art. 61. Compete ao Tribunal de Justiça:
+    I – processar e julgar originariamente: (…)
+    l) a ação direta de inconstitucionalidade de lei ou ato normativo estadual ou municipal, em face desta Constituição, ou de lei ou ato normativo municipal em face da Lei Orgânica respectiva ; [...].
+    Art. 63. Podem propor a ação direta de inconstitucionalidade: (...)
+    § 3º Declarada a inconstitucionalidade, a decisão será comunicada à Assembleia Legislativa para promover a suspensão da eficácia da lei, em parte ou no seu todo, quando se tratar de afronta à Constituição Estadual, ou à Câmara Municipal quando a afronta for à Lei Orgânica respectiva”.
+    3. O Autor argumenta que as normas impugnadas contrariam os arts. 52, inc. X, e 125, § 2º, da Constituição da República.
+    Alega que “o sistema de controle concentrado de constitucionalidade pátrio, nas esferas federal e estadual, não admite adoção de lei orgânica municipal como parâmetro para exame de compatibilidade de normas. No ordenamento jurídico brasileiro, reconhece-se o controle concentrado de atos normativos municipais em face (a) de constituição estadual perante tribunal de justiça, por meio de representação de inconstitucionalidade, e (b) da Constituição da República perante o Supremo Tribunal Federal, por meio de arguição de descumprimento de preceito fundamental, caso preenchidos os requisitos legais”.
+    Assevera que “o objetivo do controle concentrado de constitucionalidade estadual consiste na necessidade de assegurar a supremacia da constituição estadual, a fim de que os atos normativos locais observem os preceitos daquele documento político. Lei orgânica municipal não possui status de norma constitucional, razão pela qual é inadmissível sua utilização como parâmetro de controle de constitucionalidade de normas municipais”.
+    Afirma que “Não há razão para tratar de maneira diversa o controle concentrado de constitucionalidade de leis estaduais e municipais exercido por tribunais de justiça. É descabida submissão à assembleia legislativa de decisão declaratória de inconstitucionalidade de lei por tribunal de justiça em controle abstrato. (…) Orientação diversa implicaria esvaziamento da jurisdição constitucional concentrada, na desconsideração dos atributos das decisões produzidas nesse contexto e na submissão de seu conteúdo a redundante controle político por órgão frequentemente responsável pela edição do ato questionado. Sujeitar deliberação de tribunal em controle abstrato de constitucionalidade a apreciação do Legislativo impõe condição de eficácia às decisões judiciais, subverte a competência conferida pelo art. 125, § 2o, da Constituição da República aos tribunais de justiça e, por conseguinte, viola o sistema de freios e contrapesos”.
+    Para evidenciar o cumprimento dos requisitos exigidos para o deferimento da medida cautelar, o Autor aponta precedentes deste Supremo Tribunal Federal e destaca que o “perigo na demora processual (periculum in mora) decorre do fato de que, enquanto não suspensa a eficácia, o modelo de controle abstrato de constitucionalidade do Estado de Pernambuco continuará sendo aplicado de maneira subvertida, com graves prejuízos à função jurisdicional e ao princípio da supremacia da Constituição”.
+    Requer, cautelarmente, a suspensão dos arts. 61, inc. I, al. l, e 63, § 3º, da Constituição de Pernambuco.
+    No mérito, pede a declaração de inconstitucionalidade dos arts. 61, inc. I, al. l, e 63, § 3º, da Constituição de Pernambuco.
+    4. Adoto o rito do art. 12 da Lei n. 9.868/1999 e determino sejam requisitadas, com urgência e prioridade, informações ao Governador de Pernambuco e ao Presidente da Assembleia Legislativa de Pernambuco a serem prestadas no prazo máximo e improrrogável de dez dias.
+    Na sequência, vista ao Advogado-Geral da União e ao Procurador-Geral da República, sucessivamente, para manifestação, na forma da legislação vigente, no prazo máximo e prioritário de cinco dias cada qual (art. 12 da Lei n. 9.868/1999).
+    Publique-se.
+    Brasília, 22 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
