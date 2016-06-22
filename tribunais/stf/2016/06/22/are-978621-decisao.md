@@ -1,0 +1,13 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “MANDADO DE SEGURANÇA. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. VANTAGENS PESSOAIS. EC 41/03. TETO REMUNERATÓRIO. SUPOSTA OFENSA A DIREITO ADQUIRIDO. AUMENTOS POSTERIORES. IMPUGNAÇÃO AO DESCONTO. NÃO DEMONSTRAÇÃO DE PLANO DE OFENSA A DIREITO LÍQUIDO E CERTO. INCERTEZA. INVIABILIDADE DA DILAÇÃO PROBATÓRIA. SEGURANÇA DENEGADA. SENTENÇA CONFIRMADA.
+    O mandado de segurança, tido como remédio de natureza constitucional, visa proteger direito líquido e certo violado ou na iminência de ser violado por ação ou omissão ilegal ou abusiva advinda de autoridade, seja de que categoria for ou sejam quais forem as funções que exerça, exigindo-se da parte impetrante prova pré-constituída, ou seja, produzida de plano, como condição essencial à verificação da existência do alegado direito líquido e certo, independentemente de dilação probatória.
+    De tal modo, é de se denegar a segurança quando o alegado direito líquido e certo se apresenta duvidoso e frente à inequívoca litigiosidade da questão debatida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. Os recorrentes alegam violação aos arts. 5º, XXXVI; 37, XI e XV; 60, § 4º, IV; 8º e 9º da EC n° 41/03 e 17 do ADCT. Sustentam, em síntese, que a inclusão de benefícios devidos e incorporados ao patrimônio funcional do servidor, antes da EC 41/2003, nos cálculos do “abate-teto” implica verdadeiro confisco e redução dos vencimentos dos recorrentes.
+    A decisão agravada negou seguimento ao recurso por entender que para a reforma do acórdão recorrido seria necessário o reexame dos fatos e provas dos autos, o que não se permite nesta fase processual.
+    A decisão agravada está correta. O Tribunal de origem assentou que as verbas conquistadas por servidor antes da EC 41/2003 não devem ser consideradas em abatimento para fins de teto remuneratório. Contudo, reconheceu que os documentos trazidos pelos impetrantes não demonstraram o alegado direito líquido e certo, razão pela qual considerou o desconto legal. Com efeito, para dissentir do entendimento firmado pelo Tribunal de origem, seria imprescindível uma nova análise dos fatos e provas constantes dos autos, procedimento vedado neste momento processual nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+Brasília, 22 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
