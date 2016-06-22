@@ -1,0 +1,24 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Apelação. Ação anulatória de lançamentos fiscais. Imposto predial e territorial urbano. Taxa de remoção de lixo domiciliar. Exercício de 1996. Prescrição. Ajuizamento da demanda em janeiro de 2006. Decurso de mais de lustro desde a constituição definitiva dos créditos. Inteligência do artigo 1º do Decreto 20.910/32. Aplicação do artigo 219, § 5º, do Código de Processo Civil. Recurso denegado.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 156, I, § 1º, da Constituição Federal.
+    O exame da presente causa evidencia que o recurso extraordinário não se revela viável.
+    É que, ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368 – RTJ 131/1391 – RTJ 144/300 – RTJ 153/989), incide a Súmula 282 desta Corte (RTJ 159/977).
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    A configuração jurídica do prequestionamento – que traduz elemento indispensável ao conhecimento do recurso extraordinário – decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 – RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+    De qualquer maneira, no entanto, e mesmo que se pudesse superar tal óbice, ainda assim não se revelaria acolhível o apelo extremo a que se refere o presente agravo.
+    Com efeito, cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal (Decreto nº 20.910/32). Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cabe registrar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, para negar provimento à apelação da parte ora recorrente, apoiou-se em dispositivos de ordem meramente legal e em aspectos fáticos-probatórios, a seguir destacados:
+    “O prazo de ajuizamento de ação anulatória de lançamento fiscal é de cinco anos, nos termos do artigo 1º do Decreto nº 20.910/32:
+    …...................................................................................................
+    A certidão de folhas 48 revela que os lançamentos impugnados ocorreram antes de 5 de fevereiro de 1996 (data do vencimento da primeira parcela em que fracionado o pagamento dos tributos).
+    Assim, proposta a demanda em 25 de janeiro de 2006, imperioso o reconhecimento de prescrição, pois então já decorrera mais de lustro desde a constituição dos créditos.
+    Posto isso, com arrimo nos artigos 219, § 5º, e 269, IV, do Código de Processo Civil, reconhece-se prescrição, nega-se provimento ao apelo e extingue-se o feito. Mantém-se, quanto ao mais, a sentença.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 911.810/SP, Rel. Min. ROSA WEBER – ARE 934.828/SP, Rel. Min. DIAS TOFFOLI, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 22 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
