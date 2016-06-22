@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho que negou provimento ao recurso de agravo de instrumento, nos seguintes termos:
+    AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. CERCEAMENTO DO DIREITO DE DEFESA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ADICIONAL DE PERICULOSIDADE. ASTREINTES. HONORÁRIOS PERICIAIS. O agravo de instrumento não logrou êxito em rechaçar os fundamentos do despacho denegatório do processamento do recurso de revista, razão por que não merece ser provido.
+    Agravo de instrumento desprovido
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos artigos 5º, II, XXXV, LIV e LV e 93, IX, da Constituição da República, por violação dos princípios da legalidade, do devido processe legal e seus consectários, bem como do dever de fundamentação das decisões judiciais.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Quando da análise do AI-RG 818.688, de relatoria do Ministro Gilmar Mendes, Dje de 03.05.2011 (Tema 356), o Plenário deste Tribunal decidiu pela inexistência de repercussão geral da questão referente ao cabimento de adicional de periculosidade, por exigir a análise de legislação infraconstitucional que comumente demanda a análise de provas, o que configura violação reflexa à Constituição Federal.
+    Ademais, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, Dje de 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Por fim, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, Dje de 1º.08.2013 (Tema 660), esta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal e da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 22 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
