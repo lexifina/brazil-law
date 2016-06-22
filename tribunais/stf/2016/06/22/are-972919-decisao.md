@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão, assim ementado:
+    “Embargos à execução. Rediscussão da matéria referente ao mérito da demanda, já transitada em julgado. Impossibilidade. Sentença mantida por seus próprios fundamentos. Recurso não provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, LIV e LV, e 37 da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso extraordinário sob os fundamentos de que: (i) “não basta que seja uma questão relevante, o que de fato ocorre intrinsecamente em todo processo, mas que esta questão tenha repercussão tamanha que ultrapasse os limites da “lide” a ponto de atingir aqueles que não a integram ou que nada tenha a ver com a questão debatida nos autos”; (ii) “o cerne do recurso está no descumprimento de norma infraconstitucional, cuja interpretação se deu em conformidade com a jurisprudência dos Tribunais Superiores; desta forma a alegação de ofensa à Constituição Federal é indireta por má interpretação do texto da norma infraconstitucional”; e (iii) “registre-se que a questão constitucional deve ser efetivamente demonstrada, e com o devido prequestionamento. O recurso extraordinário não serve de reexame de questões de fato (súmula nº 356 e 282, do STF)”.
+    O recurso extraordinário é inadmissível. De início, para dissentir da conclusão do Colegiado de origem, quanto ao valor da multa aplicada, considerado excessivo, seria necessária a reapreciação dos fatos e do material probatório constantes dos autos (Súmula 279/STF), bem como a análise da legislação infraconstitucional pertinente. Vejam-se, nessa linha: ARE 682.770-AgR, Rel.ª Min.ª Rosa Weber; ARE 750.060-AgR, Rel. Min. Teori Zavascki; e ARE 756.470, julgado sob a relatoria da Ministra Cármen Lúcia, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER. ASTREINTES. VALOR CONSIDERADO EXCESSIVO. FUNDAMENTO INFRACONSTITUCIONAL. REEXAME DE PROVAS. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+     Brasília, 22 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
