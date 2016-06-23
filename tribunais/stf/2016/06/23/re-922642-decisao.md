@@ -1,0 +1,33 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão da Tribunal Regional Federal da 5ª Região, assim ementado (eDOC2, p. 106):
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. ANALISTA DE INFORMAÇÕES. EQUIPARAÇÃO DE PROVENTOS COM OFICIAL DE INTELIGÊNCIA DA ABIN.
+    - Prescrição do fundo do direito que se rejeita, aplicando-se a das parcelas mensais. O autor não está questionando o ato de aposentação, mas sim o pagamento dos proventos mensais em valores que entende incorretos. Destarte, trata-se de prescrição de trato sucessivo, a qual alcançou os pagamentos anteriores a 29/04/04.
+    - O autor faz jus à equiparação com os analistas de informação/oficiais de inteligência da ABIN. Consoante bem delineado na sentença, o requerente ingressou no serviço público integrando o SISNI, o qual fazia parte do SNI, nos termos dos Decretos 75.639/75 e 75.640/75. Com a extinção do SNI pela Lei nº 8.028/90, os servidores foram relotados na SAE, a qual foi sucedida pela ABIN.
+    - Bem se vê, portanto, que - apesar de aposentado antes da ocorrência de todas as mudanças - o parâmetro remuneratório do autor deve ser exatamente a carreira que compunha. O fato de a aposentadoria estar vinculada atualmente ao Ministério do Trabalho não afasta a aplicação da legislação posterior que regulamentou o cargo anteriormente ocupado.
+    - Mutatis mutandis, aplica-se o entendimento consolidado pelo STJ referente aos aposentados pelo DNER após a extinção do órgão, quando se determinou a utilização do plano de cargos e salários do DNIT mesmo para os vinculados ao Ministério dos Transportes (Recurso Repetitivo no REsp 1244632/CE, Rel. Min. Castro Meira, Primeira Seção, maioria, DJe de 13/09/2011.)
+    - As súmulas 38 e 339 do STF, por sua vez, não são aplicáveis ao caso. Não se está fazendo reclassificação ou aumento de vencimentos por isonomia, mas sim esclarecendo qual a situação jurídica do autor dentro da administração pública.
+    - Uma vez que se reconheceu o seu enquadramento na carreira da ABIN, aplicam-se tanto a Lei 11.776/08, quanto a Lei 10.862/04, pois se trata de plano de carreira anterior.
+    - Correção monetária de acordo com o Manual de Cálculos do CJF. Os juros de mora devem ser fixados em 0,5% ao mês desde a citação. A partir da edição da Lei nº 11.960/09, aplicam-se os seus ditames.
+    - Diante dos termos do art. 20, parágrafo 4º, do CPC, honorários advocatícios a serem pagos pela União arbitrados em R$ 5.000,00.
+    - A tutela antecipada foi corretamente concedida, pois presentes os requisitos legais. A verossimilhança das alegações encontra-se na sentença e acórdão favoráveis, enquanto o perigo de dano decorre do caráter alimentar do pleito. Ressalte-se que o STF tem entendido que as limitações da ADC nº 4 não se aplicam a questões previdenciárias.
+    - Apelação da União e remessa oficial parcialmente providas. Apelação do autor provida.”
+    Os embargos de declaração foram desprovidos (eDOC2, p. 134).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 61, § 1º, II, a, da Constituição Federal. Sustenta-se, em suma, a impossibilidade de o Poder Judiciário aumentar vencimentos os servidores públicos sob o fundamento do princípio da isonomia. Aduz com a violação aos princípios da razoabilidade e segurança jurídica.
+    Em 21 de junho, a parte recorrente protocolou petição solicitando prioridade na apreciação da matéria, com fundamento no artigo 1.048, I, NCPC, bem como por se portador de doença grave. Em seguida apresentou memorias.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, constata-se que as questões constitucionais invocadas no recurso extraordinário não foram objeto de debate no acórdão recorrido. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 do STF).
+    Ademais, o acórdão recorrido concluiu (eDOC 2, p. 104):
+    “Consoante bem delineado na sentença, o requerente ingressou no serviço público integrando o SISNI, o qual fazia parte do SNI, nos termos dos Decretos 75.639/75 e 75.640/75. Com a extinção no SNI pela Lei nº 8.028/90, os servidores foram relotados na SAE a qual foi sucedida pela ABIN.
+    (…)
+    Mutatis mutandis, aplica-se o entendimento consolidado pelo STJ referente aos aposentados pelo DNER após a extinção do órgão, quando se determinou a utilização do plano de cargos e salários do DNIT mesmo para os vinculados ao Ministério dos Transportes.
+    (…)
+    No que se refere ao recurso do autor, merece acolhida. Uma vez que se reconheceu o seu enquadramento na carreira da ABIN, aplicam-se tanto a Lei 11.776/08, quanto a Lei 10.862/07, pois se trata de plano de carreira anterior.”
+    Assim, resta claro que uma eventual modificação desse entendimento implicaria, necessariamente, no reexame das provas dos autos e da legislação infraconstitucional aplicável ao caso (Leis 10.862/2007 e 11.776/2008). Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    A esse respeito, confira-se o seguinte precedente:
+    CONSTITUCIONAL. ADMINISTRATIVO. EXTENSÃO, A SERVIDORES APOSENTADOS, DE VANTAGENS CONCEDIDAS A SERVIDORES ATIVOS. REESTRUTURAÇÃO DE CARREIRA. ARTIGO 40, § 8º, DA CONSTITUIÇÃO (REDAÇÃO ANTERIOR À EC 41/03). INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PECULIARIDADES DA REESTRUTURAÇÃO DA CARREIRA DECORRENTE DA LEI 13.666/02 DO ESTADO DO PARANÁ. RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO. 1. Segundo a jurisprudência firmada em ambas as Turmas do STF, não há direito adquirido a regime jurídico. Assim, desde que mantida a irredutibilidade, não tem o servidor inativo, embora aposentado na última classe da carreira anterior, o direito de perceber proventos correspondentes aos da última classe da nova carreira, reestruturada por lei superveniente. Precedentes. 2. Todavia, relativamente à reestruturação da carreira disciplinada pela Lei 13.666/02, do Estado do Paraná, assegura-se aos servidores inativos, com base no artigo 40, § 8º, da Constituição Federal (redação anterior à da EC 41/03), o direito de ter seus proventos ajustados, em condições semelhantes aos servidores da ativa, com base nos requisitos objetivos decorrentes do tempo de serviço e da titulação, aferíveis até a data da inativação. 3. Recurso extraordinário a que se dá parcial provimento.” (RE 606.199, Rel. Min. Teori Zavascki, Plenário, DJe 07.02.2014)
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 23 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
