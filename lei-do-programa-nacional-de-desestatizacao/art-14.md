@@ -1,5 +1,2 @@
-Art. 14. Fica o Presidente da República, por recomendação do Conselho Nacional de Desestatização, autorizado a definir os meios de pagamento aceitos para aquisição de bens e direitos no âmbito do Programa Nacional de Desestatização, atendidos os seguintes princípios:
-I - admissão de moeda corrente;
-II - admissão, como meio de pagamento no âmbito do Programa Nacional de Desestatização, das Obrigações do Fundo Nacional de Desenvolvimento - OFND, das Letras Hipotecárias da Caixa Econômica Federal - LH-CEF, bem como dos títulos e créditos já renegociados e que, no momento da renegociação, eram passíveis dessa utilização;
-III - admissão, como meio de pagamento no âmbito do Programa Nacional de Desestatização, de títulos e créditos líquidos e certos diretamente contra a União, ou contra entidades por ela controladas, inclusive aquelas em processo de liquidação, desde que gozem de garantia ou coobrigação do Tesouro Nacional, e que venham a ser renegociados pela Secretaria do Tesouro Nacional.
-Parágrafo único. O Presidente da República, por recomendação do Conselho Nacional de Desestatização, poderá incluir novos meios de pagamento e modalidades operacionais no Programa Nacional de Desestatização.
+Art. 14. Os pagamentos para aquisição de bens e direitos no âmbito do Programa Nacional de Desestatização serão realizados por meio de moeda corrente.
+Parágrafo único. O Presidente da República, por recomendação do Conselho Nacional de Desestatização, poderá autorizar outros meios de pagamento, no âmbito do Programa Nacional de Desestatização.
