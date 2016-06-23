@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Edson Aparecido Cardoso Alves, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 357.854/SP, Relator o Ministro Reynaldo Soares da Fonseca.
+    O impetrante sustenta, inicialmente, que o caso concreto autorizaria a mitigação do enunciado da Súmula nº 691/STF.
+    Assevera, para tanto, a presença de constrangimento ilegal, pois a custódia preventiva do paciente seria desprovida de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos do art. 312 do Código de Processo Penal.
+    Requer, liminarmente, a concessão da ordem para que seja revogada a custódia preventiva do paciente.
+    Examinados os autos, decido.
+    No caso, o Ministro Reynaldo Soares da Fonseca indeferiu liminarmente aquele habeas corpus, uma vez que questionava decisão indeferitória de liminar no Tribunal de Justiça de São Paulo, verbis:
+    “Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDSON APARECIDO CARDOSO ALVES contra decisão liminar de Desembargador do Tribunal de Justiça do Estado de São Paulo (HC n. 2094301-46.2016.8.26.0000).
+    Consta dos autos que o paciente foi preso temporariamente no dia 9/4/2016, denunciado e preso preventivamente, em razão da prática, em tese, do delito disposto no art. 33 e art. 35 da Lei 11.343/2006.
+    Inconformada, a defesa impetrou habeas corpus, com pedido liminar, perante a Corte estadual, alegando inexistência de motivação concreta no decreto de prisão cautelar, pugnando, ao final, pela expedição de alvará de soltura em favor do paciente ou pela aplicação de medidas preventivas diversas do cárcere. O Desembargador Relator, contudo, indeferiu o pleito urgente (e-STJ fls. 8/9).
+    Na presente impetração, a defesa reafirma não haver fundamentação concreta para a decretação da prisão do paciente, porque ‘além de não apontar sequer um único elemento concreto do caso para justificar a NECESSIDADE da medida, está fundamentada na gravidade abstrata do delito’ (e-STJ fl. 3).
+    Diante disso, pede, liminarmente e no mérito, a revogação da prisão preventiva do paciente, com a superação da Súmula 691/STF.
+    É o relatório, decido.
+    Consoante o entendimento firmado pelo Supremo Tribunal Federal e por este Superior Tribunal de Justiça, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+    É o que está sedimentado no verbete sumular n. 691/STF: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar , aplicável, mutatis mutandis, a este Superior Tribunal de Justiça, v.g: HC 117.440/PE, Quinta Turma, Rel. Min. JORGE MUSSI, DJ de 21/06/2010; HC 142.822/SP, Quinta Turma, Rel. Min. ARNALDO ESTEVES LIMA, DJ de 07/12/2009; HC 134.390/MG, Sexta Turma, Rel. Min. OG FERNANDES, DJ de 31/08/2009).
+    No caso, constato que o Juiz singular pautou-se em dados concretos de investigação policial (e-STJ fl. 21), que culminou no relato dos fatos minuciosamente descritos na denúncia, os quais revelam a gravidade da situação, não só pela quantidade e variedade das drogas apreendidas (cerca de 811,59g de cocaína, 1,13g de crack e 56g de maconha), como também pela existência de uma rede criminosa, com divisão de tarefas, entre as quais o paciente era encarregado de comercializar as drogas no município de Tietê/SP.
+    Diante dessas informações, o Relator do writ originário, em liminar, entendeu que ‘a liminar no remédio heroico em tela só pode ser deferida em casos excepcionais e desde que comprovada ab initio na própria impetração, a ocorrência de constrangimento ilegal, hipótese não verificada na espécie vertente’ (e-STJ fls. 8/9).
+    Nesse contexto, igualmente entendo que a decisão impugnada não apresenta ilegalidade manifesta que enseje uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do enunciado sumular do Supremo Tribunal Federal, devendo a impetrante aguardar a análise do mérito pela Corte de origem.
+    Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido” (anexo 8 – grifos do autor).
+    Essa decisão foi mantida pela Quinta Turma do Superior Tribunal de Justiça ao negar provimento ao agravo regimental (anexo 7).
+    Há óbice jurídico-processual ao conhecimento desta impetração.
+    A partir dos fundamentos declinados no julgado do Superior Tribunal de Justiça que, em sede de agravo regimental, confirmou a decisão que indeferiu liminarmente aquela impetração com base no enunciado da Súmula nº 691/STF, é de se concluir que as questões trazidas nesta impetração deixaram de ser analisadas por aquela Corte de Justiça.
+    Portanto, sua apreciação, de forma originária, neste ensejo, configuraria verdadeira dupla supressão de instância não admitida.
+    Nesse sentido, destaco os precedentes seguintes: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Ainda que assim não fosse, registro que o decreto prisional não evidencia ilegalidade flagrante, uma vez que apresenta fundamentos suficientes para justificar a necessidade de privação processual da liberdade do paciente, mormente se levando em conta a gravidade em concreto da conduta, evidenciada pela variedade e expressiva quantidade de droga apreendida (aproximadamente 811,59g de cocaína, 1,13g de crack e 56g de maconha).
+    É firme a jurisprudência da Corte no sentido de que “a gravidade em concreto da conduta da recorrente, evidenciada pela natureza e pela quantidade expressiva da droga apreendida em seu poder (...), justifica sua prisão preventiva, tendo em vista a garantia da ordem pública” (RHC nº 128.797/SP, Segunda Turma, de minha relatoria, DJe de 30/5/16).
+    No mesmo sentido o HC nº 127.814/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 15/6/15.
+    Ante o exposto, entendendo não demonstrada, satisfatoriamente, nenhuma ilegalidade flagrante, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 23 de junho de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
