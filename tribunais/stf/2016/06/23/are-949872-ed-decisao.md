@@ -1,0 +1,34 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA DA SAÚDE E DO TRABALHO – GDPST. EXTENSÃO AOS INATIVOS. CICLO AVALIATIVO: IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE CONTRARRAZÕES. MAJORAÇÃO DA VERBA HONORÁRIA: IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+                            Relatório
+    1. Embargos de declaração contra decisão de não conhecimento do agravo em recurso extraordinário, sob o fundamento de incidência da Súmula n. 279 do Supremo Tribunal Federal, pela impossibilidade de reexame do conjunto fático-probatório para verificação do ciclo avaliativo da Gratificação de Desempenho da Carreira da Previdência da Saúde e do Trabalho:
+    “6. A Turma Recursal concluiu, com base nas provas produzidas, ter havido a efetiva avaliação dos servidores cedidos, o que não pode ser analisado sem reexame do acervo probatório.
+    A reapreciação do julgado quanto à efetiva realização do ciclo de avaliação exigiria o reexame do conjunto fático-probatório do processo, procedimento inviável nesta senda recursal. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES DO SEGURO SOCIAL GDASS. CICLO DE AVALIAÇÃO. FORMA DE CÁLCULO DA GRATIFICAÇÃO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 812.088-AgR, de minha relatoria, Segunda Turma, DJe 20.6.2014).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal)”.
+    2. O Embargante alega que “a mais grave omissão reside no fato de que a matéria discutida nos presentes autos já foi pacificada nesta Excelsa Corte no rito da Repercussão Geral [e o] juízo a quo, assim como os doutos julgadores da Turma Recursal não exerceram o juízo de retratação, face ao que dispõe o artigo 543-B § 3º, optaram pela omissão”.
+    Assevera que “tal decisão não pode prosperar, pois ofende o princípio da irredutibilidade salarial, garantida pela CRFB de 1988, em seu artigo 7º, inciso VI.
+    Pede que esta Excelsa Corte se manifeste objetivamente quanto às ofensas aos artigos 5º, incisos XXXV e XXXVI, inciso VI, 40 § 8º, e 201 § 1º da Constituição da República.
+    Pede-se seja sanada a omissão, conforme esclarecimentos e documentos, acostados aos autos.
+    Há na Suprema Corte, jurisprudência específica no sentido de que, em razão do caráter genérico da GDPST, se aplica o mesmo entendimento consolidado quanto à Gratificação de Desempenho de Atividade Técnica Administrativa GDATA e à Gratificação de Desempenho de Atividade da Seguridade Social e do Trabalho GDASST, que se estendem aos servidores inativos: AI 805342, Rel. Min. Cármen Lúcia, DJe 18.08.2010”.
+    Requer sejam acolhidos “os presentes embargos de declaração para sanar as omissões apontadas, bem como pré-questionar” (sic).
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. Razão jurídica não assiste ao Embargante.
+    4. A análise da alegada contradição em “decisão unipessoal”, suscitada nos presentes embargos, há de ser feita monocraticamente, nos termos do art. 1.024, § 2º, do atual Código de Processo Civil (RE n. 926.941-ED, Relator o Ministro Celso de Mello, DJe 20.5.2016; RE n. 759.624-ED, Relator o Ministro Roberto Barroso, DJe 16.5.2016; e ARE n. 938.544-ED, Relator o Ministro Celso de Mello, DJe 17.5.2016).
+    5. Os embargos são tempestivos (arts. 1.022 e 1.023 do Código de Processo Civil de 2015). Todavia, a decisão embargada deve ser mantida.
+    6. Não procede a alegação do Embargante de omissão na decisão embargada. O agravo teve seguimento negado pela impossibilidade de reexame do conjunto fático-probatório dos autos para verificação do ciclo avaliativo da Gratificação de Desempenho da Carreira da Previdência da Saúde e do Trabalho.
+    A espécie vertente não se confunde com o precedente apontado pelo Embargante (AI n. 805.342), de minha relatoria, no qual decidida questão sobre a devida regulamentação daquela gratificação. A Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro assentou:
+    “No caso concreto, a execução se deu, em relação à gratificação GDPST tendo o juízo impetrado julgado extinta a execução da gratificação sob o fundamento de que a sentença transitada em julgado fixou como termo final de paridade a sua regulamentação e que “nada mais é devido à parte autora, afirmando que a gratificação objeto da presente demanda (GDPST), vinculada ao Ministério da Saúde, já teve implementado o 1º ciclo do processo de avaliação e desempenho, com data inicial em 01/01/2011 e final em 30/06/2011 (fls. 42).
+    Diante da regulamentação comprovada de forma retroativa, restou demonstrada pela União a inexistência de valores a serem executados, em relação à gratificação GDPST.
+    Dessa maneira, não vislumbro sequer a plausibilidade jurídica da tese impetrante, vez que a 4ª Turma Recursal do Rio de Janeiro já pacificou seu entendimento sobre o fim da paridade da gratificação de desempenho GDPST, com o termo final de eventuais atrasados, vinculados ao início efetivo do primeiro ciclo de avaliação, que se deu em 01/01/2011.
+    Assim, pode-se concluir pela inexistência de valores devidos, a título de paridade com os ativos da gratificação de desempenho GDPST, estando correta a decisão do juízo a quo, em extinguir a execução do julgado.
+    Pelo exposto, voto no sentido de denegar a segurança”.
+    7. A Turma Recursal concluiu, com base nas provas produzidas, ter havido a efetiva avaliação dos servidores cedidos, o que não pode ser analisado sem reexame do acervo probatório.
+    Quanto à efetiva realização do ciclo de avaliação, a apreciação do pleito recursal exigiria o reexame do conjunto fático-probatório do processo, procedimento inviável nesta senda recursal. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES DO SEGURO SOCIAL GDASS. CICLO DE AVALIAÇÃO. FORMA DE CÁLCULO DA GRATIFICAÇÃO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 812.088-AgR, de minha relatoria, Segunda Turma, DJe 20.6.2014).
+    8. Pelo exposto, nos termos do art. 1.024, § 2º, do Código de Processo Civil c/c o art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, rejeito os embargos de declaração, mantendo a decisão embargada.
+    Publique-se.
+    Brasília, 23 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
