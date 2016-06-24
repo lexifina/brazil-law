@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+    “AÇÃO DE RESCISÃO CONTRATUAL - PRESTAÇÃO DE SERVIÇOS DE INSTALAÇÃO E SUPORTE DE SOFTWARE - IMPRESTABILIDADE DO SISTEMA - RESCISÃO CONTRATUAL - POSSIBILIDADE - SENTENÇA MANTIDA. -Restando provado nos autos que não foi implantado a tempo e modo o programa se software contratado pelo réu, não satisfazendo as necessidades da empresa autora, é possível o pedido de rescisão contratual. -A parte autora tem direito à rescisão dos contratos referentes à aquisição e implantação de software, quando esse programa não entrou em funcionamento no prazo estabelecido e não atendeu à finalidade para a qual ele se destinava”. (eDOC 1, p. 182)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos art. 114, I, do texto constitucional.
+    Nas razões recursais, alega-se que a controvérsia deriva de contrato de prestação pessoal de serviços de informática pelo recorrente, de modo que a competência absoluta para julgamento da lide seria da Justiça do Trabalho. (eDOC 1, p. 244)
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o tema da competência constitui inovação recursal, apenas levantado nas razões do recurso extraordinário. Logo, não houve prequestionamento da questão constitucional, o que inviabiliza o apelo extremo, pois incide no caso o óbice das Súmulas 282 e 356 do STF.
+    Ainda que assim não fosse, melhor sorte não teria a parte recorrente quanto à existência de violação constitucional.
+    O acórdão recorrido não diverge da jurisprudência deste Tribunal, no sentido de que é da competência da Justiça Comum o julgamento de controvérsias decorrentes de contrato de prestação de serviços entre as partes.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Processual civil e constitucional. Agravo regimental no recurso extraordinário. Preliminar de repercussão geral. Fundamentação insuficiente. Ônus do recorrente. Negativa de prestação jurisdicional. Inocorrência. Ação de cobrança de honorários profissionais. Contrato de prestação de serviços. Relação regida pelo direito civil. Competência da justiça comum. Precedente da Segunda Turma em caso análogo (RE 700.131-AGR, rel. Min. Ricardo Lewandowski, DJe 23.6.2014). Art. 5º, caput, II, LIV e LV, da CF/88. Ofensa constitucional reflexa. Súmula 636/STF. Art. 102, III, “c”, da Carta Magna. Fundamentação deficiente. Súmula 284/STF. Agravo regimental a que se nega provimento”. (RE 607451 AgR, rel. Min. Teori Zavascki, Segunda Turma, DJe 12.5.2015)
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. PRESTAÇÃO DE SERVIÇO. AÇÃO DE COBRANÇA. COMPETÊNCIA. NATUREZA DO VÍNCULO EXISTENTE ENTRE AS PARTES. NECESSIDADE DE REEXAME DE PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - Para dissentir da conclusão adotada pelo acórdão recorrido no que se refere à natureza do vínculo existente entre as partes, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o extraordinário a teor da Súmula 279 desta Corte. Precedentes. II – Agravo regimental a que se nega provimento”. (ARE 758390 ED, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 3.9.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
