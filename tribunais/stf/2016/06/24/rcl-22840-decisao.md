@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por Suzana Pasqua Vasconcelos Elias em face do Juiz de Direito da 2ª Vara Cível da Comarca de Guaxupé, cujo despacho teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia da Sumula Vinculante nº 28.
+    A reclamante narra que opôs embargos à execução em face da Fazenda Pública do Estado de Minas Gerais com o objetivo de questionar crédito tributário de ICMS e multas decorrentes de autuação por suposta sonegação fiscal constituído no valor total, à época, de R$ 1.220,066,90 (um milhão, duzentos e vinte mil, sessenta e seis reais e noventa centavos).
+    Informa que, tendo em vista a insuficiência de seu patrimônio, deixou de realizar o depósito prévio ou apresentar bens a penhora para garantir o juízo quando da oposição dos embargos à execução.
+    Sustenta que a autoridade reclamada desrespeitou a eficácia da Súmula Vinculante nº 28 ao receber os embargos à execução, pois deixou de aplicar o efeito suspensivo ao instrumento.
+    Suzana Pasqua Vasconcelos Elias aduz que a SV nº 28 foi editada a fim de garantir “que a parte Executada se defenda de uma Execução injusta”, o que não se tem respeitado com o prosseguimentos dos atos de execução em seu desfavor. Nesse tocante, argumenta que
+    “somente seria plausível a continuidade da Execução provisória se ficasse provado que a Reclamante estivesse dilacerando seu patrimônio, ameaçando a eficácia da Execução, o que não é o caso.”
+    Requer que seja deferida medida cautelar para suspender o trâmite da Execução Fiscal nº 159381-6 e, ao final, que seja julgada procedente a reclamação para conferir efeito suspensivo aos embargos à execução opostos nos autos, tornando definitivo o provimento antecipatório.
+    É o relatório. Decido.
+    O paradigma na presente reclamação é a Súmula Vinculante nº 28, cuja redação transcrevo:
+    “É inconstitucional a exigência de depósito prévio como requisito de admissibilidade de ação judicial na qual se pretenda discutir a exigibilidade de crédito tributário.” (grifei)
+    O enunciado foi editado a fim de fazer prevalecer o direito fundamental de acesso ao Poder Judiciário, prescrito no art. 5º, XXXV, da Constituição Federal, estando fundamentado em precedente plenário firmado em sede de controle concentrado de constitucionalidade do art. 19, caput, da Lei nº 8.870/94, com o seguinte teor:
+    “Art. 19. As ações judiciais, inclusive cautelares, que tenham por objeto a discussão de débito para com o INSS serão, obrigatoriamente, precedidas do depósito preparatório do valor do mesmo, monetariamente corrigido até a data de efetivação, acrescido dos juros, multa de mora e demais encargos.” (grifei)
+    O julgado desta Suprema Corte de referência para edição do enunciado vinculante está assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 19, CAPUT, DA LEI FEDERAL N. 8.870/94. DISCUSSÃO JUDICIAL DE DÉBITO PARA COM O INSS. DEPÓSITO PRÉVIO DO VALOR MONETARIAMENTE CORRIGIDO E ACRESCIDO DE MULTA E JUROS. VIOLAÇÃO DO DISPOSTO NO ARTIGO 5º, INCISOS XXXV E LV, DA CONSTITUIÇÃO DO BRASIL. 1. O artigo 19 da Lei n. 8.870/94 impõe condição à propositura das ações cujo objeto seja a discussão de créditos tributários. Consubstancia barreira ao acesso ao Poder Judiciário. 2. Ação Direta de Inconstitucionalidade julgada procedente” (ADI nº 1.074/DF, Relator o Ministro Eros Grau, Tribunal Pleno, DJe de 25/5/07).
+    No caso dos autos, o ato reclamado consiste em despacho proferido nos Autos nº 159381-6, in verbis:
+    “Recebo os embargos para discussão.
+    Aplicando os preceitos do Código de Processo Civil, deixo de atribuir efeito suspensivo, tendo em vista não estar a execução garantida por depósito, penhora ou caução.”
+    Tem-se, portanto, que o acesso de Suzana Pasqua Vasconcelos Elias ao Poder Judiciário, pela via dos embargos à execução opostos a fim de questionar a constituição de débito de ICMS, não fora negado pela autoridade reclamada.
+    Em outras palavras, o Juiz de Direito da 2ª Vara Cível da Comarca de Guaxupé admitiu os embargos à execução nos Autos nº 159381-6 independentemente de a embargante ter apresentado garantia por depósito, penhora ou caução do valor executado.
+    O juízo reclamado, entretanto, deu prosseguimento à ação executória, tendo em vista a regra inscrita no art. 151, II, do Código Tributário Nacional, segundo a qual a exigibilidade do crédito tributário é suspensa mediante “o depósito do seu montante integral”.
+    Portanto, o que pretende a reclamante, em verdade, é questionar a regra que exige depósito integral do valor do crédito tributário para suspender sua exigibilidade (art. 151, II, do CTN), matéria que não possui relação de aderência estrita com a garantia de acesso ao Poder Judiciário mediante a vedação do depósito prévio como requisito de admissibilidade de ação judicial na qual se pretenda discutir a exigibilidade de crédito tributário (Súmula Vinculante nº 28).
+    Há necessidade de aderência estrita do objeto do ato reclamado ao conteúdo da decisão paradigmática do STF para conhecimento da reclamação constitucional, tendo em vista o caráter estrito da competência do STF no conhecimento desse instrumento. Vide precedentes:
+    “(...) INADMISSIBILIDADE DA RECLAMAÇÃO PELO FATO DE O ACÓRDÃO ORA IMPUGNADO NÃO SE AJUSTAR, COM EXATIDÃO E PERTINÊNCIA, AO PARADIGMA DE CONFRONTO INVOCADO PELA PARTE RECLAMANTE – PRECEDENTES – RECLAMAÇÃO NÃO CONHECIDA – INTERPOSIÇÃO DE RECURSO DE AGRAVO – PARECER DA PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO PROVIMENTO DO RECURSO – RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO” (Rcl nº 16.492/SP-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe de 6/11/14).
+    “Agravo regimental na reclamação. Ausência de identidade de temas entre o ato reclamado e a ADI nº 3.460/DF. Reclamação como sucedâneo de recurso. Agravo regimental não provido. 1. Deve haver aderência estrita do objeto do ato reclamado ao conteúdo da decisão paradigmática do STF para que seja admitido o manejo da reclamatória constitucional. 2. Agravo regimental não provido (Rcl nº 11.463/DF-AgR, de minha relatoria, Primeira Turma, DJe de 13/2/15).
+    Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF, prejudicada a apreciação do pedido liminar.
+    Publique-se. Int..
+    Brasília, 24 de junho de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
