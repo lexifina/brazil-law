@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho que negou provimento ao recurso de agravo de instrumento, mantendo a decisão do Tribunal de origem que deferiu adicional de horas extras de 50% (cinquenta por cento) as horas laboradas além da 6ª hora diária, restando assim ementado:
+    AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS - ECT. EXERCÍCIO DE ATIVIDADE NO BANCO POSTAL. APLICABILIDADE DA JORNADA ESPECIAL DO ART. 224 DA CLT.
+    Constatado que a decisão do Tribunal Regional se harmoniza com a jurisprudência uniforme desta Corte, a pretensão recursal encontra óbice no §4º do art. 896 da CLT, estando correta a decisão agravada.
+    Agravo de instrumento a que se nega provimento.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos artigos 5°, II, 7º, VI, XIII, XXVI, XXVII e XXIX e 37, da Constituição da República, por violação dos princípios garantidores da legalidade, da irredutibilidade salarial, da duração do trabalho, do reconhecimento das convenções e acordos coletivos de trabalho, da proteção em face da automação, bem como do direito a ação, quanto aos créditos resultantes das relações de trabalho e da moralidade administrativa.
+    A irresignação não merece prosperar.
+    Sem embargo do teor, manifestado nestes autos, a respeito, abstratamente, da violação dos princípios da legalidade (art. 5º, II), da irredutibilidade salarial (art. 7º, VI), da duração do trabalho (art. 7º, XIII), do reconhecimento das convenções e acordos coletivos de trabalho (art. 7º, XXVI), da proteção em face da automação (art. 7º, XXVII), do direito a ação, quanto aos créditos resultantes das relações de trabalho (art. 7º, XXIX) e da moralidade administrativa (art. 37), todos da Constituição da República, o Recorrente fundamenta o apelo extremo em argumentos genéricos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em normas infraconstitucionais (Consolidação das Leis do Trabalho – CLT e Decreto-Lei 509/1969), o que não é cabível em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+    De igual forma, embora haja estribo argumentativo na possível afronta à garantia da convenção ou acordo coletivo de trabalho, conforme dispõe o inciso XXVI do art. 7º do Texto Constitucional, sua apreciação demandaria reexame de dados fáticos, a exigir o revolvimento de matéria de índole probatória, inviável na instância extraordinária.
+    Ante o exposto, nego seguimento ao recurso, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 24 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
