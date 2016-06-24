@@ -1,0 +1,14 @@
+Referente à Petição nº 34146/2016 (evento 99):
+    1. Insurge-se Adelar José Drescher com a determinação de certificação do trânsito em julgado, ao argumento de que não foi observada a suspensão de prazo decorrente da arguição de suspeição. Acrescenta que, a despeito da renúncia ao prazo para apresentar recurso da decisão que negou seguimento à arguição de suspeição, não abriu mão da faculdade de interpor agravo regimental em face da decisão que negou seguimento à ação cautelar.
+    Afirma que, por meio da Petição nº 31461 (evento 74), protocolada em 14.6.2016, logo depois de ter sido negado seguimento à arguição de suspeição, interpôs agravo regimental para impugnar a decisão denegatória da ação cautelar, com razões remissivas a outras petições apresentadas ao longo do processo.
+    2. Com efeito, na Petição nº 31461, o impetrante informou que não iria recorrer da decisão que negou seguimento à arguição de suspeição, ao tempo em que requereu fossem “tom[adas] as manifestações da AC nº 4120 como agravo regimental” (evento 74, fl. 31). Assim, e tendo em vista o previsto nos arts. 221, caput, e 313, III, do CPC, torno sem efeito o despacho prolatado em 23.6.2016 (evento 97), pelo qual determinei a certificação do trânsito em julgado da decisão denegatória do seguimento da presente ação cautelar.
+    3. Passo a examinar, por consectário, a Petição nº 32499 (evento 84), por meio da qual o advogado Nilton Dornelles de Araújo, OAB/RS 22.907, veicula renúncia aos poderes conferidos no mandato e junta comprovante de ciência do mandante, Adelar José Drescher, vazado nos seguintes termos:
+    “Ciente em 17 de junho de que o senhor Nilton Dornelles de Araújo, não será doravante meu advogado no STJ e no STF. Não tenho como contratar outro” (evento 85, fl. 15).
+    4. À luz do art. 112 do CPC, pode o advogado renunciar ao mandato a qualquer tempo, provando que comunicou a renúncia ao mandante, para que este nomeie sucessor. O § 1º do referido preceito legal estabelece que, para evitar prejuízos, o advogado renunciante continuará a representar o mandante nos 10 (dez) dias seguintes à comunicação da renúncia.
+    5. Por sua vez, o art. 76, § 1º, I, do Código de Processo Civil determina a suspensão do processo, quando verificada a irregularidade da representação do autor, a fim de que seja sanado o vício, sob pena de extinção do feito.
+    6. Ante o exposto, suspendo o processo e determino a intimação do autor, por carta com aviso de recebimento, a ser encaminhada para o respectivo endereço, indicado nos autos (evento 2), a fim de que, no prazo de 10 (dez) dias, regularize a sua representação, constituindo novo procurador ou buscando a assistência da Defensoria Pública, sob pena de extinção do feito.
+    Decorrido o prazo, voltem os autos conclusos.
+    Publique-se.
+    Brasília, 24 de junho de 2016.
+Ministra Rosa Weber
+Relatora
