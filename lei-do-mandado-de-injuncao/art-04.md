@@ -1,0 +1,4 @@
+Art. 4º A petição inicial deverá preencher os requisitos estabelecidos pela lei processual e indicará, além do órgão impetrado, a pessoa jurídica que ele integra ou aquela a que está vinculado.
+§ 1º Quando não for transmitida por meio eletrônico, a petição inicial e os documentos que a instruem serão acompanhados de tantas vias quantos forem os impetrados.
+§ 2º Quando o documento necessário à prova do alegado encontrar-se em repartição ou estabelecimento público, em poder de autoridade ou de terceiro, havendo recusa em fornecê-lo por certidão, no original, ou em cópia autêntica, será ordenada, a pedido do impetrante, a exibição do documento no prazo de 10 (dez) dias, devendo, nesse caso, ser juntada cópia à segunda via da petição.
+§ 3º Se a recusa em fornecer o documento for do impetrado, a ordem será feita no próprio instrumento da notificação.

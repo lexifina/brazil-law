@@ -1,0 +1,1 @@
+Art. 14. Aplicam-se subsidiariamente ao mandado de injunção as normas do mandado de segurança, disciplinado pela Lei nº 12.016, de 7 de agosto de 2009, e do Código de Processo Civil, instituído pela Lei nº 5.869, de 11 de janeiro de 1973, e pela Lei nº 13.105, de 16 de março de 2015, observado o disposto em seus arts. 1.045 e 1.046.
