@@ -1,0 +1,6 @@
+Art. 12. O mandado de injunção coletivo pode ser promovido:
+I - pelo Ministério Público, quando a tutela requerida for especialmente relevante para a defesa da ordem jurídica, do regime democrático ou dos interesses sociais ou individuais indisponíveis;
+II - por partido político com representação no Congresso Nacional, para assegurar o exercício de direitos, liberdades e prerrogativas de seus integrantes ou relacionados com a finalidade partidária;
+III - por organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos 1 (um) ano, para assegurar o exercício de direitos, liberdades e prerrogativas em favor da totalidade ou de parte de seus membros ou associados, na forma de seus estatutos e desde que pertinentes a suas finalidades, dispensada, para tanto, autorização especial;
+IV - pela Defensoria Pública, quando a tutela requerida for especialmente relevante para a promoção dos direitos humanos e a defesa dos direitos individuais e coletivos dos necessitados, na forma do inciso LXXIV do art. 5º da Constituição Federal.
+Parágrafo único. Os direitos, as liberdades e as prerrogativas protegidos por mandado de injunção coletivo são os pertencentes, indistintamente, a uma coletividade indeterminada de pessoas ou determinada por grupo, classe ou categoria.
