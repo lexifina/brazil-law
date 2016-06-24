@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF10 nº 10052, de 14 de junho de 2016
+ASSUNTO: Obrigações Acessórias
+EMENTA: SISCOSERV. SERVIÇOS DE TRANSPORTE INTERNACIONAL DE CARGA. INFORMAÇÕES. RESPONSABILIDADE.
+A responsabilidade pelo registro no Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (Siscoserv) é do residente ou domiciliado no País que mantém relação contratual com residente ou domiciliado no exterior para a prestação do serviço.
+A pessoa jurídica domiciliada no Brasil que contratar agente de carga, residente ou domiciliado no Brasil, para operacionalizar o serviço de transporte internacional de mercadoria a ser importada ou exportada, e também os serviços a ele conexos, prestados por residente ou domiciliado no exterior, será responsável pelo registro desses serviços no Siscoserv na hipótese de o agente de carga apenas representá-la perante o(s) prestador(es) desses serviços. Quando o agente de carga, residente ou domiciliado no Brasil, contratar o serviço de transporte, de residente ou domiciliado no exterior, e serviços auxiliares conexos ao de transporte, em seu próprio nome, caberá a ele o registro desses serviços no Siscoserv.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 257, DE 26 DE SETEMBRO DE 2014.
+DISPOSITIVOS LEGAIS: Decreto-Lei nº 37, de 1966, art. 37, § 1º; Lei nº 10.406, de 2002 (Código Civil), arts. 730 e 744; Lei nº 12.546, de 2011, art. 25; Portaria Conjunta RFB/SCS nº 1.895, de 2013, e nº 768, de 2016; Instrução Normativa RFB nº 800, de 2007, arts. 2º, II, e 3º; e Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+[arquivo anexo: SC SRRF10-Disit nº 10052-2016.pdf]
