@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, que, ao apreciar a causa em cumprimento à decisão do Superior Tribunal de Justiça no Conflito de Competência nº 105.347, julgou procedente pedido de indenização a título de dano material e moral, formulado por parente de ex-empregada da empresa agravante, falecida em decorrência de acidente de trabalho.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, 109, I, e 114, VI, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob os seguintes fundamentos: (i) o preceito inscrito no art. 5º, XXXVI, da Constituição Federal, tido por violado, não foi devidamente prequestionado, nos termos da Súmula 282/STF; (ii) ausência de ofensa aos arts. 109, I, e 114, VI, da Constituição, uma vez que “houve preclusão da matéria, pois, diante do julgamento do Conflito de Competência nº 105.342 pelo Superior Tribunal de Justiça, nestes autos, restou fixada a competência da justiça estadual, e contra a referida decisão não foi interposto recurso”.
+    O recurso extraordinário é inadmissível. Isso porque o art. 5º, XXXVI, da Constituição, tido por violado, não foi objeto de análise pelo Tribunal de origem. Tampouco foi suscitado em embargos de declaração para suprir eventual omissão, de modo que o recurso, no ponto, carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, dissentir da conclusão do Tribunal de origem, quanto à ocorrência da preclusão, que impede nova discussão acerca da alegada incompetência da justiça comum estadual, demandaria a análise da legislação infraconstitucional aplicada ao caso e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em sede de recurso extraordinário. Vejam-se, nesse sentido, o ARE 777.056-AgR, de minha relatoria; o ARE 915.069-AgR, Rel. Min. Edson Fachin; e o ARE 832.157-AgR, Rel. Min. Dias Toffolli, assim ementado:
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Preclusão. Ocorrência. Discussão. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+    1. A Corte de origem assentou que ‘não se pode pretender, em sede de embargos à execução fundado em sentença judicial transitada em julgado, a rediscussão de matérias que deveriam ter sido suscitadas na ação de conhecimento’.
+    2. A discussão acerca da ocorrência ou não da preclusão não prescinde do exame do conjunto fático probatório da causa (Súmula nº 279/STF), nem da análise da legislação infraconstitucional, o que é inviável em recurso extraordinário.
+    3. Agravo regimental não provido.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
