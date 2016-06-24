@@ -1,0 +1,35 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DIREITOS SOCIAIS DO TRABALHO. CONTRATAÇÃO TEMPORÁRIA NULA. FGTS. JULGADO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO PROVIDO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “EMENTA: APELAÇÃO CÍVEL - FGTS - SERVIDOR MUNICIPAL TEMPORÁRIO - REGIME DE DIREITO ADMINISTRATIVO -INAPLICABILIDADE DA CLT - VERBA INDEVIDA.
+    - O contratado pela Administração Pública por tempo determinado para atender a necessidade temporária de excepcional interesse público faz jus ao recebimento das verbas contratuais e daquelas estabelecidas pela legislação aplicável, entre as quais não se inclui o FGTS.
+      - A constatação da ilegalidade da contratação temporária não tem o condão de subordiná-la ao regime da CLT, permanecendo a relação entre as partes sob o regime jurídico administrativo”.
+    2. A Agravante alega ter o Tribunal de origem contrariado o art. 37, inc. IX, da Constituição da República.
+    Sustenta que, “embora tenha declarado a ilegalidade na contratação da apelante, inclusive, mencionando a inconstitucionalidade da LC n. 100, ainda assim, julgou improcedente o pedido de pagamento relativo ao FGTS e multa de 40%, contrariando a decisão desse C. Supremo Tribunal Federal nesse sentido” (fl. 381).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de preliminar formal de repercussão geral.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O recurso extraordinário foi inadmitido por ausência de preliminar de repercussão geral.
+    A Agravante asseverou na fl. 381 dos autos:“tal decisão é totalmente divergente do entendimento já pacificado pelo C. Supremo Tribunal Federal, inclusive, em caráter de ‘REPERCUSSÃO GERAL’, ao decidir o Recurso Extraordinário n. 596.487-7 RR, no qual os contratos de servidores contratados sem concurso público, como é o caso dos autos, foram considerados nulos e determinado o reconhecimento do Fundo de Garantia por Tempo de Serviço”.
+    No art. 1.034, § 3º, inc. I, do Novo Código de Processo Civil se prevê:
+    § 3 Haverá repercussão geral sempre que o recurso impugnar acórdão que:
+    I - contrarie súmula ou jurisprudência dominante do Supremo Tribunal Federal;
+    Apesar de não haver preliminar destacada de repercussão geral, sendo narrado pelo Agravante o número do recurso extraordinário objeto da discussão, presente, na espécie, demonstração de cumprimento da exigência legal quanto à repercussão geral da matéria.
+    Superado esse óbice processual, analiso a questão posta no agravo em recurso extraordinário.
+    5. Razão jurídica assiste à Agravante.
+    6. O Tribunal de origem assentou:
+    “Embora seja óbvio que a contratação da autora por sete anos não configure ‘necessidade temporária’, o que nulifica o ato, nem por isto a apelante tem direito ao recebimento do FGTS, por falta de amparo legal para tanto.
+    (…) Como conclusão, tem-se que ao prestador de serviços admitido irregularmente pela Administração Pública com base na legislação autorizativa da contratação temporária é devida a contraprestação ajustada no contrato administrativo, mas, em caso de omissão de vantagem assegurada pela Constituição, as verbas omitidas são igualmente devidas, sob pena de enriquecimento sem causa do erário, que estaria burlando a lei para obter vantagem econômica. Tal não é o caso, porém, do FGTS, que não é devido ao servidor público (CR, art. 39, §3º)”.
+    Reconhecida a nulidade da contratação temporária da Agravante, na linha da jurisprudência deste Supremo Tribunal, é de ser aplicado o art. 19-A da Lei n. 8.036/1990, assegurando-se o pagamento do Fundo de Garantia por Tempo de Serviço.
+    No julgamento do Recurso Extraordinário n. 596.478/RR, Relatora a Ministra Ellen Gracie, Redator para o acórdão o Ministro Dias Toffoli, o Plenário do Supremo Tribunal Federal decidiu:
+    “Recurso extraordinário. Direito Administrativo. Contrato nulo. Efeitos. Recolhimento do FGTS. Artigo 19-A da Lei nº 8.036/90. Constitucionalidade. 1. É constitucional o art. 19-A da Lei nº 8.036/90, o qual dispõe ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário. 2. Mesmo quando reconhecida a nulidade da contratação do empregado público, nos termos do art. 37, § 2º, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados. 3. Recurso extraordinário ao qual se nega provimento” (DJe 1º.3.2013).
+    No mesmo sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Contratação temporária. Nulidade do contrato. Direito ao recebimento do Fundo de Garantia por Tempo de Serviço. Repercussão geral reconhecida. Precedentes. 1. O Plenário da Corte, no exame do RE nº 596.478/RR-RG, Relator para o acórdão o Ministro Dias Toffoli, concluiu que, “mesmo quando reconhecida a nulidade da contratação do empregado público, nos termos do art. 37, § 2º, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados”. 2. Essa orientação se aplica também aos contratos temporários declarados nulos, consoante entendimento de ambas as Turmas. 3. Agravo regimental não provido” (ARE n. 867.655-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 4.9.2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. NULIDADE. DIREITO AO DEPÓSITO DO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO – FGTS. RE 596.478-RG. REPERCUSSÃO GERAL RECONHECIDA. JULGAMENTO DE MÉRITO. 1. O Fundo de Garantia do Tempo de Serviço - FGTS é devido aos servidores temporários, nas hipóteses em há declaração de nulidade do contrato firmado com a Administração Pública, consoante decidido pelo Plenário do STF, na análise do RE 596.478-RG, Rel. para o acórdão Min. Dias Toffoli, DJe de 1/3/2013” (RE n. 830.962-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 25.11.2014).
+    Assim também a seguinte decisão monocrática transitada em julgado: recurso extraordinário n. 755.183, de minha relatoria, DJe 6.3.2014.
+    O acórdão recorrido divergiu dessa orientação jurisprudencial.
+    7. Pelo exposto, dou provimento ao agravo e, desde logo, ao recurso extraordinário, para que, afastado o fundamento de negativa ao recebimento do FGTS, determinar o retorno dos autos ao Tribunal de origem para que decida segundo o direito (art. 932, inc. V, al. b, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
