@@ -1,0 +1,2 @@
+Art. 13. No mandado de injunção coletivo, a sentença fará coisa julgada limitadamente às pessoas integrantes da coletividade, do grupo, da classe ou da categoria substituídos pelo impetrante, sem prejuízo do disposto nos §§ 1º e 2º do art. 9º.
+Parágrafo único. O mandado de injunção coletivo não induz litispendência em relação aos individuais, mas os efeitos da coisa julgada não beneficiarão o impetrante que não requerer a desistência da demanda individual no prazo de 30 (trinta) dias a contar da ciência comprovada da impetração coletiva.
