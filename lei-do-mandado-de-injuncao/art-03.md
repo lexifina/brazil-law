@@ -1,0 +1,1 @@
+Art. 3º São legitimados para o mandado de injunção, como impetrantes, as pessoas naturais ou jurídicas que se afirmam titulares dos direitos, das liberdades ou das prerrogativas referidos no art. 2º e, como impetrado, o Poder, o órgão ou a autoridade com atribuição para editar a norma regulamentadora.
