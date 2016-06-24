@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “IRREGULARIDADE DE CONTAS MUNICIPAIS – APLICAÇÃO DE MULTA PELO TRIBUNAL DE CONTAS DE SÃO PAULO PARA RESSARCIMENTO DE VALORES PERCEBIDOS INDEVIDAMENTE – Pedido de Desconstituição de decisão do TCE – Remuneração do Presidente da Câmara de Sorocaba em valor superior a 75% da remuneração de deputado estadual – descumprimento do art. 29, VI, ‘f’ da CF – Ausência de coisa julgada administrativa – Contas examinadas pela ótica da anualidade.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação ao art. 5º, caput, XXXVI e LV, da Constituição.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) “os argumentos expendidos não são suficientes para infirmar a conclusão do v. aresto combatido que contém fundamentação adequada para lhe dar respaldo. Tampouco restou evidenciado qualquer maltrato a normas constitucionais, não sendo qualquer das hipóteses das alíneas ‘a’, ‘b’, ‘c’, e ‘d’ do permissivo constitucional”; e (ii) “a análise demandaria o exame da matéria infraconstitucional quando é sabido que a ofensa à Constituição Federal deve ser direta e frontal, e não por via reflexa”.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Paulo Gustavo Gonet Branco, opinou pelo desprovimento do agravo.
+    O recurso extraordinário é inadmissível. O Tribunal de origem, ao analisar a questão, não identificou qualquer irregularidade no processo administrativo. Veja-se o seguinte trecho do voto condutor do acórdão recorrido:
+    “Não se identifica irregularidade a macular sua decisão. O apelante foi intimado no processo e exerceu seu regular direito de defesa, tanto que opôs embargos de declaração, dos quais desistiu e apresentou recurso que foi indeferido. No mais, os atos foram publicados, dando-se oportunidade para argumentação suplementares. E tanto se afigurou sua resignação com relação ao decidido que requereu parcelamento da multa, que passou a pagar regularmente. Sendo assim, ao contrário do que afirmou o apelante, não se vislumbra no caso qualquer irregularidade formal no procedimento adotado pelo Tribunal de Conta, que observou todos os dispositivos legais que regem a matéria, respeitando o devido processo legal, a ampla defesa e o contraditório.”
+    Para divergir desse entendimento, seria imprescindível o reexame dos fatos e do material probatório constantes dos autos, procedimento vedado neste momento processual, nos termos da Súmula 279/STF.
+    Ademais, aplica-se a jurisprudência desta Corte que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o seguinte trecho de ementa:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.” (AI 839.837-AgR, Rel. Min. Ricardo Lewandowski)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 24 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
