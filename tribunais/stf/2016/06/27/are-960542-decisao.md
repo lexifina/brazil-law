@@ -1,0 +1,25 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra decisão emanada do E. Tribunal de Justiça do Estado de Santa Catarina, que se acha consubstanciada em acórdão assim ementado:
+    “SERVIDORA PÚBLICA MUNICIPAL. AUXILIAR DE ENFERMAGEM. PROCESSO ADMINISTRATIVO DISCIPLINAR QUE CULMINOU COM A APLICAÇÃO DA PENALIDADE DE DEMISSÃO.
+    1) AUTORA QUE NÃO COMUNICOU AO SUPERIOR A DILAPIDAÇÃO DE BEM PÚBLICO DO PRONTO ATENDIMENTO. PUNIÇÃO QUE NÃO ATENDE À PROPORCIONALIDADE E À RAZOABILIDADE. CONVERSÃO DA DEMISSÃO EM ADVERTÊNCIA.
+    ‘1. Os princípios da razoabilidade e da proporcionalidade devem nortear a Administração Pública como parâmetros de valoração de seus atos sancionatórios, por isso que a não observância dessas balizas justifica a possibilidade de o Poder Judiciário sindicar decisões administrativas’ (STF, RMS n. 28.208/DF, rel. Min. Luiz Fux, Primeira Turma, j. 25-2-2014).
+    ‘’Esta c. Corte pacificou entendimento segundo o qual, mesmo quando se tratar de imposição da penalidade de demissão, devem ser observados pela Administração Pública os princípios da razoabilidade e proporcionalidade e individualização da pena (Precedentes: MS 13.716/DF, 3ª Seção, de minha relatoria, DJe de 13/02/2009 MS nº 8.693 / DF, 3ª Seção, Rel. Min. Maria Thereza de Assis Moura, DJe de 8/5/2008; MS nº 7.260/DF, 3ª Seção, Rel. Min. Jorge Scartezzini, DJ de 26/8/2002 e MS nº 7.077 / DF, 3ª Seção, Rel. Min. Edson Vidigal, DJ de 11/6/2001)’ (RMS 28.487/GO, rel. Min. Felix Fischer, Quinta Turma, j. em 10/03/2009, DJe de 30/03/2009)’ (AC n. 2010.068269-0, de São Francisco do Sul, rel. Des. Carlos Adilson Silva, Terceira Câmara de Direito Público, j. 1º-4-2014).
+    2) REINTEGRAÇÃO NO CARGO DE ORIGEM. PAGAMENTO DA REMUNERAÇÃO A QUE TERIA DIREITO SE EM ATIVIDADE, DEDUZIDAS EVENTUAIS VERBAS RECEBIDAS DURANTE O AFASTAMENTO.
+    ‘03. ’Anulado o ato administrativo, o servidor público demitido ou exonerado tem direito à reintegração no cargo, assegurado o pagamento dos vencimentos a que teria direito se em atividade. Porém, do montante deverão ser deduzidos os rendimentos resultantes do exercício de trabalho ou atividade de qualquer natureza, inclusive pro labore, obtidos no período do afastamento. A solução se impõe como corolário do princípio, universalmente aceito, que veda o enriquecimento injusto’ (AC n. 2000.008770-0, Des. Newton Trisotto)’ (AC n. 2012.046552-6, de Joinville, rel. Des. Newton Trisotto, Primeira Câmara de Direito Público, j. 27-5-2014).
+    3) DANO MORAL. AUSÊNCIA DE PROVA DO ABALO. DEVER DE INDENIZAR INEXISTENTE.
+    4) REMUNERAÇÃO DE SERVIDORES. INCIDÊNCIA INTEGRAL DA LEI N. 11.960/2009 ATÉ QUE SEJAM MODULADOS OS EFEITOS DA ADI N. 4.357. RECURSO PARCIALMENTE PROVIDO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário em questão revela-se processualmente inviável.
+    Com efeito, a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal (AI 766.094-AgR/RS, Rel. Min. DIAS TOFFOLI – ARE 635.678-AgR/GO, Rel. Min. GILMAR MENDES – RE 755.924-AgR/DF, Rel. Min. ROSA WEBER, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROCESSO DISCIPLINAR. DEMISSÃO. 1. Cabimento de mandado de segurança em tribunal diverso. Matéria infraconstitucional. Ausência de repercussão geral. 2. Análise da razoabilidade e proporcionalidade do ato demissório. Reexame de fatos e provas. Súmula n. 279 do Supremo Tribunal Federal. 3. Controle judicial de ato administrativo: inexistência de contrariedade ao princípio da separação dos poderes. 4. Agravo regimental ao qual se nega provimento.”
+    (ARE 744.080-AgR/DF, Rel. Min. CÁRMEN LÚCIA)
+    “Agravo regimental no recurso extraordinário. Auditor da Receita Federal. Penalidade de demissão aplicada. Ato administrativo. Controle judicial. Possibilidade. Princípio da proporcionalidade. Reexame de fatos e provas em sede de apelo extremo. Impossibilidade. Precedentes.
+    1. Não viola o princípio da separação dos poderes o controle de legalidade exercido pelo Poder Judiciário sobre os atos administrativos.
+    2. A Corte de origem, ao analisar o conjunto fático-probatório da causa, concluiu que a punição aplicada foi excessiva, restando violado o princípio da proporcionalidade.
+    3. Não se presta o recurso extraordinário para o reexame de fatos e provas da causa. Incidência da Súmula nº 279/STF.
+    4. Agravo regimental não provido.”
+    (RE 739.187-AgR/DF, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC/15, art. 932, VIII, e RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 27 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
