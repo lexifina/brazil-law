@@ -1,0 +1,1 @@
+Art. 60-A. Para conter ou acondicionar droga, medicamento ou produtos correlatos, não será autorizado o emprego de embalagem que possa induzir trocas indesejadas ou erros na dispensação, no uso ou na administração desses produtos.

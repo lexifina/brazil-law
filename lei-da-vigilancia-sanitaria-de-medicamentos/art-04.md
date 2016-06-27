@@ -1,1 +1,2 @@
 Art. 4º - Os produtos destinados ao uso infantil não poderão conter substâncias cáusticas ou irritantes, terão embalagens isentas de partes contundentes e não poderão ser apresentados sob a forma de aerosol.
+Parágrafo único. Os produtos de que trata o caput deverão ter características de rotulagem e de embalagem que possibilitem a sua imediata e precisa distinção daqueles destinados ao uso adulto.
