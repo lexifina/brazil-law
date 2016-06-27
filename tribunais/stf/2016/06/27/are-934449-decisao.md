@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Paraná, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. RECLAMATÓRIA TRABALHISTA, AUTOR APROVADO PARA PREENCHIMENTO DE UMA DAS VAGAS EXISTENTES NAS UNIDADES DE ATENDIMENTO A ADOLESCENTES INFRATORES DO INSTITUTO DE AÇÃO SOCIAL DO PARANÁ. EDITAL QUE PREVÊ A DURAÇÃO DO CONTRATO PELO PRAZO DE 12 MESES, COM POSSIBILIDADE DE RENOVAÇÃO PELO MESMO PERÍODO, COM PERÍODO DE EXPERIÊNCIA DE 45 DIAS, RENOVÁVEL POR IGUAL PERÍODO. RESCISÃO ANTECIPADA. CONTRATO COM PRAZO INFERIOR AO ESTABELECIDO. INVALIDADE. DIREITO AO RECEBIMENTO DE INDENIZAÇÃO CORRESPONDENTE À METADE DO QUE LHE CABERIA ATÉ O TÉRMINO DO CONTRATO. VINCULAÇÃO DA ADMINISTRAÇÃO PÚBLICA AO INSTRUMENTO CONVOCATÓRIO.
+    CUSTAS PROCESSUAIS. ESTADO DO PARANÁ ALEGA CONFUSÃO ENTRE SUJEITO ATIVO E PASSIVO DA OBRIGAÇÃO TRIBUTÁRIA. INOCORRÊNCIA. VARA ESTATIZADA MANTIDA PELOS RECURSOS DO FUNJUS E NÃO PELOS COFRES DO PODER JUDICIÁRIO. AUTORIZAÇÃO DO CONSELHO NACIONAL DE JUSTIÇA. FUNDO COM AUTONOMIA ADMINISTRATIVA E FINANCEIRA. ISENÇÃO. NECESSIDADE DE PREVISÃO LEGAL. EXEGESE DOS ARTS. 150, § 6º, DA CF E 97, VI, DO CTN.
+    INCLUSÃO, DE OFÍCIO, DA INCIDÊNCIA DE JUROS E CORREÇÃO MONETÁRIA, SOBRE A VERBA HONORÁRIA. SENTENÇA MANTIDA, EM REEXAME NECESSÁRIO. NEGADO PROVIMENTO AO RECURSO DE APELAÇÃO.” (eDOC. Vol. 6, p. 74-75)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 99 e 150, § 6º, do texto constitucional.
+    Nas razões recursais, alega-se a “impossibilidade de o ente político ser devedor de um tributo decorrente da prestação do serviço público por ele mesmo disponibilizado, sob pena de estar tributando a si mesmo (autotributação).” (eDOC. Vol. 7, p. 4)
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Estadual 15942/08) e o conjunto probatório constante dos autos, consignou que o Estado do Paraná poderá figurar como sujeito passivo e recolher os valores devidos em decorrência da utilização do poder judiciário, embora sejam as custas processuais taxas instituídas pelo próprio Estado. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+          “Então, a par do Funjus ter autonomia administrativa e financeira, garantida pelo disposto no artigo 99 da Constituição Federal, a estrutura funcional das novas Varas oficializadas é mantida pelo “Fundo”, a partir da arrecadação das receitas elencadas no artigo 3º da Lei nº 15.942/2008, entre elas as custas processuais.
+          (…)
+          Não se pode esquecer, que a isenção das custas processuais decorre da previsão legal, nos termos dos artigos 150, § 6º da Constituição da República, e 97, VI, do Código Tributário Nacional, e não existe na Lei nº 15.942/2008 ou em ato do Funjus, previsão de isenção para a Fazenda Pública Estadual.” (eDOC. vol 6, p. 81-82)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. ALEGAÇÃO DE OFENSA AOS ARTS. 145, II, E 150, I, DA MAGNA CARTA. COBRANÇA PELO SERVIÇO DE DESARQUIVAMENTO DE AUTOS. NECESSIDADE DE EXAME DE PRECEITOS INFRACONSTITUCIONAIS DE CARÁTER LOCAL PARA A DEFINIÇÃO DE SUA NATUREZA. EVENTUAL OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL NÃO VIABILIZA MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 23.05.2012.” (ARE-AgR 737217, Rel. Min. Rosa Weber, Primeira Turma, DJe 18.3.2014)
+    No mesmo sentido, as decisões monocráticas:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CUSTAS PROCESSUAIS DEVIDAS PELO ESTADO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO”. (ARE 882185/PR, Rel. Min. Cármen Lúcia, DJe 27.4.2015)
+    RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CONDENAÇÃO DE ENTE PÚBLICO AO PAGAMENTO DE CUSTAS JUDICIAIS. LEI Nº 15.942/2008 DO ESTADO DO PARANÁ. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL APLICÁVEL À ESPÉCIE. INCIDÊNCIA DA SÚMULA Nº 280 DO STF. AGRAVO DESPROVIDO. (ARE 914503/PR, Rel. Min. Luiz Fux, DJe 5.10.2015)
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CUSTAS PROCESSUAIS DEVIDAS PELO ESTADO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.” (ARE 831160/PR, Rel. Min. Cármen Lúcia, DJe 3.4.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
