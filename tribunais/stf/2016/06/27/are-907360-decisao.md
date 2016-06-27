@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que deixou de admitir recurso extraordinário interposto em face de acórdão de Tribunal de Justiça que deu provimento a recurso de apelação, cuja ementa transcrevo:
+    AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO. NÃO CONFIGURAÇÃO. Constatada violação direta de dispositivo de lei federal (art. 71, § 1.º, da Lei n.º 8.666/93), merece ser processado o Recurso de Revista, nos termos do art. 896, “c”, da CLT. Agravo de Instrumento provido. RECURSO DE REVISTA. RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO. NÃO CONFIGURAÇÃO. Para que seja autorizada a responsabilidade subsidiária da Administração Pública pelo inadimplemento das obrigações trabalhistas por parte da empresa contratada conforme o disposto na Lei n.º 8.666/93, deve ser demonstrada a sua conduta omissiva na fiscalização do cumprimento das obrigações relativas aos encargos trabalhistas. Não estando comprovada a omissão culposa do ente público em relação à fiscalização do cumprimento das obrigações trabalhistas, não há de se falar em responsabilidade subsidiária. Recurso de Revista conhecido e provido.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a , alega-se violação aos artigos 5º, caput e inciso I; 7º, XXXII e 37, da Constituição Federal, por ofensa aos princípios da isonomia, não havendo falar em responsabilidade subsidiária do tomador dos serviços por débitos trabalhistas.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutidos nestes autos.
+    Verifica-se que no julgamento do AI 751.763, de relatoria do Ministro Cezar Peluso, DJe de 18.12.2009 (Tema 196), o Plenário desta Corte assentou que não há repercussão geral da questão que envolva a responsabilidade subsidiária de tomador de serviços, em decorrência o não-pagamento de verbas trabalhistas devidas.
+    Ante o exposto, em vista do pronunciamento do Supremo Tribunal Federal acerca do tema suscitado neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 27 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
