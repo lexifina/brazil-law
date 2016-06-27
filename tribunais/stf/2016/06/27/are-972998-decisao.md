@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fls. 22):
+    “AGRAVO REGIMENTAL – RECURSO DE APELAÇÃO C/C REEXAME NECESSÁRIO – AÇÃO DE COBRANÇA – DECISÃO MONOCRÁTICA QUE MANTEVE A INCORPORAÇÃO DA DIFERENÇA SALARIAL REFERENTE À MUDANÇA DA MOEDA – URV – DEFASAGEM – APURAÇÃO EM LIQUIDAÇÃO DE SENTENÇA DO ÍNDICE – MATÉRIA JÁ CONSOLIDADA – ALEGADA VIOLAÇÃO AO ART. 168 DA CONSTITUIÇÃO FEDERAL – INOVAÇÃO RECURSAL – NÃO CONHECIMENTO – DECISÃO MANTIA – RECURSO DESPROVIDO.
+    As arguições de teses inéditas, aventadas tão somente em sede de agravo regimental, não suscitados oportunamente nas razões do recurso de apelação, constituem inovação recursal, impossível, portanto, de ser apreciada nessa seara recursal.
+    O STJ já consolidou entendimento no sentido de que os servidores públicos federais, estaduais ou municipais – inclusive do Poder Executivo – têm direito ao acréscimo da diferença decorrente da conversão de seus vencimentos para a Unidade Real de Valor – URV, nos moldes previstos na Lei 8.880/94, levando-se em conta a data do efetivo pagamento. (…) (AgRg nos EREsp 833.666/ES, Rel. Ministro GURGEL DE FARIA, TERCEIRA SEÇÃO, julgado em 22/10/2014, DJe 03/11/2014).
+    O pleito para que a apuração do percentual seja feito em liquidação de sentença não tem cabimento, quando o índice já está consolidado na jurisprudência dos tribunais superiores.”
+    Os embargos de declaração foram rejeitados (fls. 33-36).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, ao art. 168 da Constituição Federal.
+    Sustenta-se, em suma, que a recorrida, servidora do Executivo, não tem direito à incorporação do percentual de 11,98%, visto que este é devido apenas aos servidores dos Poderes Judiciário e Legislativo e do Ministério Público, em virtude de erro na conversão dos vencimentos/proventos em URV, levando-se em conta a data do pagamento. Alega-se Ademais, em caráter alternativo, requer a reforma do acórdão recorrido para que se reconheça que eventuais diferenças oriundas da aplicação da regra de conversão sejam limitadas temporalmente, e consideradas como parcela que deverá ser compensada no futuro com os reajustes porventura recebidos pela recorrida.
+    O Tribunal de origem inadmitiu o recurso com base na inexistência de ofensa direta à Constituição Federal.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal, ao analisar o RE 561.836, Rel. Min. Luiz Fux, reconheceu a existência de repercussão geral da matéria, e, analisando o mérito da controvérsia, reconheceu o direito dos servidores à incorporação dos 11,98%, decorrentes da conversão do Cruzeiro Real em URV, quando o cálculo considera valor diverso do correspondente à data do efetivo pagamento. No referido precedente, o Ministro Relator assentou: “... apenas terão direito ao índice de 11,98%, ou a um índice calculado em um processo de liquidação, os servidores que recebem as suas remunerações no próprio mês de trabalho, tal como ocorre no âmbito do Poder Legislativo federal, do Poder Judiciário federal e do Ministério Público federal, em que o pagamento ocorre no dia 20 de cada mês.” No caso em exame, o Tribunal de origem não consignou no acórdão recorrido a data do pagamento da ora recorrida.
+    Verifica-se que eventual divergência em relação às conclusões do acórdão recorrido demandaria o reexame de fatos e provas, o que encontra óbice na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
