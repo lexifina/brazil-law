@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Fundação Biblioteca Nacional. Aparelhado o recurso na violação dos arts. 40 e 150, I e II, da Constituição Federal, bem como do art. 11 da Emenda Constitucional nº 20/1998.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido da impossibilidade de acumulação de dois proventos de aposentadoria fora das hipóteses previstas no texto constitucional, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    "Agravo regimental no recurso extraordinário com agravo. 2. Direito Administrativo. Servidor público. Dupla acumulação de proventos. Impossibilidade. 3. Vedação pelas Constituições Federais de 1967 e 1988. Admitidas apenas as hipóteses previstas no texto constitucional, entre as quais não se inclui o caso dos autos. 4. Interpretação restritiva do art. 11 da EC 20/98. 5. Agravo regimental a que se nega provimento.” (ARE 904128 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 20/10/2015, PROCESSO ELETRÔNICO DJe-247 DIVULG 07-12-2015 PUBLIC 09-12-2015)
+    "AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ACUMULAÇÃO TRÍPLICE. PROVENTOS E VENCIMENTOS. IMPOSSIBILIDADE. PRECEDENTES. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a permissão constante do art. 11 da EC 20/1998 deve ser interpretada de forma restritiva. Ou seja, somente é possível a acumulação de dois cargos públicos, ainda que inacumuláveis, sendo vedada, em qualquer hipótese, a acumulação tríplice de remuneração, sejam proventos ou vencimentos. Precedentes. 2. Agravo regimental a que se nega provimento.” (RE 237535 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 07/4/2015, ACÓRDÃO ELETRÔNICO DJe-075 DIVULG 22-04-2015 PUBLIC 23-4-2015)
+    Verifico, por seu turno, que a matéria relacionada à restituição de valores descontados a título de contribuição previdenciária recolhida indevidamente não alcança estatura constitucional. Nesse sentido:
+    “RECURSO. Extraordinário. Inadmissibilidade. Contribuição previdenciária declarada inconstitucional. Valores descontados compulsoriamente. Restituição. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto o direito de servidores públicos estaduais à restituição de valores descontados compulsoriamente a título de contribuição previdenciária declarada inconstitucional, versa sobre tema infraconstitucional.” (RE 633329 RG, Relator(a): Min. MINISTRO PRESIDENTE, julgado em 26/5/2011, DJe-167 DIVULG 30-8-2011 PUBLIC 31-08-2011 EMENT VOL-02577-01 PP-00126 )
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de junho de 2016.
+Ministra Rosa Weber
+Relatora
