@@ -1,0 +1,45 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município do Rio de Janeiro contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “AGRAVO INTERNO. APELAÇÃO CÍVEL. CONCURSO PÚBLICO MUNICIPAL. FISCAL DE RENDAS. APROVAÇÃO PARA VAGAS DESTINADAS A PORTADORES DE NECESSIDADES ESPECIAIS. VISÃO MONOCULAR.
+    Agravo Interno contra decisão monocrática proferida com base no artigo 557, ‘caput’ do CPC, mantendo a improcedência do pedido do Ente.
+    Candidato aprovado em concurso realizado pelo Município do Rio de Janeiro para o cargo de fiscal de rendas, dentro das vagas destinadas para portador de necessidades especiais.
+    Laudo pericial constatando a presença de visão monocular.
+    Assegurado o direito do portador de visão monocular de concorrer às vagas destinadas aos deficientes.
+    A deficiência, para o provimento de vagas específicas em concurso público, deve se caracterizar pela impossibilidade ou dificuldade de acesso ao mercado de trabalho, em virtude da deficiência.
+    RECURSO DESPROVIDO.”
+    A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 2º e 37, I e II, da Constituição da República.
+    Cumpre ressaltar que a jurisprudência do Supremo Tribunal Federal tem reiteradamente enfatizado que, em princípio, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição (RTJ 147/251 – RTJ 159/328 – RTJ 161/284 – RTJ 170/627- -628 – AI 126.187-AgR/ES, Rel. Min. CELSO DE MELLO – AI 153.310- -AgR/RS, Rel. Min. SYDNEY SANCHES – AI 185.669-AgR/RJ, Rel. Min. SYDNEY SANCHES – AI 192.995-AgR/PE, Rel. Min. CARLOS VELLOSO – AI 257.310-AgR/DF, Rel. Min. CELSO DE MELLO – RE 254.948/BA, Rel. Min. SEPÚLVEDA PERTENCE, v.g.), o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária.
+    A espécie ora em exame não foge aos padrões acima mencionados, refletindo, por isso mesmo, possível situação de ofensa indireta às prescrições da Carta Política, circunstância essa que impede – como precedentemente já enfatizado – o próprio conhecimento do recurso extraordinário (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO).
+    Cumpre registrar, de outro lado, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula de edital, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contêm nas Súmulas 279/STF e 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado do Rio de Janeiro, ao manter, em sede de agravo interno na apelação cível, a sentença por seus próprios fundamentos, sustentou as suas conclusões em aspectos fático-probatórios e em cláusula de edital, a seguir destacados:
+    “Tornou-se incontroverso que o Autor, ora Agravado, possui visão monocular – conforme conclusão em laudo pericial – e que foi excluído do certame porque tal circunstância não é considerada suficiente a justificar seu ingresso no serviço público nas vagas destinadas a portadores de necessidades especiais e a prova produzida nos autos constata a sua limitação no desempenho das atividades laborativas.
+    …...................................................................................................
+    Ademais, informa o Edital que o concurso ao qual se submeteu o Autor disponibiliza 02 (duas) vagas para deficientes, referente ao cargo de Fiscal de Rendas (fls. 41, eJUD 41), tendo ele sido aprovado no certame em 1º lugar (eJUD 62), portanto, inserido no número de vagas informado pelo Ente, possuindo direito à nomeação.”
+    Vê-se, portanto, que a pretensão deduzida pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONCURSO PÚBLICO. RESERVA DE VAGA PARA DEFICIENTE. ART. 37, VIII, DA CONSTITUIÇÃO FEDERAL.
+    1. A reserva de vagas em concurso público destinadas aos portadores de deficiência é garantia da norma do art. 37, VIII, da Constituição Federal.
+    2. Analisar a alegada ofensa à norma constitucional para alterar a conclusão do Tribunal de origem demandaria o reexame dos fatos e das provas da causa, inviável em sede extraordinária. Súmula STF 279.
+    3. Agravo regimental improvido.”
+    (AI 777.391-AgR/RO, Rel. Min. ELLEN GRACIE)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. COMPROVAÇÃO DE DEFICIÊNCIA PARA FINS DE OCUPAÇÃO DE VAGA DESTINADA AOS PORTADORES DE NECESSIDADES ESPECIAIS. VISÃO MONOCULAR. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF.
+    1. O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso extraordinário, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo o óbice da Súmula 282 do Supremo Tribunal Federal.
+    2. A violação indireta ou reflexa das regras constitucionais não enseja recurso extraordinário. Precedentes: AI n. 738.145-AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 25.02.11; AI n. 482.317-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma DJ 15.03.11; AI n. 646.103-AgR, Rel. Ministra CÁRMEN LÚCIA, 1ª Turma, DJ 18.03.11.
+    3. A Súmula 279/STF dispõe ‘verbis’: ‘Para simples reexame de prova não cabe recurso extraordinário’.
+    4. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    5. ‘In casu’, o acórdão originariamente recorrido assentou: ‘AGRAVO INTERNO. Apelação Cível que enquadrou a hipótese à regra do art. 557 do CPC, negando seguimento ao recurso manifestamente improcedente. Agravo interno buscando a reforma da decisão prolatada. Razões de recurso falto de juridicidade e a infirmá-lo. Decisão confirmada. Desprovimento do agravo.’
+    6. Agravo regimental desprovido.”
+    (ARE 658.703-AgR/RJ, Rel. Min. LUIZ FUX)
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Concurso público. Princípios do contraditório e da ampla defesa. Repercussão geral. Inexistência. Caracterização de deficiência de candidato. Fatos e provas. Cláusulas editalícias. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+    1. Ausência de repercussão geral do tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, da inafastabilidade da jurisdição e do devido processo legal (ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13).
+    2. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame das cláusulas de edital de concurso público, bem como dos fatos e das provas dos autos. Incidência das Súmulas nºs 280, 454 e 279 do STF.
+    3. Agravo regimental não provido.”
+    (ARE 911.584-AgR/RR, Rel. Min. DIAS TOFFOLI)
+    Os precedentes que venho de referir guardam inteira pertinência com a legislação processual que se achava em vigor no momento em que ocorrida a publicação do ato questionado no apelo extremo (“tempus regit actum”).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 27 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
