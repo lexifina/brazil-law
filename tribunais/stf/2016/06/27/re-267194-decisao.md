@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    O recurso extraordinário de fls. 216/236, versa sobre a correção monetária das demonstrações financeiras durante os anos base de 1989 e 1990, exercícios de 1990 e 1991. O Tribunal Regional Federal da Quarta Região, exercendo o juízo de retratação, entendeu por bem dar parcial provimento à remessa oficial para determinar a “aplicação do IPC, no percentual de 42,72% em janeiro de 1989, com reflexo de 10,14% em fevereiro de 1989”. Em relação ao ano base de 1990, exercício de 1991, todavia, deixou o Tribunal de exercer o juízo de retratação, sob o fundamento de que
+    “Embora o enunciado do Tema nº 311, afirme se tratar de correção monetária das demonstrações financeiras das pessoas jurídicas do ano-base de 1990, resta claro que os julgados dizem respeito à correção monetária aplicável às demonstrações financeiras do ano-base de 1989, haja vista que era desse período que tratavam os artigos de lei declarados inconstitucionais.”
+    Decido.
+    O Plenário da Corte, no julgamento do Recurso Extraordinário nº 208.526/RS, Relator o Ministro Marco Aurélio , no dia 20/11/13, por maioria, deu provimento ao recurso extraordinário para declarar a inconstitucionalidade do artigo 30, § 1º, da Lei nº 7.730/89, e do artigo 30, caput , da Lei nº 7.799/89, bem como determinou a aplicação do resultado do julgamento ao regime da repercussão geral reconhecida no RE nº 242.689/PR, Relator o Ministro Gilmar Mendes, o qual trata do índice a ser aplicado no ano-base de 1990.
+    Na ocasião, a Corte decidiu no sentido de reconhecer o direito à parte recorrente à correção monetária nos termos da legislação revogada, sob o fundamento de que o distanciamento entre o índice fixado em lei e aquele que efetivamente refletiu a inflação do período causou uma disparidade muito grande quando da atualização das demonstrações financeiras com reflexos na apuração do lucro e consequentemente no valor do tributo a pagar, ocasionando a tributação de um lucro fictício. Consequentemente, declarou a inconstitucionalidade das referidas normas legais, sob o fundamento de que elas não resistiriam a um juízo de razoabilidade e de proporcionalidade, considerando o distanciamento muito grande entre o BTN e o IPC, do período discutido.
+    Evidente que a Corte, ao determinar a aplicação do resultado do julgamento ao regime da repercussão geral da matéria constitucional reconhecida no RE nº 242.689/PR (Tema 311), decidiu por aplicar os fundamentos do RE nº 208.526/RS, também para o ano base de 1990, reconhecendo, dessa forma, o direito de o contribuinte utilizar o índice do IPC como indexador da correção monetária das demonstrações financeiras do balanço relativo ao ano base de 1990, em vez do índice BTNF, estabelecido pelo art. 1º da Lei nº 8.080/90.
+    No mesmo sentido: RE nº 971.663/RS, de minha relatoria, Dje de 13/6/16; RE nº 849.093/SP, Rel. Min. Luiz Fux, Dje de 3/12/14;
+    Ante o exposto, dou provimento ao recurso extraordinário para conceder a segurança, nos termos da letra “b” do pedido inicial.
+    Sem Honorários advocatícios, a teor da Súmula 512/STF. Custas, na forma da lei.
+    Publique-se.
+    Brasília, 27 de junho de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
