@@ -1,0 +1,19 @@
+Vistos etc.
+    1. Trata-se de ação direta de inconstitucionalidade proposta em face da Medida Provisória nº 703, de 18 de dezembro de 2015, que alterava diversos dispositivos da Lei nº 12.846/2013 (Lei Anticorrupção) dispondo sobre acordos de leniência (arts. 15, 16, I, II, III e IV, § 1º, II e IV, § 2º, I, II e III, e §§ 4º, 9º, 11, 12, 13 e 14, 17, 17-A, 17-B, 18, 20, parágrafo único, 25, §§ 1º e 2º, 29, §§ 1º e 2º, e 30, I, II e III), além de revogar o art. 17, § 1º, da Lei nº 8.429/1992 e o art. 16, § 1º, I, da Lei nº 12.846/2013.
+    Requerida pelos autores a declaração da inconstitucionalidade material e formal da íntegra do diploma normativo atacado, em face do art. 62 da Constituição da República.
+    2. Foram apresentadas informações preliminares pela Senhora Presidente da República, nos moldes do art. 10 da lei nº 9.868/1999.
+    3. O Advogado-Geral da União apresentou defesa e a Procuradora-Geral da República em exercício, Dra. Ela Wiecko Volkmer de Castilho, emitiu parecer pela concessão da medida cautelar a fim de suspender a eficácia de toda a Medida Provisória nº 703/2015.
+    É o relatório.
+    Decido.
+    4. A presente ação direta de inconstitucionalidade tem como objeto, nos termos do pedido deduzido, a declaração da inconstitucionalidade do inteiro teor da Medida Provisória nº 703/2015.
+    5. Publicada no DOU de 21.12.2015, a medida provisória impugnada na presente ação direta não logrou ser convertida em lei no prazo previsto no art. 62, §§ 3º e 7º, da Constituição da República. Em consequência, teve a sua vigência encerrada no dia 29.5.2016, consoante formalizado no Ato Declaratório nº 27/2016 do Presidente da Mesa do Congresso Nacional, nos seguintes termos:
+    “O PRESIDENTE DA MESA DO CONGRESSO NACIONAL, nos termos do parágrafo único do art. 14 da Resolução nº 1, de 2002-CN, faz saber que a Medida Provisória nº 703, de 18 de dezembro de 2015, publicada no Diário Oficial da União no dia 21, do mesmo mês e ano, que ‘Altera a Lei nº 12.846, de 1º de agosto de 2013, para dispor sobre acordos de leniência’, teve seu prazo de vigência encerrado no dia 29 de maio do corrente ano.”
+    6. A jurisprudência desta Suprema Corte é firme no sentido de que a extinção da vigência da norma impugnada, após o ajuizamento da ação direta de inconstitucionalidade, acarreta a perda superveniente do seu objeto, independentemente da existência de efeitos residuais concretos dela decorrentes. Isso porque, vocacionada essa espécie de ação constitucional a assegurar a higidez da ordem jurídica vigente, o interesse na tutela judicial pressupõe, em consequência, ato normativo em vigor. Confira-se:
+    “Ação direta de inconstitucionalidade. 2. Lei 15.227/2006 do Estado do Paraná objeto de fiscalização abstrata. 3. Superveniência da Lei estadual 15.744/2007 que, expressamente, revogou a norma questionada. 4. Remansosa jurisprudência deste Tribunal tem assente que sobrevindo diploma legal revogador ocorre a perda de objeto. Precedentes. 5. Ação direta de inconstitucionalidade prejudicada.” (ADI 3885/PR, Relator Ministro Gilmar Mendes, Tribunal Pleno, DJe 28.6.2013)
+    No mesmo sentido: ADI 5427/DF (Relator Ministro Edson Fachin, decisão monocrática, DJe 19.4.2016); ADI 4240/MS (Relator Ministro Edson Fachin, decisão monocrática, DJe 05.11.2015); ADI 4379-AgR/MT (Relator Ministro Gilmar Mendes, decisão monocrática, DJe 04.11.2015); ADI 5116/DF (Relatora Ministra Cármen Lúcia, decisão monocrática, DJe 01.10.2015); ADI 4665/DF (Relator Ministro Teori Zavascki, decisão monocrática, DJe 03.08.2015); ADI 4035/DF (Relatora Ministra Rosa Weber, decisão monocrática, DJe 27.6.2013).
+    7. Ante o exposto, julgo prejudicada a presente ação direta de inconstitucionalidade (art. 21, IX, do RISTF), por perda superveniente do seu objeto, extinguindo o processo sem resolução do mérito.
+    À Secretaria Judiciária.
+    Publique-se.
+    Brasília, 27 de junho de 2016.
+Ministra Rosa Weber
+Relatora
