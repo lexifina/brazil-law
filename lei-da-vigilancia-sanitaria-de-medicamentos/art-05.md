@@ -1,5 +1,6 @@
-Art. 5º - Os produtos de que trata esta Lei não poderão ter nomes ou designações que induzam a erro.
+Art. 5º Os produtos de que trata esta Lei não poderão ter nomes, designações, rótulos ou embalagens que induzam a erro.
 § 1º - É vedada a adoção de nome igual ou assemelhado para produtos de diferente composição, ainda que do mesmo fabricante, assegurando-se a prioridade do registro com a ordem cronológica da entrada dos pedidos na repartição competente do Ministério da Saúde, quando inexistir registro anterior.
 § 2º - Poderá ser aprovado nome de produto cujo registro for requerido posteriormente, desde que denegado pedido de registro anterior, por motivos de ordem técnica ou científica.
 § 3º - Comprovada a colidência de marcas, deverá ser requerida a modificação do nome ou designação do produto, no prazo de 90 (noventa) dias da data da publicação do despacho no "Diário Oficial" da União, sob pena de indeferimento do registro.
 § 4º - Sem prejuízo do disposto neste artigo, os medicamentos contendo uma única substância ativa sobejamente conhecida, a critério do Ministério da Saúde, e os imunoterápicos, drogas e insumos farmacêuticos deverão ser identificados pela denominação constante da Farmacopéia Brasileira, não podendo, em hipótese alguma, ter nomes ou designações de fantasia.
+§ 5º Ficam incluídos entre os erros mencionados no caput os de dispensação e de administração de medicamentos, drogas e produtos correlatos.
