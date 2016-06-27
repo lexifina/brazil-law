@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE ESGOTAMENTO DA VIA RECURSAL ORDINÁRIA: SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “AÇÃO REVISIONAL DE CONTRATO BANCÁRIO C.C. REPETIÇÃO DE INDÉBITO - CÓDIGO DE DEFESA DO CONSUMIDOR - Aplicação das disposições do Código de Defesa do Consumidor diante da existência de relação de consumo.
+    JUROS ABUSIVOS - Liberdade de contratar das partes, certo que o apelante conhecia as cláusulas contratuais - ‘Pacta sunt servanda’ não revogado pelo Código de Defesa do Consumidor - Limitação à taxa média de mercado.
+    COMISSÃO DE PERMANÊNCIA - Legalidade da cobrança desde que não cumulada com juros remuneratórios, moratórios, correção monetária e multa, bem como limitada à taxa de juros prevista em contrato.
+    CAPITALIZAÇÃO - Afirmação do apelante quanto a sua existência - Instituição financeira que defende a utilização do sistema de amortização, denominado Sistema Francês, conhecido como Tabela Price - Ilegalidade diante da incorporação de juros capitalizados - Afastamento ante a vedação legal, sendo somente admitida a capitalização anual.
+    ABUSIVIDADE NA COBRANÇA DE TARIFA DE ABERTURA DE CADASTRO (TAC) EIOF (Imposto sobre Operações Financeiras) - Afastamento - Apelante que sabia da cobrança do referido encargo, uma vez que previsto no contrato entabulado - Ausência de demonstração de vantagem exagerada do agente financeiro - Legalidade para cobrança das tarifas / bancárias - Precedentes deste E. Tribunal de Justiça e/ do Colendo STJ.
+    REPETIÇÃO DE INDÉBITO - Eventual devolução deverá se dar de forma simples e não em dobro porque ausente o dolo - Disposições contidas no artigo 42, parágrafo único, do Código de Defesa do Consumidor devem ser vistas em cotejo com o que dispõe o artigo 71, do mesmo Código.
+    Recurso Parcialmente Provido”.
+    2. Inadmitiu-se o recurso extraordinário ao fundamento de incidência da Súmula n. 281 do Supremo Tribunal Federal.
+    3. O Agravante afirma ter o Tribunal de origem contrariado o art. 5º da Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. Este Supremo Tribunal assentou ser a decisão possibilitadora do recurso extraordinário aquela proferida em única ou última instância, conforme o disposto no inc. III do art. 102 da Constituição da República, sendo necessário o esgotamento da jurisdição na origem.
+    Na espécie vertente, o recurso extraordinário foi interposto contra julgado da 16º Câmara de Direito Privado do Tribunal de Justiça de São Paulo, que, por maioria, deu provimento ao recurso, reformando a sentença, quando seria cabível ainda a interposição de embargos infringentes (art. 530, do Código de Processo Civil de 1973). Incide na espécie a Súmula n. 281 do Supremo Tribunal Federal:
+    “RECURSO. Embargos de declaração. Caráter infringente. Embargos recebidos como agravo. Extraordinário. Exaurimento das instâncias ordinárias. Não ocorrência. Agravo regimental não provido. Súmula 281. Não se admite recurso extraordinário quando ainda cabível a interposição de recurso nas instâncias ordinárias” (AI n. 834.172-ED/SP, Relator o Ministro Cezar Peluso, Plenário, DJe 16.8.2011).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. TRABALHISTA. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. CAUSA DE ALÇADA: INCIDÊNCIA DA SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 648.279-ED, de minha relatoria, Primeira Turma, DJe 10.11.2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DECISÃO IMPUGNADA. MONOCRÁTICA. AUSÊNCIA DE ESGOTAMENTO DA VIA RECURSAL ORDINÁRIA. SÚMULA 281 DO STF. AGRAVO IMPROVIDO. I – Recurso extraordinário interposto contra decisão monocrática em embargos de declaração. Não esgotamento da via recursal ordinária (Súmula 281 do STF). II – Agravo regimental improvido” (ARE n. 656.132-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 16.11.2011).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO CONTRA DECISÃO MONOCRÁTICA SUSCETÍVEL DE IMPUGNAÇÃO NA VIA ORDINÁRIA. ESGOTAMENTO DE INSTÂNCIA. INOCORRÊNCIA. ÓBICE SÚMULA 281 DO SUPREMO TRIBUNAL FEDERAL. 1. É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada. Precedentes: AI 757.161-ED, 2ª Turma, Rel. Min. Ellen Gracie, Dje de 12.04.2011 e AI 814.970, 1ª Turma, Rel. Min. Ricardo Lewandowski, Dje de 23.02.2011. 2. In casu, o recurso extraordinário foi interposto contra decisão monocrática que negou seguimento à apelação. Caberia, portanto, a interposição de agravo interno para suscitar a manifestação do órgão colegiado da Corte de origem. 3. Agravo regimental a que se nega provimento” (AI n. 797.148-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 23.8.2011).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    6. Pelo exposto, nego seguimento ao agravo (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de junho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
