@@ -1,0 +1,14 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “Ação anulatória de lançamento tributário. IPTU progressivo no tempo art. 182, §4º, da CF, regulamentado pela Lei Federal nº 10.257/01 (Estatuto da Cidade) inexistência de plano diretor municipal e de lei específica impondo o aproveitamento do solo não edificado. Sentença extra petita na parte em que condenou o Município à repetição do indébito pedido não formulado pelos autores na inicial. Anulação parcial do julgado, na parte atinente à repetição. Nega-se provimento ao recurso, julgando-se prejudicados os pedidos relacionados à repetição. Outrossim, anula-se de ofício a sentença na parte que condenou o Município à devolução dos valores, nos termos do acórdão.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 156, §1º e 182, §4º, da Carta. A parte recorrente sustenta: (i) a legalidade das alíquotas progressivas e da Lei nº 10.257/2001; (ii) que o Município instituiu IPTU progressivo consoante o plano diretor da cidade. Defende a possibilidade de progressão fiscal e extrafiscal do IPTU.
+    A pretensão recursal não merece prosperar. O acórdão recorrido afastou a progressividade aduzindo que o Município não observou os requisitos previstos na Constituição Federal e na Lei nº 10.257/2001. Asseverou que o recorrente não efetivou as condições necessárias para a cobrança do IPTU progressivo em relação aos imóveis dos quais a parte recorrida é proprietária. No caso dos autos, o Tribunal de origem consignou o seguinte:
+    “No caso dos autos, não há prova da existência de plano diretor municipal, nem de lei específica impondo ao autor o aproveitamento do solo urbano não edificado. Logo, a sentença de procedência da ação era mesmo de rigor.
+    No mais, a parte da sentença que condenou o Município à repetição do indébito deve ser anulada. Com efeito, verifica-se que tal condenação foi extra petita.
+    Compulsando os autos, denota-se que, da petição inicial da ação anulatória (fls. 2/14) não houve qualquer pedido ou menção a respeito da repetição. Assim, não poderia o juiz impor de ofício, tal gravame ao réu.”
+    O Município manejou recurso extraordinário narrando realidade contraposta ao cenário fático descrito pelo acórdão recorrido. Ressalto que o acolhimento da pretensão recursal nos termos propostos pelo recorrente demandaria uma nova análise do acervo fático e probatório do feito. Sem proceder a uma nova apreciação das provas não seria possível dissentir do acórdão recorrido quanto ao efetivo atendimento das exigências sucessivas prescritas pela Lei nº 10.257/2001. Revela-se aplicável ao caso a Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de junho de 2016,
+Ministro Luís Roberto Barroso
+Relator
