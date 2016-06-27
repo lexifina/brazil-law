@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Acre que, em ação revisional de contrato de mútuo, deu parcial provimento à apelação para declarar indevida a capitalização de juros, por ausência de cláusula contratual específica, afastar a incidência da comissão de permanência e determinar a devolução simples dos valores cobrados indevidamente.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos artigos 3º. II; 5º, II, XXXV e LIV, da Constituição Federal, por violação dos princípios da legalidade, do ato jurídico perfeito e da proporcionalidade, além de indicar afronta ao desenvolvimento nacional.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Inicialmente, verifica-se que, no exame do ARE 640.713, de relatoria do Ministro Cezar Peluso, DJe de 22.09.2011 (Tema 461), esta Corte entendeu inexistir repercussão geral nas causas que envolvam discussão sobre a legalidade de cláusulas previstas em contratos regidos pelo Código de Defesa do Consumidor, tal como o caso dos autos.
+    Ademais, o Plenário do Supremo Tribunal Federal, ao julgar o ARE-RG 675.505, de relatoria do Min. Gilmar Mendes, DJe de 1º.08.13, decidiu pela inexistência de repercussão geral do Tema 614, o qual versa sobre a cobrança de tarifas e taxas acessórias, vinculadas a contratos bancários como, por exemplo, de abertura de crédito, de retorno, de emissão de boleto, entre outras, por não se tratar de matéria constitucional, como acontece na presente hipótese.
+    Por fim, ao julgar o RE-RG 950.787, em 28.04.2016 (Tema 890), o Plenário deste Tribunal afirmou não existir repercussão geral nos casos em que a alegada ofensa aos princípios constitucionais da dignidade da pessoa humana, da legalidade, da propriedade e sua função social ocorre de forma genérica, exigindo interpretação das normas infraconstitucionais e revolvimento do conjunto fático-probatório dos autos, o que torna inadmissível o processamento do recurso extraordinário.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 27 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
