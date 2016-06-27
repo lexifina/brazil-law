@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO DECLARATÓRIA C.C. REPETIÇÃO DE INDÉBITO – IMUNIDADE CULTURAL – ART. 150, VI, “d” DA CF.
+    Sentença de improcedência. Imunidade Objetiva, que visa impedir tão somente a cobrança dos impostos diretamente incidentes sobre livros, jornais, periódicos e o papel destinado a sua impressão.
+    Apelação não provida.” (eDOC 2, p. 167)
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 150, VI, “d”, da Constituição Federal.
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o recurso extraordinário por intempestivo (eDOC 3, p. 102).
+    É o relatório. Decido.
+    Observo a intempestividade do recurso extraordinário, porquanto interposto em 16.11.2011 (eDOC 3, p. 53), ao passo que a publicação do acórdão recorrido ocorreu em 03.11.2010 (eDOC 2, p. 176).
+    Consigna-se que esta Corte possuiu entendimento, segundo o qual a interposição de embargos infringentes, quando incabíveis, não suspendem ou interrompem o prazo para interposição de recurso extraordinário.
+    Nesse sentido, cito os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS. INTERPOSIÇÃO DE EMBARGOS INFRINGENTES MANIFESTAMENTE INCABÍVEIS NA ORIGEM. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. MULTA DO ARTIGO 557, § 2º, DO CPC. APLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 943.198 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 20.04.2016)
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. EMBARGOS INFRINGENTES MANIFESTAMENTE INCABÍVEIS OPOSTOS CONTRA ACÓRDÃO DO TRIBUNAL SUPERIOR DO TRABALHO. NÃO INTERRUPÇÃO DO PRAZO DO RECURSO EXTRAORDINÁRIO. INTEMPESTIVIDADE DO APELO EXTREMO. PRESSUPOSTOS DE CABIMENTO DE RECURSOS ANTERIORES, INTERPOSTOS PERANTE OUTROS TRIBUNAIS. OFENSA CONSTITUCIONAL REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL. RE 598.365 (REL. MIN. AYRES BRITTO, TEMA 181) E ARE 748.371 (REL. MIN. GILMAR MENDES, TEMA 660). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 788.559 ED, Rel. Min. Teori Zavascki, Segunda Turma, DJe 16.09.2014)
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Embargos infringentes opostos contra acórdão do Tribunal de Justiça do Estado de São Paulo. Hipóteses de cabimento afastadas na origem. Intempestividade do recurso extraordinário. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. A jurisprudência da Corte é no sentido de que os embargos infringentes, quando manifestamente incabíveis, não interrompem ou suspendem o prazo para a interposição do recurso extraordinário. 3. Agravo regimental não provido.” (ARE 771.388 ED, Rel. Min. Dias Toffoli, Primeira Turma, DJe 19.12.2013)
+    “PROCESSUAL CIVIL. APELAÇÃO EM MANDADO DE SEGURANÇA. EMBARGOS INFRINGENTES. NÃO-CABIMENTO. INCIDÊNCIA DA SÚMULA 597 DO SUPREMO TRIBUNAL FEDERAL. INTEMPESTIVIDADE DO recurso EXTRAORDINÁRIO. De acordo com a jurisprudência desta Corte, a interposição de embargos infringentes quando incabíveis, não suspende nem interrompe o prazo para a apresentação do recurso extraordinário. No presente caso, os embargos infringentes são incabíveis nos termos da Súmula 597 desta Corte, que dispõe que "não cabem embargos infringentes de acórdão que, em mandado de segurança decidiu, por maioria de votos, a apelação." Assim, é intempestivo o recurso extraordinário, porquanto interposto após o decurso do prazo legal. Agravo regimental a que se nega provimento” (AI nº 606.085/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 31/10/07).”
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 27 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
