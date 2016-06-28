@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo contra inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa dispõe:
+    “Apelação Cível. Plano de saúde. Ação declaratória de inexistência de débito e reconvenção. Sentença que julgou a demanda principal improcedente e a reconvenção parcialmente procedente. Juízo "a quo" analisou corretamente as questões suscitadas e o conjunto probatório. Incidência do artigo 252 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo. Desnecessária repetição dos adequados fundamentos expendidos pela sentença recorrida. Recursos improvidos”. (eDOC 5, p. 128)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação ao artigo 5º, II e XXXV, do texto constitucional.
+    Nas razões recursais, alega-se que a recorrida não cumpriu suas obrigações contratuais.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, bem como interpretar cláusulas contidas em contrato firmado entre as partes, consignou a deficiência no serviço prestado pela recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Examinando os autos, verifica-se que a r. sentença recorrida analisou corretamente as questões suscitadas, e avaliou com propriedade o conjunto probatório, razão pela qual resiste claramente às críticas que lhe são dirigidas nas razões recursais.
+    Ora, a prova testemunhal corroborou a prestação dos serviços, todavia, a prestação não foi integral, houve o atendimento em somente alguns casos de emergência de funcionários, motivo pelo qual, o entendimento da magistrada ‘a quo’ de que a contraprestação não pode ser realizada de forma integral deve prevalecer.
+    Desta feita, a manutenção da r. sentença é medida que se impõe.
+    Nesse sentido, irretocável o entendimento da eminente juíza Simone Cristina de Oliveira Souza da Silva, cujos fundamentos merecem aqui repetidos:
+    (…)
+    Quanto à prestação do serviço a prova testemunhal é suficiente para sua demonstração cabal. Contudo, no que se refere à quitação dos valores cobrados, o pagamento de dívidas é prova formal que somente admite o recibo de quitação como forma de demonstração de sua ocorrência. Em não existindo a prestação de serviço após a suspensão da prestação do serviço, a controvérsia cingir-se-ia à interpretação de cláusula contratual, mais especificamente a de nº 13.3, conforme fls. 126 dos autos, da qual se infere o direito da contratada de suspensão da execução contratual sem previsão quanto à continuidade da contraprestação do pagamento devido pela contratante (…)”. (eDOC 5, p. 130-131)
+    Assim, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Sobre o tema, confiram-se os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Direito do Consumidor. Plano de saúde coletivo. Rescisão unilateral. Alegação de violação do ato jurídico perfeito. Cláusulas contratuais. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. O Supremo Tribunal Federal firmou o entendimento de que o conceito dos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada não se encontra na Constituição Federal, mas na legislação ordinária. 2. Inadmissível, em recurso extraordinário, a análise do conjunto fático-probatório dos autos, das cláusulas do contrato firmado entre os litigantes e da legislação infraconstitucional pertinente. Incidência das Súmulas nºs 279, 454 e 636/STF. 3. Agravo regimental não provido”. (ARE-AgR 945.727, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 2.5.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PLANO DE SAÚDE. CUSTEIO DE DESPESAS PARA COBERTURA DE TRATAMENTO MÉDICO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS Nº 279 E Nº 454 DO STF. OFENSA AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. INOCORRÊNCIA. ANTECIPAÇÃO DE TUTELA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA Nº 735 DO STF. AGRAVO REGIMENTAL DESPROVIDO”.(ARE-AgR 922.415, Rel. Min. LUIZ FUX, Primeira Turma, DJe 2.6.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
