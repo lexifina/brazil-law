@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. COMPRA E VENDA PELA INTERNET. RESTITUIÇÃO DE VALORES. VIOLAÇÃO AO ARTIGO 93, IX, DA CF. INEXISTÊNCIA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO NO MÁXIMO LEGAL. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “APELAÇÃO CÍVEL - AÇÃO DE CONHECIMENTO - ARGUMENTAÇÃO DEDUTIVA – APLICAÇÃO CORRETA DA LEI AO FATO - OBSERVÂNCIA DOS PRINCÍPIOS DA DEMANDA E DA CONGRUÊNCIA - DECISUM DOTADO DE CLAREZA E PRECISÃO - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+    Deve ser confirmada pelos seus próprios e jurídicos fundamentos, nos termos do art. 46, da Lei n. 9.099/96, a sentença dotada de argumentação dedutiva que aplica corretamente a lei ao fato, não se podendo falar em inconstitucionalidade do permissivo legal de julgamento já que ‘não causa ofensa à Constituição a decisão adotante das razões de julgar do ato recorrido’ (STJ – 3º T., Ag 16.157- SP, rel. Min. Cláudio Santos, j. 10.03.92, v.U., DJU 17.12.92, p. 24.242). Ademais, não se verifica ofensa aos princípios da demanda e da congruência, a sentença se apresenta intelegível e insuscetível de interpretações ambíguas ou equívocas, bem como dirime as controvérsias trazidas em juízo, sendo certo que ‘é entendimento assente de nossa jurisprudência que o órgão jurisdicional, para expressar sua convicção, não precisa aduzir comentários sobre todos os argumentos levantados pelas partes’ (STJ – 1° T., AL 169/073-SP – ArRg., rel. Min. José Delgado, j. 04.06.98, v.U., DJU 17.08.98, p. 44).”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que não houve o devido prequestionamento.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição Federal).
+    Relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de nova sucumbência. Contudo, por ter havido condenação ao pagamento de honorários advocatícios no máximo legal no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015, neste grau recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC, c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de junho de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
