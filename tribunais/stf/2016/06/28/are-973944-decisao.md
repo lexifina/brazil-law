@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MULTA ADMINISTRATIVA. INFRAÇÃO CONTRATUAL. ALEGADA VIOLAÇÃO AOS ARTIGOS 37 E 93, IX, DA CONSTITUIÇÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interpostos pela Companhia Distribuidora de Gás do Rio de Janeiro – CEG, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo constitucional, contra acórdão o da 5ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “APELAÇÃO CÍVEL. PROCEDIMENTO SUMÁRIO. COMPANHIA DISTRIBUIDORA DE GÁS DO RIO DE JANEIRO – CEG. IMPOSIÇÃODE MULTA ADMINISTRATIVA POR AGÊNCIA REGULADORA - AGENERSA. PEDIDO DE ANULAÇÃO. ARGUIÇÃO DE AUSÊNCIA DE ILÍCITO ADMINISTRATIVO, INVALIDADE DO PROCEDIMENTO QUE ATRIBUIU A RESPONSABILIDADE, E DESPROPORCIONALIDADE NA SANÇÃO APLICADA. SENTENÇA DE IMPROCEDÊNCIA.
+    - DESCUMPRIMENTO DE DEVER JURÍDICO PREVISTO NO CONTRATO DE CONCESSÃO.
+    - SANÇÃO APLICADA DE FORMA PROPORCIONAL, COM FUNDAMENTO EM INSTRUÇÃO NORMATIVA.
+    - REPARAÇÃO INTEGRAL DO DANO QUE NÃO EXCLUI A PRETENSÃO PUNITIVA DA AGÊNCIA REGULADORA POR CONTA DO ATO ILÍCITO PRATICADO PELA CONCESSIONÁRIA.
+    - PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO RESPEITADOS.
+    - PERCENTUAL FIXADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS QUE MERECE REDUÇÃO. RECURSO CONHECIDO AO QUAL SE DÁ PARCIAL PROVIMENTO”.
+    Nas razões de apelo extremo, alega violação aos artigos 37 e 93, IX, da Constituição Federal.
+    O Tribunal de origem negou seguimento ao recurso extraordinário por não vislumbrar ofensa direta à Constituição Federal.
+    É o relatório. DECIDO .
+    O recurso não merece prosperar.
+    Ab initio, quanto às alegações de desproporcionalidade da multa ou de inexistência de infração contratual, tenho que, tendo sido aferidas pelas instâncias ordinárias, não podem ser revistas pela Suprema Corte, em face da incidência da Súmula nº 279 do STF, que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, face ao óbice erigido pela Súmula nº 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DA MATÉRIA FÁTICO-PROBATÓRIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 684.576-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 1º/8/2012).
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do verbete sumular supra, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas acerca da Súmula nº 279 do STF:
+    “Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+    A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2a ed., v. I/175).
+    Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+    A Súmula 279 é peremptória: Para simples reexame de prova não cabe recurso extraordinário. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65) (Pestana de Aguiar, Comentários ao Código de Processo Civil, 2a ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.“ (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 137-138).
+    Outrossim, relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de junho de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
