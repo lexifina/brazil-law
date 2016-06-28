@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto como acórdão do Tribunal de Justiça do Estado de Rondônia, assim ementado:
+    “Apelação. Mandado de segurança. Cirurgião buco-maxilofacial. Gratificação. Lei n. 2.463/2011. Suspensão indevida do pagamento. Restabelecimento da gratificação. Possibilidade. Pagamento de valores retroativos. Descabimento. Precedentes do STF. Recurso que se dá parcial provimento. A gratificação instituída pela lei visa remunerar os cirurgiões bucomaxilo-facial que desempenham atividades nas unidades estaduais de saúde. A lei apenas delimitou a área de especialidade inerente à profissão de odontólogo, e não criou empecilhos a ensejar o não recebimento da gratificação. O poder judiciário não pode atuar como legislador positivo, de modo que, caso o Estado entenda que as concessões de gratificações não estão atendendo o fim almejado, deve adotar providências criando outros requisitos capazes de estreitar a concessão da gratificação. Os efeitos patrimoniais resultantes da concessão de mandado de segurança somente abrangem os valores devidos a partir da data da impetração mandamental, excluídas, em consequência, as parcelas anteriores ao ajuizamento da ação de mandado de segurança, que poderão, no entanto, ser vindicadas em sede administrativa ou demandadas em via judicial própria. Súmula 271/STF.
+    Recurso que se dá parcial provimento. “
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. O recorrente alega violação ao art. 37, XVI, da Constituição. Sustenta, em síntese, que o caso em tela (servidor efetivo ocupante de cargo em comissão) não se encaixa em nenhuma das exceções constitucionais de acumulação de cargos, sendo, portanto, indevida a percepção da gratificação, típica de cargo efetivo.
+    O recurso é inadmissível, tendo em vista que, para dissentir do entendimento firmado pelo Tribunal de origem, quanto ao cumprimento dos requisitos para a percepção da gratificação postulada pelo recorrido, seria imprescindível a análise da legislação infraconstitucional pertinente (Lei estadual nº 2.463/2011), procedimento vedado pela Súmula 280/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 28 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
