@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fls. 58):
+    “AGRAVO REGIMENTAL – RECURSO DE APELAÇÃO – PROVIMENTO PARCIAL – MANUTENÇÃO DA DECISÃO QUANTO AO PAGAMENTO DE URV – MUNICÍPIO DE RONDONÓPOLIS – AUSÊNCIA DE RELEVÂNCIA DA FUNDAMENTAÇÃO – INEXISTÊNCIA DE FATOS NOVOS A MODIFICAR A DECISÃO AGRAVADA – RECURSO DESPROVIDO.
+    1.Deve ser mantida a decisão monocrática que manteve a sentença em apelação no tocante à determinação do pagamento da incorporação de vencimentos – URV, notadamente, porque não trouxe elementos novos a ensejar sua modificação.
+    2.As Câmaras de Direito Público deste Sodalício firmaram o entendimento de que a simples atualização dos vencimentos, após a edição da Lei nº 8.880/94, não sustenta a alegação de que houve a incorporação de tais valores na remuneração dos servidores municipais.
+    3.Agravo desprovido.”
+    Os embargos de declaração foram rejeitados (fls. 89-92).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “d”, do permissivo constitucional, aponta-se ofensa ao efeito vinculativo da decisão proferida no RE 561.836 e na ADI 1.797.
+    Sustenta-se, em suma, que, de acordo com a decisão proferida no RE 561.836, o percentual de 11,98% não é devido no caso de ter havido reestruturação de carreira, como teria ocorrido em relação aos servidores públicos da Prefeitura Municipal de Rondonópolis-MT. Assim, alega-se que o acórdão recorrido violou o efeito vinculativo da repercussão geral, visto que restou comprovado que a Lei Municipal 3.247/2000 promoveu a reestruturação do plano de cargos e carreiras dos referidos servidores, instituindo nova tabela de vencimentos.
+    O Tribunal de origem inadmitiu o recurso com base na ausência de indicação do dispositivo constitucional que teria sido violado e nas Súmulas 282 e 284 do STF. Quanto ao permissivo da alínea “d” do inciso III do art. 102 da Constituição, negou-se seguimento ao recurso, visto que não restou demonstrado que a Corte de origem ofendeu o sistema de repartição de competência legislativa.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De plano, observa-se que o recorrente, apesar de interpor recurso com fundamento na alínea “a” do inciso III do art. 102, não indica em suas razões qual dispositivo constitucional teria sido violado pelo acórdão recorrido. Incide, portanto, a Súmula 284 do STF.
+    Sobre o tema, confira-se o seguinte precedente:
+    “DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE VIOLADO. APLICAÇÃO DA SÚMULA 284/STF. REINTEGRAÇÃO DE POSSE. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO ÓBICE DA SÚMULA 279/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 12.3.2013. Ausente a indicação do dispositivo constitucional tido por violado pelo acórdão recorrido, incide, na espécie, o entendimento jurisprudencial vertido na Súmula 284/STF. Divergir do entendimento do Tribunal a quo no tocante à possibilidade de reintegração de posse demandaria a análise da legislação infraconstitucional aplicável à espécie, bem como a reelaboração da moldura fática delineada na origem, inviável em sede recursal extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Precedentes. Agravo regimental conhecido e não provido.” (ARE 801.459-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 04.06.2014)
+    Além disso, verifica-se que o Tribunal de origem consignou que (fls. 61-v):
+    “Em que pesem os argumentos recursais, a matéria em debate encontra-se pacificada na jurisprudência deste Sodalício, constatando-se que, em situação análoga – inclusive figurando no polo passivo da demanda o Município de Rondonópolis-, tanto a Terceira como a Quarta Câmara Cível adotam o mesmo entendimento, de que a simples atualização dos vencimentos após a edição da Lei nº 8.80/94, não sustenta a alegação de que houve a incorporação de tais valores na remuneração dos servidores”
+    Constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo, demandaria o reexame da Lei Municipal 3.247/2000, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF.
+    Por fim, o Tribunal de origem não julgou válida lei local contestada em face de lei federal. Isso inviabiliza o recurso extraordinário pela alínea “d”do inciso III do art. 102 do Texto Constitucional.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
