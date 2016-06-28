@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, cujo trecho da ementa dispõe:
+    “APELAÇÕES CÍVEIS. SEGUROS. PLANO DE SAÚDE. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. MATERIAL NECESSÁRIO AO PROCEDIMENTO CIRÚRGICO. COBERTURA SECURITÁRIA DEVIDA. DANO MORAL. OCORRÊNCIA (…)’’. (eDOC 3, p. 97)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, ‘’a’’, da Constituição Federal, aponta-se violação ao art. 5°, XXXVI, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, violação ao ato jurídico perfeito, ao argumento de que o acórdão recorrido teria criado obrigações não previstas no contrato do plano de saúde, ocasionando a quebra de contrato válido e, consequentemente, desequilíbrio econômico-financeiro.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 9.656/98, Código de Defesa do Consumidor e o Código Civil) e o conjunto probatório constante dos autos, bem como interpretar cláusulas contidas em contrato firmado entre as partes, consignou o direito à cobertura securitária no caso do autos. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    ‘’É oportuno ressaltar que o referido pacto está submetido às disposições da Lei 8.078/90 atinente ao mercado de prestação de serviços médicos, conforme se extrai da interpretação do art. 35 da Lei 9.656/98.
+    Assim, aplica-se ao caso em exame o art. 10, inciso VII, da legislação dos planos de saúde, que veda a exclusão da cobertura securitária o fornecimento de próteses, ortóteses e seus acessórios, quando essenciais ao ato cirúrgico.
+    (…)
+    A interpretação aqui é simples: se havia previsão contratual da cirurgia englobando o procedimento adotado pela parte autora, não há como impor ao consumidor o pagamento de um dos materiais essenciais a esta operação, tendo em vista que, sem ele, obviamente, não seria possível a realização desta.
+    Logo, a interpretação mais adequada ao referido pacto, sob o ponto de vista teleológico, deve levar em conta a natureza do procedimento clínico realizado e a essencialidade do material empregado neste, a fim de ser preservada a vida, valor maior a ser resguardado.
+    Ademais, cumpre salientar que o médico que acompanha a parte autora entendeu ser imprescindível utilizar uma bioprótese de longa duração como a Carpentier Magna, Parount ou Hancok II, por acreditar que estes se adéquam melhor ao quadro da paciente (fl. 34), situação que importa em garantir uma melhor prestação do serviço contratado, bem como serve para evitar riscos desnecessários à vida da demandante.
+    Assim, a exclusão de prótese, ortótese ou material essencial para cirurgia é abusiva, conforme definido nos incisos I e VII do art. 10 da Lei n° 9.656/98, ofendendo o inciso IV do art. 51 do CDC, salvo se empregadas para fins estéticos ou não ligadas ao ato cirúrgico”. (eDOC 3, p. 103)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    ''DIREITO DO CONSUMIDOR. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. CONTROVÉRSIA INFRACONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF. REEXAME DE CLÁSULAS CONTRATUAIS. SÚMULA 454/STF. 1. A solução da controvérsia demanda a análise da legislação infraconstitucional aplicada ao caso, o reexame do conjunto fático-probatório dos autos, assim como a revisão do contrato celebrado entre as partes, o que torna inviável o processamento do recurso extraordinário. Precedentes. 2. Agravo regimental a que se nega provimento.'' (ARE 836093 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 02.06.2015)
+    ''DIREITO DO CONSUMIDOR. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE, DO CONJUNTO FÁTICO-PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS (SÚMULAS 279 E 454/STF). 1. A solução da controvérsia pressupõe, necessariamente, a análise da legislação infraconstitucional pertinente, o reexame do conjunto fático-probatório contante dos autos, bem como as cláusulas contratuais (Súmulas 279 e 454/STF), procedimentos inviáveis em recurso extraordinário. Precedentes. 2. Agravo regimental a que se nega provimento.'' (ARE 894858 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 14.09.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
