@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “ADMINISTRATIVO – APOSENTADORIA - REDUÇÃO DE PROVENTOS – EXCLUSÃO DE VERBAS INCORPORADAS EM DECORRÊNCIA DE DECISÃO JUDICIAL – MUDANÇA DE REGIME – INTEGRAÇÃO DE PLANTÕES – DUPLICIDADE.
+    1. Considerando que a verba fora incorporada à remuneração do servidor antes da mudança do regime celetista para estatutário, não pode esta ser suprimida, sob pena de violação ao princípio da irredutibilidade de vencimentos.
+    2. Equivocada se mostra a supressão de verbas incorporadas aos vencimentos do servidor, sob o fundamento de duplicidade, quando demonstrado que se trata de parcela única, cuja discriminação em separado objetiva, apenas, facilitar os cálculos.
+    3. Remessa oficial e recurso voluntário conhecidos e desprovidos.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI; 37, caput, e XIV; 39, caput; 71, III e IX; e 75, todos da Constituição. Sustenta que “não é lícito pretender a percepção de vantagens trabalhistas próprias do regime celetista, a partir da alteração de regime para o estatutário, tal como sucedeu no caso presente, quando o advento da Lei nº 87/89 converteu o regime jurídico dos impetrantes em estatutário”.
+    O recurso deve ser provido, tendo em vista que o acórdão recorrido não está alinhado à jurisprudência do Supremo Tribunal Federal no sentido de que os efeitos das sentenças oriundas da Justiça do Trabalho se limitam à data da instituição do Regime Jurídico Único, sendo incompatível com a Constituição o recebimento, por parte do servidor público, de vantagem estabelecida no regime celetista. Nesse sentido, vejam-se os seguintes julgados das duas Turmas desta Corte:
+    “DIREITO ADMINISTRATIVO. TRANSPOSIÇÃO DE REGIME JURÍDICO. INVIABILIDADE DE MANUTENÇÃO DE VANTAGEM SALARIAL. OFENSA À CONSTITUIÇÃO FEDERAL NÃO CONFIGURADA. Transposição de regime jurídico a caracterizar a extinção do contrato de trabalho e a criação de nova relação jurídica. Inviabilidade de manutenção de vantagem salarial anterior. Precedentes. Agravo regimental a que se nega provimento.” (AI 761.382-AgR, Rel.ª Min.ª Rosa Weber, Primeira Turma)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. 1. TRANSPOSIÇÃO DE REGIME JURÍDICO. EFEITOS DA SENTENÇA CONDENATÓRIA PROFERIDA PELA JUSTIÇA DO TRABALHO: LIMITAÇÃO DA CONDENAÇÃO À DATA DA INSTITUIÇÃO DO REGIME JURÍDICO ÚNICO. 2. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 576.397-AgR, Rel.ª Min.ª Cármen Lúcia, Segunda Turma)
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso. Invertidos os ônus da sucumbência, ressalvada eventual concessão do benefício da Justiça gratuita, sem prejuízo do disposto no art. 12 da Lei nº 1.060/1950.
+     Publique-se.
+          Brasília, 28 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
