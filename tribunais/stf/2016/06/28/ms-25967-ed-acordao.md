@@ -1,0 +1,704 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 15
+
+28/06/2016
+
+PRIMEIRA TURMA
+
+EMB.DECL. EM MANDADO DE SEGURANÇA 25.967 DISTRITO FEDERAL
+RELATOR
+EMBTE.(S)
+ADV.(A/S)
+EMBDO.(A/S)
+ADV.(A/S)
+EMBDO.(A/S)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: ELEAZAR VOLPATO
+: EXPEDITO BARBOSA JUNIOR E OUTRO(A/S)
+: TRIBUNAL DE CONTAS DA UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+
+EMENTA: AGRAVO REGIMENTAL EM MANDADO DE
+SEGURANÇA. PERCENTUAL DE 26,06% (PLANO BRESSER).
+VIOLAÇÃO À COISA JULGADA E À SEPARAÇÃO ENTRE OS
+PODERES. INEXISTÊNCIA. ART. 54 DA LEI Nº 9.784/1999.
+DECADÊNCIA ADMINISTRATIVA. NÃO CONFIGURAÇÃO.
+1. Nos termos da jurisprudência recentemente delineada, tratando-se
+de relação jurídica de trato continuado, a eficácia temporal da sentença
+permanece enquanto se mantiverem inalterados os pressupostos fáticos
+que lhe deram suporte.
+2. O ato de concessão inicial de aposentadoria, reforma e pensão é
+complexo e, portanto, aperfeiçoa-se somente após a sua apreciação pela
+Corte de Contas.
+3. Embargos de declaração recebidos como agravo regimental a que
+se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal, sob a Presidência do
+Senhor Ministro Luís Roberto Barroso, na conformidade da ata de
+julgamento e das notas taquigráficas, por maioria de votos, em converter
+os embargos de declaração em agravo regimental, vencido, nessa parte, o
+Senhor Ministro Marco Aurélio. Por unanimidade, negou provimento ao
+agravo regimental, nos termos do voto do Relator.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293889.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 15
+
+MS 25967 ED / DF
+Brasília, 28 de junho de 2016.
+Ministro EDSON FACHIN
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293889.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 15
+
+28/06/2016
+
+PRIMEIRA TURMA
+
+EMB.DECL. EM MANDADO DE SEGURANÇA 25.967 DISTRITO FEDERAL
+RELATOR
+EMBTE.(S)
+ADV.(A/S)
+EMBDO.(A/S)
+ADV.(A/S)
+EMBDO.(A/S)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: ELEAZAR VOLPATO
+: EXPEDITO BARBOSA JUNIOR E OUTRO(A/S)
+: TRIBUNAL DE CONTAS DA UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+
+RELATÓRIO
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Trata-se
+de embargos de declaração opostos em face de decisão monocrática em
+que neguei seguimento ao mandado de segurança, nos seguintes termos
+(fls. 204-214):
+“Trata-se de mandado de segurança impetrado por Eleazar
+Volpato em face de ato do Presidente da 1ª Câmara do Tribunal de
+Contas da União, que, após deliberação da 1ª Câmara do Tribunal,
+suprimiu o pagamento de 26,06% (Plano Bresser) relativos ao mês de
+junho de 1987 dos vencimentos do impetrante.
+O impetrante alega que a vantagem havia sido incorporada por
+sentença judicial transitada em julgado e que, portanto, a ordem
+proferida pelo Tribunal violou a proteção da coisa julgada.
+Sustenta também que o ato impugnado violou o princípio da
+separação dos poderes, pois, por meio de decisão administrativa, foi
+retirada a eficácia de provimento judicial.
+Aduz cerceamento de defesa, uma vez que não teve oportunidade
+de se manifestar no processo administrativo da Corte de Contas.
+O autor suscita, ainda, a decadência do direito de a
+Administração realizar o controle administrativo, pois a incorporação
+e o consequente recebimento do percentual relativo ao Plano Bresser
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293890.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 15
+
+MS 25967 ED / DF
+são pagos há mais de quinze anos.
+Quando da impetração, requereu a concessão da medida liminar.
+No mérito, pugna pela concessão da segurança, a fim de restabelecer o
+pagamento da parcela relativa ao Plano Bresser.
+A liminar foi deferida pelo e. Ministro Ricardo Lewandowski
+apenas para suspender a cessação dos descontos das vantagens objeto
+deste mandado, até o julgamento definitivo do writ.
+Em sede de informações, o Tribunal de Contas alegou que o ato
+concessivo da pensão ultrapassou os limites da sentença judicial,
+porquanto não afronta a coisa julgada decisão que afaste pagamentos
+oriundos de sentenças cujo suporte fático de aplicação tenha sido
+alterado. Por essa razão, os pagamentos dos percentuais oriundos de
+planos econômicos não se incorporam aos salários, tendo natureza de
+antecipação salarial. No caso da impetrante, as diversas leis de
+reajuste geral dos servidores federais acabaram por absorver as
+parcelas relativas aos planos econômicos. Sustentou ser inaplicável ao
+caso, na esteira de precedentes do Supremo Tribunal Federal, o art. 54
+da Lei 9.784/99 relativamente à decadência administrativa Afirmou,
+por fim, que a ausência de manifestação do servidor de órgão
+destinatário de determinação proferida pelo TCU não configura
+violação ao princípio do devido processo legal.
+O Ministério Público Federal pugna pela denegação da ordem,
+ao argumento de que, “tendo passado às regras do estatuto geral do
+funcionalismo público, desde que respeitado o valor nominal de seus
+vencimentos, o servidor passa a ser regido por ordem jurídica outra,
+distinta, que não está abarcada pela coisa julgada alcançada
+anteriormente” (fl. 179).
+Em 02.03.2011, o Ministro Ricardo Lewandowski determinou o
+sobrestamento do presente feito, a fim de que se aguardasse o
+julgamento de mérito do MS 23.394.
+É, em síntese, o relatório. Decido.
+Em que pese o sobrestamento anteriormente deferido ter
+reconhecido a vinculação entre a matéria debatida nestes autos com a
+que ainda deve ser enfrentada no MS 23.394, o Plenário do Supremo
+Tribunal Federal julgou, recentemente, o MS 25.430, Rel. Ministro
+Eros Grau, que versava sobre o mesmo tema. A nova orientação, em
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293890.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 15
+
+MS 25967 ED / DF
+verdade, apenas confirmou o entendimento já acolhido pela Corte
+quando do julgamento do RE 596.663-RG, Rel. Min. Marco Aurélio,
+Redator do Acórdão Min. Teori Zavascki, Dje 26.11.2014, e de
+diversos outros julgados proferidos nos órgãos fracionários.
+Com efeito, o Tribunal reconheceu que a controvérsia em exame
+não se refere ao alcance da coisa julgada, mas à eficácia temporal da
+sentença. Como assentou o Relator para o acórdão, o provimento
+jurisdicional, ao pronunciar juízos de certeza sobre a existência, a
+inexistência ou o modo de ser das relações jurídicas, a sentença leva
+em consideração as circunstâncias de fato e de direito que se
+apresentam no momento da sua prolação. Assim, tratando-se de
+relação jurídica de trato continuado, a eficácia temporal da sentença
+permanece enquanto se mantiverem inalterados esses pressupostos
+fáticos e jurídicos que lhe serviram de suporte (cláusula rebus sic
+stantibus ).
+Por essa razão, limitada a discussão à eficácia temporal da
+sentença, não haveria falar-se em rescisória, porquanto não se debate a
+imutabilidade ou validade da sentença. Ademais, sequer seria o caso
+de se cogitar em uma ação revisional, pois as modificações das razões
+de fato ou de direito, que serviram de suporte para a sentença, operam
+efeitos imediata e automaticamente, dispensando-se novo
+pronunciamento judicial.
+No caso dos autos, tendo havido modificação da estrutura
+remuneratória da impetrante, a decisão que lhe favoreceu deveria ter
+produzido efeitos somente durante a vigência do regime jurídico
+anterior. Com a mudança de regime, não é possível manter o
+pagamento de vantagem econômica sem qualquer limitação temporal.
+Nesse sentido, confiram-se:
+“Ementa: DIREITO ADMINISTRATIVO. MANDADO
+DE SEGURANÇA. PROVENTOS. APOSENTADORIA.
+REGISTRO. ACÓRDÃO DO TCU QUE DETERMINOU A
+IMEDIATA INTERRUPÇÃO DO PAGAMENTO DA URP
+DE FEVEREIRO DE 1989 (26,05%). NATUREZA DE
+ANTECIPAÇÃO
+SALARIAL.
+PREVISÃO
+LEGAL.
+DECISÃO
+JUDICIAL.
+ALCANCE.
+PRAZO
+DECADENCIAL. ARTIGO 54 DA LEI Nº 9.784/99.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293890.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 15
+
+MS 25967 ED / DF
+INAPLICABILIDADE.
+COMPETÊNCIA
+CONSTITUCIONAL ATRIBUÍDA À CORTE DE CONTAS.
+MODIFICAÇÃO DE FORMA DE LCULO DA
+REMUNERAÇÃO.
+ALEGADA
+OFENSA
+AOS
+PCÁRINCÍPIOS
+CONSTITUCIONAIS
+DO
+CONTRADITÓRIO, AMPLA DEFESA, COISA JULGADA,
+SEGURANÇA JURÍDICA E IRREDUTIBILIDADE DOS
+VENCIMENTOS.
+INOCORRÊNCIA.
+PLANOS
+ECONÔMICOS. REAJUSTES SALARIAIS. VANTAGEM
+SALARIAL RECONHECIDA POR DECISÃO JUDICIAL
+TRANSITADA
+EM
+JULGADO.
+REMUNERAÇÃO.
+ALCANCE. INEXISTÊNCIA DE OFENSA A DIREITO
+ADQUIRIDO. INOCORRÊNCIA DE VIOLAÇÃO À COISA
+JULGADA. SEGURANÇA DENEGADA. 1. O processo de
+registro de aposentadoria, desde que não tenha transcorrido
+período de tempo superior a cinco anos entre o início do processo
+no TCU e o indeferimento do registro, não impõe o contraditório
+nesse lapso de tempo, nos termos da Súmula Vinculante nº 03
+do Supremo Tribunal Federal, verbis: Nos processos perante o
+Tribunal de Contas da União asseguram-se o contraditório e a
+ampla defesa quando da decisão puder resultar anulação ou
+revogação de ato administrativo que beneficie o interessado,
+excetuada a apreciação da legalidade do ato de concessão inicial
+de aposentadoria, reforma e pensão. 2. A decadência prevista no
+art. 54 da Lei 9.784/99 não se consuma no período
+compreendido entre o ato administrativo concessivo de
+aposentadoria ou pensão e o posterior julgamento de sua
+legalidade e registro pelo Tribunal de Contas da União que
+consubstancia o exercício da competência constitucional de
+controle externo (CRFB/88, art. 71, III) -, porquanto o
+respectivo ato de aposentação é juridicamente complexo, que se
+aperfeiçoa com o registro na Corte de Contas. Precedentes: MS
+30916, Rel. Ministra Cármen Lúcia, Primeira Turma, DJe
+08.06.2012; MS 25525, Rel. Ministro Marco Aurélio, Tribunal
+Pleno, DJe 19.03.2010; MS 25697, Rel. Ministra Cármen
+Lúcia, Tribunal Pleno, DJe 12.03.2010. 3. As URPs Unidade de
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293890.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 15
+
+MS 25967 ED / DF
+Referência de Preço - foram previstas visando a repor o poder
+aquisitivo de salários e vencimentos até a data-base da categoria,
+quando verificado o acerto de contas; entendimento sumulado
+pelo egrégio Tribunal Superior do Trabalho, verbis: Súmula 322:
+Os reajustes salariais decorrentes dos chamados "Gatilhos" e
+URP's, previstos legalmente como antecipação, são devidos tãosomente até a data-base de cada categoria. 4. A alteração por lei
+do regramento anterior da composição da remuneração do
+agente público, assegura-se-lhes somente a irredutibilidade da
+soma total antes recebida, assim concebido: os vencimentos e
+proventos constitucionais e legais. Precedentes: RE
+563.965/RN-RG, Rel. Ministra Cármen Lúcia, Tribunal Pleno,
+DJe 20.03.2009; MS 24.784, Rel. Ministro Carlos Velloso,
+Tribunal Pleno, DJe 25.06.2004; RE 185255, Rel. Ministro
+Sydney Sanches, Primeira Turma, DJ 19.09.1997. 5. A boa-fé
+na percepção de parte imotivada de vencimentos, reconhecido no
+acórdão do TCU, conjura o dever de devolução. 6. A garantia
+fundamental da coisa julgada (CRFB/88, art. 5º, XXXVI) não
+resta violada nas hipóteses em que ocorrerem modificações no
+contexto fático-jurídico em que produzida - como as inúmeras
+leis que reestruturam as carreiras dos servidores do Poder
+Judiciário da União e fixam novos regimes jurídicos de
+remuneração. 7. In casu, restou demonstrado nos autos a
+improcedência do pedido de continuidade do pagamento da
+URP, tendo em vista, sobretudo, os reajustes salariais advindos
+após à sua concessão, com destaque ao aumento salarial
+provocado pela reestruturação de carreira dos docentes em
+universidades federais - verbi gratia, Lei nº 11.784/2008 -, que
+vieram a incorporar o valor que era pago em separado a título de
+antecipação salarial. 8. Segurança denegada.”
+(MS 31642, Relator(a): Min. LUIZ FUX, Primeira
+Turma, julgado em 02/09/2014, PROCESSO ELETRÔNICO
+DJe-184 DIVULG 22-09-2014 PUBLIC 23-09-2014)
+“Ementa:
+I
+CONSTITUCIONAL
+E
+ADMINISTRATIVO.
+SERVIDOR
+PÚBLICO.
+APOSENTADORIA
+DECLARADA
+ILEGAL
+PELO
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293890.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 15
+
+MS 25967 ED / DF
+TRIBUNAL DE CONTAS DA UNIÃO. CÁLCULO DO
+ADICIONAL POR TEMPO DE SERVIÇO COM BASE NA
+REMUNERAÇÃO. DIREITO RECONHECIDO POR
+DECISÃO JUDICIAL COM TRÂNSITO EM JULGADO.
+SUPERVENIÊNCIA DE NOVO REGIME JURÍDICO.
+PERDA DA EFICÁCIA VINCULANTE DA DECISÃO
+JUDICIAL, EM RAZÃO DA ALTERAÇÃO DOS
+PRESSUPOSTOS FÁTICOS E JURÍDICOS QUE LHE
+DERAM SUPORTE. SUBMISSÃO À CLÁUSULA REBUS
+SIC STANTIBUS. INEXISTÊNCIA DE OFENSA À
+GARANTIA
+DA
+COISA
+JULGADA.
+NÃO
+COMPROVAÇÃO DE VIOLAÇÃO À IRREDUTIBILIDADE
+DOS VENCIMENTOS. AGRAVO REGIMENTAL DA
+IMPETRANTE NÃO PROVIDO. 1. Ao pronunciar juízos de
+certeza sobre a existência, a inexistência ou o modo de ser das
+relações jurídicas, a sentença leva em consideração as
+circunstâncias de fato e de direito que se apresentam no
+momento da sua prolação. Tratando-se de relação jurídica de
+trato continuado, a eficácia temporal da sentença permanece
+enquanto se mantiverem inalterados esses pressupostos fáticos e
+jurídicos que lhe serviram de suporte (cláusula rebus sic
+stantibus). Assim, não atenta contra a coisa julgada a
+superveniente alteração do estado de direito, em que a nova
+norma jurídica tem eficácia ex nunc, sem efeitos retroativos. 2.
+No caso, com o advento da Lei 8.112/1990, houve perda da
+eficácia vinculativa da sentença proferida nos autos da Ação
+Ordinária 9248005, não mais subsistindo o direito da
+impetrante ao cálculo do adicional por tempo de serviço com
+base em sua remuneração, não se caracterizando qualquer
+inconstitucionalidade no Acórdão TCU 3.370/2006-2ª Câmara,
+especialmente no que diz respeito à garantia da coisa julgada. 3.
+Não há elementos probatórios suficientes que demonstrem ter
+havido, com a nova forma de cálculo do adicional por tempo de
+serviço, desrespeito ao princípio constitucional da
+irredutibilidade dos vencimentos. 4. Agravo regimental da
+impetrante a que se nega provimento. II CONSTITUCIONAL
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293890.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 15
+
+MS 25967 ED / DF
+E
+ADMINISTRATIVO.
+SERVIDOR
+PÚBLICO.
+APOSENTADORIA
+DECLARADA
+ILEGAL
+PELO
+TRIBUNAL DE CONTAS DA UNIÃO. NEGATIVA DE
+REGISTRO. BOA-FÉ DO SERVIDOR. DEVOLUÇÃO DOS
+VALORES INDEVIDAMENTE RECEBIDOS. TERMO
+INICIAL. DATA DA CIÊNCIA DA DECISÃO DO ÓRGÃO
+DE CONTAS. AGRAVO REGIMENTAL DA UNIÃO
+PROVIDO. 1. Havendo boa-fé do servidor público que recebe
+valores indevidos a título de aposentadoria, o termo inicial para
+devolução dos valores deve corresponder à data em que teve
+conhecimento do ato que considerou ilegal a concessão de sua
+aposentadoria. 2. Agravo regimental da União provido.”
+(MS 26980 AgR, Relator(a): Min. TEORI ZAVASCKI,
+Segunda Turma, julgado em 22/04/2014, ACÓRDÃO
+ELETRÔNICO DJe-086 DIVULG 07-05-2014 PUBLIC 08-052014)
+Confiram-se, ainda, na Primeira Turma: MS 33.308 AgR, Rel.
+Min. Roberto Barroso, DJe 02.06.2015 e MS 30.537 ED, Rel. Min.
+Luiz Fux, DJe 04.03.2015. Na Segunda Turma, confiram-se: MS
+33.426-AgR, Rel. Min. Celso de Mello, Dje 11.06.2015 e decisão
+monocrática do Ministro Gilmar Mendes MS 30.725, Dje 04.08.2015.
+Ressalte-se, por fim, que a alteração do regime jurídico garante à
+impetrante o direito à irredutibilidade dos vencimentos, mas não à
+manutenção no regime anterior, conforme reconheceu esta Corte no
+RE 563.965-RG, Rel. Ministra Cármen Lúcia, Pleno, DJe 20.03.2009.
+Assim, nos termos da jurisprudência recentemente delineada,
+não pode prosperar a alegação de ofensa à coisa julgada ou de violação
+do princípio da separação entre os poderes.
+No que tange à alegação da decadência administrativa, é preciso
+consignar que a jurisprudência desta Corte, firmou-se no sentido de
+ser inaplicável o art. 54 da Lei 9.784/99, para os casos em que o
+Tribunal de Contas da União examina a legalidade do ato de concessão
+inicial de aposentadoria, reforma e pensão. Com efeito, a decadência
+administrativa não pode consumar-se porque, sendo um ato complexo,
+o ato não se aperfeiçoa enquanto não houve apreciação pela Corte de
+Contas. Confira-se:
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293890.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 15
+
+MS 25967 ED / DF
+“EMENTA: I. Mandado de segurança. Tribunal de
+Contas da União. Pensão temporária (L. 8.112/90, art. 217,
+inciso II, alínea 'b'): suspensão liminar: presença dos seus
+pressupostos. 1. Ato do Tribunal de Contas da União que,
+liminarmente, determinou a suspensão de quaisquer
+pagamentos decorrentes de pensão temporária instituída em
+favor de menor cuja guarda fora confiada ao servidor falecido,
+seu avô. 2. Caracterização do periculum in mora, dada a
+necessidade de prevenir lesão ao Erário e garantir a eficácia de
+eventual decisão futura, diante de grave suspeita de vícios na
+sua concessão e, principalmente, quando a sua retirada não
+significa o desamparo de pretenso titular. 3. Plausibilidade da
+tese que exige a comprovação da dependência econômica para
+recebimento da pensão temporária prevista na letra b do inciso II
+do art. 217 da L. 8.112/90, tendo em vista que, no caso, à vista
+da capacidade econômica dos pais do beneficiário, apurada pela
+equipe de auditoria, não se pode inferir que a dependência
+econômica tenha sido a única causa para a concessão da guarda
+do requerente aos avós. II. Mandado de segurança: alegação
+improcedente de prejuízo. Indiferente para a continuidade do
+processo a perda do benefício pelo impetrante por ter atingido a
+idade limite de vinte e um anos: dada a confirmação, em decisão
+de mérito, do entendimento do TCU manifestado na cautelar objeto desta impetração - mantém-se o interesse do requerente no
+julgamento do mérito do mandado de segurança, já que, se
+concedida a ordem, estaria ele resguardado de devolver os
+valores recebidos desde a decisão impugnada. III. Contraditório,
+ampla defesa e devido processo legal: exigência afastada nos
+casos em que o Tribunal de Contas da União, no exercício do
+controle externo que lhe atribui a Constituição (art. 71, III),
+aprecia a legalidade da concessão de aposentadoria ou pensão, só
+após o que se aperfeiçoa o ato complexo, dotando-o de
+definitividade administrativa. IV. Tribunal de Contas da União:
+controle externo: não consumação de decadência administrativa,
+por não se aplicar o prazo previsto no art. 54 da L. 9.784/99,
+dado o não aperfeiçoamento do ato complexo de concessão.”
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293890.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 11 de 15
+
+MS 25967 ED / DF
+(MS 25409, Relator(a): Min. SEPÚLVEDA PERTENCE,
+Tribunal Pleno, julgado em 15/03/2007, DJe-018 DIVULG 1705-2007 PUBLIC 18-05-2007 DJ 18-05-2007 PP-00065
+EMENT VOL-02276-01 PP-00132 LEXSTF v. 29, n. 342,
+2007, p. 142-164)
+Tal entendimento foi confirmado em um recente precedente da
+Primeira Turma:
+“O ato de concessão de aposentadoria é complexo, de modo
+que só se aperfeiçoa com o exame de sua legalidade e subsequente
+registro pelo Tribunal de Contas da União. Assim, enquanto não
+aperfeiçoado o ato concessivo de aposentadoria, com o respectivo
+registro perante a Corte de Contas da União, não há falar na
+fluência do prazo do art. 54 da 9.784/99, referente ao lapso de
+tempo de que dispõe a administração pública para promover a
+anulação de atos de que resultem efeitos favoráveis aos
+destinatários. ”
+(MS 27628 AgR, Relator(a): Min. ROSA WEBER,
+Primeira Turma, julgado em 20/10/2015, PROCESSO
+ELETRÔNICO DJe-221 DIVULG 05-11-2015 PUBLIC 06-112015)
+Quanto ao apontado cerceamento de defesa, ressalto que a
+jurisprudência desta Corte entende que a ausência do contraditório e
+da ampla defesa, quando da apreciação da legalidade dos atos de
+concessão inicial de aposentadoria, reforma e pensão, pelo TCU, não
+viola o devido processo legal, conforme o enunciado da Súmula
+Vinculante nº 3:
+“Nos processos perante o Tribunal de Contas da União
+asseguram-se o contraditório e a ampla defesa quando da decisão
+puder resultar anulação ou revogação de ato administrativo que
+beneficie o interessado, excetuada a apreciação da legalidade do
+ato de concessão inicial de aposentadoria, reforma e pensão.”
+Nos termos dos precedentes indicados nesta decisão, à parte
+impetrante deve-se reconhecer apenas o direito à irredutibilidade do
+valor nominal da remuneração, excluídas, tal como indicou o ato
+impugnado, as parcelas que foram posteriormente incorporadas à
+remuneração em virtude de alterações legislativas. Registre-se, ainda,
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293890.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 12 de 15
+
+MS 25967 ED / DF
+na linha do que restou decidido no MS 25.430, descaber a devolução
+dos valores percebidos pela autora em virtude da decisão liminar
+proferida nesta ação. Nesse sentido, confira-se, ainda, o MS 27.965, de
+minha relatoria, julgado em 15.03.2016, acórdão ainda pendente de
+publicação:
+“CONSTITUCIONAL
+E
+ADMINISTRATIVO.
+AGRAVOS REGIMENTAIS EM MANDADO DE
+SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO.
+APOSENTADORIA. EXAME. DECADÊNCIA. NÃO
+CONFIGURAÇÃO. DIREITO AO PAGAMENTO DA
+UNIDADE DE REFERÊNCIA E PADRÃO URP DE 26,05%,
+INCLUSIVE PARA O FUTURO, RECONHECIDO POR
+SENTENÇA TRANSITADA EM JULGADO. PERDA DA
+EFICÁCIA VINCULANTE DA DECISÃO JUDICIAL, EM
+RAZÃO DA SUPERVENIENTE ALTERAÇÃO DOS
+PRESSUPOSTOS FÁTICOS E JURÍDICOS QUE LHE
+DERAM SUPORTE. INEXISTÊNCIA DE OFENSA À
+GARANTIA DA COISA JULGADA, DA SEGURANÇA
+JURÍDICA, DA BOA-FÉ E DA SEPARAÇÃO DOS
+PODERES. DEVOLUÇÃO DAS VERBAS PERCEBIDAS.
+IMPOSSIBILIDADE.
+1. Nos termos da jurisprudência do STF, o ato de
+concessão de aposentadoria é complexo, aperfeiçoando-se
+somente após a sua apreciação pelo Tribunal de Contas da
+União, sendo, desta forma, inaplicável o art. 54, da Lei nº
+9.784/1999, para os casos em que o TCU examina a legalidade
+do ato de concessão inicial de aposentadoria, reforma e pensão.
+2. Inexiste afronta ao princípio da separação de poderes
+quando o TCU não desconstitui decisão advinda do Poder
+Judiciário, mas apenas emite interpretação quanto à modificação
+das condições fáticas que justificaram a prolação da sentença,
+exercendo o seu poder-dever de fiscalizar a legalidade das
+concessões.
+3. A eficácia temporal da sentença, cuidando-se de relação
+jurídica de trato continuado, circunscreve-se aos pressupostos
+fáticos e jurídicos que lhe serviram de fundamento, não se
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293890.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 13 de 15
+
+MS 25967 ED / DF
+verificando ofensa ao princípio da coisa julgada quando o TCU
+verifica mudanças no conjunto fático que deu suporte à decisão.
+4. Não se constata ofensa aos princípios da segurança
+jurídica e da boa-fé quando a alteração do contexto fático implica
+alteração dos fundamentos pelos quais o próprio direito se
+constituiu.
+5. Esta Corte decidiu, quando do julgamento do MS
+25.430, que as verbas recebidas a título de URP, que havia sido
+incorporado à remuneração dos servidores e teve sua ilegalidade
+declarada pelo Tribunal de Contas da União, até o momento do
+julgamento, não terão que ser devolvidas, em função dos
+princípios da boa-fé e da segurança jurídica, tendo em conta
+expressiva mudança de jurisprudência relativamente à eventual
+ofensa à coisa julgada de parcela vencimental incorporada à
+remuneração por força de decisão judicial.
+6. Agravos regimentais a que se nega provimento.”
+Ante o exposto, com fulcro nos precedentes colacionados aos
+autos e, bem assim, no art. 205 do RISTF, denego a segurança.”
+
+Sustenta-se, em síntese, que as autoridades impetradas não
+poderiam ter retirado o reajuste de 26,06% dos vencimentos do
+impetrante sem o devido processo judicial, ferindo, desta forma, o
+princípio da separação entre os poderes.
+Alega-se que a sentença trabalhista que reconheceu o direito do
+embargante teria feito coisa julgada.
+Ressalta-se a existência de prescrição, conforme o art. 54 da Lei n.
+9.784/1999, tendo em conta o lapso temporal de mais de dez anos desde o
+início de pagamento da parcela.
+Em 28.04.2016, determinei à parte recorrente que, caso quisesse,
+complementasse as razões recursais, nos termos do art. 1.023, § 3º, do
+Novo Código de Processo Civil.
+O embargante apresentou petição ratificando as suas razões.
+É o relatório.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293890.
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 14 de 15
+
+28/06/2016
+
+PRIMEIRA TURMA
+
+EMB.DECL. EM MANDADO DE SEGURANÇA 25.967 DISTRITO FEDERAL
+
+VOTO
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR):
+Inicialmente, recebo os embargos de declaração como agravo regimental,
+nos termos do art. 1.023, § 3º, do Novo Código de Processo Civil.
+Em que pesem os argumentos apresentados, resta evidenciado das
+razões recursais que o agravante não trouxe nenhum argumento capaz de
+infirmar a decisão hostilizada, razão pela qual deve ser mantida, por seus
+próprios fundamentos.
+Enfatizo que, conforme salientado na decisão agravada, a alteração
+do regime jurídico não garante ao impetrante o direito à manutenção no
+regime anterior. Sendo assim, nos termos da jurisprudência recentemente
+delineada, não prospera a alegação de afronta à coisa julgada ou à
+separação entre os poderes, uma vez que, tratando-se de relação jurídica
+de trato continuado, a eficácia temporal da sentença permanece enquanto
+se mantiverem inalterados os pressupostos fáticos e jurídicos que lhe
+deram suporte.
+Em relação à decadência administrativa, reafirmo que a
+jurisprudência desta Corte é firme no sentido da inaplicabilidade do art.
+54 da Lei 9.784/1999, para os casos em que o TCU examina a legalidade
+do ato de concessão inicial de aposentadoria, reforma e pensão, tendo em
+conta a natureza complexa deste ato, que se aperfeiçoa somente após a
+sua apreciação pela Corte de Contas. Neste sentido os seguintes
+precedentes: MS 25.409, Rel. Min. Sepúlveda Pertence, Tribunal Pleno,
+DJe 18.05.2007 e MS 27.628, Rel. Min. Rosa Weber, Primeira Turma, DJe
+06.11.2015.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11293891.
+
+Supremo Tribunal Federal
+Extrato de Ata - 28/06/2016
+
+Inteiro Teor do Acórdão - Página 15 de 15
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+EMB.DECL. EM MANDADO DE SEGURANÇA 25.967
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. EDSON FACHIN
+EMBTE.(S) : ELEAZAR VOLPATO
+ADV.(A/S) : EXPEDITO BARBOSA JUNIOR (015799/DF) E OUTRO(A/S)
+EMBDO.(A/S) : TRIBUNAL DE CONTAS DA UNIÃO
+ADV.(A/S) : ADVOGADO-GERAL DA UNIÃO
+EMBDO.(A/S) : UNIÃO
+ADV.(A/S) : ADVOGADO-GERAL DA UNIÃO
+Decisão: Por maioria de votos, a Turma converteu os embargos
+de declaração em agravo regimental, vencido, nessa parte, o Senhor
+Ministro Marco Aurélio. Por unanimidade, negou provimento ao
+agravo regimental, nos termos do voto do Relator. Não participou,
+justificadamente, deste julgamento, o Senhor Ministro Luiz Fux.
+Presidência do Senhor Ministro Luís Roberto Barroso. 1ª Turma,
+28.6.2016.
+Presidência do Senhor Ministro Luís Roberto Barroso. Presentes
+à Sessão os Senhores Ministros Marco Aurélio, Luiz Fux, Rosa Weber
+e Edson Fachin.
+Subprocuradora-Geral
+Marques.
+
+da
+
+República,
+
+Dra.
+
+Cláudia
+
+Sampaio
+
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 11471675
