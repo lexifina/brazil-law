@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO.TUTELA ANTECIPADA. POSSIBILIDADE. PRINCIPIO DA FUNGIBILIDADE ENTRE ANTECIPAÇÃO DA TUTELA E A MEDIDA CAUTELAR.POLICIAIS FEDERAIS.PROGRESSÃO FUNCIONAL. OBSERVÂNCIA DOS REQUISITOS. LEI Nº. 9.266/1996. DECRETO Nº 2.565/1998.PARTICIPAÇÃO CURSO ESPECIAL DE POLICIA.
+    1. A hipótese é de Remessa Necessária e Apelação interposta contra a sentença que julgou procedente a pretensão autoral para condenar a UNIÃO a promover a progressão funcional do autor, da segunda para a primeira classe, inclusive quanto aos efeitos financeiros, a partir do mês em que efetivamente completou cinco anos, com a correção do registro funcional e o pagamento das diferenças decorrentes acrescidas de correção monetária e juros de mora, além de custas e honorários advocatícios.
+    2. O cerne da questão diz respeito ao temo inicial da progressão funcional: se o adotado pelo Decreto nº 2.565/98 ou se o mês em que o servidor efetivamente completa o interstício funcional de 05 (cinco) anos ininterruptos na classe em que estiver posicionado.
+    3. O Decreto nº. 2.565/98 estabeleceu, em seu art. 3º que constitui requisitos cumulativos para a progressão na Carreira Policial Federal: a avaliação de desempenho satisfatório e o interstício de cinco anos ininterruptos de efetivo exercício na classe em que estiver posicionado.
+    4. O art. 5º do Decreto nº. 2.568/98 é ilegal ao estabelecer que as progressões somente ocorrerão a partir de 1º de março, ainda que o servidor tenha preenchido os requisitos legais para fazer jus à progressão no ano anterior após o dia 1º de março, pois a pretexto de regulamentar o art. 2º, da Lei nº 9.266/96, estabelecendo as condições para a progressão foi ,além de uma simples regulamentação, disciplinando matéria reservada a lei.
+    5. A fixação de uma única data para progressão funcional de todos os servidores da carreira de Policial Federal sem observância do tempo de efetivo exercício ininterrupto de cada implicou, também, em violação ao principio da isonomia.
+    6. Tendo o autor ingressado nos quadros da Policia Federal em 23/03/1999 e completado cinco anos ininterruptos de efetivo exercício na classe em que estava posicionado em 22/03/2004 e obtido avaliação de desempenho favorável, deve fazer jus à progressão para a Primeira Classe nesta data, em que preencheu tais requisitos.
+    7. Remessa Oficial e Apelação não providas”. (eDOC 3, p. 75)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, ‘a’, da Constituição Federal, aponta-se violação ao princípio constitucional da isonomia.
+    Nas razões recursais, alega-se que houve desigualdade de tratamento dado a diferentes servidores da carreira policial federal, inseridos na mesma situação do recorrente.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei n. 9.266/96 e Decreto nº 2.565/98) e o conjunto probatório constante dos autos, consignou que se aplicou corretamente o termo inicial para fruição dos efeitos financeiros. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “(...) computam-se partir de 1º de março subsequente, não afronta nenhum disposição inserta na Lei n. 9.266/96 ou em outro diploma legal. Não há na lei determinação para que os efeitos financeiros fluam a partir da conclusão do interstício objeto da avaliação, como quer a parte autora. Ao contrário, o art. 2º da Lei n. 9.266/96 referiu-se ao regulamento como o instrumento adequado a tratar sobre os requisitos e condições de progressão e promoção na Carreira da Policial Federal
+    Ateve-se, pois, o poder regulamentar aos limites fixados na lei”. (eDOC 3, p. 19)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Servidor público. Progressão funcional. Ascensão funcional. Lei 8.691/1993. 4. Impossibilidade de análise do conjunto fático-probatório. Súmula 279 do SFT. Matéria infraconstitucional. Impossibilidade. Precedentes. 5. Agravo regimental a que se nega provimento. (ARE-AgR 929.258 AgR, de minha relatoria, Segunda Turma, DJe 15.2.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO FUNCIONAL. POSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. OFENSA REFLEXA. ANÁLISE DE NORMA INFRACONSTITUCIONAL. PRECEDENTES. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. AGRAVO DESPROVIDO”. (ARE-AgR 710.059 AgR, Rel. Min. LUIZ FUX, Primeira Turma,DJe 29.2.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
