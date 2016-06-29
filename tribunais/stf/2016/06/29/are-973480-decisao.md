@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de origem julgou improcedente o pedido de indenização em razão do autor ter permanecido trabalhando durante o período em que aguardava o reconhecimento de tempo de serviço como especial. No extraordinário, cujo trânsito pretende alcançar, o recorrente alega violado o artigo 37, § 6º, da Constituição Federal. Insiste no direito à indenização compensatória, apontando ter exercido suas atividades por tempo superior ao exigido para a concessão da aposentadoria, ante a demora do Instituto Nacional do Seguro Social (INSS) na conversão em especial do período laborado sob condições insalubres.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Tribunal Regional Federal da 2ª Região expressamente consignou que o tempo especial averbado não representou acréscimo financeiro ao autor, afastando, portanto, o alegado prejuízo em face da demora na averbação. Confiram com os seguintes fundamentos:
+    No tocante à responsabilidade civil do Estado (CRFB 37 § 6º), também não assiste razão ao apelante.
+    Com efeito, não constitui fundamento para indenização o indeferimento de benefício previdenciário que a Administração entenda indevido, cabendo aos interessados o uso das vias judiciais para garantia de seus evetuais direitos. Pensamento contrario, com a devida vênia, colocaria a autonomia da Administração em risco, diante do temor em indeferir pleitos, por força de permanente ameaça de ter que indenizar postulações rejeitadas.
+    Na presente hipótese, o direito à conversão de tempo especial foi reconhecido nos autos da ação nº 2001.50.01.0063985, julgado em 19/11/2008, conforme documentos em fls. 68/71 dos autos virtuais. Contudo, o tempo especial averbado não importou em acréscimo financeiro para o apelante, eis que, conforme informação prestada pelo INSS (fl. 102 dos autos virtuais), a aposentadoria se deu com proventos integrais, eis que na ocasião da concessão da aposentadoria (28/09/2005) o servidor já contava com 36 (trinta e seis) anos de serviço.
+    No tocante à indenização pela demora na averbação do tempo especial, nada há a ser provido, pois, como já noticiado alhures, a modificação na ficha cadastral do servidor não representou acréscimo patrimonial, posto que já aposentado com proventos integrais e no maior valor de referência.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 29 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
