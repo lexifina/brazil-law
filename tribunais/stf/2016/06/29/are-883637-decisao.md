@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa dispõe:
+    “Prestação de serviços. Monitória. Embargos julgados improcedentes. Embargante que não nega o inadimplemento da obrigação. Acenada dificuldade financeira que não exime a ré do pagamento da dívida. Recurso desprovido.
+    Não nega a devedora embargante o inadimplemento da obrigação e, reconhecida situação de mora, não há como forrá-la do pagamento da dívida decorrente de indenização por rescisão antecipada do contrato”. (fl. 295)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, não se aponta nenhum dispositivo do texto constitucional supostamente violado.
+    Nas razões recursais, sustenta-se o direito à indenização por danos morais. Argumenta-se ainda a necessidade de produção de prova pericial, bem como a incompetência dos juizados especiais para apreciar o feito.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalto que a orientação sumulada desta Corte é no sentido de que é inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    No caso, verifica-se que o recorrente não demonstrou de que forma o acórdão recorrido teria afrontado a Constituição Federal, não indicando sequer o dispositivo constitucional que teria sido violado.
+    Registre-se que é necessária, para a admissão do recurso extraordinário, a demonstração efetiva de ofensa à Constituição Federal, o que não ocorreu no caso dos autos, motivo pelo qual incide, na hipótese, o Enunciado 284 da Súmula do STF. Nesse sentido, confiram-se os seguintes precedentes:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULAS STF 284 E 287. 1. Razões do agravo regimental que não atacam o fundamento da decisão impugnada. 2. É imprescindível para a admissão do apelo extremo previsto no art. 102, III, da Constituição Federal que a demonstração de ofensa à norma constitucional seja posta com clareza, o que não foi suficientemente feito pela parte recorrente. Súmulas STF 284 e 287. Precedentes. 3. Recurso Extraordinário interposto com base no art. 102, III, a e c, da Constituição Federal, sem indicação de dispositivos constitucionais na petição do recurso. 4. Inexistência de argumento capaz de infirmar a decisão agravada, que deve ser mantida pelos seus próprios fundamentos. 5. Agravo regimental a que se nega provimento”. (grifei) (AI-AgR 786.680, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 30.6.2011)
+    “Agravo regimental no recurso extraordinário com agravo. Direito eleitoral. Recurso especial eleitoral. Cabimento. Recurso extraordinário deficiente. Ausência de indicação dos dispositivos constitucionais tidos por violados. Incidência da súmula 284 do STF. Ausência da preliminar formal de repercussão geral. Agravo regimental desprovido. 1. O recurso extraordinário é inadmissível quando ausente a indicação dos dispositivos constitucionais tidos por violados. Incide no caso o disposto na Súmula 284 do STF, verbis: ‘É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia’ (…)”. (grifei) (ARE-AgR 664.727, Rel. Min. LUIZ FUX, Primeira Turma, DJe 25.4.2012)
+    Ainda que superado esse óbice, verifico que divergir do entendimento adotado pelo acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, providência vedada na via extraordinária, em face do óbice previsto na Súmula 279 do STF.
+    Ademais, a matéria debatida na origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
