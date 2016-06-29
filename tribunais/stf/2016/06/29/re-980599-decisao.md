@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Instituto Federal de Educação, Ciência e Tecnologia de Sergipe. Aparelhado o recurso na afronta aos arts. 206, I, e 207 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Verifico que as instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie e na prova produzida. Em decorrência, firmado convencimento acerca da ausência de respeito às etapas do processo administrativo consoante a Lei nº 9.784/1999.
+    Também não há divergência quanto à necessidade de instauração de processo administrativo onde sejam assegurados o contraditório e a ampla defesa, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: RE 435.196-AgR/CE, Rel. Min. Dias Tóffoli, 1ª Turma, DJe 30.10.2012; RE 594.040-AgR/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 23.4.2010; e AI 712.316-AgR/DF, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 22.5.2012, verbis:
+     “Agravo regimental no recurso extraordinário. Servidor público. Nulidade da nomeação. Demissão. Princípios do contraditório e da ampla defesa. Observância. Necessidade. Reexame da legislação local e dos fatos e das provas dos autos Impossibilidade. Precedentes. 1. O entendimento desta Corte está consolidado no sentido de que qualquer ato da Administração Pública que repercuta no campo dos interesses individuais do cidadão deverá ser precedido de prévio procedimento administrativo no qual se assegure ao interessado o efetivo exercício do direito ao contraditório e à ampla defesa. 2. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional local e das provas dos autos. Incidência das Súmulas nºs 280 e 279/STF. 3. Agravo regimental não provido.”
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO NÃO ESTÁVEL. DEMISSÃO. NECESSIDADE DE OBSERVÂNCIA DE CONTRADITÓRIO E AMPLA DEFESA. I - A demissão de servidor público, mesmo que não estável, deve ser precedida por processo administrativo, em que sejam assegurados o contraditório e a ampla defesa. Precedentes. II - Agravo regimental não provido.”
+    “AGRAVO REGIMENTAL. GRATIFICAÇÃO DE PRODUÇÃO SUPLEMENTAR – GPS. CÁLCULO. ALTERAÇÃO. REDUÇÃO DA REMUNERAÇÃO. IMPOSSIBILIDADE. INOBSERVÂNCIA DO CONTRADITÓRIO E DA AMPLA DEFESA. EXISTÊNCIA DE REPERCUSSÃO GERAL. ORIENTAÇÃO REAFIRMADA PELO PLENO DO STF. RE 594.296. O acórdão recorrido está em conformidade com a orientação firmada nesta Corte, no sentido de que é ilegal a anulação de ato administrativo cuja formalização repercuta no campo dos interesses individuais sem a observância do contraditório e da ampla defesa. Agravo regimental a que se nega provimento."
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de junho de 2016.
+Ministra Rosa Weber
+Relatora
