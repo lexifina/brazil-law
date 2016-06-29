@@ -1,0 +1,30 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Sexta Turma Suplementar do Tribunal Regional Federal da 1ª Região, assim ementado:
+    "COMPENSAÇÃO DA CSSL COM A 'COFINS EFETIVAMENTE PAGA'. ARTIGO 8º, PARÁGRAFO 1º, DA LEI 9.718/1998 (REDAÇÃO ORIGINAL).
+    1. O depósito do montante integral do tributo não acarreta a extinção do crédito tributário, mas, apenas, a suspensão de sua exigibilidade (CTN, artigo 151, inciso II). A extinção somente se verifica após a conversão do depósito em renda (CTN, artigo 156, inciso VI; Lei 9.703/1998, artigo 1º, parágrafo 3º, inciso II).
+    2. A expressão 'COFINS efetivamente paga', contida no artigo 8º, parágrafo 1º, da Lei 9.718/1998, na redação original, não abarca o depósito judicial ou administrativo do tributo devido. Precedentes desta Corte.
+    3. Apelação a que se nega provimento".
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LV; 93, IX; 5º, XXXV; e 150, II, todos da Carta. Sustenta que: (i) o acórdão que julgou os embargos declaratórios não analisou todos os argumentos suscitados pela parte recorrente, violando os princípios do devido processo legal e da motivação das decisões; (ii) os valores depositados judicialmente ficam à disposição da União durante todo o trâmite processual, logo, devem ser considerados como pagamento; (iii) a partir do depósito judicial, os valores não mais estão disponíveis para as partes litigantes; (iv) o impedimento à compensação entre a COFINS depositada e a CSLL tem o propósito de discriminar a recorrente; (vi) ao vedar o direito à compensação prevista no art. 8º, §1º, da Lei nº 9.718/98, a decisão recorrida afrontou os princípios da inafastabilidade de jurisdição e da isonomia.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[...]
+    Embora invocado como violado o normativo constitucional acima transcrito, o acórdão não decidiu a questão com fundamento em preceitos constitucionais, senão pela aplicação de legislação infraconstitucional ao caso concreto.[...].
+    Ao fundamentar o recurso na contrariedade a dispositivos constitucionais, a parte recorrente pretende o reexame de questão constitucional não discutida no acórdão impugnado[...].
+    Em face do exposto, não admito o recurso extraordinário”.
+    De início, registro que inexiste afronta ao art. 93, IX, da Constituição. A jurisprudência da Suprema Corte é firme no sentido de que a fundamentação do acórdão pode ser realizada de forma sucinta. Nesse sentido, veja-se o seguinte julgado:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (Pleno AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes)
+    Quanto à violação ao princípio do devido processo legal, a pretensão carece de fundamento. Esta Corte já decidiu a ausência de repercussão geral da questão. Confira-se o julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.” (ARE 748371-RG, Rel. Min. Gilmar Mendes)
+    No mérito, a pretensão recursal também não merece prosperar. O Tribunal de origem, com apoio no acervo probatório dos autos e na interpretação da legislação infraconstitucional aplicável à espécie, concluiu pela impossibilidade de compensar a CSLL com a COFINS depositada judicialmente.
+    Para firmar entendimento diverso do acórdão recorrido quanto aos pontos aduzidos pela recorrente, seria indispensável o reexame da legislação infraconstitucional e do acervo fático-probatório, providência vedada em sede de recurso extraordinário. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Nesse sentido, veja-se o seguinte julgado:
+    “TRIBUTÁRIO. COFINS. ART. 8º, CAPUT, e § 1º, DA LEI 9.718/98. MAJORAÇÃO DE ALÍQUOTA. REGIME DE COMPENSAÇÃO. PRAZO NONAGESIMAL. CONSTITUCIONALIDADE. COMPENSAÇÃO DOS VALORES RECOLHIDOS A MAIOR COM OUTROS TRIBUTOS. OFENSA REFLEXA À CONSTITUIÇÃO.PRECEDENTES.
+    I - O Supremo Tribunal Federal, nos julgamentos dos RE 336.134/RS e RE 357.950/RS, decidiu pela constitucionalidade do art. 8º, caput, e § 1º, da Lei 9.718/98.
+    II - Desnecessidade de lei complementar para majoração de alíquota de contribuição cuja instituição ocorreu nos termos do art. 195, I, da CF. Precedentes.
+    III - A jurisprudência da Corte é no sentido de que a apreciação das questões relativas à compensação dos valores recolhidos a maior com outros tributos e à aplicação de correção monetária e de juros depende da análise de normas infraconstitucionais e do prévio exame de fatos e provas. Ofensa reflexa à Constituição. Precedentes.
+    IV - O prazo nonagesimal (CF, art. 195, § 6º) é contado a partir da publicação da Medida Provisória que houver instituído ou modificado a contribuição.
+    V - Agravo Regimental Improvido.” (RE 453.490-AgR, Rel. Min. Ricardo Lewandowski)
+    No mesmo sentido, a seguinte decisão monocrática: ARE 706.245, Rel.ª Min.ª Cármen Lúcia.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
