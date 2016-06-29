@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão proferido pela Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, que reconheceu à parte autora o direito de não sofrer incidência da Contribuição para o Plano da Seguridade Social do Servidor Público (PSS) sobre a parcela que exceder a 50 pontos da Gratificação de Desempenho da Carreira da Previdência, Saúde e Trabalho (GDPST), enquanto pertencer ao quadro ativo de servidores da instituição, e condenou a União a restituir os valores indevidamente descontados, respeitando-se a prescrição. (eDOC 20)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, alega-se violação aos artigos 39, § 3º; 40; e 201, § 11, do texto constitucional.
+    Nas razões recursais sustenta-se, em síntese, a obrigatoriedade da incidência da contribuição previdenciária sobre o valor integral da Gratificação de Desempenho da Carreira da Previdência, Saúde e Trabalho (GDPST).
+    É o relatório.
+    Decido.
+    A irresignação recursal não merece prosperar.
+    O Tribunal de origem, ao analisar o conjunto fático-probatório dos autos e a legislação aplicável – Lei 11.355/2006 –, assim decidiu:
+    “À vista da ficha individual acostada na inicial, verifico que o autor, atualmente na condição de servidor ativo, ingressou no serviço público federal em 15.01.1982, ou seja, antes das Emendas Constitucionais nº 41/2003 e 47/2005.
+    Entendo, pois, que a parte autora se enquadra na hipótese ventilada na alínea 'a', do inciso II, §6º, do art. 5º-B da Lei 11.355/2006, situação em que a GDPST será incorporada aos proventos de aposentadoria, no percentual corresponde a 50% do seu valor”. (eDOC 20)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Ainda, divergir do entendimento adotado pelo tribunal de origem demandaria o revolvimento do conjunto fático-probatório dos autos, o que também inviabiliza o processamento do presente recurso extraordinário, diante da incidência da Súmula 279 do STF.
+    Nesse sentido, confiram-se os seguintes julgados:
+    “DIREITO TRIBUTÁRIO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO – GDPST. CRITÉRIO DE CÁLCULO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 08.05.2013. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao caráter infraconstitucional da matéria, a inviabilizar o trânsito do recurso extraordinário. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Agravo regimental conhecido e não provido”. (ARE 783.258 AgR, Min. Rosa Weber, Primeira Turma, DJe 10.4.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO – GDPST: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 783.377 AgR, Min. Cármen Lúcia, Segunda Turma, DJe 24.2.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. SERVIDOR PÚBLICO. APOSENTADORIA. PREENCHIMENTO DE REQUISITOS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DAS PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 744.208-AgR, Min. Cármen Lúcia, Segunda Turma, DJe 4.11.2013).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
