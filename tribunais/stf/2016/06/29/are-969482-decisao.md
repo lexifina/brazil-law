@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão de Turma Recursal do Tribunal Regional Federal da 4ª Região, que negou provimento à apelação por entender que houve omissão do recorrente quanto à inadequação dos sistemas de processamento de alterações contratuais referentes ao Financiamento Estudantil (FIES).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI, 6º, caput, e 205 do texto constitucional.
+    Nas razões recursais, alega-se que não se trata de problemas técnicos no sistema de aditamentos do FIES, mas de violação às normas do programa e de perda de prazo por parte da recorrida. Assim, a norma regulamentadora do programa de financiamento estudantil teria natureza de cláusulas contratuais, sendo responsabilidade da ora recorrida proceder à formalização dos aditamentos de renovação semestral.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou a responsabilidade da recorrente pelas inconsistências encontradas no sistema operacional do FIES. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O caso em análise amolda-se ao julgamento apontado, valendo destacar, com base na informação da área técnica do FNDE, transcrita na sentença, que a renovação do contrato da autora foi obstaculizada por deficiência (lentidão) no sistema de formalização do aditamento e/ou inconsistências no sistema informatizado (Evento 19), derivadas, ao que consta dos autos, de incompatibilidade entre os programas (SisFIES e SisProUNI).
+    De se consignar, ademais, que embora o FNDE tenha indicado na petição recursal normas impeditivas de aumento do percentual de financiamento do FIES depois de contratado, ou ainda que vedassem benefício simultâneo de financiamento do FIES e bolsa do ProUNI, informou, na sequência, que eventuais ocorrências poderiam ser aferidas e mesmo transpostas com a compatibilização dos sistemas.
+    [...]
+    Diante do cenário exposto, e considerando que a alegação de que a parte autora não empreendeu as providências necessárias à formalização dos aditamentos pertinentes, quedando-se inerte por aproximadamente 1 (um) ano para solucionar sua situação perante o FIES sem ao menos sequer solicitar no sistema a transferência e aditamentos pretendidos foi expressamente afastada pelo julgador de primeiro grau, a cujos fundamentos me reporto como forma de decidir, o voto é pelo desprovimento do recurso do FNDE”. (Grifos originais. eDOC 46)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Contrato de financiamento estudantil – FIES. Lei nº 10.260/2001. 3. Exigência de fiador. Revolvimento do acervo fático-probatório e da legislação infraconstitucional aplicável à espécie. Súmulas 279 e 454. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento”. (ARE-AgR 826.377, de minha relatoria, Segunda Turma, DJe 12.11.2014)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 797.484, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 24.9.2010)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de junho de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
