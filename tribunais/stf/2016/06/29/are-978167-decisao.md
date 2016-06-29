@@ -1,0 +1,10 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa se reproduz a seguir:
+    “APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO FISCAL – IPTU – ISENÇÃO FISCAL – REVOGAÇÃO DO BENEFÍCIO POR LEI POSTERIOR E ESPECÍFICA – IMPOSSIBILIDADE DE CONTRATO PREVALECER EM DETRIMENTO DE LEI – DESACATO AO ART. 150, §6º, DA CONSTITUIÇÃO FEDERAL – EXTINÇÃO DA EXECUÇÃO FISCAL PELO RECONHECIMENTO DA EXISTÊNCIA DE IMUNIDADE TRIBUTÁRIA RECÍPROCA – POSSIBILIDADE – SOCIEDADE DE ECONOMIA MISTA QUE PRESTA SERVIÇO PÚBLICO EM REGIME DE CONCESSÃO, NÃO ATUANDO EM AMBIENTE CONCORRENCIAL – INTELIGÊNCIA DO ART. 150, INC. VI, A, DA CONSTITUIÇÃO FEDERAL – PRECEDENTES DO STF – SENTENÇA REFORMADA – ÔNUS SUCUMBENCIAL INVERTIDO – APELO PROVIDO. ” (fl. 99)
+    Nesse sentido, verifica-se que a controvérsia posta em juízo já se encontra afetada à sistemática da repercussão geral no Tema 508, cujo recurso-paradigma é o RE-RG 600.867, originalmente de relatoria do Ministro Joaquim Barbosa e atualmente de minha relatoria, DJe 10.02.2012, assim ementado:
+    “TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA RECÍPROCA. SOCIEDADE DE ECONOMIA MISTA. PARTICIPAÇÃO ACIONÁRIA DISPERSA E NEGOCIADA EM BOLSA DE VALORES. EXAME DA RELAÇÃO ENTRE OS SERVIÇOS PÚBLICOS PRESTADOS E O OBJETIVO DE DISTRIBUIÇÃO DE LUCROS A INVESTIDORES PÚBLICOS E PRIVADOS COMO ELEMENTO DETERMINANTE PARA APLICAÇÃO DA SALVAGUARDA CONSTITUCIONAL. ART. 150, VI, A DA CONSTITUIÇÃO. Tem repercussão geral a questão consistente em saber se a imunidade tributária recíproca se aplica a entidade cuja composição acionária, objeto de negociação em Bolsas de Valores, revela inequívoco objetivo de distribuição de lucros a investidores públicos e privados.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 1.036 do Novo Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 29 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
