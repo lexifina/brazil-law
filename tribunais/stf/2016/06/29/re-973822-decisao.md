@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4º Região, assim ementado:
+    “PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA PROFERIDA CONTRA A FAZENDA PÚBLICA. GOE. REQUISIÇÃO COMPLEMENTAR. JUROS DE MORA. INCIDÊNCIA SOBRE PERÍODO COMPREENDIDO ENTRE A EXPEDIÇÃO DOS REQUISITÓRIOS E A LIBERAÇÃO DOS VALORES. IMPOSSIBILIDADE. PAGAMENTO EFETUADO NO PRAZO CONSTITUCIONAL. BLOQUEIO DETERMINADO POR AUTORIDADE ADMINISTRATIVA. MORA NÃO IMPUTÁVEL AO DEVEDOR.
+    1. Inviável a incidência de juros moratórios em momento posterior à expedição do precatório, ainda que fundamentada na necessidade de observância da data de trânsito em julgado da impugnação fazendária.
+    2. A leitura dos autos denota que, a despeito da interposição de agravo de instrumento pela Fazenda Pública (junho/2007), a expedição do requisitório (junho/2007) se deu imediatamente após a homologação, no primeiro grau, da conta apresentada pelos exequentes (abril/2007).
+    3. Registre-se que tal procedimento fora adotado pelo juízo da execução face ao prévio conhecimento do malogro da impugnação fazendária, haja vista o entendimento contrário já perfilhado por esta Corte Revisional em feito paradigmático (AGTR 67.515-AL), reproduzido nas mais de mil e quinhentas ações desmembradas da execução do título coletivo proferido nos autos da ação nº 90.2329-7.
+    4. Ora, se a pendência do agravo de instrumento não obstou a expedição do precatório, frise-se, com base nos valores definidos em primeira instância, tampouco a efetivação do depósito pela Fazenda Pública (jan/2008), não há como se legitimar a pretensão de incidência de juros até o trânsito em julgado do aludido recurso (abril/2012).
+    5. Dadas as peculiaridades do caso concreto, há de se reconhecer não apenas que a definição do valor exequendo se deu com a prolação da decisão homologatória da conta (planilha 1), mas também que cumprida integralmente a obrigação, dentro do prazo constitucional, a demora decorrente do posterior bloqueio dos valores, por decisão de natureza administrativa, não pode ser imputada ao devedor.
+Apelação desprovida.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 100, §§ 1º e 5º, da Constituição. Pede, em síntese, que seja reconhecido “o direito dos recorrentes aos juros de mora correspondentes ao período compreendido entre o cálculo de liquidação e o trânsito em julgado do agravo de instrumento interposto pela União.”
+    O Supremo Tribunal Federal, nos autos do RE 579.431, Rel. Min. Marco Aurélio, reconheceu a existência da repercussão geral da controvérsia relativa à incidência de juros moratórios no período compreendido entre a data da conta de liquidação e a da expedição de requisição de pequeno valor ou de precatório. Veja-se o seguinte trecho da ementa do paradigma mencionado:
+    “RECONHECIMENTO DA REPERCUSSÃO GERAL DO TEMA RELATIVO AOS JUROS DE MORA NO PERÍODO COMPREENDIDO ENTRE A DATA DA CONTA DE LIQUIDAÇÃO E DA EXPEDIÇÃO DO REQUISITÓRIO, DADA A SUA EVIDENTE RELEVÂNCIA. ASSUNTO QUE EXIGIRÁ MAIOR ANÁLISE QUANDO DE SEU JULGAMENTO NO PLENÁRIO. DISTRIBUIÇÃO NORMAL DO RECURSO EXTRAORDINÁRIO, PARA FUTURA DECISÃO DE MÉRITO.”
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 29 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
