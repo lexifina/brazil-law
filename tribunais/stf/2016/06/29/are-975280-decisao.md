@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — LEGISLAÇÃO LOCAL — INTERPRETAÇÃO — AGRAVO DESPROVIDO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado de São Paulo consignou em síntese:
+    APELAÇÃO OBRIGAÇÃO DE FAZER. Policial Militar que pleiteia a declaração de inconstitucionalidade da Lei Complementar Estadual 1.142/11 – Pretensão à reclassificação em concurso para a vaga que ocupava antes da unificação dos quadros de praças da Polícia Militar, somado ao pedido de promoção a cabo. Pedido sucessivo de que seja determinada a promoção do autor a título compensatório. Sentença de primeiro grau que julgou o pedido improcedente. Decisório que merece subsistir. Não há que se falar em direito adquirido a regime jurídico. Fusão dos quadros de praças da Polícia Militar que, ademais, manteve a mesma sistemática antes utilizada - Sentença ratificada nos termos do art. 252 do Regimento Interno desta Egrégia Corte de Justiça. Negado provimento ao recurso.
+    No extraordinário cujo trânsito busca alcançar, o recorrente afirma a violação dos artigos 5º, cabeça, incisos II, XXXV, e XXXVI, 37, e 42 da Constituição Federal. Alega ter a unificação dos quadros de praças policiais militares masculino e feminino implicado a contrariedade dos princípios da razoabilidade e do direito adquirido. Sustenta a inconstitucionalidade da Lei Complementar estadual nº 1.142/11. Requer a reclassificação para a vaga anteriormente ocupada na lista de aprovados no concurso interno para cabo da Polícia Militar do Estado de São Paulo.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    [...]
+    Com o advento da Lei Complementar nº 1.142/11, houve a unificação do quadro de praças masculino e feminino, do que decorreu a reclassificação dos aprovados no concurso interno para Cabo da Polícia Militar. Em razão desta reordenação da lista, o autor passou da 825ª posição para a 938ª (fls. 25/26).
+    A lei 1.142/11 estabelece que: “Artigo único - Caberá às Comissões de Promoções de Oficiais e Praças: I - organizar os novos almanaques de Oficiais e de Subtenentes e Sargentos, observado o princípio de antiguidade estabelecido no artigo 4º da Lei Complementar nº 893, de 9 de março de 2001; II - elaborar novos quadros e relações de acesso, por antiguidade e por merecimento, para o Quadro de Oficiais Policiais Militares (QOPM) e o Quadro de Praças Policiais Militares (QPPM), na conformidade das leis que regem as promoções.”
+    O autor afirma que a lei viola diversos princípios e garantias constitucionais, em razão dos critérios adotados para a promoção.
+    Contudo, razão não lhe assiste, vez que não há que se falar, primeiramente, em direito adquirido a regime jurídico, conforme pacífico entendimento dos Tribunais Superiores.
+    As pretensões também não merecem guarida porque o critério de antiguidade foi sim preservado, tal como anteriormente. Houve apenas junção das listas de praças masculinos e femininos, sendo natural que as mulheres, tendo mais tempo na corporação, figurassem melhor colocadas do que o autor.
+    [...]
+    À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida ao Lei Complementar estadual nº 1.142/11. Ora, a controvérsia sobre o alcance de norma local não viabiliza, conforme sedimentado pela jurisprudência Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário, o acesso ao Supremo. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 29 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
