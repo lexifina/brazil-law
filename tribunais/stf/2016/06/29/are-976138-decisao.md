@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – AUSÊNCIA DE PREQUESTIONAMENTO – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Eis a síntese do acórdão impugnado:
+    PROCESSUAL. EMBARGOS À EXECUÇÃO FISCAL. CDA. MULTA ADMINISTRATIVA. SUNAB. NULIDADE DO TÍTULO EXECUTIVO. TESE NÃO COMPROVADA. AUSÊNCIA DE PREJUÍZO À DEFESA DO EXECUTADO. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA.
+    I - “Os requisitos legais para a regularidade da certidão de dívida ativa elencados no artigo 2º, §§ 5º e 6º, da Lei nº 6.830/80 servem ao exercício da ampla defesa. Desse modo, a inexatidão ou eventual irregularidade constante do referido título somente implica sua nulidade quando privarem o executado da completa compreensão da dívida cobrada”. (STJ, RESP nº 200602256913)
+    II - “O fato de haver sido especificado o fundamento legal do débito através da indicação precisa dos preceitos legais aplicáveis não induz, absolutamente, em sua nulidade, como pretende a recorrente. A sua ausência, sim, implicaria a nulidade da CDA”. (STJ, RESP nº 199900078608)
+    III – Apelação não provida.
+    2. No extraordinário, cujo trânsito pretende alcançar, o recorrente alega violação do artigo 5º, inciso LV, da Constituição Federal. Argui a nulidade da certidão de dívida ativa em razão do não preenchimento dos requisitos exigidos pertinentes. Aponta a ausência de dados necessários à identificação da origem da dívida, bem como o valor originário, juros de mora e atualização monetária, aduzindo ter tal fato impossibilitado o amplo exercício de defesa.
+    2. Consta do acórdão recorrido o atendimento dos requisitos de liquidez, certeza e exigibilidade na expedição da Certidão de Dívida Ativa. Confiram com os seguintes fundamentos:
+    In casu, verifica-se que o título executivo de fls. 16/17 atende aos requisitos de liquides, certeza e exigibilidade, consoante o entendimento esposado na jurisprudência citada, havendo de se observar que, em relação a eventuais irregularidades existentes na CDA, a embargante não logrou demonstrar a existência de prejuízo à defesa. Senão vejamos:
+    Em relação à suposta ausência da origem do valor da dívida, a mera leitura do título do executivo revela se tratar de cobrança de multa administrativa aplicada pela extinta SUNAB, ressaltando-se que sob a rubrica “fundamentação legal” está indicada a infração constante no art. 11 da Lei Delegada nº 04/62.
+    No que tange à alegada discrepância de valores contidos na CDA, como bem ressaltou a Fazenda em suas contrarrazões (fls. 65/68), “o art. 2º, § 5º, II da LEF exige que conste do título executivo o valor originário da dívida, não devendo ser causa de espanto, portanto, a diferença entre o valor inscrito (R$ 5.000,00 / UFIR 5.489,67), que é originário, e o valor constante da petição inicial executiva (R$ 11.226,00), que é atualizado até a data do ajuizamento”.
+    Por fim, no que se refere à forma de cálculo dos juros de mora, atualização monetária e demais encargos incidentes sobre a dívida originária, observa-se que o referido título menciona, expressa e separadamente, os dispositivos legais que estipulam tais parcelas, não sendo exigível que se reproduza na CDA o teor da legislação invocada.
+    À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso, o que é defeso em sede extraordinária.
+    Acresce que , o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à suposta violação dos princípios do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    De resto, os argumentos expendidos no recurso não foram enfrentados pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula deste Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 29 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
