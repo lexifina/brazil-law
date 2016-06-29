@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. EXPURGOS INFLACIONÁRIOS. PLANOS BRESSER, VERÃO E COLLOR I. EXECUÇÃO DEFINITIVA. SISTEMÁTICA DA REPERCUSSÃO GERAL. SUSPENSÃO DO FEITO. IMPOSSIBILIDADE. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que manteve decisão que assentara, verbis:
+    “Agravo de Instrumento. Ação Civil Pública. Expurgos Inflacionários. Liquidação de sentença transitada em julgado. Execução para cumprimento de sentença. Decisão agravada que determinou a suspensão do feito. Irrazoabilidade. Inexiste óbice ao prosseguimento da demanda com fulcro nos Recursos Especiais nº 1.391.198-RS e nº 1.370.899-SP, e Recurso Extraordinário nº 573.232-SC. Recurso provido, monocraticamente pelo Relator, para determinar o prosseguimento da ação no foro de origem.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, LIV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que as matérias seriam de índole infraconstitucional.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Inicialmente, destaco que os princípios da ampla defesa e do contraditório (artigo 5º, LV), quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, Tema 660, conforme se pode destacar do seguinte trecho da manifestação do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Quanto ao pedido do recorrente de suspensão do feito pela sistemática da repercussão geral, cujos processos paradigmas seriam os Recursos Extraordinários 591.797 e 626.307, verifico que o acórdão ora recorrido consignou, verbis:
+    “Acresça-se que as decisões proferidas nos Recursos Extraordinários nº 626.307/SP e 591.797/SP não se aplicam às execuções de título judicial decorrentes desta Ação Civil Pública ajuizada pela IDEC. De fato, o próprio Supremo Tribunal Federal afastou o sobrestamento dos processos em fase de execução definitiva do julgado.”
+    A decisão recorrida está em harmonia com a que fora proferida pelo Ministro Dias Toffoli nos autos dos Recursos Extraordinários 591.797 e 626.307 no sentido de determinar, a teor do disposto no artigo 328 do RISTF, o sobrestamento de todos os recursos que tenham por objeto a discussão sobre “os expurgos inflacionários advindos, em tese, do Plano Collor I, especificamente no que concerne aos critérios de correção monetária introduzidos pelas legislações que editaram o Plano Collor I, de março de 1990 a fevereiro de 1991, aplicando-se a legislação vigente no momento do fim do trintídio (concernente aos valores não bloqueados)”, bem como “sobre os expurgos inflacionários advindos, em tese, dos planos econômicos Bresser e Verão”. É que o Ministro Dias Toffoli expressamente consignou que estão excluídos da decisão de sobrestamento os processos em fase de execução definitiva e as transações efetuadas ou que vierem a ser concluídas.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de junho de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
