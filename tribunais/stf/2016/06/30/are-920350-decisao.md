@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário em face de agravo interno que manteve o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 7, p. 1):
+    “ADMINISTRATIVO E CONSTITUCIONAL. GRATIFICAÇÃO DESTINADA A POLICIAL CIVIL. VERBA DISTINTA DA CORRESPONDENTE À ANTECIPAÇÃO DE ABONO. QUESTÃO PACIFICADA NO ÂMBITO DA JURISPRUDÊNCIA DO TJ-RJ. VERBAS QUE NÃO SE CONFUNDEM. O ABONO É GENÉRICO E FOI INCORPORADO NOS VENCIMENTOS. POR OUTRO LADO, A GRATIFICAÇÃO ERA PRECÁRIA E DEPENDIA DO PREENCHIMENTO DE PRESSUPOSTOS ESPECÍFICOS. AUSÊNCIA DE DIREITO À GRATIFICAÇÃO. FALTA DE PROVA DE CUMPRIMENTO DOS REQUISITOS. PRESERVAÇÃO DA IRREDUTIBILIDADE. AUSÊNCIA DE RETROATIVIDADE DA LEI NOVA. RECURSO A QUE SE NEGA SEGUIMENTO, NOS TERMOS DO ART. 557, CAPUT, DO CPC.”
+    Os embargos de declaração foram rejeitados (eDOC 11, pp. 1-3).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI; e 37, XV, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “o pagamento da gratificação em tela decorre apenas do caráter técnico de certas atividades da administração e, portanto, deve ser tida como incorporada aos vencimentos dos recorrentes, mormente porque o recebimento ininterrupto ultrapassou o lapso de 3 (três) anos exigido pela lei anterior. (fls. 19, 24, 40, 43, 56, 58, 139 e seguintes).” (eDOC 13, p. 8).
+    Alega-se, ainda, que “a instituição dessa gratificação visa a preencher a lacuna deixada pela inexistência de reajustes anuais da data base e, com isso, representou verdadeira majoração dos vencimentos, recebendo, porém denominação diversa na tentativa de que não refletisse nas demais verbas. Retirada subitamente dos contracheques dos recorrentes, há nítida violação às normas constitucionais incidentes e antes referidas.” (eDOC 13, p. 9).
+    A 3ª Vice-Presidência do TJ/RJ inadmitiu o recurso com fundamento nas Súmulas 280 e 284 do STF (eDOC 15, pp. 1-4).
+    Em virtude da declaração de suspeição do Ministro Luiz Fux, o presente feito foi redistribuído para este gabinete.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (eDOC 9, p. 4):
+    “Note-se que não há prova a respeito da redução de vencimentos, mas, ao contrário, os documentos acostados aos autos dão conta de que houve efetiva evolução da capacidade financeira dos agravantes.
+    Por outro lado, não se trata de aplicar retroativamente uma lei nova, mas sim aplicar imediatamente os seus efeitos.
+    Veja-se que o fato de a Lei nº 2.990/98 ter sido revogada pela Lei nº 3.586/01, sem que os agravantes tenham preenchido os requisitos nela previstos, afasta a pretensão de incorporação da aludida gratificação.
+    Revela-se, portanto, irrelevante o fato de a administração ter continuado a realizar o pagamento, bem como de ter concedido o benefício sem a regulamentação dos critérios de desempenho, porquanto, conforme já mencionado, a gratificação é verba precária e provisória, que não se incorpora ao patrimônio funcional do servidor, não havendo que se falar em direito adquirido a regime jurídico.”
+    Dessa forma, constato que eventual divergência ao entendimento adotado pelo juízo a quo, demandaria o reexame de fatos e provas e o da legislação aplicável à espécie (Leis Estaduais nº 2.990/98 e Lei nº 3.586/01), de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF. Confira-se, a propósito, o seguintes precedente:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Policiais Civis do Estado do Rio de Janeiro. Lei Estadual nº 2.990/98. Incorporação de gratificação. Ofensa a direito local. Violação reflexa. Análise de fatos e provas. Impossibilidade. Direito adquirido a regime jurídico. Inexistência. Redução remuneratória. Não ocorrência. Precedentes. 1. É pacífica a jurisprudência da Corte no sentido de que não há direito adquirido a regime jurídico, ficando assegurada a irredutibilidade de vencimentos. 2. No caso em tela, para rever o entendimento do Tribunal de origem, seria necessário analisar a legislação local e reexaminar os fatos e as provas constantes dos autos. Incidência das Súmulas nº 280 e 279/STF. 3. Agravo regimental não provido.” (ARE 905.076-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 14.12.2015)
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 30 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
