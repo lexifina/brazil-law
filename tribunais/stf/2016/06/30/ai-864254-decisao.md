@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo de instrumento foi interposto contra acórdão que, complementado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio de Janeiro, está assim ementado (fls. 82):
+    “AÇÃO DECLARATÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CELEBRADO ENTRE AS PARTES LITIGANTES. PREVISÃO EXPRESSA SOBRE A FORMA COMO SERIAM PAGOS OS HONORÁRIOS ADVOCATÍCIOS. ACORDO CELEBRADO NOS RESPECTIVOS AUTOS ENTRE OS ENTÃO LITIGANTES. DÚVIDA SUPERVENIENTE ACERCA DA CLÁUSULA QUE ESTIPULAVA O VALOR DOS HONORÁRIOS ADVOCATÍCIOS. NECESSIDADE DE SE DEFINIR A RELAÇÃO JURÍDICA ENTRE AS PARTES CONTRATANTES. CABIMENTO DA AÇÃO DECLARATÓRIA. PRECEDENTES JURISPRUDENCIAIS. POSSIBILIDADE DO MANEJO DA AÇÃO DECLARATÓRIA, COM O PROPÓSITO DE SE OBTER A ADEQUADA INTERPRETAÇÃO DE CLÁSULA CONTRATUAL. INTERESSE DE AGIR MANIFESTO E INEQUÍVOCO. PETIÇÃO INICIAL QUE NÃO PADECE DE QUALQUER VÍCIO. INEXISTÊNCIA DE PROVA NO SENTIDO DA EXISTÊNCIA DE ACORDO POSTERIOR ALTERANDO O CONTRATO ORIGINÁRIO. ÔNUS DA PROVA QUE INCUMBIA À PARTE RÉ. ADEQUAÇÃO DA VIA PROCESSUAL ELEITA. DECLARAÇÃO QUE SE FAZ CABÍVEL, NOS TERMOS PRETENDIDOS NA PETIÇÃO INICIAL. CLÁUSULA ESPECÍFICA PREVENDO O PERCENTUAL A INCIDIR SOBRE O VALOR RECEBIDO PELA AUTORA, EM DECORRÊNCIA DE ACORDO CELEBRADO ANTERIORMENTE À SENTENÇA. RECURSO CONHECIDO E PROVIDO, COM INVERSÃO DOS ÔNUS DE SUCUMBÊNCIA.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, verifico que, no tocante à alegada violação do princípio do juiz natural, o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 597.133/RS, Rel. Min. RICARDO LEWANDOWSKI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. JULGAMENTO DE APELAÇÃO POR TURMA JULGADORA COMPOSTA MAJORITARIAMENTE POR JUÍZES FEDERAIS CONVOCADOS. NULIDADE. INEXISTÊNCIA. OFENSA AO PRINCÍPIO DO JUIZ NATURAL. INOCORRÊNCIA. PRECEDENTES. RECURSO DESPROVIDO.
+    I – Não viola o postulado constitucional do juiz natural o julgamento de apelação por órgão composto majoritariamente por juízes convocados, autorizado no âmbito da Justiça Federal pela Lei 9.788/1999.
+    II – Colegiado constituído por magistrados togados, integrantes da Justiça Federal, e a quem a distribuição de processos é feita aleatoriamente.
+    III – Julgamentos realizados com estrita observância do princípio da publicidade, bem como do direito ao devido processo legal, à ampla defesa e ao contraditório.
+    IV – Recurso extraordinário desprovido.” (grifei)
+    Observo, por relevante, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito desta Suprema Corte na apreciação de controvérsia idêntica à ora em análise (AI 815.344-AgR/SP, Rel. Min. JOAQUIM BARBOSA – ARE 650.721-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DO JUIZ NATURAL. TARIFA DE ÁGUA E ESGOTO. CRITÉRIO DE CLASSIFICAÇÃO DO USUÁRIO. DECRETO ESTADUAL Nº 41.446/1996. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL.
+    1. É firme a jurisprudência desta Corte de que a convocação de juiz para compor órgão colegiado dos Tribunais locais não viola o princípio do juiz natural. Precedentes.
+    …...................................................................................................
+    3. Agravo regimental a que se nega provimento.”
+    (AI 772.129-AgR/SP, Rel. Min. ROBERTO BARROSO – grifei)
+    Sendo assim, e em face das razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+    Publique-se.
+    Brasília, 30 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
