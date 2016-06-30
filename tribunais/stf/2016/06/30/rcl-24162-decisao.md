@@ -1,0 +1,38 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada pelo Ministério Público junto ao Tribunal de Contas do Estado de Goiás em face de ato do Secretário de Estado da Casa do Governo do Estado de Goiás, o qual teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido na ADI nº 3.772/DF.
+    Aduz o reclamante que
+    “(…). a concessão de aposentadoria especial pelo administrador goiano ocorreu com o alargamento da noção de magistério, haja vista a aplicação dos critérios singulares de aposentadoria especial à atividade desenvolvida fora de sala de aula, em nítida ofensa à autoridade de Decisão proferida na Ação Direta de Inconstitucionalidade nº 3.772 deste Egrégio Tribunal, sendo passível e necessária a utilização do instituto da Reclamação”.
+    Pede a concessão de liminar para suspender os efeitos do ato administrativo impugnado e, ao final, a procedência da reclamação para anular o ato administrativo concessivo da aposentadoria especial.
+    É breve o relatório. Decido.
+    Constitui pressuposto positivo de desenvolvimento válido do processo, a ser analisado em juízo preliminar ao mérito da demanda, a existência de interesse jurídico e de legitimidade do autor, no caso, o Ministério Público Junto ao Tribunal de Contas do Estado de Goiás.
+    Defende-se a existência de legitimidade ativa ad causam com fundamento no art. 988, III, do CPC/2015, o qual dispõe:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    (…)
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;”
+    O Ministério Público, previsto como função essencial à Justiça (CF/88, art. 127), está previsto no art. 128 da Constituição Federal, in verbis:
+    “Art. 128. O Ministério Público abrange:
+    I - o Ministério Público da União, que compreende:
+    a) o Ministério Público Federal;
+    b) o Ministério Público do Trabalho;
+    c) o Ministério Público Militar;
+    d) o Ministério Público do Distrito Federal e Territórios;
+    II - os Ministérios Públicos dos Estados.”
+    Essa Suprema Corte possui jurisprudência no sentido de o Parquet especial junto aos Tribunais de Contas constituir “modelo jurídico heterônomo estabelecido pela própria Carta Federal” (ADI nº 328/SC, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe de 6/3/2009), não se confundindo com o Ministério Público, seja o da União, seja os dos Estados.
+    Note-se, contudo, que não foi outorgado aos membros do Ministério Público junto às Cortes de Contas “as funções institucionais do Ministério Público” (CF/88, art. 129), sendo assente no STF, no balizamento da esfera de atribuição do Parquet especial (ADI 3.307, Rel. Min. Cármen Lúcia; ADI 3.160, Rel. Min. Celso de Mello, v.g.), o entendimento de que a cláusula de garantia inscrita no art. 130 da CF/88 destina-se a “proteger os membros do Ministério Público especial no relevante desempenho de suas funções perante os Tribunais de Contas” (ADI nº 789/DF, Rel. Min. Celso de Mello, Tribunal Pleno, DJ de 19/12/94).
+    Em outras palavras, o art. 130 da CF/88 constitui garantia de ordem subjetiva de observância de direitos, vedações e forma de investidura no cargo estabelecidas no estatuto jurídico dos membros do Ministério Público comum aos integrantes do MP junto às Cortes de Contas, sem que, contudo, a regra constitua ampliação da atribuição institucional do Parquet especial, cujos integrantes permanecem com “atuação funcional exclusiva e independente perante as Cortes de Contas” (ADI nº 3.160/CE, Rel. Min. Celso de Mello, Tribunal Pleno, DJe de 20/3/2009).
+    Da perspectiva de atuação funcional exclusiva perante a Corte de Contas, consolidou-se no STF o entendimento de que os membros do Parquet especial não detêm legitimidade ad causam para executar as decisões administrativas formadas no âmbito administrativo. Vide
+    “RECURSO EXTRAORDINÁRIO. TRIBUNAL DE CONTAS DO ESTADO DE SERGIPE. COMPETÊNCIA PARA EXECUTAR SUAS PRÓPRIAS DECISÕES: IMPOSSIBILIDADE. NORMA PERMISSIVA CONTIDA NA CARTA ESTADUAL. INCONSTITUCIONALIDADE.
+    1. As decisões das Cortes de Contas que impõem condenação patrimonial aos responsáveis por irregularidades no uso de bens públicos têm eficácia de título executivo (CF, artigo 71, § 3º). Não podem, contudo, ser executadas por iniciativa do próprio Tribunal de Contas, seja diretamente ou por meio do Ministério Público que atua perante ele. Ausência de titularidade, legitimidade e interesse imediato e concreto.
+    2. A ação de cobrança somente pode ser proposta pelo ente público beneficiário da condenação imposta pelo Tribunal de Contas, por intermédio de seus procuradores que atuam junto ao órgão jurisdicional competente.
+    3. Norma inserida na Constituição do Estado de Sergipe, que permite ao Tribunal de Contas local executar suas próprias decisões (CE, artigo 68, XI). Competência não contemplada no modelo federal. Declaração de inconstitucionalidade, incidenter tantum, por violação ao princípio da simetria (CF, artigo 75). Recurso extraordinário não conhecido” (RE nº 223.037, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ de 2/8/2002).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV, DA CONSTITUIÇÃO. OFENSA REFLEXA. PROCESSUAL CIVIL E CONSTITUCIONAL. TRIBUNAL DE CONTAS ESTADUAL. APLICAÇÃO DE PENALIDADE. EXECUÇÃO. LEGITIMIDADE ATIVA. BENEFICIÁRIO DA CONDENAÇÃO. ILEGITIMIDADE DO MINISTÉRIO PÚBLICO. AGRAVO A QUE SE NEGA PROVIMENTO. I - Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa ao princípio constitucional da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Outrossim, o julgamento contrário aos interesses da parte não basta à configuração da negativa de prestação jurisdicional. II - A jurisprudência desta Corte é no sentido de que a ação de execução de penalidade imposta por Tribunal de Contas somente pode ser ajuizada pelo ente público beneficiário da condenação. Precedentes. III - Agravo regimental a que se nega provimento” (ARE nº 791.577/MA-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 21/8/2014).
+    A ratio que informa a ilegitimidade ad causam para executar decisões administrativas formadas no âmbito da respectiva Corte de Contas por meio de ação desenvolvida pelos meios ordinários é a mesma que fundamenta a negativa da legitimidade do MP junto ao TCE para a propositura da presente reclamação, utilizada como sucedâneo de acesso a instrumento judicial coercitivo de seu entendimento.
+    O meio utilizado tem o demérito de, além de ser proposto por parte ilegítima, provocar o exame per saltum por esta Suprema Corte da regularidade de ato do TCE/GO, questão a ser desenvolvida pelos meios ordinários e respectivos graus, sendo inadequado o emprego do instrumento reclamatório como “sucedâneo de ação rescisória, de recursos ou de ações judiciais em geral” (Rcl nº 23.157/BA-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 7/4/2016).
+    Nesse sentido: Rcl nº 24.452/DF, Rel. Min. Edson Facchin, DJe de 30/6/2016; e Rcl nº 24.161/DF, Rel. Min. Roberto Barroso, DJe de 24/6/2016.
+    Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF, prejudicada a apreciação do pedido liminar.
+    Publique-se. Int..
+    Brasília, 30 de junho de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
