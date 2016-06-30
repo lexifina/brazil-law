@@ -1,0 +1,17 @@
+Trata-se de embargos de declaração opostos contra decisão que negou seguimento ao agravo em razão dos óbices intransponíveis indicados na certidão da Secretaria Judiciária, quais sejam, agravo intempestivo e decisão agravada com base na sistemática da repercussão geral (Art. 543-B, CPC/73).
+    A parte embargante sustenta, em síntese, a existência de erro material na certidão, pois referido documento não teria observado que a decisão agravada foi publicada em 18/11/2015, razão pela qual seu agravo, interposto em 30/11/2015, fora apresentado no prazo recursal.
+    É o relatório necessário.
+    Decido.
+    Por oportuno, conforme preceitua o CPC, art. 1.022, I, II e III, ressalto que há pressupostos certos para a oposição dos embargos de declaração, os quais, nestes autos, mostram-se ausentes. O efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovado o vício, o que não ocorreu no caso, eis que a decisão embargada apreciou o óbice da intempestividade do agravo em perfeita consonância com a jurisprudência.
+    Isso porque esta Corte entende que a oposição de embargos de declaração contra a decisão do Presidente do Tribunal de origem que não admitiu o recurso extraordinário, por serem incabíveis, não suspende ou interrompe o prazo para a interposição do agravo de instrumento. Nesse sentido, menciono decisões de ambas as Turmas desta Corte:
+    agravo regimental no agravo de instrumento. Intempestividade. embargos declaratórios incabíveis. Não suspensão ou interrupção do prazo recursal. Precedentes. 1. A jurisprudência desta Corte é pacífica no sentido de que a oposição de embargos de declaração contra a decisão do Presidente do Tribunal de origem que não admitiu o recurso extraordinário, por serem incabíveis, não suspende ou interrompe o prazo para a interposição do agravo de instrumento. 2. agravo regimental não provido (AI 637.038-AgR/RN, Rel. Min. Dias Toffoli, Primeira Turma).
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO INCABÍVEIS, NO CASO. IMPOSSIBILIDADE DE SUSPENSÃO OU INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. PRECEDENTES. 1. São incabíveis, no caso, embargos de declaração opostos contra decisão que inadmite recurso extraordinário. 2. É pacífica a jurisprudência desta Suprema Corte no sentido de que recurso incabível não suspende ou interrompe o prazo recursal. 3. Intempestividade reconhecida do agravo de instrumento. Precedentes. 4. agravo regimental improvido (AI 733.719-AgR/AM, Rel. Min. Ellen Gracie).
+    Este foi fundamento da decisão ora embargada, não havendo falar, no caso, de erro material quanto à contagem de prazo.
+    Por esta razão, a decisão ora embargada não possui qualquer vício a ser sanado, isto é, inexiste omissão, contradição, obscuridade ou erro material a ser sanado.
+    Ressalto que, ainda que superado o óbice da intempestividade do agravo, subsiste a circunstância de não ser cabível agravo para correção de suposto equívoco na aplicação da sistemática da repercussão geral.
+    Com efeito, a Primeira Vice-Presidência do Tribunal de Justiça de Minas Gerais, ao exercer o juízo de admissibilidade do recurso extraordinário interposto pela parte ora embargante, adotou a sistemática da repercussão geral prevista no art. 543-B do CPC/1973.
+    Isto posto, acolho os embargos para prestar esclarecimentos sem, contudo, alterar o dispositivo da decisão.
+    Publique-se.
+    Brasília, 30 de junho de 2016.
+Ministro Ricardo Lewandowski
+Presidente
