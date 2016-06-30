@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – PRESTAÇÃO JURISDICIONAL – ENTREGA – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Paraná, reformando o entendimento do Juízo, concedeu a segurança para deferir o pedido de extensão do Adicional de Desempenho de Atividade Exclusiva do Estado – ADAE. No extraordinário cujo trânsito busca alcançar, o recorrente alega a ofensa aos artigos 40, § 8º, da Constituição Federal e 7º da Emenda Constitucional nº 41/2003. Afirma ser a vantagem extensível apenas aos servidores em desempenho da carreira de Estado. Sustenta a impossibilidade de pagamento aos inativos, por ausência de fonte de custeio.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula desta Corte:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O colegiado de origem expressamente consignou não se tratar o Adicional de Desempenho de Atividade Exclusiva de Estado – ADAE – de verba de caráter específico pelo exercício da função, nem mesmo de rubrica eventual. Disse ter a parcela natureza jurídica geral e permanente, devendo ser estendida aos aposentados. As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida à Lei municipal nº 9.334/2004. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
