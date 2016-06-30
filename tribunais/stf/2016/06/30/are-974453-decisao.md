@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de horas extraordinárias. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, inciso LV, e 39 , por contrariedade ao princípio da ampla defesa, afirmando ter-lhe sido negada a oportunidade de produzir provas. Aponta o enriquecimento ilícito do Estado diante da prestação de serviço sem a devida contraprestação.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O colegiado de origem expressamente consignou ser indevido o pagamento das horas extras, uma vez que o horário de refeição já se encontra compensado, nos termos da legislação de regência. À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida à Lei complementar estadual nº 959/2004 e à Lei complementar nº 207/79 . Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    No mais, o Supremo, no recurso extraordinário com agravo nº 639.228/RJ, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da questão, concluiu não ter repercussão geral o tema relativo à suposta ofensa aos princípios da ampla defesa e do contraditório quando o juiz indefere pedido de produção de provas. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
