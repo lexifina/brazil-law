@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de embargos de declaração opostos contra decisão que deu provimento ao recurso extraordinário ao argumento de que o entendimento do Tribunal de origem está em desconformidade com a jurisprudência do STF firmada no julgamento do RE 564.354 – Tema 76.
+    Sustenta a parte embargante, em suma, que o recurso paradigma que serviu de fundamento para a decisão monocrática não guarda relação com a matéria versada no presente caso.
+    2. Com razão a parte embargante, uma vez que a decisão embargada, ao dar provimento ao recurso extraordinário, tratou de matéria estranha à discutida nestes autos. Com efeito, o referido apelo não diz respeito à aplicação dos tetos instituídos pelas EC 20/98 e 41/03 aos benefícios concedidos antes de seu advento. Na verdade, o embargante visa à aplicação dos mesmos índices de reajuste utilizados para a fixação dos tetos de benefícios em junho de 1999 e maio de 2004 à renda mensal de seu benefício previdenciário.
+    3. A rigor, o recurso extraordinário trata de questão cuja repercussão geral foi rejeitada por esta Corte no julgamento do RE 686.143-RG (Rel. Min. CEZAR PELUSO, DJe de 11/9/2012, Tema 568), em razão de sua natureza infraconstitucional. Eis a ementa desse acórdão:
+    PREVIDÊNCIA SOCIAL. BENEFÍCIO. Índice de reajuste. Equiparação ao limite do salário de contribuição. Questão infraconstitucional. Precedentes da Corte. Ausência de repercussão geral. Recurso extraordinário recusado. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto o índice para reajuste de benefício pago pelo regime geral de previdência, versa sobre matéria infraconstitucional. (RE 686.143-RG, Rel. Min. CEZAR PELUSO, DJe de 11/9/2012 )
+    Registre-se que o acolhimento destes embargos de declaração para que seja negado seguimento ao recurso extraordinário não importa reformatio in pejus. Isso porque, embora a decisão embargada houvesse provido o apelo extremo, o fez para garantir a aplicação, ao benefício previdenciário do embargante, dos tetos instituídos pelas ECs 20/98 e 41/03. Trata-se de provimento jurisdicional evidentemente diverso daquele postulado na petição inicial, que em nada aproveitaria ao ora embargante, razão pela qual se afigura legítima a reforma do julgado nos presentes termos.
+    4. Diante do exposto, acolho os embargos de declaração, com efeitos infringentes, para negar seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 30 de junho de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
