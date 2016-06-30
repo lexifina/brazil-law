@@ -1,0 +1,21 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO. PROFESSOR. DIREITO À NOMEAÇÃO. RECONHECIMENTO DE VAGAS. PRECEDENTE DO E. STF.
+    – Há preterição no direito à nomeação, quando durante o prazo de validade do concurso que a demandante prestou, a Administração reconheceu a existência de vagas para o mesmo cargo.
+    – Neste sentido colhe-se na jurisprudência precedente do colendo STF da lavra do excelentíssimo relator Ministro Menezes Direito: 1. Os candidatos aprovados em concurso público têm direito subjetivo à nomeação para a posse que vier a ser dada nos cargos vagos existentes ou nos que vierem a vagar no prazo de validade do concurso. 2. A recusa da Administração Pública em prover cargos vagos quando existentes candidatos aprovados em concurso público deve ser motivada, e esta motivação é suscetível de apreciação pelo Poder Judiciário. 3. Recurso extraordinário ao qual se nega provimento.'(STF – 1ª T, RE 227480, Rel. MENEZES DIREITO, DJe 21/agosto/2009)
+    – Apelação e remessa obrigatória improvidas.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o presente recurso extraordinário revela-se insuscetível de conhecimento.
+    É que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, fundando-se, ainda, para resolver o litígio, em interpretação de cláusula de edital, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém nas Súmulas 279 e 454 do Supremo Tribunal Federal.
+    A mera análise do acórdão recorrido torna evidente que a E. Tribunal Regional Federal da 5ª Região, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático- -probatórios e em interpretação de cláusula de edital, a seguir destacados:
+    “A questão posta a deslinde cinge-se a verificação de direito do impetrante de ser nomeado para o concurso de professor de Química do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco, no campus de Vitória de Santo Antão ou de Belo Jardim, em uma das vagas existentes que é objeto do concurso público levado a efeito através de Edital nº 09/28.04.2009, em que foi classificado em 5º lugar.
+    O cerne da questão é que dentro do prazo de validade do concurso em que o impetrante ficou classificado em quinto lugar, houve abertura do Edital para novo certame.
+    Neste contexto, mesmo que as vagas previstas no edital a que o impetrante está vinculado não houvesse previsão de cinco lugares, no prazo de validade daquele certame a Administração reconheceu a necessidade de preencher outras vagas, tanto assim que abriu novo certame.
+    Há preterição no direito à nomeação, quando durante o prazo de validade do concurso que o impetrante prestou, a Administração reconheceu a existência de vagas para o mesmo cargo.
+    …...................................................................................................
+    Não há reparos a sentença vergastada, que entendeu que a abertura de novo certame, na validade do concurso anterior, na mesma área que o impetrante concorrerá – Química, é flagrante inequívoco de preterição do direito do demandante à nomeação.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, pelas razões expostas, não conheço do presente recurso extraordinário.
+    Publique-se.
+    Brasília, 30 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
