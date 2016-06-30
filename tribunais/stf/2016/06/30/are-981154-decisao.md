@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto em face de acórdão proferido pela 13ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “CUMPRIMENTO DE SENTENÇA. AÇÃO DE ANULAÇÃO DE CONTRATO DE COMPRA E VENDA. PRETENDIDA DECLARAÇÃO DE NULIDADE DOS ATOS PROCESSUAIS, POR AUSÊNCIA DE INTIMAÇÃO DOS SEUS ATUAIS PATRONOS. INADMISSIBILIDADE. HIPÓTESE EM QUE OS NOVOS PATRONOS FORAM CONSTITUÍDOS EM AÇÃO DE EMBARGOS DO DEVEDOR, AUTÔNOMA À PRESENTE. ADVOGADOS REGULARMENTE INTIMADOS. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+    BEM DE FAMÍLIA. EXECUÇÃO. ALEGADA CONSTRIÇÃO INDEVIDA. INOCORRÊNCIA. AUSÊNCIA DE PROVA DA EFETIVA DESTINAÇÃO DO IMÓVEL À RESIDÊNCIA FAMILIAR. CERTIDÃO DO OFICIAL DE JUSTIÇA QUE ATESTA QUE O IMÓVEL SE ENCONTRA VAZIO E LIVRE DE PESSOAS E COISAS. DECISÃO MANTIDA. RECURSO IMPROVIDO.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso LV, e 6º, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento. Ressalte-se que eles não foram objeto dos embargos de declaração opostos. Incidem, na espécie, as Súmulas nºs 282 e 356 desta Corte.
+    É certo que, no caso do recurso extraordinário, para se considerar que houve prequestionamento, não é necessário que o acórdão recorrido tenha tratado explicitamente dos dispositivos constitucionais invocados pela parte recorrente. É necessário, porém, que o referido acórdão tenha versado inequivocamente sobre a matéria neles abordada, o que não ocorreu no caso em tela.
+    Ressalte-se, ainda, que a jurisprudência desta Corte é pacífica no sentido de que, se a ofensa à Constituição surgir com a prolação do acórdão recorrido, é necessário opor embargos declaratórios que permitam ao Tribunal de origem apreciar o ponto sob o ângulo constitucional.
+    Registro, também, que a Corte não admite a tese do chamado prequestionamento implícito.
+    Sobre o tema, anotem-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. INADMISSIBILIDADE DO PREQUESTIONAMENTO IMPLÍCITO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 860.087/GO AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 5/3/15).
+    “Agravo regimental no recurso extraordinário. Prequestionamento. Incidência da Súmula 282/STF. Prequestionamento implícito. Inadmissibilidade. 1. A simples afirmação de que os dispositivos constitucionais suscitados nas razões e contrarrazões de apelação estariam prequestionados não é suficiente para considerar prequestionada a matéria constitucional suscitada no recurso extraordinário. É necessário a oposição de embargos de declaração. Incide, no caso, a Súmula nº 282/STF. 2. A Corte não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo , é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional. 3. Agravo regimental não provido” (RE nº 764.652/SCAgR, Primeira Turma, de minha relatoria, Dje de 2/5/15).
+    “Agravo regimental em recurso extraordinário. 2. Alegação de ofensa ao art. 5º, LXIX e 97, da Carta Magna. Ausência de prequestionamento. Caso a violação à Constituição surja no julgamento do acórdão recorrido, torna-se indispensável à oposição dos embargos de declaração. 3. Agravo regimental a que se nega provimento” (RE nº 411.859/MS-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes , DJ de 3/3/06).
+    Por outro lado, no tocante ao alegado cerceamento de defesa, o Plenário desta Corte, assentou a ausência de repercussão geral do tema, haja vista que não alcança status constitucional. Vide:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE nº 748.371/MT-RG, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660).
+    Por fim, é certo que para acolher a pretensão da recorrente e ultrapassar o entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional pertinente, bem como reexaminar o conjunto fático-probatório da causa, providências vedadas em sede de recurso extraordinário. Incidência das Súmulas nºs 636 e 279/STF.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de junho de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
