@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à prescrição quinquenal da pretensão e à improcedência do pedido de indenização por danos morais relativa à divulgação da prisão e ao uso indevido de algemas. No extraordinário cujo trânsito busca alcançar o recorrente alega a violação dos artigos 5º, incisos V e X, 37, § 6º, da Constitucional Federal, e diz contrariado o verbete vinculante nº 11 da Súmula do Supremo. Alega estar evidente o nexo causal, diante da falta de cautela da operação policial sigilosa. Tece considerações sobre o uso ilícito de algemas.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Colegiado de origem assentou a prescrição quinquenal, considerada a data entre a prisão e o ajuizamento da ação, e a ausência de nexo de causalidade exigido para configuração da responsabilidade civil. Consignou, ainda, a grande dimensão da operação policial e a consequente probabilidade de condução concomitante de vários presos, sendo prudente a utilização de algemas, evitando o tumulto que viesse a colocar em risco a integridade física tanto dos presos quanto dos policiais. As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
