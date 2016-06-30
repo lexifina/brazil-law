@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Instituto Nacional do Seguro Social. Aparelhado o recurso na afronta ao art. 9º, § 1º, da Emenda Constitucional nº 20/1998.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao apontado dispositivo da Constituição da República.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. CONCESSÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO COM CONVERSÃO E CONTAGEM DE PERÍODO TRABALHADO EM CONDIÇÕES ESPECIAIS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF. 1. O benefício previdenciário, nas hipóteses em que sub judice o preenchimento dos requisitos para sua concessão, demanda a análise da legislação infraconstitucional e do reexame do conjunto fático-probatório dos autos. Precedentes: ARE 662.120-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8/2/2012, e ARE 732.730-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 4/6/2013. 2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 3. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 4. In casu, o acórdão recorrido assentou: “PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO COM CONVERSÃO E CONTAGEM DE PERÍODO TRABALHADO EM CONDIÇÕES ESPECIAIS. SENTENÇA IMPROCEDENTE. RECURSO DA PARTE AUTORA. NEGADO PROVIMENTO”. 5. Agravo regimental DESPROVIDO.” (ARE 827.909-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.10.2014)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2016.
+Ministra Rosa Weber
+Relatora
