@@ -1,0 +1,27 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal Regional Eleitoral do Distrito Federal, está assim ementado (fls. 111/112):
+    “DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. MANDADO DE SEGURANÇA. PORTARIA DE NOMEAÇÃO DE CANDIDATA ANULADA. PUBLICAÇÃO FORA DO PRAZO DE VALIDADE DO CERTAME. PRAZO DECADENCIAL. EXCEÇÃO LEGAL E CONSTITUCIONAL CONTAGEM DOS PRAZOS ADMINISTRATIVOS COMO OS PRAZOS PROCESSUAIS: TÉRMINO DA VALIDADE DO CONCURSO EM DIA NÃO ÚTIL. PRORROGAÇÃO. POSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL QUANTO À NECESSIDADE DE A PUBLICAÇÃO DO ATO DE NOMEAÇÃO OCORRER DENTRO DO PRAZO DE VALIDADE DO CONCURSO: MOROSIDADE DA ADMINISTRAÇÃO NÃO PODE ATINGIR DIREITO SUBJETIVO DE TERCEIROS.
+    I. O prazo de validade de um concurso público possui natureza decadencial. No entanto, a Constituição Federal e a Lei dos Servidores Públicos da União excetuaram essa regra ao viabilizar a possibilidade de prorrogação desta.
+    II. A Lei nº 8.112/90 foi expressa ao regulamentar essa exceção quando conferiu à contagem de todos os prazos administrativos nela previstos a natureza da contagem dos prazos processuais. Diante disso, se a validade de um concurso público terminar em dia não útil, esta restará prorrogada para o primeiro dia útil subsequente.
+    III. A não publicação dentro do prazo de validade do concurso, caso assim se exija, é responsabilidade da Administração Pública, não podendo seus efeitos atingir direito subjetivo de terceiros.
+    IV. Segurança concedida.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 37, III, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica acerca do litisconsórcio passivo necessário, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 8.112/90), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Cabe registrar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, para conceder a segurança, apoiou-se em dispositivos de ordem meramente legal e em aspectos fáticos-probatórios, a seguir destacados (fls. 115 e 117):
+    “A controvérsia reside no fato de que publicação desse ato deu-se no dia 13/07/2015 (segunda-feira), um dia após a data prevista para o vencimento do certame.
+    De fato, o prazo de validade do concurso é revestido de natureza decadencial. No entanto, a própria Constituição Federal e a Lei dos Servidores Públicos da União excetuaram essa regra ao viabilizar a prorrogação da validade dos concursos públicos.
+    …..................................................................................................
+    A Lei 8.112/90 foi expressa ao regulamentar essa exceção quando conferiu à contagem de todos os prazos administrativos nela previstos a natureza da contagem dos prazos processuais. Nesse sentido dispôs o artigo 238:
+    Art. 238. Os prazos previstos nesta Lei serão contados em dias corridos, excluindo-se o dia do começo e incluindo-se o do vencimento, ficando prorrogado, para o primeiro dia útil seguinte, o prazo vencido em dia em que não haja expediente.
+    …...................................................................................................
+    Além disso, a exigência de que a publicação do ato deva ocorrer dentro da validade do concurso acarretaria uma diminuição do prazo deste, em desrespeito às normas do edital, pois, no caso, sendo a nomeação efetivada na sexta-feira seria inviável a publicação ser feita no mesmo dia.
+    Assim, o último dia de validade do concurso não mais seria 12/7/2015 e sim o último dia útil viável para a publicação do ato. No caso, a candidata foi nomeada tempestivamente, dentro da validade do certame e a não publicação desse ato nesse mesmo dia seria responsabilidade da Administração Pública e, assim, os prejuízos daí decorrentes não poderiam ser suportados pela administrada.”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 30 de junho de 2016.
+Ministro CELSO DE MELLO
+Relator
