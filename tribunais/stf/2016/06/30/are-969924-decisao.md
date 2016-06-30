@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Mato Grosso.
+    Observo que o recurso extraordinário foi interposto em 11.9.2014 (eDOC. Vol. 53, p. 88) via fac-símile, sem que fossem apresentados posteriormente, e dentro do prazo legal, os respectivos originais, situação que, pela farta jurisprudência do Supremo Tribunal Federal, implica considerá-lo inexistente.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO POR FAX. ORIGINAL APRESENTADO EM TRIBUNAL DIVERSO. POSTERIOR REMESSA A ESTA CORTE. ÔNUS DA PARTE. RESPONSABILIDADE DO USUÁRIO DO SISTEMA - LEI Nº 9.800/99, ARTS. 2º E 4º e RESOLUÇÃO – STF Nº 179/99, ART. 5º. INTEMPESTIVIDADE. NÃO CONHECIMENTO. ACÓRDÃO RECORRIDO PUBLICADO EM 30.9.2013. O usuário do sistema de transmissão de dados é responsável pela qualidade e fidelidade do documento, bem como pela apresentação dos originais no órgão judiciário devido (Lei nº 9.800/1999). Apresentado o fac-simile do agravo regimental a esta Corte e remetido o original a Tribunal diverso, quer se entenda que a apresentação serôdia dos originais, reenviados ao STF quando já escoado o quinquídio previsto em lei, – ou sua não apresentação - acarreta a inexistência jurídica do recurso, por não aperfeiçoado o ato complexo previsto em lei para a sua interposição via fac-símile – entendimento da Relatora -, quer se tenha por delineada hipótese de intempestividade, a consequência é o não conhecimento do recurso. Agravo regimental não conhecido.” (ARE-AgR 793760, Rel. Min. Rosa Weber, Primeira Turma, DJe 11.6.2014 – grifo nosso)
+    “PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS OPOSTOS POR MEIO DE FAC-SÍMILE. APRESENTAÇÃO DOS ORIGINAIS APÓS O PRAZO DETERMINADO PELA LEI 9.800/1999. NÃO-CONHECIMENTO. 1. Nos termos do caput do art. 2º da Lei 9.800/1999, os originais do recurso interposto por meio de fac-símile devem ser entregues em juízo, necessariamente, até cinco dias da data do término do prazo recursal, o que não ocorreu no caso. 2. Embargos não conhecidos.” (AI-AgR-ED 743935, Rel. Min. Ayres Britto, Segunda Turma, DJe 2.4.2012 – grifo nosso)
+    Registro ser incabível a juntada posterior dos originais, dada a preclusão consumativa do ato.
+    Ante o exposto, não conheço do presente, por incabível. (art. 21 RISTF)
+    Publique-se.
+    Brasília, 30 de junho de 2016
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
