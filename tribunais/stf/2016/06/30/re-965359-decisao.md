@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto em demanda visando ao fornecimento de medicamento denominado Levetiracetam 500 mg. Em primeira instância, o pedido foi julgado procedente, “para que a ré forneça o medicamento Levetiracetam 500MG, de forma contínua e ininterrupta, (…) ou qualquer outro que tenha o mesmo princípio ativo, mesmo os genéricos” (fl. 69v). A Turma Recursal deu parcial provimento ao recurso da Fazenda Pública apenas “para o fim de ressalvar, na obrigação de fornecimento do medicamento ou genérico, a apresentação de prescrição médica atualizada” (fl. 122).
+    No recurso extraordinário, a parte recorrente aponta, com base no art. 102, III, “a”, da Constituição Federal, violação aos arts. 196, 197 e 200, I e II, da CF/88, pois o acórdão recorrido obrigou “o Estado de São Paulo a fornecer medicamento importado e sem registro na Anvisa, vale dizer, cuja comercialização em território nacional é legalmente proibida” (fl. 135).
+    O recurso extraordinário foi admitido na origem e determinada sua remessa a esta Corte como representativo da controvérsia, nos termos do art. 543-B, § 1º, do CPC/1973.
+    2. Não houve emissão, pelo acórdão recorrido, de juízo acerca da matéria relativa à possibilidade de o Poder Judiciário impor à Administração Pública a obrigação de fornecimento de fármaco não registrado na Anvisa, tampouco a questão foi suscitada no momento oportuno, em sede dos embargos de declaração, razão pela qual, à falta do indispensável prequestionamento, o recurso extraordinário não pode ser conhecido, incidindo o óbice das Súmulas 282 e 356 do STF.
+    3. Acresça-se, por fim, que, em consulta ao sítio eletrônico da Anvisa na rede mundial de computadores, consta a informação de que a agência reguladora publicou, no Diário Oficial da União de 10/8/2015, o registro do Levetiracetam, medicamento cuja concessão é postulada nesta demanda (Resolução 2.200/2015).
+    Desse modo, a argumentação do recurso extraordinário encontra-se evidentemente dissociada dos fatos da causa, o que atrai a incidência da Súmula 284/STF.
+    4. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se. Oficie-se ao Juiz Presidente do Colégio Recursal de Jales/SP, com cópia desta decisão, tendo em vista a indicação do caso como representativo da controvérsia.
+    Brasília, 30 de junho de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
