@@ -1,0 +1,22 @@
+Decisão:
+Ementa: Penal. Habeas corpus. Crime contra a ordem tributária. Princípio da insignificância. Liminar indeferida.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria da Ministra Maria Thereza de Assis Moura, assim ementado:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA FEDERAL. INSIGNIFICÂNCIA. PARÂMETRO. DEZ MIL REAIS. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA Nº 1.112.748/TO. PORTARIA Nº 75/2012 DO MINISTÉRIO DA FAZENDA. INAPLICABILIDADE.
+    1. Definindo o parâmetro de quantia irrisória para fins de aplicação do princípio da insignificância aos crimes de descaminho, a Terceira Seção deste Superior Tribunal de Justiça, no julgamento do Recurso Especial Representativo de Controvérsia nº 1.112.748/TO, pacificou o entendimento no sentido de que o valor do tributo elidido a ser considerado é aquele de R$ 10.000,00 (dez mil reais) previsto no artigo 20 da Lei nº 10.522/02, raciocínio que se aplica também aos crimes contra a ordem tributária.
+    2. Esse raciocínio restou ratificado na assentada de 12 de novembro de 2014, no julgamento do Resp 1.393.317/PR e do Resp 1.401.424/PR pela aludida Seção, no sentido de que não tem aplicação qualquer parâmetro diverso de R$ 10.000,00, notadamente o de R$ 20.000,00 previsto na Portaria nº 75/2012 do Ministério da Fazenda, que regulamenta não a Lei nº 10.522/02, mas o Decreto-Lei nº 1.569/77, cujo artigo 5º autoriza o Ministro da Fazenda a sustar a cobrança judicial dos débitos de comprovada inexequibilidade e de reduzido valor.
+    3. Tal parâmetro não está necessariamente atrelado aos critérios fixados nas normas tributárias para o ajuizamento da execução fiscal, regida pelos critérios de eficiência, economicidade e praticidade e não sujeita a um patamar legal absoluto, mas decorre de construção jurisprudencial erigida a partir de medida de política criminal em face do grau de lesão à ordem tributária que atribua relevância penal à conduta, dada a natureza fragmentária do direito penal.
+    4. Agravo regimental improvido.”
+    2. Extrai-se dos autos que os pacientes foram denunciados pelo crime previsto no artigo 2º, II, da Lei 8.137/90 (sete vezes), perante o Juízo da 1ª Vara Federal de Campinas/SP.
+    3. Narra a peça acusatória que os pacientes, “nos meses de junho de 2009 e dezembro de 2009, […] na qualidade de sócio administradores, com poderes de decisão e no efetivo exercício da administração da pessoa jurídica BAP ALIMENTOS LTADA EPP, CNPJ nº 10.437.562/0001-50, localizada na Rua Antonio Niori, 88, São Roque da Chave, no Município de Itupeva/SP, deixaram de recolher, no prazo legal, Imposto de Renda Retido na Fonte (IRRF) incidente sobre rendimentos de trabalho assalariado descontados dos pagamentos efetuados a este título”. O valor dos tributos sonegados foi estimado em R$ 17.993,95 (dezessete mil novecentos e noventa e três reais e noventa e cinco centavos).
+    4. Contra a decisão que recebeu a denúncia, a defesa impetrou habeas corpus no Tribunal Regional Federal da 3ª Região, pleiteando o trancamento da ação penal.
+    5. Denegada a ordem, a defesa interpôs recurso especial. A Relatora do Resp 1.567.211, Ministra Maria Thereza de Assis Moura, deu provimento ao recurso “para afastar a aplicação do princípio da insignificância e determinar o prosseguimento da ação penal”. Dessa decisão, foi interposto agravo regimental, não provido.
+    6. Neste habeas corpus, a parte impetrante sustenta a aplicabilidade, ao caso, do princípio da insignificância, sob o argumento de que o valor do tributo é inferior ao patamar previsto na Portaria nº 75, de 22.03.12, do Ministério da Justiça. Daí o pedido de concessão da ordem a fim de determinar o trancamento da ação penal.
+    Decido.
+    7. Não é caso de concessão da liminar. Para além de observar que não há nenhum risco iminente à liberdade de locomoção, as peças que instruem o processo sinalizam que o valor total do tributo devido “atingiu o valor de R$ 35.788,11, atualizados até 31/08/2011”. O que também impossibilitaria a aplicação do princípio da insignificância penal.
+    8. Diante do exposto, indefiro a liminar.
+    9. Abra-se vista dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 30 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
+      Documento assinado digitalmente
