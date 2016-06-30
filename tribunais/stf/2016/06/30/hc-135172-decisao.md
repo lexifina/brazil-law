@@ -1,0 +1,8 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra decisão do Ministro Nefi Cordeiro, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 307.364/DF.
+    2. O caso é de não conhecimento do pedido. O habeas corpus foi impetrado diretamente contra decisão monocrática emanada de Ministro do STJ . Em casos tais, o exaurimento da jurisdição e o atendimento ao princípio da colegialidade, pelo tribunal prolator, se dá justamente mediante o recurso de agravo interno, previsto em lei, que não pode simplesmente ser substituído por outra ação de habeas corpus , de competência de outro tribunal. A se admitir essa possibilidade estar-se-á atribuindo ao impetrante a faculdade de eleger, segundo conveniências próprias, qual tribunal irá exercer o juízo de revisão da decisão monocrática: se o STJ, juízo natural indicado pelo art. 39 da Lei 8.038/1990, ou o STF, por via de habeas corpus substitutivo. O recurso interno para o órgão colegiado é, em verdade, medida indispensável não só para dar adequada atenção ao princípio do juiz natural, como para exaurir a instância recorrida, pressuposto para inaugurar a competência do STF (HC 118.189, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 19/11/2013, DJe 24/4/2014; RHC 111.935, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 10/9/2013, DJe 30/9/2013; HC 97.009, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 25/4/2013, DJe 4/4/2014).
+    3. Pelo exposto, nego seguimento ao pedido. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 30 de junho de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
