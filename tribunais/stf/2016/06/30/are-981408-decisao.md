@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 5º, LIV e LV, e 40, § 1º, II, § 3º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. EXONERAÇÃO DE SERVIDOR PÚBLICO. NECESSIDADE DE OBSERVÂNCIA DOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Para a exoneração de servidor público, ainda que em estágio probatório, é imprescindível a observância do devido processo legal com as garantias a ele inerentes. Precedentes. 2. Impossibilidade de reexame de provas em recurso extraordinário: incidência da Súmula 279 do Supremo Tribunal Federal” (destaquei). (AI 623.854-AgR/MA, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 23.10.2009)
+    “Agravo regimental no recurso extraordinário com agravo. Servidor público. Exoneração. Observância dos princípios do contraditório e da ampla defesa. Processo administrativo. Necessidade. Repercussão geral. Precedentes. 1. No julgamento do RE nº 594.296/MG, de minha relatoria, o Supremo Tribunal Federal firmou o entendimento de que os atos da Administração Pública que tiverem o condão de repercutir sobre a esfera de interesses do cidadão devem ser precedidos de prévio procedimento em que se assegure ao interessado o efetivo exercício do direito ao contraditório e à ampla defesa. 2. Agravo regimental não provido.” (ARE 945486 AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 29.4.2016)
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. ANULAÇÃO, PELO MUNICÍPIO, EM FACE DE IRREGULARIDADES APONTADAS PELO TRIBUNAL DE CONTAS ESTADUAL. SERVIDORES PÚBLICOS ADMITIDOS POR MEIO DA SELEÇÃO IRREGULAR. EXONERAÇÃO EX OFFICIO SEM OBSERVÂNCIA DOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. IMPOSSIBILIDADE. PRECEDENTE DO PLENÁRIO DO STF SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. (RE 594.296-RG, MIN. DIAS TOFFOLI, TEMA 138). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 478371 AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 28.5.2014)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2016.
+Ministra Rosa Weber
+Relatora
