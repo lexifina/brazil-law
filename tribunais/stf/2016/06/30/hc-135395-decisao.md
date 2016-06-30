@@ -1,0 +1,16 @@
+Decisão:
+ementa: Processual penal. Habeas Corpus. Súmula 691/STF. Tráfico de entorpecentes. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que deferiu a cautelar requerida no HC 361.203, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante em 25.05.2016, acusado de guardar, para posterior comercialização a terceiros, 509,6g de maconha. O Juízo de origem, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado do Rio de Janeiro.
+    4. Indeferida a liminar, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 361.203, Ministro Joel Paciornik, deferiu a cautelar “apenas para determinar que o desembargador relator do Habeas Corpus n. 0027927-77.2016.8.19.0000 aprecie a liminar pleiteada em decisão devidamente fundamentada, salvo se a impetração já tiver sido submetida ao colegiado”.
+    5. Neste habeas corpus, a parte impetrante sustenta que “A liminar fora deferida pelo Eminente Relator, mas a timidez de seu alcance prático (dispositivo) corresponde a um indeferimento sui generis – mormente diante da sobrevinda da denegação no mérito pelo órgão fracionário estadual – de modo que, com todas as vênias, deveria o Ministro Relator do HC 361.203 reconhecer a nulidade do ato para revogar a prisão preventiva”. Alega, ainda, a ausência dos requisitos necessários à decretação da custódia preventiva. Daí o pedido de concessão da ordem a fim de revogar a prisão processual do paciente, assegurando-lhe o direito de permanecer em liberdade até o trânsito em julgado da condenação.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. Em primeiro lugar, porque as decisões das instâncias precedentes não são teratológicas ou patentemente desfundamentadas. Em segundo lugar, porque, consoante afirmou o Tribunal Estadual, “A prisão preventiva foi decretada por ocasião da audiência de custódia, tendo em vista a expressiva quantidade de substância entorpecente apreendida (509,6g de maconha)”. Nessas condições, as decisões das instâncias precedentes alinham-se à orientação jurisprudencial do Supremo Tribunal Federal, no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem de prisão preventiva (Cf. HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Rel. Min. Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux).
+    8. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 30 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
