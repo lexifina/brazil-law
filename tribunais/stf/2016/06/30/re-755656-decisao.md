@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. SERVIÇO DE COLETA DE LIXO. REMUNERAÇÃO POR TAXA. EXAÇÃO SUJEITA AO REGIME JURÍDICO TRIBUTÁRIO. PRECEDENTES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. RECURSO DESPROVIDO.
+    DECISÃO: Trata-se de recurso extraordinário (Doc. 3, fl. 02), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (Doc. 2, fl. 75) que assentou, verbis:
+    “REPETIÇÃO DE INDÉBITO - TARIFA DE COLETA DE ESGOTO - MURIAÉ - LEGALIDADE - TARIFA DE COLETA DE LIXO - INVIABILIDADE DA COBRANÇA - NATUREZA DE TAXA - NECESSIDADE DE LEI MUNICIPAL ESPECÍFICA - DEVOLUÇÃO DE VALORES JÁ RECOLHIDOS - NÃO CABIMENTO. - É legal a cobrança de tarifa relativa ao serviço de esgoto quando evidenciada a coleta na residência do consumidor. - Dado o caráter de compulsoriedade da utilização do serviço de coleta de lixo torna-se indispensável a sua previsão como taxa em lei específica municipal. - Incabível a devolução dos valores pagos a título de tarifa de coleta de lixo em razão da efetiva prestação do serviço.”
+    Os embargos de declaração opostos foram desprovidos (Doc. 2, fl. 90).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXV, LIV e LV, 93, IX, 145, II, e 175, parágrafo único, III, da Constituição Federal. Aduz que houve negativa de prestação jurisdicional. Alega que o serviço de coleta de lixo instituído pelo Município de Muriaé é remunerado por tarifa.
+    O Superior Tribunal de Justiça negou seguimento ao recurso especial (Doc. 3, fl. 33).
+    É o relatório. DECIDO.
+    Sem razão.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o serviço de coleta de lixo deve ser remunerado por taxa. Consequentemente, a exação deve se sujeitar ao regime jurídico tributário, especialmente no que tange à observância do princípio da legalidade tributária.
+    Nesse sentido, em casos análogos ao presente: RE 698.486, Rel. Min. Roberto Barroso, DJe de 25/9/2014; RE 755.623, Rel. Min. Roberto Barroso, DJe de 18/2/2014; RE 766.517, Rel. Min. Rosa Weber, DJe de 14/10/2013; e RE 730.368, Rel. Min. Ricardo Lewandowski, DJe de 25/4/2013.
+    Quanto à alegação de ofensa aos artigos 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal, melhor sorte não assiste à recorrente, tendo em vista que da análise dos autos é possível observar que a parte se valeu dos meios recursais cabíveis e teve a jurisdição devidamente prestada por decisões fundamentadas, embora contrária aos seus interesses. Assim, não resta caracterizada a negativa de prestação jurisdicional. Nesse sentido, ARE 740.877-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 4/6/2013, o qual possui a seguinte ementa:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. 3. Alegação de ausência de prestação jurisdicional. Decisão fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. Precedente: AI-QO-RG 791.292 de minha relatoria, DJe 13.8.2010. 4. Afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, se dependente do reexame prévio de normas infraconstitucionais, configura ofensa reflexa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. 5. Alegação de ofensa ao princípio da legalidade. Enunciado 636 da Súmula desta Corte. 6. Ausência de argumentos suficientes para infirmar a decisão recorrida. 7. Agravo regimental a que se nega provimento.”
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de junho de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
