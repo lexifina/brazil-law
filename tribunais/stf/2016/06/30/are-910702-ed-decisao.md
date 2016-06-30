@@ -1,0 +1,14 @@
+Neguei seguimento ao recurso extraordinário com agravo, tendo em conta a certidão juntada aos autos, na qual afirmada a deserção do recurso.
+    No agravo regimental, argumenta-se que o recorrente realizou o pagamento do preparo nos termos da legislação processual vigente, fato jurídico processual de fácil verificação a partir do exame da documentação comprobatória juntada no ato da interposição do recurso em observância ao disposto no art. 511 do Código de Processo Civil.
+    Procedem as alegações do agravante.
+    A decisão prolatada no âmbito do Tribunal de origem, mediante a qual não foi admitido o recurso, tem os seguintes fundamentos (vol. 17):
+    “Como é cediço, a Lei Complementar n. 568, de 9 de abril de 2012, em vigor desde 1º-1-2013, incluiu no item 3 da Tabela I do regimento de Custas e Emolumentos do Estado de Santa Catarina, a cobrança de custas relativas ao despacho de admissibilidade dos recursos especial e extraordinário (…) Na espécie, verifico que a recorrente não comprovou o recolhimento das referidas custas de admissibilidade, o que implicaria na pena de deserção”.
+    Compulsando os autos verifico que em volume 4 do e-STF (e-STJ Fls. 354/355) a parte efetuou recolhimento das custas em guias emitidas pelo STF, consoante Resolução nº 505, de 28 de junho de 2013 do STF.
+    Consoante jurisprudência assente e à vista do disposto no § 1º e inciso I do art. 59 do RISTF, nenhum recurso subirá a esta Corte, salvo caso de isenção, sem a prova do respectivo preparo e do pagamento das despesas de remessa e retorno, bem como de que o pagamento das despesas processuais de recurso interposto perante outros tribunais será feito nas secretarias desses Tribunais, no prazo previsto na legislação processual (CPC, art. 511; e Lei 8.038/1990, art. 41-B).
+     Anote-se que o valor das custas recursais é fixado em tabela do Supremo Tribunal Federal, expedida com fundamento no Regimento Interno, que, tendo força de lei pelo sistema constitucional anterior à atual Constituição, foi por esta recebido com tal força, ainda que ao Supremo não mais se tenha outorgada a competência para legislar sobre o processo dos feitos que lhe são submetidos (RE 167.436-ED/RS, DJ de 3/11/1995; RE 351.590-AgR/RJ, Rel. Min. Maurício Corrêa, Segunda Turma, DJ de 21/3/2003; RE 148.475-AgR/SP, Rel. Min. Octavio Gallotti, Primeira Turma, RTJ 147/1010; e AI 351.360/PA, Rel. Min. Sepúlveda Pertence, Plenário, DJ de 7/6/2002).
+    Ressalte-se, ainda, que tema similar – relativo à disposição de lei estadual que disciplina o pagamento de custas processuais de recurso afeto à competência desta Corte – é objeto da ADI 3.154, na qual se discute a constitucionalidade da Lei 11.608/2003 do Estado de São Paulo.
+    Isso posto, reconsidero a decisão impugnada e determino a distribuição do recurso extraordinário com agravo.
+    Publique-se.
+    Brasília, 30 de junho 2016.
+Ministro Ricardo Lewandowski
+Presidente
