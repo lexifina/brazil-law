@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça, em acórdão assim ementado:
+    CIVIL E CONSUMIDOR. REVISÃO DE CONTRATO C/C REPETIÇÃO DE INDÉBITO. APLICAÇÃO DO CDC. SÚMULA 297 DO STJ. PODER DE EXIGIBILIDADE DOS CONTRATOS DE ADESÃO E PRINCÍPIO DO PACTA SUNT SERVANDA RESPEITADOS. CAPITALIZAÇÃO MENSAL DOS JUROS REMUNERATÓRIOS. INVIABILIDADE. CONTRATO DE EMPRÉSTIMO NÃO APRESENTADO PELAS PARTES. ÔNUS DA PROVA. INVERSÃO EM FAVOR DO CONSUMIDOR. ART. 6º, VIII, DO CDC C/C ART. 359 DO CPC. ENTENDE-SE COMO VERDADEIRA A ALEGAÇÃO DE QUE ESTE ENCARGO NÃO FOI PACTUADO. COBRANÇA DE COMISSÃO DE PERMANÊNCIA CUMULADA COM MULTA, JUROS E DEMAIS ENCARGOS MORATÓRIOS. INVIABILIDADE. INTELIGÊNCIA DA SÚMULA Nº 472 DO STJ. CONHECIMENTO E IMPROVIMENTO DO RECURSO. PRECEDENTES.
+    É possível a revisão judicial dos contratos bancários, de acordo com as normas insertas no Código de Defesa do Consumidor.
+    “É permitida a capitalização dos juros com a periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada, nos termos do seu art. 5º”.
+    A cobrança de comissão de permanência – cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato – exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, alega-se violação do artigo 5º, XXXVI, por ofensa ao ato jurídico perfeito.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Em exame do RE-RG 568.396, de relatoria do Ministro Marco Aurélio, substituído pelo RE 592.377, de relatoria do Ministro Marco Aurélio, com relator para o acórdão o Ministro Teori Zavascki, DJe 20.03.2015, o Plenário desta Corte assentou a repercussão geral do Tema 33, que versa sobre a constitucionalidade, ou não, da MP 2.170-36/2001, a qual autorizou a capitalização de juros em periodicidade inferior a um ano, nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional, tal como a hipótese dos autos.
+    Ressalte-se que, no julgamento do AI-RG 844.474, de relatoria do Ministro Cezar Peluso, Dje de 01.09.2011 (Tema 421), esta Corte decidiu que não apresenta repercussão geral discussão sobre a limitação da taxa de juros a 12% ao ano nos contratos de financiamento (arrendamento mercantil de veículo, no presente caso), por não existir questão constitucional no debate.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+     Publique-se.
+     Brasília, 30 de junho de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
