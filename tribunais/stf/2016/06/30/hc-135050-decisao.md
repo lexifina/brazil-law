@@ -1,0 +1,35 @@
+Decisão:
+ementa: Penal militar. Habeas corpus. Posse de entorpecentes. Incompetência da justiça militar. Supressão de instância. Nulidade. Inocorrência.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão majoritário do Superior Tribunal Militar, da Relatoria do Ministro Gen. Ex. Lúcio Mário de Barros Góes, assim ementado:
+    “EMBARGOS INFRINGENTES. POSSE DE ENTORPECENTE EM ÁREA SOB ADMINISTRAÇÃO MILITAR (ART. 290 DO CPM). AUSÊNCIA DE TERMO DE APREENSÃO DO ENTORPECENTE. FATO QUE NÃO INVALIDA A CONFIGURAÇÃO DA MATERIALIDADE E A CONDENAÇÃO CRIMINA. ACERVO PROBATÓRIO ROBUSTO. PRECEDENTES. EXECUÇÃO IMEDIATA DA PENA. DECISÃO PASSÍVEL DE EVENTUAL RECURSO NA 2ª INSTÂNCIA. PRECEDENTE DO STF.
+    A defesa, com os presentes Embargos Infringentes, tem por escopo fazer prevalecer o voto vencido segundo o qual o Acusado deve ser absolvido, tendo em vista a inexistência nos autos do Termo de Apreensão do entorpecente.
+    In casu, a ausência do Termo de Apreensão constitui mera irregularidade que naõ tem o condão de instar qualquer dúvida quanto à materialidade delitiva imputada ao Acusado, eis que o acervo probatório é bastante robusto, mormente quando há outras provas que se mostram coesas e que conduzem à certeza da apreensão do entorpecente e da lisura de todo o procedimento.
+    A execução imediata da pena só é cabível depois de esgotados na 2ª instância, os recursos que permitem discussão de fatos e de provas.
+    Embargos rejeitados. Decisão majoritária.”
+    2. Extrai-se dos autos que o paciente, militar à época dos fatos, foi condenado à pena de 1 (um) ano de reclusão, em regime aberto, pelo crime previsto no artigo 290 do Código Penal Militar. O Juízo de origem concedeu ao acusado o benefício do sursis, pelo prazo de 2 (dois) anos, e o direito de recorrer em liberdade.
+    3. O Superior Tribunal Militar negou provimento à apelação da defesa.
+    4. Na sequência, considerando a existência de voto divergente favorável ao paciente, a defesa opôs embargos infringentes. Os embargos, contudo, não foram admitidos, no tocante à preliminar de nulidade formal do processo, tendo em vista o não preenchimento de requisito instituído no art. 119, § 1º, do RI/STM (exigência de 4 votos vencidos).
+    5. Em seguida, a defesa impetrou o HC 132.313 neste Supremo Tribunal Federal. Concedi a ordem de habeas corpus “para determinar ao Superior Tribunal Militar que, superado o óbice do art. 119, § 1º, do RI/STM, examine, como entender de direito, os embargos infringentes opostos pela defesa”.
+    6. Ato contínuo, o Superior Tribunal Militar não conheceu dos embargos infringentes.
+    7. Neste habeas corpus, a parte impetrante sustenta a ausência de “condição de prosseguibilidade/procedibilidade” da ação penal, tendo em vista que, no curso do processo principal, o paciente foi “licenciado/dispensado do serviço militar”. Alega a nulidade da ação penal, em razão da ausência do Termo de Apreensão da droga. Afirma, ainda, que o entorpecente “foi encaminhado para análise pericial somente no dia seguinte ao da apreensão; e consta no Laudo Pericial Toxicológico definitivo informações diferentes do preliminar, o que, no mínimo, imbrica em dúvida”.
+    8. Com essa argumentação, pleiteia a concessão da ordem a fim de determinar “a extinção do processo na Justiça Militar em razão do licenciamento/dispensa das Forças Armadas (…). Caso não seja extinto, que seja encaminhado à Justiça comum para ser processado e julgado como ‘cidadão civil’ e sob o crivo das leis civis; se competente a JMU, que seja reconhecida a incompetência do Conselho Permanente de Justiça, formado em sua preponderante maioria por Juízes, com determinação de que este rapaz, cidadão civil, seja julgado pelo Juiz-Auditor com a aplicação dos institutos despenalizadores do regramento penal comum; se ultrapassadas as fundamentações anteriores ou em conjunto, por descumprimento ao ‘devido processo penal legal’, que este cidadão civil seja absolvido por ausência de materialidade delitiva (...)”.
+    Decido.
+    9. O habeas corpus não deve ser concedido.
+    10. De início, verifico que a alegada ausência de “condição de prosseguibilidade/procedibilidade” da ação penal, por ter sido o paciente “licenciado/dispensado do serviço militar”, não foi apreciada pelo Superior Tribunal Militar, o que impede o imediato conhecimento da matéria, sob pena de indevida supressão de instância.
+    11. Ademais, o acórdão impugnado alinha-se à orientação jurisprudencial do Supremo Tribunal Federal no sentido de que, “embora (…) de suma importância a presença do auto de apreensão do entorpecente para comprovação da materialidade do delito, o fato é que a ausência deste documento – conforme o caso em voga – não tem o condão, por si só, de provocar a nulidade, desde que presentes outros elementos de provas” (HC 122.417, Rel. Min. Gilmar Mendes).
+    12. Nessas condições, não vejo ilegalidade ou abuso de poder que autorize a absolvição do paciente. Para tanto, confiram-se os fundamentos adotados pela autoridade impetrada para recusar a pretensão da defesa:
+    “[...]
+    Verifico, no caso em tela, que a ausência do Termo de Apreensão constitui mera irregularidade que não tem o condão de instalar qualquer dúvida quanto à materialidade delitiva imputada ao Acusado, eis que o acervo probatório é bastante robusto em desfavor do Embargante.
+    A propósito, na hipótese vertente dos autos, o Acusado foi preso em flagrante delito, tendo sido lavrado o respectivo APF, durante o qual declarou que era o dono dos dois papelotes com características de maconha e de um papelote com características de cocaína, que se encontravam no bolso de seu agasalho (fls. 6/7 do Apenso 1), declarações estas ratificadas, com riqueza de detalhes, em Juízo (fls. 12/13), e corroboradas pelas testemunhas ouvidas (fls. 29/30 e 41/42).
+    Além disso, o material apreendido foi fotografado e encaminhado mediante ofício, na mesma data, para perícia, conforme documentos de fls. 19/222 do Apenso 1.
+    Frise-se que os Laudos Periciais, Preliminar (fls. 25/30 – Apenso 1) e Definitivo (fls. 50/55 – Apenso 1), apresentarem resultado positivo para a planta Cannabis sativa Lineu, vulgarmente conhecida como maconha, que possui dentre seus constituintes o canabinóide THC (tetrahidrocanabinol), bem como para cocaína, substância esta que é extraída da planta cientificamente denominada Erythorylum coca Lam.
+    Assim, existe nos autos uma série de outras provas que nos levam à certeza da apreensão das substâncias entorpecentes e da lisura e correção de todo o procedimento.
+    Desse modo, nenhum reparo há de se fazer no Acórdão hostilizado que bem analisou todas as questões de fato e de direito, demonstrando a existência de provas suficientes para comprovação da materialidade do delito.
+    […].”
+    13. Diante do exposto, com base no art. 192 do RI/STF, denego a ordem.
+    Publique-se.
+    Intime-se.
+    Brasília, 30 de junho de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
