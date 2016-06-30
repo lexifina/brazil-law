@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 150, II, 154, I, e 195, I, § 4º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido da inconstitucionalidade do art. 25 da lei 8.212/1991, na redação dada pelo art. 1º da lei 8.540/1992, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL PREVIDENCIÁRIA. EMPREGADOR RURAL PESSOA FÍSICA. INCIDÊNCIA SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO. ART. 25 DA LEI 8.212/1991, NA REDAÇÃO DADA PELO ART. 1º DA LEI 8.540/1992. INCONSTITUCIONALIDADE. I – Ofensa ao art. 150, II, da CF em virtude da exigência de dupla contribuição caso o produtor rural seja empregador. II – Necessidade de lei complementar para a instituição de nova fonte de custeio para a seguridade social. III – RE conhecido e provido para reconhecer a inconstitucionalidade do art. 1º da Lei 8.540/1992, aplicando-se aos casos semelhantes o disposto no art. 543-B do CPC.” (RE 596177, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 29-08-2011)
+    Verifico por seu turno, que a matéria relativa à validade da contribuição a ser recolhida pelo empregador rural pessoa física sobre a receita bruta proveniente da comercialização de sua produção, nos termos do art. 1º da Lei 10.256/2001, restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 718.874-RG, verbis:
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. EMPREGADOR RURAL PESSOA FÍSICA. RECEITA BRUTA. COMERCIALIZAÇÃO DA PRODUÇÃO. ART. 25 DA LEI 8.212/1991, NA REDAÇÃO DADA PELA LEI 10.256/2001. CONSTITUCIONALIDADE. I - A discussão sobre a constitucionalidade da contribuição a ser recolhida pelo empregador rural pessoa física, prevista no art. 25 da Lei 8.212/1991, com a redação dada pela Lei 10.256/2001, ultrapassa os interesses subjetivos da causa. II - Repercussão geral reconhecida.”
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para a aplicação da sistemática da repercussão geral.
+    Assim, com relação à matéria tratada no RE 596.177-RG – cobrança de contribuição previdenciária do empregador rural pessoa física com base no art. 25 da Lei 8.212/1991, na redação dada pelo art. 1º da Lei 8.540/1992 –, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Quanto ao tema submetido à repercussão geral (RE 718.874-RG), devolvam-se os autos à Corte de origem (art. 328 do RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2016.
+Ministra Rosa Weber
+Relatora
