@@ -1,0 +1,28 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Arnaldo Negreli afirma haver a Diretora do Núcleo de Pessoal da Penitenciária de Assis/SP, ao indeferir o pedido de concessão de aposentadoria especial por si formulado, olvidado o teor do verbete vinculante nº 33 da Súmula do Supremo.
+    Segundo narra, postulou, com base no mencionado verbete, o implemento de aposentadoria especial, ante a exposição a agentes nocivos à saúde. Diz do indeferimento administrativo do pleito, surgindo daí o alegado desrespeito. Relata o exercício, por mais de 25 anos, do cargo de agente de segurança penitenciária, em razão do qual recebe o adicional de insalubridade previsto na Lei Complementar estadual nº 432/1985 em grau máximo, a comprovar ter jus à jubilação especial.
+    Consoante destaca, a partir da edição do referido verbete, os servidores públicos sujeitos a condições nocivas à saúde tiveram garantida a isonomia em relação aos trabalhadores submetidos ao regime celetista. Frisa inadequado exigir-se, para efeito de comprovação do labor especial, no campo dos servidores públicos, o mesmo rigor dos meios de prova relativamente ao trabalhadores celetistas. Entende pertinente, embora o verbete não verse a forma de cálculo do benefício, observar a correlação entre os vencimentos percebidos em atividade e os proventos.
+    Não alude ao requisito do risco.
+    Requer, em sede liminar, seja determinada a implantação imediata da aposentadoria especial. Postula, alfim, a cassação do ato administrativo que implicou o indeferimento do pleito de concessão do benefício e a confirmação da medida acauteladora, considerados os critérios da integralidade dos vencimentos auferidos em atividade e a paridade com os servidores ativos.
+    A autoridade reclamada, nas informações, esclarece que o pleito administrativo foi indeferido porquanto formalizado com fundamento no verbete vinculante nº 33. Havendo legislação estadual a disciplinar a aposentadoria especial, entende inaplicável o paradigma. Consoante destaca, o servidor foi informado sobre a possibilidade de postular a concessão do benefício consideradas as regras previstas na Lei Complementar local nº 1.019/2010, uma vez preenchidos os requisitos necessários.
+    2. Observem as balizas do caso concreto. Servidor público estadual buscou administrativamente a concessão de aposentadoria especial em razão do exercício, por lapso superior a 25 anos, de atividade sujeita a agentes nocivos à saúde. Indeferido o pleito, articula com a afronta ao teor do verbete vinculante nº 33. Vejam o texto, atentando para a parte final:
+    Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III, da Constituição Federal, até a edição de lei complementar específica.
+    Mostra-se imprópria a irresignação, uma vez ausentes a alegada ofensa ao paradigma e, até mesmo, o interesse do reclamante. A leitura do ato impugnado e das informações prestadas pela autoridade administrativa revela que o insucesso do requerimento decorreu da evocação do mencionado verbete em situação na qual há regulamentação, na legislação local, concernente ao regime jurídico dos agentes de segurança penitenciária, relativamente à jubilação especial, já tendo o servidor preenchido os requisitos nela previstos. Confiram o seguinte trecho do pronunciamento atacado:
+    […]
+    5. Ocorre que no presente caso, já existe para os Agentes de Segurança Penitenciária e Agentes de Escolta e Vigilância Penitenciária, cargos exclusivos desta Pasta, cujas atividades são exercidas em ambiente e condições prejudiciais à saúde e à integridade física, uma legislação específica acerca da aposentadoria dos mesmos.
+    6. A Lei Complementar nº 1.109, de 06 de maio de 2010, dispõe sobre requisitos e critérios diferenciadas para a concessão de aposentadoria voluntária aos integrantes da carreira de Agente de Segurança Penitenciária e da classe de Agente de Escolta e Vigilância Penitenciária, especificando que:
+    Artigo 1º – Esta lei complementar dispõe sobre os requisitos e critérios diferenciados para a concessão de aposentadoria voluntária aos integrantes da carreira de Agente de Segurança Penitenciária e da classe de Agente de Escolta e Vigilância Penitenciária, em razão do exercício de atividades de risco, nos termos do inciso II do § 4º do artigo 40 da Constituição Federal.
+    Artigo 2º – Os Agentes de Segurança Penitenciária, a que se refere a Lei Complementar nº 498, de 29 de dezembro de 1986, serão aposentados voluntariamente, desde que atendidos, cumulativamente, os seguintes requisitos:
+    I – 55 (cinquenta e cinco) anos de idade, se homem, e 50 (cinquenta) anos de idade, se mulher;
+    II – 30 (trinta) anos de contribuição previdenciária;
+    III – 20 (vinte) anos de efetivo exercício no cargo.
+    Parágrafo único – Aos integrantes da carreira de Agente de Segurança Penitenciária cujo provimento no cargo ocorreu em data anterior à de vigência da Emenda Constitucional nº 41, de 19 de dezembro de 2003, não será exigido o requisito de idade, bastando a comprovação do tempo de contribuição previdenciária e do efetivo exercício no cargo, previstos nos incisos II e III deste artigo. (g.n)
+    [...]
+    Notem a excepcionalidade da reclamação. Pressupõe sempre a usurpação da competência do Supremo ou o desrespeito a decisões que haja proferido.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 30 de junho de 2016.
+Ministro MARCO AURÉLIO
+Relator
