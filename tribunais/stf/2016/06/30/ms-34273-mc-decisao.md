@@ -1,0 +1,42 @@
+MANDADO DE SEGURANÇA. ATO DO CONSELHO NACIONAL DE JUSTIÇA. SERVIDORES DO PODER JUDICIÁRIO ESTADUAL. VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA. REVISÃO. INEXISTÊNCIA DE PREVISÃO LEGAL. LIMINAR INDEFERIDA.
+    Decisão: Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Carlos A Botelho Ferreira e outros em face de ato do Conselho Nacional de Justiça, praticado nos autos do CUMPRDEC 0006568-13.2010.2.00.0000. Apontam, também, como autoridade coatora, o Presidente do Tribunal de Justiça do Estado de Mato Grosso.
+    Os impetrantes narram que, em 6/6/2016, foi promulgada a Lei Estadual 10.405/2016, prevendo a Revisão Geral Anual dos vencimentos dos Servidores do Poder Judiciário do Estado de Mato Grosso no percentual de 11,28%, referentes ao índice anual acumulado do INPC/IBGE, conforme determina a Lei 8814/2008 e o Estatuto dos Servidores Públicos do Estado de Mato Grosso.
+    Relatam que, no entanto, a Conselheira relatora do CUMPRDEC 0006568-13.2010.2.00.0000, usurpando a competência desta Corte, “determinou ao Tribunal de Justiça que a Lei não fosse aplicada a todos os servidores, posto que aqueles que recebem a VPNI não poderiam receber a revisão antes do pronunciamento do Plenário daquele Conselho”, a teor da decisão que se segue:
+    “1. Trata-se de Processo de Acompanhamento de Cumprimento de Decisão proferida nos autos do Pedido de Providências n. 0005745- 05.2011.2.00.0000.
+    2. Após determinação para formular consulta do Tribunal de Contas do Estado do Mato Grosso, o Tribunal de Justiça apresentou a respectiva resposta no Id 1942070. 3. Na sequência, os autos foram remetidos à Secretaria de Controle Interno deste Conselho.
+    4. Ad cautelam, cumpre esclarecer que o Tribunal não está autorizado a proceder à revisão/reajuste da VPNI sem que o Plenário deste Conselho manifeste sobre o eventual índice a ser utilizado.
+    5. Por fim, ressalto que as demais revisões/reajustes e progressões estão autorizadas nos termos das decisões anteriores.
+    6. Intimem-se, com urgência, o Tribunal para que evite qualquer tipo de pagamento em sentido contrário, podendo a Secretaria Processual utilizar todos os meios adequados, como telefone, e-mail e fac simile.
+    7. Cumprida essa determinação, devolvam-se os autos à Secretaria de Controle Interno com a restituição do respectivo prazo, independentemente de nova conclusão. Cópia deste servirá como ofício” (grifos meus).
+    Informam, em seguida, que o Presidente do TJMT, ao ser intimado da referida decisão, ordenou a suspensão de qualquer revisão aos impetrantes (extra tabela), o que, sustentam, violou a garantia constitucional da irredutibilidade dos vencimentos, além do principio da isonomia.
+    Salientam que não se trata de aumento para a categoria, mas da Revisão Geral Anual “prevista no Artigo 37 inciso X da Constituição Federal, que data máxima vênia deverá incidir sobre todas as verbas, inclusive eventual VPNI”.
+    Prosseguem dizendo que, ao determinar a não aplicação da Lei 10.405/2016 a todos os servidores, a Conselheira Relatora invadiu a competência desta Corte, uma vez que, dentre as atribuições do CNJ delineadas pela Carta Magna, estão somente as de cunho administrativo, não lhe assistindo competência para determinar “que qualquer Tribunal deixe de cumprir a Lei Estadual, e no presente caso a Autoridade Coatora determinou que o Presidente do Tribunal deixasse de aplicar a Revisão Geral Anual dos vencimentos aos impetrantes”.
+    Alegam, nesse contexto, que
+    “o índice deverá ser o determinado pela Lei 10405/2016 e sobre esta Lei não paira nenhuma inconstitucionalidade, ademais o índice a ser utilizado é o já constante de Leis anteriores qual seja a Lei estadual 8814/2008 onde está previsto que o índice a ser utilizado é o INPC”.
+    Apontam, ainda, que “estão sofrendo prejuízos, pois quase todos os Servidores do Judiciário do Estado de Mato Grosso receberam a correção de seus vencimentos, enquanto que os impetrantes não receberam nada, nem mesmo a correção que deveria incidir sobre os vencimentos básicos no caso os subsídios”.
+    Requerem, ao final, a concessão de medida liminar para que seja conferido efeito suspensivo ao ato coator, e, consectariamente, seja aplicado o disposto na Lei estadual 10.405/2016 relativamente aos vencimentos dos impetrantes. No mérito, pugnam pela confirmação da liminar. Pedem, ainda, a concessão da gratuidade da justiça.
+    É o relatório. Decido.
+    Ab initio, defiro o pedido de justiça gratuita, nos termos dos arts. 98 e 99, § 3º, do Código de Processo Civil, combinado com o art. 62 do Regimento Interno do Supremo Tribunal Federal.
+    Preliminarmente, anoto que o art. 102, I, d, da Constituição da República é de clareza solar ao limitar a competência do Supremo Tribunal Federal ao julgamento de mandados de segurança contra atos do Presidente da República, das mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal. A EC 45/2004, incluiu, no rol das competências do STF, o julgamento das ações (dentre elas os mandados de segurança) contra o CNJ e CNMP (art. 102, I, r).
+    Evidente, assim, a incompetência desta Corte para a apreciação de mandamus impetrado contra ato do TJMT. Incide, na hipótese, a Súmula 624 do STF: “Não compete ao Supremo Tribunal Federal conhecer originariamente de mandado de segurança contra atos de outros tribunais”.
+    Portanto, não conheço do writ no que se refere ao Presidente do TJMT.
+    A concessão de medida liminar em mandado de segurança reclama a demonstração da existência de fundamento relevante e que, da manutenção do ato impugnado, possa resultar a ineficácia da medida a ser eventualmente deferida ao final.
+    Neste exame sumário, próprio das medidas cautelares, tenho por ausentes esses pressupostos.
+    Isso porque, diversamente do que afirmam os impetrantes, o ato praticado nos autos do CUMPRDEC 0006568-13.2010.2.00.0000 não teve o condão de impedir a revisão de sua remuneração, uma vez que se referiu apenas e tão somente à revisão da VPNI.
+    Ademais, consoante manifestação da Presidência do TJMT (Ofício 810/2016-PRES, encaminhado à Conselheira Daldice Santana), a proposta de alteração do dispositivo legal que trata da remuneração dos servidores do judiciário mato-grossense (especificamente da forma de revisão da VPNI), encaminhada ao CNJ, ainda não foi apreciada. A referida proposta tem o seguinte teor:
+    “Art. 40. A remuneração dos servidores do Quadro de Pessoal do Poder Judiciário do Estado de Mato Grosso será estabelecida por subsídio, fixado na forma dos Anexos XIV a XX da presente lei.
+    § 1º O subsídio de que trata o caput deste artigo é fixado em parcela única, vedado o acréscimo de qualquer gratificação adicional, abono, prêmio, verba de representação e de qualquer outra espécie remuneratória, exceto o acréscimo referente ao servidor efetivo designado para exercer função de confiança.
+    § 2º A fusão da remuneração em forma de subsídio assegura as vantagens pecuniárias já adquiridas pelo servidor, sendo que seu enquadramento dar-se-á nos níveis e classes estabelecidos para cada carreira, conforme as regras de enquadramentos definidas na presente lei.
+    § 3º A data base da revisão geral anual das tabelas de subsídios dos servidores do Poder Judiciário dar-se-á nos níveis e classes estabelecidos para cada carreira, conforme as regras de enquadramento definidas na presente lei.
+    § 4º O servidor cujo subsídio ultrapassar o maior subsídio da tabela de sua carreira será enquadrado na última classe e nível desta, devendo o valor excedente ser pago como vantagem pessoal nominalmente identificada – VPNI, que será gradualmente absorvida pelos aumentos concedidos às carreiras.
+    § 5º Sobre o valor da VPNI incidirá apenas a revisão geral anual concedida, nos termos do parágrafo 3º deste artigo”.
+    A atual lei de regência da carreira dos servidores do Poder Judiciário mato-grossense, Lei 8.814/2008, nada dispõe acerca da VPNI, tampouco da sua forma de revisão.
+    Desse modo, não lograram os impetrantes demonstrar, nesta primeira análise do feito, o direito líquido e certo alegado.
+    Ex positis, indefiro a liminar pleiteada.
+    Solicitem-se informações à autoridade coatora.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se. Intimem-se.
+    Brasília, 30 de junho de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
