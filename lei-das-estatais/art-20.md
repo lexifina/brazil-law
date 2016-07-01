@@ -1,0 +1,1 @@
+Art. 20. É vedada a participação remunerada de membros da administração pública, direta ou indireta, em mais de 2 (dois) conselhos, de administração ou fiscal, de empresa pública, de sociedade de economia mista ou de suas subsidiárias.

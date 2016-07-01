@@ -1,0 +1,1 @@
+Art. 90. As ações e deliberações do órgão ou ente de controle não podem implicar interferência na gestão das empresas públicas e das sociedades de economia mista a ele submetidas nem ingerência no exercício de suas competências ou na definição de políticas públicas.

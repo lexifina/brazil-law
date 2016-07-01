@@ -1,0 +1,6 @@
+Art. 23. É condição para investidura em cargo de diretoria da empresa pública e da sociedade de economia mista a assunção de compromisso com metas e resultados específicos a serem alcançados, que deverá ser aprovado pelo Conselho de Administração, a quem incumbe fiscalizar seu cumprimento.
+§ 1º Sem prejuízo do disposto no caput, a diretoria deverá apresentar, até a última reunião ordinária do Conselho de Administração do ano anterior, a quem compete sua aprovação:
+I - plano de negócios para o exercício anual seguinte;
+II - estratégia de longo prazo atualizada com análise de riscos e oportunidades para, no mínimo, os próximos 5 (cinco) anos.
+§ 2º Compete ao Conselho de Administração, sob pena de seus integrantes responderem por omissão, promover anualmente análise de atendimento das metas e resultados na execução do plano de negócios e da estratégia de longo prazo, devendo publicar suas conclusões e informá-las ao Congresso Nacional, às Assembleias Legislativas, à Câmara Legislativa do Distrito Federal ou às Câmaras Municipais e aos respectivos tribunais de contas, quando houver.
+§ 3º Excluem-se da obrigação de publicação a que se refere o § 2º as informações de natureza estratégica cuja divulgação possa ser comprovadamente prejudicial ao interesse da empresa pública ou da sociedade de economia mista.

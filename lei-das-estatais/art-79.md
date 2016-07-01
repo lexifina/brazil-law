@@ -1,0 +1,2 @@
+Art. 79. Na hipótese do § 6º do art. 54, quando não for gerada a economia prevista no lance ou proposta, a diferença entre a economia contratada e a efetivamente obtida será descontada da remuneração do contratado.
+Parágrafo único. Se a diferença entre a economia contratada e a efetivamente obtida for superior à remuneração do contratado, será aplicada a sanção prevista no contrato, nos termos do inciso VI do caput do art. 69 desta Lei.

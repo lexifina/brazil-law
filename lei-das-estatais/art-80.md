@@ -1,0 +1,1 @@
+Art. 80. Os direitos patrimoniais e autorais de projetos ou serviços técnicos especializados desenvolvidos por profissionais autônomos ou por empresas contratadas passam a ser propriedade da empresa pública ou sociedade de economia mista que os tenha contratado, sem prejuízo da preservação da identificação dos respectivos autores e da responsabilidade técnica a eles atribuída.

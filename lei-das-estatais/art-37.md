@@ -1,0 +1,3 @@
+Art. 37. A empresa pública e a sociedade de economia mista deverão informar os dados relativos às sanções por elas aplicadas aos contratados, nos termos definidos no art. 83, de forma a manter atualizado o cadastro de empresas inidôneas de que trata o art. 23 da Lei nº 12.846, de 1º de agosto de 2013.
+§ 1º O fornecedor incluído no cadastro referido no caput não poderá disputar licitação ou participar, direta ou indiretamente, da execução de contrato.
+§ 2º Serão excluídos do cadastro referido no caput, a qualquer tempo, fornecedores que demonstrarem a superação dos motivos que deram causa à restrição contra eles promovida.
