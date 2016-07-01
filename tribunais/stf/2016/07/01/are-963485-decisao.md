@@ -1,0 +1,17 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em ação de cobrança. O Tribunal de Justiça do Estado do Rio Grande do Sul manteve sentença que julgara improcedentes os pedidos, nos termos da seguinte ementa (fl. 193):
+    APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. MAGISTÉRIO. MUNICÍPIO DE PORTO XAVIER. LEI Nº 11.738/08. PISO SALARIAL. HORA ATIVIDADE. INCONSTITUCIONALIDADE.
+    1. Na decisão proferida na ADI nº 4167, o STF declarou a constitucionalidade da Lei nº 11.738/08, especificamente em relação ao art. 2º, § 4º, sem atribuição de eficácia erga omnes e efeito vinculante em relação aos demais órgãos do Poder Judiciário.
+    2. Norma que estabelece a jornada de trabalho para os profissionais do magistério público da educação básica que invade a competência dos demais entes federados ao extrapolar o disposto no art. 60, inciso III, alínea "e", do ADCT, restrito à fixação de um piso nacional para a categoria.
+    3. Inconstitucionalidade reconhecida pelo Órgão Especial do Tribunal de Justiça do RS, em controle difuso (processo nº 70059092486), por maioria absoluta. Dispensa de nova arguição de incidente de inconstitucionalidade, nos termos do art. 481, parágrafo único, do CPC.
+    APELAÇÃO IMPROVIDA.
+    No recurso extraordinário, a parte recorrente aponta, com base no art. 102, III, “a”, da Constituição Federal, violação aos seguintes dispositivos constitucionais: (a) art. 206, V, pois “a fixação de reserva de 1/3 da carga horária dos docentes a outras atividades, tais como estudos, planejamento e avaliações, é de interesse nacional, porque tem a ver, primeiro, com a qualidade de ensino, depois com a própria valorização do professor” (fl. 205); e (b) arts. 24, IX, e 211, porque a União possui competência para editar normas gerais referentes à educação, de modo que não há invasão de competência que torne o art. 2º, § 4º, da Lei 11.738/2008 inconstitucional.
+    Em contrarrazões, a parte recorrida postula, preliminarmente, o não conhecimento do recurso, em razão da ausência de prequestionamento. No mérito, pede o desprovimento do apelo.
+    2. Não assiste razão à parte recorrida relativamente às preliminares de não conhecimento do recurso extraordinário, o qual preenche os requisitos constitucionais e legais exigidos para a sua admissão. Sobre o óbice alegado, cumpre asseverar que a matéria debatida no apelo extremo encontra-se devidamente prequestionada.
+    3. No mérito, o recurso merece provimento. O Plenário do Supremo Tribunal Federal, no julgamento da ADI 4.167 (Rel. Min. JOAQUIM BARBOSA, DJe de 24/8/2011), assentou a constitucionalidade da “norma geral federal que reserva o percentual mínimo de 1/3 da carga horária dos docentes da educação básica para dedicação às atividades extraclasse”. Por estar em desconformidade com esse entendimento, merece reforma o acórdão atacado.
+    4. Registre-se que o requisito da repercussão geral está atendido em face do que prescreve o art. 543-A, § 3º, do CPC/1973: “Haverá repercussão geral sempre que o recurso impugnar decisão contrária a súmula ou jurisprudência dominante do Tribunal”.
+    5. Diante do exposto, com base no art. 544, § 4º, II, c, do CPC/1973, conheço do agravo para dar provimento ao recurso extraordinário, determinando o retorno dos autos ao Tribunal de origem para que prossiga no julgamento da apelação à luz do entendimento supra.
+    Publique-se. Intime-se.
+    Brasília, 1º de julho de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
