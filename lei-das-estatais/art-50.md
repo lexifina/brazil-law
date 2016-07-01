@@ -1,0 +1,1 @@
+Art. 50. Estendem-se à atribuição de ônus real a bens integrantes do acervo patrimonial de empresas públicas e de sociedades de economia mista as normas desta Lei aplicáveis à sua alienação, inclusive em relação às hipóteses de dispensa e de inexigibilidade de licitação.

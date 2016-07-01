@@ -1,0 +1,1 @@
+Art. 7º Aplicam-se a todas as empresas públicas, as sociedades de economia mista de capital fechado e as suas subsidiárias as disposições da Lei nº 6.404, de 15 de dezembro de 1976, e as normas da Comissão de Valores Mobiliários sobre escrituração e elaboração de demonstrações financeiras, inclusive a obrigatoriedade de auditoria independente por auditor registrado nesse órgão.

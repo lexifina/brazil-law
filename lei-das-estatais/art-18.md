@@ -1,0 +1,5 @@
+Art. 18. Sem prejuízo das competências previstas no art. 142 da Lei nº 6.404, de 15 de dezembro de 1976, e das demais atribuições previstas nesta Lei, compete ao Conselho de Administração:
+I - discutir, aprovar e monitorar decisões envolvendo práticas de governança corporativa, relacionamento com partes interessadas, política de gestão de pessoas e código de conduta dos agentes;
+II - implementar e supervisionar os sistemas de gestão de riscos e de controle interno estabelecidos para a prevenção e mitigação dos principais riscos a que está exposta a empresa pública ou a sociedade de economia mista, inclusive os riscos relacionados à integridade das informações contábeis e financeiras e os relacionados à ocorrência de corrupção e fraude;
+III - estabelecer política de porta-vozes visando a eliminar risco de contradição entre informações de diversas áreas e as dos executivos da empresa pública ou da sociedade de economia mista;
+IV - avaliar os diretores da empresa pública ou da sociedade de economia mista, nos termos do inciso III do art. 13, podendo contar com apoio metodológico e procedimental do comitê estatutário referido no art. 10.

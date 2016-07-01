@@ -1,0 +1,2 @@
+Art. 92. O Registro Público de Empresas Mercantis e Atividades Afins manterá banco de dados público e gratuito, disponível na internet, contendo a relação de todas as empresas públicas e as sociedades de economia mista.
+Parágrafo único. É a União proibida de realizar transferência voluntária de recursos a Estados, ao Distrito Federal e a Municípios que não fornecerem ao Registro Público de Empresas Mercantis e Atividades Afins as informações relativas às empresas públicas e às sociedades de economia mista a eles vinculadas.

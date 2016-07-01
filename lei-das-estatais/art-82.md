@@ -1,0 +1,4 @@
+Art. 82. Os contratos devem conter cláusulas com sanções administrativas a serem aplicadas em decorrência de atraso injustificado na execução do contrato, sujeitando o contratado a multa de mora, na forma prevista no instrumento convocatório ou no contrato.
+§ 1º A multa a que alude este artigo não impede que a empresa pública ou a sociedade de economia mista rescinda o contrato e aplique as outras sanções previstas nesta Lei.
+§ 2º A multa, aplicada após regular processo administrativo, será descontada da garantia do respectivo contratado.
+§ 3º Se a multa for de valor superior ao valor da garantia prestada, além da perda desta, responderá o contratado pela sua diferença, a qual será descontada dos pagamentos eventualmente devidos pela empresa pública ou pela sociedade de economia mista ou, ainda, quando for o caso, cobrada judicialmente.

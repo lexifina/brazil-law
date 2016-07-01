@@ -1,0 +1,3 @@
+Art. 19. É garantida a participação, no Conselho de Administração, de representante dos empregados e dos acionistas minoritários.
+§ 1º As normas previstas na Lei nº 12.353, de 28 de dezembro de 2010, aplicam-se à participação de empregados no Conselho de Administração da empresa pública, da sociedade de economia mista e de suas subsidiárias e controladas e das demais empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto.
+§ 2º É assegurado aos acionistas minoritários o direito de eleger 1 (um) conselheiro, se maior número não lhes couber pelo processo de voto múltiplo previsto na Lei nº 6.404, de 15 de dezembro de 1976.

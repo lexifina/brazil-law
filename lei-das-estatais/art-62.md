@@ -1,0 +1,5 @@
+Art. 62. Além das hipóteses previstas no § 3º do art. 57 desta Lei e no inciso II do § 2º do art. 75 desta Lei, quem dispuser de competência para homologação do resultado poderá revogar a licitação por razões de interesse público decorrentes de fato superveniente que constitua óbice manifesto e incontornável, ou anulá-la por ilegalidade, de ofício ou por provocação de terceiros, salvo quando for viável a convalidação do ato ou do procedimento viciado.
+§ 1º A anulação da licitação por motivo de ilegalidade não gera obrigação de indenizar, observado o disposto no § 2º deste artigo.
+§ 2º A nulidade da licitação induz à do contrato.
+§ 3º Depois de iniciada a fase de apresentação de lances ou propostas, referida no inciso III do caput do art. 51 desta Lei, a revogação ou a anulação da licitação somente será efetivada depois de se conceder aos licitantes que manifestem interesse em contestar o respectivo ato prazo apto a lhes assegurar o exercício do direito ao contraditório e à ampla defesa.
+§ 4º O disposto no caput e nos §§ 1º e 2º deste artigo aplica-se, no que couber, aos atos por meio dos quais se determine a contratação direta.
