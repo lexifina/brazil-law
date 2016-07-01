@@ -1,0 +1,3 @@
+Art. 59. Salvo no caso de inversão de fases, o procedimento licitatório terá fase recursal única.
+§ 1º Os recursos serão apresentados no prazo de 5 (cinco) dias úteis após a habilitação e contemplarão, além dos atos praticados nessa fase, aqueles praticados em decorrência do disposto nos incisos IV e V do caput do art. 51 desta Lei.
+§ 2º Na hipótese de inversão de fases, o prazo referido no § 1º será aberto após a habilitação e após o encerramento da fase prevista no inciso V do caput do art. 51, abrangendo o segundo prazo também atos decorrentes da fase referida no inciso IV do caput do art. 51 desta Lei.

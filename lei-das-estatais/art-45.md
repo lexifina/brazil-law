@@ -1,0 +1,2 @@
+Art. 45. Na contratação de obras e serviços, inclusive de engenharia, poderá ser estabelecida remuneração variável vinculada ao desempenho do contratado, com base em metas, padrões de qualidade, critérios de sustentabilidade ambiental e prazos de entrega definidos no instrumento convocatório e no contrato.
+Parágrafo único. A utilização da remuneração variável respeitará o limite orçamentário fixado pela empresa pública ou pela sociedade de economia mista para a respectiva contratação.
