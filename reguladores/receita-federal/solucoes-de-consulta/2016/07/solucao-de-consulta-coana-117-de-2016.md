@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 117, de 3 de junho de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO NCM 3824.90.89 Mercadoria: Preparação química, em pó branco cristalino, obtida por cristalização, secagem e inspeção magnética de celulose microcristalina e de lactose NF, utilizada na fabricação de medicamentos, na forma de comprimido, onde é desejável que haja a sua pronta desintegração e conseqüentemente a liberação rápida do ativo presente no medicamento.
+DISPOSITIVOS LEGAIS: RGI-1 (Texto da posição 38.24), RGI-6 (texto da subposição 3824.90) e RGC-1 (texto do item 3824.90.8 e do subitem 3824.90.89) da NCM, constante da TEC, aprovada pela Resolução Camex nº 94, 12/12/ 2011 com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 7.660, de 2011, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO NCM 3824.90.89 Mercadoria: Preparação química, em pó branco cristalino, obtida por cristalização, secagem e inspeção magnética de celulose microcristalina e de lactose NF, utilizada na fabricação de medicamentos, na forma de comprimido, onde é desejável que haja a sua pronta desintegração e conseqüentemente a liberação rápida do ativo presente no medicamento.
+DISPOSITIVOS LEGAIS: RGI-1 (Texto da posição 38.24), RGI-6 (texto da subposição 3824.90) e RGC-1 (texto do item 3824.90.8 e do subitem 3824.90.89) da NCM, constante da TEC, aprovada pela Resolução Camex nº 94, 12/12/ 2011 com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 7.660, de 2011, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ÁLVARO AUGUSTO DE VACONCELOS LEITE RIBEIRO
+Presidente da 1ª Turma
