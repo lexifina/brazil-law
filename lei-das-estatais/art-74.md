@@ -1,0 +1,1 @@
+Art. 74. É permitido a qualquer interessado o conhecimento dos termos do contrato e a obtenção de cópia autenticada de seu inteiro teor ou de qualquer de suas partes, admitida a exigência de ressarcimento dos custos, nos termos previstos na Lei nº 12.527, de 18 de novembro de 2011.
