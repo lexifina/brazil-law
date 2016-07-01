@@ -1,0 +1,8 @@
+Art. 44. É vedada a participação direta ou indireta nas licitações para obras e serviços de engenharia de que trata esta Lei:
+I - de pessoa física ou jurídica que tenha elaborado o anteprojeto ou o projeto básico da licitação;
+II - de pessoa jurídica que participar de consórcio responsável pela elaboração do anteprojeto ou do projeto básico da licitação;
+III - de pessoa jurídica da qual o autor do anteprojeto ou do projeto básico da licitação seja administrador, controlador, gerente, responsável técnico, subcontratado ou sócio, neste último caso quando a participação superar 5% (cinco por cento) do capital votante.
+§ 1º A elaboração do projeto executivo constituirá encargo do contratado, consoante preço previamente fixado pela empresa pública ou pela sociedade de economia mista.
+§ 2º É permitida a participação das pessoas jurídicas e da pessoa física de que tratam os incisos II e III do caput deste artigo em licitação ou em execução de contrato, como consultor ou técnico, nas funções de fiscalização, supervisão ou gerenciamento, exclusivamente a serviço da empresa pública e da sociedade de economia mista interessadas.
+§ 3º Para fins do disposto no caput, considera-se participação indireta a existência de vínculos de natureza técnica, comercial, econômica, financeira ou trabalhista entre o autor do projeto básico, pessoa física ou jurídica, e o licitante ou responsável pelos serviços, fornecimentos e obras, incluindo-se os fornecimentos de bens e serviços a estes necessários.
+§ 4º O disposto no § 3º deste artigo aplica-se a empregados incumbidos de levar a efeito atos e procedimentos realizados pela empresa pública e pela sociedade de economia mista no curso da licitação.

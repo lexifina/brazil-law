@@ -1,0 +1,1 @@
+Art. 94. Aplicam-se à empresa pública, à sociedade de economia mista e às suas subsidiárias as sanções previstas na Lei nº 12.846, de 1º de agosto de 2013, salvo as previstas nos incisos II, III e IV do caput do art. 19 da referida Lei.

@@ -1,0 +1,1 @@
+Art. 5º A sociedade de economia mista será constituída sob a forma de sociedade anônima e, ressalvado o disposto nesta Lei, estará sujeita ao regime previsto na Lei nº 6.404, de 15 de dezembro de 1976.

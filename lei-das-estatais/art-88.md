@@ -1,0 +1,3 @@
+Art. 88. As empresas públicas e as sociedades de economia mista deverão disponibilizar para conhecimento público, por meio eletrônico, informação completa mensalmente atualizada sobre a execução de seus contratos e de seu orçamento, admitindo-se retardo de até 2 (dois) meses na divulgação das informações.
+§ 1º A disponibilização de informações contratuais referentes a operações de perfil estratégico ou que tenham por objeto segredo industrial receberá proteção mínima necessária para lhes garantir confidencialidade.
+§ 2º O disposto no § 1º não será oponível à fiscalização dos órgãos de controle interno e do tribunal de contas, sem prejuízo da responsabilização administrativa, civil e penal do servidor que der causa à eventual divulgação dessas informações.

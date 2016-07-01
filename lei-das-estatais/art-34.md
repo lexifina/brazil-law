@@ -1,0 +1,5 @@
+Art. 34. O valor estimado do contrato a ser celebrado pela empresa pública ou pela sociedade de economia mista será sigiloso, facultando-se à contratante, mediante justificação na fase de preparação prevista no inciso I do art. 51 desta Lei, conferir publicidade ao valor estimado do objeto da licitação, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas.
+§ 1º Na hipótese em que for adotado o critério de julgamento por maior desconto, a informação de que trata o caput deste artigo constará do instrumento convocatório.
+§ 2º No caso de julgamento por melhor técnica, o valor do prêmio ou da remuneração será incluído no instrumento convocatório.
+§ 3º A informação relativa ao valor estimado do objeto da licitação, ainda que tenha caráter sigiloso, será disponibilizada a órgãos de controle externo e interno, devendo a empresa pública ou a sociedade de economia mista registrar em documento formal sua disponibilização aos órgãos de controle, sempre que solicitado.
+§ 4º (VETADO).
