@@ -1,2 +1,0 @@
-Art. 68. Com o objetivo de compor suas propostas para participar das licitações que precedem as concessões de que trata esta Lei, a PETROBRÁS poderá assinar pré-contratos, mediante a expedição de cartas-convites, assegurando preços e compromissos de fornecimento de bens e serviços.
-Parágrafo único. Os pré-contratos conterão cláusula resolutiva de pleno direito, a ser exercida, sem penalidade ou indenização, no caso de outro licitante ser declarado vencedor, e serão submetidos, a posteriori, à apreciação dos órgãos de controle externo e fiscalização.
