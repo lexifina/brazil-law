@@ -1,0 +1,1 @@
+Art. 35. Observado o disposto no art. 34, o conteúdo da proposta, quando adotado o modo de disputa fechado e até sua abertura, os atos e os procedimentos praticados em decorrência desta Lei submetem-se à legislação que regula o acesso dos cidadãos às informações detidas pela administração pública, particularmente aos termos da Lei nº 12.527, de 18 de novembro de 2011.
