@@ -1,0 +1,15 @@
+Trata-se de reclamação constitucional ajuizada pelo Estado de Pernambuco em face de decisão proferida pelo Juízo da Vara Única do Trabalho da Comarca de Araripina/PE, nos autos da Reclamação Trabalhista 0001060-54.2015.5.06.0401, que, ao condenar as empresas prestadoras de serviço reclamadas no pagamento das verbas trabalhistas, condenou também o ente público como devedor subsidiário.
+    O Juízo da Vara do Trabalho entendeu que o agente estatal não poderia se eximir da responsabilidade no pagamento das verbas laborais supostamente devidas, realçando que imputação resulta de “culpa in vigilando, diante da presunção de que a tomadora dos serviços descuidou de seu dever de exercer a necessária fiscalização sobre a efetiva empregadora”.
+    O Estado reclamante alega que, ao afastar a aplicação do disposto no artigo 71, § 1º, da Lei 8.666/1993, a referida autoridade judiciária teria negado autoridade à decisão proferida por esta Corte na Ação Declaratória de Constitucionalidade 16.
+    Requer seja deferida medida liminar para suspender a tramitação da referida ação trabalhista, até final da presente reclamação constitucional. No mérito, seja julgada procedente o pedido formalizado nesses autos, declarando-se a nulidade absoluta do decisum reclamado e, como consequência necessária, também dos atos decisórios porventura proferidos.
+    É o relatório. Decido.
+    O Plenário do Supremo Tribunal Federal declarou a constitucionalidade do art. 71, § 1º, da Lei 8.666/93, que dispõe sobre a impossibilidade jurídica de transferência de responsabilidade à Administração Pública de encargos decorrentes do não cumprimento pelo contratado de obrigações trabalhistas, fiscais ou comerciais (ADC 16, Relator Ministro Cezar Peluso, DJe de 09/09/2011).
+    Na ocasião, salientou-se que eventual responsabilização da entidade pública beneficiada com a prestação dos serviços não decorre de responsabilidade objetiva, mas há de ser comprovada nos autos a conduta dolosa ou culposa do ente público na condução do contrato, que, assim, teria contribuído para o resultado danoso ao empregado reclamante. Portanto, a mera alegação de culpa in vigilando e de culpa in eligendo não autorizaria a condenação subsidiária do poder público.
+    Posto isso, sem prejuízo do reexame desta decisão pelo Ministro Edson Fachin, a quem foi distribuída esta reclamação constitucional, defiro o pedido de liminar para suspender a eficácia da sentença proferida na Reclamação Trabalhista 0001060-54.2015.5.06.0401, em curso no Juízo da Vara Única do Trabalho da Comarca de Araripina, Estado de Pernambuco, no ponto em que assentada a responsabilidade subsidiária do ente público, em face do inadimplemento de obrigações trabalhistas pelas empresas reclamadas.
+    Comunique-se, com urgência.
+    Solicitem informações a autoridade judiciária reclamada, inclusive sobre o estágio atual do trâmite da ação trabalhista.
+    Após, ouça-se a Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 5 de julho de 2016.
+Ministro Ricardo Lewandowski
+Presidente
