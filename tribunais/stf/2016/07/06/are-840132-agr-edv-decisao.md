@@ -1,0 +1,18 @@
+Trata-se de embargos de divergência opostos contra acórdão do Plenário desta Corte que negou provimento ao agravo regimental. O acórdão embargado possui a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM (ART. 543-B DO CPC). INTERPOSIÇÃO DO AGRAVO PREVISTO NO ART. 544 DO CPC. NÃO CABIMENTO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA JULGAMENTO DO RECURSO COMO AGRAVO INTERNO. CABIMENTO SOMENTE PARA OS RECURSOS INTERPOSTOS ANTES DE 19/11/2009. CONFIGURAÇÃO DE ERRO GROSSEIRO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – A jurisprudência do Supremo Tribunal Federal firmou-se no sentido do não cabimento do agravo previsto no art. 544 do Código de Processo Civil para atacar decisão a quo que aplica a sistemática da repercussão geral (AI 760.358-QO/SE, Rel. Min. Gilmar Mendes).
+    II – Inaplicável o princípio da fungibilidade recursal para se determinar a conversão do presente recurso em agravo regimental a ser apreciado pela origem, porquanto esta Corte fixou o entendimento de que após 19/11/2009, data em que julgado o AI 760.358-QO/SE, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro.
+    III – Agravo regimental a que se nega provimento” (pág. 1 do documento eletrônico 111).
+    O embargante sustenta a reforma do acórdão impugnado, a fim de que seja dado provimento ao recurso extraordinário.
+    Bem reexaminada a questão, verifico que o acórdão embargado não merece reforma, visto que estes embargos de divergência são manifestamente incabíveis, porquanto opostos contra acórdão do Pleno desta Corte.
+    Com efeito, nos termos do art. 330 do Regimento Interno do Supremo Tribunal Federal, apenas decisão de Turma é passível de impugnação por embargos de divergência. Nesse sentido, cito o AI 734.620-AgR-ED-EDv-ED/PA, Rel. Min. Cezar Peluso, Pleno, cuja ementa segue transcrita:
+    “Embargos de divergência. Inadmissibilidade. Impugnação a acórdão do Plenário. Precedentes. Recurso não conhecido. Cabem embargos de divergência contra acórdão de Turma que divirja de julgado da outra Turma ou do Pleno, não, porém, contra acórdão do Plenário. 2. Embargos de declaração. Caráter manifestamente infringente. Embargos recebidos como agravo regimental. Agravo, no entanto, improvido. Quando manifestamente infringentes, devem os embargos de declaração ser recebidos como agravo regimental. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte” (grifos meus).
+    Com idêntico entendimento, confira-se o seguinte precedente, também do Pleno deste Tribunal:
+    “EMENTA: EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA OPOSTOS CONTRA DECISÃO DO PLENÁRIO. NÃO CABIMENTO. ART. 330 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Rcl 12.601-AgR-EDv-ED/SC, Rel. Min. Cármen Lúcia – grifos meus).
+    Na hipótese, estes embargos de divergência foram opostos contra acórdão do Pleno que negou provimento ao agravo regimental, o que evidencia erro grosseiro e demonstra mero inconformismo com o resultado do julgamento.
+    Isso posto, não conheço dos embargos de divergência (art. 13, V, c, do RISTF).
+    Certifique-se o trânsito em julgado do acórdão de págs. 1-6 do documento eletrônico 111. Após, baixem os autos à origem.
+    Publique-se.
+    Brasília, 6 de julho de 2016.
+Ministro Ricardo Lewandowski
+Presidente
