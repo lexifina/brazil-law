@@ -1,0 +1,21 @@
+Despacho: Trata-se de Ação Direta de Inconstitucionalidade, com pedido de medida cautelar, proposta pelo Partido Socialista Brasileiro (PSB), cujo objeto é o art. 64, IV, da Portaria nº 158/2016 do Ministério da Saúde, e o art. 25, XXX, d, da Resolução da Diretoria Colegiada RDC nº 34/2014 da Agência Nacional de Vigilância Sanitária ANVISA, os quais dispõem sobre a inaptidão temporária para indivíduos do sexo masculino que tiveram relações sexuais com outros indivíduos do mesmo sexo realizarem doação sanguínea nos 12 (doze) meses subsequentes a tal prática.
+    O Instituto Brasileiro de Direito de Família - IBDFAM requereu a admissão no feito na condição de amicus curiae em peça subscrita por advogados regularmente constituídos para atuar no presente feito (eDOC 134 e 135).
+     Afirma ser uma entidade voltada ao estudo e ao debate do Direito das Famílias e Sucessões, possuindo em seu quadro social quase dez mil associados em todo o território nacional. Alega possuir, dentre suas comissões temáticas, a Comissão de Direito Homoafetivo e elenca sua participação como amicus curiae em diversas ações perante o Supremo Tribunal Federal.
+    Decido.
+    Admissão no feito na condição de amici curiae
+    O amicus curiae revela-se como importante instrumento de abertura do STF à participação na atividade de interpretação e aplicação da Constituição, o que é especialmente marcante nos processos de feição objetiva.
+    Como é sabido, a interação dialogal entre o STF e pessoas naturais ou jurídicas, órgãos ou entidades especializadas, que se apresentem como amigos da Corte, tem um potencial epistêmico de apresentar diferentes pontos de vista, interesses, aspectos e elementos nem sempre alcançados, vistos ou ouvidos pelo Tribunal diretamente da controvérsia entre as partes em sentido formal, possibilitando, assim, decisões melhores e também mais legítimas do ponto de vista do Estado Democrático de Direito.
+    O vigente Código de Processo Civil inovou ao incorporar ao ordenamento jurídico nacional regramento geral para o instituto no âmbito da jurisdição civil.
+    É extremamente salutar que a Corte reflita com vagar sobre as vascularidades existentes entre o regramento das ações de controle de constitucionalidade perante o Supremo Tribunal Federal e o Processo Civil em geral, especialmente no que diz respeito à legitimidade recursal, etc.
+    De qualquer sorte, consoante disposto no art. 7º, §2º da Lei 9.868/1999, nesse ponto em recomendável leitura integrativa com o art. 138, caput, do CPC, duas balizas se fazem necessárias para a sua admissão.
+    De um lado, tem-se a necessidade de relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia. De outro, a representatividade adequada do amicus curiae.
+    Conforme pronunciei-me em anterior despacho (eDOC 37) a matéria aqui discutida relaciona-se diretamente com o núcleo mais íntimo do princípio constitucional da dignidade da pessoa humana, sendo, portanto, manifesta a sua relevância.
+    O IBDFAM, associação civil sem fins econômicos, congrega diversos profissionais, tais como professores, magistrados, membros do Ministério Público, advogados, psicólogos e psicanalistas e possui, dentre seus objetivos, a promoção de estudos, pesquisas e discussões sobre as relações de família e a atuação “como força representativa nos cenários nacional e internacional, e como instrumento de intervenção político-científica, ajustado aos interesses da família e aos direitos de exercício da cidadania” (eDOC 137, p.1).
+    Demonstra, dessa forma, possuir a necessária representatividade temática material e espacial, mostrando-se legítima sua intervenção na condição de amicus curiae em virtude da possibilidade de contribuir de forma relevante, direta e imediata no tema em pauta.
+    Diante do o exposto, admito o Instituto Brasileiro de Direito de Família - IBDFAM como amicus curiae, nos termos do art. 7º, §2º, da Lei nº 9.868/1999, facultando-lhe a apresentação de informações, memoriais escritos nos autos e de sustentação oral por ocasião do julgamento definitivo do mérito da presente ação direta de inconstitucionalidade.
+    À Secretaria para as providências necessárias.
+    Publique-se. Intime-se.
+    Brasília, 06 de julho 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
