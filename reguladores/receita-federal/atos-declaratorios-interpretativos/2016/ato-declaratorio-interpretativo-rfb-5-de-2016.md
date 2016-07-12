@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo RFB nº 5, de 11 de julho de 2016
+Dispõe sobre a aplicação do Regime Especial de Regularização Cambial e Tributária (RERCT) por meio do “Dercat - Perguntas e Respostas 1.0”.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Lei nº 13.254, de 13 de janeiro de 2016, e na Instrução Normativa RFB nº 1.627, de 11 de março de 2016, declara:
+Art. 1º As disposições da Lei nº 13.254, de 13 de janeiro de 2016, e da Instrução Normativa RFB nº 1.627, de 11 de março de 2016, relativas ao Regime Especial de Regularização Cambial e Tributária (RERCT) e à Declaração de Regularização Cambial e Tributária (Dercat) interpretam-se conforme o “Dercat - Perguntas e Respostas 1.0” disponível no sítio da Secretaria da Receita Federal do Brasil na Internet, no endereço http://rfb.gov.br.
+JORGE ANTONIO DEHER RACHID
