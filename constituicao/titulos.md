@@ -94,8 +94,8 @@ Seção III
 DO SUPERIOR TRIBUNAL DE JUSTIÇA
 Seção IV
 DOS TRIBUNAIS REGIONAIS FEDERAIS E DOS JUÍZES FEDERAIS
-DOS TRIBUNAIS E JUÍZES DO TRABALHO
 Seção V
+Do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho e dos Juízes do Trabalho
 Seção VI
 DOS TRIBUNAIS E JUÍZES ELEITORAIS
 Seção VII
