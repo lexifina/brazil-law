@@ -1,0 +1,11 @@
+Trata-se de embargos de declaração opostos à decisão que não conheceu dos primeiros aclaratórios em razão de que a embargante não teria observado o prazo para interposição do recurso.
+    Nos presentes embargos, pede a embargante a modificação da referida decisão, sob a alegação de que teria ocorrido erro de fato na contagem dos prazos, haja vista ‘o prazo somente é contabilizado em dias úteis nos termos do artigo 219 do NCPC (...)’ (fl. 644, vol. 3)
+    De fato, os aclaratórios anteriormente opostos são tempestivos. Desse modo, acolho os presentes embargos de declaração para, afastando o equívoco na contagem de prazos, reconhecer a tempestividade dos primeiros aclaratórios e passar, desde logo, ao seu exame.
+    Pois bem. Trata-se de embargos de declaração (fls. 636-638, vol.3) opostos à decisão monocrática (fls. 633, vol. 3) que negou seguimento ao recurso diante do óbice intransponível apontado pela Certidão da Secretaria Judiciária do Supremo Tribunal Federal. (fls. 631, vol. 3), qual seja, a intempestividade do recurso extraordinário.
+    Sustenta a parte embargante, em suma, que a decisão embargada foi omissa quanto ao argumento de que o prazo para interposição do recurso extraordinário iniciou-se no dia posterior ao da publicação do acórdão, certificada às fls. 279, ‘não obstante ao disposto no artigo 47 da instrução normativa nº 01, de 11 de outubro de 2011 usado para fundamentação da decisão agravada’. Afirma, ademais, que o decreto de intempestividade do apelo extremo, baseado no normativo mencionado, suprime o prazo recursal para a parte recorrente, circunstância que viola a ampla defesa e o contraditório.
+    É o relatório necessário. Decido.
+    Bem reexaminados, verifico que assiste razão à embargante, motivo pelo qual, em juízo de retratação, acolho os presentes embargos (fls. 643-645) para tornar sem efeito a decisão embargada (fls. 640) e, em sequência, conheço dos embargos de declaração (fls. 636-638) como agravo interno e, uma vez presentes os requisitos do art. 1.021, § 1º, do CPC, e com base no art. 317, § 2º, do Regimento Interno do Supremo Tribunal Federal, reconsidero a decisão que negou seguimento ao recurso extraordinário com agravo (fls. 633), tornando-a sem efeito, e determino o regular processamento do recurso.
+    Publique-se.
+    Brasília, 15 de julho de 2016.
+Ministro Ricardo Lewandowski
+Presidente
