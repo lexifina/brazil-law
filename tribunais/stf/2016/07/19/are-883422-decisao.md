@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL TRABALHISTA. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DA COMPETÊNCIA DE TRIBUNAL DIVERSO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal Superior do Trabalho:
+    “AGRAVO EM RECURSO DE EMBARGOS. CAIXA ECONÔMICA FEDERAL. CARGO EM COMISSÃO. COMPENSAÇÃO DAS HORAS EXTRAS COM A GRATIFICAÇÃO DE FUNÇÃO. A Turma deu provimento ao recurso de revista da reclamada para autorizar a compensação das horas extras decorrentes da descaracterização do cargo em comissão com a gratificação de função paga à reclamante. A decisão proferida pela Turma está em consonância com a OJ Transitória n. 70 desta Subseção, razão pela qual não merece reparos a decisão agravada que negou seguimento ao recurso de embargos da reclamante com fundamento nos arts. 896, § 5º, da CLT, 557, caput, do CPC. Agravo conhecido e não provido” (fl. 208, doc. 4).
+    Os embargos de declaração opostos foram rejeitados (fls. 230-234, doc. 4).
+    2. No recurso extraordinário, a Agravante alega ter o Tribunal de origem contrariado os arts. 1º, 5º, incs. VI e XXXV, 7º, inc. VI, e 37, caput, da Constituição da República.
+    Sustenta ter-se no “acórdão de fls. neg[ado] vigência aos princípios constitucionais do respeito dignidade humana e dos valores sociais do trabalho (artigo 1º da CF), bem como do princípio da irredutibilidade salarial, (artigo 7º, inciso VI da CF) e, por outro, violados verificam também os princípios da legalidade e moralidade insculpidos o artigo 37, caput, da Carta Magna” (fl. 5, doc. 5).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta (doc. 10).
+    No agravo, salienta-se que “a compensação de horas com a gratificação de função, prevista na OJT70 da SDI-I, deste Colendo Tribunal, não se afina com a literalidade dos artigos 37, caput, e inciso II, 1º, 5º, incisos XXXV e 7º, inciso VI, da Constituição, na medida em que o decréscimo do quantum debeatur decorrente da compensação autorizada penaliza o reclamante que não deu causa à ineficácia da adesão à jornada de oito horas constante do Plano de Cargos em Comissão da Caixa Econômica Federal” (fl. 3, doc. 12).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. O Tribunal Superior do Trabalho limitou-se ao exame de pressupostos de cabimento de recurso de sua competência:
+    “Nas razões do agravo, às fls. 943/960, a reclamante sustenta que o seu recurso de embargos merecia seguimento, na medida em que demonstrada no apelo divergência jurisprudencial válida e específica entre julgados de Turmas desta Corte Superior hábil a justificar o conhecimento.
+    Examina-se. A decisão agravada negou seguimento ao recurso de embargos da reclamante ao fundamento de que ‘a Turma, ao prover o recurso de revista para determinar a compensação das horas extras com a gratificação de função, decidiu a controvérsia em estrita consonância com a OJ Transitória nº 70 da SDI-1’.
+    Sempre que a decisão contra a qual foi interposto o recurso de embargos está em consonância com Súmula ou Orientação Jurisprudencial desta Corte, é facultado ao Relator negar seguimento ao apelo com fundamento nos arts. 896, § 5º, da CLT, 557, caput, do CPC, ainda que indicada divergência jurisprudencial válida e específica.
+    Aliás, quando a decisão recorrida está em conformidade com Súmula ou Orientação Jurisprudencial, o recurso de embargos sequer é cabível, ante o que determina expressamente a exceção contida na parte final do art. 894, II, da CLT, óbice que dispensa a análise da divergência jurisprudencial trazida a cotejo.
+    Assim, considerando que o acórdão embargado efetivamente decidiu a controvérsia atinente à compensação das horas extras com a gratificação de função em consonância com a OJ Transitória n. 70 desta Subseção, não merece reparos a decisão agravada ao negar seguimento ao recurso de embargos da reclamante” (fl. 216, doc. 4).
+    No julgamento do Recurso Extraordinário n. 598.365, (Tema n. 181), Relator o Ministro Ayres Britto, este Supremo Tribunal assentou inexistir repercussão geral na controvérsia sobre os pressupostos de cabimento de recurso em tribunal diverso:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso elemento de configuração da própria repercussão geral, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608” (DJe 23.6.2010).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada a prover quanto às alegações da Agravante.
+    6. Pelo exposto, nego seguimento ao agravo (art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de julho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
