@@ -1,0 +1,3 @@
+Art. 38-A. O operador aeroportuário poderá fazer a remoção de aeronaves, de equipamentos e de outros bens deixados nas áreas aeroportuárias sempre que restrinjam a operação, a ampliação da capacidade ou o regular funcionamento do aeroporto ou ocasionem riscos sanitários ou ambientais.
+§ 1º O disposto no caput aplica-se também a aeronaves, equipamentos e outros bens integrantes de massa falida, mediante comunicação ao juízo competente.
+§ 2º As despesas realizadas com as providências de que trata este artigo serão reembolsadas pelos proprietários dos bens e, em caso de falência, constituirão créditos extraconcursais a serem pagos pela massa.
