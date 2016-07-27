@@ -1,0 +1,22 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Aldair José da Silva. Aparelhado o recurso na afronta aos arts. 5º, LIV e LV, e 109, § 2º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Transcrevo, por oportuno, trecho do acórdão proferido pela Corte de origem:
+    “(...) Mantenho-me fiel aos fundamentos enunciados na decisão transcrita, ressaltando, com apoio na jurisprudência do Superior Tribunal de Justiça, que “ se o pedido e a causa de pedir têm como base o término de relação de trabalho que o autor reputa ser celetista, a competência para processar e julgar a ação é da Justiça do Trabalho, ainda que no polo ativo figure conselho de fiscalização profissional.” ( STJ. CC 49.102/MG. Segunda Seção. Rel.: Min Humberto Gomes de Barros, DJ 24.09.2007, pág 241).
+    (...)”
+    No caso dos autos, o Tribunal de origem fixou entendimento de que o recorrente mantinha vínculo de trabalho celetista com o Conselho Regional de Medicina, tendo sido admitido, no dia 24.04.2003, sob o regime da Lei nº 9.649/98.
+    Entender de modo diverso exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária, bem como a análise da legislação infraconstitucional aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência deste Supremo Tribunal Federal. Aplicação dos enunciados das Súmula 279: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMPETÊNCIA JURISDICIONAL. SERVIDOR PÚBLICO. DEFINIÇÃO DO REGIME JURÍDICO DA RELAÇÃO DE TRABALHO (CELETISTA OU ESTATUTÁRIO). RAZÕES RECURSAIS DISSOCIADAS DO JULGADO RECORRIDO. SÚMULA 284 DO STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 279. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE n. 575.933-AgR, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 13.2.2014)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Processo Civil. Competência. Juizados especiais. Acórdão recorrido que reconhece a existência de relação trabalhista. 3. Incidência do Enunciado 279 da Súmula do STF. 4. Matéria infraconstitucional. 5. Agravo regimental a que se nega provimento” (ARE n. 730.630-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 18.8.2014). “1. Justiça do Trabalho: competência para dizer da existência ou não de vínculo empregatício: precedentes. 2. RE: descabimento: questão relativa à caracterização de vínculo empregatício, que demanda reexame de matéria de fato e de provas inviável no recurso extraordinário (Súmula 279). 3. Agravo regimental: motivação da decisão agravada: necessidade de impugnação: precedentes.” (AI n. 376.709-AgR, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 3.2.2006)
+    Verifico, ainda, que no julgamento do RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, decidiu-se pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do devido processo legal, do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, cuja ementa transcrevo:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de julho de 2016.
+Ministra Rosa Weber
+Relatora
