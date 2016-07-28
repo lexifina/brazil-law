@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REVISÃO CONTRATUAL. INSTITUIÇÕES FINANCEIRAS. JUROS REMUNERATÓRIOS. ALEGAÇÃO DE CONTRARIEDADE AOS ARTS. 5º, INCS. LIV E LV, E 98, INC. I, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, als. a e c, da Constituição da República contra o seguinte julgado da Primeira Turma Recursal do Espírito Santo:
+    “Ementa: RECURSO INOMINADO - AÇÃO DE OBRIGAÇÃO DE FAZER COM DANOS MORAIS. IMPROCEDÊNCIA DO DANO MORAL. PROCEDÊNCIA DO PEDIDO EM PARTE PARA CONDICIONAR O PATAMAR DE 11,22% AO MÊS SALVO SE TAXA MENOR TIVER SIDO COBRADA. CONHECIMENTO DO RECURSO INOMINADO, PARA NEGAR PROVIMENTO 1. Sentença mantida por seus próprios fundamentos, conforme artigo 46 da Lei 9.099/95.2. Recurso a que se nega provimento. 2. Custas Lei. 3. Sem Honorários Advocatícios ante a ausência de contrarrazões” (fl. 103).
+    2. A Agravante alega ter a Turma Recursal de origem contrariado os arts. 5º, incs. LIV e LV, 93, inc. IX, e 98, inc. I, da Constituição da República.
+    Argumenta que “a fundamentação das decisões judiciais tem papel central no Estado Democrático do Direito, pois ela assume uma posição fundamental para racionalização da valoração das provas e serve para intelecção das razões dos magistrados, não sendo afastada sequer pela disc6cionariedade ínsita nesta, o _ que reclama uma decisão jurisdicional que seja sempre justificada de forma adequada.
+    (…) O caso em apreço envolve discussão relativa à cobrança de juros acima do percentual de 12% ao ano. o que por esta natureza, resta afastada a competência dos juizados especiais, dada a necessidade latente de perícia contábil.
+    Como cediço, em uma interpretação sistemática e conforme a Constituição dos artigos 275, II, do Código de Processo Civil c/c artigo 3º, 11 da Lei-9~099/95 com o art. 98, da Constituição Federal, constata-se que somente podem ser processadas e julgadas nos Juizados Especiais Cíveis as causas de menor complexidade, o que não é o caso dos autos” (fls. 111-119).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Agravante, o acórdão recorrido apresentou suficiente fundamentação. Firmou-se na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE n. 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    6. Os arts. 5º, incs. LIV e LV, e 98, inc. I, da Constituição da República, suscitados no recurso extraordinário, não foram objeto de debate e decisão prévios na Turma recursal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI n. 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de julho de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
