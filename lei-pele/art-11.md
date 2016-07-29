@@ -12,4 +12,4 @@ c) o procedimento a ser seguido para processamento e julgamento das violações 
 VIII - estabelecer diretrizes sobre os procedimentos relativos ao controle de dopagem exercidos pela Autoridade Brasileira de Controle de Dopagem - ABCD.
 § 1º O Ministério do Esporte prestará apoio técnico e administrativo ao CNE.
 § 2º No exercício das competências a que se referem os incisos VII e VIII do caput, o CNE deverá observar as disposições do Código Mundial Antidopagem editado pela Agência Mundial Antidopagem.
-§ 3º Enquanto não for exercida a competência referida no inciso VII do caput, competirá à ABCD publicar o CBA, que poderá ser referendado pelo CNE no prazo de cento e oitenta dias, contado da data de publicação desta Medida Provisória.
+§ 3º Enquanto não for exercida a competência referida no inciso VII do caput, competirá à ABCD publicar o CBA, que poderá ser referendado pelo CNE no prazo de cento e oitenta dias, contado da data de publicação da Medida Provisória nº 718, de 16 de março de 2016.

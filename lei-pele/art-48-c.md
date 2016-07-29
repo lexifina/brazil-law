@@ -1,1 +1,1 @@
-Art. 48-C. Às demais entidades componentes do Sistema Brasileiro do Desporto incumbe a adoção, a implementação e a aplicação de regras antidopagem, nos termos estabelecidos nesta Lei e nas demais normas regulamentares expedidas pelo CNE e pela ABCD.
+Art. 48-C. Às demais entidades componentes do Sistema Brasileiro do Desporto incumbem a adoção, a implementação e a aplicação de regras antidopagem, nos termos estabelecidos nesta Lei e nas demais normas regulamentares expedidas pelo CNE e pela ABCD.
