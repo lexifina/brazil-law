@@ -1,0 +1,2 @@
+Altera as Leis n os 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto, para dispor sobre o controle de dopagem, 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referen tes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paralímpicos de 2016, 10.973, de 2 de dezembro de 2004, e 8.010, de 29 de março de 1990; e dá outras providências.
+O VICE - PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
