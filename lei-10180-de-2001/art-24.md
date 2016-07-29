@@ -10,3 +10,4 @@ VIII - realizar auditorias nos sistemas contábil, financeiro, orçamentário, d
 IX - avaliar o desempenho da auditoria interna das entidades da administração indireta federal;
 X - elaborar a Prestação de Contas Anual do Presidente da República a ser encaminhada ao Congresso Nacional, nos termos do art. 84, inciso XXIV, da Constituição Federal;
 XI - criar condições para o exercício do controle social sobre os programas contemplados com recursos oriundos dos orçamentos da União.
+Parágrafo único. As competências previstas neste artigo, excetuando-se as previstas nos incisos III, IV e IX, bem como a que está estabelecida no § 1º do art. 6º da Lei nº 8.689, de 27 de julho de 1993, estendem-se, somente no âmbito do Sistema Único de Saúde, ao Denasus, sem prejuízo das atribuições desempenhadas pelo órgão central do Sistema de Controle Interno do Poder Executivo federal.
