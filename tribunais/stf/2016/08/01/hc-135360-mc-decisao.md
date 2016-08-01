@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão do Superior Tribunal Militar nos Embargos de Infringentes 219-64.2012.7.01.0101/DF, Rel. Min. José Coêlho Ferreira. Consta dos autos, em síntese, que (a) o paciente foi condenado à pena de 6 anos de reclusão, em regime inicial semiaberto, pela prática do crime de homicídio (art. 205, caput, do Código Penal Militar); (b) O Superior Tribunal Militar deu provimento ao apelo defensivo e desclassificou a conduta para o crime de homicídio culposo (art. 206, § 1º, do Código Penal Militar), condenando-o, por maioria, à pena de 3 anos e 4 meses de detenção, em regime inicial aberto; (c) buscando a prevalência do voto vencido, que fixou a pena em 2 anos de detenção, opôs embargos infringentes, rejeitados, em acórdão assim ementado.
+    “(...) 1. É permitida a fixação da pena-base acima do mínimo legal, dentro dos critérios estabelecidos pelo art. 69 do COM, levando-se em consideração a extensão do dano, a gravidade do fato, bem como a discricionariedade do julgador em face do caso concreto.
+    2. A causa de aumento de pena na proporção de 1/3 (um terço), devidamente fundamentada pela inobservância das regras técnicas de manuseio do armamento que ensejaram a ocorrência de óbito, é motivo justificado para a exasperação da pena no seu grau máximo, não havendo qualquer infringência ao dispositivo previsto no inciso IX do art. 93 da CF/88.
+    Neste habeas corpus, a Defensoria Pública da União alega, em suma, que a exasperação da pena-base, além de desproporcional, decorreu de fundamentação inidônea, pois a extensão do dano causado pelo óbito é inerente ao tipo penal em apreço. Requer, liminarmente, a suspensão dos efeitos da condenação até o julgamento definitivo desta ação. No mérito, busca a redução da pena-base, com a consequente concessão de sursis ao paciente.
+    2. Consideradas as especiais circunstâncias da causa, o exame da matéria será feito no momento oportuno, em caráter definitivo. Ademais, considerando a natureza das questões debatidas e os elementos já constantes dos autos, ficam dispensadas as informações.
+    3. Ante o exposto, indefiro o pedido de liminar. À Procuradoria-Geral da República.
+     Publique-se. Intime-se.
+     Brasília, 1º de agosto de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
