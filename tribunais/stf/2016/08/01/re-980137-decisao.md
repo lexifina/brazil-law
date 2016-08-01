@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+Eis a síntese da decisão recorrida:
+    Desta forma, tratando-se de aposentadoria por idade ou por tempo de contribuição concedida nos cinco anos seguintes à vigência da Lei 9.876/00, em que o cálculo do fator previdenciário resultou em índice positivo, deve o mesmo ser aplicado na sua integralidade, conforme dispõe o art. 29, I, da Lei 8.213/91, afastando-se a incidência da regra de transição (art. 5º da Lei 9.876/99), portanto, mais gravosa.
+    Nas razões do extraordinário, o recorrente aponta violados os artigos 1°, inciso IV, 2°, 5°, cabeça e incisos XXXV, LIV e LV, 97, 195, § 5° e 201, da Constituição Federal. Disse contrariado o equilíbrio financeiro e atuarial do Regime Geral da Previdência Social, eis que teria sido majorado benefício sem prévia fonte de custeio. Aponta a inobservância do princípio tempus regit actum, eis que a parcela deve ser calculada de acordo com a norma vigente quando da concessão. Afirma ter o Colegiado de origem declarado a inconstitucionalidade do artigo 5° da Lei n° 9.876/99, não tendo sido observada a cláusula de reserva de plenário.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    A par desse aspecto quanto à evocação do artigo 97 da Lei Fundamental, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça as vezes, tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    No mais, o acórdão impugnado mediante o extraordinário revela interpretação do quadro fático constante do processo e de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Pelas razões acima, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 1º de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
