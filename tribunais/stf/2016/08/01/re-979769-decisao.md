@@ -1,0 +1,13 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “EMBARGOS À EXECUÇÃO FISCAL. RFFSA. EXTENSÃO DA IMUNIDADE TRIBUTÁRIA PREVISTA NO § 2º DO ART. 150 DA CF. IMPOSSIBILIDADE.
+    Não sendo os serviços prestados pela RFFSA de prestação obrigatória e exclusiva da União, referida sociedade de economia mista não estava abrangida pela imunidade prevista no artigo 150, VI, 'a', e § 2º, da CF”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 21, X, XI e XII; 150, VI, a e §§ 2° e 3°; 173; 175 e 177, todos da Carta. Sustenta a imunidade recíproca quanto ao IPTU em decorrência da natureza dos serviços prestados pela rede ferroviária. Aduz que o paradigma da repercussão geral referido na decisão (RE 599.176) refere-se à questão da ausência de imunidade recíproca da União, por sucessão, em relação aos débitos tributários da RFFSA. O que se está a suscitar no presente recurso é a alegação posta nos autos acerca da imunidade da própria RFFSA no pagamento do tributo. Assim, o decidido no RE 599.176 não prejudica a alegação ora em evidência.
+    A pretensão recursal não merece prosperar, haja vista que nos embargos declaratórios restou claro que as características da RFFSA eram de sociedade de natureza econômica, razão pela qual concluiu o Tribunal de origem ser inaplicável a imunidade pleiteada.
+     A despeito de haver precedentes no sentido de que determinadas empresas públicas ou sociedades de economia mista que prestem serviços públicos sejam beneficiárias da imunidade tributária recíproca, esta não é a regra. Os julgados nesse sentido tratam de situações excepcionais, fundadas na análise das especificidades de cada caso, o que não permite concluir que todas as empresas públicas ou sociedades de economia mista que prestem serviços públicos, em regra, estejam sujeitas ao art. 150, VI, a , da Constituição. Prova disso são as questões ainda sob apreciação do Supremo Tribunal Federal em recursos extraordinários com repercussão geral reconhecida, quais sejam, os REs 580.264, 594.015 e 600.867.
+    No caso dos autos, para dissentir da natureza dos serviços prestados pela antiga rede ferroviária seria necessário o reexame do material probatório constante dos autos, bem como dos fatos, providência vedada nesta fase processual (Súmulas 279 e 280/STF). No mesmo sentido: RE 911.498, Rel. Min. Dias Toffoli; ARE 908.054, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
