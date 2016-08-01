@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. IMPOSTO DE RENDA. ART. 6º, XIV, DA LEI 7.713/88. MOLÉSTIA GRAVE. NÃO COMPROVAÇÃO. ISENÇÃO. IMPOSSIBILIDADE.
+    1. De acordo com art. 6º, XIV, da Lei nº 7.713/88 e com o art. 39, XXXIII, do Decreto nº 3.000/99, os proventos de aposentadoria ou reforma percebidos pelos portadores de moléstia grave encontram-se isentos do recolhimento do imposto de renda.
+    2. In casu, a apelante submeteu-se, em 12.01.1998, a tratamento cirúrgico para retirada de câncer intestinal (hemicolectomia esquerda), e alega que faz jus à isenção do imposto de renda sobre a pensão militar percebida a partir de março/2001, pelo fato de a medicina especializada prever um período probatório de 05 (cinco) anos no qual o paciente não pode ser considerado curado.
+    3. Hipótese em que os atestados médicos trazidos aos autos, datados de 21.05.1999 e 16.10.2000, e a perícia judicial realizada em 02.09.2008, demonstram que não foi constatado qualquer indício de volta da doença após a realização da referida cirurgia, esclarecendo, ao revés, que a paciente permaneceu assintomática e sob controle durante esse período.
+    4. A isenção do imposto de renda prevista no art. 6º, XIV, da Lei 7.713/88 pressupõe a existência da enfermidade ou a necessidade de tratamento contra a mesma, não sendo aceitável que um paciente clinicamente tratado, e que não apresentou qualquer indício da volta da doença após mais de 10 anos, possa ser enquadrado na hipótese isentiva em questão.
+    5. Apelação improvida”
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, XXXVI; 93, IX, da Carta. Sustenta que: (i) se enquadra na situação prevista no art. 39, § 5º, I, do Decreto nº 3000/1999; (ii) não há como se afirmar a cura da patologia sob pena de se cometer arbitrariedade. Defende que tem direito adquirido a isenção do imposto de renda.
+    A pretensão não merece acolhida. Isso porque a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema.
+    No caso, dissentir das conclusões adotadas demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, providência vedada nesta fase processual (Súmulas 279 e 280/STF). Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ISENÇÃO DE IMPOSTO DE RENDA. PORTADOR DE MOLÉSTIA GRAVE. DECLARAÇÃO DE INCONSTITUCIONALIDADE. INOCORRÊNCIA. NECESSIDADE DE REEXAME DE PROVAS E DA LEGISLAÇÃO CORRELATA. O acórdão recorrido consignou expressamente o atendimento aos requisitos necessários para a contribuinte usufruir do benefício fiscal concedido em favor de portadores de moléstias graves. Dessa forma, o acolhimento da pretensão demandaria o reexame das provas e da legislação infraconstitucional pertinente. Mostram-se aplicáveis ao caso as Súmulas 279/STF e 280/STF. Agravo regimental a que se nega provimento.” (ARE 785.110-AgR/RS, da minha relatoria)
+    Quanto à alegada violação ao art. 97 da Constituição, ressalta-se que a jurisprudência desta Corte é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário (ARE 723.052, Rel. Ministro Marco Aurélio).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
