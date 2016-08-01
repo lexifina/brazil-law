@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, com pedido de liminar, interposto por Ariston Souza Querino, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC nº 344.174/RN, Relatora a Ministra Maria Thereza de Assis Moura.
+    Alega o recorrente a ausência de fundamentação idônea no decreto prisional, apta a justificar a necessidade da medida extrema, bem como estariam ausentes os pressupostos do art. 312 do Código de Processo Penal.
+    Afirma, ainda, o constrangimento ilegal por excesso de prazo na conclusão da instrução processual, visto que se encontra preso desde 3/1/15 sem culpa formada.
+    No mais, aduz ser primário, de bons antecedentes, detentor de residência fixa e trabalho lícito.
+    Requer o provimento do recurso para que seja concedida a ordem de habeas corpus, revogando-se a sua prisão preventiva.
+    O Ministério Público Federal, em parecer de lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, opinou pelo não provimento do recurso.
+    É o relatório.
+    Decido.
+    Transcrevo a ementa do acórdão recorrido:
+    “HABEAS CORPUS. ROUBOS EM CONTINUIDADE. CUSTÓDIA CAUTELAR. AUSÊNCIA DE REQUISITOS LEGAIS. DECRETO CAUTELAR FUNDADO EM DADOS CONCRETOS. PROCEDIMENTO DO CRIME. GRAVIDADE ESPECÍFICA. JUÍZO PRÉVIO LASTREADO EM LÍDIMA PROBABILIDADE. EXCESSO DE PRAZO. DEMORA JUSTIFICADA. ATO ATRIBUÍDO À DEFESA. OMISSÃO NA PRÁTICA DE IMPORTANTE ATO PROCESSUAL. RETENÇÃO DOS AUTOS POR TEMPO INDEVIDO.
+    1. Cuidando o evento penal de modus operandi peculiar, relativo a roubos em continuidade dentro de ônibus de transporte público, considera-se absolutamente justificada a cautela em torno da gravidade específica como resguardo da ordem pública, já que o agente demonstrou extrema ousadia a configurar a sua periculosidade.
+    2. A demora para o término da instrução está justificada diante das circunstâncias do caso concreto, notadamente porque a defesa, embora intimada em tempo hábil deixou de apresentar a resposta à acusação, bem como, noutra ocasião, reteve os autos por tempo indevido.
+    3. Ordem denegada.” (fl. 210 – grifei).
+    O julgado proferido pela Sexta Turma do Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia que justifique a concessão da ordem. Pelo contrário, encontra-se suficientemente motivado, restando justificado o convencimento formado, além de estar em perfeita consonância com o entendimento deste Supremo Tribunal, segundo o qual, “o especial modo de execução do crime, auferido por intermédio de circunstâncias do caso concreto, pode constituir indicação suficiente da periculosidade do agente” (HC nº 123.024/SP, Primeira Turma, Relator para Acórdão o Ministro Edson Fachin, DJe de 6/5/16).
+    No mesmo sentido:
+    “Habeas corpus. 2. Furto, roubos majorados, desacato e ameaça. Prisão preventiva. Condenação superveniente. 3. Tese de ausência de fundamentos válidos à custódia cautelar. Inocorrência. 4. A jurisprudência desta Corte consolidou entendimento no sentido de ser idônea a prisão decretada com base em fatos concretos observados pelo juiz na instrução processual, notadamente a periculosidade, não só em razão da gravidade do crime, mas também pelo modus operandi da conduta delituosa. 4.1. Prisão justificada na necessidade de garantir a ordem pública. 5. Após a sentença condenatória, não houve alteração fática a ensejar a devolução do status libertatis. 6. Ausência de constrangimento ilegal. Ordem denegada” (HC nº 131.221/MG, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 2/3/16);
+    “HABEAS CORPUS. PROCESSO PENAL. INDEFERIMENTO DE LIMINAR PELO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 691/STF. ROUBO MAJORADO. ARTIGO 157, § 2º, INCISOS I E II, DO CÓDIGO PENAL. PRISÃO PREVENTIVA. PERICULOSIDADE. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. 1. Não se conhece de habeas corpus impetrado contra indeferimento de liminar por Relator em habeas corpus requerido a Tribunal Superior. Súmula 691. Óbice superável apenas em hipótese de teratologia. 2. Se as circunstâncias concretas da prática do crime indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria. Precedentes. 3. Diante da necessidade da constrição cautelar do paciente, carece de plausibilidade jurídica o pleito defensivo de aplicação das medidas cautelares diversas da prisão. 4. Habeas corpus extinto sem resolução do mérito” (HC nº 127.411/PB, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 10/6/16).
+    Quanto ao alegado excesso de prazo, registro que o entendimento da Corte está consolidado no sentido de que “é justificável eventual dilação no prazo para encerramento da instrução processual quando se trata de ação penal complexa, a defesa tenha contribuído e o excesso de prazo não decorra da inércia ou desídia do Poder Judiciário” (RHC nº 103.558/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1º/10/10).
+    Ao analisar a questão, o Superior Tribunal de Justiça consignou que
+    “a demora para o término da instrução está justificada diante das circunstâncias do caso concreto, notadamente porque a defesa, embora intimada em tempo hábil deixou de apresentar a resposta à acusação, bem como, noutra ocasião, reteve os autos por tempo indevido.”
+    Ante o exposto, nos termos do art. 192, caput, c/c o art. 312, caput, ambos do Regimento Interno, nego provimento ao recurso ordinário.
+    Publique-se.
+    Brasília, 1º de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
