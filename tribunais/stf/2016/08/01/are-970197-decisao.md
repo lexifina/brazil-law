@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado do Rio Grande do Sul, confirmando o Juízo, assentou necessária a produção de perícia técnica em precatório oferecido ação cautelar de caução, observada a legislação de regência. No recurso extraordinário cujo trânsito busca alcançar, a recorrente alega violados os artigos 5º, incisos XXXVI, e 100, §12, da Carta Política e 97, §16, dos Atos da Disposições Constitucionais Transitórias. Aduz não observada a coisa julgada consubstanciada no valor do precatório emitido, cuja existência, liquidez e certeza estão demonstradas. Sustenta a possibilidade da cessão de crédito representada pelo precatório.
+    2. O Tribunal de origem asseverou a admissibilidade do precatório em caução para garantir débito tributário em discussão, submetido à realização de perícia contábil para determinação do valor real, não nominal, observada a legislação de regência. Assim, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Nesse sentido cito precedente da Primeira Turma:
+    Agravo regimental no recurso extraordinário. Execução fiscal. Penhora. Precatório. Avaliação. Leilão. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Ambas as Turmas da Corte têm-se posicionado no sentido de que a controvérsia envolvendo a penhora e a avaliação de créditos referentes a precatórios judiciais, com o fim de garantir o Juízo, insere-se no campo infraconstitucional, posto que eventual incompatibilidade com a Constituição Federal, caso ocorresse, se daria de forma meramente reflexa ou indireta, o que inviabiliza o processamento do apelo extremo. 2. Agravo regimental não provido. (recurso extraordinário n° 736.729/DF, Primeira Turma, relatoria ministro Dias Toffoli, Diário da Justiça de 8 de agosto de 2013)
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 1º de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
