@@ -1,0 +1,29 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “MANDADO DE SEGURANÇA – IPI – NÃO – CUMULATIVIDADE – INSUMOS NÃO TRIBUTADOS E/OU SUJEITOS À ALÍQUOTA ZERO E OPERAÇÕES COM ENERGIA ELÉTRICA – CREDITAMENTO: IMPOSSIBILIDADE – DENEGAÇÃO DA SEGURANÇA
+    1. Nos termos do art. 153, § 3º, inciso II, da CF, representa a não-cumulatividade a autorização para que se compense o montante pago em operação anterior em relação à operação seguinte, dentro do âmbito de ciclo produtivo em que intervêm tributos indiretos como IPI e ICMS.
+    2. Disciplina a respeito também o CTN em seu artigo 49, de maneira até mais completa, explicitando deva a dedução ocorrer quanto ao que pago relativamente aos produtos entrados no estabelecimento do contribuinte.
+    3. Assentam-se as preocupações constitucional e legal em respeitar oneração já ocorrida, a fim de que mais gravosa ainda não se torne a tributação incidente sobre a operação subsequente, permitindo a dedução daquela cifra efetivamente desembolsada.
+    4. Centrando-se a operatividade da força tributante em comandos constitucionais e em disposições legais decorrentes, observa-se deseja a parte impetrante, com sua tese, creditar-se ou ao menos beneficiar-se, em operação futuramente onerosa, quanto a valores que não incidiram sobre o seu acervo, pois que relativos a situações que não ensejaram tributação, por força de isenção, não-tributação ou de regime de alíquota zero.
+    5. Em necessária vulgarização aparente a respeito, intenta a pretensão deduzida desafiar a sábia máxima, sim, de que ‘o nada, nada gera’. Precedentes.
+    6. Sem qualquer amparo, de fato, desde o Texto Constitucional, a postulação apresentada, pois que não está a sofrer a parte impetrante qualquer gravame hábil a impulsioná-la em pretensões dedutivas ou creditadoras constitucionalmente autorizáveis somente para hipótese inversa, oposta, de efetiva oneração prévia.
+    7. Pelos mesmos motivos expostos, também não há de se falar em direito ao crédito de IPI relativo à energia elétrica consumida no processo produtivo, consoante a v. jurisprudência infra. Precedentes.
+    8. Incabível o invocado/sustentado direito ao creditamento do IPI, prejudicados demais temas suscitados.
+    9. Improvimento à apelação contribuinte e provimento à apelação fazendária, bem assim ao reexame necessário Reforma da r. sentença. Improcedência ao pedido, ausente sujeição honorária sucumbencial, face à via eleita.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 146, III, b; 153, § 3º; 155, § 2º, II, a, todos da Carta. Sustenta que o não creditamento do valor do IPI relativo aos produtos consumidos no processo industrial não tributados, ou tributados à alíquota zero geram, quando da saída da mercadoria, tributação do IPI realizada em valor maior do que o devido, visto que incidente não apenas sobre o valor acrescido, mas sobre o valor acumulado, tornando inócua a isenção concedida. Aduz que a vedação de creditamento se aplica somente ao ICMS.
+    A pretensão recursal não merece prosperar. O atual entendimento do Supremo Tribunal Federal é no sentido de que a técnica da não cumulatividade é concretizada pela compensação do montante devido em uma operação com o valor do tributo cobrado em operações anteriores.
+    Assim, nas hipóteses de aquisição de insumos desonerados (isenção, alíquota zero ou não tributação), não há como vislumbrar eventual apropriação de crédito derivado de imposto não pago na operação anterior. Isso porque, para que seja aplicado o princípio da não cumulatividade, é condição sine qua non que haja a incidência anterior do imposto. Esse tem sido o entendimento adotado por ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IPI. CREDITAMENTO. PRINCÍPIO DA NÃO CUMULATIVIDADE. INEXISTÊNCIA DE AFRONTA. AUSÊNCIA DO DIREITO. PRECEDENTES DA CORTE.
+    1. A regra constitucional da não cumulatividade é direcionada ao crédito do valor cobrado na operação anterior.
+    2. Impossibilidade de creditamento em relação a insumo adquirido sob qualquer regime de desoneração, inexistindo dado específico a conduzir ao tratamento diferenciado.
+    3. Agravo regimental não provido.” (AI 686.798-AgR, julgado sob a relatoria do Ministro Dias Toffoli)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IPI. CREDITAMENTO. AQUISIÇÃO DE INSUMOS FAVORECIDOS PELA ALÍQUOTA-ZERO, NÃO-TRIBUTAÇÃO E ISENÇÃO. IMPOSSIBILIDADE.
+    1. A jurisprudência do Supremo Tribunal Federal é no sentido de que não há direito à utilização de créditos do IPI na aquisição de insumos não-tributados, isentos ou sujeitos à alíquota zero. Precedentes.
+    2. Agravo regimental desprovido.” (RE 508.708-AgR, julgado sob a relatoria do Ministro Ayres Britto)
+    O Supremo Tribunal Federal, no julgamento do RE 398.365/RG, julgado sob a relatoria do Ministro Gilmar Mendes, sob a sistemática da repercussão geral, confirmou a jurisprudência pacífica no sentido da impossibilidade de aproveitamento dos créditos de IPI decorrentes de aquisição de insumos não tributados, isentos, ou sujeitos à alíquota zero (Tema 844). Confira-se:
+    “Recurso extraordinário. Repercussão geral. 2. Tributário. Aquisição de insumos isentos, não tributados ou sujeitos à alíquota zero. 3. Creditamento de IPI. Impossibilidade. 4. Os princípios da não cumulatividade e da seletividade, previstos no art. 153, § 3º, I e II, da Constituição Federal, não asseguram direito de crédito presumido de IPI para o contribuinte adquirente de insumos não tributados ou sujeitos à alíquota zero. Precedentes. 5. Recurso não provido. Reafirmação de jurisprudência”.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
