@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. NULIDADE. INTIMAÇÃO E PROCEDIMENTO ADMINISTRATIVO. TRIBUNAL ADMINISTRATIVO DE RECURSOS TRIBUTÁRIOS.
+    1. Trata-se de mandado de segurança ajuizado ao argumento de que houve violação aos direitos do impetrante em obter a devida prestação jurisdicional em face da supressão de instância e nulidade de intimação quando da análise de pleito administrativo para concessão de imunidade tributária a imóvel de propriedade da impetrante.
+    2. A análise dos julgados na esfera administrativa permite a conclusão de que não houve o alegado suprimento de instância, bem como que o julgamento ocorreu em respeito as normas constantes do Regimento Interno do Tribunal Administrativo de Recursos Tributários – TART que analisou a questão da imunidade tributária proposta em recurso e não a questão da isenção de forma isolada.
+    3. No que concerne a intimação, as disposições regimentais são expressas em possibilitar o envio da notificação pela via postal, sendo que os documentos dos autos demonstram que houve ciência da decisão do Pleno tanto que as partes apresentaram recurso, porém, de forma intempestiva. O Regimento Interno do TART privilegia a entrega dos recursos pelo contribuinte na forma pessoal, em secretaria.. Inteligência do art. 32, situação inocorrente nos autos, logo, a data de envio não pode ser considerada para auferir tempestividade ao pleito, devendo o recurso estar no órgão administrativo no último dia do prazo.
+    4.Sentença mantida.
+    POR MAIORIA, DESPROVERAM A APELAÇÃO, VENCIDA A REVISORA QUE A PROVIA”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, LIV, LV, e 93, IX, da Constituição. Afirma, em síntese, que houve direcionamento errôneo da intimação relacionada ao julgamento proferido pelo TART e, ainda, que o documento não possuía informações mínimas acerca da decisão e nem indicava o prazo para manifestação no feito. Aduz também que a Corte Plenária do TART julgou matéria não analisada pela 2ª Câmara de Direto do Tribunal, qual seja a isenção da recorrente, ficando caracterizada supressão de instância.
+    O recurso extraordinário não pode ser admitido, tendo em vista que dissentir das conclusões sobre a regularidade do documento de intimação e o endereço no qual foi encaminhado, ou mesmo sobre a relação da recorrente com o guarda que recebeu a intimação demandaria o reexame do conjunto fático e probatório, providência vedada nos termos da Súmula 279/STF, bem como o exame de legislação infraconstitucional.
+    O mesmo raciocínio aplica-se a alegação de não recebimento do pedido administrativo de supressão de omissão e contradição. O Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia referente à violação aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Após detida análise dos autos, conclui-se que a decisão denegatória de seguimento do recurso extraordinário está correta e alinhada aos precedentes firmados por esta Corte.
+    A decisão agravada enfrentou todos os argumentos deduzidos no recurso extraordinário capazes de, em tese, reformar o julgado do Tribunal de origem.
+    Dessa forma, a alegada ofensa constitucional demonstra apenas inconformismo e resistência da parte recorrente em pôr termo ao processo em detrimento da eficiente prestação jurisdicional.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
