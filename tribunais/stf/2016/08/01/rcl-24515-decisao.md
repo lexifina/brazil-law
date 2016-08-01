@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido de liminar, contra decisão proferida pelo Juízo da Comarca de Nova Friburgo/RJ (autos 0010727-48.2013.8.19.0037), que teria desrespeitado o enunciado da Súmula Vinculante nº 11.
+    Sustenta o reclamante, em síntese, que é inidôneo o fundamento invocado para justificar o uso de algemas durante o seu julgamento, “tendo em vista que a Sessão Plenária foi designada há um mês, e, assim sendo, todos sabiam que os quatro réus estavam presos e que seria necessário o reforço policial que o magistrado julgasse necessário”. Requer, assim, seja anulada a Sessão do Tribunal do Júri.
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que só a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF/88), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, CF/88).
+    É possível verificar, dos precedentes e debates que antecederam a edição da Súmula Vinculante 11, que a sua finalidade é coibir o uso indevido e indiscriminado de algemas, impedir abusos de autoridade, bem como evitar situações que possam causar prejuízos à defesa do réu. Assim, consolidou-se a excepcionalidade do emprego de algemas, sendo lícito o seu uso em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, desde que justificado.
+    O caso, contudo, não revela ofensa à autoridade da referida súmula vinculante. É que a autoridade reclamada, ao determinar a utilização de algemas durante o julgamento do reclamante, em razão de fundado receio de risco à integridade física dos presentes, o fez por meio de decisão fundamentada e consignada na ata de julgamento (doc. 8), nos termos exigidos pela Súmula Vinculante 11.
+    Ademais, o acerto ou não da decisão impugnada deve ser controlado pelas vias ordinárias, não se mostrando admissível, nos termos da jurisprudência da Corte, a utilização de reclamação para investigar as razões fáticas que envolveram o caso (cf. Rcl 31, Rel. Min. Djaci Falcão, Pleno, DJ de 13/09/1974; Rcl 603, Rel. Min. Carlos Velloso, Pleno, DJ de 12/02/99; e Rcl 724-AgR, Rel. Min. Octávio Gallotti, Pleno, DJ de 22/05/98).
+    3. Ante o exposto, nego seguimento à presente reclamação.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
