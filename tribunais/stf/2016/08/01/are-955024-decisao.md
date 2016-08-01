@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em demanda objetivando a conversão dos vencimentos de servidores estaduais em URV, com observância dos critérios estabelecidos pela Lei 8.880/1994, bem como o pagamento dos valores atrasados.
+    O Tribunal de Justiça do Estado de São Paulo manteve a sentença que julgara procedentes os pedidos, consignando que (a) preliminarmente, não há prescrição do fundo de direito, ao contrário do alegado; (b) a questão foi decidida em conformidade com o entendimento desta Corte, o qual dispõe que a Lei Federal 8.880/94 aplica-se compulsoriamente a todos os entes públicos da Federação, em cumprimento ao programa de estabilização econômica que determinou a conversão de vencimentos para a unidade real de valor - URV; e (c) deve ser conferida a melhor interpretação ao art. 22 da Lei 8.880/94, qual seja, o padrão de conversão há de ser aferido na data do pagamento; e (d) deverá a parte recorrente implementar as diferenças, assim como pagar as apuradas nos cinco anos anteriores à propositura da ação, corrigidas monetariamente e acrescidas de juros de mora na forma do art. 1º-F da Lei Federal 9.494/97, em sua nova redação conferida pela Lei 11.960/09.
+    No recurso extraordinário, a parte recorrente aponta, com base no art. 102, III, a, da Constituição Federal, violação aos arts. 5º, caput, 25, 37, X e XIII, 39, § 1º, e 169, § 1º, I e II, da CF/88.
+    2. O Plenário do Supremo Tribunal Federal, no julgamento do RE 561.836, Rel. Min. LUIZ FUX, DJe de 10/2/2014, submetido ao regime do art. 543-B do CPC/1973, Tema 5, assentou o entendimento de que (a) o art. 28 da Lei 8.880/94 tem caráter nacional, e não federal, sendo aplicável a todos os servidores públicos brasileiros; (b) a Lei 8.880/94 não visou ao aumento na remuneração dos servidores públicos, mas sim à estipulação de método para conversão da moeda; e (c) inexiste ofensa ao art. 169, § 1º, I e II, da CF/88, já que a incorporação do reajuste de 11,98% busca evitar uma perda remuneratória, e não aumentar vencimentos.
+    O acórdão recorrido está em consonância com essas orientações, razão pela qual não merece reparos.
+    3. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
