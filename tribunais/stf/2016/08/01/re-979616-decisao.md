@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo assentou, em processo objetivo, a inconstitucionalidade da Lei Complementar nº 2.211/2007, do Município de Ribeirão Preto. Sustentou o descompasso do diploma questionado com o artigo 180, inciso II, da Constituição estadual, que impõe a participação popular na elaboração da norma em jogo. Entendeu que o ente local excedeu a competência suplementar, dispondo de modo contrário à legislação federal vigente.
+    Nas razões do extraordinário, o recorrente alega violação aos artigos 29, inciso XII, e 30, incisos I e II, da Carta Federal. Aduz a competência do Município para legislar, de forma suplementar, sobre a proteção do patrimônio cultural. Sublinha que o ato atacado não ofendeu dispositivo de lei federal ou estadual. Ressalta não incidir no caso o artigo 180, inciso II, da Constituição do Estado de São Paulo, porquanto este preceito concerne apenas ao desenvolvimento urbano, expressão que não alcança o instituto do tombamento.
+    2. Atentem para o decidido na origem. O Tribunal local afirmou a inconstitucionalidade da Lei municipal com alicerce em dois fundamentos independentes: a ofensa ao devido processo legislativo e a afronta à regra de competência da Federação.
+    Embora a temática afeta aos limites do poder de legislar de ente federal revele discussão constitucional, o que alegado no tocante à observância do requisito da participação popular abrange exclusivamente dispositivos da Carta estadual.
+    O Tribunal de origem julgou a ação direta de inconstitucionalidade a partir de interpretação conferida a normas locais. Procedeu à análise do artigo 180, inciso II, da Constituição do Estado de São Paulo, o qual não constitui preceito de reprodução obrigatória. Verifiquem as seguintes razões:
+    No caso em comento, a lei impugnada ao dispor sobre matéria de cunho urbanístico, com normas sobre uso e ocupação do solo e limitações administrativas, por força de comando expresso na Constituição Estadual – artigo 180, inciso II, merecia estar cingida de ampla e efetiva participação popular com a exposição e contraposição de ideias, interesses, cujo desfecho fosse aquele perpetuado pela vontade do povo, prestigiando-se o adágio constitucional que determina que “todo poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição”.
+    Feriu-se, portanto, o princípio participativo, que, nas letras do mestre José Afonso da Silva “caracteriza-se pela participação direta e pessoal da cidadania na formação dos atos de governo”.
+    […]
+    Outrossim, a correspondência exibida pela Prefeita (fls. 211/212) não responde ao comando constitucional, mormente por revelar, tão somente, a ocorrência de duas reuniões sem reflexões peculiar sobre o projeto de lei que originou a norma impugnada e com a participação de apenas alguns setores, a propósito, em sua maioria ligados à Prefeitura.
+    A controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência – verbete nº 280 da Súmula: “Por ofensa a direito local não cabe recurso extraordinário” –, o acesso ao Supremo. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça.
+    3. Ante o quadro, nego seguimento ao recurso.
+    4. Publiquem.
+Brasília, 1º de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
