@@ -1,0 +1,26 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal Superior Eleitoral, assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. TRANCAMENTO DE INQUÉRITO POLICIAL. MEDIDA EXCEPCIONAL. MANTÉM-SE A DECISÃO AGRAVADA SE NÃO INFIRMADOS SEUS FUNDAMENTOS. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+    1. O trancamento de inquérito policial por meio de habeas corpus somente é possível quando se evidenciar, de pronto, imputação de fato atípico, inexistência de indício mínimo de autoria e materialidade do delito, ou ainda, extinção da punibilidade, o que não se verifica na espécie. Precedentes.
+    2. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada a simples pretensão de reforma. (Súmula n° 182 do STJ).
+    Agravo regimental desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente aponta violação ao art. 5º, II, IV, LIV, LV, da Constituição. Sustenta que: (i) “não resta dúvidas de que, quanto à vedação do anonimato e a proibição de que se instaure investigação não-preliminar formal contra alguém apenas com base em denúncia apócrifa”; (ii) não houve “uma investigação com uma natureza inquisitória”; (iii) “houve, sim, "a extrapolação dos 30 (trinta) dias para o andamento e 90 (noventa) dais para a conclusão, ante o disposto nos arts. 3°, § 5° e 12 da Resolução n° 13 do CNMP" - fis. 207, 4° parágrafo)”; (iv) a ocorrência de ofensa ao princípio do promotor natural.
+    O recurso é inadmissível, tendo em vista que esta Corte afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. Nessa linha, veja-se o AI 839.837-AgR, Rel. Min. Ricardo Lewandowski.
+    Por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, seria imprescindível uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário. Nessa linha, vejam-se o ARE 726.812, Rel. Min. Gilmar Mendes; e o RE 800.991, Rel.ª Min.ª Cármen Lúcia, assim ementado:
+    “RECURSO EXTRAORDINÁRIO. PENAL. OPERAÇÃO SUÍÇA. INTERCEPTAÇÕES TELEFÔNICAS DECORRENTES DE DENÚNCIA ANÔNIMA. INVESTIGAÇÃO PRELIMINAR. INVIABILIDADE DO PROCESSAMENTO VÁLIDO DO RE. NECESSIDADE DE ANÁLISE DAS PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.”
+    Quanto à necessidade de reavaliação dos fatos subjacentes, veja-se a seguinte passagem do voto condutor do acórdão recorrido:
+    “[...]
+    Quanto à ilicitude do inquérito em decorrência de ter iniciado por denúncia anônima, tenho que as mínimas diligências realizadas pelo Ministério Público foram suficientes para justificar o início do inquérito.
+    Trata-se de "denúncia anônima" que aportou no Ministério Público, narrando suposto envolvimento do recorrente em ato de "caixa dois" de campanha eleitoral, bem como desvio do dinheiro com a posterior aquisição de imóvel ali identificado, onde também constaram valores e nomes de pessoas que a ele prestaram serviços após a aquisição.
+    Diante da notícia, o Ministério Público inicialmente ocupou-se de diligenciar, por meio de ofícios, para verificar a veracidade das informações, buscando provas da referida aquisição imobiliária.
+    Obtendo respostas no sentido da real existência do negócio, requisitou a abertura de inquérito.
+    Em que pese a alegação do recorrente, no sentido de que as diligências iniciais não teriam sido suficientes a justificar a abertura do inquérito porque nada mais provaram que a ocorrência de negócio lícito - consistente em compra de imóvel -, para fins de instauração de inquérito, apenas, a diligência se mostrou suficiente.
+    Isto porque, conforme já reconhecido pelo e. Supremo Tribunal Federal, a diligência inicial basta-se quando busca a comprovação da veracidade do relato.
+    [...]”
+    O Supremo Tribunal Federal já decidiu tratar-se de matéria infraconstitucional a questão relativa à afronta ao princípio do promotor natural. Nessa linha, vejam-se o AI 839.398, Rel. Min. Joaquim Barbosa; o AI 735.009, Rel. Min. Cezar Peluso; o AI 681.668- AgR, Rel.ª Min.ª Ellen Gracie; o AI 845.223 AgR-ED, Rel. Min. Luiz Fux; e o RE 255.639, julgado sob a relatoria do Ministro Ilmar Galvão.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
