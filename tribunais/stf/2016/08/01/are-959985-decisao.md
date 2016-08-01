@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário aos argumentos de que (I) “(...) este recurso não é o meio processual adequado para impugnar o acórdão recorrido quanto à suposta contrariedade aos efeitos vinculantes do RE 561.836/RN e ADI 1.797/PE.” (fl. 236, verso); (II) o recorrente não indicou o dispositivo constitucional tido por violado, o que atrai o óbice da Súmula 284/STF; (III) a matéria trazida no apelo extraordinário não foi devidamente prequestionada, o que impede sua análise, nos termos das Súmulas 282 e 356 do STF; e (IV) “(...) em relação ao suposto julgamento que considera válida lei local em face de lei federal, verifica-se que o recurso não merece seguimento, já que o Recorrente limitou-se a identificar o permissivo constitucional, não apontando o dispositivo da lei federal confrontada e, muito menos, demonstrou que a Corte de origem “ofendeu o sistema de repartição de competência legislativa (fl. 237, verso).
+    No agravo, a parte agravante sustenta, em síntese, que (a) o Tribunal a quo está vinculado às decisões do Supremo Tribunal Federal em ações de controle concentrado de constitucionalidade, no caso, àquela proferida no acórdão da ADI 1.797; (b) os temas abordados nos autos foram devidamente prequestionados; e (c) a controvérsia da presente demanda é similar àquela da repercussão geral reconhecida no RE 561.839/RN.
+    2. Como se vê, as razões do agravo não impugnaram especificamente todos os fundamentos suficientes para manter a decisão agravada, o que acarreta o não conhecimento do presente recurso, nos termos do art. 544, § 4º, I, do CPC/1973.
+    3. Diante do exposto, não conheço do agravo.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
