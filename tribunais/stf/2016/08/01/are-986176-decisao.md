@@ -1,0 +1,12 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Maria Angelica Lima contra acórdão que, confirmado em sede de embargos de declaração pela 1ª Turma Recursal do Estado da Bahia, está assim ementado:
+    “RECURSO INOMINADO. EXCEÇÃO DE PRÉ- -EXECUTIVIDADE. DESCUMPRIMENTO DE OBRIGAÇÃO IMPOSTA EM MINUTA DE ACORDO. MULTA POR DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER (‘ASTREINTE’). SENTENÇA QUE REDUZIU O VALOR ALCANÇADO. RECURSO VISANDO AMPLIAR O VALOR DA CONDENAÇÃO. DECISÃO QUE RESPEITOU OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO INTEGRAL DO JULGADO. NÃO PROVIMENTO DO RECURSO.”
+    A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 660.733-AgR/RS, Rel. Min. CÁRMEN LÚCIA – AI 731.718-AgR/GO, Rel. Min. RICARDO LEWANDOWSKI – ARE 760.784/SP, Rel. Min. GILMAR MENDES – ARE 794.810/BA, Rel. Min. ROSA WEBER, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 01 de agosto de 2016.
+Ministro CELSO DE MELLO
+Relator
