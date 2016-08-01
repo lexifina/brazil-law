@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “REVISÃO CRIMINAL. HOMICÍDIO QUALIFICADO. NULIDADE DA SENTENÇA DE PRONÚNCIA. INOCORRÊNCIA. AUSÊNCIA DE PROVA NOVA. PEDIDO DE MERO REEXAME DE TESES. MATÉRIA EXAUSTIVAMENTE DISCUTIDA E APRECIADA. PLEITO QUE NÃO SE CONFUNDE COM SEGUNDA APELAÇÃO. REVISÃO INDEFERIDA. Conforme preconiza o art. 621 do Código de Processo Penal, a revisão criminal somente será admitida em se verificando ser a sentença condenatória contrária ao texto expresso de lei ou à evidência dos autos, se se fundar em depoimentos, exames e documentos falsos ou se descobrir prova nova da inocência ou circunstância que determine ou autorize a diminuição da pena. Pedido indeferido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LV e 93, IX, da Constituição. Afirma que se “tivesse a defesa detido a oportunidade para elaborar tese defensiva, quanto à qualificadora do motivo fútil, não teriam restado maculados os Princípios Constitucionais da Ampla Defesa e do Contraditório”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, seriam necessárias a análise da legislação infraconstitucional pertinente e a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário.
+    Esta Corte tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
