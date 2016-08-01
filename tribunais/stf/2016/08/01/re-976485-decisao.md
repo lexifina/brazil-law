@@ -1,0 +1,13 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “IPTU. RFFSA. SOCIEDADE DE ECONOMIA MISTA. SUCESSÃO PELA UNIÃO. IMUNIDADE RECÍPROCA. INAPLICABILIDADE. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+    É exigível o IPTU sobre a propriedade imobiliária de sociedade de economia mista, como a RFFSA, cabendo à União, como sucessora das obrigações correspondentes, responder pelos tributos anteriores à extinção daquela, por não se lhes aplicar a imunidade tributária recíproca, conforme assentado pelo Pleno do Supremo Tribunal Federal em processo submetido ao procedimento de repercussão geral (RE nº 599.176/PR, Rel. Ministro Joaquim Barbosa, Dje 30-10-2014).”.
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 156, I, 150, VI, a, todos da Carta. A parte recorrente sustenta que a rede ferroviária não se enquadra naquelas previstas no art. 150, VI, da CF, portanto, sem direito a imunidade, e que, a despeito da imunidade da União, esta imunidade não pode atingir situações pretéritas, onde o sujeito passivo era outro que não tinha imunidade.
+    A pretensão recursal não merece prosperar. A despeito de haver precedentes no sentido de que determinadas empresas públicas ou sociedades de economia mista que prestem serviços públicos sejam beneficiárias da imunidade tributária recíproca, esta não é a regra. Os julgados nesse sentido tratam de situações excepcionais, fundadas na análise das especificidades de cada caso, o que não permite concluir que todas as empresas públicas ou sociedades de economia mista que prestem serviços públicos, em regra, estejam sujeitas ao art. 150, VI, a, da Constituição. Prova disso são as questões ainda sob apreciação do Supremo Tribunal Federal em recursos extraordinários com repercussão geral reconhecida, quais sejam, os REs 580.264, 594.015 e 600.867. Destarte, cada situação particular demanda exame individualizado.
+    No caso dos autos, para estender a norma que prevê a imunidade tributária recíproca, há que se analisar se a antiga RFFSA era, ou não, responsável pela prestação de serviço público de natureza exclusiva, essencial ou em regime de monopólio, o que demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, bem como o reexame dos fatos e provas, providências vedadas nesta fase processual (Súmulas 279 e 280/STF).
+    No mesmo sentido: RE 911.498, Rel. Min. Dias Toffoli; ARE 908.054, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
