@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA – INVIABILIDADE.
+    1. Atentem para o decidido na origem. A 1ª Turma Cível e Criminal do Colégio Recursal de Ourinhos, do Tribunal de Justiça do Estado de São Paulo, consignou, em síntese:
+    Sentença que julgou procedente o pedido de indenização por danos morais formulado pela autora. Recurso buscando a inversão do julgado. Dado provimento ao recurso para julgar improcedente a pedido.
+    No recurso extraordinário cujo trânsito busca alcançar, o recorrente afirma a violação ao artigo 5º, inciso X, da Constituição Federal. Sustenta que a notícia veiculada pelo recorrido acerca da morte de seu filho era falsa, ferindo o direito de personalidade, a ensejar o pagamento de indenização por danos morais.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, consideradas as premissas constantes do ato impugnado. A jurisprudência sedimentada mostra-se pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    A Turna asseverou:
+    Por conseguinte, da análise dos fatos, é certo que a matéria jornalística não se dirige diretamente contra a honra e imagem do filho da autora, mas, sim, limita-se a investigação dos fatos ocorridos. As informações de que o jovem realmente apresentava escoriações em seus antebraços, e de que a polícia não afastava a possibilidade de suicídio estão demonstradas nos autos, na própria investigação que considerou a morte suspeita. Outrossim, a alegação de que a autora não deu entrevista ao jornalista e a nenhum profissional da empresa requerida não encontra-se comprovada, uma vez que a morte de um filho representa um momento de dor e abalo tão grande a ponto de não recordar-se do que poderia ou não ter dito, com quem poderia ou não ter falado. Conforme depoimento das testemunhas, o fato atraiu a atenção de inúmeras pessoas, o que corrobora com a tese de que a autora poderia não recordar-se de todos os que estavam no local e de todos que buscavam informações sobre o ocorrido. Contesta-se, ainda, a informação de que a autora teria conversado com um pescador que presenciou o afogamento da vítima, já que a polícia não localizou o referido pescador. Também destaca-se que a notícia teve a mera intenção de informar, sem o propósito de ofender a seara subjetiva e pessoal do falecido, de sua mãe ou de sua família.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, visando-se, em síntese, a reapreciação dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Ante o quadro, desprovejo o extraordinário.
+    4. Publiquem.
+Brasília, 1º de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
