@@ -1,0 +1,26 @@
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Marcos Andrade Aguiar contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 344.648/RJ.
+    O Recorrente foi denunciado pela prática, em tese, dos delitos de associação criminosa, contra a economia popular, de extorsão e de corrupção ativa (arts. 288, parágrafo único, do Código Penal, 4º, “a”, da Lei 1.521/51, 158 e 333, parágrafo único, do Código Penal). O magistrado de primeiro grau recebeu a denúncia e, ato contínuo, decretou a prisão preventiva do paciente.
+    Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado do Rio de Janeiro, que, via decisão monocrática da lavra do Desembargador Nidson Araújo da Cruz, extinguiu o feito sem apreciação do mérito.
+    Submetida a questão ao Superior Tribunal de Justiça nos autos do HC 344.648/RJ, o Ministro Jorge Mussi indeferiu liminarmente o writ. Após, a Quinta Turma daquela Corte negou provimento ao agravo regimental defensivo.
+    No presente recurso ordinário, argumenta o Impetrante, em síntese, inépcia da denúncia. Defende, ainda, i) atipicidade da conduta de associação criminosa; ii) ausência de indícios de materialidade e de autoria em relação ao paciente; iii) a inexistência dos pressupostos autorizadores da prisão preventiva. Assevera que as “imputações objeto da denúncia foram obtidas de forma absolutamente ilícita, quando deferidas em medida cautelar calcadas na Lei nº 12.850/13, sem que o recorrente esteja nela denunciado”. Alega falta de higidez da peça acusatória em relação aos crimes de extorsão e de corrupção ativa. Requer, em medida liminar e no mérito, o recolhimento do mandado de prisão expedido em desfavor do paciente e o trancamento da ação penal.
+    É o relatório.
+    Decido.
+    Extraio do voto condutor do acórdão recorrido:
+    “(...).
+    No mérito, não obstante as razões declinadas pelo agravante, a decisão monocrática deve ser mantida.
+    Conforme consignado no provimento combatido, no presente habeas corpus o impetrante se insurge contra decisão singular de Desembargador do Tribunal de Justiça …, contra a qual seria cabível agravo regimental, que não foi interposto, o que impossibilita o conhecimento do writ, consoante tem decidido esta Corte Superior de Justiça:
+    (…).
+    Na mesma esteira colhem-se os seguintes julgados do Supremo Tribunal Federal:
+    (…).
+    Ademais, é imperioso frisar que o mandamus originário teve a inicial indeferida pelo Desembargador Relator porque o impetrante deixou de instruí-lo com cópia integral da investigação penal, bem como da denúncia, peças essenciais para o deslinde da controvérsia, o que reforça a impossibilidade de análise do remédio constitucional diretamente por este Sodalício, sob pena de se configurar a indevida prestação jurisdicional em supressão de instância.
+    Ante o exposto, nega-se provimento ao agravo regimental.”
+    Ao exame dos autos, verifico que o acórdão exarado pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento em relação ao não conhecimento da impetração, porquanto não esgotada a jurisdição da Corte Estadual. O ato impugnado no âmbito do Superior Tribunal de Justiça - decisão monocrática - não o é o resultado de julgamento colegiado.
+    Nesse contexto, reputo escorreito o ato ora impugnado, pois a via processual adequada para a reforma da decisão monocrática é o agravo regimental, por meio do qual a questão é submetida ao julgamento do órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Além disso, conforme destacado pelo Superior Tribunal de Justiça e pelo Tribunal de Justiça do Estado do Rio de Janeiro, a instrução deficiente dos autos impediu o cotejo entre as alegações do Impetrante e os fundamentos do ato hostilizado. A Corte Estadual registra que “com a inicial não veio qualquer fragmento da complexa investigação e este processo não comporta dilação probatória” e, nesse prisma, esclarece que “para se saber da existência ou não de justa causa, impunha-se conhecer a integralidade da investigação penal”.
+    Com efeito, a jurisprudência deste Supremo Tribunal Federal orienta no sentido do não conhecimento de habeas corpus quando não devidamente instruído o feito (HC 103.240-AgR/RS, Rel. Min. Ayres Britto, 2ª Turma, DJe 11.4.2011; HC 116152/PE, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 01.5.2013; e HC 104.913/SP, Rel. Min. Marco Aurélio, Relatora para acórdão Ministra Rosa Weber, 1ª Turma, DJe 13.6.2013).
+    Por derradeiro, à míngua de pronunciamento judicial pelas instâncias anteriores quanto às teses defensivas apresentadas, inviável a análise deste recurso ordinário em habeas corpus pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 108.778/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 09.8.2011; HC 104.167/SP, rel. Min. Dias Toffoli, 1ª Turma, DJe 3.5.2011; HC 105.501, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.4.2011; e HC 90.902/RS, Rel. Min. Marco Aurélio, 1ª Turma, DJe 22.6.2007.
+    Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de agosto de 2016.
+Ministra Rosa Weber
+Relatora
