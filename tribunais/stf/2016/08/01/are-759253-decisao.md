@@ -1,0 +1,14 @@
+Despacho: 1. Trata-se de agravo de decisão que inadmitiu recurso extraordinário tendo em vista precedente do Supremo Tribunal Federal assentando a inexistência de repercussão geral da matéria tratada no apelo.
+    2. Merece pequeno reparo o procedimento adotado na instância de origem. Vejamos:
+    O Juízo inadmitiu o apelo extremo tendo em conta o Tema 232 da repercussão geral (fl. 172). Apresentado o agravo, o dr. Josias Martins de Almeida Junior, Juiz Presidente da 2ª Turma Cível e Criminal do Colégio Recursal – 23ª Circunscrição Judiciária de Botucatu/SP, expressou pleno domínio acerca da jurisprudência do Supremo no campo da repercussão geral. S. Excia. fez alusão ao Tema 800 e revelou total compreensão do importante mecanismo de contenção representado pelo julgado do Plenário.
+    Não obstante essa postura irreprochável, S. Excia. remeteu o agravo a esta Corte, tendo em conta a decisão do Min. Luiz Fux na Rcl 22.724/SP. Em seu entender, referido precedente monocrático consubstancia reapreciação da posição do Supremo sobre a repercussão geral e o Tema 800.
+    3. A decisão do Min. Luiz Fux, contudo, não compromete as balizas tão bem expostas pelo magistrado a quo. Em primeiro lugar, o Min. Fux não mencionou se tratar de indeferimento do apelo extremo por conta de precedente de repercussão geral. S. Excia. compreendeu a situação como inadmissão por óbices genéricos ao conhecimento do extraordinário (a saber, exame de legislação ordinária e ausência de demonstração da repercussão geral). Em nenhum momento o Min. Fux definiu o quadro como o de aplicação de precedente de repercussão geral na origem.
+     De outro lado, e mais importante, o caso revelava o perfil de demanda processada segundo o rito dos Juizados da Fazenda Pública. Efetivamente, cuidava-se de ação em que servidor público postulava determinada vantagem remuneratória em face do Estado de São Paulo.
+    Esse contexto, de fato, não se insere no Tema 800 da repercussão geral, aplicável a controvérsias de direito civil e do consumidor processadas perante a forma mais básica de Juizado, a prevista na Lei 9.099/95.
+    Essas nuances da decisão tomada pelo Min. Luiz Fux na Rcl 22.724/SP indicam que não há qualquer mudança de posição da Corte sobre o entendimento acerca do Tema 800, bem como da irrecorribilidade ao Supremo das decisões da origem que aplicam a repercussão geral.
+    4. Ante o exposto, devolvam-se os autos ao Presidente da 2ª Turma Cível e Criminal do Colégio Recursal – 23ª Circunscrição Judiciária de Botucatu/SP para que proceda conforme exposto na primeira parte da decisão da fl. 180, desconsiderando a decisão na Rcl 22.724/SP quanto às demandas submetidas exclusivamente ao rito da Lei 9.099/95, nos termos do Tema 800 da repercussão geral.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
