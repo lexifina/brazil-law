@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, III, da Constituição Federal, em que a parte recorrente sustenta a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. No tocante às alegações de afronta aos artigos 114, I, 202 e 40 da CF/88, o agravo em recurso extraordinário não merece ser conhecido, pois a 3ª Vice-Presidência do Tribunal de Justiça do Rio Grande do Sul julgou o apelo extremo prejudicado por ser relativo a matérias com repercussão geral (a) reconhecida no RE 586.453 (Rel. Min. ELLEN GRACIE, DJe de 6/6/2013, Tema 190), sendo que já foi julgado no mérito, e o acórdão recorrido se amolda a esse precedente; e (b) rejeitada no RE 590.005 (Rel. Min. CEZAR PELUSO, DJe de 18/12/2009, Tema 219) por se tratar de questão infraconstitucional.
+    O Plenário desta Corte firmou o entendimento de que não cabe recurso ou reclamação ao Supremo Tribunal Federal para rever decisão do Tribunal de origem que aplica a sistemática da repercussão geral, a menos que haja negativa motivada do juiz em se retratar para seguir a decisão da Suprema Corte (AI 760.358-QO, Rel. Min. GILMAR MENDES; Rcl 7.569 e Rcl 7.547, Rel. Min. ELLEN GRACIE, DJe de 11.12.2009; AI 783.839 ED, Rel. Min. CEZAR PELUSO (Presidente), Tribunal Pleno, DJe 1º/2/2011; ARE 682.753-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/8/2012).
+    Dessa forma, passo à análise do que remanesce do agravo.
+    3. Quanto à possível infringência ao art. 5º, LIV e LV, da Carta Magna, é inviável a apreciação, em recurso extraordinário, de violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, uma vez que, se houvesse, seria meramente indireta, já que é imprescindível o exame de normas infraconstitucionais (ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, Tema 660).
+    4. Diante do exposto, não conheço do agravo quanto à alegação de ofensa aos arts. 114, I, 202 e 40 da CF/88 e nego-lhe provimento quanto aos demais pontos.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
