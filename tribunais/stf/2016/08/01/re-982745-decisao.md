@@ -1,0 +1,26 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela Universidade Federal de Pelotas contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “ADMINISTRATIVO. MATRÍCULA EM CURSO SUPERIOR. NEGATIVA. CONCLUSÃO DO ENSINO MÉDIO. GREVE. ATRASO NA CONCLUSÃO DO CURSO.
+    Improvimento da apelação e parcial provimento da remessa oficial.”
+    A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora recorrente, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, fazendo-o, em decisão assim ementada:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Cumpre registrar, de outro lado, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula de edital, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contêm nas Súmulas 279/STF e 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal Regional Federal da 4ª Região, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal, em aspectos fático-probatórios, e interpretação de cláusula de edital, a seguir destacados:
+    “A Lei de Diretrizes e Bases da Educação (Lei 9.394/96) estabelece que o ensino superior abrangerá cursos de graduação, ‘abertos a candidatos que tenham concluído o ensino médio ou equivalente e tenham sido classificados em processo seletivo’ (art. 44, inciso II).
+    No caso dos autos, o impetrante possui data provável de conclusão de seu curso técnico integrado ao ensino médio, em julho de 2015, mas pretende a realização de sua matrícula na UFPel no curso de Engenharia Agrícola(bacharelado), desde o primeiro semestre do mesmo ano.
+    …...................................................................................................
+    Ademais, o curso pretendido pelo impetrante, conforme informações prestadas pela autoridade impetrada, é realizado na modalidade presencial e em turno integral, ou seja, dificilmente haverá compatibilidade de horários para que sejam cursados o ensino médio e a graduação pelo período de um semestre.
+    …...................................................................................................
+    Sendo assim, diversamente do que determinou a sentença, tenho que deve ser concedida a segurança, de modo a assegurar a vaga do impetrante até o semestre subsequente à data indicada como provável para a conclusão regular do curso (15-07-2015), possibilitando a matrícula mediante a apresentação de certificado de conclusão do ensino médio, em conformidade com a Lei de Diretrizes e Base da Educação (Lei 9.394/96).”
+    Vê-se, portanto, que a pretensão deduzida pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Observo, por relevante, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito desta Suprema Corte na apreciação de controvérsia idêntica à ora em análise (ARE 876.346/RS, Rel. Min. GILMAR MENDE – RE 926.415/RS, Rel. Min. DIAS TOFFOLI, v.g.).
+    Os precedentes que venho de referir guardam inteira pertinência com a legislação processual que se achava em vigor no momento em que ocorrida a publicação do ato questionado no apelo extremo (“tempus regit actum”).
+    Sendo assim, e considerando as razões expostas, não conheço do presente recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 01 de agosto de 2016.
+Ministro CELSO DE MELLO
+Relator
