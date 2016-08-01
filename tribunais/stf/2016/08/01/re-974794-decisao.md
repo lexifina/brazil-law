@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “IMPOSTO DE RENDA. PESSOAS JURÍDICAS. PERDAS NO MERCADO DE RENDA VARIÁVEL. IMPOSSIBILIDADE DE DEDUÇÃO. ART. 76 , § 4º, DA LEI N. 8.981 /95. CONSTITUCIONALIDADE E LEGALIDADE. PRECEDENTES.
+    1. O disposto no art. 76, §4º, da Lei n. 8.981/95 é compatível com o conceito de renda previsto no art. 153 , II , da CF e nos artigos 43 e 44 do CTN , pois o ganho no mercado de renda variável configura inequívoco acréscimo patrimonial e porque a perda nesse mercado tem por pressuposto a realização de uma renda que foi ali investida.
+    2. A impossibilidade de dedução desses valores não consiste em tributação de lucro fictício, mas apenas constitui faculdade do legislador, dentro do exercício de sua competência tributária, que, ao tributar tais quantias, permanece dentro dos limites constitucionais do conceito de renda.
+    3. Inexistência de vinculação do legislador tributário aos conceitos de direito privado, a não ser naqueles utilizados pela Constituição para a definição das competências tributárias.
+    4. Precedentes dos Tribunais Regionais Federais da 2a e 3a Regiões.
+    5. Apelação improvida”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A recorrente alega violação aos arts. 145, §1º, 148; 150, I e IV; 153, §2º, I, 154, 170, 174, todos da Carta. Sustenta que: (i) a inconstitucionalidade do art. 76, §4º, da Lei nº 8.981/1995; (ii) é obrigada a investir no mercado de renda variável; (iii) a limitação na dedução das perdas incorridas em operações de renda variável viola o princípio constitucional da isonomia; (iv) ao restringir a dedução das perdas incorridas nas operações de renda variável, o legislador ordinário impossibilitou a recorrente de compensar integralmente as suas despesas na determinação do lucro real.
+    A pretensão deduzida pela parte recorrente não encontra ressonância na jurisprudência do Supremo Tribunal Federal. Não há óbice a restrição quanto à dedução das perdas de que tratam os parágrafos 4º e 5º, ambos do art. 76 da Lei nº 8981/1995. Nos termos da jurisprudência da Corte, dissentir das conclusões adotadas pelo Tribunal de origem demandaria o reexame da legislação infraconstitucional correlata. Nesse sentido, confiram-se os precedentes a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCIDÊNCIA DO IMPOSTO SOBRE A RENDA. PREJUÍZO DECORRENTE DE ATIVIDADE DE INVESTIMENTO DENOMINADA DAY TRADE: LIMITAÇÃO IMPOSTA PELO ART. 76, § 3º, DA LEI N. 8.981/1995. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. CONCEITO DE RENDA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 613.556-AgR, Rel.ª Min.ª Cármen Lúcia)
+    “Segundo agravo regimental no recurso extraordinário. Imposto de renda. Apuração de lucro real e dedução de créditos com exigibilidade suspensa. Leis nºs 8.541/92 e 8.981/95. Questão infraconstitucional. Ofensa constitucional indireta.
+    1. Ambas as Turmas desta Corte têm se posicionado no sentido de que a controvérsia envolvendo a apuração de lucro real e a dedução de créditos com exigibilidade suspensa, nos moldes das Leis nºs 8.541/92 e 8.981/95,se insere no campo infraconstitucional. Assim sendo, eventual incompatibilidade com a Constituição Federal, caso ocorresse, dar-se-ia de forma meramente reflexa ou indireta. Precedentes.
+    2. Os fundamentos da agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional.
+    3. Agravo regimental não provido.” (RE 505.580-AgR-segundo, Rel. Min. Dias Toffoli)
+    “AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. PREJUÍZO DECORRENTE DE ATIVIDADE DE INVESTIMENTO DENOMINADA DAY TRADE: DEDUÇÃO DA BASE DE CÁLCULO DO IMPOSTO SOBRE A RENDA. LIMITAÇÃO IMPOSTA PELO ART. 76, § 3º, DA LEI N. 8.981/95. AGRAVO PROVIDO PARA DETERMINAR A SUBIDA DO RECURSO EXTRAORDINÁRIO. VISTA AO PROCURADOR-GERAL DA REPÚBLICA.” (AI 598.596/RJ, Rel.ª Min.ª Cármen Lúcia)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 1º de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
