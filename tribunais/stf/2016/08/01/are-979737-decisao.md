@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão, que manteve a sentença de primeiro grau que concedera parcialmente o pedido de dano moral requerido pelo autor.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV e LV; e 93, IX, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que, ”para analisar se, de fato, houve ofensa ao princípio do devido processo legal e da ampla defesa, haveria que se reavaliar todo o processo, o que não tem admissibilidade na via recursiva Extraordinária, incidindo na espécie o enunciado 279 do Pretório Excelso”.
+    O recurso é inadmissível. O Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão relativa à competência dos juizados especiais para a apreciação de processo em que seja necessária a produção de prova complexa para o deslinde da controvérsia. Nessa linha, veja-se a ementa do ARE 640.671, julgado sob a relatoria do Ministro Presidente, à época Ministro Cezar Peluso:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional.”
+    Ademais, a jurisprudência desta Corte é no sentido da ausência de repercussão geral da discussão sobre dano indenizável à imagem ou à honra por ser imprescindível a a análise do material fático probatório para verificar sua ocorrência. Veja-se, nesse sentido, a ementa do ARE 739.382 RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Recurso Extraordinário com agravo. 2. Dano moral. 3. Liberdade de expressão. 4.Crítica contundente. 5. Discussão não ultrapassa o interesse subjetivo das partes. 6. Não compete ao Supremo Tribunal Federal revolver a matéria fática para verificar a ocorrência de dano à imagem ou à honra, a não ser em situações excepcionais, nas quais se verifique esvaziamento do direito a imagem e, portanto, ofensa constitucional direta. 7. Ausência de repercussão geral da questão suscitada. 8. Recurso extraordinário não conhecido.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+     Brasília, 1º de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
