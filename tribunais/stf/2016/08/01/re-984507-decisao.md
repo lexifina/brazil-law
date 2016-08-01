@@ -1,0 +1,13 @@
+DECISÃO: O Instituto Nacional do Seguro Social – INSS, ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o órgão judiciário de origem teria transgredido os preceitos inscritos nos arts. 5º, II e XXXVI, 195, § 5º e 201, “caput” e § 1º, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão ora impugnado, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 8.213/91), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o órgão judiciário de origem, ao manter, em sede de apelação cível, a sentença por seus próprios fundamentos apoiou-se em dispositivos de ordem meramente legal:
+    “Dito isso, tem-se que à parte autora assiste o direito ao benefício de aposentadoria integral por tempo de contribuição, na forma do item ‘c’ acima, com início em 18/11/2014, datado requerimento (DER) (art. 54 da Lei de Benefícios).
+    A carência, por sua vez, foi cumprida nos moldes previstos no art. 142 da Lei nº 8.213/91, sendo irrelevante a análise da manutenção da qualidade de segurado em função do disposto no art. 32 da Lei nº 10.666/2003.”
+    Impõe-se registrar, ainda, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria idêntica à veiculada no caso em análise (RE 891.918/RS, Rel. Min. DIAS TOFFOLI – RE 966.737/RS, Rel. Min. Rel. Min. EDSON FACHIN – RE 966.931/RS, Rel. Min. CÁRMEN LÚCIA, v.g.).
+    Os precedentes que venho de referir guardam inteira pertinência com a legislação processual que se achava em vigor no momento em que ocorrida a publicação do ato questionado no apelo extremo (“tempus regit actum”).
+    Sendo assim, e considerando as razões expostas, não conheço do presente recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 01 de agosto de 2016.
+Ministro CELSO DE MELLO
+Relator
