@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Alcemar Coelho da Silva interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Terceira Turma Recursal do Rio Grande do Sul que, em síntese, manteve a “sentença de improcedência de pedido de revisão de benefício mediante a incorporação do valor nominal de reajuste do salário mínimo sempre que for superior ao reajuste nominal dos benefício previdenciários”.
+    Sustenta-se, no apelo extremo, violação dos artigos 5º, inciso XXXVI, e 201, § 3º, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere ao artigo 5º, inciso XXXVI, da Constituição, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, o acórdão recorrido não divergiu da jurisprudência desta Corte, consolidada no sentido de que os benefícios previdenciários, após a edição das leis de custeio e benefícios da previdência social, devem ser reajustados pelos índices expressamente previstos pela legislação infraconstitucional, sem que isso importe ofensa às garantias da irredutibilidade e da preservação do valor real dos benefícios, sendo vedada a vinculação permanente do benefício ao salário mínimo. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. BENEFÍCIO PREVIDENCIÁRIO. SALÁRIO-FAMÍLIA. VINCULAÇÃO AO SALÁRIO MÍNIMO. ARTIGO 7º, IV, DA CB/88. ARTIGO 58 DO ADCT. SÚMULA N. 687 DO STF. FUNDAMENTO INFRACONSTITUCIONAL. TRÂNSITO EM JULGADO. INCIDÊNCIA DA SÚMULA 283/STF. 1. O Supremo Tribunal Federal fixou que ‘ao estabelecer o artigo 7º, IV, da Constituição Federal, que é vedada a vinculação ao salário-mínimo para qualquer fim, se pretendeu evitar que interesses estranhos aos versados na norma constitucional venham a ter influência na fixação do valor mínimo a ser observado’. Precedentes. 2. O fundamento infraconstitucional, suficiente para a manutenção do acórdão impugnado, transitou em julgado. Incidência da Súmula 283/STF. Agravo regimental a que se nega provimento” (RE nº 467.212/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 31/10/08).
+    “BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTERIORMENTE À CONSTITUIÇÃO FEDERAL DE 1988. REVISÃO. ART. 58 DO ADCT. VINCULAÇÃO PERMANENTE AO SALÁRIO-MÍNIMO. IMPOSSIBILIDADE. ÍNDICES DE REAJUSTE. MATÉRIA INFRACONSTITUCIONAL. Agravo regimental a que se nega provimento” (AI nº 538.377/MG-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 4/6/12).
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIOS. PREVISÃO LEGAL. CONSTITUCIONALIDADE. VINCULAÇÃO AO SALÁRIO MÍNIMO. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - O art. 41, II, da Lei 8.213/1991 e suas sucessivas alterações não violam o disposto no art. 194, IV e 201, § 2º, da Carta Magna. Precedentes. II - Após a edição das leis de custeio e benefícios da previdência social, impossível a revisão de benefícios previdenciários vinculada ao salário mínimo. Precedentes. III - Recurso protelatório. Aplicação de multa. IV - Agravo regimental improvido” (AI nº 594.561/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 14/8/09).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 1º de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
