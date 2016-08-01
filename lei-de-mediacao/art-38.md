@@ -4,4 +4,4 @@ II - as empresas públicas, sociedades de economia mista e suas subsidiárias qu
 III - quando forem partes as pessoas a que alude o caput do art. 36:
 a) a submissão do conflito à composição extrajudicial pela Advocacia-Geral da União implica renúncia do direito de recorrer ao Conselho Administrativo de Recursos Fiscais;
 b) a redução ou o cancelamento do crédito dependerá de manifestação conjunta do Advogado-Geral da União e do Ministro de Estado da Fazenda.
-Parágrafo único. O disposto no inciso II e na alínea a do inciso III não afasta a competência do Advogado-Geral da União prevista nos incisos X e XI do art. 4º da Lei Complementar nº 73, de 10 de fevereiro de 1993.
+Parágrafo único. O disposto neste artigo não afasta a competência do Advogado-Geral da União prevista nos incisos VI, X e XI do art. 4º da Lei Complementar nº 73, de 10 de fevereiro de 1993, e na Lei nº 9.469, de 10 de julho de 1997.
