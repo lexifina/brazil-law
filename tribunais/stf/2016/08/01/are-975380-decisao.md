@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS MATÉRIA FÁTICA – INVIABILIDADE - DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal da 3ª Região, confirmando o Juízo, assentou não demonstrada a operação de compensação de crédito tributário capaz de extinguir o débito fiscal exigido na Certidão de Dívida Ativa – CDA executada, observada a legislação de regência. No recurso extraordinário cujo trânsito busca alcançar, o recorrente alega violado o artigo 5º, inciso LV, da Carta Política. Aduz a inobservância do contraditório e da ampla defesa, pois foram desconsiderados os documentos colacionados ao processo e não houve oportunidade para se manifestar sobre documentos novos carreados pela exequente.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+     O Tribunal de origem manteve intocada a liquidez e certeza da Certidão de Dívida Ativa – CDA em executivo fiscal, porquanto a presunção não foi ilidida no conjunto probatório do processo e considerando não ter o contribuinte requerido a produção de prova no momento oportuno, quanto à extinção do crédito fiscal executado, mediante alegada compensação. As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o processo foi decidido sob a óptica dos artigos 3º e 17, parágrafo único, da Lei nº 6.830/80 e 66 da Lei nº 8.383/91 revelando, o acórdão impugnado, interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 1º de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
