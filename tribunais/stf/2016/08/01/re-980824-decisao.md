@@ -1,0 +1,18 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. IPI. IMPORTADOR. COMERCIANTE EQUIPARADO A INDUSTRIAL. DESEMBARAÇO ADUANEIRO. SAÍDA DO ESTABELECIMENTO. PRINCÍPIO DA NÃO CUMULATIVIDADE.
+    1. É devido o IPI no desembaraço aduaneiro de produto industrializado, assim como na saída do estabelecimento comercial, equiparado a industrial, compensando-se o que for devido na última operação com o que foi pago na primeira, por força do princípio constitucional da não cumulatividade.
+    2. Sentença reformada.”.
+    O recurso busca fundamento no artigo 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, art. 84, IV, 145, § 1º, 150, I, II e IV, 153, IV e § 3º, II, c/c os arts. 155, II, e 156, III, todos da Carta. Sustenta que: (i) o IPI apenas incide quando o produto é resultado de um processo de industrialização, isto é, quando ocorre operação que modifique a natureza ou finalidade ou o aperfeiçoe para o consumo; (ii). no caso de revenda de mercadorias pelo importador, não há qualquer atividade que possa ser configurada como industrialização; (iii) já houve pagamento de IPI no momento do desembaraço aduaneiro, e, portanto, nova tributação na revenda dos produtos importados será indevida, caracterizando-se a dupla incidência.
+    O recurso está prejudicado, tendo em vista que o Superior Tribunal de Justiça, em decisão transitada em julgado, deu provimento ao RESP 1.461.332, simultaneamente interposto pela parte recorrente. Dessa forma, o recurso extraordinário e o respectivo agravo perderam o objeto.
+    Ademais, para dissentir das conclusões do Tribunal de origem, seriam necessários o exame da legislação infraconstitucional e o reexame do conjunto fático e probatório, providências vedadas em sede de recurso excepcional. No mesmo sentido, vejam-se os seguintes julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IPI. IMPORTADOR COMERCIANTE. DESEMBARAÇO ADUANEIRO. SAÍDA DO ESTABELECIMENTO. OPERAÇÃO DE INDUSTRIALIZAÇÃO. INFRACONSTITUCIONAL. 1. A análise da controvérsia relativa à incidência de IPI, por ocasião do desembaraço aduaneiro do produto importado, como na saída do estabelecimento do importador, cinge-se ao âmbito infraconstitucional. 2. Agravo regimental a que se nega provimento”. (RE 951.725-AgR/RS , Rel. Min. Edson Fachin)
+    “Agravo regimental no recurso extraordinário com agravo. Imposto sobre Produtos Industrializados (IPI). Importação. Desembaraço aduaneiro. Saída do estabelecimento. Questão infraconstitucional. Afronta reflexa.
+    1. O Tribunal de origem, decidiu a controvérsia acerca da dupla incidência do IPI no desembaraço aduaneiro de produto industrializado e na saída do estabelecimento do importador com base na legislação infraconstitucional (CTN, Lei nº 4.502/64 e Decreto nº 7.212/10). A afronta ao texto constitucional, caso ocorresse, seria meramente reflexa ou indireta.
+    2. Agravo regimental não provido.” (ARE 882.027-AgR, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPI. PRODUTO INDUSTRIALIZADO IMPORTADO. SAÍDA DO ESTABELECIMENTO DO IMPORTADOR. EQUIPARAÇÃO À INDUSTRIAL. DISTINÇÃO DA INCIDÊNCIA NO DESEMBARAÇO ADUANEIRO E NA REVENDA NO MERCADO INTERNO. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS (CTN, LEI N º 4.502/1964, DECRETO Nº 7.212/2010). NÃO CABIMENTO DO RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 891.727-AgR, Rel. Min. Luiz Fux)
+    Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado o recurso.
+    Publique-se.
+          Brasília, 1º de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
