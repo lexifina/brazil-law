@@ -1,0 +1,19 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS – ERRO MATERIAL – AFASTAMENTO – EFEITO MODIFICATIVO.
+    1. Em 1º de abril de 2016, proferi a seguinte decisão:
+RECURSO EXTRAORDINÁRIO - REPERCUSSÃO GERAL ADMITIDA – PROCESSO VERSANDO MATÉRIA IDÊNTICA – BAIXA À ORIGEM.
+    1. O Tribunal, no Recurso Extraordinário nº 608.872/MG, da relatoria do ministro Dias Toffoli, concluiu pela repercussão geral do tema relativo à existência da imunidade prevista no artigo 150, inciso VI, alínea “c”, da Constituição Federal, no tocante ao Imposto sobre Circulação de Mercadorias e Serviços – ICMS.
+    2. Ante o quadro, considerado o fato de o recurso veicular a mesma matéria, tendo a intimação do acórdão impugnado ocorrido posteriormente à data em que iniciada a vigência do sistema da repercussão geral, bem como presente o objetivo maior do instituto – evitar que o Supremo, em prejuízo dos trabalhos, tenha o tempo tomado com questões repetidas -, determino a devolução do processo à origem. Faço-o com fundamento no artigo 328, parágrafo único, do Regimento Interno desta Corte, para os efeitos do artigo 543-B do Código de Processo Civil.
+    3. Publiquem.
+    Nos declaratórios, aponta-se a ocorrência de contradição, porquanto a matéria do extraordinário é a possibilidade de incidência do Imposto sobre Circulação de Mercadorias e Serviços – ICMS na importação de bem para uso da embargante, instituição beneficente de ensino.
+    A parte embargada, apesar de intimada, não apresentou contrarrazões (certidão de 4 de julho de 2016).
+    2. Na interposição destes embargos, observaram-se os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente credenciado, foi protocolada no prazo legal.
+    Efetivamente, salta aos olhos o equívoco. A repercussão geral admitida no recurso extraordinário nº 608.872/MG está restrita ao tema da existência da imunidade quanto ao Imposto sobre Circulação de Mercadorias e Serviços – ICMS na circulação de bem adquirido por instituição reconhecida como beneficente no mercado interno.
+    3. Ambas as Turmas do Supremo concluíram pela imunidade das instituições beneficentes no tocante à não a incidência do Imposto sobre Circulação de Mercadorias e Serviços – ICMS na importação de bem para desenvolvimento das atividades que desenvolvem. Confiram com as seguintes ementas:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMUNIDADE DAS ENTIDADES DE ASSISTENCIAL SOCIAL RECONHECIDA COM RELAÇÃO AO ICMS INCIDENTE SOBRE PRODUTOS IMPORTADOS. PRECEDENTES. A jurisprudência da Corte orienta-se no sentido de que a imunidade prevista no art. 150, VI, c, da Constituição Federal, abrange o ICMS incidente sobre a importação de mercadorias utilizadas na prestação de seus serviços específicos. Não procede a vinculação do recurso à sistemática da repercussão geral com relação a um leading case que controverte sobre questão diversa. Agravo regimental a que se nega provimento. (Agravo regimental no recurso extraordinário com agravo nº 803.906, relatado na Primeira Turma pelo ministro Roberto Barroso, publicado no Diário da Justiça de 21 de novembro de 2014.)
+    AGRAVO DE INSTRUMENTO - ICMS - INCIDÊNCIA - OPERAÇÃO DE IMPORTAÇÃO, POR ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS, DE BENS RELACIONADOS COM SUAS FINALIDADES ESSENCIAIS - IMPOSSIBILIDADE - TRANSGRESSÃO À NORMA CONSTITUCIONAL DA IMUNIDADE TRIBUTÁRIA (CF, ART. 150, VI, “c”) - RECURSO DE AGRAVO IMPROVIDO. (Agravo regimental no agravo de instrumento nº 785.459, relatado na Segunda Turma pelo ministro Celso de Mello, publicado no Diário da Justiça de 19 de dezembro de 2011.)
+    4. Ante o exposto, acolho os embargos declaratórios para, sanando o equívoco apontado e conferindo efeito modificativo à decisão impugnada, conhecer e desprover o agravo.
+    5. Publiquem.
+Brasília, 1º de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
