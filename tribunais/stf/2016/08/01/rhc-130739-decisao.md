@@ -1,0 +1,28 @@
+Decisão:
+    Trata-se de recurso em habeas corpus interposto contra acórdão, proferido no âmbito do do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL. PROCESSUAL PENAL E PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. FATOS CRIMINAIS PENDENTES DE DEFINITIVIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AFASTAMENTO. LEGALIDADE.
+    1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+    2. Fatos criminais pendentes de definitividade, embora não sirvam para a negativa valoração da reincidência e dos antecedentes (Súmula n. 444 do STJ), podem embasar o afastamento da minorante do tráfico privilegiado quando permitem concluir que o agente se dedica a atividades criminosas.
+    3. Agravo regimental improvido.”
+    (AgRg no HC 211.288/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/05/2015, DJe 26/05/2015)
+    Narra o impetrante que: a) o paciente foi condenado pela prática do crime de tráfico de drogas; b) as instâncias ordinárias deixaram de aplicar a minorante prevista no art. 33, §4°, Lei 11.343/06, na medida em que, com fundamento na existência de procedimentos penais em curso, afirmaram que o paciente dedicava-se à atividade criminosa; c) inquéritos policiais não se prestam a impedir a aplicação da causa minorante, o que motivou o ajuizamento de revisão criminal, julgada improcedente pelo Tribunal local.
+    É o relatório. Decido.
+    No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Com efeito, embora não se admita a não incidência da minorante com base em meras presunções, o reconhecimento de que o acusado dedica-se a atividades criminosas não desafia, necessariamente, a existência de condenação anterior. É possível que, pelas circunstâncias da ação criminosa ou de informações laterais colhidas durante a instrução processual, o Juiz forme convicção válida pelo não preenchimento dos requisitos autorizadores da redução.
+    No caso concreto, assinalou o Tribunal local (grifei):
+    “Ocorre que, restou demonstrado claramente que o sentenciado se dedica à atividade criminosa, uma vez que está sendo investigado pela prática de outro crime de tráfico de drogas e ainda pela perpetração dos crimes de quadrilha e lesão corporal.
+     Assim, vislumbra-se completamente incabível a pretensão de ver aplicada a causa de diminuição do art. 33, parágrafo §4º, da Lei 11.343/2006 – 'tráfico privilegiado' – haja vista que se dedica à atividade criminosa. Ora, como é sabido, para a consideração do benefício encartado no art. 33, §4º, da Lei 11.343/2006, é imprescindível que estejam presentes, cumulativamente, todos os requisitos previstos no dispositivo.”
+    Tal proceder amolda-se à jurisprudência da Corte:
+    “In casu, a minorante especial a que se refere o § 4º do art. 33 da Lei n. 11.343/2006 foi corretamente afastada ante a comprovação, por certidão cartorária, de que o paciente está indiciado em vários inquéritos e responde a diversas ações penais, entendimento que se coaduna com a jurisprudência desta Corte: RHC 94.802, 1ª Turma, Rel. Min. MENEZES DE DIREITO, DJe de 20/03/2009; e HC 109.168, 1ª Turma, Rel. Min. CÁRMEN LÚCIA, DJe de 14/02/2012, entre outros.” (HC 108135, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 05/06/2012)
+    Nessa linha, diante da higidez formal da fundamentação, não é possível divergir das instâncias ordinárias sem desconstruir as premissas decisórias, providência inadmitida na célere e estreita via do habeas corpus:
+    “A negativa de aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei nº 11.343/06 por aquele Tribunal Regional Federal não está lastreada em presunções, ilações ou conjecturas. Pelo contrário, apresentou ele elementos concretos que apontam que a paciente se dedicava à atividade criminosa, ficando demonstrado que ela teria realizado outra viagem ao Brasil com idêntico propósito (transporte de drogas). Logo, qualquer conclusão em sentido contrário por parte da Suprema Corte demandaria o revolvimento de fatos e provas intimamente ligados ao mérito da ação penal.” (HC 128754, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 05/04/2016)
+    “É inviável a utilização do habeas corpus para revolver o contexto fático probatório para eventual aplicação da causa de diminuição de pena previsto no § 4º do art. 33 da Lei n. 11.343/2006.” (HC 131761, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 02/02/2016)
+    “As instâncias ordinárias concluíram, com base nos elementos de provas colhidos sob o crivo do contraditório, pela dedicação do recorrente a atividade criminosa, circunstância que não pode contraditada em sede de habeas corpus, instrumento que não se presta para o revolvimento do conjunto fático probatório. Precedentes.” (RHC 129811, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 24/11/2015)
+    Com a manutenção do tempo de pena, o paciente não preenche os requisitos objetivos para fixação de regime aberto ou substituição da pena.
+    Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF, ou de flagrante hipótese de constrangimento ilegal, não é o caso de concessão da ordem de ofício.
+    Posto isso, com fulcro no art. 21, §1º, do RISTF, nego provimento ao recurso em habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 01 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
