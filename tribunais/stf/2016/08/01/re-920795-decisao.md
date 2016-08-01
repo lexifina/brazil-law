@@ -1,0 +1,13 @@
+DECISÃO: Trata-se recurso extraordinário interposto pelo Município de São Paulo contra acórdão que, complementado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado (fls. 129):
+    “Apelação. Mandado de Segurança. Taxa de resíduos sólidos domiciliares (Lei 13.478/02 do município de São Paulo). Exercício de 2003 e seguintes. Alegação de inconstitucionalidade da exação. Rateio do custo do serviço de acordo com o potencial volume de geração de lixo. Inadmissibilidade. Base de cálculo sem relação com o custo da atividade estatal. Inobservância do princípio da isonomia. Inteligência do artigo 150, II, da Constituição Federal. Cobrança indevida. Recurso denegado.”
+    A parte recorrente, ao deduzir este apelo extremo, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 145, II e 150, II, da Constituição da República.
+    Cumpre ressaltar, desde logo, que o Plenário do Supremo Tribunal Federal, ao apreciar questão constitucional essencialmente idêntica à versada nesta causa, julgou o RE 576.321-RG-QO/SP, Rel. Min. RICARDO LEWANDOWSKI, nele proferindo decisão que torna acolhível a pretensão deduzida no presente recurso extraordinário.
+    Em consequência do referido julgamento, o Pleno desta Suprema Corte formulou o enunciado consubstanciado na Súmula Vinculante nº 19, que possui o seguinte conteúdo:
+    “A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal.”
+    Cumpre destacar, por oportuno, no tema ora em exame, ante a inquestionável procedência de suas observações, a seguinte passagem da decisão proferida pelo eminente Ministro RICARDO LEWANDOWSKI (RE 574.803/SP), no sentido de que “são específicos e divisíveis os serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, desde que essas atividades sejam completamente dissociadas de outros serviços públicos de limpeza realizados em benefício da população em geral (‘uti universi’) e de forma indivisível, tais como os de conservação e limpeza de logradouros e bens públicos”.
+    O exame da presente causa evidencia que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte, em ordem a determinar seja observada a orientação jurisprudencial em referência.
+    Publique-se.
+    Brasília, 01 de agosto de 2016.
+Ministro CELSO DE MELLO
+Relator
