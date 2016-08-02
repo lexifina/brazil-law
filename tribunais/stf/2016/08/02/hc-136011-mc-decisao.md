@@ -1,0 +1,40 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Juscelino de Amorim Ramos, apontando como autoridade o Ministro Félix Fischer, do Superior Tribunal de Justiça, que não conheceu do agravo regimental no AREsp nº 530.063/SP.
+    O impetrante sustenta, em síntese, que o Relator do AREsp nº 530.063/SP ao não conhecer, monocraticamente, do agravo regimental interposto pela defesa do ora paciente, determinou a execução provisória da pena corporal a ele imposta pela prática dos crimes de receptação e lavagem de dinheiro.
+    No entender da defesa essa determinação acarreta constrangimento ilegal ao paciente, uma vez que não houve o trânsito em julgado da condenação que aguarda a apreciação de agravo regimental interposto contra aquela decisão do Ministro Félix Fischer.
+    Requer, liminarmente, a concessão da ordem para que seja assegurado ao paciente o direito de permanecer em liberdade até o trânsito em julgado da sua condenação. Alternativamente, pede a implementação da prisão domiciliar por se tratar de paciente com saúde fragilizada ou que se fixe regime inicial de cumprimento de pena mais brando.
+    Examinados os autos, decido.
+    Transcrevo o teor da decisão questionada:
+    “Trata-se de agravo regimental interposto por JUSCELINO DE AMORIM RAMOS contra a decisão de fls. 3.669-3.673 que inadmitiu o agravo em recurso especial sob o fundamento de intempestividade do apelo nobre.
+    De fato, em percuciente análise dos autos, verifica-se a pertinência das alegações, razão pela qual, nos termos do art. 259 do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão retromencionada e procedo à nova análise do agravo em recurso especial.
+    In casu, o eg. Tribunal de origem inadmitiu o apelo nobre em razão de a) ausência de prequestionamento, atraindo a incidência do óbice sumular insculpido no enunciado n. 211 desta Corte; e, b) a necessidade de revolvimento do acervo fático-probatório dos autos para o deslinde da controvérsia, providência inviável em sede de recurso especial, a teor do enunciado sumular n. 7 do Superior Tribunal de Justiça.
+    No entanto, as razões do agravo também não infirmam adequadamente todos os fundamentos da r. decisão de inadmissibilidade, limitando-se a repisar os argumentos já apresentados no recurso especial e apenas indicando, de maneira genérica, a inaplicabilidade dos óbices apontados pela decisão de admissibilidade do recurso nobre, o que impede o conhecimento deste agravo pela incidência do enunciado n. 182 da Súmula desta Corte, que dispõe:
+    ‘É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.’
+    Assim, verificada esta hipótese - ausência de impugnação integral dos fundamentos da decisão agravada - o recurso não merece ser conhecido, conforme remansosa jurisprudência desta Corte, v.g.:
+    ‘PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ART. 544, § 4º, I, DO CPC. FUNDAMENTO INATACADO. SÚMULA 182 DO STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA.
+    1. Conforme reiterada jurisprudência desta Corte de Justiça, o agravante deve infirmar, nas razões do regimental, todos os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso, circunstância que atrai a incidência da Súmula 182 do STJ.
+    [...]
+    5. Agravo regimental não conhecido’ (AgRg nos EDcl no AREsp n. 717.769/SC, Quinta Turma, Rel. Min. Gurgel de Faria, DJe de 28/10/2015).
+    ‘AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO. PENA-BASE REVISTA E FIXADA NO MÍNIMO LEGAL. REGIME DE CUMPRIMENTO DA PENA MAIS SEVERO EM DECORRÊNCIA DA GRAVIDADE CONCRETA DO DELITO PRATICADO - TRÁFICO DE UM QUILO E DUZENTOS GRAMAS DE COCAÍNA. FUNDAMENTO NÃO IMPUGNADO. ÓBICE INTRANSPONÍVEL DA SÚMULA 182 DESTA CORTE. AGRAVO NÃO CONHECIDO.
+    1. Verifica-se da argumentação declinada pelo agravante, nas razões deste agravo, absoluta ausência de impugnação do fundamento pertinente à fixação de regime de cumprimento da pena mais severo - a gravidade concreta do delito praticado - tráfico de um quilo e duzentos gramas de cocaína -, revelando-se insuperável o óbice do verbete n. 182 da Súmula desta Corte, que dispõe: 'é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada'.
+    2. Desse modo, a decisão agravada deve ser mantida incólume por seus próprios termos.
+    3. Agravo regimental não conhecido’ (AgRg no AREsp n. 733.379/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/9/2015).
+    Insta consignar que a impugnação à decisão deve ser clara e suficiente a esclarecer o equívoco na sua negativa, pois não basta deduzir a inaplicabilidade do óbice sumular, devendo ser demonstrado o devido prequestionamento da matéria pelo eg. Tribunal de origem e a desnecessidade de reapreciação de fatos e provas para o deslinde da questão apresentada.
+    Diante do exposto, não conheço do agravo, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+    Por fim, tendo em vista o que decidido pela col. Suprema Corte, por ocasião do julgamento do HC 126.292/SP, no qual foi autorizada a execução provisória da pena, determino, independentemente da certificação do trânsito em julgado, à Coordenadoria da Quinta Turma, a remessa de cópia da sentença, do v. acórdão prolatado em apelação e em embargos de declaração e, ainda, das decisões proferidas nesta Corte para o MM. Juízo de primeira instância, a fim de que proceda à execução provisória da pena” (grifos do autor).
+    Como se verifica, a impetração volta-se contra decisão singular proferida no bojo do AREsp nº 530.063/SP, o que atrai o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ademais, registro que o Tribunal Pleno desta Suprema Corte em caso equivalente fixou orientação no sentido de que
+    “a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal (HC nº 126.292/SP, Relator o Ministro Teori Zavascki, DJe de 17/5/16).
+    Portanto, a decisão do juízo de origem, que determinou a execução provisória da pena imposta ao paciente, à primeira vista, não afrontou a jurisprudência fixada pelo Supremo Tribunal Federal naquele leading case.
+    No que se refere ao pleito de prisão domiciliar ou a fixação de regime inicial de cumprimento de pena mais brando, registro que os temas não foram analisados pelo Superior Tribunal de Justiça. Portanto, sua análise, de forma originária, neste writ, configuraria inegável supressão de instância que não se admite. Nesse sentido: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Com essas considerações, indefiro a liminar requerida.
+    Solicitem-se informações à autoridade coatora.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 2 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
