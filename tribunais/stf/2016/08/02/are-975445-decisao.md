@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa reproduzo a seguir:
+    “APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. IPTU. LEI COMPLEMENTAR MUNICIPAL 373/2010. ANTERIORIDADE NONAGESIMAL. ALTERAÇÃO DA BASE DE CÁLCULO. INEXISTÊNCIA DE AFRONTA.
+    O princípio da anterioridade anual determina que os entes tributantes não podem cobrar tributos no mesmo exercício financeiro (ano fiscal, que no Brasil coincide com o ano civil) em que tenha sido publicada a lei majorada ou instituidora do tributo. Este princípio está previsto no art. 150, III, b, da Constituição Federal e 104 do CTN. A Emenda Constitucional 42/2003 vedou a cobrança de tributos antes de decorridos noventa dias da data em que tenha sido publicada a lei que haja instituído ou majorado o tributo, nos termos do art. 150, III, c, da Constituição Federal. Assim, devem ser respeitadas cumulativamente as anterioridades narradas acima. A segurança jurídica está presente em todo o ordenamento jurídico, sendo o princípio da anterioridade consequência disso, visto que ela ratifica a segurança jurídica, evitando que o contribuinte se veja diante de inesperadas cobranças tributárias. O período de carência, porém, não se aplica à fixação da base de cálculo do imposto sobre a Propriedade e Territorial Urbana – IPTU – como excepciona a parte final do parágrafo 1º do artigo 150 da CF.
+    APELAÇÃO DESPROVIDA.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 1º, III; 150, III, “b” e “c”, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que “a Lei Complementar 373/2010 (que instituiu a majoração do IPTU ao percentual de 100% - cem por cento – sobre o valor venal do imóvel, encargo antes limitado em até 26% - vinte e seis por cento sobre a mesma base de cálculo), é inconstitucional uma vez que não observou o princípio da anterioridade nonagesimal.” (eDOC 2, p. 82-83)
+    Assevera-se, ainda, que o aumento da base de cálculo teria efeito confiscatório em relação ao patrimônio dos contribuintes.
+    É o relatório. Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, convém ressaltar o assentado pelo Tribunal de origem:
+    “Compulsando os autos, verifico que o artigo 6º da Lei Complementar nº 373/2010 assim dispõe:
+    ‘Esta Lei Complementar entra em vigor na data de sua publicação, produzindo os efeitos a partir de 1º de Janeiro de 2011.’
+    A referida Lei foi publicada em 15 de dezembro de 2010.
+    Em razão disso, a parte autora referiu a ofensa ao princípio da anterioridade direta e nonagesimal.
+    Ocorre que as referidas anterioridades são aplicáveis nos casos de leis que instituem ou aumentem tributos, não se aplicando à fixação da base de cálculo do imposto previsto no art. 156, I, da CF, como dito acima.
+    Assim, é constitucional a previsão contida no art. 6º da Lei Complementar nº 373/2010 do Município de Caxias do Sul.” (eDOC 2, p. 52)
+    Em relação ao princípio da anterioridade genérica, encartada no art. 150, IV, “b”, verifico que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido e da realidade processual, o que torna aplicável ao caso o enunciado da Súmula 284 do STF, uma vez que a própria parte Recorrente assim asseverou em sua petição recursal: “Saliente-se, contudo, que o legislador caxiense, ao editar a Lei mencionada alhures, observou, tão somente, o princípio da anterioridade de exercício, ao passo que desrespeitou a anterioridade nonagesimal.”
+    Por sua vez, em relação ao princípio da anterioridade nonagesimal, verifica-se que o acórdão recorrido não destoa do art. 150, §1º, da Constituição da República, porquanto a fixação de base de cálculo do IPTU não está submetida ao referido princípio.
+    Ademais, constato que eventual divergência ao entendimento adotado pelo juízo a quo, em relação a controvérsia relativa ao efeito confiscatório decorrente de majoração do IPTU e respectiva cobrança, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, precipuamente de índole loca, de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IPTU. MAJORAÇÃO. LEGALIDADE E ANTERIORIDADE. DESCABIMENTO. 1. Hipótese em que a resolução da controvérsia demanda a análise de legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal. Precedentes. 2. Agravo regimental a que se nega provimento.”
+(ARE 895278 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 21.06.2016)
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Incidência das Súmulas 282 e 356 do STF. IPTU. Lei que aprova a planta de valores. Publicação do anexo. Anterioridade. Fatos e provas. Súmula 279/STF. 1. A matéria relativa ao alegado vício no tocante à sanção, promulgação e quórum de votação de lei em discordância com a Lei Orgânica Municipal não foi objeto de análise pela instância de origem. Esse ponto não foi objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte. 2. Para dissentir do que firmado pelo Tribunal de origem, no que se refere a existência (ou não) de anexo contendo a planta de valores quando da publicação da lei, necessário seria o revolvimento do contexto fático e probatório dos autos, providência vedada em sede de recurso extraordinário, a teor da Súmula 279 da Corte. 3. Agravo regimental não provido.”
+(ARE 874797 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 11.11.2015)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 02 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
