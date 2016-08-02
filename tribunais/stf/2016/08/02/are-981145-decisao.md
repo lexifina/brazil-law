@@ -1,0 +1,10 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão de Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “MANDADO DE SEGURANÇA. MUNICÍPIO DE ITAPERUNA. DECISÃO QUE JULGOU IMPROCEDENTES OS EMBARGOS INFRINGENTES OPOSTOS, COM FULCRO NO ART. 34 DA LEI Nº 6.830/80, EM FACE DA SENTENÇA QUE EXTINGUIU A EXECUÇÃO FISCAL POR VALOR IRRISÓRIO. VIA INADEQUADA. DECISÃO AINDA IMPUGNÁVEL POR RECURSO EXTRAORDINÁRIO. INTELIGÊNCIA QUE SE EXTRAI DOS VERBETES SUMULARES Nº 267 E 640, AMBOS DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES DO C. STJ E DESTA CORTE DE JUSTIÇA. INDEFERIMENTO DA PETIÇÃO INICIAL, COM BASE NO ART. 10 DA LEI Nº 12.016/09.” (eDOC. 1, p. 18)
+    De plano, verifica-se que a controvérsia vertida nos autos cinge-se ao Tema 898 da sistemática da repercussão geral, cujo recurso-paradigma é o ARE-RG 963.889, de relatoria do Ministro Teori Zavascki, DJe 27.05.2016, cuja ementa reproduz-se a seguir:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO DE VALOR IGUAL OU INFERIOR A 50 OBRIGAÇÕES REAJUSTÁVEIS DO TESOURO NACIONAL (ORTN). DECISÃO QUE JULGA EMBARGOS INFRINGENTES (ART. 34 DA LEI 6.830/1980). CABIMENTO DE MANDADO DE SEGURANÇA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. É de natureza infraconstitucional a controvérsia relativa ao cabimento de mandado de segurança contra decisão que julga embargos infringentes opostos em execução fiscal de pequeno valor, fundada na interpretação da Lei 6.830/1980. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 1.035 do CPC/2015.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 02 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
