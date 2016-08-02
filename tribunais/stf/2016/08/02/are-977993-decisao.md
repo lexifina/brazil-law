@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, XI, § 11, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie. A aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada ofensa à Constituição da República. Nesse sentido:
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. AGENTE FISCAL DE RENDAS APOSENTADO. TETO REMUNERATÓRIO. NÃO INCIDÊNCIA. LICENÇA PRÊMIO NÃO USUFRUÍDA. NATUREZA INDENIZATÓRIA. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. 1. A discussão acerca da natureza jurídica de verbas percebidas por servidores públicos civis ou militares se insere no âmbito infraconstitucional. Precedentes. 2. Agravo regimental a que se nega provimento.” (ARE 788.524/SP-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 20.5.15)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO CONVERTIDA EM PECÚNIA. NATUREZA INDENIZATÓRIA. INCIDÊNCIA DO TETO ESTADUAL. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. 1. A licença-prêmio não usufruída e convertida em pecúnia, quando sub judice sua natureza jurídica, posto controvérsia infraconstitucional não enseja o cabimento de recurso extraordinário. Precedentes: ARE 784.580-AgR/PE, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 25/3/2014, e ARE nº 789.527-AgR/SP, Relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 20/3/2014. 2. In casu, o acórdão originariamente recorrido assentou: MANDADO DE SEGURANÇA - Aplicabilidade do limite do art. 115, XII, da Constituição Estadual à licença-prêmio convertida em pecúnia Servidor que não usufruiu da licença prêmio Natureza indenizatória Não incidência do redutor Reexame necessário considerado interposto Recursos não provido. 3. Agravo regimental DESPROVIDO.” (ARE 799.983/SP-AgR, Primeira Turma, Rel. Min. Luiz Fux , DJe de 13/6/14)
+    Quanto à interposição do apelo extremo pelo permissivo da alínea “c” do art. 102, III, da CF/88, também não se mostra cabível o recurso, deixando o Tribunal de origem de julgar válida lei ou ato de governo local contestado em face da Constituição Federal. Colho como precedentes o RE 633.421-AgR/MS, 1ª Turma, Rel. Min. Cármen Lúcia, unânime, DJe 12.4.2011; e o RE 597.003-AgR/RJ, 2ª Turma, Rel. Min. Eros Grau, unânime, DJe 29.5.2009, verbis:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. PROMOÇÃO. LEI COMPLEMENTAR ESTADUAL N. 53/1990. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO PELAS ALÍNEAS C E D DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    (…)
+    1. A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 do Supremo Tribunal Federal.
+    2. Acórdão recorrido que não julgou válida lei ou ato de governo local contestado em face da Constituição, tampouco julgou válida lei local contestada em face de lei federal. Inviabilidade da admissão do recurso extraordinário interposto com fundamento nas alíneas “c” e “d” do artigo 102, III, da Constituição.
+    3. Agravo regimental a que se nega provimento.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 02 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
