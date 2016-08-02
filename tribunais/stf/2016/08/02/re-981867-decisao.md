@@ -1,0 +1,27 @@
+Decisão: Trata-se de recurso extraordinário contra acórdão de Tribunal Regional Federal da 1ª Região, assim ementado:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. SOCIEDADE COOPERATIVA. PAGAMENTO FEITO A MEMBROS DE CONSELHOS DE ADMINISTRAÇÃO E FISCAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA.
+    1. O pagamento feito a membros dos conselhos de administração e fiscal de sociedade cooperativa sujeita-se à incidência da Contribuição Previdenciária, já que possui natureza remuneratória (TRF – 1ª Região, AMS 0005114-27.2007.4.01.3809/MG, Relator Juiz Federal Cleberson Jpsé Rocha, Oitava Turma, e-DJF1 de 11/6/2010, pág. 270).
+    2. Apelação a que se nega provimento.” (eDOC 23, p. 45)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, XXXV; 93, IX; 150, I; e 195, I, “a”, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que “os membros dos Conselhos da Cooperativa não percebem a remuneração tida como salarial, não se sujeitando, portanto, ao recolhimento da contribuição previdenciária incidente sobre as cédulas de presenças pagas aos membros dos Conselhos supra.” (eDOC 24, p. 27-28)
+    A Presidência do TRF-1 admitiu o recurso por entender preenchidos todos os pressupostos de admissibilidade.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que inexiste a alegada negativa da prestação jurisdicional. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses do recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual a “Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.”
+    Ademais, convém reproduzir o assentado pelo Tribunal de origem:
+    “Com efeito, o entendimento deste Tribunal firma-se no sentido de que, tendo natureza remuneratória, o pagamento feito a membros dos conselhos de administração e fiscal de sociedade cooperativa sujeita-se à incidência da contribuição Previdenciária” (eDOC 23, p. 43)
+    Nesse sentido, a jurisprudência do Supremo tem entendido ser infraconstitucional a discussão acerca da incidência de tributos baseada na natureza da verba.
+    Vejam-se, a propósito, os seguintes julgados:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. NATUREZA JURÍDICA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. 1. A controvérsia relativa à natureza jurídica das verbas percebidas pelo contribuinte, para fins de incidência da contribuição previdenciária, demanda o reexame do acervo probatório constante dos autos e da legislação infraconstitucional pertinente, circunstância que impede a abertura da via extraordinária. 2. O Supremo Tribunal Federal já reconheceu, no RE 566.621/RS, da relatoria da Ministra Ellen Gracie, a constitucionalidade da aplicação dos arts. 3º e 4º, segunda parte, da Lei Complementar nº 118/2005 às ações ajuizadas posteriormente à vigência da norma, isto é, 9 de junho de 2005. 3. Agravo regimental a que se nega provimento.”
+(ARE 845907 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 09.10.2015)
+    “Agravo regimental no recurso extraordinário. Tributário. Contribuição previdenciária. Verba de representação. Controvérsia acerca da natureza jurídica da verba. Matéria infraconstitucional. Ofensa constitucional indireta ou reflexa. Súmula nº 279 do STF. 1. Possui caráter infraconstitucional a controvérsia relativa à cobrança de contribuição previdenciária sobre valores pagos pelo empregador quando pendente discussão sobre a natureza jurídica das verbas. 2. Para ultrapassar o entendimento do Tribunal de origem acerca da natureza indenizatória da verba de representação, seria necessário, além de se reexaminar a causa à luz da legislação infraconstitucional, se reanalisarem os fatos e as provas constantes dos autos. Eventual ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa. Incidência da Súmula nº 279 desta Corte. 3. Agravo regimental não provido.”
+(RE 600976 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 24.09.2015)
+    Especificamente sobre a contribuição previdenciária incidente sobre cédulas de presença de conselheiros de cooperativas, cito as seguintes decisões monocráticas: RE 968.325, de relatoria da ministra Cármen Lúcia, DJe 31.05.2016; e ARE 733.654, de relatoria do Ministro Roberto Barroso, DJe 03.04.2014.
+    Igualmente, verifica-se que a violação do princípio da legalidade demanda necessariamente a análise de atos normativos infraconstitucionais. Aplicável à espécie, portanto, a Súmula 636 do STF, in verbis: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 02 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
