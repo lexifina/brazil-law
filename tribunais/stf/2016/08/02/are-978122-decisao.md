@@ -1,0 +1,10 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário em que se discute a possibilidade de incorporação da “parcela autônoma” ao vencimento básico dos professores estaduais, no percentual de 50% (cinquenta por cento).
+    Decido.
+    O Supremo Tribunal Federal, no julgamento do ARE 849.397, da relatoria do Ministro Teori Zavascki, entendeu pela inexistência de repercussão geral da controvérsia discutida nos autos (Tema 789). Na oportunidade, a ementa restou assim redigida:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. ESTADO DO RIO GRANDE DO SUL. SERVIDORES PÚBLICOS. VENCIMENTO BÁSICO. INCORPORAÇÃO DE 50% DA PARCELA AUTÔNOMA. OCORRÊNCIA DE DECESSO REMUNERATÓRIO. NECESSIDADE DE REEXAME DA LEGISLAÇÃO ESTADUAL PERTINENTE E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à incorporação de 50% da “parcela autônoma” ao vencimento básico dos servidores públicos do Estado do Rio Grande do Sul, por demandar a interpretação das Leis Estaduais 10.395/95 e 13.733/11, é de natureza infraconstitucional. 2. É pacífico na jurisprudência desta Corte o entendimento de que é inviável, em sede de recurso extraordinário, a verificação, caso a caso, de decesso remuneratório decorrente de alteração no regime jurídico de servidores públicos, já que indispensável seria a reapreciação do conjunto fático-probatório dos autos (Súmula 279). 3. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009). 4. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática de repercussão geral nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 2 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
