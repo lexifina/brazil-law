@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1655, de 29 de julho de 2016
+Altera a Instrução Normativa RFB nº 1.631, de 22 de abril de 2016, que estabelece regras especiais sobre obrigações tributárias acessórias para as pessoas jurídicas que gozam dos benefícios fiscais de que trata a Lei nº 12.780, de 9 de janeiro de 2013, relativos à realização, no Brasil, dos Jogos Olímpicos e Paralímpicos de 2016.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 6º e 27 da Instrução Normativa RFB nº 1634, de 6 de maio de 2016, resolve:
