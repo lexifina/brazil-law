@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1656, de 29 de julho de 2016
+Altera a Instrução Normativa RFB nº 1.079, de 3 de novembro de 2010, que dispõe sobre o tratamento tributário aplicável às variações monetárias dos direitos de crédito e das obrigações do contribuinte em função da taxa de câmbio.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 30 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e no art. 1º do Decreto nº 8.451, de 19 de maio de 2015, resolve:
