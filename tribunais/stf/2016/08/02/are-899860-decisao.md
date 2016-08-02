@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Turma Recursal Federal de Sergipe que reformou sentença para afastar o reconhecimento da decadência do direito de pleitear parcelas de seguro-desemprego devidas a empregado doméstico optante pelo FGTS e condenar a União ao pagamento de valores referentes ao seguro-desemprego.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 5º, XXXV, LIV e LV, 37, caput, e 97, todos do Texto Constitucional. Sustenta-se, em síntese, que o acórdão recorrido afrontou os princípios da inafastabilidade da jurisdição, do contraditório e da ampla defesa, da legalidade, bem como desrespeitou a cláusula de reserva de plenário ao afastar a aplicação do art. 1º da Lei 10.208/2001, que dispõe sobre o prazo decadencial para o requerimento do seguro-desemprego.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que o acórdão recorrido, ao apreciar a controvérsia a respeito do prazo decadencial para o requerimento do seguro-desemprego, assim asseverou:
+    Ora, não há como a Administração Pública alegar decadência do direito pretendido, se ela mesma criou a situação de fato que no mínimo induziu a recorrente a erro, pois isso seria beneficiar a União de sua própria incúria no trato com os beneficiários daquela prestação da Seguridade Social.
+    Além disso e o mais importante, não há previsão de prazo decadencial para requerimento de seguro-desemprego na Lei n.º 7.998/90, que regula o benefício devido aos empregados de modo geral, exceto os domésticos. É suficiente verificar a redação do art. 6º daquela lei ("O seguro-desemprego é direito pessoal e intransferível do trabalhador, podendo ser requerido a partir do sétimo dia subseqüente à rescisão do contrato de trabalho.").
+    O prazo de "fatal" de 120 dias está previsto na Resolução CODEFAT n.º 467/2005, que extrapolou os limites da lei, o que a torna ilegal, neste ponto. (eDOC - 11, p. 1 )
+    Dessa forma, o Tribunal de origem não declarou a inconstitucionalidade de dispositivo normativo, mas apenas interpretou norma legal. A jurisprudência desta Corte é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula de reserva de plenário, o que não se verificou no caso concreto.
+    Nesse sentido, confiram-se os seguintes precedentes: ARE 822.168-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 18.11.2014; RE 792.917-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 03.06.2014; e RE 773.577-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 19.03.2014.
+    Além disso, ressalto que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, não haver ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e consectários, quando a violação é debatida sob a ótica infraconstitucional, uma vez que, configurada ofensa indireta ou reflexa à Constituição Federal, torna inadmissível o recurso extraordinário. (RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013)
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 02 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
