@@ -1,0 +1,21 @@
+Decisão: Trata-se agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 3ª Região, cuja ementa reproduz-se a seguir (eDOC 4 p. 14):
+    “DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL: COMPETÊNCIA FUNCIONAL – TERRITORIAL. NATUREZA ABSOLUTA.
+    I – Sendo os autores domiciliados em Queimados, no Estado do Rio de Janeiro, e nos Estados do Maranhão, Bahia, Minhas Gerais e São Paulo, foi extinto o processo sem apreciação do mérito, nos termos do artigo 267, V, do Código de Processo Civil, pois a competência desses Juízes Federais na espécie, é funcional-territorial, portanto, de natureza absoluta.
+    II – Apelação desprovida.”
+    Os embargos de declaração foram desprovidos (eDOC 5, p. 27).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 109, § 2º, da Constituição Federal.
+    Nas razões recursais, sustenta-se que a Rede Ferroviária Federal tem sede no Rio de Janeiro. Aduz, ainda, que os atos e cálculos dos valores a serem pagos aos autores também são processadas na mesma capital, motivo pelo qual a ação deva ser ali processada (eDOC 7, p. 26).
+    A Vice-Presidência do TRF da 2ª Região inadmitiu o recurso por esbarrar no óbice da Súmula 279 (eDOC 8, p. 11).
+    É o relatório. Decido.
+    A irresignação merece prosperar, pois o acórdão recorrido não reflete a jurisprudência consolidada do STF, no sentido de que “nas causas intentadas contra a União Federal, os litisconsortes ativos, quando domiciliados em unidades diversas da Federação, poderão, sempre a seu exclusivo critério, ajuizar a concernente ação no foro do domicílio de qualquer deles, sem prejuízo de sua opção por qualquer dos outros critérios definidores da competência da Justiça Federal comum estabelecidos no art. 102, § 2º, da Constituição da República” (Min. Marco Aurélio, relator no RE 451.907 Edv-AgR, Tribunal Pleno, DJe de 14.05.2013).
+    No caso dos autos, o feito foi intentado por dez autores, sendo que dois deles residem na Seção Judiciária do Rio de Janeiro, onde a ação foi ajuizada, e oito em cidades situadas em estados-membros diversos. Assim, de acordo com a jurisprudência desta Corte, a ação poderia ter sido ajuizada não só na Seção Judiciária do Rio de Janeiro, mas em quaisquer outras sedes da Justiça Federal nas quais residem os demais litisconsortes.
+    Confiram-se, ainda, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. CAUSAS INTENTADAS CONTRA A UNIÃO. FORO PARA AJUIZAMENTO DA AÇÃO. § 2º DO ART. 102 DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. 1. A jurisprudência desta nossa Casa de Justiça é firme no sentido de que o § 2º do art. 102 do Magno Texto admite o ajuizamento de ação contra a União Federal no foro da seção judiciária federal da capital do estado membro, mesmo que o autor seja domiciliado em município do interior. 2. Agravo regimental desprovido.” (AI 457.968 AgR, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 12.04.2012)
+    “Litisconsórcio ativo. Art. 109, § 2º, da Constituição Federal. Precedente da Suprema Corte. 1. O art. 109, § 2º, da Constituição Federal não impede a formação de litisconsórcio ativo de autores domiciliados em estados-membros diversos daquele em que ajuizada a causa. Aos litisconsortes é facultada a opção pela propositura da ação em qualquer das possibilidades previstas no dispositivo constitucional. 2. Recurso extraordinário conhecido e provido.” (RE 234.059, Rel. Min. Menezes Direito, Primeira Turma, DJe 21.11.2008)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMPETÊNCIA. JUSTIÇA FEDERAL. ART. 109, § 2º, DA CONSTITUIÇÃO DA REPÚBLICA. EMPRESA PÚBLICA. LITISCONSORTES ATIVOS. FACULDADE DE ELEGER O FORO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 572.069 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 06.05.2014)
+    Ante o exposto, conheço do agravo e dou provimento ao recurso extraordinário, nos termos do art. 21, § 2º, do RISTF, para o fim de anular a decisão de primeiro grau e determinar o prosseguimento do feito em relação aos Recorrentes.
+    Publique-se.
+    Brasília, 3 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
