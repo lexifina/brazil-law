@@ -1,0 +1,36 @@
+DECISÃO
+HABEAS CORPUS. PENAL. TRÂNSITO EM JULGADO DA DECISÃO PROFERIDA NO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPETRAÇÃO DE HABEAS CORPUS NESTE SUPREMO TRIBUNAL APÓS TRANSCURSO DO PRAZO RECURSAL: IMPOSSIBILIDADE DE UTILIZAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA. JORNADA DE TRABALHO. PRETENSÃO DO CÔMPUTO DA REMIÇÃO EM HORAS: IMPROCEDÊNCIA.  HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Habeas corpus, sem requerimento de medida liminar, impetrado pela Defensoria Pública da União, em benefício de Carlos Felix Oliveira, contra julgado da Quinta Turma do Superior Tribunal de Justiça, a qual, em 22.9.2015, negou provimento ao Agravo Regimental no Recurso Especial n. 1.546.982:
+    “PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARTS. 33, CAPUT, E 126, § 1º, DA LEP. EXECUÇÃO PENAL. REMIÇÃO.
+    I - ‘A remição se dá por dias trabalhados, e não por horas, sendo que a contagem de tempo será feita à razão de um dia de pena a cada 3 dias trabalhados, exigindo-se, para cada dia a ser remido, o labor de no mínimo 6 e no máximo 8 horas’ (AgRg no HC n. n. 289.635/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/2/2015).
+    II - Apenas as horas trabalhadas após a jornada máxima legal poderão ser somadas a fim de que, atingindo 6 horas, sejam computadas como 1 dia para fins de remição.
+    Agravo regimental desprovido”.
+    Essa decisão transitou em julgado em 5.11.2015.
+    2. Na presente ação a Impetrante reitera as questões suscitadas nas instâncias antecedentes, afirmando que o Paciente teria “direito à remição das horas acumuladas/extras”, sendo “completamente injusto e ilegal que o Paciente só tenha nos dias em que trabalhou mais que 6 (seis) horas consideradas para fins de remição, se o próprio estabelecimento prisional estabelece horários especiais aos presos nos serviços de conservação e manutenção”.
+    3. Este o teor dos pedidos:
+    “Ex positis, vem requerer a Vossa Excelência, a presente ordem de habeas corpus para que sejam considerados os dias de trabalho aquém da jornada de 6 horas para contagem do instituto da remição”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    4. Os elementos fáticos e jurídicos apresentados não autorizam o prosseguimento desta ação neste Supremo Tribunal.
+    5. Observe-se ter o Paciente deixado escoar o prazo recursal, sobrevindo o trânsito em julgado do acórdão proferido no julgamento do agravo regimental no recurso especial para mais de um mês depois impetrar habeas corpus neste Supremo Tribunal.
+    6. Não se tem, na espécie, utilização de habeas corpus em lugar de recurso ordinário, mas de impetração de habeas corpus como sucedâneo de revisão criminal, pela ocorrência de coisa julgada formal e material.
+    Este Supremo Tribunal assentou não poder ser o “habeas corpus (…) utilizado, em regra, como sucedâneo de revisão criminal, a menos que haja manifesta ilegalidade ou abuso no ato praticado pelo tribunal superior” (HC n. 86.367, Relatora a Ministra Ellen Gracie, DJe 23.10.2008), o que não se pode constatar na espécie vertente.
+    7. Ademais, nos arts. 33 e 126 da Lei de Execução Penal se prescreve que o cálculo para fins da remição da pena deve ser efetuado pelos dias (e não pelas horas) efetivamente trabalhados pelo condenado:
+    “Art. 33. A jornada normal de trabalho não será inferior a 6 (seis) nem superior a 8 (oito) horas, com descanso nos domingos e feriados”; e
+    “Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+    § 1º A contagem de tempo referida no caput será feita à razão de:
+    I - 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificará o profissional - divididas, no mínimo, em 3 (três) dias;
+    II - 1 (um) dia de pena a cada 3 (três) dias de trabalho”.
+    8. Verifica-se, portanto, não haver plausibilidade jurídica nas alegações da Impetrante, pois, para fins de remição, na legislação penal vigente se estabelece ser a contagem de tempo de execução da pena realizada à razão de um dia de pena a cada três dias de trabalho, sendo a jornada normal de trabalho não inferior a seis nem superior oito horas.
+    Nesse sentido, jurisprudência deste Supremo Tribunal:
+    “EMENTA: HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA. JORNADA DE TRABALHO. PRETENSÃO DO CÔMPUTO DA REMIÇÃO EM HORAS, E NÃO EM DIAS TRABALHADOS: IMPROCEDÊNCIA. ORDEM DENEGADA.
+    1. Para fins de remição de pena, a legislação penal vigente estabelece que a contagem de tempo de execução é realizada à razão de um dia de pena a cada três dias de trabalho, sendo a jornada normal de trabalho não inferior a seis nem superior a oito horas, o que impõe ao cálculo a consideração dos dias efetivamente trabalhados pelo condenado e não as horas.
+    2. Ordem denegada" (HC n. 114.393, de minha relatoria, DJ 10.12.2013).
+    Não se há cogitar, na espécie, de constrangimento ilegal na execução penal do Paciente.
+    9. Pela jurisprudência deste Supremo Tribunal, “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental” (HC n. n. 96.883-AgR, de minha relatoria, DJe 1º.2.2011).
+    Nesse sentido, entre outras, as decisões monocráticas proferidas no julgamento do HC n. 121.660, de minha relatoria, DJe 25.3.2014; HC n. 120.758, de minha relatoria, DJe 7.2.2014; HC n. 119.127, de minha relatoria, DJe 3.9.2013; HC n. 118.962, Relator o Ministro Dias Toffoli, DJe 26.8.2013; HC n. 118.869, Relator o Ministro Dias Toffoli, DJe 19.8.2013; HC n. 118.662, Relator o Ministro Gilmar Mendes, DJe 12.8.2013; HC n. 113.904, de minha relatoria, DJe 27.5.2013; HC n. 117.663, de minha relatoria, DJe 10.5.2013; HC n. 117.689, de minha relatoria, DJe 20.5.2013; HC n. 118.438, Relator o Ministro Teori Zavascki, DJe 9.8.2013; HC n. 118.477, Relator o Ministro Ricardo Lewandowski, DJe 8.8.2013; HC n. 93.343, Relator o Ministro Ricardo Lewandowski, DJe 1º.2.2008; HC n. 89.994, Relator o Ministro Ricardo Lewandowski, DJ 22.11.2006; HC n. 94.134, Relator o Ministro Ayres Britto, DJe 4.4.2008; HC n. 93.983, Relator o Ministro Ayres Britto, DJe 18.3.2008; HC n. 93.973, Relator o Ministro Cezar Peluso, DJe 13.3.2008; HC n. 92.881, Relator o Ministro Eros Grau, DJ 31.10.2007; HC n. 88.803, Relator o Ministro Eros Grau, DJ 23.5.2006; HC n. 92.595, Relator o Ministro Menezes Direito, DJ 5.10.2007; HC n. 92.206, Relator o Ministro Joaquim Barbosa, DJ 17.8.2007; HC n. 91.476, Relator o Ministro Gilmar Mendes, DJ 13.8.2007; HC n. 90.978, Relator o Ministro Gilmar Mendes, DJ 13.4.2007; HC n. 87.921, Relatora a Ministra Ellen Gracie, DJ 15.2.2006; HC n. 87.271, Relatora a Ministra Ellen Gracie, DJ 30.11.2005; HC n. 92.989, Relator o Ministro Celso de Mello, DJe 21.2.2008; HC n. 93.219, Relator o Ministro Celso de Mello, DJ 11.12.2007; HC n. 96.883, de minha relatoria, DJ 9.12.2008.
+    10. Pelo exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 3 de agosto de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
