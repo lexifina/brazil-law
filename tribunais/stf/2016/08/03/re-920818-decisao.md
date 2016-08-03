@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de recurso extraordinário remetido ao Tribunal de Justiça do Estado de Minas Gerais, para que se cumprisse o disposto no art. 543-B do CPC/1973, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral, pelo tema 191, cujo paradigma é o RE-RG 596.478, Rel. Min. Dias Toffoli, DJe 2.10.2009 (fl. 358).
+    Encaminhados os autos ao Tribunal de origem, a 2ª Câmara Cível do TJMG entendeu que não seria caso de retratação (fls. 369-371), motivo pelo qual os autos foram reencaminhados a esta Corte, tendo em vista o disposto no art. 1.030, V, “c”, do NCPC (fl. 387).
+    Passo então ao julgamento do apelo.
+    Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos:
+    “Remessa oficial. Ação de cobrança. Contrato administrativo. FGTS e multa. Verbas indevidas. Sentença reformada. 1. O contrato administrativo temporário para prestar serviços em função pública não gera direito ao FGTS e multa para o contratado. 2. Remessa oficial conhecida. 3. Sentença reformada em reexame necessário para rejeitar a pretensão inicial”. (fl. 225)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 37, II, IX e § 2º, do texto constitucional.
+    Nas razões recursais, defende-se, em síntese, que é devido o depósito do FGTS em razão de sua contratação irregular.
+    Decido.
+    Assiste razão à recorrente.
+    Esta Corte, ao julgar o tema 191 da sistemática da repercussão geral, assentou ser devido o depósito de FGTS em favor do trabalhador em caso de declaração de nulidade da contratação com a Administração Pública, nos seguintes termos:
+    “Recurso extraordinário. Direito Administrativo. Contrato nulo. Efeitos. Recolhimento do FGTS. Artigo 19-A da Lei nº 8.036/90. Constitucionalidade. 1. É constitucional o art. 19-A da Lei nº 8.036/90, o qual dispõe ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário. 2. Mesmo quando reconhecida a nulidade da contratação do empregado público, nos termos do art. 37, § 2º, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados. 3. Recurso extraordinário ao qual se nega provimento”. (RE 596478, Rel. Min. ELLEN GRACIE, Rel. p/ Acórdão: Min. DIAS TOFFOLI, Tribunal Pleno, REPERCUSSÃO GERAL - MÉRITO DJe 1.3.2013)
+    No caso dos autos, a recorrente foi designada em 26.5.2003, sem concurso público e sem demonstração do caráter temporário e excepcional da contratação, pelo Tribunal de Justiça do Estado de Minas Gerais, para exercer a função de Oficial de Apoio Judicial, até provimento efetivo do cargo ou dispensa a critério da Administração (fl. 15). Em 26.6.2006, foi dispensada do cargo (fl. 16).
+    Assim, diante da patente nulidade da contratação e do entendimento pacificado pelo STF no âmbito da repercussão geral, verifica-se a necessidade do recolhimento do FGTS.
+    Ante o exposto, reformo o acórdão recorrido, para fins de afirmar o direito da parte recorrente ao recebimento do Fundo de Garantia por Tempo de Serviço, conforme assentado no âmbito do RE-RG 596.478, Rel. p/ acórdão Min. Dias Toffoli, DJe 1º.3.2013. Invertidos os ônus da sucumbência, nos termos fixados na sentença (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 3 de agosto de 2016.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
