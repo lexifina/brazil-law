@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão da 1ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, que negou provimento ao recurso da União, em que se discutia a pontuação devida da Gratificação GDATA aos servidores inativos ou pensionistas, no período de julho de 2002 a abril de 2004.
+    No recurso extraordinário, com fundamento no art. 102, III, “a” e “b”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 5º, caput, II, XXXVI; 7º, XXX; 37, caput, X; 61, § 1º, II, “a”; 39, §3º; 40, §8ºda Constituição Federal. (eDOC 175)
+    Nas razões recursais, sustenta-se, em suma, que
+    “Nessa perspectiva, descabe a condenação ao pagamento do equivalente a 30 pontos nos meses de junho de 2002 a abril de 2004, como imposto pelo acórdão ora recorrido, do que resulta em ofensa manifesta aos arts. 5º, 40, §8º e 103-A, caput, da CRFB.
+    Assim, deverá ser dado provimento ao presente recurso a fim de que seja adequada a pontuação da GDATA no período compreendido entre junho de 2002 e abril de 2004, nos termos da Súmula Vinculante nº. 20, dessa Corte, pois inexistente paridade remuneratória no referido período, sob pena de violação ao disposto nos arts. 5º, 40, §8º, e 103-A, caput, da CRFB.”
+    É o relatório. Decido.
+    Inicialmente, quanto aos artigos 2º; 5º, caput, II, XXXVI; 7º, XXX; 37, caput, X; 61, § 1º, II, “a”; 39, §3º, apontados como supostamente violados carecem do necessário prequestionamento. Esta Corte tem consignado ser inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo ato recorrido. Incide, portanto, a Súmula 282 do STF.
+    Ressalto, também, que o acórdão recorrido não declarou a inconstitucionalidade de lei federal ou de tratado, a inviabilizar o processamento do extraordinário com base na alínea “b” do inciso III do art. 102 da Constituição.
+    Quanto ao mérito, verifico que não prospera a alegada violação à Súmula Vinculante 20, visto que a Corte de origem assim decidiu:
+    “De acordo com a Súmula Vinculante número 20 do Supremo Tribunal Federal, publicada em 10.11.2009, a GDATA passa a ser devida nos seguintes passa a ser devida nos seguintes parâmetros: “A Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA, instituída pela Lei nº 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória no 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.”
+    O julgamento do Tribunal de origem, como se vê, está em consonância com a jurisprudência deste Tribunal (RE, 631.880, Tema 409, e RE 642.827, Tema 447, da sistemática da repercussão geral) e com a Súmula Vinculante 20, de seguinte teor:
+    “A Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA, instituída pela Lei 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do art. 5º, parágrafo único, da Lei 10.404/2002, no período de junho 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.”
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 3 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
