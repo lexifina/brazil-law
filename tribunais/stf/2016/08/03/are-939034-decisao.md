@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 5ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 10):
+    “RECURSO DE APELAÇÃO — DIREITO ADMINISTRATIVO — SERVIDOR PÚBLICO ATIVO —RIBEIRÃO PRETO — LICENÇA-PRÊMIO —RECEBIMENTO EM PECÚNIA — DIREITO SUBORDINADO AOS INTERESSES DA ADMINISTRAÇÃO PÚBLICA. 1. Embora o Estatuto do Servidor Público assegure o direito ao recebimento do beneficio da licença-prêmio em pecúnia, o pagamento está condicionado à oportunidade e conveniência. da Administração Pública. 2. Inteligência dos artigos 168, 169 e 170 da Lei Municipal n.° 3.181/76. 3. Precedentes deste Tribunal de Justiça. 4. Sentença de improcedência mantida. 5. Recurso de apelação desprovido.”
+    No recurso extraordinário (eDOC 2, p. 24-33), com fundamento no art. 102, III, “a” e “c”, da Constituição Federal, aponta-se ofensa ao art. 37, caput, do Texto Constitucional.
+    Nas razões recursais, sustenta-se violação ao princípio da legalidade, uma vez que “não pode o réu se esquivar de suas obrigações legais com os seus servidores, pois o direito destes de receber as referidas licenças prêmio está legalmente previsto” (eDOC 2, p. 25).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário com base nas Súmulas 279, 280 e 282 do STF (eDOC 2, p. 69-70).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Quando do julgamento da apelação, o Tribunal de origem assentou que (eDOC 2, p.. 11-12):
+    “Cuida-se de ação de procedimento ordinário em que o apelante pretende o recebimento, em pecúnia, do beneficio da licença-prêmio ao qual faz jus, nos termos dos artigos 168 e 169, ambos da Lei Municipal nº 3.181/76 (Estatuto dos Servidores do Município de Ribeirão Preto).
+    Embora o referido texto legal assegure, de fato, ao servidor público, mediante expressa e irretratável declaração, o direito de receber em pecúnia, pela metade ou integralmente, o beneficio da licença-prêmio, a regra não pode ser aplicada isoladamente, sem observância do artigo 170 do mesmo Codex, que estabelece o seguinte: "em qualquer das hipóteses do artigo anterior, se não puder ser atendido o funcionário, de imediato, por insuficiência de dotação, as opções ficarão inscritas em ordem cronológica, para atendimento oportunamente".
+    Desta forma, se, por um lado, a Administração reconhece que o apelante faz jus à conversão da licença-prêmio em pecúnia, por outro; o exercício deste direito deve respeitar a oportunidade e a conveniência da administração pública.
+    Além disso, o pagamento em pecúnia da licença-prêmio depende de disponibilidade financeira da Administração, não cabendo ao Judiciário interferir na ordem cronológica legal, uma vez que o servidor, ao fazer a opção de recebimento em pecúnia, não desconhece tal limitação (TJ-SP, Apelação n.° 9155315- 53.2009.8.26.0000, Terceira Câmara de Direito Público, Rel. Des. Marrey Uint, v.u., j. 27.9.2011).”
+    Desta forma, eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação local aplicável à espécie, notadamente a Lei nº 3.181/1976, do Município de Ribeirão Preto, de modo a inviabilizar o processamento do apelo extremo, tendo em conta os enunciados das Súmulas 279 e 280 do STF. Nesse sentido, confiram-se os seguintes precedentes: ARE 819.417-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 02.02.2015; e ARE 784.580-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 08.04.2014.
+    Ademais, o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição Federal, o que inviabiliza o recurso extraordinário pela alínea c do inciso III do art. 102 do Texto Constitucional.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 3 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
