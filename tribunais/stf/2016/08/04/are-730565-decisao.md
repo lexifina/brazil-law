@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ENTIDADES HOSPITALARES. DISPENSÁRIO DE MEDICAMENTOS. INEXIGILIBIDADE DE RESPONSÁVEL TÉCNICO FARMACÊUTICO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu recurso extraordinário, manejado com arrimo nas alíneas “a” e “c” do permissivo constitucional, contra acórdão assim ementado:
+    “CONSELHO REGIONAL DE FARMÁCIA (CRF). ENTIDADES HOSPITALARES. DISPENSÁRIO DE MEDICAMENTOS. INEXIGIBILIDADE DE RESPONSÁVEL TÉCNICO FARMACÊUTICO. 1. Inexigibilidade de responsável técnico farmacêutico pelos dispensários de medicamentos mantidos pelas entidades hospitalares. Precedentes desta Corte e do STJ. 2. Apelação não provida.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões de recurso extraordinário sustenta preliminar de repercussão geral e, no mérito, alega ofensa aos artigos 5º, XIII, e 196 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que eventual violação constitucional, se existente, seria reflexa.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, § 3º, da CF).
+    O recurso não merece prosperar.
+    A obrigação das entidades hospitalares contratarem farmacêuticos como responsáveis técnicos, quando sub judice a controvérsia, demanda a análise da legislação infraconstitucional aplicável à espécie (Lei 5.991/1973). Nesse sentido, ARE 923.200-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 1º/12/2015, ARE 824.521-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 7/11/2014, com as seguintes ementas, respectivamente, verbis:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Conselho Regional de Farmácia. Distribuição de medicamentos. 3. Necessidade de revolvimento da legislação infraconstitucional – Medida Provisória 2.190/2001 e Lei 5.991/73. Impossibilidade. Precedentes. 4. Agravo regimental a que se nega provimento.”
+    “DIREITO ADMINISTRATIVO EXIGÊNCIA DE FARMACÊUTICO COMO RESPONSÁVEL TÉCNICO. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 15.11.2012. A controvérsia, a teor do que já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar, nesse compasso, em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto compreender de modo diverso exigiria análise da legislação infraconstitucional encampada na decisão prolatada pela Corte de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Corte. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido.”
+    Ademais, a admissibilidade do recurso extraordinário interposto com base na alínea c do permissivo constitucional exige que o recorrente demonstre, inequivocamente, que o Tribunal a quo julgou válida lei ou ato de governo local contestado em face da Constituição, o que não se verifica na espécie.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 4 de agosto de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
