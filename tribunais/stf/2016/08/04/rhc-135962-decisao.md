@@ -1,0 +1,39 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, com pedido de liminar, interposto por Rodolfo Furtado de Carvalho Bullara, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC nº 333.382/SP, Relator o Ministro Félix Fischer.
+    Alega o recorrente o cerceamento de defesa consubstanciado na ausência de intimação de seu patrono para a sessão do Tribunal Regional Federal da 3ª Região, que julgou os recursos apelação interpostos.
+    Aduz, para tanto, que
+    “o Relator da apelação (Desembargador Federal Nino de Oliveira Toldo), na data em que havia pautado o julgamento do recurso (25 de maio de 2015), estava de férias (conforme portaria do TRF 3 acostada às fls. 33 dos autos), fato que fez com que o julgamento não ocorresse naquela data e causasse enorme prejuízo à defesa que não pode sustentar oralmente suas teses (...)” (fl. 94).
+    Por essa razão, defende que
+    “não se trata de um mero adiamento do julgamento. Na verdade, conforme se depreende dos autos, na data em que supostamente ocorreria o julgamento da apelação e para qual a defesa foi intimada para realização de sustentação oral (25 de maio de 2015), o Desembargador Federal Relator estava de férias, fato que faz com que a sessão nunca pudesse se realizar.
+    Assim, não havendo mera adiamento da sessão de julgamento, mas sim sua inexistência (em razão do fato do Desembargador Relator estar de férias)” (fl. 94).
+    Requer o provimento do recurso para que seja concedida a ordem de habeas corpus, reconhecendo-se “a nulidade do acórdão que julgou o recurso de apelação sem que fosse dada oportunidade à defesa de realizar sustentação oral” (fl. 95).
+    Com contrarrazões, o recurso manejado foi encaminhado a esta Suprema Corte.
+    Instado a se manifestar o Ministério Público Federal, pelo parecer da Subprocuradora-Geral da República Cláudia Sampaio Marques, opinou pelo desprovimento do recurso.
+    É o relatório.
+    Decido.
+    Em consulta ao andamento processual da Corte, constata-se foi impetrado em favor do recorrente o HC nº 130.366/SP, de minha relatoria, ao qual a Segunda Turma, em 11/12/15, negou provimento ao agravo regimental, em acórdão assim ementado:
+    “Agravo regimental em habeas corpus. Processual Penal. Nulidade do julgamento da apelação do agravante por falta de intimação da sessão. Nulidade do julgamento dos aclaratórios por ausência de intimação da defesa para realizar sustentação oral. Enunciado da Súmula nº 691 da Suprema Corte. Ausência de ilegalidade ou de ato que configure patente constrangimento ilegal capaz de justificar a mitigação do verbete em questão. Regimental não provido.
+    1. O regimento interno do Tribunal Regional Federal da 3ª Região prevê, no art. 143, que o julgamento de embargos de declaração não comporta sustentação oral. Logo, não há que se falar em nulidade do julgamento dos aclaratórios por ausência de intimação da defesa para essa finalidade. Precedentes.
+    2. Consoante entendimento da Corte, ‘o adiamento do julgamento de apelação interposta ao Tribunal Regional Federal da 3ª Região não implica a exigência de nova intimação (rectius: notificação) do defensor constituído’” (RHC nº 84.084/SP, Primeira Turma, Relator o Ministro Joaquim Barbosa, 28/5/04).
+     3. Ausente qualquer ilegalidade patente capaz de temperar o rigor do enunciado da Súmula nº 691 da Suprema Corte, que, assim, deve ser aplicada.
+     4. Agravo regimental ao qual se nega provimento” (DJe de 14/12/15).
+    Do voto condutor do acórdão que proferi na ocasião, destaco o seguinte excerto, pertinente ao caso:
+    “No que tange à alegada nulidade decorrente da falta de intimação da sessão de julgamento da apelação do agravante, anoto que sua defesa foi intimada para seu julgamento, a ser realizado, inicialmente, na sessão prevista para 2[5]/5/15 (fl. 14 do anexo 4).
+    Em razão da ausência justificada do Relator naquela sessão, o feito foi adiado, conforme certidão daquele Tribunal Regional (fl. 14 do anexo 4).
+    Todavia, consoante indicado nos autos, o processo foi a julgamento em 9/6/15, ou seja, na segunda sessão após aquela inicialmente prevista (fl. 14 do anexo 4).
+    Nessas condições, considerado que o caso não cuida da retirada do processo da pauta de julgamentos, mas apenas de adiamento para uma das sessões subsequentes, não há que se falar na ocorrência da apontada nulidade.
+    Perfilhando esse entendimento, destaco julgados da Corte:
+    ‘HABEAS CORPUS ORIGINÁRIO. HOMICÍDIO QUALIFICADO. CONDENAÇÃO TRANSITADA EM JULGADO. INTIMAÇÃO PESSOAL DA DEFENSORIA PÚBLICA. PAUTA DE JULGAMENTO DA APELAÇÃO. ADIAMENTO DA SESSÃO PARA DATA PRÓXIMA. DESNECESSIDADE DE NOVA INTIMAÇÃO PESSOAL. AUSÊNCIA DE NULIDADE. ORDEM DENEGADA. 1. O Defensor Público foi pessoalmente intimado da data provável de julgamento da apelação. 2. Possibilidade de julgamento do recurso em qualquer sessão seguinte à inicialmente fixada, independentemente de nova intimação, tendo em vista que o processo não foi retirado da pauta de julgamentos’ (HC nº 101.486/ES, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 1º/4/14);
+    ‘RECURSO EM HABEAS CORPUS. PROCESSO PENAL. ADIAMENTO DO JULGAMENTO DE RECURSO. NOVA INTIMAÇÃO DE ADVOGADO. DESNECESSIDADE. RECURSO NÃO PROVIDO. 1. O adiamento do julgamento de apelação interposta ao Tribunal Regional Federal da 3ª Região não implica a exigência de nova intimação (rectius: notificação) do defensor constituído. 2. A impetração não cuida de retirada do julgamento de pauta, mas apenas de adiamento para a sessão subseqüente, por solicitação do relator. 3. Recurso conhecido mas desprovido’ (RHC nº 84.084/SP, Primeira Turma, Relator o Ministro Joaquim Barbosa, DJ de 28/5/04);
+    ‘Habeas Corpus. 2. Crime contra o Sistema Financeiro (art. 17 da Lei nº 7.492/86). 3. Alegação de nulidades no julgamento do recurso de Apelação Ministerial. 4. Sustentação de Cerceamento de Defesa. 5. Inocorrência 6. Regular intimação do advogado do Paciente na Imprensa Oficial. 7. Julgamento adiado. 8. Possibilidade de julgamento em qualquer sessão seguinte, independente de nova intimação. 9. Crime continuado. 10. Observância do Princípio da Correlação ou Congruência. Precedentes. 11. Ordem indeferida (HC nº 83.675/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ 27/2/04)” (grifos conforme o original).
+    Conclui-se, portanto, que este recurso ordinário apresenta exatamente o mesmo objeto e causa de pedir do HC nº 130.366/SP, razão pela qual não há razão para o seu prosseguimento, visto que se trata de mera reiteração de impetração anterior já decidida pela Corte.
+    A jurisprudência da Corte “não conhece de habeas corpus em que se reitera pretensão veiculada em impetração anterior já examinada e denegada” (HC nº 126.835/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 18/8/15).
+    Perfilhando esse entendimento: HC nº130.772/MG-AgR, Primeira Turma, Relator o Ministro Edosn Fachin, DJe de 1º/2/16; HC nº 129.705/SP-AgR, Segunda Turma, de minha relatoria, DJe de 14/12/15; HC nº 92.555/SC-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 24/10/11; e HC nº 81.107/SP, Segunda Turma, Relator o Ministro Néri da Silveira, DJ de 5/10/01, entre outros.
+    Destaco ainda, as seguintes decisões monocráticas: HC nº 110.804/TO, de minha relatoria, DJe de 3/11/11; HC nº 97.731/SP, Relator o Ministro Ricardo Lewandowski, DJ de 10/2/09; HC nº 96.776/BA, Relator o Ministro Menezes Direito, DJ de 21/1108; HC nº 83.131/SP, Relator o Ministro Celso de Mello, DJ de 15/8/03; e HC nº 80.636/MG, Relator o Ministro Nelson Jobim, DJ de 5/9/01.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso ordinário e determino o seu arquivamento.
+    Publique-se.
+    Brasília, 4 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
