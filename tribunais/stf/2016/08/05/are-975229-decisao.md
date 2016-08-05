@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 22, 24, 146, II, a, e 155, III, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie (Lei estadual n° 13.296/2008). A aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada violação da Constituição da República. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULOS AUTOMOTORES – IPVA. RESPONSABILIDADE SOLIDÁRIA. LEI ESTADUAL N. 6.606/1989. IMPOSSIBILIDADE DE ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. DESCABIMENTO DO RECURSO PELA AL. C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 938514 AgR, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 01/03/2016, PROCESSO ELETRÔNICO DJe-051 DIVULG 17-03-2016 PUBLIC 18-03-2016).
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Tributário. IPVA. Alienação fiduciária. Contribuinte. Necessidade de reexame da legislação ordinária e do contrato. Ofensa constitucional indireta ou reflexa. 1. Para ultrapassar o entendimento do Tribunal a quo, concernente ao enquadramento do credor fiduciário como proprietário do veículo automotor para fins de cobrança de IPVA, seria necessário o reexame da causa à luz da legislação ordinária (Código Civil, Decreto-lei nº 911/69, Lei Estadual nº 14.937/03) e do contrato de alienação fiduciária. 2. A afronta ao texto constitucional, se houvesse, seria reflexa ou indireta, o que não enseja a abertura da via extraordinária. Incidência das Súmulas 279 e 454 da Corte. 3. Agravo regimental não provido.” (ARE 830373 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 03/03/2015, PROCESSO ELETRÔNICO DJe-083 DIVULG 05-05-2015 PUBLIC 06-05-2015).
+    Quanto à interposição do apelo extremo pelo permissivo da alínea “c” e “d” do art. 102, III, da CF/88, também não se mostra cabível o recurso, deixando o Tribunal de origem de julgar válida lei ou ato de governo local contestado em face da Constituição Federal. Colho os seguintes precedentes o RE 633.421-AgR/MS, 1ª Turma, Rel. Min. Cármen Lúcia, unânime, DJe 12.4.2011; e o RE 597.003-AgR/RJ, 2ª Turma, Rel. Min. Eros Grau, unânime, DJe 29.5.2009, verbis:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. PROMOÇÃO. LEI COMPLEMENTAR ESTADUAL N. 53/1990. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO PELAS ALÍNEAS “C” E “D” DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    (…)
+    1. A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 do Supremo Tribunal Federal.
+    2. Acórdão recorrido que não julgou válida lei ou ato de governo local contestado em face da Constituição, tampouco julgou válida lei local contestada em face de lei federal. Inviabilidade da admissão do recurso extraordinário interposto com fundamento nas alíneas “c” e “d” do artigo 102, III, da Constituição.
+Agravo regimental a que se nega provimento.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 05 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
