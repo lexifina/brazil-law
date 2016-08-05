@@ -1,0 +1,35 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO FUNCIONAL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra julgado do Colégio Recursal de Presidente Venceslau/SP, que manteve a seguinte sentença:
+    “Narram os autores que são servidores públicos municipais de Presidente Venceslau, regidos pelo Estatuto do Servidor, Leis Complementares 001/92 e 002/92.
+    Com a vigência da segunda, os servidores, conforme seu artigo 13°, admitidos há mais de 10 anos antes da vigência da lei, tiveram seus vencimentos fixados no Nível II, os admitidos há mais de 20 anos antes da vigência, no Nível III e os com menos de 10 anos no Nível I.
+    O artigo 8° da lei em comento disciplina a evolução funcional dos servidores, bem como a progressão salarial, promoção e ascensão - mudança de nível.
+    Os artigos 10 e 11 também regram a mudança de nível, do valor dos vencimentos, que deve ocorrer quando o servidor atingir 23 pontos dentro do prazo de 05 anos, consecutivos ou não, ou seja, se durante esse período o servidor [que] não tenha faltas ou infrações, adquire 24 pontos, o que lhes garante a progressão funcional com mudança de nível.
+    O réu, até o mês de maio de 2001, não observou o previsto nos artigos 8°, 10 e 11 das leis acima citadas, não realizando avaliação de desempenho dos servidores, deixando de atribuir os pontos, impedindo a progressão e mudança de nível do valor de seus vencimentos.
+    Em junho de 2011, o réu fez a correção da progressão funcional, com mudança de nível de topos os servidores da ativa, adequando os vencimentos.
+    Argumentam, assim, que a não observância da lei até maio de 2011 causou prejuízo mensal, razão pela qual requerem que o réu seja condenado a pagar as diferenças até a data acima, tudo atualizado.
+    O feito teve regular trâmite, sendo que à 230/269 os autores apresentaram conta de liquidação, com concordância do réu (fls. 286).
+    Os pedidos procedem.
+    Realmente ficou em mora o requerido, não observando o disposto no Estatuto do Servidor Público Municipal de Presidente Venceslau (…). Nos termos da legislação municipal, constituem formas diversas de evolução funcional a progressão e a promoção. A primeira condiciona-se à obtenção de pontuação mínima (23 pontos), no interstício de cinco anos (consecutivos ou não), segundo os critérios definidos nos Artigos 8, 11 e 12; a segunda depende apenas do tempo de serviço. Para nenhuma delas, exige a lei que haja prévio pedido administrativo para que se reconheça o direito. (…)
+    Em uma análise sistemática das leis complementares, extrai-se que os funcionários públicos municipais de Presidente Venceslau têm direito à progressão de nível, decorrido um ano após a confirmação do servidor no Quadro de Pessoal Permanente.
+    Nos exatos termos da lei complementar municipal, a confirmação ocorre apenas vinte e quatro meses após a nomeação do servidor e, ainda, mediante parecer do departamento pessoal da municipalidade.
+    Esse direito, inclusive, já foi reconhecido pelo Tribunal de Justiça do estado de São Paulo, nos autos da Apelação n. 994.08.142739-0, cujo acórdão encontra-se às fls. 33/37.
+    Aliás, a ré não apresentou nenhuma insurgência quanto à matéria de fato, ou seja, ausência dos requisitos por parte dos autores que, inclusive, apresentaram cálculos detalhados, conforme fls. 230/269.
+    Em resumo, a pretensão merece acolhimento, em razão do cumprimento tardio por parte da ré de sua própria legislação.
+    Pelo exposto, julgo procedentes os pedidos, para condenar a FAZENDA PUBLICA MUNICIPAL DE PRESIDENTE VENCESLAU em pagar R$ 553,68 ao autor JOSÉ ALBERTO DOS SANTOS, R$ 3.692,94 ao autor MANOEL FRANCISCO DE SOUZA e R$ 5.502,26 ao autor LINEU PEREIRA, valores que serão corrigidos na forma da Lei Federal 9.494/97 a partir de junho de 2015.
+    Por consequência, declaro extinto o processo com resolução do mérito, na forma do artigo 269, inciso I, do Código de Processo Civil” (fl. 99, doc. 3).
+    2. O Agravante alega contrariados os arts. 2º, 3º, inc. I, 5º, caput, e 37, inc. X, da Constituição da República, sustentando que “os Recorridos utilizam dispositivos que dispõem sobre o plano ou quadro de carreira para pleitear reajuste salarial diferenciado, o que, a toda evidência, afronta o disposto no artigo 37, inciso X, da Constituição Federal de 1988, bem como a máxima da isonomia elencada no ‘caput’ do artigo 5º da Lei Maior. Assim ante a explanação acima, não se há falar aqui na manutenção da r. sentença e do V. Acórdão” (fl. 103, doc. 3).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e incidência da Súmula n. 279 deste Supremo Tribunal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A apreciação do pleito recursal demandaria análise da legislação infraconstitucional aplicável à espécie (Leis Complementares municipais ns. 1/1992 e 2/1992) e reexame do conjunto fático-probatório constante do processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 280 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDORA PÚBLICA MUNICIPAL. PROGRESSÃO FUNCIONAL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 879.274-AgR, de minha relatoria, Segunda Turma, DJe 3.6.2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO FUNCIONAL. POSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. OFENSA REFLEXA. ANÁLISE DE NORMA INFRACONSTITUCIONAL. PRECEDENTES. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. AGRAVO DESPROVIDO” (ARE n. 710.059-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 29.2.2016).
+    “DIREITO PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO DO MUNICÍPIO DE BELO HORIZONTE. LEI MUNICIPAL Nº 7.169/1996. PROGRESSÃO FUNCIONAL. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA 280/STF. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 09.10.2012” (ARE n. 748.649-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 3.9.2014).
+    Nada há a prover quanto às alegações do Agravante.
+    6. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de agosto de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
