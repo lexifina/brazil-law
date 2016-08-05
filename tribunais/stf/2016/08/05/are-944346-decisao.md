@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Colégio Recursal da 31ª Circunscrição Judiciária da Comarca de Marília/SP, que negou provimento ao recurso em que se pleiteava o recebimento de horas extras, adicional noturno e intervalos intrajornada, e seus reflexos, por entender inaplicável aos servidores estatutários as disposições constantes na CLT.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 1º, III e IV; 5º, caput; 6º; 7º, XXII; e 196, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que a decisão recorrida, ao conceder o direito de intervalo de descanso e refeição a um único trabalhador, fere princípios básicos e pétreos da Constituição Federal, porquanto trata desigualmente trabalhadores na mesma função.
+    A Presidência do Colégio Recursal da 31ª Circunscrição Judiciária/SP inadmitiu o recurso, em virtude de inexistir ofensa direta à Constituição Federal; e de incidir na hipótese a Súmula 280/STF.
+    É o relatório. Decido.
+    Inicialmente, observa-se que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. A jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário, quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Além disso, não foram opostos embargos declaratórios com a finalidade de sanar a omissão. Incidem, portanto, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Ademais, o exame das razões recursais exige análise da legislação infraconstitucional, pois eventual contrariedade com a Constituição Federal é apenas reflexa, o que não autoriza o acesso à via extraordinária. Nesse sentido, invoco os seguintes julgados: ARE 793.670-AgR, da Relatoria do Ministro Luís Roberto Barroso, Primeira Turma, DJe 13.02.2015; AI 816.441-AgR, da relatoria da Ministra Ellen Gracie, Segunda Turma, DJe 08.02.2011.
+    Por fim, verifica-se que o Tribunal de origem assim asseverou (fls. 355-356):
+    “Com efeito, o artigo 66, ‘caput’, da Lei Complementar nº 11/91 do Município de Marília, estabelece que ‘Ressalvadas as situações especiais previstas em lei, a jornada de trabalho dos servidores púbicos municipais, inclusive ocupantes de cargos em comissão, é de 40 (quarenta) horas semanais, sendo 8 (oito) horas diárias, divididas em 2 (dois) turnos, com o intervalo de, no mínimo, 1 (uma) hora entre eles’, sendo que o § 4º, determina que ‘Por necessidade do serviço, definida pelo respectivo Secretário ou equivalente, poderá haver jornada de 12 (doze) horas de trabalho, com intervalo de 36 (trinta e seis) horas para descanso.”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria a análise da legislação local aplicável à espécie (LC 11/1991 do Município de Marília) o que também inviabiliza o processamento do apelo extremo, nos termos da vedação contida na Súmula 280 do STF.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 05 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
