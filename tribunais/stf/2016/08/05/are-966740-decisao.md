@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado (eDOC 4, pp. 26-27):
+    “ADMINISTRATIVO. APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. AÇÃO ORDINÁRIA. SERVIDORA PÚBLICA ESTADUAL. RECONHECIMENTO DA EQUIVALÊNCIA A NÍVEL SUPERIOR DOS DIPLOMAS DE BACHAREL EM TEOLOGIA, LICENCIATURA PLENA EM EDUCAÇÃO RELIGIOSA E BACHAREL EM FILOSOFIA CRISTÃ REALIZADOS EM INSTITUIÇÃO DE ENSINO RELIGIOSO. DIREITO ADQUIRIDO RESGUARDADO EM PARECER APROVADO PELO CONSELHO DE EDUCAÇÃO DO CEARÁ. CONDENAÇÃO DA FAZENDA PÚBLICA EM HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. ANÁLISE DO VALOR ARBITRADO. REDUÇÃO. POSSIBILIDADE. PRECEDENTES DO STJ. APELO E REEXAME CONHECIDOS E PROVIDOS EM PARTE.
+    1. Embora a Lei de Diretrizes e Bases da Educação Nacional – Lei nº 9.394/96 tenha revogado o Decreto-Lei nº 1.051/69, que considerava os cursos ministrados por Seminários Maiores, Faculdades Teológicas e instituições congêneres curso livres, não sujeitos à autorização e reconhecimento pelo MEC, no caso, a autora adquiriu o direito de ver reconhecido seus cursos expedidos pela faculdade Teológica Filadélfia Internacional, por haver concluído os cursos em data anteriores à emissão do Parecer CES 241/99 do Conselho Nacional de Educação, primeira regulamentação específica disciplinando os curso universitários de teologia (bacharelado, mestrado e doutorado), conforme decidido no Parecer nº 160/2000 do Conselho de Educação do Ceará.
+    2. Finalmente, em relação aos honorários advocatícios, acolho o pedido formulado pelo apelante para a sua redução, estipulando-os em 5% (cinco por cento) sobre o valor da condenação.
+    3. Apelo e reexame conhecidos e providos em parte.”
+    Os embargos de declaração foram rejeitados (DOC 5, pp. 27-32 e eDOC 6, pp. 1-3).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXVI, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “À luz do Decreto-Lei nº 1.051/69, a recorrida unicamente fazia jus a aproveitar seu diploma proveniente de Faculdade Teológica par fins de adentrar em curso de ensino superior sem a necessidade de prestar concurso de vestibular para tanto, podendo assim concluir tais estudos e obter então um diploma efetivamente de ensino superior.” (eDOC 6, p. 21).
+    Alega-se, ainda, que “Não houve qualquer previsão legal, bem como qualquer margem interpretativa, permitindo que se equiparassem os cursos realizados em Faculdades Teológicas com aqueles provenientes de instituições de ensino superior (…).” (eDOC 6, p. 21).
+    A Vice-Presidência do TJ/CE inadmitiu o recurso por entender que, se houvesse ofensa à Constituição, seria meramente reflexa (eDOC 6, pp. 31-32).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (eDOC 4, p. 33):
+    “No caso, a autora Francisca Euzanyra Belém, concluiu seus cursos junto à faculdade de teologia internacional em 27 de dezembro de 1998 (Diplomas – fls. 23/25), ou seja, antes da data limite contida no item ‘b’ do Parecer CES 241/99, do Conselho Nacional de Educação, primeira regulamentação específica disciplinando os cursos universitários de teologia (bacharelado, mestrado e doutorado), aprovado em 15 de MARÇO de 1999, direito adquirido de ver reconhecido à equivalência de estudos, prevista no revogado Decreto-Lei nº 1.051/69, militando, ainda, em seu favor o contido no art. 5º, inciso XXXVI, da CF/88 e 6º, § 2º, da Lei de Introdução ao código Civil, respectivamente.”
+    Como se depreende desses fundamentos e daqueles que constam da ementa do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o exame da legislação infraconstitucional aplicável à espécie. Dessa forma, resta demonstrado a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 5 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
