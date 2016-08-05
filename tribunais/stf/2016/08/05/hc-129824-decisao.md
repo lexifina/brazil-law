@@ -1,0 +1,13 @@
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. COMISSÃO PARLAMENTAR DE INQUÉRITO. NEMO TENETUR SE DETEGERE. DIREITO DE PERMANECER EM SILÊNCIO. DIREITO À ASSISTÊNCIA DE ADVOGADO. DIREITO A DISPENSA DE ASSINATURA DE TERMO DE COMPROMISSO. AUDIÊNCIA JÁ REALIZADA. PERDA SUPERVENIENTE DO OBJETO. HABEAS CORPUS PREJUDICADO.
+    Decisão: Trata-se de habeas corpus preventivo impetrado por BRUNO AUGUSTO VIGO MILANEZ em favor de RAUL HENRIQUE SROUR contra ato do Presidente da CPI instaurada junto a Câmara dos Deputados, com finalidade de investigar a prática de supostos atos ilícitos e irregularidades ocorridos no âmbito da empresa pública Petrobrás – Petróleo Brasileiro S/A, em decorrência das deflagradas operações “Casa Blanca” e “Lava jato”, da Polícia Federal, que havia designado audiência em 20/8/2015 para que o paciente prestasse esclarecimentos.
+    No presente writ, o impetrante, requer liminarmente e no mérito, em síntese, a garantia ao paciente de que: “(a) compareça perante a CPI da Petrobrás acompanhado de seu advogado e que possa se comunicar com seu procurador – pessoal e reservadamente – caso se faça necessário; (b) não seja compelido a assinar o termo de compromisso de dizer a verdade; (c) não seja obrigado a responder questionamentos oriundos da ilustre Comissão; (d) não seja preso ou de qualquer forma constrangido em decorrência do exercício do direito ao silêncio regularmente exercido; (e) que em caso de deferimento da medida cautelar e posterior descumprimento por parte da respectiva CPI - ou de seus membros - seja autorizado aos impetrantes o direito de fazer cessar a participação do paciente no procedimento de inquirição”.
+    O Ministério Público Federal manifestou-se pela prejudicialidade.
+    É o relatório.
+    O pedido e a causa de pedir deduzidos nas razões da impetração visam assegurar ao paciente, durante a tomada de seu depoimento junto A CPI da Petrobrás na Câmara dos Deputados, na data de 20/8/2015, os direitos de não se autoincriminar, de ser acompanhado de advogado e de permanecer em silêncio.
+    Contudo, em consulta ao sítio da Câmara dos Deputados constata-se nos registros internos do Núcleo de Redação Final em Comissões Parlamentares de Inquérito, o texto da reunião n.º 1.433/2015, na qual foi ouvido em depoimento o paciente, Raul Henrique Srour, no Plenário da Câmara dos Deputados, aos 20/8/2015, audiência com início às 10:00 horas e término às 12 horas e 57 minutos.
+    Ex positis, JULGO PREJUDICADO o habeas corpus, pela perda superveniente do objeto, com fundamento no artigo 21, IX, do RISTF.
+    Publique-se. Int..
+    Brasília, 5 de agosto de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
