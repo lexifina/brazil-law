@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AUSÊNCIA DE PREQUESTIONAMENTO – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. A Turma Recursal Única do Tribunal de Justiça do Estado de Mato Grosso consignou, em síntese:
+    RECURSO INOMINADO – ABASTECIMENTO DE ÁGUA – PROCESSO EXTINTO – SENTENÇA ANULADA – QUESTÃO EXCLUSIVAMENTE DE DIREITO – APLICAÇÃO DO ARTIGO 515, § 3º, CPC – REGISTRO DE CONSUMO ACIMA DA MÉDIA – RECLAMAÇÃO ADMINISTRATIVA NÃO ATENDIDA – SUSPENSÃO DOS SERVIÇOS – FALHA NA PRESTAÇÃO DO SERVIÇO – REVISÃO DA FATURA – DEVIDO – DANO MORAL CONFIGURADO – RECURSO PARCIALMENTE PROVIDO.
+    Se o processo foi extinto sem resolução do mérito e a lide versar sobre questão exclusivamente de direito e encontrar-se em condições de imediato julgamento, deve ser decidido nos termos do parágrafo 3º do artigo 515, do Código de Processo Civil.
+    O artigo 14 do Código de Defesa do Consumidor atribui ao fornecedor de serviços a responsabilidade objetiva quanto aos danos causados ao consumidor, fundada na teoria do risco da atividade.
+    A falha no serviço prestado pela concessionária, consistente registro de consumo acima da média do consumidor, que não consegue solucionar o problema administrativamente e ainda tem seu abastecimento de água suspenso, fatos que geram a obrigação de indenizar a título de dano moral, na modalidade “in re ipsa”, bem como ensejo a revisão do valor da fatura questionada.
+    No extraordinário cujo trânsito pretende alcançar, a recorrente afirma a violação dos artigos 5º, incisos II, X e LV, e 98, inciso I, da Constituição Federal. Argui desrespeito à ampla defesa e ao contraditório em razão do indeferimento do pedido de realização de prova pericial. Aduz a incompetência dos Juizado Especias para julgamento da causa, porquanto indispensável perícia. Sustenta não existir lei obrigando a concessionária a emitir fatura com base na média do consumo. Diz não estarem demonstrados os elementos necessários a ensejarem o dever de indenizar.
+    2. A recorribilidade extraordinária mostra-se distinta daquela revelada por simples revisão do decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, consideradas as premissas constantes do ato impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    A Turma Recursal expressamente consignou:
+    Analisando o histórico de consumo do Requerente, constata-se que a fatura questionada de fevereiro/2013, no valor de R$ 99,86, registrou um consumo que está muito acima da sua média, se comparados com os consumos registrados tanto nos meses antecedentes como nos meses subsequentes, sendo que tanto no mês de janeiro/2013 e março/2013, as faturas foram exatamente no valor de R$ 19,80, o que evidencia falha na prestação do serviço.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, a reapreciação dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    No mais, o sustentado não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    A par desse aspecto, o acórdão impugnado por meio do extraordinário revela interpretação de normas estritamente legais, em especial o Código de Defesa do Consumidor, não ensejando campo ao acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 5 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
