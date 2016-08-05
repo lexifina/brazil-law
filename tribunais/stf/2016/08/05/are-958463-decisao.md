@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO DO FNDE. TRIBUTÁRIO. LEGITIMIDADE PASSIVA DO FNDE. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS VIOLADOS. SÚMULA 284 DO STF. CONTRIBUIÇÃO SOCIAL DO SALÁRIO-EDUCAÇÃO. SUJEITO PASSIVO. PRODUTOR RURAL EMPREGADOR. EQUIPARAÇÃO À EMPRESA. MATÉRIA SUBMETIDA A EXAME SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA 910. ARE 979.764. AGRAVO DESPROVIDO NO QUE TANGE À LEGITIMIDADE PASSIVA DO FNDE E O SEU GRAU DE RESPONSABILIZAÇÃO NA REPETIÇÃO DE INDÉBITO. DEVOLUÇÃO DO FEITO À ORIGEM QUANTO À QUESTÃO SUBMETIDA À SISTEMÁTICA DA REPERCUSSÃO GERAL (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    DECISÃO: Trata-se de agravo nos próprios autos do FNDE (Doc. 32) objetivando a reforma de decisão que inadmitiu recurso extraordinário (Doc. 23), manejado com arrimo na alíneas a e b do permissivo constitucional, contra acórdão (Doc. 20) que assentou que o produtor rural, pessoa física, não se enquadra no conceito de empresa para fins de incidência da contribuição do salário-educação.
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustentou preliminar de repercussão geral e, no mérito, apontou violação aos artigos 97, 105, III, e 212, § 5º, da Constituição Federal. Aduziu a plena validade da contribuição do salário-educação por produtor rural empregador. Alegou, sem mencionar ofensa a dispositivo da Constituição, a sua ilegitimidade passiva. Consequentemente, asseverou que “a restituição dos valores pelo FNDE deve ser limitada aos que ficaram sob sua posse, ou seja, 40%, após abatido 1% da RFB pela arrecadação da contribuição social, já que os outros 60% foram rateados entre os Estados e os Municípios brasileiros”.
+    A Turma Recursal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta (Doc. 28).
+    É o relatório. DECIDO.
+    O agravo não merece prosperar no que tange à controvérsia da legitimidade passiva do FNDE e o seu grau de responsabilização pela repetição de indébito.
+    A ausência de indicação dos dispositivos constitucionais supostamente violados pelo acórdão recorrido conduz à inadmissão do recurso extraordinário, em face do óbice da Súmula 284 do STF. Nesse sentido, o AI 786.680-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 29/6/2011, e o AI 819.362-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 21/2/2011, que possui a seguinte ementa:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS. AUSÊNCIA. NÃO INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL VIOLADO. SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. AGRAVO REGIMENTAL IMPROVIDO.
+    I - Nos termos do art. 327, e § 1º, do RISTF, com a redação dada pela Emenda Regimental 21/2007, os recursos que não apresentem preliminar formal e fundamentada de repercussão geral serão recusados. Precedentes.
+    II - O agravante não indicou o dispositivo constitucional supostamente violado, o que caracteriza deficiência na fundamentação do recurso, a teor da Súmula 284 do STF.
+    III - O agravante não atacou os fundamentos da decisão agravada, o que torna inviável o recurso extraordinário, nos termos da Súmula 287 do STF.
+    IV - Agravo regimental improvido.”
+    De outro lado, a matéria versada no recurso extraordinário - exigibilidade do salário-educação de produtor rural empregador - foi submetida a exame por esta Corte na sistemática da repercussão geral (Tema 910, ARE 979.764, Rel. Min. Dias Toffoli).
+    Ex positis, com fundamento no artigo 21, § 1º, do RISTF, DESPROVEJO o agravo no que se refere à controvérsia sobre a legitimidade do FNDE e o seu grau de responsabilização na repetição do indébito e, quanto à questão submetida à sistemática da repercussão geral, determino a DEVOLUÇÃO do feito à origem (artigo 328, parágrafo único, do RISTF, na redação da Emenda Regimental 21/2007).
+    Publique-se.
+    Brasília, 5 de agosto de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
