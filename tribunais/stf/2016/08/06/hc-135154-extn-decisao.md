@@ -1,0 +1,24 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão, proferido no âmbito do Superior Tribunal de Justiça, assim ementado:
+    “HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA ELEITA. NÃO CONHECIMENTO. ORGANIZAÇÃO CRIMINOSA, FURTO QUALIFICADO E ADULTERAÇÃO DE PRODUTO ALIMENTÍCIO - ÓLEO VEGETAL. PRISÃO CAUTELAR. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. CLAMOR PÚBLICO. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES. INADEQUAÇÃO. HABEAS CORPUS NÃO PROVIDO.
+    1. O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso ordinário. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+    2. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico, e a medida deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, vedadas considerações abstratas sobre a gravidade do crime.
+    3. As decisões que decretaram/mantiveram a prisão preventiva dos pacientes encontram-se amparadas na gravidade concreta do delito (revelada pelo modus operandi da suposta organização criminosa, que, em tese, subtraía e adulterava produto alimentício destinado a consumo - óleo vegetal, reduzindo-lhe o valor nutritivo, para posterior revenda), na garantia da ordem pública (o Juízo processante noticia que a tranquilidade social está abalada pela prática dos crimes) e conveniência da instrução criminal (há indícios de que os pacientes estariam prejudicando as investigações policiais; um dos pacientes está foragido), com adequação aos requisitos do art. 312 do Código de Processo Penal.
+    4. Eventuais condições subjetivas favoráveis dos pacientes, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+    Precedentes.
+    5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade concreta do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+    6. Inexiste constrangimento ilegal a ser reparado, de ofício, por este Superior Tribunal de Justiça.
+    7. Habeas corpus não conhecido.”
+    (HC 353.459/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/06/2016, DJe 13/06/2016)
+    Neguei seguimento à impetração, decisão que não foi impugnada mediante recurso.
+    Contudo, o impetrante apresentou petições em que alega: a) o corréu WEULLER SEVERINO ANTUNES, que ostenta as mesmas condições processuais que os pacientes, jamais foi alvo de decreto prisional, razão pela qual compreende que a soltura deve ser estendida, por razões de isonomia, aos demais acusados; b) em 21.07.2016 o Juiz da causa revogou a prisão preventiva do corréu RONIVALDO CABRAL DE OLIVEIRA, providência que deveria ter sido estendida aos demais acusados.
+    É o relatório. Decido.
+    Com efeito, verifico que a questão associada à extensão dos provimentos que beneficiaram corréus não foi previamente submetida ao Superior Tribunal de Justiça, de modo que não se afigura presente ilegalidade imputável à autoridade coatora que justifica a competência da Suprema Corte. Calha enfatizar que descabe ao Supremo o papel de, diretamente, exercer a revisão dos atos implementados pelo Juiz singular, incumbindo observar a estrutura recursal e as regras de distribuição de competência.
+    Não bastasse, a soltura do corréu RONIVALDO ocorreu após a negativa de seguimento desta impetração, a revelar que se trata de atalho processual que não merece acolhimento. De tal modo, sendo o caso, o interessado poderá endereçar a insurgência em debate aos órgãos competentes para tanto.
+    Por fim, observo que não é possível aferir a estrita identidade das circunstâncias processuais sem empreender a reavaliação do arcabouço fático, o que não se amolda à estreita via do habeas corpus, caracterizada pela impossibilidade de reexames de tal jaez.
+    Diante do exposto, indefiro os pedidos formulados (e.doc. 10 e e.doc. 14).
+    Publique-se. Intime-se.
+    Brasília, 06 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
