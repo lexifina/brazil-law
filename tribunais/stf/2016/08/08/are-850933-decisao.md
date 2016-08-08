@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AÇÃO CIVIL PÚBLICA. IMPROBIDADE. SENAC. COMPETÊNCIA DA JUSTIÇA FEDERAL E LEGITIMIDADE DO MPF. INTERESSE FEDERAL.
+    Os valores que custeiam as atividades do SENAC e demais entidades paraestatais de cooperação do Poder Público, tem como principal fonte as contribuições patronais compulsórias arrecadadas pelo INSS, sendo nítida a origem federal da verba, que após recolhimento e repasse é administrada pela iniciativa privada. Em síntese, a má gestão financeira pelo SENAC implica lesão a interesse da União no exercício de atividade por esta atribuída àquele, de maneira que o Ministério Público Federal é parte legítima para o ajuizamento da Ação Civil Pública perante à Justiça Federal. Precedente da 3ª Turma”.
+    No recurso extraordinário, sustenta-se violação do artigo 109, inciso I, da Constituição Federal, haja vista a incompetência da Justiça Federal para julgamento da presente demanda.
+    Opina o Ministério Público Federal, em parecer da lavra do ilustrado Procurador-Geral da República, Dr. Rodrigo Janot Monteiro de Barros, “pelo provimento do agravo, para que seja conhecido e provido o recurso extraordinário, reconhecendo-se a incompetência da Justiça Federal para processar e julgar o feito“. O referido parecer recebeu a seguinte ementa:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ENTIDADES PARAESTATAIS. SISTEMA “S”. AÇÃO DE IMPROBIDADE. JUSTIÇA FEDERAL. COMPETÊNCIA RATIONE PERSONAE.
+    1. Tem repercussão geral o tema relativo à competência para o processamento de ação de improbidade administrativa pela prática de atos lesivos a entidades paraestatais, ante a relevância jurídica, econômica e social da questão, que ultrapassam os interesses subjetivos da causa.
+    2. É competência da Justiça Estadual o processamento e julgamento das ações de improbidade propostas para a tutela das entidades paraestatais, ainda que referentes a verbas parafiscais recebidas por esses entes e sujeitas à fiscalização do Tribunal de Contas da União, pois a competência da Justiça Federal, de interpretação estrita, dá-se apenas quando presente em algum dos polos do processo alguma das pessoas referidas no art. 109, I, da CF/88. Precedentes do STF.
+    3. Parecer pelo provimento do agravo, para que seja conhecido e provido o recurso extraordinário”.
+    Decido.
+    Conforme assentado no douto parecer do Ministério Público Federal, a irresignação merece prosperar, uma vez que a jurisprudência desta Corte consolidou entendimento no sentido de que compete à Justiça estadual processar e julgar “ações cíveis nas quais figurem como partes pessoas distintas das elencadas no art. 109, inc. I, da Constituição da República, ainda que se alegue prejuízo a entidades paraestatais, custeadas por verbas sujeitas à fiscalização do Tribunal de Contas da União” (RE nº 589.840/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia). O acórdão desse julgamento ficou assim ementado:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA O JULGAMENTO DE AÇÕES CÍVEIS NAS QUAIS NÃO FIGURE COMO PARTE QUALQUER DAS PESSOAS ELENCADAS NO ART. 109, INC. I, DA CONSTITUIÇÃO DA REPÚBLICA. IRRELEVÂNCIA DA ALEGAÇÃO DE PREJUÍZO A ENTIDADE PARAESTATAL, CUSTEADA POR VERBA SUJEITA À FISCALIZAÇÃO DO TRIBUNAL DE CONTAS DA UNIÃO. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 589.840/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 26/5/11).
+    Nesse mesmo sentido:
+    “Recurso extraordinário. 2. Competência. da justiça estadual. SEBRAE. Personalidade de entidade privada. Precedente da 1a Turma. 3. Recurso extraordinário provido” (RE nº 414.375/SC, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 1/12/06).
+    Aplicando essa orientação, destacam-se as seguintes decisões monocráticas: ACO 1.588/SP, Relatora a Ministra Cármen Lúcia, DJe de 8/2/12; RE nº 645.243/DF, Relator o Ministro Luiz Fux, DJe de 8/6/12; ACO nº 2.640/ES e RE nº 603.612/RS, ambos da relatoria do Ministro Roberto Barroso, publicados, respectivamente, nos DJe de 20/8/15 e 11/12/15.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, conheço do agravo e dou provimento ao recurso extraordinário para declarar a competência da Justiça comum estadual para processar e julgar o feito, como de direito.
+    Publique-se.
+    Brasília, 8 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
