@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 19, p. 1):
+    “AGRAVO INTERNO NA APELAÇÃO CÍVEL. RATIFICAÇÃO DA DECISÃO MONOCRÁTICA POR SEUS PRÓPRIOS FUNDAMENTOS. TENTATIVA DE REEXAME DA MATÉRIA, SEM APRESENTAÇÃO DE ARGUMENTOS NOVOS. PREVIDENCIÁRIO. AÇÃO REVISIONAL DE PENSÃO POR MORTE DE SERVIDOR. FALECIMENTO ANTERIOR À PROMULGAÇÃO DA CONSTITUIÇÃO FEDERAL DE 1988. PRETENSÃO DE EQUIPARAÇÃO AOS VENCIMENTOS DOS SERVIDORES DA ATIVA. PARIDADE ASSEGURADA PELOS ARTIGOS 20 DO ADCT E ART. 40, §§ 4º E 5º, DA CONSTITUIÇÃO FEDERAL. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS DGVU” E “GRATIFICAÇÃO DE ARTÍFICE QUE SÃO CONSIDERADAS “INERENTES AO CARGO E LOTAÇÃO” PELA FONTE PAGADORA. NATUREZA REMUNERATÓRIA. EXTENSÃO AOS INATIVOS E PENSIONISTAS. CABIMENTO. DESPROVIMENTO DO RECURSO.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 37, X; 61, § 1º, II, “b”; 169, § 1º, I e II, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que a gratificação denominada DGVU não pode compor a base de cálculo da pensão, porquanto sua criação não foi por lei específica, mas por Decreto, bem como por não se tratar de gratificação de natureza genérica (eDOC 5, p. 7).
+    A Terceira Vice-Presidência do TJRJ Região inadmitiu o recurso por ausência de prequestionamento (eDOC 25, p. 4).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao decidir o feito, concluiu que a gratificação em questão é extensível aos aposentados, por ser inerente ao cargo e, portanto, possuir natureza remuneratória.
+    Verifica-se que para divergir do entendimento adotado pelo juízo a quo, em relação à natureza jurídica da gratificação, demandaria o reexame de fatos e provas e o da legislação, de índole local, aplicável à espécie (Decreto 20.910/32 e Lei Municipal 937/86), de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO POR DESEMPENHO FUNCIONAL - GDF. EXTENSÃO AOS SERVIDORES INATIVOS E PENSIONISTAS. NATUREZA JURÍDICA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. SÚMULA Nº 280 DO STF. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 919.683-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.02.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXTENSÃO DE GRATIFICAÇÃO A SERVIDORES INATIVOS. NATUREZA DA GRATIFICAÇÃO. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO I – A jurisprudência do STF orienta-se no sentido de que a análise da prévia definição pelo Tribunal a quo da natureza, geral ou específica, da gratificação concedida situa-se no âmbito infraconstitucional. Entender de forma contrária ao que definido pelo Tribunal de origem demanda a análise do conjunto fático-probatório dos autos e de normas infraconstitucionais locais, o que atrai a incidência das Súmulas 279 e 280 do STF. Precedentes. II – Agravo regimental improvido.” (ARE 701.539-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 18.03.2013)
+    Ante o exposto, conheço do agravo para negar provimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 8 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
