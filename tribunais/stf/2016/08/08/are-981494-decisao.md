@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “CONTRATO - Promessa de compra e venda - Financiamento imobiliário – Coeficiente de Equalização de Taxas – Índice que permite reequilibrar as parcelas do financiamento em face de eventual descompasso com a evolução da dívida – Legalidade reconhecida – Tabela Price - Questão não discutida pela sentença - Danos morais – Cobrança indevida – Falta que não gerou qualquer conseqüência, além de meros aborrecimentos, não indenizáveis - Sucumbência mínima da ré – Encargos respectivos carreados totalmente aos autores, observada a sua condição de beneficiários da Assistência Judiciária Gratuita - Recurso dos autores desprovido e da ré conhecido em parte e provido”. (eDOC 5, p. 34)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI, e 202 do texto constitucional.
+    Nas razões recursais, alega-se que “a recorrente procedeu, no caso em análise, à aplicação dos índices instituídos pelo seu Regulamento, aprovado livremente pelos seus participantes, sendo certo que a alteração deste fato por interferência do Judiciário atingiu os princípios do direito adquirido e do ato jurídico perfeito, ambos decorrentes do contrato”. (eDOC 5, p. 105)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico a deficiência da fundamentação do recurso extraordinário, visto que suas razões estão dissociadas da matéria versada no acórdão recorrido. Efetivamente, a decisão impugnada não se pronunciou quanto à impossibilidade de alteração dos índices de juros diante das regras estatutárias, mas deixou de conhecer o recurso de apelação, no ponto, por ausência de impugnação específica. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Com relação ao apelo da ré, conhece-se apenas de parte desse recurso, em relação à distribuição dos encargos sucumbenciais, eis que, no mais, não feriu os pontos sobre os quais se assentou a sentença.
+    Em suas razões, a ré discute, equivocadamente, a aplicação da Tabela Price como forma de reajuste das prestações, questão sequer analisada pela sentença apelada, que acolheu o pedido dos autores apenas para afastar a capitalização mensal de juros estabelecida na cláusula 7ª do contrato, deixando, desse modo, intactos os fundamentos da sentença”. (eDOC 5, p. 36)
+    Dessarte, por não ter havido análise pelo Tribunal a quo da questão de direito suscitada no recurso extraordinário, a parte recorrente não conseguiu demonstrar de que forma teria ocorrido a afronta à Constituição Federal. Dessa forma, incide o óbice da Súmula 284 do STF ao conhecimento do extraordinário, pois a deficiência na sua fundamentação não permite a exata compreensão da controvérsia.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E ADMINISTRATIVO. RAZÕES RECURSAIS DISSOCIADAS DO QUE RESTOU DECIDIDO NA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 287/STF. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO”. (ARE 782043 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 9.12.2015)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. Obrigações. Razões recursais dissociadas dos fundamentos do acórdão recorrido. Incidência do Enunciado 284 da Súmula do STF. 3. Necessidade do revolvimento do acervo fático-probatório e de cláusulas contratuais. Enunciados 279 e 454 da Súmula do STF. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento”. (ARE 789001 AgR, de minha relatoria, Segunda Turma, DJe 10.6.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 8 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
