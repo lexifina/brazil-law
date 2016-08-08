@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE. AGRAVO DESPROVIDO.
+    1. O Colegiado de origem, reformando o entendimento do Juízo, julgou procedente o pedido de indenização por danos materiais. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação do artigo 93, inciso IX, da Constituição Federal. Argui a nulidade da decisão, por negativa de prestação jurisdicional, ante à ausência de fundamentação.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, eis a síntese da decisão recorrida:
+    ACIDENTE DE TRÂNSITO. Saída de garagem e ingresso em via pública. Colisão entre veículos. Culpa do motorista que trafega pela via pública incontroversa, porque não impugnada na contestação. Responsabilidade do condutor pela reparação, ainda que o veículo pertença a terceiro. Danos materiais comprovados. Desnecessidade de prova do valor parcial pago por terceiro. Boa-fé do autor ao declarar o recebimento. Despesas com o aluguel de veículo. Inexistência de prova de relação com o acidente. Sentença parcialmente reformada. Recurso parcialmente provido.
+    À toda evidência, a decisão impugnada mediante o extraordinário revela interpretação de fatos e provas. Somente pelo reexame do quadro fático constante no processo seria dado decidir de forma diversa, o que é vedado em sede extraordinária. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Por fim, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia da agravada em apresentar contraminuta ao agravo.
+    4. Publiquem.
+Brasília, 8 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
