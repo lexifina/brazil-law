@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (eDOC 1, p. 118):
+    “ PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ASSOCIAÇÃO. EXECUÇÃO DE TÍTULO JUDICIAL. REPRESENTAÇÃO PROCESSUAL. AUTORIZAÇÃO EXPRESSA. DESNECESSIDADE. AGRAVO NÃO PROVIDO.
+    1. as entidades associativas têm ampla legitimidade ativa ‘ad causam ‘ para atuarem como representantes processuais das categorias a eles filiadas, na defesa de direitos coletivos ou individuais de seus integrantes, desde que expressamente autorizadas, conforme art. 5º, XXI, da Constituição Federal de 1988.
+    2. ‘A associação atua em Juízo, na defesa de direito de seus filiados, como representante processual. Para fazê-lo, necessita de autorização expressa (inciso XXI do art. 5º da CF). Na AO 152, o Supremo Tribunal Federal definiu que essa autorização bem pode ser conferida pela assembleia geral da entidade, não se exigindo procuração de cada um dos filiados’. (STF, Tribunal Pleno, Rel. Min. Carlos Brito, AgRegRcl 5215/SP, DJ 22.05.2009, p. 452).
+    3. Agravo a que se nega provimento.”
+    Nas razões recursais, sustenta-se, em suma, que, “não há nos autos qualquer prova de que os Associados tenham autorizado de forma explícita a Associação a ingressar em juízo para, em nome próprio, pleitear direitos que a eles tocam, porquanto tal exigência revela-se de toda primordial, pois somente com autorização expressa de seus membros terão ciência da propositura de tal demanda não o fazendo de forma individual.” (eDOC 1, p. 142).
+    Verifica-se que o Supremo Tribunal Federal, no julgamento do RE 573.232-RG, Relator para o acórdão o Ministro Marco Aurélio, DJe 19.09.2014 (tema 82), reconheceu a existência de repercussão geral da matéria e concluiu que os associados que apresentarem, na data da propositura da ação de conhecimento, autorizações individuais expressas à associação podem executar título judicial proferido em ação coletiva. Reproduzo a ementa desse julgado:
+    “REPRESENTAÇÃO – ASSOCIADOS – ARTIGO 5º, INCISO XXI, DA CONSTITUIÇÃO FEDERAL. ALCANCE. O disposto no artigo 5º, inciso XXI, da Carta da República encerra representação específica, não alcançando previsão genérica do estatuto da associação a revelar a defesa dos interesses dos associados. TÍTULO EXECUTIVO JUDICIAL – ASSOCIAÇÃO – BENEFICIÁRIOS. As balizas subjetivas do título judicial, formalizado em ação proposta por associação, é definida pela representação no processo de conhecimento, presente a autorização expressa dos associados e a lista destes juntada à inicial.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 9 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
