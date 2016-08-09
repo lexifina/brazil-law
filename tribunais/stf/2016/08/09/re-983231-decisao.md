@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Instituto de Previdência dos Servidores do Estado de Sergipe (Sergipeprevidência). Aparelhado o recurso na violação dos arts. 40, § 8º, e 42, § 2º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que “[...] Às pensões derivadas de óbito de servidores aposentados nos termos do art. 3º da EC 47/2005 é garantido o direito à paridade [...]”, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. PENSÃO POR MORTE. INSTITUIDOR APOSENTADO ANTES DA EMENDA CONSTITUCIONAL 41/2003, PORÉM FALECIDO APÓS SEU ADVENTO. DIREITO DO PENSIONISTA À PARIDADE. IMPOSSIBILIDADE. EXCEÇÃO: ART. 3º DA EC 47/2005. RECURSO EXTRAORDINÁRIO A QUE SE DÁ PARCIAL PROVIMENTO. I – O benefício previdenciário da pensão por morte deve ser regido pela lei vigente à época do óbito de seu instituidor. II – Às pensões derivadas de óbito de servidores aposentados nos termos do art. 3º da EC 47/2005 é garantido o direito à paridade. III – Recurso extraordinário a que se dá parcial provimento.” (RE 603580, Relator(a): Min. RICARDO LEWANDOWSKI, Tribunal Pleno, REPERCUSSÃO GERAL – MÉRITO, DJe 04-08-2015)
+    Compreensão diversa exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “DIREITO ADMINISTRATIVO. PAGAMENTO DE PENSÃO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DESCABIMENTO. 1. Hipótese em que a resolução da controvérsia demandaria o reexame do conjunto fático-probatório dos autos, bem como a análise das normas infraconstitucionais pertinentes (Súmulas 279 e 280/STF), procedimentos inviáveis nesta fase recursal. Precedente. 2. Agravo regimental a que se nega provimento.” (ARE 866126 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 05-11-2015)
+    "AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. PARIDADE. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Para dissentir da conclusão adotada pelo acórdão recorrido, quanto à ausência de comprovação de cargo equivalente, para fins de equiparação salarial, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II - Agravo regimental improvido.” (ARE 703670 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 16-04-2013)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 09 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
