@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios Estado, assim ementado (fls. 190):
+    MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PÚBLICA DO DISTRITO FEDERAL – SEAP. REEXAME DE QUESTÃO E DE CRITÉRIOS DE CORREÇÃO. ERRO MATERIAL EVIDENTE. CONCESSÃO DA SEGURANÇA.
+    Somente é possível o reexame de questões de concurso público e de seus critérios de correção pelo Poder Judiciário, em situação excepcional, quando houver manifesta ilegalidade ou erro material de fácil constatação. É o caso. A própria Banca, no edital, vinculou-se a um autor. Há prova escrita de que o autor dá uma formulação para a questão que não corresponde ao gabarito da Banca, ficando demonstrado o erro material evidente.
+    Segurança concedida.
+    Os embargos de declaração foram rejeitadas (fls. 208-211).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 5º, I; e 37, caput e inciso II, da Constituição Federal.
+    Sustenta-se, em suma, que o acórdão recorrido divergiu da orientação do STF, firmada no julgamento do RE 632.853-RG, no sentido de que o Judiciário não pode interferir em critérios estabelecidos por banca examinadora de concurso. Alega-se, ainda, ofensa aos princípios da separação dos poderes, da isonomia e da impessoalidade, visto que o aresto impugnado permitiu a ingerência do Poder Judiciário no Executivo, ao determinar que o recorrido seja nomeado e empossado em cargo público sem que tenha sido aprovado em concurso, em prejuízo dos demais candidatos.
+    Em 26.01.2016, determinei a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do CPC/1973.
+    Em juízo de retratação, o acórdão recorrido foi mantido nos seguintes termos (fls. 302):
+    MANDADO DE SEGURANÇA – CONCURSO PÚBLICO – REEXAME DE QUESTÃO E CRITÉRIO DE CORREÇÃO – ERRO MATERIAL CONSTATADO – ORDEM CONCEDIDA – RECURSO EXTRAORDINÁRIO – RECONHECIMENTO DE EXISTÊNCIA DE REPERCUSSÃO GERAL DA CONTROVÉRSIA – TEMA 485 – RETORNO DOS AUTOS PARA ADEQUAÇÃO AO DISPOSTO NO ART. 543-B DO CPC E DO ART. 328 DO RISTF.
+    1.Reconhecido que a hipótese dos autos constitui exceção, visto que comprovado de forma inequívoca a existência de erro material, resta caracterizada a excepcionalidade que afasta a repercussão geral, permitindo decisão diversa daquela da banca examinadora.
+    2.’Somente é possível o reexame de questões de concurso público e de seus critérios de correção pelo Poder Judiciário, em situação excepcional, quando houver manifesta ilegalidade ou erro material de fácil constatação. É o caso. A própria Banca, no edital, vinculou-se a um autor. Há prova escrita de que o autor dá uma formulação para a questão que não corresponde ao gabarito da Banca, ficando demonstrado o erro material evidente.’ (fl.190)
+    3.Repercussão geral não aplicável à espécie. Ordem concedida. Maioria.
+    É o relatório. Decido.
+    Verifica-se que o Supremo Tribunal Federal, no julgamento do RE 632.853-RG, Rel. Min. Gilmar Mendes, DJe 29.06.2015 (tema 485), concluiu que não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora de concurso para avaliar respostas dadas às questões e notas pertinentes. Reproduzo a ementa desse julgado:
+    “Recurso extraordinário com repercussão geral. 2. Concurso público. Correção de prova. Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas. Precedentes. 3. Excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame. Precedentes. 4. Recurso extraordinário provido.”
+    Da leitura do acórdão recorrido depreende-se que o Tribunal de origem, com base nas provas dos autos, concluiu que restou comprovada a existência de erro material na formulação do gabarito, visto que a banca examinadora do concurso, ao formular a questão que se pretende seja anulada, exige o conceito de um tema de acordo com autor determinado. Por essa razão, entendeu que ficou caracterizada a situação excepcional prevista no mencionado precedente do STF.
+    Constata-se, pois, que para divergir desse entendimento seria necessário o reexame de fatos e provas, o que encontra óbice na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 9 de agosto de 2016.
+Ministro Edson Fachin
+Relator
