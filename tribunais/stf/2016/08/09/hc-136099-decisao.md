@@ -1,0 +1,17 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Inexistência de risco à liberdade de locomoção.
+1. A petição inicial deste habeas corpus não evidencia nenhum embaraço para que os pacientes acompanhem os trabalhos legislativos no âmbito do Congresso Nacional.
+2. Habeas Corpus a que se nega seguimento.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, tendo como autoridade apontada como coatora o Presidente da Mesa Diretora da Câmara dos Deputados.
+    2. Na petição inicial, a parte impetrante afirma que deve ser assegurado aos pacientes, diretores do Sindicato dos Petroleiros do Norte Fluminense – SINDIPETRO/NF, o direito de acompanhar as sessões legislativas da Câmara dos Deputados, realizadas a partir do dia 08.08.2016 para apurar o Projeto de Lei n. 131/2015 que “Altera a Lei nº 12.351, de 22 de dezembro de 2010, para facultar à Petrobras o direito de preferência para atuar como operador e possuir participação mínima de 30% (trinta por cento) nos consórcios formados para exploração de blocos licitados no regime de partilha de produção”. Afirma que, “Conforme exaustivamente noticiado na imprensa, na sessão em que foi aprovada a urgência na tramitação do malfadado Projeto quando ainda tramitava pelo Senado Federal (17/06/2015), trabalhadores petroleiros foram retirados à força das galerias do plenário pelos seguranças da Casa”. De modo que, “afim de evitar que a mesma cena deplorável se repita, urge a necessidade de concessão, em caráter preventivo, do presente remédio constitucional para que os trabalhadores possam acompanhar as votações que ocorreram entre os dias 09 e 11 de agosto de 2016 na Câmara dos Deputados”.
+    3. Com essa argumentação, os acionantes postam a expedição de “salvo-conduto, com a declaração de liberdade de trânsito e de credenciamento aos pacientes para que possam acompanhar livremente todas as sessões legislativas da Câmara dos Deputados a partir do dia 08/08/2016, tanto das galerias do plenário, bem como de todos os locais de observação das votações e de debates legislativos”.
+    Decido.
+    4. O habeas corpus não deve ser concedido.
+    5. A Constituição Federal de 1988 autoriza a impetração de habeas corpus “sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder” (inciso LXVIII do art. 5º). E o Supremo Tribunal Federal já decidiu que “ilegalidade e abuso de poder não se presumem; pelo contrário, a presunção é exatamente inversa. Pelo que, ou os autos dão conta de uma violência indevida (de um cerceio absolutamente antijurídico por abuso de poder ou por ilegalidade), ou de habeas corpus não se pode socorrer o paciente, devido a que a ação constitucional perde sua prestimosidade” (HC 99.601-AgR, Rel. Min. Ayres Britto).
+    6. No caso de que se trata, não enxergo nenhuma ilegalidade flagrante ou abuso de poder que autorize a expedição de um salvo-conduto em favor dos pacientes. Seja porque a leitura da inicial não evidencia risco atual ou iminente à liberdade de locomoção dos acionantes, seja porque a parte impetrante sequer acostou aos autos elementos mínimos que pudessem comprovar as suas alegações. De modo que não encontro nenhum embaraço para que os pacientes acompanhem os trabalhos legislativos no âmbito do Congresso Nacional.
+    7. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 09 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
