@@ -1,0 +1,48 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo visando impugnar decisão que não admitiu recurso extraordinário, assentado em contrariedade ao art. 5º, incisos LIV e LV, da Constituição Federal.
+    Decido.
+    Compulsando os autos, verifica-se que, concomitantemente ao apelo extremo, foi interposto recurso especial autuado no Superior Tribunal de Justiça como REsp nº 1.502.131/RS, que restou parcialmente provido pelo Relator, Ministro Reynaldo Soares da Fonseca, em decisão com o seguinte teor:
+    “Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça local, assim ementado (e-STJ fl. 376):
+    ‘APELAÇÃO CRIMINAL. ESTELIONATO. AUSÊNCIA DO MINISTÉRIO PÚBLICO NA AUDIÊNCIA DE INSTRUÇÃO. NULIDADE. INSUFICIÊNCIA DE PROVAS.
+    1 - O Ministério Público, como titular exclusivo da ação penal pública, deve intervir em todos os termos do processo por ele intentado, sob pena de nulidade, conforme artigo 564, III, "d", do CPP. Portanto, devem ser desconsiderados os depoimentos colhidos em audiência que, devidamente intimado e sem justificativa, o representante da acusação não se fez presente, uma vez que eivados de nulidade absoluta. Outrossim, ainda que reconhecida a nulidade da prova produzida na audiência de instrução, descabe cogitar de refazer o ato processual, tendo em vista que ninguém pode se beneficiar da nulidade a que deu causa. Assim, por serem nulos, os depoimentos prestados quando o Ministério Público não estava presente não podem servir como prova para o julgamento.
+    2 - As provas válidas existentes nos autos não autorizam a condenação dos recorrentes, sobretudo porque as testemunhas não presenciaram a negociação - mediante pagamento com cheque de terceiro (furtado) - envolvendo o gado. A ausência de prova judicializada inequívoca da ciência da origem ilícita da cártula e de que os réus pretendiam se beneficiar enganando a vítima conduz à absolvição, atendendo-se à máxima in dúbio pro reo.
+    APELO DEFENSIVO PROVIDO’.
+    Apresentados embargos de declaração, esses foram rejeitados (e-STJ fls. 407/412)
+    Nas razões do recurso especial, alega a parte recorrente violação dos artigos 156, 212, 563, 564, inciso III, alínea "d", e inciso IV, 565, 571, inciso VIII, 572, inciso I, 573 e 619 do CPP. Sustenta: (i) que o Tribunal a quo foi omisso; (ii) que é relativa a nulidade relacionada à ausência do Ministério Público na audiência, a exigir a oportuna arguição e demonstração do prejuízo concreto pelo réu, sob pena de convalidação.
+    Foram apresentadas contrarrazões (e-STJ fls. 461/472, 478/482 e 484/489). O Tribunal a quo admitiu o recurso especial (e-STJ fls. 491/499).
+    O Ministério Público Federal opinou pelo provimento do recurso especial (e-STJ fls. 538/543).
+    É o relatório. Decido.
+    Primeiramente, ao contrário do que sustenta o recorrente, não há falar em omissão, uma vez que o acórdão recorrido apreciou as teses defensivas com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e solução da controvérsia, o que, na hipótese, possibilitou o exercício do direito de defesa.
+    Quanto ao mérito, o recurso merece acolhida.
+    Nota-se que jurisprudência desta Corte Superior é no sentido de que a ausência de membro do Ministério Público na audiência de instrução, por si só, não nulifica o ato praticado, devendo a defesa alegar, a tempo e modo, o defeito processual, bem como demonstrar o efetivo prejuízo suportado pelo réu, o que não restou demonstrado na hipótese dos autos.
+    Nessa linha, os seguintes julgados:
+    ‘PROCESSUAL PENAL. RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DO MINISTÉRIO PÚBLICO NA AUDIÊNCIA DE INSTRUÇÃO. OITIVA DE TESTEMUNHAS. VIOLAÇÃO AO ART. 212 DO CPP. NÃO OCORRÊNCIA. OBEDIÊNCIA AOS PRINCÍPIOS DA VERDADE REAL E DO IMPULSO OFICIAL. NULIDADES RELATIVAS. NÃO ALEGAÇÃO NO MOMENTO OPORTUNO. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. RECURSO ESPECIAL PROVIDO.
+    1. Segundo o entendimento majoritário desta Corte, não há qualquer vício a ser sanado nas hipóteses em que, apesar de intimado, o Ministério Público deixa de comparecer à audiência e o Magistrado, condutor do processo, formula perguntas às testemunhas sobre os fatos constantes da denúncia, mormente nas hipóteses em que a defesa não se insurge no momento oportuno e que não há demonstração de efetivo prejuízo (art. 563 do CPP).
+    2. As modificações introduzidas pela Lei n.º 11.690/08, ao art. 212 do Código de Processo Penal, não retiraram do juiz a possibilidade de formular perguntas às testemunhas, a fim de complementar a inquirição, na medida em que a própria legislação adjetiva lhe incumbe do dever de se aproximar o máximo possível da realidade dos fatos (princípio da verdade real e do impulso oficial), o que afasta o argumento de violação ao sistema acusatório.
+    3. Eventual inobservância ao disposto no art. 212 do Código de Processo Penal gera nulidade meramente relativa, sendo necessário para seu reconhecimento a alegação no momento oportuno e a comprovação do efetivo prejuízo, o que não ocorreu, uma vez que, presente em audiência, o causídico não suscitou o vício no decorrer das oitivas, tampouco nas alegações finais, não logrando demonstrar qual o prejuízo causado ao réu.
+    4. Recurso especial provido para excluir a nulidade reconhecida pelo Tribunal a quo e, por conseguinte, determinar o retorno dos autos a fim de que se prossiga no julgamento do mérito do apelo. (Resp 1348978/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, Rel. P/ Acórdão Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2015, DJe 17/02/2016).
+    [...]INQUIRIÇÃO DE TESTEMUNHAS EM AUDIÊNCIA NA QUAL O MINISTÉRIO PÚBLICO NÃO ESTEVE PRESENTE. POSSIBILIDADE. BUSCA DA VERDADE REAL. LIVRE CONVENCIMENTO DO MAGISTRADO. RECURSO IMPROVIDO.
+    1. Esta Corte Superior de Justiça já pacificou o entendimento de que a simples ausência do órgão acusatório na audiência de oitiva de testemunhas não enseja a nulidade do ato, impondo-se à defesa a comprovação do efetivo prejuízo suportado pelo réu. Precedentes.
+    2. Conquanto o Ministério Público não estivesse presente na ocasião em que ouvidas as testemunhas, o certo é que o próprio artigo 212 do Código de Processo Penal permite que o juiz participe das inquirições, sendo-lhe facultada, outrossim, na busca da verdade real, a produção de provas necessárias à formação do seu livre convencimento, nos termos do artigo 156, inciso II, do mencionado diploma legal, o que revela a inexistência do prejuízo suportado pelo apenado, sendo certo que o togado de origem não atuou como acusador, mas dentro dos limites que lhe são conferidos pelo ordenamento jurídico vigente.
+    3. Agravo regimental a que se nega provimento. (AgRg no Resp 1525083/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/12/2015, DJe 03/02/2016).
+    AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DO MINISTÉRIO PÚBLICO NA AUDIÊNCIA. VIOLAÇÃO DO ART. 212 DO CPP. NULIDADE RELATIVA. AUSÊNCIA DE PREJUÍZO.
+    I - Inexiste nulidade na ação penal por ter o Magistrado conduzido audiência de oitiva das testemunhas de acusação, inquirindo-as sobre os fatos constantes da denúncia, sem a presença do Membro do Ministério Público.
+    II - Eventual prejuízo pela ausência do representante do Parquet, caso houvesse, só interessaria à acusação, sendo inadmissível o reconhecimento de nulidade relativa que só à parte contrária interessa.
+    III - Agravo regimental improvido. (AgRg no REsp 1491961/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/09/2015, DJe 14/09/2015).
+    PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NULIDADE POR AUSÊNCIA DO MINISTÉRIO PÚBLICO NA AUDIÊNCIA DE INSTRUÇÃO. NULIDADE RELATIVA. NÃO DEMONSTRAÇÃO DE PREJUÍZO. HABEAS CORPUS NÃO CONHECIDO.
+    [...]
+    III - Na linha da jurisprudência desta Corte, a nulidade por inobservância ao art. 212 do Código de Processo Penal é relativa, sujeita, portanto, à preclusão e à demonstração de efetivo prejuízo, o que inocorreu na espécie.
+    IV - Ademais, insta consignar que eventual prejuízo pela ausência de membro do Ministério Público na audiência de instrução, caso houvesse, só interessaria à acusação, sendo inadmissível o reconhecimento de nulidade relativa que só à parte contrária interessa. (Precedentes).
+    Habeas corpus não conhecido. (HC 298.040/RS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 03/02/2015, DJe 23/02/2015)
+    Ante o exposto, dou provimento parcial ao recurso especial para afastar a referida nulidade e determinar o prosseguimento do julgamento das demais teses suscitadas em apelação criminal.
+    Publique-se. Intime-se”.
+    Essa decisão transitou em julgado em 19/4/16, conforme a certidão de fl. 563 (e-STJ).
+    Com efeito, a apreciação da pretensão formulada no recurso extraordinário encontra-se prejudicada, dada a perda superveniente de objeto.
+    Anote-se que a jurisprudência deste Supremo Tribunal é assente no sentido de que, nos casos como o presente, há o prejuízo do recurso extraordinário ou do respectivo agravo de instrumento interposto. Nesse sentido as seguintes decisões monocráticas: AI nº 570.205/RS, Relator o Ministro Joaquim Barbosa, DJ de 16/508; AI nº 667.998/RJ, Relator o Ministro Gilmar Mendes, DJ de 25/4/08; e AI nº 627.834/SP, Relatora a Ministra Cármen Lúcia, DJ de 28/11/07, entre outras.
+    Ante o exposto, nos termos dos arts. 21, inciso IX, do RISTF, julgo prejudicado o recurso.
+    Publique-se.
+    Brasília, 9 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
