@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra inadmissibilidade de recurso extraordinário, interposto pela Fundação Municipal de Ensino Superior de Marília – Fumes, contra acórdão do Tribunal Superior do Trabalho, que negou provimento a agravo em recurso de revista, assim ementado no que interessa:
+    “ (…)
+    III - AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DA SEGUNDA RECLAMADA - FUNDAÇÃO MUNICIPAL DE ENSINO SUPERIOR DE MARÍLIA – FUMES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. COISA JULGADA. DIFERENÇA SALARIAL – REAJUSTE SALARIAL. CRIAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA. PRESCRIÇÃO/FGTS”. (eDOC 27, p. 2).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, II e LIV; 37, X e XIII; 93, IX; 169, §1º, I e II; e 207 do texto constitucional. (eDOC 36)
+    Nas razões recursais, argumenta-se, em síntese, “ausência de norma determinando que a reclamante pague os índices do CRUESP e a falta de dotação orçamentária para atender à condenação”. (eDOC 36, p. 11)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalto que, na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação ou violação à inafastabilidade jurisdicional.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Estadual 8.898/94 e Decreto Estadual 41.554/97) e o conjunto probatório constante dos autos, consignou que o deferimento das diferenças salariais estava amparado pela interpretação dos estatutos da recorrente e das normas estaduais. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O v. acórdão, com fundamento na interpretação da legislação estadual (Lei Estadual 8.898/94 e Decreto Estadual 41.554/97) e dos documentos juntados aos autos, concluiu que as reclamadas estavam obrigadas a observar a política salarial estabelecida pelas Universidades Estaduais Paulistas e pelo CRUESP - Conselho de Reitores das Universidades do Estado de São Paulo, razão pela qual, reconhecendo a responsabilidade solidária da recorrente, deferiu os reajustes perseguidos e o pedido relativo às diferenças salariais deles decorrentes”. (eDOC 27, p. 16)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO MATERIAL E PROCESSUAL DO TRABALHO. RECURSO DE REVISTA. REAJUSTE SALARIAL ASSEGURADO POR NORMAS DO CONSELHO DE REITORES DAS UNIVERSIDADES ESTADUAIS DE SÃO PAULO – CRUESP, DECRETO ESTADUAL Nº 41.554/1997. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 24.5.2013”. (ARE 931960 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 24.2.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. SERVIDOR PÚBLICO. REAJUSTE SALARIAL. RESOLUÇÕES DO CONSELHO DOS REITORES DAS UNIVERSIDADES ESTADUAIS PAULISTAS- CRUESP. ART. 6º DA LEI N. 8.899/94. ESTATUTO DA FAMERP. ART. 65 DO DECRETO 41.228/96. RECURSO DE REVISTA. CABIMENTO. ART. 896, A, DA CLT. ALEGAÇÃO DE AFRONTA AO ART. 37, X E XIII, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. LEI LOCAL. INCIDÊNCIA DA SÚMULA N. 280/STF. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS”. (ARE-AgR 696.934, Rel. Min. Luiz Fux, Primeira Turma, DJe 11.12.2012)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
