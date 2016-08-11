@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal a 5ª Região, assim ementado (eDOC 2, pp. 67-68):
+    “APELAÇÃO CÍVEL. ADMINISTRATIVO. INDENIZAÇÃO POR DANOS MORAIS. MILITAR TEMPORÁRIO DA AERONÁUTICA. PERDA PARCIAL DO DEDO DA MÃO ESQUERDA NO EXERCÍCIO DA FUNÇÃO. COMPROVAÇÃO DO NEXO CAUSAL. NÃO VINCULAÇÃO DO VALOR DA INDENIZAÇÃO A SALÁRIOS MÍNIMOS. MAJORAÇÃO DA REPARAÇÃO.
+    1 -Trata-se de apelações interpostas contra sentença da lavra da MM Juíza Federal Substituta Roberta Walmsley Soares Carneiro, da 12ª Vara da seção Judiciária de Pernambuco.
+    2 – O autor da ação foi incorporado à Força Aérea Brasileira em um de agosto de 1999, como convocado conscrito para a prestação do Serviço Militar Obrigatório. Em 2000 sofreu um acidente de trânsito quando estava no exercício da função, sofrendo uma amputação traumatológica do terço distal do quinto quirodáctilo (falange) da mão esquerda.
+    3 – A existência de lei específica militar não tem o condão de isentar o órgão público de ressarcir os danos causados aos seus agentes.
+    4 – O valor da indenização por danos morais deve ser fixado tendo em vista os princípios da proporcionalidade e da razoabilidade entre a quantia a ser paga pelo ente público e o dano sofrido pela vítima, mas não pode ele se vincular a salário mínimo, por ser vedado por lei. Procedência parcial da apelação da União, em relação à vinculação da reparação com o salário mínimo.
+    5 – Para a configuração da responsabilidade civil objetiva do Estado, é mister a comprovação do nexo causal entre a conduta do agente e o dano sofrido pela vítima que se pretende indenizar. ‘In casu’, a União, através de sindicância, concluiu que o acidente ocorreu quando o autor estava em serviço e por isso é inquestionável o pagamento a título de indenização por danos morais.
+    6 – A incapacidade gerada pelo acidente fez o demandante perder, de forma definitiva, o terço (falange) distal do quinto quirodáctilo da mão esquerda, causando-lhe um dano irreparável.
+    7 – Por ser um defeito completamente visível nas ações corriqueiras da interação humana, é capaz de gerar constrangimentos, afetando sua vida pessoal e profissional, inclusive sua autoestima. Provimento parcial do recurso do autor, que pleiteava 50 salários mínimos, enquanto a sentença a fixara em 10 salários, em 2006, para o valor de R$ 10.000,00 (dez mil reais), em respeito a precedentes deste Tribunal indenizando lesões de semelhante natureza, a saber, a Apelação Cível nº 439169/PE, Segunda Turma, data de julgamento: 10/02/2009, Relator Desembargador Federal Francisco Barros Dias, unânime, e Apelação Cível nº 372445/RN, Segunda Turma, data do julgamento: 18/03/2008, Relator Desembargador Federal Luiz Alberto Gurgel de Faria.
+    8 – O pedido do autor de o pagamento de honorários advocatícios ser arcado exclusivamente pela União, quando há a ocorrência da sucumbência recíproca referente ao artigo 21 do Código de Processo Civil, é improcedente, tendo em vista que as duas partes foram vencedoras e vencidas no processo em questão. No caso, o autor rogara por sua reintegração ou reparação por danos morais, sendo rejeitado o primeiro e concedido o segundo, em patamar menor.
+    Apelações parcialmente providas do particular e da União.
+    Os embargos de declaração foram rejeitados (eDOC 2, pp. 82-87).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 37, § 6º; e 142 da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “a responsabilidade objetiva do Estado (teoria do risco administrativo) é dirigida ao particular, vale dizer, aos administrados, e não à outros agentes da mesma instituição pública.” (eDOC 2, p. 122).
+    Alega-se, ainda, que “como bem destacado no recurso de apelação, a existência de legislação específica para os militares faz com que o acidente em serviço do militar encontre, no próprio regime administrativo, o tratamento adequado.” (eDOC 2, p. 122).
+    A Vice-Presidência do TRF/5ª Região inadmitiu o recurso com fundamento no óbice da Súmula 279 do STF (eDOC 2, p. 136).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem ao concluir pela existência de nexo de causalidade a configurar a responsabilidade objetiva, de modo a ensejar indenização por danos morais, baseou-se no conjunto fático-probatório dos autos. Assim, para se chegar à conclusão contrária à adotada, necessário seria o reexame da matéria de fato, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, vejam-se os seguintes julgados: AI 852.405 e ARE 758.284; Rel.ª Min.ª Cármen Lúcia; ARE 767.367, Rel. Min. Ricardo Lewandowski; AI 734.689-AgR, Rel. Min., Celso de Mello.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 11 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
