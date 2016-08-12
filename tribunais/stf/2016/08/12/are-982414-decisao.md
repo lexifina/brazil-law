@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 37, caput, X e XIV, 39, § 1º, 61, § 1º, II, “a”, 63, I, e 169, § 1º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Consta no acórdão recorrido a seguinte ementa:
+    “MANDADO DE SEGURANÇA. Ato omissivo do Prefeito do Município de São Gonçalo. Adicional de desempenho de função. Servidor ocupante de cargo de técnico de apoio especializado, criado pela Lei municipal nº 326/2011. Adicional previsto no art. 62, inciso XVI, da Lei municipal nº 50/1991. Percentual do adicional em referência estabelecido pelo artigo 43 da Lei municipal nº 388/2011 em até 150% (cento e cinquenta por cento) do vencimento do servidor. Avaliação de desempenho regulamentada pela Lei municipal nº 391/2011. Critérios a serem observados pela administração municipal que correspondem à própria atividade rotineira do cargo ocupado pelo impetrante. Caráter genérico. Adicional que é pago mesmo durante o gozo de férias e licenças maternidade, paternidade e prêmio, além de sobre ele incidir contribuição previdenciária. Direito líquido e certo devidamente alicerçado pelo conjunto probatório pré-constituído. Precedente representativo desta Corte Estadual. Parecer da Procuradoria em consonância. SEGURANÇA QUE SE CONCEDE.”
+    Na hipótese em apreço, o Tribunal de origem lastreou-se na prova produzida e na legislação local para firmar seu convencimento. Aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, bem como a análise da legislação infraconstitucional aplicável, procedimentos vedados em sede extraordinária.
+    Dessarte, desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência deste Supremo Tribunal Federal. Aplicação dos enunciados das Súmula 279 e 280/STF: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 955339, Rel. Min. Roberto Barroso, DJe 05.04.2016, e ARE 956307, Rel. Min. Luiz Fux, DJe 05.04.2016, verbis:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. INCORPORAÇÃO DE GRATIFICAÇÃO. LEGISLAÇÃO MUNICIPAL. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 279 E 280 DO STF. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.” (ARE 956307, Rel. Min. Luiz Fux, DJe 05.04.2016), verbis:
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
