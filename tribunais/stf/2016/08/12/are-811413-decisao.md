@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal de Justiça do Distrito Federal e Territórios, maneja agravo Sergio Ricardo Ribeiro Veloso. Aparelhado o recurso na afronta ao art. 93, IX, da Lei Maior. Acórdão recorrido publicado em 09.11.2011.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos de admissibilidade recursal.
+    Colho do acórdão hostilizado:
+    “PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. POLICIAL MILITAR QUE DISPARA ARMA DE FOGO NA VIA PÚBLICA. ALEGAÇÃO DE CONTRADIÇÃO NO ACÓRDÃO. IMPROCEDÊNCIA.
+    1 O embargante alega que o acórdão é contraditório porque afirmou que a perda de função não constitui efeito automático da condenação, mas, ao mesmo tempo, afirma que dela decorria, sem apresentar uma fundamentação convincente no decreto da perda do cargo público.
+    2 A necessidade de fundamentação idônea para decretar esse gravame ao servidor público só é exigivel na hipótese do artigo 92, inciso I, alínea "a", do Código Penal, quando a pena cominada seja superior a um e menos do que quatro anos, mediante demonstração do abuso ou violação de poder ou do dever funcional. Se a pena é superior a quatro anos, a pena acessória pode ser imposta sem a necessidade de tecer considerações sobre eventuais violações do dever funcional ou abuso de poder. No caso, porém, ficou evidenciado que a perda do cargo público foi decorrente da grave repercussão) que o fato acarretou à imagem pública da corporação militar,; disparar arma de fogo na via pública para intimidar um civil que cortejava sua ex-namorada.”
+    Ao exame dos fundamentos do acórdão prolatado na origem, constato explicitados os motivos de decidir, a afastar o vício da nulidade por afronta ao art. 93, IX, da Constituição Federal. Destaco que, no âmbito técnico-processual, o grau de correção do juízo de valor emitido na origem não se confunde com vício ao primado da fundamentação, notadamente consabido que a disparidade entre o resultado do julgamento e a expectativa da parte não provoca lesão à norma do texto republicano. Precedentes desta Suprema Corte na matéria:
+    “Fundamentação do acórdão recorrido. Existência. Não há falar em ofensa ao art. 93, IX, da CF, quando o acórdão impugnado tenha dado razões suficientes, embora contrárias à tese da recorrente” (AI 426.981-AgR, Relator Ministro Cezar Peluso, DJ 05.11.04; no mesmo sentido: AI 611.406-AgR, Relator Ministro Carlos Britto, DJE 20.02.2009).
+    “Omissão. Inexistência. O magistrado não está obrigado a responder todos os fundamentos alegados pelo recorrente. PIS. Lei n. 9.715/98. Constitucionalidade. A controvérsia foi decidida com respaldo em fundamentos adequados, inexistindo omissão a ser suprida. Este Tribunal fixou entendimento no sentido de que o magistrado não está vinculado pelo dever de responder todos os fundamentos alegados pela parte recorrente. Precedentes. Esta Corte afastou a suposta inconstitucionalidade das alterações introduzidas pela Lei n. 9.715/98, admitindo a majoração da contribuição para o PIS mediante a edição de medida provisória. Precedentes” (RE 511.581-AgR, Relator Ministro Eros Grau, DJE 15.08.2008).
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (AI 402.819-AgR, Relator Ministro Sepúlveda Pertence, DJ 05.9.03).
+    Nego seguimento ao agravo (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
