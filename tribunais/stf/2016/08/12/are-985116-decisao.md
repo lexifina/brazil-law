@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 5ª Turma Recursal dos Juizados Especiais da Bahia, assim ementado:
+    “RECURSO INOMINADO. AÇÃO COMINATÓRIA. PLANO DE SAÚDE. DEMISSÃO DE EMPREGO. EMPRESA QUE TEM RELAÇÃO CONTRATUAL COM A RÉ. EXCLUSÃO ABUSIVO DO PLANO, VIOLANDO A LEI 9.656 E AOS PRINCÍPIOS E NORMAS DO CDC. PROCEDÊNCIA DO PEDIDO PARA QUE O AUTOR CONTINUE A VINCULAR-SE CONTRATUALMENTE AO PLANO. MANUTENÇÃO SENTENCIAL. RECURSO CONHECIDO E IMPROVIDO.” (eDOC 37, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea a, da Constituição Federal, aponta-se violação aos arts. 5º, inciso II; e 170 do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão recorrido imputa ao recorrente uma obrigação que não decorre da lei nem foi assumida contratualmente. (eDOC 11, p. 6)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a Lei n. 9.656/95 e o Código de Defesa do Consumidor, legislação infraconstitucional aplicável à espécie, consignou que não haveria justa causa para o reparo da sentença recorrida, como se depreende da ementa acima transcrita.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Constata-se ainda a incidência, na espécie, da Súmula 636 desta Corte, no sentido de que não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas deste Tribunal:
+    “DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. MIGRAÇÃO PARA PLANO INIDIVIDUAL OU FAMILIAR. ANÁLISE DE CLÁUSULAS CONTRATUAIS E DE NORMAS INFRACONSTITUCIONAIS. ALEGAÇÃO DE OFENSA AO ART. 5º, II, DA CONSTITUIÇÃO DA REPÚBLICA. LEGALIDADE. NATUREZA INFRACONSTITUCIONAL DA CONTROVÉRSIA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 24.4.2015. 1. Obstada a análise da suposta afronta ao inciso II do art. 5º da Carta Magna, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República. 3. Agravo regimental conhecido e não provido”. (ARE 936588-AgR/DF, Rel. Min. Rosa Weber, Primeira Turma, DJe 16.5.2016)
+    “Agravo regimental no recurso extraordinário com agravo. Direito civil e do consumidor. Sítio de busca na internet. Fornecimento de informações. Princípio da legalidade (CF, art. 5º, inciso II). Ofensa reflexa à Constituição Federal. Inadmissibilidade. Enunciado da Súmula nº 636 da Corte. Precedentes. 1. Segundo o enunciado da Súmula nº 636/STF, “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. 2. Agravo regimental não provido”. (ARE 874067-AgR/RJ, Rel. Min. Dias Toffoli, Segunda Turma, DJe 1º.7.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
