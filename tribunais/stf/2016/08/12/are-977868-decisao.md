@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade do recurso extraordinário em face de acórdão da Turma Recursal Federal da Seção Judiciária do Distrito Federal, assim ementado:
+    “PREVIDENCIARIO. RESTABELECIMENTO DO AUXÍLIO DOENÇA. TERMO INICIAL. DATA DA PERÍCIA. SENTENÇA REFORMADA. RECURSO PARCIALMENTE PROVIDO”. (eDOC 1, p. 88)
+      No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se afronta ao artigo 5º, XXXV, XXXVI, e LV, do texto constitucional.
+    Nas razões recursais, alega-se violação ao direito adquirido e aos princípios da inafastabilidade de jurisdição, do contraditório e da ampla defesa, uma vez que o termo inicial do auxílio-doença foi fixado a partir da data da perícia médica judicial. Ademais, juntam-se laudos periciais, os quais comprovam que a incapacidade para o trabalho ocorreu em 31.7.2007.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o acórdão recorrido, com base nas provas dos autos (laudo pericial), entendeu que não há como definir a data do início da incapacidade. Em razão disso, determinou como termo inicial do benefício a data da perícia.
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal. Confira-se, a propósito, o seguinte precedente:
+    “DIREITO PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCESSÃO DE AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. CUMPRIMENTO DE REQUISITOS. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS DOS AUTOS. SÚMULA 279/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. NÃO CARACTERIZAÇÃO. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que matéria relativa ao cumprimento dos requisitos para concessão de benefícios previdenciários não tem natureza constitucional, justamente por tratar-se de matéria infraconstitucional e demandar o reexame do acervo probatório dos autos (Súmula 279/STF). Precedentes. 2. A decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante. 3. Embargos de declaração recebidos como agravo regimental a que se nega provimento”(ARE-ED 892.296, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 15.9.2015).
+    Ademais, no tocante à suposta ofensa aos princípios da ampla defesa, do contraditório e do devido processo legal, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
