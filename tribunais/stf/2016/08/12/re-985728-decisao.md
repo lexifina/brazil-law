@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Município de Rio Claro. Aparelhado o recurso na afronta aos arts. 5º, XXXV, 150, § 6º, e 156 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Da leitura dos fundamentos do acórdão prolatado na origem, constato explicitados os motivos de decidir, a afastar o vício da nulidade por negativa de prestação jurisdicional arguido. Destaco que, no âmbito técnico-processual, o grau de correção do juízo de valor emitido na origem não se confunde com vício ao primado da fundamentação, notadamente consabido que a disparidade entre o resultado do julgamento e a expectativa da parte não sugestiona lesão à norma do texto republicano. Colho precedente desta Suprema Corte na matéria, julgado segundo a sistemática da repercussão geral:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LV do art. 5º e ao inciso ix do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, ix, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG, Relator Ministro Gilmar Mendes, Plenário Virtual, DJe 13.8.2010)
+    As instâncias ordinárias decidiram as questões com fundamento na legislação ordinária aplicável à espécie e considerado o conjunto probatório dos autos. Nesse sentido: ARE 977240, Rel. Min. Gilmar Mendes, DJe 29.06.2016, ARE 917025, Rel Min. Edson Fachin, DJe 03.12.2015, RE 889054, Rel. Min. Cármen Lúcia, DJe 03.08.2015, e ARE 769913, Rel. Min. Cármen Lúcia, DJe 20.09.2013, verbis:
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO PREDIAL E TERRITORIAL URBANO – IPTU. DISCUSSÃO SOBRE O PROPRIETÁRIO DO IMÓVEL PARA COBRANÇA DO TRIBUTO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.” (RE 889054, Rel. Min. Cármen Lúcia, Dje 03;.08.2015)
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EXECUÇÃO FISCAL. INDICAÇÃO DE NOME DE SÓCIO NA CERTIDÃO DE DÍVIDA ATIVA - CDA. PROCEDIMENTO ADMINISTRATIVO. IMPOSSIBILIDADE DE ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.” (ARE 769913, Rel. Min. Cármen Lúcia, DJe 20.09.2013)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
