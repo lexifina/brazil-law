@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão proferido pelo Colégio Recursal de Guarulhos/SP, nos autos da Apelação n. 0035030-26.2011.8.26.0224, assim ementado:
+    “Desacato – sentença condenatória – pena majorada com fundamento no artigo 59 do Código Penal – recurso da defesa, que sustenta insuficiência de provas para condenação, impugnado o depoimento dos agentes públicos responsáveis pelo flagrante com elemento de prova, ou a redução da pena ao patamar mínimo legal e imposição de regime prisional aberto.” (eDOC 1, p. 185)
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido viola o artigo 5º, inciso IV, da Constituição Federal. (eDOC 1, p. 191-199)
+    Em síntese, sustenta-se “ser manifestamente atípica a conduta narrada na denúncia”, porquanto, “embora formalmente vigente o delito de desacato, urge reconhecer que não foi recepcionado pela ordem constitucional de 1988, uma vez que a tipificação de conduta fere o direito fundamental à liberdade de expressão consagrado pelo art. 5º, IV, da Carta Magna”.
+    Alega-se, ainda, que “a Relatoria para Liberdade de Expressão da Comissão Interamericana de Direitos Humanos já concluiu que as leias nacionais que estabelecem crimes de desacato são contrárias ao artigo 13 da CADH. Desta forma, ninguém poderia ser condenado criminalmente e ter a sua liberdade pessoal restringida por uma norma de direito interno que colidisse com a Convenção”.
+    Por fim, requer-se o provimento do extraordinário para “o reconhecimento da inconstitucionalidade do tipo penal previsto no artigo 331 do Código Penal com a regular absolvição com fulcro no artigo 386, III, do Código de Processo Penal”.
+    A Presidência do Colégio Recursal determinou a remessa dos autos a este Supremo Tribunal Federal. (eDOC 1, p. 221).
+    É o relatório.
+    Decido.
+    A despeito dos argumentos trazidos pelo recorrente, verifica-se que a matéria debatida pela Turma Recursal restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    É uníssona a jurisprudência da Corte de que o recurso extraordinário não se presta a analisar legislação infraconstitucional. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIMES DE DESOBEDIÊNCIA E DE DESACATO. ARTIGOS 330 E 331 DO CÓDIGO PENAL. ALEGADA VIOLAÇÃO DO ARTIGO 5º, XLVI, DA CF/88. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AFRONTA AO ARTIGO 93, IX, DA CF/88. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. (ARE 944.954/SP AgR, rel. min. Luiz Fux, Primeira Turma, DJe 15.4.2016);
+    “DIREITO PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. CONTROVÉRSIA DECIDIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. 1. A jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Precedente. 2. Para chegar a conclusão diversa do acórdão recorrido, imprescindível seria uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário. 3. Agravo regimental a que se nega provimento. (ARE 897.489/RS AgR, rel. min. Roberto Barroso, Primeira Turma, DJe 18.9.2015; grifei).
+    Ante o exposto, nego seguimento ao recurso extraordinário (art. 21, § 1º, do RISTF).
+    Publique-se. Int.
+    Brasília, 15 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
