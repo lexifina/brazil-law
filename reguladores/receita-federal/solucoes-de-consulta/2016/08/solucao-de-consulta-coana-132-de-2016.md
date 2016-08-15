@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 132, de 24 de junho de 2016
+ASSUNTO:Classificação de Mercadorias
+EMENTA: Código NCM: 9504.50.00 Ex Tipi: Ex 01 Mercadoria: Acessório próprio para console de jogos de vídeo, consistindo em uma barra de sensores que detecta os movimentos do jogador e os envia de forma codificada para que o console traduza os dados e os replique na tela de um receptor de televisão.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 1 p) da Seção XVI, da Nota 3 do Capítulo 95 e da posição 95.04), RGI 6 (textos da Nota de subposição 1 b) do Capítulo 95 e da subposição de 1º nível fechada 9504.50) e RGC/Tipi (texto do Ex 01), constante da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+ASSUNTO:Classificação de Mercadorias
+EMENTA: Código NCM: 9504.50.00 Ex Tipi: Ex 01 Mercadoria: Acessório próprio para console de jogos de vídeo, consistindo em uma barra de sensores que detecta os movimentos do jogador e os envia de forma codificada para que o console traduza os dados e os replique na tela de um receptor de televisão.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 1 p) da Seção XVI, da Nota 3 do Capítulo 95 e da posição 95.04), RGI 6 (textos da Nota de subposição 1 b) do Capítulo 95 e da subposição de 1º nível fechada 9504.50) e RGC/Tipi (texto do Ex 01), constante da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+FERNANDO KENJI MYAMOTO
+Vice-Presidente da 3ª Turma
