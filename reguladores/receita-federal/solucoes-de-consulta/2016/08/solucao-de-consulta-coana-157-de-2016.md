@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 157, de 28 de julho de 2016
+ASSUNTO:Classificação de Mercadorias
+EMENTA: Código NCM/TEC/Tipi: 8544.30.00 Mercadoria: Jogo de fios de cobre de diâmetros e comprimentos diversos, encapsulados em bainha plástica, dotados de conectores elétricos machos e fêmeas em suas extremidades, unidos por fita plástica isolante PVC, com partes embutidas em seções de tubos de PVC, utilizados em veículos automotores, conhecido comercialmente como chicote elétrico.
+DISPOSITIVOS LEGAIS: RGI-1 (texto da posição 85.44), RGI-6 (textos da subposição 8544.30) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, com alterações posteriores, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+ASSUNTO:Classificação de Mercadorias
+EMENTA: Código NCM/TEC/Tipi: 8544.30.00 Mercadoria: Jogo de fios de cobre de diâmetros e comprimentos diversos, encapsulados em bainha plástica, dotados de conectores elétricos machos e fêmeas em suas extremidades, unidos por fita plástica isolante PVC, com partes embutidas em seções de tubos de PVC, utilizados em veículos automotores, conhecido comercialmente como chicote elétrico.
+DISPOSITIVOS LEGAIS: RGI-1 (texto da posição 85.44), RGI-6 (textos da subposição 8544.30) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, com alterações posteriores, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+ÁLVARO AUGUSTO DE VASCONCELOS LEITE RIBEIRO
+Presidente da 1ª Turma
