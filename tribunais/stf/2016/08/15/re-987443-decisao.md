@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso extraordinário interposto pelo Município de Ipatinga contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Minas Gerais, está assim ementado:
+    “Embargos à Execução. Vencimentos do servidor. Base de cálculo do adicional de insalubridade. Súmula Vinculante nº 04 do STF. Vedação. Hipóteses previstas no art. 741 do CPC. Ausência. Exigibilidade do título judicial. – Nos termos do disposto na Súmula Vinculante nº 04 do STF, salvos os casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial. – A vedação contida na Súmula Vinculante nº 04 do STF não se refere às hipóteses de omissão do legislador em fixar a base de cálculo de vantagem do servidor público. – Não restando demonstrada qualquer das hipóteses do art. 741 do CPC, que pudesse ensejar a declaração de inexigibilidade do título exequendo, a improcedência dos embargos é medida que se impõe.”
+    A parte recorrente sustenta, no apelo extremo em questão, que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal (RE 672.687-AgR-segundo/MG, Rel. Min. ROBERTO BARROSO – RE 673.644-AgR/MG, Rel. Min. TEORI ZAVASCKI – RE 674.967-AgR- -segundo/MG, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MUNICÍPIO DE IPATINGA. SERVIDOR PÚBLICO. BASE DE CÁLCULO DO ADICIONAL DE INSALUBRIDADE. AUSÊNCIA DE LEGISLAÇÃO LOCAL QUE DISCIPLINE O TEMA. ACÓRDÃO DA JUSTIÇA DO TRABALHO QUE SUPRE A OMISSÃO LEGISLATIVA. AUSÊNCIA DE CONTRARIEDADE À SÚMULA VINCULANTE N. 4 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 637.335-AgR/MG, Rel. Min. CÁRMEN LÚCIA)
+    “Agravo regimental no recurso extraordinário. Administrativo. Servidor público. Município. Base de cálculo do adicional de insalubridade. Ausência de previsão legal. Incidência sobre o vencimento básico. Possibilidade. Súmula Vinculante nº 4. Precedentes.
+    1. Diante da proibição constitucional de vinculação de qualquer vantagem de servidor público ou empregado ao salário mínimo e da impossibilidade da modificação da respectiva base de cálculo, não viola a Constituição a decisão do Tribunal que, em razão da omissão legislativa, fixa o vencimento básico do servidor como base de cálculo do adicional de insalubridade.
+    2. Agravo regimental não provido.”
+    (RE 687.395-AgR/MG, Rel. Min. DIAS TOFFOLI)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com entendimento firmado por esta Suprema Corte (CPC/15, art. 932, VIII, e RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 15 de agosto de 2016.
+Ministro CELSO DE MELLO
+Relator
