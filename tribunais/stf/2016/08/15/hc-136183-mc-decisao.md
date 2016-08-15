@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Antônio Magno do Nascimento Silva, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao RHC nº 70.438/PE, Relator o Ministro Joel Ilan Paciornik.
+    O impetrante sustenta, em síntese, que,
+    “por força do Processo nº 302-12.2013.8.17.1170, então em curso na Comarca de Quipapá (PE), o paciente, acusado de homicídio (Doc. 1), está preso preventivamente desde 15/05/2013 (Doc. 2), até hoje sem julgamento, ou seja, preso provisoriamente há mais de 3 anos e 3 meses, o que significa um ilegal e desarrazoado excesso de prazo, princípio este, embora previsto constitucionalmente (art. 5º, LXXVIII), foi amesquinhado pelo acórdão recorrido” (grifos do autor).
+    Requer, liminarmente, a concessão da ordem para que a prisão preventiva do paciente seja revogada ou substituída por medidas cautelares diversas (CPP, art. 319).
+    Examinados os autos, decido.
+    Transcrevo o teor do aresto impugnado:
+    “RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. INOCORRÊNCIA. RÉU PRONUNCIADO. SÚMULA N. 21 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. MORA NA DESIGNAÇÃO DA SESSÃO DO JÚRI. AUSÊNCIA DE DESÍDIA DO MAGISTRADO. MANEJO DE SUCESSIVOS RECURSOS DEFENSIVOS. REQUERIMENTO DE DESAFORAMENTO DOS AUTOS. RECURSO DESPROVIDO. RECOMENDAÇÃO DE CELERIDADE NO JULGAMENTO DO FEITO.
+    1. Estando o paciente pronunciado, não há falar em excesso de prazo da instrução criminal, conforme entendimento consolidado na Súmula n. 21 do Superior Tribunal de Justiça.
+    2. Quanto à alegada mora na designação de sessão do júri, constitui entendimento consolidado do Superior Tribunal de Justiça que somente configura constrangimento ilegal por excesso de prazo, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação.
+    In casu, a mora na designação de sessão do júri não pode ser atribuída ao Juízo. Após a pronúncia do paciente, em 18.8.2014, houve manejo de uma série de recursos defensivos - embargos de declaração à pronúncia, recurso em sentido estrito, embargos de declaração ao acórdão que examinou o recurso em sentido estrito. Conquanto seja legítima à defesa a adoção dos meios e recursos inerentes ao processo penal, não há como negar que, em contrapartida ao exercício desse direito, tem-se inevitáveis sobressaltos na marcha processual, que não podem ser considerados excesso de prazo atribuível ao Poder Judiciário.
+    Em consulta aos assentos informatizados da Corte de origem obtém-se, ainda, notícia de representação pelo desaforamento do feito, com remessa dos autos ao Tribunal de Justiça em 4.11.2015, estando os autos, após redistribuição em 27.1.2016, conclusos para julgamento. Não há, pois, falar em desídia do magistrado condutor, o qual tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputado ao Judiciário a responsabilidade pela demora.
+    Recurso em habeas corpus desprovido. Expeça-se, no entanto, recomendação ao Juízo de origem, a fim de que se atribua a maior celeridade possível ao julgamento da ação penal do paciente” (anexo 20).
+    Essa é a razão pela qual se insurge o impetrante.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação constante dos autos representar manifesto constrangimento ilegal.
+    Pelo que se tem no julgado proferido pela Quinta Turma do Superior Tribunal de Justiça, não se vislumbra, neste primeiro exame, ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento de liminar. Com efeito, a decisão emanada daquela Corte encontra-se suficientemente motivada, restando justificado o convencimento formado.
+    Ademais, o prazo transcorrido desde a prisão preventiva do paciente, ocorrida em 15/5/13, não induz, por si só, à conclusão de que esteja ocorrendo o excesso de prazo, mormente se considerada a notícia de que a defesa do paciente teria contribuído para tanto.
+    Do voto proferido pelo Ministro Joel Ilan Paciornik extrai-se os seguintes fundamentos:
+    “a mora na designação de sessão do júri não pode ser atribuída ao Juízo.
+    Após a pronúncia do paciente, em 18.8.2014, houve manejo de uma série de recursos defensivos - embargos de declaração à pronúncia, recurso em sentido estrito, embargos de declaração ao acórdão que examinou o recurso em sentido estrito. Conquanto seja legítima à defesa a adoção dos meios e recursos inerentes ao processo penal, não há como negar que, em contrapartida ao exercício desse direito, tem-se inevitáveis sobressaltos na marcha processual, que não podem ser atribuídos ao Poder Judiciário.
+    Em consulta aos assentos informatizados da Corte de origem obtém-se, ainda, notícia de representação pelo desaforamento do feito, com remessa dos autos ao Tribunal de Justiça em 4.11.2015, estando, portanto, após redistribuição em 27.1.2016, conclusos para julgamento.
+    Não há, pois, falar em desídia do magistrado condutor, o qual tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputado ao Estado-Juiz a responsabilidade por eventual demora” (anexo 20).
+    Esse entendimento, à primeira vista, não diverge da pacífica jurisprudência do Supremo Tribunal Federal, segundo a qual “não procede a alegação de excesso de prazo quando a complexidade do feito, as peculiaridades da causa ou a defesa contribuem para eventual dilação do prazo” (HC nº 118.227/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1º/4/14).
+    No mesmo sentido: RHC nº 119.935/BA, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 1º/7/14; HC nº 120.675/SP-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/6/14; e HC nº 108.527/PA, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 2/12/13, entre outros.
+    De qualquer modo, considerando a recomendação ao Juízo de origem para se atribuir maior celeridade possível ao julgamento da ação penal do penal do paciente, contida no acórdão do Superior Tribunal de Justiça, reputo necessário um pedido de informações para dissipar qualquer dúvida a respeito do alegado excesso de prazo.
+    Com essas considerações, sem prejuízo de exame mais detido quando do julgamento do mérito, indefiro a liminar requerida.
+    Oficie-se ao Juízo de Direito da Vara Única da Comarca de Quipapá/PE para que preste informações atualizadas a respeito do eventual julgamento da Ação Penal nº 302-12.2013.8.17.1170 à qual responde o paciente.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 15 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
