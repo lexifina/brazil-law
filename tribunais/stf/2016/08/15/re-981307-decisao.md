@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “Administrativo. IPHAN. Licitação para contratação de motorista. Monopólio postal não afetado. Apelação improvida. Embargos declaratórios. Omissão. Constatação. Esclarecimento. Os serviços a serem prestados pelos motoristas não englobam as atividades previstas no artigo 9º da Lei 6.538/78 e, portanto, não violam o monopólio postal. Contratação visando facilitar a comunicação interna do órgão. Vedação que resultaria na inviabilização do trabalho diuturno da autarquia, prejudicando não somente o órgão, mas os interesses da preservação do patrimônio cultural e dos moradores dos sítios tombados. Existência de contrato do IPHAN com a EBCT - o contrato nº 08/2013 -, consistente na prestação de serviços e venda de produtos, a saber: envio de carta convencional, carta comercial, telegrama, cartão postal e cartão-resposta e encomenda nacional e internacional, o que reforça, ainda mais, a tese sustentada pelo requerido IPHAN de que essa autarquia federal não viola o monopólio postal conferido à União. Embargos declaratórios providos, sem efeitos infringentes.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 21, X, da Constituição.
+    O recurso extraordinário não pode ser provido. O Tribunal de origem entendeu que a contratação, pelo recorrido, de empresa para a prestação de serviços de apoio administrativo não viola o monopólio postal. Para dissentir desse entendimento, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, procedimentos vedados pela Súmula 279. Nesse sentido, confira-se o ARE 797.651, Rel. Min. Celso de Mello.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 15 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
