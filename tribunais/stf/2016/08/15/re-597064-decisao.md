@@ -1,0 +1,11 @@
+DECISÃO: Na petição 34.424/2016, Nossa Saúde Operadora de Planos Privados de Assistência à Saúde LTDA., pleiteia admissão como amicus curiae neste processo.
+    Em princípio, a manifestação dos amici curiae há de se fazer antes da inclusão do processo em pauta para julgamento. No entanto, esta Corte tem evoluído para admitir exceções a essa regra. Especialmente diante da relevância do caso ou, ainda, em face da notória contribuição que a manifestação possa trazer para o julgamento da causa, é possível cogitar de hipóteses de admissão do ingresso, ainda que fora desse prazo.
+     Essa construção jurisprudencial sugere a adoção de um modelo procedimental que ofereça alternativas e condições para permitir, de modo cada vez mais intenso, a interferência de uma pluralidade de sujeitos, argumentos e visões no processo constitucional. Essa nova realidade pressupõe, além de amplo acesso e participação de sujeitos interessados no sistema de controle de constitucionalidade de normas, a possibilidade efetiva de o Tribunal contemplar as diversas perspectivas na apreciação da legitimidade de um determinado ato questionado. Exatamente pelo reconhecimento da alta relevância do papel em exame é que o Supremo Tribunal Federal tem proferido decisões admitindo o ingresso desses atores na causa após o término do prazo das informações (ADI 3.474, rel. Min. Cezar Peluso, DJ 19.10.05), após a inclusão do feito na pauta de julgamento (ADI 2.548, de minha relatoria, DJ 24.10.05) e, até mesmo, quando já iniciado o julgamento, para a realização de sustentação oral, logo depois da leitura do relatório, na forma prevista no art. 131, § 3º do RISTF (ADI 2.777-QO, rel. Min. Cezar Peluso).
+    No caso, verifico a presença de circunstâncias que justificam a mitigação da jurisprudência, em face da notória contribuição que as entidades peticionantes poderão trazer para o julgamento da causa.
+    Ante exposto, tendo em vista a relevância da questão discutida e a representatividade da entidade postulante, defiro, com fundamento no art. 138 do NCPC, o pedido para que possa intervir no feito na condição de amicus curiae, podendo apresentar memoriais e proferir sustentação oral.
+    À Secretaria Judiciária para as providências cabíveis.
+    Publique-se.
+    Brasília, 15 de agosto de 2016.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
