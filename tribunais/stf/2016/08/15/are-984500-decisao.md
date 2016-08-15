@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC2, p. 84):
+    “Agravo interno. Decisão da relatora que negou seguimento ao recurso interposto pelos agravantes. Apelação cível. Direito monetário. Revisão de vencimentos. URV. Diferenças salariais originadas da conversão de cruzeiros reais para URV. Jurisprudência recentíssima do STF, em julgamento sob o rito dos recursos repetitivos, em que se verifica o término da incorporação dos 11,98%, ou do índice obtido em cada caso, no momento em que a carreira do servidor passa por reestruturação remuneratória. Recurso Extraordinário nº 561836/RN. Prescrição do fundo de direito configurada, a teor do disposto na súmula 85 desta Corte. Improcedência dos pleitos autorais. Desprovimento do recurso.”
+    No recurso extraordinário, no qual não se indica o permissivo constitucional referente ao seu cabimento, aponta-se ofensa aos artigos 5º, XXXV, LIV e 37, XV, da Constituição Federal.
+    Sustenta-se, inicialmente, que o Tribunal de origem, ao reconhecer a ocorrência de prescrição do fundo do direito da parte recorrente, ofendeu a Constituição, por negativa de prestação jurisdicional e ofensa ao princípio do devido processo legal. Além disso, alega-se ofensa aos princípios da legalidade, da impessoalidade, da irredutibilidade de vencimentos e da isonomia.
+    O Tribunal a quo inadmitiu o recurso com base na Súmula 284 do STF (eDOC3, p.10/11)
+    É o relatório. Decido.
+    De plano, observa-se que a parte recorrente não indicou o permissivo constitucional no qual se fundamenta a interposição do recurso extraordinário. Incide, portanto, ao caso, a Súmula 284 do STF.
+    Ademais, verifica-se que a preliminar de repercussão geral na petição recursal não está devidamente fundamentada, pressuposto de admissibilidade do recurso.
+    A simples menção à preliminar de repercussão geral não é capaz de sanar a exigência de sua demonstração, devendo a parte desenvolver argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância do ponto de vista econômico, político, social ou jurídico das questões constitucionais aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza. Nesse sentido: ARE 858.726-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 16.03.2015; RE 762.114-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 10.08.2015.
+    Ao apreciar Questão de Ordem no ARE 663.637, o Plenário desta Corte decidiu que não basta a indicação do caso paradigma como demonstrativo da repercussão geral. Mesmo nesses casos a preliminar de repercussão geral deve estar devidamente fundamentada.
+    Ademais, observa-se que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. A jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Incidem, portanto, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Além disso, a jurisprudência do STF se firmou no sentido de que é infraconstitucional a questão referente à ocorrência de prescrição. Desse modo, eventual ofensa à Constituição seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 15 de agosto de 2016.
+Ministro Edson Fachin
+Relator
