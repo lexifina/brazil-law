@@ -1,0 +1,12 @@
+Trata-se de suspensão de tutela antecipada ajuizada pelo Município de Jahu contra decisão do Órgão Especial do Tribunal de Justiça do Estado de São Paulo, que, no Agravo Regimental na Suspensão de Tutela Antecipada 2012896-85.2016.8.26.0000 (documento eletrônico 2), manteve a liminar deferida pelo Juízo de Direito da 1ª Vara Cível de Jaú/SP nos autos da Ação Civil Pública 1000030-29.2016.8.26.0302 (documento eletrônico 3).
+    Nessa decisão, o magistrado de primeiro grau deferiu o pedido de tutela antecipada para determinar que “a Fazenda Pública Estadual e a Fazenda Pública Municipal, no prazo de 5 dias, restabelecessem o fornecimento regular e de forma continuada e ininterrupta dos medicamentos Calcitriol 1mcg/mL (Calcijex), Eritropoetina (Hemax), Acetato de Cálcio, Cloridrato de Sevelâmer (Renagel) 800mg e Noripurum, para os pacientes renais que utilizassem o serviço de hemodiálise da Santa Casa de Misericórdia de Jaú, conforme demandas apresentadas no SUS e nas dosagens prescritas por seus respectivos médicos, pena de multa diária de R$10.000,00 por dia de descumprimento e/ou bloqueio de verbas públicas” (pág. 30 do documento eletrônico 2).
+    O requerente alega, em síntese, que
+    “a mantença da decisão que concedeu a liminar pleiteada configura nítida OFENSA À ORDEM JURÍDICA, pois, a verbo vicário do texto constitucional, a despeito da solidarização, as ações em matéria de saúde somente poderão ser realizadas pelo Município com a condição da colaboração técnica e financeira da União, conforme art. 30, VII da Constituição, e a ECONOMIA PÚBLICA, uma vez que, além de provocar um sério desequilíbrio orçamentário-financeiro, comprometerá o acesso universal e igualitário às ações de saúde por parte da população, máxime quando o custeio dos fármacos poderá comprometer, em poucos meses, a totalidade dos créditos consignados para a dotação suporte profilático e terapêutico, ante a coletivização da tutela jurisdicional, fruto da ação civil pública” (pág. 5 documento eletrônico 1).
+    É o relatório necessário.
+    Decido.
+    Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de São Paulo é possível constatar que o Agravo Regimental na Suspensão de Tutela Antecipada 2012896-85.2016.8.26.0000 transitou em julgado em 19/5/2016.
+    Constato, assim, a perda do objeto da contracautela.
+    Isso posto, julgo prejudicado o presente pedido de suspensão, por perda superveniente de objeto (art. 21, IX, do RISTF).
+    Brasília, 15 de agosto de 2016.
+Ministro Ricardo Lewandowski
+Presidente
