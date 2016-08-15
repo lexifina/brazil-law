@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 144, de 18 de julho de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8518.22.00 Mercadoria: Caixa acústica contendo alto-falantes, amplificador de audiofrequência e reprodutor de áudio MP3/WMA de dispositivos USB portáteis, com entrada de áudio RCA, AUX, entrada digital coaxial, entrada óptica e porta USB, com controle remoto, denominado comercialmente “sistema de áudio Soundbar”.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (Nota 3 da Seção XVI e texto da posição 85.18) e RGI/SH 6 (Nota 3 da Seção XVI e textos das subposições 8518.2 e 8518.22), da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8518.22.00 Mercadoria: Caixa acústica contendo alto-falantes, amplificador de audiofrequência e reprodutor de áudio MP3/WMA de dispositivos USB portáteis, com entrada de áudio RCA, AUX, entrada digital coaxial, entrada óptica e porta USB, com controle remoto, denominado comercialmente “sistema de áudio Soundbar”.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (Nota 3 da Seção XVI e texto da posição 85.18) e RGI/SH 6 (Nota 3 da Seção XVI e textos das subposições 8518.2 e 8518.22), da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+LUIZ HENRIQUE DOMINGUES
+Presidente da 4ª Turma
