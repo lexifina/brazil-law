@@ -1,0 +1,21 @@
+Despacho: Trata-se de Mandado de Segurança impetrado pela Deputada Federal ÉRIKA JUCÁ KOKAY contra ato emanado pela Presidência da Câmara dos Deputados que deferiu requerimento de criação de CPI destinada a investigar a atuação da FUNAI e do INCRA na demarcação de terras indígenas e de remanescentes de quilombos.
+    A Confederação da Agricultura e Pecuária no Brasil – CNA, requereu a admissão no feito na condição de amicus curiae (eDOC 102). Posteriormente, requereu a juntada aos autos do respectivo ato constitutivo, do instrumento procuratório e de demais documentos (eDOCs 104-114).
+    Sustenta possuir representatividade institucional para colaborar com o feito e defende sua intervenção em virtude do seu interesse direto na causa como entidade sindical de nível superior, representativa dos proprietários e produtores rurais.
+    Decido sobre a admissão do Requerente no feito na condição de amicus curiae
+    O amicus curiae revela-se como importante instrumento de abertura do STF à participação na atividade de interpretação e aplicação da Constituição, o que não apenas se restringe ou se pode restringir aos processos de feição objetiva.
+    Como é sabido, a interação dialogal entre o STF e pessoas naturais ou jurídicas, órgãos ou entidades especializadas, que se apresentem como amigos da Corte, tem um potencial epistêmico de apresentar diferentes pontos de vista, interesses, aspectos e elementos nem sempre alcançados, vistos ou ouvidos pelo Tribunal diretamente da controvérsia entre as partes em sentido formal, possibilitando, assim, decisões melhores e também mais legítimas do ponto de vista do Estado Democrático de Direito.
+    Conforme dispõe o CPC em seu art. 138, duas balizas se fazem necessárias para a sua admissão. De um lado, tem-se a necessidade de relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia. De outro, a representatividade adequada do possível amicus curiae.
+    Como ressaltei anteriormente nos autos, não obstante o desate da questão posta no presente writ circunscreva-se, precipuamente, de um lado, à compreensão sobre a presença dos requisitos constitucionais do fato determinado e prazo certo para fins de instauração de CPI, bem como, de outro, à extensão dos poderes investigatórios do Parlamento à luz da separação de Poderes, é manifesta a repercussão da controvérsia.
+    Tal fato ocorre por envolver discussão sobre os limites de investigação sobre a atuação de importantes órgãos públicos (a FUNAI e o INCRA) na demarcação de terras indígenas e de remanescentes de quilombos.
+    Conforme salientado em pronunciamento anterior (eDOC 83), entendo que não é possível confundir a representatividade ligada ao oferecimento de razões para a melhor consecução da atividade de interpretação e aplicação da Constituição na condição de amicus curiae, ou seja, conectada com uma prévia atuação concreta do postulante, com a atribuição, de forma abstrata, de legitimidade ligada à consecução das finalidades institucionais de determinada entidade.
+    Dessa forma, a Confederação da Agricultura e Pecuária no Brasil – CNA, nada obstante a sua envergadura como entidade sindical de nível superior, não indicou expressamente, à luz de prévia atuação concreta, sua representatividade em relação ao tema objeto do presente writ e contribuição específica para figurar no presente feito na ação na condição de amicus curiae.
+    Ou seja, em que pese a CNA ter demonstrado iniciativa de atuar no feito, não se desincumbiu de demonstrar de que forma pretende, efetiva e especificamente, contribuir com o aclaramento ou elucidação da discussão aqui posta.
+    Diante do exposto:
+    a) Intime-se a Confederação da Agricultura e Pecuária no Brasil – CNA para, no prazo de 5 (cinco) dias, demonstrar, a sua representatividade adequada para atuar no feito na condição de amicus curiae, ou seja, qual a contribuição específica que pode oferecer ao deslinde da causa, ressaltando que o presente mandado de segurança foi incluído na pauta do Plenário em 2.8.2016 (DJe 162, publicado em 3.8.2016).
+    b) Junte-se aos autos os documentos acostados pela CNA (eDOCs 104-114).
+    À Secretaria para as providências necessárias.
+    Publique-se. Intime-se.
+    Brasília, 15 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
