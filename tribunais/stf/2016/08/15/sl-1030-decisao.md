@@ -1,0 +1,18 @@
+Trata-se, em verdade, de suspensão de tutela antecipada ajuizada pelo Estado do Paraná contra decisão do Presidente do Tribunal de Justiça daquele Estado, que, nos autos do Agravo Regimental 1.545.1786/01 (documento eletrônico 13), manteve a liminar deferida pelo Juízo da Vara de Fazenda Pública de Sertanópolis/PR nos autos da Ação Civil Pública 0001338-31.2016.8.16.0162 (documento eletrônico 3).
+    Nessa decisão, o magistrado de primeiro grau deferiu em parte o pedido de tutela antecipada e decretou
+    “a interdição da Cadeia Pública Municipal. A fim de concretizar a medida de urgência, determino: a) a remoção de todos os presos que se encontram preclusos, no prazo de 10 (dez) dias; b) a remoção imediata de eventuais pessoas presas durante o trâmite do presente processo a local adequado a ser indicado pelo requerido no mesmo prazo de 10 (dez) dias, ou na falta de indicação, por meio da Central de Vagas. Com o fim de assegurar o cumprimento do comando judicial, comino multa diária no valor de R$ 5.000,00 (cinco mil reais), em caso de descumprimento, com fulcro nos artigos 536, §1º e 537, caput, do NCPC, a ser revertida ao Fundo Penitenciário Estatal” (pág. 3 do documento eletrônico 3).
+    O requerente alega, em síntese, que
+    “interdição da Cadeia Pública de Sertanópolis, agravada pela inexistência de vagas no DEPEN (cujas remoções, além de abranger todo o ESTADO DO PARANÁ, dependem, por óbvio da existência de vagas, sob pena de impossibilidade material de serem realizadas), é medida destituída de qualquer eficácia tendente à melhoria das condições prisionais, tendo o efeito, tão somente, de ensejar superlotação em outra cadeia pública, com seus consectários, tais como ‘tentativas de fuga, rebeliões e ações emergenciais’.
+    Somente estas informações são suficientes para a suspensão da liminar que determinou a interdição da cadeia pública, desconsiderando inexistência de local adequado para encaminhamento dos presos, inclusive em decorrência de decisões prévias, de índole similar, ignorando que a remoção para unidades porventura superlotadas e/ou trabalhando na capacidade máxima não terá outro efeito, senão agravar a situação dos próprios detentos removidos e daqueles que estão nas unidades de destino” (págs. 2-3 documento eletrônico 1).
+    É o relatório necessário.
+    Decido.
+    Bem examinados os autos, verifico a existência de óbice intransponível ao conhecimento deste pedido de suspensão.
+    Isso porque, em consulta ao sítio eletrônico do Tribunal de Justiça do Paraná, foi possível verificar que o Estado requerente, após a prolatação da decisão ora impugnada, deixou de interpor o competente recurso extraordinário, tendo manejado apenas este pedido de suspensão.
+    Assim, os fundamentos de natureza constitucional, porventura existentes, já transitaram em julgado, não havendo razão para que seja concedida medida de contracautela, visto que a controvérsia deduzida no feito de origem não poderá chegar a esta Suprema Corte pela via recursal processualmente adequada.
+    Aponto, nessa direção, a decisão tomada pelo Plenário desta Casa na SS 4.382-AgR/BA, Rel. Min. Cezar Peluso, assim ementada:
+    “SUSPENSÃO DE SEGURANÇA. Ausência de interposição de recurso extraordinário. Trânsito em julgado da decisão sobre a questão constitucional. Pedido indeferido. Agravo regimental improvido. Ausência de interposição de recurso extraordinário implica trânsito em julgado da questão constitucional e, pois, inadmissibilidade de pedido de contracautela”.
+    Isso posto, nego seguimento a esta suspensão de tutela antecipada.
+    Publique-se.
+    Brasília, 15 de agosto de 2016.
+Ministro Ricardo Lewandowski
+Presidente
