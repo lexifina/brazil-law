@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. Atentem para o que decidido na origem. O Superior Tribunal de Justiça consignou, em síntese:
+    ADMINISTRATIVO E PROCESSO CIVIL. MILITAR DEMISSIONÁRIO. PENSÃO MILITAR. MP Nº 2.215-10/2001. CONTRIBUIÇÃO ESPECÍFICA DE 1,5%. AUSÊNCIA DO DIREITO À MANUTENÇÃO DOS BENEFÍCIOS PREVISTOS NA LEI Nº 3.765/60. NÃO ENQUADRAMENTO NO CONCEITO DE MILITAR. ESTATUTO DOS MILITARES (LEI Nº 6.880/80).
+    1 - A jurisprudência desta Corte firmou-se no sentido de que: "O oficial "demitido a pedido" antes do advento da aludida Medida Provisória, e transferido para a reserva não remunerada, não se enquadra no conceito de militar (Lei nº 6.880/80), não tendo direito adquirido à manutenção da pensão nos termos do art. 7º da Lei nº 3.765/60. Aplicação ao caso do princípio tempus regit actum, segundo o qual a lei que a rege a concessão de pensão por morte é aquela vigente quando da ocorrência do fato gerador, ou seja, à época do óbito do instituidor do benefício." (REsp 889196/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 25/05/2010, DJe 21/06/2010).
+    3 – Agravo regimental a que se nega provimento.
+    No extraordinário, o recorrente aponta violados os artigos 5º, inciso XXXVI, 40, 93, inciso IX, e 142, §3º, inciso VI, da Constituição Federal. Sustenta o direito adquirido à manutenção do regime de pensão militar. Tece considerações sobre o disposto no artigo 116, §3º da Lei nº 6.880/80.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Colho do acórdão recorrido o seguinte trecho:
+    Desse modo, a Medida Provisória nº 2.131/2000, ao modificar a Lei nº 3.765/60, não deixou de observar a condição de contribuinte isolado do recorrente, que foi demitido a pedido. No entanto, não se ressalvou seu direito à manutenção da pensão aos beneficiários previstos no art. 7º da Lei nº 3.765/60, mediante a contribuição de 1,5%. Com efeito, não se enquadra o recorrente no conceito de "atuais militares" previsto no artigo 31 da Medida Provisória nº 2.131/2000, uma vez que o oficial "demitido a pedido", transferido para a reserva não remunerada, não é considerado militar.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 16 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
