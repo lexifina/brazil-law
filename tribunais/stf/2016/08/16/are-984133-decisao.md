@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — INTERPRETAÇÃO DE NORMAS LEGAIS— INVIABILIDADE — DEVIDO PROCESSO LEGAL — ANULAÇÃO DE ATO ADMINISTRATIVO — DIREITO DE DEFESA — PRECEDENTE — AGRAVO DESPROVIDO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado da Bahia consignou, em síntese:
+    ADMINISTRATIVO. REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO MUNICIPAL. ALTERAÇÃO IMOTIVADA DE REGIME DE TRABALHO POR MEIO DE DECRETOS MUNICIPAIS Nºs. 198/2013 E 211/2013 ENSEJANDO REDUÇÃO DE VENCIMENTOS. ILEGALIDADE EVIDENTE. INOBSERVÂNCIA AO CONTRADITÓRIO, AMPLO DIREITO DE DEFESA E IRREDUTIBILIDADE DE VENCIMENTOS. VIOLAÇÃO A DIREITO LÍQUIDO E CERTO. SEGURANÇA CONCEDIDA. JULGAMENTO PROFERIDO EM CONSONÂNCIA COM ELEMENTOS CARREADOS PARA OS AUTOS E LEGISLAÇÃO EM VIGOR. SENTENÇA CONFIRMADA. Não merece reforma a sentença concessiva de segurança pleiteada por servidora pública municipal, suspendendo efeitos de ato imotivado guerreado perpetrado por Prefeito Municipal, refletido em Decretos Municipais n.198/2013 e 211/2013, sem justificativa legal, desprovidos de motivação, dissonantes da Lei Complementar nº.08/2004, art.43, a admitir ampliação de carga horária de seus servidores quando atendidos os requisitos legais.
+    No extraordinário cujo trânsito busca alcançar, o recorrente afirma a violação dos artigos 5º, incisos XXXV, LIV e LV, e 37, inciso II, da Constituição Federal. Afirma contrariado o verbete nº 473 da Súmula do Supremo. Sustenta a legalidade dos Decretos municipais nº 198/13 e nº 211/13.
+    2. De início, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, a decisão recorrida está em consonância com o entendimento do Supremo. O Tribunal, ao julgar o mérito do Recurso Extraordinário nº 594.296/MG, com repercussão geral admitida, assentou ser ilegal a anulação de ato administrativo cuja formalização tenha refletido no campo individual de particulares sem a devida instauração de procedimento administrativo no qual se observem as garantias constitucionais da ampla defesa e do contraditório.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 16 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
