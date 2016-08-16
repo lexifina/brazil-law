@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão de Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO – MANDADO DE SEGURANÇA – ISSQN – COOPERATIVA DE TRABALHO – Pretensão de afastar a exigibilidade do Imposto Sobre Serviços de Qualquer Natureza – Ordem denegada em primeiro grau – Decisório que merece subsistir – Questões suscitadas nos autos que demandam dilação probatória, escapando dos estreitos limites da ação mandamental – Ausência de elementos que demonstrem quais são as atividades da cooperativa que estariam isentas da exigibilidade da cobrança do imposto – Evidente ausência de direito líquido e certo a amparar a presente impetração – Negado provimento ao recurso.” (eDOC. 1, p. 180)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, XVIII; 174, § 2º; e 146, III, “c”, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que “sobre os atos da recorrente de intermediação entre seus cooperados e os tomadores que usam de seus serviços não há que se falar na incidência de ISS – Imposto Sobre Serviços de qualquer Natureza.” (eDOC 1, p. 245)
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o recurso por ausência de preliminar devidamente fundamentada sobre a presença de repercussão geral. (eDOC 1, p. 300)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido e da realidade processual, o que torna aplicável ao caso o enunciado da súmula 284 do STF.
+    Ocorre que a parte Recorrente sustenta o seguinte:
+    “Considerando que a característica fundamental do ato cooperativo típico é a realização de operações exclusivamente entre os próprios cooperados, conclui-se que não há incidência do ISS sobre a relação estabelecida entre a cooperativa e os tomadores de serviços de seus cooperados, pois inexiste a circulação econômica de serviços nesta tratativa.” (eDOC 1, p. 251)
+    No entanto, outro foi o fundamento do acórdão impugnado, porquanto restou decidido pelo Tribunal de origem o seguinte:
+    “Com efeito, o mandado de segurança é previsto no ordenamento para amparar direito líquido e certo violado ou ameaçado de violação por ato ilegal ou abuso de poder praticado por autoridade.
+    (…)
+    No caso dos autos, porém, como exaustivamente examinado, não há direito líquido e certo a amparar a presente impetração, posto que a isenção total do ISSQN está calcada em questões de fato, que, à evidência, dependem de dilação probatória e, até mesmo, de realização de perícia, com vistas a coligir elementos que demonstrem quais são as atividades da cooperativa que estariam isentas da exigibilidade da cobrança do imposto.” (eDOC 1, p. 181-182)
+    Assim, verifica-se que as razões recursais não se mostram suficientes para afastar os fundamentos da decisão recorrida.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MULTA. CARÁTER CONFISCATÓRIO. RAZÕES DISSOCIADAS. IMPOSSIBILIDADE ANÁLISE DO RECURSO. SÚMULAS 283 E 284/STF. 1. O acórdão recorrido afirmou ser inviável a discussão acerca da exigibilidade da multa em sede de exceção de pré-executividade. Por outro lado, as razões do recurso extraordinário limitaram-se a pugnar pelo reconhecimento do caráter confiscatório da penalidade. Nota-se, então, que os argumentos apresentados no recurso extraordinário estão dissociados dos fundamentos do acórdão recorrido. Nessas condições, a hipótese atrai a incidência das súmulas 283 e 284/STF. 2. Agravo regimental a que se nega provimento.” (ARE 707173 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJE-075 DIVULG 22-04-2015 PUBLIC 23-04-2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE DO APELO EXTREMO. SÚMULA 284 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. I O recorrente não impugnou especificadamente os fundamentos do acórdão recorrido. Inviável, portanto, o recurso extraordinário, a teor da súmula 284 do STF. Para se chegar à conclusão contrária à adotada pelo acórdão impugnado, seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. - Agravo regimental a que se nega provimento.” (RE 718.234-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 9.12.2013).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 16 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
