@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário, interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA – PRELIMINAR – ILEGITIMIDADE PASSIVA DO ESTADO – QUESTÃO PREVIDENCIÁRIA – AFASTADA – MÉRITO – SERVIDOR PÚBLICO – EX-CELETISTA – CONTAGEM DE TEMPO DE SERVIÇO ESPECIAL – ATIVIDADE INSALUBRE – POSSIBILIDADE – DIREITO ADQUIRIDO – APOSENTAÇÃO – DIREITO A SER CONCEDIDA SE PREENCHIDOS TODOS OS REQUISITOS LEGAIS – INCUMBÊNCIA DO ORGÃO COMPETENTE – RECURSO PARCIALMENTE PROVIDO.
+    Considerando que os pagamentos de aposentadorias dos servidores estaduais são efetuados pelo próprio Estado, e não pelas autarquias ou órgãos a que se encontrem vinculados, não há falar em ilegitimidade passiva.
+    A jurisprudência do STJ encontra-se pacificada no sentido de que o servidor público ex-celetista tem direito a que seja averbado em sua ficha funcional o tempo de serviço que prestara no regime anterior, em condições nocivas à saúde, com o acréscimo legal decorrente da insalubridade.
+    A aferição do preenchimento dos requisitos necessários à aposentação do servidor incumbe ao órgão estatal competente, sendo indispensável submeter a questão ao crivo deste.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV e LV; 37, caput; 40, § 4º; e 93, IX, todos da Constituição. Sustenta que houve ofensa ao princípio da legalidade, uma vez que “o recorrente foi compelido pelo acórdão recorrido a proceder a contagem de tempo de serviço prestado sob condições perigosas para fins de aposentadoria sem que exista lei complementar a regulamentar a matéria”.
+    O recurso extraordinário é inadmissível. O Plenário do Supremo Tribunal Federal já decidiu pela inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Ademais, o Plenário do Supremo Tribunal Federal também já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Quanto à questão de fundo, o Tribunal de origem assentou que “a ausência da lei complementar prevista no § 1º, do inciso III, do artigo 40, da Constituição Federal, não tem o condão de obstar o cômputo do tempo convertido, pois somente incidiria esta disposição aos servidores estatutários que, nesta qualidade, prestassem serviços em condições insalubres, o que, a toda evidência, não é o caso dos autos”.
+     Esses são fundamentos autônomos e suficientes para a manutenção do julgado, que não foram atacados no recurso extraordinário. Houve recurso especial quanto à matéria, não provido e já transitado em julgado. Nessas condições, aplica-se a Súmula 283/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 16 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
