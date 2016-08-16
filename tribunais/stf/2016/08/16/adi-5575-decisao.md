@@ -1,0 +1,11 @@
+Decisão: Trata-se de Ação Direta de Inconstitucionalidade (ADI), com pedido de medida cautelar, ajuizada pela Associação das Operadoras de Celulares (ACEL) e pela Associação Brasileira de Concessionárias de Serviço Telefônico Fixo Comutado (Abrafix), em face da Lei Estadual da Paraíba 10.513, de 05 de outubro de 2015 que “Dispõe sobre mensagem de advertência da operadora de telefonia fixa e celular, no âmbito do Estado da Paraíba, nas chamadas telefônicas originadas para outras operadoras”.
+    Entre as alegações apresentadas pela petição inicial, as Associações autoras sustentam, preliminarmente, a respectiva legitimidade ativa para a impugnação e destacam que a mencionada legislação estadual incorreria em suposta “violação dos arts. 21, inciso XI, e 22, inciso IV da CF/1988” (Petição Inicial, pp. 4-13).
+    Em síntese, as teses centrais da impugnação consistem na alegada ofensa à competência exclusiva da União para a exploração dos serviços de telecomunicações (CRFB/1988, art. 21, XI, c/c art. 175), assim como da competência legislativa privativa para disciplinar a matéria (CRFB/1988, art. 22, IV).
+    Nesse contexto normativo, considerado o objeto da presente ação direta, denota-se que o assunto reveste-se de plausibilidade normativa, caracterizada pela relevância da matéria e de seu especial significado para a ordem social e para a segurança jurídica, com indiscutíveis efeitos econômicos e sociais quanto à prestação serviços de telecomunicações. Nesse particular, entendo deva ser aplicado o preceito veiculado pelo artigo 12 da Lei nº 9.868, de 10 de novembro de 1999, a fim de que a decisão venha a ser tomada em caráter definitivo.
+    Notifiquem-se as autoridades requeridas, para que prestem informações, no prazo máximo de 10 (dez) dias. Imediatamente após este prazo, dê-se vista ao Advogado-Geral da União (AGU) e ao Procurador-Geral da República (PGR), sucessivamente, no prazo de 5 (cinco) dias, para que cada qual se manifeste na forma da legislação vigente (Lei 9.868/1999, art. 12).
+    À Secretaria Judiciária para as devidas providências.
+    Publique-se. Intime-se.
+    Brasília, 16 de agosto de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
