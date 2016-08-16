@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ANISTIA EX-EMPREGADOS DA INTERBRÁS. REINTEGRAÇÃO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “EMBARGOS DE DECLARAÇÃO DESCABIMENTO EM DECISÃO MONOCRÁTICA DO RELATOR PRECEDENTES DO STF – RECURSO CABÍVEL - AGRAVO INOMINADO – ANISTIA – INTERBRÁS.
+    I - NÃO CABEM EMBARGOS DE DECLARAÇÃO - CONTRA DECISÃO MONOCRÁTICA DO RELATOR (RITRF/2ª R., ART. 251 E CPC, ART. 535, I). PRECEDENTES DO STF. RECURSO RECEBIDO, CONTUDO, COMO AGRAVO INOMINADO.
+    II - DA DETIDA ANÁLISE DOS DISPOSITIVOS LEGAIS EM EPÍGRAFE, VERIFICA-SE QUE OS INTERESSADOS NA ANISTIA CONCEDIDA DEVERIAM FORMULAR "REQUERIMENTO FUNDAMENTADO' E ACOMPANHADO DA DOCUMENTAÇÃO PERTINENTE NO PRAZO IMPRORROGÁVEL DE SESSENTA DIAS, CONTADO DA INSTALAÇÃO DA COMISSÃO", A QUAL SERIA CONSTITUÍDA, PELO "PODER EXECUTIVO, NO PRAZO DE ATÉ TRINTA DIAS ... COM ESTRUTURA E COMPETÊNCIA DEFINIDAS EM ,REGULAMENTO".
+    III - NÃO MERECE RETOQUE, PORTANTO, A SENTENÇA A QUO, UMA VEZ QUE SOMENTE FAZEM JUS A DECLARAÇÃO DE ANISTIA FUNDADA NA LEI 8.878/94 AQUELES QUE CUMPRIRAM SEUS 'REQUISITOS, INCLUINDO-SE, PORTANTO, A ENTREGA TEMPESTIVA DOS REQUERIMENTOS.
+    IV -EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO, O QUAL DEVE SER IMPROVIDO”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 1º, III, e 5º, caput, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que se trataria, na espécie, de matéria infraconstitucional, incidindo o óbice da Súmula 636/STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição Federal).
+    Verifica-se que a controvérsia foi decidida com fundamento na norma infraconstitucional aplicável à espécie (Lei nº 8.878/1994). Ora, a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. No mesmo sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Responsabilidade civil do Estado. Prequestionamento. Ausência. Anistia. Lei nº 8.878/94. Legislação infraconstitucional. Ofensa reflexa. Danos morais e materiais. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. É inadmissível o recurso extraordinário se os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. É inviável, em recurso extraordinário, o exame da legislação infraconstitucional e do conjunto fático-probatório da causa. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido.” (ARE 941.020-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 29/4/016)
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL DEFICIENTE. ÔNUS DO RECORRENTE. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL (DECRETO 1.499/95 E LEI 8.878/94). IMPOSSIBILIDADE. OFENSA CONSTITUCIONAL MERAMENTE REFLEXA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VEDAÇÃO. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 941.096-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 14/3/2016)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 16 de agosto de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
