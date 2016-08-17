@@ -1,0 +1,20 @@
+Decisão: Trata-se de embargos de declaração opostos contra acórdão proferido pela Segunda Turma que negou provimento a agravo regimental em recurso extraordinário com agravo, nos termos da ementa a seguir transcrita:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal Eleitoral. 3. Corrupção eleitoral e formação de quadrilha. 4. Suposta violação aos princípios da inafastabilidade da jurisdição, ampla defesa, contraditório e devido processo legal. Ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 5. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 6. Dosimetria da pena. Ausência de ilegalidade. A jurisprudência desta Suprema Corte entende que a dosimetria da pena submete-se a certa discricionariedade judicial. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Aos tribunais superiores, no exame da dosimetria das penas, em grau recursal, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional, o que não vislumbro no caso em deslinde. 7. Agravo regimental a que se nega provimento”.
+    Nos presentes embargos de declaração, a parte embargante aponta existência de omissão no acórdão. Em suas razões, postula o reconhecimento da prescrição ao crime de formação de quadrilha.
+    Alega, ainda, ilegalidade na dosimetria da pena, tendo em vista a majoração exacerbada da pena-base.
+    É o relatório.
+    Decido.
+    Nos presentes embargos de declaração, o embargante aponta existência de omissão no acórdão embargado e invoca a concessão dos efeitos infringentes.
+    Como se sabe, o cabimento dos embargos de declaração restringe-se à análise de possível e real contradição, omissão ou obscuridade, ainda assim, desde que importe em prejuízo lógico e jurídico à compreensão do julgado.
+    Na realidade, a parte busca rediscutir o que já decidido, almejando obter os excepcionais efeitos infringentes. Por oportuno, colho precedente deste Tribunal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. CRIME DE USO DE DOCUMENTO PÚBLICO FALSO. AUSÊNCIA DE PRELIMINAR FORMAL DE REPERCUSSÃO GERAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. A SUCESSIVA INTERPOSIÇÃO DE RECURSOS CONTRÁRIOS À JURISPRUDÊNCIA CONSOLIDADA PELO PRETÓRIO EXCELSO CONFIGURA ABUSO DO DIREITO DE RECORRER. PRECEDENTES. CARÁTER PROTELATÓRIO DO RECURSO. DETERMINADA A CERTIFICAÇÃO DO TRÂNSITO EM JULGADO COM A CONSEQUENTE BAIXA IMEDIATA DOS AUTOS. EMBARGOS DE DECLARAÇÃO DESPROVIDOS”. (RE 927.478 AgR-ED/RS, Rel. Min. Luiz Fux, Primeira Turma, DJe 21.06.2016) .
+    Assim, o acórdão recorrido está adequadamente fundamentado, inclusive em pacífica jurisprudência desta Corte, inexistindo omissão a ser sanada. Constata-se somente insatisfação da parte embargante quanto ao teor da decisão proferida.
+    No entanto, verifica-se que a pena aplicada ao delito de formação de quadrilha (art. 288 do CP) foi alcançada pelo decurso de prazo prescricional.
+    Com efeito, na espécie, o acórdão proferido pelo Tribunal a quo, que condenou o réu à pena de 1 (um) ano e 6 (seis) meses de reclusão, última causa interruptiva do lapso prescricional (art. 117, inciso IV, do CP), foi publicado em 19.11.2010. (eDOC 5, p. 322)
+    Dessarte, entre o último marco interruptivo da prescrição e o presente, transcorreram mais de 4 anos, tempo suficiente para configurar a prescrição da pretensão punitiva.
+    Ante o exposto, não conheço dos embargos de declaração, contudo, concedo habeas corpus de ofício, a fim de declarar a extinção da punibilidade do embargante, quanto ao crime descrito no art. 288 do Código Penal, tendo em vista a ocorrência da prescrição da pretensão punitiva, com fulcro no art. 107, inciso IV, do Código Penal.
+    Publique-se.
+    Brasília, 17 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
