@@ -1,0 +1,22 @@
+Vistos etc.
+    Interposto recurso extraordinário com base no art. 102, III, da Lei Maior, porquanto negada admissibilidade pela Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul, manejou agravo o Banco do Brasil S.A. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão.
+    O acórdão recorrido determinou a transferência dos numerários depositados em conta judiciária do Banco do Brasil para o Banrisul. Defende o recorrente que o acórdão atacado contrariou o entendimento firmado pelo Supremo Tribunal Federal ao julgamento da ADI 2.909/RS, o qual declarou a inconstitucionalidade da Lei estadual 11.667/2001 por versar sobre depósitos judiciais, matéria inserida na competência legislativa exclusiva da União. Aparelhado o recurso na alegação de afronta aos arts. 22 e 96 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Oportuna a transcrição da ementa do acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, verbis:
+    "AGRAVO INTERNO. EXPURGOS INFLACIONÁRIOS. POUPANÇA. CUMPRIMENTO DE SENTENÇA. APLICAÇÃO DO ART. 557 DO CPC.
+    É facultado ao relator negar seguimento ao recurso quando se afigurar manifestamente inadmissível, improcedente ou prejudicado, ou a pretensão deduzida se confrontar com súmula ou jurisprudência predominante do respectivo tribunal, do Supremo Tribunal Federal ou de Superior Tribunal.
+    DEPÓSITO JUDICIAL EM PAGAMENTO.
+    Não merece provimento agravo interno que ataca decisão monocrática do relator adequadamente fundamentada para negar conhecimento ao agravo de instrumento questionando depósito judicial de valores que não atende às disposições da Lei Estadual n. 11.667/2001. O pagamento oferecido em juízo deve ser dar mediante guia de depósito disponibilizada pelo juízo, ou transferência entre instituições bancárias, para o BANRISUL S/A, comprovada nos autos.
+    RECURSO DESPROVIDO.” (Agravo de Instrumento Nº 70043227057, Primeira Câmara Cível, Tribunal de Justiça do RS, Relator: João Moreno Pomar).
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que assiste razão ao recorrente.
+    Ao exame da ADI 2.909/RS, Relator Ministro Ayres Britto, DJe 20.5.2010, o Tribunal Pleno desta Suprema Corte julgou procedente o pleito para declarar a inconstitucionalidade da Lei 11.667, de 11 de setembro de 2001, do Estado do Rio Grande do Sul. O acórdão recebeu a seguinte ementa:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI 11.667, DE 11 DE SETEMBRO DE 2001, DO ESTADO DO RIO GRANDE DO SUL. INSTITUIÇÃO DE SISTEMA DE GERENCIAMENTO DOS DEPÓSITOS JUDICIAIS. VÍCIOS DE INCONSTITUCIONALIDADE FORMAL. RECONHECIMENTO.
+    1. É inconstitucional, por extravasar os limites do inciso II do art. 96 da Constituição Federal, lei que institui Sistema de Gerenciamento dos Depósitos Judiciais, fixa a destinação dos rendimentos líquidos decorrentes da aplicação dos depósitos no mercado financeiro e atribui ao Fundo de Reaparelhamento do Poder Judiciário a coordenação e o controle das atividades inerentes à administração financeira de tal sistema. Matéria que não se encontra entre aquelas reservadas à iniciativa legislativa do Poder Judiciário. 2. Lei que versa sobre depósitos judiciais é de competência legislativa exclusiva da União, por tratar de matéria processual (inciso I do art. 22 da Constituição Federal). Precedente: ADI 3.458, da relatoria do ministro Eros Grau. 3. Ação que se julga procedente.”
+    Ressalto, por oportuno, que, na esteira do entendimento consagrado ao julgamento da Reclamação 2.576-4/SC (Relatora Ministra Ellen Gracie, Tribunal Pleno, DJ 20.8.2004), a decisão que julga procedente a ação direta de inconstitucionalidade produz efeitos desde a publicação da ata da respectiva sessão de julgamento, ainda que opostos embargos de declaração e estejam eles pendentes de exame.
+    Ante o exposto, forte no art. 21, § 2º, do RISTF, conheço do agravo e dou provimento ao recurso extraordinário para determinar a manutenção dos valores depositados junto ao Banco do Brasil, na esteira do julgamento proferido na ADI 2.909.
+    Publique-se.
+    Brasília, 17 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
