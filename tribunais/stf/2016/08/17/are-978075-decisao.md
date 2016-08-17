@@ -1,0 +1,22 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 170, IV, da Constituição Federal. Decisão recorrida publicada em 02/09/2013.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido AI 762.994, Rel. Min. Ellen Gracie, DJe 24.6.2011, com a seguinte decisão:
+    “Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto com fundamento no art. 102, III, ‘a’ e ‘c’ da Carta Maior, contra acórdão que julgou improcedente ação de obrigação de fazer cumulada com perdas e danos por uso de marcas e patentes.
+     No RE, sustenta-se ofensa aos artigos 5º, XXIX e XIX, da Constituição Federal.
+    2. O recurso não merece prosperar. Preliminarmente, verifico que os dispositivos aos quais se alegou violação não se encontram prequestionados, porque não abordados pelo acórdão recorrido nem suscitados nos embargos de declaração opostos para satisfazer o requisito do prequestionamento. Incidem, na espécie, as Súmulas STF 282 e 356.
+     Ademais, para o exame das violações alegadas, seriam necessários o reexame de fatos e provas (Súmula STF 279) e a análise de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária. É o que se percebe da leitura da ementa do acórdão recorrido. Veja-se:
+    ‘MARCAS E PATENTES – Uso de expressão idêntica, mas sem demonstração de que ela tenha sido empregada em produtos ou serviços idênticos, por ambas as litigantes – Ausência de comprovação, ademais, de que o consumidor possa ser levado a confusão – Pleito de abstenção do uso da expressão 'SIDTRON' corretamente indeferido – Não configuração de usurpação de marca e de concorrência desleal – Decisão mantida – Recurso desprovido’(fl. 105).
+    4. Quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório, ampla defesa e juiz natural –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, Rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, Rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+    5. Por fim, quanto à interposição do recurso extraordinário com fundamento na alínea ‘c’ do permissivo constitucional, verifico que o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição Federal.
+     Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).”
+    Não há falar em afronta ao preceito constitucional indicado nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
