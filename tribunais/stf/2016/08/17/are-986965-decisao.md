@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, do qual se extrai da ementa o seguinte trecho:
+    “APELAÇÃO. NOVO JÚRI. NULIDADE. AUSÊNCIA DE ROL DE TESTEMUNHAS. PRECLUSÃO. HOMICÍDIO QUALIFICADO. DESCLASSIFICAÇÃO PARA O CRIME DE LESÃO CORPORAL DE NATUREZA GRAVE. ABSOLVIÇÃO. FRAGILIDADE DAS PROVAS. DECISÃO DIVORCIADA DO CONTEXTO PROBATÓRIO. SOBERANIA DO JÚRI. CORREÇÃO DA PENA-BASE. POSSIBILIDADE.
+    […].”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LV, XXXVIII, c; 93, IX e 133 da Constituição, bem como à Súmula 523/STF. Sustenta a nulidade do julgamento, tendo em vista a ausência de defesa técnica. Afirma que “a decisão dos jurados relativamente à autoria do fato foi tomada equivocadamente em contrariedade da prova dos autos”. Afirma que “a não observância do critério trifásico gera nulidade da pena fixada, não da condenação”.
+    O recurso é inadmissível, tendo em vista que, à exceção do art. 5º XXXVIII, da Constituição, os demais dispositivos constitucionais não foram objeto de apreciação pelo acórdão do Tribunal de origem, de modo que o recurso extraordinário carece, no ponto, do necessário prequestionamento, nos termos da Súmula 282/STF.
+    Por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Nessa linha, vejam-se o AI 709.068-AgR, Rel. Min. Ayres Britto, Primeira Turma e o RE 559.742, Rel.ª Min.ª Ellen Gracie, Segunda Turma
+    Quanto à alegada ofensa ao art. 93, IX, esta Corte tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    O Supremo Tribunal Federal, ao julgar o AI 126.187-AgR, sob a relatoria do Ministro Celso de Mello, firmou o entendimento de que “não enseja acesso a via recursal extraordinária o eventual dissidio interpretativo que oponha a decisão proferida pelo Tribunal a quo ao conteúdo de enunciado sumular do Supremo Tribunal Federal desvestido de fundamento constitucional”.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 17 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
