@@ -1,0 +1,27 @@
+Decisão: Trata-se de reclamação ajuizada por José Penha Filho em face de acórdão exarado pelo juízo da Tribunal Pleno do Tribunal de Justiça do Estado do Rio Grande do Norte, proferida no âmbito do Processo 2014.020876-4/0001.00, nos seguintes termos:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM EXECUÇÃO. IRRESIGNAÇÃO QUANTO À DECISÃO DO RELATOR QUE DEFERIU APENAS A RESERVA DOS HONORÁRIOS CONTRATUAIS NA ‘REQUISIÇÃO PARA PAGAMENTO DE PRECATÓRIO’, INDEFERINDO, PORÉM, O PEDIDO DE EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR – RPV RELATIVO A ESTES. PLEITO QUE IMPLICA EM ANTECIPAÇÃO DE PAGAMENTO DE FRACÇÃO DO DÉBITO PRINCIPAL, A SER PAGO POR INSTRUMENTO DE PRECATÓRIO. FRACIONAMENTO VEDADO PELO ART. 100, §8º, DA CONSTITUIÇÃO FEDERAL. HONORÁRIOS CONTRATUAIS NÃO DECORRENTES DE QUALQUER CONDENAÇÃO DO ENTE PÚBLICO. MANUTENÇÃO DO DECISUM. PRECEDENTES JURISPRUDENCIAIS.”
+    Na reclamação, aponta-se como paradigma a Súmula Vinculante 47 do STF.
+    Sustenta-se, em suma, o seguinte:
+    “Em consonância com todo o arcabouço fático e jurídico retro mencionado, é patente destacar que o Tribunal a quo, por meio de seu Relator, ao indeferir o pleito para desmembramento dos honorários contratuais, fundamentou sua decisão, sob o fundamento de que o julgamento do REsp 564132/RS, trata de honorários sucumbenciais e não contratuais, considerando-o como contrato estranho as partes litigantes.
+    (...)
+    Portanto, Vossas Excelências, a decisão reclamada não vai de encontro só ao entendimento já pacificado nesta Cimeira, nem tampouco ao entendimento uníssono emanado em sede de Súmula Vinculante, motivo pelo qual não há que se falar em indeferimento do pleito para desmembramento dos honorários advocatícios do pagamento principal.” (eDOC 1, p. 9)
+    Informações prestadas pelas autoridades reclamadas (eDOC 22 e 24).
+    Dispenso a remessa dos autos à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF), por entender que o processo está suficientemente instruído e em condições para julgamento.
+    É o relatório. Decido.
+    Inicialmente, verifica-se que a Súmula Vinculante 47 do STF, assim dispõe:
+    “Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza.”
+    Dos elementos aduzidos nos autos, verifica-se que o Tribunal de origem assim assentou:
+    “Até mesmo porque, os precedentes firmados no âmbito do STJ (recurso representativo da controvérsia) e no STF (repercussão geral), quando do julgamento do REsp nº 1.3473736/RS e do RE nº 564.132, decidiram sobre a possibilidade de execução autônoma do crédito correspondente aos honorários de sucumbência, e não os contratuais, como argumento o recorrente, em uma tentativa de aplicação extensiva.
+    Portanto, entendo ser possível o destaque dos honorários contratuais em favor dos advogados mediante a juntada, antes da expedição do precatório, do contrato de prestação de serviços profissionais, nos termos do art. 22, §4º, da Lei Federal nº 8.906/1994, mas não a expedição autônoma de requisição de pequeno valor ou precatório. Nesses casos, deve ser levado em consideração o crédito pertencente ao autor para fins de classificação do requisitório, levando-se em consideração que os honorários contratuais não decorrem da condenação em si.” (eDOC 11, pp. 19-20)
+    Assim sendo, o ato reclamado converge ao enunciado sumular de caráter vinculante apontada como paradigma, uma vez que não há entendimento iterativo do STF a respeito da expedição autônoma de requisitório para o pagamento de honorários contratuais.
+    Confira-se, a propósito, o seguinte precedente:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. HONORÁRIOS CONTRATUAIS. EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR EM SEPARADO. PEDIDO INDEFERIDO PELO JUÍZO RECLAMADO. CONTRARIEDADE À SÚMULA VINCULANTE 47. NÃO CONFIGURAÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”
+(Rcl 22187 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 23.05.2016)
+    Igualmente, transcreve-se o seguinte excerto do voto do ministro Teori Zavascki no precedente indigitado:
+    “Ademais, consta da transcrição do início do debate ocorrido quando da aprovação da proposta de súmula vinculante que Ministro Ricardo Lewandowski (Presidente) observou que o Procurador-Geral da República Rodrigo Janot Monteiro chamou atenção ao fato de que ‘não há entendimento jurisprudencial consolidado nesta Corte quanto à possibilidade do fracionamento da execução para que os honorários advocatícios contratuais sejam pagos em separado’, o que foi ratificado na manifestação do Ministro Dias Toffoli, integrante da Comissão de Jurisprudência. Ao fim, a proposta de súmula vinculante foi aprovada nos termos da manifestação do Ministro Marco Aurélio, que defendeu a supressão da menção a dispositivos constitucionais e legais, sem que fosse efetivamente discutida a questão apresentada pela Procuradoria-Geral da República. Nessas circunstâncias, em que os precedentes que embasaram a formação da súmula vinculante não refletem jurisprudência pacificada relativamente aos honorários contratuais, a decisão agravada deve ser mantida.”
+    Ante o exposto, julgo improcedente a presente reclamação, nos termos dos artigos 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 17 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
