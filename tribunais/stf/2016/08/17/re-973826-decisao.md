@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que manteve a sentença que julgou “procedentes os pedidos iniciais para condenar a parte ré, na restituição, à parte autora, do valor de R$202,28 (duzentos e dois reais e vinte e oito centavos), acrescido de outras parcelas supervenientes, se o caso, corrigido monetariamente a partir da(s) data(s) do(s) respectivo(s) desembolso(s) e acrescido de juros moratórios de 1% (um por cento)”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, § 2º, da Constituição.
+    O recurso extraordinário é inadmissível, tendo em vista que a suscitada violação à Constituição não foi objeto de análise pelo Colegiado de origem. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, a controvérsia do acórdão recorrido não guarda pertinência com o enunciado do art. 5º, §2º da Constituição. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF.
+    A parte recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constante dos autos, bem como das cláusulas do contrato firmado entre as partes e da legislação infraconstitucional pertinente. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 454/STF. Veja-se, no mesmo sentido, a ementa do ARE 810.615-AgR, julgado sob a relatoria do Ministro Luiz Fux:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. PLANO DE ASSISTÊNCIA À SAÚDE. REAJUSTE POR FAIXA ETÁRIA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 454/STF. PRECEDENTES. OFENSA REFLEXA.
+    1. O reajuste por faixa etária dos planos de saúde, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie, bem como a interpretação de cláusulas contratuais, o que torna inviável o recurso extraordinário a teor do Enunciado da Súmula 454 do Supremo Tribunal Federal, verbis : Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário . Precedentes: AI 633.761-AgR, Rel. Min. Ayres Britto, Segunda Turma DJe de 20/4/2012, e RE 797.343-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 25/03/2014.
+    2. In casu, o acórdão extraordinariamente recorrido manteve a sentença por seus próprios fundamentos, a qual julgou improcedente o pedido formulado nos seguintes termos: Logo em havendo previsão expressa dos percentuais de aumento em caso de deslocamento da faixa etária no contrato firmado entre as partes, o que possibilitou a parte autora a opção de contratar ou não a ré, outra alternativa não resta senão a improcedência. Ante o exposto, julgo improcedente a presente ação.
+    3 . Agravo regimental DESPROVIDO.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+     Brasília, 17 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
