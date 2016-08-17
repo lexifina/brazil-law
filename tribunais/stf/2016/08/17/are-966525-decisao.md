@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 1ª Região, ementado nos seguintes termos:
+    “TRIBUTÁRIO. PRINCÍPIO DA NÃO CUMULATIVIDADE. IPI. COMPENSAÇÃO. LEI 9.779/99. INSUMOS NÃO TRIBUTADOS. AUSÊNCIA DE PREVISÃO LEGAL.
+    1. O princípio constitucional da não cumulatividade não é, por si só, suficiente para o aproveitamento de imposto sobre produto industrializado pago na venda de produto final tributado, cuja matéria-prima é isenta, não tributada ou tributada à alíquota zero. O direito de compensar eventual crédito decorrente do pagamento de IPI na aquisição de matéria-prima e venda do produto manufaturado surgiu apenas com a Lei 9.779/99 e não contempla a hipótese do insumo isento, não tributado ou tributado à alíquota zero. Precedentes do Plenário do STF (RE 592.917 AgR/RJ, Rel. Min. Luiz Fux) e da 8ª Turma do TRF1 (AC 2005.38.03.004080-5/MG, Rel. Des. Fed. Maria do Carmo Cardoso)
+    2. Apelação da autora desprovida. Apelação da União provida para majorar os honorários advocatícios”. (eDOC 2, p. 31)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, aponta-se violação do artigo 153, § 3º, II, do texto constitucional, bem como do art. 34, § 9º, do ADCT.
+    Nas razões recursais, sustenta-se que a energia elétrica utilizada na produção industrial deve ser considerada insumo. Nesse sentido, argumenta-se a possibilidade de aplicação do princípio da não cumulatividade aos valores pagos a título de IPI sobre insumos intermediários utilizados na industrialização de seus produtos, inclusive a energia elétrica.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que inexiste direito constitucional ao crédito de Imposto sobre Produtos Industrializados (IPI) decorrente da aquisição de insumos desonerados – incluindo, no caso, a energia elétrica – empregados no processo de fabricação de produtos industrializados onerados pelo imposto em suas saídas.
+    Além disso, verifico que a decisão recorrida não divergiu do entendimento pacífico deste Tribunal, segundo o qual a energia elétrica não pode ser considerada insumo para fins de creditamento.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. INEXISTÊNCIA DE CRÉDITO DE IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI DECORRENTE DA AQUISIÇÃO DE ENERGIA ELÉTRICA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE-AgR 603.502, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.4.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. IPI. NÃO-CUMULATIVIDADE. APROVEITAMENTO DE CRÉDITOS GERADOS COM AQUISIÇÃO DE ENERGIA ELÉTRICA. IMPOSSIBILIDADE (…)”. (RE-AgR 573.217, Rel. Min. Luiz Fux, Primeira Turma, DJe 20.3.2013)
+    “RECURSO EXTRAORDINÁRIO – EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO – IPI – CRÉDITO PRESUMIDO EM RAZÃO DE OPERAÇÕES DE CONSUMO DE ENERGIA ELÉTRICA – INADMISSIBILIDADE – INCORPORAÇÃO, AO ACÓRDÃO, DAS RAZÕES EXPOSTAS PELO MINISTÉRIO PÚBLICO FEDERAL – MOTIVAÇÃO “PER RELATIONEM” – LEGITIMIDADE JURÍDICO-CONSTITUCIONAL DESSA TÉCNICA DE FUNDAMENTAÇÃO – RECURSO DE AGRAVO IMPROVIDO”. (RE-ED-segundos 496.694, Rel. Min. Celso de Mello, Segunda Turma, DJe 20.6.2013)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IPI. CREDITAMENTO. ENERGIA ELÉTRICA. IMPOSSIBILIDADE. PRECEDENTES O princípio constitucional da não cumulatividade reporta à possibilidade de compensar imposto pago na entrada com o encargo devido na saída. Essa é a premissa do regime de créditos físicos. Nas hipóteses de aquisição de insumos imunes, como é o caso da energia elétrica com relação ao IPI, não há possibilidade de apropriação de crédito escritural pelo fato de não haver imposto recolhido na entrada. Não obstante, não se pode aplicar ao caso o regime de crédito físico, na medida em que a energia elétrica não se insere no processo de transformação do qual resultará a mercadoria industrializada. Agravo regimental a que se nega provimento”. (RE-AgR 504.446, Rel. Min. Roberto Barroso, Primeira Turma, DJe 2.5.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
