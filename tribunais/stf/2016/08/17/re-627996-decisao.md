@@ -1,0 +1,30 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 1ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Ação popular – Anulação de concessão do serviço de abastecimento de água, coleta e tratamento de esgoto.
+    Não violação ao artigo 23, inciso X da Lei 8.987/95 (previsão para os bens reversíveis) – Possibilidade de prorrogação do contrato – Contrato que violou a Lei Municipal nº 1957/66 ao onerar demasiadamente o município, em benefício exagerado à empresa concessionária – Impossibilidade de contratar pessoa jurídica não participante da licitação.
+    Empresa contratada distinta daquela que venceu o certame – Afronta ao artigo 50 da Lei nº 8.666/93.
+    Não acolhimento da tese de nulidade da sentença por falta de fundamento – Suficiência da motivação concisa.
+    Presidente da Comissão de licitação – Ilegitimidade de parte reconhecida – Causa de pedir que não está relacionada à esfera de competência desse demandado.
+    Legitimidade passiva daquele que autorizou o ato impugnado.
+    Inexistência de litisconsórcio necessário.
+    Possibilidade de apreciação, pelo Judiciário, de ilegalidade do ato administrativo.
+    Recurso do réu Jomar Luiz Bellini provido – Improvidos os demais.”
+    Os autos estavam sobrestados na Secretaria deste Tribunal aguardando o julgamento do recurso especial concomitantemente interposto ao recurso extraordinário. Extrai-se do sítio do Superior Tribunal de Justiça que o AREsp 658.216/SP transitou em julgado em 16.03.2005.
+    Há parecer do Ministério Público pelo não conhecimento do recurso extraordinário.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 30, V; 37, caput e XXI; e 175, todos da Constituição, bem como a diversos artigos da Lei nº 8.666/1993.
+    O recurso não deve ser provido. De início, não afronta o princípio da separação dos poderes o controle exercido pelo Poder Judiciário sobre atos administrativos tidos por abusivos ou ilegais. Nesse sentido, veja-se a ementa do RE 733.110-AgR, julgado sob relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário. Administrativo. Concurso público. Ato administrativo ilegal. Controle judicial. Possibilidade. Candidata aprovada dentro do número de vagas previstas no edital. Direito à nomeação. Análise de cláusulas de edital. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Não viola o princípio da separação dos poderes o controle de legalidade exercido pelo Poder Judiciário sobre os atos administrativos.
+    2. O Plenário da Corte, ao apreciar o mérito do RE nº 598.099/MS-RG, Relator o Ministro Gilmar Mendes, concluiu que o candidato aprovado em concurso público dentro do número de vagas previstas no edital tem direito subjetivo à nomeação.
+    3. Inadmissível, em recurso extraordinário, a análise das cláusulas de edital de concurso público e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 454 e 279. 4. Agravo regimental não provido.”
+    Ademais, o acórdão recorrido entendeu pela ilegalidade do processo licitatório, e consequente do contrato de concessão de serviço, com base na legislação infraconstitucional local (Lei municipal nº 1.957/1996), e nas cláusulas do contrato firmado entre as partes, cujo reexame é vedado em sede de extraordinário. Nessas condições, a hipótese atrai a incidência das Súmulas 280 e 454/STF. Veja-se, nesse sentido, o seguinte trecho do acórdão recorrido:
+    “IX- Com respeito ao contrato infringir a Lei Municipal nº 1957/76, impõe-se reconhecer a razão do autor popular. Dispõe essa norma local, autorizadora da concessão do serviço público de distribuição d´água e coleta de esgotos, que correrá por “conta e risco” da concessionária “todos os serviços e instalações voltadas à melhorias e expansões para manter o atendimento com serviços de água e esgoto” (artigo 1º, parágrafo único, inciso III) e que a contrato obrigaria a concessionária a “executar, à suas expensas, os projetos e obras das redes de instalações de água e esgoto” (artigo 5º, inciso V). Esses artigos estão em consonância com o artigo 175 da Constituição Federal (“Incumbe ao Poder Público, na forma da lei, diretamente ou sob regime de concessão ou permissão, sempre através de licitação, a prestação de serviços públicos”) e o artigo 119 da Constituição Estadual (“Os serviços concedidos ou permitidos ficarão sempre sujeitos à regulamentação e fiscalização do Poder Público e poderão ser retomados quando não atendam satisfatoriamente aos seus fins ou às condições do contrato”)
+    Por outro lado, o edital da concorrência, que trouxe a minuta do contrato, e este próprio estabeleceram que ao concedente estava reservada a execução, às suas despesas, de várias obras, como “estudos técnicos, projetos básicos, projetos executivos e obras dos sistemas de coletores-tronco, estações elevatórias e linhas de recalque de reversão de bacias, interceptadores e emissários de esgoto sanitários” (fls. 164), entre diversas outras especificadas a fls. 165/167.
+    Houve, portanto, antagonismo entre o texto da lei municipal e a licitação, com respectivo contrato. Feriu-se o princípio da legalidade, exorbitando o administrador dos poderes que lhe foram outorgados pela Lei nº 1957/96.”
+    Nota-se ainda que o Tribunal de origem entendeu que a empresa contratada para a execução do contrato foi diversa da vencedora da concorrência pública. Para dissentir dessa conclusão seria necessária a reapreciação dos fatos e provas constantes dos autos, o que não é cabível nesse momento processual. A situação atrai a incidência da Súmula 279/STF.
+    Vale ressaltar que o recurso extraordinário não se presta para analisar supostas violações a legislação federal, sendo portanto infundadas as razões do recorrente nesse sentido. Nesses casos, aplica-se a Súmula 284/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 17 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
