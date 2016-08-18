@@ -1,0 +1,22 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Eunice Anisete de Souza Trajano em favor de Pedro Fernandes Guerreiro Júnior, contra acórdão do Superior Tribunal de Justiça, que concedeu a ordem no HC 356.997/SC.
+    O paciente foi condenado à pena de 04 (quatro) anos e 01 (um) mês de reclusão, em regime inicial semiaberto, pela prática dos crimes de homicídio culposo na direção de veículo automotor e de lesão corporal culposa na direção de veículo automotor (arts. 302 e 303 do Código de Trânsito Brasileiro).
+    Em sede de apelação, o Tribunal de Justiça do Estado de Santa Catarina deu parcial provimento ao recurso defensivo, para reduzir a pena para 02 (dois) anos e 04 (quatro) meses de reclusão, e extinguir a punibilidade do paciente em relação ao delito previsto no art. 303 do CTB dada a prescrição da pretensão punitiva estatal. Naquela oportunidade, a Corte Estadual determinou o imediato cumprimento da pena.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que concedeu a ordem no HC 356.997/SC, “a fim de que o paciente possa aguardar em liberdade o julgamento de seus recursos pelo Tribunal de segundo grau, se por outro não estiver preso”.
+    No presente writ, insurgem-se os Impetrantes “contra o cumprimento da pena após decisão de segundo grau e, por consequência, expedição do mandado de prisão, para que o paciente cumpra a pena em regime semiaberto”. Sustentam ilegalidade da decisão que determinou o início do cumprimento da pena sem o trânsito em julgado do édito condenatório. Aduzem violação do postulado constitucional da presunção de inocência. Sustentam que o paciente respondeu ao processo em liberdade. Defendem a existência de circunstâncias favoráveis ao paciente, como primariedade, bons antecedentes, residência fixa e ocupação lícita. Salientam a provável substituição da pena privativa de liberdade por restritiva de direito em recurso especial. Requerem, em medida liminar e no mérito, a suspensão da execução provisória da pena até o trânsito em julgado do édito condenatório.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “PROCESSO PENAL. HABEAS CORPUS. CRIME DE TRÂNSITO. SENTENÇA CONDENATÓRIA. APELO EM LIBERDADE. APELAÇÃO JULGADA. EXPEDIÇÃO DO MANDADO DE PRISÃO. AUSÊNCIA DE TRÂNSITO EM JULGADO. EXECUÇÃO PROVISÓRIA DA PENA. OFENSA À PRESUNÇÃO DE INOCÊNCIA. NÃO OCORRÊNCIA. PENDÊNCIA DO JULGAMENTO DE ACLARATÓRIOS DA DEFESA. EFEITO SUSPENSIVO. CONDENAÇÃO AINDA NÃO CONFIRMADA POR COLEGIADO DE SEGUNDO GRAU. EXPEDIÇÃO DO MANDADO DE PRISÃO OBSTADA. ORDEM CONCEDIDA.
+    1. O Pleno do Supremo Tribunal federal, em 17.2.2016, no julgamento do HC nº 126.292/SP, decidiu, por maioria de votos, que a execução provisória da pena não afronta o princípio constitucional da presunção de inocência, de modo que, confirmada a condenação por colegiado em segundo grau, e ainda que pendentes de julgamento recursos de natureza extraordinária (recurso especial e/ou extraordinário), a pena poderá, desde já, ser executada. Ressalva do entendimento da Relatora.
+    2. Embora determinado o imediato cumprimento da pena, com a expedição do mandado de prisão, encontra-se pendente o julgamento, pelo Tribunal a quo, dos embargos de declaração opostos pela defesa, cujo efeito suspensivo impede, por ora, a expedição da ordem de prisão, vez que ainda não confirmada a condenação por colegiado de segundo grau.
+    3. Ordem concedida a fim de que o paciente possa aguardar em liberdade o julgamento de seus recursos pelo Tribunal de segundo grau, se por outro motivo não estiver preso.”
+    Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que a decisão exarada pela Corte Superior se encontra fundamentada, apontando as razões de seu convencimento para a possibilidade da execução provisória da pena.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com a imediata suspensão da execução da pena.
+    Ante o exposto, indefiro a liminar.
+    Colham-se informações junto ao Tribunal de Justiça do Estado de Santa Catarina e do Juízo da Vara do Tribunal do Júri da Comarca da Capital, devendo encaminhar cópia das peças que reputarem relevantes.
+    Após, encaminhem-se os autos ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 18 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
