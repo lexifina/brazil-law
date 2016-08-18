@@ -1,0 +1,19 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Ramblet de Almeida Termero e outro em favor de Jaine Priscila Campos de Souza, contra conduta omissiva do Relator do RHC 70.292/SP, Ministro Felix Fischer, do Superior Tribunal de Justiça.
+    Narra a inicial que a paciente foi presa em flagrante, em 14.11.2015, e, posteriormente, denunciada pela prática, em tese, do crime de tráfico de drogas, tipificado no art. 33, caput, da Lei 11.343/2006.
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Felix Fischer, indeferiu a liminar no RHC 70.292/SP.
+    No presente writ, os Impetrantes sustentam que “fora aberta vista ao Ministério Público Federal em 27/04/2016, todavia este se recusa a manifestar nos autos”. Aduzem que “faz mais de três meses da intimação do MPF, conforme cópia do extrato do RHC em anexo, e até o presente momento não houve manifestação”. Ressaltam que “o relator do processo, …, também não tomou qualquer providência”. Apontam que a paciente está presa preventivamente desde 14.11.2015 e que sobreveio sentença condenatória à pena de 01 (um) ano e 11 (onze) meses de reclusão, em regime inicial fechado. Requer, em medida liminar e no mérito, a concessão de liberdade provisória à paciente.
+    É o relatório.
+    Decido.
+    Em consulta ao sítio eletrônico do Superior Tribunal de Justiça, observo que o RHC 70.292/SP foi distribuído em 20.4.2016, foram solicitadas informações na mesma data e encaminhados os autos para manifestação do Ministério Público Federal em 09.5.2016.
+    Manejado o recurso ordinário em habeas corpus há menos de 04 (quatro) meses, e considerada a excessiva carga de processos naquela Corte, compreendo não caracterizado o excesso de prazo no julgamento da impetração. Observo, a esse respeito, que, no Supremo Tribunal Federal, tramitam habeas corpus mais antigos.
+    A razoável duração do processo não pode ser considerada de maneira isolada e descontextualizada das peculiaridades do caso concreto. Na espécie, não configurado o alegado excesso de prazo, até porque a melhor compreensão do princípio constitucional aponta para processo sem dilações indevidas, em que a demora na tramitação do feito há de guardar proporcionalidade com a complexidade do delito nele veiculado e as diligências e os meios de prova indispensáveis a seu deslinde. Nesse sentido o magistério de Daniel Mitidiero, que se endossa (Curso de Direito Constitucional, 2ª edição revista, atualizada e ampliada, Revista dos Tribunais).
+    Por outro lado, em 19.7.2016, sobreveio sentença condenatória para condenar a paciente à pena de 01 (um) ano e 11 (onze) meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/2006), oportunidade em que foi mantida a prisão preventiva.
+    Diante da prolação de sentença penal condenatória, substancial a alteração do quadro fático da impetração, não mais subsistindo a prisão preventiva decretada antes do julgamento, e sim segregação cautelar baseada no decreto condenatório, com a consequente alteração do título prisional.
+    Nesse sentido, enfatiza esta Corte Suprema que: “A superveniência de sentença condenatória em que o Juízo aprecia e mantém a prisão cautelar anteriormente decretada implica a mudança do título da prisão e prejudica o conhecimento de habeas corpus impetrado contra a prisão antes do julgamento” (HC 113.885/PR, de minha relatoria, 1ª Turma, DJe 04.11.2013).
+    Não caracterizados, portanto, constrangimento ilegal ou violação do postulado constitucional da razoável duração do processo.
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
