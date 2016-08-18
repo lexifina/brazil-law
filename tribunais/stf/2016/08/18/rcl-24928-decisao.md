@@ -1,0 +1,30 @@
+Decisão: Trata-se de reclamação apresentada pelo Município de Canapi em face de decisão, proferida pelo Juiz de Direito da Vara do Único Ofício da Comarca de Mata Grande nos autos da ação cautelar n. 0700267-72.2016.8.02.0022, em virtude de ofensa às decisões do Supremo Tribunal Federal.
+    Narra a inicial que o Ministério Público Estadual, com base em inquérito civil de improbidade administrativa, requereu o afastamento cautelar do Prefeito do Município de Canapi, Alagoas. Afirma que o inquérito civil ainda não foi concluído e sequer teria sido proposta a ação cível perante o Poder Judiciário. No entanto, ainda de acordo com o reclamante, a autoridade reclamada acolheu o pedido de afastamento cautelar do Prefeito, pelo período de 180 dias. Alega que a decisão não tem base probatória apta a justificar o afastamento cautelar do cargo de prefeito. Aduz, ainda, ofensa às decisões proferidas por esta Corte em sede de Medida Cautelar na Reclamação 17.678, assim como nas suspensões de liminares 806, 808, 824, 888, 894, todas de Relatoria da Presidência desta Corte.
+    Com base nesses argumentos, requer, liminarmente, a cassação da decisão interlocutória que afastou o então Chefe do Poder Executivo do Município de seu cargo, sustentado, como perigo na demora, a iminência do término de seu mandato. No mérito, requer a cassação da decisão interlocutória.
+    É, em síntese, o relatório. Decido.
+    Registre-se, de plano, que a presente reclamação repete, praticamente ipsis litteris, os argumentos da reclamação 24.817, distribuída em 03.08.2016, à minha Relatoria.
+    Registre-se, ainda, que a parte autora da reclamação 24.817 chegou a interpor petição de idêntico teor em outra ação, autuada sob n. 24.867, que deixei de conhecer ante a manifesta litispendência.
+    Embora a parte autora desta reclamação seja distinta das outras duas, o que não autorizaria reconhecer a litispendência da presente ação, a interposição de três reclamações com idêntico teor, assinadas pelo mesmo procurador, poderia, em tese, fazer atrair a incidência do disposto no art. 80, V, do Código de Processo Civil, ante o manifesto propósito de burlar o princípio do juiz natural.
+    Ademais, é preciso consignar que o Município reclamante não demonstra o interesse processual na defesa do Chefe do Poder Executivo. Isso porque somente se afigura possível aos advogados públicos a defesa dos agentes de Estado quando o ato questionado tenha sido praticado em virtude de interesse público.
+    A ausência de interesse, no entanto, evidencia-se por outra razão.
+    Consabido, a Reclamação se caracteriza como uma demanda de fundamentação vinculada, vale dizer, cabível somente quando se fizer presente alguma das hipóteses para ela estritamente previstas.
+    Partindo de construção jurisprudencial à instrumento com expresso assento constitucional, trata-se de ação vocacionada, precipuamente, a duas diferentes finalidades.
+    De um lado, visa a Reclamação à (i) tutela da autoridade das decisões proferidas por esta Corte e das súmulas vinculantes por ela editadas. De outro, à (ii) proteção do importante rol de competências atribuídas ao Supremo Tribunal Federal. É o que se vê nos artigos 988, II e III do Código de Processo Civil.
+    No que se refere à primeira hipótese, mais especificamente quanto ao cabimento da Reclamação para garantir a observância das decisões proferidas por esta Suprema Corte, é preciso ter em conta que o dispositivo constante do art. 988, III, do Código de Processo Civil exige que a decisão tenha sido proferida em sede de controle concentrado de constitucionalidade.
+    É nesse sentido, ainda, a jurisprudência da Corte:
+    “Não cabe reclamação sob alegação de descumprimento de precedente sem efeito vinculante do STF”.
+    (Rcl 20738 AgR, Relator(a):  Min. ROBERTO BARROSO, Primeira Turma, julgado em 15/03/2016, PROCESSO ELETRÔNICO DJe-067 DIVULG 11-04-2016 PUBLIC 12-04-2016)
+    Da leitura dos fundamentos apresentados pelo reclamante, não se observa, dos paradigmas invocados, a força vinculante que, nos termos da lei e da jurisprudência desta Corte, permitem o cabimento à reclamação.
+    Além disso, ainda no que tange ao cabimento da reclamação pelo disposto no art. 988, II, do Código de Processo Civil, a garantia da autoridade das decisões da Corte exige que a decisão tenha sido proferida em processo subjetivo no qual o reclamante figurou como parte.
+    Nesse sentido, confira-se o seguinte precedente:
+    “A reclamação dirigida a esta Corte só é cabível quando sustenta usurpação de sua competência, ofensa à autoridade de suas decisões ou contrariedade a Súmula Vinculante (CRFB/1988, arts, 102, I, l , e 103-A, § 3º). No segundo e no terceiro casos, exige-se que o pronunciamento tenha efeito vinculante ou, ao menos, que tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte.”
+    (Rcl 23051 AgR, Relator(a):  Min. ROBERTO BARROSO, Primeira Turma, julgado em 21/06/2016, PROCESSO ELETRÔNICO DJe-159 DIVULG 29-07-2016 PUBLIC 01-08-2016)
+    Também quanto a este requisito, o reclamante deixa de demonstrar o descumprimento de decisão do Supremo Tribunal Federal da qual tenha sido parte. Com efeito, em nenhum dos precedentes invocados figurou como autor da reclamação ou das suspensões de liminares o ora reclamante.
+    Como é sabido, não se presta nem pode se prestar a Reclamação como um atalho para direto acesso à jurisdição desta Corte, permitindo, per saltum, que aqui se obtenha um reexame do conjunto fático-probatório dos autos, o que inclusive é vedado na ambiência recursal.
+    Dessa forma, outra não pode ser a conclusão senão o reconhecimento de que o Reclamante carece de interesse processual, nos termos do art. 330, III, CPC.
+    Diante do exposto, indefiro a inicial negando seguimento à reclamação, com fundamento no art. 330, III, CPC, combinado com o art. 21, §1º, RISTF, prejudicada a análise da medida liminar postulada.
+    Publique-se. Intime-se.
+    Brasília, 18 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
