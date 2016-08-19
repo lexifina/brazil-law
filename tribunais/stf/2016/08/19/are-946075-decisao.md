@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Distrito Federal e Territórios confirmou o entendimento do Juízo quanto à procedência dos pedidos de indenização por danos material e moral. No extraordinário cujo trânsito busca alcançar, a recorrente alega violados os artigos 5º, incisos XXXV e LV, e 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão relativo aos embargos de declaração, por falta de fundamentação. Sustenta a contrariedade aos princípios do contraditório e da ampla defesa, ante à ausência de demonstração do nexo causal.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    APELAÇÃO CÍVEL. CONSUMIDOR. QUEDA DE CONSUMIDORA EM SUPERMERCADO. TROPEÇO EM FARDO DE ALIMENTO DEIXADO NO CHÃO. NEXO CAUSAL CONFIGURADO. DANOS MORAIS E MATERIAIS. DEVER DE INDENIZAR. LITIGÂNCIA DE MÁ-FÉ. NÃO CARACTERIZAÇÃO.
+    1. Afasta-se a alegação de ausência de nexo causal entre as lesões sofridas pela consumidora e a conduta da ré, se os vídeos juntados demonstram que a consumidora tropeçou num fado deixado no chão e caiu apoiando-se no braço atingido, conforme o prontuário médico e as demais provas juntadas.
+    2. Provados os gastos com sessões de fisioterapia logo após o acidente que lesionou o braço da consumidora, mantém-se a condenação da ré ao pagamento do dano material equivalente a tais despesas.
+    3. Configura dano moral a lesão à integridade física da consumidora decorrente da queda causada pela ré, que resultou em fortes dores, nove dias de internação, longo período de tratamento e perda parial das funções do membro atingido, provados em laudo pericial.
+    4. O valor da indenização por danos morais tem como função a compensação pelo sofrimento suportado pela pessoa e a punição do causador do dano, evitando-se novas condutas lesivas.
+    5. Para o arbitramento do valor devem ser levados em consideração o grau de lesividade da conduta ofensiva e a capacidade econômica da parte pagadora, a fim de se fixar uma quantia moderada, que não resulte inexpressiva para o causador do dano. No caso, mantém-se o valor de R$ 20.000,00 (vinte mil reais).
+    6. Não havendo manifesta intenção de altarar a verdade dos fatos ou outra hipótese legal de cabimento, rejeitam-se os pedidos de condenação por litigância de má-fé (CPC 17).
+    7. Negou-se provimento ao apelo da ré. Indeferiu-se o pedido de condenação por litigância de má-fé formulado pela autora.
+    Concluir de modo diverso requer o reexame da prova As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Por fim, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Estabelecidos os honorários advocatícios no valor de R$ 615,00 (seiscentos e quinze reais), fixo os honorários recursais no patamar de R$ 307,00 (trezentos e sete reais), nos termos do artigo 85, § 11, do citado diploma legal.
+    3. Publiquem.
+Brasília, 19 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
