@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 5º, caput, e 184, § 1º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos arts. 5º, caput, e 184, § 1º, da Constituição da República. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental no recurso extraordinário. Terras públicas. Usucapião. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional e das provas dos autos. Incidência da Súmulas nº 279 desta Corte. 2. Agravo regimental não provido.” (RE 633811 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma,  DJe 12-11-2012)
+    “PLENÁRIO – RESERVA. Descabe confundir o exame de constitucionalidade com interpretação de norma legal. RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais.” (ARE 856856 AgR, Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe 18-03-2015)
+    “Embargos de declaração em agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. Ocupação de bem público. Posse. 3. Necessidade do revolvimento do acervo fático-probatório dos autos. Incidência do Enunciado 279 da Súmula do STF. Matéria infraconstitucional. 4. Embargos protelatórios. Imposição de multa. 5. Embargos de declaração rejeitados.” (ARE 685852 AgR-ED, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 10-06-2014)
+    “AGRAVO REGIMENTAL. OCUPAÇÃO DE BEM PÚBLICO POR PARTICULAR. MANUTENÇÃO DE POSSE. REEXAME DE PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário o exame prévio da matéria fática, o que encontra óbice na Súmula 279 do STF. Impossibilidade de reexame de legislação infraconstitucional na esfera do recurso extraordinário. Agravo regimental a que se nega provimento.” (ARE 685852 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe 05-10-2012)
+    De outra parte, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
