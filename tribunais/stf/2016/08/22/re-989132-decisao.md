@@ -1,0 +1,35 @@
+Decisão
+    Vistos.
+    Ana Carolina Fernandes Altoe Tavares Seixas interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ACUMULAÇÃO DE EMPREGO E CARGO PÚBLICOS. TÉCNICO EM ATIVIDADES MÉDICO-HOSPITALARES - ANATOMIA. AGENTE DE ATIVIDADES COMPLEMENTARES DE SEGURANÇA PÚBLICA. PROFISSÕES NÃO REGULAMENTADAS. IMPOSSIBILIDADE. SENTENÇA REFORMADA.
+1 - A Constituição da República prevê, no art. 37, XVI, 'c', como exceção à regra da não acumulação de cargos públicos, a possibilidade de o servidor exercer dois cargos ou empregos privativos de profissionais da saúde, com profissões regulamentadas, desde que haja compatibilidade de horários.
+2 - A regulamentação de profissões deve ser feita por lei em sentido formal, conforme se pode depreender da dicção dos artigos 5º, inciso XIII, e 22, incisos I e XVI, da Constituição da República.
+3 - Inexistindo regulamentação legal da profissão de técnico em atividades hospitalares, especialidade anatomia, bem como de agente de atividades de segurança, é inviável a acumulação de emprego e cargo públicos com espeque no art. 37, XVI, 'c', da Carta Constitucional, porquanto ausente um dos requisitos exigidos para a incidência da norma constitucional excepcional.
+Apelação Cível e Remessa Oficial providas. “
+    Opostos embargos de declaração, foram rejeitados.
+    Sustenta o recorrente violação do artigo 37, inciso XVI, alínea c, da Constituição Federal.
+    Decido.
+    Colhe-se do voto condutor do acórdão recorrido a seguinte fundamentação:
+    “Na hipótese em tela, verifica-se que o Impetrante exerce, desde de 17/07/2009, o emprego de Técnico em Atividades Médico-Hospitalares, na classificação Técnico em Necropsia (fl. 70), no Hospital das Forças Armadas, emprego público criado pela Lei Federal nº 10.225/2001, que dispõe sobre a criação de empregos públicos no HFA - Hospital das Forças Armadas, dentre outras providências.
+    De acordo com a petição inicial, em julho/2011 o Impetrante foi aprovado no concurso público para provimento de Agente de Atividades Complementares de Segurança Pública do quadro de pessoal do Distrito Federal e, embora tenha tomado posse no cargo, fora impedido de entrar em exercício, uma vez que a Administração Pública considerou que o cargo é inacumulável com o emprego público que ocupa no HFA.
+    Razão assiste ao gestor público, no caso dos autos.
+    Com efeito, o emprego e o cargo público cuja acumulação pretende o Impetrante/Apelado não apresentam os requisitos exigidos pela Constituição da República para que a acumulação seja permitida.
+    O Impetrante/Apelado ampara sua pretensão de acumulação do emprego com o cargo público no argumento de que ambos são relativos a profissões regulamentadas, invocando, para tanto, as Leis Federais 10.225/2001 e 11.784/2008 e as Leis Distritais 20.758/2001 e 4.268/2008.
+    As referidas leis federais, entretanto, não regulamentam profissões, mas somente criam os empregos e estruturam o quadro de pessoal do HFA, respectivamente, dispondo sobre a forma de provimento, tipo de vínculo, estrutura das carreiras e promoção, dentre outras especificações.
+    As leis distritais invocadas pelo Impetrante/Apelado, por sua vez, de igual forma, tratam da criação e da reestruturação, respectivamente, da carreira de Atividades Complementares de Segurança Pública, dispondo sobre os cargos que a integram, forma de provimento, regime de trabalho e remuneração.
+    Regulamentar uma profissão, por outro lado, está relacionado ao reconhecimento de uma categoria profissional, definir seus direitos e deveres, com a finalidade não só de garantir uma reserva de mercado para esses profissionais, como também de assegurar à coletividade a devida e segura prestação dos serviços.
+    (…)
+    Portanto, além de as leis federais e distritais invocadas pelo Impetrante não tratarem de regulamentação de profissão, ainda que se admitisse tal possibilidade, ou seja, que tais leis efetivamente regulamentaram profissão, a regulamentação relativa às atividades do cargo de Agente de Atividades Complementares de Segurança Pública do quadro de pessoal do Distrito Federal seria inconstitucional, uma vez que o Entre Distrital não tem competência para legislar sobre essa matéria.
+    Assim, por consequência, o cargo para o qual o Impetrante/Apelado foi aprovado em concurso público, seria relativo a profissão não regulamentada, o que afastaria a incidência da norma constitucional que permite a cumulação de cargos ou empregos de profissionais da saúde, desde que as profissões sejam regulamentadas.
+    Por fim, deve-se destacar que as atividades tanto do emprego público exercido pelo Impetrante/Apelado, de Técnico em Atividades MédicoHospitalares, na classificação Técnico em Necropsia, quanto do cargo público de Agente de Atividades Complementares de Segurança Pública do quadro de pessoal do Distrito Federal, não foram regulamentadas em lei federal como profissão.
+    Por tudo que fora exposto, conclui-se que o Impetrante não tem direito à acumulação pretendida.”
+    Desse modo, é certo que para divergir do entendimento firmado no acórdão recorrido seria necessário, induvidosamente, o reexame da legislação infraconstitucional pertinente, o que se mostra incabível em sede de recurso extraordinário. Incidência, na espécie, das Súmulas nºs 280 e 636 do STF. Nesse sentido:
+    ”AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. NATUREZA DOS CARGOS. ACÓRDÃO FUNDAMENTADO NO EDITAL DO CONCURSO E NO CONJUNTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE nº 884.126/PI-AgR, Segunda Turma, Relatora a Ministra Carmen Lúcia, DJe de 3/8/15).
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Natureza dos cargos acumulados. Legislação local. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação local e o exame de ofensa reflexa à Constituição. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido. ” (ARE nº 846.524/PI -AgR, de minha relatoria, DJe de 18/3/15).
+    “AGRAVO REGIMENTAL. ACUMULAÇÃO DE CARGOS PRIVATIVOS DE PROFISSIONAIS DE SAÚDE. PROFISSÕES REGULAMENTADAS. REEXAME DE PROVAS. SÚMULA 279 DO STF. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o reexame das provas dos autos, o que é vedado em recurso extraordinário, nos termos da Súmula 279 do STF. Agravo regimental a que se nega provimento.” (AI nº 711.046/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 13/8/12).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 22 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
