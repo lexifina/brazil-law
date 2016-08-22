@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - LEGISLAÇÃO LOCAL - INTERPRETAÇÃO - MATÉRIA FÁTICA - AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à responsabilidade do então prefeito municipal pelo ressarcimento, aos cofres públicos, de quantia indevidamente paga. No extraordinário cujo processamento busca alcançar, o recorrente alega a violação ao artigo 39, § 4º, da Constituição Federal. Afirma não poder se extrair da referida norma a impossibilidade do acréscimo de parcelas à remuneração básica dos secretários municipais. Sustenta que o artigo 39, § 3º, da Carta Constitucional legitima o pagamento de direito sociais e fundamentais aos servidores do município. Defende a possibilidade de recebimento das verbas oriundas do adicional noturno, salário família, décimo terceiro salário e verbas de caráter indenizatório juntamente com o subsídio. Diz ter determinado o pagamento das das verbas questionadas, em decorrência de previsão na Lei municipal nº 1.3515/93, demonstrada assim, a boa-fé. Aduz erro quanto aos valores imputados na condenação.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Tribunal de origem expressamente consignou a existência de provas no processo de que a Administração municipal efetuou pagamentos aos secretários municipais sem a devida observância do disposto na Lei nº 1.315/93. Colho do acórdão recorrido o seguinte trecho:
+    Da análise dos demonstrativos de pagamento trazidos aos autos, verifica-se que a Administração municipal ao efetuar o pagamento dos Secretários, no exercício de 2007, não observou o disposto no art. 202 da Lei local nº 1.315/1993, tampouco os ditames constitucionais, ao revés do que alegam os ora recorrentes.
+    […]
+    Dessa maneira, para o caso dos autos, confirmou-se que os Secretários Municipais receberam os correspondentes subsídios com acréscimo, ao par de verbas normativamente permitidas, de outras que não encontram amparo constitucional.
+    [...]
+    Diversa, no entanto, é a situação do co-requerido José Carlos Calza, gestor municipal que, com nomear os Secretários Municipais e autorizar o pagamento irregular, deve responder pelo dispêndio monetário correspondente.
+    À par desse aspecto, as razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No mais, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação da Lei Municipal nº 1.315/1993. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 22 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
