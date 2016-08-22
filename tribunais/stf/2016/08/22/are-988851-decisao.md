@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVO LEGAL. APELAÇÃO. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. EXIGÊNCIA DE COMPROVAÇÃO DA ESCOLARIDADE PARA PARTICIPAÇÃO NO CURSO DE FORMAÇÃO. IMPOSSIBILIDADE. DECISÃO MONOCRÁTICA. MANUTENÇÃO.
+    As teses defendidas neste recurso de agravo já foram oportuna e devidamente analisadas quando da apreciação do recurso de apelação interposto. Inexistindo fato novo a ensejar a retratação da decisão, esta há de ser mantida, por seus próprios fundamentos. Tentativa de reexame da matéria. Caráter procrastinatório. Entendimento consolidado na jurisprudência desta Egrégia Corte. Recurso não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, caput, II, XIII, LIV e LV; 37, caput, I e II; 93, IX; e 173, § 1º, II, todos da Constituição.
+    O recurso não deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência desta Corte que se orienta no sentido de que a comprovação da habilitação exigida nos editais de concurso público há de ocorrer após a conclusão das fases respectivas, e não no momento da inscrição no certame (MS 26.668, Rel. Min. Ricardo Lewandowski, Plenário). Nessa linha, confiram-se julgados das duas Turmas deste Tribunal:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Concurso público. 3. Comprovação de habilitação. Momento da posse. Exigência de apresentação de diploma e registro no órgão de classe competente após a conclusão do curso de formação que, no caso, consiste em etapa do referido concurso. 3. Precedentes da Corte. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 728.049-AgR, Rel. Min. Gilmar Mendes, Segunda Turma)
+    “DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. HABILITAÇÃO PREVISTA EM EDITAL. INEXIGIBILIDADE EM MOMENTO ANTERIOR AO CURSO DE FORMAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO DAS DEMAIS MATÉRIAS DE ESTATURA CONSTITUCIONAL. SÚMULA 282/STF.
+    A comprovação da habilitação prevista em edital, para o exercício do cargo objeto do certame, somente pode ser exigida após o curso de formação. Precedentes.
+    Aplicação da Súmula 282/STF quanto às questões constitucionais não prequestionadas: é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+    Agravo regimental conhecido e não provido.” (AI 752.869-AgR, Rel.ª Min.ª Rosa Weber, Primeira Turma)
+    Ademais, não afronta o princípio da separação dos Poderes o controle exercido pelo Poder Judiciário sobre atos administrativos tidos por abusivos ou ilegais. Veja-se trecho da ementa do RE 629.574-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    III - Esta Corte possui entendimento no sentido de que o exame pelo Poder Judiciário do ato administrativo tido por ilegal ou abusivo não viola o princípio da separação dos poderes. Precedentes.
+    IV - Agravo regimental improvido”.
+    Quanto à alegada ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
