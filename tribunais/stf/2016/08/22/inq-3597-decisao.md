@@ -1,0 +1,18 @@
+Decisão: 1. Trata-se de inquérito instaurado em desfavor de Jader Fontenelle Barbalho, Senador da República, em razão da suposta prática do crime de falsidade ideológica, pois “o investigado teria deixado de declarar cotas de participação na sociedade Rádio e TV Tapajós Ltda. na declaração de bens apresentada à Justiça Eleitoral por ocasião das eleições de 2010” (fl. 566).
+    Foram realizadas diligências, pronunciando-se o Procurador-Geral da República pela “extinção da punibilidade de Jader Fontenelle Barbalho, com fundamento no art. 107, inciso IV, combinado com o art. 109, inciso III, e com o art. 115, todos do Código Penal, com o consequente arquivamento dos autos” (fl. 568).
+    2. Colhe-se parte desse parecer, o qual é adotado como razão de decidir nesta ocasião:
+    “[...]
+    Há nos autos indícios da possível prática do delito de falsidade ideológica, previsto no art. 350 do Código Eleitoral, que comina pena de ‘reclusão até cinco anos e pagamento de 5 a 15 dias-multa, se o documento é público, e reclusão até três anos e pagamento de 3 a 10 dias-multa se o documento é particular’.
+    O crime imputado ao investigado teria sido perpetrado em razão de omissão procedida na declaração de bens prestada à Justiça Eleitoral por ocasião das eleições de 2010, consubstanciando falsidade de documento público.
+    “Nesta hipótese, o tipo penal estabelece pena de até cinco anos de reclusão, cujo prazo prescricional é fixado pelo art. 109, inciso III, do Código Penal, em doze anos.
+    De outra parte, como o investigado completou 70 anos de idade no dia 27/10/2014, incide na espécie o art. 115 do Código Penal. Com a redução prevista em tal dispositivo legal, o prazo de prescrição aplicável ao caso fica estabelecido em seis anos.
+    A Resolução do TSE n° 23.221, de 2 de março de 2010, dispôs sobre a escolha e o registro de candidatos nas eleições de 2010. Nos termos do art. 19 e art. 26 do referido normativo, os partidos políticos e as coligações deveriam solicitar aos Tribunais Eleitorais o registro de seus candidatos até as 19 horas do dia 5 de julho de 2010, por intermédio de formulário específico acompanhado da declaração atual de bens preenchida no Sistema CANDex.
+    Destarte, considerando que a entrega do documento ao qual se atribui a falsidade tinha como termo final o dia 5 de julho de 2010, já transcorreu lapso superior a seis anos, sem interrupção. Forçoso, pois, o reconhecimento da prescrição pela pena em abstrato em relação ao investigado” (fls. 567-568).
+    3. Segundo a jurisprudência do Supremo Tribunal Federal, é irrecusável a promoção de arquivamento do inquérito policial, das peças de informação ou da comunicação de crime solicitada pelo Ministério Público, quando fundada na ausência de elementos que permitam ao Procurador-Geral da República formar a opinio delicti (PET 2509 AgR, Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJ de 25.6.2004).
+    No caso, o titular da ação penal opinou pelo arquivamento do procedimento na consideração da ocorrência de prescrição em abstrato quanto aos fatos, o que impede o exercício da ação penal.
+    4. Ante o exposto, acolho a manifestação do Ministério Público e defiro o arquivamento deste inquérito em relação ao Senador Jader Fontenelle Barbalho, nos termos dos arts. 3º, I, da Lei 8.038/90, 21, XV, e 231, § 4º, do RISTF, declarando prescrita a pretensão punitiva, na forma do art. 107, inciso IV, combinado com o art. 109, inciso III, e com o art. 115, todos do Código Penal.
+    Publique-se. Intime-se.
+    Brasília, 22 de agosto de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
