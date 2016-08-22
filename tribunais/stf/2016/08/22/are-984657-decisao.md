@@ -1,0 +1,34 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado, no que interessa:
+    “AGRAVO REGIMENTAL – Legitimação ativa configurada – Desnecessidade da associação da poupança ao IDEC – A propositura da execução individual pode ocorrer no foro da comarca do domicílio da credora – Aplicação dos índices da Tabela Prática do Egrégio Tribunal de Justiça do Estado de São Paulo para a correção monetária do débito exequendo – Juros moratórios – Incidência a partir da data da citação do Banco nos autos da ação civil pública (…)”. (eDOC 4, p. 36)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, inciso LIV, do texto constitucional.
+    Nas razões recursais, alega-se que “as correções monetárias devem utilizar os índices de poupança aplicados à época. (eDOC 6, p. 14). Sustenta-se, também, que “os juros de mora incidem a partir da citação válida na liquidação da sentença, e não da ação proposta pelo IDEC”. (eDOC 6, p. 15)
+    Alega-se ainda que houve ofensa ao princípio do devido processo legal e que a condenação do recorrente em honorários advocatícios deve ser afastada.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor e Código Civil), consignou que cabe à parte escolher o local onde ocorrerá a execução individual e que os juros moratórios incidem a partir da ação proposta pelo IDEC. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Ao regular os efeitos da coisa julgada nas ações coletivas para a defesa dos aludidos interesses, dispõe o inciso III, do artigo 103 do Código de Defesa do Consumidor:
+    ‘Art. 103. Nas ações coletivas de que trata este Código, a sentença fará coisa julgada:
+    (omissis)
+    III – erga omnes, apenas no caso de procedência do pedido, para beneficiar todas as vítimas e seus sucessores, na hipótese do inciso III do parágrafo único do art. 81”. (grifamos)
+    Como demonstrado, a credora é titular da pretensão deduzida em Juízo, qual seja receber o saldo da conta-poupança mantida junto à ré, referente ao mês de janeiro do ano de 1989.
+    Assim, por se tratar da execução individual, o foro competente pode ser tanto o do domicílio da recorrida, quanto a localidade onde foi processada a ação condenatória, de modo que constitui faculdade da parte a escolha do local onde promoverá tal fase processual.
+    (…)
+    Acerca do termo inicial dos juros moratórios, o artigo 405 do Código Civil Brasileiro dispõe:
+    ‘Art. 405. Contam-se os juros de mora desde a citação inicial’.
+    Conforme preleciona o jurista Luiz Antonio Scavone Júnior:
+    ‘A lei é clara e somente autoriza a contagem de juros moratórios com a citação inicial, não fazendo mais qualquer distinção entre obrigações líquidas ou ilíquidas, condicionando sua contagem, em qualquer caso, à existência de ação proposta pelo credor em face do devedor’ (grifamos)
+    A devedora incidiu em mora na data da sua citação na ação civil pública, motivo pelo qual a percepção dos juros moratórios, oriundos da diferença da correção monetária das cadernetas de poupança correspondente ao mês de janeiro do ano 1989, é devida desde então à agravada”. (eDOC 3, p. 52, 56-57)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Recurso extraordinário contra acórdão do STJ. Análise de questão decidida em segundo grau. Impossibilidade. Recurso especial. Análise dos pressupostos de admissibilidade. Ausência de repercussão geral. Honorários advocatícios. Fixação. Legislação infraconstitucional. Precedentes. (...) 3. A questão relativa à fixação, na origem, de honorários advocatícios é de índole infraconstitucional, exaurindo-se no âmbito da legislação processual, para cujo exame não se presta o recurso extraordinário, uma vez que a ofensa ao texto constitucional, se houvesse, seria indireta ou reflexa. 4. Agravo regimental não provido”. (ARE 755.830-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, DJe 4.12.2013)
+    “Agravo regimental em agravo de instrumento. 2. Processual Civil. Critérios de fixação dos honorários advocatícios. Matéria infraconstitucional. Ofensa reflexa. 3. Violação ao princípio da legalidade. Enunciado 636 da Súmula do STF. Precedentes. 4. Agravo regimental a que se nega provimento”. (AI 825.319-AgR/RS, da minha relatoria, Segunda Turma, DJe 15.10.2012)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. JUROS MORATÓRIOS. FIXAÇÃO DO TERMO INICIAL. CONTROVÉRSIA INFRACONSTITUCIONAL. LIMITES DA COISA JULGADA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I A controvérsia sobre o termo inicial de incidência dos juros moratórios restringe-se à esfera infraconstitucional, devendo ser apreciada pelo Juízo de execução. II A Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Precedentes. III - Agravo regimental improvido”. (AI 808471-AgR/SP, Min. Rel. Ricardo Lewandowski, Primeira Turma, DJe 1.2.2011)
+    “RECURSOS DE AGRAVO DEDUZIDOS PELOS SERVIDORES PÚBLICOS ESTADUAIS E PELO INSTITUTO DE PREVIDÊNCIA DO ESTADO DE SÃO PAULO IPESP FIXAÇÃO DE JUROS DE MORA COMPETÊNCIA DO JUÍZO DA EXECUÇÃO CONTENCIOSO DE MERA LEGALIDADE CONFIGURAÇÃO, QUANDO MUITO, DE OFENSA REFLEXA AO TEXTO CONSTITUCIONAL RECURSO DOS SERVIDORES PÚBLICOS ESTADUAIS QUE TAMBÉM DISCUTE A VERBA HONORÁRIA PROVIMENTO DO APELO EXTREMO - INVERSÃO DOS ÔNUS DA SUCUMBÊNCIA ACÓRDÃO QUE FIXOU HONORÁRIOS SOBRE O VALOR DA CAUSA PETIÇÃO INICIAL E IMPUGNAÇÕES RECURSAIS QUE REQUERERAM A FIXAÇÃO SOBRE O VALOR DA CONDENAÇÃO POSSIBILIDADE RECURSO DOS SERVIDORES PROVIDO EM PARTE - RECURSO DO IPESP IMPROVIDO”. (RE 524282-AgR/SP, Min. Rel. Celso de Mello, Segunda Turma, DJe 16.3.2011)
+    Por fim, no tocante à suposta ofensa ao princípio do devido processo legal, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
