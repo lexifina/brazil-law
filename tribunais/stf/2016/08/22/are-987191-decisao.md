@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 5ª Região, ementado nos seguintes termos:
+    “AÇÃO ORDINÁRIA. MUNICÍPIO. INSCRIÇÃO NO SIAFI. IN 01/97 – STN. TRANSFERÊNCIA VOLUNTÁRIA DE RECURSOS FEDERAIS. MUNICÍPIO INSCRITO NO SIAFI. INADIMPLÊNCIA IMPUTADA AO EX-GESTOR. APELAÇÃO E REMESSA OFICIAL DESPROVIDAS. I - Nos termos do art. 5º, § 2º, da IN 01/97 – STN e da jurisprudência pacífica do Supremo Tribunal Federal e do Superior Tribunal de Justiça, deve ser afastada a inadimplência que impede a transferência voluntária de recursos federais, quando a inadimplência do beneficiário for imputada ao ex-gestor, em tomada de contas especial. II - No caso concreto, o município encontra-se administrado por outro gestor que não o faltoso, tendo, ademais, adotado providências necessárias à responsabilização do ex-prefeito consubstanciadas na representação deste junto ao Ministério Público Federal, bem como na solicitação de instauração de tomada de conta especial, cuja cópia encontra-se nos volumes apensados aos atuais autos, demonstrando, portanto, interesse em buscar, junto ao ex-gestor municipal, o ressarcimento dos valores relativos ao convênio que gerou a inscrição do ente municipal no SIAFI. III - Apelação e remessa oficial a que se nega provimento”. (eDOC 2, p. 103)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 37, caput; e 160, parágrafo único, I, do texto constitucional.
+    Nas razões recursais, alega-se que a responsabilidade pela prestação correta das contas é sempre do município, independentemente de qual seja o chefe de seu Poder Executivo, devendo, assim, ter seu nome mantido nos registros do SIAFI (eDOC 2, p. 139)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a IN STN 1/1997, ato normativo infraconstitucional aplicável à espécie, e o conjunto probatório constante dos autos, consignou que, diante das providências adotadas pelo ente público, não seria possível sua inscrição no cadastro de inadimplentes. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No caso concreto, o município encontra-se administrado por outro gestor que não o faltoso, tendo, ademais, adotado providências necessárias à responsabilização do ex-prefeito consubstanciadas na representação deste junto ao Ministério Público Federal, fl. 95/96, do volume I dos apensos, bem como houve a instauração de tomada de conta especial, cuja cópia encontra-se nos volumes apensados aos atuais autos, demonstrando, portanto, interesse em buscar, junto ao ex-gestor municipal, o ressarcimento dos valores relativos ao Convênio nº 265/2007.
+    Assim, não se justifica a imposição de qualquer sanção, em face da ausência de prestação de contas pelo antigo gestor, máxime a proibição de recebimento de verbas federais, as quais são destinadas à realização de obras ou serviços de interesse público”. (eDOC 2, p. 99)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
