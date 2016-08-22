@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXPEDIÇÃO DE DIPLOMA POR INSTITUIÇÃO DE ENSINO. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “AGRAVO REGIMENTAL. Inconformismo da parte com as razões de decidir recurso de agravo de instrumento manifestamente improcedente ao qual foi negado seguimento inteligência do art. 557 do CPC manutenção da r. decisão agravada. RECURSO DA EXECUTADA NÃO PROVIDO.
+    (…) Conforme se depreende dos autos, a Exequente ajuizou a presente ação de obrigação de fazer c.c indenização por danos materiais e morais com pedido de tutela antecipada requerendo, em sede de antecipação dos efeitos da tutela, que a Executada fosse compelida a emitir o Certificado de Conclusão de Curso e a entregar à Exequente o respectivo diploma universitário de Bacharel em Direito, sob pena de multa diária. Requereu, ainda, a condenação da Executada ao pagamento de indenização por danos materiais e morais (e-fls. 22/60).
+    Após o regular trâmite do processo, o MM. Juiz “a quo” houve por bem julgar parcialmente procedentes os pedidos iniciais da ação (e-fls. 61/67), concedendo, no mesmo ato processual, a tutela antecipada pleiteada inicialmente, com o fim de determinar o cumprimento, pela Executada, no prazo de trinta dias, da obrigação de promover a colação de grau e expedir o diploma de Bacharel em Direito em favor da Exequente.
+    (…) Isso porque a expedição por parte da Executada de diploma de Bacharel em Direito em favor da Exequente em cumprimento a ordem judicial não configura obrigação impossível juridicamente, mas, na verdade, inconformismo da Executada com a r. sentença de mérito proferida, o que, entretanto, não elide o dever imposto por meio de condenação judicial”.
+    2. No recurso extraordinário, a Agravante alega contrariado o art. 5º, inc. II, da Constituição da República, sustentando que “não há como se expedir um diploma legalmente válido sem a realização do ENADE, sendo que, qualquer obrigação neste sentido tratar-se-ia de impor a agravante, ora recorrente a uma verdadeira ilegalidade” (sic).
+    3. O recurso extraordinário foi inadmitido ao fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. A assertiva de inobservância do art. 5º, inc. II, da Constituição da República esbarra no óbice da Súmula n. 636 do Supremo Tribunal Federal, na qual se dispõe não caber “recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”, como ocorre na espécie vertente (Lei n. 10.861/2004). Confiram-se, por exemplo, os precedentes a seguir:
+    “Recurso extraordinário: descabimento: questão relativa ao pagamento de horas in itinere decidida pelo acórdão recorrido à luz da legislação infraconstitucional: incidência, mutatis mutandis, da Súmula 636; inocorrência de negativa de prestação jurisdicional ou
+    violação dos princípios constitucionais apontados no recurso extraordinário” (AI n. 233.548-AgR, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 18.3.2005).
+    “Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI n. 745.965-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 26.6.2011).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE E DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE EXAME PRÉVIO DE NORMAS INFRACONSTITUCIONAIS. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ” (RE n. 631.736-ED, de minha relatoria, Primeira Turma, DJe 8.4.2011).
+    Nada há a prover quanto às alegações da Agravante.
+    6. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de agosto de 2016.
+ Ministra CÁRMEN LÚCIA
+Relatora
