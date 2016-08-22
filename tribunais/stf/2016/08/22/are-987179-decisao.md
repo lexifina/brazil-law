@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REENQUADRAMENTO. DECESSO REMUNERATÓRIO: IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DESTE SUPREMO TRIBUNAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Nona Câmara de Direito Público do Tribunal de Justiça de São Paulo decidiu:
+    “APELAÇÃO. SERVIDOR PÚBLICO. IMPROCEDÊNCIA DO PEDIDO MEDIATO. SERVIDOR PÚBLICO ESTADUAL. Reenquadramento no novo plano de cargos, vencimentos e salários. Observância da evolução funcional anteriormente conquistada. Inteligência da Lei Complementar n. 1.122/2010. Alegação de rebaixamento da situação funcional. Não cabimento. Reenquadramento não viola a estabilidade e irredutibilidade dos vencimentos dos servidores. Inocorrência de ofensa ao direito e garantias constitucionais. RECURSO NÃO PROVIDO” (doc. 1, fl. 109).
+    Os embargos declaratórios opostos foram rejeitados.
+    3. Na decisão agravada, foram adotadas como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta e a incidência da Súmula n. 282 do Supremo Tribunal Federal.
+    4. Os Agravantes argumentam que “tinham os graus de progressão já atingidos, sendo que a Lei Complementar Estadual 1.080/08 veio e os rebaixou. Ora, ainda que não tenha havido redução de vencimentos, os graus atingidos já fazem parte do patrimônio moral dos recorrentes, sendo que a redução dos mesmos lhes gera enorme abalo moral.
+    Em verdade, os níveis atingidos pelos recorrentes e demais servidores nunca poderiam ter sido suprimidos, sob o título de reenquadramento. O direito dos recorrentes e demais servidores não se resume só nos vencimentos, mas, também, no título adquirido com a progressão” (doc. 1, fls. 179-181).
+    No recurso extraordinário alega-se ter o Tribunal de origem contrariado o art. 5º, inc. XXXVI, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Cumpre afastar o óbice da decisão agravada quanto ao prequestionamento, por ter sido a matéria objeto de oportuna impugnação.
+    A superação desse fundamento, todavia, não é suficiente para acolher-se a pretensão dos Agravantes.
+    6. A apreciação do pleito recursal demandaria o reexame da matéria fático-probatória e da legislação infraconstitucional aplicável à espécie. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REENQUADRAMENTO. DECESSO REMUNERATÓRIO. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 732.599-AgR, de minha relatoria, Segunda Turma, DJe 14.6.2013).
+    “Agravo regimental em embargos de declaração em embargos de divergência em agravo regimental em agravo de instrumento. 2. Administrativo. Reestruturação do plano de cargos e salários. Servidor aposentado. Reenquadramento. Inexistência de direito adquirido a regime jurídico. Repercussão geral reconhecida. RE-RG 606.199. 3. Irredutibilidade de vencimentos. Ocorrência de decesso remuneratório. Reexame de provas. Aplicação da Súmula 279. 4. Agravo regimental a que se nega provimento” (AI n. 601.936-AgR-EDv-ED-AgR, Relator o Ministro Gilmar Mendes, Plenário, DJe 29.8.2014).
+    7. Este Supremo Tribunal decidiu que a alegação de contrariedade ao art. 5º, inc. XXXVI, da Constituição da República, se dependente do exame da legislação infraconstitucional (Lei Complementar n. 1.122/2010), poderia configurar, se fosse o caso, ofensa constitucional indireta. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI n. 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    Nada há a prover quanto às alegações dos Agravantes.
+    8. Pelo exposto, nego provimento a este agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de agosto de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
