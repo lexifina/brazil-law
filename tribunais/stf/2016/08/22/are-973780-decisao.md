@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de origem confirmou o entendimento do Juízo quanto ao não preenchimento dos requisitos para a concessão da aposentadoria especial - eis não ter o autor atingido o período de carência necessário -, reconhecendo, entretanto, o direito à aposentadoria por tempo de contribuição. No extraordinário, cujo trânsito pretende alcançar, o recorrente afirma violação do artigo 5º, inciso XXXVI, da Constituição Federal. Alega inaplicabilidade da Lei nº 9.032/91 aos períodos anteriores à sua vigência, apontando que o tempo de serviço deve ser regido pela legislação vigente ao tempo em que prestado o trabalho.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Analiso os períodos em atividade comum convertidos em tempo especial. Primeiramente, não é possível a conversão de atividade comum para especial, isso porque se tratava de ficção jurídica criada pelo legislador para aquele trabalhador que, embora não estivesse submetido a condições prejudiciais de trabalho durante todo o período de atividade remunerada, pudesse utilizar tais períodos de atividade comum para compor a base de cálculo dos 25 anos para fins de concessão da aposentadoria especial.
+    Contudo, com o advento da Lei n° 9.032/95, foi introduzido ao art. 57 da Lei n° 8.213/91 o § 5o, que menciona apenas a conversão do tempo especial para comum, inviabilizando, a partir de então, a conversão inversa.
+    A jurisprudência é pacífica no sentido de que a mencionada conversão deixou de ser admitida com o advento da Lei n° 9.032, de 28.04.1995.
+    […]
+    Dessa forma, não é possível a conversão do tempo de serviço comum em especial para a concessão da aposentadoria especial, uma vez que a data do requerimento administrativo é 16/06/2005.
+    Assim, os períodos de 13/11/1978 a 08/07/1981 e 21/01/1982 a 15/0.3/1982, requeridos pelo autor, e convertidos pela r. sentença em tempo especial, devem ser considerados tempo comum.
+    Passo a analisar o período de 02/06/1987 a 12/09/2006 reconhecido como especial pela r. sentença.
+    Pela documentação juntada aos autos é possível o reconhecimento do período acima, considerando que no exercício da sua atividade laborativa, esteve exposto a ruído de 91,4/93,3 dB(A), conforme formulário PPP de fls. 36/38, enquadrando-se no código 1.1.6 do Anexo III do Decreto n° 53.831/64, 1.1.5 do Anexo I do Decreto n° 83.080/79, e no código 2.0.1 do Anexo IV dos Decretos n° 2.172/97, 3.048/99 e 4.882/03.
+    Dessa forma, o autor não preenche os requisitos para a concessão da aposentadoria especial uma vez que somado o período especial ora reconhecido àquele já considerado pelo INSS (24/06/1982 a 05/05/1987 -fls. 55), verifica-se que perfaz um total de 24 anos, 01 mês e 22 dias no exercício de atividade especial, ou seja, não cumpriu o requisito temporal previsto no art. 57, da Lei n° 8.213/91, não fazendo jus, portanto à sua concessão.
+    Entretanto, faz jus à aposentadoria por tempo de contribuição.
+    Computando-se os interstícios sujeitos ã conversão de especial para comum, com os demais períodos, incontroversos, conforme se verifica no extrato de fls. 58/59, verifica-se que na data do requerimento administrativo, formulado em 16/06/2005 (fls. 43), o autor contava com 36 anos e 06 meses de tempo de contribuição.
+    O período em que a parte autora trabalhou registrada é suficiente para lhe garantir o cumprimento da carência, de acordo com a tabela do artigo 142 da Lei n° 8.213/91.
+    Assim, o autor faz jus à concessão do benefício de aposentadoria por tempo de serviço, em sua forma integral, com renda mensal inicial a ser calculada nos termos do art. 29, I, da Lei n° 8.213/91, com a redação dada pela Lei n° 9.876/99.
+    Divergir deste entendimento demandaria, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que a questão foi decidida a partir da interpretação de normas estritamente legais, Leis nº 8.213/91 e nº 9.032/95, não ensejando campo ao acesso ao Supremo.
+    À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    Por fim, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia da agravada em apresentar contraminuta ao agravo.
+    4. Publiquem.
+Brasília, 22 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
