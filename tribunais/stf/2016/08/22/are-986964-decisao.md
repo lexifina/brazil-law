@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - MATÉRIA FÁTICA - INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO
+    1. O Tribunal Regional Federal da 5ª Região reformou o entendimento do Juízo, determinando a realização de novos cálculos quanto aos valores devidos a título de gratificação de operações especiais - GOE. No extraordinário cujo trânsito busca alcançar, os recorrentes apontam a violação do artigo 5°, inciso XXXVI, da Constituição Federal. Sustentam a afronta à coisa julgada diante da tentativa de alteração do título executivo judicial oriundo da ação ordinária nº 93.364-0/AL. Afirmam ser devida a gratificação desde o momento da supressão, pela Lei nº 7.923/89, até o restabelecimento, em maio de 2001, por meio de determinação judicial, sendo incorreta a utilização do advento da Lei nº 8.270/91 como termo inicial.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Tribunal de origem assentou não se justificar a percepção da rubrica após o advento da Lei nº 8.270/91. As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Colho do acórdão os seguintes trechos:
+    Cumpre destacar que a Lei nº 8.162/91, em seu art. 15, posteriormente revogada pelas Leis nºs 9.264/96 e 9.266/96, restabeleceu a Gratificação por Operações Especiais - GOE, determinando que seus efeitos financeiros retrocedessem a 1º de janeiro de 1991, gratificação essa que fora estendida aos Policiais Rodoviários Federais, em face do disposto no art. 14, §2º, da Lei 8.270/91, in verbis:
+    […]
+    Pois bem: o egrégio Superior Tribunal de Justiça firmou o entendimento de que a Gratificação por Operações Especiais – GOE, é idêntica àquela prevista pela Lei 8.162/91 - art. 15 -, não se justificando a continuidade da sua percepção depois do advento da Lei nº 8.270/91 – que estendeu a supramencionada gratificação aos Policiais Rodoviários Federais -, desde que, sublinhe-se, o título judicial executado limite a condenação ao restabelecimento da dita gratificação, peculiaridade que, segundo penso, se faz presente no presente feito. A propósito, confira-se:
+    […]
+    O acolhimento da alegação dos Embargados, ao meu pensar, importaria no reconhecimento de que a GOE não fora restabelecida pela Lei nº 8.162/91; com assim, estar-se-ia a contraditar o que ficara assentado na decisão exequenda, e acolhendo-se a possibilidade, inaceitável, da ocorrência de um bis in idem.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 22 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
