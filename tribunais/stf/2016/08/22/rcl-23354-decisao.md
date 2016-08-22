@@ -1,0 +1,16 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, ajuizada pela Fundação Ministério Comunidade Cristã contra decisão monocrática proferida pelo Ministro Herman Benjamin, nos autos do REsp 1.288.620/GO.
+    Na petição inicial, argumenta-se, em síntese, que, ao dar provimento ao pedido ministerial, ainda que de forma implícita, a decisão impugnada teria declarado a inconstitucionalidade dos arts. 13 e 14 do Decreto-Lei 236/67, que complementa e modifica o Código Brasileiro de Telecomunicações, e do art. 13, §1º, do Decreto 52.796/63, violando assim a Súmula Vinculante 10 do STF.
+    Ao final, requer-se, liminarmente, a suspensão dos efeitos da decisão proferida pelo STJ nos autos do REsp 1.288.620/GO. No mérito, pede seja julgada procedente a presente reclamação, determinando o restabelecimento da decisão do Tribunal Regional Federal da 1ª Região.
+    Passo a decidir.
+    A presente reclamação não merece prosperar. Com efeito, a Súmula Vinculante encontra-se assim redigida: “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    Observa-se claramente que referida súmula vinculante tem sua aplicação direcionada aos casos em que órgão fracionário de Tribunal, embora não declare expressamente a inconstitucionalidade de norma jurídica, afasta sua aplicação, no todo ou em parte, sem a devida observância da denominada “cláusula de reserva de plenário” (art. 97 da CF de 1988. Tal entendimento, por óbvio, não alcança as decisões monocráticas proferidas por órgão singular.
+    Nesse mesmo sentido, refiro-me ao entendimento adotado pela Primeira Turma desta Corte, no julgamento da Rcl 17.150 AgR, que, embora tenha por objeto decisão proferida por órgão singular de primeira instância, não deixa de ter aplicação ao caso em exame:
+    “Agravo regimental na reclamação. Atuação de órgão singular de primeira instância do Poder Judiciário. Súmula Vinculante nº 10. Inaplicabilidade. Agravo regimental não provido. 1. Não tem êxito o agravo interno que deixa de atacar especificamente os fundamentos da decisão singular (art. 317, § 1º, RISTF). 2. A Súmula Vinculante nº 10 enuncia entendimento relacionado à atuação de órgãos colegiados do Poder Judiciário, não sendo aplicável, portanto, a decisões proferidas por órgão singular de primeira instância. 3. Agravo regimental não provido” (Rcl 17150 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 2.6.2014. Grifei).
+    Ressalto, ademais, que o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal. É essa a orientação consolidada na jurisprudência desta Corte.
+    Confiram-se, a propósito, os seguintes precedentes: Rcl 9.545, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 13.5.2010; e Rcl 5.494, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 11.12.2009.
+    Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
