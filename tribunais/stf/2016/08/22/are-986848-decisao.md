@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - MATÉRIA FÁTICA - PRESTAÇÃO JURISDICIONAL ENTREGA - INVIABILIDADE - AGRAVO DESPROVIDO.
+    1. O Colegiado de origem concedeu a segurança para determinar à Secretaria de Estado de Administração e à Delegacia Geral da Polícia Civil do Estado a realização do curso técnico de formação profissional na Academia de Polícia Civil do Estado do Pará, a fim de possibilitar a matrícula das impetrantes. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, incisos II, XXXV e LV, e 93, inciso IX, da Constituição Federal. Argui a nulidade da decisão diante da negativa de prestação jurisdicional e do cerceamento de defesa. Sustenta a ofensa ao princípio da legalidade e da separação dos Poderes, ante a interferência do Judiciário no mérito do ato administrativo, considerados os critérios destinados à avaliação dos canditados.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula desta Corte:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese da decisão recorrida:
+    MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. LITISCONSÓRCIO ATIVO. CARÊNCIA DE AÇÃO. INEXISTÊNCIA. DECADÊNCIA. INOCORRÊNCIA. VIOLAÇÃO DOS DIREITOS DAS IMPETRANTES. SEGURANÇA CONCEDIDA.
+    (…)
+    4. A ordem judicial direcionada ao Estado do Pará foi, tão somente, no sentido de garantir a participação da candidata referida na 2ª fase do certame, ou seja, resguardou o direito da mesma em se matricular no Curso de Formação Técnico Profissional para Policiais Civis.
+    5. Entendo que não houve determinação judicial para que a mesma fosse nomeada e empossada no cargo de Delegado, tendo a Administração Pública agido por conta própria ao praticar tal ato administrativo, devendo, por consequência, responder por ele.
+    6. Assim, restam violados os direitos das impetrantes, uma vez que as mesmas foram classificadas em melhor posição que a candidata paradigma nomeada e que a ordem judicial emanada do juízo d 2ª Vara de Fazenda a Capital não determinou ao Estado do Pará que nomeasse e empossasse a pretendente ao Cargo de Delegado de Polícia.
+    7. Concedo a segurança, ratificando a liminar deferida anteriormente, para que a autoridade coatora, através dos órgãos competentes ou da Secretaria de Estado de Administração e Delegacia Geral da Polícia Civil do Estado do Pará viabilize, imediatamente, a realização do Curso Técnico de Formação Profissional na Academia de Polícia do Estado do Pará para que as impetrantes possam ser regularmente matriculadas, antes do prazo de expiração do concurso.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 22 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
