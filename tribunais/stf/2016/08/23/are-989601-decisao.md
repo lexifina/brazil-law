@@ -1,0 +1,12 @@
+Decisão: Trata-se de recurso extraordinário com agravo interposto contra decisão do Tribunal de Justiça Militar do Estado do Rio Grande do Sul que aplicou a sistemática da repercussão geral (eDOC 9, p. 51-55).
+    O recurso não merece prosperar.
+    O Plenário deste Tribunal decidiu não ser cabível recurso para o Supremo Tribunal Federal contra a aplicação do procedimento da repercussão geral nas instâncias de origem. Transcrevo a ementa do AI-QO 760.358, de minha relatoria, DJe 18.2.2010:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem” (grifei).
+    Nesse sentido, o Novo Código de Processo Civil, que entrou em vigor em 18.3.2016, confirmando a jurisprudência firmada anteriormente por esta Corte, assentou que o recurso cabível contra a aplicação da sistemática da repercussão geral pelo Tribunal de origem é o agravo interno (art. 1.030, § 2º).
+    No caso, sequer a conversão do recurso em agravo regimental dirigido ao Tribunal de origem é possível, uma vez que o agravo foi interposto após o entendimento firmado pelo Supremo Tribunal Federal, que definiu o meio processual adequado para questionar essas decisões.
+    Ante o exposto, não conheço do presente, por incabível (RISTF, art. 21, § 1º).
+    Publique-se. Int..
+    Brasília, 23 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
