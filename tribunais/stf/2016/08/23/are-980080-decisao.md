@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 5, p. 87):
+    “PROCESSUAL CIVIL – AGRAVO LEGAL – ART. 557, § 1º, DO CÓDIGO DE PROCESSO CIVIL – APELAÇÃO DA PARTE AUTORA JULGADA MONOCRATICAMENTE – RECURSO QUE APENAS REITERA OS ARGUMENTOS DA APELAÇÃO – AGRAVO LEGAL NÃO CONHECIDO.
+    1. O agravo legal é manifestamente inadmissível vez que o autor simplesmente reitera os argumentos da apelação, acrescentando outros, sem questionar porque o apelo não poderia ser julgado monocraticamente.
+    2. O emprego de recurso manifestamente inadmissível merece a censura do § 2º do artigo 557 do Código de Processo Civil, com multa de 1% do valor da causa corrigido.
+    3. Agravo legal não conhecido.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 1º, II e III; 3º, I e IX; e 201, da Constituição Federal.
+     Nas razões recursais, aduz-se com a necessidade de continuar a receber a pensão, pois não tem condições de auto prover o seu sustento e necessita que seja garantido o “livre desenvolvimento da personalidade”. Sustenta-se, ainda, que não teve a intenção de obstar o andamento do processo interpondo recurso à Turma do Tribunal de origem para apreciação dos fatos e do direito pleiteado, razão pela qual seria indevida a multa plicada.
+    A Vice-Presidência do TRF da 3ª Região inadmitiu o recurso em virtude do não recolhimento prévio do valor correspondente à multa aplicada no recurso de agravo.
+    É o relatório. Decido.
+    Cabe ao recorrente, em sede de recurso extraordinário, comprovar o recolhimento da multa processual imposta pelo Tribunal de origem, condição objetiva de procedibilidade de novos recursos, nos termos do parágrafo único do art. 1.026, § 3º, do CPC. Assim, diante da inexistência de recolhimento da multa de 1% que lhe foi imposta, correta a decisão do TRF da 3ª Região ao inadmitir o extraordinário pela ausência desse pressuposto processual objetivo.
+    Neste sentido:
+    “EMBARGOS DECLARATÓRIOS EM RECURSO EXTRAORDINÁRIO COM AGRAVO RECEBIDOS COMO AGRAVO REGIMENTAL. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE RECOLHIMENTO DE MULTA PROCESSUAL. CONDIÇÃO OBJETIVA DE PROCEDIBILIDADE. 1. É inadmissível o recurso interposto sem o recolhimento da multa processual anteriormente aplicada, uma vez que seu recolhimento é condição objetiva de procedibilidade para interposição de novos recursos, nos termos do art. 538, parágrafo único, do CPC. 2. Agravo regimental a que se nega provimento” (ARE 901.450-ED, de minha relatoria, Primeira Turma, DJe 10.12.2015).
+    “AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MULTA DO ART. 557, § 2º, DO CPC. RECOLHIMENTO. CARÁTER SANCIONATÓRIO. PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE PARA NOVOS RECURSOS. PRECEDENTES. PARTE BENEFICIADA COM ISENÇÃO DE CUSTAS PROCESSUAIS. NATUREZA E FINALIDADE DIVERSAS. EXIGIBILIDADE. Por ostentar caráter sancionatório e inibitório do uso abusivo e inadequado dos meios processuais, o recolhimento oportuno da multa do art. 557, § 2º, do CPC, longe de se confundir com as custas processuais, constitui pressuposto objetivo de admissibilidade de novos recursos, ainda que interpostos com o objetivo de discutir a sua imposição. Precedentes. A isenção do pagamento das custas não alcança a penalidade imposta, forte no art. 557, § 2º, do CPC, ao agravo manifestamente protelatório. Agravo regimental conhecido e não provido” (AI 541.146-AgR-ED-EDv-AgR, Rel. Min. Rosa Weber, Plenário, DJe 28.11.2014).
+    Ante o exposto, não conheço do recurso, nos termos do artigo 21, § 1º do RISTF.
+    Publique-se.
+    Brasília, 23 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
