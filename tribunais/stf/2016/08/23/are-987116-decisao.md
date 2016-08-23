@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MUNICÍPIO DE ARACI/BA. CONCURSO PÚBLICO. NOMEAÇÃO E POSSE. ANULAÇÃO DE ATOS ADMINISTRATIVOS. DECRETO MUNICIPAL 170/2013. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. SUSPENSÃO DA NOMEAÇÃO E POSSE DO IMPETRANTE POR ATO DO PREFEITO MUNICIPAL DE ARACI (DECRETO MUNICIPAL Nº 170/2013), AO FUNDAMENTO DE QUE A REFERIDA NOMEAÇÃO RESULTOU EM AUMENTO DE DESPESA. ILEGALIDADE. VIOLAÇÃO AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. TERMO DE AJUSTAMENTO DE CONDUTA FIRMADO ENTRE O MUNICÍPIO DE ARACI E O MINISTÉRIO PÚBLICO ESTADUAL, EM QUE RESTOU RECONHECIDA A ILEGALIDADE DO DECRETO MUNICIPAL Nº 170/2013. SEGURANÇA CONCEDIDA. APELAÇÃO IMPROVIDA. SENTENÇA PARCIALMENTE REFORMADA, EM REEXAME NECESSÁRIO, APENAS PARA EXCLUIR DA CONDENAÇÃO DO MUNICÍPIO O PAGAMENTO DE CUSTAS E DESPESAS PROCESSUAIS.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XXXV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que se trataria, na espécie, de matéria infraconstitucional, configurando ofensa reflexa à Constituição da República.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da CF).
+    Da análise dos autos é possível observar que a parte se valeu dos meios recursais cabíveis e teve a jurisdição devidamente prestada por decisões fundamentadas, embora contrária aos seus interesses. Assim, não resta caracterizada a negativa de prestação jurisdicional. Nesse sentido, ARE 740.877-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 4/6/2013, o qual possui a seguinte ementa:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. 3. Alegação de ausência de prestação jurisdicional. Decisão fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. Precedente: AI-QO-RG 791.292 de minha relatoria, DJe 13.8.2010. 4. Afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, se dependente do reexame prévio de normas infraconstitucionais, configura ofensa reflexa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. 5. Alegação de ofensa ao princípio da legalidade. Enunciado 636 da Súmula desta Corte. 6. Ausência de argumentos suficientes para infirmar a decisão recorrida. 7. Agravo regimental a que se nega provimento.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 23 de agosto de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
