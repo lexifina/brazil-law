@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO - INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Eis os fundamentos da decisão recorrida:
+    RELAÇÃO DE CONSUMO - PRESTAÇÃO DE SERVIÇOS DE TELEFONIA - REVELIA - NÃO COMPARECIMENTO DO PREPOSTO DA RECORRENTE NA AUDIÊNCIA DE CONCILIAÇÃO - ART. 20 DA LEI N. 9.099/95 - PRESUNÇÃO DE VERACIDADE DOS FATOS ALEGADOS PELO AUTOR - MATÉRIA FÁTICA ATINGIDA PELA PRECLUSÃO - SENTENÇA MANTIDA - FALHA NA PRESTAÇÃO DE SERVIÇO - COBRANÇA INDEVIDA DE DÉBITO - DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO - INSCRIÇÃO INDEVIDA DO NOME DO AUTOR NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO - DANO IN RE IPSA - DANOS MORAIS CONFIGURADOS - VALOR ARBITRADO DA INDENIZAÇÃO EM PATAMAR RAZOÁVEL E PROPORCIONAL COM O PREJUÍZO SUPORTADO (R$ 6.000,00) SERVINDO, TAMBÉM, PARA EVITAR A REPETIÇÃO DE ATOS IDÊNTICOS, CONFERINDO EFEITO PEDAGÓGICO - SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS - RECURSO IMPROVIDO.
+    No recurso extraordinário cujo processamento busca alcançar, a recorrente aponta violados os artigos 5º, incisos II e LIV, e 37 da Constituição Federal. Afirma indevida a indenização e desproporcional o valor arbitrado.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença, expressamente mantida pela decisão recorrida, o seguinte trecho:
+    De qualquer forma, na defesa apresentada a ré não esclareceu porque manteve a negativação ativa durante mais de seis meses após o pagamento do débito pendente (cf. Fls. 18, 19 e 30/32), mesmo após ser comunicada sobre o fato.
+    Diante desse quadro, há que se acolher o pleito de declaração de inexigibilidade do débito impugnado, pois já quitado.
+    Por fim, também reputo configurado o dano moral indenizável, que em casos de manutenção de negativação indevida (após a quitação do débito) está in re ipsa e independe de comprovação, bastando para tanto os extratos de fls 19 e 30/32, comprovando a manutenção da inscrição em órgãos de proteção ao crédito.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se guindar a esta Corte matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de processo da competência da Corte.
+    De resto, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    Por fim, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia da agravada em apresentar contraminuta ao agravo.
+    4. Publiquem.
+Brasília, 23 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
