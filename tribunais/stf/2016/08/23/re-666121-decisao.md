@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “TRIBUTÁRIO E PREVIDENCIÁRIO. EMBARGOS INFRINGENTES. CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDORES DO DISTRITO FEDERAL. MEDIDA PROVISÓRIA Nº 560/94. LEI DISTRITAL 260/92. INAPLICABILIDADE.
+    1. As contribuições previdenciárias têm natureza tributária e devem, necessariamente, obedecer aos princípios da reserva legal e da anterioridade contidos nos arts. 150, I, e 195, §6º, da Constituição Federal.
+    2. Expirado o prazo de vigência da Lei nº 8.688/93, que teve caráter transitório (30.06.94), foram restaurados os Decretos 83.081/79 e 90.817/85, voltando a ter eficácia a alíquota de 6% (seis por cento), que não poderia validamente ser elevada para 11% (onze por cento) pela MP 560/94, sob pena de violação aos arts. 150, I, e 195, §4º, todos da Constituição Federal.
+    3. Recurso não provido. (Relator Desembargador CRUZ MACEDO, DJ-e de 3/2/2011)
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 62, parágrafo único; 84, XXVI; 150, I; e 195, §§ 4º e 6º, todos da Carta. Sustenta, em síntese, que o acórdão recorrido contrariou a jurisprudência consolidada desta Suprema Corte acerca da aplicabilidade da Medida Provisória nº 560/1994. Aduz ser legítima a exigência de contribuição previdenciária por meio da Medida Provisória nº 560/1994.
+    Tenho que o recurso merece provimento. Esta Corte fixou entendimento no sentido da constitucionalidade da Medida Provisória nº 560/1994 e suas reedições, devendo ser respeitada a anterioridade nonagesimal prevista no art. 195, §6º, da Constituição Federal, contada a partir da edição da referida medida provisória. No mesmo sentido, confiram-se os seguintes precedentes:
+    “Servidores públicos do Distrito Federal: legitimidade da majoração da contribuição previdenciária determinada pela Mpr 560/94 e suas reedições, observado o princípio da anterioridade nonagesimal, contado o prazo a partir da edição da referida medida provisória. Precedentes”. (AI nº 445.678-AgR, Rel. Min. Sepúlveda Pertence)
+     “Agravo regimental no recurso extraordinário. Contribuição previdenciária. Anterioridade nonagesimal. MP nº 560/94. Aplicabilidade ao DF. Precedentes. 1. Esta Corte consolidou entendimento no sentido de considerar constitucional a Medida Provisória nº560/94 e suas reedições, observando-se o prazo nonagesimal previsto no art. 195, § 6º, da Constituição Federal, concluindo-se, portanto, pela aplicabilidade da referida norma aos servidores do Distrito Federal. 2. Agravo regimental não provido”. (RE nº 367.001-AgR, Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 21, §2º, do RI/STF, dou provimento ao recurso extraordinário. Custas e ônus sucumbenciais pela parte recorrida. Fixo os honorários advocatícios em 10% (dez por cento) do valor da causa.
+    Publique-se.
+          Brasília, 23 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
