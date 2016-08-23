@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo de instrumento da decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5º, incisos XXI, XXXV, LIV e LV, e 93, inciso IX, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão recorrido da Segunda Turma do Tribunal Federal da 1ª Região, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL. DECISÃO RECORRIDA AMPARADA EM MAIS DE UM FUNDAMENTO, NÃO ATACANDO O ARRAZOADO RECURSAL TODOS ELES.
+    1. Enquanto a decisão agravada negou seguimento ao recurso de instrumento por considerá-lo inadmissível e intempestivo, diante dos fatos de que pleitos de reconsideração e similares não suspendem nem interrompem a fluência do prazo recursal, e porque sequer se ampara nos elementos constantes nos autos a alegação de que é a entidade associativa quem figura no polo ativo da execução, o arrazoado recursal de regimento se limita a sustentar que a questão relativa à legitimação das partes substancia matéria de ordem pública, insuscetível de gerar preclusão, não se tratando de pedido de reconsideração, porque de nada cuidara a anterior deliberação do juízo.
+    2. Atacou, pois, a recorrente de regimento tão só o argumento relativo à preclusão, sem sequer aludir ao concernente a não se amparar a afirmação de que proposta a execução pelo ente associativo nos elementos constantes nos autos, circunstância que faz incidir, no caso, o princípio extraído do enunciado da súmula 283 da jurisprudência dominante na Suprema Corte, segundo o qual não é admissível recurso quando a decisão recorrida se assenta em mais de um fundamento suficiente, e o arrazoado recursal não abrange todos eles.
+    3. Agravo regimental não conhecido.”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    A irresignação não merece prosperar.
+    O acórdão recorrido não conheceu do agravo da ora recorrente sob o fundamento de que “não é admissível recurso quando a decisão recorrida se assenta em mais de um fundamento suficiente, e o arrazoado recursal não abrange todos eles”. No entanto, o recorrente limitou-se a alegar, nas razões do apelo extremo a suposta violação ao artigo 5º, inciso XXI, da Constituição Federal (“legitimidade das associações para representar seus filiados”), o que atrai a incidência da súmula nº 284 desta Suprema Corte, que assim dispõe:
+    “É INADMISSÍVEL O RECURSO EXTRAORDINÁRIO, QUANDO A DEFICIÊNCIA NA SUA FUNDAMENTAÇÃO NÃO PERMITIR A EXATA COMPREENSÃO DA CONTROVÉRSIA”.
+    Nesse sentido, destaco os seguintes precedentes:
+    “ PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279/STF. ANÁLISE DE CLÁUSULA DE ACORDO COLETIVO DE TRABALHO. IMPOSSIBILIDADE. SÚMULA 454/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE nº 777..48/DF-ED, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 17/3/14).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. 1) RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DOS FUNDAMENTOS DO JULGADO RECORRIDO: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2) CONTRARIEDADE AO PRINCÍPIO DA ISONOMIA: IMPOSSIBILIDADE DE INOVAÇÃO DE ARGUMENTOS EM AGRAVO REGIMENTAL. PRECEDENTES. 3) AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 667.051/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 16/5/12).
+    Registre-se, por fim, que não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ante o exposto, afasto o sobrestamento anteriormente determinado e, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 23 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
