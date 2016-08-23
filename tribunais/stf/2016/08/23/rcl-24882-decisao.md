@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de reclamação, com pedido liminar, contra decisão da 13ª Vara Federal de Porto Alegre/RS, que indeferiu o saque de RPV relativa a honorários contratuais (autos nº 5064391-47.2012.4.04.7100/RS).
+    A parte requerente alega afronta à Súmula Vinculante 47 (“Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza”). Defende que o Supremo Tribunal Federal resguarda o direito à execução apartada tanto dos honorários de sucumbência, quanto os contratuais, por constituírem crédito autônomo de natureza alimentar.
+    É o relatório. Decido.
+    Dispenso as informações, devido à suficiente instrução do feito, bem como a manifestação da Procuradoria-Geral da República (RI/STF, art. 52, parágrafo único). Deixo de determinar a citação do beneficiário do ato reclamado, em razão da manifesta inviabilidade do pedido.
+    A Súmula Vinculante 47 foi editada após reiterados julgamentos desta Corte no sentido da viabilidade do fracionamento de execução contra a Fazenda Pública, para satisfação autônoma dos honorários do advogado. A jurisprudência sobre a matéria encontra-se fundada em duas das características da verba honorária: (i) a autonomia do crédito em relação àquele devido à parte patrocinada, por pertencer a um outro titular; e (ii) a natureza alimentar da parcela. Confiram-se, a propósito, as ementas de dois precedentes que deram origem à Súmula: RE 564.132 RG, Rel. p/ acórdão Min. Cármen Lúcia; RE 415.950-AgR, Rel. Min. Ayres Brito. No mesmo sentido: RE 502.656-AgR, Rel. Min. Marco Aurélio; AI 732.358, Rel. Min. Ricardo Lewandowski.
+    No presente caso, porém, o saque da RPV relativa aos honorários contratuais foi indeferido em razão da extemporaneidade do pedido. Confira-se a decisão reclamada:
+    “Intimado dos requisitórios expedidos, o procurador da parte exequente manifesta-se requerendo a retificação das requisições ao efeito de que os honorários contratuais e de sucumbência sejam expedidos em favor de LUCCA & LUCCA ADVOGADOS ASSOCIADOS (evento 59-pet1).
+    O pedido de destaque de honorários contratuais é intempestivo, vez que postulado após a expedição dos requisitórios (RPV n. 160072125), contrariando o disposto no artigo 22 da Resolução nº 168/2011, do CJF, nestes termos:
+    ‘Art. 22. Caso o advogado pretenda destacar do montante da condenação o que lhe couber por força de honorários contratuais, na forma disciplinada pelo artigo 22, § 4º, da Lei n. 8.906, de 4 de julho de 1994, deverá juntar aos autos o respectivo contrato antes da elaboração do requisitório.’ (grifei)
+    Saliento que, embora tenha sido juntada procuração contendo cláusula que prevê destaque de verba contratual (evento 24-proc3), não houve o requerimento do destaque dessa verba.
+    Ante o exposto, indefiro o pedido de destaque.
+    Indefiro ainda o pagamento de honorários sucumbenciais à sociedade de advogados, visto que a mesma não consta na procuração juntada no feito originário(evento2-procauto4), nem restou comprovado o requisito previsto no art. 85, §15 do CPC 2015, tampouco foi apresentada cessão de crédito pelos advogados mandatários. Intimem-se.
+    Após, nada mais requerido, retornem-me os autos a fim de que seja perfectibilizada a transmissão eletrônica da requisição de pagamento, nos termos do artigo 2º da Resolução nº 81, de 19 de outubro de 2010, da Presidência do Egrégio Tribunal Regional Federal da 4ª Região” (doc. 5 - destaques acrescentados).
+    Como se vê, não houve afirmação da impossibilidade de destacamento da verba do montante principal devido ao credor, mas a perda do prazo para a realização do respectiva requisição.
+    Isso implica dizer não haver aderência estrita entre o ato reclamado e a súmula vinculante invocada, o que impede o conhecimento do pedido. Nessa linha: Rcl 6.040 ED, Rel. Min. Teori Zavascki; Rcl 11.246 AgR, Rel. Min. Dias Toffoli; Rcl 15.578 AgR, Rel. Min. Celso de Mello. Observe-se que, com isso, não se afirma o acerto do ato reclamado, mas que este não pode ser revisto pela via da reclamação.
+    Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    Sem honorários, porquanto não citada a parte contrária.
+    Publique-se.
+          Brasília, 23 de agosto de 2016.
+Ministro LUÍS ROBERTO BARROSO
+Relator
