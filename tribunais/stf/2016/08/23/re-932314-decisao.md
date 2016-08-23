@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. CONSELHOS REGIONAIS DE CLASSE. TAXA ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA - ART. NATUREZA TRIBUTÁRIA. LIMITES IMPOSTOS PELAS LEIS Nº 6.994/82 E 12.514/11.
+    Considerando que as taxas relativas à ART, assim como as anuidades, possuem natureza tributária, e tendo em vista a orientação jurisprudencial que se formou em relação àquelas, tem-se como válida sua exigência, no período compreendido entre a promulgação da Lei nº 9.649/98 e a vigência da Lei nº 12.514/11, nos limites impostos pela lei nº 6.994/82”
+    Tendo em vista o retorno dos autos para o cumprimento do art. 543-B do CPC, considerando o decidido no Tema nº 692, inserido na sistemática da repercussão geral, fora proferido novo acórdão assim ementado:
+    “TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO REPETITIVO. ART. 543-B, §3º, DO CPC. JUÍZO DE RETRATAÇÃO. CONSELHOS PROFISSIONAIS. TAXA DE ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA - ART. PRINCÍPIO DA LEGALIDADE. JULGAMENTO MANTIDO.
+    1. No tocante à taxa de anotação de responsabilidade técnica - ART, o entendimento adotado por esta Turma não contraria o que decidido pelo STF no Tema 692 da repercussão geral (ARE 895.954/PR), porquanto restou mantida a submissão da taxa ao princípio da legalidade tributária - de modo que não há falar em contrariedade à decisão proferida em sede de recurso repetitivo pela Suprema Corte, a ensejar o juízo de retratação.
+    2. Julgamento mantido.”
+    O acórdão acima ementado manteve os exatos termos do primeiro acórdão substituído, realizou-se novo juízo de admissibilidade do recurso extraordinário (evento nº 59). Passo ao exame da matéria.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, I, da Constituição. O recorrente sustenta a constitucionalidade das normas inscritas nas Leis nºs 6.496/1977, 6.994/82, 12.514/2011, sendo esta última fundamento para a cobrança da taxa de Anotação de Responsabilidade Técnica - ART em período anterior a 29/01/2012. Requer, ainda, a declaração da modulação dos efeitos de decisão que venha a declarar a inconstitucionalidade do art. 2º, da Lei nº 11.000/2004. Aduz, por fim, a aplicação da teoria da norma ainda constitucional e a correção monetária do tributo por ato infralegal, conforme valores consignados na Lei nº 6.994/82.
+    Quanto a parcela do pedido relativa à legalidade da cobrança da taxa de Anotação de Responsabilidade Técnica – ART após a vigência da Lei nº. 12.514/2011, bem como ao pedido de estabelecimento de limite máximo para a cobrança, o Plenário do Supremo Tribunal Federal, nos autos do RE nº 838.284-RG, de relatoria do Ministro Dias Toffoli, reconheceu a repercussão geral da controvérsia. A matéria discutida é relativa à validade da exigência da taxa para expedição da Anotação de responsabilidade técnica (ART) baseada na Lei nº 6.994/1982, que estabeleceu limites máximos para a ART (Tema 829), discussão que também repercutirá na constitucionalidade da Lei nº. 12.514/2011.
+     Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, mantenho a matéria sub judice, e determino o retorno dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.
+    Publique-se.
+    Brasília, 23 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
