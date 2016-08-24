@@ -1,0 +1,22 @@
+DECISÃO
+PENA DE MULTA – CONVERSÃO – PRIVATIVA DE LIBERDADE – INADMISSIBILIDADE.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – AUSÊNCIA DE PREJUÍZO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal de Itajaí/SC, no processo nº 0003415-63.2011.8.24.0033, condenou a paciente ao pagamento de multa equivalente a um salário mínimo, à época, R$ 724,00, por infração ao disposto no artigo 155, § 2º (furto privilegiado), do Código Penal. A sentença alcançou a preclusão máxima em 15 de novembro de 2014.
+    O Ministério Público protocolou incidente de conversão da pena restritiva de direitos em privativa de liberdade, em virtude do descumprimento da sanção imposta, aludindo ao artigo 44, § 4º, do Código Penal. O Juízo da Vara de Execuções Penais, em 11 de novembro de 2015, no processo nº 0147742-96.2014.8.24.0033, substituiu a reprimenda por privativa de liberdade, a ser cumprida no regime aberto. Estabeleceu condições gerais e específicas para a apenada.
+    Impetrou-se habeas corpus no Tribunal de Justiça, argumentando-se que a decisão do Juízo de Execução surgiria ilegal, tendo em vista que a conversão em pena privativa de liberdade é medida cabível apenas no tocante a reprimendas substituídas, e não quanto às multas previstas no tipo penal. O Tribunal negou seguimento ao habeas por entender não ser o meio processual adequado.
+    No Superior Tribunal de Justiça, formalizou-se o habeas corpus nº 351.790/SC, repetindo-se os argumentos atinentes à ilegalidade do pronunciamento do Juízo de Execuções relativamente à reconversão. Requereu-se a concessão de liberdade. O Relator indeferiu a liminar em 14 de março de 2016.
+    Neste habeas, a impetrante sustenta tratar-se de situação a autorizar a superação do óbice previsto no verbete nº 691 da Súmula do Supremo. Reitera as alegações de que o ato do Juízo de Execuções Penais é ilegal, uma vez que a conversão da multa em pena privativa de liberdade mostra-se adequada somente para sanções substituídas. Diz que, no caso da paciente, não houve pena privativa de liberdade, sendo a multa a única reprimenda aplicada.
+    Requer, em âmbito liminar, o deferimento da ordem para determinar-se a soltura da paciente, em razão da ausência de cominação de pena privativa de liberdade. Sucessivamente, busca seja definido o tempo que a paciente deve ficar recolhida.
+    Certidão da Vara de Execuções Penais de Itajaí/SC, datada de 29 de julho de 2016, veicula realização de audiência admonitória em 25 de novembro de 2015, com início do cumprimento da sanção, em regime aberto. Noticia término previsto para 25 de novembro de 2017.
+    2. A análise da sentença condenatória revela haver sido a paciente condenada exclusivamente ao pagamento de multa equivalente a um salário mínimo, nos termos do artigo 155, § 2º, parte final, do Código Penal. A preclusão maior da decisão ocorreu em 15 de novembro de 2014. No dia 11 de novembro do ano seguinte, no processo nº 0147742-96.2014.8.24.0033, o Juízo da Execução, referindo-se à pena restritiva de direitos, determinou a conversão em privativa de liberdade, expedindo mandado de prisão.
+    Observem a organicidade do Direito. Consoante o artigo 51 do Código Penal, transitada em julgado a sentença condenatória, a multa será considerada dívida de valor, aplicando-se-lhe as normas relativas à dívida ativa da Fazenda Pública.
+    A Lei nº 9.268, de 1º de abril de 1996, alterou a redação do artigo 51 e parágrafos do diploma de regência, não subsistindo a possibilidade de conversão da pena de multa em privativa de liberdade. Situação diversa concerne à reprimenda de prestação pecuniária, inserida entre as modalidades de pena restritiva de direitos, passível de conversão em caso de descumprimento.
+    3. Defiro a liminar para suspender, até o julgamento final desta impetração, a execução da pena privativa de liberdade imposta à paciente no processo nº 0147742-96.2014.8.24.0033, da Vara de Execuções Penais da Comarca de Itajaí/SC.
+    4. O curso deste habeas corpus não prejudica o de nº 351.790/SC, formalizado no Superior Tribunal de Justiça. Remetam cópia desta decisão ao relator, ministro Sebastião Reis Júnior, com as homenagens merecidas.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 24 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
