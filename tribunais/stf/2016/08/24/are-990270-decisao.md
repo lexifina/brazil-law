@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “SERVIDOR PÚBLICO ESTADUAL. REENQUADRAMENTO. NOVO PLANO DE CARGOS, VENCIMENTOS E SALÁRIOS. Alegação de rebaixamento da situação funcional. Inteligência da Lei Complementar nº 1.080/2008. Inexistência de violação da estabilidade e irredutibilidade dos vencimentos dos servidores. A modificação da nomenclatura e reestruturação do cargo são atividades possíveis de serem realizadas no âmbito administrativo porque relacionadas à necessidade do serviço e conveniência da Administração. Inocorrência de ofensa ao direito e garantias constitucionais”. (eDOC 4, p. 87)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 1º, III, IV; e 5º, XXXVI; do texto constitucional.
+    Nas razões recursais, alega-se que a lei não poderia ter atingido o direito adquirido dos recorrentes. Aduz-se, ainda, o desrespeito aos princípios da dignidade da pessoa humana e do valor social do trabalho.
+    Decido.
+    O recurso não merece prosperar.
+    A jurisprudência desta Corte se firmou no sentido de que servidor público não tem direito adquirido a regime jurídico. Desse modo, inexiste violação do direito adquirido à inalterabilidade do regime jurídico pertinente à composição dos vencimentos e à reestruturação da carreira, desde que eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração e, em consequência, não viole a irredutibilidade salarial.
+    Nesse sentido, confiram-se os seguintes precedentes de ambas as turmas desta Corte, assim ementados:
+     “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REESTRUTURAÇÃO DE CARREIRA. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. RE 606.199-RG. AGRAVO REGIMENTAL DESPROVIDO”. (ARE-ED 667.780, Min. Rel. Luiz Fux, Primeira Turma, DJe 19.5.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO INATIVO. REESTRUTURAÇÃO DA CARREIRA. IRREDUTIBILIDADE MANTIDA. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE-AgR 927.796, Rel.Min. Cármen Lúcia, Segunda Turma, DJe 1º.2.2016)
+    Ademais, o Tribunal de origem, com base nas provas dos autos, consignou a não ocorrência de decréscimo no valor da remuneração, não havendo, portanto, afronta ao direito à irredutibilidade de vencimentos. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Acontece que, no caso dos autos, a tese manejada pelos autores ora apelantes não anuncia a ocorrência de dilapidação do valor da remuneração, mas revela apenas a instituição de regime que cria dificuldade maior para acesso a salários mais altos. Certamente, não se trata de situação que qualifica ofensa ao direito à irredutibilidade dos vencimentos”. (eDOC 4, p. 90)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Cito, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. REENQUADRAMENTO FUNCIONAL. PRÉVIA ANÁLISE DA LEI COMPLEMENTAR ESTADUAL N. 1.080/2008. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. DECESSO REMUNERATÓRIO ALEGADO E NÃO COMPROVADO. REEXAME DE PROVAS: IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE-AgR 947.950, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 28.4.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REESTRUTURAÇÃO DE CARREIRA. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. RE 606.199-RG. REENQUADRAMENTO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS Nº 279 E Nº 280 DO STF. AGRAVO REGIMENTAL DESPROVIDO”. (ARE-AgR 879.431, Rel. Min. Luiz Fux, Primeira Turma, DJe 15.6.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 24 agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
