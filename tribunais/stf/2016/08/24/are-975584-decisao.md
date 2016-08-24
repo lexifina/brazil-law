@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Apelação – Ação de indenização – Acidente do trabalho – Direito comum.
+    Provados o dano, o nexo de causalidade entre o dano e o acidente de trabalho também provado, é que surge presumida a culpa da empregadora, que tem o dever de dar aos seus trabalhadores condições de trabalho acordantes com a preservação de sua integridade física e mental – O empregador tem o ônus de evidenciar que todas as medidas necessárias ao bom funcionamento das atividades operacionais de sua empresa foram adequadamente adotadas.
+    Apelação provida”. (eDOC 6, p. 83)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea a, da Constituição Federal, aponta-se violação ao artigo 5º, V e X, do texto constitucional.
+    Nas razões recursais, alega-se afronta ao princípio da segurança jurídica, uma vez que não foi comprovada a responsabilidade da recorrente no dano causado ao empregado.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Consolidação das Leis do Trabalho) e o conjunto probatório constante dos autos, consignou ser responsabilidade do empregador o acidente sofrido pela parte recorrida. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No caso sob exame, é no mínimo surpreendente que um empregado fosse designado para realizar a manutenção de equipamento que, mesmo com defeito, ainda estaria energizado; e sem nenhuma supervisão do responsável pela segurança do ambiente de trabalho, conforme ao depoimento prestado pelo supervisor de segurança da ré, Sr. Jesiel Abdalla, nos autos do inquérito policial instaurado para apurar as causas do acidente, no qual afirma que ‘no dia e hora dos fatos, o declarante se encontrava em sua residência, quando foi avisado via fone, que havia ocorrido um acidente com um funcionário’ (fl. 197). Incumbe ao patrão adotar as medidas necessárias à segurança do trabalho (art. 157, da CLT). Além disso, extrai-se do laudo elaborado pelo Instituto de Criminalística do Departamento Estadual de Polícia Científica do Estado de São Paulo que, no local do acidente, apesar da existência de ‘todos os equipamentos e meios de segurança ao trabalhador’, o acidente ocorreu porque a empregadora não teria desligado ‘a energia elétrica ali existente para ser feito (sic) os serviços necessários no motor da ponte rolante (manter condição insegura, ou seja, possibilidade de choque elétrico por contato)’ (fl. 228)”. (eDOC 6, p. 85)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. ACIDENTE DE TRABALHO. INDENIZAÇÃO POR DANOS MORAIS. VERIFICAÇÃO DA OCORRÊNCIA DO NEXO DE CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. OMISSÃO. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.” (ARE 902498-AgR-ED, Rel. Min. Luiz Fux, Primeira Turma, DJe 4.3.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRABALHISTA. ALEGADA CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO NÃO CONFIGURADA. ACIDENTE DE TRABALHO. RESPONSABILIDADE DO EMPREGADOR. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 794744 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 3.4.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
