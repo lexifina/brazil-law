@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO – MANDADO DE SEGURANÇA – APOSENTADORIA ESPECIAL – INVESTIGADOR DE POLÍCIA – ATIVIDADE DE RISCO – APLICABILIDADE DA LEI COMPLEMENTAR N.° 51/85 – PROVENTOS INTEGRAIS – PROCEDÊNCIA DO PEDIDO.
+    O policial civil que preencher os requisitos perfilados na Lei Complementar n.° 51/85 tem direito à aposentadoria especial com proventos integrais, tendo em vista esta norma recepcionada pela atual Constituição da República Federativa.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, §§ 3º e 4º, da Constituição.
+    A Procuradoria-Geral da República, por meio de parecer, opina pelo desprovimento do recurso extraordinário.
+    O recurso não merece ser provido, tendo em vista que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal, que assentou ter sido recepcionada a Lei Complementar nº 51/1985 pela Constituição da República. Veja-se a ementa da ADI 3.817, julgada sob relatoria da Ministra Cármen Lúcia:
+     “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 3º DA LEI DISTRITAL N. 3.556/2005. SERVIDORES DAS CARREIRAS POLICIAIS CIVIS CEDIDOS À ADMINISTRAÇÃO PÚBLICA DIRETA E INDIRETA DA UNIÃO E DO DISTRITO FEDERAL: TEMPO DE SERVIÇO CONSIDERADO PELA NORMA QUESTIONADA COMO DE EFETIVO EXERCÍCIO DE ATIVIDADE POLICIAL. AMPLIAÇÃO DO BENEFÍCIO DE APOSENTADORIA ESPECIAL DOS POLICIAIS CIVIS ESTABELECIDO NO ARTIGO 1º DA LEI COMPLEMENTAR FEDERAL Nº 51, DE 20.12.1985. AÇÃO JULGADA PROCEDENTE.
+    1. Inexistência de afronta ao art. art. 40, § 4º, da Constituição da República, por restringir-se a exigência constitucional de lei complementar à matéria relativa à aposentadoria especial do servidor público, o que não foi tratado no dispositivo impugnado.
+    2. Inconstitucionalidade formal por desobediência ao art. 21, inc. XIV, da Constituição da República que outorga competência privativa à União legislar sobre regime jurídico de policiais civis do Distrito Federal.
+    3. O art. 1º da Lei Complementar Federal n. 51/1985 que dispõe que o policial será aposentado voluntariamente, com proventos integrais, após 30 (trinta) anos de serviço, desde que conte pelo menos 20 anos de exercício em cargo de natureza estritamente policial foi recepcionado pela Constituição da República de 1988. A combinação desse dispositivo com o art. 3º da Lei Distrital n. 3.556/2005 autoriza a contagem do período de vinte anos previsto na Lei Complementar n. 51/1985 sem que o servidor público tenha, necessariamente, exercido atividades de natureza estritamente policial, expondo sua integridade física a risco, pressuposto para o reconhecimento da aposentadoria especial do art. 40, § 4º, da Constituição da República: inconstitucionalidade configurada.
+    4. Ação direta de inconstitucionalidade julgada procedente.”
+    Ademais, verifica-se que o acórdão impugnado afirmou, após análise dos dados funcionais do recorrente, que foram preenchidos todos os requisitos para concessão da aposentadoria especial com a garantia da integralidade. Dissentir dessa conclusão exigiria o reexame dos fatos e do material probatório constante dos autos, hipótese que atrai a incidência da Súmula 279/STF. Nessa linha, confira-se a ementa do RE 775.155-AgR, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. RECEPÇÃO DA LEI COMPLEMENTAR N. 51/1985. REQUISITOS. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
