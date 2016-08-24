@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    O Estado de Santa Catarina interpõe agravo contra a decisão que não admitiu recurso extraordinário, assentado em contrariedade aos artigos 5º, inciso LV, e 37, inciso X, ambos da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pelo Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL. RECURSO ESPECIAL. DIREITO PENAL. DEFENSOR DATIVO. DESIGNAÇÃO PARA PATROCÍNIO DE CAUSA DE JURIDICAMENTE NECESSITADO. INEXISTÊNCIA DE DEFENSORIA PÚBLICA NO LOCAL DA PRESTAÇÃO DE SERVIÇOS. HONORÁRIOS FIXADOS NOS TERMOS DA LEI N. 8.906/1994. ESTATUTO DA ADVOCACIA E DA ORDEM DOS ADVOGADOS DO BRASIL. MATÉRIA CONSTITUCIONAL. STF.
+    1. Consoante entendimento deste Superior Tribunal, o defensor dativo tem direito aos honorários advocatícios fixados pelo magistrado e pagos pelo Estado de acordo com os valores mínimos estabelecidos na tabela da Ordem dos Advogados do Brasil da respectiva Seção.
+    2. A violação de preceitos, dispositivos ou princípios constitucionais revela-se quaestio afeta à competência do Supremo Tribunal Federal, provocado pela via do extraordinário; motivo pelo qual não se pode conhecer do recurso nesse aspecto, em função do disposto no art. 105, III, da Constituição Federal.
+    3. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+    4. Agravo regimental improvido.” (fl. 278 e-STJ)
+    Opostos embargos de declaração, foram rejeitados.
+    Em suas alegações, o agravante sustenta que a tabela de honorários advocatícios instituída pelo Conselho Seccional da OAB não deveria ter caráter vinculante e taxativo na fixação da verba honorária dos defensores dativos, que deve ser definida nos termos do acórdão do Tribunal local. Afirma, ainda, a existência de desproporcionalidade entre os valores de honorários tabelados pelo Conselho Seccional da OAB em Santa Catarina e os valores praticadas pelas seccionais de outros Estados.
+    Examinados os autos, decido.
+    A irresignação não merece prosperar.
+    Forçoso concluir que o Tribunal a quo, ao decidir a questão, ateve-se ao exame da legislação infraconstitucional. Portanto, a violação à Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Ressalte-se que a jurisprudência desta Suprema Corte é assente no sentido de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, não configura ofensa direta e frontal à Constituição da República.
+    Nesse sentido: AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 27/6/08; AI nº 651.927/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 30/5/08; AI nº 649.191/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/6/07; AI nº 622.527/AP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 18/5/07; AI nº 562.809/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 18/5/07; e AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/5/07, entre outros.
+    Ademais, verifica-se que o acolhimento da pretensão recursal e a reforma do que decidido pela Corte de origem demandaria o reexame da legislação infraconstitucional aplicada à especie (Lei nº 8.906/94), cujo reexame foge do campo do recurso extraordinário. Sobre o tema:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. HONORÁRIOS ADVOCATÍCIOS. MATÉRIA A SER DIRIMIDA PELO JUÍZO DA EXECUÇÃO. NATUREZA INFRACONSTITUCIONAL DA CONTROVÉRSIA. Não há repercussão constitucional na controvérsia relativa ao valor dos honorários advocatícios arbitrados pelo Tribunal de origem. De fato, trata-se de matéria a ser dirimida pelo juízo de execução, visto que pressupõe o exame de normas processuais. Agravo regimental a que se nega provimento.” (AI nº 487.302/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 3/2/15).
+    “RECURSO EXTRAORDINÁRIO. OFENSA REFLEXA À CF/88. INADMISSIBILIDADE. 1. O acórdão de origem, a partir da interpretação da Lei 8.906/94, manteve sentença de procedência, determinando ao agravante o pagamento de honorários advocatícios ao agravado pelo exercício como defensor dativo. 2. É inadmissível o recurso extraordinário no qual, a pretexto de ofensa a dispositivos constitucionais, pretende-se a exegese de legislação ordinária. Ofensa à Constituição meramente reflexa ou indireta, de exame inviável nesta sede recursal. 3. Agravo regimental improvido.” (ARE nº 425.277/MA-AgR, Segunda Turma, Relator a Ministra Ellen Gracie, DJ de 24/6/05).
+    Anote-se, no mesmo sentido, as seguintes decisões monocráticas: RE nº 786.930/ES, Relator o Ministro Gilmar Mendes, DJe de 10/3/14; RE nº 593.960/ES, Relator o Ministro Ricardo Lewandowski, DJe de 10/8/10; e RE nº 786.931/ES, Relator o Ministro Luiz Fux, DJe de 2/10/14.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
