@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – FALTA DE PREQUESTIONAMENTO – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 5ª Região reformou o entendimento do Juízo, julgando improcedente o pedido de concessão de bolsa de estudos para curso de doutorado. Nas razões do extraordinário, o recorrente alega a violação dos artigos 1°, inciso IV, 5°, cabeça, 6°, 205 e 208, inciso V, da Constituição Federal. Diz contrariado o princípio da isonomia. Tece considerações sobre a exceção dada por portaria à regulação normativa dos programas de Pós Graduação.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão impugnada o seguinte trecho:
+    Compulsando os autos, extrai-se que a regulação normativa dada aos programas de Pós-Graduação stricto sensu pela Portaria nº 76, de 14.04.2010, é feita no sentido de se estabelecer uma regra geral que veda a concessão de bolsas de estudos ao aluno que exerça atividade profissional de forma cumulada ao curso de Doutorado/Mestrado. Privilegia-se, com isso, a subsistência daquele que se dedica exclusivamente à pesquisa e não tem como prover o próprio sustento por não possuir tempo hábil à prestação de atividade profissional.
+    Ocorre que a Portaria Conjunta nº 01/2010 deu azo a uma exceção à regra geral, posto que seu art. 1º prevê ser possível uma complementação financeira proveniente de outras fontes para a renda do pós-graduando, desde que haja dedicação a atividades relacionadas à sua área de atuação e de interesse para sua formação acadêmica, científica e tecnológica.
+    A exceção, como tal, deve ser interpretada restritivamente. Para a CAPES, com arrimo em Nota de Esclarecimento editada em conjunto com o CNPq, não seria possível o deferimento da bolsa a interessados que já fossem professores, restringindo-se a possibilidade suscitada na exceção aos que, com o curso de mestrado ou de doutoramento, passassem a exercer atividade remunerada justamente em função do desenvolvimento do tema. Destarte, estariam fora da exceção os alunos bolsistas que já exercessem atividades remuneradas antes do curso de pós-graduação.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, o que sustentado nas razões do extraordinário não foi enfrentado pelo órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e nº 356 da Súmula do Supremo. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Pelas razões acima, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 24 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
