@@ -1,0 +1,23 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “ERRO JUDICIÁRIO. CONDENAÇÃO CRIMINAL. REVISÃO. ABSOLVIÇÃO. DANOS MORAIS.
+    Condenação criminal com cumprimento em regime prisional fechado, posteriormente comprovado, em revisão criminal, a inocência, configura erro judicial passível de indenização. É objetiva a responsabilidade civil do Estado, independente da atuação do magistrado, que é subjetiva. Dano materiais pelo tempo que deixou de ganhar, a ser calculado em liquidação de sentença, considerando o labor do indivíduo. Danos morais devidos, fixados em um milhão de reais.”
+    A União, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 5º, LXXV, e 37, § 6º, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte ora recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise das razões recursais da parte recorrente evidencia a necessidade de exame da questão suscitada nos autos, considerados os aspectos fático-probatórios da causa:
+    “Da leitura atenta da sentença proferida pelo Juízo ‘a quo’ tem-se que foi feita uma análise minuciosa da prova emprestada, juntada aos autos, no caso, cópia do processo criminal, acostado às fls. 364/487, em decisão devidamente fundamentada, nos termos do que dispõe o art. 92, IX, da CF/88.
+    Contudo, verifica-se, igualmente, que a revisão criminal julgada por esta Corte reconheceu que aquela condenação não estava baseada nas novas provas que demonstraram a inocência do acusado, foi uma condenação errônea, infringindo o disposto no art. 621, I, do CPP. Portanto, esta situação por si só já é suficiente para ensejar a reparação, com base na responsabilidade objetiva do Estado.
+    …...................................................................................................
+    Com efeito, constatado que, em sede de revisão criminal (fls. 37/55) julgada por esta Corte, aquela condenação foi uma condenação errônea, caracterizada está a responsabilidade da União, havendo o dever de indenizar o autor ora apelante, mediante reparação compatível com o prejuízo sofrido.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO. PRISÃO ILEGAL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279/STF.
+    1. Hipótese em que para dissentir da solução conferida pelo Tribunal de origem à controvérsia – ocorrência, ou não, de erro judiciário – faz-se necessária uma nova apreciação dos fatos e do material probatório constantes dos autos (incidência da Súmula 279/STF).
+    2. Agravo regimental a que se nega provimento.”
+    (AI 673.872-AgR/PI, Rel. Min. ROBERTO BARROSO)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Responsabilidade civil do estado. Erro judiciário. 3. Prisão provisória. Excesso de prazo. Absolvição por negativa de autoria. 4. Dever de indenizar. Danos morais. Ocorrência. Falta objetiva da prestação do serviço público da Justiça. Necessidade de revolvimento do acervo fático-probatório. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos suficientes a infirmar a decisão recorrida. 6. Agravo regimental a que se nega provimento.”
+    (ARE 662.105-AgR/PE, Rel. Min. GILMAR MENDES)
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 24 de agosto de 2016.
+Ministro CELSO DE MELLO
+Relator
