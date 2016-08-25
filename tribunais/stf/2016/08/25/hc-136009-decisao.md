@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça, nos autos do AREsp 853.713/PB, Rel. Min. Felix Fischer. Consta dos autos, em síntese, que (a) o paciente foi condenado à pena de 3 anos e 3 meses de reclusão, no regime inicial aberto, pela prática do crime de receptação qualificada (art. 180, §1º, do Código Penal), sendo substituída a pena corporal por restritiva de direitos; (b) inconformada, a defesa interpôs apelação ao Tribunal de Justiça do Estado da Paraíba, que negou provimento ao recurso; e, na sequência, rejeitou os embargos de declaração opostos; (c) interposto, então, recurso especial, que inadmitido na origem, ensejou a interposição do respectivo agravo, desprovido pelo Ministro Relator, em decisão confirmada pelo colegiado no julgamento do agravo regimental, em acórdão assim ementado:
+    “(...) O recurso especial não será cabível quando a análise da pretensão recursal exigir reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinária na via eleita. (Súmula n. 07/STJ)
+    Agravo regimental desprovido.”
+    Neste habeas corpus, o impetrante alega, em suma, que é inviável a prisão do paciente antes do trânsito em julgado da condenação, em obediência ao princípio da presunção de inocência. Requer, ao final, a concessão da ordem para que o paciente possa aguardar em liberdade o trânsito em julgado da ação penal.
+    2. No caso, o habeas corpus volta-se contra acórdão do Superior Tribunal de Justiça que determinou a execução provisória da pena, nos seguintes termos:
+    “Por fim, tendo em vista o que decidido pela col. Suprema Corte, por ocasião do julgamento do HC n. 126.292/SP, no qual foi autorizada a execução provisória da pena, determino, independentemente da certificação do trânsito em julgado, à Coordenadoria da Quinta Turma, a remessa de cópia da sentença, dos v. acórdãos prolatados em apelação e embargos de declaração, bem como das decisões proferidas nesta Core, para MM. Juízo de primeira instância, a fim de que proceda à execução provisória da pena”.
+    Contudo, a pretensão formulada não encontra guarida na recente orientação firmada por esta Corte, que, no julgamento do HC 126.292/SP (DJe de 17-5-2016), adotou o entendimento de que “a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência”.
+    Em suma, a determinação de remessa dos autos para o juízo de primeiro grau, para fins de execução da pena, não enseja constrição ilegal sanável pela via do habeas corpus.
+    3. Ante o exposto, nego seguimento ao pedido. Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 25 de agosto de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
