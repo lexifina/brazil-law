@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Turma Recursal de Sergipe, a qual negou provimento ao recurso inominado e considerou válida a inclusão, nos proventos dos servidores inativos, da gratificação instituída pela Lei nº 6.423/2008, denominada GEAPAS, nos mesmos valores pagos ao pessoal da ativa.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 40, §8º, 201, da Constituição Federal.
+    Nas razões recursais, sustenta-se, que “as vantagens pecuniárias são concedidas em razão das condições anormais em que se realiza o serviço, ou, em razão de condições pessoais do servidor” (eDOC 7). Aduz, ainda, com a necessidade de ser observado o equilíbrio financeiro e atuarial quando se pretende conceder qualquer tipo de vantagem aos servidores.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao decidir o feito, concluiu possuir a gratificação pleiteada caráter geral, devendo, por isso, ser extensível aos aposentados.
+    Verifica-se que para divergir do entendimento adotado pelo juízo a quo, em relação à natureza jurídica da gratificação, demandaria o reexame de fatos e provas e o da legislação, de índole local, aplicável à espécie (Lei nº 6.423/2008), de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Confiram-se, a propósito, os seguintes precedentes: ARE 744.827, Rel. Min. Dias Toffoli, DJe 19.11.2013; ARE 833.997, Rel. Min. Roberto Barroso, DJe 30.09.2014; ARE 932.478, Rel. Min. Cármen Lúcia, DJe 16.12.2015; e ARE 724.094-AgR, Rel. Min. Rosa Weber, primeira Turma, DJe 13.10.2014, do qual eu reproduzo a ementa:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. GRATIFICAÇÃO POR ATIVIDADE. EXTENSÃO AOS INATIVOS. NÃO POSSIBILIDADE. LEI COMPLEMENTAR MUNICIPAL Nº 15.364/2011. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 04.9.2012. O Tribunal a quo decidiu que a Gratificação por Atividade aos integrantes das carreiras de níveis básico e médio depende de verificação de metas e realização de curso de reciclagem para sua concessão, razão pela qual não seria possível sua extensão aos servidores inativos. Para divergir desse entendimento, seria necessária a prévia análise da legislação infraconstitucional aplicável à espécie – Lei Complementar Municipal nº 15.364/2011, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido.”
+    Ante o exposto, conheço do agravo para negar provimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 25 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
