@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ALEGAÇÃO DE CERCEAMENTO DE DIREITO DE DEFESA: AUSÊNCIA DE REPERCUSSÃO GERAL. OBRIGAÇÃO DE FAZER. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Segunda Câmara de Direito Privado do Tribunal de Justiça de São Paulo decidiu:
+    “CONDOMÍNIO EDILÍCIO – OBRIGAÇÃO DE FAZER – RESTAURAÇÃO DE FACHADA - Alteração das janelas externas da unidade residencial compromete a unidade visual da fachada do edifício – Dever de restaurar a fachada do edifício atribuído ao ocupante do imóvel (independentemente de quem realizou a obra) - Sentença de Procedência, para condenar ao desfazimento da obra – RECURSO DA REQUERIDA IMPROVIDO” (doc. 1, fl. 149).
+    Os embargos declaratórios opostos foram rejeitados.
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta.
+    4. A Agravante argumenta que, “no presente caso, as supostas alterações são mínimas e não alteram o projeto arquitetônico do prédio, não configurando, assim, alteração da fachada” (doc. 2, fl. 40).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 5º, incs. XXII e LV, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste à Agravante.
+    No julgamento do Recurso Extraordinário com Agravo n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do contraditório, da ampla defesa e do devido processo legal quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o provimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    6. A apreciação do pleito recursal demandaria o reexame da matéria fático-probatória e da legislação infraconstitucional aplicável à espécie. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. (...). MULTA (ASTREINTES) PELO DESCUMPRIMENTO DE OBRIGAÇÃO DE NÃO FAZER. VALOR EXCESSIVO. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTES DOS AUTOS. SÚMULA 279/STF. Os temas constitucionais do apelo extremo não foram objeto de análise prévia e conclusiva pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF. Recurso interposto contra acórdão que confirmou decisão que deferira antecipação de tutela, portanto, de natureza precária. Incidência da Súmula 735/STF. Para dissentir do acórdão recorrido, quanto ao valor da multa aplicada, considerado excessivo, seria necessário nova apreciação dos fatos e do material probatório constantes dos autos (Súmula 279/STF), assim como a análise de matéria infraconstitucional. Precedentes. Agravo regimental a que se nega provimento” (ARE n. 825.861-AgR/SP, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 31.10.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL E CONSTITUCIONAL. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO. IMPOSIÇÃO DE ASTREINTES. REEXAME DE PROVA. IMPOSSIBILIDADE: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO CONTRÁRIO AOS INTERESSES DA PARTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 934.979-AgR, de minha relatoria, Segunda Turma, DJe 4.4.2016).
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego provimento a este agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de agosto de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
