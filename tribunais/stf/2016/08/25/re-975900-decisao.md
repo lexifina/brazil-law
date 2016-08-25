@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade aos artigos 97, 145, inciso II, § 2º, e 150, inciso II, da Constituição Federal.
+    Colhe-se a ementa da decisão recorrida:
+    “Apelação. Ação de consignação em pagamento. Imposto predial e territorial urbano. Taxas de limpeza pública, de conservação de vias e logradouros públicos, de iluminação pública, de emolumentos e de remoção de lixo domiciliar dos exercícios de 1995 a 1999. Acórdão a, por maioria de votos, negar provimento a recurso contra sentença de procedência dos pedidos. Interposição de recurso extraordinário. Sobrestamento deste, nos termos do artigo 543-B do Código de Processo Civil.
+    Apelação. Ação de consignação em pagamento. Adesão do autor a programa de parcelamento de débitos relativos ao imposto predial e territorial urbano e às taxas de limpeza pública, de conservação de vias e logradouros públicos, de iluminação pública, de emolumentos e de remoção de lixo domiciliar dos exercícios de 1995 a 1999. Recusa do réu a receber apenas quantias concernentes ao imposto. Inadmissibilidade. Alegação de descabimento da cobrança das taxas. Procedência. Taxas de limpeza pública, de conservação de vias e logradouros públicos e de iluminação pública. Serviços que beneficiam toda a comunidade, não um contribuinte individualmente considerado. Inteligência dos artigos 77 e 79 do Código Tributário Nacional.
+    Taxa de emolumentos. Confecção e remessa de talonários para cobrança de tributos. Prestação de serviço público específico e divisível inexistente. Ilegitimidade da exação. Taxa de remoção de lixo domiciliar. Rateio do custo do serviço, entre proprietários de imóveis edificados, de acordo com a área construída. Inadmissibilidade. Base de cálculo sem relação com o custo da atividade estatal. Inobservância do princípio da isonomia. Inteligência do artigo 150, II, da Constituição Federal. Recurso denegado.”
+    Decido.
+    A irresignação não merece prosperar.
+    Em primeiro lugar observo que o art. 97 da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, é bem verdade que o entendimento consolidado na Corte é no sentido de considerar constitucional a taxa de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, desde que essas atividades sejam completamente dissociadas de outros serviços públicos de limpeza realizados em benefício da população em geral. A matéria é objeto das Súmulas Vinculantes nºs 19 e 29 da Corte.
+    O caso dos autos possui particularidade que deve ser enfrentada. É que o Tribunal de origem, não obstante ter aplicado o entendimento consolidado nas referidas Súmulas avançou para analisar a lei municipal, sob o enfoque do princípio da isonomia, nos seguintes termos:
+    “Observe-se, porém, que a taxa de remoção de lixo domiciliar ou comercial é cobrada com base na área construída do imóvel Tal critério não guarda relação com o efeito custo da atividade estatal correspondente.
+    Não só proprietários de imóveis edificados são beneficiados pela atividade mencionada no precedente parágrafo, mas também os de imóveis não edificados (terrenos destinados à prática de desportos, de estacionamento de veículos automotores etc.). Assim, indevida a cobrança de taxa de remoção de lixo domiciliar ou comercial apenas daqueles primeiros, que manifesta a violação ao princípio da isonomia.
+    O ser edificado o imóvel (ter área construída) não significa que produza mais ou menos lixo que outro não edificado (sem área construída). Portanto, constitui flagrante desrespeito ao princípio da igualdade perante a lei cobrar, apenas do dono daquele, a taxa em comento.
+    Por óbvio que imóveis não edificados (sem área construída) também podem produzir lixo. E quiça em quantidade até maior que a produzida por outros edificados (com área construída). Como, então, cobrar a taxa somente dos proprietários destes?”
+    O município recorrente, no entanto, limitou-se a tratar do tema genericamente, deixando de atacar fundamento autônomo e suficiente, por si só, à manutenção do julgado, qual seja, o de que a taxa estaria sendo cobrada somente dos proprietários de imóveis edificados, o que invalidaria a lei municipal, por afronta ao princípio da isonomia. Incide, no caso, a Súmula Trata-se
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
