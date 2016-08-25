@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 2ª Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO, NOS TERMOS DO ART. 475, II e § 2°, DO CPC – EMBARGOS À EXECUÇÃO FISCAL – COBRANÇA DE IPTU – COMPANHIA PARANAENSE DE SANEAMENTO DO PARANÁ – SANEPAR – SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO DE NATUREZA ESSENCIAL – IMUNIDADE RECÍPROCA – ART. 150, INCISO VI, ALÍNEA A, DA CF – CONTRAPRESTAÇÃO MEDIANTE TAXA OU TARIFA QUE NÃO ALTERA A CONCLUSÃO DE QUE A SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO SE BENEFICIA DA IMUNIDADE TRIBUTÁRIA – STF, 2° TURMA, AG. REG. NO RECURSO EXTRARDINÁRIO N° 639.696, REL.ª MINISTRA CÁRMEN LÚCIA, JULG. 18/09/2012 – EXECUÇÃO EXTINTA – RECURSO NÃO PROVIDO E SENTENÇA MANTIDA EM REEXAME NECESSÁRIO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 173, § 1°, II e § 2°, da Carta. Sustenta, em síntese, que deve ser reconhecida a legitimidade da tributação perpetrada pelo Município.
+    A decisão agravada negou seguimento ao recurso extraordinário, sob o fundamento de que “a pretensão recursal encontra óbice na Súmula 282 do Supremo Tribunal Federal”.
+    Em sede de agravo, a parte reitera os fundamentos do recurso extraordinário.
+    O Supremo Tribunal Federal, nos autos do RE 600.867-RG, atualmente sob minha relatoria, reconheceu a existência de repercussão geral da matéria em exame:
+    “TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA RECÍPROCA. SOCIEDADE DE ECONOMIA MISTA. PARTICIPAÇÃO ACIONÁRIA DISPERSA E NEGOCIADA EM BOLSA DE VALORES. EXAME DA RELAÇÃO ENTRE OS SERVIÇOS PÚBLICOS PRESTADOS E O OBJETIVO DE DISTRIBUIÇÃO DE LUCROS A INVESTIDORES PÚBLICOS E PRIVADOS COMO ELEMENTO DETERMINANTE PARA APLICAÇÃO DA SALVAGUARDA CONSTITUCIONAL. ART. 150, VI, A DA CONSTITUIÇÃO. Tem repercussão geral a questão consistente em saber se a imunidade tributária recíproca se aplica a entidade cuja composição acionária, objeto de negociação em Bolsas de Valores, revela inequívoco objetivo de distribuição de lucros a investidores públicos e privados.”
+    Na oportunidade, o Ministro relator aduziu o seguinte:
+    “A meu sentir, as questões tratadas nestes autos transcendem interesses meramente localizados. Saber-se se a proteção constitucional alcança sociedade de economia mista inequivocamente voltada à remuneração do capital de seus controladores ou acionistas, singelamente em razão das atividades desempenhadas, significa pesquisar os limites dos sacrifícios que a Constituição impôs ao custeio da coletividade dos entes federados, em benefício da eficiência dos serviços públicos de um único ente federado e de investidores públicos e privados. ”
+    Diante do exposto, determino o retorno dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 25 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
