@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de embargos de declaração contra decisão que negou provimento ao agravo em recurso extraordinário. Alega o embargante a existência de omissão quanto ao pedido de impossibilidade da execução provisória da pena.
+    2. Com razão o embargante. Nessas circunstâncias, cumpre acolher os presentes embargos de declaração, porém, sem efeitos modificativos. Isso porque a pretensão formulada não encontra guarida na recente orientação firmada por esta Corte, que, no julgamento do HC 126.292/SP (DJe de 17-5-2016), adotou o entendimento de que “a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência”.
+    Decisões de igual teor, emitidas sob o pálio do referido HC 126.292, têm a chancela deste Supremo Tribunal Federal: HC 134.814, Rel. Dias Toffoli, Dje 6/6/2016; HC 134.545, Rel. Min. Luiz Fux, Dje 2/6/2016; HC 133.862, Rel. Min. Rosa Weber, Dje 31/5/2016; HC 131.610, Rel. Min. Celso de Mello, Dje 19/5/2016; HC 134.285, Rel. Min. Edson Fachin, Dje 17/5/2016; ARE 948.738, Rel. Min. Cármen Lúcia, Segunda Turma, j. 3/5/2016; e HC 125.708, Rel. Min. Gilmar Mendes, Segunda Turma, Dje 6/6/2016, este último assim ementado:
+    “Agravo regimental em habeas corpus. 2. Direito Processual Penal. 3. Homicídio qualificado. Prisão decorrente de sentença condenatória. 4. Superveniência de julgamentos dos recursos da defesa. Perda de objeto. 5. Condenação confirmada em apelação. 6. Alegação de impossibilidade do cumprimento da sentença condenatória antes do trânsito em julgado. Improcedência. 7. Execução provisória da pena. O Plenário, no julgamento do HC n. 126.292/SP, relatoria de Teori Zavascki, firmou entendimento de ser possível o início da execução da pena na pendência de recurso extraordinário ou especial. Isso porque, no plano legislativo, o art. 637 do CPP afirma que os recursos extraordinários não têm efeito suspensivo. 8. Agravo regimental a que se nega provimento”.
+    Em suma, esgotadas as vias recursais ordinárias, afigura-se possível o início da execução da pena.
+    3. Diante do exposto, acolho os embargos de declaração, sem efeitos infringentes.
+    Publique-se. Intime-se.
+    Brasília, 25 de agosto de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
