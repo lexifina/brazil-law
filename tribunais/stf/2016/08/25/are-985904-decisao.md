@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 2, p. 60) :
+    “REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO - APELAÇÃO CÍVEL AÇÃO ORDINÁRIA - SERVIDOR MILITAR REFORMADO – AUXÍLIO INVALIDEZ - PREENCHIMENTO DOS REQUISITOS – RECONHECIMENTO - INDENIZAÇÃO SECURITÁRIA INDEVIDA - CORREÇÃO MONETÁRIA - SENTENÇA PARCIALMENTE REFORMADA. Comprovada a incapacidade do policial reformado, em razão de acidente que o impossibilitou de exercer serviço de natureza militar, encontram-se preenchidos os requisitos contidos no art. 44, da lei Delegada n. 37/1989, com a redação dada lei Complementar 109/2009, devendo ser concedido benefício. - Por força da declaração de inconstitucionalidade parcial por arrastamento do art. 5° da lei n. 11.960/2009, a correção monetária deve ser calculada com base em índice que melhor reflete a inflação acumulada no período, sendo aplicável, no âmbito desta Justiça Estadual, a tabela da douta Corregedoria-Geral de Justiça/MG, a partir do vencimento de cada prestação.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, XXXVI, e 37, caput, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a inexistência de previsão legal para concessão do auxílio invalidez pleiteado. Aduz com a impossibilidade de lei superveniente retroagir para abranger fatos ocorridos antes de sua vigência, por incorrer em ofensa à segurança jurídica.
+    A 1ª Vice-Presidência do TJ/MG inadmitiu o recurso com base no óbice da Súmula 280 do STF (eDOC 2, pp. 88 e 89).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que as premissas sobre a quais se firmou o acórdão recorrido não fazem expressa referência ao artigo 5º, XXXVI, da Constituição tido por violado. Inexiste, portanto, no recurso interposto, o necessário prequestionamento, o que inviabiliza a admissão do extraordinário, nos termos da Súmula 282 do STF.
+    Ademais, como se observa da leitura do acórdão recorrido, o Tribunal de origem concluiu que autor preenchera os requisitos da legislação, estando apto ao recebimento do auxílio invalidez, constante da Lei Delegada 37/1989.
+    Sendo essas as razões acolhidas para solucionar a lide, eventual divergência em relação ao entendimento adotado pelo juízo a quo, demandaria o reexame de fatos e provas e o exame da legislação local (Lei Complementar Estadual 109/2009), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    Por fim, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional, por configurar apenas ofensa indireta ou reflexa à Constituição Federal, como é o caso ora apresentado. (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, Tema 660 da sistemática da RG).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 25 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
