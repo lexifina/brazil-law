@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado (eDOC2, p. 86):
+    “RECURSO DE APELAÇÃO E REEXAME NECESSÁRIO DE SENTENÇA – AÇÃO ORDINÁRIA – PRELIMINAR DE CERCEAMENTO DE DEFESA ANTE O JULGAMENTO ANTECIPADO DA LIDE – DESNECESSIDADE – EXISTÊNCIA NOS AUTOS DE ELEMENTOS SUFICIENTES AO PLENO CONVENCIMENTO DO JULGADOR – SERVIDOR PÚBLICO MUNICIPAL – CONVERSÃO ERRÔNEA DE CRUZEIROS REAIS EM URV – ENTENDIMENTO CONSOLIDADO DESTE TRIBUNAL E DO STJ – VERBAS DEVIDAS PELA FAZENDA PÚBLICA – HONORÁRIOS ADVOCATÍCIOS – MANUTENÇÃO – RECURSO DESPROVIDO – APLICAÇÃO DO ÍNDICE OFICIAL DA CADERNETA DE POUPANÇA (TR) – SENTENÇA RETIFICADA EM PARTE.
+    (...)”
+    Os embargos de declaração foram rejeitados (eDOC 4, p. 26-34).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “d”, do permissivo constitucional, aponta-se ofensa ao efeito vinculativo da decisão proferida no RE 561.836 e na ADI 1.797.
+    Sustenta-se, em suma, que, de acordo com a decisão proferida no RE 561.836, o percentual de 11,98% não é devido no caso de ter havido reestruturação de carreira, como teria ocorrido em relação aos servidores públicos da Prefeitura Municipal de Rondonópolis-MT. Assim, alega-se que o acórdão recorrido violou o efeito vinculativo da repercussão geral, visto que restou comprovado que a Lei Municipal 3.247/2000 promoveu a reestruturação do plano de cargos e carreiras dos referidos servidores, instituindo nova tabela de vencimentos.
+    O Tribunal de origem inadmitiu o recurso com base na ausência de indicação do dispositivo constitucional que teria sido violado e nas Súmulas 282 e 284 do STF. Quanto ao permissivo da alínea “d” do inciso III do art. 102 da Constituição, negou-se seguimento ao recurso, visto que não restou demonstrado que a Corte de origem ofendeu o sistema de repartição de competência legislativa (eDOC 5, p. 64-69).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De plano, observa-se que o recorrente, apesar de interpor recurso com fundamento na alínea “a” do inciso III do art. 102, não indica em suas razões qual dispositivo constitucional teria sido violado pelo acórdão recorrido. Incide, portanto, a Súmula 284 do STF.
+    Sobre o tema, confira-se o seguinte precedente:
+    “DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE VIOLADO. APLICAÇÃO DA SÚMULA 284/STF. REINTEGRAÇÃO DE POSSE. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO ÓBICE DA SÚMULA 279/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 12.3.2013. Ausente a indicação do dispositivo constitucional tido por violado pelo acórdão recorrido, incide, na espécie, o entendimento jurisprudencial vertido na Súmula 284/STF. Divergir do entendimento do Tribunal a quo no tocante à possibilidade de reintegração de posse demandaria a análise da legislação infraconstitucional aplicável à espécie, bem como a reelaboração da moldura fática delineada na origem, inviável em sede recursal extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Precedentes. Agravo regimental conhecido e não provido.” (ARE 801.459-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 04.06.2014)
+    Por fim, o Tribunal de origem não julgou válida lei local contestada em face de lei federal. Isso inviabiliza o recurso extraordinário pela alínea “d”do inciso III do art. 102 do Texto Constitucional.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 25 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
