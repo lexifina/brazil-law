@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de reclamação contra ato da Corregedoria Nacional de Justiça (Processo 0004152-67.2013.2.00.0000) que opinou “pela suspensão de pagamento de precatório na forma
+utilizada pelo Tribunal de Justiça do Estado de Alagoas. (...) ainda, pela confecção de novo Plano de Trabalho, que deverá atender a rigorosa ordem cronológica de apresentação” (doc. 14, fl. 2), o que teria violado o decidido por esta Corte no julgamento das ADI’s 47 (relatoria do Min. Octavio Gallotti), 571 (relatoria do Min. Carlos Velloso), 4.357 e 4.425 (ambas de relatoria p/Acórdão do Min. Luiz Fux). Alegam os reclamantes que: (a) “são titulares de créditos (...) representados em Precatórios Requisitórios, de índole alimentar, vêem-se conjunta e regularmente inscritos na 8ª posição da pertinente ordem cronológica mantida pelo Egrégio Tribunal de Justiça do Estado de Alagoas (doc. 02)”; (b) “Crédito alimentício esse cujo recebimento haveria de acontecer ao correr do mês de maio do fluente ano de 2014, ou antes disso, segundo previsão embutida em Plano de Trabalho que, produzido pela referida Corte de Justiça Estadual” (fl. 3); e (c) “Expectativa, porém, que se viu e se vê agudamente frustrada, mercê do ato administrativo contra que ora se investe, este que a par de agredir ilegítima e abusivamente direito de preferência ostentado pelos créditos alimentícios” (fl. 4). Pede, ao final, a cassação do ato impugnado.
+    2. Conforme consulta ao sítio eletrônico do Tribunal de Justiça de Alagoas na rede mundial de computadores, já foi pago aos interessados o valor do precatório alimentar em questão (Precatório 0000376-48.2006.8.02.0000), situação que revela perda superveniente do interesse de agir dos reclamantes.
+    3. Diante do exposto, julgo prejudicada a presente reclamação (RISTF, art. 21, IX).
+    Publique-se. Intime-se.
+    Brasília, 25 de agosto de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
