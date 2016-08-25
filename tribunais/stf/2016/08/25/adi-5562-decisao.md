@@ -1,0 +1,26 @@
+Decisão: Trata-se de Ação Direta de Inconstitucionalidade (ADI), com pedido de medida cautelar, ajuizada pelo Governador do Estado do Rio Grande do Sul, durante o recesso forense (em 21 de julho de 2016) em face das Leis estaduais 14.910; 14.911; 14.912; 14.913; 14.914, todas promulgadas em 18 de julho de 2016.
+    Em conjunto, a legislação estadual sul-riograndense, dispõe sobre a recomposição dos vencimentos dos servidores públicos de diversos órgaõs estaduais, a saber, respectivamente: Poder Judiciário (TJ/RS); Defensoria Pública (DP/RS); Ministério Público (MP/RS); Tribunal de Contas (TC/RS); e Assembleia Legislativa (AL/RS).
+    Por ocasião da apreciação da liminar pela Presidência deste Supremo Tribunal Federal (STF), em decisão datada de 28 de julho de 2016, assim se pronunciou o Ministro Ricardo Lewandowski, nos termos do art. 13, VIII, do Regimento Interno do Supremo Tribunal Federal (RI/STF), verbis:
+    “O requerente aduz, em síntese, que os referidos preceitos legais não observaram os requisitos constitucionais autorizadores de sua concessão, em especial o princípio da isonomia, e, dessa forma, estariam em dissonância com o disposto nos arts. 2º; 5º, caput; 37, X e XII; e 61, § 1º, II, a, da Constituição Federal, além de outras normas constitucionais relacionadas.
+    Pede a concessão de medida liminar para suspender a eficácia das normas impugnadas e, colhidas as informações da Assembleia Legislativa do Estado do Rio Grande do Sul, bem assim do Advogado-Geral da União e do Procurador-Geral da República, ao final seja julgado procedente o pedido formalizado na inicial e declarada a inconstitucionalidade dos preceitos legais suso mencionados.
+    Subsidiariamente requer ‘seja conferida interpretação conforme ao artigo 2º das leis impugnadas a fim de restringir sua aplicabilidade aos servidores inativos e pensionistas que conservaram não só a forma de cálculo de seus proventos/pensões com base no regramento constitucional anterior à EC n. 41/03, mas igualmente possuem paridade remuneratória com os servidores da ativa’.
+    É o relatório necessário.
+    Decido.
+    Com efeito, o requerente alega, em síntese, que as referidas leis dizem respeito, em verdade, à revisão geral anual, a qual, portanto, nos termos do art. 37, X, da Constituição Federal, deveria ter sido concedida a todos os servidores estaduais, sob pena de ofensa ao princípio da isonomia.
+    Ora, penso que, nesta análise preliminar dos autos, própria da medida em espécie, se realmente essas leis são um reajuste anual, elas deveriam ser estendidas às demais categorias, e não, como pretende o requerente, acarretando a perda do direito daqueles servidores que foram beneficiados.
+    Não foi por outra razão que o Supremo Tribunal Federal editou a Súmula Vinculante 51, que dispõe o seguinte: ‘O reajuste de 28,86%, concedido aos servidores militares pelas Leis 8622/1993 e 8627/1993, estende-se aos servidores civis do poder executivo, observadas as eventuais compensações decorrentes dos reajustes diferenciados concedidos pelos mesmos diplomas legais’.
+    Dessa forma, entendo ausentes os requisitos autorizadores do pleito cautelar.
+    Isso posto, indefiro o pedido de concessão da medida liminar durante o recesso forense (art. 13, VIII, do RISTF), sem prejuízo de uma melhor análise por parte do Relator.”
+    Após o indeferimento da medida liminar, o Estado Requerente apresentou a Petição 44.550/2016, por meio da qual requereu a reconsideração de tal decisão monocrática e, subsidiariamente, interpôs agravo regimental quanto ao mencionado ato decisório.
+    Ante o exposto, passo a decidir.
+    Observado o contexto normativo do objeto da presente ação direta, denota-se que o assunto reveste-se de plausibilidade normativa, caracterizada pela relevância da matéria e de seu especial significado para a ordem social e para a segurança jurídica, com indiscutíveis efeitos econômicos e sociais quanto à capacidade orçamentária e a prestação de serviços públicos de Unidade da Federação.
+    Nesse particular, considerando adequada a fundamentação do pronunciamento da Presidência desta Suprema Corte e com o objetivo de conceder tramitação célere da presente ação direta nos termos do inciso LXXV do art. 5º da CRFB/1988, entendo deva ser aplicado o preceito veiculado pelo artigo 12 da Lei nº 9.868, de 10 de novembro de 1999.
+    Dado o atual estágio de tramitação desta ADI, portanto, enfatizo a conveniência de que decisão venha a ser tomada em caráter definitivo, mediante adoção do rito abreviado em sede de fiscalização abstrata de normas (Lei 9.868/1999, art. 12).
+    Destarte, diante da aplicação do rito abreviado, declaro o prejuízo dos pedidos formulados pela Petição 44.550/2016, com o objetivo de que a apreciação do mérito seja diretamente submetida ao Plenário.
+    Notifiquem-se as autoridades requeridas, para que prestem informações, no prazo máximo de 10 (dez) dias. Imediatamente após este prazo, dê-se vista ao Advogado-Geral da União (AGU) e ao Procurador-Geral da República (PGR), sucessivamente, no prazo de 5 (cinco) dias, para que cada qual se manifeste na forma da legislação vigente (Lei 9.868/1999, art. 12).
+    À Secretaria Judiciária para as devidas providências.
+    Publique-se. Intime-se.
+    Brasília, 25 de agosto de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
