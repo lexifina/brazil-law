@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário em face da jurisprudência consolidada no julgamento dos recursos-paradigmas ARE-RG 927.467 e ARE-RG 639.228, respectivamente Temas 869 e 424 da sistemática da repercussão geral do Supremo Tribunal Federal.
+    A Presidência do Tribunal de Justiça inadmitiu o recurso extraordinário, com fundamento no art. 1.039, parágrafo único, do CPC/2015. (fls. 567)
+    A Recorrente insiste na apreciação das razões do recurso extraordinário para que seja alcançada a verdadeira justiça.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, no tocante à incidência dos temas 869 e 424 da sistemática da repercussão geral, registro que esta Corte, na Questão de Ordem no AI 760.358, de relatoria do Ministro Gilmar Mendes, DJe de 3.12.2009, firmou o entendimento de não ser cabível recurso para esta Suprema Corte contra a aplicação da sistemática repercussão geral nas instâncias de origem. Transcrevo a seguir a ementa desse julgado:
+    Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.
+    No caso do autos, o STF reconheceu a inexistência da repercussão geral da questão discutida nos recursos-paradigmas dos Temas 860 e 424 da sistemática da repercussão geral. Dessa forma, todos os recursos com idêntica matéria devem ser analisados pelo Tribunal de origem, para a observância da decisão proferida, sob pena de se inutilizar o próprio instituto da repercussão geral.
+    Ademais, não se admite, em casos como o presente, sequer a fungibilidade do presente recurso com o agravo interno, em virtude da caracterização de erro grosseiro e do disposto no art. 1.030, I, a, do CPC.
+    Ante o exposto, nego seguimento ao presente recurso, nos termos do art. 21, § 1º, do RISTF, por ser manifestamente incabível
+    Publique-se.
+    Brasília, 25 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
