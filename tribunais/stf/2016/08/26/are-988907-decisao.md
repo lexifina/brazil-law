@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Colegiado de origem reformou o entendimento do Juízo e julgou procedente o pedido de concessão de pensão por morte. No extraordinário cujo processamento busca alcançar, o recorrente aponta violados os artigos 195, §5º, e 201, inciso V, da Constituição Federal. Afirma a inexistência ao benefício, porque não era o autor inválido na época do óbito da cônjuge segurada. Argumenta com a impossibilidade de aplicação retroativa da Lei nº 8.213/91.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    O caso em exame, quanto ao requisito da dependência econômica, a relação conjugal existente entre o autor e a de cujus foi demonstrada através da certidão de casamento de fl. 14.
+    É de se observar que, à época do óbito, ou seja, em 01/04/1991, estava em vigor o Decreto nº 89.312/84, o qual, em seu art. 10, arrolava o marido como dependente apenas na hipótese em que ele fosse inválido.
+    Ocorre que, por ocasião do falecimento, já vigia a Constituição Federal de 05 de outubro de 1988, que preconizou em seu art. 5º, I, que homens e mulheres são iguais em direitos e obrigações. Nesse sentido, o art. 201, V, em sua redação original, por sua vez, assegurou o direito à pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, sem fazer qualquer distinção entre os sexos. Sendo a igualdade um direito fundamental, tem aplicação e eficácia imediatas, conforme § 1º do mesmo art. 5º. Vale dizer, para que produza efeitos não se faz necessária a complementação normativa e, por isso, as normas que estabeleciam qualquer tipo de diferenciação entre homens e mulheres não foram recepcionadas pela Constituição Federal
+    [...]
+    Quanto à condição de segurada da falecida, observa-se na consulta ao CNIS às fls. 55, que a autora possuiu vínculo empregatício com a empresa Editora Delta no período de 17.05.1982 a 01.08.1988.
+    Não obstante o óbito ter ocorrido em 22.12.1989, não perde a condição de segurado aquele que preencheu anteriormente as condições necessárias à obtenção de qualquer aposentadoria, nos termos do art. 102 da Lei 8.213/91
+    […]
+    Ademais, verifica-se na CTPS da falecida o carimbo de "APOSENTADORIA POR VELHICE" (fls. 17), que não foi contestada pelo INSS. Cumpre ressaltar que as anotações em CTPS têm presunção iuris tantum de veracidade, só afastada com a apresentação de prova em contrário.
+    Assim, restam comprovados os pressupostos para concessão do benefício pleiteado nos autos, a partir da data do requerimento administrativo (11.10.2004), uma vez que transcorridos mais de 30 dias entre a data do óbito da segurada instituidora e data de entrada do requerimento administrativo (fls. 15), nos termos do art. 74, II, da Lei nº 8.213/91.
+    [...]
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, o acórdão recorrido está em consonância com a jurisprudência do Supremo. Confiram com a ementa do agravo regimental em recurso extraordinário nº 385.397, relatado pelo ministro Sepulveda Pertence no Pleno, com acórdão publicado no Diário da Justiça de 6 de setembro de 2007:
+    I. RECURSO EXTRAORDINÁRIO – DESCABIMENTO. Ausência de prequestionamento do art. 5º, inciso XXXVI, da Constituição Federal, tido por violado. Incidência das Súmulas 282 e 356.
+    II. I. PENSÃO POR MORTE DE SERVIDORA PÚBLICA ESTADUAL, OCORRIDA ANTES DA EC 20/98: CÔNJUGE VARÃO: EXIGÊNCIA DE REQUISITO DE INVALIDEZ QUE AFRONTA O PRINCÍPIO DA ISONOMIA.
+    1. Considerada a redação do artigo 40 da Constituição Federal antes da EC 20/98, em vigor na data do falecimento da servidora, que não faz remissão ao regime geral da previdência social,m impossível a invocação tanto do texto do artigo 195, § 5º – exigência de fonte de custeio para a instituição de benefício -, quanto o do art. 201, V – inclusão automática do cônjuge, seja homem ou mulher, como beneficiário de pensão por morte.
+    2. No texto anterior à EC 20/98, a Constituição se preocupou apenas em definir a correspondência entre o valor da pensão e a totalidade dos vencimentos ou proventos do servidor falecido, sem qualquer referência a outras questões, como, por exemplo,os possíveis beneficiários da pensão por morte (Precedente: MS 21.540, Gallotti, RTJ 159/787).
+    3. No entanto, a lei estadual mineira, violando o princípio da igualdade do artigo 5º, I, da Constituição, exige do marido, para que perceba a pensão por morte da mulher, um requisito – da invalidez – que, não se presume em relação à viúva, e que não foi objeto do acórdão do RE 2014.193, 30.5.2001, Carlos Velloso, DJ, 31.10.2002.
+    4. Nesse precedente, ficou evidenciado que o dado sociológico que se presume em favor da mulher é o da dependência econômica e não a de invalidez, razão pela qual também não pode ela ser exigida do marido. Se a condição de invalidez revela, de modo inequívoco, a dependência econômica, a recíproca não é verdadeira, a condição de dependência econômica não implica declaração de invalidez.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 26 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
