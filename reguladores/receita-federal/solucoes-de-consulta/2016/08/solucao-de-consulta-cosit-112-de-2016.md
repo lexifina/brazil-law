@@ -1,0 +1,26 @@
+Solução de Consulta Cosit nº 112, de 3 de agosto de 2016
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica – IRPJ
+EMENTA: CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ATIVIDADE DE CONSTRUÇÃO. LUCRO PRESUMIDO. REGIME DE CAIXA.
+O percentual de presunção a ser aplicado para determinação da base de cálculo do Lucro Presumido, nos termos da alínea “e” do inc. III do § 1º do art. 15 da Lei nº 9.249, de 1995, combinados com o art. 25 da Lei nº 9.430, de 1996, todos com redação dada pela Lei nº 12.973, de 2014, será de 32% (trinta e dois por cento) para o cálculo do IRPJ, para as atividades de prestação de serviços de construção, recuperação, reforma, ampliação ou melhoramento de infraestrutura, vinculados a contratos de concessão de serviços públicos, independentemente do emprego parcial ou total de materiais.
+A construção da infraestrutura é etapa diversa e autônoma, remunerada com receita a ser paga com ativo financeiro, sendo a concessionária tida por prestadora de tal serviço, não imiscuída à fase de operação do empreendimento (que será remunerada pelos serviços de operação). Por força do § 2º do art. 15 da Lei nº 9.249, de 1995, para o caso de outras atividades, serão aplicados seus correspondentes percentuais de presunção.
+Em face de inexistência de disposição legal em contrário, o Lucro Presumido/regime de caixa deve se dar com base na receita bruta (RAP) efetivamente recebida, com supedâneo no art. 129 da IN RFB nº 1.515, de 2014.
+DISPOSITIVOS LEGAIS: Lei nº 9.430, de 1996, art. 25; Lei nº 9.249, de 1995, alínea “e”, inciso III, § 1º, art. 15, introduzida pela Lei nº 12.973, de 2014; art. 36 da Lei nº 12.973, de 2014; Instrução Normativa RFB nº 1.515, de 2014, alínea “e”, inciso IV, § 2º, e § 18, ambos do art. 4º, e arts. 81, 83, 122 e 129.
+ASSUNTO: Contribuição Social sobre o Lucro Líquido – CSLL
+EMENTA: CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ATIVIDADE DE CONSTRUÇÃO. LUCRO PRESUMIDO. REGIME DE CAIXA.
+O percentual de presunção a ser aplicado para determinação da base de cálculo do Lucro Presumido, nos termos da alínea “e” do inc. III do § 1º do art. 15 e do caput do art. 20 da Lei nº 9.249, de 1995, combinados com o art. 25 da Lei nº 9.430, de 1996, todos com redação dada pela Lei nº 12.973, de 2014, será de 32% (trinta e dois por cento) para o cálculo da CSLL, para as atividades de prestação de serviços de construção, recuperação, reforma, ampliação ou melhoramento de infraestrutura, vinculados a contratos de concessão de serviços públicos, independentemente do emprego parcial ou total de materiais.
+A construção da infraestrutura é etapa diversa e autônoma, remunerada com receita a ser paga com ativo financeiro, sendo a concessionária tida por prestadora de tal serviço, não imiscuída à fase de operação do empreendimento (que será remunerada pelos serviços de operação). Por força do § 2º do art. 15 da Lei nº 9.249, de 1995, para o caso de outras atividades, serão aplicados seus correspondentes percentuais de presunção.
+Em face de inexistência de disposição legal em contrário, o Lucro Presumido/regime de caixa deve se dar com base na receita bruta (RAP) efetivamente recebida, com supedâneo no art. 129 da IN RFB nº 1.515, de 2014.
+DISPOSITIVOS LEGAIS: Lei nº 9.430, de 1996, art. 25; Lei nº 9.249, de 1995, alínea “e”, inciso III, § 1º, art. 15, introduzida pela Lei nº 12.973, de 2014, e art. 20; Lei 12.973, de 2014, art. 36; Instrução Normativa RFB nº 1.515, de 2014, alínea “e”, inciso IV, § 2º, e § 18, ambos do art. 4º, e arts. 81, 83, 122 e 129.
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ATIVIDADE DE CONSTRUÇÃO. LUCRO PRESUMIDO. REGIME DE CAIXA.
+A base de cálculo da Contribuição para o PIS/Pasep, apurada pelo regime de caixa, será formada pela receita bruta efetivamente recebida, sendo inaplicável o § 1º do art. 150 da IN RFB nº 1.515, de 2014.
+DISPOSITIVOS LEGAIS: Medida Provisória nº 2.158-35, de 2001, art. 20; Instrução Normativa RFB nº 1.515, de 2014, arts 129 e 150, § 1º.
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social – Cofins
+EMENTA: CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ATIVIDADE DE CONSTRUÇÃO. LUCRO PRESUMIDO. REGIME DE CAIXA.
+A base de cálculo da Cofins, apurada pelo regime de caixa, será formada pela receita bruta efetivamente recebida, sendo inaplicável o § 1º do art. 150 da IN RFB nº 1.515, de 2014.
+DISPOSITIVOS LEGAIS: Medida Provisória nº 2.158-35, de 2001, art. 20; Instrução Normativa RFB nº 1.515, de 2014, arts 129 e 150, § 1º.
+ASSUNTO: Processo Administrativo Fiscal
+EMENTA: É ineficaz a consulta, não produzindo efeitos, quando não versar sobre a interpretação de dispositivos da legislação tributária, mas sobre questões de cunho procedimental.
+DISPOSITIVOS LEGAIS: Decreto nº 70.235, de 1972, art. 52, inciso I, c/c art. 46. Ineficácia parcial.
+[arquivo anexo: SC Cosit nº 112-2016.pdf]
+.
