@@ -1,0 +1,18 @@
+Mandado de injunção coletivo. Decisões de caráter erga omnes proferidas nos MIs 670, 708 e 712. Lacuna regulamentadora do direito de greve dos servidores públicos civis que já foi provisoriamente colmatada por meio da aplicação das Leis 7.701/1988 e 7.783/1989, enquanto não editada a lei específica a que alude o Art. 37, VII, da Constituição da República. Ausência de interesse processual.
+Mandado de injunção a que se nega seguimento.
+    Vistos etc.
+    Trata-se de mandado de injunção coletivo impetrado com a finalidade de colmatar lacuna regulamentadora do direito assegurado no art. 37, VII, da Magna Carta.
+    O ente sindical impetrante sustenta que, à míngua de norma regulamentadora do preceito constitucional em tela, os seus substituídos, agentes de segurança penitenciária do Estado de São Paulo, estão impossibilitados de exercer o direito de greve.
+    Nesse contexto, requer a concessão da ordem injuncional, para que seja determinado prazo razoável para que o impetrado “promova a edição da norma regulamentadora do direito de greve dos representados pelo impetrado, assim como estabelecer as condições em que se dará o exercício dos direitos, das liberdades ou das prerrogativas reclamados ou, se for o caso, as condições em que poderá o interessado promover ação própria visando a exercê-los, caso não seja suprida a mora legislativa no prazo determinado ” (inicial, fl. 9).
+    Invoca, em abono de sua pretensão, o previsto nos arts. 8º, I e II, e 9º, § 1º, da Lei 13.300/2016.
+    É o relatório.
+    Decido.
+    O Supremo Tribunal Federal, ao concluir, na sessão plenária de 25.10.2007, o julgamento dos MIs nºs 670, 708 e 712, decidiu suprir a lacuna regulamentadora do direito de greve dos servidores públicos, com a aplicação provisória das Leis nºs 7.701/1988 e 7.783/1989, enquanto não editada a lei específica prevista no art. 37, VII, da Constituição da República.
+    Tais decisões foram excepcionalmente dotadas de caráter erga omnes, a viabilizar, se inobservadas as suas prescrições, o manejo de reclamação constitucional para a garantia da sua autoridade, com base no art. 102, I, “l”, da Carta Magna. Precedentes: Rcl 22986, Rel. Min. Luiz Fux, DJe de 19.02.2016; Rcl 21842, Rel. Min. Roberto Barroso, DJe de 21.10.2015; e Rcl 18370, Rel. Min. Gilmar Mendes, DJe de 10.10.2014.
+    Nesse contexto, quanto ao presente mandado de injunção coletivo, protocolado em 20.7.2016, não se faz presente o interesse de agir, na medida em que já provisoriamente colmatada a lacuna regulamentadora do direito previsto no art. 37, VII, da Lei Maior, quer em relação à categoria representada pelo ente sindical impetrante, quer em relação às demais categorias de servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios.
+    Acrescento que o mandado de injunção não é via idônea para o exame concreto das condições para o exercício regular do direito de greve por determinada categoria de agentes públicos, matéria a ser examinada em dissídio coletivo de greve, pelo Tribunal competente. Nesse sentido, destaco que, nos MIs nºs 670, 708 e 712, esta Suprema Corte fixou o entendimento de que “as greves de âmbito local ou municipal serão dirimidas pelo Tribunal de Justiça ou Tribunal Regional Federal com jurisdição sobre o local da paralisação, conforme se trate de greve de servidores municipais, estaduais ou federais”.
+    Ante o exposto, à falta de interesse processual, nego seguimento ao presente mandado de injunção, forte nos arts. 14 da Lei 13.300/2016, 485, VI, do CPC/2015 e 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
