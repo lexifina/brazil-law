@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à condenação do recorrente ao pagamento de danos morais e à declaração de inexigibilidade do débito. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 1º, inciso IV, 5º, incisos II, V, XXXV, LIV e LV, e 170, cabeça, da Constituição Federal. Diz contrariado o princípio do devido processo legal, uma vez não demonstrado o dano indenizável. Diz desproporcional o valor arbitrado a título de reparação. Sustenta afronta à livre iniciativa.
+    2. A recorribilidade extraordinária mostra-se distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, consideradas as premissas constantes do ato impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão os seguintes fundamentos:
+    Como bem restou salientado no Juízo monocrático, embora o Réu ora Recorrente tenha arguido que não houve defeito na prestação do serviço, o Autor comprovou a ocorrência de falha, qual seja, a negativação (ou permanência) de seu nome nos serviços de proteção de crédito, donde caberia ao Réu comprovar ter ocorrido fato impeditivo, modificativo oi extintivo do direito do Autor, e não meramente apenas apresentar suposições sem que demonstrasse ou comprovasse o legado, tudo nos termos que preconiza o art. 333, II do CPC.
+    Nesse sentido, ressalte-se que, ainda que a ré não tenha efetivamente realizado a negativação, a mesma apresenta-se como credora do documento de fls. 20, não impugnado especificamente pela mesma, não sendo demonstrado a sua falsidade, o que leva este Juízo a crer que houve cessão de crédito, o que não retira a responsabilidade da ora Recorrente.
+    Quanto a configuração de dano moral na espécie, julgo que restou o prejuízo sofrido pelo Autor/Recorrido devidamente demonstrado nos autos, não traduzido simplesmente pela ocorrência de vício verificado no produto/serviço, mas sobretudo em razão da negativação que configura o dano moral na sua forma in re ipsa.
+    Doutro giro, o decisum monocrático não quadra reparos quanto ao valor arbitrado a título de não moral, quantia que se mostra adequada à frustração e ao constrangimento experimentados e comprovados pelo autor e que não descambam para a imposição de excessiva onerosidade aos Réus, tudo na esteira da jurisprudência predominante do E. Superior Tribunal de Justiça sobre o tema, como adiante colaciono: (...)
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em síntese, a reapreciação dos elementos probatórios para, com alicerce em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que o sustentado não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 26 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
