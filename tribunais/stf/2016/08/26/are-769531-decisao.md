@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL EM AÇÃO ORDINÁRIA – SERVIDOR PÚBLICO DO ESTADO DE MINAS GERAIS - APOSTILAMENTO PROPORCIONAL – DIFERENÇA ENTRE O VENCIMENTO DO CARGO COMISSIONADO E O DO CARGO EFETIVO – BASE DE CÁLCULO PREVISTA NA LEI Nº 9.532/1987, INALTERADA PELA LEI 14.683/03 – PAGAMENTO CORRETO - CÔMPUTO DO TEMPO DE SERVIÇO – AUSÊNCIA DE PROVA DE SUA IRREGLARIDADE – RECURSO DESPROVIDO.
+    1) A Lei Estadual nº. 14.683/2003, ao extinguir o instituto do apostilamento, buscou assegurar a continuidade de recebimento do benefício, sob a forma de vantagem pessoal, àqueles servidores que já gozavam da apostila, seja ela integral ou proporcional, bem como àqueles que já haviam preenchido os requisitos necessários para tanto, em respeito ao direito adquirido consagrado no art.5º, XXXVI, da CR/88. Contudo, em momento algum referido diploma alterou a base de cálculo do benefício, que, portanto, continuou a incidir sobre a remuneração do cargo em comissão, no caso de apostila integral, ou da diferença entre o vencimento-básico daquele e o do cargo efetivo ocupado, no caso de apostila proporcional, tal como determinado pelas Leis Estaduais nº 9.532/1987 e 13.533/2000.
+    2) Reputa-se correto o ato de concessão de apostila proporcional quando não há nos autos qualquer prova de que o Estado de Minas Gerais, ao praticá-lo, tenha violado o art.1º, parágrafo 7º, da Lei 14.683/03, que determina que o tempo de efetivo exercício prestado no cargo em comissão seja contado em “dias”.
+    3) Recurso desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. O recorrente alega violação aos arts. 5º, XXXVI, e 37, XV, da Constituição.
+    O recurso não deve ser admitido tendo em vista que o Tribunal de origem assentou que não houve alteração da base de cálculo do benefício e que não há provas de violação do diploma legal quanto ao cômputo de tempo de efetivo exercício. Portanto, para dissentir deste entendimento, seria necessária a análise das legislações infraconstitucionais aplicadas (Leis Estaduais n.º 9.532/87 e 14.683/03), bem como o reexame dos fatos e do material probatório contantes dos autos, o que torna inviável o processamento do recurso extraordinário por incidência das Súmulas 279 e 280/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
