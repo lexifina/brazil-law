@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRABALHISTA. RECURSO ORDINÁRIO. INSALUBRIDADE. INTERMITÊNCIA. CÁLCULO. PARCELAS SALARIAIS. ACÚMULO DE FUNÇÕES. FALTA DE ELEMENTOS. ARBITRAMENTO. EQUIDADE.
+    1. A exposição do trabalhador a agentes insalutíferos, ainda que apenas em parte da sua jornada diária, não caracteriza eventualidade, mas sim intermitência, o que pretexta o seu direito à percepção do adicional correspondente.
+    2. À míngua de elementos para cálculo da repercussão salarial do acúmulo de funções reconhecido, mostra-se temperada de equidade a decisão que arbitrou em dois salários-mínimos a vantagem negou direito às horas extras, o que abranda a legislação aplicável, evitando uma oneração maior da empregadora-recorrente.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV e LV; 37, XVI e XVII; e 93, IX, da Constituição Federal.
+     O recurso não deve ser provido. A decisão impugnada está devidamente fundamentada. O Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ademais, não há que se falar em incidência da Súmula 339/STF porque o acórdão recorrido não concedeu aumento ao servidor com fundamento em isonomia, tão somente reconheceu direito à diferença remuneratória por desvio de função reconhecido na origem (RE 443.578-AgR, Rel. Min. Ayres Britto).
+    Para dissentir do acórdão recorrido, seria imprescindível a análise da legislação infraconstitucional pertinente, bem como do material fático probatório dos autos, o que é inviável em sede de recurso extraordinário. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    O recurso extraordinário foi interposto antes da implementação da sistemática da repercussão geral. Porém, para reforçar a ausência de matéria constitucional na questão debatida, vale ressaltar que o Plenário desta Corte assentou entendimento pela ausência de repercussão geral dessa controvérsia, no julgamento do RE 578.657- RG, Rel. Min. Menezes Direito – Tema 73, assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. DISCUSSÃO ACERCA DO DIREITO À DIFERENÇA DE REMUNERAÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de agosto de 2016
+Ministro Luís Roberto Barroso
+Relator
