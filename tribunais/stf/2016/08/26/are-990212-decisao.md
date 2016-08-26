@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INVENTÁRIO. PAGAMENTO DE CRÉDITO PREFERENCIAL. COMPETÊNCIA DO JUÍZO DO INVENTÁRIO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “AGRAVO DE INSTRUMENTO. INTEGRALIDADE DE PENSÃO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PAGAMENTO DE CRÉDITO PREFERENCIAL. QUINHÃO PERTENCENTE A CADA HERDEIRO. COMPETÊNCIA DO JUÍZO DO INVENTÁRIO.
+    - É competência do juízo do inventário definir o quinhão de cada um dos beneficiários da parcela preferencial, na hipótese em que o credor falecido deixou bens a inventariar.
+    - Recurso não provido.
+    (...) Foi proferida, então, a decisão agravada, que entendeu ser caso de transferência do valor do crédito da falecida credora ao juízo do inventário para a partilha entre os sucessores, respeitando o quinhão de cada um (fl. 83).
+    Em alguns casos, quando o credor falecido não deixa bens a inventariar e, assim, não ocorre a abertura de inventário, não resta outra alternativa a não ser definir o juízo da execução como competente para informar o quinhão pertencente a cada sucessor.
+    O artigo 50 do Ato nº 013/2012-P, alterado pelo artigo 11 do Ato nº 037/2012-P, regulamenta a questão, no item “b” do seu § 3º, estabelecendo que o juízo da execução poderá fornecer certidão que indique os percentuais de cada herdeiro em relação ao crédito.
+    No caso dos autos, todavia, está em trâmite o inventário, razão pela qual entendo que compete ao juízo do inventário definir o quinhão de cada um dos beneficiários da parcela preferencial.
+    Desta forma, a manutenção da decisão agravada é medida que se impõe”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. No recurso extraordinário, o Agravante alega contrariados os arts. 93, inc. IX, e 100, § 2º, da Constituição da República, sustentando competir ao juízo originário informar por certidão o percentual devido a cada herdeiro para adimplemento do precatório e ser desnecessária a remessa do crédito ao processo de inventário, justificando que o pagamento se dará quanto a dois sucessores, sendo suficiente simples cálculo aritmético.
+    Pede
+    “que haja fundamentação adequada do Ilustre Juízo a quo acerca da não aplicação imediata do § 2º do art. 100 da CF ao caso em comento, realizando o pagamento preferencial do sucessor portador de doença grave nos termos do dispositivo legal acima, sob pena de nulidade por não observância ao inciso IX do art. 93 da CF, determinando, portanto, o prosseguimento do feito com a liberação de valores ao sucessor portador de doença grave nos termos do disposto no § 2º do art. 100 da CF”.
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 282 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Cumpre afastar o fundamento da decisão agravada, pois a matéria está prequestionada. Apesar de o Tribunal de origem não ter apreciado a questão da contrariedade ao art. 100, § 2º, da Constituição da República, o Agravante suscitou essa matéria no agravo de instrumento e nos embargos de declaração.
+    A superação desse fundamento, todavia, não é suficiente para o acolhimento da pretensão do Agravante, não lhe assistindo razão jurídica.
+    5. A controvérsia apresentada na espécie não guarda pertinência com a questão constitucional contida no Recurso Extraordinário n. 840.435-RG, Relator o Ministro Luiz Fux, e na Ação Direta de Inconstitucionalidade n. 4.425, Redator para o acórdão o Ministro Luiz Fux.
+    Naqueles processos, a discussão versa sobre o sequestro de verbas públicas para pagamento de crédito a portador de moléstia grave sem observância da norma dos precatórios. Na espécie vertente, trata-se da determinação da competência do juízo do inventário para definição do quinhão de cada qual dos beneficiários da parcela preferencial.
+    A apreciação do pleito recursal demandaria análise da legislação infraconstitucional aplicável à espécie (Código de Processo Civil) e reexame do conjunto fático-probatório do processo, a inviabilizar o recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL. PROCESSUAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ALEGADA VIOLAÇÃO DOS ARTIGOS 5º, XXXVI, LIV E LV, DA CONSTITUIÇÃO. CABIMENTO DA AÇÃO DE MANDADO DE SEGURANÇA. OFENSA INDIRETA OU REFLEXA. OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. A questão referente ao art. 100, caput e §§, da Constituição federal não foi debatida no acórdão recorrido e também não foi objeto de embargos de declaração, faltando-lhe, assim, o indispensável prequestionamento. A análise da alegação de ofensa aos postulados do devido processo legal, no que se refere a questões atinentes a concurso de credores, preferência e imputação de créditos e ordem cronológica de penhoras, demanda o prévio exame da legislação infraconstitucional e do quadro fático-probatório. O debate acerca dos pressupostos de cabimento do mandado de segurança não viabiliza a abertura da via extraordinária. O acórdão recorrido encontra-se devidamente fundamentado, ainda que com sua fundamentação não concorde a parte ora agravante. Agravo regimental a que se nega provimento” (AI n. 522.838-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 4.6.2012).
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais” (ARE n. 745.893-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 26.8.2014).
+    Nada há a prover quanto às alegações do Agravante.
+    6. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de agosto de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
