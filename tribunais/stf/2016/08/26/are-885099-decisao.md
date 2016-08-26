@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “DIRETA DE INCONSTITUCIONALIDADE. Lei Municipal nº 11.457 de 24 de fevereiro de 2014, do Município de São José do Rio Preto, que e autoriza o Poder Executivo a regulamentar a atividade de guardador autônomo de veículos (flanelinhas). Ofensa do princípio da separação de poderes inocorrente. Norma que repete preceito da Lei Federal nº 6.242/75. Matéria de polícia administrativa, não inserido no rol de reserva do Executivo e do Legislativo. Competência concorrente para deflagrar o processo legislativo. Ausência de criação de despesas ao erário público. A fiscalização de atividades exercidas no município insere-se na competência do Executivo. Precedentes diversos deste C. Órgão Especial. Ação julgada improcedente.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º, caput; 5º, XXXV e LV, da Constituição.
+    O Presidente do Tribunal de origem negou seguimento o recurso extraordinário sob o fundamento de que se trata “de mera cópia do recurso interposto as fls 147/165, objeto da decisão de fls. 176/177”.
+    A parte agravante, na peça do presente agravo, afirma que, “ainda que se trata-se de cópia, não se diga que não é possível utilizar a mesma matéria para combater o conteúdo jurídico de outra decisão proferida no mesmo tema ou caso, pois não há vedação para utilização de fundamentos jurídicos ou legais, ainda que se trata de momento processual diverso”.
+    Correta a decisão agravada, uma vez que a peça de recurso extraordinário apresentada constitui-se cópia de outro recurso extraordinário, anteriormente interposto contra acórdão em que o Tribunal de origem apreciara o pedido de concessão de medida liminar. Note-se que na peça do recurso extraordinário em exame a parte recorrente formula sua irresignação contra decisão do TJ/SP que não conhecera do agravo regimental por considerá-lo intempestivo. Por outro lado, o acórdão ora recorrido julgara o mérito da ação direta de inconstitucionalidade. Nessas condições, considerando que as razões do recurso extraordinário estão dissociadas dos fundamentos do acórdão recorrido, aplica-se a Súmula 284/STF:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
