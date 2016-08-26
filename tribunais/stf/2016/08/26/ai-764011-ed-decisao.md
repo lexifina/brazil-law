@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de embargos de declaração interpostos em 13.10.2015, cujo objeto é decisão monocrática que deu provimento ao agravo para admitir o recurso extraordinário e determinar o retorno dos autos à origem, para a aplicação do entendimento assentado no julgamento do RE 590.751-RG.
+    A parte agravante sustenta que: (i) há contradição na decisão proferida, pois o Tribunal de origem já seguiu o entendimento firmado no RE 590.751-RG; (ii) “convém relembrar e salientar que o objeto do recurso da Fazenda do Estado de São Paulo, desde o início (quando da interposição de agravo de instrumento ao TJSP), foi tão somente a reforma da decisão de primeiro grau que determinou que ela complementasse os depósitos das parcelas do precatório mediante a utilização de juros de 12% ao ano, almejando que prevalecesse o critério que até então ela vinha observando (6% ao ano)”.
+    Assiste razão à parte agravante.
+    Reconsidero a decisão embargada e passo à análise do agravo de instrumento.
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AGRAVO DE INSTRUMENTO – PRECATÓRIO – Parcelamento – Incidência dos juros fixados na sentença, confirmados por V. Acórdão – Imutabilidade da coisa julgada – Agravo Improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 100 da Constituição, bem como ao art. 78 do ADCT. Sustenta que é “certo que a proteção do art. 5°, XXXVI, da Constituição Federal, impede que a lei prejudique a coisa julgada. Mas, a coisa julgada não se sobrepõe às determinações da própria Constituição, daí não pode a r. decisão recorrida invocar essa proteção para determinar o pagamento de juros maiores que os previstos na Carta Magna”.
+    O recurso não deve ser admitido. Isso porque, para dissentir da conclusão do Tribunal de origem quanto a manutenção do pagamento dos juros de mora em razão da decisão judicial transitada em julgado, seria necessário entrar na discussão quanto aos limites objetivos da coisa julgada, o que inviabiliza o conhecimento do presente recurso extraordinário, por tratar-se de tema restrito à legislação infraconstitucional. Nessa linha, assentando a inexistência de repercussão geral da matéria, veja-se a ementa do ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral. ”
+    Diante do exposto, reconsidero a decisão recorrida e, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. Julgo prejudicado os embargos de declaração.
+    Publique-se.
+          Brasília, 26 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
