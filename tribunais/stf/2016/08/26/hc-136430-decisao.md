@@ -1,0 +1,23 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por José Augusto Branco e outro em favor de Roberto Abraham Abrahamian Asfora, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao RHC 70.805/SP.
+    O Ministério Público do Estado de São Paulo ofereceu denúncia em desfavor do paciente pela suposta prática de crime contra a ordem tributária, tipificado no art 1º, II e II, da Lei 8.137/1990.
+    Em 05.02.2014, o Juízo da 2ª Vara Criminal da Comarca de Campinas/SP recebeu a denúncia.
+    Inconformada com a suposta inépcia da peça acusatória, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que negou provimento ao RHC 70.805/SP.
+    No presente habeas, alegam os Impetrantes inépcia da denúncia por ausência de individualização da conduta tida como delituosa praticada pelo paciente. Sustenta genérica a peça acusatória, uma vez imputado ao paciente o crime pelo simples fato de ser sócio da empresa. Requer, em medida liminar, o sobrestamento da ação penal até o julgamento final da presente impetração. No mérito, pugna pelo trancamento da Ação Penal 0009736-15.2006.8.26.0428.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. TRANCAMENTO DA AÇÃO PENAL. EXCEPCIONALIDADE. INÉPCIA DA DENÚNCIA. NÃO OCORRÊNCIA. PEÇA EM CONFORMIDADE COM O DISPOSTO NO ART. 41 DO CÓDIGO DE PROCESSO PENAL - CPP. CRIME SOCIETÁRIO. POSSIBILIDADE DE DENÚNCIA GERAL. INEXISTÊNCIA DE RESPONSABILIDADE PENAL OBJETIVA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. RECURSO DESPROVIDO.
+    1. Em razão da excepcionalidade do trancamento da ação penal, tal medida somente se verifica possível quando ficar demonstrado, de plano e sem necessidade de dilação probatória, a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade. É certa, ainda, a possibilidade do referido trancamento nos casos em que a denúncia for inepta, não atendendo o que dispõe o art. 41 do CPP, o que não impede a propositura de nova ação desde que suprida a irregularidade.
+    2. In casu, a exordial acusatória imputa ao recorrente a prática de crime contra a ordem tributária, considerando que, na condição de sócio administrador da pessoa jurídica, sonegou o pagamento de ICMS, no montante de R$ 281.973,20, descrevendo, ainda, o modus operandi da conduta delituosa. Assim, a denúncia ofertada não ofende o direito à ampla defesa e ao contraditório e permite o livre exercício do direito de defesa, na medida em que descreve, mesmo de forma sucinta e objetiva, toda a prática delitiva imputada aos acusados, demostrando indícios suficientes de autoria, prova da materialidade e a existência de nexo causal entre a conduta apontada e o tipo penal imputado, exatamente nos termos do que dispõe o art. 41 do CPP.
+    3. Nos crimes societários, não se exige a descrição individualizada das condutas de cada acusado, bastando para se assegurar o direito à ampla defesa a descrição do fato delituoso e a indicação da participação de cada autor na empreitada criminosa. Assim, no caso dos autos, não há falar em responsabilidade penal objetiva, tendo em vista que ficou demonstrado na denúncia o liame subjetivo na conduta imputada ao recorrente, que, como sócio e administrador da pessoa jurídica, supostamente teria sonegado tributo mediante a omissão de informação às autoridades fazendárias e fraude na fiscalização tributária.
+    Recurso ordinário em habeas corpus desprovido”.
+    Ao exame dos autos, verifico que o acórdão proferido pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para negar provimento ao recurso.
+    Além disso, a jurisprudência desta Suprema Corte é no sentido de que “A denúncia, na hipótese de crime societário, não precisa conter descrição minuciosa e pormenorizada da conduta de cada acusado, sendo que, demonstrando o vínculo dos indiciados com a sociedade comercial, narre as condutas delituosas de forma a possibilitar o exercício da ampla defesa” (HC 122.450/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 20.11.2014).
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com o imediato sobrestamento da ação penal.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colha-se o parecer do Ministério Público Federal.
+    Publique-se.
+    Brasília, 26 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
