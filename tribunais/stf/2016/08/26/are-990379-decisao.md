@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Agravo retido – Dispensa de testemunha contradita – Cerceamento de defesa – Ausência – Recurso improvido.
+    Embargos à execução – Cheque – Nulidade da sentença não configurada – Desnecessidade de declinação da causa debendi – Penhora recaída sobre parte de imóvel considerado bem de família que comporta desmembramento – Admissibilidade – Embargos julgados improcedentes – Decisão correta – Honorários advocatícios – Pretensão à redução – Possibilidade – Apelação parcialmente provida”. (eDOC. 2, p. 34)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a , da Constituição Federal, aponta-se violação aos arts. 5º, XXXV e LV; 6º; 93, IV, e 226 do texto constitucional.
+    Nas razões recursais, alega-se indevida a penhora realizada no imóvel, considerado bem de família.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 8009/90 e Código de Processual Civil) e o conjunto probatório constante dos autos, consignou ser possível a penhora de parte ideal do imóvel referido, com base em certidão expedida pela municipalidade local quanto ao seu desdobramento.
+    Nesse sentido, extraem-se os seguintes trechos do acórdão impugnado:
+     “(...)
+    Além disso, não se pode esquecer que, ainda assim, foi produzida a prova oral, sendo ouvida outra testemunha arrolada pelo embargante, Sr. José Pedro Cahum, não havendo, pois, que se falar em cerceamento de defesa.
+    (…)
+    Ademais, é cediço que cheque é título de crédito não causal e ordem de pagamento à vista, assim, goza de autonomia, literalidade e abstração; não havendo qualquer indício de prova que tenha sido emitido como garantia a um empréstimo realizado com o genro da embargada.
+    Importante consignar que os comprovantes de depósitos juntados aos autos não fazem prova da quitação do débito e também não restou demonstrada a alegada existência de coação na emissão do cheque.
+    A questão da impenhorabilidade de parte ideal do imóvel indicado como bem de família foi corretamente afastada pela MM. Juíza a quo, tendo em vista que, conforme certidão expedida pela Prefeitura Municipal de Vinhedo, o imóvel comporta desmembramento”. (eDOC 2, p. 35-36)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RECURSO DE REVISTA. EXECUÇÃO. EMBARGOS DE TERCEIRO. PENHORA. BEM DE FAMÍLIA. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. SÚMULA Nº 279 DO STF. PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, CONTRADITÓRIO E AMPLA DEFESA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA. ARE 748.371. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO”. (ARE- AgR 743137, Rel. Min. Luiz Fux, Primeira Turma, DJe 11.4.2016)
+    “Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Princípios do contraditório e da ampla defesa. Indeferimento de diligência probatória. Repercussão geral. Inexistência. Penhora. Bem de família. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. O Plenário da Corte, no exame do ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, concluiu pela ausência de repercussão geral do tema relativo à suposta violação dos princípios do contraditório e da ampla defesa nos casos de indeferimento de produção de provas no âmbito de processo judicial, dado o caráter infraconstitucional da matéria. 3. Inadmissível, em recurso extraordinário, a análise do conjunto fático-probatório dos autos e da legislação infraconstitucional pertinente. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido”. (ARE- AgR 898660, Rel. Min. Dias Toffoli, Segunda Turma, DJe 11.11.2015)
+    Por fim, no tocante à suposta ofensa aos princípios da ampla defesa, do contraditório e do devido processo legal, observo que o Supremo Tribunal Federal já apreciou essa matéria no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
