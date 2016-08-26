@@ -1,0 +1,10 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Mandado de Segurança. ICMS. Legitimação ativa e passiva. Contribuinte de fato. Teoria da encampação. Princípios da seletividade e essencialidade. Artigo 155, § 2º, III da Constituição Federal. Impositiva redução da alíquota para 18%, consoante entendimento sufragado pelo nosso tribunal. Regulamento do ICMS. Dispositivo da Lei Estadual que reprisa outro declarado inconstitucional na AI 27/2005. Incidência do artigo 103 do RITJRJ. Efeito vinculante. Aplicação das Súmulas 213 do STJ e 271 do STF. Decadência regulada pelo artigo 168, I e II do CTN. Juros no mesmo percentual de 1% utilizado pela Fazenda Pública para cobrança dos seus débitos , ex vi do disposto no artigo 161, § 1º do CTN. Ordem parcialmente concedida .” (eDOC 2, p. 19)
+    De plano, verifica-se que a presente controvérsia se encontra afetada à sistemática da repercussão geral no bojo do Tema 745, cujo recurso-paradigma é o RE-RG 714.139, de relatoria do Ministro Marco Aurélio, DJe 26.09.2014, assim ementado:
+    “IMPOSTO SOBRE A CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ENERGIA ELÉTRICA – SERVIÇOS DE TELECOMUNICAÇÃO – SELETIVIDADE – ALÍQUOTA VARIÁVEL – ARTIGOS 150, INCISO II, E 155, § 2º, INCISO III, DA CARTA FEDERAL – ALCANCE – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia relativa à constitucionalidade de norma estadual mediante a qual foi prevista a alíquota de 25% alusiva ao Imposto sobre a Circulação de Mercadorias e Serviços incidente no fornecimento de energia elétrica e nos serviços de telecomunicação, em patamar superior ao estabelecido para as operações em geral – 17%.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 26 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
