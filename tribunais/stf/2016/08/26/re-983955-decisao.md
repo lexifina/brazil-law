@@ -1,0 +1,16 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pela E. Turma Recursal do Tribunal de Justiça do Estado de Rondônia, está assim ementado:
+    “POLICIAL CIVIL. APOSENTADORIA ESPECIAL. LEI COMPLEMENTAR 51/1985. RECEPÇÃO. REQUISITOS. PREENCHIMENTO. PROVENTOS INTEGRAIS E PARITÁRIOS.
+    – A aposentadoria do policial civil encontra previsão na Lei Complementar 51/1985, com alterações pela Lei Complementar nº 144/2014, que regulamenta o disposto no § 4º do art. 40 da Constituição Federal;
+    – A Lei Complementar nº 51/1985 foi recepcionada pela Constituição Federal de 1988, consoante o entendimento do Supremo Tribunal Federal;
+    – Os proventos devem ser integrais e paritários, na forma prevista pela legislação complementar federal.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 567.110/AC, Rel. Min. CÁRMEN LÚCIA, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. RECEPÇÃO CONSTITUCIONAL DO ART. 1º, INC. I, DA LEI COMPLEMENTAR N. 51/1985. ADOÇÃO DE REQUISITOS E CRITÉRIOS DIFERENCIADOS PARA A CONCESSÃO DE APOSENTADORIA A SERVIDORES CUJAS ATIVIDADES NÃO SÃO EXERCIDAS EXCLUSIVAMENTE SOB CONDIÇÕES ESPECIAIS QUE PREJUDIQUEM A SAÚDE OU A INTEGRIDADE FÍSICA. 1. Reiteração do posicionamento assentado no julgamento da Ação Direta de Inconstitucionalidade nº 3.817, Relatora a Ministra Cármen Lúcia, da recepção do inc. I do art. 1º da Lei Complementar nº 51/1985 pela Constituição. 2. O Tribunal a quo reconheceu, corretamente, o direito do Recorrido de se aposentar na forma especial prevista na Lei Complementar 51/1985, por terem sido cumpridos todos os requisitos exigidos pela lei. 3. Recurso extraordinário ao qual se nega provimento.”
+    Cabe ressaltar, por necessário, que essa orientação plenária reflete-se em sucessivos julgamentos, monocráticos e colegiados, proferidos no âmbito desta Corte (AI 738.563/SP, Rel. Min. CELSO DE MELLO – ARE 704.551-AgR/MS, Rel. Min. MARCO AURÉLIO – ARE 720.131/SP, Rel. Min. CÁRMEN LÚCIA – RE 660.764/SP, Rel. Min. DIAS TOFFOLI, v.g.).
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em vista as razões expostas, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC/15, art. 932, IV, “b”).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC/15, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil.
+    Publique-se.
+    Brasília, 26 de agosto de 2016.
+Ministro CELSO DE MELLO
+Relator
