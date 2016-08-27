@@ -1,0 +1,54 @@
+Decisão:
+    Vistos.
+    Por versarem matéria idêntica, passo à apreciação conjunta dos MS nºs 32.036/DF e 32.037/DF.
+    Cuida-se de mandados de segurança, com pedido de liminar, impetrados por Carlos Sampaio (MS nº 32.036/DF) e Roberto João Pereira Freire (MS nº 32.037/DF) em face, respectivamente, da Mesa da Câmara dos Deputados e do Presidente da Comissão de Constituição e Justiça e de Cidadania da Câmara dos Deputados, com o objetivo de obstar a tramitação e a deliberação da Proposta de Emenda à Constituição nº 33/2011.
+    Os impetrantes afirmam que são detentores de mandato eletivo de Deputado Federal, o que lhes confere legitimidade ativa ad causam para propor mandado de segurança, visando garantir o direito líquido e certo de, no exercício da função parlamentar, não deliberarem sobre propostas de emendas à Constituição tendentes a violar cláusulas pétreas.
+    Defendem a tese de que a PEC nº 33/2011 enuncia proposição legislativa tendente a alterar o equilíbrio e a harmonia entre os Poderes da República, em evidente violação à cláusula pétrea instituída no art. 60, § 4º, III, da CF/88.
+    Os fundamentos apresentados nas peças vestibulares podem ser assim sintetizados:
+    a) a alteração do quórum para declaração de inconstitucionalidade de leis - de maioria absoluta para 4/5 (quatro quintos) dos membros do Órgão Especial ou do Plenário -, além de expor o STF às contingências políticas de escolha de novos membros para composição da Corte (o que poderá inviabilizar o exercício de sua função típica de “guardião da Constituição Federal”), impõe um número excessivo de votos concordantes que, embora não proíba expressamente o controle de constitucionalidade pelo Poder Judiciário, torna-o inexequível na prática no âmbito dos Tribunais;
+    b) o enunciado de súmula vinculante está estritamente relacionado com a jurisprudência reiterada do STF acerca de determinado tema ou norma, não possuindo qualquer efeito vinculante limitador da função legislativa, mas atuando como “instrumento de reforço das leis”, não sendo legítimo submeter a função jurisdicional à aprovação do Congresso Nacional, sob pena de violar o princípio da independência dos Poderes;
+    c) o artigo 3º da PEC nº 33/2011 – que, além de estabelecer condição suspensiva para que decisões do STF produzam efeitos, prevê a possibilidade de o Congresso Nacional e a população decidirem pela vigência de uma emenda constitucional declarada incompatível com a CF/88 pela Suprema Corte – tem o condão não apenas de violar a independência entre os Poderes, mas também a própria existência das cláusulas pétreas instituídas pelo Poder Constituinte originário como núcleo rígido da Constituição Federal, ou seja, como limitação à atuação do Poder Constituinte reformador na edição de emendas constitucionais.
+    Requerem os impetrantes que seja concedida a ordem para determinar o arquivamento definitivo da referida proposta de emenda à Constituição, assegurando-se-lhes, assim, o direito subjetivo líquido e certo de, enquanto parlamentares, participarem da atividade de elaboração de normas compatíveis com as cláusulas constitucionais que condicionam a atuação do Poder Legislativo.
+    Deferi o prazo de 72 (setenta e duas) horas para que as autoridades impetradas se manifestassem previamente à análise do pedido de liminar, tendo a Mesa da Câmara dos Deputados e a Presidência da Comissão de Constituição e Justiça e de Cidadania (CCJC) enviado informações referentes à tramitação da PEC nº 33/2011, cujo último andamento data de 24/4/13, quando foi aprovado o parecer pela admissibilidade da proposta na CCJC.
+    Da decisão que indeferiu a liminar, pela ausência dos requisitos autorizadores para concessão da medida, o impetrante Carlos Sampaio interpôs agravo regimental no qual pugnou pela reconsideração da decisão.
+    A União requereu, em 21/5/13, seu ingresso nos presentes feitos.
+    A douta Procuradoria-Geral da República manifestou-se pela denegação da segurança, em parecer assim ementado:
+    “MANDADO DE SEGURANÇA. PROPOSTA DE EMENDA À CONSTITUIÇÃO 33/2011, EM TRÂMITE NA CÂMARA DOS DEPUTADOS. ALEGAÇÃO DE OFENSA À CLÁUSULA PÉTREA DA SEPARAÇÃO DOS PODERES.
+    1. Impetração, de autoria de Deputado Federal, direcionada a obstar o trâmite e a deliberação da Proposta de Emenda à Constituição 33/2011 na Câmara dos Deputados, porquanto, ao propor alterações à sistemática de controle de constitucionalidade de emendas à Constituição Federal, supostamente violaria à cláusula pétrea de separação dos poderes constante do art. 60, § 4º, III, da CF/1988.
+    2. Em que pese a jurisprudência no sentido da adequação do mandado de segurança por congressista contra PEC supostamente ofensiva a cláusula pétrea, a matéria merece reexame por parte da atual composição do Supremo Tribunal.
+    3. Inexistência de direito líquido e certo a ser tutelado, pois o parlamentar não se encontra obrigado a deliberar sobre a proposta de emenda à Constituição ora questionada, podendo simplesmente se abster ou votar contra a proposição, sem necessidade de intervenção do Poder Judiciário.
+    4. Inadequada a utilização do mandado de segurança como sucedâneo de controle preventivo de constitucionalidade, sob pena de se criar mecanismo de controle abstrato prévio não previsto na Constituição, conferindo a parlamentar prerrogativa não concedida nem mesmo aos legitimados para acionar o controle repressivo de constitucionalidade (art. 103 da CF/1988).
+    5. Parecer pela denegação da segurança (art. 6º, § 5º, da Lei 12.016/2009), restando prejudicado o agravo regimental interposto contra o indeferimento da liminar.”
+    Em despacho publicado no dia 21/09/2015, solicitei informações à Câmara dos Deputados acerca da tramitação da PEC nº 33/2011, atendidas em 08/10/2015, reportando que a mesma fora arquivada, de modo definitivo, “no final da 54ª Legislatura, em 31 e janeiro de 2015, nos termos do art.105 do Regimento Interno da Câmara dos Deputados – RICD”.
+    É o relatório. Decido.
+    Preliminarmente, defiro o pedido de ingresso da União nos presentes feitos, conforme solicitado nas petições nºs 24192/2013 e 24194/2013.
+    O mandado de segurança é remédio constitucional colocado à disposição do jurisdicionado quando seu direito líquido e certo estiver sendo violado ou ameaçado de lesão por ato de autoridade. Vide o que dispõe o artigo 5º, inciso LXIX, da Constituição Federal:
+    “Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+    (...)
+    LXIX - conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por 'habeas-corpus' ou 'habeas-data', quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público; (grifou-se).”
+    Os impetrantes, por meio dos presentes writs, questionam, especificamente, a tramitação e deliberação da PEC nº 33/2011, que estaria em desacordo com as normas constitucionais.
+    As ações foram ajuizadas com o objetivo de que fosse reconhecida a inconstitucionalidade da Proposta de Emenda à Constituição e que fosse determinado o arquivamento definitivo da proposição.
+    Em consulta ao sítio eletrônico da Câmara dos Deputados, pelo número da proposição, verifico que, em data de 31/1/2015, constou a seguinte observação em sua tramitação:
+    “31/01/2015 - Mesa Diretora da Câmara dos Deputados ( MESA )
+    - Arquivada nos termos do Artigo 105 do Regimento Interno da Câmara dos Deputados.”
+    Por sua vez, o art. 105 do Regimento Interno da Câmara dos Deputados, dispõe:
+    “Art. 105. Finda a legislatura, arquivar-se-ão todas as proposições que no seu decurso tenham sido submetidas à deliberação da Câmara e ainda se encontrem em tramitação, bem como as que abram crédito suplementar, com pareceres ou sem eles, salvo as:
+    I – com pareceres favoráveis de todas as Comissões;
+    II – já aprovadas em turno único, em primeiro ou segundo turno;
+    III – que tenham tramitado pelo Senado, ou dele originárias;
+    IV – de iniciativa popular;
+    V – de iniciativa de outro Poder ou do Procurador-Geral da República.” (grifei)
+    A Proposta de Emenda à Constituição nº 33/2011 foi apresentada pelo ex-Deputado Federal Nazareno Fonteles em 25/5/11. Assim, tendo a 54ª legislatura (2011-2015) se encerrado em 31/1/15, a PEC foi arquivada.
+    Entretanto, o parágrafo único do art. 105, traz uma possibilidade de desarquivamento da proposição:
+    “Parágrafo único. A proposição poderá ser desarquivada mediante requerimento do Autor, ou Autores, dentro dos primeiros cento e oitenta dias da primeira sessão legislativa ordinária da legislatura subsequente, retomando a tramitação desde o estágio em que se encontrava.” (grifei)
+    Conforme informação retirada do sítio eletrônico da Câmara dos Deputados, a primeira sessão legislativa ordinária da legislatura subsequente ocorreu em 3/2/15. Portanto, 180 (cento e oitenta dias) contados dessa data ocorreu em 2/8/15, sem que constasse qualquer manifestação acerca de seu desarquivamento na tramitação da PEC, situação confirmada pelo Presidente da Câmara dos Deputados que, em informações prestadas, é categórico ao afirmar o caráter definitivo do arquivamento visto que transcorrera in alibis o prazo para um possível desarquivamento.
+    Ademais, o autor da proposição, o qual poderia solicitar o desarquivamento da PEC não exerce mais o cargo de Deputado Federal.
+    Nessa conformidade, uma vez que i) a intenção dos impetrantes consiste no arquivamento definitivo da Proposta de Emenda à Constituição nº 33/2011 e ii) a proposta foi arquivada e que, de acordo com o Regimento Interno da Câmara dos Deputados, não há mais possibilidade de seu desarquivamento, sobreveio situação processualmente relevante, apta a caracterizar, na espécie, a ocorrência de prejudicialidade ao exame dos mandamus, por perda superveniente de objeto.
+    Nesse sentido:
+    “Mandado de Segurança. 2. Eleitoral. Possibilidade de perda de mandato parlamentar. 3. Princípio da fidelidade partidária. Inaplicabilidade. Hipótese não colocada entre as causas de perda de mandado a que alude o art. 55 da Constituição. 4. Controvérsia que se refere a Legislatura encerrada. Perda de objeto. 5. Mandado de Segurança julgado prejudicado” (MS nº 23.405/GO, Relator o Ministro Gilmar Mendes, Tribunal Pleno, DJ de 23/4/04).
+    Ante o exposto julgo prejudicado estes mandados de segurança, nos termos do artigo 21, inciso IX, do RISTF. Prejudicada a apreciação do agravo regimental interposto da decisão que indeferiu a liminar.
+    Publique-se. Intime-se.
+    Brasília, 27 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
