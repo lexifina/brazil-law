@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Tratam-se de agravos interpostos contra a decisão que não admitiu recursos extraordinários interpostos contra acórdão da 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “APELAÇÃO CÍVEL DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE EXERCÍCIO TEMPORÁRIO DE ATIVIDADE PENITENCIÁRIA. GETAP. CARÁTER PROPTER LABOREM. PADRÃO REMUNERATÓRIO MÁXIMO. POSSIBILIDADE. FIXAÇÃO DE COTAS. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA.
+    1.O direito ao recebimento de gratificações, porquanto se trate de verba de caráter transitório, está diretamente vinculado ao exercício das atribuições que lhes motivam a percepção, evidenciando o caráter propter laborem e, portanto, os valores a elas pertinentes somente são devidos ante o efetivo exercício.
+    2.A GETAP é transitória, sendo devida a todos os servidores que estão lotados há mais de seis meses no Sistema Penitenciário do Distrito Federal e que exerçam cargo efetivo cuja atribuição não abranja a atividade penitenciária, mas estão, de fato, prestando efetivamente o serviço dentro do Sistema Penitenciário do Distrito Federal.
+    3. Não há que se confundir o teto remuneratório previsto no art. 37, inc. Xl da Constituição Federal com os padrões remuneratórios para o pagamento da GETAP estabelecidos pelas Leis Distritais n°. 3.786/2006 e n°. 4.123/2008.
+    4. O pagamento da GETAP previsto na Lei Distrital n°. 5.190, de 25/09/2013, ao limitar os beneficiários ao número máximo de 156 servidores, viola o princípio da isonomia, já que exclui os servidores que excedem à referida quota o direito de receber a gratificação, ainda que estando lotados no mesmo local e submetidos ao mesmo regime de trabalho.
+    5. Recurso conhecido e parcialmente provido”
+    Opostos embargos de declaração, foram rejeitados.
+    Distrito Federal, no seu apelo extremo, sustenta violação dos artigos 5º, inciso XXXV, 93, inciso IX, e 97 da Constituição Federal, assim como da Súmula Vinculante nº 10.
+    Deuzeli Lina de Oliveira e Outros, em seu recurso extraordinário, alega violação dos artigos 5º, caput, e 37, inciso XI, da Constituição Federal.
+    Decido.
+    No que se refere ao recurso interposto pelo Distrito Federal, o Plenário desta Corte, concluiu, no exame do RE nº 870.947/SE, Relator o Ministro Luiz Fux, pela existência da repercussão geral da matéria suscitada no presente recurso extraordinário, relativa à validade ou não, da correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública segundo os índices oficiais de remuneração básica da caderneta de poupança (Taxa Referencial - TR), conforme determina o art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009. Esse assunto corresponde ao tema 810 da Gestão por Temas da Repercussão Geral do STF na internet.
+    Já no que concerne ao apelo extremo de Deuzeli Lina de Oliveira e Outros, a irresignação não merece prosperar, haja vista que as instâncias de origem decidiram a lide amparadas na legislação local pertinente, Leis Distritais nº 3.789/2006 e 4.123/2008. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 280 desta Corte. Sobre o tema:
+    “Agravo regimental no recurso extraordinário. Servidor público militar. Majoração de vencimentos. Lei nº 12.528/95. Efeitos financeiros. Legislação local. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem decidiu a controvérsia com base na Leis nºs 12.528/95 e 12.590/96 do Estado do Ceará e nos fatos e nas provas dos autos. 2. O recurso extraordinário não se presta ao exame de matéria ínsita ao plano normativo local, tampouco ao reexame do conjunto probatório da causa. Incidência das Súmulas nºs 279 e 280 desta Corte. 3. Agravo regimental não provido”
+(RE nº 451.833/CE-AgR, Primeira Turma, de minha relatoria, DJe de 1/8/12).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao apelo de Deuzeli Lina de Oliveira e Outros, e, nos termos do art. 328 do Regimento Interno do Supremo Tribunal Federal, determino a devolução dos autos referentes ao recurso extraordinário interposto pelo Distrito Federal ao Tribunal de origem para aplicação da sistemática da repercussão geral.
+    Publique-se.
+    Brasília, 28 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+    Documento assinado digitalmente
