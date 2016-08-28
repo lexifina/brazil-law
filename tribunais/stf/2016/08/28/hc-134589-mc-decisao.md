@@ -1,0 +1,20 @@
+DECISÃO
+PENA – REGIME DE CUMPRIMENTO – ARTIGO 33, § 3º, DO CÓDIGO PENAL.
+PENA – SUBSTITUIÇÃO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Dipo 3 – Foro Central da Barra Funda, na Comarca de São Paulo, processo nº 0001467-05.2016.8.26.0050, converteu a prisão em flagrante do paciente, ocorrida em 11 de janeiro de 2016, em preventiva, ante o suposto cometimento do delito versado no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Reportou-se à apreensão de 22 porções e 5 tabletes de maconha e de 20 unidades de cocaína. Apontou o risco à ordem pública e à aplicação da lei penal, destacando não ter sido demonstrado o vínculo com o distrito da culpa.
+    Na sentença, estabeleceu a pena-base acima do patamar mínimo, 6 anos de reclusão e 600 dias-multa, considerada a quantidade de entorpecente, a diversidade de substâncias, a natureza da droga apreendida, o alto grau destrutivo e de dependência. Na segunda fase, observou a menoridade, reduzindo a reprimenda ao mínimo legal. Por ser o paciente primário e não haver informações de que se dedique a atividade criminosa, aplicou o § 4º do artigo 33 da mencionada lei, promovendo a diminuição da sanção, fixando-a, definitivamente, em 1 ano e 8 meses de reclusão, em regime fechado, e 166 dias-multa. Justificou a imposição do regime em razão da hediondez, referindo-se à quantidade de droga e à gravidade concreta do delito. Afastou a substituição da pena por restritiva de direitos, consignando ser inviável a aplicação de qualquer benefício penal, reportando-se a precedente do Superior Tribunal de Justiça, que, em caso semelhante, reconheceu surgir inviável a substituição, aludindo ao artigo 44, inciso III, do Código Penal. Negou ao paciente o direito de recorrer em liberdade, assentando necessário assegurar a aplicação da lei penal, ante a condenação formalizada.
+    No Tribunal estadual, buscou-se a revogação da constrição e o implemento da substituição. O Relator inadmitiu a impetração, porque substitutiva de recurso.
+    No Superior Tribunal de Justiça, o Relator indeferiu liminarmente o habeas corpus nº 357.279/SP, salientando não ter o Tribunal de origem apreciado as questões suscitadas pela defesa, o que implicaria supressão de instância.
+    Este habeas volta-se contra essa decisão. Os impetrantes retomam a argumentação anteriormente expendida. Alegam violação ao disposto no artigo 33, § 2º, do Código Penal, a ensejar o reconhecimento do direito ao regime aberto, afastando-se a imposição do fechado. Ressaltam a inobservância dos verbetes nº 718 e nº 719 da Súmula do Supremo. Dizem haver o Senado Federal promulgado a Resolução nº 5/2012, suspendendo a eficácia do artigo 44 da Lei nº 11.343/2006, norma proibitiva da conversão da pena privativa de liberdade em restritiva de direitos aos réus condenados por tráfico privilegiado, presente o julgamento do habeas corpus nº 97.256/RS pelo Supremo.
+    Requerem, em âmbito liminar, a substituição da pena privativa de liberdade por restritiva de direitos e, sucessivamente, o estabelecimento do regime aberto, expedindo-se alvará de soltura. No mérito, pretendem a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 9 de agosto de 2016, revelou a interposição de apelação pela defesa.
+    A fase é de análise do pleito de medida acauteladora.
+    2. O regime de cumprimento da reprimenda é fixado a partir das circunstâncias judiciais – artigo 33, § 3º, do Código Penal. A pena-base, ante a incidência do disposto no artigo 59 do Código Penal, foi imposta acima do mínimo previsto para o tipo. Quanto à substituição da pena privativa de liberdade pela restritiva de direitos, o Juízo fez ver a inadequação.
+    O acolhimento de pedido formulado em habeas corpus pressupõe a ilegalidade de ato, sendo insuficiente o sentimento de injustiça.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília – residência –, 28 de agosto de 2016, às 11h50.
+Ministro MARCO AURÉLIO
+Relator
