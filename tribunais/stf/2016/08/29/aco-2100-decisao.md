@@ -1,0 +1,20 @@
+Decisão: Trata-se de ação cível originária, distribuída por dependência à AC 3083, ajuizada pelo Estado de Roraima em desfavor da Eletrobrás, filial situada em Roraima (Eletrobrás Distribuição Roraima: Boa Vista Energia S/A), conforme consta na petição inicial (eDOC 2), com o objetivo de impedir/suspender a restrição do ente federativo no sistema CADIN.
+    Chamo o feito à ordem.
+    Analisando melhor os autos, verifico ser o caso de não conhecer da presente ação cível originária por manifesta incompetência do Supremo Tribunal Federal.
+    Isso porque o art. 102, I, “f”, da Constituição, estabelece a competência originária desta Corte para “as causas e os conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da administração indireta”.
+    Ocorre que a Eletrobrás S/A é sociedade de economia mista e, portanto, ostenta personalidade jurídica de direito privado, de maneira que eventual inscrição por ela efetuada no cadastro de inadimplentes não é suficiente para a caracterização do conflito federativo.
+    Ademais, destaque-se que as sociedades de economia mista não possuem as mesmas prerrogativas da Fazenda Pública. Nesse sentido, cito o seguinte precedente:
+    “Agravo regimental no recurso extraordinário com agravo. Direito processual civil. Empresa pública. Prerrogativas processuais da fazenda pública. Inexistência. Análise da legislação local. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A jurisprudência da Corte é firme no sentido de que as prerrogativas processuais da fazenda pública não são extensíveis às empresas públicas ou às sociedades de economia mista. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279, 280 e 636/STF. 3. Agravo regimental não provido”. (ARE-AgR 700.429, Rel. Min. Dias Toffoli, Primeira Turma, DJe 14.11.2014) (grifei)
+    Analogicamente, é importante citar o entendimento firmado por esta Corte no RE 599.628, correspondente ao tema 253 da sistemática de repercussão geral, cuja ementa transcrevo:
+    “FINANCEIRO. SOCIEDADE DE ECONOMIA MISTA. PAGAMENTO DE VALORES POR FORÇA DE DECISÃO JUDICIAL. INAPLICABILIDADE DO REGIME DE PRECATÓRIO. ART. 100 DA CONSTITUIÇÃO. CONSTITUCIONAL E PROCESSUAL CIVIL. MATÉRIA CONSTITUCIONAL CUJA REPERCUSSÃO GERAL FOI RECONHECIDA. Os privilégios da Fazenda Pública são inextensíveis às sociedades de economia mista que executam atividades em regime de concorrência ou que tenham como objetivo distribuir lucros aos seus acionistas. Portanto, a empresa Centrais Elétricas do Norte do Brasil S.A. - Eletronorte não pode se beneficiar do sistema de pagamento por precatório de dívidas decorrentes de decisões judiciais (art. 100 da Constituição). Recurso extraordinário ao qual se nega provimento”. (RE-RG 599.628, Rel. Min. Ayres Britto, Rel. p/ Acórdão Min. Joaquim Barbosa, Tribunal Pleno, DJe 17.10.2011) (grifei)
+    Dessa forma, assim como a Eletronorte S/A não possui os privilégios da Fazenda Pública no caso do paradigma da repercussão geral, a Eletrobrás S/A também não os ostenta no caso vertente.
+    Portanto, sem as prerrogativas da Fazenda Pública, tem-se que o foro correspondente é o geral de qualquer pessoa jurídica de direito privado, não se aplicando a norma de conflito federativo a invocar a competência desta Corte prevista no art. 102, I, “f”, da CF.
+    Ad argumentandum tantum, é importante salientar que se trata de filial específica situada naquele estado da federação, não envolvendo a sede.
+    Assim, estando a filial situada no Estado de Roraima, lá se situa o foro competente para apreciar a presente demanda.
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, evidenciada a incompetência do Supremo Tribunal Federal para a presente causa, determino a remessa dos autos à Justiça Estadual de Roraima, para os devidos fins de direito.
+    Translade-se esta decisão para a AC 3083.
+    Publique-se. Intimem-se.
+    Brasília, 29 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
