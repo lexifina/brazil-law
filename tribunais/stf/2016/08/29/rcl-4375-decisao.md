@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de reclamação na qual se sustenta que o ato ora impugnado – emanado do E. Tribunal de Justiça do Estado do Rio de Janeiro (Agravo de Instrumento nº 2006.002.08645) – teria desrespeitado a autoridade da decisão que esta Suprema Corte proferiu no julgamento do RE 411.711/RJ, Rel. Min. ELLEN GRACIE.
+    Em consulta aos registros processuais que o Supremo Tribunal Federal mantém em sua página oficial na “Internet”, constatei que o eminente Ministro ROBERTO BARROSO, atual Relator do recurso extraordinário em questão, reconsiderou, em 07/04/2015, a decisão proferida pela Ministra ELLEN GRACIE e determinou a devolução dos autos do mencionado RE 411.711/RJ ao Tribunal de origem, para que, neste, fosse observado o disposto no art. 543-B do CPC/73. Eis o teor desse ato decisório:
+    “Trata-se de agravo regimental cujo objeto é decisão monocrática da Ministra Ellen Gracie, relatora originária do feito, que deu provimento ao recurso extraordinário, por estar o acórdão recorrido em desconformidade com a jurisprudência do Supremo Tribunal Federal no sentido de que o candidato aprovado em concurso público detém apenas mera expectativa de direito, não direito à nomeação (fls. 454/455).
+    A parte agravante alega que ‘o acórdão do TJ/RJ se orientou no sentido da atual jurisprudência do STF que afirma o direito subjetivo do concursado à nomeação, se durante o prazo de vigência do concurso ocorre contratação de terceiro para preenchimento de vaga’.
+    O Supremo Tribunal Federal, em decisão plenária, nos autos do RE 837.311-RG, sob a relatoria do Ministro Luiz Fux, reconheceu a existência de repercussão geral da matéria ora em debate – direito à nomeação de candidato aprovado fora do número de vagas previstas em edital de concurso público, quando surgirem novas vagas durante a validade do certame – (Tema 784). O tema ficou assim ementado:
+    ‘RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONTROVÉRSIA SOBRE O DIREITO SUBJETIVO À NOMEAÇÃO DE CANDIDATOS APROVADOS FORA DO NÚMERO DE VAGAS PREVISTAS NO EDITAL DE CONCURSO PÚBLICO  NO CASO DE SURGIMENTO DE NOVAS VAGAS DURANTE O PRAZO DE VALIDADE DO CERTAME. TEMA 784. REPERCUSSÃO GERAL RECONHECIDA.’
+    Ressalta-se que esta Corte entendeu que o regime de que trata o art. 543-B do Código de Processo Civil é aplicável inclusive aos recursos extraordinários interpostos contra acórdãos cuja intimação houver ocorrido antes de 03.05.2007 (Questão de Ordem no RE 540.410, Rel. Min. Cezar Peluso).
+    Diante do exposto, reconsidero a decisão agravada e determino a devolução dos autos ao Tribunal de origem, para os fins do art. 543-B do CPC. Julgo prejudicado o agravo regimental.” (grifei)
+    A ocorrência desse fato assume relevo processual, pois faz instaurar, no caso, situação de prejudicialidade, apta a gerar a extinção desta ação reclamatória em virtude da superveniente perda de seu objeto.
+    Sendo assim, e tendo em consideração as razões expostas, julgo prejudicada a presente reclamação em virtude da perda superveniente de seu objeto.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 29 de agosto de 2016.
+Ministro CELSO DE MELLO
+Relator
