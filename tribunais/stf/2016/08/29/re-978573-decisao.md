@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Lires Zuffo Giordani interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. TÉCNICO DO SEGURO SOCIAL. DESVIO DE FUNÇÃO NÃO CONFIGURADO.
+    O Superior Tribunal de Justiça possui entendimento no sentido de que, reconhecido o desvio de função, o servidor faz jus às diferenças salariais dele decorrentes.
+    No caso, não se vislumbra que as tarefas desempenhadas pela parte autora eram, de modo permanente, exclusivas do cargo de analista do seguro social.”
+    Opostos embargos declaratórios, foram providos, em parte, para fins de prequestionamento.
+    Sustenta a recorrente contrariedade aos artigos 5º, caput e incisos LIV e LV, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Por outro lado, colhe-se do voto condutor do acórdão recorrido a seguinte fundamentação, extraída da sentença e adotada como razões de decidir:
+    “Observe-se o teor de trecho do depoimento da testemunha Cleonice Dariva, ao relatar as atividades desenvolvidas pela parte autora (Carta Precatória n.º 5008993- 12.2012.404.7005, evento 14, VÍDEO3):
+    'atendimento ao público, habilitar benefício, instruir processos de benefícios, despachar, analisar, fazer despacho de processo de benefício, implantar benefício, todas as atividades inerentes aos benefícios da previdência social (...)'
+    A testemunha Bernadete Welter afirmou ter ingressado no serviço público no cargo de Agente Administrativo, posteriormente transformado em Técnico do Seguro Social. Acrescentou que ela e a autora atendem, orientam, recebem documentação, analisam e concedem benefícios. Segundo a testemunha, a autora detém poder de decisão, não havendo necessidade de confirmação das decisões por servidor de hierarquia superior.
+    Já o testigo Marcelo Morobu Takano informou que é Analista do Seguro Social; que faz o mesmo serviço que todos os servidores (atendimento ao público, análise de processos, concessão de benefícios, justificação administrativa). Arrematou que todos os servidores fazem praticamente a mesma coisa.
+    No mesmo sentido foi o depoimento da autora e dos testigos Cláudio Luiz Batagin e Domício Fernandes de Mattos.
+    Ainda, dos depoimentos prestados conclui-se que as atividades realizadas pela autora eram habituais e permanentes.
+    Os depoimentos prestados pelas testemunhas e pela autora estão em consonância com a farta documentação carreada com a inicial. De acordo com os documentos trazidos no evento 1 (OUT7 a 11) durante esse período de 2007 a 2011, a autora foi responsável pela concessão de alguns benefícios previdenciários.
+    (…)
+    Da análise das atribuições do cargo Agente de Serviços Diversos, observa-se que, dentre elas, há atribuições genéricas, como 'a execução de outras atividades inerentes às competências do INSS'.
+    Ora, em face da existência de atribuição genérica para o cargo Agente de Serviços Diversos, não há que falar em desvio de função.”
+    Nesse caso, para acolher a pretensão da recorrente e ultrapassar o entendimento firmado pelo Tribunal local de que não restou caracterizado o desvio de função alegado na inicial seria necessário o reexame da legislação infraconstitucional pertinente e do conjunto fático-probatório constante dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636 desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ALEGADO DESVIO DE FUNÇÃO. RECLASSIFICAÇÃO NÃO RECONHECIDA NA ORIGEM: IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 723.203/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 6/3/12).
+    “CONSTITUCIONAL E TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE DESVIO DE FUNÇÃO. SÚMULA STF 279. 1. Para divergir da conclusão a que chegou o Tribunal a quo acerca da existência de desvio de função, seria necessária a análise do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279). 2. Agravo regimental a que se nega provimento” (AI nº 815.680/RS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie , DJe de 9/2/11).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
