@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. MAGISTÉRIO ESTADUAL. PROMOÇÃO DE CLASSE. RETROATIVIDADE. ATO DISCRICIONÁRIO. IMPOSSIBILIDADE. SÚMULA 42 DO TJRS. 1. Não merece prosperar a pretensão de ver atribuído efeito retroativo à promoção de servidor público, com consequente condenação ao pagamento de diferenças remuneratórias retroativas, a considerar a ausência de previsão neste sentido no ato. 2. Pedido que encontra óbice na regra geral da irretroatividade dos atos administrativos e no fato de que o ato de promoção é discricionário do poder concedente, não alçando ao Poder Judiciário impô-lo, sob pena de afronta ao principio constitucional da independência dos poderes. 3. Norte que coaduna com o teor do enunciado da Súmula nº 42 do TJRS. Ação julgada improcedente na origem”. (eDOC 1, p. 124)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 1º; 5º,caput, XXXIV, XXXV; 6º; 7º, X; e 37, caput, do texto constitucional.
+    Nas razões recursais, alega-se que a promoção é ato vinculado e que deve ser atribuído efeito retroativo às promoções previstas no plano de carreira do magistério estadual.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie, Lei 6.672/1974, consignou que não existe previsão legal que possibilite a retroatividade das promoções.
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas desta Corte:
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Servidor público. Promoção. Publicação. Efeitos. Legislação local. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alegam violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 280 e 279/STF. 3. Agravo regimental não provido.” (ARE 781977 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 24.2.2014)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. PROFESSOR ESTADUAL. PROMOÇÃO NA CARREIRA. CASO EM QUE ENTENDIMENTO DIVERSO DO ADOTADO PELA INSTÂNCIA JUDICANTE DE ORIGEM EXIGIRIA O REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. 1. Eventual ofensa ao Magno Texto apenas ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via recursal extraordinária. 2. Agravo regimental desprovido.” (AI 459701 AgR, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 20.4.2012)
+    Além disso, é entendimento sumulado desta Corte que “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.” (Súmula 636 do STF).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
