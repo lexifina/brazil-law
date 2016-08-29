@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS.
+PRISÃO PREVENTIVA – EXCESSO DE PRAZO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Central de Flagrantes de Belo Horizonte/MG, no processo nº 024.15.122.225-4, converteu as prisões em flagrante dos pacientes, ocorridas em 28 de abril de 2015, em preventivas, tendo em vista o suposto cometimento do delito descrito no artigo 157, § 2º, incisos I e II (roubo majorado com emprego de arma e concurso de pessoas), do Código Penal. Assentou a gravidade da prática criminosa, indicando a periculosidade dos pacientes. Entendeu ser inadequada a aplicação de medidas cautelares diversas da custódia, destacando mostrar-se necessária à garantia da ordem pública. Ressaltou o crescente número de infrações e a real possibilidade de os pacientes voltarem a delinquir.
+    Impetrou-se habeas corpus no Tribunal de Justiça, pleiteando-se a revogação das constrições. Aduziu-se a ausência dos requisitos autorizadores de segregação cautelar. A Terceira Câmara Criminal indeferiu a ordem. Consignou que a medida deveria ser mantida ante a prova da existência do crime, os indícios suficientes de autoria e a gravidade do delito.
+    No Superior Tribunal de Justiça, foi protocolado o recurso ordinário em habeas corpus nº 62.013/SP. Reafirmou-se a presença de constrangimento ilegal consubstanciado na falta dos pressupostos a justificarem a continuidade das preventivas. Aludiu-se às condições pessoais favoráveis dos pacientes. A Quinta Turma negou provimento ao recurso. Sublinhou a periculosidade, evidenciada pelo modo de agir no cometimento da infração. Asseverou que a liberdade dos pacientes colocaria em risco a ordem pública, referindo-se aos dados concretos extraídos do processo.
+    Neste habeas, a impetrante retoma os argumentos expendidos anteriormente. Frisa a utilização de elementos abstratos e inerentes ao tipo penal para respaldar a manutenção das prisões.
+    Requer, liminarmente, o afastamento das custódias. No mérito, busca a confirmação da providência.
+    Em sentença condenatória, datada de 29 de setembro de 2015, negou-se aos pacientes o direito de recorrerem em liberdade, mencionando-se persistirem os motivos ensejadores das constrições.
+    Em consulta ao sítio do Tribunal estadual, em 16 de agosto de 2016, constatou-se a interposição de recurso de apelação pela defesa. O processo foi remetido ao Tribunal em 26 de junho de 2016, pendente de julgamento pela Terceira Câmara Criminal.
+    A fase é de exame da medida acauteladora.
+    2. A leitura do ato que implicou a conversão das prisões em flagrante em preventivas revela haver sido considerada, tão somente, a imputação. O ordenamento jurídico não contempla a custódia automática ante o crime possivelmente praticado. Levou-se em conta a periculosidade e a possibilidade de reiteração, sem elementos concretos a embasá-las, partindo da capacidade intuitiva. Colocou-se em segundo plano a primariedade e os bons antecedentes, elementos que sempre devem ser observados pelo julgador.
+    Na sentença, ao manter as constrições, o Juízo reiterou as premissas ensejadoras da conversão dos flagrantes em preventivas, sem veicular dado individualizado, a demonstrar a indispensabilidade da medida. Surge inalterada a natureza provisória das segregações, conforme preceitua o § 1º do artigo 387 do Código de Processo Penal.
+    Mais do que isso: sem culpa formada, os pacientes, na data de hoje, encontram-se recolhidos há mais de 1 ano e 3 meses, período a configurar o excesso de prazo.
+    3. Defiro a liminar pleiteada. Expeçam alvarás de soltura a serem cumpridos com as cautelas próprias: caso os pacientes não estejam presos por motivo diverso do retratado, em termos de preventiva, no processo nº 1197365-14.2015.8.13.0024, da Décima Primeira Vara Criminal da Comarca de Belo Horizonte/MG. Advirtam-nos da necessidade de permanecerem nas residências indicadas ao Juízo, atendendo aos chamamentos judiciais, de informarem eventual transferência e de adotarem a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 29 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
