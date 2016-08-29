@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão de Turma Recursal dos Juizados Especiais da Seção Judiciária de Pernambuco, cuja ementa transcrevo no que interessa:
+    “CONSTITUCIONAL — ADMINISTRATIVO — GRATIFICAÇÃO PAGA A SERVIDORES DA ATIVA — EXTENSÃO A SERVIDORES INATIVOS/PENSIONISTAS — POSSIBILIDADE — PRECEDENTES DO C. STF — GRATIFICAÇÃO DE CARÁTER GERAL — HONORÁRIOS ADVOCATÍCIOS — RECURSO INOMINADO IMPROVIDO”. (eDOC 15)
+    No recurso extraordinário, interposto com fundamento no art. 102, III,”a”, da Constituição Federal, aponta-se violação aos arts. 5º, caput; 40, § 8º, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão recorrido teria violado o princípio da isonomia.
+    Decido.
+    O recurso não suporta conhecimento.
+    O Tribunal de origem, ao realizar o juízo de admissibilidade do recurso extraordinário, entendeu que, no que se refere à discussão acerca da Gratificação De Desempenho Do Plano Geral de Cargos o Poder Executivo – GDPGPE – LEI Nº 11.357/06, o acórdão proferido pela Turma Recursal está em consonância com o entendimento do STF firmado no âmbito da repercussão geral (RE-RG 631.389, Rel. Min. Marco Aurélio, DJe 18.2.2011), motivo pela qual inadmitiu o recurso. Assentou ainda que a controvérsia acerca da violação ao princípio da isonomia frente o pagamento integral de ratificação a aposentado com proventos proporcionais, não ofenderia diretamente a Constituição Federal.
+    Cumpre esclarecer que a matéria supostamente remanescente referente à ofensa à isonomia está englobada no paradigma invocado pelo Tribunal de origem.
+    Assim, registre-se que o Plenário decidiu não ser cabível recurso ao Supremo Tribunal Federal contra aplicação do procedimento da repercussão geral nas instâncias originárias. Transcrevo a ementa do AI-QO 760.358, de minha relatoria, DJe 18.2.2010:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem”.
+    Ante o exposto, não conheço do presente, com relação à matéria de fundo, por incabível.
+    Publique-se.
+    Brasília, 29 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
