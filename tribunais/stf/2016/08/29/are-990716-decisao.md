@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, CAPUT, DA CONSTITUIÇÃO DA REPÚBLICA: IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base no art. 102, inc. III, al. a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “APELAÇÃO CRIMINAL CRIMINAL – Tráfico de entorpecentes e condutas afins – Acusação pleiteia seja o redutor previsto no § 4º do art. 33 da Lei de Drogas aplicado em seu patamar mínimo, bem como seja imposto o regime prisional fechado para início de cumprimento da reprimenda – Cabimento – Aplicada a causa de diminuição referida no mínimo legal, diante da vultosa quantidade de entorpecente apreendida em poder do réu, a demandar, inclusive, o afastamento do redutor em apreço, que resta mantido tão somente diante da proibição da ‘reformatio in pejus’ - Regime fechado necessário para a conscientização da ilicitude e único apto a prevenir a reincidência – Recurso ministerial provido”.
+    2. Inadmitiu-se o recurso extraordinário sob os seguintes fundamentos: a) ausência de prequestionamento (Súmula n. 282 do Supremo Tribunal Federal); b) necessidade de análise das provas (Súmula n. 279 do Supremo Tribunal Federal); c) deficiência na fundamentação (Súmula n. 284 do Supremo Tribunal).
+    3. O Agravante alega ter o Tribunal de origem contrariado o art. 5º, caput, da Constituição da República.
+    Argumenta existir valoração incorreta das provas acostadas aos autos pelo Tribunal de origem.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. Este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, caput, da Constituição da República, se dependente do exame da legislação infraconstitucional (Código Penal e Código de Processo Penal), inviabiliza o recurso extraordinário, pois eventual ofensa constitucional, se tivesse ocorrido, seria indireta:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA PENAL. AUSÊNCIA DE PREQUESTIONAMENTO E OFENSA REFLEXA. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA RECONHECIDO PELO TRIBUNAL DE ORIGEM E NÃO APLICADO PELA EXISTÊNCIA DE REGISTRO ANTERIOR. POSTERIOR ABSOLVIÇÃO. HABEAS CORPUS CONCEDIDO DE OFÍCIO. PRECEDENTES. Ausência de prequestionamento. Questão não ventilada no acórdão recorrido e que não foi suscitada em embargos de declaração. Óbice previsto pelos enunciados das Súmulas 282 e 356/STF. Alegação de violação do art. 5º, caput, XXXIX e LVII, da Constituição Federal. Necessidade de exame prévio de norma infraconstitucional (Lei 10.522/2002) para a verificação de contrariedade à Carta Magna. Caracterização de ofensa reflexa ou indireta” (AI n. 580.458-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 8.10.2010).
+    “EMENTA: CONSTITUCIONAL. PENAL. RECURSO EXTRAORDIN ÁRIO: ALEGAÇÃO DE OFENSA AO ART. 5º, LV E LVII. PRESCRIÇÃO. EXAME DO MÉRITO: PREJUDICADO. I - Alegação de ofensa à Constituição que, se ocorrente, seria indireta, reflexa, o que não autoriza a admissão do recurso extraordinário. II. - Declarada a extinção da punibilidade pela ocorrência da prescrição da pretensão punitiva, fica prejudicado o exame do mérito do recurso de apelação. III. - Agravo não provido” (RE n. 345.577-AgR, Relator o Ministro Carlos Velloso, Segunda Turma, 19.12.2002).
+    6. Pelo exposto, nego seguimento a este agravo (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 29 de agosto de 2016.
+ Ministra CÁRMEN LÚCIA
+Relatora
