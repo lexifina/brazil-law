@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão proferido pelo Tribunal de Justiça do Estado do Paraná nos autos da Apelação Criminal n. 1.031.796-5 (eDOC 5, p. 111-125).
+    Opostos embargos de declaração, estes foram rejeitados. (eDOC 5, p. 140)
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido violou o devido processo legal e a Súmula 523 do Supremo Tribunal Federal. (eDOC 6, p. 9-28)
+    Em síntese, alega-se a necessidade de aplicação do § 4º do art. 33 e art. 46 da Lei 11.343/2006, bem como pretende-se o reconhecimento da insignificância do delito previsto no art. 16 da Lei 10.826/2003.
+    A irresignação não foi admitida por deficiência de fundamentação. (eDOC 6, p. 50-51)
+    Contra referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário e refuta os fundamentos da decisão recorrida. (eDOC 6, p. 66-73)
+    É o relatório.
+    Decido.
+    Inicialmente, a tese ventilada no arrazoado do recurso extraordinário, apontando afronta ao texto constitucional, não foi discutida no acórdão contestado. Incide neste caso o óbice das Súmulas 282 e 356 do STF. Nesse sentido, cito o seguinte precedente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - Nos termos da orientação firmada pelo Supremo Tribunal Federal, cabe à parte agravante impugnar todos os fundamentos da decisão. Incidência da Súmula 283 do STF. III - Agravo regimental a que se nega provimento”. (ARE 790.511/MG AgR, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, unânime, DJe 15.4.2015)
+    Ainda que fosse possível ultrapassar tal óbice, examinando as razões expendidas, tanto no agravo quanto no próprio extraordinário, necessário concluir pela inexistência de argumento apto a permitir o conhecimento da controvérsia, em virtude da manifesta ausência de fundamentação, incindindo na espécie a Súmula 284 do STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+    Com efeito, o recorrente cinge-se a citar os dispositivos infraconstitucionais que entende ofendidos sem, contudo, apontar as razões concretas pelas quais assim conclui, buscando apenas dar outra valoração ao conjunto fático-probatório que serviu de fundamento para não aplicação das causas de diminuição invocadas pelo recorrente.
+    Assim, inviável o conhecimento da pretensão nesses termos, porquanto a reanálise de toda a instrução probatória para a dedução das alegações do recorrente é vedada no âmbito do recurso extraordinário, tendo em vista o disposto na Súmula 279/STF.
+    Ademais, tivesse ocorrido erro na aplicação da norma penal material, in casu, § 4º do art. 33 e art. 46 da Lei 11.343/2006, tal situação, por si só, não atrairia a competência constitucional desta Corte.
+    Por último, no que tange à alegação do princípio da intervenção mínima e irrelevância penal do fato, esta Corte já fixou o entendimento no sentido de que não possui repercussão geral o recurso extraordinário fundamentado na aplicação do princípio da insignificância (tema 183). Eis a ementa desse julgado:
+    “Recurso. Extraordinário. Inadmissibilidade. Princípio da insignificância. Atipicidade da conduta. Ofensa ao art. 5°, incs. XXXV, LV e LIV, da Constituição Federal. Inocorrência. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão do reconhecimento de aplicação do princípio da insignificância, porque se trata de matéria infraconstitucional. (AI 747.522/RS RG, Rel. Min. Cezar Peluso, DJe 25.9.2009 )” (grifei)
+    Ante o exposto, nego seguimento ao agravo em recurso extraordinário (art. 21, § 1º, do RI/STF).
+    Publique-se. Int..
+    Brasília, 30 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
