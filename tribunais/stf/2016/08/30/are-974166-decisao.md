@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (eDOC 3, p. 91):
+    “EMENTA: MANDADO DE SEGURANÇA. EXECUÇÃO DE ACÓRDÃO. AGRAVO REGIMENTAL. MANUTENÇÃO DA DETERMINAÇÃO DE CUMPRIMENTO DA ORDEM JUDICIAL CONCESSIVA DA SEGURANÇA. Face a ausência de fato novo ou razões suficientes para alterar o ato decisório objeto do presente agravo regimental, mantém-se a determinação de intimação do impetrado para dar cumprimento integral a ordem mandamental, frente ao seu trânsito em julgado. Agravo Regimental conhecido e desprovido.”
+    Os embargos de declaração foram rejeitados (eDOC 4, pp. 94-103).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 39, § 4º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “Tal sistema de remuneração se mostra incompatível com a percepção/incorporação da VPNI, uma vez que nos termos dos artigos 1º e 31, § 3º, inciso VI, da Lei nº 17.032/2010, tal parcela (VPNI) foi absorvida, estando compreendida no valor do subsídio, aliás, em prefeita harmonia com o que preceitua o art. 39, § 4º da CF/88.” (eDOC 4, p. 120).
+    A Presidência do TJ/GO inadmitiu o recurso extraordinário com fundamento na Súmula 282 do STF (eDOC 5, pp. 29-30).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (eDOC 2, pp. 108-113):
+    “Verifica-se, portanto, que a impetrante tem direito líquido e certo, uma vez que para ter direito à incorporação da VPNI na remuneração deverão ser observados os critérios estabelecidos pela própria Lei 15.614/2006, que prescreve quando incorporada, a vantagem passa a ser regida pelas normas da Lei 14.059/2001, apenas naquilo que for compatível.
+    (…)
+    Conclui-se que a impetrante preencheu os requisitos previstos no art. 1º da Lei nº 15.614/2006, já que não é beneficiária das vantagens contidas no inciso I da citada lei, conforma reconhecido pela autoridade coatora (Despacho nº 2857/08, fls, 71) não se lhe aplicando os requisitos da Lei 14.059, já que não rege o caso concreto, e nem o Dec. 5.608/02.”
+    Como se depreende dos fundamentos da ementa do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o exame da legislação infraconstitucional aplicável à espécie (Lei Estadual nº 14.059/2001). Dessa forma, resta demonstrado a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo. A esse respeito, confira-se a ementa dos seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INCORPORAÇÃO DE VANTAGENS. PRÉVIO EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n. 859.858-AgR/DF, Relatora a Ministra Cármen Lúcia, Segunda Turma, DJe 25.2.2014).
+    “DIREITO ADMINISTRATIVO. SERVIDORES PÚBLICOS FEDERAIS. VANTAGEM PECUNIÁRIA INDIVIDUAL. REAJUSTE. LEI 10.698/2003. ALEGADA CONTRARIEDADE AO ART. 37, X, DA CONSTITUIÇÃO DA REPÚBLICA. DEBATE INFRACONSTITUCIONAL. (...). ACÓRDÃO RECORRIDO PUBLICADO EM 31.10.2012. O exame da alegada ofensa ao art. 37, X, da Constituição Federal dependeria de prévia análise da legislação infraconstitucional aplicada à espécie Lei 10.698/2003, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Lei Maior . Divergir do entendimento do acórdão recorrido quanto à natureza do pagamento da vantagem no valor fixo de R$ 59,87 (cinquenta e nove reais e oitenta e sete centavos), fixada pela Lei 10.698/03, se revisão geral ou vantagem pecuniária individual, demandaria a análise de legislação infraconstitucional aplicada à espécie, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. (...). Agravo regimental conhecido e não provido” (ARE n. 793.146-AgR/DF, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 2.4.2014).
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 30 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
