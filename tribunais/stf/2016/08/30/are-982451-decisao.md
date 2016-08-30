@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à procedência do pedido de pagamento de indenização por danos morais, bem como de repetição de indébito, consistente nos montantes indevidamente cobrados pela recorrente. No extraordinário cujo processamento busca alcançar, a recorrente aponta violado o artigo 5º, incisos II, X, XXXV, LIV e LV, da Constituição Federal. Alega a ausência de proporcionalidade e razoabilidade no estabelecimento do valor indenizatório, dizendo ter havido punição excessiva. No tocante aos juros moratórios, aduz que a data de fixação da quantia indenizatória deve ser o termo inicial de fluência. Argui o enriquecimento ilícito relativo à devolução dos valores cobrados indevidamente, ressaltando ter agido de boa-fé.
+    2. A recorribilidade extraordinária mostra-se distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, consideradas as premissas constantes do ato impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença expressamente mantida na decisão impugnada os seguintes trechos:
+    Ressalte-se que, momento algum, insurgiu-se a ré em relação aos documentos trazidos pela consumidora ou trouxe aos autos áudio ou qualquer outro documento/dado a fim de comprovar que a contratação por ela feita é equivalente ao serviço/produto que lhe vem sendo cobrado. Limitou-se, ao revés, a trazer aos autos imagem da tela de seu sistema referente aos valores pendentes, dado que não comprova os termos da contratação havida entre as partes.
+    Assim, de rigor o ressarcimento referente aos valores cobrados a maior (é dizer, pelo plano não contratado), assim como a obrigação por parte da ré de que conste em seu sistema e posteriores cobranças a contratação de internet móvel 3 GB.
+    (...)
+    À luz de todo o exposto e, sobretudo, da intensidade da lesão sofrida pela parte autora, do grau de culpa da parte ré e do nível socioeconômico dos litigantes, mostra-se razoável a fixação da indenização por danos morais no valor de R$ 4.000,00 (quatro mil reais).
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o pronunciamento impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No caso, o sustentado não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no julgamento de outro processo.
+    Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5% do valor da condenação, nos termos do artigo 85, § 11, do Código de Processo Civil.
+    4. Publiquem.
+Brasília, 30 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
