@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça de São Paulo confirmou o entendimento do Juízo quanto a improcedência do pedido de anulação do instrumento particular de doação e indenização. No extraordinário cujo processamento busca alcançar, o recorrente aponta violados os artigos 5º, incisos LIV e LV, 174, inciso V, e 230 da Constituição Federal. Argui a nulidade da decisão recorrida em razão da falta de fundamentação. Afirma contrariados os princípios da ampla defesa e do contraditório. Requer a aplicação dos efeitos da revelia. Tece considerações sobre o Código Civil, Código de Defesa do Consumidor, e Estatuto do Idoso.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    Embora ambas as partes apresentem teses verossímeis acerca dos fatos que ensejaram a "doação" do montante de R$ 100.000,00, o conjunto probatório formado leva à improcedência, uma vez que, não tendo restado clara a correlação entre aquela transação e os valores originados do contrato de prestação de serviços advocatícios, deve ser prestigiado os termos expressos do instrumento particular.
+    Vale dizer, o apelante é graduado em Direito, tendo exercido, por anos, a função de investigador de polícia. No mais, conforme ressaltou o Juízo, ainda que idoso, "sempre apresentou lucidez e capacidade para administrar seu patrimônio, preservar seu quinhão hereditário, contrair direitos e obrigações na órbita civil" (fls. 230).
+    Nada há, assim, para levar a conclusão quanto à existência de vício de consentimento ou social, a justificar a almejada declaração de nulidade do instrumento particular de doação.
+    [...]
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
