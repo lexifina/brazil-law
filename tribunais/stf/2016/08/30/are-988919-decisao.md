@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado do Espírito Santo consignou, em síntese:
+    APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. PRELIMINAR DE NULIDADE POR FALTA DE CITAÇÃO REJEITADA. PRELIMINAR DE NULIDADE POR AUSÊNCIA DA ORDEM DE REMESSA NECESSÁRIA REJEITADA. PRELIMINAR DE REPRESENTAÇÃO IRREGULAR REJEITADA. INEXISTÊNCIA DE PROGRAMAS DE PROTEÇÃO A CRIANÇA E ADOLESCENTE. PREVISÃO CONSTITUCIONAL. PRIORIDADE NO ATENDIMENTO. RECURSO IMPROVIDO.
+    1)  A toda evidência não há falar em nulidade do ato judicial, alegando terminologia inadequada, se réu respondeu ao conteúdo da contra-fé, restando atendida a sua finalidade, nos termos do § 1º do Art. 214 do CPC  .
+    2)  Não merece prosperar a alegação de nulidade por ausência de remessa necessária, se o recurso voluntário devolveu a matéria ao órgão  ad quem  notadamente porque inexiste interesse do município apelante quanto à remessa, na medida em que, nos termos do art. 475 do CPC,  a decisão não produziria efeito senão depois de confirmada pelo tribunal.
+    3)  A outorga de procuração a advogado não vinculado ao Município, por si só não revela defeito de representação.
+    4)  Sendo manifesta a existência de crianças e adolescentes em situação de risco no município, em razão de ausência de políticas públicas de inclusão, é legítima a intervenção judicial no sentido de fazer valer a eficácia e a integridade de direitos sociais e culturais impregnados de estatura constitucional.
+    5)  É lícito ao Poder Judiciário determinar à autoridade pública competente a realização de atos nas situações em que a omissão legislativa ou administrativa acarretar a violação de direito ou princípio de  status constitucional, caso em que, excepcionalmente, inexiste ofensa ao princípio da separação dos poderes
+    6)  Recurso improvido.
+    No recurso extraordinário cujo processamento busca alcançar, o recorrente aponta violados os artigos 1º, parágrafo único, 18, cabeça, inciso VII, alínea “c”, 35 e 37, inciso V, da Constituição Federal. Sustenta a contrariedade dos princípios da legalidade, impessoalidade e eficiência, porquanto não existe demanda no município que justifique a criação de casa abrigo para crianças e adolescentes em situação de risco.
+    2. O recurso extraordinário direciona ao atendimento cumulativo dos requisitos gerais de recorribilidade – adequação, oportunidade, interesse de agir, representação processual e preparo – e a um dos específicos previstos no inciso III do artigo 102 da Carta da República. O acesso ao Supremo faz-se, por isso mesmo, em via de excepcionalidade maior, tudo objetivando a atuação precípua do Tribunal, qual seja, a guarda da supremacia da Constituição Federal.
+    Quanto ao pressuposto específico, quase sempre retratado na alínea “a” do inciso III do artigo 102 da Lei Fundamental – violência a dispositivo nela inserto –, mostra-se necessário, ante a ordem natural das coisas, proceder-se a cotejo. Somente é possível definir se houve transgressão de texto do Diploma Maior mediante o confronto do que decidido com as razões do extraordinário, mais precisamente com o que evocado no tocante à adoção de entendimento contrário ao ditame constitucional. Daí o instituto do prequestionamento, que significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o acórdão impugnado nada contém sobre o que versado pela parte recorrente, descabe assentar o enquadramento deste no permissivo constitucional.
+    2. No caso, o que sustentado no extraordinário não foi enfrentado pelo Órgão julgador. Padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço deste agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
