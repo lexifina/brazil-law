@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REDUÇÃO DE JORNADA DE TRABALHO. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “ADMINISTRATIVO – SERVIDOR PÚBLICO ESTADUAL – ASSISTENTE SOCIAL - JORNADA DE TRABALHO DE 40 (QUARENTA) HORAS SEMANAIS – REGIME ESTATUTÁRIO – ALTERAÇÃO POR LEI FEDERAL – INAPLICABILIDADE - RECURSO DESPROVIDO. A jornada de trabalho dos servidores públicos estaduais efetivos, que exercem a função de assistente social, não pode ser alterada por Lei Federal destinada a reger relações tipicamente celetistas.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 22, XVI, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição Federal).
+    In casu, para se chegar a conclusão contrária à adotada pelo acórdão recorrido, seria necessário o exame da legislação infraconstitucional pertinente (Lei nº 12.317/2010). Assim, incabível o apelo extremo, tendo em vista que a jurisprudência desta Suprema Corte firmou-se no sentido de que a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. JORNADA DE TRABALHO: REDUÇÃO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.” (RE 834.943, Rel. Min. Cármen Lúcia, DJe de 3/ 12/2014).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDORA PÚBLICA. PSICÓLOGA. REGIME DE TRABALHO. EQUIPARAÇÃO DE JORNADA DE TRABALHO. ANÁLISE DE LEI LOCAL. SÚMULA 280. SÚMULA VINCULANTE 37. 1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia (Súmula Vinculante 37). 3. Agravo regimental a que se nega provimento.” (ARE 905.904-AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe de 10/12/2015).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de agosto de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
