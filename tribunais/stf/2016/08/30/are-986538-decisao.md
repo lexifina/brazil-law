@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE.
+    1. O Tribunal de Justiça do Estado de São Paulo consignou que contra decisão proferida em execução, que implicou a elevação da multa, cabível eram os embargos à execução, pelo que não conheceu do agravo de instrumento. No extraordinário cujo trânsito busca alcançar, a recorrente aponta a violação dos artigos 5º, incisos II e LIV, e 37 da Constituição Federal. Diz contrariado o princípio do devido processo legal. Afirma ter havido cerceamento do direito a questionar o valor da multa imposta. Diz não ser razoável a imposição de multa cominatória sem a concessão de tempo hábil para o adimplemento da obrigação. Sustenta a desproporcionalidade do valor da multa diária fixada.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, eis os fundamentos do acórdão recorrido:
+    Trata-se de decisão que, em fase de execução, converteu a obrigação específica em perdas e danos.
+    O agravante alega excesso na elevação da multa em fase de execução. Dessa forma, contra tal provimento jurisdicional, cabível embargos à execução/impugnação a (art. 52, IX, alínea b, da Lei 9.099/95).
+    Assim, não conheço o agravo de instrumento ante a impropriedade manifesta do recurso.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que o Supremo, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, assentando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema relativo à suposta violação do princípio do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+    Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão que negou seguimento ao extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclui.
+    4. Publiquem.
+Brasília, 30 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
