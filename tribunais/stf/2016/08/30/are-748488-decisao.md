@@ -1,0 +1,16 @@
+Decisão: Trata-se petição de agravo contra decisão da Turma Recursal de Santa Catarina, que julgou prejudicado recurso extraordinário (eDOC 329), o qual se encontrava sobrestado, tendo em vista a aplicação da sistemática da repercussão geral correspondente ao Tema 692, processo-paradigma ARE-RG 748445, Rel. Min. Ricardo Lewandowski, DJe 12.2.2014, cuja ementa transcrevo:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. LEI 6.496/1977. MANIFESTAÇÃO DO EXERCÍCIO DO PODER DE POLÍCIA. NATUREZA DE TAXA. SUBMISSÃO AO PRINCÍPIO DA ESTRITA LEGALIDADE. EXISTÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    - O Tribunal reconheceu a existência de repercussão geral da matéria debatida nos presentes autos, para reafirmar a jurisprudência desta Corte, no sentido de que a Anotação de Responsabilidade Técnica, instituída pela Lei Lei 6.496/1977, cobrada pelos Conselhos Regionais de Engenharia, Arquitetura e Agronomia, tem natureza jurídica de taxa, sendo, portanto, necessária a observância do princípio da legalidade tributária previsto no art. 150, I, da Constituição. Em consequência, conheceu do recurso extraordinário, desde já, mas lhe negou provimento.”
+    Registro que o tribunal de origem, embora não tenha aplicado o tema 540 por mim indicado na decisão publicada em 3.6.2013 (eDOC 205), aplicou outro que, julgado posteriormente, mais se adéqua ao caso concreto dos autos e, por isso, deve ser mantido.
+    Decido.
+    O recurso não merece conhecimento.
+    Esta Corte, no AI-QO 760.358, de minha relatoria, DJe 12.2.2010, firmou entendimento no sentido de que não cabe ao Supremo Tribunal Federal rever decisão que, na origem, aplica o disposto no art. 543-B do CPC.
+    Confira-se:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem”. (grifo nosso)
+    Nesse sentido, não cabe a interposição do agravo previsto no artigo 1.042 do CPC contra decisão do Tribunal de origem que aplica a sistemática da repercussão geral.
+    Ante o exposto, não conheço do recurso, por incabível.
+    Publique-se.
+    Brasília, 30 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
