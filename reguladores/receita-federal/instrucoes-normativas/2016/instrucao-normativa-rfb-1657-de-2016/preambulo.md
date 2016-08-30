@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1657, de 29 de agosto de 2016
+Dispõe sobre a aplicação do regime aduaneiro especial de exportação temporária de bens ao amparo do Carnê ATA.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 432 e 448 do Decreto nº 6.759, de 5 de fevereiro de 2009 (Regulamento Aduaneiro), e na Convenção Relativa à Admissão Temporária (Convenção de Istambul), promulgada pelo Decreto nº 7.545, de 2 de agosto de 2011, resolve:
