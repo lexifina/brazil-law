@@ -1,0 +1,17 @@
+Despacho: Trata-se de recurso extraordinário, sob a sistemática da repercussão geral, interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, cuja ementa reproduz-se a seguir:
+    “FINANCEIRO. REPARTIÇÃO DE RECEITA. FPM. ART. 159, I, CF. EXCLUSÃO DE BENEFÍCIOS FISCAIS. IMPOSSIBILIDADE. 1. A competência tributária da União para instituir imposto de renda e imposto sobre . produtos industrializados não sofre qualquer alteração pela circunstância de parte da arrecadação de tais tributos ser destinada ao Fundo de Participação dos Municípios. Inteligência do art. 6°, parágrafo único, do CTN. 2. Ao dispor sobre a repartição das receitas do IR e do IPI, o art. 159, I, CF, refere-se expressamente ao produto da arrecadação, sendo ilegítima a pretensão do recebimento de valores que, em face de incentivos fiscais, não foram recolhidos. 3. Apelação e remessa oficial providas.”
+    A Associação dos Municípios Alagoanos, Associação Amazonense dos Municípios, Associação dos Municípios do Estado do Ceará, Associação dos Municípios do Estado do Maranhão, Federação dos Municípios do Estado do Maranhão, Federação das Associações de Municípios do Estado da Paraíba, Associação Piauiense dos Municípios e Federação dos Municípios do Estado do Rio Grande do Norte requerem sua admissão conjunta, na qualidade de amici curiae, por meio da Petição 8.130/2016.
+    A União dos Municípios da Bahia solicita, por meio da Petição 8.984/2016, o seu ingresso no feito na condição de amicus curiae.
+    Na Petição 20.436/2016, o Município de Boa Vista da Aparecida pugna pela admissão na demanda, como amicus curiae.
+    Sustentam, em síntese, seus interesses no julgamento do processo e eventual provimento do recurso extraordinário.
+    Decido.
+    O amicus curiae revela-se como importante instrumento de abertura do STF à participação na atividade de interpretação e aplicação da Constituição, o que não apenas se restringe ou se pode restringir aos processos de feição objetiva.
+    Como é sabido, a interação dialogal entre o STF e pessoas naturais ou jurídicas, órgãos ou entidades especializadas, que se apresentem como amigos da Corte, tem um potencial epistêmico de apresentar diferentes pontos de vista, interesses, aspectos e elementos nem sempre alcançados, vistos ou ouvidos pelo Tribunal diretamente da controvérsia entre as partes em sentido formal, possibilitando, assim, decisões melhores e também mais legítimas do ponto de vista do Estado Democrático de Direito.
+    Conforme o art. 138 do CPC, duas balizas se fazem necessárias para a sua admissão. De um lado, tem-se a necessidade de relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia. De outro, a representatividade adequada do possível amicus curiae.
+    Nesses termos, verifica-se que as Peticionantes não ostentam evidente representatividade, tanto em relação ao âmbito espacial de sua atuação, quanto por já estar integrada ao feito a Confederação Nacional de Municípios, na qualidade de amici curiae, entidade que possui maior aptidão para auxiliar a Corte na formação de sua convicção.
+Ante o exposto, inadmito o pleito veiculado nas petições indigitadas de admissão das Peticionantes no feito, na qualidade de amicus curiae, no presente recurso extraordinário com repercussão geral reconhecida, nos termos do art. 138 do CPC.
+    Publique-se.
+    Brasília, 31 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
