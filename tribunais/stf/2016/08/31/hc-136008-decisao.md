@@ -1,0 +1,25 @@
+Decisão:
+Ementa: Penal. Habeas corpus. Tráfico de entorpecentes. Regime e Substituição da pena. Contrariedade à jurisprudência do STF. Ordem concedida de ofício.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, em que se alega demora para o julgamento do HC 345.102, em trâmite no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante, em 22.05.2015, surpreendido com 160,2g de crack. O Juízo de origem, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Concluída a instrução criminal, o paciente foi condenado à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, pelo crime previsto no artigo 33, caput, da Lei 11.343/06, vedado o direito de recorrer em liberdade.
+    4. Em seguida, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Em 28.10.2015, a liminar do writ foi deferida para revogar a prisão processual do paciente.
+    5. Na sequência, o Tribunal Estadual não conheceu do writ.
+    6. Do acórdão estadual, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Relator do HC 345.102, Ministro Nefi Cordeiro, indeferiu a medida cautelar.
+    7. Neste habeas corpus, a parte impetrante alega que a demora na prestação jurisdicional pelo Superior Tribunal de Justiça configura constrangimento ilegal a ser reparado pela determinação de imediato julgamento pelo colegiado competente. Sustenta a possibilidade, no caso, da fixação de regime inicial mais brando. Daí o pedido da concessão da ordem a fim de revogar a prisão processual do paciente e determinar o imediato julgamento do HC 345.102. Subsidiariamente, a defesa pleiteia a concessão da ordem de ofício a fim de fixar o regime inicial aberto.
+    Decido.
+    8. Inicialmente ressalto que ambas as Turmas deste Supremo Tribunal Federal têm reconhecido, em determinadas hipóteses excepcionais, a existência de constrangimento ilegal pela injustificada demora para o julgamento de habeas corpus por parte dos Tribunais de origem. Tal possibilidade fica reforçada pela explicitação, feita pela Emenda Constitucional nº 45/2004, do direito fundamental à razoável duração do processo. Nesse sentido, a título de exemplo, destaco o HC 110.367, julgado sob a relatoria da Ministra Cármen Lúcia.
+    9. No caso dos autos, contudo, a página oficial do Superior Tribunal de Justiça na internet não evidencia desídia que justifique a concessão do pedido. O writ foi autuado naquele Tribunal em 12.12.2015 e distribuído ao Ministro Nefi Cordeiro que, em 17.12.2015, indeferiu a medida cautelar. Os autos encontram-se conclusos ao relator, com parecer da Procuradoria-Geral da República. De modo que não vejo ilegalidade flagrante ou abuso de poder que justifique o acolhimento da pretensão defensiva.
+    10. Não bastasse isso, o Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal (v.g, RHC119.605-AgR, Rel. Min. Luís Roberto Barroso; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski).
+    11. Na hipótese dos autos, consoante afirmou o Tribunal Estadual, a condenação transitou em julgado em 28.09.2015.
+    12. Contudo, as peculiaridades do processo autorizam a concessão da ordem de ofício.
+    13. Colhe-se dos autos que se trata de réu primário e de bons antecedentes, que ficou preso cautelarmente durante 5 meses. E o fato é que o caráter hediondo do delito de tráfico de entorpecentes foi o único fundamento utilizado pelo Juízo de origem para justificar a imposição do regime prisional mais gravoso e o indeferimento da substituição de que trata o art. 44 do Código Penal.
+    14. Ocorre que o Plenário do Supremo Tribunal Federal, ao analisar o HC 111.840, de Relatoria do Ministro Dias Toffoli, por maioria, declarou, incidenter tantum, a inconstitucionalidade do art. 2º, §1º, da Lei nº 8.072/1990, com a redação dada pela Lei nº 11.464/2007. Desse modo, ficou superada a obrigatoriedade de início do cumprimento da pena no regime fechado aos condenados por crimes hediondos ou a eles equiparados.
+    15. Da mesma forma, o Plenário do Tribunal, no julgamento do HC 97.256, Rel. Min. Ayres Britto, declarou, incidentalmente, a inconstitucionalidade do artigo 44 da Lei nº 11.343/06, na parte em que vedava a substituição da pena privativa de liberdade por medida restritiva de direitos, em favor dos condenados pela prática do crime de tráfico de entorpecentes.
+    16. Diante do exposto, com base no art. 21, § 1º, do RI/STF, não conheço da impetração. Contudo, concedo a ordem de ofício para fixar o regime inicial aberto e determinar ao Juízo da execução que analise se o ora paciente preenche os requisitos objetivos e subjetivos para a substituição de que trata o art. 44 do Código Penal.
+    Comunique-se, com urgência.
+    Publique-se.
+    Brasília, 31 de agosto de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
