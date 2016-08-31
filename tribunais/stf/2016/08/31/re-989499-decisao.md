@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – PRECATÓRIO – LITISCONSÓRCIO FACULTATIVO ATIVO – EXECUÇÃO AUTÔNOMA DE CREDITOS INDIVIDUALIZADOS – REQUISIÇÃO DE PEQUENO VALOR – POSSIBILIDADE – HONORÁRIOS ADVOCATÍCIOS – CRÉDITO ÚNICO – FRACIONAMENTO – IMPOSSIBILIDADE – PROVIMENTO PARCIAL.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Rio Grande do Sul consignou em síntese:
+    AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO JUDICIAL. LITISCONSÓRCIO FACULTATIVO. PAGAMENTO INDEPENDENTEMENTE DE PRECATÓRIO CORRESPONDENTE AO CRÉDITO DE CADA LITISCONSORTE. POSSIBILIDADE. EXECUÇÃO NÃO EMBARGADA DE TÍTULO JUDICIAL CONTRA A FAZENDA PÚBLICA. VALOR INFERIOR A 40 SALÁRIOS-MÍNIMOS. REQUISIÇÃO DE PEQUENO VALOR (RPV). HONORÁRIOS. CABIMENTO. PRECEDENTES DO COLENDO SUPREMO TRIBUNAL FEDERAL.
+    No recurso extraordinário cujo processamento busca alcançar, o recorrente aponta violada a Emenda Constitucional nº 37/2001 e o artigo 100 da Constituição Federal. Afirma indevido o fracionamento da execução em desfavor da Fazenda Pública, para o fim de possibilitar o recebimento de honorários por meio de requisição de pequeno valor.
+    2. O Tribunal, no Recurso Extraordinário nº 568.645/SP, da relatoria da ministra Cármen Lúcia, assentou, em repercussão geral, que a regra do § 4º do artigo 100, alterado e hoje correspondente ao § 8º do mesmo artigo 100 da Constituição Federal, permite a cobrança autônoma e o pagamento dos créditos individualizados nos casos de litisconsórcio ativo facultativo.
+    Ao apreciar o recurso extraordinário nº 564.132/RS, redatora do acórdão ministra Cármen Lúcia, submetido à sistemática da repercussão geral, o Plenário concluiu que os honorários advocatícios constituem verba de natureza alimentar, não se confundem com o montante devido às partes. Em virtude da autonomia dos valores alusivos ao patrono das partes em relação ao principal a ser satisfeito aos litigantes, é inegável que os honorários configuram crédito único do advogado, mostrando-se vedado o fracionamento em tantas execuções quantos forem os credores litisconsortes facultativos, para contornar o regime de precatório. Admitir a repartição dos honorários, nesses casos, implicaria ofensa à regra do artigo 100, § 8º, da Carta Federal.
+    3. Ante o quadro, dou parcial provimento ao extraordinário para, reformando o acórdão recorrido, determinar a execução dos honorários advocatícios em crédito único.
+    4. Publiquem.
+Brasília, 31 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
