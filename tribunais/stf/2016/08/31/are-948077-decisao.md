@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. DESEMBARAÇO ADUANEIRO. DIFERIENTO DO PAGAMENTO DO TRIBUTO. IMPORTAÇÃO DE MERCADORIAS PROVENIENTES DE PAÍSES SIGNATÁRIOS DO GATT. SIMILAR NACIONAL. ISONOMIA NA TRIBUTAÇÃO. CONSTATAÇÃO DEPENDENTE DO EXAME DE NORMAS INFRACONSTITUCIONAIS E DO INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. OFENSA REFLEXA E SÚMULA 279 DO STF. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos (Doc. 2, fl. 117) objetivando a reforma de decisão que inadmitiu recurso extraordinário (Doc. 2, fl. 56), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (Doc. 2, fl. 24) que assentou, verbis:
+    “Mandado de Segurança - Importação de trigo em grão - País signatário do GATT - Diferimento do pagamento do ICMS - A vedação do parágrafo único do art. 352-A do RICMS não se aplica à importação de países signatários do GATT - Súmulas 575 STF e 20 STJ - Precedentes jurisprudenciais - Recurso voluntário e recurso oficial desprovidos.”
+    Os embargos de declaração opostos foram desprovidos (Doc. 2, fl. 44).
+    Nas razões do apelo extremo, sustentou preliminar de repercussão geral e, no mérito, apontou violação aos artigos 5º, caput e II, 18, 23, I, 24, I, 150, § 7º, 155, II, e 194 da Constituição Federal. Aduziu a inaplicabilidade das Súmulas 575 do STF e 20 do STJ por não se tratar da hipótese de isenção, mas de pagamento diferido do tributo.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 282 do STF (Doc. 2, fl. 104).
+    O Superior Tribunal de Justiça não conheceu do agravo em recurso especial (Doc. 2, fl. 148).
+    É o relatório. DECIDO.
+    Sem razão.
+    O Plenário desta Corte, no julgamento do RE 229.096, Rel. para o acórdão Min. Cármen Lúcia, DJe de 11/4/2008, fixou entendimento de que a isenção do ICMS sobre a mercadoria importada de país signatário do GATT, quando isento o similar nacional, foi recepcionada pela Constituição Federal de 1988, não se aplicando a limitação prevista no artigo 151, III, da Constituição Federal (isenção heterônoma) às hipóteses em que a União atua como sujeito de direito na ordem internacional. Transcrevo a ementa do julgado, verbis:
+    “DIREITO TRIBUTÁRIO. RECEPÇÃO PELA CONSTITUIÇÃO DA REPÚBLICA DE 1988 DO ACORDO GERAL DE TARIFAS E COMÉRCIO. ISENÇÃO DE TRIBUTO ESTADUAL PREVISTA EM TRATADO INTERNACIONAL FIRMADO PELA REPÚBLICA FEDERATIVA DO BRASIL. ARTIGO 151, INCISO III, DA CONSTITUIÇÃO DA REPÚBLICA. ARTIGO 98 DO CÓDIGO TRIBUTÁRIO NACIONAL. NÃO CARACTERIZAÇÃO DE ISENÇÃO HETERÔNOMA. RECURSO EXTRAORDINÁRIO CONHECIDO E PROVIDO.
+    1. A isenção de tributos estaduais prevista no Acordo Geral de Tarifas e Comércio para as mercadorias importadas dos países signatários quando o similar nacional tiver o mesmo benefício foi recepcionada pela Constituição da República de 1988.
+    2. O artigo 98 do Código Tributário Nacional “possui caráter nacional, com eficácia para a União, os Estados e os Municípios” (voto do eminente Ministro Ilmar Galvão).
+    3. No direito internacional apenas a República Federativa do Brasil tem competência para firmar tratados (art. 52, § 2º, da Constituição da República), dela não dispondo a União, os Estados-membros ou os Municípios. O Presidente da República não subscreve tratados como Chefe de Governo, mas como Chefe de Estado, o que descaracteriza a existência de uma isenção heterônoma, vedada pelo art. 151, inc. III, da Constituição.
+    4. Recurso extraordinário conhecido e provido.”
+    Ocorre que o acórdão recorrido concluiu, com base na interpretação de norma infraconstitucional (RICMS/SP) e na análise das provas dos autos, no sentido de que tanto a mercadoria importada de país signatário do GATT quanto a sua similar nacional devem ser submetidas à mesma carga tributária.
+    Nesse contexto, para divergir das razões do referido acórdão seria necessário o reexame da legislação infraconstitucional aplicável à espécie, o que se revela inviável em sede de recurso extraordinário por configurar ofensa indireta à Constituição Federal, bem como o incursionamento no contexto fático-probatório engendrado nos autos, o que também não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, face ao óbice erigido pela Súmula 279 do STF. A título ilustrativo, é o que se constata no seguinte julgado:
+    “AGRAVO REGIMENTAL. ICMS. BENEFÍCIO TRIBUTÁRIO CONCEDIDO ÀS OPERAÇÕES INTERNAS. EXTENSÃO ÀS OPERAÇÕES DE IMPORTAÇÃO DE PRODUTO PROVENIENTE DE PAÍS SIGNATÁRIO DO GATT. OFENSA REFLEXA OU INDIRETA AO TEXTO CONSTITUCIONAL.
+    A decisão agravada está em conformidade com o entendimento firmado por ambas as Turmas desta Corte, no sentido de se considerar infraconstitucional o debate a respeito da extensão ou não às operações de importação de produto proveniente de país signatário do GATT do benefício tributário relativo ao ICMS concedido às operações internas.
+    Agravo regimental a que se nega provimento.” (AI 708.736-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe de 21/10/2008)
+    No mesmo sentido: RE 632.778-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 3/9/2014; AI 764.951-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 13/3/2013; e AI 589.942-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 22/10/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
