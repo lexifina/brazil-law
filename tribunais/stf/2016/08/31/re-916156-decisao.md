@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CIDE COMBUSTÍVEIS. INCIDÊNCIA. IMPORTAÇÃO DE GASES PROPANO E BUTANO. LEI 10.336/2001. IN SRF 219/2002. CONTROVÉRSIA A RESPEITO DA HARMONIA DE ATO NORMATIVO REGULAMENTAR EM FACE DA LEI QUE LHE DÁ FUNDAMENTO DE VALIDADE. CRISE DE LEGALIDADE. QUESTÃO INFRACONSTITUCIONAL. RECURSO DESPROVIDO.
+    DECISÃO: Trata-se de recurso extraordinário interposto com fundamento na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO – CIDE. IN SRF Nº 219, DE 2002. INVALIDADE.
+    É inválida a IN SRF nº 219, de 10 de outubro de 2002, no que cria novas hipóteses de incidência da contribuição de intervenção no domínio econômico - CIDE, além de indevidamente retroagir seus efeitos a 1º de janeiro de 2002.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, a recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 150, I e III, da Constituição Federal. Alegou que “a exigência da CIDE sobre os gases liquefeitos do petróleo foi prevista já na Lei nº 10.336/2001, não tendo sido inovação da IN nº 219/2002, ao contrário do entendimento adotado no acórdão, não tendo, ainda, ofendido o princípio da anterioridade, eis que a própria lei já prevê a incidência da CIDE sobre gases liquefeitos de petróleo, dentre os quais se incluem o propano liquefeito. A IN em questão simplesmente veio esclarecer tais fatos, procurando assim solucionar interpretações equivocadas que excluíam tal material, inadvertidamente”.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    Esta Corte firmou orientação no sentido de que a controvérsia a respeito da harmonia de ato normativo regulamentar em face da lei que lhe dá fundamento de validade não caracteriza um problema de constitucionalidade, mas sim de legalidade, sendo incabível sua análise em recurso extraordinário, o qual só admite o exame de ofensa direta à Constituição Federal. Confira-se:
+    “ADIN - SISTEMA NACIONAL DE DEFESA DO CONSUMIDOR (SNDC) - DECRETO FEDERAL N. 861/93 - CONFLITO DE LEGALIDADE - LIMITES DO PODER REGULAMENTAR - AÇÃO DIRETA NÃO CONHECIDA.
+    - Se a interpretação administrativa da lei, que vier a consubstanciar-se em decreto executivo, divergir do sentido e do conteúdo da norma legal que o ato secundário pretendeu regulamentar, quer porque tenha este se projetado ultra legem, quer porque tenha permanecido citra legem, quer, ainda, porque tenha investido contra legem, a questão caracterizará, sempre, típica crise de legalidade, e não de inconstitucionalidade, a inviabilizar, em conseqüência, a utilização do mecanismo processual da fiscalização normativa abstrata.
+    - O eventual extravasamento, pelo ato regulamentar, dos limites a que materialmente deve estar adstrito poderá configurar insubordinação executiva aos comandos da lei. Mesmo que, a partir desse vício jurídico, se possa vislumbrar, num desdobramento ulterior, uma potencial violação da Carta Magna, ainda assim estar-se-á em face de uma situação de inconstitucionalidade reflexa ou oblíqua, cuja apreciação não se revela possível em sede jurisdicional concentrada.” (ADI 996-MC, Rel. Min. Celso de Mello, Plenário, DJ de 6.5.1994)
+    Incide, in casu, o óbice da Súmula 636 do STF, que dispõe, verbis: “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. No mesmo sentido: RE 705.560-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 4/6/2014; e RE 780.410-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 9/9/2014.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
