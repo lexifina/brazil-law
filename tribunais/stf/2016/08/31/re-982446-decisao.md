@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à procedência do pedido de extensão à aposentada da Gratificação de Gestão Educacional (GGE), assentando a paridade entre ativos e inativos, considerada a natureza jurídica da verba. Nas razões do extraordinário, a recorrente alega a violação dos artigos 40, § 8º, da Constituição Federal e 7º da Emenda Constitucional n° 41/03. Diz ser a vantagem devida apenas aos servidores em atividade.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença expressamente mantida pela decisão impugnada os seguintes trechos:
+    A verba, portanto, foi instituída erga omnes, de forma linear e igual a todos os servidores dessa classe de servidores públicos, sem qualquer estipulação de condicionante ou de situação específica (funcional ou pessoal) sine qua non para o percebimento do benefício.
+     (...)
+    O que releva e importa é a natureza jurídica dessa verba, natureza essa genérica e geral e permanente, pois indiscriminadamente conferida a todos os servidores, nada mais consubstanciando que aumento linear e disfarçado conferido a uma categoria funcional e que, portanto, deve ser estendido aos inativos que façam jus à paridade.
+    Deveras, e reitera-se, a norma instituidora não veicula qualquer especificação, requisito especial, condição ou pressuposto individualizável ao alcance do benefício em questão.
+    Da mesma forma, a lei nada veicula à guisa de atividade ou função especial ou limitada no tempo ou no espaço para o alcance do direito ao percebimento temporário e eventual do benefício. Por certo, todo e qualquer servidor integrante dos quadros da classe de suportepedagógico do quadro de magistério estadual (e que temporária a eventualmente não esteja a exercer atividade meramente administrativa) perceberá igual e linearmente essa verba, independente de qualquer condicionante ou especificidade, seja pessoal, seja por conta dessa ou daquela atividade funcional própria e específica,
+    Ainda, a corroborar essa conclusão, de se considerar que a própria lei ressalva que tal verba continuará a ser paga ao servidor em caso de seu afastamento, apesar de ser paga concomitantemente ao respectivo substituto (se e quando o afastamento for superior a quinze dias).
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    No mais, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Nego seguimento ao extraordinário. Fixo os honorários recursais no patamar de 5 % do valor da causa, nos termos do artigo 85, § 11, do citado diploma legal
+    4. Publiquem.
+Brasília, 31 de agosto de 2016.
+Ministro MARCO AURÉLIO
+Relator
