@@ -1,0 +1,21 @@
+DECISÃO
+    Vistos etc.
+    I.
+    Cuidam os autos de recurso extraordinário em ação cautelar, interposto pela Fundação Nacional de Saúde (Funasa) em face de acórdão da Sexta Turma do Tribunal Regional Federal da Primeira Região (TRF1), no qual se assentou ser ilegítima a inscrição de Município no cadastro de inadimplentes do Sistema Integrado de Administração Financeira do Governo Federal (SIAFI) e do Cadastro Informativo de Créditos não Quitados do Setor Público Federal (CADIN), antes de julgado o procedimento de tomada de conta especial perante o Tribunal de Contas da União, sob pena de ferir-se o princípio do devido processo legal, no âmbito administrativo, bem assim o art. 106, I e II, da Constituição Federal.
+    Admitido, o recurso extraordinário em questão passou a ser o paradigma do Tema nº 327 da Repercussão Geral – Inscrição de Município no Siafi/Cadin sem o prévio julgamento de tomada de contas especial.
+    Ocorre que a parte recorrente compareceu aos autos (Petição nº 14.160/2012) a fim de informar a perda de objeto do recurso extraordinário, uma vez que transitou em julgado, em desfavor do recorrente, a ação principal à cautelar preparatória que deu origem ao presente recurso. O recurso extraordinário interposto pela Funasa na ação principal, com efeito, não foi admitido neste Supremo Tribunal Federal pela eminente Relatora, Min. Cármen Lúcia (RE nº 608.543).
+    Na mesma oportunidade, a Funasa requereu a substituição do recurso extraordinário apto a servir de paradigma para o Tema nº 327, tendo em vista subsistir o interesse da Administração Pública Federal no julgamento do mérito da controvérsia.
+    Ante o exposto, tendo em vista a reportada perda de objeto do recurso extraordinário, julgo-o prejudicado, nos termos do art. 21, IX, do Regimento Interno do Supremo Tribunal Federal.
+    Considerando, porém, a relevância da matéria discutida, determino seja requisitada a remessa de recurso extraordinário em que se discuta a mesma controvérsia, para exame da possível substituição do paradigma da repercussão geral.
+    II.
+    Noutro giro, verifico que se encontra pendente de apreciação o requerimento de intervenção, na qualidade de amicus curiae, formulado pelas instituições Associação Brasileira das Secretarias de Finanças das Capitais Brasileiras (Petição nº 26.293/2011), Confederação Nacional dos Municípios (Petição nº 403.350/2011) e Associação Brasileira das Secretarias de Fianças das Capitais Brasileiras (Petição nº 26.293/2001), além dos Estados do Piauí, Alagoas, Acre, Amazonas, Espírito Santo, Goiás, Minas Gerais, Pará, Pernambuco, Rondônia, Rio Grande do Sul, Rio Grande do Norte, São Paulo, Mato Grosso, Rio de Janeiro e do Distrito Federal (Petição nº 3.178/2012).
+    Tenho que a intervenção dos signatários mostra-se relevante manancial de informação deste juízo acerca da matéria a ser julgada, podendo apresentar subsídios técnicos, fáticos e jurídicos importantes para o deslinde da controvérsia. Outrossim, o requerimento em exame encontra respaldo expresso no novel permissivo constante no art. 983 do Novo Código de Processo Civil, in verbis:
+    Art. 983. O relator ouvirá as partes e os demais interessados, inclusive pessoas, órgãos e entidades com interesse na controvérsia, que, no prazo comum de 15 (quinze) dias, poderão requerer a juntada de documentos, bem como as diligências necessárias para a elucidação da questão de direito controvertida, e, em seguida, manifestar-se-á o Ministério Público, no mesmo prazo.
+    Admito, portanto, a intervenção requerida pelos entes acima listados, ao tempo em que saliento a importância de tal admissão mesmo em face da perda de objeto do presente recurso, visto que se objetiva resguardar a possibilidade de que prossigam intervindo após a substituição do recurso paradigma.
+    III.
+    Remetam-se os autos à Secretaria Judiciária, a fim de proceder às anotações relativas aos amici curiae admitidos.
+    Após, encaminhem-se os autos à Presidência desta Corte para que requisite a remessa de recurso extraordinário em que se discuta a mesma controvérsia, para exame da possível substituição do paradigma da repercussão geral.
+    Publique-se. Intimem-se.
+    Brasília, 31 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
