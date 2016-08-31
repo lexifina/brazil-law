@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 1º  e 5º, LXXIII,  da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo por oportuno a ementa do acórdão recorrido:
+    “EMENTA: AGRAVO DE INSTRUMENTO – AÇÃO POPULAR – AJUIZMANETO CONTRA A PESSOA DO PROMOTOR DE JUSTIÇA – ILEGITIMIDADE PASSIVA – INDEPENDÊNCIA FUNCIONAL – GARANTIA CONSTITUCIONAL – RECURSO PROVIDO – Conforme inteligência do art. 37, §6º, do CPC, as pretensões ressarcitórias devem ser coligadas em desfavor das pessoas jurídicas de direito público consideradas responsáveis pela prática de atos que se reputem lesivos. Os agentes públicos devem ser demandados em eventual regresso, acaso tenham agido com o dolo ou culpa, pela pessoa jurídica de direito público que houver suportado eventual condenação. Falece legitimidade ao membro do Ministério Público para ser diretamente demandado em Ação Popular aviada na instância primeva. Recurso provido.”
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de não se reconhecer a legitimidade passiva do agente público em ações de responsabilidade civil fundadas no art. 37, § 6º, da Constituição Federal. Logo não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: ARE 753.134 AgR, Rel. Min Dias Toffoli, DJe 28.04.2016 e RE nº 470.996/RO-AgR,  Rel. Min. Eros Grau, DJe de 11/9/09.
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO DE REPARAÇÃO DE DANOS. RESPONSABILIDADE OBJETIVA DO ESTADO: § 6º DO ART. 37 DA CONSTITUIÇÃO DO BRASIL. AGENTE PÚBLICO. ILEGITIMIDADE PASSIVA AD CAUSAM. O Supremo Tribunal Federal, por ocasião do julgamento da RE n. 327.904, Relator o Ministro Carlos Britto, DJ de 8.9.06, fixou entendimento no sentido de que ‘somente as pessoas jurídicas de direito público, ou as pessoas jurídicas de direito privado que prestem serviços públicos, é que poderão responder, objetivamente, pela reparação de danos a terceiros. Isto por ato ou omissão dos respectivos agentes, agindo estes na qualidade de agentes públicos, e não como pessoas comuns’. Precedentes. Agravo regimental a que se nega, provimento” (RE nº 470.996/RO-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 11/9/09).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de agosto de 2016.
+Ministra Rosa Weber
+Relatora
