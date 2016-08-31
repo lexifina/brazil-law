@@ -1,0 +1,11 @@
+Decisão: Trata-se de recurso extraordinário em que se discute a aplicação do prazo decadencial previsto no artigo 54 da Lei 9.784/99 ao ato de revisão de aposentadoria pelo Tribunal de Contas da União, bem como se são suscetíveis de restituição os valores recebidos de boa-fé pelo beneficiário, ainda que pagos indevidamente pela Administração Pública.
+    O Supremo Tribunal Federal afetou à sistemática da repercussão geral no âmbito do Tema 445, cujo recurso-paradigma é o RE-RG 636.553, Rel. Min. Gilmar Mendes, DJe 09.03.2012, pendente ainda o julgamento de mérito, a matéria relativa à incidência do prazo decadencial previsto no artigo 54 da Lei 9.784/99 ao ato de revisão de aposentadoria, conforme ementa a seguir transcrita:
+    “Recurso extraordinário. 2. Servidor público. Aposentadoria. 3. Anulação do ato pelo TCU. Discussão sobre a incidência do prazo decadencial de 5 anos, previsto na Lei 9.784/99, para a Administração anular seus atos, quando eivados de ilegalidade. Súmula 473 do STF. Observância dos princípios do contraditório e da ampla defesa. Repercussão geral reconhecida.”
+    De outra banda, no julgamento do AI-RG 841.473, Rel. Min. Cezar Peluso, DJe 09.09.2011, esta Corte concluiu pela ausência de repercussão geral da matéria relativa à restituição de verbas de natureza alimentar pagas indevidamente pela Administração Pública a beneficiário de boa-fé (Tema 425). Na oportunidade, o entendimento ficou assim sintetizado:
+    “Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Valores pagos indevidamente. Administração pública. Restituição. Beneficiário de boa-fé. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o dever de o beneficiário de boa-fé restituir aos cofres públicos os valores que lhe foram pagos indevidamente pela administração pública, versa sobre tema infraconstitucional.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
