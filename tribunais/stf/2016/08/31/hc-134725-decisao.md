@@ -1,0 +1,48 @@
+Decisão: Trata-se de habeas corpus, impetrado pela Defensoria Pública da União, em favor de Antônio Carlos Perez Rosa, contra acórdão da Quinta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao RHC 69.370/PR. Eis a ementa desse julgado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. SUSPENSÃO CONDICIONAL DO PROCESSO. CONDIÇÃO. PRESTAÇÃO PECUNIÁRIA. ADEQUAÇÃO E PROPORCIONALIDADE. ILEGALIDADE NÃO EVIDENCIADA.
+    1. A Quinta Turma desta Corte tem reiteradamente decidido que, ‘além daquelas obrigatórias previstas nos incisos do § 1º do artigo 89 da Lei 9.099/1995, é facultada a imposição, pelo magistrado, de outras condições para a concessão da suspensão do processo, desde que adequadas ao fato e à situação pessoal do acusado, em estrita observância aos princípios da adequação e da proporcionalidade’ (RHC n. 51.201/RS, Relator Ministro NEWTON TRISOTTO – Desembargador Convocado do TJ/SC, Quinta Turma, julgado em 20/11/2014, DJe 25/11/2014).
+    2. No mesmo sentido, já decidiu a Suprema Corte, por ocasião do julgamento do HC 123.324, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 21/10/2014.
+    3. Por outro lado, o recurso ordinário em habeas corpus, ante sua natureza, não é meio idôneo para se aferir a proporcionalidade da condição imposta, tendo em vista que a análise acerca da condição financeira do recorrente demandaria incursão no material fático, o que é vedado no remédio constitucional.
+    4. Recurso em habeas corpus não provido”. (eDOC 2, p. 147)
+    Consta dos autos que o paciente foi denunciado pela prática do delito descrito no art. 306 da Lei 9.503/1997 (embriaguez na condução de veículo automotor), tendo o Ministério Público ofertado o benefício da suspensão condicional do processo, impondo como umas das condições a perda do valor da fiança (eDOC 2, p. 16-18).
+    Irresignada, a defesa impetrou o HC 1.331.276-4 ao Tribunal de Justiça do Estado do Paraná. O relator deferiu o pedido de liminar (eDOC 2, p. 26-39). A 2ª Câmara Criminal, por maioria, denegou a ordem (eDOC 2, p. 65-71).
+    Daí a interposição, no STJ, do mencionado RHC 69.370/PR.
+    No presente HC, a impetrante sustenta, em síntese, a ocorrência de constrangimento ilegal. Para tanto, alega o seguinte:
+    a) violação do princípio da legalidade, porquanto é “inadmissível que a perda da fiança se constitua como condição ao exercício de um direito público subjetivo do réu por três motivos: hipótese não prevista no Código de Processo Penal; não figura no rol do artigo 89 da Lei n° 9.099/95; equivale a prestação pecuniária” (eDOC 1, p. 4); e
+    b) desproporcionalidade da imposição da prestação pecuniária, tendo em vista que, “no presente caso, há presunção da impossibilidade do réu em pagar a prestação pecuniária, visto que está sendo assistido pela Defensoria Pública da União, porque é pessoa hipossuficiente” (eDOC 1, p. 7).
+    Ao final, a impetrante pede a concessão da ordem, a fim de que se afaste a coação ilegal, determinando-se a exclusão da perda do valor da fiança no rol de condições para o exercício do direito subjetivo à suspensão condicional do processo, reconhecendo-se a desproporcionalidade da imposição de prestação pecuniária, diante da impossibilidade do acusado de satisfazê-la por ser hipossuficiente (eDOC 1, p. 9).
+    O Ministério Público Federal opina pelo não conhecimento do habeas corpus (eDOC 7).
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, conforme asseverei ao julgar o HC 108.103/RS, por mim relatado, Segunda Turma, DJe 6.12.2011, com fundamento no § 2º do art. 89 da Lei 9.099/1995, o juiz poderá especificar outras condições a que fica subordinada a suspensão, além das arroladas no § 1º do referido artigo. Confira-se:
+    “Art. 89. Nos crimes em que a pena mínima cominada for igual ou inferior a um ano, abrangidas ou não por esta Lei, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo, por dois a quatro anos, desde que o acusado não esteja sendo processado ou não tenha sido condenado por outro crime, presentes os demais requisitos que autorizariam a suspensão condicional da pena (art. 77 do Código Penal).
+    (…)
+    § 2º O Juiz poderá especificar outras condições a que fica subordinada a suspensão, desde que adequadas ao fato e à situação pessoal do acusado”.
+    Assim, não há ofensa ao princípio da presunção de inocência, porquanto não se trata de pena, mas de condição inerente ao instituto, diferenciando-se quantitativa e qualitativamente.
+    Impende destacar que o benefício da suspensão processual é condicional, sendo intuitivo, portanto, impor determinada restrição ou ônus ao acusado.
+    E, com efeito, a coincidência ou similaridade entre a condição e penas legalmente previstas, por si só, não invalida o ato.
+    Aliás, há coincidência entre as condições impostas pelo próprio legislador para a concessão do benefício e alguns institutos penais, senão vejamos:
+    a) a reparação do dano prevista no art. 89, § 1º, inciso I, da Lei 9.099/1995 é semelhante a uma das destinações do produto do trabalho do preso, disposta no art. 29, § 1º, alínea a, da Lei das Execuções Penais (7.210/1984);
+    b) a proibição de frequentar determinados lugares (art. 89, § 1º, inciso II, da Lei 9.099/1995) é a mesma prevista no inciso IV do art. 47 do Código Penal, que trata da interdição temporária de direitos, uma das penas restritivas de direitos;
+    c) a proibição de se ausentar da comarca onde reside, sem autorização do juiz (art. 89, § 1º, III, da Lei 9.099/1995), coincide com o art. 115, III, da LEP, que dispõe sobre as condições para a concessão de regime aberto; e
+    d) o comparecimento pessoal e obrigatório ao Juízo, mensalmente, para informar e justificar suas atividades (art. 89, § 1º, IV, da Lei 9.099/1995), é análogo ao disposto no art. 115, IV, da LEP.
+    A propósito, colho lição da doutrina:
+    “Podem ser citados como exemplos de condições facultativas as de: frequentar curso de habilitação profissional ou de instrução escolar; atender aos encargos de família; submeter-se a tratamento de desintoxicação; frequentar cursos de reabilitação de alcoolismo; submeter-se a tratamento médico ou psicológico quando haja indicação de sua necessidade e eficácia; entregar ao Estado ou a instituições de auxilio comunitário cestas básicas de alimentos ou medicamentos; não acompanhar, alojar ou receber certas pessoas, etc”.
+    (MIRABETE, Julio Fabbrini. Juizados Especiais Criminais. Ed. Atlas, 1997 ).
+    O que não pode ser aceito é um excesso que inviabilize a concessão do benefício, aliás, não ocorrente, na espécie. Assim, o § 2º do art. 89 da Lei 9.099/1995, que autoriza o juiz a especificar outras condições para a concessão da suspensão, deve ser interpretado sob o prisma do princípio da proporcionalidade, respeitados os vetores da necessidade, adequação e proporcionalidade em sentido estrito.
+    Desse modo, entendo que, no caso, a imposição do perdimento da fiança, a título de prestação pecuniária, é condição legítima, adequada e proporcional para a obtenção do benefício da suspensão condicional do processo.
+    É imperioso ressaltar que o Plenário desta Suprema Corte, nos autos do Inquérito 2.721/DF, em decisão unânime, homologou proposta de transação penal em que se determinou a doação de cestas básicas e resmas de papel braile à determinada instituição social. Eis a ementa desse julgado:
+    “INQUÉRITO. CRIME DE MENOR POTENCIAL OFENSIVO. TRANSAÇÃO PENAL. PROPOSTA ACEITA PELO AUTOR DO FATO. DOAÇÃO DE BENS A ENTIDADE SOCIAL. POSSIBILIDADE. HOMOLOGAÇÃO. O crime investigado é daqueles que admitem a transação penal e o indiciado cumpre os demais requisitos legais do benefício. Embora haja controvérsia sobre a possibilidade de a prestação pecuniária efetivar-se mediante a oferta de bens, a pena alternativa proposta pelo Ministério Público - doação mensal de cestas básicas e resmas de papel braile a entidade destinada à assistência dos deficientes visuais, pelo período de seis meses - atinge à finalidade da transação penal e confere rápida solução ao litígio, atendendo melhor aos fins do procedimento criminal. Homologada a transação penal”. (Inq 2.721, Rel. Min. Joaquim Barbosa, Pleno, decisão unânime, DJe 29.10.2009).
+    Ademais, porque pertinente e acertado, destaco do parecer do Ministério Público Federal o seguinte excerto:
+    “8. A jurisprudência desse Pretório Excelso firmou entendimento no sentido de que o magistrado pode fixar outras condições para a suspensão condicional do processo, além das obrigatórias previstas no art. 89, §1º, da Lei nº 9.099/95, desde que haja adequação ao fato e à situação do acusado.
+    9. Nesse contexto, é perfeitamente possível a imposição do perdimento da fiança, a título de prestação pecuniária, como condição para a concessão do sursis processual.
+    (…)
+    10. A discussão que a eminente Defesa tenta desenvolver sobre a capacidade econômica do paciente não é própria para esta via excepcional, que não permite o exame de fato controvertido em seu rito sumário”. (eDOC 7, p. 3-4)
+    Finalmente, frise-se que o acórdão recorrido se encontra em consonância com a jurisprudência do Supremo Tribunal Federal. Destaco, inter plures, os seguintes julgados: HC 123.324/MG, rel. Min. Rosa Weber, Primeira Turma, DJe 7.11.2014; HC 115.721/PR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 1º.7.2013, e HC 135.399/DF, Rel. Min. Luiz Fux, DJe 3.8.2016.
+    Ante o exposto, com fundamento no art. 192, caput, do RI/STF, denego o writ.
+    Publique-se.
+    Brasília, 31 de agosto de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
