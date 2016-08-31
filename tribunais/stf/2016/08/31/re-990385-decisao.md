@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário fundado nas letras a e c do permissivo constitucional, no qual se alega contrariedade aos artigos 145, § 1°, e 150, II, da Constituição Federal.
+    Insurge-se contra acórdão assim ementado:
+    “TRIBUTÁRIO. PRESCRIÇÃO. IRPJ. CSLL. REDUÇÃO DE ALÍQUOTAS. LEI Nº 9.249/95. LEI 11.727/98. PRESTAÇÃO DE SERVIÇOS HOSPITALARES.
+    1. A Primeira Seção do E. STJ, no REsp nº 1.269.570, submetido ao regime dos recursos repetitivos, decidiu pela aplicação do disposto no art. 3º da LC nº 118/2005, que reduziu o lapso temporal de 10 para 5 anos, somente às ações ajuizadas a partir de 09/06/2005, acompanhando o entendimento consolidado pelo Plenário do E. STF no julgamento do RE 566.621.
+    2. Os artigos 15, § 1º, III, 'a' e 20, da Lei nº 9.249/1995, prevêem a redução da base de cálculo do IRPJ e da CSSL para as prestadoras de serviços hospitalares.
+    3. O Superior Tribunal de Justiça pronunciou-se no sentido de que o benefício fiscal previsto na Lei nº 9.249/95 deve ser concedido de forma objetiva, a empreendimentos relacionados às atividades desenvolvidas nos hospitais, ligados diretamente à promoção da saúde, podendo ser prestados no interior do estabelecimento hospitalar, mas não havendo esta obrigatoriedade' (RESP nº 951.251).
+    4. A jurisprudência do STJ consolidou-se no sentido de que a redução da base de cálculo do IRPJ e da CSLL não inclui as consultas médicas, visto que somente os serviços especializados de saúde, com custos diferenciados, inserem-se no conceito de serviços hospitalares.
+    5. A partir da data da vidência da Lei 11.727, de 2008, apenas as sociedades empresarias fazem jus ao benefício previsto na Lei 9.249/95.”
+    Decido.
+    A irresignação não merece prosperar.
+    O Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do AI nº 803.140/RS, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral da questão relativa a exceção prevista no art. 15, § 1º, inciso II, alínea ‘a”, da Lei nº 9.249/95. A decisão do Plenário está assim ementada:
+    “1.Tributário. 2.Exceção prevista no artigo 15, §1º, inciso III, alínea “a”, da Lei 9.249/95, que prescreve os sujeitos passivos da Contribuição Social sobre o Lucro Líquido (CSLL) e do Imposto de Renda Pessoa Jurídica (IRPJ) com bases de cálculo, respectivamente, de 12% e de 8% sobre receita bruta. Definição de serviços hospitalares e afins. 3. Discussão que se circunscreve ao âmbito normativo infraconstitucional, bem como que demanda o reexame dos aspectos fático-probatórios subjacentes aos requisitos do enquadramento pretendido. 4. Ausência de contencioso constitucional. Repercussão geral rejeitada” (AI n° 830.140/RS-RG, Relator o Ministro Gilmar Mendes, DJe de 1°/6/11).
+    Ademais, verifico que para ultrapassar o entendimento do Tribunal de origem acerca da análise da legitimidade do requisito imposto por lei para fins de benefício fiscal, seria necessário o reexame da legislação infraconstitucional pertinente (Lei n° 11.727/08), o que não é cabível em sede de recurso extraordinário. Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. 1. PROCESSUAL CIVIL. NÃO SUBSTITUIÇÃO DO ACÓRDÃO RECORRIDO. 2. TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOA JURÍDICA - IRPJ E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. COMPROVAÇÃO DOS REQUISITOS LEGAIS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O não provimento do recurso especial pelo Superior Tribunal de Justiça não substitui o acórdão proferido pelo Tribunal de origem, conforme dispõe o art. 512 do Código de Processo Civil. Precedentes. 2. Tributário. Imposto de Renda de Pessoa Jurídica e Contribuição Social sobre o Lucro Líquido. Comprovação dos requisitos exigidos para que empresa prestadora de serviços hospitalares tenha a redução da base de cálculo do imposto. Impossibilidade de reexame de provas (Súmula 279 do Supremo Tribunal Federal) e da análise da legislação infraconstitucional” (RE n° 600.123/ PR-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 23/10/09).
+    No mesmo sentido, a seguinte decisão monocrática: RE n° 830.827/SC, Relator o Ministro Roberto Barroso, DJe de 27/11/14.
+    Por fim, incabível o recurso extraordinário pela alínea “c” do permissivo constitucional, haja vista que o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição Federal.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 31 de agosto de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
