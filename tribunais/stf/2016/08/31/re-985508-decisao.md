@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO. CIVIL E PROCESSUAL CIVIL. COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO CONTRATUAL. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA POR INCAPACIDADE CIVIL E CONSEQUENTE INCOMPETÊNCIA DO JUÍZO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. ALEGADA VIOLAÇÃO AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. TEMA 660. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “RECURSO INOMINADO. RESPONSABILIDADE CIVIL. COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO CONTRATUAL – O CONTRATO DE COMPRA E VENDA FOI FIRMADO ENTRE AS PARTES POR INSTRUMENTO PARTICULAR, PORTANTO GERA EFEITOS INTER PARTES. INADIMPLEMENTO CONTRATUAL COMPROVADO - SENTENÇA QUE JULGOU PROCEDENTE A DEMANDA, DETERMINANDO DEVOLUÇÃO DO VALOR QUE FOI PAGO, DEVIDAMENTE CORRIGIDO MAS NÃO CONDENOU EM INDENIZAÇÃO PELOS DANOS MORAIS. REFORMA PARCIAL DA SENTENÇA SE IMPÕE – DANO MORAL CONFIGURADO – RECURSO PARCIALMENTE PROVIDO.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, LII, LIV e LV, da CF. Alega, também, ilegitimidade passiva, em razão de a recorrida ser civilmente incapaz, e a consequente incompetência do juízo.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    Ab initio, ressalte-se que a matéria relativa à ilegitimidade passiva, por incapacidade civil, com a consequente incompetência do juízo, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional atinente à espécie (Código de Processo Civil, Código Civil e Lei de Organização Judiciária local), o que inviabiliza o conhecimento do apelo extremo.
+    Nesse sentido, destaco o ARE 916.805-AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe de 9/8/2016, assim ementado, verbis:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. EXTINÇÃO DO FEITO POR ILEGITIMIDADE PASSIVA. DISCUSSÃO SOBRE A MATÉRIA DE FUNDO REFERENTE ÀS PERDAS DECORRENTES DA CONVERSÃO DOS VENCIMENTOS EM URV. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 1. As questões constitucionais invocadas no recurso extraordinário não foram objeto de debate no acórdão recorrido. Óbice das Súmulas 282 e 356 do STF. 2. Quando de índole infraconstitucional a questão relativa à legitimidade de parte, não tem cabimento o recurso extraordinário. 3. Agravo regimental a que se nega provimento.”
+    Assevere-se, ainda, que esta Corte já firmou entendimento no sentido de que os princípios do devido processo legal, da ampla defesa e do contraditório (artigo 5º, LIV e LV), quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, Tema 660, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Ex positis, DESPROVEJO o recurso, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
