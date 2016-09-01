@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 1, p. 375):
+    “EMENTA: ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. NEPOTISMO. CARGO POLÍTICO. SÚMULA VINCULANTE N. 13, STF. NOMEAÇÃO DE IRMÃOS DE PREFEITO MUNICIPAL PARA O CARGO DE SECRETÁRIO MUNICIPAL. IMPROBIDADE ADMINISTRATIVA RECONHECIDA. APELO DESPROVIDO.
+    - A aplicação da Súmula Vinculante n. 13, STF no tocante à nomeação para cargos políticos, demanda exame de cada caso, conforme tem agido a Suprema Corte.
+    - Hipótese na qual o reconhecimento da improbidade administrativa é devido, pois não demonstrado que os escolhidos para ocupar os cargos de secretários municipais – três irmãos do Prefeito – possuíam a habilitação devida e fossem os únicos capazes para tal mister naquela localidade, aliado ao fato que o Chefe do Executivo foi, expressamente, alertado pelo Ministério Público acerca da ilegitimidade das nomeações e optou por manter os agentes em questão.”
+    Os embargos de declaração foram rejeitados, com a aplicação de multa (eDOC 1, pp. 392-398).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, II, do Texto Constitucional, assim como à Súmula Vinculante 13.
+    Nas razões recursais, sustenta-se que não há norma que proíba a nomeação de parentes para cargos políticos (eDOC 1, p. 450).
+    A 1ª Vice-Presidência do TJ/MG inadmitiu o recurso extraordinário devido encontrar-se deserto (eDOC 22).
+    Nas considerações do agravo, o recorrente discorre que o pedido de benefício da assistência judiciária foi formulado em sede de contestação, entretanto o juiz sentenciante não se manifestou a respeito da referida petição (eDOC 1, p. 486).
+    É o relatório. Decido.
+    Inicialmente, quanto à inadmissibilidade do recurso sob o fundamento da deserção, em mais de uma oportunidade os Ministros desta Corte reconheceram a possibilidade de deferimento tácito da Justiça Gratuita diante de declaração do beneficiário e ausência de manifestação judicial sobre a questão (ARE 891414-AGR, de relatoria do min. Luiz Roberto Barroso, DJe 06.05.2016 e ARE 899422 AGR, de relatoria do Min. Gilmar Mendes, DJe 18.09.2015). É o caso dos autos.
+    Superado o referido óbice, passo a analisar o mérito.
+    O presente recurso não merecer prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento asseverou que (eDOC 1, pp. 379-380):
+    “Na espécie dos autos, não foi comprovado fosse os irmãos do recorrente os únicos a ocupar o cargo naquela localidade. Aliás, no âmbito da contestação, o ora apelante sequer cuidou de registrar tivessem eles capacidade técnica/profissional na área para a qual nomeados, apenas se escudando na Súmula Vinculante n. 13, como se confere à f. 250/255.
+    Outrossim, a suposta capacitação técnica dos nomeados somente foi alegada em sede de razões de apelo, limitando-se o apelante a registrar que dois de seus irmãos têm cursos superiores, sem apresentar prova alguma, quer no tocante à capacitação técnica e profissional dos nomeados.
+    Pondere-se, ainda, que nas razões de recurso cuidou a parte de registrar que dois de seus irmãos – os nomeados aos cargos de Secretário de Obras Públicas e Secretário do Meio Ambiente e Agricultura – sequer naquele Município viviam, pois estavam ‘residindo em Montes Claros’ (f. 298). E, no tocante à Secretaria de Governo a parte foi expressa em registrar que ‘não há qualificação necessária, basta tratar-se de pessoa de confiança’ (f. 297).
+    (…)
+    Outrossim, um detalhe que não pode ser desconsiderado é que os cargos ocupados por parentes representam um percentual significativo, na medida em que são três numa totalidade de sete secretarias.
+    Nesse contexto, considero que a Súmula Vinculante n. 13 do STF deve ser aplicada à espécie e abrange as designações para os cargos de natureza política, porquanto o administrador não pode cercar-se, sempre, de pessoas da família para governar, como se os princípios da moralidade e da impessoalidade somente fossem aplicáveis aos cargos inferiores da administração pública.”
+    Observa-se que o acórdão recorrido encontra-se alinhado à jurisprudência desta Suprema Corte no tocante à possibilidade de extensão da vedação do nepotismo, consolidada na Súmula Vinculante 13, também às nomeações para cargos de natureza política, em circunstâncias verificáveis no caso concreto:
+    “EMENTA Reclamação – Constitucional e administrativo – Nepotismo – Súmula vinculante nº 13 – Distinção entre cargos políticos e administrativos – Procedência. 1. Os cargos políticos são caracterizados não apenas por serem de livre nomeação ou exoneração, fundadas na fidúcia, mas também por seus titulares serem detentores de um munus governamental decorrente da Constituição Federal, não estando os seus ocupantes enquadrados na classificação de agentes administrativos. 2. Em hipóteses que atinjam ocupantes de cargos políticos, a configuração do nepotismo deve ser analisado caso a caso, a fim de se verificar eventual “troca de favores” ou fraude a lei. 3. Decisão judicial que anula ato de nomeação para cargo político apenas com fundamento na relação de parentesco estabelecida entre o nomeado e o chefe do Poder Executivo, em todas as esferas da federação, diverge do entendimento da Suprema Corte consubstanciado na Súmula Vinculante nº 13. 4. Reclamação julgada procedente.”
+    (Rcl 7590, Relator(a):  Min. DIAS TOFFOLI, Primeira Turma, julgado em 30/09/2014, ACÓRDÃO ELETRÔNICO DJe-224 DIVULG 13-11-2014 PUBLIC 14-11-2014)
+    Ademais, mesmo que assim não fosse, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, não conheço do presente agravo, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 01 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
