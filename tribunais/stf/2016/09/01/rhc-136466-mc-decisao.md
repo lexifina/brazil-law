@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão da Sexta Turma do Superior Tribunal de Justiça proferido no HC 249.477/SP, Rel. Min. Nefi Cordeiro. Consta dos autos, em síntese, que (a) o recorrente foi denunciado pela suposta prática do crime de furto qualificado (art. 155, § 4º, I e II, do Código Penal); (b) rejeitada a denúncia, o Ministério Público Federal interpôs recurso em sentido estrito, ao qual o Tribunal Regional Federal da 3ª Região deu provimento para receber a denúncia e determinar o processamento da ação; (c) irresignada, a defesa impetrou habeas corpus ao Superior Tribunal de Justiça, que não conheceu da impetração, em acórdão assim ementado:
+    “PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. FURTO QUALIFICADO. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA. AFASTADA. ILICITUDE DAS PROVAS PRODUZIDAS. ILEGALIDADE. NÃO CONHECIMENTO.
+    1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recurso especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+    2. Não padece de inépcia a denúncia que descreve os fatos tidos por criminosos, possibilitando identificar os elementos probatórios mínimos para a caracterização do delito e o pleno exercício das garantias constitucionais do contraditório e ampla defesa, em conformidade com o art. 41, CPP.
+    3. O reconhecimento da ilegalidade arguida, consistente no eventual abuso de poder por parte da autoridade policial, que segundo o Tribunal local, não restou demonstrada pela inexistência de elementos indicativos, demandaria o revolvimento e a revaloração de fatos e provas, o que é inadmissível na via estreita do habeas corpus.
+    4. Habeas corpus não conhecido”.
+    Neste recurso, a Defensoria Pública da União sustenta, em síntese, que (a) a apreciação da ilegalidade ou do abuso de poder apontados não implica revolvimento do quadro probatório, mas demanda “mera interpretação jurídica” acerca da controvérsia; e (b) o crime de furto em cartório eleitoral imputado ao recorrente teve respaldo em provas obtidas por meios ilícitos, já que o ingresso dos policiais na residência do acusado não ocorreu em estado de flagrância ou acobertado por autorização judicial. Requer, liminarmente e no mérito, o trancamento da ação penal pela ausência de justa causa.
+    2. Consideradas as especiais circunstâncias dos autos, o exame da matéria será feito no momento oportuno, em caráter definitivo.
+    3. Pelo exposto, indefiro o pedido de liminar. À Procuradoria-Geral da República para manifestação.
+    Publique-se. Intime-se.
+    Brasília, 1º de setembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
