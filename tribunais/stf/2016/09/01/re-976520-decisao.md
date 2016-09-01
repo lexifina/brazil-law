@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – FALTA DE PREQUESTIONAMENTO – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 5° Região confirmou o entendimento do Juízo quanto à improcedência do pedido. Nas razões do extraordinário, o recorrente alega a violação dos artigos 1º e 5º da Constituição Federal. Pleiteia o recebimento de diferenças a título de repasse de verbas do Fundo de Participação dos Municípios (FPM). Diz contrariados os princípios da isonomia e do pacto federativo.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    A discussão gira em torno de saber se a inclusão em faixa polulacional maior, no ano de 1997, correspondente ao coeficiente 1.4, com a aplicação do redutor incidente sobre o ganho adicional a partir de 1999, na forma do artigo 2º da Lei complementar 91/97, gerou algum prejuízo ao Município, caso houvesse mantido o enquadramento na faixa polulacional com o coeficiente de 0.8, naquele ano de 1997, sem o respectivo redutor.
+    (…)
+    A regra do redutor financeiro, incidente sobre o ganho adicional do coeficiente, teve o objetivo de evitar a perda repentina de receita dos municípios, que sofreram redução populacional ente os anos de 1997 e 1998, na forma do § 2º do art. 1º da lei acima transcrita.
+    Pela sistemática da Lei, ao Município fora atribuído, pelo TCU, o coeficiente de 1.4 em 1997 e, observada a perda populacional, com enquadramento na faixa entre 10.189 a 13.584 habitantes, e coeficiente 0.8, foi mantido o anterior fator de 1.4 no ano de 1998, e a aplicação, a partir de 1999, do redutor incidente sobre o respectivo ganho adicional de 0.6, durante os dez anos subsequentes.
+    Dessa forma, a partir de 1998, o Município autor, ao invés de receber o repasse de suas cotas do FPM, com base no coeficiente de 0.8, continuou a auferir o coeficiente de 1.4, aplicando-se, a partir de 1999, o redutor de 20% sobre o ganho adicional de 0.6, e, progressivamente, até o final do exercício financeiro de 2007, quando o redutor alcançou o patamar máximo de 90%, suprimindo-se o dito redutor financeiro com o restabelecimento do coeficiente original a partir de 2008.
+    Matematicamente, portanto, não enxergo nenhum prejuízo financeiro sofrido pelo Município, ao contrário, fora ele beneficiado por todo esse período, com a aplicação do redutor financeiro, não havendo por que agora a reclamação.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e nº 356 da Súmula do Supremo. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Pelas razões acima, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 1º de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
