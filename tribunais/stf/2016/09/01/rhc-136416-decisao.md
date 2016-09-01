@@ -1,0 +1,31 @@
+Decisão: 1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça nos autos do HC 298.394/MS, Rel. Ministro Reynaldo Soares da Fonseca. Consta dos autos, em síntese, que (a) a recorrente foi condenada à pena de 4 anos e 2 meses de reclusão, no regime inicial semiaberto, pelo crime de tráfico de drogas (art. 33 da Lei 11.343/2006); (b) a condenação foi confirmada pelo Tribunal de Justiça; (c) irresignada, a defesa impetrou habeas corpus ao Superior Tribunal de Justiça, que denegou a ordem, em acórdão assim ementado:
+    “(...) – Deve ser mantida a fração redutora de 1/6, pelo reconhecimento da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006, quando a sentença e o acórdão recorridos, dentro da discricionariedade permitida por lei, fundamentam o patamar escolhido, concretamente, na quantidade da droga apreendida (6 kg de maconha). Ademais, alterar a conclusão a que chegou as instâncias ordinárias implica, sem dúvida, revolver o acervo fático-probatório, inviável na estreita via do habeas corpus.
+    – Mantida a fração pelo tráfico privilegiado e, em decorrência, inalterada a pena corporal, fica prejudicado o pleito de substituição da pena, uma vez que o patamar de 4 anos e 2 meses de reclusão não atende ao requisito objetivo do art. 44, I, do Código Penal.
+    – Do mesmo modo, sem a almejada a redução da pena, não há qualquer alteração a ser promovida no regime de cumprimento de pena aplicado, pois o sentenciante estabeleceu o regime semiaberto, em consonância ao disposto no art. 33, § 2º, ‘b’, do Código Penal.
+    – Habeas corpus não conhecido”.
+    Neste recurso ordinário, a defesa sustenta, em suma, que (a) “a valoração da quantidade da droga, segundo entendimento das Cortes Superiores não poderia ocorrer na 3ª fase e sim na fixação da pena-base, conforme indicativo previsto no art. 42 da Lei 11.343/2006”; (b) a aplicação da causa especial de redução da pena, em patamar mínimo, carece de fundamentação adequada; (c) alcançada a redução da pena em grau máximo, deve ser imposto o regime prisional inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos. Requer, liminarmente e no mérito, o provimento do recurso com a incidência da minorante do § 4º do art. 33 da Lei 11.343/2006, em sua fração máxima, com as demais repercussões na pena daí decorrentes.
+    2. O Plenário desta Corte decidiu, por maioria, que o princípio da individualização da pena (art. 5º, XLVI, da CF) autoriza ao magistrado valorar a quantidade e a natureza da droga apreendida na primeira (pena-base) ou na terceira fase da dosimetria (fração de redução - art. 33, § 4º, da Lei 11.343/2006), a depender do caso concreto, sendo vedada a consideração simultânea dessas circunstâncias em ambas as etapas, sob pena de incorrer em bis in idem (HC 109.193/MG e HC 112.776/MS, Plenário, Rel. Min. TEORI ZAVASCKI, ambos julgados em 19/12/2013).
+    3. Para exata compreensão da matéria, cumpre registrar a dosimetria da pena realizada pelo magistrado sentenciante:
+    “1ª Fase – Circunstâncias judiciais
+    (…)
+    As circunstâncias do crime extrapolam o normal do tipo penal, tendo em vista o concurso de agentes e a expressiva quantidade de droga apreendida em poder dos acusados.
+    É dizer, visto que eles guardavam e transportavam mais de 06 (seis) quilos de maconha, certo é que são graves as circunstâncias do crime.
+    O art. 42 da Lei 1.343/2006 prevê que na fixação das penas o juiz considerará, com preponderância sobre o previsto no art. 59 do Código Penal, ‘a quantidade da substância ou do produto’, de modo que tal circunstância constitui elemento hábil a ser considerado para agravar a pena.
+    (…)
+    Em tal contexto, fixo as penas bases em: a) 05 (cinco) anos e 08 (oito) meses de reclusão e 570 (quinhentos e setenta) dias multa, para a acusada Fernanda.
+    (…)
+    Incide apenas em favor de FERNANDA a causa de diminuição de pena a que alude o § 4.° do art. 33 da Lei 11.343/2006, posto que devidamente preenchidos os requisitos legais.
+    O citado dispositivo legal dispõe o seguinte:
+    (...)
+    Logo, para obtenção de tal favor legis o agente deverá preencher, de forma cumulativa, os seguintes requisitos: ser primário, de bons antecedentes, não se dedicar a atividades criminosas e não integrar organização criminosa.
+    Na presença de tais requisitos legais, a redução da pena constitui direito subjetivo do réu, remanescendo discricionariedade do juiz unicamente em relação ao quantum da diminuição, que deve ser motivada.
+    No caso em tela, a acusada é primária e não possui antecedentes penais, também não integra organização criminosa, logo, faz jus à redução legal.
+    Ademais, na terceira fase da fixação da pena, faço incidir a causa de diminuição reconhecida e, considerando a quantidade de droga apreendida e as circunstâncias do crime, diminuo as penas em 1/6 (um sexto), tornando-as definitivas em 04 (quatro) anos e 02 (dois) meses de reclusão e 416 (quatrocentos e dezesseis) dias-multa, à míngua de outros elementos que influenciem na sua fixação”.
+    4. Bem se vê que o fundamento da quantidade das drogas apreendidas foi invocado tanto para manter a pena-base acima do mínimo legal (5 anos e 8 meses) quanto para aplicar a causa de diminuição do § 4º do art. 33 da Lei de Drogas na fração mínima de 1/6.
+    Presente ilegítimo bis in idem, portanto, deverá o juízo competente proceder à nova dosimetria da reprimenda, considerando a quantidade dos entorpecentes apreendidos em apenas uma das fases da fixação da reprimenda, ou seja, na primeira etapa (pena-base) ou na terceira (fração de redução), na linha dos precedentes mencionados.
+    5. Pelo exposto, dou parcial provimento ao recurso para determinar ao Juízo de origem que se proceda à nova fixação da pena imposta à recorrente, com a observância da quantidade das drogas apreendidas em apenas uma das fases da dosimetria e, reajustada a reprimenda, analise a possibilidade de (a) converter a sanção corporal (CP, art. 44); e (b) estabelecer regime prisional menos gravoso (CP, art. 33).
+    Publique-se. Intime-se.
+    Brasília, 1º de setembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
