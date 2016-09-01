@@ -1,0 +1,20 @@
+Trata-se de agravo regimental interposto por Luiz Pereira dos Santos Netto contra a decisão que deferiu o pedido para suspender a execução das decisões proferidas nos autos dos Mandados de Segurança 071.01.2009.020216-5, 053.10.010894-9 e 053.10.010895-7, até o trânsito em julgado ou ulterior deliberação desta Corte.
+    O agravante alega que não restou comprovada “de forma inequívoca” o requisito de lesão à ordem pública, necessário ao deferimento do pedido de suspensão, “o que não ocorreu e nem o risco do efeito multiplicador que pudesse abalar a economia pública”. Ao final, requer a reconsideração da decisão agravada e a rejeição do pedido de suspensão.
+    O Ministério Público Federal, em parecer da lavra do Procurador-Geral da República, Roberto Monteiro Gurgel Santos, opinou pelo desprovimento do agravo regimental.
+    O Estado de São Paulo aduz que “a decisão agravada está em perfeita sintonia com o entendimento firmado pelo Plenário dessa Colenda Corte, no sentido de que o ‘O chamado efeito multiplicador, que provoca lesão à economia pública, é fundamento suficiente para o deferimento do pedido de suspensão’ (documento eletrônico 25).
+    Instado a se manifestar sobre o interesse no prosseguimento do feito, o agravante permaneceu silente, conforme certidão (documento eletrônico 31).
+    É o relatório. Decido.
+    Bem examinados os autos, concluo que a questão de fundo da presente suspensão de segurança é a mesma daquela enfrentada no julgamento do Tema 480 da Repercussão Geral – RE 609.381-RG/GO, Rel. Min. Teori Zavascki, cuja ementa, por oportuno, transcrevo:
+    “EMENTA: CONSTITUCIONAL E ADMINISTRATIVO. TETO DE RETRIBUIÇÃO. EMENDA CONSTITUCIONAL 41/03. EFICÁCIA IMEDIATA DOS LIMITES MÁXIMOS NELA FIXADOS. EXCESSOS. PERCEPÇÃO NÃO RESPALDADA PELA GARANTIA DA IRREDUTIBILIDADE.
+    1. O teto de retribuição estabelecido pela Emenda Constitucional 41/03 possui eficácia imediata, submetendo às referências de valor máximo nele discriminadas todas as verbas de natureza remuneratória percebidas pelos servidores públicos da União, Estados, Distrito Federal e Municípios, ainda que adquiridas de acordo com regime legal anterior.
+    2. A observância da norma de teto de retribuição representa verdadeira condição de legitimidade para o pagamento das remunerações no serviço público. Os valores que ultrapassam os limites pré-estabelecidos para cada nível federativo na Constituição Federal constituem excesso cujo pagamento não pode ser reclamado com amparo na garantia da irredutibilidade de vencimentos.
+    3. A incidência da garantia constitucional da irredutibilidade exige a presença cumulativa de pelo menos dois requisitos: (a) que o padrão remuneratório nominal tenha sido obtido conforme o direito, e não de maneira ilícita, ainda que por equívoco da Administração Pública; e (b) que o padrão remuneratório nominal esteja compreendido dentro do limite máximo pré-definido pela Constituição Federal. O pagamento de remunerações superiores aos tetos de retribuição de cada um dos níveis federativos traduz exemplo de violação qualificada do texto constitucional.
+    4. Recurso extraordinário provido.”
+    Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de São Paulo, verifica-se no andamento processual da Apelação 0010894-27.2010.8.26.0053 (990.10.552753-1) que seu Presidente, Desembargador Ricardo Dipp, em decisão de 13/6/2016, julgou prejudicado o recurso extraordinário manejado pelo agravante:
+    “Remetidos os autos à Turma julgadora para os fins do § 3º do art. 543-B do revogado Código de Processo Civil (comando correspondente ao disposto no inc. II do art. 1.030 da Lei 13.105, de 16.03.15), ocorrida a retratação, julgo prejudicado o recurso interposto.”
+    Dessa forma, constato a perda superveniente do objeto da contracautela, ante o julgamento da ação principal.
+    Isso posto, tendo em vista o inafastável esvaziamento do pedido de suspensão, declaro extinto o presente feito (art. 21, IX, do RISTF) e julgo prejudicado este agravo regimental.
+    Publique-se.
+    Brasília, 1º de setembro de 2016.
+Ministro Ricardo Lewandowski
+Presidente
