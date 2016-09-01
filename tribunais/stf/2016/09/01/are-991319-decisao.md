@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. OPERADOR DE RAIOS X. GRATIFICAÇÃO. ALEGADA CONTRARIEDADE AO ART. 37, INC. XIV, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra julgado da Primeira Turma Recursal Fazendária dos Juizados Especiais do Rio de Janeiro pelo qual se manteve a seguinte sentença:
+    “Dispensado o relatório na forma do artigo 38 da Lei 9.099/95, o qual aplico por força do disposto no artigo 27 da lei 12.153/2009, decido.
+    Pleiteiam as autoras, o pagamento dos valores correspondentes a gratificação a titulo de operador de Raios X, no período de 06/2013 a 12/2014, no total de R$ 6.684,32.
+    Alega o autor que: ‘em 11/12/2014, através do Boletim da SEDEC/CBMERJ de n.º 227, às folhas 10396, foi passado por certidão o período de exposição do Autor ao Raios X que foi de 20 (vinte) anos, 1 (um) mês e 20 (vinte) dias, conforme certidão em anexo.
+    Assim no contracheque de 02/2015, anexado aos Autos, foi lançada a rubrica - 1018 INCORPORAÇÃO DE RAIO-X, referente ao mês de janeiro/2015 e fevereiro/2015, ressaltando que passou a constar também nos meses subsequentes’.
+    Relata ainda que ‘voltou a receber a gratificação a partir de janeiro/2015, porém o período compreendido de 06/2013 a 12/2014...’.
+    O Réu devidamente citado, conforme certidão de fls.81. quedou-se silente. Em se tratando de litígio envolvendo interesses indisponíveis, a revelia não induz o efeito da presunção de veracidade dos fatos afirmados na inicial (artigo 320, II do Código de Processo Civil).
+    Desta forma, é inaplicável os efeitos da revelia contra a Fazenda Pública, a teor do disposto no art. 320, inciso II do CPC.
+      O autor logrou comprovar nos autos o reconhecimento a incorporação da gratificação. Inexiste nos autos provas de que o autor tenha recebido as verbas reclamadas.
+    Deixo de acolher o pleito indenizatório por não vislumbrar abalo psíquico emocional a justificar a concessão.
+    Diante do acima exposto, JULGO PROCEDENTE o pedido, para condenar o réu a pagar ao autor” (doc. 7).
+    2. O Agravante alega contrariado o art. 37, inc. XIV, da Constituição da República e sustenta que “os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores. Na hipótese, a absorção da gratificação recebida por servidor ao vencimento-base depende da existência de lei formal, ou seja, da aprovação da Assembleia Legislativa a projeto de lei de iniciativa do Governador do Estado, já que traz como consequência o aumento do valor das parcelas pecuniárias que são calculadas em percentual incidente sobre o vencimento base, sob pena de violação ao princípio da reserva legal” (doc. 3).
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula n. 279 deste Supremo Tribunal.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A alegada contrariedade ao art. 37, inc. XIV, da Constituição da República, suscitada no recurso extraordinário, não foi objeto de debate e decisão prévios na Turma Recursal, tampouco tendo sido opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas ns. 282 e 356 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI n. 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    “DIREITO PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. TEMPO ESPECIAL NÃO RECONHECIDO. REQUISITOS NÃO PREENCHIDOS PARA CONCESSÃO DO BENEFÍCIO. SÚMULA Nº 282 E Nº 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. RECURSO MANEJADO EM 11.4.2016. 1. Cristalizada a jurisprudência desta Suprema Corte, a teor das Súmulas nº 282 e nº 356/STF: “Inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”, bem como “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”. (...) 3. Agravo regimental conhecido e não provido” (ARE n. 948.354-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 14.6.2016).
+    Nada há a prover quanto às alegações do Agravante.
+    6. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de setembro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
