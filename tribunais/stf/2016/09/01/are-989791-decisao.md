@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 2ª Turma Recursal Mista Temporária de Goiânia, assim ementado (eDOC 1, p. 113):
+    “RECURSO INOMINADO. PROGRESSÃO HORIZONTAL. REQUISITOS. ATUALIZAÇÃO MONETÁRIA E JUROS DECORRENTES DA OBRIGAÇÃO DE PAGAMENTO. 1- Prevendo a lei que a progressão horizontal está sujeita ao critério temporal e de mérito, a incumbência quanto ao segundo requisito é obrigação da Administração Pública. 2- Deixando a Administração Pública de fixar os critérios para aferição do mérito do servidor, não pode ela impedir a progressão com o cumprimento do requisito temporal, sob pena de tornar letra morta a lei que permitiu o direito. 3- As diferenças salariais estão sujeitas à correção monetária e juros legais. 4- STF já modulou os efeitos da ADU 4357, fixando a TR como correção até março de 2015 e aplicando-se o IPCA após esta data. 5- Os juros aplicáveis ao caso são simples, não se podendo impor os compostos. 6- Recurso conhecido e parcialmente provido para fixar a TR até março de 2015 na correção dos valores, com juros simples. 6- Sem custas ou honorários.”
+    No recurso extraordinário (eDOC 1, p. 118-125), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 2º; 37, caput e inciso X e 169, caput e § 1º, I e II, do Texto Constitucional.
+    Sustenta-se que o acórdão recorrido, ao conceder a progressão pleiteada, violou os princípios da separação dos poderes e da legalidade.
+    Alega-se, ainda, que “o texto constitucional não admite indevidas interferências do Poder Judiciário que implicam em majoração de despesas com pessoal” (eDOC 1, p, 125).
+    A Presidência do TJ/GO inadmitiu o recurso extraordinário com base na jurisprudência do STF (eDOC 2, p. 23).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De plano, constata-se, a partir da leitura da ementa do acórdão recorrido, que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação local aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em conta os enunciados das Súmulas 279 e 280 do STF. Neste sentido os seguintes precedentes: ARE 700.165 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 02.06.2016, ARE 925.311 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 07.12.2015, ARE 917.839 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 1º.02.2015 e ARE 902.222 AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 25.11.2015, este último assim ementado:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VEDAÇÃO. SÚMULA 279/STF. LEI LOCAL. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 280/STF. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”
+    Ante o exposto, nego seguimento ao agravo, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 1º de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
