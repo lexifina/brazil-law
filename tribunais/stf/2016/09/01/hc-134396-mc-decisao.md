@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – RELEVÂNCIA NÃO DEMONSTRADA – LIMINAR INDEFERIDA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da DIPO 4 do Foro Central Criminal da Barra Funda, Comarca de São Paulo/SP, no processo nº 0091292-91.2015.8.26.0050, converteu a prisão em flagrante do paciente, ocorrida em 25 de outubro de 2015, em preventiva, ante a suposta prática das infrações descritas nos artigos 155, § 4º, incisos I e IV (furto qualificado pelo rompimento de obstáculo e concurso de pessoas), e 180, cabeça (receptação), todos do Código Penal. Consignou a necessidade da custódia para a garantia da ordem pública, afirmando ser o paciente reincidente específico, com quatro condenações transitadas em julgado. Ressaltou o risco concreto de reiteração delituosa, assinalando que, uma vez beneficiado com livramento condicional, cometeu novos crimes.
+    Condenou-o a 2 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 14 dias-multa, considerada a infração prevista no artigo 155, § 4º, incisos I e IV, do Código Penal. Negou-lhe o direito de recorrer em liberdade, ressaltando os maus antecedentes e a reincidência.
+    Em habeas corpus no Tribunal de Justiça, pleiteou-se a expedição de alvará de soltura, apontando-se excesso de prazo para a formação da culpa. Sustentou-se a nulidade do processo-crime em virtude de cerceamento de defesa, uma vez não acolhido o pedido de envio de ofício para proceder-se à juntada das imagens constantes do sistema de monitoramento. A Quarta Câmara de Direito Criminal julgou prejudicada a impetração no tocante ao pleito de revogação da constrição, observada a modificação do título preventivo. Quanto à arguida nulidade, indeferiu a ordem, assentando a impossibilidade da produção probatória.
+    No Superior Tribunal de Justiça, habeas corpus nº 355.872/SP, renovou-se a argumentação anteriormente expendida. O Relator deixou de implementar a medida de urgência, salientando não vislumbrar manifesta ilegalidade.
+    Neste habeas, o impetrante pleiteia a superação do óbice versado no verbete nº 691 da Súmula do Supremo. Reitera a alegação de nulidade do processo, devido a cerceamento de defesa. Diz da ausência de fundamentação do ato que implicou a negativa de produção probatória. Afirma o excesso de prazo da segregação para formação da culpa. Articula com a violação dos artigos 5º, incisos LV e LVII, e 93, inciso IX, ambos da Carta Federal. Enfatiza as condições pessoais favoráveis do paciente – bons antecedentes, residência fixa e ocupação lícita.
+    Requer, em âmbito liminar, o afastamento da preventiva até o exame definitivo da impetração. No mérito, busca a confirmação da providência, bem como a anulação do processo-crime nº 0091292-91.2015.8.26.0050 a partir da audiência de instrução e julgamento ou da decisão de indeferimento da produção probatória.
+    Consulta ao sítio do Tribunal estadual revelou que se encontra pendente de apreciação o recurso de apelação interposto pela defesa.
+    A fase é de análise da medida acauteladora.
+    O Juízo, ao determinar a preventiva, ressaltou a periculosidade do paciente. Ao fazê-lo, disse tratar-se de reincidente, considerados delitos praticados contra o patrimônio. Consignou que, quando solto, beneficiado por livramento condicional, voltou a delinquir, demonstrando envolvimento com a criminalidade. A inversão da ordem natural – no que direciona a apurar-se para, selada a culpa, em execução da pena, prender-se – foi justificada, atendendo-se ao figurino legal.
+    No tocante ao alegado cerceamento de defesa, não surge ilegalidade. Na sentença, o Juízo afirmou que o móvel da negativa da produção probatória foi a impossibilidade de obtenção das imagens, porquanto o aparelho de monitoramento teria sido objeto da infração, consoante asseverado pela vítima.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 1º de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
