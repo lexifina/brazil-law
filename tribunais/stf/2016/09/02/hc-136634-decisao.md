@@ -1,0 +1,15 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Paulo Roberto Bertazi e outros em favor de Jander Faruk Mussi, contra decisão monocrática da lavra do Ministro Reynaldo Soares Fonseca, do Superior Tribunal de Justiça, que negou seguimento ao RHC 65.196/SP.
+    O paciente foi denunciado pela suposta prática dos crimes de roubo majorado (por duas vezes) e de associação criminosa, tipificados nos arts. 157, § 2º, I, II, e 288, parágrafo único, ambos do Código Penal. O Juízo da Vara Única da Comarca de Nova Granada/SP decretou a prisão cautelar do paciente.
+    Inconformada com a custódia cautelar do paciente, a Defesa impetrou habeas corpus perante o Tribunal de Justiça de São Paulo, que, em 17.9.2015, denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, em 30.11.2015, via decisão monocrática da lavra do Ministro Reynaldo Soares Fonseca, negou seguimento ao RHC 65.196/SP.
+    No presente writ, os Impetrantes alegam inidônea a fundamentação da custódia cautelar do paciente. Argumentam a existência de circunstâncias favoráveis ao paciente, como primariedade, bons antecedentes e residência fixa. Requerem, em medida liminar e no mérito, a revogação da prisão preventiva, com expedição do competente alvará de soltura em favor do paciente, e, sucessivamente, a aplicação de medidas cautelares diversas da prisão (art. 319 do CPP).
+    É o relatório.
+    Decido.
+    De início, observo que não foi colacionada aos autos cópia do acórdão estadual. A cópia disponibilizada pela Defesa nesta impetração não corresponde ao ato coator contra o qual se insurgiu perante a Corte Superior. A jurisprudência deste Supremo Tribunal Federal orienta no sentido do não conhecimento de habeas corpus quando não devidamente instruído o feito (HC 103.240-AgR/RS, Rel. Min. Ayres Britto, 2ª Turma, DJe 11.4.2011).
+    Por outro lado, em 30.6.2016, sobreveio sentença condenatória, imputando ao paciente pena de 08 (oito) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, pela prática dos crimes a ele imputado na denúncia (arts. 157, § 2º, I, II, e 288, parágrafo único, ambos do Código Penal), oportunidade em que foi mantida a prisão preventiva.
+    Diante da prolação de sentença penal condenatória, substancial a alteração do quadro fático da impetração, não mais subsistindo a prisão preventiva decretada antes do julgamento, e, sim, segregação cautelar baseada no decreto condenatório, com a consequente alteração do título prisional. Nesse sentido, enfatiza esta Corte Suprema que a “superveniência de sentença condenatória em que o Juízo aprecia e mantém a prisão cautelar anteriormente decretada implica a mudança do título da prisão e prejudica o conhecimento de habeas corpus impetrado contra a prisão antes do julgamento” (HC 113.885/PR, de minha relatoria, 1ª Turma, DJe 04.11.2013).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 02 de setembro de 2016.
+Ministra Rosa Weber
+Relatora
