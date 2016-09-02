@@ -1,0 +1,26 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Eduardo Pereira Bromonschenkel em favor de Paulo Roberto Paixão Bretas, contra acórdão do Superior Tribunal de Justiça, que rejeitou os embargos de declaração no agravo regimental no AREsp 765.855/DF.
+    O Juízo Federal da 10ª Vara da Seção Judiciária do Distrito Federal/DF rejeitou a denúncia oferecida em desfavor do paciente pela suposta prática dos crimes de concussão e de corrupção passiva (arts. 316 e 317 do Código Penal).
+    Ato contínuo, o Tribunal Regional Federal da 1ª Região deu provimento ao recurso em sentido estrito ministerial para receber a peça acusatória e determinar o prosseguimento da ação penal de origem. Opostos embargos de declaração, foram rejeitados.
+    A Defesa, então, interpôs recurso especial, que, inadmitido na origem, ensejou o manejo de agravo perante o Superior Tribunal de Justiça. O Ministro Felix Fixcher, via decisão monocrática, negou provimento ao AREsp 765.855/DF. Após, foram manejados, sem sucesso, agravo regimental e embargos de declaração.
+    No presente writ, o Impetrante alega, em síntese, ausência de justa causa para a ação penal. Aduz nulidade do processamento e do julgamento do AREsp 765.855/DF, porquanto não remetido o apenso dos autos principais do recurso em sentido estrito digitalizado à Corte Superior. Argumenta que ‘o volume digital encaminhado ao STJ não continha qualquer peça defensiva ou documento apresentado pelo paciente em sede de contraditório, salvo as contrarrazões’ (…) e que ‘os demais se encontram no apenso não digitalizado e não enviado’. Requer, em medida liminar, o sobrestamento da Ação Penal 46219-42.2010.4.01.3400, em curso perante o Juízo da 10ª Vara Federal da Seção Judiciária do Distrito Federal/DF. No mérito, pugna pelo restabelecimento da decisão de rejeição da denúncia e, sucessivamente, pelo reconhecimento de nulidade do julgamento do AREsp 765.855/DF.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITO DE RECONHECIMENTO DE AUSÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL. OBSCURIDADE. OMISSÃO. INEXISTÊNCIA.
+    Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada.
+    Embargos de declaração rejeitados”.
+    Transcrevo a ementa proferida em sede de agravo regimental:
+    “PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. CONCUSSÃO. PLEITO DE RECONHECIMENTO DE AUSÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO.
+    O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários. (Súmula 07/STJ e Súmula 279/STF).
+    Agravo regimental desprovido”.
+    Ao exame dos autos, não vislumbro o constrangimento ilegal apontado, sobretudo porque compete constitucionalmente ao Superior Tribunal de Justiça o julgamento do recurso especial, cabendo-lhe, enquanto órgão ad quem, o segundo, e definitivo, juízo de admissibilidade positivo ou negativo deste recurso de fundamentação vinculada.
+    Nessa linha, o Supremo Tribunal Federal tem rejeitado submeter, a seu escrutínio, a decisão do Superior Tribunal de Justiça quanto à inadmissibilidade do recurso especial.
+    Embora tal jurisprudência tenha se formado inicialmente no âmbito de julgamentos quanto à inadmissibilidade de recursos extraordinários sobre a matéria (AI 724.135-AgR/MS, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 03.12.2010), foi também estendida ao habeas corpus (HC 112.130/MG, Rel. Min. Ayres Britto, 2ª Turma, DJe 08.6.2012; e HC 99.174/SP, Rel. Min. Ayres Britto, 2ª Turma, DJe 26.8.2011).
+    Ademais, a negativa de seguimento ao especial, por impossibilidade do reexame de fatos e provas (Súmula 7/STJ), guarda consonância com a jurisprudência sedimentada desta Corte que considera “inviável o Recurso Extraordinário nos casos em que se impõe o reexame do quadro fático-probatório para apreciar a apontada ofensa à Constituição Federal” (AI 680.167-AgR/SP, Rel. Min. Ellen Gracie, 2ª Turma, DJe 14.5.2010).
+    Além disso, o Superior Tribunal de Justiça não enfrentou a tese defensiva trazida nestes autos, a inviabilizar a análise do pedido, neste momento, por este Supremo Tribunal Federal, sob pena de indevida supressão de instância (v.g. HC 108.778/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 9.8.2011; HC 104.167/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.8.2011; HC 105.501, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.4.2011; e HC 90.902/RS, Rel. Min. Marco Aurélio, 1ª Turma, DJe 22.6.2007).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Determino seja retificada a autuação, a fim de inserir o nome completo do paciente, observada a ratio das Resoluções 458, de 22.3.2011, e 501, de 17.4.2013, desta Suprema Corte.
+    Publique-se.
+    Brasília, 02 de setembro de 2016.
+Ministra Rosa Weber
+Relatora
