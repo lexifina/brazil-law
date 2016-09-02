@@ -1,0 +1,18 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “SERVIDOR PÚBLICO MUNICIPAL – PROTEÇÃO À REDUÇÃO DE VENCIMENTOS.
+    Discordância de redução salarial ocorrida a partir do ano de 2008 – Admissão antes da EC nº 41/03 usada como suporte ao direito líquido e certo.
+    INADMISSIBILIDADE: Embora a EC nº 41/03 tenha efeitos ‘ex nunc’, não foi demonstrado o direito líquido e certo para a concessão da segurança, o que era simples e poderia ser feito com juntada de holerites anteriores à EC 41/03, a fim de se constatar logo de plano que as impetrantes já vinham recebendo vencimentos superiores ao teto que posteriormente foi estabelecido.
+    Simples fato de admissão anterior à EC 41/03 apenas gera dúvidas quanto ao direito adquirido que alegam ter sido violado pela autoridade municipal, devendo ser considerado que a dilação probatória para dirimir controvérsia não é cabível em mandado de segurança – Prova pré-constituída que leva à manutenção da denegação da segurança.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que a decisão recorrida teria vulnerado preceitos inscritos na Constituição Federal.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário a que se refere o presente agravo não se revela viável.
+    É que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o E. Tribunal de Justiça do Estado de São Paulo, no julgamento da causa, sustentou as suas conclusões em aspectos fáticos-probatórios, a seguir destacados:
+    “As impetrantes não demonstraram de plano que antes do advento da EC 41/03 já estavam percebendo valores acima do subsídio do Prefeito Municipal de R$ 7.687,68, instituído antes pela Lei Municipal nº 11.407/02. E a não comprovação desse fato impede a concessão da segurança, mesmo porque ele é pressuposto da questão de inclusão ou não das verbas de natureza pessoal no redutor.
+    …...................................................................................................
+    O que consta dos autos (admissão dos impetrantes entre 1984 e 2002) não se mostra suficiente para caracterizar o direito líquido e certo de não ter os respectivos vencimentos sujeitos aos efeitos da EC 41/2003. De fato, não há nos autos documento capaz de comprovar, de plano, a existência do direito vindicado e sua violação. A via do ‘mandamus’ é estreita, não permitindo dilação probatória.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 02 de setembro de 2016.
+Ministro CELSO DE MELLO
+Relator
