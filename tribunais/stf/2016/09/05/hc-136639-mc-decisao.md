@@ -1,0 +1,18 @@
+PENAL E PROCESSUAL PENAL. CRIMES CONTRA ORDEM TRIBUTÁRIA. ARTIGOS 1º, II, 11, CAPUT E 12, I, DA LEI N.º 8.037/1990. PLEITO PELA SUSPENSÃO DA AÇÃO PENAL. AÇÃO CÍVEL ANULATÓRIA DO CRÉDITO TRIBUTÁRIO. LIMINAR. EXCLUSÃO DO NOME DOS PACIENTES DO CADIN.
+- Liminar indeferida.
+- Requisição de informações ao Tribunal de origem e, após, vista ao Ministério Público Federal.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão do Superior Tribunal de Justiça cuja ementa possui o seguinte teor:
+    “PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. PEDIDO DE SUSPENSÃO DA AÇÃO PENAL. PENDÊNCIA DE AÇÃO ANULATÓRIA DE DÉBITO FISCAL EM QUE SE DISCUTE O CRÉDITO TRIBUTÁRIO, JÁ DEFINITIVAMENTE CONSTITUÍDO, RELACIONADO COM OS FATOS EM APURAÇÃO. INTEGRIDADE DO LANÇAMENTO REALIZADO NÃO AFETADA. INDEPENDÊNCIA ENTRE AS INSTÂNCIAS. I - "A existência de ação cível anulatória do crédito tributário não impede a persecução penal dos agentes em juízo, em respeito à independência das esferas cível e criminal. Precedentes. Ainda que obtido êxito no pedido de antecipação de tutela na seara cível, a fim de impedir a inscrição dos agentes em dívida ativa, condição de procedibilidade da execução fiscal, inadmissível o trancamento da ação penal, notadamente quando a decisão a eles favorável não afetou diretamente o lançamento do tributo devido, que, até decisão definitiva em contrário, não pode ser considerado nulo ou por qualquer outro modo maculado" (RHC n. 21.929/PR, Quinta Turma, Rel. Min. Jane Silva - Desembargadora Convocada do TJ/MG -, DJU de 10/12/2007). II - Não se pode, na hipótese, tomar o fato de existir ação anulatória de débito fiscal, ainda que como questão prejudicial heterogênea facultativa (art. 93 do Código de Processo Penal) da questão penal, porquanto, até aqui, o lançamento do tributo não foi atingido. III - A prejudicial heterogênea não obriga a suspensão da ação penal. Vale dizer, não obsta automaticamente a persecutio criminis, ex vi do art. 93 do CPP. Recurso ordinário desprovido.”
+    Colhe-se da inicial que os pacientes foram denunciados pelos delitos tipificados nos artigos 1º, II, 11, caput e 12, I, da Lei nº 8137/90, em razão da sonegação do valor aproximado de R$ 7.193,078,08 (sete milhões cento e noventa três mil, setenta e oito reais e oito centavos) relativos ao tributo ICMS.
+    Os impetrantes alegam, no presente writ, que a ação penal não deve prosseguir, “em razão da existência de causa impeditiva, consistente em v. decisão judicial que sobrestou toda a discussão sobre a forma e o conteúdo do auto de lançamento tributário [e esse fato se concretizou, colenda Turma, fundamentalmente em razão de que, na prova do processo administrativo, vários Fiscais da Secretaria da Receita Estadual afirmaram que havia inconsistências de todas as ordens no lançamento tributário, circunstância essa que, per se, coloca em dúvida a forma e o próprio conteúdo do valor apurado”.
+    Requer em sede de liminar e, no mérito, a concessão da ordem para suspender a ação penal até o julgamento da ação cível de anulação do crédito tributário.
+    É o relatório. DECIDO.
+    A causa de pedir da medida liminar se confunde com o mérito da impetração, porquanto ambos referem-se ao deferimento de prisão domiciliar ou do benefício do livramento condicional.
+    Demais disso, a decisão impugnada não ostenta, prima facie, teratologia que justifique a atuação ex officio desta Corte.
+    Indefiro o pedido de liminar, por ser manifestamente satisfativo.
+    Estando os autos estão suficientemente instruídos, dou vista ao Ministério Público Federal.
+    Publique-se.
+    Brasília, 05 de setembro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
