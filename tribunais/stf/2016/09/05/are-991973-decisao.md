@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “RECURSO – Agravo de Instrumento – “Ação declaratória de inexistência de débito c.c. pedido de tutela antecipada, cancelamento definitivo de protesto e indenização por danos morais”, em sede de cumprimento de sentença – Insurgência contra o respeitável “decisum” que indeferiu o pedido de levantamento de valores formulado pelo Banco – Inadmissibilidade – Excesso de execução – Matéria que esbarra no óbice intransponível da preclusão – Alegação no sentido de que a agravada requereu o bloqueio da diferença da dívida e o importe do depósito efetuado, tendo sido constrito valor muito superior – Proibição de inovar em sede recursal – Inexiste complexidade na elaboração dos cálculos do “quantum” devido, não se justificando a remessa dos autos ao Contador Judicial – Recurso improvido, cassado o efeito suspensivo”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. O recurso extraordinário foi inadmitido aos fundamentos de prejuízo do recurso extraordinário, incidência da Súmula n. 282 do Supremo Tribunal Federal e ausência de contrariedade direta à Constituição da República.
+    3. O Agravante alega “presentes todos os requisitos de admissibilidade do Recurso Extraordinário interposto pelo ora Agravante, quais sejam, a tempestividade, adequação, o preparo e o prequestionamento”.
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 5º, incs. XXXV, LIV e LV, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A contrariedade ao art. 5º, incs. XXXV e LIV, da Constituição da República não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco os embargos de declaração opostos o foram com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Confiram-se, por exemplo, os julgados a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E PROCESSUAL CIVIL. REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 936.580-AgR, de minha relatoria, Segunda Turma, DJe 9.5.2016).
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 1. A questão constitucional alegada no recurso extraordinário não foi objeto de análise pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF. 2.Agravo regimental a que se nega provimento” (ARE n. 909.749-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 4.5.2016).
+    6. No julgamento do Recurso Extraordinário com Agravo n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do contraditório, da ampla defesa e do devido processo legal quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+     “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+      7. Pelo exposto, nego provimento ao agravo (art. 932, inc. IV, al. a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de setembro de 2016.
+Ministra CÁRMEN LÚCIA
+Relatora
