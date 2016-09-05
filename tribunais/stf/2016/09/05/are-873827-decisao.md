@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 4ª Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA AJUIZADA COM FUNDAMENTO NO ART. 17 DA LEI N. 8.429/92. INSTITUIÇÕES BANCÁRIAS. FORNECIMENTO DE INFORMAÇÕES REQUISITADAS PELO MPF E DEPARTAMENTO DE POLÍCIA FEDERAL NÃO ATENDIDAS ADMINISTRATIVAMENTE, BEM COMO AS QUE SE FARÃO. CONTAS QUE MOVIMENTAM VERBAS PÚBLICAS E MOVIMENTAÇÕES POSTERIORES QUE ENVOLVEM CONTAS PARTICULARES. NECESSIDADE DE AUTORIZAÇÃO JUDICIAL. MATÉRIA SUJEITA À RESERVA LEGAL.
+    1. Embora o apelante Banco do Brasil S/A tenha interposto o seu recurso de apelação via fax em tempo (02/12/2010 fl. 203v), deixou de juntar os originais dentro do prazo de 05 (cinco) dias, conforme estabelece o art. 2º da Lei n. 9.800/99, uma vez que protocolou o original do recurso um dia depois de expirado o prazo (09/11/2010 – fl. 204), situação que configura a intempestividade do recurso.
+    2. Na hipótese em exame, a condenação é genérica, abarca contas que movimentam recursos públicos e as movimentações posteriores destes recursos que envolvem contas particulares.
+    3. Em se tratando de recursos públicos, não há sigilo. No entanto, as informações bancárias de particulares para cuja conta tais recursos sejam transferidos, lícita ou ilicitamente, estão acobertadas pela tutela da intimidade, não havendo, nessa hipótese, a possibilidade de fornecimento dessas informações sem que exista, para tanto, autorização judicial, haja vista tratar-se de matéria sujeita à reserva jurisdicional.
+    4. Apelação do Banco do Brasil S/A não conhecida.
+    5. Apelação do Banco do Nordeste do Brasil S/A provida”. (fls. 398 do 4 volume)
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, caput e 129, VI, todos da Carta (fls. 478 do volume 5). Requer o envio de informações de caráter sigiloso referentes a contas bancárias que foram abertas exclusivamente para o recebimento de recursos públicos. Cita precedente, a saber, o MS nº 21729, Rel. Min. Marco Aurélio.
+    A pretensão recursal merece prosperar, haja vista que o acórdão recorrido está em desconformidade com a jurisprudência desta Corte que, no julgamento do RE 601.314 (Tema 225 da RG), firmou a tese no sentido da desnecessidade de autorização judicial, tendo restado consignado que a Lei Complementar 105/01 não ofende o direito ao sigilo bancário, pois realiza a igualdade em relação aos cidadãos, por meio do princípio da capacidade contributiva, bem como estabelece requisitos objetivos e o translado do dever de sigilo da esfera bancária para a fiscal.
+    Diante do exposto, com base no art. 21, §2º, do RI/STF, dou provimento ao recurso extraordinário para determinar aos recorridos o atendimento às solicitações efetuadas diretamente pelo MPF e pelo DPF, sob pena de multa diária de R$ 1.000,00. Invertidos os ônus sucumbenciais.
+    Publique-se.
+    Brasília, 05 de setembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
