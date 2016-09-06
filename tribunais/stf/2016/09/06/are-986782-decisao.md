@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão de Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ICMS. SUCESSÃO DE EMPRESAS. REDIRECIONAMENTO. PRESCRIÇÃO. NÃO OCORRÊNCIA. TEORIA DA ACTIO NATA.
+    1 – A prescrição para o redirecionamento do feito executivo tem como marco inicial o momento em que nasce a pretensão do ente público. Aplicação da teoria da actio nata que se mostra adequada aos casos em que a pretensão somente resta evidenciada no curso da execução fiscal.
+    2 – Caso concreto no qual, tendo sido requerido o redirecionamento dentro do prazo de cinco anos a que alude o art. 174 do CTN, contado a partir da provável sucessão de empresas, não há falar em prescrição.
+    APELAÇÃO DO ESTADO PROVIDA. PREJUDICADO O RECURSO DA EMBARGANTE.” (eDOC 8, p. 2)
+    Os embargos de declaração foram rejeitados. (eDOC 12, p. 87-92)
+    No recurso extraordinário (eDOC 3, p. 451-463), com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 93, IX; e 150, I, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, o seguinte:
+    “Nesse sentido, antes de se considerar a aplicação ou não, em matéria tributária, da teoria da actio nata, é imperioso que se fundamente os motivos pelos quais se considerou a existência de sucessão e consequente responsabilização tributária da ora Embargante, sob pena de afronta ao artigo 93, IX da CF/88. Com efeito, salvo melhor juízo, a existência de penhora de bens de terceiros não está arrolada entre os requisitos legais para a configuração da sucessão tributária, da mesma forma como não está a existência de certificação por parte de Oficial de Justiça, posto que não lhe cabe a prestação da tutela jurisdicional.” (eDOC 14, p. 124)
+    A 1ª Vice-Presidência do TJRS inadmitiu o recurso extraordinário com base na Súmula 282 do STF (eDOC 17, p. 3-4)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que inexiste a alegada ofensa ao art. 93, IX, da Constituição Federal. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses da parte Recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral da matéria, nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso ix do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, ix, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ademais, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo, quanto à responsabilidade da recorrente por sucessão de empresas, demandaria o reexame de fatos e provas e o da legislação infraconstitucional, aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida no verbete da Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. Sucessão. Obrigação Tributária. 3. In casu, o Tribunal de origem decidiu com base no acervo fático-probatório dos autos. Incidência do Enunciado 279 da Súmula do STF. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 855.617 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 06.04.2015)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO. INDÍCIOS DE CONFUSÃO PATRIMONIAL. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279/STF. PRECEDENTES. Após a análise das provas constantes dos autos, o acórdão recorrido registrou não ser possível o reconhecimento da aquisição de fundo de comércio ou mesmo de estabelecimento entre as agravadas, circunstância que inviabilizaria a configuração de sucessão tributária entre empresas. Nos termos da jurisprudência da Corte, o acolhimento da pretensão demandaria o reexame do acervo probatório e uma nova interpretação sobre a legislação infraconstitucional correlata. Agravo regimental a que se nega provimento.” (ARE 837.980 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 14.11.2014).
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 06 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
