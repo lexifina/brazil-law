@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (eDOC 5, p. 14-15):
+    “REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. ADMINISTRATIVO. REDUÇÃO DA CARGA HORÁRIA E VENCIMENTOS DE SERVIDORA PÚBLICA. PRELIMINARES DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO DA INICIAL REJEITADAS. ATO ADMINISTRATIVO NULO. INOBSEVÂNCIA DE GARANTIAS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA. AUSÊNCIA DE FUNDAMENTAÇÃO. SENTENÇA CONFIRMADA EM REEXAME NECESSÁRIO.
+    (...)”
+    Os embargos de declaração foram rejeitados (eDOC , p. 2).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXV, LIV e LV; e 37, II, da Constituição Federal, bem como à Súmula 473 do STF.
+    Nas razões recursais, sustenta-se a nulidade do processo, por ofensa ao devido processo legal, em virtude da falta de intimação do ora recorrente e do Ministério Público, a respeito da sentença. Além disso, alega-se que não é necessária a instauração de processo administrativo, no caso em exame, visto que este pressupõe a existência de litígio ou acusação de ato ilícito imputado ao servidor, o que não é o caso dos autos (eDOC 7, p. 18-34).
+    A 2ª Vice-Presidência do TJ/BA inadmitiu o recurso com base nas Súmulas 282 e 356 do STF e na inexistência de ofensa direta à Constituição (eDOC 8, p. 32-33).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, quando do julgamento, o Tribunal de origem assentou que (eDOC 5, p. 21-23:
+    “As provas adormecidas ao processo são irrefutáveis neste sentido, mormente no que atine à cassação da Portaria de nº 234/2012 (fl. 12), a qual a alterou o regime de trabalho da servidora pública de 20 horas para 40 horas semanais após apreciação, pela Administração Municipal, de requerimento próprio formulado pela Impetrante (fl. 14).
+    Com a edição dos decretos 198/2013 e 211/2013, o exercício das funções da autora, funcionária pública concursada do Município de Araci/BA, voltaram ao seu ‘status quo ante’, sem que lhe fosse disponibilizada qualquer oportunidade para se manifestar acerca da decisão administrativa adotada.
+    (…)
+    Por outro lado, cumpre ressaltar que a legislação vigente no Município de Araci/BA permite que seja ampliada a carga horária de seus servidores desde que atendidos os requisitos legais elencados no art. 43 da Lei Complementar 08/2001, quais sejam:i) a existência de vaga no quadro do magistério; ii) a assiduidade do professor; e iii) antiguidade no exercício do cargo.
+    (…)
+    A leitura do dispositivo em questão é elucidativa, pois demonstra que, a ‘contrario sensu’ do que tenta fazer crer a Impetrada em suas afirmações, nenhum concurso público ou Comissão de Gestão de Plano de Carreira do Magistério Público Municipal é requerida para a promoção no cargo de professor na localidade de Araci/BA, mas exclusivamente o atendimento às exigências de existência de vaga na localidade, assiduidade do profissional e antiguidade no cargo, com já dito.
+    ‘In casu’, a Administração Municipal, utilizando-se das faculdades que possui, entendeu por bem conceder a parte autora a promoção pleiteada, após uma seleção de candidatos as vagas disponibilizadas.
+    Portanto, se o Poder Público garantiu à Impetrante o exercício do cargo no regime de trabalho de 40 (quarenta) horas semanais, não é razoável que venha a cassar parte das funções e rendimentos da autora ulteriormente, sem fundamentos que justifiquem tal ato ou existência de irregularidade aparente no processo seletivo realizado.”
+    Conforme se observa da leitura do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo, demandaria o reexame das provas dos autos e da legislação local aplicável à espécie (Lei Complementar 08/2001 - Estatuto do Magistério Público Municipal de Araci), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+     “Agravo regimental no recurso extraordinário com agravo. Servidor público aposentado. Magistério. Reenquadramento. Alteração da carga horária semanal. Redução dos proventos. Princípio da irredutibilidade de vencimentos. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. É pacífica a jurisprudência da Corte de que não há direito adquirido à manutenção da forma de cálculo da remuneração, o que importaria em direito adquirido a regime jurídico, ficando assegurada, entretanto, a irredutibilidade de vencimentos. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional local e o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 280 e 279/STF. 3. Agravo regimental não provido” (ARE nº 734.020/RN-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 9/8/13)
+    Ressalte-se que o Supremo Tribunal Federal já assentou a inexistência de repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal (RE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJ e 1º.08.2013).
+    Ante o exposto, nego seguimento ao recurso, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 7 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
