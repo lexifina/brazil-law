@@ -1,0 +1,19 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra decisão monocrática, proferida no âmbito do Superior Tribunal de Justiça, que não conheceu de pedido que almejava a reconsideração da decisão que indeferiu liminarmente o HC n°. 343.606/SP.
+    Narra o impetrante que: a) a prisão preventiva foi imposta sem lastro concreto que justifique a cautelaridade da custódia, na medida em fundada tão somente na suposta periculosidade de corréu; b) há excesso de prazo na formação da culpa.
+    É o relatório. Decido.
+    A impetração constitui reiteração do HC 132.376/SP. Naquela oportunidade, embora o habeas corpus não tenha sido conhecido, as alegações do impetrante foram enfrentadas sob o ângulo da avaliação da concessão da ordem de ofício, nos seguintes termos:
+    “No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Em relação aos requisitos da prisão preventiva, a decisão proferida pelo Juiz singular aponta que o paciente, na companhia de outros acusados, teria participado da tentativa de homicídio da vítima JOSÉ NOVAES JUNIOR. Argumentou-se, na oportunidade, que a execução teria sido precedida de minuciosa preparação e implementada de forma especialmente gravosa, com deflagração de diversos disparos que poderiam ter causado a morte dos demais passageiros do veículo em que a vítima se encontrava (há menção de ocorrência de lesões corporais). Embora o paciente seja acusado de ter atuado como motorista dos demais denunciados, não é possível, na estreita via do habeas corpus, reconhecer uma sensível distinção de periculosidade entre os envolvidos, até porque, num primeiro olhar, a suposta premeditação, com pleno conhecimento prévio das singularidades da execução vindoura, depõe contra o paciente. Portanto, não há teratologia na decisão atacada.
+    Quanto ao excesso de prazo, as informações prestadas pelo Juiz da causa dão conta de que a defesa do paciente foi intimada duas vezes para apresentar alegações finais, que “desloca o tempo de término do processo por sua exclusiva responsabilidade”. Não bastasse, verifico a superveniente prolação de sentença de pronúncia, a prejudicar referida alegação:
+    “A superveniência de decisão de pronúncia, que reafirma a necessidade da prisão cautelar, torna prejudicado o habeas corpus ou o recurso ordinário em habeas corpus interposto sob o fundamento de excesso de prazo da instrução criminal (HC 103.020, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 06.05.11; HC 100.567, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 06.04.11; RHC 95.207, Primeira Turma, Relator o Ministro Ricardo Lewandowsk. (RHC 123730 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 12/05/2015)“
+    “Superação do alegado excesso de prazo ante a superveniência da sentença de pronúncia. Precedentes. (HC 124804, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 03/03/2015)”
+    “Segundo o entendimento desta Corte, fica superada a alegação de excesso de prazo com a superveniência da sentença de pronúncia. Precedentes. (HC 118065, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 10/12/2013)“
+    Com efeito, eventual inconformismo extemporâneo endereçado ao Superior Tribunal de Justiça, mormente na hipótese de não conhecimento, não tem o condão de reabrir a competência da Suprema Corte, sobretudo se inalterados os argumentos articulados.
+    Diante do exposto, nos termos do art. 21, §1°, RISTF, nego seguimento ao habes corpus.
+    Sem prejuízo, considerando as noticiadas dificuldades que acometem o exercício da defesa do paciente, remeta-se via da petição inicial à Defensoria Pública do Estado de São Paulo a fim de que tome as providências que entender cabíveis.
+    Publique-se. Intime-se.
+    Brasília, 08 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
