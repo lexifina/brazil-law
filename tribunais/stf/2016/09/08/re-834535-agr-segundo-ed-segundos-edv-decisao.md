@@ -1,0 +1,20 @@
+Decisão: 1. Trata-se de embargos de divergência opostos contra acórdão da Segunda Turma desta Corte que, ao negar provimento a agravos regimentais, manteve decisão que negara seguimento a recursos extraordinários. Eis o teor da ementa:
+    CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVOS REGIMENTAIS NO RECURSO EXTRAORDINÁRIO. AÇÃO DISCRIMINATÓRIA. TERRAS DEVOLUTAS. USUCAPIÃO.
+    1. Conforme a orientação assentada pelo Plenário desta Corte no julgamento do AI 791.292/PE (Rel. Min. Gilmar Mendes, DJe de 13/8/2010, Tema 339): (…) o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. O acórdão proferido pelo Primeiro Tribunal de Alçada Civil do Estado de São Paulo encontra-se devidamente fundamentado, expondo de forma clara e profunda os motivos que levaram ao desprovimento das apelações.
+    2. A análise das questões constitucionais suscitadas pelos agravantes esbarra em precedentes já adotados por esta Corte, de acordo com os quais a invocação concernente à ampla defesa, ao contraditório, aos limites da coisa julgada, ao devido processo legal e ao ato jurídico perfeito supõe, necessariamente, a delibação de matéria infraconstitucional (RE 748.371/MT, Rel. Min. Gilmar Mendes, Tema 660), do mesmo modo quanto ao indeferimento de produção de provas no processo judicial (RE 639.228/RJ, Rel. Min. Cezar Peluso, Tema 424).
+    3. Infirmar as premissas que orientaram o Tribunal de origem a reconhecer o domínio público das terras objeto da presente discriminatória demandaria indispensável juízo a respeito da legislação infraconstitucional local de regência e reexame dos fatos e provas dos autos, o que é vedado em recurso extraordinário, nos termos das Súmulas 279 e 280 do STF.
+    4. A dicção normativa do art. 188 da Constituição Federal não enseja o reconhecimento de distinção entre terras públicas e devolutas para fins de aquisição dessas por usucapião.
+    5. Agravos regimentais improvidos.
+    Os embargos de declaração opostos foram rejeitados.
+    A parte embargante sustenta a divergência a partir do entendimento proferido no RE 266.397 (Rel. Min. SEPÚLVEDA PERTENCE, Primeira Turma), no sentido de que a garantia constitucional do contraditório e da ampla defesa tem conteúdo mínimo, de modo que a decisão que o desconhece viola diretamente o art. 5º, LV, da Constituição Federal.
+    Instada a se manifestar, alega a parte embargada que os embargos de divergência são incabíveis para discutir requisitos formais de admissibilidade.
+    2. O acórdão embargado sequer examinou o mérito da questão apontada nos presentes embargos, visto que o recurso extraordinário, quanto ao ponto, não reuniu os necessários requisitos de admissibilidade.
+    Já o precedente paradigma da 1ª Turma, apontado pela parte embargante para demonstrar a divergência, não se relaciona com a situação jurídica decidida pela 2ª Turma, porquanto passou à análise do mérito do caso então discutido.
+    A ausência de similitude entre os casos confrontados é obstáculo suficiente para que os embargos de divergência não sejam admitidos. Nesse sentido: AI 654.148-AgR-EDv-AgR-ED; Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de 6/12/2011; e RE 232.577-EDv, Rel. Min. CEZAR PELUSO, Tribunal Pleno, DJe de 9/4/2010.
+    Outrossim, assentou-se nesta Corte o entendimento de que somente em face de absoluta identidade entre os casos postos a confronto são admissíveis embargos de divergência contra acórdão que, sem adentrar no mérito, nega seguimento a recurso por ausência de requisitos processuais. Precedentes: AI 681.109-AgR-ED-EDv-AgR, Tribunal Pleno, Rel. Min. DIAS TOFFOLI, DJe de 13/3/2013; AI 836.992-AgR-EDv-AgR, Tribunal Pleno, Rel. Min. RICARDO LEWANDOWSKI, DJe de 30/5/2012.
+    3. Diante do exposto, não admito os embargos de divergência.
+    Publique-se. Intime-se.
+    Brasília, 8 de setembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
