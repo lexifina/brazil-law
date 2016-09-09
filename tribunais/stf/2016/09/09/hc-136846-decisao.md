@@ -1,0 +1,22 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Izaias Felipe de Oliveira, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp 859.494/MG.
+    O paciente foi condenado à pena de 05 (cinco) anos, 04 (quatro) meses de reclusão, em regime inicial semiaberto, pela prática do crime de roubo qualificado (art. 157, § 2º, II, c/c o art. 65, I, ambos do Código Penal).
+    Posteriormente, o Tribunal de Justiça de Minas Gerais, por maioria de votos, negou provimento ao recurso de apelação defensivo. Opostos embargos infringentes, foram rejeitados.
+    A Defesa, então, interpôs recurso especial, que, inadmitido na origem, ensejou o manejo de agravo perante o Superior Tribunal de Justiça. O Ministro Joel Ilan Paciornik, via decisão monocrática, negou provimento ao AREsp 859.494/MG. Interposto agravo regimental, a Corte Superior negou-lhe provimento.
+    No presente writ, a Impetrante alega que o exame da matéria, em sede de recurso especial, não demanda reexame de fatos e provas. Sustenta ilegalidade do decreto condenatório, supostamente lastreado em declarações de uma única testemunha colhidas na fase inquisitorial, em afronta ao art. 155 do Código de Processo Penal. Requer, em medida liminar e no mérito, a suspensão dos efeitos da condenação do paciente.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. ABSOLVIÇÃO. REEXAME DAS PROVAS. SÚMULA 7 DESTA CORTE. AGRAVO DESPROVIDO.
+    1. A pretendida absolvição do réu demanda o inevitável revolvimento das provas carreadas aos autos, o que encontra vedação no enunciado n. 7 da Súmula desta Corte.
+    Agravo regimental desprovido”.
+    Ao exame dos autos, não vislumbro o constrangimento ilegal apontado, sobretudo porque compete constitucionalmente ao Superior Tribunal de Justiça o julgamento do recurso especial, cabendo-lhe, enquanto órgão ad quem, o segundo, e definitivo, juízo de admissibilidade positivo ou negativo deste recurso de fundamentação vinculada.
+    Nessa linha, o Supremo Tribunal Federal tem rejeitado submeter, a seu escrutínio, a decisão do Superior Tribunal de Justiça quanto à inadmissibilidade do recurso especial.
+    Embora tal jurisprudência tenha se formado inicialmente no âmbito de julgamentos quanto à inadmissibilidade de recursos extraordinários sobre a matéria (AI 724.135-AgR/MS, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 03.12.2010), foi também estendida ao habeas corpus (HC 112.130/MG, Rel. Min. Ayres Britto, 2ª Turma, DJe 08.6.2012; e HC 99.174/SP, Rel. Min. Ayres Britto, 2ª Turma, DJe 26.8.2011).
+    Ademais, a negativa de seguimento ao especial, por impossibilidade do reexame de fatos e provas (Súmula 7/STJ), guarda consonância com a jurisprudência sedimentada desta Corte que considera “inviável o Recurso Extraordinário nos casos em que se impõe o reexame do quadro fático-probatório para apreciar a apontada ofensa à Constituição Federal” (AI 680.167-AgR/SP, Rel. Min. Ellen Gracie, 2ª Turma, DJe 14.5.2010).
+    Ressalto, ainda, que o Tribunal de Justiça, ao negar provimento à apelação defensiva, consignou que 'em juízo, além de confirmar as declarações prestadas na fase inquisitiva, a vítima ainda acrescentou que os dois autores participaram ativamente do roubo' (...), 'o réu, por sua vez, negou a prática delitiva, tanto na fase inquisitiva, quanto em juízo (...), e que 'entre a negativa do réu desprovida de qualquer sustentáculo e o depoimento de uma testemunha presencial do fato, colhido em juízo e sob o crivo do contraditório, deve este prevalecer'.
+    Nesse contexto, além da impropriedade da via eleita para o revolvimento fático-probatório, não vislumbro manifesta ilegalidade na sentença condenatória exarada em desfavor do paciente, porquanto lastreada em depoimentos colhidos na fase inquisitorial e nas declarações prestadas em juízo pela testemunha e pela vítima, sob o crivo do contraditório, em conformidade com o art. 155 do Código de Processo Penal - O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 09 de setembro de 2016.
+Ministra Rosa Weber
+Relatora
