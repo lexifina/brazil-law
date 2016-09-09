@@ -1,0 +1,22 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. CONVÊNIO. ÓRGÃO DA UNIÃO E ENTIDADE MUNICIPAL. GESTÃO ANTERIOR. AUSÊNCIA DE PRESTAÇÃO DE CONTAS. CUMPRIMENTO DA EXIGÊNCIA DO PARÁGRAFO 2º, DO ART. 5º, DA ‘IN‘ Nº 01/97 E IN/STN Nº 05/01. SUSPENSÃO DA RESTRIÇÃO PARA TRANSFERÊNCIA DE RECURSOS FEDERAIS. POSSIBILIDADE.
+    1. Sentença que julgou procedente pedido de suspensão das restrições constantes do SIAFI/SICONV, condenando a União no pagamento de honorários no importe de R$ 2.000,00 (dois mil reais).
+    2. Hipótese em que a municipalidade, por sua gestão atual, adotou as providências para a regularização do débito, tais como a Tomada de Contas Especial, ajuizamento de ação de improbidade ou de ressarcimento. Apelação e Remessa Necessária, tida por interposta, improvidas.”
+    A União Federal, ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 2º, 37 e 160, parágrafo único e I, todos da Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário não se revela viável.
+    Com efeito, cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cabe ter presente, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal Regional Federal da 5ª Região, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático- -probatórios, a seguir destacados:
+    “Por outro lado, do cotejo da inicial e das provas carreadas aos autos, percebe-se que o autor envidou as providências cabíveis para reparação ao erário e responsabilização do antigo gestor, conforme se infere da representação perante o Tribunal de Contas da União e do requerimento dirigido ao Ministério da Saúde, ambos solicitando a instauração de procedimento de tomada de contas especial no convênio em questão (id: 4058205.84402 e 4058205.92771).
+    Outrossim, a parte autora também apresentou, em 12/11/2013, representação perante o Ministério Público Federal para adoção das medidas cíveis e criminais cabíveis contra o ex-chefe do executivo municipal (id. 4058205.84398), bem como ajuizou Ação Civil Pública por Improbidade Administrativa destinada a apurar possíveis danos ao erário (id: 4058205.84400).
+    Os documentos que subsidiam a defesa da União corroboram o quanto exposto acerca da adoção de providências por parte do atual gestor.
+    …...................................................................................................
+    Destarte, havendo prova nos autos de que atualmente o município autor possui outro administrador, que não o faltoso, tendo ele adotado as providências necessárias à responsabilização do ex-gestor, objetivando o ressarcimento ao erário, competindo à autoridade administrativa federal (art. 1º, § 3º, da IN/TCU n.º 56/2007) a instauração da competente Tomada de Contas Especial, deve ser suspenso o registro de inadimplência no SIAFI/SICONV em questão.”
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Cumpre referir, finalmente, que não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 06 de setembro de 2016.
+Ministro CELSO DE MELLO
+Relator
