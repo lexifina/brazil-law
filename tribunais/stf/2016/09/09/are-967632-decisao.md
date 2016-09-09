@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – AGRAVO DESPROVIDO.
+    1. Eis a síntese do acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo:
+    APELAÇÕES CÍVEIS DIFERENÇAS SALARIAIS COBRANÇA - Guarda municipal da Cidade de Hortolândia Adicionais temporais e licença prêmio - Cômputo de tempo anterior à vigência da Lei Municipal nº. 394/96 – Inviabilidade - Indenização por horas excedentes e por dez (10) minutos antecedentes à jornada de trabalho Sistema de revezamento 12x36 Intervalo intrajornada - Descabimento - Cálculo da hora de trabalho - Adoção do divisor 200 até a edição da Lei Municipal nº. 1.644/06 - Adicional noturno Pagamento devido na forma das Leis Municipais nºs. 394/96 e 2.004/08 - Incidência de horas extras sobre o adicional de periculosidade Observância do disposto nas Leis nºs. 189/94, 1.173/02 e 2.004/08- Pretensão à retroação do enquadramento previsto na Lei nº 1.210/03, bem como à promoção horizontal - Inadmissibilidade Exigência de Avaliação de desempenho - Sucumbência recíproca Inteligência do artigo 21, caput, do Código de Processo Civil Reforma parcial da sentença - Recursos providos em parte.
+    No extraordinário cujo trânsito pretende alcançar, a recorrente aponta a violação do artigo 7º, inciso XXII, da Constituição Federal. Discorre sobre a necessidade do intervalo intrajornada para refeição e descanso, sendo tal proibição afronta ao direito constitucional do trabalho..
+    2. Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Colegiado de origem julgado o recurso a partir de interpretação conferida a normas locais. Procedeu à interpretação das Leis municipais nº 394/96, 402/96, 1.173/02, 1.210/03, 1.644/06 e 2004/08 e do Decreto municipal nº 59/93. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: “Por ofensa a direito local não cabe recurso extraordinário” -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 9 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
