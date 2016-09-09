@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+     1. A Turma Recursal confirmou o entendimento do Juízo quanto à procedência do pedido de restabelecimento da jornada ilegalmente reduzida, com o pagamento dos consectários. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 5º, cabeça, incisos I, II e XXXVI, 37, incisos XIV e XV, 39 e 97 da Constituição Federal. Diz inobservado o verbete vinculante n° 10 da Súmula do Supremo. Alega a contrariedade dos princípios da igualdade, da legalidade e da segurança jurídica. Argumenta com a inexistência de direito adquirido a regime de remuneração. Discorre sobre o desrespeito à cláusula de reserva de plenário.
+    2. De início, quanto à evocação do artigo 97 da Lei Fundamental, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça as vezes, tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença expressamente mantida pelo acórdão os seguintes trechos:
+    No tocante aos cálculos apresentados pela autora, o Município impugnou o valor mensal calculado, sem, no entanto, juntar nova planilha, com o alinhamento dos valores que entende devidos, ônus do qual não se desincumbiu.
+    Acostou tão somente uma planilha com o valor devido, em caso de acolhimento da tese de incorporação de 2/10 do montante mensal que entendia devido (fls. 209/210), o que não merece respaldo, pelos motivos acima elucidados,
+    (...)
+    Entretanto, conforme alhures salientado, tendo garantido a Lei Municipal a integração do adicional aos vencimentos da servidora, ou seja, a soma do adicional ao salário base, esse total passou a ser irredutível, conforme previsto em Lei Municipal e art. 37 XV, da Lei Maior.
+    Evidente, portanto, a ilegalidade do ato e da Portaria editada pela Municipalidade, que cancelou a dupla jornada de trabalho da autora, culminando no decesso de seus vencimentos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a fixação de referida verba, pelo Tribunal local, no patamar limite de 20% do valor da causa.
+    4. Publiquem.
+Brasília, 9 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
