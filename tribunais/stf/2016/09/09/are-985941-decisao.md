@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Atentem para o decidido na origem. A Primeira Turma Recursal Civil e Criminal do Tribunal de Justiça do Estado da Bahia consignou, em síntese:
+    RECURSO INOMINADO. AÇÃO DE COBRANÇA. SEGURO OBRIGATÓRIO (DPVAT). FATO OCORRIDO APÓS LEI 11.482/07. RECEBIMENTO DA INDENIZAÇÃO, PAGA PELA MORTE DE CÔNJUGE EM ACIDENTE AUTOMOBILÍSTICO, DE FORMA INTEGRAL. CONFORMIDADE DA INDENIZAÇÃO COM A LEI VIGENTE NA OCASIÃO DO SINISTRO. SENTENÇA DE IMPROCEDÊNCIA. CONFIRMAÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. IMPROVIMENTO DO RECURSO
+    No extraordinário cujo trânsito busca alcançar, a recorrente aponta a violação do artigo 5º, inciso XXXII, da Constituição Federal. Sustenta desrespeito à proteção conferida, pela Carta da República, ao consumidor, afirmando ter recebido indenização decorrente do Seguro Obrigatório de Danos Pessoais causados por Veículos Automotores Via Terrestre – DPVAT em valor inferior aos previstos para os casos de morte.
+    2. A recorribilidade extraordinária mostra-se distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, consideradas as premissas constantes do ato impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença mantida por meio do acórdão e adotada como fundamento do pronunciamento os seguintes trechos:
+    A autora busca o recebimento de diferença baseando-se no valor de R$ 13.500,00 (treze mil e quinhentos reais). Ocorre que tal valor foi instituído pela lei 11.482/2007 que passou a viger após os fatos narrados pela autora. O art. 3º da Lei 6194/74 - modificado pela Lei 11.482/2007 - era o que vigia à época dos fatos, devendo, portanto, ser aplicado:
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, visando-se, em síntese, a reapreciação dos elementos probatórios para, com alicerce em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o ato impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No caso, o sustentado não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no julgamento de outro processo.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 10% sobre o valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 9 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
