@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto a não incidência do teto remuneratório previsto na Constituição Estadual sobre a indenização relativa à conversão em pecúnia da licença-prêmio não usufruída. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violado o artigo 37, inciso XI, da Constituição Federal. Sustenta que a licença-prêmio tem natureza de vantagem pessoal e por isso deve ser incluída no teto remuneratório
+    1. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    O artigo 43 da Lei Complementar Estadual paulista nº 1.059, de 2008, passou, a partir da LCE 1.122, de 2010, a contar com a seguinte redação:
+    “Artigo 43 - Os períodos de licenças-prêmio não usufruídas, a que fazem jus os Agentes Fiscais de Rendas em atividade, poderão ser convertidos em pecúnia no momento da aposentadoria ou do falecimento, mediante requerimento.
+    § 1° - O valor pago nos termos do “caput” deste artigo tem caráter indenizatório, não devendo ser considerado para fins de determinação do limite a que se refere o inciso XII do artigo 115 da Constituição Estadual.
+    § 2º - O valor da indenização de que trata este artigo será calculado com base na remuneração efetivamente percebida pelo Agente Fiscal de Rendas, referente ao mês anterior ao do evento a que se refere o “caput” deste artigo, considerando-se, para sua determinação, o limite a que se refere o inciso XII do artigo 115 da Constituição Estadual, e o pagamento será efetuado no prazo de 6 (seis) meses subsequentes ao mês da aposentadoria, e em separado do demonstrativo dos proventos.” (NR) (§ 2º com a redação conferida pela Lei Complementar Estadual nº 1.122, de 2010). A anterior redação era a seguinte: “§ 2° - O valor da indenização de que trata este artigo será calculado com base na remuneração do Agente Fiscal de Rendas, referente ao mês anterior ao do evento a que se refere o “caput” deste artigo, e o pagamento será efetuado no prazo de 3 (três) meses subseqüentes ao mês do requerimento”.
+    Quer parecer que o parágrafo 2º do artigo 45, acima transcrito, acabou por se transmudar em verdadeiro “aleijão” jurídico, visto como a nova redação do § 2º está em franca e manifesta contradição com a norma do § 1º do mesmo dispositivo. Com efeito, calcular a indenização com base em valores mensais já atingidos pelo “subteto” é precisa e rigorosamente a mesma coisa que aplicar o aludido teto remuneratório sobre o valor final da indenização, qualquer seja a forma de cálculo desta.
+    Tratando-se, portanto, de indenização, não há falar em incidência do redutor salarial, ou “abate-teto”, adotado pela Fazenda Pública.
+    De ser mantida, portanto, a r. sentença que concedeu a segurança.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    Ressalto que assim têm decidido ambas as Turmas. Confiram com as seguintes ementas:
+    EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. AGENTE FISCAL DE RENDAS APOSENTADO. TETO REMUNERATÓRIO. NÃO INCIDÊNCIA. LICENÇA PRÊMIO NÃO USUFRUÍDA. NATUREZA INDENIZATÓRIA. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES.
+    A discussão acerca da natureza jurídica de verbas percebidas por servidores públicos civis ou militares se insere no âmbito infraconstitucional. Precedentes.
+    Agravo regimental a que se nega provimento.
+    (Agravo Regimental no Recurso Extraordinário com Agravo nº 788.008/SP, relatado na Primeira Turma pelo ministro Roberto Barroso em 12 de agosto de 2014)
+    1. Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Teto Remuneratório. Licença-Prêmio. Verba de natureza indenizatória. 3. Análise da legislação infraconstitucional. Ofensa meramente reflexa ao texto constitucional. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.
+    (Agravo Regimental no Recurso Extraordinário com Agravo nº 784.580/SP, relatado na Segunda Turma pelo ministro Gilmar Mendes em 25 de março de 2014)
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 9 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
