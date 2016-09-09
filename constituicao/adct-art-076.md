@@ -1,4 +1,4 @@
-Art. 76. São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2015, 20% (vinte por cento) da arrecadação da União de impostos, contribuições sociais e de intervenção no domínio econômico, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais..
-§ 1º O disposto no caput não reduzirá a base de cálculo das transferências a Estados, Distrito Federal e Municípios, na forma do § 5º do art. 153, do inciso I do art. 157, dos incisos I e II do art. 158 e das alíneas a, b e d do inciso I e do inciso II do art. 159 da Constituição Federal, nem a base de cálculo das destinações a que se refere a alínea c do inciso I do art. 159 da Constituição Federal..
+Art. 76. São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2023, 30% (trinta por cento) da arrecadação da União relativa às contribuições sociais, sem prejuízo do pagamento das despesas do Regime Geral da Previdência Social, às contribuições de intervenção no domínio econômico e às taxas, já instituídas ou que vierem a ser criadas até a referida data.
+§ 1º (Revogado).
 § 2º Excetua-se da desvinculação de que trata o caput a arrecadação da contribuição social do salário-educação a que se refere o § 5º do art. 212 da Constituição Federal..
-§ 3º Para efeito do cálculo dos recursos para manutenção e desenvolvimento do ensino de que trata o art. 212 da Constituição Federal, o percentual referido no caput será nulo..
+§ 3º (Revogado).
