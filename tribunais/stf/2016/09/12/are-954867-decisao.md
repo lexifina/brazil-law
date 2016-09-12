@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário aos argumentos de que (a) o acórdão recorrido encontra-se em consonância com o decidido pelo STF no julgamento do RE 566.621, submetido à sistemática da repercussão geral; e (b) inexiste ofensa à norma inserta no art. 97 da Constituição Federal, porquanto o julgado atacado limitou-se a interpretar a legislação pertinente sem adentrar na análise de sua inconstitucionalidade.
+    No agravo, a parte agravante alega, em síntese, que o aresto impugnado está em desconformidade com a orientação assentada pelo STF no julgamento do RE 566.621. Ao final, requer a admissão e provimento do recurso extraordinário, para que seja decretada a prescrição quinquenal.
+    2. O Plenário do STF, no julgamento das Rcl 7.569 e 7.547, ambas da relatoria da Min. Ellen Gracie, assentou o entendimento de que não constitui juízo de admissibilidade do apelo a negativa de seguimento do recurso extraordinário, na origem, com base nos §§ 2º e 3º do art. 543-B do CPC/1973 e no art. 328-A do RISTF, de modo que se revela incabível o ajuizamento de reclamação ou a interposição do agravo do art. 544 do CPC/1973. Definiu-se, também, que o não encaminhamento do recurso a esta Corte não importa violação à Súmula 727/STF. Essa orientação foi reafirmada pelo Pleno quando do julgamento do AI 760.358-QO, Rel. Min. GILMAR MENDES (Presidente), DJe de 12/2/2010.
+    Entretanto, havendo decisão de admissibilidade do extraordinário com partes autônomas em que se aplica a sistemática da repercussão geral a apenas algumas delas, evidentemente não compete ao Juízo de origem a apreciação daquilo que for obstado por fundamentos diversos.
+    No caso dos autos, o TRF4 negou o processamento do recurso extraordinário, no que toca à prescrição, com base em precedente prolatado pelo Supremo Tribunal Federal sob a sistemática da repercussão geral. Quanto a esse ponto, não cabe irresignação para o STF.
+    3. Por outro lado, as razões do agravo não se insurgiram contra a inadmissão do recurso extraordinário, no tocante à alegada violação ao art. 97 da CF/88. O próprio pedido do agravo – que apenas postula o reconhecimento da prescrição quinquenal – evidencia que a parte agravante conformou-se com a inadmissão de seu apelo extremo, na parte em que sustentou ofensa ao art. 97 da Carta Magna.
+    4. Diante do exposto, não conheço do agravo.
+    Publique-se. Intime-se.
+    Brasília, 12 de setembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
