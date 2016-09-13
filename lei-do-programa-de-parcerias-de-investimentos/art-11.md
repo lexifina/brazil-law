@@ -1,0 +1,1 @@
+Art. 11. Ao ministério setorial ou órgão com competência para formulação da política setorial cabe, com o apoio da SPPI, a adoção das providências necessárias à inclusão do empreendimento no âmbito do PPI.
