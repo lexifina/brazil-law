@@ -1,0 +1,1 @@
+Art. 15. O FAEP poderá ser contratado diretamente por órgãos e entidades da administração pública para prestar serviços técnicos profissionais especializados visando à estruturação de contratos de parceria e de medidas de desestatização.

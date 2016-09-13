@@ -1,0 +1,1 @@
+Art. 16. Para a execução dos serviços técnicos para os quais houver sido contratado, o FAEP poderá contratar, na forma da legislação, o suporte técnico de pessoas naturais ou jurídicas especializadas, cabendo aos agentes públicos gestores do Fundo, com o apoio da SPPI, a coordenação geral dos trabalhos e a articulação com os demais órgãos e entidades envolvidos.

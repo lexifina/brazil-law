@@ -1,0 +1,1 @@
+Art. 21. Aplicam-se as disposições desta Lei, no que couber, aos empreendimentos empresariais privados que, em regime de autorização administrativa, concorram ou convivam, em setor de titularidade estatal ou de serviço público, com empreendimentos públicos a cargo de entidades estatais ou de terceiros contratados por meio das parcerias de que trata esta Lei.

@@ -1,0 +1,5 @@
+Art. 6º Os órgãos, entidades e autoridades da administração pública da União com competências relacionadas aos empreendimentos do PPI formularão programas próprios visando à adoção, na regulação administrativa, independentemente de exigência legal, das práticas avançadas recomendadas pelas melhores experiências nacionais e internacionais, inclusive:
+I - edição de planos, regulamentos e atos que formalizem e tornem estáveis as políticas de Estado fixadas pelo Poder Executivo para cada setor regulado, de forma a tornar segura sua execução no âmbito da regulação administrativa, observadas as competências da legislação específica, e mediante consulta pública prévia;
+II - eliminação de barreiras burocráticas à livre organização da atividade empresarial;
+III - articulação com o Conselho Administrativo de Defesa Econômica - CADE, bem como com a Secretaria de Acompanhamento Econômico - SEAE do Ministério da Fazenda, para fins de compliance com a defesa da concorrência; e
+IV - articulação com os órgãos e autoridades de controle, para aumento da transparência das ações administrativas e para a eficiência no recebimento e consideração das contribuições e recomendações.

@@ -1,0 +1,1 @@
+Art. 13. Observado o disposto no art. 3º da Lei nº 9.491, de 9 de setembro de 1997, e no § 3º do art. 10 da Lei nº 11.079, de 30 de dezembro de 2004, a licitação e celebração de parcerias dos empreendimentos públicos do PPI independem de lei autorizativa geral ou específica.
