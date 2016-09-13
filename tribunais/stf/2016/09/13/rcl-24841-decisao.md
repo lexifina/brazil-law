@@ -1,0 +1,38 @@
+RECLAMAÇÃO. PETIÇÃO INICIAL. ATO RECLAMADO. INDICAÇÃO PRECISA. AUSÊNCIA. AFRONTA A ATO JURISDICIONAL DESTA CORTE. DESCRIÇÃO. INEXISTÊNCIA. LITIGÂNCIA DE MÁ-FÉ. NEGATIVA DE SEGUIMENTO.
+    Decisão: Trata-se de reclamação, com pedido de liminar, ajuizada por Madalena Cruz Adamecz contra decisões proferidas pelo Tribunal de Justiça do Estado de São Paulo, pelo Relator do AREsp 646.873 do Superior Tribunal de Justiça e pelo Supremo Tribunal Federal.
+    A reclamante alega que as decisões reclamadas, ao indeferirem o benefício da gratuidade de justiça, ofende diversas decisões do Supremo Tribunal Federal e, em especial, o direito fundamental de acesso à justiça.
+    Postula, ao final:
+    “Em face de tudo que foi exposto, pede e requer a Reclamante, seja concedida a medida liminar a fim de que seja determinada a imediata suspensão de efetividade das decisões reclamadas com sua final cassação por inconstitucionalidade e consequente concessão da tão almejada gratuidade processual à reclamante, com a consequente conversão da mesma em definitiva, bem como sejam requisitadas informações de autoridades, como de direito, bem como da intimação do Ministério Público para oferecer parecer, se for este o caso e ao final seja julgada procedente a presente Reclamação, cassando a decisão guerreada prolatada pelo Tribunal de Justiça de São Paulo, pelo Acórdão Agravo de Instrumento nº 2037208-33.2013.8.26.00002 e consequentemente do STJ e STF.”
+    Determinado o aditamento à inicial, atribuiu-se R$ 391.711,56 (trezentos e noventa e um mil, setecentos e onze reais e cinquenta e seis centavos) a título de valor da causa.
+    É o relatório.
+    A Reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e garantir a autoridade de suas decisões, ex vi do art. 102, I, alínea l, da Constituição Federal, além de assegurar o estrito cumprimento das súmulas vinculantes, nos termos do art. 103-A, § 3º, da Constituição da República, incluído pela EC nº 45/2004.
+    In casu, todavia, verifico que a reclamante não observou os requisitos essenciais da reclamação, visto que não apontou precisamente, nem encartou nos autos, o ato reclamado. Não descreveu, tampouco, o modo como as decisões hostilizadas teriam violado enunciado vinculante desta Corte ou acórdão paradigma com efeitos vinculantes.
+    Dessa forma, sem a indicação precisa do ato reclamado, nem a descrição analítica da forma como ocorreu a suposta violação a ato jurisdicional desta Corte, a reclamante deixou de atender aos pressupostos essenciais da reclamação, restando, assim, inviabilizado o seu exame.
+    Nessa esteira, cito os seguintes casos análogos: Rcl 2.008, Rel. Min. Carlos Velloso, e Rcl 9.732-AgR, Rel. Min. Joaquim Barbosa, Pleno, DJe 8/3/2013, este último assim ementado:
+    “EMENTA: RECLAMAÇÃO. SEQUESTRO OU BLOQUEIO DE VERBAS PÚBLICAS. PRECATÓRIOS. SEGUNDA MORATÓRIA (EC 30/2000). INÉPCIA DA INICIAL. RECONHECIMENTO DA REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL. DECISÃO NEUTRA. RE 590.751-RG. PROCESSUAL CIVIL. AGRAVO REGIMENTAL.
+    1. É inepta a petição inicial de reclamação que não identifica com precisão quais seriam os atos contrários à autoridade do Supremo Tribunal Federal, nem que indique analiticamente como os atos reclamados poderiam violar a autoridade dos precedentes invocados.
+    2. A decisão que reconhece a repercussão geral de matéria constitucional não estabelece qualquer presunção favorável aos argumentos ou às teses dos entes públicos. Trata-se de decisão neutra que, portanto, não dispensa que o município-interessado justifique a presença dos requisitos para concessão de eventual medida liminar ou para supressão de ato judicial desfavorável ao interesse secundário ligado à arrecadação ou ao erário.
+    Agravo regimental ao qual se nega provimento.”
+    Ademais, é preciso ressaltar que um dos atos impugnados é acórdão do Plenário do Supremo Tribunal Federal proferido em embargos de declaração em agravo regimental no recurso extraordinário com agravo o que evidencia o manifesto intuito protelatório da parte e o caráter abusivo do manejo da presente ação.
+    A reclamante, ao não se inconformar com o resultado negativo da sua demanda perante todas as instâncias do poder judiciário – só no Supremo Tribunal Federal foram quatro recursos – insurge-se novamente por meio de reclamação constitucional tentando desconstituir não só a decisão do Plenário do Supremo Tribunal Federal, mas todas as decisões desfavoráveis desde as instâncias de piso.
+    O acesso à justiça, utilizado na própria fundamentação da reclamante, não é um valor constitucional absoluto que justifica qualquer postulação ao Poder Judiciário, notadamente diante da prévia e adequada manifestação de todas as instâncias do Judiciário brasileiro, como no caso em comento.
+    Ao contrário, o acesso à justiça deve ser observado em conjunto com os demais valores constitucionais e entendido como forma de racionalização da prestação jurisdicional. É dizer, tal garantia constitucional é observada tanto sob um aspecto intraprocessual, garantindo às partes o contraditório e ampla defesa, como os meios de impugnação e recursos necessários, como sob o aspecto extraprocessual – ou macroprocessual – como forma de permitir a máxima efetividade da jurisdição. Desse modo, ao combater as demandas temerárias, estará o Poder Judiciário vocacionado a solucionar o maior número de conflitos no seio da sociedade.
+    In casu, de forma alguma foi negado – ou sequer restringido – o acesso à justiça da reclamante. Pelo contrário, o Poder Judiciário reiteradamente denegou todos os recursos manifestamente destituídos de provimento. Esta reclamação, ao insistir no propósito protelatório, consubstancia uma demanda manifestamente infundada, de evidente má-fé processual (art. 80, VI, do CPC).
+    Desse modo, o Código de Processo Civil determina a aplicação, nesses casos de evidente litigância de má-fé, a aplicação de multa de 1% (um por cento) a 10% (dez por cento) do valor da causa, verbis:
+    Art. 80. Considera-se litigante de má-fé aquele que:
+    I - deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso;
+    II - alterar a verdade dos fatos;
+    III - usar do processo para conseguir objetivo ilegal;
+    IV - opuser resistência injustificada ao andamento do processo;
+    V - proceder de modo temerário em qualquer incidente ou ato do processo;
+    VI - provocar incidente manifestamente infundado;
+    VII - interpuser recurso com intuito manifestamente protelatório.
+    Art. 81. De ofício ou a requerimento, o juiz condenará o litigante de má-fé a pagar multa, que deverá ser superior a um por cento e inferior a dez por cento do valor corrigido da causa, a indenizar a parte contrária pelos prejuízos que esta sofreu e a arcar com os honorários advocatícios e com todas as despesas que efetuou.
+    Diante das circunstâncias concretas do caso em análise – repetidos recursos inadmissíveis no Supremo Tribunal Federal, manifesta improcedência e descabimento da reclamação – verifico adequado e proporcional para os fins que a norma se destina a fixação da multa no patamar de 2% (dois por cento) do valor da causa.
+    Ex positis, com fundamento no art. 932, VIII, do Código de Processo Civil, combinado com o art. 161, parágrafo único, do RISTF, nego seguimento a esta reclamação, ficando prejudicado o pedido de liminar.
+    Condeno a reclamante ao pagamento de multa no valor de 2% (dois por cento) do valor da causa, na forma do art. 81, caput, do Código de Processo Civil, em favor do Estado de São Paulo.
+    Publique-se. Intimem-se.
+    Brasília, 13 de setembro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
