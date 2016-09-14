@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “POLICIAL MILITAR. Exercício na assessoria militar do Tribunal de Justiça. Gratificação de representação. Pretensão à incorporação. Artigo 133 da Constituição Estadual. Dispositivo que não se aplica à retribuição pleiteada. Mera gratificação de serviço. Natureza transitória incompatível com a incorporação, salvo expressa previsão legal. Previsão do artigo 26 da LC 467/86 revogada pelo artigo 5º da LC 813/96. Sentença de procedência. Recursos oficial e voluntário providos para julgar a ação improcedente” (pág. 85 do documento eletrônico 1).
+    No RE, interposto com base no art. 102, III, a e d, da Constituição Federal, alegou-se, em suma, violação ao art. 7º, VIII, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o recorrente, na petição do recurso extraordinário, não demonstrou, em preliminar formal e fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso, consoante determinam o art. 543-A, § 2º, do CPC/1973, introduzido pela Lei 11.418/2006, e o art. 327, § 1º, do RISTF. Nesse sentido, destaco o entendimento do Plenário desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PRELIMINAR FORMAL DE EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL INVOCADA NO RECURSO EXTRAORDINÁRIO. INTIMAÇÃO DO ACÓRDÃO RECORRIDO POSTERIOR A 03.05.2007. De acordo com a orientação firmada neste Tribunal, é dever da parte recorrente apresentar preliminar formal e fundamentada da repercussão geral da questão constitucional em debate no recurso extraordinário. Cabe à parte recorrente apontar de forma expressa e clara as circunstâncias que poderiam configurar a relevância – do ponto de vista econômico, político, social ou jurídico – das questões constitucionais invocadas no recurso extraordinário (CPC, art. 543-A, §§ 1º e 2º). Agravo regimental a que se nega provimento” (ARE 682.069-AgR/MG, Rel. Min. Joaquim Barbosa – grifos meus).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de setembro de 2016.
+Ministro Ricardo Lewandowski
+- Relator -
