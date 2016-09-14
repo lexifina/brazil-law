@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Colégio Recursal da Capital do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 75):
+     “ADMINISTRATIVO – TRÂNSITO – AUTUAÇÃO – MULTA POR NEGATIVA EM TESTE DE ETILÔMETRO – PREVISÃO LEGAL DA AUTUAÇÃO – NÃO VIOLAÇÃO DE DIREITO CONSTITUCIONAL. RECURSO INOMINADO – MANUTENÇÃO DA R. SENTENÇA – ADOÇÃO DOS MESMOS ARGUMENTOS – POSSIBILIDADE – INTELIGÊNCIA DO ARTIGO 46, DA LEI Nº 9.099/95 – SENTENÇA CONFIRMADA POR SUAS PRÓPRIAS RAZÕES – RECURSO IMPROVIDO.”
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 90).
+    No recurso extraordinário, com fulcro no art. 102, III, ”a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, LIV, da Constituição Federal.
+    Nas razões recursais, sustenta-se que “a imposição não decorreu de constatação do agente, o que seria possível em razão da presunção de veracidade que acoberta os atos emanados de agentes públicos, no exercício de suas funções. A aplicação da penalidade se deu apenas por recusa do condutor em se sujeitar ao procedimento de aferição de sua eventual embriaguez.” Aduz que não foi observado o princípio da inocência (eDOC 1, p. 103).
+    A Presidência do Colégio Recursal da Capital do TJ/SP inadmitiu o recurso com fundamento na Súmula 279 do STF (eDOC 1, p. 123).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, ao decidir sobre o mérito da questão, confirmou o entendimento do juízo de 1º grau, assim fundamentado (eDOC 1, p. 47):
+    “Da simples leitura do artigo, podemos concluir que a recusa do condutor em se submeter a ‘qualquer dos procedimentos’, ou seja, basta a recusa a apenas um daqueles elencados, é motivo para a aplicação das penalidades estabelecidas no art. 165. Assim, nos casos em que este se recusa a realizar o teste, não é necessário a motivação do auto de infração com os sinais de embriaguez do condutor, com defende o autor, sendo aquele motivo suficiente para a aplicação da penalidade prevista.
+    A Administração é regida pelo Princípio da Legalidade. Dessa forma, uma vez caracterizado o fato gerador da penalidade, aquela é obrigada a aplicar a sanção prevista. Não há, no presente caso, qualquer vício a macular o ato administrativo analisado.”
+    Conforme se observa da leitura do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo, demandaria o reexame das provas dos autos e da legislação infraconstitucional aplicável à espécie. Dessa forma, resta demonstrado a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da incidência da Súmula 279 do STF. Nesse sentido, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. 2. Direito Administrativo. 3. Ato administrativo. Multas de trânsito. 4. Ofensa meramente reflexa ao texto constitucional. Análise do Código de Trânsito Brasileiro e da Resolução n. 131/2002 do CONTRAN. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (RE 558.122-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 1º.2.2013)
+    “DECISÃO AGRAVO EM RECURSO EXTRAORDINÁRIO. CIVIL. MULTA DE TRÂNSITO. PROPRIEDADE DO VEÍCULO. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA Nº 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.” (ARE 707.443, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 7.11.2012)
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional. (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 14 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
