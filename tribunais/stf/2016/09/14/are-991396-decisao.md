@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, I E II, DA LEI Nº 8.137/90. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. MATERIALIDADE E AUTORIA COMPROVADAS, DOLO GENÉRICO. TITULARIDADE DOS VALORES. DESCLASSIFICAÇÃO PARA O ART. 2º DA LEI 8.137/90. DESCABIMENTO. INSIGNIFICÂNCIA. ALEGAÇÃO AFASTADA. CONSEQUÊNCIAS DO CRIME. EXASPERAÇÃO DA PENA BASE. PENA DE MULTA. PRESTAÇÃO PECUNIÁRIA. CRITÉRIOS.
+    1. O indeferimento de produção de perícia contábil não acarreta cerceamento de defesa, já que para a presente ação penal tal prova se mostra desnecessária, visto que existentes elementos suficientes nos autos para o julgamento do feito.
+    2. Comete crime contra a ordem tributária o agente que suprime o pagamento de tributos mediante omissão de informações às autoridades fazendárias.
+    3. O elemento subjetivo do tipo é o dolo genérico, bastando, para a perfectibilização do delito, que o agente tenha a vontade livre e consciente de suprimir ou reduzir o pagamento de tributos.
+    4. Não tendo o acusado esclarecido a origem do dinheiro e tampouco comprovado ser de propriedade de terceiros, correta a presunção de que se trata de valores tributáveis, dolosamente omitidos a fim de sonegar imposto de renda.
+    5. Não há falar em aplicação do princípio da insignificância no caso, já que o débito tributário em questão supera, e muito, o valor definido pela Portaria MPF nº 75/2012.
+    6. É adequada a valoração negativa do vetor consequências do crime e, consequentemente, a exasperação da pena-base quando expressivo o valor do débito tributário resultante da infração penal.
+    7. Na pena de multa, o número de dias-multa deve guardar proporcionalidade com o quantum da pena privativa de liberdade estabelecida. Já o valor do dia-multa deve ser fixado de acordo com as condições econômicas do condenado.
+    8. A pena de prestação pecuniária deve ser fixada atentando à situação financeira do acusado e, nessa medida, deve ser arbitrada de modo a não tornar o réu insolvente. Todavia, não pode ser fixada em valor irrisório que sequer seja sentida como sanção.
+    9. Apelação desprovida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 5º, LV, XLVI e 93, IX, da Constituição. Sustenta que: (i) “as sanções impostas aos infratores devem ser personalizadas e particularizadas de acordo com a natureza e as circunstâncias dos delitos e à luz das características pessoais do infrator”; (ii) “a não concessão da perícia inverte o ônus processual de ter que provar que os depósitos que transitaram na conta, ao longo de 4 anos, não pertenciam ao acusado, e sim a terceiros, bem como não se referiam a valores tributáveis”.
+    O recurso é inadmissível, tendo em vista que esta Corte assentou a ausência de repercussão geral da questão relativa à obrigatoriedade de observância das garantias constitucionais do processo ante o indeferimento, pelo juiz, de determinada diligência probatória. Nessa linha, veja-se o ARE 639.228-RG, julgado sob a relatoria do Ministro Cezar Peluso.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido, vejam-se o AI 797.666-AgR, Rel. Min Ayres Britto; o AI 796.208-AgR, Rel Min. Dias Toffoli; e o RE 505.815-AgR, Rel. Min. Joaquim Barbosa.
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, seriam necessárias a análise da legislação infraconstitucional pertinente e uma nova reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário.
+    Por fim, esta Corte tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 14 de setembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
