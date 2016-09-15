@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 171, de 23 de agosto de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3815.90.99 Mercadoria: Peróxido de dicumila, formulado a 40% e misturado com 60% de carga mineral inerte (carbonato de cálcio); utilizado na reticulação / cura de elastômeros e plastômeros, funcionando como iniciador de reação, apresentado na forma de pó e acondicionado em sacos de 25kg.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 1 a) Capítulo 29 e da posição 38.15), RGI 6 (texto da subposição de 1º nível fechada 3815.90) e RGC 1 (textos do item 3815.90.9 e do subitem 3815.90.99), da NCM constante da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3815.90.99 Mercadoria: Peróxido de dicumila, formulado a 40% e misturado com 60% de carga mineral inerte (carbonato de cálcio); utilizado na reticulação / cura de elastômeros e plastômeros, funcionando como iniciador de reação, apresentado na forma de pó e acondicionado em sacos de 25kg.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 1 a) Capítulo 29 e da posição 38.15), RGI 6 (texto da subposição de 1º nível fechada 3815.90) e RGC 1 (textos do item 3815.90.9 e do subitem 3815.90.99), da NCM constante da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+DANIELLE CARVALHO DE LACERDA
+Presidente da 3ª Turma
