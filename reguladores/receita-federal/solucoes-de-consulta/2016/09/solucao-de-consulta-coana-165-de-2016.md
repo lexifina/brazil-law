@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 165, de 23 de agosto de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9504.50.00 Ex Tipi: Ex 01 Mercadoria: Controlador sem fio exclusivamente utilizado em console de jogos de vídeo específico, em formato de bastão, contendo uma alavanca analógica, um direcional digital de quatro vias, cinco botões e uma porta mini-USB.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 3 do Capítulo 95 e da posição 95.04), 6 (textos da Nota 3 do Capítulo 95, da Nota de subposição 1 a) do Capítulo 95 e da subposição 9504.50.00) e RGC/TIPI (texto do Ex 01) da NCM, constante da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9504.50.00 Ex Tipi: Ex 01 Mercadoria: Controlador sem fio exclusivamente utilizado em console de jogos de vídeo específico, em formato de bastão, contendo uma alavanca analógica, um direcional digital de quatro vias, cinco botões e uma porta mini-USB.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 3 do Capítulo 95 e da posição 95.04), 6 (textos da Nota 3 do Capítulo 95, da Nota de subposição 1 a) do Capítulo 95 e da subposição 9504.50.00) e RGC/TIPI (texto do Ex 01) da NCM, constante da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+DANIELLE CARVALHO DE LACERDA
+Presidente da 3ª Turma
