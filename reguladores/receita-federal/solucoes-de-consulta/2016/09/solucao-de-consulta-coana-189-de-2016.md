@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 189, de 1º de setembro de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9028.30.31 Mercadoria: Contador digital de energia elétrica trifásica, entendido como um sistema de medição e transformação a seco (SEMTS), composto por transformadores de corrente e potencial de média tensão (até 36 kV) e equipamentos de medidores de energia, sistema de telecomunicação, chaveamento e sensores destinados a funcionar em conjunto e constituindo um corpo único.
+DISPOSITIVOS LEGAIS: RGI 1 (Texto da posição 90.28) c/c Nota Legal nº 3 da Seção XVI, RGI 6 (Texto da subposição 9028.30), RGC-1 (Texto do item 9028.30.3 e subitem 9028.30.31) da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC) aprovada pela Resolução Camex nº 99, de 29 de dezembro de 2011, e da Tabela de Incidência do Imposto Sobre Produtos Industrializados (TIPI), aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, com alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9028.30.31 Mercadoria: Contador digital de energia elétrica trifásica, entendido como um sistema de medição e transformação a seco (SEMTS), composto por transformadores de corrente e potencial de média tensão (até 36 kV) e equipamentos de medidores de energia, sistema de telecomunicação, chaveamento e sensores destinados a funcionar em conjunto e constituindo um corpo único.
+DISPOSITIVOS LEGAIS: RGI 1 (Texto da posição 90.28) c/c Nota Legal nº 3 da Seção XVI, RGI 6 (Texto da subposição 9028.30), RGC-1 (Texto do item 9028.30.3 e subitem 9028.30.31) da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC) aprovada pela Resolução Camex nº 99, de 29 de dezembro de 2011, e da Tabela de Incidência do Imposto Sobre Produtos Industrializados (TIPI), aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, com alterações posteriores.
+ÁLVARO AUGUSTO DE VASCONCELOS LEITE RIBEIRO
+Presidente da 1ª Turma
