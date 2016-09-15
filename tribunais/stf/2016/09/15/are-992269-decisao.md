@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu provimento ao recurso do Ministério Público “para anular a decisão guerreada, devendo a ação penal prosseguir regularmente, de acordo com o que estabelece o Estatuto de Rito”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 5º, LIV, LV e 93, IX, da Constituição. Sustenta que: (i) “a documentação já anexada aos autos pelo recorrentes (inclusive às fls. 351/446) comprova que em aproximadamente uma vintena de oportunidades ficou reconhecida a falta de justa causa para a instauração da lide penal na hipótese aqui considerada, não ultrapassando os fatos a esfera meramente administrativa”; (ii) “sobre a questão central aqui trazida a debate, é jurisprudência firme que a orientação desse Excelso Pretório é no sentido de que, em hipóteses de crime contra a ordem tributária, a fraude constitui elemento essencial à sua configuração”; (iii) se trata de “caso típico, pois, de atipia substancial, a impor a rejeição da denúncia”; (iv) “a petição e os documentos a ela acostados foram juntados 5 meses depois, quando já realizado o julgamento, como reconhece a própria decisão recorrida”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, para chegar a conclusão diversa do acórdão recorrido, seriam necessáriam a análise da legislação infraconstitucional pertinente e a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão recorrido:
+    “[...]
+    Aliás, como todos sabem, só se aborta, ou se tranca, ação penal em casos excepcionais, isto é, ou quando o fato atribuído ao réu não constituir crime, ou quando não estiver provada a materialidade da infração, ou, ainda, quando não houver indícios de autoria do delito, não sendo esta a hipótese dos autos.
+    […]
+    Ademais, exatamente como destacou o eminente Procurador de Justiça CESAR PINHEIRO RODRIGUES: “é irrelevante o fato dos recorridos não terem sido ouvidos em sede policial, porquanto a peça acusatória vem amparada por processo administrativo do Fisco Estadual, onde os agentes tiveram ampla participação (fls. 331/461,471/480). De outra parte, é cediço que o inquérito policial é dispensável, inclusive, para o oferecimento de denúncia, bem como que nele impera o sistema inquisitivo”.
+    [...]”
+    Quanto à alegada violação ao art. 93, IX, da Constituição, esta Corte tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte recorrente.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 15 de setembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
