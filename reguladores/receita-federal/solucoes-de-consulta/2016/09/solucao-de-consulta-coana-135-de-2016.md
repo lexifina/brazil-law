@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 135, de 29 de junho de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC/Tipi 8708.80.00 Suporte do amortecedor dianteiro de veículo automóvel de passageiros, constituído por ferragem externa, tampa inferior, sino e parafuso em aço (88,75% do peso total) e borracha vulcanizada (11,25% do peso total), utilizado para fixação do conjunto mola/amortecedor na carroçaria do veículo como componente do seu sistema de suspensão, para absorção de vibrações e impactos diversos, vulgarmente denominado "calço do amortecedor".
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.08), RGI 6 (texto da subposição 8708.80.00) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, com alterações posteriores, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC/Tipi 8708.80.00 Suporte do amortecedor dianteiro de veículo automóvel de passageiros, constituído por ferragem externa, tampa inferior, sino e parafuso em aço (88,75% do peso total) e borracha vulcanizada (11,25% do peso total), utilizado para fixação do conjunto mola/amortecedor na carroçaria do veículo como componente do seu sistema de suspensão, para absorção de vibrações e impactos diversos, vulgarmente denominado "calço do amortecedor".
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.08), RGI 6 (texto da subposição 8708.80.00) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, com alterações posteriores, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+ÁLVARO AUGUSTO DE VASCONCELOS LEITE RIBEIRO
+Presidente da 1ª Turma
