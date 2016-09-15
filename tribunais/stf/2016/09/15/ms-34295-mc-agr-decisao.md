@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de mandado de segurança que, impetrado contra o Senhor Presidente da CPI – FUNAI e INCRA, instituída pela Câmara dos Deputados, tem por fim questionar a validade jurídica de deliberação emanada daquele órgão de investigação parlamentar, consubstanciada na aprovação do Requerimento nº 292/16.
+    Por entender presentes, cumulativamente, os requisitos concernentes à plausibilidade jurídica e ao “periculum in mora”, o eminente Ministro RICARDO LEWANDOWSKI, no exercício da Presidência desta Suprema Corte, deferiu o pedido de medida liminar formulado pelos impetrantes.
+    Registro, desde logo, que, posteriormente a tal decisão, sobreveio fato impregnado de relevo processual, eis que apto a gerar a ocorrência de situação configuradora de prejudicialidade da presente ação.
+    Refiro-me ao fato de que o Senhor Presidente da Câmara dos Deputados, ao prestar as informações que lhe foram solicitadas nos autos do MS 34.305-MC-AgR/DF, de que sou Relator, em contexto idêntico ao que se registra nesta causa, esclareceu o que se segue:
+    “Reportando-me ao expediente referido em epígrafe, protocolizado na Câmara dos Deputados em 12 de setembro de 2016, informo a Vossa Excelência que a última prorrogação da Comissão Parlamentar de Inquérito da Funai e do Incra se deu no dia 19 de junho de 2016, por 60 (sessenta) dias, e que os trabalhos da Comissão foram encerrados em 17 de agosto de 2016.” (grifei)
+    Isso significa, portanto, que sobreveio, no caso, fato jurídico processualmente relevante, apto a caracterizar, na espécie, a ocorrência de típica hipótese de prejudicialidade.
+    É que a jurisprudência do Supremo Tribunal Federal entende prejudicadas as ações de mandado de segurança e de “habeas corpus”, sempre que – impetrados tais “writs” constitucionais contra Comissões Parlamentares de Inquérito – vierem estas a extinguir-se em virtude da conclusão de seus trabalhos investigatórios, independentemente da aprovação, ou não, de seu relatório final (HC 79.244/DF, Rel. Min. SEPÚLVEDA PERTENCE – MS 21.872/DF, Rel. Min. NÉRI DA SILVEIRA – MS 23.852-QO/DF, Rel. Min. CELSO DE MELLO, v.g.).
+    Sendo assim, e em face das razões expostas, julgo prejudicada a presente ação de mandado de segurança em razão da perda superveniente de seu objeto, inviabilizando-se, em consequência, o exame do recurso de agravo interposto pela União Federal e da petição protocolada eletronicamente nesta Corte sob o nº 39891/2016, tornando sem efeito, ainda, a medida liminar anteriormente deferida.
+    Comunique-se, com urgência, transmitindo-se cópia da presente decisão ao Senhor Presidente da CPI – FUNAI e INCRA, ao Presidente do Banco Central do Brasil e ao Secretário da Receita Federal do Brasil.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 15 de setembro de 2016.
+Ministro CELSO DE MELLO
+Relator
