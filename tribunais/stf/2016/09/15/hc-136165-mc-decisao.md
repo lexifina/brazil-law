@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, contra acórdão da Sexta Turma do Superior Tribunal de Justiça nos autos do HC 351.411/PE, Rel. Min. Nefi Cordeiro. Consta dos autos, em síntese, que (a) o paciente foi preso preventivamente, em 14/5/2013, pela suposta prática do crime de homicídio qualificado (art. 121, § 2º, I, do Código Penal); (b) invocando excesso de prazo prisional, a defesa impetrou habeas corpus ao Tribunal de Justiça do Estado de Pernambuco, que negou seguimento à impetração; (c) na sequência, foi impetrado habeas corpus ao Superior Tribunal de Justiça, que também negou seguimento à ação, em decisão monocrática confirmada pelo colegiado, no julgamento do agravo regimental assim ementado:
+    “[...] 1. Estabelecida a impugnação quanto à tese de excesso de prazo para o encerramento da primeira fase do Tribunal do Júri, a superveniência da sentença de pronúncia, nos termos da súmula n. 21/STJ, faz com que seja superada a alegação de constrangimento ilegal relacionado à prisão.
+    2. Agravo regimental improvido”.
+    Nesta ação, o impetrante alega, em suma, que (a) a controvérsia acerca do excesso de prazo da prisão cautelar não fica prejudicado com a prolação da pronúncia; (b) o recurso em sentido estrito interposto contra a pronúncia, a que se reputa ilegal, “até hoje não teve o menor andamento na origem”; (c) a decisão monocrática afrontou o princípio do colegiado, pois a prejudicialidade do excesso de prazo da segregação cautelar pela pronúncia do paciente não se encontra pacificada na jurisprudência. Requer, liminarmente, que seja a ordem deferida, “a fim de que a autoridade coatora seja impelida” a julgar o habeas corpus no órgão colegiado, sendo, ao final confirmada no julgamento de mérito.
+    2. As razões invocadas, embora relevantes, não configuram hipótese que autorize, liminarmente, a revogação da prisão preventiva. Consideradas as circunstâncias da causa, o exame da pretensão será feito no momento próprio, em caráter definitivo.
+    3. Ante o exposto, indefiro o pedido de liminar. Solicitem-se informações ao juízo da Terceira Vara do Tribunal do Júri da Capital/PE (autos 0011730-06.2013.8.17.0001). Após, à Procuradoria-Geral da República para manifestação.
+    Publique-se. Intime-se.
+    Brasília, 15 de setembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
