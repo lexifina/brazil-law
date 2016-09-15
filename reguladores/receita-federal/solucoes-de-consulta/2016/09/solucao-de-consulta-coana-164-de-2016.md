@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 164, de 23 de agosto de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3924.90.00 Mercadoria: Conjunto contendo um extrator de cravos e espinhas, no formato de uma caneta em aço inox, medindo 11 cm de comprimento e 1,2 cm de diâmetro, com uma cavidade na extremidade para alojar uma ponteira plástica, e 20 ponteiras plásticas descartáveis em formato cilíndrico, com ponta arredondada e furo central.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da posição 39.24 e da Nota 1.- do Capítulo 82) e RGI 6 (texto da subposição 3924.90.00) a NCM, constante da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3924.90.00 Mercadoria: Conjunto contendo um extrator de cravos e espinhas, no formato de uma caneta em aço inox, medindo 11 cm de comprimento e 1,2 cm de diâmetro, com uma cavidade na extremidade para alojar uma ponteira plástica, e 20 ponteiras plásticas descartáveis em formato cilíndrico, com ponta arredondada e furo central.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da posição 39.24 e da Nota 1.- do Capítulo 82) e RGI 6 (texto da subposição 3924.90.00) a NCM, constante da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011, e da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+DANIELLE CARVALHO DE LACERDA
+Presidente da 3ª Turma
