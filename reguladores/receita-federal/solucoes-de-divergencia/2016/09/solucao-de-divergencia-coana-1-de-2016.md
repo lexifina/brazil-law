@@ -1,0 +1,9 @@
+Solução de Divergência Coana nº 1, de 10 de agosto de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Reforma a Solução de Consulta SRRF/7ªRF/DIANA nº 2, de 14 de janeiro de 2014. Código NCM: 8527.21.00 Mercadoria: Aparelho multifuncional, destinado a veículos automotores, contendo, em um mesmo corpo, receptores de radiodifusão (AM/FM) e de posicionamento global por satélite (GPS), reprodutor de áudio e de imagens e transmissor/receptor de sinais via bluetooth, sem dispositivo de visualização incorporado.
+DISPOSITIVOS LEGAIS: RGI 1 e 3 c) (texto da posição 85.27) e RGI 6 (textos da subposição de primeiro nível 8527.2 e da subposição de segundo nível 8527.21), da NCM constante da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e em subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Reforma a Solução de Consulta SRRF/7ªRF/DIANA nº 2, de 14 de janeiro de 2014. Código NCM: 8527.21.00 Mercadoria: Aparelho multifuncional, destinado a veículos automotores, contendo, em um mesmo corpo, receptores de radiodifusão (AM/FM) e de posicionamento global por satélite (GPS), reprodutor de áudio e de imagens e transmissor/receptor de sinais via bluetooth, sem dispositivo de visualização incorporado.
+DISPOSITIVOS LEGAIS: RGI 1 e 3 c) (texto da posição 85.27) e RGI 6 (textos da subposição de primeiro nível 8527.2 e da subposição de segundo nível 8527.21), da NCM constante da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e em subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+CLAUDIA ELENA FIGUEIRA CARDOSO NAVARRO
+Presidente do Comitê
