@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 205, de 9 de setembro de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 9405.92.00 Mercadoria: Parte de luminária, constituída de policarbonato, própria para ser aplicada sobre placa de circuito impresso contendo diodos emissores de luz e parafusada em dissipador, apresentando diversas curvaturas trabalhadas em sua superfície, onde cada curvatura é posicionada sobre um LED, de modo a direcionar o facho de luz emitida em ângulo fixo, que varia de acordo com cada modelo, denominada comercialmente de “lente para LED”.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.05) e RGI 6 (textos da subposição de primeiro nível 9405.9 e de segundo nível 9405.92) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 9405.92.00 Mercadoria: Parte de luminária, constituída de policarbonato, própria para ser aplicada sobre placa de circuito impresso contendo diodos emissores de luz e parafusada em dissipador, apresentando diversas curvaturas trabalhadas em sua superfície, onde cada curvatura é posicionada sobre um LED, de modo a direcionar o facho de luz emitida em ângulo fixo, que varia de acordo com cada modelo, denominada comercialmente de “lente para LED”.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 94.05) e RGI 6 (textos da subposição de primeiro nível 9405.9 e de segundo nível 9405.92) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+MARCO ANTÔNIO RODRIGUES CASADO
+Presidente da 5ª Turma
