@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 199, de 2 de setembro de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO NCM 8708.80.00 Mercadoria: Parte de sistema de suspensão, conhecida comercialmente como bandeja (ou braço) de suspensão dianteira, apresentada em embalagem plástica, constituída por uma chapa de aço e duas buchas, traseira e dianteira, utilizada em veículos automóveis das posições NCM/SH 87.01 a 87.05, cuja função é promover a ligação entre a roda e a carroçaria, garantindo estabilidade ao veículo.
+DISPOSITIVOS LEGAIS: RGI-1 (texto da posição 87.08) e RGI-6 (texto da subposição 8708.80.00) da NCM, constante da TEC, aprovada pela Resolução Camex nº 94, 12/12/ 2011 com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 7.660, de 2011, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO NCM 8708.80.00 Mercadoria: Parte de sistema de suspensão, conhecida comercialmente como bandeja (ou braço) de suspensão dianteira, apresentada em embalagem plástica, constituída por uma chapa de aço e duas buchas, traseira e dianteira, utilizada em veículos automóveis das posições NCM/SH 87.01 a 87.05, cuja função é promover a ligação entre a roda e a carroçaria, garantindo estabilidade ao veículo.
+DISPOSITIVOS LEGAIS: RGI-1 (texto da posição 87.08) e RGI-6 (texto da subposição 8708.80.00) da NCM, constante da TEC, aprovada pela Resolução Camex nº 94, 12/12/ 2011 com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 7.660, de 2011, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ÁLVARO AUGUSTO DE VASCONCELOS LEITE RIBEIRO
+Presidente da 1ª Turma
