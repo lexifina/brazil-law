@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 210, de 12 de setembro de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 4016.99.90 Mercadoria: Manga de borracha vulcanizada não endurecida, não alveolar, para máquina de ordenhar, própria para ser encaixada em um copo de ordenha e ligada por tubo flexível ao recipiente coletor de leite, e que, por ação do pulsador, passa pelas fases alternadas de massagem e de extração do leite, comercialmente denominada “teteira”.
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 1 a) da Seção XVI, Nota 2 da Seção XVI e texto da posição 40.16), RGI 6 (textos da subposição de primeiro nível 4016.9 e da subposição de segundo nível 4016.99) e RGC 1 (texto do item 4016.99.90) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 4016.99.90 Mercadoria: Manga de borracha vulcanizada não endurecida, não alveolar, para máquina de ordenhar, própria para ser encaixada em um copo de ordenha e ligada por tubo flexível ao recipiente coletor de leite, e que, por ação do pulsador, passa pelas fases alternadas de massagem e de extração do leite, comercialmente denominada “teteira”.
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 1 a) da Seção XVI, Nota 2 da Seção XVI e texto da posição 40.16), RGI 6 (textos da subposição de primeiro nível 4016.9 e da subposição de segundo nível 4016.99) e RGC 1 (texto do item 4016.99.90) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+MARCO ANTÔNIO RODRIGUES CASADO
+Presidente da 5ª Turma
