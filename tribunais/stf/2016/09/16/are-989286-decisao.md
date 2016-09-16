@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - MATÉRIA FÁTICA - INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE - AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à procedência dos pedidos de indenização por danos morais e multa por descumprimento de acordo firmado em demanda anterior. No extraordinário cujo trânsito busca alcançar, a recorrente aponta a violação do artigo 5º, inciso X, da Constituição Federal. Discorre sobre a inexistência do prejuízo alegado. Requer a redução dos valores fixados a título de reparação.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    A Turma Recursal manteve a sentença, na qual consta:
+    Se não bastasse, de forma surpreendente, a ré insiste em descumprir as decisões concedidas nos presentes autos de forma reiterada, demonstrando desrespeito pelo autor e por este Juízo. Não há prova de que tenha a ré restabelecido a linha telefônica ao autor, noticiando o autor o descumprimento da tutela concedida. Ademais, os documentos de fls. 132/133 comprovam a remessa do nome do autor pela ré nos órgãos de proteção de crédito, em descumprimento à liminar concedida.
+    Assim, figura medida de rigor a fixação de multa pelo descumprimento reiterado das decisões concedidas, sendo a ré intimada por várias vezes, inclusive de forma pessoal. Fixo a multa, por equidade, em R$15.000,00 (quinze mil reais), diante da gravidade da conduta que a ré demonstrou nos autos.
+    […]
+    Em relação à indenização por danos morais pretendida, também deve ser acolhida, sendo notórios os transtornos que suportou o autor diante das tentativas de resolver a questão extrajudicialmente, sem êxito, demonstrando a conduta da ré descaso para com o consumidor, que confiou em sua idoneidade. Ressalta-se que juntou o autor os inúmeros números de protocolo de contatos junto à ré, não impugnados, não obtendo êxito em resolver a questão, mesmo depois do acordo realizado em outro processo.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o ato impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    De resto, no agravo de instrumento nº 839.695, da relatoria do ministro Cezar Peluso, concluiu-se não ter repercussão geral no tema relativo ao quantum indenizatório de condenação por danos morais e materiais decorrentes da relação entre concessionária de serviço público e consumidor.
+    No mais, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, porquanto já arbitrados em patamar máximo pelo Colegiado de origem.
+    4. Publiquem.
+Brasília, 16 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
