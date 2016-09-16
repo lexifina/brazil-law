@@ -1,0 +1,13 @@
+Decisão: Trata-se de recurso extraordinário com agravo interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo que manteve sentença que determinara a manutenção de segurado em plano de saúde, em acórdão assim ementado (eDOC-7, p. 13):
+    “RECURSO – Apelação interposta pelo autor – Razões que atenderam aos requisitos do art. 514, do Código de Processo Civil Recurso conhecido. PLANO DE SAÚDE Pretensão de manutenção no plano de saúde celebrado pela requerida com a ex-empregadora do autor, nos termos vigentes até sua demissão sem justa causa, a teor do art. 31, da Lei nº 9.656/98 Competência da Justiça Estadual para processamento e julgamento da causa verificada Matéria em questão não tem relação com o extinto contrato de trabalho ou com o acordo coletivo Ilegitimidade passiva da requerida de que não se cogita Dano moral Descabimento Situação que, a despeito dos inegáveis transtornos sofridos pelo autor, não ensejou dano moral indenizável Hipótese em que inexiste notícia de que o requerente e sua dependente tivessem deixado de ser atendidos e, muito menos, de que tivessem tido algum tratamento interrompido Distribuição dos ônus sucumbenciais que resta inalterada Sentença mantida Recurso do autor conhecido e desprovido, bem como desprovida a apelação da ré “
+    No recurso extraordinário, com fundamento no art. 102, III, a, da Constituição da República, aponta-se ofensa ao artigo 114, I, da Constituição Federal. Sustenta-se que a competência para análise da demanda é da justiça do trabalho, por força da relação de trabalho subjacente à contratação do plano de saúde.
+    A Presidência da Seção de Direito Privado do TJSP inadmitiu o recurso por entender necessário o revolvimento de legislação infraconstitucional para “perquirir a ocorrência de contrariedade à legislação constitucional” (eDOC-8, p. 34).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Sem embargo do teor, manifestado nestes autos, a respeito, abstratamente, da previsão constitucional da competência da Justiça do Trabalho para causas decorrentes da relação de trabalho (art. 114, I, da Constituição Federal), constata-se que, no caso concreto, o Recorrente fundamenta o apelo extremo em argumentos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em norma infraconstitucional (arts. 30 e 31, da Lei 9.656/1998), o que não é cabível em sede de recurso extraordinário, por demandar o revolvimento de legislação infraconstitucional e o reexame de fatos e provas.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 16 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
