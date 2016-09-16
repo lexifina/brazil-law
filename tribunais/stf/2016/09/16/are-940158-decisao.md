@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Terceira Turma Recursal do Estado da Bahia, cuja ementa transcrevo (eDOC-2, p. 1):
+    "PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. OPOSIÇÃO. PEDIDO DE GRATUIDADE DE JUSTIÇA APÓS DETERMINAÇÃO DE DEPÓSITO DE HONORÁRIOS PERICIAIS. POSSIBILIDADE. RETROATIVIDADE. IMPOSSIBILIDADE. 1. De acordo com o Artigo 40 da Lei 1.060/50, a simples declaração de pobreza feita pelo requerente é suficiente para o deferimento dos benefícios da justiça gratuita. 2. Embora admissível a concessão da gratuidade da justiça a qualquer tempo e grau de jurisdição, seus efeitos ocorrem apenas a partir de seu deferimento, não retroagindo para afastar o ônus quanto ao depósito de honorários periciais anteriormente fixados pelo juízo. 3. Recurso parcialmente provido."
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, aduz-se ofensa ao artigo 5º, XXXV, LIV, LV e LXXIV, da Constituição da República, por afronta ao princípios do devido processo legal, da ampla defesa, do contraditório e da obrigatoriedade de assistência jurídica integral e gratuita a ser prestada pelo Estado.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Ao julgar o AI-RG 759.421, de relatoria do Ministro Cezar Peluso, DJe de 13.11.2009, esta Corte decidiu pela inexistência de repercussão geral do Tema 188, que, tendo por objeto questão relativa à obtenção de gratuidade de justiça, versa sobre matéria infraconstitucional, como é o caso dos autos.
+    Ademais, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJ e de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do deido processo legal, da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Ante o exposto, em vista do pronunciamento do Supremo Tribunal Federal acerca do tema suscitado neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 16 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
