@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA INTERPRETAÇÃO DE NORMAS LEGAIS INVIABILIDADE NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 5ª Região confirmou o entendimento do Juízo quanto à natureza geral da gratificação de atividade técnico operacional em tecnologia militar – GDATEM. No extraordinário, o recorrente alega a violação dos artigos 2º, 5º, incisos XXXV, LIV e LV, 61, § 1º, inciso II, alínea “a”, 40, § 3º, § 7º e § 8º, e 97, da Constituição Federal. Sustenta o caráter pessoal e particularizado da rubrica, decorrendo o respectivo pagamento de critérios objetivos. Discorre sobre a restrição da parcela aos servidores ativos.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    ADMINISTRATIVO E CONSTITUCIONAL. GDATEM. CARÁTER ESPECÍFICO E NÃO GERAL. EXTENSÃO AOS INATIVOS APENAS ENQUANTO NÃO EDITADO REGULAMENTO DEFININDO OS CRITÉRIOS DAS AVALIAÇÕES DE DESEMPENHO INSTITUCIONAL E COLETIVO. HONORARIOS ADVOCATICOS. CAUSA SINGELA. REDUÇÃO.
+    I - Os artigos 40, §8°, da Constituição, na redação ofertada pela EC 20/98, bem assim o art. 7° da EC 41/2003, 'ao garantir equivalência de vencimentos entre servidores ativos e aposentados, é de aplicação nas hipóteses de gratificações de produtividade de caráter genérico. Precedentes do Supremo Tribunal Federal.
+    II - Conforme previsto no art. 7°-A, I e II, da Lei 9.657/1998, acrescido com a conversão da Medida Provisória n° 301/2006 na Lei nº 11.355/2006, a Gratificação de Desempenho de Atividade Tecnologia Militar - GDATEM, terá o montante do seu pagamento a depender de pontuação individual do servidor, cuja fixação decorre de avaliações de desempenho institucional e coletivo, razão pela qual evidenciada sua I)ature~a específica.
+    III - Contudo, na hipótese" de cunho transitório, do art. 7°-A, §4°, do mencionado diploma legal, assume a vantagem caráter geral; porquanto, até a data de 31 de dezembro de 2008, até a edição do regulamento a que se reporta o art. 7°-A, §§6° e 7° do referido diploma e até que sejam processados os resultados da primeira avaliação de desempenho, será paga sem nenhuma distinção relacionada com a produtividade dos servidores em atividade, no ' montante de 75 pontos.
+    IV – Em face da singeleza da questão e da norma do § 4° do artigo 20 do CPC, a verba honorária deve ser reduzida ao percentual de 5% (cinco por cento) do valor da condenação.
+    V - Apelação parcialmente provida, apenas para reduzir a verba honorária advocatícia para 5% (cinco por cento) do valor da condenação.
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    No mais, a decisão proferida quanto à Gratificação de Desempenho de Atividade de Tecnologia Militar GDATEM está em consonância com o verbete vinculante nº 20 da Súmula do Supremo.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 16 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
