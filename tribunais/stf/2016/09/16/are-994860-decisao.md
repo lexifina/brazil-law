@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “MANDADO DE SEGURANÇA - Concurso Público. Candidato impedido de realizar prova de aptidão física. Inadmissibilidade. Formalidade excessiva da Comissão Realizadora do Concurso viola o princípio da razoabilidade. Presente direito líquido e certo do candidato, que observou os requisitos exigidos no edital. Ilegalidade da eliminação. Sentença reformada. Recurso provido”.
+    No recurso extraordinário, sustenta-se violação dos artigos 2º e 37, caput, da Constituição Federal.
+    Decido.
+    No que se refere ao artigo 2º da Constituição, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “Agravo regimental em agravo de instrumento. 2. Prequestionamento. Ausência. Embargos de declaração que não trataram da matéria constitucional. Súmulas 282 e 356 do STF. 3. Ofensa aos princípios da legalidade e da prestação jurisdicional. Análise da legislação infraconstitucional. Precedente. 4. Revisão de cláusula contratual. Ofensa reflexa. Precedente. 5. Agravo regimental a que se nega provimento” (AI nº 551.533/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 3/3/06).
+    Ademais, para divergir da orientação firmada no acórdão recorrido seria necessário o reexame do conjunto fático-probatório carreado aos autos e das cláusulas do edital que rege o certame, o que é incabível na via extraordinária. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL MILITAR. EXAME DE SAÚDE. INAPTIDÃO DO CANDIDATO. ILEGALIDADE DO ATO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS DE EDITAL: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE nº 843.888/MG-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 3/8/15).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXIGÊNCIA DE DOCUMENTAÇÃO. PRAZO PARA ENTREGA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS DE EDITAL. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos e de cláusulas do edital de concurso. Incidência das Súmulas 279 e 454 do STF. Precedentes. II - Agravo regimental improvido” (ARE 701.244/RJ-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, Dje de 02/10/2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. REPROVAÇÃO EM EXAME MÉDICO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. POSSIBILIDADE DE EXIGÊNCIA DE EXAME MÉDICO QUANDO PREVISTO EM LEI E COM A ADOÇÃO DE CRITÉRIOS OBJETIVOS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE nº 593.873 AgR/MG, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 20/11/09).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 16 de setembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
