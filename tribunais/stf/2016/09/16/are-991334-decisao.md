@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à procedência do pedido de indenização por danos morais, ante à falta des levantamento da negativação do nome da autora. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, incisos II, XXXV, LIV e LV, e 37, da Constituição Federal. Discorre sobre a inexistência de prejuízo indenizável. Requer a redução dos valores fixados a título de reparação e de honorários advocatícios.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença confirmada pelo Colegiado os seguintes trechos:
+    Realmente houve inclusão no cadastro de proteção ao crédito por força de dívida existente, que posteriormente foi paga; porém, não foi excluída a inscrição, que se manteve ativa de modo indevido.
+    A pendência foi paga no dia 30.09.2015 (pág. 19). e não se vê nenhum erro que impedisse o reconhecimento do pagamento, mas a anotação ainda existia ao menos até 20.10.2015 (pág. 16). Ou seja, depois de vinte dias a inscrição ainda estava pendente.
+    […]
+    A indenização por dano moral não tem critérios tarifados estabelecidos pela lei, mas já há parâmetros bem delineados pela jurisprudência, de modo a atender aos parâmetros do art. 944 do Código Civil. Não pode se transformar em fonte de rendimentos sem motivo, mas deve servir para recompor a lesão e ao mesmo tempo para inibir condutas tendentes a causar danos.
+    O juízo adota, via de regra, o patamar de R$8.000,00 para os casos de apontamento indevido. Mas nestas circunstâncias - inicialmente a parte era mesmo inadimplente e causou a inscrição, e só depois pagou - é razoável baixar a indenização à metade. A situação é diferente daquela na qual não havia dívida e a pessoa injustamente foi atingida.
+    Ora, as razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o ato impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, o Supremo, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, assentando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema relativo à suposta violação dos princípios do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucional. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    4. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia da parte agravada em apresentar contraminuta ao agravo.
+    5. Publiquem.
+Brasília, 16 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
