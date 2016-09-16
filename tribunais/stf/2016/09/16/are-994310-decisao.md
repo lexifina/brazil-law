@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à procedência do pedido de diferenças salariais, decorrentes de revisão de benefício previdenciário. No extraordinário, cujo trânsito busca alcançar, o recorrente alega violação dos artigos 2º, 5º, cabeça, incisos XXXV, XXXVI e LIV, 6º, 24, inciso II, 127, 129 ,163, 164, 165, 166, 167, 169, 201 e 202 da Constituição Federal e da Lei Complementar nº 75/1993. Agúi preliminar de litispendência, considerado acordo realizado no âmbito de ação civil pública.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão impugnada o seguinte trecho:
+    Inicialmente, anoto que inexiste carência de ação, por falta de interesse de agir, tento em vista que a existência de ação civil pública (ACP) não retira dos particulares o interesse de ajuizar ações individuais, sob pena de afronta ao princípio do acesso amplo à Justiça. Indefiro, portanto, tal preliminar.
+    Quanto à questão do art. 29, II, da Lei n. 8.213/91, com a redação dada pela Lei n. 9.876/99, tenho que o INSS procedeu indevidamente na concessão do benefício previdenciário vindicado, na medida em que utilizava norma infralegal do Decreto n. 3.048/99 dissonante com a Lei que deveria regulamentar. Em consequência disso, todos os benefícios previdenciários cujos salários-de-benefícios foram calculados nos termos dos revogados art. 32, §2º, e art. 188-A, §4º, ambos do Decreto nº 3.048/99, devem ser revisados para que seja adotada a sistemática de cálculo prevista no art. 29, II, da Lei nº 8.213/91.
+    No caso em análise, o direito do autor já foi reconhecido, tanto que já realizada a revisão do seu benefício na esfera administrativa, cabendo apenas o pagamento dos valores atrasados nos moldes estabelecidos na sentença de mérito.
+    [...]
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, os argumentos expendidos no recurso não foram enfrentados pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula deste Tribunal .
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 738109, da relatoria do ministro TeoriZavascki, assentando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema alusivo à suspensão de ação individual em virtude da existência de ação civil pública a revelar a mesma finalidade.
+    De resto, o Supremo, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à suposta violação ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 16 de setembro de 2016.
+Ministro MARCOAURÉLIO
+Relator
