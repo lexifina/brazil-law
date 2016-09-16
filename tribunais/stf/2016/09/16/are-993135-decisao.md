@@ -1,0 +1,33 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado:
+    “MANDADO DE SEGURANÇA. ATO OMISSO E ILEGAL DO EXCELENTÍSSIOMO GOVERNADOR DO ESTADO DA BAHIA.
+    CONCURSO PÚBLICO. CARGO DE AGENTE DE POLÍCIA. QUADRO DE PESSOAL DA SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DA BAHIA. EDITAL Nº SAEB/001-97.
+    PARECER DA DOUTA PROCURADORIA DE JUSTIÇA PELA DENEGAÇÃO DA SEGURANÇA.
+    PRELIMINAR REJEITADA À UNANIMIDADE. SÚMULA DE JULGAMENTO À FL. 551.
+    MÉRITO
+    IMPETRANTES APROVADOS EM TODAS AS ETAPAS DO CONCURSO, INCLUSIVE NO CURSO DE FORMAÇÃO TÉCNICO-PROFISSIONAL.
+    NOMEAÇÃO DE CANDIDATOS ANTES DA FINALIZAÇÃO DO CONCURSO. DIREITO LÍQUIDO E CERTO À NOMEAÇÃO E POSSE.
+    REJEITA-SE A QUESTÃO PRELIMINAR, À UNANIMIDADE, E CONCEDE-SE INTEGRALMENTE A SEGURANÇA, POR DECISÃO DE MAIORIA, PARA A IMEDIATA NOMEAÇÃO NO CARGO DE AGENTE DA POLÍCIA CIVIL DO ESTADO DA BAHIA, PARA A REGIÃO DE SALVADOR, DOS IMPETRANTES VALTER SILVA DO NASCIMENTO, HELDER ARAÚJO TOURINHO, LINALDO ROSA SILVA, HUXLEI CASTRO ALVES, JOSÉ NONATO DE SOUZA NETO E RICARDO TORRES DOS SANTOS.”
+     O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV; 25; 37, caput; II; 84, II; e 93, IX, da Constituição.
+    A decisão agravada negou seguimento recurso pelos seguintes fundamentos: (i) incidem, no caso, as Súmulas 279, 282, 284, e 356/STF; e (ii) não houve violação ao art. 93, IX, da Constituição.
+    O recurso não pode ser provido. Quanto à alegação de ofensa aos arts. 5º, XXXV, e 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, confira-se:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes)
+    Ademais, aplica-se a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Quanto às demais alegações, anoto que o Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da matéria no RE 598.099-RG, julgado sob a relatoria do Ministro Gilmar Mendes, entendeu que, em regra, apenas o candidato aprovado dentre as vagas previstas no edital de concurso público tem direito líquido e certo à nomeação. Por outro lado, o exercício precário, por meio de provimento de cargo em comissão ou celebração de contrato de terceirização, de atribuições próprias do servidor de cargo efetivo para o qual há vagas e concurso público vigente configuraria preterição dos candidatos aprovados, ainda que em número excedente às vagas inicialmente previstas no edital. Caso comprovado que o número de contratações precárias alcançou a posição ocupada pelo candidato quando da aprovação no respectivo certame, ficaria caracterizada a preterição e garantido o direito subjetivo à nomeação.
+    No caso destes autos, a instância judicante de origem assentou que:
+    “[...]
+    Conforme noticiado pela autoridade impetrada, a classificação final dos impetrantes, após aprovação em todas as etapas do certame, inclusive no curso de formação profissional, somente ocorreu nos anos de 2007 e 2009 (fls. 321/322).
+    Logo, a preterição na ordem de classificação está devidamente demonstrada, posto que foram realizadas, em 07.05.1998, nomeações para todas as 189 (cento e oitenta e nove) vagas disponibilizadas no edital, muito antes da convocação dos impetrantes para etapas intermediárias do certame.
+    Em resumo, a preterição está caracterizada, porque todas as vagas disponibilizadas no edital foram preenchidas, antes mesmo que os impetrantes tivessem obtido nota e classificação finais.
+    […].”
+    Desse modo, dissentir dessa conclusão demandaria uma nova análise dos fatos e do material probatório constante dos autos, o que atrai a incidência da Súmula 279/STF, in verbis:
+    “Para simples reexame de prova não cabe recurso extraordinário”.
+    Nesse mesmo sentido, veja-se o seguinte julgado relacionado à questão pra debatida:
+    “DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. PRETERIÇÃO NÃO CONFIGURADA. ANÁLISE DA OCORRÊNCIA DE EVENTUAL AFRONTA AOS PRECEITOS CONSTITUCIONAIS INVOCADOS NO APELO EXTREMO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE NO ACÓRDÃO REGIONAL. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 06.3.2012. O exame da alegada ofensa à Constituição Federal, dependeria de prévia análise de norma infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao reexame da moldura fática constante no acórdão regional, a inviabilizar o trânsito do recurso extraordinário. Precedentes. Agravo regimental conhecido e não provido.” (ARE 705.459-AgR, Rel.ª Min.ª Rosa Weber).
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 16 de setembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
