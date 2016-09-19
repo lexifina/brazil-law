@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 2ª Região, ementado nos seguintes termos:
+    “APELAÇÃO. ADMINISTRATIVO. MILITAR. PROMOÇÃO À CAPITÃO. PRESCRIÇÃO. TERCEIRO-SARGENTO DA AERONÁUTICA (QSS) INTERSTÍCIO MÍNIMO. ART. 24 DO DECRETO Nº 68.951/71. ISONOMIA. SARGENTOS DO QUADRO COMPLEMENTAR (QC). DESCABIMENTO.” (eDOC. VOL.1, p. 129)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “d”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXV, XXXVI, II e 37, II, do texto constitucional. (eDOC. VOL. 2, p. 26 - 53)
+    Nas razões recursais, alega-se que:
+    “Assim, sendo, houve ofensa aos princípios basilares da CF/88, uma vez que não fora respeitada a igualdade entre os pares, além de não ter sido realizado concurso público para preenchimento dos cargos, preferindo-se infringir as normas constitucionais.” (eDOC. VOL 2, p. 50)
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Decreto 68.951/1971) e o conjunto probatório constante dos autos, consignou que não há situação de igualdade entre os militares indicados (Sargentos Músicos, dos Sargentos do Quadro Complementar e dos Taifeiros) e ainda, que o interstício de mínimo de 2 anos é apenas um dos requisitos para a promoção.
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O artigo 24 do Decreto nº 68.951/71 fixou apenas um interstício mínimo de 2 (dois) anos de permanência obrigatória em cada graduação e não um direito à promoção de 2 anos em 2 anos, com pretende o apelante. Além disso, trata-se apenas de mais um dos requisitos indispensáveis ao acesso à graduação superior. (…) Noutro aspecto, sustenta o apelante que o princípio constitucional da isonomia foi desrespeitado quando ocorreu a promoção dos Sargentos Músicos, dos Sargentos do Quadro Complementar e dos Taifeiros, na forma pretendida. Ocorre que tal entendimento é equivocado, visto que não foi dado tratamento diferenciado a militares que se encontravam em situação de igualdade. Isto porque o apelante, muito embora integre a Força Aérea Brasileira, pertence a quadro distinto (QSS), com diversidade de habilitação profissional e de tratamento normativo. Não pertence ao extinto Quadro Complementar (QC), não é músico e muito menos Taifeiro” (Vol. 1, fl. 123)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incide no caso a Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “MILITAR, Promoção, Especificidade do quadro de taifeiro. Isonomia. Lei nº 3.953/61. Ofensa reflexa à CF. Reexame de provas (Súmula 279). Regimental não provido.”(RE-AgR 314.195, Rel. Min. Nelson Jobim, Segunda Turma, DJe 21.02.2003)
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CRITÉRIOS DE PROMOÇÃO DE MILITARES DOS SEXOS MASCULINO E FEMININO DOS QUADROS DA AERONÁUTICA. LEIS NS. 6.880/80 E 6.924/81. PRINCÍPIO DA ISONOMIA. NÃO VIOLAÇÃO. PORTARIA MINISTERIAL. LEGISLAÇÃO INFRACONSTITUCIONAL. 1. Controvérsia relativa aos critérios de promoção de militares dos sexos masculino e feminino pertencentes aos quadros da Aeronáutica, disciplinados pelas Leis ns. 6.880/80 e 6.924/81. Não violação do princípio constitucional da isonomia. 2. Questão decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento” (RE-AgR nº 440.725, Rel. Min. Eros Grau Segunda Turma, DJ de 07.12.2007).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de setembro de 2016.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
