@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina. Veja-se o seguinte trecho de ementa:
+    “ADMINISTRATIVO – PROFESSORES – READAPTAÇÃO – PRÊMIO EDUCAR – LEI N. 14.406/2008 – VIOLAÇÃO A DIREITO LÍQUIDO E CERTO.
+    O ‘Prêmio Educar’ é vantagem que tem como escopo principal melhor remunerar os integrantes dos quadros do magistério estadual, com especial incentivo àqueles que efetivamente ministram aulas. A sua extensão aos professores que somente não estão em sala de aula por questões alheias a sua vontade ou no gozo de direitos garantidos em lei é medida de justiça que se afina com o espírito da norma e, no caso de licença para tratamento de saúde e readaptação, atende a regra geral inscrita no art. 110 do Estatuto do Magistério – Lei n. 6.844/86.”
+    O recurso extraordinário busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação ao art. 97 da Constituição, bem como à Súmula Vinculante 10. Sustenta que “a decisão não se funda em interpretação da legislação de regência. Simplesmente – e embora admita que seu comando é contrário à pretensão – recusa-se a aplicá-la. Mais: assim o faz o decisum sem declarar qualquer inconstitucionalidade, ou seja, sem fundar o veredito na tese da norma legal que especificamente rege a matéria”.
+    O recurso extraordinário deve ser provido. O acórdão recorrido, ao reconhecer a procedência do pedido da recorrida, consistente no pagamento do benefício remuneratório denominado “Prêmio Educar” durante o período em que estava licenciada para tratamento de saúde, afastou expressamente o previsto no art. 5º da Lei estadual nº 14.406/2008.
+    A decisão do Tribunal de origem contraria o disposto na Súmula Vinculante 10, uma vez que “viola a cláusula de reserva de plenário (art. 97 da Constituição da República) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência no todo ou em parte”.
+    Nesse sentido, e sobre a mesma controvérsia, vejam-se os seguintes precedentes: RE 814.301, Rel.ª Min.ª Cármen Lúcia; RE 632.518, Rel. Min. Dias Toffoli; e RE 613.767-AgR, Rel. Min. Ricardo Lewandoeski. Este último assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROFESSOR. GRATIFICAÇÃO. PRÊMIO EDUCAR. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. SÚMULA VINCULANTE 10 DO STF.
+    I - Viola o art. 97 da Constituição a decisão de órgão fracionário de tribunal que, sem declarar expressamente a inconstitucionalidade de dispositivo de lei, afasta a sua incidência por suposta ofensa a princípios constitucionais. Precedentes.
+    II - Agravo regimental improvido.”
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário para cassar o acórdão recorrido e determinar o retorno nos autos à origem, para que o Tribunal de Justiça do Estado de Santa Catarina profira outra decisão, em conformidade com o art. 97 da Constituição Federal.
+    Publique-se.
+          Brasília, 19 de setembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
