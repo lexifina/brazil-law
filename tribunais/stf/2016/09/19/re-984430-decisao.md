@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “DIREITO PROCESSUAL CIVIL. TRIBUT ÁRIO E CONSTITUCIONAL. AGRAVO INOMINADO. ART. 557, CPC. IMPOSTO DE RENDA PESSOA FÍSICA. LIMITES À DEDUÇÃO DAS DESPESAS COM INSTRUÇÃO. ARGUIÇÃO DE INCONSTITUCIONALIDADE. ART. 8°, 11, 'b' da LEI 9.250/95. DIREITO FUNDAMENTAL À EDUCAÇÃO. ART. 176, § ÚNICO DO REGIMENTO INTERNO DO TRF 3a REGIÃO. DEDUÇÃO INTEGRAL. POSSIBILIDADE. RECURSO DESPROVIDO.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição da República, aponta-se violação ao art. 153, III, do Texto Constitucional.
+    Nas razões recursais, alega-se a necessidade de observância dos limites à dedução de valores atinentes a gastos com educação no cálculo do imposto de renda pessoa física.
+    A Vice-Presidência do TRF da 3ª Região admitiu o recurso extraordinário, por reputar presentes todos os requisitos de admissibilidade.
+    É o relatório.
+    De plano, verifica-se que o acórdão recorrido divergiu da jurisprudência pacífica do Supremo Tribunal Federal, segundo a qual não pode o Poder Judiciário estabelecer isenções tributárias, redução de impostos ou deduções não previstas em lei, ante a impossibilidade de atuar como legislador positivo.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas desta Corte:
+    “Agravo regimental no agravo de instrumento. IRPF. Lei nº 9.250/95. Limitações à dedução com despesas para educação. Ofensa reflexa. Impossibilidade de atuação do judiciário como legislador positivo. Precedentes desta Corte. 1. A discussão relativa à limitação da dedução, na declaração de ajuste anual do imposto de renda, dos valores pagos a título de educação, na forma da Lei nº 9.250/95, insere-se no âmbito infraconstitucional, sendo certo, ainda, que eventual ofensa à Constituição, caso ocorresse, dar-se-ia de forma reflexa ou indireta. Precedentes desta Corte. 2. Impossibilidade do Poder Judiciário atuar como legislador positivo para estabelecer isenções, reduções de tributos e deduções de despesas da base de cálculo. Tais hipóteses são sempre dependentes de lei que as preveja. 3. As alegações deduzidas no agravo são insuficientes para infirmar a fundamentação que ampara a decisão agravada, a qual se encontra em sintonia com a orientação jurisprudencial deste Supremo Tribunal Federal. 4. Agravo regimental não provido.”
+(AI 724817 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 09.03.2012)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA. LIMITES IMPOSTOS À DEDUÇÃO COM EDUCAÇÃO. IMPOSSIBILIDADE DE ATUAR O PODER JUDICIÁRIO COMO LEGISLADOR POSITIVO. PRECEDENTES. JULGADO RECORRIDO FUNDADO EM NORMA INFRACONSTITUCIONAL – LEI N. 9.250/1995. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 603060 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 3.03.2011)
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA PESSOA FÍSICA. LEGISLAÇÃO QUE ESTABELECE LIMITES À DEDUÇÃO DE GASTOS COM EDUCAÇÃO. CONSTITUCIONALIDADE. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO ATUAR COMO LEGISLADOR POSITIVO. PRECEDENTES. 1. A jurisprudência do STF é no sentido de que não pode o Poder Judiciário estabelecer isenções tributárias, redução de impostos ou deduções não previstas em lei, ante a impossibilidade de atuar como legislador positivo. 2. Assim, não é possível ampliar os limites estabelecidos em lei para a dedução, da base de cálculo do IRPF, de gastos com educação (AI 724.817-AgR, rel. Min. Dias Toffoli, Primeira Turma, DJe de 09-03-2012; e RE 603.060-AgR, rel. Min. Cármen Lúcia, Primeira Turma, DJe de 03-03-2011). 3. Agravo regimental a que se nega provimento.”
+(RE 606179 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 0406.2013)
+    Ante o exposto, conheço do recurso extraordinário a que se dá provimento, nos termos do art. 21, §2º, do RISTF, para fins de denegar a ordem mandamental e restaurar o decidido na sentença.
+    Condeno a parte Recorrida a ressarcir as despesas processuais.
+    Fica a parte vencida exonerada do pagamento de honorários advocatícios, nos termos da Súmula 512 do STF.
+    Publique-se.
+    Brasília, 19 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
