@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sétima Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Ação Cominatória c. c. Indenizatória – Reforma em apartamento que altera área comum do condomínio – A ausência de prejuízo aos outros condôminos, o fato de somente servir de entrada a um apartamento, e a melhora estética são elementos a autorizar a manutenção das alterações realizadas – Recurso desprovido.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação do artigo 5º, caput e inciso XXII, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    O acórdão recorrido manteve a sentença de primeiro grau que julgou improcedentes os pedidos formulados pelo autor, ora recorrente, amparado no conjunto fático-probatório constante dos autos. Colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    “É verdade que o hall situado entre o elevador e a porta de entrada de um apartamento é área de uso comum do condomínio.
+    Todavia, existem particularidades a serem consideradas no caso concreto, como o fato de o apartamento do Apelado estar situado no último pavimento do prédio, e de que o hall somente serve como entrada ao seu apartamento, não dando acesso a nenhum outro. Ou seja, como bem reconhecido pelo Juízo a quo, referida área é quase que reservada.
+    Também há de ser ressaltado que a metragem ocupada após a reforma refere-se a uma área pequena, de aproximadamente 1,00 m², tendo permanecido o total de 5,21 m² de hall, área razoável e suficiente à utilização que se pode esperar deste espaço.
+    Por outro lado, o cotejo dos elementos dos autos não revela qualquer transtorno concreto aos outros condôminos, e o Apelante, por sua vez, também não logrou demonstrá-lo.
+    Ainda que não fosse, se um dos pontos a justificar o reconhecimento de danos morais teriam sido os inconvenientes causados pela reforma, o pedido de desfazimento da obra, além de desproporcional, mostrou-se incongruente com a vontade do próprio Apelante, que poderia buscar solução mais sensata na resolução do impasse.
+    No mais, a colocação de piso de qualidade reconhecidamente superior também não gerou qualquer depreciação. Ao revés, basta comparar as fotos de um hall original com as do reformado para verificar que houve, em verdade, um ganho estético (fls. 264/267 e 282/292).
+    Por sua vez, a alteração do local da porta de entrada também não representa qualquer inconveniente, pois o laudo é claro ao afirmar que a atual posição não causa prejuízo funcional ou estético ao restante do edifício, tampouco atrapalha a circulação de coisas e pessoas (fls. 239/240).
+    No que se refere à troca do material das paredes, o perito foi categórico ao dizer que o gesso ‘pode ser utilizado pois atende as necessidade de acústica, isolamento térmico e seu acabamento é o mesmo dos demais andares’ (fls. 238).”
+    Nesse caso, para acolher a pretensão recursal e ultrapassar o entendimento firmado pelas instâncias de origem seria imprescindível o reexame dos fatos e das provas dos autos, o que é vedado no âmbito do recurso extraordinário. Incidência da Súmula nº 279 desta Suprema Corte. Nesse sentido:
+    “DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE NUNCIAÇÃO DE OBRA NOVA. SERVIDÃO DE PASSAGEM. ALEGAÇÃO DE AFRONTA AOS ARTS. 5º, XXII E XXIII, 170, II E III, e 182 DA CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. AS RAZÕES DO AGRAVO REGIMENTAL NÃO SÃO APTAS A INFIRMAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. ACÓRDÃO RECORRIDO PUBLICADO EM 10.01.2008. O exame da alegada ofensa ao direito de propriedade, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Precedentes. Agravo regimental conhecido e não provido”. (AI n° 850.772/RJ-AgR-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe 5/6/13)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DEMOLIÇÃO DE IMÓVEL EM SITUAÇÃO IRREGULAR. PRÉVIA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE nº 868.838/DF-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 28/4/15).
+    “Agravo regimental no recurso extraordinário com agravo. Negativa de prestação jurisdicional. Não ocorrência. Administrativo. Construção em área pública. Legislação local. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada. 2. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 280 e 279/STF. 3. Agravo regimental não provido” (ARE nº 718.301/DF-AgR, Primeira Turma, de minha relatoria, DJe de 1/8/14).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 19 de setembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
