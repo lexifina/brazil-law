@@ -1,0 +1,25 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Ribeirão Golf Empreendimentos Imobiliários Spe Ltda. contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Venda e compra – Atraso na entrega da obra – Cláusula de tolerância – Nulidade – Mora que acarretou prejuízo ao autor – Condenação da ré ao pagamento de juros compensatórios e de multa moratória – Adequação – Equidade contratual – Cumulação dos juros compensatórios com lucros cessantes – Inadmissibilidade – Valores referentes à assessoria imobiliária, ‘sati’ e premiação que devem ser suportados pela ré. Recurso da ré não provido, provido em parte o do autor.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 5º, II e XXXVI, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368 – RTJ 131/1391 – RTJ 144/300 – RTJ 153/989), incidem as Súmulas 282 e 356 desta Corte (RTJ 159/977).
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    A configuração jurídica do prequestionamento – que traduz elemento indispensável ao conhecimento do recurso extraordinário – decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 – RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+    De outro lado, e mesmo que a suposta ofensa à Constituição houvesse surgido, originariamente, na instância recursal, derivando do próprio acórdão recorrido, ainda assim seria imprescindível que, mediante embargos declaratórios, o tema constitucional fosse arguido pela parte recorrente, para que se ensejasse, ao Tribunal “a quo”, a possibilidade de examiná-lo expressamente, observando-se, desse modo, a jurisprudência firmada pelo Supremo Tribunal Federal:
+    “Prequestionamento.
+    Quando é o acórdão recorrido que teria ofendido implicitamente o texto constitucional, o prequestionamento se faz mediante a interposição de embargos declaratórios, para que se supra a omissão quanto à questão constitucional por ele não enfrentada.
+    Agravo regimental a que se nega provimento.”
+    (RTJ 123/383, Rel. Min. MOREIRA ALVES)
+    “RECURSO EXTRAORDINÁRIO. TEMA CONSTITUCIONAL, NÃO PREQUESTIONADO (SÚMULAS 282 E 356).
+    Se a afronta à lei surge no próprio julgamento, é essencial que o tema seja ventilado através de embargos de declaração, pois o prequestionamento é uma das condições de admissibilidade do extraordinário.
+    Agravo regimental a que se nega provimento.”
+    (AI 124.036-AgR/RS, Rel. Min. FRANCISCO REZEK)
+    Cumpre registrar, por relevante, que a parte ora recorrente deixou de assim proceder, inviabilizando, desse modo, por ausência de prequestionamento explícito da matéria constitucional, a possibilidade jurídico-processual de ver apreciado seu recurso extraordinário.
+    De qualquer maneira, no entanto, e mesmo que se pudesse superar tal óbice, ainda assim não se revelaria acolhível o apelo extremo a que se refere o presente agravo.
+    É que o Supremo Tribunal Federal tem enfatizado, a propósito da questão pertinente à transgressão constitucional indireta, que, em regra, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, hipóteses em que não se revelará admissível o recurso extraordinário (AI 165.054/SP, Rel. Min. CELSO DE MELLO – AI 174.473/MG, Rel. Min. CELSO DE MELLO – AI 182.811/SP, Rel. Min. CELSO DE MELLO – AI 188.762-AgR/PR, Rel. Min. SYDNEY SANCHES – RE 236.333/DF, Red. p/ o acórdão Min. NELSON JOBIM, v.g.).
+    É por essa razão que a situação de ofensa indireta ao texto constitucional, quando ocorrente, não bastará, só por si, para viabilizar o acesso à via recursal extraordinária.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Cumpre referir, finalmente, que não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 19 de setembro de 2016.
+Ministro CELSO DE MELLO
+Relator
