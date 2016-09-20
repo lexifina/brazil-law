@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - LEGISLAÇÃO LOCAL - FALTA DE PREQUESTIONAMENTO - INVIABILIDADE - AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à regulamentação da promoção de servidor estadual por meio do Decreto estadual nº 3.739/2008. No extraordinário cujo trânsito busca alcançar, o recorrente afirma violado o artigo 37. Diz afrontado os princípios da legalidade e da hierarquia das leis.
+    2. Eis a síntese do acórdão recorrido:
+    RECURSO INOMINADO. DECLARATÓRIA. SERVIDOR PÚBLICO ESTADUAL. EDUCADOR SOCIAL. PROMOÇÃO POR MERECIMENTO. LEI ESTADUAL 13.666/2002 REGULAMENTADA PELO DECRETO ESTADUAL 3.739/2008. REQUISITO TEMPORAL NÃO CUMPRIDO. DEZ ANOS DE EFETIVO EXERCÍCIO NA CARREIRA. PEDIDO INICIAL JULGADO IMPROCEDENTE. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+    1. Conforme estabelece o parágrafo único do artigo 10 da Lei Estadual 13.666/2002, “Ato do Chefe do Poder Executivo estabelecerá os critérios e a competência para a concessão de promoção”, portanto, o próprio dispositivo legal contém previsão de que os critérios para promoção serão estabelecidos em decreto. Deste modo, o Decreto Estadual 3.739/2008 fixou critérios para a promoção do servidor ocupante do cargo de agente de execução, conforme previsão expressa da Lei 13.666/2002, de modo que não há que se falar em extrapolação ao poder regulamentador, tampouco em eventual inconstitucionalidade.
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, haver o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação da Lei Estadual nº 13.666/2002 e do Decreto Estadual nº 3.739/2008. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    Acresce que o sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    No mais, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Considerada a protocolação deste agravo interno sob a regência do Código de Processo Civil de 2015, fixo os honorários recursais no patamar de 5% do valor da causa, nos termos do artigo 85, § 11, do citado diploma legal.
+    4. Publiquem.
+Brasília, 20 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
