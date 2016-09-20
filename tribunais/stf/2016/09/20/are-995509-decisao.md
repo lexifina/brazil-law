@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Tribunal de Justiça que deu provimento parcial ao recurso de agravo de instrumento, apenas, para determinar a incidência dos juros moratórios a partir da citação do Recorrente na habilitação para o cumprimento de sentença, mantendo-se, no mais, rejeição à impugnação ao cumprimento de sentença proferida em ação civil pública ajuizada pelo Instituto Brasileiro de Defesa do Consumidor (IDEC), relativa aos expurgos inflacionários decorrentes do Plano Verão.
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, alega-se ofensa aos artigos 5º, II, XXI, LIV e LV, e 92, § 2º, da Constituição Federal. Aduz-se, em suma, a limitação territorial da sentença proferida na ação civil pública e a ilegitimidade ativa do Recorrido.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    No que tange à discussão sobre os limites territoriais da eficácia de sentença transitada em julgado proferida em ação civil pública, ressalto que o Tribunal, no exame do ARE-RG 796.473, de relatoria do Ministro Gilmar Mendes, Dje de 21.10.2014 (Tema 715), reputou ausente a repercussão geral, por se tratar de questão que se resolve no âmbito da interpretação de normas infraconstitucionais.
+    Verifica-se, também, que no exame do ARE-RG 901.963, de relatoria do Ministro Teori Zavascki, DJe de 16.09.2015 (Tema 848), o Plenário desta Corte concluiu que, por se tratar de matéria infraconstitucional, não possui repercussão geral a questão relativa aos limites subjetivos de sentença condenatória genérica transitada em julgado proferida em ação civil pública ajuizada por associação, seja porque necessária a análise dos limites da coisa julgada, seja por demandar o exame de disposições da Lei 7.347/1985 e do Código de Defesa do Consumidor.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 20 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
