@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de recurso extraordinário interposto pela União contra acórdão proferido pelo Sexta Turma Recursal do Juizado Especial Federal da 3ª Região, no qual sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o apelo extremo em questão revela-se acolhível.
+    É que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 566.621/RS, Rel. Min. ELLEN GRACIE, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “DIREITO TRIBUTÁRIO – LEI INTERPRETATIVA – APLICAÇÃO RETROATIVA DA LEI COMPLEMENTAR Nº 118/2005 – DESCABIMENTO – VIOLAÇÃO À SEGURANÇA JURÍDICA – NECESSIDADE DE OBSERVÂNCIA DA 'VACATIO LEGIS' – APLICAÇÃO DO PRAZO REDUZIDO PARA REPETIÇÃO OU COMPENSAÇÃO DE INDÉBITOS AOS PROCESSOS AJUIZADOS A PARTIR DE 9 DE JUNHO DE 2005.
+    Quando do advento da LC 118/05, estava consolidada a orientação da Primeira Seção do STJ no sentido de que, para os tributos sujeitos a lançamento por homologação, o prazo para repetição ou compensação de indébito era de 10 anos contados do seu fato gerador, tendo em conta a aplicação combinada dos arts. 150, § 4º, 156, VII, e 168, I, do CTN.
+    A LC 118/05, embora tenha se auto-proclamado interpretativa, implicou inovação normativa, tendo reduzido o prazo de 10 anos contados do fato gerador para 5 anos contados do pagamento indevido.
+    Lei supostamente interpretativa que, em verdade, inova no mundo jurídico deve ser considerada como lei nova.
+    Inocorrência de violação à autonomia e independência dos Poderes, porquanto a lei expressamente interpretativa também se submete, como qualquer outra, ao controle judicial quanto à sua natureza, validade e aplicação.
+    A aplicação retroativa de novo e reduzido prazo para a repetição ou compensação de indébito tributário estipulado por lei nova, fulminando, de imediato, pretensões deduzidas tempestivamente à luz do prazo então aplicável, bem como a aplicação imediata às pretensões pendentes de ajuizamento quando da publicação da lei, sem resguardo de nenhuma regra de transição, implicam ofensa ao princípio da segurança jurídica em seus conteúdos de proteção da confiança e de garantia do acesso à Justiça.
+    Afastando-se as aplicações inconstitucionais e resguardando-se, no mais, a eficácia da norma, permite-se a aplicação do prazo reduzido relativamente às ações ajuizadas após a 'vacatio legis', conforme entendimento consolidado por esta Corte no enunciado 445 da Súmula do Tribunal.
+    O prazo de 'vacatio legis' de 120 dias permitiu aos contribuintes não apenas que tomassem ciência do novo prazo, mas também que ajuizassem as ações necessárias à tutela dos seus direitos.
+    Inaplicabilidade do art. 2.028 do Código Civil, pois, não havendo lacuna na LC 118/05, que pretendeu a aplicação do novo prazo na maior extensão possível, descabida sua aplicação por analogia. Além disso, não se trata de lei geral, tampouco impede iniciativa legislativa em contrário.
+    Reconhecida a inconstitucionalidade do art. 4º, segunda parte, da LC 118/05, considerando-se válida a aplicação do novo prazo de 5 anos tão-somente às ações ajuizadas após o decurso da 'vacatio legis' de 120 dias, ou seja, a partir de 9 de junho de 2005.
+    Aplicação do art. 543-B, § 3º, do CPC aos recursos sobrestados.
+    Recurso extraordinário desprovido.”
+    Cabe ressaltar, por necessário, que essa orientação plenária reflete-se em sucessivos julgamentos, monocráticos e colegiados, proferidos no âmbito desta Corte (AI 707.213-AgR/AM, Rel. Min. LUIZ FUX – ARE 649.013/CE Rel. Min. RICARDO LEWANDOWSKI – ARE 698.843-AgR/SP, Rel. Min. CÁRMEN LÚCIA – RE 524.478-AgR/CE, Rel. Min. DIAS TOFFOLI – RE 603.370/CE, Rel. Min. RICARDO LEWANDOWSKI, v.g.), valendo referir, dentre eles, aquele que, proferido pela colenda Segunda Turma do Supremo Tribunal Federal, apreciou controvérsia idêntica à ora versada nesta causa:
+    “Agravo regimental no recurso extraordinário. Inconstitucionalidade do art. 4º da LC nº 118/05. Violação da cláusula de reserva de plenário. Afastamento. Prevalência, no caso, dos princípios da celeridade e da razoável duração do processo.
+    1. Em consonância com os princípios constitucionais da celeridade e da razoável duração do processo, não se justifica o retorno dos autos ao Tribunal de origem para que esse, ainda com maior delonga, se curve ao posicionamento já consagrado por este Supremo Tribunal Federal sobre o tema.
+    2. Ademais, tal proceder não acarreta prejuízo à recorrente, pois se vislumbra o julgamento final da demanda, recaindo na mesma conclusão de feito já julgado por esta Corte.
+    3. Existência de entendimento pacífico deste Supremo Tribunal Federal sobre o tema, pois, na sessão de 4 de agosto de 2011, o Plenário, ao apreciar o mérito do RE nº 566.621, Relatora a Ministra Ellen Gracie, declarou a inconstitucionalidade do art. 4º da LC nº 118/05.
+    4. Agravo regimental ao qual se nega provimento.”
+    (RE 535.436-AgR/DF, Rel. Min. DIAS TOFFOLI)
+    O exame da presente causa evidencia que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC/15, art. 932, V, “b”).
+    Cumpre referir, finalmente, que não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 20 de setembro de 2016.
+Ministro CELSO DE MELLO
+Relator
