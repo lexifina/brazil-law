@@ -1,0 +1,42 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Superior do Trabalho, ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. EXECUÇÃO. REAJUSTES SALARIAIS. INCORPORAÇÃO EXPRESSAMENTE DEFERIDA. OBSERVÂNCIA A COISA JULGADA. A admissibilidade do recurso de revista, em processo de execução, está condicionada à demonstração inequívoca de violação direta e literal de norma da Constituição Federal, na forma do §2º do artigo 896 da CLT e da Súmula no 266 desta Corte. In casu, não demonstrada ofensa direta e literal aos dispositivos da Constituição Federal denunciados o recurso de revista não alcança processamento. Agravo de instrumento não provido”. (eDOC 45, p. 1)
+    No recurso extraordinário (eDOC 51), interposto com fundamento no art. 102, III , a e b, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se ofensa aos arts. 5°, XXXV, XXXVI e LIV; e 37, X e XIV, do texto constitucional.
+    Nas razões recursais, alega-se afronta à inafastabilidade da jurisdição, à coisa julgada e ao devido processo legal na fase de execução de débitos relativos a reajustes concedidos à categoria profissional.
+    No que toca à violação da coisa julgada, argumenta-se que o TST deixou de enfrentar a alegação do recorrente pela impossibilidade de rediscutir, na fase de execução, o direito à compensação dos percentuais que o reclamado já tenha concedido, tendo em vista que aludido direito foi deferido na fase de conhecimento.
+    Defende-se a limitação do pagamento das recomposições decorrentes de planos econômicos à data base da respectiva categoria, tendo em vista que referida limitação não foi vedada pelo título executivo.
+    Por fim, afirma-se ter havido negativa de vigência ao art. 1º-F da Lei nº 9.494/97, porquanto seria possível se impor no caso concreto juros de mora limitados ao percentual de 6% (seis por cento) ao ano.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei Estadual 864/1987, Lei 8.177/1991, art. 1º-F da Lei 9.494/1997, CLT e CPC) e o conjunto probatório constante dos autos, consignou haver a controvérsia sido dirimida com estrita observância da coisa julgada. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “(…) se foi deferida a incorporação dos reajustes salariais aos salários dos autores, (...), não se pode falar em limitação, eis que o vocábulo incorporar pressupõe a integração em caráter permanente e definitivo, com o que não se coaduna a limitação por pressupor a provisoriedade, caso em que a pretensão contraria a coisa julgada protegida pela Carta Magna.
+    (...)
+    Quanto à compensação dos reajustes salariais concedidos aos exequentes, através a Lei Estadual no 846/87, postulada pelo executado e deferida na decisão hostilizada, analisa-se o comando contido na sentença exequenda, que assim prescreve:
+    Defere-se a compensação dos percentuais que o reclamado já tenha concedido a titulo idêntico conforme requerido na contestação
+    (…)
+    A matéria referente à correção monetária é pacificada nesta Corte. Incide a correção monetária do mês de exigência da obrigação, qual seja o mês seguinte ao da prestação laboral, nos exatos termos da Orientação Jurisprudencial nº 124 da SDI do Colendo TST.
+    (…)
+    (…) considerando que sobre os direitos dos agravantes incide o comando da Lei nº 8 177191, que prevê juros de mora de 1 % ao mês, há de ser reformada a decisão impugnada.
+    Em relação ao parecer do Ministério Público do Trabalho que, robustamente, sustentou a inconstitucionalidade do artigo 1º-F da Lei 9 494197, ante os argumentos acima expendidos no sentido de que o aludido diploma legal não se aplica ao caso vertente, torna-se desnecessária manifestação a respeito Todavia, em favor do debate, consigne-se recente decisão desta Corte a respeito da matéria
+    JUROS DE MORA DEBITOS JUDICIAIS ALTERAÇÃO POR MEDIDA PROVISÓRIA INVALIDADE. Não se reconhece validade à Medida Provisória nº 2 180-35/01 que estabelece taxa de juros moratórios diferenciada para os empregados públicos em relação aos demais empregados, não só em face da odiosa discriminação estabelecida mas também porque os juros de mora incidentes sobre os débitos trabalhistas têm natureza processual, eis que só incidentes a partir do ajuizamento da ação não comportando normatização por tal via. Ainda, a situação não se caracteriza como urgente e relevante, consoante exigência do artigo 62 da Constituição Federal, para legitimar a normatização da matéria pela via excepcional, sem submissão ao normal processo legislativo (Processo nº 01 1046 1991 091 14 0-8 - Acórdão no 0361103, Rel. Juiz Francisco de Paula Leal Filho, publicado em 05 05 2003)
+    (…)
+    Deve ser destacado, por oportuno, que a matéria pertinente a limitação a data-base dos exequentes não caracteriza erro material.
+    (…)
+    Ademais, esta Corte já sedimentou entendimento que a mencionada limitação somente é possível quando prevista na decisão exequenda
+    Desta forma, conheço do agravo de petição. No mérito, dou-lhe parcial provimento para extirpar da conta de liquidação qualquer limitação ou compensação de reajustes salariais, bem como determinar que os juros de mora incidam no percentual de 1% ao mês sobre os valores apurados como devidos ( . ) " (fls. 402-404)
+    (…)
+    O exame das decisões transcritas demonstra que a controvérsia foi dirimida com apoio em estrita observância a coisa julgada”. (eDOC 45)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO MATERIAL E PROCESSUAL DO TRABALHO. RECURSO DE REVISTA. REAJUSTE SALARIAL ASSEGURADO POR NORMAS DO CONSELHO DE REITORES DAS UNIVERSIDADES ESTADUAIS DE SÃO PAULO – CRUESP, DECRETO ESTADUAL Nº 41.554/1997. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 24.5.2013”. (ARE 931960 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 24.2.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. SERVIDOR PÚBLICO. REAJUSTE SALARIAL. RESOLUÇÕES DO CONSELHO DOS REITORES DAS UNIVERSIDADES ESTADUAIS PAULISTAS- CRUESP. ART. 6º DA LEI N. 8.899/94. ESTATUTO DA FAMERP. ART. 65 DO DECRETO 41.228/96. RECURSO DE REVISTA. CABIMENTO. ART. 896, A, DA CLT. ALEGAÇÃO DE AFRONTA AO ART. 37, X E XIII, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. LEI LOCAL. INCIDÊNCIA DA SÚMULA N. 280/STF. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS”. (ARE-AgR 696.934, Rel. Min. Luiz Fux, Primeira Turma, DJe 11.12.2012)
+    Ademais, quanto à suposta violação ao devido processo legal, observo que o Supremo Tribunal Federal já apreciou essa matéria no ARE-RG 748.371 (Tema 660), oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução da controvérsia depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Observa-se ainda que não há que se falar de violação ao princípio da inafastabilidade da prestação jurisdicional, uma vez que houve sua prestação, ainda que em sentido diverso daquele intentado pelo ora recorrente.
+    No que se refere à aplicação dos juros de mora a teor do art. 1º-F da Lei nº 9.494/97, observo que essa matéria corresponde ao tema 435 da sistemática da repercussão geral, cujo paradigma é o AI-RG 842.063, Rel. Min. Cezar Peluso, DJe 2.9.2011.
+    Ante o exposto, quanto ao tema da repercussão geral (tema 435), determino que os autos sejam devolvidos ao tribunal de origem para que observe o disposto no art. 1.036 do NCPC; e, em relação às questões remanescentes, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de setembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
