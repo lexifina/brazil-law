@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “CONTRATO DE COMPROMISSO DE COMPRA E VENDA – REVISÃO – DESCARACTERIZAÇÃO DA MORA – INOCORRÊNCIA. Em contrato de compromisso de compra e venda, a mora do devedor não se descaracteriza em função de eventual revisão de alguma cláusula do contrato.
+    V.V – AÇÃO DE RESCISÃO DE CONTRATO – COMPRA E VENDA DE IMÓVEL – REINTEGRAÇÃO DE POSSE – AÇÃO REVISIONAL – DISCUSSÃO DAS CLÁUSULAS PACTUADAS – PENDÊNCIA – INADIMPLEMENTO – INEXISTÊNCIA.
+    Ocorre lesão contratual, quando o índice de correção pactuado destoa daqueles aplicáveis para corrigir a variação monetária do bem.
+    É cabível o depósito judicial da parte incontroversa da dívida no curso da ação revisional de contrato em que se discute a abusividade de cláusulas contratuais, desde que referido depósito seja efetuado dentro dos patamares da razoabilidade e considere o valor principal contratado, bem assim os encargos legais.
+    Deferida a consignação em pagamento e comprovado o pagamento, não, falar em inadimplemento e tampouco reaver a posse do bem enquanto pendente a discussão das cláusulas contratuais.
+    A constituição em mora em contrato de aquisição de lote, observa o disposto no artigo 32 da Lei 6.766/1979” (pág. 163 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXII, XXIII, LIV, LV e 170, II e III, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Verifica-se que, à exceção do art. 5º, LV, os demais dispositivos constitucionais suscitados pela recorrente não foram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, transcrevo a ementa do ARE 909.749-AgR/DF, da relatoria do Min. Roberto Barroso:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 1. A questão constitucional alegada no recurso extraordinário não foi objeto de análise pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF. 2.Agravo regimental a que se nega provimento”.
+    Além disso, esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), Rel. Min. Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de setembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
