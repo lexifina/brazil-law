@@ -1,0 +1,31 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão de minha lavra que denegou a ordem do habeas corpus, diante da ausência de constrangimento ilegal, com base no art. 192, caput, do RISTF.
+    Alega-se, em síntese, omissão na decisão agravada, e postula-se a concessão de liberdade provisória ao paciente.
+    É o relatório.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou corrigir erro material na decisão embargada (art. 1.022 do atual CPC).
+    No presente caso, não vislumbro nenhuma dessas hipóteses.
+    As alegações da parte são impertinentes e decorrem de mero inconformismo com a decisão adotada por este Tribunal.
+    Como exaustivamente tratado na decisão embargada, a prisão preventiva deve indicar, de forma expressa, os seguintes fundamentos para a sua decretação, nos termos do art. 312 do CPP: I) garantia da ordem pública; II) garantia da ordem econômica; III) garantia da aplicação da lei penal; e IV) conveniência da instrução criminal.
+    Entendo que o Juízo de origem, ao determinar a prisão do acusado, indicou elementos mínimos concretos e individualizados, aptos a demonstrar a necessidade da prisão preventiva, especialmente para garantir a ordem pública, atendendo, assim, ao disposto no artigo 312 do CPP, que rege a matéria e, também, à interpretação que dá ao dispositivo o STF.
+    No caso vertente, o magistrado a quo decretou a preventiva nos seguintes termos:
+    “Vê-se que a materialidade delitiva está provada pelos depoimentos constantes no inquérito policial, notadamente o depoimento da vítima, que afirmou, sem vacilar, que foi vítima de tentativa de homicídio por não ter cedido às ameaças e à extorsão, feitas pelos denunciados. No mais, a vítima reconheceu dois dos homens que a ameaçaram e depois a lesionaram, indicando os nomes dos possíveis mandantes.
+    As lesões no corpo da vítima foram descritas no laudo de perícia traumatológica de f. 58. Em todos os depoimentos colhidos na fase inquisitorial, de desnecessária transcrição, são apontados os indiciados como prováveis autores dos crimes denunciados, evidenciando-se a autoria pela unicidade de narrativa trazidas pelas testemunhas. (...) Permito-me repetir o que foi dito em decisão anterior: com a atividade dos acusados surge o risco de instalação em nossa cidade de uma organização criminosa, com ramificações internacionais, cidade já atormentada pelo crime organizado e pelo tráfico de entorpecentes, com crescente turbação da ordem pública.
+    (...)
+    Constato, sob outro prisma, que nenhum dos denunciados foi encontrado para ser ouvido no procedimento inquisitorial, estando todos em lugar incerto e não sabido. Desse modo, podem livremente ameaçar as vítimas e testemunhas, como fizeram antes e têm feito durante todo o decorrer do inquérito, consoante declarações da testemunha ZHOU WENDAN, companheira da vítima, a qual declarou que recebeu uma ligação telefônica de um dos denunciados, que teria dito não temer o Poder Público, mencionando que o presidente da Associação dos Comerciantes Chineses na Argentina fora assassinado e nenhuma providência fora tomada pelos órgãos públicos ligados à segurança.
+    Resta claro que, assim, estando os réus em liberdade, continuarão a ameaçar as testemunhas e vítimas, pondo em xeque a instrução processual, sendo cabível e indicada a prisão preventiva, também como forma de preservar intocável a instrução criminal. Com o desaparecimento de todos os indiciados fica claro que há eminente perigo na aplicação da lei penal brasileira visto que, desde a instauração do inquérito policial, os indiciados não são localizados pela polícia. Cabível e aconselhável a decretação da prisão preventiva, também para viabilizar a aplicação da lei penal (...)”.
+    Quando da pronúncia, o juízo de origem manteve a segregação cautelar, haja vista a ausência de fato novo apto a justificar a soltura do acusado.
+    Deste modo, entendo que a prisão do paciente permanece justificada, sobretudo, na necessidade de se garantir a ordem pública, considerando os fortíssimos indícios de ser o paciente integrante da associação criminosa e mandante do crime.
+    São vários os elementos e fatos concretos que dão ensejo à regularidade da prisão preventiva. Consoante consta dos autos, o paciente é acusado da prática de homicídio tentado, porquanto teria desferido diversos golpes com faca contra a vítima Chen Ming, não se consumando o delito por circunstâncias alheias à vontade do agente.
+    Assim, a custódia do réu encontra-se alicerçada nas peculiaridades do caso concreto, especialmente quando se destaca a gravidade real da conduta do paciente.
+    Por oportuno, cito precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública considerada a gravidade concreta do crime AgR no HC 125.290/MG, rel. min. Cármen Lúcia, 2ª Turma, DJe 19.12.2014; e HC 124.027/MG, rel. min. Rosa Weber, 1ª Turma, DJe 11.2.2015.
+    Por fim, destaco que o acusado encontra-se foragido, consoante informado pelo Juízo de origem (eDOC 9).
+    No ponto, menciono que a jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido em que é válido o decreto cautelar fundamentado na fuga do distrito da culpa, notadamente quando demonstrado que se pretende furtar-se à aplicação da lei penal, sob pena de o deslinde do crime ficar à mercê de seu suposto autor.
+    Nesse sentido: HC 123.467/PR, rel. min. Teori Zavascki, Segunda Turma, DJe 2.10.2014; HC 120.176/RS, rel. min. Ricardo Lewandowski, Segunda Turma, DJe 26.3.2014; e HC 106.438/MG, rel. Min. Cármen Lúcia, Segunda Turma, DJe 25.3.2011.
+    Assim, a decisão recorrida está adequadamente fundamentada, inclusive, inexistindo qualquer omissão a ser sanada, mas somente insatisfação do embargante quanto ao teor da decisão proferida.
+    Manifesto, portanto, o intuito protelatório dos embargos de declaração, que buscam indevidamente a rediscussão da matéria, com objetivo de alcançar excepcionais efeitos infringentes.
+    Ante o exposto, com base no art. 620, § 2º, do Código de Processo Penal e art. 21, § 1º, do RISTF, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 21 de setembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
