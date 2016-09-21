@@ -1,0 +1,24 @@
+DECISÃO
+MANDADO DE SEGURANÇA – ATO COATOR – DECRETO REGULAMENTAR – DECADÊNCIA – INDEFERIMENTO DA INICIAL.
+    1. O assessor Dr. Paulo Timponi Torrent prestou as seguintes informações:
+    Município de Contagem ajuíza mandado de segurança em face do Presidente da República, do Ministro de Estado da Fazenda, do Secretário do Tesouro Nacional, do Coordenador-Geral de Haveres Financeiros da Secretaria do Tesouro Nacional e do Gerente-Geral do Banco do Brasil, agência setor público, em Belo Horizonte/MG, visando afastar a observância do Decreto nº 8.616/2015, por meio do qual disciplinados os artigos 2º a 4º da Lei Complementar nº 148/2014.
+    Defende a competência do Supremo e o rol de legitimados passivos, considerada a decisão proferida no mandado de segurança nº 34.023, relator o ministro Edson Fachin.
+    Aponta a ocorrência de abuso de poder regulamentar pela União, consistente na imposição de condições não previstas em lei para a celebração dos termos aditivos aos contratos de refinanciamento das dívidas de titularidade dos entes da Federação.
+    Refuta os cálculos da dívida apresentados pelo Banco do Brasil, os quais teriam sido elaborados com a incidência de juros capitalizados – “Selic capitalizada” – e não mediante a acumulação simples da Taxa Selic – “Selic acumulada”. Diz que o erro decorre da distorcida interpretação da Lei Complementar regulamentada pelo Decreto nº 8.616/2015. Afirma inexistirem precedentes a justificarem a metodologia implementada pelo diploma impugnado, a qual ofende o Decreto nº 22.626/1993 – Lei da Usura –, o verbete nº 121 da Súmula do Supremo e o princípio constitucional da igualdade.
+    Assevera que a apresentação do Projeto de Lei nº 315/2016, cujo escopo seria a suspensão dos efeitos do artigo 3º, inciso I, do Decreto, ampara a tese veiculada na petição inicial.
+    Aludindo às regras da Lei Complementar nº 148/2014, consideradas as parcelas já quitadas, afirma ser credor da União do importe de R$ 226.249.716,65.
+    Requer, liminarmente, sejam os impetrados proibidos de exigir qualquer pagamento do Município na forma hoje realizada, assim como de impor quaisquer outras sanções, especialmente o bloqueio de recursos de transferências federais. Pede, ainda, a adoção de método de cálculo da dívida com base na variação acumulada da Selic e, por consequência, o reconhecimento de crédito em face da União. No mérito, pretende a declaração do direito de cálculo da dívida nos termos do artigo 3º da Lei Complementar nº 148/2014, afastando-se a sistemática da capitalização composta de juros.
+    A Secretaria do Tesouro Nacional impugna os argumentos de mérito da impetração com a nota técnica nº 101/2016/COAFI/SURIN/STN/MF-DF.
+    A União apresenta informações, discorrendo sobre as matérias de fundo da impetração.
+    O Ministro da Fazenda, reportando-se ao parecer nº 1.051/2016, da Procuradoria-Geral da Fazenda Nacional, sustenta as preliminares de ilegitimidade passiva, de impossibilidade de impetração de mandado de segurança contra lei em tese e de inadequação da via eleita, em função da necessidade de dilação probatória.
+    O processo não foi encaminhado à Procuradoria-Geral da República para manifestação.
+    2. Apesar da ausência de pronunciamento da Procuradoria-Geral da República, considero o processo suficientemente instruído para exame.
+    O cabimento de mandado de segurança em face do Decreto nº 8.616/2015, visando discutir a correta interpretação dos artigos 2º a 4º da Lei Complementar nº 148/2014, foi assentado no julgamento do agravo regimental no mandado de segurança nº 34.023, relator o ministro Edson Fachin. Esse fato não desobriga o Município do atendimento aos pressupostos legais da impetração, entre os quais a formalização dentro do lapso decadencial de 120 dias.
+    Mostra-se claro, da leitura da inicial, o objeto da impetração: o afastamento da metodologia criada pelo Decreto nº 8.616/2015 e a definição dos critérios jurídicos a serem adotados para o cálculo do desconto previsto no artigo 3º da Lei Complementar nº 148/2014. Causa de pedir e objeto concernem a alegado abuso de poder regulamentar, com ofensas à lei e à Constituição Federal. Não há indicação de outro ato ilegal. O impetrante aponta, unicamente, o Decreto. Foram apresentados demonstrativos de saldo devedor e de reprocessamento das dívidas nas condições da Lei Complementar, todos anteriores ou contemporâneos à data de edição do mencionado ato normativo.
+    Forçoso é o reconhecimento da decadência do direito de formalizar mandado de segurança, pois o ato coator foi publicado em 29 de dezembro de 2015, com vigência no mesmo dia, e o protocolo da inicial ocorreu em 5 de maio de 2016, vale dizer, 128 dias depois.
+    3. Ante o quadro, nego seguimento ao mandado de segurança, observando o artigo 10 da Lei nº 12.016/2009.
+    Fica prejudicada a análise do pedido liminar.
+    4. Publiquem.
+Brasília, 21 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
