@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (eDOC 6, p. 123):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ESCRIVÃ DE POLÍCIA FEDERAL. APOSENTADORIA POR INVALIDEZ. LEI Nº 8.112/90. LER-DORT. INCAPACIDADE PARCIAL E DEFINITIVA. PERÍCIA MÉDICA. IMPEDIMENTO DO EXERCÍCIO DE ATIVIDADES COM ESFORÇO REPETITIVO. LICENÇA MÉDICA. AFASTAMENTO INTEGRAL DAS FUNÇÕES POR 2 ANOS. IMPOSSIBILIDADE.
+    Apelação interposta face da sentença que julgou improcedentes pedidos de aposentadoria 1. por invalidez ou, subsidiariamente, licença para tratamento de saúde pelo prazo de 02 anos (dois), com vencimentos integrais.
+    2. Requisitos concessivos da medida antecipatória não configurados. Quadro clínico que pode ser amenizado, ainda que a autora exerça funções outras que não necessitem de esforços repetitivos, conforme a conclusão médico-pericial.
+    3. Aposentadoria por invalidez de servidor público, regida pelos arts. 40, I, da CF/88, e 186, I, da Lei nº 38 .112/90. Laudo médico que afirma pela possibilidade de reabilitação em atividades que não exijam esforço repetitivo. Quadro clínico em que a servidora que não apresenta incapacidade total para todas as funções relativas ao cargo.
+    4. Licença para tratamento de saúde por período de 2(dois) anos. Não há demonstração, em inspeção 4.médica, de situação que justifique deferir licença para tratamento de saúde por tão longo tempo. Laudo pericial que confirma possibilidade de exercício da função sem esforço repetitivo conjuntamente com tratamento médico.
+    5. Pedido de reconhecimento judicial de que a autora está acometida de enfermidade LER/DORT. A ação declaratória não se presta para reconhecimento de situação de fato, mas tão somente de existência/inexistência de relação jurídica. Apelação improvida.”
+    Os embargos de declaração foram desprovidos (eDOC 6, p. 160).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º; incisos LIV e LV, e 40, § 1º, inciso I, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, estar provado nos autos que a autora é portadora de moléstia oriunda de atividades laborais, devendo ser aposentada por invalidez (eDOC 6, p. 202).
+    É o relatório. Decido.
+    Observo estar o acórdão recorrido em consonância com a jurisprudência pacífica do Supremo, a qual entende ser taxativo o rol que especifica os casos de aposentadoria por invalidez com proventos integrais.
+    A esse respeito, o Plenário desta Corte, ao julgar o RE 656.860, Rel. Min. Teori Zavascki, DJe 18.09.2014, conclui:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ COM PROVENTOS INTEGRAIS. ART. 40, § 1º, I, DA CF. SUBMISSÃO AO DISPOSTO EM LEI ORDINÁRIA. 1. O art. 40, § 1º, I, da Constituição Federal assegura aos servidores públicos abrangidos pelo regime de previdência nele estabelecido o direito a aposentadoria por invalidez com proventos proporcionais ao tempo de contribuição. O benefício será devido com proventos integrais quando a invalidez for decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, “na forma da lei”. 2. Pertence, portanto, ao domínio normativo ordinário a definição das doenças e moléstias que ensejam aposentadoria por invalidez com proventos integrais, cujo rol, segundo a jurisprudência assentada pelo STF, tem natureza taxativa. 3. Recurso extraordinário a que se dá provimento.”
+    Ademais, para divergir do entendimento esposado pelo juízo de origem, seria necessária a análise do conjunto fático-probatório, o que não autoriza o acesso à via extraordinária, incidindo, no caso, a Súmula 279 do STF.
+    Por fim, aponto que o Supremo Tribunal Federal, no julgamento ARE 821.296, da Rel. Min. Roberto Barroso, entendeu pela inexistência de repercussão geral na controvérsia acerca da análise do preenchimento dos requisitos para concessão de benefício previdenciário (Tema 766). Na oportunidade, a ementa restou assim redigida:
+    “PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. VERIFICAÇÃO DOS requisitos PARA CONCESSÃO DO BENEFÍCIO. 1. Hipótese em que o acórdão recorrido consigna a ausência dos requisitos necessários à concessão do auxílio-doença. 2. Discussão que envolve matéria infraconstitucional, além de exigir o revolvimento da matéria fática (Súmula 279/STF). 3. Inexistência de repercussão geral. “
+    Ante o exposto, conheço do agravo para negar seguimento ao extraordinário, nos termos do 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 21 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
