@@ -1,0 +1,14 @@
+Decisão
+RECURSO EXTRAORDINÁRIO – PREVIDENCIÁRIO- REAJUSTE DE BENEFÍCIOS – ÍNDICE DE CORREÇÃO MONETÁRIA – PRECEDENTE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à improcedência do pedido. Concluiu que a adoção do INPC para a atualização dos benefícios não contraria os princípios da irredutibilidade e da preservação do valor real dos benefícios. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violado o artigo 201, § 4º, da Constituição Federal. Sustenta a inadequação do índice adotado, o qual não recompõe de forma real o valor da parcela devida, devendo ser substituído por outro mais condizente com a realidade.
+    2. A decisão recorrida está em consonância com a jurisprudência do Supremo. Confiram com a seguinte ementa:
+    EMENTA: PREVIDENCIÁRIO. REAJUSTE DE BENEFÍCIOS. ÍNDICES DE CORREÇÃO MONETÁRIA RELATIVOS AOS ANOS DE 1997, 1999, 2000, 2001, 2002 E 2003. CONSTITUCIONALIDADE. PERCENTUAIS SUPERIORES AO ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR (INPC). REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DA JURISPRUDÊNCIA.
+    1. O Plenário do Supremo Tribunal Federal, no julgamento do RE 376.846, rel. Min. CARLOS VELLOSO, DJ de 02-04-2004, afastou a alegação de inconstitucionalidade das normas que fixaram os índices de correção monetária de benefícios previdenciários empregados nos reajustes relativos aos anos de 1997, 1999, 2000 e 2001, que foram de um modo geral superiores ao INPC e observaram os comandos normativos de regência.
+    2. Tratando-se de situações semelhantes, os mesmos fundamentos são inteiramente aplicáveis aos índices de reajuste relativos aos anos de 2002 e 2003.
+    3. Incabível, em recurso extraordinário, apreciar violação ao art. 5º, XXXV e XXXVI, da Constituição Federal, que pressupõe intermediário exame e aplicação das normas infraconstitucionais pertinentes (AI 796.905-AgR/PE, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21.5.2012; AI 622.814-AgR/PR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08.3.2012; ARE 642.062-AgR/RJ, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19.8.2011). 4. Agravo a que se conhece para, desde logo, negar seguimento ao recurso extraordinário, com o reconhecimento da repercussão geral do tema e a reafirmação da jurisprudência sobre a matéria.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão recorrida é posterior a 18 de março de 2016, data de início da eficácia do código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    3. Ante o quadro, ressalvada a óptica pessoal, conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia do recorrido em apresentar contrarrazões ao extraordinário.
+    4. Publiquem.
+Brasília, 21 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
