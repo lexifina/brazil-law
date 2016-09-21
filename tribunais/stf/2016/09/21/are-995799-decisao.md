@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo contra decisão da Vice-Presidência do Tribunal de Justiça do Mato Grosso do Sul que negou seguimento ao recurso extraordinário interposto com fundamento no art. 102, III, alíneas “a” e “c”, da Constituição Federal (eDOC 4, p. 1).
+    Nas razões, alega-se violação ao art. 62, caput, do texto constitucional, além de ofensa às normas de competência legislativa e ao princípio da isonomia.
+    Verifico que a pretensão não merece acolhimento.
+    Inicialmente, observo que o Supremo Tribunal Federal, no julgamento do AI-QO 760.358, de minha relatoria, DJe 18.2.2010, firmou sua jurisprudência no sentido de não ser cabível recurso para esta Corte contra a aplicação do procedimento da repercussão geral nas instâncias de origem. Transcrevo a seguir a ementa desse julgado:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3o do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem”.
+    Na oportunidade, a Suprema Corte consignou a tese segundo a qual, com o novo modelo de controle difuso de constitucionalidade, instituído pela Emenda Constitucional nº 45, compete aos tribunais de origem adequar aos casos individuais os entendimentos firmados pelo Supremo Tribunal Federal no leading case .
+    Nesses termos, o Novo Código de Processo Civil, que entrou em vigor em 18.3.2016, confirmando essa jurisprudência, assentou que o recurso cabível contra a decisão que, no Tribunal de origem, nega seguimento ao recurso extraordinário é o agravo interno (art. 1.030, § 2º). Eis a redação desse dispositivo:
+    “Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+    I negar seguimento:
+    a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral;
+    b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+    II encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos;
+    III sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional;
+    IV selecionar o recurso como representativo de controvérsia constitucional ou infraconstitucional, nos termos do § 6 º do art. 1.036;
+    V realizar o juízo de admissibilidade e, se positivo, remeter o feito ao Supremo Tribunal Federal ou ao Superior Tribunal de Justiça, desde que:
+    a) o recurso ainda não tenha sido submetido ao regime de repercussão geral ou de julgamento de recursos repetitivos;
+    b) o recurso tenha sido selecionado como representativo da controvérsia; ou
+    c) o tribunal recorrido tenha refutado o juízo de retratação.
+    § 1 º Da decisão de inadmissibilidade proferida com fundamento no inciso V caberá agravo ao tribunal superior, nos termos do art. 1.042.
+    § 2 º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021”. (Grifei)
+    Ainda, o artigo 1.042 do NCPC (art. 544 do CPC/1973) prevê o cabimento do agravo nos próprios autos somente contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial. Faz-se a ressalva dos casos em que a inadmissão fundar-se na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos.
+    Assim, não é cabível o agravo nos próprios autos contra decisão que aplica a sistemática da repercussão geral na origem, motivo pelo qual, neste ponto, não conheço do agravo.
+    Por fim, no que tange à alínea “c” do inciso III, do art. 102, da Constituição Federal, registro que recorrente não demonstrou de que forma a decisão guerreada teria afrontado a Constituição, incidindo, na espécie, a Súmula 284 do STF
+    Ante o exposto, não conheço do recurso (art. 932, III, do NCP) e, com relação à alínea “c” do inciso III, do art. 102, da CF, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de setembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
