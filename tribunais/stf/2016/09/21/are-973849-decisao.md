@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GUARDAS MUNICIPAIS. TURNOS ININTERRUPTOS DE REVEZAMENTO. HORAS EXTRAS. BASE DE CÁLCULO. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF. INIDÊNCIA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. SERVIDOR PÚBLICO DO MUNICÍPIO DE LONDRINA. GUARDA MUNICIPAL. HORAS EXTRAS. JORNADA SEMANAL DE 40 HORAS. REGIME DE JORNADA 12X36.
+    - HORAS EXTRAS. ARTS. 188 E 287 DA LEI MUNICIPAL Nº 4.928/1992 E ART. 14 DA LEI MUNICIPAL Nº 10.981/2010. COMPENSAÇÃO DE HORAS EXTRAS ATRAVÉS DE GOZO DE FOLGAS CINGE-SE AO PERÍODO SEMANAL. IRRELEVANTE JORNADA REALIZADA NO DECORRER DE UM MÊS. ADMISSÃO DA COMPENSAÇÃO DE JORNADA QUE NÃO AFASTA O DIREITO À GRATIFICAÇÃO DE 50%.
+    - LABOR NOTURNO. ART. 190 DA LEI MUNICIPAL Nº 4.928/92. REDUÇÃO HORA NOTURNA. 52MIN E 30S.
+    - BASE DE CÁLCULO DO SERVIÇO EXTRAORDINÁRIO.ADICIONAL DE RISCO DE VIDA. ART. 25 DA LEI MUNICIPAL Nº 10.981/2010. VERBA DE CARÁTER GERAL. EFEITO CASCATA. NÃO CONFIGURAÇÃO.AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 37, XIV, DA CF.
+    - CONTRIBUIÇÃO PREVIDENCIÁRIA. HORAS EXTRAS.NATUREZA JURÍDICA INDENIZATÓRIA E NÃO REMUNERATÓRIA. INEXISTÊNCIA DE OBRIGAÇÃO DE RETENÇÃO.
+    - CORREÇÃO MONETÁRIA. ÍNDICE DA REMUNERAÇÃO BÁSICA DA CADERNETA DE POUPANÇA.INAPLICABILIDADE. IPCA. ÍNDICE ADOTADO NA SENTENÇA, QUE MELHOR REFLETE A RECOMPOSIÇÃO DO VALOR DA MOEDA.
+    - JUROS DE MORA. INCIDÊNCIA UMA ÚNICA VEZ. ART. 1º- F, DA LEI Nº 9.494/97 (REDAÇÃO PELA LEI N] 11.960/2009). ART. 405 CC E ART. 219 DO CPC.CITAÇÃO. RECONHECIDA A NÃO INCIDÊNCIA DURANTE O PERÍODO DA GRAÇA CONSTITUCIONAL (SÚMULA VINCULANTE 17).
+    - LIMITAÇÃO DOS EFEITOS DA SENTENÇA. TERMO FINAL MARCADO PELO AJUIZAMENTO DA DEMANDA. SENTENÇA QUE NÃO PODE ALCANÇAR FATOS FUTUROS, INCERTOS E DESCONHECIDOS.
+    RECURSO PROVIDO, EM PARTE. SENTENÇA MANTIDA, QUANTO AO MAIS, EM REEXAME NECESSÁRIO.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 37, XIV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 280 do STF.
+    É o relatório. DECIDO.
+    Não merece prosperar o agravo.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    As horas extras pagas a servidor público municipal, quando sub judice a controvérsia sobre a sua base de cálculo, implicam a análise da legislação infraconstitucional local aplicável à espécie, o que encontra óbice na Súmula 280 do STF, de seguinte teor: “Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. HORAS EXTRAS. BASE DE CÁLCULO. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 728.440-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 28/10/2013).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMIINSTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. BASE DE CÁLCULO DE HORAS EXTRAS. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 280/STF. A resolução da controvérsia demandaria a analise da legislação local aplicada ao caso, procedimento vedado em recurso extraordinário pela Súmula 280/STF. Precedentes. O Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal, o que inviabiliza o recurso extraordinário pela alínea c do inciso III do art. 102 da Constituição. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento.” (ARE 846.840-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 3/2/2015).
+    A propósito, menciono as lições do ilustre professor Roberto Rosas sobre a Súmula 280 desta Corte:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia. A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário. Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963). Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 138).
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 21 de setembro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
