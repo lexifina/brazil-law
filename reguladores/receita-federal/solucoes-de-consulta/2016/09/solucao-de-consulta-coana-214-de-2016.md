@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 214, de 19 de setembro de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 7308.90.90, sem enquadramento no Ex 01 da Tipi Mercadoria: Cumeeira de aço (galvalume ou pré-pintado) com seção trapeizodal, utilizada para acabamento e vedação das frestas resultantes da união das telhas, conforme ângulo de inclinação do telhado, de comprimento variável, sendo o padrão de 600 mm, largura de 1135 mm, espessura de 0,43, 0,50 ou 0,65 mm.
+DISPOSITIVOS LEGAIS: RGI-1 (textos da Nota 3 da Seção XV e da posição 73.08), RGI-6 (texto da subposição 7308.90) e RGC-1 (texto do item 7308.90.90), constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, com alterações posteriores, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com atualizações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 7308.90.90, sem enquadramento no Ex 01 da Tipi Mercadoria: Cumeeira de aço (galvalume ou pré-pintado) com seção trapeizodal, utilizada para acabamento e vedação das frestas resultantes da união das telhas, conforme ângulo de inclinação do telhado, de comprimento variável, sendo o padrão de 600 mm, largura de 1135 mm, espessura de 0,43, 0,50 ou 0,65 mm.
+DISPOSITIVOS LEGAIS: RGI-1 (textos da Nota 3 da Seção XV e da posição 73.08), RGI-6 (texto da subposição 7308.90) e RGC-1 (texto do item 7308.90.90), constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, com alterações posteriores, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com atualizações posteriores.
+ÁLVARO AUGUSTO DE VASCONCELOS LEITE RIBEIRO
+Presidente da 1ª Turma
