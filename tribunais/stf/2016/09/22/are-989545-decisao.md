@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO - INVIABILIDADE — AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Minas Gerais consignou que, ante a inexistência de legislação local válida sobre o limite do RPV, em decorrência da não recepção da Lei municipal nº 1.352/2008, pela Constituição Federal, porquanto fixa o valor da requisição de pequeno valor em patamar inferior ao mínimo estabelecido na Emenda Constitucional nº 62/2009, deve ser considerado o patamar de trinta salários mínimos, estabelecido no artigo 87 do Ato das Disposições Constitucionais Transitórias. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 100, § 4º, da Constituição Federal, e 87 e 97, § 12, do mencionado ADCT. Pretende a redução do valor fixado, a fim de ser observado aquele introduzido pela Emenda Constitucional nº 62, ou seja, o equivalente ao maior benefício do regime geral de previdência social.
+    2. Colho do acórdão recorrido os seguintes trechos:
+    O Município/agravante promulgou a Lei Municipal nº. 1.352/2005, fixando como "de pequeno valor" os débitos ou obrigações consignadas em sentenças judiciais que tenham valor igualou inferior a R$ 300,00 (trezentos reais). Em seu parágrafo único estipulou que o mínimo vigente (fl. 23, TJ), Do que consta, valor este que permanece vigente pela legislação municipal de Jequitinhonha até o momento.
+    […]
+    Ocorre que a Emenda Constitucional nº 62/2009, deu nova redação ao § 4°, do art. 100, da Constituição Federal, mantendo a prerrogativa do Poder Executivo para arbitrar valores próprios definidos como obrigação de pequeno valor, mas definindo novo piso equivalente ao valor do maior benefício pago pelo regime geral da previdência social, 'in verbis':
+    […]
+    Desta feita, com o advento da referida emenda, conclui-se que o conceito constitucional de "pequeno valor" para fins de RPV passa a ser, nacionalmente, quantia não inferior ao valor do maior benefício do regime geral de previdência, alteração esta que dado o seu caráter processual tem vigência imediata em todos feitos em andamento.
+    (...)
+    Com efeito, constata-se, claramente, que a referida Lei Municipal nº 1.352/2005, regulamentada pelo Decreto 027/2007, não fora recepcionada pelo texto constitucional reformado e vigente, uma vez que o montante considerado como "pequeno valor" é inferior à quantia mínima estabelecida pelo §4°, do art. 100, da Carta Magna .
+    Assim sendo, a legislação municipal supra, parece, não ser aplicável à hipótese sub judice, posto a perda de sua validade ante a inconstitucionalidade mencionada, de modo que passa a matéria em cotejo a ser regida pela disposição legal genérica ou subsidiária, qual seja, o estabelecido no art. 87, do ADCT:
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgou a matéria a partir do expressamente contido no artigo 87 do Ato das Disposições Constitucionais Transitórias. Ora, nem com muito esforço seria dado chegar-se à alegada ofensa a dispositivo constitucional. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça.
+    3. Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    4. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia da parte agravada em apresentar contraminuta ao agravo.
+    5. Publiquem.
+Brasília, 22 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
