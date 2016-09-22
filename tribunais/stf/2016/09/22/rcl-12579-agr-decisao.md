@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de agravo regimental interposto contra decisão que negou seguimento ao pedido em reclamação ajuizada contra sentença da 12ª Vara do Trabalho de Curitiba que manteve a condenação subsidiária da União ao pagamento de verbas trabalhistas inadimplidas por empresa contratada para prestação de serviços terceirizados, pelo entendimento de que não há falar em ofensa à ADC 16, tendo em vista que acórdão reclamado consignou ter havido culpa da ora reclamante por não fiscalizar a regular execução do contrato.
+    Alega a agravante, em síntese, que está sendo responsabilizada sem que exista nos autos efetiva demonstração de sua culpa , o que não se coaduna com o decidido no julgamento da ADC 16.
+    2. Com razão a agravante. De fato, conforme se depreende do trecho da decisão reclamada a seguir transcrito, a condenação do ente público resultou de genérica imputação de culpa, sem específica atribuição de conduta dolosa ou culposa que teria resultado no inadimplemento das obrigações trabalhistas por parte da empresa prestadora de serviços:
+    (…) Diverso do que sustentam as rés, há in casu responsabilidade subsidiária pela culpa in vigilando e in eligendo. Deveriam ter tido a cautela de fiscalizar a atuação do prestador de serviços (art. 67 da Lei 8.666/93, especialmente aplicável para a segunda e terceira reclamadas), não o fazendo atraíram para si a responsabilidade pelo pagamento do trabalho do qual foram beneficiárias. Não permitindo a isenção de que trata o art. 71 da mesma lei (diante da omissão antes citada) (doc. 2, fl. 15).
+    Nessas circunstâncias, em que presumida a responsabilidade do ente público, está configurada a ofensa à decisão desta Corte na ADC 16.
+    Na mesma linha de entendimento, a 2ª Turma desta Corte decidiu, em acórdão assim ementado:
+    Agravo regimental em reclamação. 2. Responsabilidade subsidiária da Administração Pública. Ausência de comprovação do elemento subjetivo do ato ilícito imputável ao poder público. Ofensa ao que decidido na ADC 16/DF. Aplicação automática da Súmula 331 do TST. Atribuição de culpa ao ente público por presunção. Inadmissibilidade. 3. Agravo regimental não provido (Rcl 14.522, Rel. Min. Gilmar Mendes, 2ª Turma, j. 3/2/2015).
+    3. Ante o exposto, reconsidero a decisão agravada para julgar procedente o pedido (art. 161 do RISTF), cassando a decisão reclamada somente na parte em que reconhecida a responsabilidade subsidiária da União (Processo 7896.2009.12.9.0.5).
+    Publique-se. Intime-se.
+    Brasília, 22 de setembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
