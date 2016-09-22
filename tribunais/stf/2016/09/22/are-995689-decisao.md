@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão de Tribunal de Justiça do Estado de São Paulo, cuja ementa se reproduz a seguir:
+    “EMBARGOS INFRINGENTES – Fundação privada de utilidade pública – Direito à imunidade tributária de seus bens, nos termos do art. 150 da Constituição Federal e art. 14 do Código Tributário Nacional. Fundação declarada de utilidade pública por Lei Estadual. Requisitos legais preenchidos.” (eDOC 2, p. 136)
+    Os embargos de declaração foram rejeitados. (eDOC 2, p. 152-155)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 150, VI, “c” e § 4º; e 155, III, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que “a imunidade concedida às entidades educacionais e assistenciais, em consequência, dado o seu caráter simultaneamente subjetivo e objetivo, não se destina às mesmas enquanto tais, mas também, e apenas, na medida em que o objeto sobre o qual recai o favor fiscal diga respeito às suas atividades essenciais, compreendendo, apenas, o seu patrimônio, a sua renda e os seus serviços.” (eDOC 2, p. 167-168)
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o recurso extraordinário com base na Súmula 279 do STF. (eDOC 2, p. 171)
+    É o relatório.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que os argumentos trazidos pela parte recorrente carecem do necessário prequestionamento. Esta Corte tem consignado ser inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo ato recorrido. Incide, portanto, a Súmula 282 do Supremo Tribunal Federal.
+    Ademais, verifico que o Tribunal a quo assim entendeu:
+    “Como se vê do relatório, a Fazenda argumenta que não foi apresentada a declaração oficial de reconhecimento de utilidade pública.
+    Porém, como se vê a fls. 37, existe uma Lei Estadual (11.203) que declara a recorrente como uma entidade de utilidade pública.
+    A Lei 11.203 é do ano de 2002, sendo certo que a presente ação foi ajuizada em 2003, de modo que a imunidade reconhecida em parte pela r. Sentença, que respeitou a prescrição quinquenal, não retroage a antes de 2002, ano da vigência da lei.
+    Portanto, entendo que está correto o julgamento do voto vencido quando diz a fls. 288 com os devidos destaques em negrito: a autora foi reconhecida por lei estadual, lei nº 11.203/2002, como entidade de utilidade pública. Ora se há lei estadual a reconhecer a autora como entidade de utilidade pública, não se justifica outra exigência pela própria autoridade administrativa estadual.” (eDOC 2, p. 137-138)
+    Assim, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação infraconstitucional, aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. IPTU. Instituição de ensino sem fins lucrativos. imunidade. Preenchimento dos requisitos. Incidência do Enunciado 279 da Súmula do STF. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento. (ARE 779.324 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 24.06.2014)
+    CONSTITUCIONAL. TRIBUTÁRIO. imunidade. ENTIDADE BENEFICENTE DE EDUCAÇÃO. APLICABILIDADE CONDICIONADA AO PREENCHIMENTO DE REQUISITOS LEGAIS. REEXAME DE MATÉRIA PROBATÓRIA. ÓBICE DA SÚMULA 279/STF. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. À luz da plena vinculação da atividade administrativa da constituição do crédito tributário, eventual e hipotético desvio de finalidade na aplicação do bem não pode ser pura e simplesmente pressuposto. De fato, a presunção de validade do lançamento tributário será tão forte quanto for a consistência de sua motivação, revelada pelo processo administrativo de constituição do crédito tributário. No caso em exame, o acórdão-recorrido reconheceu a agravada como sociedade civil sem fins lucrativos, voltada para a administração de instituição de ensino, legitimando, assim, o seu direito à imunidade tributária, conferida pelo art.150, VI, c, da Constituição. Portanto, para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reabrir a instrução probatória, o que encontra óbice na Súmula 279 do Supremo Tribunal Federal. Agravo regimental ao qual se nega provimento. (AU 718.963 AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 26.10.2010)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 22 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
