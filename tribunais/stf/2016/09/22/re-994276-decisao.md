@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO - MANDADO DE SEGURANÇA - RENOVAÇÃO DE CREDENCIAL DE INSTRUTOR DE TRÂNSITO - CERTIDÃO NEGATIVA DE DISTRIBUIÇÃO DE AÇÕES CRIMINAIS - EXIGÊNCIA - ATO DISCRICIONÁRIO - RAZOABILIDADE - INTERESSE PÚBLICO - AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS - ORDEM DENEGADA - RECURSO NÃO PROVIDO.
+    1. O ato de credenciamento de instrutores de trânsito é discricionário, cabendo, à Administração, dispor sobre as exigências que entender convenientes e necessárias à adequada prestação deste serviço de natureza pública.
+    2. Existência de certidão positiva de antecedentes criminais perante o Juízo Criminal da Comarca de Belo Horizonte pela suposta prática de delitos contra a fé pública. Circunstância que não se subsume à previsão contida no art. 19, inciso II, parágrafo único, alínea "g" da Resolução do Contran n. 358/2010, impedindo a renovação do credenciamento.
+    3. Ausência de violação ao princípio da presunção de inocência, vez que a exigência de idoneidade moral é requisito direcionado a todos aqueles que estão vinculados à Administração Pública.
+    4. Recurso a que se nega provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LVII, da Constituição. Sustenta que “Não se pode impedir ou restringir qualquer pessoa de direito ou benefício em razão da simples existência de demanda judicial ajuizada contra a sua pessoa, quando mais sem que proferida qualquer decisão sobre o caso, sequer em primeira instância”.
+    O recurso deve ser provido, tendo em vista que o acórdão recorrido está em desacordo com a jurisprudência do Supremo Tribunal Federal. Na espécie, discute-se se a constitucionalidade do ato da Administração que negou ao recorrente a renovação de credencial de instrutor de trânsito, tendo em conta ser réu em ação penal ainda em curso. Esta Corte, ao julgar controvérsia em que houve negativa de matrícula de candidatos em curso de formação para vigilantes, situação semelhante a dos autos, assentou que viola o princípio constitucional da não culpabilidade (art. 5º, LVII) a exclusão de candidato que possua contra si inquérito ou ação penal em curso. Nessa linha, vejam-se os seguintes julgados: RE 778.372-AgR, Rel. Min. Luiz Fux; RE 809.910-AgR, Rel. Min. Ricardo Lewandowski; e RE 827.546-AgR, Rel. Min. Dias Tofofli. Este último assim ementado:
+    “Agravo regimental no recurso extraordinário. Certificado de conclusão de curso de reciclagem de vigilante. Homologação. Negativa. Inquéritos e ações penais em curso. Princípio da presunção de inocência. Violação. Ocorrência. Precedentes.
+    1. No julgamento do RE nº 805.821/RS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski , concluiu-se que viola o princípio da presunção de inocência a negativa em homologar diploma de curso de formação de vigilante[ ] com fundamento em inquéritos ou ações penais sem o trânsito em julgado.
+    2. Agravo regimental não provido”.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário. Invertidos os ônus da sucumbência e sem condenação em honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+          Brasília, 22 de setembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
