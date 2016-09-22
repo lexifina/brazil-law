@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+    “ASSISTÊNCIA JUDICIÁRIA - Rendimentos auferidos pelo requerente não possibilitam, em presunção, a existência de condições financeiras satisfatórias a suportar pagamento das despesas processuais - Benefício concedido sob pena de inviabilizar, no caso em análise, acesso ao Judiciário - Pedido acolhido.
+    INDENIZAÇÃO - Danos morais - Preconceito racial - Ausente demonstração - Ônus que incumbia ao autor, nos termos do artigo 333, inciso I, do Código de Processo Civil - Sentença de improcedência mantida - Aplicação do disposto no art. 252 do Regimento Interno deste Tribunal - RECURSO PARCIALMENTE PROVIDO” (pág. 157 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a e d, da Constituição Federal, sustenta-se, em suma, violação ao art. 5º, caput e XLII, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem rejeitou pleito de indenização por danos morais, sob o entendimento de que
+    “(...) o autor não comprovou que foi vítima de conduta discriminatória praticada pelo réu, não tendo, portanto, se desincumbido do ônus probatório de provar o alegado preconceito racial, na forma do artigo 333, inciso I, do Código de Processo Civil” (pág. 161 do documento eletrônico 3).
+    Desse modo, para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF. Nesse sentido, destaco os seguintes precedentes desta Corte:
+    “EMENTA: DIREITO CIVIL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANO MORAL. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. RECURSO MANEJADO EM 11.4.2016. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido” (ARE 955.767-AgR/CE, Rel. Min. Rosa Weber, Primeira Turma).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL. RESPONSABILIDADE CIVIL. PUBLICAÇÃO EM BLOG. DANOS MORAIS. INDENIZAÇÃO. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 918.178-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de setembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
