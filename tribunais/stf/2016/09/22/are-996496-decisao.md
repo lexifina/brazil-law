@@ -1,0 +1,10 @@
+DECISÃO: O presente agravo foi interposto pela Telefônica Brasil S.A. contra decisão que negou trânsito ao apelo extremo por ela deduzido, no qual sustentou que o acórdão proferido pela Turma Recursal do Estado de Sergipe teria transgredido os preceitos inscritos nos arts. 1º, IV, 5º, V, X, XXXV, LV, 21, XI, e 22, IV, da Constituição da República.
+    Ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368, Rel. Min. MOREIRA ALVES – RTJ 131/1391, Rel. Min. CELSO DE MELLO – RTJ 144/300, Rel. Min. MARCO AURÉLIO – RTJ 153/989, Rel. Min. CELSO DE MELLO), incidem as Súmulas 282 e 356 desta Corte.
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    A configuração jurídica do prequestionamento – que traduz elemento indispensável ao conhecimento do recurso extraordinário – decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 – RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932,III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC/15, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil.
+    Publique-se.
+    Brasília, 22 de setembro de 2016.
+Ministro CELSO DE MELLO
+Relator
