@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à improcedência do pedido de indenização por danos morais e materiais. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação do artigo 37, § 6°, da Constituição federal. Discorre sobre a teoria do risco administrativo, afirmando a responsabilidade objetiva do agente público prestador de serviços pelo acidente sofrido em estabelecimento de ensino mantido pelo recorrido, considerada a ausência de vigilância à integridade física dos alunos.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão o seguinte trecho:
+    Conforme depreende-se das provas produzidas na instrução processual, sobretudo o depoimento do autor e testemunhas, os participantes foram devidamente instruídos a desfazer os laços. Segundo o que o próprio autor relatou, a monitora percorria a corda avisando um a um, antes do início da brincadeira. Afirmou, ainda, "que escutou o que a coordenadora disse quando ela estava falando com a pessoa (um homem) que estava atrás de si (segundo da fila)" (fl. 184).
+    De todo o relatado nos autos, emerge que, de fato, a atitude imprudente do autor, de não se atentar ao comando que fora expedido pelos monitores, ocasionou o incidente em tela. Caracterizada a culpa exclusiva da vitima, resta rompido o nexo de causalidade, capaz de imputar ao réu a responsabilidade pelo evento danoso.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Por fim, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 1.000,00 (mil reais), fixo os honorários recursais no patamar de R$ 500,00 (quinhentos reais), nos termos do artigo 85, § 11, do citado diploma legal. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos honorários  caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 22 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
