@@ -1,0 +1,14 @@
+Trata-se de agravo de decisão que negou seguimento a recurso extraordinário interposto contra acórdão cuja ementa segue transcrita:
+    “EMENTA – AGRAVO DE INSTRUMENTO – ANULATÓRIA DE ATO ADMINISTRATIVO – ANTECIPAÇÃO DOS EFEITOS DA TUTELA NAO CONCEDIDA – AUSÊNCIA DE COMPROVAÇÃO DE REQUISITO NECESSÁRIO.
+    Ausente a verossimilhança da alegação (art. 273 Código de Processo Civil), deve ser mantida a decisão de indeferimento da antecipação dos efeitos da tutela” (pág. 77 do doc. eletrônico 7).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 1º, IV e 5º, VIII, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Nos termos da jurisprudência desta Corte, as decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares, que podem ser novamente requeridas no curso do processo principal, não perfazem juízo definitivo de constitucionalidade a ensejar o cabimento do recurso extraordinário. Aplicam-se ao caso as razões que deram ensejo à Súmula 735 do STF. Nesse sentido, transcrevo a ementa do AI 597.618-AgR/SP, Rel. Min. Celso de Mello:
+    “AGRAVO DE INSTRUMENTO - ACÓRDÃO QUE CONFIRMA DEFERIMENTO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA - ATO DECISÓRIO QUE NÃO SE REVESTE DE DEFINITIVIDADE - MERA ANÁLISE DOS PRESSUPOSTOS DO ‘FUMUS BONI JURIS’ E DO ‘PERICULUM IN MORA’ - INVIABILIDADE DO APELO EXTREMO - RECURSO DE AGRAVO IMPROVIDO.
+    - Não cabe recurso extraordinário contra decisões que concedem ou que denegam a antecipação dos efeitos da tutela jurisdicional ou provimentos liminares, pelo fato de que tais atos decisórios - precisamente porque fundados em mera verificação não conclusiva da ocorrência do ‘periculum in mora’ e da relevância jurídica da pretensão deduzida pela parte interessada - não veiculam qualquer juízo definitivo de constitucionalidade, deixando de ajustar-se, em conseqüência, às hipóteses consubstanciadas no art. 102, III, da Constituição da República. Precedentes”.
+    Com essa mesma orientação, cito, ainda, os seguintes precedentes, entre outros: AI 612.888/PR e AI 652.802-AgR/CE, Rel. Min. Cármen Lúcia; AI 788.286/CE, Rel. Min. Eros Grau; AI 780.976/PE e AI 829.462/RS, Rel. Min. Ayres Britto; RE 570.610-AgR/DF e AI 694.440-AgR/RJ, Rel. Min. Joaquim Barbosa; AI 619.438-AgR/SP, Rel. Min. Ellen Gracie; RE 550.865-AgR/SP, Rel. Min. Cezar Peluso; AI 795.353/RJ, Rel. Min. Gilmar Mendes; AI 596.270/SP, Rel. Min. Dias Toffoli; RE 613.182-AgR/RJ, RE 631.292/RJ e RE 669.360/AP, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Deixo de majorar os honorários recursais previstos no art. 85, § 11, do Código de Processo Civil, uma vez que não foram fixados pelo juízo de origem.
+    Publique-se.
+    Brasília, 22 de setembro de 2016.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
