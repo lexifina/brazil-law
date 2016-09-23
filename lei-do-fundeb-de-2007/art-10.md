@@ -12,10 +12,12 @@ X - ensino médio urbano;
 XI - ensino médio no campo;
 XII - ensino médio em tempo integral;
 XIII - ensino médio integrado à educação profissional;
-XIV - educação especial;
-XV - educação indígena e quilombola;
-XVI - educação de jovens e adultos com avaliação no processo;
-XVII - educação de jovens e adultos integrada à educação profissional de nível médio, com avaliação no processo.
+XIV - formação técnica e profissional prevista no inciso V do caput do art. 36 da Lei nº 9.394, de 20 de dezembro de 1996;
+XV - segunda opção formativa de ensino médio, nos termos do § 10 do caput do art. 36 da Lei nº 9.394, de 1996;
+XVI - educação especial;
+XVII - educação indígena e quilombola;
+XVIII - educação de jovens e adultos com avaliação no processo; e
+XIX - educação de jovens e adultos integrada à educação profissional de nível médio, com avaliação no processo.
 § 1º A ponderação entre diferentes etapas, modalidades e tipos de estabelecimento de ensino adotará como referência o fator 1 (um) para os anos iniciais do ensino fundamental urbano, observado o disposto no § 1º do art. 32 desta Lei.
 § 2º A ponderação entre demais etapas, modalidades e tipos de estabelecimento será resultado da multiplicação do fator de referência por um fator específico fixado entre 0,70 (setenta centésimos) e 1,30 (um inteiro e trinta centésimos), observando-se, em qualquer hipótese, o limite previsto no art. 11 desta Lei.
 § 3º Para os fins do disposto neste artigo, o regulamento disporá sobre a educação básica em tempo integral e sobre os anos iniciais e finais do ensino fundamental.
