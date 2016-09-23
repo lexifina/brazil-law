@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA – AUSÊNCIA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A Primeira Turma Recursal Temporária dos Juizados Especiais do Tribunal de Justiça do Estado de Mato Grosso confirmou o entendimento do Juízo quanto à existência de danos morais indenizáveis, no valor fixado de R$ 8.000,00, em razão de cancelamento de voo. No extraordinário cujo trânsito pretende alcançar, a recorrente aponta a violação dos artigos 5º, incisos XXXV e LV, e 93, inciso IX, da Constituição Federal. Sustenta a inobservância dos princípios da razoabilidade e proporcionalidade na definição da valor da compensação.
+    2. A recorribilidade extraordinária mostra-se distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, consideradas as premissas constantes do ato impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    No caso dos autos os agravados contrataram os serviços da empresa agravante para realizar viagem em 18/12/2014, com partida às 3h19min e chegada às 9h00min. Todavia, a agravante de forma unilateral alterou o voo inicialmente contratado, para que a partida ocorresse às 9h47min, com chegada programada para as 19h43min.
+    Ocorre que ao comparecerem para embarque, os agravados foram informados que as passagens não estavam confirmadas para o horário alterado pela agravante, sendo então realizada nova realocação para partida às 11h43min e chegada às 23h00min. Assim, restou demonstrado nos autos que as alterações unilaterais realizadas pela empresa agravante ocasionaram a demora exacerbada na chegada ao destino dos agravados, o que a meu ver é passível de indenização por danos morais, como decidido pelo juízo monocrático. Com relação ao valor da indenização – R$ 8.000,00 (oito mil reais) – entendo que ela atende aos critérios da razoabilidade e proporcionalidade, bem como está em consonância com precedentes desta Turma Recursal, conforme decisões abaixo transcritas: (...)
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao pronunciamento atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, os argumentos expendidos no recurso não foram enfrentados pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula deste Tribunal.
+    3. Ante o quadro, conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, porquanto já arbitrados em patamar máximo pelo Colegiado de origem.
+    4. Publiquem.
+Brasília, 23 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
