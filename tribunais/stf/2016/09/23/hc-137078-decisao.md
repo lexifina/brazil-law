@@ -1,0 +1,39 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública do Estado de São Paulo em favor de Renan Silva dos Santos, contra decisão monocrática da lavra do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça, que indeferiu a liminar no HC 366.826/SP.
+    Em 13.3.2016, o paciente foi preso em flagrante delito, e, posteriormente, denunciado pela suposta prática de crime de provocar incêndio em mata ou floresta (art. 41 da Lei 9.605/1998).
+    O Juízo da 2ª Vara Criminal da Comarca de Limeira/SP concedeu liberdade provisória ao paciente, condicionando a expedição do competente alvará de soltura ao pagamento de fiança no valor de R$ 1.000,00 (mil reais). Após pedido de dispensa, o magistrado de primeiro grau reduziu a quantia para R$ 500,00 (quinhentos reais).
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça de São Paulo, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Ribeiro Dantas, indeferiu a liminar no HC 366.826/SP.
+    No presente writ, pugna a Impetrante, preliminarmente, pelo afastamento da Súmula 691/STF. Para tanto, alega a desproporcionalidade da prisão ante a comprovada falta de condições financeiras do paciente para pagamento da fiança arbitrada. Sustenta que, inobstante a possibilidade de dispensa da fiança, nos termos do art. 325, § 1º, I, do Código de Processo Penal, o paciente encontra-se preso desde 13.3.2016. Requer, em medida liminar e no mérito, a liberdade provisória com dispensa de fiança, com expedição do competente alvará de soltura em favor do paciente.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “A concessão de liminar em habeas corpus constitui medida excepcional, uma vez que somente pode ser deferida quando demonstrada, de modo claro e indiscutível, ilegalidade no ato judicial impugnado.
+    Na espécie, sem qualquer adiantamento do mérito da demanda, não vislumbro, ao menos neste instante, a presença de pressuposto autorizativo da concessão da tutela de urgência pretendida.
+    Assim, indefiro o pedido de liminar.
+    Solicitem-se informações ao Juízo da 3ª Vara Criminal da Comarca de Limeira, a serem prestadas preferencialmente por meio eletrônico, inclusive a senha de acesso para consulta do processo.
+    Após, encaminhem-se os autos ao Ministério Público Federal para parecer.
+    Cumpridas as diligências acima referenciadas, tornem-me conclusos”.
+    À falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    A compreensão expressa em tal verbete sumular tem sido abrandada em julgados desta Corte em hipóteses excepcionais, de flagrante ilegalidade, teratologia ou abuso de poder na denegação da tutela de eficácia imediata. Nesse sentido, v.g, as seguintes decisões colegiadas: HC 125.783/BA, de minha relatoria, 1ª Turma, DJe 27.3.2015; HC 124.052/PR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 24.11.2014; e HC 120.274/ES, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 20.6.2014.
+    Em juízo de cognição sumária, verifico a ocorrência de flagrante ilegalidade ensejadora do afastamento do mencionado verbete sumular.
+    Em 13.3.2016, o paciente foi preso em flagrante delito, e, posteriormente, denunciado pela suposta prática de crime de provocar incêndio em mata ou floresta (art. 41 da Lei 9.605/1998).
+    O Juízo da 2ª Vara Criminal da Comarca de Limeira/SP concedeu liberdade provisória ao paciente, condicionando a expedição do competente alvará de soltura ao pagamento de fiança no valor de R$ 1.000,00 (mil reais). Após pedido de dispensa, o magistrado de primeiro grau reduziu a quantia para R$ 500,00 (quinhentos reais).
+    Na dicção dos arts. 325 e 326 do Código de Processo Penal, a situação econômica do réu é o principal elemento a ser considerado no arbitramento do valor da fiança, a ensejar, na hipótese de insuficiência financeira, a dispensa do pagamento da garantia.
+    Na hipótese, o ora paciente, beneficiado com a liberdade provisória, continua preso desde o flagrante em 13.3.2016, há exatamente 6 (seis) meses e 10 (dez) dias, por falta de recolhimento da fiança fixada em R$ 500,00 (quinhentos reais). Além disso, ressalto: i) a manifestação favorável do Parquet Estadual pela concessão da liberdade provisória sem fiança ante o reconhecimento de que o paciente não possui condições financeiras; ii) a presunção de hipossuficiência jurídica e econômica do acusado assistido pela Defensoria Pública do Estado; iii) a inexistência de elementos concretos ensejadores da prisão preventiva; e iv) a possibilidade de imposição de medidas cautelares diversas da prisão do art. 319 do CPP.
+    Nesse diapasão, reputo ser injusto e desproporcional condicionar a expedição do respectivo alvará de soltura ao recolhimento da fiança.
+    Portanto, diante da incapacidade econômica do paciente, possível a concessão de liberdade provisória com a dispensa do pagamento da fiança, “sujeitando-o às obrigações constantes dos arts. 327 e 328 deste Código e a outras medidas cautelares, se for o caso”, nos termos do art. 325, § 1º, I, c/c art. 350, do Código de Processo Penal.
+    Destaco, ainda, que, no julgamento do HC 114.731/SP, Rel. Min. Teori Zavascki, por unanimidade, a 2ª Turma deste STF, em 01.4.2014, concedeu, de ofício, ordem de habeas corpus, para dispensar o pagamento da fiança dada a situação econômica do paciente, com a imposição de medidas cautelares diversas da prisão.
+    Anoto, por fim, em hipótese análoga à dos autos, o julgamento do HC 129.474/PR, de minha relatoria, j. 22.9.2015, DJe 13.10.2015, em que a 1ª Turma desta Suprema Corte concedeu ordem de habeas corpus, em acórdão assim ementado:
+    “HABEAS CORPUS. PROCESSO PENAL. SÚMULA 691/STF. AFASTAMENTO. TRÁFICO DE ENTORPECENTES. ARTIGO 33, CAPUT, DA LEI 11.343/2006. LIBERDADE PROVISÓRIA COM FIANÇA. SITUAÇÃO ECONÔMICA DO RÉU. DISPENSA. ARTIGOS 325, § 1º, I, E 350, DO CÓDIGO DE PROCESSO PENAL. CONCESSÃO DA ORDEM.
+    1. Em casos excepcionais, viável a superação do óbice da Súmula 691 desta Suprema Corte. Precedentes.
+    2. O magistrado de primeiro grau decidiu fundamentadamente pela concessão de liberdade provisória com fiança (art. 310, III, do CPP), porquanto inexistentes os elementos concretos indicativos de fuga do paciente, de interferência indevida na instrução processual ou de ameaça à ordem pública.
+    3. Na dicção dos arts. 325 e 326 do Código de Processo Penal, a situação econômica do réu é o principal elemento a ser considerado no arbitramento do valor da fiança.
+    4. Diante da incapacidade econômica do paciente, aplicável a concessão de liberdade provisória com a dispensa do pagamento da fiança, “sujeitando-o às obrigações constantes dos arts. 327 e 328 deste Código e a outras medidas cautelares, se for o caso”, nos termos do art. 325, § 1º, I, c/c art. 350, do Código de Processo Penal. Precedente.
+    5. Ordem de habeas corpus concedida para deferir o benefício da liberdade provisória com dispensa do pagamento de fiança e imediata expedição do competente alvará de soltura, ressalvada, se o caso, a imposição de medidas cautelares do art. 319 do Código de Processo Penal, pelo Juízo de origem.”
+    Ante o exposto, defiro a liminar para dispensar o paciente do pagamento da fiança, com a imediata expedição do competente alvará de soltura, ressalvada, se o caso, a imposição de medidas cautelares do art. 319 do Código de Processo Penal pelo Juízo de origem.
+    Comunique-se, com urgência.
+    Após, ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 23 de setembro de 2016.
+Ministra Rosa Weber
+Relatora
