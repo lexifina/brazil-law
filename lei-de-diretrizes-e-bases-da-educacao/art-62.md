@@ -6,3 +6,4 @@ Art. 62. A formação de docentes para atuar na educação básica far-se-á em 
 § 5º A União, o Distrito Federal, os Estados e os Municípios incentivarão a formação de profissionais do magistério para atuar na educação básica pública mediante programa institucional de bolsa de iniciação à docência a estudantes matriculados em cursos de licenciatura, de graduação plena, nas instituições de educação superior.
 § 6º O Ministério da Educação poderá estabelecer nota mínima em exame nacional aplicado aos concluintes do ensino médio como pré-requisito para o ingresso em cursos de graduação para formação de docentes, ouvido o Conselho Nacional de Educação - CNE.
 § 7º (VETADO).
+§ 8º Os currículos dos cursos de formação de docentes terão por referência a Base Nacional Comum Curricular.
