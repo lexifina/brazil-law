@@ -1,0 +1,10 @@
+Solução de Consulta Disit/SRRF10 nº 10075, de 19 de setembro de 2016
+ASSUNTO: Obrigações Acessórias
+EMENTA: SISCOSERV. SERVIÇO DE TRANSPORTE INTERNACIONAL. INFORMAÇÕES. RESPONSABILIDADE.
+A responsabilidade pelo registro no Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (Siscoserv) é do residente ou domiciliado no País que mantém relação contratual com residente ou domiciliado no exterior para a prestação do serviço.
+Prestador de serviços de transporte internacional é aquele que se obriga com quem quer enviar coisas (tomador do serviço) a transportá-las de um lugar para outro, entregando-as a quem foi indicado para recebê-las, obrigação esta que se evidencia pela emissão do conhecimento de carga. Quem se obriga a transportar, mas não é operador de veículo, deverá subcontratar alguém que efetivamente faça o transporte. Logo, simultaneamente, será prestador e tomador do serviço de transporte.
+Se o tomador e o prestador de serviços de transporte internacional forem ambos residentes ou domiciliados no Brasil, não surge a obrigação de prestação de informações no Siscoserv. A pessoa jurídica domiciliada no Brasil não se sujeita a registrar no Siscoserv o serviço de transporte internacional prestado por residente ou domiciliado no exterior, quando o prestador desse serviço for contratado por pessoa também residente ou domiciliada no exterior.
+SOLUÇÃO DE CONSULTA VINCULADA ÀS SOLUÇÕES DE CONSULTA COSIT Nº 257, DE 26 DE SETEMBRO DE 2014, Nº 222, DE 27 DE OUTUBRO DE 2015, E Nº 226, DE 29 DE OUTUBRO DE 2015.
+DISPOSITIVOS LEGAIS: Decreto-Lei nº 37, de 1966, art. 37, § 1º; Lei nº 10.406, de 2002 (Código Civil), arts. 730 e 744; Lei nº 12.546, de 2011, art. 25; Portarias Conjuntas RFB/SCS nº 1.908, de 2012, nº 43, de 2015, e nº 768, de 2016; Instrução Normativa RFB nº 800, de 2007, arts. 2º, II, e 3º; Instrução Normativa RFB nº 1.277, de 2012, art. 1º, §§ 1º, II, e 4º; e Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+Novo segmento
+[arquivo anexo: SC SRRF10-Disit nº 10075-2016.pdf]
