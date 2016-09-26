@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário.
+    Vê-se, porém, que não se observou o prazo de 10 (dez) dias para a interposição do agravo, conforme estabelecia o caput do artigo 544 do Código de Processo Civil de 1973, com a alteração da Lei nº 12.322/10.
+    Anote-se que a decisão que não admitiu o recurso extraordinário foi publicada no dia 18 de dezembro de 2015, sexta-feira (e-STJ fl. 183), e a petição do agravo, entretanto, foi protocolada somente em 15 de janeiro de 2016 (e-STJ fl. 185), após o término do prazo. É, portanto, intempestivo o agravo.
+    Ressalte-se, ademais, que, nos termos do artigo 102, inciso III, alínea “a”, da Constituição Federal, o recurso extraordinário é cabível apenas contra decisão proferida em última ou única instância, o que não é o caso dos presentes autos, uma vez que os embargos de declaração opostos contra o acórdão da apelação foram julgados por decisão monocrática do Relator.
+    Assim, tal julgado ainda dava margem à interposição de agravo regimental (artigo 557, § 1º, do Código de Processo Civil). Incidência da Súmula nº 281 desta Corte, que assim dispõe, in verbis: “É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada”. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO DECIDIDOS MONOCRATICAMENTE. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. NÃO ESGOTAMENTO DA INSTÂNCIA DE ORIGEM. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 719.846/RJ-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 6/3/13).
+    “DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO DECIDIDOS MONOCRATICAMENTE. NÃO ESGOTAMENTO DAS INSTÂNCIAS. SÚMULA 281/STF. De decisão monocrática proferida em embargos de declaração cabe recurso para o órgão colegiado, a teor do art. 557, § 1º, do CPC. Aplicação da Súmula 281/STF: “é inadmissível o recurso extraordinário, quando couber na Justiça de origem, recurso ordinário da decisão impugnada”. Agravo regimental conhecido e não provido” (AI n° 783.975/MG-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 21/08/12).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE ESGOTAMENTO DA INSTÂNCIA RECURSAL ORDINÁRIA. INCIDÊNCIA DA SÚMULA 281/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO EXTRAORDINÁRIO. O recurso extraordinário só é cabível quando seus requisitos constitucionais de admissibilidade ocorrem, e um deles é o de que a decisão recorrida decorra de causa julgada em única ou última instância (art. 102, III, da Constituição federal). A decisão monocrática proferida na apelação não esgotou as vias recursais ordinárias, porquanto ainda era cabível o agravo previsto no art. 557, § 1º, do CPC. Incidência, no caso, da Súmula 281/STF. Agravo regimental a que se nega provimento” (AI nº 824.547/PR-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa , Dje de 28/2/11).
+    Destaque-se, por fim, os requisitos de admissibilidade do presente recurso regem-se pelas disposições do Código de Processo Civil de 1973, regramento legal vigente quando da publicação das decisões impugnadas no recurso extraordinário e no respectivo agravo.
+    Ante o exposto, não conheço do agravo.
+    Publique-se.
+    Brasília, 26 de setembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
