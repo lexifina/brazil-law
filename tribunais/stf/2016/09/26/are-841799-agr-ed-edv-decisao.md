@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de embargos de divergência opostos contra acórdão da Segunda Turma desta Corte que, ao dar provimento a agravo regimental, reformou decisão que conhecera de agravo para negar seguimento a recurso extraordinário. Eis o teor da ementa:
+    ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDORES PÚBLICOS. ESTADO DO RIO DE JANEIRO. REAJUSTE CONCEDIDO PELA LEI ESTADUAL 1.206/87. EXTENSÃO AOS SERVIDORES DO PODER JUDICIÁRIO, COM FUNDAMENTO NO PRINCÍPIO DA ISONOMIA. ILEGITIMIDADE. SÚMULA VINCULANTE 37. JURISPRUDÊNCIA REAFIRMADA NO JULGAMENTO DO RE 592.317-RG (REL. MIN. GILMAR MENDES, PLENÁRIO, TEMA 315).
+    1. A extensão do reajuste instituído pela Lei Estadual 1.206/87 aos servidores públicos do Poder Judiciário do Estado do Rio de Janeiro, com base no princípio da isonomia, contraria firme jurisprudência do Supremo Tribunal Federal consubstanciada na Súmula Vinculante 37 (“Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”).
+    2. Agravo regimental provido.
+    Os embargos de declaração opostos foram rejeitados.
+    A parte embargante sustenta a divergência a partir do entendimento proferido no ARE 783.703-AgR (Rel. Min. ROSA WEBER, Primeira Turma), no sentido de que é inaplicável a Súmula 339/STF a reajuste dotado de caráter geral com a finalidade de recompor as perdas decorrentes da inflação.
+    Instado, o embargado manifestou-se pela não admissão dos embargos de divergência.
+    2. O Supremo Tribunal Federal já assentou que o recurso de embargos de divergência possui contornos rígidos, que não podem ser elastecidos quando ausentes as hipóteses específicas de sua admissibilidade (AI-741.876 AgR-ED-EDv-AgR-ED, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, DJe de 1º/8/2012). Assim, os embargos têm, como único condão, uniformizar entendimentos do Tribunal porventura dissonantes, não visando à mera revisão de acórdãos, sendo incabíveis quando a jurisprudência desta Corte estiver consolidada no sentido do acórdão embargado (RISTF, art. 332). Precedentes: AI 747.984-AgR-ED-EDv-AgR, Tribunal Pleno, Rel. Min. DIAS TOFFOLI, DJe de 1º/8/2013; RE 164.714-ED-EDv, Tribunal Pleno, Rel. Min. CEZAR PELUSO, DJE de 1º/2/2011; RE 433.257-AgR-ED-EDv-AgR, Tribunal Pleno, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 16/2/2007.
+    Nesse contexto, o presente recurso não merece prosperar, ante a inexistência de divergência a ser sanada, porquanto o Supremo Tribunal Federal assentou, para fins de repercussão geral, a tese de que “não é devida aos servidores do Poder Judiciário do Estado do Rio de Janeiro a extensão do reajuste concedido pela Lei n. 1.206/1987, dispensando-se a devolução das verbas eventualmente recebidas até 01º.09.2016 (data da conclusão deste julgamento)” (ARE 909.437-RG, Rel. Min. ROBERTO BARROSO, Plenário Virtual, julgado em 2/9/2016).
+    3. Diante do exposto, não admito os embargos de divergência.
+    Publique-se. Intime-se.
+    Brasília, 26 de setembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
