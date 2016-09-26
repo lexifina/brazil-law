@@ -1,0 +1,28 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+    “REEXAME NECESSÁRIO E APELAÇÃO CÍVEL – AÇÃO CIVIL PÚBLICA – DANO AO ERÁRIO – PREJUDICIAL DE MÉRITO – PRESCRIÇÃO – MATÉRIA NÃO CONHECIDA – PRECLUSÃO CONSUMATIVA – MÉRITO – CONTRATO DE PRESTAÇÃO DE SERVIÇO DE COBRANÇA – AUSÊNCIA DE REPASSE DE VALORES ARRECADADOS AO MUNICÍPIO – COMPROVAÇÃO DO DANO AO ERÁRIO – PERÍCIA JUDICIAL CONCLUSIVA – ÔNUS DA PROVA – ARTIGO 333, DO CPC – MULTA APLICADA NOS EMBARGOS DE DECLARAÇÃO – IMPOSSIBILIDADE DE EXCLUSÃO – PREQUESTIONAMENTO – REEXAME NECESSÁRIO IMPROVIDO – RECURSO VOLUNTÁRIO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
+    Não se conhece de parte do recurso que trata de questão já decidida nos autos, por força da preclusão consumativa.
+    Consoante regramento acerca do ônus da prova (artigo 333, do CPC), incumbe ao autor a prova do fato constitutivo do seu direito e ao réu a comprovação de fato impeditivo, modificativo ou extintivo do direito afirmado pelo autor.
+    Havendo provas conclusivas do dano ao erário provocado por empresa contratada pela administração pública para prestar serviços de cobrança amigável ou judicial de tributos devidos pelos contribuintes, é devida a condenação ao ressarcimento, sob pena de haver enriquecimento ilícito.
+    Mostrando-se evidente o caráter protelatório dos embargos de declaração, é devida a aplicação da multa prevista no artigo 538, parágrafo único, do CPC.
+    O prequestionamento pressupõe debate e decisão quanto à matéria, de sorte que a manifestação expressa sobre normativo é prescindível.
+    Reexame necessário improvido. Recurso voluntário parcialmente conhecido, na extensão conhecida, não provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, § 5º, da Constituição. Sustenta que: (i) “no caso em tela a repercussão geral do tema posto em debate é reconhecida. Prova disso é o RE 669.069/MG, que em recente julgamento o SUPREMO TRIBUNAL FEDERAL reconheceu a repercussão geral de caso idêntico ao presente”; (ii) “existiu ofensa à legislação federal na medida em que o TJMS deixou de reconhecer a prescrição, no acórdão combatido, por entender que essa já havia sido afastada outrora. Ocorre que a prescrição é matéria de ordem pública não alcançada pela preclusão, nas instâncias ordinárias”; (iii) “a presente ação deve ser extinta pela prescrição, haja vista tratar-se de contrato supostamente lesivo ao Erário cuja natureza não diz com improbidade administrativa, única hipótese, pois, como se viu, de imprescritibilidade da pretensão ressarcitória”.
+    O recurso não deve ser provido. A Procuradoria-Geral da República se manifestou nos autos sob os seguintes fundamentos:
+    “[...]
+    A interposição do recurso especial, para discussão da preclusão consumativa, não encontra amparo na sistemática processual. A discussão sobre temas processuais acessórios ao conhecimento da matéria constitucional é de competência do próprio STF. Assim, cabe ao STF decidir, por exemplo, sobre a tempestividade do recurso. Entendimento contrário redundaria em indevida delimitação do conhecimento de controvérsia constitucional, cuja competência é exclusiva do STF.
+    […]
+    O TJMS pronunciou-se sobre a prescrição da pretensão ressarcitória no acórdão que decidiu a primeira apelação. Dele o recorrente não interpôs nenhum recurso. A matéria, portanto, está preclusa. O retorno ao primeiro grau, para suprir cerceamento de defesa, não abre nova oportunidade ao debate da matéria já decidida. A nenhum juiz cabe decidir novamente as questões já decididas relativas à mesma lide, sendo vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão.
+    Por isso, não aproveita ao recorrente o fato de se tratar de matéria de ordem pública, que pode ser conhecida, inclusive de ofício, em qualquer tempo e grau de jurisdição. A matéria foi arguida e decidida oportunamente. A impugnação se deu extemporaneamente. Vale, portanto, o que decidido sobre a prescrição pelo tribunal de origem, o que somente poderá ser desconstituído, se for o caso, pela vias rescisória.
+    A contrariedade ao art. 37, § 5º, da CR somente poderia ser conhecida, após ultrapassada a preclusão reconhecida pelo tribunal de origem. Assim, não é o caso de observância da sistemática da repercussão geral, pois outro óbice processual impede a apreciação do recurso extraordinário.
+    [...]”
+    Correto o parecer do Ministério Público Federal. Com efeito, em que pese o debate acerca da alegação da prescrição possa ser alegada a qualquer tempo e grau de jurisdição, não assiste à parte o direito de suscitar de forma reiterada a questão, sobretudo mediante a verificação de provimento jurisdicional definitivo sobre matéria. Neste particular, veja-se o seguinte trecho do acórdão recorrido:
+    “[...]
+    Com relação à alegação de prescrição da pretensão de ressarcimento ao erário, esclarece-se que se trata de matéria que não pode ser conhecida porque alcançada pela preclusão consumativa.
+    Isto porque, quando do julgamento do recurso de apelação tirado contra a primeira sentença proferida nos autos (apelação cível n.º 0808864-95.2011.8.12.0002) e que fora anulada por este Tribunal, já havia sido analisada e afastada a tese de prescrição que agora é novamente suscitada.
+    [...]”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de setembro de 2015.
+Ministro Luís Roberto Barroso
+Relator
