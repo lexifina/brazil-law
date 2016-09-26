@@ -1,0 +1,29 @@
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIMES TIPIFICADOS NOS ARTIGOS 180 E 288, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL, E ARTIGO 16, PARÁGRAFO ÚNICO, IV, DA LEI Nº 10.826/2003. PLEITO POR ALVARÁ DE SOLTURA. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS PRECEDENTES. SUPRESSÃO DE INSTÂNCIA.
+- Seguimento negado, com esteio no artigo 21, § 1º do RISTF. Prejudicado o exame do pedido de medida liminar.
+- Ciência ao Ministério Público Federal.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra decisão de ministro do Superior Tribunal de Justiça, a qual transcrevo, in verbis:
+    “Trata-se de habeas corpus impetrado em benefício de Edivaldo Aparecido do Amaral, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo.
+    Dos autos, tem-se que o Juízo de Direito da 2ª Vara Judicial da comarca de Ubatuba/SP condenou o ora paciente à pena de 8 anos de reclusão, em regime inicial fechado, e pagamento de 26 dias-multa, pela prática dos crimes descritos no art. 16, parágrafo único, IV, da Lei nº 10.826/2003 e arts. 180 e 288, parágrafo único, ambos do Código Penal do Código Penal, facultado o recurso em liberdade.
+    Irresignada, a defesa apelou, objetivando a absolvição por falta de provas e, subsidiariamente, a diminuição das penas e a fixação do regime inicial semiaberto. O Tribunal a quo, por unanimidade, deu parcial provimento ao apelo defensivo, para aplicar a novatio legis in mellius em favor de todos os réus e fixar as penas básicas para o crime de associação criminosa armada em 1 ano e 6 meses de reclusão e redimensionar a reprimenda individual do ora paciente para 7 anos e 4 meses de reclusão e ao pagamento de 26 dias-multa, no piso mínimo, mantida, no mais, a r. Sentença condenatória, determinando, ainda, a expedição de mandado de prisão em desfavor do réu (Apelação nº 0004108-77.2009.8.26.0642 - fls. 8/41). Eis a ementa (fl. 9):
+    Apelação. Associação criminosa armada, porte ilegal de arma de fogo com numeração suprimida e receptação dolosa. Alegação de inépcia da denúncia e falta de justa causa para a ação penal afastada. Recursos defensivos buscando a absolvição por insuficiência probatória ou atipicidade da conduta. Impossibilidade. Conjunto probatório robusto, suficiente para sustentar a condenação dos réus. Superveniência da Lei nº 12.850/2013, que deu nova redação ao artigo 288 do CP e alterou suas penas. Reconhecimento da novatio legis in melius em favor dos réus, com mitigação da pena-base em relação a esse delito. Afastamento da reincidência em relação aos acusados Edicarlos, Uniredes, Leandro e Francisnei. Penas redimensionadas. Regime inicial aberto. e substituição da pena privativa de liberdade por restritiva de direito somente em relação ao réu Rodrigo. Regime inicial fechado mantido para os demais réus. Recursos parcialmente providos.
+    Neste writ, o impetrante sustenta, em síntese, que a determinação para expedir mandado de prisão antes do trânsito em julgado contraria preceitos constitucionais, entre eles presunção da inocência, devido processo legal, contraditório, dignidade humana e entre tantos outros (fl. 3).
+    Ressalta, ademais, que inexiste determinação do Supremo para expedição de mandado em segunda instância e sim deve ser levado em consideração o princípio da individualização da pena, cada caso ser analisado de maneira minuciosa. Destarte que no presente caso "in focus" a decretação da prisão é totalmente desnecessária [...] (fl. 5).
+    Requer, liminarmente e no mérito, a REVOGAÇÃO imediata da decisão que determinou a expedição do mandado de prisão acima citada, determinando-se a expedição imediata de contramandado de prisão; com expedição de alvará de soltura (fl. 7).
+    É o relatório.
+    Dúvidas não há de que o deferimento de liminar é medida excepcional, cabível apenas em hipóteses de patente ilegalidade.
+    Relativamente à pretensão do ora paciente aguardar em liberdade o trânsito em julgado da decisão condenatória, a despeito do meu ponto de vista em sentido contrário, a Sexta Turma, na sessão de 2/8/2016, ao apreciar o HC n. 360.602/MG, reafirmou a possibilidade de se determinar a execução provisória da pena privativa de liberdade quando esgotadas as vias ordinárias, como na espécie.
+    Sob este cenário, indefiro, portanto, a liminar.”
+    Consta dos autos que o paciente foi condenado à pena de 8 (oito) anos de reclusão, em regime inicial fechado, e pagamento de 26 dias-multa, pela prática dos crimes tipificados no artigo 16, parágrafo único, IV, da Lei nº 10.826/2003 e nos artigos 180 e 288, parágrafo único, do Código Penal.
+    Neste habeas corpus o impetrante reitera as alegações deduzidas na instância a quo.
+    É o relatório. DECIDO.
+    O Supremo Tribunal Federal segue, de forma pacífica, a orientação de que não lhe cabe julgar habeas corpus de decisão liminar proferida em idêntico remédio constitucional em curso nos tribunais superiores, conforme o enunciado n. 691 da Súmula desta Corte, verbis: “[n]ão compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.”
+    In casu, não ressai teratologia ou flagrante ilegalidade da decisão que negou o pedido de liminar na instância a quo.
+    Ademais, qualquer antecipação desta Corte sobre o mérito do pedido de habeas corpus implicaria supressão de instância, devendo aguardar-se o fim da tramitação do pedido no STJ para, se for o caso, interpor-se o recurso cabível.
+    Ex positis, NEGO SEGUIMENTO ao pedido de habeas corpus, por ser manifestamente incabível nos termos do 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Julgo prejudicado o exame da medida cautelar.
+    Dê-se ciência ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 26 de setembro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
