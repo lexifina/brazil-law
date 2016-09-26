@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de recurso ordinário em “habeas corpus”, com pedido de medida liminar, interposto contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “’HABEAS CORPUS’. ESTELIONATO. PRISÃO PREVENTIVA. ART. 312 DO CPP. ‘PERICULUM LIBERTATIS’. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. ‘HABEAS CORPUS’ DENEGADO.
+    1. A jurisprudência desta Corte Superior é firme em assinalar que a determinação de segregar cautelarmente o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (‘periculum libertatis’), à luz do disposto no art. 312 do CPP.
+    2. O Juiz de primeira instância apontou concretamente a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para justificar a necessidade de colocar o paciente cautelarmente privado de sua liberdade, pois destacou que ‘os réus pertencem à sofisticada organização criminosa, a qual já causou lesão a centenas de vítimas idosas, com prejuízos milionários e lamentáveis ruínas de patrimônios familiares formados ao longo de décadas’ e que ‘não se deve olvidar as quinze anotações de processos criminais na FAC do réu [já condenado] Helber com duas absolvições’.
+    3. ‘Habeas corpus’ denegado.”
+    (HC 284.077/RJ, Rel. Min. ROGERIO SCHIETTI CRUZ – grifei)
+    Busca-se, nesta sede recursal, seja revogada a prisão cautelar do paciente, ora recorrente.
+    O exame da presente causa evidencia a ocorrência, na espécie, de hipótese configuradora de perda superveniente de objeto deste recurso ordinário em “habeas corpus”.
+    Com efeito, em consulta aos registros processuais que esta Suprema Corte mantém em sua página oficial na “Internet”, verifico constar o ARE 958.291/RJ, de que fui Relator, no qual Helber Henrique da Costa figurou como recorrente.
+    Ao apreciar o mencionado agravo, não conheci do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível. A parte recorrente então interpôs “agravo regimental”, ao qual foi negado provimento pela colenda Segunda Turma desta Corte na sessão realizada em 17/05/2016. Opostos embargos de divergência, foram eles por mim inadmitidos em 01/08/2016.
+    Observo, por necessário, que, em 02/09/2016, a Secretaria Judiciária do Supremo Tribunal Federal certificou “(…) que a decisão publicada em 09/08/2016 transitou em julgado, para parte recorrente, em 25/08/2016 (...)” (grifei).
+    Vê-se, portanto, que já se consumou, no caso, a coisa julgada penal em sentido material, em ordem a tornar definitiva a pena de reclusão imposta ao paciente, prejudicando qualquer exame em torno da legitimidade da mera decretação de sua prisão cautelar.
+    Na realidade, o presente caso representa uma típica hipótese de novação do título jurídico legitimador da constrição do “status libertatis” do paciente, que deriva não mais do exercício, pelo Estado, da tutela cautelar penal, mas resulta, agora, de título condenatório definitivo fundado em condenação penal irrecorrível.
+    A ocorrência desse fato assume relevo processual, eis que faz instaurar, na espécie, situação de prejudicialidade, apta a gerar a extinção deste recurso ordinário em face da superveniente perda de seu objeto.
+    Enfatize-se, por oportuno, que esse posicionamento que venho de referir encontra apoio na jurisprudência do Supremo Tribunal Federal (RTJ 132/1185, Rel. Min. OCTAVIO GALLOTTI – HC 55.437/ES, Rel. Min. MOREIRA ALVES – HC 58.903/MG, Rel. Min. CUNHA PEIXOTO – HC 64.424/RJ, Rel. Min. NÉRI DA SILVEIRA – HC 69.236/PR, Rel. Min. PAULO BROSSARD – HC 74.107/SP, Rel. Min. MAURÍCIO CORRÊA – HC 74.457/RN, Rel. Min. NÉRI DA SILVEIRA – HC 80.448/RN, Rel. Min. SEPÚLVEDA PERTENCE – HC 84.077/BA, Rel. Min. GILMAR MENDES – HC 113.121/MG, Rel. Min. ROSA WEBER – RHC 82.345/RJ, Rel. Min. MAURÍCIO CORRÊA, v.g.), cabendo destacar, entre outras, as seguintes decisões que esta Corte proferiu a propósito do tema ora em exame:
+    “Superados os motivos de direito ou de fato que configuravam situação de injusto constrangimento à liberdade de locomoção física do paciente, e afastada, em consequência, a possibilidade de ofensa ao seu ‘status libertatis’, reputa-se prejudicado o ‘habeas corpus’ impetrado em seu favor.  Precedentes.”
+    (RTJ 141/502, Rel. Min. CELSO DE MELLO)
+    “– A superveniente modificação do quadro processual, resultante de inovação do estado de fato ou de direito ocorrida posteriormente à impetração do ‘habeas corpus’, faz instaurar situação configuradora de prejudicialidade (RTJ 141/502), justificando-se, em consequência, a extinção anômala do processo.”
+    (RHC 83.799-AgR/CE, Rel. Min. CELSO DE MELLO)
+    Sendo assim, e tendo em consideração as razões expostas, julgo  prejudicado o presente recurso ordinário, inviabilizando-se, em consequência, o exame do pedido de medida liminar.
+    Devolvam-se os presentes autos ao E. Superior Tribunal de Justiça.
+    Publique-se.
+    Brasília, 26 de setembro de 2016.
+Ministro CELSO DE MELLO
+Relator
