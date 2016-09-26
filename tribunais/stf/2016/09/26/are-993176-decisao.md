@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 195, I, “b”, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há que se falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    Ementa: DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PIS/COFINS. LEI Nº 10.637/2002. SUPOSTA APLICAÇÃO DA LEGISLAÇÃO ANTERIOR, BEM COMO DA DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ART. 3º DA LEI Nº 9.718/1998. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, dissentir das conclusões do acórdão recorrido sobre a inaplicabilidade ao caso a Lei nº 10.637/2002, bem como sobre a aplicabilidade da declaração de inconstitucionalidade do art. 3º da Lei nº 9.718/98, demandaria o reexame do conjunto fático-probatório, bem como de legislação infraconstitucional. 2. Agravo regimental a que se nega provimento.
+(RE 834.433 -AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, Dje de 15/6/2016)
+    EMENTA Agravo regimental no agravo regimental no recurso extraordinário. Instituições não financeiras. PIS/COFINS. Base de cálculo. Ampliação. Inconstitucionalidade do § 1º do art. 3º da Lei nº 9.718/98. Matéria fática não passível de revolvimento. Súmula nº 279/STF. 1. O resultado do julgamento do RE nº 400.479, Relator o Ministro Cezar Peluso não influenciará, sob qualquer aspecto, o julgamento do caso vertente, eis que a agravante HSBC Serviços e Participações Ltda. não é instituição financeira e os créditos relativos à HSBC Bank Brasil S/A “restringem-se àqueles da sociedade incorporada HSBC Participações (Brasil) Ltda, até a data da incorporação” (fl. 616). 2. A pacífica jurisprudência da Corte já declarou a inconstitucionalidade da ampliação da base de cálculo da contribuição para o PIS e da COFINS, perpetradas pelo § 1º do art. 3º da Lei nº 9.718/98. 3. Considerando o que até aqui ficou assentado, evidencia-se que, para decidir de maneira diversa, mister seria o revolvimento do conjunto fático probatório, inclusive no que se refere aos créditos que efetivamente são objeto de discussão, o que é vedado, a teor da Súmula nº 279/STF. 4. Agravo regimental não provido.
+(RE 584.248 AgR-AgR, Rel.Min. DIAS TOFFOLI, Primeira Turma, Dje de 30/10/2013)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de setembro de 2016.
+Ministra Rosa Weber
+Relatora
