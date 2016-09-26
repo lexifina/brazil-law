@@ -1,0 +1,14 @@
+DESPACHO
+    1. Suspensão de liminar, com requerimento de medida liminar, ajuizada pelo Instituto Nacional de Colonização e Reforma Agrária – Incra contra decisões proferidas nos autos do Agravo de Instrumento n. 0065085-40.2015.4.01.0000/PA (Ação Ordinária n. 0003189-86.2013.4.01.3905/PA) e do Agravo de Instrumento n. 0025853-21.2015.4.01.0000/PA (Ação Civil Pública n. 0006466-30.2010.4.01.3901).
+    2. Em 16.3.2016, o Ministro Ricardo Lewandowski deferiu parcialmente a medida liminar:
+    “Como é cediço, a jurisdição é atividade estatal que tem como escopo principal a pacificação de conflitos sociais, garantindo os direitos que cada um dos atores sociais já não mais pode individualmente defender ou autotutelar.
+    No entanto, as decisões proferidas criam situação de extrema insegurança jurídica para os colonos assentados nas terras em litígio, que, após participarem de processo de extrusão da TI Apyterewa, foram alojados no assentamento Belauto, e agora podem ser novamente removidos, em razão da retomada da posse das terras em litígio.
+    Nesse contexto, considerando as informações trazidas aos autos, de que há 200 (duzentas) famílias de colonos não indígenas que foram assentadas pela FUNAI, após processo de extrusão da TI Apyterewa, e residem em parte de imóvel registrado em nome da UNIÃO, e ante o risco de iminentes conflitos sociais relatados pelo ente público, entendo, nesse juízo perfunctório, que o imediato cumprimento das decisões proferidas, antes do trânsito em julgado das ações originárias, potencializará os conflitos na região, comprometendo a segurança pública.
+    Ante o exposto, defiro liminarmente e em parte a medida requerida e determino a suspensão da decisão proferida no autos do AI 0065085-40.2015.4.01.0000/PA, originário da Ação Ordinária 0003189-86.2013.4.01.3905/PA, no AI 0025853-21.2015.4.01.0000/PA, originário da ACP 0006466-30.2010.4.01.3901, a fim de manter o INCRA na posse do imóvel sob litígio e permitir a liberação de recursos apenas para as famílias de colonos não indígenas já assentadas na Fazenda Belauto, vedada a possibilidade de novos assentamentos, até o trânsito em julgado das demandas principais.
+    Determino, ainda, que o INCRA e a FUNAI apresentem laudos técnicos, no prazo de 10 dias, que comprovem a capacidade produtiva das terras em litígio, haja vista a existência de laudo que afirma ser o local uma reserva de minérios imprópria para cultivo” (DJ 21.3.2016).
+    3. O Instituto Nacional de Colonização e Reforma Agrária - Incra e a Fundação Nacional do Índio - Funai foram intimados para prestarem informações.
+    4. Dê-se vista à Procuradoria-Geral da República para se manifestar sobre o mérito, no prazo de cinco dias (art. 297, § 1º, do Regimento Interno do Supremo Tribunal Federal e art. 4º Lei n. 8.437/1992).
+    Publique-se.
+    Brasília, 26 de setembro de 2016.
+Ministra CÁRMEN LÚCIA
+Presidente
