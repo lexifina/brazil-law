@@ -1,0 +1,5 @@
+# Lei nº 6.886, de 5 de setembro de 2016, do Estado do Piauí
+
+OBRIGA AS OPERADORAS DE TELEFONIA MÓVEL E FIXA QUE ATUAM NO ÂMBITO DO ESTADO DO PIAUÍ, A DISPONIBILIZAREM, EM SEUS PORTAIS NA INTERNET,EXTRATO DETALHADO DE CONTA DAS CHAMADAS TELEFÔNICAS E SERVIÇOS UTILIZADOS NA MODALIDADE DE RECARGA DE CRÉDITOS POR PAGAMENTO ANTECIPADO,TAMBÉM CONHECIDA COMO "PLANO PRÉ-PAGO", E DÁ OUTRAS PROVIDÊNCIAS.
+
+Fonte: Assembleia Legislativa (sapl.al.pi.leg.br), <https://sapl.al.pi.leg.br/norma/3988>; texto: <http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2016/3988/3988_texto_integral.pdf>
