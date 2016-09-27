@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se agravo cujo objeto é decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado:
+    “MANDADO DE SEGURANÇA. AGENTE PENITENCIÁRIO. REPROVAÇÃO EM EXAME PSICOTÉCNICO. PRELIMINARES DE CARÊNCIA DE AÇÃO E ILEGITIMIDADE PASSIVA REJEITADAS NA FORMA DO VOTO CONDUTOR. CONCURSO PÚBLICO. AVALIAÇÃO PSICOLÓGICA. PREVISÃO LEGAL. CARÁTER ELIMINATÓRIO. LEGALIDADE. EXAME DE CARÁTER SUBJETIVO E SIGILOSO. IMPOSSIBILIDADE. VIOLAÇÃO AO PRINCÍPIO DA IMPESSOABILIDADE. IRRECORRIBILIDADE MATERIAL COMPROVADA. PEDIDO DE CONTINUIDADE NAS DEMAIS ETAPAS. DEFERIMENTO PARA DETERMINAR A CONTINUIDADE DO CANDIDATO NOS EXAMES PRÉ-ADMISSIONAIS E INGRESSO NO CURSO DE FORMAÇÃO SE APROVADO NOS DEMAIS REQUISITOS. MANTIDA A PRERROGATIVA DE O ESTADO EFETUAR NOVA AVALIAÇÃO DENTRO DOS PARÂMETROS LEGAIS INCLUSIVE COM EVENTUAL ELIMINAÇÃO. NOMEAÇÃO E POSSE CONDICIONAIS À APROVAÇÃO E AO CUMPRIMENTO DA ORDEM CLASSIFICATÓRIA. SEGURANÇA CONCEDIDA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XIII, XXXIV, a, XXXV, LIV, LV, LXIX; 37, caput, I, e II; e 93, IX, todos da Constituição.
+    O recurso não deve ser provido. A conclusão do Tribunal de origem coincide com a jurisprudência do Supremo Tribunal Federal, que não admite a atribuição de caráter sigiloso ao resultado de exame psicotécnico previsto em edital de concurso público, uma vez que inviabiliza sua recorribilidade. Veja-se o RE 372.100-AgR, julgado sob a relatoria do Ministro Ayres Britto, assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. MILITAR DAS FORÇAS ARMADAS. EXAME PSICOTÉCNICO. 1. AUSÊNCIA DE CRITÉRIOS OBJETIVOS. IRRECORRIBILIDADE. CARÁTER SIGILOSO. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. 2. REEXAME DE FATOS E PROVAS.
+    1. Nos termos da jurisprudência do Supremo Tribunal Federal, o exame psicotécnico é de: a) estar previsto em lei em sentido formal (Súmula 686/STF; AI 758.533-QO, sob a relatoria do ministro Gilmar Mendes); b) ser pautado em critérios objetivos (RE 243.926, sob a relatoria do ministro Moreira Alves); c) viabilizar a recorribilidade de seus resultados (AI 265.933-AgR, sob a relatoria do ministro Sepúlveda Pertence; AI 467.616-AgR, sob a relatoria do ministro Celso de Mello; e RE 326.349-AgR, sob a relatoria do ministro Gilmar Mendes).
+    2. É de incidir a Súmula 279/STF.
+    Agravo regimental a que se nega provimento.”
+    Dissentir da conclusão adotada pelo Tribunal de origem quanto às demais questões pressupõe, necessariamente, a análise de legislação infraconstitucional e o reexame dos fatos, do material probatório contantes dos autos (Súmulas 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 27 de setembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
