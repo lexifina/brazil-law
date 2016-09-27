@@ -1,0 +1,28 @@
+Despacho: Trata-se de ação direta de inconstitucionalidade ajuizada pelo Partido Verde em face do regramento dado pela Lei 10.826/2003 (Estatuto do Desarmamento) ao porte de armas dos Guardas Municipais.
+    Destaco o teor do dispositivo impugnado, verbis :
+      Art. 6º É proibido o porte de arma de fogo em todo o território nacional, salvo para os casos previstos em legislação própria e para:
+    (...)
+      IV - os integrantes das guardas municipais dos Municípios com mais de 50.000 (cinqüenta mil) e menos de 500.000 (quinhentos mil) habitantes, quando em serviço.
+    Sustenta o requerente, em síntese, a inconstitucionalidade do dispositivo impugnado por ferir o princípio da isonomia e o pacto federativo ao limitar o direito de porte de armas dos Guardas Municipais, em serviço e fora dele, a um determinado contingente populacional.
+    O Sindicato dos Guardas Municipais do Maranhão – SIGMEMA (eDOC 28) e o Sindicato dos Servidores da Guarda Municipal de São José de Ribamar – SINDGUARDA (eDOC 32) requereram a admissão no feito na condição de amicus curiae em peças subscritas por advogada regularmente constituída para atuar no presente feito.
+    O Sindicato dos Guardas Municipais do Maranhão sustenta representar a categoria dos Guardas daqueles Municípios que não tenham sindicato de base. Alega ter atuado na defesa dos direitos dos Guardas Municipais, participando, como grupo de interesse, na aprovação da CL 39/2014 do qual resultou a Lei Federal 13.022/2014 – Estatuto dos Gurdas das Guardas Municipais. Em outras palavras o sindicato alega estar apto para contribuir com o tema em pauta, pois conhece não só a realidade dos Gurdas Municipais do Maranhão, mas também a realidade da segurança pública de todo o país.
+    O Sindicato dos Servidores da Guarda Municipal de São José de Ribamar, terceiro maior Município do Estado do Maranhão, alega de igual modo, representar a categoria na defesa dos seus direitos. Alega, também, ter profundo conhecimento da matéria em questão, qual seja, do porte de armas, da atuação das Guardas Municipais e dos respectivos estatutos. Sustenta, assim, estar capacitado para colaborar, na condição de amici curiae, com a tese defendida na presente ação.
+    Decido.
+    Admissão no feito na condição de amici curiae
+    O amicus curiae revela-se como importante instrumento de abertura do STF à participação na atividade de interpretação e aplicação da Constituição, o que é especialmente marcante nos processos de feição objetiva.
+    Como é sabido, a interação dialogal entre o STF e pessoas naturais ou jurídicas, órgãos ou entidades especializadas, que se apresentem como amigos da Corte, tem um potencial epistêmico de apresentar diferentes pontos de vista, interesses, aspectos e elementos nem sempre alcançados, vistos ou ouvidos pelo Tribunal diretamente da controvérsia entre as partes em sentido formal, possibilitando, assim, decisões melhores e também mais legítimas do ponto de vista do Estado Democrático de Direito.
+    O vigente Código de Processo Civil inovou ao incorporar ao ordenamento jurídico nacional regramento geral para o instituto no âmbito da jurisdição civil.
+    É extremamente salutar que a Corte reflita com vagar sobre as vascularidades existentes entre o regramento das ações de controle de constitucionalidade perante o Supremo Tribunal Federal e o Processo Civil em geral, especialmente no que diz respeito à legitimidade recursal, etc.
+    De qualquer sorte, consoante disposto no art. 7º, §2º da Lei 9.868/1999, nesse ponto em recomendável leitura integrativa com o art. 138, caput, do CPC, duas balizas se fazem necessárias para a sua admissão.
+    De um lado, tem-se a necessidade de relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia. De outro, a representatividade adequada do amicus curiae.
+    Cabe, portanto, analisar pormenorizadamente a presença da adequada representatividade dos postulantes para atuar no feito.
+    O SIGMEMA é o sindicato que representa a categoria profissional dos Guardas Municipais com abrangência em todo o Estado do Maranhão.
+    O SINDGUARDA, entidade sem fins lucrativos e integrante do Sistema Confederativo de representação sindical, destina-se à defesa dos interesses coletivos e individuais da categoria de servidores, ativos e inativos, da Guarda Municipal de São José de Ribamar – MA. Assim, são prerrogativas do sindicato, entre outras, “defender os direitos coletivos ou individuais da categoria; atuar como órgão técnico e consultivo no estudo e solução dos problemas que se relacionam com a categoria; promover cursos, congressos, seminários, encontros e outros eventos destinados a elevar o nível de organização, conscientização e da cidadania da categoria”. (e-DOC 34, p.1-2).
+    Desse modo, o SIGMEMA e o SINDGUARDA demonstraram possuir representatividade temática material e espacial. Portanto, mostraram ser entidades legítimas à condição de amicus curiae em virtude da possibilidade de contribuírem de forma relevante, direta e imediata no tema em pauta.
+    Diante do exposto, admito o Sindicato dos Guardas Municipais do Maranhão e o Sindicato dos Servidores da Guarda Municipal de São José de Ribamar como amicus curiae, nos termos do art. 7º, §2º, da Lei nº 9.868/1999, facultando-lhes, desde já, a apresentação de informações, memoriais escritos nos autos e de sustentação oral por ocasião do julgamento definitivo do mérito da presente ação direta de inconstitucionalidade.
+    À Secretaria para as providências necessárias.
+    Publique-se. Intime-se.
+    Brasília, 27 de setembro 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
