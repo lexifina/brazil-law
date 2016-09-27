@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – AUSÊNCIA DE PREQUESTIONAMENTO – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para a síntese do decidido pelo Tribunal de Justiça do Estado da Bahia:
+    MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PRELIMINAR REJEITADA. DATAS IDÊNTICAS PARA REALIZAÇÃO DE EXAMES DE CONCURSOS DIFERENTES PELA CESPE. CANDIDATO AUSENTE EM EXAME PSICOLÓGICO. DATA ADIADA POR DUAS VEZES PARA A REALIZAÇÃO DO TESTE PSICOLÓGICO NO CONCURSO DA POLÍCIA CIVIL DO ESTADO DA BAHIA. CASO FORTUITO. PRECEDENTES DO STJ . CONCESSÃO DA SEGURANÇA. AGRAVO REGIMENTAL PREJUDICADO.
+    1. PRELIMINAR DE ILEGITIMIDADE PASSIVA DO SECRETÁRIO DE ADMINISTRAÇÃO – O Edital do certame foi aberto por ambas autoridades coatoras, e regula as atribuições das Autoridades Impetradas, não sendo possível responsabilizar, isoladamente, o Comandante Geral da Polícia Militar pelo ato de exclusão do candidato. Prefacial rejeitada.
+    2. No mérito, observa-se que o presente "writ" violaria direito líquido e certo, tendo em vista o atraso na marcação da data do exame Psicológico ter ocorrido devido à falha técnica do Instituto responsável por sua apuração, inclusive, marcando a mesma data de exames para Concursos diferentes, conforme consta nos documentos de fls. 60/62, as avaliações tiveram datas e horários iguais, qual seja 17/11/2013, o que impossibilitou a participação do Impetrante nos dois eventos.
+    3. Logo, diante da situação fático-jurídica examinada, tem-se que, na aplicação harmônica dos princípios jurídicos, devem ser enfatizadas a razoabilidade, a ponderação e a proporcionalidade, em favor da conciliação dos interesses público e particular. "In casu", o Superior Tribunal de Justiça, tem o mesmo entendimento através da ementa transcrita adiante.
+    4. CONCEDE-SE A SEGURANÇA para ratificar a ordem liminar, estando configurado o direito líquido e certo do Impetrante.
+    No extraordinário cujo processamento busca alcançar, o recorrente aponta a violação dos artigos 5º, incisos XII, XXXV e LXIX, e 37, cabeça e inciso II, da Constituição Federal. Argui a nulidade do acórdão relativo aos embargos de declaração, por negativa de prestação jurisdicional. Afirma a inexistência do direito pleiteado. Afirma ter sido contrariado o princípio da isonomia.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    No mérito, observa-se que o presente "writ" violaria direito líquido e certo, tendo em vista o atraso na marcação da data do exame Psicológico ter ocorrido devido à falha técnica do Instituto responsável por sua apuração, inclusive, marcando a mesma data de avaliação para Concursos diferentes, conforme consta nos documentos de fls. 60/62, as avaliações tiveram datas e horários iguais, qual seja 17/11/2013, o que impossibilitou a participação do Impetrante nos dois eventos.
+    Logo, diante da situação fático-jurídica examinada, tem-se que, na aplicação harmônica dos princípios jurídicos, devem ser enfatizadas a razoabilidade, a ponderação e a proporcionalidade, em favor da conciliação dos interesses público e particular.
+    [...]
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, os argumentos expendidos no recurso não foram enfrentados pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula deste Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 27 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
