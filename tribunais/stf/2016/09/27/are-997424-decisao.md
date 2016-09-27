@@ -1,0 +1,13 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto em face de acórdão assim ementado.
+    “TRIBUTÁRIO. REVENDEDORA DE AUTOMÓVEIS. CONTRIBUIÇÃO PARA O PIS E COFINS. EXCLUSÃO DO IPI. IMPOSSIBILIDADE. ART. 3º, § 1º, DA INSTRUÇÃO NORMATIVA 54/2000. LEGALIDADE. PRESCRIÇÃO QUINQUENAL. AÇÃO AJUIZADA APÓS 08/06/2005. PRECEDENTES DESTA CORTE.
+    1. Reconhecida, pelo Supremo Tribunal Federal, a inconstitucionalidade art. 4º, segunda parte, da Lei Complementar 118/05, considera-se válida a aplicação do novo prazo de 5 anos tão-somente às ações ajuizadas após o decurso da vacatio legis de 120 dias, ou seja, a partir de 9 de junho de 2005. Aplicação do art. 543-B, § 3º, do CPC aos recursos sobrestados. Recurso extraordinário desprovido. (Cf. RE 566621/RS, da Relatoria da Ministra Ellen Gracie, Tribunal Pleno, DJe 11/10/2011; p. 273).
+    2. Nos termos do entendimento firmado no Superior Tribunal de Justiça, no regime da substituição tributária, o IPI não pode ser deduzido da base de cálculo do PIS e da COFINS, por ausência de norma autorizadora, e que a IN 54/2000 não padece de ilegalidade ao determinar, em seu art. 3º, § 1º, que, para efeito de contribuições recolhidas no regime de substituição, considera-se preço de venda do fabricante ou importador o preço do produto acrescido do IPI incidente na operação. Precedente: Processo AgRg no AREsp 372875 RJ 2013/0221502-1 Decisão:24/09/2013. DJe 04/10/2013. AgRg no AREsp 165086 / RJ AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL 2012/0083430-0. Relator(a) Ministro HERMAN BENJAMIN. Órgão Julgador: SEGUNDA TURMA. Data do Julgamento: 12/06/2012. Data da Publicação/Fonte DJe 26/06/2012.
+    3. Apelação a que se nega provimento”.
+    Os recorrente defendem que a decisão monocrática agravada tratou de matéria estranha a lide.
+    Com razão os recorrentes. A matéria em exame é objeto do RE 605.506 (Tema 303), de relatoria da Ministra Rosa Weber, que está sob a sistemática da repercussão geral. Trata-se de recurso extraordinário em que se discute, à luz dos arts. 145, § 1º; 150, § 7º; e 195, I, b, da Constituição Federal, a constitucionalidade, ou não, da cobrança do Imposto sobre Produtos Industrializados - IPI na base de cálculo do Programa de Integração Social - PIS e da Contribuição para o Financiamento da Seguridade Social - COFINS exigida e recolhida pelas montadoras de veículos em regime de substituição tributária.
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 27 de setembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
