@@ -1,0 +1,39 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. JULGAMENTO MONOCRÁTICO (ART. 1.024, § 2º, DO CPC/2015). AUSÊNCIA DE RECOLHIMENTO DE MULTA FIXADA PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. CONDIÇÃO DE RECORRIBILIDADE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+Relatório
+    1. Em 11.6.2015, o Plenário do Supremo Tribunal Federal proferiu a seguinte decisão:
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. REDISCUSSÃO DA MATÉRIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. RECURSO MANIFESTAMENTE PROTELATÓRIO. MULTA. EMBARGOS NÃO CONHECIDOS.
+    I – Ausência dos pressupostos do art. 535, I e II, do Código de Processo Civil.
+    II – Busca-se tão somente a rediscussão da matéria e os embargos de declaração, por sua vez, não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão.
+    III – Embargos manifestamente protelatórios. Condenação à multa de 1% do valor atualizado da causa (art. 538, parágrafo único, do CPC).
+    IV – Embargos de declaração não conhecidos” (fl. 1.074).
+    2. Contra esse julgado, Carlos Roberto Micelli interpôs agravo regimental, julgado pelo então Presidente do Supremo Tribunal Federal nos seguintes termos:
+    “Trata-se de agravo regimental interposto contra acórdão que não conheceu dos embargos de declaração nos embargos de declaração no agravo regimental no recurso extraordinário com agravo.
+    O recurso é manifestamente incabível.
+    Com efeito, a jurisprudência desta Corte possui entendimento firmado no sentido de que não cabe agravo regimental contra acórdão do Plenário ou de Turma, sendo inaplicável o princípio da fungibilidade recursal em se tratando de erro grosseiro. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO CONTRA ACÓRDÃO QUE NEGOU PROVIMENTO A AGRAVO REGIMENTAL. RECURSO MANIFESTAMENTE INCABÍVEL. RECURSO NÃO CONHECIDO” (ARE 772.157-AgRAgR/RS, Rel. Min. Teori Zavascki, Segunda Turma).
+    “Agravo regimental no agravo regimental no recurso extraordinário com agravo. Agravo regimental que impugna decisão monocrática que já foi objeto de recurso idêntico julgado pelo colegiado. Princípio da unirrecorribilidade. Violação. Ocorrência.
+    Agravo regimental contra acórdão. Impossibilidade. Precedentes.
+    1. O princípio da unirrecorribilidade, ressalvadas as hipóteses legais, impede a interposição cumulativa, contra o mesmo julgado, de mais de um recurso.
+    2. Por outro lado, é incabível agravo regimental contra decisão Supremo Tribunal Federal prolatada por órgão colegiado.
+    3. Agravo regimental não conhecido, com aplicação de multa prevista no art. 557, § 2º, do Código de Processo Civil” (ARE 748.959-AgR-AgR/RS, Rel. Min. Dias Toffoli, Primeira Turma).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: RE 514.595-AgR-AgR/RS, Rel. Min. Joaquim Barbosa; AI 596.906-AgRAgR/ MG, Rel. Min. Dias Toffoli; AI 832.294-AgR-AgR/SP, Rel. Min. Cármen Lúcia; AI 689.015-AgR-segundo-AgR/PA e AI 648.525-AgR-AgRAgR/ DF, Rel. Min. Eros Grau.
+    Isso posto, não conheço do agravo regimental” (fls. 1.098-1.099).
+    3. Publicada essa decisão no DJe de 30.8.2016, Carlos Roberto Micelli opõe, em 5.9.2016, tempestivamente, embargos de declaração.
+    4. O Embargante aponta contradição, pois não teria havido abusividade na fixação dos honorários cobrados.
+    Requer sejam acolhidos os presentes embargos.
+    Examinada a matéria posta à apreciação, DECIDO.
+    5. A análise da alegada contradição em “decisão unipessoal” suscitada nos presentes embargos há de ser feita monocraticamente, nos termos do art. 1.024, § 2º, do atual Código de Processo Civil (RE n. 926.941-ED, Relator o Ministro Celso de Mello, DJe 20.5.2016; RE n. 759.624-ED, Relator o Ministro Roberto Barroso, DJe 16.5.2016; e ARE n. 938.544-ED, Relator o Ministro Celso de Mello, DJe 17.5.2016).
+    6. Razão jurídica não assiste ao Embargante, pois os embargos de declaração não podem ser conhecidos.
+    7. O Embargante não recolheu a multa fixada pelo Plenário do Supremo Tribunal Federal no julgamento dos segundos embargos de declaração no agravo regimental no recurso extraordinário com agravo.
+    A ausência de recolhimento da multa aplicada pelo Tribunal impede o conhecimento dos embargos de declaração por se tratar de condição de recorribilidade. Confiram-se, por exemplo, os julgados a seguir:
+    “EMBARGOS DECLARATÓRIOS EM RECURSO EXTRAORDINÁRIO COM AGRAVO RECEBIDOS COMO AGRAVO REGIMENTAL. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE RECOLHIMENTO DE MULTA PROCESSUAL. CONDIÇÃO OBJETIVA DE PROCEDIBILIDADE. 1. É inadmissível o recurso interposto sem o recolhimento da multa processual anteriormente aplicada, uma vez que seu recolhimento é condição objetiva de procedibilidade para interposição de novos recursos, nos termos do art. 538, parágrafo único, do CPC. 2. Agravo regimental a que se nega provimento” (ARE n. 901.450-ED, Relator o Ministro Edson Fachin, Primeira Turma, DJe 10.12.2015).
+    “AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MULTA DO ART. 557, § 2º, DO CPC. RECOLHIMENTO. CARÁTER SANCIONATÓRIO. PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE PARA NOVOS RECURSOS. PRECEDENTES. PARTE BENEFICIADA COM ISENÇÃO DE CUSTAS PROCESSUAIS. NATUREZA E FINALIDADE DIVERSAS. EXIGIBILIDADE. Por ostentar caráter sancionatório e inibitório do uso abusivo e inadequado dos meios processuais, o recolhimento oportuno da multa do art. 557, § 2º, do CPC, longe de se confundir com as custas processuais, constitui pressuposto objetivo de admissibilidade de novos recursos, ainda que interpostos com o objetivo de discutir a sua imposição. Precedentes. A isenção do pagamento das custas não alcança a penalidade imposta, forte no art. 557, § 2º, do CPC, ao agravo manifestamente protelatório. Agravo regimental conhecido e não provido” (AI n. 541.146-AgR-ED-EDv-AgR, Relatora a Ministra Rosa Weber, Plenário, DJe 28.11.2014).
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. MULTA PREVISTA NO ART. 557, § 2º, DO CPC. AUSÊNCIA DE RECOLHIMENTO. INTERPOSIÇÃO PREMATURA DO AGRAVO REGIMENTAL. AUSÊNCIA DE RATIFICAÇÃO. RECURSO EXTEMPORÂNEO. AGRAVO REGIMENTAL CONTRA ACÓRDÃO. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO. BAIXA IMEDIATA DOS AUTOS. I - O prévio depósito da multa aplicada, com base no art. 557, § 2º, do Código de Processo Civil, configura pressuposto objetivo de recorribilidade, sendo certo que a ausência de recolhimento inviabiliza o recurso. (...) V - Agravo regimental não conhecido” (ARE n. 777.814-AgR-AgR-AgR-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 22.5.2014).
+    “PROCESSUAL CIVIL. AGRAVO INTERNO. JULGAMENTO. IMPOSIÇÃO DE MULTA (CPC, ART. 557, § 2º). CUMPRIMENTO DA PENALIDADE COMO CONDIÇÃO PARA ADMISSÃO DE FUTUROS RECURSOS. EMBARGOS DE DECLARAÇÃO SUBSEQÜENTES. MULTA NÃO-RECOLHIDA. EMBARGOS DE DECLARAÇÃO NÃO-CONHECIDOS” (AI n. 690.487-AgR-ED, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 13.3.2013).
+    Assim também a seguinte decisão monocrática transitada em julgado de minha relatoria: ARE n. 974.130, DJe 16.6.2016.
+    8. Pelo exposto, não conheço dos embargos de declaração (art. 1.024, § 2º, do Código de Processo Civil c/c art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de setembro de 2016.
+Ministra CÁRMEN LÚCIA
+Presidente
