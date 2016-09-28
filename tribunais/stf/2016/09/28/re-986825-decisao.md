@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. MULTA. ARTIGO 3º E 42 DO DECRETO-LEI N.º 56/66. INSTITUTO DO AÇÚCAR E DO ÁLCOOL – IAA. CONTROLE DA PRODUÇÃO E SAÍDA DE ÁLCOOL. PRESUNÇÃO DE SAÍDA CLANDESTINA.
+    1. Aplica-se o Decreto nº 20.91 0/32 que estabelece a prescrição qüinqüenal para a exigência de dívidas de quaisquer dos entes federados, independente da natureza dessas dívidas, cujo prazo que é contado do ato ou fato de que se originarem. O prazo prescricional, todavia, ficou em suspenso, até a decisão do recurso administrativo (CTN, arts. 151, 111; 173 e 174; e Decreto 70.235/72, art. 9º). Assim, a decisão em processo administrativo foi em junho de 1988, de modo a suspender o lapso do prazo prescricional.
+    2. Não há averiguação da quantidade do produto apreendido, uma vez que a competência para apuração do volume do álcool produzido e o comercializado é do IAA e não ao INMETRO.
+    3. A autora não efetuou a anotação no livro de produção diária, motivo pelo qual se operou as autuações, nos termos do artigo 3.º, b, e artigo 4.º do Decreto-lei n.º 56/66.
+    4. As perícias, conforme impugnadas, não lograriam influenciar no deslinde da causa, a justificar a sua produção.
+    5. No que tange à verba honorária, a mesma deve ser fixada em R$ 22.000,00 (vinte e dois mil reais), em favor da União Federal
+    6. Apelação da autora não provida. Apelação da União Federal e remessa oficial providas.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso LIV, e 150, inciso IV, da Constituição Federal.
+    Decido.
+    No que se refere ao artigo 150, inciso IV, da Constituição, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “Agravo regimental em agravo de instrumento. 2. Prequestionamento. Ausência. Embargos de declaração que não trataram da matéria constitucional. Súmulas 282 e 356 do STF. 3. Ofensa aos princípios da legalidade e da prestação jurisdicional. Análise da legislação infraconstitucional. Precedente. 4. Revisão de cláusula contratual. Ofensa reflexa. Precedente. 5. Agravo regimental a que se nega provimento” (AI nº 551.533/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 3/3/06).
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Por fim, o Plenário desta Corte, em sessão realizada por meio eletrônico, concluída em 16/6/11, no exame do ARE nº 634.228/RJ, Relator o Ministro Cezar Peluso, Presidente, entendeu pela ausência de repercussão geral do tema relativo à suposta violação dos princípios contraditório e da ampla defesa nos casos de indeferimento de produção de provas no âmbito de processo judicial, dado o caráter infraconstitucional da matéria.
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional” (DJe de 31/8/11).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique.
+    Brasília, 28 de setembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
