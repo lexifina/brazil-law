@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 196, 197 e 198, § 6º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo, por oportuno, a ementa do acórdão proferido pela Corte de origem (fl. 236):
+    “APELAÇÃO CÍVEL. DIREITO HUMANO À SAÚDE. ILEGITIMIDADE PASSIVA AFASTADA. SULFATO DE GLICOSAMINA E CONDROITINA. EFICÁCIA CONTROVERTIDA. LAUDO PERICIAL DO DMJ. Em que pese a responsabilidade estatal (União, Estados, Distrito Federal e Municípios) ao fornecimento de medicamento aos que dele necessitam – sem restrição às listas do SUS -, na forma do que dispõem os artigos 196 da Carta Magna e 241 da Constituição Estadual; demonstrada a ineficácia do tratamento prescrito pelo médico da autora, através de laudo pericial do DMJ, imperativa é a reforma da sentença de procedência.
+    PRELIMINAR AFASTADA. APELAÇÃO DO ESTADO DO RIO GRANDE DO SUL PROVIDA. PREJUDICADO O APELO DA MUNICIPALIDADE EM FACE DA VERBA HONORÁRIA SUCUMBENCIAL.”
+    Fundado o extraordinário na alegação de imprescindibilidade do medicamento pleiteado, a suposta afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário. Direito Administrativo. Fornecimento de medicamento. Medicamento não disponibilizado pelo SUS. Perícia judicial que conclui pela possibilidade de sua substituição por outro constante na rede pública. Escolha do melhor tratamento. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A verificação acerca do melhor tratamento a que deve ser submetido o agravante enseja, inevitavelmente, o reexame do conjunto fático-probatório da causa, para o que não se presta o recurso extraordinário. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido.” (RE 801841 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 04/08/2015, PROCESSO ELETRÔNICO DJe-174 DIVULG 03-09-2015 PUBLIC 04-09-2015).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. SUBSTITUIÇÃO POR FÁRMACOS FORNECIDOS PELO SISTEMA ÚNICO DE SAÚDE – SUS. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO. REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 827931 AgR, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 16/09/2014, PROCESSO ELETRÔNICO DJe-188 DIVULG 25-09-2014 PUBLIC 26-09-2014).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de setembro de 2016.
+Ministra Rosa Weber
+Relatora
