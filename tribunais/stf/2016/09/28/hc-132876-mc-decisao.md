@@ -1,0 +1,26 @@
+Trata-se de habeas corpus impetrado por Gustavo Tulio Pagani em favor de Sandra Becker, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao Recurso Ordinário Constitucional 65.385/PR, de relatoria do Ministro Reynaldo Soares da Fonseca, assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. POSSE ILEGAL DE MUNIÇÃO RELATIVA A ARMA DE USO RESTRITO. CRIME DE PERIGO ABSTRATO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. RECURSO A QUE SE NEGA PROVIMENTO.
+    1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que os crimes previstos nos art. 12, 14 e 16 da Lei 10.826/2003 são de perigo abstrato, razão pela qual é desnecessária a comprovação de prejuízo para a configuração do ilícito e incabível a aplicação do princípio da insignificância.
+    2. Recurso ordinário improvido”.
+    O impetrante, de início, narra que a paciente “foi denunciada nas sanções do artigo 12, caput, e artigo 16, caput, ambos da Lei 10.826/03”, destacando, em relação à posse ilegal de arma, que “foi encontrado no interior da residência da paciente UMA munição, calibre nominal 9mm, de uso restrito” (grifos no original; pág. 2 do documento eletrônico 1).
+    Aponta, também, em relação ao ilícito do art. 12 do mesmo diploma legal, que “a denúncia baseou-se no encontro de uma arma, também no interior de sua residência, calibre 380, da marca Taurus, de propriedade da paciente, adquirida legalmente e registrada junto ao SINARM em seu nome, apenas estando com o registro vencido” (grifos no original; pág. 2 do documento eletrônico 1).
+    Esclarece, ainda, que
+    “a defesa, quando da apresentação da resposta à acusação, fls. 36 e ss [sic] dos autos de ação penal, requereu, em síntese, diante da mínima ofensividade da conduta praticada, de não haver nenhuma periculosidade social da ação, do reduzidíssimo grau de reprovabilidade do comportamento e da inexpressividade da lesão jurídica provocada, a exclusão da tipicidade material da conduta imputada pela incidência do princípio da insignificância, com fundamento nos princípios da subsidiariedade e da intervenção mínima do direito penal” (pág. 3 do documento eletrônico 1).
+    Aponta, então, que o Juízo de origem indeferiu o pedido, razão pela qual
+    “impetrou-se habeas corpus perante o Tribunal de Justiça do Estado do Paraná que, através do V. Acórdão proferido no julgamento de mérito do wirt [sic], declarou a atipicidade do crime de posse de arma de fogo com registro vencido, entretanto, no que tange ao crime de posse de uma única munição, não aplicou o princípio da insignificância sob o fundamento de tratar-se de crime abstrato e de mera conduta, fundamentando ser irrelevante a quantidade de munição apreendida” (grifos no original; págs. 3-4 do documento eletrônico 1).
+    O impetrante prossegue informando que interpôs recurso ordinário constitucional contra essa decisão, encaminhando o feito ao STJ, que negou provimento ao recurso “por tratar-se de crime de perigo abstrato” (pág. 5 do documento eletrônico 1).
+    Sustenta, assim, que “[e]stando evidente a atipicidade material da conduta a ação penal deve ser trancada diante da falta de justa causa para o seu prosseguimento” (pág. 6 do documento eletrônico 1).
+    A impetração, além disso, aduz que,
+    “[n]a hipótese dos autos, face ao caráter ínfimo que o bem jurídico afetado representa perante o contexto social, a tipicidade deve ser excluída. Em outras palavras, a lesão ao bem é tão mínima que não justifica a movimentação da justiça e, conseqüentemente [sic], a aplicação de uma pena” (pág. 14 do documento eletrônico 1).
+    Requer, ao final, que “seja reconhecido o constrangimento ilegal que padece, buscando o cumprimento da Lei, com a concessão da LIMINAR no presente Writ, determinando-se o trancamento da ação penal, fazendo-se cessar o constrangimento ilegal a que está sendo submetido” (grifos no original; pág. 16 do documento eletrônico 1).
+    Recebi o feito em 12/9/2016.
+    É o relatório necessário. Passo, então, ao exame da medida cautelar.
+    O deferimento do pleito de urgência em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Nesse sentido, bem destacou o Ministro Luiz Fux na decisão proferida no HC 132.848-MC/RJ, que “[o] trancamento de ação penal via habeas corpus é medida excepcional que exige flagrante ilegalidade ou teratologia”. Assim, em um primeiro exame, tenho por ausentes tais requisitos.
+    Ademais, no caso concreto, a liminar pleiteada tem caráter satisfativo, confundindo-se com o próprio mérito da impetração, o qual será oportunamente examinado pela turma julgadora.
+    Diante de tal quadro, e sem prejuízo de uma apreciação mais aprofundada por ocasião do julgamento colegiado, indefiro a medida cautelar.
+    Solicitem-se, com urgência, informações ao Juízo de origem a respeito dos fatos alegados na inicial e quanto ao atual estágio da Ação Penal 0005710-41.2014.8.16.0017.
+    Com a resposta, abra-se vista ao Procurador-Geral da República.
+    Publique-se.
+    Brasília, 28 de setembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
