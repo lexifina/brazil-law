@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Amazonas, está assim ementado:
+    “APELAÇÃO CÍVEL. PRESCRIÇÃO. INOCORRÊNCIA. LEI N.º 1.154/75. INCONSTITUCIONALIDADE AFASTADA PELO STJ. POLICIAL MILITAR. INVALIDEZ PERMANENTE. DIREITO AO SOLDO DO GRAU HIERÁRQUICO SUPERIOR. AUSÊNCIA DE TROCA DE PATENTE. SENTENÇA REFORMADA. HONORÁRIOS DE ADVOGADO. INVERSÃO DO ÔNUS DE SUCUMBÊNCIA. RECURSO PROVIDO.
+    I – O início do cômputo prescricional do direito à revisão do ato aposentatório coincide com o dia posterior ao qual ganhou eficácia com o registro de vontade da Corte de Contas.
+    II – A despeito de o Tribunal Pleno desta Corte de Justiça, no julgamento do Incidente de Arguição de Inconstitucionalidade em Apelação Cível nº 2007.001228-8/0001.00, ocorrido no dia 06/03/2008, haver declarado a inconstitucionalidade do art. 98, § 1º da Lei Estadual nº 1.154/75, o Superior Tribunal de Justiça, em recente julgado, manifestou-se de maneira contrária, ao analisar caso semelhante e relativo a policial militar deste Estado do Amazonas, decidindo que o citado dispositivo não é inconstitucional.
+    III – Em se tratando de reforma por invalidez, o Policial Militar tem o direito de ser reformado com a remuneração calculada com base no soldo correspondente ao grau hierárquico imediato ao que possuía na ativa. Esta é a regra inserta no art. 98 e §§ da Lei nº 1.154/1975. Não se trata de promoção. O Policial licenciado permanece na mesma graduação, mas com o direito de perceber o soldo integral de 3º Sargento. Daí porque não faz jus a gratificação de tropa perseguida.
+    IV – Inversão do ônus de sucumbência.
+    V – Sentença reformada.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 40, § 2º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei estadual nº 1.154/75), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado do Amazonas, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local, a seguir destacada:
+    “02.20. Assim, resta evidente que, em conformidade com a legislação vigente, entendo que o Apelante tem o direito de ser reformado com a remuneração calculada com base no soldo correspondente ao grau hierárquico imediato ao que possuía na ativa. Esta é a regra inserta no art. 98 e parágrafos da Lei nº 1.154/75, cuja inconstitucionalidade já foi afastada pelo Superior Tribunal de Justiça.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 591.275/AM, Rel. Min. DIAS TOFFOLI – RE 615.109-AgR/AM, Rel. Min. ROSA WEBER – RE 688.248/AM, Rel. Min. CÁRMEN LÚCIA – ARE 724.811/AM, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MILITAR. PROVENTOS. GRAU HIERARQUICAMENTE SUPERIOR. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 602.291-AgR/AM, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Cumpre referir, finalmente, que não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 28 de setembro de 2016.
+Ministro CELSO DE MELLO
+Relator
