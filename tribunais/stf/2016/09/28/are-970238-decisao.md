@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (eDOC 19, p. 73-74):
+    “APELAÇÃO CRIMINAL. LATROCÍNIO TENTADO. RECURSO DA ACUSAÇÃO. PLEITO DE CONDENAÇÃO DO CORRÉU. PROVIMENTO. PROVAS SUFICIENTES. MEDIDA QUE SE IMPÕE. RECURSO DA DEFESA (APELANTE 2). PRELIMINARES: NULIDADE DO FEITO EM VIRTUDE DO INDEFERIMENTO DE COLHIMENTO DE PROVAS. NULIDADE DIANTE DO INDEFERIMENTO DO PEDIDO DE INSTAURAÇÃO DE INCIDENTE DE SANIDADE MENTAL. REJEIÇÃO. PLEITO ABSOLUTÓRIO EM RAZÃO DE EXCLUDENTE DE ILICITUDE (COAÇÃO MORAL IRRESISTÍVEL). IMPROCEDÊNCIA. PEDIDO DE DESCLASSIFICAÇÃO DA CONDUTA PARA ROUBO IMPRÓPRIO. IMPOSSIBILIDADE. CONDENAÇÃO MANTIDA. ADEQUAÇÃO, DE OFÍCIO, DA PENA INICIAL. EXCLUSÃO DO AUMENTO REFERENTE À CONDUTA SOCIAL E ÀS CONSEQUÊNCIAS DO CRIME. AJUSTE DA PENA DEFINITIVA. APELAÇÃO 1 CONHECIDA E PROVIDA. APELAÇÃO 2 CONHECIDA E DESPROVIDA. EXCLUSÃO, DE OFÍCIO, DA INDENIZAÇÃO FIXADA À SEGURADORA. EXPEÇA-SE MANDADO DE PRISÃO EM DESFAVOR DO CORRÉU. "Para a configuração da coação moral irresistível é imprescindível a demonstração de prova induvidosa a cargo da defesa, sendo insuficiente para elidir a acusação a simples argumentação de sua ocorrência." (TJPR Apelação Criminal n.º 173.833-4 - 2ª C.C. - Rel. Antonio Loyola Vieira - DJ de 11.01.2008). "Para a configuração do delito de latrocínio basta a presença de dolo eventual e, então, é suficiente que o réu assuma o risco de produzir o resultado morte no momento da subtração da res, (...)."” (TJPR, apel. criminal 663455- 7, Rel. Juiz Rui Bacellar Filho, j. 14/10/2010)
+    Não foram opostos embargos de declaração pelo recorrente.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, II, da Constituição. Busca-se, em suma, a desclassificação do crime de latrocínio tentado para o crime de roubo simples.
+    O TJPR inadmitiu o recurso diante da extemporaneidade, pois estava pendente de julgamento os embargos de declaração, quando interposto o recurso extraordinário.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observo que a questão referente à violação do art. 5º, II, da Constituição Federal, não foi objeto de debate no acórdão recorrido. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF).
+    Ainda, é preciso reconhecer que a alegação de violação ao princípio da legalidade só pode ser analisada, in casu, por meio da interpretação da legislação penal aplicada à espécie. Noutras palavras, a ofensa à Constituição, se existente, é apenas reflexa, o que inviabiliza o exame da alegação oposta pelo recorrente na via extraordinária.
+    Por fim, observo que o TJPR entendeu, com base no conjunto probatório dos autos, devidamente configurado o delito. Dessa forma, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 28 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
