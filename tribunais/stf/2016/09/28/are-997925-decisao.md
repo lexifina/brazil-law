@@ -1,0 +1,10 @@
+Decisão: Trata-se de recurso extraordinário com agravo em que se discute a extinção da pretensão da parte autora para revisar o ato de concessão de benefício previdenciário, porquanto ocorreu a decadência.
+    O Supremo Tribunal Federal, no julgamento do RE 626.489, Rel. Min. Roberto Barroso, entendeu pela existência de repercussão geral da matéria versada no extraordinário (Tema 313) e, ao julgar o mérito, consolidou entendimento assim sintetizado:
+    “RECURSO EXTRAODINÁRIO. DIREITO PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO. DECADÊNCIA. 1. O direito à previdência social constitui direito fundamental e, uma vez implementados os pressupostos de sua aquisição, não deve ser afetado pelo decurso do tempo. Como consequência, inexiste prazo decadencial para a concessão inicial do benefício previdenciário. 2. É legítima, todavia, a instituição de prazo decadencial de dez anos para a revisão de benefício já concedido, com fundamento no princípio da segurança jurídica, no interesse em evitar a eternização dos litígios e na busca de equilíbrio financeiro e atuarial para o sistema previdenciário. 3. O prazo decadencial de dez anos, instituído pela Medida Provisória 1.523, de 28.06.1997, tem como termo inicial o dia 1º de agosto de 1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição. 4. Inexiste direito adquirido a regime jurídico não sujeito a decadência. 5. Recurso extraordinário conhecido e provido.”
+    Constata-se que foi ratificado o entendimento segundo o qual, com base na segurança jurídica e no equilíbrio financeiro e atuarial, não podem ser eternizados os litígios.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 28 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
