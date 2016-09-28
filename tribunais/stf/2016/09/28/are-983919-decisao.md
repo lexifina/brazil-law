@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. COMODATO. CONTRATO DE COMPRA E VENDA. TUTELA ANTECIPADA DEFERIDA. SUPERVENIÊNCIA DE SENTENÇA. PREJUDICIALIDADE DO AGRAVO DE INSTRUMENTO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “AGRAVO REGIMENTAL - agravo de instrumento ao qual não foi atribuído efeito suspensivo - agravante se manteve inerte dessa decisão, permitindo que o processo seguisse seu curso normal - Julgamento do agravo de instrumento prejudicado, porquanto já proferida sentença de mérito rediscussão da matéria em sede de agravo regimental - inadmissibilidade recurso não conhecido.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5°, caput, II, LIV, LV e LXXVIII, 37, 70 e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que se trataria, na espécie, de matéria infraconstitucional.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, ressalte-se que, para divergir das razões do referido acórdão, seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Leis 5.869/1973 e 10.406/2002), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Ademais, os princípios da ampla defesa, do contraditório (artigo 5º, LV) e do devido processo legal (artigo 5º, LIV), quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, Tema 660, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    No que diz respeito à alegação de ofensa ao princípio da legalidade (artigo 5º, II), verifico que o acórdão ora recorrido tão somente interpretou o que dispõe a Lei 5.869/1973 em sentido contrário àquele desejado pela parte ora agravante, o que configura ofensa indireta à Constituição Federal, não suscetível de apreciação em sede de recurso extraordinário. Assevere-se, ainda, que a jurisprudência desta Suprema Corte se consolidou no sentido de que “não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida” (Súmula 636 do STF).
+    Por fim, relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de setembro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
