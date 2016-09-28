@@ -1,0 +1,12 @@
+Decisão: Trata-se de recurso extraordinário com agravo interposto de acórdão que condenou o recorrente a implementar a gratificação pelo exercício de docência a alunos portadores de necessidades especiais, prevista na LC estadual 67/99, aos vencimentos da recorrida.
+    Opostos embargos de declaração, foram rejeitados em virtude da não ocorrência de omissão, obscuridade e contradição.
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação aos arts. 2º; 5º, LIV e LXXI; 25; 84, IV e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque esta Corte já se manifestou que para se chegar a conclusão contrária à adotada pelo Tribunal de origem, seria necessário a análise de matéria infraconstitucional o que atrai a incidência da Súmula 280 do STF, conforme consignou o ARE 916900 AgR/AC, 1ª Turma, Rel. Min. Rosa Weber, Dje 17/12/2015 que tratou de caso idêntico:
+    “DIREITO ADMINISTRATIVO. PROFESSOR. GRATIFICAÇÃO. EXERCÍCIO DE DOCÊNCIA. ALUNO PORTADOR DE NECESSIDADE ESPECIAL. FALTA DE REGULAMENTAÇÃO PELO PODER EXECUTIVO. VERBA DEVIDA. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 1º.4.2015. 1. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula nº 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise de legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido”
+    Nesse sentido, cito também os seguintes julgados: ARE 966.938/AC, Rel. Min. Edson Fachin; ARE 985.279/AC, Rel. Min. Roberto Barroso; ARE 989.139/AC, Rel. Min. Celso de Mello; ARE 986.507/AC, Rel. Min. Luiz Fux; ARE 928.802/AC, Rel. Min. Edson Fachin; ARE 989.072/AC, Rel. Min. Dias Toffoli; ARE 988.861/AC, Rel. Min. Roberto Barroso; ARE 985.527/AC, Rel. Min. Cármen Lúcia; ARE 96.7212/AC, Rel. Min. Gilmar Mendes; ARE 927.755/AC, Rel. Min. Teori Zavascki.
+    Isso posto, nego seguimento ao recurso (Art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de setembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
