@@ -1,0 +1,21 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio de Janeiro, está assim ementado:
+    “Recursos de agravo interno. Apelação cível. Indenizatória. Erro médico. Hospital municipal. Declaração prematura de morte. Condenação na esfera criminal do servidor municipal. Inadmissível qualquer discussão acerca da autoria e materialidade do delito. Dever de indenizar. Dano moral caracterizado (R$ 100.000,00). Honorários reduzidos ao patamar de 5% do valor da condenação. Decisão mantida. RECURSOS DESPROVIDOS.”
+    O Município de Nova Iguaçu, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 37º, § 6º, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte ora recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que a E. Tribunal de Justiça do Estado do Rio de Janeiro, no julgamento do recurso, sustentou as suas conclusões em aspectos fático-probatórios:
+    “6. Quanto ao mérito, diversamente do sustentado pelo ente Municipal, o estreito laço afetivo existente entre a autora e a vítima restou devidamente demonstrado nos autos.
+    7. Com efeito, o conjunto probatório, precipuamente a prova testemunhal, evidencia que, após o falecimento dos pais biológicos da autora, sua tia, vítima do erro médico, a criou como se sua filha fosse, o que espanca qualquer questionamento sobre a sua legitimidade para perquirir compensação de ordem moral pela tragédia ocorrida.”
+    Cabe registrar, ainda, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 669.749-AgR/DF, Rel. Min. ROSA WEBER – ARE 789.301-AgR/SP, Rel. Min. CÁRMEN LÚCIA – ARE 918.109-AgR/DF, Rel. Min. CÁRMEN LÚCIA, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. INDENIZAÇÃO POR DANOS MORAIS. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF.
+    1. O nexo de causalidade apto a gerar indenização por dano moral em face da responsabilidade do Estado, quando controversa sua existência, demanda a análise do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279/STF que dispõe: ‘Para simples reexame de prova não cabe recurso extraordinário’.
+    2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    …..............................................................................................................
+    4. Agravo regimental DESPROVIDO.”
+    (ARE 834.028-AgR/RJ, Rel. Min. LUIZ FUX)
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Cumpre referir, finalmente, que não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 29 de setembro de 2016.
+Ministro CELSO DE MELLO
+Relator
