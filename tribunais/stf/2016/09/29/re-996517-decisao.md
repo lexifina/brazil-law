@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário interposto pelo Estado do Amazonas contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. APOSENTADORIA. REDUÇÃO DE PROVENTOS. SERVIDOR APOSENTADO SOB A ÉGIDE DA LEI Nº 1.762/86. ATO ADMINISTRATIVO FULMINADO PELA DECADÊNCIA. VIOLAÇÃO AO PRINCÍPIO DA SEGURANÇA JURÍDICA. IMPOSSIBILIDADE DE DETERMINAR AO APELANTE O RESSARCIMENTO AO ERÁRIO SE NÃO COMPROVADA A MÁ-FÉ. APELAÇÃO PROVIDA.
+    I – A Administração Pública tem o prazo decadencial de 05 (cinco) anos para anular os atos administrativos de que decorram efeitos favoráveis para os destinatários, salvo comprovada má-fé, segundo dispõem os artigo 54 da Lei nº 9.784/99 e 54, inciso II, da Lei nº 2.794/03;
+    II – Pelo fato de o apelante ter sido aposentado antes do surgimento da lei que regula o processo administrativo no âmbito da Administração Pública Estadual, o supracitado prazo decadencial começou a correr a partir da data de vigência da Lei nº 9.784/99;
+    III – Transcorridos mais de 05 (cinco) anos da concessão do ato de aposentadoria do apelante, não pode mais a administração anulá-lo, sob pena de violação do princípio da segurança jurídica;
+    IV – Impossibilidade de o apelante ser obrigado a ressarcir o erário, uma vez que o equívoco foi cometido pela própria administração e por não ter sido comprovada a má-fé do recorrente;
+    V – Apelação provida para impedir que a autoridade coatora altere a fórmula de cálculo dos proventos de aposentadoria do apelante e exija o ressarcimento ao erário das parcelas remuneratórias.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre observar que o recurso extraordinário, ao discutir a matéria pertinente ao fundo da controvérsia, não se revela viável, eis que o acórdão recorrido reconheceu a decadência do direito de a Administração Pública rever o ato impugnado nestes autos (Lei nº 9.784/99, art. 54), ou seja, examinou a questão jurídica sob uma perspectiva estritamente infraconstitucional.
+    Isso significa, portanto, que o fundamento jurídico que sustenta a decisão em referência reveste-se, unicamente, de índole ordinária, apoiando-se, por isso mesmo, em prescrições e formulações que se situam em domínio regido pelo direito comum, circunstância esta que poderá caracterizar, quando muito, situação de ofensa reflexa ao texto da Carta Política, apta, por si só, a tornar incabível o acesso à via recursal extraordinária (RTJ 94/462 – RTJ 132/455 – RTJ 150/587 – RTJ 161/685, v.g.).
+    Vê-se, desse modo, que o debate veiculado no julgamento em questão fez instaurar, na espécie, contencioso de mera legalidade, o que basta para inviabilizar a admissibilidade do recurso extraordinário.
+    Sendo assim, e tendo em considerações as razões expostas, não conheço do recurso extraordinário, por ser manifestamente inadmissível (CPC/15, art. 932, III).
+    Cumpre registrar, finalmente, que não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 29 de setembro de 2016.
+Ministro CELSO DE MELLO
+Relator
