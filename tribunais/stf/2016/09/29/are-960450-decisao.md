@@ -1,0 +1,20 @@
+DECISÃO
+    Trata-se de agravo interposto contra a decisão que não admitiu o recurso extraordinário, amparada na seguinte fundamentação:
+    “Inicialmente, em sede de de mero juízo de admissibilidade, não restou demonstrada a existência de repercussão geral das questões constitucionais discutidas no recurso extraordinário, como exige o art. 543-A e parágrafos do Código de Processo Civil.
+    Carece ainda o apelo extremo do requisito do prequestionamento, já que não houve manifestação clara no acórdão recorrido, sobre a matéria objeto do recurso extraordinário. Incide, portanto, ao caso em tela a Súmula 282 do colendo Supremo Tribunal Federal: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”.
+    Ademais, quanto à alegada ofensa ao artigo constitucional supra citado, o excelso Supremo Tribunal Federal sufragou o entendimento de que o exame da alegada ofensa demandaria análise de norma infraconstitucional, o que acarretaria ofensa reflexa ou indireta ao texto constitucional, impedindo, assim, a utilização do apelo extremo. A propósito, confiram-se:
+    (…)
+    Por fim, considerando que o recurso extraordinário tem também por fundamento a valoração dada às provas constantes dos autos na formação da convicção do julgador, o presente recurso ainda tem por obstáculo à sua a admissibilidade a Súmula 279/STF: “PARA SIMPLES REEXAME DE PROVA NÃO CABE RECURSO EXTRAORDINÁRIO.”
+    Ante o exposto, não admito o recurso extraordinário.”
+    Decido.
+    O entendimento da Corte é no sentido de que deve a parte impugnar todos os fundamentos da decisão que não admitiu o apelo extremo, o que não ocorreu na espécie. A decisão gravada ancorou-se em quatro (4) fundamentos independentes, todos eles suficientes para a manutenção do decisum recorrido: (i) a ausência de demonstração da repercussão geral; (ii) a ausência de prequestionamento do dispositivo constitucional tido como violado, (iii) a necessidade de exame de legislação infraconstitucional e a (iv) incidência, na hipótese, da Súmula nº 279/STF.
+    O recorrente limitou-se a impugnar apenas o fundamento relativo à imprescindibilidade de revolvimento de fatos e provas. Em que pese tenha tecido algumas considerações quanto à preliminar de repercussão geral, não logrou afastar adequadamente as considerações tecidas pelo órgão a quo, tendo se restringido a enumerar razões de ordem pessoal as quais, no seu entender, justificariam a transcendência e a relevância do tema em apreço.
+    Quanto aos óbices da ausência de prequestionamento e da inexistência de ofensa direta à Constituição, sequer foram rebatidos pela parte irresignada.
+    A jurisprudência de ambas as Turmas deste Tribunal é no sentido de obstar o agravo quando, como no caso, não são atacados os fundamentos da decisão que obsta o processamento do apelo extraordinário. Nesse sentido: AI nº 488.369/RS–AgR, 4/5/04, Primeira Turma, Relator Ministro Sepúlveda Pertence, DJ de 28/5/04; AI nº 330.535/SP-AgR, Segunda Turma, Relator o Ministro Maurício Corrêa, DJ de 21/9/01; e ARE nº 637.373/MS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/6/11, esse último assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RAZÕES DO RECURSO NÃO ATACAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 287 DO STF. ARTIGO 543 DO CPC. REMESSA DO FEITO AO STJ. DESNECESSIDADE. AGRAVO IMPROVIDO. I – O agravo não atacou os fundamentos da decisão que negou seguimento ao recurso extraordinário, o que o torna inviável, conforme a Súmula 287 do STF. Precedentes. II – É desnecessário aguardar o julgamento do recurso especial pelo STJ quando o extraordinário não possuir condições de admissibilidade. Precedentes. III – Agravo regimental improvido”.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 29 de setembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
