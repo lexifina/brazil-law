@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Eis a síntese do acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios:
+    DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL. DECISÃO QUE NEGA SEGUIMENTO AO AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE DOIS AGRAVOS DE INSTRUMENTO CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRECORRIBILIDADE. DECISÃO MANTIDA. Negado conhecimento ao primeiro agravo de instrumento interposto, não mais se admite a interposição de outro agravo de instrumento em face da mesma decisão, ante o princípio da unirecorribilidade.
+    Ademais, segundo o princípio da preclusão consumativa, exercida a faculdade de interpor recurso contra provimento judicial que entende lhe ser desfavorável, inviável a sua renovação, ainda que o prazo previsto em lei não tenha decorrido.
+    Agravo regimental desprovido .
+    No extraordinário, cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, incisos XXXV e LIV, 22, inciso XIX, e 62, inciso II e § 1º, da Constituição Federal. Argui a nulidade do acórdão prolatado, por negativa de prestação jurisdicional, ante à ausência de pronunciamento sobre o mérito do agravo. Discorre sobre o princípio da fungibilidade. Diz contrariado o princípio da inafastabilidade da jurisdição. Quanto ao tema de fundo, afirma a impenhorabilidade dos recursos existentes na caderneta de poupança.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Esta relatoria, com fundamento no art. 557 do Código de Processo Civil, prolatou a seguinte decisão às f. 193-194:
+    "Inicialmente, constata-se que a agravante interpôs anteriormente um agravo de instrumento com os mesmos argumentos e pedidos - AGI 2015.00.2.032665-5, ao qual se negou seguimento. No presente contexto, o manejo deste segundo agravo, tendo por objeto o mesmo pedido do recurso anterior contraria o princípio da singularidade ou unirrecorribilidade, nos termos do qual é vedado à parte interpor mais de um tipo de recurso, salvo as hipóteses previstas em lei. Destarte, inarredável é o reconhecimento da preclusão consumativa, porquanto não é cabível um segundo agravo, já que não se admite a interposição de mais de um tipo de recurso.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5 % do valor da causa, nos termos do artigo 85, § 11, do citado diploma legal.
+    4. Publiquem.
+Brasília, 29 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
