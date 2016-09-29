@@ -1,0 +1,25 @@
+DECISÃO:
+    Afasto o sobrestamento.
+    Decido.
+    Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS. DEPOIMENTOS DOS POLICIAIS MILITARES QUE MERECEM CREDIBILIDADE NO CASO CONCRETO. REDUÇÃO DA PENA-BASE PARA O MÍNIMO LEGAL. PENA EXTINTA HÁ MAIS DE CINCO ANOS DO NOVO DELITO NÃO CONFIGURA REINCIDÊNCIA OU MAUS ANTECEDENTES. CONFIRMAÇÃO DA PRIVILEGIADORA DO § 4º, DO ART. 33 DA LEI DE DROGAS COM REDUÇÃO PELA METADE. ALTERAÇÃO DO REGIME INICIAL PARA O ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS.
+    1. A materialidade e a autoria do crime de tráfico de drogas está demonstrada na prova colhida nos autos. Depoimentos firmes e coerentes dos policiais militares que realizaram a prisão em flagrante delito. Eficácia probatória do depoimento dos policiais prestados em juízo.
+    2. Análise das circunstâncias judiciais insertas no artigo 59 do CP recomenda a fixação da pena-base no mínimo legal. Considerando que as penas dos crimes anteriores foram extintas nos anos de 2002 e 2003 e o fato ora julgado é de 2010, não há falar em reincidência ou maus antecedentes.
+    3.Preenchidos os requisitos do artigo 33, § 4º, da Lei 11.343/06, é impositivo o reconhecimento do tráfico privilegiado. Natureza da droga apreendida (crack) e a quantidade (oitenta e três pedras) interferem no quantum de redução da pena, aplicada em metade.
+    4. Com relação ao regime inicial de cumprimento de pena, não é aplicável o disposto no art. 2º, §1º, da Lei 8.072, uma vez que foi adotado, em nosso ordenamento jurídico, o sistema legal de definição de crime hediondo. Não constando o delito de tráfico de drogas privilegiado no rol de crimes elencado pelo art. 1º da Lei 8.072, cabível a fixação do regime aberto, sob pena de ofensa ao princípio da legalidade.
+    5. No tocante à substituição da pena privativa de liberdade por restritivas de direitos, revela-se inconstitucional a restrição prevista nos arts. 33, §4º, e 44, ambos da Lei 11.343/06, por violação ao direito fundamental à individualização da pena. Preenchidos os requisitos do art. 44 do Código Penal, imperativa se mostra a substituição.
+    NEGARAM PROVIMENTO AO APELO DO MINISTÉRIO PÚBLICO E DERAM PARCIAL PROVIMENTO AO APELO DA DEFESA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XLIII, da Constituição. Sustenta que: (i) “a decisão recorrida ao afastar a hediondez do delito, substituindo a pena privativa de liberdade por restritiva de direitos e fixando o regime prisional aberto ao acusado, acabou por proteger de forma deficiente o cidadão”; (ii) deve ser “reconhecido o caráter hediondo do delito, seja afastada a substituição da pena privativa de liberdade por restritiva de direitos, e seja determinado o cumprimento da pena no regime inicialmente fechado”.
+    O recurso não merece ser provido. O Plenário do Supremo Tribunal Federal, no julgamento do HC 111.840, da relatoria do Ministro Dias Toffoli, declarou inconstitucional a “obrigatoriedade da fixação do regime fechado para início do cumprimento de pena decorrente da condenação por crime hediondo ou equiparado”, enunciada no § 1º do art. 2º da Lei nº 8.072/1990 (redação da Lei nº 11.464/2007).
+    Esta Corte também declarou a inconstitucionalidade da vedação legal à substituição da pena privativa de liberdade por pena restritiva de direitos, descrita no art. 33, § 4º, da Lei nº 11.343/2006 (HC 97.256, da relatoria do Ministro Ayres Britto).
+    O Supremo Tribunal Federal, ao julgar o HC 118.533, Rel.ª Min.ª Cármen Lúcia, afastou a natureza de crime hediondo ao tráfico ilícito de entorpecentes, na modalidade privilegiado. Veja-se a ementa do acórdão do referido julgamento:
+    “HABEAS CORPUS. CONSTITUCIONAL, PENAL E PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTES. APLICAÇÃO DA LEI N. 8.072/90 AO TRÁFICO DE ENTORPECENTES PRIVILEGIADO: INVIABILIDADE. HEDIONDEZ NÃO CARACTERIZADA. ORDEM CONCEDIDA.
+    1. O tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos.
+    2. O tratamento penal dirigido ao delito cometido sob o manto do privilégio apresenta contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa.
+    3. Há evidente constrangimento ilegal ao se estipular ao tráfico de entorpecentes privilegiado os rigores da Lei n. 8.072/90.
+    4. Ordem concedida.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de setembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
