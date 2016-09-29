@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “MANDADO DE SEGURANÇA. IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA (IRPJ). CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO (CSLL). CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS (SELIC) RECEBIDOS EM VIRTUDE DE RESTITUIÇÃO OU COMPENSAÇÃO DE INDÉBITO TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ATRASO NO PAGAMENTO. JUROS CONTRATUAIS. NATUREZA REMUNERATÓRIA.
+    1. Em observância ao REsp nº 1138695/SC, infere-se que os valores a título de correção monetária e juros moratórios recebidos em virtude de devolução de depósitos judiciais (natureza remuneratória) ou repetição de indébito tributário (natureza de lucros cessantes) sofrem incidência de IRPJ e CSLL.
+    2. Da mesma forma, o valor recebido a título de juros moratórios decorrentes de contrato entre as partes assume contornos remuneratórios, razão pela qual não há como afastar a incidência do IRPJ e da CSLL”. (eDOC 28)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, aponta-se violação ao artigo 153, III, do texto constitucional.
+    Nas razões recursais, alega-se ofensa ao conceito constitucional de renda.
+    Defende-se não ser devida a incidência de imposto pessoa jurídica (IRPJ) e da contribuição social sobre o lucro líquido (CSLL) sobre “os juros recebidos de clientes em razão de inadimplemento, bem como a correção monetária e juros de mora, inclusive taxa SELIC decorrentes de depósitos judicias levantados ou a levantar e de créditos recuperados ou a recuperar”. (eDOC 90)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 9.250/1995, CTN e Código Civil) e o conjunto probatório constante dos autos, consignou ser cabível a incidência do IRPJ e da CSLL sobre os juros moratórios contratuais e a correção monetária provenientes do pagamento em atraso das vendas das mercadorias da recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “(...) no caso dos juros incidentes na devolução dos depósitos judiciais, a justificativa para a incidência está na sua natureza remuneratória, já que compõem a esfera de disponibilidade patrimonial do contribuinte (assim como a correção monetária) que ocorre no momento da devolução ao depositante da quantia depositada acrescida de juros calculados na forma estabelecida pelo § 4º do art. 39 da Lei nº 9.250, de 1995 (Selic). Quanto aos juros de mora recebidos em decorrência de sentenças judiciais, a decisão explica que, embora se trate de verbas indenizatórias, possuem natureza de lucros cessantes, o que implica acréscimo patrimonial previsto no art. 43, II, do Código Tributário Nacional, razão pela qual também seria legítima sua tributação. (…)
+    (…)
+    Da mesma forma, no que se refere à incidência do IRPJ e da CSLL sobre a correção monetária e sobre os juros que lhe foram ou serão creditados em virtude do pagamento em atraso das vendas de suas mercadorias, razão não assiste à impetrante.
+    Conforme mencionou a juíza da causa, os juros e a correção, nesses casos são ‘previstos em contrato, os quais são recebidos pelo credor por força do pacto entabulado com o devedor’. Ou seja, os juros em questão não são advindos exclusivamente de lei, mas decorrem de disposição das partes, não havendo, portanto, como atribuir a estes juros contratuais a natureza indenizatória, pois são recebidos pelo credor por força do pacto entabulado com o devedor, nos termos do art. 397 do Código Civil, que dispõe:
+    Art. 397. O inadimplemento da obrigação, positiva e líquida, no seu termo, constitui de pleno direito em mora o devedor.
+    Parágrafo único. Não havendo termo, a mora se constitui mediante interpelação judicial ou extrajudicial.
+    Com efeito, os juros moratórios em questão não são juros advindos exclusivamente de lei, mas decorrentes de disposição das partes.
+    (…)
+    Como se vê, mostra-se cabível a incidência do IPRJ e da CSLL sobre os juros moratórios contratuais e a correção monetária provenientes do pagamento em atraso das vendas de suas mercadorias”. (eDOC 26)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+     “Agravo regimental no recurso extraordinário. IRPJ. CSLL. Juros de mora. Questão infraconstitucional. Afronta reflexa. 1. As instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente (art. 174, CTN; Lei nº 9.703/98; Lei nº 8.541/92; DL nº 1.598/77 e Decreto nº 3000/99 RIR/99) e na jurisprudência do Superior Tribunal de Justiça, notadamente no REsp nº 1.138.695/SC, julgado sob o rito do art. 543-C do CPC. 2. A afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. 3. Agravo regimental não provido”. (RE-AgR 881.876, Rel. Min. Dias Toffoli, Segunda Turma, DJe 17.12.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. JUROS MORATÓRIOS. INCIDÊNCIA DO IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA – IRPJ E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE-AgR nº 827.329, Rel. Min. Cármen Lúcia Segunda Turma, DJe 10.10.2014).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de setembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
