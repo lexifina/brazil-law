@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AGRAVO DE INSTRUMENTO – AÇÃO DE RITO ORDINÁRIO – EXECUÇÃO – OFÍCIO REQUISITÓRIO DE PEQUENO VALOR – CLASSIFICAÇÃO – O momento adequado para o enquadramento da obrigação de pequeno valor é o da apresentação da conta de liquidação e não o da expedição do ofício requisitório. - Decisão mantida – RECURSO DESPROVIDO.”
+    O recurso não deve ser admitido, tendo em vista que, para divergir do entendimento firmado pelo Tribunal de origem, seria necessária a análise da legislação local aplicada ao caso, a atrair a incidência da Súmula 280/STF. Nesse sentido, veja-se a ementa do AI 829.021-AgR, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CRÉDITO DE PEQUENO VALOR. AFERIÇÃO DO LIMITE MÁXIMO. LEI MUNICIPAL N. 13.179/2001. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Quanto à alegação de ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de setembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
