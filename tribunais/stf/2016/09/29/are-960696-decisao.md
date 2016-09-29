@@ -1,0 +1,9 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná que consignou o direito dos recorridos ao reajuste da verba paga em virtude de prestação de serviços extraordinários.
+    Verifica-se que o Supremo Tribunal Federal, ao analisar a Repercussão Geral no ARE 965.627, de relatoria do Ministro Teori Zavascki, DJe de 22.06.2016 (Tema 904), reconheceu a inexistência de repercussão geral da controvérsia acerca do direito ao reajuste da verba paga aos policiais militares do Estado do Paraná em razão da prestação de serviço extraordinário, nos termos da Lei Estadual nº 13.280/2001. Na oportunidade, a ementa restou assim redigida:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. ESTADO DO PARANÁ. POLICIAL MILITAR. VERBA DEVIDA EM RAZÃO DA PRESTAÇÃO DE SERVIÇO EXTRAORDINÁRIO. REAJUSTE. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. É de natureza infraconstitucional a controvérsia relativa ao direito a reajuste da verba paga aos policiais militares do Estado do Paraná em razão da prestação de serviço extraordinário, porque fundada na interpretação da Lei Estadual 13.280/2011. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 1.035 do CPC/2015.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 29 de setembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
