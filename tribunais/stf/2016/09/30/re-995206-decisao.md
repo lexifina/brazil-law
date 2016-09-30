@@ -1,0 +1,30 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO AO PIS E COFINS. IMUNIDADE DO ARTIGO 149, § 2º, I, DA CONSTITUIÇÃO FEDERAL. NÃO ABRANGÊNCIA DAS RECEITAS ADVINDAS DO SERVIÇO DE TRANSPORTE INTERNO DE MERCADORIAS DESTINADAS À EXPORTAÇÃO. SEM HONORÁRIOS (SÚMULA 512 DO STF). RECURSO DESPROVIDO.
+    DECISÃO: Trata-se de recurso extraordinário interposto com fundamento na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “PROCESSUAL CIVIL. AGRAVO. APLICAÇÃO DO ART. 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. PIS E COFINS. TRANSPORTE INTERNO DE MERCADORIAS DESTINADAS À EXPORTAÇÃO. IMUNIDADE. NÃO INCIDÊNCIA. AGRAVO DESPROVIDO.
+    1. Para a aplicação do disposto no art. 557 do CPC não há necessidade de a jurisprudência dos Tribunais ser unânime ou de existir súmula dos Tribunais Superiores a respeito. Ademais, o recurso pode ser manifestamente improcedente ou inadmissível mesmo sem estar em confronto com súmula ou jurisprudência dominante. Precedentes do STJ.
+    2. A imunidade prevista no artigo 149, § 2º, inciso I, da Constituição Federal não alberga as hipóteses de transporte interno de mercadorias anteriores à exportação.
+    3. In casu, o fato de transportar bens destinados à exportação não enseja a imunidade ou a isenção previstas, as quais são aplicáveis apenas às hipóteses estritamente elencadas, não abrangendo a atividade das agravantes, pois apenas prestam serviços de transporte de mercadorias às exportadoras.
+    4. Agravo desprovido.”
+    Nas razões do apelo extremo, a recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 149, § 2º, I, da Constituição Federal. Alegou que as receitas advindas do transporte interno de mercadorias destinadas à exportação seriam imunes à incidência da Contribuição ao PIS e da COFINS.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    Em controvérsia análoga à dos autos, esta Corte firmou orientação no sentido de que a imunidade tributária prevista no artigo 155, § 2º, X, a, da Constituição Federal, que exclui a incidência do ICMS sobre as operações que destinem mercadorias ao exterior, não se aplica às prestações de serviços de transporte interestadual e intermunicipal de mercadorias destinadas à exportação, pois não há que se confundir a operação de exportação com a etapa anterior relativa ao serviço de transporte interno da mercadoria a ser exportada. Confiram-se:
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. SERVIÇO UTILIZADO NO TRANSPORTE INTERESTADUAL OU INTERMUNICIPAL DE PRODUTOS INDUSTRIALIZADOS DESTINADOS AO EXTERIOR. PRETENDIDA NÃO INCIDÊNCIA DO ICMS. ART. 155, § 2º, X, A, DA CONSTITUIÇÃO FEDERAL.
+    1. A imunidade tributária prevista no artigo 155, § 2º, X, a, da Constituição Federal é benefício restrito às operações de exportação de produtos industrializados, não abrangendo o serviço utilizado no transporte interestadual ou intermunicipal dos referidos bens.
+    2. Embargos de declaração recebidos como agravo regimental a que se nega provimento.” (RE 602.399-ED, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 1º/4/2016)
+    “É pacífico o entendimento de ambas as Turmas desta Corte no sentido de que a imunidade tributária prevista no artigo 155, § 2º, X, ‘a’ da Constituição Federal, excludente da incidência do ICMS às operações que destinem ao exterior produtos industrializados, não é aplicável às prestações de serviço de transporte interestadual de produtos industrializados destinados à exportação. Agravo regimental desprovido.” (RE 340.855-AgR, Rel. Min. Ellen Gracie, Primeira Turma, DJ de 13/9/2002)
+    “CONSTITUCIONAL. TRIBUTÁRIO. ICMS: PRODUTOS INDUSTRIALIZADOS DESTINADOS AO EXTERIOR: IMUNIDADE. OPERAÇÕES E PRESTAÇÕES DE SERVIÇO: DISTINÇÃO. C.F., art. 155, II, § 2º, IV, X, a, XII, e.
+    I. - ICMS: hipóteses de incidência distintas: a) operações relativas à circulação de mercadorias; b) prestações de serviço interestadual e intermunicipal e de comunicações: C.F., art. 155, II.
+    II. - A Constituição Federal, ao conceder imunidade tributária, relativamente ao ICMS, aos produtos industrializados destinados ao exterior, situou-se, apenas, numa das hipóteses de incidência do citado imposto: operações que destinem ao exterior tais produtos, excluídos os semi-elaborados definidos em lei complementar: art. 155, § 2º, X, a.
+    III. - Deixou expresso a C.F., art. 155, § 2º, XII, e, que as prestações de serviços poderão ser excluídas, nas exportações para o exterior, mediante lei complementar.
+    IV. - Incidência do ICMS sobre a prestação de serviço de transporte interestadual, no território nacional, incidindo a alíquota estabelecida por resolução do Senado Federal: C.F., art. 155, § 2º, IV.
+    V. - R.E. conhecido e provido.” (RE 212.637, Rel. Min. Carlos Velloso, Segunda Turma, DJ de 17/9/1999)
+    “TRIBUTÁRIO. SERVIÇO UTILIZADO NO TRANSPORTE INTERESTADUAL OU INTERMUNICIPAL DE PRODUTOS INDUSTRIALIZADOS DESTINADOS AO EXTERIOR. PRETENDIDA NÃO-INCIDÊNCIA DO ICMS. ART. 155, § 2º, X, A, DA CONSTITUIÇÃO FEDERAL.
+    Benefício restrito às operações de exportação de produtos industrializados, não abrangendo o serviço utilizado no transporte interestadual ou intermunicipal dos referidos bens. Recurso não conhecido.” (RE 196.527, Rel. Min. Ilmar Galvão, Primeira Turma, DJ de 13/8/1999)
+    Essa orientação se aplica, mutatis mutandis, ao presente caso, em que se pleiteou a extensão da imunidade tributária em relação às contribuições sociais, prevista no artigo 149, § 2º, I, da Constituição Federal para as receitas decorrentes de exportação, também às receitas advindas do serviço de transporte em território nacional das mercadorias destinadas à exportação.
+    Ex positis, DESPROVEJO o recurso, com fundamento no disposto no artigo 21, § 1º, do RISTF. Sem honorários (Súmula 512 do STF).
+    Publique-se.
+    Brasília, 30 de setembro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
