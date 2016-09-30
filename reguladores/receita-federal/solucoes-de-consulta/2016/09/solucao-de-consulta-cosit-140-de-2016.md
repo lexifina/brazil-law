@@ -1,0 +1,8 @@
+Solução de Consulta Cosit nº 140, de 20 de setembro de 2016
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA – IRPF
+EMENTA: LIVRO CAIXA. TRANSPORTE DE NUMERÁRIOS. ALIMENTAÇÃO DO EMPREGADO.
+Os gastos com a contratação de serviço de carro-forte para transporte de numerários podem ser enquadrados como despesa de custeio, relativamente aos serviços notariais e de registro, sendo possível sua dedução na apuração do Imposto sobre a Renda da Pessoa Física (IRPF) dos titulares desses serviços, desde que escriturados em livro Caixa e comprovados por meios hábeis e idôneos.
+Os dispêndios suportados pelo empregador com vale-refeição ou vale-alimentação destinados indistintamente a todos os empregados configuram despesa de custeio, passível de dedução dos rendimentos percebidos pelos titulares dos serviços notariais e de registro na apuração do IRPF, caso sejam escriturados em livro Caixa e comprovados com documentação idônea.
+DISPOSITIVOS LEGAIS: Decreto-Lei nº 5.452, de 1º de maio de 1943 - Consolidação das Leis do Trabalho (CLT), art. 458; Lei nº 6.321, de 14 de abril de 1976, arts. 1º a 3º; Parecer CST nº 1.554, de 27 de julho de 1979; Parecer Normativo CST nº 32, de 17 de agosto de 1981; Lei nº 8.134, de 27 de dezembro de 1990, art. 6º; Decreto nº 5, de 14 de janeiro de 1991, art. 6º; Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999), art. 299; Instrução Normativa RFB nº 971, de 13 de novembro de 2009, arts. 498 a 500 e 503; Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, arts. 53, 56 e 104; Solução de Divergência Cosit nº 3, de 26 de fevereiro de 2015; e Solução de Consulta Interna Cosit nº 6, de 18 de maio de 2015.
+[arquivo anexo: SC Cosit nº 140-2016.pdf]
+.
