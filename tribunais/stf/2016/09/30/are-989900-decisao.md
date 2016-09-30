@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “AÇÃO DE COBRANÇA. HONORÁRIOS DE PERITO. Pretensão visando que a Fazendo do Estado responda por honorários periciais. Prescrição. Ocorrência. Aplicação do artigo 206, parágrafo 1º, do Código Civil c.c artigo 10, do Decreto 20.910/32. Por apego à fundamentação , no mérito, a Fazenda sequer foi parte no processo de desapropriação. Honorários que devem ser arcados com a parte sucumbente. Possíveis falhas judiciais que não são indenizáveis, posto não ter agido a magistrada com dolo, fraude ou má-fé. Sentença mantida. Recurso improvido”(pág. 73 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, LXXV, e 37, § 6º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+     O Tribunal de origem decidiu a questão posta nos autos com base nos seguintes fundamentos:
+    “tratando-se de ação de cobrança e não como quer fazer crer o recorrente de ação de responsabilidade civil do Estado, a demanda encontra-se prescrita, pois por aplicação do artigo 206, III, do Código Civil, transcorrido lapso temporal superior a um ano, entre a data do arbitramento dos honorários periciais em 30 de novembro de 2005 e a propositura de demanda ocorrida em outubro de 2009. Da mesma forma, valendo-se como termo inicial da prescrição a data do trânsito em julgado da decisão do TJSP que rejeitou os embargos de declaração nos autos do Agravo de Instrumento nº 508.729.5/9-00, datada de 12 de março de 2007. Observe-se que, no caso, aplicável a previsão contida no artigo 10, do Decreto nº 20.910/32, aproveitando o ente público o menor prazo prescricional estabelecido em norma. (...)” (fls. 73/74 do vol. 3)
+    Infere-se, portanto, que o Tribunal a quo embasou sua decisão na ocorrência de prescrição, fundamento suficiente para a manutenção da decisão recorrida. O recorrente, contudo, não impugnou esse fundamento do acórdão, o que atrai a incidência da Súmula 283 desta Corte.
+    Ainda que superado tal óbice, melhor sorte não assiste ao recorrente. É que o acórdão recorrido limitou-se a julgar prescrita a ação com base na interpretação da legislação infraconstitucional aplicável à espécie (Decreto 20.910/1932 e Código Civil). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, transcrevo ementa do AI 747.283-AgR/RJ, Rel. Min. Gilmar Mendes:
+    Agravo regimental em agravo de instrumento. 2. Prazo prescricional. Código civil ou Decreto 20.910/32. Matéria infraconstitucional. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de setembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
