@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – AUSÊNCIA DE PREQUESTIONAMENTO – INVIABILIDADE - DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. A Turma Recursal do Juizado Especial de Sergipe, consignou, em síntese:
+    RECURSO INOMINADO – AÇÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITOS C/C DANO MORAL –RECUPERAÇÃO DE CONSUMO- AUSÊNCIA DE LAUDO TÉCNICOPROVAS PRODUZIDAS UNILATERALMENTE- PEDIDO CONTRAPOSTO INCABÍVEL EM RAZÃO DA EMPRESA DEMANDADA NÃO SE ENQUADRAR NEM COMO PEQUENA EMPRESA NEM COMO EMPRESA DE PEQUENO PORTE. - COBRANÇA INDEVIDA. INEXISTÊNCIA DO DANO MORAL CONFIGURADO DÉBITO. – QUANTUM ARBITRADO R$ 3.000,00 (TRÊS) MIL REAIS - RECURSO CONHECIDO E PROVIDO.
+    No recurso extraordinário, cujo trânsito busca alcançar, a recorrente alega violação dos artigos 5º, incisos XXXV, LIV e LV e 103-A, da Constituição Federal. Afirma ter realizado a fiscalização do equipamento de medição do consumo de energia no imóvel da autora de acordo com as regras previstas na legislação de regência. Pleiteia o afastamento do dano moral fixado por ausência de nexo de causalidade.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do pronunciamento recorrido o seguinte trecho:
+    Com efeito, examinando detidamente o presente feito, verifico que todos os documentos trazidos aos autos pela demandada foram produzidos unilateralmente, sem a presença de um fiscal do INMETRO, fato que torna inválido o processo administrativo, de acordo com o art. 72, II, da Resolução 456, da ANEEL. Vejamos:
+    Art. 72. Constatada a ocorrência de qualquer procedimento irregular cuja responsabilidade não lhe seja atribuível e que tenha provocado faturamento inferior ao correto, ou no caso de não ter havido qualquer faturamento, a concessionária adotará as seguintes providências:
+    (...)
+    II - solicitar os serviços de perícia técnica do órgão competente vinculado à segurança pública e/ou do órgão metrológico oficial, este quando se fizer necessária a verificação do medidor e/ou demais equipamentos de medição; irregularidade;
+    (...).
+    Não há como atribuir ao consumidor a culpa por um dano que não foi apurado por meio de laudo técnico oficial, em observância ao devido processo legal, sobre o qual o Supremo Tribunal Federal, já se posicionou, nos seguintes termos: “A Constituição Federal determina que o devido processo legal aplica-se aos procedimentos administrativos (C.F., art. 5º, LV), em qualquer caso”. (AgRg no AI 196.955-0-PE, Rel.Min. Carlos Velloso, JSTF-Lex 238:133).
+    No caso concreto, a empresa não observou os parâmetros traçados na resolução da ANEEL, o que demonstra, por si só, precipitação, prejudicial ao cidadão comum, confrontado numa situação de fragilidade.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, em especial, a Resolução nº 456 da Agência Nacional de Energia Elétrica - ANEEL, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    O sustentado nas razões não foi enfrentado pelo órgão julgador. Apesar da interposição de embargos declaratórios, não houve debate e decisão prévios sobre a alegada violação aos incisos XXXV, LIV e LV, do artigo 5º da Carta da República. Frise–se, por oportuno, que a recorrente não arguiu o vício de procedimento.
+    3. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    4. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia da parte agravada em apresentar contraminuta ao agravo.
+    5. Publiquem.
+Brasília, 30 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
