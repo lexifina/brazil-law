@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE - DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal da 3ª Região, confirmando em parte o Juízo, não reconheceu a pretendida dedutibilidade fiscal do Imposto de Renda Pessoa Jurídica - IRPJ. Assentou configurar “brinde” os bens móveis distribuídos pela recorrente e a ausência de demonstração da natureza das alterações promovidas em bens imóveis, observada a legislação de regência. No recurso extraordinário, cujo trânsito busca alcançar, a recorrente alega violados os artigos 93, inciso IX, e 153, inciso III, da Carta Política. Aduz ausência de prestação jurisdicional quanto ao conceito de renda sobre “brindes” e despesas de manutenção predial.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    No caso específico das despesas tidas com “brindes”, o Parecer Normativo CST nº 15/76 reconhece expressamente que tais despesas podem ser deduzidas como operacionais, desde que sejam de pequeno valor.
+    Verifica-se, no caso, que os brindes distribuídos pela empresa autora são bens móveis (fls. 5 e 97), tais como: refrigeradores, toca-fitas, televisores, aparelhos de ar condicionado, os quais, além de não possuírem correlação com a atividade desenvolvida pela empresa – fabricação de produtos farmacêuticos – possuem valor elevado que não pode ser considerado como mero brinde ou amostra distribuída com finalidade promocional.
+    […].
+    Assim merce ser mantida a sentença vergastada nesta parte, pois os gastos incorridos pela autora com brindes foram incorretamente contabilizados como operacionais, uma vez que não constituem despesas menores ou ínfimas.
+    […].
+    De fato, restou bem assentado no decisum vergastado que a autora deixou de juntar aos autos os documentos necessários para que o perito pudesse avaliar se os gastos relativos aos bens imóveis não proporcionaram a eles as características que impunham a necessária imobilização para fins de proibir a dedução dos respectivos valores como despesa operacional, a fim de desconstituir a presunção de certeza da conclusão tirada pela autoridade fiscal tributária, que, de outro lado, foi no sentido de que os valores deveriam ter sido imobilizados e amortizados sucessivamente.
+     As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o acórdão impugnado interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
