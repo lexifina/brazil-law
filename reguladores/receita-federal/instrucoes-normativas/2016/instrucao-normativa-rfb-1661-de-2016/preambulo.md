@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1661, de 29 de setembro de 2016
+Altera a Instrução Normativa RFB nº 1.300, de 20 de novembro de 2012, que estabelece normas sobre restituição, compensação, ressarcimento e reembolso, no âmbito da Secretaria da Receita Federal do Brasil.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 6º da Lei nº 10.593, de 6 de dezembro de 2002, e nos arts. 112 e 117 do Decreto nº 7.574, de 29 de setembro de 2011, resolve:

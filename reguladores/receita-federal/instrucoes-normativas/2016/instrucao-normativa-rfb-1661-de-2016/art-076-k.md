@@ -1,0 +1,1 @@
+Art. 76-K. A decisão sobre o pedido de restituição e sobre o pedido de ressarcimento de crédito relativo ao IPI caberá à DRF ou à Delegacia Especial da RFB que, à data do despacho decisório, tenha jurisdição sobre o domicílio tributário do estabelecimento da pessoa jurídica que apurou os valores pleiteados.

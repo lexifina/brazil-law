@@ -1,0 +1,1 @@
+Art. 76-N. A compensação de ofício do crédito de IPI e a restituição ou o ressarcimento do saldo credor porventura remanescente da compensação caberão à DRF ou à Delegacia Especial da RFB que, à data da compensação, tenha jurisdição sobre o domicílio tributário do estabelecimento que apurou o referido crédito.

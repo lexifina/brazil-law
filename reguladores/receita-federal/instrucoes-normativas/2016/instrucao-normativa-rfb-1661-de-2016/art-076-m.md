@@ -1,0 +1,1 @@
+Art. 76-M. A decisão sobre a compensação de crédito relativo ao IPI caberá à DRF ou à Delegacia Especial da RFB que, à data do despacho decisório, tenha jurisdição sobre o domicílio tributário do estabelecimento que apurou os referidos créditos.

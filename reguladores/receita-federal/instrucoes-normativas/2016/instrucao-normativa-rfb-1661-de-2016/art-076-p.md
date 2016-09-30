@@ -1,0 +1,1 @@
+Art. 76-P. A decisão sobre o pedido de restituição de crédito relativo ao Imposto sobre a Propriedade Territorial Rural (ITR) e a sua restituição caberão à DRF ou à Delegacia Especial da RFB em cuja jurisdição territorial estiver localizado o imóvel.

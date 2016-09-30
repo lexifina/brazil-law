@@ -1,0 +1,1 @@
+Art. 76-A. A decisão sobre o pedido de restituição, sobre o pedido de ressarcimento e sobre o pedido de reembolso, caberá à Delegacia da Receita Federal do Brasil (DRF) ou à Delegacia Especial da Receita Federal do Brasil (Delegacia Especial da RFB) que, à data do despacho decisório, tenha jurisdição sobre o domicílio tributário do sujeito passivo.

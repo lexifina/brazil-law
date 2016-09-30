@@ -1,0 +1,3 @@
+Art. 76-O. A decisão sobre o pedido de ressarcimento de crédito de IPI incidente sobre produtos adquiridos no mercado interno destinados à manutenção, ampliação ou reforma de imóveis de uso de missão diplomática, repartição consular de caráter permanente ou representação de caráter permanente de órgão internacional de que o Brasil faça parte, e o seu ressarcimento caberão à DRF ou à Delegacia Especial da RFB que, à data do despacho decisório, tenha jurisdição sobre o domicílio tributário do interessado.”
+“Seção VI
+Do Crédito Relativo ao ITR
