@@ -1,0 +1,36 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, com pedido de liminar, interposto por Nathan da Silva Lopes, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que não conheceu do HC nº 343.258/MG, Relator o Ministro Joel Ilan Paciornik.
+    Alega o recorrente, em síntese, a falta de fundamentação apta a justificar a necessidade da sua custódia preventiva, bem como estariam ausentes os pressupostos do art. 312 do Código de Processo Penal.
+    Segunda a defesa,
+    “a conclusão do e. TJMG no sentido de que o paciente seria contumaz na prática de delitiva decorreu da análise de declarações por ele prestadas perante a autoridade policial, oportunidade em que teria narrado a prática de outros delitos semelhantes. Todavia, tais considerações não estão amparadas por qualquer outro indício, sendo também certo que o paciente, na ocasião, não se encontrava acompanhado por advogado, de modo que não podem referidas declarações embasar um decreto de prisão preventiva, mormente quando se tem em conta que o delito objeto destes autos remonta aos idos de 2011 e não há notícia de novos fatos delituosos praticados posteriormente” (fls. 198/199).
+    Requer, liminarmente, o provimento do recurso para que, concedida a ordem de habeas corpus, seja revogada a sua prisão preventiva.
+    Examinados os autos, decido.
+    Transcrevo o teor do acórdão recorrido:
+    “HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. FURTO QUALIFICADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. REITERAÇÃO DELITIVA. PERICULOSIDADE CONCRETA DO PACIENTE, QUE OSTENTA VÁRIAS PASSAGENS POR CRIME CONTRA O PATRIMÔNIO. GARANTIA DA ORDEM PÚBLICA. HABEAS CORPUS NÃO CONHECIDO.
+    1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+    2. Considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art.312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos do previsto no art. 319 do CPP.
+    In casu, presentes elementos concretos a justificar a imposição da segregação antecipada. A instância ordinária, soberana na análise dos fatos, entendeu que restou demonstrada a maior periculosidade do paciente, evidenciada pela reiteração criminosa, na medida em que ostenta uma extensa folha de antecedentes criminais, sendo contumaz na prática de delitos contra o patrimônio.
+    Impende consignar, por oportuno, que, conforme orientação jurisprudencial desta Corte, inquéritos e ações penais em curso constituem elementos capazes de demonstrar o risco concreto de reiteração delituosa, justificando a decretação da prisão preventiva para garantia da ordem pública.
+    Noutro ponto, o Superior Tribunal de Justiça possui entendimento firme no sentido de que a presença de condições pessoais favoráveis, como primariedade, domicílio certo e emprego lícito, não impede a decretação da prisão preventiva, notadamente se há nos autos elementos suficientes para justificar a cautela.
+    Habeas corpus não conhecido” (fl. 175).
+    Pelo que se tem na decisão proferida pela Quinta Turma do Superior Tribunal de Justiça, não se vislumbra ilegalidade flagrante, abuso de poder ou teratologia que justifique o provimento do recurso. Com efeito, o acórdão proferido por aquela Corte de Justiça encontra-se devidamente motivado, restando justificado o convencimento formado.
+    Diga-se, ademais, que o título prisional do recorrente apresenta fundamentos aptos a justificar a constrição processual da sua liberdade, uma vez que calcado, entre outros aspectos, na garantida da ordem pública, tendo em vista o risco concreto de reiteração delitiva.
+    Conforme destacado pela Ministra Maria Thereza de Assim Moura em seu voto,
+    “[estão] presentes elementos concretos a justificar a imposição da segregação antecipada. A instância ordinária, soberana na análise dos fatos, entendeu que restou demonstrada a maior periculosidade do paciente, evidenciada pela reiteração criminosa, na medida em que ostenta uma extensa folha de antecedentes criminais, sendo contumaz na prática de delitos contra o patrimônio.
+    Impende consignar, por oportuno, que, conforme orientação jurisprudencial desta Corte, inquéritos e ações penais em curso constituem elementos capazes de demonstrar o risco concreto de reiteração delituosa, justificando a decretação da prisão preventiva para garantia da ordem pública” (fls. 182/183).
+    Esse entendimento não fere a jurisprudência da Corte, segundo a qual,
+    “[se] as circunstâncias do caso indicam a periculosidade do agente e o risco concreto de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardo da ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria” (RHC nº 123.295/PE, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 14/4/15).
+    No mesmo sentido: HC nº 123.304/MS, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/12/14; RHC nº 122.647/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 15/9/14; RHC nº 121.399/SP, Primeira Turma, de minha relatoria, DJe de 1º/8/14; HC nº 120.134/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 14/2/14.
+    De outra parte, consignou o Tribunal de Justiça de Minas Gerais ao julgar recurso em sentido estrito da acusação, que o recorrente
+    “encontra-se foragido sendo que o processo originário a que se refere o presente recurso foi suspenso, pois este não foi encontrado para ser citado.
+    (…)
+    Ora, encontrando-se o recorrido em local incerto e não sabido e consciente de que 02 (duas) ações penais tramitam em seu desfavor, saída não há outra se não decretar a sua prisão preventiva para garantir a aplicação da lei penal” (fl. 105).
+    É firme a jurisprudência da Corte no sentido de que
+    “é idônea a fundamentação jurídica apresentada para justificar a decretação da prisão preventiva, especialmente pelo fato de o paciente encontrar-se foragido há mais de 5 anos, apesar de intimado para defender-se na ação penal. Assim, considerando que o acusado permanece fora do âmbito de controle da Justiça, é legítima a manutenção do decreto prisional para garantir a aplicação da lei penal” (HC nº 129.472/SC-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 23/9/15).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 30 de setembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
