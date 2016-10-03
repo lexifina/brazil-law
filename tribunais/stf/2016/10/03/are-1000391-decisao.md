@@ -1,0 +1,22 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5°, XV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo, por oportuno, a ementa do acórdão proferido pela Corte de origem (f. 50, vol. 6):
+    “APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. CONDOMÍNIO. SERVIÇOS DE VIGILÂNCIA PROMETIDO AOS MORADORES ADQUIRENTES DE UNIDADES RESIDENCIAIS.
+    Pela contratação havida, verifica-se haver assunção do dever de vigilância em relação a residência dos autores por parte da demandada.
+    Presente a prática de ato ilícito, a ocorrência de prejuízo e a verificação do nexo causal.
+    Os juros moratórios incidem a partir da publicação da sentença que fixou a indenização.
+    Danos morais inexistentes. Trata-se de meros dissabores, não autorizando a indenização por danos morais pretendida.
+    APELO PARCIALMENTE PROVIDO. UNÂNIME.”
+    Verifico que, para aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo, seria necessário o revolvimento do quadro fático delineado na instância ordinária, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “EMENTA: DIREITO CIVIL. RESPONSABILIDADE CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. MATÉRIA INFRACONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTES DOS AUTOS. SÚMULA 279/STF. RECURSO MANIFESTAMENTE INADMISSÍVEL. IMPOSIÇÃO DE MULTA. 1. O Plenário do Supremo Tribunal Federal, por ausência de questão constitucional, rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes). 2. A solução da controvérsia demanda análise de matéria infraconstitucional e nova reapreciação dos fatos e do material probatório constantes dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário. 3. Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.” (ARE 949614 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 26/08/2016, PROCESSO ELETRÔNICO DJe-201 DIVULG 20-09-2016 PUBLIC 21-09-2016)
+    “EMENTA Agravo regimental no recurso extraordinário. Direito Civil e do Consumidor. Internet. Suspensão do serviço. Dano Moral. Indenização. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Cláusulas contratuais. Reexame. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como o reexame dos fatos e das provas dos autos ou das cláusulas do contrato firmado entre os litigantes. Incidência das Súmulas nºs 636, 279 e 454/STF. 3. Agravo regimental não provido. 4. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício de gratuidade da justiça.” (RE 965635 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 26/08/2016, PROCESSO ELETRÔNICO DJe-207 DIVULG 27-09-2016 PUBLIC 28-09-2016).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de outubro de 2016.
+Ministra Rosa Weber
+Relatora
