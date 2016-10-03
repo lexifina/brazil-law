@@ -1,0 +1,11 @@
+Decisão: Trata-se de recurso extraordinário em que se discute a aplicação do prazo decadencial previsto no artigo 54 da Lei 9.784/99 ao ato de revisão de aposentadoria ou pensão pelo Tribunal de Contas da União, bem como pleiteia-se a paridade no pagamento da pensão por morte titularizada pela parte Autora, porquanto o instituidor, apesar de aposentado em data anterior, faleceu após a Emenda Constitucional 41/2003.
+    O Supremo Tribunal Federal afetou à sistemática da repercussão geral no âmbito do Tema 445, cujo recurso-paradigma é o RE-RG 636.553, Rel. Min. Gilmar Mendes, DJe 09.03.2012, pendente ainda o julgamento de mérito, a matéria relativa à incidência do prazo decadencial previsto no artigo 54 da Lei 9.784/99 ao ato de revisão de aposentadoria, conforme ementa a seguir transcrita:
+    “Recurso extraordinário. 2. Servidor público. Aposentadoria. 3. Anulação do ato pelo TCU. Discussão sobre a incidência do prazo decadencial de 5 anos, previsto na Lei 9.784/99, para a Administração anular seus atos, quando eivados de ilegalidade. Súmula 473 do STF. Observância dos princípios do contraditório e da ampla defesa. Repercussão geral reconhecida.”
+    Quanto ao pedido de receber a integralidade da pensão, esta Corte, no julgamento do RE-RG 603.580, de relatoria do Ministro Ricardo Lewandowski, DJe 04.08.2015, assentou a repercussão geral a respeito da controvérsia contida nestes autos e, em 04.08.2015, julgou o mérito, cuja ementa transcrevo:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. PENSÃO POR MORTE. INSTITUIDOR APOSENTADO ANTES DA EMENDA CONSTITUCIONAL 41/2003, PORÉM FALECIDO APÓS SEU ADVENTO. DIREITO DO PENSIONISTA À PARIDADE. IMPOSSIBILIDADE. EXCEÇÃO: ART. 3º DA EC 47/2005. RECURSO EXTRAORDINÁRIO A QUE SE DÁ PARCIAL PROVIMENTO. I – O benefício previdenciário da pensão por morte deve ser regido pela lei vigente à época do óbito de seu instituidor. II – Às pensões derivadas de óbito de servidores aposentados nos termos do art. 3º da EC 47/2005 é garantido o direito à paridade. III – Recurso extraordinário a que se dá parcial provimento”.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 3 de outubro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
