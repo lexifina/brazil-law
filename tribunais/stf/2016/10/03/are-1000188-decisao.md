@@ -1,0 +1,22 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+    “ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE. DESCARGA ELÉTRICA. FUNCIONÁRIO DA FUNASA. FALECIMENTO. RESPONSABILIDADE OBJETIVA. NEXO CAUSAL. INDENIZAÇÃO POR DANOS MORAIS. RAZOABILIDADE DO VALOR ARBITRADO. 1. Responsabilidade civil objetiva do Estado para a reparação de dano. Presença dos elementos: evento danoso, conduta estatal e nexo de causalidade. Condenação do Recorrente na reparação dos danos morais sofridos pela Recorrida. 2. Razoabilidade no arbitramento do valor de R$ 110.000,00 (cento e dez mil reais) a titulo de danos morais. Apelação e Remessa não providas.” (pág. 13 do volume 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, § 6º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Destaca-se do voto condutor:
+    “Por fim, tratando do nexo causal, último requisito para atribuição da responsabilidade civil estatal, que consiste no liame entre o evento danoso e a conduta, sabe-se que o seu conceito não é jurídico, decorrendo das leis naturais.
+    Consiste, pois, na relação causal que estabelece vínculo entre um determinado comportamento e um evento, permitindo que se conclua se a ação ou omissão do agente foi ou não causa do dano. Determina-se o resultado como consequência natural da voluntária conduta do agente. No caso dos autos, resta claro que a invasão indevida da torre operada pelo funcionário da FUNASA no campo magnético fez com que houvesse descarga elétrica sobre o corpo dele, ocasionando a sua morte. No caso em apreço, portanto, tenho como evidenciada a existência do vínculo naturalístico entre a conduta culposa do servidor da FUNASA e o dano sofrido pela vítima. A indenização pleiteada nos autos foi no sentido de reparar o dano moral e material causado à demandante. O falecimento de pessoa da família (marido da demandante), em situação trágica como a dos autos, não traz dúvida de que houve lesão de cunho moral à viúva.” (pág. 6 do volume 2).
+    Para analisar a pretensão da recorrente e se chegar a conclusão contrária à adotada pelo Tribunal de origem quanto à inexistência de nexo de causalidade, de modo a isentar o dever de arcar com a indenização, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, transcrevo ementas de decisões de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE OBJETIVA DO ESTADO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 279 DO STF.
+    1. A responsabilidade objetiva se aplica às pessoas jurídicas de direito público pelos atos comissivos e omissivos, a teor do art. 37, § 6º, do Texto Constitucional. Precedentes.
+    2. O Tribunal de origem assentou a responsabilidade do Recorrente a partir da análise do contexto probatório dos autos e, para se chegar à conclusão diversa daquela a que chegou o juízo a quo, seria necessário o seu reexame, o que encontra óbice na Súmula 279 do STF.
+    3. Agravo regimental a que se nega provimento” (ARE 956.285-AgR/CE, Rel. Min. Edson Fachin, Primeira Turma).
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Omissão do Poder Público. Responsabilidade objetiva. Elementos da responsabilidade civil estatal demonstrados na origem. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. A jurisprudência da Corte firmou-se no sentido de que as pessoas jurídicas de direito público respondem objetivamente pelos danos que causarem a terceiros, com fundamento no art. 37, § 6º, da Constituição Federal, tanto por atos comissivos quanto por atos omissivos, desde que demonstrado o nexo causal entre o dano e a omissão do Poder Público.
+    2. Inadmissível, em recurso extraordinário, o reexame de fatos e provas dos autos. Incidência da Súmula nº 279/STF.
+    3. Agravo regimental não provido” (ARE 868.610-AgR/PB, Rel. Min. Dias Toffoli, Segunda Turma).
+    Com essa mesma orientação, menciono os seguintes julgados, entre outros: ARE 887.319-AgR/RS, Rel. Min. Dias Toffoli; AI 673.872-AgR/PI, Rel. Min. Roberto Barroso; ARE 931.305-AgR/RJ, Rel. Min. Gilmar Mendes; ARE 761.072-AgR/MG, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 3 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
