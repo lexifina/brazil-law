@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão que deu provimento à remessa oficial e ao recurso de apelação da Fazenda, por maioria dos votos, sob a alegação de legitimidade da exigibilidade do ICMS na importação por não contribuintes, após a edição da Emenda Constitucional n ° 33 de 2001 e, por não preenchimento dos requisitos à aferição de imunidade tributária.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5°, LXIX, 150, VI, ‘c'; 155, §2º, IX, alínea "a", da Carta. Sustenta que (1) se insere na imunidade prevista na Constituição Federal, nos termos do art. 150, VI, c, da Constituição. Aduz que possui, há 49 anos, o Certificado de Entidade Filantrópica expedido pelo Conselho Nacional de Assistência Social — CNAS, com pedido de renovação 4 deferido pela Medida Provisória n° 446 de 2008. (2) Sustenta, ainda, que se cuida de mercadoria importada para seu uso, não sendo contribuinte habitual do imposto, nos termos do art. 155, §2°, IX, "a", da CF, de modo que não incide ICMS.
+    A pretensão recursal não merece acolhida, tendo em vista que as disposições do acórdão recorrido estão alinhadas à jurisprudência do Supremo Tribunal Federal no sentido incide ICMS na importação após a EC 33/2001 ainda que não se trate de contribuinte habitual.
+    Com efeito, no RE 439.796-RG (Tema 171) restou firmada a tese de que após a Emenda Constitucional 33/2001, é constitucional a incidência de ICMS sobre operações de importação efetuadas por pessoa, física ou jurídica, que não se dedica habitualmente ao comércio ou à prestação de serviços.
+    Quanto à incidência da norma constitucional imunizante, no caso o acórdão recorrido apontou a necessidade de dilação probatória. Aponta ausência de prova a justificar o direito líquido e certo da Recorrente à imunidade. Colhe-se do voto do acórdão o seguinte trecho:
+    “Por fim, cumpre afastar o argumento de que a impetrante faz jus – imunidade em vista ao caráter de entidade assistencial que ostenta. Necessária a comprovação dos requisitos, do art. 14 do Código Tributário Nacional, de modo que à pretensão dependeria de inexorável dilação probatória, incabível -na estreita via do -mandado de segurança.”
+    Por tal razão, incide a vedação da Súmula nº 279/STF. No mesmo sentido: ARE 921880 / SP, Rel. Min. Cármen Lúcia; ARE 936504 / SP, Rel. Min. Gilmar Mendes; AI 703758 / SP, Rel. Min. Dias Toffoli e AI 767667 / SP, Rel. Min. Cármen Lúcia.
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 04 de outubro de 2016.
+Ministro Luís Roberto Barroso
+Relator
