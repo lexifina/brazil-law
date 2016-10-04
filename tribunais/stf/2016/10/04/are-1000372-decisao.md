@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão que julgou prescrita a pretensão autoral, nos seguintes termos:
+    “(...)
+    3 – A Lei Complementar Estadual nº 32/01, ao fixar novos valores nominais para o soldo e para as gratificações, manteve o decesso remuneratório, mas derrogou as formas de cálculo instituídas em leis anteriores, inclusive na Lei Estadual nº 11.216/95. A lesão, que se renovava mês a mês, consolidou-se, por assim dizer, em um ato singular, a vigência da Lei Complementar Estadual nº 32/01, contando-se, a partir deste momento, o prazo prescricional de 5 (cinco) anos, previsto no art. 1º do Decreto nº 20.910/32. Se a vigência foi iniciada na data da publicação da lei, 27.04.2001, é certo que a pretensão já se encontra extinta pela prescrição, ao tempo da propositura da ação, 24.08.2009.
+    (...)” (pág. 33 do documento eletrônico 1) .
+    No RE, fundado no art. 102, III, c, da Constituição Federal, sustenta-se, em suma, violação ao art. 37, X e XV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido julgou prescrita a pretensão autoral tão somente com apoio nas normas infraconstitucionais pertinentes ao caso. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada às referidas normas pelo juízo a quo. Assim, eventual ofensa à Constituição seria meramente indireta, o que inviabiliza o recurso extraordinário. Nesse sentido, menciono precedentes de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXECUÇÃO. PRAZO PRESCRICIONAL. DECRETO 20.910/1932. FAZENDA PÚBLICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Discussão acerca do prazo prescricional contra a Fazenda Pública, previsto no Decreto 20.910/1932, cinge-se ao âmbito infraconstitucional. Precedentes. 2. Agravo Regimental a que se nega provimento” (ARE 909.658-AgR/DF, Rel. Min. Edson Fachin, Primeira Turma).
+    “EMENTA: Agravo regimental no recurso extraordinário com agravo. Administrativo. Prescrição. Decreto-Lei 20.910/32. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (ARE 938.349-AgR/PE, Rel. Min. Dias Toffoli, Segunda Turma).
+    Ademais, os Ministros deste Tribunal, no ARE 694.450-RG/PE (Tema 601), de minha relatoria, manifestaram-se pela inexistência de repercussão geral da controvérsia ora em exame. A propósito, transcrevo a ementa do referido julgado:
+    “ADMINISTRATIVO. MILITARES DO ESTADO DE PERNAMBUCO. DETERMINAÇÃO DO VALOR DO SOLDO. ESCALONAMENTO VERTICAL. VALOR BÁSICO DE REFERÊNCIA – VBR. LEIS ESTADUAIS 10.426/1990 E 11.216/1995 E LEI COMPLEMENTAR ESTADUAL 32/2001. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. INEXISTÊNCIA DE REPERCUSSÃO GERAL”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 4 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
