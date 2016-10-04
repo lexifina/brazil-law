@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – AUSÊNCIA DE
+PREQUESTIONAMENTO – INVIABILIDADE – NEGATIVA DE SEGUIMENTO
+    1. O Tribunal Regional Federal da 5ª Região confirmou o entendimento do Juízo quanto à procedência dos pedidos de nulidade do ato administrativo que revogou a nomeação de servidora pública e de condenação da Universidade ao pagamento de indenização por danos morais. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação do artigo 2º, 37, incisos I e I,I e 169, § 1º, da Constituição Federal, 7º, 10 e 11 da Lei nº 8.112/90, e 53 da Lei nº 9.784/99. Aponta a contrariedade ao princípio da separação dos Poderes, dizendo não caber ao Judiciário adentrar no mérito administrativo. Afirma a impossibilidade de nomeação da candidata diante da ausência de autorização do Ministério do Planejamento. Discorre sobre a falta de dotação orçamentária.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão os seguintes trechos:
+    É que, conforme os documentos colacionados aos autos, observa-se que, ao contrário do que alega a autora, o Ministério da Educação, autorizado pela Portaria nº 363/08 do Ministério do Planejamento, Orçamento e Gestão (fl. 438), por meio da Portaria nº 1.503, de 11 de dezembro de 2008 (fls. 439/440), consentiu o provimento de diversos cargos em atendimento ao Projeto Programa de Apoio e Planos de Reestruturação e Expansão das Universidades –REUNI, 2008 e 2009, e, em sua discriminação previu para a UFS: 0 (zero) cargos para docente de 3º grau; 24 (vinte e quatro) vagas para técnico-administrativo nível “B, C e D”e 5 (cinco) vagas para técnico-administrativo nível “E”– nas quais se inclui o cargo de Secretário Executivo, para o qual foi nomeada a requerente. Verifica-se, então, que há existência de vagas a ser preenchidas.
+    Infere-se, então, que, além de a UFS não ter comprovado o motivo determinante a ensejar a revogação da nomeação da candidata, há existência de vagas a ser preenchidas pela instituição. Constatando-se que irregular e abusivo foi o ato da Administração Pública de revogar a portaria de nomeação, sem motivo plausível diante de um ato válido e eficaz.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que, no caso, os argumentos expendidos no recurso não foram enfrentados pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula deste Tribunal.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 4 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
