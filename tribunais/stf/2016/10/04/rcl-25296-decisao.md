@@ -1,0 +1,15 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Jair Eduardo Destro e Luís Fernando Geraldo afirmam haver a Vice-Presidente do Tribunal Regional Federal da 3ª Região, no processo nº 0002666-94.2005.4.03.6105/SP, olvidado o decidido na ação declaratória de constitucionalidade nº 43.
+    Segundo narram, foram denunciados ante a alegada prática dos delitos previstos nos artigos 168-A, § 1º, inciso I (apropriação indébita previdenciária), e 337-A (sonegação de contribuição previdenciária), ambos do Código Penal, de forma continuada e em concurso material. Relatam a condenação, em primeira instância, a 6 anos e 10 dias de reclusão, em regime inicial semiaberto, bem assim ao pagamento de 124 dias-multa, tendo sido afastada a substituição da pena e deferido o benefício de recorrer em liberdade. Apontam o parcial provimento da apelação, no que reduzida a segregação para 5 anos e 2 meses, além de 25 dias-multa, considerado o reconhecimento da circunstância atenuante de confissão. Não se obteve êxito com subsequentes declaratórios. Interposto especial, foi inadmitido, havendo a autoridade reclamada determinado a execução provisória da sanção presente o assentado, pelo Supremo no habeas corpus nº 126.292/SP. Dizem da pendência de apreciação de novos declaratórios.
+    Discorrem sobre o cabimento da reclamação. Arguem o desrespeito ao paradigma porquanto nele proclamada, em sede liminar, a inadequação do cumprimento provisório da pena, considerado o voto proferido por Vossa Excelência. Destacam a ausência de fundamentação do ato que implicou a custódia.
+    Sob o ângulo do risco, aludem à limitação indevida da própria liberdade.
+    Requerem, no campo precário e efêmero, a imediata suspensão da execução criminal. Postulam, alfim, seja confirmada a medida acauteladora e obstada a custódia até o trânsito em julgado ou mediante decisão fundamentada a justificar eventual prisão processual.
+    2. Este processo somente serve à sobrecarga da máquina judiciária, à sobrecarga suportada pelo Supremo, que, no tocante à celeridade processual, encontra-se inviabilizado. Mostra-se evidente a impertinência da medida. A atuação monocrática de relator em processos objetivos é excepcional, ocorrendo em casos de urgência, não evidenciada relativamente às ações declaratórias de constitucionalidade nº 43 e 44. Embora tenha proferido voto no sentido do implemento da liminar na sessão realizada em 1º de setembro último, o julgamento foi, em seguida, suspenso. Enquanto não concluída a apreciação da medida acauteladora pelo Colegiado, revela-se inviável admitir a existência desta.
+    Atentem para a organicidade e a instrumentalidade do Direito. O manuseio da reclamação é restrito. Pressupõe a usurpação da competência do Supremo ou o desrespeito a decisão por si proferida.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 4 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
