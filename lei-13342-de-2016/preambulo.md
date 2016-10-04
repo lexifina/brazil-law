@@ -1,0 +1,2 @@
+Altera a Lei nº 11.350, de 5 de outubro de 2006, para dispor sobre a formação profissional e sobre benefícios trabalhistas e previdenciários dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias, e a Lei nº 11.977, de 7 de julho de 2009, para dispor sobre a prioridade de atendimento desses agentes no Programa Minha Casa, Minha Vida (PMCMV).
+O PRESIDENTE DA CÂMARA DOS DEPUTADOS, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
