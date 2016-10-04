@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência de pedido formulado em ação inibitória, afirmando não ter havido prova quanto à irregularidade da notificação por infração de trânsito. No extraordinário, cujo trânsito pretende alcançar, o recorrente alega a violação do artigo 5º, incisos XLV e LV, da Constituição Federal. Afirma a nulidade da notificação, implicando a inviabilidade de apresentação de defesa no processo administrativo que culminou na suspensão do direito de dirigir.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes fundamentos:
+    Com efeito, não basta afirmar o fato na inicial ou em contrarrazões, pois o advogado não responde pela prática ilícita ou pelo abuso do direito da parte.
+    Caberia ao autor a prova da negativa relativa, que não se confunde com a negativa absoluta. Assim é que não colhe a máxima dos romanos segundo a qual impossibilium nemo tenetur. Há provas negativas possíveis, desde que possam ser convertidas em afirmativa ou "quando se mostre a demonstração ao alcance de quem alega" (Moacyr Amaral Santos, Comentários ao Código de Processo Civil, 5' ed., vol. IV, RT Forense, 1989, p. 23; Arruda Alvim, Curso de Direito Processual, vol. II, SP, RT, 1972, p. 303).
+    Esperava-se, no que concerne às multas, que o autor estivesse em condições de juntar documento, com subscrição própria, no qual afirmasse o fato de não ter recebido as notificações. No lugar disto, limitou-se a conferir poderes para a propositura da ação. Está claro que o causídico não pode responder pela versão que lhe apresenta o cliente, pelo que há de se concluir que simples alegações, nestes termos lançadas, não podem desconstituir a presunção de legitimidade (e de veracidade) que milita em favor dos atos administrativos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    De resto, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, assentando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender da prévia análise da adequada aplicação de normas infraconstitucionais
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 4 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
