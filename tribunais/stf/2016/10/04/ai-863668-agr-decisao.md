@@ -1,0 +1,18 @@
+DECISÃO
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. RECURSO INTERPOSTO CONTRA DESPACHO PELO QUAL SE DETERMINA A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA OBSERVÂNCIA DA SISTEMÁTICA DA REPECUSSÃO GERAL. RECURSO MANIFESTAMENTE INADMISSÍVEL. PRECEDENTES. RECURSO RECEBIDO COMO SIMPLES PETIÇÃO E NÃO CONHECIDO.
+    1. Em 15.2.2016, o Presidente do Supremo Tribunal Federal determinou a devolução dos autos ao Tribunal de origem por ter este Supremo Tribunal submetido à repercussão geral as questões trazidas no presente recurso (Agravo de Instrumento n. 791.292, Tema n. 339).
+    2. Publicado esse despacho no DJe de 22.2.2016, Associação Conhecer de Educação e Ensino Ltda. Interpõe agravo regimental.
+    Analisada a questão trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste à Agravante.
+    4. Recebo o recurso interposto como simples petição.
+    5. O Supremo Tribunal Federal assentou a irrecorribilidade do despacho pelo qual se determina a devolução dos autos à origem para observância da sistemática da repercussão geral:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. REPERCUSSÃO GERAL RECONHECIDA. DESISTÊNCIA DO RECURSO PARADIGMA. FUTURA SUBSTITUIÇÃO. DECISÃO QUE DETERMINA A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA OBSERVÂNCIA DO ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. IDENTIDADE MATERIAL: IRRECORRIBILIDADE. PRECEDENTE. AGRAVO REGIMENTAL NÃO CONHECIDO” (RE n. 784.034-AgR, de minha relatoria, Segunda Turma, DJe 24.6.2014).
+    “RECURSO. Agravo Regimental. Despacho que determina devolução dos autos ao tribunal a quo para aplicação da sistemática da repercussão geral. Ato de mero expediente. Incidência do art. 504 do CPC. Agravo não conhecido. É inadmissível agravo regimental contra ato de mero expediente que determina a devolução do feito ao tribunal de origem para aplicação da sistemática da repercussão geral” (AI n. 775.139-AgR, Relator o Ministro Cezar Peluso, Presidente, Plenário, DJe 19.12.2011).
+    “Agravo regimental no recurso extraordinário. Repercussão geral. Decisão que determina o retorno dos autos à origem. Irrecorribilidade. Precedentes. 1. Consoante a jurisprudência desta Corte, é irrecorrível a decisão que, com base no art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, determina a devolução dos autos ao Tribunal de origem, para observância do disposto no art. 543-B do Código de Processo Civil. 2. Agravo regimental não conhecido” (RE n. 595.251-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 9.3.2012).
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. SEGUNDO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA ATO DE RELATOR QUE ENTENDEU INCABÍVEL O PRIMEIRO AGRAVO REGIMENTAL DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS PARA OS FINS PREVISTOS NO ART. 543-B DO CPC. 1. A matéria discutida no acórdão recorrido extraordinariamente adotou, também, fundamento constitucional, permitindo a aplicação da repercussão geral da matéria de fundo. 2. O Supremo Tribunal Federal, por meio de sua Segunda Turma, assentou o entendimento da evidente irrecorribilidade do ato que meramente ordenou a devolução dos autos ao órgão judiciário de origem, nos termos e para os fins do art. 543-B do CPC. Precedentes. 3. Agravo regimental a que se nega provimento, com a determinação da imediata devolução dos autos ao Juízo de origem, independentemente da publicação de acórdão” (RE n. 535.994-AgR, Relatora a Ministra Ellen Gracie, Segunda Turma, DJe 7.2.2011).
+    6. Nada há a prover quanto às alegações da Peticionária.
+    7. Pelo exposto, não conheço do recurso (art. 13, inc. V, al. c, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 4 de outubro de 2016.
+Ministra CÁRMEN LÚCIA
+Presidente
