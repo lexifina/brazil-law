@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “Responsabilidade civil - Gravame lançado em bem de pessoa estranha ao negócio – Responsabilidade objetiva da prestadora de serviços - Declaração de nulidade do contrato que era de rigor, pois ausentes indícios de sua licitude - Pretensão de recebimento de indenização por danos materiais - Inadmissibilidade - Ausência de provas que demonstrem efetivo prejuízo sofrido – Impossibilidade de conhecimento – Recurso parcialmente provido” (pág. 146 do documento eletrônico 2) .
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação ao art. 5º, II, XXXV, LIV e LV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Quanto à alegada ofensa ao art. 5º, II e XXXV, da Constituição, verifica-se que não ocorreu o necessário prequestionamento. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), Rel. Min. Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Por fim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 5 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
