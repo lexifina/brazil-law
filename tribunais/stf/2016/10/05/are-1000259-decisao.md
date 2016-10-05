@@ -1,0 +1,12 @@
+Decisão: Decisão: Trata-se agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Mato Grosso que manteve a decisão monocrática do Desembargador Relator, assim ementada (eDOC6, p. 49):
+    “CONSTITUCIONAL E ADMINISTRATIVO – RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – SERVIDORES PÚBLICOS ESTADUAIS – CONVERSÃO DA MOEDA DE CRUZEIROS REAIS EM URV – PREJUDICIAL DE CERCEAMENTO DE DEFESA – REJEITADA – DESNECESSIDADE DE PERÍCIA – INCORPORAÇÃO À REMUNERAÇÃO – ENTENDIMENTO CONSOLIDADO DO STJ – OBSERVÂNCIA OBRIGATÓRIA PARA TODOS OS ENTES PÚBLICOS – REESTRUTURAÇÃO DA CARREIRA – AUSÊNCIA DE PROVA DA INCLUSÃO DO ÍNDICE – HONORÁRIOS ADVOCATÍCIOS – VALOR EXCESSIVO – REDUÇÃO – RECURSO PROVIDO PARCIALMENTE.
+    (...)”
+    No recurso extraordinário, alega-se violação do art. 168, caput, da Constituição Federal.
+    O Supremo Tribunal Federal, ao analisar o ARE 968.574, tema 913, Rel. Min. Teori Zavascki, reconheceu a inexistência de repercussão geral da controvérsia em exame, por entender que ela possui natureza infraconstitucional. Reproduzo a ementa desse julgado:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. ÍNDICE RELATIVO À PERDA SALARIAL DECORRENTE DA CONVERSÃO DO CRUZEIRO REAL EM UNIDADE REAL DE VALOR (URV). TERMO FINAL DA INCORPORAÇÃO. REESTRUTURAÇÃO REMUNERATÓRIA DA CARREIRA. VERIFICAÇÃO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. Possui natureza infraconstitucional a controvérsia relativa à ocorrência ou não de reestruturação remuneratória da carreira de servidor público, para fins de estabelecimento do termo final da incorporação do percentual relativo à perda salarial decorrente da conversão do Cruzeiro Real em URV. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 1.035 do CPC/2015.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 5 de outubro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
