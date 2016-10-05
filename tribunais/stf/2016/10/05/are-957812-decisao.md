@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5º, XXXV, LIV, LXXIV e LXXVIII, e 134 da Constituição Federal.
+    Anote-se a ementa da decisão proferida pelo Tribunal de origem:
+    “DIREITO PROCESSUAL. AÇÃO CIVIL PÚBLICA. DEFENSORIA PÚBLICA. FUNDO DE SAÚDE. VEDAÇÃO À MATÉRIA TRIBUTÁRIA. EXTINÇÃO SEM JULGAMENTO DO MÉRITO. DESPROVIMENTO.
+    1. Recurso de agravo com fundamento no artigo 557, parágrafo 1º, do Código de Processo Civil, contra decisão desta relatoria que negou seguimento a recurso contra sentença que, em ação civil pública com a qual a Defensoria Pública pretende a condenação do Estado e do Rioprevidência a se abster de descontar dos Policiais e Bombeiros Militares valores sob a rubrica “Fundo de Saúde”, julgou extinto o processo sem resolução do mérito, ante a existência de vedação legal ao manejo da referida ação, em se tratando de matéria tributária.
+    2. Ante o que vai do artigo 3º do Código Tributário Nacional, possui caráter tributário a exação, e o fato de se haver concluído pela sua inconstitucionalidade não lhe retira essa característica, até mesmo porque inferiu o Órgão Especial desta Corte a existência de vício de competência, não possuir o Estado membro atribuição constitucional para instituir contribuição social.
+    3. Inafastável a incidência da proibição instituída pelo artigo 1º, parágrafo único, da Lei nº 7.347/85, que veda o cabimento da ação civil pública para veicular pretensões que envolvam tributos.
+    4. Agravo improvido”.
+    Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Odim Brandão Ferreira, pelo parcial provimento do recurso extraordinário.
+    Decido.
+    A irresignação não merece prosperar.
+    A jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos incisos LIV e XXXV do art. 5° da Constituição Federal, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE nº 748.371/MT-RG, Relator o Ministro Gilmar Mendes, DJe de 1°/8/13).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGADA VIOLAÇÃO PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA MESMA CARTA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I - O Supremo Tribunal Federal possui entendimento pacífico no sentido de que a violação ao art. 5º, XXXV, LIV e LV, da Magna Carta, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. II - O art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada, mas sim que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. III – Agravo regimental improvido” (AI nº 812.481/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1°/2/11).
+    Ademais, o Plenário desta Corte, no julgamento do ARE n° 694.294/MG-RG, Relator o Ministro Luiz Fux, reafirmou a jurisprudência do Supremo Tribunal Federal no sentido de que é vedado, em ação civil pública, deduzir pretensão relativa à matéria de natureza tributária, como ocorre no caso em tela. O julgado restou assim ementado:
+    “DIREITO CONSTITUCIONAL. TRIBUTÁRIO. APELAÇÃO INTERPOSTA EM FACE DE SENTENÇA PROFERIDA EM SEDE DE AÇÃO CIVIL PÚBLICA QUE DISCUTE MATÉRIA TRIBUTÁRIA (DIREITO DOS CONTRIBUINTES À RESTITUIÇÃO DOS VALORES PAGOS À TÍTULO DE TAXA DE ILUMINAÇÃO PÚBLICA SUPOSTAMENTE INCONSTITUCIONAL). ILEGITIMIDADE ATIVA "AD CAUSAM" DO MINISTÉRIO PÚBLICO PARA, EM AÇÃO CIVIL PÚBLICA, DEDUZIR PRETENSÃO RELATIVA À MATÉRIA TRIBUTÁRIA. REAFIRMAÇÃO DA JURISPRUDÊNCIA DA CORTE. REPERCUSSÃO GERAL RECONHECIDA” (DJe de 17/5/13).
+    Destaca-se, por oportuno, parte da manifestação da referida repercussão geral:
+    “DIREITO CONSTITUCIONAL. TRIBUTÁRIO. APELAÇÃO INTERPOSTA EM FACE DE SENTENÇA PROFERIDA EM SEDE DE AÇÃO CIVIL PÚBLICA QUE DISCUTE MATÉRIA TRIBUTÁRIA (DIREITO DOS CONTRIBUINTES À RESTITUIÇÃO DOS VALORES PAGOS À TÍTULO DE TAXA DE ILUMINAÇÃO PÚBLICA SUPOSTAMENTE INCONSTITUCIONAL)(...).
+    (…) o Juízo Singular extinguiu o feito sem resolução de mérito, ao fundamento de que o autor carecia de legitimidade ativa para requerer tanto a suspensão da cobrança, quanto a devolução dos valores até então pagos pelos munícipes.
+    (...)
+    In casu, o Ministério Público de Minas Gerais, por sua promotoria de Justiça oficiante na Comarca de Santa Bárbara, propôs contra o Município homônimo uma Ação Civil Pública de Responsabilidade por Cobrança Inconstitucional de Taxa de Iluminação Pública, exarando argumentos que, ao final, arrematou com os pedidos de (...)(ii) concessão de liminar para fazer cessar imediatamente a tal cobrança, com fixação de multa em caso de descumprimento; (iii) condenação da municipalidade à devolução aos contribuintes, de forma retroativa, dos valores cobrados, algo a ser feito via compensação nas contas posteriores.
+    (...)
+    Com efeito, a jurisprudência desta Corte pacificou entendimento segundo o qual falece ao Ministério Público legitimidade ativa ad causam para deduzir em juízo pretensão de natureza tributária em defesa dos contribuintes(...)” (Grifei).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 5 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
