@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita, no que importa:
+    “JUIZADOS ESPECIAIS CÍVEIS. DIREITO DO CONSUMIDOR. TAXI. TRANSPORTE DE DEFICIENTE VISUAL ACOMPANHADO DE CÃO-GUIA RECUSADO. FALHA NA PRESTAÇÃO DO SERVIÇO. OFENSA AOS ATRIBUTOS DA PERSONALIDADE. DANOS MORAIS CONFIGURADOS. VALOR FIXADO EM CONSONÂNCIA AOS PRINCÍPIOS DA PROPORCIONALDIADE E DARAZOABILIDADE. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA. (...)”
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º II, XXXII, 93, IX, e 170 V e parágrafo único, da Constituição Federal.
+    O agravo não merece acolhida.
+    Preliminarmente, observo que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário.
+    É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Por fim, registre-se que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei 11.126/05). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: ARE 701.440/MG, Rel. Min. Luiz Fux; AI 719.465/MG Rel. Min. Ellen Gracie; AI 830.930/MG, Rel. Min. Gilmar Mendes; AI 792.937/MG Rel. Min. Joaquim Barbosa; e AI 802.448/MG, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (Art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 06 de outubro de 2016.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
