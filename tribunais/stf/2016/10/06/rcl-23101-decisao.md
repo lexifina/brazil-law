@@ -1,0 +1,17 @@
+Trata-se de reclamação ajuizada contra ato da Procuradoria da República no Paraná que teria violado a Súmula Vinculante 14 do Supremo Tribunal Federal.
+    Informam os reclamantes que “foram devidamente constituídos por seu patrocinado Jonas Leite Suassuna Filho nos autos do referido procedimento investigatório criminal (1.25.000.003350/2015-98) em trâmite na Procuradoria da República no Paraná” (pág. 1 do documento eletrônico 2).
+    Alegam ainda que,
+    “não obstante os reclamantes estivessem devidamente constituídos nos autos daquele caderno investigativo, e tivessem apresentado à Autoridade Reclamada petição requerendo expressamente cópia reprográfica de inteiro teor da investigação, a Procuradoria da República decidiu conceder apenas vista do procedimento, condicionada, ainda, a determinado dia e lugar.” (pág. 2 do documento eletrônico 2).
+    Esclarece ainda, que apesar de a vista ter sido deferida, “o pedido formulado pelos ora reclamantes não foi tão-somente de vista dos autos, mas, principalmente, o de cópia reprográfica de seu inteiro teor, conforme claramente se depreende da petição protocolada”. (pág. 2 do documento eletrônico 2).
+    Argumenta que os autos possuem três volumes, dezesseis apensos e mais de dez horas de depoimentos audiovisuais, “sendo impossível ao subscritores analisarem devidamente o feito”, sem a possibilidade de extrair cópias.
+    Por fim, requerem a procedência da reclamação, com o reconhecimento da violação `a Súmula Vinculante 14, para que seja determinado à “autoridade reclamada que conceda amplo acesso – com extração de cópias de inteiro teor, por meio físico ou digital – aos reclamantes ao procedimento investigatório n° 1.25.0000.003350/2015-98, em que estão devidamente constituídos”.
+    A Ministra Cármen Lúcia indeferiu a liminar por não estarem presentes os requisitos para a concessão. Destacou, em sua decisão, que “há a juntada de decisão do Ministério Público Federal pela qual se observa que, além da vista dos autos, em que se autorizou realização de anotações, também foi deferida a extração de cópia digital do procedimento com a aposição de marca d’água para preservar o sigilo”. (pág. 5 do documento eletrônico 13).
+    A Procuradoria da República no Paraná informou que “em momento algum inviabilizou-se aos advogados o acesso ao procedimento, mas tão somente organizou-se o acesso aos autos, diante do elevado número de envolvidos, e o procedimento de extração de cópias, diante do caráter sigiloso da tramitação” (pág. 2 do documento eletrônico 19).
+    A Procuradoria-Geral da República manifestou-se pela improcedência da reclamação, em parecer da lavra do Procurador-Geral da República Rodrigo Janot Monteiro de Barros.
+    Foram opostos embargos declaratórios contra a decisão que indeferiu a liminar.
+    Observo que a petição inicial, a decisão que indeferiu a liminar, as informações prestadas e o recurso de embargos tramitaram no final do mês de fevereiro. Portanto, temos o transcurso de 8 meses que, diante da dinâmica da persecução criminal, pode ter acarretado a perda do objeto da presente lide, caso os reclamantes já tenham obtido vista dos autos para extração de cópias de inteiro teor, por meio físico ou digital, do procedimento investigatório n. 1.25.0000.003350/2015-98.
+    Isso posto, intimem-se os reclamantes para que se manifestem sobre o interesse no prosseguimento do feito.
+    Publique-se.
+    Brasília, 6 de outubro de 2016.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
