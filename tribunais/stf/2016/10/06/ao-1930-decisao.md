@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de ação coletiva proposta, em litisconsórcio facultativo, pela Associação Espírito-santense do Ministério Público e pela Associação dos Magistrados do Espírito Santo, como substitutos processuais de seus respectivos associados, contra a União, com o objetivo de condenar a ré a se abster de exigir de seus substituídos o preenchimento dos requisitos previstos na Lei 10.826/2003 e na Instrução Normativa 23/2005-DG/DPF para a realização do registro e da renovação do Certificado de Registro de Arma de Fogo.
+    Considerada a incompetência absoluta do Supremo Tribunal Federal para processar e julgar a demanda proposta pela Associação Espírito-santense do Ministério Público, determinou-se a intimação dos autores, em despacho datado de 02/9/2015, a fim de que emendassem a petição inicial e corrigissem o defeito assinalado, sob pena de indeferimento. Sem embargo, os demandantes quedaram-se inertes.
+    Pois bem. Somente é possível a admissão do litisconsórcio facultativo ativo, como típica hipótese de comunhão de pedidos, quando o juízo detiver competência absoluta para conhecer de todos os pleitos formulados, ex vi do disposto no art. 327, §1º, II, do CPC/2015. Na hipótese, é nítida a incompetência desta Corte para julgar uma das demandas, conforme já apontado no último despacho proferido nestes autos.
+    2. Isso posto, indefiro parcialmente a petição inicial e julgo extinto, em parte, o processo, sem a resolução do mérito, com relação à demanda proposta pela Associação Espírito-santense do Ministério Público, nos termos do art. 321, parágrafo único, c/c o art. 485, I, ambos do CPC/2015. Determino o prosseguimento do feito com relação ao pedido formulado pela Associação dos Magistrados do Espírito Santo.
+    Desentranhem-se dos autos os documentos que pertencem exclusivamente à Associação Espírito-santense do Ministério Público, notificando-se a parte interessada, nos termos do art. 9º, §4º, da Resolução 427, de 20 de abril de 2010, do STF.
+    Cite-se a União para contestar o pedido, no prazo de 30 (trinta) dias (art. 335, III, c/c o art. 183, caput, ambos do CPC).
+    Publique-se. Intime-se.
+    Brasília, 6 de outubro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
