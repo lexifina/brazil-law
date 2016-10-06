@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo que impugna decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, nos autos dos Apelação Criminal n. 2012.01.1.080684-5.
+    No caso, verifico que os recorrentes interpuseram, contra o acórdão proferido nos embargos de declaração na apelação criminal, simultaneamente, embargos infringentes e recurso extraordinário.
+    Logo, o recurso extraordinário não se revela admissível, porquanto os agravantes não esgotaram as vias ordinárias cabíveis, fazendo incidir o enunciado na Súmula 281 do Supremo Tribunal Federal (É inadmissível o recurso extraordinário, quando couber na Justiça de origem, recurso ordinário da decisão impugnada); tampouco, ratificaram ou renovaram o recurso extraordinário após o julgamento dos embargos infringentes.
+    Nesse sentido, é o entendimento da Corte nos termos dos precedentes a seguir transcritos :
+    “Agravo regimental no recurso extraordinário com agravo. Recurso extraordinário extemporâneo. Orientação da Súmula 281. Princípio da unirrecorribilidade recursal. Precedentes. 1. É extemporâneo o recurso extraordinário interposto antes do julgamento de todos os recursos interpostos na instância de origem e sem posterior ratificação no prazo recursal. Ressalte-se que, no caso, o recurso extraordinário foi interposto pela mesma parte que opôs o recurso de embargos e, após esse, o de agravo interno no Tribunal a quo. 2. Incide, também, no caso, a orientação da Súmula nº 281, haja vista a existência de recurso pendente de análise na corte de origem. 3. A interposição simultânea, pela ora agravante, de recurso extraordinário e de recurso de embargos malferiu o princípio da unirrecorribilidade recursal. 4. Agravo regimental não provido.” (ARE 718.944/RS AgR, Rel. Min. Dias Toffoli, Primeira Turma, Dje 29.8.2013)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Não esgotamento de instâncias ordinárias. Verbete n. 281. 3. Agravo regimental a que se nega provimento.”
+(ARE 696.602/MG AgR, minha relatoria, Segunda Turma, Dje 4.9.2012)
+    “AGRAVO REGIMENTAL. PROCESSO DO TRABALHO. INTERPOSIÇÃO DE RECURSO DE EMBARGOS E DE RECURSO EXTRAORDINÁRIO DA MESMA DECISÃO. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. SÚMULA 281. 1. Não consiste em exceção ao princípio da unirrecorribilidade a interposição de recurso extraordinário e recurso de embargos da mesma decisão. Ausência de posterior ratificação. Hipótese que impõe a aplicação da Súmula 281. 2. Agravo regimental a que se nega provimento.”
+(AI 677.964/RJ AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, Dje 14.6.2012)
+    “1. Embargos de declaração convertidos em agravo regimental. 2. Recurso extraordinário: incidência da Súmula 281: inadmissibilidade do RE interposto simultaneamente com embargos infringentes que cuidaram do mesmo tema, se, publicado o acórdão que os julgou, o recorrente não reitera o recurso.” (AI 594.608/RS ED, Rel. Min. Sepúlveda Pertence, Primeira Turma, Dje 17.8.2007)
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se. Int..
+    Brasília, 6 de outubro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
