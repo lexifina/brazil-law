@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO. ART. 557, § 1º, DO CPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. NOMEAÇÃO DE BENS À PENHORA. INOBSERVÂNCIA DA ORDEM LEGAL. DEBÊNTURES EMITIDAS PELA ELETROBRÁS. RECUSA. POSSIBILIDADE. DECISÃO AGRAVADA MANTIDA.
+    I. A teor do artigo 557, ‘caput’, do CPC, o relator negará seguimento a recurso manifestamente improcedente, inadmissível ou em confronto com súmula ou jurisprudência dominante de Tribunal Superior.
+    II. Ao nomear bens à penhora, a executada deve observar a ordem estabelecida no artigo 11 da L. 6.830/80, de modo a indicar bens de maior liquidez, sob pena de ineficácia da nomeação, a teor do art. 656, I, do CPC.
+    III. As debêntures emitidas pela Eletrobrás, nomeadas pela agravante, além de não observarem a ordem estabelecida no artigo 11 da L. 6.830/80, revelam-se impróprias à garantia do processo de execução face à sua baixa liquidez e difícil alienação. Precedentes do STJ.
+    IV. Agravo desprovido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 3º, II, 150, IV, e 173, todos da Constituição da República.
+    Cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o E. Tribunal Regional Federal da 3ª Região, para negar provimento ao agravo legal da parte ora recorrente, apoiou-se em dispositivos de ordem meramente legal.
+    Não foi por outro motivo que o acórdão recorrido sustentou as suas conclusões em interpretação de legislação federal:
+    “Desrespeitada a ordem legal estabelecida pelo Art. 11 da LEF, será ineficaz a nomeação de bens feita pelo devedor, salvo com a concordância expressa do credor, conforme dispõe o Art. 656, I, do CPC.
+    É de se ressaltar que a própria LEF, no inciso II, do seu artigo 15, assegura à Fazenda Pública a prerrogativa da substituição dos bens penhorados por outros, independentemente da ordem enumerada no artigo 11, bem como o reforço da penhora insuficiente, não havendo, pois, como obrigar a exeqüente a aceitar os bens ofertados pela executada.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 667.152-AgR/DF, Rel. Min. ROSA WEBER – ARE 718.303/GO, Rel. Min. LUIZ FUX – ARE 763.194-AgR/SP, Rel. Min. ROBERTO BARROSO, v.g.):
+    “Agravo regimental em agravo de instrumento. 2. Recusa de bem indicado à penhora. Debêntures da Eletrobrás. Execução fiscal. 3. Solução da controvérsia demanda rever a interpretação conferida pela origem à legislação infraconstitucional (Lei 6.830/80). Ofensa reflexa à Constituição Federal. Precedentes do STF. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+    (AI 805.819-AgR/RS, Rel. Min. GILMAR MENDES)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Cumpre referir, finalmente, que não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 07 de outubro de 2016.
+Ministro CELSO DE MELLO
+Relator
