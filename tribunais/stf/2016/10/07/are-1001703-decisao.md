@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo reformou o entendimento do Juízo, assentando a não incidência do Imposto Sobre Circulação de Mercadorias sobre a atividade empresarial da agravada. No extraordinário, cujo trânsito busca alcançar, o Estado de São Paulo alega a violação do artigo 155, inciso II da Constituição. A partir da interpretação conferida ao item 72 da Lei Complementar nº 56/87 e do artigo 8º do Decreto-Lei nº 406/68, afirma ser a atividade da recorrida um processo de industrialização com posterior circulação de mercadoria, devendo, portanto, incidir o ICMS sobre tal operação.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    Nas operações mistas, onde ocorrer a prestação de serviços e a circulação de mercadorias, a definição do tributo cabível depende da natureza do serviço agregado à mercadoria. Se o serviço agregado à mercadoria estiver relacionado no rol dos tributáveis pelos Municípios, não incidirá ICMS, mas sim ISSQN.
+    No caso em questão conforme se verifica do objeto social da apelante ela exerce a atividade de fabricação de artefatos de tapeçaria, sendo, portanto, conforme transcrito acima constante da lista de serviços anexa à Lei Complementar nº 116/2003. Em assim sendo o imposto a incidir nas operações realizadas pela apelante é o ISSQN e não o ICMS.
+    À toda evidência, as razões do extraordinário, quanto à atividade desenvolvida pela agravada, partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No mais, a questão foi decidida sobre a óptica da Lei Complementar nº 116/03. A insurgência do agravante, apontando dispositivos legais diversos para infirmar o acórdão impugnado mediante o extraordinário revela a necessidade de interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 7 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
