@@ -1,0 +1,41 @@
+Decisão:
+    Vistos.
+    João Anísio das Chagas Filho opõe tempestivos embargos de declaração em face de decisão pela qual dei parcial provimento ao recurso extraordinário, assim fundamentada:
+    “João Anísio das Chagas Filho interpõe recurso extraordinário contra acórdão proferido pela Primeira Câmara Cível do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+    ‘AGRAVO DE INSTRUMENTO. MAGISTRADO QUE INDEFERIU O PAGAMENTO VIA REQUISIÇÃO DE PEQUENO VALOR (RPV) E DETERMINOU O PAGAMENTO POR PRECATÓRIO. CITAÇÃO DA EXECUÇÃO EM 2009 NA VIGÊNCIA DA LEI MUNICIPAL Nº 814/2005 E ANTES DA ENTRADA EM VIGOR DA EMENDA CONSTITUCIONAL Nº 62/2009. CONTROVÉRSIA DIRIMIDA ATRAVÉS DA EFICÁCIA DA LEI PROCESSUAL CIVIL NO TEMPO. DESPROVIMENTO DO RECURSO.
+    - A controvérsia deve ser dirimida sob o ângulo da eficácia da lei processual civil no tempo, de forma que deve ser considerada a lei vigente à data da instauração da execução e não a vigente quando foi determinado o pagamento do crédito.
+    - No presente caso, a citação da execução ocorreu na vigência da Lei Municipal nº 814/2005 e antes da entrada em vigor da Emenda Constitucional nº 62/2009.
+    - Afirma o STJ que sendo a execução uma ação autônoma, é regida pela lei vigente à data da instauração da execução. Partindo deste entendimento, deve ser aplicada, ao caso em tela, a lei vigente à data da instauração da execução, ou seja, a Lei Municipal de nº 814/2005 que estabelecia o teto de R$500,00 (quinhentos reais) para pagamentos através de RPV. Em consequência, o pagamento requerido pelo exequente, ora agravante, não pode ocorrer por RPV, mas tão somente por precatório (fls. 83/84).’
+    Insurge-se, no apelo extremo, fundado na alínea ‘a’ do permissivo constitucional, sustentando contrariedade aos artigos 5º, inciso XXXVI, e 100, § 3°, da Constituição Federal; e 97, § 12, incisos I e II, do Ato das Disposições Constitucionais Transitórias.
+    Apresentadas contrarrazões, o recurso foi admitido na origem, o que ensejou a subida dos autos a esta Corte.
+    Decido.
+    A irresignação merece prosperar, haja vista que acórdão recorrido não está em sintonia com a jurisprudência consolidada nesta Corte no sentido de ter natureza processual a lei que regulamenta procedimento de execução de obrigação de pequeno valor, alcançando, assim, as ações em curso. Nesse sentido:
+    ‘Precatório: débito de pequeno valor: L. 10.099/00: RE prejudicado. Em face da aplicabilidade imediata da L. 10.099/00 - que regulamentou o art. 100, § 3º, CF, ao definir as obrigações de pequeno valor excluídas pela norma constitucional da sistemática de pagamentos mediante expedição de precatórios -, desapareceu o objeto do recurso extraordinário, interposto contra decisão que, proferida antes do advento da referida lei, afirmara a necessidade dessa regulamentação.’ (RE nº 292.160/RS, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 4/5/01).
+    ‘CONSTITUCIONAL. PREVIDENCIÁRIO. PRECATÓRIO. Lei nº 10.099, de 2000. I. - A Lei 10.099, de 19.12.2000, art. 1º, deu nova redação ao art. 128 da Lei 8.213, de 1991, alterado pela Lei 9.032, de 1995. Citada Lei 10.099, de 2000, é regulamentadora do § 3º do art. 100, da C.F. Porque tem natureza processual, aplica-se imediatamente, alcançando os processos em curso. II. - RE prejudicado. Agravo não provido.’ (RE nº 299.566/SC-AgR, Segunda Turma, Relator o Ministro Carlos Velloso , DJ de 1/3/02).
+    No mesmo sentido, analisando questão idêntica, a seguinte decisão monocrática: AI nº 514.679/PI, Relator o Ministro Gilmar Mendes, DJ de 10/10/05. Também restou decidido nesse sentido, pela 1ª Turma desta Corte, no julgamento do AI nº 761.701-ED, sob a minha relatoria, conforme se extrai da ementa:
+    ‘Embargos de declaração no agravo de instrumento. Conversão em agravo regimental. Constitucional. Requisição de pequeno valor. Definição. Competência legislativa. Entes da Federação. Precedentes.
+    1. O Plenário da Corte, no julgamento da ADI nº 2.868/PI, Relator para o acórdão o Ministro Joaquim Barbosa , concluiu que os estados podem definir para as obrigações de pequeno valor de que forem devedores limites inferiores aos previstos no art. 87 do ADCT, entendimento que se aplica também aos municípios.
+    2. Agravo regimental não provido.’
+    Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento em parte para determinar que o valor da condenação fixado nos autos seja executado, conforme os parâmetros da legislação municipal específica (Lei Municipal n° 909/10) relativa às despesas e obrigações de pequeno valor.
+    Publique-se.”
+    Alega o embargante que a decisão embargada deve fixar como parâmetro para a quitação dos débitos impostos ao Município de Rio Tinto o valor fixado no artigo 97, § 12, inciso II, do ADCT. Isso porque, segundo afirma, o diploma normativo municipal teria sido publicado fora do prazo de 180 dias determinado pela Constituição, do que resultaria que a execução de pequeno valor movida contra o município passaria a ter o limite de 30 salários mínimos fixado no dispositivo constitucional.
+    Assinala ainda, in verbis, que
+    “(...) a referida Lei Municipal (909/2010) dispõe que a obrigação de pequeno valor é limitada ao teto do RGPS - Regime Geral da Previdência Social, de modo que não pode ser aplicada ao caso dos autos, data vênia, porquanto publicada após o prazo constitucional de que trata o § 12 do art. 97 do ADCT e, portanto, sujeitando-se ao teto de até 30 (trinta) salários mínimos.
+    Se esclarecido que o valor da condenação fixado nos autos (R$9.933,32 + R$ 993,33) seja executado de conformidade com os parâmetros da Lei Municipal 909/2010, cujo limite é o teto do RGPS, forçoso é o reconhecimento de que o pagamento do crédito ao exequente dar-se-á mediante precatório, contrariando, assim, o entendimento por Vossa Excelência” (folha 122).
+    É o relatório.
+    Decido.
+    Sem razão o embargante.
+    A decisão embargada, aplicando a orientação jurisprudencial da Corte, determinou que o valor da condenação fixado nos autos observasse os parâmetros da Lei municipal nº 909/10 para fins de expedição de RPV, tendo em vista a sua natureza processual, aplicável, portanto, aos processos em curso.
+    O artigo 97, § 12 do ADCT, com redação dada pela Emenda Constitucional n.º 62/2009, assim dispôs:
+    “§ 12. Se a lei a que se refere o § 4º do art. 100 não estiver publicada em até 180 (cento e oitenta) dias, contados da data de publicação desta Emenda Constitucional, será considerado, para os fins referidos, em relação a Estados, Distrito Federal e Municípios devedores, omissos na regulamentação, o valor de:
+    I - 40 (quarenta) salários mínimos para Estados e para o Distrito Federal;
+    II - 30 (trinta) salários mínimos para Municípios.”(grifo nosso)
+    Da leitura do dispositivo resta evidente que os entes federados foram instados a fixarem, dentro de um prazo de 180 dias contados da data da publicação da Emenda Constitucional n.º 62/2009, o teto para pagamento de requisições de pequeno valor. O referido preceito estabeleceu valores a serem aplicados para os casos em que quedassem omissos na regulamentação.
+    A norma do ADCT, a toda evidência, não se destina a regular de forma definitiva a expedição de requisições de pequeno valor nos casos de entes federados que não editaram, a tempo, suas respectivas regulamentações. O que se pretendeu foi, claramente, motivar a supressão da lacuna normativa, enquanto existente; o que implica que, sanada a omissão, há de aplicar-se, a partir de sua publicação, a lei editada pela municipalidade; no caso dos autos, a Lei Municipal n.º 909/2010.
+    Conclui-se, portanto, que não há como acolher o pedido de expedição de RPV pela aplicação do teto fixado no artigo 97, § 12, inciso II, do ADCT, já que houve a edição da lei municipal pertinente que passou a disciplinar a matéria, motivo pelo qual prevalece o entendimento firmado na decisão embargada, que se encontra de acordo com o fixado nesta Corte.
+    Ante o exposto, rejeito os embargos de declaração
+    Publique-se.
+    Brasília, 7 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
