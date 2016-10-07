@@ -1,0 +1,25 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 56 – DESRESPEITO – RELEVÂNCIA DEMONSTRADA – LIMINAR DEFERIDA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Alexandre Dimas Azevedo e Sergio Rodrigo de Oliveira afirmam haver o Juízo da Comarca de Leopoldina/MG, no processo nº 0384.15.002467-5, olvidado o teor do verbete vinculante nº 56 da Súmula do Supremo.
+    Segundo narram, foram condenados à pena de 8 anos de reclusão, em regime semiaberto, ante a prática dos crimes previstos nos artigos 33 (tráfico de entorpecentes) e 35 (associação para o tráfico) da Lei nº 11.343/2006, tendo a autoridade reclamada negado o direito de recorrerem em liberdade. Dizem do recolhimento em cela destinada ao cumprimento de reprimenda em regime fechado, do que resultaria a ofensa ao paradigma. Ressaltam terem requerido o implemento de custódia domiciliar considerada a inexistência, no local, de estabelecimento adequado ao regime fixado, pleito não apreciado até o momento.
+    Sob o ângulo do risco, aludem ao constrangimento ilegal resultante da segregação em estabelecimento impróprio.
+    Requerem, em sede liminar, seja determinada a custódia domiciliar. Buscam, alfim, a confirmação da medida acauteladora, mesmo se necessária a imposição de medidas cautelares pelo Juízo reclamado.
+    2. Percebam as balizas do caso concreto. Os reclamantes, condenados em primeira instância, tiveram fixado o regime inicial semiaberto para cumprimento da pena. Negado o direito de recorrerem em liberdade, articulam com a inobservância do verbete vinculante nº 56 da Súmula do Supremo ante a constrição em penitenciária destinada ao regime fechado. Este é o teor do enunciado apontado como desrespeitado:
+    A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.
+    O Tribunal, ao apreciar o referido extraordinário, submetido à sistemática da repercussão geral, fixou, por maioria, a tese revelada nos seguintes termos:
+    a) a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso;
+    b) os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como “colônia agrícola, industrial” (regime semiaberto) ou “casa de albergado ou estabelecimento adequado” (regime aberto) (art. 33, §1º, alíneas “b” e “c”);
+    c) havendo déficit de vagas, deverá determinar-se: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado.
+    Verifico a relevância da alegação. A leitura dos documentos que acompanham a inicial, especialmente dos Ofícios nº 407 e nº 408, ambos de 2016 e de conteúdo semelhante, firmados pelo diretor responsável pelo Presídio de Leopoldina/MG, revela a ausência de estabelecimento adequado ao cumprimento da pena determinada aos reclamantes. Em síntese, embora fixado, na sentença, o regime semiaberto, os reclamantes encontram-se detidos no fechado, surgindo daí o desrespeito ao paradigma. Vejam o seguinte trecho dos referidos expedientes:
+    [...]
+    Neste sentido, é dever informar que contamos hoje com uma população carcerária no total de 114 detentos (provisórios e condenados), distribuídos em somente 06 (seis) celas, em uma estrutura física precária.
+    Convém ainda ressaltar que o apenado foi condenado nos autos de ação penal nº 384.15.002467-5, a uma reprimenda no total (sic) 08 (oito) anos no regime semiaberto, todavia não possuímos cela destinada ao regime semiaberto, cumprindo deste modo em regime fechado.
+    [...]
+    Cumpre, então, à autoridade reclamada observar as balizas assentadas no verbete vinculante nº 56 e, por consequência, no acórdão do recurso extraordinário nº 641.320/RS, quer viabilizando a custódia em estabelecimento apropriado, quer implementando os parâmetros consignados pelo Tribunal.
+    3. Defiro a liminar pleiteada, para determinar ao Juízo da Comarca de Leopoldina/MG, no processo nº 0384.15.002467-5, que seja assegurada aos reclamantes a segregação em estabelecimento prisional adequado ao regime fixado na sentença. Caso inexistente ou na falta de vaga, deve-se passar ao regime aberto ou, se indisponível casa de albergado ou similar a possibilitar o pernoite, à prisão domiciliar, com monitoramento eletrônico se implementada na Comarca.
+    4. Deem ciência, via postal, desta reclamação ao interessado, o Ministério Público do Estado de Minas Gerais, e requisitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 7 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
