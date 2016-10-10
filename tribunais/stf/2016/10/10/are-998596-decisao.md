@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão que julgou o recurso da parte autora, dando-lhe provimento parcial. Destaco do voto condutor o seguinte trecho:
+    “ No caso dos autos, considerando que a parte autora pretende indenizar as contribuições referentes ao período de 01/11/1991 a 30/09/1994, período de tempo de tempo de serviço anterior a MP Nº 1.523/1996, deve ser afastada a cobrança de juros e multa do cálculo da indenização, cabendo, nesse caso, somente o pagamento do valor principal, corrigido monetariamente, das contribuições referentes ao intervalo respectivo.” (pág. 1-11 do documento eletrônico 124).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º , XXXV, XXXVI, LIV e LV da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, acerca da alegada nulidade do acórdão recorrido, observo que esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), Rel. Min. Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Além disso, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos o que é vedado pela Súmula 279 do STF e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
