@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 5ª Região, ementado nos seguintes termos:
+    “EMENTA: VINCULADAS DO FGTS. AMORTIZAÇÃO DE CONTRATO DE FINANCIAMENTO HABITACIONAL. VALOR DO IMÓVEL. DIREITO À MORADIA. RAZOABILIDADE.
+    I - Apelação de sentença que julgou procedente o pedido, confirmando a tutela antecipada, de modo a determinar que a ré proceda à liberação do saldo das contas vinculadas do FGTS de titularidade da parte demandante para fins de amortização do contrato de financiamento, com o uso integral dos recursos da conta do autor vinculada ao FGTS.
+    II - " É tranqüila a jurisprudência do STJ no sentido de permitir o saque do FGTS, mesmo em situações não contempladas pelo art. 20 da Lei 8.036/90, tendo em vista a finalidade social da norma. Precedentes da Seção de Direito Público. " (STJ, RESP nº 1004478, Relatora: Ministra ELIANA CALMON, DJE 30/09/2009)
+    III - O artigo 20 da Lei 8.036/90 não apresenta rol taxativo, mas exemplificativo. Precedente desta Quarta Turma: AG112394/RN, DJE 12/05/2011, Relator Desembargador Federal Frederico Dantas (Convocado).
+    IV - Inobstante o fato de o valor do imóvel financiado estar fora do limite previsto (Resolução nº 4271/ 2013, do Banco Central), é viável a utilização do saldo da conta vinculada do FGTS da parte autora/apelada, com fins de amortização do referido financiamento imobiliário, diante do direito à moradia, constitucionalmente assegurado, e da razoabilidade, posto que os demais requisitos previstos na Lei nº 8.036/90 restaram atendidos.
+    V - Apelação improvida” (eDOC 13, p. 9).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 97 do texto constitucional e à Súmula Vinculante nº 10 (eDOC 17, p. 2)
+    Nas razões recursais, alega-se que ao negar vigência a Lei 8.036/1990 o tribunal a quo desrespeitou à cláusula de reserva de plenário (eDOC 17, p. 6).
+    Decido.
+    O recurso não merece prosperar.
+    Verifico que o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 8.036/1990 e Resolução 4271/2013, do Banco Central) e o conjunto probatório constante dos autos, bem como interpretar cláusulas contidas, negou provimento a apelação e determinou a liberação do saldo das contas vinculadas do FGTS de titularidade da parte demandante para fins de amortização do contrato de financiamento.
+    Desse modo, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Assim, não há que se falar em violação ao artigo 97 da Constituição Federal, tendo em vista que o Tribunal de origem não declarou a inconstitucionalidade de norma nem afastou a sua aplicabilidade com apoio em fundamentos extraídos do texto constitucional, mas limitou-se a interpretar as normas infraconstitucionais aplicáveis.
+    Portanto, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Nesse sentido, trago precedentes de ambas as Turmas deste Tribunal:
+     “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. INEXISTÊNCIA. INTERPRETAÇÃO SISTEMÁTICA REALIZADA PELO TRIBUNAL DE ORIGEM. 1. O Tribunal de origem apenas realizou interpretação sistemática com o intuito de alcançar o verdadeiro sentido da norma, sem que houvesse qualquer declaração de sua incompatibilidade com a Constituição Federal. 2. Não houve o afastamento das normas constantes dos arts. 3º, da Lei nº 9.469/1997, e 267, §4º, do Código de Processo Civil, mas, tão somente, a constatação de que o dispositivo não pode ser aplicado à hipótese fática dos autos. 3. Agravo regimental a que se nega provimento”. (ARE 930.660 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 21.6.2016)
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. ALEGADA CONTRARIEDADE AO PRINCÍPIO DA RESERVA DE PLENÁRIO: INOCORRÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 908.119 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 10.3.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de outubro de 2016.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
