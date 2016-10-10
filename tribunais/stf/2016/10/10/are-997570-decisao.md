@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AGRAVO DE INSTRUMENTO – Execução de sentença – Pendência de análise a admissibilidade de recurso especial – Requisitório de pequeno valor expedido – Desnecessidade de se aguardar o trânsito em julgado do recurso especial, pois o mesmo não é óbice para o prosseguimento do feito, conforme o disposto no art. 497, em combinação com o § 2º do artigo 542, ambos do CPC – Execução contra a Fazenda Pública que é definitiva – Levantamento dos valores depositados – Pedido de caução – Dispensa – Verba de natureza alimentar – Precedentes – Decisão mantida – Recurso improvido.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação do artigo 100, §§ 1º, 3º e 5º, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o Tribunal de origem decidiu a lide amparado na legislação infraconstitucional pertinente (Código de Processo Civil de 1973). Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, seria indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 279/STF. Sobre o tema:
+    “Embargos de declaração em agravo de instrumento. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Recusa de caução. Discussão de índole infraconstitucional. Ofensa reflexa à Constituição Federal. 4. Alegada deficiência de fundamentação. AI-QO-RG 791.292, DJe 13.8.2010. Reafirmação da jurisprudência. A Constituição Federal exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (AI nº 707.650/SP-ED, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 21/8/13).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. 1. ACÓRDÃO QUE SE LIMITOU A DIRIMIR CONTROVÉRSIA DE ÍNDOLE EMINENTEMENTE PROCESSUAL. EVENTUAL OFENSA À CONSTITUIÇÃO FEDERAL, SE EXISTENTE, OCORRERIA DE FORMA REFLEXA OU INDIRETA. 2. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação infraconstitucional pertinente. Providência vedada na instância extraordinária. 2. Os dispositivos constitucionais suscitados no apelo extremo não foram objeto de análise prévia, e conclusiva, pelo Tribunal de origem. Pelo que incidem as Súmulas 282 e 356 do STF. Agravo regimental desprovido” (AI nº 585.121/SP-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJe de 24/4/09).
+    Nesse mesmo sentido, as seguintes decisões monocráticas: ARE nº 825.961/RS, Relatora a Ministra Cármen Lúcia, DJe de 10/9/14; ARE nº 843.560/RS, Relator o Ministro Gilmar Mendes, DJe de 14/11/14.
+    Ressalte-se, por fim, que os requisitos de admissibilidade do presente recurso regem-se pelas disposições do Código de Processo Civil de 1973, regramento legal vigente quando da publicação da decisão impugnada no pelo extremo.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 10 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
