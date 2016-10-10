@@ -1,0 +1,16 @@
+DECISÃO
+AGRAVO REGIMENTAL – JUÍZO DE RETRATAÇÃO.
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Reconsidero a decisão proferida em 7 de junho de 2016.
+    2. O Tribunal Superior do Trabalho considerou imprópria a interposição de embargos declaratórios contra despacho mediante o qual o Ministro Corregedor-Geral da Justiça do Trabalho extinguiu sem julgamento de mérito correição parcial. Nas razões do extraordinário cujo processamento busca alcançar, a recorrente alega a violação dos artigos 5º, incisos II, XXXV, LIV e LV, e 93, inciso IX, da Constituição Federal. Argui a nulidade da decisão relativa aos embargos de declaração por negativa de prestação jurisdicional. Entende contrariado o princípio do devido processo legal.
+    3. A decisão recorrida está em consonância com a jurisprudência do Supremo. Confiram com as seguintes ementas:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ACÓRDÃO PROFERIDO PELO TRIBUNAL SUPERIOR DO TRABALHO EM SEDE DE RECLAMAÇÃO CORREICIONAL. PROCEDIMENTO DE NATUREZA ADMINISTRATIVA. AUSÊNCIA DE CAUSA DECIDIDA EM ÚNICA OU ÚLTIMA INSTÂNCIA. INCISO III DO ART. 102 DA CONSTITUIÇÃO REPUBLICANA. NÃO CABIMENTO DO APELO EXTREMO. O recurso extraordinário é cabível contra decisão judicial em sentido material, isto é, contra decisão proferida por órgão do Poder Judiciário no exercício de sua função propriamente jurisdicional. Daí o pressuposto constitucional de cabimento do apelo extremo, expresso na palavra causa (inciso III do art. 102 da Lei Maior). Não se conhece, pois, de apelo extremo manejado nos autos de procedimento de natureza administrativa, como é a Reclamação Correicional. Os sistemas recursais próprios do processo judicial e do processo administrativo não se mesclam e é exatamente esta separação que resguarda os princípios do due process of law, entre os quais os do contraditório, da ampla defesa, do juiz natural e do amplo acesso à Justiça. Precedentes: CC 7.082, REs 233.743, 229.786 e 213.696-AgR e AIs 566.376, 223.518-AgR e 316.458-AgR. Agravo regimental desprovido.
+    (agravo regimental em recurso extraordinário nº 454.421/ES, relatado na 1ª Turma pelo ministro Carlos Britto, acórdão publicado no Diário da Justiça de 8.9.2006)
+    Agravo regimental em recurso extraordinário com agravo. 2. Penal e Processual Penal. Artigo 265 do Código de Processo Penal. 3. Correição parcial. Não cabe recurso extraordinário contra decisão em correição parcial. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.
+    (agravo regimental no recurso extraordinário com agravo nº 890.730/ES, relatado na 2ª Turma pelo ministro Gilmar Mendes, acórdão publicado no Diário da Justiça de 3.8.15)
+    Na espécie, não se trata de recurso extraordinário contra ato judicial que haja resultado no julgamento da causa. O acórdão proferido pelo Conselho Superior da Justiça do Trabalho diz respeito à apreciação de pedido de providências, de natureza administrativa. O recurso não se enquadra no permissivo do inciso III do artigo 102 da Constituição Federal.
+    4. Ante o quadro, reconsidero a decisão atacada para afastar o ato anterior e desprover o agravo.
+    5. Publiquem.
+Brasília, 10 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
