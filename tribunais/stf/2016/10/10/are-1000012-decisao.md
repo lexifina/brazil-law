@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face do acórdão de Tribunal de Justiça do Estado de São Paulo que desproveu o recurso para manter a penhora dos imóveis de propriedade da parte ora Recorrente, restando assim redigida a ementa:
+    Agravo de Instrumento – Impugnação à penhora – Alegado bem de família – Rejeição – Matéria de ordem pública que não dá azo para levantamento de tese que haveria de ser discutida em primeira oportunidade de resposta, após ciência da penhora – Intimação que se dá na pessoa do causídico constituído – Contas apresentadas que dispuseram consumo mínimo, incapaz de comprovar residência fixa de núcleo familiar, vez que demostram tarifação básica, independente do uso do serviço – Endereço distinto da citação, a ser sopesado no decisório – Elementos frágeis e insuficientes para comprovação – Decisão mantida – Recurso improvido.
+    Nas razões recursais, com fundamento no permissivo constitucional do art. 102, III, a, alega-se violação dos artigos 1º, III, e 5º, XXII e XXIII, da Constituição da República, sob os argumentos de ofensa aos princípios da dignidade humana e da proteção à família, bem como ao direito de propriedade.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Sem embargo do teor, manifestado nestes autos, a respeito, abstratamente, da penhora de bem imóvel que supostamente violaria os fundamentos da dignidade da pessoa humana (art. 1º, III), do direito à propriedade e sua função social (art. 5º, XXII e XXIII), todos da Constituição da República, constata-se que, no caso concreto, a parte Recorrente fundamenta o apelo extremo em argumentos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em norma infraconstitucional (artigo 5º da Lei 8.090/90), o que não é cabível em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+    De igual forma, embora haja estribo argumentativo na possível violação do princípio constitucional garantidor do direito de aquisição da propriedade, previsto no art. 5º, XXII, do Texto Constitucional, é certo que a discussão sobre a natureza do bem de família para efeitos de sua impenhorabilidade demandaria revolvimento dos dados fáticos constantes nos autos, a exigir nova apreciação de matéria de índole probatória, inviável na instância extraordinária.
+    Ante o exposto, nego seguimento ao recurso, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 10 de outubro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
