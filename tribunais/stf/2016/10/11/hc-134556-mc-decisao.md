@@ -1,0 +1,31 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União, em favor de Luiz Alves dos Reis Júnior, contra ato do Superior Tribunal de Justiça nos autos do REsp 1.365.089/MG.
+    A impetrante informa, inicialmente, que
+    “[o] paciente foi denunciado por suposta prática do delito previsto no art. 155, §4º, inciso IV, do Código Penal, tendo em vista que na data de 21.05.2008 subtraiu um aparelho de som automotivo, que se encontrava no interior do veículo de propriedade da vítima JOÃO DA PAZ ALMEIDA” (grifos no original; pág. 1 do documento eletrônico 1).
+    Esclarece, então, que a sentença condenatória foi proferida, fixando a reprimenda definitiva em 2 anos e 4 meses de reclusão em regime inicial semiaberto e pagamento de 11 dias-multa.
+    Inconformada, a defesa interpôs apelação,
+    “oportunidade na qual requereu a absolvição do paciente por insuficiência de provas, sob o fundamento de que a res furtiva não fora encontrada em sua posse, e caso não fosse assim entendido, rogou pela absolvição ante o princípio da insignificância, uma vez que o valor da res furtiva se aproxima dos R$ 150,00 (cento e cinquenta reais)” (pág. 2 do documento eletrônico 1).
+    Informa, ainda, que o Tribunal de Justiça do Estado de Minas Gerais negou provimento ao recurso, em decisão assim ementada:
+    “FURTO QUALIFICADO - PRELIMINAR - ART. 610 DO CPP - INCONSTITUCIONALIDADE - MANIFESTAÇÃO DA PROCURADORIA-GERAL DE JUSTIÇA - PRINCÍPIO DO CONTRADITÓRIO E DA AMPLA DEFESA - OFENSA - INOCORRÊNCIA - MÉRITO - ABSOLVIÇÃO - IMPOSSIBILIDADE - PROVAS DE AUTORIA E MATERIALIDADE SUFICIENTES - ATENUANTE DA COCULPABILIDADE E PRINCÍPIO DA INSIGNIFICÂNCIA - INAPLICABILIDADE - VALOR CONSIDERÁVEL DA RES - CONDENAÇÃO MANTIDA - AGRAVANTE DA REINCIDÊNCIA - APLICAÇÃO - INOCORRÊNCIA DE BIS IN IDEM - INCONSTITUCIONALIADADE AFASTADA - RECURSOS NÃO PROVIDOS.
+    - A atuação da Procuradoria-Geral de Justiça, em Segunda Instância, não viola os princípios da ampla defesa e do contraditório, não se podendo confundir o papel de parte do órgão ministerial atuante em Primeira Instância, com o de custus legis exercido no segundo grau e nas instâncias extraordinárias. Arguição de inconstitucionalidade do art. 610 do CPP rejeitada.
+    - Inacolhível a absolvição, por falta de provas, se um dos apelantes foi reconhecido por testemunha ocular, cujas declarações estão em absoluta sintonia com as demais provas colacionadas aos autos.
+    - A deficiência do Estado quanto ao atendimento satisfatório das necessidades fundamentais do indivíduo não autoriza sua corresponsabilização pela prática delitiva do agente.
+    - A lesão jurídica do crime se revela significante não apenas em razão do valor do bem subtraído, mas também em virtude do concurso de pessoas para a prática do furto, em que a ofensividade da conduta não pode ser considerada mínima, e em face da inclinação à prática delitiva pelo agente, donde se afasta a aplicação do princípio da insignificância.
+    - A agravante da reincidência tem previsão legal no art. 61, I, do Código Penal, não incorrendo em bis in idem a sua aplicação na segunda fase da dosimetria da pena, pois tem como finalidade reprimir de forma mais intensa aquele que já foi punido e a sanção não surtiu seus efeitos regeneradores, justificando-se uma punição mais severa quando da prática do segundo crime” (pág. 99 do documento eletrônico 2).
+    Irresignada, a defesa manejou recurso especial, cujo provimento foi negado por decisão monocrática do Ministro Gurgel de Faria, do STJ. Contra esse julgado, interpôs agravo regimental, sendo-lhe negado provimento em decisão assim ementada:
+    “PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO VERIFICAÇÃO. FURTO QUALIFICADO. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. INEXISTÊNCIA DOS REQUISITOS DO REDUZIDO GRAU DE REPROVABILIDADE E MÍNIMA OFENSIVIDADE DA CONDUTA. AGRAVO DESPROVIDO.
+    1 – Inexiste ofensa ao princípio da colegialidade nas hipóteses em que a decisão monocrática foi proferida em obediência ao art. 557, caput, e § 1º-A, do Código de Processo Civil e art. 3º do Código de Processo Penal - CPP, por se tratar de recurso em confronto com a jurisprudência dominante do Superior Tribunal de Justiça. O julgamento colegiado do agravo regimental supre eventual vício da decisão agravada.
+    2 – Nos termos da jurisprudência desta Corte, inaplicável o princípio da insignificância quando se trata da prática do delito de furto por agente reincidente, por não restarem preenchidos os requisitos da mínima ofensividade da conduta e do reduzido grau de reprovabilidade do comportamento do agente.
+    3 - Agravo regimental desprovido” (pág. 198 do documento eletrônico 2).
+    Daí a impetração deste habeas corpus, com a finalidade de absolver o paciente pela aplicação do princípio da insignificância.
+    A impetrante sustenta, em suma, que, “consoante análise dos autos, faz-se imperiosa a aplicação do princípio da insignificância porque o recorrente apresenta todos os requisitos ensejadores de sua aplicação” (pág. 5 do documento eletrônico 1).
+    Pugna, por essa razão, pela concessão do pedido liminar para suspender os efeitos do ato coator até o julgamento final do writ e, no mérito, requer a concessão da ordem “para que seja reformada o decisum de 1° grau, absolvendo o paciente da conduta imputada, tendo em vista a atipicidade da conduta”(pág. 11 do documento eletrônico 1).
+    É o relatório necessário.
+    Decido.
+    A concessão de liminar em habeas corpus ocorre de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, verifico que não existem tais requisitos.
+    Ademais, a partir da leitura do acórdão proferido pelo STJ no julgamento do Agravo Regimental no REsp 1.365.089/MG, não constato nulidade de imediato, a justificar o deferimento de medida extrema.
+    Diante de tal quadro, e sem prejuízo de uma apreciação mais aprofundada por ocasião do julgamento de mérito, indefiro o pedido.
+    Instruídos os autos, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 11 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
