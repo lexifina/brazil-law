@@ -1,0 +1,42 @@
+Solução de Divergência Cosit nº 7, de 23 de agosto de 2016
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: NÃO CUMULATIVIDADE. DIREITO DE CREDITAMENTO. INSUMOS. DIVERSOS ITENS.
+1. Na sistemática de apuração não cumulativa da Contribuição para o PIS/Pasep, a possibilidade de creditamento, na modalidade aquisição de insumos, deve ser apurada tendo em conta o produto destinado à venda ou o serviço prestado ao público externo pela pessoa jurídica.
+2. In casu, trata-se de pessoa jurídica dedicada à produção e à comercialização de pasta mecânica, celulose, papel, papelão e produtos conexos, que desenvolve também as atividades preparatórias de florestamento e reflorestamento.
+3. Nesse contexto, permite-se, entre outros, creditamento em relação a dispêndios com:
+3.a) partes, peças de reposição, serviços de manutenção, combustíveis e lubrificantes utilizados em veículos que, no interior de um mesmo estabelecimento da pessoa jurídica, suprem, com insumos ou produtos em elaboração, as máquinas que promovem a produção de bens ou a prestação de serviços, desde que tais dispêndios não devam ser capitalizados ao valor do bem em manutenção;
+3.b) combustíveis e lubrificantes consumidos em máquinas, equipamentos e veículos diretamente utilizados na produção de bens;
+3.c) bens de pequeno valor (para fins de imobilização), como modelos e utensílios, e ferramentas de consumo, tais como machos, bits, brocas, pontas montadas, rebolos, pastilhas, discos de corte e de desbaste, bicos de corte, eletrodos, arames de solda, oxigênio, acetileno, dióxido de carbono e materiais de solda empregados na manutenção ou funcionamento de máquinas e equipamentos utilizados diretamente na produção de bens para venda;
+4. Diferentemente, não se permite, entre outros, creditamento em relação a dispêndios com:
+4.a) partes, peças de reposição, serviços de manutenção, combustíveis e lubrificantes utilizados em máquinas, equipamentos e veículos utilizados em florestamento e reflorestamento destinado a produzir matéria-prima para a produção de bens destinados à venda;
+4.b) serviços de transporte suportados pelo adquirente de bens, pois a possibilidade de creditamento deve ser analisada em relação ao bem adquirido;
+4.c) serviços de transporte, prestados por terceiros, de remessa e retorno de máquinas e equipamentos a empresas prestadoras de serviço de conserto e manutenção; 4.d) partes, peças de reposição, serviços de manutenção, combustíveis e lubrificantes utilizados em veículos utilizados no transporte de insumos no trajeto compreendido entre as instalações do fornecedor dos insumos e as instalações do adquirente;
+4.e) combustíveis e lubrificantes consumidos em veículos utilizados no transporte de matéria prima entre estabelecimentos da pessoa jurídica (unidades de produção);
+4.f) bens de pequeno valor (para fins de imobilização), como modelos e utensílios, e ferramentas de consumo, tais como machos, bits, brocas, pontas montadas, rebolos, pastilhas, discos de corte e de desbaste, bicos de corte, eletrodos, arames de solda, oxigênio, acetileno, dióxido de carbono e materiais de solda empregados na manutenção ou funcionamento de máquinas e equipamentos utilizados nas atividades de florestamento e reflorestamento destinadas a produzir matéria-prima para a produção de bens destinados à venda;
+4.g) serviços prestados por terceiros no corte e transporte de árvores e madeira das áreas de florestamentos e reflorestamentos destinadas a produzir matéria-prima para a produção de bens destinados à venda;
+4.h) óleo diesel consumido por geradores e por fontes de produção da energia elétrica consumida nas plantas industriais, bem como os gastos com a manutenção dessas máquinas e equipamentos.
+DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 3º, inciso II; Instrução Normativa SRF nº 247, de 2002, art. 66; Lei nº 4.506, de 1964, art. 48; Parecer Normativo CST nº 58, de 19 de agosto de 1976; Decreto-Lei nº 1.598, de 1977, art. 13.
+Parcialmente vinculada à Solução de Consulta Cosit nº 76, de 23 de março de 2015, publicada no Diário Oficial da União de 30 de março de 2015.
+Parcialmente vinculada à Solução de Consulta Cosit nº 16, de 24 de outubro de 2013, publicada no Diário Oficial da União de 06 de novembro de 2013.
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: NÃO CUMULATIVIDADE. DIREITO DE CREDITAMENTO. INSUMOS. DIVERSOS ITENS.
+1. Na sistemática de apuração não cumulativa da Cofins, a possibilidade de creditamento, na modalidade aquisição de insumos, deve ser apurada tendo em conta o produto destinado à venda ou o serviço prestado ao público externo pela pessoa jurídica.
+2. In casu, trata-se de pessoa jurídica dedicada à produção e à comercialização de pasta mecânica, celulose, papel, papelão e produtos conexos, que desenvolve também as atividades preparatórias de florestamento e reflorestamento.
+3. Nesse contexto, permite-se, entre outros, creditamento em relação a dispêndios com:
+3.a) partes, peças de reposição, serviços de manutenção, combustíveis e lubrificantes utilizados em veículos que, no interior de um mesmo estabelecimento da pessoa jurídica, suprem, com insumos ou produtos em elaboração, as máquinas que promovem a produção de bens ou a prestação de serviços, desde que tais dispêndios não devam ser capitalizados ao valor do bem em manutenção;
+3.b) combustíveis e lubrificantes consumidos em máquinas, equipamentos e veículos diretamente utilizados na produção de bens;
+3.c) bens de pequeno valor (para fins de imobilização), como modelos e utensílios, e ferramentas de consumo, tais como machos, bits, brocas, pontas montadas, rebolos, pastilhas, discos de corte e de desbaste, bicos de corte, eletrodos, arames de solda, oxigênio, acetileno, dióxido de carbono e materiais de solda empregados na manutenção ou funcionamento de máquinas e equipamentos utilizados diretamente na produção de bens para venda;
+4. Diferentemente, não se permite, entre outros, creditamento em relação a dispêndios com:
+4.a) partes, peças de reposição, serviços de manutenção, combustíveis e lubrificantes utilizados em máquinas, equipamentos e veículos utilizados em florestamento e reflorestamento destinado a produzir matéria-prima para a produção de bens destinados à venda;
+4.b) serviços de transporte suportados pelo adquirente de bens, pois a possibilidade de creditamento deve ser analisada em relação ao bem adquirido;
+4.c) serviços de transporte, prestados por terceiros, de remessa e retorno de máquinas e equipamentos a empresas prestadoras de serviço de conserto e manutenção;
+4.d) partes, peças de reposição, serviços de manutenção, combustíveis e lubrificantes utilizados em veículos utilizados no transporte de insumos no trajeto compreendido entre as instalações do fornecedor dos insumos e as instalações do adquirente;
+4.e) combustíveis e lubrificantes consumidos em veículos utilizados no transporte de matéria prima entre estabelecimentos da pessoa jurídica (unidades de produção);
+4.f) bens de pequeno valor (para fins de imobilização), como modelos e utensílios, e ferramentas de consumo, tais como machos, bits, brocas, pontas montadas, rebolos, pastilhas, discos de corte e de desbaste, bicos de corte, eletrodos, arames de solda, oxigênio, acetileno, dióxido de carbono e materiais de solda empregados na manutenção ou funcionamento de máquinas e equipamentos utilizados nas atividades de florestamento e reflorestamento destinadas a produzir matéria-prima para a produção de bens destinados à venda;
+4.g) serviços prestados por terceiros no corte e transporte de árvores e madeira das áreas de florestamentos e reflorestamentos destinadas a produzir matéria-prima para a produção de bens destinados à venda;
+4.h) óleo diesel consumido por geradores e por fontes de produção da energia elétrica consumida nas plantas industriais, bem como os gastos com a manutenção dessas máquinas e equipamentos.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3º, inciso II; Instrução Normativa SRF nº 404, de 2004, art. 8º; Lei nº 4.506, de 1964, art. 48; Parecer Normativo CST nº 58, de 19 de agosto de 1976; Decreto-Lei nº 1.598, de 1977, art. 13.
+Parcialmente vinculada à Solução de Consulta Cosit nº 76, de 23 de março de 2015, publicada no Diário Oficial da União de 30 de março de 2015.
+Parcialmente vinculada à Solução de Consulta Cosit nº 16, de 24 de outubro de 2013, publicada no Diário Oficial da União de 06 de novembro de 2013.
+[arquivo anexo: SD Cosit nº 7-2016.pdf]
+.
