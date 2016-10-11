@@ -1,0 +1,26 @@
+Trata-se de reclamação, com pedido liminar, ajuizada por Alcindo da Silva Lopes, contra decisão proferida pelo Juiz de Direito da 1ª Vara de Fazenda e Registros Públicos da Comarca de Campo Grande, que teria afrontado a autoridade de decisão proferida por essa Corte no RE 597.148/MS.
+    O reclamante alega que a Ministra Cármen Lúcia deu provimento ao RE 597.148/MS para:
+    “[...]
+    declarar nula a sessão secreta de julgamento realizada pelo Conselho de Disciplina e determinar novo julgamento do processo administrativo disciplinar, com a prévia ciência do recorrente e seu advogado, que poderão exercer o seu direito constitucional, assentado por este Supremo Tribunal Federal, de estarem presentes ao ato”
+    Informa que opôs embargos de declaração “a fim de que houvesse pronunciamento sobre o pedido indenizatório formulado na inicial e no recurso extraordinário” (pág. 2 do documento eletrônico 1).
+    A Ministra Cármen Lúcia acolheu os embargos “apenas para sanar a omissão relativa aos honorários e custas processuais”. Entretanto, registrou em sua decisão que:
+    “Não se verifica a omissão apontada pelo Embargante quanto aos pedidos sucessivos. A reintegração e seus efeitos pecuniários são decorrência da declaração de nulidade do ato que excluiu o Embargante. Todavia, não cabe a este Supremo Tribunal determiná-los, sendo tal provimento de competência das autoridades administrativas”.
+    Diante da decisão da Ministra Cármen Lúcia, que anulou a demissão e determinou a reintegração ao cargo, o reclamante solicitou o pagamento dos soldos referentes ao período em que permaneceu afastado ilegalmente da Polícia Militar, entre setembro de 2008 e setembro de 2014. Entretanto, tal pedido foi julgado extinto pelo juízo da 1ª Vara de Fazenda e Registros Públicos da Comarca de Campo Grande, sob o fundamento de que:
+    “Em que pese constar na decisão que a reintegração e seus efeitos pecuniários são decorrência da declaração de nulidade do ato que excluiu o reclamante, foi muito bem ressaltada que tal provimento é de competência das autoridades administrativas. Ou seja, o reclamante, por não possuir condenação e consequentemente não possuir título executivo judicial, deve postular o que entender de direito perante as autoridades administrativas ou manejar uma ação própria para os devidos fins. O que não é cabível é a liquidação da sentença prolatada em autos que teve curso perante a Vara de Auditoria Militar, porquanto, salvo melhor juízo, não teve a extensão que o reclamante lhe pretenda outorgar, ao ponto de oportunizar, desde logo, a respectiva liquidação” (pág. 2 do documento eletrônico 10).
+    Na presente reclamação, requer que
+    “seja declarada a eficácia executiva da decisão afrontada pelo ato reclamado, permitindo-se a perseguição pela via executiva, após a liquidação do julgado, dos efeitos pecuniários decorrentes da declaração de nulidade do ato que demitiu o reclamante das fileiras da Polícia Militar do Estado de Mato Grosso do Sul” (pág. 5 do documento eletrônico 1).
+    O Estado do Mato Grosso do Sul manifestou-se pela improcedência da reclamação, pois não teria descumprido a decisão do STF, tendo em vista que “em nenhum momento houve condenação do Estado de Mato Grosso do Sul, ora interessado, ao pagamento de verbas salariais retroativas, conforme pedido do reclamante” (pág. 7 do documento eletrônico 14).
+    Em parecer da lavra do Subprocurador-Geral da República Odim Brandão Ferreira, o Ministério Público Federal opinou pela improcedência da reclamação (documento eletrônico 16).
+    É o relatório necessário. Decido.
+     A presente reclamação não merece prosperar.
+    É certo que, ao anular a decisão que excluiu o reclamante dos quadros da Polícia Militar do Estado de Mato Grosso do Sul, o status quo ante, foi restaurado, ou seja, a condição de efetividade no cargo foi preservada.
+    Desta forma, todos os direitos e deveres inerentes à função devem ser observados, entre eles, o de receber seus soldos, inclusive do período que ficou afastado por meio de decisão administrativa, posteriormente considerada inconstitucional pelo Supremo Tribunal Federal.
+    Não há como dissociar o direito assegurado pela aplicação da Constituição Federal, com os seus efeitos legais. O entendimento de que a decisão proferida por esta Corte apenas reintegrou o militar à corporação, sem garantir o direito ao recebimento do soldo, acarreta enriquecimento ilícito por parte do Estado.
+    Entretanto, não cabe ao Supremo Tribunal Federal determinar ou discriminar quais as verbas e valores são devidos ao reclamante, mas apenas reconhecer que a decisão proferida em favor do reclamante garante tais pagamentos.
+    Ocorre que o pedido do reclamante é para que se declare a eficácia executiva da decisão proferida no RE 597.148/MS, em relação às verbas devidas e a determinação dos valores a serem pagos pelo Estado de Mato Grosso do Sul, o que é inviável em sede de recurso extraordinário, por demandar análise de fatos e provas.
+    Tal medida deve ser requerida pelo reclamante na esfera administrativa e, em caso de negativa, pela via judicial própria.
+    Isto posto, nego seguimento à esta reclamação.
+    Publique-se.
+    Brasília, 11 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Presidente
