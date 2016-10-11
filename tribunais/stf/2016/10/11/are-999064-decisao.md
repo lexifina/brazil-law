@@ -1,0 +1,32 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. OCORRÊNCIA. EXTINÇÃO DA PUNIBILIDADE. RECURSO NÃO PROVIDO.
+    1. A sentença condenatória foi publicada em 5/4/2011, de modo que, tendo se passado mais de 4 anos entre a publicação da sentença condenatória e o presente momento, o reconhecimento da prescrição da pretensão punitiva estatal é medida que se impõe.
+    2. O acórdão que apenas confirma a sentença condenatória não tem o condão de interromper o curso do prazo prescricional.
+    3. Agravo regimental não provido” (pág. 17 do volume 5 dos autos eletrônicos).
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação aos arts. 5º, II, e 37 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque os dispositivos constitucionais suscitados no recurso (arts. 5º, II, e 37) não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o extraordinário se a questão constitucional versada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, destaco julgados de ambas as Turmas desta Corte, cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. MUNICÍPIO. DISCRICIONARIEDADE ADMINISTRATIVA. IMPOSSIBILIDADE. MATÉRIA NÃO DISCUTIDA NO ACÓRDÃO RECORRIDO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. APLICAÇÃO DAS SÚMULAS 282 E 356 DO STF. REVOLVIMENTO DE FATOS E PROVAS. INADMISSIBILIDADE. RECURSO NÃO PROVIDO.
+    1. Quando o tema constitucional não se apresenta discutido no acórdão recorrido, contra o qual não houve oposição de embargos declaratórios para ver sanada eventual omissão, incidem na espécie as Súmulas 282 e 356 do STF.
+    2. Em havendo necessidade de reexame do conjunto fático-probatório constante dos autos, para se que se chegue à conclusão contrária àquela adotada pelo acórdão recorrido, inviabilizado o recurso extraordinário por orientação da Súmula 279/STF.
+    3. Agravo regimental a que se nega provimento” (RE 632.710-AgR/SP, Rel. Min. Edson Fachin, Primeira Turma, grifos meus).
+    “Agravo regimental no recurso extraordinário com agravo. Ausência de prequestionamento. Incidência das Súmulas nºs 282 e 356/STF. Tributário. Alegada nulidade dos débitos fiscais. Matéria infraconstitucional. Necessidade de reexame dos fatos e das provas. Súmula nº 279/STF.
+    1. Os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 do STF.
+    2. Para ultrapassar o entendimento do Tribunal de origem acerca da alegada nulidade dos débitos fiscais e acolher a pretensão recursal, seria necessário o reexame da controvérsia à luz da legislação ordinária bem como o revolvimento dos fatos e das provas constantes dos autos, o que não se admite em sede de recurso extraordinário. Incidência da Súmula nº 279 da Corte.
+    3. Agravo regimental não provido” (ARE 883.800-AgR/SC, Rel. Min. Dias Toffoli, Segunda Turma, grifos meus).
+    Além disso, o Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). Nesse sentido:
+    “DIREITO PENAL. AGRAVO REGIMENTAL EM RECURSOS EXTRAORDINÁRIOS COM AGRAVOS. LEGISLAÇÃO INFRACONSTITUCIONAL. CONTROVÉRSIA DECIDIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. INDIVIDUALIZAÇÃO DA PENA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. AUSÊNCIA DE PRELIMINAR FUNDAMENTADA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL. EXIGÊNCIA DE DEMONSTRAÇÃO.
+    1. O Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Precedentes.
+    2. Para chegar a conclusão diversa do acórdão recorrido, imprescindível seria uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário.
+    3. A jurisprudência do Supremo Tribunal Federal é no sentido de que a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Precedentes.
+    4. A parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. A peça de recurso, portanto, não atende ao disposto no art. 543-A, § 2º, do CPC. Precedente.
+    5. Agravo regimental a que se nega provimento” (ARE 922.680-AgR, Primeira Turma, Rel. Min. Roberto Barroso, grifos meus).
+    “Agravo regimental no recurso extraordinário. Necessidade de análise prévia da legislação infraconstitucional, em especial do Código de Processo Penal. Ofensa reflexa ao texto constitucional. Precedentes. Agravo regimental não provido.
+    1. Para se averiguar suposta violação da Constituição Federal, seria imprescindível analisar a legislação infraconstitucional, em especial o Código de Processo Penal. Portanto, a violação do art. 5º, incisos XXXVIII, alínea a, LIV, LV e LVI, da Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    2. É da jurisprudência do Supremo Tribunal Federal o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, não configura ofensa direta e frontal à Constituição da República.
+    3. Agravo regimental ao qual se nega provimento” (ARE 919.691-AgR, Segunda Turma, Rel. Min. Dias Toffoli, grifos meus).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
