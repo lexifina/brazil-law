@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - LEGISLAÇÃO LOCAL - INTERPRETAÇÃO - AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Pernambuco confirmou o entendimento do Juízo quanto à denegação da segurança, ante à legalidade do ato de exclusão de candidatos de concurso. No extraordinário, cujo trânsito busca alcançar, os recorrentes alegam a violação dos artigos 37 e 61, inciso II, da Constituição Federal. Dizem inexistir previsão na lei e no edital no tocante à natureza eliminatória do exame físico. Discorrem sobre a falta de tempo hábil à preparação dos concorrentes às provas físicas.
+    2. Eis a síntese do acórdão recorrido:
+    ADMINISTRATIVO. RECURSO DE AGRAVO. CONCURSO PÚBLICO. AGENTE PENITENCIÁRIO. TESTE FÍSICO. PREVISÃO EMEDITAL E LEIS LOCAIS. COMPATIBILIDADE COM AS ATRIBUIÇÕES DO CARGO PLEITEADO. RECURSO DE AGRAVO DESPROVIDO. DECISÃO UNÂNIME.
+    (...)
+    2. Impende destacar, primeiramente, que o fato de não haver previsão legal expressa nas leis que criaram os cargo de Agente de Segurança Penitenciária, Leis Estaduais nºs 10.865/93 e 11.580/98, aparentemente não afasta a possibilidade de serem exigidos os aludidos exames complementares pelo instrumento convocatório do certame, haja vista os mesmos se encontrarem disciplinados no Estatuto dos Servidores Públicos Estaduais (Lei Estadual nº 6.123/68) e no Estatuto dos Policiais Civis do Estado (Lei Estadual nº 6.425/72), os quais prevêem expressamente a avaliação psicológica, os exames de saúde (médicos e físicos) e o curso de formação para o provimento de caros efetivos na Administração Pública Estadual e o ingresso de servidores nas carreiras de natureza policial, de modo que, ao contrário do que afirmam os demandantes, devem incidir como paradigma ao presente caso, uma vez que são leis de normatização geral de regência.
+    3. Por outro lado, as atribuições inerentes ao cargo em tela demandam dos candidatos capacitação, boa saúde, preparo físico, higidez mental e idoneidade, de modo que devem ser tidas como razoáveis as exigências editalícias referentes aos teses ora questionados, mormente as de aptidão física, pois a função de agente penitenciário exige desses profissionais vigor físico acima da média visando a manutenção da ordem e segurança nos estabelecimentos prisionais.
+    Ao contrário do alegado nas razões do extraordinário, a Corte local consignou haver previsão do teste físico tanto no edital quanto na legislação estadual, assentando que a norma indicada pelos recorrentes versam sobre outros aspectos da carreira de agente penitenciário. Ora, somente pela análise dos fatos e do quadro normativo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária.
+    A par desse aspecto, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 19 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
