@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, II, 21, 37, 84, XXV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo por oportuno a ementa do acórdão recorrido:
+    “AÇÃO CIVIL PÚBLICA. DISTRIBUIDORAS DE MEDICAMENTOS. PRESENÇA DE FARMACÊUTICO. FISCALIZAÇÃO CONSELHO REGIONAL DE FARMÁCIA. DESNECESSIDADE. LEGITIMDIADE ATIVA MPF. Cuidando-se de litígio discutindo medidas administrativas relativas ao direito à saúde, bem como havendo relevante interesse social, justifica-se a autuação do Ministério Público Federal e o manejo de ação civil pública. A obrigação instituída pela Medida Provisória 2.190-34 de manutenção de técnico responsável devidamente inscrito no Conselho Regional de Farmácia durante todo o horário de funcionamento das distribuidoras de medicamentos foi declarada inconstitucional pela Corte Especial do Tribunal Regional  Federal da 4B Região ( Arguição de inconstitucionalidade na Apelação em Mandado de Segurança 2001.71.00.001659-9/RS). Sentença mantida pelos próprios fundamentos para afastar a atuação administrativa do conselho réu, suspender eventuais procedimentos relativos à matéria e cancelar imposições administrativas decorrentes. Prequestionamento quanto à legislação invocada estabelecido pelas razões de decidir.”
+    Divergir da conclusão da Corte de origem demandaria a análise da legislação infraconstitucional apontada no apelo extremo, bem como o revolvimento do conjunto fático delineado, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido: AI 832.267, Rel. Min. Dias Toffoli, DJe 15.10.2013 e RE 93571, Rel. Min Xavier de Albuquerque, DJe 20.02.1981, in verbis:
+    “COMERCIO DE DROGAS, MEDICAMENTOS, INSUMOS FARMACEUTICOS E CORRELATOS. OS ESTABELECIMENTOS DE REPRESENTAÇÃO E DISTRIBUIÇÃO, IMPORTAÇÃO E EXPORTAÇÃO NÃO ESTAO SUJEITOS, PARA OBTEREM O LICENCIAMENTO, AO REQUISITO DA ASSISTENCIA DE RESPONSÁVEL TECNICO, INSCRITO NO CONSELHO REGIONAL DE FARMACIA. ILEGITIMIDADE DO ART-30 DO DECRETO N. 74.170, DE 10.6.74, PORQUE EXORBITANTE DA LEI NUMERO 5.991, DE 17.12.73, QUE PRETENDEU REGULAMENTAR. RECURSO EXTRAORDINÁRIO CONHECIDO E PROVIDO.” (RE 93571, Rel. Min Xavier de Albuquerque, DJe 20.02.1981).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de outubro de 2016.
+Ministra Rosa Weber
+Relatora
