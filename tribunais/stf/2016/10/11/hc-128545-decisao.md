@@ -1,0 +1,52 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Hélio Pereira de Freitas, apontando como autoridade coatora o Ministro Newton Trisotto, do Superior Tribunal de Justiça, que indeferiu a liminar no RHC nº 59.185/MS.
+    Os impetrantes sustentam, inicialmente, que o caso concreto autoriza a mitigação do enunciado da Súmula nº 691/STF.
+    Asseveram, ademais, a presença de constrangimento ilegal, uma vez que o juízo processante ao determinar o prosseguimento da ação penal na fase do art. 397 do Código de Processo Penal não se manifestou a respeito da teses suscitadas pela defesa do paciente na fase do art. 396-A do mesmo Codex.
+    Nesse contexto, afirmam que “era dever do d. Magistrado de origem, em obediência à regra constante no art. 93, IX, da Constituição da República, decidir, fundamentadamente, se as teses da defesa tinham ou não razão de ser” (fl. 12 da inicial).
+    Argumentam que
+    “a decisão que manteve o recebimento da denúncia sequer foi concisa, pois foi proferida absolutamente sem qualquer análise da resposta à acusação. Tanto que proferiu decisão relatando que não a defesa se limitou a discordar dos fatos narrados na denúncia, quando em verdade, havia uma preliminar de ausência de justa causa” (fl. 19 da inicial).
+    Requerem o deferimento da liminar para suspender o curso da ação penal à qual responde o paciente e, no mérito, pedem a concessão da ordem para anular “a decisão que manteve o recebimento da denúncia em desfavor da ora Paciente, para que outra seja proferida, analisando-se, fundamentadamente, todas as teses arguidas pela defesa (...)” (fl. 20 da inicial).
+    Em 11/6/15, indeferi o pedido de liminar e solicitei informações à autoridade coatora e ao Juízo da a 2ª Vara Criminal da Comarca de Sirolândia/MS, que foram devidamente prestadas.
+    O Ministério Público Federal, pelo parecer da Subprocuradora-Geral da República Cláudia Sampaio Marques, opinou pelo não conhecimento da impetração e, se conhecida, pela denegação da ordem.
+    Examinados os autos, decido.
+    Transcrevo o teor da decisão ora questionada:
+    “I - RELATÓRIO:
+    HELIO PEREIRA DE FREITAS, foi denunciado por infração ao art. 302, caput, do Código de Trânsito Brasileiro, c.c. com o art. 70 (por três vezes) do Código Penal.
+    O Tribunal de Justiça do Estado de Mato Grosso do Sul denegou o habeas corpus impetrado pelo defensor do réu. Está assentado na ementa do acórdão:
+    ‘HABEAS CORPUS - HOMICÍDIO CULPOSO ( ART. 302 DO CTB) - PRETENDIDA NULIDADE DA DECISÃO QUE DEU PROSSEGUIMENTO À AÇÃO PENAL - AFASTAMENTO DAS HIPÓTESES DE ABSOLVIÇÃO SUMÁRIA DO ARTIGO 397 DO CÓDIGO DE PROCESSO PENAL - DESNECESSIDADE DE MOTIVAÇÃO COMPLEXA - NULIDADE NÃO CARACTERIZADA - ORDEM DENEGADA.
+    Havendo a decisão expressado a rejeição às teses da resposta à acusação, admitindo como válida a acusação, com suficiente suporte probatório, tem-se limite de fundamentação admitido como suficiente para a continuidade da ação penal’ (fl. 59).
+    Não se conformando com o prosseguimento da ação penal, interpôs ele o recurso em exame, sustentando, em síntese, que: a) ‘ausência de justa causa, eis que, apesar da gravidade dos fatos imputados ao paciente,não houve, quando da apresentação da inicial acusatória, elementos indiciários que suportassem, ainda que minimamente, a acusação’; b) não apreciação das teses defensivas (fls. 69/85).
+    Ao final, requereu a antecipação da tutela recursal, para ‘o estrito fim de suspender o curso da ação penal de origem, em especial a audiência designada para o dia 21 de maio de 2015 e com o recolhimento de eventuais cartas precatórias expedidas‘ (fl.84).
+    II – DECISÃO:
+    01. O ordenamento jurídico não dispõe, expressamente, sobre a concessão de liminar em habeas corpus. Contudo, implicitamente está ela prevista no § 2º do art. 660 do Código de Processo Penal: ‘Se os documentos que instruírem a petição evidenciarem a ilegalidade da coação, o juiz ou o tribunal ordenará que cesse imediatamente o constrangimento’.
+    A sua concessão é admitida pela doutrina (v. Eugênio Pacelli de Oliveira, Curso de processo penal, Lumen Juris, 2009, 11ª ed., p. 807) e pelos tribunais. Porém, como medida absolutamente excepcional, ‘reservada para casos em que se evidencie, de modo flagrante, coação ilegal ou derivada de abuso de poder, em detrimento do direito de liberdade, exigindo demonstração inequívoca dos requisitos autorizadores: o periculum in mora e o fumus boni iuris’ (STF, HC n. 116.638, Rel. Ministro Teori Zavascki; STJ, AgRgHC n. 22.059, Rel. Ministro Hamilton Carvalhido).
+    No caso, não se encontram presentes as circunstâncias excepcionais que autorizam o deferimento da tutela de urgência reclamada.
+    Nesta fase processual, para rejeitá-la, valho-me de excertos dos fundamentos do acórdão impugnado:
+    [...]
+    No caso em tela, a decisão que ratificou o recebimento da denúncia rejeitou de forma sucinta a assertiva de falta de justa causa para o exercício da ação penal, pois os argumentos trazidos pela defesa são concernentes ao próprio mérito acusatório, cuja apreciação, segundo o magistrado singular, deverá ocorrer no momento oportuno, mediante o devido contraditório, porque, ao contrário das afirmações contidas na peça defensiva, reclamam investigação mais aprofundada.
+    (...)
+    É bem verdade que referida decisão judicial não se verifica a existência de motivação exaustiva. Contudo, daí não se extrai que as teses trazidas pela defesa não foram examinadas.
+    A decisão judicial, nessa fase processual, deve estar fundamentada, mas apenas na medida em que não ultrapasse um juízo meritório simples sobre a existência do crime e de indícios de sua autoria pelas pessoas indicadas na denúncia, depois de avaliado, por óbvio, o preenchimento dos requisitos do art. 395 do Código de Processo Penal, e afastada, após a defesa prévia, a possibilidade de absolvição sumária.
+    Além disso, ao reconhecer a impossibilidade de absolvição sumária, o Magistrado valeu-se da expressão utilizada no art. 397 do Código de Processo Penal, para designar a fase de instrução criminal sub judice, sendo certo que a decisão não precisa reproduzir os termos utilizados pela parte.
+    Com efeito, se as matérias suscitadas pela defesa na Resposta à Acusação não constituem causa de absolvição sumária como no presente caso, haja vista que a defesa alegou a inexistência de justa causa para o exercício da ação penal, finalidade única perquirida com a instituição da norma contida no art. 397 do Código de Processo Penal, com mais veemência não há como se exigir motivação pormenorizada do juízo de primeira instância.
+    (...)
+    Portanto, não sendo a hipótese de absolvição sumária, prevista no art. 397 do CPP, a decisão do juízo de origem não demanda fundamentação complexa, não havendo falar em constrangimento ilegal (fls. 61/63).
+    Acrescento que:
+    a) ‘o trancamento da ação penal por meio de habeas corpus é medida excepcional, somente admissível quando transparecer dos autos, de forma inequívoca, a inocência do acusado, a atipicidade da conduta ou a extinção da punibilidade" (STF, RHC 119.607, Rel. Ministro Luiz Fux, Primeira Turma, julgado em 22/10/2013; HC 101.754, Rel. Ministra Ellen Gracie, Segunda Turma, julgado em 08/06/2010; HC 92.959, Rel. Ministro Carlos Britto, Primeira Turma, julgado em 17/11/2009).
+    b) visando a preservação do 'princípio da colegialidade' , em decisões unipessoais, os Ministros integrantes da Terceira Seção desta Corte têm afirmado que, quando a ‘motivação que dá suporte à pretensão liminar confunde-se com o mérito do writ’, deve ‘o caso concreto ser analisado mais detalhadamente quando da apreciação e do seu julgamento definitivo’ (HC 306.389/SP, Rel. Ministro Jorge Mussi, DJe de 14.10.2014; HC 306.666/SP, Rel. Ministro Sebastião Reis Júnior, DJe de 13.01.2014; HC 303.408/RJ, Rel. Ministro Rogerio Schietti Cruz, DJe de 15.09.2014; HC 296.843/SP, Rel. Ministra Maria Thereza de Assis Moura, DJe de 24.06.2014).
+    03. À vista do exposto, indefiro a liminar postulada.
+    Remetam-se os autos ao Ministério Público Federal.
+    Publique-se. Intimem-se” (fls. 2 a 5 do anexo 10 – grifos do autor).
+    Como se observa, o Superior Tribunal de Justiça não examinou, definitivamente, as teses suscitadas na presente impetração, razão por que a sua apreciação, de forma originária, neste ensejo, configuraria supressão de instância, o que é inadmissível.
+    Não pode esta Suprema Corte, em exame per saltum, apreciar questão não analisada, em definitivo, pelo Superior Tribunal de Justiça (HC nº 111.171/DF, Primeira Turma, de minha relatoria, DJe de 9/4/12).
+    Nesse sentido, confiram-se os seguintes precedentes: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    De rigor, portanto, a incidência do óbice da Súmula nº 691 deste Supremo Tribunal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    Finalmente, mostra-se prematura qualquer incursão no mérito do presente writ, tanto mais que o acórdão a ser proferido no julgamento do RHC nº 59.185/MS substituirá o título judicial ora questionado.
+    De toda sorte, registro que, consoante pacífica jurisprudência do Supremo Tribunal Federal, “[a] fase processual do recebimento da denúncia é juízo de delibação, jamais de cognição exauriente. Não se pode, portanto, confundir os requisitos para o recebimento da denúncia, delineados no art. 41 do Código de Processo Penal, com o juízo de procedência da imputação criminal” (Inq. nº 4.022/AP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 22/9/16).
+    Com essas considerações, nego seguimento ao presente habeas corpus, com fundamento no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 11 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
