@@ -1,0 +1,42 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Maria Oziane Ferreira Pinto, apontando como autoridade coatora o Ministro Rogério Schietti, do Superior Tribunal de Justiça, que indeferiu liminarmente a inicial do HC nº 374.433/PA.
+    A impetrante sustenta, inicialmente, que o caso concreto autorizaria a mitigação do enunciado da Súmula nº 691/STF.
+    Aduz, para tanto, a presença de constrangimento ilegal, pois a paciente teve a sua prisão em flagrante convertida em preventiva, em razão da suposta prática do crime de tráfico de drogas (art. 33 Lei nº 11.343/06), sem a realização da audiência de custódia.
+     Afirma, de outra parte que o decreto da preventiva padeceria de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos do art. 312 do Código de Processo Penal.
+    Defende, ainda, a aplicabilidade, na hipótese, da prisão domiciliar na forma do art. 318, incisos IV e V, do Código de Processo Penal.
+    Requer, liminarmente, a concessão da ordem para que o decreto prisional da paciente seja anulado ou que a sua custódia seja revogada por falta de fundamentação idônea.
+    Alternativamente, pede a conversão da preventiva em prisão domiciliar na forma da lei processual penal.
+    Examinados os autos, decido.
+    Há óbice jurídico-processual para o conhecimento da impetração.
+    No caso, o Ministro Rogério Schietti indeferiu liminarmente a inicial do HC nº 374.433/PA, uma vez que questionava decisão indeferitória de liminar no Tribunal de Justiça do Pará. Confira-se:
+    “MARIA OZIANE FERREIRA PINTO, paciente neste habeas corpus substitutivo de recurso ordinário, estaria sofrendo coação ilegal em seu direito de locomoção, em decorrência de decisão proferida por desembargador do Tribunal de Justiça do Estado do Pará no Habeas Corpus n. 0011661-53.2016.8.14.0000.
+    Depreende-se dos autos que o Juízo de primeiro grau, em 29/4/2016, converteu em preventiva a prisão em flagrante da paciente, que responde pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006. Irresignada, a defesa impetrou prévio mandamus, cujo pleito liminar foi indeferido.
+    Nesta Corte, a impetrante alega que o flagrante foi convertido em prisão preventiva sem a realização da respectiva audiência de custódia. Assere que o Juízo singular não destacou qualquer fato concreto ensejador da custódia cautelar no decisum vergastado, o qual carece de fundamentação idônea, em ofensa ao art. 93, IX, da Constituição da República de 1988. Destaca que a paciente está grávida, com 8 meses de gestação, e, ainda, é mãe de outras três crianças, de forma que a prisão cautelar está em dissonância com a situação de vulnerabilidade da paciente.
+    Requer ‘seja LIMINARMENTE anulado o decreto de prisão preventiva, expedindo-se em favor da Paciente’ (fl. 14).
+    Decido.
+    Nos termos do enunciado da Súmula n. 691 do Supremo Tribunal Federal, aplicável à hipótese por analogia, ‘não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do relator que, em 'habeas corpus' requerido a Tribunal Superior, indefere a liminar’.
+    O referido impeditivo, consoante entendimento já pacificado neste Superior Tribunal, é ultrapassado tão somente em casos excepcionais, nos quais a ilegalidade é tão flagrante que não escapa à pronta percepção do julgador.
+    Sob o alerta de tal orientação, não percebo configurada a apontada coação ilegal que permita a superação do óbice da Súmula 691 do STF, pelas razões abaixo expostas.
+    Com efeito, verifica-se que o Juízo singular, ao analisar o flagrante, entendeu presentes os requisitos para a decretação da prisão preventiva do acusado pelos seguintes fundamentos:
+    [...]
+    No caso trata-se de conduta altamente gravosa, tudo isto no contexto de uma onda de tráfico de drogas que tem assomado esta cidade, por isso que a manutenção do indiciado em liberdade vulneraria a própria ordem publica por fomentar a reiteração criminosa e disseminação da intranqüilidade social típicas da pratica criminosa sem controle, impondo-se assim a necessidade de preservar a incolumidade da ordem pública, sopesado ao fato de que a flagrada foi encontrada com significativa quantidade de substância entorpecente e confessou perante a autoridade policial que a droga apreendida lhe pertencia, bem como ressaltou que comercializava droga tipo óxi na cidade de Castanhal, Pará.
+    Isso posto, diante da mencionada incolumidade do auto, HOMOLOGO o FLAGRANTE do(s) naciona(l)(is) MARIA OZIANE FERREIRA PINTO, já qualificado(s) nos auto ao tempo que converto a prisão em flagrante em preventiva, determinando a respectiva transferência para Centro de Recuperação com disponibilidade de vagas a critério da SUSIPE (fls. 35-36, destaquei).
+    Primeiramente, observo que este mandamus foi deficientemente instruído, pois o impetrante olvidou de colacionar cópia do auto de prisão em flagrante, o que dificulta a compreensão do caso e, por conseguinte, o exame da suposta ilegalidade.
+    A despeito disso, percebo que o Magistrado de primeiro grau, ao converter o flagrante em prisão preventiva, destacou que a paciente foi surpreendida em posse de ‘significativa quantidade de substância entorpecente’ (fl. 36), além do fato de ela haver confessado a prática da mercancia ilícita, a denotar a prática habitual da conduta, fundamento que, consoante a jurisprudência do Superior Tribunal de Justiça. permite a decretação da medida cautelar máxima.
+    Dessa forma, não vislumbro a possibilidade de infirmar os elementos trazidos pelo Juízo singular, especialmente em momento tão precoce, dado o não julgamento do mérito do writ originário.
+    À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus” (anexo 2 – grifos do autor).
+    Não há o que ser censurado nessa decisão.
+    Percebe-se que o habeas corpus foi indeferido liminarmente pelo Superior Tribunal de Justiça, pois as questões levadas para discussão e trazidas no presente writ não teriam sido objeto de análise de forma definitiva por aquele Tribunal de Justiça estadual. Com efeito, sua apreciação, de forma originária, neste ensejo, configuraria inegável dupla supressão de instância não admitida.
+    Segundo a remansosa jurisprudência da Corte,
+    “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão de Relator que, em HC requerido a Tribunal Superior, indefere liminarmente o pedido com supedâneo na Súmula 691 desta Corte. Essa circunstância impede o exame da matéria por este Tribunal, sob pena de se incorrer em dupla supressão de instância, com evidente extravasamento dos limites da competência descritos no art. 102 da Carta Magna” (HC nº 117.761/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 4/10/13).
+    Perfilhando esse entendimento, destaco os precedentes seguintes: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Ademais, vale registrar que a impetração volta-se contra decisão singular proferida no bojo do HC nº 374.433/PA. Logo, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 11 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
