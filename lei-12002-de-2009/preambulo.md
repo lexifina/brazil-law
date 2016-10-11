@@ -1,0 +1,2 @@
+Dispõe sobre a criação de Funções Comissionadas do DNPM - FCDNPM, no Departamento Nacional de Produção Mineral - DNPM, de Cargos em Comissão do Grupo-Direção e Assessoramento Superiores - DAS e Funções Gratificadas - FG, destinados ao DNPM, e altera as Leis nos 11.526, de 4 de outubro de 2007, para dispor sobre a remuneração das FCDNPM, 8.876, de 2 de maio de 1994, e 11.046, de 27 de dezembro de 2004.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
