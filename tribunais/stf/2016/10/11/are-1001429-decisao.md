@@ -1,0 +1,13 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Instituto Nacional do Seguro Social – INSS contra acórdão confirmado em sede de embargos de declaração pela 5ª Turma Recursal do Juizado Especial Federal da 3ª Região.
+    A parte ora recorrente sustenta, no apelo extremo em questão, que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao apreciar questão constitucional assemelhada à versada na presente causa, acolheu e aprovou proposta de Súmula Vinculante (PSV 42), de que resultou a Súmula Vinculante nº 20, cujo enunciado possui o seguinte conteúdo:
+    “A Gratificação de Desempenho de Atividade Técnico- -Administrativa – GDATA, instituída pela Lei nº 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória nº 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.”
+    De outro lado, cumpre enfatizar, quanto à discussão em torno da extensão, ou não, da Gratificação de Desempenho de Atividade de Perícia Médica Previdenciária (GDAPMP) aos servidores inativos, que se aplicam, “‘mutatis mutandis’, os mesmos fundamentos apresentados acima, uma vez que é manifesta a semelhança da GDAMP e da GDAPMP com a GDATA” (RE 736.818/AL, Rel. Min. RICARDO LEWANDOWSKI).
+    Cabe ressaltar, por necessário, que essa orientação vem sendo observada em decisões que, proferidas no âmbito desta Corte, versaram questão essencialmente idêntica à que ora se examina nesta sede recursal (ARE 939.602/PR, Rel. Min. ROSA WEBER – RE 950.902/DF, Rel. Min. LUIZ FUX, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se em confronto com súmula desta Suprema Corte (CPC/15, art. 932, IV, “a”).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC/15, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil.
+    Publique-se.
+    Brasília, 11 de outubro de 2016.
+Ministro CELSO DE MELLO
+Relator
