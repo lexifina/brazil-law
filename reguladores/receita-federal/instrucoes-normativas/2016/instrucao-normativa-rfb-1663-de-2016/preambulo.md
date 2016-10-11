@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1663, de 7 de outubro de 2016
+Altera a Instrução Normativa RFB nº 1.234, de 11 de janeiro de 2012, que dispõe sobre a retenção de tributos nos pagamentos efetuados pelos órgãos da administração pública federal direta, autarquias e fundações federais, empresas públicas, sociedades de economia mista e demais pessoas jurídicas que menciona a outras pessoas jurídicas pelo fornecimento de bens e serviços.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 24 da Lei n° 13.137, de 19 de junho de 2015, resolve:
