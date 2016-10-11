@@ -1,0 +1,21 @@
+DECISÃO:
+    De início, torno sem efeito a decisão anteriormente proferida, que determinou determinou o retorno dos autos à origem, a fim de que fosse aplicada a sistemática da repercussão geral.
+    Passo a análise do recurso.
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO POR TÍTULO JUDICIAL CONTRA A FAZENDA PÚBLICA. COMPENSAÇÃO DOS CRÉDITOS EXEQUENDOS. INCONSTITUCIONALIDADE DOS PARÁGRAFOS 9º E 10 DO ART. 100 DA CF/88. ADI'S 4.357 E 4.425. SUSPENSÃO DO PROCESSO ATÉ A MODULAÇÃO DOS EFEITOS PELO STF. DESCABIMENTO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+    1. Quanto à compensação dos débitos fazendários antes da expedição da ordem de pagamento por precatório, o STF, no julgamento das ADI's 4357 e 4425, declarou a inconstitucionalidade dos parágrafos 9º e 10 da Constituição Federal, sob a alegação de ofensa ao princípio da isonomia.
+    2. Quanto à exata extensão dos efeitos da declaração de inconstitucionalidade em comento, esta Turma já decidiu que, inexistindo modulação dos efeitos da declaração de inconstitucionalidade, não se pode olvidar a eficácia vinculante das decisões proferidas pelo Plenário do STF em controle concentrado, a partir da publicação da ata de julgamento, posicionamento acompanhado pelas demais Turmas desta Corte Regional.
+    3. Agravo de instrumento não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 100, 102, § 2º, e 103 da Constituição.
+    O recurso extraordinário não pode ser provido, uma vez que as razões aduzidas pelo recorrente conflitam com a jurisprudência do Supremo Tribunal Federal. Confira-se:
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO CONSTITUCIONAL. REGIME DE EXECUÇÃO PECUNIÁRIA DA FAZENDA PÚBLICA. COMPENSAÇÃO DE DÉBITOS PERANTE A FAZENDA PÚBLICA COM CRÉDITOS SUJEITOS A REQUISIÇÃO DE PEQUENO VALOR. IMPOSSIBILIDADE. JULGAMENTO DAS ADI’S 4357 E 4425 PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. EMENDA CONSTITUCIONAL Nº 62/2009. INCONSTITUCIONALIDADE DA SISTEMÁTICA DE COMPENSAÇÃO EM PROVEITO EXCLUSIVO DA FAZENDA PÚBLICA. EMBARAÇO À EFETIVIDADE DA JURISDIÇÃO (CRFB, ART. 5º, XXXV), DESRESPEITO À COISA JULGADA MATERIAL (CRFB, ART. 5º XXXVI), OFENSA À SEPARAÇÃO DOS PODERES (CRFB, ART. 2º) E ULTRAJE À ISONOMIA ENTRE O ESTADO E O PARTICULAR (CRFB, ART. 1º, CAPUT, C/C ART. 5º, CAPUT). ENTENDIMENTO QUE SE APLICA NA MESMA EXTENSÃO ÀS REQUISIÇÕES DE PEQUENO VALOR. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    1. A compensação de tributos devidos à Fazenda Pública com créditos decorrentes de decisão judicial caracteriza pretensão assentada em norma considerada inconstitucional (art. 100, §§ 9º e 10, da Constituição da República, com redação conferida pela EC nº 62/2009).
+    2. O Plenário do Supremo Tribunal Federal, ao julgar as ADIs nº 4.357 e 4.425, assentou a inconstitucionalidade dos §§ 9º e 10 do art. 100 da Constituição da República, com redação conferida pela EC nº 62/2009, forte no argumento de que a compensação dos débitos da Fazenda Pública inscritos em precatórios embaraça a efetividade da jurisdição (CRFB, art. 5º, XXXV), desrespeita a coisa julgada material (CRFB, art. 5º, XXXVI), vulnera a Separação dos Poderes (CRFB, art. 2º) e ofende a isonomia entre o Poder Público e o particular (CRFB, art. 5º, caput), cânone essencial do Estado Democrático de Direito (CRFB, art. 1º, caput).
+    3. Destarte, não se revela constitucionalmente possível a compensação unilateral de débitos em proveito exclusivo da Fazenda Pública mesmo que os valores envolvidos estejam sujeitos ao regime de pagamento por requisição de pequeno valor (RPV).
+    4. Recurso extraordinário a que se nega provimento.” (RE 657.686, Rel. Min. Luiz Fux)
+    Ademais, no caso dos autos não se aplica os efeitos da modulação determinada no julgamento das ADIs 4.425 e 4.357 – de modo a considerar válidas as compensações realizadas até 25.03.2015 –, pois o Tribunal de origem negou provimento ao agravo de instrumento a fim de manter a decisão que indeferiu a compensação.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 11 de outubro de 2016.
+Ministro Luís Roberto Barroso
+Relator
