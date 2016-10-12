@@ -1,0 +1,22 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal Regional Federal da 4ª Região, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Universidade Federal do Paraná. Aparelhado o recurso na alegação de afronta aos arts. 5º, XXXV, LIV e LV, 93, IX, e 100, caput e parágrafos, da Constituição Federal. Vindos os autos a esta Suprema Corte, foi determinada a devolução dos autos à Corte de origem para a aplicação do art. 543-B do CPC/1973, considerado o RE 599.903/RS.
+    O Tribunal a quo, acolhendo embargos de declaração, declarou prejudicado o recurso extraordinário em razão da ausência de repercussão geral da matéria, considerado o RE 599.903/RS, bem como admitiu o recurso extraordinário quanto à alegação de afronta ao art. 5º, LIV, da Lei Maior ante a apontada desproporcionalidade na fixação do montante da verba honorária.
+    A Vice-Presidência da Corte Regional determinou a remessa dos autos a este Supremo Tribunal Federal.
+    Vieram os autos conclusos.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O exame da alegada ofensa ao art. 5º, LIV, da Constituição Federal dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Cito o AI 745.285-AgR/PE, Rel. Min. Dias Toffoli, 1ª Turma, unânime, DJe 1º.02.2012, cujo acórdão está assim ementado:
+    “A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República.”
+    Verifico, ainda, que no julgamento do RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, decidiu-se pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do devido processo legal, do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, cuja ementa transcrevo:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Por seu turno, na esteira da jurisprudência desta Suprema Corte, a matéria relativa aos critérios de fixação dos honorários advocatícios não alcança estatura constitucional, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    "AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. HONORÁRIOS SUCUMBENCIAIS. CRITÉRIOS DE FIXAÇÃO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTES DOS AUTOS. SÚMULA 279/STF. Nos termos da jurisprudência do Supremo Tribunal Federal, não há questão constitucional nas causas em que se discute critérios de fixação de honorários advocatícios. Precedentes. A solução da controvérsia pressupõe, necessariamente, o reexame do conjunto fático-probatório dos autos, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF. Agravo regimental a que se nega provimento.” (AI 650081 AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe11-09-2014)
+    "AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. CRITÉRIOS DE FIXAÇÃO. ARTIGO 20, §§ 3º E 4º, DO CÓDIGO DE PROCESSO CIVIL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA OU INDIRETA À CONSTITUIÇÃO. PRECEDENTES. Agravo regimental a que se nega provimento.” (AI 832250 AgR, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 07-06-2011)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de outubro de 2016.
+Ministra Rosa Weber
+Relatora
