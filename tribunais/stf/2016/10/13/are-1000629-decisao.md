@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - LEGISLAÇÃO LOCAL - INTERPRETAÇÃO - MATÉRIA FÁTICA - AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à procedência do pedido formulado em ação de improbidade administrativa, em razão da criação e provimento de cargos, sem concurso público, não destinados ao exercício de função de direção, chefia e assessoramento. Consignou a existência de dolo do agente público. No extraordinário, cujo trânsito busca alcançar, o recorrente alega a violação do artigo 37, incisos II e V, da Constituição Federal. Discorre sobre a ausência de conduta improba, afirmando terem sido criados cargos de acordo com as normas de regência. Diz que os ocupantes tinham as qualidades necessárias para o respectivo exercício. Sustenta não haver extrapolado o percentual de cargos de comissão.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    A controvérsia gravita em torno da ocorrência de improbidade administrativa no ato que, diante da norma contida no inciso II do art. 37 da CF/88, nomeou diversas pessoas para ocupar cargos cuja natureza, segundo se alega, não ostenta características de direção, chefia ou assessoramento.
+    (…)
+    Não é dado ao administrador e ao legislador criar cargos de livre nomeação sem que as atribuições envolvam direção, chefia ou assessoramento. Dito de outro modo, apenas os cargos que precisem, efetivamente, ser ocupados por pessoa de confiança da autoridade nomeante é que podem ser declarados por lei como de livre nomeação porque tais funções constituem, por assim dizer, a longa manus do agente nomeante.
+    (…)
+    Certamente, a natureza das atribuições dos cargos mencionados na inicial não justificaria a estipulação de livre nomeação e exoneração prevista em lei porque as atividades não envolvem direção, chefia ou assessoramento, a reclamar fossem os cargos ocupados por pessoas de confiança da autoridade nomeante.
+    Os depoimentos de fls. Revelam que as atribuições dos depoentes, embora condignas, não se revestem, nem remotamente, das necessárias características para que sejam considerados uma extensão do exercício de função por parte do Administrador.
+    (…)
+    Neste ponto específico, não intressa saber se é ou não razoável o total de cargos em comissão existentes no Município. Aqui a apuração quanto à probidade das condutas recai sobre a natureza dos cargos para os quais foram feitas as nomeações sem concurso, e não sobre um percentual de cargos assim declarados em lei, diante do total de cargos existentes no Município.
+    (...)
+    Ao contrário, o conjunto probatório reunido nos autos demonstra situação em que houve uma escalada no desvirtuamento das finalidades constitucionais estabelecidas no inciso II do art. 37, com a criação de inúmeros cargos em comissão sem que houvesse correlação entre as respectivas atribuições e a exceção constitucionalmente estabelecida.
+    Às fls. 783, há notícia de lei (Lei nº 2.588/05) criando 35 cargos novos, cujas funções deveriam ser desempenhadas por servidores efetivos dos quadros da Administração Municipal. O comportamento se vê repetido por intermédio da Lei nº 2.655/06, (mais oito cargos nessas condições), da Lei nº 2.689/07 (mais catorze cargos_ e da Lei nº2.782/08 (mais 25 cargos).
+    Esses dados, aliados aos depoimentos já referidos (fls. 1.163/1.170), indicam que o corréu Dennys promoveu uma significativa ampliação do total de cargos de provimento em comissão, e tais cargos foram destinados a agraciar aliados políticos ou pessoas que o têm na conta de amigo.
+    Considera-se suficientemente caracterizado o dolo dos agentes em violar os princípios da Administração Pública e em deixar de praticar ato de ofício. Trata-se, sem dúvida, de comportamento ímprobo, e que sujeita o infrator às penas previstas no inciso III do art. 12 da Lei Federal nº 8.429/92.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação das Leis Municipais nº 2.588/05, 2.655/06, 2.689/07 e 2.782/08. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 13 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
