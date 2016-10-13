@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho, assim ementado:
+    EMBARGOS EM RECURSO DE REVISTA. DIFERENÇAS SALARIAIS - ACÚMULO DE FUNÇÕES - MOTORISTA E COBRADOR - CABIMENTO. Nos termos do art. 456, parágrafo único, da CLT, há permissão legal para o empregador exigir do empregado qualquer atividade compatível com a condição pessoal do empregado, desde que lícita e dentro da mesma jornada de trabalho. Não há justificativa, portanto, para a percepção de acréscimo salarial pelo Reclamante, que exerce, cumulativamente, a função de motorista e cobrador, quando patente que as obrigações em liça estão inseridas no elenco de obrigações decorrentes do contrato de trabalho, conforme consta da Classificação Brasileira de Ocupações (CBO). Precedentes do TST. Recurso de embargos conhecido por divergência jurisprudencial e provido.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 5º, caput, I, 7º, V, VI, XXII, 170, 193 e 196, todos da Constituição da República, por violação dos princípios da isonomia, do piso salarial proporcional à extensão e à complexidade do trabalho, da irredutibilidade salarial, da redução dos riscos inerentes ao trabalho e de valorização do trabalho.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Sem embargo do teor, manifestado nestes autos, a respeito, abstratamente, da violação do princípios constitucionais da isonomia (art. 5º, caput e I), do piso salarial proporcional à extensão e à complexidade do trabalho (art. 7º, V), da irredutibilidade salarial (art. 7º, VI), da redução dos riscos inerentes ao trabalho (art. 7º, XXII) e de valorização do trabalho (arts. 170, 193 e 196), todos da Constituição da República, a parte ora Recorrente fundamenta o apelo extremo em argumentos genéricos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em normas infraconstitucionais (artigos 456, parágrafo único, e 468, da Consolidação das Leis do Trabalho - CLT), o que não é cabível em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+    Ante o exposto, nego seguimento ao recurso, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 13 de outubro de 2016.
+                      Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
