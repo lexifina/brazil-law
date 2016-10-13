@@ -1,0 +1,35 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, LIV, 37, § 4º, e 109, I, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não restou demonstrada, de forma efetiva, a existência de repercussão geral da controvérsia, tampouco mencionada a fundamentação pertinente.
+    Observo que este Supremo Tribunal Federal consolidou entendimento no sentido de que não basta a mera descrição do instituto em tela, nem a simples referência a precedente recursal. Cabe à parte recorrente a demonstração formal e fundamentada da existência de repercussão geral da matéria, indicando especificamente as razões que evidenciem a relevância econômica, social, política ou jurídica, ainda que tal repercussão já tenha sido presumida ou declarada em outro processo. Insuficiente a mencionada preliminar, inadmissível o recurso extraordinário. Colho precedentes:
+    “RECURSO EXTRAORDINÁRIO. PRELIMINAR. REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS. DEMONSTRAÇÃO. AUSÊNCIA. PROCESSO CIVIL. NULIDADE DE ATOS PROCESSUAIS. TEMA DECIDIDO COM FUNDAMENTO NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA.
+    I – A simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa.
+    II - Inviável o recurso extraordinário se a decisão recorrida se fundamenta na interpretação de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta.
+    III - Agravo regimental desprovido.” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 24.9.2010)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS SUSCITADAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ADMINISTRATIVO. EXERCÍCIO DE FUNÇÃO PÚBLICA. REGULARIDADE DO VÍNCULO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF.
+    II – Ausência de prequestionamento das questões constitucionais suscitadas. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    III – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF.
+    IV – Agravo regimental a que se nega provimento.” (ARE 820.902-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 28.8.2014)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 284/STF. DEFICIÊNCIA NA DEMONSTRAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL. ÔNUS DO RECORRENTE. CONTROLE JUDICIAL DO ATO ADMINISTRATIVO APONTADO COMO ILEGAL OU ABUSIVO. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. JURISPRUDÊNCIA DO STF. OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636/STF.
+    AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.” (ARE 684.539-AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.9.2014)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS. AUSÊNCIA DE PRELIMINAR. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - Nos termos do art. 327, caput, do Regimento Interno do STF, com a redação dada pela Emenda Regimental 21/2007, os recursos que não apresentem preliminar de repercussão geral serão recusados. Exigência que também se aplica às hipóteses de repercussão geral presumida ou já reconhecida pelo Supremo Tribunal Federal. Precedentes.
+    II - Agravo regimental a que se nega provimento.” (ARE 886.344-AgR, Rel. Min. Ricardo Lewandowski, Pleno, DJe 26.10.2015)
+    Ademais, o acórdão recorrido tratou de admissibilidade de embargos de divergência, fundamento inatacado pela parte recorrente.
+    Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula 284/STF: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”. Nesse sentido: ARE 656.357-AgR, 2ª Turma, Rel. Min. Joaquim Barbosa, DJe 23.02.2012; AI 762.808-AgR, 2ª Turma, Rel. Min. Ayres Britto, DJe 30.3.2012; RE 356.310-AgR-segundo, 1ª Turma, Rel. Min. Dias Toffoli, DJe 11.10.2011; e RE 656.256-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 05.3.2012, com a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REVISÃO DE ATO ADMINISTRATIVO. DECADÊNCIA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Observo, por oportuno, que esta Suprema Corte já se manifestou pela inexistência de repercussão geral da controvérsia relativa à análise de pressupostos de cabimento de recursos da competência de outros tribunais, verbis:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.” (RE 598.365, Rel. Min. Ayres Britto, Pleno, DJe 26.3.2010)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de outubro de 2016.
+Ministra Rosa Weber
+Relatora
