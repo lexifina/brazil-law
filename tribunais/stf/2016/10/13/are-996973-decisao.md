@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+    “INDENIZAÇÃO POR DANOS MORAIS. DIZERES QUE NÃO EXTRAPOLAM OS LIMITES DA IMUNIDADE PROFISSIONAL. NÃO COMPROVADO QUE O RÉU TERIA SIDO MENTOR DE ABAIXO-ASSINADO QUE CULMINOU NO DECRETO-LEI QUE OUTORGOU AO AUTOR O TÍTULO DE 'PERSONA NON GRATA'. IMPROCEDÊNCIA MANTIDA NOS TERMOS DO ART. 252 DO REGIMENTO INTERNO DESSE E. TRIBUNAL DE JUSTIÇA” (pág. 57 do documento eletrônico 15).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao arts. 5º, V e X e 133 da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque para se chegar a conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, destaco os seguintes precedentes desta Corte:
+    “DIREITO CIVIL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANO MORAL. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. RECURSO MANEJADO EM 11.4.2016.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido” (ARE 955.767-AgR/CE, Rel. Min. Rosa Weber, Primeira Turma ).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL. RESPONSABILIDADE CIVIL. PUBLICAÇÃO EM BLOG. DANOS MORAIS. INDENIZAÇÃO. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 918.178-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
