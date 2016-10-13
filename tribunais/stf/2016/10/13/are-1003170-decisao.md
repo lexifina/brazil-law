@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Sergipe, ementado nos seguintes termos:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. PLANO DE CARREIRA. PROVENTOS DE APOSENTADORIA. RUBRICAS. RETRIBUIÇÃO POR TITULAÇÃO – RT. NOVO MÉTODO DE CÁLCULO INAUGURADO PELA LEI Nº 12.772/12, O QUAL PASSOU A LEVAR EM CONSIDERAÇÃO O INDICADOR ‘RECONHECIMENTO DE SABERES E COMPETÊNCIAS – RSC’. REGIME JURÍDICO PREVIDENCIÁRIO. DEMANDANTE COM INGRESSO NO SERVIÇO PÚBLICO ANTERIOR A EC 41/2003, COM APOSENTADORIA EM 23/03/1994. DIREITO À PARIDADE DECLARADO. APROVEITAMENTO DE TÍTULOS E CERTIFICADOS OBTIDOS ANTES DA APOSENTAÇÃO, CONFORME PREVISTO NO ART. 17, § 1º, LEI 12.772/12. DEVER ADMINISTRATIVO DE ANALISAR A EQUIVALÊNCIA CONFORME RESOLUÇÃO 01/2014, DO MEC/SETEC/CPRSC. PRAZO DE TRAMITAÇÃO DO PEDIDO QUE DEVERÁ OBSERVAR O ART. 49 E 69-A DA LEI 9.784/99 SOB PENA DE IMPOSIÇÃO DE MULTA. RECURSO DA PARTE AUTORA PROVIDO.” (eDOC 25, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXV, do texto constitucional. (eDOC 27, p.1)
+    Nas razões recursais, alega-se que o recorrido não tem direito adquirido ao instituto da rubrica RSC – Reconhecimento de Saberes e Competência, tendo em vista que se aposentou antes da edição da Lei nº 12.772/2002.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 12.772/2002) e o conjunto probatório constante dos autos, consignou ter a recorrida direito adquirido direito adquirido ao instituto da rubrica RSC – Reconhecimento de Saberes e Competência, tendo em vista que se aposentou antes da edição da referida lei. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No caso, conforme consignado na sentença, o autor se aposentou em 24/06/2011, não havendo controvérsia quanto ao ingresso no serviço público até 16 de dezembro de 1998 (art. 3º, caput, EC nº 47/2005), fazendo jus, então, à paridade (art. 3º, parágrafo único, EC nº 47/2005).
+    Nesse contexto, tem incidência o §1º do art. 17 da Lei 12.772/12.” (eDOC 25, p. 3)
+    Dessa forma, ainda, verifico que o tribunal a quo decidiu a questão conforme a a jurisprudência do Supremo Tribunal Federal, que, ao julgar o RE-RG 590.260, Rel. Min. Ricardo Lewandowski, submetido à sistemática da repercussão geral, onde se decidiu que os servidores públicos que ingressaram no serviço público antes da EC 41/2003, mas que se aposentaram após da edição da referida emenda, possuem direto à paridade e integralidade remuneratória, desde que observada a regra de transição prevista na EC nº 47/2005. Cito a ementa do julgado:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO POR ATIVIDADE DE MAGISTÉRIO, INSTITUÍDA PELA LEI COMPLEMENTAR 977/2005, DO ESTADO DE SÃO PAULO. DIREITO INTERTEMPORAL. PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS QUE INGRESSARAM NO SERVIÇO PÚBLICO ANTES DA EC 41/2003 E SE APOSENTARAM APÓS A REFERIDA EMENDA. POSSIBILIDADE. ARTS. 6º E 7º DA EC 41/2003, E ARTS. 2º E 3º DA EC 47/2005. REGRAS DE TRANSIÇÃO. REPERCUSSÃO GERAL RECONHECIDA. RECURSO PARCIALMENTE PROVIDO.
+     I – Estende-se aos servidores inativos a gratificação extensiva, em caráter genérico, a todos os servidores em atividade, independentemente da natureza da função exercida ou do local onde o serviço é prestado (art. 40, § 8º, da Constituição).
+     II – Os servidores que ingressaram no serviço público antes da EC 41/2003, mas que se aposentaram após a referida emenda, possuem direito à paridade remuneratória e à integralidade no cálculo de seus proventos, desde que observadas as regras de transição especificadas nos arts. 2º e 3º da EC 47/2005.
+     III – Recurso extraordinário parcialmente provido.”
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de outubro de 2016.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
