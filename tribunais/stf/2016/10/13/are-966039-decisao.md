@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, o qual negou o direito à férias e à participação nos resultados de sua antiga empregadora COSIPA.(eDOC 3, p. 39)
+    No recurso extraordinário (eDOC 3, p. 81), interposto com fundamento no art. 102, III, “a” , da Constituição Federal, aponta-se violação ao art. 8º, ADCT, do texto constitucional.
+    Nas razões recursais, alega-se que o art. 8º do ADCT determina que sejam pagos aos anistiados políticos os direitos e vantagens incorporados pela categoria profissional paradigma.
+    Afirma-se que o acórdão recorrido conferiu interpretação restritiva ao art. 8º do ADCT, incompatível com o instituto da anistia. (eDOC 3, p. 86)
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei n. 10.559/2002 e Lei n. 8.213/91) e o conjunto probatório constante dos autos, consignou que o recorrente não faz jus à percepção de férias ou participação nos lucros . Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “ (…) o que se assegurou ao anistiado foi o mesmo benefício previdenciário a que presumivelmente faria jus se houvesse sido demitido. Como os seus colegas de então, hoje aposentados, não têm direito à férias ou participação nos resultados de sua antiga empregadora, com a qual não têm mais nenhum vínculo jurídico, tal direito não pode tampouco assistir ao requerente”. (eDOC 3, p. 39)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO INTERPOSTO EM 15.02.2016. ADMINISTRATIVO. ANISTIA. REINTEGRAÇÃO. EMPREGADOS. EXTINTA CENEA. PAGAMENTOS DE DIFERENÇAS REMUNERATÓRIAS DEVIDAS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. DECISÃO FUNDAMENTADA. 1. É incabível o recurso extraordinário por ofensa reflexa ou indireta à Constituição, o que se verifica no caso, dada a necessidade de se examinar legislação infraconstitucional. Precedentes. 2. A decisão recorrida está devidamente fundamentada, nos termos do entendimento firmado no AI 791.292 QO-RG (tema 339). 3. Agravo Regimental a que se nega provimento. (ARE-AgR 911.224, Rel. Min. EDSON FACHIN, Primeira Turma, DJe 12.9.2016)
+    “DIREITO DO TRABALHO. ANISTIA. EFEITOS FINANCEIROS. PROGRESSÃO FUNCIONAL. LEI 8.878/94. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO VIABILIZA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 19.11.2010. O Tribunal a quo se limitou ao exame da matéria à luz de normas infraconstitucionais. A jurisprudência desta Corte é firme no sentido de que eventual ofensa reflexa a norma constitucional não viabiliza o trânsito do recurso extraordinário. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate. Agravo regimental conhecido e não provido”. (ARE-AgR 648.363, Rel. Min. ROSA WEBER, Primeira Turma, DJe 24.9.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de outubro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
