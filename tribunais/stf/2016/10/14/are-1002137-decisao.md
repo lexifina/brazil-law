@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL. AÇÃO ACIDENTÁRIA. INSS. AUXÍLIO DOENÇA. APOSENTADORIA POR INVALIDEZ. AUSÊNCIA DE PROVA ACERCA DA OCORRÊNCIA DO INFORTÚNIO LABORAL. BENEFÍCIO INDEVIDO.
+    Para a concessão de benefício acidentário é de rigor a comprovação do acidente de trabalho ou o diagnóstico da doença ocupacional, a caracterização do nexo etiológico com a atividade profissional do segurado e a efetiva incapacidade e/ou redução da capacidade de trabalho do segurado, sendo que a ausência de qualquer destes requisitos inviabiliza o deferimento do benefício acidentário. Na espécie, não restou comprovada a efetiva ocorrência do acidente de trabalho descrito na peça inaugural pelo segurado. Ausência de prova quanto ao fato constitutivo do direito postulado (art. 333, I, do CPC) - Ônus do segurado. JULGARAM IMPROCEDENTES OS PEDIDOS EM REEXAME NECESSÁRIO. JULGARAM PREJUDICADO O APELO. UNÂNIME.” (pág. 144 do documento eletrônico 1).
+    Oposto embargos de declaração, foram rejeitados.
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação aos arts. 108, II e 109, I, da mesma Carta. Sustenta, em síntese, a incompetência da Justiça Estadual para analisar a matéria uma vez que o Tribunal a quo entendeu que a incapacidade laborativa adveio de um acidente automobilístico e não de acidente de trabalho. Aduz o recorrente que
+    “Informou-se, na exordial, que a moléstia teria origem em um acidente de trabalho. Contudo, a perícia judicial demonstrou que, na realidade, a doença tem relação com um acidente de trânsito, o que afasta a competência do TJRS.” (pág. 186 do documento eletrônico 1).
+    A pretensão recursal merece acolhida.
+    Destaca-se do voto condutor;
+    “Submetido a exame médico pericial o periciado relatou ao Perito que ‘no dia 24/02/2010 sofreu acidente de moto com trauma direto em punho direito’ (fls. 68/70).
+    Ao responder a quesitação concernente a origem da lesão o expert consignou o seguinte:
+    ‘5. Qual a causa de afastamento do trabalho? (acidente de trabalho, acidente de qualquer natureza, outra doença, outra causa). Especifique detalhando. A causa foi a fratura do punho direito por acidente motociclístico’.
+    Diante desse contexto fático probatório, de rigor reconhecer que não há um só elemento de prova evidencia que a lesão detém natureza acidentária, aliás, sequer há qualquer adminículo de prova demonstrando que o acidente motociclístico possa ser equiparado a acidente de trajeto, na forma do art. 21, alínea ‘d’, da Lei nº 8.213/1991.” (pág. 148 do documento eletrônico 1).
+    O Tribunal de origem confirmou a sentença de improcedência do pedido de concessão de auxílio acidente sob o fundamento de que o acidente que ocasionou a incapacidade para o trabalho não teve relação com a atividade laborativa do recorrente.
+    Conforme dispõe o art. 109, I, da Constituição Federal, a Justiça Federal é competente para o julgamento das ações quando entidade autárquica, no caso o INSS, for parte. Entretanto, admite o ajuizamento de ação na Justiça Estadual, sempre que a comarca não seja sede de vara de juízo federal (art. 109, § 3°, CF), mas os recursos interpostos contra o juízo estadual, investido de competência federal, serão julgados pelo Tribunal Regional Federal da área da jurisdição do juiz de primeiro grau (art. 109, § 4°,CF).
+    Seguindo a mesma orientação, confiram-se os seguintes precedentes: RE 770.879, Rel. Min. Edson Fachin; RE 796.416, Rel. Min. Dias Toffoli; RE 841.986, Rel. Min. Cármen Lúcia, entre outros.
+    Isto posto, conheço do agravo e dou provimento ao recurso extraordinário para, reconhecendo a competência recursal da Justiça Federal para analisar o caso, anular o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul e determinar que os autos sejam remetidos ao Tribunal Regional Federal da 4ª Região para exame do recurso interposto contra a decisão do juízo de primeiro grau.
+    Publique-se.
+    Brasília, 14 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
