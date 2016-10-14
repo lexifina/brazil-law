@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+PRISÃO PREVENTIVA – EXCESSO DE PRAZO.
+HABEAS CORPUS – LIMINAR – EXTENSÃO A CORRÉU.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal da Comarca de São Bernardo do Campo/SP, no processo nº 0011974-35.2016.8.26.0564, converteu a prisão temporária do paciente e de outro indiciado, ocorrida em 17 de maio de 2016, em preventiva, em virtude do suposto cometimento das infrações versadas nos artigos 157, § 2º, incisos I e II (roubo qualificado pelo emprego de arma de fogo e pelo concurso de agentes); 157, § 3º, combinado com o 14, inciso II (latrocínio na modalidade tentada), e 340 (comunicação falsa de crime) do Código Penal. Consignou a necessidade da custódia para garantia da ordem pública e da aplicação da lei penal, aludindo à gravidade concreta do delito, praticado com arma de fogo e mediante concurso de pessoas.
+    Impetrou-se habeas corpus no Tribunal de Justiça, alegando-se a insubsistência da motivação do ato de conversão da temporária. O Relator deixou de acolher o pedido de urgência, assentando que a constrição cautelar decorreu das circunstâncias concretas observadas no auto de prisão em flagrante. Interposto agravo regimental, foi desprovido pela Segunda Câmara de Direito Criminal, que destacou ser a conduta do paciente grave e ensejadora de risco à ordem pública.
+    No Superior Tribunal de Justiça, habeas corpus nº 366.656/SP, renovou-se a argumentação anteriormente expendida. O Relator, ao indeferir liminarmente o habeas, consignou não vislumbrar manifesta ilegalidade a autorizar o afastamento do verbete nº 691 da Súmula do Supremo.
+    Neste habeas, o impetrante diz tratar-se de situação a excepcionar o óbice versado no referido enunciado. Reitera o veiculado acerca da carência de fundamentação do pronunciamento que implicou a preventiva. Alega a ausência dos requisitos previstos no artigo 312 do Código de Processo Penal. Sustenta viável a imposição das medidas cautelares descritas no artigo 319 do Código de Processo Penal. Evoca o princípio da não culpabilidade. Enfatiza as condições pessoais favoráveis do paciente – primariedade, bons antecedentes, residência fixa e ocupação lícita.
+    Requer, no campo precário e efêmero, a revogação da custódia do paciente, a fim de que responda ao processo-crime em liberdade. Sucessivamente, busca a aplicação de medidas cautelares alternativas. No mérito, pretende a confirmação da providência.
+    A fase é de análise da liminar.
+    2. Os fundamentos da constrição cautelar não resistem a exame, presente o arcabouço normativo. Levou-se em conta a gravidade concreta da imputação e o fato de o crime ter sido cometido mediante concurso de pessoas e com o emprego de arma de fogo. Inexiste, no ordenamento jurídico, a prisão automática ante o possível delito praticado, observado o princípio constitucional da não culpabilidade. A esta altura, sem culpa formada, o paciente está recolhido há 5 meses. Tem-se a insubsistência das premissas lançadas e o excesso de prazo da segregação.
+    3. Defiro a liminar pleiteada. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre preso por motivo diverso do retratado na preventiva formalizada no processo nº 0011974-35.2016.8.26.0564, da Primeira Vara Criminal da Comarca de São Bernardo do Campo/SP. Advirtam-no da necessidade de permanecer na residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Sendo idêntica a situação do corréu Ramon Félix da Silva, estendo-lhes, com os mesmos cuidados, esta medida acauteladora, consoante o disposto no artigo 580 do Código de Processo Penal.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 14 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
