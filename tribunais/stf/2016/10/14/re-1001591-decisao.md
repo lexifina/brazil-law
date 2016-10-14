@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de recursos extraordinários nos quais se discute a natureza jurídica de verbas pagas aos empregados para fins de análise de enquadramento na base de cálculo de contribuição previdenciária.
+    Decido.
+    As irresignações não merecem prosperar.
+    Verifico que o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do RE nº 892.238/RS, de relatoria do Ministro Luiz Fux, decisão concluída em 6/8/16, Tema 908, decidiu pela ausência de repercussão geral da matéria discutida no presente feito, conforme se verifica da ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DO EMPREGADO. ADICIONAL DE FÉRIAS. AVISO PRÉVIO INDENIZADO. DÉCIMO TERCEIRO PROPORCIONAL. AUXÍLIO DOENÇA. HORAS EXTRAS. NATUREZA JURÍDICA DAS VERBAS. SALÁRIO DE CONTRIBUIÇÃO. ENQUADRAMENTO. INTERPRETAÇÃO DA LEI 8.212/1991, DA LEI 8.213/1991 E DO DECRETO 3.038/1999. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL”.
+    Do mesmo modo, o Supremo Tribunal Federal decidiu pela inexistência de repercussão geral da matéria referente à análise da incidência de contribuição previdenciária sobre a verba recebida por empregado a título de aviso prévio indenizado (ARE n° 745.901/PR, Relator o Ministro Teori Zavascki, DJe de 18/9/14).
+    Por fim, ressalto que para ultrapassar o entendimento do Tribunal de origem acerca da definição da natureza jurídica das demais verbas em tela (se indenizatórias ou salariais), para fins de incidência de contribuição previdenciária, demandaria o reexame da legislação infraconstitucional. Assim, a suposta ofensa à Constituição Federal, se ocorresse, seria indireta, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “Embargos de declaração em recurso extraordinário com agravo. 2. Decisão monocrática. Embargos declaratórios recebidos como agravo regimental. 3. Direito Administrativo. Gratificação de Atividade de Combate e Controle de Endemias – GACEN. Incidência de contribuição previdenciária. 4. Natureza da verba. Matéria de índole infraconstitucional. Ofensa reflexa. 5. Pedido de uniformização. Turma Nacional de Uniformização. Análise de direito federal. 6. Decretação de nulidade de atos processuais. Impossibilidade. Requerimento pela parte que lhe deu causa. Art. 243 do CPC. 7. Agravo regimental a que se nega provimento” (ARE nº 837.277/PE-ED, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 17/3/15 – grifei).
+    “EMENTA: EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA. GACEN. AUSÊNCIA DE REPERCUSSÃO CONSTITUCIONAL IMEDIATA. A Corte tem se orientado no sentido de que a controvérsia sobre a natureza jurídica da gratificação recebida pelo servidor, para o fim de determinar a incidência da contribuição previdenciária, demanda o reexame da legislação local (Súmula 280/STF) . Embargos de declaração recebidos como agravo regimental a que se nega provimento” (ARE nº 828.747/PE-ED, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 14/11/14 – grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA. TERÇO DE FÉRIAS: natureza JURÍDICA DA PARCELA. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 851.677/SE-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/2/15).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento aos recursos.
+    Publique-se.
+    Brasília, 14 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
