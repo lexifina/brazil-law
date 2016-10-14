@@ -1,0 +1,10 @@
+Decisão: Trata-se de Ação Direta de Inconstitucionalidade (ADI), com pedido de medida cautelar, ajuizada pela Associação Brasileira de Distribuidores de Energia Elétrica (Abradee), em face da Lei Estadual 13.578, de 14.09.2016, do Estado da Bahia, que “dispõe sobre a proibição de cobrança de taxa de religação de energia elétrica em caso de corte de fornecimento por falta de pagamento”. Ademais, segundo a Associação requerente, tal legislação impugnada “estabelece ‘prazo máximo de 24 (vinte e quatro) horas’ para restabelecimento do fornecimento, sem qualquer ônus para o consumidor, em caso de suspensão do fornecimento por atraso no pagamento de fatura.”
+    A inicial postula, em síntese, a procedência da ação direta para que se declare a inconstitucionalidade da legislação estadual impugnada por ofensa às seguintes normas constitucionais: art. 21, XII, b; 22, IV; e 175, parágrafo único, I, II e III, todos da Constituição da República Federativa do Brasil (CRFB/1988).
+    Diante da plausibilidade do ato normativo impugnado a denotar a relevância da matéria constitucional suscitada e de seu especial significado para a ordem social e a segurança jurídica quanto à prestação de serviço público especificamente vinculado aos diversos segmentos do setor elétrico (ou seja, das diversas atividades de eletrificação relacionadas à geração, transmissão e distribuição, na cadeia de fornecimento de energia elétrica), entendo deva ser aplicado o preceito veiculado pelo artigo 12 da Lei nº 9.868, de 10 de novembro de 1999, a fim de que a decisão venha a ser tomada em caráter definitivo.
+    Notifiquem-se as autoridades requeridas, para que prestem informações, no prazo máximo de 10 (dez) dias. Imediatamente, após este prazo, dê-se vista ao Advogado-Geral da União (AGU) e ao Procurador-Geral da República (PGR), sucessivamente, no prazo de 5 (cinco) dias, para que cada qual se manifeste na forma da legislação vigente (Lei 9.868/1999, art. 12).
+    À Secretaria Judiciária para as devidas providências.
+    Publique-se. Intime-se.
+    Brasília, 14 de outubro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
