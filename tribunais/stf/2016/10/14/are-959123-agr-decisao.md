@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO - INVIABILIDADE - DESPROVIMENTO DO AGRAVO.
+    1. Tendo em vista o erro material constante do dispositivo da decisão consignada em 26 de agosto de 2016, chamo o feito à ordem e passo a apreciar o recurso.
+    2. O Tribunal Superior Eleitoral assentou a preclusão da matéria relativa ao não oferecimento de suspensão condicional do processo, porquanto trata-se de nulidade relativa, não suscitada pela defesa no momento oportuno. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação do artigo 5º, inciso LV, da Constituição Federal. Argui a contrariedade ao princípio do devido processo legal. Afirma estarem presentes o requisitos para a suspensão requerida. Diz não estar a matéria preclusa, porquanto ventilada em momento anterior à prolação da sentença.
+    3. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Colegiado de origem expressamente consignou a inércia do recorrente antes da prolação da sentença. As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Colho do acórdão os seguintes trechos:
+    A suspensão condicional do processo se trata de um direito subjetivo do réu, onde a ausência de proposta constitui nulidade relativa. Neste trilhar, omitindo-se o Ministério Público, caberia a defesa suscitar a nulidade sob pena de preclusão.
+    Assim, compulsando os autos, verifica-se que recebida a denúncia, das defesas apresentadas as fls. 36/46 e fls. 55/58, não se constatou qualquer protesto pelos denunciados que denotasse seu interesse pela proposta do sursis processual.
+    Ademais, vale frisar que, em momento algum nos autos, anterior a decisão condenatória ora recorrida, formularam os então denunciados qualquer reclamação quanto a omissão do Parquet em ofertar a proposta de suspensão do processo, previsto no art. 89 da Lei 9.099/95, sendo inequívoco concluir que restou preclusa a oportunidade da parte para invocar tal concessão, mormente em sede recursal, após exarada sentença condenatória.
+    […]
+    Portanto, não tendo os recorrentes questionado o não oferecimento do beneficio previsto no artigo 89, da Lei 9.099/1995, oportunamente, ou seja, antes de proferida sentença condenatória em seu desfavor, não ha que se falar em eiva a contaminar o processo, considerando-se precluso o pleito de aplicação da citada benesse. (FIs. 367-368).
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à suposta violação ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    4. Conheço do agravo interposto por Vitalino Moura Silva e o desprovejo.
+    5. Publiquem.
+Brasília, 14 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
