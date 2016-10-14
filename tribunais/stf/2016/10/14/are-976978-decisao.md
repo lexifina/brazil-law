@@ -1,0 +1,13 @@
+DECISÃO
+DEVIDO PROCESSO LEGAL – PRESTAÇÃO JURISDICIONAL – COMPLETUDE – RECURSO EXTRAORDINÁRIO CONHECIDO E PROVIDO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Sul confirmou a sentença proferida pelo Juiz, assentando a improcedência do pedido, ante fundamentos assim resumidos:
+    APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. AÇÃO PELO RITO ORDINÁRIO. CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL-PREVI. DEVOLUÇÃO DAS QUANTIAS APURADAS EM FUNÇÃO DA EQUALIZAÇÃO DO RESULTADO POSITIVO DENOMINADO “SUPERÁVIT PREVI”. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ARTIGO 88 DO REGULAMENTO.
+    No extraordinário cujo processamento buscam alcançar, os recorrentes alegam a violação dos artigos 5º, cabeça e incisos II, V, X, XXII, XXXV, XXXVI, LIV e LV, e 170, inciso V, da Lei Maior; bem assim do artigo 48 do Ato das Disposições Constitucionais Transitórias. Arguem a nulidade da decisão por carência de fundamentação, a ensejar a negativa de prestação jurisdicional. Sustentam a afronta à ampla defesa e ao contraditório. Diz terem sido malferidos os princípios da isonomia, legalidade e proteção ao consumidor. Articulam com a configuração dos requisitos para indenização por danos morais.
+    2. A situação do processo apresenta peculiaridades. Os recorrentes buscam a análise da controvérsia à luz das causas de pedir, sobretudo a afronta ao princípio da isonomia decorrente da edição do artigo 88 do Regulamento Básico do Plano de Benefícios 1. Protocolados embargos declaratórios visando a pronunciamento judicial a respeito, não houve o enfrentamento da matéria.
+    Incumbia ao Órgão julgador emitir entendimento sobre o que veiculado nos citados embargos, quer para provê-los, quer para desprovê-los. Não o fez, e a parte simplesmente ficou sem resposta à mencionada causa de pedir.
+    Reafirmo que prestação jurisdicional aperfeiçoada é a completa, a que implica o exame dos temas de defesa apontados pelas partes, sob pena de ter-se decisão e não julgamento, sob pena de não haver o respeito ao devido processo legal. Este é base maior, é medula, para dar-se a eficácia de decisão contrária a interesses.
+    3. Ante o quadro, conheço do agravo e o provejo, consignando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Diante da ofensa ao inciso IX do artigo 93 da Carta da República, julgo desde logo, o recurso, nos termos do artigo 544, § 4º inciso II, alínea “c”, do Código de Processo Civil. Dele conheço e provejo para anular a decisão relativa aos embargos declaratórios e determinar que se proceda a novo julgamento.
+    4. Publiquem.
+Brasília, 14 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
