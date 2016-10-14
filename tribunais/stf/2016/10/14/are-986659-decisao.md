@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Turma Recursal que negou provimento ao recurso inominado para manter a determinação de aplicação de multa diária pelo descumprimento da obrigação de fazer, em decorrência de suspensão do serviço de internet após a utilização do limite contratado.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos artigos 1º, IV, 21, XI, 22, IV e 170 da Constituição da República, por violação aos princípios garantidores da livre iniciativa e da livre concorrência, das atribuições e competência da União, do dever de fundamentação das decisões judiciais e da competência da Justiça federal em face das agências reguladoras.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    No julgamento do ARE-RG 835.833, de relatoria do Ministro Teori Zavascki, DJe de 26.03.2015 (Tema 800), a Corte decidiu que, em regra, não possuem repercussão geral as controvérsias decididas no âmbito dos Juizados Especiais Cíveis da Lei 9.099/1995, que decorrem de uma relação de direito privado (contrato de prestação de serviço de telefonia móvel), revestida de simplicidade fática e jurídica, como a do caso em exame.
+    Ademais, ao examinar o RE-RG 567.454, de relatoria do Ministro Carlos Britto, Dje de 28.08.2009 (Tema 35, alínea b), o Tribunal decidiu pela ausência de repercussão geral de matéria que trata sobre a competência para processar e julgar ação em que se discute a legalidade da cobrança da tarifa de serviço de telefonia, assentando que a controvérsia não vincula senão o consumidor e a concessionária de serviço de telefonia. De mais a mais, a agência reguladora a ANATEL não manifestou, expressamente, interesse na solução da controvérsia. Pelo que não há falar de interesse, jurídico ou econômico, da ANATEL, como é o caso dos autos.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 14 de outubro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
