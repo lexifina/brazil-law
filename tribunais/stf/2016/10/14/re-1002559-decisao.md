@@ -1,0 +1,14 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO. ARTIGO 557, § 1º, DO CÓDIGO DE PROCESSO CIVIL. IMUNIDADE. ISENÇÃO. ENTIDADE FILANTRÓPICA. ARTIGO 14 DO CTN. ARTIGO 55 DA LEI N° 8.212/91. §7°, ARTIGO 195 DA CF/88. POSSIBILIDADE DE REGULAMENTAÇÃO POR LEI ORDINÁRIA.
+     1. No que toca à necessidade de Lei Complementar para regular o disposto no §7° do artigo 195 da CR/88, esta só é exigível nas hipóteses em que a Constituição o determina, o que não é o caso, já que o aludido artigo da CF/88, com relação à matéria específica (as exigências a que devem atender as entidades beneficentes de assistência social para gozarem da imunidade aí prevista), estabelece apenas que essas exigências sejam veiculadas por lei.
+     2. Têm direito à isenção do §7°, artigo 195 da CF/88, as entidades que preenchem os requisitos previstos na redação original do artigo 55 da Lei n° 8.212/91 e na Lei 8.742/93, bem como de seu Decreto regulamentador, não havendo direito adquirido e não importando o gênero que comporta duas espécies.
+     3. É inaplicável o artigo 14 do Código Tributário Nacional, para a definição dos critérios que isentem as entidades beneficentes do recolhimento de contribuições sociais, em razão da especialidade do artigo 55, da Lei n° 8.212/91, bem como que a leitura do artigo 14 do CTN deve ser feita em conjunto com o artigo 9°, IV do mesmo Código, o qual prevê que tal regramento é relativo a IMPOSTO, que é espécie, assim como as contribuições também o são do gênero que é tributo.
+     4. Agravo legal a que se dá provimento”
+    O Supremo Tribunal Federal, nos autos do RE 566.622-RG, de relatoria do Ministro Marco Aurélio, examinará novamente parte da controvérsia constante dos autos, uma vez que reconheceu a repercussão geral da matéria (Tema 32). Trata-se de recurso extraordinário em que se discute, à luz dos arts. 146, II; e 195, § 7º, da Constituição Federal, a necessidade de reserva de lei complementar para instituir requisitos à concessão de imunidade tributária às entidades beneficentes de assistência social. Naquele recurso a questão é relativa à constitucionalidade, ou não, do art. 55 da Lei nº 8.212/1991, que dispõe sobre as exigências para a concessão de imunidade tributária às entidades beneficentes de assistência social. Confira-se, a propósito, a ementa da decisão:
+    “REPERCUSSÃO GERAL - ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL – IMUNIDADE - CONTRIBUIÇÕES SOCIAIS - ARTIGO 195, § 7º, DA CONSTITUIÇÃO FEDERAL. ADMISSÃO PELO COLEGIADO MAIOR”.
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino retorno dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 14 de outubro de 2016.
+Ministro Luís Roberto Barroso
+Relator
