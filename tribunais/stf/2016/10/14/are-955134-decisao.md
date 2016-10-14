@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA INVIABILIDADE DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Sul, reformando o entendimento do Juízo, julgou procedente o pedido de prestação de contas. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação do artigo 5º, incisos XXXV, XXXVI, LIV e LV, da Constituição Federal. Afirma a perda de objeto da presente demanda, ante à condenação, em processo criminal, à restituição dos valores sacados mediante alvarás judiciais. Aponta a impossibilidade de dupla condenação.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Confiram com o seguinte trecho do acórdão recorrido:
+    Em que pese já haja decisão no juízo criminal acerca de crime de apropriação indébito por parte do réu, ora apelado, tal decisão ainda não possui trânsito em julgado, sendo, portanto, passível de alteração pelos órgãos colegiados. Todavia, ainda que assim não ocorra, é impositivo o dever de prestação de contas do mandatário.
+    Ainda que o objeto da lide de prestação de contas seja, ao final, em sua segunda fase, a condenação do réu à devolução de eventual saldo em favor do autor e que o objeto do processo criminal seja exatamente os valores que pretende o autor, ora apelante, ver prestadas as contas, não há falar-se em extinção do presente feito em face de prejudicialidade das demandas.
+    Por tais razões, dou provimento ao apelo para julgar procedente a primeira fase da ação de prestação de contas ajuizada por Marcio Scopel contra Ademarzinho Gonçalves Aparto, para determinar que o réu preste contas em relação aos valores por ele levantados e sua destinação, de forma contábil e mercantil, no prazo previsto no art. 915, § 2º, do CPC.
+    O Tribunal de origem afastou a condenação em duplicidade, assentando tratarem-se de objetos diversos – condenação à prestação de contas e condenação à devolução dos valores levantados. Divergir deste entendimento demandaria, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso, o que é vedado em sede extraordinária.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 14 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
