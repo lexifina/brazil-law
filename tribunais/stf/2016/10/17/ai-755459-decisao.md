@@ -1,0 +1,15 @@
+AGRAVO DE INSTRUMENTO. PENAL E PROCESSUAL PENAL. PODER DE INVESTIGAÇÃO DO MINISTÉRIO PÚBLICO. CRIME DO ARTIGO 10 DA LEI 9.296/96. DECURSO DO PRAZO PRESCRICIONAL. PREJUDICIALIDADE. PERDA DO OBJETO DO RECURSO.
+    Decisão: Trata-se de agravo de instrumento interposto contra decisão que inadmitiu recurso extraordinário interposto contra acórdão que determinou o trancamento de ação penal proposta contra JOSIVAL PEREIRA DA SILVA e MARCOS ROBERTO ALQUATRI, como incursos no crime capitulado no artigo 10 da Lei 9.296/96 c/c o artigo 29 do Código Penal.
+    Monocraticamente, determinei a baixa dos autos ao Tribunal de origem, para os fins no disposto no art. 543-B do CPC/73, em razão do reconhecimento pelo Plenário do STF da repercussão geral da controvérsia objeto do presente feito, nos autos do RE 593.727, Rel. Min. Cezar Peluso, DJe 29.5.2009 (poderes de investigação do Ministério Público).
+    Ocorre que o Tribunal a quo determinou o retorno dos autos à apreciação desta Corte em despacho do seguinte teor, verbis:
+     “Respeitada a decisão proferida pelo Excelso Supremo Tribunal Federal às fls. 34 7/348, que determinou a devolução do presente feito para que fosse observado o disposto no artigo 543-B do Código de Processo Civil, diante do reconhecimento da repercussão geral a respeito da questão de direito tratada no presente inconformismo (constitucionalidade, ou não, da realização de procedimento investigatório criminal pelo Ministério Público - Tema 184 - Recurso Extraordinário n° 593.727-RG), tendo em vista a proximidade da ocorrência da prescrição, encaminhem-se os autos àquele Sodalício.” (doc. 1, fl. 170).
+    Em que pese a matéria tratada neste agravo de instrumento não se referir diretamente à situação delitiva dos recorridos, o fato é que eventual provimento do recurso extraordinário ensejaria a cassação do acórdão recorrido e a restauração da ação penal trancada.
+    Em última análise, o que se pretende, na verdade, é a continuidade da persecução criminal interrompida na origem.
+    Da leitura dos autos, observo que a denúncia foi recebida em 25/6/2007 (doc. 4, fl. 79), interrompendo a prescrição nos termos do artigo 117, I, do Código Penal. Com o transcurso do lapso temporal de mais de 8 (oito) anos (artigo 109, IV, do Código Penal), verifica-se consumada a prescrição da pretensão punitiva do Estado.
+    Releva anotar que a prescrição criminal é matéria de ordem pública e, consectariamente, pode ser arguida e reconhecida a qualquer tempo, conforme preconiza o artigo 61 do Código de Processo Penal. Nesse sentido, à guisa de exemplo, cito os seguintes julgados: HC nº 80.601/SC, Primeira Turma, Relator o Ministro Ilmar Galvão, DJ de 23/03/01, e RHC nº 85.847/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/11/06.
+    Ex positis, torno sem efeito a decisão monocrática anteriormente proferida, declaro EXTINTA a punibilidade de JOSIVAL PEREIRA DA SILVA e MARCOS ROBERTO ALQUATRI e julgo PREJUDICADO o agravo de instrumento, com fundamento no artigo 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 17 de outubro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
