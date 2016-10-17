@@ -1,0 +1,38 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. FUNDEF. VMNA. VINCULAÇÃO DOS VALORES. EXECUÇÃO. PRECATÓRIO. POSSIBILIDADE DE RETENÇÃO DE HONORÁRIOS CONTRATUAIS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. GARANTIA DE ACESSO À JUSTIÇA. RAZÕES SUFICIENTES PARA A MANUTENÇÃO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. RECURSO DESPROVIDO.
+    DECISÃO: Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão que manteve decisão que analisou impugnação aos parâmetros adotados em liquidação por artigos, apresentada na fase de cumprimento de sentença, cujo teor segue transcrito, verbis:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO (FUNDEF). VALOR MÍNIMO NACIONAL POR ALUNO (VMNA). EXECUÇÃO. LIQUIDAÇÃO POR ARTIGOS. RETENÇÃO DE HONORÁRIOS CONTRATUAIS. POSSIBILIDADE. PER RELATIONEM.
+    1. Trata-se de agravo de instrumento interposto pela União Federal contra decisão prolatada pela Juíza Federal da 23ª Vara da Seção Judiciária de Pernambuco, Dra. Polyana Falcão Brito, que rejeitou a impugnação da ré aos parâmetros do título executivo judicial de complementeção de repasse dos recursos do FUNDEF ao Município de Terezinha - PE.
+    2. Adoção da técnica de julgamento per relationem.
+    3. 'O título executivo judicial não impôs condição alguma para o pagamento das diferenças entre o VMAA estabelecido pelos decretos presidenciais e aquele que seria devido com base no texto legal.'
+    4. 'Quanto ao argumento de que haveria uma causa modificativa da obrigação consubstanciada na extinção do FUNDEF e substituição do FUNDEB, a rejeição do argumento prescinde de maiores digressões (...) a União descumpriu o dever de repasse de recursos a que estava obrigada e nisso repousa o dever de ressarcimento.'
+    5. Ainda que os estudantes, que seriam beneficiados por esses repasses, possivelmente não mais se encontrem nas escolas, e se estiverem já estariam sendo plenamente atendidos pelo novo programa, faz jus o Município agravado à indenização da União.
+    6. 'No que tange aos elementos necessários à liquidação do quantum debeatur referente ao pagamento das diferenças do VMAA, à míngua de outros dados disponíveis ou de controvérsia entre exequente e executado, fica definido que devem ser utilizados os dados oficiais disponíveis nos sites do MEC e do FNDE.'
+    7. 'A existência de ações civis ordinária em trâmite no STF em nada modificam o curso dessa demanda.'
+    8. 'Atualização pelo IPCA-E acrescido de juros de mora de 0,5% (meio por cento) ao mês durante todo o período.'
+    9. 'O fato de os recursos serem de aplicação vinculada à educação em nada afeta a exigibilidade da dívida.'
+    10. 'A sentença que transitou em julgado contém na parte dispositiva a menção de que 'os valores deverão ser fixados em liquidação de sentença', ou seja, por artigos.
+    11. Possibilidade de retenção dos honorários advocatícios contratuais.
+    12. Agravo de Instrumento não provido.” (págs. 98-99 do documento eletrônico 1).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao art. 60 do ADCT da Constituição Federal.
+    Para tanto, argumenta, em síntese, que os valores discutidos nos autos são, por mandamento constitucional, destinados exclusivamente à manutenção e ao desenvolvimento do ensino fundamental, o que impossibilitaria a retenção de honorários contratuais devidos pela exequente no precatório a ser expedido.
+    É o relatório. DECIDO.
+    O recurso não merece provimento.
+    A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição Federal).
+    No caso dos autos, o acórdão recorrido sustentou a possibilidade de retenção dos honorários advocatícios contratuais tanto no reconhecimento da não aplicabilidade da vinculação das verbas para pagamento daqueles valores, quanto no princípio constitucional da garantia de acesso à jurisdição.
+    Por sua vez, o recorrente, nas razões do extraordinário, limitou-se a argumentar no sentido de ser imprescindível o reconhecimento da destinação exclusiva aos gastos com a manutenção e desenvolvimento do ensino fundamental e, ao assim proceder, deixou de atacar razões que são suficientes para a manutenção da decisão vergastada.
+    Incide, na espécie, o enunciado da Súmula 283 do STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas acerca da Súmula 283 do STF:
+    “Pontes de Miranda sustentava opinião favorável à admissão do recurso extraordinário com fulcro num dos fundamentos quando a decisão assenta em vários (Comentários ao Código de Processo Civil, 2ª ed., t. XII/278). Opiniões contrárias são sustentadas por Lopes da Costa (Direito Processual Civil Brasileiro, 2ª ed., v. III/418) e José Afonso da Silva (Do Recurso Extraordinário, p. 201), que inadmitem o recurso nessas condições.
+    A Súmula 283 expressa que é inadmissível o recurso extraordinário quando a decisão recorrida tem mais de um fundamento suficiente e o recurso não abrange todos eles (RE 65.072, Rel. Min. Amaral Santos, RTJ 53/371; RE 66.768, Rel. Min. Djaci Falcão, RTJ 52/606; RE 60.854, Rel. Min. Barros Monteiro, RTJ 45/855; RE 63.174, Rel. Min. Evandro Lins, RTJ 45/419; RE 79.083, Rel. Min. Rodrigues de Alckmin, RTJ 75/844; RE 79.623, RTJ 75/849; RE 84.077, RTJ 80/906).
+    Aplicável o disposto nesta Súmula (decisão assentada em mais de um fundamento) às decisões do STJ (REsp 16.076; REsp 21.064; REsp 23.026; REsp 29.682).
+    V. Luiz Guilherme Marinoni, Manual do Processo de Conhecimento, Ed. RT, 2001, p. 561.” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 140).
+    Destaca-se, nesse sentido:
+    “AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO. SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL.
+    1. Inviável o agravo de instrumento que não ataca todos os fundamentos autônomos da decisão recorrida (Súmula 283 do Supremo Tribunal Federal). Agravo não provido.” (AI 489.247-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJ de 16/2/2007).
+    Além disso, ainda que citadas as regras constitucionais de vinculação das verbas para a educação e de acesso à justiça, a discussão envolvendo a possibilidade de retenção dos honorários contratuais depende da análise de normas infraconstitucionais (Lei 9.424/1996, Lei 8.906/1994 e CPC), conforme se depreende das próprias razões aduzidas pelo recorrente e dos seguintes precedentes: RE 916.445-AgR, Rel. Min. Marco Aurélio, 1ª Turma, DJe de 11/3/2016, RE 601.616-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe de 18/3/2011, AI 657.929-AgR, Rel. Min. Ellen Gracie, 2ª Turma, DJe de 25/9/2019, ARE 851.178-AgR, Rel. Min. Gilmar Mendes, DJe de 12/3/2015, RE 915.109, Rel. Min. Cármen Lúcia, DJe de 24/2/2016.
+    Ex positis, DESPROVEJO o recurso, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 17 de outubro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
