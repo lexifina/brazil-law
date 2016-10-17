@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, do qual se extrai da ementa o seguinte trecho:
+    “RECURSO CRIMINAL. CRIME CONTRA A VIDA. AGENTE PRONUNCIADO PELA SUPOSTA PRÁTICA DO CRIME DE HOMICÍDIO TRIPLAMENTE QUALFICAO POR MOTIVO FÚTIL, MEIO CRUEL E MEDIANTE RECURSO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA (ART. 121, § 2°, II, III, E IV, DO CÓDIGO PENAL). RECURSO DA DEFESA.
+    ERRO MATERIAL NO DISPOSITIVO DA DECISÃO DE PRONÚNCIA. CORREÇÃO, DE OFÍCIO, PARA FAZER CONSTAR A DEVIDA CAPITULAÇÃO LEGAL DO CRIME PELO QUAL O RÉU FOI PRONUNCIADO, NOS MOLDES DA FUNDAMENTAÇÃO.
+    ALEGADA INCONSTITUCIONALIDADE DOS PROVIMENTOS 14/2003 E 05/2010 DA CORREGEDORIA GERAL DE JUSTIÇA DE SANTA CATARINA (CGJ/SC) POR OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. INOCORRÊNCIA. PRESERVAÇÃO DE IDENTIDADE DA TESTEMUNHA QUE ENCONTRA RESPALDO NA LEI N. 9.807/99. PROVIMENTO 05/2010 CONSTITUCIONAL, TANTO NO ASPECTO FORMAL (REGULAÇÃO DA MATÉRIA EM OBEDIÊNCIA AO PROCESSO LEGISLATIVO) QUANTO NO ASPECTO MATERIAL (CONSONÂNCIA COM OS PRINCÍPIOS DA LEI MAGNA E COM OS DITAMES DA LEI N. 9.807/1999). POSSIBILIDADE DE LIMITAÇÃO À PUBLICIDADE DE ATOS JURISDICIONAIS NA HIPÓTESE DO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. PROTEÇÃO E SIGILO DE TESTEMUNHAS. PRERROGATIVAS ASSEGURADAS CONSTITUCIONALMENTE. PROVIMENTO N. 05/2010 DA CGJ/SC QUE SE LIMITOU A REGULAR O CONTEÚDO DA CARTA MAGNA.
+    […].”
+    O recurso busca fundamento no art. 102, III, a, c e d, da Constituição Federal. A parte recorrente aponta violação aos arts. 5º, IV, LIV, LV e 22, I, da Constituição. Sustenta que: “é inadmissível no processo penal democrático a figura da "testemunha sem rosto", verdadeira marca de legislações de emergência, a qual viola, a um só tempo, a Constituição da República e o Código de Processo Penal”; (ii) a “INVALIDADE DOS PROVIMENTOS 14/2003 E 05/2010 EM FACE DO CÓDIGO DE PROCESSO PENAL”.
+    O recurso é inadmissível, tendo em vista que a alegada violação aos arts. 5º, IV e 22, I, da Constituição, nos termos trazidos no recurso extraordinário, não foi objeto de apreciação pelo acórdão do Tribunal de origem, de modo que o recurso carece, no ponto, do necessário prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    Por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, tal como consta no parecer da Procuradoria-Geral da República, para chegar a conclusão diversa do acórdão recorrido, imprescindível seria a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário. Confira-se o seguinte trecho do voto condutor do acórdão recorrido:
+    “[...]
+    Destarte, não havendo falar em inconstitucionalidade dos Provimentos 14/2003 e 05/2010, mostram-se perfeitamente válidos os depoimentos prestados pela "testemunha sob proteção nº 1/2013", mormente porque colhidos em estrita obediência aos ditames da Constituição Federal e da Lei n. 9.807/99, não acarretando qualquer ilegalidade capaz de cercear a defesa do recorrente ou ensejar a reinquirição da testemunha.
+    […].”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 17 de outubro de 2016.
+Ministro Luís Roberto Barroso
+Relator
