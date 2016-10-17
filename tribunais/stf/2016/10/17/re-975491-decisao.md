@@ -1,0 +1,25 @@
+Decisão: Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 18.3.2016.
+    Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado, no que interessa:
+    “Taxa de remoção de lixo domiciliar. Exercício de 2002. Rateio do custo do serviço de acordo com a área do imóvel. Inadmissibilidade. Base de cálculo sem relação com o custo da atividade estatal. Inobservância do princípio da isonomia. Inteligência do artigo 150, II, da Constituição Federal. Cobrança indevida. Reconhecimento ‘ex officio’. Matéria de ordem pública. Precedentes do Superior Tribunal de Justiça. Prosseguimento da execução apenas quanto ao imposto”. (eDOC, p. 35)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 30, I e III; e 145, inciso II e §2°, do texto constitucional.
+    Nas razões recursais, alega-se que a área do imóvel é critério idôneo para a repartição do custo global dos serviços – o qual seria a base de cálculo da taxa – entre seus contribuintes, como admitido pela jurisprudência em relação a diversas outras leis municipais de mesmo teor. (eDOC, p. 72)
+    A Presidência da Seção de Direito Público do Tribunal entendeu ser idêntica a controvérsia à julgada no RE 576.321, paradigma do tema 146 da repercussão geral, e devolveu os autos à turma julgadora, para juízo de adequação, nos termos do art. 543-B, § 3°, do CPC 1973. (eDOC, p. 83)
+    Esta manteve sua decisão, invocando as mesmas razões do acórdão anterior. (eDOC, p. 88)
+    Foi então realizado o juízo de admissibilidade, que deu seguimento ao recurso. (eDOC, p. 109)
+    É o relatório.
+    Decido.
+    Registro que o acórdão recorrido não rejeita a Súmula Vinculante 29 do STF, que veicula o tema 146 da repercussão geral, mas fundamenta sua imputação de inconstitucionalidade da exação discutida na ofensa ao princípio da isonomia. Nesse sentido, extraio o seguinte trecho:
+    “No caso em foco não se vislumbra relação entre o custo do serviço prestado diretamente ao contribuinte e o cálculo do município de Santos para cobrar a taxa de remoção de lixo domiciliar. E isso implica desrespeito ao princípio da isonomia, conforme abaixo se esclarece.
+    Suponham-se dois imóveis com a mesma produção de lixo: um com área de 80 metros quadrados e outro com 150 metros quadrados. O dono deste, de acordo com o critério de cobrança do município, pagará quase o dobro do dono daquele, embora ambos devessem pagar igual quantia, porquanto produzem, por hipótese, o mesmo lixo. Claríssima, como se percebe, a violação ao artigo 150, II, da Magna Carta”. (eDOC, p. 41)
+    Todavia, a jurisprudência desta Suprema Corte já assentou ser a metragem do imóvel fator adequado para o cálculo da taxa de lixo domiciliar, em arestos que serviram de supedâneo ao julgamento do RE 576.321. Ademais, acerca da matéria, foi editada a Súmula Vinculante 29, assim enunciada:
+    “É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra”.
+     Diverge desse entendimento o acórdão recorrido, que, mesmo sob a invocação de outra norma, nega legitimidade à forma de composição da obrigação tributária reconhecidamente conforme a Constituição.
+    Nesse sentido, trago precedentes de ambas as Turmas deste Tribunal:
+    “IPTU – PROGRESSIVIDADE. (...) TAXA DE COLETA DE LIXO DOMICILIAR – BASE DE CÁLCULO – METRO QUADRADO – CONSTITUCIONALIDADE – PRECEDENTE DO PLENÁRIO E VERBETES VINCULANTES – CONVICÇÃO PESSOAL – RESSALVA. Na dicção da ilustrada maioria, é constitucional lei que prevê o cálculo da taxa de coleta de lixo domiciliar a partir da metragem quadrada do imóvel. Precedente: Recurso Extraordinário nº 232.393-1/SP. Verbetes Vinculantes nºs 19 e 29 no mesmo sentido”. (AI 629959 AgR, rel. Min. Marco Aurélio, Primeira Turma, DJe 5.9.2012) (grifo nosso)
+    “Agravos regimentais nos recursos extraordinários. Inovação recursal. Inadmissibilidade. Prequestionamento. Ausência. Imunidade recíproca. INFRAERO. Taxa de coleta de lixo domiciliar. Base de cálculo. Área do imóvel. Constitucionalidade. Precedentes. Súmulas Vinculantes nºs 19 e 29. (...) 5. O Supremo Tribunal Federal firmou o entendimento no sentido da constitucionalidade da utilização da área do imóvel como base de cálculo da taxa de coleta de lixo domiciliar. Incidência da Súmula Vinculante nº 29. 6. Agravos regimentais não providos”. (RE 901412 AgR, rel. Min. Dias Toffoli, Segunda Turma, DJe 11.12.2015) (grifo nosso)
+    Ante o exposto, dou provimento ao recurso extraordinário para determinar o prosseguimento da execução fiscal também quanto à taxa de remoção do lixo domiciliar (art. 932, V, a, do do NCPC, c/c art. 21, §1°, do RISTF). Honorários de sucumbência a serem fixados na origem, nos termos do CPC/1973.
+    Publique-se.
+    Brasília, 17 de outubro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
