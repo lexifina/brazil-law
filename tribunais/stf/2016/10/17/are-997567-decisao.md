@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+    “MANDADO DE SEGURANÇA. ILEGALIDADE DA CONSTRIÇÃO DA MADEIRA APREENDIDA. INOBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. INEXISTÊNCIA DE LIDE PARA APURAÇÃO DA PRÁTICA DE CRIME AMBIENTAL. AUSÊNCIA DE PROVAS MÍNIMAS. ABUSO DE PODER. PREJUDICIALIDADE DO AGRAVO REGIMENTAL. Verificada a presença dos requisitos necessários ao conhecimento do mandado de segurança, a saber a liquidez e a certeza do direito questionado, é imprescindível a apuração do suposto crime ambiental, mediante a ação penal e ou cível/administrativa competente, sob pena de violação ao devido processo legal, além de caracterizar flagrante ilegalidade e abuso de poder quando da venda ou doação do bem, ocasionado perigo de lesão irreparável. SEGURANÇA CONCEDIDA EM PARTE. AGRAVO REGIMENTAL PREJUDICADO.” (págs. 74-75 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 5º, LIV da Carta Magna.
+    A pretensão recursal não merece acolhida.
+    Isso porque para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela súmula 279 do STF.
+    Além disso, esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (tema 660), Rel. Min. Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Ementa: Alegação de cerceamento do direito de defesa. tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de outubro de 2016.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
