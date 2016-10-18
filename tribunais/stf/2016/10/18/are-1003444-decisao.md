@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 08, p. 704):
+    PROCESSUAL PENAL. CONTRABANDO DE MÁQUINAS ELETRÔNICAS PROGRAMÁVEIS (MEP's). INSTRUÇÕES NORMATIVAS DA RECEITA FEDERAL QUE PROÍBEM A IMPORTAÇÃO. LAUDOS PERICIAIS ATESTANDO A EXISTÊNCIA DE COMPONENTES ESTRANGEIROS. JUSTIÇA FEDERAL. COMPETÊNCIA. DENÚNCIA. ASSOCIAÇÃO CRIMINOSA. CONTRABANDO. LAVAGEM DE DINHEIRO. CRIME CONTRA A ECONOMIA POPULAR. PORTE ILEGAL DE ARMA DE FOGO. INÉPCIA. NÃO OCORRÊNCIA. LAVAGEM DE DINHEIRO. REDAÇÃO ORIGINAL DA LEI 9.613/1998. CRIME ANTECEDENTE. CONTRABANDO. POSSIBILIDADE.
+    1.Segundo decidido pela Terceira Seção, havendo instruções normativas da Receita Federal proibindo a importação de máquinas eletrônicas programáveis, vulgarmente conhecidas como caça-níqueis, bem como laudos periciais atestando a existência de diversos componentes de origem estrangeira, de diversos países, não há falar em incompetência da Justiça Federal.
+    2. Não é inepta a denúncia que descreve satisfatoriamente os fatos tidos por delituosos, narrando, de maneira suficiente, a atuação do ora recorrente e as implicações disso decorrentes. Em tal contexto, estão satisfeitos os requisitos do art. 41 do Código de Processo Penal, possibilitando o exercício do direito de defesa.
+    3. A redação original da Lei nº 9.613/1998, aplicável ao caso concreto, previa, expressamente, o contrabando (art. 1º, inciso III) como crime antecedente da lavagem de dinheiro, daí porque, tendo o Parquet descrito de forma satisfatória ambos os delitos (antecedente e o consequente), não há porque, desde logo, na via estreita do habeas corpus, concluir pela ausência do branqueamento de capitais, notadamente porque a capitulação legal inicialmente apresentada (art. 1º, inciso VII) não é definitiva, podendo sofrer alterações ao longo da instrução.
+    4. Recurso ordinário não provido.
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXIX, LV, e 129, I, ambos da Constituição Federal. Busca-se, em suma, a declaração de atipicidade do crime de lavagem de dinheiro, previsto no art. 1º, VII, da Lei 9.613/98, bem como que seja reconhecida a inépcia da denúncia.
+    A Vice-Presidência do Superior Tribunal de Justiça indeferiu liminarmente o recurso, no que tange ao art. 5º, LV, da CF (Tema 660), e inadmitiu o recurso no restante, concernente aos arts. 5°, XXXIX, e 129, I, ambos da CF, por ausência de prequestionamento.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, em relação ao art. 5º, LV, da CF, acerca do qual houve aplicação do Tema 660 pelo STJ, saliento que a jurisprudência do Plenário desta Corte tem se orientado no sentido de ser incabível recurso contra ato que aplica a sistemática da repercussão geral. Nesse sentido, confiram-se: AI-AgR 778.643, Plenário, DJe 07.12.2011, e AI-AgR 775.139, Plenário, DJe 19.12.2011, ambos de relatoria do Min. Cezar Peluso (Presidente); e MS-AgR 28.982, Rel. Min. Gilmar Mendes, Plenário, DJe 15.10.2010.
+    Quanto às questões referentes à suposta violação ao art. 129, I, da Constituição Federal, tendo em vista que não foram objeto de debate no acórdão recorrido e nem nos embargos de declaração, falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF).
+    Por fim, observo que, no que tange à violação ao art. 5º, XXXIX, da Constituição, é preciso reconhecer que a atipicidade da conduta só pode ser analisada, in casu, por meio da interpretação da legislação penal aplicada à espécie. Noutras palavras, a ofensa à Constituição, se existente, seria apenas reflexa, o que inviabiliza o exame da alegação oposta pelo recorrente na via extraordinária.
+    Ante o exposto, conheço apenas em parte do recurso e, na parte conhecida, nego provimento ao agravo, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 18 de outubro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
