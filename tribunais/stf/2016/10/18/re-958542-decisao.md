@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 2ª Região concedeu a ordem para trancamento da ação penal, ante a ausência de justa causa, tendo em vista o recebimento da denúncia com base em decisão genérica. Nas razões do extraordinário, o recorrente aponta a violação do artigo 93, IX, da Constituição Federal. Discorre sobre a técnica da motivação por referência, dizendo não ter havido ausência de fundamentação, alegando ser válida a decisão que deferiu as medidas de prorrogação do prazo da interceptação telefônica e da quebra de sigilo telefônico.
+    2 A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão o seguinte trecho:
+     Mas agora, após a instrução do writ e analisando o tema mais detidamente, à vista dos documentos que instruíram a inicial, verifico que não se trata de mero erro material no momento da prolação da decisão judicial, datada de 08/06/2010, sendo esta a tese adotada no parecer, mas sim, de “deferimento”, com fundamentação per relationem, de um pedido
+    diverso ou, quando muito, ambíguo, que deveria ter sido “esclarecido” previamente, e não “esclarecido” em cumprimento a despacho/decisão proferida mais de um mês após.
+     Não se nega a possibilidade de que os juízes expeçam decisões por relação, notadamente quando diante dos argumentos dos pedidos das partes possa o magistrado verificar a exata correspondência com aquilo que seria o seu próprio fundamento. Nesses casos, há que se cotejar que o pedido da parte traga a situação de fato bem descrita e os fundamentos de direito a ela correspondentes e a justificação da decisão derivada do encaixe de um e outro.
+     No caso, nada disso se verificou, pois se deferiu prorrogação com base em pedido do MPF, de um terminal que pela primeira vez se incluía no pedido, de modo que seria necessário que a decisão fundamentasse por que razão estava deferindo a interceptação do novo terminal. E ainda que o fizesse per relationem ao pedido com o qual se relacionaria, o do MPF, deveria trazer então os fundamentos pelos quais estava incluindo especificamente o terminal novo.
+     Nada disso aconteceu, e não se pode dizer da leitura das peças que instruíram o imbróglio que se tratou apenas de um jogo de palavras ou de equívocos, senão de decisões que, para fins de autorizar redução do direito à privacidade, ainda que para fins relevantes da apuração de crimes graves, deveria estar revestida de segurança quanto à análise da situação, para então espelhar o exato cuidado com que o Poder Judiciário deve emitir decisões deste jaez.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 18 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
