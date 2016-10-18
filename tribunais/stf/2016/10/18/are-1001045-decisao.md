@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu o recurso extraordinário interposto contra acórdão da Quinta Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO LEGAL. CPC, ART. 557, § 1º. SERVIDOR. CONCURSO PÚBLICO. EDITAL. PREVISÃO. INGRESSO NA CARREIRA. PREVALÊNCIA DAS DISPOSIÇÕES LEGAIS. LEI N. 9.421/96. SUPERVENIÊNCIA DA LEI N. 11.416/06. CPC, ART. 462. NÃO APLICAÇÃO.
+    1. O edital do concurso vincula o candidato e a administração, devendo como tal ser observado. Contudo, em caso de eventual contrariedade às disposições legais relativas ao regime jurídico, Lei n. 8.112/90, ou à lei que criou a carreira e sua forma de provimento, bem como ao disposto na Constituição da República, estas têm prevalência sobre as normas editalícias (STJ, AROMS n. 26241, Rel. Min. Napoleão Nunes Maia Filho, j. 19.08.10; AGREsp n. 476398, Rel. Des. Fed. Min. Celso Limongi, j. 05.11.09; ROMS n. 26153, Rel. Min. Arnaldo Esteves Lima, j. 13.10.09 e REsp n. 758309, Rel. Min. Laurita Vaz, j. 04.06.09).
+    2. Do fato de o art. 22 da Lei n. 11.416/06 estender aos servidores que prestaram concurso antes de dezembro de 1996 o enquadramento previsto no Anexo III da Lei n. 9.421/96, não se segue a conclusão necessária de que deveria ser diverso o reenquadramento quando do ingresso na carreira (STJ, AgRg no REsp n. 1124938, Rel. Min. Marco Aurélio Bellizze, j. 11.06.13; , AGREsp n. n. 1130065, Rel. Min. Jorge Mussi, j. 03.03.11).
+    3. Não prospera a alegação de que, atendida a pretensão em razão das alterações promovidas pela Lei n. 11.416/06, é procedente o pedido, porquanto não é a todo direito satisfeito por disposição superveniente que enseja a aplicação do art. 462 do Código de Processo Civil, tendo em vista que o ingresso na carreira de servidor é regido pelos princípios do tempus regit actum e da irretroatividade da lei.
+    3. Agravo legal da autora não provido”.
+    Opostos embargos declaratórios, foram desprovidos.
+    No recurso extraordinário sustenta-se violação dos artigos 5º, caput e inciso XXXVI, 7º, inciso VI, 37, caput e inciso XV, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, uma vez que esta Corte já assentou em situações similares que para ultrapassar o entendimento do Tribunal de origem seria necessário o reexame da legislação infraconstitucional pertinente, bem como dos fatos e provas que permeiam a lide, o que não não é cabível na via do recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDORES DO PODER JUDICIÁRIO. LEIS 9.421/1996, 10.474/2002, 10.475/2002 E 11.416/2006. REESTRUTURAÇÃO REMUNERATÓRIA. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. AGRAVO DESPROVIDO” (AI nº 862.764/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 8/8/16).
+    “Agravo regimental no agravo de instrumento. Administrativo. Servidor público. Inexistência de direito adquirido a regime jurídico. Decesso remuneratório. Não ocorrência. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem não divergiu da pacífica jurisprudência da Corte no sentido de que não há direito adquirido a regime jurídico, ficando assegurada a irredutibilidade de vencimentos. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido” (AI nº 858.830/RS-AgR, Primeira Turma, de minha relatoria, DJe de 25/2/14).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 18 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
