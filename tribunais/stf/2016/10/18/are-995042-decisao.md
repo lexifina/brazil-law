@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MAT´RIA FÁTICA E LEGAL – AUSÊNCIA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de origem confirmou o entendimento do Juízo quanto à procedência do pedido de aposentadoria por idade, considerando atendidos os requisitos necessários à comprovação de atividade rurícola. No extraordinário cujo trânsito busca alcançar, o recorrente afirma a violação dos artigos 2º e 5°, inciso XXXV, da Constituição Federal.
+    2. Eis a síntese do acórdão recorrido:
+    PREVIDENCIÁRIO. PROCESSUAL CIVIL. REMESSA OFICIAL. AGRAVO RETIDO NÃO CONHECIDO. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. INÍCIO RAZOÁVEL DE PROVA MATERIAL. PROVA TESTEMUNHAL. RECONHECIMENTO. CORREÇÃO MONETÁRIA. JUROS.
+    (…)
+    5. As fichas de matrícula escolar de filho (fl. 18), nas quais consta a profissão de rurícula da autora, configura início razoável de prova material da atividade rurícula em atenção à solução pro misero, adotada no âmbito do colendo STJ e pelos Tribunais Regionais Federais. Precedentes. Ressalto, por oportuno, que tal documento é reconhecido inclusive pela própria autarquia previdenciária como início de prova material, conforme consta no art. 122, inciso VII da Instrução Normativa nº 45/2010.
+    6. A CTPS da autora com anotação de trabalho rural (fl. 16) é considerada prova plena do período nela registrado e início de prova material para o restante do período de carência, haja vista ser cediço que o trabalhador volante ou bóia-fria experimenta situação desigual em relação aos demais trabalhadores, uma vez que em regra ou não tem vínculos registrados ou os tem por curtíssimo período devendo ser adotada solução pro misero. Dessa forma, entendo como início de prova material suficiente o período registrado na CTPS da requerente.
+    Somente pela análise do quadro fático probatório seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    No mais, o recurso extraordinário direciona ao atendimento cumulativo dos requisitos gerais de recorribilidade – adequação, oportunidade, interesse de agir, representação processual e preparo – e a um dos específicos previstos no inciso III do artigo 102 da Carta da República. O acesso ao Supremo faz-se, por isso mesmo, em via de excepcionalidade maior, tudo objetivando a atuação precípua do Tribunal, qual seja, a guarda da supremacia da Constituição Federal.
+    Quanto ao pressuposto específico, quase sempre retratado na alínea “a” do inciso III do artigo 102 da Lei Fundamental – violência a dispositivo nela inserto –, mostra-se necessário, ante a ordem natural das coisas, proceder-se a cotejo. Somente é possível definir se houve transgressão de texto do Diploma Maior mediante o confronto do que decidido com as razões do extraordinário, mais precisamente com o que evocado no tocante à adoção de entendimento contrário ao ditame constitucional. Daí o instituto do prequestionamento, que significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o acórdão impugnado nada contém sobre o que versado pela parte recorrente, descabe assentar o enquadramento deste no permissivo constitucional.
+    No caso, o que sustentado no extraordinário não foi enfrentado pelo Órgão julgador. Padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço deste agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 18 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
