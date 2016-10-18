@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de recurso ordinário em “habeas corpus” interposto contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “’HABEAS CORPUS’. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. TRÁFICO DE DROGAS. CONDENAÇÃO. CRIME IMPOSSÍVEL. INOCORRÊNCIA. DESCLASSIFICAÇÃO. EXAME APROFUNDADO DAS PROVAS. DOSIMETRIA DA PENA. MAUS ANTECEDENTES E REINCIDÊNCIA. CONDENAÇÕES DIVERSAS. POSSIBILIDADE. REGIME PRISIONAL FECHADO. ADEQUAÇÃO. NÃO CONHECIMENTO.
+    1. Tratando-se de ‘habeas corpus’ substitutivo de recurso próprio, inviável o seu conhecimento.
+    2. Hipótese em que não há falar em crime impossível. As instâncias originárias ressaltaram que o delito consumou-se antes mesmo da abordagem do paciente pelo agente prisional. Ademais, esta Corte já assentou a configuração do delito mesmo diante da existência de revista na entrada do estabelecimento prisional, haja vista tratar-se de atividade humana falível. Inclusive, é notória a existência de drogas em diversos estabelecimentos prisionais, o que indica a possibilidade de êxito em se ludibriar a segurança.
+    3. A desclassificação da conduta para o delito do art. 28 da Lei 11.343/06 não é viável nesta via estreita do ‘mandamus’, por demandar o exame aprofundado das provas carreadas aos autos.
+    4. Se o paciente possuía condenações definitivas em três ações penais distintas, é possível que duas delas sejam utilizadas na primeira fase da dosimetria da pena, como maus antecedentes, sem prejuízo da configuração da reincidência. Precedentes.
+    5. Tratando-se de sanção definitiva de 7 anos e 7 meses de reclusão, e diante das circunstâncias judiciais desfavoráveis e da reincidência, adequada a fixação do regime prisional fechado.
+    6. ‘Writ’ não conhecido.”
+    (HC 326.871/SC, Rel. Min. MARIA THEREZA DE ASSIS MOURA – grifei)
+    Busca-se, em síntese, nesta sede processual, “(...) seja reconhecida a atipicidade da conduta que (…) foi imputada (tráfico de entorpecentes)”.
+    O Ministério Público Federal, em pronunciamento da lavra da ilustre Subprocuradora-Geral da República Dra. CLÁUDIA SAMPAIO MARQUES, ao opinar pelo não provimento do presente recurso, formulou parecer assim ementado:
+    “PROCESSO PENAL. RECURSO EM ‘HABEAS CORPUS’. TRÁFICO DE DROGAS. CONDENAÇÃO. PLEITO DE ABSOLVIÇÃO POR ATIPICIDADE DA CONDUTA. CRIME IMPOSSÍVEL. NÃO CONHECIMENTO. INADEQUAÇÃO DA VIA ELEITA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. MÉRITO. IMPROCEDÊNCIA DAS ALEGAÇÕES. MEIO QUE NÃO SE REVELA ABSOLUTAMENTE INEFICAZ PARA A PRÁTICA DO DELITO. PARECER PELO NÃO CONHECIMENTO DO RECURSO E, SE CONHECIDO, PELO SEU DESPROVIMENTO.” (grifei)
+    Sendo esse o contexto, passo a examinar o pleito em causa. E, ao fazê-lo, entendo assistir razão à douta Procuradoria-Geral da República, eis que os fundamentos que dão suporte ao seu parecer ajustam-se, com integral fidelidade, à orientação jurisprudencial firmada por esta Suprema Corte na matéria ora em análise.
+    Com efeito, o exame das razões em que se apoia o pleito deduzido neste recurso revela que os fatos nelas veiculados apresentam-se destituídos da necessária liquidez, circunstância que torna inviável a utilização do recurso ordinário em “habeas corpus”.
+    É de observar-se, por necessário, que eventuais divergências no exame do conjunto probatório produzido no âmbito do processo penal de conhecimento não se mostram suscetíveis de apreciação na esfera deste recurso constitucional.
+    Como se sabe, a ocorrência de iliquidez quanto aos fatos alegados na impetração basta, por si só, para inviabilizar a utilização adequada da ação de “habeas corpus”, que constitui remédio processual que não admite dilação probatória, nem permite o exame aprofundado de matéria fática, nem comporta a análise valorativa de elementos de prova produzidos no curso do processo penal de conhecimento (RTJ 110/555 – RTJ 129/1199 – RTJ 163/650-651 – RTJ 186/237, v.g.):
+    “A ação de ‘habeas corpus’ constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+    (RTJ 195/486, Rel. Min. CELSO DE MELLO)
+    A análise da controvérsia, na perspectiva sugerida pela parte ora recorrente, torna necessária a interpretação do conjunto probatório emergente do processo penal de conhecimento, o que constitui matéria pré- -excluída da via estreita do “habeas corpus” (RTJ 136/1221 – RTJ 137/198, v.g.).
+    Sendo assim, pelas razões expostas, e acolhendo, ainda, o parecer da douta Procuradoria-Geral da República, nego provimento ao presente recurso ordinário em “habeas corpus”.
+    Devolvam-se, pois, ao E. Superior Tribunal de Justiça estes autos.
+    Publique-se.
+    Brasília, 18 de outubro de 2016.
+Ministro CELSO DE MELLO
+Relator
