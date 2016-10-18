@@ -1,0 +1,34 @@
+Decisão: Trata-se de embargos de declaração opostos em 22.05.2014 em face de decisão monocrática em que o Min. Ricardo Lewandowski, a quem sucedi na relatoria do presente processo, negou seguimento ao recurso extraordinário, nos seguintes termos (eDOC 31):
+    “Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    ‘AÇÃO CIVIL PÚBLICA. CONSTRUÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE – PONTA DOS NAUFRAGADOS, INTEGRANTE DO PARQUE ESTADUAL DA SERRA DO TABULEIRO. DEMOLIÇÃO E RECUPERAÇÃO AMBIENTAL. PROCEDÊNCIA.
+    Comprovada quantum satis a construção em área non edificandi, como o é a Ponta dos Naufragados, o desfazimento definitivo da obra irregular, com a recuperação da área degradada, é a solução que impõe’ (pág. 6, documento eletrônico 1).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos artigos 1º; 18; 30, I, II e V; 196 e 198, todos da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei estadual 14.675/2009 e Lei federal 4.771/1965 – Código Florestal). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo.
+    E ainda, depreende-se que a fundamentação do acórdão recorrido possui esteio em fatos e provas constantes dos autos, de modo que, nova apreciação do julgado impugnado exigiria, ainda, a análise e reexame do conjunto fático-probatório, providência vedada em sede de recurso extraordinário, nos termos da Súmula 279/STF.
+    Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que obsta o processamento do recurso extraordinário. Com esse raciocínio, destaco, dentre outros, os seguintes precedentes desta Corte:
+     ‘AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DANO AMBIENTAL. AÇÃO CIVIL PÚBLICA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO’ (AI 856.568-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, grifos nossos).
+     ‘AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO AMBIENTAL. INSTITUIÇÃO DE ÁREA DE RESERVA LEGAL E REFLORESTAMENTO DE ÁREA DE PRESERVAÇÃO PERMANENTE. DESMATAMENTO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO’ (AI 703.022-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, grifos nossos).
+     ‘PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE POR DANOS AMBIENTAIS. MATÉRIA INFRACONSTITUCIONAL. FATOS E PROVAS. 1. O acórdão recorrido decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Decidir de maneira diferente do que deliberado pelo tribunal ‘a quo’ demandaria o reexame de fatos e provas da causa, ante a incidência da Súmula STF 279. 3. Agravo regimental a que se nega provimento’ (RE 579.291-AgR, Rel. Min. Ellen Gracie, Segunda Turma, grifos nossos).
+    ‘Agravo regimental no recurso extraordinário. Imóvel construído em área de preservação permanente. Determinação judicial para sua demolição. Direito de propriedade. Circunstâncias fáticas e legais que nortearam a decisão da origem em prol do princípio da proteção ao meio ambiente. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. A Corte de origem, analisando as Leis nºs 4.771/65, 6.938/81 e 7.347/85, a Resolução nº 4/85 do CONAMA e os fatos e as provas dos autos, concluiu que o ora agravante, com a construção não autorizada de imóvel em área de preservação permanente, causou dano ambiental, bem como que a condenação pecuniária não seria apta a reconstituir o espaço degradado, motivo pelo qual impunha-se a demolição do imóvel.
+    2. Para divergir da conclusão a que chegou o Tribunal de origem, seria necessário analisar a referida legislação, bem como o conjunto fático-probatório da causa, o que é inviável em recurso extraordinário. Incidência das Súmulas nºs 636 e 279/STF.
+    3. Agravo regimental não provido’ (RE 605.482-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, grifos nossos).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Nas razões recursais, a parte embargante busca demonstrar a existência de omissão (eDOC 39). Afirma que diferentemente do alegado na decisão impugnada, o recurso extraordinário foi interposto com base na alínea “d” e não na alínea “a” do inciso III, do art. 102 da Constituição Federal. Assevera, ainda, que a decisão monocrática reputou como impugnado acórdão diverso do qual se recorreu. Nesse sentido, pugna pelo conhecimento e provimento dos presentes embargos de declaração, com efeitos infringentes.
+    A parte embargada discorre acerca do tema e defende a improcedência dos embargos (eDOC 42).
+    É o relatório. Decido.
+    Assiste razão à parte embargante.
+    De fato, da análise do recurso extraordinário (eDOC 11) depreende-se, sem sombras de dúvidas, que sua interposição deu-se com fundamento na alínea “d” do permissivo constitucional, bem como que o acórdão impugnado através do apelo extremo diverge daquele que foi considerado e analisado pela decisão ora impugnada.
+    Dessa forma, uma vez verificada a ocorrência do vício apontado, reconsidero a decisão embargada (eDOC 31) e passo, desde já, à análise do extraordinário.
+    Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de Santa Catarina que rejeitou os embargos declaratórios opostos pela ora recorrente, nos seguintes termos (eDOC 6):
+    EMBARGOS DE DECLARAÇÃO.
+    OMISSÃO. INOCORRÊNCIA. ARGUIÇÃO DE INCONSTITUCIONALIDADE. DE NORMA ESTADUAL, A QUAL, TODAVIA, NÃO FOI DETERMINANTE PARA A SUSPENSÃO DO PROCESSO A FIM DE PROPICIAR AO RÉU A COMPROVAÇÃO DE QUE O SEU IMÓVEL, A PARTIR DA ENTRADA EM VIGOR DA LEI N. 14.661/2009, JÁ NÃO MAIS SE INSERIA NO PARQUE DA SERRA DO TABULEIRO. REJEIÇÃO.
+    Discute-se, na espécie, a constitucionalidade da Lei 14.675/2009, do Estado de Santa Catarina, que instituiu o Código Estadual do Meio Ambiente.
+    Sobre o tema, encontra-se pendente de julgamento neste Tribunal a Ação Direta de Inconstitucionalidade nº 4252, de relatoria do Min. Celso de Mello, que tem por objeto o referido diploma estadual.
+    Ante o exposto, dou provimento aos embargos declaratórios com efeitos modificativos para reconsiderar a decisão impugnada e determino o sobrestamento do feito até o julgamento definitivo da ADI nº 4252, da relatoria do Min. Celso de Mello, devendo os autos aguardar na Secretaria.
+    Publique-se.
+    Brasília, 18 de outubro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
