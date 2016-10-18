@@ -1,0 +1,26 @@
+Trata-se de recurso extraordinário interposto de acórdão que passou a ser assim ementado após acolhimento de embargos de declaração, no que interessa:
+    “EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL CONFIGURADO. EMBARGOS ACOLHIDOS. EFEITOS INFRINGENTES SOBRE O JULGADO.
+    (…)
+    V – Desse modo, o acórdão passa a ser ementado:
+    ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO INATIVO. QUINTOS E DÉCIMOS INCORPORADOS – TRANSFORMAÇÃO EM VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA (VPNI). MEDIDA PROVISÓRIA Nº 2.225-45/01 – INEXISTÊNCIA DE DIREITO ADQUIRIDO QUANTO A FORMA DE REMUNERAÇÃO. APLICAÇÃO DO ENUNCIADO Nº 339 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+    I – O entendimento firmado pelo Supremo Tribunal Federal (e seguido pelos demais tribunais pátrios) é que o servidor público não tem direito adquirido à imutabilidade do regime jurídico remuneratório, podendo as parcelas que compõem a sua remuneração sofrerem alterações, inclusive quanto à denominação e critério de reajuste, desde que seja respeitada a irredutibilidade dos vencimentos, prevista na Constituição Federal de 1988. Precedente. TRF-1ª Região, AMS 2001.34.00.024480-8/DF, Rel. Desembargador Federal Antônio Sávio de Oliveira Chaves, Primeira Turma, DJ de 03/11/2005, p. 11).
+    II – Nessa esteira, a transformação dos quintos/décimos incorporados em Vantagem Pessoal Nominalmente Identificada – VPNI, sujeita exclusivamente à revisão geral de remuneração dos servidores públicos federais, prevista na Lei 9527/97 e na Medida Provisória nº 2.225-45/01, não ofende a garantia constitucional da irredutibilidade dos vencimentos dos servidores estatutários, inscritas no artigo 37, inciso XV, da Constituição Federal, uma vez que não houve a redução da remuneração (AMS 2004.34.00.010281-0/DF, Rel. Desembargador Federal Carlos Olavo, Primeira Turma, e-DJF1 p. 121 de 17/11/2009).
+    III – Diante do exposto, não procede a pretensão de reajustamento pleiteado pela parte autora, ora recorrente, pois, na hipótese dos autos, os “quintos” decorrentes da incorporação de parcelas remuneratórias já estavam desvinculados do regime de reajuste da vantagem que os originou, constituindo uma nova parcela remuneratória, com características próprias e sujeita a regime diferenciado, em que se destacam a atualização tão somente pelos índices de revisão geral de vencimentos e a desvinculação em relação à retribuição da função que a originou.
+    (…)
+    V – Sentença mantida. Recurso improvido. Acórdão proferido nos moldes do art. 46 da Lei nº 9.099/95.
+    VI – Honorários advocatícios fixados em 10% sobre o valor atribuído à causa, conforme preceitua o artigo 55 da Lei nº 9.099/95” (ps. 173/174).
+    Opostos embargos de declaração foram providos para sanar erro material com efeitos infringentes.
+    Neste RE, fundado no art. 102, III, a , da Constituição, alegou-se, em suma, ofensa ao art. 7º, VI; 37, XV e 39, §3º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Plenário do Supremo Tribunal Federal, no julgamento do RE 563.965-RG/RN, Rel. Min. Cármen Lúcia, reconheceu a repercussão geral do tema em debate e confirmou a sua jurisprudência no sentido de que não há direito adquirido à forma de cálculo de remuneração. Salientou, ainda, a legitimidade de lei superveniente que, sem causar decesso remuneratório, desvincule o cálculo da vantagem incorporada dos vencimentos do cargo em comissão ou função de confiança outrora ocupado pelo servidor, passando a quantia a ela correspondente a ser reajustada segundo os critérios das revisões gerais de remuneração do funcionalismo. Eis o referido julgado do Plenário:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico.
+    2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, consequentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração.
+    3. Recurso extraordinário ao qual se nega provimento”(RE 563.965/RN, Rel. Min. Cármen Lúcia, Tribunal Pleno).
+    Outrossim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279 desta Corte – e das normas infraconstitucionais pertinentes à espécie, sendo certo que eventual ofensa à Constituição seria meramente indireta.
+    Nesse mesmo sentido, cito o ARE 790.618/PE, de minha relatoria e o ARE 723.613/PE, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de outubro de 2016.
+    Ministro Ricardo Lewandowski
+    Relator
