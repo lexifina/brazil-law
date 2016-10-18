@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação. Artigo 1º, inciso II, da Lei 8.137/90 na forma do artigo 71, do Código Penal. Preliminares rejeitadas. Prescrição do crédito tributário e inépcia da denúncia. Inocorrência. Prazo decadencial de 05 anos previsto no artigo 173 do CTN que não decorreu entre os marcos interruptivos. Denúncia que identificada conduta delituosa e suas circunstâncias. Autoria e materialidade bem demonstradas. Prescrição. Inocorrência. Termo inicial na data da constituição definitiva do crédito tributário. Súmula Vinculante 24. Pena-base aumentada pelo montante do débito. Inexistência de previsão legal. Redução. Regime aberto. Substituída a carcerária por uma restritiva de direito. Corréu maior de 70 anos na data da sentença. Súmula497 do STF. Prescrição da pretensão punitiva em face da pena aplicada reconhecida de ofício. Recursos providos em parte.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, LIV e LV, da Constituição. Sustenta que “a falta de descrição das condutas dos recorrentes na denúncia gerou enorme prejuízo as suas defesas, o que denota clara afronta ao princípio evocado”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    De qualquer forma, para chegar a conclusão diversa do acórdão recorrido, seria necessária a análise da legislação infraconstitucional pertinente e uma nova reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário. Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão recorrido:
+    “[...]
+    1.2. De outro lado, da leitura da exordial, identifica-se que estão descritas as condutas dos acusados, consistentes em inserção ou de determinação de ordem para se fizessem inserir elementos inexatos em documentos fiscais, prestação de declarações falsas à autoridade fazendária nos exercícios de 1999 a 2000, que acarretaram a supressão de valores de tributos a serem recolhidos. Nesse sentido, foram preenchidos os requisitos exigidos pelo artigo 41 do Código de Processo Penal, não se verificando nos autos, qualquer impossibilidade de defesa gerada pela suposta inépcia da denúncia
+    […].”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 18 de outubro de 2016.
+Ministro Luís Roberto Barroso
+Relator
