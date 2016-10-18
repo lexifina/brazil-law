@@ -1,0 +1,24 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Queimados contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio de Janeiro, no ponto objeto de impugnação, está assim ementado:
+    “5 – São devidos honorários advocatícios em favor do Fundo Especial do Ministério Público, quando sucumbente o município em ação de obrigação de fazer ajuizada pelo Ministério Público, conforme disposições da Lei Estadual n.º 2.819/97 e do artigo 20, § 4º, do CPC.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei estadual nº 2.819/97), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, para negar provimento à apelação da parte ora agravante, apoiou-se em dispositivos de ordem meramente legal:
+    “Sendo assim, em virtude do princípio da causalidade, são devidos honorários advocatícios a título de ônus sucumbenciais.
+    Resta examinar eventual possibilidade de sua fixação em favor do Ministério Público.
+    A Lei Estadual nº 2.819/97, que criou o Fundo Especial do Ministério Público (FEMP), cuja finalidade é complementar os recursos financeiros indispensáveis ao aparelhamento e modernização do ‘Parquet’ (artigo 2º), dispõe em seu artigo 4º, inciso XII:
+    Art. 4º – Constituem receitas do Fundo Especial do Ministério Público:
+    (...)
+    XII – as provenientes da sucumbência concedida ao Ministério Público em qualquer procedimento judicial.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria assemelhada à veiculada no caso em exame (RE 572.284/PR, Rel. Min. AYRES BRITTO – RE 596.603/SC, Rel. Min. JOAQUIM BARBOSA – RE 613.675/SC, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Cabe assinalar, ainda, ante a inquestionável procedência de suas observações, a seguinte passagem da decisão proferida pelo eminente Ministro RICARDO LEWANDOWSKI, Relator, por ocasião do julgamento do RE 607.428/SC:
+    “(...) a verificação da possibilidade de destinação de honorários advocatícios em ação promovida pelo Ministério Público e julgada procedente ao Fundo de Restituição de Bens Lesados situa-se em contencioso infraconstitucional, não havendo falar em ofensa ao art. 128, § 5º, II, ‘a’, da Constituição.”
+    Vale referir, ainda, que o Ministério Público Federal, em manifestação da lavra do ilustre Subprocurador-Geral da República Dr. PAULO GUSTAVO GONET BRANCO, corretamente opinou pelo não provimento do agravo em recurso extraordinário, em parecer assim ementado:
+    “Recurso extraordinário com agravo. Ação promovida pelo Ministério Público. Cabimento de honorários advocatícios em favor do Fundo Especial do Ministério Público (...). Debate sobre o cabimento de honorários sucumbenciais destinados à Fazenda Pública ou Fundos indicados pelo Ministério Público. Ausência de controvérsia constitucional. Precedentes. Alegada afronta ao art. 128, § 5º, II, ‘a’, da CF, que não se positiva (...). O parecer é pelo desprovimento do agravo, ante a falta de perspectiva de êxito do recurso extraordinário.”
+    Vê-se, desse modo, que a pretensão recursal extraordinária não se revela viável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Cumpre referir, finalmente, que não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 18 de outubro de 2016.
+Ministro CELSO DE MELLO
+Relator
