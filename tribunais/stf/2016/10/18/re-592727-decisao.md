@@ -1,0 +1,17 @@
+Decisão:
+    De início, afasto o sobrestamento de fls. 159/60.
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. CONVERSÃO DA REMUNERAÇÃO DOS SERVIDORES PÚBLICOS DE CRUZEIRO REAL PAR URV. AUSÊNCIA DE PROVAS A DEMONSTRAR AS PERDAS SALARIAIS REQUERIDAS. ÔNUS DA PROVA. APLICAÇÃO DO ART. 333, I, CPC. SENTENÇA MANTIDA. CONHECIMENTO E IMPROVIMENTO DO APELO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, II; XXXV, LV; 7º, VI; 22, VI; 37, caput, XV; e 93, IX, todos da Constituição.
+    O recurso não merece acolhida.
+    Quanto à alegada ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, confira-se:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes)
+    Ademais, para dissentir do entendimento firmado pelo Tribunal de origem, faz-se necessário o reexame de fatos e provas constantes dos autos, procedimento vedado neste momento processual nos termos da Súmula 279/STF. Nessa linha, veja-se o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO ESTADUAL. VENCIMENTOS. 1. CONVERSÃO EM UNIDADE REAL DE VALOR – URV. PREJUÍZO: IMPOSSIBILIDADE DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). 2. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 749.880-AgR, Rel.ª Min.ª Cármen Lúcia)
+    O Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal, o que inviabiliza o recurso extraordinário com base na alínea c do inciso III do art. 102 da Constituição. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 18 de outubro de 2016.
+Ministro Luís Roberto Barroso
+Relator
