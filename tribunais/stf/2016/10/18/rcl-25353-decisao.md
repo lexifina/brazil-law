@@ -1,0 +1,27 @@
+DECISÃO
+VERBETE VINCULANTE Nº 10 DA SÚMULA DO SUPREMO – DESRESPEITO – INEXISTÊNCIA – RECLAMAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Sérgio Duarte afirma haver o Tribunal de Justiça do Estado de Minas Gerais, na apelação nº 1843831-61.2008.8.13.0024, olvidado o teor do verbete vinculante nº 10 da Súmula do Supremo.
+    Segundo narra, em 1º de setembro de 2008, foi ajuizada, contra Emicon Mineração e Terraplanagem Ltda. e respectivos sócios, entre os quais se inclui, ação de obrigação de fazer voltada à transferência ao autor da demanda – Gerson Paulo Ferrari – de 47% das quotas da sociedade empresária. Julgado procedente o pedido, manteve-se o entendimento em sede de apelação, surgindo daí o alegado desrespeito. Interpostos declaratórios, não houve êxito.
+    Conforme argumenta, ao admitir a validade da transferência, sem a expressa anuência de todos os sócios – especificamente, Genuíno Soares Duarte –, o Órgão reclamado teria afastado, ausente a prévia declaração de inconstitucionalidade, o artigo 334 do Código Comercial, vigente à época do negócio jurídico entabulado. Articula com a previsão, no contrato social, da exigência de concordância de todos os sócios relativamente à transferência de quotas.
+    Sob o ângulo do risco, alude à ruína financeira da sociedade.
+    Requer, em sede liminar, a suspensão do ato impugnado e o imediato retorno à administração da Emicon Mineração e Terraplanagem Ltda. Postula, alfim, a cassação do pronunciamento atacado.
+    2. Percebam as balizas do caso concreto. Discute-se, na origem, a validade de determinado ajuste, voltado à transferência de parcela das quotas de certa sociedade empresária. Formalizada ação de obrigação de fazer, visando a eficácia do negócio, o pleito foi acolhido, tendo o Tribunal de Justiça do Estado de Minas Gerais mantido a óptica. Aponta-se a inobservância do verbete vinculante nº 10 da Súmula do Supremo ante o arguido afastamento do artigo 334 do Código Comercial, vigente à época do ajuste, segundo o qual a cessão de quotas a terceiro dependeria do expresso consentimento dos demais sócios, sob pena de nulidade do ato.
+    É imprópria a irresignação. Conforme se verifica, não se fulminou, com base na Carta da República – do que decorreria a alegada ofensa à cláusula de reserva de plenário –, o artigo 334 do mencionado Código. O Órgão reclamado decidiu o recurso – certo ou errado, não cabe perquirir – a partir da interpretação de preceitos da legislação civil, considerados o princípio da proibição de comportamento contraditório e a ilegitimidade dos autores da demanda para postular, em nome de terceiro – o sócio cuja anuência não teria sido colhida –, o direito de preferência na aquisição das citadas quotas. Confiram o seguinte trecho do acórdão:
+    [...]
+    Com efeito, o fundamento contido no apelo consiste na afirmação de que Gerson Paulo Ferrari não poderia ter adquirido as quotas da empresa Emicon, Mineração e Terraplanagem Ltda., ao argumento de que não houve a anuência do sócio minoritário.
+    Pois bem. Muito embora a legislação vede a alienação de quotas da sociedade sem a anuência dos demais sócios, verifico que o caso em comento o objeto do litígio apresenta certa peculiaridade que não autoriza a decretação da nulidade da alteração contratual.
+    Desde logo, observa-se que, de fato, a 14ª alteração contratual não foi assinada pelo sócio minoritário, Sr Genuíno Soares Duarte. Entretanto, entendo que desabe aos recorrentes alegarem tal irregularidade, notadamente diante da vedação do comportamento contraditório.
+    Vê-se que à época da alienação, o sócio Sérgio Duarte, alienante e representante da sociedade, tinha conhecimento acerca da necessidade de anuência do outro sócio para que a inclusão do Sr. Gerson Paulo Ferrari tivesse eficácia, não podendo alegar a invalidade do negócio jurídico devido à uma irregularidade que tinha pleno conhecimento.
+    Sabe-se que o contratante pressupõe a boa-fé do outro, cabendo ressaltar que a ninguém é dado se beneficiar da própria torpeza, em manifesto venire contra factum proprium, caracterizado pela vedação jurídica às posições contraditórias, em apreço aos pressupostos da eticidade e da moralidade.
+    [...]
+    Desta feita, é evidente que a conduta dos apelantes, ao tentar desconstituir a alienação das quotas e ingresso do apelado na sociedade, sabendo da necessidade de anuência do sócio minoritário corresponde a um verdadeiro "venire contra factum proprium", o que, como dito, é vedado pelo ordenamento jurídico.
+    Por outro lado, no que tange a inobservância do direito de preferência, como bem salientado pelo magistrado a quo, tal irregularidade deveria ser alegada pelo eventual prejudicado, o que não ocorreu nos presentes autos.
+    No caso, o que se pretende é o reconhecimento de direito alheio em nome próprio, o que também encontra vedação no art. 6º do Código de Processo Civil: "ninguém poderá pleitear, em nome próprio, direito alheio, salvo quando autorizado por lei".
+    [...]
+    Observem a organicidade e a instrumentalidade do Direito. A reclamação pressupõe a usurpação da competência do Supremo ou o desrespeito a decisão por ele proferida. Não se pode utilizar a medida como sucedâneo recursal.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 18 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
