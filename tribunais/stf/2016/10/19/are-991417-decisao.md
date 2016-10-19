@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão de inadmissibilidade do recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Amazonas assim ementado (eDOC 13, p. 106):
+    “DIREITO PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. REVISÃO DE ATO APOSENTATÓRIO. ACÓRDÃO DO TCE/AM DETERMINANDO A RETIFICAÇÃO. DECRETO RETIFICADO PELO CHEFE DO PODER EXECUTIVO. DECISÃO VERGASTADA MANTIDA.
+    I – Frise-se que a Corte de Contas Estadual, em decisão n. 3.005/2010 (cópia de fls. 513/514), julgou legal o ato de aposentadoria, determinando a notificação da Apelada para, querendo, requerer, pela via administrativa, ao AMAZONPREV, a inclusão da gratificação de serviço de obras, assim como a alteração do vencimento para o valor do cargo efetivo, ou, se negado, requerer à via judicial;
+    II – O Acórdão n. 61/2013 do Tribunal Pleno da supracitada Corte de Contas (cópia de fls. 855/856), posteriormente, deu provimento integral, modificando a decisão n. 3.005/2010, no sentido de reconhecer a legalidade da aposentadoria e determinar seu devido registro, e à origem o Chefe do Poder Executivo que, por meio do órgão competente no prazo de 60 (sessenta) dias, retificá-lo, e alterar a guia financeira e ato aposentatório da Sra. Maria de Nazareth Teixeira Teixeira Lopes, realizando a modificação do vencimento para o valor do cargo efetivo em que se deu a aposentadoria, ou seja, vencimento do cargo de técnico de 1ª classe, referência III, nível O, bem como a inclusão da gratificação de serviços de obras, com fulcro no art. 142 da Lei Estadual n. 1.762/1986 c.c art. 5º do Dec. N. 17.845/97;
+    III – O Decreto aposentatório fora retificado em 31/01/2014, atendendo a todos o pleitos da ação ordinária, consoante cópia de fl. 859;
+    IV – A sentença não é extra-petita, uma vez que a Corte de Contas foi favorável à modificação do ato administrativo, bem como chancelou o referido ato, após a retificação determinada.
+    V – Sabe-se que o ato aposentatório é ato administrativo complexo, ou seja, necessita de registro no TC/AM para ganhar eficácia, pois houve reconhecimento da legalidade da aposentadoria e ainda a determinação expressa para o Chefe do Poder Executivo retificá-lo, ao fim, o efetivo registro;
+    VI – Urge salientar que a Administração Pública pode anular ou revogar seus atos administrativos, mediante o exercício do Poder de Autotutela, outrossim, ao Poder Judiciário é cabível rever alguns vícios daqueles atos e, a posteriori, anulá-los quando eivados de ilegalidades. Portanto, a Recorrente deve apenas cumprir o que o TCE -AM determinou e o que o Chefe do Poder Executivo Retificou;
+    VII – Apelação Cível conhecida e improvida.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, do permissivo constitucional, aponta-se a violação ao artigo 71, III, da Constituição Federal.
+    Nas razões recursais, o Amazonprev articula com impossibilidade de órgão do Poder Executivo alterar a aposentadoria de servidor, após o registro no Tribunal de Contas. Sustenta ser a aposentadoria ato complexo e, após consumado pelo Tribunal de Contas, é submetido ao Chefe do Poder Executivo para execução definitiva (eDOC 14, p. 12).
+    A Presidência do TJ/AM inadmitiu o extraordinário por entender que a controvérsia demandaria o reexame do conjunto das provas dos autos. Aplicou a Súmula 279 do STF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Preliminarmente, anoto que as questões constitucionais suscitadas no recurso extraordinário não foram debatidas no acórdão recorrido, notadamente a violação ao artigo 71, III, da Constituição Federal. Tampouco foram opostos embargos de declaração para sanar o vício apontado. Incide na espécie, portanto, o óbice das Súmulas 282 e 356 do STF.
+    Ainda que assim não fosse, na hipótese dos autos reconheceu-se, com base no conjunto fático-probatório dos autos, a possibilidade de revisão do ato de concessão de aposentadoria já convolado pelo TCE/AM, para posterior incorporação de vantagem pessoal. Transcrevo o fundamento do acórdão recorrido (eDOC 13, p. 111):
+    “Frise-se que o Decreto Aposentatório fora modificado em 31/01/2014, atendendo a todos os pleitos da ação ordinária, consoante cópia de fl. 859.
+    Saliente-se que o TCE/AM não deferiu, em nenhum momento, a Aposentadoria da Recorrida sem a gratificação e a alteração almejada, fez questão de ressaltar a possibilidade de alteração tanto na via administrativa quanto por via judicial. Posteriormente, quando vislumbrada a negativa da Apelante, conferiu obrigatoriedade a sua decisão determinando a retificação do ato aposentatório.”
+    Assim, para divergir do entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas, o que inviabiliza a análise do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º do RISTF.
+    Publique-se.
+    Brasília, 19 de outubro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
