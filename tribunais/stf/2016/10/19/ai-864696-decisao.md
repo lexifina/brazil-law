@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – GRATIFICAÇÃO POR TEMPO DE SERVIÇO - BASE DE INCIDÊNCIA – VENCIMENTO – REPERCUSSÃO GERAL ADMITIDA – MATÉRIA JULGADA PELO PLENO – PROVIMENTO NOS AUTOS DE GRAVO PROVIDO.
+    1. O Colegiado de origem, reformando o entendimento do Juízo, julgou parcialmente procedente o pedido dos autores e assentou ser a remuneração a base de cálculo do adicional por tempo de serviço. No extraordinário, cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, inciso XXXVI, e 37, inciso XIV, da Constituição Federal. Afirma a inexistência de direito adquirido a regime jurídico. Tece considerações sobre o julgamento do recurso extraordinário nº 563.708/MS, no qual reconhecida a repercussão geral do tema, sustentando a adequação do precedente ao processo.
+    2. A decisão recorrida diverge da jurisprudência sedimentada do Supremo. O Tribunal, no recurso extraordinário nº 563.708/MS, da relatoria da ministra Cármen Lúcia, concluiu que, a partir da vigência da Emenda Constitucional nº 19/98, a qual alterou o inciso XIV do artigo 37 da Carta da República, a base de incidência da gratificação por tempo de serviço é o vencimento, e não a remuneração tendo ficado vencido, no particular, mantendo-se o valor nominal da parcela, considerado o princípio da irredutibilidade salarial.
+    3. Diante da sedimentação do entendimento, conheço do agravo e o provejo, consignando o enquadramento do extraordinário no permissivo da alínea a do inciso III do artigo 102 da Constituição Federal. Ante o precedente, julgo, desde logo, o recurso, nos termos do artigo 544, § 4º, inciso II, alínea c, do Código de Processo Civil de 1973. Dele conheço e o provejo para, reformando parcialmente o acórdão recorrido, determinar que o adicional por tempo de serviço seja calculado na forma dos parâmetros acima definidos, após a edição da Emenda Constitucional nº 19/98.
+    4. Publiquem.
+Brasília, 19 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
