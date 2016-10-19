@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Condomínio Edifício Rio Araguaia e Rio Amazonas contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado (fls. 727):
+    “Obrigação de fazer e restituição de valores alegadamente pagos indevidamente. Afastamento e tratamento de esgoto. Tema já objeto de julgamento pelo rito do art. 543-C do CPC (recursos repetitivos), no Resp n.° 1.339.313/RJ, determinando o C. STJ ser legítima a cobrança de tarifa de esgoto, ainda que não exista rede de tratamento para tanto. R. sentença de improcedência, que fica mantida. Desprovimento.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, “caput”, II, 6º, 23, VI e IX, 196 e 225, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cabe registrar, ainda, que a análise do acórdão recorrido evidencia a necessidade de exame da questão suscitada nos autos com base no direito local (fls. 731):
+    “Assim, a rede de afastamento de esgoto fora colocada à disposição do autor, tendo, portanto, a Concessionária o direito de cobrar pelo serviço de remoção (coleta), transporte e possível tratamento, ainda que parcial.
+    E, não se olvide do art. 5º do Dec. Est. nº 41.446/96, assim:
+    ‘Art. 5.º – Para efeito de cálculo da fatura/conta considerar-se-á volume de esgotos coletados no período, o correspondente ao de água faturada pela SABESP e/ou consumida de sistema próprio, medido ou avaliado pela SABESP.’”
+    Vê-se, portanto, que a questão suscitada no apelo extremo implica necessário exame do direito local, sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 944.872/SP, Rel. Min. GILMAR MENDES – ARE 956.141/SP, Rel. Min. LUIZ FUX, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Impõe-se observar, finalmente, que não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 19 de outubro de 2016.
+Ministro CELSO DE MELLO
+Relator
