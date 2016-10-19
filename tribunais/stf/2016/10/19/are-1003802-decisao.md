@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, nos autos da Apelação n. 0905860-09.2014.8.24.0038 (eDOC 6).
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido viola o artigo 5º, inciso LXVII, da Constituição Federal. (eDOC 10)
+    Em síntese, sustenta-se que a conduta descrita no inciso II do art. 2º da Lei n 8.137/1990 é inconstitucional por “ferir o princípio de não prisão por dívida”.
+    A instância a quo não admitiu o recurso com fundamento na jurisprudência pacífica do Supremo Tribunal Federal. (eDOC 12)
+    Contra referida decisão, foi interposto agravo nos próprios autos, no qual se repisa a tese exposta no recurso extraordinário, refutando os fundamentos da decisão recorrida. (eDOC 14)
+    É o relatório.
+    Decido.
+    Inicialmente, examinando as razões expendidas tanto no agravo quanto no próprio extraordinário, necessário concluir pela inexistência de argumento apto a permitir o conhecimento da controvérsia, em virtude da manifesta ausência de fundamentação, incindindo na espécie a Súmula 284 (“É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”).
+    Com efeito, verifica-se que as condutas descritas na Lei 8.137/90 não se confundem com a inadimplência de natureza civil. Nesses termos, eventual prisão não decorrerá de dívida, pois a referida lei visa tutelar a ordem tributária, reprimindo a sonegação fiscal e fraude, realizadas mediante omissão de informações ou declaração falsa às autoridades fazendárias. Confira-se o seguinte julgado nesse sentido:
+    “Penal. Omissão no recolhimento de contribuições previdenciárias descontadas dos empregados. Figura de caráter criminal inconfundível com a da prisão por dívida. Precedentes. Decisão agravada não infirmada. Regimental não provido”. (AI 366.390/SC AgR, Rel. Min. Nelson Jobim, Segunda Turma, DJ 18.10.2002)
+    Nesse sentido, cito precedentes de ambas as Turmas:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Violação ao sigilo bancário por instituição financeira. Aplicação do disposto no art. 543-B do CPC. Irrecorribilidade da decisão que aplica a sistemática da repercussão geral. Precedentes. 3. Afronta à vedação constitucional de prisão civil por dívida. Condutas incriminadas na Lei n. 8.137/90. Tutela da ordem tributária. Caráter criminal inconfundível com a prisão por dívida. Precedente. 4. Interpretação prejudicial do silêncio do réu. Inocorrência. Pleito que demanda revolvimento do acervo probatório. Incidência do Enunciado 279 da Súmula do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento”. (ARE 820.993/ES AgR, de minha relatoria, Segunda Turma, DJe 5.9.2014)
+    “Agravo regimental do recurso extraordinário. Matéria Criminal. Prequestionamento. Ofensa reflexa. Precedentes. Prisão civil por dívida. Inocorrência. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Inadmissível, em recurso extraordinário, o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional. 3. A jurisprudência desta Corte firmou-se no sentido de que a prisão em decorrência de crimes contra a ordem tributária, por sua natureza penal, em nada se aproxima de prisão civil por dívida. 4. Agravo regimental não provido”. (RE 630.495/SC AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 25.5.2011) (grifei)
+    Dessarte, inexistindo similitude entre os objetos jurídicos tutelados pelas normas em comento, inviável a pretensão do recorrente.
+    Ante o exposto, nego seguimento ao presente agravo em recurso extraordinário (art. 21, § 1º, RISTF).
+    Publique-se. Int..
+    Brasília, 19 de outubro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
