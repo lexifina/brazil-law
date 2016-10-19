@@ -1,0 +1,33 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Estado do Rio de Janeiro contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “Mandado de Segurança. Pleiteia-se que a autoridade se abstenha de determinar a Impetrante a proceder a opção por um dos cargos ocupados, tendo em vista a atual cumulação de cargos de Professor Docente I, Classe C, Nível 3, da Rede Estadual de Ensino do Rio de Janeiro com o de Técnico Judiciário I do TJRJ. CONCESSÃO DA ORDEM, pois existe compatibilidade de horários e a Constituição Federal permite a acumulação de cargo de professor e outro técnico.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 37, “caput” e XVI, ambos da Constituição da República.
+    Cumpre ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte ora recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal de Justiça do Estado do Rio de Janeiro, no julgamento da apelação, sustentou as suas conclusões em aspectos fático-probatórios a seguir destacados:
+    “Inicialmente, deve ser rejeitada a preliminar de ilegitimidade passiva levantada nas informações, pois o Subsecretário do Governo insere-se na cadeia de comando, que tem como figura exponencial o Secretário, não sendo obrigatório que a parte conheça todos os níveis da complexa Administração Pública para saber contra quem litigar (…).
+    …...................................................................................................
+    No mais, a autoridade coatora prestou informações e antes indeferiu administrativamente a postulação.
+    …...................................................................................................
+    Na hipótese presente, a cumulação da impetrante é possível, pois os dois empregos públicos que possui têm horários compatíveis e ela ocupa um cargo de professor e outro técnico.
+    Pelos documentos de fls. 11/12 e 16/17 percebe-se o preenchimento do requisito da compatibilidade de honorários, pois como Técnica Judiciária irá trabalhar oito horas, de 9:00 às 17:00 horas (fl. 16).
+    Já como professora, irá lecionar 03 (três) vezes por semana, de 19:00h às 23:20h (fl. 17).
+    Quanto ao outro requisito, é tido como Cargo Técnico ou Científico aquele que necessita de possuir o servidor conhecimentos científicos obtidos em nível médio ou superior, o que a impetrante preenche.
+    O importante não é a nomenclatura que confere a natureza técnica do cargo, mas, sim, a prova de que suas funções dependam de conhecimento especializado, profissional e específico na área de autuação.”
+    Impõe-se registrar, por relevante, no que concerne à controvérsia suscitada em sede recursal extraordinária, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Competência do relator para negar seguimento a recurso manifestamente inadmissível. Negativa de prestação jurisdicional. Não ocorrência. Natureza dos cargos acumulados. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. É competente o relator (art. 557, ‘caput’, do Código de Processo Civil e art. 21, parágrafo 1º, do Regimento Interno do Supremo Tribunal Federal) para negar seguimento ‘ao recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com a súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior’.
+    2. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada.
+    3. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF.
+    4. Agravo regimental não provido.”
+    (ARE 725.752-AgR/DF, Rel. Min. DIAS TOFFOLI)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CUMULAÇÃO DE CARGOS PÚBLICOS. COMPATIBILIDADE DE HORÁRIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS (…).”
+    (ARE 773.327-AgR/PI, Rel. Min. CÁRMEN LÚCIA – grifei)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. 3. Alegação de ausência de fundamentação. Não ocorrência. Precedente: AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. 4. Acumulação de cargos. Compatibilidade de horários. Reexame fático-probatório. Verbete 279 da Súmula do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.”
+    (ARE 823.115-AgR/PI, Rel. Min. GILMAR MENDES – grifei)
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Cabe referir, finalmente, no tocante à discussão quanto a legitimidade passiva, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Cumpre registrar, finalmente, que não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 19 de outubro de 2016.
+Ministro CELSO DE MELLO
+Relator
