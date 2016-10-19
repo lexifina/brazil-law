@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade ao artigo 145, inciso II e § 2º, da Constituição Federal. O recorrente se insurge contra a cobrança de taxa de fiscalização, localização e funcionamento calculada em função do número de empregados do estabelecimento.
+    Decido.
+    A irresignação merece prosperar.
+    Compulsando os autos, verifico que o ora recorrido, nas contrarrazões ao recurso extraordinário, argui que “A base de cálculo da Taxa de Fiscalização, de Localização, Funcionamento e Instalação questionada é o CUSTO que o Município de São Paulo tem para exercer o poder de polícia, através da fiscalização dos contribuintes instalados em seu território. O número de empregados é UM dos critérios utilizados para repartição equânime desse custo” (fl. 221).
+    Esta Corte firmou entendimento no sentido da ilegitimidade do uso de critérios referentes ao número de empregados ou à atividade exercida pelo contribuinte como elementos da base de cálculo de taxa de fiscalização, localização e funcionamento. Em situações idênticas ao caso em tela:
+    “EMENTA Agravo regimental no recurso extraordinário. Tributário. Taxa de fiscalização de localização, instalação e funcionamento. Base de cálculo. Número de empregados. Atividade. Dados insuficientes para se aferir o efetivo poder de polícia. 1. As taxas comprometem-se tão somente com o custo do serviço específico e divisível que as motiva, ou com a atividade de polícia desenvolvida. 2. O critério do número de empregados ou, isoladamente, da atividade exercida pelo contribuinte para se aferir o custo do exercício do poder de polícia desvincula-se do maior ou menor trabalho ou atividade que o Poder Público se vê obrigado a desempenhar. Precedentes. 3. Agravo regimental não provido” (RE n° 739.088/SP-AgR, Primeira Turma, de minha relatoria, DJe de 8/10/14- Grifei).
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Tributário. Taxa de Fiscalização de Estabelecimentos – TFE. Base de cálculo. Número de empregados. Dados insuficientes para aferir o efetivo poder de polícia. 1. As taxas comprometem-se tão somente com o custo do serviço específico e divisível que as motiva, ou com a atividade de polícia desenvolvida. 2. Os critérios do número de empregados ou da atividade exercida pelo contribuinte para aferir o custo do exercício do poder de polícia desvinculam-se do maior ou menor trabalho ou atividade que o Poder Público se vê obrigado a desempenhar. Precedentes. 3. Agravo regimental não provido” (RE n° 744.804/SP-AgR, Primeira Turma, de minha relatoria, DJe de 8/10/14- Grifei).
+    Ante o exposto, dou provimento ao recurso extraordinário para vedar a cobrança da taxa de fiscalização, localização e funcionamento que tenha como critérios o número de empregados ou a atividade exercida pelo contribuinte, conforme jurisprudência reiterada desta Corte. Restabelecidos os ônus sucumbenciais fixados na sentença.
+    Publique-se.
+    Brasília, 19 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
