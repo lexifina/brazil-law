@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário interposto por Osvaldo Amaral contra acórdão proferido pela 3ª Turma Recursal de Santa Catarina, no qual sustenta que o órgão judiciário de origem teria transgredido os preceitos inscritos nos arts. 5º, “caput”, e 40, § 8º, da Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o apelo extremo revela-se inacolhível.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Impõe-se registrar, ainda, no que concerne à própria controvérsia suscitada nestes autos, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria semelhante à veiculada no caso em exame (ARE 793.050/RJ, Rel. Min. ROBERTO BARROSO – ARE 847.799/RN, Rel. Min. LUIZ FUX – RE 772.958/BA, Rel. Min. DIAS TOFFOLI, v.g.).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE EM PESQUISA, PRODUÇÃO, ANÁLISE, GESTÃO E INFRA- -ESTRUTURA DE INFORMAÇÕES GEOGRÁFICAS – GDIBGE. NATUREZA JURÍDICA. EXTENSÃO AOS INATIVOS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA.
+    1. A Gratificação de Desempenho de Atividade em Pesquisa, Produção e Análise, Gestão e Infra-Estrutura de Informações Geográficas e Estatísticas (GDIBGE) e sua extensão aos servidores inativos, quando ‘sub judice’ a controvérsia sobre sua natureza, implica a análise da legislação infraconstitucional aplicável à espécie. Precedentes: RE 697.726, Rel. Min. Roberto Barroso, DJe 1/7/2014, RE 782.715, de minha relatoria, DJe 1/4/2014, RE 772.958, Rel. Min. Dias Toffoli, Dje2/4/2014, ARE 803.318, Rel. Min. Cármen Lúcia, DJe 25/4/2014, ARE 720.916, Rel. Min. Teori Zavascki, DJe 9/10/2013, RE 697.793, Rel. Min. Rosa Weber, DJe 7/8/2013, e ARE 770.252-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 3/2/2014.
+    …...................................................................................................
+    3. Agravo regimental DESPROVIDO.”
+    (ARE 790.277-AgR/RN, Rel. Min. LUIZ FUX – grifei)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA – GED. NATUREZA JURÍDICA E POSSIBILIDADE DE EXTENSÃO AOS INATIVOS. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 636.578-AgR/RJ, Rel. Min. CÁRMEN LÚCIA – grifei)
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Ressalto, ainda, que se revela inaplicável ao caso o art. 1.033 do CPC/15 pelo fato de o acórdão recorrido haver emanado de Turma Recursal vinculada ao sistema dos Juizados Especiais (Súmula 203/STJ).
+    Cumpre referir, finalmente, que não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 20 de outubro de 2016.
+Ministro CELSO DE MELLO
+Relator
