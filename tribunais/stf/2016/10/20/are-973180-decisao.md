@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário ao argumento de que incide a Súmula 280/STF.
+    No agravo, a parte agravante sustenta, em suma, que a violação à Constituição Federal se deu de modo direto. No mais, repisa as alegações de mérito do recurso extraordinário.
+    2. Conquanto sejam plausíveis os fundamentos expostos pela recorrente para superar o juízo negativo de admissibilidade no tocante à imprescindibilidade do exame de norma local (Decreto Estadual 13.162/2011) para aferir violação a dispositivos constitucionais, subsiste óbice ao prosseguimento do recurso extraordinário. Isso porque o recurso extraordinário foi interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, na parte em que denegou a segurança. Desse modo, tal matéria estava sujeita a recurso ordinário em mandado de segurança, de competência do Superior Tribunal de Justiça (CF, art 105, II, b). Diante desse quadro, não se pode conhecer do extraordinário ante a restrição constante da Súmula 281 do STF (É inadmissível o recurso extraordinário, quando couber, na Justiça de origem, recurso ordinário da decisão impugnada). Nesse sentido:
+    CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO INTERPOSTO DE DECISÃO DENEGATÓRIA EM MANDADO DE SEGURANÇA PROFERIDA EM ÚNICA INSTÂNCIA POR TRIBUNAL LOCAL. APLICAÇÃO O PRINCÍPIO DA FUNGIBILIDADE. INCABÍVEL. ERRO GROSSEIRO. AGRAVO IMPROVIDO. I - É inaplicável o princípio da fungibilidade recursal ante a clara existência de erro grosseiro. II - Agravo regimental improvido.(AI 630.444-AgR, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 29/8/2008).
+    PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. MANDADO DE SEGURANÇA JULGADO PELO TRIBUNAL DE JUSTIÇA. DECISÃO DENEGATÓRIA. CABIMENTO DE RECURSO ORDINÁRIO CONSTITUCIONAL. SÚMULA 281/STF. PRELIMINAR FORMAL DE REPERCUSSÃO GERAL. AUSÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (ARE 699.613-ED, de minha relatoria, Segunda Turma, DJe de 10/3/2014).
+    3. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 20 de outubro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
