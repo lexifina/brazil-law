@@ -1,0 +1,23 @@
+Trata-se de agravo interno contra decisão da Ministra Cármen Lúcia, então relatora, que negou seguimento ao writ, nos termos da Súmula 691 desta Suprema Corte.
+    O agravante insiste que o caso sob exame autoriza a superação do mencionado verbete, conforme precedentes desta Corte.
+    Nesse sentido, repisa o argumento veiculado na inicial desta impetração quanto à ilegalidade da conversão da prisão em flagrante em preventiva sem a realização de audiência de custódia.
+    É o relatório necessário. Decido.
+    Consta dos autos que o paciente foi preso em flagrante, em 21/03/2016, pela suposta prática dos delitos tipificados nos arts. 16, parágrafo único, inciso IV, da Lei 10.826/2003 (posse ou porte ilegal de arma de fogo de uso restrito), e 33 da Lei 11.343/2006 (tráfico).
+    A prisão foi convertida em preventiva, sem realização de audiência de custódia.
+    Contra essa decisão, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado do Rio de Janeiro, que denegou a ordem.
+    Inconformada, manejou novo writ no Superior Tribunal de Justiça, tendo a liminar sido indeferida.
+    Ainda irresignada, ajuizou novo mandamus nesta Corte, mas também não teve melhor sorte.
+    Postula, então, neste agravo interno, a reconsideração do decisum que negou seguimento ao HC, a fim de sanar a ilegalidade confirmada pelas diversas instâncias.
+    Entendo que lhe assiste razão parcialmente.
+    É que o Supremo Tribunal Federal, ao apreciar a medida cautelar na ADPF 347-MC/DF, determinou, com base nos arts. 9.3 do Pacto dos Direitos Civis e Políticos e 7.5 da Convenção Interamericana de Direitos Humanos, aos juízes e tribunais que realizassem, em até noventa dias, audiências de custódia, viabilizando o comparecimento do preso perante a autoridade judiciária no prazo máximo de 24 horas, contados do momento da prisão. Veja-se a ementa do referido julgamento:
+    “CUSTODIADO – INTEGRIDADE FÍSICA E MORAL – SISTEMA PENITENCIÁRIO – ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL – ADEQUAÇÃO. Cabível é a arguição de descumprimento de preceito fundamental considerada a situação degradante das penitenciárias no Brasil. SISTEMA PENITENCIÁRIO NACIONAL – SUPERLOTAÇÃO CARCERÁRIA – CONDIÇÕES DESUMANAS DE CUSTÓDIA – VIOLAÇÃO MASSIVA DE DIREITOS FUNDAMENTAIS – FALHAS ESTRUTURAIS – ESTADO DE COISAS INCONSTITUCIONAL – CONFIGURAÇÃO. Presente quadro de violação massiva e persistente de direitos fundamentais, decorrente de falhas estruturais e falência de políticas públicas e cuja modificação depende de medidas abrangentes de natureza normativa, administrativa e orçamentária, deve o sistema penitenciário nacional ser caraterizado como ‘estado de coisas inconstitucional’. FUNDO PENITENCIÁRIO NACIONAL – VERBAS – CONTINGENCIAMENTO. Ante a situação precária das penitenciárias, o interesse público direciona à liberação das verbas do Fundo Penitenciário Nacional. AUDIÊNCIA DE CUSTÓDIA – OBSERVÂNCIA OBRIGATÓRIA. Estão obrigados juízes e tribunais, observados os artigos 9.3 do Pacto dos Direitos Civis e Políticos e 7.5 da Convenção Interamericana de Direitos Humanos, a realizarem, em até noventa dias, audiências de custódia, viabilizando o comparecimento do preso perante a autoridade judiciária no prazo máximo de 24 horas, contado do momento da prisão”. (ADPF 347 MC, Rel. Min. Marco Aurélio, Tribunal Pleno, julgado em 9/9/2015 - grifei).
+    No presente caso, como a prisão do impetrante ocorreu em 21/3/2016, ou seja, após o prazo de noventa dias concedido pelo Plenário desta Corte aos tribunais e juízes, deveria ter-lhe sido garantida a realização de audiência de custódia, no prazo de 24 horas.
+    Ao proceder de forma diversa, o juízo de origem afrontou a autoridade do acórdão proferido na ADPF-MC 347.
+    A audiência de custódia, a ser realizada no prazo de 24 horas contadas do momento da prisão, é direito subjetivo do preso, garantido pelo Supremo Tribunal Federal, e, penso, não pode ser afastado, por questões populacionais, orçamentárias, ou pela não criação de uma central específica direcionada às audiências de custódia.
+    Nesse sentido: Rcl 24.536, de relatoria do Ministro Edson Fachin.
+    Isso posto, reconsidero a decisão agravada a fim de deferir parcialmente, de ofício, a ordem para determinar ao Tribunal de Justiça do Estado do Rio de Janeiro que providencie a realização da audiência de custódia do paciente no prazo de 24 horas, contados do recebimento da comunicação da presente decisão, oportunidade em que o juízo de primeiro grau avaliará a prisão do paciente.
+    Comunique-se, com urgência.
+    Publique-se.
+    Brasília, 20 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Presidente
