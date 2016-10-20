@@ -1,0 +1,43 @@
+Trata-se de habeas corpus impetrado em favor de José Vonaldo Gregório de Sousa, contra decisão do relator do ARESP 926.894/PB e HC 344.503/PB, Ministro Jorge Mussi do Superior Tribunal de Justiça.
+    A defesa alega que o paciente foi condenado a 8 anos de reclusão, em regime inicial fechado, pela prática de inserção de dados falsos em sistema de informações (art. 313-A do Código Penal) e 8 meses de detenção pelo delito de usura (art. 4° da Lei 1.521/1951).
+    Informa que, ao julgar o recurso de apelação, o Tribunal de Justiça do Estado da Paraíba – TJPB reduziu a pena para 3 anos e 9 meses de reclusão pela prática do delito previsto no art. 313-A do CP e 6 meses de detenção para usura.
+    Aduz, ainda, que o TJPB teria evoluído o regime de cumprimento da pena do fechado para o aberto e afirmado a possibilidade de substituição da pena corpórea por duas restritivas de direitos.
+    Entretanto, no acórdão publicado na imprensa oficial, constou a aplicação da pena de 5 anos de reclusão pelo crime contra a Administração Pública e 6 meses de detenção para o ilícito contra a economia popular, ambos a serem cumpridos em regime inicial semiaberto.
+     A defesa sustenta que o acórdão foi publicado com erro material, pois a redução da pena para 3 anos e 9 meses foi afirmada no voto do Desembargador relator e posteriormente reafirmada, ao esclarecer a questão ao advogado do paciente, durante a sessão de julgamento da apelação, conforme registrado nas notas taquigráficas.
+    Foram opostos embargos declaratórios perante o TJPB, que os rejeitou sob o fundamento de que não ocorreu omissão ou contrariedade no julgado e que “todas as matérias apontadas no recurso foram devidamente julgadas” (fl. 1 do documento eletrônico 9).
+    Contra tal decisão, foi impetrado habeas corpus perante o STJ (HC 344.503/PB), no qual a liminar foi indeferida em dezembro de 2015 e cujo mérito ainda encontra-se pendente de julgamento.
+    A defesa também interpôs agravo em recurso especial no STJ (ARE 926.894/PB). Este recurso ainda não teve o mérito julgado. Entretanto, o Ministro Jorge Mussi proferiu a seguinte decisão, verbis:
+    “Seguindo o novo posicionamento da Suprema Corte, que no julgamento do HC n.º 126.292, por maioria de votos, entendeu que ‘Não se mostra arbitrária, mas inteiramente justificável, a possibilidade de o julgador determinar o imediato início do cumprimento da pena, inclusive com restrição da liberdade do condenado, após firmada a responsabilidade criminal pelas instâncias ordinárias ‘, e tendo em vista que os recursos extraordinários não são dotados de efeito suspensivo, defere-se o pedido formulado pelo Parquet Federal às e-STJ fls. 1.088/1.090.
+    Encaminhe-se cópia dos autos ao Juízo da condenação a fim de que tome as providências cabíveis para o início da execução da pena imposta à parte recorrente” (documento eletrônico 3).
+    Contra essa decisão é o presente writ, com pedido de liminar “para impedir a execução da sentença condenatória sob o regime semiaberto, até o julgamento do HC” (pág. 12 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    O pedido de liminar merece prosperar.
+     Inicialmente, entendo que o caso merece a superação da Súmula 691 desta Corte.
+    Isso porque o impetrante traz aos autos o acórdão publicado e as notas taquigráficas da sessão que julgou o recurso de apelação contra a sentença condenatória. Ocorre que, da leitura das notas, pode-se aferir que, em princípio, o TJPB reduziu a pena de 8 anos inicialmente aplicada para a reprimenda de 3 anos e 9 meses e não em 5 anos, como ficou consignado no acórdão.
+    Ademais, o registro taquigráfico aponta a evolução do regime de cumprimento da pena do fechado para o aberto, inclusive com o relator afirmando a possibilidade de substituição da pena corpórea pela restritiva de direitos, verbis:
+    “[...]
+    O SENHOR DESEMBARGADOR MARCOS WILLIAM DE OLIVEIRA (Juiz Convocado):
+    - Reduzo a pena-base em 03 anos e 09 meses de reclusão e 06 meses de detenção. É porque houve aqui um erro material na soma. São 03 anos e 09 meses de reclusão. Aqui eu passo o regime para aberto e 06 meses de detenção, também em regime aberto. Somando-se as duas penas, eu teria 03 anos e 09 meses de reclusão mais 06 meses de detenção. E, nesse caso, haveria a possibilidade de se aplicar a substituição por pena restritiva. Corrigido esse somatório. Eu estou fazendo essa redução. Não é meu revisor?
+    O SENHOR DESEMBARGADOR MANOEL GONÇALVES DANTAS DE ABRANTES (Juiz Convocado):
+    - Exatamente.
+     O SENHOR DESEMBARGADOR JOÃO BENEDITO DA SILVA (Presidente):
+    - Em 03 anos e 09 meses de reclusão...(intervenção).
+    O SENHOR DESEMBARGADOR MARCOS WILLIAM DE OLIVEIRA (Juiz Convocado):
+    - Fixo o regime aberto, porque são penas distintas. A reclusão é cumprida primeiro, não é superior a 04 anos. E detenção em regime aberto também em 06 meses, cumprida depois do cumprimento da reclusão. Então, é cabível a substituição sim. Eu substituo por duas restritivas de direito a critério da execução penal. É como estou votando.
+    […]
+    Resultado: Deu-se provimento parcial ao apelo para redimensionar as penas, substituí-las por duas restritivas de direito, além de modificar o regime prisional para o aberto, nos termos do voto do Relator, unânime” (documento eletrônico 8).
+    Observo, ainda, que o próprio acórdão, na versão publicada na imprensa oficial, apresenta certa contradição. A pena de 5 anos e 6 meses fica expressamente determinada na ementa, bem como o regime semiaberto para o seu cumprimento inicial. Porém, na parte dispositiva, consta a substituição da pena restritiva de liberdade por duas restritivas de direitos e alteração do regime para o aberto, no mesmo sentido das notas taquigráficas, vejamos:
+    “APELAÇÃO CRIMINAL – CRIME DE INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇÕES E USURA – CONDENAÇÃO – IRRESIGNAÇÃO – PEDIDO DE ABSORÇÃO DO DELITO DE INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇÕES PELA USURA – PRINCÍPIO DA CONSUNÇÃO – NÃO VERIFICAÇÃO – DELITOS INDEPENDENTES ENTRE SI – ALEGAÇÃO DE PECULATO ELETRÔNICO NA FORMA TENTADA – AUSÊNCIA DE DANO PARA A ADMINISTRAÇÃO PÚBLICA – IRRELEVÂNCIA – TIPO PENAL ALTERNATIVO – OBTENÇÃO DE VANTAGEM INDEVIDA PELO AGENTE – CRIME DE FALSIDADE IDEOLÓGICA – NÃO CONFIGURAÇÃO – AGENTE CRIMINOSO QUE AGIA NA QUALIDADE DE FUNCIONÁRIO AUTORIZADO – PREENCHIMENTO DA ELEMENTAR PREVISTA NO ART. 313-A – RECONHECIMENTO DE CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS AO RÉU – REDUÇÃO DA PENA-BASE – ALTERAÇÃO DO REGIME INICIAL DA PENA PARA O SEMIABERTO – PENA PRIVATIVA DE LIBERDADE NÃO SUBSTITUÍDA POR PENAS RESTRITIVAS DE DIREITO – VEDAÇÃO DO ART. 44, I, DO CP – PROVIMENTO PARCIAL DO APELO.
+    […]
+    - A fixação do regime inicial de cumprimento da pena, far-se-á com base no art. 33 do Código Penal, levando-se em consideração os critérios previstos no art. 59 do mesmo diploma legal. Na hipótese dos autos, considerando não ser o acusado reincidente e a sua reprimenda ter sido diminuída para 5 (cinco) anos de reclusão e 6 (meses) de detenção, fixo o regime semiaberto para o cumprimento inicial da pena.
+    - O réu terá direito à substituição da pena privativa de liberdade por restritiva de direito sempre que preencher as condições elencadas nos inciso do art. 44 do Código Penal. Entre aquelas condicionantes está a proibição de ter sido aplicada, ao crime doloso, pena privativa de liberdade superior a quatro anos.
+    ACORDA a Câmara Criminal do Egrégio Tribunal de Justiça do Estado da Paraíba, à unanimidade, em dar provimento parcial ao apelo para redimensionar as penas, substituí-las por duas restritivas de direitos, além de modificar o regime prisional para o aberto. Fez sustentação oral o Adv. Ozael da Costa Fernandes” (fls. 9-10 do documento eletrônico 7; grifos meus).
+    Dessa forma, verifico que estão presentes os requisitos para a concessão da medida liminar, tendo em vista que o pericullum in mora decorre do fato de que o paciente está sujeito à ordem de prisão para iniciar o cumprimento de uma pena restritiva de liberdade que, à primeira vista, não é a que lhe foi imposta, sendo mais gravosa.
+    Quanto ao fumus boni iuris, este encontra respaldo na alegação de que o acórdão, que está prestes a ser executado, possui erro material gravíssimo, quando confrontado com as notas taquigráficas.
+    Isso posto, defiro a liminar para que o paciente aguarde em liberdade o julgamento de mérito do presente habeas corpus.
+    Solicitem-se informações ao Superior Tribunal de Justiça e ao Tribunal de Justiça do Estado da Paraíba. Ouça-se o Procurador-Geral da República.
+    Comunique-se.
+    Publique-se.
+    Brasília, 20 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
