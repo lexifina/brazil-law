@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de recurso ordinário em habeas corpus, com pedido liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça, nos autos do HC 340.977/PE, Rel. Min. Felix Fischer. Consta dos autos, em síntese, que (a) o recorrente foi condenado à pena de 6 anos e 8 meses de reclusão, em regime inicial semiaberto, pela prática de crime contra a ordem tributária (art. 1º, I, da Lei 8.137/1990); (b) inconformada, a defesa apelou para o Tribunal Regional Federal da 5ª Região, que negou provimento ao recurso; (c) questionando a dosimetria da pena, a defesa impetrou habeas corpus no Superior Tribunal de Justiça, que não conheceu da impetração, mas analisou as questões, em acórdão assim ementado:
+    “(...) II - A via do writ somente se mostra adequada para a análise da dosimetria da pena caso se trate de flagrante ilegalidade e não seja necessária uma análise aprofundada do conjunto probatório.
+    III - As teses relativas à ilegalidade na exasperação da pena-base, e na aplicação da majorante do art. 12, inciso I, da Lei n. 8137/90 já foram rechaçadas por este Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial n. 1.445.217/PE. Tratando-se de mera reiteração de pedido, o presente mandamus, no ponto, não deverá ser conhecido.
+    IV - A jurisprudência do Superior Tribunal de Justiça tem admitido a cumulação das causas de aumento de pena da continuidade delitiva e do concurso formal, quando, em delitos fiscais, o sujeito ativo, mediante uma única ação ou omissão, sonega o pagamento de diversos tributos, reiterando a referida conduta ao longo de determinado período, na hipótese, de 01/2000 a 12/2003.
+    V - O exame acerca da suposta desproporcionalidade na aplicação da pena de multa demandaria o revolvimento de fatos e provas, o que não tem lugar em sede de habeas corpus (precedentes).
+    Habeas corpus não conhecido.”
+    Neste recurso, o recorrente alega, em suma, que (a) é desproporcional a fixação da pena-base em 8 meses acima do mínimo legal em razão de uma única circunstância judicial; (b) a aplicação da causa especial de aumento da pena, prevista no art. 12, I, da Lei. 8.137/1990, em patamar máximo, carece de fundamentação adequada; (c) há ocorrência de bis in idem, diante da majoração da pena tanto pela continuidade delitiva quanto pelo concurso formal; (d) a fixação da pena pecuniária em 550 dias-multa é desproporcional, considerando o quantum da pena imposta ao paciente. Requer, liminarmente, a suspensão do cumprimento da pena até o julgamento de mérito deste recurso.
+    2. Consideradas as especiais circunstâncias da causa, o exame da matéria será feito no momento oportuno, em caráter definitivo.
+    3. Com essas considerações, indefiro o pedido liminar. À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 20 de outubro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
