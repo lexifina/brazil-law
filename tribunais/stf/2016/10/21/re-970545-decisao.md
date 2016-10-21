@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 3, p. 77):
+    “Inquérito administrativo – Servidora pública municipal – Conduta omissiva – Aplicação da pena de demissão, convertida em suspensão – Descabimento – Impossibilidade de apreciação do mérito administrativo pelo Poder Judiciário, mas não do caráter ilegal do ato – Segurança concedida.”
+    Os embargos de declaração foram rejeitados (eDOC 4, p. 8).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 2º; e 5º, LXIX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “a recorrida, no cargo de Diretor Clínico do Pronto Socorro Municipal 21 de Junho, foi omissa quanto às graves irregularidades ocorridas nos plantões da enfermagem da unidade e das quais tinha inequívoca ciência, que ocasionaram evidentes prejuízos à população e pacientes do Pronto Socorro.” (eDOC 4, p. 24).
+    Alega-se, ainda, que “o ato administrativo de demissão, posteriormente convertido em suspensão, restou devidamente MOTIVADO.” (eDOC 4, p. 24).
+    A Presidência da Seção de Direito Público do TJ/SP admitiu o recurso extraordinário (eDOC 5, p. 25).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem assim asseverou (eDOC 3, p. 80):
+    “Ora, à diretoria clínica competiria ‘supervisionar a execução das atividades de assistência médica da instituição’, a teor do disposto no art. 3º, a , das Res. N. 1.342/9 do CFM, mas não das atividades de enfermagem, atreladas à diretoria de enfermagem e à sua chefia imediata as quais caberia o controle da frequência dos respectivos servidores, dentro da organização e direção dos serviços, conforme o disposto no art. 11, parágrafo segundo, da lei n. 7.498/86, que regula a profissão e o programa do próprio Pronto Socorro.
+    Daí a força não vinculativa do relatório da fiscalização do COREN-SP, porquanto o restabelecimento do equilíbrio entre o número de enfermeiros e a necessidade do Pronto Socorro não se incluía dentre suas obrigações administrativas e, portanto, não serviria para fundamentar aplicação de sanção disciplinar por ato omissivo.”
+    Observa-se que no exercício do controle de legalidade do ato administrativo, incumbe ao Judiciário observar, além da competência de quem o praticou e do cumprimento das formalidades legais que lhe são intrínsecas, também os respectivos pressupostos de fato e de direito.
+    Dessa forma, constato que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF. Confiram-se, a propósito, os seguintes precedentes:
+      “Agravo regimental no recurso extraordinário. Servidor público militar. Exclusão da Corporação. Ato administrativo. Controle judicial. Possibilidade. Princípios da razoabilidade e da proporcionalidade. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não viola o princípio da separação dos poderes o controle de legalidade exercido pelo Poder Judiciário sobre os atos administrativos. 2. A Corte de origem, ao analisar o conjunto fático-probatório da causa, concluiu que a punição aplicada foi excessiva, restando violados os princípios da razoabilidade e proporcionalidade. 3. Não se presta o recurso extraordinário ao reexame de fatos e provas da causa. Incidência da Súmula nº 279/STF. 4. Agravo regimental não provido." (RE 609.184-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 26/4/2013)
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. DEMISSÃO DE SERVIDOR. 1. CONTROLE JUDICIAL DE ATO ADMINISTRATIVO: INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. 2. CONTROVÉRSIA SOBRE OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO." (ARE 707.292-AgR, Rel. Min. Cármen Lúcia, DJe de 26/10/2012)
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 21 de outubro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
