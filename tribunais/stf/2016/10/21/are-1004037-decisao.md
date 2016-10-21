@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “MANDADO DE SEGURANÇA. APREENSÃO DE ÔNIBUS. TRANSPORTE DE MERCADORIAS INTERNADAS IRREGULARMENTE. MULTA DO ART. 75 DA LEI Nº 10.833/03. LEGALIDADE. 1. A multa prevista no art. 75 da Lei nº 10.833/03 visa inviabilizar a prática de contrabando e descaminho, constituindo a retenção do veículo até o pagamento daquela garantia da efetividade da lei. 2. Afastada a presunção de boa-fé, correta a retenção do veículo. 3. A apreensão do veículo e a aplicação da respectiva multa visam abalar os recursos econômicos daqueles que promovem o contrabando e o descaminho e em nada se assemelham ao pagamento de tributos, sendo inaplicável o enunciado da Súmula nº 323 do STF. 4. Apelação e remessa oficial providas.” (eDOC 10, p. 9)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XIII, LIV, LV, 170, do texto constitucional. (eDOC 18, p. 1)
+    Nas razões recursais, alega-se a ausência de configuração de indícios que justificassem a verificação dos volumes transportados. Aduz-se ainda que não compete ao empregado da empresa transportadora realizar juízo de valor para aferir se determinada bagagem excede ou não a quota fixada pela Receita Federal. Assim, defende-se que, no presente caso, não restou configurada infração a dar ensejo à aplicação da multa prevista no art. 75 da Lei 10.833/2003.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 10.833/2003) e o conjunto probatório constante dos autos, consignou ser correta a aplicação de multa ao recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Posto isto, para a correta interpretação do art. 75 da Lei 10.833/2003 conforme à Constituição, deve-se atentar para os contornos subjetivos que informam a conduta do proprietário do veículo.
+    (…)
+    Cumpre, portanto, analisar a prova trazida aos autos. No presente caso, independente da discussão de estarem ou não devidamente identificadas as bagagens, restou incontroverso o fato de o ônibus transportar diversas mercadorias com nítida destinação comercial (…)
+    Por fim, relevante destacar que a impetrante detém permissão para prestação de serviço público essencial (fl. 46) e deveria exercê-lo com observância das normas técnicas disciplinadoras para a operação, não cabendo, portanto, alegar boa-fé quando deixa de cumpri-las.
+    Portanto, uma vez elidida a presunção de boa-fé do transportador que, tendo consciência da ilicitude e do caráter fraudulento da conduta ou, deixando de ser precaver adequadamente quanto a possíveis empecilhos para a realização do negócio, beneficiou-se da irregularidade, mormente se reincidente – é possível a aplicação da multa como condição para liberação do veículo apreendido, prevista no artigo 75 da Lei n. 10.833/2003”. (eDOC 10, p. 4-6)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+     AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. MULTA. PERDIMENTO DE BENS. TURISMO. 1. A aferição da correção da aplicação de multa de perdimento de bens, nos termos do art. 75 da Lei 10.833/2003 é controvérsia de índole infraconstitucional. Súmula 279 do STF. Precedentes. 2. Agravo regimental a que se nega provimento. (RE 934237 AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe 17.3.2016)
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. APLICAÇÃO DE MULTA. TRANSPORTE DE MERCADORIAS SUJEITO À PENA DE PERDIMENTO. IMPOSSIBILIDADE DO REEXAME DE PROVAS: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE-AgR 599.858, Primeira Turma, Rel. Min. Cármen Lúcia, DJe 20.11.2009).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de outubro de 2016.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
