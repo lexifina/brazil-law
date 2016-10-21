@@ -1,0 +1,680 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 15
+
+21/10/2016
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 17.364 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ROBERTO BARROSO
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+: PRESIDENTE DA REPÚBLICA
+: ADVOGADO -GERAL DA UNIÃO
+
+Ementa:
+DIREITO
+AMBIENTAL,
+ADMINISTRATIVO
+E
+CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECLAMAÇÃO.
+COMPENSAÇÃO AMBIENTAL. DECRETO QUE REGULAMENTA O
+ART. 36 DA LEI Nº 9.985/2000.
+1.
+O art. 31-A do Decreto nº 4.340/2002, acrescido pelo
+Decreto nº 6.838/2009, não afronta a autoridade do acórdão proferido na
+ADI 3.378, Rel. Min. Ayres Britto.
+2.
+Na vigência do CPC/1973 e da Lei nº 8.038/1990, período
+em que ajuizado o presente feito, a jurisprudência do Supremo Tribunal
+Federal, se firmou no sentido de que, em sede de controle abstrato de
+constitucionalidade, a eficácia vinculante dos acórdãos abrange apenas o
+objeto examinado pela Corte.
+4.
+De toda forma, o ato impugnado não desborda das razões
+de decidir utilizadas na ADI 3.378, não sendo, assim, possível acolher a
+tese da inicial nos rígidos limites da reclamação.
+5.
+Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal, em Sessão Virtual, na
+conformidade da ata de julgamento, por unanimidade de votos, em negar
+provimento ao agravo interno, nos termos do voto do Relator.
+Brasília, 14 a 20 de outubro de 2016.
+MINISTRO LUÍS ROBERTO BARROSO - PRESIDENTE E RELATOR
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926647.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 15
+
+21/10/2016
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 17.364 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ROBERTO BARROSO
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+: PRESIDENTE DA REPÚBLICA
+: ADVOGADO -GERAL DA UNIÃO
+
+RELATÓRIO
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (RELATOR):
+1. Trata-se de agravo regimental contra decisão monocrática pela
+qual neguei seguimento a reclamação, nos seguintes termos:
+“Ementa:
+RECLAMAÇÃO.
+COMPENSAÇÃO
+AMBIENTAL. DECRETO QUE REGULAMENTA O ART.
+36 DA LEI Nº 9.985/2000. 1. O art. 31-A do Decreto nº
+4.340/2002, acrescido pelo Decreto nº 6.838/2009, não
+afronta a autoridade do acórdão proferido na ADI 3.378,
+Rel. Min. Ayres Britto. 2. Ausência de estrita pertinência
+entre o ato reclamado e o dispositivo da decisãoparadigma. 3. Inaplicabilidade da teoria da transcendência
+dos motivos determinantes. 4. De toda forma, o ato
+impugnado não desborda das razões de decidir utilizadas
+na ADI 3.378, não sendo, assim, possível acolher a tese da
+inicial nos rígidos limites da reclamação. 5. Reclamação a
+que se nega seguimento.
+1.
+Trata-se de reclamação, com pedido liminar, em
+que se impugna o art. 2º do Decreto nº 6.838/2009, na parte em
+que acresceu ao Decreto nº 4.340/2002 o art. 31-A, como o
+seguinte teor:
+“Art. 31-A. O Valor da Compensação Ambiental - CA será
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926648.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 15
+
+RCL 17364 AGR / DF
+calculado pelo produto do Grau de Impacto - GI com o Valor de
+Referência - VR, de acordo com a fórmula a seguir:
+CA = VR x GI, onde:
+CA = Valor da Compensação Ambiental;
+VR = somatório dos investimentos necessários para
+implantação do empreendimento, não incluídos os
+investimentos referentes aos planos, projetos e programas
+exigidos no procedimento de licenciamento ambiental para
+mitigação de impactos causados pelo empreendimento, bem
+como os encargos e custos incidentes sobre o financiamento do
+empreendimento, inclusive os relativos às garantias, e os custos
+com apólices e prêmios de seguros pessoais e reais; e
+GI = Grau de Impacto nos ecossistemas, podendo atingir
+valores de 0 a 0,5%.
+§ 1º. O GI referido neste artigo será obtido conforme o
+disposto no Anexo deste Decreto.
+§ 2º. O EIA/RIMA deverá conter as informações
+necessárias ao cálculo do GI.
+§ 3º. As informações necessárias ao calculo do VR deverão
+ser apresentadas pelo empreendedor ao órgão licenciador antes
+da emissão da licença de instalação.
+§ 4º Nos casos em que a compensação ambiental incidir
+sobre cada trecho do empreendimento, o VR será calculado com
+base nos investimentos que causam impactos ambientais,
+relativos ao trecho.” (dest. acresc.)
+2.
+Alega o requerente que o referido ato normativo
+contrariaria a força vinculante do acórdão proferido por este
+Tribunal na ADI 3.378, Rel. Min. Ayres Britto, no qual foi
+declarada a inconstitucionalidade da expressão "não pode ser
+inferior a meio por cento dos custos totais previstos para a
+implantação do empreendimento" prevista no art. 36, § 1º, da
+Lei nº 9.985/2000, assim redigido:
+‘Art. 36. Nos casos de licenciamento ambiental de
+empreendimentos de significativo impacto ambiental,
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926648.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 15
+
+RCL 17364 AGR / DF
+assim considerado pelo órgão ambiental competente, com
+fundamento em estudo de impacto ambiental e respectivo
+relatório - EIA/RIMA, o empreendedor é obrigado a
+apoiar a implantação e manutenção de unidade de
+conservação do Grupo de Proteção Integral, de acordo
+com o disposto neste artigo e no regulamento desta Lei.
+§ 1º. O montante de recursos a ser destinado pelo
+empreendedor para esta finalidade não pode ser inferior
+a meio por cento dos custos totais previstos para a
+implantação do empreendimento, sendo o percentual
+fixado pelo órgão ambiental licenciador, de acordo com o
+grau
+de
+impacto
+ambiental
+causado
+pelo
+empreendimento.’ (dest. acresc.)
+3.
+Isto porque, naquele julgado, entendeu-se que o
+montante a ser pago a título de compensação ambiental deveria
+ser fixado de forma proporcional ao impacto do
+empreendimento, sendo descabida a fixação a priori de
+percentuais mínimos. O acórdão recebeu a seguinte ementa:
+‘AÇÃO DIRETA DE INCONSTITUCIONALIDADE.
+ART. 36 E SEUS §§ 1º, 2º E 3º DA LEI Nº 9.985, DE 18 DE
+JULHO DE 2000. CONSTITUCIONALIDADE DA
+COMPENSAÇÃO DEVIDA PELA IMPLANTAÇÃO DE
+EMPREENDIMENTOS DE SIGNIFICATIVO IMPACTO
+AMBIENTAL. INCONSTITUCIONALIDADE PARCIAL
+DO § 1º DO ART. 36. 1. O compartilhamento-compensação
+ambiental de que trata o art. 36 da Lei nº 9.985/2000 não
+ofende o princípio da legalidade, dado haver sido a
+própria lei que previu o modo de financiamento dos
+gastos com as unidades de conservação da natureza. De
+igual forma, não há violação ao princípio da separação dos
+Poderes, por não se tratar de delegação do Poder
+Legislativo para o Executivo impor deveres aos
+administrados. 2. Compete ao órgão licenciador fixar o
+quantum da compensação, de acordo com a compostura
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926648.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 15
+
+RCL 17364 AGR / DF
+do impacto ambiental a ser dimensionado no relatório EIA/RIMA. 3. O art. 36 da Lei nº 9.985/2000 densifica o
+princípio usuário-pagador, este a significar um
+mecanismo de assunção partilhada da responsabilidade
+social pelos custos ambientais derivados da atividade
+econômica. 4. Inexistente desrespeito ao postulado da
+razoabilidade. Compensação ambiental que se revela
+como instrumento adequado à defesa e preservação do
+meio ambiente para as presentes e futuras gerações, não
+havendo outro meio eficaz para atingir essa finalidade
+constitucional. Medida amplamente compensada pelos
+benefícios que sempre resultam de um meio ambiente
+ecologicamente
+garantido
+em
+sua
+higidez.
+5.
+Inconstitucionalidade da expressão "não pode ser
+inferior a meio por cento dos custos totais previstos para
+a implantação do empreendimento", no § 1º do art. 36 da
+Lei nº 9.985/2000. O valor da compensaçãocompartilhamento é de ser fixado proporcionalmente ao
+impacto ambiental, após estudo em que se assegurem o
+contraditório e a ampla defesa. Prescindibilidade da
+fixação
+de
+percentual
+sobre
+os
+custos
+do
+empreendimento. 6. Ação parcialmente procedente.”
+(ADI 3.378, Rel. Min. Ayres Britto – dest. acresc.)
+4.
+Sustenta o requerente que, sendo vedada a fixação
+de percentuais mínimos, igualmente não poderia o ato
+impugnado ter fixado o máximo de 0,5% (meio por cento), sob
+pena de vulnerar o meio ambiente no caso de empreendimentos
+cujo impacto exija compensação superior. Transcrevo o núcleo
+da argumentação contida na petição inicial:
+‘Ademais, cabe salientar que a restrição do grau de
+impacto de empreendimentos de significativo impacto
+ambiental aos valores de 0 (zero) a 0,5% (meio por cento),
+nos moldes em que imposta pelo Decreto 6.848/09,
+contraria todo o tratamento cauteloso que a Constituição
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926648.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 15
+
+RCL 17364 AGR / DF
+Federal confere ao meio ambiente, sobretudo ao princípio
+da prevenção e do usuário-pagador, pois simplesmente
+desconsidera a hipótese de o impacto ambiental ter
+dimensão tal que sua compensação exija investimento
+superior ao limite de 0,5% aprioristicamente fixado.
+Em outros termos, o mesmo motivo que levou a
+Corte a declarar inconstitucional a regra normativa que
+fixara percentual mínimo de compensação, implica em
+concluir que a fixação de parâmetro máximo também será
+inconstitucional, eis que as duas hipóteses se desvinculam
+do impacto ambiental cuja compensação se pretende
+alcançar.
+Não se pode, sem parâmetros objetivos, fixar limites,
+sejam eles máximos ou mínimos, que não considerem,
+concretamente, o dano ambiental que determinada
+atividade pode acarretar, competindo ao licenciamento
+ambiental aferir, em cada situação, qual o valor a ser
+compensado.’
+5.
+
+É o relatório. Decido.
+
+6.
+É admirável o papel que o Ministério Público vem
+desempenhando, nos últimos anos, não apenas na tutela do
+meio ambiente, como na criação de uma consciência ambiental.
+A presente iniciativa insere-se nessa linha de atuação e só por
+isso já seria louvável. Nada obstante, apesar da cuidadosa
+argumentação da petição inicial, e com a devida vênia ao
+eminente Procurador-Geral da República, entendo que a
+presente reclamação não reúne condições para ser acolhida.
+7.
+Como se sabe, a procedência de reclamações
+constitucionais exige a existência de uma relação de estrita
+identidade entre o ato impugnado e o parâmetro de controle. A
+propósito, cito precedente em que também se alegou violação
+ao acórdão da ADI 3.378:
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926648.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 15
+
+RCL 17364 AGR / DF
+‘Agravo regimental na reclamação. ADI nº 3.378/DF.
+Inexistência de identidade de temas entre o ato reclamado
+e o paradigma da Corte. Agravo regimental ao qual se
+nega provimento. 1. Por atribuição constitucional, prestase a reclamação para preservar a competência do STF e
+garantir a autoridade de suas decisões (art. 102, inciso I,
+alínea l, CF/88), bem como para resguardar a correta
+aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88).
+2. Deve haver aderência estrita do objeto do ato reclamado
+ao conteúdo da decisão do STF dotada de efeito
+vinculante e eficácia erga omnes para que seja admitido o
+manejo da reclamatória constitucional. 3. A declaração de
+inconstitucionalidade, com redução do texto do § 1º do art.
+36 da Lei nº 9.985/2000, na ADI nº 3.378/DF, foi no sentido
+de se retirar a obrigatoriedade de o valor mínimo de
+compensação ambiental ser sempre correspondente a
+meio por cento do custo do empreendimento, podendo ser
+fixada outra forma de compensação pelo órgão
+responsável após estudos pertinentes ao caso. 4. Agravo
+regimental não provido.’ (Rcl 12.887 AgR, Rel. Min. Dias
+Toffoli)
+8.
+Deste modo, somente se poderia cogitar de
+desrespeito à autoridade do acórdão proferido na ADI 3.378
+caso o ato impugnado houvesse fixado, a priori, percentual
+mínimo de compensação ambiental, o que não ocorreu. A tese
+do reclamante parece pressupor a aplicação da teoria da
+transcendência dos motivos determinantes, já que extrai da
+fundamentação do acórdão-paradigma – especialmente da tese
+segundo a qual a compensação deve ser proporcional ao
+impacto ambiental – a ilação de que também a fixação de
+percentuais máximos seria inválida. Tal conclusão, porém, não
+decorre do dispositivo da ADI 3.378, o que bastaria, por si só,
+para negar seguimento à reclamação. Nesse sentido:
+‘Agravo regimental na reclamação. ADI nº 4.015/PA-
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926648.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 15
+
+RCL 17364 AGR / DF
+MC. Inexistência de identidade de temas entre o ato
+reclamado e o paradigma da Corte. Não cabimento da
+tese da transcendência dos motivos determinantes.
+Agravo regimental ao qual se nega provimento.
+1. Por atribuição constitucional, presta-se a
+reclamação para preservar a competência do STF e
+garantir a autoridade de suas decisões (art. 102, inciso I,
+alínea l, CF/88), bem como para resguardar a correta
+aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88).
+2. Há necessidade de aderência estrita do objeto do
+ato reclamado ao conteúdo da decisão do STF dotada de
+efeito vinculante e eficácia erga omnes para que seja
+admitida a reclamatória constitucional.
+3. Agravo regimental não provido.’ (Rcl 10.125
+AgR/PA, Rel. Min. Dias Toffoli – dest. acresc.)
+‘AGRAVO REGIMENTAL NA RECLAMAÇÃO.
+PRESTAÇÃO DE CONTAS POR PREFEITO AO
+TRIBUNAL
+DE
+CONTAS
+DOS
+MUNICÍPIOS.
+INAPLICABILIDADE DA TRANSCENDÊNCIA DOS
+FUNDAMENTOS DETERMINANTES ADOTADOS NO
+JULGAMENTO
+DAS
+AÇÕES
+DIRETAS
+DE
+INCONSTITUCIONALIDADE N. 3.715/TO, 1.779/PE E
+849/MT. PRECEDENTES. AGRAVO REGIMENTAL AO
+QUAL SE NEGA PROVIMENTO. (Rcl 11.479 AgR/CE, Rel.
+Min. Cármen Lúcia – dest. acresc.)’
+9.
+Há mais, porém. Ainda que se admitisse a
+invocação dos fundamentos adotados na ADI 3.378 como
+parâmetro de controle para fins de reclamação, o reclamante
+não teria razão.
+10.
+Isto porque os percentuais de 0 a 0,5%, contra os
+quais se insurge a inicial, fazem parte da variável denominada
+“Grau de Impacto nos ecossistemas” (GI), calculado com base
+no disposto no Anexo do Decreto impugnado. O referido Anexo
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926648.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 15
+
+RCL 17364 AGR / DF
+explicita que GI = ISB + CAP + IUC, sendo: ISB – impacto sobre
+a biodiversidade; CAP – comprometimento de área prioritária;
+e IUC – influência em unidades de conservação, cada um dos
+quais calculado de acordo com subfórmulas.
+11.
+O ato impugnado, portanto, ao contrário do que
+sustenta o requerente, fixou uma fórmula baseada no impacto
+ambiental, o que se amolda às razões de decidir acolhidas no
+acórdão da ADI 3.378.
+12.
+A propósito, vale ressaltar que o acórdãoparadigma não instituiu fórmulas para cálculo da
+compensação, nem sequer invalidou a utilização do valor do
+empreendimento como parâmetro (nesse sentido, confira-se a
+Rcl 12.887 AgR, Rel. Min. Dias Toffoli, acima citada): apenas
+afirmou-se ser necessário considerar o impacto ambiental e
+descartou-se a aplicação de percentuais mínimos. São
+esclarecedores, nesse sentido, alguns trechos de votos
+proferidos na ADI 3.378, abaixo transcritos:
+MINISTRO CELSO DE MELLO: “(...) Portanto, o
+parágrafo 1º, a meu juízo, com toda a vênia, mostra-se
+compatível com as exigências estabelecidas na Constituição,
+inclusive com a proposta feita, agora, pelo Ministro CARLOS
+ALBERTO MENEZES DIREITO e também acolhida pelo
+eminente Ministro CARLOS BRITTO, Relator, no sentido de
+não se instituir um patamar inferior, mas o de se estabelecer a
+possibilidade de uma relação causal que permita definir o
+montante de recursos precisamente de acordo com o grau de
+impacto ambiental causado pelo empreendimento.”
+MINISTRA CÁRMEN LÚCIA: “(...) para que depois não
+haja questionamento sobre o fato de termos declarado que era
+inconstitucional fixar percentual - e não é o que estamos
+dizendo, mas, sim, que esse percentual não é o que está sendo
+admitido e que a fixação por percentual não é a única aceitável.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926648.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 15
+
+RCL 17364 AGR / DF
+É necessário que se deixe claro, no acórdão, que é
+constitucional, e que se realce isso, talvez na ementa, até para
+evitar questionamentos pelas autoridades.”
+13.
+O ato impugnado não desborda desses
+parâmetros, de modo que sua eventual invalidade deverá ser
+arguída na sede própria, não podendo ser acolhida nos rígidos
+limites da reclamação.
+14.
+Diante do exposto, com base no art. 38 da Lei nº
+8.038/1990 e nos arts. 21, § 1º, e 161, parágrafo único, do RI/STF,
+nego seguimento à reclamação, prejudicado o pedido liminar.”
+
+2.
+O requerente defende a pertinência entre o ato reclamado e
+o dispositivo da decisão-paradigma e, dessa forma, não se discutiria a
+teoria da transcendência dos motivos determinantes. Nessa linha, reitera
+o argumento da proporcionalidade da compensação do impacto
+ambiental, parte da decisão paradigma.
+3.
+
+É o relatório.
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926648.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 11 de 15
+
+21/10/2016
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 17.364 DISTRITO FEDERAL
+VOTO
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (RELATOR):
+1.
+Conheço do recurso, mas lhe nego provimento, pois a
+decisão agravada alinha-se aos fundamentos impugnados no agravo
+regimental.
+2.
+Como exposto em decisão monocrática, a procedência de
+reclamações constitucionais exige a existência de uma relação de estrita
+identidade entre o ato impugnado e o parâmetro de controle. A propósito,
+cito precedente em que também se alegou violação ao acórdão da ADI
+3.378:
+“Agravo regimental na reclamação. ADI nº 3.378/DF.
+Inexistência de identidade de temas entre o ato reclamado e o
+paradigma da Corte. Agravo regimental ao qual se nega
+provimento. 1. Por atribuição constitucional, presta-se a
+reclamação para preservar a competência do STF e garantir a
+autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88),
+bem como para resguardar a correta aplicação das súmulas
+vinculantes (art. 103-A, § 3º, CF/88). 2. Deve haver aderência
+estrita do objeto do ato reclamado ao conteúdo da decisão do
+STF dotada de efeito vinculante e eficácia erga omnes para que
+seja admitido o manejo da reclamatória constitucional. 3. A
+declaração de inconstitucionalidade, com redução do texto do §
+1º do art. 36 da Lei nº 9.985/2000, na ADI nº 3.378/DF, foi no
+sentido de se retirar a obrigatoriedade de o valor mínimo de
+compensação ambiental ser sempre correspondente a meio por
+cento do custo do empreendimento, podendo ser fixada outra
+forma de compensação pelo órgão responsável após estudos
+pertinentes ao caso. 4. Agravo regimental não provido.” (Rcl
+12.887 AgR, Rel. Min. Dias Toffoli)
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926649.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 12 de 15
+
+RCL 17364 AGR / DF
+
+3.
+Dessse modo, observando-se os critérios fixados pela
+jurisprudência do STF no regime da Lei nº 8.038/1990 e CPC/1973,
+vigentes no momento do ajuizamento do presente feito, somente se
+poderia cogitar desrespeito à autoridade do acórdão proferido na ADI
+3.378 caso o ato impugnado houvesse fixado, a priori, percentual mínimo
+de compensação ambiental, o que não ocorreu. A tese do reclamante
+parece pressupor a aplicação da teoria da transcendência dos motivos
+determinantes, já que extrai da fundamentação do acórdão-paradigma –
+especialmente da tese segundo a qual a compensação deve ser
+proporcional ao impacto ambiental – a ilação de que também a fixação de
+percentuais máximos seria inválida. Tal conclusão, porém, não decorre do
+dispositivo da ADI 3.378, o que bastaria, por si só, para negar seguimento
+à reclamação. Nesse sentido:
+“Agravo regimental na reclamação. ADI nº 4.015/PA-MC.
+Inexistência de identidade de temas entre o ato reclamado e o
+paradigma da Corte. Não cabimento da tese da transcendência
+dos motivos determinantes. Agravo regimental ao qual se nega
+provimento.
+1. Por atribuição constitucional, presta-se a reclamação
+para preservar a competência do STF e garantir a autoridade de
+suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para
+resguardar a correta aplicação das súmulas vinculantes (art.
+103-A, § 3º, CF/88).
+2. Há necessidade de aderência estrita do objeto do ato
+reclamado ao conteúdo da decisão do STF dotada de efeito
+vinculante e eficácia erga omnes para que seja admitida a
+reclamatória constitucional.
+3. Agravo regimental não provido.” (Rcl 10.125-AgR/PA,
+Rel. Min. Dias Toffoli – dest. acresc.)
+“AGRAVO
+REGIMENTAL
+NA
+RECLAMAÇÃO.
+PRESTAÇÃO DE CONTAS POR PREFEITO AO TRIBUNAL DE
+CONTAS DOS MUNICÍPIOS. INAPLICABILIDADE DA
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926649.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 13 de 15
+
+RCL 17364 AGR / DF
+TRANSCENDÊNCIA
+DOS
+FUNDAMENTOS
+DETERMINANTES ADOTADOS NO JULGAMENTO DAS
+AÇÕES DIRETAS DE INCONSTITUCIONALIDADE N.
+3.715/TO, 1.779/PE E 849/MT. PRECEDENTES. AGRAVO
+REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (Rcl
+11.479 AgR/CE, Rel.ª Min.ª Cármen Lúcia – dest. acresc.)”
+
+4.
+Há mais, porém. Ainda que se admitisse a invocação dos
+fundamentos adotados na ADI 3.378 como parâmetro de controle para
+fins de reclamação, o reclamante não teria razão. Isso porque os
+percentuais de 0 a 0,5%, contra os quais se insurge a inicial, fazem parte
+da variável denominada “Grau de Impacto nos ecossistemas” (GI),
+calculado com base no disposto no Anexo do Decreto impugnado. O
+referido Anexo explicita que GI = ISB + CAP + IUC, sendo: ISB – impacto
+sobre a biodiversidade; CAP – comprometimento de área prioritária; e
+IUC – influência em unidades de conservação, cada um dos quais
+calculado de acordo com subfórmulas.
+5.
+O ato impugnado, portanto, ao contrário do que sustenta o
+requerente, fixou uma fórmula baseada no impacto ambiental, o que se
+amolda às razões de decidir acolhidas no acórdão da ADI 3.378.
+6.
+A propósito, vale ressaltar que o acórdão-paradigma não
+instituiu fórmulas para cálculo da compensação, nem sequer invalidou a
+utilização do valor do empreendimento como parâmetro (nesse sentido,
+confira-se a Rcl 12.887 AgR, Rel. Min. Dias Toffoli, acima citada): apenas
+afirmou-se ser necessário considerar o impacto ambiental e descartou-se a
+aplicação de percentuais mínimos. São esclarecedores, nesse sentido,
+alguns trechos de votos proferidos na ADI 3.378, abaixo transcritos:
+MINISTRO CELSO DE MELLO: “(...) Portanto, o
+parágrafo 1º, a meu juízo, com toda a vênia, mostra-se
+compatível com as exigências estabelecidas na Constituição,
+inclusive com a proposta feita, agora, pelo Ministro CARLOS
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926649.
+
+Supremo Tribunal Federal
+Voto - MIN. ROBERTO BARROSO
+
+Inteiro Teor do Acórdão - Página 14 de 15
+
+RCL 17364 AGR / DF
+ALBERTO MENEZES DIREITO e também acolhida pelo
+eminente Ministro CARLOS BRITTO, Relator, no sentido de
+não se instituir um patamar inferior, mas o de se estabelecer a
+possibilidade de uma relação causal que permita definir o
+montante de recursos precisamente de acordo com o grau de
+impacto ambiental causado pelo empreendimento.”
+MINISTRA CÁRMEN LÚCIA: “(...) para que depois não
+haja questionamento sobre o fato de termos declarado que era
+inconstitucional fixar percentual - e não é o que estamos
+dizendo, mas, sim, que esse percentual não é o que está sendo
+admitido e que a fixação por percentual não é a única aceitável.
+É necessário que se deixe claro, no acórdão, que é
+constitucional, e que se realce isso, talvez na ementa, até para
+evitar questionamentos pelas autoridades.”
+
+7.
+O ato impugnado não desborda desses parâmetros, de
+modo que sua eventual invalidade deverá ser arguida na sede própria,
+não podendo ser acolhida nos rígidos limites da reclamação.
+8.
+
+Diante do exposto, nego provimento ao agravo regimental.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 11926649.
+
+Supremo Tribunal Federal
+Extrato de Ata - 21/10/2016
+
+Inteiro Teor do Acórdão - Página 15 de 15
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NA RECLAMAÇÃO 17.364
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. ROBERTO BARROSO
+AGTE.(S) : MINISTÉRIO PÚBLICO FEDERAL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DA REPÚBLICA
+AGDO.(A/S) : PRESIDENTE DA REPÚBLICA
+PROC.(A/S)(ES) : ADVOGADO-GERAL DA UNIÃO
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+interno, nos termos do voto do Relator. 1ª Turma, Sessão Virtual
+de 14 a 20.10.2016.
+
+Composição: Ministros Luís Roberto Barroso (Presidente), Marco
+Aurélio, Luiz Fux, Rosa Weber e Edson Fachin.
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 11982329
