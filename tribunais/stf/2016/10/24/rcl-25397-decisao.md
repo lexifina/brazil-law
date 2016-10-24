@@ -1,0 +1,17 @@
+RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À AUTORIDADE DE DECISÃO PROFERIDA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. NÃO CABIMENTO DA RECLAMAÇÃO.
+    Vistos etc.
+    Trata-se de reclamação, com pedido de liminar, proposta por Benedito Filho Rodrigues Moraes contra decisão proferida pelo Juízo da 12ª Vara do Juizado Especial Federal Cível da Seção Judiciária do Pará, no Processo nº 0016407-94.2016.4.01.3900, à alegação de afronta ao que decidido no RE 361.240/MG, submetido à sistemática da repercussão geral.
+    Segundo consta da inicial, apesar da demonstrada a desnecessidade de exigência de pedido de prorrogação para benefícios já concedidos, a autoridade reclamada “(...) julgou em sentido totalmente contrário à tese firmada no RE 631.240/MG, extinguindo o processo sem resolução do mérito, determinando seu arquivamento, sem qualquer publicação da decisão.”
+    É o relatório.
+    1. O artigo 988, § 5º, II, do CPC/2015 prevê a necessidade de esgotamento das instâncias ordinárias para o cabimento da reclamação proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida. Confira-se:
+    “§ 5º É inadmissível a reclamação:
+    II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.”
+    2. Prematura, portanto, a provocação do Supremo Tribunal Federal por meio da presente reclamação, ajuizada contra decisão proferida pelo juízo de primeiro grau. Nesse sentido:
+    “Ementa: CONSTITUCIONAL E PROCESSUAL CIVIL. RECLAMAÇÃO OBJETIVANDO A GARANTIA DE OBSERVÂNCIA DE ACÓRDÃO DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. EXIGÊNCIA CONSTANTE DA PARTE FINAL DO INCISO II DO § 5º DO ART. 988 DO CPC/2015. NÃO PREENCHIMENTO, UMA VEZ QUE SEQUER HOUVE JUÍZO DE ADMISSIBILIDADE DOS RECURSOS EXTRAORDINÁRIO E ESPECIAL INTERPOSTOS CONTRA O ATO RECLAMADO. NÃO CABIMENTO DA RECLAMAÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (Rcl 23476 AgRRcl 23476 AgRRcl 23476 AgRRcl 23476 AgRRcl 23476 AgR/ MS , Rel. Min. Teori Zavascki, 2ª Turma, DJe 18.8.2016)
+    “RECLAMAÇÃO. DECISÃO RECLAMADA QUE INDEFERIU REGISTRO DE CANDIDATURA AO CARGO DE PREFEITO. ALEGAÇÃO DE AFRONTA A DECISÕES DO SUPREMO TRIBUNAL FEDERAL EM SEDE DE REPERCUSSÃO GERAL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS ORDINÁRIAS. RECLAMAÇÃO QUE SE NEGA SEGUIMENTO. PREJUDICADO O EXAME DE PEDIDO LIMINAR.” (Rcl 25130 / DF, Rel. Min. Luiz fux, DJE 21.9.2016)
+    “Ademais, ainda que houvesse falar em erronia da decisão recorrida, inaplicabilidade da tese de repercussão geral ou superação do precedente, caberia ao reclamante promover a distinção no órgão a quo para, acaso negado provimento ao agravo interno e efetivamente demonstrado o fundamento de admissibilidade da reclamação constitucional, instaurar-se, de forma válida, a competência originária desta Suprema Corte em sede reclamatória; não se valer da presente reclamação como atalho processual ou sucedâneo do recurso previsto no §2º do art. 1.030 do Novo CPC.” (Rcl 23689/DF, Rel. Min. Dias Toffoli, DJe 27.4.2016)
+    3. Ante o exposto, forte no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, prejudicado o exame do pedido de liminar.
+    Publique-se.
+    Brasília, 24 de outubro de 2016.
+Ministra Rosa Weber
+Relatora
