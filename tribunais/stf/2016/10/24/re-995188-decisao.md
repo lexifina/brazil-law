@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade ao artigo 145, inciso II e § 2º, da Constituição Federal. Eis o teor do acórdão recorrido:
+    “AGRAVO LEGAL CONTRA DECISÃO MONOCRÁTICA - ARTIGO 557 DO CPC - ECT - TLIF
+     1. Possui o Município competência constitucional prevista no art. 145, II, para instituir taxas segundo o interesse e demanda local, ‘em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição’, em consonância com as disposições previstas nos artigos 77 a 80 do Código Tributário Nacional.
+     2. O C. Supremo Tribunal Federal já pacificou a questão atinente à legalidade da exação ora em exame - ainda que em face de outra municipalidade - ao estabelecer sua exigibilidade frente ao exercício notório do poder de polícia pelo Município. Torna-se prescindível, por consequência lógica do racicínio, a efetiva comprovação, pela Prefeitura, da atividade fiscalizadora hábil a justificar a cobrança.
+    3. Não há falar em isenção concedida pela Municipalidade à ECT, porquanto o art. 20 da revogada Lei do Município de São Paulo nº 9.670/83 isentava da Taxa de Fiscalização e Localização apenas os órgãos da Administração direta, além das fundações e autarquias.
+    4. Ausente disposição expressa acerca das empresas públicas como a ECT, não se pode concluir pela isenção por analogia, sob pena de afronta ao art. 111, II, do CTN, que determina a interpretação literal das normas outorgantes de isenção. Destarte, exigível a taxa executada em face da ECT.
+    5. Manutenção da decisão impugnada, a qual se fundamentou em farta jurisprudência do Superior Tribunal de Justiça a respeito da matéria trazida aos autos.”
+    Decido.
+    Não merece prosperar a irresignação.
+    No tocante ao entendimento do Tribunal de origem no sentido de que é legítima a exação em razão do notório exercício do poder de polícia pelo município, verifica-se que não há divergência em relação à jurisprudência da Corte. Sobre o tema:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E TRIBUTÁRIO. TAXA DE LOCALIZAÇÃO, FUNCIONAMENTO E FISCALIZAÇÃO. REGULARIDADE DO EXERCÍCIO DO PODER DE POLÍCIA: CONSTITUCIONALIDADE. BASE DE CÁLCULO: ÁREA DE FISCALIZAÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI nº 812.563/SP-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 12/2/14 – grifei).
+    “TAXA DE LICENÇA PARA LOCALIZAÇÃO E FUNCIONAMENTO. EXERCÍCIO DO PODER DE POLÍCIA. ART. 145, II, DA CONSTITUIÇÃO. - Ausência de prequestionamento - fundamento suficiente, que não restou impugnado pela agravante. - A cobrança da taxa de localização e funcionamento, pelo Município de São Paulo, prescinde da efetiva comprovação da atividade fiscalizadora, diante da notoriedade do exercício do poder de polícia pelo aparato administrativo dessa municipalidade. Precedentes. - Agravo regimental a que se nega provimento.” (RE nº 222.252/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 14/5/01 – grifei).
+    Ademais, no tocante à aduzida inconstitucionalidade da base de cálculo do tributo, incide a Súmula nº 284 da Corte, por estar essa alegação dissociada dos fundamentos do acórdão recorrido. Com efeito, a instância de origem decidiu a controvérsia analisando tão somente a competência do município para instituir a taxa, o exercício do poder de polícia pela municipalidade e a ausência de isenção fiscal beneficiando a recorrente. Evidente a inovação recursal.
+    Nesse sentido, destaco os seguintes precedentes:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. 1) RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DOS FUNDAMENTOS DO JULGADO RECORRIDO: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2) CONTRARIEDADE AO PRINCÍPIO DA ISONOMIA: IMPOSSIBILIDADE DE INOVAÇÃO DE ARGUMENTOS EM AGRAVO REGIMENTAL. PRECEDENTES. 3) AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 667.051/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 16/5/12).
+    “Embargos de declaração em agravo de instrumento. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Deficiência da fundamentação do recurso extraordinário. Não demonstração da contrariedade à Constituição Federal. Incidência da Súmula 284. 4. O Tribunal de origem não julgou válida lei ou ato de governo local, contestado em face da Constituição Federal. Descabida a invocação do art. 102, III, ‘c’, da CF/88. 5. Agravo regimental a que se nega provimento” (AI nº 792.968/SP-ED, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 2/4/12).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
