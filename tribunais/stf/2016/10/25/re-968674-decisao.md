@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE. DEDUÇÃO DE NEPOTISMO. PLEITO JULGADO IMPROCEDENTE. NOMEAÇÃO DE IRMÃO AO CARGO DE AGENTE POLÍTICO (SECRETÁRIO MUNICIPAL). PEDIDO DE APLICAÇÃO DA SÚMULA VINCULANTE N. 13. IMPROPRIEDADE. HIPÓTESE, A RIGOR, EXCEPCIONADA PELA JURISPRUDÊNCIA DO STF (POR TODOS, RCL 7.590/PR). RECURSO DESPROVIDO.”
+    Opostos embargos declaratórios, foram eles desprovidos em acórdão assim ementado:
+    “EMBARGOS DE DECLARAÇÃO. PRETENSÃO DE CONFRONTO DA DECISÃO COM PRECEDENTE DO STF. DEDUÇÃO TARDIA DE PREQUESTIONAMENTO. NÃO CONHECIMENTO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, caput, da Constituição e à Súmula Vinculante 13. Sustenta que: (i) foram ofendidos os princípios da moralidade, impessoalidade e eficiência; (ii) análise da existência de nepotismo deve ser feita caso a caso; (iii) “ainda que tivesse sido comprovada a capacidade técnica do agente público denunciado, é certo que o abrandamento do comando sumular referido – afastando-se da concepção de nepotismo a nomeação de parente para cargos de natureza política – não se coaduna com os princípios constitucionais de observância obrigatória”.
+    O recurso extraordinário é inadmissível. Isso porque o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal no sentido da inaplicabilidade da Súmula Vinculante 13 a cargos políticos, ressalvados os casos de inequívoca falta de razoabilidade, por manifesta ausência de qualificação técnica ou inidoneidade moral. Confiram-se: RE 579.951, Rel. Min. Ricardo Lewandowski; Rcl 6.650-MC-AgR, Rel. Min. Ellen Gracie, cuja ementa transcrevo abaixo:
+    “AGRAVO REGIMENTAL EM MEDIDA CAUTELAR EM RECLAMAÇÃO. NOMEAÇÃO DE IRMÃO DE GOVERNADOR DE ESTADO. CARGO DE SECRETÁRIO DE ESTADO. NEPOTISMO. SÚMULA VINCULANTE Nº 13. INAPLICABILIDADE AO CASO. CARGO DE NATUREZA POLÍTICA. AGENTE POLÍTICO. ENTENDIMENTO FIRMADO NO JULGAMENTO DO RECURSO EXTRAORDINÁRIO 579.951/RN. OCORRÊNCIA DA FUMAÇA DO BOM DIREITO. 1. Impossibilidade de submissão do reclamante, Secretário Estadual de Transporte, agente político, às hipóteses expressamente elencadas na Súmula Vinculante nº 13, por se tratar de cargo de natureza política. 2. Existência de precedente do Plenário do Tribunal: RE 579.951/RN, rel. Min. Ricardo Lewandowski, DJE 12.9.2008. (...) 6. Agravo regimental improvido”.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 25 de outubro de 2016.
+Ministro Luís Roberto Barroso
+Relator
