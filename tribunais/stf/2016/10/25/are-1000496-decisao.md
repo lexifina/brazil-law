@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “SERVIDOR PÚBLICO MUNICIPAL – TEMPO DE SERVIÇO PARA FINS DE OBTER PROGRESSÃO PROFISSIONAL - CLASSIFICAÇÃO AUTOMÁTICA ART. 96 DA LEI 7.169/96 – INCIDÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO – ALTERAÇÃO DE POSICIONAMENTO.
+    O Superior Tribunal de Justiça tem o entendimento de que a prescrição da pretensão de enquadramento/enquadramento funcional atinge o próprio fundo de direito, na medida que constitui ato único de efeitos concretos.
+    Assim, decorridos mais de cinco anos desde o posicionamento dos antigos empregados públicos, regidos pelo regime celetista, no regime estatutário, pela transposição ocorrida por força de determinação Constitucional e nos termos da Lei Municipal nº 7196/1996 em relação aos servidores do Município de Belo Horizonte, que implicou em enquadramento neste novo regime e, com a submissão a este, em reenquadramento funcional em virtude de 1ª progressão funciona1 no ano 2000, o que se deu, via ato único de efeitos concretos, incide, no caso, a PRESCRIÇÃO DO FUNDO DE DIREITO, uma vez ajuizada ação apenas no ano de 2013”.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos 5º, incisos XXXV, e 37 da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso extraordinário com os seguintes fundamentos:
+    “(…).
+    Inicialmente, no que tange à alegada ofensa ao disposto no artigo 5º, XXXV, da Constituição da República, registro que o Supremo Tribunal Federal já apreciou a matéria, por meio do regime de repercussão geral, no julgamento do AI nº 791.292/PE, de relatoria do Ministro Gilmar Mendes (DJe de 13/8/2010). Naquela oportunidade, o Tribunal ad quem reconheceu a repercussão geral do tema em apreço e reafirmou a sua jurisprudência no sentido de que o referido dispositivo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, não sendo necessário, todavia, o exame pormenorizado de cada uma das alegações ou provas produzidas pela parte, razão pela qual fica obstado o acesso à instância superior, nos termos do artigo 1.030, I, do Código de Processo Civil de 2015 (CPC/2015).
+    Quanto ao mais, verifica-se que a controvérsia foi solucionada pela Turma Julgadora com lastro na interpretação da Lei Municipal n º 7.169/96”.
+    Quanto ao mais, verifica-se que a controvérsia foi solucionada pela Turma Julgadora com lastro na interpretação da Lei Municipal n º 7.169/96.
+    Assim, para concluir de forma diversa, seria necessário proceder-se ao reexame e à reavaliação dos termos da legislação local pertinente, finalidade que escapa ao âmbito do recurso extraordinário, conforme entendimento consagrado no Verbete nº 280 da Súmula do Supremo Tribunal Federal.
+    Por fim, a pretensão não merece ser conhecida também pela alínea “c”, visto que o recorrente não desenvolveu nenhuma argumentação referente ao cabimento do recurso com nessa hipótese.
+    À vista da deficiência na fundamentação do recurso, incide o Enunciado Sumular nº 284 do Supremo Tribunal Federal”.
+    Decido.
+    A irresignação não merece prosperar, uma vez que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636/STF. Nesse sentido, destaca-se:
+    “Agravo regimental no recurso extraordinário com agravo. Ofensa ao art. 5º, inciso XXXV, da Constituição Federal. Não ocorrência. Administrativo. Servidor público. Aposentadoria. Revisão. Prescrição. Verificação. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A jurisdição foi prestada pela Corte de origem mediante decisão suficientemente motivada. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido” (ARE nº 781.423/RJ-AgR, Primeira Turma, de minha relatoria, DJe de 24/6/14).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO CONTRA A FAZENDA PÚBLICA. PRAZO PRESCRICIONAL. ACÓRDÃO FUNDAMENTADO NO DECRETO N. 20.910/1932. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 776.908/DF-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia , DJe de 10/2/14).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, conheço parcialmente do agravo para, nessa parte, negar-lhe provimento. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 25 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
