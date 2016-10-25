@@ -1,0 +1,8 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da Terceira Região.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI; 146, III; 149; 150, III, a; 165, §9º, e 167, IV, todos da Carta. Sustenta, em síntese, a inconstitucionalidade da Lei n. 10.168/2000, que criou a CIDE-royalties. Afirma que o tributo em questão deveria ter sido criado mediante lei complementar. Informa não ter sido observado o princípio da referibilidade. Defende que a mencionada exação, instituída pela Lei n. 10.168/2000, não poderia incidir sobre valores pagos em virtude de contratos firmados antes do início de sua vigência, sob pena de ofensa ao princípio da irretroatividade da lei tributária.
+    Cumpre registrar que o Plenário do Supremo Tribunal Federal, nos autos do RE 928.943-RG, de relatoria do Ministro Luiz Fux, reconheceu a repercussão geral da matéria em questão. Aquele recurso extraordinário, inserido na sistemática da repercussão geral sob o Tema de n. 914, analisará a constitucionalidade da CIDE-royalties, trazendo à discussão as alegações de violação ao princípio da isonomia, a inexistência de referibilidade, a ausência de ação interventiva e o desvio de finalidade.
+    Diante do exposto, reconhecendo parcial identidade entre a questão controvertida nestes autos e a matéria a ser apreciada no Tema 914 da sistemática da repercussão geral, determino o sobrestamento deste recurso em Secretaria até que seja concluído o julgamento do RE 928.943-RG.
+    Publique-se.
+          Brasília, 25 de outubro de 2016.
+Ministro Luís Roberto Barroso
+Relator
