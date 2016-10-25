@@ -1,0 +1,22 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta pelo Município de Passagem Franca em face de decisão proferida pelo Tribunal Regional do Trabalho da 16ª Região, nos autos do Processo 0016257-46.2014.5.16.0000.
+    Na petição inicial, alega-se que a decisão reclamada ofendeu a autoridade desta Corte, proferida na Súmula Vinculante 10, ao deixar de aplicar o art. 1º, § 3º, da Lei Municipal 250/2009.
+    Afirma-se que, apesar de essa lei definir o valor que deve ser pago como Requisição de Pequeno Valor, o juízo trabalhista com competência sobre seu território determina o sequestro de valores referentes a requisitórios de condenações superiores àquele teto. (eDOC 2, p. 2)
+    Requer-se a concessão de liminar para que a Vara do Trabalho de São João dos Patos se abstenha de sequestrar valores superiores aos fixados pela Lei Municipal 250/2009 e, ao final, a cassação do ato reclamado.
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    Observo que a autoridade reclamada, ao analisar o caso dos autos, consignou a ausência dos requisitos necessários para conceder a antecipação da tutela recursal. Nesse sentido, extrai-se o seguinte trecho da decisão:
+    “Isto posto, ausentes os pressupostos para concessão da medida liminar, indefiro a liminar requerida”. (eDOC 8, p. 5)
+    Por sua vez, a decisão desta Corte indicada como afrontada, a Súmula Vinculante 10, trata de limite a decisão colegiada de órgão fracionário de Tribunal, não dos requisitos para decisão monocrática liminar. Transcrevo seu enunciado:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte”.
+    Assim, não se verifica similitude entre o decidido no ato reclamado e o assentado por esta Corte na Súmula Vinculante 10, o que acarreta a inadmissibilidade da reclamação, por ausência de pressuposto de cabimento necessário.
+    Além disso, é firme a jurisprudência do Supremo Tribunal Federal no sentido de que o instrumento constitucional da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal, conforme ocorre nestes autos.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. RECURSO. CAPACIDADE POSTULATÓRIA. SÚMULA VINCULANTE 10 DO SUPREMO TRIBUNAL FEDERAL. OFENSA. INEXISTÊNCIA. SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A violação ao princípio da reserva de plenário se configura quando uma norma é declarada inconstitucional ou tem sua aplicação negada pelo Tribunal de origem sob fundamento extraído da Carta Magna, conforme disposto pela Súmula Vinculante nº 10 “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte”. 2. A reclamação é inadmissível quando manejada como sucedâneo da ação rescisória ou de recurso. 3. Agravo regimental DESPROVIDO”. (Rcl 21961 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 2.3.2016)
+    “USURPAÇÃO DE COMPETÊNCIA DO STF. NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO. EMPRÉSTIMO COMPULSÓRIO. ELETROBRÁS. ALEGAÇÃO DE VIOLAÇÃO DA SÚMULA VINCULANTE Nº 10. MERA INTERPRETAÇÃO DE TEXTO LEGAL QUE NÃO CONSUBSTANCIA DECLARAÇÃO DE INCONSTITUCIONALIDADE POR ÓRGÃO FRACIONÁRIO. PRECEDENTES. Decisões reiteradas desta Corte têm respaldado a prerrogativa de conferir determinada interpretação à lei como atributo inerente à própria atividade jurisdicional, o que, em consequência, afasta a equiparação proposta pela parte vencida entre as hipóteses de interpretação desfavorável a seus interesses e de declaração de inconstitucionalidade do dispositivo analisado. Agravo regimental a que se nega provimento”. (Rcl 12107 AgR, rel. Min. Rosa Weber, Tribunal Pleno, DJe 1º.8.2012)
+    Ante o exposto, nego seguimento à reclamação. Prejudicada a análise do pedido liminar. (RISTF, art. 21, § 1º)
+    Publique-se.
+    Brasília, 25 de outubro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
