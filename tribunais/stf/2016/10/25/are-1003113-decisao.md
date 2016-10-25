@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ACIDENTE DE TRABALHO. AÇÃO REGRESSIVA DO INSS CONTRA O EMPREGADOR. ARTIGO 120 DA LEI Nº 8.213/91. CONSTITUCIONALIDADE. CULPA CONCORRENTE DA VÍTIMA RESPONSABILIDADE DO TOMADOR E DO PRESTADOR DO SERVIÇO.
+    A Lei nº 8.213/91, em seu artigo 120, prevê o ressarcimento ao INSS dos valores despendidos com o pagamento de benefícios previdenciários decorrentes de acidentes de trabalho, exigindo, para a responsabilização do empregador, prova de nexo causal entre a conduta omissiva - consistente em 'negligência quanto às normas padrão de segurança e higiene do trabalho indicados para a proteção individual e coletiva' - e o infortúnio que deu causa ao pagamento da prestação previdenciária.
+    A constitucionalidade do referido dispositivo foi reconhecida por esta Corte no julgamento da Arguição de Inconstitucionalidade na AC nº 1998.04.01.023654-5, restando afastada eventual alegação de incompatibilidade com a obrigação de custeio garantida pelo artigo 7º, XXVIII, da CF, que prevê o pagamento, a cargo do empregador, de seguro contra acidentes de trabalho.
+    Havendo culpa concorrente da vítima, a empresa demandada deve arcar com o ressarcimento de somente metade dos valores pagos pelo INSS a título de benefício.
+    Em caso de terceirização de serviços, o tomador e o prestador respondem solidariamente pelos danos causados à saúde dos trabalhadores, inclusive em ação regressiva do INSS.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que ocorreu violação aos arts. 5º, II; 7º, XXVIII; 150, IV; 195, § 5º; e 201, § 10, todos da Constituição Federal.
+    O recurso é inadmissível, tendo em vista que a solução da controvérsia pressupõe, necessariamente, a análise de legislação infraconstitucional e o reexame dos fatos, do material probatório contantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. Vejam-se, nesse sentido, o RE 763.648-AgR, Relª Minª Rosa Weber; e o ARE 897.801-AgR, Rel. Min. Gilmar Mendes, assim ementado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Acidente de trabalho. Ação regressiva movida pelo INSS. Responsabilidade do empregador. Necessidade do revolvimento do conjunto fático-probatório. Incidência do Enunciado 279 da Súmula do STF. Reexame de matéria infraconstitucional. 3. Ofensa reflexa à Constituição Federal. 4. Alegação de ofensa ao inciso IX do art. 93 da Constituição Federal. Inexistência. Precedente. AI-QO-RG 791.292, Tema 339. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 25 de outubro de 2016.
+Ministro Luís Roberto Barroso
+Relator
