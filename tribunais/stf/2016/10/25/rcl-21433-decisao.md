@@ -1,0 +1,22 @@
+RECLAMAÇÃO. SEGURANÇA CONCEDIDA PELO ÓRGÃO ESPECIAL DA CORTE DE ORIGEM PARA CASSAR OS EFEITOS DO ATO RECLAMADO. PERDA DE OBEJTO.
+    Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada pelo Município de Fortaleza, com fundamento no art. 102, I, “l”, da Constituição Federal, contra decisão proferida pelo Presidente do Tribunal de Justiça do Ceará, nos autos do Processo Administrativo 8510549-14.2012.06.0000, à alegação de afronta à autoridade das decisões proferidas nas Ações Diretas de Inconstitucionalidade 4.357 e 4.425.
+    O Município alega que a Presidência do TJCE, em dezembro de 2013, alterou o cálculo da parcela anual referente ao regime especial de pagamento de precatórios instituído pelo art. 97 do ADCT, passando a adotar entendimento segundo o qual “(...) ao ente federado compete optar apenas pela periodicidade do depósito (mensal ou anual), sendo prerrogativa do Tribunal de Justiça, porém, estabelecer até quando o ente público permanecerá no regime especial, através da definição do valor da parcela".
+    Afirma ser indevida exigência de vinculação da parcela a percentual da receita corrente líquida, porquanto optante do modelo previsto no art. 97, § 1º, II, do ADCT, o qual prevê o depósito anual do valor total dos precatórios vencidos dividido pelo número de anos restantes no regime especial de pagamento.
+    Anota que o STF, apesar de declarar a inconstitucionalidade da Emenda Constitucional 62/2009, determinou a continuidade dos pagamentos de precatórios na forma como já vinham realizando até a decisão proferida pelo Supremo Tribunal Federal em 14/03/2013. Acrescenta que, ao modular os efeitos da decisão, em 25 de março de 2015, foi mantido o regime especial de pagamento de precatórios pelo prazo de 5 (cinco) exercícios financeiros, contados de 1º de janeiro de 2016.
+    O eminente Ministro Ricardo Lewandowski, presidente então em exercício, indeferiu o pedido liminar e requisitou informações, sendo estas prestadas pela autoridade reclamada.
+    É o relatório.
+    Decido.
+    1. O ato impugnado na presente reclamação, proferido pelo Presidente do Tribunal de Justiça do Estado do Ceará no Processo Administrativo nº 8510549-14.2012.8.06.0000, resultou suspenso ao julgamento do Mandado de Segurança nº 0625950-95.2015.8.06.0000, em trâmite perante aquela Corte Estadual.
+    A decisão que determinou a referida suspensão é objeto da Rcl 23.235, também de minha relatoria, ajuizada pela Ordem dos Advogados do Brasil - Seção do Estado do Ceará e pelo Conselho Federal da Ordem dos Advogados do Brasil. Em 04.5.2016, indeferi o pedido liminar formulado naqueles autos e requisitei informações à autoridade reclamada, a qual apontou que a segurança restou concedida pelo Órgão Especial do TJCE, nos termos da seguinte ementa:
+    EMENTA: CONSITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. EMENDA CONSTITUCIONAL Nº 62/2009. REGIME ESPECIAL DE PAGAMENTO DE PRECATÓRIOS. DECLARAÇÃO DE INCONSTITUCIONALIDADE EM SEDE DE CONTROLE ABSTRATO. ADIN 4425 E 4357. MODULAÇÃO DE EFEITOS.
+    I – O regime especial de pagamento de precatórios previsto no art. 97 do ADCT da Constituição Federal é aplicável até 31 de dezembro de 2020, por força da modulação dos efeitos das decisões proferidas pelo supremo tribunal federal, no julgamento das ações diretas de inconstitucionalidade 4425 e 4357.
+    II – É ilegal o ato do Presidente do Tribunal que altera de ofício a forma de cálculo e o valor da parcela anual do ente devedor vinculado ao regime especial do art. 97, § 1º, II, do ADCT, da Constituição Federal, mediante a aplicação de percentual das respectivas receitas correntes líquidas como critério para a determinação do valor das parcelas vincendas.
+    III – Até o final do período da eficácia da modulação dos efeitos da declaração de inconstitucionalidade do regime especial de pagamento de precatórios de que trata o art. 97 do ADCT, o ato de autoridade que impõe ao ente devedor outro e mais gravoso regime de parcelamento viola o direito próprio líquido e certo de realizar o pagamento das parcelas futuras com estrita observância dos critérios e das normas do regime a que está vinculado.
+    IV – Ordem concedida.
+    3. Concedida a ordem pleiteada pelo Município de Fortaleza para cassar o ato ora reclamado, fica evidente a perda de objeto do presente feito.
+    4. Ante o exposto, forte no art. 21, IX, do RISTF, julgo prejudicada a presente reclamação.
+    Publique-se.
+    Brasília, 25 de outubro de 2016.
+Ministra Rosa Weber
+Relatora
