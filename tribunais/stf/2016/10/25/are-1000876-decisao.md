@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Turma Recursal dos Juizados Especiais da Terceira Região – Seção Judiciária de São Paulo, assim ementado:
+    “TRIBUTÁRIO. ADMINISTRATIVO. ERRO DA ADMINISTRAÇÃO FEDERAL. SECRETARIA DA RECEITA FEDERAL (SRF). NÚMERO DE CPF EMITIDO PARA DUAS PESSOAS FÍSICAS. ILEGITIMIDADE PASSIVA DA FAZENDA ESTADUAL. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. TEORIA DO DUTY TO MITIGATE THE LOSS. DANO MORAL INEXISTENTE. SENTENÇA DE PROCEDÊNCIA. PROVIMENTO DOS RECURSOS DA UNIÃO E ESTADO DE SÃO PAULO.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso X, e 37, § 6º, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o acórdão recorrido concluiu pela improcedência do pedido de indenização por danos morais em questão amparado no conjunto fático-probatório constante dos autos. Colhe-se de seu voto condutor os seguintes fundamentos:
+    “9. Com efeito, compulsando a prova dos autos que vieram com a petição inicial (arquivo anexado em 15/04/2013) fica evidente que a própria SRF constatou a duplicidade de nomes para um mesmo CPF, tanto que enviou à parte autora ofício no longínquo ano de 2006 sobre a resolução da questão (fl.15), ou seja, não ouve qualquer iniciativa da demandante em procurar a Administração Tributária para regularização da situação em seus cadastros a fim de evitar possíveis dissabores em virtude do engano cometido.
+    9.1. Por outro lado, não é crível querer exigir danos morais em 2013 quando o erro administrativo foi ocasionado antes de 2006, sem que, como dito acima, não restar comprovado que diligenciou pedido de regularização logo que constatara algum problema relacionado com o mesmo engano da Administração. Nesse sentido trago à colação o seguinte aresto do C. STJ:”
+    Nesse caso, para acolher a pretensão do recorrente e ultrapassar o entendimento firmado pelo Tribunal de origem seria imprescindível o reexame dos fatos e provas dos autos, o que se mostra incabível no âmbito do recurso extraordinário. Incidência da Súmula nº 279/STF. Sobre o tema:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL DO ESTADO POR OMISSÃO CULPOSA. RELEVÂNCIA DA CULPA ‘IN VIGILANDO’ NA PRODUÇÃO DO RESULTADO DANOSO. DISCUSSÃO EMINENTEMENTE FÁTICA. ENUNCIADO 279 DA SÚMULA/STF. Agravo regimental a que se nega provimento” (RE nº 461.073/RS-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 2/12/10).
+    “CONSTITUCIONAL. ADMINISTRATIVO. RESPONSABILIDADE OBJETIVA DO ESTADO. ART. 37, § 6° DA CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE CULPA EXCLUSIVA DA VÍTIMA. SÚMULA 279 do STF. I - A apreciação do recurso extraordinário, no que concerne à alegada ofensa ao art. 37, § 6°, da Constituição, encontra óbice na Súmula 279 do STF. Precedentes do STF. II - Agravo regimental improvido” (RE nº 484.277/SE-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 7/12/07).
+    “RE: descabimento: debate relativo à existência de nexo de causalidade a justificar indenização por dano material e moral, que reclama o reexame de fatos e provas: incidência da Súmula 279” (AI nº 359.016/DF-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 7/5/04).
+    Ademais, ressalte-se que o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do RE nº 570.690/RJ, Relator o Ministro Menezes Direito, concluiu pela ausência da repercussão geral da matéria constitucional versada nesse feito. O assunto corresponde ao tema 37 da Gestão por Temas da Repercussão Geral do portal do STF na internet e discute, “à luz do art. 37, § 6º, da Constituição Federal, o dever do Estado de pagar, ou não, indenização por danos morais decorrentes da emissão do mesmo número de Cadastro de Pessoa Física - CPF para mais de uma pessoa e que implicou indevida inscrição em cadastro restritivo de crédito”.
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
