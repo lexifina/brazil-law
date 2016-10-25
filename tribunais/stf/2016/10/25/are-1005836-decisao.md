@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “APELAÇÃO – Execução fiscal – IPTU e Taxas de Prevenção e Extinção de Incêndios, Coleta de Lixo e Conservação de Vias e Logradouros dos exercícios de 1999 e 2000 – Sentença que extinguiu o processo reconhecendo a ocorrência da prescrição – Ajuizamento da ação ocorrido tardiamente – Inteligência do artigo 174, caput, do CTN – Aplicação da Súmula 409 do C. SJT – Ausência de comprovação de causas de suspensão ou interrupção do prazo prescricional – Ocorrência da prescrição – Sentença mantida – Recurso não provido”. (eDOC 1, p. 41)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º e 5º, incisos XXXV e LV, do texto constitucional.
+    Nas razões recursais, alega-se ofensa a artigos do Código Tributário Nacional e aos princípios do devido processo legal, contraditório e ampla defesa.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código Tributário Nacional) e o conjunto probatório constante dos autos, consignou a prescrição do crédito tributário. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Proposta a ação sem notícia de qualquer motivo que houvesse determinado a suspensão ou a interrupção do prazo prescricional, o crédito já havia sido atingido pela prescrição quinquenal.
+    Os créditos executados são relativos ao IPTU e Taxas de Prevenção e Extinção de Incêndios, Coleta de Lixo e de Conservação de Vias e Logradouros dos exercícios de 1999 e 2000, mas a execução fiscal foi proposta somente em 23/05/2006, ou seja, após o transcurso do lustro prescricional.
+    Logo, a prescrição referida no artigo 174 do Código Tributário Nacional será comprovada ante o tardio manego da execução, em evidente desídia da exequente”. (eDOC 1, p. 43)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. PRESCRIÇÃO. CITAÇÃO. 1. O Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que a matéria referente à ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não apresenta repercussão geral. Precedente: o RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.08.2013. 2. O acórdão recorrido está devidamente fundamentado, ainda que divirja dos interesses da parte Recorrente. Precedente: AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010. 3. A ocorrência do lustro prescricional do  crédito tributário no caso concreto cinge-se ao âmbito infraconstitucional. Súmula 279 do STF. 4. Agravo regimental a que se nega provimento”. (ARE 921204 AgR/SP, Rel. Min. Edson Fachin, Primeira Turma, DJe 17.2.2016)
+    “Agravo regimental no agravo de instrumento. Tributário e processo civil. Execução fiscal. Prescrição. 1. Reexame de fatos e provas. Súmula n. 279 do Supremo Tribunal Federal. 2. Análise de norma infraconstitucional. Ofensa constitucional indireta. 3. Inviabilidade do recurso extraordinário interposto com fundamento na alínea ‘c’ do inciso III do art. 102 da Constituição da República. 4. Agravo Regimental ao qual se nega provimento”. (AI 852254 AgR/PE, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4.10.2012)
+    Por fim, no tocante à suposta violação ao devido processo legal, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de outubro de 2016.
+     Ministro Gilmar Mendes
+     Relator
+      Documento assinado digitalmente
