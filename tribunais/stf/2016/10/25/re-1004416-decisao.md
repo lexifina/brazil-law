@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade aos artigos 7°, XI, 195, I, “a” e 201,§ 11, da Constituição Federal.
+    O acórdão restou assim ementado:
+    TRIBUTÁRIO. PARTICIPAÇÃO NOS LUCROS DA EMPRESA. CONTRIBUIÇÃO PREVIDENCIÁRIA. NÃO INCIDÊNCIA. ART. 28, § 9º, 'J', LEI 8.212/91. HONORÁRIOS ADVOCATÍCIOS.
+    1. É inexigível contribuição previdenciária sobre a participação nos lucros da empresa quando paga ou creditada de acordo com lei específica, em face de expressa previsão legal sobre o tema (art. 28, § 9º, alínea 'j', da Lei 8.212/91). O fato de o acordo coletivo ter sido assumido diretamente pela totalidade dos empregados da empresa, e não pelo sindicato, não tem o condão de descaracterizar tais verbas para fins tributários, mostrando-se evidente que ela continua se revestindo formalmente das características inerentes à participação nos lucros da empresa.
+    2. Apelação da parte autora parcialmente acolhida para elevar os honorários advocatícios.
+    Decido.
+    A irresignação não merece prosperar.
+    O Plenário desta Corte, nos autos do RE nº 569.441, ratificou a sua jurisprudência da Corte no sentido de que o preceito contido no art. 7º, XI, da Constituição não é auto-aplicável e que a sua regulamentação se deu com a edição da Medida Provisória nº 794/94, convertida na Lei nº 10.101/2000.
+     No caso dos autos, o Tribunal de origem entendeu ser incontroversa a inexigibilidade de contribuição previdenciária sobre a participação nos lucros da empresa quando paga ou creditada de acordo com lei específica, em face de expressa previsão legal sobre o tema (art. 28, § 9º, alínea 'j', da Lei 8.212/91), nos seguintes termos:
+    “No caso, defende a apelante que a verba não pode ser formalmente caracterizada como participação nos lucros porque, quando de sua instituição, não foram observadas as regras previstas na lei específica, já que o sindicato não teria tomado parte nas negociações do acordo coletivo, desobedecendo, assim, a previsão do art. 2º, inciso I, da Lei 10.101/2001 (que prevê a participação de comissão escolhida pelas partes, integrada, também, por um representante indicado pelo sindicato da respectiva categoria).
+    Ocorre que, conforme bem destacado pelo Julgador sentenciante, embora na primeira reunião o sindicato tão tenha firmado a ata, por discordar com a proposta, alguns dias depois, houve nova reunião, na qual a integralidade dos funcionários da empresa concordou com o plano de participação, firmando ata de convalidação (ev. 01, OUT10). Nesse contexto, a instituição da verba em comento acabou se dando nos termos do art. 2º, inciso II, da Lei 10.101/2001, ou seja, por acordo coletivo.
+    No ponto, registro que a própria legislação trabalhista prevê hipóteses em que a negociação coletiva pode ser assumida pelos próprios empregados, suprindo a presença do sindicato. Isso porque, em última instância, este (sindicato) tem a função precípua de representar e garantir os direitos daqueles (empregados), de modo que não se mostra razoável e proporcional invalidar um ato pela ausência de representação sindical quando verificado que a vontade dos trabalhadores foi acolhida e seus direitos assegurados. Assim, se até mesmo a legislação trabalhista apresenta certa flexibilidade nessa questão, não há como entender, no caso, que o mero fato de o acordo coletivo ter sido feito diretamente pela totalidade dos trabalhadores da empresa possa descaracterizar tais verbas para fins tributários, até porque se mostra evidente que ela continua se revestindo formalmente das características inerentes a valores pagos a título de participação nos lucros da empresa.”
+    Como se vê, o Tribunal de origem decidiu a causa com base na legislação infraconstitucional de regência(Lei nº 10.101/2000 e Lei nº 8.212/91), sendo certo que a afronta ao texto constitucional, caso ocorresse, seria de forma reflexa ou indireta, o que não enseja a abertura da via extraordinária. Além do mais, dissentir do que decidido importaria no revolvimento do acervo fático e probatório, providência vedada, a teor da Súmula 279/STF.
+    Ante o exposto, nos termos do artigo 21, § 1º do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
