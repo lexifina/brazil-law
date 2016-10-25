@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - MATÉRIA FÁTICA - INTERPRETAÇÃO DE NORMAS LEGAIS - INVIABILIDADE - AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à demonstração da autoria e da materialidade do crime de tráfico de entorpecentes. No extraordinário cujo trânsito busca alcançar, o recorrente João Paulo Pereira da Silva alega a violação dos artigos 5º, inciso XLVI, e 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão recorrido falta de fundamentação. Diz não comprovadas nem a materialidade nem a autoria do ilícito. Sustenta a negativa de vigência do artigo 33, § 4º, da Lei nº 11.343/06, diante da não aplicação da causa de diminuição de pena.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica. Estes agravos somente servem à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho os seguintes trechos do acórdão recorrido:
+    A prova oral mencionada acima, aliada com os demais elementos de prova amealhados aos autos, e a quantidade de drogas encontradas, revela com segurança a finalidade mercantil da conduta dos réus.
+    Não se pode olvidar que os depoimentos dos policiais militares merecem inteira acolhida, pois não há nos autos elementos que indiquem qualquer motivo para incriminarem gratuitamente os acusados. Narram versões harmônicas quanto aos pontos fundamentais, de modo a elucidar convincentemente a verdade dos fatos.
+    (…)
+    Importante observar, nessa linha de análise da prova, que os réus confessaram aos policiais, informalmente, que estavam naquele local para praticar o comércio de drogas.
+    Não é plausível a justificativa apresentada pelos acusados, no sentido de que teriam se encontrado ocasionalmente naquela cidade. Os firmes relatos dos policiais desmentem essa pueril informação, na medida em que atestam terem sido comunicados por um cidadão sobre as atividades de tráfico desenvolvidas pelos réus, e em poder deles efetivamente apreenderam quantidade e diversidade significativas de entorpecentes.
+    (...)
+    A materialidade do delito encontra-se consubstanciada no auto de prisão em flagrante (fls.02/13), boletim de ocorrência (fls.21/24), auto de exibição e apreensão (fls.27/29), laudo de constatação preliminar (fls.25/26),laudo de exame químico-toxicológico definitivo (f1s.66/69), bem como pela prova oral produzida em Juízo.
+    Quanto à autoria, observo que também emerge das provas carreadas aos autos.
+    Concluir de modo diverso requer o reexame de matéria fática. As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Quanto à dosimetria da pena, assim restou assentado:
+    Atento às circunstâncias judiciais, fixo a pena-base, na primeira fase, no mínimo legal, ou seja, 5 anos de reclusão e 500 dias multa, no valor unitário mínimo.
+    Na segunda fase, não há agravante e, embora presente a atenuante da menoridade relativa, inviável sua aplicação para reduzir a reprimenda para patamar aquém do mínimo legal, a teor da Súmula nº 231, co Col. STJ: “a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.”
+    Na terceira fase, não há causa de aumento, e é inviável a aplicação do redutor, tendo em vista a comprovação nos autos de que os réus vinham se dedicando ao comércio ilegal de drogas naquela cidade.
+    A expressiva quantidade e a diversidade de drogas apreendidas em poder dos apelantes mostram-se como circunstâncias idôneas para impedir a aplicação do benefício redutor, uma vez denotadora de que, para ter acesso a elas, estavam se dedicando frequentemente à traficância.
+    (…)
+    No que tange ao regime penitenciário, anoto que a identificação do meio mais adequado à repressão e prevenção dos delitos deve observar os critérios do art. 33, §§ 2º e 3º do Có. Penal, bem como do art. 42 da Lei 11.343/2006, quando se tratar de delitos previstos na Lei de Drogas.
+    No caso em tela, a fixação do regime mais gravoso para o início do desconto da pena privativa de liberdade se impõe pela natureza (cocaína) e expressivo número de estupefacientes apreendidos, a atrair a incidência do art. 42 da Lei e Tóxicos.
+    À toda evidência, a não aplicação da causa de diminuição de pena à condenação imposta ao recorrente foi decidida com fundamento da legislação de regência. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal.
+    3. Ante o quadro, conheço do agravo interposto por João Paulo Pereira da Silva e o desprovejo.
+    4. Publiquem.
+Brasília, 25 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
