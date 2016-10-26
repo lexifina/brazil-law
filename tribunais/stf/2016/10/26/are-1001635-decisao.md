@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+    ”AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. CONDENAÇÃO IMPOSTA AO BANCO ITAÚ DE DEVOLUÇÃO DAS QUANTIAS DESCONTADAS A TÍTULO DE TARIFA DE RENOVAÇÃO DE CADASTRO. FASE DE EXECUÇÃO. LEGITIMIDADE DO MINISTÉRIO PÚBLICO.
+    Cuida-se de execução provisória iniciada pelo Ministério Público nos autos da ação civil pública, determinando o douto magistrado a quo a intimação do réu, ora Agravante, para cumprir, no prazo de 10 (dez) dias, a obrigação de fazer consistente no depósito de R$58,00 (cinquenta e oito reais), diretamente na conta de cada correntista, quantia equivalente a valores pagos indevidamente pelos consumidores a titulo de tarifa de renovação cadastral.
+    A legitimação do Ministério Público, tanto na fase de conhecimento, quanto na fase executiva da ação civil pública, encontra respaldo no inciso III do artigo 81 do Código de Defesa do Consumidor, ou seja, atua o órgão ministerial na defesa de interesses/direitos individuais homogêneos.
+    A pretexto de perquirir a ausência do julgado que se pretende executar de determinação expressa no modo de devolução das quantias que descontou individualmente aos correntistas, desarrazoado mostra-se impor o ônus econômico processual da execução a cada consumidor lesado para que receba verba descontada, também diretamente de sua conta, de forma indevida.
+    O Código de Defesa do Consumidor não determina um procedimento específico de liquidação, não havendo óbice, portanto à realização de liquidação por simples cálculos dando efeito à execução.
+    Descabe condicionar a execução do julgado à prestação de caução, porquanto ausente nos autos demonstração apontando para a efetiva irreversibilidade na medida contra a qual se insurge o banco, na hipótese de serem providos os agravos de instrumentos interpostos nas instâncias superiores.
+    RECURSO DESPROVIDO” (págs. 43-44 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação aos arts. 5°, LIV; e 127, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    De início, anoto que o Tribunal de origem decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (código do Consumidor). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário
+    Além disso, esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), Rel. Min. Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Ementa: Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 26 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
