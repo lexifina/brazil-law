@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à concessão do benefício de auxílio-doença, ante à comprovação da incapacidade laborativa da autora. Confirmou, também, o entendimento de que os cálculos de liquidação deveriam ser apresentados pelo Instituto Nacional do Seguro Social (INSS), o que não implica iliquidez da sentença. No extraordinário, cujo trânsito pretende alcançar, o recorrente afirma a violação dos artigos 5º, incisos II e LIV, 93, inciso IX, 109, inciso I, e 98, inciso I e § 1º, da Constituição Federal. Argui a nulidade da decisão proferida pelos Juizados Especias por ser ilíquida. Discorre sobre a inconstitucionalidade da obrigação de apresentação dos cálculos.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, colho da decisão recorrida o seguinte trecho:
+    Consigno que a sentença ou o acórdão que contenham os parâmetros para a elaboração dos cálculos de liquidação não é ilíquido, por atender ao disposto no artigo 38, parágrafo único, da Lei n.º 9.099/1995, nos termos do Enunciado n.º 32, do Fórum Nacional dos Juizados Especiais Federais - FONAJEF e da Súmula n.º 318, do Superior Tribunal de Justiça.
+    À toda evidência, a decisão impugnada mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal.
+    A par desse aspecto, o Supremo, no julgamento do recurso extraordinário nº 729.884/RS, relatado pelo ministro Dias Toffoli, assentou a ausência de repercussão geral da questão concernente a imposição ao INSS do ônus de apresentar os cálculos de liquidação do próprio débito.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 26 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
