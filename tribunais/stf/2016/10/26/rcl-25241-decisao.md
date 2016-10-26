@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de reclamação, com pedido liminar, contra acórdão do Órgão Especial do TST na reclamação trabalhista nº 57600-72.2008.5.17.0010. Consta dos autos que a parte interpôs recurso extraordinário, o qual teve o trâmite obstado em razão da insuficiente fundamentação da preliminar de repercussão geral. Contra esta decisão, a parte ora reclamante interpôs agravo nos próprios autos, o qual foi convertido em agravo regimental, com base no precedente do STF no AI 760.358 (Rel. Min. Gilmar Mendes), e desprovido.
+    A parte reclamante se insurge contra aquela última decisão. Sustenta usurpação da competência do STF para julgar o agravo em recurso extraordinário, com base na Súmula 727/STF. Afirma a ocorrência de afronta aos princípios da segurança jurídica, dignidade da pessoa humana e devido processo legal. Requer o benefício da justiça gratuita.
+    É o relatório. Decido.
+    Defiro a justiça gratuita. Dispenso as informações, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo, ademais, de determinar a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do pedido.
+    Com efeito, de fato, o órgão reclamado não deu o trâmite correto ao agravo em recurso extraordinário. Ocorre que, de todo modo, o respectivo recurso é inviável.
+    Com efeito, trata-se, na origem, de recurso extraordinário interposto de acórdão do Tribunal Pleno do TST que negou provimento a agravo em embargos em recurso de revista, em que se alega afronta art. 5º, V, X, XXXV e LV da Constituição federal. Ocorre que as questões versadas no recurso extraordinário (pedido de majoração de indenização por danos morais e estéticos e condenação em honorários advocatícios) esbarram no óbice da ausência de repercussão geral, com base nos temas 655 (“Modificação do valor fixado a título de indenização por danos morais”) e 660 (“Violabilidade dos princípios do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Extensão do entendimento ao princípio do devido processo legal e aos limites da coisa jugada”).
+    Assim, o recurso extraordinário ao qual a parte visa a dar trâmite é inadmissível (arts. 1.035, § 2º, e 1.039, PU, do CPC/2015, correspondentes ao art. 543-A, §§ 2º e 5º do CPC/73), circunstância que configura a inutilidade da presente reclamação. É dizer, falta interesse de agir à parte reclamante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    Sem honorários, porquanto não citada a parte interessada.
+    Publique-se.
+    Brasília, 26 de outubro de 2016.
+Ministro LUÍS ROBERTO BARROSO
+Relator
