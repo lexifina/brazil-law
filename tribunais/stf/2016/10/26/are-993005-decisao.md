@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “COMPLEMENTAÇÃO DE PENSÃO – GRATIFICAÇÃO EXCLUSIVA – Pretensão objetivando perceber vantagem de ordem pessoal e exclusiva nos termos da Lei nº 11.511/94 – Possibilidade – Vantagem instituída pela Lei 8.215/75 com mesma natureza jurídica da criada pela Lei nº 5.069/56 – Sentença de improcedência reformada – Recurso de apelação provido.” (eDOC 1, p. 308).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 40, caput e § 4º, art. 195, § 5º do texto constitucional.
+    Nas razões recursais, alega-se afronta direta ao princípios constitucionais que consagram a legalidade, o direito adquirido e a irredutibilidade de vencimentos
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Leis 8.215/1975, 5.069/1956, e 6.226/1963), e o conjunto probatório constante dos autos, consignou que as recorridas fazem jus ao recebimento da gratificação pleiteada.
+     Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Ora, no momento da aposentadoria dos cônjuges das autoras, àqueles já se encontravam submetidos a regime de dedicação exclusiva, limitando os seus serviços ao funcionalismo público, independentemente de terem optado ou não ao Regime de Dedicação Exclusiva instituído pela Lei 8.215/75.
+    O regime criado pela Lei 8.215/75 tem a mesma natureza daquele que os cônjuges das autoras optaram, em 1956, o qual conferia adicional a quem se dedicar exclusivamente ao serviço público.” (eDOC 1. p. 312).
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “FUNCIONÁRIOS PUBLICOS. O DIREITO ESTADUAL PODE AMPLIAR AS GARANTIAS DA CONSTITUIÇÃO FEDERAL AOS FUNCIONÁRIOS DO ESTADO. O DESVIO DE PODER, EM CASO CONCRETO, E MATÉRIA DE FATO, QUE NÃO PODE SER REAPRECIADA NO RECURSO EXTRAORDINÁRIO, QUE TAMBÉM NÃO REVE INTERPRETAÇÃO DO DIREITO LOCAL (SÚMULA NA 279 E 280). INTERINIDADE DEVE SER EXPRESSA.” (RE 45.315, Rel. Min. ALIOMAR BALEEIRO, Segunda Turma, DJe 19.12.1966).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO.SERVIDORES PÚBLICOS DISTRITAIS APOSENTADOS. NATUREZA JURÍDICA DA VANTAGEM INTEGRADA AOS PROVENTOS. CONTROVÉRSIA INFRACONSTITUCIONAL. Discussões acerca da natureza das parcelas que integram a remuneração ou os proventos do servidor não têm lugar em sede de recurso extraordinário. É que seria necessário interpretar a legislação infraconstitucional pertinente e, por vezes, a matéria fática envolvida no caso. Incidência das Súmulas 279 e 280 do STF. Agravo regimental a que se nega provimento.” (RE-AgR 397.972, Rel. Min. CARLOS BRITTO, Primeira Turma, DJe 20.4.2006)
+    “Embargos de declaração no recurso extraordinário com agravo. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Direito Administrativo. Servidor público. Aposentadoria. 4. Incorporação de gratificações. Matéria debatida no tribunal de origem restringe-se ao âmbito infraconstitucional. Ofensa reflexa à Constituição Federal. Súmula 280. 5. Opção de aposentadoria com fundamento no art. 6º da EC 41/03. Pretensão de revisão. Ausência de vício de consentimento. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.” (ARE-ED 944.535, de minha relatoria, Segunda Turma, DJe 15.9.2016).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de outubro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
