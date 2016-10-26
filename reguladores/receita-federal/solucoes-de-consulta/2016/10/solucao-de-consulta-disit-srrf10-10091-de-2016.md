@@ -1,0 +1,14 @@
+Solução de Consulta Disit/SRRF10 nº 10091, de 5 de outubro de 2016
+ASSUNTO: Obrigações Acessórias
+EMENTA: SISCOSERV. SERVIÇO DE TRANSPORTE INTERNACIONAL. IMPORTAÇÃO POR CONTA E ORDEM DE TERCEIROS. INFORMAÇÃO. RESPONSABILIDADE. AGENTE DE CARGA.
+A responsabilidade pelo registro no Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (Siscoserv) é do residente ou domiciliado no País que mantém relação contratual com residente ou domiciliado no exterior para a prestação do serviço.
+A pessoa jurídica domiciliada no Brasil que contratar agente de carga residente ou domiciliado no Brasil para operacionalizar o serviço de transporte internacional de mercadoria a ser importada, prestado por residente ou domiciliado no exterior, será responsável pelo registro desse serviço no Siscoserv na hipótese de o agente de carga apenas representá-la perante o prestador desse serviço.
+Quando o agente de carga, residente ou domiciliado no Brasil, contratar o serviço de transporte da mercadoria, e os serviços a ele conexos, com residentes ou domiciliados no exterior, em seu próprio nome, caberá a ele o registro desses serviços no Siscoserv.
+Na importação por conta e ordem de terceiros, se o agente de carga, residente ou domiciliado no Brasil, apenas representar a pessoa jurídica tomadora do serviço de transporte internacional perante o prestador desse serviço, residente ou domiciliado no exterior, a responsabilidade pelo registro no Siscoserv será: da pessoa jurídica adquirente, se a pessoa jurídica importadora atuar como interposta pessoa, na condição de mera mandatária da adquirente; da pessoa jurídica importadora, quando ela contratar esse serviço em seu próprio nome.
+SOLUÇÃO DE CONSULTA VINCULADA ÀS SOLUÇÕES DE CONSULTA COSIT Nº 257, DE 26 DE SETEMBRO DE 2014, Nº 222, DE 27 DE OUTUBRO DE 2015, E Nº 23, DE 7 DE MARÇO DE 2016.
+DISPOSITIVOS LEGAIS: Decreto-Lei nº 37, de 1966, art. 37, § 1º; Medida Provisória nº 2158-35, de 2001, art. 80; Lei nº 10.406, de 2002 (Código Civil), arts. 710, 730 e 744; Lei nº 12.546, de 2011, arts. 24 e 25; Lei nº 11.281, de 2006, art. 11; Lei nº 12.995, de 2014, art. 8º; Portarias Conjuntas RFB/SCS nº 1.908, de 2012, e nº 219, de 2016; Instrução Normativa SRF nº 225, de 2002, arts. 1º, parágrafo único, 2º, caput e 3º; Instrução Normativa SRF nº 247, de 2002, arts. 12, 86 e 87; e Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+ASSUNTO: Processo Administrativo Fiscal
+EMENTA: CONSULTA SOBRE A LEGISLAÇÃO TRIBUTÁRIA.
+Não produz efeitos a consulta que não preencher os requisitos legais exigidos para sua apresentação.
+DISPOSITIVOS LEGAIS: Decreto nº 70.235, de 1972, arts. 46, caput, e 52, I; Instrução Normativa RFB nº 1.396, de 2013, arts. 3º, caput, e § 8º, e 18, I e XIV.
+[arquivo anexo: SC SRRF10-Disit nº 10091-2016.pdf]
