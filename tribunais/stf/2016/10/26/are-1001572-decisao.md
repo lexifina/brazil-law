@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - REPERCUSSÃO GERAL – MATÉRIA IDÊNTICA - AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Sul confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de tráfico de entorpecentes, previsto no artigo 33, da lei n° 11.343/06, consignando a licitude das provas. No extraordinário cujo processamento busca alcançar, afirma o recorrente a violação do artigo 5º, inciso XI, da Constituição Federal. Diz incorreta a aplicação do precedente do Supremo relativo à obtenção de provas mediante invasão de domicílio sem o respectivo mandado de busca e apreensão, entendendo ser ilícito o procedimento por não se estar diante de situação de flagrância.
+    2. O Colegiado de origem assentou a licitude da obtenção da prova, considerada a situação de flagrante, ante à posse de entorpecente pelo réu. O acórdão recorrido está em consonância com a jurisprudência do Supremo. Este Tribunal, no recurso extraordinário nº 603.616, da relatoria do ministro Gilmar Mendes, assentou que entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões, devidamente justificadas posteriormente, indicando a situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados.
+    Assim, de fato, não merecia seguimento o extraordinário. O Supremo, ao julgar questão de ordem no agravo de instrumento nº 760.358/SE, em 19 de novembro de 2009, assentou a impropriedade de recurso ou reclamação contra decisão que implica observância a entendimento já adotado em sede de repercussão geral.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Ante o quadro, conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 26 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
