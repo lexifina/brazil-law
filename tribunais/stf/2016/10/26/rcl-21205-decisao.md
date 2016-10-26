@@ -1,0 +1,28 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, ajuizada por Mariana Ferreira Coelho contra acórdão do Tribunal Superior do Trabalho, nos autos do Processo 2086-97.2011.5.10.0019, que, ao afastar a aplicação do art. 4º, XXI, da LC 80/94 (alterada pela LC 132/2009), teria violado a Súmula Vinculante 10.
+    Na petição inicial, argumenta-se que o Superior Tribunal de Justiça estabeleceu o cabimento dos honorários em prol da Defensoria Pública, quando deferidos contra pessoas físicas, jurídicas e as de direito público.
+    Argumenta-se que, à época da edição da Súmula 219 do TST, aplicada na decisão reclamada, não havia Defensoria Pública e, por essa razão, apenas os sindicatos foram nela mencionados.
+    Nesse sentido, afirma-se que o desrespeito quanto a não aplicação de expressa determinação legal, segundo o Supremo Tribunal Federal, equivale, por outros meios, de decretação de inconstitucionalidade, o que não pode ser ser feito por órgão fracionário, como teria ocorrido no caso.
+    Requer-se que seja julgada procedente a presente reclamação, com a cassação do ato reclamado.
+    Solicitadas informações à autoridade reclamada, esta asseverou que, após a oposição de embargos declaratórios, o ato reclamado transitou em julgado em 3.7.2015. (eDOC 7).
+    A Procuradoria-Geral da República manifestou-se pela improcedência da reclamação (eDOC 9), em parecer ementado nos seguintes termos:
+    “RECLAMAÇÃO. JUSTIÇA TRABALHISTA. DEFENSORIA PÚBLICA. HONORÁRIOS SUCUMBENCIAIS. SUPOSTA OFENSA À RESERVA DE PLENÁRIO. SÚMULA VINCULANTE 10. INEXISTÊNCIA DE ANÁLISE SOBRE CONTROLE DE CONSTITUCIONALIDADE NA DECISÃO RECLAMADA. INTERPRETAÇÃO DA LEI.
+    1. Não há violação à Súmula Vinculante 10 em situações nas quais a recusa de aplicação da norma jurídica ocorre por não haver possibilidade de subsunção dos fatos delineados ao comando normativo.
+    2. Ao deixar de aplicar o art. 4º, XXI, da Lei Complementar 80/94, a decisão reclamada entendeu, em sintonia com o entendimento consolidado do Tribunal Superior do Trabalho, ser incabível a condenação no pagamento de verba honorária, a não ser nas hipóteses expressamente previstas na mencionada Lei 5.584/70, sem considerá-la, expressa ou implicitamente, inconstitucional. Violação não configurada.
+    3. Parecer pela improcedência da reclamação”.
+    É o breve relatório.
+    Passo a decidir.
+    Verifico que o Tribunal Superior do Trabalho manteve o entendimento do TRT que aplicou ao caso a Súmula 219 do TST, acerca da condenação ao pagamento de honorários.
+    Nesses termos, verifico que, na espécie, a autoridade reclamada não afastou a aplicação da Lei Complementar 80/94. Com efeito, o Tribunal reclamado não aplicou a mencionada norma jurídica, em razão da impossibilidade de subsunção dos fatos delineados ao citado comando normativo. Nesse sentido, consignou o seguinte:
+    “Acresça-se, ainda, que, na Justiça do Trabalho, a assistência sindical é pressuposto inafastável para o deferimento dos honorários advocatícios e, estando ausente, não se pode cogitar de condenação no particular.
+    A decisão regional está, portanto, em consonância com a Súmula 219, I, do TST, a qual preconiza:
+    ‘I - Na Justiça do Trabalho, a condenação ao pagamento de honorários advocatícios, nunca superiores a 15% (quinze por cento), não decorre pura e simplesmente da sucumbência, devendo a parte estar assistida por sindicato da categoria profissional e comprovar a percepção de salário inferior ao dobro do salário mínimo ou encontrar-se em situação econômica que não lhe permita demandar sem prejuízo do próprio sustento ou da respectiva família.’ (…)”. ( eDOC 3, p. 4)
+    Assim, tendo em vista que não houve declaração de inconstitucionalidade de dispositivo legal, mas mera interpretação de legislação infraconstitucional, não se vislumbra, no presente caso, violação ao artigo 97 da Constituição Federal, cuja proteção é reforçada pela Súmula Vinculante 10 do STF. Nesse sentido, cito o seguinte precedente:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. LEGITIMIDADE ATIVA. SÚMULA VINCULANTE 10 DO SUPREMO TRIBUNAL FEDERAL. OFENSA. INEXISTÊNCIA. SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A violação ao princípio da reserva de plenário exige que a norma seja declarada inconstitucional, ou tenha sua aplicação negada pelo Tribunal de origem, o que não ocorre no caso sub examine, onde a controvérsia foi solucionada com apoio na interpretação conferida pelo Tribunal a quo à norma infraconstitucional que disciplina a matéria. Precedentes: Rcl 14.185-AgR, Rel. Min. Marco Aurélio, Plenário, Dje 12/6/2013, Rcl 15.128, Rel. Min. Rosa Weber, DJe 25/9/2013, RE 775.548-MG, Rel. Min. Celso de Mello, DJe 6/12/2013. 2. A reclamação é inadmissível quando utilizada como sucedâneo da ação rescisória ou de recurso. 3. Agravo regimental desprovido”. (Rcl-AgR 18.820, Rel. Min. Luiz Fux, Primeira Turma, DJe 4.3.2015)
+    Ressalto ainda que o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal. É essa a orientação consolidada na jurisprudência desta Corte.
+    Nesse sentido, confiram-se os seguintes precedentes: Rcl 9.545, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 13.5.2010; e Rcl 5.494, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 11.12.2009.
+    Ante o exposto, nego seguimento à reclamação. Prejudicada a análise do pedido liminar (RISTF, art. 21, § 1º)
+    Publique-se.
+    Brasília, 26 de outubro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
