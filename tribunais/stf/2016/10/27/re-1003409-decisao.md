@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Instituto Curitiba de Saúde – ICS. Aparelhado o recurso na afronta aos arts. 40, § 12, 195, II, 196 e 198, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “CONTRIBUIÇÃO SOCIAL DESTINADA À SAÚDE INCOMPATIBILIDADE COM A CONSTITUIÇÃO FEDERAL REPERCUSSÃO GERAL DO TEMA JULGAMENTO DE MÉRITO PRECEDENTE DO PLENÁRIO. O Supremo, no Recurso Extraordinário nº 573.540/MG, assentou a inconstitucionalidade de norma estadual que cria contribuição compulsória destinada ao custeio de saúde e fundo de assistência médica de servidor público. CONTRIBUIÇÃO SOCIAL DESTINADA À SAÚDE REPETIÇÃO DO INDÉBITO REPERCUSSÃO GERAL INEXISTÊNCIA PRECEDENTE RESSALVA DE ENTENDIMENTO PESSOAL. O Supremo, no Recurso Extraordinário nº 633.329/RS, contra o meu voto, assentou a ausência de repercussão geral no debate sobre a restituição de valores descontados compulsoriamente com fundamento em contribuição previdenciária declarada inconstitucional.” (ARE 709797 AgR, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, julgado em 13/05/2014, PROCESSO ELETRÔNICO DJe-104 DIVULG 29-05-2014 PUBLIC 30-05-2014)
+    “Ementa: ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 284/STF. ESTADO DO MARANHÃO. LEI 7.374/99. CONTRIBUIÇÃO COMPULSÓRIA PARA O CUSTEIO DE SERVIÇOS DE SAÚDE. NATUREZA TRIBUTÁRIA. INCOMPETÊNCIA DO ESTADO. MATÉRIA DECIDIDA PELO TRIBUNAL PLENO NO RE 573.540/MG, REL. MIN. GILMAR MENDES, DJE DE 11/06/2010, JULGADO SOB O REGIME DO ART. 543-B DO CPC. 1. O Tribunal Pleno, no RE 573.540/MG, rel. Min. Gilmar Mendes, DJe de 11/06/2010, julgado sob o regime do art. 543-B do CPC, decidiu que os Estados-membros não possuem competência tributária para instituir contribuições compulsórias para custeio de serviços de saúde usufruídos por seus servidores públicos. 2. Agravo regimental a que se nega provimento.” (RE 603573 AgR, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 27/05/2014, ACÓRDÃO ELETRÔNICO DJe-111 DIVULG 09-06-2014 PUBLIC 10-06-2014)
+    “EMENTA: EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. EFEITOS INFRINGENTES. CONVERSÃO EM AGRAVO REGIMENTAL. CONSTITUCIONAL. CONTRIBUIÇÃO PARA O CUSTEIO DA SAÚDE. INCONSTITUCIONALIDADE DA COBRANÇA COMPULSÓRIA. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(RE 799625 ED, Rel .Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 03/06/2014, ACÓRDÃO ELETRÔNICO DJe-114 DIVULG 12-06-2014 PUBLIC 13-06-2014)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de outubro de 2016.
+Ministra Rosa Weber
+Relatora
