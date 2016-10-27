@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - LEGISLAÇÃO LOCAL - INTERPRETAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado Paraná confirmou o entendimento do Juízo quanto à procedência do direito ao reajuste da indenização por serviço extraordinário na mesma proporção do concedido ao funcionalismo público estadual. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta violação dos artigos 2º e 37, cabeça e incisos X e XIII, da Constituição Federal. Discorre sobre a distinção entre verba indenizatória e remuneratória, sendo o reajuste geral anual do funcionalismo aplicável somente às de natureza remuneratória. Tece considerações sobre a impossibilidade de o Poder Judiciário, mediante controle concreto de constitucionalidade, obrigar o ente público a tomar providências legislativas.
+    2. Colho do acórdão recorrido os seguintes trechos:
+    A controvérsia cinge-se ao direito dos policiais militares ao reajuste anual dos valores recebidos mensalmente a título de serviço extraordinário, conforme o art. 1 ° da Lei Estadual n. 13.280/2001, cuja redação é a seguinte:
+    "Art. 1°. Fica alterado o parágrafo único, do art. 26. da Lei nº 6.417, de 03 de julho de 1973, que trata das hipóteses de indenização ao policial militar, para incluir os serviços extraordinários, no valor máximo mensal de R$ 100.00 (cem reais), para cada militar, sendo corrigida sempre que houver reajuste para o funcionalismo estadual."
+    Como se observa, a referida Lei Estadual incluiu os "serviços extraordinários" nas hipóteses de indenização aos policiais militares, vinculando a correção do respectivo valor ao reajuste do funcionalismo estadual.
+    […]
+    Assim, uma vez que se submetem a regime de natureza distinta da celetista, bem como dos estatutários de natureza civil, aos militares somente é concedido eventual beneficio não expressamente predito pela Constituição da República se previsto na Lei Estadual a eles aplicável.
+    Nesse sentido, ponderando, a um, que o policial militar ora apelado é integrante do quadro da Policia Militar, sendo assim, considerado servidor público estadual, e a dois, que a Lei n. 13.280/01 é norma especifica que adiciona ao Código de Vencimentos da Policia Militar do Estado do Paraná a hipótese de indenização aos policiais militares a titulo de serviços extraordinários, sendo possível afirmar que á época de sua edição observou os critérios de oportunidade e conveniência, tenho que não há óbice ao pagamento aos policiais da gratificação referida a horas extras, de R$ 100,00 mensais, com as correções devidas.
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação, no tocante ao reajuste pretendido, a partir de interpretação conferida à Lei estadual nº 13.280/2001. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário, o acesso ao Supremo. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça.
+    3. Nego seguimento a este extraordinário.
+    4. Publiquem.
+Brasília, 27 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
