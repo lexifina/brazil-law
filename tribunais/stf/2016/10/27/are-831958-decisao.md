@@ -1,0 +1,11 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido ao Tribunal de origem, para que se cumprisse o disposto no art. 543-B do CPC de 1973, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral, pelo tema 306, cujo paradigma é o RE-RG 611.512, Rel. Min. Ellen Gracie, DJe 23.11.2012 (eDOC 65).
+    Encaminhados os autos ao Tribunal de origem, foram devolvidos a esta Corte com o fundamento de que a controvérsia tratada no Tema 306 não se aplica ao presente feito (eDOC 48).
+    Após detida análise dos autos, verifico que os assuntos versados no apelo extremo correspondem aos temas 236, 306 e 660 da sistemática da repercussão geral, cujos paradigmas são, respectivamente, o AI-RG 705.941, de minha relatoria, DJe 23.4.2010, o RE-RG 611.512, Rel. Min. Ellen Gracie, DJe 23.11.2012, e o ARE-RG 748371, DJe 6.6.2013, de minha relatoria.
+    Quanto à incompetência da Justiça Federal Comum para se manifestar sobre a validade, ou não, da incidência de imposto de renda sobre verbas indenizatórias de condenações trabalhistas, não houve manifestação da recorrente em sua contestação, tampouco no recurso inominado (eDOCs 5 e 10, respectivamente), razão pela qual não foi discutida pelo acórdão recorrido (eDOC 23), apenas tendo sido suscitada na interposição do recurso extraordinário (eDOC 25) e no agravo para destrancá-lo (eDOC 33). Portanto tenho como matéria estranha nessa sede recursal e impossível de ser analisada devidamente, sob pena de supressão de instância.
+    Por oportuno, aplicando-se as teses fixadas nos temas 236 e 306, que não reconheceram a existência de repercussão geral sobre as questões debatidas no recurso extraordinário, aliada ao exame de constitucionalidade reflexo (tema 660), friso o caráter irrecorrível da decisão proferida com fundamento no art. 1.035 do CPC.
+    Ante o exposto, revejo a decisão do eDOC e nego seguimento ao agravo em recurso extraordinário, ante a ausência de repercussão geral sobre as matérias decididas por esta Corte nos temas 236 e 306, além do que decidido no tema 660 (art. 1.035, do CPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de outubro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
