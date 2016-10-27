@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “AGRAVO LEGAL. EMBARGOS À EXECUÇÃO FISCAL. LEI Nº 9.670/83. TLFI. BASE DE CÁLCULO. INCONSTITUCIONALIDADE. MATÉRIA JÁ DECIDIDA PELOS TRIBUNAIS SUPERIORES. INCIDÊNCIA DO ART. 557 DO CPC”. (eDOC, p. 149)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 145, II e § 2º, do texto constitucional.
+    Nas razões recursais, alega o recorrente que a execução fiscal de origem cobrava débitos referentes à Taxa de Fiscalização de Localização, Instalação e Funcionamento – TLFI, instituída pela Lei Municipal 9.670/1983, e à Taxa de Fiscalização de Estabelecimentos – TEF, instituída pela Lei Municipal 13.477/2002 para substituir a primeira. Sustenta a constitucionalidade de ambas as exações, pois decorrentes do efetivo exercício do poder de polícia na fiscalização de estabelecimentos. (eDOC, p. 159)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que a jurisprudência desta Corte está consolidada no sentido de reconhecer a inconstitucionalidade da TLFI, cujo critério de apuração do imposto é o número de empregados do estabelecimento.
+    Confiram-se, a propósito, julgados de ambas as turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TAXA DE FISCALIZAÇÃO DE LOCALIZAÇÃO, INSTALAÇÃO E FUNCIONAMENTO. LEI MUNICIPAL Nº 9.670/1983. BASE DE CÁLCULO. NÚMERO DE EMPREGADOS. IMPOSSIBILIDADE. PRECEDENTES . É pacífico nesta Corte o entendimento de que não se pode admitir a utilização do número de empregados como critério válido para fixação da base de cálculo das taxas de funcionamento e fiscalização instituídas pelos Municípios. Agravo regimental a que se nega provimento”. (AI-AgR 470.124, Rel. Min. Roberto Barroso, Primeira Turma, DJe 31.10.2014)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. taxa de fiscalização de localização, instalação e funcionamento. Lei municipal 9.670/83. Base de cálculo. número de empregados. Impossibilidade. Precedentes. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento”. (ARE-AgR 803.725, de minha relatoria, Segunda Turma, DJe 1º.7.2014)
+    Ademais, verifica-se que para divergir do Tribunal de origem seria necessária a interpretação de legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confira-se, a propósito, o seguinte precedente:
+    “DIREITO TRIBUTÁRIO. TAXA DE FISCALIZAÇÃO DE LOCALIZAÇÃO, INSTALAÇÃO E FUNCIONAMENTO. BASE DE CÁLCULO. REGULAR EXERCÍCIO DO PODER DE POLÍCIA. CONSTITUCIONALIDADE. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. EXISTÊNCIA DE FISCALIZAÇÃO EFETIVA. SÚMULA 279/STF. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA O MANEJO DO RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 22.6.2011. 1. O entendimento adotado pela Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. Entender de modo diverso demandaria a análise da legislação infraconstitucional local, bem como o reexame do quadro fático delineado na origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. (...) 4. Agravo regimental conhecido e não provido”. (RE 799242 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 1.9.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de outubro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
