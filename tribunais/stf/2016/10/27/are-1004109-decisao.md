@@ -1,0 +1,21 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “AGRAVO LEGAL. TRIBUTÁRIO. IMPOSTO DE RENDA. PESSOA FÍSICA. CORREÇÃO MONETÁRIA DA TABELA. COMPETÊNCIA DO PODER LEGISLATIVO.
+    1. Partindo-se da premissa de que a correção monetária dos valores vincula-se necessariamente ao princípio da estrita legalidade, esposado no art. 97 do CTN, não pode o Poder Judiciário, em substituição ao Poder Legislativo, invadir seu âmbito de competência para estabelecer qualquer índice de correção monetária das tabelas de Imposto de Renda - Pessoa Física, vedando-se, consequentemente, ao contribuinte a utilização de indexador que lhe pareça economicamente mais favorável.
+    2. O imposto em destaque não é, ainda, utilizado com efeito de confisco, visto que tal cobrança não tem o condão de esgotar os bens do contribuinte. Muito menos ofende o princípio da igualdade a ausência de reajuste da tabela de deduções do Imposto de Renda - Pessoa Física, já que tal medida foi imposta a todos os contribuintes.
+    3. Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática.
+    4. Agravo legal improvido” (pág. 132 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 150, I e III, a e b, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. É o caso dos autos, salvo em relação à suposta violação ao art. 150, I, da Lei Maior.
+    Ainda que superado esse óbice, o recurso não prosperaria. É que o Plenário desta Corte, no julgamento do RE 388.312/MG, relatora para o acórdão a Ministra Cármen Lúcia, fixou orientação no sentido de que não cabe ao Poder Judiciário determinar a correção monetária da tabela progressiva do imposto de renda na ausência de previsão legal que o autorize. Nesse sentido, transcrevo a ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL E ECONÔMICO. CORREÇÃO MONETÁRIA DAS TABELAS DO IMPOSTO DE RENDA. LEI N. 9.250/1995. NECESSIDADE DE LEI COMPLEMENTAR E CONTRARIEDADE AOS PRINCÍPIOS DA CAPACIDADE CONTRIBUTIVA E DO NÃO CONFISCO. RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, A ELE NEGADO PROVIMENTO.
+    1. Ausência de prequestionamento quanto à alegação de inconstitucionalidade formal da Lei n. 9.250/1995 por contrariedade ao art. 146, inc. III, alínea a, da Constituição da República.
+    2. A vedação constitucional de tributo confiscatório e a necessidade de se observar o princípio da capacidade contributiva são questões cuja análise dependem da situação individual do contribuinte, principalmente em razão da possibilidade de se proceder a deduções fiscais, como se dá no imposto sobre a renda. Precedentes.
+    3. Conforme jurisprudência reiterada deste Supremo Tribunal Federal, não cabe ao Poder Judiciário autorizar a correção monetária da tabela progressiva do imposto de renda na ausência de previsão legal nesse sentido. Entendimento cujo fundamento é o uso regular do poder estatal de organizar a vida econômica e financeira do país no espaço próprio das competências dos Poderes Executivo e Legislativo.
+    4. Recurso extraordinário conhecido em parte e, na parte conhecida, a ele negado provimento”.
+    Com essa mesma orientação, menciono as seguintes decisões, entre outras: ARE 964.734-AgR/SP, Rel. Min. Edson Fachin; ARE 966.488-AgR/SP, Rel. Min. Cármen Lúcia; RE 385.337-AgR/DF, Rel. Min. Dias Toffoli; RE 420.662-AgR/DF, Rel. Min. Ayres Britto; AI 643.905-AgR/SP, Rel. Min. Marco Aurélio; RE 470.860-AgR/DF, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Deixo de majorar os honorários recursais previstos no art. 85, § 11, do Código de Processo Civil, uma vez que não foram fixados pelo juízo de origem.
+    Publique-se.
+    Brasília, 27 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
