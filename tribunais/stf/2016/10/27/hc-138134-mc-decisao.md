@@ -1,0 +1,27 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União, em favor de Marcelo Mascarenhas Costa, contra ato da Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao AgRg no AREsp 697.962/BA.
+    A impetrante narra, inicialmente, que,
+    “segundo informações constantes dos autos, o ora agravante foi denunciado pelo Ministério Público, como incurso no tipo penal previsto no art. 183 [desenvolver clandestinamente atividades de telecomunicação] da Lei 9.472/97.
+    A inicial acusatória foi recebida, mas o réu foi absolvido com base no art. 386, III, do Código de Processo Penal, pois o magistrado de piso entendeu ser aplicável ao caso o princípio da insignificância.
+    Inconformado, o Ministério Público interpôs Recurso em Sentido Estrito, alegando que a conduta imputada ao real é crime formal, que se configura com o mero potencial de dano, e a Quarta Turma do Tribunal Regional da 1ª Região deu provimento ao recurso.
+    A Defesa, então, interpôs Recurso Especial junto ao Tribunal Regional Federal requerendo o deferimento do mesmo e sua remessa ao Egrégio Superior Tribunal de Justiça. Em decisão do TRF da 1° Região, o recurso especial não foi admitido, por entender que o acordão recorrido se encontrava em consonância com a jurisprudência do STJ.
+    Contra essa decisão a Defensoria Pública da União interpôs Agravo em Recurso Especial, o qual teve provimento negado pelo eminente Ministro Relator do STJ, com fulcro no art. 544, § 4°, II, a, do Código de Processo Civil.
+    Com isso, a DPU interpôs Agravo Regimental alegando a atipicidade da conduta, razão pela qual pugnou pela aplicação do princípio da insignificância.
+    Argumentou que para a configuração do crime, não basta a simples instalação ou funcionamento da emissora de rádio sem a autorização do Poder Público, faz-se necessário conhecer a potência do equipamento utilizado, para a verificação da real efetiva lesão ou ameaça de lesão ao bem jurídico tutelado pela norma.
+    No entanto, a Quinta Turma do STJ reconheceu que o delito em questão é de crime formal de perigo abstrato ao qual não pode ser aplicado o princípio da insignificância, negando provimento ao agravo regimental” (págs. 1-2 do documento eletrônico 1).
+    Sustenta, em síntese, que,
+    “no caso, restou impossibilitada a demonstração desse segundo ponto - tipicidade material - com incidência do princípio da insignificância repisado pela defesa, uma vez que uso de transmissor com potência de 19 Watts não tem o condão de causar lesão ou ameaça de lesão ao bem jurídico protegido pela norma incriminadora.
+    [...]
+    A egrégia Quinta Turma do Superior Tribunal de Justiça inadmitiu a aplicação do princípio da insignificância confirmando a decisão do TRF 1ª região que entende ser o crime seria de natureza formal e de perigo abstrato – não pode ser alcançado pelo princípio da insignificância por provocar elevado juízo de reprovabilidade, suficiente, por si só, para afastar a suposta atipicidade material da conduta. Ocorre que se trata de crime exige a produção material do resultado, qual seja comprometer a regularidade e a operabilidade do sistema de telecomunicações, o que inocorreu no caso em espécie.
+    Ademais, a hipótese presente reclama o reconhecimento da insignificância da conduta do paciente para o Direito Penal, pois o princípio da insignificância reduz o âmbito de proibição da tipicidade legal (aquele de pura e simples subsunção), tornando atípico o fato na seara penal, e em que pese existir lesão ao bem juridicamente protegido pela norma penal, constata-se que a tipicidade penal é formada pela tipicidade legal (subsunção da conduta à norma descrita no tipo penal) e a tipicidade conglobante (antinormatividade). Na falta de uma, atípico será o fato e, consequentemente, irrelevante para o Direito penal, de acordo com o Supremo Tribunal Federal, diante da inexpressividade da lesão ao bem juridicamente tutelado” (págs. 3 e 6 do documento eletrônico 1).
+    Ao final, requer
+    “a) A concessão da medida liminar para suspender a decisão proferida pelo STJ nos autos do AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL Nº 697.962/MT até o julgamento do mérito do presente writ, em razão da presença do fumus boni juris (baixa reprovabilidade e mínima ofensividade da conduta e plausibilidade jurídica da tese da bagatela, segundo precedentes do STF) e periculum in mora (iminência de o paciente cumprir pena por fato penal insignificante);
+    b) A concessão da ordem de habeas corpus para que seja aplicado ao presente caso o princípio da insignificância” (pág. 9 do documento eletrônico 1 - grifos no original).
+    É o relatório necessário. Decido a medida liminar.
+    A concessão de liminar em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, próprio desse juízo de delibação, tenho por ausentes tais requisitos.
+    Ademais, no caso concreto, a liminar pleiteada tem caráter satisfativo, confundindo-se com o mérito da impetração, que será oportunamente examinado pela Turma julgadora.
+    Diante de tal quadro, e sem prejuízo de uma apreciação mais aprofundada por ocasião do julgamento de mérito, indefiro a liminar.
+    Solicitem-se informações. Após, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 27 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
