@@ -1,0 +1,45 @@
+Decisão: Trata-se de recurso extraordinário com agravo, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, que impugna acórdão do Tribunal de Justiça do Estado do Rio de Janeiro.
+    Consta dos autos que o recorrente foi denunciado e posteriormente condenado pela prática dos delitos descritos no art. 33, caput, c/c art. 40, inciso V, e art. 35, todos da Lei 11.343/2006, c/c art. 71 do Código Penal, à pena de 12 anos, 1 mês e 25 dias de reclusão, em regime inicial fechado, além de 1.817 dias-multa.
+    Irresignada, a defesa interpôs apelação criminal perante o Tribunal de Justiça carioca, que negou provimento ao recurso nos termos da ementa a seguir transcrita:
+    “DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. DENÚNCIA. INÉPCIA AFASTADA. INTERCEPTAÇÃO DE LIGAÇÕES TELEFÔNICAS. MATERIALIDADE COMPROVADA. APLICAÇÃO DA PENA. CAUSA DE DIMINUIÇÃO DE PENA (ART. 4º, DO ART. 33 DA LEI 11.343/2006). INAPLICABILIDADE. AUSÊNCIA DE CRIME CONTINUADO. DELITOS DE ESPÉCIE DIFERENTES.
+    1- Não é inepta a peça inicial acusatória, longe de descrever genericamente as condutas, individualizada a participação dos denunciados, apontado a contribuição de cada um no modus operandi da associação destinada à prática do tráfico de drogas.
+    2- Não é causa de nulidade do processo criminal a realização de interceptações telefônicas fundamentadas em informações obtidas após extensa investigação deflagrada em virtude de denúncia anônima.
+    3- O laudo pericial preliminar, cujas conclusões não foram objeto de contestação, atestando que as substâncias apreendidas eram ecstasy e maconha, aliada às transcrições de interceptações e a prova testemunhal, que revelaram efetiva participação do Réu no comércio das referidas drogas, constitui conjunto probatório suficiente à comprovação da materialidade necessária à condenação.
+    4- Correta a fixação da pena-base em patamar superior ao mínimo legal quando constatado que, embora primário, o Réu participava de forma iterativa da associação criminosa, negociando múltiplas espécies de drogas e em quantidade considerável.
+    5- A causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006 exige para a sua aplicação a presença cumulativa dos requisitos que enumera, não podendo incidir quando o agente integra organização criminosa.
+    6- Não sendo da mesma espécie, resta afastada a existência de continuidade delitiva entre os crimes de tráfico e associação para o tráfico.
+    7- Recurso de apelação do Réu desprovido”. (eDOC 18, p. 90)
+    Ainda inconformada, a defesa interpôs recurso especial, que foi desprovido pelo Superior Tribunal de Justiça.
+    Simultaneamente, fora interposto recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, sustentando-se a repercussão geral da matéria tratada nos autos, além da violação do art. 5º, incisos LIV e LV, da CF.
+    No mérito, alega-se, em suma, a tese de ausência de comprovação da materialidade delitiva, haja vista a inexistência do respectivo laudo definitivo de constatação da droga apreendida. Para tanto, assentou o seguinte:
+    “De tal modo, não é admitido dentro do ordenamento Constitucional/processual penal pátrio a comprovação da materialidade do delito de tráfico de drogas, com base em depoimentos e outras provas, que não seja o laudo definitivo de constatação de materialidade, como meio de prova em processo criminal sob pena de subversão à ordem constitucional orientadora do Processo Penal”. (eDOC 20, p. 9)
+    Postula a absolvição e, consequentemente, a soltura do acusado.
+    O Tribunal a quo negou trânsito ao recurso extraordinário, em razão da ofensa meramente reflexa ao texto constitucional.
+    É o relatório.
+    Decido.
+    As razões não merecem acolhimento.
+    Inicialmente, destaco que o Tribunal a quo, com base no acervo fático-probatório constante dos autos, consignou que estaria suficientemente comprovada a autoria e materialidade de todos os delitos pelos quais o réu foi condenado.
+    Assim, para se entender de forma diversa do consignado pela origem, seria necessário reexaminar o conjunto probatório que permeia a lide, providência vedada no âmbito de recurso extraordinário, a teor do disposto na Súmula 279 do STF.
+    Nesse sentido, cito o seguinte precedente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE ATENTADO VIOLENTO AO PUDOR. ARTIGO 214 DO CÓDIGO PENAL, NA SUA REDAÇÃO ANTERIOR À LEI Nº 12.015/09. COMPROVAÇÃO DE AUTORIA E MATERIALIDADE. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. 1. A resolução da controvérsia atinente à autoria e materialidade criminais demanda a análise aprofundada do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF, que dispõe: “Para simples reexame de prova não cabe recurso extraordinário”. Precedentes: ARE 804.388 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 13/5/2014, e ARE 752.851 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 18/3/2014. 2. In casu, o acórdão extraordinariamente recorrido assentou: ‘APELAÇÃO PENAL. ATENTADO VIOLENTO AO PUDOR. CONTINUAÇÃO DELITIVA. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS IMPOSSIBILIDADE - RELATOS DA VÍTIMA SEGURO QUANTO AOS FATOS - ADMISSÃO PARCIAL DO RÉU - FORÇA PROBATÓRIA DA PALAVRA DA OFENDIDA. REDUÇÃO DA PENA DE OFÍCIO. RECURSO CONHECIDO E IMPROVIDO. UNANIMIDADE’. 3. Agravo regimental DESPROVIDO”. (ARE-AgR 871.677/PA, Rel. Min. Luiz Fux, 1ª Turma, DJe 20.5.2015)
+    Ainda que assim não fosse, verifico que as decisões proferidas tanto pelo magistrado de origem quanto pelo TJ/RJ não contêm ilegalidade apta a ensejar a reforma dos julgados.
+    Não obstante a importância da presença do auto de apreensão do entorpecente para comprovação da materialidade do delito, o fato é que a ausência desse documento não tem o condão, por si só, de provocar a nulidade, desde que presentes outros elementos de prova.
+    E, no caso em apreço, diversamente do alegado pela defesa, a falta do aludido auto não foi capaz de comprometer as provas colhidas nos autos.
+    A condenação do recorrente encontra-se apoiada em elementos outros obtidos ao longo da instrução, mormente o laudo de exame preliminar químico-toxicológico que constatou a presença de 258g de maconha e 20 micropontos de LSD acondicionados em “embalagens destinadas à venda”, além das escutas telefônicas e do depoimento pessoal do agente da Polícia Federal.
+     Dessarte, a ausência do auto de apreensão da substância entorpecente não passa de mera irregularidade, constatando-se que foi suprida, com êxito, pelo conjunto probatório.
+    Ademais, destaco que a Segunda Turma desta Corte considera que a ausência do auto de apreensão de entorpecentes não tem o condão de invalidar a condenação, quando esta se funda em outras provas idôneas. Nesse sentido, o HC 119.464/DF, relator o Ministro Teori Zavascki (DJe 25.2.2014). Confira-se, a propósito, o seguinte precedente:
+    “PENAL MILITAR. PACIENTE CONDENADO PELO DELITO DO ART. 290 DO CPM. NULIDADE DA CONDENAÇÃO. AUSÊNCIA DO AUTO DE APREENSÃO DO ENTORPECENTE. PRESCINDIBILIDADE. CONDENAÇÃO EMBASADA POR OUTRAS PROVAS IDÔNEAS. UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE INSTRUMENTO DE REEXAME DE PROVAS. IMPOSSIBILIDADE. ORDEM DENEGADA.
+    1. A ausência do auto de apreensão do produto não compromete a higidez do acervo probatório, não havendo que falar em nulidade da condenação por esse fato.
+    2. A jurisprudência desta Corte orienta-se no sentido de que o habeas corpus não pode ser utilizado como sucedâneo para o reexame da prova judicialmente colhida.
+    3. Ordem denegada”.
+    Ainda nesse sentido, colaciono ementa do acórdão proferido no HC n. 122.417/DF, de minha relatoria:
+    “Habeas corpus. 2. Crime de posse de entorpecente ou substância de efeito similar (artigo 290, caput, do CPM). 3. Ausência de auto de apreensão da droga. 4. Alegação de nulidade. Inexistência. Mera irregularidade. 5. Condenação embasada em outros elementos colhidos ao longo da instrução.
+    6. Ordem denegada”. (DJe 1º.7.2014)
+    Por fim, ressalto que o Supremo Tribunal Federal já assentou que não há repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE-RG 748.371, tema 660, de minha relatoria, DJe 1º.8.2013). Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Ante o exposto, nego seguimento ao presente recurso (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 28 de outubro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
