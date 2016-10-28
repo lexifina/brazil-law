@@ -1,0 +1,1 @@
+Art. 1º-B Cabem ao salão-parceiro a preservação e a manutenção das adequadas condições de trabalho do profissional-parceiro, especialmente quanto aos seus equipamentos e instalações, possibilitando as condições adequadas ao cumprimento das normas de segurança e saúde estabelecidas no art. 4º desta Lei.
