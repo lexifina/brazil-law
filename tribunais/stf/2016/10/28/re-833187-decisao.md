@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. MORTE EM SERVIÇO. CUMULAÇÃO DE PENSÃO PREVIDENCIÁRIA COM PENSÃO INDENIZATÓRIA. IMPOSSIBILIDADE. LIMITAÇÃO PREVISTA NO ARTIGO 40, §§ 2º, 7º E 8º, DA CF/88. RECURSO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    "APELAÇÃO CÍVEL. PREVIDÊNCIA PÚBLICA. PENSIONISTA DE EX-SERVIDOR ESTADUAL. POLICIAL CIVIL FALECIDO EM SERVIÇO. INTEGRALIDADE DA PENSÃO PREVIDENCIÁRIA A CARGO DO IPERGS. BENEFÍCIO PREVIDENCIÁRIO QUE NÃO SE CONFUNDE COM A PENSÃO ESTATUTÁRIA, VITALÍCIA, DE NATUREZA INFORTUNÍSTICA, DE RESPONSABILIDADE DO TESOURO DO ESTADO, PREVISTA NOS ARTS. 71 E 72 DA LEI ESTADUAL Nº 7.366/80. CUMULATIVIDADE DOS BENEFÍCIOS. DIREITOS DISTINTOS, COM PRESSUPOSTOS DIVERSOS. APELO DESPROVIDO." (doc. 2, fl. 38).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 40, §§ 2º e 5º da Constituição Federal.
+    É o relatório. DECIDO.
+    Merece prosperar o recurso.
+    O Tribunal de origem divergiu do entendimento firmado por esta Corte no sentido de que é indevida a acumulação de pensão especial e pensão previdenciária nas hipóteses diversas das previstas na Constituição Federal. Esse entendimento foi bem esposado pelo Ministro Gilmar Mendes, quando do julgamento do RE 520.982, DJe de 11/10/2010, conforme se infere do seguinte trecho da decisão monocrática, verbis:
+    “Em suma, a regra é a não cumulatividade. Exceções, como a possibilidade de cumulação de proventos decorrentes de aposentadoria com remuneração de outros cargos, são taxativamente descritas na Constituição Federal, a exemplo do previsto no seu art. 37, § 10.
+    Na mesma linha, à míngua de autorização constitucional, as pensões por morte (especial e previdenciária) não são cumuláveis, justamente porque visam proporcionar aos beneficiários proventos compatíveis aos que o falecido fazia jus em vida.
+    Entretanto, repita-se, o pedido do caso em comento não encontra amparo constitucional, porquanto a viúva, ora agravada, objetiva receber o dobro da remuneração que seu cônjuge recebia em vida, tendo em vista que pleiteia duas pensões equivalentes ao valor integral da remuneração do falecido: pensão previdenciária por morte e pensão especial instituída por falecimento decorrente de acidente no desempenho de suas funções.
+    Nesse ponto, consigno ainda que incide no caso em análise o art. 17, caput, do ADCT, cujo teor se reproduz:
+     ‘Art. 17. Os vencimentos, a remuneração, as vantagens e os adicionais, bem como os proventos de aposentadoria que estejam sendo percebidos em desacordo com a Constituição serão imediatamente reduzidos aos limites dela decorrentes, não se admitindo, neste caso, invocação de direito adquirido ou percepção de excesso a qualquer título’.
+      Referido dispositivo, nos parágrafos subsequentes, excepciona, apenas, a cumulação de dois cargos ou empregos privativos de médico que estejam sendo exercidos por médico militar na administração pública direta ou indireta e a cumulação de dois cargos ou empregos privativos de profissionais de saúde que estejam sendo exercidos na administração pública direta ou indireta.
+    Portanto, mais uma vez, verifica-se que cumulações de proventos são excepcionais, de tal sorte que, no caso concreto – diante da ausência de autorização constitucional – é defeso o percebimento integral da pensão por morte instituída pelo art. 242, da Lei n. 1.711/52, concomitantemente ao da pensão previdenciária.”
+    Nesse sentido, em caso análogo ao dos autos:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. REVISÃO DE PENSÃO POR MORTE. CUMULAÇÃO: PREVIDENCIÁRIA E ACIDENTÁRIA. LIMITAÇÃO PREVISTA NO ART. 40, §§ 2º, 7º e 8º, DA CF. 1. O quantum da pensão por morte, nos termos do art. 40, §§ 2º, 7º e 8º, não pode extrapolar a totalidade dos vencimentos da remuneração do servidor à época do seu falecimento. Precedentes. 2. Agravo regimental a que se nega provimento.” (AI 721.354-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 9/2/2011).
+    Ex positis, PROVEJO o recurso extraordinário, para julgar improcedente a ação, com fundamento no artigo 557, §1º-A, do Código de Processo Civil de 1973, ficam invertidos os ônus da sucumbência, ressalvada a hipótese de justiça gratuita.
+    Publique-se.
+    Brasília, 28 de outubro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
