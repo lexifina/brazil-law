@@ -1,0 +1,22 @@
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86%. LEIS 8.622/1993 e 8.627/1993. COMPENSAÇÃO. DISCUSSÃO SOBRE A CORREÇÃO DOS CRITÉRIOS PREVISTOS NA PORTARIA MARE 2.179/1998. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo de instrumento, interposto com fundamento no artigo 544 do Código de Processo Civil de 1973 (redação anterior ao advento da Lei nº 12.322/2010), objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “EMBARGOS À EXECUÇÃO. SERVIDORES. 28,86%. COMPENSAÇÃO. PORTARIA MARE 2.179/98. ÔNUS DA PROVA. JUROS MORATÓRIOS. 12% AO ANO. MP 2.180-35/2001. INAPLICABILIDADE. LIMITAÇÃO TEMPORAL. REESTRUTURAÇÃO.
+    1. Em sede de embargos, o ônus de provar é do embargante, pois é ele que apresenta a pretensão a ser julgada nessa quadra.
+    2. A decisão do Supremo Tribunal Federal nos EDclROMS 22.307-7/DF, não impõe a aplicação da Portaria MARE 2.179/98, pela singela razão de ter ela sido editada posteriormente à referida decisão do STF. A decisão do STF declara, isto sim, o direito aos 28,86%, compensado com os percentuais concedidos in concreto a cada servidor.
+    3. Devem ser afastados os critérios que consideram as progressões funcionais não relacionadas às Leis 8.622/93 e 8.627/1993, pois as únicas compensações admitidas são aquelas decorrentes dos acréscimos havidos em virtude destes diplomas legais.
+    4. A taxa de juros moratórios de 6% ao ano tem incidência assegurada, tão-somente, quanto às demandas atinentes a verbas remuneratórias de servidores públicos propostas a partir do advento da Medida Provisória 2.180-35, publicada em 27/08/2001, que incluiu o artigo 1º-F na Lei 9.494/1997, dispondo acerca da aludida taxa.
+    5. Adequado reconhecer que, na superveniência de reestruturação da carreira, com o estabelecimento de nova correspondência de cargos e vencimentos, a diferença fica absorvida pelos novos patamares remuneratórios. Isso porque o resíduo dos 28,86% não é relativo aos novos valores, visto que tais valores não são resultantes da revisão promovida pela Lei 8.627/93, mas de nova lei que os especifica. Tal entendimento é válido tanto em relação à reestruturação das CD's e FG's, quanto do cargo efetivo. Precedente da Turma.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação ao artigo 37 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta e que encontra óbice nas Súmulas 282 e 356 do STF.
+    É o relatório. DECIDO.
+    Não merece prosperar o recurso.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição Federal).
+    A matéria relativa ao reajuste de 28,86%, quando sub judice a controvérsia acerca da correção dos critérios para compensação no caso in concreto, implica a análise da legislação infraconstitucional aplicável à espécie (Leis 8.622/1993 e 8.627/1993 e Portaria MARE 2.179/1998), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Ressalto, nesse sentido, os seguintes julgados, transitados em julgado: RE 656.672, Rel. Min. Ayres Britto, DJe de 7/10/2011 e ARE 772.297, Rel. Min. Cármen Lúcia, DJe de 12/11/2013, cuja ementa é do seguinte teor.
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDORES PÚBLICOS FEDERAIS. REAJUSTE. 28,86%. EXTENSÃO. REVISÃO GERAL ANUAL: ACÓRDÃO RECORRIDO CONSOANTE À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COMPENSAÇÃO E BASE DE CÁLCULO: SÚMULA N. 279 DESTE SUPREMO TRIBUNAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de outubro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
