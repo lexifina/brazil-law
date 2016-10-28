@@ -1,0 +1,10 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – IMUNIDADE TRIBUTÁRIA RECÍPROCA – RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO – NÃO ALCANCE – PRECEDENTE – PROVIMENTO.
+    1. O Tribunal, no Recurso Extraordinário nº 599.176/PR, assentou, sob o ângulo da repercussão geral, não alcançar a imunidade recíproca – prevista no artigo 150, inciso VI, alínea “a”, da Constituição Federal – a cobrança do Imposto Predial e Territorial Urbano – IPTU incidente sobre os imóveis de propriedade da União, mas relativo a fatos geradores ocorridos quando esses pertenciam à extinta Rede Ferroviária Federal S.A.. Concluiu não ser aplicável a norma constitucional às hipóteses de responsabilidade tributária por sucessão.
+    A par deste aspecto, o Supremo, na apreciação do recurso extraordinário nº 959.489/RS, relator o ministro Teori Zavascki, consignando a natureza infraconstitucional da matéria, concluiu pela inexistência de repercussão geral do tema referente ao reconhecimento da imunidade recíproca originária para a própria Rede Ferroviária Federal S.A. Assentou que a análise dos pressupostos necessários ao gozo de referida regra imunizante demandaria interpretação da legislação de regência e exame dos pressupostos fáticos.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    2. Ante o quadro, considerado o fato de o recurso veicular matéria idêntica e ressalvando a óptica pessoal quanto à inadequação do instituto da repercussão geral na espécie, desprovejo o agravo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 100,00 (cem reais), fixo os honorários recursais no patamar de R$ 50,00 (cinquenta reais), nos termos do artigo 85, § 11, do citado diploma legal.
+    3. Publiquem.
+Brasília, 28 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
