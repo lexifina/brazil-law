@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. FUNDO PREVIDÊNCIA SUPLETIVA. IPSEMG. EXTINÇÃO RATEIO. DELIBERAÇÃO 174/2000. POSSIBILIDADE. NEGATIVA DE SEGUIMENTO.
+    1. Consistindo o Fundo de Previdência Supletiva do Ipsemg em um fundo contábil de natureza financeira, sem divisão em quotas individuais, a sua extinção, conforme deliberação nº 174/2000 não gera aos participantes o direito à restituição do valor integral das contribuições, mas ao rateio do saldo, já que a previsão de reserva técnica é inerente ao risco de fundos destinados a aplicação de recursos financeiros, como o presente. Negado seguimento ao recurso, na forma do art. 557 do CPC” (pág. 359 do volume 4).
+    Opostos embargos de declaração, foram rejeitados em virtude da não ocorrência de omissão, obscuridade e contradição (págs. 55-62 do volume 5).
+    No RE, fundado no art. 102, III, a, c e d, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, LIV e LV, e 40, § 5° (redação dada pela EC 20/98), da mesma Carta, bem como ao art. 20 do ADCT.
+    O agravo não merece acolhida.
+    Isso porque esta Corte já firmou entendimento no sentido de que os princípios da ampla defesa, do contraditório, do devido processo legal, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE 748.371, da Relatoria do Min. Gilmar Mendes, conforme se pode destacar do seguinte trecho da manifestação do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais”.
+    Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    O Tribunal de origem, com apoio no conjunto fático-probatório dos autos, concluiu que:
+    “(...) os ora recorrentes não negam que em setembro de 2000 perceberam valores referentes ao Fundo de Previdência Supletiva, nos termos postos na Deliberação 174/2000, ou seja, como estipulado no art. 8º, postulando com a presente demanda, a diferença entre a quantia restituída e a efetivamente devida relativa a todo patrimônio líquido.
+    Consoante prova pericial emprestada acostada nos autos, a fórmula prevista no art. 8º da Deliberação 174/00 (…)” (pág. 362 do volume 4 – grifos meus).
+    Desse modo, para dissentir do acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF, bem como, exige a análise de norma infraconstitucional (Lei 6.435/1977 e Deliberação 174/2000), de sorte que, a afronta à Constituição, se ocorrente, seria indireta.
+    Por fim, na espécie vertente, não foi julgada válida lei ou ato de governo local contestado em face da Constituição, o que inviabiliza o recurso extraordinário com base na alínea c do art. 102, III, da mesma Carta. Incabível, também, o presente recurso com base na alínea d do inciso III do art. 102 da Constituição Federal.
+    Desse modo, a análise do extraordinário interposto com fundamento no dispositivo apontado depende da demonstração de conflito de competência legislativa entre entes da Federação, sendo imprestável, no entanto, quando há mera pretensão de revisão de interpretação dada a norma infraconstitucional.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 28 de outubro de 2016.
+Ministro Ricardo Lewandowski
+Relator
