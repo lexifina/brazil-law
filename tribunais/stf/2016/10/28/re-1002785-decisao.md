@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado do Amazonas, reformando o entendimento do Juízo, assentou o direito de militar estadual à reforma, na mesma graduação, mas com remuneração calculada com base no soldo correspondente ao grau hierárquico imediato. No extraordinário, o recorrente alega a violação dos artigos 5º, incisos XXXVI e LXIX, da Constituição Federal. Afirma a inconstitucionalidade do artigo 98 da Lei estadual nº 1.154/76, considerada a Carta Federal de 1967. Discorre sobre a inexistência do direito adquirido ao recebimento da parcela, diante da referida inconstitucionalidade. Tece considerações sobre a inexistência de direito líquido e certo à concessão da segurança.
+    2. Colho da decisão monocrática expressamente mantida pelo acórdão recorrido, o seguinte trecho:
+    Por reforço, acredito não exagerar repetir que "a promoção de militar por ocasião de sua reforma, que é efetivamente vedada (cf. art 109, inciso XXII da CE/AM, art. 60 da Lei Estadual nº 1.154/75 e art. 62 da Lei Federal nº 6.880/80)", segundo jurisprudência dominante do Superior Tribunal, é hipótese totalmente distinta dos casos em que a "reforma se dá na mesma graduação, conquanto a remuneração seja calculada com base no soldo correspondente ao grau hierárquico imediato ao da ativa, sem qualquer promoção, não sendo inconstitucional o art. 98 da Lei Estadual nº 1.154/75", conforme bem salientou a Sexta Turma do Tribunal da Cidadania (STJ) no multicitado Recurso Ordinário em Mandado de Segurança - RMS nº. 28470/AM (Rel. Min. MARIA THEREZA DE ASSIS MOURA, 6ª Turma, j. 1/3/2012, DJe 19/3/2012).
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação da 1.154/75. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Ante o quadro, nego seguimento ao recurso.
+    4. Publiquem.
+Brasília, 28 de outubro de 2016.
+Ministro MARCO AURÉLIO
+Relator
