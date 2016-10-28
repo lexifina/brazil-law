@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recurso extraordinário interposto pela União Federal contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. FAZENDA PÚBLICA. HONORÁRIOS CONTRATUAIS. RPV. POSSIBILIDADE.
+    O Pleno do Supremo Tribunal Federal externou entendimento no sentido de que é possível a execução dos honorários advocatícios, devidos pela Fazenda Pública, mediante Requisição de Pequeno Valor, na hipótese em que os valores não excedam o limite estabelecido no art. 100, § 3º, da CF, independentemente do valor do crédito que não cabe ao advogado.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, XXXV, LIV, LV, 93, IX e 100, §§ 5º, 8º, todos da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 564.132/RS, Red. p/ o acórdão Min. CÁRMEN LÚCIA, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. ALEGADO FRACIONAMENTO DE EXECUÇÃO CONTRA A FAZENDA PÚBLICA DE ESTADO-MEMBRO. HONORÁRIOS ADVOCATÍCIOS. VERBA DE NATUREZA ALIMENTAR, A QUAL NÃO SE CONFUNDE COM O DÉBITO PRINCIPAL. AUSÊNCIA DE CARÁTER ACESSÓRIO. TITULARES DIVERSOS. POSSIBILIDADE DE PAGAMENTO AUTÔNOMO. REQUERIMENTO DESVINCULADO DA EXPEDIÇÃO DO OFÍCIO REQUISITÓRIO PRINCIPAL. VEDAÇÃO CONSTITUCIONAL DE REPARTIÇÃO DE EXECUÇÃO PARA FRAUDAR O PAGAMENTO POR PRECATÓRIO. INTERPRETAÇÃO DO ART. 100, § 8º (ORIGINARIAMENTE § 4º), DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO AO QUAL SE NEGA SEGUIMENTO.”
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 913.582/RS, Rel. Min. CÁRMEN LÚCIA – RE 917.803/RS, Rel. Min. LUIZ FUX, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e em face das razões expostas, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC/15, art. 932, IV, “b”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 28 de outubro de 2016.
+Ministro CELSO DE MELLO
+Relator
