@@ -1,0 +1,11 @@
+Decisão: 1. Em petição de 27.10.2016 (protocolo 61.411/2016), a Mesa do Senado Federal solicita sua admissão no processo, na qualidade de assistente, e pede, ao final, em razão da liminar deferida nestes autos, “seja autorizado, expressamente, o retorno dos Policiais Federais [leia-se: policiais legislativos] afastados ao exercício regular de suas funções no Senado Federal, determinando-se, ainda, a devolução dos equipamentos e documentos apreendidos à Polícia do Senado, ante a nulidade da decisão impugnada na Reclamação”.
+    Já no dia de hoje (protocolo 61.483/2016), a mesma requerente faz ainda outros esclarecimentos, pede a juntada de documentos e reitera o pedido de devolução dos equipamentos apreendidos, pelas razões que expõe, ressalvando, por fim, a possibilidade de ser “designado Policial do Senado Federal como seu fiel depositário, para viabilizar a realização de eventual e futura perícia, caso Vossa Excelência entenda necessário”.
+    2. Defiro, desde logo, o ingresso da Mesa do Senado Federal na qualidade de assistente, uma vez que “sobressai, de maneira inequívoca, o interesse institucional do Senado Federal na matéria, na medida em que lhe incumbe zelar pela observância irrestrita do estatuto funcional dos Senadores da República”, como sustentado. Vale lembrar, no entanto, que, embora sendo parte legítima para figurar nessa condição, o assistente recebe o processo no estado em que se encontra (CPC/2015, art. 119, parágrafo único).
+    3. A liminar deferida nestes autos determinou “a suspensão do IPL 010/2016-7 SR/DF/DPF e procedimentos conexos, bem como sua pronta remessa a esta Corte, devendo a autoridade reclamada proceder à imediata soltura de quaisquer detidos em decorrência do referido inquérito, se por outro motivo não estiverem presos”. Suspensos os procedimentos e os atos que lhes deram causa, o retorno dos policiais legislativos afastados ao exercício regular de suas funções é consequência natural e imediata.
+    Todavia, o mesmo não se pode dizer da devolução dos objetos apreendidos, que se acham vinculados ao inquérito de origem.
+    4. Ante o exposto, abra-se vista ao Ministério Público quanto ao requerimento da Mesa do Senado Federal.
+    Publique-se. Intime-se.
+    Brasília, 28 de outubro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
