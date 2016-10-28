@@ -1,0 +1,34 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. TEMPO DE SERVIÇO. SERVENTUÁRIO DE CARTÓRIO EXTRAJUDICIAL. LEI 4.810/1963 DO ESTADO DE GOIÁS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. INCIDÊNCIA DA SÚMULA 280 DO STF. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “APELAÇÃO EM MANDADO DE SEGURANÇA. PREVIDENCIÁRIO. TEMPO DE SERVIÇO. COMPROVAÇÃO. AVERBAÇÃO E CONTAGEM. ART. 40 DA LEI Nº 8.935/94 (QUE REGULAMENTOU O ART. 236 DA CONSTITUIÇÃO FEDERAL). SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+    – O conjunto probatório dos autos autoriza o reconhecimento do tempo de serviço pretendido, com fins de averbação e contagem, para fins de aposentadoria.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 40, § 1°, III, a, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 279 do STF.
+    O Ministério Público Federal opinou pelo desprovimento do recurso, em parecer que porta a seguinte ementa:
+    “Recurso extraordinário com agravo. Cômputo de período de atividade cartorária, anterior à CF/88, como tempo de serviço público, para fins de aposentadoria pela regra 95/85, do art. 3º da EC nº 47/2005. Reexame do conjunto fático-probatório dos autos. Súmula 279. Revisão da inteligência formada na origem sobre a legislação infraconstitucional pertinente. Impossibilidade. Parecer pelo desprovimento do agravo.”
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Para divergir das razões do referido acórdão seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Lei Federal 8.935/1994 e Lei 4.810/1963 do Estado de Goiás), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido, destaca-se o seguinte trecho das razões do acórdão recorrido:
+    “Inobstante o fato da Requerente não ser servidora pública no período sob pleito, observa-se que o art. 40 da Lei nº 8.935/94 regulamentou o art. 236 da Constituição Federal, bem como vinculou os Serventuários de Cartório Extrajudicial ao Regime Geral de Previdência Social, lhes garantindo, desta forma, a contagem do tempo de serviço em sistemas diversos:
+    'Art. 40 – Os notários, os oficiais de registro, escreventes e auxiliares são vinculados à previdência social, de âmbito federal, e têm assegurada a contagem recíproca de tempo em sistemas diversos.
+    Parágrafo único – Ficam assegurados, aos notários, oficiais de registro, escreventes e auxiliares os direitos e vantagens previdenciários adquiridos até a data de publicação desta lei.'
+    Impede mencionar que antes da promulgação da Constituição da República de 1988, a atividade desenvolvida junto aos serviços notariais e de registro poderia ser enquadrada como serviço público, quando, por exemplo, houvesse contribuição para o instituto de previdência social, como de fato ocorreu no caso em epígrafe.
+    Deve ser considerado, ainda, como bem salientado pelo Magistrado singular, que antes da promulgação da Lei nº 8.935/94 vigorava a Lei Estadual de Goiás, nº 4.810/63, que reconhecia o vínculo previdenciário dos empregados de cartório com o Estado.”
+    Verifica-se, assim, que a controvérsia relativa ao cômputo do tempo de serviço por atividade exercida em cartório extrajudicial, no presente caso, implica a análise de legislação infraconstitucional local aplicável à espécie (Lei 4.810/1963 do Estado de Goiás), o que encontra óbice na Súmula 280 do STF, de seguinte teor: “Por ofensa a direito local não cabe recurso extraordinário".
+    A propósito, menciono as lições do ilustre professor Roberto Rosas sobre a Súmula 280 desta Corte:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia. A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário. Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963). Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 138).
+    Nesse sentido foi a decisão proferida no ARE 685.664, Rel. Min. Gilmar Mendes, DJe de 2/12/2015, caso análogo ao presente:
+    “Verifico que, no caso, o acórdão manteve a sentença de primeiro grau e resolveu a controvérsia com base na legislação infraconstitucional aplicável à espécie. Confira-se:
+    ‘Inobstante o fato de a Requerente não ser servidora pública, o art. 40 da Lei nº 8.935/94 que regulamentou o art. 236 da Constituição Federal, e vinculou os serventuários de Cartório Extrajudicial ao regime geral de previdência social, lhes garantiu a contagem do tempo de serviço em sistemas diversos:
+      (…)
+    Importante ressaltar que antes da promulgação da Lei nº 8.935/94 vigorava a Lei Estadual nº 4.810/63, que reconhecia o vínculo previdenciário dos empregados de cartório com o Estado, consoante enfatizado pelo próprio Apelante (IPASGO) em sua contestação à fl. 243.
+    Assim, comprovada a prestação de serviços, com fundamento no artigo acima transcrito, percebo que é o caso de ser procedida a averbação junto ao Estado de Goiás para fins previdenciários da Autora’ (eDOC 6, fls. 125/138).
+    Assim, para concluir de forma diversa do consignado pelo Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos e da legislação infraconstitucional e local pertinentes (Lei 8.935/94 e Lei estadual 4.810/63), providências vedadas em sede de recurso extraordinário, nos termos da jurisprudência e das Súmulas 279 e 280 do Supremo Tribunal Federal.
+    (...)”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de outubro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
