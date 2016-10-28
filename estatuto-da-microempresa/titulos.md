@@ -61,12 +61,16 @@ Seção II
 Das Responsabilidades do Banco Central do Brasil
 Seção III
 Das Condições de Acesso aos Depósitos Especiais do Fundo de Amparo ao Trabalhador - FAT
+Seção IV
+(VETADO)
 CAPÍTULO X
 DO ESTÍMULO À INOVAÇÃO
 Seção I
 Disposições Gerais
 Seção II
 Do Apoio à Inovação
+Seção III
+Do Apoio à Certificação
 CAPÍTULO XI
 DAS REGRAS CIVIS E EMPRESARIAIS
 Seção I
