@@ -1,0 +1,25 @@
+DECISÃO:
+    Trata-se de agravo interno cujo objeto é decisão que negou provimento ao agravo, tendo em vista estar correta a decisão do Tribunal de origem que inadmitiu o recurso extraordinário (art. 544, § 4º, II, a, do CPC), sob o fundamento de que a hipótese atrai a incidência da Súmula 279/STF.
+    A parte agravante afirma que “o Fundo de Garantia do Tempo de Serviço - FGTS é devido aos servidores temporários, nas hipóteses em há declaração de nulidade do contrato firmado com a Administração Pública, consoante decidido pelo Plenário do STF, na análise do RE 596.478-RG, Rel. para o acórdão Min. Dias Toffoli, DJe de 1/3/2013”.
+    Intimado, com fundamento no art. 1.021, § 2º, do CPC/2015, o Estado do Acre manifestou-se pelo não conhecimento do agravo interno, mas, caso conhecido, pelo desprovimento.
+    Assiste razão à parte agravante, motivo pelo qual reconsidero a decisão.
+    Passo à analise do recurso extraordinário.
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Acre, assim ementado:
+    “AGRAVO REGIMENTAL E APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA. CONTRATAÇÃO TEMPORÁRIA. NATUREZA JURÍDICO-ADMINISTRATIVA. REGIME ESTATUTÁRIO. INEXISTÊNCIA DE RELAÇÃO CELETISTA. FUNDO DE GARANTIA POR TEMPO DE SERVIÇO. PAGAMENTO. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+    1. A hipótese dos autos não diz respeito à investidura em cargo ou emprego público posteriormente anulada por descumprimento do princípio do concurso público (insculpido no artigo 37, § 2º, da Constituição Federal), mas, pura e simplesmente, de contratação de servidor temporário (em regime excepcional), cuja hipótese não incide o direito ao pagamento do fundo de garantia por tempo de serviço – FGTS.
+    2. A eventual declaração de nulidade dos contratos de trabalho, sob a alegação de unicidade do pacto laboral ou prorrogação, não transmuda a natureza jurídica da relação de trabalho, de modo a não subsistir direito ao fundo de garantia por tempo de contribuição – FGTS para os trabalhadores temporários vinculados à administração pública, porquanto não submetidos ao regime celetista, mas a regime jurídico administrativo.
+    3. Recurso não provido.”
+    A parte recorrente, na peça de recurso extraordinário (art. 102, III, a, da Constituição Federal), alega que ocorreu violação ao art. 37, II, IX e § 2º, da Constituição.
+    O recurso extraordinário deve ser provido. A conclusão do Tribunal de origem não se alinha à jurisprudência desta Corte, firmada no julgamento de mérito do RE 596.478-RG, Relator para o acórdão o Ministro Dias Toffoli, no sentido de que com a nulidade do contrato temporário haverá direito do trabalhador ao recolhimento do FGTS. Veja-se, por oportuno, a ementa do referido julgado:
+    “Recurso extraordinário. Direito Administrativo. Contrato nulo. Efeitos. Recolhimento do FGTS. Artigo 19-A da Lei nº 8.036/90. Constitucionalidade.
+    1. É constitucional o art. 19-A da Lei nº 8.036/90, o qual dispõe ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário.
+    2. Mesmo quando reconhecida a nulidade da contratação do empregado público, nos termos do art. 37, § 2º, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados.
+    3. Recurso extraordinário ao qual se nega provimento.”
+    Nesse sentido, confiram-se as seguintes decisões proferidas em casos semelhantes ao que ora se analisa:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DIREITOS SOCIAIS DO TRABALHO. APLICABILIDADE A CONTRATOS TEMPORÁRIOS SUCESSIVAMENTE PRORROGADOS: PRECEDENTES. AGRAVO PROVIDO E RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO.” (ARE 897.271/AC, Rel.ª Min.ª Cármen Lúcia)
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. Contratação temporária. Direito ao recebimento do Fundo de Garantia por Tempo de Serviço. 3. Contrato por tempo indeterminado e inexistência de excepcional interesse público. Nulidade do contrato. 4. Efeitos jurídicos: pagamento do saldo salarial e levantamento de FGTS. Precedentes: RE-RG 596.478, red. do acórdão Dias Toffoli, e RE-RG 705.140, rel. min. Teori Zavascki. 5. Aplicabilidade dessa orientação jurisprudencial aos casos de contratação em caráter temporário pela Administração Pública. Precedentes. 6. Agravo regimental a que se nega provimento.” (RE 863.125-AgR/MG, Rel. Min. Gilmar Mendes. Segunda Turma)
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 543-B do CPC/1973, determino o retorno dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral, de modo que o julgamento da controvérsia se dê à luz do assentado no RE 596.478-RG.
+    Publique-se.
+          Brasília, 28 de setembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
