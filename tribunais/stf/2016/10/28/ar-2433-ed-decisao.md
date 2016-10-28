@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Cuida-se de embargos de declaração, opostos pela União, em face de decisão monocrática de minha lavra, mediante a qual neguei seguimento a ação rescisória, por aplicação da Súmula STF nº 343.
+    Em sua peça de embargos, sustenta a União obscuridade no julgado, aos seguintes argumentos, em sequência:
+    1) a pretensão da União com a rescisória consiste em excluir o pagamento da URP de fevereiro/89 dos proventos dos réus, o qual fora restabelecido pela ação originária (mandado de segurança), sob fundamentação de que “o TCU não poderia esvaziar uma determinação judicial transitada em julgado”[o pagamento da rubrica se originou em ação judicial];
+    2) Há decisões desta Suprema Corte no sentido de que a superveniente alteração dos pressupostos fáticos e jurídicos que serviram de suporte à concessão judicial da URP “determina a imediata cessação da eficácia executiva do julgado, independentemente de ação rescisória”;
+    3) “apesar de aplicar a súmula 343 para negar seguimento à ação rescisória, o decisum ressalvou a limitação da coisa julgada em face de relações jurídicas de trato sucessivo”, de modo que restaria obscuro “se o acórdão do MS nº 27.962/DF restou superado em face do entendimento superveniente sufragado no MS nº 26.980 e RE-RG 596.663”.
+    Requer seja “esclarecido o decisum embargado para que, apesar da negativa de seguimento, constar a viabilidade da União paralisar o pagamento da URP de fevereiro/89 (26,05%) em favor do requerido”.
+    É o relatório. Decido.
+    Não está presente qualquer hipótese autorizadora da oposição do recurso declaratório.
+    O julgado embargado não incorreu em obscuridade, tendo o órgão julgador decidido, fundamentada e claramente, todos os pontos colocados em debate, nos limites necessários ao deslinde do feito.
+    Pretende a embargante obter, por meio dos presentes embargos, concessão dos efeitos da rescisão do julgado mesmo diante da improcedência da rescisória, fim para o qual não se prestam os embargos de declaração, visto não ser o instrumento adequado para se provocar o reexame da matéria de fundo. Sobre o tema:
+    “EMBARGOS DE DECLARAÇÃO NO SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS” (ARE nº 710.281/RS-AgR-segundo-ED, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 31/3/14).
+    “EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. Os embargos de declaração constituem recurso hábil para sanar omissão, contradição ou obscuridade existentes na decisão embargada, o que não ocorre no presente caso. Embargos de declaração rejeitados” (ARE nº 701.246/RS-AgR-ED, Tribunal Pleno, Relator o Ministro Joaquim Barbosa, DJe de 21/3/14).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. REDISCUSSÃO DA MATÉRIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS. I - Ausência dos pressupostos do art. 535, I e II, do Código de Processo Civil. II - O embargante busca, tão somente, a rediscussão da matéria nestes embargos de declaração, os quais, por sua vez, não constituem meio processual adequado para a reforma do decisum , não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. III - Embargos de declaração rejeitados” (RE nº 558.258/SP-ED, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 30/6/11).
+    “Embargos de declaração que pretendem rediscutir os fundamentos já repelidos no julgamento do recurso extraordinário e do agravo regimental: ausência de omissão, contradição ou obscuridade a suprir: caráter manifestamente protelatório: rejeição e condenação dos embargantes ao pagamento de multa, nos termos do art. 538, parágrafo único, C.Pr.Civil” (RE nº 449.191/DF-AgR-ED, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 10/8/07).
+    Saliente-se, por fim, que o julgado embargado apenas deliberou pela impossibilidade de rescisão da decisão proferida nos autos da ação originária (ou seja, a decisão rescindenda permanece no universo jurídico), sendo essa a exclusiva matéria que se insere no âmbito da pretensão rescisória, não sendo possível realizar, nessa via, avaliação quanto à possibilidade de, no caso concreto, suspender o pagamento.
+    Rejeito, pois, os embargos de declaração.
+    Publique-se. Intime-se.
+    Brasília, 28 de outubro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
