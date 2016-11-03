@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que anulou a sentença, ante a ocorrência de julgamento extra petita, e determinou o retorno dos autos ao juízo de origem.
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação aos arts. 2º, 167 e 169 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido entendeu configurado o julgamento extra petita e anulou a sentença, sem avançar no exame das questões de fundo. O recurso extraordinário, todavia, limitou-se a desenvolver argumentos sobre o mérito, notadamente acerca da suposta violação aos arts. 2º, 167 e 169 da Constituição Federal.
+    Desse modo, verifica-se que as razões recusais, além de não impugnarem os fundamentos do acórdão recorrido, estão dissociadas daquilo que foi decidido pelo Tribunal de origem, o que torna o recurso inadmissível nos termos da Súmula 284 do STF. Nesse sentido, cito julgados de ambas as Turmas desta Corte:
+    “EMENTA: DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. REPRESENTAÇÃO SINDICAL. SUBSTITUTO PROCESSUAL. ILEGIMIDADE ATIVA AD CAUSAM. ENTIDADE SINDICAL ESPECÍFICA. RECURSO EXTRAORDINÁRIO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA 284/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 03.8.2010. Deficiência na fundamentação por ausência de ataque, nas razões do recurso extraordinário, aos fundamentos do acórdão recorrido. Aplicação da Súmula 284/STF: ‘É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.’ Agravo regimental conhecido e não provido” (ARE 707.117-AgR/MG, Rel. Min. Rosa Weber, Primeira Turma – grifos meus).
+    “EMENTA: PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. AÇÃO POPULAR. CABIMENTO. DESNECESSIDADE DE DEMONSTRAÇÃO DE PREJUÍZO MATERIAL AOS COFRES PÚBLICOS. ENTENDIMENTO REAFIRMADO NO JULGAMENTO DO ARE 824.781-RG (REL. MIN. DIAS TOFFOLI, TEMA 836). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE 722.483-AgR/DF, Rel. Min. Teori Zavascki, Segunda Turma – grifos meus).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 3 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
