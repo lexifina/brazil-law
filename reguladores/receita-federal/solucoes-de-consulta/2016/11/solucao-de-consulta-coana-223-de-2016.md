@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 223, de 23 de setembro de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9504.50.00 Ex Tipi: Ex 01 Mercadoria: Controlador especialmente desenvolvido para console de videogames, sem fio, que possui duas alavancas analógicas, instruções D-pad (controle direcional), quatro botões de comando, quatro botões adicionais e quatro gatilhos, denominado de "gamepad".
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 3 do Capítulo 95 e da posição 95.04), RGI 6 (textos da Nota de subposição 1 a) do Capítulo 95 e da subposição de 1º nível fechada 9504.50) e RGC/Tipi (texto do Ex 01 do código 9504.50.00), constante da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9504.50.00 Ex Tipi: Ex 01 Mercadoria: Controlador especialmente desenvolvido para console de videogames, sem fio, que possui duas alavancas analógicas, instruções D-pad (controle direcional), quatro botões de comando, quatro botões adicionais e quatro gatilhos, denominado de "gamepad".
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 3 do Capítulo 95 e da posição 95.04), RGI 6 (textos da Nota de subposição 1 a) do Capítulo 95 e da subposição de 1º nível fechada 9504.50) e RGC/Tipi (texto do Ex 01 do código 9504.50.00), constante da Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, e da TEC, aprovada pela Resolução Camex nº 94, de 8 de dezembro de 2011; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+DANIELLE CARVALHO DE LACERDA
+Presidente Da 3ª Turma
