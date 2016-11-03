@@ -1,0 +1,20 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, New Era Cap Company Inc. Aparelhado o recurso na alegação de ofensa ao art. 5º, XXXIX, XXXII, XXXV, e LV, da Carta da República.
+    A matéria debatida, em síntese, diz com a verificação da decadência do direito de propor ação penal privada.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    O Juízo sentenciante declarou extinta a punibilidade do recorrido, Jorge da Silva, em face do decurso do prazo decadencial sem que oferecida a queixa-crime. Irresignado, o recorrente interpôs recurso de apelação. A Turma Criminal da Corte de origem julgou o recurso em acórdão assim ementado:
+    “CRIME CONTRA A PROPRIEDADE INDUSTRIAL. COMÉRCIO DE BONÉS CONTENDO ESTAMPAS DA MARCA "NEW ERA". AÇÃO PENAL PRIVADA. EXTINÇÃO DA PUNIBILIDADE PELO DECURSO DO PRAZO DECADENCIAL. INOBSERVÂNCIA DO RITO ESPECIAL. DECISÃO MANTIDA. 1. Decorrido lapso temporal superior a seis meses a contar da data em que o querelante tomou ciência do fato e de sua autoria sem a propositura da ação penal privada, correta a extinção da punibilidade pela decadência do direito de queixa. 2. Inaplicabilidade do art. 529 do CPP porque não cumprido pelo querelante o procedimento especial previsto para os crimes contra a propriedade imaterial. RECURSO DESPROVIDO.”
+    Nada colhe o recurso.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie (Código de Processo Penal), razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao art. 5º, XXXIX e XXXII, da Constituição da República. Nesse sentido cito o AI 803983 AgR, Rel. Min. Marco Aurélio, 1ª Turma, DJe 1º.02.2012 e o ARE 969.273-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 10.8.2016, cuja ementa transcrevo:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. OFENSA REFLEXA. REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL DESPROVIDO. 1. A alegada ofensa aos incisos I, XXII, XXIX, XXXV, LIV e LV do art. 5º da CRFB reclama reexame da legislação infraconstitucional aplicável à espécie, impossível na via do recurso extraordinário, por configurar ofensa indireta à Constituição Federal. 2. Para simples reexame de prova não cabe recurso extraordinário (Enunciado 279 da Súmula do STF). A pretensão de revisão das razões que ensejaram a rejeição da queixa crime, principalmente no que toca à decadência, reclama revisão de fatos e provas, inviável na via estreita do recurso extraordinário. 3. Agravo regimental desprovido.”
+    Verifico, ainda, que no julgamento do RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, decidiu-se pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do devido processo legal, do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, cuja ementa transcrevo:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Acresço que o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”).
+    Nesse sentir, não merece processamento o apelo extremo, ausente ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de novembro de 2016.
+Ministra Rosa Weber
+Relatora
