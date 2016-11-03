@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 225, de 23 de setembro de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 2202.10.00 Ex 01 da Tipi Mercadoria: Bebida pronta para consumo, constituída por mistura de suco de uma fruta (uva, laranja, abacaxi ou maracujá, que designam os diversos sabores da bebida) com suco de maçã, diluídos em água potável, adicionada de açúcar, ácido cítrico (acidulante), ácido ascórbico (antioxidante), aromatizantes e vitaminas, apresentada em embalagens hermeticamente fechadas de 1 litro ou de 200 ml.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 22.02), RGI 6 (texto da subposição 2202.10.00) e RGC/Tipi-1 (texto do Ex 01 do código 2202.10.00) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 2202.10.00 Ex 01 da Tipi Mercadoria: Bebida pronta para consumo, constituída por mistura de suco de uma fruta (uva, laranja, abacaxi ou maracujá, que designam os diversos sabores da bebida) com suco de maçã, diluídos em água potável, adicionada de açúcar, ácido cítrico (acidulante), ácido ascórbico (antioxidante), aromatizantes e vitaminas, apresentada em embalagens hermeticamente fechadas de 1 litro ou de 200 ml.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 22.02), RGI 6 (texto da subposição 2202.10.00) e RGC/Tipi-1 (texto do Ex 01 do código 2202.10.00) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+MARCO ANTÔNIO RODRIGUES CASADO
+Presidente da Turma
