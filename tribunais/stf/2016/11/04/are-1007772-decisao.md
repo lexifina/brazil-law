@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da 2ª Turma Recursal dos Juizados Especiais da Bahia, cuja ementa transcrevo:
+    “MANDADO DE SEGURANÇA. DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO, ANTE O PREPARO INCOMPLETO. AUSÊNCIA DE RECOLHIMENTO TEMPESTIVO DO DAJ REFERENTE AO ATO “DOS RECURSOS EM GERAL” ALEGAÇÃO DE ERRO NO PREENCHIMENTO DAS GUIAS. PAGAMENTO EM DUPLICIDADE DO ATO “CITAÇÃO”, CUJO VALOR É INFERIOR AO ATO FALTOSO. ILEGALIDADE INOCORRENTE. INEXISTÊNCIA DE EQUÍVOCO JUSTIFICÁVEL QUANTO AO VALOR A SER PAGO. IMPOSSIBILIDADE DE COMPLEMENTAÇÃO. INTELIGÊNCIA DA RECLAMAÇÃO 4278-RJ (2010/009463-3). PETIÇÃO INICIAL INDERERIDA DE PLANO.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos artigos 5º, LV, da Constituição da República, sob alegação de violação dos princípios do duplo grau de jurisdição, da legalidade, do acesso à justiça, da razoabilidade da prestação jurisdicional.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Primeiramente, no exame do RE-RG 576847, de relatoria do Ministro Eros Grau, DJe 07.08.2009 (Tema 77), o Plenário desta Corte reconheceu a repercussão geral e assentou o entendimento de que não cabe mandado de segurança das decisões exaradas em processos submetidos ao rito da Lei nº 9.099/95.
+    No julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa ao princípio do devido processo legal e consectários, como ampla defesa e contraditório, da porporcionalidade e razoabilidade, é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Por fim, ao julgar o RE-RG 950.787, Rel. Min. Luiz Fux, DJe 09.06.2016 (Tema 890), o Plenário deste Tribunal afirmou não existir repercussão geral nos casos em que a alegada ofensa ao princípios constitucionais da dignidade, da legalidade, entre outros, ocorre de forma genérica, exigindo interpretação das normas infraconstitucionais e revolvimento do conjunto fático-probatório dos autos, o que torna inadmissível o processamento do recurso extraordinário.
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 328 do RISTF.
+    Publique-se.
+    Brasília, 4 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
