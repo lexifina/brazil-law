@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PRIMEIROS QUINZE/TRINTA DIAS DE AFASTAMENTO. AVISO PRÉVIO INDENIZADO. TERÇO CONSTITUCIONAL DE FÉRIAS GOZADAS.
+    1. A jurisprudência do Superior Tribunal de Justiça pacificou-se no sentido de que não é devida a contribuição previdenciária sobre a remuneração paga pelo empregador ao empregado durante os primeiros quinze dias (30 dias, a partir da MP 664/2014) de afastamento por motivo de doença (§ 3º do art. 60 da Lei 8.213/91), porquanto essa verba não tem natureza salarial, já que não é paga como contraprestação do trabalho.
+    2. O STJ consolidou o entendimento de que o valor pago ao trabalhador a título de aviso prévio indenizado, por não se destinar a retribuir o trabalho e possuir cunho indenizatório, não está sujeito à incidência da contribuição previdenciária sobre a folha de salários.
+    3. Em relação ao adicional de 1/3 de férias, realinhando a posição jurisprudencial desta Corte à jurisprudência do STJ e do STF, no sentido de que a referida verba detém natureza indenizatória por não se incorporar à remuneração do servidor para fins de aposentadoria, afastando-se a incidência de contribuição previdenciária sobre o terço constitucional de férias.” (eDOC 5)
+    Nas razões recursais, sustenta-se que é devida a cobrança de contribuição previdenciária sobre o terço constitucional de férias gozadas.
+    É o relatório.
+    De plano, reputa-se que eventual divergência ao entendimento adotado pelo juízo a quo, em relação à natureza jurídica da verba, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo.
+    Confiram-se os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. TERÇO CONSTITUCIONAL DE FÉRIAS. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. 1. A controvérsia relativa à natureza jurídica das verbas percebidas pelo contribuinte, para fins de incidência da contribuição previdenciária, demanda o reexame do acervo probatório constante dos autos e da legislação infraconstitucional pertinente, circunstância que impede a abertura da via extraordinária. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, §2º, do CPC/1973.”
+(RE 930531 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 4.11.2016)
+    “EMBARGOS DECLARATÓRIOS EM RECURSO EXTRAORDINÁRIO COM AGRAVO. EFEITOS INFRINGENTES. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA SOBRE TERÇO DE FÉRIAS GOZADAS. INCIDÊNCIA. PRECEDENTES. TEMA 163 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. 1. Verifica-se que eventual divergência ao entendimento adotado pelo juízo a quo, quanto à natureza jurídica da verba discutida, para fins de incidência de imposto de renda, demandaria o reexame da legislação infraconstitucional aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo. Precedentes. 2. A matéria objeto do RE-RG 593.068, de relatoria do Ministro Roberto Barroso (Tema 163), cuja questão constitucional suscitada teve a repercussão geral reconhecida, discute a exigibilidade da contribuição previdenciária incidente sobre adicionais e gratificações temporárias, insertos ou não na base de cálculo do referido tributo, não abrangendo, portanto, questões afetas ao imposto de renda sobre determinadas verbas. 3. Agravo regimental a que se nega provimento.”
+(ARE 953448 ED, de minha relatoria, Primeira Turma, DJe 10.08.2016)
+    Ante o exposto, conheço do recurso extraordinário a que se nega seguimento, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 4 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
