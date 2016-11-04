@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu provimento ao recurso do Ministério Público “PARA ANULAR O JULGAMENTO PELO TRIBUNAL, DEVENDO A OUTRO SER SUBMETIDO O RÉU, OBSERVADAS AS FORMALIDADES LEGAIS”.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIII e XXXVIII, c, da Constituição. Afirma que “a absolvição do ora recorrente, como reconheceu o Nobre Conselho de Sentença, encontra amparo em prova idônea produzida em Juízo, e por tal razão deve ser mantida decisão dos Senhores Jurados, em obediência a soberania dos veredictos”.
+    O recurso é inadmissível, tendo em vista que o Supremo Tribunal Federal já decidiu tratar-se de matéria infraconstitucional a questão relativa à afronta ao princípio do juiz natural. Nessa linha, vejam-se o AI 839.398, Rel. Min. Joaquim Barbosa; o AI 735.009, Rel. Min. Cezar Peluso; o AI 681.668-AgR, Rel.ª Min.ª Ellen Gracie; o AI 845.223 AgR-ED, Rel. Min. Luiz Fux; e o RE 255.639, Rel. Min. Ilmar Galvão.
+    Ademais, a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Nessa linha, veja-se o seguinte julgado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA CRIMINAL. TRIBUNAL DO JÚRI. RÉU CONDENADO POR HOMICÍDIO QUALIFICADO. PRELIMINAR DE NULIDADE DO JULGAMENTO: ATUAÇÃO MINISTERIAL QUE SE CONTRAPÔS À PROVA TÉCNICA. VIOLAÇÃO À SOBERANIA DOS VEREDICTOS (ALÍNEA 'C' DO INCISO XXXVIII DO ART. 5º DA CF/88). NECESSIDADE DE REVOLVIMENTO DE MATERIAL PROBATÓRIO. ÓBICE DA SÚMULA 279/STF. ALEGADA AFRONTA AO DEVIDO PROCESSO LEGAL E À AMPLA DEFESA (INCISOS LIV E LV DO ART. 5º DA CF/88). OFENSA MERAMENTE REFLEXA AO MAGNO TEXTO. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Para que se pudesse entender violada a soberania dos veredictos (alínea 'c' do inciso XXXVIIII do art. 5º da Magna Carta) seria necessário um amplo revolvimento de matéria fática. Em sede extraordinária, impossível aceitar a tese de que o Promotor de Justiça se contrapôs à prova técnica dos autos (relatório de necropsia e exame de balística).
+    2. Não procedem as alegadas afrontas ao devido processo legal e ampla defesa (incisos LIV e LV do art. 5º da CF/88). Pacífica a jurisprudência deste STF, no sentido de que eventual afronta ao Magno Texto ocorreria apenas de modo reflexo ou indireto. A jurisdição foi regularmente prestada pelo Tribunal recorrido, embora contrariando os interesses da parte agravante.
+    3. Agravo desprovido.” (AI 709.068-AgR, Rel. Min. Ayres Britto)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 04 de novembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
