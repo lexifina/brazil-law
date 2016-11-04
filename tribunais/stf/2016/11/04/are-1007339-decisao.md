@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “PROCESSUAL CIVIL – EXECUÇÃO FISCAL – AGRAVO LEGAL RESPONSABILIDADE DE SÓCIO – PROVA DAS OCORRÊNCIAS DO ART. 135, III, DO CTN A SER PRODUZIDA PELA EXEQUENTE – SOLIDARIEDADE DO ART. 13 DA LEI 8.260/93 – INAPLICÁVEL – INCONSTITUCIONALIDADE – INFRAÇÃO AOS ARTIGOS 33, § 2º, 32, IV, §§ 5º E 6º E 52, II AMBOS DA LEI 8.212/91 – OCORRÊNCIA (...)” (págs. 20-21 do documento eletrônico 5).
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, a recorrente alega, em suma, violação aos arts. 5º, LV, 150, IV, e 192, da mesma Carta. Afirma que houve cerceamento de defesa por ter o juízo de origem indeferido a produção de provas e impugna a aplicação da multa e da taxa Selic.
+    A pretensão recursal não merece acolhida.
+     Preliminarmente, ressalto que o Supremo Tribunal Federal firmou orientação no sentido de ser inadmissível a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais da ampla defesa e do contraditório nos casos de indeferimento de pedido de produção de provas requeridos no âmbito do processo judicial, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 639.228-RG (Tema 424), da relatoria do Ministro Presidente, cuja ementa segue transcrita:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional”.
+    Quanto à aplicação de multa e da taxa Selic, assim decidiu o Tribunal de origem:
+    “(...) as razões estão dissociadas, pois a sentença deixou de apreciar as questões da natureza confiscatória da multa e da ilegalidade da taxa SELIC, ao fundamento de não haver cobrança de multa nem aplicação da SELIC. No entanto, a parte embargante repete os mesmos argumentos postos na exordial” (pág. 12 do documento eletrônico 5).
+    Verifica-se que, ao contrário do alegado, não houve aplicação de multa ou da taxa Selic. Isso demonstra que as razões recursais do apelo extremo estão dissociadas dos fundamentos do acórdão recorrido, o que caracteriza a deficiência na sua fundamentação. Inadmissível o recurso, nos termos da Súmula 284 do STF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 4 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
