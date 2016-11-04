@@ -1,0 +1,17 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, o qual restou assim ementado:
+    “TRIBUTÁRIO. EXAÇÕES INSTITUÍDAS PELA LEI COMPLEMENTAR Nº 110/2001. CARÁTER TRANSITÓRIO. CONTRIBUIÇÕES SOCIAIS. ART. 149 DA CF/88. FINALIDADE ATINGIDA. PRESUNÇÃO. IMPOSSIBILIDADE. CABIMENTO DA EXIGÊNCIA. HONORÁRIOS ADVOCATÍCIOS.
+    1. Quanto à contribuição social prevista no art. 1º da LC 110/2001, incidente em caso de despedida de empregado sem justa causa, à alíquota de 10% sobre todos os depósitos devidos, referentes ao FGTS, durante a vigência do contrato de trabalho, acrescidos das remunerações aplicáveis às contas vinculadas, teria sido esta criada por tempo indefinido.
+    2. A natureza jurídica das duas exações criadas pela LC 110/2001 é tributária, caracterizando-se como contribuições sociais enquadradas na sub-espécie contribuições sociais gerais. E, portanto, se submetem à regência do art. 149 da Constituição.
+    3. Quanto à finalidade das contribuições combatidas, o Ministro Moreira Alves concluiu pela inequívoca finalidade social, a saber, atender ao direito social referido no inciso III do art. 7º da Constituição de 1988, isto é, o fundo de garantia do tempo de serviço.
+    4. No tocante à satisfação da finalidade, é necessária análise técnica ampla, através de perícia e discriminação específica das contas do fundo, o que incumbiria, ab initio, ao Poder Executivo e ao Poder Legislativo, pois a contribuição, conforme o art. 1º da Lei Complementar 110/01, não tem prazo previsto para seu exaurimento, de forma que incide o art. 97, inciso I, do CTN, isto é, somente a Lei pode estabelecer a extinção de tributos.
+    5. A contribuição do art. 1º da Lei Complementar nº 110/01 não foi criada com prazo de vigência determinado e não há comprovação de que os recursos dela provenientes estejam sendo destinados ao caixa geral do tesouro, ao invés de serem destinados ao FGTS.
+    6. A alínea 'a' do inc. III do § 2º do art. 149 da Constituição, com a redação dada pela EC 33/2001, não contém rol taxativo.
+    7. Manutenção da verba advocatícia, pois fixada em atenção às diretrizes contidas no art. 20, §§ 3º e 4º, do CPC,” (eDOC 9)
+    A esse respeito, verifica-se que a controvérsia cinge-se ao Tema 846 da sistemática da repercussão geral, cujo recurso-paradigma é o RE-RG 878.313, de relatoria do Ministro Marco Aurélio, DJe 22.09.2015, assim ementado:
+    “CONTRIBUIÇÃO SOCIAL – ARTIGO 1º DA LEI COMPLEMENTAR Nº 110/2001 – FINALIDADE EXAURIDA – ARTIGOS 149 E 154, INCISO I, DA CARTA DE 1988 – ARGUIÇÃO DE INCONSTITUCIONALIDADE SUPERVENIENTE – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia relativa a saber se, constatado o exaurimento do objetivo – custeio dos expurgos inflacionários das contas vinculadas do Fundo de Garantia do Tempo de Serviço – em razão do qual foi instituída a contribuição social versada no artigo 1º da Lei Complementar nº 110, de 29 de junho de 2001, deve ser assentada a extinção do tributo ou admitida a perpetuação da cobrança ainda que o produto da arrecadação seja destinado a fim diverso do original.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 1.036 do Novo Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 04 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
