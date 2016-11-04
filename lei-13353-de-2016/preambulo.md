@@ -1,0 +1,2 @@
+Altera a Lei Complementar nº 70, de 30 de dezembro de 1991, as Leis nº 9.532, de 10 de dezembro de 1997, e 8.894, de 21 de junho de 1994, e a Medida Provisória nº 2.158-35, de 24 de agosto de 2001, para conceder isenções tributárias à Academia Brasileira de Letras, à Associação Brasileira de Imprensa e ao Instituto Histórico e Geográfico Brasileiro; concede remissão e anistia de débitos fiscais dessas instituições; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
