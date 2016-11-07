@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1667, de 4 de novembro de 2016
+Aprova a tradução das atualizações das Notas Explicativas do Sistema Harmonizado de Designação e de Codificação de Mercadorias decorrentes de atualizações publicadas pela Organização Mundial das Alfândegas (OMA) e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 2º do Decreto nº 435, de 28 de janeiro de 1992, e no art. 1º da Portaria MF nº 91, de 24 de fevereiro de 1994, resolve:
