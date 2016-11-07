@@ -1,0 +1,28 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (Fls. 350-351):
+    "PROCESSO CIVIL. EMBARGOS À EXECUÇÃO DE SENTENÇA. 84,32%. TRANSITO EM JULGADO. COISA JULGADA SOBERANA. VALIDADE FORMAL DA EXECUÇÃO. LEGITIMAÇÃO PASSIVA E ATIVA. EXIGIBILIDADE DO TÍTULO.
+    - A inicial das execuções de sentença não reclama complexidade formal, até porque se segue ao processo de cognição, bastando a identificação das partes, a enunciação do valor e o desejo do vencedor de ver cumprida a obrigação.
+    - Proposta a ação contra autarquia federal que se extingue depois de instaurada a instância, tem, a União Federal, bem assim a autarquia que sucede a extinta, legitimidade passiva para responder pela condenação;
+    - Nas ações coletivas que versem sobre interesses individuais homogêneos, a lista de substituídos processuais que acompanha a inicial do processo de cognição não pode ser posteriormente complementada, máxime em casos onde a matéria já restou discutida e preclusa, devendo ser acolhida a preliminar de ilegitimidade ativa quanto aos exeqüentes que não figuravam da lista original;
+    - A decisão do STF que torna inexigível o título executivo judicial, nos termos do parágrafo único, do art. 741, do CPC, é a tomada em sede de controle concentrado, dado que opera efeitos erga omnes e vinculantes. Assim, a inexigibilidade da sentença é sanção imposta ao ato judicial recalcitrante. Não é o que ocorre no caso dos autos onde a sentença é anterior ao pronunciamento da Suprema Corte, este em sede de controle difuso, daí porque o título é exigível;
+    - Se o tão só julgamento do Supremo Tribunal Federal, em sede de controle difuso, em desfavor de uma tese, fosse suficiente para deseficacizar todas as outras decisões, passadas e futuras, em favor da mesma tese, seria desnecessária a existência, no sistema jurídico, do próprio Recurso Extraordinário;
+    - Apelação parcialmente provida"
+    Os embargos de declaração opostos pela União foram desprovidos (Fls. 464).
+    No recurso extraordinário, interposto com fulcro no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, XXXVI, LIV, LV e 97, da Constituição Federal.
+    Sustenta-se, em síntese, a inexigibilidade do título executivo judicial, nos termos do art. 741, parágrafo único, do CPC/1973, e afirma que o Tribunal a quo declarou a inconstitucionalidade parcial do citado artigo ao considerar sua inaplicabilidade aos títulos executivos fundados em sentença judicial transitada em julgado em momento anterior ao de sua edição.
+    É o relatório. Decido.
+    Inicialmente, quanto à alegada ofensa ao inciso XXXVI, LIV e LV do artigo 5º da Constituição Federal, ressalta-se que o Supremo Tribunal Federal já assentou que não há repercussão geral (Tema 660) quando a ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, tornando inadmissível o recurso extraordinário (ARE-RG 748.371, Rel. Ministro Gilmar Mendes, DJ de 01.08.2013).
+    Melhor sorte não assiste ao recorrente quanto ao tema central do apelo extraordinário.
+    Ambas as Turmas do Supremo possuem entendimento consolidado quanto à ausência de ofensa constitucional direta em relação à aplicabilidade do disposto no art. 741, parágrafo único, do CPC/1973, às decisões transitadas em julgado antes da edição da MP n. 2.180-35/01. Confiram com as seguintes ementas:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ARTIGO 741 DO CPC. APLICAÇÃO ÀS SENTENÇAS TRANSITADAS EM JULGADO ANTES DA EDIÇÃO DA MP Nº 2.180/2001. OFENSA REFLEXA. ALEGADA VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. AUSÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO TRIBUNAL A QUO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.”(ARE 873.120 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 11.04.2016)
+    “DIREITO CONSTITUCIONAL E PROCESSUAL. OFENSA AO ART. 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO FEDERAL: ART. 741, PARÁGRAFO ÚNICO, DO CPC. TÍTULO EXECUTIVO JUDICIAL.
+    1. A controvérsia presente nos autos configura ofensa indireta ou reflexa à Constituição Federal, o que não dá ensejo a esta via processual. Precedentes.
+    2. Agravo regimental improvido.” (RE 471.656 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 05.06.09)
+    No mesmo sentido: ARE 864.316, Rel. Min. Roberto Barroso, DJe 18.12.2015; RE 495.921 AgR, Rel. Min. GILMAR MENDES, DJe 20.05.2014.
+    Ademais, quanto à alegação de ofensa à cláusula da reserva de plenário, observa-se que o Tribunal de origem, ao analisar o caso concreto, não declarou inconstitucional a legislação aplicada, nem afastou sua aplicação por julgá-la inconstitucional, mas apenas interpretou a norma legal.
+    A jurisprudência do STF é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula da reserva de plenário, o que não se verificou no caso concreto. Confiram-se, a propósito, os seguintes julgados: AI-AgR 848.332, de relatoria do Ministro Dias Toffoli, Primeira Turma, DJe 24.04.2012, e ARE-AgR-ED 736.780, de relatoria do Ministro Gilmar Mendes, Segunda Turma, DJe 22.05.2015.
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 07 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
