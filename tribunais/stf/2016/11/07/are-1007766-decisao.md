@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, nos autos da Apelação n. 1.0024.14.222350-2/001.
+    Consta dos autos que o recorrente foi condenado pela prática do delito descrito no art. 33, caput, da Lei 11.343/2006, à pena de 6 anos e 6 meses de reclusão, a ser cumprida inicialmente no regime fechado, além do pagamento de 650 dias-multa.
+    Irresignada, a defesa interpôs apelação criminal no Tribunal de Justiça mineiro, que negou provimento ao recurso, nos termos da ementa a seguir transcrita:
+    ““APELAÇÃO CRIMINAL. TRÁFICO DE ENTORPECENTES. PRELIMINAR DE NULIDADE. INVERSÃO DA ORDEM DE INQUIRIÇÃO DAS TESTEMUNHAS. PREVALÊNCIA DA LEI ESPECIAL SOBRE A LEI GERAL. PREJUÍZO NÃO DEMONSTRADO. PRELIMINAR AFASTADA. ABSOLVIÇÃO. IMPOSSIBILIDADE. DEPOIMENTO DE POLICIAIS. CREDIBILIDADE. HARMONIA COM CONTEXTO PROBATÓRIO. PROVAS SUFICIENTES DE AUTORIA E MATERIALIDADE . DOSIMETRIA. PENA FIXADA EM PATAMAR ADEQUADO E SUFICIENTE, ESTANDO EM CONSONÂNCIA COM OS DISPOSITIVOS LEGAIS PREVISTOS NOS ARTIGOS 59 E 68 DO CP. RECURSO NÃO PROVIDO.
+    -A modificação introduzida pela Lei n. 11.719/08, referente à ordem de inquirição das testemunhas e réus em audiência, em nada alterou o rito especial da Lei de tóxicos, pois a lei especial deve prevalecer sobre a geral.
+    - O valor do depoimento testemunhal de servidores policiais, reveste-se de inquestionável eficácia probatória, não se podendo desqualificá-lo pelo só fato de emanar de agentes estatais incumbidos, por dever do ofício, da repressão penal.
+    - Estando a pena fixada em patamar adequado e suficiente à reprovação do ilícito, com observância do critério trifásico determinado pelo art. 68 e da regra do art. 59 do CP, a mesma deve ser mantida.
+    - Recurso não provido”. (eDOC 1, p. 215)
+    No presente recurso extraordinário, interposto com fundamento na alínea “a” do permissivo constitucional, alega-se que o acórdão recorrido violou o art. 5º, inciso LV, da Constituição Federal. (eDOC 1, p. 275).
+    No mérito, sustenta que a inversão do interrogatório do réu teria trazido prejuízo ao réu, de modo a tolher seu direito de rebater as provas colhidas no curso da instrução. Para tanto afirma:
+    “Com efeito, o interrogatório realizado ao final da instrução processual prestigia e reafirma a plenitude da defesa conferida ao acusado no processo penal, pois este terá a oportunidade de se manifestar sobre todos os elementos de provas constantes nos autos até aquela oportunidade e, daí, rebater ou esclarecer todas as afirmações e perícias produzidas durante o curso do processo”.
+    O recurso foi obstado na origem por ser manifestamente contrário à jurisprudência desta Corte.
+    É o relatório.
+    Passo a decidir.
+    Inicialmente, forçoso concluir que a instância a quo, ao decidir a lide, ateve-se ao exame da legislação penal processual, in casu, art. 400 do CPP. Desse modo, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    É uníssona a jurisprudência desta Corte no sentido de que o recurso extraordinário não se presta a analisar legislação infraconstitucional.
+    Ademais, vale dizer que o Supremo Tribunal Federal já assentou que não há repercussão geral em relação à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE-RG 748.371, Tema 660, de minha relatoria, DJe 1º.8.2013). Veja-se a ementa do referido julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Caso fosse possível ultrapassar esse óbice, sobre o tema, destaco que o Plenário do Supremo Tribunal Federal, na data de 3.3.2016, ao julgar o HC 127.900/AM, Rel. Min. Dias Toffoli, ata de julgamento publicada no DJe de 11.3.2016, decidiu pela aplicação ao processo penal militar a exigência de realização do interrogatório do réu ao final da instrução criminal, conforme previsto no art. 400 do CPP. Decidiu, também, pela modulação dos efeitos da decisão para assentar que, a partir da publicação da ata do julgamento, seja aplicável a regra do CPP às instruções não encerradas nos processos de natureza militar e eleitoral e a todos os procedimentos penais regidos por legislação especial.
+    Contudo, no caso dos autos, verifico que a instrução criminal já se encerrou, tendo a sentença sido publicada em 10.12.2014. Assim, ante a modulação dos efeitos da decisão Plenária, não há como se declarar a nulidade do ato contestado.
+    Ante o exposto, nego seguimento ao agravo em recurso extraordinário (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 7 de novembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
