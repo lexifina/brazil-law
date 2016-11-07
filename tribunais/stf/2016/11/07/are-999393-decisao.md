@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 2º, 5º, LIV e LV, 37, caput, 93, IX, e 150, IV, da Constituição Federal.
+    Anote-se parte da ementa do acórdão recorrido:
+    “PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. EXCLUSÃO DE CORRESPONSÁVEL. INSTRUÇÃO DEFICIENTE. ÔNUS DA PROVA: CPC, ART. 333. CERTIDÃO DE DÍVIDA ATIVA. PRESUNÇÃO DE CERTEZA E LlQUIDEZ DA INSCRIÇÃO DA DÍVIDA. TAXA SELlC. LEGALIDADE. MULTA MORATÓRIA EXORBITANTE. VEDAÇÃO DO CARÁTER CONFISCATÓRIO DA MULTA APLICADA. REDUÇÃO DE 30% PARA 20%. ART. 61, § 2°, DA LEI N. 9.430/96. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE.
+    (...)
+    6. Por outro vértice, conforme se verifica das razões esposadas na exordial (fI. 12) e na apelação (fI. 61), a multa moratória aplicada ao Embargante pela Fazenda Nacional corresponde a 30% sobre o valor exeqüendo.
+    7. A multa moratória estabelecida na proporção de 30% (trinta por cento) tem nítido caráter confiscatório (art. 150, IV, da Constituição Federal), devendo, portanto, ser reduzida para o percentual de 20% (vinte por cento), em consonância com a jurisprudência pátria e com o estabelecido no art. 61, § 2°, da Lei n. 9.430/96, segundo o qual "o percentual de multa a ser aplicado fica limitado a vinte por cento". 8. Nesse sentido, esta egrégia Corte sufragou o entendimento, segundo o qual "A multa moratória aplicada em 20% (vinte por cento) afigura-se em patamar razoável, obedecendo à limitação prevista na Lei n. 9.430 (art. 61)". (...)
+    9. Destarte, restou indubitavelmente evidenciado o caráter confiscatório da multa em comento, contrariando os princípios da razoabilidade e da proporcionalidade, devendo, portanto, ser reduzida para o percentual de 20% (vinte por cento), em consonância com a jurisprudência pátria e com o estatuído no art. 61, § 2°, da Lei n. 9.430/96, segundo o qual "o percentual de multa a ser aplicado fica limitado a vinte por cento". (...)
+    12. Apelação parcialmente provida”.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 2º, 5º, LIV e LV, 37, caput, e 93, IX, da CF/88, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte.
+    Ademais, verifico que o Tribunal de origem decidiu que a multa em tela, estabelecida em 30%, fere os princípios da razoabilidade e proporcionalidade, possuindo nítido caráter confiscatório.
+    Por sua vez, o recorrente sustenta que:
+    “(…) A proibição constitucional à utilização de tributo com efeito de confisco visa a proteção do direito de propriedade do contribuinte, de modo que não pode o legislador, seja a título de prevenção, seja a título de punição, prescrever multa que inviabilize a atividade econômica de empresa.
+    Ocorre que, no caso dos autos, efetivamente não está a multa inviabilizando o exercício do direito constitucional de propriedade do recorrido, nem tornando impraticável a continuidade da exploração de sua atividade econômica, mesmo porque o recorrido em momento algum se preocupou em demonstrar que referido pagamento lhe traria concretamente tais inviabilidades”.
+    Dessa forma, para acolher a pretensão recursal e divergir do Tribunal a quo acerca da violação dos princípios da razoabilidade e proporcionalidade, bem como do caráter confiscatório da multa, seria necessário o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência do enunciado da Súmula nº 279/STF.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. CONSTITUCIONAL E TRIBUTÁRIO. MULTA FIXADA NO PERCENTUAL DE 75% DO VALOR DO TRIBUTO DEVIDO. ANÁLISE DO CARÁTER CONFISCATÓRIO. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 606.013/PE-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 11/4/14- grifei).
+    “DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. PRINCÍPIO DO NÃO CONFISCO. PROPORCIONALIDADE DA MULTA. IMPOSSIBILIDADE DE REAPRECIAÇÃO DE FATOS E PROVAS. SÚMULA 279/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 19.12.2006. O Tribunal a quo, na hipótese em tela, lastreou-se no contexto probatório para firmar seu convencimento acerca da legalidade da multa de 75% imposta à recorrente, assinalando tratar-se de multa punitiva e não confiscatória que atendeu finalidade educativa e de repressão a condutas infratoras. Portanto, aferir a ocorrência de eventual violação ao preceito constitucional invocado no apelo extremo, decorrente de efeito confiscatório da multa, somente seria possível mediante exame do conjunto fático-probatório, o que é vedado em sede extraordinária e enseja a aplicação do enunciado da Súmula 279 da Corte. Agravo regimental conhecido e não provido” (RE nº 547.559/SC-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 11/12/13 - grifei).
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que a parte ora recorrente não foi condenada no pagamento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 7 de novembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
