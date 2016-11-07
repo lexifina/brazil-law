@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário com agravo, interposto contra acórdão que restabeleceu pensão por morte à filha solteira de policial militar do Estado de São Paulo, consoante o disposto na Lei Estadual 452/74.
+    Opostos embargos de declaração, foram rejeitados em virtude da não ocorrência de omissão, obscuridade e contradição.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 24, XII e § 4º; e 42, § 2º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Este tribunal já se manifestou no sentido de que analisar o direito de filha solteira a receber pensão por morte não prescinde o reexame de normas infraconstitucionais (Súmula 280 do STF), sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, cito o RE 610.220-RG/RS, de relatoria da Ministra Ellen Gracie:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. DIREITO À PENSÃO PARA FILHA SOLTEIRA MAIOR DE 21 ANOS. LEI ESTADUAL 7.672/82 DO RIO GRANDE DO SUL. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO ESTADUAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL”.
+    Outrossim, afasta-se o cabimento do recurso extraordinário com base na alínea d, do art. 102, III, da CF, tendo em vista a ausência de conflito de competência legislativa entre os entes da Federação. Isso porque esta Corte já reconheceu que compete aos Estados-membros dispor sobre os direitos previdenciários dos militares, conforme revela o RE 610.290/MS, de minha relatoria:
+    “RECURSO EXTRAORDINÁRIO. ART. 117 DA LEI COMPLEMENTAR ESTADUAL 53/1990. BENEFÍCIO PREVIDENCIÁRIO INSTITUÍDO AOS DEPENDENTES DE POLICIAL MILITAR EXCLUÍDO DA CORPORAÇÃO. CONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO IMPROVIDO. I – Compete aos Estados-membros dispor sobre os direitos, os deveres, a remuneração, as prerrogativas e outras situações especiais dos militares, inclusive quanto aos direitos previdenciários. II – O benefício previdenciário instituído em favor dos dependentes de policial militar excluído da corporação representa uma contraprestação às contribuições previdenciárias pagas durante o período efetivamente trabalhado. III – Recurso extraordinário ao qual se nega provimento, assentando-se a constitucionalidade do art. 117 da Lei Complementar Estadual 53/1990”.
+    Nesse mesmo sentido, cito o ARE 964.122/SP, Rel. Min. Roberto Barroso; ARE 973.024/SP, Rel. Min. Cármen Lúcia; ARE 963.319/SP, Rel. Min. Cármen Lúcia; ARE 953.505/SP, Rel. Min. Teori Zavascki; ARE 963.646/SP, Rel. Min. Edson Fachin; ARE 939.059/SP, Rel. Min. Dias Toffoli; ARE 939.563/SP, Rel. Min. Rosa Weber e o ARE 926.881/SP, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 7 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
