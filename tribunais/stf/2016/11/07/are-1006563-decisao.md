@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravos cujo objeto são decisões que inadmitiram recursos extraordinários interpostos contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+    Os agravos são manifestamente inadmissíveis, por serem intempestivos. As decisões agravadas foram publicadas em 19.12.2013 e as petições de agravos foram protocoladas no Tribunal de origem  somente em 02.04.2014, 04.04.2014 e 04.04.2014, respectivamente, ou seja, após o término do prazo recursal de cinco dias. Incide, no caso, a Súmula 699/STF:
+    “O prazo para interposição de agravo, em processo penal, é de cinco dias, de acordo com a Lei 8.038/90, não se aplicando o disposto a respeito nas alterações da Lei 8.950/94 ao Código de Processo Civil.”
+    O Plenário do Supremo Tribunal Federal, no julgamento do ARE 639.846-AgR-QO/SP, Relator para o acórdão o Ministro Luiz Fux, firmou o entendimento de que, em matéria penal, é mantido o prazo de cinco dias previsto no art. 28 da Lei nº 8.038/1990 (na vigência do CPC/1973) para a interposição do agravo contra a inadmissibilidade do recurso extraordinário.
+    No mesmo sentido, vejam-se o ARE 681840-AgR-ED/MS, Rel. Min. Ricardo Lewandowski; o HC 114876-AgR/MS, Rel.ª Min.ª Rosa Weber; e o ARE 693904-AgR/PR, Rel.ª Min.ª Cármen Lúcia.
+    Ademais, a jurisprudência do Supremo Tribunal Federal é firme no sentido de não admitir embargos declaratórios contra decisão que analisa a admissibilidade de recurso extraordinário. Nesse sentido, veja-se a ementa do ARE 727.691, julgado sob a relatoria do Ministro Celso de Mello:
+    “RECURSOS EXTRAORDINÁRIOS COM AGRAVO (LEI Nº 12.322/2010), AMBOS INTERPOSTOS PELA PARTE ORA AGRAVANTE DECISÕES DAS PRESIDÊNCIAS DO TRIBUNAL DE JUSTIÇA LOCAL E DO E. SUPERIOR TRIBUNAL DE JUSTIÇA QUE NÃO ADMITIRAM OS RECURSOS EXTRAORDINÁRIOS OPOSIÇÃO , EM FACE DESSES ATOS DECISÓRIOS, DE EMBARGOS DE DECLARAÇÃO RECURSO INADMISSÍVEL INAPTIDÃO PARA INTERROMPER OU PARA SUSPENDER A FLUÊNCIA DO PRAZO RECURSAL CONSEQUENTE INTEMPESTIVIDADE DOS AGRAVOS POSTERIORMENTE INTERPOSTOS PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL RECURSO IMPROVIDO. - Revela-se absolutamente inadmissível a oposição de embargos de declaração em face de decisão que, proferida em sede de controle prévio de admissibilidade de recurso extraordinário, nega trânsito ao apelo extremo. - A utilização de espécie recursal evidentemente inadequada não tem aptidão sequer para interromper ou para suspender a fluência do prazo legal para efeito de oportuna interposição do recurso processualmente admissível. Precedentes.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento aos recursos.
+    Publique-se.
+          Brasília, 07 de novembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
