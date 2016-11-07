@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de recursos de agravo interpostos pelo Ministério Público Federal e por Donizete Nunes. O primeiro agravo foi deduzido contra decisão da Vice-Presidência do E. Tribunal de Justiça do Estado de Mato Grosso do Sul, que proferiu juízo negativo de admissibilidade do recurso extraordinário, e o segundo recurso de agravo foi interposto contra decisão da Vice-Presidência do E. Superior Tribunal de Justiça, que não admitiu apelo extremo manifestado contra acórdão daquela Alta Corte, proferido em sede de recurso especial.
+    As partes ora recorrentes, ao deduzirem os apelos extremos em questão, sustentaram que os Tribunais de origem teriam transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar as postulações recursais em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, os acórdãos impugnados em sede recursal extraordinária, ao decidirem a controvérsia jurídica objeto deste processo, dirimiram a questão com fundamento em legislação infraconstitucional (Leis nºs 4.771/65 e 12.651/2012), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Sendo assim, e em face das razões expostas, ao apreciar os presentes agravos, não conheço dos recursos extraordinários a que eles se referem, por serem estes manifestamente inadmissíveis (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se, ausente situação de comprovada má-fé, de processo de ação civil pública (Lei nº 7.347/85, art. 18).
+    Publique-se.
+    Brasília, 07 de novembro de 2016.
+Ministro CELSO DE MELLO
+Relator
