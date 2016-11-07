@@ -1,0 +1,26 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS – PROVIMENTO – EFEITO MODIFICATIVO.
+REPERCUSSÃO GERAL ADMITIDA – MATÉRIA IDÊNTICA – BAIXA À ORIGEM.
+    1. Desprovi o recurso extraordinário, em 8 de junho de 2016, consignando:
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à atipicidade da conduta do denunciado. Nas razões do extraordinário, o recorrente afirma a violação dos artigos 1º, inciso IV, 5º, cabeça e incisos II, VI, VIII, XXXIX, XLI e LIV, 19, inciso I, e 170 da Constituição Federal. Argumenta a necessidade da tutela jurisdicional dos bens jurídicos atingidos pela exploração dos jogos de azar. Discorre sobre a evolução legislativa do tema. Requer o reconhecimento da tipicidade da conduta prevista no artigo 50 da Lei das Contravenções Penais.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho o seguinte trecho da sentença expressamente mantida pela decisão atacada:
+    Com efeito, de acordo com os elementos de prova constante nos autos, a máquina caça-níquel foi encontrada no estabelecimento comercial do acusado, desligada e com uma talha de mesa sobre o bem. Essa circunstância, aliada ao depoimento do acusado perante o juízo, permite o reconhecimento da verossimilhança de suas alegações.
+    O denunciado Osvaldir José Urnau, em seu interrogatório, negou a prática delitiva, alegando que há uma certa pressão dos senhores das máquinas caça-níquel, para o fim de explorar o jogo de azar. No dia dos fatos, pela manhã, não estava em seu estabelecimento comercial, tendo “os caras” deixado a máquina no local; quando chegou em sua lancheria à tarde, a máquina já estava lá, então desligou-a e essa máquina não foi explorada.
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Apesar da tese constante da decisão proferida pela Turma Recursal – ausência de atipicidade da exploração de jogos de azar, frente à Constituição de 1988, não foi esse o fundamento para a absolvição. Restou expressamente consignado não ter sido comprovada a prática do ato indicado, sendo irrelevante, para o deslinde da causa, o entendimento pessoal do relator do órgão julgador de origem no tocante à matéria de fundo em abstrato. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+    Nos declaratórios, o embargante aponta omissão no pronunciamento questionado. Diz não incidir no caso o verbete nº 279 da Súmula do Supremo. Consoante alega, o Colegiado de origem apreciou o recurso de apelação unicamente sob o ângulo da atipicidade, sem reportar-se aos elementos probatórios relativos à autoria e materialidade.
+    A parte embargada, instada a se manifestar, não apresentou contrarrazões.
+    2. Na interposição destes embargos, atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por Procurador de Justiça, restou protocolada no prazo legal.
+    Assiste razão ao embargante. Reexaminando o processo verifico não ter o Tribunal local analisado as provas produzidas em primeira instância, mas, sim, assentado a atipicidade da conduta em jogo, considerados o princípio da lesividade e as liberdades individuais. Descabe negar seguimento ao recurso com fundamento no verbete nº 279 da Súmula deste Tribunal. Passo, portanto, a apreciar o extraordinário.
+    3. O Supremo, no recurso extraordinário nº 966.177/RS, da relatoria do ministro Luiz Fux, reconheceu a existência de repercussão geral do tema relativo à recepção pela Constituição Federal do artigo 50, cabeça e § 3º, do Decreto-lei nº 3.688/1941, que tipifica as condutas pertinentes à exploração dos jogos de azar.
+    Considerado o fato de o recurso veicular a mesma matéria, havendo a intimação do acórdão impugnado ocorrido posteriormente à data em que iniciada a vigência do sistema da repercussão geral, bem como presente o objetivo maior do instituto – evitar que o Supremo, em prejuízo dos trabalhos, tenha o tempo tomado com questões repetidas –, cumpre ordenar a baixa do processo à origem, nos termos do artigo 328, parágrafo único, do Regimento Interno deste Tribunal
+    4. Ante o quadro, conheço dos declaratórios e acolho o pedido neles formulado para emprestar efeito modificativo à decisão impugnada e determinar a devolução do processo à origem, para os efeitos do artigo 1036 do Código de Processo Civil de 2015.
+    5. Publiquem.
+Brasília, 7 de novembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
