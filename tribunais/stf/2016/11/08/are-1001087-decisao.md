@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário sob o fundamento de que: a) a alegação de não cabimento da exigência da retificação das Guias de Recolhimento do Fundo de Garantia por Tempo de Serviço e Informações à Previdência Social, GFIPs, demandaria a análise prévia da legislação infraconstitucional aplicável à espécie; b) a compensação prevista no art. 170-A do CTN também deveria ser analisada sob o enfoque infraconstitucional, assim, eventual ofensa constitucional, se houvesse, seria indireta (págs. 246-247 do volume 1).
+    O agravo não merece acolhida, dado que a recorrente deixou de atacar o fundamento da decisão agravada, o que atrai a incidência da Súmula 287 do STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Nesse sentido cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux, e ARE 752.372-AgR/MG, de minha relatoria.
+    Ademais, a questão constitucional invocada no recurso extraordinário não foi devidamente prequestionada, por não ter sido objeto de debate na origem, tampouco ter sido suscitada em embargos de declaratórios, o que faz incidir o óbice das Súmulas 282 e 356 desta Suprema Corte.
+    Por fim, para acolher a pretensão do agravante e ultrapassar o entendimento da instância de origem seria necessário o reexame da legislação infraconstitucional (Código Tributário Nacional, Portaria MPS 133 e Lei 8.213/91), o que não é cabível em sede de recurso extraordinário. Nesse sentido:
+     “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. RETIFICAÇÃO DE GUIAS DE RECOLHIMENTO DO FUNDO DE GARANTIA POR TEMPO DE SERVIÇO – FGTS (GFIPS). COMPENSAÇÃO. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 683.918/DF-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/10/12).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 8 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
