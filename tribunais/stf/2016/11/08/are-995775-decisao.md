@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo interposto em face da decisão de inadmissibilidade do recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado na parte que interessa (eDOC 3, p. 64):
+    “APELAÇÃO CÍVEL. Aposentados da antiga FEPASA. Pretensão de recebimento de abono salarial concedido aos funcionários ativos da CPTM. Admissibilidade. Lei 9.343/96. Reajustes concedidos aos funcionários ativos devem ser estendidos aos aposentados e pensionistas. Servidores da antiga FEPASA têm como paradigma os funcionários ativos da CPTM. Plano de Cargos e Salários que unificou a situação dos funcionários das duas empresas. Enunciado n° 10 da Seção de Direito Público. Direito Adquirido. Artigo 40, § 8° da Constituição Federal.
+    Juros e correção monetária. Lei 11.960/09. Natureza processual - Aplicação imediata aos processos em curso a partir de sua vigência, em 30.06.2009, independentemente da data da propositura da ação. Irretroatividade da lei processual. Período anterior à vigência da Lei 11.960109 - Aplicação do índice estabelecido no artigo P-F da Lei n° 9.494/97, com a redação dada pela MP 2.180/35 - Juros moratórios na base de 0,5% ao mês e correção monetária de acordo com a Tabela Prática do Tribunal de Justiça.”
+    Os embargos de declaração foram acolhidos com efeitos modificativos. Eis a ementa (eDOC 3, p. 84):
+    “EMBARGOS DE DECLARAÇÃO. Alegada a ocorrência do defeito de contradição. Cabimento. Matéria apreciada diversa daquela constante da exordial. Pedido para recálculo da complementação de aposentadoria para que seja restabelecida a equidistância das classes salariais entre os funcionários da antiga FEPASA não albergados pelo julgamento. Possibilidade de retificação, através dos presentes embargos declaratórios.
+    Recurso acolhido, com efeito modificativo para julgar pelo não provimento do recurso de apelação apresentado pelos autores.”
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o extraordinário com base na Súmula 282 do STF e por não haver violação a norma constitucional (eDOC 3, p. 130).
+    É o relatório. Decido.
+    Verifica-se que o Supremo Tribunal Federal, no julgamento do RE-RG 603.451, Rel. Min. Rosa Weber, DJe 20.02.2015 (tema 256), manteve a orientação já consolidada na Súmula Vinculante 4 de que o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial.
+    Ademais, no julgamento do ARE 610.223, Rel. Min. Ellen Gracie, DJe 25.06.2010, de igual modo, entendeu-se pela inexistência de repercussão geral da controvérsia acerca da possibilidade de extensão aos inativos dos reajustes concedidos aos servidores em atividade por meio de acordo coletivo de trabalho (Tema 273). Na oportunidade, a ementa restou assim redigida:
+    “EXTENSÃO AOS APOSENTADOS E PENSIONISTAS DA ANTIGA FEPASA DE VANTAGENS SALARIAIS CONCEDIDAS AOS FERROVIÁRIOS EM ATIVIDADE COM BASE EM ACORDO COLETIVO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 8 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
