@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DE COBRANÇA JULGADA IMPROCEDENTE. ADICIONAL POR TEMPO DE SERVIÇO. SERVIDOR PÚBLICO. LEI MUNICIPAL Nº 1.066/94. LEI ESTADUAL Nº 6.123/68. EMENDA CONSTITUCIONAL Nº 16/99. ADICIONAL POR TEMPO DE SERVIÇO. SUPRESSÃO DE DIREITO CONCEDIDO A SERVIDOR. ALTERAÇÃO NA LEI ESTADUAL NÃO IMPLICA REFLEXO AUTOMÁTICO NA NORMATIVA MUNICIPAL, SOB PENA DE OFENSA AO PACTO FEDERATIVO. PRESCRIÇÃO QUINQUENAL ATINGE SÓ AS PARCELAS ANTERIORES AOS CINCO ANOS DA PROPOSITURA DA AÇÃO. ADICIONAL DAS HORAS EXTRAORDINÁRIAS E ADICONAL NOTURNO. VANTAGENS PROPTER LABOREM. NÃO INCORPORAÇÃO. FINDOS OS MOTIVOS QUE JUSTIFICARAM A SUA CONCESSÃO, EXTINGUE-SE A RAZÃO DE SEU PAGAMENTO. DIFERENÇAS DE SALÁRIO (MOTORISTA X CARGO EFETIVO). DESVIO DE FUNÇÃO. DIREITO À PERCEPÇÃO DA DIFERENÇA VENCIMENTAL CORRESPONDENTE À FUNÇÃO EFETIVAMENTE DESEMPENHADA ENQUANTO PERDURAR A IRREGULARIDADE, SÚMULA 378 STJ. RECURSO DE APELAÇÃO A QUE SE DÁ PARCIAL PROVIMENTO.”
+    O recurso extraordinário não pode ser conhecido, tendo em vista que o recorrente não menciona nenhum dispositivo constitucional como tido por ofendido. Nesse contexto, não sendo desenvolvida fundamentação suficiente que permita compreender de que modo a Constituição Federal poderia ter sido violada, inviável o processamento do recurso extraordinário. Incide, no caso, a Súmula 284/STF:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Ainda que assim não fosse, para dissentir da conclusão do Tribunal de origem, seriam imprescindíveis a análise da legislação infraconstitucional aplicada ao caso (Súmula 280/STF) e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 08 de novembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
