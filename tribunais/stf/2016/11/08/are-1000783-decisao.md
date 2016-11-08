@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “AÇÃO ORDINÁRIA — PDI — PRÊMIO DE DESEMPENHO INDIVIDUAL - Lei Complementar 1.158/2011, regulamentada pelo Decreto 57.781/2012 — Beneficio concedido com objetivo de aprimoramento da qualidade dos serviços prestados - Natureza de gratificação pro labore faciendo — Prêmio que não deve ser estendido aos servidores públicos inativos, em razão de sua natureza — Decisão mantida. Recurso não provido” (pág. 40 do documento eletrônico 2) .
+    No RE, fundado no art. 102, III, a e c, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 40, § 8º (redação anterior à EC 41/2003), e 37, XV, da mesma Carta; 3º, 6º e 7º da EC 41/2003; e 2º e 3º da EC 47/2005.
+    Sustentou-se que a parcela fixa do Prêmio de Desempenho Individual, concedida indistintamente a todos os servidores, tem caráter geral e, por conseguinte, deve ser estendida aos servidores inativos.
+    A pretensão recursal não merece prosperar.
+    O acórdão recorrido, com apoio na legislação local aplicável à espécie (Leis Complementares 1.080/2008, 1.158/2011 e Decreto 57.781/2012, todos do Estado de São Paulo), entendeu que o Prêmio de Desempenho Individual tem natureza pro labore faciendo, motivo pelo qual não pode ser estendido aos servidores inativos.
+    Dessa forma, para concluir em sentido diverso, faz-se necessário o reexame das leis locais pertinentes ao caso, o que é inviável nos termos da Súmula 280 do STF. Nesse sentido, cito o ARE 968.699-AgR/SP, Rel. Min. Roberto Barroso, cuja ementa segue transcrita:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO ESTADUAL. PRÊMIO DE DESEMPENHO INDIVIDUAL. LEI COMPLEMENTAR ESTADUAL Nº 1.158/2011. NATUREZA DA VANTAGEM. SÚMULAS 279 E 280. PRECEDENTES. RECURSO MANIFESTAMENTE INADMISSÍVEL. IMPOSIÇÃO DE MULTA. 1. Hipótese em que dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza jurídica das vantagens concedidas aos servidores, se genéricas ou pro labore faciendo, exige o exame da legislação local pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (incidência das Súmulas 279 e 280/STF). 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015”.
+    No mesmo sentido, menciono as seguintes decisões, entre outras: ARE 977.201-AgR/SP, Rel. Min. Marco Aurélio; ARE 968.869/SP, Rel. Min. Teori Zavascki; ARE 987.053/SP, Rel. Min. Luiz Fux.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 8 de novembro de 2016.
+      Ministro Ricardo Lewandowski
+Relator
