@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, sob o fundamento de que a eventual ofensa ao texto constitucional seria meramente reflexa.
+    O agravo não merece acolhida, dado que a recorrente deixou de atacar os fundamentos da decisão agravada – cingindo-se a reiterar os argumentos consignados no recurso extraordinário e afirmando estarem presentes todos os requisitos necessários à admissão do recurso –, o que atrai a incidência da Súmula 287 do STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Nesse sentido cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    De toda sorte, anoto que o Tribunal de origem decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Decreto 3.298/99). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que não é viável na via do recurso extraordinário. Registro por fim que para se chegar à conclusão diversa da adotada pelo Tribunal de origem, se faz necessário o reexame do conjunto fático-probatório dos autos, o que faz incidir a Súmula 279 desta Corte. Em caso análogo ao dos autos, assim decidiu a Primeira Turma:
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. RESERVA DE VAGAS. DEFICIÊNCIA AUDITIVAUNILATERAL. ENQUADRAMENTO. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. REEXAME DE CLÁUSULAS EDITALÍCIAS. SÚMULA Nº 454/STF. ALEGADA VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. AUSÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO TRIBUNAL A QUO. AGRAVO REGIMENTAL DESPROVIDO” (ARE 920.193-AgR/PE, Rel. Min. Luiz Fux).
+    Na mesma esteira há precedentes da Segunda Turma desta Corte: ARE 889.316-ED/ES, Rel. Min. Dias Toffoli; AO 1.622-AgR/BA e MS 29.910-AgR/DF, ambos de relatoria do Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 8 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
