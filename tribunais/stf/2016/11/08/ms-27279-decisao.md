@@ -1,0 +1,8 @@
+Despacho: Da análise dos autos, contata-se a superveniência de dois fatos relevantes: (i) a publicação do Edital 73-TJ/ES, no dia 25.10.2016, por intermédio do qual o Desembargador Presidente da Comissão de Concurso Público para Outorga de Delegações – TJ/ES publicou a “relação das serventias ofertadas, com distribuição por comarca ou juízo, assim como modalidade de outorga, por provimento ou remoção” para o concurso público em andamento, aberto pelo Edital 001/2013, deixando de apontar o 1º Ofício de Cachoeiro de Itapemirim como sub judice, postura que possibilitaria, sem qualquer ressalva, a ocupação desta serventia por candidato de concurso público diverso daquele que determinado pela decisão monocrática proferida em 30.06.2016; e (ii) a publicação do Edital 75-TJ/ES, no dia 1º.11.2016, que dispõe sobre a finalização do concurso público aberto em 2013 e designa audiência pública, a ocorrer em 02.12.2016, para escolha das serventias.
+    Requisitem-se, com urgência, informações ao Conselho Nacional de Justiça - CNJ e ao Tribunal de Justiça do Espírito Santo - TJES, inclusive via fac-símile, a serem prestadas no prazo de 5 (cinco) dias, quanto ao cumprimento da decisão monocrática que concedeu parcialmente a segurança pretendida neste writ e determinou que a serventia do 1º Ofício de Cachoeiro de Itapemirim fosse oportunizada, para escolha, aos candidatos aprovados no concurso público regido pelo Edital nº 001/2006.
+    Encaminhe-se, juntamente com os ofícios, cópia da decisão exarada, em 30.06.2016, nestes autos.
+    Publique-se.
+    Brasília, 08 de novembro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
