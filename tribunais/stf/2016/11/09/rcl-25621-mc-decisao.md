@@ -1,0 +1,29 @@
+Trata-se de reclamação, com pedido de liminar, ajuizada pela Empresa Energética de Mato Grosso do Sul S/A - Enersul, contra acórdão proferido pela Segunda Turma do Tribunal Superior do Trabalho que, ao negar seguimento ao Agravo de Instrumento em Recurso de Revista 0000671-57.2013.5.24.0007, manteve a decisão enunciada pela Primeira Turma do Tribunal Regional do Trabalho da 24ª Região, em acórdão assim ementado:
+    “AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. LEI 13.015/2014. EMPRESA DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. TERCEIRIZAÇÃO ILÍCITA. ATIVIDADE FIM. SERVIÇOS DE LEITURISTA. VÍNCULO DE EMPREGO COM A TOMADORA DE SERVIÇOS.
+    Recurso que não logra demonstrar o desacerto da decisão que negou seguimento ao agravo de instrumento.
+    Agravo não provido” (pág. 111 do documento eletrônico 3; grifos no original).
+    A reclamante alega, em síntese, que o acórdão reclamado, ao negar provimento ao seu recurso na parte ora em análise, manteve o entendimento da Primeira Turma do Tribunal Regional do Trabalho da 24ª Região que, afastando as disposições contidas nos arts. 25, § 1º, e 26 da Lei 8.987/1995 (que dispõe sobre o regime de concessão e permissão da prestação de serviços públicos previsto no art. 175 da Constituição Federal), concluiu pela “impossibilidade de terceirização das atividades inerentes, quando expressamente o artigo 25 da Lei 8.987/95 a autoriza” (pág. 5 do documento eletrônico 1).
+    Sustenta, desse modo, a ocorrência de afronta ao enunciado da Súmula Vinculante 10, argumentando que a decisão reclamada “declarou a inconstitucionalidade do preceito legal em questão, ainda que não expressamente” (pág. 5 do documento eletrônico 1).
+    Requer, liminarmente, a suspensão da eficácia da decisão reclamada, com a suspensão da tramitação do processo em que foi proferida a decisão ora impugnada e, no mérito, a cassação definitiva do acórdão, com a submissão do recurso ao Plenário do TST, para a análise da constitucionalidade do art. 25, § 1°, da Lei 8.987/1995.
+    É o relatório suficiente.
+    Decido o pedido de liminar.
+    Assim dispõe o § 1° do art. 25 da Lei 8.987/1995:
+    “Art. 25. Incumbe à concessionária a execução do serviço concedido, cabendo-lhe responder por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade.
+    § 1º Sem prejuízo da responsabilidade a que se refere este artigo, a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados” (grifei).
+    Destaco o seguinte trecho do voto condutor do acórdão impugnado:
+    “[...]
+    Esta Corte firmou entendimento de que configura terceirização ilícita a contratação de empregado por empresa terceirizada para prestar serviços de leiturista, por se tratar de atividade-fim da concessionária do serviço de fornecimento de energia elétrica. Cumpre destacar, que segundo jurisprudência pacificada do TST, o art. 25 da Lei nº 8.987/95 não autoriza a terceirização da atividade-fim das empresas concessionárias de serviço público, como ocorre na hipótese dos autos, devendo ser reconhecido o vínculo de emprego diretamente com a tomadora dos serviços. Assim, constatada fraude à legislação do trabalho, impõe-se a formação do vínculo de emprego diretamente com a tomadora dos serviços, nos termos da Súmula 331, I, do TST” (pág. 113 do documento eletrônico 3; grifei).
+    Em uma análise perfunctória, própria da medida em espécie, entendo estarem presentes os requisitos que autorizam o deferimento da medida liminar pleiteada.
+    Isso porque tenho que se afigura plausível a alegação de que a decisão reclamada, proferida por órgão fracionário do TST, ao afastar a incidência da legislação mencionada - de controversa interpretação, frise-se - a pretexto de observância do disposto no enunciado de Súmula 331, I, do TST, afrontou, ao que parece, o conteúdo do verbete da Súmula Vinculante 10, in verbis:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionado de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    Relativamente ao periculum in mora, não se pode ignorar, outrossim, a perspectiva de que a manutenção da decisão que nega vigência ao disposto no art. 25, § 1°, da Lei 8.987/1995, poderá impactar o regular funcionamento da empresa concessionária, que se verá impedida de terceirizar serviços.
+    Assim, tendo em vista a finalidade de sua atividade, a prestação de serviço público essencial, afigura-se razoável e prudente, até que se resolva, em definitivo, a controvérsia jurídica envolvida no caso, a suspensão da decisão reclamada e do processo, a fim de que não haja qualquer prejuízo para os usuários dos serviços públicos de fornecimento de energia elétrica do Estado de Mato Grosso do Sul.
+    No mesmo sentido, anoto, ainda, as seguintes decisões, proferidas em análogo contexto: Rcl 11.275-MC/AC, Rel. Min. Dias Toffoli; Rcl 16.903 MC/PE, Rel. Min. Luís Roberto Barroso; Rcl 17.477/TO, Rel. Min. Teori Zavascki; Rcl 19.598 MC/ES, Rel. Min. Cármen Lúcia; e Rcl 23.024 MC/MG, Rel. Min. Luís Roberto Barroso.
+    Dessa forma, defiro a liminar requerida para suspender os efeitos do acórdão proferido pelo Tribunal Superior do Trabalho, nos autos do Agravo de Instrumento em Recurso de Revista 0000671-57.2013.5.24.0007, até o julgamento de mérito desta reclamação, sem prejuízo de reanálise mais aprofundada da questão, com a vinda das informações e a manifestação do Parquet.
+    Comunique-se com urgência.
+    Requisitem-se informações.
+    Após, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 9 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
