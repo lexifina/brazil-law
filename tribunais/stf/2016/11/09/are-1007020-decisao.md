@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “SERVIDORES MUNICIPAIS. RIBEIRÃO PRETO. INATIVOS. Quinquênio. Base de cálculo para incidência do adicional. Pretensão de incidência sobre todas as vantagens que compõem a remuneração mensal dos servidores. Descabimento. Legislação municipal que limita a incidência sobre o vencimento ou remuneração do cargo efetivo de que seja titular. Sentença reformada. Reexame necessário e recursos da requeridas providos e improvido o recurso dos autores.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, c e d, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput; 37, X, e 39, § 1º, da Constituição.
+    O recurso é inadmissível. Isso porque os dispositivos constitucionais tidos por violados não foram apreciados pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para suprimir eventual omissão, de modo que o recurso extraordinário carece do necessário prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    O Tribunal de origem, interpretando as Leis municipais nºs 3.181/1976 e 5.605/1989, deu provimento ao recurso do ora recorrido, por entender que o pagamento do adicional por tempo de serviço não deve ser calculado sobre o valor integral da remuneração. Dissentir do entendimento acerca da base de cálculo do adicional por tempo de serviço (quinquênios) demandaria uma nova análise das referidas legislações locais, providência vedada no âmbito do recurso extraordinário, a atrair a incidência da Súmula 280/STF. Nessa linha, confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DE SÃO PAULO. ADICIONAL DE SEXTA PARTE. QUINQUÊNIOS. LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. As normas contidas no artigo 129 da Constituição do Estado de São Paulo dizem respeito tão-somente ao direito local. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local, circunstância que impede a admissão do recurso extraordinário ante o óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento”. (RE 593.098-AgR, Rel. Min. Eros Grau)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+Brasília, 09 de novembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
