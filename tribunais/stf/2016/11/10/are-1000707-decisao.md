@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, interposto em face de acórdão que possui a seguinte ementa, cujo destaco:
+    “DIREITO CONSTITUCIONAL E PREVIDENCIÁRIO. PREVIDÊNCIA SOCIAL. CÁLCULO DO BENEFCÍCIO. FATOR PREVIDENCIÁRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE DA LEI Nº 9.876, DE 26.11.1999, OU, AO MENOS, DO RESPECTIVO ART. 2° (NA PARTE EM QUE ALTEROU A REDAÇÃO DO ART. 29, CAPUT, INCISOS E PARÁGRAFOS DA LEI N° 8.213/91, BEM COMO DE SEU ART. 3°. ALEGAÇÃO DE INCONSTITUCIONALIDADE FORMAL DA LEI, POR VIOLAÇÃO DO ART. 65, PARÁGRAFO ÚNICO, DA CONSTITUIÇÃO FEDERAL, E DE QUE SEUS ARTIGOS 2º (NA PARTE REFERIDA) E 3° IMPLICAM INCONSTITUCIONALIDADE MATERIAL, POR AFRONTA AOS ARTIGOS 5°, XXXVI, E 201, §§ 1° E 7°, DA CONSTITUIÇÃO FEDERAL, E AO ART. 3° DA EMENDA CONSITUCIONAL N° 20, DE 15.12.1998. MEDIDA CAUTELAR” (pág. 103 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação aos arts. 201, § 1°, § 3°, § 7°; 193 e 194, IV, todos da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação de legislações infraconstitucionais aplicáveis à espécie (Lei 8.213/91 e 9.876/99). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo, de modo que, a violação ao texto constitucional, se ocorrente, seria indireta. No sentido do que decidido, menciono as seguintes decisões: ARE 966.528/SP, Rel. Min. Marco Aurélio; ARE 966.516/SP, Rel. Min. Cármen Lúcia; RE 941.037/BA, Rel. Min. Luiz Fux; RE 717.016/RS, de minha relatoria; RE 740.487/DF, Rel. Min. Dias Toffoli; RE 730.974/RS, Rel. Min. Cármen Lúcia; e RE 631.226/RS, Rel. Min. Ayres Britto.
+    Ademais, registro que este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal de origem (Súmula 636 do STF).
+    Por fim, tal como assentado na decisão agravada, esta Corte pronunciou-se pela inexistência de repercussão geral em matéria relativa aos elementos que compõem a fórmula de cálculo do fator previdenciário (ARE 664.340/SC, Rel. Min. Teori Zavascki).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 10 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
