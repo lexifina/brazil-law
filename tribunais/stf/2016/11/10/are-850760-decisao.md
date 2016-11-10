@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal Regional Federal da 1ª Região , maneja agravo Arthur Shigeo Mada. Na minuta, sustenta que o recurso extraordinário preenche todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 109, IV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    A Corte regional reconheceu a competência da Justiça Federal para processar e julgar a ação penal em que imputada a prática das condutas típicas descritas nos arts. 180, caput e 304 do Código Penal, ante a apresentação de documento falso perante a Polícia Rodoviária Federal. O acórdão está assim ementado:
+    "PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. USO DE DOCUMENTO FALSO APRESENTADO PERANTE ÓRGÁO FEDERAL. COMPETENCIA DA JUSTIÇA FEDERAL. RECURSO PROVIDO. 1. A apresentação de Certificado de Registro e Licenciamento de Veículo - CRLV ideologicamente falso perante órgão público federal, no casa Polícia Rodoviária Federal, atrai a competência da Justiça Federal para o processo e julgamento da causa, a teor do art. 109, IV, da Constituição Federal. 2. Compete à Justiça Federal pro cessar e julgar o crime de uso de documento falso apresentado perante a Polícia Rodoviária Federal, quer seja materialmente ou ideologicamente falsificado. 3. Uso de documento falso expresso pelo seu teor ideologicamente inverídico, utilizado para regularizar veículo roubado, independentemente da autenticidade material do documento. 4. Recurso em sentido estrito provido, para reconhecer a competência da Justiça Federal do Estado do Tocantins para o processo e julgamento desta ação penal.“
+    Nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    "COMPETÊNCIA – JUSTIÇA FEDERAL – USO DE DOCUMENTO FALSO – DEPARTAMENTO DE POLÍCIA FEDERAL – INTERESSE DA UNIÃO. É da Justiça Federal a competência para processar ação penal considerado crime de uso de documento falso em detrimento de serviço da União. Precedente: Agravo Regimental no Recurso Extraordinário com Agravo nº 776.354/AM, relator ministro Luiz Fux, Primeira Turma.” (ARE 843104 AgR, Rel. Min. Marco Aurélio, 1ª Turma, DJe 02-02-2015)
+    "PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DA PARTE RECORRENTE. USO DE DOCUMENTO FALSO. FISCALIZAÇÃO A CARGO DA POLÍCIA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 810638 AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 10-02-2016)
+    De outra parte, a análise efetuada pelo Tribunal a quo enfrentou o conjunto probatório para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.”
+    Nesse sentir, não merece processamento o apelo extremo, ausente ofensa a preceito da Constituição da República.
+    Nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de novembro de 2016.
+Ministra Rosa Weber
+Relatora
