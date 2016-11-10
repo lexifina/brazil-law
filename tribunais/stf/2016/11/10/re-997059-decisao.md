@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão cuja ementa segue transcrita:
+    “REEXAME NECESSÁRIO \\ APELAÇÃO CÍVEL – DIREITO CONSTITUCIONAL E ADMINISTRATIVO – AÇÃO CIVIL PÚBLICA NA DEFESA DE INTERESSES RELACIONADOS COM AS PESSOAS PORTADORAS DE DEFICIÊNCIA.
+    […]
+    MÉRITO – OMISSÃO DO PODER PÚBLICO – ACESSIBILIDADE DE DEFICIENTES – ADAPTAÇÃO DE PRÉDIOS PÚBLICOS – DESCUMPRIMENTO DE DETERMINAÇÕES LEGAIS E REGULAMENTARES – ATUAÇÃO DO PODER JUDICIÁRIO – POSSIBILIDADE, EM OBSERVÂNCIA A PRINCÍPIOS CONSTITUCIONAIS E LEGAIS – AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES – SENTENÇA CONFIRMADA.
+    1. A Constituição da República estabelece, em seu art. 227, §2º, que ‘lei disporá sobre normas de construção dos logradouros e dos edifícios de uso público e de fabricação de veículos de transporte coletivo, a fim de garantir acesso adequado às pessoas portadoras de deficiência’.
+    […]
+    4. Em regra, é vedado ao Poder Judiciário adentrar no mérito dos atos administrativos de efetivação de políticas públicas, cabendo-lhe unicamente examiná-los sob o aspecto da legalidade e da moralidade. Todavia, diante de flagrante descumprimento, pela Administração Estadual, das normas legais e regulamentares da Lei n. 10.098/2000 e do Decreto n. 5.296/2004, é permitido ao Judiciário impor ao Executivo Municipal o cumprimento das disposições normativas respectivas.
+    5. Sentença confirmada, em reexame necessário. Prejudicado o recurso voluntário“(p. 213)
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º e 227, § 2º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Este tribunal já se manifestou no sentido de que o Poder Judiciário pode, excepcionalmente, determinar a implementação de políticas públicas. Assim, é legítima a decisão judicial que, para garantir a acessibilidade de pessoas portadoras de necessidades especiais, determina ao ente estatal, a reforma de escola pública, sem que isso configure ofensa ao princípio da separação dos Poderes. Desse modo, cito o ARE 903.216-AgR, de relatoria da Ministra Rosa Weber:
+    “DIREITO CONSTITUCIONAL. AÇÃO DE OBRIGAÇÃO DE FAZER. REFORMA E ADAPTAÇÃO DE ESCOLA PÚBLICA. ALUNOS PORTADORES DE NECESSIDADES ESPECIAIS. DIREITO À EDUCAÇÃO. OMISSÃO CARACTERIZADA. CONTROLE JUDICIAL DA ATIVIDADE ADMINISTRATIVA. POSSIBILIDADE. EXCEPCIONALIDADE. LIMITES. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. ACÓRDÃO RECORRIDO PUBLICADO EM 13.02.2015. 1. O entendimento adotado pela Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. Entender de modo diverso demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido”.
+    Por fim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, qual seja, a viabilidade orçamentária do ente estatal, seria necessário o reexame do conjunto fático-probatório pertinente ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Nesse sentido, cito o ARE 980.624/SP, Rel. Min. Dias Toffoli; RE 948.791/MG, Rel. Min. Luiz Fux; ARE 868.536/MG, Rel. Min. Dias Toffoli e o RE 722.778/MG, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
