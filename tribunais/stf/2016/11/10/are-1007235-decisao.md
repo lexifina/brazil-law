@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa transcreve-se a seguir:
+    “APELAÇÃO – CONTRIBUIÇÃO DE MELHORIA
+    Ilegitimidade da cobrança do tributo porque não foi observada a Lei Municipal 1.586/93 que exigia a concordância expressa dos proprietários dos imóveis sujeitos à tributação.
+    RECURSO DE OFÍCIO
+    Valor que não ultrapassa o limite estabelecido pelo artigo 475, § 2º, do CPC
+    Recurso oficial não conhecido. Recurso voluntário não provido.” (eDOC 2, p. 60)
+    Os embargos declaratórios foram rejeitados. (eDOC 2, p. 83-84)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição da República, aponta-se ofensa ao art. 145, III, do Texto Constitucional.
+    Sustenta-se, em síntese, que “as obras públicas, os procedimentos administrativos, o lançamento e a cobrança, obedeceram ao ditame constitucional (artigo 145, III), o Código Tributário Nacional (arts. 81 e 82), o Código Tributário Municipal e as leis municipais, que disciplinam a forma de lançamento e fixação da base de cálculo pela valorização do imóvel advinda das obras públicas, rateado entre os proprietários por ela beneficiados, após a incontroversa apuração havida.” (eDOC 1, p. 97)
+    A Presidência da Seção de Direito Público inadmitiu o recurso com base na Súmula 282 do STF. (eDOC 1, p. 121).
+    É o relatório. Decido.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem:
+    “Na espécie, a r. Sentença declarou nulos os débitos fiscais aqui controvertidos sob o argumento de que sua exigibilidade estava relacionada à exigência contida no art. 2º da Lei Municipal 1.586/93, vigente na época da entrega da obra pública realizada. Tal dispositivo exigia a concordância expressa da maioria dos proprietários sujeitos ao pagamento da contribuição de melhoria.
+    O Município, por sua vez, afirma que a Lei 1.797/97, que revogou a anterior, já vigia ao tempo da conclusão da obra, devendo ser aplicada para cobrar a contribuição de melhoria decorrente da valorização dos imóveis.
+    Da análise dos autos, verifica-se que a obra foi realizada e entregue no ano de 1996 enquanto que a Lei 1.797/97 foi publicada em 05/12/1997, quando entrou em vigor.
+    Dito isso, resta claro ser inadmissível a cobrança de contribuição de melhoria com base em lei publicada seis meses após a ocorrência do fato gerador da obrigação.
+    Assim, uma vez que o Município não comprovou a obtenção de expressa autorização dos proprietários para a realização da obra, afiguram-se ilegítimos os lançamentos e, consequentemente, a cobrança do tributo.
+    Irrelevantes as alegações de que se tratava de obra nova e de que houve valorização imobiliária. Na espécie, a ilegitimidade consiste exatamente na falta de atendimento de exigência expressamente contida em lei vigente à época.” (eDOC 2, p. 61-62)
+    Assim, constato que eventual divergência ao entendimento adotado pelo juízo a quo, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, inclusive de índole local, de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Cito o seguinte julgado:
+    “TRIBUTÁRIO. CONFLITO ENTRE LEGISLAÇÃO LOCAL E LEI COMPLEMENTAR DE NORMAS GERAIS EM MATÉRIA TRIBUTÁRIA. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO ANTES DA EC 45/2004 (art. 102, III, D). MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA. CONTRIBUIÇÃO DE MELHORIA. MUNICÍPIO DE LARANJEIRAS DO SUL. CONTRARIEDADE DA LEGISLAÇÃO LOCAL AO CÓDIGO TRIBUTÁRIO NACIONAL. APURAÇÃO DO BENEFÍCIO INDIVIDUAL DEFICITÁRIA. LEI 43/1989. PROJETO 09/1993. EDITAL 05/1994. DECRETO 08/1995. 1. Nem toda contraposição entre lei ordinária e lei complementar se resolve no plano constitucional. Dentre outras hipóteses, a discussão será de alçada constitucional se o ponto a ser resolvido, direta ou incidentalmente, referir-se à existência ou inexistência de reserva de lei complementar para instituir o tributo ou estabelecer normas gerais em matéria tributária, pois é a Constituição que estabelece os campos materiais para o rito de processo legislativo adequado. 2. Num segundo ponto, é possível entrever questão constitucional prévia no confronto de lei ordinária com lei complementar, se for necessário interpretar a lei complementar à luz da Constituição para precisar-lhe sentido ou tolher significados incompatíveis com a Carta (técnicas da interpretação conforme a Constituição, declaração de inconstitucionalidade sem redução de texto e permanência da norma ainda constitucional). 3. Nenhuma das duas hipóteses está configurada neste caso, pois a parte-agravante invoca o Código Tributário Nacional como parâmetro de controle imediato de norma local que teria falhado em apurar o benefício individual aferido por cada contribuinte, mas, ao invés, limitou-se a fixar o valor global da obra para rateio. 4. Na época da interposição do recurso ainda não vigia o art. 102, III, d da Constituição, incluído pela EC 45/2004. Agravo regimental ao qual se nega provimento.”
+    Cito, ainda, as seguintes decisões monocráticas: ARE 938.384, de relatoria do Ministro Luiz Fux, DJe 06.09.2016; ARE 977.981, de relatoria do Ministro Roberto Barroso, DJe 05.08.2016; e ARE 962.358, de relatoria da Ministra Cármen Lúcia, DJe 02.06.2016.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 10 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
