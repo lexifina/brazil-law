@@ -1,0 +1,14 @@
+Decisão: Trata-se de reclamação interposta por Luiz da Silva Ribeiro em face decisão proferida pelo Presidente da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária da Paraíba que teria ofendido à coisa julgada.
+    Narra o reclamante que interpôs, na origem, ação de cobrança a fim de obter a diferença nos valores de diárias de indenização. Afirma ter sido a ação julgada procedente.
+    De acordo com o ato reclamado, houve a interposição de recurso pelo ente público e, posteriormente, tendo sido este indeferido, recurso extraordinário e incidente de uniformização. Ao incidente foi determinada a adequação do julgado para julgar improcedente o recurso. A parte ora reclamante interpôs diversos recursos, tendo sido rejeitados. Nada obstante, na decisão que analisou os recursos, consignou a autoridade reclamada que o representativo da controvérsia enviado à Turma Nacional havia sido devolvido sem apreciação do mérito, razão pela qual seria necessária nova manifestação da Turma Nacional. Dessa forma, determinou-se a indicação do processo interposto pelo ora reclamante como sendo representativo da controvérsia, com a consequente remessa do feito à Turma Nacional.
+    Contra essa decisão insurge-se o reclamante alegando ter ela violado a garantia da coisa julgada. Requer, em tutela de urgência, a suspensão do julgamento do agravo de instrumento pendente. No mérito, requer: a cassação da decisão pela qual a autoridade reclamada teria anulado o acórdão proferido por Tribunal Superior e a declaração da nulidade de todos os atos processuais posteriormente praticados, reconhecendo-se o trânsito em julgado da ação.
+    É, em síntese, o relatório.
+    A reclamação destina-se a preservar a competência e a autoridade das decisões do Supremo Tribunal Federal quando ocorrer a usurpação de sua competência ou, nos termos do art. 102, § 2º, da CRFB, quando decisões judiciais ou atos administrativos contrariarem decisão proferida por esta Corte em sede de controle concentrado de constitucionalidade ou que, nos termos do art. 102, § 3º, também da CRFB, o enunciado de súmula vinculante.
+    A presente reclamação é incabível. Isso porque deixa o reclamante de demonstrar que o ato reclamado viola a competência do Supremo Tribunal Federal (art. 988, I, do CPC) ou decisão proferida por esta Corte em sede de controle concentrado de constitucionalidade (art. 988, III, do CPC). Note-se, ainda, que não se aponta contrariedade a enunciado de Súmula Vinculante (art. 988, III, do CPC).
+    Noutras palavras, estão ausentes os pressupostos de cabimento da reclamação, razão pela deve-se rejeitá-la.
+    Ante o exposto, com fulcro no art. 21, § 1º, do RISTF, nego seguimento à reclamação, prejudicado o pedido de liminar.
+    Publique-se. Intime-se.
+    Brasília, 10 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
