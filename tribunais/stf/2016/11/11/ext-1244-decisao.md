@@ -1,0 +1,31 @@
+Vistos etc.
+    Referente à Petição STF 55.209/2016 (fls. 791-3).
+    Em 09.8.2016, a 1ª Turma desta Suprema Corte, por maioria de votos, deferiu o pedido de extradição, em acórdão assim ementado:
+    “EXTRADIÇÃO EXECUTÓRIA. CRIMES DE TRANSPORTE, POSSE, AQUISIÇÃO E EXPORTAÇÃO DE PRODUTOS ESTUPEFACIENTES. CORRESPONDÊNCIA COM O DELITO DE TRÁFICO INTERNACIONAL DE DROGAS. DUPLA INCRIMINAÇÃO CONFIGURADA. PRESCRIÇÃO. INOCORRÊNCIA. INEXISTÊNCIA DE ÓBICES LEGAIS À EXTRADIÇÃO. SÚMULA 421/STF. CONTENCIOSIDADE LIMITADA. PRECARIEDADE DO ESTADO DE SAÚDE DO EXTRADITANDO. ENTREGA CONDICIONADA AO PRÉVIO EXAME MÉDICO OFICIAL. CONDENAÇÃO POR OUTROS CRIMES NO BRASIL. ENTREGA ANTES DO CUMPRIMENTO DA PENA NO BRASIL SUJEITO A JUÍZO DE CONVENIÊNCIA DO PODER EXECUTIVO. EXIGÊNCIA DE ASSUNÇÃO DE COMPROMISSO QUANTO À DETRAÇÃO DA PENA.
+    1. Pedido de extradição formulado pelo Governo da França que atende os requisitos da Lei 6.815/1980 e do Tratado de Extradição específico.
+    2. Crimes de transporte, posse, aquisição e exportação de produtos estupefacientes, nos termos da legislação estrangeira, que correspondem ao crime previsto no art. 33, c/c art. 40, I, da Lei 11.343/2006. Dupla incriminação atendida.
+    3. Inocorrência de prescrição e inexistência de óbices legais.
+    4. Na dicção do verbete da Súmula 421/STF: “Não impede a extradição a circunstância de ser o extraditando casado com brasileira ou ter filho brasileiro”.
+    5. A apreciação das teses defensivas pertinentes ao mérito da imputação extrapolam os limites da contenciosidade limitada que rege o processo de extradição (art. 85, § 1º, do Estatuto do Estrangeiro).
+    6. A precariedade do estado de saúde do Extraditando não constitui, por si só, óbice ao deferimento da extradição, mas tão somente condiciona a entrega do Extraditando ao prévio exame médico oficial, nos termos do parágrafo único do art. 89 da Lei 6.815/1980 (Ext 367, Rel. Min. Djaci Falcão, Plenário, DJ 21.12.1979; e Ext 1.365, Rel. Min. Luiz Fux, 1ª Turma, DJe 11.3.2015).
+    7. Extraditando processado criminalmente no Brasil em duas ações penais em curso. Fato não impeditivo da extradição, ficando a entrega condicionada à extinção do feito ou ao cumprimento da pena no Brasil, sem prejuízo do juízo de conveniência e oportunidade do Poder Executivo (arts. 89 e 67 da Lei 6.815/1980).
+    8. O compromisso de detração da pena, considerando o período de prisão decorrente da extradição, deve ser assumido antes da entrega do preso, não obstando a concessão da extradição. O mesmo é válido para os demais compromissos previstos no art. 91 da Lei nº 6.815/1980.
+    9. Extradição deferida.” (Fls. 722-3).
+    Opostos embargos de declaração, foram acolhidos, em 08.11.2016, exclusivamente quanto à ocorrência de erro material, para corrigir a data da efetivação das medidas cautelares diversas da prisão para o dia 06.8.2013, implicando período de detração de 29 (vinte e nove) dias. O respectivo acórdão está pendente de publicação.
+    A Defesa, por meio da Petição 55.209, assevera que “a condição de saúde do Extraditando”, em tratamento médico contra câncer de pulmão – adenocarcinoma -, ”se agrava a cada dia”, apresentando, inclusive, “grandes dificuldades para falar e se locomover”. Nesse contexto, requer i) “o sobrestamento do feito, pelo período de um ano, de modo a se verificar eventual melhora no quadro de saúde do extraditando” e ii) que “seja dado conhecimento ao Estado do requerente quanto à condição de saúde ora noticiada de modo a saber se persiste interesse no prosseguimento do pedido de extradição” (fls. 791-3).
+    Sobreveio manifestação do Ministério Público Federal, da lavra do Procurador-Geral da República Rodrigo Janot Monteiro de Barros, em parecer assim exarado:
+    “(...).
+    A Primeira Turma, por maioria de votos, deferiu a extradição de Marc Alain François Goyou-Beauchamps em 09 de agosto de 2016 (acórdão publicado em 26 de setembro de 2016). A entrega, todavia, ficou condicionada à realização de prévio exame médico oficial, tendo em vista alegação de situação de precariedade do estado de saúde do Extraditando (“câncer de pulmão com metástase cerebral” com recomendação médica para evitar viagens longas dado o “grande risco de recorrência da doença” - fls. 567 e 649).
+    Tendo em vista que o parágrafo único do art. 89 do Estatuto do Estrangeiro exige que a enfermidade grave, apta a justificar o adiamento da entrega, seja comprovada por meio de laudo médico oficial, inexistente nos autos, requer o Procurador-Geral da República que seja oficiada à Secretaria de Estado de Saúde do Rio de Janeiro para promover à realização de exame médico oficial no Extraditando.” (Fls. 796-7).
+    É o relatório.
+    Decido.
+    No julgamento do pedido extradicional, realizado no dia 09.8.2016, a 1ª Turma desta Corte Suprema condicionou a entrega do Extraditando (i) à observância dos arts. 89 e 67 da Lei 6.815/1980, dada a existência de duas ações penais em curso contra ele perante a Justiça Brasileira; (ii) ao prévio exame de saúde por laudo médico oficial, nos termos do parágrafo único do art. 89 do Estatuto do Estrangeiro; e (iii) à assunção pelo Estado Requerente dos compromissos previstos no art. 91 da Lei 6.815/1980.
+    Conforme decidido naquela assentada, a precariedade do estado de saúde do Extraditando “não constitui, por si só, impedimento ao deferimento da extradição, mas tão somente condiciona a entrega do Extraditando a prévio exame médico oficial”, inexistente nos autos.
+    Nesse contexto, reputo imprescindível, para o exame da Petição STF 55.209/2016 (fls. 791-3), apresentada pela Defesa do Extraditando, o acolhimento da promoção do parecer ministerial das fls. 796-7.
+    Ante o exposto, em caráter de urgência, expeça-se carta de ordem à Justiça Federal da Seção Judiciária do Rio de Janeiro, com cópia destes autos, para efeito de realização de laudo médico oficial, nos moldes requeridos pelo Procurador-Geral da República, em que se esclareça, inclusive, a efetivação da extradição pode colocar em risco a vida do Extraditando, nos termos do art. 89, parágrafo único, da Lei 6.815/80.
+    Fixo o prazo de 30 dias para o cumprimento da carta.
+    Com a chegada das informações, retornem os autos conclusos.
+    Publique-se.
+    Brasília, 11 de novembro de 2016.
+Ministra Rosa Weber
+Relatora
