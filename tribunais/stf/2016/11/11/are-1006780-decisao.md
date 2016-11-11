@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – AUSÊNCIA DE PREQUESTIONAMENTO – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, julgou improcedente o pedido de reconhecimento do direito à incorporação do abono salarial aos vencimentos e proventos, afirmando não ter a autora aderido ao sistema municipal de complementação de aposentadoria. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, inciso XXXVI, 7º, inciso VI, e 37, inciso XV da Constituição Federal. Tece considerações sobre a legislação de regência, sustentando o direito à incorporação do benefício.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação das Leis municipais nº 2.190/08 e nº 3.078/10. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: ofensa a direito local não cabe recurso extraordinário”-, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    Colho da decisão recorrido o seguinte trecho:
+    No entanto, tal situação se alterou quando da edição das Leis Municipais nº 2.910/2008 e 3.078/10 que extinguiram os abonos de R$ 1.500,00 e R$ 300,00, respectivamente, sendo que tais valores passaram a compor o próprio padrão de vencimentos dos servidores e, nesse momento, tanto os ativos como os inativos, deixaram de receber referida importância como o título de abono.
+    A partir do momento em que os abonos provisórios deixaram de existir, simplesmente não havia mais suporte legal que justificasse a continuidade do pagamento como parcela individualizada, como vinha ocorrendo.
+    Nesse sentido, o parágrafo único do art. 1º da Lei Municipal nº 3.078/10 especificou que a incorporação do abono seria estendida aos aposentados e pensionistas; especificou que também os servidores que percebessem sua aposentadoria e que tivessem direito à complementação de aposentadoria pelos cofres do Município teriam direito à incorporação do abono nos padrões e níveis de vencimentos para efeito de cálculo de suas aposentadorias e/ou complementação.
+    No entanto, como visto, a autora NÃO RECEBE DO MUNICÍPIO VENCIMENTO OU SALÁRIO. Recebe somente PROVENTOS DE APOSENTADORIA DO INSS, pois RECUSOU A ADESÃO AO FUNDO MUNICIPAL DE COMPLEMENTAÇÃO DE APOSENTADORIA para si e seus herdeiros.
+    Acresce que os argumentos expendidos no recurso não foram enfrentados pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula deste Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 11 de novembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
