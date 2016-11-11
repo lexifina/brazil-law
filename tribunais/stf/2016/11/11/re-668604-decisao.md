@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Espírito Santo, assim ementado:
+    “SERVIDOR PÚBLICO. VANTAGEM DO ARTIGO 192 DA LEI N.° 8.112/90. CÁLCULO DE ACORDO COM A REESTRUTURAÇÃO POSTERIOR DA CARREIRA. IMPOSSIBILIDADE. PROCEDÊNCIA DOS PEDIDOS FORMULADOS NA PETIÇÃO INICIAL.
+    I. A vantagem do artigo 192 da Lei n.° 8.112/90, para os professores aposentados na classe de adjuntos ou na classe de titulares, não pode levar em conta, para fins de cálculo, a remuneração da classe de associados, criada pela lei n.° 11.344/2006, tendo em vista que não tiveram a oportunidade de ascender na carreira, enquanto na ativa, de acordo com as regras e os patamares dessa nova legislação, que então inexistia.
+    II. Ademais, deve ser prestigiado o princípio da segurança jurídica, com a estabilidade das relações criadas em âmbito administrativo e, ainda, os proventos de aposentadoria devem ser calculados em conformidade com as normas jurídicas em vigor ao tempo da concessão do benefício, momento em que se consolidou a situação.
+    III. Recurso provido. Sentença reformada, para acolher pretensão autoral.
+    IV. Sem condenação em honorários advocatícios (artigo 55 da Lei n.° 9.099/95).”
+    O recurso extraordinário busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, caput e II; 37, caput; 61, § 1º, II, a; 62; 169, § 1º, I e II, todos da Constituição. Sustenta, em síntese, que os recorridos “pretendem é obter um aumento nos seus proventos, o que não faz absolutamente nenhum sentido porque, como está pacificado na doutrina e na jurisprudência, o servidor público não tem direito adquirido a regime jurídico”.
+    O recurso deve ser provido. Na hipótese, o acórdão recorrido assentou que o servidor, por ocasião da sua aposentadoria, preencheu os requisitos para a percepção da vantagem prevista no art. 192, II, da Lei nº 8.112/1990, e que a reestruturação da carreira por legislação posterior não poderia afastar a percepção da vantagem.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há direito adquirido a regime jurídico, sendo possível a modificação na forma de cálculo dos vencimentos ou proventos de servidores, desde que não acarrete redução nominal dos respectivos valores. Nessa linha, veja-se o seguinte julgado:
+    “CONSTITUCIONAL. SERVIDOR PÚBLICO. PROVENTOS DE APOSENTADORIA. LEI SUPERVENIENTE ESTABELECENDO VENCIMENTO ÚNICO PARA A CARREIRA. DIREITO ADQUIRIDO A REGIME JURÍDICO. INEXISTÊNCIA, ASSEGURADA A IRREDUTIBILIDADE DO VALOR PERCEBIDO. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL.
+    1. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido de que não existe direito adquirido nem a regime jurídico, nem aos critérios que determinaram a composição da remuneração ou dos proventos, desde que o novo sistema normativo assegure a irredutibilidade dos ganhos anteriormente percebidos.
+    2. Não havendo redução dos proventos percebidos pelo inativo, não há inconstitucionalidade na lei que estabelece, para a carreira, o sistema de vencimento único, com absorção de outras vantagens remuneratórias.
+    3. Agravo regimental desprovido.” (RE 634.732-AgR-segundo, Rel. Min. Teori Zavascki)
+    Dessa orientação divergiu o aresto impugnado ao estabelecer que a parte recorrida possui direito adquirido à forma de cálculo de seus proventos, não admitindo a reestruturação ocorrida na carreira por meio da legislação posterior (Lei nº 11.344/2006) que revogou o benefício previsto no art. 192, II, da Lei nº 8.112/1990, sem que houvesse redução global de vencimentos/proventos. Nessa linha e em caso análogo ao dos autos, veja-se o RE 895.068-AgR, julgado sob a minha relatoria.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso. Invertidos os ônus da sucumbência, ressalvada eventual concessão do benefício da justiça gratuita, sem prejuízo do disposto no art. 12 da Lei nº 1.060/1950.
+    Publique-se.
+          Brasília, 11 de novembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
