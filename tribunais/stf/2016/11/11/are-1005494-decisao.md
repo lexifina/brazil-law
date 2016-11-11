@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Superior Tribunal de Justiça assentou não ter havido declaração de inconstitucionalidade do artigo 134 do Código de Trânsito Brasileiro. No extraordinário cujo trânsito busca alcançar, o recorrente alega violados o artigo 97 da Carta Política e o verbete vinculante nº 10. Sustenta ter sido negada aplicação a ato normativo vigente, inobservando-se a cláusula de reserva de plenário.
+    2. De início, quanto a evocação do artigo 97 da Lei Fundamental, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça as vezes. Tem-se que a Corte Superior não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    No mais, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo.
+    Eis a síntese do acórdão recorrido:
+    ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO DE VEÍCULO AUTOMOTOR. RESPONSABILIDADE SOLIDÁRIA. DEVER DO ALIENANTE DE INFORMAR, AO DETRAN, A TRANSFERÊNCIA DA PROPRIEDADE DO BEM. ART. 134 DO CTB. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ SOBRE O TEMA. ALEGAÇÃO DE VIOLAÇÃO À CLÁUSULA DA RESERVA DE PLENÁRIO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+    I. O Superior Tribunal de Justiça firmou entendimento no sentido de que a regra do art.134 do Código de Trânsito Brasileiro sofre mitigação, quando restar comprovado, nos autos, que as infrações de trânsito foram cometidas após aquisição do veículo por terceiro, como ocorreu, no presente caso, afastando a responsabilidade do antigo proprietário. Nesse sentido: STJ, AgRg no AREsp 427.337/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 01/07/2015; STJ, AgRg no Resp 1.418.691/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 19/02/2015; STJ, AgRg no REsp 1.482.835/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2014.
+    II. Ressalte-se, outrossim, que não houve declaração de inconstitucionalidade do art.134 do CTB, tampouco o afastamento deste, mas tão somente a interpretação do direito infraconstitucional aplicável à espécie, razão pela qual não há que se falar em violação à cláusula de reserva de plenário, prevista no art. 97 da Constituição Federal, e muito menos à Súmula Vinculante 10, do Supremo Tribunal Federal. Precedentes do STJ.
+    III. Agravo Regimental improvido.
+    À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia da parte agravada em apresentar contraminuta ao agravo.
+    4. Publiquem.
+Brasília, 11 de novembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
