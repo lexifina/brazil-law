@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1669, de 9 de novembro de 2016
+Dispõe sobre o procedimento amigável no âmbito das convenções e dos acordos internacionais destinados a evitar a dupla tributação da renda de que o Brasil seja signatário.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no artigo sobre procedimento amigável das Convenções e dos Acordos Internacionais vigentes destinados a evitar a dupla tributação da renda de que a República Federativa do Brasil seja signatária, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
