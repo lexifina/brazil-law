@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES - ANATEL. IPTU. IMUNIDADE. ARTIGO 150, INC. VI, ALÍNEA A, DA CF. I. A Agência Nacional de Telecomunicações - ANATEL - goza da imunidade tributária recíproca, diante da expressa previsão do art. 150, inciso VI, alínea "a", § 2° da Constituição Federal, inclusive com relação aos fatos geradores ocorridos antes da substituição tributária. II. Apelação improvida.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição da República, aponta-se violação ao art. 150, VI, “a”, do Texto Constitucional.
+    Nas razões recursais, sustenta-se que “a mera condição de autarquia não é suficiente para conferir imunidade, uma vez que não se pode presumir serem todos os seus bens voltados a seus objetivos essenciais.”
+    Ademais, assevera-se que “não comprovado pela recorrida o preenchimento dos requisitos legais para" o reconhecimento da imunidade, impunha-se o julgamento de improcedência dos embargos à execução.”
+    A Vice-Presidência da TRF da 3ª Região inadmitiu o recurso extraordinário, por ausência de questão constitucional.
+    É o relatório.
+    Inicialmente, verifica-se que o acórdão recorrido não divergiu da jurisprudência do STF, segundo a qual a imunidade tributária recíproca estende-se às autarquias no que diz respeito ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes.
+    Veja-se a ementa do seguinte precedente:
+    “DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOA JURÍDICA. IMUNIDADE. ART. 150, VI, A, DA CONSTITUIÇÃO FEDERAL. EXTENSÃO ÀS AUTARQUIAS. PRECEDENTES. 1. O Supremo Tribunal Federal entende que a imunidade tributária recíproca dos entes políticos, prevista no art. 150, VI, a, da Constituição Republicana, é extensiva às autarquias, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes. 2. Agravo regimental a que se nega provimento.”
+(RE 475268 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 15.03.2011)
+    Além disso, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo acerca da destinação dos bens de autarquia demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo.
+    Confiram-se, a propósito, os seguintes julgados:
+    “Agravo regimental no recurso extraordinário. Tributário. IPTU. Imunidade recíproca. Autarquia. Natureza da atividade. Destinação dos imóveis. Necessidade de reexame da legislação infraconstitucional e do conjunto fático-probatório. Ofensa constitucional indireta ou reflexa. Súmula n° 279/STF. Ônus da prova. 1. O Tribunal de origem, com base no conjunto fático-probatório da causa e no Decreto nº 2.013/96, decidiu que a agravada goza de imunidade tributária recíproca, em razão de ela ser autarquia que não desempenha atividade econômica e de seus imóveis estarem vinculados a suas finalidades essenciais. Para ultrapassar esse entendimento, seria necessário o reexame da legislação infraconstitucional e dos fatos e das provas dos autos, o que não é cabível em sede de recuso extraordinário. Incidência da Súmula nº 279 da Corte. 2. A presunção de que os imóveis da entidade estão afetados a suas finalidades institucionais milita em favor da entidade. Cabe ao Fisco o ônus de elidir a presunção, mediante a constituição de prova em contrário. 3. Agravo regimental não provido.”
+(RE 871039 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 09.11.2015)
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMUNIDADE RECÍPROCA. NATUREZA JURÍDICA DO BANCO MINASCAIXA. NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Para dissentir do acórdão recorrido quanto ao fato de que o banco Minascaixa desempenhava atribuições de caráter econômico e de que somente a partir de 25/8/1998 o seu patrimônio passou a integrar o patrimônio do Estado de Minas Gerais, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II – Agravo regimental improvido.”
+(AI 801464 AgR, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 12.11.2010)
+    Em relação à ANATEL, cito a seguinte decisão monocrática: ARE 782.795, de relatoria do Ministro Ricardo Lewandowski, DJe 18.03.2014.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 11 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
