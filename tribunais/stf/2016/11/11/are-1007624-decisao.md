@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado:
+    “AGRAVO LEGAL NA APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. SERVIDORES MILITARES. AUSÊNCIA DE COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS LEGAIS PARA ASCENSÃO FUNCIONAL DISPOSTOS NA LEI COMPLEMENTAR ESTADUAL Nº 134/08. IMPOSSIBILIDADE DE PROMOÇÃO AUTOMÁTICA POR ANTIGUIDADE. SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO DOS AUTORES (ORA AGRAVANTES) POR NÃO IDENTIFICAR O PREENCHIMENOT DOS REQUISITOS LEGAIS PARA AS PROMOÇÕES À GRADUAÇÃO DE 3º SARGENTO DA PMPE. DECISÃO QUE ESTÁ EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTE EGRÉGIO TRIBUNAL E DOS TRIBUNAIS SUPERIORES. DECISÃO TERMINATIVA QUE NEGOU SEGUIMENTO AO APELO DOS AUTORES (ORA AGRAVANTES), MANTENDO A SENTENÇA EM TODOS OS SEUS TERMOS. AGRAVO LEGAL CONTRA A DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ELEMENTO OU FATO NOVO CAPAZ DE MODIFICAR A DECISÃO. DECISÃO MONOCRÁTICA MANTIDA. RECURSO DE AGRAVO IMPROVIDO À UNANIMIDADE.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, caput e XV, da Constituição.
+    A decisão deve ser mantida. O Tribunal de origem concluiu que os recorrentes não preencheram todos os requisitos para a promoção pleiteada. Dissentir da conclusão do acórdão recorrido demandaria o reexame dos fatos e do material probatório constante dos autos, bem como uma nova análise da legislação local aplicável ao caso (Lei Complementar estadual nº 134/2008 e Lei estadual nº 12.344/2003). Nessas hipóteses, incidem as Súmulas 279 e 280/STF.
+    Em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode questionar nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 11 de novembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
