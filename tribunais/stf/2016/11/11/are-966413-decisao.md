@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que manteve a concessão da segurança a fim de determinar que a ora recorrente forneça transporte gratuito para tratamento médico da impetrante.
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação ao art. 5º, caput, e 37, caput, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem assim dirimiu a controvérsia em exame:
+    “[…]
+    O transporte é via de acesso à saúde e a referência ao seu fornecimento decorre do estritamente necessário para o tratamento de saúde da apelada.
+    O Estado tem a obrigação de assegurar o fornecimento de medicamentos, insumos, transporte e tratamentos essenciais para as pessoas que não reúnam condições financeiras para o tratamento indispensável à preservação das condições de saúde.
+    O art. 196 da Constituição Federal estabelece que a saúde expressa direito de todos e dever do Estado. Interpreta-se, com isso, que incumbe ao Poder Público desenvolver a tarefa de viabilizar o cumprimento da promessa constitucional de fornecer o transporte adequado para o paciente realizar o tratamento médico pleiteado.
+    […]
+    Ademais, o relatório médico é juridicamente hígido e goza de total credibilidade para o fornecimento do transporte para o processo destinado a curar a paciente” (pág. 61-62 do documento eletrônico 2)
+    Por sua vez, a recorrente cingiu-se a alegar ofensa aos arts. 5º e 37 da Constituição Federal, sob o argumento de que a recorrida não faz jus ao transporte gratuito pleiteado, visto que não preenche os requisitos previstos nas normas alusivas ao caso (Decreto estadual 34.753/1992 e Resolução Conjunta SS/STM 03/2004).
+    Verifica-se, assim, que os dispositivos constitucionais arguidos pela recorrente não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, cito o ARE 772.836-AgR/PE, Rel. Min. Dias Toffoli, cuja ementa segue transcrita:
+    “Agravo regimental em recurso extraordinário com agravo. Prequestionamento. Não ocorrência. Prequestionamento implícito. Inadmissibilidade. Incidência das Súmulas 282 e 356/STF. Procedimento de retenção de contribuição previdenciária. Fundo de Participação dos Municípios. Debate infraconstitucional. Afronta reflexa. 1. A Corte não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo, é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional. 2. Para se ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar a controvérsia à luz da legislação infraconstitucional de regência (Leis nºs 8.212/91; 11.941/09; Decreto 3.048/99 e IN MPS/SRP nº 3/05). A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. 3. Agravo regimental não provido” (grifos meus).
+    Além disso, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos e das normas infraconstitucionais locais pertinentes ao caso, o que é vedado pelas Súmulas 279 e 280 do STF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
