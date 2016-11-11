@@ -1,0 +1,22 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Isaías da Silva Cruz, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao RHC 68.069/MG.
+    Em 14.10.2015, o paciente foi preso em flagrante delito e, posteriormente, denunciado pela prática dos crimes de tráfico de drogas e de associação para o tráfico, tipificados nos arts. 33 e 35 da Lei 11.343/2006. O Juízo da 1ª Vara Criminal da Comarca de João Nepomuceno/MG converteu o flagrante em prisão preventiva.
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça de Minas Gerais, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que negou provimento ao RHC 68.069/MG.
+    No presente writ, a Impetrante sustenta a inidoneidade da fundamentação da custódia cautelar, porquanto ausentes seus pressupostos autorizadores. Argumenta a existência de circunstâncias favoráveis ao paciente, como primariedade e bons antecedentes. Requer, em medida liminar e no mérito, o direito de o paciente aguardar em liberdade o eventual trânsito em julgado do édito condenatório.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. CIRCUNSTÂNCIAS DO DELITO. NATUREZA, NÚMERO DE PORÇÕES E FORMA DE ACONDICIONAMENTO DO ESTUPEFACIENTE ENCONTRADO. RISCO EFETIVO DE CONTINUIDADE NO COMÉRCIO ILEGAL DE MATERIAL TÓXICO. PERICULOSIDADE SOCIAL. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. SEGREGAÇÃO FUNDAMENTADA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. COAÇÃO ILEGAL NÃO DEMONSTRADA. RECLAMO IMPROVIDO.
+    1. Não há ilegalidade na manutenção da prisão preventiva quando demonstrado, com base em fatores concretos, que a medida se mostra necessária, dada a forma como ocorrido o delito, indicativa de envolvimento mais profundo com a narcotraficância.
+    2. A natureza altamente danosa do crack, o número de porções encontradas desta substância e a sua forma de acondicionamento - embaladas individualmente, prontas para a venda -, somados ao fato da prisão em flagrante haver sido efetivada após exaustiva investigação policial, que contou inclusive com a quebra do sigilo telefônico dos corréus apontados como os líderes da associação criminosa supostamente integrada por todos os denunciados, bem como de terem sido apreendidas embalagens comumente utilizadas na disseminação de drogas e considerável quantia em dinheiro, são circunstâncias que indicam a periculosidade social do acusado e o risco de continuidade na prática criminosa, caso libertado, autorizando a preventiva.
+    3. Condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade.
+    4. Indevida a aplicação de medidas cautelares diversas da prisão quando a constrição encontra-se justificada e mostra-se necessária, dada a potencialidade lesiva da infração e a probabilidade concreta de continuidade no cometimento da grave infração denunciada.
+    5. Recurso ordinário improvido”.
+    De início, consigno que, em 15.9.2016 (data posterior à publicação do ato dito coator), sobreveio sentença condenatória impondo ao paciente a pena de 04 (quatro) anos e 08 (oito) meses de reclusão, em regime inicial fechado, pela prática dos crimes a ele imputados. Naquela oportunidade, o magistrado de primeiro grau manteve a prisão preventiva do paciente.
+    Diante da prolação de sentença penal condenatória, substancial a alteração do quadro fático da impetração, não mais subsistindo a prisão preventiva decretada antes do julgamento, e sim segregação cautelar baseada no decreto condenatório, com a consequente alteração do título prisional.
+    Quanto ao ponto, enfatiza esta Corte Suprema que: “A superveniência de sentença condenatória em que o Juízo aprecia e mantém a prisão cautelar anteriormente decretada implica a mudança do título da prisão e prejudica o conhecimento de habeas corpus impetrado contra a prisão antes do julgamento” (HC 113.885/PR, de minha relatoria, 1ª Turma, DJe 04.11.2013).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de novembro de 2016.
+Ministra Rosa Weber
+Relatora
