@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que desproveu o recurso da parte ora Recorrente, em ação de prestação de contas, nos seguintes termos:
+    AÇÃO DE PRESTAÇÃO DE CONTAS - Relação de mandato - Primeira fase - Alegação de que as contas já foram prestadas, ante o depósito ocorrido nos autos, e que não teriam sido prestadas anteriormente, em virtude de ausência de localização da apelada. Alegação, também, da necessidade de compensação, uma vez, que do valor depositado, a apelante tem direito aos seus honorários. Alegações que não convencem, pois não obstante o depósito realizado, a apelante sustenta que tinha direito à retenção de 20% do valor da quantia depositada, a título de honorários, questão essa que deverá ser analisada e debatida na segunda fase do processo, vez que há a necessidade de se aferir sobre esse fato e sobre a regularidade do depósito ocorrido. Necessidade de realização da segunda fase, justamente para que o Juízo decida acerca de tais fatos. Recurso improvido.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aduz-se ofensa ao artigo 5º, II, e XXXIV, da Constituição da República, por violação dos princípios da legalidade e do direito de petição.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutidos nestes autos.
+    Ressalte-se ao julgar o RE-RG 950.787, em 28.04.2016 (Tema 890), o Plenário deste Tribunal afirmou não existir repercussão geral nos casos em que a alegada ofensa ao princípio constitucional da legalidade ocorre de forma genérica, exigindo interpretação das normas infraconstitucionais e revolvimento do conjunto fático-probatório dos autos, o que torna inadmissível o processamento do recurso extraordinário, como no caso dos autos.
+    Ante o exposto, em vista do pronunciamento do Supremo Tribunal Federal acerca do tema suscitado neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 11 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
