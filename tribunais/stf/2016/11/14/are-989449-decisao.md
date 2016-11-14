@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão proferido pela Quinta Turma do Tribunal Regional Federal da 3ª Região.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5°, II, 37 caput, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+     Isso porque a jurisprudência desta Corte firmou-se no sentido de que a questão referente aos critérios de atualização monetária do débito judicial possui natureza infraconstitucional. Desse modo, eventual ofensa à Constituição se daria de forma meramente reflexa. Inviável, portanto, o recurso extraordinário. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “Agravo regimental em agravo de instrumento. 2. Discussão acerca de índice de atualização de débito judicial. Deflação. Matéria infraconstitucional. Ofensa reflexa ao texto constitucional. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento” (AI 857.551-AgR/RS, Rel. Min. Gilmar Mendes, Segunda Turma).
+    “Agravo regimental no recurso extraordinário. Previdenciário. Execução. Atualização do débito. Índices de correção monetária. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. A orientação adotada nesta Corte é a de que, embora o segurado tenha direito ao reajuste dos benefícios, esse se dará nos moldes e critérios previstos em lei, que definirá, inclusive, os índices de correção monetária aplicáveis e os períodos de sua incidência. 2. Inviável, em recurso extraordinário, a interpretação da legislação infraconstitucional e a análise de ofensa reflexa à Constituição Federal. Incidência da Súmula nº 636/STF. 3. Agravo regimental não provido” (RE 607.686-AgR/RS, Rel. Min. Dias Toffoli, Primeira Turma).
+    Indico, ainda, os seguintes julgados proferidos em decisões monocráticas: ARE 681.596-AgR/PE, Rel. Min. Marco Aurélio; ARE 768.738/RS, Rel. Min. Cármen Lúcia.
+    Ademais, este Tribunal entende não ser cabível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). Nesse sentido, cito as seguintes decisões, entre outras: AI 696.428-AgR/SP, Rel. Min. Ayres Britto; AI 750.679-AgR/RJ, Rel. Min. Dias Toffoli; RE 602.740-AgR/DF, Rel. Min. Eros Grau; RE 478.700-AgR/DF, Rel. Min. Ellen Gracie.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 14 de novembro de 2016.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
