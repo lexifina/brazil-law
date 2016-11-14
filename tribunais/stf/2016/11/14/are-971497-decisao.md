@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em reclamação trabalhista ajuizada em face do Município de Barras, Estado do Piauí. Pleiteia-se, em síntese, o recolhimento dos depósitos do FGTS relativos a todo o período de trabalho da reclamante, que teve início antes da Constituição de 1988, sob o regime da CLT, bem como o pagamento dos valores devidos a título de 13º salário e terço constitucional de férias. O Tribunal Superior do Trabalho decidiu, em suma, que, estando a reclamante submetida ao regime celetista, compete à Justiça do Trabalho apreciar a demanda.
+    No recurso extraordinário, a parte recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. O Plenário do Supremo Tribunal Federal, no julgamento do ARE 906.491-RG (de minha relatoria, DJe de 7/10/2015, Tema 853), submetido à sistemática da repercussão geral, reafirmou sua jurisprudência “no sentido de ser da competência da Justiça do Trabalho processar e julgar demandas visando a obter prestações de natureza trabalhista, ajuizadas contra órgãos da Administração Pública por servidores que ingressaram em seus quadros, sem concurso público, antes do advento da CF/88, sob regime da Consolidação das Leis do Trabalho – CLT”, sendo inaplicáveis, nesses casos, os precedentes formados na ADI 3.395-MC (Rel. Min. CEZAR PELUSO, DJ de 10/11/2006) e no RE 573.202 (Rel. Min. RICARDO LEWANDOWSKI, DJe de 5/12/2008, Tema 43). O acórdão recorrido encontra-se em conformidade com o entendimento do STF, razão pela qual não merece reforma.
+    3. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 14 de novembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
