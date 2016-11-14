@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, ementado nos seguintes termos:
+    “EMENTA – APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE NULIDADE DE DECISÃO DO TRIBUNAL DE CONTAS – INSPEÇÃO ORDINÁRIA – CONSTATAÇÃO DE IRREGULARIDADES EM DISPÊNDIOS – RELATÓRIO SUBMETIDO A JULGAMENTO ADMINISTRATIVO – ACOLHIMENTO DAS IRREGULARIDADES APONTADAS PELA EQUIPE TÉCNICA – DEVOLUÇÃO PELO AGENTE POLÍTICO ORDENADOR DAS DESPESAS – PUBLICIDADES COM CUNHO DE AUTO-PROMOÇÃO PESSOAL, AQUISIÇÃO DE APARELHO CELULAR COM DESVIO DE FINALIDADE E FESTIVIDADE SOCIAL PARA PESSOAS CONDECORADAS – MULTA ADMINISTRATIVA PERTINENTE – ADMITIDA A LEGALIDADE APENAS DAS DESPESAS DE AQUISIÇÃO DE MATERIAL DE HONRARIA – RECURSO PARCIALMENTE PROVIDO. É obrigação do agente político zelar pelo patrimônio público. Logo, cabe ao ordenador de despesas atentar para que sejam elas compatíveis com a legislação orçamentária e financeira que regulam as atividades públicas.
+    O art. 37 § 1º da Constituição Federal veda publicidade dos atos, programas, obras, serviços e campanha dos órgãos públicos com propósito de autopromoção pessoal.
+    Os princípios da legalidade, impessoalidade e moralidade, dentre outros, veda despesas com aquisição de aparelho celular e dar-lhe destinação diversa, bem como gastos com festejos comemorativos àqueles que foram agraciados com honrarias. Mantida apenas a legalidade da aquisição de material de honraria, como medalha e troféus.
+    Preserva-se a multa administrativa aplicada pelo Tribunal de Contas quando compatível com a causa que a originou.” (eDOC 3, p. 167)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 37, caput, do texto constitucional. (eDOC 4, p.1)
+    Nas razões recursais, alega-se que as despesas com homenagens prestadas pela Câmara Municipal foram regulares e feitas de acordo com a legalidade, devendo a multa que lhe fora aplicada ser reduzida.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base no conjunto probatório constante dos autos, manteve penalidades impostas pelo Tribunal de Contas estadual ao ordenador de despesas. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Constou do relatório técnico do Tribunal de Contas que tais despesas não aparentavam regularidade ... à luz dos princípios da legalidade e eficiência, insculpidos no Art. 37 da Constituição Federal (f. 23).
+    Na ótica do apelante são elas regulares em razão de sua instituição através do Decreto Legislativo nº 01/2004 (f. 64-65) e Resolução n. 02/2004 (f. 66).
+    É certo a distribuição de honrarias pelo poder legislativo, pelo que tenho como pertinente acalentar a legalidade das despesas tidas com a confecção dos troféus e medalhas, no valor de R$ 5.504,00 (f. 87).
+    Refoge, no entanto, dos princípios da moralidade, legalidade e impessoalidade as despesas feitas com local de clube (f. 88 - 90) e serviços de coquetel (f.91-93) em razão de se tratar de mero encontro social.
+    Trata-se de evento festivo, de cunho eminente social para prestigiar alguns munícipes, em detrimento da maioria.
+    De mais a mais, conquanto comum as honrarias como meio de reconhecer trabalho extraordinário no contexto sócio-político-econômico de determinados cidadãos, não o é a comemoração posterior.
+    E aqui registro um fato recentemente ocorrido na Assembleia Legislativa do Estado de Mato Grosso do Sul.
+    No dia 08 de outubro de 2015 o legislativo estadual condecorou várias e várias pessoas de todo o estado. Ocorre que encerrado o evento de condecoração, não houve nenhuma extensão comemorativa, como procedeu a Câmara Municipal de Paranaíba na gestão do apelante.
+    Em resumo: admite-se gastos para a distribuição de honrarias, como, por exemplo, aquisição de medalhas ou diploma de honra ao mérito em papel especial. O que não se admite é o gasto com comemoração, como ocorreu no caso em comento.” (eDOC 3, p. 174 - 175)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Incide no caso a Súmula 279.
+    Confira-se, a propósito, o precedente exemplar:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Tribunal de Contas. Redução de multa decorrente de processo de tomada de contas especial. Princípios da proporcionalidade e da razoabilidade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Controle da legalidade dos atos administrativos pelo Poder Judiciário. Possibilidade. Precedentes. 1. O tribunal a quo, com fundamento na legislação infraconstitucional e no conjunto-fático probatório da causa, determinou a redução da multa imposta ao ora agravado como penalidade decorrente de processo de tomada de contas especial, por considerá-la exorbitante. Incidência das Súmulas nºs 636 e 279/STF. 2. A jurisprudência da Corte é no sentido da possibilidade de controle pelo Poder Judiciário de ato administrativo eivado de ilegalidade ou abusividade, podendo ele atuar, inclusive, em questões atinentes à proporcionalidade e à razoabilidade do ato. 3. Agravo regimental não provido. 4. Inaplicável o art. 85, § 11, do CPC, pois o agravado não apresentou contrarrazões.” (ARE-AgR 947843, rel. min. Dias Toffoli, Segunda Turma, DJe 4.8.2016).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de novembro de 2016.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
