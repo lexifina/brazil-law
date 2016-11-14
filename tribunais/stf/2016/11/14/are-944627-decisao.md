@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo interposto contra decisão que inadmitiu o extraordinário aos argumentos de que (a) o acórdão recorrido está em consonância com o entendimento do STF proferido no RE 633.933/DF (Tema 410) e RE 631.389/CE (Tema 351); e (b) o exame quanto à suposta afronta ao art. 5º, LIV e LV, da CF/88 dependeria da análise de legislação infraconstitucional, medida inviável no âmbito do apelo extremo.
+    2. O Plenário do STF, no julgamento das Rcl 7.569 e 7.547, ambas da relatoria da Min. Ellen Gracie, assentou o entendimento de que não constitui juízo de admissibilidade do apelo a negativa de seguimento do recurso extraordinário, na origem, com base nos §§ 2º e 3º do art. 543-B do CPC/1973 e no art. 328-A do RISTF, de modo que se revela incabível o ajuizamento de reclamação ou a interposição do agravo do art. 544 do CPC/1973. Definiu-se, também, que o não encaminhamento do recurso a esta Corte não importa violação à Súmula 727/STF. Essa orientação foi reafirmada pelo Pleno quando do julgamento do AI 760.358-QO, Rel. Min. GILMAR MENDES (Presidente), DJe de 12/2/2010.
+    Entretanto, havendo decisão de admissibilidade do extraordinário com partes autônomas em que se aplica a sistemática da repercussão geral a apenas algumas delas, evidentemente não compete ao Juízo de origem a apreciação daquilo que for obstado por fundamentos diversos.
+    Desse modo, o presente agravo apenas comporta conhecimento relativamente à inadmissão do extraordinário quanto às demais violações aduzidas.
+    3. No que toca à alegada contrariedade art. 5º, LIV e LV, da Constituição Federal, é inviável a apreciação, em recurso extraordinário, de vulneração ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, uma vez que, se houvesse, seria meramente indireta, já que é imprescindível o exame de normas infraconstitucionais (ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, Tema 660).
+    4. Diante do exposto, conheço parcialmente do agravo e, nessa parte, nego provimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 14 de novembro de 2016.
+Ministro Teori Zavascki
+Relator
+ Documento assinado digitalmente
