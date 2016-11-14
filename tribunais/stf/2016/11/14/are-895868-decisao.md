@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 17, p. 53):
+    “apelação cível. licitação. pedido de anulação de contrato administrativo por violação à cláusula editalícia. ilegalidade para figurar no feito parte que não celebrou o contrato administrativo. interpretação correta do edital pela administração. ausência de cominação da pena de nulidade para o ato denunciado como irregular. ausência de prejuízo da administração. provimento do recurso para reformar a sentença, reconhecendo a improcedência do pedido”.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37 da Constituição Federal.
+    Nas razões recursais, a parte recorrente aduz, em suma, que o acórdão recorrido ofendeu os princípios constitucionais da legalidade e da moralidade dispostos no art. 37 da Constituição Federal, porquanto assentou que não houve demonstração de prejuízo à Administração Pública na celebração do contrato administrativo realizado pela Companhia Docas do Rio de Janeiro com a Multi-Car Rio Terminal de Veículos e a SPA – Shipping Operadores Portuários Ltda.
+    Por esses motivos, sustenta que ficou demonstrada a violação ao art. 37 da Constituição Federal e espera-se seja restabelecida a sentença de 1° grau que declarou a nulidade do referido contrato administrativo e que condenou as rés a pagarem indenização por perdas e danos sofridos pela requerente em razão da não renovação do contrato de operação portuária devido a supostas irregularidades no processo licitatório.
+    A 3ª Vice-Presidência do TJ/RJ inadmitiu o recurso extraordinário pro entender que não houve violação a Constituição Federal (eDOC 23, p. 9).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de orgiem assim asseverou (eDOC 17, p. 58-62):
+    “Quanto ao mérito, entendo que a resposta ao litígio se encontra em uma análise mais profunda do Edital. A CIA DOCAS promoveu leilão, no qual pretendia arrendar área do Porto destinada a operação portuária de navios tipo Roll on Roll off, utilizados, principalmente, no transporte marítimo de automóveis. Consoante se depreende do Edital, a preocupação da Administração era a de garantir que o arrendatário seria pessoa idônea, capacitada financeiramente. Isso fica claro da redação item 3.2 do Edital. A habilitação das concorrentes não envolve matéria técnica, mas a verificação de idoneidade financeira e fiscal.
+    (…)
+    Já em outra seção do Edital há referencia, no item 4.3, que a vencedora do leilão deveria indicar, antes de firmar o contrato com a Administração, uma operadora com experiência a ser aceita pela CIA DOCAS. A questão técnica relativa à operadora portuária, assim, não era essencial, caso contrário teria sido referida como um dos elementos para habilitação dos licitantes ou para indicar a vencedora do certame.
+    (…)
+    […] como já visto, a indicação de operadora portuária era questão acessória, não afetando a regularidade da licitação. Mesmo que se entendesse de modo diverso, a interpretação do cláusula do Edital não poderia ser dada pela sentença, porquanto não se mostra ela em sintonia com a regra do § 5º do art. 30 da Lei de Licitações […].
+    (…)
+    Há outro ponto de grande relevância para o desate da questão: não se demonstrou qualquer prejuízo público com a indicação e posterior aceitação da SPA-SHIPPING como operadora. O fato de esta sociedade ter sido apontada e acolhida não resultou em qualquer prejuízo para a exploração do terminal arrendado pela MULTI-CAR, ou para a arrendadora CIA DOCAS. Sem prejuízo ao ato, a decretação de nulidade, que acarretaria a necessidade de um novo contrato, sempre com a mesma vencedora, pois a nulidade da licitação não é objeto desta lide, não se justifica”.
+    Dessa forma, constato que eventual divergência ao entendimento adotado pelo juízo a quo, demandaria reexame de fatos e a interpretação de cláusulas do Edital, bem como da legislação aplicável à espécie, a Lei 8.666/1993, o que não é cabível em sede de recurso extraordinário, haja vista as vedações contidas nas Súmulas 279 e 454 do STF, além da impossibilidade de apreciação de matéria infraconstitucional na estrita via do apelo extraordinário.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 14 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
