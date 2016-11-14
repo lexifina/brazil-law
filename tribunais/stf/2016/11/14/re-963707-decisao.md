@@ -1,0 +1,24 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em demanda objetivando revisão de benefício previdenciário. O acórdão da 5ª Turma do TRF4 decidiu, em suma, que (a) os benefícios concedidos antes da Medida Provisória 1.523-9 não se sujeitam a prazo decadencial; (b) a prescrição quinquenal só atinge as parcelas vencidas há mais de cinco anos da data do ajuizamento da ação; e (c) como houve correção dos salários de contribuição que serviram de base para a apuração do valor inicial, deve haver a respectiva revisão do benefício.
+    Os embargos de declaração interpostos tiveram provimento negado.
+    No recurso extraordinário, a parte aponta ofensa ao artigo (a) 5º, XXXVI, da Constituição Federal por não ter sido adequadamente interpretado o dispositivo para a aplicação do direito intertemporal; e (b) 5º, XXXV, LIV e LV, da CF por ter havido negativa de prestação jurisdicional quando da rejeição dos embargos declaratórios. O recorrente expressamente deixou de impugnar os demais argumentos do acórdão recorrido tendo em vista que a decadência é parte autônoma e prejudicial aos fundamentos de mérito do aresto.
+    Levado ao exame de admissibilidade, o apelo extremo foi sobrestado para aguardar o julgamento do RE 626.489 (Rel. Min. ROBERTO BARROSO, DJe de 23/9/2014, Tema 313) por esta Corte, conforme a sistemática de repercussão geral do art. 543-B do CPC/1973, por se tratar de caso análogo. Após a publicação da decisão no referido caso, o processo foi novamente remetido ao relator para verificar a adequação do acórdão com a orientação do STF. Entretanto, o acórdão recorrido foi mantido pelo motivo expresso no seguinte trecho do voto (fl. 113):
+    Verifico, então, que o benefício foi concedido ainda no ano de 1982 (vide, por exemplo, documento da fl. 05), tendo esta ação judicial sido distribuída em 23 de julho de 2007, ou seja, antes de ultrapassar dez anos do termo inicial do curso do prazo decadencial, que, no caso concreto, é 1° de agosto de 1997.
+    Não reconheço, portanto, a decadência.
+    O recorrente ratificou o interesse no recurso extraordinário (fl. 117).
+    2. O Plenário do Supremo Tribunal Federal, ao julgar o RE 626.489 (Rel. Min. ROBERTO BARROSO, DJe de 23/9/2014, Tema 313), sob o regime do art. 543-B do CPC/1973 (repercussão geral), consolidou entendimento em relação à matéria discutida no presente recurso extraordinário. Esse acórdão ficou assim ementado:
+    RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO. DECADÊNCIA.
+    1. O direito à previdência social constitui direito fundamental e, uma vez implementados os pressupostos de sua aquisição, não deve ser afetado pelo decurso do tempo. Como consequência, inexiste prazo decadencial para a concessão inicial do benefício previdenciário.
+    2. É legítima, todavia, a instituição de prazo decadencial de dez anos para a revisão de benefício já concedido, com fundamento no princípio da segurança jurídica, no interesse em evitar a eternização dos litígios e na busca de equilíbrio financeiro e atuarial para o sistema previdenciário.
+    3. O prazo decadencial de dez anos, instituído pela Medida Provisória 1.523, de 28.06.1997, tem como termo inicial o dia 1º de agosto de 1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição.
+    4. Inexiste direito adquirido a regime jurídico não sujeito a decadência.
+    5. Recurso extraordinário conhecido e provido.
+    Considerada a especial eficácia vinculativa desse julgado (CPC, art. 543-B, § 3º), impõe-se sua aplicação, nos mesmos termos, aos casos análogos, como o dos autos.
+    Por estar em concordância com a orientação do Plenário desta Corte, não merece reparos o acórdão recorrido.
+    Dissentir das premissas fáticas assentadas pelo Tribunal de origem quanto ao decurso, ou não, do prazo decadencial decenal ensejaria a revisão do conjunto fático-probatório dos autos, o que é estranho ao âmbito de cognição do apelo extremo, incidindo o óbice da Súmula 279/STF.
+    3. Ademais, é inviável a apreciação, em recurso extraordinário, de violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, uma vez que, se houvesse, seria meramente indireta, já que é imprescindível o exame de normas infraconstitucionais (ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, Tema 660).
+    4. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 14 de novembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
