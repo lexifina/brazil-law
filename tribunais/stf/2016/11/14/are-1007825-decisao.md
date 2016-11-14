@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+    “PROCESSUAL CIVIL. AGRAVO LEGAL. AER. 557, § 1º, DO CPC. FUNDAMENTOS DA DECISÃO AGRAVADA INAFASTADOS. MANUTENÇÃO DA DECISÃO.
+    1. para o manejo do agravo previsto no art. 557, § 1º, do Código de Processo Civil, é preciso o enfrentamento da fundamentação da decisão agravada, ou seja, deve-se demonstrar, no caso, que a apelação não estava em confronto com a jurisprudência dominante desta Corte. Precedentes do STF, STJ e desta Corte.
+    2. Decisão proferida em conformidade com a legislação cabível à espécie, aplicando o entendimento dominante nos Tribunais Superiores.
+    3. A agravante limitou-se a manifestar seu inconformismo com a decisão recorrida, não trazendo, porém elementos aptos a sua reforma.
+    4. Agravo legal desprovido.” (eDOC 2, p. 51)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XIII, LVII, do texto constitucional. (eDOC 2, p. 103)
+    Nas razões recursais, alega-se que o acórdão impugnado violou os dispositivos constitucionais mencionados, ao permitir que o recorrido, muito embora tenha apresentado “antecedente criminal”, fosse inscrito em curso de reciclagem para formação de vigilantes, o que estaria em contrariedade aos requisitos previstos em lei para o exercício da profissão em questão.
+    Decido.
+    O recurso não merece prosperar.
+    Verifica-se que o Tribunal de origem decidiu em harmonia com a jurisprudência de ambas Turmas desta Corte, no sentido de que viola o princípio da presunção de inocência a negativa de participação ou de homologação de diploma em curso de formação de vigilante pelo fato de o interessado figurar em inquérito ou ação penal em curso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CURSO DE RECICLAGEM DE VIGILANTE. PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. VIOLAÇÃO. SÚMULA 636/STF. 1. A jurisprudência dessa Corte é firme no sentido de que viola o princípio da presunção de inocência a negativa de homologar diploma de curso de formação de vigilante com fundamento em inquéritos ou ações penais sem o trânsito em julgado. Precedentes. 2. Em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Súmula 636/STF. 3. Agravo regimental a que se nega provimento. (RE-AgR 914.121, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 12.2.2016)
+    “RECURSO EXTRAORDINÁRIO MATRÍCULA EM CURSO DE RECICLAGEM VIGILANTE EXISTÊNCIA DE REGISTROS CRIMINAIS PROCEDIMENTOS PENAIS DE QUE NÃO RESULTOU CONDENAÇÃO CRIMINAL TRANSITADA EM JULGADO INDEFERIMENTO DA MATRÍCULA IMPOSSIBILIDADE TRANSGRESSÃO AO POSTULADO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII) RECURSO DE AGRAVO IMPROVIDO. O indeferimento de matrícula em curso de reciclagem de vigilantes motivado, unicamente, no caso, pelo fato de existirem registros de infrações penais de que não resultou condenação criminal transitada em julgado vulnera, de modo frontal, o postulado constitucional do estado de inocência, inscrito no art. 5º, inciso LVII, da Lei Fundamental da República. Precedentes. (RE-AgR 892.938, Rel. Min. Celso De Mello, Segunda Turma, DJe 17.8.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de novembro de 2016.
+Ministro GILMAR MENDES
+Relator
