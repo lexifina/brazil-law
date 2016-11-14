@@ -1,0 +1,20 @@
+Decisão: 1. Trata-se de embargos de declaração opostos pela União contra decisão monocrática que julgou extinto o processo, sem resolução de mérito, nos seguintes termos:
+    1. Trata-se de ação cível originária proposta pelo Estado de Sergipe em face da União, com fundamento no art. 102, I, “f”, da Constituição Federal, que objetiva excluir o registro do autor no CAUC/CADIN/SIAFI decorrente do descumprimento da imposição constitucional de aplicação do percentual mínimo de 12% da receita corrente líquida em ações e serviços públicos de saúde no ano de 2006.
+    O autor sustenta, em suma, que a irregularidade verificada é imputável ao antigo governante e restringe-se a menos de 1% do percentual exigido constitucionalmente. Aduz que a atual administração adotou todas as providências cabíveis visando a responsabilização da antiga gestão por meio dos mecanismos legalmente disponíveis. Em assim sendo, defende a aplicação do princípio da intranscendência subjetiva das sanções.
+    A União apresentou contestação, na qual alega, em suma, que (a) os precedentes suscitados como fundamento da decisão liminar proferida na AC 1.763 não se aplicam à presente controvérsia; (b) não haverá prejuízos à população do Estado de Sergipe, pois as transferências são voluntárias, diversas das transferências constitucionais e legais obrigatórias que visam ao fomento de áreas essenciais, como educação, saúde e assistência social; (c) a Administração Pública está obrigada a proceder ao registro do ente em casos de inadimplência, de forma que não há qualquer ilegalidade no ato de inscrição; e (d) não se aplica ao caso o princípio da intranscendência subjetiva, haja vista que o Estado de Sergipe é responsável pelos atos dos seus administradores.
+    A Procuradoria-Geral da República manifestou-se pela procedência da ação (fls. 271/276).
+    O Ministro Ayres Britto deferiu pedido liminar na Ação Cautelar preparatória 1.763/SE, determinando a suspensão da restrição anotada no CAUC/SIAFI, objeto da presente ação. Contra essa decisão foi interposto agravo regimental.
+    Às fls. 291, consta a petição 65.217/2015, protocolada pelo Estado do Sergipe, solicitando a intimação da União para que se manifeste quanto à possível perda superveniente do objeto da presente ação, uma vez que a irregularidade que deu causa a sua inscrição nos cadastros restritivos encontra-se sanada.
+    Instada, a União requereu o reconhecimento da perda do objeto da ação (Petição 23.696/2016; fls. 329/337).
+    2. Diante das informações prestadas pelas partes, por meio das Petições 65.217/2015 e 23.696/2016, reconheço a perda superveniente do objeto requerida e julgo extinto o processo, sem resolução de mérito, com fundamento no art. 21, IX, do RISTF.
+    Prejudicado o agravo regimental interposto na Ação Cautelar preparatória 1.763/SE.
+    A embargante alega a existência de omissão quanto à fixação das verbas sucumbenciais. Sustenta, em suma, que a regularização do objeto da lide se deu por iniciativa do embargado e em momento posterior à propositura da ação.
+    Em contrarrazões, o embargado concorda com a omissão suscitada, no entanto atribui ao embargante a responsabilidade pelo pagamento dos honorários com fundamento na probabilidade de procedência da ação, nos termos da jurisprudência da Corte.
+    2. Com razão a embargante. A decisão impugnada foi omissa quanto à fixação das verbas sucumbenciais.
+    De fato, a obrigação de se aplicar anualmente recursos mínimos em ações e serviços públicos de saúde decorre de imposição constitucional. No caso, é incontroverso o inadimplemento dessa obrigação no exercício financeiro de 2006 por parte do embargado.
+    3. Diante do exposto, com base no art. 1.022, II, do CPC, acolho os embargos de declaração e, com fundamento nos §§ 8º e 10º do art. 85 do CPC, condeno o Estado de Sergipe ao pagamento de honorários advocatícios, arbitrados em R$ 5.000,00 (cinco mil reais).
+    Publique-se. Intimem-se.
+    Brasília, 14 de novembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
