@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “APELAÇÃO – AÇÃO ORDINÁRIA – IPTU, exercício de 2005 a 2010 – Município de Guarulhos – Publicação da lei sem planta genérica de valores (Anexo I) – Irregularidade – Elemento integrante da própria lei que com ela deve ser publicado, sob perna de ausência válida – Lançamento ilegal – RECURSO PROVIDO” (pág. 242 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 30, III, 37, caput, 150, II e 156, I e §1° da mesma Carta.
+    Verifico que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código Tributário Nacional e Lei Municipal 5.753/2001), bem como no conjunto fático-probatório. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, bem como o reexame dos fatos e provas constantes dos autos. A afronta à Constituição, se ocorrente, seria indireta, além de incidir a Súmula 279 desta Corte. Incabível, portanto, o recurso extraordinário. Com esse entendimento, cito o ARE 940091-AgR/PR, Rel. Min. Edson Fachin, cuja a ementa segue transcrita:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IPTU. EXIGIBILIDADE DA EXAÇÃO. PUBLICAÇÃO DE PLANTAS GENÉRICAS. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. 1. A jurisprudência do STF é firme no sentido de que a controvérsia relativa à cobrança de ITPU com base na publicação da planta de valores cinge-se ao âmbito infraconstitucional. Súmula 279 do STF. 2. É entendimento sumulado do STF o não cabimento de recurso extraordinário, em decorrência de violação ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida. Súmula 636 do STF. 3. Agravo regimental a que se nega provimento” (grifos meus).
+    Nesse sentido, menciono os seguintes precedentes, dentre outros: ARE 709.312-AgR/SP, Rel. Min. Roberto Barroso; ARE 704.199/SP, Rel. Min. Teori Zavascki.
+    Isso posto, nego seguimento ao recurso (art. 21, §1° do RISTF).
+    Publique-se.
+    Brasília, 14 de novembro de 2016.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
