@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 5ª Região, ementado nos seguintes termos:
+    “TRIBUTÁRIO E PROCESSUAL CIVIL. CRÉDITOS DE PIS E COFINS. NÃO CUMULATIVIDADE. EXCLUSÃO DA BASE DE CÁLCULO DO IRPJ E DA CSSL. IMPOSSIBILIDADE. LEGITIMAÇÃO PASSIVA AD CAUSAM. PRECEDENTES; (...)
+    - A não cumulatividade do PIS e da COFINS, erigida nas Leis nº 10.637/02 e 10.833/03, traduz-se na redução da base de cálculo, havendo a dedução de créditos referentes às contribuições em comento, que já tenham sido recolhidas sobre bens e/ou serviços, objeto de faturamento em etapas anteriores. Pretende-se com isso minorar a incidência dos efeitos sobre a receita ou faturamento.
+    - A Lei nº 10.833/03 concedeu ao contribuinte a prerrogativa de exclusão dos créditos de PIS e de COFINS da receita bruta da empresa, no afã de que tais créditos não componham a base de cálculo de tais contribuições, para que não se anule a sistemática de tributação não-cumulativa.
+    - Impossibilidade de exclusão dos referidos créditos para obtenção do lucro real que é o lucro líquido do exercício ajustado pelas adições, exclusões ou compensações prescritas ou autorizadas pela legislação tributária, nos termos do art. 6º, do Decreto Lei 1.598/77, para fins de apuração da base tributável do IRPJ e da CSLL, vez que para tanto deveria a legislação de regência trazer explicitamente tal previsão, o que não ocorreu. Precedente desta Colenda Corte. (AC 448331-SE, Rel. Des. Federal Rogério Fialho Moreira, DJ 11.12.2009).
+    -Apelação desprovida”. (eDOC 2, p. 119) (grifo nosso)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao artigo 153, III, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão recorrido ofende o conceito constitucional de renda ao admitir a incidência de IRPJ e CSLL sobre os créditos de PIS e COFINS no sistema não cumulativo, nos termos das Leis n. 10.637/2002 e n. 10.833/2003. (eDOC 2, p. 157-159)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Leis 10.637/2002 e 10.833/2003) e o conjunto probatório constante dos autos, consignou ser indevida a exclusão de créditos de PIS e COFINS da base de cálculo do IRPJ e da CSLL. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “(...) a não-cumulatividade do PIS e da COFINS traduz-se na redução da base de cálculo, havendo a dedução de créditos referentes às contribuições em comento, que já tenham sido recolhidas sobre bens e/ou serviços, objeto de faturamento em etapas anteriores. Pretende-se com isso minorar a incidência dos efeitos sobres a receita ou faturamento.
+    (…)
+    Como se vê, existente dispositivo legal concedendo ao contribuinte a prerrogativa de exclusão dos créditos de PIS e de COFINS da receita bruta da empresa, no afã de que tais créditos não componham a base de cálculo de tais contribuições, para que não se anule a sistemática de tributação não-cumulativa.
+    Todavia, da referida normatização não se pode concluir que deva haver exclusão de tais créditos para obtenção do lucro real, que é o lucro líquido do exercício ajustado pelas adições, exclusões ou compensações prescritas ou autorizadas pela legislação tributária, nos termos do art. 6º, do Decreto Lei 1.598/77, para fins de apuração da base tributável do IRPJ e da CSLL, vez que, para tanto, deveria a legislação de regência trazer explicitamente tal previsão, o que não ocorreu”. (eDOC 2, p. 115-116) (grifo nosso)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. DEDUÇÃO DE CRÉDITOS: CONTRIBUIÇÃO AO PROGRAMA DE INTEGRAÇÃO SOCIAL – PIS E AO FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS. BASE DE CÁLCULO DO IMPOSTO DE RENDA DE PESSOA JURÍDICA – IRPJ E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL. NECESSIDADE DE PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE-AgR 828.975, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 29.9.2014) (grifo nosso)
+    “DIREITO TRIBUTÁRIO. ICMS NA BASE DE CÁLCULO DO IRPJ E DA CSLL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. ACÓRDÃO RECORRIDO PUBLICADO EM 05.8.2011. A discussão travada nos autos não alcança status constitucional, porquanto solvida à luz da interpretação da legislação infraconstitucional aplicável à espécie. Agravo regimental conhecido e não provido”. (RE-AgR 756.116, Rel. Min. Rosa Weber, Primeira Turma, DJe 29.11.2013) (grifo nosso)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de novembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
