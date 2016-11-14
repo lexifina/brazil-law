@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário, por deserção, ao fundamento de que não foi cumprido o requisito do art. 511 do Código de Processo Civil, que determina que o preparo do recurso deve ser comprovado no ato da sua interposição.
+    No agravo, a parte recorrente afirma que (a) a comprovação do preparo ocorreu adequadamente; (b) houve o devido prequestionamento; (c) a matéria possui repercussão geral; e (d) o acórdão recorrido afrontou o art. 5º, LV, da Constituição Federal.
+    2. Correta a decisão agravada, pois esta Corte pacificou entendimento de que é ônus do recorrente comprovar o efetivo recolhimento do preparo, em conformidade com os ditames legais, no momento da interposição do recurso, acarretando sua irregularidade o reconhecimento da deserção. Nesse sentido, confiram-se:
+    E M E N T A: RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) - COMPETÊNCIA DA PRESIDÊNCIA DO TRIBUNAL DE ORIGEM PARA RECONHECER A OCORRÊNCIA DE DESERÇÃO RECURSAL DO APELO EXTREMO - OBRIGAÇÃO LEGAL DE COMPROVAR, NO ATO DE INTERPOSIÇÃO DO RECURSO, O RESPECTIVO PREPARO - DIRETRIZ JURISPRUDENCIAL FIRMADA PELO SUPREMO TRIBUNAL FEDERAL - RECURSO DE AGRAVO IMPROVIDO. - Assiste, à Presidência do Tribunal de origem, competência para reconhecer a ocorrência de deserção recursal, mesmo que se cuide de recurso extraordinário, sem que esse ato configure usurpação das atribuições jurisdicionais conferidas a esta Corte Suprema. Precedentes. - Incumbe, ao recorrente, comprovar, no ato de interposição do recurso, o pagamento do respectivo preparo. Precedentes. (ARE 662.677 AgR-segundo, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 16/8/2013)
+    EMENTA Agravo regimental no recurso extraordinário com agravo. Porte de remessa e retorno do recurso extraordinário. Comprovação no ato de interposição. Ausência. Deserção. Precedentes. 1. O preparo do recurso extraordinário deve ocorrer concomitantemente à sua interposição. Sua não efetivação, conforme os ditames legais, enseja a deserção do recurso. 2. Agravo regimental não provido. (ARE 707.484 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma,DJe de 28/6/2013).
+    No caso dos autos, a parte recorrente interpôs o recurso extraordinário, em 20/10/2014, sem comprovar devidamente o pagamento do preparo. Mesmo após a inadmissão do apelo extremo e a interposição do respectivo agravo, o autor não se dignou de comprovar o recolhimento do devido preparo.
+    Diante desse fato, não há como conhecer do apelo extremo, em razão da deserção.
+    3. Ante o exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 14 de novembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
