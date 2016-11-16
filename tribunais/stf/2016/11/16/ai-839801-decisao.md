@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado da Bahia reformou o entendimento do Juízo para declarar a inexistência de título líquido, certo e exigível apto a embasar a execução diante da superveniência da Lei nº 10.962/2004, cujo teor deixou de considerar como infração a não indicação de preços individuais em cada mercadoria posta a venda. No extraordinário ao qual foi negado seguimento na origem, afirma o recorrente a violação dos artigos 5º, incisos XXXVI, LIV e LV, 93, inciso IX, e 170 da Constituição Federal. Argui a nulidade do processo por negativa de prestação jurisdicional, porquanto o Colegiado deixou de enfrentar a questão da inconstitucionalidade da Lei nº 10.962/2004. Aponta o prejuízo suportado pelo consumidor diante da não exigência de se etiquetar individualmente os produtos. Afirma a violação ao ato jurídico perfeito ante à anulação da multa aplicada no ano de 2.000, quando a legislação de regência ainda previa a necessidade da utilização de etiquetas nos produtos.
+    2. Colho do acórdão recorrido, os seguintes trecho:
+    A infração administrativa imposta ao apelado pelo PROCON resulta no título executivo questionado na lide. Conduto, a Lei 10.9628/2004 deixou de considerar infração ao Código de Defesa do Consumidor a atitude da empresa recorrida de não colocar os preços individuais nos produtos, fato que ensejou a autuação pelo órgão de proteção ao consumidor.
+    […]
+    Assim, com a edição do diploma legal em epígrafe, o título executivo carreado aos autos carece de exigibilidade, uma vez que a conduta do recorrido, embora anterior à nova legislação tornou-se lícita.
+    De outra banda, a inconstitucionalidade suscitada da Lei 10.962/2004 não merece prosperar, pois o STJ já se pronunciou sobre a matéria no REsp 688.151/MG […]
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    Por fim, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 16 de novembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
