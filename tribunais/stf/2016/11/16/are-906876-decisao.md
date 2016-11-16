@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Tribunal de Justiça do Estado de São Paulo que negou provimento a apelação da parte ora Recorrente, mantendo-se a sentença pela qual foi condenada, solidariamente, ao pagamento das despesas processuais e honorários advocatícios, em razão de protesto de duplicatas, restando assim redigida a ementa:
+    AÇÃO DECLARATÓRIA DE NULIDADEDE TÍTULOS E INEXIGIBILIDADE DE DÉBITOS, PRECEDIDA DE MEDIDA CAUTELAR DE SUSTAÇÃO DE PROTESTO – Apelação– Recolhimento do preparo a menor – Intimação para pagamento da diferença - Complementação insuficiente pelo Banco Mercantil do Brasil S/A, suficientes a do Banco Bradesco S/A e da Retífica de Motores São Carlos Ltda. – Recurso julgado deserto.
+    AÇÃO DECLARATÓRIA DE NULIDADE DE TÍTULOS E INEXIGIBILIDADE DE DÉBITOS, PRECEDIDADE MEDIDA CAUTELAR DE SUSTAÇÃO DE PROTESTO – Duplicatas mercantis - Ausência de lastro Inexistência de relação jurídica subjacente confirmada pela própria sacadora - Responsabilidade da sacadora decorrente da emissão das duplicatas “frias” e de sua circulação – Imposição dos ônus de sucumbência em relação à sacadora e às instituições financeiras endossatárias - Ausência de cautela quando do recebimento dos títulos em desconto - Responsabilidade do banco pela indicação dos títulos a protestos sem os devidos comprovantes - Incidência da verba sucumbencial sobre a somatória dos valores atribuídos às causas principais e cautelares - Manutenção da repartição proporcional dos ônus da sucumbência - Recursos dos corréus desprovidos e provido parcialmente o da autora.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, II, a, aduz-se ofensa ao artigo 5º, V e X da Constituição Federal, afirmando-se violação dos princípios da proporcionalidade e da razoabilidade.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Embora haja estribo argumentativo na afronta aos princípios da proporcionalidade e da razoabilidade (art. 5º, V e X), dispostos no Texto Constitucional, é certo que a discussão sobre a possibilidade, ou não, da condenação judicial em despesas processuais e honorários advocatícios, tendo em vista o protesto de duplicatas, considerado sem causa, demandaria reexame de dados fáticos e a interpretação de cláusulas contratuais, a exigir o revolvimento de matéria de índole probatória, inviável na instância extraordinária.
+    Ante o exposto, nego seguimento ao recurso, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 16 de novembro de 2016.
+                      Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
