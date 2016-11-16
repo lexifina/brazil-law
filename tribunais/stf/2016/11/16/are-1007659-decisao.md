@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à procedência do pedido de devolução aos cofres públicos municipais dos valores recebidos pelos réus, considerada a invalidade do Ato nº 858/2003 da Câmara Municipal de Ribeirão Preto. No extraordinário, cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, inciso XXXVI, e 60, § 4º, inciso IV, da Constituição Federal. Sustenta a possibilidade de vinculação da remuneração dos vereadores ao subsídio dos deputados estaduais. Articula com a constitucionalidade da Lei municipal nº 8.949/00. Discorre sobre a natureza das verbas recebidas.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    A questão discutida nos autos, de certa forma, já foi objeto de apreciação por esta mesma 3º Câmara de Direito Público, no julgamento da apelação cível nº 336.821-5/0, que reconheceu a inconstitucionalidade da Lei Municipal nº 8.949/00, com base na qual foi posteriormente editado o Ato nº 858/2003 motivador, em última análise, da propositura da ação. Assim, por considerar relevante a decisão pretérita, a ela passarei a me referir, posto que vinculativa da decisão a ser aqui proferida.
+    No referido acórdão, após ultrapassadas as questões preliminares aventadas pelas partes, assentou-se que “na data da sanção da referida lei, a Constituição impunha três regras básicas: a) a necessidade serem os subsídios fixados pela Câmara, b) tais subsídios não poderiam superar importância equivalente a 75% dos subsídios dos deputados estaduais, e c) o total da despesa com os subsídios não pode ultrapassar cinco por cento da receita do Município”.
+    Tais subsídios, portanto, como observado na referida decisão pretérita, deveriam corresponder a valores monetários e não simplesmente porcentagem sobre uma base de cálculo fixada por outra pessoa jurídica de direito público. Aliás, essa fixação de valores monetários é que serviria para definir se atendiam ou não aos limites máximos, principalmente no que se refere à receita. Cumpre anotar que o orçamento, contendo receita e despesa, não admite que estas sejam fixadas senão pelo padrão monetário vigente. Daí a impossibilidade inicial da norma municipal simplesmente estabelecer que os subsídios representariam um percentual dos valores fixados para os deputados estaduais.
+    (…)
+    Como se vê, este Egrégio Tribunal de Justiça reconheceu, no caso acima mencionado, a inconstitucionalidade do art. 5º, § 1º, da lei municipal 8.949/00, que não fixou os subsídios dos vereadores em valor monetário, vinculando-os, direta e imediatamente, percentualmente, àquilo que os deputados estaduais viessem a fixar.
+    (…)
+    Claro está, portanto, que os vereadores deliberaram que sua remuneração corresponderia, invariavelmente, a 75% de tudo que o deputado estadual recebesse, a qualquer título. Pouco importando, nesse passo, se foram realizadas ou se tiveram ou não qualquer despesa com transporte ou outras imprescindíveis para o comparecimento às sessões.
+    (…)
+    Claro está que tal Ato foi um artifício criado para contrariar decisão judicial (…) e, com isso, incorreram na mesma ilegalidade anteriormente perpetrada e já reconhecida pelo Judiciário.
+    Há que se considerar, ademais, que segundo o art. 29, VI, da Constituição Federal, os subsídios dos vereadores devem ser fixados pela Câmara em cada legislatura para a subsequente. No caso em tela, além de ser baseado em lei inconstitucional, o aumento foi editado na mesma legislatura em que se deram os pagamentos, o que demonstra de maneira cabal a ilegalidade do Ato nº 858/2003.
+    À todas evidência, somente pela análise do quadro fático seria dado concluir de forma diversa, o que é vedado em sede extraordinária. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 16de novembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
