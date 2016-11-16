@@ -1,0 +1,34 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que, em sede de agravo interno, manteve a decisão monocrática agravada nos seguintes termos (fls. 120):
+    “AGRAVO. APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. SERVIDOR PÚBLICO. MUNICÍPIO DE PELOTAS. PLEITO DE PAGAMENTO DO PISO SALARIAL INSTITUÍDO PELA LEI FEDERAL Nº 11.738/08.
+    A parte, mas razões de agravo, não trouxe qualquer argumentação nova e capaz de mudar o entendimento acerca do caso em tela.
+    AGRAVO DESPROVIDO.”
+    A decisão monocrática, por sua vez, restou assim ementada (fls. 96-96v):
+    “APELAÇÃO CÍVEL. reexame necessário. SERVIDOR PÚBLICO. MUNICÍPIO DE PELOTAS. PLEITO DE pagamento do PISO SALARIAL instituído pela LEI federal Nº 11.738/08.
+    O piso salarial tem assento constitucional, em decorrência do próprio valor dado pela Carta Magna à educação, elevada à condição de direito social (art. 6º), cujo ensino deverá ser ministrado com base em princípios, destacando-se a valorização do profissional da educação escolar pública e a fixação do piso salarial (art. 206, inc. VIII).
+    A Lei Federal nº 11.738/2008 regulamentou o piso salarial nacional dos profissionais do magistério público da educação básica, referido pela alínea “e” do inciso III do caput do art. 60 do ADCT.
+    A questão da implantação do piso salarial foi levada à discussão no Supremo Tribunal Federal, por meio da ADI 4167, proposta por Governadores de alguns Estados Brasileiros. No julgamento da ação, o STF, em voto da relatoria do Ministro Joaquim Barbosa, declarou a constitucionalidade dos dispositivos atacados, em especial de que o piso é o vencimento, assim entendido como o valor básico pago ao professor, sem o acréscimo das demais vantagens do cargo. Além disso, o voto deixou claro que a fixação do piso salarial nacional não violou a reserva de lei de iniciativa do Chefe do Poder Executivo local (art. 61, § 1º, II, da CF) ou mesmo o pacto federativo (artigos 1º, caput, 25, caput e § 1º, e 60, § 4º, I).
+    Inexistência, igualmente, de afronta a leis orçamentárias e preceitos da Lei Complementar nº 101/2000.
+    Valor do vencimento básico que, para fins do piso, é o padrão inicial da carreira.
+    Manutenção da sentença de procedência da ação, pois demonstrado que o Município de Pelotas não efetuou o pagamento do vencimento da parte autora em conformidade com a Lei Federal nº 11.738/08, bem como que deve ser observada a carga horária do autor.
+    Parágrafo único do art. 24 da Lei Municipal nº  3.198/89, com a redação dada pela Lei Municipal nº 5.370/07, que prevê que os valores pagos a título de Incentivo integram o padrão básico praticado para o cálculo das demais vantagens, o que não significa o cumprimento do disposto na Lei nº 11.738/08, em especial porque o art. 32 da mesma lei dá conta de que o incentivo dos professores se dá de acordo com a sua titulação, independente da classe ou categoria funcional.
+    HONORÁRIOS ADVOCATÍCIOS.
+    O entendimento consolidado por esta Câmara é no sentido de que os honorários advocatícios devem ser fixados no percentual de 5% sobre o valor da condenação.
+    NEGADO SEGUIMENTO AO APELO e AO RECURSO ADESIVO (ART. 557, CAPUT, DO CPC).
+    SENTENÇA MANTIDA EM REEXAME NECESSÁRIO.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37, X, da Constituição Federal.
+    Nas razões recursais, afirma-se que as leis municipais que regulamentaram o piso do magistério não podem ser substituídas por decisão judicial “ainda mais quando em consonância com a Lei federal 11.738/2008, tendo atingido os valores atribuídos pelo reajuste do MEC (Ministério da Educação).” (fls. 132)
+    A 1ª Vice-Presidência do TJ/RS inadmitiu o recurso em virtude da inexistência de afronta ao regramento constitucional, bem como pela impossibilidade de revolvimento da matéria fático-probatória (Súmula 279 do Supremo).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Da análise atenta da decisão monocrática agravada (fls. 96-110) mantida pelo acórdão a quo, tem-se que a controvérsia foi dirimida com base nas Leis municipais 5.801/11, 5.985/13 e 6.136/14, restando assentado o descumprimento da Lei federal 11.738/08 quanto ao pagamento do vencimento da parte recorrida.
+    Assim, eventual divergência em relação ao entendimento adotado pelo Colegiado de origem demandaria o exame das provas dos autos e da legislação local de regência da matéria, o que inviabiliza o processamento do apelo extremo, nos termos das Súmulas 279 e 280 do STF.
+    Por fim, ressalto que esta Corte, ao julgar a ADI nº 4.167/DF, Relator o Min. Joaquim Barbosa, reconheceu a constitucionalidade da Lei 11.738/08, que instituiu o piso nacional dos professores da educação básica. O julgado restou assim ementado:
+    “CONSTITUCIONAL. FINANCEIRO. PACTO FEDERATIVO E REPARTIÇÃO DE COMPETÊNCIA. PISO NACIONAL PARA OS PROFESSORES DA EDUCAÇÃO BÁSICA. CONCEITO DE PISO: VENCIMENTO OU REMUNERAÇÃO GLOBAL. RISCOS FINANCEIRO E ORÇAMENTÁRIO. JORNADA DE TRABALHO: FIXAÇÃO DO TEMPO MÍNIMO PARA DEDICAÇÃO A ATIVIDADES EXTRACLASSE EM 1/3 DA JORNADA. ARTS. 2º, §§ 1º E 4º, 3º, CAPUT, II E III E 8º, TODOS DA LEI 11.738/2008. CONSTITUCIONALIDADE. PERDA PARCIAL DE OBJETO. 1. Perda parcial do objeto desta ação direta de inconstitucionalidade, na medida em que o cronograma de aplicação escalonada do piso de vencimento dos professores da educação básica se exauriu (arts. 3º e 8º da Lei 11.738/2008). 2. É constitucional a norma geral federal que fixou o piso salarial dos professores do ensino médio com base no vencimento, e não na remuneração global. Competência da União para dispor sobre normas gerais relativas ao piso de vencimento dos professores da educação básica, de modo a utilizá-lo como mecanismo de fomento ao sistema educacional e de valorização profissional, e não apenas como instrumento de proteção mínima ao trabalhador. 3. É constitucional a norma geral federal que reserva o percentual mínimo de 1/3 da carga horária dos docentes da educação básica para dedicação às atividades extraclasse. Ação direta de inconstitucionalidade julgada improcedente. Perda de objeto declarada em relação aos arts. 3º e 8º da Lei 11.738/2008” (ADI 4.167/DF, Rel. o Min. Joaquim Barbosa, Plenário, DJe 27/4/2011).
+    Opostos embargos de declaração, esta Corte ainda modulou os efeitos da decisão, para considerar que o novo piso instituído somente produziria efeitos a partir de 27/04/2011, data do julgamento definitivo no Plenário sobre a constitucionalidade da norma.
+    Assim, pode-se afirmar que dessa orientação, não divergiu o Tribunal de origem.
+    Ante o exposto, nego provimento ao agravo, nos termos dos artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 16 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
