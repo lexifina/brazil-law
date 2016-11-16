@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Vigésima Terceira Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Contrato bancário - Anulatória - Pretendida pela autora a declaração de nulidade dos contratos de empréstimo consignados em sua aposentadoria, bem como a condenação dos bancos réus ao pagamento de indenização por danos materiais e morais - Descabimento - Autora que, quando da propositura da ação, em 2.12.2010, apresentava vestígios de fragilidade em seu estado de saúde - Autora que foi interditada em 26.7.2011 - Fato que, por si só, não tinha o condão de tornar nulos os contratos de mútuo celebrados com os bancos réus.  Contrato bancário - Anulatória - Imprescindibilidade, para a anulação dos contratos, de demonstração inequívoca da incapacidade da autora à época de sua celebração - Necessidade de que sejam preservados a segurança dos negócios jurídicos e os terceiros de boa-fé - Inexistência de prova convincente de que a autora, quando da celebração dos contratos, não possuísse discernimento suficiente - Bancos réus que atuaram com boa-fé, não havendo sinais claros de que a autora fosse portadora de doença mental.
+    Contrato bancário - Anulatória - Inexistência, nos contratos de mútuo firmados pelas partes, de indícios dos abusos alegados pela autora - Contratos que contam com a assinatura da autora, mencionam o valor disponibilizado, a taxa de juros, o número e o valor das parcelas, o vencimento inicial e final de cada uma delas - Autora que, em momento algum, negou ter usufruído das importâncias objeto dos empréstimos - Improcedência da ação mantida - Apelo desprovido.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação do artigo 5º, inciso LIV, da Constituição Federal.
+    Opina o Ministério Público Federal, em parecer da lavra do ilustrado Subprocurador-Geral da República Dr. Paulo Gustavo Gonet Branco, pelo desprovimento do agravo.
+    Decido.
+    A irresignação não merece prosperar, haja vista que, conforme expresso na ementa do acórdão atacado, o Tribunal de origem formou seu convencimento a partir do conjunto fático-probatório dos autos, cujo reexame foge do campo do recurso extraordinário, a teor do que dispõe a Súmula nº 279 desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (AI nº 556.757/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 12/5/06).
+    “1. Recurso extraordinário: descabimento: controvérsia de natureza infraconstitucional (Código de Defesa do Consumidor), decidida com base em fatos e provas, de reexame vedado no recurso extraordinário: incidência, mutatis mutandis, das Súmula 636 e Súmula 279. 2. Alegações improcedentes de negativa de prestação jurisdicional ou de violação do art. 5º, XXXV e LV, da Constituição Federal” (AI nº 597.064/BA-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/10/06).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 16 de novembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
