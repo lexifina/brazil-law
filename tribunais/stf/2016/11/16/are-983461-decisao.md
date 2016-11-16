@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 5ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, que manteve a sentença que determinou a reabertura do procedimento para a formalização do contrato de financiamento estudantil objeto da presente demanda. Extrai-se da sentença o seguinte trecho (eDOC 28, p. 4):
+    “Com efeito, no caso dos autos, se tratava de fase pré-contratual, de juntada de documentos e saneamento de questões financeiras, porquanto segundo o autor e de acordo com a CEF, existiam débitos por ele titularizados, fato que impediu a imediata formalização do financiamento.
+    Ocorre, no entanto, que após a superação desse entrave, as informações repassadas pela própria instituição financeira apontam a ocorrência de falhas no sistema mantido pelo FNDE, os quais, se inocorrentes, teriam possibilitado ao autor o regular ingresso no programa de financiamento, porquanto os documentos haviam sido disponibilizados na rede bancária em momento adequado.
+    Desse modo, caberia ao FNDE diligenciar pela manutenção regular do período de inscrições ou pelo seu alargamento, caso presentes hipóteses de falhas no sistema de informática. Essa indisponibilidade via internet foi notícia inclusive amplamente divulgada e de conhecimento público pelas reportagens veiculadas na mídia.”
+    No recurso extraordinário, com fundamento do art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 37, caput; 165, § 4; e 167, II, da Constituição Federal.
+    Sustenta-se, em suma, que “constatou-se que não houve qualquer impedimento sistêmico para a inscrição do estudante, a não ser a perda do prazo pelo estudante para realização dos procedimentos inerentes a formalização da sua inscrição, muito embora o Autor alegue o óbice sistêmico para celebração do contrato. “ (eDOC 86, p. 5)
+    Além disso, a parte recorrente alega que o aditamento contratual do financiamento do beneficiário não está condicionado apenas ao cumprimento das obrigações legais e contratuais por parte do estudante, visto que também depende da disponibilidade financeira do FIES. Aduz que “a obediência estrita à disponibilidade orçamentária é condição sine qua non à própria manutenção do programa, inclusive com relação aos contratos já formalizados para os quais os estudantes tem garantido o custeio dos encargos educacionais por parte do FIES, observado o percentual contratado”
+    A Turma Recursal de origem inadmitiu o recurso por considerar que a alegada ofensa à Constituição, se existisse, seria indireta ou reflexa.
+    É o relatório. Decido.
+    Da leitura do acórdão recorrido e da sentença por ele mantida, depreende-se que, para divergir do entendimento da Turma Recursal de origem, seria necessário o reexame dos fatos e provas constantes dos autos, o que encontra óbice na Súmula 279 do STF.
+    Ademais, verifica-se que a questão referente à disponibilidade orçamentária não foi objeto de debate no acórdão recorrido. Incide, portanto, ao caso, as Súmulas 282 e 356 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, 1º, do RISTF.
+    Publique-se.
+    Brasília, 16 de novembro de 2016.
+Ministro Edson Fachin
+Relator
