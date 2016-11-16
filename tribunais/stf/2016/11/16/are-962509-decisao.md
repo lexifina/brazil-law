@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (fls. 427-428):
+    “CONSTITUCIONAL. ANISTIA. MILITAR. PRAÇA. SUBOFICIAL. MOTIVAÇÃO POLÍTICA. ARTIGO 8º DO ADCT. ANTIGUIDADE E MERECIMENTO. LEI 10.559/02. PROMOÇÃO A TENENTE-CORONEL. IMPOSSIBILIDADE.
+    - O anistiado político faz jus, de forma abrangente, a promoções que lhe seriam concedidas caso estivesse em efetivo serviço, nos termos do art. 8º do ADCT da CF/88 e da Lei 10.559/02.
+    - Diante das inovações contidas na Lei 10.559/02, que ampliou os pressupostos fáticos determinantes da anistia, no sentido de impedir que se exija do anistiado o cumprimento de condições que, em face mesmo das circunstâncias que deram ensejo à anistia, inviabilizariam o exercício dos direitos dela decorrentes, deve-se reconhecer ao anistiado direito a promoções de forma ampla, decorrentes de antiguidade ou merecimento, observado o decurso do tempo de permanência em atividade fixado em leis e regulamentos então vigentes na ocasião em que deveria ter sido promovido, inclusive o limite de idade para ingresso no posto pleiteado.
+    - Ainda assim, não se pode acolher o pedido do autor de reconhecimento do direito à promoção almejada, de Tenente-Coronel, eis que o art. 6º, caput, da Lei 10.559/2002, ao assegurar ao anistiado a possibilidade de promoção ao Oficialato, determinou fossem respeitadas as características e peculiaridades dos respectivos regimes jurídicos.
+    - O autor pertencia a Quadro cuja carreira se encerra na graduação de Suboficial, carreira diversa da de Oficiais, e se o militar já foi promovido a Suboficial, não se pode promovê-lo ao posto de Tenente-Coronel com inobservância aos parâmetros fixados na legislação de regência, o que implicaria desrespeito às características e peculiaridades do regime jurídico militar.
+    - Se concedida ao autor a promoção pleiteada, de Tenente-Coronel, ele alcançaria, além de todas as promoções possíveis dentro de seu Quadro, também as previstas para o Quadro de Oficiais.
+    - O ingresso no Quadro de Oficiais depende do preenchimento de vários requisitos, como conclusão de cursos e aprovação em concursos. Ainda que ultrapassadas as exigências relativas aos cursos, concursos, e outros requisitos inerentes às promoções por merecimento, a promoção pretendida não poderia ultrapassar as fronteiras do Quadro a que pertencia o autor.
+    - O autor, Suboficial, não tem direito à promoção perseguida, ainda que computadas fossem as promoções por merecimento, porquanto encontram-se estas limitadas ao Quadro que ele integrava, não havendo como se admitir transposição.”
+    Verifica-se que o Supremo Tribunal Federal, no julgamento do ARE-RG 799.908, Rel. Ministro Gilmar Mendes, DJe 04.06.2014 (Tema 724), reconheceu a existência de repercussão geral da controvérsia constitucional referente à possibilidade de militar anistiado, nos termos do art. 8º do ADCT e da Lei 10.559/2002, ser promovido ao oficialato e reafirmou a jurisprudência pertinente ao tema. Na oportunidade, a tese restou assim redigida:
+    “As promoções dos anistiados se restringem ao quadro a que pertencia o militar na ativa.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 16 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
