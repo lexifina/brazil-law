@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “MILITAR. CONCURSO. OBESIDADE EM GRAU I. ÍNDICE DE MASSA CORPORAL. EXCLUSÃO ILEGAL DO CERTAME. AUSÊNCIA DE PREVISÃO LEGAL. DANO MORAL NÃO CONFIGURADO.
+    1) Não existe a fixação do índice de Massa Corpórea – IMC como fator à aptidão ou não para ingresso na carreira militar, não podendo o Edital do concurso estabelecer requisito que só poderia ser exigido por força de imposição legal.
+    2) A mera frustração de uma expectativa não tem o condão de gerar dano moral algum. Entendimento contrário conduziria, no limite, ao entendimento absurdo de que o dano moral é desdobramento necessário de todo e qualquer ato ilícito.” (eDOC 3, p. 58)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, caput, LIV, LV, § 2º, 37, II, 93, IX e 142, § 3º do texto constitucional. (eDOC 3, p. 92)
+    Nas razões recursais, alega-se que que a Administração ao elaborar o edital referido, observou os princípios constitucionais administrativos a que está sujeita,bem como observância aos artigos 10 e 11 da Lei 6.880/1980.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 6.880/2008) e o conjunto probatório constante dos autos, consignou que descabe a fixação de índice de massa corporal no edital em tela, visto inexistir previsão legal para tanto. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “De outro vértice, sobreleva notar que, conquanto a Lei nº 6.880/80, que dispõe sobre o Estatuto dos Militares, quando trata do ingresso nas Forças Armadas, não tenha fixado índices mínimos e máximos de massa corporal - IMC para ingresso na carreira, o Edital que disciplina o processo seletivo em tela prevê (EDITAL5, Evento 01):
+    Nessa linha de raciocínio, constata-se que a Portaria DIRSA n.º 19/SECSDTEC, de 26/03/2014, ao aprovar a reedição da ICA 160-6/2014,'Instruções Técnicas das Inspeções de saúde na Aeronáutica' desbordou dos limites legais ao instituir a aludida exigência.
+    A propósito, o posicionamento adotado pela Corte Regional em diversas oportunidades:
+    ADMINISTRATIVO. CONCURSO PÚBLICO. MILITAR. FAB. INAPTIDÃO FÍSICA. DESCLASSIFICAÇÃO. OBESIDADE. AUSÊNCIA DE PREVISÃO LEGAL. 1. A Constituição determina que a lei disporá sobre o ingresso nas Forças Armadas, ou seja, foi adotado o princípio da reserva legal, que exige o tratamento da matéria exclusivamente pelo Legislativo, sem a participação normativa do Executivo. 2. A Lei nº 6.880/80 (Estatuto dos Militares), de forma alguma estabelece especificamente os requisitos para exames de saúde em concursos às fileiras militares. 3. Portanto, evidente que não existe a fixação do Índice de Massa Corpórea - IMC como fator à aptidão ou não para ingresso na carreira militar, sendo defeso fazê-lo através de Edital de Concurso, à míngua de Lei que o autorize. (TRF4, AC 5005672- 70.2011.404.7112, Terceira Turma, Relatora p/ Acórdão Marga Inge Barth Tessler, juntado aos autos em 07/08/2014)“ (eDOC 3, p. 52 -53)
+    Assim, verifica-se que a orientação adotada pelo Tribunal de origem está em sintonia com a jurisprudência desta Corte, firme no sentido de que os requisitos para ingresso em cargo público devem estar previstos em lei, sendo insuficiente a previsão no edital do certame.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL MILITAR. ALTURA MÍNIMA. PREVISÃO LEGAL. INEXISTÊNCIA. 1. Somente lei formal pode impor condições para o preenchimento de cargos, empregos ou funções públicas. Precedentes. 2. Agravo regimental a que se nega provimento” (AI-AgR 627.586, Segunda Turma, Rel. Min. Eros Grau, DJe de 19.12.2007).
+     “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – CONCURSO PÚBLICO – GUARDA MUNICIPAL – ALTURA MÍNIMA – EXIGÊNCIA PREVISTA APENAS NO EDITAL – AUSÊNCIA DE PREVISÃO EM LEI FORMAL – OFENSA AOS PRINCÍPIOS CONSTITUCIONAIS DA LEGALIDADE E DA RAZOABILIDADE – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – RECURSO DE AGRAVO IMPROVIDO” (ARE-AgR 715.061, Segunda Turma, Rel. Min. Celso de Mello, DJe de 19.6.2013).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de novembro de 2016.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
