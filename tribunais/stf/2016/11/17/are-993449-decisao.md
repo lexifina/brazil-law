@@ -1,0 +1,12 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “ROUBOS MAJORADOS PELO CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO, E RECEPTAÇÃO – RECURSO DEFENSIVO – PRETENDIDA A ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA – DESCABIMENTO – MATERIALIDADE E AUTORIA DELITIVA DEMONSTRADAS – RECURSO NÃO PROVIDO. RECURSO MINISTERIAL PEDIDO DE CONDENAÇÃO DO RÉU PELA PRÁTICA DOS DELITOS IMPUTADOS PROCEDÊNCIA PARCIAL – MATERIALIDADE E AUTORIA DELITIVAS ATESTADAS – CONJUNTO PROBATÓRIO UNÍSSONO EM DEMONSTRAR QUE O APELANTE TINHA CONHECIMENTO DA ORIGEM ILÍCITA DA ARMA DE FOGO QUE ESTAVA PORTANDO NO MOMENTO DA PRÁTICA DO CRIME – CRIMES COMETIDOS EM CONCURSO FORMAL – ROUBOS PRATICADOS CONTRA VÍTIMAS DIFERENTES EM UM MESMO CONTEXTO FÁTICO IMPOSIÇÃO DE REGIME INICIAL FECHADO ADEQUADO À PREVENÇÃO E REPROVAÇÃO – RECURSO PARCIALMENTE PROVIDO.” (Apelação Criminal nº 0055881-62.2010.8.26.0405, Rel. Des. AMARO THOMÉ)
+    O agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 5º, LVII, da Constituição da República.
+    Sob tal perspectiva, revela-se absolutamente inviável o recurso extraordinário em questão.
+    Cabe registrar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame de fatos e de provas, o que não se admite na sede excepcional do apelo extremo.
+    Essa pretensão sofre as restrições inerentes ao recurso extraordinário, em cujo âmbito não se reexaminam fatos e provas, circunstância essa que faz incidir, na espécie, a Súmula 279 do Supremo Tribunal Federal.
+    Não custa enfatizar, consoante adverte o magistério da doutrina (ADA PELLEGRINI GRINOVER, ANTONIO MAGALHÃES GOMES FILHO e ANTONIO SCARANCE FERNANDES, “Recursos no Processo Penal”, p. 269/270, item n. 176, 1996, RT), que o reexame dos fatos e das provas constitui tema estranho ao âmbito de atuação do recurso extraordinário (Súmula 279/STF), ainda que se cuide, como no caso, de matéria de índole penal.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 17 de novembro de 2016.
+Ministro CELSO DE MELLO
+Relator
