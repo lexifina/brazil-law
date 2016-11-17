@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado da Paraíba, ementado nos seguintes termos:
+    “AGRAVO INTERNO. AÇÃO DE COBRANÇA. AGENTE COMUNITÁRIO DE SAÚDE. ADICIONAL DE INSALUBRIDADE. NECESSIDADE DE LEI MUNICIPAL ESPECÍFICA REGULAMENTANDO O ASSUNTO. COMPETÊNCIA DO RESPECTIVO ENTE FEDERATIVO. ENTENDIMENTO SEDIMENTADO NO ÂMBITO DESTA CORTE DE JUSTIÇA. RAZÕES RECURSAIS. NÃO DEMONSTRAÇÃO DO DESACERTO DO DECISUM DESPROVIMENTO.” (eDOC 2, p. 8)
+    No recurso extraordinário (eDOC 2, p. 82 - 88), interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 7º, XXIII; e ao art. 37, caput, do texto constitucional.
+    Nas razões recursais, alega-se que a norma constitucional que garante o adicional de insalubridade é de eficácia plena, dispensando, portanto, regulamentação pela legislação infraconstitucional.
+    Decido.
+    O recurso não merece prosperar.
+    A pretensão da parte recorrente, no sentido de que o adicional de insalubridade dispensaria regulamentação pelas normas estatutárias, diverge da jurisprudência do Supremo Tribunal Federal, que entende ser necessária edição de lei pelo respectivo ente federado para conferir eficácia plena ao referido dispositivo constitucional. Nesse sentido:
+    “Servidor público. Adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei. Art. 7º, XXIII, da Constituição Federal. - O artigo 39, § 2º, da Constituição Federal apenas estendeu aos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios alguns dos direitos sociais por meio de remissão, para não ser necessária a repetição de seus enunciados, mas com isso não quis significar que, quando algum deles dependesse de legislação infraconstitucional para ter eficácia, essa seria, no âmbito federal, estadual ou municipal, a trabalhista. Com efeito, por força da Carta Magna Federal, esses direitos sociais integrarão necessariamente o regime jurídico dos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios, mas, quando dependem de lei que os regulamente para dar eficácia plena aos dispositivos constitucionais de que eles decorrem, essa legislação infraconstitucional terá de ser, conforme o âmbito a que pertence o servidor público, da competência dos mencionados entes públicos que constituem a federação. Recurso extraordinário conhecido, mas não provido.” (RE 169.173, Rel. Min. Moreira Alves, Primeira Turma, DJe 16.5.1997)
+    Nessa mesma linha, cito os seguintes julgados: RE 637.282, Rel. Min. Dias Toffoli, DJe 31.8.2012; RE 477.520, Rel. Min. Celso de Mello, DJe 15/6/2010; e ARE 827.297, Rel. Min. Luiz Fux, DJe 14.10.2015.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de novembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
