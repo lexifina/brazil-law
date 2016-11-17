@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. INFRAÇÃO ADMINISTRATIVA DE NATUREZA GRAVE. EXPEDIÇÃO DE CARTEIRA NACIONAL DE HABILITAÇÃO (CNH) DEFINITIVA. RECURSO CONTRA ACÓRDÃO DO STJ. CONTROVÉRSIA CONSTITUCIONAL SURGIDA NA INSTÂNCIA ORDINÁRIA. INADMISSIBILIDADE DO RE. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios objetivando a reforma da decisão que inadmitiu recurso extraordinário manejado com arrimo nas alíneas a e b do permissivo Constitucional, contra acórdão assim ementado:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXPEDIÇÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO DEFINITIVA. INFRAÇÕES DE NATUREZA ADMINISTRATIVA. POSSIBILIDADE. REPETITIVO. NÃO ENSEJA O SOBRESTAMENTO DO FEITO QUE TRAMITA NESTA CORTE. DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ART. 148, § 3º, do CTB. INEXISTÊNCIA.
+    1. De acordo com a jurisprudência desta Corte, a falta de registro de veículo no prazo legal, embora configure infração de natureza grave prevista no art. 233 do CTB, não é motivo suficiente para impedir a expedição da Carteira Nacional de Habilitação ao condutor que detém permissão para dirigir, porquanto não constitui direta violação dos objetivos básicos do Sistema Nacional de Trânsito, quais sejam, a segurança e educação para o trânsito, nos termos do inciso I do art. 6º do CTB.
+    2. A existência de matéria submetida ao rito dos recursos repetitivos não enseja o sobrestamento do julgamento dos recursos especiais que tramitam neste Superior Tribunal de Justiça.
+    3. A decisão impugnada, ao contrário do que alega a agravante, não declarou a inconstitucionalidade do art. 148, § 3º, do CTB, tendo tão somente indicado a adequada exegese do referido dispositivo legal.
+    4. Agravo regimental a que se nega provimento.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 97 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo derradeiro por entender que o acórdão recorrido não declarou a inconstitucionalidade de lei federal.
+    É o breve relatório. DECIDO.
+    Não merece prosperar o recurso.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Esta Corte já firmou entendimento no sentido de que só cabe recurso extraordinário contra acórdão do Superior Tribunal de Justiça, proferido no julgamento do recurso especial, quando a questão constitucional objeto da controvérsia for diversa da decidida pela instância ordinária. Assim, o apelo extremo só será cabível quando a suposta violação constitucional tiver sido, originariamente, apreciada pela Corte Especial. Nesse sentido, menciono as seguintes decisões, entre outras: RE 750.300-ED, Rel. Min. Celso de Mello, DJe de 6/9/2013, ARE 644.906-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 12/4/2012, que possui a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE ACÓRDÃO DO STJ. INVIABILIDADE. AUSÊNCIA DE QUESTÃO DIVERSA DA DECIDIDA PELA INSTÂNCIA ORDINÁRIA. AGRAVO IMPROVIDO. I – Somente se admite recurso extraordinário de decisão do Superior Tribunal de Justiça se a questão constitucional impugnada for nova. Assim, a matéria constitucional impugnável via RE deve ter surgido, originariamente, no julgamento do recurso especial. II – Agravo regimental improvido.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 17 de novembro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
