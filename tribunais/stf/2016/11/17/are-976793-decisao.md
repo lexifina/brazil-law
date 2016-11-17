@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AUTO DE INFRAÇÃO DE TRÂNSITO. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA NO PROCEDIMENTO ADMINISTRATIVO. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “ADMINISTRATIVO – AÇÃO ANULATÓRIA – TRÂNSITO – MULTA POR INFRAÇÃO – Condutor de veículo autuado por avançar o sinal vermelho – Alegação de nulidade por erro constante na notificação de autuação do prazo defesa prévia – Eiva que se reputa mera irregularidade – Ampla defesa e contraditório conservados – Sentença de improcedência mantida – Recurso improvido.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, LV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que se trataria, na espécie, de matéria infraconstitucional e que encontra óbice na Súmula 282 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição Federal).
+    Os princípios da ampla defesa e do contraditório nos procedimentos administrativos, quando aferidos pelas instâncias ordinárias, não podem ser revistos por esta Corte em razão do óbice da Sumula 279 do STF. Nesse sentido, ARE 751.360-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 12/9/2013, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO ADMINISTRATIVO DISCIPLINAR. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I – Para dissentir da conclusão adotada pelo acórdão recorrido quanto à ausência de violação à ampla defesa e ao contraditório no processo administrativo disciplinar ao qual foi submetido o ora agravado, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II – Agravo regimental improvido.”
+    Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se a fundamentação vinculada de discussão eminentemente de direito e, portanto, não servil ao exame de questões que demandam o revolvimento do arcabouço fático-probatório dos autos, face ao óbice erigido pela Súmula 279 do STF de seguinte teor, verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 17 de novembro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
