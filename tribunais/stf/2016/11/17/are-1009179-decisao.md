@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Distrito Federal e dos Territórios reformou o entendimento do Juízo quanto ao pedido dos militares às diferenças salariais decorrentes do reajuste de 28,86%, consignando a ocorrência da prescrição do fundo do direito. No extraordinário cujo processamento buscam alcançar, os recorrentes apontam violados os artigos 5º, incisos XXXV, XXXVI, LI, e LV, e 37, inciso X, da Constituição Federal. Tecem considerações sobre o decidido no recurso extraordinário 584.313, insistindo no direito ao benefício pleiteado.
+    2. Colho de decisão recorrida o seguinte trecho:
+    O Supremo Tribunal Federal entendeu que a MP 2131/2000, atual Medida Provisória nº 2.215, de 15/09/2001, ao reestruturar a remuneração dos militares, com a absorção das diferenças de reajustes eventualmente existente, deve servir de limite temporal para a concessão do reajuste previsto nas Leis 8.662/93 e 8.627/93.
+    Ademais, a Medida Provisória 2.218, de 1º de outubro de 2001, convertida na Lei 10.486/02, reestruturou a carreira militar do Distrito Federal e fixou nova tabela salarial, recompondo eventuais perdas e afastando o direito de incorporar o percentual pleiteado após 15 de setembro de 2001.
+    Dessa forma, embora se reconheça o fundo do direito dos apelantes/autores em incorporar o percentual de 28,86% às parcelas remuneratórias por eles percebidas anteriormente a 15 de setembro de 2001, essas foram fulminadas pela prescrição quinquenal, pois, resta impedida a discussão quanto às parcelas anteriores a 03/08/2005, uma vez que a presente ação somente fora ajuizada em 3/8/2010 (fl. 2).
+    [...]
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal.
+    No mais, o Supremo, no agravo de instrumento nº 843.753/AL, relatado pelo ministro Cezar Peluso, assentando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema relativo à compensação do reajuste de 28,86% com as reposições salariais posteriores, pois a controvérsia, na origem, foi dirimida com base em legislação infraconstitucional.
+    Por fim, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão recorrida é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 1.000,00 (mil reais), fixo os honorários recursais no patamar de R$ 500,00 (quinhentos reais), nos termos do artigo 85, § 11, do citado diploma legal.
+    4. Publiquem.
+Brasília, 17 de novembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
