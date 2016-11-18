@@ -10,7 +10,7 @@ VII - aforamento, remição de foro, permuta, cessão, concessão de direito rea
 § 2º Na hipótese de dissolução, caberá ao Ministro de Estado do Planejamento, Orçamento e Gestão acompanhar e tomar as medidas cabíveis à efetivação da liquidação da empresa.
 § 3º Nas desestatizações executadas mediante as modalidades operacionais previstas nos incisos I, IV, V, VI e VII deste artigo, a licitação poderá ser realizada na modalidade de leilão.
 § 4º O edital de licitação poderá prever a inversão da ordem das fases de habilitação e julgamento, hipótese em que:
-I - encerrada a fase de classificação das propostas ou o oferecimento de lances, será aberto o invólucro com os documentos de habilitação do licitante mais bem classificado, para verificação do atendimento das condições fixadas no edital;
+I - encerrada a fase de classificação das propostas ou de oferecimento de lances, será aberto o invólucro com os documentos de habilitação do licitante mais bem classificado, para verificação do atendimento das condições fixadas no edital;
 II - verificado o atendimento das exigências do edital, o licitante será declarado vencedor;
-III - inabilitado o licitante melhor classificado, serão analisados os documentos de habilitação do licitante com a proposta classificada em segundo lugar, e assim sucessivamente, até que um licitante classificado atenda às condições fixadas no edital; e
+III - inabilitado o licitante mais bem classificado, serão analisados os documentos de habilitação do licitante com a proposta classificada em segundo lugar, e assim sucessivamente, até que um licitante classificado atenda às condições fixadas no edital;
 IV - proclamado o resultado do certame, o objeto será adjudicado ao vencedor nas condições técnicas e econômicas por ele ofertadas.
