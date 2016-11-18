@@ -1,0 +1,4 @@
+LEI Nº 13.169, DE 6 DE OUTUBRO DE 2015
+Altera a Lei nº 7.689, de 15 de dezembro de 1988, para elevar a alíquota da Contribuição Social sobre o Lucro Líquido - CSLL em relação às pessoas jurídicas de seguros privados e de capitalização, e às referidas nos incisos I a VII, IX e X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001; altera as Leis nºs 9.808, de 20 de julho de 1999, 8.402, de 8 de janeiro de 1992, 10.637, de 30 de dezembro de 2002, 10.833, de 29 de dezembro de 2003, 11.033, de 21 de dezembro de 2004, 12.715, de 17 de setembro de 2012, 9.249, de 26 de dezembro de 1995, 11.484, de 31 de maio de 2007, 12.973, de 13 de maio de 2014, 10.150, de 21 de dezembro de 2000, e 10.865, de 30 de abril de 2004; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
