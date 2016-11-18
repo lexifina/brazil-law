@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado (eDOC-3, p. 115):
+    DIREITO AMINISTRTATIVO E CONSTITUCIONAL. AÇÃO DE NUNCIAÇÃO DE OBRA NOVA. ESPAÇOS INTERSTICIAIS ("BECOS"). CONCLUSÃO DA OBRA. CURSO DA DEMANDA. PERDA DO OBJETO. REJEIÇÃO. SERVIDÃO ADMINISTRATIVA. PREJUÍZO. EXISTÊNCIA. OCUPAÇÃO INVIÁVEL. NORMAS REGULAMENTADORAS DECLARADAS INCONSTITUCIONAIS. SENTENÇA PRESTIGIADA. 1. O término da construção no curso da ação de nunciação de obra nova não acarreta a perda superveniente do objeto, uma vez que tal fato não esvazia o mérito da demanda, persistindo o interesse do autor na obtenção de provimento judicial que lhe assegure a reconstituição, modificação ou demolição do que estiver em desacordo. 2. Tendo em vista o reconhecimento da inconstitucionalidade da Lei Complementar nº 780/2008 e do inciso V do artigo 105 da Lei Complementar nº 728/2006, na via do controle concentrado, com eficácia erga omnes e efeitos ex tunc, resulta sem amparo legal a construção empreendida em espaço intersticial por policial militar do Distrito Federal. 3. Recurso conhecido e desprovido. Sentença prestigiada.
+    No recurso extraordinário, com fundamento no permissivo constitucional do artigo 102, III, a, alega-se violação do artigo 97, da Constituição da República, e da Súmula Vinculante 10, do STF. Sustenta-se, em suma, que o acórdão recorrido desrespeitou os efeitos da declaração de inconstitucionalidade da Lei Complementar 857/2012, do Distrito Federal, proferida pela Corte Especial do TJDFT.
+    É o relatório. Decido.
+    A pretensão recursal não merece prosperar.
+    Embora haja estribo argumentativo na possível violação do princípio constitucional da reserva de plenário (art. 97, CF), é certo que a discussão sobre a legalidade, ou não, da construção residencial em espaço intersticial urbano nas condições e localidade deste caso demandaria revolvimento dos dados fáticos constantes nos autos, a exigir nova apreciação de matéria de índole probatória, inviável na instância extraordinária.
+    Mesmo que assim não fosse, a discussão sobre qual o ambiente normativo para a discussão dos autos – se o da Lei Complementar 857/2012 ou das Leis Complementares 728/2006 e 780/2008, ambas do Distrito Federal, resolve-se no plano da interpretação infraconstitucional, incabível em sede de recurso extraordinário.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 18 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
