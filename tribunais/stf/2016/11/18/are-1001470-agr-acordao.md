@@ -1,0 +1,531 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 12
+
+18/11/2016
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.001.470
+GOIÁS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. LUIZ FUX
+: ALEXANDRE DA COSTA SOUZA
+: ADEMIR ISMERIM MEDINA
+: LILIAN MARIA SANTIAGO REIS
+: MINISTÉRIO PÚBLICO ELEITORAL
+: PROCURADOR-GERAL DA REPÚBLICA
+
+EMENTA:
+AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. ELEITORAL. PRESTAÇÃO DE
+CONTAS DE CAMPANHA. DESAPROVAÇÃO. DETERMINAÇÃO
+DE TRANSFERÊNCIA DOS RECURSOS DE ORIGEM NÃO
+IDENTIFICADA AO TESOURO NACIONAL. ARTIGO 29 DA
+RESOLUÇÃO TSE 23.406/2014. ALEGADA EXORBITÂNCIA DO
+PODER REGULAMENTAR DA JUSTIÇA ELEITORAL, EM FACE DA
+LEI 9.504/1997 E DO CÓDIGO ELEITORAL. SUPOSTA ALTERAÇÃO
+DO PROCESSO ELEITORAL, EM OFENSA AO PRINCÍPIO DA
+ANTERIORIDADE ELEITORAL. INTERPRETAÇÃO DE NORMAS
+INFRACONSTITUCIONAIS.
+IMPOSSIBILIDADE
+EM
+SEDE
+EXTRAORDINÁRIA. PRINCÍPIO DA RAZOABILIDADE. AUSÊNCIA
+DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E
+356 DO STF. AGRAVO INTERNO DESPROVIDO.
+ACÓRDÃO
+A Primeira Turma do Supremo Tribunal Federal, na conformidade
+da ata de julgamento virtual de 11 a 17/11/2016, por unanimidade, negou
+provimento ao agravo, nos termos do voto do Relator.
+Brasília, 18 de novembro de 2016.
+LUIZ FUX – RELATOR
+Documento assinado digitalmente
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12097000.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 12
+
+18/11/2016
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.001.470
+GOIÁS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. LUIZ FUX
+: ALEXANDRE DA COSTA SOUZA
+: ADEMIR ISMERIM MEDINA
+: LILIAN MARIA SANTIAGO REIS
+: MINISTÉRIO PÚBLICO ELEITORAL
+: PROCURADOR-GERAL DA REPÚBLICA
+
+RELATÓRIO
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Trata-se de agravo
+interno interposto por ALEXANDRE DA COSTA SOUZA, contra decisão de
+minha relatoria, cuja ementa transcrevo:
+“RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+ELEITORAL. PRESTAÇÃO DE CONTAS DE CAMPANHA.
+DESAPROVAÇÃO. DETERMINAÇÃO DE TRANSFERÊNCIA
+DOS RECURSOS DE ORIGEM NÃO IDENTIFICADA AO
+TESOURO NACIONAL. ARTIGO 29 DA RESOLUÇÃO TSE
+23.406/2014. ALEGADA EXORBITÂNCIA DO PODER
+REGULAMENTAR DA JUSTIÇA ELEITORAL, EM FACE DA LEI
+9.504/1997 E DO CÓDIGO ELEITORAL. SUPOSTA
+ALTERAÇÃO DO PROCESSO ELEITORAL, EM OFENSA AO
+PRINCÍPIO
+DA
+ANTERIORIDADE
+ELEITORAL.
+INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS.
+IMPOSSIBILIDADE
+EM
+SEDE
+EXTRAORDINÁRIA.
+PRINCÍPIO
+DA
+RAZOABILIDADE.
+AUSÊNCIA
+DE
+PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E
+356 DO STF. AGRAVO DESPROVIDO.”
+
+Nas razões do agravo, sustentou a invalidade do artigo 29 da
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12097001.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 12
+
+ARE 1001470 AGR / GO
+Resolução TSE 23.406/2014, em face dos princípios da legalidade, da
+anualidade e da razoabilidade.
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12097001.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 4 de 12
+
+18/11/2016
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.001.470
+GOIÁS
+VOTO
+O SENHOR MINISTRO LUIZ FUX (RELATOR): A presente irresignação
+não merece prosperar.
+Em que pesem os argumentos expendidos no agravo, resta
+evidenciado das razões recursais que a parte agravante não trouxe
+nenhum argumento capaz de infirmar a decisão hostilizada.
+Com efeito, a alegada ofensa ao princípio da razoabilidade não foi
+debatida no acórdão recorrido e também não foi suscitada em embargos
+de declaração, a fim de sanar eventual omissão. Falta, portanto, o
+necessário prequestionamento da matéria, o que inviabiliza seu exame na
+via estreita do recurso extraordinário, em razão do disposto nas Súmulas
+282 e 356 do STF, verbis: “É inadmissível o recurso extraordinário, quando não
+ventilada, na decisão recorrida, a questão federal suscitada” e “O ponto omisso
+da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser
+objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+A respeito da aplicação das aludidas súmulas, assim discorre
+Roberto Rosas:
+“A Constituição de 1891, no art. 59, III, a, dizia: 'quando se
+questionar sobre a validade de leis ou aplicação de tratados e leis
+federais, e a decisão for contra ela'.
+De forma idêntica dispôs a Constituição de 1934, no art. 76, III,
+a: ‘quando a decisão for contra literal disposição de tratado ou lei
+federal, sobre cuja aplicação se haja questionado’.
+Essas Constituições eram mais explícitas a respeito do âmbito do
+recurso extraordinário. Limita-se este às questões apreciadas na
+decisão recorrida. Se foi omissa em relação a determinado ponto, a
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12097002.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 5 de 12
+
+ARE 1001470 AGR / GO
+parte deve opor embargos declaratórios. Caso não o faça, não poderá
+invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v.
+Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto,
+Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos
+Mário Velloso, Temas de Direito Público, p. 236)
+(...)
+Os embargos declaratórios visam a pedir ao juiz ou juízes
+prolatores da decisão que espanquem dúvidas, supram omissões ou
+eliminem contradições. Se esse possível ponto omisso não foi aventado,
+nada há que se alegar posteriormente no recurso extraordinário. Falta
+o prequestionamento da matéria.
+A parte não considerou a existência de omissão, por isso não
+opôs os embargos declaratórios no devido tempo, por não existir
+matéria a discutir no recurso extraordinário sobre essa questão (RE
+77.128, RTJ 79/162; v. Súmula 282).
+O STF interpretou o teor da Súmula no sentido da
+desnecessidade de nova provocação, se a parte opôs os embargos, e o
+tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v.
+Súmula 211 do STJ).” (Direito Sumular. São Paulo: Malheiros,
+2012, 14ª Edição, p. 139-140 e 175-176).
+
+Nesse sentido, ARE 738.029-AgR, Rel. Min. Rosa Weber, Primeira
+Turma, DJe de 25/6/2013, e ARE 737.360-AgR, Rel. Min. Ricardo
+Lewandowski, Segunda Turma, DJe de 24/6/2013, esse último assim
+ementado:
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL.
+AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E
+356 DO STF. AGRAVO IMPROVIDO.
+I - É inadmissível o recurso extraordinário se a questão
+constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+Ademais, não opostos embargos declaratórios para suprir a omissão, é
+inviável o recurso, nos termos da Súmula 356 do STF.
+II - Agravo regimental improvido.”
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12097002.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 6 de 12
+
+ARE 1001470 AGR / GO
+
+Outrossim, no julgamento dos embargos de declaração, o Tribunal a
+quo assentou:
+“Na sessão de julgamento de 3.3.2016, esta Corte, por
+unanimidade, negou provimento ao agravo regimental interposto por
+ALEXANDRE DA COSTA SOUZA, mantendo a decisão que deu
+provimento ao recurso especial interposto pelo MPE e reformando o
+acórdão regional para, tendo em vista a desaprovação das contas do
+embargante, determinar o recolhimento ao Tesouro Nacional do valor
+de origem não identificada, nos termos do art. 29 da Res.-TSE nº
+23.406/2014.
+Da leitura atenta de cada um dos argumentos dos embargos,
+constato que as supostas obscuridades não restaram configuradas,
+ficando evidente, nas razões dos declaratórios, que o que se busca é o
+rejulgamento da causa para afastar a determinada devolução de valor
+ao Tesouro Nacional.
+Analiso, primeiramente, a alegação de que o acórdão teria sido
+obscuro ao concluir pela ausência de identificação de doadores de
+campanha, visto que, no caso, o doador de recursos seria identificável o partido político ao qual é filiado -, acrescentando o embargante que
+não consta das resoluções pretéritas deste Tribunal a obrigatoriedade
+de que, ‘ao receber doação de seu próprio partido, o candidato deva
+lançar no recibo eleitoral o ‘doador originário’, sendo que, se não o
+fizer, tal recurso será considerado 'de origem não identificada’ (fl.
+403).
+O embargante faz menção ao que determinado no § 3° do art. 26
+da Res.-TSE nº 23.406/2014, que trata de doações entre partidos
+políticos, comitês financeiros e candidatos. Verifica-se, no entanto, que
+tal questão foi tratada com a clareza necessária no acórdão embargado,
+tendo sido assentado que a referência ao supracitado artigo carece de
+prequestionamento, como se depreende do seguinte excerto do voto,
+que aqui destaco (fl. 386):
+‘Observo, inicialmente, que a alegação de que a situação
+versada nos autos estaria tratando sobre as disposições
+constantes do art. 26 Res.-TSE nº 23.406/2014 não pode ser
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12097002.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 7 de 12
+
+ARE 1001470 AGR / GO
+aqui analisada, tendo em vista não ter sido objeto de deliberação
+específica e decisão no Tribunal de origem.
+Isso porque a tese debatida pela Corte a quo refere-se à
+pretensa ilegalidade (ou ‘exorbitância do poder regulamentar’ fl. 259) da determinação de transferência dos recursos de origem
+não identificada ao Tesouro Nacional, prevista no art. 29 da
+Res.-TSE nº 23.406/2014, e contra esta tese é que foi interposto
+o recurso especial pelo MINISTÉRIO PÚBLICO ELEITORAL,
+ao qual foi dado provimento, monocraticamente, às fls. 350-356.
+Portanto, a alegação do agravante relacionada à pretensa
+afronta ao § 3° do art. 26 daquela resolução não pode ser
+conhecida, ante a ausência do necessário prequestionamento, a
+teor das Súmulas 282 do Supremo Tribunal Federal e 211 do
+Superior Tribunal de Justiça.’
+Ou seja, o acórdão regional não trata da questão relacionada à
+origem dos recursos (se provenientes do partido político ou não), e sim
+da suposta ilegalidade do disposto no art. 29 da Res.-TSE n°
+23.406/2014, especificamente no que concerne à obrigação de
+transferência dos recursos de origem não identificada aos cofres
+públicos, porque, no entender da Corte a quo, tal determinação tratarse-ia de sanção pecuniária imposta aos candidatos, sem fundamento
+legal.
+Assim, em razão da ausência de prequestionamento, a alegação
+de afronta ao art. 26 da mencionada Resolução não foi analisada.
+Somente a título de obiter dictum esclareci, na ocasião do
+julgamento do agravo regimental, que este Tribunal Superior, em
+recente julgado, assentou o entendimento de que a determinação no
+sentido de que haja o recolhimento de valores de origem não
+identificada ao Tesouro Nacional, referente ao que dispõe o art. 26, §
+3°, da Res.-TSE nº 23.406/2014, está em plena compatibilidade com
+as regras eleitorais vigentes.
+(…)
+Dessarte, não há como prosperar a alegação do embargante de
+que careceria de clareza a fundamentação do decisum, que teria
+utilizado ‘uma mescla de duas normas’ (fl. 403) para emprestar
+legalidade à exigência de devolução dos recursos tidos por não
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12097002.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 8 de 12
+
+ARE 1001470 AGR / GO
+identificados.
+Conforme o afirmado na decisão monocrática de fls. 350-356, a
+legislação eleitoral, em diversos dispositivos constantes na lei e nas
+resoluções expedidas por este Tribunal, estabelece a obrigatoriedade de
+identificação da origem dos recursos recebidos como doação de
+campanha, a fim de permitir que a Justiça Eleitoral exerça o efetivo
+controle sobre as contas prestadas por partidos políticos e candidatos,
+visando à lisura e à probidade da campanha eleitoral.
+Enfatizou-se que a proibição quanto ao aproveitamento de
+recursos de origem não identificada está embasada nos mecanismos
+criados pela legislação eleitoral para o controle das contas. Isso porque
+permitir que quantias de origem não identificada permaneçam com o
+partido político ou com o candidato seria obstaculizar o efetivo
+controle das contas pela Justiça Eleitoral, diante da sistemática
+apresentada.
+Importa ressaltar o seguinte trecho da decisão monocrática (fls.
+353-354):
+‘[...]
+Em face desse contexto é que, contrariamente ao constante
+do acórdão regional, não se evidencia ter o art. 29 da ResoluçãoTSE nº 23.406/2014 estipulado sanção, tampouco se verifica ter
+o indigitado dispositivo ultrapassado os limites da função
+normativa do Tribunal Superior Eleitoral, que lhe permite
+expedir instruções para a fiel execução da legislação eleitoral
+(arts. 1°, parágrafo único, e 23, IX, do Código Eleitoral e art.
+105 da Lei nº 9.504/1997), haja vista a sua finalidade de impedir
+que se concretizem proibições legalmente previstas, como
+demonstrado acima.
+[...]
+Por importante, acrescento que a determinação do disposto
+no art. 29 da Res.-TSE nº 23.406/2014 já estava prevista no art.
+32 da Resolução nº 23.376/2012, que regulamentou a
+arrecadação e os gastos de campanha eleitoral e a prestação de
+contas para as Eleições 2012, e no art. 24 da Resolução nº
+23.217/2010, que regulamentou o mesmo tema para as Eleições
+2010 e, desde então, vem sendo aplicado nos respectivos pleitos.’
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12097002.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 9 de 12
+
+ARE 1001470 AGR / GO
+(…)
+Não vislumbro, assim, a alegada obscuridade quanto ao ponto.
+Nessa mesma linha de raciocínio, não assiste razão ao
+embargante também quando afirma existir obscuridade quanto à
+viabilidade jurídica do pleito, ante o que prevê o princípio da
+anualidade ou anterioridade insculpido no art. 16 da CF/88. Destaco o
+seguinte trecho do acórdão embargado (fls. 389-390):
+‘Em tempo, entendo não haver falar, também, em violação
+ao princípio da reserva legal. Conforme assentado na decisão da
+qual ora se agrava, as regras que impõem a necessidade de que
+haja identificação do doador originário, na sua essência, já
+constavam de resoluções atinentes a eleições passadas. A título
+exemplificativo, foram mencionadas na ocasião as previsões
+normativas constantes do art. 32 da Res.-TSE nº 23.376/2012 e
+do art. 24 da Res.-TSE nº 23.217/2010.
+(…)
+Importa salientar, por fim, que não assiste razão ao
+agravante quando afirma tratar-se de ‘nova determinação que
+implica numa nova sanção’. Isso porque, como afirmado
+anteriormente, além de ser sabidamente legítimo o exercício do
+poder regulamentar por parte da Justiça Eleitoral, o regramento
+contido no art. 29 da Res.-TSE nº 23.406/2014 não constitui,
+em si, a aplicação de uma sanção. De acordo com o que foi
+assentado no voto proferido pelo Ministro HENRIQUE NEVES
+no AgR-REspe nº 2233-24/GO, o que o dispositivo permite é
+que, independentemente da caracterização da infração, haja a
+possibilidade de devolução dos respectivos recursos aos cofres
+públicos, evitando-se, assim, a suspensão da distribuição das
+cotas do Fundo Partidário.
+Ou seja, em conformidade com o entendimento recente
+desta Corte sobre a questão, a determinação relacionada aos
+recursos de origem não identificada não estipula sanção por
+infração às obrigações impostas aos candidatos e aos partidos
+políticos, relacionando-se, apenas, ‘às consequências práticas
+derivadas da impossibilidade de os candidatos ou os partidos
+políticos utilizarem recursos de origem não identificada como
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12097002.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 10 de 12
+
+ARE 1001470 AGR / GO
+determinam as regras que regem o financiamento das
+campanhas eleitorais e dos partidos políticos’ (AgR-REspe nº
+1224-43/MS, ReI. Min. HENRIQUE NEVES, DJE de
+5.11.2015).
+(…)’
+Segundo consta do acórdão, além de ser legítimo o exercício do
+poder regulamentar por parte da Justiça Eleitoral, o regramento
+contido na Res.-TSE nº 23.406/2014 não constitui inovação ou
+aplicação de sanção em si, sendo imprescindível a identificação do
+doador originário dos recursos transferidos pelos partidos aos seus
+candidatos.”
+
+Nesse contexto, verifica-se que concluir diversamente do acórdão
+recorrido, em relação ao alcance do artigo 29 da Resolução TSE
+23.406/2014 e à sua compatibilidade com a legislação eleitoral, bem como
+quanto à ausência de alteração do processo eleitoral pelo referido
+dispositivo, demandaria a interpretação de normas infraconstitucionais,
+notadamente a Lei 9.504/1997 e o Código Eleitoral, de forma que eventual
+ofensa à Constituição Federal seria meramente indireta e reflexa, o que
+impossibilita o exame da matéria na via estreita do recurso
+extraordinário. É assente nesta Corte que “não cabe recurso extraordinário
+por contrariedade ao princípio da legalidade, quando a sua verificação
+pressuponha rever a interpretação dada a normas infraconstitucionais pela
+decisão recorrida” (Súmula 636 do STF). Nesse sentido:
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. DIREITO ELEITORAL.
+PRESTAÇÃO DE CONTAS. CONTRARIEDADE AO PRINCÍPIO
+DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL
+FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA
+PROVIMENTO.” (ARE 965.707-AgR, Rel. Min. Cármen Lúcia,
+Segunda Turma, DJe de 14/9/2016).
+“DIREITO ELEITORAL. PRESTAÇÃO DE CONTAS DE
+CAMPANHA. ELEIÇÕES DE 2014. RECURSOS DE ORIGEM
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12097002.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 11 de 12
+
+ARE 1001470 AGR / GO
+NÃO
+IDENTIFICADA.
+ANÁLISE
+DE
+LEGISLAÇÃO
+INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA
+NÃO
+VIABILIZA
+O
+MANEJO
+DO
+RECURSO
+EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. RECURSO
+MANEJADO EM 24.4.2016. 1. A controvérsia, a teor do já
+asseverado na decisão guerreada, não alcança estatura constitucional.
+Não há falar em afronta aos preceitos constitucionais indicados nas
+razões recursais. Compreender de modo diverso exigiria a análise da
+legislação infraconstitucional encampada na decisão da Corte de
+origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como
+tal, de viabilizar o conhecimento do recurso extraordinário.
+Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos
+da remansosa jurisprudência desta Suprema Corte. 2. As razões do
+agravo regimental não se mostram aptas a infirmar os fundamentos
+que lastrearam a decisão agravada. 3. Agravo regimental conhecido e
+não provido.” (ARE 959.996-AgR, Rel. Min. Rosa Weber, Primeira
+Turma, DJe de 23/8/2016).
+“Agravo regimental em agravo de instrumento. 2.
+Compatibilidade da Resolução 19.784/1997 e da Portaria 158/2002,
+ambas do TSE, com as disposições das Leis 9.461/1996 e 10.745/2002.
+3. Necessidade de prévia análise da legislação infraconstitucional. 5.
+Ofensa reflexa. 6. Agravo regimental a que se nega provimento.” (AI
+845.624-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de
+3/10/2011).
+
+Ressalte-se que não houve a intimação para apresentação de
+contrarrazões ao presente recurso, em obediência ao princípio da
+celeridade processual e por não se verificar prejuízo à parte ora agravada,
+uma vez que voto pela manutenção da decisão recorrida (artigo 6º c/c
+artigo 9º do CPC/2015).
+Ex positis, NEGO PROVIMENTO ao agravo interno.
+É como voto.
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12097002.
+
+Supremo Tribunal Federal
+Extrato de Ata - 18/11/2016
+
+Inteiro Teor do Acórdão - Página 12 de 12
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.001.470
+PROCED. : GOIÁS
+RELATOR : MIN. LUIZ FUX
+AGTE.(S) : ALEXANDRE DA COSTA SOUZA
+ADV.(A/S) : ADEMIR ISMERIM MEDINA (7829/BA, 20905/GO)
+ADV.(A/S) : LILIAN MARIA SANTIAGO REIS (17117/BA, 43243/GO)
+AGDO.(A/S) : MINISTÉRIO PÚBLICO ELEITORAL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DA REPÚBLICA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo,
+nos termos do voto do Relator. 1ª Turma, Sessão Virtual de 11 a
+17.11.2016.
+
+Composição: Ministros Luís Roberto Barroso (Presidente), Marco
+Aurélio, Luiz Fux, Rosa Weber e Edson Fachin.
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 12141686
