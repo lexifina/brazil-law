@@ -10,8 +10,8 @@ I - Contratos de Quantidade de Energia; e
 II - Contratos de Disponibilidade de Energia.
 § 2º A contratação regulada de que trata o caput deste artigo deverá ser formalizada por meio de contratos bilaterais denominados Contrato de Comercialização de Energia no Ambiente Regulado - CCEAR, celebrados entre cada concessionária ou autorizada de geração e todas as concessionárias, permissionárias e autorizadas do serviço público de distribuição, devendo ser observado o seguinte:
 I - as distribuidoras serão obrigadas a oferecer garantias;
-II - para a energia elétrica proveniente de empreendimentos de geração existentes, início de entrega no mesmo ano ou até no segundo ano subsequente ao da licitação e prazo de suprimento de no mínimo 1 (um) e no máximo 15 (quinze) anos;
-III - para a energia elétrica proveniente de novos empreendimentos de geração, início de entrega no 3º (terceiro) ou no 5º (quinto) ano após a licitação e prazo de suprimento de no mínimo 15 (quinze) e no máximo 35 (trinta e cinco) anos.
+II - para a energia elétrica proveniente de empreendimentos de geração existentes, a entrega será iniciada no mesmo ano ou até no quinto ano subsequente ao da licitação, com prazo de suprimento de no mínimo 1 (um) e no máximo 15 (quinze) anos;
+III - para a energia elétrica proveniente de novos empreendimentos de geração, a entrega será iniciada a partir do terceiro e até o sétimo ano subsequente ao da licitação, com prazo de suprimento de no mínimo 15 (quinze) e no máximo 35 (trinta e cinco) anos;
 IV - o início da entrega da energia objeto dos CCEARs poderá ser antecipado, mantido o preço e os respectivos critérios de reajuste, com vistas no atendimento à quantidade demandada pelos compradores, cabendo à ANEEL disciplinar os ajustes nos contratos, de acordo com diretrizes do Ministério de Minas e Energia.
 § 2º-A. Excepcionalmente, no ano de 2013, o início de entrega poder-se-á dar no ano da licitação, para a energia elétrica proveniente de empreendimentos de geração existentes
 § 3º Excetuam-se do disposto no § 2º deste artigo as licitações de compra das distribuidoras para ajustes, em percentuais a serem definidos pelo Poder Concedente, que não poderão ser superiores a 5% (cinco por cento) de suas cargas, cujo prazo máximo de suprimento será de 2 (dois) anos.
@@ -25,8 +25,9 @@ I - não sejam detentores de outorga de concessão, permissão ou autorização;
 II - sejam parte de empreendimento existente que venha a ser objeto de ampliação, restrito ao acréscimo de capacidade.
 § 7º A licitação para a expansão da oferta de energia prevista no inciso II do § 5º deste artigo deverá ser específica para novos empreendimentos ou ampliações, sendo vedada a participação de empreendimentos de geração existentes, ressalvado o disposto no § 7º-A.
 § 7º-A. Poderão participar das licitações, para expansão da oferta de energia, os empreendimentos de geração que tenham obtido outorga de concessão licitada nos termos desta Lei ou de autorização, desde que atendam aos seguintes requisitos:
-I - não tenham entrado em operação comercial em até um ano antes da data de realização da licitação; ou
+I - não tenham entrado em operação comercial; ou
 II - (VETADO)
+III - (VETADO).
 § 7º-B. O preço máximo de contratação da energia proveniente dos empreendimentos de geração de que trata o § 7º-A, licitados nos termos desta Lei, não poderá superar o preço médio por fonte resultante dos leilões de que tratam os incisos II e III do § 5º deste artigo e o § 1º do art. 3º-A, excetuando-se, no cálculo do preço médio, os leilões para contratação de energia proveniente de projetos de geração de que trata o inciso VI do art. 2º da Lei nº 9.478, de 6 de agosto de 1997.
 § 8º No atendimento à obrigação referida no caput deste artigo de contratação da totalidade do mercado dos agentes, deverá ser considerada a energia elétrica:
 I - contratada pelas concessionárias, pelas permissionárias e pelas autorizadas de distribuição de energia elétrica até a data de publicação desta Lei; e
@@ -47,3 +48,4 @@ f) energia contratada nos termos do art. 1º da Medida Provisória nº 688, de 1
 § 16. Caberá à Aneel dirimir conflitos entre compradores e vendedores de energia elétrica, que tenham celebrado CCEARs, utilizando lastro em contratos de importação de energia elétrica ou à base de gás natural, cujas obrigações tenham sido alteradas em face de acontecimentos extraordinários e imprevisíveis, decorrentes de eventos alheios à vontade do vendedor, nos termos do inciso V do art. 3º da Lei nº 9.427, de 26 de dezembro de 1996.
 § 17. No exercício da competência de que trata o § 16 deste artigo, a Aneel, reconhecendo a extraordinariedade e a imprevisibilidade dos acontecimentos, poderá garantir neutralidade aos agentes envolvidos, no limite de suas responsabilidades.
 § 18. Caberá à Aneel, em um prazo de 180 (cento e oitenta) dias, decidir de ofício, ou por provocação das partes, acerca das questões de que trata o § 16 deste artigo.
+§ 19. O montante de energia vendida nos termos do § 13 do art. 4º da Lei nº 9.074, de 7 de julho de 1995, não será considerado mercado do agente de distribuição vendedor para efeitos do disposto nesta Lei.
