@@ -1,0 +1,27 @@
+Decisão
+    Vistos.
+    Rodrigo Martins de Mesquita interpôs tempestivo agravo regimental (fls. 474 a 476), em 2/3/16, contra decisão (fl. 467) em que determinei a devolução dos autos à Corte de origem, para que aplicasse o disposto no art. 543-B, do Código de Processo Civil.
+    Alega o agravante, in verbis, que:
+    “(...) há pressupostos de admissibilidade recursal que antecedem o reconhecimento da repercussão geral da matéria discutida nos autos e conduzem à impossibilidade de admissão do agravo e do próprio recurso extraordinário. Eventual discussão sobre a repercussão geral dá-se em momento posterior à superação dos requisitos de admissibilidade, nos termos do art. 323, caput, do RISTF.” (fl. 474-v)
+    Defende que o agravo interposto pela União não deveria ser conhecido, tampouco admitido o recurso extraordinário, haja vista que não teriam sido impugnados na petição do referido agravo todos os fundamentos da decisão de inadmissão do apelo extremo na origem.
+    Argumenta, ainda, que os dispositivos constitucionais apontados como violados no recurso extraordinário, careceriam do necessário prequestionamento.
+    Apesar de devidamente intimada, a agravada deixou de apresentar contrarrazões, conforme certidão de ausência de manifestação emitida pela Secretaria Judiciária desta Suprema Corte em 9/6/16.
+    Decido.
+    Merece prosperar a irresignação do agravante.
+    Com efeito, na decisão que não admitiu o recurso extraordinário, na origem, restou consignado que para a solução da controvérsia seria necessária a análise da legislação infraconstitucional pertinente, bem como, seria imprescindível o reexame do conjunto fático probatório da causa (Súmula nº 279/STF).
+    A União, na petição do agravo, limitou-se a aduzir que a decisão agravada deveria ser modificada porque teria afirmado que “o acórdão recorrido estaria em conformidade com a jurisprudência do STF” e, ainda, que não caberia à Corte de origem adentrar no juízo de mérito.
+    O entendimento desta Corte é no sentido de que deve a parte impugnar especificamente todos os fundamentos da decisão que não admitiu o apelo extremo, o que não ocorreu na espécie, uma vez que mantidos incólumes os fundamentos exarados pelo Tribunal a quo. Destarte, impõem-se a inadmissão do presente agravo.
+    Nesse sentido, são os seguintes julgados: AI nº 488.369/RS–AgR, 4/5/04, Primeira Turma, Relator Ministro Sepúlveda Pertence, DJ de 28/5/04; AI nº 330.535/SP-AgR, Segunda Turma, Relator o Ministro Maurício Corrêa, DJ de 21/9/01; e ARE nº 637.373/MS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/6/11, esse último assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RAZÕES DO RECURSO NÃO ATACAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 287 DO STF. ARTIGO 543 DO CPC. REMESSA DO FEITO AO STJ. DESNECESSIDADE. AGRAVO IMPROVIDO. I – O agravo não atacou os fundamentos da decisão que negou seguimento ao recurso extraordinário, o que o torna inviável, conforme a Súmula 287 do STF. Precedentes. II – É desnecessário aguardar o julgamento do recurso especial pelo STJ quando o extraordinário não possuir condições de admissibilidade. Precedentes. III – Agravo regimental improvido”.
+    Ressalte-se, também, que quando da interposição de um recurso dirigido a esta Suprema Corte, incumbe ao Tribunal de origem proceder a um exame prévio de admissibilidade desse apelo, sem que isso implique usurpação da competência constitucional cominada ao Supremo Tribunal Federal. A propósito, destaca-se:
+    “RECURSO EXTRAORDINÁRIO - JUÍZO PRIMEIRO DE ADMISSIBILIDADE. Ao Juízo primeiro de admissibilidade cumpre verificar se o extraordinário atende, ou não, aos pressupostos gerais de recorribilidade e a pelo menos um dos específicos de que cuida o inciso III do artigo 102 da Carta Política da República. Assim agindo, longe fica de usurpar a competência do Supremo Tribunal Federal” (AI nº 178.743/SP-AgR, Relator o Ministro Marco Aurélio, Segunda Turma, DJ de 16/5/97).
+    “RECURSO EXTRAORDINÁRIO (…) O Presidente do Tribunal Superior do Trabalho, ao emitir juízo negativo de admissibilidade do recurso extraordinário - nele destacando a ausência dos pressupostos condicionadores da valida utilização processual desse meio de impugnação - exerce, legitimamente, competência que lhe foi outorgada pelo ordenamento positivo, não praticando, em consequencia, qualquer ato de usurpação das atribuições jurisdicionais deferidas ao Supremo Tribunal Federal (RTJ 143/46). - (…)” (AI nº 153.147/RS-AgR, Relator o Ministro Celso de Mello, Primeira Turma, DJ de 6/5/94).
+    Registro, por fim que esta Corte no exame do AI nº 758.533-QO-RG, Relator o Ministro Gilmar Mendes, assentou entendimento consolidado na seguinte ementa:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°).2. Exame psicotécnico. Previsão em lei em sentido material. Indispensabilidade. Critérios objetivos. Obrigatoriedade. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Dessa orientação, não dissentiu o Tribunal a quo.
+    Ante o exposto, reconsidero a decisão ora agravada para não conhecer do agravo interposto pela União.
+    Publique-se.
+    Brasília, 18 de novembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
