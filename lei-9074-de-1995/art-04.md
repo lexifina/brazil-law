@@ -6,7 +6,7 @@ Art. 4º As concessões, permissões e autorizações de exploração de serviç
 § 5º As concessionárias, as permissionárias e as autorizadas de serviço público de distribuição de energia elétrica que atuem no Sistema Interligado Nacional - SIN não poderão desenvolver atividades:
 I - de geração de energia elétrica;
 II - de transmissão de energia elétrica;
-III - de venda de energia a consumidores de que tratam os arts. 15 e 16 desta Lei, exceto às unidades consumidoras localizadas na área de concessão ou permissão da empresa distribuidora, sob as mesmas condições reguladas aplicáveis aos demais consumidores não abrangidos por aqueles artigos, inclusive tarifas e prazos;
+III - de venda de energia a consumidores de que tratam os arts. 15 e 16 desta Lei, exceto às unidades consumidoras localizadas na área de concessão ou permissão da empresa distribuidora, sob as mesmas condições reguladas aplicáveis aos demais consumidores não abrangidos por aqueles artigos, inclusive tarifas e prazos, ressalvado o disposto no § 13;
 IV - de participação em outras sociedades de forma direta ou indireta, ressalvado o disposto no art. 31, inciso VIII, da Lei nº 8.987, de 13 de fevereiro de 1995, e nos respectivos contratos de concessão; ou
 V - estranhas ao objeto da concessão, permissão ou autorização, exceto nos casos previstos em lei e nos respectivos contratos de concessão.
 § 6º Não se aplica o disposto no § 5º deste artigo às concessionárias, permissionárias e autorizadas de distribuição e às cooperativas de eletrificação rural:
@@ -21,3 +21,4 @@ I - o início da entrega da energia objeto de Contratos de Comercialização de 
 II - a efetiva entrada em operação comercial do aproveitamento.
 § 11. Quando da solicitação de que trata o § 10 deste artigo resultar postergação do início de pagamento pelo uso de bem público, a celebração do aditivo contratual estará condicionada à análise e à aceitação pela ANEEL das justificativas apresentadas pelo titular da concessão para a postergação solicitada.
 § 12. No caso de postergação do início do pagamento, sobre o valor não pago incidirá apenas atualização monetária mediante a aplicação do índice previsto no contrato de concessão.
+§ 13. As concessionárias do serviço público de distribuição de energia elétrica poderão, conforme regulação da Aneel, negociar com consumidores de que tratam os arts. 15 e 16 desta Lei, afastada a vedação de que trata o inciso III do § 5º, contratos de venda de energia elétrica lastreados no excesso de energia contratada para atendimento à totalidade do mercado.

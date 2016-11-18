@@ -2,11 +2,9 @@ Art. 27. As concessionárias e autorizadas de geração sob controle federal, es
 § 1º A redução dos contratos iniciais de que trata o inciso II do art. 10 da Lei nº 9.648, de 27 de maio de 1998, não confere direito às concessionárias geradoras a qualquer garantia tarifária em relação ao montante de energia liberada.
 § 2º Os riscos hidrológicos ou de não cumprimento do contrato poderão ser assumidos pela concessionária geradora vendedora da energia elétrica.
 § 3º O disposto neste artigo não se aplica à Itaipu Binacional e à Eletronuclear.
-§ 4º A energia elétrica das concessionárias de geração de serviço público sob controle societário dos Estados será comercializada de forma a assegurar publicidade, transparência e igualdade de acesso aos interessados.
+§ 4º No Ambiente de Contratação Livre (ACL), a compra e a venda de energia elétrica pelos agentes de que trata o caput e pelos demais agentes autorizados sob controle federal, estadual e municipal serão realizadas na forma prevista no inciso I do § 3º do art. 28 e no inciso XVIII do art. 29 da Lei nº 13.303, de 30 de junho de 2016.
 § 5º As concessionárias de geração de que trata o caput poderão comercializar energia elétrica conforme regulamento a ser baixado pelo Poder Executivo nas seguintes formas:
-I - leilões exclusivos para consumidores finais ou por estes promovidos;
 II - aditamento dos contratos que estejam em vigor na data de publicação desta Lei, devendo a regulamentação estabelecer data limite e período de transição para a vigência deste aditivo; e
-III - outra forma estabelecida na regulamentação.
 § 6º As concessionárias e autorizadas de geração sob controle federal, estadual ou municipal poderão negociar energia por meio de:
 I - leilões previstos no art. 2º da Lei nº 10.604, de 17 de dezembro de 2002, observado o disposto no art. 30 da Lei que resultou da conversão da Medida Provisória nº 144, de 11 de dezembro de 2003; ou
 II - leilões de ajuste previstos no § 3º do art. 2º da Lei que resultou da conversão da Medida Provisória nº 144, de 11 de dezembro de 2003.

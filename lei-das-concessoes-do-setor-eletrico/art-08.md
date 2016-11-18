@@ -1,6 +1,11 @@
 Art. 8º As concessões de geração, transmissão e distribuição de energia elétrica que não forem prorrogadas, nos termos desta Lei, serão licitadas, na modalidade leilão ou concorrência, por até 30 (trinta) anos.
 § 1º A licitação de que trata o caput poderá ser realizada sem a reversão prévia dos bens vinculados à prestação do serviço.
-1º-A. É facultado à União, quando o prestador do serviço for pessoa jurídica sob seu controle direto ou indireto, promover a licitação de que trata o caput associada à transferência de controle da pessoa jurídica prestadora do serviço, outorgando contrato de concessão ao novo controlador pelo prazo de 30 anos.
+§ 1º-A. É facultado à União, quando o prestador do serviço for pessoa jurídica sob seu controle direto ou indireto, promover a licitação de que trata o caput associada à transferência de controle da pessoa jurídica prestadora do serviço, outorgando contrato de concessão ao novo controlador pelo prazo de 30 (trinta) anos.
+§ 1º-B. (VETADO).
+§ 1º-C. Quando o prestador do serviço for pessoa jurídica sob controle direto ou indireto de Estado, do Distrito Federal ou de Município, é facultado à União outorgar contrato de concessão pelo prazo de 30 (trinta) anos associado à transferência de controle da pessoa jurídica prestadora do serviço, desde que:
+I - a licitação, na modalidade leilão ou concorrência, seja realizada pelo controlador até 28 de fevereiro de 2018;
+II - a transferência de controle seja realizada até 30 de junho de 2018.
+§ 1º-D. A licitação de que trata o inciso I do § 1º-C poderá ser realizada pela União mediante autorização do controlador.
 § 2º O cálculo do valor da indenização correspondente às parcelas dos investimentos vinculados a bens reversíveis, ainda não amortizados ou não depreciados, utilizará como base a metodologia de valor novo de reposição, conforme critérios estabelecidos em regulamento do poder concedente.
 § 3º Aplica-se o disposto nos §§ 1º ao 6º do art. 1º às outorgas decorrentes de licitações de empreendimentos de geração de que trata o caput, o disposto no parágrafo único do art. 6º, às concessões de transmissão, e o disposto no art. 7º, às concessões de distribuição.
 § 4º Ficam reduzidas a zero as alíquotas da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - COFINS incidentes sobre as indenizações a que se referem o § 2º.
