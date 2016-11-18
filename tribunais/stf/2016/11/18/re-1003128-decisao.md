@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado do Acre concedeu a segurança para restabelecer o pagamento de pensão por morte, anate à inexistência de procedimento administrativo destinado à respectiva suspensão. No extraordinário, alega o recorrente a violação dos artigos 5º, incisos LIV e LV, e 71, inciso III, da Constituição Federal. Discorre sobre a ilegalidade da concessão inicial do benefício.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    27. A tudo dito, verifico no presente caso, a inexistência de observância ao ‘devido processo legal’, tendo por lastro os ditames traçados pela hodierna doutrina constitucional e administrativa, as quais apontam para o inafastável desencadeamento de atos de instauração, defesa, instrução, relatório e decisão.
+    28. Salta aos olhos a existência de somente dois atos administrativos neste sub-processo, para a supressão do benefício percebido pela Impetrante (pensão por morte), quais sejam: instauração e decisão. Só e somente só, foram excluídas as demais fases do processo administrativo. Refrigera-se, que a decisão combatida veio a lume para retirar, excluir, extirpar direito à pensão por morte que antes fora concedido à impetrantes.
+    À todas evidência, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    No caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    Acresce que, o Tribunal, ao julgar o mérito do recurso extraordinário nº 594.296/MG, com repercussão geral admitida, assentou ser ilegal a anulação de ato administrativo cuja formalização tenha refletido no campo individual de particulares sem a devida instauração de procedimento administrativo no qual se observem as garantias constitucionais da ampla defesa e do contraditório.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 18 de novembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
