@@ -1,4 +1,0 @@
-Art. 20. Ficam a Reserva Global de Reversão - RGR, de que trata o art. 4º da Lei nº 5.655, de 20 de maio de 1971, e a Conta de Desenvolvimento Energético - CDE, de que trata o art. 13 da Lei nº 10.438, de 26 de abril de 2002, autorizadas a contratar operações de crédito, com o objetivo de cobrir eventuais necessidades de indenização aos concessionários de energia elétrica, por ocasião da reversão das concessões ou para atender à finalidade de modicidade tarifária.
-§ 1º A RGR e a CDE poderão utilizar parte do seu fluxo de recebimento futuro para amortizar a operação de que trata o caput.
-§ 2º A Aneel considerará a parcela anual resultante da amortização da operação de que trata o caput, para efeito de cálculo das quotas anuais da CDE.
-§ 3º As operações financeiras de que trata o caput poderão ter como garantia o fluxo futuro de recebimento da arrecadação da RGR e da CDE.
