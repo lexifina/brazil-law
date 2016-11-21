@@ -1,0 +1,36 @@
+Decisão: Trata-se de recurso extraordinário interposto pela Ação Edificações Ltda – Epp em face do acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa transcrevo a seguir:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS (COTA PATRONAL E RAT). AVISO PRÉVIO INDENIZADO. TERÇO CONSTITUCIONAL DE FÉRIAS. FÉRIAS GOZADAS. SALÁRIO-MATERNIDADE. AUXÍLIO-DOENÇA. PRIMEIROS QUINZE DIAS DE AFASTAMENTO. AUXÍLIO-CRECHE. HORAS-EXTRAS. ADICIONAIS NOTURNO, DE PERICULOSIDADE E DE INSALUBRIDADE. AUXÍLIO-EDUCAÇÃO. COMPENSAÇÃO. ATUALIZAÇÃO MONETÁRIA.
+    1. Ainda que operada a revogação da alínea 'f' do § 9º do art. 214 do Decreto 3.038/99, a contribuição não poderia ser exigida sobre a parcela paga ao empregado a título de aviso prévio, porquanto a natureza de tais valores continua sendo indenizatória, não integrando, portanto, o salário-de-contribuição.
+    2. Em relação ao adicional de 1/3, realinhando a posição jurisprudencial desta Corte à jurisprudência do STJ e do STF, no sentido de que a referida verba que detém natureza indenizatória por não se incorporar à remuneração do servidor para fins de aposentadoria, afasta-se a incidência de contribuição previdenciária sobre o terço constitucional de férias.
+    3. O pagamento de férias gozadas possui natureza remuneratória e salarial, nos termos do art. 148 da CLT, integrando o salário de contribuição. Devida, portanto, a contribuição.
+    4. Configurada a natureza salarial do salário-maternidade incide sobre ele a contribuição previdenciária.
+    5. Segundo orientação do Superior Tribunal de Justiça, não deve incidir contribuição previdenciária sobre a remuneração paga pelo empregador ao empregado durante os primeiros quinze dias de afastamento do trabalho por motivo de incapacidade, uma vez que tal verba não possui natureza salarial.
+    6. O auxílio-creche possui natureza indenizatória, não se sujeitando à incidência de contribuições previdenciárias. Precedentes do STJ.
+    7. O adicional de horas-extras possui caráter salarial, conforme art. 7º, XVI, da Constituição Federal e Enunciado n° 60 do TST. Consequentemente, sobre ele incide contribuição previdenciária.
+    8. Integram o salário-de-contribuição as verbas recebidas pelo empregado a título de adicional noturno, adicional de insalubridade e adicional de periculosidade.
+    9. Os valores despendidos pelo empregador no intuito de fomentar a formação intelectual dos trabalhadores e seus dependentes não integram a remuneração pelo trabalho prestado e, consequentemente, a base de cálculo da contribuição previdenciária.
+    10. As contribuições previdenciárias recolhidas indevidamente podem ser objeto de compensação com parcelas vencidas posteriormente ao pagamento, relativas a tributo de mesma espécie e destinação constitucional, conforme previsto nos arts. 66 da Lei 8.383/91, 39 da Lei 9.250/95 e 89 da Lei 8.212/91, observando-se as disposições do art. 170-A do CTN. É vedada a restituição/compensação, pelo sujeito passivo, das contribuições destinadas a outras entidades ou fundos.
+    11. Os créditos deverão ser corrigidos pela Taxa SELIC, nos termos do § 4° do art. 39 da Lei nº 9.250/95.” (eDOC 2, p. 117-118)
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 195, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, a inexigibilidade da contribuição previdenciária sobre os valores pagos a título de: i) adicional de insalubridade; ii) adicional de periculosidade; iii) adicional noturno. (eDOC 3, p. 21-24)
+    A Vice-Presidência do TRF-4 admitiu alguns capítulos de sentença do recurso por entender presentes os pressupostos de admissibilidade. (eDOC 3, p. 68)
+    É o relatório. Decido.
+    De plano, verifica-se que o Tribunal Pleno do STF assentou na Questão de Ordem no AI nº 760.358, de relatoria do Ministro Gilmar Mendes, DJe 3.12.2009, que não cabe a esta Corte rever decisão a qual, no juízo de origem, aplica-se o entendimento fixado no âmbito de repercussão geral.
+    A propósito, veja-se a ementa do referido julgado:
+    Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.
+    Assim, as alegações da parte Recorrente em relação ao terço constitucional de férias, auxílio-doença e aviso prévio indenizado são incognoscíveis na presente sede processual.
+    Ademais, convém destacar o assentado pelo Tribunal de origem:
+    “O Superior Tribunal de Justiça vem afirmando a incidência de contribuição previdenciária sobre horas extras e sobre os adicionais noturno, de insalubridade e de periculosidade, consoante precedente que transcrevo:
+    (…)
+    Portanto, configurada a natureza salarial dos adicionais noturno, de insalubridade e de periculosidade, como referido acima, consequentemente sujeitam-se à incidência da exação impugnada, devendo ser mantida a sentença.”
+    Assim, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo, demandaria a análise da legislação aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo.
+    Nesse sentido, cito os seguintes julgados: RE 951.923, Rel. Min. Roberto Barroso, DJe 18.03.2016; RE 942.432, Rel. Min. Gilmar Mendes, DJe 15.03.2016; e RE 896.911, Rel. Min. Cármen Lúcia, DJe 21.10.2015.
+    Aliás, a jurisprudência do Supremo se consolidou no sentido de ser infraconstitucional a discussão acerca da incidência de tributos baseada na natureza da verba.
+    Ressalto, ainda, que a matéria objeto do RE-RG 593.068 (tema 163) abrange tão somente os servidores públicos federais, não se aplicando, portanto, ao Recorrido.
+    Ante o exposto, conheço do recurso extraordinário a que se nega seguimento.
+    Ademais, determino a retificação do polos processuais, dado que, no presente feito, a recorrente é a Ação Edificações Ltda – Epp, e não a União. Conforme se verifica da análise dos autos, o apelo extremo da União teve seguimento denegado pelo Tribunal de origem (eDOC 3, p. 63) não tendo havido interposição de agravo. (eDOC 2, p. 81-90)
+    Publique-se.
+    Brasília, 21 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
