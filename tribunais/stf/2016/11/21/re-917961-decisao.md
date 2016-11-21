@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do TRF-5ª Região, assim ementado (fls. 211-212):
+    “AÇÃO ANULATÓRIA DE DÉBITO FISCAL. MULTA ADMINISTRATIVA. ARTIGO 10, IX, DA PORTARIA 116/2000. REVENDEDOR VAREJISTA DE COMBUSTÍVEL. DEVER DE FUNCIONAMENTO NOS DIAS E HORÁRIOS ESPECIFICADOS NA NORMA. PRINCÍPIO DA ISONOMIA. AUSÊNCIA DE VIOLAÇÃO À LIBERDADE RELIGIOSA INSCULPIDA NO ART. 5º, VI E VIII, DA CONSTITUIÇÃO FEDERAL. SUPREMACIA DO INTERESSE PÚBLICO. APELAÇÃO PROVIDA.
+    1. As garantias relativas à liberdade religiosa insculpidas no art. 5º da Constituição Federal - notadamente nos incisos VI e VIII - dizem respeito tão somente à liberdade de crença e de culto, bem como à impossibilidade de instituir-se qualquer privação de direitos por razões de ordem religiosa - ressalvada a invocação de motivo religioso para eximir-se de obrigação legal a todos imposta.
+    2. A obrigação elencada no art. 10, IX, da Portaria nº 116/2000 - que impõe aos revendedores varejistas de combustível o dever de funcionar, no mínimo, de segunda-feira a sábado, entre as 06 e as 20 horas - é de incidência abstrata e submete, portanto, a todos os que optarem por empreender a dita atividade. Se o indivíduo, por sua vez, em razão de pertencer a um determinado culto religioso, encontra óbice que o impede de pautar-se de acordo com a aludida conduta normativa, não pode pretender explorar atividade econômica que, de tal forma regulada, exige obediência a esse tipo de procedimento.
+    3. Sem incorrer, portanto, em qualquer violação ou desprestígio às garantias constitucionalmente asseguradas para o exercício da liberdade religiosa - que não foram desafiadas no caso dos autos, posto que a autuação autárquica não reflete proibição à prática de culto religioso -, tem-se que o particular não pode suscitar motivo de fé pessoal para fugir ao cumprimento de obrigação legalmente instituída. O próprio enunciado constitucional a tanto não o autoriza; pelo contrário, em prestígio à supremacia do interesse público, expressamente o impede, dado que seria afrontoso à laicidade do Estado admitir que as regras da Administração Pública pudessem ser manipuladas ao sabor das convicções religiosas de seus tutelados.
+    4. Apelação provida.”
+    Os embargos declaratórios que se seguiram foram rejeitados em virtude da inexistência de vícios no acórdão (fls. 229).
+    No recurso extraordinário interposto com base nas alíneas “a” e “c” do permissivo constitucional, alega-se violação aos arts. 1º, II, III, IV, 5º, VIII e 170, II, IX, da Constituição Federal.
+    Nas razões recursais discorre acerca da garantia da liberdade religiosa e da livre iniciativa, buscando a nulidade de sanções impostas em virtude do descumprimento de portaria administrativa que estipula o horário mínimo de funcionamento dos postos de gasolina.
+    Afirma “ter como princípio de fé, a abstenção de realizar qualquer atividade que não seja de cunho religioso no período compreendido entre o pôr-do-sol da sexta-feira ao pôr-do-sol do sábado (...)” (fls. 234)
+    É o relatório. Decido.
+    O Supremo Tribunal Federal, no julgamento do RE 611.874, Rel. Min. Dias Toffoli, Tema 386, decidiu pela existência de repercussão geral da controvérsia referente à realização de etapas de concurso público em datas e locais diferentes dos previstos em edital por motivos de crença religiosa do candidato.
+    Tendo em vista a similitude entre o citado precedente e a controvérsia discutida no presente processo, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 21 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
