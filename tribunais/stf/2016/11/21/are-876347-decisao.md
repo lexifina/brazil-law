@@ -1,0 +1,28 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação do art. 5º, LV e LVII, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Deixou a parte agravante de impugnar o óbice oposto pela Presidência da Corte de origem ao trânsito do recurso extraordinário, relativo à aplicação das Súmulas 279 e 284/STF, em desalinho com a exigência contida na parte final do inciso I do § 4º do art. 544 do CPC, verbis:
+    “Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo nos próprios autos, no prazo de 10 (dez) dias.
+    ...
+    § 4º No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator:
+    I - não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada;“ (destaquei)
+    Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula 287/STF: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Nesse sentido: ARE 723.590-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 13.11.2013; ARE 760.280-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 16.10.2013; ARE 853.022-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 05.3.2015; e ARE 948397 AgR, Rel. Min. Edson Fachin, 1ª Turma, DJe 27.9.2016, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INEXISTÊNCIA DE PRELIMINAR FORMAL E FUNDAMENTADA DA REPERCUSSÃO GERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA.
+    1. É inadmissível o agravo regimental que não impugna todos os fundamentos da decisão agravada. Precedentes.
+    2. A deficiência da fundamentação recursal atrai a incidência da Súmula 287 do STF.
+    3. O agravante não apresentou preliminar formal e fundamentada de repercussão geral na petição de recurso extraordinário.
+    4. Descabe confundir ausência de fundamentação dos atos judiciais com crivo contrário aos interesses defendidos.
+    5. Agravo regimental a que se nega provimento.”
+    Noutro giro, o exame de eventual ofensa aos princípios da presunção de inocência, do devido processo legal, da ampla defesa e do contraditório demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal (v.g.: Inviável em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional RE 660.186 AgR/RS, Rel. Min. Dias Toffoli, 1ª Turma, DJe 14.02.2012; Os princípios da legalidade, o do devido processo legal, o da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária RE 642.408 AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 14.02.2012; Alegada afronta ao art. 5º, incs. XXXVI e XL, LIV e lV, da Constituição da República ARE 738.398 AgR/DF, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 28.6.2013).
+    Acresço, à demasia, que as matérias veiculadas no extraordinário, recurso que busca o agravante destrancar, já foi objeto de exame por esta Suprema Corte em sede de repercussão geral, a denotar a desnecessidade de reparos na decisão prolatada pelo Tribunal de origem. Nesse sentido:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.” (RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013)
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.” (ARE 639.228-RG, Rel. Min. Cezar Peluso, Pleno, DJe 31.8.2011)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de novembro de 2016.
+Ministra Rosa Weber
+Relatora
