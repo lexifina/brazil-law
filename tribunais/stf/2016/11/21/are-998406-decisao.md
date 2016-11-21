@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo em recurso extraordinário interposto de acórdão cuja ementa tem o seguinte teor (eDOC10, P. 115):
+    “ELEIÇÕES 2012. AÇÃO DE IMPUGNAÇÃO DE MANDATO ELETIVO. DECISÃO REGIONAL. INTEMPESTIVIDADE DO RECURSO ELEITORAL PROVIMENTO DO RECURSO ESPECIAL. FUNDAMENTO AFASTADO. RETORNO DOS AUTOS AO TRE. TEORIA DA CAUSA MADURA. INAPLICABILIDADE.
+    1. O candidato condenado em primeira instância tem interesse recursal para recorrer ao Tribunal Regional Eleitoral, mesmo que tenha renunciado, em face dos efeitos que a condenação pode gerar em relação a eventual hipótese de inelegibilidade a ser aferida em pleitos futuros.
+    2. Verificada a ausência de intimação válida na pessoa do advogado da parte, o recurso eleitoral não pode ser tido como intempestivo.
+    3. Afastadas as preliminares que impediram o conhecimento do recurso eleitoral interposto contra a sentença, os autos devem retornar ao Tribunal Regional Eleitoral para livre apreciação do mérito da controvérsia.
+    4. A teoria da causa madura não pode ser aplicada em sede de recurso especial, quando a análise da matéria pressupõe o exame detido das provas e fatos contidos no processo.
+    Agravo regimental ao qual se nega provimento.”
+    No recurso extraordinário (art. 102, III,”a”, CRFB), alega-se violação ao art. 5º, LIV (devido processo legal) e LXXVIII (celeridade processual) ambos da Constituição Federal e requer seja determinado que o TSE, revendo sua decisão de encaminhamento dos autos ao TRE para apreciar o mérito da causa, julgue o mérito do feito em atenção aos princípios da causa madura e da razoável duração do processo.
+    A Presidência do Tribunal Superior Eleitoral (eDOC10, p. 176) inadmitiu o recurso extraordinário por considerar que “a decisão do TSE em não aplicar ao caso a teoria da causa madura - art. 1.013, §§ 30 e 40, do CPC (art. 515, § 30, do CPC/1973) - não enseja recurso extraordinário, pois a alegada afronta ao texto constitucional, caso existente, seria de forma indireta.”
+    É o breve relato. Decido.
+    Inviável o recurso extraordinário.
+    O artigo 102, III da Carta da República é claro quanto à necessidade de haver “causa decidida em única ou última instância” para o cabimento do recurso extraordinário, o que não ocorre no presente feito.
+    Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO CONTRA DECISÃO NÃO DEFINITIVA. IMPOSSIBILIDADE DE IMEDIATO PROCESSAMENTO. Caso de recurso extraordinário interposto contra decisão não definitiva e que, portanto, não preenche o requisito do art. 102, III, da Constituição Federal, que prevê a competência do Supremo Tribunal Federal para julgar, “mediante recurso extraordinário, as causas decididas em única ou última instância”. Agravo regimental a que se nega provimento.” (AI 916131-AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 25.11.2013)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE: INDEFERIMENTO. DECISÃO INTERLOCUTÓRIA. NÃO CABIMENTO DE RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Exceção de pré-executividade. Controvérsia acerca do transcurso, ou não, do lapso prescricional. Decisão que indefere o incidente no processo de execução fiscal, por depender de dilação probatória quanto à ocorrência, ou não, de marcos interruptivos ou suspensivos do curso da prescrição. Natureza interlocutória do provimento judicial, que, como tal, não põe fim ao processo e não produz coisa julgada, nem preclusão. II – Não cabimento do recurso extraordinário, in casu, por não se cuidar de decisão de única ou última instância. Precedentes: AI 586.906-AgR, Rel. Min. Sepúlveda Pertence; AI 761.940-AgR, Rel. Min. Ellen Gracie; AI 606.129-AgR, Rel. Min. Gilmar Mendes; e RE 507.310-AgR, Rel. Min. Cármen Lúcia, entre outros. III – Agravo regimental a que se nega provimento.” (ARE 768194-AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, Dje06.10.2014)
+    O Tribunal Superior Eleitoral, em observância ao devido processo legal, determinou o retorno dos autos ao Tribunal Regional Eleitoral para análise do mérito do Recurso Especial Eleitoral pois cabe à quele Regional a análise dos fatos e provas constantes do processo.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do artigo 21, § 1º, RISTF.
+    Publique-se. Intimem-se.
+    Brasília, 21 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
