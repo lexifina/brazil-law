@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, sob os fundamentos de que eventual ofensa ao texto constitucional seria meramente reflexa e de que incide, na espécie, o óbice das Súmulas 282 e 356 desta Corte.
+    O agravo não merece acolhida, dado que o recorrente deixou de atacar os fundamentos da decisão agravada – limitando-se a transcrever as razões do extraordinário, sem, contudo, desenvolver argumentação autônoma destinada a refutar a decisão que inadmitiu o apelo extremo –, o que atrai a incidência da Súmula 287 do STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “EMENTA: Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Razões do agravo que não atacam todos os fundamentos da decisão agravada. Inadmissibilidade. Súmula nº 287 desta Corte. 1. Inviável o recurso que não ataca os fundamentos da decisão agravada. Incidência da Súmula nº 287 desta Corte. 2. Agravo regimental não provido (ARE 639.283-AgR/RS, Rel. Min. Dias Toffoli, Primeira Turma – grifos meus).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. 1. Ausência de impugnação dos fundamentos da decisão de inadmissibilidade do recurso extraordinário. Súmula n. 287 do Supremo Tribunal Federal. 2. Ausência da preliminar formal de repercussão geral: inviabilidade da análise do recurso extraordinário. 3. Não ocorrência da prescrição. Novo marco interruptivo decorrente de acórdão de segunda instância que majora a pena, com repercussão no cálculo prescricional. Precedentes. 4. Agravo regimental ao qual se nega provimento” (ARE 760.280-AgR/PE, Rel. Min. Cármen Lúcia, Segunda Turma – grifos meus).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
