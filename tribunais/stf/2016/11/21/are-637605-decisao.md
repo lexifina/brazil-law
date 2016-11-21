@@ -1,0 +1,27 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido ao Tribunal de origem para que se cumprisse o disposto no art. 543-B do CPC (então vigente), uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral pelo tema 217, cujo paradigma é o RE-RG 588.322. (eDOC 1)
+    Encaminhados os autos ao Tribunal de origem, este devolveu o processo ao STF, ao fundamento de que, em juízo de retratação, a 18ª Câmara de Direito Público manteve a decisão anteriormente proferida com o seguinte fundamento:
+    “Conforme restou expressamente consignado no acórdão de fls. 156/160, o Município de Santos, não poderia acionar execução contra Serra Azul Agropecuária Ltda., pois a agravante comprovou que a empresa foi extinta antes do fato gerador da TLLF”. (eDOC 4, p. 64-65)
+    Da detida análise dos autos, verifico que, embora o acórdão recorrido se refira à mesma taxa do citado paradigma, o fundamento utilizado pelo Tribunal de origem é diverso, pois, nestes autos, o recurso foi negado por absoluta ilegitimidade passiva da recorrida à época, em que já não exercia atividade comercial, razão pela qual não havia comprovação do efetivo exercício de poder de polícia.
+    Nesse contexto, torno sem efeito a devolução determinada no eDOC 1 e passo a análise do recurso.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “APELACÃO -Exceção de pré-executividade -Agravante que com provo que foi extinta em 24.04.2002 - Portanto, antes da ocorrência do fato gerador do TLLF do exercício de 2004 - O fisco municipal só poderia cobrar a multa pela falta de cumprimento de obrigação acessória e não o próprio tributo - Deram provimento ao recurso, para acolher a exceção de pré-executividade, extinguir o execução fiscal, e condenar agravado ao pagamento dos honorários advocatícios em R$500,00, a teor do art. 20 § 4º do C.P.C., que serão corrigidos pelos índices da tabela prática do E. Tribunal de Justiça a partir da publicação deste acórdão”. (eDOC 3, p. 167)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 30, I e III; e 145, II, do texto constitucional.
+    Nas razões recursais, alega-se que a decisão recorrida teria retirado “a possibilidade concreta e constitucional, outorgada aos Municípios, de exercer, em plenitude, sua competência tributária de exercer com precisão, toda a fiscalização dos serviços prestados na área do seu território, além do cumprimento das posturas municipais”. (eDOC 4, p. 1)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipal n. 3.750/71) e o conjunto probatório constante dos autos, consignou a não existência do fato gerador da taxa que se pretendeu cobrar, dado o encerramento das atividades comerciais da recorrida à data do lançamento ora discutido. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A Fazenda Pública Municipal de Santos ingressou com execução fiscal contra a empresa Serra Azul Agropecuária Ltda., ora agravante, objetivando receber o crédito tributário no valor de R$ 1.767,15, oriundo da falta de pagamento da Taxa de Licença para Localização e Funcionamento do exercício de 2004 (fl. 26).
+    Ocorre que, foi extinta a sociedade agravante em 24 de junho de 2002, conforme se faz certo a cópia reprográfica do Distrato Social de fls. 187/189. Portanto, antes do fato gerador do referido tributo.
+    (…)
+    Infere-se do referido dispositivo legal que o Fisco Municipal de Santos poderia aplicar multa pela falta de cumprimento da obrigação acessória, mas, não o próprio tributo”. (eDOC 2, p. 171)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. TAXA MUNICIPAL. SERVIÇO DE TERMINAL RODOVIÁRIO. 1. A referibilidade, em concreto, do serviço público prestado pela estatalidade ao contribuinte de modo a ensejar a cobrança de taxa é matéria de índole local. Súmulas 279 e 280 do STF. 2. Agravo regimental a que se nega provimento”. (ARE-AgR 939.148, Rel. Min. Edson Fachin, Primeira Turma, DJe 16.3.2016)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Taxa de fiscalização de estabelecimento do município de São Paulo. Incidência sobre fundos de investimento. Controvérsia decidida à luz da legislação local aplicável. Súmula 280. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento”. (ARE-AgR 921.723, de minha relatoria, Segunda Turma, DJe 17.3.2016)
+    Ante o exposto, torno sem efeito a devolução determinada no eDOC 1 e nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de novembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
