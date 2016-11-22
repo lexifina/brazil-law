@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado (eDOC 5, p. 31):
+    “CONSTITUCIONAL. ADMINISTRATIVO. EXTENSÃO DE PISO SALARIAL A TÍTULO DE ISONOMIA. IMPOSSIBILIDADE. OFENSA AO ART. 7º, IV, DA CF/88 E ÀS SÚMULAS Nº 339/STF E SÚMULA VINCULANTE Nº 4/STF.
+    1. O fato de haver distinção entre os vencimentos das autoras/apeladas e os de outros servidores exercentes do mesmo cargo, que tiveram reconhecido, por força de decisão judicial, em ação proposta perante a Justiça do Trabalho, a vantagem pecuniária pretendida, não gera direito à isonomia.
+    2. É impossível a extensão pela via judicial, a título de isonomia, de vantagens salariais obtidas por servidor, em ação judicial, a outros servidores que não integraram a relação processual, uma vez que a decisão proferida se aplica exclusivamente àqueles que participaram na ação, não se estendendo a terceiros, a ela estranhos, sob pena de extrapolar os limites objetivos e subjetivos da coisa julgada (art. 472/CPC).
+     3. A teor da Súmula nº 339/STF, não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores com fundamento no princípio da isonomia, que só se efetiva por expressa previsão legal.
+    4. "Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial" (Súmula Vinculante nº 4/STF)
+      5. Agravo Interno movido pelas autoras conhecido, mas desprovido. Agravo Interno movido pelo Estado do Ceará conhecido e provido. Decisão reformada no que se refere a arbitramento de honorários.”
+    Nas razões recursais, sustenta-se, em suma, que “se os vencimentos de determinados servidores – in casu, as Recorrentes – deixaram de ser devidamente consubstanciados nos moldes preconizados pela LEI, a pretensão judicial de reajuste, adotando-se como paradigmas outros servidores que obtiveram êxito em outra demanda judicial, NÃO consistiu na indevida extensão dos limites objetivos e subjetivos da referida lide, nem mesmo retratou a escusa pretensão de aumento de remuneração com base em isonomia, uma vez que a ausência de reajuste às servidoras ora Recorrentes evidenciou flagrante ofensa ao princípio da LEGALIDADE, evidenciando violação a direitos públicos subjetivos daquelas.” (eDOC 13, p. 28)
+    Verifica-se que o Supremo Tribunal Federal, no julgamento do RE 592.317-RG, Rel. Min. Gilmar Mendes, DJe 10.11.2014 (tema 315), reconheceu a existência de repercussão geral da matéria e concluiu que não compete ao Poder Judiciário aumentar vencimentos ou estender vantagens a servidores públicos com fundamento no princípio da isonomia. Reproduzo a ementa desse julgado:
+    “Recurso extraordinário com repercussão geral reconhecida. Administrativo. Servidor Público. Extensão de gratificação com fundamento no princípio da Isonomia. Vedação. Enunciado 339 da Súmula desta Corte. Recurso extraordinário provido.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 22 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
