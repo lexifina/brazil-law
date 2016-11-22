@@ -1,0 +1,45 @@
+Decisão:
+    Vistos.
+    Habeas corpus impetrado em favor de Wilson Paredes, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no REsp nº 1.254.614/SP, Relator o Ministro Rogério Schietti.
+    Narra a impetração que
+    “[o] paciente foi condenado pelo juízo de piso a 9 (nove) anos e 08 (oito) meses de reclusão e 980 (novecentos e oitenta) dias-multa em regime inicialmente fechado, pela suposta prática do crime descrito no artigo 33, caput, c/c art. 40, inciso I, da Lei 11.343/06. (e-STJ Fl. 242/289)
+    A Defesa apelou da r. decisão, tendo o seu pedido de apelação parcialmente provido, reduzindo a pena em 04 (quatro) anos e 10 (dez) meses e 10 (dez) dias de reclusão, mais 485 (quatrocentos e oitenta e cinco) dias-multa, lavrando-se o seguinte acórdão pela Egrégia Quinta Turma do Tribunal Regional Federal da 3ª Região. (e-STJ Fl.414/422).
+    Irresignado o Parquet interpôs Recurso Especial contra a r. acórdão do TRF da 3ª Região, o qual, no entanto, não foi admitido na origem. Contra essa decisão, não houve nenhum recurso.
+    Adiante, a Defensoria Pública da União, similarmente, interpôs Recurso Especial, que, porém, não logrou êxito em ser provido.
+    Por derradeiro, a Defesa ofertou Agravo Regimental, contra a decisão que inadmitiu o seu Recurso Especial, no que mais uma vez teve provimento negado (...)”.
+    Busca-se nesta impetração a concessão da ordem para se reconhecer em favor do paciente “a causa especial de diminuição de pena prevista no § 4° do art. 33 da Lei nº 11.343/06, em seu patamar máximo (2/3), vez que a simples função de “mula” do tráfico não afasta o benefício legal.” (grifos da autora).
+    O Ministério Público Federal, em parecer da Subprocuradora-Geral da República Cláudia Sampaio Marques, opinou pelo não conhecimento do writ, ou, se conhecido, pela denegação da ordem.
+    Examinados os autos, decido.
+    Transcrevo a ementa do julgado ora impugnado:
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO TRANSNACIONAL DE DROGAS. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. FRAÇÃO MÁXIMA. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+    1. As circunstâncias em que perpetrado o delito, em contexto de tráfico transnacional de drogas, poderiam até – não fora a incidência da máxima in dubio pro reo – autorizar a convicção de que o transporte da substância entorpecente pelo acusado, naquelas circunstâncias, sequer se compatibilizaria com a posição de um pequeno traficante ou de quem não se dedicaria, com certa frequência e anterioridade, a atividades delituosas, no seio dos objetivos de uma organização criminosa. Assim, com muito mais razão, não há nenhuma ilegalidade na incidência da minorante no patamar de 1/6.
+    2. Agravo regimental não provido”.
+    Essa é a razão por que se insurge a impetrante.
+    O inconformismo não vinga.
+    De acordo com o julgado ora hostilizado,
+    “(...) a Corte regional, por maioria de votos, entendeu devida a incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas, aplicando-a no patamar de 1/6 (fl. 420).
+    Registro, no particular, que o ora recorrente foi preso em flagrante no Aeroporto Internacional de Guarulhos – SP, quando tentava embarcar em voo com destino a Milão – Itália, de onde seguiria para Barcelona – Espanha, trazendo consigo, no fundo falso de sua bagagem, para fins de comércio ou de entrega a consumo de terceiros no exterior, 3.433,0 gramas de cocaína, peso líquido, circunstâncias que, somadas, levaram o próprio Desembargador Relator da apelação, embora vencido, a concluir que "o apelante, de forma habitual ou não, dedicava-se à atividade criminosa de tráfico de entorpecentes, participando, como transportador da droga, de esquema criminoso voltado para o comércio ilícito de entorpecentes" (fl. 416).
+    Ou seja, o próprio Tribunal de origem estabeleceu uma discussão sobre se o recorrente – no papel de "mula" do tráfico de drogas – integrava organização criminosa. Dessa discussão, sobreleva destacar que as circunstâncias em que perpetrado o delito ora analisado, em contexto de tráfico transnacional de drogas, poderiam até – não fora a incidência da máxima in dubio pro reo – autorizar a convicção de que o transporte da substância entorpecente pelo acusado, naquelas circunstâncias, sequer se compatibilizaria com a posição de um pequeno traficante ou de quem não se dedicaria, com certa frequência e anterioridade, a atividades delituosas, no seio dos objetivos de uma organização criminosa. Assim, com muito mais razão, não identifico nenhuma ilegalidade na incidência da minorante no patamar de 1/6.
+    Aliás, em caso semelhante – em que as circunstâncias do caso concreto evidenciaram que o acusado nem sequer seria merecedor da minorante em questão –, esta colenda Sexta Turma, por unanimidade, também manteve inalterada a redução de pena no patamar mínimo de 1/6 (...)”.
+    O percentual de redução, portanto, foi fixado no mínimo legal, em atenção ao grau de auxílio prestado pelo paciente ao tráfico internacional.
+    Assim, diversamente do que sustenta a impetrante, existe motivação idônea para a incidência, no piso legal, da causa de diminuição de pena.
+    Esse entendimento encontra amparo na jurisprudência desta Corte:
+    “HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. PENA-BASE DEVIDAMENTE FUNDAMENTADA. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. APLICAÇÃO EM SEU GRAU MÍNIMO (1/6). FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBLIDADE. PENA SUPERIOR A 4 ANOS DE RECLUSÃO. OBRIGATORIEDADE DO REGIME INICIAL FECHADO. INCONSTITUCIONALIDADE DO § 1º DO ART. 2º DA LEI 8.072/1990 (REDAÇÃO CONFERIDA DA PELA LEI 11.464/2007). ORDEM CONCEDIDA EM PARTE.
+    I – Não prospera a alegação de ausência de fundamentação idônea na exasperação da pena-base, que foi aumentada em 1 ano (num intervalo de 10 anos) com supedâneo em quatro circunstâncias judiciais desfavoráveis, valendo anotar que, em se tratando de tráfico, a quantidade da droga apreendida é fator que deve preponderar na fixação da reprimenda.
+    II – O Tribunal Regional Federal da 3ª Região, ao dar parcial provimento à apelação da defesa, fez incidir a causa especial de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006 e estabeleceu a redução na fração 1/6, porque “as assim denominadas 'mulas', conquanto não integrem, em caráter estável e permanente, a organização criminosa, têm plena e perfeita consciência de que estão a serviço de grupo dessa natureza”, não merecendo, assim, uma redução maior.
+    III – O juiz não está obrigado a aplicar o máximo da redução prevista quando presentes os requisitos para a concessão desse benefício, possuindo plena discricionariedade para aplicar, de forma fundamentada, a redução no patamar que entenda necessário e suficiente para reprovação e prevenção do crime, como ocorreu no caso concreto.
+    IV – A reprimenda fixada, definitivamente, em 5 anos, 4 meses e 5 dias de reclusão, num intervalo que varia de 5 a 15 anos, não desbordou os lindes da proporcionalidade e da razoabilidade, não havendo, a meu ver, flagrante ilegalidade ou teratologia que justifiquem a concessão da ordem, sendo certo que não se pode utilizar ‘o habeas corpus para realizar novo juízo de reprovabilidade, ponderando, em concreto, qual seria a pena adequada ao fato pelo qual condenado o Paciente’ (HC 94.655/MT, Rel. Min. Cármen Lúcia).
+    (…)
+    (HC nº 115.149/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 2/5/13)”.
+    Dignas de registro, ainda, por sua pertinência à espécie, as seguintes observações do voto condutor desse acórdão,
+    “É importante notar, sobre esse aspecto, que se trata de ré que saiu da sua terra natal (Tailândia) para buscar droga no Brasil, e tinha como destino a cidade de Dubai, nos Emirados Árabes Unidos. Esse comportamento, sem dúvida, exige uma maior reprovação, justamente porque revela uma audácia maior do que daquele que se atreve a comercializar drogas em pequenos pontos de venda (grifo nosso).
+    Daí porque o juiz não está obrigado a aplicar o máximo da redução prevista quando presentes os requisitos para a concessão desse benefício, possuindo plena discricionariedade para aplicar a redução no patamar que entenda necessário e suficiente para reprovação e prevenção do crime, como ocorreu no caso concreto.”
+    No caso concreto, de forma análoga, o paciente foi flagrado na posse de 3.433g de cocaína no aeroporto de Guarulhos, no momento em que se preparava para embarcar em voo para Milão, de onde seguiria para Barcelona, na Espanha.
+    Correta, portanto, a valoração negativa do auxílio por ele prestado para o tráfico na terceira fase da dosimetria.
+    Nada há que se reparar, portanto, na fração eleita de redução de pena.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno desta Corte, nego seguimento ao presente writ.
+    Publique-se.
+    Brasília, 22 de novembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
