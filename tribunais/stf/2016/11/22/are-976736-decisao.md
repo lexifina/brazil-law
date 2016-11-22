@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de agravo interposto contra decisão que julgou prejudicado o extraordinário quanto à violação aos princípios do contraditório e da ampla defesa, aos limites da coisa julgada e ao devido processo legal, visto que o STF já se pronunciou no sentido da inexistência de repercussão geral (ARE 748.371/MT). Em relação às demais matérias, negou seguimento ao apelo (e-STJ, fls. 301/302, vol . 3).
+    2. O Plenário do STF, no julgamento das Rcl 7.569 e 7.547, ambas da relatoria da Min. Ellen Gracie, assentou o entendimento de que não constitui juízo de admissibilidade do apelo a negativa de seguimento do recurso extraordinário, na origem, com base nos §§ 2º e 3º do art. 543-B do CPC/1973 e no art. 328-A do RISTF, de modo que se revela incabível o ajuizamento de reclamação ou a interposição do agravo do art. 544 do CPC/1973. Definiu-se, também, que o não encaminhamento do recurso a esta Corte não importa violação à Súmula 727/STF. Essa orientação foi reafirmada pelo Pleno quando do julgamento do AI 760.358-QO, Rel. Min. GILMAR MENDES (Presidente), DJe de 12/2/2010.
+    Entretanto, havendo decisão de admissibilidade do extraordinário com partes autônomas em que se aplica a sistemática da repercussão geral a apenas algumas delas, evidentemente não compete ao Juízo de origem a apreciação daquilo que for obstado por fundamentos diversos.
+    Desse modo, o presente agravo apenas comporta conhecimento relativamente à inadmissão do extraordinário quanto às demais violações aduzidas.
+    3. Quanto à alegada ofensa ao duplo grau de jurisdição e ao ato jurídico perfeito, não houve emissão, pelo acórdão recorrido, de juízo acerca dessas matérias, tampouco as questões foram suscitadas no momento oportuno, em sede dos embargos de declaração, razão pela qual, à falta do indispensável prequestionamento, o recurso extraordinário não pode ser conhecido, incidindo o óbice das Súmulas 282 e 356 do STF.
+    4. Por fim, a reversão do acórdão recorrido demandaria a análise de matéria infraconstitucional, o que é inviável em recurso extraordinário, e a reapreciação do conjunto fático-probatório dos autos, conduta vedada pelo teor da Súmula 279/STF.
+    5. Diante do exposto, conheço parcialmente do agravo e, nessa parte, nego provimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 22 de novembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
