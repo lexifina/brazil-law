@@ -1,0 +1,53 @@
+RECLAMAÇÃO. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. PREVISÃO LEGAL. AUSÊNCIA DE CONTRARIEDADE À SÚMULA VINCULANTE 44.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional proposta por Saulo Machado Correa, com fundamento normativo no art. 102, I, “l”, da Constituição Federal, contra decisão proferida pelo Juízo da Vara de Fazenda Pública da Comarca de Mogi das Cruzes/SP, no processo nº 1016463-62.2015.8.26.0361, por suposta ofensa à Súmula Vinculante 44.
+    2. O reclamante argumenta que a exigência de exame psicotécnico a candidatos ao cargo público de aluno oficial da Polícia Militar do Estado de São Paulo encontraria óbice na Súmula Vinculante 44, porquanto não haveria lei autorizadora para tanto.
+    Segundo narra o reclamante, na Lei Complementar 1.036/2008 do Estado de São Paulo, na qual foi instituído o sistema de ensino na Polícia Militar do Estado de São Paulo, não há qualquer menção a exames psicológicos ou psicotécnicos. Alega que o Decreto Estadual nº 54.911/2009 deveria se limitar a regulamentar o previsto na legislação, não lhe competindo impor a obrigação de realização de exame psicotécnico.
+    Defende que a exigência de avaliação psicológica, como requisito ou condição necessária ao acesso a cargos públicos, somente pode ocorrer por meio de legislação que expressamente autorize, o que não existe no caso.
+    3. Com relação ao contexto fático do processo de origem, explica: “ … inscreveu-se em concurso público destinado ao preenchimento de cargos de Aluno Oficial da Polícia Militar do Estado de São Paulo, conforme edital de concurso público Nº DP-2/321/15 (Fls 122 dos autos anexos), publicado no Diário Oficial do Estado em 23 de maio de 2015. Realizou e logrou aprovação nas etapas de provas escritas, de provas de condicionamento físico e exames de saúde. Submeteu-se, na sequência a fase denominada de exames psicológicos, no qual fora considerado inapto. Apresentou recurso administrativo que foi, sumariamente, denegado e, concomitantemente, ajuizou ação no Juizado Especial da Fazenda Pública do Foro de Mogi das Cruzes pleiteando a anulação do ato administrativo, haja vista a ilegalidade do ato, uma vez que não há lei autorizando a submissão de candidatos ao cargo público mencionado a exames psicotécnicos, caracterizando-se, portanto, violação ao enunciado 44 da súmula vinculante.”
+    4. Requer deferimento do benefício da gratuidade da Justiça. Pede a procedência da reclamação, com a cassação da decisão reclamada.
+    5. Solicitadas informações, foram prestadas pela autoridade reclamada (doc. 12, e-STF).
+    6. Deixo de citar a parte beneficiária do ato judicial reclamado, em razão da manifesta improcedência do pedido. Igualmente dispenso a intimação do Procurador-Geral da República, haja vista o caráter repetitivo do litígio.
+    É o relatório.
+    Decido.
+    1. Forte no art. 21, XIX, do RISTF, defiro o pedido de assistência judiciária formulado nos moldes do art. 4º da Lei 1.060/1950.
+    2. A reclamação é ação autônoma de impugnação dotada de perfil constitucional, prevista no texto original da Carta Política de 1988 para a preservação da competência e garantia da autoridade das decisões do Supremo Tribunal Federal (art. 102, l , da Lei Maior), e a configurar, desde o advento da Emenda Constitucional nº 45/2004, instrumento de combate a ato administrativo ou decisão judicial que contrarie ou indevidamente aplique súmula vinculante, aprovada, de ofício ou por provocação, mediante decisão de dois terços dos membros desta Suprema Corte, após reiteradas decisões sobre a matéria (art. 103-A, § 3º, da Magna Carta). Na presente reclamação, não diviso a ocorrência de quaisquer das hipóteses de cabimento.
+    3. Para melhor compreensão do feito, transcrevo o ato decisório impugnado:
+    “(...)
+    É cediço que o processo de aptidão psicológica objetiva apurar a estabilidade emocional, a auto-confiança e prudência, bem como a responsabilidade, disciplina, iniciativa, prontidão e dedicação, a serem preenchidos pelos candidatos ao ingresso na carreira de Oficial da Polícia Militar, como é o caso do autor.
+    No caso em tela, vislumbra-se que só critérios dessa avaliação foram perfeitamente delineados no edital do concurso objeto da ação. O autor, por sua vez, foi declarado inapto por meio de Laudo Psicológico, concluindo que ele apresenta perfil inadequado ao exercício da função de Polícia Militar, em desconformidade aos critérios mínimos estabelecidos no Edital do concurso.
+    Pois bem.
+    O cargo almejado pelo autor, reclama comportamento peculiar para o seu desempenho, exatamente para se evitar condutas inapropriadas do futuro agente, sendo plenamente justificado o rigor na seleção dos candidatos, dada a importância e a responsabilidade de que se reveste o integrante da carreira.
+    Nesse sentir, considerando que o autor não se mostrou apto para o cargo público em tela, nem apresentou o recurso pertinente, o ato administrativo ora impugnado não merece nenhuma repreensão, já que praticado dentro dos limites legais.
+    Ademais, é certo que os atos administrativos sujeitam-se ao controle judicial. Contudo, o Poder Judiciário não pode analisar o mérito de atos reservados à apreciação subjetiva da Administração Pública, porque não se permite avaliar aspectos de conveniência e oportunidade.
+    O mérito administrativo compete ao administrador público, que analisa as hipóteses que lhe são submetidas e decide em conformidade com o disposto em lei, não se permitindo intromissão do Poder Judiciário se o ato não se mostrar ilegal ou ilegítimo, ou se o procedimento não contiver nenhuma irregularidade.
+    No caso dos autos, verifica-se que não houve qualquer irregularidade praticada ou vício passível de anular os atos praticados pela requerida.
+    Nesse contexto, de rigor a improcedência do pleito.”
+    4.  De acordo com informações prestadas pela autoridade reclamada, a Lei Complementar 1.036/2008 do Estado de São Paulo, que rege o ingresso no cargo de Aluno Oficial no Bacharelado em Ciências Policiais de Segurança e Ordem Pública, concedeu autorização ao Poder Executivo para regulamentá-la. Confira-se:
+    “Artigo 5º - Para atender à sua finalidade, o Sistema de Ensino da Polícia Militar manterá as seguintes modalidades de cursos e programas de educação superior com equivalência àqueles definidos no artigo 44 da Lei federal nº 9.394, de 20 de dezembro de 1996 – LDB:
+    (...)
+    III - curso de graduação, destinado a formar, com solidez teórica e prática, o profissional ocupante do Posto Inicial de Oficial tornando-o apto ao comando de pessoas, e à análise e administração de processos, por intermédio da utilização ampla de conhecimentos na busca de soluções para os variados problemas pertinentes às atividades jurídicas de preservação da ordem pública e de polícia ostensiva, em conformidade com a filosofia de polícia comunitária, além de outras definidas em lei;
+    (...)
+    § 4º - A aprovação em curso de graduação previsto no inciso III deste artigo conferirá ao ocupante do Posto Inicial de Oficial o grau universitário de Bacharel em Ciências Policiais de Segurança e Ordem Pública, e será atribuído pela Academia de Polícia Militar do Barro Branco.
+    (...)
+    Artigo 17 - O Poder Executivo regulamentará esta lei complementar no prazo de 180 (cento e oitenta) dias a contar de sua publicação.”
+    Seguindo essa orientação, o Poder Executivo Estadual expediu o Decreto 54.911/2009, cujo artigo 57 instituiu a exigência de exame psicológico para a aprovação no concurso, verbis:
+    “Artigo 57 - O concurso público de admissão ao Bacharelado em Ciências Policiais de Segurança e Ordem Pública constará de provas e títulos.
+    § 1º - As etapas do concurso a que se refere este artigo serão as seguintes:
+    1. prova escrita, em nível de Ensino Médio;
+    2. prova de condicionamento físico;
+    3. exames de saúde;
+    4. exames psicológicos;
+    5. avaliação da conduta social, reputação e idoneidade;
+    6. análise da documentação para comprovação de requisitos de ingresso e atribuição de títulos.”
+    4. A Súmula Vinculante 44 preceitua que: “só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público”. Ou seja, a exigência de exame psicotécnico nos concursos públicos, como requisito ou condição necessária ao acesso a determinados cargos públicos, somente é possível, nos termos do que prescreve a Constituição Federal, se houver lei em sentido material (ato emanado do Poder Legislativo) que assim autorize, além da previsão em edital do certame. A lógica subjacente a esta exigência é garantir um grau mínimo de objetividade e publicidade dos critérios que nortearão a avaliação psicotécnica, como forma de evitar favorecimentos indevidos.
+    5. No caso concreto, o exame psicotécnico, como requisito para ingresso no cargo público, está previsto no Decreto estadual nº 59.911/2009, art. 57, que regulamentou a Lei Complementar nº 1.036/2008, nos termos do art. 17. O edital do concurso público (DP-3/321/14), a que o reclamante concorreu, por sua vez, prevê expressa e detalhadamente em seu Capítulo IX a realização de exames psicológicos, como fase eliminatória, adotando para tanto critérios objetivos.
+    Ademais, a autorização legislativa para a exigência do exame psicotécnico no concurso para ingresso na Carreira está igualmente prevista expressamente na Lei nº 10.123/1968 (Lei Orgânica da Polícia), ainda em plena vigência, no artigo 36, que assim dispõe: “Artigo 36 – São requisitos gerais para matrícula nos cursos de formação ou nomeação para as carreiras policiais, além das estabelecidas especificamente para cada uma (…) VI – possuir temperamento adequado ao exercício da função policial, apurado em exame psicotécnico.”
+    Desse modo, ante a existência de autorização legislativa para a aplicação de exame psicotécnico no concurso em questão, impõe-se reconhecer a ausência de contrariedade à Súmula Vinculante 44.
+    5. Nessa linha de argumentação jurídica, os seguintes precedentes judiciais, tomados em decisão monocrática: Rcl. 25.230, Rel. Min. Dias Toffoli, Dje 5.10.2016; Rcl. 25.383, Rel. Min. Teori Zavascki, Dje 20.10.2016; Rcl. 24.176, Rel. Min. Edson Fachin, Dje 9.6.2016.
+    6. Por fim, cumpre assinalar que a questão da legalidade do edital do concurso público ou mesmo do Decreto estadual não é matéria objeto de discussão em sede de reclamação constitucional, que tem fundamentação vinculada, não servindo como remédio processual subsidiário.
+    7. Ante o exposto , forte no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação.
+    Publique-se.
+    Brasília, 22 de novembro de 2016.
+Ministra Rosa Weber
+Relatora
