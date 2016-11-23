@@ -1,0 +1,51 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Wesley Vitor Arantes, apontando como autoridade coatora o Ministro Nefi Cordeiro, Relator do HC nº 368.511/SP no Superior Tribunal de Justiça.
+    Os impetrantes sustentam, em síntese, que Wesley Vitor Arantes foi submetido a constrangimento ilegal pelo Superior Tribunal de Justiça que, ao conceder a ordem no HC nº 368.511/SP, para revogar a custódia de Valter da Silva Ribeiro, negou a extensão daquela decisão ao ora paciente.
+    Na visão da defesa, a situação jurídica processual do paciente seria idêntica à de Wesley Vitor Arantes, razão pela qual faria jus à revogação da prisão na forma do art. 580 do Código de Processo Penal.
+    Requer, liminarmente, a concessão da ordem para que a prisão preventiva do paciente seja revogada.
+    Examinados os autos, decido.
+    Transcrevo o teor da decisão ora questionada:
+    “Trata-se de habeas corpus no qual busca-se a revogação da prisão preventiva sob a alegativa de não estarem presentes os requisitos autorizadores, bem como o reconhecimento da ilegalidade do flagrante preparado/provocado, invocando para tanto a Súmula 145 do STF.
+    O acórdão combatido foi assim ementado (fls.12/16):
+    HABEAS CORPUS - TRÁFICO DE ENTORPECENTES - PRISÃO PREVENTIVA - ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO CAUTELAR – INOCORRENCIA.
+    Decisão suficientemente embasada na presença dos requisitos do artigo 312 Código de Processo Penal, acrescida dos indícios de autoria e materialidade delitiva.
+    PRIMARIEDADE, BONS ANTECEDENTES E VÍNCULOS COM O DISTRITO DA CULPA. As alegadas condições favoráveis do paciente não são fatores impeditivos da custódia cautelar. Pormenores que se inserem entre as obrigações exigidas de todos os cidadãos, não constituindo virtude ou atributo que possam ser invocados como certidão de caráter ilibado. ORDEM DENEGADA.
+    O paciente, VALTER DA SILVA RIBEIRO, foi denunciado pela prática do delito capitulado no artigo 33, caput, da Lei n. 11.343/06.
+    A liminar foi deferida.
+    Em seguida, o corréu Wesley Vitor Arantes peticionou requerendo a extensão dos efeitos da decisão que concedeu a liminar, ocasião em que foi determinada a análise no julgamento do mérito.
+    As informações foram prestadas.
+    O parecer do Ministério Público Federal foi pelo não conhecimento do writ, e na hipótese de conhecimento, pela sua concessão no sentido de deferir a liberdade provisória ao paciente. E, pelo indeferimento do pedido de extensão formulado pelo corréu.
+    Na origem, em contato telefônico com a unidade jurisdicional em 29/9/2016, foi noticiado que nos autos do processo n.0000224-59.2016.8.26.0621 foi expedida carta precatória em 21/9/2016 para fins de citação.
+    É o relatório.
+    DECIDO.
+    O decreto de prisão, assim dispôs (fls. 35/36):
+    Presentes os requisitos legais e por estar o autuado VALTER DA SILVA RIBEIRO em estado de flagrância quando detido, HOMOLOGO o flagrante.
+    Com as introduções advindas pela Lei n. 12.403, de 04 de maio de 2011, em vigor a partir de 04 de julho do mesmo ano, estando o auto de prisão em flagrante em condições de ser homologado - como na espécie cabe ao Juiz, na seqüência, deliberar,fundamentadamente, acerca das hipóteses previstas no art. 310, ines. II e III, do Código de Processo Penal.
+    Vale dizer, homologado o flagrante, deve o Juiz, após a manifestação do Ministério Público e, de ofício, em 48h (art. 322, parágrafo único, do CPP, aplicável por analogia): i) converter a prisão em flagrante em preventiva, quando presentes os requisitos constantes do art. 312 do CPP, e se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão elencadas no art. 319 do mesmo diploma, ou, então, ii) conceder liberdade provisória, com ou sem fiança.
+    Pois bem, no caso dos autos, a materialidade dos fatos e os indícios de autoria se encontram indelevelmente demonstrados pelas provas coligidas em solo policial.
+    Relatam os Policiais Civis que realizavam investigações com vistas a combater o tráfico de drogas. Que Carlos Alberto, Policial Civil seguia em em uma viatura policial pela Rua São Camilo, no Bairro Jardim São José, na cidade de Cruzeiro-SP, quando percebeu que um indivíduo que estava em meio à via pública fez sinal para o veículo no qual seguia, onde reduziu a velocidade para ver o que ele queria. Para sua surpresa, referido indivíduo, no caso o ora indiciado, perguntou-lhe se estava interessado em comprar papelote de cocaína.
+    Consta que o policial Carlos Alberto alegou que estava interessado em comprar quatro papelotes e passaram a discutir o custo do entorpecente. Assim, o indiciado foi até a frente da residência de n° 90 da rua supracitada, onde o indiciado conversou com outro indivíduo de nome VVesley, sendo que este último entrou no portão da residência e pegou algo escondido na caixa de correios e entregou a Valter.
+    Consta, ainda, que o indiciado entregou ao policial Carlos Alberto um invólucro plástico acondicionando porção dc substância em pó, semelhante a cocaína,oportunidade que Carlos Alberto segurou o indiciado pelo braço, dando-lhe voz de prisão, identificando-se como policial, sendo que Wesley conseguiu fugir.
+    O auto de constatação preliminar resultou positivo para cocaína.
+    De outra banda, as circunstâncias do fato e as condições pessoais do autuado indicam pela necessidade de conversão da prisão em flagrante em preventiva, como forma de se salvaguardar a ordem pública.
+    A infração praticada atinge a saúde pública e promove intranqüilidade e violência no seio da sociedade, sendo responsável pelo aumento do número de infrações em geral, notadamente contra o patrimônio, cometidas por usuários que no afã de sustentar o vício e sem recursos materiais passam a atentar contra o patrimônio alheio.
+    Pelos mesmos fundamentos, observo não ser viável a substituição da prisão preventiva por nenhuma das hipóteses listadas no art. 319 do Código de Processo Penal.
+    Diante do exposto, por entendê-la necessária à garantia da ordem pública, visto que insuficiente sua substituição por alguma das medidas cautelares previstas no art. 319 do CPP, CONVERTO a prisão em flagrante em preventiva em desfavor de VALTER DA SILVA RIBEIRO, com esteio no art. 312 do CPP.
+    Como já adiantado no exame da liminar, o decreto de prisão não traz qualquer motivação concreta para a prisão do paciente Valter da Silva Ribeiro, fazendo referência às circunstâncias já elementares do delito, valendo-se de fundamentação abstrata e com genérica regulação da prisão preventiva, além de presunções e conjecturas, evidenciando a ausência de fundamentos para o decreto prisional.
+    Não se tendo no tema, com a clara motivação genérica, divergência nesta Sexta Turma do Tribunal, reconheço a ilegalidade arguida.
+    Outrossim, quanto ao pedido de extensão formulado às fls.63/98 pelo corréu Wesley Vitor Arantes, quanto ao benefício concedido ao paciente, há de observar que a constrição quanto àquele justifica-se pela fuga do distrito da culpa.
+    Motivo pelo qual, indefiro a extensão dos efeitos do benefício concedido ao corréu Wesley Vitor Arantes, diante da ausência de identidade fático-processual, nos termos do art.580 do CPP.
+    Ante o exposto, concedo o habeas corpus, para a soltura do paciente VALTER DA SILVA RIBEIRO, o que não impede nova e fundamentada decisão de necessária cautelar penal, inclusive menos gravosa do que a prisão processual, ex vi do inc. XVIII do art. 34 do RISTJ, tendo em vista que a decisão impugnada está em manifesto contraste com a jurisprudência dominante desta Corte Superior, e indefiro o pedido de extensão desta decisão ao corréu WESLEY VITOR ARANTES” (anexo 2 - grifos do autor)
+    Como visto, a impetração volta-se contra decisão singular proferida no bojo do HC nº 368.511/SP. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente.” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14)
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ainda que assim não fosse, anoto que o fundamento adotado pelo Ministro Nefi Cordeiro para negar a extensão daquele habeas corpus ao paciente, na forma do art. 580 do Código de Processo Penal, remanesce na ausência de identidade pelo fato de ele ter empreendido fuga do distrito da culpa.
+    Esse entendimento, consoante a tranquila jurisprudência da Corte, legitima a prisão preventiva. Confira-se:
+    “Habeas Corpus. Presença dos requisitos previstos no art. 312 do Código de Processo Penal. Fuga. Cautelaridade demonstrada. Pedido de extensão. Art. 580 do CPP. Impossibilidade. Ausência de comprovação da similitude entre as situações dos corréus. Ordem denegada. Presentes os requisitos previstos no art. 312 do Código de Processo Penal, legal é a manutenção da prisão preventiva do paciente. Ademais, é da jurisprudência desta Corte o entendimento de que ‘a fuga do réu do distrito da culpa justifica o decreto ou a manutenção da prisão’ (HC 106.816/PE, rel. min. Ellen Gracie, DJe nº 117, publicado em 20.06.2011). Por fim, o pedido de extensão de sentença absolutória de corréu, fundada em que este seria o elo entre o paciente e o fato delituoso, não pode ser atendido em habeas corpus, pois demanda aprofundado exame de fatos e provas, matéria de competência do Tribunal do Júri, que poderá, em tese, estabelecer outra relação entre o paciente e o crime. Ordem denegada.” (HC nº 96.117/RJ, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 18/4/13)
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 23 de novembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
