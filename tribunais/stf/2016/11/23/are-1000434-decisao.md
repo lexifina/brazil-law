@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado da Paraíba consignou, em síntese:
+    CONSTITUCIONAL e ADMINISTRATIVO – Remessa necessária e apelação cível – Ação ordinária de cobrança – Servidor público municipal – Regime jurídico estatutário - Pretensão ao adicional de insalubridade – Direitos Sociais – Art. 7º c/c o art. 39, § 3º, CF/88 – Ausência de previsão constitucional – Princípio da legalidade – Art. 37, “caput”, CF/88 – Lei local – Necessidade – Existência – Não comprovação - Pagamento - Impossibilidade – Reforma da decisão – Provimento.
+    - “Aplica-se aos servidores ocupantes de cargo público o disposto no art. 7º, IV, VII, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII e XXX, podendo a lei estabelecer requisitos diferenciados de admissão quando a natureza do cargo o exigir.“ (art. 39, §3º., CF/88).
+    - Não havendo previsão expressa na Carta Magna quanto ao direito dos servidores públicos civis perceberem adicional de insalubridade, essa possibilidade encontra óbice no princípio da legalidade administrativa, que está previsto no “caput” do art. 37 da CF/88, segundo o qual, ao contrário do particular que pode realizar tudo aquilo que não é proibido pelo ordenamento jurídico, deve o administrador cumprir e realizar tudo aquilo que a lei determina que seja feito.
+    - Para o Supremo Tribunal Federal, como não há na Constituição da República preceito que determine expressamente o pagamento de adicional de insalubridade a servidores públicos civis, este só poderá ser concedido se houver previsão em lei.
+    No extraordinário cujo processamento busca alcançar, o recorrente aponta violados os artigos 7º, inciso XXIII, e 37, cabeça, da Constituição Federal. Afirma a incorreção do decidido. Sustenta o direito ao adicional pleiteado, aludindo às Lei nº 281/1992 e 989/2014.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    Dá análise dos preceitos supratranscritos, tem-se que a concessão do adicional de insalubridade foi suficientemente regulamentado pela edilidade promovida apenas a partir da edição da Lei nº 989/14, quando a passou o apelante a pagar aos seus garis a verba em discussão. No período anterior a abril de 2014 não havia legislação específica local assegurando a autora/apelada a percepção do adicional de insalubridade.
+    Diante disso, como a autora não demonstrou que no período anterior a Lei Municipal nº 989/14 havia lei regulamentando o adicional de insalubridade, a sentença primeva merece reforma, para afastar a condenação da edilidade nos valores retroativos a abril de 2014.
+    Assim, havendo omissão quanto à edição de lei no período anterior a abril de 2014, não há como albergar a pretensão manejada, ainda que o ambiente de trabalho se enquadrasse em uma situação inóspita.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação da Lei Municipal nº 281/1992 e da Lei Complementar Municipal nº 989/2014. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 23 de novembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
