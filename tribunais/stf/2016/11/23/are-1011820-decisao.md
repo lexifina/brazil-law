@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Anulação de auto de infração e desconstituição do crédito tributário – ITCMD – Doação – Admissibilidade- Sentença mantida. Recurso improvido.
+    1. Retificação da Declaração do Imposto de Renda do doador excluindo o autor da ação como recebedor;
+    2. Autor não sujeito ao pagamento do ITCMD e anulação do respectivo AIIM”.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição da República, aponta-se violação aos arts. 1º; 2º; 5º, caput e LXIX; 18; 24, I, §3º; 25 a 28; 146, III, “a”; 150 a 152 do Texto Constitucional.
+    Nas razões recursais, sustenta-se que a ausência de lei complementar acerca do ITCMD não retira a competência tributária plena da parte Recorrente.
+    Nesse sentido, assevera-se pela aplicação do art. 4º, II, “b”, da Lei 10.705/2000 do Estado de São Paulo
+    A Presidência do Colégio Recursal Central dos Juizados Especiais de São Paulo inadmitiu o recurso extraordinário, por ausência de prequestionamento.
+    É o relatório.
+    Inicialmente, verifico que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido e da realidade processual, o que torna aplicável ao caso o enunciado da Súmula 284 do STF.
+    Isto porque a parte Recorrente sustenta a competência plena para instituir o ITCMD, a despeito de lei complementar de índole nacional.
+    Por outro lado, convém reproduzir o assentado pelo Tribunal de origem:
+    “Como bem registrado a quo, o doador realizou a retificação da sua Declaração de Imposto de Renda (fls. 21/27) de exercício de 2011 para que constasse o real donatário, ou seja, Sr. Alena Machado de Barros e não o autor da ação como estava consignado.
+    Tanto é verdade que na declaração de doação de fls. 28/30 consta como recebedora Alena Machado de Barros (…) Sendo assim, restou comprovado que o autor não recebeu os valores à título de doação.
+    Via de consequência, restou comprovado que o autor não recebeu os valores à título de doação.”
+    Por conseguinte, a razão de decidir do acórdão recorrido foi a ausência de fato gerador no caso concreto. Assim, verifica-se que as razões recursais não se mostram suficientes para afastar os fundamentos da decisão recorrida.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MULTA. CARÁTER CONFISCATÓRIO. RAZÕES DISSOCIADAS. IMPOSSIBILIDADE ANÁLISE DO RECURSO. SÚMULAS 283 E 284/STF. 1. O acórdão recorrido afirmou ser inviável a discussão acerca da exigibilidade da multa em sede de exceção de pré-executividade. Por outro lado, as razões do recurso extraordinário limitaram-se a pugnar pelo reconhecimento do caráter confiscatório da penalidade. Nota-se, então, que os argumentos apresentados no recurso extraordinário estão dissociados dos fundamentos do acórdão recorrido. Nessas condições, a hipótese atrai a incidência das súmulas 283 e 284/STF. 2. Agravo regimental a que se nega provimento.” (ARE 707173 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJE-075 DIVULG 22-04-2015 PUBLIC 23-04-2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE DO APELO EXTREMO. SÚMULA 284 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. I O recorrente não impugnou especificadamente os fundamentos do acórdão recorrido. Inviável, portanto, o recurso extraordinário, a teor da súmula 284 do STF. Para se chegar à conclusão contrária à adotada pelo acórdão impugnado, seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. - Agravo regimental a que se nega provimento.” (RE 718.234-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 9.12.2013).
+    Mesmo que assim não fosse, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo  acerca da ocorrência de fato jurídico com aptidão para propiciar a obrigação tributária demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, inclusive de índole local, de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO – ITCMD. JUROS LEGAIS E MULTA. 1. Reserva de plenário. Ausência de contrariedade ao art. 97 da Constituição da República. Inexistência de declaração de inconstitucionalidade de lei federal. Precedentes. 2. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 3. Agravo regimental ao qual se nega provimento”
+(ARE 768206 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 29.10.2013)
+    “Agravo regimental no agravo de instrumento. ITCMD. Base de cálculo. Vedação às deduções do montante partilhável. Alegação de que a tributação sobre o valor integral desse montante não teria caráter confiscatório. Ofensa meramente reflexa. 1. A conformação do critério quantitativo, da forma elastecida adotada pela lei estadual, com a definição de base de cálculo que se extrai da norma geral, é questão prejudicial à conclusão pelo reconhecimento do caráter confiscatório. Resta, assim, evidenciado, tratar-se de contencioso de mera legalidade. 2. Mesmo se restasse superada a questão de a ofensa ser de ordem infralegal, cumpre observar que a vedação das deduções deforma a regra matriz de incidência do imposto, fazendo incidir tributo onde não há base imponível. 3. Agravo regimental não provido.”
+(AI 733976 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 06.02.2013)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 23 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
