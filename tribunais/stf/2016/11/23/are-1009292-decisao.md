@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “EMBARGOS À EXECUÇÃO FISCAL - MULTA AMBIENTAL - QUEIMA DE PALHA DE CANA - INFRATORA AUTUADA NOS TERMOS DA LEI Nº 997/76 E DO DECRETO Nº 8.468/76 - NULIDADE DO TÍTULO EXECUTIVO - INOCORRÊNCIA - QUEIMA EFETUADA PELO FORNECEDOR, A BENEFÍCIO DA EMBARGANTE - RECURSOS OFICIAL E VOLUNTÁRIO DA FAZENDA DO ESTADO PROVIDOS.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, “b” e “c”, da Constituição da República, aponta-se violação aos arts. 5º, LIV e LV, e 225, §3º, do Texto Constitucional.
+    Nas razões recursais, sustenta-se ofensa aos princípios da legalidade, contraditório e à ampla defesa, em decorrência da exigência de prévio recolhimento do valor integral da multa.
+    Assevera-se, ainda, a inexistência de responsabilidade da compradora em termos de responsabilização ambiental, porquanto a parte Recorrente teria simplesmente adquirido cana-de-açúcar queimada.
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o recurso extraordinário, por ausência de questão constitucional.
+    É o relatório.
+    De plano, verifica-se que no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa ao princípio do devido processo legal e consectários é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Ademais, ressalta-se que “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.” (Enunciado da Súmula 636 do STF)
+    Convém, ainda, reproduzir o assentado pelo Tribunal de origem:
+    “A autuação de que se originou a certidão de dívida ativa que embasa a presente execução constatou queima de palha de cana-de-açúcar fornecida à embargante. Isso é inequívoco. Trata-se de auto de infração lavrado por agente que goza de fé pública, e que contém todos os requisitos básicos exigidos por lei. Por advir de ato administrativo, possui presunção de certeza, que em nenhum momento é ilibada cabalmente pelo autor. Não há nos autos prova de que o agente responsável epla lavratura tenha agido a contraria a normativa de regência ou as regras técnicas de aferição do dano provocado.
+    À luz da Constituição da República, a responsabilidade do causador de danos ao meio ambiente é objetiva.”
+    Sendo assim, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo em relação à responsabilidade civil da parte Recorrente demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, inclusive de índole local, de modo a inviabilizar o processamento do apelo extremo.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. RESPONSABILIDADE CIVIL OBJETIVA SOLIDÁRIA. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(RE 679676 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 05.03.2013)
+    “Agravo Regimental em agravo de instrumento. 2. administrativo. Meio Ambiente. 3. Alegação de ofensa ao princípio da reparação integral do dano. Necessidade de análise e interpretação de normas infraconstitucionais e de revisão do conjunto fático-probatório dos autos. Impossibilidade. 4. Incidência do Verbete 279 da Súmula do STF. 5. Agravo regimental a que se nega provimento.”
+(AI 808549 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 05.03.2013)
+    “DIREITO AMBIENTAL E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. RESPONSABILIDADE POR DANO AO MEIO AMBIENTE. VAZAMENTO DE ÓLEO DO OLEODUTO DA REPAR QUE ATINGIU O RIO IGUAÇU. COMPETÊNCIA DA JUSTIÇA FEDERAL FIRMADA NO ACÓRDÃO DE ORIGEM. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. ALEGAÇÃO DE OFENSA AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. NATUREZA INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO RECORRIDO PUBLICADO EM 13.4.2010. (…) 6. Agravo regimental conhecido e não provido.” (RE 898716 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 14.10.2015)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 23 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
