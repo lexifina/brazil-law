@@ -1,0 +1,18 @@
+DECISÃO
+JÚRI – QUESITOS – IMPUGNAÇÃO – PRECLUSÃO.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Terceiro Tribunal do Júri do Estado do Ceará, no processo nº 2003.01.23411-6, condenou o paciente a 9 anos e 8 meses de reclusão, em regime inicial fechado, em virtude da prática do crime descrito no artigo 121, § 2º, incisos II e IV, combinado com o 14, inciso II (tentativa de homicídio qualificado por motivo fútil e com recurso que dificultou a defesa do ofendido), do Código Penal.
+    A defesa interpôs apelação no Tribunal de Justiça, sustentando a parcialidade do Conselho de Sentença, ante a influência da família da vítima. Disse da ocorrência de condenação prévia, afirmando ter sido a sentença elaborada anteriormente. Apontou cerceamento de defesa em razão da ausência de quesitação acerca da desistência voluntária ou do arrependimento eficaz. Aduziu descompasso entre o julgamento e as provas coligidas no processo. Sucessivamente, pleiteou a modificação da dosimetria da pena. A Primeira Câmara Criminal, ao desprover o recurso, afastou as preliminares veiculadas e entendeu harmônica a decisão dos jurados com os elementos de convencimento reunidos na instrução criminal. Assentou adequada a redução da reprimenda no patamar de 1/3.
+    No Superior Tribunal de Justiça, protocolou-se o recurso especial nº 1.190.774/CE, renovando-se a argumentação anteriormente expendida. A Quinta Turma desproveu-o, mas deferiu, de ofício, ordem de habeas corpus, reconhecendo a ausência de motivação na exasperação da pena-base. Embargos declaratórios foram desprovidos, considerada a inexistência de vícios. Formalizado recurso extraordinário, o Vice-Presidente negou-lhe seguimento.
+    O impetrante sustenta a nulidade do julgamento em razão da falta de quesitação acerca das teses atinentes à desistência voluntária e ao arrependimento eficaz. Destaca o caráter absoluto da invalidade, por implicar cerceamento de defesa. Diz incontroversos os fatos de que houve um único disparo contra a vítima e ter sido socorrida pelo paciente, que a levou até o hospital.
+    Requer, em âmbito liminar, a suspensão da eficácia do título condenatório até o exame final do habeas. No mérito, busca o reconhecimento da nulidade do julgamento realizado pelo Tribunal do Júri.
+    Anoto que esta impetração foi distribuída por prevenção, considerado o habeas corpus nº 95.774/CE, da relatoria de Vossa Excelência. A Primeira Turma do Supremo deferiu a ordem, nos termos do voto de Vossa Excelência, para declarar o direito do paciente de permanecer em liberdade até a preclusão maior do título condenatório.
+    A fase é de apreciação da medida acauteladora.
+    2. Embora relevante o fato de o paciente ter atuado a fim de salvaguardar o bem jurídico posto em risco – a vida da vítima –, a configurar, de início, arrependimento eficaz, consoante dispõe o artigo 15 do Código Penal, tem-se que, nos termos do artigo 484 do Código de Processo Penal, “[...] o presidente lerá os quesitos e indagará das partes se têm requerimento ou reclamação a fazer, devendo qualquer deles, bem como a decisão, constar da ata”. Há mais: o inciso VIII do artigo 571 do mesmo diploma prevê que as nulidades do julgamento em plenário, em audiência ou em sessão do tribunal devem ser arguidas logo depois de ocorridas. Verifica-se da ata da sessão que, presentes os defensores do paciente, após organizados, lidos e explicados os quesitos pelo Juiz Presidente, não houve impugnação.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 23 de novembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
