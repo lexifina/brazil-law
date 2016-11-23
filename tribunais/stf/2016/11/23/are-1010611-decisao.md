@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão de cuja ementa destaco:
+    “[...]
+    CTVA – INCORPORAÇÃO AO SALÁRIO DE CONTRIBUIÇÃO – RECÁLCULO DO SALDAMENTO
+    A C. SBDI-1 firmou o entendimento de que a parcela CTVA possui natureza salarial e deve ser incluída na base de cálculo das contribuições à FUNCEF. Isso porque, não obstante a variabilidade do valor da CTVA, a parcela tem caráter contraprestativo e reveste-se da qualidade de gratificação pelo exercício de cargo em comissão, à luz do art. 457, §1°, da CLT. Assim, a adesão do empregado ao novo plano de previdência privada não o impede de discutir o recálculo do saldamento do benefício em relação ao plano anterior e da reserva matemática, uma vez reconhecida a natureza salarial da parcela CTVA e determinada sua inclusão na base de cálculo das contribuições à FUNCEF. Precedentes.
+    [...]” (págs. 2-3 do documento eletrônico 15) .
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação aos arts. 5°, XXXVI, e 202, § 2° da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos e de cláusulas contratuais – o que é vedado pelas Súmulas 279 e 454 do STF – e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, cito o ARE 913.015-AgR/DF, Rel. Min. Rosa Weber, cuja ementa segue transcrita:
+    “EMENTA DIREITO PREVIDENCIÁRIO. INCLUSÃO DA PARCELA CTVA NO SALÁRIO DE CONTRIBUIÇÃO. REGRAS DE SALDAMENTO DO PLANO REG/REPLAN. ADESÃO A NOVO PLANO. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 19.12.2014. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido”.
+    No mesmo sentido, indico as seguintes decisões, entre outras: ARE 1.004.762/SP, de minha relatoria; ARE 1.004.456/SC, Rel. Min. Luiz Fux; ARE 1.003.737/DF, Rel. Min. Marco Aurélio; ARE 1.004.459/BA, Rel. Min. Gilmar Mendes; ARE 1.005.042/SC, Rel. Min. Celso de Mello.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
