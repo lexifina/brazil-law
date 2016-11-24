@@ -1,0 +1,8 @@
+Despacho:
+    1. Trata-se de ação direta de inconstitucionalidade, com pedido de medida cautelar, proposta pelo Partido Social Democrático – PSD Nacional, em face do § 3º, do art. 224, do Código Eleitoral, introduzido pelo art. 4º da Lei nº 13.165/2015, que estabelece a hipótese de novas eleições no caso de decisão da Justiça Eleitoral, com trânsito em julgado, que importe o indeferimento do registro, a cassação do diploma ou a perda do mandato de candidatos eleitos em pleito majoritário, independentemente do número de votos anulados.
+    2. A matéria submetida à apreciação desta Corte é de inequívoca relevância, bem como possui especial significado para a ordem social e a segurança jurídica. Isto porque a presente ação envolve a análise da compatibilidade dos atos normativos atacados com os art. 29, II, art. 46, bem como o art. 77, todos da Constituição Federal. Decorre disso, relevante discussão sobre a realização de novas eleições como critério exclusivo de sucessão nos pleitos majoritários.
+    3. Em face da presença dos requisitos legais, aplico o rito abreviado do art. 12 da Lei nº 9.868/1999, de modo a permitir a célere e definitiva resolução da questão. Assim, determino as seguintes providências: (i) solicitem-se informações à Presidência da República e à Presidência do Congresso Nacional, no prazo de dez dias; (ii) em seguida, encaminhem-se os autos ao Advogado-Geral da União para manifestação, no prazo de cinco dias; e, (iii) sucessivamente, colha-se o parecer do Procurador-Geral da República, também no prazo de cinco dias.
+          Intimem-se. Publique-se.
+          Brasília, 24 de novembro 2016.
+Ministro Luís Roberto Barroso
+Relator
