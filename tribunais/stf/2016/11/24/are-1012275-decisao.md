@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 2ª Turma Recursal do Rio Grande do Sul, que não reconheceu o efetivo desempenho do labor rural pela recorrente, em regime de economia familiar, a partir de 1981 (eDOC 52).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, XXXVI e LV, do texto constitucional.
+    Nas razões recursais, alega-se ofensa ao princípio do direito adquirido, uma vez que “a prova material no caso em baila não precisa preencher o período integral de carência” e que “a recorrente conseguiu demonstrar com clareza o preenchimento de todos os requisitos para galgar o benefício” (eDOC 55, p. 4).
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, no tocante à suposta ofensa aos princípios da ampla defesa, do contraditório e do devido processo legal, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Leis n. 8.213/1991 e 10.666/2003) e o conjunto probatório constante dos autos, consignou que não foi possível comprovar o exercício de trabalho rural, na modalidade alegada, referente ao período controverso. Nesse sentido, extrai-se o seguinte trecho da sentença, mantida pelos seus próprios fundamentos pelo acórdão impugnado, quanto a esse ponto:
+    “Inverossímil, assim, que a autora tenha morado no meio rural e trabalhado como agricultora em regime de economia familiar, no período de 1981 a 1991, porquanto seu companheiro desempenhou atividade urbana, inclusive em outra cidade, além de ela mesma.
+    Quanto ao período posterior, somente há prova da comercialização de produtos agrícolas para os anos de 2001, 2002, 2007 a 2012 e 2014, em nome do irmão. Todavia, além dos depoimentos das testemunhas, não há qualquer documento nos autos que relacione a autora à residência/economia familiar do irmão. Ademais, para o período a partir de 2007, há que se considerar que a autora recebe benefício de pensão por morte.
+    Assim, da análise do conjunto probatório, entendo que não restou demonstrado o efetivo desempenho do labor rurícola em regime de economia familiar pela parte autora no lapso a partir de 1981, porquanto despiciendo analisar o período anterior, já que não há pedido de averbação de tempo rural e tendo em vista que se exige o cumprimento de ao menos um terço da carência no período imediatamente anterior ao requerimento do benefício”. (eDOC 52, p. 8)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria integral. Trabalhador rural. Requisitos para concessão do benefício não demonstrados na origem. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência da Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido”. (ARE 648437-AgR/RJ, Rel. Min. Dias Toffoli, DJe 16.12.2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. TEMPO RURAL. COMPROVAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 946856-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 5.4.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de novembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
