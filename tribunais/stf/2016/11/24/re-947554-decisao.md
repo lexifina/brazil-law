@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “DIRETA DE INCONSTITUCIONALIDADE. Lei Complementar nº 259, de 12 de fevereiro de 2015, que dispõe sobre parcelamento do solo no Município de Franca. O ato legiferante visa, em essência, obrigar o plantio de árvores no passeio público, defronte do poder legislativo. Se a competência que disciplina a gestão administrativa é privativa do Chefe do Poder Executivo, a iniciativa do Legislativo imporia em violação frontal ao texto constitucional que consagra a separação dos poderes estatais. Criação de atribuições aos órgãos da Administração e de despesas sem dotação orçamentária. Ofensa aos artigos 5º: 47: II e XIV: e 144 da Constituição Paulista. Inconstitucionalidade configurada. Ação procedente.”
+    O recursão não deve ser admitido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência do Supremo Tribunal Federal, que decidiu ser inconstitucional lei de iniciativa do Poder Legislativo que desencadeia aumento de despesas públicas em matéria de iniciativa do chefe do Poder Executivo, bem como assentou ser de competência do Chefe do Poder Executivo leis que estruturam ou alterem órgãos ou secretarias da administração pública. Nesse sentido, vejam-se os seguintes precedentes:
+    “Ação Direta de Inconstitucionalidade. 2. Lei nº 9.162/1995 do Estado de São Paulo. Criação e organização do Conselho das Instituições de Pesquisa do Estado de São Paulo - CONSIP. 3. Estrutura e atribuições de órgãos e Secretarias da Administração Pública. 4. Matéria de iniciativa privativa do Chefe do Poder Executivo. 5. Precedentes. 6. Ação julgada procedente.” (ADI 3.751, Rel. Min. Gilmar Mendes).
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PARÁGRAFO ÚNICO DO ARTIGO 12 DA LEI 10789 DO ESTADO DE SANTA CATARINA. EMENDA PARLAMENTAR EM PROJETO DE LEI DE INICIATIVA RESERVADA. COMPETÊNCIA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. AUMENTO DE DESPESA. AUSÊNCIA DE PREVISÃO ORÇAMENTÁRIA.
+    1. Criação de gratificação – Pró-labore de Êxito Fiscal. Incorre em vício de inconstitucionalidade formal (CF, artigos 61, § 1º, II, a e c e 63, I) a norma jurídica decorrente de emenda parlamentar em projeto de lei de iniciativa reservada ao Chefe do Poder Executivo, de que resulte aumento de despesa. Parâmetro de observância cogente pelos Estados da Federação, à luz do princípio da simetria. Precedentes.
+    2. Ausência de prévia dotação orçamentária para o pagamento do benefício instituído pela norma impugnada. Violação ao artigo 169 da Constituição Federal, com a redação que lhe foi conferida pela Emenda Constitucional 19/98.
+    Ação direta de inconstitucionalidade julgada procedente.” (ADI 2.079, Rel. Min. Maurício Corrêa)
+    Dessa orientação não dissentiu o acórdão recorrido.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de novembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
