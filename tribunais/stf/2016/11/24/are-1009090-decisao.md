@@ -1,0 +1,28 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Santo Ângelo contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “AGRAVO INTERNO. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. MUNICÍPIO DE SANTO ÂNGELO. AGENTE TRIBUTÁRIA. GRATIFICAÇÃO DE PRODUTIVIDADE INDIVIDUAL. LEIS MUNICIPAIS Nº 1.578/92 E Nº 3.070/07.
+    1. Inobservado pelo Município as disposições da Lei Municipal nº 3.070/07, que modificou o art. 54 da Lei Municipal nº 1.256/90 (Estatuto dos Servidores Municipais), quanto à proporcionalidade da incorporação da GPI – gratificação de produtividade individual –, são devidas as diferenças, conforme apuração efetuada pela perícia.
+    2. Diante da declaração de inconstitucionalidade da Lei Estadual nº 13.471/2010 (Incidente de Inconstitucionalidade nº 70041334053 e Ação Direta de Inconstitucionalidade nº 70038755864) não mais prevalece a isenção dos entes públicos ao pagamento das custas, dos emolumentos e das despesas judiciais, exceto, relativamente ao Estado, quanto às despesas de condução do Oficial de Justiça.
+    NEGARAM PROVIMENTO AO AGRAVO INTERNO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 2º, 5º, XXXVI, 30 e 37, todos da Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Impende salientar, com relação à alegada ofensa à norma inscrita no art. 5º, inciso XXXVI, da Constituição, que a espécie ora em exame também não foge aos padrões acima mencionados, refletindo, por isso mesmo, possível situação de ofensa indireta às prescrições da Carta Política, circunstância essa que impede – como precedentemente já enfatizado – o próprio conhecimento do recurso extraordinário (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO).
+    Impõe-se observar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Cabe registrar, ainda, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Leis municipais nº 1.256/1990, nº 3.070/2007 e nº 3.515/2011), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado do Rio Grande do Sul, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-  -probatórios e em interpretação de direito local:
+    “A decisão monocrática analisou, em parte, a pretensão recursal, motivo pelo qual a transcrevo, ‘in verbis’ (fls. 247-251v):
+    ..............................................................................................
+    A incorporação da vantagem foi possibilitada pela Lei Municipal nº 3.070/07, que modificou o art. 54 da Lei Municipal nº 1.256/90 (Estatuto dos Servidores Municipais):
+    …..........................................................................................
+    Com o advento da Lei Municipal nº 3.515/2011, foi possibilitada a incorporação de 100% em parcela autônoma sobre a maior função (no caso, 150% do vencimento padrão).
+    Realizada perícia técnica, cotejando os demonstrativos de pagamento (fls. 82-93) e a legislação municipal pertinente, assim concluiu o perito, ‘in verbis’ (fls. 192-193):
+    Após exame minucioso dos contracheques e da legislação municipal que trata da GPI acostados constatou-se que a postulante somava 199 meses de tempo de serviço e 174 meses de tempo de GPI na competência de julho de 2007, o que lhe garantia, com base na Lei Municipal nº. 3070/07, o direito à incorporação de 10% em parcela autônoma sobre a maior função (no caso, 150% do vencimento padrão) e os 90% restantes sobre os 80% da GPI atual, totalizando os 100% de gratificação. Situação que permaneceu constante até a competência de novembro de 2007.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 24 de novembro de 2016.
+Ministro CELSO DE MELLO
+Relator
