@@ -1,0 +1,26 @@
+Decisão: Trata-se de embargos de divergência opostos contra acórdão da Primeira Turma que rejeitou embargos de declaração em agravo regimental em agravo de instrumento, assim ementado:
+    “Agravo regimental no agravo de instrumento. Trabalhista. Admissibilidade de recurso. Controvérsia infraconstitucional: ofensa constitucional indireta. Estabilidade sindical. Limite imposto pelo art. 522 da Consolidação das Leis do Trabalho. Recepção pela Constituição da República. Precedentes. Agravo Regimental ao qual se nega provimento”. (fl. 2.624)
+    Nas razões recursais, alega-se que a questão de fundo do recurso extraordinário possui grande relevância jurídica, merecendo ser submetida ao crivo do Plenário. (fl. 2.646)
+    O presente recurso submete-se ao regime jurídico anterior à Emenda Regimental 47/2012, tendo sido distribuído sem prévio juízo de admissibilidade e sem oportunidade para apresentação de contrarrazões pelo embargado.
+    É o relatório.
+    Decido.
+    O recurso não reúne condições para apreciação.
+    No caso, verifico que o embargante não se desincumbiu do ônus de proceder ao confronto analítico entre o precedente indicado e o acórdão embargado, restringindo-se à transcrição da ementa. Desse modo, não se vislumbra a satisfação da exigência contida na parte final do artigo 331 do RISTF, in verbis:
+    “Art. 331. A divergência será comprovada (…) mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados”.
+    Esse óbice decorre de requisito indispensável ao recurso uniformizador, consoante preceitua a Súmula 290 do Supremo Tribunal Federal:
+    “Nos embargos da Lei 623, de 19/2/1949, a prova da divergência far-se-á por certidão, ou mediante indicação do diário da justiça ou de repertório de jurisprudência autorizado, que a tenha publicado, com a transcrição do trecho que configure a divergência, mencionadas as circunstâncias que identifiquem ou assemelhem os casos”.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO NÃO ADMITIDO. AUSÊNCIA DE COTEJO ANALÍTICO. REDISCUSSÃO DO MÉRITO DO ACÓRDÃO OBJETO DO EXTRAORDINÁRIO. IMPOSSIBILIDADE. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. NÃO CONHECIMENTO. (...) 3. Cabe ao embargante, nos termos do art. 331 do RISTF, demonstrar o cotejo analítico entre o acórdão embargado e o paradigma invocado para fins de uniformização da jurisprudência, em sede de embargos de divergência. Precedentes. 4. Agravo regimental não conhecido com imposição de multa”. (ARE 732116 AgR-ED-EDv-AgR, rel. Min. Edson Fachin, Tribunal Pleno, DJe 14.10.2015)
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. DISSENSÃO JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS CASOS CONFRONTADOS. COTEJO ANALÍTICO. NÃO REALIZAÇÃO. ART. 331 DO RISTF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (AI 860037 AgR-ED-EDv-ED, rel. Min. Teori Zavascki, Tribunal Pleno, DJe 5.11.2014)
+    Ainda que assim não fosse, melhor sorte não teria a parte recorrente quanto à existência de divergência entre os julgados.
+    O acórdão embargado entendeu que para se concluir de forma diversa do acórdão recorrido quanto ao cabimento de dissídio coletivo seria necessária a análise prévia da legislação infraconstitucional, bem como que as alegações de afronta aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal poderiam configurar apenas ofensa constitucional indireta. (fl. 2.620)
+    De outro modo, os paradigmas invocados tratam do mérito de ações diretas de inconstitucionalidade, que não contemplam a análise dos requisitos de admissibilidade de um recurso extraordinário. Observa-se assim ausência de similitude fática entre os acórdãos paradigmas e a decisão recorrida.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. REQUISITO FORMAL AUSENTE. NÃO CABIMENTO. 1. São incabíveis embargos de divergência contra acórdão proferido em julgamento de agravo interno, o qual teve o seguimento negado por ausência de requisitos processuais, sem adentrar no mérito da questão jurídica. 2. Agravo regimental a que se nega provimento”. (RE 350120 AgR-EDv-AgR, rel. Min. Edson Fachin, Tribunal Pleno, DJe 27.10.2015)
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DEMONSTRAÇÃO DO DISSENSO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. INADMISSIBILIDADE DE EMBARGOS DE DIVERGÊNCIA OPOSTOS CONTRA DECISÃO QUE NÃO ADENTRA NO MÉRITO DE RECURSO, POR AUSÊNCIA DE PRESSUPOSTOS PROCESSUAIS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (RE 611405 AgR-ED-EDv-AgR, rel. Min. Teori Zavascki, Tribunal Pleno, DJe 16.3.2016)
+    Ante o exposto, considerada sua manifesta inadmissibilidade, nego seguimento aos embargos de divergência (art. 932, III, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de novembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
