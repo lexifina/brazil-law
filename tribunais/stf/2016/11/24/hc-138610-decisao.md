@@ -1,0 +1,61 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Cristiano da Cruz Silva, apontando como autoridade coatora o Ministro Jorge Mussi, do Superior Tribunal de Justiça, que não conheceu do HC nº 320.971/SP.
+    O impetrante sustenta, em síntese,
+    “o Tribunal de Justiça anulou a decisão absolutória do Conselho de Sentença e determinou a submissão do paciente a novo julgamento sob o argumento de que a decisão seria contrária à prova dos autos, uma vez que os jurados, depois de terem reconhecido a participação do réu no crime, votaram afirmativamente ao quesito relativo à absolvição (Art. 483, III), absolvendo-o.”
+    Para a defesa,
+    “se a própria lei admite ao jurado absolver depois de reconhecer, pela prova dos autos, a participação do acusado no crime, é óbvio que a decisão absolutória decorrente da resposta afirmativa ao quesito obrigatório não pode ser desconstituída pelo fundamento do Art. 593, III, ‘b’, do Diploma Processual, ou seja, por suposta contrariedade à prova dos autos, pois, como assentado, a Lei n.º 11.689/2008 veio permitir que o jurado absolva o réu por razões jurídicas ou extrajurídicas, inclusive por sentimento de justiça, sem vinculação necessária às provas dos autos, como forma de conferir maior tutela ao sagrado direito de liberdade.” (grifos do autor)
+    Nesse contexto, requer o deferimento da liminar para suspender os “efeitos da condenação imposta nos autos da ação penal n.º 0008718-79.2008.8.26.0624, expedindo-se em favor do paciente alvará de soltura clausulado, até o julgamento final deste writ.” (grifos do autor)
+    No mérito, pleiteia-se a concessão da ordem para
+    “anular o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que determinou a submissão do paciente novo julgamento pelo Tribunal do Júri, nos autos da Ação Penal n.º 0008718-79.2008.8.26.0624 e, em consequência, anular todos os atos subsequentes à decisão impugnada, restabelecendo o veredicto absolutório proferido pelo egrégio Conselho de Sentença por ocasião do primeiro julgamento (...)” (grifos do autor)
+    Examinados os autos, decido.
+    Transcrevo o teor da decisão ora questionada.
+    “Trata-se de habeas corpus com pedido liminar impetrado em favor de CRISTIANO DA CRUZ SILVA, apontando como autoridade coatora a 3ª Câmara Criminal Extraordinária do Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 0008718-79.2008.8.26.0624.
+    Noticiam os autos que o paciente foi pronunciado como incurso no artigo 121, § 2º, incisos II, III e IV, na forma do artigo 29, ambos do Código Penal, tendo sido absolvido pelo Conselho de Sentença.
+    Contra a decisão, o Ministério Público interpôs recurso de apelação, que foi provido para que o réu fosse submetido a novo julgamento pelo Tribunal do Júri, ocasião em que restou condenado à pena de 6 (seis) anos e (6) seis meses de reclusão, em regime inicial fechado, pela prática do delito de homicídio simples.
+    Inconformada, a defesa apelou, tendo o reclamo sido desprovido, sobrevindo o trânsito em julgado da decisão.
+    Sustenta o impetrante que a absolvição derivada de resposta afirmativa ao quesito obrigatório consistente na indagação aos jurados se absolvem o réu não poderia ser desconstituída por meio de apelação com fundamento no artigo 593, inciso III, alínea ‘d’ do Código de Processo Penal.
+    Afirma que no primeiro julgamento a defesa teria arguido 4 (quatro) teses defensivas, tendo o órgão acusatório recorrido da sentença absolutória sob o fundamento de que o reconhecimento da coação moral irresistível não encontraria amparo na prova dos autos, omitindo, assim, a presença de outros 3 (três) argumentos que poderiam amparar a decisão dos jurados, o que seria ilegal.
+    Alega que, com o advento da Lei 11.689/2008, a absolvição do acusado não precisaria estar vinculada às teses defensivas, podendo o Conselho de Sentença assim decidir por qualquer motivo.
+    Salienta que este Sodalício já teria decidido que a absolvição fundada no artigo 483, § 2º do Código de Processo Penal seria válida mesmo quando respondidos afirmativamente os quesitos relativos à autoria ou participação.
+    Argumenta que, não sendo possível saber os motivos que levaram o Conselho de Sentença a absolver o paciente, não seria possível a desconstituição da decisão soberana dos jurados, motivo pelo qual o aresto que o submeteu a novo julgamento pelo Tribunal do Júri seria nulo.
+    Assevera que, existindo duas versões plausíveis a respeito do crime, o Conselho de Sentença poderia acolher aquela que mais se aproximaria da verdade ou justiça, proceder que não autorizaria a interposição de apelação com fulcro na alínea ‘d’ do inciso III do artigo 593 do Código de Processo Penal.
+    Requer a concessão da ordem para que seja anulado o acórdão que submeteu o réu a novo julgamento pelo Tribunal do Júri, restabelecendo-se a sentença absolutória proferida em seu favor.
+    A liminar foi indeferida (e-STJ fls. 224/225), decisão que foi mantida por ocasião do julgamento do agravo regimental interposto pela defesa.
+    O Ministério Público Federal, em parecer de fls. 433/434,
+    manifestou-se pelo indeferimento do writ.
+    É o relatório.
+    Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso III da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+    Ainda que superado o referido óbice, verifica-se que a aventada nulidade do acórdão proferido no julgamento que determinou que o paciente fosse submetido a novo Conselho de Sentença não foi alvo de impugnação pela defesa no momento oportuno, tendo a eiva em questão sido arguida apenas no presente mandamus, impetrado após o desprovimento do reclamo interposto contra a sua condenação pelo corpo de jurados, o que revela a preclusão do exame do tema.
+    Com efeito, nos termos do artigo 571, inciso VIII, do Código de Processo Penal, as nulidades do julgamento em sessão do tribunal devem ser arguidas logo depois de ocorrerem.
+    Confira-se:
+    Art. 571. As nulidades deverão ser arguidas:
+    (...)
+    VIII - as do julgamento em plenário, em audiência ou em sessão do tribunal, logo depois de ocorrerem.
+    Assim, eventual vício na fundamentação do aresto que anulou a sessão do Tribunal do Júri em que o acusado restou absolvido, submetendo-o a novo julgamento, deveria ter sido arguido após a sua publicação, mediante a oposição de embargos de declaração ou da interposição de outro recurso cabível, não se podendo admitir que seja suscitado mais de 3 (três) anos após a sua prolação, depois de o réu já haver sido julgado e condenado pelo Conselho de Sentença, decisão que, inclusive, foi mantida em segundo grau de jurisdição.
+    Em casos semelhantes, assim tem decidido este Superior Tribunal de Justiça:
+    PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. TENTATIVA DE HOMICÍDIO QUALIFICADO. NULIDADE DO ACÓRDÃO QUE CASSOU A DECISÃO ABSOLUTÓRIA. QUESTIONAMENTO PRECLUSO. HABEAS CORPUS NÃO CONHECIDO.
+    1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+    2. Preclusa se encontra a arguição de nulidade por excesso de linguagem e violação à soberania do júri, no acórdão que reconheceu dar-se decisão manifestamente contrária à prova dos autos, quando se constata a denegação dos recursos então interpostos e se pretende renovar o questionamento do tema mais de quatro anos após o fato, quando inclusive já confirmada em apelo a condenação em novo julgamento do Júri. Precedentes desta Corte.
+    3. Habeas corpus não conhecido.
+    (HC 331.533/RO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/04/2016, DJe 25/04/2016)
+    RECURSO ESPECIAL. PENAL. HOMICÍDIOS QUALIFICADOS. (…) RECURSO ESPECIAL INADMITIDO. APRECIAÇÃO. INVIABILIDADE. PRECLUSÃO. (...)
+    13. Descabido o pedido de análise das matérias suscitadas no primeiro recurso especial interposto pelo recorrente contra o acórdão que anulou o segundo julgamento proferido pelo Tribunal do Júri. Destarte, transitada em julgado a decisão que inadmitiu o apelo excepcional, ficaram preclusas as questões nele suscitadas.
+    14. Recurso especial parcialmente conhecido e, nessa extensão, provido em parte, para reconhecer a violação parcial dos arts. 59 e 71, parágrafo único, do Código Penal, ficando redimensionadas as penas do recorrente, nos termos do voto.
+    (REsp 1248240/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2014, DJe 15/04/2014)
+    Ante o exposto, com fundamento no artigo 34, inciso XX, do Regimento Interno deste Superior Tribunal de Justiça, não se conhece do habeas corpus.” (anexo 2 – grifos do autor)
+    Como visto, a impetração volta-se contra decisão singular proferida pelo relator no bojo do HC nº 320.971/SP. Logo, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente.” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14)
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ainda que assim não fosse, a tese submetida à apreciação da Corte neste writ não foi analisada pelo Superior Tribunal de Justiça ao fundamento de que estaria acobertada pela preclusão. Confira-se:
+    “(...) verifica-se que a aventada nulidade do acórdão proferido no julgamento que determinou que o paciente fosse submetido a novo Conselho de Sentença não foi alvo de impugnação pela defesa no momento oportuno, tendo a eiva em questão sido arguida apenas no presente mandamus, impetrado após o desprovimento do reclamo interposto contra a sua condenação pelo corpo de jurados, o que revela a preclusão do exame do tema.
+    (…)
+    Assim, eventual vício na fundamentação do aresto que anulou a sessão do Tribunal do Júri em que o acusado restou absolvido, submetendo-o a novo julgamento, deveria ter sido arguido após a sua publicação, mediante a oposição de embargos de declaração ou da interposição de outro recurso cabível, não se podendo admitir que seja suscitado mais de 3 (três) anos após a sua prolação, depois de o réu já haver sido julgado e condenado pelo Conselho de Sentença, decisão que, inclusive, foi mantida em segundo grau de jurisdição.” (grifos nossos)
+    Portanto, sua análise, de forma originária, neste ensejo configuraria inegável dupla supressão inadmissível. Nesse sentido: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Registre-se, ademais, o entendimento do Supremo Tribunal Federal segundo o qual, “a arguição a destempo de nulidades processuais induz à preclusão da matéria.” (RHC nº 132.273/ES, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 13/10/16)
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 24 de novembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
