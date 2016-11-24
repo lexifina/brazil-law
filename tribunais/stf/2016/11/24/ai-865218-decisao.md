@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 2º, 5º, caput, § 2º, XXXVI, LIV, 37, caput, § 6º, 195, § 10, 197 e 199, § 1º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+     Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido: RE 553.749, Rel. Min. Gilmar Mendes, DJe 11.10.2010, AI 861.964, Rel. Min. Celso de Mello, DJe 04.3.2015, RE 603.621, Rel. Min. Ricardo Lewandowski, AI 689.409, Rel. Min. Dias Toffoli, ARE 851.891, Rel. Min. Teori Zavascki, DJe 09.02.2015, ARE 856.973-AgR, Rel. Min. Marco Aurélio, 1ª Turma, DJe 15.4.2013 e o AI 656.062-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.3.2009, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SISTEMA ÚNICO DE SAÚDE – SUS. TABELA DE SERVIÇOS. CONVERSÃO EM REAL. PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL NÃO DEMONSTRADO. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Acresço, por oportuno, que esta Suprema Corte manifestou-se no sentido da inexistência de repercussão geral da matéria relativa ao reajuste das tabelas de serviços do Sistema Único de Saúde em virtude da implantação do Plano Real nos autos do RE 602.324-RG, Rel. Min. Ellen Gracie, Pleno, DJe 18.12.2009, verbis:
+    “TABELAS DOS SERVIÇOS PRESTADOS PELO SISTEMA ÚNICO DE SAÚDE - SUS. PLANO REAL. CORREÇÃO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Por fim, suscitada nas razões do apelo extremo (fl. 225) afronta ao ato jurídico perfeito “na estrita dicção do art. 6º, § 1º, da Lei de Introdução ao Código Civil”, o Plenário desta Casa manifestou-se também pela inexistência de repercussão geral da questão:
+    “Recurso extraordinário representativo da controvérsia. Aplicação retroativa de lei mais benéfica às infrações de trânsito. Exegese das normas de trânsito. Interpretação realizada à luz das normas do Código Brasileiro de Trânsito revogado e do vigente. Matéria eminentemente infraconstitucional. Ausência de repercussão geral.
+    1. Não apresenta repercussão geral o recurso extraordinário que discute efeitos de normas de trânsito revogadoras e revogadas.
+    2. É pacífica a jurisprudência da Corte no sentido de que os conceitos dos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada não se encontram na Constituição Federal, senão na legislação ordinária, mais especificamente na Lei de Introdução às Normas do Direito Brasileiro.
+    3. Ausência de repercussão geral.” (RE 657.871-RG, Rel. Min. Dias Toffoli, Pleno, DJe 17.11.2016)
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de novembro de 2016.
+Ministra Rosa Weber
+Relatora
