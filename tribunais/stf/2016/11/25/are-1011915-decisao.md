@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de decisão do Tribunal de Justiça de Rondônia que negou seguimento a agravo apresentado contra decisão do juízo de primeiro grau, nos autos da impugnação à execução de sentença, por entender não obedecido o inciso I, do artigo 525, do Código de Processo Civil, eis que não apresentado pela parte “procuração/substabelecimento do agravante para as advogadas (…), conforme certificado à fl. 96” (e-DOC 7, p. 16).
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, alega-se violação do artigo 5º, XXI, da Constituição da República. Aduz-se, em suma, ofensa ao princípio da segurança jurídica, sob os seguintes argumentos:
+    “aos estender os efeitos da sentença proferida em ação civil pública aos não associados da entidade associativa, o Tribunal a quo também afronta o princípio constitucional da segurança jurídica. Isso porque, caso se permita que poupadores não associados promovam a execução da sentença, será desconsiderado que tais indivíduos deixaram transcorrer, inertes, o prazo prescricional de 20 (vinte) anos previsto no Código Civil de 1916 para a propositura da ação individual e viola, por conseguinte, todo o sistema jurídico pátrio” (e-DOC 10, p. 1).
+    É o relatório. Decido.
+    De plano, constato que as razões recursais não atacam os fundamentos do acórdão recorrido. O Tribunal de Justiça de Rondônia, em decisão monocrática ratificada em agravo regimental, negou seguimento a agravo diante da inércia da parte em juntar documento imprescindível à interposição de recurso, de acordo com a exigência legal.
+    No recurso extraordinário, todavia, a argumentação refere-se à extensão dos efeitos da sentença a quem, segundo o Recorrente, não seria parte legitimada. A incompatibilidade entre as razões expendidas no recurso e as que fundamentaram o acórdão recorrido atrai a incidência das Súmulas 282 e 284 do STF, a obstar o seguimento do recurso extraordinário.
+    Ademais, mesmo que assim não se entendesse, quanto aos pressupostos de admissibilidade de recursos de competência de outros Tribunais, a Corte, no julgamento do RE-RG 598.365, de relatoria do Ministro Ayres Britto, DJe 26.03.2010 (Tema 181), entendeu pela ausência de repercussão geral da questão suscitada, dado que as ofensas à Carta Magna, caso existentes, ocorreriam de modo indireto ou reflexo.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 25 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
