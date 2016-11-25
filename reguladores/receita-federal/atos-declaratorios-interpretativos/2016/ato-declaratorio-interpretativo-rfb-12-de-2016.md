@@ -1,0 +1,6 @@
+Ato Declaratório Interpretativo RFB nº 12, de 23 de novembro de 2016
+Dispõe sobre a isenção de Imposto sobre a Renda nas aplicações em Certificado de Direitos Creditórios do Agronegócio e Certificado de Recebíveis do Agronegócio.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 3º da Lei nº 11.033, de 21 de dezembro de 2004, e no art. 37 da Lei nº 11.076, de 30 de dezembro de 2004, declara:
+Art. 1º Enquadra-se no conceito de remuneração para fins da isenção prevista no inciso IV do art. 3º da Lei nº 11.033, de 21 de dezembro de 2004, a parcela da variação cambial paga pelo Certificado de Direitos Creditórios do Agronegócio (CDCA) e pelo Certificado de Recebíveis do Agronegócio (CRA) emitidos com cláusula de correção pela variação cambial nos termos do § 4º do art. 25 e do § 3º do art. 37 da Lei nº 11.076, de 30 de setembro de 2004, respectivamente.
+Art. 2º Ficam modificadas as conclusões em contrário constantes em Soluções de Consulta ou em Soluções de Divergência emitidas antes da publicação deste Ato Declaratório Interpretativo, independentemente de comunicação aos consulentes.
+JORGE ANTONIO DEHER RACHID
