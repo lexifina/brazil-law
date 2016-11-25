@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5º, inciso XVIII, 146, inciso III, alínea “c”, e 174, § 2º, da Constituição Federal.
+    Anote-se a ementa da decisão proferida pelo Tribunal de origem:
+    “Apelação. Ação declaratória de inexistência de relação jurídico-tributária. Extinção sem julgamento do mérito. Inadmissibilidade. Sentença anulada. Aplicação do estatuído no artigo 515, § 3º, do diploma há pouco mencionado. Imposto sobre serviços de qualquer natureza. Cooperativa. Possibilidade de a autora firmar com terceiros, em nome dos associados, contratos de prestação de serviços. Incidência do imposto sobre receitas oriundas de atos não cooperativos. Precedentes do Superior Tribunal de Justiça. Pedido improcedente.”
+    Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem decidiu a controvérsia consignando que “apesar de tratar-se a autora de sociedade cooperativa, sem fins de lucro, regulada pela Lei 5.764/71, nem todos os seus atos podem ser conceituados como cooperativos. E sobre receitas provenientes dos que não se revistam dessa natureza, porém constituam prestação de serviços a terceiros, há de incidir o ISS, nos termos do artigo 87 da Lei 5.764/71 (...)”.
+    Dessa forma, para acolher ultrapassar o entendimento do Tribunal a quo e acolher a pretensão recursal, seria necessário o reexame da causa à luz do estatuto social do recorrente, do conjunto fático e probatório constante dos autos, bem como da legislação infraconstitucional pertinente (Lei nº 5.764/71 e LC nº 116/03). Eventual ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extraordinário. Incidência das Súmulas nºs 279 e 454 da Corte. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Tributário. ISS sobre atos cooperativos impróprios. Reexame de fatos e provas e de contrato social. Impossibilidade. Súmulas nºs 279, 280 e 454 desta Corte. 1. O Tribunal local, com base nos elementos probatórios do autos e na legislação infraconstitucional (Leis nºs 5.764/71, 5.641/89, 7.640/99, 8.464/02 e 8.725/03), consignou que a agravada presta serviços aos seus próprios cooperados. Alterar esse entendimento para análise dos argumentos expendidos pelo agravante requereria reexame das leis em comento, do contrato social e dos fatos e das provas que permeiam a lide, fato vedado nesta instância recursal. Incidência, na espécie, das Súmulas nºs 279, 280 e 454 do Supremo Tribunal Federal. 2. Agravo regimental não provido.” (AI nº 645.954/MG-AgR, Primeira Turma, de minha relatoria, DJe de 6/9/12).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito tributário. 3. ISS. Atividade tributada. Fato gerador. Lista de serviços anexa à LC 116/2003. 4. Necessidade de reexame de fatos e provas e legislação infraconstitucional. 5. Incidência das súmulas 279 e 280. 6. Precedentes. 7. Agravo regimental a que se nega provimento.” (ARE nº 788.816/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 18/11/16).
+    Na mesma direção: ARE nº 960.523/SP, Relator o Ministro Edson Fachin, DJe de 9/5/16; ARE nº 936.180/SP, Relator o Ministro Gilmar Mendes, DJe de 10/5/16; AI nº 747.626/DF, de minha relatoria, DJe de 16/5/12.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de novembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
