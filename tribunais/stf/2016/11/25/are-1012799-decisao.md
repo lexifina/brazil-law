@@ -1,0 +1,32 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, § 6º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Pretende a parte recorrente exclusão da responsabilidade estatal por acidente de trânsito, ao argumento de que o agente público envolvido foi absolvido na esfera criminal.
+    O entendimento adotado pelo Tribunal de origem não divergiu da jurisprudência firmada no âmbito desta Suprema Corte, quanto à independência das esferas cível, administrativa e penal, verbis:
+    “Agravo regimental no agravo de instrumento. Policial militar. Independência das esferas penal e administrativa. Processo administrativo disciplinar. Expulsão. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes.
+    1. O acórdão recorrido está em consonância com a jurisprudência desta Corte no sentido da independência entre as esferas penal e administrativa.
+    2. Para divergir do entendimento do Tribunal de origem, no sentido da regularidade do procedimento administrativo disciplinar que determinou a expulsão do ora agravante dos quadros da Polícia Militar, seria imprescindível a interpretação da legislação infraconstitucional pertinente e o reexame das provas dos autos, o que é inviável em recurso extraordinário. Incidência da Súmula nº 279 desta Corte.
+    3. Agravo regimental não provido.” (AI 681.487-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 01.02.2013)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. RESPONSABILIDADE DO SERVIDOR EM RELAÇÃO AOS SEUS DEVERES. AUTONOMIA DAS ESFERAS CÍVEL, PENAL E ADMINISTRATIVA. ABSOLVIÇÃO NA ESFERA PENAL POR AUSÊNCIA DE PROVAS. CONDENAÇÃO ADMINISTRATIVA À PERDA DO CARGO. INCABÍVEL O REEXAME DE FATOS E PROVAS. SÚMULA 279. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – A jurisprudência do Supremo Tribunal Federal é firme no sentido da autonomia das esferas cíveis, penais e administrativas no que concerne à imputação de responsabilidade de servidor público em relação aos seus deveres funcionais.
+    II – O julgamento na esfera administrativa não se vincula à decisão que, no processo-crime, absolveu o réu por ausência de provas. Inviável, nesta sede, o reexame do conjunto fático-probatório. Súmula 279 do STF.
+    III – Agravo regimental a que se nega provimento.” (RE 785.677-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 15.8.2014)
+    Ademais, não há falar em afronta ao texto constitucional porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise de matéria infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Noutro giro, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. COMPROVAÇÃO DE CULPA DO ESTADO. ACIDENTE EM VIA PÚBLICA. ART. 37, § 6º, CF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF.
+    1. A Súmula 279/STF dispõe verbis: Para simples reexame de prova não cabe recurso extraordinário.
+    2. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    3. In casu, o acórdão originariamente recorrido assentou: ‘CIVIL E PROCESSUAL CIVIL. ACIDENTE DE TRÂNSITO. RODOVIA FEDERAL. ANIMAL NA PISTA. COLISÃO. RESPONSABILIDADE OBJETIVA. AUTARQUIA RESPONSÁVEL PELA GUARDA E SINALIZAÇÃO DAS RODOVIAS FEDERAIS. OMISSÃO. INOCORRÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. TETRAPLEGIA DA VÍTIMA. DANOS PERMANENTES. SEQUELAS. INDENIZAÇÃO POR DANO MATERIAL E MORAL. FIXAÇÃO DE PENSÃO. CC/1916, ART. Nº 1.539. CUMULAÇÃO COM APOSENTADORIA POR INVALIDEZ. JURISPRUDÊNCIA DO COLENDO STJ.’
+    4. Agravo regimental desprovido.” (AI 855.343-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 05.9.2012)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Acidente. Animal na pista. Responsabilidade civil do Estado. Impossibilidade de reexame do conjunto fático-probatório. Súmula 279. 3. Agravo regimental a que se nega provimento.” (ARE 892.259-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 14.10.2015)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Lesão corporal. Menores sob custódia do Estado. FEBEM. Incêndio 3. Responsabilidade objetiva do Estado. Art. 37, § 6º, da Constituição Federal. Dever do Estado, na condição de garante, de zelar pela integridade física dos custodiados. Precedentes do STF. 3. Discussão acerca da existência ou não de culpa exclusiva das vítimas. Necessidade do reexame do conjunto fático-probatório. Súmula 279. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 669.001-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 14.5.2012)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de novembro de 2016.
+Ministra Rosa Weber
+Relatora
