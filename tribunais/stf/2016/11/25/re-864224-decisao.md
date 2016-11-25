@@ -1,0 +1,15 @@
+DECISÃO: O presente recurso extraordinário foi interposto por Glaxosmithkline Brasil Ltda. contra acórdão que, confirmado em sede de embargos de declaração pelo E. Superior Tribunal de Justiça, está assim ementado:
+    “AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. JUÍZO DO TRABALHO E JUÍZO FALIMENTAR. RECLAMAÇÃO TRABALHISTA EM FASE DE LIQUIDAÇÃO. RECONHECIMENTO DE GRUPO ECONÔMICO DE FATO FORMADO PELA SUSCITANTE E EMPRESA FALIDA. INDEFERIMENTO DA EXTENSÃO DOS EFEITOS DA FALÊNCIA À SUSCITANTE. QUESTÕES DECIDIDAS NO ÂMBITO DE CADA UM DOS JUÍZOS. INEXISTÊNCIA DE CONFLITO. TRÂNSITO EM JULGADO, ADEMAIS, DA SENTENÇA QUE RECONHECEU A SOLIDARIEDADE ENTRE AS EMPRESAS NA RECLAMAÇÃO TRABALHISTA. SÚMULA N.º 59/STJ. AGRAVO REGIMENTAL DESPROVIDO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no RE 864.264/DF, Rel. Min. TEORI ZAVASCKI, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. CONFLITO DE COMPETÊNCIA ENTRE OS JUÍZOS TRABALHISTA E FALIMENTAR. EXECUÇÃO DE SENTENÇA TRABALHISTA PROFERIDA CONTRA PESSOA JURÍDICA EM RECUPERAÇÃO JUDICIAL. LEGITIMIDADE DA CONSTRIÇÃO DE BENS DE PESSOA JURÍDICA QUE NÃO INTEGRAM O ACERVO DA MASSA FALIDA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. É de natureza infraconstitucional a controvérsia, fundada na interpretação da Lei 11.101/03, acerca da legitimidade da constrição, pelo Juízo Trabalhista, de bens pertencentes a pessoa jurídica do mesmo grupo econômico que empresa sob recuperação judicial, porém não integrantes da massa falida.
+    2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009).
+    3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do presente recurso extraordinário.
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 25 de novembro de 2016.
+Ministro CELSO DE MELLO
+Relator
