@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão denegatório da segurança. Destaco trecho do voto condutor:
+    “Sustenta a apelante ofensa ao contraditório e ao devido processo legal, pois não teria sido apreciada a defesa administrativa protocolada em 11.06.12 (f. 27-31-TJ), mesma data em que teria sido expedida a notificação de f. 33-TJ, que noticiou o início dos descontos no contracheque da apelante a partir de junho/2012.
+    Pelo documento de f. 25-TJ, percebe-se que o impetrado apurou o débito no montante de R$287.011,79 (duzentos e oitenta e sete mil, onze reais e setenta e nove centavos), tendo elaborado a planilha de f. 26-TJ e aberto à apelante a oportunidade de apresentar defesa administrativa.
+    Na defesa administrativa (f. 27-31-TJ), a recorrente alega o recebimento de boa-fé, que o valor é exacerbado, bem como a sua compensação com créditos remuneratórios decorrentes de diferenças de URV e da chamada equivalência salarial.
+    Ora, em relação à boa-fé, tal pleito já fora objeto de apreciação judicial, nos autos da ação ordinária nº 0024.11.326935-1, conforme decisão exarada por esta 3ª Câmara Cível, cujo recurso foi relatado pelo Des. Kildare Carvalho, ficando assim ementada:
+    ‘EMENTA: AÇÃO ORDINÁRIA - BENEFÍCIO PREVIDENCIÁRIO - VALORES RECEBIDOS POR FORÇA DE TUTELA ANTECIPADA POSTERIORMENTE REVOGADA - DESCONTO - REVERSIBILIDADE DA MEDIDA - PRECARIEDADE DO PROVIMENTO - ART. 273, § 2º, CPC - INCENSURÁVEL DESCONHECIMENTO DA LEI - BOA-FÉ NÃO CONFIGURADA - SENTENÇA REFORMADA’
+    […]
+    Ou seja, não há o que se discutir em relação à regularidade dos descontos, nem mesmo quanto ao abuso dos valores ou necessidade de compensação, pois o ato administrativo é revestido de legalidade, não infirmada pela apelante. Os valores foram detalhadamente descritos na planilha de f. 26-TJ e a pretensa compensação foge aos limites da presente lide” (pág. 49 do documento eletrônico 5).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXXV, LIV e LV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Observo que esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), Rel. Min. Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Além disso, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos o que é vedado pela Súmula 279 do STF e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
