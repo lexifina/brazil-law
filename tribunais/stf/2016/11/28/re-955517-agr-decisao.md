@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo regimental interposto em 05.05.2016, cujo objeto é decisão que negou seguimento a recurso extraordinário, sob o fundamento de que o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal, no sentido de que, diante da omissão legislativa, o Poder Judiciário pode fixar o vencimento básico do servidor como base de cálculo do adicional de insalubridade, vedado apenas alteração do indexador estabelecido em lei e vinculação ao salário mínimo.
+    A parte agravante alega que, “analisando-se os precedentes normativos que culminaram com a edição da súmula vinculante nº 4, denota-se com clareza que, acaso o Ente Federativo disponha de lei tratando do tema, não poderá o Poder Judiciário fazer as vezes do legislador positivo e fixar base de cálculo diversa”. Sustenta, ainda, que “o Egrégio Tribunal de Justiça de São Paulo deixou de observar referido critério, fixando como base de cálculo do adicional, os proventos integrais do servidor, o que não há como se admitir”.
+    Tal como constatou a decisão agravada, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que o Poder Judiciário pode fixar o vencimento básico do servidor como base de cálculo do adicional de insalubridade, vedado apenas alteração do indexador estabelecido em lei e vinculação ao salário mínimo.
+    Ocorre que, na hipótese dos autos, o acórdão recorrido determinou que “o adicional guerreado deve ser calculado sobre os proventos integrais, excluídas as verbas eventuais (alimentação, transporte, etc.)”.
+    Verifica-se, dessa forma, que, no ponto, o acórdão recorrido merece ser reformado, uma vez que, ao determinar como base de cálculo os proventos integrais do servidor, não observou o entendimento consolidado nesta Corte no sentido de que deve ser utilizado o vencimento básico para o cálculo do adicional de insalubridade.
+    Vale ressaltar que esse entendimento foi recentemente confirmado pelo Plenário do Supremo Tribunal Federal no julgamento do RE 672.634-AgR-EDv-AgR, sob a relatoria da Ministra Cármen Lúcia, que, ao negar provimento ao recurso, consignou que não há divergência entre as Turmas desta Corte.
+    Quanto à alegação da existência de lei tratando do tema, a análise dependeria da interpretação da legislação infraconstitucional, procedimento inviável em sede de recurso extraordinário.
+    Diante do exposto, reconsidero a decisão agravada, para dar parcial provimento ao recurso, tão somente para ajustar o acórdão recorrido à jurisprudência desta Corte no sentido de que o adicional de insalubridade incida sobre o vencimento básico do servidor.
+    Publique-se.
+          Brasília, 28 de novembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
