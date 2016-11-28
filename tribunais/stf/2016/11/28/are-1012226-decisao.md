@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário sob os seguintes fundamentos, em suma: i) não houve o prequestionamento, nos termos da Súmula 282 do STF; ii) não houve negativa de prestação jurisdicional, ou do art. 93, IX, da Constituição; iii) o exame da controvérsia depende do reexame de legislação infraconstitucional, razão pela qual a ofensa à Constituição seria reflexa; iv) incide o óbice da Súmula 280/STF; v) o STF já se pronunciou diversas vezes sobre o tema apresentado pelo descabimento do recurso extraordinário nesses casos.
+    O agravo não merece acolhida, dado que o recorrente deixou de atacar os fundamentos da decisão agravada relativos à ofensa reflexa à Constituição, da incidência, no caso, da Súmula 280 do STF, bem como sobre a existência de prévio pronunciamento desta Corte sobre recursos idênticos.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 28 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
