@@ -1,0 +1,6 @@
+Ato Declaratório Interpretativo RFB nº 13, de 24 de novembro de 2016
+Dispõe sobre a aplicação extensiva do processo administrativo de consulta ao Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização (Fundaf), instituído pelo Decreto-Lei nº 1.437, de 17 de dezembro de 1975.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 1º da Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013, declara:
+Art. 1º O Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização (Fundaf), instituído pelo Decreto-Lei nº 1.437, de 17 de dezembro de 1975, é gerido pela Secretaria da Receita Federal do Brasil (RFB).
+Art. 2º Aplica-se ao Fundaf e às receitas que nele ingressam o processo administrativo de consulta de que tratam os arts. 48 a 50 da Lei nº 9.430, de 27 de dezembro de 1996, e a Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013, tendo por base a correlação existente entre as atividades próprias da RFB e a gestão do Fundaf.
+JORGE ANTONIO DEHER RACHID
