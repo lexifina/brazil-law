@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 1ª Região, está assim ementado:
+    “ADMINISTRATIVO. CONCURSO PÚBLICO. POLÍCIA FEDERAL. PREFERÊNCIA NA ESCOLHA DA LOTAÇÃO SEGUNDO A ORDEM DE CLASSIFICAÇÃO. CURSOS DE FORMAÇÃO. DIVISÃO EM TURMAS. VERBA HONORÁRIA. ART. 20, § 4º, DO CPC.
+    1. Em respeito as regras do edital, os candidatos aprovados em melhor classificação têm direito de preferência na escolha das vagas de lotação oferecidas no certame, em relação aos candidatos aprovados em posição inferior.
+    2. Tendo a Administração Pública dividido em turmas os aprovados em concurso público para fins de realização de curso de formação, não pode oferecer para os candidatos em melhor classificação apenas parte das vagas constantes do edital, privilegiando os novos convocados com melhor colocação.
+    3. Mantida a veba de sucumbência no valor de R$ 4.000,00 (quatro mil reais), uma vez que atende aos comandos do art. 20, § 4º, do CPC.
+    4. Apelação e remessa oficial desprovidas.”
+    A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, “caput”, e 37, I, II e IV, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cabe enfatizar, de outro lado, que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas constantes dos autos, fundando-se, ainda, para resolver o litígio, em interpretação de cláusula de edital, circunstância essa que impede o próprio conhecimento do apelo extremo, em face do que se contém nas Súmulas 279/STF e 454/STF:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” (grifei)
+    Impende assinalar, ainda, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 787.165-AgR/DF, Rel. Min. LUIZ FUX – ARE 684.225/DF, Rel. Min. CÁRMEN LÚCIA – ARE 1.001.991/DF, Rel. Min. DIAS TOFFOLI – ARE 1.008.383/DF, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Curso de formação. Polícia Federal. Escolha de vagas, para fins de lotação de novos servidores. 3. Preterição dos melhores colocados. Direito de opção preferencial por vagas abertas a candidatos de turmas subsequentes. 4. Discricionariedade a excepcionar o princípio da isonomia. Ausência de motivação. Possibilidade de controle pelo Judiciário. 5. Ofensa reflexa à Constituição Federal. Exigência de interpretação de normas editalícias. Súmula 454. 6. Ausência de argumentos suficientes para infirmar a decisão recorrida. 7. Agravo regimental a que se nega provimento.”
+    (ARE 740.670-AgR/DF, Rel. Min. GILMAR MENDES)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 28 de novembro de 2016.
+Ministro CELSO DE MELLO
+Relator
