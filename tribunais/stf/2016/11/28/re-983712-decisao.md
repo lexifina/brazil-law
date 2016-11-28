@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA-ART – TAXA – VALOR MÁXIMO FIXADO POR LEI - REPERCUSSÃO GERAL – TEMA Nº 829 – NEGATIVA DE SEGUIMENTO.
+    1. Observem o que decidido na origem. O Tribunal Regional Federal da 4ª Região assentou inexistir ofensa ao princípio da legalidade tributária pelo artigo 2º, parágrafo único, da Lei nº 6.994/1982, a fixar valor máximo da Anotação de Responsabilidade Técnica – ART. Decidiu caber a restituição de valores cobrados acima desse patamar até a vigência da Lei nº 12.514/2011, observado o lapso prescricional. Eis a síntese do acórdão, depois integrado em sede de embargos declaratórios:
+    TRIBUTÁRIO. CONSELHOS REGIONAIS DE CLASSE. TAXA ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA - ART. NATUREZA TRIBUTÁRIA. LIMITES IMPOSTOS PELAS LEIS Nº 6.994/82 E 12.514/11.
+    Considerando que as taxas relativas à ART, assim como as anuidades, possuem natureza tributária, e tendo em vista a orientação jurisprudencial que se formou em relação àquelas, tem-se como válida sua exigência, no período compreendido entre a promulgação da Lei nº 9.649/98 e a vigência da Lei nº 12.514/11, nos limites impostos pela lei nº 6.994/82.
+    No extraordinário, o recorrente alega ofensa ao artigo 150, I da Constituição Federal. Sustenta a constitucionalidade das normas inscritas nas Leis nºs 6.496/1977, 6.994/82, 12.514/2011. Articula com a modulação dos efeitos de decisão que venha a declarar a inconstitucionalidade do art. 2º, da Lei nº 11.000/2004. Defende a aplicação da teoria da norma ainda constitucional e a correção monetária do tributo por ato infralegal, conforme valores consignados na Lei nº 6.994/82.
+    A decisão do Colegiado de origem está em consonância com o entendimento do Supremo. Ressalvada a óptica pessoal, o Tribunal, no recurso extraordinário nº 838.284, relator o ministro Dias Toffoli, assentou que o parágrafo único do artigo 2º da Lei nº 6.994/1982 não violou o princípio da legalidade tributária. A seguinte tese foi fixada para fins de repercussão geral, conforme decisão de 19 de outubro de 2016:
+    Não viola a legalidade tributária a lei que, prescrevendo o teto, possibilita o ato normativo infralegal fixar o valor de taxa em proporção razoável com os custos da atuação estatal, valor esse que não pode ser atualizado por ato do próprio conselho de fiscalização em percentual superior aos índices de correção monetária legalmente previstos.
+    4. Ante o quadro, nego seguimento ao extraordinário.
+    5. Publiquem.
+Brasília, 28 de novembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
