@@ -1,0 +1,30 @@
+Decisão:
+Ementa: Processual penal. Recurso ordinário em habeas corpus. afastamento cautelar do cargo de Prefeito. Inadequação da via eleita.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Antonio Saldanha Palheiro, assim ementado:
+    “HABEAS CORPUS SUBSTITUTIVO DO RECURSO PRÓPRIO. VEREADOR DE MUNICÍPIO DO PARÁ. PRESIDENTE DA MESA DO LEGISLATIVO MUNICIPAL. INFRAÇÃO AOS ARTS. 288, 312 E 317 DO CÓDIGO PENAL, E ARTS. 89 E 96 DA LEI N. 8.666/1993. PRISÃO PREVENTIVA SUBSTITUÍDA POR MEDIDAS CAUTELARES ALTERNATIVAS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL NO AFASTAMENTO DO CARGO PARA O QUAL FOI ELEITO. PEDIDO DE MANUTENÇÃO DO PACIENTE NO PLENO EXERCÍCIO DO MANDATO. ADEQUAÇÃO E SUFICIÊNCIA DAS MEDIDAS MENOS GRAVOSAS APLICADAS. PERICULOSIDADE ACENTUADA DO ACUSADO. MODUS OPERANDI DA CONDUTA. GRAVIDADE CONCRETA DO DELITO. PRÁTICA CRIMINOSA QUE GUARDA RELAÇÃO DIRETA COM O MANDATO ELETIVO DO PACIENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+    1. O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+    2. Estabelece o §6º do art. 282, incluído ao Código de Processo Penal pela Lei n. 12.403/2011, que ‘a prisão preventiva será determinada quando não for cabível a sua substituição por outra medida cautelar (art. 319)’.
+    3. O Tribunal de Justiça do Pará e o Juízo de Parauapebas reputaram suficiente a aplicação de medidas cautelares alternativas ao acusado, Vereador do Município e Presidente da Mesa da Câmara Legislativa, apesar da necessidade de se resguardar a coisa pública e de se proteger o erário, apesar do iminente risco da alteração do estado de coisas, como documentos ou votações que alterem contratos em discussão na ação penal, apesar da possibilidade de se influenciar a prova a ser colhida na instrução, bem como apesar da periculosidade acentuada do paciente, que se demonstra pelo modus operandi das condutas supostamente praticadas.
+    4. Caso em que a gravidade do caso não recomenda a permanência do paciente na Câmara de Vereadores de Parauapebas, dado que a prática criminosa guarda relação direta com o mandato eletivo por ele exercido, sob pena de se por em risco a continuidade das atividades ilícitas em apuração.
+    5. A decisão singular e o acórdão impugnado evidenciam que foram atendidos os princípios da razoabilidade e da proporcionalidade, quando outros meios, diferentes da prisão preventiva, foram considerados como eficazes a satisfazer as exigências cautelares da hipótese, com a mesma idoneidade, conquanto o comportamento atribuído ao paciente seja grave e deveras reprovável socialmente.
+    6. Habeas corpus não conhecido.”
+    2. Extrai-se dos autos que foi instaurado inquérito policial contra o recorrente, Prefeito do Município de Parauapebas/PA à época dos fatos, para apurar a suposta prática dos crimes previstos nos artigos 288, 312 e 317, do Código Penal e nos artigos 89 e 96 da Lei 8.666/93. O Juízo de origem determinou a prisão cautelar do investigado, tendo o mandado de prisão sido cumprido em 1º.07.2015.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado do Pará. A ordem foi concedida para revogar a prisão processual do recorrente, mediante o cumprimento de algumas medidas cautelares, dentre as quais “o afastamento imediato da presidência da Câmara de Vereadores de Paraupebas”.
+    4. Na sequência, o Juízo da Vara Criminal de Parauapebas/PA recebeu a denúncia oferecida contra o recorrente, determinando o afastamento cautelar do acusado do respectivo cargo público.
+    5. Contra essa decisão, foi impetrado novo habeas corpus no Tribunal Estadual. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça, não conhecido.
+    6. Neste recurso ordinário, a defesa sustenta a ausência de prova contundente quanto à necessidade do afastamento cautelar do acusado de suas funções. Daí o pedido de provimento a este recurso ordinário para assegurar ao paciente o direito de “responder a ação penal originária no pleno exercício do cargo de Vereador do Município de Paraupebas-PA para o qual fora eleito”.
+    Decido.
+    7. O recurso não deve ser provido.
+    8.  Para além de observar que o paciente se encontra em liberdade, verifico que a jurisprudência do Supremo Tribunal Federal consolidou o entendimento de que “o afastamento do cargo não pode ser questionado na via do habeas corpus por não afetar nem acarretar restrição ou privação da liberdade de locomoção” (HC 107.423-AgR, de minha relatoria). Vejam-se, nessa linha, as seguintes decisões:
+    “CONSTITUCIONAL. PROCESSUAL PENAL. PENAL. HABEAS CORPUS: AFASTAMENTO DO CARGO: NÃO-CABIMENTO.
+    I – O afastamento do paciente do cargo de Prefeito Municipal não autoriza a impetração de habeas corpus, porquanto não põe em risco a sua liberdade de locomoção. É que o habeas corpus visa a proteger a liberdade de locomoção, por ilegalidade ou abuso de poder, não podendo ser utilizado para proteção de direitos outros.
+    II – H.C. não conhecido.” (HC 84.816, Rel. Min. Carlos Velloso, Segunda Turma)
+    “AÇÃO PENAL. MAGISTRADO. DENÚNCIA RECEBIDA. AFASTAMENTO DO CARGO. LOMAN ( art. 29 ).
+    1. O afastamento do cargo, decretado por unanimidade pelo Órgão Especial do Superior Tribunal de Justiça, quando do recebimento da denúncia, por não afetar e nem acarretar restrição ou privação da liberdade de locomoção, não pode ser questionado na via do habeas corpus. Precedentes.
+    2. Agravo regimental improvido.” (HC 84.326-AgR, Rel. Min. Ellen Gracie)
+    9. Diante do exposto, com base no art. 192, c/c o art. 312 do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+    Brasília, 28 de novembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
