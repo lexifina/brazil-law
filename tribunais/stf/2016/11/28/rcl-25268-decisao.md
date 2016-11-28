@@ -1,0 +1,21 @@
+RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE Nº 33. AUSÊNCIA DE ESTRITA ADERÊNCIA. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada no art. 102, I, “l”, da Constituição da República, ajuizada pelo Sindicato dos Servidores Públicos Municipais de Irati – SISMI, em razão de suposto descumprimento do comando insculpido na Súmula Vinculante 33.
+    O Sindicato reclamante afirma que a Administração Pública Municipal de Irati indeferiu o pedido de aposentadoria especial de diversos servidores municipais que exercem atividade em regime de perigo ou insalubridade.
+    Segundo anota, parcela dos sindicalizados ora representados atuam em funções que causam riscos à saúde e à integridade física, de modo que fazem jus ao recebimento de aposentadoria especial.
+    Relata que foi protocolado, por parte de cada servidor municipal, “Requerimento Administrativo de Aposentadoria Especial” perante a sede da Administração Municipal na data de 30/07/2015, no entanto, somente em abril de 2016 houve resposta por parte do Departamento Jurídico Municipal, no seguinte sentido:
+    “Recomendo a análise dos pedidos de aposentadoria especial por profissional competente tanto na Prefeitura de Irati como no CAPSIRATI, mesmo levando em conta o que foi analisado por este profissional. (...)
+    Diante da inércia administrativa, indica que, na data de 28/07/2016 todos os servidores protocolaram petição, na qual solicitada a apreciação dos requerimentos apreciados em tempo razoável, à qual não foi apresentada resposta.
+    Requer a procedência da reclamação para que seja determinado à Prefeitura do Município de Irati que dê fiel cumprimento ao disposto na Súmula Vinculante nº 33 do STF e, consequentemente, conceda tratamento especial aos servidores municipais que desempenham atividades insalubres ou perigosas.
+    Decido.
+    1. A reclamação é ação autônoma de impugnação dotada de perfil constitucional prevista no texto original da Carta Política de 1988 para a preservação da competência e garantia da autoridade das decisões do Supremo Tribunal Federal (art. 102, l , da Lei Maior), e a configurar, desde o advento da Emenda Constitucional nº 45/2004, instrumento de combate a ato administrativo ou decisão judicial que contrarie ou indevidamente aplique súmula vinculante, aprovada, de ofício ou por provocação, mediante decisão de dois terços dos membros desta Suprema Corte, após reiteradas decisões sobre a matéria (art. 103-A, § 3º, da Magna Carta).
+    2. Na presente reclamação, aponta-se a inobservância da Súmula Vinculante nº 33, segundo a qual:
+    “Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica".
+    3. O referido verbete vinculante consolidou o entendimento reiterado desta Suprema Corte, segundo o qual a omissão legislativa na regulamentação do art. 40, § 4º, da Constituição deve ser suprida mediante a aplicação das normas do Regime Geral de Previdência Social, atualmente previstas na Lei 8.213/91 e no Decreto 3.048/99. Assim, todos os servidores públicos cujas atividades sejam exercidas sob condições especiais que prejudiquem a saúde ou a integridade física devem, desde a publicação da súmula, ter seus pedidos de aposentadoria especial apreciados à luz, no que couber, das regras do regime geral da previdência social.
+    4. A afronta à Súmula vinculante nº 33 ocorre, portanto, quando a Administração se furta de examinar o pleito de concessão de aposentadoria especial ao fundamento de que inexistente a norma regulamentadora a que refere o art. 40, § 4º, III, da Constituição Federal, o que não é o caso dos autos, como deflui da própria inicial.
+    5. Consoante relatado, o reclamante se insurge em razão da demora da Administração Pública em apreciar os pedidos de aposentadoria deduzidos, hipótese que não guarda relação de estrita pertinência com o entendimento cristalizado na Súmula Vinculante 33.
+    6. Ante o exposto, forte no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, restando prejudicado o exame do pedido liminar.
+    Publique-se.
+    Brasília, 28 de novembro de 2016.
+Ministra Rosa Weber
+Relatora
