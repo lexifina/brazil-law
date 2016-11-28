@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO –IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – BASE DE INCIDÊNCIA REDUZIDA – SISTEMA OPCIONAL – REGIME PROPORCIONAL DE APROVEITAMENTO DE CRÉDITOS – CONSTITUCIONALIDADE – PROVIMENTO PARCIAL NOS AUTOS DE AGRAVO PROVIDO.
+    1. Afasto o sobrestamento anteriormente determinado.
+    2. No Recurso Extraordinário nº 477.323/RS, de minha relatoria, na sessão plenária de 16 de outubro de 2014, votei no sentido de dar provimento ao extraordinário do Estado do Rio Grande do Sul para reconhecer a conformidade com o princípio da não cumulatividade da sistemática de apropriação proporcional de créditos do Imposto sobre Circulação de Mercadoria e Serviços – ICMS, presente regime opcional de benefício fiscal a envolver base do tributo reduzida. Fui acompanhado pelos demais ministros, sendo assegurado à empresa recorrida o aproveitamento de créditos oriundos da aquisição de insumos na mesma proporção das saídas tributadas.
+    3. Ante o precedente, conheço e provejo este agravo, consignando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Aciono o disposto nos artigos 544, §§ 3º e 4º, e 557, § 1º-A, do Código de Processo Civil de 1973 e julgo, desde logo, o extraordinário, conhecendo-o e provendo-o parcialmente para determinar seja dado prosseguimento à execução fiscal mediante o recálculo dos valores inscritos em Dívida Ativa a título do Imposto sobre Circulação de Mercadorias e Serviços – ICMS, atendidos estes critérios: manutenção da base de cálculo reduzida no patamar de 80%, tal como previsto na legislação impugnada, assegurado à recorrente o aproveitamento de créditos oriundos da aquisição de insumos na mesma proporção das saídas tributadas.
+    4. Publiquem.
+Brasília, 28 de novembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
