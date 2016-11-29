@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TRIBUTÁRIA – GDAT. SERVIDORES INATIVOS E PENSIONISTAS. MEDIDA PROVISÓRIA 1.915/1999 E REEDIÇÕES. ART. 40, § 8º, DA CF-88. SEGURANÇA CONCEDIDA. APELAÇÃO E REMESSA OFICIAL PARCIALMENTE PROVIDAS. LIMITAÇÃO EM 30% E ATÉ A DATA DA EDIÇÃO DA LEI 10.593/2002.
+    1. O Secretário de Recursos Humanos do Ministério do Planejamento, Orçamento e Gestão não possui legitimidade para figurar no pólo passivo do mandamus, tendo em vista que a impetrante, pensionista de ex-servidor do Ministério da Fazenda, não mantém vínculo funcional com aquele órgão a que vincula a autoridade apontada como coatora.
+    2. Em se tratando de ato de autoridade que, em observância à regra inserta na MP 1.915-1/99, impede o recebimento da Gratificação de Desempenho de Atividade Tributária – GDAT pelos servidores inativos e pensionistas, a via mandamental é adequada para atacar o aludido ao administrativo. Preliminar rejeitada.
+    3. A Gratificação de Desempenho de Atividade Tributária – GDAT, instituída pela Medida Provisória 1.915/1999, deve ser estendida aos servidores aposentados e pensionistas, por se tratar de vantagem de caráter geral. Entendimento consolidado no âmbito do Supremo Tribunal Federal e deste Tribunal.
+    4. Deve ser observada a limitação do pagamento da GDAT no percentual de 30%, sobre o provento básico por força do disposto no art. 16, § 3º, da MP 1.915-1-99, art. 15, § 3º, a partir da MP 1.915-3 até a edição da MP 2.175-29/2001; art. 3º, § 1º, do Decreto 3.390/2000; art. 5º, da Portaria 97/2000, do Ministério de Estado da Fazenda; assim como pelos arts. 15, § 3º; e 22, § 2º, da Lei 10.883/2004, posteriormente revogados pela Lei 10.910/2004.
+    5. Em razão de a Lei 10.593, de 6 de dezembro de 2002, ter estendido, sem qualquer distinção, a GDAT aos inativos e pensionistas, o objeto da impetração deve ficar limitado à data da edição desse diploma legal.
+    6. Apelação e remessa oficial parcialmente providas.”
+    O recorrente interpôs recurso extraordinário com fundamento no art. 102, III, a, da Constituição Federal, e alega violação aos arts. 5º, caput; 37, caput, X; 40, § 8º; e 61, II, a e c, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso por entender que o acórdão recorrido está em harmonia com a jurisprudência desta Corte.
+    O recurso não deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem está em consonância com a jurisprudência do Supremo Tribunal Federal. Nesse sentido, veja-se o seguinte precedente:
+    “CONSTITUCIONAL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES TRIBUTÁRIAS, INSTITUÍDA PELA MEDIDA PROVISÓRIA Nº 1.915, DE 29/06/1999. EXTENSÃO AOS INATIVOS E PENSIONISTAS DE EX-OCUPANTES DO CARGO DE AUDITOR-FISCAL DO TESOURO NACIONAL. CONSTITUIÇÃO FEDERAL, ARTIGO 40, § 8º, NA REDAÇÃO DECORRENTE DA EC 20/98.
+    Vantagem de caráter geral, devida aos aposentados e pensionistas, nos termos da norma constitucional acima referida e em consonância com a jurisprudência desta Suprema Corte, firmada em torno de casos semelhantes.
+    Além do mais, a primeira edição da MP 1.915/1999 contemplou indistintamente os proventos de aposentadoria e as pensões; por isso, ofendem o postulado da isonomia as reedições da Medida, que limitaram o pagamento do benefício aos servidores aposentados a partir de 1º/07/1999. Por outro lado, como tal restrição foi afastada pela Lei nº 10.593, de 06/12/2002, remanesce o interesse das partes com relação ao período regressivo, até a data da impetração.
+                Recurso extraordinário conhecido e desprovido.” (RE 397.872/DF, Rel. Min. Ayres Britto)
+    Em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode questionar nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 29 de novembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
