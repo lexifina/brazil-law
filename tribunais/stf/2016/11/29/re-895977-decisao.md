@@ -1,0 +1,17 @@
+Decisão: Em 07.11.2016, proferi despacho de seguinte teor:
+    “DESPACHO: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+    APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. EXTINÇÃO DO PROCESSO PELA DECADÊNCIA. INOCORRÊNCIA. PRAZO DECADENCIAL CONTADO DA MAIS RECENTE PORTARIA. REVOGAÇÃO DO PRAZO ANTERIOR PARA EMPRESAS APRESENTAREM AUDITORIA AMBIENTAL COMPULSÓRIA. FIXAÇÃO DE NOVO PRAZO. ATO COATOR RENOVADO. ARTIGO 515, § 3 o , CPC. APLICABILIDADE TAMBÉM AO CASO DE EXTINÇÃO POR DECADÊNCIA. CAUSA MADURA. POSSIBILIDADE DE O TRIBUNAL ADENTRAR AO MÉRITO. MÉRITO DA CAUSA. SUPOSTA INCONSTITUCIONALIDADE DA EXIGÊNCIA DA LEI ESTADUAL 13.448/2002 E POR ARRASTAMENTO DO DECRETO 2076/2003 E DAS PORTARIAS 49/2005 E 100/2005 DO INSTITUTO AMBIENTAL DO PARANÁ. IMPROCEDÊNCIA. INCIDÊNCIA NO CASO DOS PRINCÍPIOS ESPECÍFICOS DO DIREITO AMBIENTAL, DENTRE ELES O DA PRECAUÇÃO, DO POLUIDOR-PAGADOR E DA RIGIDEZ DA PROTEÇÃO DO MEIO AMBIENTE. CONFORMIDADE DA EXIGÊNCIA DA AUDITORIA AMBIENTAL COMPULSÓRIA COM OS ARTIGOS 225 DA CONSTITUIÇÃO FEDERAL E 207 DA CONSTITUIÇÃO ESTADUAL APELO PROVIDO EM PARTE. SEGURANÇA DENEGADA.
+    1. Renovando-se o ato coator, renova-se também o prazo decadência para a impugnação dele pela via do Mandado de Segurança; mormente em se tratando de fundamentação na inconstitucionalidade de lei que substancia o ato, pois no caso, só se ataca pelo "writ" não a lei, mas os seus efeitos concretos;
+    2. Não há supressão de instância nem quebra do princípio do duplo grau de jurisdição em o Tribunal adentrar na análise de mérito da causa, quando em primeiro grau erroneamente extinta por decadência; pois, no caso, há sim analise de mérito em primeiro grau, sendo, com mais razão ainda, aplicável à espécie o § 3 o do artigo 515 do CPC;
+    3. "As auditorias ambientais compulsórias são instrumentos que visam avaliara gestão ambiental de uma atividade econômica analisando seu desempenho ambiental e verificando,, entre outros fatores, o grau de conformidade com a legislação ambiental vigente e com a própria política ambiental da instituição" (TJPR - ACR 0406778-5 - Re/.: Des. Regina Afonso Portes - J. 05.05.2008). grifei
+    No recurso extraordinário interposto com base nas alíneas “a”, “c” e “d’, do inciso III, do art. 102, da Constituição da República sustenta-se, em suma, a suspensão da exigibilidade da realização das auditorias ambientais compulsórias em virtude da inconstitucionalidade da Lei nº 13.448/2002, do Estado do Paraná, bem como do Decreto Estadual nº 2.076/2003 e da Portaria IAP nº 100/2005.
+    Tendo em vista a informação acerca da revogação da Lei Estadual nº 13.448/2002 pela Lei nº 18.189/2014 (http://www.legislacao.pr.gov.br/legislacao/pesquisarAto.doaction=exibir&codAto=128029&codItemAto=787059#787059), intime-se o recorrente para, no prazo de 5 (cinco) dias, manifestar-se sobre o interesse no prosseguimento do feito.”
+    A parte recorrente, através da Petição 65.274/2016, informa não haver mais razão para continuidade do trâmite do presente recurso (fls. 811-v).
+    Verifica-se que o peticionante possui poderes processuais para desistir.
+    Ante o exposto, homologo a desistência do recurso extraordinário, nos termos dos artigos 998, do CPC/2015 e 21, VIII, do RISTF.
+    Certifique-se o trânsito da decisão, e em seguida, promova a imediata baixa dos autos.
+    Publique-se.
+    Brasília, 29 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
