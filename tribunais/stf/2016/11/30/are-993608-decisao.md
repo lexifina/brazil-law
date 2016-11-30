@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “MANDADO DE SEGURANÇA – ICMS – inclusão compulsória da impetrante no Regime Especial de Fiscalização – Admissibilidade- Artigos 71 da Lei nº 6.374/89, 488 e 489 do RICMS – A empresa é devedora contumaz, razão pela qual se enquadra no regime imposto – Ausência de direito líquido e certo a ser amparado – Observância ao artigo 170 da CF – Decisão mantida. Recurso não provido” (pág. 39 do documento eletrônico 2)
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se, em suma, ofensa aos artigos 5°, II, XIII, e 170, caput, IV, e parágrafo único, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão impugnado decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional e local aplicáveis à espécie (Lei Estadual 6.347/1989 de São Paulo e RICMS). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Tribunal de origem. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS ICMS, REGIME ESPECIAL DE FISCALIZAÇÃO DE DEVEDOR CONTUMAZ. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DO REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 805.558-AgR/RS, Segunda Turma, Rel. Min. Cármen Lúcia).
+    1. Recurso extraordinário: descabimento: acórdão recorrido que se limitou a aplicar legislação que regulamenta o recolhimento do ICMS sob o regime de substituição tributária (RICMS), de natureza infraconstitucional: a alegada violação aos dispositivos constitucionais invocados seria, se ocorresse, reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636. 2. ICMS: regime especial de fiscalização: ausência de ofensa ao princípio da isonomia (CF, art. 5º, II) e à garantia constitucional da liberdade de trabalho (CF, art. 5º, XIII): não incidência, no caso, das Súmulas 70, 323 e 547, que versam sobre a proibição de restrições à atividade econômica como meio coercitivo de pagamento de tributos.” (RE 474.241-AgR/MG, Primeira Turma, Rel. Min. Sepúlveda Pertence)
+    No mesmo sentido, a recente decisão monocrática: ARE 940.120/SP, Rel. Min. Dias Toffoli, Dje de 9/6/2016.
+    Por fim, o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de novembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
