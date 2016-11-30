@@ -1,0 +1,24 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão que determinou a remessa dos autos para apreciação pela instância de origem de pedido de desistência de agravo e de renúncia parcial ao direito sobre o qual se fundava a ação. Eis um trecho desse julgado:
+    “A embargante requer a ‘homologação da parcial desistência do agravo interposto nos autos do presente recurso, bem como a renúncia parcial ao direito em que mesmo se funda’, e reitera o pedido de conversão em renda em favor da União (Fazenda Nacional) de parte dos valores depositados no presente feito no limite do valor devido, conforme cálculos já apresentados, nos termos dos arts. 1º, § 3º, inciso I e 10 da Lei nº 11.941/09, com posterior levantamento do saldo remanescente.
+    Afasto o sobrestamento.
+    Nos termos do requerido, o pedido ultrapassa os limites da competência desta Corte, devendo ser apreciado pelo Juízo de origem, a quem os autos serão remetidos.
+    À Secretaria para providenciar a baixa dos autos.” (fl. 809)
+    Nas razões dos embargos, relata-se que a presente demanda que versa sobre CSLL “possui dois pedidos: (i) principal, concernente à inconstitucionalidade da diferenciação da alíquota imposta pela Emenda Constitucional nº 10/96 e artigo 2º da Lei nº 9.316/96, para fatos geradores ocorridos de janeiro de 1996 e meses seguintes, garantindo-se o recolhimento da exação, no referido período, à alíquota constitucional de 8% (oito por cento) (ii) subsidiário, referente ao afastamento da exação sobre os fatos geradores ocorrido de 01.01.1996 a 05.06.1996, em razão da violação aos princípios constitucionais da irretroatividade e da anterioridade especial, garantindo-se o recolhimento da exação à alíquota de 8% (oito por cento) no indigitado período.” (fl. 814).
+    Afirma-se que, quanto ao primeiro pedido, a recorrente apresentou pedido para homologação de desistência e renúncia parciais, em razão de sua adesão à anistia parcial concedida pela Lei nº 11.941/2009.
+    Sustenta-se que os mencionados pedidos não abarcaram a parte do presente feito relativa aos “fatos geradores ocorridos de janeiro a junho de 1996, em razão da violação aos princípios constitucionais de irretroatividade e da anterioridade especial.” (fl. 812)
+    Conclui-se ter havido omissão da decisão embargada por não apreciar esse ponto e defende-se o prosseguimento do feito no que se refere à parte subsistente relativa à discussão dos princípios da irretroatividade e anterioridade.
+    Pleiteia-se, após a remessa dos autos à instância de origem, seja determinado a posterior devolução dos autos a esta Corte para apreciação da questão subsistente relativa à violação dos princípios da irretroatividade e anterioridade; ou seja determinada a sua análise pelo Tribunal a quo.
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    Observo não ter havido omissão da decisão embargada ao apreciar apenas o pedido para homologação de desistência e renúncia parciais da agravante, sem ter feito menção à parte relativa aos fatos geradores ocorridos de janeiro a junho de 1996, em razão da violação aos princípios da irretroatividade e anterioridade nonagesimal.
+    Com efeito, não merece reparo a decisão embargada ao determinar a remessa dos autos para apreciação dos pedidos pela instância de origem, pois realizada a devida prestação jurisdicional nesse ponto.
+    Na ocasião, o então relator, Ministro Eros Grau, afastou o sobrestamento em decorrência da sistemática da repercussão geral, cujo paradigma era o RE-RG 582.525, à época pendente de julgamento, Rel. Min. Joaquim Barbosa, DJe 7.2.2104 (Tema 75).
+    Todavia, mais uma vez, em razão do princípio da economia processual, verifico que o sobrestamento deveria ter subsistido, tendo em vista que, de fato, a controvérsia dos autos cinge-se também à violação da irretroatividade e anterioridade especial.
+    Verifico que o assunto versado corresponde ao tema 107 da sistemática da repercussão geral, cujo paradigma é o RE-RG 587.008, Rel. Min. Dias Toffoli, DJe 6.5.2011. Assim, determino a devolução dos autos ao tribunal de origem, para que observe o disposto no art. 1.036 do Código de Processo Civil.
+    Assim sendo, torno sem efeito em parte a decisão de fls. 809 apenas para aplicar o tema 107 à questão subsistente relativa à irretroatividade e anterioridade, mantendo a remessa dos autos para apreciação do pedido de renúncia parcial. Na oportunidade, julgo prejudicados os presentes embargos de declaração e o pedido de reconsideração da União de fls. 796-797. Quanto à petição de fls. 819-822, nada a prover.
+    Publique-se.
+    Brasília, 30 de novembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
