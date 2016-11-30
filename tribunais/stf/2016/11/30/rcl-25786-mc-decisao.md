@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de reclamação, com pedido liminar, ajuizada em face de acórdão do Tribunal de Justiça de São Paulo, que afirmou a validade de exame psicológico para ingresso no cargo de Soldado de 2ª Classe da Polícia Militar do Estado de São Paulo (Edital 1/321/2015). Eis a ementa:
+    “APELAÇÃO CÍVEL- POLICIAL MILITAR. Reprovação em teste psicológico - Etapa prevista no edital de abertura de inscrições - Anuência às condições do certame no momento da inscrição - Ilegalidade não configurada - Exigência de exame psicológico como requisito de aprovação para o cargo de Policial Militar - Inteligência da Lei Complementar nº 697/1992, a qual foi regulamentada pelo Decreto nº 41.113/96 - Aferição pautada em critérios objetivos, reconhecidos pela comunidade científica. Recurso provido”.
+    O reclamante alega afronta à Súmula Vinculante 44 (“Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público”), porquanto a avaliação psicológica a que foi submetido estaria prevista exclusivamente no Decreto 41.113/1996, que teria inovado em relação à Lei complementar nº 697/1992 do Estado de São Paulo, que regulava, à época, o ingresso para aquela carreira. Afirma, ainda, serem inaplicáveis ao concurso regido por edital de 2015 as alterações realizadas pela Lei Complementar 1.291/2016.
+    É o relatório. Decido o pedido liminar.
+    Na sessão de 08.04.2015, o Supremo Tribunal Federal, após reiteradas decisões no sentido de que a exigência de exame psicotécnico nos concursos públicos somente é possível quando prevista em lei no sentido material, converteu a Súmula 686 da jurisprudência dominante na Súmula Vinculante 44.
+    No caso dos autos, o acórdão reclamado considerou suficiente a previsão constante do edital do concurso e do Decreto estadual nº 41.113/96, apesar de ausente previsão específica na lei que o fundamenta. Transcrevo:
+    “Não houve impugnação às regras do certame nesta oportunidade, quando tivera ciência de seus direitos e deveres para realização da prova em todas as suas etapas.
+    Inadmissível, portanto, que se insurja somente após realizadas diversas fases, contra critérios previamente estabelecidos.
+    Outrossim, cumpre ressaltar que dentre as legislações norteadoras do edital de abertura de inscrições está a Lei Complementar nº 697/1992, a qual foi regulamentada pelo Decreto nº 41.113/96, que estabelece em seus artigos 2º e 3º as etapas e requisitos para a admissão no concurso em comento (...)”.
+    Apesar de os fundamentos adotados pelo órgão reclamado irem de encontro à Súmula Vinculante 44, ao menos em juízo liminar, entendo não prosperar o pedido do reclamante. Isto porque, em casos análogos ao presente, o Supremo Tribunal Federal concluiu que o ingresso em cargos integrantes das Polícias do Estado de São Paulo também encontram regramento na Lei estadual nº 10.123/68 (Lei Orgânica da Polícia), a qual, no seu art. 36, VI, estabelece como requisito para matrícula nos cursos de formação ou nomeação para as carreiras policiais “possuir temperamento adequado ao exercício da função policial, apurado em exame psicotécnico”. Nessa linha, confira-se: Rcl 23.781, Rel. Min. Rosa Weber; Rcl 25.230, Rel. Min. Dias Toffoli; e Rcl 25.383, Rel. Min. Teori Zavaski; entre outros.
+    Assim, reputo ausente a plausibilidade do direito alegado.
+    Diante do exposto, com base no art. 932, II, do CPC/2015, indefiro o pedido liminar.
+    Solicitem-se informações à autoridade reclamada. Cite-se o Estado de São Paulo (art. 989, III, do CPC/2015).
+    Publique-se.
+          Brasília, 30 de novembro de 2016
+Ministro LUÍS ROBERTO BARROSO
+Relator
