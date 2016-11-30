@@ -1,0 +1,32 @@
+Decisão: Trata-se de recurso ordinário em mandado de segurança interposto por Leôncio de Souza Brandão, em face de acórdão proferido pela Terceira Seção do Superior Tribunal de Justiça, nos autos do MS 13.923, ementado nos seguintes termos:
+    “ADMINISTRATIVO. ANISTIA. MILITAR. MANDADO DE SEGURANÇA. LEI N. 11.354/2006. LEGITIMIDADE. MINISTRO DA DEFESA. TERMO DE ADESÃO. ACORDO DE ANUÊNCIA VOLUNTÁRIA. PRESTÍGIO AO PRINCÍPIO DA INAFASTABILIDADE DO PODER JUDICIÁRIO. AÇÃO JUDICIAL AJUIZADA PELO ANISTIADO. INOBSERVÂNCIA DA OBRIGAÇÃO PACTUADA. SUSPENSÃO DOS PAGAMENTOS. LEGALIDADE. SEGURANÇA DENEGADA.
+    1. O Ministro de Estado da Defesa é, nos termos do art. 18 da Lei n. 10.559/2002, parte legítima para figurar no pólo passivo de mandado de segurança cujo objetivo é o pagamento de valores retroativos decorrentes de anistia política concedidos pela Comissão de Anistia.
+    2. A Lei n. 11.354/2006 previu no seu artigo 2º que o anistiado, ao assinar o Termo de Adesão regulado no mencionado diploma legal, concorda expressamente com o valor, a forma e as condições de pagamento relativas às importâncias devidas pelo reconhecimento da sua condição, cabendo ao interessado declarar, ainda, que não está e não ingressará em juízo reclamando ou impugnando o valor a que faz jus, comprometendo-se a desistir da ação ou do recurso respectivos.
+    3. A assinatura do Termo de Adesão, segundo as condições previstas na Lei n. 11.354/2006, constitui mera faculdade a ser exercida pelos interessados, não se podendo falar em ofensa ao princípio da inafastabilidade do Poder Judiciário, pois nenhum dos anistiados políticos foi compelido a aderir ao acordo para recebimento dos valores a que tem direito.
+    4. Tendo o ora impetrante, após a assinatura do Termo de Adesão, ajuizado ação ordinária em face da União, pleiteando promoções às quais entende fazer jus na carreira militar, resta patente o descumprimento do art. 2º da Lei n. 11.354/2006, não se afigurando ilegal a suspensão do pagamento dos valores devidos pela União.
+    5. Segurança denegada” (eDOC 2, p. 91).
+    Alega o recorrente, em suma, que o acórdão atacado violou o disposto nos arts. 1º, III; 5º, caput e incisos XXXV e XXXVI; e 37, caput, da CF de 1988, bem como o disposto na Lei 11.354/06, que regulamenta o pagamento aos anistiados políticos, agindo em total desconformidade com as regras constitucionais e infraconstitucionais.
+    Aduz que “(...) a Lei é bem clara no sentido de demonstrar que o anistiado não poderia ingressar ou permanecer em juízo ‘reclamando ou impugnando o valor a ele devido’, ou seja, NÃO PODERIA IMPETRAR MANDADO DE SEGURANÇA RECLAMANDO O VALOR INTEGRAL, como é o caso de alguns anistiados políticos que ingressaram com mandados de segurança no STJ para receber o seu retroativo integral” (eDOC 2, p. 105).
+    Pugna pelo provimento do recurso, para, concedendo-se a segurança pleiteada, sejam suspensos os efeitos da Portaria 1.406/DPMM, restabelecendo-se o direito ao recebimento do pagamento dos valores decorrentes do Termo de Adesão 378.
+    É o relatório.
+    Decido.
+    O art. 2º da Lei 11.354/2006, ao tratar sobre as condições para a assinatura do termo de adesão e para recebimentos das indenizações, estabelece o seguinte:
+    “Art. 2º O Termo de Adesão a ser firmado pelo anistiado deverá conter expressa concordância com o valor, a forma e as condições de pagamento e, ainda, declaração de que:
+    I - não está e não ingressará em juízo reclamando ou impugnando o valor a ele devido; ou
+    II - se compromete a desistir da ação ou do recurso, no caso de estar em juízo reclamando ou impugnando o valor a ele devido.
+    § 1º O anistiado civilmente incapaz poderá firmar o Termo de Adesão por meio de seu representante legal.
+    § 2º Na hipótese de anistiado falecido, o Termo de Adesão poderá ser firmado por seus dependentes, consoante o disposto no art. 13 da Lei nº 10.559, de 13 de novembro de 2002.
+    § 3º A União não cobrará honorários advocatícios do autor da ação que desistir do processo judicial para firmar o Termo de Adesão de que trata esta Lei”.
+    Referido dispositivo legal determina que o anistiado político, ao assinar o termo de adesão, concorda expressamente com o valor, a forma e as condições de pagamento relativas às importâncias devidas pelo reconhecimento da sua condição de anistiado político, devendo o interessado declarar que não está e não ingressará em juízo reclamando ou impugnando o valor a ele devido, comprometendo-se, ainda, a desistir da ação ou do recurso respectivos.
+    No caso, conforme consignado no acórdão recorrido:
+    “(...) o impetrante assinou o Termo de Adesão em 04/12/2006, concordando expressamente com as condições estabelecidas na Medida Provisória n. 300, de 29/06/2006 — convertida na Lei n. 11.354/2006, acima referida —, conforme se pode depreender da cláusula primeira e terceira do mencionado acordo (fls. 32/33):
+    Cláusula Primeira - Pelo presente instrumento, o anistiado político adere à forma e às condições de pagamento estabelecidas pela Medida Provisória n. 300, de 29 de junho de 2006, aceitando o valor correspondente aos efeitos financeiros retroativos da concessão de reparação econômica fixada em virtude da declaração de condição de anistiado, com fundamento na Lei n. 10.559, de 13 de novembro de 2002.
+    Cláusula Terceira - O anistiado político declara, sob as penas da lei, que não se encontra em litígio judicial comprometendo-se, ainda, a não ingressar em juízo para reclamar ou impugnar o valor e forma de pagamento consignados na Portaria especificada na Cláusula Segunda”.
+    Observa-se que, embora tenha aderido aos termos da Lei 11.354/2006 (Termo de Adesão 378), o recorrente, em 13.11.2007, ajuizou ação judicial em face da União (nº 2007.51.01.027960-3), na qual requer o reconhecimento de promoções na carreira militar e, por conseguinte, o recebimento das respectivas diferenças pecuniárias.
+    Conclui-se, dessa forma, que, de fato, houve descumprimento pelo impetrante do disposto no art. 2º da Lei 11.354/2006, de modo que não restam caracterizadas ilegalidades ou abusos praticados pela autoridade ora impetrada ao editar a Portaria 1.406/DPMM, sendo inviável, dessa forma, a presente ação mandamental (cf. art. 1º da Lei 12.016/2009).
+    Ante o exposto, nego seguimento ao pedido (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de novembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
