@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo, quanto à validade de decisão do Tribunal de Contas do Estado de São Paulo, com exceção de ponto específico das contas relativas ao ano de 1999. No extraordinário cujo processamento busca alcançar, afirma Antônio Carlos Morandini a violação da ampla defesa e do devido processo legal, em razão de indeferimento de produção de provas pericial e testemunhal.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão o seguinte trecho:
+    Bem analisados os autos , forçoso reconhecer que todas as provas necessárias ao deslinde da causa encontram-se nos autos. A matéria de fundo é inteiramente de direito e as provas documentais acostadas foram suficientes para a prolação da sentença.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    Eis a síntese da decisão recorrida:
+     Apelação cível - Ação de conhecimento que objetiva decretação de invalidade de decisão proferida pelo Tribunal de Contas do Estado de São Paulo nos autos do processo TC nº 515/026/99, que julgou irregulares as contas do legislativo de Ribeirão Preto do exercício de 1999 - Desrespeitado os princípios do devido processo legal no que se refere aos coautores Jorge Eduardo Parada Hurtado e Darcy da Silva Vera - Procedimento válido em relação ao coautor Antonio Carlos Morandini - Remuneração de vereadores em desacordo com os preceitos Constitucionais e contratações diretas sem atenção aos procedimentos administrativos determinados pela lei nº 8.666/93 - Princípios da Administração Pública desrespeitados - Sentença mantida - Recursos voluntários do Estado de São Paulo e de Antonio Carlos Morandini, bem como o oficial improvidos.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo de Antônio Carlos Morandini e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de novembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
