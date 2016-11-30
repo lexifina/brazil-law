@@ -1,0 +1,18 @@
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PENSÃO POR MORTE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. NÃO INTERROMPEM O PRAZO RECURSAL. INTEMPESTIVIDADE DO AGRAVO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. ERRO MATERIAL. INOCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.026, § 2º, DO CPC/2015. APLICABILIDADE. EMBARGOS NÃO CONHECIDOS.
+    Decisão: Trata-se de embargos de declaração opostos por MARIA LOURDES GARCIA SIERRA PAULUCCI, contra decisão de minha relatoria, publicada em 4/10/2016, cuja ementa transcrevo:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENSÃO POR MORTE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. NÃO INTERROMPEM O PRAZO RECURSAL. AGRAVO INTEMPESTIVO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO NESTA SEDE RECURSAL. ART. 85, § 11, DO CPC/2015. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.”
+    Inconformada com a decisão supra, a parte ora embargante interpõe o presente recurso, alegando, em síntese:
+    "Como dito anteriormente e, data venia, não analisado na decisão anterior, o Regimento Interno desta Augusta Corte deixou de ser observado, em especial, quanto ao prazo para interposição do recurso e das interrupções e suspensões devidas.
+    Assim, a decisão exarada por Vossa Excelência é contraditória, tendo em vista que, data venia, a oposição de embargos não suspende eventual prazo recursal, porém, o RISTF declara posição contrária, permitindo a oposição de embargos, e mais, que esta oposição suspende os prazos recursais.
+    A Embargante, opõe o presente recurso como maneira de demonstrar que há flagrante contradição entre o decisum e o Regimento do Excelso Supremo Tribunal Federal." (doc. 9, fl. 3)
+    É o relatório. DECIDO.
+    Não merecem acolhida as pretensões da parte embargante.
+    Ab initio, há que se frisar que a parte ora recorrente pretende, nestes segundos embargos de declaração, rediscutir matéria já decidida. Ora, esta Suprema Corte firmou jurisprudência nos termos da qual não se revelam cabíveis embargos de declaração quando, a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição, vêm a ser opostos com o inadmissível objetivo de infringir o julgado, em ordem a viabilizar um indevido reexame da causa (AI 177.313-AgR-ED, Relator o Ministro Celso de Mello, DJ de 13/9/1996).
+    Com efeito, o acórdão hostilizado assentou que “o agravo interposto da decisão que inadmitiu o recurso extraordinário é intempestivo, porquanto prevalece nesta Corte o entendimento de que os embargos de declaração opostos da decisão que, na origem, nega seguimento a recurso extraordinário, por serem manifestamente incabíveis, não suspendem ou interrompem o prazo para a interposição de recurso” (ARE 728.395-AgR/RS, Rel. Min. Joaquim Barbosa, DJe 19/8/2013).
+    Vale enfatizar, ainda, que a jurisprudência deste Tribunal é uníssona no sentido de que a oposição de embargos com nítido intuito procrastinatório, com a injustificável reiteração do recurso, traduz hipótese de evidente abusividade, apta a justificar, por si só, a aplicação da norma inscrita no artigo 1.026, § 2º, do CPC/2015 (ARE 908.102-AgR-ED, Rel. Min. Marco Aurélio, DJe de 28/6/2016).
+    Ex positis, NÃO CONHEÇO dos embargos de declaração e, por considerá-los manifestamente procrastinatórios, CONDENO a parte embargante ao pagamento da multa de 2% (dois por cento) sobre o valor corrigido da causa (artigo 1.026, § 2º, do CPC/2015).
+    Publique-se.
+    Brasília, 30 de novembro de 2016.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
