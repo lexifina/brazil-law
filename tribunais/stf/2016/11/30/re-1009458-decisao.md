@@ -1,0 +1,14 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (eDOC 01, p. 62):
+    RECURSO DE AGRAVO EM EXECUÇÃO PENAL. CONCESSÃO DE INDULTO PLENO. CRIMES COMUNS E HEDIONDOS. INCONSTITUCIONALIDADE DO ART. 7º, PARÁGRAFO ÚNICO, DO DECRETO 7.420/2010. VIOLAÇÃO AO ART. 76 DO CP. RECURSO CONHECIDO E DESPROVIDO. I. O art. 7º, parágrafo único, do Decreto 7.420/2010 não afronta o art. 5º, inciso XLIII, da CF, pois sua determinação é dirigida ao crime não impeditivo. II. O referido Decreto não determina inversão da ordem prevista no art. 76 do CP, somente estabelece requisitos temporais para a concessão da comutação da pena do crime comum. II. Para a concessão do benefício, no concurso de crimes impeditivos e não impeditivos, deve se observar que o apenado cumpra 2/3 da pena do crime hediondo ou equiparado, e o período correspondente a ¼ (um quarto) da reprimenda total dos crimes comuns, para primários, ou 1/3 (um terço), para reincidentes (artigo 2º do Decreto 7.420/2010). III. Recurso conhecido e desprovido.
+    Os embargos declaratórios restaram rejeitados.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se violação ao art. 5º, caput e XLIII, da CF. Busca-se, em suma, a reforma do acórdão recorrido ao argumento de que violou o princípio da igualdade ao conceder indulto das penas referentes ao crime comum antes do cumprimento integral da reprimenda do delito hediondo.
+    É o relatório. Decido.
+    Verifico que o TJDFT decidiu, à luz do Decreto 7.420/2010, ser desnecessário o cumprimento integral da pena relativa do crime hediondo para que o condenado obtenha o benefício da comutação da pena do crime comum. O Tribunal entendeu que a exigência do cumprimento de dois terços da pena pertinente ao crime hediondo, instituída pelo Decreto, é apenas mais um requisito para concessão do benefício para o crime comum dos apenados que cumprem reprimendas concorrentes (comum e hediondo).
+    Eventual divergência em relação ao entendimento adotado pelo juízo a quo, quanto aos requisitos para comutação de pena de crime comum, demandaria o reexame da legislação aplicável à espécie, razão pela qual suposta violação constitucional, no caso, seria meramente reflexa. Logo, torna-se inviável o processamento do apelo extremo.
+    Nesse sentido: RE 855.719, Relator Gilmar Mendes, DJe 21.05.2015; RE 859.867, Relatora Rosa Weber, DJe 03.12.2015; RE 767.890, Relator Roberto Barroso, DJe 02.06.2015; RE 645.559, Relator Ricardo Lewandowski, DJe 12.11.2013 e RE 768.022, Relator Luiz Fux, DJe 22.04.2014.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
