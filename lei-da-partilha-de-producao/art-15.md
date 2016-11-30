@@ -2,7 +2,7 @@ Art. 15. O edital de licitação será acompanhado da minuta básica do respecti
 I - o bloco objeto do contrato de partilha de produção;
 II - o critério de julgamento da licitação, nos termos do art. 18;
 III - o percentual mínimo do excedente em óleo da União;
-IV - a formação do consórcio previsto no art. 20 e a respectiva participação mínima da Petrobras;
+IV - a formação do consórcio previsto no art. 20 e, nos termos do art. 4º, caso a Petrobras seja indicada como operador, a participação mínima desta empresa;
 V - os limites, prazos, critérios e condições para o cálculo e apropriação pelo contratado do custo em óleo e do volume da produção correspondente aos royalties devidos;
 VI - os critérios para definição do excedente em óleo do contratado;
 VII - o programa exploratório mínimo e os investimentos estimados correspondentes;

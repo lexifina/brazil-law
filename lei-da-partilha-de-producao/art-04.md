@@ -1,1 +1,3 @@
-Art. 4º A Petrobras será a operadora de todos os blocos contratados sob o regime de partilha de produção, sendo-lhe assegurado, a este título, participação mínima no consórcio previsto no art. 20.
+Art. 4º O Conselho Nacional de Política Energética (CNPE), considerando o interesse nacional, oferecerá à Petrobras a preferência para ser operador dos blocos a serem contratados sob o regime de partilha de produção.
+§ 1º A Petrobras deverá manifestar-se sobre o direito de preferência em cada um dos blocos ofertados, no prazo de até 30 (trinta) dias a partir da comunicação pelo CNPE, apresentando suas justificativas.
+§ 2º Após a manifestação da Petrobras, o CNPE proporá à Presidência da República quais blocos deverão ser operados pela empresa, indicando sua participação mínima no consórcio previsto no art. 20, que não poderá ser inferior a 30% (trinta por cento).
