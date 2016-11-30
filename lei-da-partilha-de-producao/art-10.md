@@ -4,7 +4,7 @@ II - propor ao CNPE, ouvida a ANP, a definição dos blocos que serão objeto de
 III - propor ao CNPE os seguintes parâmetros técnicos e econômicos dos contratos de partilha de produção:
 a) os critérios para definição do excedente em óleo da União;
 b) o percentual mínimo do excedente em óleo da União;
-c) a participação mínima da Petrobras no consórcio previsto no art. 20, que não poderá ser inferior a 30% (trinta por cento);
+c) a indicação da Petrobras como operador e sua participação mínima, nos termos do art. 4º;
 d) os limites, prazos, critérios e condições para o cálculo e apropriação pelo contratado do custo em óleo e do volume da produção correspondente aos royalties devidos;
 e) o conteúdo local mínimo e outros critérios relacionados ao desenvolvimento da indústria nacional; e
 f) o valor do bônus de assinatura, bem como a parcela a ser destinada à empresa pública de que trata o § 1º do art. 8º;
