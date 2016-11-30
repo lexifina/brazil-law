@@ -1,0 +1,21 @@
+Decisão: Trata-se de petição de agravo regimental na qual se questiona ato que determinou a remessa dos autos à origem, com base no Tema 635, RE-RG 721.001, de minha relatoria, DJe 1.6.2015, da sistemática da Repercussão Geral, para os fins do disposto no art. 1.036 do CPC.
+    Após detida análise dos autos, observo que a matéria, do modo como é traduzida na petição de recurso extraordinário, é diversa do citado paradigma.
+    Desse modo, torno sem efeito a devolução constante do eDOC 5, julgo prejudicado o agravo regimental (eDOC 8), e passo à análise do mérito recursal.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 5ª Região, ementado nos seguintes termos:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO. NÃO GOZADA NEM CONTABILIZADA QUANDO DA APOSENTADORIA. CONVERSÃO EM PECÚNIA. DIREITO. AUSÊNCIA. 1. Os Tribunais Superiores pacificaram o entendimento no sentido de reconhecer o direito do servidor aposentado à conversão em pecúnia das licenças-prêmios não gozadas e não computadas em dobro quando da aposentadoria, desde que preenchidos os requisitos legais, de modo a evitar o enriquecimento sem causa por parte da Administração Pública. 2. In casu, o autor, de fato, adquiriu, na forma da Lei nº 8.112/90, 4 (quatro) períodos de licença-prêmio. No entanto, em deles foi usufruído, e os demais, ainda que se considere terem sido irrelevantes para o deferimento do pedido de abono permanência, foram contados em dobro (540 dias) para a concessão da aposentadoria, de sorte que não merece acolhimento a pretensão autoral. 3. Apelação desprovida.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação à Emenda Constitucional 41/2003.
+    Nas razões recursais, alega-se que o recorrente “tinha em dezembro de 2003, 30 anos 2 meses e 5 dias, não precisando indevidamente anexar mais 540 dias para fazer jus ao abono permanência pois ficaria com 31 anos 11 meses e 5 dias.”(eDOC 3, p. 103). Nesse sentido, alega-se ter direito a 540 dias de licença-prêmio por não as ter utilizado, nem mesmo autorizado a conversão em aposentadoria ou abono permanência.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que a licença foi contada em dobro para fins de concessão de aposentadoria. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “In casu, o autor, de fato, adquiriu, na forma da Lei nº 8.112/90, 4 (quatro) períodos de licença-prêmio. No entanto, um deles foi usufruído (cf. id. Nº 466064), e os demais, ainda que se considere terem sido irrelevantes para o deferimento do pedido de abono de permanência, foram contados em dobre (540 dias) para a concessão da aposentadoria (cf. id. Nº 654781 – pg. 02), de sorte que não merece acolhimento a pretensão autoral.” (eDOC 3, p. 77)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279.
+    Confiram-se, a propósito, os precedentes:
+    “Aposentadoria. Servidor Público. Licença-Prêmio. Controvérsia infraconstitucional. Necessário reexame de provas. Súmula 279. Regimental não provido”. (AI-AgR 389.752, Rel. Min. NELSON JOBIM, Segunda Turma, DJe 21.3.2003)
+    “1. Recurso extraordinário: descabimento: controvérsia relativa à contagem, em dobro, de férias-prêmio, para efeito de aposentadoria, para cujo deslinde seria necessário o reexame de fatos e provas: incidência da Súmula 279. 2.Aposentadoria: a apresentação do requerimento não é pressuposto de aquisição do direito à aposentadoria, que se dá com a reunião dos seus requisitos substanciais (cf. supressão da parte final da Súmula 359 conforme decidido no RE 72.509-Edv., 14.02.73, Luiz Gallotti, RTJ 64/408; EC 20/98, art. 3º)” (RE 451.836, rel. min. SEPÚLVEDA PERTENCE, Primeira Turma, DJe 13.10.2006).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de novembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
