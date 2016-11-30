@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Mandado de Segurança. IPTU. Ausência de publicação oficial da Planta Genérica de Valores utilizada para apuração do valor do imposto – ilegalidade da cobrança, independentemente de sua afixação em outros lugares públicos. Precedentes deste E. Tribunal de Justiça e do E. Superior Tribunal de Justiça. Sentença mantida. Nega-se provimento ao recurso.”(eDOC 2, p. 100)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, caput, e 37, caput, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que “a alegada ausência de publicação do Anexo referente à Planta Genérica de Valores não ofendeu o princípio da publicidade visto que a lei foi devidamente publicada e que o seu art. 1º noticiou a aprovação da referida Planta Genérica de Valores.” (eDOC 3, p. 4).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observo que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento. Assim, a jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário, quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Incidem, portanto, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Ademais, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável, notadamente a Lei Municipal 5.753/2001, de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IPTU. NULIDADE DE CDA. COBRANÇA DE IPTU MEDIANTE A PRETENSA AUSÊNCIA DE PUBLICAÇÃO DAS PLANTAS GENÉRICAS DE VALORES. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia sobre pretensa nulidade de CDA relativa à cobrança de IPTU quando se tratar de discussão sobre pretensa ausência de publicação das plantas genéricas de valores. 2. Agravo regimental a que se nega provimento.”
+(ARE 789902 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 21.06.2016)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IPTU. EXIGIBILIDADE DA EXAÇÃO. PUBLICAÇÃO DE PLANTAS GENÉRICAS. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. 1. A jurisprudência do STF é firme no sentido de que a controvérsia relativa à cobrança de ITPU com base na publicação da planta de valores cinge-se ao âmbito infraconstitucional. Súmula 279 do STF. 2. É entendimento sumulado do STF o não cabimento de recurso extraordinário, em decorrência de violação ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida. Súmula 636 do STF. 3. Agravo regimental a que se nega provimento.”
+(ARE 940091 AgR, de minha relatoria, Primeira Turma, DJe 14.04.2016)
+    “  CONSTITUCIONAL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE CABIMENTO DE MANDADO DE SEGURANÇA. MATÉRIA INFRACONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE PELO STF. AUSÊNCIA DE PLANO DIRETOR, SUPOSTA AMPLIAÇÃO DA BASE DE CÁLCULO DO IPTU PELA CONVERSÃO DA UFIR E INEXISTÊNCIA DE PUBLICAÇÃO DOS ANEXOS DA LEI QUE ALTEROU A PLANTA GENÉRICA DE VALORES: REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. SÚMULA 279 DO STF. IPTU. ALÍQUOTAS PROGRESSIVAS DEPOIS DA EC 29/2000. CONSTITUCIONALIDADE. TAXA DE REMOÇÃO DE LIXO DOMICILIAR. CONSTITUCIONALIDADE. SÚMULA VINCULANTE 19 E 29 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”
+(RE 487363 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 18.02.2015)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 30 de novembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
