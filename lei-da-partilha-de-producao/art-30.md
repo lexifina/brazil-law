@@ -1,4 +1,4 @@
-Art. 30. A Petrobras, na condição de operadora do contrato de partilha de produção, deverá:
+Art. 30. O operador do contrato de partilha de produção deverá:
 I - informar ao comitê operacional e à ANP, no prazo contratual, a descoberta de qualquer jazida de petróleo, de gás natural, de outros hidrocarbonetos fluidos ou de quaisquer minerais;
 II - submeter à aprovação do comitê operacional o plano de avaliação de descoberta de jazida de petróleo, de gás natural e de outros hidrocarbonetos fluidos, para determinação de sua comercialidade;
 III - realizar a avaliação da descoberta de jazida de petróleo e de gás natural nos termos do plano de avaliação aprovado pela ANP, apresentando relatório de comercialidade ao comitê operacional;
