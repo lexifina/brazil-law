@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+    “APELAÇÃO CÍVEL - AÇÃO REPARATÓRIA DECORRENTE DE DEPÓSITO DE GRÃOS - INEXISTÊNCIA DE CONTRATO DE DEPÓSITO - IRRELEVÂNCIA DIANTE DOS DEMAIS DOCUMENTOS JUNTADOS AOS AUTOS - MÁ CONSERVAÇÃO DO PRODUTO - REPARAÇÃO PELOS DANOS MATERIAIS DECORRENTES - RECURSO DESPROVIDO. A juntada do contrato de depósito não é imprescindível ao julgamento da ação reparatória pelos danos materiais decorrentes da má conservação do produto depositado, quando há documentos que demonstrem a existência da referida relação contratual. Comprovada inequivocamente a má conservação dos grãos depositados, é de rigor a condenação do depositário voluntário em ressarcir os prejuízos materiais daí decorrentes”. (eDOC 5, p. 135)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, II e XXXVI, do texto constitucional.
+    Nas razões recursais, alega-se que deve existir o ato jurídico perfeito para que uma obrigação seja exigível e exequível, o que não ocorreria no caso. (eDOC 5, p. 170)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie e o conjunto probatório constante dos autos, consignou que o instrumento contratual não é imprescindível para a existência do pacto ou prova das alegações do autor. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A ausência do contrato de depósito nos autos é impertinente para o deslinde do feito porque o instrumento contratual não é imprescindível para o ajuizamento da presente ação reparatória dos danos decorrentes do depósito, considerando-se a juntada dos documentos que demonstram a existência do pacto. Com a exordial demonstrou-se satisfatoriamente a obrigação assumida pelo apelante quanto à guarda e conservação dos produtos mencionados na peça basilar, sendo desnecessária, pois, a apresentação do contrato de depósito para a correspondente instauração da demanda”. (eDOC 5, p. 138)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Incide também no caso a Súmula 636, segundo a qual não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Nesse sentido, trago precedentes de ambas as Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RESOLUÇÃO DO CONTRATO DE COMPRA E VENDA E DO DEPÓSITO DE COMBUSTÍVEL. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 804800 AgR, rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.9.2010)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ALEGADA AFRONTA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. NECESSÁRIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. RESCISÃO DE CONTRATO. VÍCIO DE BENS E DESCUMPRIMENTO DE CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 800574 AgR, rel. Min. Cármen Lúcia, Segunda Turma, DJe 6.5.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de novembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
