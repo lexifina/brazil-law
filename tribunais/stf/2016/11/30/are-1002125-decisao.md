@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “PROCESSUAL CIVIL. APELAÇÃO. AÇÃO ORDINÁRIA. SUSPENSÃO DE EXIBILIDADE DAS ANUIDADES COBRADAS DA SOCIEDADE DE ADVOGADOS. IMPOSIÇÃO LEGAL QUE RECAI APENAS QUANTO AOS INSCRITOS. ADVOGADOS E ESTAGIÁRIO. RECURSO IMPROVIDO.” (eDOC 2, p. 72)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, caput e II, do texto constitucional. (eDOC 2, p. 92)
+    Nas razões recursais, alega-se que a contribuição obrigatória dos advogados e estagiários inscritos , a fim de que a entidade possa fiscalizar o exercício da advocacia, não se confunde com as anuidades que devem ser pagas pelas sociedades de advogados.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie, consignou que a Lei 8.906/1994 não prevê a cobrança de anuidade dos escritórios de advocacia. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Contudo, a controvérsia dos autos gira em torno da possibilidade ou não de instituição pela OAB/SP de anuidade de sociedade de advogados registradas perante o referido órgão.
+    Nesse sentido, a jurisprudência do C. Superior Tribunal de Justiça é firme no sentido de que somente os advogados e estagiários detêm obrigação de pagar anuidade ao Conselho de Classe, sendo diferente a situação das sociedades de advogados, porquanto não existe disposição legal nesse sentido. Nesse sentido, transcrevo os julgados:
+    PROCESSUAL CIVIL E TRIBUTÁRIO. ALEGAÇÃO DE OFENSA AO ART. 535. OMISSÃO NÃO CONFIGURADA. ANUIDADE DE ESCRITÓRIO DE ADVOCACIA. INEXIGIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. ILEGALIDADE DA RESOLUÇÃO Nº 08/2000 DO CONSELHO SECCIONAL DA OAB/SC.
+    1. É entendimento sedimentado o de não haver omissão no acórdão que, com fundamentação suficiente, ainda que não exatamente a invocada pelas partes, decide de modo integral a controvérsia posta (EDcl no AgRg no Ag 492.969/RS, Min. Herman Benjamin, 2ª T., DJ 14.02.2007; AgRg no Ag 776.179/SP, Min. José Delgado, 1ª T., DJ 12.02.2007).
+    2. "A Lei 8.906/94 não prevê a cobrança de anuidade dos escritórios de advocacia, mas tão-somente de seus inscritos (advogados e estagiários). Essa conclusão decorre da interpretação sistemática e teleológica do Estatuto da Advocacia e da OAB, pois quando o legislador fez uso do substantivo inscrição ou do adjetivo inscrito(s), referiu-se, sempre, ao(s) sujeito(s) advogado e/ou estagiário, e não à sociedade civil (pessoa jurídica). Consequentemente, é ilegal a Resolução nº 08/2000, do Conselho Seccional da OAB/SC, que instituiu cobrança de anuidade dos escritórios de advocacia, porquanto obrigação não prevista em lei" (REsp 879339/SC, 1ª Turma, Min. Luiz Fux, DJ de 31.03.2008). 3. Recurso especial a que se nega provimento.” (eDOC 2, p. 67)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confira-se, a propósito, o seguinte precedente:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ORDEM DOS ADVOGADOS DO BRASIL – OAB – CONSELHO SECCIONAL DE SÃO PAULO. COBRANÇA DE ANUIDADE. SOCIEDADE DE ADVOGADOS. ARTIGO 46 DA LEI 8.906/94. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.” (ARE 999.833, Rel. Min. Luiz Fux, DJe 23.11.2016)
+    “RECURSO EXTRAORDINÁRIO. ORDEM DOS ADVOGADOS DO BRASIL - OAB. CONSELHO SECCIONAL DO PARANÁ. COBRANÇA DE ANUIDADE DE SOCIEDADE DE ADVOGADOS. ANÁLISE DO ART. 46 DA LEI N. 8.906/1994 E DA RESOLUÇÃO N. 10/2000. 1. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 2º E 5º, INC. XIII, DA CONSTITUIÇÃO DA REPÚBLICA: SÚMULAS N. 282 E 356 DESTE SUPREMO TRIBUNAL. 2. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.” (RE 612.015, Rel. Min. Cármen Lúcia, DJe de 16.3.2011)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de novembro de 2016.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
