@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE POR OMISSÃO. LACUNA NO MUNICÍPIO DE COSMÓPOLIS QUANTO À FIXAÇÃO DE PERCENTUAL DE CARGOS EM COMISSÃO A SEREM OCUPADOS POR SERVIDORES PÚBLICOS DE CARREIRA. ARTIGO 37, V, DA CONSTITUIÇÃO FEDERAL, REPRODUZIDO PELO ARTIGO 115, V, DA CARTA BANDEIRANTE. NECESSIDADE DE LEI QUE DISPONHA A RESPEITO. OCORRÊNCIA DA OMISSÃO. DEVER DE ATUAÇÃO POSITIVA DE AMBOS OS PODERES. AÇÃO PROCEDENTE, COM DETERMINAÇÃO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º e 37, II e V, da Constituição.
+    A pretensão recursal não merece prosperar. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o ente federado não dispõe de legitimidade para interpor recurso em sede de controle normativo abstrato. Nesse sentido, confira-se o seguinte precedente:
+    “Agravo regimental. Ação direta de inconstitucionalidade. Ilegitimidade recursal do Estado-membro nas ações de controle concentrado de constitucionalidade. Agravo não provido. 1. A teor da jurisprudência da Corte, a legitimidade recursal no controle concentrado é paralela à legitimidade processual ativa, não se conferindo ao ente político a prerrogativa de recorrer das decisões tomadas pela Corte em sede de ação direta, seja de modo singular (art. 4º, parágrafo único, da Lei nº 9.868/99) seja colegiadamente (art. 26 da mesma legislação). A jurisprudência da Corte não merece qualquer tipo de revisão, uma vez que espelha a decorrência lógica da previsão, em rol taxativo, dos legitimados a provocar o processo objetivo de controle de constitucionalidade e a nele atuar como partes (CF, art. 103). 2. Agravo ao qual se nega provimento.” (ADI 1663-AgR-AgR, Rel. Min. Dias Toffoli
+    O Município, portanto, não se confunde com a pessoa do Prefeito para fins de atuação nos processos de controle abstrato de constitucionalidade. Dessa forma, é manifesta a ilegitimidade recursal do Município de Cosmópolis para a interposição do presente recurso.
+    Diante do exposto, com base no art. 932, III, do CPC/2015, não conheço do recurso.
+    Publique-se.
+          Brasília, 1º de dezembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
