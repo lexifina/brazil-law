@@ -1,0 +1,30 @@
+DECISÃO:
+    Trata-se de dois recursos extraordinários. O primeiro interposto por Nimpha Nascimento e Outras. O segundo, pela União (Sucessora da FEPASA – Ferrovia Paulista S/A).
+    Na origem, o juízo de 1º grau julgou procedente o pedido de Nimpha Nascimento e Outras, pelos seguintes fundamentos:
+    “O debatido artigo 201, parágrafo 2°. do chamado Estatuto dos Ferroviários, estabeleceu que seria tomado o salário-base do servidor à época da aposentadoria. Se tal época, até verbas acessórias já estavam integradas aos salários, face a habitualidade, o direito à complementação de aposentadoria é tido como direito adquirido, considerando-se o típico caráter contratual de relação jurídica, situação esta que o próprio Dec. n. 35.530/59 já havia reconhecido.
+    […]
+    Com isto, julgo PROCEDENTE a ação, para condenar a ré no pagamento das diferenças salariais da complementação de aposentadoria entre a função de ‘Oficial de Conservação III’ - código de classe salarial 604 e não como constou, desde a edição da RD 474/07, arcando com juros moratórios e atualização monetária, a contar da correção ora deliberada, bem como custas, despesas, além da verba honorária advocatícia que fixo em 10% sobre o total apurado em liquidação (cf. Art. 20, parágrafo 3º do C.P.C).”
+    Contra a sentença, a FEPASA interpôs apelação, sob o argumento de que “a cláusula contratual e legal disciplinadora do ‘quantum’ da pensão (art. 200 do Estatuto dos Ferroviários) estabelecia que ele estava limitado a 80% do pessoal da ativa”.
+    O Tribunal de Justiça do Estado de São Paulo deu provimento à apelação para julgar improcedente o pedido inicial, em acórdão assim ementado:
+    “PREVIDÊNCIA SOCIAL – FEPASA – alegação de que a pensão não deve corresponder a 100% dos proventos ou vencimento – acolhimento – art. 40, § 5º, da CF – totalidade – soma das parcelas – Recepção da legislação referente à pensão pela CF – apelo provido.
+    Totalidade não é sinônimo de integralidade.
+    Quando o diploma constitucional diz que a pensão corresponderá à totalidade, quer dizer que a base de cálculo dessa pensão levará em conta todas as parcelas que compunham o vencimento ou provento do servidor falecido.
+    Totalidade é a soma dessas parcelas.”
+    O Ministro Joaquim Barbosa, relator originário, determinou o sobrestamento dos recursos, para que se aguardasse o julgamento do mérito do RE 594.435-RG, sob a relatoria do Ministro Marco Aurélio.
+    De início, afasto o sobrestamento do feito. Isso porque o mencionado paradigma trata sobre o alcance do art. 114 da Constituição Federal no caso de complementação de proventos e pensões, disciplinada por lei estadual, e a incidência da contribuição previdenciária. Já a controvérsia ora em análise envolve, entre outros pontos, a discussão sobre a competência da Justiça comum para processar e julgar as ações de complementação de aposentadoria ajuizadas por antigos ferroviários e pensionistas da FEPASA, questão já decidida pelo Supremo Tribunal Federal.
+    Passo à análise dos recursos.
+    O recurso interposto por Nimpha Nascimento e Outras busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 40, § 5º (atual § 7º); e 126, § 5º, da Constituição. Sustenta que o texto constitucional “não admite que a pensão ‘PODERÁ CORRESPONDER’, mas, ao contrário, DETERMINA, ORDENA, FIRMA, taxativamente que ‘CORRESPONDERÁ’ à totalidade dos vencimentos cabentes ao servidor falecido”.
+    O recurso apresentado da União busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 114 e 173, § 1º, da Constituição. Sustenta que a discussão sobre a complementação da pensão é matéria disciplinada em acordos coletivos e, portanto, a Justiça comum é incompetente para a análise da controvérsia.
+    O Supremo Tribunal Federal firmou o entendimento no sentido de que os antigos ferroviários que atuavam na Fepasa estavam submetidos ao regime jurídico estatutário e não à Consolidação das Leis do Trabalho - CLT. Assim, a competência para a análise da controvérsia é da Justiça Comum (AI 468.245-AgR. Rel.ª Min.ª Ellen Gracie; RE 631.049-ED, de. minha relatoria; e RE 808.513-AgR, Rel. Min. Gilmar Mendes).
+    Ademais, esta Corte assentou que os pensionistas devem receber a pensão por morte no valor da totalidade dos vencimentos ou proventos dos servidores falecidos, tendo em conta a autoaplicabilidade do art. 40, § 7º, da Constituição Federal. Nesse sentido, veja-se a ementa do AI 548.235-AgR, julgado sob a relatoria do Ministro Eros Grau:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. EX-SERVIDORES DA FEPASA. REGIME ESTATUTÁRIO. PENSIONISTAS. PENSÃO INTEGRAL. AUTO-APLICABILIDADE DO ARTIGO 40, § 5º (ATUAL § 7º) DA CONSTITUIÇÃO DO BRASIL.
+    1. Orientação de ambas as Turmas deste Tribunal no sentido de que os antigos ferroviários que atuavam perante a extinta FEPASA estavam submetidos ao regime jurídico estatutário e não à Consolidação das Leis do Trabalho - CLT.
+    2. Recebimento de pensão por morte no valor da totalidade dos vencimentos ou proventos dos servidores falecidos, à luz do auto-aplicável art. 40, § 5º (atual § 7º), da Constituição do Brasil, observado o teto inscrito no art. 37, XI, da CB/88. Precedentes.
+    Agravo regimental a que se nega provimento.”
+    Diante do exposto:
+    (i) com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário da União (Sucessora da Fepasa); e
+    (ii) com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário de Nimpha Nascimento e Outras para estabelecer que o benefício da pensão por morte corresponda à totalidade dos proventos do servidor falecido, respeitado o limite do teto constitucional (art. 37, XI, da Constituição). Ficam invertidos os ônus de sucumbência, ressalvada eventual concessão do benefício da justiça gratuita, sem prejuízo do disposto no artigo 12 da Lei nº 1.060/1950. Fixo os honorários em 10% sobre o valor da causa.
+    Publique-se.
+     Brasília, 1º de dezembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
