@@ -1,0 +1,22 @@
+Decisão: 1. Trata-se de reclamação, com pedido de liminar, contra acórdão da 3ª Turma Especializada do Tribunal Regional Federal da 2ª Região que, ao determinar a reinclusão da reclamante no polo passivo de execução fiscal, teria violado o decidido no RE 562.276 (Rel. Min. Ellen Gracie, DJe 10/2/2011). Na inicial, a reclamante apresenta os seguintes argumentos: (a) o art. 13 da Lei 8.260/93 previa o regime de responsabilidade automática do corresponsável pelo crédito tributário, mas, no julgamento do RE 562.276, concluiu-se que a norma contrariava a Constituição Federal; (b) em meados de 1999, possuía inexpressivo percentual de quotas de participação no quadro societário da EMESE, mas desligou-se da empresa regularmente e com o consentimento dos demais sócios; (c) não obstante, figurou no polo passivo de execução fiscal movida contra a empresa em 2003, pela sua condição de sócia no momento da ocorrência do fato gerador; (d) em exceção de pré-executividade, houve o acolhimento da alegação de ilegitimidade passiva, pois estava “inequivocamente demonstrado que a excipiente jamais exerceu a gerência da empresa executada” (doc 1, fl. 3); (e) a decisão foi impugnada pelo exequente por agravo de instrumento inicialmente denegado e foram desprovidos recursos subsequentes, porém “após juízo de retratação decorrente da interposição de Recurso Especial pela Fazenda Nacional/INSS, foi determinada a reinclusão da Reclamante no polo passivo da execução fiscal originária, pura e simplesmente por constar o seu nome na CDA” (doc. 1, fl. 4); (f) opostos embargos de declaração contra o acórdão reclamado, rejeitou-se a tese de que os seus fundamentos não convergiam com o decido no RE 562.276/PR; (e) ainda se busca reverter o ato impugnado por meio de agravo interposto contra a denegação do recurso especial (doc. 1, fl. 401).
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que só a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l , CF/88), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, CF/88). Ademais, o art. 988 do CPC/2015 dispõe sobre as hipóteses da reclamação:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+    (...)
+    § 5 º É inadmissível a reclamação:
+    (...)
+    II proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+    No caso, pela via da reclamação, é prematuro o questionamento fundado na alegação de descumprimento do decidido no RE 562.276, cujo mérito foi apreciado sob o rito da repercussão geral. Isso porque não houve o esgotamento das instâncias ordinárias exigido pelo inciso II do § 5º do art. 988 do CPC/2015, tendo em vista a pendência de agravo contra a denegação do recurso especial (veja-se fl. 401 da inicial).
+    Nesse sentido, cita-se recente julgado da Segunda Turma:
+     PROCESSUAL CIVIL. RECLAMAÇÃO PROPOSTA PARA GARANTIR A OBSERVÂNCIA DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. CPC/2015, ART. 988, § 5º, II. INTERPRETAÇÃO TELEOLÓGICA.
+    1. Em se tratando de reclamação para o STF, a interpretação do art. 988, § 5º, II, do CPC/2015 deve ser fundamentalmente teleológica, e não estritamente literal. O esgotamento da instância ordinária, em tais casos, significa o percurso de todo o íter recursal cabível antes do acesso à Suprema Corte. Ou seja, se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação.
+    2. Agravo regimental não provido (Rcl 24.686 ED-AgR, de minha relatoria, j. em 25/10/2016).
+    3. Diante do exposto, nego seguimento ao pedido.
+    Publique-se. Intime-se.
+    Brasília, 1º de dezembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
