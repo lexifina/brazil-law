@@ -1,0 +1,25 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que adotara como razão de decidir os seguintes fundamentos da sentença:
+    “Alega o autor, ex-policial civil, que em razão de sua prisão teria sido determinado seu afastamento das funções e o desconto de 1/3 dos vencimentos nos termos do Regulamento do Estatuto dos Funcionários Civis do Estado (Decreto Lei nº 2479/1979).
+    Sustenta que tal dedução seria ilegal em razão da ausência de previsão no estatuto e regulamento dos policiais civis (Decretos Lei nº 218/1975 e 3044/1980).
+    Narra que em razão do desconto experimentou um prejuízo financeiro, bem como danos morais em razão da privação no sustento de sua família.
+    O exame dos autos demonstra que o autor ficou preso no período de 12.12.2012 a 09 de agosto de 2013, preventivamente, por força de decisão nos autos a Ação Penal nº. 0000049-46.2011.8.19.0068 da 1ª Vara Única da Comarca de Rio das Ostras, tendo sofrido desconto de 1/3 de seus vencimentos no período de março de 2013 a novembro de 2013.
+    […]
+    Portanto, em razão da prisão reconhecida na inicial, correta a decisão administrativa que afastou o autor das funções e estabeleceu a redução de 1/3 dos vencimentos durante o afastamento na medida em que há expressa previsão na legislação que regulamenta a matéria. Considerando a cassação da aposentadoria e encerramento do vinculo com o serviço público, conforme expressa menção no artigo acima transcrito, não faz jus o autor ao ressarcimento dos valores deduzidos.
+    Assim, inexistindo qualquer ilegalidade no ato administrativo impugnado, não comporta acolhimento a pretensão deduzida.
+    Posto isso, JULGO IMPROCEDENTE o pedido, extinguindo o processo com resolução de mérito, nos termos do artigo 269, I, do CPC”.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, XV, da Constituição. Sustenta que “o artigo 21 do Decreto Lei estadual 220/75 , regulamentado pelo artigo 145 do Decreto 2479/79, não foi recepcionado pela nova ordem constitucional”.
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, a Súmula 284/STF.
+    O recurso deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem contraria a jurisprudência desta Corte, que, ao analisar caso semelhante (RE 482.006, julgado sob a relatoria do Ministro Ricardo Lewandowski), assentou não ser recepcionada pela Constituição Federal norma legal que consigna a redução de vencimentos de servidores públicos que respondam a processo criminal, uma vez que tal norma viola os princípios constitucionais da presunção de inocência e da irredutibilidade de vencimentos. Veja-se a ementa do referido julgado:
+     “ART. 2º DA LEI ESTADUAL 2.364/61 DO ESTADO DE MINAS GERAIS, QUE DEU NOVA REDAÇÃO À LEI ESTADUAL 869/52, AUTORIZANDO A REDUÇÃO DE VENCIMENTOS DE SERVIDORES PÚBLICOS PROCESSADOS CRIMINALMENTE. DISPOSITIVO NÃO-RECEPCIONADO PELA CONSTITUIÇÃO DE 1988. AFRONTA AOS PRINCÍPIOS DA PRESUNÇÃO DE INOCÊNCIA E DA IRREDUTIBILIDADE DE VENCIMENTOS. RECURSO IMPROVIDO.
+    I - A redução de vencimentos de servidores públicos processados criminalmente colide com o disposto nos arts. 5º, LVII, e 37, XV, da Constituição, que abrigam, respectivamente, os princípios da presunção de inocência e da irredutibilidade de vencimentos.
+    II - Norma estadual não-recepcionada pela atual Carta Magna, sendo irrelevante a previsão que nela se contém de devolução dos valores descontados em caso de absolvição.
+    III - Impossibilidade de pronunciamento desta Corte sobre a retenção da Gratificação de Estímulo à Produção Individual - GEPI, cuja natureza não foi discutida pelo tribunal a quo, visto implicar vedado exame de normas infraconstitucionais em sede de RE.
+    IV - Recurso extraordinário conhecido em parte e, na parte conhecida, improvido.”
+    No julgamento do ARE 705.174-AgR, sob a relatoria do Ministro Dias Toffoli, a Primeira Turma deste Tribunal decidiu, por unanimidade de votos, que “o fato de o servidor público estar preso preventivamente não legitima a Administração a proceder a descontos em seus proventos”. Veja-se trecho do voto do relator do caso:
+    “Referido desconto também se afigura ilegal em vista das referidas faltas ao serviço decorrentes da prisão cautelar, pois atenta contra o princípio da irredutibilidade dos vencimentos do servidor público, o qual, apenas depois de regular processo administrativo, em que deve ser-lhe assegurada a ampla defesa, pode vir a ser privado de seus vencimentos, ainda que somente de uma parte de seu montante”.
+    Diante do exposto, com base no art. 932, V, b, do CPC/2015 e no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário. Invertidos os ônus da sucumbência, ressalvada a eventual concessão do benefício da justiça gratuita, sem prejuízo do disposto no art. 12 da Lei nº 1.060/1950.
+    Publique-se.
+          Brasília, 1º de dezembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
