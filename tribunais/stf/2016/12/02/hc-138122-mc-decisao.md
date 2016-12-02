@@ -1,0 +1,29 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Carlos Henrique Ferreira da Silva, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao RHC 73.109/MG, de relatoria do Ministro Rogerio Schietti Cruz.
+    Consta dos autos que o paciente foi preso em flagrante pela suposta prática do delito tipificado pelo art. 157, § 2°, I e II, do Código Penal (roubo). O Juízo de Direito, na audiência de custódia, converteu a prisão em flagrante para preventiva.
+    Inconformada com a decisão, a defesa manejou habeas corpus no Tribunal de Justiça do Estado de Minas Gerais, que teve a ordem denegada.
+    Assim, a defesa interpôs recurso ordinário em habeas corpus no Superior Tribunal de Justiça, que negou provimento ao recurso.
+    É contra essa última decisão que se insurge a impetrante.
+    Sustenta, em suma, a necessidade de desconstituição da segregação cautelar do paciente, uma vez que
+    “[A] segregação cautelar do paciente não pode basear-se no fato de este possuir uma condenação em primeira instância, tampouco deixar de considerar que esta não determinou o encarceramento do condenado, pois como se nota do relatório de antecedentes, o regime de cumprimento de pena é o aberto” (pág. 5 do documento eletrônico 1).
+    Assevera, outrossim, ser evidente a contradição dos fundamentos da decisão que determinou a prisão preventiva, já que teria sido considerado
+    “[…] motivo suficiente uma Sentença condenatória de primeiro grau, com cumprimento de pena em regime aberto para que fosse decretada a prisão preventiva do paciente. Ora, quando transitada em julgado, e se considerado culpado, o cumprimento de pena oriunda da condenação sofrida pelo paciente se daria em regime aberto, portanto não há como conceber que o paciente seja preso preventivamente em regime fechado, em função de possuir esta condenação” (pág. 5 do documento eletrônico 1; grifos no original).
+    Destaca, ainda, que “outro ponto merecedor de considerações é a fundamentação pautada na garantia da ordem pública”, já que “o conceito desta baliza é aberto demais e fere a garantia da legalidade estrita em termos de restrição da liberdade” (pág. 5 do documento eletrônico 1), de modo que,
+    “[…] considerando a ausência de fundamentos que possam ensejar a prisão cautelar do paciente; e, considerando que, se necessário a imposição de medidas cautelares, as medidas previstas no art. 319 do Código de Processo Penal restariam mais do que suficientes, requer-se o restabelecimento do direito de liberdade do paciente, com vistas que o não fazê-lo restaria como infringência aos princípios mais caros de um Estado democrático de Direito” (págs. 6-7 do documento eletrônico 1).
+    Ao final, requer, liminarmente, a revogação da prisão preventiva do paciente, deferindo o direito de aguardar em liberdade até o julgamento de mérito deste writ. Pede, ainda, a concessão definitiva da ordem.
+    É o relatório suficiente. Decido.
+    Eis a ementa do acórdão impugnado nesta impetração:
+    “RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA E PELO CONCURSO DE PESSOAS. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO SUFICIENTE. RECURSO NÃO PROVIDO.
+    1. A jurisprudência desta Corte Superior é firme em assinalar que a determinação de segregar o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+    2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a garantia da ordem pública, evidenciada pelo risco de reiteração delitiva, ao destacar que o recorrente possui condenação em primeiro grau de jurisdição pela prática de outro delito de roubo.
+    3. Recurso não provido” (RHC 73.109/MG).
+    A concessão de medida liminar ocorre de modo excepcional, e sempre quando estão presentes os pressupostos autorizadores para tanto.
+    No caso dos autos não se verifica, de imediato, a presença da plausibilidade jurídica inconteste necessária para o deferimento do pleito de urgência. A simples leitura da ementa do acórdão proferido pelo STJ no RHC 73.109/MG afasta qualquer alegação de constrangimento ilegal.
+    Ademais, colho do termo de audiência de custódia os seguintes fundamentos:
+    “A prisão, analisada pelos aspectos legais, não comporta aqui oportunidade para o relaxamento ou para a concessão de liberdade provisória. No caso em tela, o Autuado possui condenação pelo delito de roubo, ainda que não transitada em julgado, revela uma conduta propensa à prática do delito, de gravidade extrema, o que recomenda a conversão da prisão em flagrante em preventiva. Também não vislumbro nenhuma medida alternativa à prisão, em razão da conduta do Autuado de forma reiterada na prática de delito de roubo, o que sinaliza que solto continuará em sua conduta que tanto abala a ordem pública. Ante o exposto, nos termos do art. 310, II, e presentes os requisitos do art. 312 c/c art. 313, I, todos do C.P.P., CONVERTO A PRISÃO EM FLAGRANTE de CARLOS HENRIQUE FERRREIRA DA SILVA EM PRISÃO PREVENTIVA” (pág. 84 do documento eletrônico 2; grifos no original).
+     Assim, em que pesem os argumentos expendidos pelo impetrante, tenho que eles não são suficientes para, a priori, suspender a decisão atacada, permitindo a liberdade provisória do paciente, já que não se pode impedir que os julgadores apreciem livremente as alegações e provas dos autos para formação de seu livre convencimento motivado.
+    Diante de tal quadro, e sem prejuízo de uma apreciação mais aprofundada por ocasião do julgamento de mérito, indefiro a medida liminar.
+    Solicitem-se informações. Após, abra-se vista ao Ministério Público Federal.
+    Publique-se.
+    Brasília, 2 de dezembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
