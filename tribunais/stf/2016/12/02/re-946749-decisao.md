@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da Primeira Região, ementado nos seguintes termos:
+    “PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. DESAPROPRIAÇÃO. INVASÃO DE IMÓVEL CUJO PROCESSO EXPROPRIATÓRIO ENCONTRA-SE EM CURSO NA ESFERA ADMINISTRATIVA. SUSPENSÃO DO PROCESSO. EXEGESE DO ARTIGO 2º, PARÁGRAFO 6º, DA LEI 8.629/1993. 1. Esbulhado ou invadido o imóvel desapropriando, é possível a paralisação do processo expropriatório, seja na fase de vistoria, avaliação ou desapropriação (art. 2º, §6º, da Lei 8.629/1993). Precedentes. 2. Apelação desprovida”. (eDOC 2, p. 105)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos art. 184, do texto constitucional.
+    Nas razões recursais, alega-se que a desapropriação somente poderá ser impedida se a ocupação coletiva tiver nexo causal com a improdutividade do imóvel, “de modo que a própria ocupação constitua-se em força maior impeditiva do cumprimento da função social”.(eDOC 3, p. 13)
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie, Lei 8.629/1993, e o conjunto probatório constante dos autos, consignou que a propriedade fora esbulhada e invadida por integrantes do Movimento Sem Terra e que, além disso, a paralisação do processo expropriatório é medida necessária à espécie. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “De fato, o aludido dispositivo legal veda expressamente a avaliação, vistoria e a desapropriação do imóvel objeto de esbulho ou invasão motivada por conflito agrário ou fundiário de caráter coletivo, nos dois anos subseqüentes à desocupação, ou no dobro desse prazo, em caso de reincidência”. (eDOC 2, p. 102)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DESAPROPRIAÇÃO. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO. REEXAME: IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LIV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. CONTRARRAZÕES APRESENTADAS. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL O QUAL SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE-AgR 920.583, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 18.2016)
+    “Agravo regimental no recurso extraordinário. Administrativo. Desapropriação. Domínio. Titularidade. Justa indenização. Discussão. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional ou para o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido”.(RE-AgR 607.355, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 28.5.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 2 de dezembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
