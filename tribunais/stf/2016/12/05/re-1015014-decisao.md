@@ -1,0 +1,28 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Instituto de Previdencia do Estado do Rio Grande do Sul. Aparelhado o recurso na violação do art. 40, §2º e 5º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Transcrevo, por oportuno, a ementa proferida pela Corte de origem:
+    “APELAÇÃO CÍVEL. PENSIONISTA. INSTITUIDOR BENEFÍCIO SERVIDOR PÚBLICO ESTADUAL OFICIAL DE JUSTIÇA. INTEGRALIDADE PENSÃO PREVIDENCIÁRIA DO INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL. – IPERGS. INTEGRALIDADE PENSÃO INDENIZATÓRIA DO ESTADO DO RIO GRANDE DO SUL. LEI ESTADUAL Nº 5.226/66
+    Prescrição – Em se tratando de prestações sucessivas a prescrição é contada a partir do vencimento de cada uma delas, ou seja, atinge apenas as prestações e não o direito em si ( fundo de direito). O lapso temporal não obsta o renascimento periódico do direito ao pagamento correto das parcelas. Somente o indeferimento da reclamação da parte tem o condão de iniciar a contagem do prazo prescricional do fundo de direito.
+    Direito Integralidade Pensão Previdenciária e Pensão Indenizatória – Os benefícios decorrem de causa comum, óbito do servidor público, mas se referem a direitos e relações jurídicas distintas. Possibilidade de cumulação da pensão de caráter previdenciário, por morte do segurado, com a pensão indenizatória, assegurada à família do servidor público falecido em razão do exercício de suas funções.
+    Prequestionamento – Observado o princípio do livre convencimento motivado, são considerados devidamente prequestionados os dispositivos suscitados prelas partes.
+    NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO. UNÂNIME.”
+    No caso, suposta afronta aos preceitos constitucionais indicados nas razões recursais somente poderia ser constatada a partir da análise da legislação infraconstitucional aplicável, bem como do revolvimento do quadro fático delineado, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse mesmo sentido, anotem-se as seguintes decisões monocráticas: RE 637984, Rel. Min. Dias Toffoli, DJe 13.09.2013, AI nº 475.444/RS, Rel. Min. Ellen Gracie, DJe 12/09/2005, AI nº 179.635/RS, Rel. Min. Sepúlveda Pertence, Dje 08/10/1999, RE 814.183, Rel. Min. Gilmar Mendes, DJe 18.06.2014 e RE nº 732.269/RS, Rel Min. Luiz Fux, DJe de 6/3/13, in verbis:
+    “RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. CUMULAÇÃO. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280 DESTA CORTE. OFENSA REFLEXA A CONSTITUIÇÃO FEDERAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO.
+    1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    2. Deveras, para se chegar à conclusão contrária à adotada pelo acórdão recorrido como deseja o recorrente quanto ao percebimento de duas modalidades de pensão (caráter previdenciário e caráter indenizatório do Estado), necessário seria o reexame da legislação local que o orientou, o que inviabiliza o extraordinário, a teor do Enunciado da Súmula 280 do Supremo Tribunal Federal, verbis : por ofensa a direito local não cabe recurso extraordinário .
+    3. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, DJe de 21/10/10, e o ARE 676.563, Rel.(a) Min.(a) Rosa Weber, Dje de 11/12/12.
+    4. In casu, o acórdão recorrido assentou, (fl. 73): APELAÇÃO CÍVEL. ESTADO DO RIO GRANDE DO SUL. INSTITUIDOR DO BENEFÍCIO SERVIDOR PÚBLICO ESTADUAL. INTEGRALIDADE PENSÃO INDENIZATÓRIA.
+    Direito à Integralização da Pensão Indenizatória. – O direito à integralidade subsiste, haja vista que ambas as pensões (previdenciária e indenizatória), embora decorram de causa comum, qual seja o óbito do servidor público, se referem a direitos e relações jurídicas distintas. É possível a cumulação da pensão de caráter previdenciário, por morte do segurado, com a pensão indenizatória, assegurada à família do servidor público falecido em razão do exercício de suas funções.
+    Prequestionamento – Observado o princípio do livre convencimento motivado, são considerados devidamente prequestionados os dispositivos suscitados pelas partes.
+    NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO INTERPOSTO PELO ESTADO DO RIO GRANDE DO SUL. UNÂNIME.
+    5. Recurso extraordinário a que se nega seguimento.” (RE 732269/RS, Rel. Min. Luiz Fux, Dje 06.02.2013).
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 05 de dezembro de 2016.
+Ministra Rosa Weber
+Relatora
