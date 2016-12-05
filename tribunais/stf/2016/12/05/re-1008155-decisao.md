@@ -1,0 +1,18 @@
+DECISÃO: O presente recurso extraordinário foi interposto por São Paulo Previdência – SPPREV contra acórdão que, confirmado em sede de embargos de declaração pela 3ª Turma do Colégio Recursal da comarca de Jundiaí – SP, está assim ementado:
+    “RECURSO INOMINADO – GRATIFICAÇÃO DE GESTÃO EDUCACIONAL – Servidores inativos – Verba que não pode ser considerada gratificação de função ou serviço – Trata-se de implícito aumento de vencimentos – Extensão aos inativos – Admissibilidade – Art. 40, § 8º da CF – Lei 11.960/09 – Aplicabilidade no tocante aos juros e correção monetária – Recurso voluntário da Fazenda provido em parte.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei Complementar nº 1.256/2015), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o órgão judiciário de origem, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “(...) Com efeito, a Lei Complementar nº 1.256/15, instituidora da Gratificação de Gestão Educacional GGE aos servidores estaduais integrantes das classes de suporte pedagógico em efetivo exercício na Secretaria da Educação, prevê em seu artigo 8º que:
+    ‘Art. 81 – Fica instituída a Gratificação de Gestão Educacional GGE aos integrantes das classes de suporte pedagógico do Quadro do Magistério, em efetivo exercício na Secretaria da Educação’.
+    Do dispositivo é possível concluir que a gratificação não pode ser enquadrada entre aquelas chamadas ‘propter laborem’, porquanto não se relacionam com condições excepcionais nas quais presta o serviço. Basta o exercício efetivo da atividade para que o servidor faça jus à percepção da gratificação.
+    No caso, como já dito, a gratificação de gestão educacional não possui natureza transitória, sendo paga habitualmente a todos os servidores em exercício na Secretaria da Educação. Não há qualquer atividade especial a justificar diferenças de pagamento. Importa observar, de outra parte, que o art. 10 da referida lei estabelece que:
+    ‘Art. 10 – O servidor não perderá o direito à percepção da Gratificação de Gestão Educacional GGE quando se afastar em virtude de férias, licença-prêmio, gala, nojo, júri, licença para tratamento de saúde, faltas abonadas, licença-gestante, licença adoção, licença-paternidade, serviços obrigatórios por lei e outros afastamentos que a legislação considere como de efetivo exercício para todos os fins de direito e efeitos legais’.”
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, ante a ausência de condenação em verba honorária  (Lei nº 9.099/95, art. 55).
+    Publique-se.
+    Brasília, 05 de dezembro de 2016.
+Ministro CELSO DE MELLO
+Relator
