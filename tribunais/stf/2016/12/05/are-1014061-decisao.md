@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que manteve sentença que condenou o Distrito Federal ao pagamento de indenização por danos morais. Destaca-se da ementa do acórdão recorrido:
+    “ADMINISTRATIVO. LEGITIMIDADE PASSIVA AD CAUSAM CONFIRMADA. PRESCRIÇÃO AFASTADA. RESPONSABILIDADE OBJETIVA. DENUNCIAÇÃO À LIDE. INDEFERIMENTO. DIREITO DE REGRESSO DO ESTADO EM FACE DOS AGENTES CAUSADORES DO DANO.
+    A legitimidade passiva recai sobre aquele que tem pertinência subjetiva quanto à relação de direito alegada.
+    Tratando-se de responsabilidade objetiva do Estado, quem responde pelos danos causados por seus agentes a terceiros são as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos, sendo-lhes, todavia, assegurado o direito de regresso contra o responsável, nos casos de dolo e culpa.
+    [...]” (página 67 do documento eletrônico 4).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 37, § 6º, da mesma Carta, sob o argumento de que o agente público causador do dano não estava no exercício de sua função estatal no momento do evento danoso, o que afasta a responsabilidade objetiva do Estado na espécie.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido, com apoio no acervo probatório dos autos, entendeu configurada a responsabilidade objetiva do Distrito Federal sob os seguintes fundamentos:
+    “[...]
+    Na hipótese em tela, o apelado imputa aos ora recorrentes a responsabilidade objetiva pelos danos morais sofridos após a colisão do veículo dirigido pelo agente público Weverton Souza Marçal na traseira do automóvel de propriedade do recorrido, ocorrida em 23/5/2004, por volta das 22h30 (fls. 60/62).
+    Consoante destacado na r. Sentença recorrida, após o acidente de trânsito, o policial, que estava de folga dos serviços da corporação a que pertence, procedeu à revista pessoal do recorrido após abordá-lo com arma de fogo e identificar-se como policial, retendo documentos e lavrando auto de infração de trânsito. Logo, o agente público, apesar de não formalmente na escala de serviço ou em diligência oficial, praticou atos inerentes ao exercício de suas funções públicas.
+    [...]” (pág. 1 do documento eletrônico 5).
+    Assim, para divergir desse entendimento e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF. Nesse sentido, menciono o ARE 919.386-AgR/PE, Rel. Min. Celso de Mello, cuja ementa segue transcrita:
+    “RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO (CF, ART. 37, § 6º) – CONFIGURAÇÃO – TEORIA DO RISCO ADMINISTRATIVO – MORTE CAUSADA POR DISPARO EFETUADO COM ARMA DE FOGO PARTICULAR MANEJADA POR POLICIAL MILITAR DO ESTADO DE PERNAMBUCO EM PERÍODO DE FOLGA – RECONHECIMENTO, PELO TRIBUNAL DE JUSTIÇA LOCAL, DE QUE SE ACHAM PRESENTES TODOS OS ELEMENTOS IDENTIFICADORES DO DEVER ESTATAL DE REPARAR O DANO – CARÁTER SOBERANO DA DECISÃO LOCAL, QUE, PROFERIDA EM SEDE RECURSAL ORDINÁRIA, RECONHECEU, COM APOIO NO EXAME DOS FATOS E PROVAS, A INEXISTÊNCIA DE CAUSA EXCLUDENTE DA RESPONSABILIDADE CIVIL DO PODER PÚBLICO – INADMISSIBILIDADE DE REEXAME DE PROVAS E FATOS EM SEDE RECURSAL EXTRAORDINÁRIA (SÚMULA 279/STF) – DOUTRINA E PRECEDENTES EM TEMA DE RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO – ACÓRDÃO RECORRIDO QUE SE AJUSTA À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL – SUCUMBÊNCIA RECURSAL (CPC/15, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE ‘TRABALHO ADICIONAL’ POR PARTE DO VENCEDOR DA DEMANDA (NÃO APRESENTAÇÃO DE CONTRARRAZÕES RECURSAIS) – AGRAVO INTERNO IMPROVIDO (grifos meus).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 5 de dezembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
