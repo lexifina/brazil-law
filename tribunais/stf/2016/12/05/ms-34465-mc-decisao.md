@@ -1,0 +1,44 @@
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por Mário Rodrigues Júnior e Dario Rais Lopes contra ato do Tribunal de Contas da União.
+    Os impetrantes alegam que
+    “ocupavam o cargo de Diretor-Presidente e Diretor de Engenharia, respectivamente, do DERSA - Desenvolvimento Rodoviário S/A e foram responsabilizados por supostas deficiências no projeto básico de licitação realizada no âmbito do Rodoanel Metropolitano de São Paulo – Rodoanel/SP.
+    Ocorre que as falhas identificadas na elaboração do projeto básico das obras do Trecho Sul do Rodoanel/SP não são imputáveis aos Impetrantes, que não tinham responsabilidade técnica pela elaboração e conferência dos projetos” (pág. 4 do documento eletrônico 1).
+    Sustentam que,
+    “ante o rol de competências da Diretoria do DERSA, se evidencia que a responsabilidade técnica pertencia a servidores do DERSA que elaboraram o projeto, assim como aos pareceristas que se manifestaram no caso que, entretanto, nem sequer foram chamados aos autos para prestar informação junto ao TCU” (pág. 5 do documento eletrônico 1).
+    Dizem que
+    “a penalização aplicada pelo TCU responsabiliza os Impetrantes pela adoção de projeto básico deficiente no edital da Concorrência 3/2005. O ato combatido considera que os Impetrantes ‘assinaram o ato de abertura da licitação, com vistas à apresentação de propostas comerciais, cujo projeto de referência se mostrava deficiente, com informações e estudos incompletos, pois estavam em desenvolvimento pelas empresas projetistas’[...].
+    Logo, inadequada a imputação de responsabilidade aos dirigentes máximos de um ente da administração pública pelo TCU sem que houvesse a oitiva dos profissionais técnicos que efetivamente elaboraram os referidos projetos apontados como deficientes” (pág. 5 do documento eletrônico 1).
+    Destacam, também, que
+    “a condenação ao pagamento de multa imposta é oriunda de suposta infração administrativa pelos Impetrantes, ou seja, o Tribunal de Contas da União considerou as falhas identificadas na elaboração do projeto básico das obras do Trecho Sul do Rodoanel/SP para condená-los.
+    Registre-se que infração administrativa é o ‘descumprimento voluntário de uma norma administrativa para o qual se prevê sanção cuja imposição é decidida por uma autoridade administrativa – ainda que não necessariamente aplicada nesta esfera’, como é o caso das sanções impostas pelo Tribunal de Contas da União. Apesar de ser Órgão do Poder Legislativo, a sanção de multa imposta é eminentemente de caráter administrativo.
+    Feita esta consideração, se observa que não houvera qualquer descumprimento voluntário por parte dos agentes sancionados das disposições legais relacionadas. Não houvera evidência ou prova de que a incursão em supostas infrações se deu de modo voluntário.
+    Na condenação imposta, o Tribunal de Contas da União não observou a noção do Princípio da exigência de voluntariedade para incursão na infração, o qual deveria balizar a instrução e julgamento das suas demandas” (págs. 5-6 do documento eletrônico 1).
+    Aduzem, mais, que,
+    “assim, é violada esta garantia de segurança pelo TCU, assentada na previsibilidade de que certas condutas podem ou devem ser praticadas e suscitam dados efeitos, ao passo que outras não podem sê-lo, ao qualificar os Impetrantes como incursos em infração quando não houvera sido provado o animus de praticar dada conduta. Caso contrário, estará se chancelando a aplicação de Responsabilidade Objetiva aos agentes públicos, o que não encontra guarida na ordem jurídica pátria.
+    Via de regra, é indispensável o elemento subjetivo – ainda que meramente o animus – para aplicação de sanções àquele que pratica uma conduta qualificada como infração, para que, a partir daí, se verifique o nexo de causalidade entre a conduta e o possível dano ao erário.
+    Admitir que o Gestor público seja responsável por diversas diretorias, divisões e órgãos de execução significa contrariar a necessidade da identificação desse elemento subjetivo, sem o qual a sanção não se justifica” (pág. 7 do documento eletrônico 1).
+    Ao final, pedem
+    “i) A concessão de tutela de urgência para que liminarmente seja suspensa a decisão do TCU que impôs o pagamento de multa no valor de R$ 30.000,00 (trinta mil reais), na forma do art. 300 do Código de Processo Civil e do art. 7º, III, da Lei nº 12.016/20094;
+    ii) Seja julgado procedente este Mandado de Segurança para que seja anulado os atos do TCU que consubstanciaram na imposição da sanção de multa aos Impetrantes, em especial o Acórdão nº 2.366/2016 – TCU – Plenário, de 14/09/2016, que negou provimento aos pedidos de reexame formulados pelos Impetrantes, no âmbito do Processo TC 001.004/2008-3, haja vista que não houvera qualquer descumprimento voluntário por parte dos agentes sancionados das disposições legais relacionadas, conforme a fundamentação supra” (págs. 9-10 do documento eletrônico 1).
+    Em 17/10/2016, solicitei informações ao Tribunal de Contas da União (documento eletrônico 8), que as prestou, nos seguintes termos:
+    “Mandado de Segurança, com pedido de liminar, impetrado por Mário Rodrigues Júnior e Dario Rais Lopes, contra ato do TCU consubstanciado no Acórdão 2.366/2016-TCU-Plenário, por meio do qual a Corte de Contas rejeitou embargos de declaração opostos contra decisão que os condenou ao pagamento de multa em razão de irregularidades na execução das obras do trecho sul do Rodoanel Metropolitano de São Paulo, no âmbito do Fiscosbras 2008.
+    1. Preliminar: Matéria controvertida. Iliquidez dos fatos. A matéria exige aprofundado exame do acervo fático-probatório constante dos autos do TC-0011.004/2008-3, insuscetível de apreciação no estreito campo do Mandado de Segurança, exigindo-se, assim, sua extinção, sem exame de mérito. Precedentes do STF.
+    2. Não compete ao Poder Judiciário rever o mérito das decisões da Corte de Contas, salvo em caso de nulidade por irregularidade formal grave ou manifesta ilegalidade, sob pena de seu pronunciamento resultar em mero e inútil formalismo. A função de julgar relatório de levantamento de auditoria realizada com o intuito de verificar a correta aplicação de recursos públicos federais é atribuída pela Constituição com exclusividade ao TCU.
+    3. Legalidade e legitimidade do Acórdão 707/204-Plenário.
+    4. Não cabimento do pedido de liminar, ante a ausência do fumus boni iuris e do periculum in mora.
+    5. Parecer pela denegação da ordem, dada a legitimidade da decisão proferida pelo TCU e a inexistência do direito líquido e certo alegado pelos impetrantes” (pág. 4 do documento eletrônico 13).
+    É o relatório necessário. Decido o pleito cautelar.
+    Inicialmente, ressalto que tenho por preenchidos, prima facie, os pressupostos de admissibilidade deste mandado de segurança.
+    A autoridade apontada como coatora é parte legítima, porquanto o ato impugnado, do qual se alega lesão ao direito dos impetrantes, foi proferido pelo Tribunal de Contas da União por meio do Acórdão 707-9/14-P.
+    Muito bem. O deferimento de liminar em mandado de segurança, que resulta do concreto exercício do poder geral de cautela outorgado aos juízes e Tribunais, somente se justifica em face das situações que se ajustam aos pressupostos constantes do art. 7°, III, da Lei 12.016/2009, ou seja, ante (i) a existência de fundamento relevante e (ii) da possibilidade de ineficácia da ordem de segurança posteriormente concedida.
+    Sem a ocorrência simultânea desses dois requisitos, que são necessários, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Na espécie, não vislumbro a existência de fundamento relevante, suficiente para determinar a suspensão cautelar do ato combatido.
+    Muito embora os impetrantes tenham se manifestado nos autos do Relatório de Levantamento (Processo 011.004/2008-3) no sentido do que aqui alegam, o Ministro Relator no TCU, ao não acatar o parecer da unidade técnica responsável pela colheita dessas manifestações e julgar de forma contrária, de acordo com as suas convicções, não incorreu, aparentemente, em qualquer ilegalidade que possa ser aferida de plano neste writ.
+    Ademais, inexiste nos autos documentos comprobatórios que demonstrem de modo inconteste a efetiva atuação daqueles que são indicados pelos impetrantes como os responsáveis pelas irregularidades apuradas pelo Tribunal de Contas da União.
+    Ressalte-se, nesse sentido, que a jurisprudência do Supremo Tribunal Federal é assente no sentido de que a ação de mandado de segurança não comporta dilação probatória.
+    Isso posto, indefiro a liminar.
+    Dê-se ciência desta impetração à Advocacia-Geral da União, enviando-lhe cópia da inicial (art. 7º, II, da Lei 12.016/2009).
+    Após, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 5 de dezembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
