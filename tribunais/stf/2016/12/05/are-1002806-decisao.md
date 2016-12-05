@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Segunda Turma do Tribunal Regional Federal da 3ª Região (eDOC 1, p. 234/235):
+     “PROCESSO CIVIL - AGRAVO LEGAL PREVISTO NO. ARTIGO 557, §1º DO CPC -. APELAÇÃO DA UNIÃO EM AÇÃO ORDINÁRIA - CONSTITUCIONAL E ADMINISTRATIVO - PROFISSIONAL DA SAÚDE - CUMULAÇÃO DE CARGOS PÚBLICOS - POSSIBILIDADE DESDE QUE HAJA COMPATIBILIDADE DE HORÁRIOS - LIMITAÇÃO DA JORNADA DIÁRIA - IMPOSSIBILIDADE POR AUSÊNCIA DE PREVISÃO LEGAL - PODERES DO RELATOR DO RECURSO - MANUTENÇÃO DA DECISÃO. PRELIMINAR REJEITADA. AGRAVO DESPROVIDO.
+    I - O Código de Processo Civil atribui poderes ao Relator para negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, bem como para dar provimento ao recurso interposto quando o ato judicial recorrido estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior.
+    II - Reitero os argumentos expendidos por ocasião da prolação da decisão monocrática, inclusive, quanto a rejeição da preliminar arguida, motivo pelo qual adoto os fundamentos daquela decisão para julgar o presente recurso. E as razões expostas pela União/agravante em nada abalam a anterior fundamentação.
+    III - Reitera-se que conforme salientado pela decisão do Relator, ora agravada, não há norma que estabeleça a carga horária máxima das jornadas acumuladas, exigindo o texto constitucional e legal que haja apenas a compatibilidade de horários. Precedente.
+    IV- Das alegações trazidas no presente, salta evidente que não almeja a União/agravante suprir falhas no julgado, alegando inobservância as leis infraconstitucionais e constitucionais, buscando, em verdade, externar seu inconformismo com a solução adotada, que lhe foi desfavorável, pretendendo vê-la alterada.
+    V - Diante das circunstâncias, o julgamento monocrático não caracteriza abuso de poder, já que se baseou em orientação jurisprudencial e enquadrou a matéria recursal nos respectivos limites.
+    VI - Preliminar rejeitada. Agravo legal a que se nega provimento.”
+    Não foram interpostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37, XVI, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em síntese, que :
+    “Resta, pois inconteste, a validade da Carta SEGEP/NE/MS/SP Nº 396 (fls. 28), bem como todos os seus efeitos, haja vista a impossibilidade de cumulação dos cargos em apreço cuja soma das cargas horárias é de 70 (setenta) horas semanais. Nesse sentido, em não havendo a redução da carga horária na forma declinada na Carta, aplicável ao caso vertente, o disposto na Lei 8.112/90, em especial o seu art. 133, a seguir transcrito, o qual restará violado a manter-se o v. Acórdão recorrido (…)” (eDOC 1, p. 258)
+    A Presidência do TRF/3ª Região inadmitiu o recurso ao entendimento de que a verificação da alegada ofensa aos dispositivos constitucionais invocados demanda prévia incursão pela legislação ordinária, além do revolvimento do substrato fático-probatório dos autos. (eDOC 1, p. 307)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem consignou no acórdão recorrido que (eDOC 1, p 228):
+    “No caso dos autos não há superposição de jornada, caracterizando-se, portanto, a compatibilidade de horários entre os cargos privativos na área de saúde - auxiliar de enfermagem, já ocupados há mais de 10 anos pela autora/apelada. Ressalto que, neste caso concreto, não há uma carga horária de trabalho manifestamente excessiva ou mesmo desumana. Assim caracterizada a compatibilidade de horários entre os cargos ocupados pela enfermeira/apelada, e levando-se em conta que sua jornada de trabalho total é de 70 horas semanais, o que não extrapola de forma significativa o limite máximo imposto pelo acórdão do TCU e o parecer da AGU que são de 60 (sessenta) horas semanais, deve ser prestigiada a sentença de fls.1117/124, ora objurgada.”
+    Desse modo, eventual divergência em relação ao entendimento adotado pelo Juízo a quo demandaria o reexame das provas produzidas nos autos, bem como o exame da legislação infraconstitucional aplicável a espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    A esse respeito, confiram-se os seguintes precedentes: ARE 817.366-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 12.9.2014; e ARE 826.177-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 24.10.2014.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 5 de dezembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
