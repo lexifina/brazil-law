@@ -1,0 +1,14 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo de instrumento foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado da Paraíba, está assim ementado:
+    “JÚRI. APELAÇÃO CRIMINAL. INCONFORMISO PELO ART. 593, INCISO III, ALÍNEAS ‘a’ E ‘c’. VERBA INDENIZATÓRIA. ALEGAÇÃO DE NULIDADE POSTERIOR À PRONÚNCIA. INADMISSÃO PELA MESMA MOTIVAÇÃO. NÃO CONHECIMENTO. APLICAÇÃO DA PENA. ‘REFORMATIO IN PEJUS’ INDIRETA. INTELIGÊNCIA DO ART. 617 DO CPP. AUSÊNCIA DE REINCIDÊNCIA. INEXISTÊNCIA DA CIRCUNSTÂNCIA AGRAVANTE. PROVIMENTO. VERBA INDENIZATÓRIA. EXCLUSÃO. RETROATIVIDADE DA LEI PENAL APENAS PARA BENEFICIAR O RÉU. RECURSO PROVIDO PARCIALMENTE.”
+    (Apelação Criminal nº 001.2000.022304-8/004, Rel. Des. NILO LUIS RAMALHO VIEIRA)
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 5º, XXXVIII, “a” e “c”, da Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário não se revela viável.
+    É que, a propósito da alegada violação ao art. 5º, XXXVIII, da Constituição, a matéria, tal como suscitada e exposta na petição recursal extraordinária, exige, para efeito de seu exame, o necessário cotejo entre a norma legal inscrita no art. 593, III, “a”, do CPP, e o texto constitucional (art. 5º, XXXVIII), cuja transgressão é sustentada pela parte ora recorrente.
+    Vê-se que a controvérsia jurídica em questão poderá traduzir, quando muito, ofensa meramente reflexa ao que dispõe a Constituição Federal.
+    Isso significa, portanto, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando, pois, de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência do Supremo Tribunal Federal (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se insuscetível de conhecimento o recurso extraordinário, cujo processamento foi legitimamente denegado na origem.
+    O exame dos fundamentos que dão suporte ao acórdão objeto do apelo extremo interposto pela ora agravante evidencia que o debate veiculado no julgamento em questão instaurou, na espécie, contencioso de mera legalidade, o que basta, por si só, para inviabilizar a própria admissibilidade do recurso extraordinário em referência.
+    Sendo assim, e em face das razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+    Publique-se.
+    Brasília, 05 de dezembro de 2016.
+Ministro CELSO DE MELLO
+Relator
