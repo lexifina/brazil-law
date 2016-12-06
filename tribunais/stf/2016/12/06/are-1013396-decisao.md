@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+    “CONSTITUCIONAL e ADMINISTRATIVO – Apelação Cível – Ação ordinária de cobrança – Agente comunitário de saúde – Regime jurídico estatutário – Pretensão ao adicional de insalubridade – Ausência de previsão constitucional – Princípio da legalidade – Art. 37, ‘caput’, CF/88 – Entendimento Sumulado desta Corte – Lei local – Necessidade – Inexistência – Pagamento indevido – Pretensão a indenização compensatória pelo não recolhimento do PIS/PASEP – Inteligência do art. 239, § 3º, da Constituição Federal c/c Lei 7.859/89 – Indenização devida – Prequestionamento – Via eleita – Inadequação – Desprovimento do reexame necessário e provimento parcial à apelação cível.
+    - Para o Supremo Tribunal Federal, como não há na Constituição da República preceito que determine expressamente o pagamento de adicional de insalubridade aos servidores públicos civis, este só poderá ser concedido se houver previsão em lei.
+    - Súmula 42 do TJPB – O pagamento do adicional de insalubridade aos agentes comunitários de saúde submetidos ao vínculo jurídico administrativo, depende de lei regulamentadora do ente ao qual pertencer.
+    - O recolhimento do PIS/PASEP é obrigação do município, conforme determinado pela lei 7.859/89, que regula a concessão e o pagamento do abono previsto no artigo 239, parágrafo 3º, da Constituição Federal.
+    - O prequestionamento de temáticas não encontra respaldo neste momento processual, porquanto, só pode ser admitida se detectada na decisão alguma das eivas enumeradas do artigo 535 do Código de Processo Civil.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º, XXIII, e 37, caput, da Constituição.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) incide, no caso, a Súmula 280/STF; e (ii) “Por fim, em relação ao art. 37, caput, da CF, o insurgente limitou-se a argumentar genericamente sobre o referido artigo, sem impugnar concretamente os fundamentos do acórdão recorrido, o que impede o trânsito do recurso, à luz da jurisprudência do STF”.
+    O recurso extraordinário não deve ser admitido, tendo em vista que, para dissentir do entendimento firmado pelo Tribunal de origem, se faz necessário a análise da legislação infraconstitucional aplicada ao caso, bem como o reexame de fatos e provas, procedimentos vedados neste momento processual. Nesse sentido, veja-se o ARE 1.005.395, Rel. Min. Marco Aurélio.
+    Ademais, em se tratando especificamente de suposta ofensa ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Sumula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 06 de dezembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
