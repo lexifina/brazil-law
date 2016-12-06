@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos:
+    “AÇÃO ORDINÁRIA - DIREITO PREVIDENCIÁRIO – SERVIDORA APOSENTADA PELO REGIME GERAL DA PREVIDÊNCIA - ESTABILIDADE PELO ART. 19, DA ADCT DA CF/88 - COMPLEMENTAÇÃO APOSENTADORIA - POSSIBILIDADE – LEI MUNICIPAL 1.311/94 - INEXISTÊNCIA DE DISTINÇÃO ENTRE EFETIVOS E ESTABILIZADOS - HONORÁRIOS ADVOCATÍCIOS. ALTERAÇÃO. ART. 20 DO CPC. 1. Se a lei municipal que prevê a complementação da aposentadoria aos servidores do Município de Ipatinga, Lei n° 1.311/94, não distingue os efetivos dos estabilizados pelo art. 19 do ADCT da CF/88, fazem jus à referida complementação de aposentadoria os servidores que se aposentaram após a sua vigência. 2. Alteram-se os honorários advocatícios, em reexame necessário, para que, com sua redução, revelem-se razoáveis, justos, adequados às diretrizes do § 4o do artigo 20 do CPC, decorrentes da apreciação equitativa, atento às circunstâncias do processo e às dificuldades impostas ao advogado da parte autora.” (eDOC 1, p. 114)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 40, 149, § 1º, do texto constitucional. (eDOC 1, p. 160)
+    Nas razões recursais, alega-se que o Município não estaria obrigado ao pagamento da complementação da aposentadoria do requerido.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei 1.311/1994), consignou que aos aposentados pelo INSS, cujo benefício previdenciário corresponde a valor inferior ao recebido quando em exercício, fazem jus à complementação da aposentadoria paga pelos cofres públicos municipais. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “De fato, o art. 10 da Lei Municipal 1.311/94, com redação dada pela Lei Municipal 1.579/98, dispõe que:
+    Ao servidores que se aposentarem pelo Instituto Nacional da Seguridade Social – INSS será assegurada, desde a data desta Lei, a complementação da aposentadoria paga pelos cofres públicos municipais, até a instituição do Fundo de Complementação de Aposentadoria dos Servidores Públicos do Município de Ipatinga, observando o art. 156 da Li 494, de 27 de dezembro de 1974.
+    parágrafo único – A complementação de que trata o artigo corresponderá à diferença encontrada entre o valor pago pelo INSS e os vencimentos percebidos pelo servidor no mês anterior ao da concessão da aposentadoria pela Prefeitura” (eDOC 1, p. 116)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+     “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor estável. Complementação de aposentadoria. Controvérsia decidida com base na legislação local (Lei 1.311/1994 do município de Ipatinga). Óbice do Enunciado 280 da Súmula do STF. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento.” (ARE-AgR 665.328, Segunda Turma, Rel. Min.Gilmar Mendes, DJe de 29.5.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. COMPLEMENTAÇÃO DE APOSENTADORIA. LEI MUNICIPAL N. 1.311/1994. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE-AgR 679.455, Primeira Turma, Rel. Min. Cármen Lúcia, DJe 8.6.2012).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 6 de dezembro de 2016.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
