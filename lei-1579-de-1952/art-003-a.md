@@ -1,0 +1,1 @@
+Art. 3º-A. Caberá ao presidente da Comissão Parlamentar de Inquérito, por deliberação desta, solicitar, em qualquer fase da investigação, ao juízo criminal competente medida cautelar necessária, quando se verificar a existência de indícios veementes da proveniência ilícita de bens.
