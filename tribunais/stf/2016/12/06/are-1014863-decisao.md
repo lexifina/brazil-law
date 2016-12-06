@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Paraná.
+    Consta dos autos que o recorrente foi condenado pela prática do delito descrito no art. 157, caput, do Código Penal (roubo simples), à pena de 4 anos, 3 meses, e 12 dias de reclusão.
+    Irresignada, a defesa interpôs apelação criminal no TJPR, que negou provimento ao recurso nos termos da ementa a seguir transcrita:
+    “APELAÇÃO CRIMINAL – ROUBO – PRELIMINAR – NULIDADE – USO INDEVIDO DE ALGEMAS – JUSTIFICAÇÃO VÁLIDA NOS TERMOS DA SÚMULA N. 11 DO STF – INFRINGÊNCIA DO ART. 185, § 5º DO CPP – INOCORRÊNCIA – PRESENÇA DE ESCOLTA POLICIAL NO MESMO RECINTO NECESSÁRIA – PRECEDENTE DO STJ – MÉRITO: ILICITUDE DOS ELEMENTOS COLHIDOS NO INQUÉRITO – INOBSERVÂNCIA DA AUDIÊNCIA DE CUSTÓDIA PREVISTA NO PACTO DE SÃO JOSÉ DA COSTA RICA – INEXISTÊNCIA DE REGULAMENTAÇÃO – CONSTITUIÇÃO FEDERAL QUE EXIGE APENAS A COMUNICAÇÃO JUDICIAL DO FLAGRANTE E NÃO A APRESENTAÇÃO DO PRESO – ALEGADA VIOLAÇÃO AO ART. 304 DO CPP – INOCORRÊNCIA – DOSIMETRIA DA PENA: FIXAÇÃO DA BASILAR NO MÍNIMO LEGAL – DESCABIMENTO – RÉU OSTENTA MAUS ANTECEDENTES – INTENTO DE COMPENSAÇÃO ENTRE A ATENUANTE DA CONFISSÃO E A AGRAVANTE DA REINCIDÊNCIA – IMPOSSIBILIDADE – ACUSADO MULTIREINCIDENTE – PRECEDENTES – APLICAÇÃO DE REGIME FECHADO MANTIDO – INTELIGÊNCIA DO ART. 33, § 2º E § 3º DO CP – RECURSO A QUE SE NEGA PROVIMENTO”.
+    Daí a interposição do recurso extraordinário, que se fundamenta no art. 102, inciso III, alínea “a” , do texto constitucional, sustentando a repercussão geral da matéria tratada nos autos.
+    No mérito, alega, em suma, violação à Súmula Vinculante n. 11 desta Corte.
+    O recurso foi obstado na origem, ante a ausência de ofensa direta à Constituição Federal.
+    É o relatório.
+    Passo a decidir.
+    Inicialmente, consigno que o recurso extraordinário não se destina a verificar suposta violação à autoridade das decisões proferidas pelo STF, ao contrário, o legislador originário reservou o instituto da reclamação constitucional para esse fim, nos termos do art. 102, inciso I, alínea “l”, da CF; Lei 8.038, bem como art. 13 e art. 156 do RI/STF.
+    Ainda que assim não fosse, o Supremo Tribunal Federal, ao aprovar a Súmula Vinculante 11, consolidou a jurisprudência da Corte no sentido de que o uso de algemas limita-se a casos excepcionais. O verbete sumular possui a seguinte redação:
+    “Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado”.
+    Após análise das peças acostadas aos autos, verifico que a suposta violação à Súmula Vinculante 11 já foi dirimida. Para tanto, assentou o TJ/PR o seguinte:
+    “Ora, cumpre destacar que a magistrada fundamentou o uso de algemas, à fl. 139 – Projudi, da seguinte maneira: ‘Em que pese o teor da Súmula vinculante n. 11, do STF, tenho por imprescindível, no caso em apreço, a manutenção das algemas. Tal se deve à inarredável necessidade de garantia da segurança dos presentes, tendo em vista a ausência de estrutura do fórum local, escasso efetivo policial, pluralidades de presentes e periculosidade do réu, acusado do cometimento de crime grave’.
+    Ademais, a súmula não aboliu o uso de algemas, tão somente buscou estabelecer parâmetros à sua utilização à fim de evitar abusos.
+    (…)
+    No caso, a utilização excepcional das algemas foi devidamente justificada pela autoridade judicial, nos termos exigidos pela súmula vinculante n. 11”. (eDOC 2, 66/67)
+    Desse modo, verifico que a excepcionalidade do uso das algemas foi observada e devidamente justificada na necessidade de garantir a segurança dos presentes, pois o contingente policial daquela localidade encontra-se aquém da necessidade.
+    Portanto, entendo que não houve violação à Súmula Vinculante 11. Nesse mesmo sentido, cito o seguinte precedente:
+    “RECLAMAÇÃO – ALEGADO DESRESPEITO AO ENUNCIADO CONSTANTE DA SÚMULA VINCULANTE Nº 11/STF – NÃO CONFIGURAÇÃO – ATO RECLAMADO PROFERIDO EM CONFORMIDADE COM O ENUNCIADO SUMULAR (QUE PERMITE, EXCEPCIONALMENTE, O USO DE ALGEMAS, DESDE QUE JUSTIFICADA SUA NECESSIDADE) – PRECEDENTES – AUSÊNCIA DE IMPUGNAÇÃO EM MOMENTO PROCEDIMENTALMENTE OPORTUNO – ADVOGADO CONSTITUÍDO QUE, EMBORA PRESENTE À AUDIÊNCIA DE INSTRUÇÃO, JAMAIS QUESTIONOU O USO DE ALGEMAS, NEM SUSCITOU A SUPOSTA NULIDADE NO RECURSO DE APELAÇÃO INTERPOSTO CONTRA A SENTENÇA PENAL CONDENATÓRIA – CONSEQUENTE PRECLUSÃO DA FACULDADE PROCESSUAL DE IMPUGNAR OS FUNDAMENTOS DO ATO RECLAMADO – INEXISTÊNCIA DE DEMONSTRAÇÃO DE QUALQUER PREJUÍZO PARA O RÉU – ‘PAS DE NULLITÉ SANS GRIEF’ – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO”. (RCL-AgR 16.292/RS, Rel. Min. Celso de Mello, 2ª Turma, DJ 26.4.2016)
+    Ante o exposto, nego seguimento ao agravo em recurso extraordinário (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 6 de dezembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
