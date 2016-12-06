@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (eDOC 4, p.7):
+    “PROCESSUAL CIVIL E TRIBUTÁRIO - ILHA COSTEIRA DE SÃO LUÍS/MA - EC 46/2005 – PROCEDIMENTO DEMARCATÓRIO - NECESSIDADE DE NOTIFICAÇÃO PESSOAL, SOB PENA DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO - INEXIGIBILIDADE DA COBRANÇA DE TAXAS DE OCUPAÇÃO, FORO E LAUDÊMIO.
+    1. In casu, o magistrado sentenciante solucionou, com propriedade e lucidez, a controvérsia dos autos: “(...) verifico que não merecem acolhida os argumentos trazidos em contestação, segundo os quais o imóvel dos Autores estaria inserido na “Gleba Rio Anil”, supostamente de propriedade da União, pois foi justamente essa situação jurídica que a já referida Emenda Constitucional 46/2005 alterou, passando referidos bens, a partir de sua edição, ao domínio particular”.
+    2. Consolidou-se na jurisprudência pátria entendimento no sentido de que a demarcação, sem a notificação pessoal dos interessados, caracteriza afronta aos princípios do contraditório e da ampla defesa.
+    3. “O STF, em julgamento datado de 16 MAR 2011, entendeu atentatória aos princípios do contraditório e ampla defesa, nos procedimentos demarcatórios de terrenos de marinha, a convocação dos interessados por edital da forma como permitia o art. 11 do Decreto-Lei n. 9.760/46, na redação dada pela Lei n. 11.481/2007, suspendendo a novel legislação”. (AG 0074617-77.2011.4.01.0000 / MA, Rel. DESEMBARGADOR FEDERAL LUCIANO TOLENTINO AMARAL, SÉTIMA TURMA, e-DJF1 p.394 de 09/03/2012)
+    4. “O entendimento do STJ é, portanto, no sentido de ser necessária a notificação pessoal dos interessados certos (proprietários à época) no procedimento de demarcação da linha preamar.” (APELRE 200951020010656, Desembargador Federal JOSE ANTONIO LISBOA NEIVA, TRF2 - SÉTIMA TURMA ESPECIALIZADA, E-DJF2R - Data::26/04/2011 - Página::178)
+    5. “Após a edição da EC 46/2005, não pode mais a União ostentar qualquer pretensão de domínio das áreas contidas em ilhas costeiras ou oceânicas, sede de município, vez que "a mera circunstância - como no caso - de a ilha costeira ou oceânica ser "sede de Município" já altera a propriedade das áreas nelas contidas, reputando-se - em presunção absoluta - pertencerem à municipalidade, ou, quando o caso, a terceiros. Da simples leitura do dispositivo já se vislumbra que a Ilha de São Luís, por ser sede de Município do mesmo nome, está excluída dos bens da União, ali especificados." (AC 2007.34.00.033470-0/DF, Rel. Desembargador Federal Luciano Tolentino Amaral, Sétima Turma, e-DJF1 p.321 de 17/07/2009).
+    6. Apelação e remessa oficial não providas. Sentença mantida.”
+    Os embargos declaratórios opostos foram rejeitados (eDOC 8).
+    No recurso extraordinário, interposto com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao artigo 20, IV, da Constituição da República, com redação dada pela EC nº 46/05.
+    Nas razões do recurso busca-se demonstrar, em síntese, que antes das alterações promovidas pela EC nº 46/05, os bens imóveis situados em ilhas costeiras sede de municípios permanecem inseridos no domínio da União. Aponta que, em caso análogo, o STF reconheceu a existência de repercussão geral da matéria.
+    É o relatório. Decido.
+    De fato, o Plenário desta Corte, no exame do RE 636.199-RG, da relatoria da Ministra Rosa Weber, DJe 16.10.2013, assentou a repercussão geral do Tema 676, referente à situação dos terrenos de marinha localizados em ilhas costeiras com sede de município, após o advento da Emenda Constitucional 46/2005.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem, para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 06 de dezembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
