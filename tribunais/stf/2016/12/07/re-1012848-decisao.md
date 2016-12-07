@@ -1,0 +1,27 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul. Aparelhado o recurso na afronta ao art. 226 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não restou demonstrada, de forma efetiva, a existência de repercussão geral da controvérsia nas razões do apelo extremo.
+    Este Supremo Tribunal Federal firmou entendimento no sentido de que não basta a mera descrição do instituto em tela, nem a simples referência a precedente recursal. Cabe à parte recorrente a demonstração formal e fundamentada da existência de repercussão geral da matéria, indicando especificamente as razões que evidenciem a relevância econômica, social, política ou jurídica, ainda que tal repercussão já tenha sido presumida ou declarada em outro processo. Insuficiente a mencionada preliminar, inadmissível o recurso extraordinário. Colho precedentes:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO CIVIL. COMPETÊNCIA. CUMPRIMENTO DE SENTENÇA. PRELIMINAR FORMAL DE REPERCUSSÃO GERAL. AUSÊNCIA DE FUNDAMENTAÇÃO. ARTIGO 543-A, § 2º, DO CÓDIGO DE PROCESSO CIVIL C.C. ARTIGO 327, § 1º, DO RISTF. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 834.512-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.4.2016)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS SUSCITADAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ADMINISTRATIVO. EXERCÍCIO DE FUNÇÃO PÚBLICA. REGULARIDADE DO VÍNCULO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF.
+    II – Ausência de prequestionamento das questões constitucionais suscitadas. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    III – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF.
+    IV – Agravo regimental a que se nega provimento.” (ARE 820.902-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 28.8.2014)
+    Ainda que não se ressentisse o recurso quanto ao óbice apontado, melhor sorte não colheria o extraordinário, porquanto a aferição de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o exame prévio da legislação infraconstitucional, bem como o revolvimento do quadro fático delineado, procedimentos vedados em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Precedentes desta Suprema Corte:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. REMOÇÃO. ANÁLISE DE EVENTUAL VIOLAÇÃO DA CONSTITUIÇÃO FEDERAL DEPENDENTE DE REELABORAÇÃO DA ESTRUTURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 17.8.2012.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. Divergir da conclusão da Corte Regional exigiria a reelaboração da moldura fática delineada no acórdão da origem, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.”
+    3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    4. Agravo regimental conhecido e não provido.” (RE 910.420-AgR, de minha lavra, 1ª Turma, DJe 17.12.2015)
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. REMOÇÃO PARA ACOMPANHAMENTO DE CÔNJUGE. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 915.418-AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 18.12.2015)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 07 de dezembro de 2016.
+Ministra Rosa Weber
+Relatora
