@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Fernanda de Paula Reis, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que não conheceu do HC nº 369.669/MG, Relator o Ministro Joel Ilan Paciornik.
+    Sustentam os impetrantes, em síntese, que a paciente está submetida a constrangimento ilegal, pois o decreto de sua prisão preventiva seria desprovido de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos do art. 312 do Código de Processo Penal.
+    Aduzem, ainda, o constrangimento ilegal por excesso de prazo no andamento da persecução penal, uma vez que a paciente está presa desde maio deste ano e somente aos 6/10/16 ela foi denunciada.
+    Em abono a esses argumentos, afirma a defesa que “o feito foi suspenso em 18/11/2016 pela instauração em 10/10/2016 do incidente de insanidade mental, sendo que o referido procedimento foi determinado de ofício pelo magistrado há mais de 06 meses.”
+    Requerem, liminarmente, a concessão da ordem para que a prisão preventiva do paciente seja revogada.
+    Examinados os autos, decido.
+    Transcrevo a ementa do aresto ora impugnado:
+    “HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. PERICULOSIDADE DA ACUSADA. GRAVIDADE CONCRETA DO DELITO E MODUS OPERANDI. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. INAPLICABILIDADE DE MEDIDA CAUTELAR ALTERNATIVA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO.
+    1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida segundo a atual orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+    2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal. Devendo, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos do previsto no art. 319 do CPP. No caso dos autos, a prisão preventiva foi adequadamente motivada, tendo sido demonstrada, a periculosidade da agente ante da gravidade concreta do delito e do modus operandi – tentativa de homicídio contra a própria filha de 4 meses de vida, utilizando-se de mamadeira com substância cáustica, a qual ocasionou na vítima a perda de 2/3 da língua, do esôfago parcialmente, e do estômago por inteiro –, o que demonstra a necessidade de garantia da ordem pública.
+    3. A presença de condições pessoais favoráveis do agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela.
+    4. São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos gravosas.
+    Habeas corpus não conhecido.” (anexo 18 - grifos do autor)
+    Essa é a razão pela qual se insurgem os impetrantes neste writ.
+    O julgado proferido pela Quinta Turma do Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia. Com efeito, o entendimento emanado daquela Corte de Justiça encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Conforme anotado pelo Ministro Joel Ilan Paciornik em seu voto,
+    “a prisão preventiva foi adequadamente motivada, tendo sido demonstrada, com base em elementos concretos, a periculosidade da agente ante do modus operandi – tentativa de homicídio contra a própria filha de 4 meses de vida, utilizando-se de mamadeira com substância cáustica, a qual ocasionou na vítima a perda de 2/3 da língua, do esôfago parcialmente, e do estômago por inteiro –, o que demonstra a necessidade de garantia da ordem pública.” (anexo 18)
+    Esse entendimento não afronta a jurisprudência deste Supremo Tribunal, preconizada no sentido de que,
+     “mostra-se idôneo o decreto de prisão preventiva quando assentado na garantia da ordem pública, ante a periculosidade do agente, evidenciada não só pela gravidade in concreto do delito, em razão de seu modus operandi, mas também pelo risco real da reiteração delitiva” (HC nº 128.779/SP, Segunda Turma, de minha relatoria, DJe de 5/10/16).
+    Perfilhando esse entendimento: HC nº 133.210/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 3/10/16; HC nº 137.365/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 8/11/16, entre outros.
+    Quanto ao alegado excesso de prazo, registro que o tema não foi analisado pelo Superior Tribunal de Justiça ao argumento de que “a Corte estadual não apreciou a questão (...)”. Portanto, sua análise, de forma originária, neste ensejo, configuraria inegável dupla supressão de instância que não se admite.
+    Nesse sentido: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ 25/5/07, entre outros.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 7 de dezembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
