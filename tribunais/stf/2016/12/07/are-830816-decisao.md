@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO – PRELIMINAR DE OFENSA AO PRINCÍPIO DA DIALETICIDADE – INOCORRÊNCIA – MÉRITO – INCORPORAÇÃO DA INDENIZAÇÃO DE REPRESENTAÇÃO – POSSIBILIDADE – PREVISÃO NA LEI COMPLEMNTAR N. 127, DE 15 DE MAIO DE 2008 – RECURSO CONHECIDO E IMPROVIDO.
+    O art. 34 da Lei Complementar prevê a possibilidade de cumulação o subsídio com a vantagem pecuniária de representação e as indenizações previstas no art. 5º da sobredita lei estadual”. (eDOC 2, p. 33)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º; 37, caput; 39, § 4º; 100, §§ 1º, 3º e 4º, do texto constitucional.
+    Nas razões recursais, alega-se que a Lei Complementar estadual 127/2008 veda expressamente o pagamento de qualquer verba de representação cumulada com o subsídio. Sustenta-se ainda a ausência de direito adquirido a regime jurídico.
+    A Procuradoria-Geral da República manifestou-se pelo desprovimento do recurso, em parecer ementado nos seguintes termos:
+    “Recurso extraordinário. Subsídios e coisa julgada. À falta de impugnação ao tempo em que formada a coisa julgada, reputa-se rejeitada eventual defesa da parte de direito público fundada na absorção de parcela no regime de subsídio: em se tratando de regime legal de vencimentos, o advento de subsídio deveria ter sido considerado pelo tribunal, ao decidir a causa no processo de conhecimento. Licitude da consideração de lei que reajuste ou fixe novos subsídios para a categoria em causa como termo final do pagamento de parcela destacada, desde que o diploma legal seja posterior ao acórdão transitado em julgado no processo de conhecimento.
+    Parecer pelo desprovimento do recurso extraordinário”. (eDOC 11)
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Complementar Estadual n. 127/2008) e o conjunto probatório constante dos autos, consignou a possibilidade de cumulação da verba de representação com o subsídio. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Pois bem, denota-se que a Lei Complementar n. 127, de 15 de maio de 2008, que instituiu o sistema remuneratório dos servidores integrantes das carreiras da Polícia Militar e Corpo de Bombeiros, vedou o acréscimo no subsídio de qualquer gratificação, adiciona, abono, prêmio, verba de representação ou outra espécie remuneratória, à exceção das próprias veras prevista na Lei. Confira-se:
+    (…)
+    Todavia, no art. 34, a Lei Complementar n. 127 excepcionou a regra e possibilitou a cumulação do subsídio com a vantagem pecuniária de representação e as indenizações previstas no art. 5º da sobredita lei estadual, ressalvada a hipótese descrita no inciso VIII, no que diz respeito as vantagens pecuniárias de natureza constitucional ou indenizatória concernente a retribuição ‘pelo exercício de atribuições inerentes ao cargo ocupado de comando, chefia, direção, coordenação, de responsabilidade material ou assessoramento em atividades de competência exclusiva da Corporação, definidos nesta Lei’ (...)”. (eDOC 2, p. 36-37)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E PREVIDENCIÁRIO. APOSENTADORIA. REAJUSTE DOS PROVENTOS. INCORPORAÇÃO DE GRATIFICAÇÃO TRANSFORMADA EM SUBSÍDIO. ANÁLISE DE LEI LOCAL. MATÉRIA INFRACONSTITUCIONAL. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS Nº 279 E Nº 280 DO STF. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO”.
+(ARE 642216 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 14.8.2015)
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EFEITOS INFRINGENTES. CONVERSÃO EM AGRAVO REGIMENTAL. DIREITO ADMINISTRATIVO. REMUNERAÇÃO POR SUBSÍDIO. SUPRESSÃO DE GRATIFICAÇÃO. ALEGADO DECESSO REMUNERATÓRIO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 873179 ED, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 14.5.2015)
+    No mesmo sentido, cito trecho do parecer proferido pela Procuradoria-Geral da República:
+    “Verifica-se que, nos termos postos, as alegações encontram óbice nas Súmulas 280 e 279 do STF. O acórdão recorrido analisou as disposições da LC 127, para concluir que a própria lei não agregara a verba aos subsídios e excepcionava sua cumulação. Assim, não haveria limitação temporal à incorporação da vantagem aos subsídios do militar e determinou o integral cumprimento da sentença”. (eDOC 11, p. 5)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 7 de dezembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
