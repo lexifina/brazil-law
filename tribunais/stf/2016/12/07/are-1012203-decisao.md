@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em recurso ordinário em habeas corpus, improvido pelo Superior Tribunal de Justiça.
+    No recurso extraordinário, a parte recorrente, em suma, aponta, com base no art. 102, III, “a”, da Constituição da República, violação ao art. 5º, XI, da CF/88, porquanto “[...] a diligência de busca e apreensão realizada na casa do Recorrente não observou tais ditames legais, vez que: (i) não foi realizada por carta precatória, (ii) a autoridade policial não estava em seguimento de pessoa ou coisa (única hipótese que autorizaria o ingresso em jurisdição diversa) e (iii) em momento algum a autoridade judiciária competente do local tomou conhecimento da diligência realizada” (e-STJ, fl. 997).
+    2. O recurso extraordinário não preenche os pressupostos recursais necessários ao seu conhecimento. Com efeito, o Superior Tribunal de Justiça decidiu a controvérsia com base em dois fundamentos autônomos e suficientes. Primeiramente, asseverou-se que:
+    “[...] como o cumprimento do mandado de busca e apreensão tem natureza de ato administrativo, a eventual falta de carta precatória entre os juízes federais de seções judiciárias distintas não tem o condão de tornar ilegal a medida, uma vez que o ato do juiz deprecado não teria efetivamente caráter decisório” (e-STJ, fl. 972).
+    Em seguida, acrescentou, a esse argumento, as seguintes razões:
+    “[...] o ora recorrente foi investigado e denunciado também por organização criminosa, o qual tem natureza jurídica de crime permanente. E, segundo a doutrina, ‘[...] em se tratando de crime permanente, [...], sempre haverá estado de flagrância, pois a prática do crime se protrai, e, assim, será possível a entrada no domicílio sem o respectivo mandado judicial’ (LIMA, Marcellus Polastri. ‘Curso de Processo Penal’. 8ª edição. Brasília: Gazeta Jurídica, 2014, pág. 564). Dessarte, quanto a este delito, sequer haveria a necessidade de expedição de mandado de busca apreensão para a entrada no domicílio do ora recorrente” (e-STJ, fl. 973).
+    No recurso extraordinário, contudo, apenas o primeiro fundamento do acórdão recorrido foi impugnado. Incide, assim, o óbice da Súmula 283/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    3. Não bastasse isso, eventual ofensa à Constituição seria meramente reflexa, na medida em que a reversão do acórdão demandaria o aprofundamento em matéria infraconstitucional (art. 250 do Código de Processo Penal), o que é estranho ao âmbito de cognição do recurso extraordinário.
+    4. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 7 de dezembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
