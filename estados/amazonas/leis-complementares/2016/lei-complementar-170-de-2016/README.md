@@ -1,0 +1,5 @@
+# Lei Complementar nº 170, de 7 de dezembro de 2016, do Estado do Amazonas
+
+ALTERA O ART. 244 E O §1º DO ART. 253, DA LEI COMPLEMENTAR 17/1997, QUE &#8220;DISPÕE SOBRE A DIVISÃO E A ORGANIZAÇÃO JUDICIÁRIA DO ESTADO DO AMAZONAS, BEM COMO SOBRE O REGIME JURÍDICO DA MAGISTRATURA E A ORGANIZAÇÃO DOS SERVIÇOS AUXILIARES DA JUSTIÇA&#8221;, DIMINUINDO A DIFERENÇA DE SUBSÍDIO ENTRE AS ENTRÂNCIAS DE 10% PARA 5%, ASSIM COMO REDUZ O VALOR DA ACUMULAÇÃO PELO EXERCÍCIO DE MAIS DE UMA COMARCA DE 1/3 (33,33%) PARA 20% DO SUBSÍDIO.
+
+Fonte: Assembleia Legislativa (sapl.al.am.leg.br), <https://sapl.al.am.leg.br/norma/9639>; texto: <http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2016/9639/9639_texto_integral.pdf>
