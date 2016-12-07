@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. REMUNERAÇÃO. REDUÇÃO DE PARCELA. PRÉVIO PROCESSO ADMINISTRATIVO. QUESTÃO DE DIREITO. AUSÊNCIA DE APRECIAÇÃO DE MATÉRIA FÁTICA. DESNECESSIDADE.
+    1. A ausência de prévio processo legal não viola os aludidos princípios constitucionais quando, como ocorrente na espécie, inexistente questão fática a ser apurada, mas simples interpretação de normas jurídicas pela Administração.
+    2. Precedentes da Corte (AMS 2000.34.00.031646-4/DF, rel. Desembargador Federal Antônio Sávio de Oliveira Chaves. Juíza Federal Sônia Diniz Viana (conv.). Primeira Turma, e-DJF1 p. 41 de 26/02/2008, AMS 2000.38.03.003429-3/MG, Rel. Desembargador Federal José Amilcar Machado, Conv. Juíza Federal Simone dos Santos Lemos Fernandes (conv.)).
+    3. Reexame necessário e apelo providos para, reformada a sentença, julgar improcedente o pedido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV e LV; e 37, XV, da Constituição. Sustenta que “a defesa do interesse público não pode prescindir da instauração do procedimento administrativo próprio, com a observância dos princípios do contraditório e da ampla defesa, consoante vem proclamando essa eg. Corte”.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) “É pacífica a jurisprudência do Supremo Tribunal Federal (STF) no sentido de que a apreciação de alegada violação ao art. 5º, inciso LV, da Constituição Federal depende do prévio exame de normas infraconstitucionais, razão por que a afronta ao texto constitucional, se ocorrente, seria indireta ou reflexa”; e (ii) “Na hipótese, os artigos 5º, inciso LIV, e 37, inciso XV, da Constituição Federal, não foram apreciados pelo acórdão recorrido, não se prestando a justificar a admissibilidade do recurso”.
+    A Procuradoria-Geral da República manifestou-se pelo provimento do recurso em parecer assim ementado:
+    “Recurso Extraordinário com Agravo. Redução de parcela de remuneração de servidor público. Ofensa ao devido processo legal no âmbito administrativo. O poder de autotutela da Administração, que se estende à correção de atos destoantes da lei por ela praticados, não prescinde da observância dos princípios constitucionais do contraditório e da ampla defesa. Precedentes. Parecer pelo provimento do agravo e do recurso extraordinário.”
+    Correto o parecer. O Plenário do Supremo Tribunal Federal, ao apreciar o mérito do RE 594.296, com repercussão geral reconhecida (Tema 138), decidiu que a Administração pode anular atos que considere ilegalmente praticados, desde que, havendo efeitos concretos, seja precedido de processo administrativo. Veja-se a ementa do mencionado precedente:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA. 296
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento.”
+    Dessa orientação divergiu o acórdão recorrido ao possibilitar a redução dos vencimentos dos recorrentes sem a observância dos princípios constitucionais do contraditório e da ampla defesa.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário para restabelecer a sentença. Invertidos os ônus da sucumbência e sem condenação em honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+          Brasília, 07 de dezembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
