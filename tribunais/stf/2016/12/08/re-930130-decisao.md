@@ -1,0 +1,33 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 3, p. 10):
+    “SERVIDOR PÚBLICO. ACUMULAÇÃO ILEGAL DE CARGOS. DECADÊNCIA DA AUTOTUTELA ADMINISTRATIVA. NÃO OCORRÊNCIA.
+    1. A acumulação ilegal de cargos públicos, expressamente vedada pelo art. 37, XVI, da Constituição Federal, caracteriza uma situação que se protrai no tempo, motivo pelo qual é passível de ser investigada pela Administração a qualquer tempo, a teor do que dispõe o art. 133, caput, da Lei 8.112/90. (MS 20.148/DF, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe 18/09/2013).
+    2. "O direito adquirido e o decurso de longo tempo não podem ser opostos quanto se tratar de manifesta contrariedade à Constituição" (RE 381204, Rel. Min. ELLEN GRACIE, SEGUNDA TURMA, DJ 11/11/2005, p. 48).
+    3. Agravo regimental não provido.”
+    No recurso extraordinário, interposto com fulcro na alínea “a” do permissivo constitucional, alega-se violação aos arts. 37, XVI e 206, V, da Constituição Federal.
+    Nas razões recursais, busca-se demonstrar a legalidade da acumulação de cargos exercida pela recorrente. Nesse sentido, aponta existir “notória afronta ao art. 37, XVI, a da Constituição Federal, tendo em vista que a Recorrente foi considerada em acúmulo ilegal e compelida a optar por um dos cargos de professora pedagoga que ocupa, por mais de 18 (dezoito) anos perante o Município de Cachoeiro de Itapemirim e o Estado do Espírito Santo, dentro de seus 30 anos de magistério.” (eDOC 3, p.25) Sustenta, ainda, “violação do art. 206, V, da CF, que impõe ao Poder Público a valorização de todos os profissionais da educação, sejam eles professores, professores pedagogos, diretores de estabelecimentos de ensino, dentre outros.” (eDOC 3, p.25)
+    É o relatório. Decido.
+    Não merece prosperar o presente extraordinário, porquanto as razões recursais não guardam pertinência com o que foi decidido no acórdão recorrido.
+    Com efeito, o Tribunal a quo assentou o seguinte (eDOC 3, p.12-14):
+    A Primeira Seção deste Superior Tribunal de Justiça, na sentada do dia 11 de setembro de 2013, no julgamento do Mandado de Segurança nº 20.148/DF, na relatoria do Ministro ARNALDO ESTEVES LIMA, firmou a compreensão de que a Administração não perde, pelo decurso de prazo, a possibilidade de adotar procedimento para rever ilegal acumulação de cargos públicos. Eis os fundamentos jungidos ao julgado:
+    "(...) não há falar em prescrição da pretensão punitiva da Administração, uma vez que a acumulação ilegal de cargos públicos caracteriza uma situação que se protrai no tempo – diferente do que ocorre com outras infrações administrativas que se consumam de forma imediata –, motivo pelo qual é passível de ser investigada pela Administração a qualquer tempo, a teor do que dispõe o art. 133, caput, da Lei 8.112/90, in verbis:
+    Art. 133. Detectada a qualquer tempo a acumulação ilegal de cargos, empregos ou funções públicas, a autoridade a que se refere o art. 143 notificará o servidor, por intermédio de sua chefia imediata, para apresentar opção no prazo improrrogável de dez dias, contados da data da ciência e, na hipótese de omissão, adotará procedimento sumário para a sua apuração e regularização imediata, cujo processo administrativo disciplinar se desenvolverá nas seguintes fases: […]
+    Impende ressaltar, outrossim, que, ressalvadas as hipóteses expressamente previstas na Constituição Federal, é terminantemente proibida a acumulação de cargos públicos, a teor do que dispõe seu art. 37, XVI e XVII, in verbis:
+    Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte:
+    ..........................................................................................
+    XVI - é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, observado em qualquer caso o disposto no inciso XI:
+    a) a de dois cargos de professor;
+    b) a de um cargo de professor com outro técnico ou científico;
+    c) a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas;
+    XVII - a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público;
+    Logo, aplica-se ao caso concreto o entendimento firmado pelo Supremo Tribunal Federal no sentido de que "atos inconstitucionais jamais se convalidam pelo mero decurso do tempo" (ADI 1.247 MC, Rel. Min. CELSO DE MELLO, STF, Tribunal Pleno, DJ 8/9/95).
+    […]
+    Sobre a matéria, já se manifestou o Pretório Excelso que "o direito adquirido e o decurso de longo tempo não podem ser opostos quanto se tratar de manifesta contrariedade à Constituição". Cite-se:
+    CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROFESSOR. TRIPLA ACUMULAÇÃO DE CARGOS. INVIABILIDADE. TRANSCURSO DE GRANDE PERÍODO DE TEMPO IRRELEVÂNCIA. DIREITO ADQUIRIDO. INEXISTÊNCIA. 1. Esta Corte já afirmou ser inviável a tripla acumulação de cargos públicos. Precedentes: RE 141.376 e AI 419.426-AgR. 2. (...). 3. Esta Corte rejeita a chamada "teoria do fato consumado". Precedente: RE 120.893-AgR 4. Incidência da primeira parte da Súmula STF nº 473: "a administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos". 5. O direito adquirido e o decurso de longo tempo não podem ser opostos quanto se tratar de manifesta contrariedade à Constituição. 6. Recurso extraordinário conhecido e provido. (RE 381204, Relator(a): Min. ELLEN GRACIE, Segunda Turma, julgado em 11/10/2005, DJ 11-11-2005 PP-00048 EMENT VOL-02213-04 PP-00646 REVJMG v. 56, n. 174, 2005, p. 427-429)
+    Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.”
+    Verifica-se que a recorrente, nas razões do apelo extremo, trata apenas do tema de fundo da controvérsia, ou seja, da legalidade da acumulação de cargos por ela pretendida, tema de que não cuidou o acórdão recorrido, que circunscreveu sua análise na impossibilidade de decadência da autotutela administrativa quando se tratar de contrariedade constitucional. Incide, portanto, ao caso, a Súmula 284 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 08 de dezembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
