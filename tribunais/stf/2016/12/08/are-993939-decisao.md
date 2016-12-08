@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Vigésima Segunda Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “COBRANÇA - FUNDAMENTO EM ALEGADA RELAÇÃO CONTRATUAL DE REPRESENTAÇÃO COMERCIAL - FATO CONSTITUTIVO DO DIREITO NÃO DEMONSTRADO - INDENIZAÇÃO NÃO DEVIDA - AÇÃO IMPROCEDENTE - HONORÁRIOS ADVOCATÍCIOS - JUÍZO DE EQUIDADE - CPC, ART. 20, § 4º - APELAÇÕES IMPROVIDAS.
+    RECURSO - AGRAVOS RETIDOS - FALTA DE REITERAÇÃO - NÃO CONHECIMENTO.
+    PROVA - TESTEMUNHA - OITIVA DE UMA NA CONDIÇÃO DE INFORMANTE E DE OUTRA SOB COMPROMISSO, PELA REJEIÇÃO DA CONTRADITA - ADMISSIBILIDADE - IMPROVIMENTO DE AGRAVOS RETIDOS."
+    Opostos embargos de declaração por ambas as partes, não foram providos.
+    No recurso extraordinário, sustenta-se violação do artigo 5º, caput e inciso LV, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    A jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ademais, ressalte-se que este Supremo Tribunal Federal pacificou entendimento no sentido de que a questão relativa à fixação dos honorários advocatícios está restrita ao âmbito da legislação infraconstitucional, cujo o reexame e vedado no âmbito do recurso extraordinário. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Honorários advocatícios. Incidência sobre as parcelas vencidas até a prolação da sentença. Legislação infraconstitucional. Análise. Impossibilidade. Ofensa reflexa. 1. A questão relativa à fixação dos honorários de sucumbência pelo juízo de origem, por situar-se no âmbito da legislação infraconstitucional, não enseja a abertura da via extraordinária, haja vista que a ofensa à Constituição Federal, se existente, se daria de forma indireta ou reflexa. 2.Agravo regimental não provido”(ARE nº 732.125/MG-AgR, Primeira Turma, de minha relatoria, DJe de 27/11/13).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Previdenciário e Processo Civil. Fixação dos honorários advocatícios. Matéria infraconstitucional. Ofensa reflexa. Incidência do Enunciado 279 da Súmula do STF. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE nº 706.879/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 6/6/14).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INDENIZAÇÃO. HONORÁRIOS ADVOCATÍCIOS. 1. Ausência de prequestionamento da matéria constitucional suscitada. 2. Análise de matéria infraconstitucional. Ofensa constitucional indireta. 3. Reexame de fatos e provas: Súmula n. 279 do Supremo Tribunal Federal. 4. Agravo regimental ao qual se nega provimento.” (ARE nº 742.462/SP-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 1/7/13).
+    “PROCESSO CIVIL. REDUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. MATÉRIA INFRACONSTITUCIONAL. 1. A DISCUSSÃO A RESPEITO DA REDUÇÃO DE HONORÁRIOS ADVOCATÍCIOS É DE NATUREZA INFRACONSTITUCIONAL. INCABÍVEL, NO CASO, A INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO PARA TRATAR DE TAL HIPÓTESE. 2. INEXISTÊNCIA DE ARGUMENTO CAPAZ DE INFIRMAR A DECISÃO AGRAVADA, QUE DEVE SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. 3. AGRAVO REGIMENTAL IMPROVIDO” (RE nº 577.398/RJ-AGR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 24/4/09).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 8 de dezembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
