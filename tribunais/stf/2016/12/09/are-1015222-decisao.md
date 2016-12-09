@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento ao extraordinário sob o fundamento de que o recorrente não demonstrou a existência de repercussão geral das questões constitucionais discutidas no caso ( pág. 82 do doc. eletrônico 3).
+    O agravo não merece acolhida, dado que o recorrente deixou de atacar o fundamento da decisão agravada, o que atrai a incidência da Súmula 287/STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux, e ARE 752.372-AgR/MG, de minha relatoria.
+    Apesar de o agravo não merecer provimento, sustenta-se no recurso a ocorrência da prescrição punitiva do Estado, matéria de ordem pública que ora passo a examinar.
+     Registro que, de acordo com a denúncia, o fato delituoso ocorreu em 1º/8/2000 (págs. 4-5). A denúncia foi recebida em 18/12/2001 (pág. 39 do doc. eletrônico 1). Na sentença, publicada em 27/9/2010, o ora agravante foi condenado a 5 anos e 6 meses de reclusão, como incurso nas penas do art. 157, § 2º, I e II, do CP (págs. 88-94 do doc. eletrônico 2). O trânsito em julgado para a acusação está certificado à pág. 99 do doc. eletrônico 2. A apelação interposta pelo réu veio a ser desprovida, mantendo-se integralmente a sentença (págs. 139-142 do doc. eletrônico 2 e 1-3 do doc. eletrônico 3). No julgamento dos embargos infringentes, o Tribunal de Justiça do Estado de São Paulo reduziu a pena para 5 anos e 4 meses de reclusão (págs. 41-44 do doc. eletrônico 3).
+    Desse modo, levando-se em conta a pena aplicada bem como o disposto no art. 109, III, do CP, se o máximo da pena é superior a 4 anos e não excede a 8, a prescrição opera-se em 12 anos.
+    Assim, é possível notar não ter ocorrido a prescrição da pretensão punitiva do Estado, porquanto não houve lapso superior a 12 anos entre os marcos interruptivos estabelecidos no artigo 110 do CP.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 9 de dezembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
