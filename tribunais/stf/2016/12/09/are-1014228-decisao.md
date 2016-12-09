@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A Sétima Turma Recursal do Juizado Especial Cível da Terceira Região – Seção Judiciária de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de reconhecimento de tempo de serviço rural. No extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 5º, inciso XXXVI, 7º, incisos IV e XXIV, e 102, inciso I, § 3º, da Constituição Federal. Afirma não haver razão legal para negar o pedido de reconhecimento de tempo como rurícola. Afirma comprovado o período trabalhado pela carteira de trabalho e guias encaminhadas ao Colegiado de origem.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    No presente caso, não há início de prova material contemporâneo para comprovar a atividade rurícola do autor, no período de 26/11/1970 a 26/09/1983.
+    A declaração sindical juntada não se presta à comprovação do período, pois não foi devidamente homologada pelo INSS, consoante passou a exigir a Lei nº 9.063, de 14.6.95. Ademais, os
+    documentos que serviram de base para a expedição da declaração foram o contrato de comodato e as declarações de testemunhas. No entanto, verifico que as assinaturas do contrato de comodato foram reconhecidas somente em setembro de 2011, apesar de estar datado de 26 de setembro de 1983. Assim, não é possível verificar a contemporaneidade desse contrato (fls. 86 da inicial).
+    As declarações de fls. 87 a 89 equivalem a prova testemunhal, não servindo como prova material.
+    Diante da ausência de início de prova material, deixo de reconhecer o período rural de 26/11/1970 a 26/09/1983.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a ausência de contrarrazões.
+    4. Publiquem.
+Brasília, 9 de dezembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
