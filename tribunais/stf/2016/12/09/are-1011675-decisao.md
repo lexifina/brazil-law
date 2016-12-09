@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APOSENTADORIA ESPECIAL - POLICIAL CIVIL - INTEGRALIDADE E PARIDADE DE PROVENTOS - RECEPÇÃO E APLICABILIDADE DA LEI COMPLEMENTAR 51/85 - PREENCHIMENTO DOS REQUISITOS - RECURSO IMPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, §§ 1º, 3º e 17, da Constituição.
+    O recurso não merece ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência do Supremo Tribunal Federal, que, ao julgar o RE 590.260-RG, Rel. Min. Ricardo Lewandowski, submetido à sistemática da repercussão geral, decidiu que os servidores públicos que ingressaram no serviço público antes da EC nº 41/2003, mas que se aposentaram após da edição da referida emenda, possuem direto à paridade e integralidade remuneratória, desde que observada a regra de transição prevista na EC nº 47/2005. Veja-se a ementa do mencionado julgado:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO POR ATIVIDADE DE MAGISTÉRIO, INSTITUÍDA PELA LEI COMPLEMENTAR 977/2005, DO ESTADO DE SÃO PAULO. DIREITO INTERTEMPORAL. PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS QUE INGRESSARAM NO SERVIÇO PÚBLICO ANTES DA EC 41/2003 E SE APOSENTARAM APÓS A REFERIDA EMENDA. POSSIBILIDADE. ARTS. 6º E 7º DA EC 41/2003, E ARTS. 2º E 3º DA EC 47/2005. REGRAS DE TRANSIÇÃO. REPERCUSSÃO GERAL RECONHECIDA. RECURSO PARCIALMENTE PROVIDO.
+    I – Estende-se aos servidores inativos a gratificação extensiva, em caráter genérico, a todos os servidores em atividade, independentemente da natureza da função exercida ou do local onde o serviço é prestado (art. 40, § 8º, da Constituição).
+    II – Os servidores que ingressaram no serviço público antes da EC 41/2003, mas que se aposentaram após a referida emenda, possuem direito à paridade remuneratória e à integralidade no cálculo de seus proventos, desde que observadas as regras de transição especificadas nos arts. 2º e 3º da EC 47/2005.
+    III – Recurso extraordinário parcialmente provido”.
+    Ademais, o Tribunal de origem assentou que “a certidão de contagem de tempo de serviço do recorrido aponta que ele, por ocasião de sua aposentadoria (09.07.2011), contava com mais de vinte anos de efetivo exercício de atividade policial e mais de trinta e cinco anos de contribuição previdenciária. Acrescente-se que o recorrido ingressou no cargo de Delegado de Policial no ano de 1991, bem antes da vigência da Emenda Constitucional n“ 41/2003.”. Desse modo, para dissentir de tal entendimento, faz-se necessário o reexame do conjunto fático-probatório dos autos e a análise da legislação infraconstitucional aplicada ao caso, procedimentos vedados neste momento processual.
+    Nesse sentido, vejam-se os seguintes precedentes: ARE 880.879, Rel.ª Min.ª Cármen Lúcia; e ARE 942.361, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 09 de dezembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
