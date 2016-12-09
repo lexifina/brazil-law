@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão assim resumido:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. RESPONSABILIDADE CIVIL. PRELIMINARES. COMPETÊNCIA INTERNA E PRESCRIÇÃO. REJEIÇÃO. MÉRITO. NOMEAÇÃO PARA OCUPAÇÃO DE CARGO PÚBLICO. CONCURSO PÚBLICO. VÍCIO APONTADO PELO TCE/RS. DESCONSTITUIÇÃO DO ATO DE NOMEAÇÃO. EXERCÍCIO DO CARGO PÚBLICO POR MAIS DE 10 ANOS. SEGURANÇA JURÍDICA. EXPECTATIVA LEGÍTIMA. FRUSTRAÇÃO. DANO MORAL CARACTERIZADO. REDUÇÃO DO VALOR DA INDENIZAÇÃO EM REEXAME NECESSÁRIO.
+    PRELIMINARES REJEITADAS, APELO DESPROVIDO E INDENIZAÇÃO REDUZIDA EM REEXAME NECESSÁRIO”. (pág. 145 do doc. eletrônico 1).
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação ao art. 37, § 2° e § 6°, da mesma Carta e à Súmula 473/STF.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem decidiu a questão relativa à responsabilidade civil do Município com fundamento no conjunto fático probatório constante dos autos. Dessa forma, para se chegar à conclusão contrária à adotada no acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, menciono as seguintes ementas:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL E SÚMULA STF 279. PRECEDENTES. 1. A análise da indenização civil por danos morais e materiais reside no âmbito da legislação infraconstitucional (Súmula STF 280). 2. Incidência da Súmula STF 279, o que também elide a apreciação, no caso, da matéria objeto do art. 144 da Constituição Federal. 3. Agravo regimental improvido”. (AI 755.238/MG-AgR, Rel. Ministra Ellen Gracie).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. RESPONSABILIDADE OBJETIVA DO ESTADO. CONCURSO PARA DELEGADO DE POLÍCIA. DESLIGAMENTO. REINTEGRAÇÃO. REEXAME DE FATOS E PROVAS. MATÉRIA INFRACONSTITUCIONAL. SÚMULA STF 279. 1. O Tribunal de origem decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Para reforma do acórdão recorrido é imprescindível o reexame de fatos e de provas, inviável em sede extraordinária. Incidência da Súmula STF 279. 3. Agravo regimental improvido”. (AI 628.245/PR-AgR, Rel. Ministra Ellen Gracie).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 9 de dezembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
