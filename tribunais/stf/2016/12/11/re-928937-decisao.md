@@ -1,0 +1,27 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa transcrevo (fls. 178):
+    “AÇÃO DECLARATÓRIA DE OBRIGAÇÃO DE FAZER – DECRETO ESTADUAL Nº 41.446/96 – APLICABILIDADE – BENFÍCIO AO CONSUMIDOR RESIDENCIAL – SENTENÇA MANTIDA – APELO DESPROVIDO.”
+    Os embargos declaratórios opostos foram desprovidos (fls. 702).
+    No recurso extraordinário, com fundamento nas alíneas “a” e “d”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, caput e incisos I, II, XXII e XXIII, 37, caput, 170 e 175, parágrafo único, I e III, da Constituição Federal.
+    Nas razões recursais busca-se demonstrar o direito de ser classificado no “sistema de economias”, afirmando que não houve a devida quantificação do real volume de água consumido. De outra banda, afirma-se que o Decreto Estadual 41.446/96, ao excluir a categoria comercial do regime de economia para efeito de cálculo de tarifa, disciplinou matéria afeta à competência privativa da União.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Observem o que decidido pelo Colegiado a quo (fls. 582-583):
+    “Não há, pois, a menor evidência da existência das referidas quarenta ‘unidades autônomas’ e, menos ainda, que tais unidades fossem ‘residenciais’, requisitos essenciais para o enquadramento no §1º do art. 3º do Decreto Estadual nº 41.446/96, conforme entendimento consolidado deste C. Tribunal de Justiça (Ap nº 0116576-87.2011.8.26.0000 e outros precedentes ali indicados) e cuja constitucionalidade foi expressamente declarada nos autos do incidente de inconstitucionalidade nº 147.870-0/2-00.”
+    Da análise do acórdão impugnado, tem-se que a controvérsia foi dirimida com base no conjunto fático-probatório e na legislação infraconstitucional de regência da matéria – Decreto Estadual nº 41.446/96.
+     Assim, eventual divergência em relação ao entendimento adotado pelo Colegiado de origem demandaria o exame das provas dos autos e da legislação local, o que inviabiliza o processamento do apelo extremo, nos termos das Súmulas 279 e 280 do STF. Confiram com as seguintes ementas:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. SERVIÇO DE COLETA DE ESGOTO. COBRANÇA BASEADA NO CONSUMO TOTAL DE ÁGUA. DECRETO ESTADUAL 41.446/96. SÚMULA 280/STF. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 872217 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 07.05.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E CONSUMIDOR. PRESTAÇÃO DE SERVIÇOS. FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO. COBRANÇA. CRITÉRIO DE CLASSIFICAÇÃO. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. ENQUADRAMENTO DO IMÓVEL. REEXAME DE FATOS E PROVAS. SUM. 279/STF.
+    1. A tarifa de água nas hipóteses em que sub judice a aferição do critério utilizado para sua cobrança encerra análise de normas infraconstitucionais.
+    2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 627.760- AgR, Relator Min. Ricardo Lewandowski, Segunda Turma, DJe 5/92011, e RE 603533 AgR, Relator Min. Gilmar Mendes, Segunda Turma, DJe de 31/5/2011.
+    3. A súmula 279/STF dispõe verbis: Para simples reexame de prova não cabe recurso extraordinário.
+    4. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    5. In casu, o acórdão recorrido assentou: “Prestação de serviços - Fornecimento de água e coleta de esgoto - Ação de repetição de indébito - Regime de economias - Imóvel composto por unidades autônomas de uso exclusivamente comercial - Sistema de múltiplas economias, nos termos do artigo 2º, § único, do decreto estadual n° 21.123/83, até a entrada em vigor do decreto estadual n° 41.446/96, que redefiniu o conceito de "economia", trazendo diferenciação em relação às categorias de consumidores Inexistência de ilegalidade ou inconstitucionalidade - Sentença mantida - Recurso improvido.”
+    6. Agravo regimental DESPROVIDO.” (ARE 680081 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 10.09.13)
+    Por fim, verifico que a parte recorrente não logrou demonstrar o ponto em que o acórdão recorrido teria julgado válida lei local em detrimento de lei federal. Na espécie, verifica-se que o Tribunal de origem apreciou o caso mediante a interpretação e aplicação da legislação pertinente à situação fático-jurídica constante dos autos. Desse modo, revela-se inadmissível o recurso extraordinário com fundamento no art. 102, III, d, da Constituição Federal.
+    Nesse sentido: Rcl 20.986 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 30.9.2015; AI 837.757 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 19.12.2014; AI 820.924 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 10.12.2012; e AI 774.514 AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1.10.2010.
+    Ante o exposto, nego seguimento ao extraordinário, nos termos dos artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 11 de dezembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
