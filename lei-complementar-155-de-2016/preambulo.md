@@ -1,0 +1,2 @@
+Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para reorganizar e simplificar a metodologia de apuração do imposto devido por optantes pelo Simples Nacional; altera as Leis nos 9.613, de 3 de março de 1998, 12.512, de 14 de outubro de 2011, e 7.998, de 11 de janeiro de 1990; e revoga dispositivo da Lei nº 8.212, de 24 de julho de 1991.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
