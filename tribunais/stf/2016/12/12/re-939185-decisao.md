@@ -1,0 +1,29 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. AGRAVO LEGAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO AO PIS. EC N. 10/96. CONSTITUCIONALIDADE RECONHECIDA PELO ÓRGÃO ESPECIAL DESTA E. CORTE. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+    1. Em 29/09/2010, o E. Órgão Especial desta Corte, por maioria, julgou improcedente a arguição de inconstitucionalidade da Emenda Constitucionalnº 10/96, nos autos da Apelação Cível 1999.61.00.058641-6/SP, de relatoria do Des. Fed. Carlos Muta, nos termos do acórdão publicado no Diário Eletrônico de 13/01/2011, de sorte que restou afastada a alegada violação aos princípios constitucionais da irretroatividade e anterioridade.
+    2. Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática.
+    3. Agravo legal improvido” (fl. 366).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXXV, XXXVI e LV, 60, § 4º, IV, 93, IX, 149, 150, III, a, e 195, § 6º, da mesma Carta.
+    A pretensão recursal merece acolhida.
+    O acórdão recorrido está em desacordo com a orientação desta Corte, que, no julgamento do RE 587.008-RG/SP (Tema 107), Rel. Min. Dias Toffoli, firmou entendimento, em caso semelhante, no sentido de que o princípio da anterioridade nonagesimal, previsto no art. 195, § 6º, da Constituição Federal, caracteriza-se como cláusula pétrea, uma vez que se trata de garantia individual. Dessa forma, deve observância a este princípio não somente o legislador ordinário, mas também o constituinte derivado.
+    Além disso, no mesmo julgamento ficou assentado que – dada a solução de continuidade entre o término de vigência da Emenda Constitucional 1/1994 e a entrada em vigor da Emenda Constitucional 10/1996 – houve majoração da alíquota da contribuição social sobre o lucro devida pelas pessoas jurídicas de que trata o art. 22, § 1º, da Lei 8.212/1991, e que a referida majoração somente seria devida após decorridos os noventa dias, contados da publicação da emenda, não sendo possível, ademais, a sua retroação a 1º de janeiro de 1996. O referido acórdão restou assim ementado:
+    “Recurso extraordinário – Emenda Constitucional nº 10/96 – Art. 72, inciso III, do Ato das Disposições Constitucionais Transitórias (ADCT) - Contribuição Social sobre o Lucro (CSLL) – Alíquota de 30% (trinta por cento) - Pessoas jurídicas referidas no § 1º do art. 22 da Lei nº 8.212/91 – Alegada violação ao art. 195, § 6º, da Constituição Federal.
+    1. O poder constituinte derivado não é ilimitado, visto que se submete ao processo consignado no art. 60, §§ 2º e 3º, da Constituição Federal, bem assim aos limites materiais, circunstanciais e temporais dos §§ 1º, 4º e 5º do aludido artigo.
+    2. A anterioridade da norma tributária, quando essa é gravosa, representa uma das garantias fundamentais do contribuinte, traduzindo uma limitação ao poder impositivo do Estado.
+    3. A emenda Constitucional nº 10/96, especialmente quanto ao inciso III do art. 72 do Ato das Disposições Constitucionais Transitórias – objeto de questionamento - é um novo texto que veicula nova norma, e não mera prorrogação da emenda anterior.
+    4. Hipótese de majoração da alíquota da CSSL para as pessoas jurídicas referidas no § 1º do art. 22 da Lei nº 8.212/91.
+    5. Necessidade de observância do princípio da anterioridade nonagesimal contido no art. 195, § 6º, da Constituição Federal.
+    6. Recurso Extraordinário a que se nega provimento”.
+    Assim, resta evidente que o mesmo raciocínio da decisão proferida pelo Plenário desta Corte no julgamento do RE 587.008-RG/SP, Rel. Min. Dias Toffoli, deve ser aplicado à exigibilidade da Contribuição ao PIS, na forma do art. 72, V, do ADCT. Especificamente sobre o tema, destaco o RE 953.074-AgR/SP, Rel. Min. Dias Toffoli, cuja ementa transcrevo a seguir:
+    “Agravo regimental no recurso extraordinário. Tributário. PIS. EC nº 10/1996. Majoração de alíquota. Anterioridade. Irretroatividade. Necessidade de observância.
+    1. A Emenda Constitucional nº 10/96 não foi mera prorrogação da Emenda Constitucional nº 01/94. Em consequência, a majoração da alíquota da Contribuição ao Programa de Integração Social (PIS) somente será devida após o decurso de noventa dias, contados a partir da publicação da referida emenda, em observância aos princípios da anterioridade nonagesimal e da irretroatividade das normas.
+    2. Agravo regimental a que se nega provimento”.
+    Por fim, cumpre ressaltar que, em matéria análoga à versada nestes autos, os Ministros deste Tribunal, no julgamento do RE 848.353/SP (Tema 894), Rel. Min. Teori Zavascki, reconheceram a repercussão geral e reafirmaram essa jurisprudência. Por oportuno, transcrevo a ementa do referido julgado:
+    “TRIBUTÁRIO. RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO AO PROGRAMA DE INTEGRAÇÃO SOCIAL (PIS). EMENDA CONSTITUCIONAL 17/1997. NECESSIDADE DE OBSERVÂNCIA AO PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL (CF/88, ART. 195, § 6º). PRECEDENTES.
+    1. A contribuição ao PIS só pode ser exigida, na forma estabelecida pelo art. 2º da EC 17/1997, após decorridos noventa dias da data da publicação da referida emenda constitucional.
+    2. Recurso extraordinário a que se dá provimento, com o reconhecimento da repercussão geral do tema e a reafirmação da jurisprudência sobre a matéria”.
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento (art. 557, § 1º-A, do CPC/1973) para afastar a cobrança da alíquota da Contribuição para o PIS prevista no art. 72, V, do ADCT, na redação dada pela EC 10/1996, antes de decorridos noventa dias, contados da publicação da referida emenda, em cumprimento ao disposto no art. 195, § 6º, da Constituição Federal. Sem honorários (Súmula 512 do STF).
+    Publique-se.
+    Brasília, 12 de dezembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
