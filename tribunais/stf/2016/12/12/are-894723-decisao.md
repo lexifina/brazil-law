@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, em que se discute a base de cálculo da aposentadoria de professora daquele Estado.
+    O recurso extraordinário foi interposto com fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 40, § 5º, da Constituição Federal.
+    O recurso deve ser provido. De início, anota-se que o Tribunal de origem reformou a sentença de primeiro grau e entendeu que a aposentadoria da ora recorrente teria sido corretamente calculada, tendo como base de cálculo a regra geral de aposentadoria (30 anos). Assim ficou assentado no acórdão recorrido:
+    “[...] tendo a autora se aposentado, compulsoriamente, antes de completar 25 anos de efetivo exercício nas funções de magistério (possui pouco mais de 24 anos), sua aposentadoria proporcional foi calculada corretamente, com base nos 30 anos, regra geral para aposentadorias, e não com base nos 25 anos, regra especial que só pode beneficiar quem preenche os seus requisitos”.
+    Ocorre que esse entendimento não é o adotado pelo Supremo Tribunal Federal. Com efeito, a jurisprudência desta Corte se firmou no sentido de que, a aposentadoria proporcional do professor público, em funções exclusivas de magistério, tem como base de cálculo dos proventos o tempo exigido para a aposentadoria com proventos integrais dos professores. Nessa linha, vejam-se as seguintes ementas:
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. APOSENTADORIA PROPORCIONAL DE PROFESSORES PÚBLICOS. FUNÇÃO EXCLUSIVA DE MAGISTÉRIO. CONSIDERAÇÃO DO TEMPO EXIGIDO PARA A APOSENTADORIA COM PROVENTOS INTEGRAIS DOS PROFESSORES. AGRAVO IMPROVIDO.
+    I - A jurisprudência desta Corte é pacífica no sentido de que, na aposentadoria proporcional de professores públicos que exerçam função exclusiva de magistério, os proventos deverão ser calculados com base no tempo exigido para a aposentadoria com proventos integrais dos professores. Precedentes.
+    II – Agravo regimental improvido.” (RE 717.701-ED, Rel. Min. Ricardo Lewandowski)
+    “Professor do Estado de São Paulo: aposentadoria proporcional especial. Proventos. Art. 40, III, b, da CF/88 (redação original). ‘Se o servidor faz jus a se aposentar com proventos proporcionais ao seu tempo de serviço, a proporcionalidade no cálculo de seus proventos só pode ser obtida mediante a consideração, como um dos termos da equação, do tempo de serviço exigido para a aposentadoria com proventos integrais (...), sendo o outro termo da equação, necessariamente, o tempo de efetivo exercício em funções de magistéri’ (cf. RE 214.852, 28.03.00, Ilmar Galvão, DJ 26.5.2000).” (RE 459.188-AgR, Rel. Min. Sepúlveda Pertence)
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, conheço do agravo para dar provimento ao recurso extraordinário e restabelecer a sentença de primeira instância. Invertidos os ônus de sucumbência.
+    Publique-se.
+          Brasília, 12 de dezembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
