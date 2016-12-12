@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo, cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da 8ª Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “PROCESSO CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. DEMORA NA LIBERAÇÃO DO PRECATÓRIO. PAGAMENTO DE JUROS MORATÓRIOS E COMPENSATÓRIOS. DEVOLUÇÃO DE CPMF. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL.
+     1. O fato do precatório ter sido liberado em 10/01/2003 e liquidado apenas em 18/06/2003, não gera ao Banco depositário a obrigação de pagar juros moratórios e compensatórios, posto que, além de tratar-se de demora por normais procedimentos cartorários, os valores depositados foram devidamente corrigidos nesse período.
+    2. Impossibilidade de condenação do Banco depositário também no ressarcimento da CPMF, eis que além de não ser parte no processo, o desconto desse tributo decorre de determinação legal.
+    3. Agravo provido”
+    Foram opostos embargos de declaração, os quais foram rejeitados. O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega ofensa aos arts. 5°, caput e XXXVI, da Carta. Sustenta em síntese que, ao manter a decisão que reviu decisão anterior em que se declarou preclusa a oportunidade da recorrida de opor-se aos cálculos apresentados pela contadoria. Aduz, em síntese, ofensa ao princípio da isonomia, beneficiando a Fazenda Pública em detrimento do contribuinte. Requer a nulidade do acórdão recorrido.
+    A decisão agravada, negou seguimento ao recurso sob o fundamento de que: “em face da jurisprudência do STF, (…) cabe ao juízo da execução a interpretação de sua própria declaração sobre os honorários advocatícios quando verificado erro material sem que tal interpretação seja considerada ofensa à coisa jugada.” A parte agravante limita-se a repisar os argumentos do recurso extraordinário.
+    A pretensão recursal não merece prosperar, tendo em vista que dissentir das conclusões adotadas sobre a existência ou não de preclusão consumativa quanto ao questionamento dos cálculos demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, providência vedada nesta fase processual (Súmula 279/STF). No mesmo sentido:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO CIVIL. PROVA PERICIAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA NO PROCEDIMENTO ADMINISTRATIVO. REEXAME DE FATOS E PROVAS. SÚMULA Nº 279 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.” (ARE 941.800, Rel. Min. Luiz Fux)
+    Ademais, o Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia referente à violação aos princípios da legalidade, da igualdade, do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE nº 748.371-RG, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º do do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 12 de dezembro de 2016.
+Ministro Luís Roberto Barroso
+Relator
