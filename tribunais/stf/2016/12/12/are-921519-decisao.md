@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa transcrevo:
+    AGRAVO REGIMENTAL – DECISÃO MONOCRÁTICA DO RELATOR QUE REJEITOU DE PLANO O PEDIDO DE CORREIÇÃO PARCIAL – IRRESIGNAÇÃO DA REQUERENTE – AÇÃO DE PRESTAÇÃO DE CONTAS – AUSÊNCIA DE APRECIAÇÃO DE REITERADOS PEDIDOS DE DESENTRANHAMENTO DE DOCUMENTOS – ERRO CONSISTENTE NA NEGATIVA DE PRESTAÇÃO JURISDICIONAL – INEXISTÊNCIA, CONTUDO, DE QUAISQUER HIPÓTESES AUTORIZADORAS DA CORREIÇÃO PARCIAL – PROLAÇÃO DA SENTENÇA QUE ENCERRA A PRESTAÇÃO JURISDICIONAL DE PRIMEIRO GRAU – IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO DE DESENTRANHAMENTO ENQUANTO PENDENTE O JULGAMENTO DA APELAÇÃO INTERPOSTA – PEDIDO INADEQUADO EM SEDE DE CORREIÇÃO PARCIAL – INUTILIDADE DA MEDIDA – IMPOSSIBILIDADE DE SEU CONHECIMENTO COMO RECLAMAÇÃO – CORREIÇÃO MANIFESTAMENTE INCABÍVEL – DECISÃO MANTIDA – AGRAVO REGIMENTAL DESPROVIDO. (e-DOC 5. p. 111/112).
+    Nas razões recursais, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos artigos 5º, X, LIV e LV, todos da Constituição da República, por ofensa aos princípios da inviolabilidade da intimidade, da vida privada, da honra e da imagem; do devido processo legal, do contraditório e da ampla defesa.
+    A irresignação não merece prosperar.
+    Sem embargo do teor, manifestado nestes autos, a respeito, abstratamente, da suposta violação dos direitos fundamentais à intimidade, vida privada, honra e imagem (art. 5º, X); dos princípios do devido processo legal (art. 5º, LIV), da ampa defesa e do contraditório (art. 5º, LV), todos do Texto Constitucional, constata-se que, no caso concreto, os Recorrentes fundamentam o apelo extremo em argumentos genéricos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em normas infraconstitucionais (artigos 335 e 349 do Regimento Interno do Tribunal de Justiça do Paraná), o que não é cabível em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 12 de dezembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
