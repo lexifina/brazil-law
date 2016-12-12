@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de origem confirmou o entendimento do Juízo quanto à procedência do pedido de anulação de reprovação de candidato em teste físico, assegurando a permanência do autor no certame. No extraordinário cujo trânsito busca alcançar, o Estado do Rio de Janeiro aponta violados os artigos 2º e 37, incisos I e II, da Constituição Federal. Diz contrariados os princípios da isonomia e da impessoalidade, porquanto os termos do edital eram de conhecimento público.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    No presente caso, o impetrante não teve acesso aos motivos que ensejaram a sua eliminação no teste físico, situação esta que não restou elidida pelo recorrente, o que nos leva a concluir que o ora recorrido possui direito líquido e certo, pois é assente o entendimento de que o ato administrativo tem que ser motivado.
+    De acordo com Marçal Justin Filho1, a validade de qualquer ato administrativo de cunho decisório depende de motivação, já que nenhuma competência é atribuída para que o agente decida como bem entender, cabendo a este demonstrar que sua escolha foi a mais correta e satisfatória.
+    Ademais, impende salientar que a Lei 5427/09, que regula o processo administrativo no âmbito do Estado do Rio de Janeiro, estabelece em seu artigo 2º, caput, que:
+    “o processo administrativo obedecerá, dentre outros, aos princípios da transparência, legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, impessoalidade, eficiência, celeridade, oficialidade, publicidade, participação, proteção da confiança legítima e interesse público.”
+    A essa altura, assentar a viabilidade do recurso, demandaria a análise das normas do edital, o que é vedado em sede extraordinária. A par desse aspecto, da leitura do acórdão impugnado depreende-se, a mais não poder, ter o Colegiado de origem julgado o recurso a partir de interpretação conferida à Lei estadual nº 5427/2009. Ora, a controvérsia sobre o alcance de lei local não viabiliza o acesso ao Supremo, conforme sedimentado pela jurisprudência Verbete nº 280 da Súmula: por ofensa a direito local não cabe recurso extraordinário. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça.
+    No mais, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 12 de dezembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
