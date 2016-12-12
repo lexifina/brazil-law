@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal da 1ª, confirmando o entendimento do Juízo, não admitiu a isenção do Imposto sobre a Renda Pessoa Física - IRPF sobre atividade remunerada anterior a aposentadoria de portador de moléstia grave, observada a legislação de regência. No recurso extraordinário, cujo trânsito busca alcançar, o recorrente alega violados os artigos 5º, incisos XXXV, LIV e LV, 7º, inciso III, 93, inciso IX, 150, inciso II, 153, § 2º, inciso I, 170 e 196 da Carta Política. Sustenta não incidir o imposto em questão sobre remuneração recebida por contribuinte aposentado portador de moléstia grave.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Tribunal de origem manteve a incidência do Imposto sobre a Renda Pessoa Física – IRPF sobre rendimentos recebidos pelo recorrente por serviço ativo anterior à aposentadoria decorrente de neoplasia maligna. Asseverou estar restrita a isenção do imposto aos proventos oriundos da aposentadoria, na forma do artigo 6º da Lei nº 7.713/88.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o acórdão impugnado interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par deste aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 12 de dezembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
