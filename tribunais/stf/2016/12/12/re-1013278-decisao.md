@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, União. Aparelhado o recurso na afronta aos arts 5º, LXXIV, LIV e LV, e 109, I,da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Divergir da conclusão da Corte de origem demandaria a análise da legislação infraconstitucional apontada no apelo extremo, bem como o revolvimento do conjunto fático delineado, o que torna obliqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido: ARE 1001646, Rel. Min.Ricardo Lewandowski, DJe 04. 11.2016 e demais precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. HONORÁRIOS ADVOCATÍCIOS. MATÉRIA A SER DIRIMIDA PELO JUÍZO DA EXECUÇÃO. NATUREZA INFRACONSTITUCIONAL DA CONTROVÉRSIA. Não há repercussão constitucional na controvérsia relativa ao valor dos honorários advocatícios arbitrados pelo Tribunal de origem. De fato, trata-se de matéria a ser dirimida pelo juízo de execução, visto que pressupõe o exame de normas processuais. Agravo regimental a que se nega provimento.” (AI nº 487.302/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 3/2/15).
+    “DIREITO PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS POR EXERCÍCIO DE DEFENSORIA DATIVA. ÔNUS DO DISTRITO FEDERAL. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. LEI 8.906/94. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 14.02.2012. A discussão travada nos autos não alcança status constitucional, porquanto solvida à luz da interpretação da legislação infraconstitucional aplicável à espécie. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido.” (ARE nº 736.368/DF-AgR, Primeira Turma, Relator a Ministra Rosa Weber, DJ de 30/10/14).
+    Ressalto que no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, esta Suprema Corte decidiu pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. O acórdão está assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de dezembro de 2016.
+Ministra Rosa Weber
+Relatora
