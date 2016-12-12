@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo regimental contra decisão que negou seguimento ao recurso extraordinário ao fundamento de que, “embora a gratificação-prêmio instituída pelo art. 139, II, da Lei 1.762/86 do Estado do Amazonas fosse incompatível com a Constituição vigente à época, seu pagamento deve ser mantido, em observância aos princípios da boa-fé e da segurança jurídica” (fl. 2, doc. 19).
+    Sustenta a parte agravante, em suma, que (a) “muito embora informado pela AMAZONPREV e pelo Estado do Amazonas a ocorrência do falecimento do autor em 09.04.2007 (petição de fls. 585 e seguintes, certidão de óbito de fl. 591), não houve manifestação do Poder Judiciário a respeito” (fl. 2, doc. 21); (b) “o acórdão recorrido foi proferido em 18 de fevereiro de 2009, mais de 1 (um) ano após a morte do impetrante” (fl. 3, doc. 21).
+    Instado a se manifestar, a parte contrária alega que (a) “tendo o Agravado falecido em 09/04/2007, poderia o Agravante ter deduzido este fato desde a interposição do Recurso Extraordinário, que se deu em 01/09/2009, o que não fez” (fl. 2, doc. 25); (b) “a questão aduzida no Agravo Interno, mesmo versando sobre questão de ordem pública, não ultrapassou a barreira do prequestionamento” (fl. 3, doc. 25).
+    2. Em 19.11.2009, o Fundo Previdenciário do Estado do Amazonas (AMAZONPREV) informou ao Tribunal a quo o falecimento do impetrante; a Corte de origem, no entanto, não se pronunciou sobre a matéria. Conforme pacífica jurisprudência do STF, “o óbito do impetrante importa extinção do processo sem julgamento do mérito do mandado de segurança, ainda que já tenha sido nele proferida decisão” (RE 221.452-ED-ED-EDv-AgR-AgR-ED, Rel. Min. EDSON FACHIN, Tribunal Pleno, Dje de 10/8/2016).
+    Trata-se de questão atinente à legitimidade ativa, matéria de ordem pública que pode ser conhecida inclusive de ofício, em qualquer tempo ou grau de jurisdição (art. 267, § 3º, do CPC/1973 e art. 485, 3º, do CPC/2015).
+    3. Diante do exposto, reconsidero a decisão agravada para julgar extinto o presente mandado de segurança, sem resolução de mérito, prejudicado o recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 12 de dezembro de 2016.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
