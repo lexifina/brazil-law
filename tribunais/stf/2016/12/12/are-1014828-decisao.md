@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “Processual Civil e Administrativo. Embargos infringentes movido pelo desapropriado, em ação ordinária tendo por objeto a declaração de produtividade de imóvel rural declarado de utilidade pública para fins de reforma agrária, visando fazer predominar o voto vencido.
+    Caso em que a distância entre o laudo de avaliação, na esfera administrativa, e a realização da perícia judicial, no lapso de cinco anos, nos autos em tela, não se constitui em fato que possa contribuir para a nulidade do decreto de desapropriação, por depender, a realização da mencionada perícia, de diversas circunstâncias a contribuir para o alongamento do feito.
+    Depois, a desapropriação foi intentada no tempo certo, ou seja, antes de dois anos contado da publicação do decreto declaratório, a teor do art. 3°, da Lei Complementar 76 (de 6 de julho de 1993), nem ao caso de aplica a norma escondida no § 4°, do art. 2°, da Lei 8.629 (de 25 de fevereiro de 1993).
+    Manutenção do voto vencedor a não prestigiar as benfeitorias feitas após a avaliação administrativa do imóvel desapropriado.
+    Improvimento dos embargos infringentes” (pág. 49 do volume eletrônico 8)
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação ao artigo 185, II, da mesma Carta. Sustentou-se que:
+    "mesmo comprovado nos autos a produtividade do imóvel rural, julgou improcedente a ação (...) sob o argumento de que as mudanças na produtividade posteriores à vistoria classificatória, in casu, ocorridas há mais de 6 (seis) meses, não maculam aquele laudo, nem impedem a desapropriação, quando se sabe, que não só se pode levar em consideração estas mudanças, como se deve por imperativo legal" (pág. 96 do volume eletrônico 3).
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido decidiu a questão referente à produtividade do imóvel em questão para fins de desapropriação com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei Complementar 76/1993 e Lei 8.629/1993), bem como no conjunto fático-probatório constante dos autos. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo, além de incidir, na espécie, a Súmulas 279 do STF, o que também inviabiliza o extraordinário. Nesse sentido, cito acórdão desta Corte que tem a seguinte ementa:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. DESAPROPRIAÇÃO POR INTERESSE SOCIAL PARA FINS DE REFORMA AGRÁRIA. IMÓVEL DECLARADO PRODUTIVO. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. SÚMULA 279/STF. Hipótese em que para dissentir do acórdão recorrido quanto à produtividade do imóvel objeto da desapropriação seria necessário nova apreciação dos fatos e do material probatório constante dos autos (incidência da Súmula 279/STF), além da análise das normas infraconstitucionais pertinentes. Precedente. Agravo regimental a que se nega provimento” (RE 607.731-AgR/PR, Rel. Min. Roberto Barroso).
+    Nesse sentido, faço menção também às seguintes decisões: RE 943.539/PE, Rel. Min. Gilmar Mendes, ARE 882.176/PE, Rel. Min. Rosa Weber, e RE 630.987/PR, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 12 de dezembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
