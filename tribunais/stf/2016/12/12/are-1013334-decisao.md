@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. Eis a síntese da decisão prolatada pelo Tribunal Regional Federal da 5ª Região:
+    ADMINISTRATIVO E PROCESSUAL CIVIL. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. TÍTULOS DA DÍVIDA AGRÁRIA COMPLEMENTARES. PRAZO DE RESGATE. TERMO INICIAL.
+    1. Agravo de instrumento manejado pelo INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA em face da decisão que, nos autos da ação de desapropriação de origem, determinou que os TDAs complementares fossem emitidos com a dedução do tempo decorrido entre a data do depósito inicial e a do seu lançamento, para que o prazo de resgate se enquadre no prazo constitucional vintenário, cuja data da imissão na posse será o termo inicial para o resgate de todas as TDAs, observado no que tange à incidência de juros nos TDAs complementares os parâmetros já fixados em decisão anterior e a legislação vigente na data do depósito inicial.
+    2. Segundo pacífica jurisprudência do STJ, na indenização fixada por sentença judicial além da oferta, para fins de desapropriação para reforma agrária, os Títulos da Dívida Agrária - TDAs complementares devem ser emitidos com dedução do tempo decorrido a partir da imissão na posse, a fim de que o resgate não ultrapasse o prazo constitucional de vinte anos.
+    3. No caso, como as alterações introduzidas pela Medida Provisória nº 2.183-56/2001 somente são aplicáveis às desapropriações ajuizadas após a sua edição, não merece acolhida a pretensão de aplicá-la ao prazo de resgate e à taxa de remuneração dos Títulos da Dívida Agrária.
+    4. Agravo de instrumento parcialmente provido e pedido de reconsideração julgado prejudicado.
+    No extraordinário cujo processamento busca alcançar, o recorrente aponta violado o artigo 184, § 4º, da Constituição Federal. Discorre sobre a impossibilidade de dedução do prazo vintenário do tempo transcorrido a partir da imissão na posse. Afirma a necessidade de previsão orçamentária para a emissão de títulos da dívida agrária complementares.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    "Registre-se, inicialmente, que no tange ao pagamento da diferença correspondente à indenização mediante a expedição de TDAs complementares, não se mostra razoável que tenha sido reconhecido por decisão judicial transitada em julgado a insuficiência da oferta inicial, sujeite-se o expropriado/exequente ao resgate dos títulos complementares com a adoção de nova contagem de prazo, suportando o ônus que não lhe pertence referente ao tempo necessário ao deslinde da controvérsia".
+    Assim é que o pagamento desses títulos complementares decorre da condenação do INCRA concernente à diferença do preço ofertado, sendo que a renovação do prazo de resgate implicaria - realmente - em flagrante ofenda ao preceito constitucional da justa indenização em casos de desapropriação.
+    O entendimento, aliás, preconizado na decisão agravada harmoniza-se com os julgados do col. Superior Tribunal de Justiça ainda colacionados pela magistrada singular.
+    Não se trata de resgate à vista das TDAs, como alega o INCRA. O expropriado não pode ser penalizado pela demora do trâmite judicial que, ao final, reconheceu o direito à diferença da oferta inicial, uma vez que a imissão no imóvel pelo instituto agravante ocorreu em 17/10/1997. Renovar o prazo de resgate constituiria violação ao direito constitucional da justa indenização. Quanto ao percentual de juros, também não encontro qualquer eiva de ilegalidade.
+    [...]
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 12 de dezembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
