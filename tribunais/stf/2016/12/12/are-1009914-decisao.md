@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA – ISSQN. BASE DE CÁLCULO. PRESTAÇÃO DE SERVIÇOS TERCEIRIZADOS E AGENCIAMENTO DE MÃO DE OBRA TEMPORÁRIA. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. ANÁLISE DE CLÁUSULAS CONTRATUAIS E REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE NA VIA EXTRAORDINÁRIA. SÚMULAS 279, 454 E 636 DO STF. OFENSA AO ARTIGO 93, IX, DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “IMPOSTO SOBRE SERVIÇOS
+    - Locação de mão-de-obra temporária - Serviço prestado por meio de pessoal contratado por empresas de recrutamento - Base de cálculo - Valor integral recebido do tomador:
+    - Conforme entendimento consolidado peio STJ, tratando-se de serviço de locação de mão-de-obra temporária, prestado por meio de pessoal contratado pelas empresas de recrutamento, a base de cálculo do ISS é o valor integral recebido do tomador, não se autorizando qualquer dedução.
+    RECURSO NÃO PROVIDO.”
+    Nas razões do apelo extremo, a parte recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação aos artigos 93, IX; 146, III, a; 150, I; e 156, III da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que as alegadas ofensas à Constituição Federal não teriam sido prequestionadas.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    Esta Corte firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível, no entanto, que o decisum se funde na tese suscitada pela parte. Nesse sentido, AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Plenário, DJe de 13/8/2010, Tema 339.
+    No que se refere à matéria de fundo, verifica-se que a controvérsia a respeito da natureza da atividade da empresa, para fins de incidência do Imposto Sobre Serviços de Qualquer Natureza – ISSQN, demanda a interpretação da legislação infraconstitucional de regência, a análise de cláusulas contratuais e o reexame de matéria fática, o que é vedado na via estreita do recurso extraordinário. Incidem, in casu, os óbices das Súmulas 279, 454 e 636 do STF, as quais dispõem, verbis: “Para simples reexame de prova não cabe recurso extraordinário”, “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário” e “Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Nesse sentido, AI 739.586-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 12/4/2013; e RE 642.472-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 19/3/2014, esse último assim ementado:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. ISS. Agenciamento de mão-de-obra. Questão infraconstitucional. Ofensa reflexa. Enquadramento da atividade. Fatos e provas. Súmula 279/STF. Precedentes. 1. O STJ decidiu a lide amparado na legislação infraconstitucional pertinente (Decreto-Lei nº 406/68 e Lei nº 6.019/74). Eventual afronta ao texto constitucional, caso ocorresse, seria meramente reflexa ou indireta. 2. Necessidade de perquirir a respeito das circunstâncias fáticas do serviço prestado para fins de enquadramento como ‘intermediação de mão de obra’ ou ‘agenciamento’, o que é vedado na via extraordinária, a teor da Súmula 279/STF. 3. Agravo regimental não provido.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 12 de dezembro de 2016.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
