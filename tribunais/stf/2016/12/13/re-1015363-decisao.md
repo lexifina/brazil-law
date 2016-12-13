@@ -1,0 +1,40 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “ADMINISTRATIVO. TEMPO DE SERVIÇO. SOCIEDADE DE ECONOMIA MISTA. ANUÊNIO. LICENÇA-PRÊMIO.
+    O tempo de serviço prestado em sociedade de economia mista não pode ser considerado para fins de pagamento de adicionais por tempo de serviço (anuênios) e de concessão (ou conversão em dobro) de licença-prêmio por assiduidade.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 8.112/90), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, para negar provimento à apelação da parte ora recorrente, apoiou-se em dispositivos de ordem meramente legal:
+    “O pedido está fundamentado no art. 100 da Lei nº 8.112/90, que dispõe sobre o Regime Jurídico dos Servidores Públicos Civis da União, das autarquias e das fundações públicas federais, em contraposição à restrição contida no art. 103, inciso V, da mesma lei, que só permite o aproveitamento do tempo de serviço, em atividade privada, para o efeito de aposentadoria e de disponibilidade:
+    Art. 100. É contado para todos os efeitos o tempo de serviço público federal, inclusive o prestado às Forças Armadas.
+    Art. 103. Contar-se-á apenas para efeito de aposentadoria e disponibilidade:
+    I – o tempo de serviço público prestado aos Estados, Municípios e Distrito Federal;
+    II – a licença para tratamento de saúde de pessoa da família do servidor, com remuneração;
+    III – a licença para atividade política, no caso do art. 86, § 2º;
+    IV – o tempo correspondente ao desempenho de mandato eletivo federal, estadual, municipal ou distrital, anterior ao ingresso no serviço público federal;
+    V – o tempo de serviço em atividade privada, vinculada à Previdência Social;
+    VI – o tempo de serviço relativo a tiro de guerra;
+    VII – o tempo de licença para tratamento da própria saúde que exceder o prazo a que se refere a alínea ‘b’ do inciso VIII do art. 102. (Incluído pela Lei nº 9.527, de 10.12.97)
+    § 1º O tempo em que o servidor esteve aposentado será contado apenas para nova aposentadoria.
+    § 2º Será contado em dobro o tempo de serviço prestado às Forças Armadas em operações de guerra.
+    § 3º É vedada a contagem cumulativa de tempo de serviço prestado concomitantemente em mais de um cargo ou função de órgão ou entidades dos Poderes da União, Estado, Distrito Federal e Município, autarquia, fundação pública, sociedade de economia mista e empresa pública.
+    …..................................................................................................
+    Veja-se que os funcionários da COPESUL, com o advento da Lei 8.112/90, não foram transpostos para o Regime Jurídico Único, permanecendo submetidos à CLT.
+    Com efeito, dispõe o art. 1º da Lei 8.112/90:
+    …...................................................................................................
+    Neste passo, não há como contar-se o tempo de serviço prestado à COPESUL como tempo de serviço público para todos os efeitos legais, mas apenas para fins de aposentadoria e disponibilidade, nos termos do já citado art. 103, V, da Lei 8.112/90.”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável.
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 856.820-AgR/PR, Rel. Min. RICARDO LEWANDOWSKI – AI 864.927/RS, Rel. Min. CÁRMEN LÚCIA – ARE 695.326-AgR/DF, Rel. Min. DIAS TOFFOLI – ARE 719.532-AgR/MS, Rel. Min. GILMAR MENDES, v.g.):
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. ADICIONAL POR TEMPO DE SERVIÇO. CONTAGEM DE TEMPO DE SERVIÇO PRESTADO NO REGIME CELETISTA. TEMA RESOLVIDO COM BASE EM LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL MERAMENTE REFLEXA. TRÂNSITO EM JULGADO DOS FUNDAMENTOS INFRACONSTITUCIONAIS SUFICIENTES PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”
+    (AI 859.039-AgR/DF, Rel. Min. TEORI ZAVASCKI – grifei)
+    Impende registrar, finalmente, no que se refere à alegada transgressão ao postulado constitucional que impõe, ao Poder Judiciário, o dever de motivar suas decisões (CF, art. 93, IX), que o Supremo Tribunal Federal – embora sempre enfatizando a imprescindibilidade da observância dessa imposição da Carta Política (RTJ 170/627-628) – não confere, a tal prescrição constitucional, o alcance que lhe pretende dar a parte ora recorrente, pois, na realidade, segundo entendimento firmado por esta própria Corte, “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RTJ 150/269, Rel. Min. SEPÚLVEDA PERTENCE – grifei).
+    Vale ter presente, a propósito do sentido que esta Corte tem dado à cláusula inscrita no inciso IX do art. 93 da Constituição, que os precedentes deste Tribunal desautorizam a abordagem hermenêutica feita pela parte ora agravante, como se dessume de diversos julgados (AI 529.105-AgR/CE, Rel. Min. JOAQUIM BARBOSA – AI 637.301-AgR/GO, Rel. Min. CÁRMEN LÚCIA – AI 731.527-AgR/RJ, Rel. Min. GILMAR MENDES – AI 838.209-AgR/MA, Rel. Min. GILMAR MENDES – AI 840.788-AgR/SC, Rel. Min. LUIZ FUX – AI 842.316-AgR/RJ, Rel. Min. LUIZ FUX – RE 327.143-AgR/PE, Rel. Min. CARLOS VELLOSO, v.g.), notadamente daquele, emanado do Plenário do Supremo Tribunal Federal, em que se acolheu questão de ordem para reafirmar essa mesma jurisprudência no sentido que venho de expor:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    (AI 791.292-QO-RG/PE, Rel. Min. GILMAR MENDES – grifei)
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 13 de dezembro de 2016.
+Ministro CELSO DE MELLO
+Relator
