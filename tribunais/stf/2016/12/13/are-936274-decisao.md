@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão Décima Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “CARTEIRA DE PREVIDENCIA DOS ADVOGADOS DE SÃO PAULO - Lei 13.549/09 que alterou os requisitos para aposentadoria por idade - Admissibilidade - Inocorrência de ofensa a direito adquirido - Aposentadoria que se rege pela Lei vigente ao tempo de sua concessão (STF, súmula 359) - Ação improcedente - Recurso não provido”.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação do artigo 5º, inciso XXXVI, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    O Supremo Tribunal Federal, ao julgar a ADI nº 4.429/SP, Relator o Ministro Marco Aurélio, afirmou a inaplicabilidade da Lei estadual nº 13.549/09, tão somente aos assegurados da Carteira de Previdência dos Advogados de São Paulo que reuniram os requisitos de aposentação sob a égide da Lei estadual nº 10.394/70. Confira-se a ementa do julgado:
+    “ESTADO – RESPONSABILIDADE – QUEBRA DA CONFIANÇA. A quebra da confiança sinalizada pelo Estado, ao criar, mediante lei, carteira previdenciária, vindo a administrá-la, gera a respectiva responsabilidade.” (Tribunal Pleno, DJe de 13/3/12)
+    Colhe-se do voto condutor do acórdão na ADI nº 4.429/SP:
+    “Por outro lado, como toda relação jurídica de longa duração, a previdenciária é, de certo modo, aberta, por ser impossível prever, desde logo, todas as mudanças sociais, econômicas e científicas que poderão desequilibrar o vínculo e exigir adaptação. Ante as inúmeras situações passíveis de alterar o suporte fático sobre o qual a relação jurídica foi criada, a expectativa de alguma modificação de regras para restabelecer o equilíbrio entre direitos e obrigações é implícita, seja a relação de natureza contratual, seja estatutária.
+    (…)
+    Contudo, a modificação da realidade, por mais grave, não se pode impor à força normativa da Carta da República. Uma coisa é afirmar a alteração ou a supressão de certo regime jurídico, respeitada a razoabilidade. Algo diverso é colocar em segundo plano direitos adquiridos e, digo mais, situações subjetivas já reconhecidas. Se formos ao inciso IV do § 4º do artigo 60 da Carta Federal, constataremos uma dualidade: a proteção, no tocante a emendas, faz-se presente considerados direitos e garantias.
+    Assim, incumbe ressaltar, desde logo, que as novas regras instituídas pela norma impugnada são inaplicáveis a quem, na data da publicação da Lei estadual nº 13.549, de 2009, já estava em gozo de benefício ou já tinha cumprido, com base no regime instituído pela Lei nº 10.394, de 1970, os requisitos necessários à concessão. É exigível a viabilidade do exercício do direito na forma como regulado antes da liquidação, ainda que se precise repassar verbas públicas do Estado de São Paulo para cobrir o déficit matemático.
+    (…)
+    Ante o quadro, acolho parcialmente o pedido para:
+    a) declarar a inconstitucionalidade dos § 2º e § 3º do artigo 2º da Lei nº 13.549, de 2009, do Estado de São Paulo, no que excluem a assunção de responsabilidade pelo Estado. Eis os dois preceitos:
+    (…)
+    b) conferir interpretação conforme à Constituição ao restante da norma impugnada, proclamando que as regras não se aplicam a quem, na data da publicação da Lei, já estava em gozo de benefício ou já tinha cumprido, com base no regime instituído pela Lei nº 10.394, de 1970, os requisitos necessários à concessão.” (grifei)
+    Portanto, verifica-se que esta Suprema Corte ressalvou expressamente os direitos adquiridos dos participantes da carteira de previdência que já se encontravam em gozo dos planos de benefícios ou que já reuniam os requisitos necessários à aposentação, na data de publicação da Lei Estadual nº 13.549/09.
+    Desse modo, restando assente nos autos que o ora recorrente não preencheu todos os requisitos previstos no período de vigência da lei, é certo que as instâncias de origem não divergiram da jurisprudência do Supremo Tribunal Federal acerca da matéria.
+    Ademais, decidir de forma diversa do acórdão recorrido em relação ao não preenchimento dos requisitos legais necessários, demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 279 desta Suprema Corte.
+    Ressalte-se, outrossim, que o acórdão recorrido está em sintonia com a jurisprudência desta Corte, firmada no sentido de que, em matéria de direito previdenciário, a lei de regência é aquela vigente ao tempo em que reunidos os requisitos para a concessão do benefício. Nesse sentido, anote-se:
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. REVISÃO DA RENDA MENSAL INICIAL. APOSENTADORIA: DIREITO ADQUIRIDO NA FORMA DA LEI VIGENTE AO TEMPO DA REUNIÃO DOS REQUISITOS DA INATIVIDADE. IMPOSSIBILIDADE DE CONJUGAÇÃO DE REGRAS MAIS FAVORÁVEIS DE DIFERENTES REGIMES. PRECEDENTE DO PLENÁRIO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 655.396/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 23/10/09).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. PREVIDENCIÁRIO. APOSENTADORIA EX-COMBATENTE. CRITÉRIOS DE REAJUSTE. DIREITO ADQUIRIDO. 1. Decisão agravada que se apoia em entendimento do Supremo Tribunal Federal no sentido de que para os critérios de reajuste dos proventos de inatividade, incide a lei vigente à época da implementação dos requisitos da aposentadoria, mesmo que previdenciária. 2. Agravo regimental improvido” (RE nº 387.157/CE-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 3/4/09).
+    “SERVIDOR PÚBLICO DO ESTADO DA BAHIA. GRATIFICAÇÃO POR CONDIÇÕES ESPECIAIS DE TRABALHO. LEI 6.677/1994. REEXAME DE LEGISLAÇÃO LOCAL. ÓBICE DA SÚMULA 280/STF. Para se chegar a conclusão diversa daquela a que se chegou no acórdão recorrido, seria necessário o reexame das provas dos autos e da legislação local pertinente, o que encontra óbice nas Súmulas 279 e 280 do STF. Esta Corte firmou o entendimento de que a aposentadoria regula-se pela lei vigente à época da reunião dos requisitos. Agravo regimental a que se nega provimento” (AI nº 834.478/DF-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, Dje de 25/10/12).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 13 de dezembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
