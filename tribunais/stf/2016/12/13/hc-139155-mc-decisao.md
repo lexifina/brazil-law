@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+PRISÃO PREVENTIVA – EXCESSO DE PRAZO.
+LIMINAR – EXTENSÃO – CORRÉUS.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO –AUSÊNCIA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal da Comarca de Santa Luzia/MG, no processo nº 0029352-51.2016.8.13.0245, determinou a prisão preventiva do paciente e de outros dois investigados, ocorrida em 16 de junho de 2016, em virtude do suposto cometimento do delito descrito no artigo 35 (associação para o tráfico) da Lei nº 11.343/2006. Consignou necessária a custódia para garantir a ordem pública, ante a abrangência da atuação do grupo criminoso, o fato de relacionar-se com a prática de outras infrações e de promover intranquilidade social. Apontou os registros criminais desfavoráveis do paciente, aludindo à possibilidade de reiteração delitiva.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 379.278/MG, tendo o Relator indeferido o pleito liminar.
+    Os impetrantes sustentam a inidoneidade da decisão mediante a qual implementada a constrição, afirmando-a vaga e genérica. Aduzem ausentes os pressupostos versados no artigo 312 do Código de Processo Penal. Frisam a presença de constrangimento ilegal decorrente da manutenção do paciente na prisão mesmo após manifestação do Ministério Público estadual pela absolvição dos denunciados. Dizem não haver risco à ordem pública ou à instrução processual. Ressaltam traduzir-se a segregação, nos moldes em que determinada, em antecipação de pena. Destacam a inexistência de custódia compulsória considerado o crime supostamente praticado, salientando o caráter excepcional da medida. Sublinham as condições pessoais favoráveis do paciente.
+    Requerem, em âmbito liminar, a revogação da preventiva. No mérito, buscam a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça de Minas Gerais, em 12 de dezembro de 2016, revelou que o processo-crime encontra-se concluso ao magistrado para julgamento, após apresentação de memoriais escritos pelo Ministério Público estadual.
+    A fase é de apreciação da medida acauteladora.
+    2. Os fundamentos da preventiva não resistem a exame. Inexiste, no arcabouço normativo, a constrição automática tendo em conta o delito possivelmente cometido, levando à inversão da ordem do processo-crime, que direciona, presente o princípio da não culpabilidade, a apurar-se para, selada a culpa, prender-se, em verdadeira execução da reprimenda. Considerou-se a gravidade concreta da imputação. Reiterados são os pronunciamentos do Supremo sobre a impossibilidade de potencialização da infração versada no processo. Os malefícios do tráfico surgem como elemento neutro, insuficiente a respaldar o argumento alusivo à preservação da ordem pública. Esta fica vinculada à observância da legislação em vigor. Aludiu-se à possibilidade de reiteração criminosa, partindo-se da capacidade intuitiva, olvidando-se que a presunção seria de postura digna, ante o fato de o paciente estar submetido aos holofotes da Justiça. Tem-se a insubsistência das premissas lançadas.
+    3. Defiro a liminar pleiteada. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da preventiva formalizada no processo nº 0029352-51.2016.8.13.0245, da Segunda Vara Criminal da Comarca de Santa Luzia/MG. Advirtam-no da necessidade de permanecer na residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Sendo idêntica a situação dos corréus Welisson Ramos Natividade, e Pablo Henrique dos Santos Castro, estendo-lhes esta medida acauteladora, com os mesmos cuidados, consoante o disposto no artigo 580 do Código de Processo Penal.
+    5. O curso deste habeas não prejudica o de nº 379.278/MG, em trâmite no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Nefi Cordeiro.
+    6. Colham o parecer da Procuradoria-Geral da República.
+    7. Publiquem.
+Brasília, 13 de dezembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
