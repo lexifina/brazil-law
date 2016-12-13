@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face do acórdão do Tribunal de Justiça de São Paulo que negou provimento à apelação nos seguintes termos:
+    “SERVIDORES PÚBLICOS ESTADUAIS - Prêmio de Desempenho Individual - Pretensão de extensão aos servidores inativos – Impossibilidade - Verba que possui natureza 'pro labore faciendo' - Pagamento vinculado à avaliação periódica e individual dos servidores ativos - Inteligência da Lei Complementar Estadual nº 1.158/2011 - Parcela fixa de 50% estipulada pelo §1º, do artigo 3º do Decreto Estadual nº 57.781/2012 que igualmente estipula requisitos para recebimento - Precedentes deste Eg. Tribunal de Justiça Sentença mantida - Recurso não provido..”
+    Os embargos de declaração opostos foram desprovidos.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 40, § 8º, da Constituição Federal, bem como aos princípios da paridade e isonomia.
+    Nas razões recursais, sustenta-se, em suma, que a gratificação pleiteada tem caráter genérico, devendo ser estendida aos servidores inativos, porquanto a referida gratificação foi concedida a todos os servidores em atividade indistintamente.
+    É o relatório. Decido.
+    Observo que o acórdão recorrido decidiu a controvérsia interpretando a Lei Complementar Estadual 1.158/2011, entendendo-se que a gratificação em questão tem caráter pro labore faciendo, devendo ser concedida aos servidores que cumprirem determinados requisitos estabelecidos na legislação citada. Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria a análise da legislação infraconstitucional local e o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    Ressalta-se o entendimento consolidado nesta Corte segundo o qual a discussão acerca da possibilidade de extensão aos inativos e pensionistas de gratificações concedidas aos servidores em atividade, especialmente quanto à natureza da verba, é adstrita ao âmbito da interpretação da legislação local.
+    Neste sentido:
+    “RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Vencimentos. Proventos. Vantagem pecuniária. Gratificação devida aos funcionários em atividade. Extensão aos aposentados. Rediscussão do caráter geral sob fundamento de ofensa ao art. 40, § 8º, da CF. Impossibilidade. Questão infraconstitucional. Recurso não conhecido. Aplicação das súmulas 279, 280 e 636. Reconhecido ou negado pelo tribunal a quo o caráter geral de gratificação funcional ou de outra vantagem pecuniária, perante os termos da legislação local que a disciplina, não pode o Supremo, em recurso extraordinário, rever tal premissa para estender ou negar aquela aos servidores inativos com base no art. 40, § 8º, da Constituição da República” (RE nº 586.949/MG, Relator o Ministro Cezar Peluso, Segunda Turma, DJ de 13/3/09 – grifei).
+    Sobre o tema, confiram-se, ainda, os seguintes julgados: ARE 987.195, Rel. Min. Dias Toffoli, DJe de 09.09.2016; ARE 1.001.603, Rel. Min. Marco Aurélio, DJe 14.10.2016; RE 1.002.042, Rel. Min. Luiz Fux, DJe 26.10.2016.
+    Ante o exposto, nego seguimento ao recurso, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 13 de dezembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
