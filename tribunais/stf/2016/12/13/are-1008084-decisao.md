@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 9ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado:
+    “Agravo de instrumento - Ofício Requisitório de Pequeno Valor - O enquadramento se faz no momento da apresentação da memória de cálculo e não na data da expedição do ofício requisitório—Aplicabilidade do art. 1°, §1° da Lei 11.377/03 e Resolução 199/05 do Tribunal de Justiça – Recurso desprovido.”
+    Opostos embargos de declaração, foram rejeitados. Novos embargos foram opostos, em que pese acolhidos, não modificaram a decisão.
+    No recurso extraordinário, sustenta-se violação dos artigos 97 e 100, caput e §§ 3º e 4º, da Constituição Federal.
+    Decido.
+    O inconformismo não merece colher êxito, uma vez as instâncias de origem decidiram a lide com base nos fatos e provas dos autos e mediante interpretação da Lei Municipal nº 13.179/01, cujo reexame é vedado em sede de recurso extraordinário.
+    Assim, para ultrapassar o entendimento do Tribunal a quo e reformar o acórdão recorrido seria necessário apreciar os fatos e provas dos autos e reexaminar a legislação infraconstitucional aplicável à espécie, providências vedadas em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 do Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Processual Civil e do Trabalho. 3. Requisição de Pequeno Valor. 4. Momento da aferição do limite legal. Necessidade de interpretação de legislação local. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE nº 744.340/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 14/5/14).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. REQUISIÇÃO DE PEQUENO VALOR. CONTROVÉRSIA ACERCA DO MOMENTO EM QUE FOI INICIADA A EXECUÇÃO PARA FINS DE INCIDÊNCIA DA LEI MUNICIPAL 9.532/2008. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incide, no caso, a Súmula 279 do STF. Precedentes. II - Agravo regimental improvido”
+(RE nº 723.386/MG-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/4/13).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CRÉDITO DE PEQUENO VALOR. AFERIÇÃO DO LIMITE MÁXIMO. LEI MUNICIPAL N. 13.179/2001. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº. 829.021/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/04/2011).
+    “SERVIDOR PÚBLICO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO.
+    I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. Precedentes.
+    II - Agravo regimental improvido” (AI nº. 689.921/PR-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe 20/2/2009).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE LEGISLAÇÃO LOCAL . INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE nº. 594.028/RS-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe 27/2/2009).
+    Ressalte-se, por fim, que não há falar em violação da Súmula Vinculante nº 10/STF ou do art. 97 da Constituição Federal, pois o acórdão recorrido não declarou a inconstitucionalidade do art. 1º da Lei nº 13.179/01, tampouco afastou, no todo ou em parte, sua incidência ao presente caso, limitando-se a interpretar a legislação aplicável ao presente feito.
+    Em tais hipóteses, entende a jurisprudência desta Corte não ocorrer a aludida vulneração. Confira-se:
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. INEXISTÊNCIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE VIOLAÇÃO DA CLÁUSULA DE RESERVA DE PLENÁRIO. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das súmulas nºs. 282 e 356 do Supremo Tribunal Federal. 2. Controvérsia decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. 3. Inviável o recurso extraordinário pela alínea ‘a’, por ofensa ao artigo 97 da CB/88, quando impugna decisão que não declarou a inconstitucionalidade dos textos normativos questionados. Precedentes. Agravo regimental a que se nega provimento” (AI nº 785.709-AgR-AgR/RS, Segunda Turma, Relator o Ministro Eros Grau, DJe de 24/6/10).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 13 de dezembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
