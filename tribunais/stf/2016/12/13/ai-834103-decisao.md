@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro confirmou o entendimento do Juízo quanto à procedência do pedido formulado em ação civil pública: determinação à empresa de inserção nas faturas da precisa indicação do consumo de gás havido, bem como a forma de cálculo do preço a pagar. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, inciso XXXVI, 37 e 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão relativo aos embargos de declaração, ante à negativa de prestação jurisdicional. Discorre sobre a contrariedade ao princípio do ato jurídico perfeito, porquanto imposta condição não contida no contrato de concessão de serviço.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, eis a síntese do acórdão recorrido:
+    AGRAVO INTERNO EM APELAÇÃO CIVIL PÚBLICA. AUSÊNCIA DE INFORMAÇÕES NA FATURA DE GÁS QUE PERMITAM AO CONSUMIDOR IDENTIFICAR SE EVENTUAL VARIAÇÃO DO VALOR TOTAL COBRADO SEJA REFLEXO DA ALTERAÇÃO DO SEU NÍVEL DE CONSUMO, DO PREÇO DO METRO CÚBICO DE GÁS OU POSSÍVEL ABUSIVIDADE NA COBRANÇA. RELAÇÃO DE CONSUMO. VIOLAÇÃO DO DEVER DE INFORMAÇÃO E DE TRANSPARÊNCIA INSERTOS NO ARTIGO 6º, III, DO ESTATUTO CONSUMERISTA. OBRIGAÇÃO DE FAZER QUE DEVE SER MANTIDA. FIXAÇÃO DO PRAZO DE 180 (CENTO E OITENTA) DIAS PARA SEU CUMPRIMENTO A CONTAR DO TRÂNSITO DESTE DECISUM. MANTENÇA DA DECISÃO MONOCRÁTICA DESTE RELATOR.
+    Da leitura da decisão impugnada verifica-se ter o Colegiado julgado com fundamento no quadro fático e na legislação de regência – Código do Consumidor. Ora somente pelo reexame das premissas fáticas e das normas legais seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Conheço deste agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 13 de dezembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
