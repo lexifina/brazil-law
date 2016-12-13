@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “TAXAS – Fiscalização de Estabelecimento (TFE) – e Fiscalização de Localização, Instalação e Funcionamento (TLIF) – Município de São Paulo – Fundos de Investimento – Impossibilidade – Ausência de estabelecimento físico a ser fiscalizado – Precedentes – Recurso oficial e voluntário da Municipalidade improvidos” (fl. 4.939).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 145, II, da mesma.
+    A pretensão recursal não merece acolhida.
+    Isso porque, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, bem como seria imprescindível a interpretação da legislação infraconstitucional local aplicável à espécie (Lei Municipal 13.477/2002), o que é vedado pelas Súmulas 279 e 280 do STF. Nesse sentido, destaco julgados desta Corte, cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. TAXA DE FISCALIZAÇÃO. FUNDOS DE INVESTIMENTO. AUSÊNCIA DE ESTABELECIMENTO. INTERPRETAÇÃO DA LEI MUNICIPAL N. 13.477/2003. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 816.986-AgR/SP, Rel. Min. Cármen Lúcia – grifos meus).
+    “TRIBUTÁRIO. TAXA DE FISCALIZAÇÃO. FUNDOS DE INVESTIMENTO. ACÓRDÃO RECORRIDO QUE AFASTA A EXISTÊNCIA DE ESTABELECIMENTO INDIVIDUAL E EXCLUSIVO PARA A PRÁTICA DE TAL ATIVIDADE. NECESSIDADE DE REEXAME DE FATOS E DE PROVAS E DE INTERPRETAÇÃO DE TEXTO DE LEI.
+    AGRAVO REGIMENTAL.
+    O Tribunal de origem concluiu ser impossível o exercício de poder de polícia pelo município, na medida em que os fundos de investimento não possuiriam personalidade jurídica nem estabelecimento a ser fiscalizado. Para reverter tal assertiva, seria necessário reexaminar fatos e provas, bem como reinterpretar a legislação infraconstitucional, de modo a estabelecer que a atividade de investir em fundos possui estabelecimento exclusivo e fiscalizado de modo individual e divisível pela municipalidade.
+    Ainda que esse óbice fosse superável, a constituição do crédito tributário é atividade plenamente vinculada e, portanto, cujo controle somente admite a utilização de presunções em hipóteses previamente bem demarcadas e compatíveis com a Constituição. A menção genéria às hipotéticas notícias de jornais locais que dariam conta da atuação efetiva do Município é insuficiente para embasar a presunção. Necessidade de reabertura da instrução probatória.
+    Agravo regimental ao qual se nega provimento” (RE 601.700-AgR/SP, Rel. Min. Joaquim Barbosa – grifos meus).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Taxa de fiscalização de estabelecimento do município de São Paulo. Incidência sobre fundos de investimento. Controvérsia decidida à luz da legislação local aplicável. Súmula 280. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (ARE 921.723-AgR/SP, Rel. Min. Gilmar Mendes – grifos meus).
+    Com essa mesma orientação, menciono as seguintes decisões, entre outras: ARE 949.989/SP, Rel. Min. Marco Aurélio; ARE 993.478/SP, Rel. Min. Edson Fachin; ARE 896.072/SP, Rel. Min. Cármen Lúcia; ARE 960.719/SP, Rel. Min. Dias Toffoli.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de dezembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
