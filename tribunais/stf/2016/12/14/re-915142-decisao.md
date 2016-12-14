@@ -1,0 +1,27 @@
+Decisão: Trata-se de recurso extraordinário em face a acórdão proferido pelo Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “TRIBUTÁRIO. EMBARGOS À EXECUÇÃO DE SENTENÇA. PROTESTO JUDICIAL. INTERRUPÇÃO DA PRESCRIÇÃO. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. 1. O ajuizamento da ação de protesto judicial pelo contribuinte interrompe o prazo prescricional. Precedentes do STJ. 2. O entendimento predominante nesta Corte é de que os honorários em embargos a execução correspondam a 5% sobre a diferença entre o valor inicialmente executado e aquele que restou fixado pelo Juízo. Contudo, no caso dos autos, tendo sido julgados improcedentes os embargos, a fixação da verba honorária em 10% sobre o valor da causa, não resultaria em valor excessivo”. (eDOC 1, p. 137)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a e b, da Constituição Federal, aponta-se violação aos arts. 5º, caput; e 146, III, b; do texto constitucional.
+    Nas razões recursais, sustenta-se a inexistência de interrupção do prazo prescricional pela cautelar de protesto (eDOC 1, p. 179)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código Civil e Código Tributário Nacional) e o conjunto probatório constante dos autos, consignou que a prescrição não se consumou. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+          “A jurisprudência desta Corte possui entendimento consagrado no sentido de que é de cinco anos, contados a partir do trânsito em julgado da sentença condenatória, o prazo prescricional (inciso I do art. 168 do CTN) para a propositura da ação executiva contra a Fazenda Pública; em conformidade com o entendimento sufragado na Súmula 150/STF, que assim dispõe:
+     'Prescreve a execução no mesmo prazo de prescrição da ação'.
+     Conforme disposto no art. 867 do Código Civil, o protesto judicial interrompe a prescrição. A jurisprudência do STJ é neste sentido:
+     (…)
+     Assim, a medida cautelar de protesto interruptivo nº. 5003873-82.2012.404.7200, ajuizada em 05/03/2012 interrompeu o lapso prescricional, que voltou a ser computado, pela metade. Desta forma, a prescrição somente se consumaria em 05/09/2014.
+    Ajuizada a execução em 04/09/2014, não há falar em prescrição, não merecendo reparos a sentença”. (eDOC 1, p. 133-134)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+     “Agravo regimental no recurso extraordinário com agravo. Tributário. Exceção de pré-executividade. Prescrição. Dilação probatória. Execução Fiscal. Demora na citação. Matéria infraconstitucional. Ofensa constitucional indireta ou reflexa. 1. Possui natureza infraconstitucional a discussão a respeito do prazo prescricional em sede de execução fiscal na qual se envolve o contexto da demora na citação em razão de circunstâncias ínsitas ao aparelhamento do Poder Judiciário. A afronta ao texto constitucional seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Precedentes. 2. Agravo regimental não provido.” (ARE 858.514 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 24.9.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO FISCAL. PRESCRIÇÃO. INTERRUPÇÃO. CITAÇÃO. RETROAÇÃO DO MARCO INTERRUPTIVO À DATA DO AJUIZAMENTO DA AÇÃO. ARTIGOS 174 DO CTN E 219, § 1º, DO CPC. SÚMULA Nº 106 DO STJ. DISSOLUÇÃO IRREGULAR DA SOCIEDADE. RESPONSABILIDADE SOLIDÁRIA DOS SÓCIOS. INTERPRETAÇÃO DE NORMAS LEGAIS E REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. INCIDÊNCIA DAS SÚMULAS 279 E 636 DO STF. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. INEXISTÊNCIA. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO STF NO ARE 748.371-RG, TEMA Nº 660. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 900.769 - AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 29.9.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRAZO PRESCRICIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A discussão relativa ao prazo prescricional para propositura da ação situa-se no campo infraconstitucional. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE-AgR nº 485.013, Rel. Min. Eros Grau, Segunda Turma, DJ 13.4.2007).
+    No mesmo sentido, cito as seguintes decisões monocráticas: RE nº 954.946, Rel. Min. Edson Fachin, DJe 22.3.2016; e ARE nº 800.359, Rel. Min. Cármen Lúcia, DJe 28.3.2014.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de dezembro de 2016.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
