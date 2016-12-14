@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à improcedência do pedido de pagamento do adicional de insalubridade, aludindo à remuneração do servidor por meio de subsídio. No extraordinário cujo processamento busca alcançar, o recorrente alega violado o artigo 7º, inciso XXIII, da Constituição Federal. Tece considerações sobre a legislação de regência, sustentando inaplicável ao caso a limitação prevista no artigo 39, § 3º, da Carta Federal. Afirma o direito à verba pleiteada, tendo por autoaplicáveis as normas garantidoras dos direitos sociais previstos na Constituição Federal.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    A parte autora, servidor público estadual integrante dos quadros da Superintendência dos Serviços Penitenciários – SUPRE, com o advento das Leis Estaduais 14.188/12 e 14.189/12, passou a ser remunerada através de subsídio.
+    […]
+    Portanto, em que pese o fato de permanecerem as condições de insalubridade dos ambientes prisionais do estado, considerando ainda que a Administração Pública está vinculada ao princípio da legalidade, não há como recepcionar a pretensão autoral, na medida em que a parcela referente ao adicional de insalubridade já está abrangida no subsídio.
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação das Leis Estaduais 14.188/12 e 14.189/12. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários  recursais em 5% sobre o valor da causa, nos termos do artigo 85, § 11, do citado diploma legal. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 14 de dezembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
