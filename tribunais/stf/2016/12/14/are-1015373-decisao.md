@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 8º, III, “a” e ”c”, e 40 da Lei Maior, bem como à Emenda Constitucional nº 41/2003.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: Para simples reexame de prova não cabe recurso extraordinário. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA – GDATA. EXTENSÃO A INATIVOS E PENSIONISTAS. SÚMULA VINCULANTE N. 20. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ALEGADA AUSÊNCIA DE PARIDADE. PRETENSÃO DA AGRAVANTE QUE ESBARRA NO ÓBICE DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 851502 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 07/04/2015, PROCESSO ELETRÔNICO DJe-078 DIVULG 27-04-2015 PUBLIC 28-04-2015)
+    Esta Suprema Corte já firmou o entendimento de que cabível a extensão a inativos de gratificação concedida de forma genérica a servidores em atividade. Tal compreensão, igualmente aplicável à hipótese em apreço, restou cristalizada quando do julgamento dos recursos extraordinários 476.279 e 476.390, verbis:
+    "Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA - instituída pela L. 10.404/2002: extensão a inativos: pontuação variável conforme a sucessão de leis regentes da vantagem. RE conhecido e provido, em parte, para que a GDATA seja deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e nos termos do art. 5º, parágrafo único, da L. 10.404/2002, para o período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o art. 1º da MPv. 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.” (RE 476279, Relator(a): Min. SEPÚLVEDA PERTENCE, Tribunal Pleno, DJe 15-06-2007) .
+    “Recurso extraordinário. 2. Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA. Pontuação de acordo com desempenho. 3. Servidores Inativos. Pontuação pela regra de transição. Artigo 6o da Lei no 10.404/02. 4. Recurso extraordinário a que se dá parcial provimento.” (RE 476390, Relator(a): Min. GILMAR MENDES, Tribunal Pleno, DJe 29-06-2007)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de dezembro de 2016.
+Ministra Rosa Weber
+Relatora
