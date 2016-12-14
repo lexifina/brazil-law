@@ -1,0 +1,2 @@
+Artigo 37-B - As pessoas jurídicas de direito privado, usuárias de recursos hídricos, poderão habilitar-se a obtenção de recursos do Fundo Estadual de Recursos Hídricos - FEHIDRO, por intermedio de financiamentos reembolsáveis. (NR)
+Parágrafo único - Os recursos do FEHIDRO repassados a pessoas jurídicas de direito privado, com finalidades lucrativas não poderão incorporar-se definitivamente aos seus patrimônios, sob pena de suspensão dos repasses e devolução dos valores recebidos, acrescidos das cominações legais e negociais. (NR)

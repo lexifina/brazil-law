@@ -1,0 +1,2 @@
+Artigo 2.º - Fica desde já criado o Comitê das Bacias Hidrográficas dos Rios Piracicaba, Capivari e Jundiaí e o Comitê da Bacia Hidrográfica do Alto Tietê, cuja organização será proposta pelo Conselho Estadual de Recursos Hídricos - CRH, em até 120 (cento e vinte) dias da promulgação desta Lei.
+Parágrafo único - Na primeira reunião dos Comitês acima referidos, serão aprovados os seus estatutos pelos representantes do Estado e dos Municípios, atendido o estabelecido nos Artigos 24, 26, e 27 desta Lei.
