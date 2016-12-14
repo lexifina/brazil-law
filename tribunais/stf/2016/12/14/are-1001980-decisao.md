@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão do Tribunal de Justiça do Rio Grande do Sul, o qual julgou improcedente o recurso por não contrariar dispositivo constitucional.
+    No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, XLV, da mesma Carta.
+    A ofensa alegada ao art. 5º, XLV não prospera, haja vista a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido:
+    EMENTAS: 1. RECURSO. Extraordinário. Inadmissibilidade. Prequestionamento. Falta. Agravo regimental não provido. Aplicação das súmulas nºs 282 e 356. Não se admite recurso extraordinário quando falte prequestionamento da matéria constitucional invocada. 2. RECURSO. Extraordinário. Inadmissibilidade. Execução fiscal. Multa administrativa. Lei nº 6.830 /80. Alegação de ofensa ao art. 5º , XLV , da Constituição Federal . Ofensa constitucional indireta. Agravo regimental não provido. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República. 3. RECURSO. Extraordinário. Inadmissibilidade. Fundamentação do acórdão recorrido. Existência. Não há falar em ofensa ao art. 93 , IX , da CF , quando o acórdão impugnado tenha dado razões suficientes, embora contrárias à tese do recorrente. (AI-AgR 553020/SP, Rel. Min. Cesar Peluso).
+    Ademais, como bem assentado na decisão agravada, o dispositivo constitucional invocado no recurso não foi objeto do devido prequestionamento, fazendo incidir o óbice da Súmula 282 do STF.
+    Isto posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de dezembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
