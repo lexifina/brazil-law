@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE. AGRAVO DESPROVIDO.
+    1. O Superior Tribunal de Justiça, reformando entendimento anterior, concedeu a ordem no habeas corpus para julgar extinta a punibilidade. No extraordinário cujo processamento busca alcançar, aponta o recorrente a violação dos artigos 5º, cabeça e incisos XLVI e XXVI, da Constituição Federal. Argui a nulidade do processo por ausência de fundamentação. Diz contrariado o princípio da isonomia, ressaltando ter sido reconhecida a extinção da pena privativa de liberdade ainda que descumpridas as condições do livramento condicional, tendo como injusto o tratamento idêntico com aqueles que devidamente satisfazem os requisitos.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Colho do acórdão os seguintes trechos:
+    Nesse sentido, nos termos da jurisprudência deste Superior Tribunal, o livramento condicional deveria ter sido suspenso cautelarmente, ainda durante o período de prova, situação que seria mantida até o trânsito em julgado de eventual sentença condenatória pela prática de novo crime cometido na vigência do livramento, ocasião em que ocorreria a sua revogação, consoante o disposto no artigo 89 do Código Penal.
+    […]
+    Assim, uma vez que, no caso, não houve a suspensão cautelar do livramento condicional, tenho que transcorreu sem óbice o prazo do livramento, cujo termo, sem revogação, implica automaticamente a extinção da pena, pelo seu integral cumprimento.
+    À vista do exposto, com fundamento nos artigos 38 da Lei n. 8.038/1990 e 34, XVIII, do RISTJ, nego seguimento à impetração, por entender inadequado o uso do writ como substitutivo do meio impugnativo próprio.
+    Contudo, concedo habeas corpus, de ofício, para julgar extinta a punibilidade do paciente, pelo integral cumprimento da pena, nos autos da Execução n. 789.083 - 3ª Vara de Execuções Criminais da Comarca de São Paulo.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 14 de dezembro de 2016.
+ Ministro MARCO AURÉLIO
+Relator
