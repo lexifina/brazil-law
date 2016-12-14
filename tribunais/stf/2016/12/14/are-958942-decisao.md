@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho que negou seguimento aos embargos de divergência opostos contra decisão que denegou seguimento a recurso de revista, em que se discutia a cobrança de contribuição sindical de empresa que não possui empregados.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos artigos 5º, caput, 8º, I, II, III e IV, 109, I, 129, 150, § 6º, e 195, todos da Constituição da República, sob os argumentos de violação dos princípios da isonomia, do do recolhimento das contribuições sociais, da vedação à interferência e à intervenção na organização sindical, bem como da defesa, pelos sindicatos, dos direitos e interesses coletivos ou individuais da categoria, da fixação da contribuição sindical, da proibição de isenção sem lei prévia e do financiamento da seguridade social.
+    A Vice-Presidência do Tribunal Superior do Trabalho negou seguimento ao recurso extraordinário por manifesta intempestividade.
+    É o relatório. Decido.
+    Constata-se que o acórdão recorrido foi publicado em 01.07.2015. Iniciando-se o prazo de 15 dias para a interposição do recurso extraordinário, nos termos do art. 508 do CPC/73, sendo o termo final para sua interposição em 17.08.2015. Na sequência, ocorreu a oposição de embargos divergentes, os quais não foram conhecidos, ante a sua manifesta inadmissibilidade. Seguiu-se a interposição do recurso extraordinário, em 09.10.2015. A suspensão do prazo para a interposição do recurso extraordinário não se operou, sendo, portanto, intempestivo.
+    A jurisprudência desta Corte se firmou no sentido de que a interposição de embargos divergentes, quando incabíveis, não suspendem ou interrompem o prazo para interposição de recurso extraordinário (cf. ARE 738.488-AgR, Rel. Min. Joaquim Barbosa, Plenário, DJe de 24/3/2014; MS nº 22.626/SP-AgR, Tribunal Pleno, Relator o Ministro Celso de Mello, DJe de 22/11/96; ARE 771.388 ED/SP, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 19/12/2013; AI 749.031AgR/SP, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 29/10/2009; RE 116.561 MG, Rel. Min. Aldir Passarinho, Segunda Turma, Dje de 27.04.1990)
+    Diante do exposto, nego seguimento ao recurso, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 14 de dezembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
