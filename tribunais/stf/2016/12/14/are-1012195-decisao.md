@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de Santa Catarina consignou, em síntese:
+    MANDADO DE SEGURANÇA. APOSENTADORIA DECORRENTE DE INVALIDEZ. EX-SERVIDOR DA ALESC. REVISÃO DO ATO, EM FACE DA DENÚNCIA DE IRREGULARIDADE (FRAUDE DA PERÍCIA QUE AUTORIZOU A CONCESSÃO DO BENEFÍCIO APOSENTATÓRIO). CUMPRIMENTO DOS REQUISITOS AO TEMPO DA APOSENTAÇÃO. APLICAÇÃO DA LEI VIGENTE AO TEMPO DA INATIVIDADE. IMPOSSIBILIDADE DE DISCUSSÃO, NA ESTREITA VIA, DA EVENTUAL FRAUDE NA CONCESSÃO DO BENEFÍCIO. COMPREENSÃO DESTE COLEGIADO, TODAVIA, DA VIABILIDADE DA IMPETRAÇÃO, TENDO EM VISTA A OBSERVAÇÃO OBJETIVA DOS REQUISITOS EXIGIDOS QUANDO DA JUBILAÇÃO. ORDEM CONCEDIDA.
+    No extraordinário cujo processamento busca alcançar, o recorrente aponta violado o artigo 5º, incisos XXXVI e LV, da Constituição Federal. Argui a reversão do aposentado ao cargo anteriormente ocupado aludindo a inexistência de incapacidade laborativa. Entende dispensável o procedimento administrativo, afirmando a distinção entra a reversão e a anulação do ato concessório da aposentadoria. Sustenta a inexistência de direito adquirido a regime jurídico.
+    2. De início, quanto à evocação do enquadramento do extraordinário na alínea "c" do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do agravante, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    A partir desse cenário destaco que, observada a legislação então regente (Lei n. 4.425/70), a reversão só poderia ser determinada se, entre outros, o ex-servidor não contasse com 60 (sessenta) anos, o que por si evidenciaria o despropósito da providência administrativa, dada a idade do impetrante ao tempo da revisão administrativa (é nascido em 1949).
+    Diante desse quadro, em lugar de apostar na ausência de má-fé, e na verificação de suposta decadência, como quer alguma jurisprudência nesta Corte – eque, suponho, exigiria exercício consideravelmente mais complexo, e bem por isso campo de ação bem mais amplo – tenho que a concessão da ordem deva amparar-se na impossibilidade de revisitação do ato em face da legislação que então regia a jubilação
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 14 de dezembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
