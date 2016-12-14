@@ -1,0 +1,25 @@
+DECISÃO
+    Vistos.
+    Trata-se de recurso extraordinário interposto contra acórdão da Segunda Turma do Superior Tribunal de Justiça, assim ementado:
+    “CONSTITUCIONAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRECATÓRIO. DIFERENÇAS PAGAS: ART. 33 DO ADCT - PEDIDO DE SEQUESTRO. DIREITO DE PRECEDÊNCIA.
+    1. O Supremo Tribunal Federal, no julgamento das ADIs 1.098-1/SP e 2.924-0/SP, conferindo interpretação conforme aos arts. 336, V, e 337, VII, do RITJESP, decidiu serem as expressões "pagamentos complementares" e "depósitos insuficientes" decorrentes de erro material e inexatidão aritmética, contidos no precatório original.
+    2. Pagamento de eventuais diferenças deve submeter-se a novo requisitório, incluído em nova posição na ordem cronológica.
+    3. Na esteira da jurisprudência do Superior Tribunal de Justiça, deve a perda de objeto estar condicionada ao levantamento do valor (o que não ocorreu no presente caso).
+    4. Agravo Regimental não provido.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso LXIX, 93, inciso IX, e 100, § 8º, da Constituição Federal.
+    Decido.
+    O recurso não merece prosperar.
+    A jurisprudência desta Corte, assentada no julgamento da ADI nº 2.924/SP, Tribunal Pleno, Relator o Ministro Carlos Velloso, DJe de 6/9/07, é no sentido de que a dispensa de novo precatório ocorrerá apenas quando se tratar de crédito apurado em razão de erro material ou de inexatidão aritmética dos cálculos do precatório, ou na hipótese de substituição, por força de lei, do índice aplicado, in verbis:
+    “CONSTITUCIONAL. PRECATÓRIO. CRÉDITO COMPLEMENTAR: NOVO PRECATÓRIO. Regimento Interno do Tribunal de Justiça do Estado de São Paulo, inciso V do art. 336. CF, art. 100. Interpretação conforme sem redução do texto. I. - Dispõe o inciso V do art. 336 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo que para pagamentos complementares serão utilizados os mesmos precatórios satisfeitos parcialmente até o seu integral cumprimento. Interpretação conforme, sem redução do texto, para o fim de ficar assentado que pagamentos complementares, referidos no citado preceito regimental, são somente aqueles decorrentes de erro material e inexatidão aritmética, contidos no precatório original, bem assim da substituição, por força de lei, do índice aplicado. II. - ADI julgada procedente, em parte.”
+    No caso dos autos, como reconhece o próprio município recorrente, não ocorre qualquer das hipóteses que permitem a complementação do precatório original listadas na ADI nº 2.924/SP, motivo pelo qual não há reparos a fazer no acórdão recorrido, cuja conclusão foi no sentido da necessidade de novo precatório com submissão a nova ordem cronológica.
+    Citem-se, para ilustrar, os seguintes precedentes, assim dispondo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. FINANCEIRO. PRECATÓRIOS. COMPLEMENTAÇÃO DE PRECATÓRIO ORIGINAL. NÃO CONFIGURAÇÃO DAS HIPÓTESES PERMISSIVAS. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I A complementação de precatório original apenas pode ocorrer em três hipóteses: a) erro material; b) inexatidão aritmética; c) substituição do índice aplicado ao caso, por força normativa. ADI 2.024/SP, Rel. Min. Carlos Velloso. II A não verificação de uma das hipóteses permissivas enseja a expedição de novo precatório, observada a vedação do § 8º do art. 100 da CF/1988. III Agravo regimental a que se nega provimento.” (ARE nº 722.803/SP-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/8/14).
+    “DIREITO CONSTITUCIONAL E FINANCEIRO. PRECATÓRIO ORIGINAL. VALOR REMANESCENTE. COMPLEMENTAÇÃO. NECESSIDADE DA EXPEDIÇÃO DE NOVO PRECATÓRIO. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 21.3.2014. O entendimento adotado pela Corte de origem, nos moldes do que assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República. Agravo regimental conhecido e não provido.” (ARE nº 827.433/DF-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 19/11/14).
+    Ressalta-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 14 de dezembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
