@@ -1,0 +1,13 @@
+DECISÃO: O presente agravo foi interposto por Dermio Antônio Filippi contra decisão que negou trânsito ao apelo extremo por ele deduzido, no qual sustentou que o acórdão proferido pela Turma Recursal dos Juizados Especiais Federais do Estado de Santa Catarina teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 563.965/RN, Rel. Min. CÁRMEN LÚCIA, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ‘ESTABILIDADE FINANCEIRA’. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA (...).
+    1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da ‘estabilidade financeira’ e sobre a ausência de direito adquirido a regime jurídico.”
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 810.937-AgR/DF, Rel. Min. CÁRMEN LÚCIA – ARE 937.589/SP, Rel. Min. DIAS TOFFOLI – ARE 937.685-AgR/SP, Rel. Min. EDSON FACHIN – ARE 967.841/SP, Rel. Min. ROBERTO BARROSO, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu – e reafirmou – na matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário a que ele se refere, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC/15, art. 932, IV, “b”).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC/15, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC/15, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no  § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 15 de dezembro de 2016.
+Ministro CELSO DE MELLO
+Relator
