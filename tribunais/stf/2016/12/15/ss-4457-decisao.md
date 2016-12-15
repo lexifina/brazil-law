@@ -1,0 +1,13 @@
+DESPACHO
+SUSPENSÃO DE SEGURANÇA. PRECATÓRIO. PARCELAMENTO. INADIMPLEMENTO. ORDEM DE SEQUESTRO DE VERBAS. SUSPENSÃO DEFERIDA. HOMOLOGAÇÃO DE DESISTÊNCIA. NECESSIDADE DE INFORMAÇÕES COMPLEMENTARES. PROVIDÊNCIAS PROCESSUAIS.
+    1. Suspensão de segurança requerida pelo Município de São Paulo objetivando sustar a execução de acórdão do Órgão Especial do Tribunal de Justiça paulista, nos autos do Mandado de Segurança n. 0298301-52.2010.8.26.0000, pelo qual autorizado prosseguimento ao pedido de sequestro de rendas públicas para garantir o pagamento de parcela de precatório vencido.
+    2. Em 24.8.2011, o Ministro Cezar Peluso, então Presidente deste Supremo Tribunal, deferiu o requerimento asseverando estar “em jogo, aqui, suposta violação à nova sistemática constitucional de precatórios, instituída pela EC nº 62/2009, e que teria sido afrontada pelo Tribunal de Justiça local”, ao declarar sua inconstitucionalidade, demonstrando risco de deferimento dos pedidos de sequestro de todos os precatórios submetidos ao parcelamento do art. 78 do ADCT e então não adimplidos.
+    3. Em 21.10.2016, o Presidente do Tribunal de Justiça de São Paulo encaminhou cópia de decisão proferida em 21.9.2016 no Mandado de Segurança n. 0298301-52.2010.8.26.0000/50000, pelo qual homologado requerimento de desistência, ficando prejudicado o agravo interposto contra a denegação de recurso extraordinário (edoc. 29).
+    4. Em 27.10.2016, determinei ao Requerente manifestar-se sobre o quadro fático-jurídico atual, tendo a Secretaria Judiciária deste Supremo Tribunal certificado o transcurso do prazo estipulado sem manifestação (edoc. 33).
+    5. Nos termos do § 3º do art. 25 da Lei n. 8.038, de 28.5.1990, “[a] suspensão de segurança vigorará enquanto pender o recurso, ficando sem efeito, se a decisão concessiva for mantida pelo Superior Tribunal de Justiça ou transitar em julgado”.
+    6. Em consulta ao andamento processual do Mandado de Segurança n. 0298301-52.2010.8.26.0000, no sítio do Tribunal de Justiça de São Paulo, em 15.12.2016, não consta notícia de trânsito em julgado da impetração, sendo certo que os documentos constantes deste processo eletrônico não permitem aferir o objeto do pedido de desistência homologado, tampouco sua autoria.
+    7. Pelo exposto, reitere-se a intimação do Município Requerente para informar, no prazo máximo de cinco dias, se persiste o interesse no prosseguimento do feito, justificando-o e juntando andamento atualizado da ação principal e da certidão de trânsito em julgado, se houver, sob pena de extinção desta suspensão.
+    Publique-se.
+    Brasília, 15 de dezembro de 2016.
+Ministra CÁRMEN LÚCIA
+Presidente
