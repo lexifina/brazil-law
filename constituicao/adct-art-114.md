@@ -1,0 +1,1 @@
+Art. 114. A tramitação de proposição elencada no caput do art. 59 da Constituição Federal, ressalvada a referida no seu inciso V, quando acarretar aumento de despesa ou renúncia de receita, será suspensa por até vinte dias, a requerimento de um quinto dos membros da Casa, nos termos regimentais, para análise de sua compatibilidade com o Novo Regime Fiscal.
