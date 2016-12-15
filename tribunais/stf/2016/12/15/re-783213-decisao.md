@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário contra acórdão de Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “AGRAVO INTERNO – CUMPRIMENTO DE SENTENÇA – CUSTAS INICIAIS – ILEGALIDADE – IMPROVIDO.
+    O recolhimento de custas iniciais na formulação do pedido de cumprimento de sentença é exigência legítima e encontra suposta na legislação de regência, não havendo falar em ilegalidade da Resolução n. 507, de 09.08.2006, do Tribunal de Justiça.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, II; 150, I, do Texto Constitucional.
+    Nas razões recursais, aduz, em síntese, a impossibilidade da cobrança, por meio de resolução editada pelo Tribunal de origem, de custas processuais na fase de cumprimento de sentença, sob pena de violação do princípio constitucional da legalidade.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De início, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo, notadamente acerca da validade ato editado pelo Tribunal de origem que dispõe sobre pagamento de custas judiciais e depósito recursal, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmula 279 e 280 do STF.
+    Nesse sentido, cito a ementa do seguinte julgado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CUSTAS PROCESSUAIS. RECOLHIMENTO EQUIVOCADO. RESOLUÇÃO DO TRIBUNAL DE ORIGEM. DESERÇÃO. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o recolhimento de custas em agência bancária diversa da prevista em resolução do Tribunal de origem, inviabiliza o processamento do recurso extraordinário, em razão da deserção. 2. É entendimento sumulado do STF o não cabimento de recurso extraordinário, em decorrência de violação ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida. Súmula 636 do STF. 3. Agravo regimental a que se nega provimento. .”
+(AI 519.415 AgR, de minha relatoria, Primeira Turma, DJe 29.09.2015)
+    DIREITO PROCESSUAL CIVIL. DESERÇÃO DO RECURSO. DEFICIENTE REALIZAÇÃO DO PREPARO. RECOLHIMENTO INCOMPLETO. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 01.11.2012. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate atinente à deserção do recurso extraordinário, em razão da deficiente realização do preparo em desconformidade com a legislação em vigor. Na hipótese, o recolhimento está incompleto (falta do pagamento das custas judiciais) em desacordo com a regulamentação vigente (Resolução 491/2012-STF), o que impossibilita a comprovação do preparo. A suposta afronta aos preceitos constitucionais indicados nas razões recursais dependeria da análise de legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário, considerada a disposição do art. 102, III, “a”, da Lei Maior. Agravo regimental conhecido e não provido. (ARE 733452, Rel. Min. Rosa Weber, Primeira Turma, Dje. 19.03.2014)
+    Ademais, o Enunciado da Súmula 636 do STF preconiza o não cabimento de recurso extraordinário, em decorrência de violação ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Neste sentido: ARE 979.437, Rel. Min. Marco Aurélio, DJe de 02.12.2016; ARE 968.864, Rel. Min. Luiz Fux, DJe 30.08.2016.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 15 de dezembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
