@@ -1,0 +1,2 @@
+Art. 108. O Presidente da República poderá propor, a partir do décimo exercício da vigência do Novo Regime Fiscal, projeto de lei complementar para alteração do método de correção dos limites a que se refere o inciso II do § 1º do art. 107 deste Ato das Disposições Constitucionais Transitórias.
+Parágrafo único. Será admitida apenas uma alteração do método de correção dos limites por mandato presidencial.
