@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 166, DE 14.12.16 (D.O. 15.12.16)
+DISPÕE SOBRE A INTERPRETAÇÃO DO CAPUT DO ART. 1º DA LEI COMPLEMENTAR Nº 37, DE 26 DE NOVEMBRO DE 2003.
+O GOVERNADOR DO ESTADO DO CEARÁ
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
