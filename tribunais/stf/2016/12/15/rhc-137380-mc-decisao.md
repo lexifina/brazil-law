@@ -1,0 +1,26 @@
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Janilson Silva de Oliveira, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que denegou o HC 348.538/AC, de relatoria do Ministro convocado Ericson Maranho.
+    Consta dos autos que o recorrente teve a prisão preventiva decretada, com fundamento na garantia da ordem pública, pela suposta prática dos delitos previstos nos arts. 33, 35 e 40, V, da Lei 11.343/2006 (tráfico e associação para o tráfico). O pedido de reconsideração foi indeferido.
+    Irresignada, a defesa manejou habeas corpus no TJAC buscando cassar a decisão que decretou a prisão preventiva do paciente. A Corte estadual, entretanto, denegou a ordem.
+    Contra esse acórdão impetrou habeas corpus no Superior Tribunal de Justiça, que denegou a ordem, em acórdão assim ementado:
+    “HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE CONCRETA DO PACIENTE QUE SUPOSTAMENTE INTEGRA ORGANIZAÇÃO CRIMINOSA E É APONTADO COMO UM DOS PRINCIPAIS FINANCIADORES DO ESQUEMA ILÍCITO DE ENTORPECENTES. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS DENEGADO.
+    – A prisão preventiva possui natureza excepcional, somente sendo possível sua imposição ou manutenção quando demonstrado, em decisão devidamente motivada, o preenchimento dos pressupostos previstos no art. 312 do Código de Processo Penal - CPP.
+    – In casu, verifico que o Magistrado de primeiro grau, ao decretar a prisão preventiva, utilizou fundamentação idônea para demonstrar a periculosidade do paciente e a gravidade concreta do delito, evidenciadas pelo fato do mesmo fazer parte de articulada organização criminosa que movimenta elevada quantidade de droga, figurando, inclusive, como ‘um dos principais financiadores do esquema ilícito de entorpecentes (fl. 54)’, circunstâncias que justificam a necessidade do cárcere para garantia da ordem pública.
+    – Noutro ponto, o Superior Tribunal de Justiça possui entendimento firme no sentido de que a presença de condições pessoais favoráveis, como primariedade, domicílio certo e emprego lícito, não impede a decretação da prisão preventiva, notadamente se há nos autos elementos suficientes para justificar a cautela.
+    Habeas Corpus denegado” (pág. 128 do documento eletrônico 1).
+    É contra esse acórdão que se insurge o recorrente.
+    Alega, em síntese, que “preenche todos os requisitos para concessão da liberdade provisória, pois é primário, de bons antecedentes, tem residência fixa, trabalho certo e a prisão está desprovida de fundamentação legal [...]”, assim como que ”a gravidade do crime não pode ser empecilho para prejudicar a sua liberdade [...]” (pág. 145 do documento eletrônico 1).
+    Afirma, ainda, que,
+    “Sua prisão preventiva foi decretada naquele momento, pois o Mm. Juiz a quo, entendeu existir os motivos para assegurar a devida aplicação da lei penal e o clamor público, o que já está garantido, e o requerente não se furtará a comparecer a todos os atos que for convocado, e no momento não mais estão presentes os pressupostos da prisão preventiva, quando de sua decretação, ou seja, a prisão cautelar, no presente caso se torna desnecessária para que a ação penal tenha o seu curso normal e não haverá nenhum prejuízo para as possíveis diligências que poderão ser requeridas ao juízo no sentido de investigar mais a condição da apreensão da droga (pág. 145 do documento eletrônico 1; grifos no original).
+    Por fim, requer a concessão de medida liminar para revogar a custódia preventiva decretada em seu desfavor.
+    É o relatório suficiente. Decido.
+    Bem examinados os autos, tenho que o caso é de indeferimento do pleito de urgência.
+    A concessão de liminar em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos, eis que a decisão impugnada encontra-se, ao menos à primeira vista, adequadamente fundada.
+    Com efeito, consta do ato atacado:
+    “[...] o Magistrado de primeiro grau, ao decretar a prisão preventiva, utilizou fundamentação idônea para demonstrar a periculosidade do paciente e a gravidade concreta do delito, evidenciadas pelo fato do mesmo fazer parte de articulada organização criminosa que movimenta elevada quantidade de droga, figurando, inclusive, como ‘um dos principais financiadores do esquema ilícito de entorpecentes (fl. 54)’, circunstâncias que justificam a necessidade do cárcere para garantia da ordem pública (pág. 128 do documento eletrônico; grifei).
+    Assim, em que pesem os argumentos expendidos pelo impetrante, tenho que eles não são suficientes para, a priori, obstar o andamento do feito no juízo de primeiro grau, devendo ser melhor analisados pelo colegiado no julgamento de mérito da impetração.
+    Diante de tal quadro, e sem prejuízo de uma apreciação mais aprofundada por ocasião do julgamento de mérito, indefiro a medida liminar .
+    Bem instruídos os autos, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 15 de dezembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
