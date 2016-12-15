@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário.
+    Decido.
+    Não merece prosperar a irresignação, haja vista que, nos termos do artigo 102, inciso III, alínea “a”, da Constituição Federal, o recurso extraordinário é cabível apenas de decisão proferida em última ou única instância, o que não é o caso dos autos, uma vez que a exceção de suspeição foi julgada por decisão monocrática do Relator. Assim, este julgado ainda dava margem à interposição de agravo interno (artigo 1.021 do Código de Processo Civil). Ressalte-se que o julgamento dos embargos de declaração, mesmo que realizado pela Turma, apenas complementa a referida decisão monocrática. Incidência da Súmula nº 281 desta Corte, que assim dispõe, in verbis: “É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada”. Sobre o tema, anote-se:
+    “Agravo regimental no agravo de instrumento. Recurso especial julgado por decisão monocrática. Embargos de declaração julgados por decisão colegiada. Complementação da decisão anterior. Não esgotadas as instâncias ordinárias. Súmula nº 281/STF. 1. O recurso extraordinário é inadmissível quando interposto após decisão monocrática proferida pelo Relator, haja vista que não esgotada a prestação jurisdicional pelo Tribunal de origem. Incidência da Súmula nº 281/STF. 2. O julgamento colegiado dos embargos declaratórios não tem, em regra, o efeito de substituir, mas sim de aclarar ou complementar a decisão embargada quando há omissão, contradição ou obscuridade. 3. Agravo regimental desprovido” (AI nº 633.489/DF–AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJe de 21/8/09).
+    No mesmo sentido, as seguintes decisões monocráticas: RE nº 431.361/RJ, Relator o Ministro Sepúlveda Pertence, DJ de 6/10/04, e RE nº 463.759/PR, Relatora a Ministra Ellen Gracie, DJ de 3/2/06.
+    Mesmo que assim não fosse, verifico que o Tribunal a quo ao decidir a questão se ateve ao exame de legislação eminentemente infraconstitucional, com destaque para o Regimento Interno do Tribunal de Justiça do Estado do Rio Grande do Sul. Portanto, a violação aos preceitos constitucionais apontados, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Nesse sentido, cito o seguinte julgado:
+    “DIREITO PROCESSUAL CIVIL. EXCEÇÃO DE IMPEDIMENTO E SUSPEIÇÃO. REJEIÇÃO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 27.4.2006. Divergir do entendimento do Tribunal a quo acerca da aplicação das normas que disciplinam a arguição de impedimento e suspeição, demandaria a análise da legislação infraconstitucional aplicável à espécie, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Precedentes. Agravo regimental conhecido e não provido” (RE n° 629.080/DF-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 18/2/14).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 15 de dezembro de 2016.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
