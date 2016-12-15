@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra os juízos negativos de admissibilidade dos recursos extraordinários, exarados pela Presidência do Tribunal de Justiça do Estado de São Paulo, manejam agravos Sônia Maria Precioso de Moura, Mauro Basílio de Moura, Marideise Aparecida Trevisan, Cláudia Adriana Linardi dos Santos, Gláucia Fragoso Gonçalves da Conceição, Tania Fragoso dos Santos e Antônio Romão Gonçalves da Conceição. Nas minutas, sustentam que os recursos extraordinários reúnem todos os requisitos para sua admissão. Aparelhados os recursos na afronta aos arts. 5º, XLVI, 129, VI, e 144 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Ao exame do agravo manejado por Gláucia Fragoso Gonçalves da Conceição, Tania Fragoso dos Santos e Antônio Romão Gonçalves da Conceição, verifico a ocorrência de intempestividade recursal.
+    Nos termos da Súmula nº 699/STF, o agravo, em matéria criminal, deve ser interposto no prazo de cinco dias contados da data de publicação da decisão que não admite o recurso extraordinário.
+    A superveniente Lei nº 12.322/2010, de alteração do Código de Processo Civil, não afetou o prazo de interposição do agravo em matéria criminal, não se justificando a revisão da súmula. Nesse sentido, precedente do Plenário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRAZO. LEI Nº 12.322/2010. MATÉRIA CRIMINAL. INAPLICABILIDADE DO ART. 544 DO CPC. INCIDÊNCIA DO ART. 28 DA LEI Nº 8.038/90. PRECEDENTES. QUESTÃO DE ORDEM REJEITADA E AGRAVO NÃO CONHECIDO. 1. A alteração promovida pela Lei nº 12.322, de 9 de setembro de 2010, não se aplica aos recursos extraordinários e agravos que versem sobre matéria penal e processual penal, de modo que o prazo do Agravo em Recurso Extraordinário criminal é o de 5 (cinco) dias previsto no art. 28 da Lei nº 8.038/90, e não o de 10 (dez) dias, conforme o art. 544 do CPC. Precedentes (AG 197.032-RS, rel. Min. Sepúlveda Pertence, 5.11.97; AG (AgRg) 234.016-SP, rel. Min. Ilmar Galvão, 8.6.99). 2. Questão de ordem rejeitada para não conhecer do recurso de agravo.” (ARE 639.846-AgR-QO, Redator p/ acórdão Min. Luiz Fux, Plenário, DJe 20.3.2012)
+    No caso, Gláucia Fragoso Gonçalves da Conceição, Tania Fragoso dos Santos e Antônio Romão Gonçalves da Conceição foram intimados da decisão recorrida no dia 13.02.2014, segunda-feira (fl. 50, vol. 34), tendo o agravo sido protocolado somente em 23.02.2012, quinta-feira (fl. 79, vol. 34). Não obstante, em 22.02.2016, quarta-feira, esgotara-se o quinquídio legal, razão pela qual é intempestivo.
+    No que diz com o agravo manejado por Sônia Maria Precioso de Moura, Mauro Basílio de Moura, Marideise Aparecida Trevisan e Cláudia Adriana Linardi dos Santos, constato não apresentada, no recurso extraordinário, preliminar formal e fundamentada de repercussão geral da matéria constitucional suscitada (art. 543-A, § 2º, do CPC).
+    Na dicção do artigo 543-A, § 2º, do CPC, o recorrente deverá demonstrar, em preliminar do recurso, para apreciação exclusiva do Supremo Tribunal Federal, a existência da repercussão geral.
+    A teor do decidido no julgamento do AI 664.567-QO, Rel. Min. Sepúlveda Pertence, Plenário, DJe 05.9.2007, aplica-se aquele dispositivo legal nos recursos extraordinários interpostos após a publicação da Emenda Regimental 21 desta Corte ocorrida em 03.5.2007.
+    Nesse sentido, o AI 729.430, Rel. Min. Cármen Lúcia, DJe 30.10.2008; o AI 724.267, Rel. Min. Cezar Peluso, DJe 02.9.2008; o RE 591.103, Rel. Min. Ricardo Lewandowski, DJe 29.8.2008; e o RE 569.476-AgR, Rel. Min. Ellen Gracie, Plenário, DJe 24.4.2008.
+    Na espécie, embora intimado a parte recorrente do acórdão hostilizado já em 2011, não consta do recurso extraordinário qualquer alusão sobre a repercussão geral da questão constitucional, tampouco preliminar específica.
+    Nesse sentir, não merecem processamento os apelos extremos.
+    Nego seguimento aos agravos (art. 21, § 1º, do RISTF).
+    Determino ser retificada a autuação, a fim de inserir o nome completo das partes, observada a ratio das Resoluções 458, de 22.3.2011, 501, de 17.4.2013, e 579, de 25.5.2016, desta Suprema Corte.
+    Publique-se.
+    Brasília, 15 de dezembro de 2016.
+Ministra Rosa Weber
+Relatora
