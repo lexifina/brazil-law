@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário interposto por Cabral Distribuidora e Comércio de Mercadorias Ltda. contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “TRIBUTÁRIO E PROCESSUAL CIVIL. INCIDÊNCIA DO PIS E DA COFINS. TAXA DE ADMINISTRAÇÃO DE CARTÃO DE CRÉDITO E DE DÉBITO. POSSIBILIDADE. LEIS Nº 9.718/98, 10.637/2002 E 10.833/2003. PRECEDENTES. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. OBJETOS DIVERSOS. PIS E COFINS. ICMS NA BASE DE CÁLCULO. PLENÁRIO DO STF QUE ENTENDEU PELA INCONSTITUCIONALIDADE DESSA INCLUSÃO. RE 240.785/MG. PRECEDENTE. PLAUSIBILIDADE. PARCIAL PROCEDÊNCIA DO PEDIDO. SUCUMBÊMCIA RECÍPROCA. ARTIGO 21 DO CPC. PRECEDENTE. APELAÇÃO DO PARTICULAR IMPROVIDA. APELAÇÃO DA FAZENDA NACIONAL E REMESSA OFICIAL PARCIALMENTE PROVIDAS.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal "a quo" teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a controvérsia jurídica objeto deste recurso extraordinário já foi dirimida por ambas as Turmas do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS E COFINS. EXCLUSÃO DA BASE DE CÁLCULO. TAXAS E COMISSÕES PAGAS ÀS ADMINISTRADORAS DE CARTÃO DE CRÉDITO E DE DÉBITO. RECEITA BRUTA E FATURAMENTO. TOTALIDADE DOS VALORES AUFERIDOS COM A VENDA DE MERCADORIAS, DE SERVIÇOS OU DE MERCADORIAS E SERVIÇOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – Para fins de definição da base de cálculo para a incidência da contribuição ao PIS e da COFINS, a receita bruta e o faturamento são termos sinônimos e consistem na totalidade das receitas auferidas com a venda de mercadorias, de serviços ou de mercadorias e serviços, ou seja, é a soma das receitas oriundas do exercício das atividades empresariais. Precedentes.
+    II – Agravo regimental a que se nega provimento.”
+    (RE 816.363-AgR/SC, Rel. Min. RICARDO LEWANDOWSKI)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS E COFINS. BASE DE CÁLCULO. INCLUSÃO DOS VALORES DEVIDOS ÀS ADMINISTRADORAS DE CARTÕES DE CRÉDITO E DÉBITO. POSSIBILIDADE. EQUIVALÊNCIA DAS EXPRESSÕES ‘FATURAMENTO’ E ‘RECEITA BRUTA’. TOTALIDADE DAS RECEITAS AUFERIDAS COM A VENDA DE MERCADORIAS E SERVIÇOS. CREDITAMENTO DOS CUSTOS RELATIVOS ÀS TAXAS DE ADMINISTRAÇÃO. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/2015. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.”
+    (RE 970.483-AgR/PE, Rel. Min. LUIZ FUX)
+    Cabe ressaltar, por relevante, que essa orientação tem sido observada em sucessivas decisões proferidas no âmbito desta Suprema Corte (RE 744.449-AgR/RS, Rel. Min. CELSO DE MELLO – RE 813.061-AgR/RS, Rel. Min. ROSA WEBER – RE 827.401/PB, Rel. Min. LUIZ FUX – RE 855.550/PE, Rel. Min. GILMAR MENDES – RE 894.174/SC, Rel. Min. ROBERTO BARROSO, v.g.).
+    O exame da presente causa evidencia que o acórdão ora questionado ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e em face das razões expostas, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC/15, art. 932, VII e RISTF, art. 21, § 1º).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 16 de dezembro de 2016.
+Ministro CELSO DE MELLO
+Relator
