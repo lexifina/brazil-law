@@ -1,0 +1,6 @@
+Art. 104. Se os recursos referidos no art. 101 deste Ato das Disposições Constitucionais Transitórias para o pagamento de precatórios não forem tempestivamente liberados, no todo ou em parte:
+I - o Presidente do Tribunal de Justiça local determinará o sequestro, até o limite do valor não liberado, das contas do ente federado inadimplente;
+II - o chefe do Poder Executivo do ente federado inadimplente responderá, na forma da legislação de responsabilidade fiscal e de improbidade administrativa;
+III - a União reterá os recursos referentes aos repasses ao Fundo de Participação dos Estados e do Distrito Federal e ao Fundo de Participação dos Municípios e os depositará na conta especial referida no art. 101 deste Ato das Disposições Constitucionais Transitórias, para utilização como nele previsto;
+IV - os Estados reterão os repasses previstos no parágrafo único do art. 158 da Constituição Federal e os depositarão na conta especial referida no art. 101 deste Ato das Disposições Constitucionais Transitórias, para utilização como nele previsto.
+Parágrafo único. Enquanto perdurar a omissão, o ente federado não poderá contrair empréstimo externo ou interno, exceto para os fins previstos no § 2º do art. 101 deste Ato das Disposições Constitucionais Transitórias, e ficará impedido de receber transferências voluntárias.
