@@ -1,0 +1,32 @@
+Trata-se de habeas corpus impetrado em favor de Luiz Carlos da Silva, Junior contra decisão proferida no HC 367.112/RJ, pelo Ministro Felix Fischer, do Superior Tribunal de Justiça, que indeferiu o pedido de liminar.
+    Consta dos autos que o paciente foi condenado à pena de 3 anos de reclusão pela prática do delito previsto no art. 35 da Lei 11.343/2006 (associação para o tráfico).
+    A dosimetria da pena e o regime inicial do seu cumprimento foram assim fundamentadas:
+    “[...]
+    Réus Luiz Carlos e Maicon
+    Considerando se tratar de acusados sem antecedentes, fixo a pena base no seu mínimo legal, isto é, 03 anos de reclusão e 700 dias-multa, mantendo-a neste patamar ante a ausência de circunstâncias que alterem sua fixação.
+    Quanto à pena pecuniária, não tendo sido demonstrada condição financeira dos réus que justificasse qualquer majoração, cada dia-multa permanecerá em seu valor mínimo, qual seja, 1/30 (um trigésimo) do maior salário mínimo mensal vigente ao tempo dos fatos.
+    O Senado Federal, nos termos do artigo 52, inciso X, da Constituição Federal, suspendeu a execução da expressão ‘vedada a conversão em penas restritivas de direitos’, através da Resolução nº 5/12, publicada em 16 de fevereiro de 2012, tornando-se possível a referida conversão.
+    Ocorre que este Juízo entende que a substituição se mostra incompatível com os delitos perpetrados pelos acusados, ou seja, tráfico de entorpecentes e sua associação, crime de natureza gravíssima que vem causando intranquilidade à população ordeira, principalmente às famílias no sentido de desagregá-las, além de fomentar a realização de outras infrações, de modo que não se mostra viável.
+    A isso, some-se que a substituição da pena privativa de liberdade por sanção restritivas de direito é instrumento destinado a evitar a retirada do convívio social de condenados por delitos de menor potencial ofensivo, situação bem diversa da hipótese vertente, que trata de crime classificado como hediondo, cuja prática revela toda a temibilidade do agente, a impor resguardo da sociedade com o efetivo desconto da sanção carcerária, relevando, assim, ser a substituição de todo incompatível com os propósitos traçados pela legislação especial. Anoto que o réu Themis há pouco saíra da prisão, voltando a reincidir na prática delitiva, para tanto alugou até um apartamento, onde poderia armazenar e manusear a droga, não causando nem mesmo a suspeita de seus familiares.
+    Fixo, por fim, o regime fechado para o início do cumprimento da pena, consoante regra do art. 2°, § 1°, da Lei 8.072/90, conforme redação que lhe foi atribuída pela Lei 11.464/07, redação esta que afastou o vício de inconstitucionalidade que maculava o texto original da lei. E outro não pode o regime que não inicial fechado. Inclusive já decidiu o Colendo Superior Tribunal de Justiça que ‘a quantificação da pena-base no mínimo legal não impõe necessariamente o regime prisional mais brando, apesar da identidade de critérios legais de aplicação daquela e fixação deste (CP, arts 33, § 2°, 59 e 68). A gravidade do crime e a periculosidade do agente são circunstâncias aptas a realizar a preterição de um regime mais brando (semiaberto) para o mais rigoroso (fechado) (STJ-RHC 9293/SP, 6ª Turma, rel Min Fernando Gonçalves). E, nesse tocante, devem ser consideradas as consequências nefastas do crime, que desmantela famílias inteiras, a começar pelas dos próprios acusados.
+    Outro regime nais ameno não seria possível estabelecer, em função da elevada censurabilidade da conduta praticada e da temibilidade dos agentes que se envolvem em crime de natureza da aqui versada, exigente de tratamento punitivo mais rigoroso, que se alcança com a adoação de maior severidade na execução da pena carcerária, impondo-se ao condenado o cumprimento de todas as fases do processo de ressocialização penal).
+    Ante todo o exposto, e pelo mais que dos autos consta, julgo parcialmente procedente o pedido inicial e o faço para condenar: 1 – o réu Themis Gonçalves Lustre como incursos no artigo 33, caput, da Lei 11343/06 à pena de 06 anos e 9 meses de reclusão, além de pagamento de 675 dias-multa, no seu mínimo legal, à razão de 1/30 do salário mínimo vigente à época dos fatos, a ser cumprida em regime inicial fechado. Absolvo o réu da imputação do delito do artigo 304 c.c. 297 do CP, com fulcro no artigo 386, VII, do CPP.
+    2- os réus Luiz Carlos da Silva Junior e Maicon Monteiro da Silva como incusos no artigo 35 da Lei 11.343/06 à pena de 03 anos de reclusão, no regime inicial fechado, e pagamento de 700 dias-multa” (págs. 16-19 do documento eletrônico 7).
+    Contra essa decisão, foi interposta apelação, tendo, contudo, o Tribunal de Justiça do Estado de São Paulo negado-lhe provimento.
+    Inconformada, a defesa impetrou HC no Superior Tribunal de Justiça, mas a liminar foi indeferida.
+    É contra essa decisão que se insurge.
+    Alega, em suma, a possibilidade de superação da Súmula 691 desta Corte, em razão do flagrante constrangimento ilegal a que estaria submetido o paciente.
+    Pugna, por essa razão, pelo deferimento do pleito liminar a fim de que aguarde em liberdade até o julgamento definitivo deste writ.
+    É o relatório suficiente. Decido.
+    Como tenho reiteradamente decidido, a superação da Súmula 691 do STF constitui medida que somente se legitima quando a decisão atacada se mostra teratológica, flagrantemente ilegal ou abusiva.
+    No caso sob exame, verifico que a situação é excepcional, apta a superar o entendimento sumular, diante do aparente constrangimento ilegal a que está submetido o paciente.
+    Passo, então, ao exame da medida cautelar.
+    Como se nota do trecho da sentença acima transcrito, o juízo de primeiro grau parece não ter atendido ao princípio da individualização da pena ao utilizar a mesma fundamentação para definir a pena e o seu regime de cumprimento para os dois réus.
+    Além disso, a proibição de substituição da pena e o regime de cumprimento mais benéfico aparentemente foram negados com base na gravidade em abstrato do delito, o que também estaria em desacordo com a jurisprudência do Ministro.
+    Isso posto, defiro a liminar para suspender a execução da pena, até o trânsito em julgado deste mandamus, sem prejuízo de imposição de medidas cautelares alternativas para garantir a eficácia da decisão judicial.
+    Comunique-se com urgência.
+    Ouça-se a Procuradoria-Geral da república.
+    Publique-se.
+    Brasília, 19 de dezembro de 2016.
+Ministro Ricardo Lewandowski
+Relator
