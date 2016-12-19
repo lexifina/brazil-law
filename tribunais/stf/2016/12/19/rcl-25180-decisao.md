@@ -1,0 +1,18 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, em face de acórdão proferido pelo Juízo da 7ª Vara do Trabalho de Santos/SP, nos autos do Processo 0001181-86.2014.5.02.0447, que julgou procedente o pedido de adicional de insalubridade e determinar que sua base de cálculo fosse o salário profissional contratual.
+    Sustenta-se, em síntese, violação ao que prescreve a Súmula Vinculante 4 do STF.
+    Dispenso a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF), por entender que o processo está em condições para julgamento.
+    É o relatório. Decido.
+    A reclamação é o instrumento previsto pela Constituição, em seu art. 102, I, l, para a preservação da competência do Supremo Tribunal Federal e garantia da autoridade de suas decisões. Nesse último caso, a decisão deve ter sido proferida com efeitos vinculantes, ou prolatada no caso concreto. A partir da vigência da Emenda Constitucional 45, também passou a ser cabível o ajuizamento de reclamação por violação de Súmula Vinculante (art. 103-A, § 3º, da CF/88).
+    Assim sendo, nada obstante seja cabível a aviação de reclamação por violação à Súmula Vinculante, tem-se que o caso dos autos não fornece suporte fático para a incidência da Súmula Vinculante 4 do STF.
+    A jurisprudência desta Corte Constitucional firmou-se no sentido de que a proibição de indexação ao salário mínimo abrange os casos em que o aumento do valor do salário mínimo sempre implicar em reajuste automático da base de cálculo em questão. Portanto, não há vedação para a fixação de piso salarial em múltiplos do salário mínimo, desde que inexistam reajustes automáticos. Por outro lado, não cabe ao Poder Judiciário atuar como legislador positivo, alterando o salário profissional previsto em lei.
+    Examinando os autos, verifica-se que a decisão apontada como reclamada não utilizou o salário mínimo como indexador, mas, tão somente, aplicou o salário profissional, assim compreendido como o salário mínimo da categoria.
+    Nesse sentido é a jurisprudência do Supremo Tribunal Federal:
+    AGRAVO REGIMENTAL NA RECLAMAÇÃO. LEI Nº 4.950-A/1966. OFENSA À SÚMULA VINCULANTE Nº 4 E À ADPF 53. INEXISTÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A decisão que aplica o piso salarial estabelecido no art. 5º da Lei 4.950/1966, mas ressalva a vedação de vinculação aos futuros aumentos do salário mínimo, está em consonância com o enunciado da Súmula Vinculante 4 e com a decisão proferida na ADPF 53 MC. Precedente do Tribunal Pleno: Rcl 14.075 AgR/SC, Rel. Min. Celso de Mello (DJe de 16/9/2014). 2. agravo regimental desprovido. (Rcl 19.130 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 20.03.2015)
+    RECLAMAÇÃO ALEGADA TRANSGRESSÃO À AUTORIDADE DA DECISÃO PROFERIDA, COM EFEITO VINCULANTE, NO EXAME DA ADPF 53-MC/PI E SUPOSTO DESRESPEITO AO ENUNCIADO CONSTANTE DA SÚMULA VINCULANTE Nº 04 INOCORRÊNCIA ATUAÇÃO DO PODER JUDICIÁRIO COMO LEGISLADOR POSITIVO INADMISSIBILIDADE DOUTRINA PRECEDENTES RECURSO DE AGRAVO IMPROVIDO. (Rcl 14.075 AgR, Rel. Min. Celso de Mello, Tribunal Pleno, DJe de 16.09.2014)
+    Confiram-se ainda: Rcl 20.037 AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 12.08.2015; Rcl 18.356 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 20.11.2014; Rcl 20.898, Rel. Min. Luiz Fux, DJe 29.05.2015; Rcl 17.192, Rel. Min. Ricardo Lewandowski, DJe de 05.08.2014; Rcl 11.119, Rel. Min. Rosa Weber, DJe de 26.05.2014.
+    Ante o exposto, com base nos arts. 21, § 1º, e 161, parágrafo único, do RISTF, julgo improcedente a presente reclamação, ficando prejudicado o pedido de liminar .
+    Publique-se.
+    Brasília, 19 de dezembro de 2016.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
