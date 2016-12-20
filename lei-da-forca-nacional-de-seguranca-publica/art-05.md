@@ -1,3 +1,8 @@
 Art. 5º As atividades de cooperação federativa, no âmbito da Força Nacional de Segurança Pública, serão desempenhadas por militares e servidores civis dos entes federados que celebrarem convênio, na forma do art. 1º desta Lei.
-§ 1º As atividades previstas no caput, excepcionalmente, poderão ser desempenhadas em caráter voluntário por militares dos Estados e do Distrito Federal que tenham passado para a inatividade há menos de cinco anos, desde que a condição de inatividade não tenha se dado em razão de doença, acidente, invalidez, incapacidade, idade-limite, licenciamento a bem da disciplina, condenação judicial transitada em julgado ou expulsão.
-§ 2º O disposto nos arts. 6º e 7º aplica-se aos militares inativos de que trata o § 1º.
+§ 1º As atividades previstas no caput, excepcionalmente, poderão ser desempenhadas em caráter voluntário por:
+I - militares e policiais da União, dos Estados e do Distrito Federal que tenham passado para a inatividade há menos de cinco anos, inclusive os militares da União que tenham prestado serviços em caráter temporário; e
+II - servidores civis da União, dos Estados, do Distrito Federal e dos Municípios aposentados há menos de cinco anos, para fins de atividades de apoio administrativo à Força Nacional de Segurança Pública.
+§ 2º O disposto no § 1º aplica-se desde que a condição de inatividade não tenha se dado em razão de doença, acidente, invalidez, incapacidade, idade-limite, aposentadoria compulsória, licenciamento a bem da disciplina, condenação judicial transitada em julgado ou expulsão.
+§ 3º Aos militares, policiais e servidores de que trata o § 1º aplica-se o regime disciplinar a que estavam submetidos anteriormente à inatividade.
+§ 4º No caso dos militares da União que tenham prestado serviços em caráter temporário, a aplicação de penalidades disciplinares em decorrência do disposto no § 3º caberá às autoridades competentes no âmbito do Ministério da Justiça e Cidadania, nos termos do regulamento.
+§ 5º O disposto nos art. 6º e art. 7º desta Lei e nos incisos I e II do caput do art. 6º da Lei nº 10.826, de 22 de dezembro de 2003, aplica-se aos militares e policiais de que trata o inciso I do § 1º.
