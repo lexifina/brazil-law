@@ -1,7 +1,0 @@
-Art. 288-G. Na hipótese de procedimento de demarcação urbanística, o registro do parcelamento decorrente de projeto de regularização fundiária de interesse social será feito em todas as matrículas nas quais o auto de demarcação urbanística estiver averbado, devendo ser informadas, quando possível, as parcelas correspondentes a cada matrícula.
-§ 1º No procedimento de demarcação urbanística, admite-se o registro de parcelamento decorrente de projeto de regularização fundiária ainda que a área parcelada, correspondente ao auto de demarcação urbanística, supere a área disponível nos registros anteriores, não se aplicando neste caso o disposto no § 2º do art. 225.
-§ 2º Nas matrículas abertas para cada parcela deverão constar, nos campos referentes ao registro anterior e ao proprietário:
-I - quando for possível identificar a exata origem da parcela matriculada, por meio de planta de sobreposição do parcelamento com os registros existentes, a matrícula anterior e o nome de seu proprietário;
-II - quando não for possível identificar a exata origem da parcela matriculada, todas as matrículas anteriores atingidas pelo auto e a expressão "proprietário não identificado", dispensando-se neste caso os requisitos dos itens 4 e 5 do inciso II do art. 167.
-§ 3º Nas matrículas abertas para as áreas destinadas a uso público, deverá ser observado o mesmo procedimento definido no § 2º.
-§ 4º O título de legitimação de posse e a conversão da legitimação de posse em propriedade serão registrados na matrícula da parcela correspondente.
