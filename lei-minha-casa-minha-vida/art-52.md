@@ -1,1 +1,0 @@
-Art. 52. Na regularização fundiária de assentamentos consolidados anteriormente à publicação desta Lei, o Município poderá autorizar a redução do percentual de áreas destinadas ao uso público e da área mínima dos lotes definidos na legislação de parcelamento do solo urbano.
