@@ -1,0 +1,3 @@
+Art. 18-A. Os responsáveis pelas estruturas náuticas instaladas ou em instalação no mar territorial, nos rios e nos lagos de domínio da União que requereram a sua regularização até 31 de dezembro de 2018 perceberão desconto de cinquenta por cento no valor do recolhimento do preço público pelo uso privativo de área da União quanto ao período que antecedeu a data de publicação da Medida Provisória nº 759, de 22 de dezembro de 2016.
+§ 1º O desconto de que trata o caput fica condicionado ao deferimento do pedido de regularização pela Secretaria do Patrimônio da União do Ministério do Planejamento, Desenvolvimento e Gestão.
+§ 2º O disposto no caput não se aplica aos créditos inscritos em dívida ativa da União.

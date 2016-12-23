@@ -1,0 +1,5 @@
+Art. 11-B. O valor do domínio pleno do terreno da União, para efeitos de cobrança do foro, da taxa de ocupação, do laudêmio e de outras receitas extraordinárias, será determinado de acordo com:
+I - o valor venal do terreno fornecido pelos Municípios e pelo Distrito Federal, para as áreas urbanas; ou
+II - valor da terra nua fornecido pelo Instituto Nacional de Colonização e Reforma Agrária - Incra, para as áreas rurais.
+§ 1º Para aplicação do disposto neste artigo, a Secretaria do Patrimônio da União do Ministério do Planejamento, Desenvolvimento e Gestão utilizará os dados fornecidos pelos Municípios, pelo Distrito Federal e pelo Incra.
+§ 2º Caso o Município, o Distrito Federal ou o Incra não disponha, respectivamente, dos valores venais do terreno ou valor de terra nua, a atualização anual do valor do domínio pleno se dará pela adoção da média dos valores da região mais próxima à localidade do imóvel, na forma a ser estabelecida pela Secretaria do Patrimônio da União do Ministério do Planejamento, Desenvolvimento e Gestão.
