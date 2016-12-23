@@ -50,3 +50,4 @@ II - os ganhos do FI-FGTS e do Fundo de Investimento em Cotas - FIC, de que trat
 I - elaboração e entrega de prospecto ao trabalhador; e
 II - declaração por escrito, individual e específica, pelo trabalhador de sua ciência quanto aos riscos do investimento que está realizando.
 § 21. As movimentações autorizadas nos incisos V e VI do caput serão estendidas aos contratos de participação de grupo de consórcio para aquisição de imóvel residencial, cujo bem já tenha sido adquirido pelo consorciado, na forma a ser regulamentada pelo Conselho Curador do FGTS.
+§ 22. Na movimentação das contas vinculadas a contrato de trabalho extinto até 31 de dezembro de 2015, ficam isentas as exigências de que trata o inciso VIII do caput, podendo o saque, nesta hipótese, ser efetuado segundo cronograma de atendimento estabelecido pelo agente operador do FGTS.

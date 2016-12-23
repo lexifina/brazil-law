@@ -7,3 +7,9 @@ II - 4 (quatro) por cento, do terceiro ao quinto ano de permanência na mesma em
 III - 5 (cinco) por cento, do sexto ao décimo ano de permanência na mesma empresa;
 IV - 6 (seis) por cento, a partir do décimo primeiro ano de permanência na mesma empresa.
 § 4º O saldo das contas vinculadas é garantido pelo Governo Federal, podendo ser instituído seguro especial para esse fim.
+§ 5º O Conselho Curador autorizará a distribuição de parte do resultado positivo auferido pelo FGTS, mediante crédito nas contas vinculadas de titularidade dos trabalhadores, observadas as seguintes condições, entre outras a seu critério:
+I - a distribuição alcançará todas as contas vinculadas que apresentarem saldo positivo em 31 de dezembro do exercício base do resultado auferido, inclusive as contas vinculadas de que trata o art. 21;
+II - a distribuição será proporcional ao saldo de cada conta vinculada em 31 de dezembro do exercício base e deverá ocorrer até 31 de agosto do ano seguinte ao exercício de apuração do resultado; e
+III - a distribuição do resultado auferido será de cinquenta por cento do resultado do exercício.
+§ 6º O valor de distribuição do resultado auferido será calculado posteriormente ao valor desembolsado com o desconto realizado no âmbito do Programa Minha Casa, Minha Vida - PMCMV, de que trata a Lei nº 11.977, de 7 de julho de 2009.
+§ 7º O valor creditado nas contas vinculadas a título de distribuição de resultado, acrescido de juros e atualização monetária, não integrarão a base de cálculo do depósito da multa rescisória de que tratam o § 1º e o § 2º do art. 18.
