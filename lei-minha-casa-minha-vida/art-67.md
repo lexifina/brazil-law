@@ -1,1 +1,0 @@
-Art. 67. As matrículas das áreas destinadas a uso público deverão ser abertas de ofício, com averbação das respectivas destinações e, se for o caso, das restrições administrativas convencionais ou legais.

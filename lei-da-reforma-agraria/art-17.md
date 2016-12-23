@@ -2,7 +2,7 @@ Art. 17. O assentamento de trabalhadores rurais deverá ser realizado em terras 
 I - a obtenção de terras rurais destinadas à implantação de projetos de assentamento integrantes do programa de reforma agrária será precedida de estudo sobre a viabilidade econômica e a potencialidade de uso dos recursos naturais;
 II - os beneficiários dos projetos de que trata o inciso I manifestarão sua concordância com as condições de obtenção das terras destinadas à implantação dos projetos de assentamento, inclusive quanto ao preço a ser pago pelo órgão federal executor do programa de reforma agrária e com relação aos recursos naturais;
 III - nos projetos criados será elaborado Plano de Desenvolvimento de Assentamento - PDA, que orientará a fixação de normas técnicas para a sua implantação e os respectivos investimentos;
-IV - integrarão a clientela de trabalhadores rurais para fins de assentamento em projetos de reforma agrária somente aqueles que satisfizerem os requisitos fixados para seleção e classificação, bem como as exigências contidas nos arts. 19, incisos I a V e seu parágrafo único, e 20 desta Lei;
+IV - integrarão a clientela de trabalhadores rurais, para fins de assentamento em projetos de reforma agrária, somente aqueles que satisfizerem os requisitos fixados para seleção e classificação previstos nesta Lei; e
 V - a consolidação dos projetos de assentamento integrantes dos programas de reforma agrária dar-se-á com a concessão de créditos de instalação e a conclusão dos investimentos, bem como com a outorga do instrumento definitivo de titulação.
 § 1º (Vetado.)
 § 2º Para a consolidação dos projetos de que trata o inciso V do caput, fica o Poder Executivo autorizado a conceder créditos de instalação aos assentados, nos termos do regulamento.

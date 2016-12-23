@@ -1,0 +1,1 @@
+Art. 18-B. Identificada a ocupação ou a exploração em projeto de assentamento por indivíduo que não se enquadra como beneficiária do Programa Nacional de Reforma Agrária, o ocupante será notificado para desocupação da área, nos termos estabelecidos em regulamento, sem prejuízo de eventual responsabilização nas esferas cível e penal.

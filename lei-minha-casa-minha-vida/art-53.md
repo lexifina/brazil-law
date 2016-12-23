@@ -1,4 +1,0 @@
-Art. 53. A regularização fundiária de interesse social depende da análise e da aprovação pelo Município do projeto de que trata o art. 51.
-§ 1º A aprovação municipal prevista no caput corresponde ao licenciamento urbanístico do projeto de regularização fundiária de interesse social, bem como ao licenciamento ambiental, se o Município tiver conselho de meio ambiente e órgão ambiental capacitado.
-§ 2º Para efeito do disposto no § 1º, considera-se órgão ambiental capacitado o órgão municipal que possua em seus quadros ou à sua disposição profissionais com atribuição para análise do projeto e decisão sobre o licenciamento ambiental.
-§ 3º No caso de o projeto abranger área de Unidade de Conservação de Uso Sustentável que, nos termos da Lei nº 9.985, de 18 de julho de 2000, admita a regularização, será exigida também anuência do órgão gestor da unidade.

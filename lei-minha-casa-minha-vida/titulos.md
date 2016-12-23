@@ -18,17 +18,5 @@ Seção VII
 Disposições Complementares
 CAPÍTULO II
 DO REGISTRO ELETRÔNICO E DAS CUSTAS E EMOLUMENTOS
-CAPÍTULO III
-DA REGULARIZAÇÃO FUNDIÁRIA DE ASSENTAMENTOS URBANOS
-Seção I
-Disposições Preliminares
-Seção II
-Da Regularização Fundiária de Interesse Social
-Seção III
-Da Regularização Fundiária de Interesse Específico
-Seção IV
-Do Registro da Regularização Fundiária
-Seção V
-Disposições Gerais
 CAPÍTULO IV
 DISPOSIÇÕES FINAIS
