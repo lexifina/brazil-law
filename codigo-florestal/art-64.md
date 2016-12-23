@@ -1,4 +1,4 @@
-Art. 64. Na regularização fundiária de interesse social dos assentamentos inseridos em área urbana de ocupação consolidada e que ocupam Áreas de Preservação Permanente, a regularização ambiental será admitida por meio da aprovação do projeto de regularização fundiária, na forma da Lei nº 11.977, de 7 de julho de 2009.
+Art. 64. Na regularização fundiária de interesse social dos núcleos urbanos informais inseridos em área urbana de ocupação consolidada e que ocupam Áreas de Preservação Permanente, a regularização ambiental será admitida por meio da aprovação do projeto de regularização fundiária, na forma da Lei específica de Regularização Fundiária Urbana.
 § 1º O projeto de regularização fundiária de interesse social deverá incluir estudo técnico que demonstre a melhoria das condições ambientais em relação à situação anterior com a adoção das medidas nele preconizadas.
 § 2º O estudo técnico mencionado no § 1º deverá conter, no mínimo, os seguintes elementos:
 I - caracterização da situação ambiental da área a ser regularizada;

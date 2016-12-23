@@ -1,4 +1,4 @@
-Art. 65. Na regularização fundiária de interesse específico dos assentamentos inseridos em área urbana consolidada e que ocupam Áreas de Preservação Permanente não identificadas como áreas de risco, a regularização ambiental será admitida por meio da aprovação do projeto de regularização fundiária, na forma da Lei nº 11.977, de 7 de julho de 2009.
+Art. 65. Na regularização fundiária de interesse específico dos núcleos urbanos informais inseridos em área urbana consolidada e que ocupem Áreas de Preservação Permanente não identificadas como áreas de risco, a regularização ambiental será admitida por meio da aprovação do projeto de regularização fundiária, na forma da lei específica de regularização fundiária urbana.
 § 1º O processo de regularização ambiental, para fins de prévia autorização pelo órgão ambiental competente, deverá ser instruído com os seguintes elementos:
 I - a caracterização físico-ambiental, social, cultural e econômica da área;
 II - a identificação dos recursos ambientais, dos passivos e fragilidades ambientais e das restrições e potencialidades da área;
