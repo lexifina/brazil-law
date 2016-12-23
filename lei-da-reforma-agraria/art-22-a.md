@@ -1,0 +1,1 @@
+Art. 22-A. As benfeitorias, reprodutivas ou não, existentes no imóvel destinado para reforma agrária poderão ser cedidas aos beneficiários para exploração individual ou coletiva ou doadas em benefício da comunidade de assentados, na forma estabelecida em regulamento.
