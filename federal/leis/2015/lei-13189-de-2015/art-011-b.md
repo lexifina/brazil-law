@@ -1,0 +1,1 @@
+Art. 11-B. O Ministério do Trabalho enviará semestralmente, pelo período de duração do PSE, aos Ministérios da Fazenda e do Planejamento, Desenvolvimento e Gestão e à Casa Civil da Presidência da República, informações que permitam avaliar a efetividade do PSE como política pública em relação aos objetivos pretendidos.
