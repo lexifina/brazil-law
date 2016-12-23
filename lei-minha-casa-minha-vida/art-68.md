@@ -1,1 +1,0 @@
-Art. 68. Não serão cobradas custas e emolumentos para o registro do auto de demarcação urbanística, do título de legitimação e de sua conversão em título de propriedade e dos parcelamentos oriundos da regularização fundiária de interesse social.

@@ -1,1 +1,0 @@
-Art. 46. A regularização fundiária consiste no conjunto de medidas jurídicas, urbanísticas, ambientais e sociais que visam à regularização de assentamentos irregulares e à titulação de seus ocupantes, de modo a garantir o direito social à moradia, o pleno desenvolvimento das funções sociais da propriedade urbana e o direito ao meio ambiente ecologicamente equilibrado.

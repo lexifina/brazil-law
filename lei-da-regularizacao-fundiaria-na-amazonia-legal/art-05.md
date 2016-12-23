@@ -4,5 +4,8 @@ II - não ser proprietário de imóvel rural em qualquer parte do território na
 III - praticar cultura efetiva;
 IV - comprovar o exercício de ocupação e exploração direta, mansa e pacífica, por si ou por seus antecessores, anterior a 1º de dezembro de 2004; e
 V - não ter sido beneficiado por programa de reforma agrária ou de regularização fundiária de área rural, ressalvadas as situações admitidas pelo Ministério do Desenvolvimento Agrário.
-§ 1º Fica vedada a regularização de ocupações em que o ocupante, seu cônjuge ou companheiro exerçam cargo ou emprego público no Incra, no Ministério do Desenvolvimento Agrário, na Secretaria do Patrimônio da União do Ministério do Planejamento, Orçamento e Gestão ou nos órgãos estaduais de terras.
-§ 2º Nos casos em que o ocupante, seu cônjuge ou companheiro exerçam cargo ou emprego público não referido no § 1º, deverão ser observados para a regularização os requisitos previstos nos incisos II, III e IV do art. 3º da Lei nº 11.326, de 24 de julho de 2006.
+Parágrafo único. Fica vedada a regularização de ocupações em que o ocupante ou o seu cônjuge ou companheiro exerçam cargo ou emprego público:
+I - no Incra;
+II - na Secretaria Especial de Agricultura Familiar e do Desenvolvimento Agrário da Casa Civil da Presidência da República;
+III - na Secretaria do Patrimônio da União do Ministério do Planejamento, Desenvolvimento e Gestão; ou
+IV - nos órgãos estaduais de terras.

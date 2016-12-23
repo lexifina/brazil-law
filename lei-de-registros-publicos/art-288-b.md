@@ -1,1 +1,0 @@
-Art. 288-B. Na hipótese da regularização fundiária implementada por etapas, o registro será feito com base em planta e memorial descritivo referentes à totalidade da área objeto de regularização, que especifiquem as porções ainda não regularizadas.

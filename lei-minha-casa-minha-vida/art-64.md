@@ -1,1 +1,0 @@
-Art. 64. O registro do parcelamento resultante do projeto de regularização fundiária de interesse específico deverá ser requerido ao registro de imóveis, nos termos da legislação em vigor e observadas as disposições previstas neste Capítulo.
