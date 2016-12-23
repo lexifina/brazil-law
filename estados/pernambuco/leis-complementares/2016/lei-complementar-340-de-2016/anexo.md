@@ -1,0 +1,9 @@
+ANEXO ÚNICO
+
+QUANTITATIVO
+
+VALOR (em R$)
+
+800
+
+1.800,00
