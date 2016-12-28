@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 81, DE 02.09.09 (D.O. DE 03.09.09)
+INSTITUI O FUNDO DE INCENTIVO À ENERGIA SOLAR DO ESTADO DO CEARÁ - FIES, E DÁ OUTRAS PROVIDÊNCIAS.
+O GOVERNADOR DO ESTADO DO CEARÁ:
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
