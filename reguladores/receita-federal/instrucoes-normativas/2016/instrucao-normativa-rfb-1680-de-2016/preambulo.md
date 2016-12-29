@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1680, de 28 de dezembro de 2016
+Dispõe sobre a identificação das contas financeiras em conformidade com o Padrão de Declaração Comum (Common Reporting Standard - CRS).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no Decreto Legislativo nº 105, de 14 de abril de 2016, no Decreto nº 8.842, de 29 de agosto de 2016, e no Acordo Multilateral de Autoridades Competentes do Common Reporting Standard, de 21 de outubro de 2016, resolve:
