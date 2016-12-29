@@ -1,0 +1,4 @@
+Instrução Normativa RFB nº 1682, de 28 de dezembro de 2016
+Altera a Instrução Normativa RFB nº 1.215, de 15 de dezembro de 2011, que aprova modelo de Comprovante de Rendimentos Pagos e de Imposto sobre a Renda Retido na Fonte.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no § 1º do art. 19 da Lei nº 8.383, de 30 de dezembro de 1991, no art. 86 da Lei nº 8.981, de 20 de janeiro de 1995, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no parágrafo único do art. 941 e nos arts. 943 e 965 do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda,
+RESOLVE:
