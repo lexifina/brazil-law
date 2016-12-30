@@ -1,0 +1,1 @@
+§ 3º A nulidade a que se refere o § 2º deste artigo gera, para o prestador do serviço, perante o Município ou o Distrito Federal que não respeitar as disposições deste artigo, o direito à restituição do valor efetivamente pago do Imposto sobre Serviços de Qualquer Natureza calculado sob a égide da lei nula.
