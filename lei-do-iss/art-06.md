@@ -3,3 +3,6 @@ Art. 6º Os Municípios e o Distrito Federal, mediante lei, poderão atribuir de
 § 2º Sem prejuízo do disposto no caput e no § 1º deste artigo, são responsáveis:.
 I - o tomador ou intermediário de serviço proveniente do exterior do País ou cuja prestação se tenha iniciado no exterior do País;
 II - a pessoa jurídica, ainda que imune ou isenta, tomadora ou intermediária dos serviços descritos nos subitens 3.05, 7.02, 7.04, 7.05, 7.09, 7.10, 7.12, 7.14, 7.15, 7.16, 7.17, 7.19, 11.02, 17.05 e 17.10 da lista anexa.
+III - a pessoa jurídica tomadora ou intermediária de serviços, ainda que imune ou isenta, na hipótese prevista no § 4º do art. 3º desta Lei Complementar.
+§ 3º No caso dos serviços descritos nos subitens 10.04 e 15.09, o valor do imposto é devido ao Município declarado como domicílio tributário da pessoa jurídica ou física tomadora do serviço, conforme informação prestada por este.
+§ 4º No caso dos serviços prestados pelas administradoras de cartão de crédito e débito, descritos no subitem 15.01, os terminais eletrônicos ou as máquinas das operações efetivadas deverão ser registrados no local do domicílio do tomador do serviço.

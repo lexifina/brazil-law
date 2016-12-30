@@ -1,4 +1,4 @@
-Art. 3º O serviço considera-se prestado e o imposto devido no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do prestador, exceto nas hipóteses previstas nos incisos I a XXII, quando o imposto será devido no local:.
+Art. 3º O serviço considera-se prestado, e o imposto, devido, no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do prestador, exceto nas hipóteses previstas nos incisos I a XXV, quando o imposto será devido no local:
 I - do estabelecimento do tomador ou intermediário do serviço ou, na falta de estabelecimento, onde ele estiver domiciliado, na hipótese do § 1º do art. 1º desta Lei Complementar;
 II - da instalação dos andaimes, palcos, coberturas e outras estruturas, no caso dos serviços descritos no subitem 3.05 da lista anexa;
 III - da execução da obra, no caso dos serviços descritos no subitem 7.02 e 7.19 da lista anexa;
@@ -10,17 +10,21 @@ VIII - da execução da decoração e jardinagem, do corte e poda de árvores, n
 IX - do controle e tratamento do efluente de qualquer natureza e de agentes físicos, químicos e biológicos, no caso dos serviços descritos no subitem 7.12 da lista anexa;
 X - (VETADO)
 XI - (VETADO)
-XII - do florestamento, reflorestamento, semeadura, adubação e congêneres, no caso dos serviços descritos no subitem 7.16 da lista anexa;
+XII - do florestamento, reflorestamento, semeadura, adubação, reparação de solo, plantio, silagem, colheita, corte, descascamento de árvores, silvicultura, exploração florestal e serviços congêneres indissociáveis da formação, manutenção e colheita de florestas para quaisquer fins e por quaisquer meios;
 XIII - da execução dos serviços de escoramento, contenção de encostas e congêneres, no caso dos serviços descritos no subitem 7.17 da lista anexa;
 XIV - da limpeza e dragagem, no caso dos serviços descritos no subitem 7.18 da lista anexa;
 XV - onde o bem estiver guardado ou estacionado, no caso dos serviços descritos no subitem 11.01 da lista anexa;
-XVI - dos bens ou do domicílio das pessoas vigiados, segurados ou monitorados, no caso dos serviços descritos no subitem 11.02 da lista anexa;
+XVI - dos bens, dos semoventes ou do domicílio das pessoas vigiados, segurados ou monitorados, no caso dos serviços descritos no subitem 11.02 da lista anexa;
 XVII - do armazenamento, depósito, carga, descarga, arrumação e guarda do bem, no caso dos serviços descritos no subitem 11.04 da lista anexa;
 XVIII - da execução dos serviços de diversão, lazer, entretenimento e congêneres, no caso dos serviços descritos nos subitens do item 12, exceto o 12.13, da lista anexa;
-XIX - do Município onde está sendo executado o transporte, no caso dos serviços descritos pelo subitem 16.01 da lista anexa;
+XIX - do Município onde está sendo executado o transporte, no caso dos serviços descritos pelo item 16 da lista anexa;
 XX - do estabelecimento do tomador da mão-de-obra ou, na falta de estabelecimento, onde ele estiver domiciliado, no caso dos serviços descritos pelo subitem 17.05 da lista anexa;
 XXI - da feira, exposição, congresso ou congênere a que se referir o planejamento, organização e administração, no caso dos serviços descritos pelo subitem 17.10 da lista anexa;
 XXII - do porto, aeroporto, ferroporto, terminal rodoviário, ferroviário ou metroviário, no caso dos serviços descritos pelo item 20 da lista anexa.
+XXIII - do domicílio do tomador dos serviços dos subitens 4.22, 4.23 e 5.09;
+XXIV - do domicílio do tomador do serviço no caso dos serviços prestados pelas administradoras de cartão de crédito ou débito e demais descritos no subitem 15.01;
+XXV - do domicílio do tomador dos serviços dos subitens 10.04 e 15.09.
 § 1º No caso dos serviços a que se refere o subitem 3.04 da lista anexa, considera-se ocorrido o fato gerador e devido o imposto em cada Município em cujo território haja extensão de ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza, objetos de locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não.
 § 2º No caso dos serviços a que se refere o subitem 22.01 da lista anexa, considera-se ocorrido o fato gerador e devido o imposto em cada Município em cujo território haja extensão de rodovia explorada.
 § 3º Considera-se ocorrido o fato gerador do imposto no local do estabelecimento prestador nos serviços executados em águas marítimas, excetuados os serviços descritos no subitem 20.01.
+§ 4º § 4º Na hipótese de descumprimento do disposto no caput ou no § 1º, ambos do art. 8º-A desta Lei Complementar, o imposto será devido no local do estabelecimento do tomador ou intermediário do serviço ou, na falta de estabelecimento, onde ele estiver domiciliado.
