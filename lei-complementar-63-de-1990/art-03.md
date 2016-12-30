@@ -4,6 +4,8 @@ II - até 1/4 (um quarto), de acordo com o que dispuser lei estadual ou, no caso
 § 1º O valor adicionado corresponderá, para cada Município:
 I - ao valor das mercadorias saídas, acrescido do valor das prestações de serviços, no seu território, deduzido o valor das mercadorias entradas, em cada ano civil;
 II - nas hipóteses de tributação simplificada a que se refere o parágrafo único do art. 146 da Constituição Federal, e, em outras situações, em que se dispensem os controles de entrada, considerar-se-á como valor adicionado o percentual de 32% (trinta e dois por cento) da receita bruta.
+§ 1º-A. Na hipótese de pessoa jurídica promover saídas de mercadorias por estabelecimento diverso daquele no qual as transações comerciais são realizadas, excluídas as transações comerciais não presenciais, o valor adicionado deverá ser computado em favor do Município onde ocorreu a transação comercial, desde que ambos os estabelecimentos estejam localizados no mesmo Estado ou no Distrito Federal.
+§ 1º-B. No caso do disposto no § 1º-A deste artigo, deverá constar no documento fiscal correspondente a identificação do estabelecimento no qual a transação comercial foi realizada.
 § 2º Para efeito de cálculo do valor adicionado serão computadas:
 I - as operações e prestações que constituam fato gerador do imposto, mesmo quando o pagamento for antecipado ou diferido, ou quando o crédito tributário for diferido, reduzido ou excluído em virtude de isenção ou outros benefícios, incentivos ou favores fiscais;
 II - as operações imunes do imposto, conforme as alíneas a e b do inciso X do § 2º do art. 155, e a alínea d do inciso VI do art. 150, da Constituição Federal.
