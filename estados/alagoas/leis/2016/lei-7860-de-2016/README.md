@@ -1,0 +1,5 @@
+# Lei nº 7.860, de 30 de dezembro de 2016, do Estado de Alagoas
+
+ALTERA A LEI ESTADUAL Nº7.070, DE 15 DE JULHO DE 2009, QUE AUTORIZA O PODER EXECUTIVO A CONTRATAR E GARANTIR FINANCIAMENTO JUNTO AO BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL - BNDES, NO ÂMBITO DO PROGRAMA DE MODERNIZAÇÃO DA ADMINISTRAÇÃO DAS RECEITAS E DA GESTÃO FISCAL, FINANCEIRA E PATRIMONIAL DAS ADMINISTRAÇÕES ESTADUAIS- PMAE
+
+Fonte: Assembleia Legislativa (sapl.al.al.leg.br), <https://sapl.al.al.leg.br/norma/1267>; texto: <http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2016/1267/1267_texto_integral.pdf>
