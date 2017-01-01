@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – HONORÁRIOS ADVOCATÍCIOS FIXAÇÃO –DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Colegiado de origem, confirmando parte o entendimento do Juízo, assentou demonstrado os requisitos quanto à isenção do Imposto sobre a Propriedade de Veículos Automotores – IPVA, observada a legislação de regência. No recurso extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 5º, incisos XXXV, LIV e LV, da Carta Política. Aduz não demonstrado o preenchimento da exigências legais para o reconhecimento do direito à isenção pleiteado.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    De fato, no caso concreto, é irrelevante que a parte autora seja o condutor do veículo, bastando que o utilize para sua locomoção. Ora o motivo da isenção é justamente conceder um tratamento mais favorável ao portador de necessidade especial. No caso, o autor possui cegueira. É óbvio que não pode dirigir. Mas também não lhe pode ser negado o direito à isenção. Ao contrário, mais se o afirma.
+     As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    O Colegiado de origem reconheceu a isenção relativa ao Imposto sobre a Propriedade de Veículos Automotores – IPVA em razão da finalidade social da norma de regência, no caso, o artigo 13, inciso III, da Lei estadual nº 13.296/08. Assim, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação, pelo Colegiado de origem, de honorários advocatícios no valor de R$ 500,00 (quinhentos reais), fixo os honorários recursais no patamar de R$ 250,00 (duzentos e cinquenta reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 1º de janeiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
