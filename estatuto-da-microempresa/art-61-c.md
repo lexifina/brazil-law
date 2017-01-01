@@ -1,0 +1,1 @@
+Art. 61-C. Caso os sócios decidam pela venda da empresa, o investidor-anjo terá direito de preferência na aquisição, bem como direito de venda conjunta da titularidade do aporte de capital, nos mesmos termos e condições que forem ofertados aos sócios regulares.
