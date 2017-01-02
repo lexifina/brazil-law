@@ -1,0 +1,36 @@
+DECISÃO
+INEXISTÊNCIA DOS PRESSUPOSTOS PARA O DEFERIMENTO DA MEDIDA LIMINAR NO PRSENTE RECURSO ORDINÁRIO EM HABEAS CORPUS.
+    1. Recurso ordinário em habeas corpus, com requerimento de medida liminar, interposto por Antônio Carlos Bertagnoli contra acórdão do Superior Tribunal Militar:
+    “HABEAS CORPUS. RÉU CIVIL. CRIME MILITAR. COMPETÊNCIA DA JMU. LEI Nº 11.719/2008. APLICAÇÃO SUBSIDIÁRIA. ESPECIALIDADE.
+    1. A condição de civil não afasta a competência da Justiça Militar da União para o julgamento dos crimes militares previstos em lei, mesmo em tempo de paz, por força do art. 124 da Constituição Federal.
+    2.As regras introduzidas pela Lei nº 11.719, de 20 de junho de 2008, não se aplicam na Justiça Militar da União, considerando a especialidade do Direito Processual Penal Militar, que tem disposições próprias, não havendo lacunas a serem preenchidas pela legislação penal comum.
+    Ordem conhecida e denegada. Decisão unânime”.
+    2. Em 27.6.2017, o Relator deste recurso, Ministro Edson Fachin, indeferiu a medida liminar requerida, requisitou informações e determinou vista à Procuradoria-Geral da República:
+    “(...) Narra o recorrente, em síntese, que: a) foi denunciado pela suposta prática do delito do art. 309, caput, do Código Penal Militar (corrupção ativa militar); b) a denúncia foi recebida por Juiz Auditor Substituto em 22.11.2016; c) referido Juízo é incompetente para processar e julgar o feito, tendo em vista que, em tempos de paz, a Justiça Castrense não possui competência para julgar civis; d) pretendia arguir a incompetência e outras nulidades processuais, contudo lhe foi negado o direito de apresentar defesa preliminar, situação que viola os princípios constitucionais do devido processo legal, do contraditório e da ampla defesa.
+    À vista dos argumentos, pugna, liminarmente, pela suspensão da ação penal militar e, no mérito, pela concessão da ordem a fim de que, declarada a incompetência da Justiça Militar, seja anulado o recebimento da denúncia. Alternativamente, requer a aplicação subsidiária dos arts. 396 e 396-A, ambos do Código de Processo Penal, para que seja oportunizada a apresentação de defesa preliminar.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar.
+    Solicitem-se informações ao Juízo da 2ª Auditoria da 11ª Circunscrição Judiciária Militar a respeito do andamento processual da ação penal militar 35-85.2015.7.11.0211, especialmente se foi, ou será, possibilitado ao recorrente indicar quais provas pretende produzir antes da realização de seu interrogatório judicial.
+    Com as informações, abra-se vista à PGR”.
+    3. As informações foram prestadas e a Procuradoria-Geral da República opinou pelo não provimento do presente recurso.
+    4. Em 11.12.2017, o Ministro Edson Fachin determinou que o julgamento do presente recurso fosse afetado ao Plenário, “indicando à Presidência, se factível, julgamento conjunto com a ADPF 289, de relatoria do Min. Gilmar Mendes, e com o HC 112.848, de relatoria do Min. Ricardo Lewandowski”.
+    5. Os advogados do recorrente protocolizaram a Petição/STF n. 75.369/2017, requerendo a “concessão de liminar para determinar o sobrestamento da Ação Penal Militar nº 35-85.2015.7.11.0211, em trâmite perante a 2ª Auditoria da 11ª Circunscrição Judiciária Militar, até o julgamento pelo Plenário do presente Recurso Ordinário Constitucional em Habeas Corpus”.
+    6. Em 15.12.2017, o Ministro Edson Fachin proferiu o seguinte despacho quanto à Petição/STF n. 75.369/2017:
+    “Tendo em vista recente decisão na qual determinei a afetação do presente writ para julgamento no Tribunal Pleno (eDOC. 20), abra-se vista à Procuradoria-Geral da República, com a urgência que o caso requer, para manifestação sobre o pleito apresentado pelo recorrente, no sentido de que seja deferido, em caráter liminar, o sobrestamento da ação penal de origem até o deslinde final deste remédio constitucional”.
+    7. A Procuradoria-Geral da República opinou pelo “indeferimento do pedido liminar, ratificando-se os fundamentos do parecer no sentido do desprovimento do recurso ordinário” e os autos foram conclusos à Presidência.
+    8. Não é caso de deferimento da medida liminar para suspender o trâmite da Ação Penal Militar nº 35-85.2015.7.11.0211. Como se tem do último parecer destes autos da Procuradora-Geral da República:
+    “(...) 6. O pleito, no entanto, não merece acolhimento, tendo em vista que não se fazem presentes os pressupostos necessários ao deferimento da medida liminar (periculum in mora e fumus boni iuris). O recorrente foi acusado de oferecer vantagem indevida a Oficial do Exercito como forma de pagamento para a prática de atos funcionais ilícitos, o que configura crime militar, da competência da Justiça Militar.
+    7. Ademais, a ação penal refere-se a fatos ocorridos entre os meses de abril de 2012 e abril de 2013, sendo certo que a sua suspensão, sem que haja data provável para que volte a tramitar, pode resultar em grave prejuízo à persecução penal.
+    8. De acordo com as informações prestadas pela autoridade impetrada (fls. 329), está em curso a instrução criminal, tendo-se designado audiência para a oitiva de testemunhas. Não há, portanto, situação de manifesta ilegalidade ou de coação ilegal à liberdade do paciente que justifique a concessão da liminar.
+    9. A jurisprudência dessa Corte registra reiterados precedentes no sentido de que ‘a possibilidade de ratificação de atos instrutórios – e até mesmo de atos decisórios – pela autoridade competente encontra-se em harmonia com a jurisprudência deste Supremo Triubnal’ (RE 730.579 AfR/TO, Rel. Min. Ricardo Lewandowski, Dj de 30.6.2017).
+    10. No mesmo sentido: HC nº 130.810 AgR/AL, Rel. Min. Roberto Barroso; Apn nº 697, Rel. Min. Rosa Weber; RHC nº 129.802, Rel. Min. Cármen Lúcia.
+    11. De modo que eventual reconhecimento da incompetência da Justiça Militar para julgar o recorrente, não importará em prejuízo dos atos que vem sendo regularmente praticados no processo criminal”.
+    9. Pelo exposto, indefiro o requerimento de medida liminar formulado na Petição/STF n. 75.369/2017.
+    10. Encaminhe-se o processo ao digno Ministro Relator.
+    Publique-se.
+    Brasília, 2 de janeiro de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
