@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 171, DE 29.12.16 (D.O. 13.01.17)
+ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL No 06, DE 28 DE ABRIL DE 1997.
+O GOVERNADOR DO ESTADO DO CEARÁ .
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
