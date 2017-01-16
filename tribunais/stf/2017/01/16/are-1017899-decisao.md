@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, § 6°, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Verifico que, para aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo, seria necessário o revolvimento do quadro fático delineado na instância ordinária, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “EMENTA: Agravo regimental em recurso extraordinário. 2. Responsabilidade objetiva do Estado. Art. 37, § 6º, da CF. Acidente de trânsito. Comprovação do fato e do nexo causal. Indenização por dano material 3. Incidência das Súmulas 279 e 283 do STF. 4. Agravo regimental a que se nega provimento”. (RE 587311 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 16/11/2010, DJe-230 DIVULG 29-11-2010 PUBLIC 30-11-2010 EMENT VOL-02441-02 PP-00353).
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de entendimento. O instituto visa o cotejo indispensável a que se diga enquadrado o recurso extraordinário no permissivo constitucional. HONORÁRIOS ADVOCATÍCIOS. É vedado ao Tribunal fixar honorários recursais em patamar superior ao estabelecido nos parágrafos 2º e 3º, do artigo 85 do Código de Processo Civil de 2015. MULTA - AGRAVO – ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 4º do artigo 1.021 do Código de Processo Civil de 2015, arcando a parte com o ônus decorrente da litigância de má-fé”. (ARE 976316 AgR, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, julgado em 13/09/2016, PROCESSO ELETRÔNICO DJe-234 DIVULG 03-11-2016 PUBLIC 04-11-2016).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de janeiro de 2017.
+Ministra Rosa Weber
+Relatora
