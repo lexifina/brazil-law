@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação do art. 5º, XXXV e LV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não prospera a insurgência pelo prisma do inciso XXXV do art. 5º da Carta Política, consagrador do princípio da inafastabilidade da prestação jurisdicional, uma vez que o Plenário Virtual desta Suprema Corte negou a existência de repercussão geral da questão no RE 956.302-RG, Rel. Min. Edson Fachin, Pleno, DJe 16.6.2016, verbis:
+    “PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.”
+    Ressalto, ainda, que no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, esta Suprema Corte decidiu pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. O acórdão está assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão.”
+    Ademais, as instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie. Ademais, a aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada violação do art. da Constituição da República. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. tributário. execução fiscal. prescrição. Interrupção. Código tributário Nacional, Código de Processo Civil e Lei nº 6.830/80. Infraconstitucional. Ofensa constitucional indireta ou reflexa. 1. Possui natureza infraconstitucional a discussão a respeito da interrupção do prazo prescricional em sede de execução fiscal na qual se envolva a interpretação do Código tributário Nacional, do Código de Processo Civil e da Lei nº 6.830/80. A afronta ao texto constitucional seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. 2. Agravo regimental não provido.” (ARE 810802 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 05/08/2014, ACÓRDÃO ELETRÔNICO DJe-168 DIVULG 29-08-2014 PUBLIC 01-09-2014)
+    “EMENTA DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. DECRETAÇAÕ DE OFÍCIO. AUSÊNCIA DE INTIMAÇÃO DA FAZENDA PÚBLCA. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”(RE 583.747-RG, Rel. Min. Menezes Diretio, DJe 30.04.2009).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de janeiro de 2017.
+Ministra Rosa Weber
+Relatora
