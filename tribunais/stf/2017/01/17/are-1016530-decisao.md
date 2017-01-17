@@ -1,0 +1,23 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 2°, 37, 100 e 165 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Oportuna a transcrição da ementa do acórdão proferido pela Corte de origem (fl. 71, vol. 2):
+    “EMENTA: REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. DIREITO CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. PRELIMINAR DE CARÊNCIA DE AÇÃO POR IMPOSSIBILIDADE JURÍDICA DO PEDIDO ARTICULADA PELO ESTADO DO RIO GRANDE DO NORTE. TRANSFERÊNCIA PARA O MÉRITO. MÉRITO: TERMO DE AJUSTAMENTO DE CONDUTA. DIREITO À ACESSIBILIDADE. INOCORRÊNCIA DE CARÊNCIA DE AÇÃO. INSTRUMENTO CELEBRADO POR AGENTE PÚBLICO COM ATRIBUIÇÃO LEGAL PARA FIRMAR PACTO DESTA NATUREZA. OBRIGAÇÃO DECORRENTE DE LEGISLAÇÃO PRÓPRIA E ESPECÍFICA. DESNECESSIDADE DE INTERVENÇÃO DO CHEFE DO PODER EXECUTIVO OU DA PROCURADORIA GERAL DO ESTADO. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DE PODERES E À LEI DE RESPONSABILIDADE FISCAL. INSTRUMENTO LEGÍTIMO PARA IDENTIFICAR OBRIGAÇÕES, MESMO EM FACE DA FAZENDA PÚBLICA. AUSÊNCIA DE VEDAÇÃO QUANTO À SUA VALIDADE. OBRIGAÇÕES DECORRENTES DE TEXTO EXPRESSO DE LEI. TERMO DE AJUSTAMENTO DE CONDUTA QUE NÃO CONSTITUI NOVAS DESPESAS. PRECEDENTES DESTA CORTE DE JUSTIÇA. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. REMESSA NECESSÁRIA E APELAÇÃO CONHECIDAS E DESPROVIDAS”.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais apontados. Colho precedentes:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. REFORMA DE ESCOLA EM ESTADO PRECÁRIO DE CONSERVAÇÃO. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. INOCORRÊNCIA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. ACÓRDÃO RECORRIDO PUBLICADO EM 07.8.2013.
+    1. O entendimento adotado pela Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que o Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação de Poderes. Entender de modo diverso demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido.” (ARE 886.710-AgR, de minha lavra, 1ª Turma, DJe 19.11.2015)
+    “Agravo regimental no recurso extraordinário com agravo. Direito Constitucional. Ação civil pública. Criança e adolescente. Conselho tutelar. Implementação de políticas públicas. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. O Poder Judiciário, em situações excepcionais, pode determinar que a Administração pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação dos poderes, inserto no art. 2º da Constituição Federal.
+    2. O recurso extraordinário não se presta para o reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF.
+    3. Agravo regimental não provido.” (ARE 827.568-AgR, Rel. Min. Dis Toffoli, 2ª Turma, DJe 16.5.2016)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de janeiro de 2017.
+Ministra Rosa Weber
+Relatora
