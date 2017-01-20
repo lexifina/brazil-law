@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+    “AGRAVO INTERNO EM RECURSO DE APELAÇÃO CÍVEL. CONTRATOS BANCÁRIOS. LEGITIMIDADE ATIVA DA DEFENSORIA PÚBLICA PARA PROPOSITURA DE DEMANDA COLETIVA NA DEFESA DE DIREITOS DOS CONSUMIDORES. ARTIGOS 81, INCISO III, E 82, INCISO IIII, DO CDC E 5º, INCISO II, DA LEI Nº 7.347/85. PRECEDENTES DO STJ E DESTE EG. TRIBUNAL. SENTENÇA ANULADA, PARA REGULAR PROSSEGUIMENTO DO FEITO. ARGUMENTOS, TRAZIDOS PARA NOVA APRECIAÇÃO, QUE NÃO ENSEJAM MODIFICAÇÃO DA DECISÃO MONOCRÁTICA, A QUAL SE ENCONTRA DEVIDAMENTE FUNDAMENTADA. DESPROVIMENTO DO RECURSO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LXXIV; e 134 da Constituição.
+    O recurso não deve ser admitido. O acórdão recorrido está alinhado à jurisprudência desta Corte quanto à legitimidade da Defensoria Pública para ajuizar ações civil pública para defesa de hipossuficientes. O Supremo Tribunal Federal também já assentou que não é necessária a comprovação da condição de hipossuficiência por cada litisconsorte ou substituído nas ações coletivas. Nesse sentido, veja-se trecho do voto proferido pela Ministra Cármen Lúcia no julgamento da ADI 3943:
+    “[...]
+ Não se está a afirmar a desnecessidade de observar a Defensoria Pública o preceito do art. 5º, inc. LXXIV, da Constituição, reiterado no art. 134 (antes e depois da Emenda Constitucional n. 80/2014). No exercício de sua atribuição constitucional, deve-se sempre averiguar a compatibilidade dos interesses e direitos que a instituição protege com os possíveis beneficiários de quaisquer das ações ajuizadas, mesmo em ação civil pública.
+    À luz dos princípios orientadores da interpretação dos direitos fundamentais, acentuados nas manifestações do Congresso Nacional, da Advocacia-Geral da União e da Presidência da República, a presunção de que, no rol dos afetados pelos resultados da ação coletiva, constem pessoas necessitadas é suficiente a justificar a legitimidade da Defensoria Pública, para não esvaziar, totalmente, as finalidades que originaram a Defensoria Pública como função essencial à Justiça (fl. 550, manifestação da Advocacia-Geral da União).
+    Condicionar a atuação da Defensoria Pública à comprovação prévia da pobreza do público-alvo diante de situação justificadora do ajuizamento de ação civil pública (conforme determina a Lei n. 7.347/1985) parece-me incondizente com princípios e regras norteadores dessa instituição permanente e essencial à função jurisdicional do Estado, menos ainda com a norma do art. 3º da Constituição da República:
+    Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil:
+    I - construir uma sociedade livre, justa e solidária; (...)
+    III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;
+    IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
+    Para consecução desses objetivos, a melhor interpretação que se pode dar a qualquer direito ligado ao acesso à justiça é aquela que não cria obstáculo à sua efetivação. Que o torne elástico a ponto de alcançar o maior número de pessoas possíveis; que solucione os conflitos de massa da sociedade moderna (NOGUEIRA, Vânia Márcia Damasceno. A nova Defensoria Pública e o Direito Fundamental de acesso à Justiça em uma neo-hermenêutica da hipossuficiência . Repertório de Jurisprudência da IOB . V. III. Civil, Processual Civil, Penal e Comercial. Jan. 2011. p. 29).”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 20 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
