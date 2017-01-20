@@ -1,0 +1,8 @@
+Solução de Consulta Cosit nº 19, de 16 de janeiro de 2017
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: Nos períodos de apuração de abril e maio de 2013 e a partir de novembro de 2013 (ressalvada a opção pela antecipação da apuração substitutiva para o período de junho de 2013) a novembro de 2015, sendo a atividade principal da empresa enquadrada na CPRB pelo código CNAE 4751-2, e excetuada a hipótese do art. 8º, § 11, inciso I, da Lei nº 12.546, de 2011, é obrigatória a apuração da CPRB mediante a aplicação, a toda a sua receita, da alíquota correspondente à atividade CNAE principal.
+A partir do período de apuração de dezembro de 2015, a empresa na situação anteriormente descrita pode optar pela apuração da CPRB ou pelo recolhimento das contribuições elencadas no art. 22, inciso I e III, da Lei nº 8.212, de 1991, sendo a opção pela contribuição substitutiva operada com o recolhimento relativo à receita bruta apurada em janeiro de cada ano-calendário ou ao primeiro período de apuração em que ela houver sido auferida, conforme reza o art. 9º, § 13, da Lei nº 12.546, de 2011, introduzido pela Lei nº 13.161, de 2015.
+A atividade principal classificada sob o código CNAE 4751-2, possuía alíquota de 1,0% até a entrada em vigor do art. 8º-A, da Lei nº 12.546, de 2011 (introduzido pela Lei nº 13.161, de 31.08.2015, com vigência iniciada em 01.12.2015), momento em que foi elevada a 2,5%.
+DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, arts. 8º, § 3º, inciso XII, e § 11, inciso I; 8º-A; e 9º, §§ 9º, 10º e 13. IN RFB nº 1.436, de 2013, art. 7º, inciso III, alínea “a”.
+a
+[arquivo anexo: SC Cosit nº 19-2017.pdf]
+.
