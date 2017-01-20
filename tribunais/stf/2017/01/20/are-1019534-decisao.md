@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, II, X e XIII, e 170, caput, IV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Julgo oportuna a transcrição da ementa do acórdão recorrido:
+    “APELAÇÃO CÍVEL – Mandado de segurança – Tributário – Exclusão do nome no CADIN Estadual – As reclamações e os recursos administrativos mencionados no artigo 151, III, do CTN são aqueles que colocam em dúvida o crédito tributário, não pedidos de outra natureza – A oferta de créditos de precatório em pagamento não configura uma reclamação e não se enquadra no art. 151, III, do Código Tributário Nacional – Recurso improvido.”
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos apontados dispositivos ( 5º, II, X, XIII, 170, caput, IV) da Constituição da República.
+    Ademais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CRÉDITO TRIBUTÁRIO. EXIGIBILIDADE. HIPÓTESE AUTORIZADORA DA SUSPENSÃO. NÃO CONFIGURAÇÃO. MANUTENÇÃO DA INSCRIÇÃO DA EMPRESA NO CADIN. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO DESPROVIDO.” (ARE 966673, Rel. Min. Luiz Fux, DJe 23.11.2016).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. SUSPENSÃO DE INSCRIÇÃO NO CADASTRO INFORMATIVO DE CRÉDITOS NÃO QUITADOS DO SETOR PÚBLICO FEDERAL – CADIN. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO PROBATÓRIO: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 916.540 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 01.12.2015)
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Inscrição no CADIN. Necessidade de reexame do conjunto fático-probatório. Impossibilidade. Mandado de segurança. Análise da comprovação da liquidez e da certeza do direito. Ausência de repercussão geral. 1. Inviável, em recurso extraordinário, o reexame do conjunto fático-probatório dos autos. Incidência da Súmula nº 279/STF. 2. Ausência de repercussão geral de questões envolvendo cabimento de mandado de segurança em face da ausência de documentos suficientes para comprovar a ocorrência de lesão ou ameaça de direito líquido e certo (AI nº 800.074/SP, Ministro Gilmar Mendes, DJe de 6/12/10). 3. Agravo regimental não provido.” (ARE 841.590 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, Dje 07.04.2015)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de janeiro de 2017.
+Ministra Rosa Weber
+Relatora
