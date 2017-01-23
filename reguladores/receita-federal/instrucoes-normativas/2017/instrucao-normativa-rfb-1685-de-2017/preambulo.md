@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1685, de 19 de janeiro de 2017
+Dispõe sobre o uso da Escrituração Fiscal Digital (EFD) pelos contribuintes do Imposto sobre Produtos Industrializados estabelecidos no Distrito Federal.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no Decreto nº 6.022, de 22 de janeiro de 2007, no art. 453 do Decreto nº 7.212, de 15 de junho de 2010 e no Ajuste Sinief nº 2, de 3 de abril de 2009, resolve:
