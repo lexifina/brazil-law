@@ -1,0 +1,14 @@
+Solução de Consulta Cosit nº 26, de 16 de janeiro de 2017
+ASSUNTO: SIMPLES NACIONAL
+EMENTA: SERVIÇO DE TRANSPORTE INTERMUNICIPAL E INTERESTADUAL DE PASSAGEIROS. MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE.
+A partir de 1º de janeiro de 2015, pode optar pelo Simples Nacional, desde que não incorra em nenhuma outra vedação constante da legislação de regência do regime, a microempresa (ME) ou empresa de pequeno porte (EPP) que preste serviço de transporte intermunicipal e interestadual de passageiros: (1) na modalidade fluvial; ou (2) nas demais modalidades, quando possuir características de transporte urbano ou metropolitano ou quando realizar-se sob fretamento contínuo em área metropolitana para o transporte de estudantes ou trabalhadores.
+A atividade de transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional (CNAE 4929-9/02) e a atividade de organização de excursões em veículos rodoviários próprios, intermunicipal, interestadual e internacional (CNAE 4929-9/04) integram o rol de atividades ambíguas, que abrangem concomitantemente atividade impeditiva e permitida ao Simples Nacional.
+A ME ou EPP que exerça atividade econômica cujo código da CNAE seja considerado ambíguo pode optar pelo Simples Nacional se exercer somente atividade permitida no regime e desde que preste declaração nesse sentido.
+SERVIÇO DE TRANSPORTE INTERMUNICIPAL E INTERESTADUAL DE PASSAGEIROS. MICROEMPREENDEDOR INDIVIDUAL.
+A partir de 1º de janeiro de 2015, pode optar pelo Sistema de Recolhimento em Valores Fixos Mensais dos Tributos Abrangidos pelo Simples Nacional (SIMEI), desde que não incorra em nenhuma outra vedação constante da legislação de regência do regime, o Microempreendendor Individual (MEI) que preste serviço de transporte intermunicipal e interestadual de passageiros: (1) na modalidade fluvial; ou (2) nas demais modalidades, quando possuir características de transporte urbano ou metropolitano ou quando realizar-se sob fretamento contínuo em área metropolitana para o transporte de estudantes ou trabalhadores.
+A atividade de transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional (CNAE 4929-9/02) integra o rol de atividades permitidas ao MEI.
+O MEI que exerça atividade econômica cujo código da CNAE seja 4929-9/02 pode optar pelo SIMEI somente se tiver como ocupação o transporte intermunicipal de passageiros sob frete em região metropolitana.
+A atividade de organização de excursões em veículos rodoviários próprios, intermunicipal, interestadual e internacional (CNAE 4929-9/04) não integra o rol de atividades permitidas ao MEI.
+DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 17; Resolução CGSN nº 94, de 2011, arts. 8º, 15, 91 e 92.
+[arquivo anexo: SC Cosit nº 26-2017 .pdf]
+.
