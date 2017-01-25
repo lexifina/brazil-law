@@ -1,0 +1,13 @@
+Solução de Consulta Cosit nº 69, de 23 de janeiro de 2017
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: CRÉDITO PRESUMIDO. ART. 8º DA LEI Nº10.925, DE 2004. COMPENSAÇÃO E RESSARCIMENTO. IMPOSSIBILIDADE.
+O crédito presumido apurado na forma do art. 8º da Lei nº 10.925, de 23 de julho de 2004, somente pode ser utilizado para dedução do valor da Contribuição para o PIS/Pasep apurado no regime de apuração não cumulativa.
+Não são aplicáveis ao crédito presumido apurado na forma dos arts. 8º da Lei nº 10.925, de 2004, as permissões de utilização para compensação com outros tributos ou ressarcimento em dinheiro constantes, entre outros, do inciso II do § 1º e § 2º do art. 5º da Lei nº 10.637, de 2002, do inciso II do § 1º e § 2º do art. 6º da Lei nº 10.833, de 2003, do art. 16 da Lei nº 11.116, de 2005, e do art. 56-A da Lei n° 12.350, de 2010.
+DISPOSITIVOS LEGAIS: Lei n° 10.637, de 2002, arts. 3° e 5°; Lei n° 11.116, de 2005, art. 16; Lei n° 10.925, de 2009, arts. 8° e 9°; Lei n° 12.350, de 2010, arts. 54 a 57; Medida Provisória n° 517, de 2010, art. 9º; Lei nº 12.431, de 2011, art. 10; Instrução Normativa SRF n° 660, de 2006, arts. 5° e 8°; Instrução Normativa RFB nº 1.157, de 16 de maio de 2011, art. 18; Instrução Normativa RFB n° 1.300, de 2012, arts. 31, I, e 54, I; Ato Declaratório Interpretativo SRF n° 15, de 2005, arts. 1° e 2°.
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: CRÉDITO PRESUMIDO. ART. 8º DA LEI Nº 10.925, DE 2004. COMPENSAÇÃO E RESSARCIMENTO. IMPOSSIBILIDADE.
+O crédito presumido apurado na forma do art. 8º da Lei nº 10.925, de 23 de julho de 2004, somente pode ser utilizado para dedução do valor da Cofins apurado no regime de apuração não cumulativa.
+Não são aplicáveis ao crédito presumido apurado na forma dos arts. 8º da Lei nº 10.925, de 2004, as permissões de utilização para compensação com outros tributos ou ressarcimento em dinheiro constantes, entre outros, do inciso II do § 1º e § 2º do art. 5º da Lei nº 10.637, de 2002, do inciso II do § 1º e § 2º do art. 6º da Lei nº 10.833, de 2003, do art. 16 da Lei nº 11.116, de 2005, e do art. 56-A da Lei n° 12.350, de 2010.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3º e 5º; Lei n° 11.116, de 2005, art. 16; Lei n° 10.925, de 2009, arts. 8° e 9°; Lei n° 12.350, de 2010, arts. 54 a 57; Medida Provisória n° 517, de 2010, art. 9º; Lei nº 12.431, de 2011, art. 10; Instrução Normativa SRF n° 660, de 2006, arts. 5° e 8°; Instrução Normativa RFB nº 1.157, de 16 de maio de 2011, art. 18; Instrução Normativa RFB n° 1.300, de 2012, arts. 31, I, e 54, I; Ato Declaratório Interpretativo SRF n° 15, de 2005, arts. 1° e 2°.
+[arquivo anexo: SC Cosit nº 69-2017 .pdf]
+.
