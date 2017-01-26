@@ -1,0 +1,7 @@
+Solução de Divergência Cosit nº 7, de 23 de janeiro de 2017
+ASSUNTO: Imposto sobre Produtos Industrializados – IPI
+EMENTA: BENEFÍCIO FISCAL. NATUREZA DO CRÉDITO. IPI. EXPORTAÇÃO.
+O benefício fiscal assegurado pelo art. 1º, inciso I, do Decreto-lei nº 1.894, de 1981, não tem natureza jurídica de crédito tributário, mas de crédito financeiro desvinculado da sistemática do IPI. Assim, não são cabíveis a escrituração e a utilização do referido crédito na forma da legislação do IPI vigente.
+A empresa comercial que adquira, no mercado interno, produtos de fabricação nacional tributados e os exporte contra pagamento em moeda estrangeira conversível tem direito a crédito financeiro equivalente ao montante de IPI destacado em nota fiscal de venda emitida pelo produtor-vendedor ou comerciante contribuinte do imposto. Na hipótese de aquisição de comerciante não contribuinte do IPI, haverá direito ao crédito se houver incidido o imposto na última saída do produto de estabelecimento industrial ou equiparado a industrial, sendo, nesse caso, o valor do crédito a que faz jus o adquirente exportador igual ao montante do IPI que houver sido pago naquela saída.
+DISPOSITIVOS LEGAIS: Decreto-lei nº 1.894, de 16 de dezembro de 1981, art. 1º, inciso I; Lei nº 8.402, de 8 de janeiro de 1992, art. 1º, III; Decreto nº 4.544, de 2002 (Ripi/2002), atual Decreto nº 7.212, de 15 de junho de 2010 (Ripi/2010); IN SRF nº 60, de 1989;; PN CST nº 311/71.
+[arquivo anexo: SD Cosit nº 7-2017 .pdf]
