@@ -1,0 +1,20 @@
+Solução de Consulta Cosit nº 80, de 24 de janeiro de 2017
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO
+EMENTA: INEFICÁCIA PARCIAL. IMUNIDADE DOS MINERAIS DO PAÍS.
+Ineficaz a consulta no que se refere ao enquadramento dos produtos comercializados pelas associadas da consulente na regra de imunidade do IPI aplicável aos minerais do País, por falta de descrição detalhada do seu objeto e de fornecimento das informações necessárias à elucidação da matéria.
+DISPOSITIVOS LEGAIS: Instrução Normativa RFB, nº 740, de 2 de maio de 2007.
+ASSUNTO: IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI
+EMENTA: FIM ESPECÍFICO DE EXPORTAÇÃO. CONCEITO. SUSPENSÃO DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS.
+Os produtos destinados à exportação poderão sair do estabelecimento industrial com suspensão do IPI quando: i) adquiridos por Empresa Comercial Exportadora (ECE), com o fim específico de exportação; ii) remetidos a recintos alfandegados ou a outros locais onde se processe o despacho aduaneiro de exportação.
+Consideram-se adquiridos com o fim específico de exportação as mercadorias ou produtos remetidos, por conta e ordem da ECE, diretamente do estabelecimento da pessoa jurídica para: i) embarque de exportação ou para recintos alfandegados; ou ii) embarque de exportação ou para depósito em entreposto sob regime aduaneiro extraordinário de exportação, no caso de ECE de que trata o Decreto-Lei nº 1.248, de 29 de novembro de 1972.
+O CFOP deve ser utilizado de acordo com o Convênio Sistema Nacional Integrado de Informações Econômico-Fiscais - SINIEF s/nº, de 15 de dezembro de 1970, alterado por ajustes posteriores.
+DISPOSITIVOS LEGAIS: CF, art. 155, § 3º; Lei nº 5.172, de 1966, art. 46, parágrafo único (CTN); DL nº 1.248, de 1972; Lei nº 9.532, de 1997, art. 39; Decreto nº 7.212, de 2010, arts. 4º e 43, V, e § 1º (RIPI, de 2010); Decreto nº 6.759, de 2009, arts. 228 e 229 (RA); Decreto nº 7.660, de 2011 (TIPI - Capítulos 25, 26 e 27); IN RFB nº 1.152, de 2011, arts. 2º e 4º; IN RFB nº 1.464, de 2014, arts. 4º e 23; Convênio SINIEF s/nº, de 1970.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: A Contribuição para o PIS/Pasep não incide sobre as receitas decorrentes das operações de: i) exportação de mercadorias para o exterior; ii) vendas a Empresa Comercial Exportadora (ECE) com o fim específico de exportação.
+Consideram-se adquiridos com o fim específico de exportação as mercadorias ou produtos remetidos, por conta e ordem da ECE, diretamente do estabelecimento da pessoa jurídica para: i) embarque de exportação ou para recintos alfandegados; ou ii) embarque de exportação ou para depósito em entreposto sob regime aduaneiro extraordinário de exportação, no caso de ECE de que trata o Decreto-Lei nº 1.248, de 29 de novembro de 1972. As mercadorias podem permanecer na empresa comercial exportadora pelo prazo previsto na norma.
+DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 5º, I e III, e art. 7º; DL nº 1.248, de 1972; Decreto nº 4.524, de 2002, art. 45, VIII e IX; IN RFB nº 1.152, de 2011, arts. 3º e 4º.
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: A Cofins não incide sobre as receitas decorrentes das operações de: i) exportação de mercadorias para o exterior; ii) vendas a Empresa Comercial Exportadora (ECE) com o fim específico de exportação.
+Consideram-se adquiridos com o fim específico de exportação as mercadorias ou produtos remetidos, por conta e ordem da ECE, diretamente do estabelecimento da pessoa jurídica para: i) embarque de exportação ou para recintos alfandegados; ou ii) embarque de exportação ou para depósito em entreposto sob regime aduaneiro extraordinário de exportação, no caso de ECE de que trata o Decreto-Lei nº 1.248, de 29 de novembro de 1972. As mercadorias podem permanecer na empresa comercial exportadora pelo prazo previsto na norma.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 6º, I e III, e art. 9; DL nº 1.248, de 1972; Decreto nº 4.524, de 2002, art. 45, VIII e IX; IN RFB nº 1.152, de 2011, arts. 3º e 4º.
+[arquivo anexo: SC Cosit nº 80-2017 .pdf]
