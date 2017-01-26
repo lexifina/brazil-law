@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 20, de 16 de janeiro de 2017
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS
+EMENTA: CONSÓRCIO. ATIVIDADE DE GESTÃO DA RECEITA NO TRANSPORTE COLETIVO URBANO DE PASSAGEIROS. CONTRIBUIÇÃO PREVIDENCIÁRIA. LEI Nº 8.212, DE 1991.
+O consórcio constituído na forma dos arts. 278 e 279 da Lei nº 6.404, de 1976, com o fim de realizar a gestão dos serviços de transporte coletivo público municipal, compreendendo a comercialização de créditos para uso no sistema de transporte e a gestão da receita arrecadada e do seu repasse, que realizar a contratação, em nome próprio, de pessoas jurídicas ou físicas, com ou sem vínculo empregatício, e também efetuar os pagamentos relativos a essas contratações, sujeita-se ao recolhimento das contribuições previdenciárias previstas nos incisos I e III do art. 22 da Lei nº 8.212, de 1991, e fica responsável pela retenção dos tributos correspondentes e o cumprimento das respectivas obrigações acessórias, mediante a utilização de seu próprio número de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ).
+DISPOSITIVOS LEGAIS: Lei nº 12.402, de 2011, art. 1º; Lei nº 12.546, de 2011, arts. 7º, III, e 9º, IX; Instrução Normativa RFB nº 1.199, de 2011, art. 6º.
+[arquivo anexo: SC Cosit nº 20-2017 .pdf]
