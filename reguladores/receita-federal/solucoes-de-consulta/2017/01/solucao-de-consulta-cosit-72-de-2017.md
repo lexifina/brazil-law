@@ -1,0 +1,15 @@
+Solução de Consulta Cosit nº 72, de 23 de janeiro de 2017
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica – IRPJ
+EMENTA: Em razão do acolhimento, pela Procuradoria-Geral da Fazenda Nacional, da jurisprudência pacífica do Superior Tribunal de Justiça sobre a espécie (Recurso Especial Representativo de Controvérsia Repetitiva nº 1.116.460-SP), formada nos moldes do art. 543-C do Código de Processo Civil, instituído pela Lei nº 5.869, de 1973, segue-se que o IRPJ não incide sobre a indenização decorrente, no caso, de desapropriação por interesse social.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 105, DE 7 DE ABRIL DE 2014.
+DISPOSITIVOS LEGAIS: Constituição Federal, art. 5º, inciso XXXIV; Lei nº 4.132, de 1962; Lei nº 10.522, de 2002, art. 19, “caput”, inciso V, §§ 4º e 5º; Portaria Conjunta PGFN/RFB nº 1, de 2014; Nota PGFN/CRJ nº 1.114, de 2012, Anexo, item 69.
+ASSUNTO: Contribuição Social sobre o Lucro Líquido – CSLL
+EMENTA: Em razão do acolhimento, pela Procuradoria-Geral da Fazenda Nacional, da jurisprudência pacífica do Superior Tribunal de Justiça sobre a espécie (Recurso Especial Representativo de Controvérsia Repetitiva nº 1.116.460-SP), formada nos moldes do art. 543-C do Código de Processo Civil, instituído pela Lei nº 5.869, de 1973, no sentido de que o IRPJ não incide sobre a indenização decorrente, no caso, de desapropriação por interesse social, conclui-se que tal entendimento estende-se à CSLL, visto que a esta se aplicam as mesmas normas de apuração e de pagamento estabelecidas para aquele imposto.
+DISPOSITIVOS LEGAIS: Constituição Federal, art. 5º, inciso XXXIV; Lei nº 4.132, de 1962; Lei nº 7.689, de 1988, art. 6º, parágrafo único; Lei nº 8.981, de 1995, art. 57, “caput”; Lei nº 10.522, de 2002, art. 19, “caput”, inciso V, §§ 4º e 5º; Portaria Conjunta PGFN/RFB nº 1, de 2014; Nota PGFN/CRJ nº 1.114, de 2012, Anexo, item 69; Instrução Normativa SRF nº 390, de 2004, art. 3º.
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social – Cofins
+EMENTA: A Cofins não incide, no seu regime cumulativo de cobrança, sobre a indenização decorrente, na espécie, de desapropriação por interesse social, eis que essa verba não corresponde ao conceito de faturamento previsto na legislação de regência pertinente.
+DISPOSITIVOS LEGAIS: Constituição Federal, art. 5º, inciso XXXIV; Lei nº 4.132, de 1962; Lei nº 9.718, de 1998, art. 3º, “caput”; Lei nº 11.941, de 2009, art. 79, inciso XII; Lei nº 12.973, de 2014, arts. 2º, 52 e 119.
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: A Contribuição para o PIS/Pasep não incide, no seu regime cumulativo de cobrança, sobre a indenização decorrente, na espécie, de desapropriação por interesse social, eis que essa verba não corresponde ao conceito de faturamento previsto na legislação de regência pertinente.
+DISPOSITIVOS LEGAIS: Constituição Federal, art. 5º, inciso XXXIV; Lei nº 4.132, de 1962; Lei nº 9.718, de 1998, art. 3º, “caput”; Lei nº 11.941, de 2009, art. 79, inciso XII; Lei nº 12.973, de 2014, arts. 2º, 52 e 119.
+[arquivo anexo: SC Cosit nº 72-2017 .pdf]
