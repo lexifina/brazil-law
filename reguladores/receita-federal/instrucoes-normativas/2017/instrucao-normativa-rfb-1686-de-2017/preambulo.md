@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1686, de 26 de janeiro de 2017
+Altera a Instrução Normativa RFB nº 1.671, de 22 de novembro de 2016, que dispõe sobre a Declaração do Imposto sobre a Renda Retido na Fonte relativa ao ano-calendário de 2016 e a situações especiais ocorridas em 2017 (Dirf 2017) e o Programa Gerador da Dirf 2017 (PGD Dirf 2017).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
