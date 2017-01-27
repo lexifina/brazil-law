@@ -1,0 +1,8 @@
+Solução de Consulta Cosit nº 78, de 24 de janeiro de 2017
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: NÃO CUMULATIVIDADE. CREDITAMENTO. ATIVO IMOBILIZADO. FABRICAÇÃO. CRITÉRIO DE APROPRIAÇÃO. DEPRECIAÇÃO.
+A fabricação de máquina ou equipamento, pela própria pessoa jurídica que irá incorporá-la(o) ao seu ativo imobilizado, para aplicação direta na produção de bens destinados à venda ou na prestação de serviços, é fato que autoriza, no regime de não cumulatividade, o desconto de crédito da Cofins, a ser aferido com base nos encargos de depreciação dessa máquina ou desse equipamento.
+Nessa hipótese, em que o bem do imobilizado é fabricado por quem dele fará uso, é inadmissível a apropriação de créditos segundo critérios de tempo desvinculados de sua vida útil, ou seja, desvinculados de sua depreciação, e o cômputo desses créditos só pode ser iniciado, quando o bem do imobilizado estiver instalado, posto em serviço ou em condições de produzir.
+A adoção dessa sistemática de apropriação, com base na depreciação de bem integrante do imobilizado, é incompatível com o creditamento estratificado por custos de fabricação considerados isoladamente, vale dizer, considerados a partir da data de aquisição de cada parte ou peça (sujeita ao pagamento da contribuição) destinada a compor o aludido bem, e com base nos valores de cada um desses componentes.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3º, inc. VI, § 1º, inc. III; Lei nº 11.774, de 2008, art. 1º; IN SRF nº 404, de 2004, art. 8º; IN SRF nº 457, de 2004, art. 1º; e Lei nº 4.506, de 1964, art. 57.
+[arquivo anexo: SC Cosit nº 78-2017 .pdf]
