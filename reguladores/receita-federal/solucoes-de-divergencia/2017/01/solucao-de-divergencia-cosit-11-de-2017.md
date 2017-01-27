@@ -1,0 +1,18 @@
+Solução de Divergência Cosit nº 11, de 25 de janeiro de 2017
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: NÃO CUMULATIVIDADE. CRÉDITOS. INSUMOS. DIVERSOS ITENS.
+Os gastos com partes e peças e serviços de manutenção aplicados em empilhadeiras e veículos utilizados no transporte interno (mesmo estabelecimento da pessoa jurídica) de matérias-primas e produtos em elaboração, desde que tais dispêndios não sejam incorporados ao bem em manutenção, são considerados insumos, permitindo a apuração de crédito da Contribuição para o PIS/Pasep de acordo com o art. 3º, II, da Lei nº 10.637, de 2002;
+Os combustíveis e lubrificantes utilizados nas máquinas e equipamentos de produção e nos veículos de transporte interno da produção são considerados insumos, gerando créditos da não cumulatividade da Contribuição para o PIS/Pasep de acordo com o art. 3º, II, da Lei nº 10.637, de 2002;
+As partes e peças, os serviços de manutenção e os combustíveis e lubrificantes consumidos em empilhadeiras e veículos utilizados no transporte de matérias-primas e produtos em elaboração entre estabelecimentos distintos da mesma pessoa jurídica não são considerados insumos, não permitindo a apuração de crédito da Contribuição para o PIS/Pasep de acordo com o art. 3º, II, da Lei nº 10.637, de 2002; e
+Os gastos com serviços de transporte das partes e peças que se desgastam e são utilizadas em empilhadeiras e veículos não geram crédito da Contribuição para o PIS/Pasep de acordo com o art.3º, II, da Lei nº 10.637, de 2002, posto que tais montantes devem ser incorporados ao custo de aquisição dos bens, e a possibilidade de crédito deve ser aferida em relação aos correspondentes bens adquiridos.
+DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 3º,II; IN SRF nº 247, de 2002, art. 66, I, “b”, e § 5º.
+VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 7, DE 23 DE AGOSTO DE 2016, PUBLICADA NO DOU DE 11/10/2016
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social – Cofins
+EMENTA: NÃO CUMULATIVIDADE. CRÉDITOS. INSUMOS. DIVERSOS ITENS.
+Os gastos com partes e peças e serviços de manutenção aplicados em empilhadeiras e veículos utilizados no o transporte interno (mesmo estabelecimento da pessoa jurídica) de matérias-primas e produtos em elaboração, desde que tais dispêndios não sejam incorporados ao bem em manutenção, são considerados insumos, permitindo a apuração de crédito da Cofins de acordo com o art. 3º, II, da Lei nº 10.833, de 2002;
+Os combustíveis e lubrificantes utilizados nas máquinas e equipamentos de produção e nos veículos de transporte interno da produção são considerados insumos, gerando créditos da não cumulatividade da Cofins de acordo com o art. 3º, II, da Lei nº 10.833, de 2003;
+As partes e peças, os serviços de manutenção e os combustíveis e lubrificantes consumidos em empilhadeiras e veículos utilizados no transporte de matérias-primas e produtos em elaboração entre estabelecimentos distintos da mesma pessoa jurídica não são considerados insumos, não permitindo a apuração de crédito da Cofins de acordo com o art. 3º, II, da Lei nº 10.833, de 2003; e
+Os gastos com serviços de transporte das partes e peças que se desgastam e são utilizadas em empilhadeiras e veículos não geram crédito da Cofins de acordo com o art.3º, II, da Lei nº 10.833, de 2003, posto que tais montantes devem ser incorporados ao custo de aquisição dos bens, e a possibilidade de crédito deve ser aferida em relação aos correspondentes bens adquiridos.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3º,II; IN SRF nº 404, de 2004, art. 8º, I, “b”, e § 4º.
+VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 7, DE 23 DE AGOSTO DE 2016, PUBLICADA NO DOU DE 11/10/2016.
+[arquivo anexo: SD Cosit nº 11-2017 .pdf]
