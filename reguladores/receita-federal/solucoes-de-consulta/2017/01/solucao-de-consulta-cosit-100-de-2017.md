@@ -1,0 +1,11 @@
+Solução de Consulta Cosit nº 100, de 27 de janeiro de 2017
+ASSUNTO: Obrigações Acessórias
+EMENTA: ESCRITURAÇÃO FISCAL DIGITAL DA CONTRIBUIÇÃO PARA O PIS/PASEP E DA CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS – EFD-CONTRIBUIÇÕES– DISPENSA DE APRESENTAÇÃO. SPED – ECD – DISPENSA DE APRESENTAÇÃO.
+A pessoa jurídica imune ou isenta do IRPJ somente deverá apresentar a EFD-Contribuições se o montante total mensal apurado a título de Contribuição para o PIS/Pasep e/ou da Cofins incidentes sobre a receita ou de Contribuição Previdenciária incidente sobre a Receita (arts. 7º a 9º da Lei nº 12.546, de 2011) for superior a R$ 10.000,00. Para a apuração desse valor não devem ser considerados os valores apurados a título de Contribuição PIS/Pasep incidente sobre a folha de salários.
+Não se sujeitando à obrigatoriedade da escrituração e transmissão da EFD-Contribuições, nos termos definidos na IN RFB nº 1.252, de 2012, as pessoas jurídicas imunes e isentas do IRPJ também não se sujeitam à escrituração e transmissão da ECD, em relação aos fatos contábeis ocorridos no período de 1º de janeiro de 2014 a 31 de dezembro de 2015.
+Em relação aos fatos contábeis ocorridos a partir de 1º de janeiro de 2016, as pessoas jurídicas imunes e isentas do IRPJ ficam obrigadas à escrituração e transmissão da ECD se:
+a) apurarem Contribuição para o PIS/Pasep incidente sobre receita, Contribuição para o PIS/Pasep incidente sobre a Folha de Salários, Cofins, e Contribuição Previdenciária incidente sobre a Receita (arts. 7º a 9º da Lei nº 12.546, de 2011) cuja soma seja superior a R$ 10.000,00 (dez mil reais) em qualquer mês do ano calendário a que se refere a escrituração contábil; ou
+b) auferirem receitas, doações, incentivos, subvenções, contribuições, auxílios, convênios e ingressos assemelhados, cuja soma seja superior a R$ 1.200.000,00 (um milhão e duzentos mil reais) no ano-calendário a que se refere a escrituração contábil, ou proporcional ao período.
+DISPOSITIVOS LEGAIS: Instrução Normativa – IN RFB – nº 1.252, de 2012, art 5º, II, e § 5º. Instrução Normativa – IN RFB – nº 1.420, de 2013, art. 3º, III.
+(VINCULADA PARCIALMENTE À SOLUÇÃO DE CONSULTA COSIT Nº 175, DE 3 DE JULHO DE 2015, PUBLICADA NO DIÁRIO OFICIAL DA UNIÃO DE 08 DE JULHO DE 2015)
+[arquivo anexo: SC Cosit nº 100-2017 .pdf]
