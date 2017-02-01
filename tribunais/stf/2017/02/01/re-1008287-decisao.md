@@ -1,0 +1,23 @@
+DECISÃO: A parte recorrente, ao deduzir o presente recurso extraordinário, sustentou que o acórdão proferido pela 5ª Turma Recursal dos Juizados Especiais Federais do Estado do Rio Grande do Sul teria transgredido os preceitos inscritos nos arts. 2º, 5º, II, 37, “caput”, e 150, II, todos da Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário não se revela viável.
+    Cabe referir, desde logo, que – com a exceção do tema concernente à alegada transgressão ao preceito inscrito no art. 150, inciso II, da Constituição – os demais temas não se acham devidamente prequestionados.
+    E, como se sabe, ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368, Rel. Min. MOREIRA ALVES – RTJ 131/1391, Rel. Min. CELSO DE MELLO – RTJ 144/300, Rel. Min. MARCO AURÉLIO – RTJ 153/989, Rel. Min. CELSO DE MELLO), incidem as Súmulas 282 e 356 desta Corte.
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    A configuração jurídica do prequestionamento – que traduz elemento indispensável ao conhecimento do recurso extraordinário – decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 – RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+    Cumpre salientar, de outro lado, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Código Tributário Nacional e Lei nº 7.713/1988), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o órgão judiciário de origem, ao proferir a decisão questionada, apoiou-se em dispositivos de ordem meramente legal:
+    “Mister afastar tal desigualdade, mediante a aplicação analógica do artigo 12-A da Lei 7.713/1988 à situação ‘sub examine’, de modo a realizar o princípio da isonomia tributária, consagrado no artigo 150, II, da Carta da República.
+    Recordo, a propósito, que a analogia é, consoante previsão expressa da codificação tributária, método adequado à colmatação de lacunas no Direito Tributário (art. 108, I, do CTN), sempre que não implique a exigência de tributo não previsto em lei (art. 108, § 1º, do CTN).”
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 910.890/RS, Rel. Min. ROBERTO BARROSO – RE 1.005.959/RS, Rel. Min. LUIZ FUX):
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO DE RENDA. PERCEPÇÃO DE RENDIMENTOS ACUMULADOS. APURAÇÃO PELO REGIME DE COMPETÊNCIA. INCIDÊNCIA DO IMPOSTO DE RENDA SOBRE VERBAS ESPECÍFICAS. NATUREZA JURÍDICA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA.
+    …...................................................................................................
+    Nos termos da jurisprudência da Corte, a controvérsia sobre a incidência de Imposto de Renda à luz da natureza jurídica imputa às parcelas em debate não encontra ressonância constitucional.
+    Agravo regimental a que se nega provimento.”
+    (ARE 846.041-AgR/RN, Rel. Min. ROBERTO BARROSO)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, ante a ausência de condenação em verba honorária  (Lei nº 9.099/95, art. 55, c/c a Lei nº 10.259/2001, art. 1º).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
