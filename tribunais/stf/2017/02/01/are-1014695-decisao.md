@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “EMBARGOS DE DECLARAÇÃO EM EMBARGOS EM RECURSO DE REVISTA. Embargos parcialmente acolhidos para prestar esclarecimentos e imprimir efeito modificativo ao julgado a fim de excluir da condenação os honorários advocatícios” (pág. 1 do documento eletrônico 33) .
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação aos arts. 2°; 5°, XXXVI, LIV e LV; 37, caput e § 9°; 93, IX; 95; 169, § 1°, I; 173, § 1°, I, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque à exceção dos artigos 5°, LIV e 37 da Constituição Federal, os demais dispositivos constitucionais arguidos não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, a jurisprudência deste Tribunal é no sentido de que não há falar em negativa de prestação jurisdicional se a parte se valeu dos meios recursais cabíveis e teve a jurisdição devidamente prestada por decisões fundamentadas, ainda que contrárias aos seus interesses. Com esse entendimento, cito o ARE 783.317-AgR/SC, Rel. Min. Luiz Fux, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. 1. A prestação jurisdicional resta configurada com a prolação de decisão devidamente fundamentada, embora contrária aos interesses da parte. Nesse sentido, ARE 740.877-AgR/DF, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 4/6/2013. 2. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que a mesma se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010. 3. In casu, o acórdão recorrido assentou: PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. APOSENTADORIA POR INVALIDEZ. COISA JULGADA. 4. Agravo regimental DESPROVIDO”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 1° de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
