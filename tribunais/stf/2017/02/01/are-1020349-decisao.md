@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado da Bahia confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de homicídio, previsto no artigo 121 do Código Penal. No extraordinário, cujo processamento busca alcançar, o recorrente aponta violado o artigo 5º, inciso XLVI, da Constituição Federal. Insurge-se contra a incidência de qualificadora, afirmando-a não comprovada. Discorre sobre o cabimento de atenuante.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Eis a síntese do acórdão recorrido:
+    (…)
+    Na espécie em exame, já houve o julgamento de uma primeira Apelação (cf Acórdão de fls. 286/297), interposta pelo Ministério Público, tendo como fundamento o mesmo art. 593, inciso III, alínea “d”, do CPP (decisão dos jurados manifestamente contrária à prova dos autos), não havendo espaço, portanto, para conhecer-se do segundo apelo no tocante ao questionamento derredor da incidência da qualificadora, ante o óbice estabelecido na parte final do § 3º do art. 593 do CPP.
+    V. A pena de partida foi fixada no mínimo de 12 anos de reclusão, que permaneceu corretamente inalterada, mesmo com o reconhecimento da atenuante da confissão (CP art. 65, inciso III, alínea “d”), em respeito ao disposto na Súmula 231 do STJ. Cabe ressaltar, inclusive, que esse entendimento já foi confirmado pelo Supremo Tribunal Federal, havendo aquele órgão considerado inviável o estabelecimento, na segunda fase da dosimetria, de pena inferior ao mínimo legal. Assim, na derradeira etapa, à míngua de causas de aumento ou diminuição, a basilar de 12 anos de reclusão foi tornada definitiva, pena essa a ser cumprida em regime inicial fechado (CP art. 33, § 2º, alínea “a”), assegurado ao réu o direito de recorrer em liberdade, estado em que se encontra.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 1º de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
