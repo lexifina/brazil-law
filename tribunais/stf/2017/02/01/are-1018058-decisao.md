@@ -1,0 +1,29 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão proferido pelo E. Tribunal de Justiça do Estado de São Paulo.
+    A parte ora agravante, ao deduzir o recurso extraordinário a que se refere o presente agravo, sustentou que a decisão recorrida teria vulnerado o preceito inscrito no art. 5º, XLVI e LVII da Constituição Federal.
+    Sob tal perspectiva, revela-se absolutamente inviável o apelo extremo em questão.
+    É que a jurisprudência do Supremo Tribunal Federal, a propósito da suposta ofensa ao art. 5º, XLVI, da Constituição, tem enfatizado que essa alegação pode configurar, quando muito, situação caracterizadora de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária:
+    “1. Embargos de declaração recebidos como agravo regimental.
+    2. Recurso extraordinário em matéria criminal: descabimento: questão relativa à individualização da pena decidida à luz da legislação ordinária pertinente: alegada violação do art. 5º, XLVI, da Constituição, que, se ocorresse, seria reflexa ou indireta: incidência do princípio da Súmula 636.
+    3. Decisão judicial: fundamentação (CF, art. 93, IX): exigência constitucional satisfeita.”
+    (AI 557.597-ED/MG, Rel. Min. SEPÚLVEDA PERTENCE – grifei)
+    A espécie ora em exame não foge aos padrões acima mencionados, refletindo, por isso mesmo, possível situação de ofensa indireta às prescrições da Carta Política, circunstância essa que impede – como precedentemente já enfatizado – o próprio conhecimento do recurso extraordinário (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO).
+    Cumpre salientar, de outro lado, quanto à alegada violação ao art. 5º, LVII, da CF, que não se revela cabível proceder, em sede recursal extraordinária, a indagações de caráter eminentemente probatório, especialmente quando se busca discutir elementos fáticos subjacentes à causa penal.
+    No caso, a verificação da procedência, ou não, das alegações deduzidas pelas partes recorrentes implicará necessário reexame de fatos e de provas, o que não se admite na sede excepcional do apelo extremo.
+    Essa pretensão sofre as restrições inerentes ao recurso extraordinário, em cujo âmbito não se reexaminam fatos e provas, circunstância essa que faz incidir, na espécie, a Súmula 279 do Supremo Tribunal Federal.
+    Não custa enfatizar, consoante adverte o magistério da doutrina (ADA PELLEGRINI GRINOVER, ANTONIO MAGALHÃES GOMES FILHO e ANTONIO SCARANCE FERNANDES, “Recursos no Processo Penal”, p. 269/270, item n. 176, 1996, RT), que o reexame dos fatos e das provas constitui tema estranho ao âmbito de atuação do recurso extraordinário (Súmula 279/STF), ainda que se cuide, como no caso, de matéria de índole penal.
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos por esta Suprema Corte (ARE 883.969/PR, Rel. Min. ROSA WEBER – ARE 992.764/MG, Rel. Min. CELSO DE MELLO, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 33 DA LEI Nº 11.343/06. ALEGADA VIOLAÇÃO DO ARTIGO 5º, XLVI E LVII, DA CF/88. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. FIXAÇÃO DE REGIME DE PENA. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. AGRAVO DESPROVIDO.”
+    (ARE 910.347-AgR/SP, Rel. Min. LUIZ FUX – grifei)
+    “DIREITO PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DOSIMETRIA DA PENA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343/2006. INDIVIDUALIZAÇÃO DA PENA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a quantidade de drogas apreendida constitui elemento que pode ser validamente valorado no dimensionamento do benefício previsto no § 4º do art. 33 da Lei nº 11.343/2006. Precedentes.
+    2. A orientação do Supremo Tribunal Federal é no sentido de que a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Precedentes.
+    3. A decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    4. Para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário.
+    5. Agravo regimental a que se nega provimento.”
+    (RE 936.145-AgR/SP, Rel. Min. ROBERTO BARROSO – grifei)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Publique-se.
+    Brasília, 01 de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
