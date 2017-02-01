@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto ao direito da autora à indenização por danos morais ante o não recebimento do diploma do curso de pós graduação, em decorrência de irregularidades junto ao Ministério da Educação. No extraordinário cujo processamento busca alcançar, a recorrente aponta violado o artigo 37, § 6º, da Constituição Federal. Sustenta não comprovado o dano. Aponta a inexistência de conduta ilícita, afirmando a impossibilidade de emissão do certificado, considerada a pendência do reconhecimento oficial do curso.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    Ora, dentro do contexto apresentado, tudo indica que a UFPEL apresentou tardiamente o pedido de reconhecimento do curso, deixando de observar o prazo estabelecido no art. 35 do Decreto nº 5.773/06 (com a redação dada pelo Decreto n. 6.303/07). Caso contrário, teria aplicado à hipótese o disposto na Portaria Normativa nº 40/03, com a expedição, desde logo, do diploma à parte autora.
+    Enfim, a espera que se teve para o reconhecimento do curso, que inviabilizou, desde logo, a expedição do diploma à parte autora, tem na sua gênese a omissão da UFPEL em não requerer tal reconhecimento no prazo que lhe estipulou o art. 35 do Decreto, propiciando à parte uma sensação de insegurança quanto ao próprio reconhecimento do curso no qual se graduou. De salientar que o curso teve início em fevereiro/2010 e restou finalizado em março/2012, sem o fornecimento do correspondente diploma/certificado de conclusão final do curso até a presente data.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5 % do valor da causa, nos termos do artigo 85, § 11, do citado diploma legal.
+    4. Publiquem.
+Brasília, 1º de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
