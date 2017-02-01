@@ -1,0 +1,31 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta por Transportes Jaó Ltda em face de decisão proferida pelo Presidente da Turma Recursal Única do Juizado Especial de Mato Grosso, nos autos do Processo 0010052-15.2011.8.11.0058.
+    Na petição inicial, alega-se usurpação da competência do Supremo Tribunal Federal, em razão da prolação de decisão de inadmissibilidade de agravo contra despacho denegatório de recurso extraordinário.
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    No caso, observo que a Presidência da Turma Recursal de origem, ao negar provimento ao agravo em recurso extraordinário, consignou o seguinte:
+    “A recorrente foi condenada a pagar indenização a título de dano moral. Inconformada com a referida decisão manejou Recurso Extraordinário, mas este foi inadmitido pelo Presidente da Turma Recursal. Contra a decisão que inadmitiu o Recurso Extraordinário opôs Agravo de Instrumento e os autos foram remetidos à Corte Suprema em matéria constitucional, onde foi formado o Recurso Extraordinário com Agravo 930.695 Mato Grosso, de relatoria do Ministro Gilmar Mendes.
+    O excelso Supremo Tribunal Federal, por meio de decisão monocrática do Ministro Relator, decidiu que o referido recurso versa sobre temas já examinados pela referida corte, nos Temas 339, 657 e 660 e determinou a devolução dos autos à origem a fim de que se observe o disposto no art. 543-B do Código de Processo Civil de 1973”. (eDOC 33, p. 1)
+    Percebe-se que a autoridade reclamada aplicou a norma do art. 543-B do Código de Processo Civil/1973 após indicação desta Corte de que as controvérsias constantes do recurso extraordinário com agravo (ARE 930.695, de minha relatoria) estavam em conformidade com entendimento exarado pelo Supremo Tribunal Federal em regime de repercussão geral (temas 339, 657 e 660). Logo, não se verifica, na presente hipótese, usurpação de competência desta Corte a ensejar o cabimento da reclamação.
+    Ainda que assim não fosse, melhor sorte não teria a reclamante quanto à existência de violação da autoridade do STF.
+    Ressalte-se que esta Corte, ao apreciar a Reclamação 10.793, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 6.6.2011, firmou o entendimento no sentido de que não é cabível reclamação que tenha por fundamento o descumprimento da autoridade de decisão proferida em processo-paradigma da repercussão geral. Confira-se, a propósito, o seguinte precedente:
+    “RECLAMAÇÃO. ALEGAÇÃO DE INOBSERVÂNCIA POR MAGISTRADO DE PRIMEIRA INSTÂNCIA DA DECISÃO PROFERIDA PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO MÉRITO DO RECURSO EXTRAORDINÁRIO 583.955-RG/RJ. INSTITUTO DA REPERCUSSÃO GERAL. COMPETÊNCIA DOS TRIBUNAIS DE ORIGEM PARA SOLUCIONAR CASOS CONCRETOS. CORREÇÃO DA EVENTUAL DESOBEDIÊNCIA À ORIENTAÇÃO ESTABELECIDA PELO STF PELA VIA RECURSAL PRÓPRIA, EM JULGADOS DE MÉRITO DE PROCESSOS COM REPERCUSSÃO GERAL RECONHECIDA. RECLAMAÇÃO NÃO CONHECIDA.
+    1. As decisões proferidas pelo Plenário do Supremo Tribunal Federal quando do julgamento de recursos extraordinários com repercussão geral vinculam os demais órgãos do Poder Judiciário na solução, por estes, de outros feitos sobre idêntica controvérsia.
+    2. Cabe aos juízes e desembargadores respeitar a autoridade da decisão do Supremo Tribunal Federal tomada em sede de repercussão geral, assegurando racionalidade e eficiência ao Sistema Judiciário e concretizando a certeza jurídica sobre o tema.
+    3. O legislador não atribuiu ao Supremo Tribunal Federal o ônus de fazer aplicar diretamente a cada caso concreto seu entendimento.
+    4. A Lei 11.418/2006 evita que o Supremo Tribunal Federal seja sobrecarregado por recursos extraordinários fundados em idêntica controvérsia, pois atribuiu aos demais Tribunais a obrigação de os sobrestarem e a possibilidade de realizarem juízo de retratação para adequarem seus acórdãos à orientação de mérito firmada por esta Corte.
+    5. Apenas na rara hipótese de que algum Tribunal mantenha posição contrária à do Supremo Tribunal Federal, é que caberá a este se pronunciar, em sede de recurso extraordinário, sobre o caso particular idêntico para a cassação ou reforma do acórdão, nos termos do art. 543-B, § 4º, do Código de Processo Civil.
+    6. A competência é dos Tribunais de origem para a solução dos casos concretos, cabendo-lhes, no exercício deste mister, observar a orientação fixada em sede de repercussão geral.
+    7. A cassação ou revisão das decisões dos Juízes contrárias à orientação firmada em sede de repercussão geral há de ser feita pelo Tribunal a que estiverem vinculados, pela via recursal ordinária.
+    8. A atuação do Supremo Tribunal Federal, no ponto, deve ser subsidiária, só se manifesta quando o Tribunal a quo negasse observância ao leading case da repercussão geral, ensejando, então, a interposição e a subida de recurso extraordinário para cassação ou revisão do acórdão, conforme previsão legal específica constante do art. 543-B, § 4º, do Código de Processo Civil.
+    9. Nada autoriza ou aconselha que se substituam as vias recursais ordinária e extraordinária pela reclamação.
+    10. A novidade processual que corresponde à repercussão geral e seus efeitos não deve desfavorecer as partes, nem permitir a perpetuação de decisão frontalmente contrária ao entendimento vinculante adotado pelo Supremo Tribunal Federal. Nesses casos o questionamento deve ser remetido ao Tribunal competente para a revisão das decisões do Juízo de primeiro grau a fim de que aquela Corte o aprecie como o recurso cabível, independentemente de considerações sobre sua tempestividade.
+    11. No caso presente tal medida não se mostra necessária.
+    12. Não-conhecimento da presente reclamação”. (grifei)
+    Cito, em acréscimo, os seguintes julgados: Rcl 23.616, Rel. Min. Luiz Fux, DJe 19.4.2016; e Rcl 23.031,Rel. Min. Rosa Weber, DJe 15.4.2016.
+    Ante o exposto, nego seguimento à reclamação. Prejudicado o pedido liminar (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
