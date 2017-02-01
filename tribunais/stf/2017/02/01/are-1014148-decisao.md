@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXIGÊNCIA DE CERTIDÃO NEGATIVA DE DÉBITOS FISCAIS – CND PARA A LAVRATURA E REGISTRO DE ESCRITURA DE COMPRA E VENDA DE BENS IMÓVEIS. ARTIGO 47, I, B, DA LEI 8.212/1991. SUPOSTO MEIO COERCITIVO PARA A COBRANÇA DE TRIBUTOS. SANÇÃO POLÍTICA. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS E REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE NA VIA EXTRAORDINÁRIA. SÚMULA 279 DO STF. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “CERTIDÃO NEGATIVA DE DÉBITOS. ARTIGO 47, II, DA LEI Nº 8.212/91. AVERBAÇÃO NO REGISTRO IMOBILIÁRIO. EXIGÊNCIA. ADI 394. CONSTITUCIONALIDADE.
+    1. É válida a exigência de regularidade fiscal para fins de lavratura e registro de escritura de compra e venda de imóvel.
+    2. A exigência de certidão negativa de débito, substituível por certidão positiva com efeito de negativa para a prática de atos jurídicos não constitui sanção política incompatível com a Constituição, visando apenas garantir a segurança jurídica do adquirente de boa-fé.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, a parte recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 5º, XXII, XXXV e LIV, da Constituição Federal. Alegou que a exigência de comprovação da regularidade fiscal para fins de transferência de bens imóveis constituiria sanção política em matéria tributária.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que a análise da controvérsia demandaria a interpretação de normas infraconstitucionais.
+    É o Relatório. DECIDO.
+    A irresignação não merece prosperar.
+    O Tribunal de origem assentou:
+    “a exigência pelo legislador da regularidade fiscal não viola o devido processo legal, eis que a empresa devedora da Previdência Social pode, a todo momento, suspender a exigibilidade do crédito, ao discutir administrativa ou judicialmente, parcelar e, se for o caso, oferecer caução.
+    O artigo 47, I, b, da Lei 8.212, da mesma forma, não viola o livre exercício da atividade econômica, pois a alienação do ativo imobilizado é operação extraordinária da empresa e há exceção prevista no art. 257, § 8º, do Decreto 3.048/99, para as empresas cujo objeto social é a alienação de imóveis.
+    A norma em comento visa, apenas, a garantir a segurança jurídica do adquirente de boa-fé, já que, na forma do artigo 185 do CTN, presume-se fraudulenta a alienação de imóvel por devedor com débito inscrito em dívida ativa.”
+    Nesse contexto, concluir diversamente do acórdão recorrido, no sentido de que o artigo 47, I, b, da Lei 8.212/1991 teria previsto gravame que caracterizaria meio coercitivo para a cobrança de tributos, em prejuízo da liberdade de trabalho, da livre concorrência, da livre iniciativa, do direito de propriedade ou do devido processo legal, demandaria a interpretação das normas infraconstitucionais de regência e o exame de matéria fática, o que é vedado na via estreita do recurso extraordinário. Incide, in casu, o óbice da Súmula 279 do STF, que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”. No mesmo sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO COMERCIAL. RECUPERAÇÃO JUDICIAL. EXIGÊNCIA DE CERTIDÕES NEGATIVAS DE DÉBITOS PARA LIBERAÇÃO DE VALORES POR EMPRESA DA ADMINISTRAÇÃO INDIRETA. SUPOSTA VIOLAÇAO AO ATO JURÍDICO PERFEITO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. INEXISTÊNCIA. MULTA DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.” (RE 823.131-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 31/5/2016)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Civil. 3. Averbação no Registro das Pessoas Jurídicas e de Títulos e Documentos. Exigência de Certidão Negativa de Débitos. INSS. FGTS. 4. Controvérsia que se restringe ao âmbito da legislação local. Consolidação Normativa Notarial e Registral. Súmula 280 do SFT. 5. Agravo regimental a que se nega provimento.” (ARE 830.642-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 25/2/2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. REGIME ESPECIAL DE FISCALIZAÇÃO DE DEVEDOR CONTUMAZ. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DO REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 805.558-AgR, Min. Rel. Cármen Lúcia, Segunda Turma, DJe de 13/6/2014)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
