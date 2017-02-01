@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à condenação do acusado à pena de um ano e seis meses de reclusão, em regime fechado, pela prática do delito previsto no artigo 180, cabeça, do Código Penal. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 5º, inciso II, e 93, inciso IX, da Constituição Federal. Argui a nulidade da decisão, por deficiência de fundamentação acerca da fixação do regime inicial fechado. Diz contrariado o princípio da proporcionalidade, ante a utilização em duplicidade dos maus antecedentes - para majorar a pena base e para estabelecer o respectivo regime inicial de cumprimento.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho trecho do acórdão recorrido:
+    O Juiz a quo aplicou corretamente a pena na sentença, fixada de acordo com os parâmetros previstos em lei, motivada e individualizada,condenando o apelante à pena-base de 01 ano e 06 meses de reclusão, bem como no pagamento de multa equivalente a 15 dias-multa, em razão dos antecedentes do apelante.
+    Quanto ao regime inicial de cumprimento da pena, foi decidido pelo regime fechado, conforme preconiza o artigo 33, §3º,do Código Penal, pois o apelante também já foi condenado anteriormente pelo crime da mesma espécie.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 1º de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
