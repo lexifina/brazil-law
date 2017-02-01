@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recursos – recurso extraordinário, de um lado, e agravo, de outro –, interpostos, respectivamente, pela Empresa Brasileira de Correios e Telégrafos – ECT e pelo Município de São Paulo.
+    O exame da presente causa, no entanto, evidencia que os apelos extremos (tanto o admitido quanto o que não o foi) não se mostram processualmente viáveis.
+    Com efeito, no que se refere ao recurso extraordinário deduzido pela Empresa Brasileira de Correios e Telégrafos – ECT, a controvérsia jurídica nele suscitada já foi dirimida pela colenda Primeira Turma desta Suprema Corte que, ao julgar o RE 856.185-AgR/PR, Rel. Min. ROBERTO BARROSO, fixou entendimento consubstanciado em acórdão assim ementado:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TAXA DE LICENÇA PARA LOCALIZAÇÃO DE ESTABELECIMENTO. CONSTITUCIONALIDADE. BASE DE CÁLCULO. PROPORCIONALIDADE COM O CUSTO DA ATIVIDADE ESTATAL DE FISCALIZAÇÃO. PRECEDENTES.
+    1. Nos termos da jurisprudência da Corte, a taxa de renovação de licença de funcionamento é constitucional, desde que haja o efetivo exercício do poder de polícia, o qual é demonstrado pela mera existência de órgão administrativo que possua estrutura e competência para a realização da atividade de fiscalização.
+    2. A base de cálculo da taxa de fiscalização e funcionamento fundada na área de fiscalização é constitucional, na medida em que traduz o custo da atividade estatal de fiscalização. Quando a Constituição se refere às taxas, o faz no sentido de que o tributo não incida sobre a prestação, mas em razão da prestação de serviço pelo Estado. A área ocupada pelo estabelecimento comercial revela-se apta a refletir o custo aproximado da atividade estatal de fiscalização.
+    3. Agravo regimental a que se nega provimento.”
+    De outro lado, no tocante ao recurso extraordinário deduzido pelo Município de São Paulo, verifico que o acórdão nele impugnado decidiu a causa em estrita conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em referência.
+    É que a colenda Primeira Turma desta Suprema Corte, ao julgar o RE 727.579-AgR/SP, Rel. Min. ROSA WEBER, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte em questão:
+    “DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. TAXA DE INSTALAÇÃO, LOCALIZAÇÃO E FUNCIONAMENTO. BASE DE CÁLCULO. NÚMERO DE EMPREGADOS DO ESTABELECIMENTO. ELEMENTO ESTRANHO AO CUSTO DA ATIVIDADE ESTATAL NO REGULAR EXERCÍCIO DO PODER DE POLÍCIA. INCONSTITUCIONALIDADE. DECISÃO REGIONAL EM HARMONIA COM A JURISPRUDÊNCIA DO STF. PRECEDENTES. ACÓRDÃO REGIONAL DISPONIBILIZADO EM 01.12.2011.
+    As razões do agravo regimental não são aptas a infirmar os fundamentos da decisão agravada, mormente no que se refere à conformidade do entendimento regional com a jurisprudência do STF, a inviabilizar o trânsito do recurso extraordinário.
+    Agravo regimental conhecido e não provido.”
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o agravo deduzido pelo Município de São Paulo, nego provimento ao recurso extraordinário a que ele se refere e, de outro lado, nego provimento ao apelo extremo interposto pela Empresa Brasileira de Correios e Telégrafos – ECT, por acharem-se ambos os recursos em confronto com entendimento firmado por esta Suprema Corte (CPC/15, art. 932, VIII e RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
