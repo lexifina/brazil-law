@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. PENSÃO POR MORTE. CONCESSÃO ANTERIOR À EDIÇÃO DA LEI Nº 9.032/95. ALTERAÇÃO. PERCENTUAL. NOVA REDAÇÃO DO ARTIGO 75 DA LEI Nº 8.213/91. APLICAÇÃO IMEDIATA DA NORMA SUPERVENIENTE MAIS BENÉFICA. SENTENÇA MANTIDA.
+    O valor mensal da pensão por morte concedido antes da Lei 9.032, de 28 de abril de 1995, deve ser revisado de acordo com a nova redação dada ao artigo 75 da Lei nº 8.213, de 24 de julho de 1991. Aplicação ao caso do Enunciado nº 15 da Turma Nacional de Uniformização de Jurisprudência/JEF.
+    Inexiste aplicação retroativa de lei nova para prejudicar ato jurídico perfeito ou suposto direito adquirido por parte da Administração Pública, mas sim incidência imediata de nova norma para regular situação jurídica que, embora tenha se aperfeiçoado no passado, irradia efeitos jurídicos para o futuro. Entendimento do Egrégio Supremo Tribunal Federal (RE 422268 AgR/SP, 1ª Turma, Relator Ministro Eros Grau, DJ de 24/06/2005).
+    Sentença mantida. Acórdão lavrado nos termos do art. 46 da Lei 9.099/95.
+    Recurso não provido. Honorários pelo recorrente, fixados em 10% (dez por cento) sobre o valor da condenação, excluídas as parcelas vincendas. Aplicação da Súmula 111/STJ” (pág. 55 do documento eletrônico 1).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXXVI, e 195, § 5º, da mesma Carta.
+    Esta Corte, ao julgar o RE 597.389-QO-RG (Tema 165), da relatoria do Ministro Presidente, firmou tese no sentido de que “a revisão de pensão por morte e demais benefícios, constituídos antes da entrada em vigor da Lei 9.032/1995, não pode ser realizada com base em novo coeficiente de cálculo estabelecido no referido diploma legal”. Por oportuno, trago à colação a ementa desse julgado:
+    “Questão de ordem. Recurso extraordinário. 2. Previdência Social. Revisão de benefício previdenciário. Pensão por morte. 3. Lei nº 9.032, de 1995. Benefícios concedidos antes de sua vigência. Inaplicabilidade. 4. Aplicação retroativa. Ausência de autorização legal. 5. Cláusula indicativa de fonte de custeio correspondente à majoração do benefício previdenciário. Ausência. 6. Jurisprudência pacificada na Corte. Regime da repercussão geral. Aplicabilidade. 7. Questão de ordem acolhida para reafirmar a jurisprudência do Tribunal e determinar a devolução aos tribunais de origem dos recursos extraordinários e agravos de instrumento que versem sobre o mesmo tema, para adoção do procedimento legal. 8. Recurso extraordinário a que se dá provimento”.
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento (art. 557, § 1º-A, do CPC/1973). Honorários a serem fixados juízo de origem, nos termos do CPC/1973.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
