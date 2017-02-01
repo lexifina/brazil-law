@@ -1,0 +1,7 @@
+Solução de Divergência Cosit nº 14, de 27 de janeiro de 2017
+ASSUNTO: Imposto sobre Produtos Industrializados – IPI
+EMENTA: INDUSTRIALIZAÇÃO DE BEBIDAS ALCOÓLICAS POR ENCOMENDA. POSSIBILIDADE DE REMESSA DE MATÉRIA-PRIMA OU PRODUTO INTERMEDIÁRIO COM SUSPENSÃO DO IPI.
+Na industrialização sob encomenda de bebidas alcoólicas, classificadas nas Posições 22.04, 22.05, 22.06 e 22.08 da Tipi, quando o encomendante for estabelecimento produtor, comercial atacadista ou cooperativa de produtor e a remessa de MP ou PI para o estabelecimento industrializador (executor da encomenda) for de bebidas alcoólicas classificadas nas posições supracitadas, acondicionadas em recipientes de capacidade superior ao limite máximo permitido para venda a varejo, a remessa de tais insumos pelo encomendante ao estabelecimento executor da encomenda dar-se-á obrigatoriamente com a suspensão do IPI, nos termos do art. 44 c/c art. 432 do Ripi/2010. Nesse caso, por força dos artigos retromencionados, é vedado o destaque do imposto na nota fiscal emitida.
+Os demais insumos poderão sair, a critério do encomendante, com destaque do IPI ou com o uso da suspensão prevista no art. 43, inciso VI, do RIPI/2010, com destino ao estabelecimento industrializador.
+DISPOSITIVOS LEGAIS: Lei nº 9.493, de 10 de setembro de 1997, arts. 3º e 4º; Lei nº 7.798, de 10 de julho de 1989, art. 4º; Decreto nº 7.212, de 15 de junho de 2010, arts. 43, incisos VI e VII, 44 e 432.
+[arquivo anexo: SD Cosit nº 14-2017 .pdf]
