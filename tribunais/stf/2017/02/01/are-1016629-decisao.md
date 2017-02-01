@@ -1,0 +1,28 @@
+DECISÃO: O presente agravo foi interposto pela Fundação Beneficente de Corupá contra decisão que negou trânsito ao apelo extremo por ela deduzido, no qual sustentou que o acórdão proferido pelo E. Tribunal Superior do Trabalho teria transgredido os preceitos inscritos no art. 7º, XIII e XXVI, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Consolidação das Leis do Trabalho), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Impõe-se observar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal Superior do Trabalho, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios:
+    “O egrégio Colegiado Regional condenou a reclamada ao pagamento, como extraordinárias, das horas laboradas após a 8ª e 44ª semanal, com adicional de 50% (cinquenta por cento), e reflexos, nos seguintes termos:
+    ‘Não há como validar o acordo de compensação firmado.
+    O autor habitualmente prestava serviços no sistema de 12 x 12 horas, ou seja, sem observância do período de 36 horas de descanso a que teria direito. É o que se constata, por exemplo, nos dias 29 e 30-11-2008 (fl. 34 do volume de documentos) e 2 e 3-04-2009 (fl. 36 do volume de documentos).
+    ..............................................................................................
+    Ademais, da análise dos cartões-ponto, constato a existência de prestação habitual de horas extras, tendo em vista que, em várias ocasiões, a obreira laborou além das 12 horas ajustadas, mesmo considerando-se o disposto no § 1º do art. 58 da CLT; é o que se constata, por amostragem, no trabalho prestado entre os dias 09 e 10-11-2008 e 23 e 24-11-2008 (fl. 34 do volume de documentos).
+    Assim, a inobservância das exigências legais relativas à prorrogação e compensação de jornada implica a nulidade ‘pleno jure’ do regime em que pretensamente não havia horário excedente, trazendo como consequência o pagamento integral das horas extras’ (fls. 802/804).
+    …...................................................................................................
+    O recurso não alcança conhecimento.
+    Conforme se observa, a Corte Regional considerou nulo o acordo de compensação de jornada, sob o fundamento de que o reclamante ‘habitualmente prestava serviços no sistema de 12 x 12 horas, ou seja, sem observância do período de 36 horas de descanso a que teria direito.’”
+    Cabe assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 738.680-AgR/SP, Rel. Min. LUIZ FUX – ARE 932.403/SP, Rel. Min. DIAS TOFFOLI, v.g.):
+    “TRABALHISTA. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. JORNADA DE TRABALHO DE 12X36 HORAS. COMPENSAÇÃO. PREVISÃO EM ACORDO COLETIVO. VALIDADE. HORAS EXTRAS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. ALEGAÇÃO DE AFRONTA AOS ARTIGOS 5º, XXXV, LIV E LV, E 93, IX, DA CONSTITUIÇÃO FEDERAL.
+    1. O recurso extraordinário é inadmissível quando a aferição de violação constitucional dependente da análise do malferimento de dispositivo infraconstitucional encerra ofensa reflexa e oblíqua. Precedentes: AI n. 738.145-AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 25.02.11; AI n. 482.317-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma DJ 15.03.11; AI n. 646.103-AgR, Rel. Ministra CÁRMEM LÚCIA, 1ª Turma, DJ 18.03.11.
+    2. Os postulados da legalidade, do devido processo legal, da ampla defesa, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se violados, ‘in casu’, a ofensa seria indireta ou reflexa, o que também inviabiliza o recurso extraordinário. Precedentes: AI n. 803.857-AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 17.03.11; AI n. 812.678-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma, DJ 08.02.11; AI n. 513.804- -AgR, Rel. Min. JOAQUIM BARBOSA, 1ª Turma, DJ 01.02.11.
+    3. Agravo regimental desprovido.”
+    (AI 800.274-AgR/RS, Rel. Min. LUIZ FUX)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
