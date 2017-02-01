@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro – TJRJ, ementado nos seguintes termos:
+    “MANDADO DE SEGURANÇA. ITBI. MUNICÍPIO DO RIO DE JANEIRO. DISSOLUÇÃO DE PESSOA JURÍDICA. IMÓVEL INICIALMENTE ADQUIRIDO PELA PESSOA JURÍDICA POR INCORPORAÇÃO FEITA PELO GENITOR DO ATUAL SÓCIO, ORA APELANTE. CORREÇÃO DA EXAÇÃO SOBRE A TRANSFERÊNCIA DO IMÓVEL PARA O ATUAL SÓCIO, ORA APELANTE. EM SE TRATANDO DE NÃO INCIDÊNCIA DE TRIBUTO, A LEGISLAÇÃO DEVE SER INTERPRETADA RESTRITIVAMENTE. O FATO DE NÃO TER HAVIDO INCIDÊNCIA DO TRIBUTO POR OCASIÃO DA INCORPORAÇÃO DO IMÓVEL AO PATRIMÔNIO DA PESSOA JURÍDICA (ART. 156, § 2º, INC. I DA CF), NÃO INDUZ À HIPÓTESE DE NÃO INCIDÊNCIA POR OCASIÃO DO INGRESSO DAQUELE MESMO BEM NO PATRIMÔNIO DO SÓCIO EM RAZÃO DA EXTINÇÃO DA PESSOA JURÍDICA, AINDA MAIS QUANDO O SÓCIO NÃO É AQUELE QUE PROMOVEU O INGRESSO DAQUELE BEM NO PATRIMÔNIO DA PESSOA JURÍDICA. HIPÓTESE PREVISTA COMO FATO GERADOR DE ITBI, NOS TERMOS DO ART. 5º, INC. VIII E 20, INC. I DA LEI MUNICIPAL Nº 1.364/88. PRECEDENTES DESTE E. TJRJ. SENTENÇA MANTIDA. NEGADO PROVIMENTO AO RECURSO”. (eDOC 5, p. 7)
+    Embargos de declaração rejeitados. (eDOC 5, p. 29)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, LV, e 156, § 2º, I, do texto constitucional. (eDOC 5, p. 39)
+    Nas razões recursais, alega-se, em síntese, a imunidade de ITBI sobre a operação, tendo em vista que a transferência se deu em virtude de extinção da pessoa jurídica na qual o recorrente, pessoa física, figurava como sócio, a título de devolução de capital. (eDOC 6, p. 14)
+    Decido.
+    O recurso não merece prosperar.
+    Na hipótese, verifico que o Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipal nº 1.364/88) e o conjunto probatório constante dos autos, consignou que “a transferência de bens de pessoa jurídica para seu sócio ou acionista constitui fato gerador de ITBI, nos termos do disposto nos art. 5º, inc. VIII e 20, inc. I da lei municipal nº 1.364/88”. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Na hipótese presente, o impetrante, ora apelante, informou que o imóvel em questão havia sido incorporado ao patrimônio da pessoa jurídica CAPURI PARTICIPAÇÕES LTDA. pelo seu genitor.
+    Deste modo, na operação de transferência em questão, o imóvel, objeto da exação, não retornaria ao patrimônio do seu anterior proprietário, no caso, o genitor do ora recorrente, mas sim, passará a integrar o patrimônio do ora recorrente, filho daquele, enquanto sócio da pessoa jurídica CAPURI PARTICIPAÇÕES LTDA.
+    Portanto, em se tratando de não incidência de tributo, a legislação deve ser interpretada restritivamente, não se podendo proceder a sua aplicação por similitude de operações, ou seja, o fato de não ter havido incidência do tributo por ocasião da incorporação do imóvel ao patrimônio do sócio em razão da extinção da pessoa jurídica, ainda mais quando o sócio não é aquele que promoveu o ingresso daquele bem no patrimônio da pessoa jurídica.
+    Ademais, a transferência de bens de pessoa jurídica pra seu sócio ou acionista constitui fato gerador de ITBI, nos termos do disposto no art. 5º, inc. VIII e 20, inc. I da lei municipal nº 1.364/88, consoante se verifica da jurisprudência do E. TJRJ sobre o tema:
+    (…)” (eDOC 5, p. 9-11)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO INTER VIVOS A QUALQUER TÍTULO DE BENS IMÓVEIS E DE DIREITOS REAIS SOBRE IMÓVEIS. IMUNIDADE. Transações destinadas à redução de capital societário. Natureza das atividades. Reexame de fatos e provas: Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental ao qual se nega provimento. (AI 858.188 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe. 20.11.2013)
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. (ARE 737.754 ED-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe. 11.10.2013)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 1 º de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
