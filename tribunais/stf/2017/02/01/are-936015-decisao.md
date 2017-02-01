@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que deixou de admitir recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da Primeira Região, cuja ementa transcrevo:
+    “ADMINISTRATIVO. COMERCIAL. DEPÓSITO. CONAB. PRESCRIÇÃO TRIMESTRAL. DECRETO 1.102/1903, ART. 11. VIGÊNCIA. PROVIMENTO DO RECURSO.
+    1. A atividade de armazéns gerais continua regida pelo Decreto 1.102/1903 que, por ser norma específica, não foi revogada pela legislação superveniente nem pelo Código Civil, haja vista tratar-se de relação de caráter mercantil.
+    2. A verificação de suposto extravio de grãos depositados deflagra o prazo para cobrança fiscal, conforme legislação tributária, e outro para indenização do depositante, no caso de 3 (três) meses, conforme art. 11 § 1º do Decreto 1.102/1903.
+    3. O tema é controverso, mas a jurisprudência do Superior Tribunal de Justiça – STJ e do próprio TRF1ª Região tem reafirmado o caráter mercantil do depósito e a prescrição trimestral da indenização (STJ, 4ª Turma, REsp n. 302737/SP, rel. Ministro RUY ROSADO DE AGUIAR, julg. 4/12/2001, DJ de 18.03.2002; no mesmo sentido, TRF1ª Região, REO 0009322-60.1997.4.01.3500 / GO, Rel. JUIZ FEDERAL GRIGÓRIO CARLOS DOS SANTOS, 4ª TURMA SUPLEMENTAR, e-DJF1 p.90 de 11/04/2012).”
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, da Constituição Federal, aponta-se ofensa ao artigo 37, § 5 º, da Constituição da República, sob o argumento de violação ao preceito que estabelece prazos de prescrição para ilícitos praticados por qualquer agente, servidor ou não, que causem prejuízos ao erário. Requer-se a não recepção da previsão prescricional trimestral do Decreto 1.102/1903.
+    A Presidência do Tribunal a quo negou seguimento ao recurso extraordinário por tratar-se de matéria infraconstitucional.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Da leitura dos fundamentos da decisão do acórdão ora impugnado, depreende-se que o Tribunal de origem, reformando a sentença originária, deu provimento à apelação das partes Recorridas para, com base na jurisprudência reiterada do STJ e no entendimento do TRF 1ª Região, considerar o caráter mercantil do depósito assim como sua prescrição trimestral, nos termos do Decreto 1.102/1903.
+    Entretanto, embora haja estribo argumentativo na possível afronta ao direito de indenização, garantida no parágrafo 5º do artigo 37, do Texto Constitucional, a parte Recorrente fundamenta o apelo extremo em argumentos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em norma infraconstitucional (art. 11 § 1º do Decreto 1.102/1903), o que não é cabível em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+     Nesse mesmo sentido têm-se observado em julgamentos, proferidos no âmbito desta Suprema Corte, que tratam sobre a mesma matéria: ARE 890.112-AgR/MS, Rel. Min. Gilmar Mendes, ARE 978.637/DF, Rel. Min. Dias Toffoli e AI 853.917-AgR/RS, Rel. Min. Roberto Barroso, assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. DEPÓSITO DE GRÃO DE ARROZ. PERDA PARCIAL. RESSARCIMENTO. PRESCRIÇÃO CARACTERIZADA. DECRETO Nº 1.102/1903. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. O exame do recurso extraordinário permite constatar que a hipótese envolveria a interpretação de legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Precedentes. A decisão agravada apresenta fundamentação suficiente, embora em sentido contrário aos interesses da parte recorrente, circunstância que não configura violação ao art. 93, IX, da CF/88. Agravo regimental a que se nega provimento.”
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2.017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
