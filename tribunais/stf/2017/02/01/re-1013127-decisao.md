@@ -1,0 +1,25 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “MANDADO DE SEGURANÇA. ANULAÇÃO DE ATO ADMINISTRATIVO. CONCURSO PÚBLICO PARA AGENTE DE SEGURANÇA PRISIONAL. EXAME PSICOTÉCNICO. EXCLUSÃO DO CERTAME. AUSÊNCIA DE MOTIVAÇÃO COM CRITÉRIOS SUBJETIVOS. INADMISSIBILIDADE. SUBMISSÃO A NOVO EXAME. CONSEQUÊNCIA LÓGICA DA DECLARAÇÃO DE NULIDADE. PRECEDENTES. PRINCÍPIO DA SEPARAÇÃO DE PODERES.
+    1. A ausência de motivação específica no exame psicotécnico em que fora excluído o Impetrante do concurso público viola os consagrados princípios constitucionais da legalidade, impessoalidade, moralidade, publicidade e eficiência, além do direito de defesa e do contraditório.
+    2. O exame psicotécnico deve adotar critérios científicos objetivos sobre a personalidade do candidato voltados, especificamente, para este, para aferição isenta de capacidade profissional. Não é válida a apreciação meramente subjetiva.
+    3. Apesar da nulidade da avaliação psicológica realizada , os candidatos eliminados, nesta etapa do certame, não têm direito de ser nomeados e empossados sem passar por novo exame em razão do princípio da isonomia, devendo ser realizado novo teste psicotécnico, respeitando todas as exigências necessárias para sua validade. Precedentes do excelso STF e do c. STJ.
+    5. É permitido à Administração Pública rever os atos de seus agentes e ou prepostos, inclusive invalidá-los, se comprovadamente ilegais; entretanto, não exercitada a prerrogativa, incumbe ao Poder Judiciário perquirir da legalidade ou não do ato impugnado, sem que, com isso, implique em violação ao princípio da separação dos poderes. ORDEM MANDAMENTAL PARCIALMENTE CONCEDIDA (grifos no original, págs. 155-156 do documento eletrônico 1).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 37, caput e II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Observa-se que o tribunal de origem consignou que:
+    “Com efeito, na hipótese vertente, procede o inconformismo do Impetrante, uma vez que sua eliminação do certame, em razão de sua inaptidão no exame psicológico ao qual foi submetido, padece de razoabilidade, proporcionalidade e, sobretudo, objetividade, na medida em que, no caso, o exame psicológico não representa suporte constitucional para afastar candidatos, quando amparado em critérios puramente subjetivos e sigilosos, nos termos que passo a expor” (pág. 144 do documento eletrônico n. 1).
+    Por sua vez, o recorrente cingiu-se a alegar ofensa ao art. 37 da Constituição Federal, sob o argumento de que:
+    “(...) a Lei Maior determinou que a investidura em cargo público depende de prévia aprovação no concurso público, na forma prevista na Lei, e a Lei Estadual n° 14.237/02, claramente determina em seu artigo 5°, inciso IV (doc-03):
+    ‘O ingresso na carreira dar-se-á, no Nível 1, por aprovação prévia em concurso público de provas ou de provas e títulos.
+    Parágrafo único – Serão exigidos para o provimento do cargo de Agente de Segurança Prisional os seguintes requisitos, conforme se dispuser em ato do Poder Executivo;
+    IV – equilíbrio emocional;’
+    Como se aferir o equilíbrio emocional se não for através do psicotécnico? Em se tratando do cargo de Agente Prisional sobejam razões para essa exigência, que tem respaldo legal, pois as atribuições do cargo exigem forte controle emocional” (grifos no original, págs. 48-49 do documento eletrônico 2).
+    Assim, verifico que o acórdão recorrido apoiou-se na ocorrência de reprovação em exame psicotécnico fundada em critérios subjetivos e sigilosos. Esse fundamento, suficiente para a manutenção do acórdão impugnado, não pode ser afastado na instância extraordinária, visto que seria necessária a análise prévia da legislação infraconstitucional, sendo certo que eventual ofensa à Constituição seria meramente indireta.
+    Além disso, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos e das normas infraconstitucionais locais pertinentes ao caso, o que é vedado pelas Súmulas 279 e 280 do STF, conforme revela o RE 930.646-AgR/DF, de relatoria do Ministro Gilmar Mendes:
+    “Agravo regimental no recurso extraordinário. 2. Concurso público. Exame psicotécnico. Critérios subjetivos. 3. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279 do STF. 4. Necessidade da interpretação das cláusulas do edital. Impossibilidade. Súmula 454 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento”.
+    Nesse mesmo sentido, cito o ARE 968.142/MG, Relatora Ministra Cármen Lúcia; RE 934.363/RJ, Relatora Ministra Rosa Weber; RE 931.763/DF, Relator Ministro Celso de Mello e o ARE 897.593/DF, Relator Minstro Edson Fachin.
+    Isso posto, nego seguimento ao recurso (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 1° de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
