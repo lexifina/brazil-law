@@ -1,0 +1,26 @@
+Trata-se de mandado de segurança, com pedido de liminar, impetrado pelo Sindicato dos Agentes Lotéricos, Correspondentes Bancários, Comissários e Consignatários do Estado do Rio Grande do Sul contra ato do Tribunal de Contas da União.
+    O impetrante narra, inicialmente, que:
+    “No pedido do SINDICATO de acesso à informação encaminhado, por meio de petição protocolada em agosto sob o nº 0000555885671, ao MINISTRO RELATOR RAIMUNDO CARREIRO DO TRIBUNAL DE CONTAS DA UNIÃO, foram solicitadas/requeridas informações acerca dos Estudos Técnicos realizados pela Caixa Econômica Federal, quando ao Pregão Eletrônico 302/7072-2016 promovido pela Caixa Econômica Federal – Gerência de Filial Logística Porto Alegre-Gilog/PO.
+    Para essa solicitação, a SEC-SC/ASS fundou-se no artigo 146 do Regimento Interno – TCU para entregar ao SINDICATO cópia integral do processo, no entanto, não foram disponibilizadas as peças de nº 8 a 13, em atendimento a diligência da Caixa que solicitou sigilo.
+    O referido processo tinha como escopo a anulação da licitação em razão da ausência de estudos técnicos previstos no art. 3º da Lei 12.869/2013, imprescindível à abertura de processo licitatório. O Sindicato, questiona também as condições de procedibilidade atuais no mercado, devido a grande defasagem e problemas financeiros em massa no mercado de loterias no sul do país, o que é, inclusive objeto da ação 5042188-23.2014.4.04.7100, que tramita na 5ª Vara Federal de Porto Alegre, sendo a informação postulada de suma importância à atividade do postulante em defesa dos interesses do seus associados.
+    Ao denegar o acesso à informação, somente foi informado que a CAIXA havia solicitado sigilo dos documentos acostados, no entanto, o Sindicato tem informações de que o estudo técnico feito pela Caixa abrangia somente o estado de SANTA CATARINA e não do RIO GRANDE DO SUL. Sendo a informação verdadeira, estaríamos diante de fato novo que justificaria o questionamento judicial da licitação, em sendo falsa, o Sindicato, e os permissionários lotéricos, tem o direito de conhecer estudos técnicos, que pautam toda sua atividade fim” (págs. 2-3 do documento eletrônico 1 – grifos no original).
+    Alega, em síntese, que:
+    “No que tange ao mérito, assevera-se a existência de direito líquido e certo, consubstanciado em seu poder-dever de requisitar/solicitar informações e documentos às autoridades e pessoas sujeitas à jurisdição do TCU, e no direito de acesso à informação e documentos, conforme art. 5º, XXXIII, da CF/88 e Lei nº 12.527/11. Sendo cristalina a aferição de que tal documentação encontra-se no âmbito de interesse dos lotéricos do Rio Grande do Sul, por conseguinte, do Sindicato postulante.
+    Para isso, refuta-se o argumento de que não podem ser demonstrados os documentos porque a CAIXA entende ser inadequado, sendo que a própria Lei de Acesso à Informação (Lei nº 12.527/11) foi criada justamente para que pessoas naturais e jurídicas pudessem ter o completo acesso;
+    Dentre doutrina e jurisprudência, colaciona-se, notadamente, no presente Mandado de Segurança, julgados do Supremo Tribunal Federal, no sentido de que  ‘A prevalência do princípio da publicidade administrativa outra coisa não é senão um dos mais altaneiros modos de’ (SS 630/RS; SL 623/DF e Tutela Antecipada na ACO 1993/DF).
+    Ao final, pede-se liminar e, após o trâmite legal, a confirmação da segurança” (pág. 3 do documento eletrônico 1).
+    É o relatório necessário. Decido o pleito cautelar.
+    Inicialmente, ressalto que tenho por preenchidos, prima facie, os pressupostos de admissibilidade deste mandado de segurança.
+    O sindicato está legitimado à impetração do writ, nos termos em que se propõe a presente ação, e a autoridade apontada como coatora é parte legítima, porquanto o ato impugnado, do qual se alega lesão a direito, foi proferido pelo Tribunal de Contas da União por meio do Acórdão 1.977/2016 (documento eletrônico 9).
+    Muito bem. O deferimento de liminar em mandado de segurança, que resulta do concreto exercício do poder geral de cautela outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos pressupostos constantes do art. 7°, III, da Lei 12.016/2009, ou seja, ante (i) a existência de fundamento relevante e (ii) da possibilidade de ineficácia da ordem de segurança posteriormente concedida.
+    Sem a ocorrência simultânea desses dois requisitos, que são necessários, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Na espécie, não vislumbro, nesse juízo de delibação, a possibilidade de ineficácia da medida, caso seja deferida em momento posterior a essa análise.
+    Ademais, no caso concreto, a cautelar pleiteada tem caráter satisfativo, confundindo-se com o próprio mérito da impetração, o qual será oportunamente examinado pela turma julgadora.
+    Isso posto, indefiro a liminar.
+    Notifique-se a autoridade coatora para que preste as informações no prazo previsto em lei.
+    Dê-se ciência desta impetração à Advocacia-Geral da União, enviando-lhe cópia da inicial.
+    Após, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 1° de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
