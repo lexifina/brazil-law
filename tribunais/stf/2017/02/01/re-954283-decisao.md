@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso extraordinário interposto por Calçados Killana Ltda. contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “CRÉDITOS FISCAIS CONCEDIDOS NO ÂMBITO DO REGIME ESPECIAL DE REINTEGRAÇÃO DE VALORES TRIBUTÁRIOS PARA AS EMPRESAS EXPORTADORAS – REINTEGRA. TRIBUTAÇÃO DE IRPJ E CSLL. DESCABIMENTO.
+    Os valores referentes aos créditos fiscais auferidos pela empresa exportadora no âmbito do Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras – REINTEGRA devem compor a base de cálculo do IRPJ e CSLL, porque correspondem a recuperação de custos.”
+    A parte ora recorrente sustenta, no apelo extremo em questão, que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o E. Tribunal Regional Federal da 4ª Região, para dar provimento à apelação cível da parte ora recorrida, apoiou-se em dispositivos de ordem meramente legal:
+    “Os tributos restituídos à parte impetrante a título de incentivo, por força da Lei nº 12.546, de 2011 (REINTEGRA), constituem base de cálculo do IRPJ e CSLL. Isso porque trata-se de incentivo financeiro (cf. TORRES, R. L. Tratado de Direito Constitucional, Financeiro e Tributário, volume V: o orçamento na Constituição. 3ª ed. Rio de Janeiro: Ed. Renovar, 2008. p. 328), qualificável contábil e tributariamente como recuperação ou devolução de custos (Lei nº 4.506, de 1964, artigo 44, III). Nesse sentido, esta 2ª Turma decidiu, por maioria, no julgamento da Apelação Cível nº 5004539- -34.2013.404.7108. (…):”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável, por tratar-se de aplicação, ao caso concreto, de normas eminentemente infraconstitucionais.
+    Sendo assim, e tendo em considerações as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Inaplicável ao caso o art. 1.033 do CPC/15 em razão de o E. Superior Tribunal de Justiça já ter apreciado recurso especial deduzido nos autos.
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
