@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de São Paulo, do qual transcrevo o seguinte trecho:
+          “O apelante se mostra resignado com o reconhecimento de sua responsabilidade penal, aliás, bem positivada nos autos, tanto assim que, interrogado, em Juízo, confessou a prática dos fatos descritos na denúncia (fls. 137 a 139).
+    Objetiva, tão somente, a substituição do regime inicial intermediário estabelecido na r. sentença recorrida pelo aberto.
+    Sem razão, porém, em que pese o entendimento da ilustrada Procuradoria Geral de Justiça.
+    É que a condição de reincidente especifico, ostentada pelo apelante (fls. 18 e 20 a 21, do pedido de liberdade provisória em apenso) obsta a fixação do regime inicial aberto e justifica o estabelecimento do regime prisional intermediário.
+    A respeito: "O regime inicial aberto não é hábil à apenação de agente reincidente, de acordo com o art. 33, c, do CP, sendo possível, se a reprimenda não for superior a 8 anos, a concessão do regime semi-aberto" (RJDTACRIM, vol. 31, pág. 268). Em igual sentido: RJTJSP., vol. 122, pág. 479, Rel. Dês. Ary Belfort.
+    De outra feita, referindo-se as condenações anteriores, configuradoras de reincidência, à prática do mesmo delito de que tratam os presentes autos, impossível a substituição da pena privativa de liberdade por restritiva de direitos, ex vi do disposto no artigo 44, parágrafo 30, parte final, do Código Penal.
+    Preserva-se, pois, a r. sentença apelada, que bem decidiu a lide. Isto posto, nega-se provimento ao recurso. Expeça-se mandado de prisão, após o trânsito em julgado.” (eDOC 2, fls. 111-112)
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido violou os artigos 5º, inciso XLVI, a, da Constituição Federal (eDOC 2, fl. 146, e eDOC 3, fls. 1-6).
+    O Tribunal a quo não admitiu a irresignação em decorrência do óbice dos enunciados nº 279 e 282 do STF (eDOC 3, fls. 52-54).
+    Contra referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário.
+    Sustenta-se que o acórdão recorrido teria deixado de observar o princípio da individualização da pena, bem como negado aplicação do artigo 3, § 2º, c do Código Penal ao caso em tela.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que a fixação do regime semiaberto para início de cumprimento da pena imposta, foi fixado, de forma objetiva e clara, somente em face da reincidência do ora recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “(...)
+    É que a condição de reincidente especifico, ostentada pelo apelante (fls. 18 e 20 a 21, do pedido de liberdade provisória em apenso) obsta a fixação do regime inicial aberto e justifica o estabelecimento do regime prisional intermediário.
+    (…)
+    De outra feita, referindo-se as condenações anteriores, configuradoras de reincidência, à prática do mesmo delito de que tratam os presentes autos, impossível a substituição da pena privativa de liberdade por restritiva de direitos, ex vi do disposto no artigo 44, parágrafo 30, parte final, do Código Penal.” (eDOC 2, fls. 111-112)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Neste sentido cito precedente:
+    “Agravo regimental em habeas corpus. 2. Furto. Insignificância. No julgamento conjunto dos HC 123.108, 123.533 e 123.734, o STF fixou orientação sobre a aplicação do princípio da insignificância aos casos de furto – Rel. Min. Roberto Barroso, Pleno, julgados em 3.8.2015. Decidiu que, se a coisa subtraída é de valor ínfimo (i) a reincidência, a reiteração delitiva e a presença das qualificadoras do art. 155, § 4º, devem ser levadas em consideração, podendo acarretar o afastamento da aplicação da insignificância; e (ii) nenhuma dessas circunstâncias determina, por si só, o afastamento da insignificância, cabendo ao juiz analisar se a aplicação de pena é necessária. Além disso, conclui que, (iii) uma vez aplicada pena privativa de liberdade inferior a quatro anos de reclusão ao reincidente, o juiz pode, se considerar suficiente, aplicar o regime inicial aberto, afastando a incidência do art. 33, § 2º, “c”, do CP. 3. As instâncias ordinárias têm margem larga para avaliação dos casos, concluindo pela aplicação ou não da sanção e, se houver condenação, fixando o regime. Essa atividade envolve análise do conjunto das circunstâncias e provas produzidas no caso concreto. Apenas em hipóteses excepcionais a via do habeas corpus será adequada a rever condenações. 4. Aplicação do princípio da insignificância. Subtração de aparelho celular, avaliado em R$ 72,00 (setenta e dois reais). Reincidência específica. O paciente registrava uma série de condenações e antecedentes, indicando que o furto em questão não fora uma ocorrência criminal isolada em sua vida. 5. Agravo regimental a que se nega provimento.” (HC -AgR 126.174, de minha relatoria, Segunda Turma, DJe 9.5.2016 grifei)
+    Assim, tendo em vista a situação em epígrafe, a interpretação a ser dada aos §2º e §3º do artigo 33 do Código Penal, é a seguinte: aos reincidentes condenados a pena igual ou inferior a quatro anos é permitido o cumprimento da pena em regime semiaberto, se favoráveis as circunstâncias judiciais. Ou seja, in casu, o regime legal é de fato o semiaberto, e as circunstâncias judiciais favoráveis somente se prestam a impedir que tal regime seja recrudescido.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
