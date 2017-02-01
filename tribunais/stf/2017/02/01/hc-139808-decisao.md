@@ -1,0 +1,27 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Ricardo Ruiz Cavenago e outros em favor de José Aparecido de Souza, contra decisão monocrática da lavra do Ministro Ericson Maranho (Desembargador convocado do TJSP), do Superior Tribunal de Justiça, que negou seguimento ao AREsp 869.563/SP.
+    O Ministério Público Federal ofereceu denúncia em desfavor da paciente pela suposta prática do crime de violação de direito autoral, tipificado no art. 184, § 2º, do Código Penal, por estar na posse de 212 (duzentos e doze) CD’s e 484 (quatrocentos e oitenta e quatro) DVD’s destinados à venda. O Juízo de Direito da 3ª Vara Criminal da Comarca de Marília/SP condenou o paciente à pena de 02 (dois) anos de reclusão, em regime aberto.
+    Em sede de apelação, o Tribunal de Justiça do Estado de São Paulo deu provimento ao recurso ministerial para fixar o regime semiaberto de cumprimento da pena.
+    A Defesa, então, interpôs recurso especial, que, inadmitido na origem, ensejou o manejo de agravo perante o Superior Tribunal de Justiça. O Ministro Ericson Maranho (Desembargador convocado do TJSP), via decisão monocrática, negou seguimento ao AREsp 869.563/SP.
+    No presente writ, alegam os Impetrantes, em síntese, nulidades processuais consubstanciadas na ausência de defesa técnica na ação penal de origem e na perícia realizada somente em ínfima parcela do acervo apreendido. Apontam existência de circunstâncias favoráveis, como residência fixa e família constituída. Salientam que o “paciente é idoso, sua condição financeira é precária e vive com 1 (um) salário mínimo de aposentadoria para sua subsistência”. Aduzem a atipicidade da conduta imputada ao paciente, porquanto “a nova redação do artigo excluiu do tipo penal o objeto material referente ao videofonograma (DVD)”. Ressaltam a deficiência da prova da materialidade do delito. Sustentam a possibilidade de aplicação do princípio da insignificância. Defendem o cumprimento da pena em regime aberto. Requerem, em medida liminar e no mérito, a cassação do édito condenatório, “absolvendo o paciente da pena que lhe foi imposta, colocando-o em liberdade”, e, sucessivamente, a fixação em regime aberto ou domiciliar.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...).
+    Alega o recorrente divergência jurisprudencial quanto ao regime inicial de pena.
+    Sustenta, em síntese, que a teor do enunciado n. 269 da Súmula do STJ, ‘nada impede que seja aplicado a ele o regime aberto, sobretudo quando as circunstâncias do artigo 59 do Código Penal o indicar como necessário e suficiente’ (fl. 296).
+    (…).
+    É o relatório. Decido.
+    A irresignação não prospera.
+    O acórdão objurgado fixou o regime intermediário, considerando que o sentenciado ‘além de possuir outras passagens pela Justiça Criminal, é reincidente, e, ainda, em crime específico’ (fl. 276).
+    Verifica-se que o aresto recorrido está em harmonia com a jurisprudência desta Corte, consoante se depreende dos seguintes julgados:
+    (…).
+    Ante o exposto, com fundamento no art. 544, §4º, II, b, do CPC, conheço do agravo e nego seguimento ao recurso especial.”
+    Registro a existência de óbice ao conhecimento do presente habeas corpus, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça. O ato impugnado é mera decisão monocrática e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Ademais, verifico que a decisão hostilizada teve como único objeto de apreciação o regime inicial de cumprimento da pena do paciente, fixado em semiaberto pela Corte Estadual dada a reincidência específica, nos termos do art. 33, § 2º, do Código Penal.
+    Nesse espectro, o ato dito coator está em consonância com a jurisprudência desta Suprema Corte no sentido de que “a pena inferior a 2 anos não cria direito subjetivo ao regime aberto, se ocorre circunstância não autorizadora (reincidência). Fixação do regime inicial semiaberto (art. 33, §, 2º. ‘c’, do CP” (ARE 825.677-AgR/SP, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 08.10.2014); e “As alíneas b e c do § 2º do art. 33 do Código Penal dispõem, expressamente, como pressuposto para a fixação dos regimes prisionais nelas estabelecidos (semiaberto e aberto), a não reincidência do condenado, sendo irrelevante o quantum de pena fixado na condenação” (HC 116.888/PR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.8.2013).
+    Por outro lado, as demais teses defensivas - ausência de defesa técnica, existência de circunstâncias favoráveis, atipicidade da conduta, deficiência da prova de materialidade do delito, aplicação do princípio da insignificância – não foram objeto de apreciação pelo Superior Tribunal de Justiça. Inviabilizada, pois, a análise de tais matérias pelo Supremo Tribunal Federal, sob pena de se incorrer em indevida supressão de instância (v.g. HC 108.778/SP, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 9.8.2011; HC 104.167/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.8.2011; HC 105.501/RJ, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.4.2011; e HC 90.902/RS, Rel. Min. Marco Aurélio, 1ª Turma, DJe 22.6.2007).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2017.
+Ministra Rosa Weber
+Relatora
