@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “RECURSO DE REVISTA - SALÁRIO MÍNIMO PROFISSIONAL – VINCULAÇÃO AO SALÁRIO MÍNIMO – LEI Nº 4.950-A/66 – ORIENTAÇÃO JURISPRUDENCIAL Nº 71 DA SBDI-2
+    Nos termos da Orientação Jurisprudencial nº 71 da SBDI-2, é constitucional o piso salarial fixado pela Lei nº 4.950-A/66, desde que não utilizado como parâmetro para fixação de correção automática do salário pelo reajuste do salário mínimo.
+    Recurso de Revista conhecido e provido” (pág. 1 do documento eletrônico 8).
+    No RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação aos arts. 7º, IV, 37, XIII, e 169 da mesma Carta, sob o argumento de que a vinculação de piso profissional ao salário mínimo, tal como prevista na Lei 4.950-A/1966, é inconstitucional.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido está em consonância com jurisprudência desta Corte firmada no sentido de que o estabelecimento de piso salarial em múltiplos do salário mínimo, consoante previsto na Lei 4.950-A/1966, não afronta o art. 7º, IV, da Constituição Federal nem a Súmula Vinculante 4, tendo em vista que a aludida lei não estipulou reajustes automáticos atrelados à variação do salário mínimo. Nesse sentido, cito precedentes de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL EM RECLAMAÇÃO. LEI 4.950-A/66. SALÁRIO FIXADO EM MÚLTIPLOS DO SALÁRIO MÍNIMO. SÚMULA VINCULANTE 4. ADPF 53 MC. 1. Não há vedação para a fixação de piso salarial em múltiplos do salário mínimo, desde que inexistam reajustes automáticos. 2. O ato reclamado, ao aplicar a OJ 71, da SBDI-2 do TST, não afrontou a Súmula Vinculante 4, nem a ADPF 53 MC. 3. Agravo regimental a que se nega provimento” (Rcl 9.951-AgR/MS, Rel. Min. Edson Fachin, Primeira Turma).
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Trabalhista. Salário profissional. Piso salarial fixado na Lei nº 4.950-A/66. Múltiplos do salário mínimo. Inexistência de reajustes automáticos. Violação da Súmula Vinculante nº 4. Não ocorrência. Precedentes. 1. A fixação da base de cálculo do piso salarial em múltiplos do salário mínimo, nos termos da Lei nº 4.950-A/66, não configura ofensa à Súmula Vinculante nº 4, haja vista a ausência de reajustes automáticos com base nesse mesmo índice. 2. Agravo regimental não provido” (ARE 914.780-AgR/DF, Rel. Min. Dias Toffoli, Segunda Turma).
+    Com o mesmo entendimento, menciono os seguintes julgados, entre outros: Rcl 19.275-AgR/MG, Rel. Min. Gilmar Mendes; Rcl 18.356-AgR/PE, Rel. Min. Cármen Lúcia; ARE 922.319/DF, Rel. Min. Edson Fachin; Rcl 19.990/PA, Rel. Min. Teori Zavascki; ARE 1.008.855/PA, Rel. Min. Celso de Mello.
+    Cumpre destacar, por fim, que o Tribunal de origem expressamente afastou a possibilidade de reajustamento do piso profissional com base na elevação do salário mínimo, conforme se observa no seguinte trecho do voto condutor do acórdão recorrido:
+    “Depreende-se do texto do referido verbete que é possível fixar o salário profissional em correspondência a número determinado de salários mínimos, sendo vedada, contudo, a obrigatoriedade de reajuste daquele sempre que for corrigido o mínimo” (pág. 4 do documento eletrônico 8).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
