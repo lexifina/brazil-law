@@ -1,0 +1,21 @@
+Decisão:
+Ementa: Processual Penal. Habeas corpus. Tentativa de furto. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, sem pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Joel Ilan Paciornik, assim ementado:
+    “PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO EM HABEAS CORPUS A QUE SE NEGA PROVIMENTO.
+    1. Considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal – CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos do previsto no art. 319 do CPP.
+    2. As instâncias ordinárias demonstraram, com base em elementos concretos, a periculosidade do recorrente e o elevado risco de reiteração delitiva, evidenciada a partir do modus operandi do delito, consistente na prática continuada de condutas criminosas nas mesmas condições pelo custodiado. Forçoso concluir, portanto, que a prisão processual está devidamente fundamentada na garantia da ordem pública, não havendo falar, portanto, em existência de evidente flagrante ilegalidade.
+    3. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+    Recurso ordinário em habeas corpus desprovido.”
+    2. Extrai-se dos autos que o paciente foi preso em flagrante em 25.04.2016, pela suposta prática dos crimes previstos nos artigos 155, § 4º, I e IV, c/c o artigo 14, II, ambos do Código Penal. O Juízo de origem, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de Minas Gerais. Denegada a ordem, foi interposto recurso ordinário no Superior Tribunal de Justiça, não provido.
+    4.  Neste habeas corpus, a parte impetrante sustenta a ausência dos requisitos necessários à decretação da custódia preventiva e requer a concessão da ordem a fim de revogar a prisão processual do paciente.
+    Decido.
+    5.  A Primeira Turma do Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade da impetração de habeas corpus em substituição ao recurso extraordinário, previsto no art. 102, III, da Constituição Federal (HC 110.055, Rel. Min. Marco Aurélio, HC 106.158, Rel. Min. Dias Toffoli, e HC 118.568, Rel.ª Min.ª Rosa Weber). A hipótese, portanto, é de extinção do processo sem resolução do mérito por inadequação da via eleita.
+    6. Não é caso de concessão da ordem de ofício.
+    7. As peças que instruem o processo não ostentam teratologia, ilegalidade flagrante ou abuso de poder que autorize a expedição do alvará de soltura em favor do paciente. Tal como apontou a autoridade impetrada, “As instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a maior periculosidade do recorrente, evidenciada pela possibilidade de reiteração criminosa, na medida em que – se depreende das declarações dos militares, de haver reiteradas condutas criminosas nas mesmas condições pelos custodiados”. Nessas condições, o acórdão impugnado alinha-se à orientação jurisprudencial no sentido de que a probabilidade concreta de reiteração criminosa constitui fundamentação idônea para a decretação da prisão preventiva (vg. HC 126.837, Rel. Min. Gilmar Mendes; RHC 123.342, Relª. Minª. Rosa Weber; HC 126.385, Rel. Min. Gilmar Mendes; HC 123.304, Relª. Minª. Rosa Weber; HC 124.535, Rel. Min. Teori Zavascki).
+    8. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
