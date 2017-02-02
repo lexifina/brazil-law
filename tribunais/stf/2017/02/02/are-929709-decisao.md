@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão de Tribunal de Justiça que negou provimento ao recurso de apelação da parte Recorrente para manter sua condenação em indenização por dano moral, cuja ementa transcrevo:
+    APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO. RESPONSABILIDADE CIVIL DO ESTADO. DANOS MORAIS. ACUSAÇÃO DE SUPOSTA PRÁTICA DE CRIME. VERBA INDENIZATÓRIA. CABIMENTO. DANOS MATERIAIS. NÃO COMPROVAÇÃO.
+    I. A reparação do dano moral encontra amparo constitucional, no artigo 5°, incisos V e X, da Constituição Federal e na Lei Civil, em seus artigos 186 e 927, exigindo do magistrado o bom senso prático, ao considerar o caso concreto, pautando-se nos princípios da proporcionalidade e da razoabilidade, a fim de se chegar a um valor justo ao ressarcimento.
+    II. Cabível a indenização dos danos morais sofridos quando demonstrada a responsabilidade objetiva do Estado pela prática de conduta ilícita de policiais militares que, equivocadamente, conduziram o autor à delegacia, sob acusação de prática de crime envolvendo furto de veiculo, cujo número de placa não corresponde ao que foi apreendido e pertencente ao autor.
+    III. A verba indenizatória não deve ser excessiva de modo que se converta em fonte de enriquecimento injustificado, nem ínfima que se torne inexpressiva.
+    IV. Deve ser mantido o valor da indenização dos danos morais se a fixação foi suficiente à devida reparação e a desestimular o agente a novo e igual atentado, segundo os elementos dos autos.
+    V. Afasta-se a indenização dos danos materiais diante da ausência de comprovação a cargo do autor.
+    Opostos embargos declaratórios, foram rejeitados.
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos artigos 37, § 6º, da Constituição Federal e 1º-F, da Lei 9.494/97, sob os argumentos de violação aos princípios relativos à responsabilidade objetiva do Estado e aos juros moratórios incidentes sobre a Fazenda Pública.
+    Sustenta-se, em suma, que a indenização pleiteada é indevida, porquanto não há elementos que demonstrem a responsabilidade do ente público.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Da leitura da ementa do acórdão recorrido, depreende-se que o Tribunal de origem concluiu que ficou demonstrada a ilegalidade da prisão do recorrido, a qual teria causado danos morais ao autor que devem ser ressarcidos pelo pagamento de indenização. Para divergir desse entendimento, seria necessário o reexame das provas dos autos.
+    Outrossim, embora haja estribo argumentativo na possível afronta à responsabilidade objetiva do Estado, garantida no parágrafo sexto do art. 37 do Texto Constitucional, é certo que a discussão sobre a existência de nexo de causalidade entre o dano que teria sofrido e a conduta do Ente público demandaria revolvimento dos dados fáticos constantes nos autos, a exigir nova apreciação de matéria de índole probatória, inviável na instância extraordinária. Nesse sentido, os seguintes precedentes:
+    RESPONSABILIDADE OBJETIVA DO ESTADO. PRISÃO ILEGAL. INDENIZAÇÃO. IMPOSSIBILIDADE DE REEXAMINAR FATOS E PROVAS. REQUISITOS PARA CONFIGURAÇÃO DA RESPONSABILIDADE OBJETIVA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. (AI 510.346-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJ 9/2/2007)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL OBJETIVA. NEXO CAUSAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. FUNDAMENTO INFRACONSTITUCIONAL MANTIDO COM O JULGAMENTO DO RESP. APLICABILIDADE DA SÚMULA 283 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão com base no conjunto fático-probatório constante dos autos. Assim, a apreciação do RE demandaria o reexame de provas, o que atrai a incidência da Súmula 279 do STF. II - Os fundamentos infraconstitucionais, suficientes para a manutenção do acórdão recorrido, permaneceram incólumes com o julgamento do recurso especial pelo STJ. Incidência da Súmula 283 do STF. III - Agravo regimental improvido (RE 529.241-AgR, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe de 14/3/2011).
+     Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, 1º, do RISTF.
+    Publique-se.
+    Brasília, 2 de fevereiro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
