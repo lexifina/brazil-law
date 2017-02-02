@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem, reformando o entendimento do Juízo anterior, condenou a empresa ao pagamento de danos morais no valor de R$ 5.000,00 (cinco mil reais) No extraordinário, cujo trânsito busca alcançar, a recorrente aponta a violação do artigo 5º, incisos II, V, X, XXXV, LIV e LV, da Constituição Federal, bem como dos artigos 332 e 333, do Código de Processo Civil de 1973. Sustenta ofensa aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório. Afirma ter sido condenada diante de alegações inverídicas e não comprovadas.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão o seguinte trecho:
+    A simples estipulação de metas e natural cobrança não é situação ilícita, amoldando-se à própria forma de organização do negócio e direção do empreendimento, até mesmo diante da competitividade do mercado. Na hipótese, contudo, resta configurada lesão a direito da personalidade do trabalhador, uma vez que o comportamento da reclamada, de tachar de “ofensor” o empregado que não atinge a meta de produção, configura prática de adjetivação pejorativa e depreciativa contra a pessoa do trabalhador, que extrapola os limites do seu poder diretivo.
+    Destaco que, de acordo com a doutrina e a jurisprudência, o dano moral é um dano in re ipsa, que prescinde de comprovação, bastando a demonstração do ato ilícito e do nexo causal, os quais restaram evidenciados na espécie.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. No mais, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    4. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    5. Publiquem.
+Brasília, 2 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
