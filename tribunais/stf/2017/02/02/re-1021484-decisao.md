@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. DUPLO GRAU OBRIGATÓRIO DE JURISDIÇÃO. DIREITO PREVIDÊNCIÁRIO. AÇÃO DE PROCEDIMENTO COMUM SUMÁRIO. OFICIAL DE JUSTIÇA. PEDIDO DE CONSTITUIÇÃO DE OBRIGAÇÃO DE FAZER. RESSARCIMENTO DE REAJUSTES SALARIAIS. LEIS NºS. 5.144/2007 E 5.334/2008. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DO ENTE ESTATAL. REAJUSTES DE REMUNERAÇÃO DE SERVIDORES QUE NÃO OBEDECERAM OS DITAMES DA LEI Nº 4.620/05 (REESTRUTURAÇÃO DOS CARGOS DO QUADRO ÚNICO DE PESSOAL DO PODER JUDICIÁRIO DO ESTADO DO RIO DE JANEIRO). INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES, AO ART.167, II, DA CONSTITUIÇÃO DA REÚBLICA E À SÚMULA Nº 339-STF. DIREITO DO SERVIDOR QUE DEVE SER RESGUARDADO, NOS MOLDES DO ART. 5º, XXXV, DA CONSTITUIÇÃO DA REPÚBLICA. HIPÓTESE EM QUE O PODER JUDICIÁRIO NÃO AUTORIZA O AUMENTO DE SERVIDORES OU CARGOS, MAS SIM, MERA RECOMPOSIÇÃO DE PERDA SALARIAL. PRECEDENTES DESTA CORTE. DESPROVIMENTO DO APELO. ART. 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL, EIS QUE MANIFESTAMENTE IMPROCEDENTE. EM SEDE DE DUPLO GRAU OBRIGATÓRIO DE JURISDIÇÃO, SENTENÇA QUE SE ALTERA TÃO SOMENTE PARA FIXAR A VERBA HONORÁRIA NO PATAMAR DE 5% (CINCO POR CENTO) SOBRE O VALOR DA CONDENAÇÃO” (pág. 99 do documento eletrônico 1).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 2° e 37, X, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    É que para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame das normas infraconstitucionais locais pertinentes ao caso, o que é vedado pela Súmula 280 do STF, conforme revela o ARE 855.501-AgR/RJ, de relatoria do Ministro Gilmar Mendes:
+    “Ementa: Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Servidor público. Reajustes previstos por legislação estadual (leis estaduais 5.144/07, 5.344/08 e 4.620/05). Inadmissibilidade do recurso extraordinário. 3. Necessidade de reexame prévio da legislação local. Óbice da Súmula 280. Precedentes. 4. Agravo regimental a que se nega provimento”.
+    Nesse mesmo sentido, cito o ARE 895.979-AgR/RJ, Relator Ministro Teori Zavascki; ARE 929.970/RJ, Relator Ministro Luiz Fux e o ARE 939.567/RJ, Relatora Ministra Rosa Weber.
+    Isso posto, nego seguimento ao recurso (art. 21, §1°, do RISTF).
+    Publique-se.
+    Brasília, 2 de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
