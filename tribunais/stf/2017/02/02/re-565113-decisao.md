@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+    “ADIN. LEI MUNICIPAL. IPTU. ITR. DEC-LEI 57/66. DESTINAÇÃO DO IMÓVEL. A partir do Dec.-lei 57/66, a jurisprudência pátria passou a adotar o critério topográfico para disciplinar a incidência do IPTU e do ITR sobre a propriedade imóvel. Analisa-se nas vias ordinárias, não podendo ser objeto de ação declaratória de inconstitucionalidade, lei municipal que prevê a incidência de IPTU em imóvel localizado na zona rural, mas utilizado como ‘sítio de recreio’. Ação improcedente.” (fl. 79)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 146, III, e 156, I, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, a inconstitucionalidade do art. 4º, §3º, da Lei Municipal 2069/90, de Viamão, que dispõe acerca da incidência do IPTU sobre sítios de recreios localizados na Zona Rural. (fls. 136-144)
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Decreto-Lei 57/66 e Lei Municipal 2069/90 e o Código Tributário Nacional) e o conjunto probatório constante dos autos, consignou que o critério vigente para delimitar a incidência do IPTU e do ITR é o da destinação econômica do imóvel, independentemente de sua localização geográfica. Nesse sentido, cito trecho do voto do redator para o acórdão impugnado, in verbis:
+    “DES. GASPAR MARQUES BATISTA (REDATOR PARA O ACÓRDÃO) – A princípio, o legislador pátrio, ao disciplinar o fato gerador sobre a propriedade imóvel, erigiu a localização como critério, fazendo incidir o IPTU ao imóvel situado na zona urbana do município e o ITR, para o imóvel situado fora dela.
+    Entretanto, a partir do Dec.-lei 57/66, recepcionado como lei complementar e em vigor até hoje, passou a prevalecer o critério da destinação econômica do imóvel, independentemente da localização geográfica, para determinar a incidência do ITR. De acordo com esse decreto, em relação ao imóvel comprovadamente utilizado para exploração extrativa, vegetal, agrícola, pecuária ou agroindustrial, incidirá o ITR, mesmo que localizado no perímetro urbano.
+    Assim, embora a questão discutida nos autos não diga respeito, especificamente, à incidência do ITR, mas à previsão, na Lei Municipal nº 2069/90 (Código Tributário Municipal), de Viamão, sobre a incidência do IPTU, em imóvel que, mesmo localizado na zona rural, seja comprovadamente utilizado como sítio de recreio, tendo que o mesmo critério – topográfico – deve ser aplicado nesse caso. Nesse contexto, a análise da hipótese prevista na lei municipal não deve ser realizada em ação direta de inconstitucionalidade, pois, a violação porventura existente, será em relação à legislação ordinária, infraconstitucional. Portanto, Senhor Presidente, vou acompanhar o eminente Des. Arno Werlang.” (fls. 84-85) (grifo nosso)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso as Súmulas 279 e 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, as seguintes decisões monocráticas: ARE 1.001.304, Rel. Min. Edson Fachin, Dje 17.10.2016, e AI 773.785, Rel. Joaquim Barbosa, Dje. 24.9.2010.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 2 de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
