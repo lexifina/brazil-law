@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de origem julgou improcedente o pedido de recebimento de adicional de insalubridade, consignando inexistir previsão em lei local. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 7º, inciso XXIII, e 37, cabeça, da Constituição Federal. Sustenta o direito ao percebimento do benefício, afirmando a eficácia plena da norma constitucional que o assegura, bem como a previsão do respectivo adicional no estatuto dos servidores públicos municipais.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    Com relação ao adicional de insalubridade, convém destacar que esta Corte de Justiça já analisou a questão da insalubridade dos agentes comunitários de saúde, inclusive, em sede de incidente de uniformização de jurisprudência, no qual restou estabelecido que, para essa categoria, é necessário lei local regulando o seu pagamento e a graduação da insalubridade. Transcrevo, na oportunidade, a súmula decorrente do julgado:
+    Súmula 42 – O pagamento do adicional de insalubridade aos agentes comunitários de saúde submetidos ao ínculo jurídico administrativo, depende de lei regulamentadora do ente ao qual pertencer.
+    No caso dos autos, inexiste notícia de previsão legal no Município que reconheça a atividade do agente comunitário de saúde como insalubre, tendo em ista que o Estatuto dos Servidores Públicos Municipais apenas dispõe genericamente sobre a possibilidade de percepção do adicional em questão, ressaltando que, para a sua concessão, serão observadas as situações previstas em legislação específica, ainda não elaborada.
+    À toda evidência, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    No mais, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia da parte agravada.
+    4. Publiquem.
+Brasília, 3 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
