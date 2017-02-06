@@ -1,0 +1,322 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 8
+
+06/02/2017
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO ORD. EM MANDADO DE SEGURANÇA 34.252
+DISTRITO FEDERAL
+RELATOR
+REDATOR DO
+ACÓRDÃO RISTF
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. TEORI ZAVASCKI
+: MIN. DIAS TOFFOLI
+: MARIA JOSE BARBOSA PONTES
+: ALEXANDRE
+AUGUSTO
+VASCONCELOS E OUTRO(A/S)
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+
+SANTOS
+
+DE
+
+EMENTA
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO
+ORDINÁRIO EM MANDADO DE SEGURANÇA. ANISTIA POLÍTICA.
+CÔNJUGE SUPÉRSTITE. PRETENSÃO DE PAGAMENTO DOS EFEITOS
+FINANCEIROS RETROATIVOS. VALORES QUE DEVERIAM TER
+INGRESSADO NO PATRIMÔNIO DO ANISTIADO POLÍTICO ANTES
+DE SUA MORTE, POR ISSO SUJEITOS À SUCESSÃO HEREDITÁRIA.
+AUSÊNCIA
+DE
+COMPROVAÇÃO
+DA
+CONDIÇÃO
+DE
+INVENTARIANTE. LEGITIMIDADE ATIVA. NÃO CONFIGURAÇÃO.
+DIREITO AO PAGAMENTO DA PRETENSÃO MENSAL DECORRENTE
+DA QUALIDADE DE DEPENDENTE ECONÔMICA QUE NÃO SE
+CONFUNDE COM O DIREITO À SUCESSÃO HEREDITÁRIA
+RELATIVAMENTE AOS ATRASADOS FIXADOS NA PORTARIA DE
+ANISTIA POLÍTICA.
+AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12580799.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 8
+
+RMS 34252 AGR / DF
+Segunda Turma do Supremo Tribunal Federal, em sessão virtual de
+16/12/2016 a 3/2/2017, na conformidade da ata do julgamento, por
+unanimidade de votos, em rejeitar os embargos de declaração, nos termos
+do voto do Relator. Redigirá o acórdão o Ministro Dias Toffoli (art. 38, IV,
+b, do RISTF).
+Brasília, 6 de fevereiro de 2017.
+MINISTRO DIAS TOFFOLI
+Relator para o acórdão
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12580799.
+
+Supremo Tribunal Federal
+RELATÓRIO
+
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 8
+
+O SENHOR MINISTRO TEORI ZAVASCKI (RELATOR): Trata-se de agravo de
+decisão que negou seguimento a recurso ordinário contra acórdão do
+Superior Tribunal de Justiça que julgara o mandado de segurança extinto,
+sem exame do mérito, em razão da ilegitimidade ativa da impetrante.
+A decisão agravada tem os seguintes argumentos: (a) não se
+confundem os direitos financeiros dos sucessores derivados da portaria
+de anistia política com os correspondentes efeitos financeiros retroativos;
+(b) por corresponderem à quota da herança, os efeitos financeiros
+retroativos devem ser divididos igualmente entre os herdeiros; (c) não há
+equivalência entre o direito à sucessão hereditária e o direito a prestações
+previdenciárias, daí porque não é o bastante a condição de única
+dependente para a postulação, em nome próprio, desses valores.
+Sustenta a agravante, em síntese, que: (a) o art. 13 da Lei de Anistia
+reconhece o direito à reparação econômica aos dependentes, e não aos
+herdeiros; (b) em precedente da Terceira Seção do STJ, decidiu-se que a
+“filha de anistiado político falecido carecia de legitimidade ativa para impetrar o
+writ por conta da falta de dependência econômica (doc. 7, fl. 4); (c) a
+legitimidade ativa está suficientemente caracterizada pela condição de
+única pensionista comprovada com a cópia do contracheque juntado aos
+autos. Agrega, ademais, fundamentos para concessão da ordem, após
+superação da questão preliminar.
+Houve contrarrazões.
+É o relatório.
+Publicado sem revisão.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 12528483
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+VOTO
+
+Inteiro Teor do Acórdão - Página 4 de 8
+
+O SENHOR MINISTRO TEORI ZAVASCKI (RELATOR): 1. A decisão agravada
+tem o seguinte teor:
+1. Trata-se de recurso ordinário interposto contra acórdão
+da Primeira Seção do Superior Tribunal de Justiça (AgRg no MS
+19.098/DF, Rel. Min. Napoleão Nunes Maia Filho, DJe
+17/03/2016) assim ementado:
+AGRAVO REGIMENTAL EM MANDADO DE
+SEGURANÇA. ADMINISTRATIVO E PROCESSUAL
+CIVIL. ANISTIADO POLÍTICO. EFEITOS RETROATIVOS
+DA REPARAÇÃO ECONÔMICA. ILEGITIMIDADE
+ATIVA DA CÔNJUGE SUPÉRSTITE PARA POSTULAR
+ISOLADAMENTE OS VALORES RETROATIVOS.
+EXTINÇÃO DO MANDAMUS SEM RESOLUÇÃO DE
+MÉRITO. PRECEDENTES. AGRAVO REGIMENTAL
+DESPROVIDO. 1. É flagrante a ilegitimidade da
+impetrante, na condição de cônjuge supérstite, para
+pleitear isoladamente a integralidade dos valores
+pleiteados, visto que não comprovada nos autos a
+condição de inventariante e herdeira do de cujus , o que
+inviabiliza a constituição de relação processual válida. 2.
+Os valores retroativos relacionados à reparação econômica
+devida em virtude da concessão de anistia política têm
+caráter indenizatório e ingressam na esfera patrimonial do
+espólio após o óbito do anistiado, razão pela qual caberia à
+impetrante trazer aos autos documentação comprobatória
+de sua nomeação como inventariante para defender os
+interesses do espólio, ou, na hipótese de encerramento do
+processo de inventário, de que lhe foi transmitido o direito
+à integralidade dos valores que seriam devidos ao
+anistiado político a título de efeitos retroativos de
+reparação econômica, com a exclusão dos demais
+herdeiros, o que não se verificou na hipótese vertente. 3.
+Em casos análogos, esta Corte Superior já consolidou
+orientação de que, em razão da ilegitimidade ativa da
+viúva postular, em nome próprio, o pagamento do valor
+referente ao retroativo, impõe-se a extinção do mandamus ,
+sem resolução de mérito diante da ausência de
+pressuposto processual para a postulação em juízo, a teor
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 12528489
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+do art. 267, IV do Código de Processo Civil. Precedentes:
+MS 21.696/DF, Rel. Min. OG FERNANDES, DJe 1.7.2015;
+AgRg no MS 17.250/DF, Rel. Min. CESAR ASFOR
+ROCHA, DJe 6.8.2012; MS 17.372/DF, Rel. Min. HERMAN
+BENJAMIN, DJe 8.11.2011. 4. Agravo Regimental de
+MARIA JOSÉ BARBOSA PONTES desprovido.
+
+Inteiro Teor do Acórdão - Página 5 de 8
+
+No recurso ordinário, a recorrente traz os seguintes
+argumentos: (a) o art. 13 da Lei 10.559/2002 ( No caso de
+falecimento do anistiado político, o direito à reparação econômica
+transfere-se aos seus dependentes, observados os critérios fixados nos
+regimes jurídicos dos servidores civis e militares da União ) afirma
+peremptoriamente que o direito à reparação econômica do
+anistiado político, com o seu óbito, é transmitido a seus
+dependentes, e não a seus herdeiros; (b) em caso idêntico ao
+presente, a Terceira Seção do STJ decidiu que filha de anistiado
+político falecido carecia de legitimidade ativa para impetrar
+mandado de segurança por conta da falta de dependência
+econômica; (c) no presente caso, é a única dependente do
+falecido anistiado político, conforme se infere do contracheque
+de recebimento da reparação econômica, a qual é paga valor
+integral, sem divisão em cotas com outros pensionistas. No
+mais, defende o pagamento, por meio de precatório, do valor
+retroativo de R$ 238.950,00 (duzentos e trinta e oito mil e
+novecentos e cinquenta reais) decorrentes do reconhecimento
+da condição de anistiado político, nos termos da Portaria 2.613,
+de 19 de dezembro de 2002. Pede, ao final, o provimento do
+recurso para que o fundamento da ilegitimidade ativa seja
+afastado, concedendo-se, desde já, a ordem requerida no
+mandado de segurança.
+Houve contrarrazões.
+2. O acórdão recorrido não merece reparos. A autoridade
+impetrada, ao prestar informações, esclarece porque seria
+necessário à impetrante comprovar a condição de inventariante
+ou herdeira do de cujos , nos termos seguintes:
+(…) 30. Faz-se necessário, de início, bem diferenciar
+os seguintes distintos conceitos: [1] os efeitos financeiros
+retroativos, previstos por expresso no ato declaratório da
+anistia política e [2] os eventuais direitos financeiros,
+decorrentes de anistia política, deixados aos sucessores do
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 12528489
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+anistia político. Tais conceitos absolutamente não podem
+ser confundidos, como se uma coisa só fossem. 31. Os
+efeitos financeiros retroativos correspondem ao valor
+fixado na Portaria Anistiadora, equivalente ao somatório
+das diversas reparações mensais que antecedem a data do
+julgamento do requerimento da Comissão de Anistia,
+comumente chamados na seara administrativa de
+atrasadão. 32. In casu , o valor devido a título de
+retroativos é calculado pela somatória de parcelas
+estabelecidas mês a mês, e referente ao período de
+07.12.1996 a 31.10.2002, conforme expressamente
+delimitado no ato declaratório. 33. Percebe-se claramente
+que tal valor se refere uma apropriação referente a certo e
+determinado período retroativos, em relação ao qual se
+reconhece a promoção ficta do anistiado político. 34. Por
+sua vez, os eventuais direitos financeiros, decorrentes de
+anistia política, deixada aos sucessores do anistiado
+político correspondem ao somatório das diversas
+reparações econômicas menais devidas, em princípio, ao
+próprio anistiado falecido (mas, por ele não recebidas) e
+que antecedem a data de seu óbito. Diga-se: valores estes
+que deveriam ter ingressado no patrimônio do anistiado
+político antes de sua morte. 35. Dessarte, identifica-se
+como sendo desta natureza o valor dos efeitos financeiros
+retroativos, já que o período a que estão apropriadas é
+anterior à data do óbito, que se deu em 06.12.2004,
+conforme consta da certidão anexa à petição inicial. 36.
+Portanto, nesta espécie, torna-se imperativo estampar o
+entendimento no sentido de que os efeitos financeiros
+retroativos correspondem, parcialmente, à verba de
+herança, a qual deve ser dividida pelos sucessores e
+herdeiros, segundo a regra de sucessão vigente à data do
+óbito. 37. É importante destacar que não se discute aqui
+(até porque não é este o objeto do mandamus ) a reparação
+econômica mensal transferida , devida mensalmente, após
+a morte do anistiado político, a qual, segundo disposição
+de lei (art. 13 da Lei nº 10.559/02), é devida aos eventuais
+dependentes econômicos, como é o caso da viúva que não
+tenha contraído novo matrimônio. 38. Em conclusão, a
+somatória das reparações econômicas mensais relativas
+aos meses pretéritos ao julgamento da anistia política, ou
+seja, os efeitos financeiros retroativos, neste caso, cabem
+
+Inteiro Teor do Acórdão - Página 6 de 8
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 12528489
+
+Supremo Tribunal Federal
+Voto - MIN. TEORI ZAVASCKI
+
+parte aos sucessores e parte aos herdeiros, segundo a lei
+de sucessão vigente à data do óbito (…) (volume 2, fl. 17).
+
+Inteiro Teor do Acórdão - Página 7 de 8
+
+Nesses termos, não tem razão a recorrente quando afirma
+que a condição de única dependente do anistiado político seria
+suficiente para demonstrar sua legitimidade para pleitear os
+valores retroativos que, por sua natureza, deveriam ter
+integrado o patrimônio do anistiado político se vivo ainda fosse
+e, por consequência, sujeitos à regular sucessão hereditária.
+Com efeito, o direito ao pagamento da prestação mensal na
+qualidade de dependente do falecido anistiado político não se
+confunde com o direito à sucessão hereditária relativamente aos
+atrasados fixados na portaria de anistia política.
+
+As razões recursais não conseguem infirmar esses fundamentos.
+2. Em que pese o precedente do STJ invocado (MS 11.715/DF,
+julgado em 11/10/2006), o acórdão recorrido converge com o
+entendimento atual daquela Corte, segundo o qual o direito de postular
+os atrasados de anistiado transfere-se ao espólio e, encerrado o
+inventário, aos sucessores (MS 21.696/DF, DJe 1.7.2015; AgRg no MS
+17.250/DF, DJe 6.8.2012; MS 17.372/DF, DJe 8.11.2011). Diante disso, a
+agravante não possui legitimidade ativa para postular, em nome próprio,
+a totalidade dos valores.
+3. Ante o exposto, nego provimento ao agravo regimental. É o voto.
+Publicado sem revisão.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 12528489
+
+Supremo Tribunal Federal
+Extrato de Ata - 06/02/2017
+
+Inteiro Teor do Acórdão - Página 8 de 8
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO ORD. EM MANDADO DE SEGURANÇA 34.252
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. TEORI ZAVASCKI
+REDATOR DO ACÓRDÃO RISTF : MIN. DIAS TOFFOLI
+AGTE.(S) : MARIA JOSE BARBOSA PONTES
+ADV.(A/S) : ALEXANDRE AUGUSTO SANTOS DE VASCONCELOS (20304/PE) E
+OUTRO(A/S)
+AGDO.(A/S) : UNIÃO
+ADV.(A/S) : ADVOGADO-GERAL DA UNIÃO
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Redigirá o acórdão o
+Ministro Dias Toffoli (art. 38, IV, b, do RISTF). 2ª Turma, Sessão
+Virtual de 16.12.2016 a 3.2.2017.
+Composição: Ministros Gilmar Mendes (Presidente), Celso de
+Mello, Ricardo Lewandowski, Dias Toffoli e Teori Zavascki.
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 12521209
