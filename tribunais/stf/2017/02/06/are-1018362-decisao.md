@@ -1,0 +1,23 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela Massa Falida do Banco Santos contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Agravos de Instrumento — Falência — Homologação de acordo com devedoras — Manutenção.
+    Não havendo comprovação de ato abusivo do administrador judicial ao elaborar acordos autorizados judicialmente e submetidos ao crivo dos credores, há de ser mantida a decisão agravada que homologou os acordos nela mencionados.
+    Agravos desprovidos.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na da Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Cabe registrar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que a E. Tribunal de Justiça do Estado de São Paulo, no julgamento do recurso, sustentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático-probatórios:
+    “(...) Com a devida vênia, não vislumbro relevância jurídica na fundamentação de minuta.
+    Quanto ao primeiro argumento, é evidente que a administração da massa falida é feita pelo Administrador Judicial, como decorre do art. 22, incisos I e III e suas inúmeras alíneas.
+    No § 3º, está previsto, realmente que ‘na falência, o administrador judicial não poderá, sem autorização judicial, após ouvidos o Comitê e o devedor no prazo comum de 2 (dois) dias, transigir sobre obrigações e direitos da massa falida e conceder abatimento de dívidas, ainda que sejam consideradas de difícil recebimento’.
+    Como resulta evidente da lei, quem faz mesmo o acordo com os devedores é o Administrador Judicial. Contudo, o que a mesma lei exige, no caso de transigir sobre obrigações e direitos da massa falida e de conceder abatimento de dívidas, é que haja autorização judicial, precedida de oitiva do Comitê e do falido. No caso, há autorização judicial e o Comitê e o falido foram ouvidos. Não há ilegalidade alguma.
+    …...................................................................................................
+    Por fim, em passagem irreparável, o MM. Juiz assentou que não há dúvida de que as dívidas objeto dos acordos eram de difícil recebimento, 'e os fatos falam por si mesmos, na medida em que, decretada a falência do devedor em 20/9/2005, só agora, passado mais de cinco anos e depois de ferrenhos embates judiciais, que nem estavam terminados, está sendo possível composição com alguns dos devedores da massa falida’.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 06 de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
