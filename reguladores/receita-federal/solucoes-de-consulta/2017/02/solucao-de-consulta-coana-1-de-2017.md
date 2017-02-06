@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 1, de 2 de fevereiro de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM (TEC/Tipi): 2510.20.10 Mercadoria: Fosfato de cálcio natural, obtido por trituração da rocha fosfática, lavada ou enriquecida por flotação, não calcinada, não ustulada, utilizada como matéria prima para fabricação de fertilizantes.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 25.10 e Nota 1 do Capítulo 25) e 6 (texto da subposição 2510.20), e RGC 1 (texto do código 2510.20.10), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016, tendo por base os subsídios fornecidos para a interpretação da posição 25.10 pelas NESH aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, consolidadas pela IN RFB nº 807, de 11 de janeiro de 2008, com atualizações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM (TEC/Tipi): 2510.20.10 Mercadoria: Fosfato de cálcio natural, obtido por trituração da rocha fosfática, lavada ou enriquecida por flotação, não calcinada, não ustulada, utilizada como matéria prima para fabricação de fertilizantes.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 25.10 e Nota 1 do Capítulo 25) e 6 (texto da subposição 2510.20), e RGC 1 (texto do código 2510.20.10), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016, tendo por base os subsídios fornecidos para a interpretação da posição 25.10 pelas NESH aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, consolidadas pela IN RFB nº 807, de 11 de janeiro de 2008, com atualizações posteriores.
+CLAUDIA ELENA FIGUEIRA CARDOSO NAVARRO
+Presidente do Comitê
