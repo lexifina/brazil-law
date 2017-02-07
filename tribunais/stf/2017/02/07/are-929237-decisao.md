@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 4º Região, reformando o entendimento do Juízo, consignou a responsabilidade do Estado do Paraná para o registro de diploma e pagamento de indenização por danos morais, declarando a incompetência da Justiça Federal, considerada a exclusão da União da lide. No extraordinário cujo processamento busca alcançar, o recorrente aponta a violação do artigo 37, § 6º, da Constituição Federal. Insurge-se contra a condenação, alegando ter o acórdão implicado interpretação errônea do referido dispositivo constitucional, alegando ausente o nexo de causalidade.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão o seguinte trecho:
+    De tudo isso, é imperioso concluir que a modalidade de ensino oferecida pela instituição, além do conhecimento de supostas irregularidades na formação e fiscalização do curso, refogem à fiscalização do Ministério da Educação ou de qualquer outro Ente Federal. Ao contrário, o próprio Conselho Nacional de Educação já se manifestou, como visto, atribuindo tal prerrogativa ao Conselho Estadual de Educação do Estado do Paraná, razão suficiente para excluir a União Federal do polo passivo da demanda.
+    Assim, a competência da Justiça Federal só se justifica quando se cuida de ação de natureza mandamental, em se tratando de atividade delegada, quando o ato atacado tiver esta natureza, do que não se cuida na espécie. Ademais, o curso em questão foi autorizado pelo Conselho Estadual de Educação, razão pela qual a expedição e registro de diploma compete exclusivamente à própria universidade, o que impõe a exclusão da União da lide e seja determinada a remessa dos autos à Justiça Estadual.
+    A competência para processar e julgar ações ordinárias, como a que originou este recurso, fixa-se na Justiça Estadual, inexistindo razão para a extensão do foro federal às pessoas não elencadas no art. 109, inc. I, da Constituição Federal. Precedentes do STJ: CC 38887/SP, Ministro LUIZ FUX, DJ de 09.06.2004 e CC 47495/RS, Relator Ministro Teori Zavascki, DJ 09.02.2005. (e-STJ Fl.907).
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    2. Nego seguimento ao extraordinário interposto pelo Estado do Paraná.
+    3. Publiquem.
+Brasília, 7 de fevereiro de 2017.
+ Ministro MARCO AURÉLIO
+Relator
