@@ -1,0 +1,12 @@
+DECISÃO
+DIRETOR DE ESCOLA – CARGO DE CONFIANÇA – PRECEDENTE DO PLENO – RESSALVA DA ÓPTICA PESSOAL – RECURSO EXTRAORDINÁRIO PROVIDO.
+    1. O Tribunal de origem julgou improcedente o pedido, assentando a constitucionalidade das Leis nº 355/2002 e nº 385/2004 do Município de Barra de São Miguel/AL, em acórdão assim ementado:
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE DAS LEIS Nº 355/02 E Nº 385/04 DO MUNICÍPIO DE BARRA DE SÃO MIGUEL/AL – ELEIÇÃO DIRETA PARA A ESCOLHA DOS DIRETORES E DIRETORES ADJUNTOS DAS ESCOLAS DE ENSINO BÁSICO. PREVALÊNCIA DA DEMOCRATIZAÇÃO DO ENSINO PÚBLICO. DECLARAÇÃO DE CONSTITUCIONALIDADE DAS LEIS ACIMA APONTADAS POR MAIORIA DE VOTOS.
+    No extraordinário, o Município de Barra de São Miguel, Estado de Alagoas, aponta a violação dos artigos 37, inciso II e 60, § 4º, inciso III, da Constituição Federal, aludindo a presença de vícios de natureza formal – ante desrespeito a prerrogativa exclusiva do Poder Executivo para iniciar projeto de lei tratando da matéria discutida – e material, considerada a usurpação da atribuição do chefe do executivo municipal relativa nomeação e exoneração de cargos em comissão. Articula com o princípio da separação dos poderes.
+    2. A decisão proferida pela Corte de origem conflita com a jurisprudência do Supremo. Confiram com o teor da ementa da ação direta de inconstitucionalidade nº 2.997/RJ, relator o Ministro Cezar Peluso, acórdão publicado no Diário da Justiça de 12 de março de 2010:
+    INCONSTITUCIONALIDADE. Ação direta. Art. 308, inc. XII, da Constituição do Estado do Rio de Janeiro. Normas regulamentares. Educação. Estabelecimentos de ensino público. Cargos de direção. Escolha dos dirigentes mediante eleições diretas, com participação da comunidade escolar. Inadmissibilidade. Cargos em comissão. Nomeações de competência exclusiva do Chefe do Poder Executivo. Ofensa aos arts. 2º, 37, II, 61, § 1º, II, "c", e 84, II e XXV, da CF. Alcance da gestão democrática prevista no art. 206, VI, da CF. Ação julgada procedente. Precedentes. Voto vencido. É inconstitucional toda norma que preveja eleições diretas para direção de instituições de ensino mantidas pelo Poder Público, com a participação da comunidade escolar.
+    3. Ante o precedente, ressalvada a óptica pessoal, provejo o extraordinário para assentar a inconstitucionalidade material das Leis nº 355/2002 e nº 385/2004 do Município de Barra de São Miguel/AL .
+    4. Publiquem.
+Brasília, 7 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
