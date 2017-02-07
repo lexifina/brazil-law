@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Primeira Turma Recursal Fazendária, assim fundamentado: (eDOC-9, p. 1):
+    “AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA, COM REQUERIMENTO DE LIMINAR DE LIMINAR PARA QUE O IMPETRANTE POSSA REAVER A SUA CARTEIRA DE HABILITAÇÃO, APREENDIDA PELA AUTORIDADE POLICIAL, EM RAZÃO DE RECUSA À SUBMISSÃO AO CHAMADO ‘TESTE DO BAFÔMETRO’ (‘OPERAÇÃO LEI SECA’), PARA AFERIÇÃO DE ALCOOLEMIA. INTERLOCUTÓRIA QUE INDEFERIU A MEDIDA. IRRESIGNAÇÃO. APLICAÇÃO DO ART. 165 DO CÓDIGO BRASILEIRO DE TRÂNSITO. A APREENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO RETRATA, NA HIPÓTESE, EXERCÍCIO REGULAR DO PODER DE POLÍCIA DEFERIDO À PÚBLICA ADMINISTRAÇÃO. AS PRESUNÇÕES DE LEGITIMIDADE E LEGALIDADE DO ATO ADMINISTRATIVO NÃO FORAM ELIDIDAS PELOS DOCUMENTOS PRODUZIDOS, NEM COMPORTARIAM OBJURGATÓRIAS POR MEIO DE SIMPLES ARGUMENTAÇÕES DO AGRAVANTE. PRECEDENTES DESTA E. CORTE DE JUSTIÇA. RECURSO DESPROVIDO. (0031802-26.2014.8.19.0000). AGRAVO DE INSTRUMENTO (DES. GILBERTO GUARINO – JULGAMENTO: 25/02/2015 – DÉCIMA CÂMARA CÍVEL).
+    Ora, o Autor fundamentou seu pedido de anulação do auto de infração justamente na alegação de que, quando da abordagem, pela operação “Lei Seca”, se negou a realizar o exame de etilômetro.
+    Ressalte-se que o Autor foi parado na Blitz da Lei Seca e se recusou a realizar o teste de alcoolemia, conhecido como teste do bafômetro.
+    A Auto de Infração foi lavrado no local da infração pelo agente de trânsito, não havendo qualquer irregularidade. Sendo certo a presunção de legalidade e legitimidade dos atos administrativos. Os agentes de trânsito atuaram em estrita observância ao princípio da legalidade e no exercício regular do Poder de Polícia de trânsito, privilegiando a segurança viária de toda a sociedade e a integridade física do próprio Autor.
+    Diante do exposto, voto pelo provimento do recurso, para, reformando a sentença, julgar improcedente o pedido. Sem custas ou honorários ante o provimento do recurso e a ausência de previsão do artigo 55 da Lei 9.099/95”.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 1º, III; 5º, LIV, LV e LVIII, da Constituição da República. Alega-se violação dos princípios da dignidade da pessoa humana, do devido processo legal, da ampla defesa, da proibição da identificação criminal, quando houver identificação civil.
+    A Terceira Vice-Presidência do TJRJ inadmitiu o recurso por ofensa reflexa.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Sem embargo do teor, manifestado nestes autos, a respeito, abstratamente, de ofensa aos princípios da dignidade da pessoa humana (artigo 1º, III, da CRFB) , do devido processo legal (art. 5º, LIV, da CRFB), da ampla defesa (art. 5º, LV, da CRFB) e da proibição da identificação criminal, em face da existência da civil (artigo 5º, LVIII, da CRFB), constata-se que, no caso concreto, o Recorrente fundamenta o apelo extremo em argumentos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em norma infraconstitucional (Código Brasileiro de Trânsito), o que não se admite em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 7 de fevereiro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
