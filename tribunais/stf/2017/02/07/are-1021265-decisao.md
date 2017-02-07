@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que julgou o agravo regimental, o qual afastou a condenação do contribuinte em honorários advocatícios, considerando, para tanto, previsão de dispensa na Lei Estadual 14.505/2009 (página 1 do documento eletrônico 7).
+    No RE, fundado no art. 102, III, a, c e d, da Constituição, sustenta-se, em suma, violação ao art. 22, I, da Carta Magna.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão impugnado decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 14.505/2009 e art. 26 do Código de Processo Civil). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo de origem. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS: LEI N. 9.964/2000. EXIGÊNCIA DE DESISTÊNCIA DAS AÇÕES JUDICIAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 675.421-AgR, Relatora Ministra Cármen Lúcia, Primeira Turma).
+    Além disso, o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, Inciso III, da Constituição Federal.
+    Por fim, observa-se que o recorrente não demonstrou de que forma o acórdão impugnado teria julgado válida lei local contestada em face de lei federal, de forma a ensejar o cabimento de recurso extraordinário com base na alínea d do art. 102, Incisco III, da CF. Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da Súmula 284/STF. Nesse sentido, menciono as seguintes decisões, entre outras: ARE 952.448-AgR/SP, Rel. Min. Roberto Barroso; ARE 771.250/SP, Rel. Min. Gilmar Mendes; AI 753.967/SP, Rel. Min. Joaquim Barbosa; ARE 717.574/RS e AI 833.240-AgR/RO, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 7 de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
