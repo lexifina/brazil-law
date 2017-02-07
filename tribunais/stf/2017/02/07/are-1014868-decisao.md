@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVO LEGAL – AGRAVO DE INSTRUMENTO – RIOPREVIDÊNCIA – EXPEDIÇÃO DE PRECATÓRIO – IMPUGNAÇÃO – VALOR EXECUTADO – EMBARGOS À EXECUÇÃO – TRÂNSITO EM JULGADO – IMPOSSIBILIDADE DE MODIFICAÇÃO – COISA JULGADA.
+    Decisão que rejeitou a impugnação. Irresignação quanto ao valor executado. Matéria arguida anteriormente em sede de embargos à execução. Sentença transitada em julgado. O recorrente pretende rever decisão que se encontra coberta pelo manto da coisa julgada material. Negado provimento ao recurso.”
+    Os embargos de declaração opostos foram desprovidos.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI da Constituição Federal.
+    Nas razões recursais, sustenta-se, em síntese, a necessidade de observar o que proferido na decisão da ação de conhecimento. Aduz que o título exequendo não está a preservar a autoridade da decisão proferida na ação de conhecimento.
+    A Presidência do TJRJ inadmitiu o recurso com base na Súmula nº 279 do STF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente constato que o Supremo Tribunal Federal já decidiu no julgamento do ARE-RG 748.371 (relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013), sob a sistemática da repercussão geral, que não há ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    No mérito, convém reproduzir o assentado pelo Tribunal de origem:
+    “Da análise fático-processual dos autos, constata-se que não assiste razão ao agravante, uma vez que o Rioprevidência alegou anteriormente o excesso de execução em sede de embargos, que foram julgados pelo Juízo, não tendo sido interposto qualquer recurso pelas partes.
+    Ressalte-se que o alegado excesso de execução consistente no equívoco quanto à fixação da base de cálculo para a apuração crédito exequendo deveria ter sido deduzido como matéria de defesa naqueles autos.”
+    Sendo assim, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo, quanto à correção do valor a ser pago pelo Rioprevidência, demandaria o reexame da legislação infraconstitucional aplicável à espécie, de modo que o processamento do apelo extremo se encontra inviabilizado. Neste sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. MANDADO DE SEGURANÇA. EXCESSO DE EXECUÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. LIMITES DA COISA JULGADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO STF NO ARE 748.371. TEMA 660. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 918.665-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 19.08.2016)
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Prequestionamento. Ausência. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Compensação. Discussão quanto à identidade de pleitos. Conexão. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A matéria constante dos dispositivos constitucionais tidos como violados não foi examinada pelo Tribunal de origem. Incidência das Súmulas nºs 282 e 356 desta Corte. 2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 3. Inadmissível, em recurso extraordinário, a análise de legislação infraconstitucional ou o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 4. Agravo regimental não provido.” (ARE 938.284-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 02.05.2016)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 7 de fevereiro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
