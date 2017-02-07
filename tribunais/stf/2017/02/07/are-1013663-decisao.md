@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado da Bahia, nos autos da Apelação 0347788-02.2012.8.05.0001. (eDOC 11, p. 30-42)
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, alega-se que o acórdão recorrido viola o art. 5º, inciso LXXIV, da Constituição Federal. (eDOC 12, p. 38-48)
+    Em síntese, o recorrente sustenta que as provas constantes dos autos não podem infirmar que o mesmo dedicava-se à atividade de traficância.
+    O Tribunal a quo não admitiu o recurso extraordinário por óbice da Súmula 279/STF. (eDOC 13, p. 40)
+    Contra a referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, no qual se repisa a tese exposta no recurso extraordinário, refutando os fundamentos da decisão recorrida. (eDOC 14, p. 13-24)
+    É o relatório.
+    Decido.
+    Inicialmente, a tese ventilada no arrazoado do recurso extraordinário, apontando afronta ao texto constitucional, não foi discutida no acórdão contestado. Incide nesse caso o óbice das Súmulas 282 e 356 do STF. Nesse sentido, cito o seguinte precedente:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - Nos termos da orientação firmada pelo Supremo Tribunal Federal, cabe à parte agravante impugnar todos os fundamentos da decisão. Incidência da Súmula 283 do STF. III - Agravo regimental a que se nega provimento. (ARE 790.511/MG AgR, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 15.4.2015)
+    De outro modo, inviável o conhecimento da pretensão nos termos expostos pela defesa, pois a reanálise de toda a instrução probatória para a dedução das alegações do recorrente, com a consequente absolvição da conduta a ele imputada, é vedada no âmbito do recurso extraordinário, tendo em vista o disposto na Súmula 279/STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 33 DA LEI Nº 11.343/06. ALEGADA VIOLAÇÃO DO ARTIGO 5º, XLVI E LVII, DA CF/88. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. FIXAÇÃO DE REGIME DE PENA. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. AGRAVO DESPROVIDO.” (ARE 910.347 AgR/Sp, Rel. Min. Luiz Fux, 1ª Turma, Dje 30.5.2016)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Lei de Drogas. 3. Desclassificação da imputação de tráfico de entorpecentes para o de consumo pessoal. 4. Minorante do § 4º do art. 33 da Lei n. 11.343/2006. 5. Acórdão impugnado afastou pleito desclassificatório levando em consideração quantidade e variedade de drogas encontrada em poder do acusado. 6. Minorante da Lei de Drogas afastada, considerado o envolvimento do recorrente com outros indivíduos que atuam no tráfico. 7. Pedidos que demandam revolvimento do acervo fático-probatório. Incidência do Enunciado 279 da Súmula do STF. 8. Agravo regimental a que se nega provimento.” ( ARE 830.211 AgR/BA, de minha relatoria, 2ª Turma, Dje 16.9.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 7 de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
