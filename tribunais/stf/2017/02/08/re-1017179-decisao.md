@@ -1,0 +1,13 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o Conselho Recursal dos Juizados Cíveis e Criminais do Tribunal de Justiça do Estado do Rio de Janeiro teria transgredido o preceito inscrito no art. 196 da Constituição da República.
+    O exame da presente causa evidencia que o apelo extremo em questão não se revela viável.
+    É que o acórdão recorrido, ao manter a sentença por seus próprios fundamentos, examinou a questão jurídica sob uma perspectiva estritamente infraconstitucional (Código de Processo Civil), sem discutir a matéria pertinente ao fundo da controvérsia, que constitui objeto das razões do recurso extraordinário.
+    Com efeito, o exame da causa evidencia que o acórdão emanado do órgão judiciário de origem resolveu a questão em referência, fazendo-o em contexto meramente legal, invocando, para fundamentar esse julgamento, regra inscrita em diploma infraconstitucional, qual seja, a inadmissibilidade de “Pedido genérico, incerto e futuro”.
+    Isso significa, portanto, que o fundamento jurídico que sustenta a decisão em referência reveste-se, unicamente, de índole ordinária, apoiando-se, por isso mesmo, em prescrições e formulações que se situam em domínio regido pelo direito comum, circunstância esta que poderá caracterizar, quando muito, situação de ofensa reflexa ao texto da Carta Política, apta, por si só, a tornar incabível o acesso à via recursal extraordinária (RTJ 94/462 – RTJ 132/455 – RTJ 150/587 – RTJ 161/685, v.g.).
+    Vê-se, desse modo, que o debate veiculado no julgamento em questão fez instaurar, na espécie, contencioso de mera legalidade, o que basta para inviabilizar a admissibilidade do recurso extraordinário.
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC/15, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC/15, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC/15, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no  § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 08 de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
