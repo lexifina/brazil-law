@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Eis a síntese do acórdão prolatado pelo Tribunal Superior do Trabalho:
+    COMPLEMENTAÇÃO DE APOSENTADORIA. REAJUSTE. EX-EMPREGADOS DO BANCO BANESPA. ÍNDICE GPI-DI PREVISTO NO “PLANO PRÉ-75”. AUSÊNCIA DE ADESÃO DO RECLAMANTE POR ESSE PLANO.
+    Esta Corte adota o entendimento de que o reclamante, ex-empregado do Banco Banespa, que não aderiu ao “Plano Pré-75”, não tem direito ao reajuste da sua complementação de aposentadoria estabelecido nesse plano, fundamentando-se no disposto da Súmula nº 51 , item II, do TST.
+    Recursos de revista conhecidos e providos.
+    No extraordinário, cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, inciso XXXVI, 7º, inciso VI, 37, 40, § 4º, 59, inciso VII, 93, inciso IX, 194, parágrafo único, inciso IV, 201, § 4º, e 202 da Constituição Federal. Argui a inobservância ao direito adquirido quanto à paridade de proventos entre todos os aposentados no plano de previdência do recorrido até 22 de maio de 1975. Aduz a inconstitucionalidade da redução, unilateral, do valor da complementação dos proventos de aposentadoria. Articula com a necessidade de autorização prévia da Secretaria de Previdência Complementar, no caso de entidade de previdência privada como o recorrido, para exigir a opção de reajustamento em questão. Sustenta a ausência de lastro financeiro do “Fundo Pré-75”, ao qual se exigiu a adesão que resultaria no aumento do valor da complementação da aposentadoria.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    De acordo com o que se extrai do acórdão regional, é incontroverso que o reclamante não aderiu ao Plano Pré-75, permanecendo vinculado às regras estipuladas no Regulamento Interno do reclamado, que não foi revogado pelo plano superveniente. Assim, adotou o entendimento de ser cabível o pleito de aplicação de índices de reajustes estabelecidos em plano de previdência complementar, destinado apenas aos empregados que efetuaram a opção, o que contraria o entendimento da Súmula nº 51 do TST, precisamente no item II, que assim dispõe:
+    "Havendo a coexistência de dois regulamentos da empresa, a opção do empregado por um deles tem efeito jurídico de renúncia às regras do sistema do outro. (ex-OJ nº 163 da SBDI-1 - inserida em 26.03.1999)".
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 8 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
