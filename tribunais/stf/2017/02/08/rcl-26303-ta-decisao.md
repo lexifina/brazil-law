@@ -1,0 +1,16 @@
+DECISÃO
+NEPOTISMO – VERBETE VINCULANTE Nº 13 DA SÚMULA DO SUPREMO – ALCANCE – RELEVÂNCIA DO PEDIDO – LIMINAR DEFERIDA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Victor Rosa Travancas, advogando em causa própria, afirma haver Marcelo Bezerra Crivella, prefeito do Município do Rio de Janeiro, inobservado o teor do verbete vinculante nº 13 da Súmula do Supremo.
+    Segundo argumenta, por meio do Decreto “P” nº 483, de 1º de fevereiro de 2017, o Chefe do Executivo local nomeou o próprio filho, Marcelo Hodge Crivella, para exercer o cargo em comissão de Secretário Chefe da Casa Civil, do que decorreria a ofensa ao paradigma. Discorre sobre as atribuições do citado cargo, bem assim acerca dos princípios republicano, da moralidade e da impessoalidade. Consoante destaca, o nomeado possui formação em psicologia cristã, sem experiência em administração pública, além de ter residido, no momento anterior ao da indicação para a referida posição, nos Estados Unidos.
+    Sob o ângulo do risco, alude à prática, pelo nomeado, de atos nulos, passíveis de causar prejuízos ao ente público.
+    Requer, em sede liminar, a suspensão da eficácia do ato impugnado e, alfim, a respectiva cassação.
+    2. Mostra-se relevante a alegação. Por meio do Decreto “P” nº 483, o atual titular do Poder Executivo do Município do Rio de Janeiro nomeou, em 1º de fevereiro último, o próprio filho para ocupar o cargo em comissão de Secretário Chefe da Casa Civil local. Ao indicar parente em linha reta para desempenhar a mencionada função, a autoridade reclamada, mediante ato administrativo, acabou por desrespeitar o preceito revelado no verbete vinculante nº 13 da Súmula do Supremo, cujo teor transcrevo:
+    A nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas, viola a Constituição Federal.
+    Sinalizando o alcance da Constituição Federal, o enunciado contempla três vedações distintas relativamente à nomeação para cargo em comissão, de confiança ou função gratificada em qualquer dos Poderes de todos os entes integrantes da Federação. A primeira diz respeito à proibição de designar parente da autoridade nomeante. A segunda concerne a parente de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento. A terceira refere-se ao nepotismo cruzado, mediante designações recíprocas. No mais, o teor do verbete não contém exceção quanto ao cargo de secretário municipal.
+    3. Defiro a liminar para suspender a eficácia do Decreto “P” nº 483, de 1º de fevereiro de 2017, do Prefeito do Município do Rio de Janeiro.
+    4. Presente a regência do Código de Processo Civil de 2015, citem os interessados e requisitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 8 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
