@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “RESPONSABILIDADE CIVIL — FALHA NA PRESTAÇÃO DE SERVIÇO PÚBLICO — Atropelamento de animal silvestre em rodovia — Responsabilidade objetiva (CR, art. 37, § 6º e CDC, arts. 3 e 14) — Nexo e danos demonstrados — Ausência de causas de rompimento do nexo causal — Sentença de parcial procedência — Apelo da ré parcialmente provido apenas para reduzir a verba compensatória dos danos imateriais.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação ao art. 37, § 6º, da Constituição.
+    O recurso extraordinário é inadmissível, tendo em vista que a solução da controvérsia pressupõe, necessariamente, o reexame dos fatos, do material probatório contantes dos autos (Súmula 279/STF), o que não é possível em recurso extraordinário. Precedentes: AI 855.343-AgR Rel. Min. Luiz Fux; e ARE 705.643-AgR, julgado sob a relatoria do Ministro Celso de Mello:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO (CF, ART. 37, § 6º) – CONFIGURAÇÃO – ANIMAL EM RODOVIA – ACIDENTE AUTOMOBILÍSTICO COM VÍTIMA FATAL – RECONHECIMENTO, PELO TRIBUNAL DE JUSTIÇA LOCAL, DE QUE SE ACHAM PRESENTES TODOS OS ELEMENTOS IDENTIFICADORES DO DEVER ESTATAL DE REPARAR O DANO – NÃO COMPROVAÇÃO, PELO ESTADO DE MATO GROSSO DO SUL, DA ALEGADA INEXISTÊNCIA DO NEXO CAUSAL – CARÁTER SOBERANO DA DECISÃO LOCAL, QUE, PROFERIDA EM SEDE RECURSAL ORDINÁRIA, RECONHECEU, COM APOIO NO EXAME DOS FATOS E PROVAS, A INEXISTÊNCIA DE CAUSA EXCLUDENTE DA RESPONSABILIDADE CIVIL DO PODER PÚBLICO – INADMISSIBILIDADE DE REEXAME DE PROVAS E FATOS EM SEDE RECURSAL EXTRAORDINÁRIA (SÚMULA 279/STF) – DOUTRINA E PRECEDENTES EM TEMA DE RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO – ACÓRDÃO RECORRIDO QUE SE AJUSTA À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL – RECURSO IMPROVIDO.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 08 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
