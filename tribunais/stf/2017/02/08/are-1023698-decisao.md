@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “Policial Militar. Suspensão dos vencimentos em razão de prisão cautelar. Impossibilidade de restabelecimento dos vencimentos em razão do afastamento do cargo. Recebimento do Auxílio reclusão pelos dependentes. Previsão no artigo 29 e §3° da Lei Complementar n° 1.013/2007. Recurso Provido” (pág. 104 do documento eletrônico 1).
+    No RE, interposto com base no art. 102, III, a e c, da Constituição Federal, alegou-se, em suma, violação aos arts. 5°, LVII, e 37, XV, da mesma Carta.
+    Sustenta, em síntese, que a aplicação do artigo 7°, I, do Decreto-Lei n° 260/70, pelo Tribunal a quo, no qual suspendeu os vencimentos do recorrente por força da prisão cautelar viola os princípios constitucionais da presunção de inocência e da irredutibilidade de vencimentos.
+    A pretensão recursal merece acolhida.
+    Isso porque esta Corte possui entendimento no sentido de que norma legal que prevê a redução de vencimentos de servidores públicos processados criminalmente viola o disposto nos arts. 5°, LVII, e 37, XV da Constituição Federal. Nesse sentido, cito o RE 482.0006/MG, de minha relatoria:
+    “No que se refere à previsão de redução dos vencimentos, pelo simples fato de os servidores terem sido denunciados e estarem respondendo a processo penal por crime funcional, sem que tenha havido ainda qualquer condenação, entendo que essa previsão legal implica flagrante violação ao princípio da presunção de inocência, consubstanciado no inciso LVII do art. 5° da Constituição Federal.
+    Isso porque, a se admitir a redução da remuneração dos servidores em tais hipóteses, estar-se-ia validando verdadeira antecipação de pena, se, que tenha sido precedida do devido processo legal, e antes mesmo de qualquer condenação, nada importando que haja previsão de devolução das diferenças, em caso de absolvição.”
+    Seguindo a mesma orientação, confiram-se os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor público. Prisão preventiva. 3. Desconto nos vencimentos. Impossibilidade. Precedente. 4. Agravo regimental a que se nega provimento.” (ARE 776.213-AgR/PR, Rel. Min. Gilmar Mendes)
+    “EMENTA Servidores presos preventivamente. Descontos nos proventos. Ilegalidade. Precedentes. Pretendida limitação temporal dessa situação. Impossibilidade por constituir inovação recursal deduzida em momento inoportuno. 1. A jurisprudência da Corte fixou entendimento no sentido de que o fato de o servidor público estar preso preventivamente não legitima a Administração a proceder a descontos em seus proventos. 2. O reconhecimento da legalidade desse desconto, a partir do trânsito em julgado de eventual decisão condenatória futura, constitui inovação recursal deduzida em momento inoportuno. 3. Agravo regimental não provido.” (AI 723.284-AgR/RS, Rel. Min. Dias Toffoli)
+    “E M E N T A: RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – POLICIAL CIVIL – PRISÃO CAUTELAR – REDUÇÃO DOS VENCIMENTOS – IMPOSSIBILIDADE – VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA E DA IRREDUTIBILIDADE DE VENCIMENTOS (CF, ART. 5º, INCISO LVII, E ART. 37, INCISO XV) – RECURSO IMPROVIDO.” (ARE 715.658-AgR/PR, Rel. Min. Celso de Mello)
+    Desse modo, o acórdão recorrido merece ser reformado, uma vez que as instâncias ordinárias divergiram da orientação firmada pela jurisprudência desta Suprema Corte acerca da matéria.
+    Isso posto, dou provimento ao recurso (art. 21, § 2°, do RISTF).
+    Publique-se.
+    Brasília, 8 de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
