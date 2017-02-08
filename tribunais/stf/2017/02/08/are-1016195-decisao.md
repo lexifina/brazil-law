@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado do Ceará, cuja ementa reproduzo a seguir :
+    “PROCESSUAL CIVIL. APELAÇÃO EM AÇÃO ORDINÁRIA QUE VEICULA PRETENSÃO JÁ DEDUZIDA EM AÇÃO POSSESSÓRIA, LITISPENDÊNCIA. PROCESSO EXTINTO SEM JULGAMENTO DO MÉRITO. APELAÇÃO CONHECIDA E DESPROVIDA. AÇÕES CAUTELARES QUE VISAM EMPRESTAR EFEITO SUSPENSIVO A RECURSOS APELATÓRIOS. AUSÊNCIA DE INTERESSE DE AGIR. EXISTÊNCIA DE RECURSO ESPECÍFICO PARA COMBATER A DECISÃO QUE ATRIBUI EFEITOS À APELAÇÃO. PETIÇÕES INICIAIS INDEFERIDAS.
+    - As presentes lides nasceram da controvérsia acerca da revogação da permissão de uso relativa a boxes no Termina! Rodoviário Engenheiro João Thomé - TERJOT. Revogada a permissão, o DERT ajuizou ação de reintegração de posse para desalojar os ocupantes.
+    Concomitantemente, alguns dos permissionários ajuizaram ação ordinária para discutir sou direito de preferência em futura licitação. Esta ação foi extinta sob o fundamento do litispendência. Com a procedência da ação possessória. foram interpostas apelações, as quais foram recebidas somente no efeito devolutivo, motivo pelo qual foram ajuizadas as presentes ações cautelares.
+    - O Código de Processo Civil conferiu às ações possessórias o caráter dúplice, tornando despicienda a utilização de reconvenção ou de ação própria para se discutir aspectos referentes à posse.
+    - Tendo os réus, ora apelantes, deduzido, na ação do reintegração de posse, pretensão do manterem a ocupação do espaço público, não lhes é permitido repetir, em ação ordinária, tal objeto. O presente apelo devolve as mesmas toses levantadas em primeiro grau e também na contestação da possessória, o que evidencia a litispendência.
+    - Apelação conhecida e desprovida. Mantida a decisão que extinguiu o processo som julgamento de mérito.
+    - O Código Buzaid estabeleceu recurso especifico contra decisão que atribuí efeitos ao recurso de apelação, o que inviabiliza a interposição de ação cautelar com o único objeto de se atribuir efeito suspensivo ao apelo.
+    - Petições iniciais indeferidas, ocasionando a extinção dos processos sem julgamento do mérito.”(eDOC -5, p. 79)
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, alega-se ofensa aos artigos 5º, I, II, XXXV, LIV, LV, 37, caput, 93, IX, e 170, todos da Constituição Federal, sob os argumentos de violação aos princípios relativos à isonomia, à legalidade, ao acesso do Judiciário, ao devido processo legal, ao contraditório e à ampla defesa, bem assim, aos preceitos da Administração Pública, à motivação das decisões judiciais e ao princípio da preservação da empresa.
+    Aduz-se ofensa à Lei Estadual 12.737/97 e ao art. 33 Lei 8.245/91, pois o Tribunal a quo não teria garantido à recorrente o direito de preferência na aquisição de boxes comerciais no terminal rodoviário de Fortaleza.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Da análise detida dos autos, verifica-se que o Tribunal de origem dirimiu a questão da controvérsia com fundamento na aplicação dos artigos 267, I e IV e 295, III, do Código de Processo Civil, assim se depreende da decisão do voto condutor do acórdão, in verbis:
+    “Assim, tendo o Código de Processo Civil previsto recurso específico – o agravo de instrumento – para se discutir os efeitos em que a apelação é recebida, inexiste o binômio necessidade-adequação para que se utiliza a ação cautelar em lugar de agravo:
+    (…)
+    Ressalte-se que os tribunais vem admitindo o manejo da ação cautelar para a obtenção de efeito suspensivo unicamente para os casos em que tal efeito não foi expressamente previsto para determinada espécie recursal, a exemplo do recurso especial para o STJ. Nessas hipóteses, em que o único efeito atribuível ao recurso é o devolutivo, cabe o manejo da ação cautelar para a suspensão dos efeitos da decisão recorrida. Não se trata, evidentemente, do caso em tela.” (eDOC-5, p. 91)
+    Entretanto, sem embargo do teor, manifestado nestes autos, a respeito, abstratamente, da possível afronta às previsões constitucionais relativas aos princípios da Administração Pública, ao direito de preferência, à isonomia e à proporcionalidade, constata-se que, no caso concreto, a parte Recorrente fundamenta o apelo extremo em argumentos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em norma legal (artigos 267, I e IV, e 295, III, do Código de Processo Civil de 1973), o que não é cabível em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 8 de fevereiro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
