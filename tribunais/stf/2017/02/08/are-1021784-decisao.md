@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “EMBARGOS À EXECUÇÃO – PRELIMINAR DE NULIDADE DE SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO – AFASTAR – PERÍCIA CONTÁBIL – DESNECESSÁRIA – AUSÊNCIA DE CITAÇÃO DA CÔNJUGE DO EXECUTADO – IRRELEVÂNCIA – NOTA PROMISSÓRIA – REGULARIDADE VERIFICADA – VÍCIOS NÃO DEMONSTRADOS – ALEGAÇÃO DE EXCESSO DE EXECUÇÃO – FALTA DE PROVA – AUSÊNCIA DE MEMÓRIA DE CÁLCULO COM INDICAÇÃO DO VALOR QUE SE ENTENDE DEVIDO – NÃO CABIMENTO – JUROS DE MORA DEVIDOS A PARTIR DO VENCIMENTO – MORA ‘EX RE’.
+    […].”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, I; 5º, caput, XXXV, LIV e LV; e 93, IX, todos da Constituição.
+    O recurso extraordinário é inadmissível, uma vez que os preceitos constitucionais tidos por violados não foram objetos de análise pelo Tribunal de origem. Tampouco foram opostos embargos de declaração para suprir eventual omissão, de modo que o recurso carece de prequestionamento (Súmulas 282 e 356/STF).
+    Seja como for, para dissentir da conclusão adotada pelo Tribunal de origem, seriam necessários a análise da legislação infraconstitucional aplicada e o reexame de fatos e provas dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Ademais, o Plenário deste Tribunal, sob a sistemática da repercussão geral, já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões, como ocorre neste caso. Veja-se, a propósito, a ementa do AI 791.292-QO-RG, Rel. Min. Gilmar Mendes (Tema 339):
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 08 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
