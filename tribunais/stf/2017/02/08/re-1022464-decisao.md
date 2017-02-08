@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Colegiado de origem, reformando o entendimento do Juízo, julgou improcedente o pedido de diferenças salariais, aludindo à legislação de regência. No extraordinário, a recorrente aponta violados os artigos 5º, inciso LIV, 7º, incisos XXX e XXXI, 37, inciso XV, 40, §4º e § 5º, e 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão recorrido por negativa de prestação jurisdicional. Discorre sobre o direito à paridade, afirmando devido o pagamento da gratificação pleiteada em igualdade de condições com os servidores ativos até a conclusão do primeiro ciclo da avaliações.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    No caso específico da GDPGPE, existe uma peculiaridade que não pode ser ignorada. A Lei nº 11.357/06 estruturou o Plano Especial de Cargos do Poder Executivo - PGPE, da seguinte forma:
+    Art. 1o Fica estruturado o Plano Geral de Cargos do Poder Executivo - PGPE composto por cargos efetivos de nível superior, intermediário e auxiliar não integrantes de Carreiras específicas, Planos Especiais de Cargos ou Planos de Carreiras instituídos por leis específicas e voltados ao exercício de atividades técnicas, técnico-administrativas e de suporte no âmbito dos órgãos e entidades da administração federal direta, autárquica e fundacional. (Redação dada pela Lei nº 11.490, de 2007)
+    (...)
+    Art. 3º Os servidores titulares de cargos de provimento efetivo de que trata o parágrafo único do art. 1º desta Lei serão automaticamente enquadrados no PGPE, de acordo com as respectivas atribuições, os requisitos de formação profissional e a posição relativa na Tabela, conforme Anexo II desta Lei. (...)
+    (...)
+    § 7º O disposto neste artigo aplica-se aos aposentados e pensionistas.
+    (…)
+    Os servidores ativos do INSS não foram alcançados pelo PGPE, pois já estavam enquadrados na Carreira do Seguro Social de acordo com a Lei nº 10.855/04. Apenas os aposentados e pensionistas, que estavam enquadrados no PCC, tiveram a opção pelo enquadramento no PGPE.
+    Portanto, não existem servidores ativos do INSS que recebam a GDPGPE.
+    A consequência disso é que, embora a Lei nº 11.357/06 tenha, em tese, criado uma situação de discriminação indevida entre os servidores ativos não avaliados e os servidores inativos, essa discriminação não ocorre na prática. Se não há qualquer servidor ativo não avaliado que tenha percebido a GDPGPE em valor maior que a parte autora, no âmbito do INSS, não há fundamento para o pedido de majoração desta gratificação, pois não ocorre violação da isonomia.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão mediante a qual admitido o extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, a reger o recurso.
+    3. Nego seguimento ao extraordinário. Fixo os  honorários  recursais em 5% sobre o valor da causa, nos termos do artigo 85, § 11, do citado diploma legal. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 8 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
