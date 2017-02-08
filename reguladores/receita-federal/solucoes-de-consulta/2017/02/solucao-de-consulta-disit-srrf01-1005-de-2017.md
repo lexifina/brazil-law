@@ -1,0 +1,10 @@
+Solução de Consulta Disit/SRRF01 nº 1005, de 23 de janeiro de 2017
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS. GILRAT. GRAU DE RISCO. ATIVIDADE PREPONDERANTE. ESTABELECIMENTO.
+Por força do art. 19 da Lei nº 10.522, de 2002, conjugado com o Ato Declaratório nº 11, de 2011, não é mais permitido o uso do critério prescrito no art. 202, § 3º, do Decreto nº 3.048, de 1999, para a aferição da alíquota da contribuição previdenciária de que trata o art. 22, inciso II, da Lei nº 8.212, de 1991. Aplica-se, portanto, obrigatoriamente, o critério previsto na IN RFB nº 971, de 2009, art. 72, § 1º, inciso II, com a redação dada pela IN RFB nº 1.453, de 2014.
+A atividade econômica principal da empresa, que define o código CNAE principal a ser informado no cadastro do CNPJ, não se confunde com a atividade preponderante do estabelecimento (matriz ou filial), atividade esta que é utilizada para se determinar o grau de incidência de incapacidade laborativa decorrente dos riscos ambientais do trabalho (GILRAT/SAT).
+Considera-se atividade preponderante aquela que ocupa, em cada estabelecimento da empresa (matriz ou filial), o maior número de segurados empregados e trabalhadores avulsos.
+O enquadramento do estabelecimento no correspondente grau de risco é de responsabilidade da empresa, e deve ser feito mensalmente, de acordo com a sua atividade econômica preponderante.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 179, DE 13 DE JULHO DE 2015, À SOLUÇÃO DE CONSULTA COSIT Nº 180, DE 13 DE JULHO DE 2015, E À SOLUÇÃO DE CONSULTA COSIT Nº 90, DE 14 DE JUNHO DE 2016.
+DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, art. 15, I, e art. 22; Regulamento da Previdência Social - RPS, aprovado pelo Decreto nº 3.048, de 1999, Anexo V; Lei nº 10.522, de 2002, art. 19; Instrução Normativa RFB nº 971, de 2009, arts. 72 e 488; Instrução Normativa RFB nº 1.470, de 2014, art. 4º; Ato Declaratório nº 11, de 2011; Parecer PGFN/CDA nº 2.025, de 2011; Parecer PGFN/CRJ nº 2.120, de 2011; arts. 22, 27 e 32 da IN RFB nº 1.396, de 2013.
+[arquivo anexo: SC SRRF01-Disit nº 1005-2017.pdf]
