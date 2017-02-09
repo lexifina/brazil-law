@@ -1,0 +1,16 @@
+DECISÃO
+HABEAS CORPUS – LIMINAR – PREJUÍZO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal do Foro Central Criminal Barra Funda, da Comarca da Capital/SP, no processo nº 0083753-16.2011.8.26.0050, recebeu denúncia em desfavor do paciente ante o suposto cometimento das infrações descritas nos artigos 33, cabeça (tráfico de drogas), e 34 (guardar aparelhos e instrumentos destinados à fabricação de drogas) da Lei nº 11.343/2006. Determinou a prisão preventiva, em 19 de abril de 2012, apontando a existência de indícios de autoria e prova da materialidade. Consignou a gravidade e hediondez do delito, concluindo pela periculosidade do paciente. Disse imprescindível a constrição para garantia da ordem pública, levando em conta a possibilidade de reiteração criminosa. Em 1º de agosto de 2013, condenou o paciente, nos termos da denúncia ofertada, a 8 anos de reclusão, em regime inicial fechado, e ao pagamento de 1.700 dias-multa. Afastou a causa de diminuição prevista no § 4º do artigo 33 da Lei de Drogas, em virtude de dedicar-se às atividades criminosas. Negou o direito de apelar em liberdade, tendo a custódia como necessária para garantir a ordem pública, considerada a gravidade do delito e a comoção social.
+    A Décima Quarta Câmara de Direito Criminal deu parcial provimento ao apelo defensivo, para absolver o paciente pelo delito de guarda de aparelhos e objetos destinados à fabricação de drogas, mencionando o que veiculado no artigo 386, inciso V, do Código de Processo Penal. A pena foi redimensionada para 5 anos de reclusão em regime inicial fechado, mantendo-se a condenação pelo tráfico de drogas.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 344.939/SP, inadmitido pelo Relator.
+    Os impetrantes sublinham as condições pessoais favoráveis à redução prevista no § 4º do artigo 33 da Lei nº 11.343/2006. Destacam a ausência de fundamentação idônea para o afastamento da mencionada causa de diminuição, mantida pelo Tribunal apenas em razão da quantidade de droga, a implicar a suposição de que o paciente se dedicava ao comércio de entorpecentes. Dizem da necessidade de imposição de regime diverso do fechado. Reportam-se ao disposto no artigo 33, § 2º, letra “b”, do Código Penal.
+    Requerem, em âmbito liminar, a revogação da preventiva. No mérito, buscam a redução da pena, observado o privilégio citado, substituindo-se a sanção por restritivas de direito. Sucessivamente, pleiteiam a imposição de regime inicial semiaberto.
+    Consulta ao sítio do Tribunal de Justiça de São Paulo, realizada em 3 de fevereiro de 2017, revelou ter ocorrido o trânsito em julgado da condenação em 2 de fevereiro de 2016, para a defesa, e em 24 de fevereiro seguinte, para o Ministério Público. O Juízo, em 13 de abril de 2016, determinou o cumprimento do acórdão, expedindo-se nova ordem de prisão. O respectivo mandado encontra-se em aberto no Banco Nacional de Mandados de Prisão.
+    A fase é de exame da medida acauteladora.
+    2. No tocante ao pedido de revogação da preventiva, tem-se o prejuízo do pleito liminar, ante o trânsito em julgado da condenação.
+    3. Colham o parecer da Procuradoria-Geral da República.
+    4. Publiquem.
+Brasília, 9 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
