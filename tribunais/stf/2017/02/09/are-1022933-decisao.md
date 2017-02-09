@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão assim ementado:
+    “MANDADO DE SEGURANÇA – Sistema de rodízio de veículos – competência do Município – não há ilegalidade ou abusividade na regulamentação de regras para melhorar a circulação do trânsito urbano – Sonegação da verdade e comportamento desleal – Sanções pela litigância de má-fé – Recurso improvido (pág. 57 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, b e c, da Constituição Federal, sustenta-se, em suma, violação aos arts. 5º, II, XV, 30, I e 22, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, verifico que o acórdão recorrido não declarou a inconstitucionalidade de lei ou ato normativo ou afastou sua aplicação sem observância do art. 97 da Constituição. Incabível a interposição do RE com fundamento no art. 102, III, alínea b. E, também, não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição Federal.
+    Verifica-se, ainda, que para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem seria necessária a interpretação da legislação infraconstitucional local, o que é vedado em sede de recurso extraordinário, conforme Súmula 280/STF. Nesse sentido:
+     “AGRAVO REGIMENTAL. PROGRAMA DE RESTRIÇÃO À CIRCULAÇÃO DE VEÍCULOS AUTOMOTORES NA REGIÃO METROPOLITANA DE SÃO PAULO. "OPERAÇÃO RODÍZIO". ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA LEGALIDADE E DO LIVRE EXERCÍCIO DO TRABALHO. COMPETÊNCIA LEGISLATIVA. Ausência de prequestionamento. Questão não ventilada na decisão recorrida. Ausência de interposição de embargos de declaração. Necessidade de exame prévio de norma infraconstitucional para a verificação de contrariedade ao Texto Maior. Caracterização de ofensa reflexa ou indireta. Agravo regimental a que se nega provimento” (AI nº 389.611/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa - grifei).
+     Sobre o tema, destacam-se também as seguintes decisões monocráticas: RE n° 249.835/SP, Relatora a Ministra Cármen Lúcia, DJe de 19/5/09; RE nº 284.458/SP, Relator o Ministro Gilmar Mendes, DJ de 2/12/05; AI nº 333.115/SP, Relator o Ministro Cezar Peluso, DJ de 27/10/04; e no AI nº 534.690/SP, Relator o Ministro Carlos Velloso , DJ de 7/12/05.
+    Por fim, ressalto que este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando o exame da ofensa envolva a reanálise de interpretação dada à norma infraconstitucional pelo Juízo a quo (Súmula 636/STF).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 9 de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
