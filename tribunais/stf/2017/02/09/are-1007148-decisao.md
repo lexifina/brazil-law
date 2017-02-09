@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão da 2ª Turma Recursal da Seção Judiciária do Rio de Janeiro, assim ementado:
+    “TRIBUTÁRIO. CONSELHO PROFISSIONAL. NATUREZA JURÍDICA DE AUTARQUIA. ANUIDADES. PRINCÍPIO DA LEGALIDADE. IMPOSSIBILIDADE DE FIXAÇÃO DE VALORES POR RESOLUÇÕES ADMINISTRATIVAS. PRESCRIÇÃO E DECADÊNCIA. DESLIGAMENTO FORMAL. SENTENÇA MANTIDA. RECURSO CONHECIDO E IMPROVIDO” (eDOC 30, p. 1)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 149; 196; e 197, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, a constitucionalidade das leis 5.905/73 e 11.000/04, que atribuem competência aos Conselhos Regionais para fixar o valor da anuidade, ante a revogação expressa da Lei 6.994/82.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido e da realidade processual, o que torna aplicável ao caso o enunciado da súmula 284 do STF.
+    Ocorre que a parte Recorrente sustenta o seguinte:
+    “Destarte, face à circunstância de que não há lei fixando o valor das anuidades a serem cobradas pelo COREN-RJ e considerando que a paralisação das atividades por este desenvolvidas resultaria em graves danos à sociedade, decorrentes da violação de princípios de estatura constitucional, impõe-se seja declarado ainda constitucional o artigo 2º da Lei nº 11.000/04.
+    Neste sentido, também o artigo 15, XI da Lei nº 5.905/73, o qual atribui competência aos Conselhos Regionais para fixar o valor da anuidade, deve ser declarado ainda constitucional, pelas mesmas razões acima perfilhadas.” (eDOC 31, p. 16)
+    No entanto, outro foi o fundamento do acórdão impugnado, que assim decidiu:
+    “A autora alega que se filiou ao COREN, mas, tendo se aposentado em 1995, não voltou a exercer qualquer tipo de atividade sobre a qual referido conselho exerce seu poder de polícia. Ocorre que a autora não requereu o cancelamento de sua inscrição àquela época, o que gerou, em 2013, a cobrança das anuidades alusivas aos anos de 2003 a 2007. Ainda alude que a formalização de pedido de baixa na sua inscrição ocorreu somente em 29/02/210, mas, como jamais voltou a exercer atividade fiscalizada pelo conselho réu; como entre 1995 e 2000 residiu, inclusive, no estado do Espírito Santo; e como jamais recebera qualquer notificação do conselho, antes de 2012, entende que a cobrança que lhe está sendo feita é indevida.
+     O COREN alega que pelo fato da autora não ter se desvinculado formalmente do órgão, é legitima a cobrança das anuidades, e que a inserção do seu nome em cadastros restritivos de crédito é exercício regular de direito.
+    (…)
+    Afastada a tributação das contribuições do COREN por absoluta violação da legalidade, dá-se por definitiva a versão autoral quanto a proibição da respectiva cobrança.
+    De outro lado, não demonstrando a Autora ter se desligado do Conselho de forma diferente da que consta nos autos (fls.23), não há, no mais, como dar acolhimento ao pedido no sentido no sentido de considera-la desligada desde o ano de 2003. ” (eDOC 30, p. 1-7)
+    Assim, verifica-se que as razões recursais não se mostram suficientes para afastar os fundamentos da decisão recorrida.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MULTA. CARÁTER CONFISCATÓRIO. RAZÕES DISSOCIADAS. IMPOSSIBILIDADE ANÁLISE DO RECURSO. SÚMULAS 283 E 284/STF. 1. O acórdão recorrido afirmou ser inviável a discussão acerca da exigibilidade da multa em sede de exceção de pré-executividade. Por outro lado, as razões do recurso extraordinário limitaram-se a pugnar pelo reconhecimento do caráter confiscatório da penalidade. Nota-se, então, que os argumentos apresentados no recurso extraordinário estão dissociados dos fundamentos do acórdão recorrido. Nessas condições, a hipótese atrai a incidência das súmulas 283 e 284/STF. 2. Agravo regimental a que se nega provimento.” (ARE 707173 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJE-075 DIVULG 22-04-2015 PUBLIC 23-04-2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE DO APELO EXTREMO. SÚMULA 284 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. I O recorrente não impugnou especificadamente os fundamentos do acórdão recorrido. Inviável, portanto, o recurso extraordinário, a teor da súmula 284 do STF. Para se chegar à conclusão contrária à adotada pelo acórdão impugnado, seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. - Agravo regimental a que se nega provimento.” (RE 718.234-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 9.12.2013).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 9 de fevereiro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
