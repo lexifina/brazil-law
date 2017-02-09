@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “ADMINISTRATIVO – SERVIDOR PÚBLICO – ADMISSÃO MEDIANTE CONTRATO TEMPORÁRIO PARA ATENDER EXCEPCIONAL INTERESSE PÚBLICO – LEI Nº 21.333/2014 – LIMITAÇÃO TEMPORAL DA VANTAGEM – RECURSO PROVIDO. Se as funções do cargo de Agente de Segurança Penitenciário exercidas pelo autor durante o período de vigência da contratação temporária o expõem a situações de desgaste psíquico ou de risco de agressão física, a ele é assegurado o adicional no percentual de 40% sobre o vencimento básico, de acordo com o período em que o local de trabalho era considerado estabelecimento prisional de pequeno porte. O pagamento dessa vantagem fica limitado até 26.06.2014, por força de expressa vedação legal contida na Lei Estadual nº 21.333/2014.”
+    O recurso não merece acolhida. Para dissentir do entendimento firmado pelo Tribunal de origem, faz-se necessária a análise da legislação local aplicada ao caso, bem como o reexame do conjunto fático probatório dos autos, o que é inviável nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF. Nesse sentido, e sobre a mesma controvérsia, cito os seguinte precedentes: ARE 961.573, Rel.ª Min.ª Cármen Lúcia; ARE 1.002.324, Rel. Min. Marco Aurélio; ARE 1.008.032, Rel. Min. Gilmar Mendes; e ARE 899.543-AgR, Rel. Min. Luiz Fux. Este último assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL . CONTRATO TEMPORÁRIO. ADICIONAL DE LOCAL DE TRABALHO. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. INCURSIONAMENTO NO CONJUNTO FÁTICO-POBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. AGRAVO REGIMENTAL DESPROVIDO.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 09 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
