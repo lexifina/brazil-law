@@ -1,0 +1,23 @@
+RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À AUTORIDADE DAS DECISÕES PROFERIDAS PELO SUPREMO TRIBUNAL FEDERAL NO EXAME DA ADC 29/DF, DA ADC 30/DF E DA ADI 4.578/DF. AUSÊNCIA DE ESTRITA ADERÊNCIA.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional, com pedido de liminar, fundada no art. 102, I, l, da Constituição Federal, ajuizada por Maria Alexandra Pinto Moreira Marcondes contra decisão proferida pelo Tribunal Superior Eleitoral, a qual, supostamente, teria contrariado o entendimento firmado neste Supremo Tribunal Federal nas ADC’s 29 e 30 e na ADI 4.578, todas de relatoria do Ministro Luiz Fux.
+    A reclamante alega ter ajuizado ação de impugnação de registro de candidatura em face de Nelson Trabuco, então candidato a prefeito do Município de Pindorama/SP, em razão da hipótese de inelegibilidade de trata a alínea “l” do inciso I do art. 1º da LC 64/90, introduzido pela LC 135/2010.
+    Afirma que o TSE, ao julgamento de recurso especial eleitoral, afastou a incidência, ao caso, do referido dispositivo, por entender que “(…) a ilícita dispensa de concurso público, para contratação de servidores para ocupar cargos efetivos (para os quais não estavam habilitados), não gera enriquecimento ilícito nem dano ao erário, o que impediria a aplicação, à espécie, da nova cláusula de inelegibilidade inserida na LC 64/90 pela LC 135/2010.”
+    Tal entendimento, consoante aponta, contraria as decisões proferidas no julgamento das ADCs 29 e 30 e da ADI 4.578, ocasião em que, ao validar integralmente da LC 135/2010, esta Corte estabeleceu “(…) o norte interpretativo que deveria reger, em todo o Brasil, a aplicação da Lei da Ficha Limpa.”
+    2. O pedido liminar foi negado pelo então Presidente desta Corte no período do recesso forense, ao entendimento de que não houve juízo divergente quanto à constitucionalidade da LC 135/2010. Foi interposto agravo regimental.
+    3. O Ministério Público Federal opina pelo não conhecimento da reclamação, tendo em vista a ausência de aderência entre os atos confrontados.
+    É o relatório.
+    Decido.
+    1. O Supremo Tribunal Federal, em 16.02.2012, ao exame das ADCs 29 e 30 e da ADI 4.578, todas de relatoria do Ministro Luiz Fux, declarou a constitucionalidade das hipóteses de inelegibilidade introduzidas pela LC nº 135/2010, bem como a possibilidade de sua aplicação aos fatos anteriores.
+    2. O Tribunal Superior Eleitoral, por sua vez, entendeu que a causa de inelegibilidade prevista no art. 1º, I, l, da LC 64/90 pressupõe que o ato doloso de improbidade pelo qual o candidato tenha sido condenado importe, concomitantemente, lesão ao patrimônio e enriquecimento ilícito. Ao exame do contexto fático, concluiu ausente os requisitos que dariam ensejo ao reconhecimento da inelegibilidade, sob os seguintes fundamentos:
+    “A fundamentação posta no acórdão regional desafia a própria lógica, pois, se o ato violador de princípios da administração pública não acarretou economia ao erário, não decorre disso a constatação objetiva de prejuízo ou dano. Ausente, também, o enriquecimento ilícito, requisito cumulativo, nos termos dos precedentes citados, que não foi sequer analisado pelo TRE/SP.”
+    3. Desta forma, não se tratando de afastamento do dispositivo em razão de sua inconstitucionalidade, não diviso a existência aderência entre a decisão reclamada e os paradigmas invocados. Nesse sentido, o parecer exarado pelo Procurador-Geral da República:
+    “RECLAMAÇÃO. DIREITO ELEITORAL. DESOBEDIÊNCIA ÀS DECISÕES DO STF NAS ADCs 29/DF e 30/DF e ADI 4.578/DF. CONSTITUCIONALIDADE DAS HIPÓTESES DE INELEGILIBIDADE DA LC 135/2010. APLICAÇÃO A FATOS ANTERIORES. AUSÊNCIA DE IDENTIDADE MATERIAL ENTRE ATO JUDICIAL RECLAMADO E OS ACÓRDÃOS PARADIGMAS.
+    1. O Supremo Tribunal Federal julgou constitucional as hipóteses de inelegibilidade introduzidas pela LC 135/2010 e a aplicação a fatos anteriores, nas ADCs 29/DF e 30/DF e ADI 4.578/DF, pois a retroatividade inautêntica não ofende a Constituição Federal.
+    2. A decisão reclamada afastou a causa de inelegibilidade prevista no art. 1º, I, l, da LC 64/90, deferindo, por consequência, o pedido de registro de candidatura, pois o ato violador do princípio da administração pública ao qual o candidato foi condenado não acarretou dano ou prejuízo ao erário, além de entender pela ausência de enriquecimento ilícito. Ausência de identidade material entre o ato judicial reclamado e os acórdãos paradigmas.
+    3. Parecer pelo não conhecimento da reclamação.”
+    4. Ante o exposto, nego seguimento à presente reclamação (art. 21, § 1º, do RISTF), restando prejudicado o exame do agravo regimental.
+    Publique-se.
+    Brasília, 09 de fevereiro de 2017.
+Ministra Rosa Weber
+                            Relatora
