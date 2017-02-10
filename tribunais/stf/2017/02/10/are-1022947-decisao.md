@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia. Veja-se o seguinte trecho de ementa:
+    “APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. PLANO DE CLASSIFICAÇÃO DE CARGOS E SALÁRIOS. PRELIMINARES IMPOSSIBILIDADE JURÍDICA DO PEDIDO, NULIDADE PROCESSUAL E PRESCRIÇÃO. REJEITADAS. PRELIMINAR POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PREJUDICADA. MÉRITO. IMPLEMENTAÇÃO DEVIDA. OBRIGAÇÃO DA ADMINISTRAÇÃO AO PAGAMENTO. FIXADO HONORÁRIOS ADVOCATÍCIOS EM RESPEITO AOS PARÂMETROS LEGAIS. RECURSO NÃO PROVIDO. SENTENÇA INTEGRADA EM REEXAME NECESSÁRIO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte alega violação aos arts. 2º; 5º, XXXV e XXXVI; 37, caput, X, XIV, XV; 42, § 1º; 93, IX; 142, § 3º, X, e 169, § 1º, I e II, todos da Constituição.
+    Quanto à alegada ofensa aos arts. 5°, LV, e 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ademais, para dissentir da conclusão do Tribunal de origem, seria imprescindível a análise da legislação infraconstitucional aplicada ao caso, assim como o reexame do conjunto fático-probatório dos autos, o que torna inviável o processamento do recurso extraordinário.
+    Nesse sentido, veja-se o seguinte precedente: ARE 818.116-AgR. Rel. Min. Marco Aurélio.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 10 de fevereiro de 2016.
+Ministro Luís Roberto Barroso
+Relator
