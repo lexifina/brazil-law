@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro reformou o entendimento do Juízo, assentando configurada a prática de ato de improbidade administrativa e a inexistência de lesão ao erário, consoante fundamentos assim resumidos:
+    Direito Constitucional. Direito Administrativo. Improbidade Administrativa. Concurso Público. Retificação de erro material. Inexistência de cerceamento de defesa. Inocorrência de prescrição. Aplicação dos artigos 23, II da Lei nº 8.429/92 c/c 17, parágrafo único da Lei nº 427/81 c/c art. 125, IV do Código Penal Militar. Comprovação de que o quinto réu foi incorporado ao cargo de CBMERJ sem ter realizado concurso público. Fraude a concurso público para cargo no Corpo de Bombeiros do Estado do Rio de Janeiro. Violação à regra de exigência de concurso público. Nulidade do ato administrativo que o incorporou. Configurada a pratica de ato de improbidade por parte dos primeiros recorrentes. Art. 11, V, da Lei de Improbidade Administrativa. Descabida a restituição ao erário da remuneração recebida pelo quinto réu, que prestou o serviço pelo qual foi remunerado. Ausência de dano aos cofres públicos. Pagamento de honorários ao Ministério Público. Descabimento. Aplicação subsidiária da Lei de Ação Civil Pública à Lei de Improbidade Administrativa. Entendimento sedimentado do STJ. Recursos parcialmente providos.
+    No extraordinário cujo processamento busca alcançar, o recorrente aponta violado o artigo 37, § 5º, da Constituição Federal. Afirma a prescrição do ato de improbidade administrativa.
+    2. A recorribilidade extraordinária mostra-se distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    A discussão se refere à hipótese de aplicação do inciso I ou II do art. 23 da Lei nº 8.429/92, verbis:
+    Art. 23. As ações destinadas a levar a efeitos as sanções previstas nesta lei podem ser propostas:
+    I - até cinco anos após o término do exercício de mandato, de cargo em comissão ou de função de confiança;
+    II - dentro do prazo prescricional previsto em lei específica para faltas disciplinares puníveis com demissão a bem do serviço público, nos casos de exercício de cargo efetivo ou emprego.
+    Esclarece-se que, durante o processo de incorporação de Martiniano Paes Tavares no CBMERJ, Paulo Gomes dos Santos Filho exercia cargo em comissão e Valdeir Dias Pinna, função de confiança. Porém, cumpre destacar que mesmo antes destas atribuições, ambos já eram membros do CBMERJ. Assim, não se leva em conta a temporariedade do vínculo mantido, por meio do cargo em comissão e função de confiança, entre os agentes públicos e a Administração Pública, conforme lecionam Emerson Garcia e Rogério Pacheco Alves (Improbidade Administrativa, Rio de Janeiro, Lumen Juris. 6ª Edição, 2011, p 629): […]
+    Dessa forma, o prazo prescricional será o do inciso II, art. 23 da LIA, que remete o prazo prescricional à Lei específica, que no caso em tela é parágrafo único do art. 17 da Lei estadual nº 427/81.
+    Art. 17 - Prescrevem em 6 (seis) anos, computados da data em que foram praticados, os casos previstos nesta lei. Parágrafo único - Os casos também previstos no Código Penal Militar como crime prescrevem nos prazos nele estabelecidos.
+    […]
+    Assim, tendo em vista que a incorporação ilegal de Martiniano Paes Tavares foi em 14 de fevereiro de 2000, ato que se impugna por meio deste feito, e que a demanda foi ajuizada em 03 de julho de 2007, não se consumou a prescrição em relação a Paulo Gomes dos Santos Filho e Valdeir Dias Pinna.
+    Com base no mesmo raciocínio, não prospera a alegação de consumação de prescrição punitiva para Martiniano Paes Tavares, que foi a pessoa indevidamente nomeada para o cargo da CBMERJ, que, portanto, sequer exercia cargo em comissão ou função de confiança.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo interposto por Martiniano Paes Tavares e o desprovejo.
+    4. Publiquem.
+Brasília, 10 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
