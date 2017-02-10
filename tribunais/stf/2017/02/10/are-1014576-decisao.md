@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Minas Gerais, está assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA – AGENTE DE SEGURANÇA PENITENCIÁRIO – CONTRATO TEMPORÁRIO – ADICIONAL DE LOCAL DE TRABALHO – ARTIGO 1º DA LEI ESTADUAL 11.717/94 – LIMITAÇÃO – VIGÊNCIA DA LEI 21.333/2014 – IMPROCEDÊNCIA DO PEDIDO – SENTENÇA REFORMADA. 1. O agente de segurança penitenciário contratado em caráter temporário, nos moldes da Lei Estadual 18.185/2009, e com fundamento no inciso IX do artigo 37 da CR/88, faz jus ao recebimento do adicional de local de trabalho previsto no art. 1º da Lei nº 11.717/94 até a vigência da Lei nº 21.333/2014.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 37, IX e 39, § 3º, ambos da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Leis estaduais nºs 18.185/2009, 11.717/94 e 21.333/2014), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de Minas Gerais, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local, a seguir destacada:
+    “Assim, consoante incisos I e II do artigo 6º da Lei 11.717/94, até a vigência da Lei 21.333/14, os servidores contratados para a função de Agente de Segurança Penitenciaria faziam jus ao Adicional de Local de Trabalho, sendo vedado apenas aos servidores efetivos, integrantes da carreira, a acumulação do referido adicional com outro de mesma natureza.
+    Destarte, o agente de segurança penitenciário contratado em caráter temporário, nos moldes da Lei Estadual 18.185/2009 e com fundamento no inciso IX, do artigo 37, da CR/88, faz jus ao recebimento do adicionai de local de trabalho previsto no art. 1º da Lei 11.717/94 até a vigência da Lei 21.333/2014.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 961.580/MG, Rel. Min. LUIZ FUX – ARE 968.294/MG, Rel. Min. ROSA WEBER – ARE 971.483/MG, Rel. Min. DIAS TOFFOLI):
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AGENTE DE SEGURANÇA PENITENCIÁRIO. CONTRATO TEMPORÁRIO. ADICIONAL DE LOCAL DE TRABALHO. LEI ESTADUAL 11.717/1994. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. MATÉRIA DIVERSA DA TRATADA NO ARE 646.000 (TEMA 551).
+    1. Nos termos da orientação sedimentada na Súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em debate.
+    2. Agravo regimental a que se nega provimento.”
+    (ARE 918.037-AgR/MG, Rel. Min. EDSON FACHIN)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC/15, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
