@@ -1,0 +1,32 @@
+Trata-se de recursos extraordinários interpostos contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. AÇÃO CIVIL PÚBLICA. NULIDADE DA SENTENÇA. AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA.
+    Não é nula a sentença quando devidamente fundamentada, ausente necessidade de serem analisadas exaustivamente todas as teses referidas pelas partes para a decisão, bastando solucionar a lide de forma fundamentada, aplicando o Direito. Sentença de acordo com os arts. 458, II, do CPC e 93, IX, da CF.
+    AÇÃO CIVIL PÚBLICA. CABIMENTO. VIOLAÇÃO À INDEPENDÊNCIA ENTRE OS PODERES NÃO CONFIGURADA.
+    Não obstante a limitação, como regra, às pretensões nas quais a conduta do administrador pode restar pautada pelo ajuizamento e decisões prolatadas em ação civis públicas, no caso concreto a ação intentada é cabível, observados os pedidos formulados, sem pretensão de modificação da natureza jurídica das rés, não se verificando comprometimento a independência entre os Poderes. Relevância da inafastabilidade da jurisidição, sob pena de comprometimento do interesse público, primando-se pela transparência.
+    ASCAR – ASSOCIAÇÃO SULINA DE CRÉDITO E ASSISTÊNCIA RURAL E EMATER – ASSOCIAÇÃO RIOGRANDENSE EMPREENDIMENTOS DE ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL. QUESTÃO PROBATÓRIA. SITUAÇÃO FÁTICA. DEVER DE SUBMISSÃO AO REGIME JURÍDICO DA ADMINISTRAÇÃO INDIRETA. CONCURSO PÚBLICO E LICITAÇÃO.
+    Independentemente da natureza jurídica de direito privado da ASCAR (Associação Sulina de Crédito e Assistência Rural) e da EMATER (Associação Riograndense de Assistência Técnica e Extensão Rural), o conjunto probatório, considerando as altas dotações orçamentárias estaduais, bem como a confusão administrativa com integrantes da Administração Estadual, além das atividades desenvolvidas por ambas, demonstra que as duas demandadas pertencem, de fato, à administração indireta do Estado, procedendo a ação para reconhecer o dever de submissão das entidades ao regime jurídico da Administração Indireta devendo proceder à realização de concurso público para prover seus empregos, nos termos do artigo 37, II, da Constituição Federal, e observar a legislação sobre licitações para suas contratações, vindo a contribuir para ainda maior lisura aos procedimentos das entidades.
+    Inteligência do art. 37, ‘caput’, II e XXI, da CF e arts. 1° e 2° da Lei n° 8.666/93.
+    Precedentes do TJRGS e STF.
+    PRESERVAÇÃO DA TRANSPARÊNCIA E PREVALÊNCIA DO INTERESSE PÚBLICO. DIREITO À INFORMAÇÃO.
+    Com a determinação de realização de concurso público e observação da legislação de licitações, preserva-se a transparência, em nome do interesse público, sempre preponderante, devendo prevalecer o direito à informação, constitucionalmente assegurado.
+    CONCURSO PÚBLICO. QUADRO DE PESSOAL DAS ENTIDADES. EFEITOS ‘EX NUNC’ PRESERVAÇÃO DA SEGURANÇA JURÍDICA OU PROTEÇÃO DA CONFIANÇA.
+    Tratando-se de situação jurídica consolidada, mantém-se o contingente humano em exercício nas entidades, exigindo-se a realização de concurso público para as contratações de pessoal futuras, em respeito aos princípios da segurança jurídica, não podendo o novo entendimento retroagir em prejuízo ao beneficiário de boa-fé.
+    PREQUESTIONAMENTO.
+    A apresentação de questões para fins de prequestionamento não induz à resposta de todos os artigos referidos pela parte, mormente porque foram analisadas todas as questões que entendeu o julgador pertinentes para solucionar a controvérsia posta na apelação.
+    Apelações desprovidas, com explicitação do dispositivo sentencial” (págs. 80-81 do documento eletrônico 33).
+    No RE interposto pela ASCAR e pela EMATER/RS, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2°; 5°, II, XVII, XVIII, XIX, XX e LV; 37, caput, XIX e XX; e 170, parágrafo único, da mesma Carta. Já no RE interposto pelo Estado do Rio Grande do Sul, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, caput, II e XXI, da mesma Carta.
+    As pretensões recursais não merecem acolhida.
+    O tribunal de origem consignou:
+    “[...]
+    Como se vê, da leitura dos estatutos das demandadas, diante de seus objetivos, membros, competência e recursos, não há dúvida de que as demandadas constituem-se em longa manus do Estado, criadas para o exercício de determinadas atividades-fins do próprio Estado, no âmbito da agricultura e pecuária, tendo havido a opção política, à época, de criação de empresa pública para tanto, justificando-se o acolhimento da pretensão ministerial a fim de que se submetam ao regime jurídico da Administração Indireta, muito embora dela não façam parte formalmente, devendo observar, todavia, as normas de Direito Público a elas aplicáveis.
+    […]
+    Dentre a vasta documentação acostada nos 15 volumes do processos, totalizando quase três mil páginas, há relevantes elementos que evidenciam a faceta publicizada da ASCAR/EMATER, ainda que constituídas com personalidade de direito privado.
+    (pág. 6 do documento eletrônico 34).
+    Preliminarmente, observo que esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Ademais, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos (Súmula 279 do STF) e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 10 de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
