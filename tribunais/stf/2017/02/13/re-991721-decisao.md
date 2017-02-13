@@ -1,0 +1,10 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO –ACÓRDÃO COM DUPLO FUNDAMENTO – LEGAL E CONSTITUCIONAL – AUSÊNCIA DE INTERPOSIÇÃO DO ESPECIAL – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 3ª Região confirmou em parte o Juízo e assentou a inexigibilidade de taxa de licença para localização, instalação e funcionamento – TLIF, por ter como base de cálculo o número de empregados do estabelecimento contribuinte, nos exercícios de 2000, 2001 e 2002. Manteve a incidência da taxa nos exercícios fiscais de 2004 e 2005, pois a base de cálculo passou a ser calculada em função da atividade exercida no estabelecimento, na forma da Lei municipal nº 13.477/02. No recurso extraordinário cujo trânsito busca alcançar, a Empresa Brasileira de Correios e Telégrafos – ECT alega violado o artigo 145, inciso II e §2º, da Carta Política. Aduz ser a base de cálculo da taxa em questão inconstitucional, pois não há relação com a atividade estatal do poder de polícia.
+    2. O Colegiado de origem reconheceu incidir a taxa em caso a partir do disposto na Lei municipal nº 13.477/02, por entender ser o critério adotado condizente com a atividade fiscalizatória do ente. Em face de tal entendimento, o recorrente articula em recurso especial violência aos artigos 77 e 78, do Código Tributário Nacional. A jurisprudência do Supremo sedimentou-se no sentido do prejuízo do extraordinário quando a decisão impugnada alicerça-se em fundamentos legais e constitucionais e a parte não interpõe recurso especial ou, fazendo-o, diante da negativa de seguimento, queda silente.
+    Assim, incumbia ao recorrente, para não deixar precluir a matéria, alçá-la ao crivo do Superior Tribunal de Justiça, o que não ocorreu, em razão da ausência de formalização do agravo contra a decisão que inadmitiu referido recurso especial.
+    3. Ante o quadro, nego seguimento ao extraordinário da Empresa Brasileira de Correios e Telégrafos – ECT.
+    4. Publiquem.
+Brasília, 13 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
