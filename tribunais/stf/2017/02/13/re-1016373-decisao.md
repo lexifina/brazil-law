@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “Agravo Regimental – Ação Ordinária de Restabelecimento de vantagens Salariais – Servidores do DER – Gratificação Especial de Exercício – Supressão – Ato comissivo – Prejudicial de prescrição de fundo de direito acolhida – Observância o prazo de cinco anos, a contar da violação do direito autoral, que nos termos do art. 5º, V e parágrafo único, c/c art. 11 da Lei Estadual nº 3.048/1991, foi em 1º/09/1991 – Ação de conhecimento proposta somente em 02/09/2010 – Aplicação do Decreto nº 20.910/1932 – Sentença que reconhece a prescrição de fundo de direito mantida – Precedentes do STJ e desta Corte Estadual – Apelação em confronto com a jurisprudência dominante desta Corte e do Superior Tribunal de Justiça – Recurso conhecido e não provido.
+    1. Decorridos mais de cinco anos da edição da Lei nº 3.048/1991 que transformou o pagamento da gratificação especial de permanência em vantagem pessoal fixa e reajustável, a ação que visa o restabelecimento de tal vantagem é alcançada pela prescrição do próprio fundo de direito, em virtude do disposto no art. 1º do Decreto nº 20.910/1932.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI; e 37, X e XV, da Constituição.
+    O recurso extraordinário não pode ser provido. O Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Ademais, o recurso extraordinário não discute matéria constitucional. Isso porque a jurisprudência desta Corte se orienta no sentido de que a discussão acerca do prazo prescricional aplicado à Fazenda Pública pautado no Decreto nº 20.910/1932 se restringe ao âmbito infraconstitucional. Nesse sentido, veja-se a ementa do ARE 798.346-AgR, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Agravo regimental em recurso extraordinário com agravo. 2.Ação de indenização contra a Fazenda Pública. Prazo prescricional. Decreto 20.910/1932. Matéria infraconstitucional. Ofensa indireta ao texto constitucional. 3. Alegação de ofensa ao inciso IX do art. 93 da Constituição Federal. Inexistência. Precedente. AI-QO-RG 791.292. 4. Agravo regimental a que se nega provimento”.
+    Outros precedentes: ARE 776.908-AgR, Rel.ª Min.ª Cármen Lúcia; e ARE 772.157-AgR, Rel. Min. Teori Zavascki.
+    Diante do exposto, com base no 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 13 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
