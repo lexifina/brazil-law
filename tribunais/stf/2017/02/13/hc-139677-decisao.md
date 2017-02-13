@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de José Francisco Oliveira de Jesus, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que não conheceu do HC nº 368.135/AM, Relator o Ministro Félix Fischer.
+    Sustenta o impetrante, em síntese, que o paciente está submetido a constrangimento ilegal, pois o decreto de sua prisão preventiva seria desprovido de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos do art. 312 do Código de Processo Penal.
+    Alega-se, ainda, a possibilidade de substituição da segregação cautelar por medidas diversas na forma do art. 319 do Código de Processo Penal.
+    Aduz, de outra parte, a ilegalidade da prova obtida por violação de domicílio do paciente. Argumenta, para tanto, que
+    “[o]s policiais, após receberem ditas denúncias [anônimas], realizaram a abordagem na residência do Paciente sem que ele estivesse sequer presente, ou que tenha dada autorização para que adentrassem, ou ainda, ordem judicial, portanto, as provas foram obtidas de forma ilegal, atraindo artigo 5º, XI, CF/88.” (grifos do autor)
+    Requer a defesa, liminarmente, a concessão da ordem para que se determine a revogação da prisão preventiva do paciente ou a sua substituição por medidas cautelares diversas.
+    Examinados os autos, decido.
+    Transcrevo a ementa do aresto ora impugnado:
+    “PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. QUANTIDADE E VARIEDADE DE DROGAS APREENDIDAS. ALEGAÇÃO DE ILICITUDE NA EFETIVAÇÃO DA PRISÃO. INOCORRÊNCIA. DELITOS DE NATUREZA PERMANENTE. HABEAS CORPUS NÃO CONHECIDO.
+    I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+    II - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+    III - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, notadamente se considerada a quantidade e variedade de entorpecentes apreendidos em poder do paciente (15 embrulhos contendo maconha e uma barra de peso aproximado de 1,774 kg de cocaína), bem como pelo fundado receio de reiteração delitiva, em virtude de sua folha de antecedentes.
+    IV - Ademais, nos casos de tráfico ilícito de substância entorpecente, crime de natureza permanente, cuja consumação se protrai no tempo, a busca domiciliar e pessoal não constitui prova ilícita, pois ficou evidenciada a figura do flagrante delito, o que, a teor do disposto no art. 5º, inciso XI, da Constituição Federal, autoriza o ingresso, ainda que sem mandado judicial, no domicílio do investigado. (Precedentes).
+    V - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+    Habeas corpus não conhecido.” (anexo 31 - grifos do autor)
+    Essa é a razão pela qual se insurge a impetrante neste writ.
+    O julgado proferido pela Quinta Turma do Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia. Com efeito, o entendimento emanado daquela Corte de Justiça encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Conforme anotado pelo Ministro Félix Fischer em seu voto,
+    “verifica-se que a segregação cautelar encontra-se, de maneira inconteste, lastreada em dados concretos extraídos dos autos, em razão da necessidade de acautelamento da ordem pública.
+    Isto porque, em primeiro lugar, demonstrou-se que o paciente possuiria antecedentes criminais, verificados a partir de sua folha de antecedentes, de maneira que a prisão se revela indispensável, pelo fundado receio de reiteração delitiva.
+    (…)
+    Não se pode olvidar, ainda, que o risco à ordem pública também está configurado em razão da quantidade e variedade de entorpecentes apreendidos em poder do paciente (15 embrulhos contendo maconha e uma barra de peso aproximado de 1,774 kg de cocaína), tudo isso a indicar maior desvalor às condutas perpetradas.” (anexo 32 – grifos do autor).
+    Como visto, a prisão preventiva do paciente está justificada na sua periculosidade para a ordem pública, não só em razão da quantidade e variedade de drogas apreendidas em seu poder (15 embrulhos contendo maconha e uma barra de peso aproximado de 1,774 kg de cocaína), como também pelo risco concreto de reiteração delitiva, uma vez que já responde a “outros 3 (três) processos criminais por tráfico de drogas.” (anexo 31)
+    Este Supremo Tribunal já assentou que a periculosidade do agente, evidenciada pela expressiva quantidade e o fundado receio de reiteração delitiva, legitimam a prisão preventiva para garantia da ordem pública. Nesse sentido: HC nº 134.444-AgR/SP, Segunda Turma, de minha relatoria, DJe de 28/6/16; HC nº 134.132-AgR/MG, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/6/16; HC nº 132.172/PR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 9/5/16; HC nº 130.708/SP, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 6/4/16.
+    Também não vinga a tesa de ilegalidade da prova obtida por violação de domicílio do paciente, pois, “[é] dispensável o mandado de busca e apreensão quando se trata de flagrante de crime permanente, podendo-se realizar as medidas sem que se fale em ilicitude das provas obtidas.” (RHC nº 121.419/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 17/10/14)
+    Perfilhando esse entendimento: RHC nº 128.281/SP, Segunda Turma, Relator o Ministro Teori Zavaski, DJe de 26/8/15; HC nº 127.457/BA, Segunda Turma, de minha relatoria, DJe de 1º/7/15.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 13 de fevereiro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
