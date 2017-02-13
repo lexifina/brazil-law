@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AUSÊNCIA DE PREQUESTIONAMENTO – NEGATIVA DE SEGUIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto ao afastamento da decadência do direito do autor de pleitear a revisão de benefício previdenciário com a inclusão do índice do IRSM. Consignou o reconhecimento expresso do direito a essa revisão, por meio da Medida Provisória nº 201/2004.
+    Nas razões do extraordinário, o recorrente alega a violação do artigo 5º, inciso XXXVI, e 201, §1º, da Constituição Federal. Discorre sobre o conflito de leis no tempo e pleiteia a aplicação do prazo decadencial previsto na Lei nº 8.213/91 às hipóteses de benefícios concedidos antes da entrada em vigor da referida norma.
+    2. A recorribilidade extraordinária mostra-se distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do ato atacado os seguintes trechos:
+    […]
+    Ocorre que ao julgar o RE nº 626.489 em 16.10.2013, o Pleno do STF decidiu que o prazo decadencial de 10 (dez) anos instituído pela Medida Provisória nº 1.523-9/97 aplica-se a todos os benefícios, inclusive àqueles concedidos durante a vigência da Lei nº 9.711/98, como se extrai da respectiva ementa e da nota de número 2 do voto condutor do Ministro Luís Roberto Barroso:
+    'DIREITO PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO. DECADÊNCIA.
+    1. O direito à previdência social constitui direito fundamental e, uma vez implementados os pressupostos de sua aquisição, não deve ser afetado pelo decurso do tempo. Como consequência, inexiste prazo decadencial para a concessão inicial do benefício previdenciário.
+    2. É legítima, todavia, a instituição de prazo decadencial de dez anos para a revisão de benefício já concedido, com fundamento no princípio da segurança jurídica, no interesse em evitar a eternização dos litígios e na busca de equilíbrio financeiro e atuarial para o sistema previdenciário.
+    3. O prazo decadencial de dez anos, instituído pela Medida Provisória 1.523, de 28.06.1997, tem como termo inicial o dia 1º de agosto de 1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição.
+    4. Inexiste direito adquirido a regime jurídico não sujeito a decadência' (STF, Pleno, RE nº 626.489, Rel. Ministro Luís Roberto Barroso, julgado 16.10.2013).
+    Contudo, determinadas revisões do ato de concessão dos benefícios comportam peculiaridades, não se sujeitando a prazo decadencial quando o próprio INSS já reconheceu inequivocamente o direito à pretendida revisão ou a própria lei o fez, exceto se já decorridos mais de 10 (dez) anos entre o primeiro dia do mês seguinte ao do recebimento da primeira prestação do benefício que se pretende revisar e a data do ato no qual foi reconhecido inequivocamente o direito à pretendida previsão, encontrando-se nessa situação fática a revisão pretendida pela parte autora.
+    Assim, em se cuidando da revisão do IRSM pela Medida Provisória nº 201/2004 (posteriormente convertida na Lei nº 10.999/2004), na qual se reconheceu expressamente o direito a essa revisão, há decadência apenas em relação aos benefícios cujo primeiro dia do mês seguinte à data do recebimento da primeira prestação ocorreu após a data de publicação da Medida Provisória nº 201/2004, em 26/07/2004;
+    […]
+    No caso, o benefício de que é titular a parte autora foi concedido em 22/02/1996, não tendo transcorrido o prazo de 10 anos entre o primeiro dia do mês seguinte ao do recebimento da primeira prestação do benefício e a data da publicação da MP nº 201/2004, em 26/07/2004, o que afasta a decadência.
+    […]
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No mais, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, sobretudo a Lei nº 10.999/2004, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Alfim, no caso, o que sustentado no extraordinário, relativamente ao artigo 201, § 1º, do Diploma Maior, não foi enfrentado pelo Órgão julgador. Padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo. Verifica-se a não interposição de embargos declaratórios, ficando afastada a possibilidade de concluir-se pela ofensa ao artigo 93, inciso IX, da Carta de 1988.
+    3. Ante o quadro, nego seguimento ao recurso.
+    4. Publiquem.
+Brasília, 13 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
