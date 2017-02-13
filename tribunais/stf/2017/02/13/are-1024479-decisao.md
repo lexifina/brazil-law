@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de São Paulo, cuja ementa foi assim redigida:
+    “Apelação. Cooperativa Habitacional. Venda de imóvel por meio de participação na cooperativa. Negócio jurídico indireto. Desistência do cooperado. Relação de consumo. Abusividade da cláusula estatutária que impõe a retenção de 20% das quantias entregues à cooperativa e a devolução em prestações após o encerramento do empreendimento para os quais os recursos financeiros foram captados. Sentença que acolheu parcialmente os pedidos da autora e determinou a devolução de 90% dos valores, de uma só vez, com correção monetária e juros. Manutenção da sentença. Recurso desprovido”. (e-DOC 2, p.94).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 5º, XVIII e 174, § 2º, da Constituição Federal. O Recorrente alega, em síntese, violação aos princípios que protegem e estimulam a livre criação de associações e cooperativas.
+    A Presidência da Seção de Direito Privado do Tribunal de Justiça de São Paulo inadmitiu o recurso extraordinário “por não ter sido demonstrada a ocorrência da alegada vulneração aos dispositivos arrolados” (e-DOC 3, p. 90).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Vejamos o seguinte trecho do acórdão impugnado:
+    “Embora dispensável o pronunciamento acerca da natureza jurídica da relação estabelecida entre cooperado e cooperativa em virtude do pedido formulado, é certo que a apelante desconhece a categoria jurídica dos chamados negócios jurídicos indiretos, em que a forma de um contrato é usada para a consecução de outra finalidade que não aquela diretamente resultante do negócio aparente.
+    Não há, nesse caso, qualquer ilicitude, todavia, é possível a sua desqualificação como ato cooperativo puro à luz da Lei 5.764/71.
+    Isso porque o artigo 12 do Estatuto Social da apelante estabelece que ‘é direito do sócio adimplente com suas obrigações, o recebimento de uma unidade habitacional ou lote urbanizado de acordo com o projeto original a que aderiu’ (fls. 68).
+    E o exame do material publicitário (fls. 26/27) induz a conclusão de que a cooperativa é utilizada como meio indireto para a produção e venda de imóveis a prestação, transformando-a, sim, em fornecedora e o cooperado em consumidor, como bem demonstrado pelo eminente consumerista, o professor e magistrado, Dr. Alexandre Davi Malfati, prolator da sentença apelada.
+    Nessas condições, interpretando o contrato social, é de concluir pela aplicabilidade do Código de Defesa do Consumidor, podendo e devendo ser pronunciada a abusividade da cláusula estipulada no art. 26 reproduzida a fls. 71, com fundamento no art. 51, IV da Lei 8.078/1990”. (e-DOC 2, p. 95)
+    Constato que eventual divergência em relação ao entendimento adotado pelo juízo a quo, no que diz respeito à análise da liberdade de criação de associações e cooperativas, em particular sobre a forma como estipulado o relacionamento entre cooperativa e cooperados, demandaria a análise da legislação infraconstitucional aplicável à espécie (Lei 5.764/71 e Código de Defesa do Consumidor), o que inviabiliza o processamento do apelo extremo.
+    Além disso, a discussão sobre violação, em tese, do princípio da liberdade de associação e criação de cooperativa, no presente caso, demandaria revolvimento de dados fáticos, mais especificamente a análise do estatuto social da cooperativa, tal qual realizado pelas instâncias ordinárias, as quais entenderam tratar-se de “negócio jurídico indireto”, ou seja, negócio jurídico realizado para alcançar natureza diversa daquela originalmente prevista. No presente caso, decidiu o acórdão que não houve “ato cooperativo puro”, mas realização de compra e venda.
+    Ante o exposto, nego seguimento ao recurso extraordinário com agravo, nos termos do 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 13 de fevereiro 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
