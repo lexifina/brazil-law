@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Terceira Turma Recursal dos Juizados Especiais Federais do Estado do Rio Grande do Sul que manteve sentença que julgara parcialmente procedente pedido de revisão da renda mensal inicial de aposentadoria, concedida em 25.06.1985 (Evento 26 - Informação). Veja-se, a propósito, o seguinte trecho conclusivo do acórdão recorrido:
+    “[...]
+    Já implantada a nova RMI, remanesce interesse processual quanto à discussão sobre o marco interruptivo da prescrição e execução das parcelas vencidas, porquanto no que tange ao direito, há coisa julgada material (decisão transitada em julgado na ACP), ressalvando-se, no que se refere às parcelas vencidas, eventuais efeitos de execução coletiva realizada junto à Subseção de Santa Maria/RS.
+    A propositura da Ação Civil Pública interrompe a prescrição, a qual só volta a correr com o trânsito em julgado da respectiva ação. Com efeito, existe entendimento uniformizado em nível regional no sentido de que a propositura da ação civil pública deve ser considerada para efeitos de interrupção e/ou suspensão do prazo prescricional, devendo os valores atrasados relativos à revisão com base na Súmula n.º 02 do E. TRF da 4ª Região retroagir a 05 (cinco) anos antes do ajuizamento da aludida ação civil pública (IUJEF Nº 5009139-38.2012.4.04.7107/RS, Rel. Juiz Federal DANIEL MACHADO DA ROCHA, D.E. 11/12/2015).
+    No mesmo sentido, destaco a jurisprudência da TNU:
+    […]
+    Sendo assim, procedente o pedido de retroação do marco interruptivo prescricional à data da propositura da Ação Civil Pública nº º 2001.71.00.000.38536-8. Destaca-se que a decisão transitada em julgado, proferida na aludida ACP, apenas se posiciona pela observância da prescrição quinquenal, sem adentrar na discussão acerca do marco interruptivo, porém considerando o ajuizamento daquela ação.
+    Deste modo, o autor faz jus ao recebimento das diferenças devidas a título de revisão, para aplicação da Súmula 2 do TRF4, no período entre 18/12/1996 e 01/2001, de modo que a sentença de procedência resta mantida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que ocorreu violação aos arts. 5º, caput, XXXVI; 37 e 201, § 1º, da Constituição Federal. Afirma que o acórdão recorrido “restou superado pelo julgamento do Recurso Extraordinário (RE) 626489 onde essa Corte firmou o entendimento de o prazo decadencial de dez anos instituído pela MP 1.523/1997, convertida na Lei 9.528/1997, incide sobre todos os benefícios previdenciários, inclusive os concedidos em data anterior à sua edição”.
+    O recurso extraordinário é inadmissível, tendo em vista que a matéria suscitada não foi objeto de análise pela Turma de origem. Tampouco foram opostos embargos de declaração para suprir eventual omissão, de modo que o recurso carece de prequestionamento (Súmulas 282 e 356/STF).
+    Seja como for, para dissentir da conclusão adotada pelo Colegiado de origem, seriam necessários a análise da legislação infraconstitucional aplicada e o reexame de fatos e provas dos autos (Súmulas 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 13 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
