@@ -1,0 +1,18 @@
+Solução de Divergência Cosit nº 15, de 30 de janeiro de 2017
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: Ementa: CONCESSIONÁRIA DE SERVIÇO PÚBLICO. FORMAS DE APURAÇÃO DE CRÉDITOS DA NÃO CUMULATIVIDADE. DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. INSUMOS.
+Nos casos em que aplicáveis, as regras especiais de apuração de créditos da Cofins pelas concessionárias de serviço público estabelecidas no § 29 do art. 3º da Lei nº 10.833, de 2003, são excludentes de outras formas de creditamento, inclusive da modalidade aquisição de insumos (inciso II do art. 3º da Lei nº 10.833, de 2003).
+Sendo inaplicáveis as referidas regras especiais de creditamento, a atividade de distribuição de energia elétrica pode ser considerada, para fins de creditamento da não cumulatividade da Cofins, como sendo prestação de serviços, permitindo-se, em tese, a apuração de créditos na modalidade a aquisição de insumos.
+Nesse contexto de inaplicabilidade das mencionadas regras especiais de creditamento, no caso de concessionária distribuidora de energia elétrica, os valores gastos com partes e peças de reposição e com serviços de manutenção de redes e linhas de distribuição de energia elétrica e de subestações permitem a apuração de créditos da Cofins na modalidade aquisição de insumos.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3o, II; IN SRF nº 404, de 2004, art. 8º, I, “b” e § 4º.
+É ineficaz a consulta quando não descrever, completa e exatamente, a hipótese a que se referir, ou não contiver os elementos necessários à sua solução, nos termos do inciso XI do art. 18 da Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013.
+Parcialmente vinculada à Solução de Divergência Cosit nº 7, de 23 de agosto de 2016, publicada no Diário Oficial da União de 11 de outubro de 2016.
+Assunto: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: CONCESSIONÁRIA DE SERVIÇO PÚBLICO. FORMAS DE APURAÇÃO DE CRÉDITOS DA NÃO CUMULATIVIDADE. DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. INSUMOS.
+Nos casos em que aplicáveis, as regras especiais de apuração de créditos da Contribuição para o PIS/Pasep pelas concessionárias de serviço público estabelecidas no § 21 do art. 3º da Lei nº 10.637, de 2002, são excludentes de outras formas de creditamento, inclusive da modalidade aquisição de insumos (inciso II do art. 3º da Lei nº 10.637, de 2002).
+Sendo inaplicáveis as referidas regras especiais de creditamento, a atividade de distribuição de energia elétrica pode ser considerada, para fins de creditamento da não cumulatividade da Contribuição para o PIS/Pasep, como sendo prestação de serviços, permitindo-se, em tese, a apuração de créditos na modalidade a aquisição de insumos, nos termos do inciso II do art. 3º da Lei nº 10.637, de 2002.
+Nesse contexto de inaplicabilidade das mencionadas regras especiais de creditamento, no caso de concessionária distribuidora de energia elétrica, os valores gastos com partes e peças de reposição e com serviços de manutenção de redes e linhas de distribuição de energia elétrica e de subestações permitem a apuração de créditos da Contribuição para o PIS/Pasep na modalidade aquisição de insumos.
+DISPOSITIVOS LEGAIS: : Lei nº 10.637, de 2002, art. 3º, II , IN SRF nº 247, de 2002, art. 66, I, “b”, e § 5º.
+É ineficaz a consulta quando não descrever, completa e exatamente, a hipótese a que se referir, ou não contiver os elementos necessários à sua solução, nos termos do inciso XI do art. 18 da Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013.
+Parcialmente vinculada à Solução de Divergência Cosit nº 7, de 23 de agosto de 2016, publicada no Diário Oficial da União de 11 de outubro de 2016.
+[arquivo anexo: SD Cosit nº 15-2017.pdf]
