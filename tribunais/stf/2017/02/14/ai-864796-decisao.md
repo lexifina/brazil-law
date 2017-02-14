@@ -1,0 +1,23 @@
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. DISTRITO FEDERAL. REAJUSTE. ÍNDICE DE 84,32% (PLANO COLLOR). LIMITAÇÃO TEMPORAL. COISA JULGADA. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO, DO DEVIDO PROCESSO LEGAL E OS LIMITES DA COISA JULGADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284 DO STF. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo de instrumento (artigo 544 do CPC/1973, na redação anterior ao advento da Lei 12.322/2010) objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado sem a indicação do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. LIMITAÇÃO DO PERCENTUAL DE 84,32% À DATA-BASE. RECURSO PARCIALMENTE PROVIDO.
+    1. Como se pode ver da análise dos autos principais houve um pequeno erro material no voto que deu provimento ao recurso extraordinário interposto pela ora apelante que queria ver os 84,32% incorporado a seus vencimentos. Foi reconhecida ali a limitação do percentual do 84.32% à Lei n. 117/90, mas foi provido o recurso. Como o voto por mim proferido também nos autos principais reconheceu a incidência do percentual à data base foi mais benéfico à parte, entendo que a execução deve se limitar a 31 de dezembro de 1990.
+    2. O excesso de execução está presente já que a exequente/apelante quis se prevalecer dos erros e fez seus cálculos como se o percentual de 84,32% estivesse incorporado a seus vencimentos, o que está completamente fora da realidade dos autos.
+    3. Recurso parcialmente provido, tão-só para que, reconhecido o excesso de execução, o cálculo dos valores a ser executado seja limitado a 31 de dezembro de 1990, dia anterior à primeira data-base, haja vista que em 1º/01/91 foram incorporadas todas as perdas.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo aponta violação aos artigos 5º, caput, XXXVI e 39, § 1º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 284 do STF e que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Os princípios da ampla defesa, do contraditório (artigo 5º, LV), do devido processo legal (artigo 5º, LIV) e os limites da coisa julgada (artigo 5º, XXXVI), quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, Tema 660, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Nesse sentido, confira-se, ainda os seguintes julgados de ambas as Turmas desta Corte:
+    “DIREITO CONSTITUCIONAL. AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. PLANO COLLOR. INCORPORAÇÃO DO PERCENTUAL DE 84,32%. INCIDÊNCIA SOBRE OS VENCIMENTOS. FORMA DE CÁLCULO. REVISÃO. LIMITES OBJETIVOS DA COISA JULGADA. 1. O Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia relativa à violação aos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes). 2. Agravo interno a que se nega provimento.” (RE 789.353-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 16/12/2016) ”
+    “Agravo regimental em agravo de instrumento. 2. Embargos à execução. Ofensa ao art. 5º, XXXVI (princípio da coisa julgada), da Constituição Federal. Questão que não se examina em face de execução. Limites da coisa julgada. Ofensa reflexa. Precedentes. 3. Agravo regimental a que se nega provimento.” (AI 451.773-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ de 1º/9/2006)
+    Cabe ressaltar, por fim, que da análise dos autos verifica-se que a parte agravante não demonstrou de que forma os artigos 5º, caput e 39, § 1º, da Constituição Federal teriam sido violados, o que atrai o óbice da Súmula 284 desta Corte.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
