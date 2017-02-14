@@ -1,0 +1,13 @@
+DECISÃO
+MINISTÉRIO PÚBLICO – INVESTIGAÇÃO – PODERES – PRECEDENTE – RESSALVA DA ÓPTICA PESSOAL – AGRAVO DESPROVIDO.
+    1. Afasto o sobrestamento antes determinado.
+    2. O Tribunal de Justiça do Estado do Rio de Janeiro proveu parcialmente apelação interposta pelo réu, ante fundamentos assim resumidos:
+    CRIME CONTRA O PATRIMÔNIO. Receptação qualificada. Processo. Investigação criminal feita pelo Ministério Público. Nulidade. Não verificação. Sentença. Não apreciação de tese defensiva. Não ocorrência. Solução condenatória. Absolvição. Impossibilidade. Penas. Redução e substituição. Cabimento. Não se verifica qualquer inconstitucionalidade no poder de investigação do Ministério Público, eis que tal atividade estatal não se afigura exclusiva da Polícia Judiciária; além do mais, eventual nulidade ocorrida na fase investigatória não contamina, de forma alguma, a ação penal. Por outro lado, ao fixar as penas, tomando por base aquelas cominadas no § 1º do artigo 180 da Lei Penal, a Magistrada rejeitou, por óbvio, a tese defensiva de inconstitucionalidade do aludido preceito secundário. Demonstrando os elementos dos autos que o agente tinha ciência da procedência ilícita do equipamento apreendido e que ele, no exercício de atividade comercial, expunha à venda, em proveito próprio ou alheio, o dito bem, incensurável se mostra a solução condenatória encontrada. No entanto, merecem pequeno reparo as penas-base fixadas, com o decote do aumento implementado com fundamento em ameaças que a testemunha teria sofrido, uma vez que não há nenhum elemento sério a indicar que elas, se ocorridas, foram feitas pelo agente ou a seu mando Preenchendo o agente os requisitos do artigo 44 do Código Penal, a pena corporal é de ser substituída por duas restritivas de direitos.
+     No extraordinário cujo trâmite busca alcançar, o recorrente aponta violados o artigo 144, § 4º, da Constituição Federal. Afirma que os atos de investigação são exclusivos da polícia judiciária, inexistindo previsão legal atribuindo ao Ministério Público semelhante atribuição.
+    3. A decisão atacada está em consonância com a jurisprudência do Tribunal. O Supremo, no julgamento do recurso extraordinário nº 593.727, analisado sob a óptica da repercussão geral, concluiu:
+    Questão constitucional com repercussão geral. Poderes de investigação do Ministério Público. Os artigos 5º, incisos LIV e LV, 129, incisos III e VIII, e 144, inciso IV, § 4º, da Constituição Federal, não tornam a investigação criminal exclusividade da polícia, nem afastam os poderes de investigação do Ministério Público.
+    4. Ante o precedente, ressalvada a óptica pessoal, desprovejo o agravo.
+    5. Publiquem.
+Brasília, 14 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
