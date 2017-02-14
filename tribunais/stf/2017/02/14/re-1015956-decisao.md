@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    ”ADMINISTRATIVO. ACUMULAÇÃO. PROVENTOS DE MILITAR E DE SERVIDOR PÚBLICO CIVIL. POSSIBILIDADE. REQUISITOS: REFORMA MILITAR NA VIGÊNCIA DA CONSTITUIÇÃO DA REPÚBLICA DE 1967, APOSENTADORIA CIVIL ANTES DA EMENDA CONSTITUCIONAL N. 20, DE 15.12.98.
+    1. A pretensão de militar reformado (que ingressou novamente no serviço público, por concurso ou demais formas previstas constitucionalmente) de perceber também a aposentadoria como servidor civil, foi dirimida no sentido da possibilidade de acumulação, sob a condição de a reforma militar ter ocorrido na vigência da Constituição da República de1967 e a aposentadoria como servidor civil dar-se antes da Emenda Constitucional n. 20/98 (STF, RE-ED n. 577184, Rel. Min. Cármen Lúcia, j. 01.02.11; MS n. 2448, Rel. Min. Carlos Britto, j. 27.09.07; MS n. 25045, Rel. Min. Joaquim Barbosa, j. 07.04.05; MS n. 25090, Rel. Min. Eros Graus, j. 02.02.05).
+    2. Incontroversa a reforma militar do impetrante (em 01.09.83) nos termos da Constituição de 1967. Contudo, a vigência da EC n. 20/98 quando do afastamento compulsório em 09.07.03, obvia a pretensão de ser aposentado nos termos do art. 186, II, da Lei n. 8.112/90. Portanto, não faz jus o apelante à acumulação dos proventos da reforma militar e aposentadoria civil.
+    3. Recurso de apelação do impetrante não provido. ”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 40, § 1º, II; e 195, § 5º, da Constituição, bem como ao art. 11 da EC 20/1998.
+    O recurso deve ser provido, uma vez que o acórdão recorrido não está alinhado à jurisprudência do Supremo Tribunal Federal.
+    Na hipótese, a reforma do recorrido na carreira militar, deu-se sob a vigência da Constituição de 1967, e o reingresso no serviço público no cargo civil ocorreu antes do advento da EC 20/1998. Veja-se o seguinte trecho do voto condutor do acórdão recorrido:
+    “Do caso dos autos. Narra Acy José de Oliveira Marques sua condição de militar da Aeronáutica que, logo após a reforma em 01.0983, foi contratado pelo Centro Técnico Aeroespacial – CTA, sob regime da CLT e, posteriormente, submetido ao Regime Jurídico Único, da Lei n. 8.112/90. Afirma que ao completar 70 anos, em 09.07.03, foi afastado compulsoriamente, em vez de aposentado.
+    […]
+    Não merece ser reformada a sentença. Incontroversa a reforma militar do impetrante (em 01.09.83) nos termos da Constituição de 1967. Contudo, a vigência da EC n. 20/98 quando do afastamento compulsório em 09.07.03, obvia a pretensão de ser aposentado nos termos do art. 186, II, da Lei n. 8.112/90. Portanto, não faz jus o apelante à acumulação dos proventos da reforma militar e aposentadoria civil.
+    […].”
+    É legítima a acumulação de proventos civis e militares quando a reforma se deu sob a vigência da Constituição Federal de 1967 e o reingresso no serviço público tenha ocorrido antes do advento da EC 20/98, tendo em conta a ressalva prevista no seu art. 11. Nessa linha, decidiu o Plenário desta Corte no julgamento do AI 801.096 AgR-EDv, sob a relatoria do Ministro Teori Zavascki:
+    “ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO MILITAR REFORMADO SOB A ÉGIDE DA CONSTITUIÇÃO FEDERAL DE 1967. REINGRESSO NO SERVIÇO PÚBLICO ANTES DA VIGÊNCIA DA EC 20/98. APOSENTADORIA COMPULSÓRIA EM 2004. CUMULAÇÃO DE PROVENTOS CIVIS E MILITARES. LEGITIMIDADE. ART. 11 DA EC 20/98.
+    1. Segundo a pacífica jurisprudência do Supremo Tribunal Federal, é legítima a acumulação de proventos civis e militares quando a reforma se deu sob a égide da Constituição Federal de 1967 e a aposentadoria ocorreu antes da vigência da EC 20/98.
+    2. É irrelevante, entretanto, que a aposentadoria civil tenha acontecido na vigência da EC 20/98, bastando que o reingresso no serviço público tenha ocorrido antes do advento da alteração constitucional, de forma a ensejar a incidência da ressalva do art. 11 da EC 20/98, cuja aplicação se dá ‘(…) aos membros de poder e aos inativos, servidores e militares, que, até a publicação desta Emenda, tenham ingressado novamente no serviço público (…)’.
+    3. Embargos de divergência a que se nega provimento.”
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário. Invertidos os ônus da sucumbência e sem condenação em honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+          Brasília, 14 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
