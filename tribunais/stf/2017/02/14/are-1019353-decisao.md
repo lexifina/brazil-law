@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5°, XXXVI, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Divergir da conclusão da Corte de origem demandaria a análise da legislação infraconstitucional apontada no apelo extremo, bem como o revolvimento do conjunto fático delineado, o que torna obliqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. CONVERSÃO DO TEMPO ESPECIAL EM COMUM. IRRETROATIVIDADE. DIREITO ADQUIRIDO E ATO JURÍDICO PERFEITO. REEXAME DE FATOS E PROVAS. TEMAS 660 E 776. RAZÕES DE AGRAVO. INEXISTÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL NÃO PROVIDO. MULTA. 1. Conforme dispõe o art. 1.021, § 1º, CPC, é ônus do recorrente impugnar especificadamente os fundamentos da decisão recorrida. 2. Na hipótese dos autos, a parte Agravante não impugnou os fundamentos da decisão agravada, limitando-se a reproduzir integralmente as razões do recurso extraordinário. 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC”. (RE 989590 AgR, Relator(a): Min. EDSON FACHIN, Primeira Turma, julgado em 28/10/2016, PROCESSO ELETRÔNICO DJe-243 DIVULG 16-11-2016 PUBLIC 17-11-2016).
+    “Agravo regimental em recurso extraordinário. 2. Direito Previdenciário. 3. Conversão do tempo de serviço comum em especial. Cômputo para fins de aposentadoria. Violação ao direito adquirido. Não ocorrência. Não preenchimento dos requisitos necessários à aposentadoria na época. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento”. (RE 917012 ED-ED-AgR-AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 09/12/2016, PROCESSO ELETRÔNICO DJe-021 DIVULG 03-02-2017 PUBLIC 06-02-2017).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de fevereiro de 2017.
+Ministra Rosa Weber
+Relatora
