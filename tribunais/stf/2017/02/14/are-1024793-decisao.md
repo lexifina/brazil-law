@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela 2ª Vice-Presidência do Tribunal de Justiça do Estado da Bahia, maneja agravo Luiz Cláudio Batista Brandão. Aparelhado o recurso na afronta ao art. 5º, LVII, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Consta da ementa do acórdão recorrido:
+    “[…]
+    Autoria e Materialidade Firmes. Probatório testemunhal indicativo da robusta participação do recorrente nas empreitadas criminosas (domínio do fato). Reconhecimento das vítimas (judicial e inquisitorial). Atuação destacada do apelante no crime de roubo (arrecadação e utilização de violência nas vítimas – pisar na cabeça). Atenuante da confissão e forma tentada acolhidas no tocante ao crime de furto. Negativa de autoria no concernente ao crime de roubo. Atenuante, neste particular, não acatada. Res não recuperada (roubo). Crime consumado. Dosimetria da reprimenda base adequada. Análise das circunstâncias judiciais criteriosa.”
+    O exame de eventual ofensa ao princípio da presunção de inocência demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta tivesse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior.
+    Além disso, a análise efetuada pelo Tribunal a quo enfrentou o conjunto probatório para concluir que restaram demonstradas a autoria e a prova da materialidade, razão pela qual aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal e Processo Penal. 3. Crime contra a liberdade sexual (art. 213 c/c art. 214 do Código Penal). 4. Ausência de prequestionamento, incidência das súmulas 282 e 356. 5. Suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa e da presunção de inocência. A ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 6. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 7. Agravo regimental a que se nega provimento” - grifei (ARE 948.438-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 23.9.2016).
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Ofensa reflexa à Constituição. Reapreciação de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem, ao decidir a questão, se ateve ao exame da legislação infraconstitucional. Portanto, a violação, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário. 2. Não é possível, em sede de recurso extraordinário, reexaminar fatos e provas, a teor do que dispõe a Súmula nº 279/STF. 3. Agravo regimental não provido” (ARE 770.903-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 04.4.2014).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de fevereiro de 2017.
+Ministra Rosa Weber
+Relatora
