@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRAÇÃO PÚBLICA. IMPROBIDADE. RESSARCIMENTO AO ERÁRIO. PRESCRIÇÃO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. CONCURSO BOMBEIROS.
+    1. Trata-se de ação civil pública por ato de improbidade administrativa interposta pelo Ministério Público em decorrência da incorporação de “servidor” em cargo público de soldado bombeiro sem a participação em concurso.
+    2. Inexistência de violação aos princípios do devido processo legal, do contraditório e da ampla defesa.
+    3 - É aplicável à espécie o prazo prescricional de 12 anos, nos termos do art. 23, II da Lei nº 8249/92 c/c art. 17, parágrafo único da Lei 427/81 c/c art. 125, IV do Código Penal Militar.
+    4 - Inaceitação da tese de impossibilidade do prosseguimento da ação civil pública porque inacumuláveis pedidos de reconhecimento de ato de improbidade com ressarcimento de danos. Doutrina e jurisprudência são uníssonas em aceitar ambos os pedidos no mesmo processo.
+    5 - No mérito, os fatos restaram incontroversos. Houve o reconhecimento administrativo da burla ao concurso público. Os réus/apelantes não negaram os fatos. Demais provas indicativas da fraude e improbidade.
+    6. Todavia, não houve dano ao erário porque a remuneração do 5º réu deu-se em retribuição ao trabalho efetivamente prestado. Por outro lado, a remuneração paga teria natureza alimentar, já que se constituiu salário, portanto, irrepetível.
+    Recursos conhecidos e parcialmente providos, nos termos do voto do desembargador relator.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 37, § 5º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender inexistente o necessário prequestionamento, a encontrar óbice nas Súmulas nº 282 e 356 do STF.
+    É o relatório. DECIDO.
+    Não merece provimento o agravo.
+    A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição Federal).
+    A controvérsia quanto à prescrição não dá ensejo ao cabimento de recurso extraordinário, por situar-se no âmbito infraconstitucional. A violação reflexa e oblíqua da Constituição Federal, decorrente da análise de malferimento de dispositivos infraconstitucionais, torna inadmissível o recurso extraordinário. Nesse sentido, anote-se:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. MILITARES. REAJUSTE DE 28,86%. PRESCRIÇÃO DECRETADA NA ORIGEM. DISCUSSÃO SOBRE EVENTUAL RENÚNCIA. DECRETO N. 20.910/1932. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 661.242-ED, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 14/3/2012).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. HORAS EXTRAS. PRESCRIÇÃO TRABALHISTA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. O Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão relativa à aplicação da prescrição total ou parcial em processo trabalhista, por restringir-se a tema infraconstitucional (ARE 697.514, Rel. Min Gilmar Mendes). O exame do recurso extraordinário revela que a hipótese envolve alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da constituição. Agravo regimental a que se nega provimento.” (ARE 669.063-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 6/12/2013).
+    “DIREITO PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA PRIVADA. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 21.5.2012. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. O exame da alegada ofensa aos arts. 5º, caput, e 7º, XXIX, da Constituição Federal dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Agravo regimental conhecido e não provido.” (ARE 741.688-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 22/10/2013).
+    No caso específico dos autos, menciono os seguintes julgados: ARE 952.028, Rel. Min. Dias Toffoli, Dje 29/11/2016, e ARE 970.391, Rel. Min. Teori Zavascki, Dje 22/11/2016.
+     Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
