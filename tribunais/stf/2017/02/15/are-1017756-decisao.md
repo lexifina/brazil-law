@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “ADMINISTRATIVO. ANISTIA. REVISÃO. LEI Nº 8.878/94. DECRETO Nº 5.115/04. REQUERIMENTO APRESENTADO DEPOIS DO PRAZO. ANÁLISE. POSSIBILIDADE. INTIMAÇÃO APENAS POR PUBLICAÇÃO NO DIÁRIO OFICIAL. VIOLAÇÃO AO ART. 26 DA LEI 9.784/99. APELAÇÃO E REMESSA OFICIAL DESPROVIDAS.
+    1. O Decreto nº 5.115/2004 instituiu a Comissão Especial Interministerial para a revisão dos atos administrativos praticados pelas comissões criadas para análise dos processos de anistia de que trata a Lei nº 8.878, de 11 de maio de 1994, estabelecendo prazo de trinta dias para a apresentação dos requerimentos revisionais.
+    2. “A Primeira Seção desta Corte firmou o entendimento no sentido de que a intimação do interessado, tão-somente, por meio da publicação do Decreto no Diário Oficial da União para apresentar requerimento para revisão de sua anistia ofende o disposto nos §§ 3º, 4º e 5º do artigo 26 da Lei nº 9.784/99.” Precedente.
+    3. De fato, o critério de cientificação ora repelido vulnera os princípios constitucionais que asseguram o direito ao devido processo legal e à ampla defesa (art. 5º, LIV e LV CF/88), “na medida em que, além de desatender a forma expressa em lei, a intimação pela só publicação no Diário Oficial da União, cerceou o direito do impetrante de ter conhecido e analisado seu requerimento de revisão de sua anistia."
+    4. Apelação e remessa oficial desprovidas.”
+    No recurso extraordinário, sustenta-se violação do artigo 5º, incisos LIV e LV, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que as instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente (Lei nº 9.784/99 e Decreto nº 5.115/04) e no conjunto fático-probatório dos autos, cujo reexame foge do campo do recurso extraordinário. Incidência das Súmulas nºs 279 e 636/STF. Sobre o tema:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. REINTEGRAÇÃO. ANISTIA. LEI Nº 8.878/1994. AÇÃO RESCISÓRIA. SÚMULA 279/STF. LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL E DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. Não há questão constitucional a ser decidida neste processo, tendo em vista que o Tribunal de origem decidiu a controvérsia com base na Lei nº 8.787/1994 e no acervo probatório constante dos autos. A alegação de ofensa ao art. 7º, I, da Constituição não foi objeto de análise pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF. Agravo regimental a que se nega provimento” (AI nº 624.127/SE-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 25/11/13).
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
