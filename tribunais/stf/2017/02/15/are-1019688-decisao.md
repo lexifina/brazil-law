@@ -1,0 +1,14 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão que entendeu pela ausência de prescrição da pretensão do recorrido, consoante a transcrição do seguinte trecho do voto condutor do acórdão recorrido:
+    “(...) Assim, tendo em vista que a parte autora ajuizou medida cautelar de protesto interruptivo da prescrição (Proc nº 50175961220144047100, distribuição em 06/03/2014), constata-se a não ocorrência da prescrição no que concerne aos valores recolhidos pela parte autora (Evento 01 - DARF17), tendo em vista que a medida cautelar interruptiva foi proposta dentro do prazo quinquenal.
+    Desta forma, não merece reforma a sentença.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 93, IX, e 146, III, 'b', todos da Carta. A parte recorrente sustenta a impossibilidade de interrupção do prazo prescricional da ação de repetição de indébito mediante o ajuizamento de medida cautelar de protesto. Aduz, em síntese, que a prescrição é norma tributária cujas hipóteses de suspensão e/ou interrupção são aquelas previstas no mesmo diploma legal, que somente pode ser alterada por lei complementar, nos termos do art. 146, inciso III, alínea 'b' da CRFB/88.
+    A pretensão recursal não merece prosperar, tendo em vista que demanda o exame de matéria infraconstitucional. Com efeito, a questão tal como posta nos presentes autos não revela ofensa direta e imediata ao texto constitucional. Confira-se entendimento desta Corte em caso semelhante:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Execução fiscal. Prescrição. Interrupção. Código Tributário Nacional, Código de Processo Civil e Lei nº 6.830/80. Infraconstitucional. Ofensa constitucional indireta ou reflexa. 1. Possui natureza infraconstitucional a discussão a respeito da interrupção do prazo prescricional em sede de execução fiscal na qual se envolva a interpretação do Código Tributário Nacional, do Código de Processo Civil e da Lei nº 6.830/80. A afronta ao texto constitucional seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. 2. Agravo regimental não provido”. (ARE 810802 AgR / CE, Rel. Min. Dias Toffoli)
+    No mesmo sentido as seguintes decisões: ARE 916.764/RS, Min. Edson Fachin, e RE 954.946/RS, Min. Edson Fachin.
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada da na instância anterior, observados os limites legais do art. 85, §§§ 3º, 4º e 5º, do CPC/2015.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
