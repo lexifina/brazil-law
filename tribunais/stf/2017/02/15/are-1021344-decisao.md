@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “ADMINISTRATIVO – APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA – SERVIDOR PÚBLICO MUNICIPAL – PROGRESSÃO HORIZONTAL – REQUISITOS – TEMPO DE EXERCÍCIO – COMPROVAÇÃO – AVALIAÇÃO DE DESEMPENHO – INÉRCIA DA ADMINSTRAÇÃO PÚBLICA – INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA – SUPRIMENTO DA OMISSÃO – PROCEDÊNCIA DO PEDIDO – DIFERENÇAS – RECURSO PROVIDO – Comprovado pelo autor o preenchimento do requisito temporal exigido pela Lei, a avaliação de desempenho do requisito temporal exigido pela Lei, a avaliação de desempenho deve ser considerada suprida ante a inércia da Administração Pública em realizá-la, importando na progressão automática do servidor, na esteira do entendimento consagrado pelo Órgão Especial deste Tribunal de Justiça, em incidente de Uniformização da Jurisprudência.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; e 37, caput, XIV, da Constituição.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) incidem, no caso, as Súmulas 282 e 356/STF; e (ii) “A questão posta nos autos não alcançou estatura constitucional, tendo sido dirimida, ao contrário, sob o enfoque exclusivo das normas infraconstitucionais que regem a matéria”.
+    O recurso não merece acolhida. Quanto à alegada violação ao art. 2º da Constituição Federal, esse dispositivo não foi apreciado pelo Tribunal de origem. Tampouco foi opostos embargos de declaração para sanar eventual omissão, de modo que, no ponto, o recurso carece do indispensável prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    Ademais, para dissentir do entendimento firmado pelo Tribunal de origem, faz-se necessária a análise da legislação infraconstitucional aplicada ao caso, o que é inviável nesse momento processual. Nesse sentido, cito o ARE 883.313, Rel. Min. Dias Toffoli.
+    Em se tratando especificamente de suposta ofensa ao princípio da legalidade, o que se pode questionar nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 15 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
