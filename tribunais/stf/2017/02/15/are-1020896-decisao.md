@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL - INTERPRETAÇÃO INVIABILIDADE - AGRAVO DESPROVIDO
+    1 . O Tribunal de Justiça do Estado de Sergipe confirmou o entendimento do Juízo quanto à procedência do pedido de revisão de pensão previdenciária com fundamento na alteração do padrão remuneratório dos servidores da ativa, nos termos do Lei estadual nº 6.660/2009. No extraordinário cujo trânsito busca alcançar, o recorrente alega que, ao assegurar a paridade entre o benefício previdenciário e a remuneração dos servidores da ativa, restou violado o artigo 40, § 8º, da Constituição Federal.
+    2. Da leitura da decisão impugnada mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação do Lei estadual nº 6.660/2009. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo.
+    Confiram a síntese do acórdão recorrido:
+    APELAÇÃO CÍVEL – AÇÃO DE REVISÃO DE PENSÃO POR MORTE – BENEFICIÁRIA DE PENSÃO –  PRETENSÃO DE RECÁLCULO DE PENSÃO CONCEDIDA À ESPOSA DE MILITAR DO CORPO DE BOMBEIROS FALECIDO EM 04 DE MARÇO DE 2007  – POSTERIOR À EDIÇÃO DA EMENDA CONSTITUCIONAL Nº  41/2003  – APLICAÇÃO DO ART. 3º DA LEI ESTADUAL Nº 6.660/2009 – DIREITO A REVISÃO DA PENSÃO COM BASE NA ALTERAÇÃO DO PADRÃO REMUNERATÓRIO DOS POLICIAIS MILITARES – JUROS MORATÓRIOS – AÇÃO AJUIZADA APÓS A EDIÇÃO DA LEI Nº 11.960/2009 QUE ALTEROU O ART. 1º-F DA LEI 9.494/97 - JUROS APLICADOS À CADERNETA DE POUPANÇA E ÍNDICES DE CORREÇÃO OFICIAIS DE REMUNERAÇÃO BÁSICA - CORREÇÃO MONETÁRIA PELO IPCA –  RECURSO CONHECIDO E IMPROVIDO  - SENTENÇA REFORMADA DE OFÍCIO PARA APLICAR O IPCA COMO ÍNDICE DE CORREÇÃO MONETÁRIA.
+    No mais, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5 % do valor da causa, nos termos do artigo 85, § 11, do citado diploma legal.
+    4. Publiquem.
+Brasília, 15 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
