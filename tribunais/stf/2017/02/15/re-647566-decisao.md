@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “CONFLITO POSITIVO DE COMPETÊNCIA. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. PEDIDO FORMULADO VISANDO OBSTAR A ATUAÇÃO DO ÓRGÃO FISCALIZADOR DAS RELAÇÕES TRABALHISTAS. ARTIGO 114, VII, DA CF. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+    1. Nos termos do artigo 114, VII, da CF, compete à Justiça do Trabalho processar e julgar ‘as ações relativas às penalidades administrativas impostas aos empregadores pelos órgãos de fiscalização das relações de trabalho’.
+    2. A norma de competência não se restringe às ações constitutivas negativas, como a princípio poderia parecer, mas abrange as ações declaratórias que visam obstar a atuação administrativa dos órgãos de fiscalização da relação de trabalho. Precedente: CC 103415/SP, Rel. Min. Teori Albino Zavascki, Primeira Seção, DJe 21/08/2009.
+    3. O fato de existir na lide questões de cunho administrativo (como a delimitação da Área de Porto Organizado) não é suficiente para alterar a competência da Justiça do Trabalho, que deverá, necessariamente, emitir juízo de valor sobre a existência da relação de trabalho (necessidade/obrigatoriedade de contratação de trabalhadores avulsos via OGMO).
+    4. Conflito conhecido para declarar a competência da Justiça Trabalhista.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que ocorreu violação aos arts. 109, I, e 114, VII, da Constituição Federal.
+    O Procurador-Geral da República, Rodrigo Janot Monteiro de Barros, opinou pelo “não conhecimento do recurso extraordinário e, no mérito, se conhecido, por seu desprovimento”.
+    O recurso extraordinário é inadmissível, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, por evidente, não atende ao disposto no art. 543-A, § 2º, do CPC. Como já assentado por este Tribunal, a “simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    A parte recorrente não rebateu todos os fundamentos utilizado pelo Tribunal de origem para decidir a presente controvérsia, o que faz incidir a orientação da Súmula 283/STF.
+    Ademais, dissentir da conclusão adotada pelo STJ no tocante ao reconhecimento da existência de relação de trabalho na causa de pedir constante dos autos – que, em última análise, atrai a competência da Justiça do Trabalho – pressupõe, necessariamente, a análise de legislação infraconstitucional e o reexame dos fatos, do material probatório dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 15 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
