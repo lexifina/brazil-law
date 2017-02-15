@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à responsabilidade solidária do Município de Atibaia por loteamento irregular, fixando prazo para a respectiva regularização. No extraordinário cujo trânsito busca alcançar, o recorrente afirma a violação dos artigos 2º e 37, § 6º, da Constituição Federal. Diz inexistir pedido certo e determinado em face da Municipalidade. Afirma a responsabilidade exclusiva dos loteadores e adquirentes dos terrenos. Pretende a exclusão do prazo concedido, aludindo a cronograma já existente.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    Apesar dos termos da Lei 6766/79, em seu artigo 40, dizer que o município, se desatendida a notificação pelo loteador, poderá regularizar loteamento ou desmembramento não autorizado ou executado sem observâncias da lei ou licença, não significa que haja o livre arbítrio de tomar a providência quando bem lhe aprouver. A sentença que determina a regularização de loteamento clandestino não interfere no principio da tripartição de poderes.
+    (…)
+    Da mesma forma, a Constituição Estadual promulgada em 89, prevê o dever da Municipalidade de garantir a regularidade no uso, no parcelamento ocupação do solo urbano (art. 180), a regularização e urbanização de assentamentos loteamentos irregulares (art. 181, §3º), a preservação, proteção e recuperação do meio ambiente urbano (art.180,III).
+    Assim , a norma da lei de parcelamento do solo urbano deve seguir todas essas diretrizes constitucionais, de modo que não há que se falar em exercício discricionário, mas um poder-dever vinculado da Administração em fiscalizar o uso do solo, agir direta e imediatamente, aplicando sanções, se necessário, com o uso poder de policia, dotado de autoexecutoriedade e coercibilidade.
+    A questão foi decidida sobre a óptica da Lei local nº 6.766/79. Assim, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Quanto ao prazo fixado, o Tribunal de origem decidiu a questão a partir de pressupostos fáticos estranhos às razões do recurso. Divergir desse entendimento demandaria, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso. Confiram com o transcrito a seguir:
+    Com relação ao prazo fixado pela sentença, não se mostra exíguo, pois foram concedidos dois anos a contar do trânsito em julgado da sentença, de modo que ainda nem se iniciou. Ainda, como já existe um cronograma de regularização realizado conjuntamente com a Associação de Moradores local, por certo que as medidas já estão sendo implementadas, ainda mais por força da liminar que fora concedidas e sua confirmação da sentença.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 15 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
