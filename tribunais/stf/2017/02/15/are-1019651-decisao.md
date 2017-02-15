@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, caput, II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Na esteira da Súmula 636/STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ademais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor público. Gratificação de Titulação. Necessidade de regulamentação. Controvérsia decidida com base na legislação local (leis distritais 3.824/2006 e 4.426/2009). Enunciado 280. 3. Agravo regimental a que se nega provimento.” (ARE 755775 AgR, Rela. Min. GILMAR MENDES, Segunda Turma, julgado em 24/09/2013, PROCESSO ELETRÔNICO DJe-198 DIVULG 07-10-2013 PUBLIC 08-10-2013)
+    “EMENTA DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO MUNICIPAL. DESVIO DE FUNÇÃO. DIFERENÇA REMUNERATÓRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287/STF. RECURSO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. A jurisprudência desta Suprema Corte é firme no sentido de que inadmissível o agravo que não ataca especificamente os fundamentos da decisão que inadmitiu o recurso extraordinário. Incidência da Súmula nº 287/STF. 2. Da detida leitura das razões recursais, bem como dos fundamentos adotados pela Presidência da Corte a quo, ao exame da admissibilidade do recurso, verifico não impugnados os fundamentos da decisão pela qual inadmitido o extraordinário na origem. 3. Considerada a sucumbência recíproca fixada na origem, deixo de aplicar o art. 85, §§ 2º, 3º e 11, do CPC/2015. 4. Agravo regimental conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015.”
+(ARE 956545 AgR, de minha relatoria, Primeira Turma, julgado em 16/09/2016, PROCESSO ELETRÔNICO DJe-209 DIVULG 29-09-2016 PUBLIC 30-09-2016)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. DESVIO DE FUNÇÃO. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279/STF. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 918470 AgR, Rel. Min. LUIZ FUX, Primeira Turma, julgado em 23/02/2016, PROCESSO ELETRÔNICO DJe-048 DIVULG 14-03-2016 PUBLIC 15-03-2016)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de fevereiro de 2017.
+Ministra Rosa Weber
+Relatora
