@@ -1,0 +1,30 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 4ª Turma Recursal dos Juizados Especiais Cíveis e Criminais do Estado do Paraná, assim ementado (eDOC 17):
+    “DIREITO ADMINISTRATIVO. RECURSO INOMINADO. SERVIDOR PÚBLICO TEMPORÁRIO. AGENTE DE CADEIA PÚBLICA. EDITAL 36/2012-SEJU. DEVIDO O ADICIONAL POR ATIVIDADE PENITENCIÁRIA CONCEDIDO AOS ESTATUTÁRIOS COM ATIVIDADES SIMILARES. GRATIFICAÇÃO PREVISTA NO CONTRATO E TAMBÉM NO INCISO IV, DA LEI COMPLEMENTAR Nº 108/2005, LEI QUE REGULA A CONTRATAÇÃO TEMPORÁRIA. INEXISTÊNCIA DE AFRONTA À SÚMULA 339 DO STF, EIS QUE NÃO SE TRATA DE AUMENTO DE VENCIMENTO EM RAZÃO DE ISONOMIA, MAS SIM DE DETERMINAÇÃO DE APLICAÇÃO DE EXPRESSO DISPOSITIVO LEGAL. CABÍVEL A LIMITAÇÃO IMPOSTA PELO ART. 8º, INCISO II, DA LEI COMPLEMENTAR 108/2005 QUE VEDA QUE A REMUNERAÇÃO DO AGENTE DE CADEIA PÚBLICA SEJA SUPERIOR À REMUNERAÇÃO DO AGENTE PENITENCIÁRIO ESTATUTÁRIO. JUROS DE MORA E CORREÇÃO MONETÁRIA. APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97. NECESSIDADE DE OBSERVÂNCIA DO PERÍODO DE GRAÇA CONSTITUCIONAL RECONHECIDA.
+    1. A remuneração do servidor temporário pelo Estado deve se dar nos termos do edital do processo seletivo, do contrato do trabalho e, sobretudo, em observância a Lei Complementar nº 108/2005, lei que regula a contratação temporária.
+    2. O direito ao recebimento do adicional de atividade penitenciária por servidor temporário, exercendo função similar, restou previsto no contrato firmado entre as partes, bem como no art. 8º, IV, da Lei 108/2005.
+    3. A concessão pelo Judiciário do adicional pleiteado não implica em aumento de vencimento, mas sim em aplicação de expresso dispositivo legal, razão por que não há se falar em afronta à Súmula nº 339 do STF.
+    4. Lado outro, cumpre observar a limitação imposta pelo art. 8º, II, da Lei Complementar nº 108/2005, que veda que a remuneração do agente de cadeia pública temporário seja superior à remuneração do agente penitenciário estatutário.
+    5. Nas condenações impostas a Fazenda Pública, deve-se, em regra, atentar para o disposto no art. 1º-F da Lei n. 9.494/97 para o cálculo dos juros de mora e correção monetária.
+    6. Nos termos da Súmula Vinculante n. 17 do Supremo Tribunal Federal, não incidem juros de mora durante o período de graça constitucional, previsto no art. 100, §1º da Constituição Federal.
+    7. Recurso conhecido e parcialmente provido.”
+    Os embargos de declaração foram rejeitados (eDOC 20).
+    No recurso extraordinário (eDOC 21), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 98, I e 100, § 8º, do Texto Constitucional.
+    Sustenta-se que o recorrente fracionou a sua pretensão “com o objetivo de burlar a competência absoluta dos Juizados Especiais e o regime de precatórios constitucionalmente previsto para o pagamento dos débitos judiciais da Fazenda Pública” (eDOC 21, p. 3).
+    A Presidência das Turmas Recursais Reunidas do Paraná inadmitiu o recurso extraordinário com base na Súmula 279 do STF (eDOC 24).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que os dispositivos constitucionais apontados como violados não foram objeto de debate no acórdão recorrido, faltando-lhes o necessário prequestionamento. Incidem, portanto, na espécie, as Súmulas 282 e 356 do STF.
+    Ademais, convém ressaltar o assentado pelo Tribunal de origem (eDOC 20, p. 1):
+    “De início, apesar cabe salientar a inexistência de conhecimento por parte deste colegiado de quantas e quais ações cada postulante apresentou perante os Juizados Especiais. Sendo importante rememorar ao Estado embargante ser ele a quem responde a todas as demandas, tendo assim, obviamente, maior facilidade para constatar esse tipo de situação, o que não foi visto quando da contestação ou da apresentação do recurso inominado.”
+    Desta forma, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, de modo a inviabilizar o processamento do apelo extremo, tendo em conta o enunciado da Súmula 279 do STF. Neste sentido os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO FISCAL. NOMEAÇÃO DE PRECATÓRIO A PENHORA. ORDEM LEGAL DE PREFERÊNCIA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. ACÓRDÃO CONFORME JURISPRUDÊNCIA DESTA CORTE PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO. 1. O acórdão recorrido está alinhado com a jurisprudência desta Corte no sentido de que não há ofensa direta em discussão relativa à ordem de preferência de nomeação de precatório à penhora em execução fiscal. 2. A resolução da controvérsia demanda a análise de legislação infraconstitucional, bem como o reexame do conjunto fático probatório (Súmula nº 279/STF), procedimentos inviáveis nesta fase recursal. Precedentes. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.”
+(ARE 902669 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/09/2016, PROCESSO ELETRÔNICO DJe-221 DIVULG 17-10-2016 PUBLIC 18-10-2016)
+    “Agravo regimental em agravo de instrumento. 2. Execução de sentença. Precatório. Erro material nos cálculos da contadoria. Coisa julgada. 3. Matéria de índole infraconstitucional. Ofensa reflexa. 4. Reexame fático-probatório. Incidência do Enunciado 279 da Súmula do STF. 5. Agravo regimental a que se nega provimento.”
+(AI 767504 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 19/08/2014, ACÓRDÃO ELETRÔNICO DJe-171 DIVULG 03-09-2014 PUBLIC 04-09-2014)
+    Ante o exposto, nego seguimento ao agravo, nos termos do art. 21, §1º, do RISTF.
+    Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
