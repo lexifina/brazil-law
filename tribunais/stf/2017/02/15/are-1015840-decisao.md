@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA PREVENTIVO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA (ISSQN). MAJORAÇÃO DE ALÍQUOTA. MUNICÍPIO DE BELO HORIZONTE. LEI MUNICIPAL 10.692/13 DE BELO HORIZONTE. OFENSA AO ARTIGO 152, §1º, DA CONSTITUIÇÃO DO ESTADO DE MINAS GERAIS. AÇÃO DIRETA DE INCONSTITUCIONALIDADE 1,0000.14.027981-1/000. MEDIDA CAUTELAR NÃO CONCEDIDA. AUSÊNCIA DE VIOLAÇÃO A DIREITO LÍQUIDO E CERTO. SENTENÇA MANTIDA.
+    - Não tendo sido concedida a medida cautelar nos autos da Ação Direta de Constitucionalidade 1.0000.14.027981-1/000, presume-se a constitucionalidade do artigo 20 da Lei Municipal 10.692/13, do Município de Belo Horizonte, que majorou a alíquota do Imposto Sobre Serviços de Qualquer Natureza (ISSQN)
+    - Presumida a constitucionalidade do dispositivo legal, não há ameaça de lesão a direito líquido e certo, razão pela qual deve ser denegada a ordem”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 24, I, 29, 165, §1º, todos da Carta. A parte recorrente sustenta a inconstitucionalidade da Lei Municipal nº 10.692/2013, por violação ao princípio da simetria bem como aos arts. 24, I e 29 da Constituição. Aduz que o TJMG, ao afirmar a desnecessidade do Município recorrido de respeitar a limitação da Constituição Estadual do prazo de 90 dias antes do término da sessão legislativa para apresentar projeto de majoração de tributo, acabou por violar a norma constitucional que determina que os Municípios devem observar as normas gerais de direito tributário previstas não só pela Constituição Federal, como também pela Constituição Estadual.
+    A pretensão recursal não merece prosperar, tendo em vista que a controvérsia foi dirimida a partir da interpretação da Constituição Estadual – norma de direito local (Súmula 280/STF), razão pela qual a ofensa à Constituição, se houvesse, seria indireta, o que não autoriza a admissão do recurso, conforme entendimento assente no Supremo Tribunal Federal. Confira-se:
+    “Funcionário Público: 1. O recurso extraordinário não é meio adequado para reapreciação de provas nem para interpretação da Constituição Estadual ou leis de Estado-membro. 2. Não cabe, no mandado de segurança, a condenação ao pagamento de vencimentos atrasados”. (RE 48350, Rel. Min. Aliomar Baleeiro)
+    Ademais, o Tribunal de origem entendeu não haver demonstração de direito líquido e certo da recorrente, razão pela qual denegou a ordem em sede de mandado de segurança. Dissentir das conclusões do Tribunal de origem demandaria o reexame do conjunto fático e probatório. Incide, no caso, a vedação da Súmula 279/STF.
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso. Deixo de majorar honorários, uma vez que não houve condenação em decorrência do rito processual.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
