@@ -1,0 +1,23 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela Empresa Brasileira de Correios e Telégrafos – ECT contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “CONSTITUCIONAL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. REMESSA OFICIAL. DESCABIMENTO. TAXA DE LICENÇA, LOCALIZAÇÃO E FUNCIONAMENTO. MUNICÍPIO DE SÃO PAULO. LEIS NS. 9.670/83 E 13.477/02. ECT. EQUIPARAÇÃO À EMPRESA PÚBLICA. ISENÇÃO. IMPOSSIBILIDADE DE EXTENSÃO DA EXONERAÇÃO. INTELIGÊNCIA DO ART. 111, II, DO CTN. EXERCÍCIOS 2001 E 2002. ILEGITIMIDADE. BASE DE CÁLCULO. NÚMERO DE EMPREGADOS. EXERCÍCIOS 2004 E 2005. BASE DE CÁLCULO. ATIVIDADE DA EMPRESA. POSSIBILIDADE.
+    I – Não sujeição da sentença ao reexame necessário, consoante o disposto no art. 475, inciso II, do Código de Processo Civil, com a redação dada pela Lei n. 10.352/01.
+    II – Isenção de pagamento de taxas conferida pelas Leis Municipais nºs 9.670/83 (art. 20) e 13.477/02 (art. 26) somente aos órgãos da Administração Direta da União, Estados, Distrito Federal, Municípios e respectivas autarquias e fundações, em relação a estabelecimentos em que exercidas atividades vinculadas às finalidades essenciais.
+    III – Impossibilidade de extensão de tal exoneração à ECT, por não ter sido amparada, pelos mencionados dispositivos legais, conquanto esta entidade integre o conceito de Fazenda Pública, conforme já pacificado pelo Supremo Tribunal federal, porquanto as isenções tributárias, diante do disposto no art. 111, inciso II, do Código Tributário Nacional, devem ser interpretadas literalmente, ou seja, de modo não extensivo, pois sempre implicam renúncia de receita. Precedentes desta Turma e da Terceira Turma desta Corte.
+    IV – Ilegítima a cobrança da Taxa de Licença, Localização e Funcionamento em relação aos exercícios de 2000 a 2002, por ter como base de cálculo no período, o número de empregados do estabelecimento, porquanto esta não se coaduna com a atividade estatal exercida pelo Município em face do poder de polícia, não correspondendo à hipótese de incidência, em afronta ao disposto nos arts. 145, inciso II, da Constituição da República e 77, ‘caput’, do Código Tributário Nacional. Precedentes do Superior Tribunal de Justiça e desta corte.
+    V – Legitimidade da base de cálculo da taxa em tela nos exercícios de 2003 a 2005, porquanto a Lei Municipal n. 13.477/02 instituiu critério objetivo e proporcional, relacionado especificamente à atividade fiscalizatória do Poder Público para a concessão ou renovação da licença. Precedentes desta Corte.
+    VI – Remessa Oficial não conhecida. Apelação parcialmente provida.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 145, II e § 2º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a controvérsia jurídica objeto deste processo já foi dirimida pela colenda Primeira Turma desta Suprema Corte que, ao julgar o ARE 744.804-AgR/SP, Rel. Min. DIAS TOFFOLI, fixou entendimento consubstanciado em acórdão assim ementado:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Taxa de Fiscalização de Estabelecimentos – TFE. Base de cálculo. Número de empregados. Dados insuficientes para aferir o efetivo poder de polícia.
+    1. As taxas comprometem-se tão somente com o custo do serviço específico e divisível que as motiva, ou com a atividade de polícia desenvolvida.
+    2. Os critérios do número de empregados ou da atividade exercida pelo contribuinte para aferir o custo do exercício do poder de polícia desvinculam-se do maior ou menor trabalho ou atividade que o Poder Público se vê obrigado a desempenhar. Precedentes.
+    3. Agravo regimental não provido.”
+    (grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em vista as razões expostas, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento firmado por esta Suprema Corte (CPC/15, art. 932, VIII, e RISTF, art. 21, § 1º).
+    Fixo, em 10% (dez por cento) sobre o valor atualizado da condenação, a verba honorária a ser suportada pela parte sucumbente.
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
