@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “TRIBUTÁRIO. BASE DE CÁLCULO REDUZIDA. CESTA BÁSICA. CREDITO PROPORCIONAL. ESTORNO.
+    1. A redução da base de cálculo constitui isenção parcial em que a obrigação tributária nasce em quantia inferior à devida. Lição de Souto Maior Borges.
+    2. A isenção parcial numa fase do ciclo de produção ou comercialização importa na anulação proporcional do crédito relativo às operações anteriores. Art. 155, § 2º, inciso II, letra ‘b’, da Constituição da República. Precedente do Pleno do Supremo Tribunal Federal. RE 174478.
+    3. A concessão de benefício fiscal é medida que se insere dentro da Política Fiscal, razão pela qual é lícita a restrição do favor apenas aos contribuintes que cumpram as condições impostas pelo Fisco. Por isso, não fere a Constituição Federal nem a legislação tributária a concessão do benefício de redução da base de cálculo apenas ao contribuinte que renunciar ao direito de crédito de eventual diferença entre a base de cálculo do ICMS apurado na entrada da mercadoria e o preço praticado na saída subsequente.
+    Embargos infringentes acolhidos.”
+    A parte recorrente sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário desta Suprema Corte, ao julgar o RE 174.478/SP, Rel. p/ o acórdão Min. CEZAR PELUSO (RTJ 198/724), firmou orientação sobre a controvérsia ora em análise, proferindo decisão consubstanciada em acórdão assim ementado:
+    “TRIBUTO. Imposto sobre Circulação de Mercadorias. ICMS. Créditos relativos à entrada de insumos usados em industrialização de produtos cujas saídas foram realizadas com redução da base de cálculo. Caso de isenção fiscal parcial. Previsão de estorno proporcional. Art. 41, inc. IV, da Lei estadual nº 6.374/89, e art. 32, inc. II, do Convênio ICMS nº 66/88. Constitucionalidade reconhecida. Segurança denegada. Improvimento ao recurso. Aplicação do art. 155, § 2º, inc. II, letra ‘b’, da CF. Voto vencido. São constitucionais o art. 41, inc. IV, da Lei nº 6.374/89, do Estado de São Paulo, e o art. 32, incs. I e II, do Convênio ICMS nº 66/88.” (grifei)
+    Cabe ressaltar, neste ponto, que essa orientação plenária reflete-se em sucessivos julgamentos, monocráticos e colegiados, proferidos no âmbito desta Corte (AI 497.755-ED/PR, Rel. Min. CARLOS VELLOSO – AI 552.306-AgR-AgR/MG, Rel. Min. RICARDO LEWANDOWSKI – RE 154.179-AgR-ED/SP, Rel. Min. GILMAR MENDES - RE 334.819- -AgR/SP, Rel. Min. SEPÚLVEDA PERTENCE – RE 423.658-AgR/MG, Rel. Min. CARLOS VELLOSO – RE 519.943/RS, Rel. Min. CÁRMEN LÚCIA – RE 547.068/MG, Rel. Min. AYRES BRITTO – RE 556.697/SC, Rel. Min. CEZAR PELUSO, v.g.):
+    “TRIBUTÁRIO. ICMS. VEDAÇÃO AO CREDITAMENTO EM RAZÃO DA REDUÇÃO DA BASE DE CÁLCULO. INEXISTÊNCIA DE AFRONTA AO PRINCÍPIO DA  NÃO-CUMULATIVIDADE. PRECEDENTES. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.”
+    (RE 256.204/RS, Rel. Min. CÁRMEN LÚCIA)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em análise.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário a que ele se refere, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC/15, art. 932, IV, “b”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 16 de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
