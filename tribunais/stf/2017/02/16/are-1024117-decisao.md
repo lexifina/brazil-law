@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto a procedência do pedido do autor de concessão de auxílio-moradia referente ao período de fevereiro de 2003 a maio de 2005. No extraordinário cujo processamento busca alcançar, a recorrente aponta violados os artigos 2º, 5º, inciso II, 37, cabeça, 39, § 4º, 93, inciso I, 102, inciso I, alínea “n”, e 169, cabeça, incisos I e II, da Constituição Federal. Alega usurpação da competência do Supremo, inexistência de previsão legal para concessão do benefício, impossibilidade de pagamento da verba acrescida ao subsídio e a necessidade de previsão orçamentária.
+    2. A decisão proferida pelo Colegiado de origem está em consonância com a jurisprudência do Tribunal. Confira com as seguintes ementas:
+    MAGISTRATURA. REVISÃO VENCIMENTOS. AUXÍLIO-MORADIA. ISONOMIA. OBSERVÂNCIA. QUESTÃO DE ORDEM. COMPETÊNCIA. ART. 102, I, N , DA CONSTITUIÇÃO FEDERAL. NÃO INCIDÊNCIA. REMESSA DOS AUTOS AO TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS.
+    1. Magistratura. Revisão de vencimentos para equiparação de benefícios. Auxílio-Moradia. Inclusão.
+    2. Questão de Ordem. Competência para processar e julgar originariamente a ação em que todos os membros da magistratura sejam direta ou indiretamente interessados. Art. 102, I, n , da Constituição Federal .
+    3. Regra explícita de conformação entre os princípios constitucionais do juízo natural e da imparcialidade. Indispensável garantia de imparcialidade do julgador da causa e, consequentemente, de lisura da decisão judicial a ser proferida.
+    5. Requisitos para competência originária do Supremo Tribunal Federal. O interesse direto ou indireto deverá ser efetivo e para a totalidade da magistratura. Situação específica não demonstrada na hipótese dos autos.
+    6. Questão de ordem provida para reconhecer a incompetência desta Corte e devolução dos autos ao Juízo de origem.
+    (Ação Originária nº 587/DF, relatada no Pleno pela ministra Ellen Gracie, publicada no Diário da Justiça de 30 de junho de 2006.)
+    Agravo regimental em recurso extraordinário com agravo. 2. Magistrado. Auxilio moradia. Competência do Supremo Tribunal Federal. Não ocorrência. Prerrogativa de outras carreiras do serviço público. Ausência de interesse exclusivo da magistratura. Precedente: RCL 16.597/CE. 3. Agravo regimental a que se nega provimento.
+    (Agravo Regimental no Recurso Extraordinário com Agravo nº 862.052/RJ, relatado na Segunda Turma pelo ministro Gilmar Mendes, publicado no Diário da Justiça de 17 de abril de 2015.)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AUXÍLIO MORADIA PARA MAGISTRADO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE REPERCUSSÃO GERAL. CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    (Agravo Regimental no Recurso Extraordinário nº 849.521/SE, relatado na Segunda Turma pela ministra Cármen Lúcia, publicado no Diário da Justiça de 17 de março de 2015.)
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    No mais, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5 % do valor da causa, nos termos do artigo 85, § 11, do citado diploma legal.
+    4. Publiquem.
+Brasília, 16 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
