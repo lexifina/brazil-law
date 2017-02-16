@@ -1,0 +1,10 @@
+DECISÃO
+BENEFÍCIO PREVIDENCIÁRIO - REVISÃO - PRAZO DECADENCIAL - MEDIDA PROVISÓRIA Nº 1.523/97 – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de origem consignou a decadência do direito de pleitear a revisão da renda mensal inicial de benefício previdenciário, considerando o transcurso do prazo de dez anos estabelecido pela Medida Provisória nº 1.523/97. No extraordinário, cujo trânsito pretende alcançar, o recorrente alega a violação dos 1º, inciso III, 5º, inciso XXXVI, 193, 194, inciso IV, e 201, § 4º, da Constituição Federal. Argui a nulidade do acórdão relativo aos embargos de declaração, por negativa de prestação jurisdicional. Pleiteia a substituição do benefício concedido, afirmando a inaplicabilidade do prazo decadencial por não ter o Instituto Nacional do Seguro Social (INSS) considerado, no momento da concessão, o direito à melhor prestação.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, o acórdão recorrido está em consonância com a jurisprudência do Supremo. O Tribunal, no recurso extraordinário nº 626.489/SE, da relatoria do ministro Roberto Barroso, assentou a constitucionalidade da instituição, por meio da Medida Provisória nº 1.523/97, do prazo decadencial de dez anos, alusivo à revisão de benefícios previdenciários, inclusive quanto aos concedidos anteriormente à edição da citada medida. Consignou, ainda, ser o dia 1º de agosto de 1997 o termo inicial para a contagem do referido prazo.
+    3. Ante o precedente, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 16 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
