@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de Santa Catarina, reformando o entendimento do Juízo, julgou procedentes o pedido de pagamento de perdas e danos no tocante a privilégio de invenção e de marca de indústria, bem como à abstenção de uso da patente. No extraordinário cujo processamento busca alcançar, a recorrente aponta violado o artigo 5º, inciso XXIX, da Constituição Federal. Insurge-se contra a condenação, dizendo ter o acórdão implicado interpretação equivocada quanto ao conceito de invenção, tendo como incabível a proteção.
+    2. Simultaneamente com o extraordinário foi interposto recurso especial. O Superior Tribunal de Justiça dele conheceu e acolheu parcialmente o pedido formulado, assentando afastado o período de julho de 2015, para fins de reparação do dano. A decisão prolatada substituiu, consoante o disposto no artigo 512 do Código de Processo Civil, a formalizada pelo Tribunal de Justiça do Estado de São Paulo, a qual, assim, não mais subsiste, no particular.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    O perito judicial vistoriou as centrais de Blumenau da empresa de telefonia, oportunidade em que pode comparar o serviço prestado com o invento patenteado, concluindo “ que os dois sistemas apresentam os mesmos princípios de funcionamento” ( fl. 316), “ ou seja, tem a mesma ideia de solução” ( fl. 334). E indaga se a “invenção visou dar solução técnica a uma prática desconhecida, discagem direta à cobrar sem uso de telefonistas”, respondeu taxativamente: “ Sim. O sistema descrito à fl. 12 ( inclusive) até à fl. 6, visa dar solução técnica a legação telefônica a cobrar, se auxílio de telefonista” ( fl.334).
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 16 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
