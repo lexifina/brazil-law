@@ -1,0 +1,40 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional da 2ª Região, ementado nos seguintes termos:
+    “TRIBUTÁRIO. ART. 21 DO DL Nº 2.065/83. VARIAÇÃO DA ORTN: CONSIDERAÇÃO DA VARIAÇÃO DIÁRIA. PARECER NORMATIVO CST Nº 10/85. CONTRATO DE CONTA CORRENTE. CONTRATO DE MÚTUO.
+    1. O art. 21 do DL nº 2.065/83, ao estipular que a empresa mutuante, nos casos de mútuo entre pessoas jurídicas coligadas, interligadas, controladoras e controladas, deverá incluir, no cálculo de lucro real, pelo menos o valor correspondente à correção monetária calculada segundo a variação do valor da ORTN, não determinou se essa variação seria mensal ou diária.
+    2. Diante da imprecisão da norma, consideradas as interpretações possíveis, vê-se que a que mais atende à sua finalidade, inclusive mediante critérios de razoabilidade e proporcionalidade, é a consideração da variação diária da ORTN, nos termos do parecer Normativo CST nº 10/85.
+    3. Inexistência de violação aos artigos 150, I, da Constituição; 97, I, 103 e 108 do CTN.
+    4. As comissões pagas pela empresa controlada à sua controladora o contrato é considerado de mútuo, não se confundindo com aquele firmado com a controladora (conta corrente).
+    5. Apelação da autora improvida. Apelação e Remessa necessária providas.” (eDOC 9, p. 6)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 93, IX; 150, I, do texto constitucional. (eDOC 12, p. 7)
+    Nas razões recursais, alega-se, preliminarmente, ausência de prestação jurisdicional. No mérito, aduz o seguinte:
+    “(...) os valores pagos a título de contraprestações contratuais por representação mercantil e prestação de serviços não configuram mútuo, resta inaplicável o disposto no art. 21, do DL nº 2.065/83, ao presente caso.
+    Contudo, ainda que Vossas Excelências entendam pela configuração de mútuo, fato é que, ainda assim, os valores pagos não poderia sofrer correção monetária diária, como determina o v. Aresto recorrido, por ausência de Lei que assim determine.”(eDOC 12, p. 13)
+    O TRF da 2ª Região inadmitiu o recurso por entender que a controvérsia versa sobre ofensa reflexa à Constituição Federal. (eDOC 13, p. 14-15)
+    É o Relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Registre-se que o acórdão recorrido está devidamente fundamentado, sendo pacífico o entendimento desta Corte no sentido de ser desnecessário o enfrentamento específico de todos os argumentos trazidos pelo recorrente. Assim, não há que se falar em negativa de prestação jurisdicional.
+    Saliente-se, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, no tema 339, nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”. (Grifei) (AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010)
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da parte recorrente.
+    Ademais, a Corte Regional, ao examinar a legislação infraconstitucional aplicável à espécie (Decreto-lei 2.065/83) e o conjunto probatório constante dos autos, consignou que as comissões pagas pela empresa controlada a sua controladora configuram uma espécie de mútuo, razão porque deve-se incluir no cálculo do lucro real o valor correspondente à correção monetária calculada segundo à variação diária da ORTN. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A questão, portanto, diz respeito à tributação dos valores de conta corrente mantida entre autora/apelante e sua controladora, à luz da disciplina do art. 21 do Decreto-lei nº 2.065/83.
+    Dispõe o art. 21 do Decreto-lei nº 2.065/83:
+    (…)
+    Pela Dicção do dispositivo, a empresa mutuante, nos casos de mútuo entre pessoas jurídicas coligadas, interligadas, controladoras e controladas, deverá incluir, no cálculo do lucro real, pelo menos o valor correspondente à correção monetária calculada segundo a variação do valor da ORTN. Ou seja, deverá reconhecer como ganho advindo do empréstimo, pelo menos, o valor referente à correção monetária referida, para efeitos de tributação.
+    A controvérsia dos autos reside, contudo, em saber se o valor da correção monetária mencionada deve ser aferido mediante o cálculo mensal ou diário da ORTN, já que a norma acima transcrita não estipula, expressamente, qual seria o critério.
+    (…)
+    Ou seja, diante da imprecisão da norma, consideradas as interpretações possíveis, vê-se que a que mais atende à sua finalidade, inclusive mediante critérios de razoabilidade e proporcionalidade, é a consideração da variação diária da ORTN, nos termos do parecer citado.
+    Com efeito, no caso em apreço, em que o contrato (promessa de mútuo), foi firmado de forma vaga e sem delimitação concreta quanto aos valores a ser emprestados e à periodicidade do empréstimo, a aplicação da variação mensal da ORTN poderia gerar dissonância entre o lapso de duração e conclusão do empréstimo e a aplicação do art. 21 do DL nº 2.065/83, pois a avença poderia prever lapsos temporais distintos do mensal gerando efeitos impróprios na tributação. Seria o caso, justamente, do disposto no item 4.2 do Parecer acima citando, sendo que autuação fiscal, com a apuração de diferenças entre um método e outro, corrobora essa assertiva.
+    Quanto às comissões pagas pela autora/apelante a sua controladora, a sentença não merece reforma.
+    Não há que se falar que essas despesas são decorrentes de desconto oferecido pela autora à sua controladora, uma que esse contrato é considerado de mútuo, não se confundindo com aquele firmado com a controladora (conta corrente). (eDOC 9, p. 1-4)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confira-se, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA. COMPRA E VENDA DE ORTN’S. INSTRUÇÃO NORMATIVA DA SECRETARIA DA RECEITA FEDERAL. 1. É inadmissível o processamento do recurso extraordinário, quando o seu exame demanda o reexame da legislação aplicável à espécie, inclusive de índole regulamentar, e do conjunto fático-probatório. Súmula 279 do STF. 2. ‘Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida’ (Enunciado da Súmula 636 do STF). 3. Agravo regimental a que se nega provimento.” (RE 821.497 AgR, Rel. Min. Edson Fachin, Primeira Turma, Dje. 20.10.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
