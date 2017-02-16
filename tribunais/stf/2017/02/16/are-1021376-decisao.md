@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por São Paulo Previdência – SPPPREV contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “RECURSO DE APELAÇÃO – MANDADO DE SEGURANÇA COLETIVO – DELEGADOS DE POLÍCIA DO ESTADO DE SÃO PAULO – PRETENSÃO AO RECEBIMENTO DOS PROVENTOS DE APOSENTADORIA, CONFORME A ÚLTIMA CLASSE OCUPADA, AINDA QUE POR MENOS DE CINCO ANOS – POSSIBILIDADE. 1. A mudança de classe, nível ou entrância ocorre apenas para fins remuneratórios. 2. A regra do inciso III do § 1º do artigo 40 da Constituição da República estabelece o requisito de cinco anos no cargo, e não, na classe ocupada. 3. Precedentes deste Egrégio Tribunal de Justiça. 4. Sentença que denegou a ordem, reformada. 5. Recurso de apelação provido para julgar procedente a ação mandamental, concedendo a ordem impetrada.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 40, § 1º, III, da Constituição da República.
+    Cabe registrar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei Complementar estadual nº 503/87), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “(...) se pode afirmar com relação à legislação infraconstitucional a respeito, que trata da promoção na série de classes de Delegado de Polícia, nos termos do § 1º do artigo 1º da Lei Complementar Estadual nº 503/87, dispondo o seguinte: ‘A promoção referida neste artigo é a elevação do Delegado de Polícia, até a Primeira Classe’.
+    Neste ponto, como bem ponderado pelo ilustre Desembargador Amorim Cantuária: ‘claro está que cargo e nível são conceitos distintos. A mudança de nível é somente para fins remuneratórios, não há divisão de competência, atribuições e responsabilidades’ (Apelação nº 0017353-45.2010.8.26.0053, 3ª Câmara de Direito Público, v.u., j. 20.9.2011).
+    Enfim, o ordenamento jurídico pátrio não restringe o direito postulado à permanência de cinco anos no nível ou classe. O que a legislação exige é o efetivo exercício no cargo, sendo aplicável a antiga lição de hermenêutica jurídica no sentido de que, se a lei não distinguiu, descabe ao intérprete fazê-lo.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 16 de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
