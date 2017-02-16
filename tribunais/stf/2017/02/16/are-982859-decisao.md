@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE PREQUESTIONAMENTO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal Regional Federal da 5ª Região, confirmando o entendimento do Juízo, determinou a exclusão do lançamento do nome do recorrido de cadastro de inadimplentes do governo federal, relativamente ao convênio nº 2711/2007.
+    No extraordinário cujo trânsito busca alcançar, a União alega a violação dos artigos 37, cabeça, e 160, parágrafo único, inciso I, da Carta da República. Consoante afirma, o Texto Maior autoriza a inscrição do Município inadimplente no Sistema Integrado de Administração Financeira – Siafi. Diz ser necessária a adoção de tais medidas para resguardar o interesse público. Sustenta ter observado as normas legais pertinentes, em atenção ao princípio da legalidade.
+    2. O recurso extraordinário direciona ao atendimento cumulativo dos pressupostos gerais de recorribilidade – adequação, oportunidade, interesse de agir, representação processual e preparo – e a um dos específicos previstos no inciso III do artigo 102 da Carta da República. O acesso ao Supremo faz-se, por isso mesmo, em via de excepcionalidade maior, tudo objetivando a atuação precípua do Tribunal, qual seja, a guarda da supremacia da Constituição Federal.
+    Quanto ao pressuposto específico, quase sempre retratado na alínea “a” do inciso III do artigo 102 da Lei Fundamental – violência a dispositivo nela inserto –, mostra-se necessário, ante a ordem natural das coisas, proceder-se a cotejo. Somente é possível definir se houve transgressão a texto do Diploma Maior mediante o confronto do que decidido com as razões do extraordinário, mais precisamente com o que evocado no tocante à adoção de entendimento contrário ao ditame constitucional. Daí o instituto do prequestionamento, que significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o acórdão impugnado nada contém sobre o que versado no extraordinário, descabe assentar o enquadramento deste no permissivo constitucional.
+    No caso, o que sustentado não foi enfrentado pelo Órgão julgador. Apesar da interposição de embargos declaratórios, não houve debate e decisão prévios sobre a alegada violação aos artigos 37, cabeça, e 160, parágrafo único, inciso I, da Constituição Federal. Frise-se, por oportuno, que a parte recorrente não arguiu o vício de procedimento.
+    No mais, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. Colho do acórdão recorrido os seguintes trechos:
+    […]
+    Inicialmente, para o deslinde da matéria em questão, há de se observar o que estabelece Instrução Normativa nº 01/97 – STN, em seu artigo 5º, nos parágrafos 2º e 3º, litteris:
+    […]
+    Com efeito, adequando-se ao que dispõe a retro transladada Instrução Normativa, subsiste o direito das Municipalidade de terem suas inadimplências suspensas, podendo, desta forma, serem liberadas para receberem novos recursos federais, além dos destinados exclusivamente às execuções de ações sociais, educação, saúde e assistência social.
+    De fato, no caso em apreço, não mais se encontra à frente do Executivo Municipal o administrador faltoso, então Prefeito Municipal à época das irregularidades, deste modo, o primeiro requisito prescrito na Instrução Normativa supra citada.
+    Além disso, o Município de Autor afirmar que já foram providenciadas medidas no sentido de garantir o ressarcimento ao Erário. Frise-se, por oportuno, que tais argumentos foram comprovados pelos documentos de fls. 17, 22/29, 71/108, que demonstram a implementação de providências decorrentes do ajuizamento de ação no sentido de responsabilização do ex-gestor e ressarcimento dos prejuízos, relatório de verificação onde foram apontados vícios na execução do convênio, comunicação ao TCU para realização da Tomada de Contas Especiais, dentre outras medidas.
+    Ademais, convém destacar que, conforme prevê o art. 38, da IN/STN 01/97, a Tomada de Contas Especial é procedimento administrativo instaurado automaticamente após a verificação de irregularidades na execução do convênio, caso haja omissão por parte do ordenador de despesas.
+    […]
+    À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 16 de fevereiro de 2017.
+ Ministro MARCO AURÉLIO
+Relator
