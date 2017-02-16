@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Minas Gerais, confirmando o entendimento do Juízo, assentou a legitimidade da exclusão do município do cadastro de inadimplentes do Sistema Integrado de Administração Financeira – SIAFI, considerada a inexistência de comprovação de dano ao erário. No extraordinário cujo trânsito busca alcançar, o recorrente articula com a violação do artigo 37, cabeça, da Constituição Federal. Entende cabível a inclusão do ente federativo no mencionado rol, ante à alteração da execução do plano de trabalho unilateralmente pelo município, contrariando as cláusulas do convênio e as normas do Decreto nº 30.645/2014.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se, em sede excepcional, à luz da moldura fática delineada soberanamente pelo Tribunal de origem, consideradas as premissas constantes do ato impugnado. A jurisprudência sedimentada mostra-se pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    E neste aspecto, o que se verifica é que não há sequer menção tenha havido desvio de finalidade, execução incompleta das obras, aplicação parcial de recursos, malversação do dinheiro público, má-fé ou vício outro a demonstrar prejuízo ao erário.
+    Como pontuado na primeira instância, "o Município de Carvalhos aplicou os recursos do convênio em outras ruas que não as especificadas no contrato estabelecido, porém não deixou de aplicar os recursos no próprio município, pavimentando outras vias que também são utilizadas pelos munícipes" (f. 429)
+    Ou seja, a despeito de alteradas as ruas que receberiam pavimentação - houve o atendimento ao objeto, à finalidade, do convênio, que era a pavimentação de vias públicas, beneficiando a população local.
+    Pontue-se, ainda, que as contas foram prestadas e não houve, à evidência, e como dito, qualquer alegação no tocante à aplicação escusa do numerário liberado pela autarquia estadual.
+    Diante disto, tenho por legítima a exclusão do bloqueio do Município lançado junto ao SIAF, pois não há razoabilidade, à evidência, nessa grave medida que acaba por refletir em prejuízo à população local, apenas em razão da pavimentação de ruas diversas ao conveniado, sem desvio de verba, dano ao erário ou ato ilícito outro.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, a reapreciação dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    No mais, o pronunciamento recorrido por meio do extraordinário demonstra interpretação de normas estritamente legais, não ensejando campo ao acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise recurso que não se enquadra no inciso III do artigo 102 do Diploma Maior.
+    De resto, o sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando no verbete nº 282 da Súmula do Supremo.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Ante o quadro, conheço do agravo e o desprovejo. Considerada a fixação no Juízo de honorários advocatícios no valor de R$ 5000,00 (quinhentos reais), fixo os honorários recursais no patamar de R$ 250,00 (duzentos e cinquenta reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 16 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
