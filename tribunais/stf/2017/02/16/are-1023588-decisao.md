@@ -1,0 +1,35 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCÁRIO. BENEFÍCIO ASSISTENCIAL DE PRESTAÇÃO CONTINUADA AO IDOSO E AO DEFICIENTE. ARTIGO 203, V, DA CONSTITUIÇÃO FEDERAL. INTERPRETAÇÃO DO PARÁGRAFO ÚNICO DO ARTIGO 34 DA LEI 10.741/2003, PARA FINS DO CÁLCULO DA RENDA FAMILIAR DE QUE TRATA O PARÁGRAFO 3º DO ARTIGO 20 DA LEI 8.742/1993. TEMA 312. RE 580.963. MATÉRIA JÁ EXAMINADA SOB O ENFOQUE DA REPERCUSSÃO GERAL. DECISÃO QUE APLICA PRECEDENTE DESTA CORTE FIRMADO SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. INTERPOSIÇÃO DE AGRAVO. NÃO CABIMENTO. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DA NOVA SUCUMBÊNCIA RECURSAL. ARTIGO 85, §§ 2º, 3º E 11, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo nas alíneas a e b do permissivo constitucional, contra acórdão que assentou, verbis:
+    “AMPARO SOCIAL (LOAS). REQUISITOS. CONCEITO DE RENDA. INTERPRETAÇÃO DADA. TURMA NACIONAL DE UNIFORMIZAÇÃO DOS JUIZADOS ESPECIAIS FEDERAIS-TNU. APLICAÇÃO EXTENSIVA DA REGRA CONTIDA NO ART. 34 DA LEI 10.741/2003 (ESTATUTO DO IDOSO). PRECEDENTES DESSA E. TURMA. COMPROVAÇÃO DA MISERABILIDADE. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS (ART. 46 DA LEI 9.099/95). RECURSO INOMINADO IMPROVIDO.” (Doc. 41, fl. 1).
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 2º, 44, 194, III e parágrafo único, 195, § 5º, e 203, caput e V, da Constituição Federal.
+    A Presidência da Primeira Turma Recursal do Ceará, com fundamento no artigo 1.030, I, a, do Código de Processo Civil de 2015, aplicou a sistemática da repercussão geral e negou seguimento ao recurso extraordinário, em decisão que assentou, verbis:
+    “(...)
+    O Supremo Tribunal Federal, em julgamento recente no recurso extraordinário (RE 580.963) oriundo do Estado do Paraná, firmou entendimento acerca da matéria objeto do presente recurso, concluindo pela declaração de inconstitucionalidade parcial, sem pronúncia de nulidade, do art. 34, parágrafo único, da Lei nº. 10.741/2003, conforme ementa transcrita a seguir:
+    (...)
+    Por outro lado, dispõe a Súmula 286 do STF:
+    ‘Súmula nº. 286 - Não se conhece do recurso extraordinário fundado em divergência jurisprudencial, quando a orientação do plenário do supremo tribunal federal já se firmou no mesmo sentido da decisão recorrida.’
+    Conclui-se que, nesse ponto, o recurso restou prejudicado, por cuidar de tese não acolhida pelo Supremo Tribunal Federal, cuja orientação é no mesmo sentido do acórdão recorrido.
+    Outrossim, no que se refere ao critério de correção monetária das parcelas pretéritas, a sentença de origem, mantida em todos os seus termos pelo acórdão vergastado, foi expressa no sentido de ser observada a decisão exarada pelo Supremo Tribunal Federal que modulou os efeitos da declaração de inconstitucionalidade proferida no julgamento das ADIs 4.357 e 4.425, não procedendo, portanto, a alegação de que o acórdão em tela contrariou a posição do STF no julgamento das referidas ADIs.
+    Posto isso, INADMITO o recurso extraordinário.” (Doc. 50, fls. 1-3).
+     É o relatório. DECIDO.
+    O recurso de agravo é inadmissível contra decisão que aplica a sistemática da repercussão geral. Nesse sentido:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental.
+    1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral.
+    2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação.
+    3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida.
+    4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.” (AI 760.358-QO, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 19/2/2010).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL A QUO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 543-B DO CPC). DESCABIMENTO DO AGRAVO PREVISTO NO ART. 544 DO CPC. CABIMENTO DE AGRAVO REGIMENTAL (OU INTERNO) PARA A ORIGEM. IMPOSSIBILIDADE DE CONVERSÃO EM AGRAVO REGIMENTAL. ACÓRDÃO RECORRIDO PUBLICADO APÓS 19.11.2009.
+    É pacífico o entendimento desta Corte de que, por não se cuidar de juízo negativo de admissibilidade de recurso extraordinário, não é cabível o agravo previsto no art. 544 do Código de Processo Civil, para atacar decisão de Presidente de Tribunal ou Turma Recursal de origem que aplique a sistemática da repercussão geral.
+    A parte que queira impugnar decisão monocrática de Presidente de Tribunal ou de Turma Recursal de origem, proferida nos termos do art. 543-B do CPC, deve fazê-lo por meio de agravo regimental (ou interno).
+    Inaplicável a conversão do presente recurso em agravo regimental a ser apreciado pela origem, já que a jurisprudência desta Corte já fixou entendimento de que após 19.11.2009, data em que julgado o AI 760.358-QO, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro.
+    Agravo regimental a que se nega provimento.” (ARE 761.661-AgR, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe de 28/4/2014).
+    Ressalte-se que o novo Código de Processo Civil, em vigor desde 18/3/2016, expressamente ratificou a orientação jurisprudencial da Suprema Corte no caput de seu artigo 1.042, ao afirmar ser incabível agravo contra decisão do presidente ou do vice-presidente do Tribunal de origem que inadmitir recurso extraordinário, “quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos”.
+    Destaco, por oportuno, que a competência para a aplicação da sistemática da repercussão geral é dos Tribunais de origem.
+    Por fim, observo que o recurso foi interposto sob a égide da nova lei processual, o que impõe a aplicação de nova sucumbência.
+    Ex positis, NÃO CONHEÇO o agravo, com fundamento no artigo 932, III, do Código de Processo Civil de 2015, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal, obedecidos os limites do artigo 85, §§ 2º, 3º e 11, do CPC/2015.
+    Publique-se.
+    Brasília, 16 de fevereiro de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
