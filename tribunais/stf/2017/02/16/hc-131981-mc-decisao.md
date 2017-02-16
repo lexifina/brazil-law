@@ -1,0 +1,17 @@
+DECISÃO
+PENA – REGIME DE CUMPRIMENTO – – ARTIGO 33, § 2º, ALÍNEA “B” DO CÓDIGO PENAL.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal da Comarca de Araranguá/SC, no processo nº 0002859-46.2014.8.24.0004, absolveu o paciente da prática do delito descrito no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006, reportando-se ao artigo 386, inciso V, do Código de Processo Penal. Assentou inexistir prova de ter concorrido para a infração. Condenou a corré, ante o cometimento do crime mencionado, a 6 anos e 8 meses de reclusão, em regime inicial semiaberto.
+          A Terceira Câmara Criminal do Tribunal de Justiça, ao prover a apelação interposta pelo Ministério Público, condenou o paciente, como incurso nas penas do dispositivo citado, a 6 anos de reclusão e ao pagamento de 500 dias-multa. Na segunda fase da dosimetria, acrescentou 1 ano à sanção, fixada no mínimo – 5 anos. Aludiu à reincidência específica do paciente, o que impediu a aplicação da causa de diminuição versada no § 4º do artigo 33 da Lei Antidrogas, na última etapa do cômputo. Impôs o regime fechado, reportando-se à gravidade concreta do delito, consubstanciada na comercialização de crack. Protocolados declaratórios, não foram acolhidos.
+     Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 330.161/SC, inadmitido pela Sexta Turma, que entendeu acertado o regime fechado, reportando-se ao disposto no artigo 33, § 3º, do Código Penal.
+     A Defensoria Pública da União alega estar o paciente submetido a regime de cumprimento mais gravoso do que o determinado à corré – semiaberto –, condenada a idêntica pena e reincidente. Diz da violação do princípio da isonomia, presente a similitude da situação fático-jurídica. Sustenta a observância do artigo 580 do Código de Processo Penal, buscando a extensão dos efeitos do acórdão na parte alusiva ao estabelecimento do regime semiaberto à corré, tendo-o como adequado ao paciente.
+          Requer, em âmbito liminar, a suspensão da eficácia do acórdão formalizado pela Terceira Câmara Criminal do Tribunal estadual, na apelação nº 2014.084275-5, colocando-se o paciente em regime semiaberto. No mérito, busca sejam estendidos os efeitos do pronunciamento relativamente à imposição do regime intermediário à corré, Elisângela Galvão Rodrigues.
+    A fase é de exame da medida acauteladora.
+    2. Percebam a disciplina legal referente à fixação do regime de cumprimento da pena. Norteia-o o patamar alusivo à condenação e as circunstâncias judiciais. O Tribunal, ao condenar o paciente, determinando o regime fechado, levou em conta a reincidência, ou seja, aplicou a regra prevista no artigo 33, § 2º, do Código Penal. Vê-se que atuou considerado o ordenamento jurídico. No tocante à corré, surge situação processual peculiar. Conforme consignado pelo Relator da apelação, inexistiu agravamento do regime semiaberto para o fechado, não em virtude de haver quadro apto a afastar a incidência legal, mas devido à proibição da reforma em prejuízo da defesa, tendo em vista que apenas esta interpôs recurso contra a sentença condenatória. Sob a óptica legal, não há campo para a correção da decisão impugnada.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 16 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
