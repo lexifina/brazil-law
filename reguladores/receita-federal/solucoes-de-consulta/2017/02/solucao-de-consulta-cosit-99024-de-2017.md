@@ -1,0 +1,27 @@
+Solução de Consulta Cosit nº 99024, de 10 de fevereiro de 2017
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: CRÉDITOS DA NÃO CUMULATIVIDADE. DESPESAS COM CONTRATAÇÃO DE SERVIÇOS DE DESENVOLVIMENTO DE PRODUTOS. ENQUADRAMENTO COMO INSUMO. INADMISSIBILIDADE.
+Despesas incorridas com a contratação de serviços para desenvolvimento de produtos, tais como design de fechamentos plásticos de produtos, de embalagens, de adesivos e manuais de instruções; traduções e correções ortográficas; e com parcerias entre empresa/universidade em desenvolvimento de projetos integrados de produtos, por pessoa jurídica industrial, não geram crédito do regime de apuração não cumulativa da Cofins, por não se enquadrarem no conceito de insumo, nem terem previsão legal expressa para o desconto.
+Em relação aos serviços de modelagem, desenvolvimento de peças e certificação obrigatória, não produz efeitos a consulta formulada que não descreva, completa e exatamente, a hipótese a que se refira. Dessa forma, diante da falta de detalhamento da hipótese tratada na pergunta, considera-se ineficaz o questionamento.
+Vinculada à Solução de Divergência Cosit nº 07, de 23 de agosto de 2016, publicada no Diário Oficial da União (DOU) de 14 de outubro de 2016.
+DISPOSITIVOS LEGAIS: Art. 3º, II da Lei nº 10.833, de 2003; IN SRF nº 404, de 2004, IN RFB nº 1.396, de 2013, art. 18, XI.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: CRÉDITOS DA NÃO CUMULATIVIDADE. DESPESAS COM CONTRATAÇÃO DE SERVIÇOS DE DESENVOLVIMENTO DE PRODUTOS. ENQUADRAMENTO COMO INSUMO. INADMISSIBILIDADE.
+Despesas incorridas com a contratação de serviços para desenvolvimento de produtos, tais como design de fechamentos plásticos de produtos, de embalagens, de adesivos e manuais de instruções; traduções e correções ortográficas; e com parcerias entre empresa/universidade em desenvolvimento de projetos integrados de produtos, por pessoa jurídica industrial, não geram crédito do regime de apuração não cumulativa da Contribuição para o PIS/Pasep, por não se enquadrarem no conceito de insumo, nem terem previsão legal expressa para o desconto.
+Em relação aos serviços de modelagem, desenvolvimento de peças e certificação obrigatória, não produz efeitos a consulta formulada que não descreva, completa e exatamente, a hipótese a que se refira. Dessa forma, diante da falta de detalhamento da hipótese tratada na pergunta, considera-se ineficaz o questionamento.
+Vinculada à Solução de Divergência Cosit nº 07, de 23 de agosto de 2016, publicada no Diário Oficial da União (DOU) de 14 de outubro de 2016.
+DISPOSITIVOS LEGAIS: Art. 3º, II da Lei nº 10.833, de 2003; IN SRF nº 404, de 2004, IN RFB nº 1.396, de 2013, art. 18, XI.
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: CRÉDITOS DA NÃO CUMULATIVIDADE. DESPESAS COM CONTRATAÇÃO DE SERVIÇOS DE DESENVOLVIMENTO DE PRODUTOS. ENQUADRAMENTO COMO INSUMO. INADMISSIBILIDADE.
+Despesas incorridas com a contratação de serviços para desenvolvimento de produtos, tais como design de fechamentos plásticos de produtos, de embalagens, de adesivos e manuais de instruções; traduções e correções ortográficas; e com parcerias entre empresa/universidade em desenvolvimento de projetos integrados de produtos, por pessoa jurídica industrial, não geram crédito do regime de apuração não cumulativa da Cofins, por não se enquadrarem no conceito de insumo, nem terem previsão legal expressa para o desconto.
+Em relação aos serviços de modelagem, desenvolvimento de peças e certificação obrigatória, não produz efeitos a consulta formulada que não descreva, completa e exatamente, a hipótese a que se refira. Dessa forma, diante da falta de detalhamento da hipótese tratada na pergunta, considera-se ineficaz o questionamento.
+Vinculada à Solução de Divergência Cosit nº 07, de 23 de agosto de 2016, publicada no Diário Oficial da União (DOU) de 14 de outubro de 2016.
+DISPOSITIVOS LEGAIS: Art. 3º, II da Lei nº 10.833, de 2003; IN SRF nº 404, de 2004, IN RFB nº 1.396, de 2013, art. 18, XI.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: CRÉDITOS DA NÃO CUMULATIVIDADE. DESPESAS COM CONTRATAÇÃO DE SERVIÇOS DE DESENVOLVIMENTO DE PRODUTOS. ENQUADRAMENTO COMO INSUMO. INADMISSIBILIDADE.
+Despesas incorridas com a contratação de serviços para desenvolvimento de produtos, tais como design de fechamentos plásticos de produtos, de embalagens, de adesivos e manuais de instruções; traduções e correções ortográficas; e com parcerias entre empresa/universidade em desenvolvimento de projetos integrados de produtos, por pessoa jurídica industrial, não geram crédito do regime de apuração não cumulativa da Contribuição para o PIS/Pasep, por não se enquadrarem no conceito de insumo, nem terem previsão legal expressa para o desconto.
+Em relação aos serviços de modelagem, desenvolvimento de peças e certificação obrigatória, não produz efeitos a consulta formulada que não descreva, completa e exatamente, a hipótese a que se refira. Dessa forma, diante da falta de detalhamento da hipótese tratada na pergunta, considera-se ineficaz o questionamento.
+Vinculada à Solução de Divergência Cosit nº 07, de 23 de agosto de 2016, publicada no Diário Oficial da União (DOU) de 14 de outubro de 2016.
+DISPOSITIVOS LEGAIS: Art. 3º, II da Lei nº 10.833, de 2003; IN SRF nº 404, de 2004, IN RFB nº 1.396, de 2013, art. 18, XI.
+OTHONIEL LUCAS DE SOUSA JUNIOR
+Coordenador
