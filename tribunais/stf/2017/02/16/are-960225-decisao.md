@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário em face do acórdão da Primeira Câmara Reservada ao Meio Ambiente do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 37):
+    “EMBARGOS À EXECUÇÃO. Legitimidade da Fazenda Pública para a execução da multa. Legislação que não permite a queima da cana-de-açúcar sem prévia autorização. Ausentes elementos que demonstrem a realização de prévio pedido de autorização para a queima. Responsabilidade objetiva. Aplicabilidade da teoria do risco e da responsabilidade solidária. Lei Estadual que permite a penalização de quem se beneficiou com o procedimento não autorizado. Incompatibilidade entre a tese de que tinha autorização tácita para a queima e que não teve qualquer envolvimento nos atos que ocasionaram o incêndio. NEGADO PROVIMENTO AO APELO. “
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, “a” e “d”, do permissivo constitucional, aponta-se ofensa ao art. 24 da Constituição Federal.
+    Nas razões recursais, sustenta-se, em síntese, a insubsistência da autuação ambiental que gerou o débito exequendo, posto que fundamentado em dispositivo legal revogado por lei posterior incompatível com o diploma legal anterior e que passou a regular inteiramente a matéria (eDOC 2, p. 52).
+    A Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo inadmitiu o recurso com fundamento na Súmula 282 desta Corte e na ausência de concessão de privilégio, pelo Tribunal de origem, a lei local em face de lei federal (eDOC 2, pp. 131/132).
+    É o relatório.
+    Decido.
+    Nos termos da jurisprudência desta Corte, o conhecimento do recurso extraordinário pela alínea “d” do inciso III do art. 102 da Constituição Federal exige que a parte recorrente demonstre a ofensa, pelo Tribunal de origem, do sistema constitucional de repartição de competência legislativas ao julgar válida lei local contestada em face de lei federal, o que não se verifica na espécie. Nesse sentido: AI 837.757 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 19.12.2014; RE 690.583 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4.10.2012; e AI 132.755 QO, Red. p/ Acórdão Min. Dias Toffoli, Plenário, DJe 26.2.2010.
+    Quanto ao mérito, verifica-se que o Tribunal de origem assim assentou a questão (eDOC 2, p. 40):
+    “O Decreto Federal nº 2.661/98 regulamentou o parágrafo único do artigo 27 da Lei nº 4.771/65. Permitiu-se o emprego de fogo em práticas agropastoris ou florestais, desde que haja permissão do órgão do Sistema Nacional do Meio Ambiente - SISNAMA - impondo a eliminação gradual em áreas passíveis de mecanização da colheita da cana-de-açúcar, pela redução mínima de um quarto da área de declividade inferior a doze por cento, ou mesmo superior, se tida como mecanizável, a cada cinco anos, exceção feita às lavouras de até 150 hectares.
+    A Lei 10.547/2000 prevê a necessidade de autorização prévia para a queima da cana-de-açúcar e a Lei 11.241/2002 dispõe sobre a eliminação gradativa da queima da palha da cana-de-açúcar, também mencionando a prévia autorização para a queimada. Neste mesmo sentido, segue o Decreto nº 47.700/2003.
+    Portanto, em nenhum momento as leis citadas anteriormente permitiram a queima sem prévia autorização. No mais, de rigor a tipificação da conduta consoante o Decreto 8.468/76 que regulamentou a Lei Estadual 997/76, com a multa aí prevista, vez que o artigo 24 da Lei 10.547/2000 não prevê a tipificação da infração e, por isso mesmo, em seu texto permite a aplicação de penalidades já previstas na legislação esparsa.”
+    Sendo assim, eventual divergência em relação ao entendimento adotado pelo Juízo a quo demandaria a análise da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 16 de fevereiro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
