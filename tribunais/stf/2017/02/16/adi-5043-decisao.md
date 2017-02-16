@@ -1,0 +1,10 @@
+Decisão: Cuida-se de Ação Direta de Inconstitucionalidade ajuizada pelo Procurador-Geral da República com pleito cautelar de suspensão da eficácia do § 1º do art. 2º da Lei nº 12.830/2013, no ponto em que confere aos delegados de polícia a exclusividade da condução de investigações criminais.
+    Este Supremo Tribunal Federal, por ocasião do julgamento do RE nº RE 593727 (Relator(a): Min. CEZAR PELUSO, Relator(a) p/ Acórdão: Min. GILMAR MENDES, Tribunal Pleno, julgado em 14/05/2015), assentou a tese de que, verbis: “O Ministério Público dispõe de competência para promover, por autoridade própria, e por prazo razoável, investigações de natureza penal, desde que respeitados os direitos e garantias que assistem a qualquer indiciado ou a qualquer pessoa sob investigação do Estado, observadas, sempre, por seus agentes, as hipóteses de reserva constitucional de jurisdição e, também, as prerrogativas profissionais de que se acham investidos, em nosso País, os Advogados (Lei 8.906/94, artigo 7º, notadamente os incisos I, II, III, XI, XIII, XIV e XIX), sem prejuízo da possibilidade – sempre presente no Estado democrático de Direito – do permanente controle jurisdicional dos atos, necessariamente documentados (Súmula Vinculante 14), praticados pelos membros dessa instituição”.
+    Não persiste, portanto, o fundamento de urgência que amparava o requerimento cautelar, na medida em que o decisum ora transcrito, posterior à edição da lei atacada na presente ADI e com efeitos vinculantes, ex vi do art. 927, III, do CPC/2015, dissipou eventuais dúvidas sobre a matéria.
+    Por razões de economia processual, portanto, determino a adoção do rito célere previsto no art. 12 da Lei nº 9.868/99.
+    Solicitem-se informações, no prazo de 10 (dez) dias. Após, colham-se as manifestações do Advogado-Geral da União e do Procurador-Geral da República, sucessivamente, no prazo de cinco dias.
+    Publique-se. Int..
+    Brasília, 16 de fevereiro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
