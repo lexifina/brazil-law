@@ -1,0 +1,7 @@
+Solução de Consulta Cosit nº 66, de 20 de janeiro de 2017
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS
+EMENTA: REGULARIZAÇÃO. OBRA. PESSOA FÍSICA EQUIPARADA A EMPRESA. CONTRATAÇÃO. SERVIÇOS DE HIDRÁULICA, ELETRICIDADE, PINTURA, ALVENARIA E CARPINTARIA. CONTRIBUINTE INDIVIDUAL. MEI.
+Equipara-se a empresa, para fins de cumprimento de obrigações previdenciárias, o proprietário do imóvel, o incorporador ou o dono de obra de construção civil, quando pessoa física, em relação a segurado que lhe presta serviços.
+Em relação aos serviços de hidráulica, eletricidade, pintura, alvenaria e carpintaria, o proprietário do imóvel, o incorporador ou o dono de obra de construção civil, pessoa física, que contratar contribuinte individual, inclusive MEI, deverá recolher a contribuição previdenciária patronal prevista no inciso III do art. 22 da Lei nº 8.212, de 1991. Se as correspondentes contribuições tiverem sido recolhidas com vinculação inequívoca à obra e devidamente declaradas em GFIP, a remuneração por ele paga poderá ser deduzida da remuneração da mão de obra total (RMT). Entretanto, é necessário o cumprimento dos requisitos legais, tais como a utilização da DISO.
+DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 18-B; Lei nº 8.212, de 1991, art. 22, III, e 32; Decreto nº 3.048, de 1999, art. 255; Resolução CGSN nº 94, de 2011, art. 104-C; IN RFB nº 971, de 2009, art. 3º, 4º, 9º, 47, 72, 322, 338 a 340, 342, 456 e 460.
+[arquivo anexo: SC Cosit nº 66-2017.pdf]
