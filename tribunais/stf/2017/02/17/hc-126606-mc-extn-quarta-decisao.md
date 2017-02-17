@@ -1,0 +1,17 @@
+DECISÃO
+LIMINAR IMPLEMENTADA – EXTENSÃO – IDENTIDADE DE FATO – DEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    Por meio da petição/STF nº 1.532/2017, busca-se sejam estendidos ao corréu Heleno Laurentino os efeitos da liminar implementada neste processo, alegando-se situação jurídica idêntica à do paciente, Eurico Augusto Pereira. Apresenta-se cópia do andamento processual do recurso de apelação interposto no Tribunal Regional Federal da 3ª Região contra a sentença condenatória.
+    2. Quando do deferimento da medida acauteladora, assentei:
+    2. A leitura do ato que implicou, ainda na fase de inquérito policial, a prisão do paciente revela ter sido considerada a imputação. Levou-se em conta a gravidade concreta dos delitos, o fato de tratar-se de organização criminosa detentora de poderio econômico e com articulação fora do País. Sem referência a qualquer elemento concreto, aludiu-se à indispensabilidade de assegurar-se a ordem pública.
+    A generalidade da afirmação não permite o endosso. Sob o ângulo da garantia da ordem pública, descabe partir da capacidade intuitiva acerca da possibilidade de fuga do paciente e de intimidação de testemunhas. Há de reportar-se, obrigatoriamente, a certo dado. Fora isso é a suposição do excepcional, do extravagante, o que se mostra insuficiente a respaldar a preventiva.
+    O possível envolvimento em delito não leva à inversão da sequência do processo-crime, que direciona a apurar para, selada a culpa, em execução da pena, prender. Inexiste, no arcabouço normativo, a custódia automática presente possível imputação.
+    Na sentença, chegou-se a justificar a continuidade da constrição, dita provisória que, a esta altura, já alcança quase cinco anos, com o fato de ter permanecido em tal situação durante toda a instrução processual, como se um erro justificasse o outro. Tem-se a insubsistência dos fundamentos lançados e o excesso de prazo da preventiva.
+    3. Defiro a liminar pleiteada. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso do retratado na preventiva formalizada no processo nº 0013065-41.2011.403.6181, da Quarta Vara Federal Criminal da Subseção Judiciária de São Paulo. Advirtam-no da necessidade de permanecer na residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    Há a identidade arguida. A decisão mediante a qual afastada a segregação do paciente não está fundada em motivos de caráter exclusivamente pessoal.
+    3. Defiro a extensão pretendida. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o requerente Heleno Laurentino não se encontre recolhido por motivo diverso do retratado, sob o ângulo preventivo, no processo nº 0013065-41.2011.403.6181, da Quarta Vara Federal Criminal da Subseção Judiciária de São Paulo. Advirtam-no da necessidade de permanecer no endereço indicado, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 17 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
