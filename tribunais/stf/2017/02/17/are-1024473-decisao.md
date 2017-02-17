@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à improcedência do pedido de revisão do benefício previdenciário de prestação continuada, considerada a legislação de regência. No extraordinário cujo processamento busca alcançar, o recorrente aponta violados os artigos 195, inciso I, da Constituição Federal. Alega a ineficácia do critério utilizado para o reajuste da verba. Requer o reajuste do benefício mediante a aplicação dos mesmos índices aplicados aos salários de contribuição.
+    2. A decisão impugnada mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desse aspecto, o Supremo no julgamento do recurso extraordinário com agravo nº 685.029/RS, relator o ministro Cezar Peluso, consignando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral a questão atinente à possibilidade de revisão de renda mensal de benefício previdenciário mediante aplicação dos mesmos índices utilizados para reajuste do teto do salário de contribuição. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Fixo os  honorários  recursais em 5% sobre o valor da causa, nos termos do artigo 85, § 11, do citado diploma legal. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários  caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 17 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
