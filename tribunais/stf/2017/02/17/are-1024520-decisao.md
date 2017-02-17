@@ -1,0 +1,14 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por São Paulo Previdência – SPPREV contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “MANDADO DE SEGURANÇA – Decadência do direito de anular os atos administrativos eivados de vícios – Inocorrência – Observância do decênio previsto na Lei Estadual nº 10.177/1998 – Aplicação da lei específica, em detrimento da Lei Federal nº 9.784/1999, que estabelece o prazo quinquenal – Critério especializante. Autonomia do ente federativo – Pensão por morte – Benefício instituído pela tia nos termos do artigo 152, da Lei Complementar nº 180/78 – Cessação em razão do atingimento da idade de 21 anos – Impossibilidade – Beneficiária aluna de curso superior – Lei vigente à data da concessão do benefício previdenciário – ‘Tempus regit actum’ – Precedente jurisprudencial – Apelação provida.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão suscitada em sede recursal extraordinária foi decidida com base no direito local (Lei Complementar estadual nº 180/78 e Lei estadual nº 10.177/98), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Cabe registrar, de outro lado, que, para se acolher o pleito deduzido no recurso extraordinário, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 990.410/SP, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.012.174/SP, EDSON FACHIN, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 17 de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
