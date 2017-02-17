@@ -1,0 +1,24 @@
+Decisão: Trata-se de petição de embargos de declaração na qual se questiona ato que determinou a remessa dos autos à origem, com base no RE-RG 727.851, Rel. Min. Marco Aurélio, DJe 29.10.2013, para os fins do disposto no art. 1.036 do CPC. (eDOC 11)
+    Nas razões recursais, a parte embargante sustenta que a matéria, do modo como é trazida na petição de recurso extraordinário, é diversa do citado paradigma. (eDOC 14)
+    Após detida análise dos autos, reconsidero a decisão anterior e passo a analisar o mérito do recurso extraordinário.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais (TJMG), ementado nos seguintes termos:
+    “EXECUÇÃO FISCAL. IPVA. ALIENAÇÃO FIDUCIÁRIA – SOLIDARIEDADE ENTRE DEVEDOR FIDUCIANTE E CREDOR FIDUCIÁRIO – LEI 14.937/03 – INCONSTITUCIONALIDADE INEXISTENTE. COBRANÇA – CRÉDITOS INFERIORES A 17.500 UFEMG – LEI ESTADUAL Nº 19.971/2011. O sujeito passivo do IPVA é o proprietário do veículo automotor; em caso de alienação fiduciária em garantia, há responsabilidade solidária entre o credor fiduciário e o devedor fiduciante (Lei 19.971/03, art. 5º, II)” (eDOC 1, p. 161)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 155, III, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que a instituição financeira, na condição de credora fiduciária, não é sujeito passivo do IPVA sobre os automóveis alienados fiduciariamente.
+    É o Relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei estadual 14.937/2003 e o Código Tributário Nacional) e o conjunto probatório constante dos autos, reconheceu a responsabilidade solidária da instituição financeira, credora fiduciária, para o pagamento de IPVA de veículos alienados fiduciariamente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O IPVA é um imposto de competência dos Estados e do Distrito Federal (CR, art. 155, III), sendo plena a competência para legislar sobre ele, na ausência de normas gerais estabelecidas pela União (CR, art. 24, §3º). Por fim, a atribuição da solidariedade tributária pela lei é expressamente prevista pelo CTN (art. 124, II). Não há falar, então, em inconstitucionalidade da Lei 14.937/03.
+    Desta forma, prevendo a lei mineira a responsabilidade do credor fiduciário pelo pagamento do IPVA, evidenciada está a legitimidade do apelante para responder à execução fiscal. “ (eDOC 1, p. 163)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IPVA. ALIENAÇÃO FIDUCIÁRIA. RESPONSABILIDADE TRIBUTÁRIA. LEI 14.937 DO ESTADO DE MINAS GERAIS. 1. A questão referente à responsabilidade fiscal solidária passiva para quitação do IPVA, entre o proprietário e o possuidor de fato do veículo automotor alienado é matéria de índole infraconstitucional. Súmulas 279 e 280 do STF. 2. Agravo regimental a que se nega provimento.” (ARE 934.007, Rel. Min. Edson Fachin, Primeira Turma, DJe. 17.03.2016);
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. IPVA. Alienação fiduciária. Contribuinte. Necessidade de reexame da legislação ordinária e do contrato. Ofensa constitucional indireta ou reflexa. 1. Para ultrapassar o entendimento do Tribunal a quo, concernente ao enquadramento do credor fiduciário como proprietário do veículo automotor para fins de cobrança de IPVA, seria necessário o reexame da causa à luz da legislação ordinária (Código Civil, Decreto-lei nº 911/69, Lei Estadual nº 14.937/03) e do contrato de alienação fiduciária. 2. A afronta ao texto constitucional, se houvesse, seria reflexa ou indireta, o que não enseja a abertura da via extraordinária. Incidência das Súmulas 279 e 454 da Corte. 3. Agravo regimental não provido.” (ARE 830.373, Rel. Min. Dias Toffoli, Primeira Turma, DJe. 06.05.2015).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
