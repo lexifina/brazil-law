@@ -1,0 +1,12 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa transcrevo:
+    “SINDICATO. SUBSTITUIÇÃO PROCESSUAL DE SERVIDOR. DIREITO INDIVIDUAL HETEROGÊNEO. SITUAÇÃO INDIVIDUAL, ORIGINADA DE SITUAÇÕES PARTICULARES DE CADA UM DOS SUBSTITUÍDOS. AUSÊNCIA DE ORIGEM COMUM. IMPOSSIBILIDADE. 1) O artigo 8º, inciso III da Constituição Federal estabelece que ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas, desde que se discutam direitos individuais homogêneos. 2) No caso, as circunstâncias fáticas que formam a causa de pedir da pretensão de cada um dos substituídos não possuem origem comum. O único ponto de convergência é a existência de reconhecimento pela Administração e a existência de valores a receber, condicionados como despesas de exercícios anteriores.”
+    No recurso, aduz-se violação dos artigos 5º, XXXV, e 8º, III, da Constituição da República. Alega-se negativa de prestação jurisdicional e ofensa ao direito de representação sindical.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    No julgamento do RE-RG 956.302, de minha relatoria, DJe 16.06.2016 (Tema 895), esta Corte entendeu pela inexistência de repercussão geral quando a invocação do princípio da inafastabilidade de jurisdição ocorre com fundamento em argumentos genéricos, demonstrando inconformismo com o deslinde legal dado ao feito por incidência das normas de direito processual civil, como ocorreu no caso dos autos.
+    Por fim, questão da natureza jurídica dos direitos postulados na inicial, se individuais homogêneos ou heterogêneos, não possui cunho constitucional e não tem qualquer relação com a interpretação do art. 8º, III, da CF/88, demandando tão somente análise de matéria infraconstitucional e exame de matéria fático-probatória (Súmula 279/STF), conforme o decidido no ARE-RG 907.209, da relatoria do Ministro Teori Zavascki, DJe 6.11.2015 (Tema 861).
+    Ante o exposto, em vista dos pronunciamentos do Supremo Tribunal Federal acerca dos temas suscitados neste recurso extraordinário com agravo, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 328 do RISTF.
+    Publique-se.
+    Brasília, 17 de fevereiro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
