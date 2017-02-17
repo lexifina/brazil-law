@@ -1,5 +1,5 @@
 Art. 24. A educação básica, nos níveis fundamental e médio, será organizada de acordo com as seguintes regras comuns:
-I - a carga horária mínima anual será de oitocentas horas, distribuídas por um mínimo de duzentos dias de efetivo trabalho escolar, excluído o tempo reservado aos exames finais, quando houver;
+I - a carga horária mínima anual será de oitocentas horas para o ensino fundamental e para o ensino médio, distribuídas por um mínimo de duzentos dias de efetivo trabalho escolar, excluído o tempo reservado aos exames finais, quando houver;
 II - a classificação em qualquer série ou etapa, exceto a primeira do ensino fundamental, pode ser feita:
 a) por promoção, para alunos que cursaram, com aproveitamento, a série ou fase anterior, na própria escola;
 b) por transferência, para candidatos procedentes de outras escolas;
@@ -14,4 +14,5 @@ d) aproveitamento de estudos concluídos com êxito;
 e) obrigatoriedade de estudos de recuperação, de preferência paralelos ao período letivo, para os casos de baixo rendimento escolar, a serem disciplinados pelas instituições de ensino em seus regimentos;
 VI - o controle de freqüência fica a cargo da escola, conforme o disposto no seu regimento e nas normas do respectivo sistema de ensino, exigida a freqüência mínima de setenta e cinco por cento do total de horas letivas para aprovação;
 VII - cabe a cada instituição de ensino expedir históricos escolares, declarações de conclusão de série e diplomas ou certificados de conclusão de cursos, com as especificações cabíveis.
-Parágrafo único. A carga horária mínima anual de que trata o inciso I do caput deverá ser progressivamente ampliada, no ensino médio, para mil e quatrocentas horas, observadas as normas do respectivo sistema de ensino e de acordo com as diretrizes, os objetivos, as metas e as estratégias de implementação estabelecidos no Plano Nacional de Educação.
+§ 1º A carga horária mínima anual de que trata o inciso I do caput deverá ser ampliada de forma progressiva, no ensino médio, para mil e quatrocentas horas, devendo os sistemas de ensino oferecer, no prazo máximo de cinco anos, pelo menos mil horas anuais de carga horária, a partir de 2 de março de 2017.
+§ 2º Os sistemas de ensino disporão sobre a oferta de educação de jovens e adultos e de ensino noturno regular, adequado às condições do educando, conforme o inciso VI do art. 4º.
