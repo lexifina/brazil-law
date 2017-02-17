@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão, proferido no âmbito do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA MANTIDA EM SENTENÇA DE PRONÚNCIA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. RECURSO IMPROVIDO. 1. Apresentada fundamentação concreta para a decretação da prisão preventiva, explicitada na gravidade em concreto da conduta delitiva do paciente, pois, "sendo que os três caminharam juntos sentido a linha 106 e em determinada ocasião deu uma paulada na cabeça da vítima e logo após seu irmão Paulo pegou um pedaço de pau e também desferiu golpes na cabeça da vítima" (...), não há que se falar em ilegalidade a justificar a concessão da ordem de habeas corpus. 2. Recurso em habeas corpus improvido (HC 76.198/RO)”
+    Narra o impetrante, em síntese, a ilegalidade da prisão preventiva decretada pelo Juízo singular, porquanto não presentes nenhuma das excepcionais hipóteses previstas no art. 312 do CPP.
+    É o relatório. Decido.
+    No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto, na medida em que o decreto preventivo encontra-se ancorado em elementos associados ao caso concreto, notadamente a periculosidade do agente sinalizada pelo modo de execução do crime. Vejamos:
+    “No que pertine aos demais pressupostos do art. 312 do Código de Processo Penal, entendo que se encontra presente a intenção de garantia da ordem pública. Os delitos de homicídio causam grande instabilidade e abalo no Distrito de Santana do Guaporé/RO.
+    Ademais, o próprio infrator e seu irmão Paulo disseram q quando praticaram o crime estavam embriagados. Pode ser que novamente Marcos faça uso de bebida alcoólica e novamente cometa outro delito por motivo tão fútil quanto este, qual seja, furto de uma galinha e ameaças à família de Marcos pela vítima Juliano o que acaba por gerar intranquilidade entre a população do Distrito de Santana do Guaporé/RO;
+    No mais, Marcos ao ser interrogado informou que “Manelão” pai da vítima vingaria sua morte. Motivo para resguardar a integridade do representado.”
+    Nesse cenário, o decisum vergastado conforma-se à jurisprudência desta Corte, a admitir que a gravidade concreta do crime, demonstrada pelo modus operandi da conduta, constitui indicativo da periculosidade do agente e, nessa medida, segundo um juízo prospectivo de risco de reiteração delituosa, pode recomendar a medida gravosa a fim de acautelar a ordem pública. Precedentes: HC 133210, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 20/09/2016; AgR no HC 125.290/MG, rel. Min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 124.027/MG, rel. Min. Rosa Weber, Segunda Turma, DJe 11.2.2015 e HC 122.894/PR, de rel. Min. Gilmar Mendes, Segunda Turma, DJe 1º.9.2014).
+    Assim, diversamente do que alega o impetrante, restou configurada hipótese idônea a motivar a segregação cautelar, qual seja a garantia da ordem pública (art. 312 do CPP), aferida a partir da gravidade concreta de homicídio praticado com “pauladas na cabeça da vítima” em razão de furto de uma galinha.
+    3. Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 17 de fevereiro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
