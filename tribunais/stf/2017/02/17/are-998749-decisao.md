@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Atentem para o decidido, na origem, pelo Tribunal de Justiça do Estado de São Paulo:
+    AÇÃO CIVIL PÚBLICA AMBIENTAL.
+    Notórios e evidentes os danos causados pela queima de palha de cana-de-açúcar que independem de nexo causal. Ação julgada improcedente. Decisão reformada. Recurso provido.
+    No extraordinário cujo processamento busca alcançar, o Espólio de Ângelo Jurca, aludindo ao artigo 21, inciso XXIII, alínea “d”, da Constituição Federal, assevera a inexistência de norma constitucional prevendo a responsabilidade objetiva do proprietário, no caso de danos ambientais. Articula com a ausência de elementos comprobatórios do nexo entre a respectiva conduta e o dano verificado. Defende, ainda, não ter sido demonstrada qualquer conduta culposa, apta a justificar a condenação que lhe foi imposta.
+    2. O recorrente questiona, referindo-se às provas produzidas no processo, a responsabilidade que lhe foi imputada. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    No mérito, compulsando o inquérito civil (autos n.º 175/08-GAEMA-NRP), verifica-se que na safra de 2007, a menos de um quilômetro da área urbana do Município de Ribeirão Preto ocorreu a queima da palha da cana-de-açúcar em área de 35,28 ha no imóvel rural denominado “Fazenda Lagoa da Mata”, tendo sido lavrado pela CETESB o Auto de Infração n.º 04000773 (fls. 41/45).
+    […]
+    Aliás, incontroverso nos autos que os apelados promovem ou permitem queimadas da palha da cana-de-açúcar em sua propriedade, tanto que lavrado pela CETESB auto de infração (fl. 45).
+    No mais, examinando o acórdão questionado, percebe-se não ter sido analisado, pelo Tribunal de Justiça, o artigo 21, inciso XXIII, alínea “d”, da Constituição Federal, padecendo o recurso da ausência do prequestionamento. Atentem não para o apego à literalidade do verbete nº 356 da Súmula do Supremo, mas para a razão de ser do prequestionamento e, mais ainda, para o teor do verbete nº 282 da referida Súmula. O instituto do prequestionamento significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o ato impugnado nada contém sobre o que versado no recurso, descabe assentar o enquadramento deste no permissivo constitucional. Assim concluiu o Supremo no julgamento do agravo regimental no agravo de instrumento nº 541.696-6/DF, de minha relatória, acórdão publicado no Diário da Justiça de 24 de fevereiro de 2006, sintetizado na seguinte ementa:
+    RECURSO EXTRAORDINÁRIO – PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou entendimento explícito a respeito do fato jurígeno veiculado nas razões recursais, inviabilizada fica a conclusão sobre a violência ao preceito evocado pelo recorrente.
+    A questão da responsabilidade objetiva foi tratada à luz dos artigos 225, da Constituição da República, e 14, § 1º, da Lei nº 6.938/1981.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 17 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
