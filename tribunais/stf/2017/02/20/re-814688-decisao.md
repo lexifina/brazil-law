@@ -1,0 +1,28 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Prestação de serviços. Fornecimento de água e serviço de esgoto. Pretensão de enquadramento em múltiplas economias. Repetição de indébito. Improcedência decretada em 1º grau.
+    1. Não há se falar em violação aos princípios da isonomia e da legalidade, quando o enquadramento de usuários para fins de faturamento de fornecimento de serviço de água e esgoto, lastreia-se em decreto regulamentador, que não ostenta (como pretende impingir o autor) nenhuma inconstitucionalidade evidente.
+    2. Mesmo na vigência do Decreto Estadual nº 21.123/83, minudenciado pelo subsequente Decreto nº 41.446/96, que o revogou, resta extreme de dúvida a classificação de unidades comerciais como sendo ‘única economia’.
+    3. Para ter atendida sua pretensão de ver cadastrados perante a ré tantos usuários quantos fossem suas unidades autônomas, impunha-se ao autor demonstrar a efetiva autonomia dessas unidades, como sendo capazes de gerirem-se por si próprias, v.g., arcando cada qual com um IPTU e ostentando matrícula individualizada perante o registro de imóveis.
+    4. Recurso improvido”. (eDOC 9, p. 2)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alíneas “a” e “d”, da Constituição Federal, alega-se ofensa ao artigo 5º, caput e inciso XXXVI, do texto constitucional.
+    Nas razões recursais, afirma-se que a não aplicação do sistema de economias vem ocasionando tratamento diferenciado entre consumidores da mesma categoria, a comercial. Ademais, sustenta-se que o Decreto estadual inovou legislação federal de competência privativa da União, fazendo diferenciação onde não poderia fazer. (eDOC 10, p. 9-10)
+    A Procuradoria-Geral da República opina pelo desprovimento do recurso (eDOC 13).
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal a quo, ao examinar a legislação local aplicável à espécie (Decreto estadual 21.123/83) e o conjunto probatório constante dos autos, consignou que o autor não se apresentou perante a SABESP como constituído de unidades autônomas, capazes de serem geridas por si próprias. Ademais, por disposição legal não cabia o enquadramento do autor como múltiplas “economias”. Nesse sentido, extrai-se o seguinte excerto do acordão recorrido:
+    “Competia ao autor com fulcro no parágrafo único, do artigo 2° do anterior Decreto n. 21.123/83, definir forma de identificação de cada uma de suas unidades, para fins de cadastramento e cobrança, através de novo Decreto regulamentador, sem que isso implicasse em inconstitucionalidade por ofensa a princípios dessa nobreza.
+    (…)
+    No caso dos autos, embora o autor afirme ser constitucído de várias unidades autônomas, à comprovação nos autos de serem capazes de ‘gerirem-se por si próprias’ não se arremeteu, sendo certo ainda que para exigir da SABESP a conduta de como tal classificá-lo, assim deveria se apresentar perante aquele órgão, sob pena de não ser, como de fato não foi, reconhecido como dividido pelo número de unidades que aponta.
+    Indo mais além, também por disposição legal não cabia, mesmo, o enquadramento do autor em múltiplas ‘economias’.
+    (…) Como se pode notar resta induvidosa a classificação do autor na categoria ‘comercial’. Essa mesma norma, no artigo 29 de suas ‘Disposições Transitórias’, definiu ainda, em seu inciso III, que as ligações em prédios classificados na categoria ‘comercial’ seriam consideradas como ‘uma economia’”. (eDOC 9, p. 3-6)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso por óbice da Súmula 280 do Supremo Tribunal Federal.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. TARIFA DE ÁGUA E ESGOTO. FÓRMULA DE CÁLCULO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 280/STF. 1. Dissentir das conclusões adotadas pelo Tribunal de origem quanto à efetividade da prestação do serviço de tratamento de esgoto demandaria o reexame do acervo probatório constante dos autos e da legislação infraconstitucional correlata. 2. A jurisprudência do Supremo Tribunal Federal afasta o cabimento do recurso extraordinário quando o deslinde da controvérsia depender do exame da legislação local aplicável ao caso (Súmula 280/STF) bem como do reexame do acervo fático e probatório (Súmula 279/STF). Precedentes. 3. Agravo regimental a que se nega provimento”. (ARE 922.871 AgR, Min. Roberto Barroso, Primeira Turma, DJe. 5.5.2016)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. SERVIÇO DE COLETA DE ESGOTO. COBRANÇA BASEADA NO CONSUMO TOTAL DE ÁGUA. DECRETO ESTADUAL 41.446/96. SÚMULA 280/STF. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (ARE 872.217 AgR, Min. Teori Zavascki, Segunda Turma, DJe 7.5.2016)
+    Ante o exposto, nego seguimento ao recurso extraordinário (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
