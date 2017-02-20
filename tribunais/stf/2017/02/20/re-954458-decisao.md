@@ -1,0 +1,35 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE PREQUESTIONAMENTO – LEGISLAÇÃO LOCAL – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Colegiado de origem consignou ser o soldo, no caso dos militares, a base de cálculo do décimo terceiro salário e do terço de férias.
+    No extraordinário, o recorrente aponta violação aos artigos 7º e 142 da Constituição Federal. Defende o direito à percepção do décimo terceiro salário e do terço de férias consideradas todas as verbas listadas no artigo 1º da Lei estadual nº 1.063/2002, as quais integram a respectiva renumeração. Assevera haver previsão expressa, no Decreto-Lei estadual nº 9-A/1982, de fixação do valor do décimo terceiro salário com base na remuneração integral do militar. Sustenta o mesmo relativamente ao adicional de férias, aludindo, nesse caso, aos artigos 15, da Lei nº 1.063/2002, e 98, da Lei Complementar nº 68/1992, normas do Estado de Rondônia.
+    2. Examinando a deliberação questionada, percebe-se não ter sido analisado, pela Turma Recursal, o artigo 142 da Carta da República, padecendo o recurso, quanto ao ponto, da ausência do prequestionamento. Atentem não para o apego à literalidade do verbete nº 356 da Súmula do Supremo, mas para a razão de ser do prequestionamento e, mais ainda, para o teor do verbete nº 282 da referida Súmula. O instituto do prequestionamento significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas.
+     Se o ato impugnado nada contém sobre o que versado no recurso, descabe assentar o enquadramento deste no permissivo constitucional. Assim concluiu o Supremo no julgamento do agravo regimental no agravo de instrumento nº 541.696-6/DF, de minha relatória, acórdão publicado no Diário da Justiça de 24 de fevereiro de 2006, sintetizado na seguinte ementa:
+    RECURSO EXTRAORDINÁRIO – PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou entendimento explícito a respeito do fato jurígeno veiculado nas razões recursais, inviabilizada fica a conclusão sobre a violência ao preceito evocado pelo recorrente.
+    Essa foi a óptica adotada pela primeira Turma do Supremo no exame do recurso extraordinário com agravo nº 937.972, da relatoria do ministro Luiz Fux, julgado em 12 de abril de 2016. Eis a ementa do acórdão:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. POLICIAL MILITAR. DÉCIMO TERCEIRO SALÁRIO E TERÇO DE FÉRIAS. BASE DE CÁLCULO. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. SÚMULAS Nº 282 E Nº 356 DO STF. MULTA DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+    No mais, a decisão prolatada, pelo relator do processo, na Turma Recursal, revela a solução da demanda à luz da legislação do Estado de Rondônia. Colho da deliberação os seguintes trechos:
+    [...]
+    Aduz a parte recorrente que, no âmbito infraconstitucional, o direito ao recebimento do décimo terceiro salário tem previsão no art. 50, inciso IV, alínea “o”, do Decreto-Lei Estadual nº 09-A, que dispõe sobre o Estatuto dos Policiais Militares da Polícia Militar do Estado de Rondônia, de 09 de março de 1982, o qual previu que o décimo terceiro salário é direito dos militares, com base na remuneração integral. Vejamos:
+    Art. 50. São direitos dos Policiais-Militares: (...) IV - nas condições e limitações impostas na legislação, ou regulamentação peculiar: (…) o) 13º salário, com base na remuneração integral; (NR dada pela Lei nº 305, de 7 de janeiro de 1991 - D.O.E. de 9 de janeiro de 1991 - Efeitos a partir de sua publicação.).
+    Como bem se observa, a redação do art. 50, inciso IV, alínea “o”, do Decreto-Lei supracitado foi modificada em 1991, pela Lei nº 305, atendendo a Emenda Constitucional 19 que estendeu aos servidores públicos o direito ao recebimento do décimo terceiro salário.
+    Ademais, em 10 de abril de 2002 foi editada a Lei Ordinária Estadual nº 1.063/2002, que dispõe sobre a remuneração dos integrantes da carreira de Militares do Estado, que em seu art. 15 estabeleceu que o décimo terceiro salário e o terço de férias serão devidos aos Militares na forma prevista na Lei Complementar n°68/92.
+    Art. 15. Serão devidos ao Militar do Estado, as indenizações de diária e ajuda de custo, adicionais de terço de férias de décimo terceiro salário, segundo os critérios e valores definidos para os servidores públicos civis do estado, na forma prevista na Lei Complementar nº 68, de 1992 e respectivos regulamentos, salvo quanto aos valores das diárias, que serão pagas nos percentuais definidos na Tabela contida no Anexo III desta Lei. (Destaquei)
+    Nesse diapasão, vejamos o que dispõe a LC n°68/92, aplicável aos militares por força do dispositivo supracitado:
+    Art. 69. Além do Vencimento, poderão ser pagas ao servidor as seguintes vantagens:
+    I- indenizações;
+    II- auxílios;
+    III – adicionais;
+    IV – gratificações.
+    §1°. As indenizações não se incorporam ao vencimento ou provento para qualquer efeito.
+    §2°. As gratificações e os adicionais incorporam-se ao vencimento ou provento, nos casos e condições previstos em lei.
+    Art. 70. As vantagens pecuniárias percebidas pelo servidor público não são computadas nem acumuladas para fins de concessão de acréscimos ulteriores, sob o mesmo título ou idêntico fundamento.
+    Art. 98. Independentemente de solicitação será pago ao servidor, por ocasião das férias, um adicional correspondente a 1/3 da remuneração do período de férias.
+    Extrai-se do artigo 69, § 1°, da Lei Complementar Estadual 68/92, que as indenizações não se incorporam ao vencimento. Dessa forma, não incidem junto ao soldo para o cálculo do décimo terceiro salário ou terço de férias. Já o § 2° do mesmo dispositivo supradito dispõe que as gratificações e os adicionais podem ser incorporados ao vencimento ou provento nos casos e condições previstos em lei.
+    Desse modo, para que os servidores públicos civis do Estado de Rondônia e Militares em razão do disposto no art. 15 da Lei nº 1.063/2002, tenham as gratificações e adicionais utilizados na base de cálculo do décimo terceiro salário e terço de férias, seria necessário previsão legal, o que não é verificado nas legislações pertinentes aos Militares.
+    [...]
+    A controvérsia sobre o alcance das normas estaduais não viabiliza, conforme sedimentado pela jurisprudência – verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário –, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio juízo de origem.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 20 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
