@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Companhia de Eletricidade do Estado da Bahia - Coelba interpõe agravo contra decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigos 5º, incisos XXXIX e XLVI, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado, na parte que interessa:
+    “APELAÇÃO CRIMINAL. FURTO DE ENERGIA ELÉTRICA QUALIFICADO. ART. 155, §3º E §4º, INCISO II, DO CÓDIGO PENAL. APELANTE CONDENADA A 02 (DOIS) ANOS DE RECLUSÃO, EM REGIME INICIAL ABERTO E AO PAGAMENTO DE 10 (DEZ) DIAS-MULTA. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR DUAS RESTRITIVAS DE DIREITOS.
+    (...)
+    RAZÕES DA ASSISTENTE DE ACUSAÇÃO. AUMENTO DA REPRIMENDA. INVIABILIDADE. DOSIMETRIA FIXA EM CONSONÂNCIA COM OS PARÂMETROS LEGAIS. RECURSO NÃO PROVIDO.
+    1. Ainda que se aponte como uma conduta reprovável, tem-se que todas as circunstâncias judiciais foram favoráveis à Izabete Sales Pinheiro, visto que não se afastaram do próprio tipo penal, não sendo, portanto, possível, proceder ao aumento da reprimenda.
+    Parecer ministerial opinando pelo não conhecimento do recurso da assistente de acusação e pelo não provimento dos apelos, reconhecendo-se de ofício a prescrição da pretensão punitiva para declarar extinta a punibilidade da condenada.
+    Descabido o reconhecimento da prescrição retroativa da pretensão punitiva estatal, vez que a sentença condenatória não transitou em julgado para a acusação
+    APELOS CONHECIDOS E NÃO PROVIDOS”. (Grifos conforme o original).
+    Opostos embargos declaratórios, foram rejeitados.
+    Em suas alegações, pugna o agravante pela majoração da pena-base imposta à agravada em razão da desproporcionalidade entre o desvalor da conduta e a pena fixada.
+     Examinados os autos, decido.
+    O inconformismo não merece seguimento, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que esses pontos não foram objeto dos acórdãos recorridos. Incidência da Súmula n° 282 desta Corte. Anote-se que o fato de o recorrente ter trazido a questão constitucional no bojo dos embargos de declaração não é bastante para suprir o requisito do prequestionamento, a teor da Súmula nº 356/STF. Ocorre que, não obstante a oposição dos embargos, o recurso de apelação não suscitou a referida questão constitucional, hipótese em que já não se prestam os embargos declaratórios opostos contra o acórdão de segundo grau a suscitá-la pela primeira vez.
+    Além disso, forçoso concluir que o Tribunal a quo, ao decidir a questão, ateve-se ao exame da legislação infraconstitucional, principalmente do Código Penal. Portanto, a violação à Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário. Anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. RECURSO DESPROVIDO. 1. O Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não apresenta repercussão geral, o que torna inadmissível o recurso extraordinário. (RE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.08.2013). 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. É inviável o processamento do apelo extremo quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentaram a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. 4. Agravo regimental a que se nega provimento.” (ARE nº 935186-AgR/SP, Primeira Turma, Relator o Ministro Edson Fachin, DJe de 17/5/16)
+    No mais, cumpre registrar que a Corte, no exame do AI nº 742.460/RJ, Relator o Ministro Cezar Peluso, concluiu pela ausência de repercussão geral de questões relativas à dosimetria de pena, em virtude de sua natureza infraconstitucional.
+    Confira-se a ementa do caso paradigma:
+    “RECURSO. Extraordinário. Inadmissibilidade. Circunstâncias judiciais previstas no art. 59 do Código penal. Fixação da pena-base. Fundamentação. Questão da ofensa aos princípios constitucionais da individualização da pena e da fundamentação das decisões judiciais. Inocorrência. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59, do Código penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional” (DJe de 25/9/09 - grifei).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 20 de fevereiro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
