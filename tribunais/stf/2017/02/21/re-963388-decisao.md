@@ -1,0 +1,16 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PENSÃO POR MORTE. ESTUDANTE UNIVERSITÁRIO. PRORROGAÇÃO ATÉ OS 24 ANOS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “APELAÇÃO CÍVEL. NEGATVA DE SEGUIMENTO. ARTIGO 557, CAPUT. DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE FATO NOVO. REDISCUSSÃO DA MATÉRIA. 1. Ante a existência de expressa previsão legal a respaldar o julgamento monocrático pelo Relator (artigo 557, caput, do CPC) não há que se falar em inviabilidade de incidência do aludido dispositivo. 2. Impõe-se o improvimento do agravo regimental interposto contra decisão do Relator quando a agravante não apresenta fato novo suscetível de justificar a reconsideração, tampouco comprovam ser os fundamentos que a embasam contrários à jurisprudência predominante deste e dos Tribunais Superiores. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 205 e 227 da Constituição Federal.
+    É o Relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    O recurso não merece prosperar.
+    Para divergir das razões do referido acórdão seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Código de Processo Civil, Lei 8.213 de 1991 e Lei 8.095 de 2002), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido, ARE 957.362 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 24/08/2016).
+    “EMENTA DIREITO PREVIDENCIÁRIO. PENSÃO POR MORTE. PRORROGAÇÃO. ESTUDANTE UNIVERSITÁRIO. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. RECURSO MANEJADO EM 11.5.2016. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.”
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 21 de fevereiro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
