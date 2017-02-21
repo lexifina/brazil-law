@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 242, de 28 de setembro de 2016
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 2309.90.90 Mercadoria: Produto constituído por sulfato de lisina com teor de pureza de 70% (contendo 55% de aminoácido essencial L-Lisina), outros aminoácidos, carboidratos e nutrientes obtidos a partir do caldo de fermentação oriundo do processo de produção, sob a forma de grânulos, utilizado principalmente como aditivo nutricional para alimentação animal, mas podendo também ser utilizado como aditivo para correção do solo, apresentado em sacos de 25 kg ou big bags de 800 ou 1.000 kg.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 23.09), RGI 6 (texto da subposição 2309.90) e RGC-1 (texto do item 2309.90.90) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 2309.90.90 Mercadoria: Produto constituído por sulfato de lisina com teor de pureza de 70% (contendo 55% de aminoácido essencial L-Lisina), outros aminoácidos, carboidratos e nutrientes obtidos a partir do caldo de fermentação oriundo do processo de produção, sob a forma de grânulos, utilizado principalmente como aditivo nutricional para alimentação animal, mas podendo também ser utilizado como aditivo para correção do solo, apresentado em sacos de 25 kg ou big bags de 800 ou 1.000 kg.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 23.09), RGI 6 (texto da subposição 2309.90) e RGC-1 (texto do item 2309.90.90) da TEC, aprovada pela Res. Camex nº 94, de 2011, e da Tipi, aprovada pelo Dec. nº 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+MARCO ANTÔNIO RODRIGUES CASADO
+Presidente da 5ª Turma
