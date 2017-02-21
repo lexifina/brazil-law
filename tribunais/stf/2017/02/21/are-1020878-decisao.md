@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à condenação do Instituto Nacional do Seguro Social INSS, solidariamente com o Banco Bradesco, ao pagamento de indenização por danos morais em razão de fraude na contratação de empréstimo. No extraordinário cujo trânsito busca alcançar, a autarquia sustenta a violação ao artigo 37, § 6º, da Constituição Federal. Alega responsabilidade exclusiva das instituições financeiras no tocante ao controle das operações de crédito consignado, de acordo com a Lei nº 10.820/03.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    No empréstimo consignado, tanto o banco-consignatário quanto a autarquia previdenciária têm que tomar todas as precações necessárias para que o segurado da previdência não seja vítima de fraudes (daí que é patente a legitimidade do INSS). Neste sentido, a responsabilidade de ambas é objetiva: a do banco pelo que dispõe o art. 14 do CDC, e a do INSS, de acordo com o § 5º do art. 37 da CF/1988. Está patente a legitimidade passiva ad causam e a responsabilidade do INSS nesses casos.
+    Consoante restou consignado na sentença vergastada, embora instado o banco réu a apresentar o contrato de empréstimo que deu causa à lide, a fim de se proceder ao exame grafotécnico da assinatura aposta no instrumento, este se quedou inerte. Por via de consequência, não conseguindo qualquer dos réus comprovarem a celebração de contrato entre o autor e a instituição bancária que desse margem à consignação dos descontos em folha de pagamento de forma lícita, não há dúvidas do dever de ressarcir moral e materialmente a autora pelos constrangimentos a ela ocasionados.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 21 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
