@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. MUNICÍPIO. CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA. EXIGÊNCIAS. ARTS. 7º E 9º DA LEI Nº 9.717/98. ARTS. 1º E 2º DO DECRETO Nº 3.788/01. PRECEDENTES DO STF NAS AÇÕES ORIGINÁRIAS NºS 830/PR E 702/CE e do TRF5.
+    - Sobre a matéria, merece ser acolhido o entendimento firmado pelo STF na ACO 830-1 PR, rel. Min. Marco Aurélio, o qual referendou medida liminar no sentido de considerar que a União Federal, ao expedir a Lei nº 9.717/98 e o Decreto nº 3.788/01, extrapolou os limites de sua competência constitucional quanto ao estabelecimento de normas gerais em matéria previdenciária. Inúmeros precedentes desta Corte
+    - Apelação provida” (pág. 212 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se violação ao art. 24, XII, da mesma Carta. Sustenta-se, em suma, a constitucionalidade da Lei 9.717/1998, sob o argumento de que, nos limites da competência prevista na Lei Maior, a União dispôs sobre regras gerais acerca da organização e funcionamento dos Regimes Próprios de Previdência
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido está em consonância com entendimento firmado pelo Supremo Tribunal Federal no sentido de que a União, ao editar a Lei 9.717/1998, extrapolou os limites de sua competência para estabelecer normas gerais sobre matéria previdenciária. Nesse sentido, cito a ACO 830 TAR/PR, Rel. Min. Marco Aurélio, Plenário, cuja ementa segue transcrita:
+    “SEPARAÇÃO DE PODERES - PREVIDÊNCIA SOCIAL - AÇÃO CÍVEL ORIGINÁRIA - TUTELA. Surge relevante pedido voltado ao implemento de tutela antecipada quando estão em jogo competência concorrente e extravasamento do campo alusivo a normas gerais considerada previdência estadual”.
+    No mesmo sentido, menciono precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA – CRP. DESCUMPRIMENTO. SANÇÕES. LEI 9.717/1998. COMPETÊNCIA LEGISLATIVA DA UNIÃO. NORMAS GERAIS SOBRE PREVIDÊNCIA SOCIAL. RECURSO POSTERIOR À VIGÊNCIA DO CPC/15. 1. A jurisprudência desta Corte é pacífica no sentido de que a União extrapolou os limites de sua competência legislativa na edição da Lei 9.717/1998, ao impor sanções decorrentes da negativa de expedição de Certificado de Regularidade Previdenciária. Precedentes. 2. Agravo regimental a que se nega provimento” (RE 933.138-AgR/PE, Rel. Min. Edson Fachin, Primeira Turma).
+    “Ementa: CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. EXPEDIÇÃO DO CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA – CRP. LEI 9.717/1998. EXTRAVASAMENTO DA COMPETÊNCIA LEGISLATIVA DA UNIÃO RELATIVA ÀS NORMAS GERAIS SOBRE PREVIDÊNCIA SOCIAL. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, a União, ao editar a Lei 9.717/1998 e o Decreto 3.788/2001, extrapolou os limites de sua competência constitucional. 2. Agravo regimental a que se nega provimento” (RE 827.541-AgR/PE, Rel. Min. Teori Zavascki, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
