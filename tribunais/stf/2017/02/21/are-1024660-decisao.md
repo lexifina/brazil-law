@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO INDENIZATÓRIA. ERRO NO CADASTRO DE VEÍCULO QUE IMPEDE O EMPLACAMENTO DO MESMO. DANOS MATERIAIS SUPORTADOS PELA PARTE QUE FORAM OBJETO DE AÇÃO PRETÉRITA. EXTINÇÃO DO FEITO SEM JULGAMENTO DE MÉRITO MANTIDA.
+    1. A presente demanda tem por fundamento não apenas a mesma relação jurídica de direito material, como também exatamente os mesmos fatos já narrados na ação pretérita que envolveu as partes. Não se tratando de fatos litigiosos novos, e identificada a similitude de pedido indenizatório por danos materiais, fundado na mesma causa de pedir, possível identificar a presença de caracterizadores da litispendência a desautorizar o processamento do feito.
+    2. Ainda que superável a litispendência sob o pretexto que se trata de nova extensão de pedido, que se distingue do anterior, o prosseguimento da presente demanda importaria em flagrante burla ao princípio da estabilidade da demanda estabelecido pelo art. 264 do CPC/1973, decorrente da indevida alteração do pedido após a angularização da lide, ainda que promovida em ação distinta. Isso porque inexistia óbice à formulação da pretensão aqui deduzida no bojo da primeira contenda. Ademais, não se pode descurar de que a estruturação processual preconizada pelo Código de Processo Civil de 1973 obsta a reabertura de discussões sobre o litígio inicialmente instaurado, ainda que não deduzidas pela parte oportunamente, impondo-se reconhecer que, se superada a litispendência, há notória impossibilidade jurídica do pedido no caso concreto.
+    3. Tampouco se vislumbra possibilidade de recebimento da exordial como ação declaratória incidental, posto que a discussão aqui deduzida não objetiva declaração de existência ou inexistência de relação jurídica, que é incontroversa. APELAÇÃO DESPROVIDA” (pág. 38 do documento eletrônico 2, grifos no original).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. , da mesma Carta.
+    As pretensões recursais não merecem acolhida.
+    O tribunal de origem consignou:
+    “[...]
+    Compulsando os autos verifica-se que em ambos os feitos, o pedido é de ressarcimento dos prejuízos suportados pela requerente em face da irregularidade do cadastro do veículo adquirido no sistema BIN, que impedia o emplacamento. Ou seja, a presente demanda tem por fundamento não apenas a mesma relação jurídica de direito material, como também exatamente idêntica narrativa dos fatos feita na ação pretérita que envolveu as partes. Não há notícia da ocorrência de fatos novos, apenas manutenção da situação descrita naquela oportunidade” (págs. 41-42 do documento eletrônico 2).
+    Assim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos (Súmula 279 do STF) e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 21 de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
