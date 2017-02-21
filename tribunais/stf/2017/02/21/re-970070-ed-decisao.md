@@ -1,0 +1,16 @@
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS NO MÁXIMO LEGAL PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL.  OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.
+    DECISÃO: Trata-se de embargos de declaração opostos por ROMILDA FALBO DINIZ contra decisão de minha relatoria, publicada em 1º/8/2016, cuja ementa transcrevo:
+    “RECURSO EXTRAORDINÁRIO. CONSUMIDOR. ABORDAGEM EM LOJA. DANO MORAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. RECURSO DESPROVIDO.”
+    Inconformada com a decisão supra, a parte embargante interpõe o presente recurso “com o objetivo de suprir a omissão da fixação dos honorários de sucumbência, em atenção ao disposto no artigo 85, § 1º do CPC, alterado pela lei 13.105/2015” (doc. 7, fl. 1).
+    É o relatório. DECIDO.
+    Não merecem acolhida as pretensões da embargante.
+    Ab initio, pontuo que os embargos de declaração opostos contra decisão do relator serão decididos monocraticamente, nos termos do artigo 1.024, § 2º, do CPC/2015, verbis: “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente”.
+    Cabe salientar que por ter havido condenação ao pagamento de honorários advocatícios no máximo legal no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015, neste grau recursal.
+    Demais disso, os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição ou omissão e para corrigir erro material, consoante dispõe o artigo 1.022 do CPC/2015.
+    Nesse contexto, não se verifica nenhuma das hipóteses ensejadoras dos embargos de declaração, eis que a decisão embargada, não tendo partido de premissas equivocadas, apreciou as questões de maneira clara e coerente, em consonância com a jurisprudência pertinente. Nesse sentido, destaco os seguintes julgados: ARE 912.914-AgR-ED, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 6/4/2016; RE 626.504-AgR-ED, Rel. Min. Celso de Mello, Segunda Turma, DJe de 8/4/2016; ARE 911.793-AgR-ED, Rel. Min. Rosa Weber, Primeira Turma, DJe de 8/4/2016; ARE 860.500-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 15/12/2015; ARE 884.171-AgR-ED, Rel. Min. Luiz Fux, Primeira Turma, DJe de 4/3/2016; ARE 650.428-AgR-ED, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 11/4/2016; ARE 896.834-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 1º/2/2016; ARE 928.545-AgR-ED, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 8/4/2016; ARE 823.947-AgR-ED, Rel. Min. Edson Fachin, Primeira Turma DJe de 11/4/2016; e ARE 918.843-AgR-ED, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 15/4/2016.
+    Ex positis, DESPROVEJO os embargos.
+    Publique-se.
+    Brasília, 21 de fevereiro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
