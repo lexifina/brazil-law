@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de origem confirmou o entendimento do Juízo quanto à inaplicabilidade da Lei nº 12.317/2010 aos servidores públicos do Município do Rio de Janeiro, em face do regime jurídico a que estão submetidos. No extraordinário cujo trânsito busca alcançar, a recorrente alega violados os artigos 5º, cabeça, e 22, inciso XVI, da Constituição Federal. Argumenta com a aplicabilidade da Lei nº 12.317/2010 aos assistentes sociais municipais e estaduais.
+    2. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 do Diploma Maior.
+    Eis a síntese da decisão recorrida:
+    AGRAVO INTERNO NA APELAÇÃO CÍVEL. ADMINISTRATIVO. AUSÊNCIA DE ELEMENTOS CAPAZES DE MODIFICAR O DECISUM. SERVIDORA PÚBLICA MUNICIPAL. ASSISTENTE SOCIAL. REDUÇÃO DA JORNADA DE TRABALHO PARA 30 HORAS SEMANAIS. PRETENSÃO DE APLICAÇÃO DA LEI 12.317/2010 AOS VÍNCULOS ESTATUTÁRIOS. REGRA RESTRITA AOS EMPREGADOS SUBMETIDOS À CLT, CONFORME ENTENDIMENTO SEDIMENTADO PELO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA DO PEDIDOS ACERTO DO JULGADO. EDIÇÃO DA LEI MUNICIPAL Nº 5.631/2013, ANTES DO AJUIZAMENTO DA PRESENTE AÇÃO, A DISPOR SOBRE A PRETENDIDA REDUÇÃO DA CARGA HORÁRIA DOS ASSISTENTES SOCIAIS NO ÂMBITO DO MUNICÍPIO DO RIO DE JANEIRO. DESPROVIMENTO DO RECURSO.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 700,00 (setecentos reais), fixo os honorários recursais no patamar de R$ 350,00 (trezentos e cinquenta reais), nos termos do artigo 85, § 11, do citado diploma legal. . Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 21 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
