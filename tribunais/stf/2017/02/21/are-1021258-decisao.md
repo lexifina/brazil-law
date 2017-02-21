@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1.O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de omitir informação, ou prestar declaração falsa às autoridades fazendárias, previsto no artigo 1°, inciso I, da Lei nº 8.137/90. No extraordinário cujo processamento busca alcançar, o recorrente aponta violado o artigo 5º, incisos XXXV e LV, da Constituição Federal. Diz ser indispensável a realização de perícia para afastar a imputação do delito, tendo como cerceado o direito defesa quando do indeferimento da prova.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    Acerca do valor sonegado, concordo com a valoração negativa dos fatos. As consequências do crimes somente poderão ser valoradas como circunstância judicial de especial reprovação quando do crime resultem efeitos anormalmente gravosos, desvinculados da normal produção do resultado típico. Sendo nesse crime admitida insignificância do dano fazendário até dez mil reais, pela somatória dos crimes em continuação delitiva – ressalvado diverso entendimento pessoal – acolho como anormalmente gravosos danos acima de dez vezes esse montante, ou seja, maiores do que R$ 100.00,00 ( cem mil reais).
+    Tal situação ocorre no caso presente, tendo em vista que sonegado um crédito tributário no montante totalizado de R$1.636.236,49 ( um milhão, seiscentos e trinta e seis mil, duzentos e trinta e seis reais e quarenta e nove centavos), valor que reputo suficiente para caracterizar como gravosa a circunstância judicial em exame.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 21 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
