@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO CIVIL PÚBLICA - Improbidade administrativa - Prefeito que contrata servidores sem concurso público, para serviços comuns, atividades ordinárias - Caracterizada a ofensa aos princípios da legalidade, moralidade e impessoalidade - Aplicação da Lei 8.429/92 aos agentes políticos – Adequação da via eleita - Legitimidade do Ministério Público - Anulação das nomeações - Condenação fixada com razoabilidade - Recurso desprovido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XLV e LIV; 37, § 4º, e 97, todos da Constituição.
+    O recurso extraordinário é inadmissível. Isso porque o Tribunal de origem assentou que as penalidades foram aplicadas com razoabilidade. Para divergir dessa conclusão, seriam necessárias uma nova apreciação dos fatos e do material probatório constantes dos autos, bem como a análise de norma infraconstitucional aplicável, providências que não têm lugar neste momento processual (incidência das Súmulas 279 e 280/STF).
+    Ademais, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Nessa linha, veja-se o ARE 723.052, julgado sob a relatoria do Ministro Marco Aurélio, assim ementado:
+    “RECURSO EXTRAORDINÁRIO reserva DE PLENÁRIO. Descabe confundir reserva de Plenário artigo 97 da Constituição Federal com interpretação de normas legais. RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé”.
+    No caso, o Tribunal de origem apenas realizou interpretação sistemática com o intuito de alcançar o verdadeiro sentido da norma, sem que houvesse declaração de sua incompatibilidade com a Constituição Federal. Assim, não há que falar em ofensa ao art. 97 da Constituição ou à Súmula Vinculante nº 10.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 21 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
