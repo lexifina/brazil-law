@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Ceará, reformando o entendimento do Juízo, julgou procedente o pedido de prosseguimento do candidato nas fases do concurso público, afastado o critério etário, tendo em vista o princípio da razoabilidade. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 2º, 5º, 37, incisos I e II, 42, § 1º, 97 e 142, § 3º, inciso X, da Constituição Federal. Diz contrariada a cláusula de reserva do plenário e inobservado o verbete vinculante nº 10 da Súmula do Supremo. Sustenta a intromissão do Judiciário na esfera de competência do Executivo. Afirma ser constitucional a regra editalícia referente ao limite de idade para ingresso no cargo público, tendo como caracterizada a ofensa do princípio da isonomia.
+    2. De início, quanto à evocação do artigo 97 da Lei Fundamental, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça as vezes, tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido s seguinte trecho:
+    Cabe consignar que o Edital nº 001/2011 do certame não fixou a data de matrícula do Curso de Formação, o que impossibilitou ao candidato saber se preencheria os requisitos exigidos quando se inscreveu no concurso.
+    Desta maneira, é desproporcional a eliminação de um candidato que, na data da matrícula do Curso de Formação, tenha ultrapassado a idade limite prevista.
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso. Em momento algum foi afastada a norma pertinente ao limite de idade, apenas decidiu-se de forma objetiva quanto ao momento em que deve o candidato demonstrar o atendimento do requisito.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 21 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
