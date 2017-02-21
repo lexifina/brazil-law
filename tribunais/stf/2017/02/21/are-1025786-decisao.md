@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de origem assentou a legitimidade ativa da associação e, quanto ao mérito, confirmou o entendimento do Juízo no tocante à improcedência do pedido de reconhecimento, aos associados, de tempo de serviço em atividade insalubre para fins de aposentadoria especial. No extraordinário cujo processamento busca alcançar, a recorrente aponta violados os artigos 5º, inciso XXXV, 40, § 4º e inciso III, e 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão relativo aos embargos de declaração por negativa de prestação jurisdicional. Sustenta o direito à aposentadoria especial, eis que preenchidos os requisitos legais.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    No caso dos autos, não há prova da condição especial de trabalho exercida pelos associados da entidade autora. Trata-se de prova imprescindível à caracterização das condições nocivas à saúde do servidor, não sendo suprida pelos recibos de pagamento juntados aos autos, os quais comprovam apenas o recebimento de um adicional de insalubridade, que, por si só, não constitui prova do exercício de trabalho sob condições que prejudiquem a saúde ou integridade física e, consequentemente, não garante automaticamente o direito à conversão do tempo de serviço para especial, por serem diversas as sistemáticas do direito trabalhista e previdenciário.
+    O Tribunal de origem expressamente consignou a não comprovação de condições especiais de trabalho. Divergir deste entendimento demandaria, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No mais, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 21 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
