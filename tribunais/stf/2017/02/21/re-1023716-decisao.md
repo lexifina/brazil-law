@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 5ª Região confirmou o entendimento do Juízo quanto à procedência do pedido de manutenção de financiamento estudantil, para fins de prosseguimento em curso superior de psicologia, determinando a reabertura de sistema eletrônico pelo Fundo Nacional de Desenvolvimento da Educação – FNDE, para possibilitar renovação do contrato. No extraordinário, o recorrente aponta violados os artigo 2º, 37, cabeça, 206, inciso I, e 207 da Constituição Federal. Sustenta a ilegitimidade para figurar no polo passivo da demanda, alegando que correções em dados cadastrais, no tocante ao rendimento acadêmico dos alunos, compete exclusivamente à instituição de ensino.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    Considerando os termos da Lei nº 10.260/2001, a qual instituiu o Fundo de Financiamento ao Estudante de Ensino Superior - FIES, e, ainda, à vista de que a presente causa tem como objeto irregularidades no sistema do aludido Fundo, resta caracterizada na presente causa a legitimidade passiva ad causam do FNDE. Com efeito, ao lado da União (art. 1º), o FNDE tem legitimidade para figurar na relação processual por ser o agente operador e administrador do FIES (art. 3º).
+    O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão impugnada é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    3. Nego seguimento ao extraordinário. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia da parte agravada em apresentar contraminuta ao agravo.
+    4. Publiquem.
+Brasília, 21 de fevereiro de 2017.
+ Ministro MARCO AURÉLIO
+Relator
