@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “Apelação Cível. Direito Constitucional. Ação popular destinada a anular Contratos Administrativos travados entre o Banco do Nordeste e Escritórios de Advocacia. Procedência que se impõe, sob o risco de vilipêndio aos princípios constitucionais do concurso público e da moralidade administrativa. Nomeação de candidatos. Impossibilidade, ante a imprestabilidade desta ferramenta processual. Recursos conhecidos e improvidos. Por maioria” (pág. 3 do documento eletrônico 26).
+    No RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação ao art. 37, IX, da mesma Carta, sob o argumento de que o ora recorrente realizou regular contratação temporária de serviços de advocacia em virtude de necessidade excepcional e temporária. Ademais, alega-se que
+    “a simples terceirização de serviços advocatícios não implica, automaticamente, em preterição dos candidatos classificados no cadastro de reserva, até porque muitos já foram convocados pelo BNB desde a realização do certame, e, como já visto, existem importantes distinções nas atividades de cada grupo, o dos funcionários e o dos terceirizados” (pág. 19 do documento eletrônico 28).
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem manteve sentença que, com apoio no acervo probatório dos autos, julgou inválidos os contratos firmados entre as partes para prestação de serviços de advocacia, sob os seguintes fundamentos:
+    “[...] a temporariedade da contratação, ao contrário do que aduzem os recorridos, é meramente formal. Isto porque, conforme explicitado na réplica de fls. 659/670, a necessidade de serviços jurídicos pelo BNB é permanente.
+    […]
+    À luz do parecer do Tribunal de Contas da União, acostado pelo próprio BNB, observa-se que não há temporariedade ou excepcionalidade nos serviços de cobrança judicial. Os valores em defasagem constatada pela Corte de Contas são altos em demasia, bem como há grande número de processos, para serem considerada a necessidade apenas temporária.
+    Em verdade, há necessidade permanente e urgente no serviço advocatício, na medida em que a cobrança judicial de ativos é atividade que, inerente ao serviço bancário, é rotineira e renovável. Isto é, faz parte do dia a dia de uma instituição financeira a inadimplência e posterior cobrança judicial, necessidade que se renova hodiernamente” (págs. 50-51 do documento eletrônico 19).
+    Desse modo, para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF. Nesse sentido, destaco o RE 702.618-AgR/PB, de minha relatoria, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA DE PESSOAL SEM CONCURSO PÚBLICO PELA ADMINISTRAÇÃO PÚBLICA. ALEGADA URGÊNCIA E EXEPCIONALIDADE. SOBRESTAMENTO AFASTADO. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE LEGISLAÇÃO INFRACONSTITUCIONAL: IMPOSSIBLIDADE. SÚMULAS 279 E 280 DO SUPREMO TIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    I – Para se concluir de maneira diversa do que assentado pelo tribunal de origem, seria necessário tanto o reexame do conjunto fático-probatório constante dos autos quanto a análise da legislação infraconstitucional aplicada na espécie (Lei 8.666/1993 e Decreto estadual 11.938/1987), hipóteses inviáveis em recurso extraordinário, a teor das Súmulas 279 e 280 desta Suprema Corte.
+    II – Agravo regimental a que se nega provimento”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
