@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Ceará, ementado nos seguintes termos:
+    “CONSTITUCIONAL. ADMINISTRATIVO. REEXAME NECESSÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA O CARGO DE GUARDA MUNICIPAL. REPROVAÇÃO DE CANDIDATOS EM TESTE FÍSICO COM CARÁTER ELIMINATÓRIO. EXIGÊNCIA IMPOSTA PELO EDITAL DO CERTAME. AUSÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE. OFENSA AO PRINCÍPIO CONSTITUCIONAL DA LEGALIDADE. PRECEDENTES. REEXAME EX OFFICIO DESPROVIDO.”. (eDOC 3, p. 12)
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 2º, 5º, 37, II e 39, § 3º e 169, § 1º, I, do texto constitucional. (eDOC 5, p. 3)
+    Nas razões recursais, alega-se que todos os candidatos foram submetidos à mesma exigência editalícia e que a decisão recorrida viola o princípio da isonomia, legalidade e impessoalidade. Aduz-se, ainda, que a nomeação de candidatos somente pode ser feita se houver prévia dotação orçamentária, o que não teria ocorrido na hipótese dos autos. Por fim, defende-se que não poderia o Judiciário ter exercido o juízo de conveniência e oportunidade relativa à nomeação de candidatos.
+    O Ministério Público Federal em parecer emitido pelo Subprocurador-Geral da República Paulo Gustavo Gonet Branco, opina pela negativa de seguimento do recurso. (eDOC 18, p. 4)
+    Decido.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, bem como interpretar cláusulas contidas no Edital 102006 do concurso para ingresso na Guarda Municipal de Fortaleza/CE, declarou a nulidade de cláusula editalícia, na qual prevista a realização de exames de aptidão física dos candidatos, em razão da falta de previsão legal específica. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O cerne da questão gira em torno da possibilidade ou não de o edital de concurso estabelecer regras não previstas em lei para prover cargos públicos. No caso em tablado, observa-se que os impetrantes lograram êxito na primeira fase do concurso, sendo reprovados no exame físico. (…) Consoante se observa dos dispositivos supratranscritos, a prova objetiva de caráter eliminatório que consta da norma editalícia não é prevista no diploma legal que regulamenta o concurso. Assim, conquanto haja certa razoabilidade na referida exigência, esta malfere o princípio da legalidade, o que não pode se admitir.”(eDOC 3, p. 3)
+    Assim, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Confira-se a propósito:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. OBSERVÂNCIA DAS REGRAS DO EDITAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 829.036, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 24.3.2011).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Concurso público. Edital. Exame físico. 3. Necessidade do reexame do conjunto fático-probatório e das cláusulas editalícias. Incidência das súmulas 279 e 454. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento. (ARE-AgR 876671, de minha relatoria, Segunda Turma, DJe 3.6.2015).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de fevereiro de 2017.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
