@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “ADMINISTRATIVO. JORNADA DE TRABALHO DE ASSISTENTES SOCIAIS. LEI Nº 12.317/2010. INAPLICABILIDADE AO FUNCIONALISMO DA UNIÃO. INICIATIVA DE LEI EXCLUSIVA DO PRESIDENTE DA REPÚBLICA (ART. 61 DA CF/88). RECURSO DE APELAÇÃO DESPROVIDO.
+    1. Cinge-se a controvérsia em perquirir se aplicável a Lei 12.317/10 aos servidores públicos federais que exercem atividade de Assistente Social, no que diz respeito à carga horária semanal de 30 (trinta) horas.
+    2. A jornada de trabalho de 30 horas semanais para os assistentes sociais, prevista no art. 5º - A da Lei nº 8.662/93, com a redação conferida pela Lei nº 12.317/2010, não se aplica aos integrantes da categoria do funcionalismo da União, os quais são regidos por norma federal própria, editada no âmbito da competência reservada pela Carta Federal à União, na condição de ente público empregador, com iniciativa legislativa exclusiva do Presidente da República, com esteio na alínea "c", inc. II, parágrafo 1º, art. 61, da Constituição Federal de 1988.
+    3. Recurso de apelação desprovido” (documento eletrônico 19).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 22, XVI, da Carta Magna.
+    A pretensão recursal não merece acolhida.
+     Isso porque, para se chegar à conclusão contrária à do Tribunal a quo, seria necessário o exame de legislação infraconstitucional pertinente (Leis 12.370/2010 e 8.112/90), o que inviabiliza o processamento do presente recurso. Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. EMPREGADO PÚBLICO. BANCÁRIO. REVERSÃO DE JORNADA. REDUÇÃO SALARIAL. ANÁLISE DE NORMA INFRACONSTITUCIONAL. CLT. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - Indispensável a análise da Consolidação das Leis Trabalhistas – CLT para verificar, no caso, eventual ofensa ao princípio da irredutibilidade salarial. A afronta ao texto constitucional, se ocorrente, seria meramente reflexa, circunstância que torna inviável o recurso extraordinário. II - Agravo regimental improvido.” (ARE 669.052-AgR, de minha relatoria, Segunda Turma).
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REDUÇÃO DE JORNADA DE TRABALHO. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. RECURSO DESPROVIDO.” (RE 844.472/MG, Relator Ministro Luiz Fux, decisão monocrática - grifei).
+     No mesmo sentido, em casos análogos ao dos autos, destaco o RE 834.943/MG, Rel. Min. Carmen Lúcia, DJe 23.11.2014; o ARE 845.938/MG, Rel. Min. Carmen Lúcia, DJe 11.11.2014; o ARE 955.473/MG, Rel. Min. Roberto Barroso, DJe 28.3.2016; e o ARE 947.805/MG, Rel. Min. Rosa Weber, DJe 25.2.2016.
+    Por fim, o acórdão impugnado está em harmonia com a jurisprudência do Supremo Tribunal Federal consolidada na Súmula Vinculante 37, cujo teor é o seguinte: “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Deixo de majorar os honorários recursais previstos no art. 85, § 11, do Código de Processo Civil, uma vez que não foram fixados pelo juízo de origem.
+    Publique-se.
+    Brasília, 21 de fevereiro de 2017.
+Ministro Ricardo Lewandowski
+Relator
