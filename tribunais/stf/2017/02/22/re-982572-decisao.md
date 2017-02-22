@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário interposto em face de acórdão da 4ª Turma Recursal da Seção Judiciária do Estado do Rio Grande do Sul, no qual se discute a possibilidade de contagem concomitante de tempo de contribuição, para fins de aposentadoria em regimes distintos.
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, sustentou-se a violação aos arts. 5°, XXXVI, LIV e LV; 195, § 5° e 201, § 9°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido, que manteve a sentença por seus próprios fundamentos, dirimiu a questão a partir da interpretação da Lei 8.213/1991, bem como pela análise das provas dos autos, com a verificação dos diversos tipos de regime e vínculos empregatícios aos quais esteve submetida a ora recorrida.
+    Desse modo, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279 do STF – e da legislação infraconstitucional aplicável ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Nesse sentido, cito precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. APOSENTADORIA ESPECIAL DE PROFESSOR. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS 2º, 5º, 44, 48, 59, 201, § 1º E 194, P.U., III, DA CONSTITUIÇÃO FEDERAL. SÚMULAS 282 E 356 DO STF. ALEGADA OFENSA AO ART. 201, § 8º, DA CONSTITUIÇÃO. REEXAME DE MATÉRIA FÁTICA. INVIABILIDADE. SÚMULA 279 DO STF. SUPOSTA VIOLAÇÃO DO ART. 96, III, DA LEI 8.213/1991. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA OU INDIRETA À CONSTITUIÇÃO. Agravo regimental a que se nega provimento” (RE 593.915-AgR/AC, Rel. Min. Joaquim Barbosa).
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AVERBAÇÃO DE TEMPO DE SERVIÇO. SÚMULA 279/STF. PRECEDENTES. 1. Hipótese em que a resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. Precedentes. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973” (ARE 770.766-AgR/GO, Rel. Min. Roberto Barroso).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. RENDA MENSAL INICIAL. REVISÃO DE BENEFÍCIO. LEIS 8.870/94 E 8.213/91. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. SÚMULA 279. 1. É inviável o processamento do apelo extremo quando sua análise demanda o reexame de fatos e provas e da legislação aplicável a espécie. Súmulas 279. 2. Agravo regimental a que se nega provimento” (AI 859.500-AgR/RS, Rel. Min. Edson Fachin).
+    Menciono, ainda, as decisões monocráticas proferidas pelo Ministro Edson Fachin no ARE 943.297/RS e RE 927.492/RS; e da Ministra Rosa Weber no ARE 1.003.541/PR.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2016.
+Ministro Ricardo Lewandowski
+Relator
