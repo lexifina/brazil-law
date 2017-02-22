@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “MARCAS E PATENTES - PROPRIEDADE INTELECTUAL - AÇÃO COMINATÓRIA C.C. PERDAS E DANOS - RÉ QUE CONTRAFEZ E COMERCIALIZOU PRODUTO LEGALMENTE REGISTRADO PELAS AUTORAS-DOCUMENTOS ANEXADOS AOS AUTOS QUE COMPROVAM A ILEGALIDADE PRATICADA PELAS REQUERIDAS - DESNECESSIDADE DE PROVA PERICIAL PARA CONSTATAÇÃO DIANTE DA OBVIEDADE DOS FATOS – CONCORRÊNCIA DESLEAL CARACTERIZADA PELO USO INDEVIDO DE PRESTÍGIO ALHEIO NA PROMOÇÃO DOS PRÓPRIOS PRODUTOS - ENRIQUECIMENTO SEM CAUSA DAS RÉS - INDENIZAÇÃO POR DANOS MATERIAIS DEVIDOS - SENTENÇA PARCIALMENTE MODIFICADA. RECURSO DAS AUTORAS PARCIALMENTE PROVIDO E DAS RÉS IMPROVIDO” (eDOC 12, p. 83).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, incisos XXII, XXIII, XXXIX; e 170, II, III , do texto constitucional.
+    Nas razões recursais, alega-se que os desenhos das agravadas não atendem a função social da propriedade e, portanto, o acordão recorrido merece reforma.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie, Lei 9.279/96, consignou que as ações do agravante configuravam concorrência desleal. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “De fato, incontroverso nos autos a ilegalidade da atuação das corrés, caracterizando-se, assim, a concorrência desleal pelo aproveitamento indevido de prestígio da marca autora que se trata de marca de alto renome e por consequência o seu enriquecimento ilícito” (eDOC 12, p. 86).
+    Ressalte-se que os agravantes, em sede de recurso extraordinário, alegaram que a ofensa à Constituição Federal decorreu da violação de normas infraconstitucionais, como a Lei 9.279/96, a Lei 8.137/90, a Lei 8.884/93 e o Código de Defesa do Consumidor.
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no agravo de instrumento. Direito Civil. Uso indevido de marca. Concorrência desleal. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido”. (AI-AgR 773090, Rel. Min. Dias Toffoli, Primeira Turma, julgado em 21/08/2012, Dje. 6.9.2012)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO CIVIL. PROPRIEDADE INDUSTRIAL. NOME COMERCIAL. LEI 9.279/96. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 5º, XXXVI, DA CONSTITUIÇÃO. OFENSA INDIRETA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão concernente à regularidade da utilização do nome comercial pela ora agravada com base na legislação ordinária (Lei 9.279/96). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II - A verificação da ocorrência de coisa julgada, no caso, situa-se em âmbito infraconstitucional. Precedentes. III - Não há negativa de prestação jurisdicional se o acórdão, embora fundamentado, está em dissonância com os interesses dos recorrentes. Precedentes. IV – Agravo regimental improvido”. (AI-AgR 831401, Rel.Min. Ricardo Lewandowski, Segunda Turma, DJe-5-9-2011)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2017
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
