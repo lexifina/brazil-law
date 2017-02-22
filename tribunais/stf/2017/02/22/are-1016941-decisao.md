@@ -1,0 +1,16 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AUTO DE INFRAÇÃO. MULTA. CANCELAMENTO. SHOPPING CENTER. POSTO MÉDICO PARA ATENDIMENTO EMERGENCIAL. LEIS 10.947/1991 E 11.649/1994. MUNICÍPIO DE SÃO PAULO. INTEMPESTIVIDADE DO AGRAVO. AGRAVO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “MANDADO DE SEGURANÇA. ATO ADMINISTRATIVO.
+    AUTO DE MULTA. CANCELAMENTO PRETENDIDO. Multa aplicada em razão da não observância dos ditames da Lei Municipal nº 10.947/91, alterada pela Lei Municipal nº 11.649/94, que impõe a exigência de instalação de ambulatório médico ou serviço de pronto socorro nas edificações destinadas aos shoppings centers. Cabimento do mandado de segurança contra o ato normativo, diante de seus efeitos concretos, não importando em violação à súmula 266, do STF. No mérito, denegação da segurança em primeira instância. Decisão do Órgão Especial do Tribunal de Justiça do Estado de São Paulo, que julgou improcedente a ação de declaração de inconstitucionalidade da Lei Municipal nº 10.947/91, alterada pela Lei nº 11.649/94 (ADIN nº 0093658-30.2013.8.26.0000). Leis Estaduais n°s 9.791/97 e 11.218/2002, editadas posteriormente, que disciplinaram a mesma matéria, mas em nada infirmam as disposições da legislação municipal questionada nos autos, que permanece com sua eficácia plena. Competência material comum entre todos os entes públicos, para legislar sobre a saúde (art. 23, II, da CF). A repartição constitucional da competência legislativa em matéria de proteção à saúde permite aos Municípios suplementar a legislação federal e estadual, no que couber (art. 30, II, cuja interpretação deve ser feita à luz do disposto no artigo 24, V e XII, §§ 1º, 2º, 3º e 4º, todos da CF/88). Afastado o alegado vício de inconstitucionalidade, permanece hígido o auto de infração. Ausência de direito líquido e certo a ser amparado por mandado de segurança. Sentença confirmada. Recurso não provido.”
+    Nas razões do apelo extremo, sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 170 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame de direito local, o que atrai o óbice da Súmula nº 280 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar, uma vez que intempestivo.
+    O prazo para a interposição de agravo contra decisão que inadmite recurso extraordinário é de 10 (dez) dias, a teor do disposto no caput do artigo 544 do CPC/1973.
+    A decisão agravada foi disponibilizada em 9/11/2015, considerando a data de publicação o primeiro dia útil subsequente (10/11/2015), conforme o documento 60. A contagem inicial do prazo deu-se em 11/11/2015. Entretanto, a petição de agravo somente foi protocolada em 23/11/2015, após o transcurso do prazo recursal.
+    Ex positis, NÃO CONHEÇO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 22 de fevereiro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
