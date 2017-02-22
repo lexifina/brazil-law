@@ -1,0 +1,21 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Condenação por tráfico de drogas. Pedido de desclassificação. Dosimetria da pena. Inadequação da via.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que não conheceu do HC 372.411, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 7 (sete) anos e 6 (seis) meses de reclusão, em regime inicial fechado, pelos crimes previstos nos artigos 33, caput, da Lei 11.343/06 e 180 do Código Penal.
+    3. O Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento à apelação da defesa.
+    4. Em seguida, a defesa interpôs recurso especial, inadmitido na origem. Ato contínuo, interpôs agravo. A Presidência do Superior Tribunal de Justiça não conheceu do agravo.
+    5. Contra essa decisão, foi interposto agravo regimental, não provido.
+    6. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. A Relatora do HC 372.411, Ministra Maria Thereza de Assis Moura, não conheceu do writ.
+    7. Neste habeas corpus, a parte impetrante sustenta a possibilidade, no caso, da desclassificação do crime do artigo 33, caput, da Lei 11.343/06 para o delito previsto no artigo 28 do mesmo diploma legislativo, com fundamento na pequena quantidade de droga apreendida (188,2g de maconha). Alega ainda que, no caso, a quantidade da droga não justifica a exasperação da pena-base em patamar acima do mínimo legal. Daí o pedido de concessão da ordem a fim de desclassificar o crime de tráfico de entorpecentes para o crime previsto no artigo 28 da Lei de Drogas. Subsidiariamente, pleiteia a redução da pena imposta ao paciente.
+    Decido.
+    8. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via processual (HC 115.659, Rel. Min. Luiz Fux).
+    9. Com efeito, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    10. Por outro lado, não é caso de concessão da ordem de ofício. O pedido de desclassificação formulado pelo impetrante esbarra na firme jurisprudência desta Corte no sentido de que “o pleito de desclassificação de crime não tem lugar na estreita via do habeas corpus por demandar aprofundado exame do conjunto fático-probatório da causa, e não mera revaloração” (RHC 120.417, Rel. Min. Ricardo Lewandowski).
+    11. Não bastasse isso, verifico que a autoridade impetrada deixou de apreciar a questão da dosimetria da pena, tendo em vista que “a matéria não foi apreciada pelo Tribunal a quo”. De modo que não é possível o exame da matéria por esta Corte, sob pena de dupla supressão de instância.
+    12. Diante do exposto, com base no 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 22 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
