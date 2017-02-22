@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 1ª Região, assim ementado na parte que interessa:
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. EXERCENTES DE MANDADO ELETIVO.CONSTITUIÇÃO FEDERAL ART. 195, INCISO I. EMENDA CONSTITUCIONAL Nº 20/98. INCONSTITUCIONALIDADE DA LEI 9.506/97. RESOLUÇÃO DO SENADO 26/2005. PRAZO PRESCRICIONAL. CORREÇÃO MONETÁRIA. SELIC.”
+    Os embargos de declaração foram desprovidos.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se violação aos artigos 1º; 2º; 5º, II e XXXVI, 37; e 150, III, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em síntese, que “ao manter a obrigatoriedade de retificação das Guias de Recolhimento do Fundo de Garantia por tempo de Serviço e Informações à Previdência Social - GFIP’s, obrigação tributária acessória criada por mera Portaria, o acórdão vai de encontro ao Princípio da Legalidade (…), Princípio da Separação dos Poderes (…) e, ainda, viola o disposto no artigo 84, IV, da CRFB/88”. Requer, ainda, o afastamento do prazo prescricional previsto na Lei Complementar 118/2005.
+    A Presidência do TRF da 1ª Região inadmitiu o recurso por considerar tratar-se de matéria infraconstitucional.
+    É o relatório. Decido.
+    Quanto à suscitada ofensa ao inciso XXXVI, artigo 5º da Constituição Federal, ressalta-se que o Supremo Tribunal Federal já assentou que não há repercussão geral (Tema 660) quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário (ARE-RG 748.371, Rel. Ministro Gilmar Mendes, DJ de 01.08.2013).
+    Ademais, impende registrar que não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida (Enunciado da súmula 636 do STF).
+    Por fim, verifico que para dissentir do acórdão recorrido referente à alegação de excesso do poder regulamentar, assim como de eventual criação de obrigação tributária, seria necessário necessário o reexame da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCONSTITUCIONALIDADE. COMPENSAÇÃO. RETIFICAÇÃO DA GFIP PELO CONTRIBUINTE. CRIAÇÃO DE OBRIGAÇÃO TRIBUTÁRIA ACESSÓRIA. AUSÊNCIA DE FUNDAMENTO LEGAL. EXCESSO DE PODER REGULAMENTAR. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA REFLEXA. PRINCÍPIO DA LEGALIDADE. INTERPRETAÇÃO DE NORMA INFRACONSTITUCIONAL. SÚMULA Nº 636 DO STF. AGRAVO REGIMENTAL DESPROVIDO.” (940.271-AgR, Rel. Min. Luiz Fux, Primeiria Turma, DJe 27.04.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. RETIFICAÇÃO DE GUIAS DE RECOLHIMENTO DO FUNDO DE GARANTIA POR TEMPO DE SERVIÇO – FGTS (GFIPS). COMPENSAÇÃO. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 683.918-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 19.10.2012.)
+    Ante o exposto, nego provimento ao agravo, nos termos do artigo 21, § 1º do RISTF.
+    Publique-se.
+    Brasília, 22 de fevereiro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
