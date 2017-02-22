@@ -1,0 +1,17 @@
+Vistos etc.
+    Trata-se de ação cautelar ajuizada pelo Município de Várzea Alegre contra a União, com fundamento, alegadamente, no art. 102, I, “f” da Constituição da República.
+    Afirmando presentes o fumus boni juris e o periculum in mora, o autor requer a concessão de tutela cautelar, para o fim de suspender, até o julgamento definitivo da ação principal a ser ajuizada, os efeitos da sua inscrição como inadimplente no Sistema Integrado de Administração Financeira do Governo Federal – SIAFI e no Serviço Auxiliar de Informações para Transferências Voluntárias - CAUC, em razão de suposta inadimplência em dois convênios celebrados com a Administração Federal (Ministério da Saúde/Fundação Nacional de Saúde - FUNASA).
+    É o relatório.
+    Decido.
+    Nos termos do art. 102, I, “f” da Constituição da República, compete ao Supremo Tribunal Federal processar e julgar, originariamente:
+    “f) as causas e os conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da administração indireta;”
+    A manifesta incompetência deste Supremo Tribunal Federal para, forte no art. 102, I, “f”, da Constituição da República, processar e julgar, originariamente, a pretensão veiculada na presente ação – conflito entre a União e Município – enseja, desde logo, a negativa do seu seguimento.
+    Confiram-se, nesse sentido:
+    “AGRAVO REGIMENTAL NA AÇÃO CAUTELAR PREPARATÓRIA. INSCRIÇÃO DE MUNICÍPIO NO SISTEMA INTEGRADO DE ADMINISTRAÇÃO FINANCEIRA – SIAFI E NO CADASTRO ÚNICO DE CONVÊNIOS – CAUC. ALEGADO CONFLITO FEDERATIVO: ART. 102, INC. I, ALÍNEA F, DA CONSTITUIÇÃO DA REPÚBLICA. NÃO COMPETE AO SUPREMO TRIBUNAL FEDERAL PROCESSAR E JULGAR, ORIGINARIAMENTE, CAUSA A SER INSTAURADA ENTRE O MUNICÍPIO E A UNIÃO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AC 3616-AgR/BA, Relatora Ministra Cármen Lúcia, Tribunal Pleno, DJe 19.8.2014)
+    “AÇÃO PROMOVIDA PELA EMPRESA BRASILEIRA DE INFRAESTRUTURA AEROPORTUÁRIA (INFRAERO) CONTRA MUNICÍPIO - AUSÊNCIA DE CONFLITO FEDERATIVO - FALTA DE COMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL - EXEGESE DO ART. 102, I, "f", DA CONSTITUIÇÃO DA REPÚBLICA - REGRA CONSTITUCIONAL DE DIREITO ESTRITO - RECURSO DE AGRAVO IMPROVIDO. - O Supremo Tribunal Federal, em face da regra de direito estrito consubstanciada no art. 102, I, da Constituição da República (RTJ 171/101-102), não dispõe, por ausência de previsão normativa, de competência para processar e julgar, em sede originária, causas instauradas entre Municípios, de um lado, e a União, autarquias federais e/ou empresas públicas federais, de outro. Em tal hipótese, a competência para apreciar esse litígio pertence à Justiça Federal de primeira instância. Precedentes.” (ACO 1364-AgR/SE, Relator Ministro Celso de Mello, Tribunal Pleno, DJe 05.8.2010)
+    “COMPETÊNCIA – CONFLITO FEDERATIVO – ALCANCE DA ALÍNEA “F” DO INCISO I DO ARTIGO 102 DA CONSTITUIÇÃO FEDERAL. A competência prevista na alínea “f” do inciso I do artigo 102 da Constituição Federal envolve causas e conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da administração indireta, não alcançando relação jurídica subjetiva processual a revelar como parte Município.” (ACO 1342-AgR/RJ, Relator Ministro Marco Aurélio, Tribunal Pleno, DJe 15.2.2011)
+    Ante o exposto, forte no art 21, § 1º, do RISTF, nego seguimento ao presente feito.
+    Publique-se.
+    Brasília, 22 de fevereiro de 2017.
+Ministra Rosa Weber
+Relatora
