@@ -1,0 +1,31 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO INATIVO. RESTABELECIMENTO DE VANTAGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO INATIVO. VANTAGEM PREVISTA NO ARTIGO 184, II E III, LEI 1.711/52. RESTABELECIMENTO. DIREITO ADQUIRIDO. NULIDADE DA SENTENÇA. APLICAÇÃO DO ARTIGO 515, § 3º DO CÓDIGO DE PROCESSO CIVIL.
+    1. Tendo a r. sentença a quo tratado de matéria diversa do objeto da pretensão inicial, qual seja o pagamento de Gratificação de Atividade Técnico Administrativa, merece acolhida a preliminar para anular a decisão apelada.
+    2. Em observância, aos princípios da celeridade, da economia processual e da efetividade do processo cabe aplicar a regra insculpida no § 3º do artigo 515 do Código de Processo Civil.
+    3. Tendo a vantagem prevista no artigo 184 da Lei nº 1711/52, vigente na época da aposentadoria do autor, sido concedida de forma legítima, passou a integrar o patrimônio do servidor como vantagem pessoal, não mais podendo ser retirada, sob pena de ofensa ao direito adquirido e redução de vencimentos.
+    4. Precedente do Colendo Supremo Tribunal Federal (RE-AgR-AG.REG. NO RECURSO EXTRAORDINÁRIO Nº 384334).
+    5. Sendo assim, merece parcial acolhida o pleito dos recorrentes para restabelecimento da vantagem prevista no artigo 184, II, da Lei nº 1.711/52, que é devida até o advento da Emenda Constitucional nº 41/2003, a qual estabeleceu que as vantagens pessoais serão obrigatoriamente computadas para efeito de teto remuneratório.
+    6. Juros moratórios a partir da data da citação no percentual de 1% ao mês, até 24/08/2001, data de publicação da Medida Provisória n.º 2.180-35; 0,5% ao mês a partir da MP n.º 2.180-35/2001 até o advento da Lei nº 11.960/09, e após incidem os juros da caderneta de poupança.
+    7. Preliminar acolhida para anular a sentença. Pedido parcialmente procedente.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões de seu recurso extraordinário, sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 37, XI, da Constituição Federal e ao artigo 17 do ADCT.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 282 do STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Verifica-se que os dispositivos constitucionais suscitados não foram debatidos no acórdão recorrido. Além disso, os embargos de declaração opostos não sanaram tal omissão, faltando, ao caso, o necessário prequestionamento da questão constitucional, o que inviabiliza a pretensão de exame do recurso extraordinário. Incidem, portanto, os óbices das Súmulas 282 e 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+    A respeito da aplicação das aludidas súmulas, assim discorre Roberto Rosas:
+    “A Constituição de 1891, no art. 59, III, a, dizia: 'quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela'.
+    De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: ‘quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado’.
+    Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+    Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+    A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+    O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (ROSAS, Roberto, in Direito Sumular, Malheiros).
+    Nesse sentido, ARE 738.029-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 25/6/2013, e ARE 737.360-AgR/BA, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 24/6/2013, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Agravo regimental improvido.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 22 de fevereiro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
