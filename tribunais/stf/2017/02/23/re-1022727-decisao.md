@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - MATÉRIA FÁTICA – MATÉRIA LEGAL – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto a improcedência do pedido, aludindo à prescrição quinquenal e ao decidido no recurso extraordinário nº 561.836/RN. No extraordinário, a recorrente alega a violação do artigo 22, inciso VI, da Constituição Federal. Tece considerações acerca do tema de fundo, afirmando o direito à correção na remuneração resultante da equivocada conversão do Cruzeiro Real em URV .
+    2. De inicio, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do recurso regida por esse diploma legal.
+    A par desse aspecto, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Na espécie, a parte ré, na peça contestatória, informou que a parte autora integra os quadros da secretaria de estado da educação e que, após a conversão dos salários em URV, foram editadas diversas leis estaduais que alteraram os padrões remuneratórios dessa classe de servidores.
+    Logo, não existe direito de recálculo pro futuro e eventuais diferenças pretéritas estão abarcadas pela prescrição quinquenal, impondo-se a total improcedência.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    De resto, o Supremo, ao julgar questão de ordem no agravo de instrumento nº 760.358/SE, em 19 de novembro de 2009, assentou a impropriedade de recurso ou reclamação contra decisão que implica observância a entendimento já adotado em sede de repercussão geral.
+    3. Nego seguimento ao extraordinário. Considerada a fixação dos honorários advocatícios no valor de R$ 500,00 (quinhentos reais), fixo os honorários recursais no patamar de R$ 250,00 (duzentos e cinquenta reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015 . Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários  caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 23 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
