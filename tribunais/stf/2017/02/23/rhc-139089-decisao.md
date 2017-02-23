@@ -1,0 +1,54 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus interposto pela Defensoria Pública do Estado do Rio Grande do Sul, em favor de Lucas da Silva Chaves, contra acórdão da Quinta Turma do Superior Tribunal de Justiça (STJ), que não conheceu do HC 357.057/RS.
+    Segundo os autos, o recorrente foi denunciado e, posteriormente, absolvido em primeiro grau, pela suposta prática do delito descrito no art. 33, caput, da Lei 11.343/2006 (tráfico de drogas).
+    Irresignado, o Ministério Público do Estado do Rio Grande do Sul interpôs apelação criminal no TJRS, que deu provimento ao recurso a fim de condenar o acusado à pena de cinco anos de reclusão, em regime inicial fechado. Eis a ementa:
+    “APELAÇÃO CRIME. TRÁFICO DE DROGAS. ABSOLVIÇÃO. RECURSO MINISTERIAL. ACOLHIMENTO.
+    Materialidade e autoria comprovadas. Apreensão com o réu de duas espécies de drogas distintas, além de dinheiro trocado, em local conhecido como ponto de tráfico. Validade dos depoimentos dos policiais, prestados sob o crivo do contraditório e da ampla defesa, sem apresentar divergências. Desnecessidade de demonstração de ato de mercância para configuração do crime de tráfico de drogas, visto que o contexto dos autos indica que a droga apreendida destinava-se ao comércio ilegal, além de se tratar de crime de ação múltipla. Inviabilidade da incidência da causa de redução de pena haja vista o não preenchimento do requisito de não se dedicar a atividades criminosas. Regime carcerário fixado no fechado, por maioria.
+    APELAÇÃO PROVIDA”. (eDOC 2, p. 16)
+    A defesa, então, impetrou habeas corpus no Superior Tribunal de Justiça, postulando, em síntese, a aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas, bem como o abrandamento do regime inicial de cumprimento da reprimenda.
+    A Quinta Turma desse Tribunal Superior não conheceu do pedido nos termos da ementa a seguir transcrita:
+    “HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.
+    1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+    2. O alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+    TRÁFICO DE DROGAS. FALTA DE PROVAS. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ARTIGO 28 DA LEI 11.343/2006. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ESTREITA DO MANDAMUS. LIVRE CONVENCIMENTO MOTIVADO. FUNDAMENTAÇÃO IDÔNEA DO ACÓRDÃO CONDENATÓRIO. COAÇÃO ILEGAL INEXISTENTE.
+    1. A pretendida absolvição ou desclassificação da conduta imputada ao paciente para a infração penal prevista no artigo 28 da Lei 11.343/2006 são questões que demandam aprofundada análise do conjunto probatório produzido em juízo, providência vedada na via estreita do remédio constitucional.
+    2. No processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que o julgador, desde que de forma fundamentada, pode decidir pela condenação, não se admitindo no âmbito do habeas corpus a reanálise dos motivos pelos quais a instâncias ordinárias formou (sic) convicção pela prolação de decisão repressiva em desfavor do acusado.
+    CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ARTIGO 33 DA LEI DE DROGAS. PRETENDIDA APLICAÇÃO. REQUISITOS. NÃO PREENCHIMENTO. INDEFERIMENTO DA MINORANTE JUSTIFICADO.
+    1. Para a incidência do redutor previsto no § 4º do artigo 33 da Lei 11.343/2006, é necessário o preenchimento dos requisitos legais: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades delituosas; e d) não integre organização criminosa.
+    2. No caso, revela-se inviável a aplicação da aludida causa especial de diminuição, tendo em vista que a instância de origem concluiu, fundamentadamente, com esteio nas provas acostadas aos autos, notadamente na folha de antecedentes do réu, que se dedica à atividades criminosas.
+    REGIME INICIAL FECHADO. POSSIBILIDADE. GRAVIDADE CONCRETA DO CRIME. MODO MAIS GRAVOSO JUSTIFICADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+    1. A teor da jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena corporal firmada, devendo-se considerar as demais circunstâncias do caso versado.
+    2. Na espécie, a quantidade e a natureza das drogas apreendidas em poder do paciente justificam a imposição do regime prisional mais severo. Precedentes.
+    3. Habeas corpus não conhecido”.
+    Nesta Corte, a Defensoria Pública do Estado do Rio Grande do Sul insiste na fixação de regime inicial diverso do fechado.
+    Para tanto, afirma:
+    “E não se diga que a quantidade e/ou a qualidade da droga apreendida, 9,5 gramas de crack e 5 gramas de maconha, seja fundamento idôneo à manutenção do regime inicial fechado, valendo trazer à baila precedente do Supremo Tribunal Federal em que a apreensão de 10 pedras de crack não impediu a concessão de ordem para o estabelecimento do regime semiaberto” (eDOC 2, p. 120).
+    Ao final, requer o provimento do presente recurso ordinário, para reformar o acórdão recorrido, de modo a modificar o regime de cumprimento de pena imposta ao recorrente para o semiaberto.
+    A Procuradoria-Geral da República manifestou-se pelo desprovimento do recurso.
+    É o relatório.
+    Passo a decidir.
+    No presente recurso ordinário, a defesa postula o abrandamento do regime inicial de cumprimento de pena fixado ao acusado.
+    Na espécie, o recorrente foi denunciado pela prática do delito descrito no artigo 33, da Lei 11.343/2006, sob a acusação de tráfico de 9,5 gramas de crack e 5 gramas de maconha, tendo sido absolvido pelo Juízo de primeiro grau, mas condenado em sede de apelação, à pena de 5 anos de reclusão em regime inicial fechado, vencido o relator, que estabelecia o regime inicial semiaberto.
+    Observo que o Tribunal de origem realizou a dosimetria da pena nos seguintes termos. Confira-se:
+    “Culpabilidade do acusado, entendida como a ‘reprovação social que o crime e o autor do fato merecem’, não fugiu do ordinário. Inexistem antecedentes. Não há nos autos informações suficientes para aferir a conduta social ou a personalidade do agente. Motivos inerentes à espécie. Como circunstância a destacar, na forma do artigo 42 da Lei n. 11.343/2006 – há a diversidade das drogas apreendidas – maconha e crack -, sendo que a segunda possui natureza muito mais gravosa diante de seu alto poder viciante. Consequências normais ao delito. Vítima, o Estado.
+    Por tais razões, fixo a pena-base em cinco anos e quatro meses de reclusão.
+    Presentes a atenuante de menoridade, reduzo a pena em quatro meses, ficando provisória em cinco anos de reclusão.
+    Não incide no caso concreto a minorante do § 4º do artigo 33 da Lei n. 11.343/2006, haja vista o réu não preencher o requisito de não se dedicar a atividades criminosas, uma vez que sua certidão de antecedentes (fls. 103/104) registra condenação provisória por delito de mesma espécie (…), além de responder a outro processo por tentativa de homicídio qualificado e associação ao tráfico (processo n. 001/2.15.0024470-6), ficando definitiva, portanto, a sua pena em cinco anos de reclusão em regime semiaberto.
+    Fixo a pena de multa em 500 dias-multa à razão de 1/30 do salário mínimo vigente ao tempo do fato.
+    Condenado o acusado ao pagamento das custas processuais.
+    (…) Assim, voto pelo provimento do apelo ministerial para condenar Lucas da Silva Chaves nas sanções do artigo 33 da Lei 11.343/06, aplicando-lhe a pena de cinco anos de reclusão em regime semiaberto e 500 dias-multa à razão de 1/30 do salário mínimo vigente ao tempo do fato.
+    DESª ROSAURA MARQUES BORBA (REVISORA)
+    Com a devida vênia do e. Victor Luiz Barcellos Lima, apresento divergência parcial de seu voto em relação ao regime de cumprimento de pena aplicável ao caso concreto.
+    (…) Contudo, embora reconheça a possibilidade de fixação de regime de cumprimento de pena diverso do fechado, no caso em apreço, tenho que, diante da quantidade de droga apreendida (9,5g de cocaína distribuídas em 45 buchas e 05g de maconha acondicionadas em seis tijolos), mostra-se imperativa a fixação de sanção corporal mais rigorosa (regime fechado), observando-se os termos do art. 59 do CP e especialmente o critério consignado no art. 42 da Lei 11.343/2006, que assim prevê ‘O Juiz, na fixação das penas considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente’.
+    Assim, sopesando o caráter prevalente da legislação específica sobre o artigo 59 do Código Penal, extrai-se que a natureza e a quantidade de drogas são fatores decisivos na fixação do regime de cumprimento de pena, sendo a quantidade apreendida com o acusado suficiente para atingir um número considerável de consumidores, demandando, portanto, maior rigor na fixação da reprimenda penal, de forma a conferir à condenação a consecução das finalidades primordiais da pena, quais sejam a repressão e prevenção.
+    Frente ao exposto, dou provimento ao recurso ministerial, nos termos do voto do relator, divergindo do e. Colega em relação ao regime de cumprimento de pena aplicável ao caso concreto” (eDOC 2, p. 26-28).
+    Como é cediço, para que se determine o regime inicial de cumprimento de pena, há que ser levado em conta dois fatores: a) o quantum da reprimenda imposta (CP, art. 33, § 2º); e b) as condições pessoais do condenado (art. 33, § 3º).
+    Da leitura do acórdão do TJ/RS (Apelação Crime n. 70067022079), verifica-se que, com fundamento na quantidade de droga apreendida (9,5 g de cocaína distribuídas em 45 buchas e 5g de maconha acondicionadas em seis tijolos), foi estipulado regime de cumprimento de pena mais gravoso.
+    Ocorre que a quantidade de drogas apreendida não é expressiva. Ademais, as circunstâncias judiciais do artigo 59 são favoráveis no caso.
+    Razão assiste à defesa, portanto, ao afirmar que o recorrente sofre constrangimento ilegal consistente no indevido cumprimento de pena em regime mais gravoso do que o permitido ao caso concreto.
+    Ante o exposto, dou provimento ao presente recurso ordinário em habeas corpus, apenas para modificar o regime inicial de cumprimento de pena para o semiaberto.
+    Comunique-se ao STJ, ao TJ/RS e ao Juízo de Direito da 10ª Vara Criminal do Foro Central, Comarca de Porto Alegre (Processo n. 001/2.14.0040573-2).
+    Publique-se. Intime-se.
+    Brasília, 23 de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
