@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, II, e 37, caput, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Eis a ementa do acórdão recorrido:
+    “RECURSO DE AGRAVO EM REEXAME NECESSÁRIO. GRATIFICAÇÃO POR EXERCÍCIO DE ATIVIDADE DE INTELIGÊNCIA – GEAI. LEI Nº 13.241/2007. DIFERENCIAÇÃO PELO NÍVEL DE ESCOLARIDADE. AGENTE DA POLÍCIA CIVIL. SUPERVENIÊNCIA DA LC Nº 137/2008. EXIGÊNCIA DE FORMAÇAÕ SUPERIOR PARA O CARGO DE AGENTE DA POLÍCIA. IRRETROATIVIDADE. SÚMULA Nº 339 DO STF. ALTERAÇÃO DOS REQUISITOS PARA ACONCESSÃO DA GEAI PELA LC Nº 187/2011. DIFERENCIAÇÃO PELO CARGO OCUPADO. RECURSO NÃO PROVIDO. DECISÃO UNÂNIME.”
+    Divergir da conclusão da Corte de origem demandaria a análise da legislação infraconstitucional apontada no apelo extremo, bem como o revolvimento do conjunto fático delineado. Logo, torna-se-ia oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE ESCOLARIDADE DE NÍVEL SUPERIOR. EXTENSÃO. PROFESSOR TEMPORÁRIO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. IMPOSSIBILIDADE DE MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NESTA SEDE RECURSAL. ARTIGO 85 DO CPC/2015. AGRAVODESPROVIDO.” (ARE 1004757 Rel. Luiz Fux, DJe 08.11.2016).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO DE CARREIRA POR ESCOLARIDADE. LEIS 7.169/1996 E 7.238/1996 DO MUNICÍPIO DE BELO HORIZONTE/MG. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL.INCIDÊNCIA DA SÚMULA 280 DO STF. CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS VIOLADOS. SÚMULA 284 DO STF. HIPÓTESE DA ALÍNEA C DO PERMISSIVOCONSTITUCIONAL. INADMISSIBILIDADE. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.” (ARE 989354, Rel. Min Luiz Fux, DJe 21.10.2016).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PREENCHIMENTO DE REQUISITOS PARA PERCEPÇÃO DE GRATIFICAÇÃO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO LOCAL E DE PROVAS: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGASEGUIMENTO.” (ARE 888776, Rel. Min Cármen Lúcia, DJe 13.08.2015)
+    Na esteira da Súmula 636/STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de fevereiro de 2017.
+Ministra Rosa Weber
+Relatora
