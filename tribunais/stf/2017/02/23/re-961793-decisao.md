@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina (TJSC) ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO – CONTRATO DE COMPOSIÇÃO DE DÍVIDAS – SENTENÇA DE IMPROCEDÊNCIA - RECURSO DO EMBARGANTE – ALMEJADA EXTINÇÃO DA EXECUÇÃO POR NULIDADE DO TÍTULO EXECUTIVO – INVIABILIDADE – CONTRATO ASSINADO EM BRANCO E PREENCHIDO POSTERIORMENTE DE ACORDO COM OS INTERESSES DO BANCO – AUSÊNCIA DE PROVAS – ÔNUS QUE COMPETIA AO DEVEDOR – TESE DEFENSIVA INACOLHIDA – HONORÁRIOS DO DEFENSOR DATIVO – NOMEAÇÃO QUE OCORREU ANTES DO RECONHECIMENTO DA INCONSTITUCIONALIDADE DA LEI COMPLEMENTAR ESTADUAL N. 155/97 – REMUNERAÇÃO QUE DEVE FIXADA EM URH, SEGUNDO A LEI EXTINTA – MONTANTE CORRETAMENTE FIXADO PELO JUÍZO A QUO – RECURSO DESPROVIDO.
+    I – Inexistindo provas acerca da subscrição do contrato em branco, com o seu posterior preenchimento, não há razão para se acolher a alegação de nulidade do título executivo.
+    II – Tendo a nomeação do defensor dativo ocorrido antes da declaração de inconstitucionalidade da LCE n. 155/97 pelo STF (ADI n. 3892/SC, rel. Min. Joaquim Barbosa, j. Em 14.03.2012), os hornorários devem ser fixados em URH, segundo à tabela constante no anexo único da extinta lei estadual. “(eDOC 7)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “c” e “d”, Texto Constitucional, o recorrente insurge-se contra a validade da LCE 155/1997 em face do § 1º do art. 22 da Lei 8.906/1994 e do art. 5º, LXXIV, da Constituição Federal. (eDOC 9)
+    Nas razões recursais, alega o seguinte:
+    “Frise-se que a decisão do STF somente autorizou por um ano, contados de 2012, a continuidade dos serviços previstos pela LCE nº 155/97. Os honorários, no entanto, foram fixados em 2014! E tiveram fundamento lei inexistente. Pois, ultrapassado o prazo fixado pelo STF, a lei opera efeitos ex tunc, deixando de existir.
+    Ademais, os honorários arbitrados não somente foram insignificantes, desconsideraram decisão pretoriana do STF, violaram lei federal, e avilaram à dignidade do exercício da advocacia” (eDOC 9, p. 6-7)
+    O MPF opinou pelo não seguimento ao recurso. (eDOC 16)
+    Decido.
+    De fato, o recurso não merece prosperar.
+    A despeito da alegação de que os honorários foram fixados após a declaração de inconstitucionalidade da LCE 155/1997, verifico que o acórdão recorrido não se afastou da orientação jurisprudencial firmada pelo Plenário do Supremo Tribunal Federal, no julgamento da ADI 4270, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe 25.9.2012, no sentido de admitir a validade do convênio com a OAB/SC, pelo prazo máximo de um ano da data do julgamento da presente ação.
+    Reproduzo o teor da ementa do julgado:
+    “Art. 104 da constituição do Estado de Santa Catarina. Lei complementar estadual 155/1997. Convênio com a seccional da Ordem dos Advogados do Brasil (OAB/SC) para prestação de serviço de “defensoria pública dativa”. Inexistência, no Estado de Santa Catarina, de órgão estatal destinado à orientação jurídica e à defesa dos necessitados. Situação institucional que configura severo ataque à dignidade do ser humano. Violação do inc. LXXIV do art. 5º e do art. 134, caput, da redação originária da Constituição de 1988. Ações diretas julgadas procedentes para declarar a inconstitucionalidade do art. 104 da constituição do Estado de Santa Catarina e da lei complementar estadual 155/1997 e admitir a continuidade dos serviços atualmente prestados pelo Estado de Santa Catarina mediante convênio com a OAB/SC pelo prazo máximo de 1 (um) ano da data do julgamento da presente ação, ao fim do qual deverá estar em funcionamento órgão estadual de defensoria pública estruturado de acordo com a Constituição de 1988 e em estrita observância à legislação complementar nacional (LC 80/1994).” (acrescido de grifos)
+    Assim, verificada a nomeação em 6.6.2011 (eDOC 7, p. 6), antes da declaração de inconstitucionalidade da Lei Complementar Estadual 155/1996, entendo que a decisão recorrida encontra-se em consonância com a jurisprudência desta Corte, devendo os honorários serem fixados em URH, nos termos da referida lei.
+    Nesse sentido, destaco a seguinte decisão monocrática: ARE 957.238, Rel. Min. Cármen Lúcia, DJe 23.9.2016.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
