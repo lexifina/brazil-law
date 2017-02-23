@@ -1,0 +1,18 @@
+Decisão:
+Ementa: Processual Penal. Habeas corpus. Homicídio qualificado. Prisão preventiva. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 382.950, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi denunciado pelos crimes previstos nos artigos 121, § 2º, I e IV, e 211, ambos do Código Penal. Em 21.09.2016, o Juízo de origem decretou a prisão preventiva do acusado.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 382.950, Ministro Joel Ilan Paciornik, indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência dos requisitos necessários à manutenção da custódia cautelar. Afirma que “o Paciente vai comparecer à audiência de instrução e julgamento, mas não se sente seguro para ficar preso com os demais envolvidos no crime, no mesmo CDP, e ainda que ficasse no conhecido compartimento prisional denominado ‘seguro’, seria deslocado até o Fórum na mesma viatura com os outros, o que certamente lhe resultaria constrangimento, físico ou psicológico, para alinhar seu depoimento com os demais corréus, o que lhe resultaria prejuízos processuais […]. Ele quer comparecer em Juízo e prestar depoimento isento de pressão dos corréus”. Alega, ainda, a ausência de indícios da autoria delitiva.
+    5. Com essa argumentação, a defesa requer a concessão da ordem, a fim de revogar a prisão processual do paciente.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF. A decisão proferida pela autoridade impetrada não se me afigura teratológica ou patentemente desfundamentada. Ademais, dou especial relevância ao fundamento adotado pelo Juízo de origem no sentido de que “Trata-se de crime grave, envolvendo agentes que demonstram periculosidade, obrigando assim, a Autoridade Policial a representar pelas suas prisões, se soltos, poderão influenciar na colheita de provas, delinquir novamente, e não é só, poderão evadir-se do distrito da culpa”.
+    8. Não bastasse isso, a tese de ausência de indícios da autoria delitiva e a alegação de que a proximidade do paciente com os corréus representaria constrangimento ilegal físico ou psicológico, não foram arguidas perante o Tribunal Estadual, nem perante o Superior Tribunal de Justiça. De modo que não é possível o imediato exame dessas matérias, sob pena de dupla supressão de instância.
+    9. Ainda que assim não fosse, a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “A negativa de autoria do delito não é aferível na via do writ, cuja análise se encontra reservada aos processos de conhecimento, nos quais a dilação probatória tem espaço garantido” (HC 122.450, Rel. Min. Luiz Fux, DJe de 20.11.14).
+    10. Diante do exposto, com base no art. 21, §1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+    Brasília, 23 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
