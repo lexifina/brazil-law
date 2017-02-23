@@ -1,0 +1,11 @@
+DESPACHO:
+    1. Em 31.01.2017, determinei que o agravo interno interposto no presente feito fosse incluído em pauta para julgamento virtual. Em razão do requerimento de sustentação oral do advogado da parte agravante, o feito foi destacado, para julgamento em sessão presencial pela Primeira Turma desta Corte. Houve reinclusão em pauta no dia 15.02.2017, com previsão de julgamento para o dia 07.03.2017.
+    2. Em 21.02.2017, o Banco Central do Brasil compareceu ao autos (doc. 123), pleiteando: (i) a retirada do feito da pauta de julgamento, com abertura de oportunidade para apresentação de contraditório; (ii) subsidiariamente, que lhe seja franqueada a oportunidade de sustentação oral na sessão de julgamento do agravo interno; e (iii) que seja reconhecida a perda do objeto da presente reclamação. A parte reclamante concorda expressamente com o pedido de retirada de pauta e intimação para apresentação de contrarrazões ao agravo interno.
+    3. Decido.
+    4. A presente reclamação foi ajuizada em 19.11.2011, durante, portando, a vigência dos arts. 13 a 18 da Lei nº 8.038/1990. Naquela sistemática, a formação de contraditório prévio à decisão de mérito não era imposto, tendo a jurisprudência do STF se desenvolvido no sentido de que a reclamação, antes de atender a direitos subjetivos, visava a garantir a observância da competência e a autoridade das decisões do STF. Nessa linha, o contraditório, embora possível, não constituía requisito de validade das decisões finais. Neste sentido, confiram-se: Rcl 7.904-AgR, Rel. Min. Luiz Fux; Rcl 449-AgR, Rel. Min. Celso de Mello; Rcl 3.375-AgR, Rel. Min. Gilmar Mendes; Rcl 8.478, Rel. Min. Cármen Lúcia; e Rcl 8.197-AgR, Rel. Min. Dias Toffoli; entre outras.
+    5. No entanto, considerando que ambas as partes concordam com a abertura de prazo para a apresentação de contrarrazões ao agravo interno, não vislumbro óbice a tal procedimento.
+    6. Do exposto, retire-se o feito de pauta, intimando-se o BACEN, na pessoa do seu Procurador-Geral, para apresentação de contrarrazões ao agravo, conforme requerido por ambas as partes.
+    Publique-se. Comunique-se, com urgência.
+          Brasília, 23 de fevereiro de 2017.
+Ministro LUÍS ROBERTO BARROSO
+Relator
