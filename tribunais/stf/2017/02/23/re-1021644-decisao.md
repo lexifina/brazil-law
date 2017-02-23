@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de recursos extraordinários interpostos pelo Instituto Nacional do Seguro Social – INSS e por Nelson Antônio Tombini contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE MÉDICO-PERICIAL – GDAMP. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE PERÍCIA MÉDICA PREVIDENCIÁRIA – GDAPMP. EXTENSÃO PARITÁRIA A INATIVOS E PENSIONISTAS. CORREÇÃO MONETÁRIA E JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS.
+    1. O plenário do STF (RE 476.279-0) já decidiu que as gratificações ‘pro labore faciendo’, enquanto não regulamentados os critérios de avaliação do desempenho ou da
+    atividade, revelam natureza de gratificação de caráter geral, devendo ser pagas aos aposentados e pensionistas nos mesmos parâmetros em que são pagas aos servidores ativos.
+    2. No que se refere à GDAMP, diferente do que restou assentado em sentença, esta Corte entende que o Decreto nº 5.700, de 14/02/2006, não teve o condão de afastar o caráter geral da gratificação. Assim, a GDAMP é devida no percentual correspondente ao recebido pelos servidores em atividade também no período de 01-05-2006 até 30-06-2008, não podendo o seu pagamento ser limitado a abril de 2006.
+    3. A GDAPMP é devida até a homologação dos resultados da avaliação de desempenho e implantação do percentual em folha de pagamento, o que ocorreu em maio de 2014.
+    4. A efetiva implantação da avaliação de desempenho, e o consequente fim da paridade no pagamento da gratificação em questão aos inativos, não importa ofensa à irredutibilidade de vencimentos, pois a partir de então a gratificação passa a ser devida em razão do desempenho dos servidores ativos, perdendo seu caráter de generalidade.
+    5. O exame da matéria referente aos juros de mora e correção monetária deve ser diferido para a fase de execução da sentença, conforme já decidiu esta 3ª Turma (Questão de Ordem nº 0019958- -57.2009.404.7000/PR).
+    6. Honorários advocatícios fixados em 10% do valor da condenação, na forma dos parágrafos do artigo 20 do CPC e na esteira dos precedentes desta Turma.
+    7. Apelações e remessa oficial parcialmente providas.”
+    As partes recorrentes sustentam, nos apelos extremos em questão, que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal deduzida pelo Instituto Nacional do Seguro Social. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao apreciar questão constitucional assemelhada à versada na presente causa, acolheu e aprovou proposta de Súmula Vinculante (PSV 42), de que resultou a Súmula Vinculante nº 20, cujo enunciado possui o seguinte conteúdo:
+    “A Gratificação de Desempenho de Atividade Técnico- -Administrativa – GDATA, instituída pela Lei nº 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória nº 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.”
+    Cumpre enfatizar, por necessário, quanto à discussão em torno da extensão, ou não, da Gratificação de Desempenho de Atividade de Perícia Médica Previdenciária (GDAPMP) aos servidores inativos, que se aplicam, “‘mutatis mutandis’, os mesmos fundamentos apresentados acima, uma vez que é manifesta a semelhança da GDAMP e da GDAPMP com a GDATA” (RE 736.818/AL, Rel. Min. RICARDO LEWANDOWSKI).
+    Cabe ressaltar, por relevante, que essa orientação vem sendo observada em decisões que, proferidas no âmbito desta Corte, versaram questão essencialmente idêntica à que ora se examina nesta sede recursal (ARE 939.602/PR, Rel. Min. LUIZ FUX – RE 950.902/DF, Rel. Min. ROSA WEBER, v.g.).
+    De outro lado, no que concerne à pretensão deduzida por Nelson Antônio Tombini, observo que a controvérsia jurídica objeto do recurso extraordinário por ele interposto já foi dirimida por ambas as Turmas do Supremo Tribunal (ARE 881.402-AgR/PR, Rel. Min. TEORI ZAVASCKI – ARE 975.993-AgR/PR, Rel. Min. RICARDO LEWANDOWSKI):
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. EXTENSÃO A INATIVOS DE GRATIFICAÇÕES DE DESEMPENHO. LIMITAÇÃO TEMPORAL. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+    1. O Supremo Tribunal Federal, no julgamento do RE 662.406-RG, Rel. Min. Teori Zavascki, assentou a tese de que o termo final para da extensão a inativos das gratificações de desempenho, tal como a GDASS, a GDAP e a GDATA, nos mesmos percentuais em que concedida aos servidores ativos, é o da data da homologação do resultado das avaliações, após a conclusão do primeiro ciclo de avaliações, não podendo a Administração retroagir os efeitos financeiros.
+    2. Entendimento que não viola o princípio da irredutibilidade de vencimentos.
+    3. Agravo interno a que se nega provimento,com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.”
+    (ARE 881.698-AgR/RS, Rel. Min. ROBERTO BARROSO)
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Gratificação de Desempenho de Atividade Médico-Pericial (GDAMP). Manutenção da pontuação após a adoção dos critérios de avaliação. Impossibilidade. Ofensa ao princípio da irredutibilidade de vencimentos. Não ocorrência. Precedentes.
+    1. A jurisprudência da Corte assentou que o direito à paridade dos servidores inativos ocorre somente até que sejam processados os resultados das primeiras avaliações de desempenho.
+    2. A partir da conclusão do primeiro ciclo das avaliações, a gratificação assume a natureza ‘pro labore faciendo’, não havendo falar em ofensa ao princípio da irredutibilidade de vencimentos.
+    3. Agravo regimental não provido.”
+    (ARE 925.318-AgR/PR, Rel. Min. DIAS TOFFOLI)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou na análise das matérias em referência.
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento aos recursos extraordinários, por acharem-se em confronto com entendimento firmado por esta Suprema Corte.
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recursos deduzidos contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 23 de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
