@@ -1,0 +1,17 @@
+DECISÃO: José Resende, ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o acórdão proferido pelo E. Tribunal Regional Federal da 3ª Região teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 564.354/SE, Rel. Min. CÁRMEN LÚCIA, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “DIREITOS CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ALTERAÇÃO NO TETO DOS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA. REFLEXOS NOS BENEFÍCIOS CONCEDIDOS ANTES DA ALTERAÇÃO. EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. DIREITO INTERTEMPORAL: ATO JURÍDICO PERFEITO. NECESSIDADE DE INTERPRETAÇÃO DA LEI INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA IRRETROATIVIDADE DAS LEIS. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    1. Há pelo menos duas situações jurídicas em que a atuação do Supremo Tribunal Federal como guardião da Constituição da República demanda interpretação da legislação infraconstitucional: a primeira respeita ao exercício do controle de constitucionalidade das normas, pois não se declara a constitucionalidade ou inconstitucionalidade de uma lei sem antes entendê-la; a segunda, que se dá na espécie, decorre da garantia constitucional da proteção ao ato jurídico perfeito contra lei superveniente, pois a solução de controvérsia sob essa perspectiva pressupõe sejam interpretadas as leis postas em conflito e determinados os seus alcances para se dizer da existência ou ausência da retroatividade constitucionalmente vedada.
+    2. Não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional.
+    3. Negado provimento ao recurso extraordinário.”
+    Cumpre destacar, por oportuno, que, tratando-se de benefício concedido antes da Constituição/88, esta Suprema Corte tem aplicado esse mesmo entendimento, como se observa em sucessivos julgamentos (ARE 973.201/RJ, Rel. Min. MARCO AURÉLIO – ARE 1.016.011/RJ, Rel. Min. DIAS TOFFOLI – RE 937.578/SP, Rel. Min. LUIZ FUX, v.g.):
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. RGPS. REVISÃO DE BENEFÍCIO. TEMA 76 DA REPERCUSSÃO GERAL. BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO FEDERAL. IRRELEVÂNCIA.
+    1. Verifico que a tese do apelo extremo se conforma adequadamente com o que restou julgado no RE-RG 564.354, Rel. Min. Cármen Lúcia, DJe 15.02.2011, não havendo que se falar em limites temporais relacionados à data de início do benefício.
+    2. Agravo regimental a que se nega provimento.”
+    (RE 959.061-AgR/SP, Rel. Min. EDSON FACHIN)
+    O exame da presente causa evidencia que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e pelas razões expostas, dou provimento ao recurso extraordinário (CPC/15, art. 932, VIII, c/c o RISTF, art. 21, § 1º), em ordem a restabelecer a sentença proferida pela ilustre magistrada de primeira instância.
+    Publique-se.
+    Brasília, 23 de fevereiro de 2017.
+Ministro CELSO DE MELLO
+Relator
