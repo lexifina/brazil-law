@@ -1,0 +1,24 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5°, XXXV e LIV, 37, X e XIII, e 93, IX, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Da leitura dos fundamentos do acórdão prolatado na origem, constato explicitados os motivos de decidir, a afastar o vício da nulidade por negativa de prestação jurisdicional arguido. Destaco que, no âmbito técnico-processual, o grau de correção do juízo de valor emitido na origem não se confunde com vício ao primado da fundamentação, notadamente consabido que a disparidade entre o resultado do julgamento e a expectativa da parte não sugestiona lesão à norma do texto republicano. Colho precedente desta Suprema Corte na matéria, julgado segundo a sistemática da repercussão geral:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI 791.292-QO-RG, Relator Ministro Gilmar Mendes, Plenário Virtual, DJe 13.8.2010).
+    Verifico que no julgamento do RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, decidiu-se pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do devido processo legal, do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, cuja ementa transcrevo:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Cito precedentes:
+    “DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL. LEGISLAÇÃO ESTADUAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 25.3.2013.
+    Divergir do entendimento do Tribunal a quo no tocante à controvérsia acerca de progressão da percepção de Gratificação de Atividade Policial – GAP demandaria a análise da legislação local aplicável à espécie, inviável nesta sede recursal extraordinária. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário.” Precedentes.
+    Agravo regimental conhecido e não provido.” (ARE 785.847-AgR, de minha lavra, 1ª Turma, DJe 10.4.2014)
+    “Agravo regimental no recurso extraordinário com agravo. Servidor público. Militar. Gratificação por Atividade Policial (GAP). Reajuste no mesmo percentual aplicado ao soldo. Incidência da Súmula 280/STF. Precedentes.
+    1. Não se abre a via do recurso extraordinário à análise de matéria ínsita ao plano normativo local. Incidência da Súmula nºs 280/STF.
+    2. Agravo regimental não provido.” (ARE 868.449-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.8.2015)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de fevereiro de 2017.
+Ministra Rosa Weber
+Relatora
