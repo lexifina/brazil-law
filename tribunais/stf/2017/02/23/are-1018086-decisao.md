@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 1, p. 232-234):
+    CRIMES CONTRA O PATRIMÔNIO – FURTO QUALIFICADO E ESTELIONATO – RECONHECIMENTO DO PRIVILÉGIO – ART. 155, §2º, DO CÓDIGO PENAL – POSSIBILIDADE – CONCURSO FORMAL DE CRIMES – APLICAÇÃO DO ARTIGO 72 DO CP.
+    I – Consoante jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal, a figura privilegiadora prevista no §2º do artigo 155 do Código Penal é conciliável com a hipótese de furto qualificado.
+    II – Considerando o reconhecimento do concurso formal nos delitos praticados pela apelante, as sanções pecuniárias devem ser aplicadas distintas e integralmente, sendo, portanto, somadas.
+    PENAL – FURTO E ESTELIONATO – ABSOLVIÇÃO – IMPOSSIBILIDADE – AUTORIA E MATERIALIDADE COMPROVADAS – AFASTAMENTO DA QUALIFICADORA – DESCABIMENTO – CONCURSO EVIDENCIADO – RECONHECIMENTO DO PRIVILÉGIO DO DELITO DE FURTO – INADMISSIBILIDADE – DELITO QUALIFICADO – PRIVILÉGIO NO DELITO ESTELIONATO – POSSIBILIDADE – REDUÇÃO DA PENA CORPORAL E DA DE MULTA – NECESSIDADE – AUMENTO PELO CONCURSO FORMAL – NÚMERO DE DELITOS – PRINCÍPIO DA PROPORCIONALIDADE – ALTERAÇÃO DA PRESTAÇÃO DE SERVIÇO À COMUNIDADE – CABIMENTO – APELANTE APOSENTADORIA POR INVALIDEZ – REDUÇÃO DA PRESTAÇÃO PECUNIÁRIA – POSSIBILIDADE – FIXAÇÃO EM CONSONÂNCIA COM AS CONDIÇÕES DA RÉ – DESTINAÇÃO PRIMEIRAMENTE À VÍTIMA – RECURSO PARCIALMENTE PROVIDO. 1.Encontrando-se comprovadas a autoria e a materialidade dos delitos de furto e estelionato, impõe-se a condenação. 2. Mantém-se a qualificadora do concurso de pessoas eis que devidamente evidenciado o liame subjetivo entre as envolvidas. 3. Inviável é o reconhecimento do privilégio do §2º do artigo 155 do Código Penal quando o furto é qualificado pelo concurso de agentes, estando todavia preenchidos os requisitos para o reconhecimento em relação ao delito de estelionato. 4. Reduz-se a pena corporal porquanto o aumento pelo concurso formal deve observar o número de delitos praticados, reduz-se também a pena de multa eis que esta deve ser fixada em consonância com a pena corporal em observância ao princípio da proporcionalidade. 5. Altera-se a pena restritiva de prestação de serviço à comunidade quando comprovada a incapacidade da ré de cumpri-la. 6. Observando-se a condição financeira da apelante a pena de prestação pecuniária deve ser reduzida. 7. Existindo vítima no delito, a pena restritiva de direitos consistente em prestação pecuniária deve ser destinada a ela ou aos seus dependentes nos termos do artigo 45, §1º, do Código Penal. 8. Recurso parcialmente provido.
+    Os embargos de declaração opostos restaram rejeitados.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos princípios constitucionais da presunção da inocência e da dignidade da pessoa humana. Busca-se a absolvição por insuficiência de provas.
+    A Terceira Vice-Presidência do TJMG inadmitiu o recurso sob o fundamento de que a matéria implica rediscussão de questão fático-probatória (Súmula 279 do STF).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem confirmou o decretório condenatório com base no acervo probatório dos autos, tendo consignado o seguinte (eDOC 1, p. 245):
+    “Os elementos probatórios colhidos comprovam portanto que a apelante praticou o delito de furto e de estelionato em desfavor da vítima.
+    A defesa alega que a palavra da vítima se encontra isolada, não merecendo esta ainda credibilidade.
+    Razão contudo não socorre a defesa pois as declarações da vítima se encontram em harmonia com a prova acostada aos autos, inexistindo razão ademais para desacreditá-la.
+    A palavra da vítima merece assim credibilidade especialmente quando descreve com riqueza de detalhes o modus operandi e reconhece o agente que praticou a ação criminosa vez que seu único interesse é identificar o culpado.”
+    Dessa forma, eventual divergência em relação ao entendimento adotado pelo Juízo a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 23 de fevereiro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
