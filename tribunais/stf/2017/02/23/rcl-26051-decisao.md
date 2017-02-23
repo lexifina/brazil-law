@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de reclamação, com pedido liminar, ajuizada em face de decisão do Tribunal Regional Federal da 1ª Região que inadmitiu recurso extraordinário interposto nos autos nº 89-07.2014.4.01.3803, nos seguintes termos:
+    “Inicialmente, não se admite o recurso extraordinário por falta do necessário prequestionamento, quando a matéria constitucional, submetida à apreciação judicial no momento processual oportuno, não foi decidida no julgado impugnado e não foram opostos embargos de declaração para sanar eventual omissão, ainda que na ofensa tenha surgido no acórdão recorrido. Incidência das Súmulas 282 e 356 do STF: ‘É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada’ e ‘o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento’ (cf. STJ, AgR no AI 646.853, Ministra Cármen Lúcia, Primeira Turma, DJ de 13/02/2009; ARE 781.798-AgR, Ministro Ricardo Lewandowski, Segunda Turma, DJ de 14/04/2014).
+    Ademais, a controvérsia sub judice foi decidida com fundamento em texto normativo infraconstitucional (Súmula n. 421/STJ). Por isso, eventual ofensa à Constituição opera-se de forma indireta, circunstância que inviabiliza a admissão do extraordinário (AgR no AI n 145.680/SP, Ministro Celso de Mello, DJ de 30.4.93; AgR no AI n. 157.906/SP, Ministro Sydney Sanches, DJ de 9.12.94; RE n. 148.512/SP, Ministro Ilmar Galvão, DJ de 2.8.96; AgR no RE n. 197.773/CE, Ministra Ellen Gracie, DJ de 19.10.01; AgR no AI n. 757.658/PB, Ministro Eros Grau, DJ de 24.11.09; AgR no ARE n. 718.275/RS, Ministro Luiz Fux, 1ª Turma, DJ de 22.10.2013).
+    Ante o exposto, não admito do recurso extraordinário”.
+    A parte reclamante sustenta ter sido descumprida a medida cautelar por mim deferida na Rcl 23.017, na qual determinei à Presidência do TRF da 1ª Região que não inadmitisse “o recurso extraordinário interposto pela parte reclamante no processo de origem (nº 0000089-07.2014.4.01.3803), desde que não haja óbice diverso da negativa de repercussão geral do tema no RE 592.730”.
+    É o relatório. Decido.
+    Estando o feito suficientemente instruído, dispenso as informações, bem como o parecer ministerial, diante do caráter reiterado da matéria (art. 52, parágrafo único, do RI/STF).
+    Apreciando a medida cautelar na Rcl 23.017, determinei que a autoridade reclamada não fizesse incidir nos autos de origem os efeitos da ausência de repercussão geral com base no tema 134, tendo em vista a superveniência das Emendas Constitucionais nº 74/2013 e 80/2014. Por outro lado, aquela decisão não inviabilizou regular juízo de admissibilidade do recurso extraordinário, o que foi realizado pela decisão ora reclamada. Ressalta-se que decisão que inadmite recurso extraordinário é impugnável pela via do agravo do art. 1.042 do CPC/15.
+    Não houve, assim, afronta ao decidido na Rcl 23.017-MC.
+    Do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    Publique-se.
+    Apense-se o presente feito à Rcl 23.017.
+    Brasília, 23 de fevereiro de 2017.
+Ministro LUÍS ROBERTO BARROSO
+Relator
