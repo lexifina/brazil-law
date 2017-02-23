@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. TEMPO DE SERVIÇO PRESTADO A EMPRESA PÚBLICA. AVERBAÇÃO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. VIOLAÇÃO AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. ALEGADA OFENSA AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. RECURSO EXTRAORDINÁRIO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que possui a seguinte ementa:
+    "ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. TEMPO DE SERVIÇO PRESTADO A AUTARQUIA ENQUANTO CELETISTA. PRESCRIÇÃO. INOCORRÊNCIA. EMPRESA PÚBLICA. PERSONALIDADE JURÍDICA DE DIREITO PRIVADO. IMPOSSIBILIDADE DE CONTAGEM COMO TEMPO DE SERVIÇO PÚBLICO FEDERAL. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. 1. O tempo de serviço prestado por servidor público federal em empresa pública somente é contado para efeitos de aposentadoria e disponibilidade (arts. 103 da Lei n.º 8.112/90 e 173, § 1º, II, da CF/88). 2. Juros de mora fixados em 6% ao ano. 3. Honorários advocatícios arbitrados em atenção aos parâmetros estabelecidos no art. 20, §§ 3º e 4º, do CPC." (doc. 2, fl. 60)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, LIV, 37, 39, 40, 41 93, IX e 172 da Constituição Federal.
+    É o relatório. DECIDO.
+    O recurso não merece provimento.
+    Os princípios da ampla defesa, do contraditório e do devido processo legal, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, Tema 660, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Demais disso, o tempo de serviço prestado em empresa pública, quando sub judice a controvérsia sobre a sua averbação, não viabiliza o acesso à via recursal extraordinária, por envolver discussão de tema de caráter infraconstitucional. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Servidor Público. Adicional por tempo de serviço. Contagem de tempo de serviço prestado em empresas públicas e em sociedades de economia mista para fins de concessão da gratificação. Matéria de índole infraconstitucional. Ofensa reflexa à Constituição. Súmula 280/STF. Precedentes. 3. Agravo regimental a que se nega provimento.”  (ARE 719.532-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 22/5/2014)
+    Relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 23 de fevereiro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
