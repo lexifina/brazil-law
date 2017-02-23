@@ -1,0 +1,24 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Mardony Cunha Sardinha, contra acórdão, do Superior Tribunal de Justiça, que negou provimento ao RHC 76.834/MG.
+    Inobstante o deferimento de sua progressão ao regime semiaberto, o paciente foi mantido em regime fechado ante a inexistência de vaga em estabelecimento prisional compatível. Irresignada, a Defesa manejou pedido de prisão domiciliar ao Juízo da Vara de Execução Penal da Comarca de Igarapé, que indeferiu o pleito.
+    Contra essa decisão, a Defesa impetrou habeas corpus perante o Tribunal de Justiça de Minas Gerais, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que negou provimento ao RHC 76.834/MG.
+    No presente writ, o Impetrante insurge-se contra a manutenção indevida do paciente em regime prisional mais gravoso (fechado), após o deferimento de progressão ao regime semiaberto. Defende excesso de execução. Requer, em medida liminar e no mérito, a transferência do paciente para estabelecimento prisional compatível com o regime semiaberto e, sucessivamente, a concessão do regime aberto.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “EXECUÇÃO PENAL. RECURSO EM HABEAS CORPUS. REGIME SEMIABERTO. CUMPRIMENTO DA PENA EM ESTABELECIMENTO PRISIONAL SEPARADO DOS DEMAIS PRESOS. ART. 82, § 2º, DA LEP. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+    1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+    2. In casu, o Juízo das Execuções Penais consignou, no decisum que indeferiu a prisão domiciliar, verbis: [...] Na Comarca de Igarapé, diante da inexistência de estabelecimento penal dessa natureza, tanto os presos que iniciam o cumprimento da pena no regime semiaberto, quanto aqueles que adquirem o direito ao regime através da progressão, fazem jus ao trabalho externo ou freqüência a cursos profissionalizantes e, após apresentação de proposta de trabalho ou matrícula em instituição de ensino, são autorizados a ausentar-se do estabelecimento prisional para o exercício do oficio ou estudo, retornando à unidade prisional onde permanecem recolhidos tão somente no período noturno e aos domingos e feriados. Dessa maneira, por entender que, no caso, a falta de vagas em Colônia Agrícola ou Industrial não traz prejuízos ao reeducando na medida em que a inexistência de estabelecimento adequado para o trabalho interno é compensada com a autorização para o exercício do trabalho fora da unidade prisional, conclui-se que o sentenciado deverá cumprir o estágio de transição necessário para o alcance do direito à progressão para o regime aberto. [...]
+    3. O Tribunal de origem, por não vislumbrar constrangimento ilegal, denegou a ordem lá impetrada.
+    4. Com efeito, consolidou-se nesta Corte Superior de Justiça entendimento de que, se o apenado encontra-se alojado em pavilhão independente e autônomo de estabelecimento destinado ao regime fechado, sem ligação física com o restante do presídio, prestando trabalho externo e usufruindo de saídas temporárias, segundo as regras do regime semiaberto, não há constrangimento ilegal a ser sanado, uma vez que o reeducando não se encontra cumprindo pena em regime mais rigoroso do que o devido.
+    5. Recurso em habeas corpus não provido”.
+     Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão exarado pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para rechaçar a tese defensiva.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com a imediata transferência do paciente de estabelecimento prisional ou sua progressão para o regime aberto.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colha-se, em caráter de urgência, informações perante ao Juízo da Vara de Execução Penal da Comarca de Igarapé sobre a atual situação do paciente, devendo encaminhar cópia das peças que reputar relevantes.
+    Após, ao Ministério Público Federal para parecer.
+    Publique-se.
+    Brasília, 23 de fevereiro de 2017.
+Ministra Rosa Weber
+Relatora
