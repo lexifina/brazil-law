@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, que concedeu a extensão da gratificação denominada Prêmio por Desempenho Fazendário (PDF) aos inativos.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 40, § 8º; 97; e 167, IV, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que incide, no caso, a Súmula 280/STF.
+    O recurso extraordinário não deve ser provido, tendo em vista que o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal.
+    O Tribunal de origem entendeu que a hipótese seria de gratificação dotada de caráter genérico, o que imporia a sua extensão aos servidores inativos que preencham os requisitos legais. Vale dizer: aqueles que tenham se aposentado antes da edição da Emenda Constitucional nº 41, de 19 de dezembro de 2003, ou que, nos termos de seu art. 3º, já tivessem reunido as condições para tanto.
+    Desse modo, para dissentir desse entendimento, e concluir de maneira diversa, além do reexame dos fatos e do material probatório constantes dos autos, seria necessária a análise de norma estadual pertinente (Lei estadual nº 7.800/2001 e Decreto estadual nº 7.907/2011), providências inviáveis neste momento processual. Nessas condições, aplicam-se as Súmulas 279 e 280/STF.
+     Nesse sentido, e sobre a mesma controvérsia, vejam-se os seguintes precedentes: ARE 743.788, julgado sob a relatoria do Min. Dias Tofolli; ARE 666.011, julgado sob a relatoria do Min. Ricardo Lewandowski; ARE 664.985-AgR, julgado sob a relatoria do Min. Luiz Fux; e AI 839.622-AgR, julgado sob minha relatoria, este último assim ementado:
+     “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRÊMIO DE DESEMPENHO FAZENDÁRIO (PDF). EXTENSÃO A SERVIDORES INATIVOS. DISCUSSÃO ACERCA DA NATUREZA JURÍDICA DO BENEFÍCIO. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280/STF. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PRECEDENTES.
+    Em casos análogos, a jurisprudência do Supremo Tribunal Federal afastou o cabimento do recurso extraordinário, tendo em vista que o deslinde da controvérsia depende do exame prévio da legislação local aplicável à espécie (Súmula 280/STF). Precedentes.
+    A tese de violação ao art. 97 da CF/88 e à Súmula Vinculante nº 10, levantada pelo agravante, não faz parte das razões do recurso extraordinário e que não foi discutida pelo Tribunal de origem, sendo suscitada somente nesta via recursal. Constitui-se, portanto, em inovação insuscetível de apreciação neste momento processual. Precedentes.
+    Agravo regimental a que se nega provimento.”
+    Quanto à alegada violação ao art. 97 da Constituição, a jurisprudência desta Corte é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Nessa linha, veja-se a ementa do ARE 723.052, julgado sob relatoria do Ministro Marco Aurélio:
+    “RECURSO EXTRAORDINÁRIO RESERVA DE PLENÁRIO. Descabe confundir reserva de plenário artigo 97 da Constituição Federal com interpretação de normas legais. RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 23 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
