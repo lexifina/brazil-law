@@ -1,0 +1,27 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido ao Tribunal de Justiça do Estado de São Paulo para que se cumprisse o disposto no art. 543-B do CPC/73, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral, pelo tema 92, cujo paradigma é o RE-RG 585.535, Rel. Min. Ellen Gracie, DJe 1.8.2008. (eDOC 5)
+    Encaminhados os autos ao Tribunal de origem, este devolveu o processo ao STF, ao fundamento de que:
+    “Em havendo dúvida quanto à inserção no caso em análise do “leading case” nº 585.535/SP, indicado na decisão retro, porquanto o acórdão de fls. 298/303 julgou extinta a ação sem resolução de mérito, nos termos do art. 267, VI, d CPC, em virtude da ilegitimidade passiva para reclamar as diferenças de ICMS que recolheu, afigura-se necessária a obtenção do pronunciamento da Corte Suprema. Devolvam-se, pois, os autos ao Colendo Supremo Tribunal Federal”. (eDOC 8, p. 241 )
+    Após detida análise dos autos, verifico que o assunto versado no apelo extremo é diverso da matéria tratada no tema, razão pela qual torno sem efeito a decisão constante do eDOC 5, e passo a analisar o presente recurso.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “ILEGITIMIDADE “AD CAUSAM” - Ação declaratória – ICMS – Pretensão da autora de se ver autorizada a creditar valores que pagou indevidamente à ré, relativos à majoração da alíquota de 17% para 18% - Recolhimento que foi repassado ao consumidor final (CTN, art. 166) – Inadmissibilidade – Causa que se refere a valores efetivamente recolhidos, não havendo que se falar em creditamento – ilegitimidade ativa reconhecida – Extinção do processo sem resolução do mérito (art. 267, VI, CPC)”. (eDOC 3, p. 49)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 155, § 2º; 167, IV, do texto constitucional. (eDOC 3, p. 61)
+    Nas razões recursais, aduz, em síntese, a inaplicabilidade do art. 166 do CTN.
+    O Tribunal de origem inadmitiu o recurso com base na Súmula 279 do STF. (eDOC 33)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifico que o Tribunal de origem decidiu a controvérsia com base na legislação infraconstitucional (CTN):
+    “Não há como reconhecer o direito da apelante de registrar, em seus livros fiscais, os créditos do recolhimento decorrente da majoração da alíquota do ICMS de 17% para 18%, conforme se verifica do pedido aduzido na inicial. É que o tributo recolhido a maior foi repassado ao consumidor final, ou seja, ao contribuinte de fato, daí que ela não tem direito ao que recolheu a maior (CTN, art. 166), sob pena de ocorrer enriquecimento ilícito.
+    Trata-se de imposto cuja carga tributária não é suportada pelo contribuinte legal, porque embutida no produto e repassado ao adquirente deste, contribuinte de fato. E, visto que não há prova de que a apelante não haja repassado o encargo financeiro do imposto para o preço dos produtos, é razoável supor que acabou transferindo para os adquirentes tal ônus.
+    Ademais tampouco demostrou possuir a autorização mencionada no dispositivo em comento. Destarte, fata à autora legitimidade ativa para reclamar as diferenças de ICMS que recolheu”. (eDOC 3, p. 51-52)
+    Com efeito, registro que a jurisprudência deste Tribunal firmou-se no sentido de ser infraconstitucional a controvérsia quanto à legitimidade processual de contribuinte de fato para questionar a aplicação da legislação tributária cujo ônus financeiro suporta e repetir o possível indébito.
+    A propósito, anoto que no julgamento do RE-RG 753.681, recurso paradigma do tema 752 da sistemática da repercussão geral, rel. Min. Teori Zavascki, DJe 28.8.2014, a Corte decidiu que não haveria questão constitucional na controvérsia. Transcrevo sua ementa:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. ICMS SOBRE A ENERGIA ELÉTRICA. REPETIÇÃO DE INDÉBITO. LEGITIMIDADE ATIVA DO CONSUMIDOR FINAL. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à legitimidade ativa do consumidor final para ajuizar ação de repetição de indébito de ICMS sobre a energia elétrica, fundada na interpretação do art. 166 do CTN, é de natureza infraconstitucional”.
+    Sobre esse aspecto, entre outros, confiram-se os seguintes precedentes: AI-AgR 788.583, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 7.2.2011; AI-AgR 587.447, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 28.5.2010; AI-AgR 503.463, Rel. Min. Ayres Britto, Primeira Turma, DJ 27.10.2006; AI-ED 487.903, Rel. Min. Cármen Lúcia, Primeira Turma, DJ 16.2.2007. Este último foi assim ementado:
+    “EMBARGOS DE DECLARAÇÃO CONVERTIDOS EM AGRAVO REGIMENTAL. TRIBUTÁRIO. ICMS. LEI N. 6.556/80 DO ESTADO DE SÃO PAULO. MAJORAÇÃO DE ALÍQUOTA DE 17% PARA 18%. INCONSTITUCIONALIDADE. PRECEDENTE. NULIDADE DE CERTIDÃO DE DÍVIDA ATIVA. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL DESPROVIDO”.
+    Ante o exposto, torno sem efeito a decisão constante do eDOC 5 e nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
