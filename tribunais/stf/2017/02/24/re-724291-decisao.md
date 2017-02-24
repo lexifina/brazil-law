@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LOCAIS – INVIABILIDADE – RECURSO DESPROVIDO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado do Rio Grande do Sul consignou, em síntese (folha 134 a 144):
+    APELAÇÃO CÍVEL. SAÚDE PÚBLICA. SEQUELAS DE DOENÇAS CEREBROVASCULARES (CID I 69.8). FORNECIMENTO DE FRALDAS DESCARTÁVEIS e DOS medicamentos PENTOXIFILINA, NIMODIPINO e DECADRON. DIREITO DE TODOS E DEVER DO ESTADO – ART. 196, CF. LEGITIMIDADE PASSIVA DO ESTADO. OBRIGAÇÃO SOLIDÁRIA ENTRE A UNIÃO, ESTADOS E MUNICÍPIOS. ESCASSEZ DE RECURSOS PÚBLICOS. IMPOSSIBILIDADE. BLOQUEIO DE VALORES em conta bancária para o caso de descumprimento de decisão judicial. CABIMENTO.
+    1) O Estado do Rio Grande do Sul é parte legítima para figurar no pólo passivo de demanda em que alguém pleiteia o fornecimento de medicamentos e fraldas descartáveis, uma vez que há obrigação solidária entre a União, Estados e Municípios.
+    2) Os serviços de saúde são de relevância pública e de responsabilidade do Poder Público. Necessidade de preservar-se o bem jurídico maior que está em jogo: a própria vida. Aplicação dos arts. 5º, § 1º; 6º e 196 da Constituição Federal. É direito do cidadão exigir e dever do Estado fornecer medicamentos e materiais indispensáveis à sobrevivência, quando o cidadão não puder prover o sustento próprio sem privações. Presença do interesse de agir pela urgência do tratamento pleiteado.
+    3) A própria Carta Constitucional impõe o dever de proceder à reserva de verbas públicas para atendimento à demanda referente à saúde da população, bem maior dentre aqueles que lhe incumbe zelar, descabendo sustentar ausência de destinação de recurso para desobrigar-se.
+    4) Desrespeitada a ordem judicial para fornecimento dos medicamentos e das fraldas descartáveis, cabível o bloqueio do respectivo valor em conta bancária, como forma de garantir a efetividade das decisões judiciais.
+    APELO DESPROVIDO. UNÂNIME.
+    Nas razões do extraordinário, o recorrente afirma violado o artigo 196 da Constituição Federal. Aduz que o fornecimento de fraldas descartáveis não está no âmbito do direito à saúde regulado pelo preceito constitucional, não existindo, por isso, a obrigação do Estado em provê-las.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Colho do acórdão o seguinte trecho:
+    É evidente a legitimidade do ESTADO DO RIO GRANDE DO SUL para figurar na demanda e o dever de fornecer as FRALDAS DESCARTÁVEIS e os medicamentos PENTOXIFILINA, NIMODIPINO e DECADRON, razão do autor ser portador de SEQUELAS DE DOENÇAS CEREBROVASCULARES (CID I 69.8). Em feitos similares, já se argumentou que a repartição de responsabilidades feita entre os entes municipais, estaduais e a União não é oponível aos cidadãos e às pessoas que, de um modo geral, necessitem de medicamentos e/ou materiais de higiene.
+    Essa foi a óptica adotada, pela Primeira Turma do Supremo, ao examinar o tema no agravo regimental em recurso extraordinário nº 635.363, de minha relatoria, julgado em 8 de maio de 2012.
+    Acresce que a controvérsia sobre o alcance das normas estaduais – Lei nº 9.908, de 1993 –, não viabiliza, conforme sedimentado pela jurisprudência – verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário –, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio juízo de origem.
+    No mais, conforme preceitua o artigo 196 da Carta Federal, consubstancia dever do Estado a saúde, garantindo a redução do risco de doença, implementando ações e serviços para a respectiva promoção. O Estado União, Estados propriamente ditos, ou seja, unidades federadas, e Municípios deve aparelhar-se para a observância irrestrita dos ditames constitucionais, não cabendo tergiversar mediante escusas relacionadas com a deficiência de caixa.
+    3. Ante o quadro, conheço do recurso e o desprovejo.
+    4. Publiquem.
+Brasília, 24 de fevereiro de 2017.
+Ministro MARCO AURÉLIO
+Relator
