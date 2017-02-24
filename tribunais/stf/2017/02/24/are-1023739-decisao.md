@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão cuja ementa transcrevo abaixo:
+    “PREVIDENCIÁRIO. DECISÃO MONOCRÁTICA EM AUTOS DE EMBARGOS À EXECUÇÃO. AGRAVO LEGAL. ART. 557 DO CPC. MANUTENÇÃO DO JULGADO AGRAVADO. 1 - Nos termos do artigo do art. 557, ‘caput’ e parágrafo 1º-A, do Código de Processo Civil, cabe ao relator o julgamento monocrático do recurso, negando-lhe seguimento quando se manifeste inadmissível, improcedente, prejudicado ou para lhe dar provimento se a decisão recorrida estiver em manifesto confronto com súmula ou jurisprudência do respectivo tribunal ou dos tribunais superiores. 2 - Inviabilidade do agravo legal quando constatada, de plano, a improcedência da pretensão recursal, mantidos os fundamentos de fato e de direito do julgamento monocrático, que bem aplicou o direito à espécie. 3 - Agravo legal desprovido.”. (eDOC 1, p. 184)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos artigos 5º, XXXV; 194, caput, parágrafo único, V e VI; 195, caput; e 201, § 7º, do texto constitucional.
+    Nas razões recursais, alega-se que a parte recorrida fez a opção pela aposentadoria concedida administrativamente, e, por isso, não teria direito ao recebimento de parcelas vencidas relativas a benefício concedido judicialmente.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie e o conjunto probatório constante dos autos, entendeu que a parte recorrente possui o direito à liquidação de saldo devedor referente a parcelas atrasadas de benefício previdenciário concedido judicialmente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Com relação ao benefício concedido administrativamente (fls. 191-196), com pagamentos iniciados em 20.5.2005, é de se notar que o segurado auferiu os valores pagos pelo Instituto, tendo verificado serem mais vantajosos em relação ao deferido judicialmente.
+    Destarte, partindo-se da premissa processual básica de que a execução dos julgados deve total e estrita obediência ao que ficou determinado na ação de conhecimento, não merece reforma a r. sentença, pois devida a apuração das diferenças decorrentes das rendas mensais do benefício judicialmente concedido; não há o recebimento dúplice, mantidos destarte, os proventos administrativamente deferidos (...)”. (eDOC 1, p. 152)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas desta Corte:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. DIREITO ADQUIRIDO AO BENEFÍCIO MAIS VANTAJOSO. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. OMISSÃO. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO DESPROVIDOS”. (ARE 718.047-AgR/ED, Rel. Min. Luiz Fux, Primeira Turma, DJe 25.9.2015)
+    “Agravo regimental no recurso extraordinário. 2. Direito Previdenciário. Direito adquirido ao melhor benefício previdenciário. 3. Acórdão do Tribunal a quo concluiu que a revisão causaria prejuízo ao autor. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279 do STF. 4. Agravo que não impugna fundamentos da decisão de inadmissibilidade. Súmula 287 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 778.636-AgR/RS, da minha relatoria, Segunda Turma, DJe 29.02.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
