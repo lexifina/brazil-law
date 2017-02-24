@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVO INTERNO EM FACE DA DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECURSO DE AGRAVO DE INSTRUMENTO INTERPOSTO PELA PARTE ORA AGRAVANTE. DECISÃO QUE ACOLHEU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE, PARA EXCLUIR A ORA AGRAVANTE DO POLO PASSIVO DA EXECUÇÃO FISCAL. MANUTENÇÃO. LIMITAÇÃO ÀS QUESTÕES DE ORDEM PÚBLICA, COGNOSCÍVEIS DE OFÍCIO, SEM NECESSIDADE DE CONTRADITÓRIO E DILAÇÃO PROBATÓRIA. HIPÓTESE QUE SE EVIDENCIA DO PRESENTE CASO. ILEGITIMIDADE PASSIVA DEMONSTRADA. SUCESSÃO TRIBUTÁRIA QUE NÃO SE PRESUME. INTELIGÊNCIA DO ARTIGO 133 DO CÓDIGO TRIBUTÁRIO NACIONAL. NECESSIDADE DE PROVA INEQUÍVOCA DE QUE A SUCESSORA TENHA ADQUIRIDO O FUNDO DE COMÉRCIO. EXEQÜENTE QUE NÃO LOGROU COMPROVAR QUE HOUVE A AQUISIÇÃO DO FUNDO DE COMÉRCIO OU ESTABELECIMENTO COMERCIAL PELA EMPRESA QUE PRETENDE VER INCLUÍDA NO PÓLO PASSIVO DO EXECUTIVO FISCAL. RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO NÃO CONFIGURADA. ACERTO DA DECISÃO QUE ACOLHEU A EXCEÇÃO DE PRÉ- EXECUTIVIDADE. CONDENAÇÃO DO MUNICÍPIO EXEQUENTE EM HONORÁRIOS. POSSIBILIDADE. PRINCÍPIO DA CAUSALIDADE. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. DESPROVIMENTO DO RECURSO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI, da Constituição.
+    A pretensão recursal não merece prosperar, haja vista que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da controvérsia referente à violação aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, tal como constatou a decisão agravada, dissentir das conclusões adotadas demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, providência vedada nesta fase processual (Súmulas 279 e 280/STF).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
