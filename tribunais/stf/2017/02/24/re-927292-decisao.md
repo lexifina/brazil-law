@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário remetido ao Tribunal de Justiça do Estado do Paraná, por meio de despacho de fl. 325, que determinou a devolução dos autos para que se cumpra o disposto no art. 1.036 do CPC, uma vez que a controvérsia suscitada no extraordinário está representada na sistemática de repercussão geral, no tema 439, cujo paradigma é o RE-RG 606.199, Rel. Min. Ayres Britto, DJe 12.8.2011.
+    No entanto, o Tribunal a quo recusou-se a realizar o juízo de retratação ao fundamento de que a repercussão geral não possui efeito vinculativo. Posteriormente, admitiu o recurso extraordinário e determinou o encaminhamento dos autos ao STF (fl. 328).
+    Decido.
+    Verifico, após detida análise, que a vinculação ao precedente indicado está correta, tendo em vista que a matéria debatida é a mesma que a abrangida pelo paradigma desta Corte, que assim dispõe:
+    “CONSTITUCIONAL. ADMINISTRATIVO. EXTENSÃO, A SERVIDORES APOSENTADOS, DE VANTAGENS CONCEDIDAS A SERVIDORES ATIVOS. REESTRUTURAÇÃO DE CARREIRA. ARTIGO 40, § 8º, DA CONSTITUIÇÃO (REDAÇÃO ANTERIOR À EC 41/03). INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PECULIARIDADES DA REESTRUTURAÇÃO DA CARREIRA DECORRENTE DA LEI 13.666/02 DO ESTADO DO PARANÁ. RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO.
+    1. Segundo a jurisprudência firmada em ambas as Turmas do STF, não há direito adquirido a regime jurídico. Assim, desde que mantida a irredutibilidade, não tem o servidor inativo, embora aposentado na última classe da carreira anterior, o direito de perceber proventos correspondentes aos da última classe da nova carreira, reestruturada por lei superveniente. Precedentes.
+    2. Todavia, relativamente à reestruturação da carreira disciplinada pela Lei 13.666/02, do Estado do Paraná, assegura-se aos servidores inativos, com base no artigo 40, § 8º, da Constituição Federal (redação anterior à da EC 41/03), o direito de ter seus proventos ajustados, em condições semelhantes aos servidores da ativa, com base nos requisitos objetivos decorrentes do tempo de serviço e da titulação, aferíveis até a data da inativação.
+    3. Recurso extraordinário a que se dá parcial provimento”.
+    Dessa forma, observo que o tema está corretamente abarcado pelo paradigma indicado e, diante da negativa de retratação do Tribunal de origem, passo ao julgamento do recurso extraordinário.
+    Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, “a”, da Constituição Federal, o qual impugna acórdão assim ementado:
+    “APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA PARA REENQUADRAMENTO DE SERVIDOR CUMULADA COM COBRANÇA - DECISÃO QUE JULGOU IMPROCEDENTE O PEDIDO - PRELIMINAR DE NULIDADE DA DECISÃO POR CERCEAMENTO DE DEFESA - INOCORRÊNCIA - ILEGITIMIDADE PASSIVA DO MUNICÍPIO AFASTADA - FUNDO DE APOSENTADORIA QUE RECEBE VERBAS DIRETAMENTE DO MUNICÍPIO - RESPONSABILIDADE SUBSIDIÁRIA - DIREITO AO REENQUADRAMENTO - VIOLAÇÃO AO ART. 40, §8º DA CONSTITUIÇÃO FEDERAL - DESIGUALDADE DE TRATAMENTO EM RELAÇÃO AOS SERVIDORES DA ATIVA - OFENSA AO PRINCÍPIO CONSTITUCIONAL DA ISONOMIA - RECURSO DE APELAÇÃO PROVIDO”. (fls. 231-232)
+    Nas razões recursais, o recorrente aponta a repercussão geral da matéria deduzida no recurso. No mérito, sustenta violação ao artigos 40, § 2º e § 8º, e 195, § 5º, da Carta Magna.
+    Alega, em síntese, inexistir direito adquirido a permanecer no final da carreira. Ademais, aduz que não houve irredutibilidade de vencimentos e por fim, afirma que garantiu a paridade entre servidores ativos e inativos.
+    O recurso merece prosperar.
+    Isso porque a jurisprudência do Supremo Tribunal Federal, na sistemática da repercussão geral (RE-RG 606.199, Rel. Min. Teori Zavaski, DJe 7.2.2014, tema 439), firmou o entendimento no sentido de que os servidores inativos, com base no artigo 40, § 8º, da Constituição Federal (redação anterior à da EC 41/03), não possuem direito adquirido à regime jurídico, mas possuem o direito de ter seus proventos ajustados, em condições semelhantes aos servidores da ativa, com base nos requisitos objetivos decorrentes do tempo de serviço e da titulação, aferíveis até a data da inativação.
+    No mesmo sentido, o RE 908.732, Rel. Min. Luiz Fux, DJe 29.9.2015.
+    Ante o exposto, dou provimento ao recurso extraordinário para reformar o acórdão recorrido e, no mérito, julgar improcedente os pedidos formulados na inicial (art. 932, V, “b”, do NCPC c/c art. 21, §2º, do RISTF).
+    Fixo honorários em 10% sobre o valor da causa, invertidos os ônus da sucumbência.
+    Publique-se.
+    Brasília, 24 de fevereiro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
