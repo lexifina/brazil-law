@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “AGRAVO EM EXECUÇÃO – DECISÃO QUE RECONHECEU FALTA GRAVE, REVOGOU A PRISÃO DOMICILIAR, REGREDIU O REGIME E DECLAROU A PERDA DOS DIAS REMIDOS - AUSÊNCIA DE TRASLADO DE PEÇA OBRIGATÓRIA - CERTIDÃO DE INTIMAÇÃO - PEDIDO DE RECONSIDERAÇÃO FORMULADO EM PRIMEIRA INSTÂNCIA – NÃO INTERRUPÇÃO DO PRAZO RECURSAL - INTERPOSIÇÃO EXTEMPORÂNEA - NÃO CONHECIMENTO. A formação deficiente do agravo, com a ausência de traslado de peça obrigatória, inviabiliza seu conhecimento, notadamente quando interposto de forma extemporânea, vez que o pedido de reconsideração não enseja a interrupção ou suspensão do prazo recursal, de modo que o prazo para a interposição do recurso conta-se a partir da data de publicação da decisão agravada e não daquela que, ao decidir o pedido de reconsideração, a mantém.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIV e LV, da Constituição. Sustenta que “a petição de interposição de recurso foi manifestamente tempestiva, pois não havia decorrido o prazo, uma vez que não houve publicação da decisão da falta grave, e muito menos as partes foram intimadas de tal decisão”.
+    O recurso extraordinário é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de fevereiro de 2017.
+Ministro Luís Roberto Barroso
+Relator
