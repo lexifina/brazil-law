@@ -20,3 +20,4 @@ II - as operações imunes do imposto, conforme as alíneas a e b do inciso X do
 § 11. O valor adicionado relativo a operações constatadas em ação fiscal será considerado no ano em que o resultado desta se tornar definitivo, em virtude da decisão administrativa irrecorrível.
 § 12. O valor adicionado relativo a operações ou prestações espontaneamente confessadas pelo contribuinte será considerado no período em que ocorrer a confissão.
 § 13º A lei estadual que criar, desmembrar, fundir ou incorporar Municípios levará em conta, no ano em que ocorrer, o valor adicionado de cada área abrangida.
+§ 14. O valor da produção de energia proveniente de usina hidrelétrica, para fins da apuração do valor mencionado no inciso I do § 1º, corresponderá à quantidade de energia produzida, multiplicada pelo preço médio da energia hidráulica comprada das geradoras pelas distribuidoras, calculado pela Agência Nacional de Energia Elétrica (Aneel).
