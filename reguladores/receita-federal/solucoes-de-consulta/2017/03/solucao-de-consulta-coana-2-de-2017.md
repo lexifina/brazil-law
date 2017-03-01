@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 2, de 15 de fevereiro de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO NCM 8708.80.00 Mercadoria: Sortido acondicionado para venda a retalho em embalagem plástica unitária, constituído por duas coifas, dois batentes e dois suportes de amortecedores, utilizado para a satisfação da necessidade específica, que é a de reparar a haste do amortecedor da suspensão dianteira de veículos automotores da posição NCM/SH 87.03.
+DISPOSITIVOS LEGAIS: RGI-1 c/c RGI - 3b (texto da posição 87.08), RGI-6 (texto da subposição 8708.80.00) da NCM, constante da TEC, aprovada pela Resolução Camex nº 125, 15/12/ 2016 com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 8.950, de 29/12/2016, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, e alterações posteriores. IN RFB nº 1.667, de 2016.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO NCM 8708.80.00 Mercadoria: Sortido acondicionado para venda a retalho em embalagem plástica unitária, constituído por duas coifas, dois batentes e dois suportes de amortecedores, utilizado para a satisfação da necessidade específica, que é a de reparar a haste do amortecedor da suspensão dianteira de veículos automotores da posição NCM/SH 87.03.
+DISPOSITIVOS LEGAIS: RGI-1 c/c RGI - 3b (texto da posição 87.08), RGI-6 (texto da subposição 8708.80.00) da NCM, constante da TEC, aprovada pela Resolução Camex nº 125, 15/12/ 2016 com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 8.950, de 29/12/2016, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, e alterações posteriores. IN RFB nº 1.667, de 2016.
+ÁLVARO AUGUSTO DE VASCONCELOS LEITE RIBEIRO
+Presidente da 1ª Turma
