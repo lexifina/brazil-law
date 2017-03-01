@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “REEXAME NECESSÁRIO – AÇÃO DE COBRANÇA – SERVIDOR PÚBLICO MUNICIPAL – LEI COMPLEMENTAR N. 35/2002 – GOVERNADOR VALADARES – PROGRESSÃO HORIZONTAL – REQUISITOS PREENCHIDOS – DIFERENÇAS DEVIDAS – CORREÇÃO MONETÁRIA – JUROS DE MORA. Preenchidos os requisitos estabelecidos na Lei Complementar n. 35/2002, relativos à percepção de valores a título de progressão horizontal na carreira, os autores, servidores do Município de Governador Valadares, fazem jus ao recebimento das diferenças vencidas e não pagas. Revestindo-se a condenação imposta à Fazenda Pública e às suas autarquias, de natureza não tributária, será ela atualizada monetariamente, a partir do ajuizamento da ação, de acordo com os índices divulgados pela Corregedoria-Geral de Justiça, até 29 de junho de 2009, advento da Lei n. 11.960/2009, quando a ela será aplicada a remuneração da caderneta de poupança, o que se dará até 25 de março de 2015, momento em que estará sujeita ao IPCA-E, bem como a incidência de juros moratórios, de acordo com o previsto pelo artigo 1º-F, da Lei n. 9.494/97, em sua atual redação, incidentes a partir da citação, conforme decisão proferida pela ADI 4425/DF.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, XIV, da Constituição e ao art. 17 do ADCT.
+    O recurso é inadmissível. Isso porque as supostas ofensas ao texto constitucional não foram apreciadas pelo acórdão impugnado. O recurso extraordinário carece, portanto, de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, para dissentir das conclusões do Tribunal de origem, seriam necessárias a análise das normas infraconstitucionais pertinentes e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
