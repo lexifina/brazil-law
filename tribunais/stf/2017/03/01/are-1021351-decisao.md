@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 3ª Região.
+    No recurso extraordinário interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 149; 150, IV; 153, III, 194, V; e 195, I, da Constituição Federal.
+    Sustenta-se, em síntese, que a restrição imposta pela Instrução Normativa nº 90/92, referente à impossibilidade de compensar os prejuízos apurados até 1991, para o cálculo da Contribuição Sobre o Lucro, viola o princípio da legalidade.
+    A Presidência do TRF da 3ª Região inadmitiu o recurso extraordinário por considerar tratar-se de matéria infraconstitucional (eDOC 15, p. 9).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Ao decidir a controvérsia, o acórdão recorrido confirmou o que a sentença consignou, nos seguintes termos:
+    “Assim sendo é improcedente o pedido de compensação dos prejuízos fiscais apurados em 1991 na apuração da base de cálculo positiva da Contribuição Social Sobre o Lucro apurada no período-base de 1994, por falta de amparo legal.
+    Assem sendo, porque na determinação do lucro real só podem ser subtraídos do lucro líquido as exclusões ou compensações prescritas ou autorizadas pela legislação tributária e o direito da(s) impetrante(s) limita-se à autorização legal vigente à época da apuração dos prejuízos fiscais – Parecer Normativo nº 41/78 da Receita Federal (...)”.
+    Desta forma, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo acerca de previsão legal para a compensação de prejuízos fiscais anteriores ao ano de 1992 demandaria o reexame de fatos e provas e da legislação infraconstitucional aplicada à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em conta o enunciado da Súmula 279 do STF.
+    Confiram-se os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. COMPENSAÇÃO DE PREJUÍZOS. LEIS 7.689/1988 E 8.383/1991. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO INDIRETA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DOS ARTS. 148 E 195, I, c, DA CF/1988. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. ACÓRDÃO REGIONAL PUBLICADO EM 03.09.2003. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. A alegação de ofensa aos artigos 148 e 195, I, c, da Constituição da República não foi analisada pelas instâncias ordinárias, tampouco ventilada em embargos de declaração. “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” (Súmula 282/STF). ‘O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento’ (Súmula 356/STF). Agravo regimental conhecido e não provido.”
+(RE 590548 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 28.02.2013)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL. COMPENSAÇÃO DOS PREJUÍZOS. NECESSIDADE DE REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL – LEIS N. 7.689/1988 E 8.383/1991 E INSTRUÇÃO NORMATIVA DIRETOR DO DEPARTAMENTO DA RECEITA FEDERAL – DPRF N. 90 DE 1992. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(AI 838491 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 12.05.2011)
+    “TRIBUTÁRIO. COMPENSAÇÃO DE PREJUÍZOS. BASE DE CÁLCULO DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. CSLL. BENEFÍCIO ASSEGURADO POR LEI. VIOLAÇÃO POR INSTRUÇÕES NORMATIVAS. CONTENCIOSO INFRACONSTITUCIONAL. LEI 8.383/1991, ART. 44. INSTRUÇÕES NORMATIVAS 198/1988 E 90/1992. Da forma como posta a questão nas razões de agravo regimental, a discussão se resume à incompatibilidade das limitações postas pelas Instruções Normativas 198/1988 e 90/1992 à compensação de prejuízos autorizada pelo art. 44 da Lei 8.383/1991, de 31.12.1991. Eventual violação constitucional, se existente, seria indireta ou reflexa, pois o parâmetro de controle direto é a lei ordinária federal. Aplica-se à solução da controvérsia os mesmos fundamentos da Súmula 636/STF, com a devida ponderação. Agravo regimental ao qual se nega provimento.”
+(RE 363810 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe 01.02.2011)
+    Ante o exposto, nego seguimento ao agravo, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 1º de março de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
