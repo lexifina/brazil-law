@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 3, de 15 de fevereiro de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM/TEC: 4016.99.90 Artigo constituído por tubo interno de aço e por borracha vulcanizada, não endurecida e não alveolar, para aplicação no braço oscilante do sistema de suspensão de veículo da posição NCM/SH 87.03 para ligar a roda do veículo com a suspensão de forma a possibilitar movimento controlado, absorção de impactos e estabilidade, denominado comercialmente “bucha do braço - 3001”.
+DISPOSITIVOS LEGAIS: RGI 1 e Nota 2, “a”, da Seção XVII (texto da posição 40.16), RGI 6 (texto da subposição 4016.99) e RGC 1 (texto do item 4016.99.90) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM/TEC: 4016.99.90 Artigo constituído por tubo interno de aço e por borracha vulcanizada, não endurecida e não alveolar, para aplicação no braço oscilante do sistema de suspensão de veículo da posição NCM/SH 87.03 para ligar a roda do veículo com a suspensão de forma a possibilitar movimento controlado, absorção de impactos e estabilidade, denominado comercialmente “bucha do braço - 3001”.
+DISPOSITIVOS LEGAIS: RGI 1 e Nota 2, “a”, da Seção XVII (texto da posição 40.16), RGI 6 (texto da subposição 4016.99) e RGC 1 (texto do item 4016.99.90) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+ÁLVARO AUGUSTO DE VASCONCELOS LEITE RIBEIRO
+Presidente da 1ª Turma
