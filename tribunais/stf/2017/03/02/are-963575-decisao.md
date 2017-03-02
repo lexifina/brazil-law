@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul, maneja agravo Glacio Schaeffer. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado os recurso na afronta ao art. 5º, XLVI e LVII,  da Constituição Federal.
+    É o relatório.
+    Decido.
+    Nada colhe o agravo.
+    Nos termos da Súmula nº 699/STF, o agravo, em matéria criminal, deve ser interposto no prazo de cinco dias contados da data de publicação da decisão que não admite o recurso extraordinário.
+    A superveniente Lei nº 12.322/2010, de alteração do Código de Processo Civil, não afetou o prazo de interposição do agravo em matéria criminal, não se justificando a revisão da súmula. Nesse sentido, precedente do Plenário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRAZO. LEI Nº 12.322/2010. MATÉRIA CRIMINAL. INAPLICABILIDADE DO ART. 544 DO CPC. INCIDÊNCIA DO ART. 28 DA LEI Nº 8.038/90. PRECEDENTES. QUESTÃO DE ORDEM REJEITADA E AGRAVO NÃO CONHECIDO. 1. A alteração promovida pela Lei nº 12.322, de 9 de setembro de 2010, não se aplica aos recursos extraordinários e agravos que versem sobre matéria penal e processual penal, de modo que o prazo do Agravo em Recurso Extraordinário criminal é o de 5 (cinco) dias previsto no art. 28 da Lei nº 8.038/90, e não o de 10 (dez) dias, conforme o art. 544 do CPC. Precedentes (AG 197.032-RS, rel. Min. Sepúlveda Pertence, 5.11.97; AG (AgRg) 234.016-SP, rel. Min. Ilmar Galvão, 8.6.99). 2. Questão de ordem rejeitada para não conhecer do recurso de agravo.” (ARE 639.846-AgR-QO, Redator p/ acórdão Min. Luiz Fux, Plenário, DJe 20.3.2012)
+    No caso, o recorrente foi intimado da decisão recorrida no dia 18.11.2015, quarta-feira (fl. 61, vol. 04), tendo o agravo sido protocolado somente em 24.11.2015, terça-feira (fl. 70, vol. 04), razão pela qual é intempestivo.
+    Destaco, firme a jurisprudência desta Suprema Corte no sentido de que a tempestividade do recurso é aferida pela data de protocolo da petição na Secretaria do Tribunal respectivo, independentemente da data de postagem na Empresa Brasileira de Correios e Telégrafos (ECT). Cito: AI 708.298-ED-AgR, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJE de 23.02.2011; AI 745.838-ED-AgR, Rel. Min. Ellen Gracie, 2ª Turma, DJE de 19.11.2010; AI 703.932-AgR, Rel. Min. Ellen Gracie, Tribunal Pleno, DJE de 23.5.2008; AI 685.986-ED, Rel. Min. Ellen Gracie, Tribunal Pleno, DJE de 13.6.2008; RE 436.029-AgR-EDv-AgR, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJE de 05.6.2009; AI 626.348-ED-AgR, Rel. Min. Ayres Britto, 1ª Turma, DJE de 15.10.2009; e ARE 707.743-AgR/MG, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJE 18.6.2013, este assim ementado:
+    “AGRAVO REGIMENTAL. INTEMPESTIVIDADE DO RECURSO EXTRAORDINÁRIO. DATA DE POSTAGEM NOS CORREIOS. IRRELEVÂNCIA. O recurso extraordinário é intempestivo, porquanto apresentado após o decurso do prazo legal, não preenchendo, pois, requisito recursal indispensável à sua admissibilidade. É firme a jurisprudência desta Corte no sentido de que é irrelevante a data de postagem do recurso nos Correios. Agravo regimental a que se nega provimento.”
+    Nesse sentir, não merece processamento o apelo extremo.
+    Nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 02 de março de 2017.
+Ministra Rosa Weber
+Relatora
