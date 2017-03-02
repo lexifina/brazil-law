@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “RESPONSABILIDADE CIVIL. FALHAS NO SISTEMA. FIES. DANOS MORAIS. CONDUTA ILÍCITA. INÉRCIA NA REPARAÇÃO DO DANO. POSSIBILIDADE ADITAMENTO CONTRATUAL. JUROS. CORREÇÃO MONETÁRIA. RECURSO PARCIALMENTE PROVIDO.” (documento eletrônico 44).
+    No RE, fundado no art. 102, III, a , da Constituição, alegou-se ofensa aos arts. 37; 109, I e 206, I, da mesma Carta. Aduz, em síntese, que
+    “O FNDE em momento algum agiu de forma irregular ou a provocar qualquer constrangimento ou lesão à parte demandante. A perda de prazo para o aditamento decorreu de equívoco perpetrado exclusivamente pelo agente financeiro, o qual não acatou os documentos enviados pela IES.”
+    O recurso não merece acolhida.
+    O voto condutor do acórdão recorrido confirmou a sentença (documento eletrônico 34) da qual se destaca:
+    “No presente caso concreto, o problema ocorrido pela postura negligente da CEF e FNDE em proceder regularmente com o aditamento do contrato da autora provocou uma série de implicações para a demandante, que depende do financiamento estudantil para permanecer estudando. Diante disto, entendo pela configuração do dano moral, considerando as diversas dificuldades enfrentadas pela autora para conseguir regularizar a situação de seu contrato estudantil, imprescindível à sua formação acadêmica.”
+    E acrescentou (pág. 5 do documento eletrônico 44):
+    “A irregularidade do contrato em questão se deu pelo fato do não acatamento dos arquivos eletrônicos enviados com vistas à conclusão do aditamento contratual pelo agente financeiro. Ademais, registra-se que o FNDE cientificou acerca da inexistência de outro óbice à conclusão do referido aditamento. É, pois, cediço observar que não obstante o FNDE haver encaminhado os arquivos e aditamento a CEF autorizando a implantação nos seus sistemas, a correção o equívoco durou muito tempo, razão pela qual está configurada a responsabilidade solidária da autarquia e empresa pública. Com efeito, in casu, há que se falar em reparação por parte da autarquia recorrente, haja vista a demora para a reparação do equívoco.”
+    O acórdão recorrido concluiu pela configuração de dano moral, para divergir e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório constantes dos autos, o que é vedado pela Súmula 279 desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 797.484-AgR/DF, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Contrato de financiamento estudantil – FIES. Lei nº 10.260/2001. 3. Exigência de fiador. Revolvimento do acervo fático-probatório e da legislação infraconstitucional aplicável à espécie. Súmulas 279 e 454. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento”. (ARE 826.377-AgR/RN, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 2 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
