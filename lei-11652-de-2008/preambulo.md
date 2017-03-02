@@ -1,0 +1,2 @@
+Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta; autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação - EBC; altera a Lei nº 5.070, de 7 de julho de 1966; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA, Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
