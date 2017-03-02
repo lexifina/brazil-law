@@ -1,0 +1,37 @@
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Carlos Augusto Muller Gomieiro, contra acórdão proferido pelo Superior Tribunal de Justiça nos autos do RHC 79.442/SP, assim ementado:
+    “PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NEGATIVA DO DIREITO DE APELAR EM LIBERDADE. MANUTENÇÃO DOS FUNDAMENTOS LANÇADOS QUANDO DA DECRETAÇÃO DA PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. DIVERSIDADE E QUANTIDADE DE DROGAS APREENDIDAS. REGIME E APLICAÇÃO DO ART. 387, §2º, DO CPP. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. CONCESSÃO DA ORDEM DE OFÍCIO. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+    I - A prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+    II - Reforçado o título prisional por ocasião da sentença condenatória, com a manutenção dos fundamentos da decisão que decretou a prisão preventiva, não há que se falar em ilegalidade quanto à negativa do direito de recorrer em liberdade, pois ainda hígidos os fundamentos que deram suporte à decretação da segregação cautelar anteriormente.
+    III - E, na hipótese, consoante já assentado no julgamento do HC n. 337.991/SP (Quinta Turma, de minha relatoria, DJe de 27/04/2016), o decreto prisional encontra-se devidamente fundamentado na necessidade de acautelamento da ordem pública, haja vista a quantidade e diversidade de drogas apreendidas em poder do recorrente (985 gramas de cocaína e 535 gramas de ‘crack’), bem como petrechos para a comercialização dos entorpecentes.
+    IV - No que tange à alegada flagrante ilegalidade quanto ao regime fixado por ocasião da sentença, ou ao eventual direito à aplicação do disposto no art. 387, §2º, do CPP, deve-se asseverar que tais questões sequer foram apreciadas pelo eg. Tribunal a quo, razão pela qual fica impedida esta Corte de analisar tais temas, sob pena de indevida supressão de instância.
+    V - Entretanto, dá análise da fundamentação da r. sentença condenatória, verifica-se que o paciente, primário e com circunstâncias judiciais consideradas favoráveis, teve o regime fechado fixado apenas com base na hediondez do delito, razão pela qual deve ser concedida a ordem, ainda que de ofício, para permitir que o recorrente aguarde em regime semiaberto o julgamento de seu recurso de apelação (Súmula n. 440/STJ).
+    Recurso ordinário parcialmente conhecido e, nesta extensão, desprovido. Ordem concedida de ofício para, salvo se estiver preso por outro motivo, permitir que o recorrente aguarde o julgamento do recurso de apelação em regime semiaberto.”
+    Consta dos autos que o paciente foi condenado à pena de 8 anos de prisão, em regime inicial fechado, pela prática dos crimes de tráfico de drogas e associação para o tráfico, respectivamente tipificados nos arts. 33 e 35 da Lei 11.343/2006, por ter sido flagrado com 985g de cocaína e 535g de crack, além de “maquinário, aparelho e instrumento destinados à fabricação, preparação, produção ou transformação de drogas” (documento eletrônico 7).
+    Ao proferir a sentença condenatória, o magistrado de piso reforçou os fundamentos do decreto de prisão preventiva e manteve o paciente privado de sua liberdade.
+    Irresignada, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo, que denegou a ordem por considerar que a manutenção da prisão preventiva não acarretou constrangimento ilegal, uma vez fundamentada e pelo fato de ter permanecido preso durante toda a instrução criminal.
+    Contra a decisão, foi interposto recurso ordinário em habeas corpus no Superior Tribunal de Justiça. A Quinta Turma do STJ negou provimento ao recurso ao entender que estavam preenchidos os requisitos da prisão preventiva. Entretanto, concedeu habeas corpus de ofício para permitir que o paciente aguarde o julgamento do recurso de apelação no regime semiaberto.
+    No presente habeas corpus, contra o acórdão proferido pelo STJ, a defesa requer, cautelarmente, a concessão de liberdade provisória e, no mérito, que seja confirmada a liminar.
+    É o relatório, decido.
+    A concessão de medida liminar necessita da presença de seus requisitos autorizadores, quais sejam, o fumus boni iuris e o periculum in mora.
+    Quanto ao fumus boni iuris, observo, a princípio, que a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria.
+    Ademais, antes de impor a segregação cautelar, o magistrado deve verificar a possibilidade de aplicar as medidas cautelares diversas da prisão, elencadas no art. 319 do Código de Processo Penal, litteris:
+     “Art. 319. São medidas cautelares diversas da prisão:
+    I - comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades;
+    II - proibição de acesso ou frequência a determinados lugares quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado permanecer distante desses locais para evitar o risco de novas infrações;
+    III - proibição de manter contato com pessoa determinada quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado dela permanecer distante;
+    IV - proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução;
+    V - recolhimento domiciliar no período noturno e nos dias de folga quando o investigado ou acusado tenha residência e trabalho fixos;
+    VI - suspensão do exercício de função pública ou de atividade de natureza econômica ou financeira quando houver justo receio de sua utilização para a prática de infrações penais;
+    VII - internação provisória do acusado nas hipóteses de crimes praticados com violência ou grave ameaça, quando os peritos concluírem ser inimputável ou semi-imputável (art. 26 do Código Penal) e houver risco de reiteração;
+    VIII - fiança, nas infrações que a admitem, para assegurar o comparecimento a atos do processo, evitar a obstrução do seu andamento ou em caso de resistência injustificada à ordem judicial;
+    IX - monitoração eletrônica.”
+     No presente caso, verifico que a motivação para a decretação da prisão preventiva ocorreu por ocasião do recebimento da denúncia, sendo que seus fundamentos foram posteriormente reafirmados na sentença condenatória, conforme bem ressaltado no acórdão proferido pelo STJ, verbis:
+    “[…] o decreto prisional encontra-se devidamente fundamentado na necessidade de acautelamento da ordem pública, haja vista a quantidade e diversidade de drogas apreendidas em poder do recorrente (985 gramas de cocaína e 535 gramas de ‘crack’), bem como petrechos para a comercialização dos entorpecentes.”
+    Ademais, o Superior Tribunal de Justiça concedeu habeas corpus de ofício para que o paciente aguarde em regime semiaberto o julgamento do mérito do recurso de apelação.
+    Dessa forma, parece-me, à primeira vista, que a prisão preventiva encontra-se fundamentada e seus requisitos legais atendidos.
+    Isso posto, indefiro a liminar.
+    Ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 2 de março 2017.
+Ministro Ricardo Lewandowski
+Relator
