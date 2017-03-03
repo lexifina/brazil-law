@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de “ação cautelar inominada”, com pedido de medida liminar, na qual se busca a suspensão dos efeitos de ato emanado do Senhor Presidente da Câmara dos Deputados, por suposta violação ao alegado direito do autor de ser convocado para exercer o mandato de Deputado Federal como suplente em razão do afastamento do titular, eleito pela coligação formada entre PR e PROS nas eleições gerais de 2014.
+    Sendo esse o contexto, passo a examinar esta demanda cautelar.
+    Cabe assinalar, desde logo, que, em decisão de 15/02/2017, apreciei a causa principal referente a esta ação (Rcl 26.276/DF), havendo negado seguimento à reclamação.
+    O exame do contexto processual delineado nestes autos evidencia que esta “ação cautelar inominada” perdeu o seu objeto, considerado o caráter de acessoriedade de que ela se reveste em face do processo principal.
+    É preciso registrar, neste ponto, que há entre o processo cautelar e as demais categorias procedimentais inequívoca relação de acessoriedade. A tutela cautelar não existe em função de si própria. Supõe, por isso mesmo, para efeito de sua apreciação, a perspectiva de um processo principal.
+    A acessoriedade e a instrumentalidade, nesse contexto, constituem notas caracterizadoras do processo e da tutela cautelares. “Destinado a garantir complexivamente o resultado de outro processo”, assinala JOSÉ FREDERICO MARQUES (“Manual de Direito Processual Civil”, vol. IV/361, item n. 1.048, 1976, Saraiva), “o processo cautelar se relaciona com este, como o acessório com o principal. Daí o predomínio e hegemonia do processo principal, de que o cautelar é sempre dependente” (grifei).
+    Existe, por isso mesmo, em casos como o que ora se examina, uma situação de conexão por acessoriedade, que decorre do vínculo existente entre a medida cautelar, de um lado, e a causa principal, de outro. Nesse sentido, o magistério, sempre autorizado, de JOSÉ FREDERICO MARQUES (“Instituições de Direito Processual Civil”, vol. I/340, 3ª edição, e vol. III/256-257, 2ª edição, Forense) e de GIUSEPPE CHIOVENDA (“Instituições de Direito Processual Civil”, vol. II/298-299, tradução da 2ª edição italiana por ENRICO TULLIO LIEBMAN, 1943, Saraiva).
+    Como precedentemente assinalado, a relação de essencial dependência que existe entre este procedimento e a causa principal impede que se dê tramitação autônoma ao pedido cautelar, em face do vínculo de irrecusável acessoriedade que subordina ao destino do processo principal a subsistência da própria postulação cautelar formulada.
+    Sendo assim, e tendo em vista a decisão que proferi nos autos da Rcl 26.276/DF (causa principal), julgo prejudicada a presente “ação cautelar inominada”, em virtude da perda superveniente de seu objeto, inviabilizando-se, em consequência, a análise do pedido de medida liminar.
+    2. A Secretaria Judiciária deverá juntar cópia desta decisão aos autos da Rcl 26.276/DF (causa principal).
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 03 de março de 2017.
+Ministro CELSO DE MELLO
+Relator
