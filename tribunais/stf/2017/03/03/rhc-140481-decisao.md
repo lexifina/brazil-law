@@ -1,0 +1,44 @@
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Mauro Junior de Paula, contra acórdão do Superior Tribunal de Justiça que não conheceu do HC 365.435/MG.
+    O Recorrente cumpre pena de 20 (vinte) anos de reclusão, em regime inicial fechado, pela prática do crime de latrocínio, tipificado no art. 157, § 3º, do Código Penal. Em 11.02.2016, o Juízo de Direito da Vara de Execuções Penais de Ribeirão das Neves/MG determinou a realização de exame criminológico para a concessão do benefício de progressão de regime.
+    Contra essa decisão, a Defesa interpôs agravo em execução, ao qual o Tribunal de Justiça do Estado de Minas Gerais negou provimento.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que não conheceu do HC 365.435/MG.
+    Na presente via, a Defesa alega, em síntese, falta de fundamentação idônea da decisão que determinou a realização do exame criminológico. Sustenta o preenchimento dos requisitos objetivo e subjetivo do Recorrente para a progressão de regime. Requer, em medida liminar e no mérito, que o Juízo da Execução aprecie o pedido de progressão de regime sem a necessidade de realização do exame criminológico.
+    É o relatório.
+    Decido.
+    Extraio do acórdão recorrido:
+    “CONSTITUCIONAL. EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. PROGRESSÃO DE REGIME PRISIONAL. INDEFERIMENTO. AUSÊNCIA DO REQUISITO SUBJETIVO. ELEMENTOS CONCRETOS. PRÁTICA DE FALTA GRAVE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+    1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem, de ofício.
+    2. O art. 122 da Lei de Execuções Penais exige, para a concessão da progressão de regime, o preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário).
+    3. Indeferimento da progressão de regime adequadamente fundamentado pelo Juízo das Execuções e Tribunal a quo, pelo não atendimento do requisito subjetivo, com base nas peculiaridades do caso concreto. Não ocorrência de constrangimento ilegal. (Precedentes.)
+    4. Habeas corpus não conhecido.”
+    A decisão impugnada teve por fundamento a inadequação da via eleita pela Defesa em razão da utilização indevida do habeas corpus como substitutivo do recurso apropriado.
+    Registro terem sido observados os precedentes da Primeira Turma desta Suprema Corte, que não vem admitindo a utilização de habeas corpus em substituição ao recurso ordinário (HC 109.956/PR, Rel. Min. Marco Aurélio, DJe 11.9.2012 e HC 108.390/MS, de minha relatoria, DJe 07.11.2012).
+    O desvirtuamento do habeas corpus tem efeito ainda mais grave nos Tribunais Superiores, diante das funções precípuas quer do Superior Tribunal de Justiça – a última palavra na interpretação da lei federal – quer desta Suprema Corte – a guarda da Constituição.
+    Visto que a decisão atacada, mutatis mutandis, está em consonância com os precedentes da Primeira Turma, não há como reconhecer a plausibilidade da pretensão veiculada na inicial no tópico, revelando destacar que, inobstante a inadequação da via eleita, observo ter sido examinado o mérito da impetração.
+    Destaco que, de acordo com a redação vigente do art. 112 da Lei de Execução Penal, não há mais a exigência legal da avaliação psicológica para a progressão de regime. Por outro lado, não há vedação normativa quanto à adoção desta medida nos casos de progressão de regime.
+    Nesse contexto, a jurisprudência desta Suprema Corte, consolidada no enunciado da Súmula Vinculante nº 26, reputa viável a realização do exame criminológico nas situações em que o Juiz da Execução, forte no exercício do poder geral de cautela, considerar necessário para a formação do seu convencimento.
+    Extraio do enunciado da Súmula Vinculante nº 26:
+    “Para efeito de progressão de regime no cumprimento de pena por crime hediondo ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar para tal fim, de modo fundamentado, a realização de exame criminológico.”
+    Na hipótese, colho da decisão que determinou a realização do exame criminológico do Recorrente:
+    “(...).
+    Inicialmente, cumpre registrar que em regra tenho analisado os pedidos de execução penal independentemente da realização de exame criminológico, pois a Lei de Execução Penal o tornou facultativo.
+    Não obstante, há casos em que o exame se fará necessário para que o julgador tenha elementos suficientes para verificar o mérito do sentenciado. Essa é exatamente a hipótese dos autos.
+    De fato, o sentenciado foi condenado por latrocínio (crime hediondo) a 20 (vinte) anos de pena privativa de liberdade.
+    Além disso, durante a execução da pena, o sentenciado fugiu no dia 19/09/2010, sendo recapturado apenas no dia 05/09/2011.
+    As circunstâncias fáticas da prática delitiva, consistente em verdadeiro extermínio por motivo torpe, pois aproveitando que a vítima não podia oferecer resistência, estando totalmente embriagada, utilizou golpes de tijolo para ceifar a vida da mesma, bem como a fuga durante a execução da pena, impõe, no caso concreto, para melhor instruir o pedido e garantir a preservação da segurança jurídica, a realização do exame criminológico.
+    Por oportuno, cumpre trazer à baila posição do Superior Tribunal de Justiça, que permite, no caso concreto, a realização do exame criminológico:
+    Súmula 439, STJ: “Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada”.
+    Este também é o entendimento do Supremo Tribunal Federal, conforme a Súmula Vinculante nº 26, verbis:
+    (…).
+    Considerando, no caso concreto, a natureza e a gravidade dos crimes praticados pelo reeducando, DETERMINO a realização de exame criminológico, para que a concessão de benefícios seja norteada segundo a possibilidade de reintegração do reeducando ao convívio social, aferindo-se, por conseguinte, aspectos relacionados à sua parte psicológica, especificamente, a sua maturidade, disciplina, capacidade de suportar frustrações e estabelecer laços afetivos com a família e sociedade, grau de agressividade, de forma a que seja feita a composição de um conjunto de fatores destinados a construir um prognóstico de periculosidade.
+    (…).
+    Nessa linha, indefiro, por ora, os benefícios, até que o laudo seja colacionado aos autos.”
+    Nesse prisma, a Corte Estadual asseverou que “o il. magistrado de piso fundamentou a realização do exame criminológico nas graves circunstâncias do caso concreto e em ocorrências disciplinares verificadas no decorrer da execução (‘durante a execução da pena, o sentenciado fugiu no dia 19/09/2010, sendo recapturado apenas no dia 05/09/2011’ - fls. 23), o que não merece reparos”.
+    Por outro lado, o Superior Tribunal de Justiça enfatiza no ato dito coator que “o indeferimento da progressão de regime foi adequadamente fundamentado pelas instâncias ordinárias”.
+    O magistrado de primeiro grau, ao considerar a situação concreta do apenado – condenado a 20 (vinte) anos de reclusão pela prática do crime de latrocínio (art. 157, § 3º, do CP), praticado “por motivo torpe, pois aproveitando que a vítima não podia oferecer resistência, estando totalmente embriagada, utilizou golpes de tijolo para ceifar a vida da mesma, bem como a fuga durante a execução da pena” –, determinou, mediante decisão fundamentada, em observância ao verbete sumular vinculante nº 26, a realização de exame criminológico.
+    Anoto, por fim, que o ato dito coator converge para a jurisprudência consolidada desta Suprema Corte no sentido de que “o silêncio da Lei a respeito da obrigatoriedade do exame criminológico não inibe o juízo da execução do poder de determiná-lo, desde que fundamentadamente. Isto porque a análise do requisito subjetivo pressupõe a verificação do mérito do condenado, que não está adstrito ao “bom comportamento carcerário”, como faz parecer a literalidade da lei, sob pena de concretizar-se o absurdo de transformar o diretor do presídio no verdadeiro concedente do benefício e o juiz em simples homologador, como assentado na ementa do Tribunal a quo” (HC 110.306/RS, Rel. Min. Luiz Fux, 1ª Turma, DJe 08.8.2012).
+    Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 03 de março de 2017.
+Ministra Rosa Weber
+Relatora
