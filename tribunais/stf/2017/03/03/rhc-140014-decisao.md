@@ -1,0 +1,25 @@
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Marc Henri Dizerens contra acórdão do Superior Tribunal de Justiça em que negado provimento ao RHC 70.109/SP.
+    O Recorrente foi denunciado pela prática dos crimes contra o sistema financeiro nacional (arts. 4º, 16, 22, caput e parágrafo único da Lei nº 7.492/19), contra a ordem tributária (arts. 1º e 2º da Lei 8.137/1990), de lavagem ou ocultação de bens (art. 1º, VI, VII, e § 1º, I, II e III, da Lei 9.613/1998) e de formação de quadrilha (art. 288 do Código Penal).
+    Irresignada, a Defesa impetrou habeas corpus ao Tribunal Regional da 3ª Região, que denegou a ordem.
+    Contra esse acórdão, a Defesa interpôs o RHC 70.109/SP, ao qual o Superior Tribunal de Justiça negou provimento.
+    No presente recurso ordinário, o Recorrente sustenta o trancamento da persecução criminal à falta de justa causa. Aduz que constrangimento ilegal dada a falta de aditamento da exordial acusatória porquanto “a nulidade das interceptações telefônicas atingiu frontalmente os fatos narrados na denúncia”. Requer, em medida liminar, o sobrestamento do feito de origem. No mérito, pugna pelo trancamento da ação penal.
+    É o relatório.
+    Decido.
+    Colho do acórdão recorrido:
+    “RECURSO EM HABEAS CORPUS. OPERAÇÃO "KASPAR II". CRIMES CONTRA O SISTEMA FINANCEIRO, LAVAGEM DE DINHEIRO E FORMAÇÃO DE QUADRILHA DETECTADOS POR MEIO DE INVESTIGAÇÕES REALIZADAS PELA POLÍCIA FEDERAL. AÇÃO PENAL N. 2007.61.81.015353-8. ORGANIZAÇÃO CRIMINOSA. RECONHECIMENTO DA ILICITUDE DAS INTERCEPTAÇÕES TELEFÔNICAS NA OPERAÇÃO SUÍÇA. ALCANCE DOS EFEITOS NA PRESENTE AÇÃO PENAL. PLEITO DE ADITAMENTO À DENÚNCIA. APLICAÇÃO DO DISPOSTO NO ART. 384, § 1º, DO CPP. NECESSIDADE DO SURGIMENTO DE FATOS, PROVAS OU CIRCUNSTÂNCIAS NÃO DESCRITOS NA DENÚNCIA. NÃO OCORRÊNCIA. DETERMINAÇÃO DA EXCLUSÃO DOS APENSOS COM AS INTERCEPTAÇÕES TELEFÔNICAS E RISCAMENTO DAS TRANSCRIÇÕES DE DIÁLOGOS TELEFÔNICOS INTERCEPTADOS NAS PEÇAS QUE NÃO PODEM SER EXCLUÍDAS PELO JUÍZO SINGULAR. PLEITO SUBSIDIÁRIO: TRANCAMENTO DA AÇÃO PENAL POR FALTA DE JUSTA CAUSA PARA A PERSECUÇÃO. ATIPICIDADE, CAUSA EXTINTIVA DA PUNIBILIDADE OU AUSÊNCIA DE INDÍCIOS DE AUTORIA OU PROVA DA MATERIALIDADE DO DELITO. HIPÓTESE NÃO CONFIGURADA. DESCRIÇÃO SUFICIENTE DAS CONDUTAS DELITUOSAS. ATENDIMENTO AOS REQUISITOS LEGAIS. EXERCÍCIO DA AMPLA DEFESA. POSSIBILIDADE. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA.
+    1. O art. 384, § 1º, do Código de Processo Penal aplica-se a situações em que haja modificação, no curso da instrução criminal, de fatos, provas ou circunstâncias que acarretem nova definição jurídica diversa daquela constante na peça acusatória.
+    2. O mero reconhecimento da ilicitude de interceptações telefônicas, como apresentado no presente caso, não traz nenhum fato novo à cena, tampouco enseja nova definição jurídica, pelo contrário, ocasiona o arredamento de fatos pela declaração de nulidades na sua colheita, afastando, pois, a necessidade de aditamento.
+    3. Além disso, o Juízo de primeira instância determinou a exclusão dos diálogos telefônicos dos autos e o riscamento das transcrições de diálogos interceptados que não podem ser excluídas, de modo a evitar qualquer prejuízo ao exercício de defesa.
+    4. O trancamento de ação penal é medida excepcional, só admitida quando ficar provada, inequivocamente, sem necessidade de exame valorativo do conjunto fático ou probatório, a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade ou, ainda, a ausência de indícios de autoria ou de prova da materialidade do delito.
+    5. Existem elementos probatórios mínimos indicativos da prática dos ilícitos descritos na peça acusatória e, não sendo possível atestar de plano a atipicidade da conduta atribuída ao recorrente, impossível concluir-se pela inexistência de justa causa para a persecução criminal.
+    6. Recurso em habeas corpus improvido.”
+    Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário avaliar se o acórdão atacado teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão proferido pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento em relação ao prosseguimento da persecução criminal.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com o imediato sobrestamento da ação penal de origem.
+    Além disso, pontuo, em simetria ao asseverado pelo Ministro Gilmar Mendes no RHC 120.363/RJ (DJe 11.12.2013), que ”constitui erro grosseiro a interposição de recurso ordinário contra decisão proferida já em sede de recurso ordinário” e “a petição do recurso ordinário não preenche os mínimos requisitos de admissibilidade pertinentes ao recurso extraordinário, razão pela qual tampouco ampararia a recorrente a pedida fungibilidade recursal”.
+    Ante o exposto, indefiro o pedido de liminar.
+    Encaminhem-se os autos ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 03 de março de 2017.
+Ministra Rosa Weber
+Relatora
