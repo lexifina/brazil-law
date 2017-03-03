@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, do qual se extrai da ementa o seguinte trecho:
+    “APELAÇÃO CRIMINAL – ROUBO MAJORADO PELO CONCURSO DE AGENTES – PEDIDO DE ABSOLVIÇÃO– TESE DEFENSIVA DE INSUFICIÊNCIA DE PROVAS – ARGUMENTO REFUTADO – CONJUNTO PROBATÓRIO ROBUSTO QUANTO À COMPROVAÇÃO DA AUTORIA E MATERIALIDADE DELITUOSAS – PLEITO DE RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA – NÃO ACOLHIMENTO – ATUAÇÃO DE ESSENCIAL INFLUÊNCIA NA CONSUMAÇÃO DO DELITO – PLEITO DE REDUÇÃO DA PENA-BASE PARA O MÍNIMO LEGAL – ACOLHIDO – APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA – NEGATIVA DE AUTORIA – INCABÍVEL – PEDIDO DE INCIDÊNCIA DA ATENUANTE DE REPARAÇÃODO DANO – INAPLICABILIDADE – AUSÊNCIA DO REQUISITO DA VOLUNTARIEDADE – COMPENSAÇÃO ENTRE A ATENUANTE DA MENOR IDADE RELATIVA E A CAUSA DE AUMENTO DO CONCURSO DE PESSOAS – TESE AFASTADA – CIRCUNSTÂNCIAS ANALISADAS EM DIFERENTES ETAPAS DA DOSIMETRIA PENAL – SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS – INCABÍVEL – NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS – RECURSO PARCIALMENTE PROVIDO. DE OFÍCIO – REDUÇÃO DA PENA INTERMEDIÁRIA PARA AQUÉM DO MÍNIMO – IMPOSSIBILIDADE – INTELIGÊNCIA DO ENUNCIADO Nº 231 DA SÚMULA DO STJ.
+    […].”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIV, LVI e LVII, da Constituição. Sustenta que “a condenação do réu deu-se tão somente em fatos colhidos no inquérito policial e rechaçados na instrução”.
+    O recurso extraordinário é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confira-se o seguinte trecho do voto condutor do acórdão recorrido:
+    “[...]
+    A materialidade e autoria delitiva estão comprovadas pelo auto de prisão em flagrante (p. 5-18), boletim de ocorrência (p. 19-21), auto de exibição e apreensão (p. 22-23), auto de avaliação e entrega (p. 24-25 e 26), depoimento das testemunhas (p. 93-96), das vítimas (p. 157-158), interrogatório do acusado (p. 97)e de sua genitora (p. 98).
+    Não há falar em absolvição ou reconhecimento de participação de menor importância. A sentença descreveu claramente as provas que conduzem ao reconhecimento de que o réu agiu em conluio com o coautor, que não foi identificado na denúncia […].”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 03 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
