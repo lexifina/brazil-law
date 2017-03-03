@@ -1,0 +1,21 @@
+Decisão: Trata-se de reclamação interposta pelo Estado do Rio de Janeiro em face de decisão proferida pelo Tribunal de Justiça do mesmo Estado que, com fundamento em acórdão julgado sob rito da repercussão geral, negou trânsito ao recurso extraordinário.
+    Alega o reclamante que o caso submetido ao exame do Supremo Tribunal Federal é distinto do que foi julgado pelo Tribunal do Estado e que os precedentes desta Suprema Corte acolhem a pretensão suscitada no extraordinário. Defende, ainda, que a autoridade das decisões do Supremo Tribunal Federal, no que tange à vedação de o poder judiciário atuar como legislador positivo e à impossibilidade de manutenção dos serviços médico-hospitalares prestados à polícia militar sem contraprestação de seus servidores, resta violada. Requer a cassação da decisão de inadmissão do recurso extraordinário, afastando-se a aplicação da sistemática da repercussão geral, para julgar improcedente o pedido de manutenção da assistência médico-hospitalar deferida na origem.
+    É, em síntese, o relatório. Decido.
+    Não assiste razão jurídica ao reclamante.
+    Este Tribunal pacificou a compreensão segundo a qual não configura ofensa à sua autoridade decisão que nega trânsito ao recurso extraordinário com base em precedente firmado em regime de repercussão geral. Nesse sentido, confiram-se:
+    “Ementa: DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. REPERCUSSÃO GERAL. TRÂMITE PROCESSUAL EQUIVOCADO NA ORIGEM. ACERTO NA APLICAÇÃO DO RESPECTIVO TEMA AO RECURSO EXTROARDINÁRIO. SUBSISTENTE INVIABILIDADE DO RECURSO. AUSÊNCIA DE UTILIDADE DA RECLAMAÇÃO. 1. A existência de erro no trâmite processual adotado pelo órgão reclamado não resulta na procedência do pedido, em face da manifesta inviabilidade do recurso extraordinário ao qual a parte visa a dar trâmite. 2. Agravo interno ao qual se nega provimento.”
+    (Rcl 25242 AgR, Relator(a):  Min. ROBERTO BARROSO, Primeira Turma, julgado em 16/12/2016, PROCESSO ELETRÔNICO DJe-027 DIVULG 09-02-2017 PUBLIC 10-02-2017)
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. DIREITO TRIBUTÁRIO. USURPAÇÃO DE COMPETÊNCIA. SOBRESTAMENTO DE RECURSO. SISTEMÁTICA DA REPERCUSSÃO GERAL. 1. A jurisprudência do Supremo Tribunal Federal é no sentido de considerar incabível a reclamação em face de ato do Tribunal de origem que determina o sobrestamento de recurso com base em paradigma de recurso extraordinário julgado sob a sistemática da repercussão geral, o que não se alterou com a sucessão de legislação processual. 2. A reclamação não é sucedâneo recursal, haja vista que a pretensão de distinção entre feito sobrestado e paradigma de repercussão geral deve ser deduzida em sede recursal própria junto ao juízo a quo. Art. 1.035, §§6º e 7º, do CPC/15. 3. Agravo regimental a que se nega provimento.”
+    (Rcl 25090 AgR, Relator(a):  Min. EDSON FACHIN, Primeira Turma, julgado em 11/11/2016, PROCESSO ELETRÔNICO DJe-252 DIVULG 25-11-2016 PUBLIC 28-11-2016)
+    Ademais, sequer há interesse jurídico no trânsito do recurso extraordinário. Isso porque este Tribunal, em precedente idêntico à matéria de fundo desta reclamação, afastou, expressamente, a repercussão geral da questão:
+    “EMENTA Recurso Extraordinário com agravo. Assistência Médica Hospitalar. Militares do Rio de Janeiro. Prestação dos serviços independentemente de contribuição. Causa decidida com base na legislação estadual local. Princípio da Separação dos Poderes. Afronta reflexa. Aplicação dos efeitos da ausência de repercussão geral.”
+    (ARE 842214 RG, Relator(a): Min. DIAS TOFFOLI, julgado em 12/11/2015, PROCESSO ELETRÔNICO DJe-022 DIVULG 04-02-2016 PUBLIC 05-02-2016 )
+    Em casos tais, é manifesta a inviabilidade da presente reclamação. Nesse sentido, confira-se:
+    “A existência de erro no trâmite processual adotado pelo órgão reclamado não resulta na procedência do pedido, em face da manifesta inviabilidade do recurso extraordinário ao qual a parte visa a dar trâmite.”
+    (Rcl 25242 AgR, Relator(a):  Min. ROBERTO BARROSO, Primeira Turma, julgado em 16/12/2016, PROCESSO ELETRÔNICO DJe-027 DIVULG 09-02-2017 PUBLIC 10-02-2017)
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento à reclamação.
+    Publique-se. Intime-se.
+    Brasília, 3 de março de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
