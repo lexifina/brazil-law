@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário em que se discute indenização de danos morais ao consumidor ante a suspensão do serviço de dados de Internet pela prestadora quando atingida a franquia contratada.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, IV; 21, XI; 22, IV; e 170, todos da Constituição Federal.
+    O Subprocurador-Geral da República Paulo Gustavo Gonet Branco opina pela negativa de seguimento ao recurso.
+    Correto o parecer ministerial.
+    Incide, no caso, a pacífica jurisprudência desta Corte no sentido da ausência de repercussão geral das demandas propostas nos Juizados Especias Cíveis, regidos pela Lei nº 9.099/1995, visto que são controvérsias decorrentes de direito privado, com análise simplificada do material fático-probatório, com soluções de conflitos mais céleres, e, em regra, prescindem de questão constitucional. Veja-se, nesse sentido, a ementa do ARE 835.833 – Tema 800, julgado sob a relatoria do Ministro Teori Zavascki:
+    “PROCESSUAL CIVIL. DEMANDA PROPOSTA PERANTE OS JUIZADOS ESPECIAIS CÍVEIS DA LEI 9.099/95. CONTROVÉRSIA NATURALMENTE DECORRENTE DE RELAÇÃO DE DIREITO PRIVADO, REVESTIDA DE SIMPLICIDADE FÁTICA E JURÍDICA, COM PRONTA SOLUÇÃO NA INSTÂNCIA ORDINÁRIA. EXCEPCIONALIDADE DE REPERCUSSÃO GERAL ENSEJADORA DE ACESSO À INSTÂNCIA EXTRAORDINÁRIA.
+    1. Como é da própria essência e natureza dos Juizados Especiais Cíveis Estaduais previstos na Lei 9.099/95, as causas de sua competência decorrem de controvérsias fundadas em relações de direito privado, revestidas de simplicidade fática e jurídica, ensejando pronta solução na instância ordinária. Apenas excepcionalmente essas causas são resolvidas mediante aplicação direta de preceitos normativos constitucionais. E mesmo quando isso ocorre, são incomuns e improváveis as situações em que a questão constitucional debatida contenha o requisito da repercussão geral de que tratam o art. 102, § 3º, da Constituição, os arts. 543-A e 543-B do Código de Processo Civil e o art. 322 e seguinte do Regimento Interno do STF.
+    2. Por isso mesmo, os recursos extraordinários interpostos em causas processadas perante os Juizados Especiais Cíveis da Lei 9.099/95 somente podem ser admitidos quando (a) for demonstrado o prequestionamento de matéria constitucional envolvida diretamente na demanda e (b) o requisito da repercussão geral estiver justificado com indicação detalhada das circunstâncias concretas e dos dados objetivos que evidenciem, no caso examinado, a relevância econômica, política, social ou jurídica.
+    3. À falta dessa adequada justificação, aplicam-se ao recurso extraordinário interposto nas causas de Juizados Especiais Estaduais Cíveis da Lei 9.099/95 os efeitos da ausência de repercussão geral, nos termos do art. 543-A do CPC.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 04 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
