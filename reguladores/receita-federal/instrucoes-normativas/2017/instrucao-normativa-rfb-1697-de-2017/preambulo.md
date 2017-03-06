@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1697, de 2 de março de 2017
+Altera a Instrução Normativa RFB nº 1.599, de 11 de dezembro de 2015, que dispõe sobre a Declaração de Débitos e Créditos Tributários Federais (DCTF).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 5º do Decreto-Lei nº 2.124, de 13 de junho de 1984, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e no art. 7º da Lei nº 10.426, de 24 de abril de 2002, resolve:
