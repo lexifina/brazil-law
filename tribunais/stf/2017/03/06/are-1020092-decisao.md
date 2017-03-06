@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário em face do acórdão da Turma Recursal da Paraíba assim ementado (e-DOC 19, p. 1):
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. EX-FERROVIÁRIO. PEDIDO DE EQUIPARAÇÃO DOS PROVENTEOS COM O PADRÃO REMUNERATÓRIO DO PESSOAL DA ATIVA. AUSÊNCIA DE PROVAS. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA PARTE AUTORA. ALEGAÇÃO DE NULIDADE. PEDIDO DE APRESENTAÇÃO DE PROVAS PELO DEMANDADO NÃO APRECIADO. RECURSO PROVIDO. SENTENÇA ANULADA.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, caput, II, XXXV, XXXVI, LIV e LV; 37, caput e II; e 131, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a impossibilidade de impor à União a obrigação de colher provas ou diligenciar junto a empresas públicas da Administração Indireta, para obtenção de documentos da parte adversa na ação.
+    A Vice-Presidência do TRF da 4ª Região inadmitiu o recurso por ausência de prequestionamento e em virtude de inexistir ofensa direta à Constituição Federal.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, assento que a suposta violação ao disposto no artigo 131, da Constituição Federal, não foi objeto de prequestionamento na via ordinária, razão pela qual o recurso, nesse ponto, não merece conhecimento, pelo óbice das Súmulas 282 e 356 do STF.
+    Quanto ao mais, o Tribunal de origem, ao decidir a questão repisando os fundamentos da sentença, assim concluiu:
+    “4. No tocante às regras acerca da produção de provas, o art. 330 do CPC prevê que, ao autor, cabe a incumbência de produzir provas constitutivas de seu direito. A doutrina, no tocante ao tema produção de provas, diz que “a distribuição do ônus da prova deve atentar não apenas à regra derivada da previsão abstrata legislativa (...), mas também - senão principalmente, às peculiaridades de cada caso concreto e às reais possibilidades de os litigantes, inclusive com relação ao objeto e aos meio de prova, desincumbirem-se adequadamente de seu ônus probatório com vistas à formação do convencimento do magistrado” (BUENO, Cássio Scarpinella. Curso Sistemático de direito processual civil: procedimento comum: procedimentos ordinário e sumário, 2: tomo I. 4ª ed. São Paulo: Saraiva, 2011, pág. 284).
+    5. No caso dos autos, como a parte autora não tem acesso às provas que demonstrem a diferença nos valores dos salários que porventura existam, e existindo pedido de que fosse determinado ao demandado a juntada de provas acerca dos valores questionados, esta Turma Recursal entende que houve violação do direito da parte, quando não foi permitido a produção de provas, o que enseja a nulidade do julgamento.”
+    Assim, para divergir do entendimento do Tribunal a quo, seria necessário o reexame das provas dos autos e da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo, nos termos da Súmula 279 e da jurisprudência do STF.
+    Nesse sentido:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NULIDADE DE ATO ADMINISTRATIVO DE RETIFICAÇÃO DE APOSENTADORIA EM RAZÃO DE EVENTUAL DECADÊNCIA ADMINISTRATIVA. LEI 9.784/99. VIOLAÇÃO AO ART. 5º, XXXVI E XL. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. 1. A ausência de discussão, pelo acórdão recorrido, da matéria ventilada em sede de recurso extraordinário inviabiliza sua apreciação pelo STF, diante das Súmulas STF 282 e 356. 2. É pacífica a jurisprudência desta Corte ao não admitir, em sede extraordinária, alegação de ofensa indireta à Constituição Federal. Precedentes. 3. Agravo regimental improvido.” (AI 765.151-AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 21.05.2010)
+    Ante o exposto, conheço do agravo para negar provimento ao recurso extraordinário, nos termos do artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 6 de março de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
