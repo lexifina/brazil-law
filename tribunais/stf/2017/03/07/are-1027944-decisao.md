@@ -1,0 +1,21 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Andir Armani Helff e Francisco Joselito Helff contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONSTRIÇÃO DE IMÓVEL RURAL. ALEGAÇÃO DE IMPENHORABILIDADE. AUSÊNCIA DE PROVA DA DESTINAÇÃO ECONÔMICA DO BEM CONSTRITO.
+    Hipótese em que não restou demonstrada a utilização da pequena propriedade rural para o sustento dos embargantes. Consequente manutenção da constrição.
+    APELAÇÃO DESPROVIDA.”
+    As partes ora recorrentes, ao deduzirem o apelo extremo em questão, sustentaram que o Tribunal "a quo" teria transgredido o preceito inscrito no art. 5º, XXVI, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios:
+    “No caso dos autos, a magistrada que instruiu o feito afastou a alegada impenhorabilidade em razão da ausência de provas de que o imóvel era trabalhado pela família.
+    Com efeito, os embargos foram opostos em 04/01/2012 (fl. 02), e os únicos documentos que dão conta da exploração econômica da propriedade rural datam de 2002 a 2007 (fls. 21 e 71/144). O documento de fl. 19, embora date de 2011, é mera ficha de cadastro junto à Secretaria da Fazenda Estadual, não fazendo prova da produção agrícola.
+    E importa salientar que os embargantes foram intimados para que produzissem elementos probatórios quanto à destinação do bem constrito (fls. 196/196-v), o que não lograram fazer. Por outro lado, os documentos acostados ao apelo, além de tardios, tampouco fazem prova bastante do alegado, por se tratar de meras declarações dos sindicatos dos trabalhadores rurais de Boqueira do Leão (fls. 186/187).
+    Logo, ainda que se trate da única propriedade imobiliária dos embargantes, a proteção constitucional pretendida é condicionada também à demonstração do trabalho pela família, o que não ocorreu no caso dos autos.”
+    Vê-se, portanto, que a pretensão deduzida pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC/15, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC/15, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no  § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 07 de março de 2017.
+Ministro CELSO DE MELLO
+Relator
