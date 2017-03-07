@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Colegiado de origem, reformando o entendimento o Juízo, julgou improcedente o pedido de concessão de auxílio-doença, tendo por não preenchidos os requisitos da legislação de regência. No extraordinário cujo processamento busca alcançar, o recorrente aponta a violação dos artigos 1º, inciso III, 5º, inciso XIII, 40, cabeça, e 201, inciso I, da Constituição Federal. Sustenta o direito ao benefício pleiteado.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    No caso dos autos, de fato, constata-se do conjunto probatório que a parte autora já se encontrava sem condições de trabalho quando se filiou ou reingressou ao RGPS, caracterizando a preexistência da incapacidade.
+    Embora o perito tenha constatado a incapacidade parcial e permanente da parte autora em razão de artrose de joelhos, fixou a data de início da incapacidade em Dezembro/2014, com base no único exame médico apresentado pela parte autora, ante a inexistência de prontuários completos e exames que permitiriam a fixação mais precisa da DII.
+    Com efeito, a parte não comprova a existência de nenhum vínculo empregatício e nem mesmo do exercício de qualquer trabalho como autônoma, de modo obviamente a demonstrar a existência de sua capacidade laborativa quando iniciou seus recolhimentos como contribuinte individual, ao contrário, suas contribuições sempre foram realizadas como segurada facultativa.
+     Os registros do CNIS demonstram que a parte autora teria ingressando no RGPS como contribuinte individual (facultativo), aos 57 anos de idade e exatamente na época em que iniciaram os sintomas da incapacidade, uma vez que, durante sua entrevista pelo perito afirmou que os problemas ocorrem há cinco anos.
+    Ou seja, resta nítido que a conclusão alcançada pelo perito judicial de que incapacidade ocorreu apenas a partir de 2014 se deu pelo simples fato da parte autora não ter apresentado nos autos a integralidade de seus documentos médicos, os quais permitiriam fixar com exatidão o início da incapacidade em período anterior ao seu ingresso no RGPS.
+    Dessa forma, embora fixada pelo perito a data de início da incapacidade somente em 2014, do conjunto probatório concluo que a parte autora já se encontrava sem condições de trabalho quando ingressou no RGPS em 2012.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    De resto, o Tribunal, no recurso extraordinário com agravo nº 821.296/PE, da relatoria do ministro Roberto Barroso, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à verificação dos requisitos legais para a concessão de benefício previdenciário.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia da parte agravada em apresentar contraminuta ao agravo.
+    4. Publiquem.
+Brasília, 7 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
