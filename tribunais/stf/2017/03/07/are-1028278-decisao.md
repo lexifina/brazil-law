@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro confirmou o entendimento do Juízo quanto à improcedência do pedido de indenização por danos morais e repetição de indébito. No extraordinário, cujo processamento busca alcançar, a recorrente aponta violado o artigo 5º, incisos XXXV e LV, da Constituição Federal. Argui a nulidade da sentença por cerceamento de defesa, tendo como indispensável a produção de prova testemunhal para constatar o constrangimento, visando à reparação pleiteada.
+    2. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Colho do acórdão recorrido o seguinte trecho:
+    A preliminar de nulidade da sentença, por cerceamento de defesa, não merece acolhimento.
+    O juiz é o destinatário das provas, competindo-lhe valorar as que se mostrem úteis ao seu convencimento, na forma do art. 130 do Código de Processo Civil.
+    Outrossim, a instrução probatória é condicionada não só à possibilidade jurídica da prova, mas também ao interesse e à relevância de sua produção.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia da parte agravada em apresentar contraminuta ao agravo.
+    4. Publiquem.
+Brasília, 7 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
