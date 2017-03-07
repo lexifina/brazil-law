@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à procedência do pedido de transferência do paciente para unidade hospitalar dotada de centro de tratamento de terapia intensiva, considerada a garantia constitucional do atendimento integral à saúde. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, inciso LIV, 37, cabeça e § 6º, 197, 198, 199, § 1º e § 2º e 200 da Constituição Federal. Argui a nulidade do acórdão por negativa de prestação jurisdicional. Diz que o autor deve ser internado em hospital da rede pública, não lhe cabendo a escolha por instituição particular, sob pena de contrariedade ao princípio da isonomia, considerados os demais cidadãos. Discorre sobre a impossibilidade de condenar o Estado ao reembolso de gastos decorrentes de internação em hospital privado.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Acresce que recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença, confirmada pela Turma Recursal, o seguinte trecho:
+    A parte autora comprovou por atestados médicos a existência da moléstia descrita na petição inicial e a necessidade de se submeter à transferência e ao tratamento médico-hospitalar pretendido em hospital da rede pública.
+    A remoção do autor para unidade com centro de tratamento intensivo, não necessariamente particular, foi determinada segundo as necessidades decorrentes da doença. A escolha não decorreu da natureza do hospital, mas sim da possibilidade em fornecer ao paciente tratamento adequado. As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 7 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
