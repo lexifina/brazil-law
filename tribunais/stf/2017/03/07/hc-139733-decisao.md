@@ -1,0 +1,45 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Petterson Rafael Eufrásio da Silva, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao RHC nº 71.696/PR, Relator o Ministro Joel Ilan Paciornik.
+    Sustenta a impetrante, em suma, a nulidade da audiência de instrução e julgamento por violação ao princípio da ampla defesa.
+    Segundo a defesa,
+    “não obstante ser tarefa do juiz nomear defensor para praticar algum ato processual quando o réu está desassistido por seu patrono (o chamado defensor ad hoc), essa regra deve sofrer mitigação, uma vez que o acusado tem o direito de ser acompanhado por quem ele entender melhor.”
+    Por esse contexto, sustenta a impetrante que “a nulidade consistiu em nomear um advogado que não foi indicado pelo réu, motivo pelo qual a audiência em que seu defensor não estava presente deve ser anulada, uma vez que de sua mantença decorreria constrangimento ilegal.”
+    Requer, liminarmente, a concessão da ordem para que seja “anulada a audiência de instrução e julgamento, porquanto o réu não foi assistido por defensor que melhor lhe aproveitaria os interesses.”
+    Examinados os autos, decido.
+    Narra a impetrante, na inicial, que
+    “[o] réu foi denunciado por suposta prática de crime de tráfico de drogas.
+    Realizada audiência de instrução de julgamento, o advogado do réu não compareceu e lhe foi a contragosto nomeado defensor dativo.
+    Diante disso a Defensoria Pública do Estado do Paraná – DPE PA impetrou habeas corpus requerendo nulidade do ato, uma vez que o princípio da ampla defesa e contraditório foi violado.
+    O TJPA denegou a ordem ao fundamento de que como foi convocado defensor ad hoc para o ato, não haveria falar em violação ao princípio da ampla defesa.
+    Inconformada, a defesa interpôs Recurso Ordinário Constitucional com pedido de liminar, usando os mesmos argumentos lançados na inicial do writ, afirmando ainda que por se tratar de nulidade absoluta, não seria necessário a demonstração de efetivo prejuízo ao réu. O ROC foi admitido (fls. 272), a liminar indeferida (fls. 288) e no mérito não provido, sob o espeque de que o prejuízo em matéria penal deve ser demonstrado, mesmo diante de uma nulidade absoluta, face ao princípio do pas de nullité sans grief.” (fls. 1/2 da inicial – grifos no original).
+    Transcrevo a ementa do julgado proferido pelo Superior Tribunal de Justiça:
+    “RECURSO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. NÃO COMPARECIMENTO DO ADVOGADO CONSTITUÍDO. NOMEAÇÃO DE DEFENSOR AD HOC. AUSÊNCIA DE NULIDADE. PREJUÍZO NÃO COMPROVADO. RECURSO A QUE SE NEGA PROVIMENTO.
+    Na espécie, o advogado constituído pelo recorrente, devidamente intimado, não compareceu à audiência de instrução e julgamento, ocasião em que o Magistrado condutor nomeou defensor dativo para a assistência técnica da parte.
+    Não há exigência legal de abertura de prazo ou de nomeação de defensor público na hipótese de ausência do profissional constituído pela parte. Com efeito, o que preconiza o art. 265, § 2º, do Código de Processo Penal é que, na ausência injustificada no profissional constituído, o juiz não determinará o adiamento de ato algum do processo, devendo nomear defensor substituto, ainda que provisoriamente ou só para o efeito do ato, bastando a nomeação de defensor ad hoc, como havido na espécie.
+    Ademais, no processo penal, o reconhecimento de nulidade, ainda que absoluta, dos atos processuais demanda a demonstração de prejuízo concreto, não se afigurando suficiente a simples e alegada deficiência de defesa. Nesse sentido, tem-se o entendimento consagrado pela Súmula n. 523 do Supremo Tribunal Federal, no sentido de que, no processo penal, a falta de defesa constitui nulidade absoluta, mas sua deficiência só o anulará se houver prova do prejuízo para o réu. Trata-se de aplicação do brocardo jurídico pas de nullité sans grief, positivado no art. 563 do Código de Processo Penal.
+    Diverge do quadro fático erigido no acórdão recorrido a alegação de que o acusado requerera a assistência de defensor público anteriormente à audiência de instrução e julgamento, revelando-se o habeas corpus inviável para o reexame fático-probatório dos autos. Outrossim, a afirmação se afigura contraditória com a notícia de que o advogado constituído pela defesa intentou comparecer à audiência, não logrando êxito em razão das condições de trânsito na localidade.
+    Recurso em habeas corpus a que se nega provimento.” (anexo 5 – grifos do autor)
+    Essa é a razão pela qual se insurge a impetrante neste writ.
+    Pelo que há na decisão proferida pela Quinta Turma do Superior Tribunal de Justiça, não se vislumbra ilegalidade flagrante, abuso de poder ou teratologia. Com efeito, o julgado proferido por aquela Corte encontra-se suficientemente motivado, restando justificado o seu convencimento.
+    Ademais, consoante bem apontou o Ministro Joel Ilan Paciornik no voto condutor do acórdão,
+    “[n]ão há exigência legal de abertura de prazo ou de nomeação de defensor público na hipótese de ausência do profissional constituído ela parte. Com efeito, o que preconiza o art. 265, § 2º, do Código de Processo Penal é que, na ausência injustificada do profissional constituído, o juiz não determinará o adiamento de ato algum do processo, devendo nomear defensor substituto , ainda que provisoriamente ou só para o efeito do ato, bastando a nomeação de defensor ad hoc, como havido na espécie.
+    (...)
+    Ademais, no processo penal, o reconhecimento de nulidade, ainda que absoluta, dos atos processuais demanda a demonstração de prejuízo concreto, não se afigurando suficiente a simples e alegada deficiência de defesa. Nesse sentido, tem-se o entendimento consagrado pela Súmula n. 523 do Supremo Tribunal Federal, no sentido de que, no processo penal, a falta de defesa constitui nulidade absoluta, mas sua deficiência só o anulará se houver prova do prejuízo para o réu.
+    Trata-se de aplicação do brocardo jurídico pas de nullité sans grief, positivado no art. 563 do Código de Processo Penal.” (grifos do autor).
+    Esse entendimento está em perfeita consonância com a jurisprudência desta Suprema Corte, segundo a qual, “para o reconhecimento de eventual nulidade, ainda que absoluta, faz-se necessária a demonstração do prejuízo.” (HC nº 121.157/PE, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/4/14).
+    Por esse prisma, anoto que o Tribunal de Justiça do Paraná, ao denegar o habeas corpus lá impetrado, ressaltou os seguintes aspectos sobre o caso:
+    “[O] paciente foi denunciado em 18/02/2015 (fls. 53 e verso/55 e verso), apresentou defesa prévia no dia 21/02/2015 (fl. 68) por meio de advogado devidamente constituído. Em 17/03/2015, realizou-se a audiência de instrução e julgamento, quando o causídico signatário da defesa prévia deixou de comparecer por estar ‘preso no trânsito’. Assim, a autoridade judiciária designou o advogado Dr. Fernando Chin Fei, OAB3/PR nº 18858, para assistir o réu no ato.
+    2.3. Da leitura do termo de audiência (fl. 97), não se verifica que o paciente tenha, neste momento, solicitado a assistência por parte da Defensoria Pública. Ressalte-se que somente em 24/03/2015 foi trazida aos autos a declaração de que o paciente tinha intenção de ser representado pela Defensoria Pública (fl. 104).
+    (…)
+    Assim, não restou comprovado o prejuízo no caso em questão, vez que o paciente foi devidamente assistido por profissional habilitado na audiência de instrução e julgamento.
+    2.13. Consigne-se, inclusive, que, a defesa do acusado está sendo conduzida pela Defensoria Pública, cujo representante apresentará as alegações finais, conforme se extrai das informações prestadas pela autoridade impetrada (fl. 128).” (anexo 3 – grifos nossos)
+    Conclui-se, portanto, que as circunstâncias do caso não evidenciam qualquer prejuízo decorrente da realização do ato processual no qual o paciente foi devidamente representado por advogado dativo, não havendo que se falar, portanto, em nulidade.
+    De outra parte, o fato de a defesa do paciente estar a cargo da defensoria pública atualmente, como bem registrou o Tribunal de Justiça local, reforça a ausência do prejuízo, na medida em que eventuais nulidades associadas à instrução processual, como a que se sustenta, poderão ser arguidas em sede alegações finais.
+    Registre-se, por fim, que o Supremo Tribunal Federal já se pronunciou no sentido de que “o habeas corpus é remédio jurídico destinado exclusivamente à tutela da liberdade de locomoção, razão por que descabe, nessa via, analisar questões que não representem ameaça a esse direito (...)” (HC nº 125.991/MG, Segunda Turma, de minha relatoria, DJe de 28/4/15)
+    Com essas considerações, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 7 de março de 2017.
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
