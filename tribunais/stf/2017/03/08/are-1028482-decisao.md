@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “Agravo de instrumento – Medida Cautelar – Exibição de documentos – recurso especial que possui apenas efeito devolutivo – correta a r. decisão agravada que em conformidade com julgamento proferido em V. Acórdão deste E. Tribunal determinou a exibição de documentos. Recurso desprovido” (pág. 41 do vol. 2 do doc. eletrônico).
+    Os embargos de declaração opostos em seguida foram rejeitados.
+    No RE, fundado no art. 102, III, a e c, da Constituição Federal, sustenta-se, em suma, violação aos arts. 5°, XXXV, e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque os dispositivos constitucionais arguidos pela recorrente não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Nesse sentido, cito a ementa do ARE 900.962-AgR/BA, da relatoria do Min. Luiz Fux:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. COBRANÇA DE COTAS CONDOMINIAIS INADIMPLIDAS. INSURGÊNCIA CONTRA O PERCENTUAL DOS JUROS MORATÓRIOS APLICADOS. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. ALEGAÇÃO TARDIA. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO”.
+    Outrossim, os Ministros deste Tribunal, no julgamento do AI 791.292-QO-RG/PE (Tema 339), Rel. Min. Gilmar Mendes, reconheceram a repercussão geral e reafirmaram a jurisprudência no sentido de que a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu. Nesse sentido, transcrevo a ementa do referido precedente:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (grifos meus).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 8 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
