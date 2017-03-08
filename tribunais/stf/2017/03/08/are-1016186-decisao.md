@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à falta de prova da inadequação do benefício da assistência judiciária gratuita. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação do artigo 5º, inciso LXXIV, da Constituição Federal. Afirma erro na valoração do conjunto probatório, do qual resulta a inexistência de hipossuficiência do recorrido.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    EMENTA: APELAÇÃO CÍVEL – AÇÃO DE IMPUGNAÇÃO À ASSISTÊNCIA JUDICIÁRIA GRATUITA – AUSÊNCIA DE PROVAS – ÔNUS DO IMPUGNANTE – CONTRATAÇÃO DE ADVOGADO PARTICULAR – SENTENÇA MANTIDA. 1. O benefício de assistência judiciária gratuita deve ser concedido com base na afirmação da própria parte interessada de que se encontra em estado de miserabilidade jurídica , cabendo à parte contrária comprovar que tal alegação é inverídica. Inteligência do art. 4º, § 1º da Lei 1.060/50. 2. O deferimento da assistência judiciária gratuita não requer representação da parte pela Defensoria Pública, assim como postulado pelo apelante. A valoração da capacidade econômica da parte não autoriza a cognição de que a mesma é apta a suportar as despesas do processo. 3. Não comprovado pelo impugnante a possibilidade financeira do impugnado em arcar com as custas processuais, manter os benefícios da assistência judiciária gratuita.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Por fim, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil, considerada a inércia da parte agravada em apresentar contraminuta ao agravo.
+    4. Publiquem.
+Brasília, 8 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
