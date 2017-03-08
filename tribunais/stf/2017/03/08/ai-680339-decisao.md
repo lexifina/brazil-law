@@ -1,0 +1,13 @@
+DECISÃO
+AGRAVO REGIMENTAL – JUÍZO DE RETRATAÇÃO.
+ICMS – SUBSTITUIÇÃO TRIBUTÁRIA – – BALIZAS – CRÉDITO – ALCANCE DO § 7º DO ARTIGO 150 DA LEI MAIOR – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE AGRAVO DESPROVIDO.
+    1. Afasto o sobrestamento anteriormente determinado.
+    2. Reconsidero parcialmente a decisão de folha 1.031.
+    3. Atentem para o tema veiculado. O Tribunal de Justiça do Estado de São Paulo, reformando a segurança concedida no Juízo, proclamou a harmonia do regime de substituição tributária do Estado de São Paulo com o disposto no artigo 150, § 7º, da Carta Federal. Concluiu pela legitimidade das exigências administrativas impostas pelo referido ente federado, por meio dos Decretos nº 41.653/1997 e nº 45.490/00, para reconhecimento do direito ao crédito do Imposto sobre Circulação de Mercadorias e Serviços – ICMS recolhido a maior na citada substituição tributária. A insurgência inicial do agravante volta-se justamente contra tais requisitos, os quais, segundo articula, não se mostram compatíveis com a ordem constitucional.
+    A irresignação não merece prosperar. O Supremo, em 19 de outubro de 2016, ao concluir o exame do recurso extraordinário nº 593.849-2/MG, relator o ministro Edson Fachin, assentou, sob o ângulo da repercussão geral, ser devida a restituição da diferença do ICMS pago a maior no regime de substituição tributária para a frente, nos casos em que a base de cálculo efetiva da operação for inferior à presumida. Na oportunidade, o Tribunal também julgou improcedentes as ações diretas de inconstitucionalidade nº 2.675/PE e nº 2.777/SP, redator do acórdão o ministro Ricardo Lewandowski, declarando a constitucionalidade de leis dos Estados de Pernambuco e São Paulo autorizadoras da restituição na situação.
+    O Tribunal de origem decidiu a questão nos termos do pronunciamento do Supremo nas aludidas ações diretas, reconhecendo a legitimidade do regime de restituição do Estado de São Paulo, sem ressalvas quanto às exigibilidades administrativas requeridas para o uso da modalidade de arrecadação pretendida pelo contribuinte. Divergir desse entendimento demandaria a interpretação dos atos infralegais do ente. A controvérsia sobre o alcance de norma local não viabiliza, conforme sedimentado pela jurisprudência –  verbete  nº  280  da Súmula: “Por ofensa a direito local não cabe recurso extraordinário” –, o acesso ao Supremo. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de origem.
+    3. Ante o quadro, desprovejo o agravo de instrumento.
+    4. Publiquem.
+Brasília, 8 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
