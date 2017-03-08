@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “"AGRAVO DE INSTRUMENTO - Ação declaratória de inexistência de relação jurídico-tributária cumulada com restituição de imposto - Determinação à Fazenda Pública de apresentação de planilhas referentes à retenção do imposto de renda - Admissibilidade - Art. 475-B, § 1° do CPC - Imposição de multa diária - Matéria preclusa" (pág. 77 do volume eletrônico 2).
+    No RE, fundado no art. 102, III, a, sustenta-se, em suma, violação aos arts. 5°, LIV e LV; 100, caput; 125, § 1° e § 2°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque as questões constitucionais arguidas não foram prequestionadas. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+    Ainda que tal óbice pudesse ser superado, esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (tema 660), Rel. Min. Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Ementa: Alegação de cerceamento do direito de defesa. tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Por fim, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código de Processo Civil). Eventual violação ao texto constitucional se daria de forma meramente reflexa, circunstância que torna inviável o recurso extraordinário. Nesse sentido, cito as seguintes decisões: ARE 652.559/PE, Rel. Min. Dias Toffoli; e ARE 960.150/SP, Rel. Min. Edson Fachin.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 8 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
