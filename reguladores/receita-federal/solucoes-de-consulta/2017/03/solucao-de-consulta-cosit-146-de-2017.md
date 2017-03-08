@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 146, de 23 de fevereiro de 2017
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: REIDI. CONSÓRCIO. FORNECIMENTO DE BENS E SERVIÇOS PARA PESSOA JURÍDICA HABILITADA. FATURAMENTO. POSSIBILIDADE.
+Para fins de aplicação do Reidi, o consórcio regularmente constituído pode emitir nota fiscal de fornecimento de bens ou serviços para pessoa jurídica habilitada ao Regime relativamente às operações vinculadas ao projeto aprovado, de titularidade do adquirente dos bens ou serviços, desde que autorizado pela respectiva legislação do ICMS ou do ISS, devendo cada pessoa jurídica consorciada efetuar a escrituração segregada das operações relativas à sua participação no consórcio em seus próprios livros contábeis, fiscais e auxiliares, observado o regime tributário a que cada uma se encontra sujeita.
+DISPOSITIVOS LEGAIS: Lei nº 11.488, de 2007, arts. 1º e 2º; Lei nº 12.402, de 2011; Decreto nº 6.144, de 2007, arts. 1º, 2º, 3º, 5º e 7º; Lei nº 6.404, de 1976, arts. 278 e 279; IN RFB nº 758, de 2007, art. 4º, § 2º e art. 5º; IN RFB nº 1.199, de 2011.
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: REIDI. CONSÓRCIO. FORNECIMENTO DE BENS E SERVIÇOS PARA PESSOA JURÍDICA HABILITADA. FATURAMENTO. POSSIBILIDADE.
+Para fins de aplicação do Reidi, o consórcio regularmente constituído pode emitir nota fiscal de fornecimento de bens ou serviços para pessoa jurídica habilitada ao Regime relativamente às operações vinculadas ao projeto aprovado, de titularidade do adquirente dos bens ou serviços, desde que autorizado pela respectiva legislação do ICMS ou do ISS, devendo cada pessoa jurídica consorciada efetuar a escrituração segregada das operações relativas à sua participação no consórcio em seus próprios livros contábeis, fiscais e auxiliares, observado o regime tributário a que cada uma se encontra sujeita.
+DISPOSITIVOS LEGAIS: Lei nº 11.488, de 2007, arts. 1º e 2º; Lei nº 12.402, de 2011; Decreto nº 6.144, de 2007, arts. 1º, 2º, 3º, 5º e 7º; Lei nº 6.404, de 1976, arts. 278 e 279; IN RFB nº 758, de 2007, art. 4º, § 2º e art. 5º; IN RFB nº 1.199, de 2011.
+[arquivo anexo: SC Cosit nº 146-2017.pdf]
