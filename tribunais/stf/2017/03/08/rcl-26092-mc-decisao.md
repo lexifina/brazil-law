@@ -1,0 +1,26 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta por Marino Rebello Dias de Barros em face de ato do Presidente do Tribunal de Justiça do Estado de São Paulo, que abriu o 10º Concurso Público de Provas e Títulos para outorga de Delegações de Notas e Registro do Estado.
+    Na petição inicial, o reclamante alega que a decisão reclamada ofendeu a autoridade desta Corte, consubstanciada na decisão da ADI 2.415, ao lançar certame aproveitando serventias criadas pelos Provimentos 747/2000 e 750/2001 do Conselho Superior da Magistratura do Estado.
+    Afirma que o acórdão da ADI 2.415, apesar de julgar improcedente o pedido, determinou que a criação, extinção e modificação das serventias extrajudiciais de São Paulo somente poderiam ser feitas mediante lei em sentido formal.
+    Aduz que o atual concurso é mera sequência dos anteriores, utilizando-se de relação única de serventias vagas segundo a reestruturação realizada pelos citados provimentos 747 e 750. Pondera que, consoante o decidido na ADI 2.415, não é mais possível organizar novos concursos oferecendo serventias não estruturadas por lei em sentido formal.
+    Alega que a lista de vacância a ser preenchida no concurso possui cartórios criados pelos citados provimentos que ainda não foram providos ou instalados, os quais, misturados às serventias já anteriormente existentes, alteram a atribuição de cada uma à forma de preenchimento por ingresso ou por remoção.
+    Informa ser oficial designado do Registro de Imóveis da Comarca de Cruzeiro, a qual se encontra na lista geral de vacâncias a serem preenchidas pelos aprovados no concurso, na modalidade “remoção”, mas que poderia constar na modalidade “ingresso”, caso a ordem de vacâncias fosse alterada pela exclusão das serventias criadas pelos Provimentos 747 e 750. (eDOC 1, p. 3)
+    Sustenta que essa situação faz com que “oficiais interinos de serventias que estão na lista pelo critério ‘remoção’ fiquem impedidos de concorrerem às mesmas, pessoas estas que estão há muito tempo exercendo suas atividades sempre com a esperança de um dia assumirem a titularidade da delegação”. (eDOC 1, p. 8)
+    Entende que o 10º Concurso para outorga de Delegações deveria ser suspenso, dado o risco de que os aprovados que assumirem as vagas criadas pelos provimentos 747 e 750 tenham suas delegações anuladas em virtude do vício de inconstitucionalidade de tais atos. (eDOC 1, p. 10)
+    Requer a concessão de liminar para excluir do concurso a delegação do Registro de Imóveis e Anexos da Comarca de Cruzeiro, e ao final sua confirmação.
+    Em petição posterior, o reclamante solicita urgência na apreciação do feito. (eDOC 9)
+    É o relatório.
+    Passo à análise do pedido liminar.
+    A reclamação, tal como prevista no art. 102, I, l, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+    No caso, o reclamante alega, em síntese, que o ato reclamado, consubstanciado na inclusão, no 10º Concurso, de uma serventia criada pelo Provimento 747/2000, mas ainda não instalada, viola a decisão proferida pelo STF na ADI 2.415.
+    Com efeito, esta Corte, ao julgar improcedente a referida ação direta de inconstitucionalidade, assentou que a criação e extinção de serventias extrajudiciais apenas podem ser realizadas por meio de lei em sentido formal, todavia manteve os efeitos dos provimentos questionados para preservar as situações de fato deles decorrentes, inclusive o desmembramento de serventias.
+    Verifico que esta Corte ainda não se posicionou quanto à ultra-atividade dos efeitos dos Provimentos 747 e 750/2000 na composição da lista geral de vacâncias, havendo decisões no sentido de permitir que os ofícios por eles criados fossem oferecidos em concursos posteriores ao Sétimo (Rcl 15.529, Min. Rosa Weber, DJe 14.11.2016; Rcl 15.506, Min. Teori Zavascki, DJe 14.2.2014) e também no sentido contrário (Rcl 22.913, de minha lavra, DJe 9.12.2016).
+    Constato, por outro lado, que o reclamante não logrou demonstrar que a delegação do Registro de Imóveis da Comarca de Cruzeiro, oferecida na lista geral na modalidade “remoção”, passaria a ser oferecida na modalidade “ingresso” se realizado o expurgo de todas as serventias criadas pelos Provimentos 747 e 750/2000, circunstância indispensável para caracterizar seu interesse jurídico no manejo do writ.
+    Tendo em vista a necessidade de maiores esclarecimentos, a excepcionalidade da concessão de liminar inaudita altera parte e a ausência de demonstração da efetiva existência de fumus boni iuris pelo reclamante, não vislumbro os requisitos necessários ao deferimento de tal medida neste momento processual, sem prejuízo de nova análise após a colheita das manifestações.
+    Ante o exposto, indefiro o pedido de liminar.
+    Solicitem-se informações à autoridade reclamada (art. 989, I, NCPC).
+    Após, abra-se vista à Procuradoria-Geral da República (art. 991, NCPC).
+    Publique-se.
+    Brasília, 8 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
