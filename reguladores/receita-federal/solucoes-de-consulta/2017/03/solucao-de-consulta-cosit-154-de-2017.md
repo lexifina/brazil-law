@@ -1,0 +1,12 @@
+Solução de Consulta Cosit nº 154, de 2 de março de 2017
+ASSUNTO:CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: IMPORTAÇÃO. ADICIONAL DE ALÍQUOTA. ALCANCE E PRODUÇÃO DE EFEITOS
+O adicional de alíquota da Cofins-Importação estabelecido pelo § 21 do art. 8º da Lei nº 10.865, de 2004:
+a) entre 1º de dezembro de 2011 e 31 de julho de 2013, incidia apenas nas importações dos produtos referidos no § 21 do art. 8º da Lei nº 10.865, de 2004, que se submetiam à alíquota da Cofins-Importação estabelecida no inciso II do caput do art. 8º da Lei nº 10.865, de 2004
+b) a partir de 1º de agosto de 2013, incide nas importações dos produtos referidos no § 21 do art. 8º da Lei nº 10.865, de 2004, estejam elas submetidas às alíquotas da Cofins-Importação estabelecidas no inciso II caput ou nos parágrafos do art. 8º da Lei nº 10.865, de 2004.
+c) deve ser aplicado na importação de produto integrante de seu campo de incidência mesmo que em relação a tal produto exista redução, parcial ou total, ou majoração da alíquota da Cofins-Importação (inclusive cobrança concentrada ou monofásica), concedida diretamente pelo art. 8º da Lei nº10.865, de 2004 (em qualquer de seus parágrafos), ou por ato infralegal, sejam as alíquotas aplicáveis ad valorem ou específicas.
+IMPORTAÇÃO. ADICIONAL DE ALÍQUOTA. PRODUTOS CLASSIFICADOS NOS CÓDIGOS 40.11 E 40.13 DA TIPI.
+Os bens relacionados nos códigos 40.11 e 40.13 da TIPI, incluídos a partir de 1º de janeiro de 2013 no Anexo I da Lei nº 12.546, de 2011, através do art. 2º da MP nº 582, de 2012, convertida na Lei nº 12.794, de 2013, passaram a sujeitar-se ao adicional da Cofins-Importação a que se refere o § 21 do art. 8º da Lei nº 10.865, de 2004, apenas a partir de 1º de agosto de 2013.
+Vinculada ao Parecer Normativo COSIT nº 10, de 2014, publicado no Diário Oficial da União – DOU - de 21 de novembro de 2014.
+DISPOSITIVOS LEGAIS: Lei nº 10.865, de 2004, art. 8º; Lei nº 12.546, de 2011; Lei nº 12.715, de 2012, arts. 53, 56 e 78; Lei nº 12.794, de 2013, arts. 2º e 21; Lei nº 12.844, de 2013, art. 12; Medida Provisória nº 164, de 2004; Medida Provisória nº 540, de 2011; Medida Provisória nº 563, de 2011, arts. 43, 46 e 54; Medida Provisória nº 582, de 2012, arts. 2º e 20; Medida Provisória nº 612, de 2013, art. 18 Decreto nº 7.828, de 2012; Parecer Normativo RFB nº 2, de 2013; e Parecer Normativo COSIT nº 10, de 2014.
+[arquivo anexo: SC Cosit nº 154-2017.pdf]
