@@ -1,0 +1,20 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Estado de Mato Grosso contra acórdão que, proferido pelo E. Tribunal de Justiça local, está assim ementado:
+    “RECURSO DE APELAÇÃO CÍVEL – AÇÃO CIVIL PÚBLICA – OBRIGAÇÃO DE FAZER – REFORMA DA CADEIA PÚBLICA MUNICIPAL – INGERÊNCIA NECESSÁRIA DO PODER JUDICIÁRIO – INEXISTÊNCIA DE AFRONTA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES E À ORDEM ORÇAMENTÁRIA – NECESSIDADE DE OFERECER PELO MENOS O MÍNIMO NECESSÁRIO À GARANTIA A VIDA, SAÚDE E DIGNIDADE DA PESSOA HUMANA – OBRIGAÇÃO DO PODER PÚBLICO – RECURSO DESPROVIDO.
+    Quando a Administração Pública de maneira injustificada é omissa em efetivar as políticas públicas constitucionalmente definidas e essenciais para a promoção da dignidade humana, a interferência do Poder Judiciário é perfeitamente legítima e serve como instrumento para restabelecer a integridade da ordem jurídica violada, razão pela qual não há ofensa ao princípio da Separação dos Poderes.
+    O Estado tem o dever constitucional, pelo menos de fornecer o ‘mínimo existencial’ à proteção dos reeducandos, com condições adequadas para o bom funcionamento da unidade prisional, em harmonia com o princípio da dignidade da pessoa humana, assegurando-lhes o direito à vida, saúde e integridade física e moral.
+    Não havendo comprovação objetiva da incapacidade econômico-financeira da pessoa estatal, inexistirá empecilho jurídico para que o Judiciário determine a inclusão de determinada política pública nos planos orçamentários do ente político.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 592.581/RS, Rel. Min. RICARDO LEWANDOWSKI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “REPERCUSSÃO GERAL. RECURSO DO MPE CONTRA ACÓRDÃO DO TJRS. REFORMA DE SENTENÇA QUE DETERMINAVA A EXECUÇÃO DE OBRAS NA CASA DO ALBERGADO DE URUGUAIANA. ALEGADA OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES E DESBORDAMENTO DOS LIMITES DA RESERVA DO POSSÍVEL. INOCORRÊNCIA. DECISÃO QUE CONSIDEROU DIREITOS CONSTITUCIONAIS DE PRESOS MERAS NORMAS PROGRAMÁTICAS. INADMISSIBILIDADE. PRECEITOS QUE TÊM EFICÁCIA PLENA E APLICABIILIDADE IMEDIATA. INTERVENÇÃO JUDICIAL QUE SE MOSTRA NECESSÁRIA E ADEQUADA PARA PRESERVAR O VALOR FUNDAMENTAL DA PESSOA HUMANA. OBSERVÂNCIA, ADEMAIS, DO POSTULADO DA INAFASTABILIDADE DA JURISDIÇÃO. RECURSO CONHECIDO E PROVIDO PARA MANTER A SENTENÇA CASSADA PELO TRIBUNAL.
+    I – É lícito ao Judiciário impor à Administração Pública obrigação de fazer, consistente na promoção de medidas ou na execução de obras emergenciais em estabelecimentos prisionais.
+    II – Supremacia da dignidade da pessoa humana que legitima a intervenção judicial.
+    III – Sentença reformada que, de forma correta, buscava assegurar o respeito à integridade física e moral dos detentos, em observância ao art. 5º, XLIX, da Constituição Federal.
+    IV – Impossibilidade de opor-se à sentença de primeiro grau o argumento da reserva do possível ou princípio da separação dos poderes.
+    V – Recurso conhecido e provido.” (grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC/15, art. 932, IV, “b”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 09 de março de 2017.
+Ministro CELSO DE MELLO
+Relator
