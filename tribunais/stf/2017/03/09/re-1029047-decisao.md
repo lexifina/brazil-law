@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão o qual permitiu o aproveitamento apenas parcial de créditos de ICMS, em caso de redução de base de cálculo decorrente de regime tributário facultativo.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em síntese, ofensa aos arts. 150, II, e § 6°, e 155, § 2º, XII, g, da Constituição, com o fim de que seja reconhecida a completa impossibilidade de aproveitamento dos créditos de ICMS, pois o presente caso versa sobre redução de base de cálculo concedida pelo Convênio ICMS 38/1989 como benefício fiscal facultativo.
+    Originalmente, o presente recurso extraordinário chegou ao Supremo Tribunal Federal nos autos do AI 789.767, que foi provido pela minha antecessora na relatoria do feito, Ministra Cármen Lúcia, a qual deu provimento ao agravo, para admitir o recurso extraordinário, e determinou a devolução dos autos à origem, para aplicação da sistemática da repercussão geral, com base no AI 768.491, Rel. Min. Gilmar Mendes (reautuado como RE 635.688).
+    Entretanto, o Tribunal de Justiça do Rio Grande do Sul devolveu os autos a esta Corte, por entender que a matéria debatida no presente processo é diversa da tratada no RE 635.688.
+    É o relatório necessário. Decido.
+    A pretensão recursal não merece acolhida.
+    O Supremo Tribunal Federal, ao apreciar o Tema 299 da repercussão geral, entendeu que a redução da base de cálculo do ICMS equivale à isenção parcial, o que acarreta a anulação proporcional do crédito relativo às operações anteriores, salvo disposição em lei estadual em sentido contrário. Confira-se a ementa do leading case:
+    “Recurso Extraordinário. 2. Direito Tributário. ICMS. 3. Não cumulatividade. Interpretação do disposto art. 155, §2º, II, da Constituição Federal. Redução de base de cálculo. Isenção parcial. Anulação proporcional dos créditos relativos às operações anteriores, salvo determinação legal em contrário na legislação estadual. 4. Previsão em convênio (CONFAZ). Natureza autorizativa. Ausência de determinação legal estadual para manutenção integral dos créditos. Anulação proporcional do crédito relativo às operações anteriores. 5. Repercussão geral. 6.Recurso extraordinário não provido.” (RE 635.688, Rel. Min. Gilmar Mendes, Tribunal Pleno)
+    Nessa mesma data também foi julgado o RE 477.323, interposto pelo Estado do Rio Grande do Sul, que diferenciava-se por, nele, a redução de base de cálculo decorrer de regime facultativo de apuração do imposto ao qual o contribuinte optou por aderir. Nesse caso, a solução dada por esta Corte também foi no sentido do estorno proporcional do crédito relativo às operações anteriores Transcrevo a ementa do precedente.
+    “IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – BASE DE INCIDÊNCIA REDUZIDA – SISTEMA OPCIONAL. Sendo opcional o sistema a envolver base do tributo reduzida, não se tem violência ao princípio da não cumulatividade no que considerado o crédito de forma proporcional.” (RE 477.323, Rel. Min. Marco Aurélio, Tribunal Pleno - grifei)
+    Como se vê, acórdão recorrido está em consonância com a jurisprudência firmada pelo Supremo Tribunal Federal e, por isso, deve ser mantido.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 9 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
