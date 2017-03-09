@@ -1,0 +1,18 @@
+DECISÃO
+INQUÉRITO – SUSPENSÃO – RELEVÂNCIA NÃO DEMONSTRADA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    Com base nas informações prestadas pela Comissão de Valores Mobiliários no Ofício nº 7/2012 e atendendo a requerimento do Ministério Público, a autoridade policial do 27º Distrito Policial da Capital de São Paulo instaurou, em 2 de maio de 2012, o inquérito policial nº 370/2012, em desfavor dos pacientes, ante a suposta prática do delito versado no artigo 177 (fraude na fundação ou administração de sociedades anônimas) do Código Penal.
+    Impetrou-se o habeas corpus nº 1000877-11.2016.8.26.0050 perante o Juízo da DIPO 4, Seção 4.2.1, do Foro Central Criminal da Barra Funda/SP. Alegou-se a ocorrência da extinção da punibilidade do crime imputado aos investigados, considerada a prescrição da pretensão punitiva estatal. O Juízo indeferiu a medida de urgência. Consignou não haver elementos que indiquem, com clareza, ter-se verificado a prescrição, surgindo necessária a análise de informações para melhor exame da questão.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 382.279/SP, no qual o Relator deixou de acolher o pleito de liminar.
+    Os impetrantes afirmam ser o caso de superação do verbete nº 691 da Súmula do Supremo. Dizem haver-se operado a prescrição, afirmando que, com relação à possibilidade de imposição de sanção alusiva ao delito de fraude na fundação ou administração de sociedades anônimas – 1 a 4 anos, prescrevendo em 8 –, teve como marco inicial a suposta prática do último ato, em 10 de outubro de 2008, durante a realização da 70ª Assembleia Geral Extraordinária, ocorrendo a perda da pretensão punitiva do Estado em 9 de outubro de 2016. Apontam a extinção da punibilidade dos pacientes, aludindo ao artigo 107, inciso IV, do Código Penal, em decorrência do que veiculado no artigo 109, inciso IV, do mesmo diploma.
+    Requerem, em âmbito liminar, a suspensão do interrogatório policial no inquérito nº 370/2012, ante a prescrição do fato objeto da investigação. No mérito, pretendem o reconhecimento da extinção da punibilidade dos pacientes.
+    Informação apresentada pelos impetrantes revelou ter sido reagendado o interrogatório policial para o próximo dia 13 de março.
+    2. Observem a organicidade do Direito. O trancamento de ação penal ou inquérito policial pela via do habeas corpus é medida de exceção, só admissível quando emerge do processo, de forma inequívoca, a inocência do acusado, a atipicidade da conduta ou a extinção da punibilidade.
+    Apesar de surgir relevante a alegação da ocorrência de extinção da pretensão punitiva do Estado, em razão da prescrição, considerada a data em que supostamente praticado o crime previsto no artigo 177 do Código Penal – 10 de outubro de 2008 –, vê-se que as investigações encontram-se em curso, não tendo sido sequer realizadas as oitivas dos investigados. Cumpre permitir que a autoridade policial avance nas investigações, promovendo a apreciação dos documentos encaminhados, as oitivas, entre outras diligências que julgar pertinentes. O fato de a Comissão de Valores Mobiliários, ao remeter documentos, haver apontado o possível cometimento de delito específico não serve para vincular as investigações a cargo da polícia judiciária ou, em passo seguinte, restringir a análise, pelo órgão do Ministério Público, dos requisitos de instauração da ação penal.
+    3. Ante o quadro, indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 9 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
