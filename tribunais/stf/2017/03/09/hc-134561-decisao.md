@@ -1,0 +1,32 @@
+Decisão:
+Ementa: Penal. Habeas corpus. Corrupção Ativa. Aplicação do princípio da insignificância. Impossibilidade.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria da Ministra Maria Thereza de Assis Moura, assim ementado:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO QUE NÃO COMBATEU TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+    1. Compete ao recorrente, nas razões do agravo regimental, infirmar especificamente todos os fundamentos expostos na decisão agravada. Incidência do enunciado n.º 182 da Súmula do Superior Tribunal de Justiça.
+    2. Agravo regimental não conhecido.”
+    2.  Extrai-se dos autos que o paciente foi condenado às penas de 2 (dois) anos e 2 (dois) meses de reclusão e de 2 (dois) meses de detenção, pelos crimes previstos nos artigos 333 e 329 do Código Penal, respectivamente. O Juízo de origem fixou o regime inicial aberto e substituiu as penas privativas de liberdade por duas restritivas de direito.
+    3.  O Tribunal Regional Federal da 1ª Região deu parcial provimento à apelação da defesa a fim de reduzir a pena para 2 (dois) anos de reclusão pelo crime de corrupção ativa e para 2 (dois) meses de detenção pelo crime de resistência. O Tribunal manteve o regime inicial aberto e a substituição das penas privativas de liberdade.
+    4.  Em seguida, a defesa interpôs recurso especial, inadmitido na origem. Ato contínuo, interpôs agravo. A Relatora do AResp 697.904, Ministra Maria Thereza de Assis Moura negou provimento ao agravo. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5.  Neste habeas corpus, a parte impetrante sustenta a aplicabilidade do princípio da insignificância, no tocante ao crime de corrupção ativa, “tendo em vista que o delito não foi cometido com ameaça ou qualquer violência, o valor da vantagem oferecida foi de pequena monta (R$ 35,00) e a espécie em dinheiro não foi aceita pelos policiais, não havendo que se falar em qualquer prejuízo, seja de ordem financeira ou moral”. Requer, assim, a concessão de liminar a fim de suspender os efeitos do acórdão impugnado e, no mérito, pleiteia a absolvição do paciente.
+    Decido.
+    6.  O habeas corpus não deve ser deferido.
+    7. De um modo geral, a jurisprudência do Supremo Tribunal Federal, em matéria de princípio da insignificância, leva em consideração os seguintes vetores: i) a mínima ofensividade da conduta do agente; ii) a nenhuma periculosidade social da ação; iii) o reduzidíssimo grau de reprovabilidade do comportamento; e iv) a inexpressividade da lesão jurídica provocada (HC 84.412, Rel. Min. Celso de Mello).
+    8. No caso de que se trata, a envolver o crime de corrupção ativa, não estão preenchidos os requisitos necessários ao reconhecimento da atipicidade material da conduta. Para tanto, reproduzo o parecer do Ministério Público Federal:
+    “[...]
+    9. A princípio, deve-se ressaltar que o princípio da insignificância surgiu como instrumento de interpretação restritiva do Direito Penal, que não deve ser considerado apenas em seu aspecto formal, de subsunção do fato à norma, mas em seu conteúdo material, no sentido da efetiva lesividade ao bem jurídico tutelado pela norma penal, consagrando-se os postulados da fragmentariedade e da intervenção mínima.
+    10. Com efeito, a sua aplicação exclui da incidência da norma penal condutas cujo valor da ação e/ou do resultado impliquem uma ínfima afetação ao bem jurídico tutelado, no caso presente, a moralidade administrativa, a probidade dos agentes públicos e da Administração Pública.
+    11. Vale lembrar que a correta aplicação do princípio da insignificância exige a presença simultânea dos seguintes requisitos: (1) ausência de periculosidade social da ação, (2) reduzido grau de reprovabilidade do comportamento, (3) inexpressiva lesão jurídica provocada e (4) mínima ofensividade da conduta do agente (HC 84.412/SP, Min. Celso de Mello, DJ de 19/11/2004).
+    12. Os fatos denunciados, ao contrário do que sustenta a defesa, são típicos, pois dotados de relevância penal. O paciente foi denunciado por ter oferecido a quantia de R$ 35,00 aos policiais rodoviários federais, a fim de que esses se abstivessem de o autuar por condução de veículo sob efeito de bebida alcoólica e sem habilitação.
+    13. Nesse contexto, a conduta da paciente lesou a Administração Pública - bem jurídico que não se confunde com o patrimônio – que foi atingida não de forma inexpressiva, podendo-se falar, sim, em significativa periculosidade social da ação, a rechaçar, assim, a aplicação do princípio da insignificância, cuja incidência é de caráter excepcional.
+    14. Mister salientar que a Administração Pública deve zelar não só por interesses patrimoniais mas, com igual ou superior importância, por interesses morais, estes frontalmente atingidos pela conduta do paciente.
+    15. Assim sendo, não há o que reparar no acórdão do Tribunal Regional Federal, pois, independentemente do valor da vantagem indevidamente oferecida a funcionário público para que pratique ou deixe de praticar ato de ofício, a lesão à moral administrativa – bem de insuscetível de valoração econômica – confere acentuado grau de reprovabilidade à conduta.
+    16. Tanto é assim que, tratando-se a corrupção ativa de delito formal, é irrelevante que o funcionário público aceite a vantagem indevida ofertada pelo corruptor para a consumação do crime e, consequentemente, é irrelevante o valor da vantagem oferecida. Vale dizer que a própria conduta de oferecer a vantagem indevida ao funcionário público para que pratique ou deixe de praticar ato de ofício já configura o crime de corrupção ativa, não importando o valor da vantagem oferecida ou se esta é aceita pelo funcionário.
+    17. Nesse contexto, portanto, a conduta do paciente não pode ser considerada penalmente irrelevante, tratando-se de comportamento altamente reprovável, que deve ser combatido pelo direito penal.
+    18. Por conseguinte, ante a ofensividade da conduta, a periculosidade social da ação e o alto grau de reprovabilidade do comportamento, não há que se cogitar em descaracterização da tipicidade penal.
+    [...]”
+    8. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 09 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
