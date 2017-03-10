@@ -1,0 +1,17 @@
+DECISÃO
+AUTOS DE INQUÉRITO – DESMEMBRAMENTO.
+INQUÉRITO – PRESCRIÇÃO DA PRETENSÃO PUNITIVA – OCORRÊNCIA – ARQUIVAMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    Este inquérito foi instaurado para apurar a suposta prática, por Mário Lúcio Heringer, então deputado federal, Rodrigo Luiz Gomes de Almeida e Rômulo Geraldo Passos, do crime tipificado no artigo 140 (injúria), combinado com o 141, incisos II e III (contra funcionário público, em razão das funções e por meio que facilite a divulgação), ambos do Código Penal, (folha 2 a 13), em razão de veiculação de encarte de jornal no dia 21 de maio de 2010, com matéria ofensiva à honra de Antônio Carlos Braga.
+    O Procurador-Geral da República, por meio da petição/STF nº 5.681/2017, afirma haver sido o processo remetido, em 28 de março de 2011, à primeira instância, por ter o investigado deixado o cargo de Deputado Federal. Aduz que, com o retorno de Mário Lúcio Heringer ao exercício de mandato, o processo foi encaminhado, em 29 de setembro de 2016, ao Supremo. Diz haver tramitado, perante o Juizado Especial Criminal da Comarca de Mariana/MG, durante mais de 5 anos – de maio de 2011 a setembro de 2016. Ressalta ser a pena máxima cominada para o crime de injúria de até 6 meses. Segundo narra, ainda que aumentada em 1/3, em razão das causas de aumento descritas no artigo 141, a sanção máxima será de 8 meses. Sublinha que o lapso temporal da prescrição é de 3 anos, aludindo ao artigo 109, inciso VI, do Código Penal. Consoante afirma, em maio de 2013, quando o processo ainda estava em curso no Juízo da Comarca de Mariana, operou-se a prescrição da pretensão punitiva estatal.
+    Requer, com base nos artigos 107, inciso IV, e 109, inciso VI, do Código Penal, seja declarada a extinção da punibilidade de Mário Lúcio Heringer, Rodrigo Luiz Gomes de Almeida e Rômulo Geraldo Passos, em relação ao crime previsto no artigo 140, combinado com o 141, incisos II e III, do mesmo diploma legal.
+    2. A competência do Supremo é de direito estrito. Sob o ângulo penal, somente devem tramitar no Tribunal os inquéritos concernentes a detentores de prerrogativa de foro, ou seja, do direito de, ajuizada ação penal, virem a ser julgados por ele.
+    3. Providenciem:
+    3.1. O desmembramento destes autos, com reprodução de cópia integral e encaminhamento ao Juízo do Juizado Especial Criminal da Comarca de Mariana/MG, para sequência quanto aos demais investigados;
+    3.2. A anotação, no cabeçalho, como investigado, apenas do nome do deputado federal Mário Lúcio Heringer.
+    4. O titular da ação penal preconiza o arquivamento do inquérito, porquanto configurada a extinção da punibilidade do investigado Mário Lúcio Heringer, ante a prescrição da pretensão punitiva atinente à infração do artigo 140, combinado com o 141, incisos II e III, do Código Penal. O suposto delito consumou-se em 21 de maio de 2010, quando da veiculação de matéria ofensiva à honra da vítima em meio de comunicação. A pena máxima cominada para o crime de injúria é de 6 meses de detenção. Caso sejam consideradas as causas de aumento previstas no artigo 141, incisos II e III, tem-se o acréscimo de 1/3, totalizando 8 meses. Observado o inciso VI do artigo 109 do mesmo diploma, a versar a prescrição em 3 anos para os delitos cuja pena é inferior a 1, esta seguramente veio a incidir.
+    5. Presente o disposto no artigo 3º, inciso I, da Lei nº 8.038/1990, determino o arquivamento destes autos.
+    6. Publiquem.
+Brasília, 10 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
