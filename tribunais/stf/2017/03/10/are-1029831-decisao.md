@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – AUSÊNCIA DE PREQUESTIONAMENTO – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado do Mato Grosso do Sul, confirmando o entendimento do Juízo, assentou a procedência do pedido para determinar a cobertura dos tratamentos emergenciais pela caixa de assistência. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violados os artigos 2º e 5º, incisos XVIII e XX, da Constituição Federal. Afirma a afronta à separação dos Poderes decorrente da interferência no funcionamento da estatal.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Ocorre que não é o fato do contrato indicar prazo de carência que está a apelante revestida de legalidade para negar a cobertura do contrato. O regramento a qual tem apego sofre abrandamento quando o médico que atende o beneficiário indicar que o caso amolda-se como de emergência ou de urgência. É o que determina o art. 35- C da lei indigitada. Veja-se o conteúdo do dispositivo: […]
+    Observa-se, portanto, a quebra de higidez. É exatamente o caso em questão. Conquanto a apelante diz da legalidade da sua recusa de internação com base na Resolução transcrita faz, a meu ver, em conflito com com o inciso V do art. 12 da Lei n. 9.656/98 que estabelece tão somente prazo máximo de 24 horas para a cobertura de casos de urgência e emergência, sem fazer qualquer exceção às situações que exijam a internação e outros tratamentos, dentre os quais cirurgia ou microcirurgia.
+    De mais a mais, não há dúvida que a limitação do contrato hostiliza o inciso IV do art. 51 do CDC, aplicável na relação entre os litigantes, na medida em que impõe obrigações consideradas iníquas, abusivas, aptas a colocar o consumidor em desvantagem exagerada, advindo daí incompatibilidade com a boa-fé e a equidade.
+    Não há como dar força a resolução se a Lei dispõe em sentido contrário, que traz certa amplitude, sem restrição ao atendimento de emergência/urgência para as primeiras 12 horas. […]
+    O apelado quando buscou a cobertura do plano de saúde o fez pautado exatamente na regra de exceção. Os relatórios médicos assim espelhavam:[...]
+    No caso em questão, e tomando-se em consideração a definição transcrita, não há dúvida que estamos diante de uma situação de emergência, como indicou o sentenciante. […]
+    Resta ainda analisar o direito voltado para a ausência de cobertura em razão de não estar dentre os serviços ou procedimentos arrolados na Resolução 338/13 da ANS.
+    Também com este direcionamento o recurso não merece provimento.
+    O rol de procedimentos divulgados pela Resolução n. 338/13 da ANS não faz qualquer indicativo de que exista procedimento convencional e não convencional. Há nele singela referência ao procedimento: MICROCIRURGIA VASCULAR INTRACRANIANA - ENCÉFALO SISTEMA NERVOSO - CENTRAL E PERIFÉRICO.
+    Logo, não há como acolher o argumento de exceção do rol em razão da inexistência, como dito, da metodologia a ser empregada no procedimento.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    Por fim, os argumentos expendidos no recurso não foram enfrentados pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula deste Tribunal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, em R$ 1.500,00 (mil e quinhentos reais).
+    4. Publiquem.
+Brasília, 10 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
