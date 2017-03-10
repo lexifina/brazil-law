@@ -1,0 +1,8 @@
+ANEXO I - REQUERIMENTO DE HABILITAÇÃO
+[arquivo anexo: Anexo I.pdf]
+ANEXO II - MODELO DE LACRE PARA VOLUMES IMPORTADOS AO AMPARO DO REGIME DE TRIBUTAÇÃO UNIFICADO (RTU)
+[arquivo anexo: Anexo II.pdf]
+ANEXO III - PEDIDO DE CANCELAMENTO DE DRTU
+[arquivo anexo: Anexo III.pdf]
+ANEXO IV - FATURA RTU
+[arquivo anexo: Anexo IV.pdf]

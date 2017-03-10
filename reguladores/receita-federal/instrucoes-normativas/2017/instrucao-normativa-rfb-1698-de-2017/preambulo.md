@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1698, de 8 de março de 2017
+Dispõe sobre os procedimentos de controle aduaneiro relativos à aplicação do Regime de Tributação Unificada (RTU) na importação, por via terrestre, de mercadorias procedentes do Paraguai.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Lei Complementar nº 123, de 14 de dezembro de 2006, na Lei nº 11.898, de 8 de janeiro de 2009, e no Decreto nº 6.956, de 9 de setembro de 2009, resolve:
