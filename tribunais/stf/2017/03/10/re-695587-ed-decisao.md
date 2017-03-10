@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de embargos de declaração cujo objeto é decisão monocrática em que foi dado provimento ao recurso extraordinário do Conselho Regional de Engenharia, Arquitetura e Agronomia de São Paulo, com base na jurisprudência do Supremo Tribunal Federal que afirma positivamente acerca da necessidade de realização de concurso público, por parte de conselhos de fiscalização profissional, como forma de contratação de seus servidores.
+    A parte embargante alega omissão no tocante ao reconhecimento do seu direito ao recebimento de verbas rescisórias decorrentes da demissão imotivada.
+    Assiste razão à parte embargante.
+    O Supremo Tribunal Federal, ao analisar o AI 757.244-RG, reautuado como RE 705.140-RG, da relatoria do Ministro Teori Zavascki, na sistemática da repercussão geral, assentou entendimento de que “a Constituição de 1988 comina de nulidade as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público (CF, art. 37, § 2º), não gerando, essas contratações, quaisquer efeitos jurídicos válidos em relação aos empregados contratados, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço FGTS”. Veja-se, a propósito, a ementa do referido julgado:
+    “CONSTITUCIONAL E TRABALHO. CONTRATAÇÃO DE PESSOAL PELA ADMINISTRAÇÃO PÚBLICA SEM CONCURSO. NULIDADE. EFEITOS JURÍDICOS ADMISSÍVEIS EM RELAÇÃO A EMPREGADOS: PAGAMENTO DE SALDO SALARIAL E LEVANTAMENTO DE FGTS (RE 596.478 - REPERCUSSÃO GERAL). INEXIGIBILIDADE DE OUTRAS VERBAS, MESMO A TÍTULO INDENIZATÓRIO.
+    1. Conforme reiteradamente afirmado pelo Supremo Tribunal Federal, a Constituição de 1988 reprova severamente as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público, cominando a sua nulidade e impondo sanções à autoridade responsável (CF, art. 37, § 2º).
+    2. No que se refere a empregados, essas contratações ilegítimas não geram quaisquer efeitos jurídicos válidos, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço - FGTS.
+    3. Recurso extraordinário desprovido.”
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento aos embargos de declaração para determinar à entidade embargada o pagamento dos salários referentes ao período trabalhado e possibilitar à parte embargante o levantamento dos depósitos efetuados no FGTS, relativo a tal período.
+    Publique-se.
+          Brasília, 10 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
