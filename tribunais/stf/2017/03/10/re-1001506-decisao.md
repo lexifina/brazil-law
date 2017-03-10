@@ -1,0 +1,9 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Mato Grosso, que negou provimento a recurso do Estado de Mato Grosso, que manteve decisão que reconheceu o direito do servidor público estadual à conversão de seus vencimentos, de acordo com os critérios da Lei nº 8.880/94, a contar de 1º de março de 1994, bem como o entendimento de que a concessão de aumentos posteriores a tal regramento federal não tem o condão de corrigir equívocos na conversão ou compensar perdas então verificadas.
+    No recurso extraordinário, sustenta-se, em suma, que o Supremo Tribunal Federal afastou frontalmente a possibilidade de que o índice de 11,98% fosse estendido para além dos servidores públicos do Poder Legislativo e do Poder Judiciário, sendo inaplicável tal índice aos servidores do Poder Executivo.
+    Verifica-se que o Supremo Tribunal Federal, ao analisar a RE 561.836, da relatoria do Ministro Luiz Fux, DJe 10.2.2014, em julgamento sob a sistemática da repercussão geral, Tema 005, firmou o entendimento segundo o qual reconhecida a ocorrência de decréscimo nos estipêndios dos servidores em face das perdas decorrentes da conversão do padrão monetário de Cruzeiro Real em URV, é cabível a recomposição remuneratória. O reconhecimento do direito à reposição das perdas não restou limitado aos servidores dos Poderes Legislativo e Judiciário federal, mas àqueles que recebem seus vencimentos em momento anterior ao do término do mês trabalhado, tal como ocorre no âmbito dos mencionados Poderes.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem, em observância à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 10 de março de 2017.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
