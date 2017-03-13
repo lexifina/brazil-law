@@ -1,0 +1,12 @@
+Solução de Consulta Cosit nº 160, de 3 de março de 2017
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS
+EMENTA: SISCOSERV. SERVIÇOS DE TRANSPORTE DE CARGA. OBRIGATORIEDADE DE REGISTRO. SERVIÇOS POR PRAZO INDETERMINADO. VALOR NÃO PREVIAMENTE ESTIPULADO. MONTANTE E DATA DE REGISTRO.
+Prestador de serviço de transporte de carga é alguém que se obriga com quem quer enviar coisas (tomador do serviço) a transportá-las de um lugar para outro, entregando-as a quem foi indicado para recebê-las. A obrigação se evidencia pela emissão do conhecimento de carga.
+O obrigado a transportar que não é operador de veículo deverá subcontratar alguém que efetivamente faça o transporte. Logo, simultaneamente, será prestador e tomador de serviço de transporte.
+Quem age em nome do tomador ou do prestador de serviço de transporte não é, ele mesmo, prestador ou tomador de tal serviço. Mas é prestador ou tomador de serviços auxiliares conexos (que facilitam a cada interveniente cumprir suas obrigações relativas ao contrato de transporte) quando o faz em seu próprio nome.
+CONSULTA PARCIALMENTE VINCULADA À SC COSIT Nº 257, de 2014.
+Para fins do Siscoserv, a data de início da prestação do serviço será aquela a partir da qual o prestador atua na consecução do objeto do contrato, o que pode não coincidir com a data da assinatura do instrumento do contrato. Na hipótese de contratos que se prolonguem além do ano-calendário, o prestador deve inserir um novo Registro de Venda de Serviços (RVS) no início do novo ano-calendário.
+O prestador, domiciliado no Brasil, deve registrar no Siscoserv as informações relativas à prestação de serviços a domiciliado no exterior, ainda que o valor da operação, na data do registro, não seja conhecido. Nessa hipótese, o registro da operação será efetivado pelo valor estimado, o qual será posteriormente ajustado, mediante retificação do RVS ou do aditivo ao RVS, conforme o caso.
+O prestador, domiciliado no Brasil, deve registrar no Siscoserv as operações de prestação de serviços iniciadas e não concluídas antes das datas constantes do cronograma do Anexo Único da Portaria Conjunta RFB/SCS nº 1.908, de 19 de julho de 2012.
+DISPOSITIVOS LEGAIS: Lei nº 9.779, de 19 de janeiro de 1999; Lei nº 12.546, de 14 de dezembro de 2011; Decreto nº 7.708, de 2 de abril de 2012; Portaria Conjunta RFB/SCS nº 1.908, de 19 de julho de 2012; Portaria Conjunta RFB/SCS nº 768, de 13 de maio de 2016; Instrução Normativa RFB nº 1.277, de 28 de junho de 2012; Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013.
+[arquivo anexo: SC Cosit nº 160-2017.pdf]
