@@ -1,0 +1,18 @@
+Despacho:
+    Vistos.
+    O Procurador-Geral da República, por intermédio da petição nº 912/17, assim se manifestou:
+    “(...)
+    Com o intuito de instruir o presente Inquérito, o Procurador-Geral da República solicitou ao Presidente do Senado Federal, por intermédio do Ofício n° 72/GTLJ/PGR, o encaminhamento dos registros de áudio da participação, no dia 14.7.2009, do ex-Senador SÉRGIO GUERRA em Comissão Parlamentar de Inquérito, bem como dos registros de áudio, no dia 7.8.2013, da participação do Deputado Federal EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA na audiência pública da Comissão de Minas e Energia.
+    O referido ofício foi remetido após a Polícia Federal requerer nestes autos intervenção judicial com vistas à obtenção de arquivos e informações registrados no Senado Federal, sob o argumento de expedidos pela autoridade policial para instrução da investigação sob exame.
+    A Procuradoria-Geral da República, contudo, entendendo para tanto ser desnecessária qualquer intervenção judicial, solicitou diretamente ao Senado Federal as informações em comento mediante o ofício em referência, conforme informado nestes autos ao Supremo Tribunal Federal na manifestação ministerial de fls. 1.067/1.068.
+    Em seguida, o Presidente do Senado Federal remeteu o Ofício n° 54/2016-PRESID/ADVOSF, no qual encaminhou à Procuradoria-Geral da República fisicamente e em mídia digital apenas os registros de áudio da participação, no dia 14.7.2009, do ex-Senador SÉRGIO GUERRA em Comissão Parlamentar de Inquérito. Quanto ao registro de áudio, no dia 7.8.2013, da participação do Deputado Federal EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA na audiência pública da Comissão de Minas e Energia, o Senado Federal esclareceu se tratar de material a ser obtido junto à Câmara dos Deputados, "uma vez que as informações requeridas são sobre reunião de Comissão daquela Casa Legislativa".
+    Nesse sentido, o Ministério Público Federal vem informar ao Supremo Tribunal Federal já haver solicitado à Presidência da Câmara dos Deputados, por intermédio do ofício em anexo, os dados em questão, que deverão ser juntados aos presentes autos tão logo serem recebidos neste órgão ministerial.
+    Por fim, o Procurador-Geral da República vem requer a juntada das informações prestadas pelo Senado Federal através do Ofício n° 54/2016-PRESID/ADVOSF, para instrução dos presentes autos”
+    Essa manifestação da Procuradoria-Geral da República veio instruída com informações prestadas pela Advocacia-Geral do Senado, contendo a íntegra de notas taquigráficas e mídia em CD com a gravação em vídeo de reunião da CPI da Petrobras em 14/7/09.
+    Por sua vez, a defesa do denunciado Eduardo Henrique da Fonte de Albuquerque Silva, por intermédio da petição nº 10.978/17, aduziu que não teve ciência da referida petição do Ministério Público Federal nem a oportunidade de sobre ela se manifestar, razão por que requer vista dos autos e a concessão de prazo para manifestação.
+    Aduziu, ainda, que o resultado parcial da sessão de julgamento, publicado em 22/11/16, não corresponde ao voto proferido pelo então Relator, Ministro Teori Zavascki, que, ao ver da defesa, “assentiu claramente com a retificação da denúncia, por parte do Ministério Público Federal, que excluiu da imputação a modalidade ‘recebimento’, restringindo a acusação à solicitação de vantagem indevida”.
+    Considerando-se que já procedi à devolução da vista que havia solicitado, para retomada do julgamento, encaminhem-se os autos ao eminente Relator, a quem compete deliberar sobre os requerimentos formulados pela defesa.
+     Publique-se.
+    Brasília, 13 de março de 2017.
+Ministro Dias Toffoli
+Documento assinado digitalmente
