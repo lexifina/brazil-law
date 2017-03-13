@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Maria Cristina Esteves da Silva Carvalho contra acórdão que, confirmado em sede de embargos de declaração pela colenda Turma Recursal dos Juizados Especiais Federais do Estado do Rio de Janeiro, está assim ementado:
+    “GRATIFICAÇÃO DE DESEMPENHO. GDASS. ENUNCIADO 105. INÍCIO DO PRIMEIRO CICLO DE AVALIAÇÃO. SERVIDORES ATIVOS CEDIDOS. PAGAMENTO NÃO MAIS GENERALIZADO. SENTENÇA MANTIDA. RECURSO CONHECIDO E IMPROVIDO.
+    Trata-se de ação fundada no reconhecimento de direito à paridade entre servidores ativos e inativos e, por conseguinte, objetivando a condenação da parte ré ao pagamento de gratificação de desempenho a servidor/pensionista na mesma pontuação em que paga aos servidores em atividade cedidos.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 10.855/2004), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que a Turma Recursal dos Juizados Especiais Federais do Estado do Rio de Janeiro, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem estritamente infraconstitucional:
+    “Desta forma, a gratificação GDASS não mais possui caráter genérico, não sendo devida, portanto, a manutenção da paridade. Ocorre que a parte autora em demanda diferente já obteve as diferenças da paridade da GDASS com relação aos servidores ativos. Almejando, nesta ação, a aplicação do critério da paridade em relação aos ativos cedidos a outros órgãos.
+    Nesse diapasão, necessária se faz a análise da Lei nº 10.855/04. A referida Lei traz em seu artigo 15 a seguinte redação:
+    Art. 15. Os integrantes da Carreira do Seguro Social que não se encontrem no efetivo exercício das atividades inerentes aos respectivos cargos no INSS, somente farão jus a GDASS nas seguintes hipóteses:
+    I – quando cedidos para a Presidência ou a Vice-Presidência da República, no valor equivalente a 100% (cem por cento) da parcela individual, aplicando-se a avaliação institucional do período;
+    II – quando em exercício no Ministério da Previdência Social e nos Conselhos integrantes de sua estrutura básica ou a eles vinculados, ou nas hipóteses de requisição previstas em lei, calculada com base nas mesmas regras válidas como se estivessem em exercício no INSS; ou
+    III – quando cedidos para órgãos ou entidades do Poder Executivo Federal que não os indicados nos incisos I e II do ‘caput’ deste artigo, investidos em cargos em comissão de Natureza Especial e do Grupo-Direção e Assessoramento Superiores – DAS, níveis 6, 5 e 4, ou equivalentes, perceberão a GDASS no valor equivalente à avaliação institucional do período.
+    Assim, em relação aos servidores ativos cedidos, apenas não ocorre avaliação na primeira hipótese.
+    Nessa esteira, tal pretensão não merece prosperar, haja vista a gratificação não mais ser paga de forma genérica.”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável, por tratar-se de aplicação, ao caso concreto, de normas eminentemente infraconstitucionais.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 13 de março de 2017.
+Ministro CELSO DE MELLO
+Relator
