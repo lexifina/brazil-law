@@ -1,0 +1,5 @@
+Solução de Consulta Coana nº 35, de 10 de março de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8421.21.00 Mercadoria: Filtro biológico utilizado em sistemas de tratamento de águas residuárias, constituído por blocos estruturados, de polipropileno, cujos elementos filtrantes são os microorganismos que nele se fixarão para consumo da matéria orgânica. Em função das especificidades do projeto, pode apresentar variações no relevo das corrugações, altura, inclinação e peso específico. Normalmente é apresentado em folhas para montagem dos blocos no local de instalação.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.21), RGI 2 a) e RGI 6 (texto da subposição de 1° nível 8421.2 e texto da subposição de 2° nível 8421.21) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+[arquivo anexo: SC Coana nº 35-2017.pdf]
