@@ -1,0 +1,7 @@
+Solução de Consulta Cosit nº 143, de 17 de fevereiro de 2017
+ASSUNTO: IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI
+EMENTA: FABRICAÇÃO E IMPORTAÇÃO COM SUSPENSÃO. PRODUTOS INTERMEDIÁRIOS. OPERAÇÃO DE SAÍ-DA PARA ESTABELECIMENTO INDUSTRIAL.
+Enquadram-se na hipótese de suspensão do IPI de que trata o art. 29 da Lei nº 10.637, de 2002, as saídas de produtos intermediários fabricados por estabelecimento industrial, quando esses produtos forem utilizados no processo produtivo de estabelecimento adquirente que fabrique, preponderantemente, componentes, chassis, carroçarias, partes e peças empregados na industrialização dos produtos autopropulsados classificados nas posições 84.29, 8432.40.00, 8432.80.00, 8433.20, 8433.30.00, 8433.40.00, 8433.5 e 87.01 a 87.06 da TIPI.
+Serão desembaraçados com suspensão do IPI os produtos intermediários utilizados no processo produtivo do próprio estabelecimento industrial importador que se enquadre como preponderantemente fabricante de componentes, chassis, carroçarias, partes e peças empregados na industrialização dos produtos autopropulsados classificados nas posições 84.29, 8432.40.00, 8432.80.00, 8433.20, 8433.30.00, 8433.40.00, 8433.5 e 87.01 a 87.06 da TIPI.
+DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 29, §§ 1º, I; Instrução Normativa RFB nº 807, de 2008; Instrução Normativa RFB nº 1.667, de 2016; Instrução Normativa RFB nº 948, de 2009, arts. 5º, 6º, 23 e 24; Parecer Normativo CST nº 65, de 1979; Ato Declaratório Interpretativo RFB nº 12, de 2014.
+[arquivo anexo: SC Cosit nº 143-2017.pdf]
