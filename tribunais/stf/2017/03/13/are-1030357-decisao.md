@@ -1,0 +1,34 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “TRIBUTÁRIO. REFIS. RESPEITO ÀS CONDIÇÕES PACTUADAS NO MOMENTO DA ADESÃO. PRAZO DECADENCIAL PARA EXCLUSÃO. INAPLICABILIDADE. INEXISTÊNCIA DE REGRAMENTO. HONORÁRIOS ADVOCATÍCIOS.
+    1. O REFIS é benefício fiscal amplo, concedido a quem deve e tem dificuldades para regularizar sua situação perante a Receita Federal ou o INSS. Assim sendo, a opção pelo parcelamento constitui faculdade da parte que, ao aderir, deve fazê-lo de acordo com as condições impostas.
+    2. É incabível ao contribuinte discutir as condições impostas pela legislação que instituiu as referidas sistemáticas de parcelamento, porquanto correspondem às contrapartidas devidas pelos optantes em troca dos favores recebidos. Não existe a obrigatoriedade do devedor em aderir aos parcelamentos, ele tem a liberdade de optar pelo parcelamento ou não. Mas se a contribuinte pretende usufruir dos benefícios oferecidos pelos parcelamentos, deve também sujeitar-se às condições exigidas pela adesão ao parcelamento.
+    3. A análise dos autos demonstra que há diferença considerável entre o que deveria ter sido pago, valor este calculado com base em documentação produzida pela própria demandante, em razão de entrega de DIPJ e o que foi efetivamente pago. Ainda que exista pagamento, este sendo bem menor que o efetivamente devido caracteriza a inadimplência, motivo autorizador da exclusão da contribuinte.
+    4. Se o poder do Comitê Gestor do REFIS de verificar irregularidades persiste durante todo o tempo em que mantido o parcelamento, o mesmo raciocínio deve ser aplicado em relação ao seu direito de excluir a contribuinte que não preenche as condições para a permanência, como ocorre, posto que houve pagamento consideravelmente a menor do que acordado no momento da adesão.
+    5. Não existe nenhum regramento legal que ampare o direito pleiteado pela demandante, ou, ainda, que preveja um prazo prescricional ou decadencial a ser respeitado, de forma a impedir a realização do ato administrativo de exclusão.
+    6. Em face da modificação da decisão recorrida, condena-se a demandante no pagamento de custas processuais e honorários advocatícios, arbitrados em 10% sobre o valor da causa, ‘ex vi’ do art. 20, §§ 3º e 4º do CPC.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu  a questão com fundamento em legislação infraconstitucional (Lei nº 9.964/2000), o que torna incognoscível o apelo extremo.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal:
+    “O art. 5º da Lei 9.964/2000 assim dispõe:
+    ‘Art. 5º A pessoa jurídica optante pelo Refis será dele excluída nas seguintes hipóteses, mediante ato do Comitê Gestor:
+    I – inobservância de qualquer das exigências estabelecidas nos incisos I a V do caput do art. 3º;
+    II – inadimplência, por três meses consecutivos ou seis meses alternados, o que primeiro ocorrer, relativamente a qualquer dos tributos e das contribuições abrangidos pelo Refis, inclusive os com vencimento após 29 de fevereiro de 2000; (...)’
+    Ainda, tratando da discussão em comento, o art. 3º, inc. VI determina que:
+    ‘3º A opção pelo REFIS sujeita a pessoa jurídica a:
+    (...)
+    VI – pagamento regular das parcelas do débito consolidado, bem assim dos tributos e das contribuições com vencimento posterior a 29 de fevereiro de 2000 (…).
+    Saliento que o REFIS é benefício fiscal amplo, concedido a quem deve e tem dificuldades para regularizar sua situação perante a Receita Federal ou o INSS. Assim sendo, a opção pelo parcelamento constitui faculdade da parte que, ao aderir, deve fazê-lo de acordo com as condições impostas.
+    Dessa forma, a tentativa de cobrar os débitos em atraso dos contribuintes pela forma estabelecida nos parcelamentos das Leis 9.964/00 traduz, sem sombra de dúvidas, uma benesse concedida às empresas, especialmente relativamente a prazos, juros aplicáveis e a minimização do parcelamento.”
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 730.701-AgR/DF, Rel. Min. EROS GRAU – ARE 965.457/RS, Rel. Min. DIAS TOFFOLI – RE 594.923-AgR/DF, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “DIREITO TRIBUTÁRIO. PROGRAMA DE RECUPERAÇÃO FISCAL (REFIS). EXCLUSÃO. LEI Nº 9.964/2000. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. RECURSO MANEJADO EM 28.01.2016.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido.”
+    (ARE 935.048-AgR/PR, Rel. Min. ROSA WEBER)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC/15, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 13 de março de 2017.
+Ministro CELSO DE MELLO
+Relator
