@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 30, de 6 de março de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM/SH: 8708.80.00 Artigo constituído por ferragem externa, dois tubos internos em aço, duas luvas intermediárias, duas arruelas, duas ferragens da bucha e borracha vulcanizada, obtendo-se artigo composto por ferragens (94,58%) e borracha (5,42%), destinado à fixação da barra tensora para trabalhar com o braço de suspensão formando conjunto semelhante a bandeja do veículo, vulgarmente denominado “morceguinho do corsa”.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.08), RGI 6 (texto da subposição 8708.80) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM/SH: 8708.80.00 Artigo constituído por ferragem externa, dois tubos internos em aço, duas luvas intermediárias, duas arruelas, duas ferragens da bucha e borracha vulcanizada, obtendo-se artigo composto por ferragens (94,58%) e borracha (5,42%), destinado à fixação da barra tensora para trabalhar com o braço de suspensão formando conjunto semelhante a bandeja do veículo, vulgarmente denominado “morceguinho do corsa”.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.08), RGI 6 (texto da subposição 8708.80) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+ÁLVARO AUGUSTO DE VASCONCELOS LEITE RIBEIRO
+Presidente da 1ª Turma
