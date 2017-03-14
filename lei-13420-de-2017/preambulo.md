@@ -1,0 +1,2 @@
+Altera dispositivos da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para incentivar a formação técnico-profissional de adolescentes e jovens em áreas relacionadas à gestão e prática de atividades desportivas e à prestação de serviços relacionados à infraestrutura, à organização e à promoção de eventos esportivos e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
