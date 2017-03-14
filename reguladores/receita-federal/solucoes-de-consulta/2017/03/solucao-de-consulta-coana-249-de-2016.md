@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 249, de 29 de setembro de 2016
+ASSUNTO:Classificação de Mercadorias
+EMENTA:Código NCM: 8501.52.20 Mercadoria: Conjunto formando corpo único, constituído de motor elétrico trifásico com rotor de anéis e potência de 4,8 kW, caixa de engrenagens e pinhão suspenso, próprio para posicionamento das hélices de turbina eólica na direção de melhor aproveitamento do vento, denominado comercialmente “yaw drive”.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (Nota 3 da Seção XVI e texto da posição 85.01), RGI/SH 6 (textos das subposições 8501.5 e 8501.52) e RGC-NCM 1 (texto do item 8501.52.20), da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO:Classificação de Mercadorias
+EMENTA:Código NCM: 8501.52.20 Mercadoria: Conjunto formando corpo único, constituído de motor elétrico trifásico com rotor de anéis e potência de 4,8 kW, caixa de engrenagens e pinhão suspenso, próprio para posicionamento das hélices de turbina eólica na direção de melhor aproveitamento do vento, denominado comercialmente “yaw drive”.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (Nota 3 da Seção XVI e texto da posição 85.01), RGI/SH 6 (textos das subposições 8501.5 e 8501.52) e RGC-NCM 1 (texto do item 8501.52.20), da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+LUIZ HENRIQUE DOMINGUES
+Presidente da 4ª Turma
