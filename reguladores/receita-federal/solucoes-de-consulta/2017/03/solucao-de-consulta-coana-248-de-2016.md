@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 248, de 29 de setembro de 2016
+ASSUNTO:Classificação de Mercadorias
+EMENTA:Código NCM: 8414.59.90 Mercadoria: Máquina para secar as mãos por meio de jato de ar frio soprado através de micro filetes, sem resistência elétrica de aquecimento, constituída por dois ventiladores de alta potência, com acionamento automático por sensores, para fixação em paredes.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 84.14), RGI/SH 6 (texto das subposições 8414.5 e 8414.59) e RGC-NCM 1 (texto do item 8414.59.90), da Nomenclatura Comum do Mercosul (NCM), constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+ASSUNTO:Classificação de Mercadorias
+EMENTA:Código NCM: 8414.59.90 Mercadoria: Máquina para secar as mãos por meio de jato de ar frio soprado através de micro filetes, sem resistência elétrica de aquecimento, constituída por dois ventiladores de alta potência, com acionamento automático por sensores, para fixação em paredes.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 84.14), RGI/SH 6 (texto das subposições 8414.5 e 8414.59) e RGC-NCM 1 (texto do item 8414.59.90), da Nomenclatura Comum do Mercosul (NCM), constante da TEC, aprovada pela Resolução Camex nº 94, de 2011, e da Tipi, aprovada pelo Decreto n.º 7.660, de 2011, e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+LUIZ HENRIQUE DOMINGUES
+Presidente da 4ª Turma
