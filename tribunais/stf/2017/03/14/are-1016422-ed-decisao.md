@@ -1,0 +1,19 @@
+Trata-se de embargos de declaração opostos por Walquíria de Fátima Lima de Santana contra decisão que negou seguimento ao recurso extraordinário com agravo (doc. eletrônico 5).
+    A embargante alega, em suma, que não houve manifestação acerca da comparação com o “caso Manuel Matos” (doc. eletrônico 20).
+    Bem reexaminada a questão, verifica-se que não há omissão na decisão embargada.
+    O agravo teve o seguimento negado porque não houve o prequestionamento do art. 5°, caput, da Constituição, sendo inadmissível o extraordinário nos termos das Súmulas 282 e 356/STF.
+    Como a decisão embargada julgou deficiente o extraordinário, não seria viável nem exigível que fosse examinada a questão de mérito suscitada pela ora embargante. Apesar disso, constou do pronunciamento que, caso tal óbice fosse afastado, o recurso não mereceria provimento, em razão da Súmula 279/STF, conforme se observa no trecho abaixo transcrito:
+    “[...]
+    Ainda que superado esse óbice, o extraordinário não prosperaria.
+    Colho do voto condutor do acórdão o seguinte trecho:
+    ‘A petição de desaforamento procurou respaldo no desdobramento de outro julgamento de homicídio, que vitimou Francisco de Assis Santana, pai da vítima dos presentes autos, tendo a agravante acostado diversos documentos emitidos em favor dos responsáveis pelo fato, por pessoas com influência na cidade de Arcoverde/PE, inclusive a então prefeita, o que teria levado os jurados à absolvição daqueles, demonstrando o risco de parcialidade do julgamento do novo caso.
+    Como informou o magistrado a quo, os documentos apontados pela requerente foram juntados em outro processo, já julgado, sem que a conduta tenha sido repetida no processo em epígrafe. Não há que se falar em parcialidade dos jurados em razão da influência da ex-prefeita, pois os que participaram do outro julgamento não foram alistados para julgar o presente feito e o resultado do outro processo foi de quatro votos pela absolvição contra três pela condenação, demonstrando ter sido decidido pelo livre convencimento dos jurados. Por fim, os convocados para o julgamento não são apenas professores da rede municipal de ensino, como alegou Walquíria, mas funcionários do Banco do Brasil, dos Correios, funcionários públicos estaduais, profissionais liberais, entre outros.
+    Muito embora o risco da parcialidade dos jurados não requeira prova evidente, é necessário, ao menos, algum respaldo demonstrativo, o que não ocorreu no caso concreto. O MM. Juiz da 28ª Vara Federal da Seção Judiciária de Pernambuco certificou de que não se observa do Município de Arcoverde a movimentação de pessoas influentes para beneficiar os réus, além de estarem os integrantes da lista de jurados isentos de influências decorrentes do poder hierárquico. Assim, não vislumbro qualquer risco de parcialidade por parte dos futuros jurados, sendo certo que haverá momento oportuno para eventual alegação de impedimento ou suspeição e, ainda, de recusa daqueles’. (pág. 180 do doc. eletrônico 1).
+    Dessa forma, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos o que é vedado pela Súmula 279/STF”.
+    Da análise do voto condutor do pedido de desaforamento é possível notar que o Tribunal a quo afastou a suscitada parcialidade dos jurados da cidade de Arcoverde/PE, inclusive no julgamento do referido “caso Manuel Matos”. Assim, não é possível analisar a questão de forma diversa, ante a impossibilidade de se examinar matéria probatória nesta Corte. Daí a incidência da Súmula 279/STF.
+    Desse modo, a decisão embargada não apresenta omissão a ser suprida.
+    Isso posto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 14 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
