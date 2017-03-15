@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos:
+    “EMBARGOS INFRINGENTES – AÇÃO CIVIL PÚBLICA – CADEIA PÚBLICA DE ELÓI MENDES – PRECARIEDADE DE FUNCIONAMENTO – ESCASSEZ DE PESSOAL – SUPERLOTAÇÃO – POLÍCIA MILITAR DE MINAS GERAIS – VIGILÂNCIA INTERNA E EXTERNA DE ESTABELECIMENTO PRISIONAL – POSSIBILIDADE – RECURSO PROVIDO. Demonstrada a precariedade de funcionamento da Cadeia Pública de Elói Mendes, com superlotação e escassez de efetivo, prudente que a Polícia Militar de Minas Gerais, cuja atividade prevista constitucionalmente é de preservação, manutenção e restabelecimento da ordem pública, auxilie provisoriamente na segurança interna e externa do estabelecimento.” (eDOC 1, p. 385)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º e 144, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão impugnado ofendeu o princípio da separação dos poderes. Sustenta-se que compete aos agentes penitenciários a vigilância e guarda das cadeias públicas e, havendo necessidade, à Polícia Civil, não devendo recair tal atribuição à Polícia Militar.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (a Lei nº 14.695/2003, Lei Estadual nº 5.406/69 e os Decretos Estaduais nº 43.852/2004 e 11.636/69), consignou que compete à Polícia Militar, nos termos de decreto específico, manter a guarda e segurança em cadeias, xadrezes e presídios, zelando pela tranquilidade social e pela ordem pública. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Em que pese a divisão de competências e atribuições das polícias do Estado, elas não preponderam ante o dever de preservação da ordem pública e segurança da população, pena de relegar o objetivo para o qual as instituições foram criadas
+    Vale ressaltar, como muito bem o fez o MM. Juiz singular, que, segundo o Decreto 11.636/69, que aprovou o regulamento geral da Polícia Militar de Minas Gerais, que seu art. 129, XIV prevê que compete aos batalhões de Polícia do Interior do Estado manter guardas e seguranças em cadeias, xadrezes e presídios.” (eDOC 1, p. 389)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confira-se, a propósito, o seguinte precedente:
+     “CONSTITUCIONAL. SEPARAÇÃO DOS PODERES. POSSIBILIDADE DE ANÁLISE DE ATO DO PODER EXECUTIVO PELO PODER JUDICIÁRIO. DECISÃO BASEADA NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. REEXAME DE MATÉRIA FÁTICA E INTERPRETAÇÃO DE CLÁUSULAS EDITALÍCIAS. SÚMULAS 279, 280 E 454. AGRAVO IMPROVIDO. I - Cabe ao Poder Judiciário a análise da legalidade e constitucionalidade dos atos dos três Poderes constitucionais, e, em vislumbrando mácula no ato impugnado, afastar a sua aplicação. II - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 desta Corte. III - O exame de matéria de fato e a interpretação de cláusulas editalícias atrai a incidência das Súmulas 279 e 454 do STF. IV - Agravo regimental improvido” (AI nº 640.272/DF-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 31/10/07).”
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de março de 2017.
+Ministro GILMAR MENDES
+ Relator
+Documento assinado digitalmente
