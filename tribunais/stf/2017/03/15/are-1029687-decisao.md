@@ -1,0 +1,32 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 2, p. 39-40):
+    “MANDADO DE SEGURANÇA - PROCEDIMENTO ADMINISTRATIVO - OAB - REGULAMENTO GERAL DO ESTATUTO DA ADVOCACIA E DA OAB - AUSÊNCIA DE NOTIFICAÇÃO VÁLIDA - NULIDADE DO PROCESSO ADMINISTRATIVO
+    1. O processo administrativo traduz a existência de um instrumento de competência estatal composto por atos pré-ordenados, cujo objetivo é solucionar uma lide, um conflito de interesses e pretensões, previamente disciplinado por normas cogentes do direito positivo.
+    2. Há de se destacar a respeito do processo administro, que este se equipara ao judicial no tocante aos princípios do devido processo legal, contraditório e da ampla defesa, impedindo que a Administração Pública desenvolva sua atividade julgadora através de procedimentos que não estejam regulados juridicamente e que, consequentemente, sejam ineficazes para concretização do interesse perseguido.
+    3. O MM. Juízo a quo reconheceu a nulidade do processo administrativo disciplinar, ante a inobservância da regra de se notificar via edital somente depois de esgotadas as possibilidades de notificação postal.
+    4. O Regulamento Geral do Estatuto da Advocacia e da OAB prescreve no artigo 137-D que a notificação inicial para a apresentação de defesa prévia ou manifestação em processo administrativo perante a OAB deverá ser feita através de correspondência, com aviso de recebimento, enviada para o endereço profissional ou residencial constante do cadastro do Conselho Seccional, incumbindo ao advogado manter sempre atualizado o seu endereço residencial e profissional no cadastro do Conselho Seccional, presumindo-se recebida a correspondência enviada para o endereço nele constante.
+    4. No caso dos autos, atenta-se que o representante forneceu o endereço no qual o advogado poderia ser encontrado, tendo, todavia, a autarquia ignorado tal informação.
+    5. Sob a ótica do princípio da razoabilidade, que deve ser compreendido tomando-se por base a equidade, a congruência e a equivalência, com vistas a se evitar a imposição do não razoável e os excessos cometidos pelo administrador público, não se pode considerar como válida a notificação por edital para início à sindicância, ante o conhecimento da OAB do correto endereço a ser procurar o representado.
+    6. Configurada a necessidade de se anular o processo administrativo, posto que atos indispensáveis foram descumpridos.
+    7. Precedente.
+    8. Apelação e remessa oficial não providas.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XIII, da Constituição Federal.
+    Nas razões recursais, sustenta, em suma, que “contrariamente as alegações do Apelado NÃO HÁ QUE SE FALAR EM CERCEAMENTO DE DEFESA, MUITO MENOS EM NULIDADE DO PROCESSO DISCIPLINAR, pois o representado, ora recorrido, FOI NOTIFICADO EM TODOS OS ATOS, assim como, teve o seu direito de defesa garantindo sendo este representado pela defensoria nomeada - Dra. Maria Paula Daltro Lopes.” (eDOC 2, p. 68).
+    A Vice-Presidência do TRF/3ª Região inadmitiu o recurso com fundamento de que não houve ofensa direta à Constituição Federal (eDOC 2, p. 86).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem,  quando do julgamento da apelação, asseverou (eDOC 2, p. 37-38):
+    “In casu, verifica-se que o MM. Juízo a quo reconheceu a nulidade do processo administrativo disciplinar, ante a inobservância da regra de se notificar via edital somente depois de esgotadas as possibilidades de notificação postal.
+    O Regulamento Geral do Estatuto da Advocacia e da OAB, editado pelo Conselho Federal da Ordem dos Advogados do Brasil, prescreve no artigo 137-D, que a notificação inicial para a apresentação de defesa prévia ou manifestação em processo administrativo perante a OAB deverá ser feita através de correspondência, com aviso de recebimento, enviada para o endereço profissional ou residencial constante do cadastro do Conselho Seccional, incumbindo ao advogado manter sempre atualizado o seu endereço residencial e profissional no cadastro do Conselho Seccional, presumindo-se recebida a correspondência enviada para o endereço nele constante.
+    Nesse mesmo artigo está disposto no parágrafo primeiro acerca da realização da notificação através de edital, a ser publicado na imprensa oficial do Estado, quando frustrada a entrega da notificação de que trata o caput do artigo, será a mesma realizada através de edital.
+    É cediço, como expresso no artigo 213 do CPC, que a citação - ou a notificação, no caso do procedimento administrativo, é o ato pelo qual se chama o réu a juízo, constituindo, a partir daí, a relação processual entre as partes.
+    Dessa forma, ressalta-se, além de sua essencialidade para a formação do processo, violação ao princípio do contraditório eventual inobservância de sua concretização.
+    No caso dos autos, a despeito de estar previsto na legislação o dever de o advogado manter seus dados atualizados nos cadastros na OAB, conforme previsto no artigo 137-D do Regulamento Geral do Estatuto da Advocacia e da OAB, atenta-se que o representante forneceu o endereço no qual o advogado poderia ser encontrado, tendo, todavia, a autarquia ignorado tal informação.
+    Destarte, sob a ótica do princípio da razoabilidade, que deve ser compreendido tomando-se por base a equidade, a congruência e a equivalência, com vistas a se evitar a imposição do não razoável e os excessos cometidos pelo administrador público, não se pode considerar como válida a notificação por edital para início à sindicância, ante o conhecimento da OAB do correto endereço a ser procurar o representado.
+    Sendo assim, configurada a necessidade de se anular o processo administrativo, posto que atos indispensáveis foram descumpridos.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 15 de março de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
