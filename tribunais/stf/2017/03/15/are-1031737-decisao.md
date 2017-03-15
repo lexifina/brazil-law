@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão assim ementado, no que interessa:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. PRESCRIÇÃO. CONTRIBUIÇÃO PARA O PIS E PARA A COFINS. RECEITAS DE VENDAS DE PRODUTOS DESTINADOS À ZONA FRANCA DE MANAUS. ISENÇÃO. DECRETO-LEI N. 288/97. ART. 40 DO ADCT. COMPENSAÇÃO. NONORÁRIOS ADVOCATÍCIOS. (...)”. (eDOC 4, p. 79)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos artigos 149, § 2º, I; 150, § 6º; 170 e 173 do texto constitucional, bem com ao artigo 40 do ADCT.
+    Nas razões recursais, defende-se a incidência do PIS e COFINS sobre operações de vendas efetuadas dentro da Zona Franca de Manaus, ao fundamento de que a desoneração tributária não tem amparo em lei específica.
+    Aponta-se que o Decreto-Lei 288/67 equipara indevidamente a exportação para a Zona Franca de Manaus a uma exportação brasileira para o exterior.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    O Tribunal de origem, ao examinar o artigo 4º do Decreto 288/67 entendeu que “as mesmas regras jurídicas determinadas aos tributos que atingem exportações foram estendidas às operações realizadas com a Zona Franca de Manaus” (eDOC 4, p. 71).
+    Assim, quanto a este ponto, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Ademais, observo que o acórdão recorrido não divergiu da orientação acolhida pela jurisprudência do Supremo Tribunal Federal, no sentido da preservação da eficácia do art. 40 do ADCT, que assegura a exoneração de tributos relativa à Zona Franca da Manaus, com suas características de área de livre comércio.
+    Cito, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. PIS e COFINS. Produtos destinados à Zona Franca de Manaus. DL n.º 288/67. Natureza infraconstitucional da controvérsia. Ofensa reflexa. Discussão sob o enfoque do art. 40, parágrafo único, do ADCT. Entendimento do STF na ADI 2.348-MC. MP nº 2.037-24/00. Suspensão da eficácia. 1. As discussões relativas à isenção concedida na venda de produtos destinados à Zona Franca de Manaus, à luz do Decreto-lei nº 288/97, ensejam reinterpretação de normas infraconstitucionais, sendo que a suposta afronta à Constituição, se ocorresse, seria indireta. Precedentes. 2. O Supremo Tribunal Federal, no julgamento da ADI 2.348-MC, Relator o Ministro Marco Aurélio, DJ de 7/11/03, apreciando a questão, afastou a eficácia de dispositivos da MP nº 2.037-24/2000, à luz do art. 40 do ADCT, no intuito de preservar a imunidade tributária constitucionalmente deferida à Zona Franca de Manaus. Precedentes. 3. Agravo regimental não provido”. (RE 568.417-AgR/RS, Rel. Min. Dias Toffoli, Primeira Turma, DJe 15.3.2012).
+    “ZONA FRANCA DE MANAUS - PRESERVAÇÃO CONSTITUCIONAL. Configuram-se a relevância e o risco de manter-se com plena eficácia o diploma atacado se este, por via direta ou indireta, implica a mitigação da norma inserta no artigo 40 do Ato das Disposições Constitucionais Transitórias da Carta de 1988: Art. 40. É mantida a Zona Franca de Manaus, com suas características de área livre de comércio, de exportação e importação, e de incentivos fiscais, pelo prazo de vinte e cinco anos, a partir da promulgação da Constituição. Parágrafo único. Somente por lei federal podem ser modificados os critérios que disciplinaram ou venham a disciplinar a aprovação dos projetos na Zona Franca de Manaus. Suspensão de dispositivos da Medida Provisória nº 2.037-24, de novembro de 2000”. (ADI 2.348 MC/DF, Rel. Min. Marco Aurélio, Tribunal Pleno, DJe 07.11.2003)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
