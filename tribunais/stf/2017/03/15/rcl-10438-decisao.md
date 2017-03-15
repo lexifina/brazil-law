@@ -1,0 +1,25 @@
+DECISÃO:
+    1. Trata-se de reclamação ajuizada em face de decisão do Juiz Presidente do Colégio Recursal de Lins/SP, que negou trâmite a agravo de instrumento em recurso extraordinário (art. 544 do CPC/73, redação anterior à Lei nº 12.322/2010), nos seguintes termos:
+    “Vistos.
+    I – HSBC BANK BRASIL S/A ofertou recurso extraordinário alegando ofensa ao art. 22, inciso VI, VII e XIX da Constituição Federal, mas foi negado seguimento àquele.
+    Na seqüência o(a) recorrente interpôs Agravo de Instrumento contra o despacho denegatório do recurso extraordinário, o qual permaneceu sobrestado, na forma do artigo 543-B, § 1º, do CPC.
+    II – Outrossim, houve o julgamento, pelo Egrégio Supremo Tribunal Federal, do Agravo nº 754485 com fundamento em controvérsia idêntica a do presente recurso, nos seguintes termos:
+    'CONSTITUCIONAL. CADERNETA DE POUPANÇA. PLANO COLLOR. SÚMULA STF 725. 1. Insistem os agravantes em retese já rejeitada pelo Plenário desta Corte, que concluiu pela legitimidade da correção monetária das cadernetas de poupança implementadas pela Lei 8.024/90, em face do art. 5º, caput, XXXVI da Constituição Federal. 2. Agravo regimental improvido.' (STF – AI 617.966-AGR/SP – Relator (a): Min. ELLEN GRACIE – Julgamento: 04/08/2009 – Segunda Turma).
+    Desta forma, incidem, na espécie, os termos do artigo 543-B, § 3º, do Código de Processo Civil, in verbis '§ 3º julgado o mérito do recurso extraordinário, os recursos sobrestados serão apreciados pelos Tribunais, Turmas de Uniformização ou Turmar Recursais, que poderão declará-los prejudicados ou retratar-se'.
+    Afinal, o E. STF julgou o mérito do Agravo de Instrumento.
+    III – Por conseguinte, nos termos do artigo 543-B, § 3º, do CPC, por decisão monocrática, declaro prejudicado o presente Agravo de Instrumento, determinando oportunamente, que seja certificado o trânsito em julgado do despacho agravado e, por conseguinte, do v. Acórdão proferido pelo Colégio Recursal de Lins.
+    Lins, 14/06/2010”.
+    2. A parte reclamante alega que a decisão reclamada usurpa a competência do STF para apreciar os pressupostos de admissibilidade do agravo de instrumento de decisão que não admite recurso extraordinário.
+    3. As informações foram prestadas pela autoridade reclamada (doc. 29). O parecer da Procuradoria-Geral da República é pela improcedência da reclamação (doc. 31)
+    4. É o relatório. Decido.
+    5. De início, observo que se trata de reclamação ajuizada antes de 18.03.2016, de modo que segue o rito definido na Lei 8.038/90.
+    6. No processo de origem, o ora reclamante foi condenado ao pagamento de diferenças de rendimentos de caderneta de poupanças relativas ao denominado Plano Collor I. O recurso extraordinário foi inadmitido com base na afirmação da suposta infraconstitucionalidade da matéria, em 17.04.2010, o que deu ensejo à interposição do agravo do art. 544 do CPC/73. Em 14.06.2010, no entanto, foi proferida a decisão reclamada, que julgou prejudicado o agravo com base no art. 543-B, § 3º, do CPC/73, mas citando precedente estranho à sistemática da repercussão geral.
+    7. Em regra, não pode o magistrado deixar de encaminhar ao Supremo Tribunal Federal o agravo interposto da decisão que não admite recurso extraordinário (súmula 727). No entanto, esse entendimento foi flexibilizado pelo instituto da repercussão geral, que autoriza que os agravos interpostos das decisões que inadmitiram recurso extraordinários já sujeitos ao regime da repercussão geral sejam sobrestados ou julgados prejudicados quando relativos aos assuntos apreciados por esse regime (Rcl 11.187 ED, Rel. Min. Gilmar Mendes).
+    8. Este entendimento, porém, não se aplica à espécie, já que o órgão a quo, apesar de ter julgado prejudicado o agravo de instrumento pela aplicação do artigo 543-B, § 3º, do CPC/73, fez referência a precedentes que não correspondem a nenhum tema de repercussão geral (AI 754.485 e AI 617.966).
+    9. Assim, de fato, o órgão reclamado não deu o trâmite correto à análise da admissibilidade do recurso extraordinário.
+    10. Disso não decorre, porém, a subida do agravo do art. 544 do CPC/73. O recurso extraordinário interposto na origem versa sobre matéria que teve a repercussão geral reconhecida, em 15.04.2010 (antes portanto, da decisão que inadmitiu o recurso), no tema 265 (“Diferenças de correção monetária de depósitos em caderneta de poupança, não bloqueados pelo BACEN, por alegados expurgos inflacionários decorrentes do plano Collor I” - RE 591.797-RG). Diante disso, o recurso extraordinário deve ser sobrestado na origem, nos termos do artigo 1.030, III, do NCPC.
+    11. Do exposto, com base no art. 161, parágrafo único, do RI/STF e art. 992 do CPC/15, julgo procedente em parte o pedido, para cassar a decisão reclamada e a que inadmitiu o recurso extraordinário nos autos nº 322.01.2008.003125-1 (doc. 4/15), e determino o sobrestamento, na origem, do recurso extraordinário, nos termos do artigo 1.030, III, do NCPC.
+    Publique-se.
+    Brasília, 15 de março de 2017.
+Ministro LUÍS ROBERTO BARROSO
+Relator
