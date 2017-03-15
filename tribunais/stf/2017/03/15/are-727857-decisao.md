@@ -1,0 +1,12 @@
+Decisão: Trata-se de “agravo cível” (fls. 438-448), interposto com fundamento nos artigos 191 e 544 do CPC/1973, em face de decisão proferida pelo Órgão Especial do Tribunal de Justiça do Estado do Paraná (fls. 408-418), que negou provimento ao Agravo Regimental interposto contra o acórdão proferido pela 7ª Câmara Cível, que, após a aplicação da sistemática da repercussão geral (fl. 364 e 395-405), negou seguimento ao Recurso Extraordinário por estar em conformidade com o entendimento desta Corte exarado no julgamento dos temas 24 e 702, cujos paradigmas são, respectivamente, o RE-RG 563.708, Rel. Min. Cármen Lúcia, DJe 2.5.2013; e o RE-RG 764.332, Rel. Min. Joaquim Barbosa, DJe 21.3.2014.
+    Decido.
+    O recurso não suporta conhecimento.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    Ressalta-se que o Plenário decidiu não ser cabível recurso ao Supremo Tribunal Federal contra aplicação do procedimento da repercussão geral nas instâncias originárias. Transcrevo a ementa do AI-QO 760.358, de minha relatoria, DJe 18.2.2010:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem”.
+    Ante o exposto, não conheço do presente, por incabível.
+    Publique-se.
+    Brasília, 15 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
