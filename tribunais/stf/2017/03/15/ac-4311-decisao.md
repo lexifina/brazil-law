@@ -1,0 +1,22 @@
+Decisão: Trata-se de ação cautelar, com pedido liminar, ajuizada pelo Município de Pindamonhangaba, em face de indeferimento da tutela nos autos do Pedido de Tutela Provisória nº 335/SP (2017/0048905-7), em trâmite no Superior Tribunal de Justiça.
+    Na petição inicial, o requerente argumenta o cabimento da ação cautelar, tendo em vista o risco de lesão de qualquer natureza e a existência de motivo justo.
+    Relata que ingressou com ação rescisória contra sentença na ação de embargos à execução, distribuída por dependência aos autos principais (Processo 0003501-82.2015.4.03.6121). Afirma que não houve intimação do advogado da embargante, ocorrendo o trânsito em julgado, sem a oportunidade de interposição de qualquer recurso.
+    Alega que, após a contestação apresentada pela Fazenda Nacional, não foi aberto prazo para réplica, sendo prolatada a sentença sem que o município pudesse se manifestar. Afirma ainda equívoco na decisão do Tribunal Regional Federal, tendo em vista ofensa direta ao art. 5º, LV, da CF, em razão do cerceamento de defesa.
+    Nesses termos, uma vez que o município está impedido de contratar e fazer melhorias básicas e necessárias ao bem estar da população, ingressou com pedido de tutela provisória no Superior Tribunal de Justiça, para que fossem observadas as normas processuais. Afirma que, entretanto, aquela Corte Superior indeferiu o pedido ao fundamento do improvável êxito da ação rescisória.
+    Sustenta o periculum in mora, no caso, ao argumento de que a propositura da ação rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória.
+    Pede a concessão da liminar, afim de que o requerido expeça certidão positiva com efeitos de negativa, referente a tributos federais, bem como para que fique impedida de realizar qualquer apontamento no Serasa e CADIN. Ao final, pugna pela procedência da presente ação cautelar.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que a competência originária desta Suprema Corte submete-se a regime de direito estrito, ou seja, encontra-se estabelecida em rol taxativo previsto no art. 102, I, da CF de 1988. Nesse sentido, o seguinte precedente:
+    “(...) A COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - CUJOS FUNDAMENTOS REPOUSAM NA CONSTITUIÇÃO DA REPÚBLICA - SUBMETE-SE A REGIME DE DIREITO ESTRITO.
+    - A competência originária do Supremo Tribunal Federal, por qualificar-se como um complexo de atribuições jurisdicionais de extração essencialmente constitucional - e ante o regime de direito estrito a que se acha submetida – não comporta a possibilidade de ser estendida a situações que extravasem os limites fixados, em numerus clausus, pelo rol exaustivo inscrito no art. 102, I, da Constituição da República. (…) ” (Pet 1.738 AgR/MG, Rel. Min. Celso de Mello, Pleno, DJ de 01/10/99).
+    No caso, observa-se que o pedido formulado na presente ação cautelar – expedição de certidão positiva com efeitos de negativa, relativos a tributos federais devidos pelo Município de Pindamonhangaba – não se subsume a nenhuma das hipóteses de competência originária prevista no texto constitucional, sendo evidente, portanto, sua inadmissibilidade.
+    Ressalto ainda, entre as mudanças do novo Código Processual Civil, a ausência de previsão da ação cautelar. Com efeito, o CPC/2015 dispõe, em seu art. 300, a possibilidade de pedido de tutela de urgência quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo. Entretanto, no presente caso, não vislumbro essa hipótese.
+    Além disso, não se verifica interposição de recurso extraordinário no caso a justificar o ajuizamento da presente ação cautelar. Ainda que houvesse, é firme a jurisprudência desta Corte no sentido de que a instauração da jurisdição cautelar no Supremo Tribunal Federal depende da formulação, na instância judiciária de origem, de juízo positivo de admissibilidade de recurso extraordinário. Nesse sentido, a Questão de Ordem na Petição 2.961, Rel. Min. Celso de Mello, DJ 1º.8.2003.
+    Desse modo, observo o emprego da presente ação como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente a esta Corte.
+    Ante o exposto, nego seguimento ao pedido, nos termos do artigo 21, § 1º, do RISTF. Prejudicado o pedido liminar.
+    Publique-se.
+    Brasília, 15 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
