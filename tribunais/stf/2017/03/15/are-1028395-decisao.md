@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+    “AGRAVO INTERNO. AÇÃO DE COBRANÇA. AGENTE COMUNITÁRIO DE SAÚDE. ADICIONAL DE INSALUBRIDADE. DIREITO AO PERCEBIMENTO. NECESSIDADE DE LEI MUNICIPAL ESPECÍFICA REGULAMENTANDO O ASSUNTO. COMPETÊNCIA DO RESPECTIVO ENTE FEDERATIVO. ENTENDIMENTO SEDIMENTADO NO ÂMBITO DESTA CORTE DE JUSTIÇA. RAZÕES RECURSAIS. NÃO DEMOSTRAÇÃO DO DESACERTO DO DECISUM. DESPROVIMENTO.
+    - O agravo interno é uma modalidade de insurgência cabível contra decisão monocrática interlocutória, terminativa ou definitiva, proferida pelo relator.
+    - Conforme decidido por esta Corte de Justiça no julgamento do Incidente de Uniformização de Jurisprudência nº 2000622-03.213.815.0000, ‘O pagamento do adicional de insalubridade aos agente comunitários de saúde submetidos ao vínculo jurídico-administrativo, depende de lei regulamentadora do ente ao qual pertence’.
+     - É de se manter a decisão monocrática que negou seguimento à apelação, nos termos do art. 557, caput, do Código de Processo Civil, mormente quando as razões do agravo interno limitam-se a revolver a matéria já apreciada.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º, XXIII, e 37, caput, da Constituição.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) incide, no caso, a Súmula 280/STF; e (ii) “Por fim, em relação ao art. 37, caput, da CF, o insurgente limitou-se a argumentar genericamente sobre o referido artigo, sem impugnar concretamente os fundamentos do acórdão recorrido, o que impede o trânsito do recurso, à luz da jurisprudência do STF”.
+    O recurso extraordinário é inadmissível. De início, observa-se que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 1.035, § 1º, do CPC.
+    Como já registrado por este Tribunal, “a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Ainda que superado o óbice apontado, nota-se que a controvérsia se insere no âmbito infraconstitucional. Nesse sentido: ARE 980.065-AgR/PB, Relª. Minª. Rosa Weber.
+    Em se tratando especificamente de suposta ofensa ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Sumula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 15 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
