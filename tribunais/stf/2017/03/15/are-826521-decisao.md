@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é a decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “MANDADO DE SEGURANÇA. EXAME DA OAB. AUSÊNCIA DE CRITÉRIOS DE AVALIAÇÃO. DEVER DE MOTIVAÇÃO DAS DECISÕES. POSSIBILIDADE DE INGERÊNCIA DO PODER JUDICIÁRIO.
+    O controle judicial da avaliação de provas de concurso deve ser, em princípio, excepcional, limitado ao exame da legalidade e do procedimento administrativo. Assim, não pode o Poder Judiciário substituir o avaliador na correção das provas. Todavia, é possível o controle quanto aos pressupostos exigíveis na avaliação da prova, como o atendimento de critérios previamente determinados e compatíveis com a sua finalidade.
+    A banca examinadora tem o dever de fundamentar suas decisões, possibilitando a transparência na verificação do cumprimento das regras do certame, o que no caso concreto não ocorreu.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, caput e XIII, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que “a alegada ofensa a preceito constitucional somente se verificaria de modo indireto ou reflexo, ao que não se presta o recurso extraordinário”. Entendeu-se, ainda, pela ausência de regular prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    O Supremo Tribunal Federal, em face do entendimento do Plenário Virtual (RE 632.853-RG), deu provimento ao agravo para admitir o recurso extraordinário e, com base no art. 328, parágrafo único, do RI/STF, determinou o retorno dos autos à origem, a fim de que fossem observadas as disposições do art. 543-B do CPC/1973.
+    O TRF/4ª Região, ao exercer o juízo de retratação previsto no art. 543-B, § 3º do CPC/1973, manteve o acórdão anterior, que julgara recurso de apelação.
+    O Vice-Presidente do TRF/4ª Região admitiu o recurso extraordinário.
+    Decido.
+    O recurso extraordinário é inadmissível, uma vez que o entendimento do TRF/4ª Região está alinhado com a orientação do Supremo Tribunal Federal, que, ao julgar o mérito do RE 632.853-RG, sob a sistemática da repercussão geral, decidiu que, em regra, não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas, salvo quanto ao “juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame”. Veja-se, a propósito, a ementa do julgado:
+    “Recurso extraordinário com repercussão geral. 2. Concurso público. Correção de prova. Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas. Precedentes. 3. Excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame. Precedentes. 4. Recurso extraordinário provido.”
+    Na hipótese, a instância de origem decidiu pela anulação da correção de questões da prova prática-profissional do Exame de Ordem da OAB e determinou nova apreciação do recurso da candidata, ora agravada, em face da omissão do julgador em “mencionar qualquer falha da impetrante quanto ao raciocínio jurídico, fundamentação, capacidade de interpretação, correção gramatical ou técnica profissional demonstrada” (EVENTO 229). Dissentir da referida conclusão implica, necessariamente, a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), bem como o reexame de cláusula editalícia (Súmula 454/STF), providências vedadas nesta fase processual.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 15 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
