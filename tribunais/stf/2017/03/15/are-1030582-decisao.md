@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5°, II e 7°, VI, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo (Lei n° 14.695/2003 e Decreto n° 44.769/2008), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário.” Nesse sentido:
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PROMOÇÃO POR ESCOLARIDADE ADICIONAL. LEI 15.461/2005 DO ESTADO DE MINAS GERAIS. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO”. (ARE 964301 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/11/2016, PROCESSO ELETRÔNICO DJe-257 DIVULG 01-12-2016 PUBLIC 02-12-2016).
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. PROMOÇÃO. LEI ESTADUAL Nº 15.464/2005 E DECRETO Nº 44.769/2008. REQUISITOS NÃO PREENCHIDOS. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULAS 280 E 636/STF. Hipótese em que a resolução da controvérsia demandaria a análise de legislação infraconstitucional, o que é inviável em sede de recurso extraordinário (Súmulas 280 e 636/STF). Precedentes. O acórdão do Tribunal de origem apresenta fundamentação suficiente, embora em sentido contrário aos interesses da parte recorrente, circunstância que não configura violação aos arts. 5º, XXXV e 93, IX, da CF/88. Agravo regimental a que se nega provimento”. (ARE 805532 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 09/12/2014, ACÓRDÃO ELETRÔNICO DJe-021 DIVULG 30-01-2015 PUBLIC 02-02-2015).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de março de 2017.
+Ministra Rosa Weber
+Relatora
