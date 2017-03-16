@@ -1,0 +1,23 @@
+Decisão:
+Ementa: Penal. Habeas corpus. Dosimetria da pena. Regime inicial. Liminar indeferida.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Reynaldo Soares da Fonseca, assim ementado:
+    “HABEAS CORPUS SUBSTITUTO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. CONDENAÇÕES CRIMINAIS COM MAIS DE 5 ANOS. CONFIGURAÇÃO DE MAUS ANTECEDENTES. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. CIRCUNSTÂNCIA QUE IMPEDE A APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. REGIME PRISIONAL E SUBSTITUIÇÃO. QUESTÕES NÃO DEBATIDAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE DE EXAME. HABEAS CORPUS NÃO CONHECIDO.
+    1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+    2. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+    3. Nos termos da jurisprudência desta Corte Superior, as condenações criminais alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, contudo, não impedem a configuração de maus antecedentes, autorizando a exasperação da pena-base.
+    4. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto. No caso, tendo em vista que o paciente é portador de maus antecedentes, de rigor a não aplicação da benesse.
+    5. O regime prisional e a substituição da pena não foram objeto de debate pelo Tribunal a quo, de forma que sua análise por esta Corte Superior implicaria supressão de instância.
+    6. Habeas corpus não conhecido.”
+    2.  Extrai-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, pelo crime previsto no artigo 33, caput, da lei 11.343/06.
+    3. O Tribunal de Justiça do Estado de São Paulo negou provimento à apelação da defesa.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça, não conhecido.
+    5. Neste habeas corpus, a parte impetrante afirma que “a Magistrada sentenciante, aumentou a pena do paciente com base em Certidão Criminal às fls. 91 (dos autos de origem), de delito praticado em 17/02/1987, ou seja, há mais de 27 (vinte e sete) anos”. Alega que, da mesma forma, a juíza singular afastou a aplicação da minorante prevista no artigo 33, § 4º, da Lei de Drogas, com fundamento nessa única condenação anterior. Sustenta, por fim, a possibilidade, no caso, da fixação de regime inicial mais brando e da substituição da pena privativa de liberdade por outra restritiva de direitos.
+    6. Com essa argumentação, requer a concessão de medida liminar a fim de assegurar ao paciente o direito de iniciar o cumprimento da pena em regime aberto até o julgamento definitivo desta impetração. No mérito, pleiteia a concessão da ordem a fim de reduzir a pena imposta ao paciente, fixar regime inicial mais brando e substituir a reprimenda privativa de liberdade por outra restritiva de direitos.
+    Decido.
+    7. As peças que instruem este processo não evidenciam ilegalidade flagrante ou abuso de poder que autorize a concessão da liminar, notadamente se se considerar que a Primeira Turma do Supremo Tribunal Federal, no julgamento do ARE 925.136-AgR, Rel. Min. Edson Fachin, decidiu que “Condenações anteriores transitadas em julgado, alcançadas pelo decurso do prazo de 5 anos previsto no art. 64, I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração de maus antecedentes”.
+    8. Diante do exposto, indefiro a liminar. Dê-se vista dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 16 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
