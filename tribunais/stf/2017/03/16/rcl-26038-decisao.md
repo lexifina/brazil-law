@@ -1,0 +1,17 @@
+Decisão: Trata-se de reclamação, com pedido de liminar, contra decisão proferida pelo Juízo da 26ª Vara do Juizado Especial Federal do Ceará, nos autos do Processo 0511685-56.2016.4.05.8100, que reconheceu direito à licença-prêmio por tempo de serviço, pelo prazo de três meses, após cada quinquênio ininterrupto de exercício na magistratura da União, inclusive em relação às aquisições futuras.
+    Sustenta-se, em síntese, usurpação de competência desta Corte para análise da matéria por tratar-se de questão de interesse geral da magistratura.
+    Dispenso o pedido de informações, bem como remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RI/STF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    Decido.
+    A reclamação é o instrumento previsto pela Constituição, em seu art. 102, I, l, para a preservação da competência do Supremo Tribunal Federal e garantia da autoridade de suas decisões. Nesse último caso, a decisão deve ter sido proferida com efeitos vinculantes, ou prolatada no caso concreto.
+    A partir da vigência da Emenda Constitucional 45, também passou a ser cabível o ajuizamento de reclamação por violação de Súmula Vinculante (art. 103-A, § 3º, da CF/88).
+    Assim sendo, nada obstante seja cabível a propositura de reclamação por usurpação de competência desta Corte, tem-se que o caso dos autos não fornece suporte para a incidência da regra.
+    Isso porque o Supremo Tribunal Federal, no julgamento da Rcl 16.597, Rel. Min. Teori Zavascki, Dje 19.2.2014, ratificou seu entendimento no sentido de que, para a instauração de competência originária do Supremo Tribunal Federal com fundamento no art. 102, I, n, da Constituição Federal, é imprescindível o interesse (direto ou indireto) da totalidade da magistratura nacional no julgamento da causa e que este não revele pretensão passível de ser repetida por outras carreiras do serviço público. Conforme expressamente sintetizado na respectiva ementa:
+    Não fixa competência originária do STF a propositura de ação com peculiaridades que dizem respeito a número restrito de magistrados alegadamente interessados na solução da causa ou que veicula pretensão passível de ser repetida por outras carreiras do serviço público.
+    A pretensão vertida nos autos não se mostra exclusiva da categoria, tendo em vista que o direito ao recebimento de licença-prêmio interessa não apenas à parte apontada como reclamada, mas também a outros agentes políticos e servidores públicos, na medida em que o benefício pode ser previsto conforme o estatuto jurídico do agente ou do servidor. Considerando que o direito à fruição desse benefício não é exclusivo da magistratura nacional, pois também integra o estatuto do Ministério Público e de outras carreiras do serviço público federal, repisa-se, está afastada a competência do Supremo Tribunal Federal para julgar a matéria.
+    Confiram-se, a propósito, julgados proferidos por meus Pares, em igual sentido: ARE 852.880-AgR, Rel. Min. Roberto Barroso, Primeira Turma, Dje 24.10.2016; AO 1.779-AgR, Rel. Min. Marco Aurélio, Primeira Turma, Dje 1º.8.2016; AO 1.571-AgR, Rel. Min. Teori Zavascki, Segunda Turma, Dje 10.5.2016; e Rcl 22.429-AgR, Rel. Mn. Celso de Mello, Segunda Turma, Dje 31.5.2016.
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento à reclamação, com prejuízo do pedido de liminar.
+    Publique-se.
+    Brasília, 16 de março de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
