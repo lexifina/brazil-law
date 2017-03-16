@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de embargos de declaração opostos em 24.09.2015, cujo objeto é decisão monocrática que determinou o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC/1973, uma vez que esta Corte, no julgamento do RE 639.856 (Tema 616), reconheceu a existência de repercussão geral da controvérsia relativa à incidência do fator previdenciário ou das regras de transição trazidas pela EC nº 20/1998 ao benefícios concedidos a segurados filiados ao Regime Geral até 16.12.1998.
+    O embargante sustenta que “o recurso extraordinário pretende o pronunciamento do STF sobre a aplicação das regras de transição, relativas ao requisito etário, na concessão de aposentadoria integral, por tempo de contribuição”. Alega, ainda, que não há similitude entre as controvérsias, dado que “o Tema 616 da RG se relaciona à fórmula de cálculo do salário de benefício de aposentadoria proporcional, consideradas as regras de transição da EC 20/98”.
+    Assiste razão ao embargante, motivo pelo qual a decisão deve ser reconsiderada.
+    Passo à analise do recurso.
+    O Tribunal de origem negou provimento à apelação do INSS e à remessa oficial e deu provimento à apelação do ora agravado, em acórdão assim ementado:
+    “PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. ADEQUAÇÃO DA VIA ELEITA. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA AFASTADA. APOSENTADORIA INTEGRAL. CONCESSÃO. CONVERSÃO DE TEMPO ESPECIAL EM COMUM. COMPROVAÇÃO. RUÍDO. LEGISLAÇÃO APLICÁVEL. FATOR DE CONVERSÃO. EFEITOS PATRIMONIAIS. JUROS. CORREÇÃO MONETÁRIA.
+    1. Os documentos acostados aos autos demonstram satisfatoriamente a prestação de serviços pelo segurado, durante o período informado, sendo a discussão alusiva à existência ou não do direito à aposentadoria pretendida travada exclusivamente à luz do direito vigente. Súmula 625 do STF.
+    2. O pedido é aquilo que se pretende com a instauração da demanda e se extrai a partir de uma interpretação lógico-sistemática do afirmado na petição inicial, recolhendo todos os requerimentos feitos em seu corpo, e não só àqueles constantes em capítulo específico ou sob a rubrica ‘dos pedidos’ (STJ, REsp. 120.299-ES, Rel. Min. Sálvio de Figueiredo, DJU 21.09.98.) Estando a sentença em plena conformidade com a postulação, não se há de falar em decisão extra ou ultra petita.
+    3. O cômputo do tempo de serviço prestado em condições especiais deve observar a legislação vigente à época da prestação laboral, tal como disposto no § 1º do art. 70 do Decreto nº 3.048/99, com redação dada pelo Decreto nº 4.827/03.
+    4. Considera-se especial a atividade exercida com exposição a ruídos superiores a 80 decibéis até 05/03/97 (Súmula nº 29 da AGU), e, a partir de então, acima de 85 decibéis, desde que aferidos esses níveis de pressão sonora por meio de perícia técnica, trazida aos autos ou noticiada no preenchimento de formulário expedido pelo empregador.
+    5. Para configuração da especialidade da atividade, não é necessário que o trabalhador permaneça exposto ao nível máximo de ruído aludido na legislação durante toda a sua jornada de trabalho.
+    6. O segurado comprovou que esteve exposto a nível superior a 80 dB(A) até 05.03.1997.
+    7. O multiplicador de 1,4 é o fator definido para a conversão de tempo especial em comum para o tempo de trabalho exercido por homens, cuja aposentadoria especial é assegurada aos vinte e cinco anos de atividade (parágrafo único do art. 70 do Decreto 3.048/99).
+    8. O segurado que implementou o tempo de contribuição necessário para obtenção da aposentadoria integral não se submete às regras de transição.
+    9. O benefício deverá ser concedido a partir do requerimento administrativo, mas com efeitos financeiros a partir da impetração do mandado de segurança, pois a ação mandamental não pode ser manejada como substituto de ação de cobrança, nem produzir efeitos para alcançar parcelas pretéritas à impetração.
+    10. Juros de mora e correção monetária deverão ser calculados em conformidade com o Manual de Cálculos da Justiça Federal, observando-se os índices e normas legais indicadas no voto.
+    11. Preliminar(es) rejeitada(s). Apelação do impetrante provida. Apelação do INSS e remessa oficial desprovidas”.
+    Como se percebe, a conclusão do Tribunal de origem não diverge da jurisprudência do Supremo Tribunal Federal que firmou entendimento no sentido de que as regras de transição previstas na EC 20/98 dizem respeito apenas à concessão da aposentadoria proporcional. Veja-se, nesse sentido, o RE 524.189-AgR-ED, Rel. Min. Teori Zavascki.
+    Diante do exposto, reconsidero a decisão recorrida e, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. Julgo prejudicados os presentes embargos.
+    Publique-se.
+          Brasília, 16 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
