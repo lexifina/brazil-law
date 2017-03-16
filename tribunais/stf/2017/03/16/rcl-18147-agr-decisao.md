@@ -1,0 +1,30 @@
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. RECONSIDERAÇÃO. MATÉRIA PENAL E PROCESSUAL. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA. INOCORRÊNCIA. TRIBUNAL A QUO. RECURSO EXTRAORDINÁRIO. INADMISSÃO. INTERPOSIÇÃO DE AGRAVO. INTEMPESTIVIDADE. RECURSO MANIFESTAMENTE INCABÍVEL. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de Agravo Regimental interposto por LIA DE CAMARGO MAGALHÃES e LUIZ GABRIEL DELANHESE contra decisão de minha relatoria, a qual restou assim fundamentada:
+    “Consta do andamento processual do Recurso em Sentido Estrito n. 0079319-83.2011.8.26.0114 que a 13ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo deu-lhe provimento para receber, em parte, a queixa crime oferecida contra os reclamantes.
+    Assim, a presente Reclamação perdeu seu objeto, pois resta prejudicada a discussão acerca dos embargos de declaração interpostos contra a decisão do colegiado dos juizados que remeteu o RESE ao Tribunal, uma vez que o Tribunal conheceu e deu parcial provimento ao referido recurso.”
+    Os agravantes sustentam que o objeto da presente reclamação não se refere aos embargos de declaração opostos contra a decisão do colegiado da Turma Recursal, mas sim à usurpação de competência do Supremo Tribunal Federal pela decisão que negou seguimento ao agravo interposto contra a inadmissão do Recurso Extraordinário.
+    Ressaltam que “o Tribunal de Justiça Bandeirante deu provimento ao Recurso em Sentido Estrito interposto pela interessada, ora agravada, MIRELLA e não aos embargos de declaração opostos pelos Agravantes. Embargos esses, cujo acolhimento poderia, sim, implicar a perda do objeto.”
+    Requerem, portanto, o provimento do agravo regimental para que, reformada a decisão recorrida, seja julgado procedente o pedido, determinando-se o restabelecimento da competência desta Suprema Corte.
+    Intimado, o Ministério Público apresentou parecer pelo provimento do recurso.
+    É o relatório. Decido.
+    À luz dos argumentos expostos, RECONSIDERO a decisão agravada, tornando-a sem efeito, e, por conseguinte, JULGO PREJUDICADO o agravo regimental.
+    Com efeito, a partir da análise detida dos autos, verifico que a presente reclamação objetiva o processamento do agravo interposto contra decisão que negou seguimento ao recurso extraordinário.
+    Dessa forma, não houve perda de objeto ante a decisão da 13ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que recebeu em parte a queixa-crime em face dos reclamantes.
+    Remanescendo, portanto, o interesse jurídico na presente reclamação, passo à análise do mérito.
+    In casu, o Presidente do Colégio Recursal da 8ª Circunscrição Judiciária de Campinas, com base em constatação de intempestividade, negou seguimento ao agravo interposto contra decisão que inadmitiu o recurso extraordinário, tendo sido esta última proferida ao fundamento de que não houve o preenchimento dos requisitos formais de demonstração da repercussão geral.
+    Eis o teor da decisão reclamada, verbis:
+    “Dispõe a Súmula nº 699 do C. Supremo Tribunal Federal que: ‘O prazo para interposição de agravo, em processo penal, é de cinco dias, de acordo com a Lei 8.038/90, não se aplicando o disposto a respeito nas alterações da Lei 8.950/94 ao Código de Processo Civil’.
+    Assim, diante da súmula acima citada, da certidão de fls. 269 e do disposto no artigo 28 da Lei 8.038/90, julgo INTEMPESTIVO o agravo de instrumento contra decisão denegatória de recurso extraordinário.”
+    Destarte, o agravo foi inadmitido na origem com espeque na sua intempestividade, requisito formal e objetivo de admissibilidade do recurso. Veja-se a decisão proferida pelo juízo reclamado em sede de embargos de declaração:
+    “Estando a questão sumulada, não se discute aqui a competência para apreciar o juízo de admissibilidade do agravo de instrumento contra decisão que nega seguimento ao recurso extraordinário, que é do C. STF, como se tem observado em todos os casos neste Colégio Recursal. O que ocorre no agravo de instrumento interposto pelos querelados (fls. 280/294) é que ele é INTEMPESTIVO, conforme certificado às fls. 296. Verificar se a petição preenche os requisitos de admissibilidade (e, portanto, sem adentrar ao mérito) é questão de princípio de celeridade e de economia processual que norteia o sistema dos Juizados Especiais.
+    A publicação da decisão pra agravada ocorreu no DJ de 14/01/2013 (fl. 278), e o agravo foi protocolizado no dia 21/01/2014 (fl. 280), quando exaurido o prazo de cinco dias previsto no artigo 28 da Lei nº 8.038/90.
+    Anote-se que a jurisprudência do Supremo Tribunal é assente no sentido de que o prazo para a interposição do agravo contra decisão denegatória de recurso extraordinário criminal é de cinco dias, conforme o artigo 28 da Lei nº 8.038/90, não revogado, em matéria penal, pela Lei nº 8.950/94, de âmbito normativo restrito ao Código de Processo Civil. Trata-se da incidência da Súmula nº 699/STF.”
+    Sendo assim, o recurso interposto pelos reclamantes perante o tribunal de origem é manifestamente incabível, inexistindo a alegada usurpação de competência.
+    O que pretende o agravante, em última análise, é utiliza o instrumento processual da reclamação como sucedâneo de recurso. Entretanto, restou assentado neste Tribunal que “a reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, l, da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual” (Rcl 4.381 AgR, Rel. Min. Celso de Mello, Pleno, DJe de 5/8/2011).
+    Ex positis, com esteio no artigo 161, parágrafo único, do RISTF, reconsidero a decisão agravada e NEGO SEGUIMENTO à reclamação.
+    Julgo, ainda, prejudicado o agravo regimental.
+    Publique-se.
+    Brasília, 16 de março de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
