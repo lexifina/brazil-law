@@ -1,0 +1,8 @@
+Em 30/4/2013, a Ministra Cármen Lúcia, então relatora, determinou o sobrestamento destes autos para aguardar o julgamento da ADI 3.423/DF, na qual se discute sobre a constitucionalidade do art. 114, § 2°, da Constituição Federal, que prevê a necessidade de comum acordo entre as partes para ajuizamento de dissídio coletivo de natureza econômica.
+    Ocorre que, posteriormente, essa matéria teve repercussão geral reconhecida no julgamento do ARE 679.137/RJ (substituído pelo RE 1.002.295-RG – Tema 841), de relatoria do Ministro Marco Aurélio, em acórdão assim ementado:
+    “FORMALIZAÇÃO DE DISSÍDIO COLETIVO – EXIGÊNCIA DE COMUM ACORDO – ARTIGO 114, § 2º, DA CARTA DE 1988 – EMENDA CONSTITUCIONAL Nº 45/2004 – CONSTITUCIONALIDADE – RECURSO EXTRAORDINÁRIO – AGRAVO PROVIDO NOS PRÓPRIOS AUTOS – SEQUÊNCIA – REPERCUSSÃO GERAL – CONFIGURAÇÃO. Possui repercussão geral a controvérsia acerca da constitucionalidade da previsão de comum acordo entre as partes como requisito para a formalização de dissídio coletivo de natureza econômica, versada no § 2º do artigo 114 da Carta de 1988, com a redação dada pela Emenda Constitucional nº 45, de 2004, considerado o disposto nos artigos 5º, incisos XXXV e XXXVI, e 60, § 4º, do Diploma Maior”.
+    Isso posto, ante o reconhecimento da repercussão geral da questão ora em exame no Tema 841 (RE 1.002.295-RG), torno sem efeito o despacho de sobrestamento de fls. 2078-2079 e determino a devolução dos autos ao Tribunal de origem para que se observe a sistemática da repercussão geral, nos termos do art. 1.036, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 16 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
