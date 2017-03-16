@@ -1,0 +1,6 @@
+Ato Declaratório Interpretativo RFB nº 2, de 14 de março de 2017
+Dispõe sobre a aplicação da isenção de que trata o art. 8° da Lei n° 11.096, de 13 de janeiro de 2005.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 8°, da Lei n° 11.096, de 13 de janeiro de 2005, declara:
+Art. 1º A isenção de que trata o art. 8º da Lei nº 11.096, de 13 de janeiro de 2005, não se aplica à Contribuição para o PIS/Pasep incidente sobre a folha de pagamentos devida pela pessoa jurídica que adere ao Programa Universidade para Todos (Prouni), restringindo-se à Contribuição para o PIS/Pasep incidente sobre as receitas auferidas em decorrência da realização de atividades de ensino superior, provenientes da ministração de cursos de graduação ou sequenciais de formação específica.
+Art. 2º Ficam modificadas as conclusões em contrário constantes em Soluções de Consulta ou em Soluções de Divergência emitidas antes da publicação deste ato, independentemente de comunicação aos consulentes.
+JORGE ANTONIO DEHER RACHID
