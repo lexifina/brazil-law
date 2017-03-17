@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região, reformando o entendimento do Juízo, julgou improcedente o pedido de diferenças salariais. No extraordinário, os recorrentes alegam a violação dos artigos 5º, inciso II, e 37, incisos X e XV, da Constituição Federal. Sustentam não terem recebido os valores determinados pela Lei nº 8.868//94. Dizem incabível a opção prevista na Lei nº 9.421/96, porquanto a Administração não os reconhece como detentores de função comissionada. Discorrem sobre a impossibilidade de portaria do Tribunal Superior Eleitoral regulamentar o valor das gratificações devidas aos chefes de cartório ou escrivães eleitorais, ante à inexistência de previsão legal da respectiva delegação.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Com efeito, o valor atribuído pela Lei nº 8.868/94 à gratificação mensal devida aos Escrivães Eleitorais do interior dos Estados, cujo critério de apuração a parte autora entende deva ser preservado, levou em conta, à época, o nível retributivo da função comissionada FC-03, de que tratava o Anexo IV daquele mesmo diploma.
+    […]
+    De outra banda, tanto o art. 19 da Lei nº 9.421/96, como o art. 10 da Lei nº 10.475/2002, atribuíram competência aos Tribunais Superiores para baixar os atos regulamentares necessários à aplicação daquelas Leis, buscando a uniformidade de critérios e procedimentos. Com base nesses dispositivos, o Tribunal Superior Eleitoral, por meio da Resolução nº 19.784/97 e da Portaria nº 158/2002, houve por revisar a base de cálculo do valor da gratificação mensal devida pelo exercício da função de Escrivão Eleitoral das Zonas Eleitorais do interior dos Estados, passando a mesma, a partir da vigência da Lei nº 9.421/96, a ser calculada com base no valor-base da função comissionada 03, mantido tal valor nominal a partir da Lei nº 10.475/2002.
+    A despeito das alterações na estrutura remuneratória dos cargos e funções, pretende o apelante, por força da Lei nº 8.868/94, continuar a perceber o equivalente ao valor da função comissionada de nível 3 (FC-03). Veja-se, contudo, que o valor da FC-03 já não vem mais traduzido em um percentual do cargo de DAS-3.
+    […]
+    É de se ter em conta, ainda, que a Lei nº 10.842/2004 extinguiu a gratificação em questão, referindo, no seu art. 3º, inciso II, que o cálculo da mesma teria por base a remuneração da FC-03. Portanto, não alude à correspondência de valores.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Ante o quadro, nego seguimento a este extraordinário.
+    4. Publiquem.
+Brasília, 17 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
