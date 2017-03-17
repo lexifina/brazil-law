@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “Apelação Cível- Ação de Cobrança- Município de Monte Alegre- Adicional de insalubridade- Previsão da verba no Estatuto do Servidor Público do Município -Art. 99 da Lei Municipal nº 12/93- Percentual de 20% que merece mantido- Condições de insalubridade que não cessaram ou diminuíram- Dano moral- Inexistência de provas que demonstrem prejuízo e desequilíbrio financeiro- Ofensa à honra e a imagem- Inexistente- Mero aborrecimento e dissabor- Dano moral afastado- Reforma da Sentença- Recurso conhecido e parcialmente provido”.
+    O recurso busca fundamento no art. 102, inciso III, a e c, da Constituição Federal. Parte recorrente alega violação aos arts. 7º, XXIII; e 39, §3º, da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “a matéria discutida não transita perante a Corte constitucional, uma vez que demanda interpretação de legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos, vedados nessa via excepcional, incidindo, na espécie, as Súmulas nº 279 e 280 do STF; e (ii) “a suposta violação aos dispositivos constitucionais indicados na causa em apreço acarreta, no máximo, ofensa oblíqua à Lei Maior”.
+    O recurso extraordinário não deve ser admitido. O Tribunal de origem decidiu a controvérsia analisando a Lei municipal nº 12/1993 e no Estatuto dos Funcionários Públicos do Município de Monte Alegre, bem como o conjunto dos fatos e provas constantes nos autos. Veja-se, por oportuno, trecho do julgado:
+    “Analisando minunciosamente os autos, verifico que o Estatuto dos Servidores Públicos Municipais de Monte Alegre confere aos servidores que prestem trabalhos com risco de vida ou saúde farão jus à gratificação especial, que será definida em lei específica.
+    Ocorre que, apesar de a Lei nº 12/93 prever tal adicional, não estipulou o percentual devido. Outrossim, conforme comprovado no presente feito,a autora percebia o percentual de 20% (vinte por cento) a título de adicional de insalubridade, tendo sido surpreendida, em 2013, com a redução inexplicada para 10%”.
+    Para dissentir do entendimento proferido pelo acórdão recorrido, seria necessária a análise da legislação local pertinente e dos fatos e provas constantes dos autos, providência inviável neste momento processual, a atrair a incidência das Súmulas 279 e 280/STF. Nesse sentido, vale colacionar a ementa do ARE 725.167-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário com agravo. Servidor público. Aposentadoria por invalidez. Concessão. Preenchimento dos requisitos. Legislação local. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 280 e 279/STF.
+    2. Agravo regimental não provido.”
+    Diante do exposto, com base no art. 932, IV e VIII, c/c art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 17 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
