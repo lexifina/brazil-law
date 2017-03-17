@@ -1,0 +1,23 @@
+Decisão: Trata-se recurso extraordinário interposto em face de acórdão da Primeira Turma do Tribunal Regional Federal da 5ª Região, assim ementado (eDOC 1, pp. 197/198):
+    “EMENTA: ADMINISTRATIVO. VPNI. COMPLEMENTAÇÃO DE SALÁRIO MÍNIMO. PAGAMENTO INDEVIDO. REPOSIÇÃO AO ERÁRIO. IMPOSSIBILIDADE. ERRO DA ADMINISTRAÇÃO NA INTERPRETAÇÃO DA LEI. BOA-FÉ. DECADÊNCIA. INOCORRÊNCIA.
+    1. Somente a partir da vigência da Lei nº 11.784/2008, a VPNI passou a ser indevida, sendo esse o termo inicial da contagem do prazo decadencial. Como a supressão da rubrica ocorreu em 2011, não restou ultrapassado o prazo decadencial de cinco anos estabelecido pelo art. 54, § 1º, da Lei nº 9.784/1999.
+    2. A VPNI (rubrica 82600/82601) foi instituída como complemento do salário mínimo, tendo como paradigma o valor do vencimento básico, nos termos do parágrafo único do art. 40 da Lei nº 8.112/90, dispondo que nenhum servidor receberá, a título de vencimento, importância inferior ao salário mínimo. Ocorre que, a partir da MP 431/2008, o referido dispositivo foi revogado, tendo sido incluído, já pela Lei 11.784/2008, na qual foi convertida aquela medida provisória, o § 5º ao art. 41 do RJU, o qual passou a estabelecer que nenhum servidor receberá remuneração inferior ao salário mínimo. Assim, a VPNI deixou de ser devida, já que alterado o paradigma para pagamento do complemento do salário mínimo.
+    3. O pagamento indevido da VPNI decorreu de erro da própria Administração na interpretação da lei, sendo certo que a verba, de natureza alimentar, foi recebida de boa-fé, descabida, portanto, a reposição da quantia paga a maior e indevidos quaisquer descontos para tal fim.
+    4. Sobre esse mesmo tema (reposição ao erário de valores pagos a maior, por rubrica referente à complementação do salário mínimo após a modificação do parâmetro legal de pagamento), este Tribunal tem entendido pela impossibilidade do ressarcimento, consoante precedentes de todas as suas Turmas e do Pleno (APELREEX 00125727320114058100, Primeira Turma, DJE 22/05/2014; APELREEX 0000376222012405820201, Desembargador, Segunda Turma, DJE 30/08/2013; AC 00056992320124058100, Terceira Turma, DJE 28/11/2013; APELREEX 0006729842012405820002, Pleno, DJE 13/08/2014; APELREEX 0016776112012405830002, Pleno, DJE 27/05/2014).
+    5. Apelações improvidas. Sentença confirmada.”
+    Não foram opostos embargos de declaração pelo ora recorrente. Os embargos declaratórios interpostos pela DNOCS foram desprovidos (eDOC 1, pp. 241-255).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37, XV, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma (eDOC 1, p 296):
+    “... Ao ser convertida em VPNI, ocasião em que deixou de sofrer as correspondentes alterações em seu valor atinente ao salário mínimo, a destinação da parcela [complementação do salário mínimo] restou alterada e, desde então, a mesma se incorporou aos vencimentos/proventos dos servidores, de modo que sua supressão configura nítida violação à garantia constitucional da irredutibilidade remuneratória. (grifos no original)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifico que a matéria não possui envergadura constitucional, uma vez que, conforme constata-se do item 1. da ementa, a supressão da rubrica fundou-se na não ocorrência do prazo decadencial para a Administração anular os seus atos, cujo escopo encontra-se estabelecido no art. 54, § 1º, da Lei nº 9.784/1999, de modo que possível afronta à Constituição, se existente, somente de verificaria de maneira indireta ou reflexa.
+    Nesse sentido:
+    “Ementa: DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. PRAZO PARA A ADMINISTRAÇÃO REVER SEUS ATOS. ART. 54 DA LEI 9.784/99. DECADÊNCIA. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 644.308, Rel. Min. Teori Zavascki, Segunda Turma, DJe 24.8.2015)
+    Ademais, como se depreende dos fundamentos do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo Tribunal de origem, demandaria o reexame de fatos e provas, bem como a análise da legislação infraconstitucional pertinente (Lei 8.112/1990 e Lei 11.784/2008), o que inviabiliza o processamento do apelo extremo.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 17 de março de 2017.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
