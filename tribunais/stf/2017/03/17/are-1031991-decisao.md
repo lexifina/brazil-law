@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “PRESCRIÇÃO — Execução fiscal — Taxas e ISS — Municipalidade de Leme — Reconhecimento, de ofício, da prescrição — Admissibilidade, pois até o início da vigência da LC 118/05, somente a citação pessoal, dentre outras situações, interrompia o prazo prescricional, não bastando o despacho inicial, conforme a redação do art. 174, parágrafo único, do CTN em vigor na época do ajuizamento e do despacho que determinou a citação — Inaplicabilidade da Súmula 106 do STJ - Sentença mantida — Apelo da Municipalidade desprovido” (pág. 115 do documento eletrônico 1) .
+    No RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação ao art. 5º, LIV e LV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque os dispositivos constitucionais arguidos não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+    Além disso, esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), Rel. Min. Gilmar Mendes, em que se rejeitou a repercussão geral da matéria em acórdão assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Por fim, os Ministros desta Corte, ao julgarem o RE 583.747-RG/RJ (Tema 151), Rel. Min. Menezes Direito, rejeitaram a repercussão geral da questão referente à possibilidade de pronunciamento de ofício da prescrição em execução fiscal, por estar a matéria restrita ao âmbito infraconstitucional. Por oportuno, transcrevo a ementa do referido julgado:
+    “DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. DECRETAÇÃO DE OFÍCIO. AUSÊNCIA DE INTIMAÇÃO DA FAZENDA PÚBLICA. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
