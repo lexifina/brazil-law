@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Leandro Lima Seerig, apontando como autoridade coatora a Terceira Seção do Superior Tribunal de Justiça, que julgou o CC nº 130.779/RS, Relatora a Ministra Laurita Vaz.
+    O impetrante sustenta, em síntese, que a ausência de intimação da defesa para a sessão de julgamento do conflito de competência em questão gerou a sua nulidade, por caracterizar cerceamento defesa, na medida em que frustrou a possibilidade de se realizar a sustentação oral.
+    Argumenta o impetrante, ainda, que houve explícito requerimento de intimação para a sessão de julgamento para fins de proferir sustentação oral, o que não foi observado.
+    Requer o deferimento da liminar para “determinar a imediata suspensão da ação penal nº 5001319-75.2015.4.04.7102 que tramita na 2ª Vara Federal de Santa Maria – RS (...)”
+    No mérito, pede a concessão da ordem para
+    “reconhecer a nulidade do julgamento do conflito de competência 130.779 do Superior Tribunal de Justiça consoante a fundamentação supra, devolvendo a ele os autos para que outro julgamento seja realizado, com as devidas intimações, bem como para via de consequência determinar, em definitivo, a suspensão da ação penal nº 5001319-75.2015.4.04.7102 que tramita na 2ª Vara Federal de Santa Maria – RS até que o Superior Tribunal de Justiça se manifeste.”
+    Examinados os autos, decido.
+    O deferimento de liminar em habeas corpus, como se sabe, constitui medida excepcional por sua própria natureza, justificada apenas se o ato impugnado estiver eivado de ilegalidade flagrante, demonstrada de plano, ou quando a situação noticiada nos autos representar flagrante constrangimento ilegal, o que não vislumbro à primeira vista.
+    Com efeito, não há nos autos a demonstração de que a aventada nulidade tenha sido apreciada pelo Superior Tribunal de Justiça nos incidentes processuais subsequentes ao julgamento colegiado do CC nº 130.779/RS.
+    Logo, sua análise, de forma originária, neste ensejo, configuraria inadmissível supressão de instância. Nesse sentido: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    De outra parte, não obstante o CC nº 130.779/RS tramite de forma eletrônica no Superior Tribunal de Justiça, é dever do impetrante “instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo” (HC nº 95.434/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 2/10/09).
+    No mesmo sentido, destaco:
+    “Habeas corpus. Receptação qualificada (CP, art. 180, § 1º). Decisão monocrática do Relator do habeas corpus no Superior Tribunal de Justiça dele não conhecendo, dada a sua instrução deficiente. Precedentes da Suprema Corte. Writ extinto.
+    1. O julgado proferido pelo Superior Tribunal de Justiça não diverge da jurisprudência da Corte, que não admite o conhecimento de habeas corpus quando os autos não foram instruídos com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal. Precedentes.
+    2. A decisão do Ministro Relator negando seguimento ao writ impetrado perante o Superior Tribunal de Justiça obsta a análise per saltum da temática de fundo pela Suprema Corte. Precedentes.
+    3. Habeas corpus extinto.” (HC nº 114.020/SP, Primeira Turma, de minha relatoria, DJe de 28/6/13)
+    “HABEAS CORPUS. PROCESSUAL PENAL. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. ALEGADA NECESSIDADE DE ESGOTAMENTO DA VIA ADMINISTRATIVA ANTES DO AJUIZAMENTO DA AÇÃO PENAL: ALEGAÇÃO INÉDITA, QUE NÃO PODE SER CONHECIDA SOB PENA DE SUPRESSÃO DE INSTÂNCIA. INSTRUÇÃO DEFICIENTE DOS AUTOS. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO. 1. Não se comprovam, nos autos, a presença de constrangimento ilegal a ferir direito dos Pacientes nem ilegalidade ou abuso de poder a ensejar a concessão da ordem. 2. Se a alegação da eventual necessidade de esgotamento da via administrativa antes do ajuizamento da ação penal não foi submetida à instância antecedente, não cabe ao Supremo Tribunal dela conhecer originariamente, sob pena de supressão de instância. 3. A impetração está deficientemente instruída. Não foram juntados documentos que comprovem a real situação do processo pelo qual respondem os Pacientes, o que impede conhecer do fundamento da impetração. 4. A jurisprudência do Supremo Tribunal Federal não admite o conhecimento de habeas corpus quando os autos não foram instruídos com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal. Precedentes. 5. Habeas corpus não conhecido” (HC nº 98.072/RS, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 7/5/10)
+    Com essas considerações, indefiro a liminar requerida.
+    Solicitem-se informações à autoridade coatora para que informe a esta Suprema Corte se foi formulado pedido de sustentação oral nos autos no CC nº 130.779/RS, bem como se a defesa foi comunicada da sessão de julgamento.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 20 de março de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
