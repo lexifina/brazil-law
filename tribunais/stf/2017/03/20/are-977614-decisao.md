@@ -1,0 +1,10 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão proferido pela Turma Recursal do Paraná, o qual reformou a sentença entendendo pela legitimidade da União para integrar o pólo passivo da ação, de modo a firmar a competência da Justiça Federal para processar o feito, além de condenar o Estado do Paraná e a Faculdade Vizivali ao dever de indenizar a autora pelos danos morais sofridos, com incidência de correção monetária. (eDOC -258, p. 11)
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, alega-se ofensa aos artigos 5º, XXXV; 37, § 6º; e 93, IX, da Constituição da República, por violar o princípio de acesso à Justiça, além de ofender o princípio da responsabilização civil do Estado, por entender que a União é o ente que deveria proceder ao registro válido, fiscalizar e, portanto, se responsabilizar com o ocorrido. Ainda, insurge-se em face da determinação de que a correção monetária observe o índice IPCA.
+    De plano, verifica-se que o Supremo Tribunal Federal, ao analisar a Repercussão Geral no recurso-paradigma RE-RG 870.947, de relatoria do Ministro Luiz Fux, DJe de 27.04.2015 (tema 810), reconheceu a existência de repercussão geral da controvérsia acerca da validade da correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública, conforme previstos no art. 1º-F, da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009. Na oportunidade, a ementa restou assim redigida:
+    “DIREITO CONSTITUCIONAL. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ART. 1º-F DA LEI Nº 9.494/97 COM A REDAÇÃO DADA PELA LEI Nº 11.960/09. TEMA 810. REPERCUSSÃO GERAL RECONHECIDA”.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral.
+    Publique-se.
+    Brasília, 20 de março de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
