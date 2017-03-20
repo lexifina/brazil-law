@@ -1,0 +1,17 @@
+Decisão
+          O Instituto Ibero Americano de Direito Público – Capítulo Brasileiro – IADP, na qualidade de amicus curiae, opõe embargos de declaração em face do acórdão proferido no julgamento da Medida Cautelar das ADCs 43 e 44, visando atribuição de efeitos infringentes.
+          O acórdão atacado, para o qual, nos termos do RISTF, fui designado redator em face da orientação majoritária que no Plenário se mostrou no julgamento, retomou orientação antes predominante na Corte e assentou a tese segundo a qual “A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal“.
+          Pretende o embargante ver o tema novamente apreciado para que, sanadas as questões levantadas em sua petição, sejam concedidos aos embargos declaratórios efeitos infringentes para que se promova a alteração do resultado do julgamento, vedando-se o início da execução criminal após condenação em segundo grau de jurisdição.
+          Cumpre assentar, ao início deste exame, que já foram indicadas à pauta em dezembro pretérito ADCs 43 e 44 para julgamento.
+          E como é sabido, o interesse recursal constitui requisito intrínseco de recorribilidade, sem o qual não pode a pretensão de reexame ser conhecida.
+          Para sua aferição a doutrina geralmente o desdobra em dois diferentes requisitos, o da utilidade e da necessidade, os quais, no que aqui interessa, podem ser sintetizados, respectivamente, a partir das ideias da obtenção de um potencial resultado mais vantajoso e a da imperiosidade da adoção das vias recursais.
+          No caso, o que se postula nos embargos de declaração, a rigor, é um novo pronunciamento do Plenário da Corte a respeito da compatibilidade da execução criminal, encerradas as vias jurisdicionais ordinárias, após o julgamento da questão pelos Tribunais de segundo grau, com o princípio da presunção de não culpabilidade.
+          Todavia, como se percebe, o mérito das presentes ADCs já foi pautado para julgamento por parte do eminente relator, Ministro Marco Aurélio, aguardando inclusão no calendário por parte da Presidência da Corte.
+          Observa-se, pois, ausente a necessidade da via recursal manejada para a obtenção do que busca o embargante, falecendo-lhe interesse recursal.
+          Afinal, estando o mérito apto a ser deliberado pelo colegiado, as questões apontadas na petição dos embargos, na ambiência daquele julgamento, serão analisadas de maneira mais eficaz e definitiva do que com a reabertura da discussão em sede meramente cautelar.
+          Por fim, importa esclarecer que, a despeito de determinados feitos, por disposição regimental, independerem de inclusão em pauta, como é o caso dos embargos de declaração, ainda assim demandam inclusão no calendário de julgamento.
+          Improfícuo, portanto, também sob essa ótica, o manejo dos embargos de declaração, já que a liberação do feito para o julgamento em mesa não prescinde da organização, a cargo da Presidência, do calendário de julgamentos.
+          Posto isso, com base no art. 21, § 1º, do RISTF, por manifesta falta de interesse recursal, não conheço do recurso oposto.
+          Brasília, 20 de março de 2017.
+          Ministro Edson Fachin
+           Redator para o acórdão
