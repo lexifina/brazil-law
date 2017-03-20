@@ -1,0 +1,25 @@
+Trata-se de reclamação, com pedido de liminar, proposta pelo Município de Itapetininga/SP, com fundamento no arts. 102, I, l, e 103-A, § 3°, da Constituição Federal e arts. 156 e seguintes do Regimento Interno do Supremo Tribunal Federal, para garantir a observância, pela instância de origem, da decisão proferida por esta Suprema Corte, no julgamento da Ação Declaratória de Constitucionalidade 16/DF e da Súmula Vinculante 10.
+    O reclamante alega, em síntese, que:
+    “Na origem, trata-se de reclamação trabalhista na qual foi requerida a condenação do empregador ao pagamento de verbas trabalhistas, bem como a condenação subsidiária do Município reclamante, na condição de tomador de serviços.
+    [...]
+    Com as vênias devidas, a decisão questionada imputou responsabilidade direta e automática ao Município em razão de danos gerados pela contratada, considerando-o mero fiador e responsável patrimonial pelo inadimplemento de obrigação de terceiros. Neste contexto, resta claro que no julgamento realizado pelo Tribunal Regional do Trabalho, nenhuma análise sobre atuação culposa da Administração Pública foi desenvolvida com base em elementos concretos da demanda, tendo sua responsabilização decorrido da mera alusão acerca da abstrata possibilidade neste sentido, estampada na Sumula 331 do TST.
+    [...]
+    Assim sendo, a decisão atacada ao condenar subsidiariamente a Administração Pública ao pagamento de haveres trabalhistas devidos pelo seu contratado, afrontou o dispositivo legal contido no art. 71, § 1º, da Lei nº 8.666/93, além de desrespeitar os efeitos vinculantes da decisão proferida pelo STF no julgamento da ADC nº 16/DF, que reconhece como constitucional a norma legal contida no dispositivo citado, o qual expressamente consigna a impossibilidade jurídica de responsabilização da Administração em casos como o aqui versado.
+    [...]
+    Tendo em vista a redação do artigo 71, § 1º da Lei 8.666/1993, somente por meio de declaração de inconstitucionalidade do referido dispositivo legal, observando-se o artigo 97 da Constituição Federal e a súmula vinculante n.º 10, é que se poderia reconhecer a responsabilidade subsidiária da Administração Pública.
+    A cláusula de reserva de plenário, prevista no artigo 97 da Constituição Federal, determina que ‘somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo órgão especial poderão os tribunais declarar a inconstitucionalidade de lei ou ato
+    normativo do Poder Público’.
+    Assim, a decisão questionada, proferida pela Turma do TRT – 15ª Região, ao determinar a responsabilidade subsidiária da Administração Pública Municipal pelas verbas deferidas, com fundamento na Súmula 331, V do TST, ainda que implicitamente, negou vigência ao artigo 71, § 1º da Lei n.º 8.666/1993, sem que o órgão Especial respectivo houvesse declarado a inconstitucionalidade do dispositivo de lei, descumprindo, desta forma, a Súmula Vinculante n.º 10 deste Supremo Tribunal Federal” (págs. 2-3 do documento eletrônico 1).
+    Ao final, requer:
+    “A – a concessão de medida liminar, determinando a suspensão da tramitação do processo número 0001741-56.2013.5.15.0041, até decisão final da presente Reclamação, com fundamento no artigo 158 do RISTF, expedindo-se o competente ofício;
+    [...]
+    C – ao final, seja julgada procedente a presente reclamação, a fim de que seja cassado o Acórdão proferido pelo Tribunal Regional do Trabalho da 15ª Região, através de sua 10ª Câmara – 5ª Turma, nos autos do processo número 0001741-56.2013.5.15.0041 ou que seja determinada a medida adequada para preservação da Jurisdição e autoridade das decisões preferidas por este Excelso Tribunal, com arrimo no artigo 161, III do RISTF” (págs. 26-27 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    Registre-se, inicialmente, que a reclamação, ação vocacionada a cumprir a dupla função a que alude o art. 102, I, l, da Constituição Federal, não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual (vide: Rcl 15578-AgR/DF, Rel. Min. Celso de Mello, Plenário, DJ 10/4/2014).
+    Muito bem. Em consulta ao sítio eletrônico do Tribunal Regional do Trabalho da 15ª Região é possível verificar na Certidão de Vencimento de Prazo/Termo de Remessa, de 23/11/2016, que o ora reclamante não interpôs agravo de instrumento contra a decisão que inadmitiu o recurso de revista.
+    Evidencia-se, dessa forma, a natureza eminentemente recursal da pretensão deduzida, o que a consolidada jurisprudência deste Supremo Tribunal não admite. Nesse sentido, cito os seguintes precedentes da Segunda Turma, entre outros: Rcl 24.548-AgR/SC, Rel. Min. Dias Toffoli, DJ 15/3/2017; Rcl 21.662-AgR/AC, Rel. Min. Celso de Mello, DJ 15.3.2017; Rcl 24.323-AgR/BA, Rel. Min. Gilmar Mendes, DJ 19/10/2016.
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 20 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
