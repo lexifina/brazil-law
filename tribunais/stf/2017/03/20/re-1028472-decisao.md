@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Veja-se o seguinte trecho de ementa:
+    “REEXAME NECESSÁRIO.APELAÇÃO CÍVEL. ADMINISTRATIVO. PRESCRIÇÃO DO FUNDO DE DIREITO. INEXISTÊNCIA. SERVIDOR PÚBLICO ESTADUAL. CÔMPUTO DA GRATIFICAÇÃO DE REGIME ESPECIAL DE TRABALHO – RET NA BASE DE CÁLCULO DOS QUINQUÊNIOS ADQUIRIDOS ANTES DO ADVENTO DA EC Nº 19/98. ART. 112, PARÁGRAFO ÚNICO DO ADCT, DA CONSTITUIÇÃO ESTADUAL. VÍCIO DE INCONSTITUCIONALIDADE RECONHECIDO PELO ÓRGÃO ESPECIAL. AUSÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. IMPROCEDÊNCIA. SENTENÇA REFORMADA, EM REEXAME NECESSÁRIO. RECURSO DE APELAÇÃO CONHECIDO E PROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, XIV, da Constituição.
+    O recurso não deve ser provido, uma vez que o acórdão impugnado está alinhado ao decidido no RE 563.708-RG, julgado sob a relatoria da Ministra Cármen Lúcia. No julgado, cuja matéria teve a repercussão geral reconhecida, o Plenário do Supremo Tribunal Federal assentou a aplicabilidade imediata da redação dada pela Emenda Constitucional nº 19/1998 ao art. 37, XIV, da Constituição Federal. Fixou-se, assim, que a partir da vigência da EC nº 19/1998 é inconstitucional a adoção da remuneração como base de cálculo para os acréscimos pecuniários percebidos por servidor público. Por outro lado, assegurou-se a observância do princípio de irredutibilidade de vencimentos. Veja-se a ementa do paradigma:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO À REGIME JURÍDICO. BASE DE CÁLCULO DE VANTAGENS PESSOAIS. EFEITO CASCATA: PROIBIÇÃO CONSTITUCIONAL. PRECEDENTES. IMPOSSIBILIDADE DE REDUÇÃO DOS VENCIMENTOS. PRINCÍPIO DA IRREDUTIBILIDADE DOS VENCIMENTOS. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO.”
+    Dessa orientação não divergiu o acórdão recorrido.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao agravante, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 20 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
