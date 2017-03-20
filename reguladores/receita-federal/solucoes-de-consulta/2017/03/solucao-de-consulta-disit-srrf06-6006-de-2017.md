@@ -1,0 +1,15 @@
+Solução de Consulta Disit/SRRF06 nº 6006, de 15 de março de 2017
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+EMENTA: NÃO CUMULATIVIDADE. DIREITO DE CREDITAMENTO. INSUMOS. REPRESENTAÇÃO COMERCIAL. Os valores pagos a outras pessoas jurídicas por prestação de serviço de representação comercial não geram direito à apuração de créditos a serem descontados da Cofins, na sistemática não cumulativa, por não se enquadrarem na definição legal de insumos aplicados ou consumidos diretamente na fabricação de seus produtos, consoante o inciso II do art. 3º da Lei nº 10.833, de 2003. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 7, DE 23 DE AGOSTO DE 2016.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3º, inciso II; Instrução Normativa SRF nº 404, de 2004, art. 8º.
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: NÃO CUMULATIVIDADE. DIREITO DE CREDITAMENTO. INSUMOS. REPRESENTAÇÃO COMERCIAL. Os valores pagos a outras pessoas jurídicas por prestação de serviço de representação comercial não geram direito à apuração de créditos a serem descontados da Contribuição para o PIS/Pasep, na sistemática não cumulativa, por não se enquadrarem na definição legal de insumos aplicados ou consumidos diretamente na fabricação de seus produtos, consoante o inciso II do art. 3º da Lei nº 10.637, de 2002. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 7, DE 23 DE AGOSTO DE 2016.
+DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 3º; IN SRF nº 247, de 2002, art. 66, I, “b”, e § 5º.
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+EMENTA: NÃO CUMULATIVIDADE. DIREITO DE CREDITAMENTO. INSUMOS. REPRESENTAÇÃO COMERCIAL. Os valores pagos a outras pessoas jurídicas por prestação de serviço de representação comercial não geram direito à apuração de créditos a serem descontados da Cofins, na sistemática não cumulativa, por não se enquadrarem na definição legal de insumos aplicados ou consumidos diretamente na fabricação de seus produtos, consoante o inciso II do art. 3º da Lei nº 10.833, de 2003. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 7, DE 23 DE AGOSTO DE 2016.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3º, inciso II; Instrução Normativa SRF nº 404, de 2004, art. 8º.
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: NÃO CUMULATIVIDADE. DIREITO DE CREDITAMENTO. INSUMOS. REPRESENTAÇÃO COMERCIAL. Os valores pagos a outras pessoas jurídicas por prestação de serviço de representação comercial não geram direito à apuração de créditos a serem descontados da Contribuição para o PIS/Pasep, na sistemática não cumulativa, por não se enquadrarem na definição legal de insumos aplicados ou consumidos diretamente na fabricação de seus produtos, consoante o inciso II do art. 3º da Lei nº 10.637, de 2002. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 7, DE 23 DE AGOSTO DE 2016.
+DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 3º; IN SRF nº 247, de 2002, art. 66, I, “b”, e § 5º.
+MÁRIO HERMES SOARES CAMPOS
+Chefe
