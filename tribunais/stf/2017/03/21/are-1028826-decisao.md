@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça da Paraíba, assim ementado:
+    “Agravo interno. Decisão monocrática. Remessa de ofício e apelação cível. Provimento parcial ao apelo. Agente comunitário de saúde. Município de Aroeiras. Adicional de insalubridade. Inexistência de previsão em norma municipal. Benesse indevida. Manutenção do decisum. Desprovimento do recurso”. (eDOC 2, p. 163)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos art. 7º, XXIII; e 37 do texto constitucional.
+    Nas razões recursais, alega-se que há regulamentação por lei municipal quanto ao adicional por insalubridade; e mesmo que assim não fosse, seu recebimento seria garantido por norma constitucional de eficácia plena, que possui aptidão para produzir todos os seus efeitos desde a entrada em vigor da Constituição. (eDOC 2, p. 205)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o acórdão recorrido está em consonância com a jurisprudência desta Corte, no sentido de ser necessária edição de lei pelo respectivo ente federado para caracterizar o direito do agente público à percepção do adicional de insalubridade.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “Servidor público. Adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei. Art. 7º, XXIII, da Constituição Federal. - O artigo 39, § 2º, da Constituição Federal apenas estendeu aos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios alguns dos direitos sociais por meio de remissão, para não ser necessária a repetição de seus enunciados, mas com isso não quis significar que, quando algum deles dependesse de legislação infraconstitucional para ter eficácia, essa seria, no âmbito federal, estadual ou municipal, a trabalhista. Com efeito, por força da Carta Magna Federal, esses direitos sociais integrarão necessariamente o regime jurídico dos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios, mas, quando dependem de lei que os regulamente para dar eficácia plena aos dispositivos constitucionais de que eles decorrem, essa legislação infraconstitucional terá de ser, conforme o âmbito a que pertence o servidor público, da competência dos mencionados entes públicos que constituem a federação. Recurso extraordinário conhecido, mas não provido.” (RE 169.173, rel. Min. Moreira Alves, Primeira Turma, DJe 16.5.1997)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. POLICIAL MILITAR DO ESTADO DE SÃO PAULO. RECEBIMENTO DE ADICIONAL DE PERICULOSIDADE. AUSÊNCIA DE PREVISÃO LEGAL. IMPROCEDÊNCIA DA PRETENSÃO. 1. Nos termos da jurisprudência do Supremo Tribunal Federal, cabe à legislação infraconstitucional - observadas as regras de competência de cada ente federado - a disciplina da extensão dos direitos sociais contidos no art. 7º do Magno Texto a servidores públicos. 2. Agravo regimental a que se nega provimento”. (RE-AgR 599.166, rel. Min. Ayres Britto, Segunda Turma, DJe 23.9.2011)
+    Nessa mesma linha, cito os seguintes julgados: RE 637.282, Rel. Min. Dias Toffoli, DJe 31.8.2012; RE 477.520, Rel. Min. Celso de Mello, DJe 15.6.2010; e ARE 827.297, Rel. Min. Luiz Fux, DJe 14.10.2015.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
