@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (eDOC 1, p. 221-222):
+    “EMENTA: CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. REMESSA NECESSÁRIA E APELAÇÕES CÍVEIS EM AÇÃO ORDINÁRIA. SENTENÇA ILÍQUIDA EM FACE DE ENTE FEDERATIVO QUE COMPORTA O REEXAME NECESSÁRIO DE OFÍCIO. PRELIMINAR SUSCITADA PELA FAZENDA PÚBLICA: NULIDADE DO JULGADO SOB O ARGUMENTO DE FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. REJEIÇÃO. INAPLICABILIDADE DO ART. 47 DO CPC DE 1973. MÉRITO: PROGRESSÃO FUNCIONAL. AUDITOR FISCAL DO TESOURO ESTADUAL (AFTE). PLEITO DE PROMOÇÃO DE NÍVEL. APLICAÇÃO DO ART. 5° DA LEI 6.038/90, ALTERADA PELA LEI 6.622/94, E ART. 22 DA LCE DE N° 122/94. ASCENSÃO QUE INDEPENDE DA EXISTÊNCIA DE VAGAS QUANDO TRANSCORRIDO O LAPSO TEMPORAL DE 02 (DOIS) ANOS PREVISTO NA REFERIDA NORMA. MANUTENÇÃO DA SENTENÇA. REMESSA NECESSÁRIA E APELAÇÕES CIVEIS CONHECIDAS E DESPROVIDAS.”
+    No recurso extraordinário, com fulcro no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 169, § 1º, I, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “O fato em si de que há lei estadual admitindo a promoção funcional, só por só, não pode vincular pedido judicial com esse fim. A regra constitucional multicitada não pode ser interpretada sem se distanciar da condição estabelecida na própria lei, qual seja, a existência de vaga na classe objeto da postulação, o que justificaria a previsão orçamentária, já que a nova remuneração (no caso, do recorrido) já estaria sendo paga regularmente a quem antes a ocupava.” (eDOC 1, p. 248).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 1, p. 228-233):
+    “(...) pode-se constatar que assiste razão a parte autora no que concerne ao seu direito à progressão funcional pleiteada do cargo de AFTE 3 para AFTE de nível 4, independentemente dos argumentos do demandado no que concerne a falta de dotação orçamentária para os próprios fins emanados na Lei Estadual de n° 6.038/90, alterada pela Lei de n° 6.622/94.
+    (…)
+    Nesses termos, estando a vantagem expressamente prevista em lei existente, válida e eficaz, detém a parte autora o direito à aplicação de seus efeitos financeiros, não cabendo prosperar a alegação de ausência de recursos financeiros a fim de impedir a devida aplicabilidade normativa, motivo pelo qual não merece provimento a Remessa Necessária e o Recurso voluntário interposto pela Fazenda.
+    Em outro pórtico, patente que o direito vindicado pela parte autora encontra previsão delineada na Lei Estadual de rf 6.038/90, cujo teor foi a reestruturação do "Grupo Ocupacional Fisco de que trata a Lei 4.535/75, com suas alterações posteriores, integrante da Parte II, Tabela I, do Quadro Geral de Pessoal do Estado.
+    (…)
+    Com arrimo na norma supra, vê-se que vencidos os dois anos de exercício no mesmo nível de auditor fiscal, o servidor do Grupo Fisco deve ser imediatamente promovido, independentemente da existência de vagas, nos termos do art. 5º § 2°, da LC nº 6.038/90, com as alterações implementadas pela Lei Estadual de n° 6.622/94, sendo necessária para referida ascensão a rigor: alternativamente dois anos de exercício no nível ou pela vacância de 10% das vagas.
+    (…)
+    Diante deste contexto, correto o entendimento do Juízo recorrido no que atine ao autor fazer jus à promoção do cargo de AFTE nível 3 para AFTE nível 4 com os retroativos nos moldes deferidos, sob pena de se a Administração assim não proceder, incidir em violação direta ao princípio da legalidade previsto no art. 37, caput, da Constituição Federal.”
+    Sendo esses os fundamentos acolhidos pelo acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação local aplicável à espécie (Leis Estaduais nº 6.038/90 e 6.622/94.), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do Código de Processo Civil, e majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os limites dos §§ 2º e 3º do artigo 85, §11, do CPC.
+    Publique-se.
+    Brasília, 21 de março de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
