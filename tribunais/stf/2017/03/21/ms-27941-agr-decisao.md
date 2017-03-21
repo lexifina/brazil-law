@@ -1,0 +1,11 @@
+DESPACHO:
+    1. O presente mandado de segurança foi impetrado pela Associação Nacional dos Magistrados Estaduais (ANAMAGES) contra ato omissivo do Presidente do Tribunal de Justiça do Estado do Amazonas, consistente “em não conceder o reajuste dos subsídios dos magistrados do Estado do Amazonas correspondente ao ano de 2005”.
+    2. Segundo a inicial, a Lei federal nº 11.143, de 26 de julho de 2005, fixou o subsídio dos ministros do STF em R$ 21.500,00 (vinte e um mil e quinhentos reais), com efeitos retroativos a fevereiro de 2005. Além disso, a lei federal “cuidou ainda de antecipar para 1º de janeiro de 2006, aos membros daquela Corte, a fixação do subsídio mensal no valor de R$ 24.500,00 (vinte e quatro mil e quinhentos reais)”. Já a Lei amazonense de nº 3.045, de 26 de julho de 2006, apesar de ter concedido o reajuste aos magistrados amazonenses para o ano de 2006, em observância ao art. 93, V da CF/88, teria sido omissa ao não conceder efeitos retroativos ao ano de 2005.
+    3. O Min. Ayres Britto, relator originário do feito, negou seguimento ao mandado de segurança (fls. 34-36). Contra essa decisão, a impetrante interpôs agravo regimental (fls. 46-51). A Procuradoria-Geral da República manifestou-se pelo desprovimento do agravo (fls. 54-59).
+    4.  O feito foi afetado ao Plenário desta Corte em 19.12.2011 e, posteriormente, retirado da pauta em razão da aposentadoria do Min Ayres Britto (cf. Ata nº 57/2012, DJE nº 247, de 17.12.2012). Substituí a relatoria, nos termos do art. 38, do RISTF.
+    5. Ocorre, no entanto, que, de acordo com a decisão proferida na ADO 7, Rel. Min. Cármen Lúcia, já foi editada a Lei amazonense nº 3.506/2010, a qual reconheceu a pretendida retroatividade ao ano de 2005. Este fato acarretou, inclusive, o prejuízo da referida ação direta. Além disso, considerando o lapso de tempo decorrido, é provável até mesmo que a diferença já tenha sido paga aos magistrados associados à impetrante.
+    6. Diante do exposto, intimem-se as partes e a PGR, no prazo sucessivo de 05 (cinco) dias cada, a começar pela parte agravante, para que se manifestem sobre possível perda do objeto do agravo.
+     Publique-se. Intimem-se.
+          Brasília, 21 de março de 2017.
+Ministro LUÍS ROBERTO BARROSO
+Relator
