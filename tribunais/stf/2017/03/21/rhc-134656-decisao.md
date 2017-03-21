@@ -1,0 +1,40 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, com pedido de liminar, interposto por Dagoberto Verstandig Pereira Lima, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que não conheceu do HC nº 321.177/SP, Relator para o Acórdão o Ministro Nefi Cordeiro.
+    Alega o recorrente que o Tribunal de Justiça de São Paulo, ao prover o recurso de apelação, o condenou pelo crime de estelionato (CP, art. 171) e fixou a pena em 8 (oito) anos e 4 (quatro) meses de reclusão, sem qualquer motivação idônea e base empírica, no seu entender.
+    Esclarece a defesa que o Tribunal local “fixou a pena-base no máximo cominado ao tipo penal, acrescendo ainda o aumento máximo de 2/3 (dois terços), em razão da continuidade delitiva, sem qualquer mínima justificativa acerca da exasperação em patamar tão aquém do mínimo legal.” (grifos do autor)
+    Sustenta que a pena imposta violou os princípios da razoabilidade e da proporcionalidade, apoiando-se “unicamente na opinião pessoal de que a pena cominada ao tipo penal estaria desatualizada no contexto atual.” (grifos do autor)
+    Argumenta-se, ainda, que,
+    “uma breve análise do artigo 59 do Código Penal demonstraria que as circunstâncias judiciais com relação ao ora Paciente não seriam desfavoráveis – o Paciente era primário e o único processo que respondia foi atingido pela prescrição da pretensão punitiva (cf. Doc. 17 da impetração) –, motivo pelo qual a fixação da pena-base em seu máximo configura inequívoco constrangimento ilegal pela ausência de fundamentação da majoração imposta.”
+    Requer o deferimento da liminar para suspender “[a] eficácia da decisão condenatória, OBSTANDO o cumprimento do mandado de prisão e da pena (...)” (grifos do autor).
+    No mérito, pede o provimento do recurso para que a ordem de habeas corpus seja concedida no sentido de reduzir-se a “reprimenda fixada em [seu] desfavor (...) aos patamares mínimos legais, aplicando-se, inclusive, regime prisional adequado à pena remodulada” (grifos do autor).
+    Após contrarrazões, o recurso foi encaminhado a esta Suprema Corte.
+    O pedido de liminar foi por mim indeferido.
+    O Ministério Público Federal, pelo parecer da Subprocuradora-Geral da República Cláudia Sampaio Marques, opinou pelo não conhecimento do recurso ordinário.
+    Examinados os autos, decido.
+    Transcrevo a ementa do julgado ora hostilizado:
+    “PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIME DE ESTELIONATO. DOSIMETRIA DA PENA. PLEITO DE REDUÇÃO DA PENA-BASE. TESE DE FALTA DE FUNDAMENTAÇÃO PARA A EXASPERAÇÃO. NÃO OCORRÊNCIA. AUMENTO FUNDAMENTADO NA GRANDE QUANTIDADE DE CONDUTAS DELITUOSAS. OFENSA À RAZOABILIDADE E PROPORCIONALIDADE NÃO VERIFICADA. HABEAS CORPUS NÃO CONHECIDO.
+    1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+    2. Mostra-se válido o aumento da pena-base, em razão das circunstâncias do delito, em vista da grande quantidade de condutas delituosas.
+    3. Nos termos da jurisprudência desta Corte, não se presta o remédio heróico à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias, admitindo-se, em caráter excepcional, o reexame da aplicação das penas, nas hipóteses de manifesta violação aos critérios dos arts. 59 e 68, do Código Penal, sob o aspecto da ilegalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+    4. A fixação da pena-base no máximo legal é admissível pelo sistema penal de dosimetria, desde que presente a pertinente justificação, o que se tem na espécie.
+    5. Habeas corpus não conhecido” (grifos do autor).
+    Essa é a razão por que se insurge o recorrente.
+    Existe óbice processual ao conhecimento do presente recurso.
+    Conforme bem salientado pela Procuradoria-Geral da República, trata-se de mera reiteração de pedido, com base em idêntica causa de pedir, anteriormente deduzido no HC nº 131.157/SP, Relator o Ministro Roberto Barroso, ao qual se negou seguimento, por decisão monocrática transitada em julgado, ao fundamento de que
+    “a Primeira Turma do Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal (v.g HC 109.956, Rel. Min. Marco Aurélio, e HC 104.045, Rel.ª Min.ª Rosa Weber)” (DJe de 20/11/15).
+    Embora esse writ tenha sido julgado extinto sem resolução do mérito, por inadequação da via eleita, o mérito do inconformismo foi examinado, afastando-se a tese de ilegalidade na dosimetria da pena, verbis:
+    “A individualização da reprimenda é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. A discussão a respeito da dosimetria da pena restringe-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda pertence). Sendo certo que as peças contidas nos autos não evidenciam teratologia, ilegalidade flagrante ou abuso de poder na dosimetria da pena aplicada ao paciente, até mesmo por observar que “o Tribunal de Justiça, ao analisar o caso, entendendo que a prova constante dos autos é sim suficiente para demonstrar senão a prática dos 18.726 atos de utilização de inúmeros cartões de crédito falsificados, seguramente a clonagem de centenas de cartões de créditos...”
+    Como sabido, a jurisprudência da Corte “não conhece de habeas corpus em que se reitera pretensão veiculada em impetração anterior já examinada e denegada.” (HC nº 126.835/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 18/8/15)
+    Perfilhando esse entendimento: HC nº 130.772/MG-AgR, Primeira Turma, Relator o Ministro Edosn Fachin, DJe de 1º/2/16; HC nº 129.705/SP-AgR, Segunda Turma, de minha relatoria, DJe de 14/12/15; HC nº 92.555/SC-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 24/10/11; e HC nº 81.107/SP, Segunda Turma, Relator o Ministro Néri da Silveira, DJ de 5/10/01, entre outros.
+    Destaco ainda, as seguintes decisões monocráticas: HC nº 110.804/TO, de minha relatoria, DJe de 3/11/11; HC nº 97.731/SP, Relator o Ministro Ricardo Lewandowski, DJe de 10/2/09; HC nº 96.776/BA, Relator o Ministro Menezes Direito, DJe de 21/1108; HC nº 83.131/SP, Relator o Ministro Celso de Mello, DJ de 15/8/03; e HC nº 80.636/MG, Relator o Ministro Nelson Jobim, DJ de 5/9/01.
+    Em acréscimo, destaco que a majoração da pena-base do recorrente foi amparada pelas “circunstâncias do delito, em vista da grande quantidade de condutas delituosas.” Como noticiou o aresto impugnado, a prova constante dos autos demonstrou “a prática dos 18.726 atos de utilização de inúmeros cartões de crédito falsificados, seguramente a clonagem de centenas de cartões de créditos.”
+    Para o Supremo Tribunal Federal,
+    “não se presta o habeas corpus para ponderar, em concreto, a suficiência das circunstâncias judiciais invocadas pelas instâncias antecedentes para a majoração da pena-base nem para a reapreciação de matéria de fato demarcada nas instâncias originárias” (HC nº 130.483/RJ, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 17/5/16).
+    No mesmo sentido, por exemplo, o RHC nº 122.183/SP, Primeira Turma, DJe de 24/11/14; e o RHC nº 132.860/SP, Segunda Turma, DJe de 30/5/16, ambos de minha relatoria.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário em habeas corpus.
+    Publique-se.
+    Brasília, 21 de março de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
