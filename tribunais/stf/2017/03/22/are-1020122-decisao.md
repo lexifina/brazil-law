@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário em face do acórdão da 1ª Turma Recursal do Estado do Paraná, que confirmou a sentença, cujos fundamentos reproduzo (e-DOC 43):
+    “Como a GIFA foi imediatamente regulamentada, a ela não se aplica a regra da paridade, uma vez que não se configura como gratificação de caráter geral, mas sim pro labore faciendo.
+    (…)
+    Por tratar-se a GIFA de gratificação de natureza pro labore faciendo, associada ao exercício da função e concedida de acordo com a produtividade aferida no serviço, aplica-se à situação em análise o entendimento acima exposto, não havendo falar em irregularidade da diferenciação entre os servidores inativos e os que se encontram em atividade.
+    (…)
+    Em razão disso, entendo que não há violação a qualquer preceito constitucional, seja da irredutibilidade, seja da paridade, em virtude do pagamento diferenciado decorrente do próprio teor dos arts. 4º e 10, parágrafo primeiro, da Lei nº 10.910/04.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 40, §§ 7º e 8º, da Constituição Federal, bem como ao artigo 7º da Emenda Constitucional nº 41/2003.
+    Nas razões recursais, sustenta-se ser a natureza da gratificação requerida genérica. Aduz que a “GIFA não está condicionada apenas a efetiva avaliação do servidor, mas também a continuidade da avaliação”, o que não ocorre. Por esses motivos, deve a referida gratificação deve ser estendida a todos os servidores ativos e inativos com base na Lei 10.910/2007.
+    A Presidência das Turmas Recursais do Paraná inadmitiu o recurso em virtude de inexistir ofensa direta à Constituição Federal, conforme a jurisprudência do STF, bem como pela aplicação da Súmula 279 do STF.
+    É o relatório. Decido.
+    Inicialmente, verifico que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o exame da legislação infraconstitucional aplicável à espécie.
+    Noutras palavras, a ofensa à Constituição, a discussão referente a natureza jurídica da gratificação e a extensão ao servidores inativos revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE INCREMENTO DA FISCALIZAÇÃO E DA ARRECADAÇÃO – GIFA. EXTENSÃO A SERVIDORES INATIVOS. NATUREZA DA GRATIFICAÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. I - A jurisprudência do STF orienta-se no sentido de que a análise da prévia definição pelo Tribunal a quo da natureza, geral ou específica, da gratificação concedida situa-se em âmbito infraconstitucional. Entender de forma contrária ao que definido pelo Tribunal de origem demanda a interpretação das normas infraconstitucionais pertinentes, sendo certo que eventual ofensa à Constituição seria meramente indireta. Precedentes. II - Agravo regimental a que se nega provimento.” (RE 626.372-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 09.12.2013)
+    “DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE INCREMENTO DA FISCALIZAÇÃO E DA ARRECADAÇÃO – GIFA. NATUREZA DA VANTAGEM. EXTENSÃO AOS INATIVOS. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 17.6.2010. A análise da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo demandaria a interpretação da legislação infraconstitucional aplicável à espécie, o que é vedado a esta instância extraordinária. Precedentes. Agravo regimental conhecido e não provido.” (RE 765.140-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 26.11.2013)
+    Ante o exposto, conheço do agravo e seguimento ao recurso extraordinário, nos termos do artigo 21, §1º, RISTF.
+    Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 22 de março de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
