@@ -1,0 +1,1 @@
+Artigo 5º - Fica mantido, aos docentes das Escolas Técnicas, o percentual de 20% (vinte por cento) referente ao tempo destinado às horas-atividade de que trata o item 2 do §3º do artigo 20 da Lei Complementar nº 1.044, de 13 de maio de 2008, até 31 de dezembro de 2015.

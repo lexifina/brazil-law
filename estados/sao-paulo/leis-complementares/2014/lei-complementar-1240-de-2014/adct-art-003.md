@@ -1,0 +1,2 @@
+Artigo 3º - Os atuais servidores ocupantes de empregos públicos em confiança serão enquadrados na forma indicada no Anexo XII desta lei complementar.
+Parágrafo único - Se em decorrência da aplicação do disposto no "caput" deste artigo o valor da retribuição mensal das funções autárquicas de chefia e encarregatura for inferior à do mês imediatamente anterior ao da vigência desta lei complementar, os servidores farão jus a diferença a título de vantagem pessoal, a ser paga em código distinto.
