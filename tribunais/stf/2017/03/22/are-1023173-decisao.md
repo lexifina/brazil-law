@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de São Paulo contra acórdão que, proferido pela Quarta Turma do E. Tribunal de Justiça local, está assim ementado:
+    “RECURSO INOMINADO – Concurso Público Auditor Municipal de Controle Interno – Pretensão de anulação do ato administrativo que excluiu o autor do certame – Autor que se inscreveu para as vagas reservadas a negros e pardos – Eliminação do autor do certame mediante processo administrativo instaurado após sua classificação em lista especial – Artigo 1º, § ‘1’, da Lei Municipal nº 15.939/2013 que prevê como única exigência a ‘autodeclaração’ – Decreto nº 54.949/2014 e Portaria 261/2014 que inovaram na ordem jurídica – Impossibilidade – Sentença de procedência mantida – Nega-se provimento ao recurso."
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 37, “caput”, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei municipal nº 15.939/2013 e Decreto nº 54.949/2014), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “Com efeito, dispõe o artigo 1º da Lei Municipal nº 15.939/2013:
+    ‘Artigo 1º. Todos os órgãos da Administração Direta e Indireta do Município de São Paulo ficam obrigados a disponibilizar em seus quadros de cargos em comissão e efetivos o limite mínimo de 20% (vinte por cento) das vagas e/ou cargos públicos para negros, negras ou afrodescendentes.
+    § 1º Para os efeitos desta lei, consideram-se negros, negras ou afrodescendentes as pessoas que se enquadram como pretos, pardos ou denominação equivalente, conforme estabelecido pelo Instituto Brasileiro de Geografia e Estatística – IBGE, ou seja, será considerada a auto declaração.’
+    Assim, para concorrer às vagas destinadas aos afrodescendentes, a lei de regência não estabeleceu qualquer exigência ou restrição além da autodeclaração do candidato.
+    Forçoso reconhecer, portanto, que o Decreto nº 59.949/2014 e a Portaria nº 261/2014 não se limitaram a regulamentar a lei, inovando na ordem jurídica ao exigir requisitos não previstos na lei regulamentada.
+    Do mesmo modo como bem salientou o I. magistrado prolator da sentença, a denominada ‘Comissão de Monitoramento e Avaliação’ tem atribuição ‘para compilação de dados, avaliação de resultados acompanhamento e proposição de medida para efetivo cumprimento da lei’ e não consta do edital do concurso (item 5, fls. 29/30), que as autodeclarações seriam avaliadas pela referida comissão.
+    Em suma, à luz dos elementos existentes nos autos e face ao princípio da legalidade ao qual se submete a Administração Pública (CF, artigo 37, I), de rigor a confirmação da bem fundamentada sentença que julgou procedente o pedido do autor.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil.
+    Publique-se.
+    Brasília, 22 de março de 2017.
+Ministro CELSO DE MELLO
+Relator
