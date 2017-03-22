@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-DOC 3, p. 74):
+    “Pensão previdenciária - extinção da pensão pela conclusão de curso de nível superior - pretensão à percepção do beneficio em razão da matrícula em curso de mestrado profissionalizante - impossibilidade -aplicação literal e conforme o art. 157 da LC n° 180/78 - inexistência de interpretação restritiva na espécie - proteção previdenciária da incapacidade que não é promocional dos estudos - fins sociais da lei e do beneficio previdenciário preservados - recurso improvido.”
+    Os embargos de declaração foram rejeitados (e-DOC 3, p. 88).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 5º, XXXVI, da Constituição Federal.
+    Nas razões recursais, sustenta-se, que o autor, ora recorrente, continua a frequentar a pós-graduação e, por isso, tem direito à percepção da pensão deixada por sua avó, com base na Lei Complementar 180/1978.
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso em virtude da ausência de prequestionamento, incidindo a Súmula 282 do STF.
+    É o relatório. Decido.
+    Constata-se que eventual divergência em relação ao entendimento adotado pelo acórdão impugnado, notadamente acerca da possibilidade ou não do direito do estudante receber a pensão, demandaria o exame da legislação local (Lei Estadual 180/1978 e Lei 9.717/1998) e a incursão nos fatos e provas dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 280 e 279 do STF. Sobre o tema:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.11.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido.” (ARE 877.864-AgR, Min. Rel. Rosa Weber, Primeira Turma, DJe 11.06.2015)
+    Especificamente sobre as referidas leis, cito os precedentes: ARE 939.930, Rel. Min. Rosa Weber, DJe 11.02.2016; e ARE 977.627, Rel Min. Cármen Lúcia, DJe 28.06.2016.
+    Por fim, ressalte-se que o Supremo Tribunal Federal já assentou a inexistência de repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal (RE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJ e 1º.08.2013).
+    Ante o exposto, nego provimento ao agravo, nos termos dos artigo 932, IV, a do Código de Processo Civil.
+    Publique-se.
+    Brasília, 22 de março de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
