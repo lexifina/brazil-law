@@ -1,0 +1,4 @@
+Artigo 4º-A - Os docentes de FATECs e ETECs e os servidores administrativos terão progressão especial, a partir de 1º de julho de 2015, considerando-se, para esse fim, 1 (um) grau para cada 2 (dois) anos de efetivo exercício na respectiva classe, para enquadramento nos graus superiores, na forma estabelecida neste artigo. (NR)
+§ 1º - Para fins do disposto no "caput" deste artigo, o tempo de efetivo exercício será sempre contado a partir do grau A na respectiva classe. (NR)
+§ 2º - Se da apuração do tempo de efetivo exercício, para fins de progressão especial prevista neste artigo, resultar em somatório de tempo superior ao previsto para alcance do último grau da referência em que o docente estiver enquadrado, proceder-se-á o seu enquadramento no grau "P" da mesma referência, hipótese em que não haverá apuração de qualquer valor a título de vantagem pessoal. (NR)
+- Artigo 4º-A acrescentado pela Lei Complementar nº 1.252, de 03/07/2014.
