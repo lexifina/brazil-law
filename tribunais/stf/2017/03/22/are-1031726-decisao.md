@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à improcedência do pedido de diferenças salariais, relativas ao pagamento retroativo de promoções. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação do artigo 5º, incisos XXXV e LV. Argui a nulidade dos embargos de declaração por falta de prestação jurisdicional. Reitera o direito pretendido.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. A par de a alegação do recorrente ser genérica, não indicando expressamente quais pontos teriam ficado sem análise, percebe-se, na espécie, ter o Colegiado de origem procedido a julgamento fundamentado de forma consentânea com a ordem jurídica, versando, detalhadamente, sobre as razões pelas quais manteve a improcedência do pedido de pagamento retroativo de valores relativos a promoção auferida pela autora.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    O direito à promoção de classes está previsto na Lei Complementar Estadual nº 10.098/94, que dispõe sobre Estatuto e Regime Jurídico ùnico do Magistério Estadual, vejamos:
+    (…)
+    Já a Lei nº 6.672/74, que disciplinou o Estatuto e Plano de Carreira do Magistério Público do Rio Grande do Sul, assim dispõe acerca da promoção dos servidores:
+    (…)
+    Da leitura de tais dispositivos, depreende-se que o ente público não está obrigado a conceder a promoção, a qual está sujeita ao poder discricionário da Administração Pública, que somente a concederá após o exame da conveniência e oportunidade.
+    Na hipótese dos autos, constou no ato administrativo que concedeu a promoção à recorrente, que esse produziria efeitos a contar de sua publicação, não havendo menção acerca do período anterior a 14.09.2001, ou seja, não concedeu efeito retroativo.
+    Por essa razão, não deve prosperar a pretensão recursal da autora, já que a Administração Pública não está obrigada a conceder a promoção e ao Poder Judiciário é vedado apreciar o mérito do ato administrativo, sendo possível somente analisar a legalidade deste.
+    Necessário ressaltar, ainda, que tal questão não comporta mais discussão, tendo em vista o julgamento do incidente de uniformização de jurisprudência, ocorrido em 11/05/2012, pelos integrantes do Colendo 2º Grupo Cível que, na ocasião, funcionou como 2ª Turma Cível, o qual entendeu que a promoção com efeitos retroativos não pode ser concedida pelo Poder Judiciário em razão do princípio da conveniência e oportunidade garantido ao Poder Executivo.
+    Em razão dessa decisão, foi editada a Súmula nº 42 do TJRS, com a seguinte redação: “Atribuir efeito retroativo a promoção de servidor público é ato discricionário do Poder Executivo, não cabendo ao Judiciário impô-lo”.
+    As razões do extraordinário partem de pressupostos fáticos , estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Por fim, observem o momento da interposição, para efeito de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação dos honorários, na origem, em 10%, acresço em 5% a título de honorários recursais, observada a assistência jurisdicional gratuita
+    4. Publiquem.
+Brasília, 22 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
