@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado da Bahia, assim ementado:
+    “APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. REEXAME NECESSÁRIO. PROCESSO LICITATÓRIO. TOMADA DE PREÇOS. INDICAÇÃO DO LICITANTE VENCEDOR. ANULAÇÃO DO PROCESSO LICITATÓRIO. DIREITO LÍQUIDO E CERTO A DECLARAÇÃO DA NULIDADE DO ATO QUE ANULOU O PROCEDIMENTO.
+    Preliminar de ilegitimidade passiva ad causam não configurada. A errônea indicação da autoridade coatora não implica na ilegitimidade passiva ad causam se aquela pertence à mesma pessoa jurídica de direito público, porque sequer se altera a polarização processual, o que preserva a condição da ação.
+    Ofensa aos princípios do contraditório, da ampla defesa e do devido processo legal. Presunção de legalidade dos atos administrativos. Indicação do licitante vencedor: análise da regularidade da habilitação e da proposta. Anulação do procedimento sem observar o princípio constitucional do devido processo legal e da ampla defesa. Confirmação da sentença.
+    IMPROVIMENTO DO RECURSO.”
+    No recurso extraordinário, sustenta-se violação do artigo 37, caput e inciso XXI, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636/STF.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 23 de março de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
