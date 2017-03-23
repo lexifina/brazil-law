@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, sob o fundamento de que o recorrente não comprovou o depósito da multa aplicada com base no art. 557, § 2º, do CPC/1973.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, ao julgar o agravo regimental interposto pelo Banco do Brasil S/A, aplicou a multa prevista no art. 557, § 2º, do CPC/1973, ficando a interposição de qualquer outro recurso condicionada ao depósito do respectivo valor.
+    O ora recorrente, todavia, no momento da interposição do recurso extraordinário, não demonstrou o recolhimento do valor da multa aplicada, o que inviabiliza o recurso.
+    Com efeito, a ausência do prévio recolhimento da multa importa o não conhecimento do recurso, uma vez que atua como pressuposto objetivo de recorribilidade. Esse é o entendimento de ambas as Turmas, conforme se verifica nos julgados a seguir mencionados:
+    “DIREITO PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO PROTELATÓRIO. AUSÊNCIA DE RECOLHIMENTO DE MULTA IMPOSTA NO ACÓRDÃO EMBARGADO. 1. O Supremo Tribunal Federal tem jurisprudência pacífica no sentido de que a ausência de comprovação do prévio depósito da multa aplicada, com base no art. 557, § 2º, do Código de Processo Civil, impede o conhecimento do recurso cabível 2. A via recursal adotada não se mostra adequada para a renovação de julgamento que se efetivou regularmente. 3. Embargos de declaração não conhecidos, determinando-se o trânsito em julgado e a baixa imediata dos autos à origem” (ARE 932.172-AgR-ED/MG, Rel. Min. Roberto Barroso, Primeira Turma).
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. MULTA PREVISTA NO ART. 557, § 2º, DO CPC. AUSÊNCIA DE RECOLHIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO. I – O prévio depósito da multa aplicada, com base no art. 557, § 2º, do Código de Processo Civil, configura pressuposto objetivo de recorribilidade, sendo certo que a ausência de recolhimento inviabiliza o recurso, ainda que tenha sido interposto com o propósito de afastar a multa imposta. II – Agravo regimental não conhecido” (AI 594.561-AgR-ED-AgR/MG, de minha relatoria, Primeira Turma).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MULTA PREVISTA NO ART. 557, § 2º, DO CPC. PRÉVIO RECOLHIMENTO. PRESSUPOSTO OBJETIVO DE RECORRIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE 854.350-AgR/SC, Rel. Min. Teori Zavascki, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 23 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
