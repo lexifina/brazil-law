@@ -1,0 +1,27 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Claudio Henrique Taisses da Silva, contra decisão que denegou o HC 389.751/SC, de relatoria do Ministro Nefi Cordeiro do Superior Tribunal de Justiça.
+    Consta dos autos que o paciente foi preso preventivamente pela suposta prática do delito previsto no art. 157, § 2°, I e II do Código Penal (roubo com emprego de arma e em concurso de pessoas).
+    Os impetrantes sustentam, em síntese, a ausência de motivação idônea para a determinação da prisão preventiva. Argumentam, ainda, que a custódia fundou-se exclusivamente na gravidade abstrata do delito. Afirmam que,
+    “2. Quando do decreto preventivo, invocando a garantia da ordem pública, consubstanciada à presunção de reiteração delitiva, o Magistrado baseou-se no interrogatório policial do paciente – admitiu ter passagem pela polícia de roubo de veículo – o qual foi colhido sem a presença de Advogado, o que o torna ilegal (ex vi, art, 5º, LXII, CF) e, por consequência, o decreto preventivo. E mais, tal versão encontra-se dissociada de sua certidão de antecedentes criminais, tendo em vista ser o paciente absolutamente primário e de bons antecedentes;
+    3. O pressuposto da garantia da ordem, isoladamente, não permite a decretação do cárcere preventivo. Assim, carente de fundamentação concreta a decisão que levou a [sic] segregação cautelar do paciente” (pág. 14 do documento eletrônico 1; grifos no original).
+    Ademais, os impetrantes aduzem ser
+    “[...] viável concluir que a sentença condenatória não apresentou fundamentação suficiente para justificar a manutenção da prisão cautelar do paciente, pois fundada em mera alusão à garantia da ordem pública, como forma de evitar o descrédito da Justiça, devido à gravidade abstrata do delito e o clamor social, o que não impede a concessão da liberdade provisória, tendo em vista a ausência de base empírica idônea” (págs. 19-20 do documento eletrônico 1; grifos no original).
+    Daí porque argumentam que o caso sob exame permite a superação da Súmula 691 desta Corte.
+    Por essas razões, pugnam que seja concedida liminar
+    “[...] revogando a prisão preventiva do paciente, expedindo-se o competente alvará de soltura em seu favor, pondo-o imediatamente em liberdade, permitindo que ele aguarde o trânsito em julgado da sentença em liberdade;
+    [...] caso não seja dado o direito pleno ao paciente de aguardar o trânsito em julgado da sentença penal condenatória em liberdade, impondo as medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal, nos termos acima declinados” (pág. 24 do documento eletrônico 1).
+    No mérito, requerem que seja concedida a ordem.
+    É o relatório necessário. Decido.
+    A presente impetração volta-se contra decisão do Ministro Nefi Cordeiro, que denegou o HC 389.751/SC.
+    Muito bem. Na espécie, é possível verificar que o decisum impugnado foi proferido monocraticamente pelo ministro relator no Superior Tribunal de Justiça.
+    Desse modo, este pleito não merece seguimento, sob pena de indevida supressão de instância e de extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o seguimento do habeas corpus nesta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Ademais, não verifico, a princípio, a excepcionalidade da situação em análise ou teratologia aptas a permitir a superação do referido óbice processual. Para denegar a ordem, afastando os argumentos de que deveria haver superação da Súmula 691 pelo STJ, o Ministro Relator daquela Corte anotou os seguintes aspectos:
+    “Como se vê, integra a decisão de prisão fundamento idôneo, consistente na reiteração delitiva, de acordo com afirmação de que o réu admitiu possuir 'passagem policial por roubo de veículo', o que indica o risco evidente de reiteração criminosa, colocando em risco a ordem pública.
+    Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS – 5ª T. – unânime – Rel. Min. Felix Fischer – DJe. 1º-10-2014; RHC n. 48002/MG – 6ª T. – unânime – Rel. Min. Maria Thereza de Assis Moura – DJe 4/8/2014; RHC n. 44677/MG – 5ª T. – unânime – Rel. Min. Laurita Vaz – DJe 24/6/2014.
+    No caso, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+    Ante o exposto, denego o presente habeas corpus, nos termos do inciso XVIII, art. 34 do Regimento Interno do Superior Tribunal de Justiça” (pág. 6 do documento eletrônico 7).
+    Isso posto, com base no art. 21, § 1°, do RISTF, nego seguimento a este writ. Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 23 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
