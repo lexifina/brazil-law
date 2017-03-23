@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à impossibilidade da cumulação de cargos, considerado o excesso de jornada. No extraordinário, a recorrente alega a violação do artigo 37, inciso XVI, alínea “c”, da Constituição Federal. Tece considerações sobre a inexistência de norma a versar sobre o tema. Diz que a limitação constitucional versa apenas sobre a compatibilidade de horários.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Colegiado de origem expressamente afirmou que a cumulação pretendida implicaria jornada excessivamente longa, em dissonância com os princípios da proteção à saúde e da eficiência. Colho do acórdão recorrido o seguinte trecho:
+    A compatibilidade de horários a que se refere a norma constitucional quando prevê a possibilidade de cumulação de cargos públicos não diz respeito tão somente à vedação da sobreposição de jornadas, isto é, à colisão de horários, mas também à possibilidade do exercício, pelo servidor, das duas jornadas sem prejuízo à prestação do serviço e à sua própria saúde (física e mental).
+    Destarte, possível à Administração vedar a acumulação de cargo público quando a soma da carga horária referente aos dois cargos ultrapassar o limite máximo de 60 horas semanais.
+    […]
+    Por fim, ainda que a parte autora sustente não haver prova nos autos da ineficiência de seu serviço, ou de danos à sua saúde, é sabido que as atividades relacionadas ao trato da saúde humana provocam, em regra, profunda exaustão nos profissionais porque a vivência cotidiana em ambiente hospitalar impõe a sua exposição a fatores de risco de natureza física, química, biológica e psicossocial. Ou seja, há risco potencial, em vista da natureza das tarefas executadas pela autora e da carga horária por ela cumprida, de prejuízo à prestação do serviço e à sua própria saúde.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Nego seguimento ao extraordinário. Fixo os honorários recursais no patamar 5%, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 23 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
