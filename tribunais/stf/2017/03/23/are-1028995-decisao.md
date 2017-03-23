@@ -1,0 +1,31 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, II, 7º, IV, 37, caput, e 93, IX, da Constituição Federal, bem como à Súmula Vinculante nº 4.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo o inteiro teor da ementa do acórdão recorrido:
+    “RECURSO DE REVISTA. SALÁRIO PROFISSIONAL. SERVIDOR PÚBLICO ESTADUAL REGIDO PELA CLT. O eg. TRT manteve a r. sentença consignando que a Lei nº 4950-A/66 não estabelece jornada máxima de seis horas para o engenheiro, mas que o salário mínimo remunera a jornada de seis horas, sendo que o profissional com jornada superior terá seu salário calculado com base na hora fixada na lei, acrescido do adicional de 25%. Diante da ausência de violação do dos dispositivos invocados ou de divergência apta ao confronto de teses, não há como admitir o recurso interposto. Recurso de revista não conhecido.
+    SALÁRIO PROFISSIONAL. LEI Nº 4.950-a/66 DIVISOR APLICÁVEL. AUSÊNCIA DE PREQUESTIONAMENTO. O v. acórdão regional, ao tratar do salário profissional, consignou que o autor fazia jus ao salário fixado na Lei nº 4.590-A/66. Nesse contexto, limitou-se a manter a r. sentença que condenou a reclamada pelas diferenças salariais pleiteadas. Nesses termos, considera-se que o tema divisor aplicável em razão da jornada de 40 horas semanais não foi examinado no v. acórdão regional, e tampouco objeto dos embargos de declaração opostos, o que atrai a Súmula nº 297 do c. TST como óbice ao conhecimento do recurso de revista. Recurso de revista não conhecido.”
+    No voto condutor restou consignado que:
+    “Não houve manifestação por parte do eg. TRT acerca da vinculação do salário profissional ao salário mínimo, mas da fixação de salário mínimo profissional para a jornada de seis horas. Delimitado que o autor estava sujeito à jornada de oito horas, faria jus ao cálculo do salário com base na hora fixada na lei, acrescido do adicional de 25%. Não há que se falar, portanto, em ofensa ao art. 7º, IV, da CF ou em contrariedade à Súmula Vinculante nº 4 do STF. Incólumes, ainda, os arts. 5º, II, 37, caput, da CF, e a Orientação Jurisprudencial nº 358 da SDI-1.
+    Inespecíficos, portanto, os arestos trazidos a cotejo às fls. 194/196 que tratam da possibilidade de vinculação do salário profissional ao salário mínimo. Óbice da Súmula nº 296 do c. TST.”
+    (…)
+    “Pelas razões de recurso de revista, insurge-se quanto ao divisor aplicável para o cálculo das horas mensais. Sustenta que da redução da jornada de trabalho de 44 para 40 horas semanais decorre a redução do divisor de 220 para 200, respectivamente. Indica ofensa aos arts. 5º, II, 37 da CF, 6º da lei nº 4950-A/66, e traz arestos ao cotejo.
+    O eg. TRT não se manifestou acerca do divisor aplicável em decorrência da redução da jornada de trabalho do autor, tampouco foram opostos embargos de declaração com o fim de prequestionar a matéria.”
+    Ausente impugnação específica, no apelo extremo, às razões de decidir adotadas pela Corte de origem, restam aplicáveis, na hipótese, o entendimento jurisprudencial vertido na Súmula 283/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles” e na Súmula 284/STF: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”. Nesse sentido: ARE 656.357-AgR, 2ª Turma, Rel. Min. Joaquim Barbosa, DJe 23.02.2012; AI 762.808-AgR, 2ª Turma, Rel. Min. Ayres Britto, DJe 30.3.2012; RE 356.310-AgR-segundo, 1ª Turma, Rel. Min. Dias Toffoli, DJe 11.10.2011; e RE 656.256-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 05.3.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REVISÃO DE ATO ADMINISTRATIVO. DECADÊNCIA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Ainda que não se ressentisse o recurso quanto aos óbices apontados, melhor sorte não colheria, porquanto esta Suprema Corte possui entendimento firmado no sentido da inexistência das violações apontadas. Cito precedentes:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. LEI 4.950-A/66. SALÁRIO FIXADO EM MÚLTIPLOS DO SALÁRIO MÍNIMO. SÚMULA VINCULANTE 4. ADPF 53 MC.
+    1. Não há vedação para a fixação de piso salarial em múltiplos do salário mínimo, desde que inexistam reajustes automáticos.
+    2. O ato reclamado, ao aplicar a OJ 71, da SBDI-2 do TST, não afrontou a Súmula Vinculante 4, nem a ADPF 53 MC.
+    3. Agravo regimental a que se nega provimento.” (Rcl. 9.951-AgR, Rel. Min. Edson Fachin, 1ª Turma, DJe 28.9.2015)
+    “Agravo regimental no recurso extraordinário com agravo. Trabalhista. Salário profissional. Piso salarial fixado na Lei nº 4.950-A/66. Múltiplos do salário mínimo. Inexistência de reajustes automáticos. Violação da Súmula Vinculante nº 4. Não ocorrência. Precedentes.
+    1. A fixação da base de cálculo do piso salarial em múltiplos do salário mínimo, nos termos da Lei nº 4.950-A/66, não configura ofensa à Súmula Vinculante nº 4, haja vista a ausência de reajustes automáticos com base nesse mesmo índice.
+    2. Agravo regimental não provido.” (ARE 914.780-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 07.3.2016)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de março de 2017.
+Ministra Rosa Weber
+Relatora
