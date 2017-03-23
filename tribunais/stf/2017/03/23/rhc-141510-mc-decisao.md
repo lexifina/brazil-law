@@ -1,0 +1,52 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus com pedido de medida liminar, interposto por André Henrique da Silva (eDOC 1, p. 147-154), contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça que não conheceu do HC 371.562/SP (eDOC 1, p. 132-141).
+    Consta dos autos que o recorrente foi preso em flagrante, sendo convertida a custódia em prisão preventiva, pela suposta prática do crime previsto no art. 180, caput, c/c o art. 304, ambos do Código Penal (receptação e uso de documento falso) (eDOC 1, p. 15-36 e 44-45).
+    Indeferiu-se o pedido de relaxamento de prisão (eDOC 1, p. 44-45).
+    Recebeu-se a denúncia (eDOC 1, 12-14 e 67-68).
+    Inconformada, a defesa impetrou o HC 2132280-42.2016.8.26.0000 no TJ/SP. O Relator indeferiu o pedido de liminar (eDOC 1, p. 80-81). Posteriormente, a 14ª Câmara de Direito Criminal daquela Corte denegou a ordem (eDOC 1, p. 85-90).
+    Houve, então, a impetração do citado HC 371.562/SP no STJ, cujo Relator indeferiu a liminar (eDOC 1, p. 104-106). A Quinta Turma daquela Corte, por sua vez, não conheceu do writ (eDOC 1, p. 132-141).
+    Daí a interposição do presente RHC (eDOC 1, p. 147-154), sustentando-se, em síntese, o seguinte:
+    a) ausência de fundamento empírico idôneo para manutenção da prisão do recorrente, bem como para demonstrar qualquer motivo concreto que pudesse afastar as medidas cautelares diversas da prisão;
+    b) renovação da coação ilegal, porquanto a existência de processo suspenso pelo art. 89, caput, da Lei 9.099/1995 foi considerado como prova da “persistência do agente na prática criminosa”, “personalidade voltada à prática criminosa” e comprovação de “risco concreto de que o acusado volte a delinquir”; e
+    c) ofensa ao princípio da proporcionalidade, visto que o recorrente é primário e está sendo acusado de delito que não envolve violência ou grave ameaça,  tudo indicando que  será merecedor da substituição da reprimenda corporal e da aplicação de regime penal diverso do fechado, o que também viola os princípios do devido processo legal, da presunção da inocência e do livre convencimento motivado.
+    O recorrente pede, ao final:
+    “5.1. EM CARÁTER LIMINAR, seja reconhecida a ausência de FUNDAMENTAÇÃO INIDÔNEA na decretação da custódia cautelar do Paciente, sobretudo por ser o Paciente primário e trabalhador, encontrando-se sua custódia cautelar embasada na equiparação de processo suspenso pelo art. 89, caput, da Lei nº 9.099/95 à condenação criminal passada em julgado, entendimento que se reveste, data maxima venia, de TERATOLOGIA passível de ser reconhecido DE OFÍCIO pela Suprema Corte Federal, para que seja concedido ao Paciente o direito de responder ao processo em liberdade, com a expedição urgente do ALVARÁ DE SOLTURA;
+     5.2. SUBSIDIARIAMENTE, a concessão da ordem liminarmente para reconhecer a INEXISTÊNCIA DE FUNDAMENTAÇÃO quanto à ampla aplicação das medidas cautelares diversas da prisão, aplicando-se-lhe as medidas cumulativas do art. 319, do CPP, tais como: o comparecimento periódico em juízo, proibição de frequência de determinados lugares, proibição de ausência desta Comarca e recolhimento domiciliar.
+    5.3. Seja processado o presente Recurso na forma da lei e regimento interno desta Corte, e concedida a ordem ora impetrada, decretando-se a revogação da prisão preventiva do Paciente por falta de fundamento idôneo da decisão que a decretou, expedindo-se, em consequência, o competente ALVARÁ DE SOLTURA;
+    5.4. Subsidiariamente, a substituição da prisão preventiva pela prisão domiciliar (art. 318, do CPP) ou pelas medidas cumulativas do art. 319, do CPP. ” (eDOC 1, p. 153-154)
+    O Vice-Presidente do STJ determinou a remessa destes autos ao STF (eDOC 1, p. 162-164).
+    Houve contrarrazões (eDOC 1, p. 167-172).
+    É o relatório.
+    Decido.
+    A concessão de liminar no recurso ordinário em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora.
+    No caso dos autos, em uma análise preliminar, sobretudo em face dos fundamentos da decisão que converteu a prisão em flagrante em preventiva (eDOC 1, p. 44-45), dos acórdão do TJ/SP (eDOC 1, p. 85-90) e do STJ (eDOC 1, p. 132-141), não vislumbro a presença dos requisitos exigidos para a concessão da medida liminar.
+    Para tanto, destaco do voto proferido no acórdão ora recorrido:
+    “A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+    Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, sendo vedadas considerações abstratas sobre a gravidade do crime.
+    Na hipótese, ao decretar a prisão preventiva do ora paciente e do corréu, o MM. Juiz de primeiro grau teceu as seguintes considerações (e-STJ fls. 43/44):
+    ‘(...) Não é o caso de concessão imediata do amplo benefício da liberdade provisória, ou mesmo de concessão de meras medidas cautelares diversas da prisão.
+    Como se verifica das Folhas de Antecedentes juntadas aos autos, ambos os indiciados mantidos presos pela Autoridade Policial já tiveram envolvimentos anteriores no cometimento de crimes, um deles pelo cometimento de roubo, e outro pela prática de outro crime de receptação, a evidenciar clara e irrefutável reiteração criminosa.
+    Realmente, BRUNO já foi condenado duas vezes, uma por porte de arma de fogo e outra por roubo qualificado. Encontra-se ainda em pleno cumprimento das penas impostas, com término previsto somente para 2022, beneficiado, dado o frouxo sistema legal deste País, mormente no que diz respeito às normas aplicáveis às execuções penais, há poucos meses com o amplo regime aberto.
+    André possui apontamento criminal recente por receptação, crime idêntico ao em que voltou a incidir. Embora tecnicamente primário, ao voltar a delinquir, beneficiado anteriormente com a suspensão condicional do processo, o indiciado demonstra franca crença na impunidade, e mostra-se confortável na reiteração criminosa. Impõe-se maior rigor desta feita, para que ao menos constitua algum freio a prisão cautelar às novas incursões criminosas dos indiciados.
+    A soltura precoce em casos como o dos autos constitui verdadeiro estímulo a novas reiterações criminosas, bem como aumenta o sentimento já generalizado de impunidade.
+    Dessa forma, INDEFIRO o pedido formulado pela Defesa, e converto a prisão em flagrante de André Henrique da Silva e Bruno Ariel de Santana em prisão preventiva. (grifos nossos).’
+    O Tribunal de origem, por sua vez, ao examinar o habeas corpus ali impetrado, manteve a segregação do acusado, consignando que, no caso, revela-se necessária a garantia da ordem pública, pois a prisão não visa apenas à proteção do processo ou da pretensão condenatória, mas também à proteção da ordem pública, interesse que vai além do feito, levando-se em conta a sociedade como um todo, coibindo-se a repetição de condutas criminosas que põem em risco a sociedade. (e-STJ fl. 87).
+     Com efeito, a persistência do agente na prática criminosa justifica a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto este comportamento revela uma periculosidade acentuada e compromete a ordem pública.
+    (…)
+    Assim, na hipótese, à luz das decisões acima transcritas, as instâncias ordinárias demonstraram que o acusado possui passagem anterior pelo crime de receptação, ocasião em que foi beneficiado com a suspensão condicional do processo, de forma que o presente envolvimento com delito da mesma natureza evidencia uma personalidade voltada à prática criminosa, constituindo-se, tal circunstância, em motivo idôneo e suficiente para justificar a manutenção da medida constritiva da liberdade fundada na garantia da ordem pública, em razão, sobretudo, do fundado receio de reiteração delitiva.
+    De outro vértice, eventuais condições subjetivas favoráveis ao paciente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva, como afigura ser o caso dos autos.
+    (…)
+    É certo, por fim, que o risco concreto de que o acusado volte a delinquir impede a aplicação de outras medidas previstas no art. 319 do Código de Processo Penal, mostrando-se a custódia antecipada medida necessária para conter a reiteração delitiva. (...)
+    Por fim, não prospera a assertiva de que a custódia cautelar é desproporcional à futura pena do paciente, pois só a conclusão da instrução criminal será capaz de revelar qual será a pena adequada e o regime ideal para o seu cumprimento, sendo inviável essa discussão nesta ação de Habeas Corpus (HC n. 187.669/BA, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, Quinta Turma, julgado em 24/5/2011, DJe 27/6/2011).
+    Posto isso, demonstrados os pressupostos e motivos autorizadores da custódia cautelar, elencados no art. 312 do Código de Processo Penal, não se vislumbra constrangimento ilegal a ser reparado por este Superior Tribunal de Justiça.
+    Ante o exposto, não conheço do habeas corpus.
+    É como voto.” (eDOC 1, p. 136-141)
+    Nesse contexto, entendo, também, que as medidas cautelares alternativas diversas da prisão, previstas na Lei 12.403/2011, não se mostram suficientes a acautelar o meio social.
+    Por fim, ressalto que o caso dos autos merece um exame mais detalhado quanto às alegações levantadas pela defesa, o que se dará no julgamento de mérito deste recurso em habeas corpus, até porque a motivação que dá suporte ao pedido liminar confunde-se com o próprio mérito.
+    Ante o exposto, indefiro o pedido de medida liminar.
+    Requisitem-se informações ao Juízo da 1ª Vara da Comarca de Mairiporã/SP (Ação Penal 0000830-54.2016.8.26.0535), bem com a remessa a esta Corte de eventuais atos decisórios supervenientes.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 23 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
