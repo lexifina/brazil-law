@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5°, XXXVI, da Constituição Federal, bem como ao art. 53, II e III do ADCT.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Divergir da conclusão da Corte de origem demandaria a análise da legislação infraconstitucional apontada no apelo extremo, bem como o revolvimento do conjunto fático delineado, o que torna obliqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PENSÃO POR MORTE. EX-COMBATENTE. REVERSÃO EM FAVOR DAS FILHAS EM RAZÃO DO FALECIMENTO DA VIÚVA. POSSIBILIDADE. LEGISLAÇÃO VIGENTE À ÉPOCA DO ÓBITO DO INSTITUIDOR DA PENSÃO. SÚMULA 359/STF. PRECEDENTES. 1. Hipótese em que dissentir da conclusão do Tribunal de origem demandaria a análise da legislação aplicável ao caso (Leis nº 8.059/1990, 3.765/1960 e 4.242/1963), bem como o reexame dos fatos e do material probatório constantes dos autos. Incidência da Súmula 279/STF. 2. Agravo regimental a que se nega provimento”. (ARE 910248 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 27/10/2015, PROCESSO ELETRÔNICO DJe-228 DIVULG 12-11-2015 PUBLIC 13-11-2015).
+    “EMENTA Agravo regimental no recurso extraordinário. Militar. Pensão especial. Filha maior. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem decidiu a controvérsia relativa à pensão especial percebida pela agravada com fundamento na legislação infraconstitucional pertinente (Lei nº 4.242/63) e nas provas documentais dos autos, de reexame incabível em sede de recurso extraordinário. 2. Agravo regimental não provido”. (RE 402701 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 28/02/2012, ACÓRDÃO ELETRÔNICO DJe-065 DIVULG 29-03-2012 PUBLIC 30-03-2012).
+    “EMENTA MILITAR. EX-COMBATENTE. CONCEITO. PENSÃO ESPECIAL. LEI Nº 5.315/67. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE PROVAS. AUSÊNCIA DE REPERCUSSÃO GERAL”. (AI 738444 RG, Relator(a): Min. DIAS TOFFOLI, julgado em 21/10/2010, DJe-224 DIVULG 22-11-2010 PUBLIC 23-11-2010 EMENT VOL-02436-02 PP-00444 ).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de março de 2017.
+Ministra Rosa Weber
+Relatora
