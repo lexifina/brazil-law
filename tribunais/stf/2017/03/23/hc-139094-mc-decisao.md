@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “PENAL E PROCESSUAL. HOMICÍDIO. PRONÚNCIA. EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA. PRISÃO. EXCESSO DE PRAZO. MATÉRIA NÃO DECIDIDA NO ACÓRDÃO (RECURSO EM SENTIDO ESTRITO) TIDO POR COATOR.
+    1. Se a sentença de pronúncia, fundamentadamente, se limita a demonstrar as razões do convencimento do magistrado, acerca da existência do crime (materialidade) e de indícios veementes de ser o ora paciente o autor dos fatos (autoria), tudo nos termos do art. 413 do Código de Processo Penal, não há falar em excesso de linguagem.
+    2. A eventual referência a depoimentos não torna, ‘ipso facto’, nula a pronúncia se o faz o magistrado com comedimento.
+    3. Não suscitada e, por isso mesmo, não decidida no acórdão tido por coator a questão do excesso de prazo na prisão, não merece o tema conhecimento, sob pena de supressão de instância, ainda mais tratando-se de impetração assestada contra acórdão de recurso em sentido estrito, como um verdadeiro sucedâneo recursal.
+    4. Ordem de ‘habeas corpus’ não conhecida.”
+    (HC 357.808/PE, Rel. Min. MARIA THEREZA DE ASSIS MOURA – grifei)
+    Afirma-se, em síntese, neste “writ” constitucional, que o ora paciente estaria sofrendo injusto constrangimento motivado pelo excesso de linguagem que teria caracterizado a decisão de pronúncia em questão, sustentando-se, ainda, o excesso de prazo na prisão cautelar.
+    Busca-se, desse modo, em sede cautelar, a nulidade da “(...) decisão de pronúncia, viciada pelo excesso de linguagem e com valoração da prova, prolatada nos autos da identificada ação penal, e o v. acórdão que a confirmou (...)”, bem assim o reconhecimento do excesso de prazo na prisão preventiva do paciente.
+    Observo, inicialmente, quanto ao alegado excesso de prazo na prisão do paciente, que o exame da presente causa evidencia a existência, no ponto, de hipótese configuradora de perda superveniente de objeto desta ação de “habeas corpus”.
+    Com efeito, proferi, em 16/12/2016, decisão que, ao apreciar o HC 126.163/PE, deferiu o pedido de “habeas corpus”, em ordem a determinar a soltura do ora paciente, se por al não estivesse preso, eis que excessivo o período de duração da prisão cautelar a que estaria submetido nos autos da Ação Penal nº 0001485-82.2010.8.17.0730, ora em curso perante o Juízo de Direito da Vara Criminal da comarca de Ipojuca/PE.
+    A ocorrência desse fato assume relevo processual, eis que faz instaurar, quanto a esse específico fundamento da impetração, situação de prejudicialidade.
+    Enfatize-se, por oportuno, que esse posicionamento que venho de referir encontra apoio na jurisprudência do Supremo Tribunal Federal (RTJ 132/1185, Rel. Min. OCTAVIO GALLOTTI – HC 55.437/ES, Rel. Min. MOREIRA ALVES – HC 58.903/MG, Rel. Min. CUNHA PEIXOTO – HC 64.424/RJ, Rel. Min. NÉRI DA SILVEIRA – HC 69.236/PR, Rel. Min. PAULO BROSSARD – HC 74.107/SP, Rel. Min. MAURÍCIO CORRÊA – HC 74.457/RN, Rel. Min. NÉRI DA SILVEIRA – HC 80.448/RN, Rel. Min. SEPÚLVEDA PERTENCE – HC 84.077/BA, Rel. Min. GILMAR MENDES – HC 113.121/MG, Rel. Min. ROSA WEBER – RHC 82.345/RJ, Rel. Min. MAURÍCIO CORRÊA, v.g.), cabendo destacar, entre outras, as seguintes decisões que esta Corte proferiu a propósito do tema ora em exame:
+    “Superados os motivos de direito ou de fato que configuravam situação de injusto constrangimento à liberdade de locomoção física do paciente, e afastada, em consequência,  a possibilidade de ofensa ao seu ‘status libertatis’, reputa-se prejudicado o ‘habeas corpus’ impetrado em seu favor. Precedentes.”
+    (RTJ 141/502, Rel. Min. CELSO DE MELLO)
+    “– A superveniente modificação do quadro processual, resultante de inovação do estado de fato ou de direito ocorrida posteriormente à impetração do ‘habeas corpus’, faz instaurar situação configuradora de prejudicialidade (RTJ 141/502), justificando-se, em consequência, a extinção anômala do processo.”
+    (RHC 83.799-AgR/CE, Rel. Min. CELSO DE MELLO)
+    Há a examinar, ainda, a questão concernente ao alegado excesso de linguagem, considerado o contexto da causa penal em análise.
+    Quanto a esse aspecto, tenho que o exame dos fundamentos em que se apoia o acórdão ora impugnado parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida nesta sede processual.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    Sem que concorram esses dois requisitos – que são necessários, essenciais e cumulativos –, não se legitima a concessão da medida liminar.
+    Sendo assim, e tendo em consideração as razões expostas, julgo prejudicada, em parte, a presente ação de “habeas corpus” e, na parte remanescente, indefiro o pedido de medida liminar.
+    Publique-se.
+    Brasília, 23 de março de 2017.
+Ministro CELSO DE MELLO
+Relator
