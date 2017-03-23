@@ -1,0 +1,28 @@
+DECISÃO:
+Ementa: Direito Constitucional. Ação Cível Originária. Cobrança de valores. Cessão de Servidora. Prescrição. Extinção da ação.
+1. O prazo prescricional para cobrança de dívidas da Fazenda Pública é regulado pelo Decreto nº 20.910/1932. Transcurso do prazo prescricional previsto no art. 1º c/c art. 9º do Decreto nº 20.910/1932.
+2. Extinção do processo com resolução do mérito.
+    1. Trata-se de ação de cobrança ajuizada pela União em face do Estado de Rondônia, objetivando o ressarcimento de valores despendidos à servidora pública estadual incluída indevidamente na folha de pagamento de servidores federais.
+    2. A autora alega que a servidora estadual foi enquadrada como servidora proveniente do ex-território de Rondônia, sendo incluída em folha de pagamento federal durante o período de jan/1992 a jan/1999, gerando um prejuízo na ordem de R$ 118.344,46 (cento e dezoito mil, trezentos e quarenta e quatro reais e quarenta e seis centavos).
+    3. Sustenta que os agentes estaduais responsáveis pela inclusão praticaram ato de improbidade, devendo o Estado ressarcir integralmente o dano causado à União. Ressalta que diante dos termos do art. 37, § 5º, da Constituição Federal, as ações de ressarcimento ao erário são imprescritíveis.
+    4. Em defesa, o Estado de Rondônia sustenta, preliminarmente, a prescrição quinquenal da pretensão, nos termos do Decreto nº 20.910/1932 c/c Decreto-Lei nº 4.597/1942. Alega a prescrição da pretensão de cobrança de verbas anteriores a 2002, uma vez que a ação foi ajuizada em 24.07.2007.
+    5.   Quanto ao mérito, afirma que o enquadramento equivocado foi realizado em 1983, de modo que seriam inaplicáveis as disposições contidas na Lei 8.249/1992, já que vedada a incidência retroativa da lei.
+    6. O Juízo da 2ª Vara Federal da Seção Judiciária de Rondônia declinou da competência ao Supremo Tribunal Federal, tendo por fundamento o art. 102, I, f, da Constituição Federal.
+    7. A Procuradoria-Geral da República manifestou-se, preliminarmente, pelo reconhecimento competência desta Corte para o julgamento da controvérsia. No mérito, opinou pela procedência do pedido da ação originária.
+    8. É o relatório. Decido.
+    9. Cumpre assinalar, de início, que o Supremo Tribunal Federal já reconheceu sua competência para conhecer e julgar originariamente casos análogos ao presente. Nesse sentido:
+    “AÇÃO CÍVEL ORIGINÁRIA. COBRANÇA DE VALORES DECORRENTES DA CESSÃO DE SERVIDORES PÚBLICOS FEDERAIS AO ESTADO DO CEARÁ, COM ÔNUS PARA O CESSIONÁRIO. AUSÊNCIA DE COMPROVAÇÃO DOS PAGAMENTOS EFETUADOS.” (ACO 534, Rel. Min. Cármen Lúcia)
+    10.  Assentada a competência desta Corte, tenho que deve ser acolhida a prejudicial de prescrição.
+    11. Por ocasião do julgamento do RE 669.069/MG, de relatoria do Ministro Teori Zavascki, esta Corte afirmou a tese de que "[é] prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil". Dessa forma, ressalvados os casos em que a pretensão de ressarcimento tem por fundamento um ato de improbidade ou ilícito penal, estão sujeitas à prescrição as ações de ressarcimento promovidas pela Fazenda Pública.
+    12.  No caso, a pretensão de ressarcimento deduzida pela União tem como sujeito passivo o Estado de Rondônia, que não pratica ato de improbidade, nem figura como agente de ilícito penal.
+    13.  Dessa forma, a demanda de cobrança formulada pela União em face do Estado de Rondônia está sujeita à prescrição, regulada pelo Decreto nº 20.910/1932.
+    14.   Conforme se extrai dos documentos que acompanham a inicial, a pretensão de ressarcimento da União tem por fundamento os pagamentos realizados a uma servidora no período de jan/1992 a jan/1999, incluída indevidamente na folha de servidores federais. O equívoco do enquadramento foi suscitado pelo Estado de Rondônia em em 08 de fevereiro de 1999 (fls. 17) e ensejou a abertura de processo administrativo pela União, cuja conclusão ocorreu em 07 de outubro de 2003.
+    15. De fato, com a abertura do processo administrativo para apuração do débito e liquidação de seu valor, o prazo prescricional é interrompido, nos termos do art. 4º, do Decreto nº 20.910/1932. No entanto, uma vez concluído o processo, a prescrição retoma o seu curso pela metade do prazo, conforme indica o art. 9º, do Decreto nº 20.910/1932.
+    16. Diante disso, considerando que, nos termos do art. 9º, do Decreto nº 20.910/1932, “a prescrição interrompida recomeça a correr, pela metade do prazo, da data do ato que a interrompeu ou do último ato ou termo do respectivo processo”, consumou-se a prescrição da pretensão da União, uma vez que transcorridos mais de dois anos e meio entre a conclusão do processo administrativo (07.10.2003) e o ajuizamento da ação (24.07.2007).
+    17. Veja-se que por ocasião do julgamento do REsp 1.270.439, já se assentou a tese, em regime de recurso repetitivo, no sentido de que, uma vez interrompido o prazo prescricional contra a Fazenda Pública em virtude da abertura de processo administrativo para a apuração dos fatos, a prescrição volta a correr pela metade, a contar da data do último ato do processo administrativo que deu causa à interrupção.
+    18. Diante do exposto, julgo extinto o processo, com resolução do mérito, na forma do art. 487, II, do CPC/2015 (art. 269, IV, CPC/1973), para assentar a prescrição da pretensão de ressarcimento da União em face do Estado de Rondônia.
+    19. Sem custas (art. 4º, I, da Lei nº 9.289/1996). Fixo os honorários de sucumbência no valor de R$ 5.000,00 (cinco mil reais), nos termos do art. 85, § 8º, CPC/2015 (art. 20, § 4º, CPC/1973).
+    Publique-se. Intimem-se.
+      Brasília, 23 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
