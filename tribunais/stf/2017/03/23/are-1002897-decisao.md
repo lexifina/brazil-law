@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 5º, LV, e 93, IX, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Publicado no DJe em 31.8.2015, segunda-feira, consoante certidão (fl. 251), o acórdão impugnado, somente protocolado na Secretaria da Corte de origem o recurso extraordinário em 16.8.2015, a teor do protocolo (fl. 257), quarta-feira, quando, em 15.9.2015, terça-feira, esgotara-se o prazo de 15 (quinze) dias previsto no art. 26 da Lei 8.038/90, cujo termo inicial se operou em 1º.9.2015 (terça-feira).
+    Destaco, na esteira da jurisprudência cristalizada do Supremo Tribunal Federal, que a tempestividade do recurso é aferida pela data de protocolo da petição na Secretaria do Tribunal, independentemente das datas de postagem na Empresa Brasileira de Correios e Telégrafos (ECT). Cito: AI 708.298-ED-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJE de 23.02.2011; AI 745.838-ED-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJE de 19.11.2010; AI 703.932-AgR, Rel. Min. Ellen Gracie, Tribunal Pleno, DJE de 23.5.2008; AI 685.986-ED, Rel. Min. Ellen Gracie, Tribunal Pleno, DJE de 13.6.2008; RE 436.029-AgR-EDv-AgR, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJE de 05.6.2009; e AI 626.348-ED-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJE de 15.10.2009, cuja ementa transcrevo:
+    “Embargos declaratórios em agravo regimental em agravo de instrumento. Petição de embargos declaratórios apresentada via fac-símile. Originais equivocadamente encaminhados pela Empresa Brasileira de Correios e Telégrafos (ECT) ao Superior Tribunal de Justiça. Recurso recebido extemporaneamente no Supremo Tribunal Federal, corte competente para sua apreciação. 1. Nos termos da jurisprudência desta Corte, a tempestividade do recurso é de ser aferida pela data de protocolo da petição na Secretaria deste Tribunal e não pela data de postagem na Empresa Brasileira de Correios e Telégrafos. Precedentes. 2. É intempestivo o recurso equivocadamente interposto no Tribunal diverso e recebido no Supremo Tribunal Federal, órgão competente para sua apreciação, somente após o trânsito em julgado da decisão recorrida. Precedentes. 3. Embargos não conhecidos.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de março de 2017.
+Ministra Rosa Weber
+Relatora
