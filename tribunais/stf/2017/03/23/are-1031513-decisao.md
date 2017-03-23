@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “Apelação do autor – Recurso voluntário da Fazenda do Estado de São Paulo - Ação declaratória e obrigação de fazer - Agente de escolta e vigilância penitenciária - Pretensão ao recebimento de adicionais noturno, extraordinário e de periculosidade – Direitos constitucionais garantidos ante a concessão da gratificação pela sujeição ao Regime Especial de Trabalho Policial – RETP, nos termos dos artigos 7º da Lei Complementar nº 959/04, artigo 9º, inciso II da Lei Complementar Estadual nº 506/87 e artigo 44, da Lei Complementar nº 207/79 - Ausência de comprovação da não-fruição do intervalo intrajornada - Artigo 333, I do CPC - Intervalo incluído na jornada de 12 horas - Cargo público efetivo sujeito ao regime estatutário, não afeto, portanto, pelo regime celetista – Sentença que julgou improcedente a ação mantida – Recurso do autor improvido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º, IX, XVI e XXIII; e 39, § 3º, da Constituição. Sustenta que o recebimento do Regime Especial de Trabalho Policial - REPT, concedido de forma genérica, não exclui o dever de pagamento dos adicionais noturno e de periculosidade, bem como das horas extras.
+    O recurso não deve ser provido. O Tribunal de origem, interpretando as disposições constantes da legislação infraconstitucional, concluiu que a gratificação paga em decorrência do REPT tem por finalidade compensar o servidor pela jornada irregular de trabalho, incluindo, portanto, os referidos adicionais. Dissentir do entendimento fixado pelo Tribunal de origem acerca da impossibilidade de cumulação dos benefícios exigiria o reexame das legislações locais pertinentes. Nessas condições, aplica-se a Súmula 280/STF.
+    O Supremo Tribunal Federal assentou a inexistência de repercussão geral da questão ora debatida, justamento por se tratar de matéria restrita ao âmbito infraconstitucional. Veja-se ementa do AI 783.172-RG, julgado sob a relatoria do Ministro Dias Toffoli:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. POLICIAL CIVIL. ADICIONAL NOTURNO. REGIME DE PLANTÃO. MATÉRIA RESTRITA AO PLANO DO DIREITO LOCAL. AUSÊNCIA DE REPERCUSSÃO GERAL.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 23 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
