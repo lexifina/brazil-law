@@ -1,0 +1,26 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5°, V e X, 7°, X, e 230 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Deixou a parte agravante de impugnar o óbice oposto pela Presidência da Corte de origem ao trânsito do recurso extraordinário, relativo à impossibilidade de trânsito do recurso pelo artigo 102, III, “b”, da Constituição Federal, em desalinho com a exigência contida na parte final do inciso I do § 4º do art. 544 do CPC, verbis:
+    “Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo nos próprios autos, no prazo de 10 (dez) dias.
+    [...]
+    § 4º No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator:
+    I – não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada.” (Destaquei.)
+    Nesse sentido: ARE 645.366-AgR, 2ª Turma, Rel. Min. Ricardo Lewandowski, DJe 12.4.2012; ARE 665.547-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 06.3.2012; e AI 805.701-AgR, 1ª Turma, Rel. Min. Luiz Fux, DJe 23.4.2012, cuja ementa transcrevo:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 287 DO STF.
+    1. O agravo de instrumento é inadmissível quando a sua fundamentação não impugna especificamente a decisão agravada. ‘Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia’. (súmula 287/STF).
+    2. Precedentes desta Corte: AI 841690 AgR, Relator: Min. Ricardo Lewandowski, DJe- 01/08/2011; RE 550505 AgR, Relator: Min. Gilmar Mendes, DJe- 24/02/2011; AI 786044 AgR, Relator: Min. Ellen Gracie, DJe- 25/06/2010.
+    3. In casu o acórdão recorrido assentou: DESAPROPRIAÇÃO – Juros compensatórios – Pretensão à exclusão – Ação julgada improcedente – Condenação da embargante nas penas de litigância de má-fé e determinação de extração de peças ao Ministério Público visando possibilidade de ofensa à Lei de Improbidade administrativa – procedência parcial – Juros compensatórios devidos – Manutenção da Justa indenização – Matéria ademais que transitou em julgado – Recurso improvido. (fl. 346).
+    4. Agravo regimental desprovido.”
+    Noutro giro, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. AÇÃO DE INDENIZAÇÃO. DESCONTOS INDEVIDOS. DANOS MORAIS. CONFIGURAÇÃO. NECESSIDADE DE ANÁLISE DE NORMA INFRACONSTITUCIONAL E DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279/STF. 1. O dano moral, quando aferido pelas instâncias ordinárias, não pode ser revisto pela E. Suprema Corte, em face da incidência da Súmula nº 279/STF que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”. 2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 3. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 4. In casu, o acórdão recorrido manteve a sentença que julgou procedente a pretensão inicial para condenar o recorrente ao pagamento de indenização por danos morais. 5. Agravo regimental DESPROVIDO.” (ARE 858516 AgR, Relator: Min. Luiz Fux, 1ª Turma, DJe 31.03.2015).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Responsabilidade civil. Danos morais em razão de descontos em conta corrente. 3. Incidência da Súmula 279. 4. Controvérsia que depende do exame prévio de normas infraconstitucionais. Ofensa reflexa à Constituição Federal. 5. Agravo regimental a que se nega provimento.” (ARE 756349 AgR, Relator: Min. Gilmar Mendes, 2ª Turma, DJe 03.09.2013).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de março de 2017.
+Ministra Rosa Weber
+Relatora
