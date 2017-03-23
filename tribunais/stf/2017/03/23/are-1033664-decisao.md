@@ -1,0 +1,25 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “AGRAVO INTERNO. APELAÇÃO. SERVIDOR PÚBLICO. CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO. OPÇÃO POR ESTRUTURA REMUNERATÓRIA. LEI Nº 12.277/2010. CARGOS DE NÍVEL SUPERIOR. ENGENHEIRO, ARQUITETO, ECONOMISTA, ESTATÍSTICO E GEÓLOGO. EXTENSÃO AO CARGO DE ASSISTENTE SOCIAL. ISONOMIA. IMPOSSIBILIDADE.
+    I- Cuida-se de Agravo interno, objetivando a reforma da Decisão Monocrática proferida pelo relator, que negou provimento à Apelação da Parte Autora, com fulcro no art. 557, caput, do Código de Processo Civil.
+    II- O art. 19 da Lei nº 12.277/2010 cria, expressamente, Estrutura Remuneratória Especial para os cargos de provimento efetivo, de nível superior, de Engenheiro, Arquiteto, Economista, Estatístico e Geólogo, não contemplando aqueles com formação em Assistência Social, como é o caso da recorrente.
+    III- A premissa de igualdade entre o cargo de Assistente Social e os cargos referidos na mencionada norma, utilizada como fundamento da pretensão autoral, não merece prosperar, haja vista que estes cargos, embora de nível superior, possuem atribuições completamente distintas e, como cediço, o tratamento diferenciado para quem se encontra em situação diferente, na medida daquilo que o diferencia, não viola o princípio da isonomia.
+    IV- Por fim, acresça-se que, a teor do enunciado da Súmula nº 339 do Excelso STF, "não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia".
+    V- A Agravante não apresenta qualquer argumento capaz de viabilizar a alteração da Decisão hostilizada, que foi fundamentada em consonância com a jurisprudência deste Egrégio Tribunal Regional Federal, pelo que merece ser mantida em sua integralidade.
+    VI- Agravo interno conhecido e improvido.” (pág. 20 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação aos arts. 5º, caput, 7°, XXXII, e 39, § 1°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Verifica-se que o Tribunal de origem, com base na interpretação da Lei 12.277/2010, assim decidiu a controvérsia:
+    “O art. 19 da Lei nº 12.277/2010 cria, expressamente, Estrutura Remuneratória Especial para os cargos de provimento efetivo, de nível superior, de Engenheiro, Arquiteto, Economista, Estatístico e Geólogo, não contemplando aqueles com formação em Assistência Social.
+    A premissa de igualdade entre o cargo de Assistente Social e os cargos referidos na mencionada norma, utilizada como fundamento da pretensão autoral, não merece prosperar, haja vista que estes cargos, embora de nível superior, possuem atribuições completamente distintas daqueles cuja formação exigida é Assistência Social.
+    Neste contexto, conclui-se pelo acerto da sentença recorrida, uma vez que o tratamento diferenciado para quem se encontra em situação diferente, na medida daquilo que os diferencia, não viola o princípio da isonomia.
+    Ademais, saliente-se que o fato de os cargos em questão terem recebido o mesmo tratamento remuneratório por legislação anterior não constitui óbice à alteração realizada pela norma ora em exame.” (pág. 17 do documento eletrônico 2).
+    Desse modo, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Em caso análogo ao destes autos, cito a ementa do ARE 934.534-AgR/RS, da relatoria da Ministra Rosa Weber:
+    “DIREITO ADMINISTRATIVO. SERVIDOR. PLANO DE CARREIRA. OPÇÃO POR NOVA ESTRUTURA REMUNERATÓRIA. LEI Nº 12.277/2010. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 21.8.2013.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido.”
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Deixo de majorar os honorários recursais previstos no art. 85, § 11, do Código de Processo Civil, uma vez que não foram fixados pelo juízo de origem.
+    Publique-se.
+    Brasília, 23 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
