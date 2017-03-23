@@ -1,0 +1,16 @@
+DECISÃO
+LIMINAR IMPLEMENTADA – EXTENSÃO – IDENTIDADE DE FATO – DEFERIMENTO PARCIAL.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    Por meio da petição/STF nº 10.264/2017, é buscada a extensão, aos corréus Carlos Alberto Vieira, Guilherme de Mello, Marlon Martins, Joel da Silva Gomes e Sandro Felippe de Souza, dos efeitos da liminar deferida, sob alegação de identidade com a situação do paciente, Hudiney Judson Jose Ogioni.
+    Carlos Alberto Vieira, mediante a petição/STF nº 11.819/2017, afirma não haver mais interesse no implemento da extensão, ante o provimento, no Superior Tribunal de Justiça, do recurso ordinário em habeas corpus nº 51.218/SC, com expedição de salvo-conduto.
+    2. Ao acolher o pleito de medida acauteladora neste processo, assentei:
+     2. Os fundamentos da preventiva não resistem a exame. Inexiste, no arcabouço normativo, a constrição automática em razão do crime possivelmente cometido, conduzindo à inversão da ordem processual, que direciona, ante o princípio da não culpabilidade, a apurar-se para, selada a culpa, prender-se, em verdadeira execução da pena. Levou-se em conta a gravidade concreta da imputação e a possível reincidência – diga-se, não comprovada –, para apontar-se a periculosidade do paciente. A quantidade de sanção fixada e de entorpecentes apreendidos surgem como elementos neutros, insuficientes a respaldarem o argumento alusivo à preservação da aplicação da lei penal. Esta fica vinculada à observância da legislação em vigor. Por último, deve-se considerar, sempre e sempre, a a primariedade e os bons antecedentes da pessoa acusada, presentes no caso, tendo em vista os elementos da dosimetria da pena. Surge a insubsistência das premissas lançadas.
+    Surge o prejuízo do pedido de extensão relativamente a Carlos Alberto Vieira.
+    No tocante aos requerentes Guilherme de Mello e Sandro Felippe de Souza, há a identidade arguida. A decisão por meio da qual afastada a segregação do paciente não está fundada em motivos de caráter exclusivamente pessoal.
+    Quanto aos corréus Marlon Martins e Joel da Silva Gomes, observem que o Juízo, na sentença, ao negar o direito de recorrerem em liberdade, ressaltou a necessidade de resguardar a aplicação da lei penal, assentando estar comprovada a reincidência. Então, a inversão da ordem do processo-crime – no que direciona a apurar-se para, selada a culpa, em execução da pena, prender-se – foi justificada, atendendo-se ao figurino legal.
+    3. Defiro parcialmente as extensões pretendidas. Expeçam os contramandados de prisão ou, se já cumpridos, os alvarás de soltura, a serem implementados com as cautelas próprias: caso os requerentes Guilherme de Mello e Sandro Felippe de Souza não se encontrem recolhidos por motivo diverso da preventiva formalizada no processo nº 0012411-14.2011.8.24.0045, da Segunda Vara Criminal da Comarca de Palhoça/SC. Advirtam-nos da necessidade de permanecerem com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informarem eventual transferência e de adotarem a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 23 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
