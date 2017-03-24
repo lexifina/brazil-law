@@ -1,0 +1,32 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL. AGRAVO RETIDO. PENSÃO POR MORTE. COMPLEMENTAÇÃO DE PENSIONAMENTO. PREVIDÊNCIA PRIVADA. FUNDAÇÃO BrTPREV.
+    I. FALTA DE INTERESSE PROCESSUAL.
+    A Autora detém interesse processual, uma vez que, restou comprovado que a autora recebe pensão da previdência oficial como companheira e dependente do de cujus. Preliminar rejeitada.
+    II. Do litisconsórcio passivo necessário
+    - Em relação à Brasil Telecom, inexiste qualquer relação de direito material que possibilite a instituição de um litisconsorte passivo necessário, pois não há a alegada solidariedade entre a aquela empresa e a parte demandada.
+    PRESCRIÇÃO DO FUNDO DO DIREITO. Versando a discussão sobre a obrigação de trato sucessivo, representada pelo pagamento de pensão, complementação de aposentadoria, revisão do valor inicial de benefício complementar à aposentadoria, a prescrição alcança tão somente as parcelas vencidas anteriores ao qüinqüênio que procede ao ajuizamento da ação, e não o próprio fundo do direito.
+    MÉRITO. O regulamento da ré, em seu art. 44, tem-se que inexigível a inscrição para ser reconhecido beneficiário, pois ali consignado que a suplementação da pensão será rateada em parcelas iguais entre os beneficiários inscritos, não se adiando a concessão do benefício por falta de inscrição de outros possíveis beneficiários.
+    Por esse dispositivo, contrariamente ao fundamento da contestação, o que se entende é pela possibilidade da existência de beneficiários não inscritos.
+    In casu, é certo que a autora não constava como dependente do associado na ficha desse junto a Fundação CRT. Mas essa é situação que não pode obstar o reconhecimento do seu direito à complementação pretendida, pois teve reconhecidas as condições para que ali também estivesse o seu nome.
+    PRELIMINARES RECURSAIS REJEITADAS. UNÂNIME. AGRAVO RETIDO DESPROVIDO. PRESCRIÇÃO AFASTADA. POR MAIORIA. NO MÉRITO, PROPRIAMENTE DITO, APELO DESPROVIDO. UNÂNIME.” (pág. 44 do documento eletrônico 4).
+    No RE, fundado no art. 102, III, a , da Constituição, alegou-se ofensa ao art. 202, caput, da mesma Carta.
+    O recurso não merece acolhida.
+    O Tribunal de origem decidiu a questão nos seguintes termos, conforme transcrição do voto condutor (págs. 66 e seguintes do documento eletrônico 4):
+    “Analisando mais profundamente a questão da prescrição e os recentes julgamentos do Superior Tribunal de Justiça que estão abordando tal assunto, me convenci que, versando a discussão sobre a obrigação de trato sucessivo, representada pelo pagamento de pensão, complementação de aposentadoria, revisão do valor inicial de benefício complementar à aposentadoria, a prescrição alcança tão somente as parcelas vencidas anteriores ao qüinqüênio que procede ao ajuizamento da ação, e não o próprio fundo do direito.
+    […]
+    Por tais razões, não se está a falar da prescrição do fundo do direito, tão somente das parcelas anteriores ao qüinqüênio da propositura da ação, razão pela qual nego provimento ao agravo retido.”
+    E , quanto ao mérito, acrescenta, confirmando a sentença (pág. 69 do documento eletrônico 4):
+    “E se foi reconhecida como companheira e dependente do falecido Pedro Myron, tanto que nessas condições lhe tendo sido garantido o pensionamento do INSS, faz jus também à complementação desse pela previdência privada, mais precisamente pela requerida, que encampou os planos previdenciários de sua antecessora, a Fundação dos Empregados da Companhia Riograndense de Telecomunicações. Pedro Myron era empregado da CRT, associado da Fundação CRT e faleceu antes ainda dessa ser sucedida pela Brasil Telecom S/A.
+    10. É certo que ela não constava como dependente do associado na ficha desse junto a Fundação CRT, pois isso resulta bem demonstrado a fls. 149.
+    Mas essa é situação que não pode obstar o reconhecimento do seu direito à complementação pretendida, pois teve reconhecidas as condições para que ali também estivesse o seu nome.
+    Ou seja, teve reconhecido que era detentora das condições para ser beneficiária de Pedro Myron, pois sua companheira e dependente, caso contrário não teria recebido o benefício da previdência oficial.
+    E não se está aqui vinculando os benefícios e nem dizendo que a complementação decorre simplesmente da concessão do pensionamento do INSS.
+    O que existe é o reconhecimento de que se ela comprovou situação capaz de ensejar tal recebimento, essa mesma situação lhe dá direito à complementação pretendida junto à entidade ré.
+    Assim, para divergir do acórdão impugnado e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 desta Corte, além da análise das cláusulas do regulamento firmado entre as partes, o que encontra óbice na Súmula 454 deste Tribunal . Nesse sentido:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.11.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido.” (ARE 877.864-AgR/SP, Rel. Min. Rosa Weber).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. IMPOSSIBILIDADE DO REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 638.703-AgR/RJ, Rel. Min. CÁRMEN LÚCIA).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de março de 2017.
+    Ministro Ricardo Lewandowski
+     Relator
