@@ -1,0 +1,537 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 14
+
+24/03/2017
+
+PLENÁRIO
+
+SEGUNDO AG.REG. NO MANDADO DE INJUNÇÃO 1.936 DISTRITO
+FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. LUIZ FUX
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+: MARIO RODRIGUEZ DE MORAES FILHO
+: VERA LUCIA MARQUES CALDAS
+: PRESIDENTE DA REPÚBLICA
+: ADVOGADO -GERAL DA UNIÃO
+
+EMENTA: SEGUNDO AGRAVO REGIMENTAL NO MANDADO
+DE INJUNÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE EM
+MANDADO
+DE
+INJUNÇÃO.
+IMPOSSIBILIDADE
+DE
+REDISCUSSÃO DO MÉRITO DA DECISÃO TRANSITADA EM
+JULGADO. INADEQUAÇÃO ÀS HIPÓTESES ENCARTADAS NO
+ART. 475-L, § 1º, DO CPC/1973. AGRAVO REGIMENTAL
+DESPROVIDO.
+1. A regra tempus regit actum impõe que o incidente de exceção de
+pré-executividade seja analisado com base na disciplina jurídica da Lei
+5.869/1973, na medida em que a própria impugnação ocorreu em período
+anterior à vigência do Novo Código de Processo Civil (Lei 13.105/2015).
+2. O art. 475-L, II, e § 1º, do CPC/1973, considerava “inexigível o título
+fundado em lei ou ato normativo declarados inconstitucionais pelo Supremo
+Tribunal Federal, ou fundado em aplicação ou interpretação da lei ou ato
+normativo tidas pelo Supremo Tribunal Federal como incompatíveis com a
+Constituição Federal”.
+3. In casu, a aplicabilidade da Lei Complementar 51/1985 –
+recepcionada pela Constituição da República, conforme assentado no
+julgamento da ADI 3817, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe
+03.04.2009 – sequer foi analisada pela decisão transitada em julgado, de
+modo que eventual equívoco resta acobertado pela eficácia preclusiva da
+coisa julgada, ante a impossibilidade de rediscutir o mérito do processo a
+pretexto de infirmar a exigibilidade de título executivo. Precedente do
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752257.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 14
+
+MI 1936 AGR-SEGUNDO / DF
+Plenário: MI 2266 AgR, Rel. Min. Roberto Barroso, DJe 18.02.2014.
+4. Agravo regimental DESPROVIDO.
+ACÓRDÃO
+O Plenário do Supremo Tribunal Federal, na conformidade da ata de
+julgamento virtual de 17 a 23/03/2017, por unanimidade e nos termos do
+voto do Relator, negou provimento ao agravo regimental.
+Brasília, 24 de março de 2017.
+LUIZ FUX – RELATOR
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752257.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 14
+
+24/03/2017
+
+PLENÁRIO
+
+SEGUNDO AG.REG. NO MANDADO DE INJUNÇÃO 1.936 DISTRITO
+FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. LUIZ FUX
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+: MARIO RODRIGUEZ DE MORAES FILHO
+: VERA LUCIA MARQUES CALDAS
+: PRESIDENTE DA REPÚBLICA
+: ADVOGADO -GERAL DA UNIÃO
+RE LAT Ó RI O
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Trata-se de agravo
+regimental contra decisão monocrática por mim proferida, nos seguintes
+termos:
+DECISÃO: Trata-se de exceção de pré-executividade
+apresentada pela União, contra decisão proferida pelo Ministro
+Eros Grau, então relator, que julgou parcialmente procedente o
+pedido deste mandado de injunção, para, “reconhecendo a falta
+de norma regulamentadora do direito à aposentadoria especial dos
+servidores públicos, remover os obstáculo criado por essa omissão e,
+supletivamente, tornar viável o exercício, pelo impetrante, do direito
+consagrado no art. 40, § 4º, da Constituição do Brasil, nos termos do
+art. 57, da Lei nº 8.213/91”.
+A requerente afirma, em síntese, que não há falar, in casu,
+de ausência de norma regulamentadora, “haja vista que a
+aposentadoria especial dos policiais federais está regulamentada na Lei
+Complementar nº 51/85”.
+Alega, nesse sentido, que deve ser considerado inexigível
+o título judicial ora impugnado, incidindo, na hipótese o art.
+475-L, § 1º, do Código de Processo Civil, “uma vez que restou
+desconsiderado o entendimento do plenário do STF”.
+Salienta que o referido artigo veicula hipótese de rescisão
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752258.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 14
+
+MI 1936 AGR-SEGUNDO / DF
+do julgado em decorrência de decisão anterior proferida pelo
+STF no sentido da inconstitucionalidade de determinada lei ou
+ato normativo, bem como da incompatibilidade, com a
+Constituição Federal, da aplicação ou interpretação de lei ou ato
+normativo.
+Prossegue aduzindo que, no caso sob exame, o então
+relator teria deixado de aplicar o posicionamento desta Corte
+firmado no julgamento da ADI 3.817/DF, ocasião em que o STF
+proclamou a recepção, pela Carta Republicana de 1988, da Lei
+Complementar 51/1985.
+Sustenta que, se o STF declara uma norma constitucional
+(ou recepcionada) e um magistrado deixa de aplicá-la em
+hipótese em que deveria utilizá-la, incorre igualmente na
+hipótese prevista no art. 475-L, § 1º, do CPC.
+Conclui, assim, que o título judicial em questão deve ser
+declarado inexigível, tendo em vista que as decisão judicial não
+considerou o entendimento desta Corte no sentido de que a LC
+51/1985 foi recepcionada pela nova ordem constitucional.
+Requer, ao final, “seja acolhida a presente exceção, para que
+seja extinta a execução, tendo em vista a inexigibilidade do título
+judicial, nos termos do art. 267, VI, c/c art. 598 do CPC”.
+É o relatório. DECIDO.
+A pretensão não merece acolhida.
+A requerente pretende, por meio desta exceção de préexecutividade, seja reconhecida a inexigibilidade da obrigação
+sob o fundamento de que a decisão ora impugnada foi
+proferida em desacordo com a decisão proferida nos autos da
+ADI 3.817/DF, que reconheceu a recepção da Lei Complementar
+51/1985, que trata da aposentadoria especial dos servidores
+policiais, pela Constituição Federal de 1988.
+Anoto, inicialmente, assim como o fez o Professor Barbosa
+Moreira, a impropriedade da locução “exceção de préexecutividade” para designar esse instrumento de impugnação
+da execução. A uma porque “pré-executividade” transmite a
+ideia de algo que precede a executividade do título, que lhe seja
+anterior, e não é disse que se trata. O que o executado pretende
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752258.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 14
+
+MI 1936 AGR-SEGUNDO / DF
+sustentar, por meio desse instrumento de defesa, é que o
+processo executivo não preenche os requisitos indispensáveis
+para se desenvolver, ou, nas palavras de Barbosa Moreira, “que
+o título apresentado pelo exequente não constitui passaporte regular
+para o ingresso na via da execução”. Mais adequado seria, então,
+falar em “não executividade”, como propõe o Professor. A duas
+porque, na realidade, não se trata exatamente de exceção, que é
+o vocábulo normalmente utilizado para designar espécies de
+defesa que devem ser arguidas pelo interessado e que não são
+apreciáveis ex officio pelo magistrado, tais como a
+incompetência relativa e a prescrição. Nessa esteira, leciona o
+digno Professor:
+“das várias acepções atribuídas ao vocábulo ‘exceção’, uma
+faz jus, até por motivos históricos, à preferência dos estudiosos:
+a que denota a impossibilidade de conhecimento ex officio pelo
+juiz, com a correspondente criação, para o interessado, do ônus
+da alegação. Há defesas, com efeito, de que o órgão judicial pode
+e deve conhecer ainda que não alegadas: é o que ocorre, por
+exemplo, com a ‘ausência de pressupostos de constituição e de
+desenvolvimento válido e regular do processo’ como a
+perempção, a litispendência, ou a coisa julgada, e com a falta de
+qualquer das condições da ação (art. 267, n IV, V e VI, c/c § 3º).
+Já outras só podem ser tomadas em consideração se as suscitar o
+interessado. Assim, v.g., a incompetência relativa e, no plano
+substancial, a prescrição em matéria patrimonial, a exceção de
+contrato não cumprido. A estas é que convém reservam o nomen
+iuris em foco.
+Ora, das hipóteses que se apontam como suscetíveis de
+ensejar a reação do executado independentemente do
+oferecimento de embargos, a grande maioria consiste em defeitos
+que, segundo entendimento generalizado, o juiz, se os encontrar,
+devem levar em conta ainda que não alegados” (BARBOSA
+MOREIRA, José Carlos. Exceção de pré-executividade: uma
+denominação infeliz. Revista Forense. Vol. 351 – 2000. Rio de
+Janeiro: Forense-2000. p. 585-586) .
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752258.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 14
+
+MI 1936 AGR-SEGUNDO / DF
+Como é consabido, a exceção de pré-executividade é meio
+de defesa de que se vale o executado para suscitar questões que,
+pela sua natureza processual, são conhecíveis de ofício,
+podendo ser alegadas por simples petição e que não dependam
+de dilação probatória. Essas matérias indicam que a execução
+sequer poderia ter sido iniciada, v.g., a alegação de que o título
+não é executivo, a obrigação é ilíquida ou o processo não se
+formou regularmente.
+In casu, a União alega que o título judicial é inexigível à
+luz do disposto no art. 475-L, § 1º, do Código de Processo Civil,
+que assim dispõe:
+“Art. 475-L. A impugnação somente poderá versar
+sobre: (Incluído pela Lei nº 11.232, de 2005)
+I – falta ou nulidade da citação, se o processo correu à
+revelia; (Incluído pela Lei nº 11.232, de 2005)
+II – inexigibilidade do título; (Incluído pela Lei nº 11.232,
+de 2005)
+III – penhora incorreta ou avaliação errônea; (Incluído
+pela Lei nº 11.232, de 2005)
+IV – ilegitimidade das partes; (Incluído pela Lei nº 11.232,
+de 2005)
+V – excesso de execução; (Incluído pela Lei nº 11.232, de
+2005)
+VI – qualquer causa impeditiva, modificativa ou extintiva
+da obrigação, como pagamento, novação, compensação,
+transação ou prescrição, desde que superveniente à sentença.
+(Incluído pela Lei nº 11.232, de 2005)
+§ 1o Para efeito do disposto no inciso II do caput deste
+artigo, considera-se também inexigível o título judicial fundado
+em lei ou ato normativo declarados inconstitucionais pelo
+Supremo Tribunal Federal, ou fundado em aplicação ou
+interpretação da lei ou ato normativo tidas pelo Supremo
+Tribunal Federal como incompatíveis com a Constituição
+Federal. (Incluído pela Lei nº 11.232, de 2005)”
+Aduz, nesse contexto, que o título judicial ora questionado
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752258.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 14
+
+MI 1936 AGR-SEGUNDO / DF
+deixou de considerar a declaração de constitucionalidade da Lei
+Complementar 51/1985, promovida nos autos da ADI 3.817/DF.
+Entretanto, como visto alhures, art. 475-L, § 1º, do CPC
+não prevê, como causa de inexibilidade da obrigação, a
+declaração de constitucionalidade de lei que o executado
+pretende seja aplicada ao caso concreto. Esse dispositivo referese, na verdade, à coisa julgada inconstitucional, mais
+precisamente, a sua inexequibilidade. Consoante lição de Luiz
+Guilherme Marinoni, ao tratar da Inexigibilidade da Obrigação
+e Controle de Constitucionalidade pelo Supremo Tribunal
+Federal,
+“As normas dos arts. 475-L, § 1º, e 741, parágrafo único,
+do CPC, permitem apenas uma interpretação constitucional: a
+de que o executado poderá alegar a pronúncia do STF quando a
+sentença exequenda houver aplicado lei que já havia sido
+declarada inconstitucional ou tiver adotado interpretação que já
+havia sido declarada incompatível com a Constituição. (…)
+Sua utilização, contudo, não tem caráter universal, sendo
+restrita às sentenças fundadas em norma inconstitucional, assim
+consideradas as que (a) aplicaram norma inconstitucional, ou
+(b) aplicaram norma em situação tida por inconstitucional, ou,
+ainda, (c) aplicaram norma com um sentido tido por
+inconstitucional. (…)
+Estão fora do âmbito material dos referidos embargos,
+portanto, todas as demais hipóteses de sentenças
+inconstitucionais, ainda que tenham decidido em sentido diverso
+da orientação do STF, como, v.g., as que a) deixaram de aplicar
+norma declarada constitucional (ainda que em controle
+concentrado)”(Código de Processo Civil: comentado artigo por
+artigo, 6. ed. São Paulo: Revista dos Tribunais, 2014. p. 475476).
+Verifica-se, pois, que a norma que autoriza o manejo da
+impugnação à execução em razão da inexigibilidade do título
+não tem o alcance pretendido pela requerente.
+Ex positis, nego seguimento à exceção, nos termos do art.
+21, § 1º, do RISTF.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752258.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 14
+
+MI 1936 AGR-SEGUNDO / DF
+Publique-se. Int..
+Brasília, 12 de maio de 2015.
+
+Em amparo de sua pretensão, o agravante aduz, em síntese, que não
+pretende rediscutir o mérito da decisão transitada em julgado, mas,
+apenas, a exigibilidade do título executivo judicial, por contrariedade ao
+entendimento firmado pelo STF, nos termos do art. 475-L, II e § 1º, do
+Código de Processo Civil de 1973.
+É o relatório.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752258.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 9 de 14
+
+24/03/2017
+
+PLENÁRIO
+
+SEGUNDO AG.REG. NO MANDADO DE INJUNÇÃO 1.936 DISTRITO
+FEDERAL
+
+VOTO
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Bem examinados os
+autos, entendo que o presente agravo regimental não merece ser provido.
+O agravante, ao repisar a fundamentação exarada na exceção de préexecutividade, não traz argumentação capaz de desconstituir os
+fundamentos da decisão agravada.
+Como salientado no decisum, a União afirma, em síntese, que deve
+ser considerado inexigível o título judicial ora impugnado, incidindo, na
+hipótese o art. 475-L, § 1º, do Código de Processo Civil, “uma vez que
+restou desconsiderado o entendimento do plenário do STF”, na medida em que
+não há falar, in casu, de ausência de norma regulamentadora, “haja vista
+que a aposentadoria especial dos policiais federais está regulamentada na Lei
+Complementar nº 51/85”.
+De fato, o que a agravante pretende, por meio desta exceção de préexecutividade, é que seja reconhecida a inexigibilidade da obrigação sob o
+fundamento de que a decisão ora impugnada foi proferida em desacordo
+com a decisão proferida nos autos da ADI 3.817/DF – Relatora Min.
+Cármen Lúcia, Tribunal Pleno, DJe 03.04.2009 –, que declarou
+recepcionada, pela Constituição da República, Lei Complementar
+51/1985, que trata da aposentadoria especial dos servidores policiais.
+De fato, o que o executado pretende sustentar, por meio desse
+instrumento de defesa, é que o processo executivo não preenche os
+requisitos indispensáveis para se desenvolver, ou, nas palavras do i.
+Professor Barbosa Moreira, “que o título apresentado pelo exequente não
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752259.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 10 de 14
+
+MI 1936 AGR-SEGUNDO / DF
+constitui passaporte regular para o ingresso na via da execução” (Exceção de préexecutividade: uma denominação infeliz. Revista Forense. Vol. 351 – 2000. Rio
+de Janeiro: Forense, p. 585-). Nesse ponto, aliás, merece colação as lições
+do digno Professor:
+(…) Ora, das hipóteses que se apontam como suscetíveis de
+ensejar a reação do executado independentemente do oferecimento de
+embargos, a grande maioria consiste em defeitos que, segundo
+entendimento generalizado, o juiz, se os encontrar, devem levar em
+conta ainda que não alegados” (BARBOSA MOREIRA, José Carlos.
+Exceção de pré-executividade: uma denominação infeliz. Revista
+Forense. Vol. 351 – 2000. Rio de Janeiro: Forense. p. 586) .
+
+Como é consabido, a exceção de pré-executividade é meio de defesa
+de que se vale o executado para suscitar questões que, pela sua natureza
+processual, são conhecíveis de ofício, podendo ser alegadas por simples
+petição e que não dependam de dilação probatória. Tal premissa indica
+que, quando em análise tais matérias, a execução sequer poderia ter sido
+iniciada (v.g., alegação de que o título não é executivo, a obrigação é
+ilíquida ou o processo não se formou regularmente).
+In casu, a União alega que o título judicial é inexigível à luz do
+disposto no art. 475-L, § 1º, do Código de Processo Civil, que assim
+dispõe:
+“Art. 475-L. A impugnação somente poderá versar sobre:
+(Incluído pela Lei nº 11.232, de 2005)
+(...)
+II – inexigibilidade do título; (Incluído pela Lei nº 11.232, de
+2005)
+(...)
+§ 1o Para efeito do disposto no inciso II do caput deste artigo,
+considera-se também inexigível o título judicial fundado em lei ou ato
+normativo declarados inconstitucionais pelo Supremo Tribunal
+Federal, ou fundado em aplicação ou interpretação da lei ou ato
+normativo tidas pelo Supremo Tribunal Federal como incompatíveis
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752259.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 11 de 14
+
+MI 1936 AGR-SEGUNDO / DF
+com a Constituição Federal. (Incluído pela Lei nº 11.232, de 2005)”
+
+Aduz, nesse contexto, que o título judicial ora questionado deixou
+de considerar a declaração de receptividade da Lei Complementar
+51/1985, promovida nos autos da ADI 3.817/DF.
+Entretanto, como visto alhures, art. 475-L, § 1º, do CPC não prevê,
+como causa de inexibilidade da obrigação, a declaração de
+constitucionalidade de lei que o executado pretende seja aplicada ao caso
+concreto. Esse dispositivo refere-se, na verdade, à coisa julgada
+inconstitucional, mais precisamente, a sua inexequibilidade. Consoante
+lição de Luiz Guilherme Marinoni, ao tratar da Inexigibilidade da
+Obrigação e Controle de Constitucionalidade pelo Supremo Tribunal
+Federal:
+“As normas dos arts. 475-L, § 1º, e 741, parágrafo único, do
+CPC, permitem apenas uma interpretação constitucional: a de que o
+executado poderá alegar a pronúncia do STF quando a sentença
+exequenda houver aplicado lei que já havia sido declarada
+inconstitucional ou tiver adotado interpretação que já havia sido
+declarada incompatível com a Constituição. (…)
+Sua utilização, contudo, não tem caráter universal, sendo
+restrita às sentenças fundadas em norma inconstitucional, assim
+consideradas as que (a) aplicaram norma inconstitucional, ou (b)
+aplicaram norma em situação tida por inconstitucional, ou, ainda, (c)
+aplicaram norma com um sentido tido por inconstitucional. (…)
+Estão fora do âmbito material dos referidos embargos, portanto,
+todas as demais hipóteses de sentenças inconstitucionais, ainda que
+tenham decidido em sentido diverso da orientação do STF, como, v.g.,
+as que a) deixaram de aplicar norma declarada constitucional (ainda
+que em controle concentrado)”(Código de Processo Civil: comentado
+artigo por artigo, 6. ed. São Paulo: Revista dos Tribunais, 2014. p.
+475-476).
+
+Verifica-se, pois, que a norma que autoriza o manejo da impugnação
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752259.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 12 de 14
+
+MI 1936 AGR-SEGUNDO / DF
+à execução em razão da inexigibilidade do título não tem o alcance
+pretendido pela requerente.
+Com efeito, infere-se do caso em análise que, ao contrário do
+alegado, é clarividente a tentativa de rediscussão do mérito da decisão
+transitada em julgado, supostamente agasalhada pela “exceção de préexecutividade”. É que, o tema de fundo do mandado de injunção consiste,
+exatamente, na análise da existência, ou não, de omissão legislativa,
+reconhecida pela decisão transitada em julgado.
+Deveras, nos termos do decisum agravado, não se está diante da
+hipótese autorizadora anteriormente encartada no art. 475-L, II, e § 1º, do
+CPC, que considerava inexigível o título “fundado em lei ou ato normativo
+declarados inconstitucionais pelo Supremo Tribunal Federal, ou fundado em
+aplicação ou interpretação da lei ou ato normativo tidas pelo Supremo Tribunal
+Federal como incompatíveis com a Constituição Federal”.
+Nessa mesma linha, colaciono, por oportuno, precedente do Plenário
+desta Corte que analisou idêntica controvérsia, in verbis:
+Ementa: AGRAVO REGIMENTAL. EXCEÇÃO DE PRÉEXECUTIVIDADE EM MANDADO DE INJUNÇÃO. 1. Não
+cabe rediscutir o mérito de decisão transitada em julgado a
+pretexto de infirmar a exigibilidade de título executivo. 2.
+Agravo regimental improvido.
+(MI 2266 AgR, Relator Min. Roberto Barroso, Tribunal
+Pleno, julgado em 18/12/2013, DJe 18-02-2014).
+
+Consectariamente, a aplicabilidade da Lei Complementar 51/85 –
+recepcionada pela Constituição da República, conforme decisão desta
+Corte no julgamento da ADI 3817, Relatora Min. Cármen Lúcia, Tribunal
+Pleno, DJe 03.04.2009 – sequer foi considerada pela decisão transitada em
+julgado. Desse modo, eventual equívoco fica acobertado pela eficácia
+preclusiva da coisa julgada, ante a impossibilidade de rediscutir o mérito
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752259.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 13 de 14
+
+MI 1936 AGR-SEGUNDO / DF
+de decisão transitada em julgado a pretexto de infirmar a exigibilidade de
+título executivo.
+Ex positis, DESPROVEJO o agravo.
+É como voto.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12752259.
+
+Supremo Tribunal Federal
+Extrato de Ata - 24/03/2017
+
+Inteiro Teor do Acórdão - Página 14 de 14
+
+PLENÁRIO
+EXTRATO DE ATA
+SEGUNDO AG.REG. NO MANDADO DE INJUNÇÃO 1.936
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. LUIZ FUX
+AGTE.(S) : UNIÃO
+ADV.(A/S) : ADVOGADO-GERAL DA UNIÃO
+AGDO.(A/S) : MARIO RODRIGUEZ DE MORAES FILHO
+ADV.(A/S) : VERA LUCIA MARQUES CALDAS (073909/RJ)
+INTDO.(A/S) : PRESIDENTE DA REPÚBLICA
+ADV.(A/S) : ADVOGADO-GERAL DA UNIÃO
+Decisão: O Tribunal, por unanimidade e nos termos do voto do
+Relator, negou provimento ao agravo regimental. Plenário, sessão
+virtual de 17 a 23.03.2017.
+Composição: Ministros Cármen Lúcia (Presidente), Celso de
+Mello, Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski, Dias
+Toffoli, Luiz Fux, Rosa Weber, Roberto Barroso e Edson Fachin.
+p/ Doralúcia das Neves Santos
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 12653814
