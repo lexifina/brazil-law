@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue em parte transcrita:
+    “AGRAVO DE INSTRUMENTO – Decisão que indeferiu antecipação de tutela – Pensão em prol dos autores – Erro médico – Inviável a antecipação antes do contraditório no caso concreto – Decisão prudente, em sede de cognição sumária – Decisão mantida – Recurso não provido” (pág. 40 do doc. eletrônico 11).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 1°, III; 37, § 6°; 226 e 227, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+    “[...] 8. A decisão foi prudente, considerando-se que foi proferida em sede de antecipação de tutela (erro médico).
+    9. E como ponderado pela D. Procuradoria, a pretensão está embasada em suposto erro médico, exigindo-se cautela e maiores elementos e comprovações para seu deferimento.
+    10. Necessário pois que se evidencie – sob o contraditório – o alegado erro médico, para que seja viável a antecipação de tutela pretendida […]” (págs. 42-43 do doc. eletrônico 11).
+    Assim, para divergir do acórdão recorrido quanto à ocorrência do erro médico, seria necessário novo exame do conjunto fático-probatório dos autos, circunstância que torna inviável o recurso, nos termos da Súmula 279 do STF. Nesse sentido:
+    “EMENTA DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL. HOSPITAL PÚBLICO. ERRO MÉDICO. INDENIZAÇÃO. NEXO DE CAUSALIDADE. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. ACÓRDÃO RECORRIDO PUBLICADO EM 30.10.2014. 1. O entendimento adotado pela Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. Entender de modo diverso demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. Inexiste violação do art. 93, IX, da Constituição Federal. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo constitucional exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento, dispensando o exame detalhado de cada argumento suscitado pelas partes. 3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. Agravo regimental conhecido e não provido” (RE 931.825-AgR/DF, rel. Min. Rosa Weber – grifei).
+    Ademais, os artigos indicados como violados não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282 do STF, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acordão recorrido. Desse modo, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração não supre o prequestionamento.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 24 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
