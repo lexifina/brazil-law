@@ -1,0 +1,25 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Governador Valadares contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Minas Gerais, está assim ementado:
+    “AÇÃO DE INDENIZAÇÃO – QUEDA DE ÁRVORE – VEÍCULO ESTACIONADO EM VIA PÚBLICA – DEVER DE MANUTENÇÃO – OMISSÃO – RESPONSABILIDADE SUBJETIVA DO MUNICÍPIO – INCIDÊNCIA – NEXO DE CAUSALIDADE – DANOS MATERIAIS – COMPROVAÇÃO – DEVER DE INDENIZAR. A responsabilidade civil das pessoas jurídicas de direito publico é, em regra, objetiva – independente de prova de culpa, porque amparada na teoria do risco administrativo, prevista no art. 37, § 6º da Constituição da República. Quando o fato danoso se deve a uma omissão decorrente de ‘faute du service’ aplica-se a teoria da responsabilidade subjetiva. O contexto probatório comprova os prejuízos sofridos pelo Autor decorrentes de queda de árvore sobre seu veículo, os quais se deram pela omissão do ente Municipal, seja porque não procedeu à manutenção de área verde da capital, seja porque procedeu de forma ineficaz ou insuficiente para obviar o fato danoso.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 37, § 6º, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de Minas Gerais, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático- -probatórios:
+    “Há, ainda que salientar que possibilidade de responsabilização subjetiva do Estado por omissão ou má-prestação do serviço.
+    Consequentemente, na responsabilidade subjetiva do Estado, fundamental é a prova da conduta antijurídica ou ilícita, do nexo causal e do dano.
+    No caso dos autos, estando a árvore plantada em área pertencente à municipalidade, resta induvidoso que caberia ao município a manutenção da árvore, a fim de evitar eventuais quedas.
+    …...................................................................................................
+    Lado outro, o Município não conseguiu comprovar de forma cabal que promoveu a manutenção preventiva da árvore de modo a afastar seu dever de indenizar, certo que não há provas que demonstrem que a árvore é efetivamente vistoriada pela Prefeitura Municipal.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos por ambas as Turmas do Supremo Tribunal Federal:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE SUBJETIVA DO ESTADO. OMISSÃO. FALTA DE CONSERVAÇÃO DE VIA PÚBLICA. DANOS MATERIAIS E MORAIS. QUEDA EM BUEIRO ABERTO. ART. 37, § 6º, CF/88. AUSÊNCIA DE PREQUESTIONAMENTO.
+    1. Em sede de recurso extraordinário não é permitido inovar com argumentos não abordados pelo acórdão recorrido. Ausência do necessário prequestionamento (Súmula STF 282).
+    2. Incidência da Súmula STF 279 para alterar conclusão do Tribunal de origem, que se limitou a aferir a responsabilidade subjetiva do município por ato omissivo específico, nos termos da teoria do ‘faute du service’.
+    3. Agravo regimental improvido.”
+    (AI 727.483-AgR/RJ, Rel. Min. ELLEN GRACIE)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. Responsabilidade civil do estado. Alegação de violação ao art. 37, § 6º, da Constituição Federal. 3. Necessidade do revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula 279. 4. Agravo regimental a que se nega provimento.”
+    (ARE 869.912-AgR/GO, Rel. Min. GILMAR MENDES)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 24 de março de 2017.
+Ministro CELSO DE MELLO
+Relator
