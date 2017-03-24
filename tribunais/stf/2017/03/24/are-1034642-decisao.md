@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+    “APELAÇÃO. HOMICÍDIO CULPOSO MAJORADO. MATERIALIDADE E AUTORIDA SUFICIENTEMENTE PROVADAS. CONDENAÇÃO. POSSIBILIDADE. RECURSO DEFENSIVO PARCIALMENTE PROVIDO.
+    1. A conjugação dos elementos probatórios leva ao suficiente grau de certeza quanto à materialidade e à autoria do fato descrito na denúncia. A culpa em sentido estrito e a causa de aumento de pena previstas no art. 121, §3° e §4°, do Código Penal, também foram provadas, devendo-se manter “in totum” o edito condenatório.
+    2. Apelo defensivo parcialmente provido, apenas para afastar a definição do “quantum” mínimo indenizatório, porque fixado de ofício, sem qualquer requerimento das partes. Precedentes do STJ” (pág. 129 do documento eletrônico 9).
+    Opostos embargos de declaração, foram rejeitados em virtude da não ocorrência de omissão, obscuridade e contradição.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 5°, II, XXXIX, e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, acerca da apontada nulidade do acórdão recorrido, observo que os Ministros desta Corte, no julgamento do AI 791.292-QO-RG/PE (Tema 339), de relatoria do Ministro Gilmar Mendes, reconheceram a repercussão geral e reafirmaram a jurisprudência no sentido de que a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu. Nesse sentido, transcrevo a ementa do referido precedente:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    Além disso, para dissentir do acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 279 desta Corte. Dessa forma, a afronta à Constituição, se ocorresse, seria indireta ou reflexa. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENAL. CRIME DE HOMICÍDIO CULPOSO (CÓDIGO PENAL, ART. 121, § 3º). NECESSIDADE DE REEXAME DO CONJUNTO PROBATÓRIO DOS AUTOS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 758.391-AgR/RS, Rel. Min. Cármen Lúcia)
+    Por fim, registro que este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal de origem (Súmula 636 do STF).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 24 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
