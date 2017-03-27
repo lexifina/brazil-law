@@ -1,0 +1,18 @@
+RECLAMAÇÃO. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA. IMPUGNAÇÃO DE DECISÃO JUDICIAL TRANSITADA EM JULGADO. HIPÓTESE DO ARTIGO 988, § 5º, I, DO CPC/2015. INCIDÊNCIA DA SÚMULA 734 DO STF. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de reclamação, com pedido de liminar, ajuizada por GERALDO RIBEIRO DA CRUZ contra decisão do Tribunal Superior do Trabalho, sob alegação de usurpação de competência deste Supremo Tribunal Federal.
+    Colhe-se dos autos que a decisão reclamada apresenta a seguinte ementa:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. PRESSUPOSTO DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO TST. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA E DO DEVIDO PROCESSO LEGAL. JULGAMENTO DA CAUSA DEPENDENTE DE PRÉVIA ANÁLISE DA ADEQUADA APLICAÇÃO DAS NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. Trata-se de agravo interno interposto em face da decisão da Vice-Presidência do TST pela qual denegado seguimento ao recurso extraordinário com base em precedente de repercussão geral. 2. O Supremo Tribunal Federal, ao examinar o Recurso Extraordinário nº 598.365/MG, concluiu que o exame de questão alusiva ao cabimento de recurso de competência de outro Tribunal se restringe ao âmbito infraconstitucional, inexistindo questão constitucional com repercussão geral. 3. Ademais, a Suprema Corte rejeitou a repercussão geral da suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depende de prévia análise da adequada aplicação das normas infraconstitucionais (ARE 748371/MT, Relator Ministro Gilmar Mendes, DJe-148 divulgado 31-07-2013, publicado 01-08-2013) (Tema 660). 4. Nesse sentir, ficam mantidos os fundamentos adotados pela decisão agravada, restando verificado, ainda, o caráter infundado do presente agravo, aplicando-se a multa prevista no § 4º do artigo 1.021 do atual CPC. Agravo interno não provido, com aplicação de multa.”
+    Alega o reclamante, em síntese, que a negativa de provimento ao agravo interno interposto perante o tribunal de origem contraria o teor da Súmula 727/STF, devendo ser reconhecida a usurpação de competência.
+    Requer, liminarmente, a suspensão do acórdão reclamado. No mérito, postula a cassação do referido acórdão e que seja acolhido o agravo interno na reclamação trabalhista, reconhecendo-se o preenchimento dos requisitos legais para a remessa do recurso extraordinário a esta Suprema Corte.
+    É o relatório. Decido.
+    Ab initio, acolho a emenda à inicial para fixar o valor da causa em R$ 36.269,31.
+    Quanto à gratuidade de justiça, defiro o benefício ao reclamante, eis que presentes os requisitos exigidos pelo art. 98 do CPC.
+    Ao consultar o sítio eletrônico do Tribunal Superior do Trabalho, verifico que a decisão reclamada transitou em julgado em 24/2/2017, mesma data em que foi ajuizada a presente reclamação.
+    Incide, portanto, no caso em tela, a Súmula 734 do STF, que assim dispõe: “não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal”.
+    A legislação processual civil codificada reforçou esse comando, ao prever, no seu art. 988, § 5º, I, a inadmissibilidade de reclamação proposta após o trânsito em julgado da decisão reclamada.
+    Ex positis, NEGO SEGUIMENTO à presente Reclamação (art. 932, VIII, do CPC/2015 combinado com o art. 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal), restando prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 27 de março de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
