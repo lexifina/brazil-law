@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 93, IX, e 160, parágrafo único, I, da Constituição Federal.
+    Anote-se a ementa do acórdão recorrido:
+    “TRIBUTÁRIO. AÇÃO CAUTELAR. CONTRIBUIÇÃO DOS MUNICÍPIOS PARA O PASEP. OBRIGATORIEDADE. RETENÇÃO DO FPM. LEGITIMIDADE. PRECEDENTES DO STF. LIMITAÇÃO DA RETENÇÃO À 9% DA COTA DO FPM, EM RELAÇÃO ÀS DÍVIDAS DE CONTRIBUIÇÕES SOCIAIS. ART. 1º DA LEI Nº 9.639/98, COM A REDAÇÃO DADA PELA MP Nº 2187-13/2001.
+    1. Objetiva-se nas presentes apelações a reforma da sentença que, entendimento de que se apresenta obrigatória a contribuição do Município ao PASEP, bem como sua retenção da cota do Fundo de Participação do Município, entendeu se apresentar legítimo o bloqueio do repasse do FPM, limitando-o ao percentual de 9%.
+    2. O STF pacificou o entendimento no sentido de que após a norma ordem constitucional é obrigatória a contribuição dos Municípios para o PASEP, bem como se apresenta legítima a retenção da aludida contribuição do Fundo de Participação dos Municípios - FPM.
+    3. O valor dos descontos do Fundo de Participação do Município em relação às dívidas de contribuições sociais deve ser limitado a 9% do Fundo de Participação do Município (art. 1º da Lei nº 9.639/98, com a redação dada pela Medida Provisória nº 2187-13/2001). Precedentes deste Tribunal.
+    4. Apelações e remessa oficial não providas.”
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere ao artigo 93, IX, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, verifico que a Corte a quo fundamentou sua decisão da seguinte maneira:
+    “Quanto à limitação ao percentual de 9% de retenção de desconto na hipótese de débito da aludida contribuição, sobre a cota do Fundo de Participação do Município, tenho não merecer prosperar a argumentação aduzida pela Fazenda Nacional, porquanto tal percentual encontra-se previsto no art. 1º da Lei nº 9.639/98, com a redação dada pela Medida Provisória nº 2187-13, de 2001 (…)”. (fl. 167).
+    Dessa forma, fica evidente que a instância de origem decidiu a lide amparada na legislação infraconstitucional pertinente (Lei nº 9.639/98 e Medida Provisória nº 2.187-13/11). Assim, a afronta ao texto constitucional seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Sobre o tema:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS – FPM. SISTEMÁTICA DE RETENÇÃO. INFORMAÇÕES PERTINENTES À COMPOSIÇÃO DAS RETENÇÕES. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE. INCIDÊNCIA DA SÚMULA 636 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de legislação infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. Precedentes. II – Este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal de origem (Súmula 636 do STF). III – Agravo regimental a que se nega provimento.” (RE nº 812.824/PE-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/8/14).
+    “DIREITO TRIBUTÁRIO. PROCEDIMENTO DE RETENÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 22.06.2011. A suposta ofensa à Constituição Federal somente poderia ser constatada a partir da análise da legislação infraconstitucional que fundamentou o acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido.” (ARE nº 781.230/PE-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 4/4/14)
+    Na mesma direção, cito a seguinte decisão monocrática, em que se debateu idêntica matéria: RE nº 855.099/CE, Relator o Ministro Roberto Barroso, DJe de 2/2/15.
+    Ainda no mesmo sentido: RE nº 646.939/CE, de minha relatoria, DJe de 28/9/12.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 27 de março de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
