@@ -1,0 +1,8 @@
+Solução de Consulta Cosit nº 174, de 13 de março de 2017
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social – Cofins
+EMENTA: SOCIEDADES CORRETORAS DE SEGUROS. ROL DE ENTIDADES CONSTANTES DO ART. 22, § 1º, DA LEI Nº 8.212, DE 1991. JURISPRUDÊNCIA VINCULANTE. RECURSO ESPECIAL Nº 1.400.287/RS E RECURSO ESPECIAL Nº 1.391.092/SC.
+O Superior Tribunal de Justiça (STJ), ao julgar o Recurso Especial nº 1.400.287/RS e o Recurso Especial nº 1.391.092/SC, no âmbito da sistemática do art. 543-C do Código de Processo Civil (CPC), estabeleceu que as sociedades corretoras de seguros estão fora do rol de entidades constantes do art. 22, § 1º, da Lei nº 8.212, de 1991.
+Em razão do disposto no art. 19 da Lei nº 10.522, de 2002, na Portaria Conjunta PGFN/RFB nº 1, de 2014, na Nota PGFN/CRJ nº 73, de 2016, e na Nota PGFN/CRJ nº 134, de 2016, a Secretaria da Receita Federal do Brasil (RFB) encontra-se vinculada ao referido entendimento.
+Em decorrência da jurisprudência vinculante, as sociedades corretoras de seguros não devem ser consideradas como “sociedade corretora” ou “agente autônomo de seguros privados” para todos os efeitos previstos na legislação tributária, encontrando-se sujeitas, portanto, ao regime de apuração não cumulativa da Contribuição para o PIS/Pasep e da Cofins e às alíquotas previstas nesse regime.
+DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, art. 22, § 1º; Lei nº 9.718, de 1998, art. 3º, § 6º; Lei nº 10.522, de 2002, art. 19, inciso V; Lei nº 10.833, de 2003, arts. 1º, 2º, e 10; Lei nº 10.684, de 2003, art. 18; Portaria Conjunta PGFN/RFB nº 1, de 2014, art. 3º; Nota PGFN/CRJ nº 73, de 2016; Nota PGFN/CRJ nº 134, de 2016.
+[arquivo anexo: SC Cosit nº 174-2017.pdf]
