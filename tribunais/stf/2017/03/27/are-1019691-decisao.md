@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação do art. 97 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Inexistente ofensa ao art. 97 da Carta Magna, fundado o acórdão recorrido em pronunciamento do órgão especial do Tribunal de origem, no sentido da inconstitucionalidade do art. 158, § 5º, da Lei Complementar estadual 180/78, com redação dada pela Lei Complementar estadual 1.012/2007 (Arguição de Inconstitucionalidade 0019071-66.2015.8.26.000, Rel. Francisco Casconi, DJe 26.8.2015 – fl. 95).
+    Nesse sentir, dispensável nova submissão da arguição de inconstitucionalidade ao plenário ou ao órgão especial do Tribunal de origem. Nesse sentido: RE 593.948-AgR/RJ, Rel. Min. Luiz Fux, 1ª Turma, DJe 09.5.2011; RE 440.458-AgR/RS, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 06.5.2005, cuja ementa transcrevo:
+    “1. Controle de constitucionalidade; reserva de plenário (CF, art. 97): aplicabilidade, no caso, da exceção prevista no art. 481, parágrafo único, do C. Pr. Civil (red. da L. 9.756/98), que dispensa a submissão ao plenário, ou ao órgão especial, da argüição de inconstitucionalidade, quando já houver pronunciamento destes ou do plenário do Supremo Tribunal Federal sobre a questão. 2. Fazenda Pública: execução não embargada: honorários de advogado: MPr 2.180/2001: constitucionalidade declarada pelo STF, com interpretação conforme ao art. 1º-D da L. 9.494/97, na redação que lhe foi dada pela MPr 2.180-35/2001, de modo a reduzir-lhe a aplicação à hipótese de execução por quantia certa contra a Fazenda Pública (C. Pr. Civil, art. 730), excluídos os casos de pagamento de obrigações definidos em lei como de pequeno valor (CF/88, art. 100, § 3º) (RE 420.816, Plenário, 29.9.2004, red. p/acórdão Pertence, Inf./STF 363). No caso, contudo, tratando-se de litisconsórcio, não há nos autos elementos que permitam concluir, com segurança, pela incidência do § 3º do art. 100 da Constituição com relação a todos os litisconsortes. RE provido para, ressalvada a incidência do procedimento relativo às obrigações definidas em lei como de pequeno valor, afastar a condenação da Fazenda Pública ao pagamento da verba honorária”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de março de 2017.
+Ministra Rosa Weber
+Relatora
