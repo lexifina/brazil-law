@@ -1,0 +1,34 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Guilherme Oliveira Atencio, em favor de Gabriel Pereira Soares, contra decisão proferida pelo Ministro Reynaldo Soares da Fonseca, do STJ, que indeferiu liminarmente o HC 388.134/SP (eDOC 7, p. 1-3).
+    Preliminarmente, consta dos autos que o paciente foi preso em flagrante, convertida a custódia em prisão preventiva, pela suposta prática dos crimes previstos nos artigos 157, 147, 329 e 330 do Código Penal (eDOC 3, p. 1-3).
+    Inconformada, a defesa impetrou o HC 2253324-28.2016.8.26.0000 no TJ/SP, cujo Relator indeferiu o pedido de liminar (eDOC 2, p. 12-14).
+    O Ministério Público ofereceu denúncia (eDOC 4, p. 1-4), a qual foi recebida, conforme consta do Portal Eletrônico do TJ/SP.
+    Daí a impetração, perante o STJ, do citado HC 388.134/SP (eDOC 2, p. 2-11).
+    No presente HC, sustenta-se, em síntese, o seguinte:
+    a) superação do óbice previsto na Súmula 691/STF, diante da jurisprudência deste STF;
+    b) ausência de fundamentação da decisão que converteu a prisão em flagrante em preventiva, como exige o art. 312 do CPP;
+    c) relevância de o paciente ser primário, bem como possuir residência fixa e trabalho lícito.
+    Ao final, a parte impetrante pede a concessão da liminar para que o paciente seja posto em liberdade, até julgamento de mérito deste HC. No mérito, requer a revogação da custódia cautelar (eDOC 1, p. 11).
+    É o breve relatório.
+    Decido.
+    Trata-se de habeas corpus por meio do qual o impetrante se insurge contra decisão monocrática proferida pelo Ministro Reynaldo Soares da Fonseca, do STJ, que indeferiu liminarmente o HC 388.134/SP (eDOC 7, p. 1-3).
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC 114.867/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.8.2013; HC 131.320-AgR/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, DJe 3.3.2017 e HC 139.829/SP, Rel. Min. Dias Toffoli, DJe 6.3.2017.
+    Além disso, cumpre destacar a ausência de interposição de agravo regimental contra a decisão do STJ. Aliás, no que se refere ao tema, tenho-me posicionado, na 2ª Turma, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, DJe 13.2.2014 e HC 114.087/SP, Rel. Min. Teori Zavascki, DJe 2.10.2014), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, previsto no art. 102, inciso II, alínea a, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011 e RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, XXXV, CF), a aplicação dos entendimentos jurisprudenciais trazidos à baila pode ser afastada no caso de configuração de evidente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste habeas corpus.
+    No caso, destaco da fundamentada decisão que converteu a prisão em flagrante em preventiva, ora impugnada:
+    “O auto de prisão em flagrante encontra-se formalmente em ordem, não se vislumbrando qualquer irregularidade pois, em cognição sumária, da análise dos elementos informativos existentes nos autos, verifica-se que há prova da materialidade delitiva e indícios suficientes de autoria, como se infere dos depoimentos dos policiais e das vítimas.
+    Consta que a vítima Edivaldo, taxista e colaborador do ponto de táxi oficial do aeroporto de Congonhas, foi ameaçado por dois taxistas, os quais tentaram fugir quando Edivaldo acionou os policiais militares, já que havia suspeita de que estivessem armados. O indiciado Gabriel fugiu pela avenida correndo entre os carros, interceptou a motocicleta da vítima Rogério e entraram em luta corporal, posto que Rogério se recusou a entregar a motocicleta. O indiciado foi então abordado, mas resistiu à prisão e desferiu um soco no policial. Dentro do veículo Logan do autuado Gabriel, foi encontrada a arma de fogo calibre 22 e um revólver calibre 32 envolto em um pano.
+    No caso, estão presentes os requisitos da prisão preventiva pois trata-se, em tese, da prática de delitos dolosos cuja pena máxima, em concurso, supera os quatro anos, e há provas da materialidade e indícios da autoria.
+    Além disso, a prisão preventiva é necessária para garantia da ordem pública, para conveniência da instrução processual e para assegurar a aplicação da lei penal, em que pese a primariedade do agente, já que os fatos são graves, envolvem ameaças, posse ilegal de duas armas de fogo, bem como resistência à ação policial e tentativa de subtração de uma motocicleta para a fuga, de sorte que devem ser analisados, com a cautela necessária, pelo juiz natural da causa.
+    O crime de roubo é de extrema gravidade e violência e têm causado repúdio e enorme insegurança na sociedade. A gravidade do crime e as circunstâncias em que foi cometido evidenciam, em princípio, a periculosidade do agente, sendo suficientes para embasara custódia cautelar, no resguardo da ordem pública e até mesmo por conveniência da instrução criminal, vez que, solto, poderá se furtar a comparecer em audiência, a fim de evitar o ato de reconhecimento pessoal, sendo certo ainda que a vítima deve prestar declarações sem qualquer tipo de constrangimento.
+    Assim, considerando a gravidade em concreto dos crimes, as circunstâncias fáticas narradas e a conduta do averiguado, reveladora de periculosidade e destemor, a liberdade provisória e as medidas cautelares diversas da prisão são absolutamente inadequadas e insuficientes para o caso concreto.
+    Diante do exposto, nos termos do artigo 310, II, do CPP, CONVERTO a prisão em flagrante em PREVENTIVA, expedindo-se mandado de prisão.” (eDOC 3, p. 1-3)
+    Feitas essas considerações, ressalvo minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente HC.
+    Ante o exposto, nego seguimento ao pedido formulado neste habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 27 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+      Documento assinado digitalmente.
