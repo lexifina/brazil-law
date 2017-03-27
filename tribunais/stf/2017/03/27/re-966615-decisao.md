@@ -1,0 +1,8 @@
+Trata-se sobre os limites da coisa julgada em matéria tributária, notadamente diante de julgamento, em controle concentrado pelo Supremo Tribunal Federal, que declara a constitucionalidade de tributo anteriormente considerado inconstitucional, na via do controle incidental, por decisão transitada em julgado. Tão logo, verifico que tal matéria restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 949.297-RG, verbis:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. PRELIMINAR. RECONHECIMENTO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. LEI 7.689/88. DIREITO PROCESSUAL CIVIL. COISA JULGADA. LIMITES. INEXISTÊNCIA DE RELAÇÃO JURÍDICA. INCONSTITUCIONALIDADE INCIDENTAL. DECLARAÇÃO DE CONSTITUCIONALIDADE EM CONTROLE ABSTRATO E CONCENTRADO. ADI 15. SÚMULA 239 DO STF. 1. A matéria constitucional controvertida consiste em delimitar o limite da coisa julgada em âmbito tributário, na hipótese de o contribuinte ter em seu favor decisão judicial transitada em julgado que declare a inexistência de relação jurídico-tributária, ao fundamento de inconstitucionalidade incidental de tributo, por sua vez declarado constitucional, em momento posterior, na via do controle concentrado e abstrato de constitucionalidade exercido pelo STF. 2. Preliminar de repercussão geral em recurso extraordinário reconhecida.”
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 1.036 do CPC/2015.
+    Devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 27 de março de 2017.
+Ministra Rosa Weber
+Relatora
