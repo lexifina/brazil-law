@@ -1,0 +1,47 @@
+Recurso ordinário em mandado de segurança. Militar da força aérea. Inclusão na “quota compulsória”. Transferência para a reserva remunerada. Requisitos. Ausência de prova imediata e inequívoca dos fatos que dão suporte à impetração. Negativa de seguimento, forte no art. 932, VIII, do CPC e 21, § 1º, do RISTF.
+    Vistos etc.
+    1. Trata-se de recurso ordinário interposto contra acórdão da Terceira Seção do Superior Tribunal de Justiça que denegou a segurança pretendida no MS 14.004 (numeração na origem), forte nos fundamentos sintetizados na ementa adiante transcrita:
+    “MANDADO DE SEGURANÇA. ADMINISTRATIVO. MILITAR. ‘QUOTA COMPULSÓRIA’. DIREITO LÍQUIDO E CERTO. DEMONSTRAÇÃO. FALTA. ORDEM DENEGADA.
+    I. O instituto da ‘quota compulsória’ é ato legalmente previsto, à disposição da Administração, para a renovação, o equilíbrio, a regularidade de acesso e a adequação dos efetivos de cada Força Singular (art. 99 da Lei nº 6.880/80 – Estatuto dos Militares).
+    II. Na espécie, o requerimento administrativo do impetrante de inclusão voluntária na quota compulsória foi indeferido por não haver, na graduação imediatamente inferior, graduados que satisfizessem as condições de acesso, nos termos do artigo 48 do Decreto 881/93, que regulamenta as promoções de graduados na Aeronáutica.
+    III. Por sua vez, o impetrante não demonstrou a necessidade da quota compulsória, que só tem lugar quando o número mínimo de promoções não é atendido naturalmente com as vagas abertas no ano-base, consoante disposição do artigo 100 da Lei nº 6.880/80, nem a existência de graduados aptos a ascenderem ao posto que ocupava, razão por que não há que se falar em direito líquido e certo.
+    Ordem denegada.”
+    2. O recorrente sustenta, em síntese, que:
+    a) embora não reconhecido o seu direito pelo Superior Tribunal de Justiça, o recorrente atende a todos os requisitos exigidos pela legislação, assegurando-lhe o direito líquido e certo de ir para a reserva remunerada pela quota compulsória;
+    b) não foram objetos de impugnação pelo órgão julgador os documentos que comprovam os fatos narrados na impetração;
+    c) descumprimento, por parte do Comandante da Aeronáutica, do art. 47 do Decreto nº 881/1993, que não baixou, em Portaria a ser assinada até 15 de janeiro de 2009, as vagas para a quota compulsória referente ao ano de 2008;
+    d) os graduados promovidos a suboficial constantes da listagem do Boletim do Comando da Aeronáutica de 01/04/2008, 01/08/2008 e 01/12/2008 demonstram o requisito da existência de militares na graduação imediatamente abaixo da sua;
+    e) no ano de 2008 foi deferido pedido de inclusão voluntária na quota compulsória a outro militar oriundo da mesma escola de formação de especialistas da Aeronáutica em que o impetrante estudou, o que teria afrontado ao princípio da isonomia.
+    3. A União apresentou contrarrazões (fls. 294-305).
+    4. O Ministério Público, em parecer do Subprocurador-Geral da República Paulo da Rocha Campos, opinou pelo desprovimento do recurso ordinário (fls. 312-14).
+    É o relatório.
+    Decido.
+    1. A chamada “quota compulsória” dos graduados da Aeronáutica é destinada a assegurar a renovação, o equilíbrio, a regularidade de acesso e a adequação dos efetivos de cada Força Singular, consoante disciplinado no Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980). Para sua aplicação, o mencionado diploma legal exige o cumprimento dos seguintes requisitos:
+    “Art. 99. A quota compulsória, a que se refere o item V do artigo anterior, é destinada a assegurar a renovação, o equilíbrio, a regularidade de acesso e a adequação dos efetivos de cada Força Singular.
+    Art. 100. Para assegurar o número fixado de vagas à promoção na forma estabelecida no artigo 61, quando este número não tenha sido alcançado com as vagas ocorridas durante o ano considerado ano-base, aplicar-se-á a quota compulsória a que se refere o artigo anterior.
+    § 1º A quota compulsória é calculada deduzindo-se das vagas fixadas para o ano-base para um determinado posto:
+    a) as vagas fixadas para o posto imediatamente superior no referido ano-base; e
+    b) as vagas havidas durante o ano-base e abertas a partir de 1º (primeiro) de janeiro até 31 (trinta e um) de dezembro, inclusive.
+    § 2º Não estarão enquadradas na letra b do parágrafo anterior as vagas que:
+    a) resultarem da fixação de quota compulsória para o ano anterior ao base; e
+    b) abertas durante o ano-base, tiverem sido preenchidas por oficiais excedentes nos Corpos, Quadros, Armas ou Serviços ou que a eles houverem revertido em virtude de terem cessado as causas que deram motivo à agregação, observado o disposto no § 3º deste artigo.
+    § 3º As vagas decorrentes da aplicação direta da quota compulsória e as resultantes das promoções efetivadas nos diversos postos, em face daquela aplicação inicial, não serão preenchidas por oficiais excedentes ou agregados que reverterem em virtude de haverem cessado as causas da agregação.
+    § 4º As quotas compulsórias só serão aplicadas quando houver, no posto imediatamente abaixo, oficiais que satisfaçam às condições de acesso.”
+    2. Por seu turno, o Decreto nº 881/1993, que dispõe sobre o Regulamento de Promoção dos Graduados da Aeronáutica, também traz dispositivos acerca da quota compulsória, em especial os artigos 47 a 49, que transcrevo:
+    “Art. 47. A quota compulsória, estabelecida por graduação, será fixada em portaria do Ministro da Aeronáutica, até o dia 15 de janeiro de cada ano, deduzindo-se do número mínimo de vagas fixado para aquele ano:
+    I - as vagas fixadas para a graduação imediatamente superior;
+    II - as vagas havidas no período de 1º de janeiro a 31 de dezembro do ano anterior.
+    Art. 48. A quota compulsória só será aplicada quando houver, na graduação imediatamente abaixo, graduados que satisfaçam as condições de acesso.
+    Art. 49. A Dirap elaborará, até 31 de janeiro de cada ano, a lista dos graduados destinados a integrar a quota compulsória.”
+    3. Analisado o direito aplicável à espécie e cotejando-o com a documentação constante dos autos, não se afigura evidenciada a liquidez e certeza dos fatos em que se assenta a impetração. Os autos dão conta de que o Comandante da Aeronáutica não fixou as “quotas compulsórias” de diversas graduações, ante a ausência, nos termos do art. 100, caput, da Lei nº 6.880/1980, de vagas à promoção disponíveis para justificar tal fixação.
+    4. Em acréscimo, o impetrante não demonstrou o preenchimento do requisito constante do art. 48 do Decreto nº 881/1993. Colhe-se das informações prestadas pela autoridade impetrada que a Diretoria de Administração do Pessoal – DIRAP, no 2º Despacho 40/2PM1/2272, de 15 de maio de 2008, noticiou a inexistência de militares da Força Aérea Brasileira, na graduação imediatamente inferior, que satisfizessem as condições de acesso para promoção, razão pela qual não foi editada, até 15 de janeiro de 2008, portaria fixando vagas de “quota compulsória” para aquele ano.
+    5. Assim, inexistente a prova da liquidez e certeza dos fatos em que se assenta a impetração. É intransponível a inadequação do mandado de segurança para discussão de matéria que necessariamente depende de dilação probatória. Nesse sentido:
+    “EMENTA Agravo regimental em mandado de segurança. Ausência de cópia da decisão apontada como coatora. Impossibilidade de dilação probatória em mandado de segurança. 1. A cópia do inteiro teor da decisão apontada como coatora é imprescindível à instrução da petição inicial do mandado de segurança e sua falta não pode ser suprida em momento posterior à impetração. 2. O mandado de segurança exige a comprovação de plano do quanto alegado, mediante provas pré-constituídas. Não se admite dilação probatória incidental nessa via processual. 3. Agravo regimental ao qual se nega provimento”. (MS 32954 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 05/04/2016, PROCESSO ELETRÔNICO DJe-083 DIVULG 28-04-2016 PUBLIC 29-04-2016).
+    “EMENTA: RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. POLICIAL RODOVIÁRIO. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. INEXISTÊNCIA DE NULIDADES. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA. PRECEDENTES. RECURSO AO QUAL SE NEGA PROVIMENTO”. (RMS 30974, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 02/10/2012, PROCESSO ELETRÔNICO DJe-222 DIVULG 09-11-2012 PUBLIC 12-11-2012).
+    “Recurso ordinário em mandado de segurança. 2. Servidor público. Processo administrativo-disciplinar. 3. Demissão. Competência de Ministro de Estado. Art. 84, CF e Decreto 3.035/99. 4. Ausência de violação ao devido processo legal. 5. Órgão julgador não está vinculado à decisão da comissão processante. Possibilidade de alteração da penalidade, desde que haja fundamentação. Art. 168 da Lei 8.112/90. 6. Necessidade de dilação probatória. Providência vedada no âmbito do mandado de segurança. 7. Recurso improvido”. (RMS 24619, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 11/10/2011, DJe-221 DIVULG 21-11-2011 PUBLIC 22-11-2011 EMENT VOL-02630-01 PP-00047).
+    6. Inaplicável o art. 85, § 11, do CPC/2015, por se tratar de recurso interposto em mandado de segurança (art. 25 da Lei 12.016/2009 e Súmula 512/STF).
+    7. Ante o exposto, forte nos arts. 932, VIII, do CPC e 21, § 1º, do RISTF, nego seguimento ao presente recurso ordinário em mandado de segurança.
+    Publique-se.
+    Brasília, 27 de março de 2017.
+Ministra Rosa Weber
+Relatora
