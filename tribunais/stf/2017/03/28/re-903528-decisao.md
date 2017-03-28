@@ -1,0 +1,11 @@
+Vistos etc.
+    Os temas versados na presente hipótese – (i) a arguição de inconstitucionalidade da contribuição social prevista no artigo 1º da Lei Complementar nº 110/01, em face do exaurimento da finalidade a ela subjacente; e (ii) a taxatividade do rol de bases econômicas do artigo 149, § 2º, da Constituição Federal, com o advento da Emenda Constitucional nº 33/2001 – encontram-se submetidos à sistemática da repercussão geral no RE 878.313 e no RE 603.624, respectivamente, assim ementados:
+    “CONTRIBUIÇÃO SOCIAL – ARTIGO 1º DA LEI COMPLEMENTAR Nº 110/2001 – FINALIDADE EXAURIDA – ARTIGOS 149 E 154, INCISO I, DA CARTA DE 1988 – ARGUIÇÃO DE INCONSTITUCIONALIDADE SUPERVENIENTE – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia relativa a saber se, constatado o exaurimento do objetivo – custeio dos expurgos inflacionários das contas vinculadas do Fundo de Garantia do Tempo de Serviço – em razão do qual foi instituída a contribuição social versada no artigo 1º da Lei Complementar nº 110, de 29 de junho de 2001, deve ser assentada a extinção do tributo ou admitida a perpetuação da cobrança ainda que o produto da arrecadação seja destinado a fim diverso do original.” (RE 878.313-RG, Rel. Min. Marco Aurélio, DJe 22.9.2015.)
+    “TRIBUTÁRIO. CONTRIBUIÇÕES. BASES ECONÔMICAS. ART. 149, § 2º, III, A, DA CONSTITUIÇÃO FEDERAL, INSERIDO PELA EC 33/01. FOLHA DE SALÁRIOS. CONTRIBUIÇÕES AO SERVIÇO BRASILEIRO DE APOIO ÀS MICRO E PEQUENAS EMPRESAS - SEBRAE, À AGÊNCIA BRASILEIRA DE PROMOÇÃO DE EXPORTAÇÕES E INVESTIMENTOS - APEX E À AGÊNCIA BRASILEIRA DE DESENVOLVIMENTO INDUSTRIAL - ABDI INCIDENTES SOBRE A FOLHA DE SALÁRIOS. EXISTÊNCIA DE REPERCUSSÃO GERAL.” (RE 603.624-RG, Rel. Min. Ellen Gracie, DJe 23.11.2010.)
+    Cito algumas decisões nesse sentido: RE 863.372/RS, Rel. Min. Luiz Fux, DJe 31.5.2016; RE 902.053/RS, Rel. Min. Ricardo Lewandowski, DJe 11.11.2016; e RE 1.023.865/SC, de minha lavra, DJe 1º.3.2017.
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 543-B do Código de Processo Civil de 1973.
+    Por todo o exposto, devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 28 de março de 2017.
+Ministra Rosa Weber
+Relatora
