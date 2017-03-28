@@ -1,0 +1,17 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, complementado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “TRIBUTÁRIO – CSLL e IRPJ – BASE DE CÁLCULO – SERVIÇOS HOSPITALARES – ABRANGÊNCIA – ART. 15, § 1º, III, 'A', e ARTIGO 20 DA LEI Nº 9.249/95 – LEI Nº 11.727/08.
+    1. Entende-se por serviços hospitalares aqueles que estão relacionados às atividades desenvolvidas nos hospitais, ligados diretamente à promoção da saúde, essencial à população, nos termos do art. 6º da Constituição Federal, podendo ser prestados no interior do estabelecimento hospitalar, mas não havendo esta obrigatoriedade. Precedentes da Primeira Seção do STJ.
+    2. As empresas que prestam serviços de análises clínicas têm direito de recolher o IRPJ e a CSLL, respectivamente, no percentual de 8% e 12% sobre a receita bruta.
+    3. Em face da superveniente alteração na redação do inciso II, alínea 'a', do artigo 15 da Lei nº 9.249/95, por força da Lei nº 11.727/08, passou-se a exigir, para a aplicação do percentual reduzido, que a 'prestadora destes serviços seja organizada sob a forma de sociedade empresária e atenda às normas da Agência Nacional de Vigilância Sanitária – Anvisa'.
+    4. Hipótese em que a autora não comprovou se inserir na categoria das sociedades empresárias, descumprido, pois, um dos pressupostos legais para o acolhimento do pedido no ponto.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que recurso extraordinário revela-se insuscetível de conhecimento.
+    É que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no AI 803.140-RG/RS, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional e de causa decidida à luz dos fatos e das provas existentes nos autos, fazendo-o em decisão assim ementada:
+    “Tributário. 2. Exceção prevista no artigo 15, § 1º, inciso III, alínea ‘a’, da Lei 9.249/95, que prescreve os sujeitos passivos da Contribuição Social sobre o Lucro Líquido (CSLL) e do Imposto de Renda Pessoa Jurídica (IRPJ) com bases de cálculo, respectivamente, de 12% e de 8% sobre receita bruta. Definição de serviços hospitalares e afins. 3. Discussão que se circunscreve ao âmbito normativo infraconstitucional, bem como que demanda o reexame dos aspectos fático-probatórios subjacentes aos requisitos do enquadramento pretendido. 4. Ausência de contencioso constitucional. Repercussão geral rejeitada.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 28 de março de 2017.
+Ministro CELSO DE MELLO
+Relator
