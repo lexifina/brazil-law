@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DEFESA DE APROVADOS EM VESTIBULAR DE INSTITUIÇÃO FEDERAL. CERTIFICADO DE CONCLUSÃO DO ENSINO MÉDIO. GREVE PROFESSORES E SERVIDORES. ATRASO NO CALENDÁRIO ESCOLAR. SITUAÇÃO EXCEPCIONAL. FORÇA MAIOR. PRINCÍPIO DA RAZOABILIDADE. LEGITIMIDADE ATIVA DA DEFENSORIA PÚBLICA DA UNIÃO - DPU.
+    I. Trata-se de remessa oficial e apelação de sentença que julgou procedente o pedido, para condenar a UFS a realizar a matrícula dos alunos do IFS, nos cursos para os quais foram aprovados no processo seletivo do ano de 2012, mediante a apresentação de ‘Declaração de Concluinte de Curso’, desde que cumpridos os demais requisitos ali constantes, ficando a validade da aludida matrícula condicionada à apresentação do documento exigido no item 5.1 ‘a’ do Edital nº 27/2011 (certificado de conclusão do ensino médio), dentro do prazo de 120 dias, contados da matrícula, sob pena de cancelamento.
+    II. Sustenta o recorrente, em suma, que para restar caracterizada a legitimidade da Defensoria Pública da União ajuizar ação civil pública no caso concreto, seria necessário que os beneficiários fossem individualizados e comprovada sua hipossuficiência financeira. Requer a exclusão da DPU da lide. Tendo em vista a presença do MPF no polo ativo da ação, defende o prosseguimento do feito.
+    III. A Lei 11.448/07 alterou o art. 5º da Lei 7.347/85 para incluir a Defensoria Pública como legitimada ativa para a propositura da ação civil pública. A Constituição Federal estabelece no art. 134 que ‘A Defensoria Pública é instituição essencial à função jurisdicional do Estado, incumbindo-lhe a orientação jurídica e a defesa, em todos os graus, dos necessitados, na forma do art. 5º, LXXIV’. Estabelece, ademais, como garantia fundamental, o acesso à justiça (art. 5º, XXXV, da CF), que se materializa por meio da devida prestação jurisdicional quando assegurado ao litigante, em tempo razoável (art. 5º, LXXVIII, da CF), mudança efetiva na situação material do direito a ser tutelado (princípio do acesso à ordem jurídica justa).
+    IV. No caso, resta evidente que pelo menos parte dos interessados, alunos de Instituto Federal, é hipossuficiente, além de se tratar de interesse individual e homogênio, o que caracteriza a hipótese fática de legitimação da DPU no polo ativo da lide.
+    […].”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que ocorreu violação aos arts. 5º, LXXIV, e 134 da Constituição Federal.
+    O recurso extraordinário é inadmissível. Para dissentir da conclusão adotada pelo Tribunal de origem, quanto à comprovação da condição hipossuficiente dos interessados na presente lide, seria necessário o reexame de fatos e provas dos autos (Súmulas 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 28 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
