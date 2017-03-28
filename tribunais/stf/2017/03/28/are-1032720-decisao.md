@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “REVELIA – Ausência de impugnação específica por parte dos réus – Circunstância, todavia, que, em sede de ação rescisória, não conduz ao resultado pretendido pela autora – Caráter excepcional da demanda – Incompatibilidade dos efeitos da revelia com a presunção de certeza e exigibilidade que decorre da autoridade da coisa julgada material questionada pela ação rescisória, competindo à demandante demonstrar os fatos constitutivos de seu direito (art. 333, I, do CPC).
+    AÇÃO RESCISÓRIA – Acórdão proferido em sede de agravo regimental pela E. Nona Câmara de Direito Público – Pretensão à rescisão da decisão colegiada e realização de novo julgamento, com fundamento no artigo 485, inciso V e IX, do CPC – Improcedência da ação que se impõe – Acórdão que decidiu a questão em relação ao recálculo dos vencimentos/proventos dos servidores municipais, nos termos da lei federal n. 8.880/94 – Inexistência de qualquer mácula a redundar no acolhimento das teses esboçadas na inicial – Ação que tem por objetivo reexame da matéria de direito apresentada na ação originária – Inadmissibilidade – PEDIDO IMPROCEDENTE.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, II, LIV e LV; 18; 30; 37, X; 39; e 169, § 1º, da Constituição.
+    A decisão agravada negou seguimento ao recurso por entender que eventual ofensa à Constituição seria indireta.
+    O recurso não merece acolhida. Os dispositivos constitucionais tidos por violados não foram apreciados pelo Tribunal de origem. Tampouco foram opostos embargos de declaração para sanar eventual omissão. O recurso extraordinário carece, portanto, de prequestionamento. Incidem, no caso, as Súmulas 282 e 356/STF.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que controvérsia sobre cabimento de ação rescisória se enquadra no âmbito infraconstitucional, o que não permite a abertura da via recursal extraordinária. Vejam-se, nesse sentido, os seguintes precedentes: AI 598.496, Rel. Min. Ayres Britto; ARE 682.529-AgR, Rel. Min. Marco Aurélio; ARE 695.427-AgR, Rel.ª Min.ª Rosa Weber; ARE 700.610-AgR, Rel. Min. Luiz Fux; e RE 772.197-AgR, julgado sob a relatoria do Ministro Dias Toffoli, assim ementado:
+    “Agravo regimental no recurso extraordinário. Ação rescisória. Hipóteses de cabimento. Legislação infraconstitucional. Princípios da ampla defesa e do contraditório. Ofensa reflexa. Precedentes.
+    1. A análise das hipóteses de cabimento da ação rescisória é matéria afeta à legislação infraconstitucional, de exame inviável no recurso extraordinário, uma vez que a afronta ao texto constitucional, caso houvesse, se daria de forma indireta ou reflexa.
+    2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República, o que não enseja o reexame da questão em recurso extraordinário.
+    3. Agravo regimental não provido.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 28 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
