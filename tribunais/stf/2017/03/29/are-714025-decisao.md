@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido à Turma Recursal do Juizado Especial Federal Cível da Seção Judiciária do Paraná, para que se cumprisse o disposto no art. 543-B do CPC 1973, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral pelo tema 540, cujo paradigma é o ARE-RG 641.243, Rel. Min. Dias Toffoli, DJe 30.4.2012 (eDOC 83).
+    Encaminhados os autos ao Tribunal de origem, a parte recorrida apresentou petição questionando a ausência de apreciação quanto deserção do recurso extraordinário, por ocasião do seu exame de admissibilidade, alegando a inexistência do recolhimento do preparo pela ora recorrente (eDOC 213). Assim, em um novo exame, a Presidência das Turmas Recursais do Paraná deixou de receber o apelo extremo, por julgá-lo deserto (eDOC 215).
+    Contra essa decisão, a parte recorrente interpôs agravo nos próprios autos, afirmando o devido recolhimento das custas (eDOC 217). Em despacho constante do eDOC 219, o Tribunal a quo determinou o envio dos autos a esta Corte.
+    Desse modo, torno sem efeito a devolução constante do eDOC 83 e passo à apreciação do recurso.
+    Trata-se de agravo contra inadmissibilidade recurso extraordinário que impugna acórdão da Turma Recursal do Juizado Especial Federal Cível da Seção Judiciária do Paraná, que deu provimento a recurso acerca da exibilidade dos valores de anuidade cobrados pelo conselho regional de classe, fora dos limites previstos na Lei 6.994/82 (eDOC 41).
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, b, da Constituição Federal, sustenta-se violação aos artigos 146, III, do texto constitucional (eDOC 64).
+    Nas razões recursais, alega-se que a Lei 11.000/04, que atribui ao recorrente o poder de fixar as anuidades de seus inscritos, não é inconstitucional.
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 18.3.2016.
+    No caso, registro que, no julgamento AI-QO 209.885/RJ, Rel. Min. Marco Aurélio, DJ 10.5.2002, o Plenário do Supremo Tribunal Federal consolidou o entendimento de que, nos termos do disposto no artigo 511 do Código de Processo Civil/1973 e, ainda, com amparo na norma do artigo 59 do Regimento Interno desta Corte, o preparo do recurso extraordinário deve ser efetuado dentro do prazo previsto para sua interposição. Eis a ementa dessa decisão:
+    “RECURSO EXTRAORDINÁRIO - PREPARO. Conjugam-se os artigos 59 do Regimento Interno do Supremo Tribunal Federal e 511 do Código de Processo Civil. Impõe-se a comprovação do preparo do extraordinário no prazo relativo à interposição deste. O fato de não haver coincidência entre o expediente forense e o de funcionamento das agências bancárias longe fica de projetar o termo final do prazo concernente ao preparo para o dia subseqüente ao do término do recursal”.
+    No mesmo sentido, destaco precedentes de ambas as Turmas do Tribunal:
+    “Agravo regimental a que se nega provimento por considerar, esta Corte, deserto o recurso extraordinário cujo preparo foi efetuado no dia seguinte ao término do prazo recursal”. (AI-AgR 325.661, Rel. Min. Ellen Gracie, Primeira Turma, DJ 15.3.2002)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. 1. AUSÊNCIA DE PREPARO. DESERÇÃO. 2. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL). 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE-AgR 715.522, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4.12.2012)
+    Agravo regimental no recurso extraordinário com agravo. Porte de remessa e retorno do recurso extraordinário. Comprovação no ato de interposição. Ausência. Deserção. Precedentes. 1. O preparo do recurso extraordinário deve ocorrer concomitantemente à sua interposição. Sua não efetivação, conforme os ditames legais, enseja a deserção do recurso. 2. Agravo regimental não provido”. (ARE-AgR 707.484, Rel. Min. Dias Toffoli, Primeira Turma, DJe 28.6.2013) (grifo nosso)
+    Assim, constata-se que a jurisprudência desta Corte é no sentido de que o recurso extraordinário não pode ser admitido quando o preparo não é feito de forma correta.
+    Ante o exposto, torno sem efeito a devolução constante do eDOC 83 e nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
