@@ -1,0 +1,17 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS - INEXISTÊNCIA DE VÍCIO - DESPROVIMENTO.
+    1. Em 24 de setembro de 2008, proferi a seguinte decisão:
+RECURSO EXTRAORDINÁRIO – LEI Nº 9.430/96 – COFINS – ISENÇÃO – REVOGAÇÃO – SOCIEDADES DE PRESTAÇÃO DE SERVIÇOS DE PROFISSÃO LEGALMENTE REGULAMENTADA – CONHECIMENTO E PROVIMENTO NOS AUTOS DE AGRAVO PROVIDO.
+    1. O Tribunal, na sessão plenária de 17 de setembro de 2008, apreciando os Recursos Extraordinários nºs 377.457-3/PR e 381.964-0/MG, concluiu mostrar-se legítima a revogação, mediante o artigo 56 da Lei nº 9.430/96, da isenção da Contribuição para o Financiamento da Seguridade Social - COFINS relativa às sociedades de prestação de serviços de profissão legalmente regulamentada, estabelecida no artigo 6º, inciso II, da Lei Complementar nº 70/91. Prevaleceu o entendimento de que a norma, embora inserida formalmente em lei complementar, era materialmente ordinária, podendo, portanto, ser revogada por legislação dessa natureza.
+    2. Ante o precedente e ressalvando a óptica pessoal, reconsidero o ato de folhas 204 e 205. Conheço deste agravo e o provejo, consignando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Aciono o disposto nos artigos 544, § 3º e § 4º, e 557, § 1º-A, do Código de Processo Civil e examino, desde logo, o extraordinário, conhecendo-o e provendo-o para, reformando o acórdão de origem, assentar a legitimidade da revogação da isenção da COFINS, implementada pelo artigo 56 da Lei nº 9.430/96, consideradas as sociedades de prestação de serviços de profissão legalmente regulamentada. Custas pela recorrida.
+    3. Publiquem.
+    A embargante aponta omissão no julgado. Aduz não ter sido apreciada a natureza infraconstitucional do tema sob exame.
+    A parte embargada, instada a manifestar-se, não apresentou contrarrazões (certidão de folha 231).
+    2. Na interposição destes embargos, observaram-se os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente credenciado, foi protocolada no prazo legal. Conheço.
+    O Tribunal, na sessão plenária de 19 de outubro de 2016, ao apreciar os embargos declaratórios formalizados considerados os mencionados extraordinários, concluiu inexistente contradição no exame do mérito, desprovendo-os. Ficou mantida a óptica adotada na sessão de 17 de setembro de 2008, no sentido de rejeitar-se o pedido de modulação dos efeitos do ato por meio do qual se declarou legítima a revogação da isenção.
+    A par deste aspecto, embora tenha sido indicado preceito alusivo ao cabimento de embargos de declaração, desenvolve-se narrativa destoante do propósito de sanar obscuridade, contradição ou omissão. Conforme consignei na decisão proferida, o Plenário do Supremo, ao apreciar os extraordinários de nº 377.457-3/PR e nº 381.964-0/MG, assentou o viés constitucional da temática, entendendo ser legítima a revogação, pela Lei nº 9.430/1996, da isenção da Contribuição para o Financiamento da Seguridade Social – Cofins relativa às sociedades de prestação de serviços de profissão legalmente regulamentada, estabelecida na Lei Complementar nº 70/1991. Sob esta óptica, o pronunciamento do Superior Tribunal de Justiça revela interpretação conflituosa com o precedente do Supremo, merecendo ser reformado.
+    3. Ante o quadro, ausente qualquer vício no julgado, desprovejo os declaratórios.
+    4. Publiquem.
+Brasília, 29 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
