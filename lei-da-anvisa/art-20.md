@@ -1,1 +1,1 @@
-Art. 20. O descumprimento injustificado do contrato de gestão implicará a exoneração do Diretor-Presidente, pelo Presidente da República, mediante solicitação do Ministro de Estado da Saúde.
+Art. 20. O descumprimento injustificado das metas e das obrigações pactuadas no contrato de gestão em dois exercícios financeiros consecutivos implicará a exoneração dos membros da Diretoria Colegiada pelo Presidente da República, mediante solicitação do Ministro de Estado da Saúde.
