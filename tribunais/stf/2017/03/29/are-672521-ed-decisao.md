@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de embargos de declaração opostos em 17.12.2015, cujo objeto é decisão monocrática que determinou o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC/1973, uma vez que esta Corte, no julgamento do RE 662.055 (Tema 837), reconheceu a existência de repercussão geral da controvérsia relativa à definição dos limites da liberdade de expressão em contraposição a outros direitos de igual hierarquia jurídica – como os da inviolabilidade da honra e da imagem.
+    O embargante sustenta que não há similitude fática entre as controvérsias. Alega que, “em se tratando de controvérsias semelhantes, mas não idênticas, pode ser que aquilo que for decidido para o recurso paradigma (RE 662.055 – SP) não seja suficiente para solucionar o conflito entre normas constitucionais do presente recurso e outros recursos que também versem sobre a veiculação de imagens sem autorização em propagandas comerciais”.
+    De fato, não há identidade material entre as controvérsias, dessa forma, a decisão agravada deve ser reconsiderada.
+    Passo à analise do recurso.
+    O Tribunal de origem, ao analisar o caso, assentou que: “como se vê, nos termos do voto, haverá dano moral ‘desde que exista’ ‘desconforto, aborrecimento ou constrangimento’. No caso dos autos, tal situação não ocorreu. Com efeito, os e-mails trocados pelo autor e seus amigos demonstram que o fato não trouxe qualquer ‘desconforto, aborrecimento ou constrangimento’. Ao contrário, foi motivo de alegria e descontração”.
+    Como se percebe claramente, a matéria controvertida depende da análise do conjunto fático-probatório, o que afasta o cabimento do recurso extraordinário. Veja-se, nesse sentido, a ementa do ARE 739.382-RG, Rel. Min. Gilmar Mendes, em que o Supremo Tribunal Federal afirmou a ausência de repercussão geral da controvérsia:
+    “Recurso Extraordinário com agravo. 2. Dano moral. 3. Liberdade de expressão. 4.Crítica contundente. 5. Discussão não ultrapassa o interesse subjetivo das partes. 6. Não compete ao Supremo Tribunal Federal revolver a matéria fática para verificar a ocorrência de dano à imagem ou à honra, a não ser em situações excepcionais, nas quais se verifique esvaziamento do direito a imagem e, portanto, ofensa constitucional direta. 7. Ausência de repercussão geral da questão suscitada. 8. Recurso extraordinário não conhecido.”
+    Diante do exposto, reconsidero a decisão recorrida e, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. Julgo prejudicados os presentes embargos.
+    Publique-se.
+          Brasília, 29 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
