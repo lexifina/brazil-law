@@ -1,0 +1,28 @@
+Decisão:
+Ementa: Execução Penal. Habeas Corpus. Homicídio qualificado. Progressão de regime. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Joel Ilan Paciornik, assim ementado:
+    “HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME INDEFERIDA. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. DECISÃO DEVIDAMENTE FUNDAMENTADA EM DADOS CONCRETOS. CONTURBADO HISTÓRICO PRISIONAL DO PACIENTE. PRÁTICA DE FALTA GRAVE. DANO AO PATRIMÔNIO PÚBLICO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. ORDEM NÃO CONHECIDA.
+    1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça, sem prejuízo da verificação das alegações expostas na inicial ante a possibilidade de se verificar a existência de flagrante constrangimento ilegal.
+    2. Esta Corte superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+    3. Na hipótese, o pedido de progressão de regime foi indeferido ao paciente pela ausência do preenchimento do requisito subjetivo, tendo sido levado em consideração o comportamento carcerário do apenado, notadamente diante do cometimento de falta grave no curso da execução, consistente em dano ao patrimônio público. Assim, evidenciada a idoneidade da fundamentação utilizada na origem, não há falar em flagrante ilegalidade que justifique a concessão da ordem de ofício. Para se modificar os fundamentos utilizados pelas instâncias ordinárias quanto ao preenchimento do requisito subjetivo do paciente, mostra-se necessário o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+    Habeas corpus não conhecido.”
+    2. Extrai-se dos autos que o paciente – condenado à pena de 26 (vinte e seis) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, pela prática de crimes de homicídio qualificado – requereu ao Juízo da Primeira Vara de Execuções Criminais de Presidente Prudente/SP a progressão para o regime semiaberto. O pedido foi indeferido porque o sentenciado não preenchia o requisito subjetivo exigido pelo art. 112 da Lei de Execução Penal.
+    3. Dessa decisão, foi interposto agravo em execução no Tribunal de Justiça do Estado de São Paulo, não provido.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça, não conhecido.
+    5. Neste habeas corpus, a parte impetrante sustenta que o paciente preenche os requisitos necessários à progressão de regime. Daí o pedido de concessão da ordem para que se conceda ao acionante o regime semiaberto.
+    Decido.
+    6. A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal (HC 109.956, Rel. Min. Marco Aurélio). A hipótese, portanto, é de extinção do processo sem resolução do mérito por inadequação da via eleita.
+    7. Por outro lado, não é o caso de concessão da ordem de ofício. As instâncias de origem indeferiram o pedido de progressão de regime, por entenderem que o paciente não preenche o requisito subjetivo exigido pelo art. 112 da Lei de Execução Penal. Transcrevo, nesse sentido, o seguinte trecho da decisão do Juiz da Execução:
+    “[...]
+    Com efeito, muito embora o sentenciado preencha o requisito objetivo, não reúne méritos subjetivos para alcançar a progressão.
+    Anoto que o sentenciado possui considerável pena por cumprir (20.12.2035) e histórico prisional desfavorável eis que registra a prática de falta disciplinar de natureza grave, evidenciando ausência de senso de responsabilidade e inadequação à terapêutica penal aplicada.
+    Sendo que diante da situação específica do sentenciado apesar do atestado de bom comportamento carcerário não se pode dizer somente com base nele que está preenchido o requisito subjetivo, pois a falta disciplinar anotada em seu prontuário demonstra com fato concreto que o sentenciado ainda não desenvolveu meios próprios de autocensura.
+    E mais, tratando-se de homicídios qualificados – tentados e consumado (crimes cometidos com violência ou grave ameaça à pessoa e de natureza hedionda) demonstram a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar seu merecimento à progressão para regime mais brando.
+    Diante do exposto, por ora, INDEFIRO a promoção do sentenciado supra qualificado ao regime semiaberto.”
+     8. Nessas condições, não há como negar que as decisões proferidas nas instâncias de origem estão embasadas em dados objetivos da causa, de modo que inexiste ilegalidade flagrante a ser reparada neste habeas corpus (vg RHC 121.851, Rel. Min. Luiz Fux; HC 116.432, Relª. Minª. Rosa Weber; RHC 119.610, Rel. Min. Teori Zavascki; HC 117.336, Rel. Min. Ricardo Lewandowski).
+    9. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 29 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
+                Documento assinado digitalmente
