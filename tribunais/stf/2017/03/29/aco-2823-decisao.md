@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    O Estado autor apresentou petição de aditamento à inicial (Pet nº 2.420/17), requerendo a inclusão do Fundo Nacional de Desenvolvimento da Educação – FNDE no polo passivo da presente ação cível originária (documento eletrônico nº 37).
+    Instada a se manifestar, a União informou que
+    “(...) a parte autora optou pela alteração da petição inicial para incluir, como litisconsorte passivo, a parte legítima indicada pela União, conforme autoriza o art. 339, § 2º do CPC.
+    Ocorre que não se trata de situação para se alterar o pedido ou a causa de pedir, mas, sim, de substituição do polo passivo da presente ação, a teor dos arts. 338 e 339 do CPC.
+    Sendo assim, a União, não obstante anuir com o pedido da parte autora, reitera seu pedido anterior para ser excluída da presente lide, reconhecendo-se sua ilegitimidade passiva, tendo em vista que a Fundação de Assistência ao Estudante (FAE), atual Fundo Nacional de Desenvolvimento da Educação (FNDE) é uma autarquia federal, dotada de personalidade jurídica e atrimônio próprios, destacados da União, nos termos da Lei 5.537/1968 e representada pela Procuradoria-Geral Federal (art. 10 da Lei 10.480/2002).”(fls. 02-03 - doc. eletrônico nº 42).
+    De início, afasto a preliminar de ilegitimidade passiva da União.
+    Isso porque, consoante larga jurisprudência desta Corte, é a União que organiza e mantém cadastros de inadimplência, como o CAUC/SIAFI, sendo essa inscrição verificada pelos entes federais, em consulta prévia à realização de operações de crédito que envolvam a utilização de recursos públicos, para concessão de incentivos fiscais e financeiros ou mesmo para a celebração de convênios, acordos, ajustes ou contratos que envolvam desembolso, a qualquer título, de recursos públicos, e respectivos aditamentos.
+    Destaco, nesse sentido, trecho do voto proferido pelo relator da ACO nº 1.995-AgR/BA, o Ministro Marco Aurélio:
+    “Afasto a preliminar de ilegitimidade passiva da ré. Embora o Fundo Nacional de Desenvolvimento da Educação – FNDE possua personalidade jurídica própria, cabe à União, na qualidade de gestora, proceder à inscrição no Cadastro única de Convênios – CAUC e no Sistema Integrado de Administração Financeira – SIAFI.” (ACO nº 1.995-AgR/BA, Tribunal Pleno, Relator o Ministro Marco Aurélio, DJe de 4/8/15).
+    No mesmo sentido, salientou o Ministro Luiz Fux por ocasião do julgamento da ACO nº 2.165-AgR/RR:
+    “De início, em relação à preliminar de ilegitimidade passiva da União, verifico que não lhe assiste razão. Isso porque não pairam dúvidas de que os Sistemas SIAFI/CAUC/CADIN são organizados e mantidos pela União, conforme suas leis de regência. Sendo assim, o eventual provimento jurisdicional pode e deve ser cumprido pela ré. Afasto, portanto, tal preliminar.” (ACO nº 2.165-AgR/RR, Primeira Turma, Relator o Min. Luiz Fux, DJe de 16/9/15).
+    Na mesma linha, o seguinte julgado:
+    “REFERENDO NA MEDIDA CAUTELAR NA AÇÃO CÍVEL ORIGINÁRIA. INSCRIÇÃO DE ESTADO-MEMBRO NO SISTEMA INTEGRADO DE ADMINISTRAÇÃO FINANCEIRA - SIAFI. LEGITIMIDADE PASSIVA DA UNIÃO. ÓBICE AO REPASSE DE VERBAS E À CELEBRAÇÃO DE CONVÊNIOS. SUSPENSÃO DO REGISTRO DE INADIMPLÊNCIA. MEDIDA CAUTELAR. REFERENDO. AGRAVO REGIMENTAL PREJUDICADO. 1. A União detém legitimidade para figurar no polo passivo da ação na qual se pleiteia a suspensão da inscrição de Estado-Membro no Sistema Integrado de Administração Financeira - Siafi, no Cadastro Informativo de Créditos não Quitados do Setor Público Federal - Cadin ou no Serviço Auxiliar de Informações para Transferências Voluntárias - Cauc. 2. O Supremo Tribunal Federal reconhece conflito federativo em situações nas quais a União, valendo-se de registros de apontadas inadimplências dos Estados no Sistema Integrado de Administração Financeira-Siafi, impossibilita o repasse de verbas federais e a celebração de convênios. 3. O registro da entidade federada, pela alegada inadimplência, nesse cadastro federal pode sujeitá-la a efeitos gravosos, com desdobramentos para a transferência de recursos. 4. Em cognição primária e precária, estão presentes os requisitos para o deferimento da medida cautelar. 5. Medida cautelar referendada. Agravo regimental prejudicado.” (ACO nº 2.733-MC-Ref/AC, Tribunal Pleno, Relatora a Min. Cármen Lúcia, DJe de 22/9/16 – grifei).
+    Mantenho, destarte, a União no polo passivo da presente ação, uma vez que o Estado autor pleiteia a suspensão de sua inscrição em cadastros de inadimplentes por ela mantidos.
+    Outrossim, defiro o pedido de inclusão do Fundo Nacional de Desenvolvimento da Educação – FNDE no polo passivo da demanda, nos termos em que requerido na petição de aditamento.
+    Cite-se o FNDE, nos termos do art. 242, § 3º, do CPC atual.
+    Intimem-se as partes desta decisão.
+    Publique-se.
+    Brasília, 29 de março de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
