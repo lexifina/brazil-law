@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido ao Tribunal de origem, por força de despacho, que determinou a devolução dos autos para que se cumprisse o disposto no art. 543-B do CPC/73, uma vez que a controvérsia suscitada no extraordinário está representada na sistemática de repercussão geral no tema 646, cujo paradigma é o ARE-RG 678.112, Rel. Min. Luiz Fux, DJe 5.4.2013. (eDOC 32)
+    O órgão prolator da decisão impugnada pelo recurso extraordinário houve por bem deixar de “exercer o juízo de retratação previsto no artigo 543-B, § 3º, do Código de Processo Civil, por entender que a matéria julgada no ARE 678.112/MG não é idêntica à discutida na presente demanda”. (eDOC 35, p. 4)
+    Diante de tal entendimento, a vice-presidência do Tribunal de origem determinou a remessa do agravo de instrumento ao Supremo Tribunal Federal, em cumprimento ao art. 328-A, §2º, do RISTF. (eDOC 36, p. 5)
+    Decido.
+    Inicialmente, destaco que, conforme decisão por mim prolatada (eDOC 32), as circunstâncias de direito discutidas nestes autos evidenciam relação de identidade com o tema 646 da sistemática da repercussão geral, razão pela qual, nos termos dos artigos 1.036 e seguintes do NCPC, a solução a ser dada neste caso deverá ser consentânea com o decidido no ARE-RG 678.112.
+    Na espécie, verifico que o acórdão recorrido foi assentado no entendimento de que “a limitação de idade invocada pela impetrante contraria a Constituição da República Federativa do Brasil, por violar o princípio da igualdade no acesso aos cargos públicos”. (eDOC 13)
+    Nesse sentido, é de se reconhecer que as conclusões a que chegou o Tribunal de origem na decisão em exame são harmônicas com o que restou consubstanciado no acórdão proferido quando do julgamento do ARE-RG 678.112. Aliás, outro não foi o entendimento do próprio órgão prolator da decisão recorrida, ao reconhecer que “o acórdão não contraria o representativo da controvérsia do Supremo Tribunal Federal, mas encontra-se em consonância com o que foi decidido no ARE 678.112/MG”. (eDOC 35, p.9)
+    Assim, não há que se falar em negativa de retratação (art. 1041, caput), uma vez que o Tribunal decidiu conforme a orientação desta Corte. Por consequência, deve-se reconhecer a aplicação, ao caso em apreço, do artigo 1.039 do NCPC.
+    Não se trata, portanto, de hipótese em que se exige a subida dos autos ao Supremo Tribunal Federal. Isso porque o art. 1.039 determina que: “decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada”. (grifo nosso)
+    Diante do exposto, declaro prejudicado o recurso, nos termos do artigo 1.039 do NCPC, e determino seja oficiada a vice-presidência do Tribunal a quo, acerca do teor dessa decisão, que confirma a interpretação que deve ser dada ao referido paradigma para fins de aplicação da sistemática da repercussão geral.
+    Publique-se.
+    Brasília, 30 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
