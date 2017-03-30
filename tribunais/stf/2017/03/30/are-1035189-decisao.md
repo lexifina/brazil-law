@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO – ISENÇÃO DE ITCMD - MENOR IMPÚBERE - ÚNICO HERDEIRO - RESPONSABILIDADE SOLIDÁRIA DO REPRESENTANTE LEGAL - AUSENTE PROVA CONTUNDENTE DA INCAPACIDADE FINANCEIRA DESTE - NEGADO PROVIMENTO AO RECURSO.” (eDOC 2, p. 82).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 1º, III, 3º, III e 145 §1 º do texto constitucional.
+    Nas razões recursais, alega-se que está sendo negado ao recorrente o direito ao mínimo existencial, tendo em vista que, após o falecimento de sua genitora, herdou o único imóvel no qual reside com seu genitor. Argumenta-se, ainda, que tanto o recorrente quanto o genitor, que está desempregado, não possuem recursos para pagar à receita estadual o imposto de transmissão causa mortis (ITCMD).
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei nº 10.705/00) e o conjunto probatório constante dos autos, consignou que o autor não provou que o seu genitor não é capaz de arcar com o pagamento do tributo. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Ainda que o herdeiro não possua condições financeiras para arcar com o pagamento do tributo, presunção esta que decorre da sua menoridade; o mesmo não se pode afirmar com relação ao seu pai. A despeito da informação de ele estar desempregado, é certo que ele é o responsável pelo sustento do menor. Nos termos do artigo 8°, inciso V, da lei acima mencionada, nos casos de impossibilidade de exigência do cumprimento da obrigação principal pelo contribuinte, respondem solidariamente pela obrigação, os pais, pelos tributos devidos pelos seus filhos menores.” (eDOC 2, p. 84).
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO ITCMD. JUROS LEGAIS E MULTA. 1. Reserva de plenário. Ausência de contrariedade ao art. 97 da Constituição da República. Inexistência de declaração de inconstitucionalidade de lei federal. Precedentes. 2. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 3. Agravo regimental ao qual se nega provimento.” (ARE 768.206-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 29.10.2013).
+    “DIREITO TRIBUTÁRIO. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS. INCIDÊNCIA SOBRE VERBAS DE NATUREZA TRABALHISTA. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 13.02.2007. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional local, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Agravo conhecido e não provido.”
+(RE 631.032 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 23.10.2013)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
