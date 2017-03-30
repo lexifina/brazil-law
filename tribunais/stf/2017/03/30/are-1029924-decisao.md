@@ -1,0 +1,18 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Armarinhos Paraná Santa Catarina Ltda. contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Paraná, está assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO. EMBARGOS. CÉDULA DE CRÉDITO BANCÁRIO. 1. DECISÃO PROFERIDA NO PERÍODO DE SUSPENSÃO. EXCEÇÃO DE INCOMPETÊNCIA. ANÁLISE DE PEDIDOS DE CONCESSÃO DE TUTELA ANTECIPATÓRIA DE NATUREZA URGENTE. DECISÃO REGULAR. INTELIGÊNCIA DO ARTIGO 266 DO CPC. 2. SUSPENSÃO DA EXECUÇÃO. ARTIGO 739-A DO CPC. REQUISITOS NÃO PREENCHIDOS. 3. ARGUIÇÃO DE INCONSTITUCIONALIDADE. ARTIGO 28, PARÁGRAFO 1º, INCISO I DA LEI Nº 10.931/2004. 3.1. OFENSA AO ARTIGO 59 DA CF E LC Nº 95/98. INEXATIDÃO FORMAL QUE NÃO VICIA O ATO. INTELIGÊNCIA DO ART. 18 DA LEI COMPLEMENTAR Nº 95/98. 3.2. OFENSA AO ARTIGO 192 DA CF. CAPITALIZAÇÃO DE JUROS. DESNECESSIDADE DE REGULAMENTAÇÃO POR LEI COMPLEMENTAR. 4. LIQUIDEZ DO TÍTULO RECONHECIDA. RECURSO DESPROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 59 e 192, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei Complementar nº 95/1998 e Lei nº 10.931/2004), o que torna incognoscível o apelo extremo.
+    Cabe assinalar, ainda, no que concerne à própria controvérsia suscitada nestes autos, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 966.918/SP, Rel. Min. CÁRMEN LÚCIA – ARE 977.778/SE, Rel. Min. LUIZ FUX – RE 767.182/DF, Rel. Min. ROBERTO BARROSO, v.g.):
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CÉDULA DE CRÉDITO BANCÁRIO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO.
+    1. Para divergir da conclusão adotada pelo tribunal ‘a quo’, seria necessária a interpretação de legislação infraconstitucional aplicável a espécie, o que inviabiliza o processamento do recurso extraordinário.
+    2. Agravo regimental a que se nega provimento.”
+    (ARE 898.147-AgR/SP, Rel. Min. EDSON FACHIN)
+    “Agravo regimental em recurso extraordinário. 2. Civil e Processo Civil. 3. Cédula de crédito bancário. Execução. Embargos do devedor. Alegação de inconstitucionalidade. Inadmissibilidade. 4. Matéria infraconstitucional. Ofensa reflexa. 5. Agravo regimental não provido.”
+    (RE 835.518-AgR/SP, Rel. Min. GILMAR MENDES)”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 30 de março de 2017.
+Ministro CELSO DE MELLO
+Relator
