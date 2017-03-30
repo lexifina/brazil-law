@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de recurso extraordinário remetido ao Tribunal de origem, por força de despacho, que determinou a devolução dos autos para que se cumprisse o disposto no art. 543-B do CPC/73, uma vez que a controvérsia suscitada no extraordinário está representada na sistemática de repercussão geral nos temas 339, 485, 660 cujos paradigmas são, respectivamente, o AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010; o RE-RG 632.853, de minha relatoria, DJe 2.3.2012; e o ARE-RG 748.371, de minha relatoria, DJe 1.8.2013.
+    O órgão prolator da decisão impugnada pelo recurso extraordinário concluiu que “não há juízo de retratação a ser exercido” (eDOC 291)
+    Diante de tal entendimento, a vice-presidência do Tribunal de origem determinou a remessa do recurso extraordinário ao Supremo Tribunal Federal (eDOC 293).
+    Decido.
+    Inicialmente, destaco que, conforme decisão por mim prolatada (eDOC 53), as circunstâncias de direito discutidas nestes autos evidenciam relação de identidade com os temas da sistemática da repercussão geral, acima referidos, razão pela qual, nos termos dos artigos 1.036 e seguintes do NCPC, a solução a ser dada neste caso deverá ser consentânea com o decidido nos julgados mencionados.
+    Na espécie, verifico que o acórdão recorrido foi assentado no entendimento de que 'verificada que a questão n.º 29 da prova de física exigiu conhecimentos que não estavam previstos no conteúdo programático divulgado no edital de abertura, necessária se mostra a intervenção judicial’ (eDOC 8).
+    Nesse sentido, é de se reconhecer que as conclusões a que chegou o tribunal de origem na decisão em exame são harmônicas com o que restou consubstanciado nos acórdãos proferidos quando do julgamento dos temas da sistemática de repercussão geral suscitados. Aliás, outro não foi o entendimento do próprio órgão prolator da decisão recorrida, ao reconhecer que “compulsando os autos, não verifico o dissenso apontado, porquanto o caso concreto está de acordo com o entendimento consagrado pelo STF” (eDOC 291).
+    Assim, não há que se falar em negativa de retratação (art. 1041, caput) uma vez que o Tribunal decidiu conforme a orientação desta Corte. Por consequência, deve-se reconhecer a aplicação, ao caso em apreço, do artigo 1.039 do NCPC.
+    Não se trata, portanto, de hipótese em que se exige a subida dos autos ao Supremo Tribunal Federal. Isso porque o art. 1.039 determina que: “decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada”. (sem grifos no original)
+    Diante do exposto, declaro prejudicado o recurso, nos termos do artigo 1.039 do NCPC, e determino seja oficiada a vice-presidência do Tribunal a quo, acerca do teor dessa decisão, que confirma a interpretação que deve ser dada ao referido paradigma para fins de aplicação da sistemática da repercussão geral.
+    Publique-se.
+    Brasília, 30 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
