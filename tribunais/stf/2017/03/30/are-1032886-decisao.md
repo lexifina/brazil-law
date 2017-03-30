@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Trigésima Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Cobrança - Mandato - Improcedência da ação - Apelação da autora arguindo inadimplência dos réus de obrigação contratual de pagamento de mensalidade em contrapartida a serviços prestados por mais de quatro anos.
+    Inexiste nos autos prova de disposição dos réus em recorrer da sentença. Dessa forma, com o trânsito em julgado, deixariam de serem devidos os honorários advocatícios. Logo, ausente prova de nova contratação, razão não há para reforma da r. sentença de improcedência.
+    Apelação desprovida”.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação do artigo 5º, inciso XXI, da Constituição Federal.
+    Decido.
+    Ressalte-se, inicialmente, que os requisitos de admissibilidade do recurso extraordinário regem-se pelas disposições do Código de Processo Civil de 1973, regramento legal vigente quando da publicação do acórdão recorrido.
+    É da jurisprudência desta Suprema Corte, consolidada à luz do referido Código de Processo Civil de 1973, que o preparo do recurso extraordinário deve ser efetuado (e comprovado) no ato da interposição do apelo, o que inegavelmente não ocorreu neste caso.
+    Assim, se o preparo deveria ser efetuado concomitantemente à apresentação do recurso, quando de sua interposição, tem-se que o protocolo de tal petição, sem as custas devidas, já implica em deserção, pois a posterior concessão do benefício, não teria o condão de retroagir para afastar a deserção já dantes configurada nos autos.
+    Tal entendimento, que impede o próprio conhecimento do recurso extraordinário, vem sendo reiteradamente repetido por esta Corte, conforme se colhe da ementa dos seguintes precedentes, de mesmo teor, de ambas suas Turmas:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. PREPARO. DESERÇÃO. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 287. NORMAS INFRACONSTITUCIONAIS. OFENSA INDIRETA. BENEFÍCIO DA JUSTIÇA GRATUITA. BENEFÍCIO FUTURO. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - O agravante não atacou todos os fundamentos do acórdão recorrido, o que atrai a incidência da Súmula 287 do STF. II - A jurisprudência do Supremo Tribunal Federal é no sentido de que incumbe ao recorrente comprovar, no ato de interposição do recurso, o pagamento do respectivo preparo. Precedentes. III - É que a apreciação do tema constitucional, no caso, demanda o prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. IV - O deferimento do benefício da gratuidade da justiça, só produz efeitos futuros, assim, julgado deserto o recurso, de nada adiantaria a concessão posterior do benefício. Precedentes. V - Recurso protelatório. Aplicação de multa. VI - Agravo regimental improvido” (AI nº 744.487-AgR/DF, Relator o Ministro Ricardo Lewandowski , Primeira Turma, DJe de 16/10/09).
+    “1. JUSTIÇA GRATUITA. Assistência Judiciária. Benefício não concedido. Ausência de pedido e de afirmação, pela parte, de insuficiência de recursos. Não recolhimento de preparo. Deserção. Recurso extraordinário não conhecido. Jurisprudência assentada. Decisão mantida. Agravo regimental improvido. A concessão do benefício da assistência judiciária gratuita está condicionada à afirmação, feita pelo próprio interessado, de que a sua situação econômica não permite vir a Juízo sem prejuízo da sua manutenção ou de sua família. 2. RECURSO. Agravo. Regimental. justiça gratuita. Equívoco na juntada de petição. Falha atribuída ao serviço judiciário. Renovação do pedido. Agravo Regimental improvido. É ônus exclusiva da parte o correto protocolamento da petição” (RE nº 550.202-AgR/DF, Relator o Ministro Cezar Peluso, Segunda Turma, DJe de 18/4/08).
+    Não bastasse isso, o recurso extraordinário foi interposto quando já era plenamente exigível a preliminar recursal de demonstração da repercussão geral da matéria constitucional objeto do apelo. Entretanto, esse requisito formal não foi cumprido.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de março de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
