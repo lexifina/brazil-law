@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão de Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, o qual negou seguimento ao recurso do contribuinte.
+    De plano, verifica-se que a controvérsia cinge-se ao Tema 202 da sistemática da repercussão geral, cujo recurso-paradigma é o RE-RG 596.177, de relatoria do Ministro Ricardo Lewandowski, DJe 29.08.2011, assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL PREVIDENCIÁRIA. EMPREGADOR RURAL PESSOA FÍSICA. INCIDÊNCIA SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO. ART. 25 DA LEI 8.212/1991, NA REDAÇÃO DADA PELO ART. 1º DA LEI 8.540/1992. INCONSTITUCIONALIDADE. I – Ofensa ao art. 150, II, da CF em virtude da exigência de dupla contribuição caso o produtor rural seja empregador. II – Necessidade de lei complementar para a instituição de nova fonte de custeio para a seguridade social. III – RE conhecido e provido para reconhecer a inconstitucionalidade do art. 1º da Lei 8.540/1992, aplicando-se aos casos semelhantes o disposto no art. 543-B do CPC.”
+    No mesmo sentido, veja-se o RE-AgR-segundo 527.902, de relatoria do Ministro Celso de Mello, Segunda Turma, DJe 16.03.2015, cuja ementa reproduz-se a seguir:
+    “RECURSO EXTRAORDINÁRIO DEDUZIDO PELA COOPERATIVA PROVIDO – INTERPOSIÇÃO, POR ELA, DE RECURSO DE AGRAVO CONTRA ESSA DECISÃO – ÔNUS DA SUCUMBÊNCIA – FIXAÇÃO EM QUANTIA CERTA – MATÉRIA A SER DEFINIDA PELO JUÍZO DA EXECUÇÃO – PRECEDENTES DO STF – MAJORAÇÃO DA VERBA HONORÁRIA – CABIMENTO – RECURSO DE AGRAVO DEDUZIDO PELA UNIÃO – EMPREGADOR RURAL PESSOA FÍSICA – INCIDÊNCIA DO FUNRURAL SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO – INCONSTITUCIONALIDADE – REPERCUSSÃO GERAL DA MATÉRIA QUE O PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL RECONHECEU NO JULGAMENTO DO RE 596.177-RG/RS – RECURSO DE AGRAVO INTERPOSTO PELA UNIÃO IMPROVIDO E ‘AGRAVO REGIMENTAL’ DEDUZIDO PELA CONTRIBUINTE PROVIDO EM PARTE.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 30 de março de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
