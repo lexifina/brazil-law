@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra o acórdão do Tribunal de Justiça do Estado de São Paulo, assim emendado:
+    “1. PROCESSUAL CIVIL. Apelação. Agravo deduzido contra decisão do relator que deu parcial provimento à apelação dos autores. O art. 557, do CPC introduziu nova dinâmica ao princípio do colegiado no objetivo de descongestionar as pautas de julgamento. Assim, autoriza o relator a proferir desate monocrático, o que aqui se verifica.
+    2. SERVIDOR PÚBLICO ATIVO DO MUNICÍPIO DE SÃO PAULO. Adicionais temporais: incidência sobre vantagens que mascaram aumentos gerais de vencimentos. Não incidência sobre vantagens pro labore faciendo não incorporáveis.
+    3. SERVIDOR PÚBLICO INATIVO E PENSIONISTA DO MUNICÍPIO DE SÃO PAULO. Adicionais temporais e sexta-parte: incidência sobre a totalidade dos proventos e benefício.
+    4. Agravo não provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, XIV, da Constituição.
+    O recurso não deve ser provido, uma vez que o acórdão impugnado está alinhado com o decidido no RE 563.708-RG, julgado sob a relatoria da Ministra Cármen Lúcia. No julgado, cuja matéria teve a repercussão geral reconhecida, o Plenário do Supremo Tribunal Federal assentou a aplicabilidade imediata da redação dada pela Emenda Constitucional nº 19/1998 ao art. 37, XIV, da Constituição Federal. Fixou, assim, que a partir da vigência da EC nº 19/1998 é inconstitucional a adoção da remuneração como base de cálculo para os acréscimos pecuniários percebidos por servidor público. Por outro lado, assegurou-se a observância do princípio de irredutibilidade de vencimentos. Veja-se a ementa do julgado:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO À REGIME JURÍDICO. BASE DE CÁLCULO DE VANTAGENS PESSOAIS. EFEITO CASCATA: PROIBIÇÃO CONSTITUCIONAL. PRECEDENTES. IMPOSSIBILIDADE DE REDUÇÃO DOS VENCIMENTOS. PRINCÍPIO DA IRREDUTIBILIDADE DOS VENCIMENTOS. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO.”
+    Dessa orientação não divergiu o acórdão recorrido, uma vez que reconheceu que “a Constituição, no inciso XIV do artigo 37, admite a instituição de acréscimos pecuniários ao padrão de vencimentos, ainda que o faça para estabelecer limites, proibindo seu cômputo ou acumulação (dos acréscimos, por exemplo, quinquenais) para fins de concessão de acréscimos ulteriores, evitando abusos, com a consequente vedação de ‘repiques’. (…) Logo, o adicional por tempo de serviço pode acoplar-se ao vencimento e pode incidir sobre as gratificações de serviço, se forem incorporadas por sentença com trânsito em julgado ou por disposição expressa de lei (…)”.
+     Nesse sentido, vejam-se os seguintes precedentes: ARE 757.737, Rel.ª Min.ª Cármen Lúcia; ARE 782.378, Rel. Min. Dias Toffoli; e RE 784.077, Rel. Min. Teori Zavascki.
+    Ademais, para dissentir da conclusão do Tribunal de origem, seriam imprescindíveis a análise da legislação infraconstitucional aplicada ao caso e o reexame do conjunto fático-probatório dos autos, o que torna inviável o processamento do recurso extraordinário (Súmulas 279 e 280/STF).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 30 de março de 2017.
+Ministro Luís Roberto Barroso
+Relator
