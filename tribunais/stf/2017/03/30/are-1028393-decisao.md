@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Trata-se de dois agravos contra decisões que não admitiram recursos extraordinários. No apelo extremo interposto pelo Município de Presidente Prudente, alega-se contrariedade aos artigos 156, § 1º, e 182, § 4º, da Constituição Federal. No recurso extraordinário manejado pelo contribuinte, alega-se ofensa aos princípios constitucionais do devido processo legal, do contraditório, do duplo grau de jurisdição, da segurança jurídica e do não confisco.
+    Eis a ementa do acórdão recorrido:
+    “APELAÇÃO — Ação anulatória de lançamento fiscal com pedido de repetição de indébito — IPTU, Município de Presidente Prudente — Exercícios de 2003 a 2007 - Ação de repetição de indébito julgada procedente — Ilegitimidade da instituição da progressividade no tempo — Ausência de Plano Diretor e de observância ao disposto no art. 182, § 4, da CR e no Estatuto da Cidade — Recurso oficial e apelação da ré parcialmente providos.
+    REPETIÇÃO DE INDÉBITO TRIBUTÁRIO — Ausência de prova do alegado pagamento indevido — Peculiaridade da demanda que exige imediata prova dos pagamentos considerados indevidos — Improcedência do pedido — Honorários advocatícios reduzidos, com adequação ao § 40, do art. 20, do CPC - Recurso oficial e apelação da ré parcialmente providos.”
+    Decido.
+    Analiso, em primeiro lugar, o recurso extraordinário interposto pelo Município de Presidente Prudente.
+    A irresignação não merece prosperar.
+    No tocante ao IPTU progressivo com função extrafiscal, o Tribunal de origem, analisando o conjunto fático e probatório dos autos bem como interpretando a legislação ordinária aplicável à espécie (Lei Complementar Municipal nº 113/01, Plano Diretor da cidade e Lei nº 10.257/01), consignou que não houve o preenchimento dos requisitos necessários para a válida cobrança da exação. Sobre o assunto, destaco a seguinte passagem do voto condutor do acórdão recorrido:
+    “O Plano Diretor da cidade, de 1996, não está sintonizado nem com o Estatuto da Cidade e nem com a citada Lei Complementar Municipal nº 113/2001, que simplesmente fez definir perímetros dentro os quais áreas não edificadas estariam sujeitas à progressividade do IPTU naqueles termos, sem a enunciação de diretrizes a serem adotadas pela Administração para o cumprimento da função social da propriedade.
+    Nem mesmo é possível saber, diante do que informam os autos, se os perímetros, tal como definido na mencionada Lei Complementar Municipal, estão incluídos no plano diretor, de modo que se torna inviável defender a aplicabilidade do mesmo nos exercícios questionados, ainda que sua edição remonte a cerca de 10 anos, sobre implicar tal situação, agora, em afronta ao estatuído no art. 5º da Lei nº 10.257/2001 (...)”.
+    Desse modo, para ultrapassar o entendimento do Tribunal a quo, seria necessário o reexame da legislação infraconstitucional e de fatos e provas, o que é vedado em sede de recurso extraordinário. Incide, portanto, o enunciado da Súmula 279 do STF que assim dispõe:
+    “Para simples reexame de prova não cabe recurso extraordinário”.
+    Nesse sentido: ARE nº 945.122/SP, Relatora a Ministra Cármen Lúcia, DJe de 30/3/16; ARE nº 948.323/SP, Relator o Ministro Edson Fachin, DJe de 26/2/16; ARE nº 796.987/SP, de minha relatoria, DJe de 29/5/14; ARE n° 720.995/SP, Relatora a Ministra Cármen Lúcia, DJe de 23/11/12; RE n° 569.636/SP, Relator o Ministro Joaquim Barbosa, DJe de 9/9/09.
+    Passo a analisar o recurso extraordinário interposto pelo contribuinte.
+    A irresignação não merece prosperar.
+    No que se refere aos princípios constitucionais do devido processo legal, do contraditório, do duplo grau de jurisdição e do não confisco, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte.
+    Ademais, verifica-se que a instância de origem assim decidiu a respeito do pedido de restituição de indébito:
+    “A possibilidade, em tese, da restituição do indébito tributário, deve restringir-se aos recolhimentos já comprovados nos autos, dentre os documentos que acompanharam a petição inicial, sem possibilidade de outra prova na fase de liquidação.
+    É que o pedido de repetição de indébito tributário é condicionado à juntada de documento indispensável à propositura da ação (artigo 283, CPC), isto é, prova do recolhimento, ou recolhimentos, considerados indevidos pelo contribuinte.
+    Tem, a parte, de imediato provar que efetuou recolhimentos aos cofres públicos, sem o que lhe falta o necessário interesse processual, porquanto só pode pedir a restituição quem pagou, nos limites do pagamento, se indevido for. A esse respeito existem precedentes desta Egrégia Câmara, no julgamento das apelações 486.331-5, de Araçatuba, e 638.028-5, de Araraquara, dentre outros. Não comprovado pagamento nenhum, improcedente a demanda quanto ao pedido de restituição.”
+    Para superar esse entendimento e acolher a pretensão recursal, seria necessário o reexame da causa à luz da legislação infraconstitucional bem como dos fatos e das provas constantes dos autos. Assim, eventual ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o recurso extraordinário. Incidência da Súmula nº 279 da Corte. Nessa direção:
+    “AGRAVO REGIMENTAL. REPETIÇÃO DE INDÉBITO. CORREÇÃO MONETÁRIA E JUROS. MATÉRIA INFRACONSTITUCIONAL. Na forma como postas, as questões relativas ao critério de repetição do indébito e da compensação encontram-se no âmbito infraconstitucional. Agravo regimental ao qual se nega provimento.” (RE nº 601.557/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 22/6/12).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento aos recursos.
+    Publique-se.
+    Brasília, 30 de março de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
