@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3º Região, ementado nos seguintes termos:
+    “DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INOMINADO. IRPF. INDENIZAÇÃO DE HORAS TRABALHADAS – IHT, PETROBRÁS. INCIDÊNCIA. SÚMULA 463/STJ. RECURSO DESPROVIDO.
+    1.Consolidada a jurisprudência do Superior Tribunal de Justiça, para os fins do artigo 557 do Código de Processo Civil, firme no sentido de que incide o IRPF sobre as verbas recebidas a título de “Indenização de Horas Trabalhadas” - IHT.
+    2.Em reforço ao que tem sido reiteradamente decidido pela Corte Superior, restou editada a Súmula 463, que assim expressamente respalda a decisão agravada: “Incide imposto de renda sobre os valores percebidos a título de indenização por horas extraordinárias trabalhadas, ainda que decorrentes de acordo coletivo”.
+    3.A especificidade da situação jurídica de tal verba, que justificou a edição de súmula própria, revela a impertinência da invocação das Súmulas 136 e 215 do Superior Tribunal de Justiça. 4. Agravo inominado desprovido”. (eDOC 3, p. 54).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a , da Constituição Federal, aponta-se violação aos arts. 5º; 150, II; e 153, III, do texto constitucional.
+    Nas razões recursais, alega-se a inexigibilidade do imposto sobre a renda incidente sobre a verba denominada indenização por horas trabalhadas - IHT. Solicita-se, assim, a anulação de débito fiscal referente à cobrança de IRPF.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (art. 2º da Lei 5.811/72), consignou que o pagamento de indenização por horas trabalhadas - IHT caracteriza acréscimo patrimonial, provocando a incidência de imposto de renda. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Em relação ao mérito, encontra-se consolidada a jurisprudência do Superior Tribunal de Justiça, firme no sentido de que incide o Imposto de Renda sobre as verbas recebidas a título de "Indenização de Horas Trabalhadas", conforme revelam, entre outros, os seguintes acórdãos: RESP nº 1.008.664, Rel. Min. CASTRO MEIRA, DJU de 05.08.08;(...) RESP nº 892.573, Rel. Min. ELIANA CALMON, DJU de 07.08.08; (...)ERESP nº 666.288, Rel. Min. TEORI ALBINO ZAVASCKI, DJU de 09.06.08; (...)RESP nº 782.605, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJU de 04.10.07”. (eDOC 3, p. 36).
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR. INCORPORAÇÃO DE GRATIFICAÇÃO ESPECIAL. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 792.534 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 5.3.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. VANTAGEM PECUNIÁRIA INDIVIDUAL. REAJUSTE. LEI 10.698/2003. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. IMPOSSILIDADE DE AUMENTO DE VENCIMENTOS DE SERVIDORES PÚBLICOS PELO PODER JUDICIÁRIO SOB O FUNDAMENTO DA ISONOMIA (SÚMULA 339 DO STF). AGRAVO IMPROVIDO. I - É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. Precedentes. II - O acórdão recorrido está em harmonia com a jurisprudência predominante deste Tribunal firmada no sentido de que não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob o fundamento da isonomia (Súmula 339 do STF). Precedentes. III - Agravo regimental improvido". (RE 711.344 AgR, Rel. Min . RICARDO LEWANDOWSKI , Segunda Turma, DJe 11.3.2013).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, a do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
