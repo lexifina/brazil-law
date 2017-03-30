@@ -1,0 +1,9 @@
+Solução de Consulta Coana nº 50, de 20 de março de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3925.90.10 Mercadoria: Painel constituído por uma placa de poliestireno expandido (EPS) estruturada com telas de aço galvanizado posicionadas em suas duas faces, de característica modular, de altura variável, largura de 115 cm e espessura de 7 a 12 cm, próprio para ser utilizado como elemento estrutural na construção de paredes de residências, escolas, galpões e outras edificações.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 11 do Capítulo 39 e da posição 39.25), RGI 3b, RGI 6 (texto da subposição 3925.90) e RGC 1 (texto do item 3925.90.10) constantes da TEC aprovada pela Res. Camex nº 125, de 2016, e da Tipi aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3925.90.10 Mercadoria: Painel constituído por uma placa de poliestireno expandido (EPS) estruturada com telas de aço galvanizado posicionadas em suas duas faces, de característica modular, de altura variável, largura de 115 cm e espessura de 7 a 12 cm, próprio para ser utilizado como elemento estrutural na construção de paredes de residências, escolas, galpões e outras edificações.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 11 do Capítulo 39 e da posição 39.25), RGI 3b, RGI 6 (texto da subposição 3925.90) e RGC 1 (texto do item 3925.90.10) constantes da TEC aprovada pela Res. Camex nº 125, de 2016, e da Tipi aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+CARLOS HUMBERTO STECKEL
+Presidente da 2ª Turma
