@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 172, DE 17.03.17 (D.O. 30.03.17)
+ALTERA DISPOSITIVO DA LEI COMPLEMENTAR N° 70, DE 10 DE NOVEMBRO DE 2008.
+O GOVERNADOR DO ESTADO DO CEARÁ
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
