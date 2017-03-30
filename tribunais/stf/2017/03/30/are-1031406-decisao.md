@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado da Paraíba, ementado nos seguintes termos, no que interessa:
+    “AGRAVO INTERNO. APELAÇÃO CÍVEL DA PROMOVENTE. AÇÃO DE COBRANÇA. SERVIDORA PÚBLICA. COMPROVAÇÃO DO VÍNCULO. SALÁRIOS RETIDOS PELO MUNICÍPIO. FALTA DE PAGAMENTO. DANO MORAL. MERO ABORRECIMENTO. PRECEDENTES DESTA CORTE. NEGATIVA DE SEGUIMENTO AO RECURSO APELATÓRIO QUANTO A ESTA PARTE. AUTORIZAÇÃO EMANADA PELO CAPUT, DO ARTIGO 557, DA LEI ADJETIVA CIVIL. MANUTENÇÃO DA DECISÃO AGRAVADA. DESPROVIMENTO DA INSATISFAÇÃO REGIMENTAL. (eDOC 1, p. 100)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 7º, VIII e XVII, do texto constitucional.
+    Nas razões recursais, alega-se que houve equívoco no indeferimento do pagamento das verbas pleiteadas. Pleiteia-se condenação do ente público ao pagamento de férias e 13º salários inadimplidos no quinquênio anterior ao ajuizamento da ação. (eDOC 2, p. 44)
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Decreto-lei 20.910/1932), consignou que são devidas as verbas pleiteadas após janeiro de 2009. Nesse sentido, extrai-se o seguinte trecho da sentença mantida pelo acórdão impugnado:
+    “PRELIMINARMENTE, no que tange à prescrição, temos que o lapso a ser observado é o previsto no art. 1º do Dec Lei 20.910, ou seja, cinco anos. No caso, como a ação foi porposta em 07/01/2014, só serão ser discutidas na presente ação as verbas referentes aos cinco anos anteriores, ou seja, de janeiro de 2009 em diante.” (eDOC 1, p. 51)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Confira-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Regime jurídico laboral. Modificação. Verbas trabalhistas. Prescrição. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido.” (ARE-AgR 906315, Rel. Min. Dias Toffoli, Segunda Turma, DJe 5.4.2016)
+    “Agravo regimental em recurso extraordinário. 2. Trabalho. Multa de 40% sobre os depósitos do FGTS (LC 110/2001). Prescrição. Matéria infraconstitucional. Precedentes. RE-RG 584.608. 3. Agravo regimental a que se nega provimento” (RE-AgR 550.524, de minha relatoria, Segunda Turma, DJ 6.8.2010).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. APOSENTADORIA ESPONTÂNEA. AUSÊNCIA DE EXTINÇÃO AUTOMÁTICA DO CONTRATO DE TRABALHO. PRECEDENTES. VERBAS TRABALHISTAS DEVIDAS. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. ALEGAÇÃO DE CERCEAMENTO DE DIREITO DE DEFESA: AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.” (ARE 909.451, Rel. Min. Cármen Lúcia, DJe 2.12.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
