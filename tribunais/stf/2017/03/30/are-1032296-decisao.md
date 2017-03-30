@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “CONSTITUCIONAL E ADMINISTRATIVO. GRATIFICAÇÃO DE RAIO-X. LEI 1.234/50. REDUÇÃO DO PERCENTUAL DE 40% PARA 10%. LEI 7.923/89. POSSIBILIDADE. INEXISTÊNCIA DE OFENSA A DIREITO ADQUIRIDO À IRREDUTIBILIDADE DE VENCIMENTOS. PRECEDENTES DO STF, STJ E DESTA CORTE.
+    1. Não há óbice à majoração ou extinção de gratificações, desde que respeitados o princípio da irredutibilidade de vencimentos e demais direitos constitucionalmente protegidos. Precedentes do STF.
+    2. Conquanto reduzido o percentual da gratificação pelo trabalho com raio x de 40% para 10%, pela Lei n° 7.923/89, houve aumento de vencimentos e outras parcelas remuneratórias, com acréscimo significativo na remuneração. Inexistiu, portanto, ofensa ao princípio da irredutibilidade de vencimentos, contido no artigo 37, inciso XV, da Constituição Federal. Precedentes do STJ e desta Corte.
+    3. Apelo e remessa oficial providas. Sentença reformada. Pedido improcedente” (pág. 1 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação aos arts. 5°, XXXVI, e 37, XV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido está em consonância com a tese firmada por esta Corte no julgamento do RE 563.965-RG (Tema 41), da relatoria do Ministra Cármen Lúcia, no sentido de que “[...] não há direito adquirido a regime jurídico, desde que respeitado o princípio constitucional da irredutibilidade de vencimentos”. Transcrevo, por oportuno, a ementa desse precedente:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico.
+    2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, consequentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração.
+    3. Recurso extraordinário ao qual se nega provimento.”
+    Ressalte-se, ademais, que para se chegar a conclusão contrária à adotada pelo Tribunal de origem quanto à ocorrência ou não do decesso remuneratório seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279 do STF – e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, cito julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. CHEFE DE CARTÓRIO ELEITORAL. GRATIFICAÇÃO. SUBSTITUIÇÃO DA CJ2 PELA FC4. DIREITO ADQUIRIDO A REGIME JURÍDICO. INEXISTÊNCIA. RE 563.965/RG. DECESSO REMUNERATÓRIO. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 279 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 837.774-AgR/RS, Rel. Min. Luiz Fux, Primeira Turma - grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MILITAR. RESERVA. ALTERAÇÃO DA FORMA DE CÁLCULO DA REMUNERAÇÃO. SUPRESSÃO DO ADICIONAL DE INATIVIDADE. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. ALEGADO DECESSO REMUNERATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 882.554-AgR/DF, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 30 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
