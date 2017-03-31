@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado, no que interessa:
+    “APELAÇÃO. (...) MÉRITO. SERVIDOR PÚBLICO. Pretensão de reenquadramento da função do cargo e pagamento das diferenças de complementação de aposentadoria com observância dos vencimentos pagos aos ativos da CPTM, sucessora da FEPASA. Inadmissibilidade. A equiparação prevista na Lei nº 9.343/96, corroborada pelo Enunciado n. 10 dessa E. Seção de Direito Público, restringe-se à incidência de índices de reajustes e não alberga o salário pago a cargo similar nos termos de plano de cargos e salários instituído pela CPTM. Afronta ao princípio da isonomia. Inocorrência. NEGADO PROVIMENTO AO RECURSO, COM OBSERVAÇÃO”.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI; e 7º, IV, V e XI, do texto constitucional.
+    Nas razões recursais, alega o recorrente ter direito a receber seus proventos em consonância com diversas leis estaduais e cláusulas de convenção coletiva de trabalho. (eDOC 34, p. 12)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a Lei Estadual 9.343/96, o Decreto 2.502/98 e o Decreto 34.536/59, legislação infraconstitucional aplicável à espécie, consignou que o recorrente não faz jus à equiparação com servidores ativos da CPTM. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A matéria controvertida e devolvida para reexame pelo tribunal “ad quem” envolve o direito de complementação de aposentadoria com base em equiparação de cargo exercido na FEPASA a mesmo cargo ou similar previsto na tabela de cargos dos funcionários ativos da CPTM.
+    Frise-se, inicialmente que por força da incorporação da Ferrovia Paulista S/A (FEPASA) pela Rede Ferroviária Federal S/A (RFFSA), através do Decreto n° 2.502/98, a incorporadora se responsabilizou por todas as obrigações da incorporada, independentemente da natureza, quer seja mercantil ou trabalhista.
+    Nesse contexto, o Estado assumiu a obrigação de complementação das aposentadorias e pensões nos termos do artigo 4º, § 2º da Lei Estadual n. 9.343/96.
+    Assim, os funcionários da extinta FEPASA fazem jus à complementação da aposentadoria, porquanto estão submetidos ao mesmo estatuto (Decreto n. 34.536/59) dos ferroviários do Estado de São Paulo, no qual estão incluídos os funcionários da CPTM.
+    Nessa quadra, convém ressaltar o Enunciado n. 10, aprovado por essa E. Seção de Direito Público, ao prever que “os ferroviários da extinta Fepasa têm como parâmetro de complementação a equivalência com os servidores da CPTM”.
+    O autor, dessa forma, tem direito a paridade dos vencimentos, nela incluindo o valor dos abonos pecuniários previstos nos dissídios e acordos coletivos, com as mesmas incidências, compensados os reajustes efetivamente concedidos.
+    Contudo, a causa de pedir dos autos não deve ser confundida com a situação acima descrita.
+    Em que pesem as afirmações do recorrente, o pedido de acertamento do quadro estruturado de cargos e salários não autoriza a admissão de equivalências de cargos entre a extinta FEPASA e a CPTM com repercussão nas complementações pagas aos inativos.
+    Importante registrar que o direito à complementação restringe-se à observância dos índices de reajustes concedidos aos servidores da CPTM, sem qualquer reflexo no que concerne à equiparação entre cargos, como pretendido pelo autor”. (eDOC 31, p. 4)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “Agravo regimental no agravo de instrumento. FEPASA. Abono. Extensão aos inativos. Possibilidade. Legislação local. Contrato Coletivo de Trabalho. Incidência das Súmulas nºs 280 e 454/STF. Precedentes. 1. O abono concedido aos ferroviários em atividade é extensível aos aposentados e pensionistas da FEPASA. 2. O recurso extraordinário não se presta ao reexame da legislação infraconstitucional local e dos termos firmados no referido Contrato Coletivo de Trabalho. Incidência das Súmulas nºs 280 e 454/STF. 3. Agravo regimental não provido”. (AI 587.222/SP-AgR, rel. Min. Dias Toffoli, Primeira Turma, DJ 25.8.2011)
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Previdenciário. Complementação de aposentadoria. Revisão. Legislação infraconstitucional. Cláusulas de acordo coletivo. Reexame. Impossibilidade. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. A discussão acerca da manutenção da proporcionalidade entre os pisos salariais do quadro de empregados da FEPASA não prescinde da análise da legislação infraconstitucional ou do reexame das cláusulas de acordo coletivo de trabalho. Incidência das Súmulas nºs 280, 636 e 454/STF. 3. Agravo regimental não provido”. (ARE 890.071/SP-ED, Rel. Min. Dias Toffoli, Segunda Turma, DJe 21.10.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
