@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, “a”, da Constituição Federal, o qual impugna acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, ementados nos seguintes termos:
+    “Embargos à Execução. Vencimentos do servidor. Base de cálculo do adicional de insalubridade. Súmula Vinculante nº 4 do STF. Vedação. Hipóteses previstas no art. 741 do CPC. Ausência. Exigibilidade de título judicial. Nos termos do disposto na Súmula Vinculante nº 4 do STF, salvos os casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial. A vedação contida na Súmula Vinculante nº 4do STF não se refere às hipóteses de omissão do legislador em fixar a base de calculo de vantagem do servidor público. Não restando demonstrada qualquer das hipóteses do art. 741 do CPC, que pudesse ensejar a declaração de inexigibilidade do título exequendo, a improcedência dos embargos é medida que se impõe.” (eDOC 5, p. 2)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 2, 5, II, e 37, caput, do texto constitucional e à Súmula Vinculante 4. (eDOC 5, p. 20)
+    Nas razões recursais, alega-se que o adicional de insalubridade somente poderia incidir sobre base de cálculo diversa do salário mínimo se assim houvesse expressa previsão legal na legislação municipal que dispõe quanto à matéria, não podendo o Poder Judiciário extrapolar sua competência, visto que não possui função legislativa para fixar nova base de cálculo.
+    Decido.
+    O recurso não merece prosperar.
+    Extrai-se dos autos que, em virtude da omissão legislativa acerca da base de cálculo do adicional de insalubridade e da proibição de sua fixação ao salário mínimo, o Tribunal a quo, cingindo-se a completar uma lacuna existente na legislação, determinou que a base de cálculo do referido adicional deveria ser fixada de acordo com os vencimentos básicos do servidor.
+    Ressalto que esse entendimento não contrariou a orientação firmada pelo STF.
+    “RECURSO EXTRAORDINÁRIO – SERVIDOR PÚBLICO – ADICIONAL DE INSALUBRIDADE – BASE DE CÁLCULO – OMISSÃO LEGISLATIVA – VENCIMENTO BÁSICO – SÚMULA VINCULANTE Nº 04 – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – SUCUMBÊNCIA RECURSAL (CPC/15, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE ‘TRABALHO ADICIONAL’ POR PARTE DO VENCEDOR DA DEMANDA (NÃO APRESENTAÇÃO DE CONTRARRAZÕES RECURSAIS) – AGRAVO INTERNO IMPROVIDO.” (RE 987.443-AgR/MG, rel. min. Celso de Mello, Segunda Turma, DJe 21.11.2016);
+     “DIREITO ADMINISTRATIVO. SEGUNDO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. MUNICÍPIO DE IPATINGA/MG. BASE DE CÁLCULO DO ADICIONAL DE INSALUBRIDADE. DECISÃO QUE ESTÁ ALINHADA À JURISPRUDÊNCIA DESTA CORTE. PRECEDENTES.
+     1. Em casos análogos, o Supremo Tribunal Federal decidiu no sentido de que não viola a Constituição a decisão do Tribunal que, em razão da omissão legislativa, fixa o vencimento básico do servidor como base de cálculo do adicional de insalubridade. Precedentes.
+     2. Agravo regimental a que se nega provimento.” (RE 672.687-AgR/MG, rel. min. Roberto Barroso, Primeira Turma, DJe 13.10.2015).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de março de 2017.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
