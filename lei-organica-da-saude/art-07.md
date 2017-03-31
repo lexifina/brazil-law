@@ -14,3 +14,4 @@ X - integração em nível executivo das ações de saúde, meio ambiente e sane
 XI - conjugação dos recursos financeiros, tecnológicos, materiais e humanos da União, dos Estados, do Distrito Federal e dos Municípios na prestação de serviços de assistência à saúde da população;
 XII - capacidade de resolução dos serviços em todos os níveis de assistência; e
 XIII - organização dos serviços públicos de modo a evitar duplicidade de meios para fins idênticos.
+XIV - organização de atendimento público específico e especializado para mulheres e vítimas de violência doméstica em geral, que garanta, entre outros, atendimento, acompanhamento psicológico e cirurgias plásticas reparadoras, em conformidade com a Lei nº 12.845, de 1º de agosto de 2013.
