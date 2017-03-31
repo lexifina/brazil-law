@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado da Bahia, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. REMESSA NECESSÁRIA. AÇÃO ORDINÁRIA. DIREITO PREVIDENCIÁRIO. IAPSEB. PENSÃO POR MORTE. PRELIMINAR DE FALTA DE INTERESSE PROCESSUAL. REJEITADA. REVISÃO DO BENEFÍCIO. ART. 40, § 5º DA CONSTITUIÇÃO FEDERAL – REDAÇÃO ORIGINÁRIA. POSICIONAMENTO DO STF. APLICABILIDADE IMEDIATA DA NORMA CONSTITUCIONAL. PRINCÍPIO DA ISONOMIA. SITUAÇÃO DOS AUTOS ANTERIOR A VIGÊNCIA DA CONSTITUIÇÃO FEDERAL DE 1988. ART. 20 DA ADCT. REVISÃO DOS DIREITOS DOS SERVIDORES PÚBLICOS INATIVOS E PENSIONISTAS DENTRO DE 120 DIAS. JUROS DE MORA E CORREÇÃO MONETÁRIA. INCIDÊNCIA DO ART. 1º – F DA LEI 9.494/97 COM AS ALTERAÇÕES DA LEI 11.960/09. RECURSO VOLUNTÁRIO IMPROVIDO. REMESSA NECESSÁRIA PARCIALMENTE PROVIDA.”(eDOC 1, p. 154).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a da Constituição Federal, aponta-se violação aos arts. 20 § 4º; 131; 148, II; e 165 do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, a necessidade de revisão do valor da pensão e alega-se que as leis estaduais devem ser aplicadas ao caso, sendo a legislação federal utilizada apenas subsidiariamente.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie, (Lei Estadual nº 502/52, com alterações introduzidas pela Lei Estadual 1.035/58) e o conjunto probatório constante dos autos, consignou que o reajuste pleiteado decorre da aplicabilidade imediata de norma constitucional e não de lei ordinária. Apontou, ainda, que o recorrente não juntou aos autos documentos comprobatórios das alegações. Nesse sentido, extraem-se os seguintes trechos do acórdão impugnado:
+    “A controvérsia no presente caso corresponde a aplicabilidade do art. 40, §5º da Constituição Federal, em sua redação originária, vez que o Apelante justifica os valores pagos a título de pensão à Autora, em razão da incidência da Lei Estadual nº 502/52, com as alterações introduzidas pela Lei Estadual 1.035/58. Todavia, imperioso esclarecer que o direito ao recebimento integral da pensão por morte e, portanto, a sua revisão utilizando-se como critério de reajuste a totalidade dos vencimentos percebidos pelos servidores ativos, decorre do princípio da fls. 6 isonomia e não de lei, como quer fazer crer o Apelante.
+    (...)
+    Ademais, considerando que o caso sub judice ocorreu antes da promulgação da Constituição Federal de 1988, bem como a redação do art. 20 da ADCT, não se pode justificar o não pagamento em detrimento de aplicabilidade da Lei Estadual vigente à época, como afirma o Apelante.
+    (...)
+    Ademais, em desacordo com as alegações do Apelante, caberia a este comprovar fato impeditivo, modificativo ou extintivo do direito da Autora, considerando o que dispõe o art. 333, inciso II do CPC, quedando inerte neste sentido, vez que não acostou aos autos qualquer documento que comprovasse o pagamento da pensão no valor integral correspondente ao vencimento dos servidores ativos, única hipótese capaz de afastar a revisão requerida na exordial.” (eDOC 1, p. 157/160).
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO. PENSÃO POR MORTE. BENEFICIÁRIO MAIOR DE 21 ANOS DE IDADE. CONCESSÃO DE BENEFÍCIO COM BASE NA LEI ESTADUAL 7.551/77 E NA LEI COMPLEMENTAR 43/02. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. AGRAVO REGIMENTAL IMPROVIDO. I - O Tribunal de origem dirimiu a matéria com fundamento na análise da legislação local pertinente (Lei estadual 7.551/77 e Lei Complementar 43/02), o que torna inviável o recurso, nos termos da Súmula 280 do STF. II - Agravo regimental improvido.”
+    (AI-AgR 854.196, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 21.8.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PENSÃO POR MORTE. EX-COMPANHEIRA. DEPENDÊNCIA ECONÔMICA PROVADA. PERCENTUAL DE PENSÃO FIXADO COM BASE NAS PROVAS. OFENSA REFLEXA. ANÁLISE DE NORMA INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.” (ARE-AgR 885.326, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.2.2016).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
