@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal Regional Federal da 5ª Região confirmou o entendimento do Juízo quanto à improcedência de pedido formulado em execução. Disse ser da responsabilidade da recorrente o custeio da retirada do material da área cuja desocupação foi obtida em ação de reintegração de posse. No extraordinário, ao qual foi negado seguimento, a Transnordestina alega a violação dos artigos 183, § 3º, e 191, parágrafo único, da Constituição Federal. Entende contrariado o verbete nº 340 da Súmula do Supremo. Afirma a afronta à coisa julgada e ao ato jurídico perfeito, porquanto a sentença transitada em julgado não teria implicado tal ônus, cabendo-lhe apenas a obrigação pela demolição dos imóveis construídos nos terrenos objeto da invasão.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão impugnada o seguinte trecho:
+    Examinando mais detidamente os autos, nesta oportunidade, ainda que de forma perfunctória própria deste provimento recursal, cumpre afastar a alegada ofensa a coisa julgada.
+    Com efeito, a parte dispositiva da sentença assim se houve: “[...] resolvo o processo com resolução do mérito (art. 269, I, do CPC), julgando procedente o pedido de reintegração de posse e consequente demolição das construções e outras acessões realizadas pelos réus a qual deverá ser realizada pela autora e somente após a desocupação do imóvel invadido.”(destaquei).
+    Depreende-se da leitura deste dispositivo que a coisa julgada ocorreu apenas em relação à determinação de demolição, não abrangendo, portanto, o modo de remoção dos bens. Deste modo, perfeitamente possível o exame dos meios de remoção pelo juiz da execução.
+    De outro giro, verifico que a decisão agravada deixou textualmente registrado que a determinação para o ora agravante “disponibilizar os meios de remoção (caminhões e pessoal) dos bens das pessoas ocupantes da área por ocasião da efetivação da medida”, se deu em razão da constatação da total ausência de condição financeira dos moradores da área.
+    (…)
+    Deste modo, a razoabilidade deve preponderar no sentido de manter a decisão agravadas no quanto determinou ao agravante a disponibilização dos “meios de remoção (caminhões e pessoal) dos bens das pessoas ocupantes da área por ocasião da efetivação da medida”.
+    Esclareço, no entanto, o custeio do transporte dos ocupantes do local, como forma de viabilizar a desocupação e consequente demolição das construções irregulares, não significa o depósito dos bens, como assim entendeu o DNIT. De se notar que a decisão agravada, não fala em depósito mas apenas em transporte com a finalidade de não haver perecimento dos bens em razão da desocupação e da condição de hipossuficiência dos ocupantes.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+ Brasília, 31 de março de 2017.
+ Ministro MARCO AURÉLIO
+Relator
