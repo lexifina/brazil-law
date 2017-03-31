@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça da Bahia, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, FÍSICOS E ESTÉTICOS. POLICIAL MILITAR ALVEJADO POR TERCEIROS QUANDO CONDUZIA VEÍCULO PARTICULAR. RESPONSABILIDADE OBJETIVA DO ESTADO DA BAHIA CARACTERIZADA. VÍTIMA LESIONADA EM RAZÃO DE SUA CONDIÇÃO DE AGENTE DE SEGURANÇA PÚBLICA. TEORIA DO RISCO ADMINISTRATIVO. RECURSO PROVIDO”. (eDOC 1, p. 211)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 37, § 6º, do texto constitucional.
+    Nas razões recursais, alega-se que a teoria do risco administrativo para reconhecer a responsabilidade objetiva do Estado foi aplicada em situação que foge completamente àquela prevista constitucionalmente, pois o agente causador teria sido um terceiro alheio à Administração Pública. (eDOC 2, p. 25)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou que o crime de que foi vítima o recorrido foi proveniente da atividade estatal. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “As circunstâncias do crime, as condições de execução, a localidade onde este ocorreu, bem corno a natureza das funções exercidas pelo recorrente permitem concluir que o apelante foi vitimado em razão de sua função policial. (…)
+    Destarte, as circunstâncias acima descritas permitem atribuir responsabilidade objetiva ao Estado apelado, a ensejar a reforma da (decisão) recorrida”. (eDOC 1, p. 213)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATI-VO. DANOS MORAIS. PROFESSOR. SALA DE AULA. ALUNOS. ADVERTÊNCIA. AMEAÇAS VERBAIS. AGRESSÃO MORAL E FÍSICA. RESPONSABILIDADE OBJETIVA DO ESTADO. ARTIGO 37, § 6º, DA CONSTITUIÇÃO FEDERAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO”. (RE 633138 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 21.9.2012)
+    “Agravo regimental no recurso extraordinário. 2. Responsabilidade civil do Estado. Dever de indenizar. 3. Matéria debatida pelo tribunal de origem à luz das provas juntadas aos autos. 4. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento”. (ARE-AgR 931.305, de minha relatoria, Segunda Turma, DJe. 1º.3.2016)
+    Registro, igualmente, que a jurisprudência desta Corte não agasalha a tese defendida pelo recorrente, mas reconhece a responsabilidade objetiva do Estado por danos sofridos por seus agentes em razão de sua função pública.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE OBJETIVA DO ESTADO. DANOS CAUSADOS AOS PRÓPRIOS AGENTES PÚBLICOS. O Supremo Tribunal Federal firmou entendimento no sentido de que excluir da responsabilidade do Estado os danos causados aos próprios agentes públicos acabaria por esvaziar o preceito do art. 37, § 6º, da Constituição Federal, estabelecendo distinção nele não contemplada. Precedentes. Agravo regimental a que se nega provimento”. (RE 435444 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 9.6.2014)
+    “Agravo regimental no agravo de instrumento. Administrativo. Responsabilidade objetiva do Estado. Vocábulo “terceiros”. Extensão. Agente público. Possibilidade. Pressupostos. Verificação. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Segundo a jurisprudência da Corte, o vocábulo “terceiros” contido no art. 37, § 6º, da Constituição Federal dirige-se a todos que vierem a suportar o dano, ainda que a vítima seja agente público, desde que o fato ensejador da reparação guarde relação com a função estatal exercida. 2. A verificação da efetiva ocorrência dos pressupostos da responsabilidade extracontratual do Estado não prescinde do exame da legislação infraconstitucional e dos fatos e das provas dos autos, o que é inadmissível em recurso extraordinário. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido”. (AI 858600 AgR, rel. Min. Dias Toffoli, Primeira Turma, DJe 2.6.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de março de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
