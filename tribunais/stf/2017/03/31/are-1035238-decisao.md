@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da 2ª Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, assim ementado:
+    “RECURSO INOMINADO. DETRAN. EXCESSO DE VELCIDADE. EQUIPAMENTO MEDIDOR DEVIDAMENTE CONFERIDO. PENALIDADE ADMINISTRATIVA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95.
+    1) Aparelho medidor de velocidade dentro do prazo de validade da verificação efetivada, conforme a prova dos autos evidencia.
+    2) Assim, na forma do artigo 46 da Lei nº 9.099/95 e em atenção aos critérios de celeridade, simplicidade, informalidade e economia processual elencados no artigo 2º da mesma lei, confirma-se a sentença em segunda instância, constando apenas da ata, com fundamentação sucinta e dispositivo, servindo de acórdão a súmula do julgamento.
+    RECURSO DESPROVIDO. UNÂNIME.”
+    Opostos embargos de declaração, não foram acolhidos.
+    No recurso extraordinário, sustenta-se violação do artigo 93, incisos IX e X, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ademais, adotar entendimento diverso do esposado pelo acórdão recorrido demandaria o reexame da legislação infraconstitucional pertinente (Código de Trânsito Brasileiro) e do quadro fático-probatório carreado aos autos, o que obsta o processamento do apelo extremo. Incidência, na espécie, da Súmula 279 desta Corte. Nesse sentido, anote-se:
+    “Agravo regimental no agravo de instrumento. Administrativo. Multa de trânsito. Artigo 5º, inciso XXXVI, da Constituição Federal. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. Inviável, em recurso extraordinário, a análise de ofensa indireta ou reflexa à Constituição Federal. 3. Agravo regimental não provido” (AI nº 832. 578/RS-AgR, Primeira Turma, de minha relatoria, DJe de 28/4/2014).
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. RECURSO EXTRAORDINÁRIO – PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de entendimento. O instituto visa o cotejo indispensável a que se diga enquadrado o recurso extraordinário no permissivo constitucional” (ARE nº 742.599/DF-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 10/2/14).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional (Código Nacional de Trânsito): alegada ofensa reflexa ou indireta à Constituição, inviável no RE: pretensão a reexame de matéria de fato e de prova (Súmula 279)” (AI nº 451.268/RS-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 30/4/04).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 31 de março de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
