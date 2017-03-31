@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência de pedido formulado em embargos à execução, tendo por reenchidos os requisitos para a emissão da certidão de dívida ativa. No extraordinário cujo processamento busca alcançar, a recorrente aponta violados os artigos 5º, inciso LV, e 37 da Constituição Federal. Alega contrariados os princípios do devido processo legal, do contraditório e da ampla defesa. Afirma a inexigibilidade do título.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    No caso dos autos, realizando o confronto entre a certidão de dívida ativa que embasa a execução fiscal (fl. 03) com as disposições dos artigos transcritos, verifica-se que o título não possui o vício alegado. É que no caso concreto é possível verificar a origem do crédito (EM instalada irregularmente e desatendimento da intimação para que houvesse a regularização ou a retirada do equipamento), sua natureza (crédito não tributário decorrente de multa administrativa) e o fundamento legal (Lei n. 13.756/04, art. 1 °, regulamentado pela Lei n. 44.944/04, c.c. art. 18, S. 2, regulamentado pela Lei n. 44.944/04, art. 18, 5 25. Os fundamentos legais também constaram no auto de multa (fl. 33 dos embargos) e deles se extrai que o motivo da multa é a execução de uma obra de construção civil (execução/ instalação de estação de rádio base) sem observância de normas de competência inerentes à ocuparão do espaço urbanístico (ocupação do solo), em especial a inobservância da exigência de prévio alvará e o não atendimento da intimação para regulairização ou retirada em 30 dias).
+    […]
+    Em suma, a CDA é valida e possui os requisitos de certeza, liquidez e exigibilidade, os quais não foram elididos pela embargante.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à suposta violação ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 31 de março de 2017.
+Ministro MARCO AURÉLIO
+Relator
