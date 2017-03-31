@@ -1,0 +1,32 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 2ª Turma do Colégio Recursal do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 4, p. 13):
+    “Ação Declaratória de Inexistência de Relação Jurídica-Tributária. Repetição do Indébito. Competência do Juizado da Fazenda Pública. Legitimidade ativa da parte autora. Questão pacificada pelo Superior Tribunal de Justiça através do julgamento do REsp nº 1.299.303-SC, processado no regime do artigo 543-C do CPC. Pretensão à declaração de inexistência de relação jurídico-tributária entre as partes quanto à incidência e cobrança do ICMS sobre as tarifas de transmissão e distribuição de energia elétrica (TUSD e TUST) e encargos setoriais. Sentença de procedência. Precedentes do C. STJ e do E. Tribunal de Justiça do Estado de São Paulo. Decisões reiteradas no sentido de que não deve haver incidência de ICMS sobre as referidas tarifas. Manutenção da repetição do indébito, considerada a ilegalidade da cobrança. JUROS E CORREÇÃO MONETÁRIA. ICMS. Natureza jurídica tributária. Inaplicabilidade do artigo 1º-F da Lei Federal nº 9.494/97, com redação dada pela Lei Federal nº 11.960/09. O índice aplicável para atualização monetária e juros de mora é a taxa SELIC, a partir do trânsito em julgado. Incidência do art. 167, parágrafo único, do CTN e da Súmula 188 do STJ. Sentença mantida. Recurso improvido.”
+    No recurso extraordinário (eDOC 4, p. 27-48), interposto com fundamento no art. 102, III, “a” e “b”, da Constituição Federal, aponta-se ofensa ao art. 155, II e § 3º, do Texto Constitucional e ao art. 34, § 9º, do ADCT.
+    Sustenta-se, preliminarmente, a ilegitimidade do consumidor para pleitear a restituição do indébito tributário, à luz do que prescrevem os arts. 165 e 166 do Código Tributário Nacional.
+    No mérito, alega-se a possibilidade da inclusão das Tarifas de Uso do Sistema de Transmissão e Distribuição de energia elétrica (TUST e TUSD) na base de cálculo do ICMS.
+    Aduz-se, ainda, a aplicabilidade do art. 1º-F, da Lei 9.494/1997.
+    O Tribunal de origem inadmitiu o recurso extraordinário com fundamento na ausência de prequestionamento dos dispositivos constitucionais apontados e de fundamentação da preliminar de repercussão geral (eDOC 4, p. 49-51).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observa-se que os dispositivos constitucionais elencados pelo recorrente carecem do necessário prequestionamento. Esta Corte tem consignado ser inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo ato recorrido. Incide, portanto, a Súmula 282 do Supremo Tribunal Federal.
+    No que tange à legitimidade do consumidor para pleitear a restituição do indébito tributário, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente. Sendo assim, esta discussão revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do apelo extremo.
+    No mérito, observa-se que o Tribunal de origem asseverou (eDOC 4, p. 19):
+    “Como cediço, a hipótese de incidência tributária que dá azo à cobrança de ICMS, é a operação que envolve a circulação de mercadoria, a qual é equiparada a energia elétrica efetivamente consumida, do que se extrai a plausibilidade do direito invocado.
+    Nesse contexto, cumpre dizer que a Lei Estadual nº 6.374/89 elege a efetiva circulação da mercadoria como o aspecto temporal para a hipótese de incidência tributária, como se vê:
+    “Artigo 2º – Ocorre o fato gerador do imposto:
+    (Redação dada ao artigo pela Lei 10.619/00, de 19-07-2000; DOE 20-07-2000)
+    I – na saída de mercadoria, a qualquer título, de estabelecimento de contribuinte, ainda que para outro estabelecimento do mesmo titular;”
+    Nota-se, assim, que embora o núcleo da atividade de tributação esteja, em regra, relacionado à operação mercantil (isto é, o negócio jurídico que faz ocorrer o fato imponível), é apenas a circulação do bem que autoriza a exação.
+    Assim, é possível presumir que nos casos em que a demanda contratada seja superior à efetivamente consumida, há pagamento sem circulação da mercadoria. E se não há a efetiva circulação da mercadoria, não há como ter por ocorrido o fato gerador do tributo.
+    (…)
+    Com efeito, na situação sob exame há circulação econômica com transferência de propriedade da energia elétrica apenas no momento em que está consumida pelo destinatário, o que não ocorre na fase de transmissão e distribuição, que são meras etapas necessárias à prestação do serviço público de fornecimento de energia elétrica.”
+    Desta forma, constata-se que o acórdão recorrido não destoa da jurisprudência desta Corte, segundo a qual “a circulação de mercadoria é pressuposto de incidência do ICMS” (RE 461.968, Rel. Min. Eros Grau, Tribunal Pleno, DJe 24.08.2007).
+    Para divergir do entendimento adotado pelo juízo a quo sobre a inexistência de circulação, seria necessário o reexame de fatos e provas e o da legislação local aplicável à espécie, o que inviabiliza o processamento do recurso extraordinário, tendo em conta os enunciados das Súmulas 279 e 280 do STF.
+    Confiram-se, a propósito, os seguintes julgados: RE 1.028.110, Rel. Min. Rosa Weber, DJe 28.03.2017 e RE 1.016.986, Rel. Min. Dias Toffoli, DJe 03.02.2017.
+    Quanto à aplicabilidade do art. 1º-F, da Lei nº 9.494/1997, constata-se que a controvérsia cinge-se ao Tema 810 da sistemática da repercussão geral, cujo recurso-paradigma é o RE 870.947 RG, de relatoria do Ministro Luiz Fux, DJe 27.04.2015, assim ementado:
+    “DIREITO CONSTITUCIONAL. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ART. 1º-F DA LEI Nº 9.494/97 COM A REDAÇÃO DADA PELA LEI Nº 11.960/09. TEMA 810. REPERCUSSÃO GERAL RECONHECIDA.”
+    Ante o exposto, desprovejo parcialmente o agravo, nos termos dos arts. 932, IV, “a”, do CPC e 21, §1º, do RISTF, e, com base no art. 328 do RISTF, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil em relação à matéria tratada no Tema 810 da sistemática da repercussão geral.
+    Publique-se.
+    Brasília, 31 de março de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
