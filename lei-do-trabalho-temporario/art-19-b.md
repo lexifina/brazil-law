@@ -1,0 +1,1 @@
+Art. 19-B. O disposto nesta Lei não se aplica às empresas de vigilância e transporte de valores, permanecendo as respectivas relações de trabalho reguladas por legislação especial, e subsidiariamente pela Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.
