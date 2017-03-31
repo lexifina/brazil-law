@@ -1,1 +1,3 @@
-Art. 2º - Trabalho temporário é aquele prestado por pessoa física a uma empresa, para atender à necessidade transitória de substituição de seu pessoal regular e permanente ou à acréscimo extraordinário de serviços.
+Art. 2º Trabalho temporário é aquele prestado por pessoa física contratada por uma empresa de trabalho temporário que a coloca à disposição de uma empresa tomadora de serviços, para atender à necessidade de substituição transitória de pessoal permanente ou à demanda complementar de serviços.
+§ 1º É proibida a contratação de trabalho temporário para a substituição de trabalhadores em greve, salvo nos casos previstos em lei.
+§ 2º Considera-se complementar a demanda de serviços que seja oriunda de fatores imprevisíveis ou, quando decorrente de fatores previsíveis, tenha natureza intermitente, periódica ou sazonal.

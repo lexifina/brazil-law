@@ -1,1 +1,1 @@
-Art. 5º - O funcionamento da empresa de trabalho temporário dependerá de registro no Departamento Nacional de Mão-de-Obra do Ministério do Trabalho e Previdência Social.
+Art. 5º Empresa tomadora de serviços é a pessoa jurídica ou entidade a ela equiparada que celebra contrato de prestação de trabalho temporário com a empresa definida no art. 4º desta Lei.
