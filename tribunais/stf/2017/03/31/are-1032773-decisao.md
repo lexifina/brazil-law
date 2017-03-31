@@ -1,0 +1,35 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. COMPOSIÇÃO GRÁFICA. AGENDAS E MATERIAL DE ESCRITÓRIO PERSONALIZADO. CONTROVÉRSIA QUANTO À INCIDÊNCIA DO ICMS OU DO ISSQN. CONCLUSÃO DO ACÓRDÃO RECORRIDO DE QUE O MATERIAL NÃO É EMPREGADO NO PROCESSO PRODUTIVO DE MERCADORIAS. INCIDÊNCIA DO ISSQN. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “AÇÃO DECLARATÓRIA – Não incidência de ICMS – Atividade de realização de serviços gráficos sob encomenda.
+    Personalização de agendas e artigos de papelaria não é fato gerador – Inteligência do item 13.05 da LC 116/03 e súmula 156 do STJ – Recurso desprovido.” (doc. 3, fls. 30)
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, a parte recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação aos artigos 155, II e § 2º, IX, b; e 156, III, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que as alegadas ofensas à Constituição Federal não teriam sido prequestionadas.
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    No julgamento da medida cautelar na ADI 4.389, Rel. Min. Joaquim Barbosa, DJe de 25/5/2011, o Plenário desta Corte firmou entendimento no sentido de que incide ICMS na operação de industrialização de embalagens submetidas à composição gráfica personalizada tão somente nas hipóteses em que a produção gráfica é encomendada para posterior integração ao complexo produtivo destinado a inserir bens em comércio. Colhe-se a ementa do referido julgado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONFLITO ENTRE IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA E IMPOSTO SOBRE OPERAÇÃO DE CIRCULAÇÃO DE MERCADORIAS E DE SERVIÇOS DE COMUNICAÇÃO E DE TRANSPORTE INTERMUNICIPAL E INTERESTADUAL. PRODUÇÃO DE EMBALAGENS SOB ENCOMENDA PARA POSTERIOR INDUSTRIALIZAÇÃO (SERVIÇOS GRÁFICOS).
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE AJUIZADA PARA DAR INTERPRETAÇÃO CONFORME AO ART. 1º, CAPUT E § 2º, DA LEI COMPLEMENTAR 116/2003 E O SUBITEM 13.05 DA LISTA DE SERVIÇOS ANEXA. FIXAÇÃO DA INCIDÊNCIA DO ICMS E NÃO DO ISS. MEDIDA CAUTELAR DEFERIDA.
+    Até o julgamento final e com eficácia apenas para o futuro (ex nunc), concede-se medida cautelar para interpretar o art. 1º, caput e § 2º, da Lei Complementar 116/2003 e o subitem 13.05 da lista de serviços anexa, para reconhecer que o ISS não incide sobre operações de industrialização por encomenda de embalagens, destinadas à integração ou utilização direta em processo subseqüente de industrialização ou de circulação de mercadoria. Presentes os requisitos constitucionais e legais, incidirá o ICMS.”
+    Na ocasião, o Tribunal adotou como premissa para o julgamento a noção de que o fato gerador da obrigação tributária deve ser interpretado de acordo com a expressão econômica da base imponível e com o contexto da cadeia produtiva. A solução lá empregada e que se aplica ao caso em tela, para resolução do aparente conflito entre o ISSQN e o ICMS nos serviços gráficos, está no papel que essa atividade tem no ciclo produtivo. A propósito, conforme acentuou o ilustre Ministro Relator:
+    “Assim, não há como equiparar a produção gráfica personalizada e encomendada para uso pontual, pessoal ou empresarial, e a produção personalizada e encomendada para fazer parte de complexo processo produtivo destinado a por bens em comércio.”
+    In casu, o Tribunal a quo asseverou:
+    “Verificou-se no curso do processo que a empresa Prol Editora Gráfica Ltda. dedica-se à personalização de material de escritório, para uso exclusivo da outra empresa. Não se trata de revenda de produtos impressos e nem parte componente de um processo de industrialização, mas de prestação de um serviço.
+    (…)
+    Ademais, na ocasião do julgamento do agravo de instrumento (653.242-5-00) contra decisão de fl. 103, que indeferiu o pedido de tutela das autoras, o em. relator do acórdão, Des. Paulo Travain, assim considerou:
+    ‘No caso, verifica-se que uma das atividades das autoras será a 'personalização' de materiais de escritório e agendas com dados fornecidos por clientes determinados, e, por isso, produtos de interesse exclusivo destes, porque somente a estes são úteis, não se tratando de revenda indiscriminada no mercado. Ademais, a atividade das agravantes aqui tratada tem por objetivo atender a consumidores finais e não ao preparo para comércio em geral, razão pela qual está ela sujeita ao pagamento do INSS, não se justificando exigência de ICMS’ (fl. 371).” (doc. 3, fls. 31-32)
+    Nesse contexto, o acórdão recorrido, ao concluir pela não incidência do ICMS, não divergiu da jurisprudência atual desta Corte.
+    Saliente-se que referida jurisprudência foi reiterada em feito submetido à Primeira Turma do Supremo Tribunal Federal, AI 803.296-AgR, Rel. Min. Dias Toffoli, DJe de 7/6/2013, cuja ementa segue transcrita:
+    “Agravo regimental no recurso extraordinário. Serviço de composição gráfica com fornecimento de mercadoria. Conflito de incidências entre o ICMS e o ISSQN. Serviços de composição gráfica e customização de embalagens meramente acessórias à mercadoria. Obrigação de dar manifestamente preponderante sobre a obrigação de fazer, o que leva à conclusão de que o ICMS deve incidir na espécie.
+    1. Em precedente da Corte consubstanciado na ADI nº 4.389/DF-MC, restou definida a incidência de ICMS `sobre operações de industrialização por encomenda de embalagens, destinadas à integração ou utilização direta em processo subsequente de industrialização ou de circulação de mercadoria´.
+    2. A verificação da incidência nas hipóteses de industrialização por encomenda deve obedecer dois critérios básicos: (i) verificar se a venda opera-se a quem promoverá nova circulação do bem e (ii) caso o adquirente seja consumidor final, avaliar a preponderância entre o dar e o fazer mediante a averiguação de elementos de industrialização.
+    4. À luz dos critérios propostos, só haverá incidência do ISS nas situações em que a resposta ao primeiro item for negativa e se no segundo item o fazer preponderar sobre o dar.
+    5. A hipótese dos autos não revela a preponderância da obrigação de fazer em detrimento da obrigação de dar. Pelo contrário. A fabricação de embalagens é a atividade econômica específica explorada pela agravante. Prepondera o fornecimento dos bens em face da composição gráfica, que afigura-se meramente acessória. Não há como conceber a prevalência da customização sobre a entrega do próprio bem.
+    6. Agravo regimental não provido.”
+    Seguindo essa orientação, menciono, ainda, os seguintes julgados: RE 606.960-AgR-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 13/5/2014; RE 592.752-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 14/4/2014.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de março de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
