@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “AÇÃO INDENIZATÓRIA – Acidente de trânsito – Buraco na via pública de grandes dimensões e sem a devida sinalização – Autor que fraturou a clavícula no acidente – Danos morais devidos, mas reduzidos ao montante pleiteado – Falha do serviço público verificada – Obrigação de indenizar – Recurso parcialmente provido, com observação” (pág. 64 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, violação aos arts. 5º, LV, e 37, § 6º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Supremo Tribunal Federal firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), da relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria em acórdão assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Além disso, o Tribunal de origem decidiu a questão posta nos autos com base nos seguintes fundamentos:
+    “Ao que consta dos autos, o autor, segurança, trafegava de motocicleta na Avenida Galvão Bueno, próximo ao nº 4.705, às 5h10, quando ao frear e desviar, acabou caindo em buraco aberto na via pública, o que lhe ocasionou fratura na clavícula.
+    Há ampla prova fotográfica do local, dos buracos na pista, e os danos sofridos também estão bem demonstrados. Evidente, pois, que a falha do serviço público atuou como causa do acidente, provocada pelos buracos na via pública, de expressiva dimensão, sem que se possa admitir culpa do condutor, mesmo concorrente. A falha do serviço está demonstrada na falta de manutenção da via e de avisos sobre o estado da pista, cuja responsabilidade é do Município. Mesmo que as valetas tenham sido abertas pela Sabesp, o município tinha a obrigação de fiscalizar ou, de exigir que fossem fechados assim que terminada a obra” (pág. 65 do documento eletrônico 3).
+    Desse modo, para dissentir da conclusão adotada pelo Tribunal de origem e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 desta Corte. Nesse sentido, cito o ARE 754.958-AgR/RJ, da relatoria do Ministro Luiz Fux, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE OBJETIVA DO ESTADO. ACIDENTE. BURACO EM VIA PÚBLICA. CABIMENTO DE INDENIZAÇÃO. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF.
+    1. O nexo de causalidade apto a gerar indenização por dano moral em face da responsabilidade do Estado, quando controversa sua existência, demanda a análise do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279/STF que dispõe verbis: ‘Para simples reexame de prova não cabe recurso extraordinário’.
+    2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    3. In casu, o acórdão recorrido assentou: ‘APELAÇÃO CÍVEL – INDENIZATÓRIA – DANOS MORAIS, ESTÉTICOS E MATERIAIS’.
+    4. Agravo regimental DESPROVIDO”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de março de 2017.
+Ministro Ricardo Lewandowski
+Relator
