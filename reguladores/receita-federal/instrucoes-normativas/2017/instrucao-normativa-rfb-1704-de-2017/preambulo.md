@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1704, de 31 de março de 2017
+Dispõe sobre a reabertura do prazo de adesão ao Regime Especial de Regularização Cambial e Tributária, de que trata a Lei nº 13.428, de 30 de março de 2017.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999 e nos arts. 2º e 5º da Lei nº 13.428, de 30 de março de 2017, resolve:
