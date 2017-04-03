@@ -1,0 +1,27 @@
+Decisão:
+    Trata-se de agravo de instrumento contra decisão que inadmitiu o recurso extraordinário fundado na letra a do permissivo constitucional, contra acórdão assim ementado:
+    PRECATÓRIO. Parcelamento. Incidência dos juros fixados na sentença. Imutabilidade da coisa julgada. Agravo provido .
+    No extraordinário, o Estado alega contrariedade aos arts. 5º, LV e LIV; 100 e parágrafos da Constituição e, ao art. 78 do ADCT.
+    Decido.
+    Reexaminando os autos, observo ser o caso de afastar o sobrestamento antes determinado e apreciar o recurso com base na jurisprudência consolidada na Corte.
+    O Plenário do Supremo Tribunal Federal, em sede de repercussão geral e por meio eletrônico, ratificou sua jurisprudência, no sentido da obrigatoriedade de citação da Fazenda Pública, quando da expedição de precatório complementar. Nesse sentido:
+    EXPEDIÇÃO DE PRECATÓRIO COMPLEMENTAR. NECESSIDADE DE CITAÇÃO DA FAZENDA PÚBLICA. RATIFICAÇÃO DA JURISPRUDÊNCIA FIRMADA POR ESTA SUPREMA CORTE. EXISTÊNCIA DE REPERCUSSÃO GERAL. (RE 605481 RG / SP, Rel. Min. Ellen Gracie, Dje de 20/8/2011)
+     Na jurisprudência da Corte, foram ressalvadas da necessidade de expedição de novo precatório e citação da Fazenda Pública, as hipóteses de erro material, inexatidão aritmética ou substituição de índices de correção monetária, por força de lei. Nesse sentido:
+     “Agravo regimental no recurso extraordinário. precatório. Crédito complementar. Dispensa da expedição de novo precatório. Precedentes. 1. A jurisprudência desta Corte pacificou-se no sentido de que a dispensa de novo precatório ocorrerá quando se tratar de crédito apurado em razão de erro material ou de inexatidão aritmética dos cálculos do precatório, ou na hipótese de substituição, por força de lei, do índice aplicado. 2. Agravo regimental não provido.” (RE 515.201 AgR, Primeira Turma, de minha relatoria, DJe de 17/5/12).
+    Agravo regimental em agravo de instrumento. 2. Desacerto da decisão agravada não demonstrado. 3. Controvérsia constitucional. Ofensa direta. 4. Débitos da Fazenda Pública. Expedição de precatório complementar. Nova citação. Desnecessidade. Hipóteses específicas: erro material, inexatidões aritméticas ou substituição de índices já extintos. Precedente. 5. Decisões judiciais. Novo precatório. Nova citação. Necessidade. Precedentes. 6. Agravo regimental a que se nega provimento.” (Segunda Turma, AI 534.539-AgR, Rel. Min. Gilmar Mendes)
+     Portanto, para a complementação de depósito insuficiente, faz-se necessária a expedição de novo precatório e nova citação da Fazenda Pública.
+    ‘AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. FAZENDA PÚBLICA. PRECATÓRIO COMPLEMENTAR. INDISPENSABILIDADE. Esta Corte firmou entendimento no sentido de ser necessária a expedição de precatório, a ser processado na forma estabelecida no artigo 100 e parágrafos, da CB/88, não havendo cabimento para notificação, ao Poder Público, no sentido de que realize a complementação do pagamento em prazo determinado pelo Juiz. Precedentes. Agravo regimental a que se nega provimento.’ (AI nº 488.047-AgR, Rel. Min. Eros Grau, DJ de 8/4/05)
+    Quanto aos juros, assim se manifestou o Tribunal de origem, inclusive por meio de embargos de declaração.
+    "Inexiste dispositivo legal determinando que os pagamentos de eventuais diferenças sejam quitadas somente ao término da última parcela. O art. 33, bem como o artigo 78 do Ato das Disposições Constitucionais Transitórias deixam claro que os precatórios serão liquidados pelo seu valor real, em parcelas anuais, iguais (à evidência pelo valor real) e sucessivas .
+    Aí se dispôs que todo o montante do precatório, isto é, o principal, juros e correção monetária, teria o pagamento parcelado, e não apenas o principal – entendendo-se, tudo acertado e atualizado até o pagamento de cada uma das prestações anuais" (fls. 211/212)
+    ….
+    Quanto ao percentual dos juros de mora, igualmente sem razão a Fazenda, ao sustentar que só a primeira parcela do precatório conteria juros de 1% ao ano, nos termos do art. 10, da Lei Complementar n. 63/90; as demais incluiriam juros de 6%, que entende como legais.
+    A sua interpretação é isolada e ofende a coisa julgada.
+    Dai ter constado do julgado: "É bem de ver que a Fazenda do Estado corrigiu os valores das parcelas monetariamente, mas aplicando juros de 6% ao ano, nos termos do Decreto Estadual n. 46.030/2001 e art. 5°, da Lei Estadual n. 11.377/2003. Contudo, a decisão que transitou em julgado fixou juros de 1% ao ano, com base no disposto no art. 10, da Lei Complementar n. 63/90, até o efetivo pagamento corrigido (fls. 23)" (fls. 212) .”
+    Sobre as parcelas em atraso é evidente que incide juros de mora. Todavia, no caso concreto, para aferir o alcance da coisa julgada material em confronto com os cálculos efetuados pelo juízo da execução, a título de “complementação dos depósitos”, bem como das normas locais (Decreto nº 46.030/01 e Lei nº 11.377/03), com a Lei Complementar nº 63/90, necessário seria a reanálise da causa à luz da legislação infraconstitucional de regência e o revolvimento do conjunto fático e probatório, providências vedadas em sede de apelo extremo, a teor das Súmulas 280 e 279 do STF.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou parcial provimento ao recurso extraordinário tão somente para determinar a expedição de novo precatório com a regular citação da Fazenda Pública.
+    Publique-se.
+    Brasília, 3 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
