@@ -1,0 +1,16 @@
+DESPACHO
+    1. Em 16.2.2017, ao apreciar a Petição/STF n. 5.760, de 15.2.2017, na qual a defesa do Paciente pediu a redistribuição deste habeas corpus, afirmei não incidir na espécie o art. 68, caput, do Regimento Interno do Supremo Tribunal, por não ter, então, transcorrido trinta dias do falecimento do Relator, Ministro Teori Zavascki, pelo que deveria ser aplicado o art. 38, inc. I, para a definição do Ministro substituto eventual que deveria deliberar tão somente sobre providências de emergência, como, no caso, o requerimento de medida liminar.
+    2. Este processo foi encaminhado ao Ministro Marco Aurélio, que, em 27.3.2017, determinou fosse retificada a autuação deste habeas corpus, “considerada a redistribuição”, e deferiu a medida liminar pleiteada (edoc. 14).
+    3. Em 3.4.2017, os autos voltaram a esta Presidência por consulta feita pela Secretaria Judiciária:
+    “Peço vênia para, de ofício, informar que o Habeas Corpus n. 139.612 foi remetido a esta Secretaria Judiciária para cumprimento do art. 38, I, do RISTF – substituição de Relator para deliberação sobre medida urgente -, determinado por Vossa Excelência em despacho exarado em 16/2/2017, considerando requerimento da defesa do paciente.
+    Em cumprimento à determinação, em 21/02/2017, esta Secretaria realizou a conclusão dos autos, nos termos do art. 38, I, do RISTF, ao Senhor Ministro Marco Aurélio.
+    Em 22/03/2017, com a posse do Senhor Ministro Alexandre de Moraes, houve a substituição de acervo do cargo vago, nos termos do artigo 38, IV, a, do RISTF.
+    Em 27/3/2017, o Senhor Ministro Marco Aurélio deferiu a liminar pleiteada, e determinou a expedição de alvará de soltura com determinadas cautelas. Ocorre que, na aludida decisão, consta a seguinte determinação: ‘2. Retifiquem a autuação considerada a redistribuição’.
+    Diante do exposto, considerando que a aplicação do art. 38, I, do RISTF, não enseja a redistribuição do processo e que os autos já estão substituídos, conforme dispõe o art. 38, IV, a, do RISTF, consulto Vossa Excelência como proceder”.
+    4. O presente habeas corpus foi encaminhado ao Ministro Marco Aurélio para atuação como substituto eventual do Ministro Teori Zavascki, nos termos do art. 38, inc. I, do Regimento Interno do Supremo Tribunal Federal, não se havendo cogitar, portanto, de redistribuição na espécie vertente. Nesse sentido, por exemplo:
+    “Ademais, não há falar em prorrogação de competência da eminente Ministra Cármen Lúcia por conta da decisão proferida em singela substituição de relatoria, nos termos do art. 38, I, do RISTF. É que, conquanto S. Exª. tenha apreciado o pedido de liminar, tal fenômeno (substituição de relatoria) ocorre excepcionalmente nas hipóteses de urgência, e em face da ausência do Relator do feito, o que não tem o condão de deslocar a competência em face de prevenção” (Habeas Corpus n. 101.328/ES, Ministro Cezar Peluso, DJe 15.12.2010).
+    5. Pelo exposto, encaminhe-se o processo ao gabinete do Ministro Alexandre de Moraes, sucessor do Ministro Teori Zavascki, para decidir como de direito (al. a do inc. IV do art. 38 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 3 de abril de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
