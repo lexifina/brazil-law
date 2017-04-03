@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1703, de 31 de março de 2017
+Altera a Instrução Normativa RFB nº 958, de 15 de julho de 2009, que estabelece procedimentos para revisão das Declarações de Ajuste Anual do Imposto sobre a Renda das Pessoas Físicas (DIRPF) e do Imposto sobre a Propriedade Territorial Rural (DITR).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 149 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), e no art. 6º da Lei nº 10.593, de 6 de dezembro de 2002, resolve:
