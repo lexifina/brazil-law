@@ -1,0 +1,18 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “RECURSOS OFICIAL E DE APELAÇÃO — MANDADO DE SEGURANÇA — ENTIDADE RELIGIOSA — ICMS — EQUIPAMENTO IMPORTADO PARA SER UTILIZADO NA MANUTENÇÃO DO INTERIOR DE IGREJA — IMUNIDADE TRIBUTÁRIA — POSSIBILIDADE. 1. Entidade de caráter religioso, civil, cultural, beneficente, filantrópico, extrapartidária e sem fins lucrativos, reconhecida no agravo de instrumento nº 0543857-93.2010, julgado por esta Egrégia 5ª Câmara de Direito Público, à unanimidade de votos, em 18.07.2011, quando antecipados os efeitos da tutela jurisdicional em favor da parte apelada. 2. Hipótese de incidência do artigo 150, inciso VI, ‘c’ e § 4º, da CF. 3. Sentença de concessão da segurança mantida, nos termos do artigo 252 do Regimento Interno deste E. Tribunal de Justiça. 4. Recursos oficial e de apelação, na parte conhecida, desprovidos.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cabe observar, desde logo, que a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal (AI 476.664-AgR/RS, Rel. Min. JOAQUIM BARBOSA – AI 484.661-AgR/RS, Rel. Min. AYRES BRITTO – RE 203.755/ES, Rel. Min. CARLOS VELLOSO – RE 311.626-AgR/PA, Rel. Min. CÁRMEN LÚCIA, v.g.):
+    “TRIBUTÁRIO. ICMS. IMUNIDADE. OPERAÇÕES DE IMPORTAÇÃO DE MERCADORIA REALIZADA POR ENTIDADE DE ASSISTÊNCIA SOCIAL. AGRAVO IMPROVIDO.
+    I – A jurisprudência da Corte é no sentido de que a imunidade prevista no art. 150, VI, c, da Constituição Federal abrange o ICMS incidente sobre a importação de mercadorias utilizadas na prestação de seus serviços específicos.
+    II – Agravo improvido.”
+    (AI 669.257-AgR/RS, Rel. Min. RICARDO LEWANDOWSKI)
+    “AGRAVO DE INSTRUMENTO – ICMS – INCIDÊNCIA – OPERAÇÃO DE IMPORTAÇÃO, POR ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS, DE BENS RELACIONADOS COM SUAS FINALIDADES ESSENCIAIS – IMPOSSIBILIDADE – TRANSGRESSÃO À NORMA CONSTITUCIONAL DA IMUNIDADE TRIBUTÁRIA (CF, ART. 150, VI, ‘c’) – RECURSO DE AGRAVO IMPROVIDO.”
+    (AI 785.459-AgR/RS, Rel. Min. CELSO DE MELLO)
+    Impõe-se ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte, a propósito de questão essencialmente idêntica à que ora se examina nesta sede recursal (AI 675.567/RS, Rel. Min. DIAS TOFFOLI – AI 719.014/SP, Rel. Min. ELLEN GRACIE – AI 831.455/SP, Rel. Min. JOAQUIM BARBOSA – AI 836.299/SP, Rel. Min. MARCO AURÉLIO – ARE 644.132/SP, Rel. Min. GILMAR MENDES – ARE 991.742/SP, Rel. Min. RICARDO LEWANDOWSKI – RE 386.125/RS, Rel. Min. GILMAR MENDES, v.g.).
+    O exame da presente causa evidencia que o acórdão questionado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, VIII, e RISTF, art. 21, § 1º).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 04 de abril de 2017.
+Ministro CELSO DE MELLO
+Relator
