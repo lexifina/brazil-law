@@ -1,0 +1,25 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “I - AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DE RIBEIRÃO PRETO DA UNIVERSIDADE DE SÃO PAULO. NATUREZA JURÍDICA SALARIAL DO AUXÍLIO-ALIMENTAÇÃO PAGO PELA FAEPA. A Corte Regional decidiu em harmonia com a jurisprudência deste Tribunal. Incidência do art. 896, § 7º, da CLT, combinado com art. 557 do CPC, e Súmula 333 do TST. Agravo de instrumento de que se conhece e a que se nega provimento.
+    II - AGRAVO DE INSTRUMENTO INTERPOSTO PELA RECLAMANTE. Conforme certificado pelo Tribunal Regional, a Reclamante não interpôs recurso de revista, inexistindo igualmente decisão denegatória. Agravo de instrumento de que não se conhece.” (pág. 1 do documento eletrônico 13).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação ao art. 100, caput, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o Tribunal de origem decidiu a controvérsia nos seguintes termos:
+    “No tocante aos depósitos do FGTS, o Reclamado sustenta que ‘o v. acórdão violou frontalmente o artigo 730 do CPC e o artigo 100 da CF, que estabelecem o processo e procedimento de pagamento das dívidas pecuniárias da Fazenda Pública, sejam elas obrigações de pequeno valor ou não’ (fl. 385).
+    Inexistem as violações apontadas, porque registrado no acórdão regional:
+    ‘O Juízo de origem condenou o reclamada a recolher, os depósitos dos reflexos do auxílio alimentação no FGTS, no prazo de cinco dias, contados somente a partir de intimação específica para fazê-lo. Não implicando em depósitos antecipados antes da regular liquidação e execução de sentença.
+    Isso porque, embora o pagamento das dívidas judicialmente reconhecidas da Administração Pública deva observar o disposto no artigo 100 da Constituição Federal, não se pode afastar a obrigatoriedade dos depósitos de valores devidos do FGTS objeto da condenação em conta vinculada quando em curso o contrato de trabalho, nada havendo a ser reformado na sentença de origem’
+    Portanto, a condenação diz respeito a obrigação de fazer e, conforme consta do acórdão regional, não houve determinação para a realização de depósitos antes do trânsito em julgado da sentença.” (págs. 10-11 do documento eletrônico 13).
+    Desse modo, para divergir do acórdão recorrido, seria necessário rever a interpretação, conferida pelo Tribunal a quo, à norma infraconstitucional pertinente ao caso, sendo certo que eventual ofensa à Constituição seria meramente indireta. Nesse sentido: ARE 669.844/ES, Rel. Min. Luiz Fux; RE 553.259/RJ, Rel. Min. Dias Toffoli; AI 567.676/MS, Rel. Min. Cármen Lúcia; RE 673.987/RS, de minha relatoria.
+    Ademais, o acórdão impugnado apoiou-se em fundamento infraconstitucional suficiente, o que atrai a incidência da Súmula 283 do STF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PRECLUSÃO DO FUNDAMENTO INFRACONSTITUCIONAL AUTÔNOMO DO JULGADO RECORRIDO: SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 860.420-AgR/DF, Rel. Min. Cármen Lúcia, Segunda Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E ADMINISTRATIVO. NULIDADE DE ATO ADMINISTRATIVO E PEDIDO DE REINTEGRAÇÃO AO CARGO.FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE INCIDÊNCIA DA SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 642.414-AgR/RO, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. PRECLUSÃO DE FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. INCIDÊNCIA DA SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL. TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SEST/SENAT. EMPRESA DO SETOR DE TRANSPORTE. CONSTITUCIONALIDADE. 1. Incidência da Súmula 283/STF, ante o trânsito em julgado da matéria infraconstitucional de que se valeu a instância judicante de origem para a solução da causa. Matéria que é suficiente para a manutenção da decisão recorrida. 2. O Supremo Tribunal Federal tem decidido pela constitucionalidade da contribuição destinada ao SEST/SENAT. 3. Agravo regimental a que se nega provimento” (RE 481.772-AgR/MG, Rel. Min. Ayres Britto, Segunda Turma).
+    Especificamente sobre o tema em análise, destaca-se o seguinte julgado:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. FGTS. Fundamento infraconstitucional suficiente. Incidência da Súmula nº 283/STF. Precedentes.
+    1. O Tribunal de origem adotou fundamento infraconstitucional suficiente à manutenção do acórdão recorrido. Incide a orientação da Súmula nº 283/STF.
+    2. Agravo regimental não provido.” (ARE 705.869-AgR/DF, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 15/12/2015).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 04 de abril de 2017.
+Ministro Ricardo Lewandowski
+- Relator -
