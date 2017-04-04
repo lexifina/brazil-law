@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AGRAVO DE INSTRUMENTO. PREFERÊNCIA DE TERCEIRO INTERESSADO NÃO HABILITADO EM CONCURSO DE CREDORES NEM GARANTIDO POR PENHORA NO ROSTO DOS AUTOS. INEXISTÊNCIA DE DIREITO DO TERCEIRO PREJUDICADO.
+    Decisão mantida.
+    Agravo improvido.”
+    Opostos embargos de declaração, foram providos apenas para fins de prequestionamento.
+    No recurso extraordinário, sustenta-se violação do artigo 100, § 1º, da Constituição Federal. Alega, ainda, afronta aso artigos 711 do Código de Processo Civil de 1973, 908 do novo Código de Processo Civil, 186 do Código Tributário Nacional e 30 da Lei 6.830/80.
+    Decido.
+    A irresignação não merece prosperar, uma vez que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Assim, a afronta ao dispositivo da Constituição suscitado no apelo extremo seria, se ocorresse, indireta ou reflexa, o que não se mostra suficiente para o acolhimento do reclamo. Incidência das Súmulas nºs 279 e 636/STF. Nesse sentido, destaco os seguintes precedentes:
+    “AGRAVO REGIMENTAL. PROCESSUAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ALEGADA VIOLAÇÃO DOS ARTIGOS 5º, XXXVI, LIV E LV, DA CONSTITUIÇÃO. CABIMENTO DA AÇÃO DE MANDADO DE SEGURANÇA. OFENSA INDIRETA OU REFLEXA. OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. A questão referente ao art. 100, caput e §§, da Constituição federal não foi debatida no acórdão recorrido e também não foi objeto de embargos de declaração, faltando-lhe, assim, o indispensável prequestionamento. A análise da alegação de ofensa aos postulados do devido processo legal, no que se refere a questões atinentes a concurso de credores, preferência e imputação de créditos e ordem cronológica de penhoras, demanda o prévio exame da legislação infraconstitucional e do quadro fático-probatório. O debate acerca dos pressupostos de cabimento do mandado de segurança não viabiliza a abertura da via extraordinária. O acórdão recorrido encontra-se devidamente fundamentado, ainda que com sua fundamentação não concorde a parte ora agravante. Agravo regimental a que se nega provimento”
+(AI nº 522.838/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 4/6/12).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. PENHORABILIDADE. HONORÁRIOS ADVOCATÍCIOS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A discussão acerca da possibilidade, ou não, de penhora, com desconto em folha de pagamento, de dívida oriunda de verba advocatícia demanda a análise de legislação infraconstitucional aplicável ao caso (arts. 649 e 734, do CPC, e art. 24 da Lei 8.906/94), o que inviabiliza o recurso extraordinário. 2. Agravo regimental a que se nega provimento.” (ARE nº 900.156/DF-AgR, Primeira Turma, Relator o Ministro Edson Fachin, DJe de 11/4/16).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL. EXECUÇÃO. PENHORA. CARACTERIZAÇÃO DE BEM DE FAMÍLIA.. PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE nº 887.425/SP-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 3/8/15).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. Penhora de proventos de aposentadoria. Matéria infraconstitucional. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE nº 830.636/DF-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 10/3/15).
+    Anote-se, outrossim, que foge do campo do recurso extraordinário o exame da alegada contrariedade aos dispositivos legais suscitados na petição recursal, a teor do que dispõe a Súmula nº 636/STF.
+    Ressalta-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 4 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
