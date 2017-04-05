@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de |Justiça do Estado do Rio Grande do Sul confirmou o entendimento do Juízo quanto à improcedência do pedido de anulação de multa de trânsito. No extraordinário cujo processamento pretende alcançar, o recorrente aponta a violação do artigo 93, incisos IX e X, da Constituição Federal. Argui a nulidade do acórdão por ausência de fundamentação. Diz ter a decisão implicado imposição da referida penalidade sem a devida motivação, ressaltando a necessidade de crivo da autoridade de trânsito.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    3. Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica versando, detalhadamente, sobre as razões pelas quais manteve a autuação relativa multa de trânsito. Colho da sentença expressamente mantida pelo acórdão os seguintes trechos:
+    Segundo os extratos de AITs juntados pela demandada, foi observado o disposto na Resolução nº 404/12 do CONATRAN, expedindo-se a NAIT (notificação de auto de infração de trânsito), a qual dá ciência da infração cometida, abre prazo para defesa e oportuniza indiciação de condutor, que foi julgada à revelia, expedindo-se consequentemente, as NIPs.
+    [...]
+    O autor, conformado com as autuações, optou por não oferecer defesas, expedindo-se a NIP ( notificação de imposição de penalidade), cientificando-se sobre o julgamento à revelia, do novo prazo recursal e da aplicação de penalidade.
+    Assim, foi observado o devido processo legal, conforme Súmula 312 do STJ.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+     Ademais, com relação à falta de motivação no julgamento, considerando que o recorrente, devidamente intimado, deixou de apresentar defesa administrativa, permitindo que o feito fosse julgado à revelia, sem a interposição de qualquer recurso tendente a impugnar o ato administrativo respectivo, correta a atuação da autoridade estatal ao considerar somente os aspectos formais do procedimento.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    4. Conheço do agravo e o desprovejo. Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a fixação de referida verba, pelo Tribunal local, no patamar limite de 20% do valor da causa.
+    5. Publiquem.
+ Brasília, 5 de abril de 2017.
+Ministro MARCO AURÉLIO
+Relator
