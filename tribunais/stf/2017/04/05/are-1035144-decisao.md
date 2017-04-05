@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 37, IX e 40, § 8°, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Consignou a Corte de origem (fl. 14, vol. 2):
+    “O cerne da controvérsia trazida a debate se resume à utilização do valor da hora/aula indicado pelo Decreto n.° 42.639/10 para fins de atualização da gratificação de regência de classe por força da paridade, na proporção de 100% do valor pago aos ativos.
+    No que se refere ao valor da hora/aula indicado pelo Decreto n.° 42.639/10 ao professor temporário contratado pela Administração, inegável que ele é o único parâmetro do valor da hora/aula paga, atualmente, no Estado do Rio de Janeiro”.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie. A aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada violação da Constituição da República. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE SERVIÇO EXTRAORDINÁRIO. GERENTE DE ESTADO. LEIS ESTADUAIS NS. 7.536/98 E 6.107/74. RESOLUÇÃO N. 1/99. EXTENSÃO AOS INATIVOS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A partir da análise da legislação local, o Tribunal de Justiça do Maranhão afirmou o caráter geral de gratificação de serviço extraordinário e, por conseguinte, entendeu viável sua extensão aos inativos. 2. Para se concluir de modo diverso, seria necessária a análise da legislação local, o que é vedado pela Súmula 280 do Supremo Tribunal. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil”. (RE 465865 AgR, Relator(a): Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 03/03/2009, DJe-071 DIVULG 16-04-2009 PUBLIC 17-04-2009 EMENT VOL-02356-07 PP-01335).
+    “EMENTA DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE. EXTENSÃO AOS INATIVOS. LEGISLAÇÃO MUNICIPAL. APLICAÇÃO DA SÚMULA 280/STF. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO DISPONIBILIZADO EM 09.8.2012. Controvérsia limitada à aplicação de legislação local a inviabilizar o reexame da matéria na via extraordinária. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Precedentes. Agravo regimental conhecido e não provido”. (ARE 721258 AgR, da minha lavra, Primeira Turma, julgado em 12/11/2013, ACÓRDÃO ELETRÔNICO DJe-232 DIVULG 25-11-2013 PUBLIC 26-11-2013).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 05 de abril de 2017.
+Ministra Rosa Weber
+Relatora
