@@ -1,0 +1,29 @@
+Decisão: 1. Trata-se de habeas corpus impetrado contra decisão monocrática, proferida no âmbito do Superior Tribunal de Justiça (HC 387.557/PR), que indeferiu a concessão de liminar.
+    Narra-se que:
+    a) o paciente encontra-se preso preventivamente por decisão proferida, em 26.09.2016, pelo Juízo da 13ª Vara Federal da Subseção Judiciária de Curitiba/PR;
+    b) a prisão processual foi impugnada mediante habeas corpus endereçado ao Tribunal Regional Federal da 4ª Região, ocasião em que o pedido liminar foi indeferido;
+    c) essa decisão motivou impetração formalizada no contexto do Superior Tribunal de Justiça (HC 377.755/PR), ocasião em que, por aplicação analógica da Súmula 691/STF, negou-se seguimento à impetração (decisão proferida em 16.12.2016, às 18h32min);
+    d) ocorreu o julgamento superveniente do mérito do habeas corpus impetrado no TRF-4ª, sendo que a defesa articulou aditamento ao habeas corpus no âmbito do STJ (petição protocolada em 16.12.2016, às 18h31min);
+    e) diante desse cenário, a defesa pleiteou a reconsideração da decisão extintiva, providência indeferida com determinação de remessa dos autos ao Ministério Público;
+    f) a defesa impetrou novo habeas corpus ao STJ (HC 387.557/PR), em que não se verifica perspectiva de julgamento. De tal modo, desde 03.11.2016 (data da primeira impetração), o STJ não apreciou os pedidos formulados pela defesa.
+    Por tais fundamentos, requer-se, liminarmente, “provisão jurisdicional de urgência em epígrafe para o efeito de se determinar seja imediatamente levada a julgamento a ordem de habeas corpus nº 387.557 do STJ, relator o Min. Felix Fischer”. No mérito, postula-se a concessão da ordem “para o fim de se determinar o imediato julgamento do writ indicado pelo E. STJ”.
+    É o relatório. Decido.
+    2. Observo que o impetrante não exibiu a decisão monocrática proferida no âmbito do HC 387.557/PR, circunstância a dificultar o adequado enfrentamento da impetração.
+    Nada obstante, o cenário descrito pelo impetrante revela a incidência, neste feito, da Súmula 691/STF, na medida em que não se depreende a existência de decisão de mérito no HC 387.557/PR, apontado, pelo impetrante, como sede do ato coator.
+    É bem verdade que, ainda que ausentes hipóteses de conhecimento, a Corte tem admitido, excepcionalmente, a concessão da ordem de ofício. Calha enfatizar, contudo, que tal providência tem sido tomada tão somente em casos absolutamente aberrantes e teratológicos, em que “a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF” (HC 95009, Rel. Min. Eros Grau, Tribunal Pleno, julgado em 06/11/2008).
+    Devido ao caráter excepcional da superação da jurisprudência da Corte, a ilegalidade deve ser cognoscível de plano, sem a necessidade de produção de quaisquer provas ou colheita de informações. Nesse sentido, não pode ser atribuída a pecha de flagrante à ilegalidade cujo reconhecimento demande dispendioso cotejamento dos autos ou, pior, que desafie a complementação do caderno processual por meio da coleta de elementos externos.
+    Como reforço, cumpre assinalar que o Código de Processo Penal, ao permitir que as autoridades judiciárias concedam a ordem de ofício em habeas corpus, apenas o fez quanto aos processos que já lhes são submetidos à apreciação:
+    “Art. 654. (…)
+    (…)
+    § 2 o Os juízes e os tribunais têm competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.”
+    De tal modo, ao meu sentir, não se admite que o processo tenha como nascedouro, pura e simplesmente, a alegada pretensão de atuação ex officio de Juiz ou Tribunal, mormente quando tal proceder se encontra em desconformidade com as regras de competência delineadas na Constituição da República. Em outras palavras: somente se cogita da expedição da ordem de ofício nas hipóteses em que não se desbordar da competência do órgão, de modo que essa não pode ser a finalidade precípua da impetração.
+    3. No caso concreto, verifico que o pedido formulado pelo impetrante volta-se à aceleração do julgamento do habeas corpus submetido ao Superior Tribunal de Justiça.
+    Com relação ao excesso de prazo, anoto que a jurisprudência do Supremo Tribunal Federal é firme no sentido de que o constrangimento ilegal “somente se dá em hipóteses excepcionais, nas quais a mora seja decorrência de (a) evidente desídia do órgão judicial; (b) exclusiva atuação da parte acusadora; ou (c) situação incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da CF/88” (HC 128833, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 08/09/2015, grifei).
+    Nessa linha, depreendo que o aditamento mencionado foi formulado pelo impetrante em 16.12.2016, sendo apreciado pedido de reconsideração, pela Presidência do STJ, em 02.01.2017. Em seguida, a defesa impetrou o HC 387.557/PR, em 07.02.2017, sendo que o remédio constitucional encontra-se, atualmente, aparelhado para julgamento. Mais que isso, conforme consulta ao sítio oficial do STJ, nota-se a inclusão em mesa com previsão de julgamento para 18.04.2017.
+    Nessa ótica, verifica-se que a impetração apresenta tramitação regular, bem como que o julgamento pleiteado já se avizinha, cenário a desaconselhar o excepcional reconhecimento do excesso de prazo e a interferência da Corte na administração de órgão jurisdicional diverso.
+    4. Diante do exposto, nos termos do art. 21, §1°, RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 5 de abril de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
