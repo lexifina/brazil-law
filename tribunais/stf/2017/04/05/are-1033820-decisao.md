@@ -1,0 +1,18 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Victor de Moraes Esteves contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 2ª Região, está assim ementado:
+    “APELAÇÃO CÍVEL. PROCESSUAL CIVIL. FALTA DE PRESSUPOSTO DE ADMISSIBILIDADE RECURSAL.
+    1. Recurso que suscita questões estranhas ao conteúdo decisório do ato jurisdicional impugnado ressente-se de requisito de regularidade formal, essencial à sua admissibilidade, qual seja, a correta impugnação do ‘decisum’ recorrido, com a apresentação dos fundamentos de fato e de direito relativos ao pedido de reforma da sentença (art. 514, II do CPC).
+    2. Apelação não conhecida.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária dirimiu a questão com fundamento em legislação infraconstitucional (CPC/73), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao não conhecer da apelação da parte ora agravante, apoiou-se em dispositivos de ordem meramente legal:
+    “De se ver que a parte apelante deixou de apresentar validamente suas razões, não cumprindo o disposto no art. 514, II do CPC, que impõe, como um dos requisitos para admissibilidade do recurso, a exposição dos fundamentos de fato e de direito relativos ao pedido de reforma da sentença, o que leva a conclusão de que prevalecem inatacadas as razões de decidir do julgado recorrido, eis que, por falta de pertinência temática, o mesmo não foi objeto de impugnação válida.
+    …..................................................................................................
+    Dessa maneira, ressentindo-se o recurso de requisito de regularidade formal, essencial à sua admissibilidade, qual seja, a correta impugnação do ‘decisum’ recorrido, com a apresentação dos fundamentos de fato e direito relativos ao pedido de reforma da sentença, o mesmo não pode ser conhecido por este Tribunal.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 05 de abril de 2017.
+Ministro CELSO DE MELLO
+Relator
