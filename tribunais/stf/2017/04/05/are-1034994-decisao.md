@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal Regional Federal da 1ª Região confirmou o entendimento do Juízo quanto à concessão da segurança à candidato, assegurando-lhe a preferência no tocante à lotação, considerada a ordem de classificação. No extraordinário cujo trânsito pretende alcançar, a recorrente aponta a violação dos artigos 5º, cabeça, e 37, incisos II e IV, da Constituição Federal. Sustenta a ocorrência tratamento diferenciado quando da opção de lotação pelos aprovados em curso de formação, tendo como contrariado o princípio da isonomia. Diz ter a decisão implicado interpretação errônea de edital do certame, ressaltando ser a escolha possível apenas no momento da posse.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    Colho do acórdão o seguinte trecho:
+    Não obstante o Edital nº 24/2004 dispor em seu item 15.1 que “ a nota final no concurso público ( NFCP) ser´a nota obtida no Curso de Formação Profissional e será rigorosamente obedecida para efeito de escolha de lotação”, claro está que o fracionamento das vagas procedido pelo DPF propiciou aos candidatos das primeiras turmas de formação, mais bem classificados no certame, a opção em apenas uma parcela das vagas.
+    Assim agindo, a Administração negou a oportunidade do candidato mais bem classificado no certame, participante de uma turma anterior, de escolher determinada lotação que foi oferecida apenas para as turmas posteriores, em evidente afronta ao princípio da razoabilidade e à própria disposição do edital, já que o impetrante concorreu à totalidade das vagas e obteve melhores notas.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 5 de abril de 2017.
+Ministro MARCO AURÉLIO
+Relator
