@@ -1,0 +1,28 @@
+Decisão: Trata-se agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Turma Recursal do Tribunal de Justiça do Estado do Rio de Janeiro, o qual determinou que fosse mantido apenas um contrato de assistência médica denominado “PAME PLUS” em benefício do recorrente (fls. 381v).
+    Os embargos de declaração foram rejeitados (fls. 391).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXVI, da Constituição Federal.
+    Nas razões recursais, sustenta, em suma, que o plano de saúde é realizado por duas empresas, restando demonstrada a responsabilidade solidária, já que os lucros e vantagens são divididas entre ambas (fls. 400).
+    Alega, ainda, que não há como excluir uma das empresas da obrigação de fornecer a parte de sua responsabilidade no plano de saúde do recorrente (fls. 397).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do recurso inominado asseverou (fls. 380v/381v):
+    “Pedido de manutenção de empregado aposentado em plano de saúde de empresa.
+    Assistência médico-hospitalar de empregados que se dá como benefício decorrente do contrato de trabalho, cessando quando o término do vínculo.
+    Plano “PAME PLUS” que não se cuida de lano de saúde, apenas sendo um seguro remissivo por morte, além de gerar direita a reembolso de determinados medicamentos, observados os limites estabelecidos, motivo pelo qual não se enquadra nas hipóteses legais de Lei nº 9.656/98, não se submetendo ao regramento jurídico desta.
+    Contratos do autor com a PAME que, ao longo do tempo, sofreram alterações, deixando de existir o plano “PAME ATIVOS”, que podia ter natureza de plano de saúde, passando o autor a ser associado ao contrato “PAME PLUS”.
+    Alteração das condições dos contratos que, por si, não é ilícita, tanto que segue é objeto da presente. Contrato atual do “PAME PLUS” que, por certo, e de acordo com a documentação constante dos autos, não o caracteriza como plano de saúde.
+    Benefício do “PAME PLUS” de isenção de carência em outros planos AME que ratifica o entendimento eis que, pretendendo o consumidor manter plano de saúde, deve aderir a algum dos outros produtos ofertados pela empresa.
+    Contrato “PAME PLUS” que, contudo, não prevê como hipótese de extinção do contrato o desligamento do contratante da Embratel, motivo pelo qual não poderia a primeira ré ter rescindido o contrato específico pela simples demissão do autor.
+    “PAME PLUS” que, destarte, deve ser restabelecido, no limite do contrato (seguro remissivo, reembolso de medicamento, etc).
+    Consumidor que não tem direito, assim, a plano de saúde, e sim, apenas, ao contrato “PAME PLUS” anteriormente existente.
+    Danos morais não caracterizados visto não se cuidar de negativa de cobertura de assistência médica, mas sim de simples rescisão indevida de contrato.
+    Pelas razões expendidas na ementa supra, voto no sentido de serem conhecidos os recursos para, no mérito, dar provimento parcial ao recurso da primeira ré, para determinar que, tão somente, mantenha o autor no contrato denominado “PAME PLUS”, sob pena de multa a ser fixada em sede de execução, e dar provimento ao recurso da segunda ré, para julgar improcedente o pedido em relação a esta. ”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, e o reexame das normas editalícias, tendo em vista a vedação contida nas Súmulas 279 e 454 do STF. Nesse sentido:
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSUMIDOR. PLANO DE SAÚDE. RESCISÃO UNILATERAL. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. ÓBICE DA SÚMULA 454 DO STF. 1. A rescisão contratual, quando sub judice a controvérsia, demanda a análise de normas infraconstitucionais, do conjunto fático-probatório dos autos e das cláusulas contratuais, o que atrai a incidência das Súmulas 279 e 454 desta Corte. 2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional, torna inadmissível o recurso extraordinário. 3. A interpretação de cláusulas contratuais não viabiliza o recurso extraordinário, a teor do Enunciado da Súmula 454 do Supremo Tribunal Federal, verbis: Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário. 4. In casu, o acórdão extraordinariamente recorrido assentou: RECURSO INOMINADO. PLANO DE SAÚDE COLETIVO. CANCELAMENTO UNILATERAL EM RAZÃO DE DISPOSTO CONTRATUAL QUE AUTORIZARIA ESTA MEDIDA. CLÁUSULA ABUSIVA. MANUTENÇÃO DA PRESTAÇÃO DE SERVIÇO DE PLANO DE SAÚDE NOS MOLDES ANTERIORES À RESCISÃO. 5. Agravo regimental DESPROVIDO”. (RE 801411 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 22.8.2014)
+     “Agravo regimental em recurso extraordinário com agravo. 2. Direito do Consumidor. 3. Plano de saúde coletivo. Matéria infraconstitucional. Necessidade de reexame do conjunto fático-probatório. Interpretação de cláusulas contratuais. Incidência dos enunciados 279 e 454 da Súmula do STF. 4. Agravo regimental a que se nega provimento”. (ARE 895246 AgR, de minha relatoria, Segunda Turma, DJe 24.8.2015)
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 6 de abril de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
