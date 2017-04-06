@@ -1,0 +1,22 @@
+DECISÃO
+RITO PROCESSUAL – REGÊNCIA ESPECIAL.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Primeira Vara da Comarca de Sidrolândia/MS, no processo nº 0001729-62.2013.8.12.0045, converteu a prisão em flagrante do paciente e de outros dois investigados, ocorrida em 8 de fevereiro de 2013, em preventiva, ante o suposto cometimento dos delitos versados nos artigos 33, cabeça (tráfico de entorpecentes), e 35 (associação para o tráfico), combinados com o 40, inciso V (causa de aumento da interestadualidade), da Lei nº 11.343/2006 e 333 (corrupção ativa) do Código Penal. Consignou presentes os requisitos autorizadores da constrição, apontando-a necessária à proteção da paz social, considerada a gravidade do crime. Assentou o risco à instrução processual e à aplicação da lei penal, frisando não possuir o paciente residência no distrito da culpa.
+    Condenou-o a 9 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 740 dias-multa, em virtude da prática dos delitos descritos nos artigos 33, cabeça, combinado com o 40, inciso V, da Lei nº 11.343/2006 e 333, cabeça, do Código Penal. Manteve a segregação cautelar.
+    A defesa, em apelação, sustentou a nulidade do processo, postulando o afastamento da preventiva e, sucessivamente, a modificação da pena. A Segunda Câmara Criminal desproveu-a. Formalizados embargos infringentes e de nulidade, a Seção Criminal não os acolheu. Recurso especial foi inadmitido na origem.
+    Chegou-se ao Superior Tribunal de Justiça com o agravo em recurso especial nº 784.321/MS, desprovido pelo Relator. A Quinta Turma negou provimento ao agravo interno.
+    O impetrante alega a nulidade do processo por inobservância do rito processual ordinário, articulando com a ofensa aos artigos 394, § 1º, e 400 do Código de Processo Penal. Assevera insubsistentes as premissas que conduziram à exasperação na pena-base 2 anos acima do mínimo legal, apontando terem sido consideradas duas circunstâncias judiciais negativas.
+    Requer, no campo precário e efêmero, a suspensão dos efeitos do título condenatório. No mérito, busca o reconhecimento da nulidade do processo e, sucessivamente, o redimensionamento da pena-base ou a determinação de que o Juízo o faça.
+    Anoto que Vossa Excelência, em 21 de junho de 2016, indeferiu o pedido liminar no habeas corpus nº 126.064, formalizado em favor do paciente, em que postulada a revogação da custódia cautelar e o redimensionamento da sanção. O processo foi incluído na pauta de julgamentos da Primeira Turma no último dia 17 de março.
+    A fase é de exame da medida acauteladora.
+    2. No tocante à alegação de ilegalidade na fixação da pena-base, reporto-me ao que assentei ao apreciar pleito liminar no habeas corpus nº 126.064/MS, impetrado em benefício do paciente:
+    […]
+    Quanto à imposição da reprimenda, atendeu-se às balizas fixadas nos artigos 59 e 68 do Código Penal. Não houve dupla punição pelo mesmo fato. Foram consideradas as circunstâncias e consequências do delito, tendo em vista a quantidade de droga apreendida, o concurso de agentes e o valor da vantagem oferecida quanto ao crime de corrupção ativa. Ante as duas circunstâncias judiciais negativas, quantificar as penas-base em 7 e 3 anos, respectivamente, não discrepa da razoabilidade, sob o ângulo da proporcionalidade, presentes os pisos de 5 e 2 e os tetos de 15 e 12 anos. Não preenchidos os requisitos do artigo 33, § 4º, da Lei nº 11.343/2006, não há falar em diminuição da pena, porquanto configurado o envolvimento do condenado em organização criminosa, dada a comercialização de entorpecentes em larga escala.
+    Relativamente à nulidade decorrente da realização do interrogatório como primeiro ato da instrução processual, observem o critério da especialidade. A ação penal relativa aos delitos descritos na Lei nº 11.343/2006 possui rito próprio. O artigo 57 prevê o interrogatório como ato inicial, devendo ser mantido incólume, uma vez ainda vigente. Embora o procedimento comum seja aplicável, subsidiariamente, aos demais processos, o artigo 394, § 2º, do Código de Processo Penal expressamente ressalva as disposições em sentido contrário, consagrando o princípio da especialidade. É impróprio deslocar a oitiva do paciente para o momento final da instrução.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 6 de abril de 2017.
+Ministro MARCO AURÉLIO
+Relator
