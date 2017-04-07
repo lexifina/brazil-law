@@ -1,0 +1,22 @@
+Ação cautelar preparatória. Pretensão de obter provimento jurisdicional que imponha à União a prorrogação de convênio cujos recursos são oriundos do Fundo nacional de Segurança pública. Atingimento do prazo máximo de dois anos previsto no art. 4º, § 4º, da Lei nº 10.201/2001. Subsequente prestação de contas e devolução integral dos recursos não utilizados. Ausência de plausibilidade jurídica do pedido. Negativa de seguimento, com amparo no art. 21, § 1º, do RISTF.
+    1. Trata-se de ação cautelar preparatória proposta pelo Estado do Amapá em desfavor da União.
+    2. O autor narra que, por intermédio de sua Secretaria de Estado da Justiça e Segurança Pública – SEJUSP, firmou com a União, em 27 de dezembro de 2013, o convênio SINCOV nº 791564/2013, cujo objeto era a implementação de sistema de videomonitoramento, com vistas à redução de criminalidade em municípios de fronteira, mediante ações integradas entre as forças policiais.
+    3. O referido convênio, celebrado em 27.12.2013, teve vigência inicial de um ano, sendo posteriormente prorrogado por mais um ano, até 27.12.2015. Solicitada nova prorrogação pelo Estado do Amapá, a União, por meio da Secretaria Nacional de Segurança Pública, órgão do Ministério da Justiça, não houvera acenado positivamente, até a data do ajuizamento desta ação.
+    4. Nesse contexto, o Estado do Amapá ajuizou a presente ação cautelar preparatória, com a finalidade de obter provimento jurisdicional que obrigasse a União a prorrogar o convênio em tela por mais um ano ou até 27.12.2016. Articulando com a presença dos requisitos da fumaça do bom direito e do perigo da demora, pugnou pela concessão de medida liminar.
+    5. Ao exame dos autos, em período de recesso, a Presidência desta Suprema Corte entendeu não estarem presentes os requisitos previstos no art. 13, VIII, do RISTF (evento 14).
+    6. Intimado a se manifestar sobre a subsistência de seu interesse de agir, o Estado do Amapá consignou que persiste a pretensão de obter a prorrogação do mencionado convênio e juntou documentos.
+    É o relatório.
+    Decido.
+    1. Inobstante a manifestação do Estado do Amapá em sentido diverso, reputo configurada a perda do interesse de agir, uma vez que, escoado o prazo de vigência do convênio SINCOV nº 791564/2013, já não é possível falar na sua prorrogação.
+    2. Aliás, não só o mencionado convênio atingiu seu termo final como a documentação juntada aos autos desta ação cautelar preparatória revela que o Estado do Amapá, na qualidade de convenente, já prestou as correspondentes contas à União, ente concedente, e devolveu, na íntegra, os recursos não utilizados (evento 26, fl. 3).
+    3. Ainda que assim não fosse, a pretensão, tal como deduzida na peça de pórtico desta ação cautelar incidental, não se reveste de plausibilidade jurídica. O objeto de convênio cujos recursos sejam provenientes do Fundo Nacional de Segurança Pública (FNSP), como é o caso do discutido nestes autos, deve obrigatoriamente ser concluído no prazo máximo de dois anos, por força do estabelecido no art. 4º, § 4º, da Lei nº 10.201/2001, adiante transcrito:
+    Art. 4o O FNSP apoiará projetos na área de segurança pública destinados, dentre outros, a:
+    (...)
+    § 4o Os projetos habilitados a receber recursos do FNSP não poderão ter prazo superior a dois anos.
+    4. Na espécie, o prazo máximo legalmente estabelecido para a conclusão do objeto do convênio SINCOV nº 791564/2013 foi atingido em 27.12.2015, razão pela qual a União, por meio da Secretaria Nacional de Segurança Pública, órgão do Ministério da Justiça, não detém a faculdade de prorrogá-lo.
+    5. Em face da total inexecução do convênio SINCOV nº 791564/2013, nada obsta, contudo, que a União e o Estado do Amapá celebrem, se assim entenderem devido, um novo convênio, com idêntico objeto, no intuito de efetivar a implantação de sistema de videomonitoramento em municípios amapaenses de fronteira. O que não se afigura possível é a reativação, na via judicial, de convênio já expirado, com contas prestadas e recursos integralmente devolvidos pelo convenente ao ente concedente, sobretudo quando consideradas as balizas decorrentes do postulado da separação funcional do poder, a assegurar, com estatura de cláusula pétrea (arts. 2º e 60, § 4º, III, da Magna Carta), o respeito às atribuições reservadas ao Poder Executivo.
+    6. Ante o exposto, forte no art. 21, § 1º, do RISTF, nego seguimento ao pedido.
+    Publique-se.
+    Brasília, 07 de abril de 2017.
+Ministra Rosa Weber
+Relatora
