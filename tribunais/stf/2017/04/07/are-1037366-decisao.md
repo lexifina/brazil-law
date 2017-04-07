@@ -1,0 +1,26 @@
+Decisão
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Turma Recursal Fazendária dos Juizados Cíveis e Criminais do Estado do Rio de Janeiro, o qual manteve a sentença que julgou procedente o pedido autoral de recebimento de diferenças salariais decorrentes de desvio de função.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação do artigo 37, incisos II, X e XIII, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    Colhe-se do voto condutor do acórdão recorrido os seguintes fundamentos:
+    “A sentença atacada reconheceu que a autora faz jus ao recebimento das diferenças salariais decorrentes do desvio de sua função original sem, porém, autorizar o reenquadramento da mesma na função de Assistente Social.
+    Restou demonstrado ao longo da instrução da demanda que a autora agravada, de fato, exerce a função que alega, apesar de ser ocupante oficialmente do cargo de Técnico de Enfermagem A.
+    Não há grande controvérsia sobre a questão, tendo já o STJ se posicionado a respeito de desvio de função ocorrido no funcionalismo, sendo certo que o entendimento é no sentido de que ‘o desvio de função não gera direito ao reenquadramento, mas apenas às diferenças salariais dele decorrentes, enquanto durar, sob pena de locupletamento indevido do Estado’ (STJ – REsp 74.634/RS - DJ 23/11/1998 p. 187).
+    Ou seja, comprovado o exercício de função diversa ao que definido pelo cargo originário, cabível o recebimento de diferenças salariais, não servindo, contudo, para reenquadramento sob pena de ofensa à Constituição Federal e ao princípio da legalidade.”
+    Nesse caso, para acolher a pretensão do recorrente e ultrapassar o entendimento firmado pelas instâncias de origem acerca da caracterização do desvio de função em questão, seria necessário o reexame da legislação infraconstitucional pertinente e dos fatos e provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Suprema Corte. Nesse sentido:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 04.4.2014. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Agravo regimental conhecido e não provido” (ARE nº 873.214/RJ-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 7/5/15).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ALEGADO DESVIO DE FUNÇÃO. RECLASSIFICAÇÃO NÃO RECONHECIDA NA ORIGEM: IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 723.203/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 6/3/12).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. 1. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. INCORPORAÇÃO DE DIFERENÇAS SALARIAIS. CONTROVÉRSIA DECIDIDA COM FUNDAMENTO EM LEGISLAÇÃO MUNICIPAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. 2. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO INVIÁVEL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 809.655/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 5/5/11).
+    “CONSTITUCIONAL E TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE DESVIO DE FUNÇÃO. SÚMULA STF 279. 1. Para divergir da conclusão a que chegou o Tribunal a quo acerca da existência de desvio de função, seria necessária a análise do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279). 2. Agravo regimental a que se nega provimento” (AI nº 815.680/RS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie , DJe de 9/2/11).
+    Ressalte-se, ainda, que o Plenário desta Suprema Corte, em sessão realizada por meio eletrônico, no exame do RE nº 578.657/RN, Relator o Ministro Menezes Direito, concluiu pela ausência da repercussão geral da matéria constitucional versada no presente feito. A decisão do Plenário está assim ementada:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. DISCUSSÃO ACERCA DO DIREITO À DIFERENÇA DE REMUNERAÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL”.
+    Registre-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que a parte ora recorrida não apresentou contrarrazões ao recurso.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 7 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
