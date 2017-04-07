@@ -1,0 +1,5 @@
+O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE ALAGOAS, no uso das atribuições que lhe confere o parágrafo 6º do artigo 89 da Constituição Estadual, promulga a seguinte Lei:
+
+LEI Nº 7. 875, DE 05 DE ABRIL DE 2017. Autor: Deputado Tarcizo Sampaio Freire.
+
+INSTITUI A HABILITAÇÃO SOCIAL, PROGRAMA SOCIAL DE FORMAÇÃO, QUALIFICAÇÃO E HABILITAÇÃO PROFISSIONAL DE CONDUTORES DE VEÍCULOS AUTOMOTORES, E DÁ OUTRAS PROVIDÊNCIAS.
