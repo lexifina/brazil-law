@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem reformou o entendimento do Juízo, assentando a possibilidade de execução de valores atrasados relativos ao benefício previdenciário concedido judicialmente e o recebimento da renda mensal mais vantajosa concedido administrativamente. No extraordinário cujo processamento busca alcançar, o recorrente aponta a violação dos artigos 5º, cabeça, incisos XXXVI, 195, cabeça, § 5º, e 201, cabeça, § 1º, da Constituição Federal. Sustenta a impossibilidade de recebimento concomitante de duas aposentadorias, sustentando a necessidade de opção pela parcela mais favorável. Diz contrariados os princípios da legalidade e da solidariedade.
+    2. De inicio, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do recurso regida por esse diploma legal.
+    Colho da decisão recorrida o seguinte trecho:
+    Desse modo, verifica-se a existência de trânsito em julgado em relação ao recebimento do benefício concedido em juízo no período de 03.12.1998 a 09.06.2003, véspera da data da concessão do auxílio-doença na via administrativa, dada a impossibilidade de cumulação de benefícios, não havendo, todavia, que se falar em causa impeditiva do prosseguimento da execução atinente às respectivas parcelas.
+    Válida, nesse passo, a transcrição dos seguintes julgados:
+    AGRAVO DE INSTRUMENTO: APOSENTADORIA POR INVALIDEZ CONCEDIDA JUDICIALMENTE. APOSENTADORIA POR IDADE CONCEDIDA ADMINISTRATIVAMENTE. OPÇÃO DA PARTE PELO BENEFÍCIO MAIS VANTAJOSO. DIREITO DE EXECUÇÃO DOS VALORES RECEBIDOS JUDICIALMENTE. IMPOSSIBILIDADE DE CUMULAÇÃO DOS BENEFÍCIOS.
+    I - Foi concedida, judicialmente, aposentadoria por invalidez ao agravado com DIB de 27.04.1998 e início de pagamento em 16.12.2005. Não obstante, administrativamente, foi concedida aposentadoria por idade, com DIB de 02.02.2004.
+    II - O recorrido requereu a expedição de ofício ao INSS para que cancelasse o benefício concedido na via judicial (aposentadoria por invalidez), implantando a aposentadoria por idade, eis que mais benéfica.
+    III - Após manifestação da Autarquia Federal, o MM. Juízo proferiu a r. decisão, objeto do presente agravo.
+    IV - Inexistência de impedimento para que a parte opte pelo benefício mais vantajoso, na hipótese, a aposentadoria por idade, em detrimento da aposentadoria por invalidez, mantendo, a despeito da irresignação do Instituto Previdenciário, o direito à percepção dos valores atrasados decorrentes do benefício concedido judicialmente, desde 27.04.1998 até 01.02.2004, dia anterior à concessão da aposentadoria por idade.
+    V - Restou afastada, a cumulação das aposentadorias, eis que consignado na r. decisão a acolhida da opção realizada pelo agravado, no sentido de ser implantada aposentadoria por idade, concedida na via administrativa, assegurando o direito de executar os valores apurados entre 27.04.1998 a 01.02.2004, concernentes à aposentadoria por invalidez.
+    VI - Considerando que entre 27.04.1998 a 01.02.2004, não houve percepção conjunta de mais de uma aposentadoria, o direito reconhecido judicialmente é de ser executado.
+    VII - Agravo não provido. (TRF-3ªR, AI nº 2007.03.00.021117-9, Rel. Desembargadora Federal Marianina Galante, DJ 26/09/2007) (grifei)
+    Por conseguinte, inexiste óbice ao prosseguimento da execução para recebimento tão somente de valores atinentes às prestações atrasadas do benefício concedido judicialmente, no período de 03.12.1998 a 09.06.2003.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5% do valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 10 de abril de 2017.
+Ministro MARCO AURÉLIO
+Relator
