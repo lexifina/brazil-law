@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, no qual se postula o reconhecimento do excesso de prazo no julgamento, pelo E. Superior Tribunal de Justiça, do HC 354.811/RJ, de relatoria do eminente Ministro RIBEIRO DANTAS, requerendo, em consequência, seja assegurado ao ora paciente o direito de estar em liberdade.
+    Tenho ressaltado, em diversos julgamentos, que o réu – especialmente aquele que se acha sujeito a medidas cautelares de privação de sua liberdade – tem o direito público subjetivo de ser julgado em prazo razoável, sem dilações indevidas, sob pena de caracterizar-se situação de injusto constrangimento ao seu “status libertatis” (HC 84.254/PI, Rel. Min. CELSO DE MELLO, v.g.).
+    Na realidade, esse direito ao julgamento em tempo oportuno, que não exceda nem supere, de modo irrazoável, os prazos processuais, qualifica-se como insuprimível prerrogativa de ordem jurídica, fundada tanto em norma de índole constitucional (CF, art. 5º, LXXVIII) quanto em cláusula de natureza convencional (Pacto de São José da Costa Rica, Art. 7º, ns. 5 e 6).
+    Ocorre, no entanto, que o exame do contexto processual delineado nos presentes autos, bem assim das informações prestadas pelo eminente Ministro RIBEIRO DANTAS, parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da alegação de injusta demora na resolução do “writ” impetrado em favor do ora paciente.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    Sem que concorram esses dois requisitos – que são necessários, essenciais e cumulativos –, não se legitima a concessão da medida liminar.
+    Sendo assim, e sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente “writ” constitucional, indefiro o pedido de medida liminar.
+    Publique-se.
+    Brasília, 10 de abril de 2017.
+Ministro CELSO DE MELLO
+Relator
