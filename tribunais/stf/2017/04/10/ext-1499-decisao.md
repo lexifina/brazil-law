@@ -1,0 +1,15 @@
+Decisão: Trata-se de pedido de prisão cautelar, encaminhado pela via diplomática (Nota 29/29/C1.2, fl. 04), para a extradição de Antônio Salazar Nuez, de nacionalidade filipina, nos termos do art. 82, caput, da Lei 6.815/1980, com a redação conferida pela Lei 12.878/2013, c/c o art. VI do Tratado de Extradição celebrado entre Brasil e Bélgica.
+    Consta da representação que Antônio Salazar Nuez é investigado no Estado acreditante por suspeita de coautoria nos crimes de “Importação, tráfego e posse de estupefaciantes, em associação” e “Participação numa organização criminal”, tendo sido decretada a sua prisão, em 27/01/2017, pelo Juízo de Instrução junto ao Tribunal de Primeira Instância da Antuérpia, secção de Antuérpia (fls. 64 a 68).
+    É o relato do essencial.
+    Nos termos do art. 208 do Regimento Interno desta Corte, a prisão cautelar é requisito essencial ao trâmite do pedido de extradição, sem a qual se torna inviável a análise da pretensão extradicional. Aliás, é assente na jurisprudência desta Corte que a prisão cautelar com vistas à extradição “constitui requisito de procedibilidade da ação extradicional, não se confundindo com a segregação preventiva de que trata o Código de Processo Penal”(Ext 1254 QO, Rel. Min. AYRES BRITTO, Segunda Turma, DJe de 20.9.2011).
+    No caso, encontram-se atendidos os pressupostos de admissibilidade à segregação do extraditando, nos termos do art. 82, caput, §§ 1º e 2º, da Lei 6.815/1980. Com efeito, além da documentação comprobatória da existência da ordem de prisão proferida pelo Estado requerente (fls. 64 a 68), consta do pedido a indicação de que o extraditando se encontra em território brasileiro, onde reside e é sócio-gerente de duas sociedades empresárias, com sede em Paranaguá/PR.
+    Há nos autos, ainda, a exposição detalhada das circunstâncias em que cometidos os crimes, donde se depreende que os fatos delituosos parecem satisfazer, neste juízo preliminar, à exigência reclamada pelo postulado da dupla tipicidade. Com efeito, as condutas imputadas ao súdito estrangeiro são repreendidas criminalmente tanto na legislação alienígena (fls. 19 a 43) quanto no direito pátrio, no qual se amoldam, em tese, ao tipo penal hospedado no art. 33, caput, c/c o art. 40, I, da Lei 11.343/2006.
+    Diante do exposto, decreto a prisão para fins de extradição de Antônio Salazar Nuez, nos termos dos arts. 82 da Lei 6.815/1980 e 208 do RISTF.
+    Expeça-se mandado de prisão cujo cumprimento deverá ser comunicado imediatamente a esta Corte, ao Ministério da Justiça e à representação diplomática do Estado interessado.
+    Decorridos 60 (sessenta) dias sem a referida comunicação por parte da autoridade policial, requisitem-se informações, por ofício, acerca do cumprimento da ordem, com prazo de resposta de 10 (dez) dias, findos os quais voltem conclusos os autos.
+    Esta decisão deverá ser publicada somente após a prisão do requerido.
+    Comunique-se. Cumpra-se.
+    Brasília, 10 de abril de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
