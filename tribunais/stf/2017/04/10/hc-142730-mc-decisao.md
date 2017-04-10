@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de José Rodrigues Souza, apontando como autoridade coatora a Sexta Turma, do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp nº 1.048.519/MT, Relatora a Ministra Maria Thereza de Assis Moura.
+    A impetrante sustenta, em síntese, estarem presentes ao caso concreto os requisitos necessários à aplicação do postulado da insignificância da conduta praticada pelo paciente, vale dizer, desenvolver clandestinamente atividades de telecomunicação (art. 183 da Lei nº 9.472/97).
+    Aduz, para tanto, que “não ficou evidenciado qualquer interferência efetiva em transmissões radiodifusoras. As condutas do agente não tiveram a potencialidade de causar dano ou mesmo perigo ao bem jurídico protegido pelo dispositivo legal.”
+    Logo, para a defesa, “não há como se conceber que a conduta objetivamente enquadrada no artigo 183, da Lei nº 9.472/97, tenha lesado o bem jurídico que a norma penal busca tutelar: a proteção dos meios de comunicação. É nesse viés que deve ser considerada atípica a conduta do paciente.”
+    Requer-se, liminarmente, a concessão da ordem para que se reconheça a “absolvição do paciente, tendo em vista a incidência do Princípio da Insignificância, consubstanciando a atipicidade material da conduta a ele imputada.” (grifos da autora)
+    Examinados os autos, decido.
+    Narra a impetrante, na inicial, que
+    “[o] paciente foi denunciado pela prática do crime previsto no art. 183 da Lei nº 9.472/1997, por supostamente exercer atividade de telecomunicação clandestina por meio da entidade Rádio Scala FM, com uso não autorizado do espectro de radiofrequência – Serviço de Radiodifusão Sonora em Frequência Modulada (FM), em Cuiabá – MT (e-STJ fls. 3/5). A primeira autuação pela Anatel ocorreu em 09 de agosto de 2007 (e-STFJ fl. 6). Sendo que a denúncia foi recebida somente em 04 de abril de 2011 (e-STJ fls. 6/7).
+    O Juízo de primeiro grau absolveu o paciente por entender que o fato narrado não constitui crime tendo em vista sua atipicidade material, utilizando como Abaixo segue transcrição de parte da decisão do magistrado da 5ª vara Federal do Tribunal Regional Federal da 1ª Região – Seção Judiciária do Estado de Mato Grosso, in verbis:
+    Portanto, diante da ausência de comprovação de dano ou perigo concreto ao bem tutelado pela norma penal e à luz dos princípios constitucionais acima nominados, tenho que a conduta do acusado, apesar de formalmente típica, é materialmente atípica, pois muito embora tenha realizado o verbo do tipo penal, nas circunstâncias do caso concreto, não teve a potencialidade de causar dano ou perigo ao bem jurídico protegido pela norma penal. (e-STJ fl. 260) (grifos no original)
+    Inconformado, o Ministério Público Federal interpôs recurso de apelação (e-STJ fls. 268/274), requerendo a anulação da sentença. Ao julgar o feito, a eg. Quarta Turma do TRF da 1ª Região deu provimento à apelação do MP, por unanimidade, conforme ementa a seguir (e-STJ fl. 307).
+    Por meio de Embargos de Declaração (e-STJ fls. 311/316) opostos pela Defensoria Pública da União, a eg. 4ª Turma do TRF da 1ª Região declarou a nulidade do acórdão (e-STJ fls. 324/326), tendo em vista o cerceamento de defesa pela ausência de intimação pessoal da Defensoria Pública conforme previsão legal.
+    Em novo julgamento, foi proferido acórdão (e-STJ fls. 342/345) que, por unanimidade, deu provimento à apelação do Ministério Público.
+    Novamente a Defensoria Pública da União opôs Embargos de Declaração (e-STJ fls. 351/361) alegando omissão no v. Acórdão, hipótese rejeitada, por unanimidade, pela eg. Quarta Turma do TFF da 1ª Região ( e-STJ fl. 377).
+    Irresignada a defesa interpôs Recurso Especial (e-STJ fl.s 384/394) contra o v. Acórdão que deu provimento à apelação apresentada pelo Parquet. Contudo, o recurso não foi admitido (e-STJ fls. 412/413). Fato que resultou na interposição de Agravo nos termos do art. 28 e seguintes da Lei 8.038/1990 pela Defensoria Pública. Mais uma vez, por meio de decisão monocrática foi negado seguimento ao recurso especial (e- STJ fls. 463/468).
+    Inconformada, a Defensoria Pública da União interpôs Agravo Regimental conta a decisão monocrática que negou provimentos ao Recurso Especial. (e-STJ fls. 478/491).
+    Entretanto, a Sexta Turma do Superior Tribunal de Justiça, por unanimidade, decidiu negar provimento ao agravo regimental (...)”
+    Transcrevo a ementa do aresto questionado:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 183 DA LEI Nº 9.472/1997. CRIME CONTRA AS TELECOMUNICAÇÕES. RÁDIO CLANDESTINA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CRIME DE PERIGO ABSTRATO. DESNECESSIDADE DE COMPROVAÇÃO DO PREJUÍZO. DECISÃO RECORRIDA DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 568/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. O Tribunal de origem, ao afastar a aplicação do princípio da insignificância decidiu de acordo com a jurisprudência desse Superior Tribunal de Justiça, no sentido de que ‘o desenvolvimento de atividade de telecomunicação na clandestinidade, ou seja, sem a competente concessão, permissão ou autorização, seja qual for a potência do equipamento utilizado, traduz o crime do art. 183 da Lei 9.472/97, que é formal, de perigo abstrato, e tem, como bem jurídico tutelado, a segurança dos meios de comunicação, uma vez que a utilização de aparelhagem clandestina pode causar sérios distúrbios, por interferência em serviços regulares de rádio, televisão e até mesmo em navegação aérea. Para a consumação do delito, basta que alguém desenvolva atividades de telecomunicações, de forma clandestina, ainda que não se apure prejuízo concreto para as telecomunicações, para terceiros ou para a segurança em geral’ (AgRg no AREsp 299.913/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEXTA TURMA, DJe 07/08/2013). Súmula 568/STJ.
+    2. Agravo regimental a que se nega provimento” (anexo 5)
+    Essa é a razão pela qual se insurge a impetrante.
+    Tenho que as razões invocadas pela defesa, se encampadas em sede de liminar, por serem satisfativas, acabam por esvaziar o mérito do habeas corpus, circunstância essa que recomenda o seu indeferimento, conforme reiterada jurisprudência da Corte.
+    Nesse sentido: HC nº 94.888-MC/SP, Relator o Ministro Menezes Direito, DJ de 12/6/08; HC nº 93.164-MC/SP, Relator o Ministro Cezar Peluso, DJ de 22/2/08; e HC nº 92.737-MC/SP, Relatora a Ministra Cármen Lúcia, DJ de 29/10/07, entre outros.
+    Nessa conformidade, indefiro a liminar requerida.
+    Estando a impetração devidamente instruída, dispenso o pedido de informações.
+    Abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 10 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
