@@ -1,0 +1,15 @@
+DECISÃO: Os ora recorrentes pretendem, “incidenter tantum”, a suspensão cautelar do processo de execução penal instaurado com fundamento em título executivo judicial resultante de condenação criminal, transitada em julgado, que lhes impôs pena privativa de liberdade convertida em sanções restritivas de direitos consistentes em prestação de serviços comunitários e em prestação pecuniária.
+    Vê-se, desde logo, que a execução penal cuja suspensão é ora postulada reveste-se de caráter definitivo, pois tem por fundamento sentença penal condenatória tornada irrecorrível, eis que consumado, na espécie, o respectivo trânsito em julgado, o que legitima a incidência tanto do art. 105 (tratando-se de pena privativa de liberdade) quanto do art. 147 (cuidando-se de penas restritivas de direitos), ambos da Lei de Execução Penal.
+    As razões em que me apoiei para negar provimento ao recurso ordinário interposto pelos pacientes, ora recorrentes, mantendo, em consequência, a decisão denegatória de “habeas corpus” proferida pelo E. Superior Tribunal de Justiça (HC 285.587/SP, Rel. Min. ROGERIO SCHIETTI CRUZ), levam-me a reconhecer descaracterizada a plausibilidade jurídica da pretensão cautelar em exame, não obstante os substanciosos fundamentos invocados pelos eminentes Advogados que subscrevem o “pedido cautelar incidental”.
+    Cabe registrar, por oportuno, como anteriormente assinalado, que o trânsito em julgado na causa principal deu-se em 03/02/2016, no julgamento do ARE 793.712-AgR/SP, de que foi Relator o eminente Ministro EDSON FACHIN.
+    Esse dado assume inquestionável relevo jurídico, pois, como se sabe, o trânsito em julgado consumado na espécie poderá inviabilizar, até mesmo, a própria admissibilidade do “habeas corpus”, eis que a jurisprudência do Supremo Tribunal Federal consolidou-se, há muito, no sentido de que o remédio de “habeas corpus” não pode ser utilizado como sucedâneo de revisão criminal (HC 84.007/PE, Rel. Min. EROS GRAU – HC 91.079/SP, Rel. Min. CÁRMEN LÚCIA – HC 96.440/SP, Rel. Min. ELLEN GRACIE – HC 96.804/RS, Rel. Min. JOAQUIM BARBOSA – HC 133.648-AgR/SP, Rel. Min. ROSA WEBER – RHC 114.890/RS, Rel. Min. DIAS TOFFOLI, v.g.):
+    “1. A orientação do Supremo Tribunal Federal fixou-se no sentido de que é inviável a utilização do ‘habeas corpus’ como substitutivo de revisão criminal. (…). 3. Agravo regimental a que se nega provimento.”
+    (RHC 125.077-AgR/MS, Rel. Min. ROBERTO BARROSO – grifei)
+    “(…) 5. O ‘habeas corpus’ não pode ser manejado como sucedâneo de recurso ou de revisão criminal.
+    6. Agravo regimental desprovido.”
+    (HC 125.645-AgR/DF, Rel. Min. LUIZ FUX – grifei)
+    Tais as razões, e com fundamento nelas, indefiro o “pedido cautelar incidental”, mantendo, em consequência, a audiência admonitória que foi designada, nos autos do Processo de Execução nº 0007258- -64.2016.4.03.6181, para o dia 17/04/2017, pela 1ª Vara Criminal do Júri e das Execuções Penais da 1ª Subseção Judiciária de São Paulo (Capital).
+    Publique-se.
+    Brasília, 10 de abril de 2017.
+Ministro CELSO DE MELLO
+Relator
