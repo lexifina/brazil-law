@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que afastou a ocorrência de usucapião especial rural, tendo em vista a ausência de preenchimento dos requisitos legais exigidos. Destaca-se da ementa do acórdão recorrido:
+    “CONSTITUCIONAL. CIVIL E PROCESSO. REIVINDICATÓRIA. SUSPENSÃO DO PROCESSO. INOVAÇÃO RECURSAL. PRECLUSÃO. USUCAPIÃO ESPECIAL RURAL. REQUISITOS. NÃO PREENCHIDOS. ÔNUS DA PROVA. ARTIGO 333, II, DO CPC” (pág. 17 do documento eletrônico 7).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5°, XXIII, e 191 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, com apoio no acervo probatório dos autos, concluiu que os ora recorridos não preencheram os requisitos legais exigidos para a configuração de usucapião rural.
+    Assim, para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF. Nesse sentido, destaco julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. REINTEGRAÇÃO DE POSSE. USUCAPIÃO. PREENCHIMENTO DOS REQUISITOS. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO” (ARE 890.598-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. VERIFICAÇÃO, EM CONCRETO, DOS REQUISITOS PARA A AQUISIÇÃO DE IMÓVEL POR USUCAPIÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279. AGRAVO IMPROVIDO. I – O Tribunal de origem, mediante aprofundado exame fático-probatório constante dos autos, concluiu que a recorrente não satisfez os requisitos para a aquisição do imóvel objeto desta lide por usucapião. Nesses termos, inviável o recurso extraordinário ante a incidência da Súmula 279 do STF. II – Agravo regimental improvido” (AI 859.071-ED/MG, de minha relatoria, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 20% os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites do art. 85, § 2º e § 3º, do CPC e eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 10 de abril de 2017.
+Ministro Ricardo Lewandowski
+Relator
