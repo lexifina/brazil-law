@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado do Amazonas, assim ementado (eDOC 9, p. 33):
+    “APELAÇÃO CIVEL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. CONTRATAÇÃO CARÁTER TEMPORÁRIO. ART. 37, IX, DA CF. NULIDADE CONTRATO ADMINISTRATIVO. EVIDENCIADA. PERCEPÇÃO DE FGTS. LEI 8.036/90. POSSIBILIDADE. ENTENDIMENTO DO STF NO RE 596.478-7/RR. RECURSO CONHECIDO E PROVIDO.
+    1. O inciso IX do artigo 37 da CF autoriza a contratação pela Administração Pública sem concurso público tão somente por tempo determinado e para atender a necessidade temporária de excepcional interesse público, de maneira que a contratação para provimento de cargos vagos deve perdurar apenas pelo tempo necessário para a realização de concurso público, sendo descabidas sucessivas prorrogações.
+    2. Em que pese restar caracterizada a ilegalidade na contratação, em atenção aos princípios da proteção à boa-fé, vedação ao enriquecimento sem causa, da dignidade da pessoa humana, da valorização do trabalho na ordem econômica-social e da segurança jurídica, o contratado que adimpliu as obrigações que lhe foram impostas pelo vínculo com o Estado tem direito ao pagamento da contraprestação pactuada, bem como aos valores referentes aos depósitos do FGTS (Súmula 363 do TST e art. 19-A da Lei 8.036/90).
+    3. Recurso conhecido e provido. “
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, alega-se violação dos artigos 5º, II, LIII, LIV, LV; 37, II, IX, § 2º; e 114, I, da Constituição Federal, sustenta-se, em suma, a incompetência da Justiça comum para declarar a existência de relação de emprego sob a égide da CLT e determinar ao pagamento de verba trabalhista; a inconstitucionalidade do art. 19-A da Lei 8.036/1990; a inexistência de nulidade da contratação por ausência de concurso público; a concessão de verbas trabalhista pelo acórdão recorrido sem lei que a autorize (eDOC 11, pp. 9-25).
+    Os embargos de declaração opostos foram rejeitados (eDOC 9, pp. 65-69 e eDOC 10, pp. 6-9).
+    A Presidência do TJ/AM inadmitiu o recurso com fundamento no paradigma de repercussão geral RE 596.478, Tema 191, e na ausência de prequestionamento da matéria (Edoc 11, pp. 46-52).
+    É o relatório decido.
+    O Supremo Tribunal Federal, ao julgar o RE 705.140-RG, da relatoria do Ministro Teori Zavascki, DJe 5.11.2014, assentou a repercussão geral do Tema 308, referente às controvérsias que versem sobre se há, ou não, outros efeitos gerados da contratação pela Administração Pública de empregado não submetido à prévia aprovação em concurso público, para além do direito à contraprestação pelos dias trabalhados. O acórdão restou assim ementa:
+    “CONSTITUCIONAL E TRABALHO. CONTRATAÇÃO DE PESSOAL PELA ADMINISTRAÇÃO PÚBLICA SEM CONCURSO. NULIDADE. EFEITOS JURÍDICOS ADMISSÍVEIS EM RELAÇÃO A EMPREGADOS: PAGAMENTO DE SALDO SALARIAL E LEVANTAMENTO DE FGTS (RE 596.478 - REPERCUSSÃO GERAL). INEXIGIBILIDADE DE OUTRAS VERBAS, MESMO A TÍTULO INDENIZATÓRIO.
+    1. Conforme reiteradamente afirmado pelo Supremo Tribunal Federal, a Constituição de 1988 reprova severamente as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público, cominando a sua nulidade e impondo sanções à autoridade responsável (CF, art. 37, § 2º).
+    2. No que se refere a empregados, essas contratações ilegítimas não geram quaisquer efeitos jurídicos válidos, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço - FGTS.
+    3. Recurso extraordinário desprovido.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 10 de abril de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
