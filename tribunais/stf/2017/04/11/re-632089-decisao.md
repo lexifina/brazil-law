@@ -1,0 +1,24 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Fernando Jorge Junior. Aparelhado o recurso na afronta aos arts. 5º, XXXVI e LIV, 42, § 3º, e 206, IV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não restou demonstrada, de forma efetiva, a repercussão geral da controvérsia nas razões do apelo extremo, sequer mencionados os dispositivos legais determinantes da preliminar.
+    Observo que este Supremo Tribunal Federal firmou entendimento no sentido de que não basta a mera descrição do instituto em tela, nem a simples referência a precedente recursal. Cabe à parte recorrente a demonstração formal e fundamentada da existência de repercussão geral da matéria, indicando especificamente as razões que evidenciem a relevância econômica, social, política ou jurídica, ainda que tal repercussão já tenha sido presumida ou declarada em outro processo. Insuficiente a mencionada preliminar, inadmissível o recurso extraordinário. Colho precedentes:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO CIVIL. COMPETÊNCIA. CUMPRIMENTO DE SENTENÇA. PRELIMINAR FORMAL DE REPERCUSSÃO GERAL. AUSÊNCIA DE FUNDAMENTAÇÃO. ARTIGO 543-A, § 2º, DO CÓDIGO DE PROCESSO CIVIL C.C. ARTIGO 327, § 1º, DO RISTF. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 834.512-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.4.2016)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS SUSCITADAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ADMINISTRATIVO. EXERCÍCIO DE FUNÇÃO PÚBLICA. REGULARIDADE DO VÍNCULO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF.
+    II – Ausência de prequestionamento das questões constitucionais suscitadas. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    III – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF.
+    IV – Agravo regimental a que se nega provimento.” (ARE 820.902-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 28.8.2014)
+    Ademais, ainda que não se ressentisse o recurso quanto ao óbice apontado, melhor sorte não colheria, porquanto o acórdão recorrido não divergiu do entendimento firmado por esta Suprema Corte, verbis:
+    “Ação direta de inconstitucionalidade. Parte final do art. 117 da Lei nº 6.880/80 (Estatuto dos Militares da União), na redação dada pela Lei nº 9.297/1996. Dever do oficial militar com menos de cinco anos de corporação de indenizar os custos decorrentes de sua formação, no caso de assunção de cargo ou emprego civil. Supremacia do interesse público. Ressarcimento ao erário. Ausência de ofensa à liberdade de profissão e ao princípio da proporcionalidade. Liminar indeferida. Ação que se julga improcedente.
+    1. O desembolso pelo erário de custos adicionais, destinados à preparação e à manutenção de seus servidores, em especial dos militares, com a finalidade de aprimoramento do Corpo das Forças Armadas, não poder ser negligenciado, em razão da própria configuração constitucional da supremacia do interesse público e da integridade do erário. A norma questionada é similar a outras previstas na legislação do servidor civil, que preveem a necessidade de devolução pelo servidor dos valores gastos pela União com sua formação profissional. Ausente ainda ofensa ao princípio da proporcionalidade, na medida em que a norma é adequada para o fim que se destina, sem agressão ou nulificação do direito de liberdade profissional.
+    2. Ação direta julgada improcedente.” (ADI 1.626/UF, Rel. Min. Dias Toffoli, Pleno, Dje 03.3.2017)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de abril de 2017.
+Ministra Rosa Weber
+Relatora
