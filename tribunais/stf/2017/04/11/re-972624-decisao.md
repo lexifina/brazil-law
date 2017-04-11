@@ -1,0 +1,15 @@
+Vistos etc.
+    Trata-se de recurso nominado de agravo de instrumento, manejado pelo Município de Irineópolis, com amparo no art. 1.015 do CPC, contra decisão pela qual, ante a inexistência de ofensa direta à Constituição Federal, neguei seguimento ao recurso extraordinário que interpôs.
+    Insiste o Município de Irineópolis que o recurso extraordinário preenche todos os requisitos para sua admissão.
+    Requer “seja o presente agravo de instrumento provido para o fim de reformar a decisão proferida pelo Supremo Tribunal Federal, determinando-se, por conseguinte, o destrancamento do Recurso Extraordinário”.
+    É o relatório.
+    Decido.
+    Descabe o manejo de “agravo de instrumento” contra decisão monocrática pela qual, no âmbito desta Suprema Corte, negado seguimento a recurso extraordinário. Colho precedentes:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO MONOCRÁTICA DE RELATOR. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE. 1. Configura erro grosseiro a interposição do agravo de instrumento para impugnar decisão monocrática de relator, uma vez que para tal finalidade é cabível o agravo regimental previsto nos artigos 557 , § 1º do CPC e 258 do RISTJ. Inaplicabilidade do princípio da fungibilidade recursal. 2. Agravo de instrumento não conhecido.” (PET 9446 ED, Rel. Min. Luiz Fux, Primeira Turma, DJe 21-11-2013).
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. RECURSO INTEMPESTIVO. “ AGRAVO DE INSTRUMENTO” INTERPOSTO CONTRA DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO. INCABÍVEL. 1. É intempestivo o agravo interposto fora do prazo legal. 2. Não cabe “agravo de instrumento” proferida pelo relator que negou seguimento ao recurso extraordinário. Erro grosseiro que não permite o saneamento do vício. Precedentes. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno não conhecido com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 738455 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 26-08-2016).
+    Expressamente prevista no Regimento Interno do STF (art. 317) a via adequada à impugnação da decisão proferida pelo Relator do recurso, bem como no art. 1.021, caput, do CPC/2015 (“Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.”), reputo inocorrente dúvida razoável e objetiva sobre qual o recurso cabível (AI 523281, Rel. Min. Sepúlveda Pertence, DJ 06.12.2004; (RMS 32148, Rel. Min. Dias Toffoli, Dje 06.3.2014), revelando-se, o câmbio de espécies recursais, no caso, exemplo típico de erro processual grosseiro (AI 855335, Rel. Min. Cármen Lúcia DJe 21.5.2012), a inviabilizar seja invocado, na espécie, o princípio da fungibilidade recursal (RTJ 132/194 – RTJ 132/1374 – RTJ 142/472).
+    Ante o exposto, nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se
+    Brasília, 11 de abril de 2017.
+Ministra Rosa Weber
+Relatora
