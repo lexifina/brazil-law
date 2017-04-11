@@ -1,0 +1,36 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5º, LIV e LV, e 150, II, da Constituição Federal.
+    Anote-se a ementa do acórdão recorrido:
+    “ADMINISTRATIVO. TRIBUTÁRIO. ARROLAMENTO DE BENS. ART. 64 DA LEI Nº 9.532/97. ALTERAÇÃO DO VALOR MÍNIMO DO DÉBITO AUTORIZADOR DA MEDIDA. DECRETO Nº 7.573/11. AUSÊNCIA DE COMPROVAÇÃO DO VALOR ATUAL DA DÍVIDA. BEM IMÓVEL RESIDENCIAL. POSSIBILIDADE. INEXISTÊNCIA DE ÓBICE AO EXERCÍCIO DOS DIREITOS DE PROPRIEDADE. VEÍCULOS ALIENADOS FIDUCIARIAMENTE. CABIMENTO. CONSTITUCIONALIDADE DA MEDIDA.
+    1. O arrolamento é procedimento administrativo destinado à garantia do débito do contribuinte, de natureza cautelar, não implicando a indisponibilidade dos bens e, consequentemente, obstáculo ao exercício das prerrogativas inerentes ao direito de propriedade.
+    2. Visa-se identificar os bens do suposto devedor e evitar a sua dissipação, providência expressamente autorizada pela Constituição Federal, nos termos do art. 145, § 1º, parte final.
+    3. Não demonstração do valor atualizado do débito após parcial provimento de impugnação administrativa. Inviabilidade de aplicação de novo valor mínimo autorizador da medida fixado em norma superveniente (Decreto nº 7.573/11).
+     4. Independentemente de o bem imóvel encontrar-se ou não ao abrigo da norma inscrita no art. 1º da Lei nº 8.009/90 (impenhorabilidade) é possível o arrolamento do imóvel. Medida que não importa em oneração ou constrição do bem, tampouco em restrição à plena fruição do direito de propriedade. Precedentes do STJ.
+    5. Embora se afaste a incidência de penhora sobre bens objeto de alienação fiduciária, tem-se admitido que o instituto recaia sobre os direitos decorrentes do contrato de alienação fiduciária. Precedentes do STJ e do TRF3. Consubstanciando medida inequivocamente menos gravosa, não se afigura empecilho ao mero arrolamento de veículos alienados fiduciariamente.
+    6. Caráter meramente acautelatório da medida, visando assegurar o simples acompanhamento da situação patrimonial do devedor, sem incorrer em qualquer privação do exercício dos direitos de propriedade . Expresso comando legal autorizando e regulando a efetivação do procedimento administrativo de arrolamento. Ampla admissão da medida pela jurisprudência pátria. Ausência de violação aos princípios da razoabilidade, da proporcionalidade, do devido processo legal ou da segurança jurídica.
+    7. Apelação improvida.”
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere aos incisos LIV e LV do 5º da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte.
+    Ademais, verifico que a Corte de origem decidiu a lide amparada na legislação infraconstitucional pertinente e no conjunto fático e probatório constante dos autos. Destaco as seguintes passagens do voto condutor do acórdão recorrido:
+    “O arrolamento de bens ora impugnado, efetuado em 27.07.05 (fls. 89/90), tem previsão no art. 64 da Lei nº 9.532/97, in verbis: (…)
+    Conforme se infere, configura o arrolamento fiscal procedimento administrativo direcionado a garantir o crédito da Fazenda Pública nas hipóteses em que seu valor for, cumulativamente, superior a 30% (trinta por cento) do patrimônio do contribuinte e ultrapassar, nos termos da legislação vigente à época, a quantia de R$ 500.000,00 (quinhentos mil reais).
+    (…)
+    Publicado o Decreto nº 7.573/11, a quantia mínina autorizadora do procedimento fiscal passou para R$ 2.000.000,00 (dois milhões de reais), consoante prescreve o art. 1º do diploma, verbis: (…)
+    Nesses termos, conquanto se possa cogitar da aplicação do diploma ulterior ao caso em tela à vista do comando inserto no art. 462 do CPC - segundo o qual se impõe ao magistrado, quando do julgamento do feito, levar em consideração ‘fato constitutivo, modificativo ou extintivo do direito’ surgido após o ajuizamento da ação e apto a influir na solução da lide - incumbiria à autora evidenciar o enquadramento de sua situação à hipótese normativa, ou seja, comprovar que seu débito atual é inferior ao valor estatuído pela norma superveniente.
+    Contudo, desse ônus não se desincumbe.
+    (…)
+    A suspensão da exigibilidade do crédito tributário, mediante a apresentação de impugnação ou recurso administrativo, não tem o condão de inviabilizar o arrolamento de bens.
+    Em primeiro lugar, a medida não implica exigência prévia do tributo cobrado. Como já explanado, consiste, tão somente, em instrumento acautelatório, destinado a impedir a dissipação dos bens do contribuinte devedor.
+    Demais disso, a suspensão da exigibilidade, em qualquer de suas modalidades, apenas torna o crédito tributário inexigível administrativamente, não possuindo o condão de alterar a sua condição de definitivamente constituído.”
+    Para ultrapassar o entendimento do Tribunal a quo e acolher a pretensão recursal, seria necessário o reexame da causa à luz da legislação infraconstitucional (Código Tributário Nacional, Lei nº 9.532/97, Decreto nº 7.573/11 e IN SRF nº 264/02) e dos fatos e das provas dos autos. A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o recurso extraordinário. Incidência da Súmula nº 279 da Corte. Sobre o tema:
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais.” (RE nº 847.663/PR-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 6/4/15).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ARROLAMENTO DE BENS. REQUISITOS. LEI N. 9.532/97. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (AI nº 733.419/PR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 7/8/09).
+    Ainda no mesmo sentido: ARE nº 817.859/SP, Relator o Ministro Luiz Fux, DJe de 20/9/16; ARE nº 977.910/SC, Relatora a Ministra Cármen Lúcia, DJe de 28/6/16; RE nº 934.783/SC, Relator o Ministro Roberto Barroso, DJe de 18/12/15; AI nº 859.911/PR, Relator o Ministro Gilmar Mendes, DJe de 12/11/13.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 11 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
