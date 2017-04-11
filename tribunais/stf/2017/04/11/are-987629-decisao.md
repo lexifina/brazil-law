@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal da 4ª Região, confirmando o entendimento do Juízo, assentou a conversão em renda de depósito do valor total do tributo realizado pela recorrente, observada a legislação de regência. No recurso extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 5º, incisos I, II, XXXIV, XXXV, LIV e LV, 93, inciso IX, 150, incisos I e II, da Carta Política. Sustenta a ausência de fundamentação na decisão recorrida quanto ao indeferimento do levantamento do valor integral do depósito dado em garantia, sem a dispensa da multa e da incidência de juros com a limitação prevista na Lei nº 11.941/09. Aduz a inobservância aos princípios da isonomia e da razoabilidade.
+    2. De início, quanto a evocação do artigo 97 da Lei Fundamental, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça as vezes. Tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    O Tribunal de origem asseverou a impossibilidade de levantamento do valor integral, integrado por juros compensatórios, do depósito judicial referente ao recolhimento da contribuição do PIS convertido em renda da União, observado o artigo 9º, inciso I, da Lei nº 6.830/80, artigo 10, parágrafo único, da Lei nº 11.941/09 e a Lei nº 9.703/98. Assim, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 11 de abril de 2017.
+Ministro MARCO AURÉLIO
+Relator
