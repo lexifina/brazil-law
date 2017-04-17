@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO APOSENTADO. FUNÇÃO COMISSIONADA. INCORPORAÇÃO. PORTARIA/MEC N.º 474/87. VPNI. IRREDUTIBILIDADE DE VENCIMENTOS.
+    Não há decadência a obstar a iniciativa da Administração de rever o ato de incorporação de quintos de FC à remuneração do autor, nos moldes da Portaria n.º 474/87 do MEC, uma vez que a implementação da vantagem decorreu de cumprimento de ordem judicial (Lei n.º 9.784/99).
+    É firme na jurisprudência desta Corte e do Supremo Tribunal Federal o entendimento no sentido de que o prazo quinquenal, previsto no artigo 54 da Lei n.º 9.784/99, tem início somente após o registro do ato de concessão de aposentadoria ou pensão junto ao Tribunal de Contas da União, por se tratar de ato complexo, para cuja perfectibilização é imprescindível a ulterior chancela do órgão de controle externo, embora produza, desde logo, efeitos financeiros.
+    Conquanto o valor da rubrica referente à Função Comissionada tenha sido mantido nos moldes da Portaria/MEC n.º 474/87, por força de decisão judicial, a superveniência das Leis n.ºs 9.527/97 e 9.624/98 alterou substancialmente a natureza e a forma de pagamento da vantagem, impedindo a manutenção da sistemática de cálculo anteriormente adotada.
+    Aos servidores que tiveram o cálculo das incorporações de quintos/décimos de funções comissionadas atrelado à Portaria MEC n.º 474/87, é assegurada a manutenção do respectivo pagamento sob a forma de vantagem pessoal nominalmente identificada (de modo a preservar a irredutibilidade de seus proventos), nos termos das Leis n.ºs 9.527/97 e 9.624/98” (pág. 449 do documento eletrônico 1).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5°, XXXVI, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    É que a apreciação das alegadas ofensas à Constituição demanda a análise de normas infraconstitucionais aplicáveis ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta, o que inviabiliza o extraordinário.
+    Nesse mesmo sentido, cito o ARE 990.504/RS, Relator Ministro Celso de Mello e o RE 943.427/RS, Relator Ministro Luiz Fux.
+    Ademais, o Plenário do Supremo Tribunal Federal, no julgamento do RE 563.965-RG/RN, de relatoria da Ministra Cármen Lúcia, reconheceu a repercussão geral do tema em debate e confirmou a sua jurisprudência no sentido de que não há direito adquirido à forma de cálculo de remuneração. Salientou, ainda, a legitimidade de lei superveniente que, sem causar decesso remuneratório, desvincule o cálculo da vantagem incorporada dos vencimentos do cargo em comissão ou função de confiança outrora ocupado pelo servidor, passando a quantia a ela correspondente a ser reajustada segundo os critérios das revisões gerais de remuneração do funcionalismo. O acórdão do referido julgado foi assim ementado:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico.
+    2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, consequentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração.
+    3. Recurso extraordinário ao qual se nega provimento”
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 17 de abril de 2017.
+Ministro Ricardo Lewandowski
+Relator
