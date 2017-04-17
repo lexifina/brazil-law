@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Órgão Especial do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 6, p.21-22):
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE - LEI Nº 11.298, DE 04 DE ABRIL DE 2016, DO MUNICÍPIO DE SOROCABA, QUE DISPÔS SOBRE A 'DENOMINAÇÃO DE 'PROFESSORA HELLY GRILLO MUSSI' A UMA PRAÇA PÚBLICA' – ATRIBUIÇÃO DE NOMENCLATURA A LOGRADOUROS PÚBLICOS - SINALIZAÇÃO URBANA - ATO TÍPICO DE ADMINISTRAÇÃO, CUJO EXERCÍCIO E CONTROLE CABE AO PREFEITO - VÍCIO DE INICIATIVA E VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES - USURPAÇÃO DA COMPETÊNCIA PRIVATIVA DO CHEFE DO PODER EXECUTIVO LOCAL - AFRONTA AOS ARTIGOS 5º, 47, INCISOS II E XIV, E 144, TODOS DA CONSTITUIÇÃO ESTADUAL – INCONSTITUCIONALIDADE DECLARADA - DESNECESSIDADE DE MODULAÇÃO DOS EFEITOS - AUSÊNCIA DE RAZÕES DE SEGURANÇA JURÍDICA OU EXCEPCIONAL INTERESSE PÚBLICO - AÇÃO PROCEDENTE, REJEITADA A PRELIMINAR.
+    O Executivo goza de autonomia e independência em relação à Câmara Municipal, que não podem ser violadas mediante elaboração legislativa que tenha por escopo impingir ao Prefeito o que deve ser feito em termos de administração pública”.
+    A ingerência da Câmara Municipal na esfera de competência exclusiva do Prefeito implica transgressão ao princípio da independência e harmonia entre os poderes previsto no artigo 5º, caput, da Constituição Estadual".
+     No extraordinário, fundado no art. 102, II, a, da Constituição Federal, alega-se contrariedade aos arts. 2º, 61 e 84, incisos II e XXVII, do texto constitucional, sob o argumento que, em se tratando de ato normativo de efeitos concretos, a lei municipal em comento não poderia ser objeto de ação direta de inconstitucionalidade.
+    A Presidência do TJSP inadmitiu o recurso em virtude da ausência de prequestionamento dos artigos constitucionais alegados violados.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observo que as questões constitucionais alegadas não foram objeto de debate no acórdão recorrido. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF).
+    Ademais, verifica-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o exame da legislação municipal. Dessa forma, resta demonstrado a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo. No mesmo sentido, confira-se os seguintes precedentes:
+    Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor Público Estadual. 3. Prorrogação de Licença Maternidade. Matéria Infraconstitucional. Ofensa reflexa. 4. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento. (ARE 745.009-AgR/BA, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 01.4.2014)
+    Agravo regimental no recurso extraordinário com agravo. Servidora pública estadual. Licença maternidade. Prorrogação. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. O recurso extraordinário não se presta à analise de legislação infraconstitucional. Incidência das Súmulas nºs 280 e 636/STF. 3. Agravo regimental não provido. (ARE 738.391-AgR/BA, Rel. Min. Dias toffoli, Primeira Turma, DJe 27.6.2013)
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, RISTF.
+    Publique-se. Intime-se.
+    Brasília, 17 de abril de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
