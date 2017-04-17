@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Olga Maria da Silva Viana interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da 3ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “USUCAPIÃO URBANO. BEM VINCULADO AO SFH. IMPOSSIBILIDADE. Tratando-se de bem vinculado a contrato de financiamento pelo Sistema Financeiro da Habitação (SFH), não há possibilidade de usucapião, porquanto o imóvel financiado com recursos do SFH possui caráter público em razão da função social do financiamento - o qual tem por objetivo possibilitar a aquisição de moradias a baixo custo para a população.”
+    Sustenta a recorrente violação dos artigos 6º, 173, inciso II, e 183, caput e § 3º, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 6º e 173, inciso II, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Ademais, esta Suprema Corte já assentou, em diversas oportunidades, que a verificação do preenchimento dos requisitos necessários para a configuração da usucapião urbano não prescinde do reexame da legislação infraconstitucional pertinente e do conjunto fático-probatório constante dos autos, o que é incabível no âmbito do recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Sobre o tema:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. 3. Usucapião. Imóvel financiado pelo Sistema Financeiro da Habitação. Matéria infraconstitucional. Necessidade do revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula 279. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (ARE nº 977.067/RS-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 7/4/17).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CIVIL. USUCAPIÃO ESPECIAL. IMÓVEL VINCULADO AO SISTEMA FINANCEIRO DA HABITAÇÃO. PREENCHIMENTO DOS REQUISITOS. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO” (RE nº 785.870/AL-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 29/2/16).
+    Nesse mesmo sentido, anotem-se as seguintes decisões monocráticas que também tratam especificamente do tema versado nos presentes autos: RE nº 1.002.356/AL, Relator o Ministro Celso de Mello, DJe de 15/3/17; RE nº 1.026.806/AL, de minha relatoria, DJe de 2/3/17; e RE nº 1.012.488/AL, Relator o Ministro Marco Aurélio, DJe de 8/12/16.
+    Ante o exposto, nos termos do artigo 21, § 1º do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 17 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
