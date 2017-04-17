@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO AGRAVO DE INSTRUMENTO.
+    Não desmerecida pelas razões deduzidas no agravo interno, subsiste a decisão que deu parcial provimento ao agravo de instrumento em conformidade com o art. 557, §1º-A, do Código de Processo Civil.
+    AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DOS AGRAVANTES/FIADORES DE QUE NÃO PARTICIPARAM DO ACORDO HAVIDO ENTRE LOCADOR E LOCATÁRIO, TENDO OCORRIDO NOVAÇÃO, INEXISTINDO TÍTULO EXECUTIVO CONTRA OS FIADORES. DECISÃO ANTERIOR EM OUTRO RECURSO DE AGRAVO QUE RECONHECEU A RESPONSABILIDADE DOS FIADORES PELO VALOR ACORDADO E MANTEVE A PENHORA DE ATIVOS FINANCEIROS DOS FIADORES. IMPOSSIBILIDADE DE REDISCUTIR MATÉRIA ACOBERTADA PELA COISA JULGADA. EXCESSO DE EXECUÇÃO EVIDENCIADO DIANTE DA INEXIGIBILIDADE DE PARCELAS DO ACORDO AINDA NÃO VENCIDAS NA DATA DA ELABORAÇÃO DA MEMORIA DO CALCULO. IMPOSSIBILIDADE DO VENCIMENTO ANTECIPADO DA DÍVIDA PELA INEXISTÊNCIA DE PREVISÃO NO ACORDO. EXCESSO DE EXECUÇÃO RECONHECIDO PARA DETERMINAR ACERTAMENTO DO CÁLCULO A FIM DE EVITAR INCIDÊNCIA INDEVIDA DE JUROS SOBRE JUROS E DEMAIS ENCARGOS.
+    AGRAVO INTERNO DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 93, IX, da Constituição.
+    O recurso extraordinário é inadmissível, uma vez que o Plenário deste Tribunal, sob a sistemática da repercussão geral, já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões, como ocorre neste caso. Veja-se, a propósito, a ementa do AI 791.292-QO-RG, Rel. Min. Gilmar Mendes (Tema 339):
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Seja como for, para dissentir da conclusão adotada pelo Tribunal de origem, seriam necessários a análise da legislação infraconstitucional aplicada e o reexame de fatos e provas dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 17 de abril de 2017.
+Ministro Luís Roberto Barroso
+Relator
