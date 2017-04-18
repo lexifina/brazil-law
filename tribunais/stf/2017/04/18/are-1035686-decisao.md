@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – IPI – ANTERIORIDADE NONASEGISAMAL – MAJORAÇÃO DE ALÍQUOTA – AGRAVO DESPROVIDO.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal decidiu em harmonia com a jurisprudência do Supremo. O Plenário, na sessão realizada em 20 de outubro de 2011, deferiu a liminar, à unanimidade, na ação direta de inconstitucionalidade nº  4.661, de minha relatoria, para assentar a necessidade de observar-se, no caso de majoração da alíquota do Imposto Sobre Produtos Industrializados, o princípio da anterioridade nonagesimal, revelado no artigo 150, inciso III, alínea c, da Constituição Federal. Eis a ementa do julgado:
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE – DECRETO – ADEQUAÇÃO. Surgindo do decreto normatividade abstrata e autônoma, tem-se a adequação do controle concentrado de constitucionalidade. TRIBUTO – IPI – ALÍQUOTA – MAJORAÇÃO – EXIGIBILIDADE. A majoração da alíquota do IPI, passível de ocorrer mediante ato do Poder Executivo – artigo 153, § 1º –, submete-se ao princípio da anterioridade nonagesimal previsto no artigo 150, inciso III, alínea “c”, da Constituição Federal. AÇÃO DIRETA DE INCONSTITUCIONALIDADE – IPI – MAJORAÇÃO DA ALÍQUOTA – PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL – LIMINAR – RELEVÂNCIA E RISCO CONFIGURADOS. Mostra-se relevante pedido de concessão de medida acauteladora objetivando afastar a exigibilidade da majoração do Imposto sobre Produtos Industrializados, promovida mediante decreto, antes de decorridos os noventa dias previstos no artigo 150, inciso III, alínea “c”, da Carta da República. (ADI 4661 MC, minha relatoria, Pleno, publicado no Diário da Justiça de 23 de março de 2012)
+    2. Conheço do agravo e o desprovejo. Deixo de fixar honorários advocatícios previstos no artigo 85, § 11, do Código de Processo Civil por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    3. Publiquem.
+Brasília, 18 de abril de 2017.
+Ministro MARCO AURÉLIO
+Relator
