@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita, no que importa:
+    “LEGITIMIDADE DO ESTADO DE MINAS GERAIS - ASSISTÊNCIA JUDICIÁRIA GRATUITA - PESSOA JURÍDICA SEM FINS LUCRATIVOS - IMPRESCINDIBILIDADE DE COMPROVAÇÃO DO ESTADO DE MISERABILIDADE - TERÇO CONSTITUCIONAL DE FÉRIAS- NATUREZA JURÍDICA - AUSÊNCIA DE PROVAS DA FRUIÇÃO DESTAS - POSSIBILIDADE DE INCIDÊNCIA DO IMPOSTO DE RENDA - HONORÁRIOS ADVOCATÍCIOS EXCESSIVOS. PROVIMENTO PARCIAL DO RECURSO.
+    [...] ” (pág. 309 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 5º, LXXIV, da mesma Carta. Sustentou-se, ainda, a natureza indenizatória das verbas recebidas a título de terço constitucional de férias, o que impossibilitaria a incidência de imposto de renda sobre elas.
+    A pretensão recursal não merece acolhida.
+    Inicialmente, no tocante à demonstração do estado de miserabilidade para fins de concessão do benefício da justiça gratuita às pessoas jurídicas, destaco que os Ministros desta Corte, no RE 589.490-RG/MG (Tema 103), da relatoria do Ministro Menezes Direito, manifestaram-se pela inexistência de repercussão geral da controvérsia em questão, decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327 do Regimento Interno do Supremo Tribunal Federal. Por oportuno, transcrevo a ementa do referido julgado:
+    “PROCESSUAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOAS JURÍDICAS. REQUISITOS PARA CONCESSÃO DO BENEFÍCIO. AUSÊNCIA DE REPERCUSSÃO GERAL”.
+    Com relação à questão de fundo debatida no apelo extremo, melhor sorte não assiste ao recorrente. É que a jurisprudência desta Corte firmou-se no sentido de que a discussão a respeito da natureza jurídica dos valores percebidos a título de terço de férias, se indenizatória ou salarial, para fins de incidência de imposto de renda, situa-se no âmbito infraconstitucional. Desse modo, eventual ofensa à Constituição seria apenas indireta, o que inviabiliza o recurso extraordinário. Nesse sentido, destaco julgados de ambas as Turmas deste Tribunal cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA. VALORES RECEBIDOS A TÍTULO DE TERÇO DE FÉRIAS. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. AGRAVO REGIMENTAL DESPROVIDO” (RE 759.432-AgR/AM, Rel. Min. Luiz Fux, Primeira Turma).
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Imposto de renda. Terço de férias. Natureza jurídica da verba. Matéria infraconstitucional. Ofensa constitucional indireta ou reflexa.
+    1.Possui natureza infraconstitucional a discussão a respeito da natureza jurídica da verba (se indenizatória ou salarial) para a verificação da incidência de imposto de renda. Eventual ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Precedentes.
+    2. Agravo regimental não provido” (ARE 888.108-AgR/DF, Rel. Min. Dias Toffoli, Segunda Turma).
+    Com essa mesma orientação, menciono as seguintes decisões, entre outras: ARE 818.684-AgR/DF, Rel. Min. Edson Fachin; ARE 920.882-AgR/DF, Rel. Min. Marco Aurélio; RE 851.677-AgR/SE, Rel. Min. Cármen Lúcia; ARE 773.707-AgR/PE, Rel. Min. Teori Zavascki; ARE 892.062-AgR/DF, Rel. Min. Dias Toffoli; RE 609.701-AgR/PE, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de abril de 2017.
+Ministro Ricardo Lewandowski
+Relator
