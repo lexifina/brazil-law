@@ -1,0 +1,16 @@
+Decisão:
+    Trata-se de agravo interno interposto em 13.03.2017, cujo objeto é decisão que deu provimento ao recurso extraordinário.
+    A parte agravante alega que, no julgamento do RE 596.478-RG, abrangia desde a sua origem uma reclamação trabalhista, sendo diferente do presente caso, o qual se refere à contratação temporária, regida por regime administrativo especial.
+    Reconsidero a decisão agravada e passo à análise do caso dos autos.
+    O Plenário do Supremo Tribunal Federal, ao apreciar o RE 765.320-RG, sob a relatoria do Ministro Teori Zavascki, reconheceu a existência de repercussão geral da matéria e reafirmou sua jurisprudência sobre a questão constitucional ora discutida (Tema 916). Veja-se a ementa do mencionada paradigma:
+    “ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO CONTRATADO POR TEMPO DETERMINADO PARA ATENDIMENTO DE NECESSIDADE TEMPORÁRIA DE EXCEPCIONAL INTERESSE PÚBLICO. REQUISITOS DE VALIDADE (RE 658.026, REL. MIN. DIAS TOFFOLI, DJE DE 31/10/2014, TEMA 612). DESCUMPRIMENTO. EFEITOS JURÍDICOS. DIREITO À PERCEPÇÃO DOS SALÁRIOS REFERENTES AO PERÍODO TRABALHADO E, NOS TERMOS DO ART. 19-A DA LEI 8.036/1990, AO LEVANTAMENTO DOS DEPÓSITOS EFETUADOS NO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO FGTS.
+    1. Reafirma-se, para fins de repercussão geral, a jurisprudência do Supremo Tribunal Federal no sentido de que a contratação por tempo determinado para atendimento de necessidade temporária de excepcional interesse público realizada em desconformidade com os preceitos do art. 37, IX, da Constituição Federal não gera quaisquer efeitos jurídicos válidos em relação aos servidores contratados, com exceção do direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/1990, ao levantamento dos depósitos efetuados no Fundo de Garantia do Tempo de Serviço FGTS.
+    2. Recurso extraordinário a que se dá parcial provimento, com o reconhecimento da repercussão geral do tema e a reafirmação da jurisprudência sobre a matéria.”
+    Contra o acórdão acima transcrito foram opostos embargos declaratórios sob o argumento de que os precedentes existentes no STF não são aplicáveis àquele caso concreto, uma vez que tratavam de relações fundamentadas nas regras da CLT e, por outro lado, a hipótese do paradigma é relativa a vínculo jurídico-administrativo. Alegou-se também ser necessário o exame da legislação estadual ou municipal relativa aos servidores temporários, a fim de se averiguar o regime jurídico aplicável em cada caso.
+    No presente recurso extraordinário, discute-se a possibilidade de reconhecimento de verbas trabalhistas a servidor contratado temporariamente pela Administração Pública, em desconformidade com o disposto no art. 37, IX, da Constituição Federal.
+    A solução da controvérsia dos autos será finalizada com o julgamento dos embargos declaratórios opostos no RE 765.320-RG.
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 18 de abril de 2017.
+Ministro Luís Roberto Barroso
+Relator
