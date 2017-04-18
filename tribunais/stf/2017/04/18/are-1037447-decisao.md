@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 5ª Turma do Tribunal Superior do Trabalho, assim ementado:
+    “RECURSO DE EMBARGOS REGIDO PELA LEI Nº 11.496/2007. IMUNIDADE DE JURISDIÇÃO. ORGANISMO INTERNACIONAL (ONU/PNUD). Nas hipóteses como a dos autos, em que foi reconhecida a existência de tratado internacional celebrado entre o Governo Federal e o Programa das Nações Unidas para o desenvolvimento (ONU/PNUD), tratado este que se submeteu a todos os trâmites necessários à sua incorporação ao ordenamento jurídico brasileiro – ratificação pelo Congresso Nacional e disposição por Decreto Executivo - não tem pertinência a regra do Direito Consuetudinário, referente à natureza dos atos praticados, eis que expressamente prevista cláusula de imunidade jurisdicional. Significa dizer que, neste caso, não há que se perquirir quanto à prática de atos de gestão ou atos de império, a pautar a imunidade jurisdicional, posto que estipulada voluntariamente por ambas as partes no documento firmado pelo ente internacional (Organismo Internacional) e o Governo Federal. Precedentes da SBDI1 desta Corte. Recurso de embargos conhecido e provido.
+    MULTA POR EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. Verifica-se que, ao contrário do alegado pelo reclamado, a Turma, ao rejeitar os sucessivos embargos de declaração opostos por ele em face da decisão proferida no recurso de revista, não lhe aplicou a multa do artigo 538, parágrafo único, do Código de Processo Civil. Assim, neste aspecto, é clara e manifesta a ausência de interesse recursal da parte ora embargante. Recurso de embargos não conhecido.”
+    No recurso extraordinário, sustenta-se violação dos artigos 1º, 4º, 5º, incisos XXXV e XXXVI, 7º, incisos II, III, VIII, XVI e XXI, e 114 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, uma vez que o entendimento firmado no Tribunal Superior do Trabalho não divergiu do orientação fixada pelo Plenário deste Supremo Tribunal Federal no julgamento do RE nº 578.543/MT, Redator para o acórdão o saudoso Ministro Teori Zavascki, cuja emento transcrevo:
+    “DIREITO INTERNACIONAL PÚBLICO. DIREITO CONSTITUCIONAL. IMUNIDADE DE JURISDIÇÃO. ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). PROGRAMA DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO (ONU/PNUD). RECLAMAÇÃO TRABALHISTA. CONVENÇÃO SOBRE PRIVILÉGIOS E IMUNIDADES DAS NAÇÕES UNIDAS (DECRETO 27.784/1950). APLICAÇÃO.
+    1. Segundo estabelece a “Convenção sobre Privilégios e Imunidades das Nações Unidas”, promulgada no Brasil pelo Decreto 27.784, de 16 de fevereiro de 1950, ‘A Organização das Nações Unidas, seus bens e haveres, qualquer que seja seu detentor, gozarão de imunidade de jurisdição, salvo na medida em que a Organização a ela tiver renunciado em determinado caso. Fica, todavia, entendido que a renúncia não pode compreender medidas executivas’.
+    2. Esse preceito normativo, que no direito interno tem natureza equivalente a das leis ordinárias, aplica-se também às demandas de natureza trabalhista.
+    3. Recurso extraordinário provido.”
+    Sobre o tema, destaca-se também o seguinte julgado da Segunda Turma desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO INTERNACIONAL PÚBLICO. ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). PROGRAMA DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO (ONU/PNUD). PRIVILÉGIOS E IMUNIDADES DAS NAÇÕES UNIDAS (DECRETO 27.784/1950). PRECEDENTE DO PLENÁRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – Convenção sobre Privilégios e Imunidades das Nações Unidas, promulgada no Brasil pelo Decreto 27.784/1950: ‘A Organização das Nações Unidas, seus bens e haveres, qualquer que seja sua sede ou o seu detentor, gozarão de imunidade de jurisdição, salvo na medida em que a Organização a ela tiver renunciado em determinado caso. Fica, todavia, entendido que a renúncia não pode compreender medidas executivas’.
+    II – No âmbito do direito interno, a referida convenção tem natureza equivalente a das leis ordinárias e é aplicável às lides trabalhistas. Constitucionalidade declarada pelo Plenário do Supremo Tribunal Federal no RE 578.543/MT.
+    III – Agravo regimental a que se nega provimento” (RE nº 599.076/MT-AgR, Relator o Ministro Ricardo Lewandowski, DJe de 14/8/14.
+    Nesse mesmo sentido, as seguintes decisões monocráticas: RE nº 607.233/DF, Relator o Ministro Celso de Mello, Dje de 24/9/15; RE nº 607.225/DF, Relator a Ministra Cármen Lúcia, DJe de 6/11/14; e RE nº 607.211/DF, Relator o Ministro Luiz Fux, DJe de 20/5/14.
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que a parte ora recorrida não apresentou contrarrazões ao recurso.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 18 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
