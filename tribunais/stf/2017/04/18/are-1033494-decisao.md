@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência de pedido formulado em embargos de terceiros. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 1º, inciso III, e 5º, incisos XXII e XXIII, da Constituição Federal. Diz contrariados os princípios da dignidade da pessoa humana e da função social da propriedade. Discorre sobre a impenhorabilidade do bem de família, sobretudo tendo em vista tratar-se de viúva “do lar” e a inexistência de ganho com o contrato firmado pelo filho.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença confirmada e do acórdão recorrido os seguintes trechos:
+    Com efeito, a jurisprudência do Superior Tribunal de Justiça consolidou- se no sentido de que o oferecimento, de forma voluntária, do único imóvel pertencente à entidade familiar em garantia de dívida assumida em benefício próprio ou familiar, revela circunstância suficiente ao afastamento da proteção legal inserida na Lei nº 8099/1990.”
+    [...]
+    Verifica-se, adiante, revelar o d. juiz sentenciante, no sentenciamento deste feito, ter rejeitado a exceção de pré-executividade (fls.240). E, pelos mesmos motivos, acabou rejeitando os embargos sob o bordão de que, dando-se o imóvel como garantia de empréstimo ou dívida, em benefício da própria família, deixa o bem de ter a proteção legal da impenhorabilidade.
+    Em verdade, o argumento da executada/ embargante não vinga na exata medida que não pode tratar o filho como terceiro. O filho integra o núcleo familiar.
+    Assim, a dívida que consta da escritura de hipoteca trouxe benefício, direto ou indireto, à embargante, mesmo porque ela, de forma livre e consciente, deu o imóvel em garantia junto ao credor, não podendo, agora, pretender que se modifique a regra do jogo. Não há que se falar em impenhorabilidade, portanto.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, em 5% do valor da condenação por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 18 de abril de 2017
+Ministro MARCO AURÉLIO
+Relator
