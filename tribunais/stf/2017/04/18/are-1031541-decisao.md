@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 1°, III, 5º, caput, LV e LIV, 93, IX, 170, caput, e 196 da Constituição Federal.
+    Anote-se parte da ementa da decisão proferida pela instância de origem:
+    “TRIBUTÁRIO. IMPOSTO DE RENDA. PORTADOR DE MOLÉSTIA GRAVE. ISENÇÃO LEGAL LIMITADA AOS PROVENTOS DE APOSENTADORIA OU REFORMA. RECURSO DA UNIÃO PROVIDO”.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 5º, LV e LIV, e 93, IX, da CF/88, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte.
+    Verifico que o acórdão recorrido assentou-se na interpretação da legislação infraconstitucional para concluir que não é possível a extensão do benefício fiscal da isenção em tela ao trabalhador no período correspondente à ativa. Por esclarecedor, transcrevo o seguinte trecho:
+    “(...) devo curvar-me em nome da segurança jurídica ao entendimento majoritário de que a legislação trata apenas de aposentadoria ou reforma, não havendo margem para interpretação extensiva, para o fim de abarcar também o período em atividade anterior à aposentadoria, ainda que o autor se encontrasse de licença afastado de suas atividades,em razão do infarto sofrido”.
+    Desse modo, para ultrapassar o entendimento do Tribunal de origem e acolher a pretensão do recorrente, seria necessário o reexame da legislação ordinária aplicável à espécie (Lei nº 7.713/88 e Código Tributário Nacional). Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Sobre o tema:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Tributário. Imposto de renda. Isenção. Deficiência visual. Servidor não aposentado. Necessidade de reexame da legislação infraconstitucional. Ofensa reflexa. Impossibilidade de atuação do judiciário como legislador positivo. Precedentes da Corte. 1. A suposta ofensa à Constituição somente poderia ser constatada a partir da análise e da reinterpretação da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, a qual é insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. 2. Impossibilidade de o Poder Judiciário atuar como legislador positivo para estabelecer isenções de tributos não previstas em lei. 3. Agravo regimental não provido” (ARE n° 787.994/GO-AgR, Primeira Turma, de minha relatoria, DJe de 23/6/14).
+    “AGRAVO REGIMENTAL. TRIBUTÁRIO. IMPOSTO SOBRE A RENDA E PROVENTOS DE QUALQUER NATUREZA. ISENÇÃO. ALEGADA EXTENSÃO DE BENEFÍCIO POR FORÇA DO PRINCÍPIO DA ISONOMIA. VIOLAÇÃO DA REGRA DA LEGALIDADE EM VIRTUDE DE FALTA DE AUTORIZAÇÃO EXPRESSA PARA BENEFICIAR A SITUAÇÃO ESPECÍFICA TRATADA NOS AUTOS. MATÉRIA INFRACONSTITUCIONAL. VIOLÊNCIA REFLEXA OU INDIRETA. Da forma como postas as razões recursais, a discussão sobre o alcance de isenção tributária a ex-funcionário da Companhia Estadual de Energia Elétrica – CEEE tem alçada infraconstitucional, de modo que eventual violação constitucional seria indireta ou reflexa (Súmula 636/STF). Agravo regimental ao qual se nega provimento” (RE nº 603.170/RS-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 25/10/11 – grifei).
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 18 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
