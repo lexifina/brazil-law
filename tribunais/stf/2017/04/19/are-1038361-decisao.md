@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Superior do Trabalho, ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO. INDENIZAÇÃO POR DANOS MORAIS. RESTRIÇÃO E CONTROLE NO USO DO BANHEIRO. Caracterizada possível violação do art. 1º, III, da Constituição Federal, cabível o processamento do recurso de revista. Agravo de instrumento provido. RECURSO DE REVISTA. INDENIZAÇÃO POR DANOS MORAIS. RESTRIÇÃO E CONTROLE NO USO DO BANHEIRO. A restrição ao uso de banheiros pela empresa não pode ser considerada conduta razoável, pois configura afronta à dignidade da pessoa humana e à privacidade, aliada ao abuso do poder diretivo do empregador. A conduta patronal, caracterizada pela restrição e fiscalização do uso dos toaletes, expõe o trabalhador a constrangimento desnecessário, ensejando a condenação ao pagamento da indenização por dano moral. Há precedentes. Recurso de revista conhecido e provido.” (eDOC 19, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, incisos II, V, X, XXXV, LIV e LV, do texto constitucional, e à Súmula Vinculante n.º 10.
+    Nas razões recursais, afirma-se que não há prova nos autos do dano moral alegado. Sustenta-se contrariedade ao art. 333 do CPC/73.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, no tocante à suposta violação ao devido processo legal, verifico que o Supremo Tribunal Federal já apreciou a matéria dos autos no julgamento do ARE-RG 748.371 (Tema 660), oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão posta.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou a existência da prática abusiva de controle, pelo recorrente, quanto à utilização do banheiro pelos seus empregados. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Diante do quadro fático-probatório delineado no acórdão recorrido, verifica-se que, no caso dos autos, apesar da conclusão do Tribunal Regional, está evidenciada a existência de controle pelo reclamado quanto à utilização do banheiro pelos empregados.
+    A prática descrita pelo Regional configura descumprimento do empregador dos deveres decorrentes da boa-fé, dentre os quais se encontra o dever de zelar pela segurança e bem-estar do empregado no ambiente de trabalho.” (eDOC 19, p. 4)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. DANOS MORAIS. AMBIENTE DE TRABALHO.COMPETÊNCIA. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 988.575 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 18.4.2017)
+    “CONSTITUCIONAL. TRABALHO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DANO MORAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. REEXAME DE FATOS E PROVAS. SÚMULA STF 279. 1. A Justiça do Trabalho será competente para julgar ações de indenização por danos morais e materiais quando decorrentes da relação de trabalho entre as partes. 2. Para verificar se a relação entre as partes da presente demanda é proveniente da relação de trabalho, é necessária a análise da matéria fático-probatória, circunstância inviável nesta sede recursal (Súmula STF 279). 3. Agravo regimental improvido.” (RE 563.173 AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.9.2009)
+    Por fim, observo ainda que esta Corte entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de abril de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
