@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Segunda Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, cujos fundamentos reproduzo (eDOC 65):
+    “Finalmente, sobre o tema objeto do recurso veiculado pelo demandante, a Turma Regional de Uniformização dos Juizados Especiais Federais da 4ª Região consolidou o seguinte entendimento:
+    INCIDENTE DE UNIFORMIZAÇÃO. PREVIDENCIÁRIO. BENEFÍCIO CONCEDIDO ADMINISTRATIVAMENTE. MAIS VANTAJOSO. EXECUÇÃO DE PARCELAS ATRASADAS DO BENEFÍCIO POSTULADO EM JUÍZO. POSSIBILIDADE. INCIDENTE CONHECIDO E PROVIDO. 1. Uniformização da matéria no sentido de que é permitido ao segurado continuar percebendo o benefício deferido no âmbito administrativo, por lhe ser mais vantajoso, sem necessidade de renunciar às parcelas atrasadas, referentes ao benefício reconhecido judicialmente. (IUJEF 0002883-02.2009.404.7195, Turma Regional de Uniformização da 4ª Região, Relator p/ Acórdão João Batista Lazzari, D.E. 28/01/2014). 2. Incidente provido. (IUJEF 5039395- 48.2013.404.7100, Turma Regional de Uniformização da 4ª Região, Relator p/ Acórdão Osório Ávila Neto, juntado aos autos em 24/03/2015)
+    (...)
+    Assim, e com a ressalva de meu posicionamento pessoal, merece reparos a sentença recorrida quanto a essa parcela, eis que é possível autorizar o segurado a continuar percebendo o benefício deferido no âmbito administrativo (NB 169.086.425- 4), por lhe ser mais vantajoso, sem a necessidade deste renunciar às parcelas atrasadas, referentes ao benefício reconhecido judicialmente (NB 162.525.274-6).”
+    Os embargos de declaração foram desprovidos (e-DOC77).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, caput, 40, 97, 194, 195,201, § 1º, da Constituição Federal.
+    Nas razões recursais, aduz com a impossibilidade de o beneficiário cindir título executivo judicial de forma a executar a parte que lhe é favorável, renunciando a que lhe é desfavorável. Articula que o acórdão, assim como está julgado, implica o enriquecimento sem causa do autor (eDOC 80, p. 6).
+    É o relatório. Decido.
+    Constato que eventual divergência em relação ao entendimento adotado pelo juízo a quo, notadamente sobre a possibilidade de recebimento de valores decorrentes de benefício deferido na via judicial, porém não implantado em decorrência de benefício mais vantajoso obtido na via administrativa, demandaria a análise de legislação infraconstitucional aplicável a espécie.
+    Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula 279/STF.
+    No mesmo sentido deste julgado colaciono os seguintes precedentes: RE 906.499, Rel. Min. Dias Toffoli, DJe de 23.09.2015; RE 891.891, rel. Min. Roberto Barroso, DJe de 10.06.2015; ARE 905.014, Rel. Min. Luiz Fux, DJe de 31.08.2015, este último assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PERCEPÇÃO DO BENEFÍCIO CONCEDIDO ADMINISTRATIVAMENTE NO CURSO DA AÇÃO, MAIS VANTAJOSO, E EXECUÇÃO DAS PARCELAS ATRASADAS DO BENEFÍCIO POSTULADO EM JUÍZO. RECURSO EXTRAORDINÁRIO QUE NÃO ATACA TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283/STF. INCIDÊNCIA. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.”
+    Por fim, afasta-se a nulidade alegada com base no artigo 97 da Carta da República, visto que o Tribunal de origem não declarou a inconstitucionalidade de dispositivo normativo, mas apenas interpretou norma legal.
+    Assim, a jurisprudência do STF é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula de reserva de plenário, o que não se verificou no caso concreto.
+    Precedentes: AI-AgR 848.332, de relatoria do Ministro Dias Toffoli, Primeira Turma, DJe 24.4.2012, e ARE-AgR-ED 736.780, de relatoria do Ministro Gilmar Mendes, Segunda Turma, DJe 22.5.2015.
+    Ante o exposto, nego seguimento ao recurso extraordinário com fundamento nos artigos 21, § 1º, do RISTF.
+    Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 19 de abril de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
