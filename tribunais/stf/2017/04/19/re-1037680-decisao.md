@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão assim ementado, no que interessa:
+    “CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORA PÚBLICA FEDERAL. IMPLANTAÇÃO DE APOSENTADORIA. INAMPS. EXTINÇÃO. SUCESSÃO PELA AGRAVANTE. LEGITIMIDADE DA EXEQUENTE. PRESCRIÇÃO. AFASTAMENTO. PRINCÍPIO DA ACTIO NATA. APLICAÇÃO DO ART. 741, PARÁGRAFO ÚNICO, CPC. IMPOSSIBILIDADE. DECISÃO TRANSITADA EM JULGADO ANTES DA VIGÊNCIA DA NOVEL LEGISLAÇÃO QUE MODIFICOU MENCIONADO DISPOSITIVO. AGRAVANTE QUE JÁ RECEBE OS PROVENTOS DE APOSENTAÇÃO REGULARMENTE. ALEGATIVA QUE SOMENTE PODE SER EXAMINADA COM PROFUNDIDADE QUANDO DO JULGAMENTO DA AÇÃO PRINCIPAL. (...)”. (eDOC 18, p. 35)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 40, §4º; 127, caput; e 129, III e IX, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão recorrido feriu os referidos artigos ao afirmar a legitimidade do Ministério Público Federal para propor ação civil pública, conferindo a particulares direitos disponíveis e convertendo remunerações celetistas para pensão estatutária.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Processo Civil e Lei n. 8.689/1993) e o conjunto probatório constante dos autos, consignou que, com a extinção do INAMPS, as obrigações ficaram sob a responsabilidade da recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Não merece prosperar a preliminar de ilegitimidade da exequente, ex-servidora do INAMPS, posto que, com a extinção daquele órgão, as obrigações deste ficaram sob a responsabilidade da Agravante, por força do estabelecido no art. 11 da Lei nº 8.689/93.
+    Quanto à prejudicial de prescrição, deve-se igualmente rejeitá-la, porquanto apenas com o advento da Constituição Federal/88 é que surgiu a pretensão da autora (actio nata).
+    Quanto à ausência de exigibilidade do título executado, observa-se que o indeferimento da impugnação pelo Juízo de primeiro grau decorreu da ausência de plausabilidade na tese suscitada ante a impossibilidade de aplicação do art. 741, parágrafo único, às decisões cujo trânsito em julgado ocorreu antes da vigência da novel legislação.
+    Este posicionamento, que limita o alcance do novo parágrafo único do art. 741 do CPC é o que melhor se coaduna com os ditames da própria Constituição.
+    A Recorrente não se desincumbiu de demonstrar o trânsito em julgado superveniente à edição do art. 741 em questão.
+    Por fim, a alegativa de que a aposentadoria da Agravada MARIA AMÉLIA VIEIRA é estatutária e vem sendo paga regularmente, eis que somente pode ser verificada com profundidade pelo Juiz de primeiro grau, julgador do processo principal a este Agravo, pois lá é que se encontram as supostas provas cabais de tanto.” (eDOC 2, p. 30-31)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. Ação civil pública. Ministério Público. Legitimidade. Militar inativo. Incorporação de gratificação. Leis estaduais nºs 58/92 e 133/95 e Emenda Constitucional estadual nº 14/99. Ofensa a direito local. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A Corte firmou entendimento acerca da legitimidade do Ministério Público para propositura de ação civil pública com o escopo de proteção do patrimônio público, nos termos do art. 129, inciso III, da Constituição Federal. 2. O recurso extraordinário não se presta ao reexame da legislação infraconstitucional e dos fatos e das provas dos autos. Incidência das Súmulas nºs 279 e 280 da Corte. 3. Agravo regimental não provido”. (RE 440004-AgR/RO, Rel. Min. Dias Toffoli, Primeira Turma, DJe 11.10.2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO DO TRABALHO PARA AJUIZAR AÇÃO CIVIL PÚBLICA. DIREITO INDIVIDUAL HOMOGÊNEO. NATUREZA DO DIREITO TUTELADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. II - Agravo regimental a que se nega provimento”. (ARE 689575-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 3.2.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de abril de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
