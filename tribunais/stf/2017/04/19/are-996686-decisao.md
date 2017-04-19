@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravos interpostos por João Natal Sailer  e Eviton Luís Guiatto e outros que têm por objeto decisões que inadmitiram recursos extraordinários interpostos contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO CIVIL PÚBLICA. Lei Municipal que concede aumento salarial para os agentes políticos. Não ficou demonstrado tivessem os apontados vereadores praticado ato de improbidade a justificar a imposição das penalidades previstas no art. 12 da Lei 8.429/92. Para tanto, não basta séria probabilidade, ou quase certeza. Necessária a certeza na prática do ato para a imposição da sanção.
+    A sentença declarou nula a Lei Municipal 2.126/00, com base na Lei de Responsabilidade Fiscal (L.C. 101/00), artigo 21, parágrafo único, e na Lei Orgânica Municipal, artigo 30, inciso XXI, alínea c, que expressamente previam o prazo mínimo de cento e oitenta dias, contados do final do mandato, para a fixação de subsídios. Negado provimento aos recursos.”
+    Os recursos buscam fundamento no art. 102, III, a, da Constituição Federal. As partes recorrentes alegam violação ao art. 29, V e VI, da Constituição. Sustentam que “o acórdão contrariou a Constituição Federal, primeiramente no momento que vinculou a Lei de Responsabilidade Fiscal a fixação dos subsídios dos agentes políticos”. Afirmam que “o acórdão contrariou dispositivo do texto constitucional ao julgar ilegal a fixação dos subsídios com base no princípio da anterioridade, sendo certo que este princípio teria sido abolido pela Emenda Constitucional nº 19/98”.
+    Os recursos são inadmissíveis, tendo em vista que, para chegar a conclusão diversa da do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário.
+    Nessa linha, vejam-se o ARE 970.405 - AgR, Rel. Min. Marco Aurélio; e o RE 727.142 - AgR, Rel. Min. Gilmar Mendes, assim ementado:
+    “Agravo regimental no recurso extraordinário. 2. Direito Administrativo e Financeiro. Aumento dos subsídios dos agentes políticos dentro do prazo de 180 dias previsto no art. 21, § único, da Lei de Responsabilidade Fiscal. 3. Matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional. Ofensa reflexa à Constituição Federal. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento aos recursos.
+    Publique-se.
+          Brasília, 19 de abril de 2017.
+Ministro Luís Roberto Barroso
+Relator
