@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão que entendeu ser indevida a extensão da Gratificação de Desempenho de Atividade Técnico- Executiva e de Suporte do Meio Ambiente - GTEMA, a servidores públicos inativos, por ser inviável ao promovido por em prática as avaliações de desempenho, para o fim de quantificar o recebimento da gratificação em apreço, razão pela qual não há que se falar em quebra de paridade, uma vez que não há remuneração paradigma a ser observada (documento eletrônico 21).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 7°, da Emenda Constitucional 41/2003.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem entendeu ser indevida a extensão da Gratificação de Desempenho de Atividade Técnico-Executiva e de Suporte do Meio Ambiente – GTEMA aos servidores inativos. O voto condutor do acórdão baseou-se em premissas fáticas para decidir a questão controvertida nos autos. Por pertinente, colho trechos do referido voto:
+     “[...] Ou seja, nenhum servidor em atividade no IBAMA recebe a gratificação GTEMA porque esta não faz parte da Carreira de Especialista em Meio Ambiente do Ministério do Meio Ambiente, do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis -IBAMA (Lei nº 10.410/02).
+    Os servidores do IBAMA em atividade em sua totalidade estão sujeitos a avaliação tanto individual quanto institucional para o recebimento da gratificação GDAEM (prevista na lei especial 10.410/02) e vem sendo periodicamente avaliados desde 30.12.2005 para atender as exigências da Lei nº 11.156/05 e Portaria 392/05.
+    Neste particular, apenas incumbe mencionar que as avaliações de desempenho realizadas, evidentemente, tomam em conta a gratificação GDAEM, e não a GTEMA porque que não existe servidor ativo no IBAMA recebendo GTEMA, logo não há paradigma […] (pág. 9 do documento eletrônico 21).
+    Ademais, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 11.357/2006, 10.410/2002, Decreto 7133/2010, MP 304/2006 e Portaria 318/2006).
+    Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, cito:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-EXECUTIVA E DE SUPORTE DO MEIO AMBIENTE - GTEMA E GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA DO MEIO AMBIENTE - GDAMB. EXTENSÃO AOS INATIVOS. CRITÉRIOS DE AVALIAÇÃO. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DE PARIDADE REMUNERATÓRIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 748.751-ED, Rel. Min. CÁRMEN LÚCIA, Segunda Turma).
+    Isso posto, nego seguimento aos recursos (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 19 de abril de 2017.
+Ministro Ricardo Lewandowski
+Relator
