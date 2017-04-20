@@ -1,0 +1,28 @@
+DECISÃO: O presente recurso extraordinário foi interposto por Acearia Frederico Missner Sociedade Anônima contra acórdão que, proferido pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “CONTRIBUIÇÃO PARA O FGTS. BASE DE CÁLCULO.
+    A contribuição para o FGTS, de que trata a Lei nº 8.036/90, incide sobre os valores pagos nos quinze primeiros dias de afastamento do trabalhador por doença ou acidente, sobre o salário maternidade e paternidade, sobre as férias gozadas, sobre o terço constitucional de férias, sobre os adicionais noturno, de horas extras, de insalubridade e de periculosidade e sobre o aviso prévio indenizado e respectiva parcela do 13º (décimo terceiro) salário proporcional.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 8.036/90 e Instrução Normativa nº 99/2012 da Secretaria de Inspeção do Trabalho), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem estritamente infraconstitucional:
+    “A contribuição ao FGTS é devida pelos empregadores em benefício dos seus empregados, nos termos da Lei nº 8.036/1990, e corresponde a 8% de toda a remuneração paga ou devida no mês anterior, incluídas as parcelas especificadas no ‘caput’ do artigo 15 do referido diploma legal e excluídas aquelas indicadas no § 6º do mesmo dispositivo. Confira-se:
+    …...................................................................................................
+    Em vista disso, e tendo em conta o disposto no artigo 15 da Lei nº 8.036/1990, a Instrução Normativa da Secretaria de Inspeção do Trabalho – SIT nº 99/2012, ao disciplinar a fiscalização do recolhimento das contribuições para o FGTS, relacionou as parcelas remuneratórias sobre as quais aquelas incidem, nos seguintes termos:
+    …...................................................................................................
+    Da leitura dos dispositivos supracitados, verifica-se que não há previsão de exclusão da incidência da contribuição destinada ao FGTS sobre os valores pagos nos quinze primeiros dias de afastamento do trabalhador por doença ou acidente, terço constitucional de férias, férias indenizadas, abono pecuniário, férias gozadas, aviso prévio indenizado e férias pagas em dobro.
+    Pelo contrário, tanto a Lei nº 8.036/90 quanto a Instrução Normativa SIT nº 99/12 apontam para a incidência da referida contribuição sobre tais verbas.”
+    Cabe assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 916.565/PE, Rel. Min. EDSON FACHIN – RE 961.294/SC, Rel. Min. ROSA WEBER – RE 968.423-AgR/SC, Rel. Min. EDSON FACHIN, v.g.):
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. FGTS. CONTRIBUIÇÃO. NATUREZA DAS VERBAS. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. OFENSA REFLEXA. ACÓRDÃO RECORRIDO: FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 283/STF.
+    1. As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie (Lei nº 8.036/1990, Lei nº 8.212/1990 e Decreto nº 99.684/1990). Nesse contexto, verifico existente fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos. Aplicação da Súmula 283/STF.
+    …...................................................................................................
+    3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.”
+    (ARE 956.688-AgR/SC, Rel. Min. ROBERTO BARROSO)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PARA O FGTS. NATUREZA NÃO TRIBUTÁRIA. DIREITO SOCIAL DOS TRABALHADORES. BASE DE CÁLCULO. CONCEITO DE REMUNERAÇÃO. LEI 8.036/1990. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. SEM HONORÁRIOS (SÚMULA 512 DO STF). AGRAVO INTERNO DESPROVIDO.”
+    (RE 994.621-AgR/RS, Rel. Min. LUIZ FUX)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 20 de abril de 2017.
+Ministro CELSO DE MELLO
+Relator
