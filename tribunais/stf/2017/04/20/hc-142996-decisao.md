@@ -1,0 +1,29 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Celso Martins Godoy em favor de John Lennon Zanelato, contra decisão monocrática da lavra do Ministro Antonio Saldanha Palheiro, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 392.332/SP.
+    Em 08.02.2016, o paciente foi preso em flagrante delito e, posteriormente, denunciado pela suposta prática dos crimes de roubo qualificado e de resistência, tipificados nos arts. 157, § 2º, I e II, e 329, do Código Penal. O Juízo da 2ª Vara Criminal da Comarca de Osasco/SP converteu o flagrante em prisão preventiva.
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Antonio Saldanha Palheiro, indeferiu liminarmente o HC 392.332/SP.
+    No presente writ, o Impetrante alega excesso de prazo para formação de culpa, preso o paciente desde 08.02.2016. Argumenta a existência de circunstâncias favoráveis ao paciente, como primariedade e bons antecedentes. Requer, em medida liminar e no mérito, a revogação da prisão preventiva e, sucessivamente, a aplicação de medidas cautelares diversas da prisão (art. 319 do CPP).
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...).
+    O Superior Tribunal de Justiça tem jurisprudência firmada de não caber habeas corpus ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado n. 691 da Súmula do STF), o que não ocorre na espécie.
+    (...).
+      A questão em exame necessita de averiguação mais profunda pelo eg. Tribunal estadual, que deverá apreciar a argumentação contida na impetração no momento adequado.
+    Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+    O apontado excesso de prazo, devido às poucas informações constantes dos autos, não pode ser constatado de plano, devendo ser melhor examinado pela instância de origem.
+    Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+    Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus”.
+    Registro a existência de óbice ao conhecimento do presente habeas corpus, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça. O ato impugnado é mera decisão monocrática e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Ademais, o ato apontado como coator observou que a pretensão estaria desde logo a esbarrar na Súmula nº 691/STF (“Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”), analogicamente aplicada porquanto voltada contra o indeferimento de liminar, pelo Relator, do Tribunal de Justiça, na impetração naquela Corte instaurada. Ainda que a compreensão expressa em tal verbete sumular seja abrandada em alguns julgamentos desta Suprema Corte em hipóteses excepcionais, de flagrante ilegalidade, teratologia ou abuso de poder, por não ser o caso dos autos, segundo o Superior Tribunal de Justiça, indeferido liminarmente o writ perante aquela Corte impetrado.
+    Ao indeferir o pedido de liminar, o Tribunal de Justiça não vislumbrou presentes os requisitos ensejadores da imediata soltura do paciente, reservando a definição da matéria ao pronunciamento do colegiado.
+    Dessa forma, dar trânsito ao writ significaria duplicar a instrução, que já está sendo realizada, e apreciá-lo no mérito implicaria suprimir instâncias.
+    Além disso, à míngua de pronunciamento judicial de mérito pelas Cortes anteriores quanto ao alegado excesso de prazo, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    A razoável duração do processo não pode ser considerada de maneira isolada e descontextualizada das peculiaridades do caso concreto, até porque a melhor compreensão do princípio constitucional aponta para “processo sem dilações indevidas”, em que a demora na tramitação do feito há de guardar proporcionalidade com a complexidade do delito nele veiculado e as diligências e os meios de prova indispensáveis a seu deslinde. Nesse sentido o magistério de Daniel Mitidiero, que se endossa (Curso de Direito Constitucional, 2ª edição revista, atualizada e ampliada, Revista dos Tribunais).
+    Nesse espectro, a jurisprudência deste Supremo Tribunal Federal é no sentido de que “o excesso de prazo da instrução criminal não resulta de simples operação aritmética, impondo-se considerar a complexidade do processo, atos procrastinatórios da defesa e número de réus envolvidos, fatores que, analisados em conjunto ou separadamente, indicam ser, ou não, razoável o prazo para o encerramento” (HC 180.426/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 07.8.2012).
+    Anoto, por fim, que o HC 2042472-89.2017.8.26.0000, impetrado em favor do paciente perante a Corte Especial, já foi incluído em pauta para julgamento nesta data.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de abril de 2017.
+Ministra Rosa Weber
+Relatora
