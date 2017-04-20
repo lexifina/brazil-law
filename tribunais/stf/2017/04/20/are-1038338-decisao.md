@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+    “APELAÇÃO CRIMINAL. RECURSO MINISTERIAL. INOCORRÊNCIA DA PRESCRIÇÃO RETROATIVA. RECEPTAÇÃO QUALIFICADA. PEDIDO DE CONDENAÇÃO. POSSIBILIDADE. CONJUNTO PROBATÓRIO QUE AUTORIZA FIRMAR UM JUÍZO DE CERTEZA QUANTO A PROVÁVEL ILICITUDE DO OBJETO MATERIAL DO CRIME. PEDIDO DE CONDENAÇÃO NO CRIME PREVISTO NO ART. 311 DO CP. ADULTERAÇÃO DE CHASSIS DE AUTOMÓVEIS. IMPOSSIBILIDADE. AUSÊNCIA DE PROVAS CONTUDENTES QUE CONFIRMEM A AUTORIA. PRINCÍPIO DO IN DUBIO PRO REO. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+    1. Nos termos do art. 110, §1º do CP, não há que se falar em prescrição da pretensão punitiva na modalidade retroativa enquanto a sentença condenatória não transitar em julgado para acusação ou não for desprovido o seu recurso.
+    2. Para a condenação pela prática do crime de receptação qualificada é necessário que se comprove que o agente devia saber acerca da origem ilícita do bem, isto é, o dolo eventual. Caso em que, por todas as circunstâncias do crime, impossível acreditar que os réus não possuíam qualquer ciência da origem ilícita do bem.
+    3. Sem a firme certeza quanto à autoria do delito, impõe-se a manutenção da absolvição, em consagração ao princípio do in dubio pro reo.
+    4. Recurso a que se dá parcial provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, II, XXXIX, XLVI e XLVIII, da Constituição. Sustenta que “não há como admitir, sob o enfoque constitucional, que o legislador ordinário estabeleça um preceito sancionatório mais gravoso que a receptação qualificada quando o agente atua com dolo eventual e mantenha, para a receptação do caput do art. 180, um comando sancionador sensivelmente mais brando quando, no caso, o autor pratica o fato criminoso com o dolo direto”.
+    O recurso extraordinário é inadmissível, tendo em vista que a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    A jurisprudência desta Corte é no sentido de que o art. 180, § 1º, do Código Penal não viola os princípios da proporcionalidade e da individualização da pena. Nessa linha, veja-se o ARE 955.622-AgR, Rel. Min. Gilmar Mendes, assim ementado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal. 3. Crime de receptação qualificada (180, § 1º, c/c 71, todos do Código Penal). 4. Ausência de prequestionamento. Súmulas 282 e 356. 5. Suposta violação ao art. 5º, XLVI, do texto constitucional. Esta Corte já firmou entendimento de que o § 1º do art. 180 do Código Penal não viola os princípios da proporcionalidade e da individualização da pena. Precedentes. 6. Agravo regimental a que se nega provimento.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 20 de abril de 2017.
+Ministro Luís Roberto Barroso
+Relator
