@@ -1,0 +1,33 @@
+Trata-se de Ação Civil Originária proposta pelo Estado do Piauí contra a União, alegando estar na iminência de ser inscrito no SIAFI/CAUC – Sistema Integrado de Administração Financeira do Governo Federal/Cadastro Único de Convênio, o que lhe causaria inestimáveis prejuízos.
+    O autor relatou ter sido notificado, por meio do Ofício nº 1361/2012-TCU/SECEX-PI, para efetuar o pagamento de R$ 349.322,06 (trezentos e quarenta e nove mil, trezentos e vinte e dois reais e seis centavos), sob pena de inscrição de seu nome no SIAFI/CAUC.
+    Afirmou que tal condenação origina-se do Processo de Tomada de Contas 010.416/2011-0 (Acórdão 6787/2012 TCU – 1ª Câmara, em anexo), julgado pela Primeira Câmara do Tribunal de Contas da União, em decorrência da má gestão dos recursos repassados pelo Sistema Único de Saúde (SUS) à Unidade Mista de Saúde Joana de Moraes Sousa.
+    Alegou que,
+    “De fato, a condenação deveria ter recaído sobre os gestores da época, que aplicaram indevidamente os valores. Estes, por sua vez, foram inocentados pelo TCU, recaindo a obrigação de ressarcimento apenas sobre o Estado do Piauí, que também foi lesado pela má administração do Hospital”.
+    Disse que a forma como está sendo aplicada a Instrução Normativa STN 1/1997, ofende a forma federativa cooperativa democrática, por sufocar o Estado-membro.
+    Insistiu em que
+    “[o] procedimento adequado a ser seguido pelo TCU quando da observância de irregularidade na aplicação de verbas é, em caso de existir novo gestor na pasta, proceder imediata responsabilização do antigo gestor através de procedimento de Tomada de Contas Especial, contabilizando sua eventual responsabilidade, procedendo-se, em seguida, à liberação da unidade estatal para celebração de novos convênios. No presente caso houve a tomada de contas especial, porém não houve a responsabilização do ex-gestor, mas sim a responsabilização da unidade administrativa estatal” (grifos no original).
+    Enfatizou a incidência do princípio da intranscendência subjetiva das medidas restritivas de direito, bem como a ocorrência de prescrição, pelo fato de a Tomada de Contas Especial ter sido feita no ano de 2010, ao passo que os fatos objeto de investigação ocorreram no período de fev/2003 a abr/2004, tendo transcorrido o prazo prescricional do artigo 1º do Decreto 20.910/1932, que afasta a incidência do artigo 37, §5º, da CF/88, por não se tratar de norma voltada à solução de disputas interfederativas.
+    Pleiteou a procedência da ação para obstar a cobrança de objeto do Acórdão TC 010.416/2011-0 – TCU (1ª Câmara), anulando-se a condenação existente no referido acórdão, bem como a antecipação da tutela para fins de suspensão da cobrança e da inscrição impugnada.
+    Na sequência, o Ministro Joaquim Barbosa indeferiu a antecipação da tutela pleiteada (documento eletrônico 8).
+    Ato contínuo, o autor interpôs agravo regimental (documento eletrônico 11) e a União ofereceu contestação (documento eletrônico 12), aduzindo, primeiramente, a inocorrência de prescrição, porque embora a responsabilização do agente seja prescritível, o ressarcimento não o é.
+    Asseverou a União, ainda, que o autor invoca de forma equivocada o princípio da intranscendência, já que sua incidência não afasta a responsabilidade estatal pelos atos emanados pelos seus agentes nem infirma a Teoria do Órgão.
+    Salientou que:
+    “É imprescindível ressaltar que há precedentes nessa Suprema Corte reconhecendo a necessidade de cumprimento dos requisitos enumerados na IN STN 01/1997 para que seja afastada a inadimplência” (grifos no original).
+    Reforçou não constar prova de medidas tomadas pelo Estado -membro contra os ex-gestores/agentes para responsabilização, ressarcimento e, consequentemente, regularização da situação de inadimplência, nem cumprimento, pelo autor, do disposto no art. 5°, § 3° IN STN 1/1997, no tocante à comprovação do prosseguimento das ações adotadas.
+    Defendeu a atuação do TCU no caso e requereu a improcedência do pedido inicial.
+    A seguir, o feito foi saneado (documento eletrônico 21), e as partes reiteraram suas alegações anteriores.
+    A Procuradoria-Geral da República manifestou-se pela improcedência.
+    É o relatório. Decido.
+    Bem examinados os autos, conclui-se que o pedido inicial é improcedente.
+    Inicialmente, rejeito a alegação de incidência da teoria da intranscendência das sanções, porque o caso dos autos não trata de recursos repassados a órgãos com autonomia constitucional. Não incide, por isso, a teoria da intranscendência, cuja ratio repousa no princípio constitucional da separação de poderes, tal como decidido por esta Suprema Corte na ADI 2.238/DF.
+    Noutro vértice, rejeito a alegação de ocorrência de prescrição, pois o Pleno do Supremo Tribunal Federal, no julgamento do MS 26.210, em acórdão de minha relatoria, já fixou entendimento no sentido da imprescritibilidade da ação de ressarcimento de dano ao erário.
+    Não provou o autor, ainda, a adoção de medidas para responsabilização e ressarcimento contra os agentes causadores do dano, deixando de cumprir o disposto no art. 5°, § 3°, IN STN 1/1997.
+    No mais, perfeitamente legítima a atuação do TCU na fiscalização da lisura dos recursos públicos. Transcrevo a manifestação da Procuradoria-Geral da República, que elucida com precisão a questão:
+    “Dessa forma, o ente estatal, porque sua organização administrativa o forçava a dar prosseguimento aos repasses do SUS para a respectiva unidade de saúde, deveria ter criado procedimentos de fiscalização continuada e auditorias antes mesmo de realizar os correspondentes repasses. Ao dispensar as cautelas exigidas, assumiu para si toda e qualquer responsabilidade por equívocos, falhas ou malversações do dinheiro público ocorridos em sua gestão. Enfim foi, no mínimo, omisso o Estado. […] Pela sistemática já explicada, não é de difícil percepção que, ao receber os recursos do Fundo Nacional de Saúde e repassá-los ao hospital sem um prévio encontro de contas, o próprio Estado do Piauí se posiciona na figura de um administrador de valores públicos federais, a quem se atribui os mesmos deveres e cuidados que qualquer outro e quem sofre punições semelhantes aos gestores flagrados em evidente malversação.
+    Portanto, não há qualquer limitação constitucional ou legal para o reconhecimento dessa falta pelo Tribunal de Contas da União”.
+    Isso posto, julgo improcedente o pedido inicial.
+    Condeno o Estado ao pagamento de honorários advocatícios, arbitrados em R$ 1.000,00 (mil reais), nos termos do art. 85, § 8º, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 20 de abril de 2017.
+Ministro Ricardo Lewandowski
+Relator
