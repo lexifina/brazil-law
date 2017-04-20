@@ -1,0 +1,63 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, na qual se alega que o ato ora impugnado teria transgredido a autoridade do julgamento que esta Suprema Corte proferiu no exame do MI 836/DF, Rel. Min. AYRES BRITTO.
+    A parte reclamante sustenta, para justificar sua pretensão, em síntese, o que se segue:
+    “7. (…) essa e. Corte julgou procedente o pedido formulado no Mandado de Injunção 836, para remover o obstáculo da falta da lei complementar para a concessão de APOSENTADORIA ESPECIAL, com suas peculiaridades e restrições.
+    8. Embora tenha garantido a fruição da aposentadoria especial pelos servidores públicos, desde que preenchidos os critérios estabelecidos na Lei 8.213/91, em momento algum, no MI 836, esse Tribunal assegurou a tais servidores a denominada contagem diferenciada de tempo de serviço prestado em condições especiais e sua conversão em tempo de serviço comum, para fins de APOSENTADORIA COMUM.
+    …...................................................................................................
+    18. A despeito dos estritos limites da decisão prolatada no MI 836, o e. Tribunal de Justiça do Distrito Federal, no acórdão ora reclamado, atribuiu alcance mais amplo ao provimento jurisdicional dessa e. Suprema Corte, como se nele fosse determinada a contagem diferenciada do tempo de serviço prestado em condições insalubres na vigência do regime estatutário e a sua conversão em tempo comum. (…).
+    …...................................................................................................
+    21. Ao estender o alcance da decisão proferida no Mandado de Injunção 836, o acórdão reclamado a desrespeitou, a exigir que seja cassado parcialmente, na parte em que determinou a contagem diferenciada do serviço prestado sob condições especiais durante o vínculo estatutário, para conversão em tempo comum. Apenas há de subsistir a parte do acórdão reclamado alusiva ao serviço prestado sob o vínculo celetista.” (grifei)
+    Sendo esse o contexto, passo a apreciar o pleito formulado nesta sede reclamatória. E, ao fazê-lo, observo que a presente reclamação revela-se insuscetível de conhecimento.
+    É que os fundamentos que dão suporte à decisão proferida pela colenda Segunda Turma Cível do E. Tribunal de Justiça do  Distrito Federal e dos Territórios nos autos da Apelação/Reexame Necessário nº 2010.01.1.146944-5 mostram-se absolutamente estranhos às razões subjacentes ao paradigma de confronto invocado pela parte reclamante.
+    Com efeito, a decisão ora reclamada restou, no ponto que interessa ao exame desta causa, assim fundamentada:
+    “No particular, entendo que a r. sentença fez percuciente análise da questão ora posta a julgamento, não estando a merecer qualquer reparo. Confiram-se os judiciosos fundamentos nela lançados, os quais peço vênia para transcrever e adotar como razões de decidir, ‘in verbis’:
+    ‘A presente demanda tem em foco o tema da possibilidade de contagem de tempo diferenciada para efeito de aposentadoria especial em função de serviços prestados em condições especiais, nos termos do artigo 57 da Lei nº 8.213/91.’
+    A disciplina jurídica atinente à aposentadoria especial encontra-se regulamentada pelos artigos 57 e 58 da Lei nº 8.213/91, bem como nos artigos 64 e seguintes do Decreto- -Lei nº 3.048/99.
+    A aposentadoria especial será devida, uma vez cumprida a carência de 180 meses exigida na Lei nº 8.213/91, ao segurado que tiver exercido atividades laborais em condições especiais que prejudiquem a saúde ou sua integridade física durante 15 (quinze), 20 (vinte) ou 25 (vinte e cinco) anos, conforme dispuser a lei.
+    Nos termos do artigo 57, parágrafo 5º, da Lei nº 8.213/91, o tempo de trabalho exercido sob condições especiais que sejam ou venham a ser consideradas prejudiciais à saúde ou à integridade física será somado, após a respectiva conversão ao tempo de trabalho exercido em atividade comum, segundo critérios estabelecidos pelo Ministério da Previdência e Assistência Social, para efeito de concessão de qualquer benefício.
+    Nos termos expostos, percebo que a ‘mens legis’ em questão está direcionada a garantir o máximo de proteção legal àqueles que atuam em atividades especiais, salvaguardando seu bem estar físico e mental.
+    …...................................................................................................
+    No caso em análise, observa-se que a decisão proferida pelo STF no Mandado de Injunção nº 836 afastou a omissão legislativa prevista no parágrafo 4º do artigo 40 do Texto Constitucional, ampliando as garantias previdenciárias aos servidores públicos, principalmente nos casos envolvendo a concessão de aposentadorias especiais.
+    Assim, para a concessão de aposentadoria especial a servidor público, a Administração Pública deve verificar se houve contribuição efetiva do servidor, por, pelo menos, 180 meses e, ainda, comprovar, por laudo técnico de médico do trabalho ou engenheiro da segurança do trabalho, as condições especiais da atividade que prejudiquem a saúde ou a integridade física do servidor pelo tempo exigido pela norma regulamentadora, a teor do artigo 57 da Lei nº 8.213/91:
+    …...................................................................................................
+    Sendo assim, diante do pronunciamento do STF face à omissão legislativa presente no parágrafo 4º do artigo 40 da Constituição Federal, impondo adoção da legislação própria aos trabalhadores em geral para os casos envolvendo Servidores Públicos, nos termos do artigo 57 da Lei nº 8.213/91, e tendo em vista ainda o entendimento do Tribunal de Contas do Distrito Federal (Decisão nº 6611/2010), isso sem olvidar o entendimento jurisprudencial do Tribunal de Justiça do Distrito Federal e dos Territórios, constata-se ser direito do servidor público a contagem de tempo diferenciada para fins de concessão de aposentadoria especial, do período em que laborou em condições especiais, incorporando-a ao seu patrimônio jurídico.” (grifei)
+    Vê-se, daí, que a “ratio decidendi” subjacente à decisão ora questionada revela-se substancialmente diversa das razões que deram suporte à decisão proferida pelo eminente Ministro AYRES BRITTO no exame do MI 836/DF, de que foi Relator.
+    Esse fato – incoincidência dos fundamentos – torna inviável o próprio conhecimento da presente reclamação pelo Supremo Tribunal Federal, bastando para afastar, por incognoscível, a alegação de desrespeito à autoridade do paradigma de confronto invocado pela parte ora reclamante como suporte de sua pretensão.
+    Cumpre destacar, por necessário, um outro aspecto que, assinalado em sucessivas decisões desta Corte, afasta a possibilidade jurídico-processual de emprego da reclamação, notadamente naqueles casos em que a parte reclamante busca a revisão de certo ato decisório, por entendê-lo incompatível com a jurisprudência do Supremo Tribunal. Refiro-me ao fato de que, considerada a ausência, na espécie, dos pressupostos legitimadores do ajuizamento da reclamação, este remédio constitucional não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto desta Suprema Corte.
+    A reclamação, como se sabe, reveste-se de múltiplas funções, tal como revelado por precedentes desta Corte (RTJ 134/1033, v.g.) e definido pelo novo Código de Processo Civil (art. 988), as quais, em síntese, compreendem (a) a preservação da competência global do Supremo Tribunal Federal, (b) a restauração da autoridade das decisões proferidas por esta Corte Suprema e (c) a garantia de observância da jurisprudência vinculante deste Tribunal Supremo (tanto a decorrente de enunciado sumular vinculante quanto a resultante dos julgamentos da Corte em sede de controle normativo abstrato), além de atuar como expressivo meio vocacionado a fazer prevalecer os acórdãos deste Tribunal proferidos em incidentes de assunção de competência.
+    Isso significa, portanto, que a reclamação não se qualifica como sucedâneo recursal, nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, nem traduz meio de uniformização de jurisprudência, eis que tais finalidades revelam-se estranhas à destinação subjacente à instituição dessa medida processual, consoante adverte a jurisprudência do Supremo Tribunal Federal:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. RECLAMAÇÃO: NÃO É SUCEDÂNEO DE RECURSO OU DE AÇÃO RESCISÓRIA.
+    I. – A reclamação não pode ser utilizada como sucedâneo de recurso ou de ação rescisória.
+    II. – Reclamação não conhecida.”
+    (RTJ 168/718, Rel. Min. CARLOS VELLOSO, Pleno – grifei)
+    “Não cabe reclamação destinada a invalidar decisão de outro Tribunal, que haja porventura divergido da jurisprudência do Supremo Tribunal, firmada no julgamento de causa diferente, mesmo em se tratando de controvérsias de porte constitucional.
+    Também não é a reclamação instrumento idôneo de uniformização de jurisprudência, tampouco sucedâneo de recurso ou rescisória, não utilizados tempestivamente pelas partes.”
+    (Rcl 724-AgR/ES, Rel. Min. OCTAVIO GALLOTTI, Pleno – grifei)
+    “O despacho acoimado de ofender a autoridade da decisão do Supremo Tribunal Federal negou seguimento, por razões processuais suficientes, ao recurso ordinário interposto contra acórdão em mandado de segurança. Por esse fundamento não é cabível reclamação, eis que a decisão da Corte Maior não cuida da matéria.
+    .......................................................................................................
+    A reclamação não pode servir de sucedâneo de recursos e ações cabíveis, como decidiu esse Plenário nas Rcl Ag.Rg. 1852, relator Maurício Corrêa e Rcl Ag.Rg. 724, rel. Min. Octavio Gallotti. (…).”
+    (Rcl 1.591/RN, Rel. Min. ELLEN GRACIE, Pleno – grifei)
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO. AFRONTA À DECISÃO PROFERIDA NA ADI 1662-SP. INEXISTÊNCIA. AUSÊNCIA DE IDENTIDADE OU SIMILITUDE DE OBJETOS ENTRE O ATO IMPUGNADO E A EXEGESE DADA PELO TRIBUNAL.
+    .......................................................................................................
+    A questão da responsabilidade do Estado pelas dívidas da instituição financeira estatal revela tema afeto ao processo de execução que tramita na Justiça do Trabalho, não guardando pertinência com o objeto da presente ação. A reclamação não pode servir de sucedâneo de outros recursos ou ações cabíveis.”
+    (Rcl 1.852-AgR/RN, Rel. Min. MAURÍCIO CORRÊA, Pleno – grifei)
+    “EMBARGOS DE DECLARAÇÃO EM RECLAMAÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. AUSÊNCIA DE ARGUMENTOS NOVOS. RECLAMAÇÃO UTILIZADA COMO SUCEDÂNEO RECURSAL. INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    .......................................................................................................
+    3. O instituto da Reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo ‘a quo’.
+    .......................................................................................................
+    5. Agravo regimental não provido.”
+    (Rcl 5.465-ED/ES, Rel. Min. CÁRMEN LÚCIA, Pleno – grifei)
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. A RECLAMAÇÃO NÃO É SUCEDÂNEO DE RECURSO PRÓPRIO. RECURSO IMPROVIDO.
+    I – A reclamação constitucional não pode ser utilizada como sucedâneo de recurso próprio para conferir eficácia à jurisdição invocada nos autos da decisão de mérito.
+    .......................................................................................................
+    III – Reclamação improcedente.
+    IV – Agravo regimental improvido.”
+    (Rcl 5.684-AgR/PE, Rel. Min. RICARDO LEWANDOWSKI, Pleno – grifei)
+    “(…) – O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. (…).”
+    (Rcl 6.534-AgR/MA, Rel. Min. CELSO DE MELLO, Pleno)
+    Em conclusão, não se acham presentes, na espécie, as situações legitimadoras da utilização do instrumento reclamatório.
+    Sendo assim, e em face das razões expostas, nego seguimento a esta reclamação (CPC, art. 932, VIII, c/c o RISTF, art. 21, § 1º), restando prejudicado, em consequência, o exame do pedido de medida liminar.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 20 de abril de 2017.
+Ministro CELSO DE MELLO
+Relator
