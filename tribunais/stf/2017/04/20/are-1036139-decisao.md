@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região que não reconheceu a decadência quanto à revisão da pensão por morte (eDOC 8, p. 49).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXV, XXXVI, LIV e LV; e 201, §1º, do texto constitucional.
+    Nas razões recursais, alega-se que o Tribunal a quo, ao considerar que o marco inicial do prazo decadencial é a concessão da pensão por morte e não do beneficio originário, violou a norma constitucional que regula as leis no tempo.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, verifica-se que, no tocante à alegada ofensa ao art. 5º, incisos LIV e LV, da Constituição Federal, o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (tema 660), de minha relatoria. Na oportunidade, esta Corte rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da controvérsia, em razão de a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais. Confira-se a ementa do julgado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie e o conjunto probatório constante dos autos, consignou que o prazo decadencial incia-se após a concessão da pensão por morte. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Com efeito, visando a parte autora a revisão da sua pensão por morte, concedida em 17.1.2007, e tendo sido ajuizada a presente demanda em 6.8.2008, não há falar em decadência do direito de revisão.
+    Destaque-se, ainda, que a parte autora não está pleiteando pagamentos de parcelas vencidas quanto à aposentadoria do instituidor, mas sim em relação à pensão por morte, ainda que dependente do benefício originário (aposentadoria), razão pela qual o curso do prazo decadencial tem início somente após a concessão da pensão por morte, em razão do princípio da actio nata”. (eDOC 8, p. 91)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Revisão de benefício previdenciário. Decadência. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (ARE-AgR 678.899, Rel. Min. Dias Toffoli, Primeira Turma, DJe 6.5.2013).
+    “Agravo regimental no recurso extraordinário com agravo. Direito Previdenciário. Revisão de benefício. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inviável o recurso extraordinário quando os dispositivos constitucionais nele indicados como violados carecem do necessário prequestionamento. Incidência das Súmulas nºs 282 e 356 da Corte. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como o reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido. 4. Inaplicável o art. 85, § 11, do CPC, pois o agravado não apresentou contrarrazões” (ARE-AgR 975.146, Rel. Min. Dias Toffoli, Segunda Turma, DJe 27.3.2017).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de abril de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
