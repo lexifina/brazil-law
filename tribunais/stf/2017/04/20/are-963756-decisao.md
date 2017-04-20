@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO DE SECRETÁRIO DE ESTADO. COMPETÊNCIA DA JUSTIÇA COMUM. NECESSIDADE DE OBSERVÂNCIA DA AUTORIDADE COATORA. CONCURSO PÚBLICO. AVALIAÇÃO PSICOLÓGICA. EXAME PSICOTÉCNICO. NECESSIDADE DE PREVISÃO LEGAL E DE CRITÉRIOS OBJETIVOS. PRECEDENTES. SÚMULA VINCULANTE 44. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “DIREITO ADMINISTRATIVO E CONSTITUCIONAL. CONCURSO PÚBLICO. METRÔ/DF. EXAME PSICOLÓGICO. PREVISÃO EM LEI. AUSÊNCIA. ILEGALIDADE. PESSOA JURÍDICA DE DIREITO PRIVADO. ENTE DA ADMINISTRAÇÃO INDIRETA. SEGURANÇA CONCEDIDA.
+    1 – Consoante a jurisprudência consolidada desta Corte (Súmula nº 20) e o Enunciado de Súmula Vinculante nº 44, somente por lei se pode sujeitar candidato a cargo público à realização de exame psicológico.
+    2 – O Constituinte Originário vinculou os ingressos aos quadros da Administração Pública à realização de prévio concurso público, não fazendo distinção entre a Administração Direta e a Indireta, ao revés, mencionou expressamente no inciso II do art. 37 da Constituição Federal que a investidura em ‘cargo ou emprego público’ depende de concurso público.
+    3 – Estando expresso na Lei Maior que o preenchimento de emprego público depende de concurso público (art. 37, inciso II), o regime jurídico do concurso público ser-lhe-á integralmente aplicável.
+    Segurança concedida. Maioria.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 22, I, 37, caput, I, II e XIX, 114, I, e 173, § 1º, II, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice nas Súmulas 280 e 282 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Quanto à alegada incompetência do juízo estadual para o julgamento da causa, verifico que o presente recurso extraordinário se originou de mandado de segurança impetrado contra ato do Secretário de Estado de Administração Pública do Distrito Federal. Assim, aplica-se o entendimento no sentido de que a competência para julgar mandado de segurança é determinada de acordo com a hierarquia da autoridade coatora e não segundo a relação jurídica alcançada pelo ato coator. Nesse sentido cito trecho de voto que proferi no julgamento do RE 726.035-RG, no qual concluo:
+    “(...) tratando-se de mandado de segurança, o que se leva em consideração é a autoridade detentora do plexo de competência para a prática do ato, ou responsável pela omissão que se visa coibir.”
+    Dessa forma, resta evidente a competência do Tribunal de Justiça do Distrito Federal e Territórios para processar e julgar o feito – mandado de segurança impetrado contra ato de Secretário de Estado.
+    Quanto ao decidido pelo Tribunal a quo no sentido de que a realização de exame psicotécnico em concurso público não prescinde de previsão legal e da observância de critérios objetivos, assevere-se que tal entendimento encontra-se em harmonia com a jurisprudência desta Suprema Corte. Nesse sentido:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Exame psicotécnico. Previsão em lei em sentido material. Indispensabilidade. Critérios objetivos. Obrigatoriedade. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 758.533-QO-RG, Rel. Min. Gilmar Mendes, Plenário, DJe de 13/8/2010).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. AUTORIZAÇÃO POR MEIO DE RESOLUÇÃO. IMPOSSIBILIDADE. EXIGÊNCIA DE LEI ESPECÍFICA. PRECEDENTES. O Supremo Tribunal Federal reconheceu a existência de repercussão geral sobre o tema e reafirmou sua jurisprudência no sentido de reconhecer a validade da exigência de exame psicotécnico como requisito para concurso público, desde que pautado por critérios objetivos e expressamente previsto em lei (AI 758.533-RG, Rel. Min. Gilmar Mendes). No caso, a jurisprudência desta Corte possui o entendimento de que resolução é ato normativo inferior, incapaz de suprir a exigência de lei fixada pelo art. 37, I, da Constituição. Precedentes. Agravo regimental a que se nega provimento.” (AI 677.718-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 20/11/2013).
+    No mesmo sentido foram as decisões monocráticas proferidas no RE 918.284, Rel. Min. Celso de Mello, DJe de 14/6/2016, no RE 965.525, Rel. Min. Cármen Lúcia, DJe de 1º/6/2016 e no RE 918.340, Rel. Min. Gilmar Mendes, DJe de 11/4/2016.
+    Ressalte-se, por fim, que tal entendimento foi consolidado na Súmula 686/STF e devidamente ratificado pela Súmula Vinculante 44, verbis:
+    “Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 20 de abril de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
