@@ -1,0 +1,27 @@
+Decisão:
+Ementa: Processo Penal militar. Habeas corpus. Estelionato. Trancamento de ação penal. Excepcionalidade não verificada.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime do Superior Tribunal Militar, da Relatoria do Ministro Ten. Brig. Ar. Cleonilson Nicácio Silva, assim ementado:
+    “HABEAS CORPUS. DEFESA. INSTAURAÇÃO DE INQUÉRITO POLICIAL MILITAR. INDICIAMENTO. AUSÊNCIA DE CONSTRANGIMENTO. ORDEM DENEGADA. UNANIMIDADE.
+    O indiciamento decorrente da instauração de Inquérito Policial Militar não constitui ou caracteriza, por si só, situação configuradora de injusto constrangimento, salvo se constatada hipótese de flagrante ilegalidade ou abuso de poder.
+    Se não há constrangimento atual ou próximo à liberdade de locomoção, se a perspectiva de prisão é remota e depende de incerta e futura condenação criminal transitada em julgado, o remédio apropriado contra eventuais ilegalidades ou abusos é o devido processo legal, com trâmite natural da ação penal, e seus consectários.
+    Ordem de habeas corpus denegada. Unanimidade.”
+    2. Extrai-se dos autos que foi instaurado inquérito policial militar contra o paciente, civil, para apurar a suposta prática do crime previsto no artigo 251 do Código Penal Militar.
+    3. Narra a acusação que:
+    “1. As peças que instruem os autos dão conta de que o paciente “ingressou com processo para inclusão da espingarda Hatsan nº 588574 (protocolo nº 0061802016-02/05/16) no acervo do caçador e, posteriormente, requerimento administrativo solicitando emissão de CRAF para tal arma, a qual foi importada pela empresa MILITARIA COMÉRCIO E IMPORTAÇÃO LTDA (CR nº 21233-SFPC/Rio de Janeiro) e vendida para o interessado com nota fiscal emitida pela MILDOF COMÉRCIO E MATERIAIS DE SEGURANÇA, EXPORTAÇÃO E IMPORTAÇÃO LTDA ME (CR nº 47430-SFPC/Rio de Janeiro).
+    2. Ocorre que aquela arma não poderia ter sido vendida, posto que está apreendida e vinculada a Processo Administrativo Sancionador, instaurado pelo Comando da 2ª Região Militar e relacionada a dois Inquéritos Policiais Militares requisitados pelo MPM (Ofício nº 12/2016-DIL/AJG, de 22/03/16), em virtude de denúncia formulada por FERNANDO HUMBERTO HENRIQUES FERNANDES e cujas soluções constam do Despacho nº 59-Asse Ap Jurd/Cmdo 2ª RM, de 05/09/16.
+    […].”
+    4. Em seguida, a defesa impetrou habeas corpus no Superior Tribunal Militar. A ordem foi denegada.
+    5. Neste habeas corpus, a parte impetrante sustenta a ausência de comprovação da materialidade delitiva, sob o argumento de que “as armas pertencem a empresa Militaria – RJ, que as importou e o próprio SFPC/2ª.RM fez o desembaraço e liberação no aeroporto de Cumbica e as apreendeu no interior do Clube de Tiro e Caça de Barueri”. Alega que a controvérsia dos autos encontra-se pendente de julgamento no âmbito administrativo. Afirma, ainda, que “a conduta do Paciente não tem qualquer animus de obter vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artificio, ardil ou qualquer outra fraude. Ausentes, portanto, os elementos normativos do tipo” penal previsto no artigo 251 do CPM.
+    6. Com essa argumentação, requer a concessão da ordem a fim de determinar o trancamento da ação penal.
+    Decido.
+    7. A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal (HC 109.956, Rel. Min. Marco Aurélio). A hipótese, portanto, é de extinção do processo sem resolução do mérito por inadequação da via eleita.
+    8. Por outro lado, não é o caso de concessão da ordem de ofício. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que o trancamento de ação penal só é possível quando estiverem comprovadas, de logo, a atipicidade da conduta, a extinção da punibilidade ou a evidente ausência de justa causa (v.g HC 103.891, Redator para o acórdão o Min. Ricardo Lewandowski; HC 86.656, Rel. Min. Ayres Britto; HC 81.648, Rel. Min.Ilmar Galvão; HC 118.066-AgR, Rel.ª Min.ª Rosa Weber, e HC 104.267, Rel. Min. Luiz Fux).
+    9. No caso de que se trata, inexiste razão para a superação dessa orientação restritiva. As peças que instruem este processo não evidenciam nenhuma ilegalidade flagrante ou abuso de poder que autorize o pronto acolhimento da pretensão defensiva, notadadamente se se considerar que, tal como assentou a autoridade impetrada, “a instauração do Inquérito Policial Militar, contra o qual o Impetrante/Paciente se insurgiu no presente Habeas Corpus, foi determinada pelo Ministério Público Militar, Órgão a quem compete promover a ação penal pública, nos termos do comando constitucional insculpido no inciso I do artigo 129, com vistas a formar elementos de convicção para o eventual oferecimento da Denúncia”.
+    10. Ademais, o acolhimento da pretensão defensiva demandaria o revolvimento de fatos e provas, inviável na via do habeas corpus.
+    11. Não bastasse isso, dou especial relevância ao fundamento adotado pelo Superior Tribunal Militar no sentido de, “ao compulsar os documentos acostados aos autos, não identifico qualquer ameaça ou indício de ameaça à liberdade de locomoção do Civil Yuri Gomes Miguel”.
+    12.  Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 20 de abril de 2017.
+Ministro Luís Roberto Barroso
+Relator
+             Documento assinado digitalmente
