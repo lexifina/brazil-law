@@ -1,0 +1,29 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IPI. BASE DE CÁLCULO. INCLUSÃO DO VALOR DO FRETE E DAS DEMAIS DESPESAS ACESSÓRIAS. ARTIGO 15 DA LEI 7.798/1989. INCONSTITUCIONALIDADE FORMAL. RESERVA DE LEI COMPLEMENTAR. AUSÊNCIA DE PRELIMINAR FUNDAMENTADA DE REPERCUSSÃO GERAL. ARTIGO 1.035, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015 C.C. ARTIGO 327, § 1º, DO RISTF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    DECISÃO: Trata-se de recurso extraordinário, manejado com arrimo na alínea b do permissivo constitucional, contra acórdão que assentou, verbis:
+    “TRIBUTÁRIO. PROCESSO CIVIL. SENTENÇA ULTRA PETITA. HONORÁRIOS COM CARÁTER DE INDENIZAÇÃO. AUSÊNCIA DE INTERESSE RECURSAL. IPI. BASE DE CÁLCULO. FRETE E DESPESAS ACESSÁRIAS. ARTIGO 14, §§1º E 3º, DA LEI Nº 4.502/64, NA REDAÇÃO DA LEI Nº 7.798/89, ARTIGO 15. LEI ORDINÁRIA. CONFLITO. ARTIGO 47, II, A, DO CTN. LEI COMPLEMENTAR. RESERVA LEGISLATIVA. INCONSTITUCIONALIDADE DECLARADA PELA CORTE ESPECIAL DO TRF-4. COMPENSAÇÃO.
+    1. É o autor que fixa, na petição inicial, os limites da lide, sendo que o julgador fica adstrito ao pedido, juntamente com a causa de pedir, sendo-lhe vedado decidir além (ultra petita) do que foi pedido, nos termos do artigo 492 do CPC/2015. Reconhecido o caráter ultra petita da sentença, ao condenar a União ao pagamento de uma indenização de honorários, devendo ser ela reduzida aos limites da lide.
+    2. Não se conhece de apelo que não veicula impugnação à sentença, mas postula a sua manutenção. Ausência de interesse recursal.
+    3. A Corte Especial deste Regional, no julgamento da Arguição de Inconstitucionalidade na AC n. 96.04.28893-8, declarou a inconstitucionalidade dos parágrafos 1º e 3° do art. 14 da Lei 4.502/1967, acrescentados pelo art. 15 da Lei 7.798/1989. Assim, possui o contribuinte o direito de não incluir na base de cálculo do IPI os valores referentes ao Frete e Seguro.
+    4. Consoante vem sendo decidido neste Regional, em conformidade com o entendimento pacificado no STJ a partir do Recurso Repetitivo nº 903.394/AL, o 'contribuinte de fato' não detém legitimidade ativa ad causam para pleitear a restituição do indébito relativo ao IPI incidente sobre os descontos incondicionais, recolhido pelo contribuinte de direito, por não integrar a relação jurídica tributária pertinente, entendimento que em tudo se aplica ao caso dos autos. Nesse sentido a legitimidade para a restituição é do 'contribuinte de direito'.
+    5. A compensação deverá ocorrer (a) por iniciativa do contribuinte, (b) entre quaisquer tributos administrados pela Secretaria da Receita Federal do Brasil, observado o disposto no art. 26, parágrafo único, da Lei nº 11.457/07, (c) mediante entrega de declaração contendo as informações sobre os créditos e débitos utilizados, cujo efeito é o de extinguir o crédito tributário, sob condição resolutória de sua ulterior homologação, e (d) após o trânsito em julgado da decisão (art. 170-a do CTN).” (documento eletrônico 12)
+    Nas razões do apelo extremo sustentou, em síntese, a constitucionalidade do artigo 15 da Lei 7.798/1989, que alterou o artigo 14 da Lei 4.502/1964, sob o argumento de que não padece de inconstitucionalidade formal (art. 146, III, a, da CF), pois apenas integrou o conceito de “valor da operação”, definido como base de cálculo em lei complementar (art. 47, II, a, do CTN).
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    A parte recorrente não apresentou preliminar formal e devidamente fundamentada de repercussão geral no recurso extraordinário, não tendo sido observado o disposto no artigo 1.035, § 2º, do Código de Processo Civil de 2015.
+    O Supremo Tribunal Federal, quando do julgamento da Questão de Ordem no AI 664.567, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/2007, fixou o seguinte entendimento:
+    “I. Questão de ordem. Recurso extraordinário, em matéria criminal e a exigência constitucional da repercussão geral.
+    [...]
+    II. Recurso extraordinário: repercussão geral: juízo de admissibilidade: competência.
+    1. Inclui-se no âmbito do juízo de admissibilidade - seja na origem, seja no Supremo Tribunal - verificar se o recorrente, em preliminar do recurso extraordinário, desenvolveu fundamentação especificamente voltada para a demonstração, no caso concreto, da existência de repercussão geral (C.Pr.Civil, art. 543-A, § 2º; RISTF, art. 327).
+    2. Cuida-se de requisito formal, ônus do recorrente, que, se dele não se desincumbir, impede a análise da efetiva existência da repercussão geral, esta sim sujeita ‘à apreciação exclusiva do Supremo Tribunal Federal’ (Art. 543-A, § 2º).
+    III. Recurso extraordinário: exigência de demonstração, na petição do RE, da repercussão geral da questão constitucional: termo inicial.
+    [...]
+    4. Assim sendo, a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental n. 21, de 30 de abril de 2007.”
+    Insta ressaltar que a intimação do acórdão ora recorrido deu-se, no caso sub examine, em data posterior à fixada no citado julgamento.
+    Por fim, observo que o recurso foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 24 de abril de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
