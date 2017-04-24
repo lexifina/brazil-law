@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra acórdão de Turma Recursal Federal dos Juizados Especiais do Rio Grande do Sul, no qual se discute o cálculo do imposto de renda sobre diferenças de complementação de aposentadoria recebidas cumulativamente de entidade de previdência privada, em reclamação trabalhista.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 2°; 5°, II ; 37, caput e 150, II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão impugnado decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 7.713/1988, Lei 12.350/2010 e Código Tributário Nacional). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo de origem. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO DE RENDA. PERCEPÇÃO DE RENDIMENTOS ACUMULADOS. APURAÇÃO PELO REGIME DE COMPETÊNCIA. INCIDÊNCIA DO IMPOSTO DE RENDA SOBRE VERBAS ESPECÍFICAS. NATUREZA JURÍDICA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. O Supremo Tribunal Federal assentou que o Imposto de Renda deve ser apurado sob o regime de competência na hipótese de percepção acumulada de proventos, sobretudo para impedir que o sujeito passivo tenha seu encargo agravado por força de ilícito perpetrado por terceiro. Nos termos da jurisprudência da Corte, a controvérsia sobre a incidência de Imposto de Renda à luz da natureza jurídica imputa às parcelas em debate não encontra ressonância constitucional. Agravo regimental a que se nega provimento” (ARE 846.041-AgR/RN, Rel. Min. Roberto Barroso).
+    Menciono, ainda, no mesmo sentido, as seguintes decisões monocráticas: RE 1.006.954/RS e RE 1.005.959/RS, Relator Ministro Luiz Fux; RE 1.005965/RS, Relator Ministro Gilmar Mendes; ARE 980.491, Relator Ministro Roberto Barroso; RE 1.034.094/RS, Relator Ministro Edson Fachin; ARE 999.090/RS, de minha relatoria, entre outras.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 24 de abril de 2017.
+Ministro Ricardo Lewandowski
+Relator
