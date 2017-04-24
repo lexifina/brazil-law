@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “PENAL – EXCEÇÃO DE SUSPEIÇÃO – AUTAÇÃO DO MAGISTRADO COMO CORREGEDOR – AUSÊNCIA DE PRÉ-JULGAMENTO DA CAUSA.
+    I – Hipótese em que a manifestação do magistrado, na qualidade de Corregedor-Regional da Justiça Federal da 2ª Região, em autos administrativos instaurados perante o CNJ limitaram-se à atuação de caráter administrativo relativa ao cargo então ocupado, não representando pré-julgamento da causa, afastando-se a hipótese de suspeição para apreciar os processos judiciais em que figuram como réu os Reclamantes;
+    II – Exceção de suspeição rejeitada” (pág. 97 do documento eletrônico 4).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 5°, da mesma Carta Magna.
+    A pretensão recursal não merece acolhida.
+    Quanto à alegada nulidade do acórdão recorrido, esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório, da prestação jurisdicional e dos limites da coisa julgada, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Ementa: Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Além disso, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, referentes à suspeição do magistrado, seria necessário o reexame da legislação infraconstitucional aplicável ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, transcrevo a ementa do RE 629.080-AgR/DF, da relatoria da Min. Rosa Weber:
+    “EMENTA DIREITO PROCESSUAL CIVIL. EXCEÇÃO DE IMPEDIMENTO E SUSPEIÇÃO. REJEIÇÃO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 27.4.2006. Divergir do entendimento do Tribunal a quo acerca da aplicação das normas que disciplinam a arguição de impedimento e suspeição, demandaria a análise da legislação infraconstitucional aplicável à espécie, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Precedentes. Agravo regimental conhecido e não provido”.
+    No mesmo sentido, menciono as seguintes decisões, entre outras: ARE 715.792-AgR/RS, de minha relatoria; AI 815.344-AgR/SP, Rel. Min. Joaquim Barbosa.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 24 de abril de 2017.
+Ministro Ricardo Lewandowski
+Relator
