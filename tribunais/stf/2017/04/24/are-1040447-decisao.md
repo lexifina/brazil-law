@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, § 6°, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Verifico que, para aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo, seria necessário o revolvimento do quadro fático delineado na instância ordinária, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Responsabilidade civil do Estado. Prisão cautelar determinada no curso de regular processo criminal. Posterior absolvição do réu pelo júri popular. Dever de indenizar. Reexame de fatos e provas. Impossibilidade. Ato judicial regular. Indenização. Descabimento. Precedentes. 1. O Tribunal de Justiça concluiu, com base nos fatos e nas provas dos autos, que não restaram demonstrados, na origem, os pressupostos necessários à configuração da responsabilidade extracontratual do Estado, haja vista que o processo criminal e a prisão aos quais foi submetido o ora agravante foram regulares e se justificaram pelas circunstâncias fáticas do caso concreto, não caracterizando erro judiciário a posterior absolvição do réu pelo júri popular. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 3. A jurisprudência da Corte firmou-se no sentido de que, salvo nas hipóteses de erro judiciário e de prisão além do tempo fixado na sentença, previstas no art. 5º, inciso LXXV, da Constituição Federal, bem como nos casos previstos em lei, a regra é a de que o art. 37, § 6º, da Constituição não se aplica aos atos judiciais quando emanados de forma regular e para o fiel cumprimento do ordenamento jurídico. 4. Agravo regimental não provido.” (AI 803.831-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 16.5.2013)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de abril de 2017.
+Ministra Rosa Weber
+Relatora
