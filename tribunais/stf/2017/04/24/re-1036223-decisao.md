@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário interposto contra acórdão que concluiu não ter ocorrido a decadência do pedido de revisão do benefício previdenciário, sob o entendimento de que o início do prazo decadencial para revisar, com base no IRSM do mês de fevereiro de 1994, a renda mensal inicial dos benefícios cujos segurados não fizeram acordo nos termos da Lei 10.999/2004 é a data da publicação da Medida Provisória 201/2004.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se violação aos arts. 5º, XXXVI, e 201, § 1º, da mesma Carta, sob o argumento de que a decadência prevista no art. 103, caput, da Lei 8.213/1991 se aplica a todos os pedidos de revisão de benefício.
+    A pretensão recursal não merece acolhida.
+    Os Ministros desta Corte, ao julgarem o RE 626.489/SE (Tema 313 da repercussão geral), Rel. Min. Roberto Barroso, assentaram que se aplica o prazo decadencial de dez anos para a revisão de benefícios concedidos, inclusive os anteriores ao advento da Medida Provisória 1.523/1997, hipótese em que a contagem do prazo deve iniciar-se em 1º de agosto de 1997.
+    No caso em exame, todavia, o Juízo de origem, com apoio na interpretação das normas infraconstitucionais pertinentes à espécie, afastou a ocorrência de decadência do pedido de revisão de aposentadoria sob os seguintes fundamentos:
+    “[…]
+    Especificamente quanto ao IRSM, a tese é a de que houve renúncia à decadência com o advento da Lei nº. 10.999/2004.
+    Pois bem, ao julgar o processo nº 50035196220144047208, a TNU fixou entendimento no seguinte sentido:
+    19. Forte em tais condições, proponho a fixação da tese, neste representativo da controvérsia, no sentido de que o início do prazo de decadência para revisar, com base no IRSM do mês de fevereiro de 1994 (39,67%), a RMI dos benefícios cujos segurados não fizeram acordo nos termos da Lei 10.999/2004 é a data da publicação da Medida Provisória 201, ou seja, 26/07/2004.
+    Do inteiro teor do julgado, extrai-se a seguinte conclusão:
+    - Benefícios cujos segurados não fizeram acordo: o termo inicial do prazo decadencial é 26/07/2004.
+    [...]” (pág. 5 do documento eletrônico 53).
+    Desse modo, para dissentir desse entendimento, seria necessário rever a interpretação conferida pelo Juízo a quo às normas infraconstitucionais alusivas ao caso, sendo certo que eventual ofensa à Constituição Federal seria apenas indireta. Nesse sentido, menciono os seguintes julgados desta Corte:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LEI Nº 9.528/97. OFENSA REFLEXA. PRECEDENTE. 1. A decadência, quando controversa sua incidência, demanda a análise da legislação infraconstitucional, o que acarreta uma violação reflexa e oblíqua da Constituição Federal e torna inadmissível o recurso extraordinário. Precedente: AI Nº 708.897-AgR, Relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 20/11/2012. 2. In casu, o acórdão recorrido negou provimento ao recurso inominado, mantendo a sentença por seus próprios fundamentos, que julgou improcedente o pedido de revisão de benefício previdenciário, acolhendo a arguição de decadência. 3. Agravo regimental DESPROVIDO” (ARE 685.033-AgR/RS, Rel. Min. Luiz Fux).
+    “Ementa: Agravo regimental no recurso extraordinário com agravo. Direito Previdenciário. Revisão de benefício. Decadência. RE nº 626.489/SE-RG. Repercussão geral reconhecida. Inaplicabilidade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inviável, em recurso extraordinário, a interpretação da legislação infraconstitucional, bem como o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (ARE 910.691-AgR/RS, Rel. Min. Dias Toffoli).
+    Isso posto, nego seguimento ao recurso (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de abril de 2017.
+Ministro Ricardo Lewandowski
+Relator
