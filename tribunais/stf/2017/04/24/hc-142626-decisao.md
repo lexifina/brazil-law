@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Douglas Andrade dos Santos, apontando como autoridades coatoras a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no REsp nº 1.345.241/PR e o Ministro Reynaldo Soares da Fonseca, que indeferiu liminarmente a inicial do HC nº 376.799/PR.
+    O impetrante sustenta, em suma, a pena de 4 (quatro) anos e 10 (dez) meses e 10 (dez) dias de reclusão imposta ao paciente pelo crime de tráfico de drogas permitira o regime inicial semiaberto para o seu cumprimento. Todavia, foi imposto à míngua de fundamentação idônea o regime fechado.
+    Requer, liminarmente, a concessão da ordem para que seja determinada a imposição de regime inicial menos gravoso para o cumprimento da pena do paciente.
+    Examinados os autos, decido.
+    No tocante a REsp nº 1.345.241/PR, transcrevo a ementado do julgado que negou provimento ao agravo regimental, concedendo, porém, habeas de ofício:
+    “PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. NATUREZA E QUANTIDADE DA DROGA. FUNDAMENTAÇÃO VÁLIDA PARA A DEFINIÇÃO DO ÍNDICE DE REDUÇÃO. FIXAÇÃO DO REGIME MAIS GRAVOSO. POSSIBILIDADE.
+    1. Não há falar em bis in idem na dosimetria da pena, haja vista que a pena-base foi fixada no mínimo legal, tendo sido a quantidade da substância entorpecente apreendida - 12 kg de maconha- , utilizada apenas na fixação da fração da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.º 11.343/06.
+    2. A jurisprudência desta Corte Superior de Justiça é no sentido de que a quantidade e a natureza da droga apreendida podem ser sopesadas na escolha da fração de redução da pena pela incidência do art. 33, § 4º, da Lei n. 11.343/2006 ou, até mesmo, para impedir a aplicação da referida benesse quando evidenciarem a dedicação do acusado ao tráfico de entorpecentes.
+    3. Embora fundamentado o afastamento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, verifica-se que a quantidade de droga capturada foi elevada (12 kg de maconha), não justificando a incidência da redução em metade, o que demonstra que a fração aplicada mostra-se, por certo, desproporcional.
+    4. Diante da ausência de apelação do Ministério Público para diminuir a fração da causa de redução prevista no art. 33, § 4º, da Lei nº 11.343/06, e em obediência ao princípio da ne reformatio in pejus, não poderia ela ser menor do quantum fixado pelo juízo de 1º Grau, qual seja, 1/5 (um quinto). Por essas razões, merece ser reformada a decisão recorrida nesse ponto, para determinar a incidência da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 como fixado na sentença.
+    5. Esta Corte Superior admite que a natureza e a quantidade da substância entorpecente justificam a fixação de regime penal mais gravoso ao condenado por crime de tráfico de drogas. Precedentes.
+    6. Não obstante os agravantes sejam tecnicamente primários, condenados a pena privativa de liberdade superior a 4 e não excedente a 8 anos (4 anos e 8 meses de reclusão), envolve o presente caso tráfico transnacional de expressiva quantidade e deletéria natureza dos entorpecentes – 12 Kg de maconha – , o que justifica a fixação do regime inicial fechado.
+    7. Agravo regimental não provido. Habeas corpus concedido de ofício aos agravantes para aplicar a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 em 1/5, como fixado na sentença.”
+    Pois bem, o entendimento emanado do Superior Tribunal de Justiça não evidencia teratologia. Pelo, contrário, está em perfeita consonância com a jurisprudência deste Supremo Tribunal, consolidada no sentido de ser ser “possível que o juiz fixe o regime inicial fechado e afaste a substituição da pena privativa de liberdade por restritiva de direitos com base na quantidade e na natureza do entorpecente apreendido” (HC nº 125.077/MS-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 4/3/15).
+    Perfilhando esse entendimento, por exemplo: RHC nº 122.804/MT, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 14/10/14; e HC nº 119.515/AC, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 10/12/13.
+    No que concerne o HC nº 376.799/PR, anoto que este writ volta-se contra decisão singular proferida no bojo daquela impetração. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente.” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14)
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Com essas considerações, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 24 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
