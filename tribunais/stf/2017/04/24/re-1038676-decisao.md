@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – DIÁRIAS – VALOR – MAGISTRADOS E MEMBROS DO MINISTÉRIO PÚBLICO FEDERAL – PRINCÍPIO DA SIMETRIA – RESOLUÇÃO DO CONSELHO NACIONAL DE JUSTIÇA – MATÉRIA SUBMETIDA AO PLENÁRIO – SOBRESTAMENTO.
+    1. A Turma Recursal confirmou entendimento do Juízo quanto à procedência do pedido de diferenças de diárias a magistrado, tendo em vista o valor pago a idêntico título aos integrantes do Ministério Público Federal, considerado ato do Conselho Nacional de Justiça. No extraordinário cujo trânsito visa obter, a recorrente aponta a violação dos artigos 2º, 5º, inciso II, 37, cabeça e inciso XIII, 93 e 129, § 4º, da Constituição Federal. Diz inobservado o verbete nº 339 da Súmula do Supremo. Discorre sobre a competência do Supremo para julgar a demanda, na forma do artigo 102, inciso I, alínea n, da Lei Maior. Discorre sobre a impossibilidade de concessão do benefício, ante à autonomia dos Poderes Legislativo e Executivo em matéria orçamentária e administrativa. Diz inexistir isonomia entre o Poder Judiciário e o Ministério Público. Entende contrariado o princípio da reserva de lei complementar para criação de benefício pecuniário a membro da magistratura. Tece considerações sobre a inconstitucionalidade da Resolução CNJ nº 133/2011.
+    2. No caso, discute-se a constitucionalidade da Resolução nº 133/2011 do Conselho Nacional de Justiça, na qual estendida aos magistrados o cálculo do valor das diárias a serem pagas aos membros do Ministério Público Federal. Encontra-se ainda pendente de exame, no Supremo, a ação direta de inconstitucionalidade nº 4822, cujo objeto versa a análise da validade do aludido ato em face do Diploma Maior, no que discutido o princípio da simetria. Tudo recomenda, portanto, o sobrestamento deste processo até o julgamento do paradigma.
+    3. À Assessoria, para o acompanhamento devido.
+    4. Publiquem.
+Brasília, 24 de abril de 2017.
+Ministro MARCO AURÉLIO
+Relator
