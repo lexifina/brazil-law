@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra a decisão que não admitiu o recurso extraordinário. A decisão agravada negou seguimento ao apelo extremo amparada na seguinte fundamentação:
+    “Com efeito, observa-se que o acórdão recorrido decidiu pela impossibilidade de percebimento simultâneo da gratificação de representação de gabinete com a Gratificação Especial de Técnico de Nível Superior - GTNS, analisando a questão à luz da legislação infraconstitucional pertinente, em especial as Leis Estaduais que regem a matéria, sendo, pois, apenas reflexa e indireta a ofensa à Constituição Federal, o que inviabiliza o conhecimento do apelo extremo para análise de direito local, a teor do que dispõe a Súmula 280, do Supremo Tribunal Federal.
+    (…)
+    Em reforço ao que vem sendo exposto, cabe registrar que o Pretório Excelso, ao analisar a questão alusiva ao direito de servidores públicos do Poder Judiciário do Estado do Rio Grande do Norte à GTNS (Tema 275), reconheceu a ausência de repercussão geral da matéria (Tema 275), como se vê na ementa a seguir:
+    (...).”
+    Decido.
+    Esta Suprema Corte firmou o entendimento de que deve a parte impugnar todos os fundamentos da decisão que não admitiu o recurso extraordinário, o que não ocorreu na espécie, uma vez que mantida incólume a motivação anteriormente reproduzida.
+    Nesse caso, a jurisprudência de ambas as Turmas deste Tribunal, com amparo na norma do art. 544, § 4º, inc. I, do Código de Processo Civil, com a redação da Lei nº 12.322/10, é no sentido de não conhecer do agravo. Nesse sentido, os seguintes julgados: AI nº 488.369/RS-AgR, Primeira Turma, Relator Ministro Sepúlveda Pertence, DJ de 28/5/04; AI nº 330.535/SP-AgR, Segunda Turma, Relator o Ministro Maurício Corrêa, DJ de 21/9/01; ARE nº 637.373/MS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/6/11; e ARE nº 704.986/PA-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 28/2/13, esse último assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO POPULAR. ESCOLHA DE CIDADE SEDE DE EVENTO DA COPA DO MUNDO DE FUTEBOL DE 2014. FUNDAMENTOS DO DESPACHO DENEGATÓRIO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO NÃO IMPUGNADOS. AGRAVO NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC. SÚMULA 283/STF. A teor do art. 544, § 4º, I, do CPC e da Súmula 283/STF, não se conhece de agravo contra despacho negativo de admissibilidade de recurso extraordinário quando, lastreada a decisão agravada em múltiplos fundamentos, independentes e suficientes para obstar o processamento do apelo extremo, não foram esgrimidos argumentos tendentes a desconstituir todos eles. Não importa em ofensa ao princípio constitucional da inafastabilidade da jurisdição (art. 5º, XXXV, da Constituição da República) a negativa de seguimento a recurso extraordinário, ou o não conhecimento de agravo, quando verificado o não-atendimento dos pressupostos extrínsecos ou intrínsecos de admissibilidade recursal, cuja observância pelas partes constitui verdadeira imposição da garantia constitucional do devido processo legal (art. 5º, LIV, da Lei Maior). Agravo regimental conhecido e não provido.”
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que a parte ora recorrida não apresentou contrarrazões ao agravo.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
