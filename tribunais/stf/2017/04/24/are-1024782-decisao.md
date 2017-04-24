@@ -1,0 +1,26 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Márcio Nunes dos Santos contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “APELAÇÃO CRIMINAL. CRIMES CONTRA O PATRIMÔNIO. CRIME DE EXTORSÃO SIMPLES.
+    A) Pretensões preliminares.
+    1. Nulidade pela ausência de reconhecimento da conexão. Competência relativa. Inexistência de prejuízo decorrente da não reunião dos autos.
+    2. Inobservância das formalidades do art. 212 do CPP. Inexistência de nulidade.
+    3. Inobservância ao princípio da identidade física do juiz. Sentença prolatada por juiz diverso daquele que instruiu o feito. Inexistência de nulidade.
+    B) Mérito.
+    1. Materialidade e autoria demonstradas pelos elementos de convicção encartados ao caderno processual durante a instrução da causa. Depoimentos prestados pelas vítimas, firmes e lineares, dando conta que reconheceram a voz do acusado, captada por gravação de conversa telefônica monitorada pela autoridade policial com a concordância do ofendido, redundando na sua prisão em flagrante, que levam à conclusão, induvidosa, no sentido de que o réu cometeu crimes de extorsão, na forma simples, ao constranger pessoas que tiveram seus veículos furtados a proceder a pagamento em dinheiro como condição de sua restituição.
+    2. Não reconhecida a atipicidade das condutas quanto aos fatos cujas vítimas não atenderam a exigência do acusado, considerando tratar-se, o delito de extorsão, de crime formal.
+    3. Nulidade da captação de conversa telefônica, autorizada por um dos interlocutores, não reconhecida. Ausência de violação à intimidade e privacidade do acusado, que efetuou ligação ao ofendido, a quem sequer conhecia e a quem se identificou com prenome falso.
+    4. Aplicação da pena. Pena base do delito mais grave estabelecida em seis (6) anos de reclusão em razão da culpabilidade, dos antecedentes e das consequências do crime, exasperada em um (1) ano pela reincidência e em 1/3 pela continuidade delitiva, totalizando nove (9) anos e quatro (4) meses de reclusão, a ser cumprida, inicialmente, em regime fechado, mantida a sentença em suas demais disposições, inclusive quanto ao reconhecimento do direito à detração pelo período de prisão cautelar cumprido nesse processo e a pena de multa cumulativa em quarenta (40) dias-multa, na fração mínima legal.
+    PRETENSÕES PRELIMINARES DESACOLHIDAS E, NO MÉRITO, APELO PARCIALMENTE PROVIDO. UNÂNIME.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, LIII, LIV, LV, LVII e LXIII, e 129, I, da Constituição da República.
+    Sob tal perspectiva, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    Cabe referir, desde logo, que os temas concernentes às alegadas transgressões aos preceitos inscritos nos arts. 5º, LIII, LIV, LV e LVII, e 129, I, da Constituição não se acham devidamente prequestionados.
+    E, como se sabe, ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368 – RTJ 131/1391 – RTJ 144/300 – RTJ 153/989), incidem as Súmulas 282 e 356 desta Corte (RTJ 159/977).
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    A configuração jurídica do prequestionamento – que traduz elemento indispensável ao conhecimento do recurso extraordinário – decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 – RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+    Cumpre ressaltar, ainda, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 583.937-QO-RG/RJ, Rel. Min. CEZAR PELUSO, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “AÇÃO PENAL. Prova. Gravação ambiental. Realização por um dos interlocutores sem conhecimento do outro. Validade. Jurisprudência reafirmada. Repercussão geral reconhecida. Recurso extraordinário provido. Aplicação do art. 543-B, § 3º, do CPC. É lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem conhecimento do outro.”
+    O exame da presente causa evidencia que o recurso extraordinário em questão não se mostra viável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 24 de abril de 2017.
+Ministro CELSO DE MELLO
+Relator
