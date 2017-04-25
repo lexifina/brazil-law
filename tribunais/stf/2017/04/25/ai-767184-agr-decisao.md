@@ -1,0 +1,12 @@
+Ref. Petição 10.657/2010-STF.
+    Kostal Eletromecânica Ltda. apresentou petição com pedido de desistência parcial do agravo e renúncia parcial ao direito sobre o qual se funda a ação. Entretanto, após examinar detidamente a petição, entendo não ser possível concluir sobre o que exatamente o peticionário está desistindo e o que remanesceria como objeto do litígio. Ademais, aparentemente, o pedido de desistência estaria se referindo a objeto não abrangido pela presente lide.
+     Para melhor demonstrar a situação ocorrida, transcrevo trechos da petição de desistência e renúncia:
+    “[…] requerer a desistência parcial do Agravo de Instrumento interposto contra decisão que inadmitiu o Recurso Extraordinário interposto, bem como renunciar parcialmente ao direito sobre o qual se funda a presente ação, no que diz respeito ao expurgo inflacionário ocorrido em fevereiro de 1989 no percentual de 23,60%, correspondente à diferença existente entre os expurgos inflacionários ocorridos em janeiro e fevereiro de 1989 no percentual de 70,28% e 42, 72% / 10,14%, […]”
+    “Em suma , prosseguirá a discussão quanto aos expurgos inflacionários ocorridos em janeiro de 1989 no percentual de 42,72% e 10,14%, respectivamente.”
+    Analisando o pedido contido na petição inicial do presente mandado de segurança, verifico que a parte impetrante assim delimitou o objeto da demanda:
+    “[…] decorrente da implementação do ajuste postulado, correspondente à variação monetária causada pelo expurgo inflacionário (70,28%) ocorrido em janeiro de 1989, para efeito de reconhecer a parcela de correção monetária decorrente da diferença entre o BTN e o IPC procedendo à exclusão da despesa adicional da correção monetária de balanço decorrente do ano de 1989, bem como a dedução dos encargos com despesas de depreciação no Livro de Apuração do Lucro Real (LALUR), nas bases de cálculo do Imposto de Renda da Pessoa Jurídica e da Contribuição Social Sobre o Lucro […]”
+    Isso posto, intime-se a parte peticionária para que, no prazo de 10 (dez) dias, esclareça de modo claro e objetivo sobre a abrangência do pedido de desistência e renúncia, além de explicitar o que remanesceria como objeto do litígio, advertindo para esteja atenta ao objeto do presente mandado de segurança, fixado pelo pedido feito na petição inicial, sob pena de indeferimento do pleito.
+    Publique-se.
+    Brasília, 25 de abril de 2017.
+Ministro Ricardo Lewandowski
+Relator
