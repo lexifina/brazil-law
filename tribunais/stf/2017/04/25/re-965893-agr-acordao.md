@@ -1,0 +1,560 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 12
+
+25/04/2017
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 965.893 MINAS GERAIS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. RICARDO LEWANDOWSKI
+: JURACEMA DE ARAUJO RANGEL
+: HUMBERTO LUCCHESI DE CARVALHO
+: ESTADO DE MINAS GERAIS
+: ADVOGADO -GERAL DO ESTADO DE
+GERAIS
+
+MINAS
+
+Ementa:
+AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO. CONTRATO TEMPORÁRIO. FGTS. LEI 8.036/1990
+E
+LEI
+ESTADUAL
+10.254/1990.
+CONTROVÉRSIA
+INFRACONSTITUCIONAL. OFENSA INDIRETA. NECESSIDADE DE
+REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.
+SÚMULAS 279 E 280 DO STF. HONORÁRIOS ADVOCATÍCIOS
+MAJORADOS. AGRAVO A QUE SE NEGA PROVIMENTO.
+I – É inadmissível o recurso extraordinário quando sua análise
+implica rever a interpretação de normas infraconstitucionais que
+fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria
+indireta.
+II – Inviável em recurso extraordinário o reexame do conjunto fáticoprobatório constante dos autos. Incidência da Súmula 279 do STF.
+III – Agravo regimental a que se nega provimento, com majoração
+dos honorários advocatícios (art. 85, § 11, do CPC).
+
+AC ÓRDÃ O
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, sob a Presidência do
+Senhor Ministro Gilmar Mendes, na conformidade da ata de julgamentos
+e das notas taquigráficas, por unanimidade, negar provimento ao agravo
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12809599.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 12
+
+RE 965893 AGR / MG
+regimental, nos termos do voto do Relator.
+Brasília, 25 de abril de 2017.
+
+RICARDO LEWANDOWSKI – RELATOR
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12809599.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 12
+
+25/04/2017
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 965.893 MINAS GERAIS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. RICARDO LEWANDOWSKI
+: JURACEMA DE ARAUJO RANGEL
+: HUMBERTO LUCCHESI DE CARVALHO
+: ESTADO DE MINAS GERAIS
+: ADVOGADO -GERAL DO ESTADO DE
+GERAIS
+
+MINAS
+
+RE LAT Ó RI O
+O Senhor Ministro Ricardo Lewandowski (Relator): Trata-se de
+agravo regimental interposto contra decisão de minha antecessora na
+relatoria do feito, Ministra Cármen Lúcia, que negou provimento ao
+recurso extraordinário. Eis o teor da decisão agravada:
+“DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E
+ADMINISTRATIVO. SERVIDOR PÚBLICO. CONTRATAÇÃO
+TEMPORÁRIA.
+INEXISTÊNCIA
+DE
+RENOVAÇÃO.
+AUSÊNCIA DE DECLARAÇÃO DE NULIDADE DA
+CONTRATAÇÃO PELO TRIBUNAL DE ORIGEM. DIREITO A
+VALORES DO FGTS. LEI ESTADUAL N. 10.254/1990. LEI N.
+8.036/1990.
+IMPOSSIBILIDADE
+DE
+REEXAME
+DO
+CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO
+SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA
+CONSTITUCIONAL
+DIRETA.
+DESCABIMENTO
+DO
+RECURSO PELA AL. C DO INC. III DO ART. 102 DA
+CONSTITUIÇÃO
+DA
+REPÚBLICA.
+RECURSO
+EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102,
+inc. III, als. a e c, da Constituição da República contra o seguinte
+julgado do Tribunal de Justiça de Minas Gerais:
+REEXAME NECESSÁRIO/APELAÇÃO CÍVEL RECLAMATÓRIA TRABALHISTA - SERVIDOR PÚBLICO
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12809600.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 12
+
+RE 965893 AGR / MG
+ESTADUAL - OFICIAL DE APOIO JUDICIALCONTRATAÇÃO TEMPORÁRIA- RELAÇÃO JURÍDICA
+DE NATUREZA ADMINISTRATIVA - INTELIGÊNCIA
+DO ART. 10, DA LEI ESTADUAL Nº 10.254/90- FGTSAUSÊNCIA DE DIREITO- SENTENÇA REFORMADA.
+- A contratação temporária de oficial de apoio
+judiciário é amparada pelo permissivo constitucional
+veiculado pelo art. 37, inciso IX, da CRFB, regulamentado,
+em âmbito estadual, pela Lei n° 10.254/90, afastada a
+alegada nulidade contratual, assim como o direito ao
+depósito das parcelas do FGTS.
+(…)
+Colhe-se, de todo o processado, que a autora foi
+contratada pelo Estado de Minas Gerais para exercer as
+funções de Oficial de Apoio Judicial O, sob a ressalva do
+art. 37, inciso IX, da CF/88.
+Aos servidores contratados a título precário pelo
+Estado de Minas Gerais aplica-se o regime estatutário
+instituído pela Lei n° 869/52, bem como as regras da Lei
+Complementar Estadual n° 59/2001, que não contemplam
+as verbas reivindicadas pela autora.
+Outra alternativa não caberia ao administrador
+público senão cumprir a lei. É que, sendo próprio do
+regime a que se submete o direito administrativo o
+princípio da legalidade, o agente público está diante de
+um poder dever, devendo conformar-se ã vontade
+soberana do legislador.
+O princípio da legalidade veiculado pelo 'caput', do
+art. 37, da Constituição da República consiste na diretriz
+norteadora do agir administrativo. Segundo ele toda e
+qualquer atividade administrativa deve ser autorizada por
+lei. Isto implica a subordinação completa do agente
+público ã lei.
+A contratação temporária é permitida pelo inciso IX,
+do art. 37 da CF/88, regulamentado, em âmbito estadual,
+pelo art. 10, da Lei n° 10.254/90 que prevê:
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12809600.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 12
+
+RE 965893 AGR / MG
+(…)
+A alegada nulidade da contratação, portanto, não se
+verificou, de forma que não se aplica a espécie o disposto
+no art. 19-A, da Lei n° 8.036/90, com a redação dada pela
+Medida Provisória n° 2.164-41, de 2001:
+(…)
+Não merece acolhimento, igualmente, o pedido de
+assinatura e baixa na CTPS, recolhimentos fundiários,
+pagamento aviso prévio e multa, restringindo-se este
+direito aos trabalhadores da iniciativa privada, regidos
+pela CLT.
+A questão da aplicação da Lei n° 11.960/2009, por
+óbvio, resta prejudicada, ao passo que a apreciação do
+direito à percepção das demais parcelas do pedido é
+descabida, em sede de reexame necessário, à míngua de
+recurso da autora (fls. 393-397, doc. 1).
+Os embargos de declaração opostos foram rejeitados.
+2. No recurso extraordinário, a Recorrente sustenta
+contrariedade aos arts. 37, incs. II, § 2º, e IX, e 39, § 3º, da
+Constituição da República, argumentando que ‘foi julgado
+válida lei e ato de governo local contestado em face dessa
+Constituição Federal, qual seja, contrato precário que durou ao
+longo de 02 anos, atento, sobretudo, ao julgado recente ocorrido
+no RE 596478-RR, onde, por maioria, esta Corte Suprema
+desproveu o recurso extraordinário interposto pelo Estado de
+Roraima, com a participação de vários outros estados como
+amicus curiae , contra a decisão do TST que reconheceu o
+direito ao FGTS, nos termos do artigo 19-A da Lei 8.036/90, com
+redação dada pela MP 2.164-41/2001, tal qual ocorre nos autos’
+(sic, fl. 19, doc. 2).
+Pede
+‘a aplicação da Lei Federal n° 8.036/90, em especial, o
+artigo 19-A e seguintes, bem como a Súmula 363, do c.
+TST, conferindo os direitos sociais do trabalho que são
+devidos ao recorrente, em especial, a correspondente
+indenização relativa ao FGTS por todo o período laborado,
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12809600.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 12
+
+RE 965893 AGR / MG
+devidamente corrigidos, haja vista a prescrição trintenária
+de questões relativas ao FGTS, ou, caso seja determinado o
+depósito desses valores na conta vinculada, que o(a)
+recorrente tenha o direito de sacar os respectivos saldos
+que passarem a existir, devidamente corrigidos’ (fl. 20,
+doc. 2).
+Examinados os elementos havidos no processo, DECIDO .
+3. Razão jurídica não assiste à Agravante.
+4. A controvérsia apresentada na espécie não guarda
+pertinência com a questão constitucional contida no Recurso
+Extraordinário n. 596.478-RG, Redator para o acórdão o
+Ministro Dias Toffoli, e no Recurso Extraordinário n. 705.140RG, Relator o Ministro Teori Zavascki.
+Naqueles processos, a discussão versa sobre o direito aos
+valores do FGTS decorrente de contratação temporária pela
+Administração Pública renovada sucessivamente de forma
+irregular e declarada nula. Na espécie vertente, trata-se do
+direito aos valores do FGTS decorrente de contratação
+temporária pela Administração Pública de forma regular não
+renovada e declarada legítima.
+5. A apreciação do pleito recursal demandaria a análise
+prévia da legislação infraconstitucional aplicável à espécie (Lei
+estadual n. 10.254/1990 e Lei n. 8.036/1990) e o reexame do
+conjunto
+fático-probatório
+do
+processo. A alegada
+contrariedade à Constituição da República, se tivesse ocorrido,
+seria indireta, a inviabilizar o processamento do recurso
+extraordinário. Incide a Súmula n. 279 do Supremo Tribunal
+Federal:
+AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO.
+CONSTITUCIONAL
+E
+ADMINISTRATIVO.
+SERVIDOR
+PÚBLICO
+CONTRATADO
+TEMPORARIAMENTE
+PELA
+ADMINISTRAÇÃO PÚBLICA. DISPENSA. PRETENSÃO
+AO RECEBIMENTO DO FUNDO DE GARANTIA POR
+TEMPO
+DE
+SERVIÇO
+FGTS.
+ACÓRDÃO
+FUNDAMENTADO
+NA
+LEGISLAÇÃO
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12809600.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 12
+
+RE 965893 AGR / MG
+INFRACONSTITUCIONAL
+E
+NO
+CONJUNTO
+PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA.
+SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL.
+AGRAVO REGIMENTAL AO QUAL SE NEGA
+PROVIMENTO (RE n. 833.741-AgR, de minha relatoria,
+Segunda Turma DJe 9.3.2015).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+ADMINISTRATIVO. CONTRATO PRO-LABORE. TEMPO
+DE
+SERVIÇO.
+AVERBAÇÃO.
+ANÁLISE
+DA
+REGULARIDADE DO CONTRATO DE TRABALHO.
+INCURSIONAMENTO NO CONTEXTO FÁTICOPROBATÓRIO CARREADO AOS AUTOS. SÚMULA 279
+DESTA CORTE. DECISÃO QUE SE MANTÉM POR SEUS
+PRÓPRIOS FUNDAMENTOS (ARE n. 680.969-AgR,
+Relator o Ministro Luiz Fux, Primeira Turma, DJe
+14.8.2012).
+AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO.
+SERVIDOR
+PÚBLICO
+CONTRATADO POR TEMPO DETERMINADO. FUNDO
+DE GARANTIA DO TEMPO DE SERVIÇO FGTS.
+IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO
+INFRACONSTITUCIONAL E DE REEXAME DAS
+PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO
+SUPREMO
+TRIBUNAL
+FEDERAL.
+OFENSA
+CONSTITUCIONAL
+INDIRETA.
+AGRAVO
+REGIMENTAL AO QUAL SE NEGA PROVIMENTO (RE
+n. 775.634-AgR, de minha relatoria, Segunda Turma, DJe
+27.3.2014).
+RECURSO.
+Extraordinário.
+Inadmissibilidade.
+Depósitos de FGTS. Condenação. Alegação de ofensa ao
+art. 37, II, § 2º, da Constituição Federal. Ofensa
+constitucional indireta. Agravo regimental não provido.
+Aplicação da súmula 279. Não cabe recurso extraordinário
+que teria por objeto alegação de ofensa que, irradiando-se
+de má interpretação, aplicação, ou, até, inobservância de
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12809600.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 12
+
+RE 965893 AGR / MG
+normas infraconstitucionais, seria apenas indireta à
+Constituição da República, e, muito menos, de reexame de
+provas (AI n. 546.752-AgR, Relator o Ministro Cezar
+Peluso, Primeira Turma, DJ 24.3.2006).
+CONSTITUCIONAL.
+RECURSO
+EXTRAORDINÁRIO. TRABALHISTA. OFENSA À
+CONSTITUIÇÃO. I. - Somente a ofensa direta à
+Constituição
+autoriza
+a
+admissão
+do
+recurso
+extraordinário. No caso, o acórdão assenta-se em
+interpretação de legislação ordinária. II. - Agravo não
+provido (AI n. 529.987-AgR, Relator o Ministro Carlos
+Velloso, Segunda Turma, DJ 2.9.2005).
+6. Tampouco se viabiliza o extraordinário pela al. c do inc.
+III do art. 102 da Constituição da República, pois o Tribunal de
+origem não julgou válidos lei ou ato de governo local
+contestados em face da Constituição da República. Incide na
+espécie a Súmula n. 284 do Supremo Tribunal Federal. Assim,
+por exemplo:
+AGRAVO REGIMENTAL NO AGRAVO DE
+INSTRUMENTO.
+ADMINISTRATIVO.
+SERVIDOR
+PÚBLICO.
+PRÊMIO
+DE
+PRODUTIVIDADE.
+1.
+IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO
+INFRACONSTITUCIONAL LOCAL (SÚMULA 280).
+OFENSA CONSTITUCIONAL INDIRETA.
+2.
+O
+TRIBUNAL A QUO NÃO JULGOU VÁLIDA LEI OU ATO
+DE GOVERNO LOCAL CONTESTADO EM FACE DA
+CONSTITUIÇÃO. INADMISSIBILIDADE DO RECURSO
+PELA ALÍNEA C DO ART. 102, INC. III, DA
+CONSTITUIÇÃO DA REPÚBLICA (SÚMULA 284 DO
+SUPREMO
+TRIBUNAL
+FEDERAL).
+AGRAVO
+REGIMENTAL AO QUAL SE NEGA PROVIMENTO (AI
+n. 763.681-AgR, de minha relatoria, Primeira Turma, DJe
+13.11.2009).
+Recurso extraordinário. - Inocorrência da hipótese
+prevista na alínea c do inciso III do artigo 102 da
+Constituição Federal. Falta de fundamentação, por isso
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12809600.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 12
+
+RE 965893 AGR / MG
+mesmo, a esse respeito. Aplicação da Súmula 284 (RE n.
+148.355, Relator o Ministro Moreira Alves, Primeira
+Turma, DJ 5.3.1993 .
+Nada há a prover quanto às alegações da Recorrente.
+7. Pelo exposto, nego provimento ao recurso
+extraordinário (art. 932, inc. IV, al. a , do Código de Processo
+Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal
+Federal)” (documento eletrônico 4).
+
+A agravante reitera os argumentos consignados no recurso
+extraordinário e insiste na alegação de que
+“notadamente, o recurso invocou a violação ao artigo 37,
+II, da CF/88 que conduziria à nulidade da contratação havida
+por 02 anos (o que nada de temporário guarda sequer
+semelhança).
+[…]
+Este olhar equivocado em relação a natureza temporária
+de uma contratação que durou 02 anos de uma vida funcional,
+merece ser revista eis que não guarda qualquer relação com a
+natureza
+temporária
+como
+quiseram
+os
+ilustres
+Desembargadores do tribunal a quo, que causou toda essa
+confusão interpretativa [...]” (pág. 1/17 do documento eletrônico
+6).
+
+Por fim, conclui que faz jus a correspondente indenização relativa ao
+FGTS, pois “a dicção do artigo 19-A, da Lei 8.036/90, onde preceitua que é
+devido os valores a título de FGTS para os contratos irregulares e tidos
+como nulos, como é o caso em tela, haja vista a desconformidade da
+contratação com a CF/88 e seu art. 37, II, § 2º” (pág. 12, documento
+eletrônico 6).
+A parte ora agravada pugna pela manutenção da decisão impugnada
+(documento eletrônico 12).
+É o relatório.
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12809600.
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 10 de 12
+
+25/04/2017
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 965.893 MINAS GERAIS
+VOTO
+O Senhor Ministro Ricardo Lewandowski (Relator): Bem
+reexaminada a questão, verifica-se que a decisão ora atacada não merece
+reforma, visto que a agravante não aduz argumentos capazes de afastar
+as razões nela expendidas.
+Como consignado na decisão agravada, a controvérsia em tela foi
+dirimida com apoio no conjunto fático-probatório dos autos – cujo
+reexame é vedado pela Súmula 279 desta Corte – e na interpretação da
+legislação infraconstitucional pertinente à espécie, sendo certo que
+eventual ofensa à Constituição seria meramente indireta. Nesse sentido,
+além dos precedentes indicados na decisão atacada, destaco, novamente,
+o julgamento do ARE 775.634-AgR/MG, da relatoria da Ministra Cármen
+Lúcia, cuja ementa transcrevo a seguir:
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO. SERVIDOR PÚBLICO CONTRATADO
+POR TEMPO DETERMINADO. FUNDO DE GARANTIA DO
+TEMPO DE SERVIÇO – FGTS. IMPOSSIBILIDADE DE
+ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE
+REEXAME DAS PROVAS. INCIDÊNCIA DA SÚMULA N. 279
+DO
+SUPREMO
+TRIBUNAL
+FEDERAL.
+OFENSA
+CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO
+QUAL SE NEGA PROVIMENTO”.
+
+Cito, ainda, as seguintes decisões monocráticas: RE 793.580/MG, de
+minha relatoria; RE 785.190/MG, Rel. Min. Teori Zavascki;
+RE
+765.306/MG, Rel. Min. Cármen Lúcia.
+Isso posto, nego provimento ao agravo regimental. Nos termos do
+art. 85, § 11, do CPC, majoro os honorários advocatícios em 20% do fixado
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12809601.
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 11 de 12
+
+RE 965893 AGR / MG
+anteriormente, observados os limites legais dos § 2° e § 3°, do mesmo
+artigo e eventual concessão de justiça gratuita.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 12809601.
+
+Supremo Tribunal Federal
+Extrato de Ata - 25/04/2017
+
+Inteiro Teor do Acórdão - Página 12 de 12
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 965.893
+PROCED. : MINAS GERAIS
+RELATOR : MIN. RICARDO LEWANDOWSKI
+AGTE.(S) : JURACEMA DE ARAUJO RANGEL
+ADV.(A/S) : HUMBERTO LUCCHESI DE CARVALHO (58317/MG)
+AGDO.(A/S) : ESTADO DE MINAS GERAIS
+PROC.(A/S)(ES) : ADVOGADO-GERAL DO ESTADO DE MINAS GERAIS
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. 2ª Turma, Sessão
+Virtual de 14 a 24.4.2017.
+Composição: Ministros Gilmar Mendes (Presidente), Celso de
+Mello, Ricardo Lewandowski, Dias Toffoli e Edson Fachin.
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 12826551
