@@ -1,0 +1,22 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Turma Recursal Fazendária dos Juizados Cíveis e Criminais do Estado do Rio de Janeiro que, em síntese, negou provimento ao recurso inominado e manteve a sentença julgou incabível o desconto de 1/3 dos vencimentos do autor durante o período em que esse permaneceu preso preventivamente.”
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso LVII, e 37, inciso XV, da Constituição Federal.
+    Decido.
+    Não procede a irresignação, uma vez que o Plenário desta Corte, no julgamento do RE n° 482.006/MG, Relator o Ministro Ricardo Lewandowski, em situação análoga, decidiu que norma legal que prevê a redução dos vencimentos dos servidores públicos que respondam a processo criminal viola os princípios da presunção de inocência e da irredutibilidade de vencimentos. Colhe-se do voto condutor da citada decisão:
+    “No que se refere à previsão de redução dos vencimentos, pelo simples fato de os servidores terem sido denunciados e estarem respondendo a processo penal por crime funcional, sem que tenha havido ainda qualquer condenação, entendo que essa previsão legal implica flagrante violação ao princípio da presunção de inocência, consubstanciado no inciso LVII do art. 5° da Constituição Federal.
+    Isso porque, a se admitir a redução da remuneração dos servidores em tais hipóteses, estar-se-ia validando verdadeira antecipação de pena, sem que esta tenha sido precedida do devido processo legal, e antes mesmo de qualquer condenação, nada importando que haja previsão de devolução das diferenças, em caso de absolvição”.
+    Esse julgado está assim ementado:
+    “ART. 2º DA LEI ESTADUAL 2.364/61 DO ESTADO DE MINAS GERAIS, QUE DEU NOVA REDAÇÃO À LEI ESTADUAL 869/52, AUTORIZANDO A REDUÇÃO DE VENCIMENTOS DE SERVIDORES PÚBLICOS PROCESSADOS CRIMINALMENTE. DISPOSITIVO NÃO-RECEPCIONADO PELA CONSTITUIÇÃO DE 1988. AFRONTA AOS PRINCÍPIOS DA PRESUNÇÃO DE INOCÊNCIA E DA IRREDUTIBILIDADE DE VENCIMENTOS. RECURSO IMPROVIDO. I - A redução de vencimentos de servidores públicos processados criminalmente colide com o disposto nos arts. 5º, LVII, e 37, XV, da Constituição, que abrigam, respectivamente, os princípios da presunção de inocência e da irredutibilidade de vencimentos. II - Norma estadual não-recepcionada pela atual Carta Magna, sendo irrelevante a previsão que nela se contém de devolução dos valores descontados em caso de absolvição. III - Impossibilidade de pronunciamento desta Corte sobre a retenção da Gratificação de Estímulo à Produção Individual - GEPI, cuja natureza não foi discutida pelo tribunal a quo, visto implicar vedado exame de normas infraconstitucionais em sede de RE. IV - Recurso extraordinário conhecido em parte e, na parte conhecida, improvido” (DJ de 14/12/07).
+    Nesse mesmo sentido:
+    “Servidor público preso preventivamente. Descontos nos proventos. Ilegalidade. Precedentes.
+    1. A jurisprudência da Corte fixou entendimento no sentido de que o fato de o servidor público estar preso preventivamente não legitima a Administração a proceder a descontos em seus proventos.
+    2. Agravo regimental não provido” (ARE nº 705.174/PR-AgR, Primeira Turma, de minha relatoria, DJ de 22/10/13).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – POLICIAL CIVIL – PRISÃO CAUTELAR – REDUÇÃO DOS VENCIMENTOS – IMPOSSIBILIDADE – VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA E DA IRREDUTIBILIDADE DE VENCIMENTOS (CF, ART. 5º, INCISO LVII, E ART. 37, INCISO XV) – RECURSO IMPROVIDO” (ARE nº 715.658/PR-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 5/9/13).
+    Aplicando essa orientação, destacam-se ainda as seguintes decisões monocráticas: RE n° 491.207/MG, Relator o Ministro Celso de Mello, DJ de 12/5/08; RE n° 245.407/PR, Relator o Ministro Cezar Peluso, DJ de 20/8/08; e AI n° 831.405/MG, Relator o Ministro Ricardo Lewandowski, DJe de 1°/2/11.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida no valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 25 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
