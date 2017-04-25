@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5º, caput, XXXV, LIV, LV e LXXVIII, 37, § 6º, 93, IX, e 150, II, da Constituição Federal.
+    Anote-se parte da ementa do acórdão recorrido:
+    “TRIBUTÁRIO – PROCESSUAL CIVIL – AÇÃO ORDINÁRIA – IRRF (1990/1993) – SINAIS EXTERIORES DE RIQUEZA – MOVIMENTAÇÃO BANCÁRIA – ARBITRAMENTO – LEI Nº 8.021/90 – LC Nº 105/2001 – PRECEDENTES DO STJ”.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 5º, XXXV, LIV e LV, e 93, IX, da CF/88, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte.
+    Verifico que a questão relativa à incidência da prescrição intercorrente está restrita à interpretação de legislação infraconstitucional e ao reexame das provas dos autos, procedimentos vedados em sede de recurso extraordinário. Incidência do enunciado da Súmula nº 279 desta Corte. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil e Processual Civil. 3. Título executivo extrajudicial. prescrição intercorrente. Matéria de índole infraconstitucional. Ofensa à Constituição, se ocorrente, seria indireta ou reflexa. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (ARE nº 775.292/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 30/4/14 - Grifei).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. DEMORA NA CITAÇÃO IMPUTÁVEL AO PODER JUDICIÁRIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE n° 751.864/PE-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 31/7/13).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. PRESCRIÇÃO intercorrente. MATÉRIA INFRACONSTITUCIONAL. O Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão relativa ao cabimento de recursos da competência de outros Tribunais, por restringir-se a tema infraconstitucional (RE 598.365-RG, Rel. Min. Ayres Britto). Para dissentir do acórdão recorrido, seria necessária a análise da legislação infraconstitucional pertinente, procedimento inviável em sede de recurso extraordinário. Precedentes. Agravo regimental a que se nega provimento” (AI nº 840.759/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 13/12/13 - Grifei).
+    Por fim, para ultrapassar o entendimento do Tribunal de origem e acolher a pretensão do agravante acerca da aplicabilidade do arbitramento tributário no caso em tela seria necessário o reexame de legislação infraconstitucional, bem como a análise de fatos e provas, o que não é cabível em sede de recurso extraordinário. Incidência do enunciado da Súmula nº 279 desta Corte. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. BASE DE CÁLCULO. PAUTA FISCAL OU PAUTA DE VALORES. LEGITIMIDADE. PRINCÍPIO DA LEGALIDADE. CÁLCULO POR ARBITRAMENTO. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA REFLEXA. VERIFICAÇÃO DO REAL VALOR DA OPERAÇÃO. INCURCIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO” (RE n° 857.606/SC-AgR, Primeira Turma, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 15/2/16 - Grifei).
+    “AGRAVO REGIMENTAL. AFRONTA AO DEVIDO PROCESSO LEGAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 279. AGRAVO DESPROVIDO. Não é possível, na via extraordinária, o reexame de fatos e provas do processo, na forma do enunciado 279 da Súmula do Supremo Tribunal Federal” (AI n° 574.468-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ 16/2/07).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
