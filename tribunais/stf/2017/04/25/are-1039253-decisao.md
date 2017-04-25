@@ -1,0 +1,13 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Instituto Nacional do Seguro Social – INSS contra decisão que negou trânsito ao apelo extremo por ele interposto, no qual sustentou que o acórdão confirmado em sede de embargos de declaração e de juízo de retratação (CPC, art. 1.040, II) pela 1ª Turma Recursal dos Juizados Especiais Federais do Estado de Pernambuco teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu  a questão com fundamento em legislação infraconstitucional (MP nº 201/2.004), o que torna incognoscível o apelo extremo.
+    Cabe registrar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 848.631/PE, Rel. Min. GILMAR MENDES – ARE 967.625/RS, Rel. Min. EDSON FACHIN – ARE 969.478/RS, Rel. Min. ROSA WEBER, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil.
+    Publique-se.
+    Brasília, 25 de abril de 2017.
+Ministro CELSO DE MELLO
+Relator
