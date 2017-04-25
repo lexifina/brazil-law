@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO—MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Paraná confirmou o entendimento do Juízo proferido em liquidação de sentença por arbitramento. No extraordinário cujo trânsito pretendem alcançar, os recorrentes apontam a violação dos artigos 5º, inciso XXXVI, e 93, inciso IX, da Constituição Federal. Arguem a nulidade do processo, por negativa de prestação jurisdicional. Afirmam ter a sentença liquidanda implicado ofensa à coisa julgada.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, versando, detalhadamente, sobre as razões que lhe foram apresentadas.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    A demanda indenizatória proposta pelos autores, ora agravantes, teve por suporte o inadimplemento, pela ré, ora agravada, dos contratos de reflorestamento firmados entre as partes, pelos quais esta deveria entregar-lhes quantidades de árvores (pinus elliotus).
+    (…)
+    Compulsando os autos observa-se que a decisão que determinou o cumprimento do que fora deliberado pelo egrégio Superior Tribunal de Justiça resultou irrecorrida, estando acobertada, portanto, pelo mando da preclusão, de sorte que toda e qualquer discussão constante das razões do presente recurso, sobre o respectivo acertamento de valores decorrente de possíveis repercussões de incêndio e de ajuste de áreas sobre as quais deveriam incidir os cálculos, não merece ser conhecida.
+    (…)
+    Vencidas tais questões, impõe enfrentar a assertiva lançada nas razões recursais de que o laudo pericial deixou de incluir as árvores dos projetos implantados no imóvel Estrellinha, da Madeireira Bernardi (…) e Madeireira Serbema Ltda (…).
+    De se ver, também, que o laudo pericial não ignorou a tabela que norteou a sentença condenatória. O que se percebe, todavia, é que diferença final entre o número de árvores contantes do decisum e aqueles adotados pelo laudo, decorrem, justamente, da aplicação do que fora deliberado pelo Superior Tribunal de Justiça, e acolhido pelo douto Julgador, através de decisão irrecorrida.
+    (…)
+    No mais, ao contrário do que entendem os agravantes, a prova pericial não se revelou frágil e duvidosa quanto à ocorrência de incêndio e plantação de árvores fora dos imóveis, e para tal conclusão basta uma leitura atenta do trabalho técnico e dos respectivos esclarecimentos, cumprindo asseverar que o Expert utilizou diversos critérios para apurar o incêndio, fazendo uso de imagens de satélite, vestígios e documentos produzidos à época, de molde a permitir a delimitação precisa das áreas remanescentes dos projetos florestais, permitindo a apuração do número de árvores objeto de indenização para os imóveis onde houve o plantio, hoje denominados Fazendas Guatambú e Tarumã.
+    Referida prova técnica não foi validamente desconstituída pelos agravantes, que se apegam, básica e insistentemente, na impossibilidade de reconhecimento da ocorrência de incêndio e afronta à coisa julgada, inexistente in casu.
+    À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 25 de abril de 2017.
+Ministro MARCO AURÉLIO
+Relator
