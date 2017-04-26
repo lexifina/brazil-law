@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Segunda Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO CÍVEL - EXECUÇÃO DE SENTENÇA - MUNICÍPIO DE SANTOS - Ação visando ao pagamento do salário-família, suprimido por ocasião da opção - ao PCCS (Lei - Complementar Municipal n° 165/95), julgada procedente - Embargos alegando inexequibilidade do título judicial, em razão do advento da Lei Municipal n° 592/06, que afastou o pagamento do benefício para os servidores que auferem remuneração igual ou superior ao limite estabelecido pelo RGPS - Descabimento - Condenação com base na legislação local (art. 133, I do Estatuto dos Funcionários Públicos Municipais de Santos), que não impunha tal restrição - Inadmissível a projeção dos efeitos da nova legislação para aquém de sua vigência - Decisão de procedência parcial dos embargos mantida - Recurso não provido”.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação dos artigos 1°, inciso III, 7°, incisos XIII, 18, 24, inciso XII, 30, inciso I, 34, 37, inciso XIV, 39 e 169 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram objetos dos acórdãos recorridos. Incidência da Súmula n° 282 desta Corte.
+    No que tange especificamente aos artigos 7º, incisos XIII, 24 e 39 da Constituição, anote-se que o fato do recorrente ter trazido no bojo dos embargos de declaração não é bastante para suprir o requisito do prequestionamento, a teor da Súmula nº 356/STF. Ocorre que, não obstante a oposição dos embargos, o recurso de apelação não suscitou as referidas as normas constitucionais, hipótese em que já não se prestam os embargos declaratórios opostos contra o acórdão de segundo grau a suscitá-las pela primeira vez. Nesse sentido:
+    “1. Recurso extraordinário: descabimento: dispositivo constitucional dado por violado (CF, art. 5º, II) não analisado pelo acórdão recorrido: incidência das Súmulas 282 e 356.
+    2. Embargos de declaração, prequestionamento e Súmula 356. Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada.
+    3. Recurso extraordinário: inadmissibilidade: alegada violação a dispositivo constitucional que, se ocorresse, seria reflexa ou indireta, que não enseja exame no recurso extraordinário: incidência, mutatis mutandis, da Súmula 636” (AI nº 596.757/RS-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 10/11/06).
+    Ademais, verifica-se que as instâncias de origem decidiram a lide amparadas na legislação local pertinente (Lei Complementar Municipal n° 165/95 e Lei Municipal nº 592/06. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Sobre o tema:
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SALÁRIO-FAMÍLIA. PREENCHIMENTO DE REQUISITOS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n° 840.720/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 16/5/11).
+     “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO: MUNICÍPIO DE PORTO ALEGRE. ABONO FAMILIAR: SUPRESSÃO. LEI MUNICIPAL 133/85: Súmula 280-STF I. - Somente a ofensa direta à Constituição autoriza a admissão do recurso extraordinário. No caso, o acórdão assenta-se em interpretação de lei local. Incidência da Súmula 280-STF. II. - Agravo não provido” (RE n° 385.946/RS-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 14/10/05).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 26 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
