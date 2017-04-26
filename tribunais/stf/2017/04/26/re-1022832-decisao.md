@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão no qual se rejeitou pedido de recálculo da renda mensal de aposentadoria, sob o entendimento de que a legislação ordinária não permite a utilização das contribuições supervenientes à aposentação.
+    No RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação ao art. 201, § 11, da mesma Carta, sob o argumento de que
+    “o segurado já aposentado que retorna à atividade vinculada ao Regime Geral de Previdência Social tem direito a ver repercutir o valor das contribuições correspondentes no benefício que já recebe” (pág. 9 do documento eletrônico 30).
+    A pretensão recursal não merece acolhida.
+    A 4ª Turma Recursal dos Juizados Especiais Federais do Estado do Rio Grande do Sul manteve sentença que assim decidiu a questão dos autos:
+    “[...] verifico que o legislador ordinário determinou a repercussão da contribuição previdenciária, consubstanciada no salário-de-contribuição, na renda mensal dos benefícios. E mais: limitou temporalmente a repercussão dos ganhos habituais nos benefícios previdenciários, consoante art. 18, § 2º, da Lei n. 8.213/91:
+    Art. 18. (...)
+    § 2º O aposentado pelo Regime Geral de Previdência Social-RGPS que permanecer em atividade sujeita a este Regime, ou a ele retornar, não fará jus a prestação alguma da Previdência Social em decorrência do exercício dessa atividade, exceto ao salário-família e à reabilitação profissional, quando empregado. (Redação dada pela Lei nº 9.528, de 1997 - grifei)
+    Isto é, o legislador ordinário determinou expressamente que não será devida nenhuma prestação ao aposentado pelo RGPS que continuar exercendo atividade remunerada sujeita àquele Regime, à exceção do salário-família e à reabilitação profissional. Há, portanto, claro limite temporal previsto legalmente, por autorização constitucional, para a repercussão em benefícios dos ganhos habituais do segurado.
+    [...]
+    Equivoca-se a parte autora, ainda, ao invocar regra de direito contratual - onerosidade excessiva superveniente - para legitimar a tese exposta na inicial. Ora, sabe-se que a relação entre Estado-Previdência e segurados não tem qualquer base contratual, mas tem natureza legal. As regras invocadas pela parte autora (art. 65 da Lei n. 8.666/93 e arts. 478 e 480 do Código Civil) são inaplicáveis ao caso vertente.
+    Por fim, para efeito de aproveitamento das contribuições posteriores à jubilação, é possível a figura jurídica da desaposentação, ato pelo qual é concedida nova aposentadoria ao segurado, com data posterior, aproveitando-se, para tanto, os salários-de-contribuição posteriores à aposentação com a devolução dos valores recebidos no benefício a ser cancelado. No entanto, não é este o objetivo pretendido pela parte autora na presente demanda.
+    Logo, considerando que a revisão postulada pela parte autora depende de modificação legislativa, e que, consoante demonstrado, atualmente a legislação ordinária não permite a utilização das contribuições supervenientes à aposentação, a pretensão formulada não merece prosperar” (págs. 2-4 do documento eletrônico 11).
+    Desse modo, para dissentir do acórdão recorrido, seria necessário rever a interpretação efetuada pelo juízo de origem às normas infraconstitucionais alusivas ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta, o que inviabiliza o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: RE 1.028.578/RS, Rel. Min. Roberto Barroso; RE 1.022.841/RS, Rel. Min. Marco Aurélio; ARE 731.079/RS, Rel. Min. Cármen Lúcia; RE 851.953/RS, Rel. Min. Dia Toffoli.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de abril de 2017.
+Ministro Ricardo Lewandowski
+Relator
