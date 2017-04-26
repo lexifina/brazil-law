@@ -1,0 +1,32 @@
+DECISÃO:
+Ementa: Direito Constitucional. Mandado de Segurança. Projeto de lei em tramitação no Senado Federal. Devido processo legislativo.
+1. O Supremo Tribunal Federal somente deve interferir em procedimentos legislativos para assegurar o cumprimento da Constituição, proteger direitos fundamentais e resguardar os pressupostos de funcionamento da democracia e das instituições republicanas. E, mais especificamente, quando haja risco de vulneração de cláusula pétrea.
+2. Ausência, no caso concreto, de vícios flagrantes a autorizar a excepcional intervenção judicial no processo legislativo.
+3. Liminar indeferida.
+    1. Trata-se de mandado de segurança, com pedido de medida liminar, impetrado pelo Deputado Federal Fernando Destito Francischini, contra ato do Presidente da Comissão de Constituição, Justiça e Cidadania do Senado Federal, Senador Edison Lobão, do Senador Roberto Requião de Mello e Silva e do próprio Senado Federal.
+    2. Em síntese, narra a inicial que:
+    (i) estão em tramitação no Senado Federal os Projetos de Lei nº 280/2016, de autoria do Senador Renan Calheiros, e nº 85/2017, ambos referentes à tipificação de crimes de abuso de autoridade;
+    (ii) no dia 19/04/2017, o atual relator do PLS nº 280/2016, Senador Roberto Requião, opinou pela sua substituição pelo PLS 85/2017, sob o argumento de que a proposição oferece um texto mais adequado ao tratamento da matéria;
+    (iii) os PLSs serão discutidos em sessão da Comissão de Constituição, Justiça e Cidadania do Senado Federal, marcada para hoje, dia 26.04.2017;
+    (iv) ambos os PLSs possuem vícios de inconstitucionalidade, assim resumidos:
+    (iv.1) inconstitucionalidade formal e ofensa ao princípio da separação dos poderes, pois a matéria diz respeito ao exercício da Magistratura e das funções do Ministério Público e não poderia ser tratada em projeto de lei de iniciativa de parlamentares;
+    (iv.2) violação aos princípios constitucionais que orientam a Administração Pública, na medida em que os projetos de lei questionados “convenientemente, constituem uma forma de exoneração de responsabilidade por crimes praticados, através de criação de obstáculos de ordem formal para a atuação livre dos membros do Poder Judiciário, do Ministério Público e demais órgãos”.
+    3. O impetrante requer a concessão de medida liminar para a imediata suspensão, até o julgamento final de mérito deste mandado de segurança, da tramitação dos Projetos de Lei nos 280/2016 e 85/2017.
+    4. Pede, ao final, concessão em definitivo da segurança para que “os Projetos de Lei nos 280/2016 e 85/2017 sejam arquivados, diante dos vícios de inconstitucionalidade que ostentam”.
+    5. É o relatório. Decido o pedido liminar.
+    6. O deferimento de um pedido de tutela de urgência pressupõe o fumus boni iuris, caracterizado pela plausibilidade do direito alegado, e o periculum in mora, consistente no risco de que o tempo de tramitação do processo torne inócua a decisão que se venha a proferir ao final (Lei nº 12.016/2009, arts. 7º, III, e 16). Em juízo de cognição sumária próprio da medida de urgência, entendo ausentes ambos os requisitos.
+    7. Antes de examinar o primeiro requisito, referente à plausibilidade do direito pleiteado, reitero premissa que tem orientado minha atuação nesses casos: o Supremo Tribunal Federal somente deve intervir em procedimentos legislativos para assegurar o cumprimento da Constituição, proteger direitos fundamentais e resguardar os pressupostos de funcionamento da democracia e das instituições republicanas. Mais notadamente, quando esteja em questão a potencial vulneração de alguma cláusula pétrea.
+    8. À primeira vista, a controvérsia apresentada nestes autos não está contemplada em nenhuma dessas hipóteses excepcionais de atuação preventiva do Poder Judiciário no processo legislativo.
+    9. Em exame de cognição sumária, os textos das proposições legislativas descritas no mandado de segurança não parecem contemplar matérias de iniciativa privativa. Trata-se essencialmente da criação de tipos penais, tema sobre o qual a Constituição não restringiu a titularidade para a propositura de criação de novas normas jurídicas.
+    10. Além disso, alega o impetrante que os textos propostos criminalizam as atividades-fim do Judiciário, do Ministério Público e das autoridades policiais, permitindo, por exemplo, a punição de juízes que decretem prisões preventivas posteriormente revogadas e de promotores e delegados que utilizem provas que venham a ser depois anuladas.
+    11. Embora plausível a tese, cuida-se de argumento propício a ser apresentado em eventual ação direta de inconstitucionalidade a ser ajuizada caso os PLSs venham a ser efetivamente aprovados na forma atual. A simples existência de possível inconstitucionalidade em projeto legislativo não legitima o controle judicial preventivo de constitucionalidade, quando não configurada nenhuma das hipóteses excepcionais mencionadas.
+    12. De outro lado, o argumento de que haveria violação aos princípios constitucionais que orientam a Administração Pública, na medida em que os projetos de lei questionados seriam direcionados ao atendimento de interesses pessoais de determinados congressistas, não restou demonstrado de plano.
+    13. A discussão acerca da criação de tipos penais relacionados ao abuso de autoridade, em tese, é legítima. Eventuais desvios de finalidade nos projetos de lei devem ser afastados, precipuamente, pelo próprio Poder Legislativo, local adequado para o debate republicano das proposições normativas.
+    14. Quanto ao periculum in mora, conforme narra o impetrante, a Comissão de Constituição, Justiça e Cidadania do Senado Federal ainda irá analisar o parecer do Relator do PLS, oportunidade em que justamente exercerá sua atribuição de verificação da constitucionalidade das proposições legislativas.
+    15. Ausentes flagrantes vícios nos projetos de lei, a possibilidade de discussão acerca da constitucionalidade dos dispositivos neles contidos é medida salutar, que homenageia os princípios democráticos.
+    16. Diante do exposto, indefiro a medida liminar.
+    17. Notifiquem-se as autoridades impetradas. Abra-se vista à Procuradoria-Geral da República (Lei nº 12.016/2009, art. 12). Dê-se ciência à Advocacia-Geral da União para que, querendo, ingresse no feito.
+    Publique-se. Intimem-se.
+    Brasília, 26 de abril de 2017.
+Ministro LUÍS ROBERTO BARROSO
+Relator
