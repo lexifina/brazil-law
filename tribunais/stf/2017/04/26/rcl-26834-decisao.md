@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de reclamação proposta com base no art. 102, I, l, da Constituição tendo em vista suposto desrespeito à autoridade de julgado do Supremo Tribunal Federal.
+    A parte reclamante informa que o Juiz Federal Presidente da Turma Recursal dos Juizados Especiais Federais de Alagoas indeferiu o pedido de aplicação do índice de correção monetária e de juros previsto no art. 1º da Lei 9.494/97 à condenação fixada na sentença da ação originária 0513927-26.2014.4.05.8013. Assevera que tal postura desrespeita a determinação contida em precedente do Supremo (RE 859.636 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, DJe 31-03-2015).
+    Pede, em caráter liminar e definitivo, a concessão de liminar para que seja aplicado o art. 1º-F da Lei 9.494/97 ao processo em curso nas instâncias ordinárias.
+    É o relatório. Decido.
+    A reclamação deve ser indeferida de plano. A jurisprudência do Supremo Tribunal Federal não autoriza o uso do remédio constitucional previsto na segunda parte da alínea l do inc. I do art. 102 em caso de alegada afronta a precedente desprovido de eficácia erga omnes, no qual a reclamante sequer figurou como parte. Nesse sentido:
+    EMENTA AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADA AFRONTA À AUTORIDADE DE DECISÃO PROLATADA EM PROCESSO DE ÍNDOLE SUBJETIVA EM QUE NÃO FIGUROU COMO PARTE O RECLAMANTE. AUSÊNCIA DE EFICÁCIA ERGA OMNES. NÃO CABIMENTO. O acórdão paradigma foi prolatado em processo de índole subjetiva, desprovido de eficácia erga omnes, em que não figurou como parte o reclamante, motivo pelo qual a sua invocação não se amolda ao previsto no art. 102, I, l , da Constituição da República. Agravo regimental conhecido e não provido.
+(Rcl 13610 AgR, Relator(a): Min. ROSA WEBER, Tribunal Pleno, julgado em 22/05/2014, PROCESSO ELETRÔNICO DJe-117 DIVULG 17-06-2014 PUBLIC 18-06-2014)
+    RECLAMAÇÃO – PARADIGMA – PROCESSO SUBJETIVO – TERCEIRO. A reclamação não é o meio hábil a chegar-se a verdadeira uniformização de jurisprudência, evocando-se, como paradigma, pronunciamento alusivo a processo subjetivo a envolver partes diversas, desprovido de eficácia vinculante.
+(Rcl 14473 AgR, Relator(a):  Min. MARCO AURÉLIO, Primeira Turma, DJe 20-02-2017)
+    E M E N T A: RECLAMAÇÃO – DECISÃO QUE NEGA TRÂNSITO AO RECURSO EXTRAORDINÁRIO PORQUE NÃO RECONHECIDA A EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL NELE SUSCITADA – ALEGADA USURPAÇÃO DA COMPETÊNCIA DESTA SUPREMA CORTE – INOCORRÊNCIA – INADMISSIBILIDADE DO USO DA VIA RECLAMATÓRIA COMO INSTRUMENTO DESTINADO A QUESTIONAR A APLICAÇÃO, PELO TRIBUNAL DE ORIGEM, DO SISTEMA DE REPERCUSSÃO GERAL – PRECEDENTES FIRMADOS PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL (RCL 7.547/SP, REL. MIN. ELLEN GRACIE – RCL 7.569/SP, REL. MIN. ELLEN GRACIE – AI 760.358-QO/SE, REL. MIN. GILMAR MENDES) – ALEGADO DESRESPEITO A DECISÃO PROFERIDA PELO SUPREMO TRIBUNAL FEDERAL EM PROCESSO DE ÍNDOLE SUBJETIVA, QUE VERSOU CASO CONCRETO NO QUAL A PARTE RECLAMANTE NÃO FIGUROU COMO SUJEITO PROCESSUAL – INADMISSIBILIDADE – INADEQUAÇÃO DO EMPREGO DO INSTRUMENTO RECLAMATÓRIO COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL – INCOGNOSCIBILIDADE DA RECLAMAÇÃO RECONHECIDA PELA DECISÃO AGRAVADA – LEGITIMIDADE – CONSEQUENTE EXTINÇÃO ANÔMALA DO PROCESSO – RECURSO DE AGRAVO IMPROVIDO.
+(Rcl 23157 AgR, Relator(a):  Min. CELSO DE MELLO, Segunda Turma, DJe 07-04-2016)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Publique-se.
+    Brasília, 26 de abril de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
