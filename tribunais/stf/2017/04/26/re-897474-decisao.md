@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que afastou a cobrança de taxas de estrangeiro hipossuficiente para a expedição da cédula de identidade, com base no art. 5°, LXXXVII, da Constituição Federal.
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 145, II e 150, § 6°, da mesma Carta, sob o argumento de que a gratuidade prevista no art. 5°, LXXVII, da CF, está adstrita ao comando de lei ordinária específica.
+    O parecer da Procuradoria-Geral da República foi pela negativa de seguimento ao recurso (fls. 1-3 do documento eletrônico 5).
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem dirimiu a questão em exame com esteio no princípio da dignidade da pessoa humana (art. 1°, III, da CF), bem como no art. 5°, LXXXVII, da mesma Carta, que estabelece serem gratuitos, para os reconhecidamente pobres, os atos necessários ao exercício da cidadania, para assentar que “não há vida digna se a pessoa não puder identificar-se”.
+    O recorrente deixou de impugnar fundamento suficiente do acórdão recorrido, qual seja, o princípio da dignidade da pessoa humana, razão pela qual aplicável a Súmula 283/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Nesse sentido, cito o RE 965.004-AgR/RS, Rel. Min. Luiz Fux, cuja ementa segue transcrita:
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA NÃO EMBARGADA. PEQUENO VALOR. CRÉDITO RELATIVO A HONORÁRIOS ADVOCATÍCIOS. CONCLUSÃO DO TRIBUNAL A QUO DE QUE NÃO SERIA POSSÍVEL A FIXAÇÃO DE NOVOS HONORÁRIOS. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. AGRAVO DESPROVIDO”.
+    Cabe registrar, ainda, que o STF julgou em 20/4/2017 o RE 587.970-RG/SP, de relatoria do Ministro Marco Aurélio, no qual se definiu que o estrangeiro residente no país tem direito à concessão de benefício assistencial. Na oportunidade, o relator assentou que não houve delegação relativamente à definição dos beneficiários, uma vez que já inserta no inciso V do art. 203 da CF, devendo prevalecer, no confronto de visões, a que melhor concretiza o princípio da dignidade da pessoa humana, de observância prioritária no ordenamento jurídico. Idêntica premissa é cabível ao caso concreto.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 26 de abril de 2017.
+      Ministro Ricardo Lewandowski
+Relator
