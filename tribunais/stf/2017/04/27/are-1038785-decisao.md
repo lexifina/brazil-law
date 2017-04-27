@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu o recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que manteve sentença de improcedência em ação indenizatória, assim ementado (eDOC-4, p. 29):
+    “APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. FORNECIMENTO DE SERVIÇO. DENÚNCIA DE FURTO DE SINAL DE INTERNET QUE CONSUBSTANCIOU NOTITIA CRIMINIS EM FACE DO AUTOR. ABSOLVIÇÃO NO JUÍZO CRIMINAL. AUTOR ALEGA A CONDUTA ILÍCITA DE DENUNCIAÇÃO CALUNIOSA PREVISTA NO ARTIGO 339 DO CÓDIGO PENAL. REQUER INDENIZAÇÃO POR DANOS MORAIS. AGRAVO RETIDO. SENTENÇA IMPROCEDENTE. APELO DO AUTOR. FORTES INDÍCIOS DE FURTO DE SINAL DE INTERNET. ABSOLVIÇÃO PAUTADA EM JUÍZO DE INCERTEZA, DIANTE DA FALTA DE PROVAS PRODUZIDAS EM CONTRADITÓRIO. DIVERGÊNCIA DA DOUTRINA E JURISPRUDENCIA A ÉPOCA SOBRE A TIPICIDADE DA CONDUTA. NOTITIA CRIMINIS REALIZADA DENTRO DOS LIMITES LEGAIS. EXERCÍCIO REGULAR DE DIREITO. DESPROVIMENTO DO AGRAVO RETIDO E DA APELAÇÃO.”
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aduz-se violação dos artigos 1º, III e IV; 5º, XXXVI e LIV; e 170, todos da Constituição da República, por ofensa aos princípios do devido processo legal e da segurança jurídica, da dignidade da pessoa humana, e da livre iniciativa e dos valores sociais do trabalho.
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    No exame do ARE 945.271, de minha relatoria, DJe 16.6.2016 (Tema  880), a Corte decidiu que não há repercussão geral em casos em que se discute indenização por dano moral decorrente de responsabilidade civil extracontratual, como no presente caso.
+    Ademais, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 27 de abril de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
