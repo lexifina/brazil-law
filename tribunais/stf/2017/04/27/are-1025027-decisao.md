@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE HOMICÍDIO CULPOSO NA CONDUÇÃO DE VEÍCULO AUTOMOTOR. CRIME DE LESÕES CORPORAIS CULPOSAS. ARTIGOS 302, CAPUT, E 303, CAPUT, DA LEI 9.503/1997 (CÓDIGO DE TRÂNSITO BRASILEIRO). ALEGAÇÃO DE OFENSA AO ARTIGO 5º, LV, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “APELAÇÃO – DIREÇÃO DE VEÍCULO AUTOMOTOR – HOMICÍDIO CULPOSO E LESÃO CORPORAL – CONDENAÇÃO – PROVA – SUFICIÊNCIA – Autoria e materialidade comprovadas – firmes depoimentos das vítimas sobreviventes – Manobra imprudente que resultou na colisão – Comprovação do estado de alcoolemia – Suficiência probatória – Condenações mantidas – Penas bem dosadas – RECURSO DE APELAÇÃO DESPROVIDO.” (doc. 13, fl. 16 )
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, LV, da Constituição Federal.
+    Argumenta que “não é possível aferir a imprudência do agente tão somente através da constatação do estado de embriaguez” porque “a conclusão do laudo pericial elaborado pelo Ilustre Instituto Médico Legal (…) está equivocada e (…) porque o acidente se deu por culpa exclusiva da vítima”. Aduz que “as matérias defensivas apresentadas (…) suficientes para demonstrar sua inocência, não foram apreciadas.” (doc. 14, fl. 31)
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que as alegações encontram óbice nas Súmulas 279 e 282 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição Federal).
+    A jurisprudência desta Corte é uníssona no sentido de que a verificação de ofensa aos princípios da legalidade, do livre acesso à justiça, do devido processo legal, da ampla defesa, do contraditório e da motivação das decisões judiciais, bem como aos limites da coisa julgada, quando dependente do reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Nesse sentido, os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Constitucional. Processual Penal. Indeferimento de diligência probatória. Cerceamento de defesa (CF, art. 5º, incisos LIV e LV). Ofensa indireta ou reflexa à Constituição Federal. Ausência de repercussão geral reconhecida. Precedentes. Agravo regimental não provido.
+    1. Está consolidado na Corte o entendimento de que ‘não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.
+    2. Agravo regimental a que se nega provimento.” (ARE 830.699-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 12/02/2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO CRIMINAL. APELAÇÃO. IMPEDIMENTO DE UM DOS INTEGRANTES DA CORTE. DECLARAÇÃO DE NULIDADE TÃO SÓ DO JULGAMENTO. CONVALIDAÇÃO DOS ATOS INSTRUTÓRIOS. MATÉRIA AFETA À INTERPRETAÇÃO DE DISPOSITIVOS DO PROCESSO PENAL. MILITAR. OFENSA INDIRETA A PRECEITO CONSTITUCIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta.
+    II – A alegada afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa.
+    III – Agravo regimental a que se nega provimento.” (RE 669.427-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 09/12/2013)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de abril de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
