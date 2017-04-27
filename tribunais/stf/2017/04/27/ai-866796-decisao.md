@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “APELAÇÃO. Permissionário autônomo de serviço de transporte de passageiro (táxi). Falecimento. Direito do cônjuge de sucedê-lo na permissão. A lei que regulou a matéria no Município do Rio de Janeiro revogou parcialmente a anterior quanto a procedimentos administrativos, mas não quanto ao direito à transferência da permissão. Viúva que cumpriu todas as exigências que o órgão municipal competente lhe formulou tem o direito a obter a permissão, atividade econômica que é livre, salvo quanto à necessidade de consentimento administrativo (CR/88, art. 170, p. único). Recurso a que se nega provimento”. (eDOC 2, p. 23)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, II; 84, IV; e 170, parágrafo único, do texto constitucional.
+    Nas razões recursais, alega-se que o fundamento legal para o direito à sucessão da permissão de táxi fora revogado antes do falecimento do titular (eDOC 2, p. 38).
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie – Leis Municipais 3.123/2000 e 4.000/2005 –, consignou que se mantinha vigente, à data do óbito, o dispositivo legal que permitiria a sucessão por morte do permissionário autônomo. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A Lei n° 4.000, de abril de 2005 - anterior, portanto, ao óbito, mas posterior à transformação do marido e pai das apeladas de auxiliar de veículo de aluguel em permissionário autônomo veio revogar apenas os artigos 2º a 8º da Lei n° 3.123/2000 (v. fls. 102), daí que esta continuou a viger quanto a seus artigos 1º, 9º, 10,11 e 12. Logo, nenhuma repercussão a Lei n° 4.000/05 poderia ter sobre o status do marido e pai das autoras, que, desde 2000, já se consolidara como de permissionário autônomo de serviço de táxi. Por isto que, quando de seu falecimento, em outubro de 2005, e independentemente do que viera estabelecer a Lei n° 4.000, de abril de 2005, a viúva poderia postular a sucessão como permissionária, o que fez, instaurando-se procedimento administrativo no qual lhe foram dirigidas exigências, que atendeu, na premissa de que era titular do direito a suceder o marido pré-morto como permissionário do serviço de taxista autônomo”. (eDOC 2, p. 24)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas as Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PERMISSÃO. SERVIÇO DE TAXISTA. CASSAÇÃO DA LICENÇA. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. AGRAVO REGIMENTAL DESPROVIDO”. (ARE 791472 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 12.9.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PERMISSÃO PARA USO DE ESPAÇO PÚBLICO. CONFLITO ENTRE NORMAS LOCAIS. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO”. (ARE 724748 AgR, rel. Min. Cármen Lúcia, Segunda Turma, DJe 15.4.2013)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de abril de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
