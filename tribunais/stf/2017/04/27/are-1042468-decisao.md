@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Sergipe, ementado nos seguintes termos:
+    “AGRAVO REGIMENTAL – DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO À APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO FISCAL – IPTU – ENTIDADE RELIGIOSA – IMUNIDADE TRIBUTÁRIA PREVISTA NO ART. 150, INCISO VI, ALÍNEAS ‘B’ E § 4º, DA CONSTITUIÇAO FEDERAL – POSSIBILIDADE DE APLICAÇÃO AO CASO CONCRETO – ÔNUS DA PROVA DO ENTE MUNICIPAL – RECURSO A QUE SE NEGOU PROVIMENTO, NOS MOLDES DO ART. 557, CAPUT, DO CPC – MANUTENÇÃO DA DECISÃO – RECURSO IMPROVIDO”. (eDOC 14, p. 1-2)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao artigo 150, VI, b, e § 4º, do texto constitucional.
+    Nas razões recursais, aponta-se que o “imóvel objeto da exigência tributária não se trata de templo religioso, conforme planta do imóvel nos autos, portanto, sujeito à tributação”. (eDOC 17, p. 6)
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (o Código Tributário Nacional), bem como o conjunto probatório constante dos autos, consignou que a recorrida reuniu os requisitos necessários para gozar da imunidade tributária. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Conclui-se, portanto, que a impossibilidade de instituição de impostos sobre os templos não abrange propriedades, rendas ou serviços que não estejam afetados ao exercício do culto religioso.
+    Ademais, é certo que, sendo a imunidade uma limitação constitucional ao poder de tributar, é de se exigir lei complementar para o estabelecimento dos requisitos a serem observados pelas entidades para fazer jus ao benefício. Tal legislação é o Código Tributário Nacional que assim dispõe no seu art. 14, verbis:
+    (…)
+    Com efeito, é evidente a constatação do bom direito da Apelada. Destarte, as fotos colacionadas às fls. 40 do processo de Execução materializado comprovam que, no imóvel sobre o qual incide o IPTU, realmente são realizados cultos evangélicos.
+    ‘In casu’, restou patente a confusão feita pelo Município/Apelante quanto a imóvel alvo da execução fiscal em questão, pois trata-se, na verdade, de um único imóvel.
+    De uma simples leitura dos autos, verifica-se que o número de registro do imóvel junto a Prefeitura é Lote 403, entretanto quando da realização da ligação da energia a concessionária atribui o número 475 à edificação.
+    Ademais ainda que não fosse destinada para o fim principal de culto, o que não é o caso dos autos, denota-se que os recursos auferidos pela apelada com a renda dos imóveis são vertidos para suas atividades essenciais, de cunho religioso e assistencial, cuja finalidade é pastoral, voltada para a promoção
+    de obras assistenciais, consoante sobredito.
+    É certo também que a abrangência da imunidade não se restringe apenas ao imóvel em que se situa o tempo religioso, mas também sobre todos aqueles necessários ao funcionamento e consecução de suas finalidades.
+    (…)
+    De fato, restou evidenciado que a IGREJA CRISTÃ MARANATA ESPIRITO SANTENSE preenche os requisitos legais para fazer jus à imunidade tributária”. (eDOC 14, p. 6-8)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMUNIDADE TRIBUTÁRIA. COMPROVAÇÃO. EFICICÁCIA. SÚMULA 279/STF 1. O reconhecimento da imunidade tributária depende da comprovação do requisitos relacionados em lei. No entanto, a Corte vem optando por conferir tratamento privilegiado às diversas espécies de imunidades, de modo que o direito só deve ser afastado mediante prova em sentido contrário produzida pela Fazenda. 2. Incide na hipótese a jurisprudência do Supremo Tribunal Federal que afasta o cabimento do recurso extraordinário nos casos em que o deslinde da controvérsia depende do reexame de material probatório (Súmula 279/STF). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.” (ARE 916.945 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 24.10.2016)
+    “Agravo regimental no recurso extraordinário com agravo. ISS. Imunidade. Instituição de assistência social sem fins lucrativos. Requisitos. Artigo 14, CTN. Matéria infraconstitucional. Fatos e provas. Incidência do enunciado da Súmula 279/STF. 1. O art. 170, IV, da CF/88, apontado como violado, carece do necessário prequestionamento. A Corte não admite prequestionamento implícito. 2. Para dissentir do acórdão recorrido quanto ao preenchimento dos requisitos para a configuração da imunidade tributária, necessário seria a reanálise da causa à luz da legislação infraconstitucional (art. 14, CTN) e o revolvimento do acervo fático e probatório dos autos, providências vedadas em sede de recurso extraordinário. Incidência do enunciado da Súmula 279/STF. 3. Nego provimento ao agravo regimental. Deixo de aplicar a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.” (ARE 999.952 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 16.3.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de abril de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
