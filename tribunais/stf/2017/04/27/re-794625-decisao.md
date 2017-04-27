@@ -1,0 +1,38 @@
+DECISÃO
+    União interpõe recurso extraordinário, com fundamento na alínea ‘a’ do permissivo constitucional, contra acórdão da Terceira Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. COBRANÇA DE CRÉDITOS DECORRENTES DO DESCUMPRIMENTO DE CONVÊNI FIRMADO ENTRE A UNIÃO E O MUNICÍPIO. PRESCRIÇÃO. OCORRÊNCIA. INCIDÊNCIA DO DISPOSTO NO ART. 1º, DO DECRETO Nº 20.910/32.
+    Buscou-se reformar sentença que considerou consumada a prescrição do direito de a União cobrar da Municipalidade os créditos relativos a Convênio celebrado em 2000, e só cobrados em 2007.Convênio firmado sob a égide da Instrução Normativa nº 01/1997-STN, em cujo art. 31, § 7º, deixou-se claro caber à Administração concedente, a obrigação de acompanhar a entrega da prestação de contas e, na hipótese de não cumprimento dos prazos estabelecidos, adotar as medidas necessárias à devolução dos valores aos cofres públicos.
+     Impossibilidade de se fazer valer a regra posta no art. 37, § 5º, da CF/88, que dispõe acerca da imprescritibilidade das ações de ressarcimento ao Erário de créditos decorrentes de ilícitos praticados por qualquer agente, servidor ou não, posto que tal Municipalidade e, em tal situação, deve ser observado o disposto no art. 1º, do Decreto nº 20.910/32.
+    A partir da inércia da Administração concedente em cumprir as obrigações fixadas na IN nº 01/1997-STN, iniciou-se o prazo prescricional.
+    Repasse das verbas que originou o crédito em disputa, que ocorreu no ano de 2000, mas a União só iniciou a cobrança administrativa, em novembro de 2007, ou seja, quando já se havia consumado o prazo prescricional quinquenal. Sentença mantida. Apelação e Remessa Necessária improvidas.” (fl. 419)
+    Opostos embargos de declaração, foram rejeitados.
+    No apelo extremo, a recorrente alega violação ao art. 37, § 5°, da Constituição Federal. Sustenta, em suma, que
+    “ao contrário do que restou decidido pelo Tribunal a quo, o entendimento da doutrina brasileira é no sentido de que o Município, assim como outras pessoas jurídicas, pode responder, em concomitância com agentes públicos, por ato de improbidade, sendo-lhes aplicadas apenas as sanções que forem compatíveis com a sua condição, configurando dentre elas o ressarcimento dos cofres públicos (arts. 2º e 3º da Lei n. 8.429/92).
+    Ademais, vale registrar que o § 5º, do art. 37, da CF, não se limita às demandas objeto da Lei de Improbidade Administrativa, sendo aplicável a todas as hipóteses ressarcimento ao erário que tenha decorrido de ato ilícito, ainda que a malversação do dinheiro público não tenha ensejado ação de improbidade, como é o presente caso.”
+    Intimada, a parte contrária ofertou contrarrazões.
+    Decido.
+    A irresignação não merece prosperar.
+    Com efeito, o acórdão recorrido assim dispôs:
+    “No caso dos autos, verifica-se que o repasse das verbas que originaram o crédito já identificado ocorreu no ano de 2000; e a União só iniciou a cobrança administrativa em novembro de 2007.
+    Transcorridos mais de 05 (cinco) anos entre as datas dos fatos já identificado, vem a tomo a indagação acerca da ocorrência, ou não, da prescrição. Então, vejamos.
+    O art. 37, § 5º da CF/88, dispôs acerca a imprescritibilidade das ações de ressarcimento ao Erário, de créditos decorrentes de ilícitos praticados por qualquer agente, servidor público, ou não.
+    Não é o caso, porém, de se fazer vale tal prerrogativa, haja vista que a cobrança em foco está sendo feita à Municipalidade e, em tal situação, deve ser observado o disposto no art. 1 º, do Decreto 20.910/32, que preceitua, ‘verbis’:
+    ‘Art. 1º As dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda Federal, Estadual ou Municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem.’
+    Sendo assim, computando-se o início do prazo prescricional a partir da inércia da Administração concedente em cumprir as obrigações fixadas na Instrução Normativa nº 01/1997-STN, não há razão para se discordar do que ficou consignado na sentença, ou seja, que prazo prescricional quinquenal se consumou, pois, como já dito, o repasse das verbas que originaram o crédito em debate se deu no ano de 2000, e só em novembro de 2007 a União implementou ações visando a cobrança administrativa do seu crédito.” (fls. 416 e 417)
+    Não merece qualquer reparo o decisum recorrido.
+    O dispositivo constitucional em questão é expresso quanto ao seu alcance subjetivo. Veja-se sua redação:
+    “Art. 37 A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte:
+    (...)
+    § 5º A lei estabelecerá os prazos de prescrição para ilícitos praticados por qualquer agente, servidor ou não, que causem prejuízos ao erário, ressalvadas as respectivas ações de ressarcimento.”
+    Como se vê, a norma do art. 37, § 5º da Constituição Federal – sobre a qual inclusive se controverte no RE nº 852.475/SP-RG, de Relatoria do Ministro Alexandre de Moraes (“prescritibilidade das pretensões de ressarcimento ao erário em face de agentes públicos por ato de improbidade administrativa”) – atinge apenas e tão somente agentes públicos, servidores ou não.
+    A municipalidade não se enquadra em tal categoria, mas sim na dos entes públicos, razão pela qual aplica-se-lhe a regra geral da prescrição quinquenal, prevista no Decreto nº 20.910/32.
+    Não bastasse isso, vê-se do acórdão recorrido que em momento algum houve debate nos autos, produção de provas e tampouco o reconhecimento judicial da prática de atos de improbidade administrativa.
+    Dito isso, rever o entendimento firmado pela Corte a quo quanto à ocorrência ou não de prescrição da pretensão ressarcitória da União em face do município de Jaboatão dos Guararapes demandaria análise da legislação infraconstitucional, bem como reexame de fatos e provas (incidência da Súmula n.º 279/STF), o que não se admite em sede extraordinária. Nesse sentido:
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Administrativo. Negativa de prestação jurisdicional. Não ocorrência. Fazenda pública. Prescrição. Renúncia tácita. Impossibilidade. Discussão. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada (AI nº 791.292-QO-RG, Relator o Ministro Gilmar Mendes). 3. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o exame de ofensa reflexa à Constituição. Incidência da Súmula nº 636/STF. 4. Agravo regimental não provido.” (ARE nº 888.849/DF-ED, Segunda Turma, de minha relatoria, DJe de 20/8/2015).
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. LEI 8.429/92. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.” (RE n.º 578.428/RS-AgR-ED, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 27/9/2013).
+    Ante o exposto, nos termos do art. 21, § 1º do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 27 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
