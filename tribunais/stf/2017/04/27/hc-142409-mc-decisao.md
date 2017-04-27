@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Vara Criminal da Comarca de Carpina/PE, no processo nº 000220-05.2017.8.17.0470, determinou a preventiva dos pacientes, implementada em 14 de março de 2017, ante a alegada prática das infrações previstas nos artigos 90 (fraude à licitação) da Lei nº 8.666/1993, 1º (lavagem de dinheiro) da Lei nº 9.613/1998 e 1º, § 1º (integrar organização criminosa), da Lei nº 12.850/2013. Consignou necessária a custódia para garantir a ordem pública e a econômica e a aplicação da lei penal. Aludiu aos fortes indícios de serem os pacientes autores dos crimes contra a Administração Pública. Fez referência aos prejuízos causados a particulares participantes de licitações. Disse estar o grupo atuando livremente, possuindo valores a receber junto a diversas prefeituras e câmaras de vereadores, sob a forma de empenho, oriundo de processos licitatórios supostamente fraudados.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 393.580/PE, indeferido liminarmente pelo Relator.
+    Os impetrantes sustentam a inidoneidade da motivação do ato mediante o qual imposta a constrição, tendo-a como abstrata. Apontam as condições pessoais favoráveis dos pacientes – bons antecedentes, profissões certas e residências fixas.
+    Requerem, em âmbito liminar, a revogação da preventiva. No mérito, buscam a confirmação da providência.
+    Em consulta ao sítio do Tribunal de Justiça, constatou-se haver sido a denúncia recebida em 11 de abril de 2017.
+    A fase é de apreciação da medida acauteladora.
+    2. A leitura do ato mediante o qual imposta, ainda na fase de inquérito policial, a prisão dos pacientes revela ter sido considerada a imputação. O possível envolvimento em delito não leva à inversão da sequência do processo-crime, que direciona a apurar-se para, selada a culpa, prender-se, em verdadeira execução da pena.
+    O Juízo teceu comentários sobre as supostas infrações, afirmando a existência de grupo criminoso voltado à prática de fraudes em processos licitatórios. Destacou indispensável a custódia, considerada a presença de indícios de continuidade da atuação delituosa, mencionando os elementos de informação obtidos na investigação. Deu ênfase ao modo de execução da infração – por meio de pessoas interpostas e valendo-se de participação de servidores públicos e agentes políticos –, aludindo à necessidade de assegurar campo propício à instrução processual.
+    A generalidade da articulação não permite endosso. Sob o ângulo da garantia da ordem pública e da econômica, descabe partir da capacidade intuitiva acerca da possibilidade de reiteração criminosa, supondo que, soltos, mesmo sob os holofotes do Judiciário, os pacientes prosseguiriam delinquindo. Quanto ao risco à instrução processual, há de reportar-se, obrigatoriamente, a dado concreto. Fora isso é a suposição do excepcional, do extravagante, o que se mostra insuficiente a respaldar a preventiva. A determinação da custódia cautelar deve estar em harmonia com o artigo 312 do Código de Processo Penal.
+    3. Defiro a liminar pleiteada. Expeçam alvarás de solturas a serem cumpridos com as cautelas próprias: caso os pacientes não se encontrem recolhidos por motivo diverso da preventiva formalizada no processo nº 000220-05.2017.8.17.0470, da Vara Criminal da Comarca de Carpina/PE. Advirtam-nos da necessidade de permanecerem com as residências indicadas ao Juízo, atendendo aos chamamentos judiciais, de informarem eventual transferência e de adotarem a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 27 de abril de 2017.
+Ministro MARCO AURÉLIO
+Relator
