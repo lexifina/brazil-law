@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98090, de 18 de abril de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 8419.81.90 Mercadoria: Aparelho para utilização em restaurantes, bares, lanchonetes e churrascarias de médio e grande porte, concebido para a preparação de alimentos, mediante aquecimento e cozimento por exposição ao calor produzido pela queima de carvão, comercialmente denominado "churrasqueira rotativa a carvão com gabinete", constituído por estrutura soldada em tubo de aço carbono pintados em epóxi e revestimento externo em aço inoxidável, com motor elétrico de 1/4 HP e gabinete para acondicionar tijolos refratários, acompanhado de 44 espetos.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.19), RGI 3b (obra constituída pela reunião de artigos diferentes), RGI 6 (texto da subposição 8419.81) e RGC 1 (texto do item 8419.81.90) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+Novo segmento
+[arquivo anexo: SC Cosit nº 98090-2017.pdf]
