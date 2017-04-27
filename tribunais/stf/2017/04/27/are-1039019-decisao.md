@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL E PREVIDENCIÁRIO. TETO DOS BENEFÍCIOS VIGENTE À ÉPOCA. EC Nº 20/98 E EC Nº 41/03. READEQUAÇÃO. DIREITO. 1. As ECs nos 20/98 e 41/03 modificaram os tetos dos benefícios pagos pela Previdência, a partir de suas publicações, para que eles se adequassem ao novo valor, sem determinar o reajuste automático daqueles em manutenção. 2. Dita matéria foi reconhecida como de repercussão geral pelo Col. Supremo Tribunal Federal, nos autos do RE nº 564.354/SE, no bojo do qual se admitiu a aplicação do art. 14 da EC nº 20/98 e do art. 5º da EC nº 41/03 aos benefícios concedidos antes da sua edição.
+    3. Caso em que no cálculo da RMI do benefício que se pretende revisar foi considerado o limite do teto à época da revisão do “buraco negro”, de modo que há que se cogitar de sua readequação aos novos tetos constitucionais.
+    4. Na base de cálculo dos honorários advocatícios, devem ser excluídas as parcelas com vencimento posterior ao julgamento de primeiro grau, a teor da Súmula nº 111 do STJ.
+    5. Remessa oficial parcialmente provida.”
+    Opostos embargos de declaração, não foram providos.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, XXXVI, 97 e 195, § 5º, da Constituição Federal.
+    Decido.
+    Não procede a alegada violação do artigo 97 da Constituição, pois o acórdão recorrido não declarou a inconstitucionalidade de nenhuma lei ou ato normativo, tampouco afastou, no todo ou em parte, sua incidência ao presente caso, limitando-se a interpretar a legislação aplicável ao presente feito.
+    Em tais hipóteses, entende a jurisprudência desta Corte não ocorrer a aludida vulneração. Confira-se:
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. INEXISTÊNCIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE VIOLAÇÃO DA CLÁUSULA DE RESERVA DE PLENÁRIO. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das súmulas nºs. 282 e 356 do Supremo Tribunal Federal. 2. Controvérsia decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. 3. Inviável o recurso extraordinário pela alínea ‘a’, por ofensa ao artigo 97 da CB/88, quando impugna decisão que não declarou a inconstitucionalidade dos textos normativos questionados. Precedentes. Agravo regimental a que se nega provimento” (AI nº 785.709-AgR-AgR/RS, Segunda Turma, Relator o Ministro Eros Grau, DJe de 24/6/10).
+    Por outro lado, o Plenário desta Corte, ao examinar o RE nº 937.595/SP, da relatoria do Ministro Roberto Barroso, reafirmou a orientação jurisprudencial no sentido de que “os benefícios concedidos entre 05.10.1988 e 05.04.1991 (período do buraco negro) não estão, em tese, excluídos da possibilidade de readequação segundo os tetos instituídos pelas EC´s nº 20/1998 e 41/2003, a ser aferida caso a caso, conforme os parâmetros definidos no julgamento do RE 564.354, em regime de repercussão geral”. A manifestação do Relator está assim ementada:
+    “Direito previdenciário. Recurso extraordinário. Readequação de benefício concedido entre 05.10.1988 e 05.04.1991 (buraco negro). Aplicação imediata dos tetos instituídos pelas EC´s nº 20/1998 e 41/2003. Repercussão geral. Reafirmação de jurisprudência.
+    1. Não ofende o ato jurídico perfeito a aplicação imediata dos novos tetos instituídos pelo art. 14 da EC nº 20/1998 e do art. 5º da EC nº 41/2003 no âmbito do regime geral de previdência social (RE 564.354, Rel. Min. Cármen Lúcia, julgado em regime de repercussão geral).
+    2. Não foi determinado nenhum limite temporal no julgamento do RE 564.354. Assim, os benefícios concedidos entre 05.10.1988 e 05.04.1991 (buraco negro) não estão, em tese, excluídos da possibilidade de readequação, segundo os tetos instituídos pelas EC´s nº 20/1998 e 41/2003. O eventual direito a diferenças deve ser aferido caso a caso, conforme os parâmetros já definidos no julgamento do RE 564.354.
+    3. Repercussão geral reconhecida, com reafirmação de jurisprudência, para assentar a seguinte tese: “os benefícios concedidos entre 05.10.1988 e 05.04.1991 (período do buraco negro) não estão, em tese, excluídos da possibilidade de readequação segundo os tetos instituídos pelas EC´s nº 20/1998 e 41/2003, a ser aferida caso a caso, conforme os parâmetros definidos no julgamento do RE 564.354, em regime de repercussão geral” (julgado em 3/2/17).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 27 de abril de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
