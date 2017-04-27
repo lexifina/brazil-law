@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão da Turma Recursal de Juizados Especiais do Estado de São Paulo, assim ementado:
+    “QUEIXA-CRIME POR INFRAÇÃO AO ARTIGO 163, CAPUT DO CÓDIGO PENAL SENTENÇA ABSOLUTÓRIA, FUNDAMENTADA NO ARTIGO 386, III, DO CÓDIGO DE PROCESSO PENAL (AUSÊNCIA DE COMPROVAÇÃO DA MATERIALIDADE DELITIVA, UMA VEZ QUE NÃO FOI JUNTADO AOS AUTOS LAUDO PERICIAL COMPROVANDO A MATERIALIDADE DELITIVA E AUSÊNCIA DE COMPROVAÇÃO DO DOLO DE DANO, O QUE AFASTA A TIPICIDADE DO FATO DESCRITO) – INDISPENSÁVEL A REALIZAÇÃO DO EXAME DE CORPO DE DELITO POR ÓRGÃO ESTATAL COMPETENTE, NÃO PODENDO SER SUPRIDO POR OUTROS MEIOS DE PROVA UNILATERALMENTE PRODUZIDOS PELA PARTE – DOLO DE DANO NÃO COMPROVADO, CONFORME BEM FUNDAMENTADO PELO ILUSTRE E CULTO JULGADOR MONOCRÁTICO - RECURSO DO QUERELANTE IMPROVIDO – SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIV, LV e XXXV, da Constituição. Sustenta que, “em face da ausência de exame de corpo de delito, que “supostamente” deveria te sido providenciado pelo Recorrente, foram ignorados elementos de provas legítimos à confirmação da materialidade”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Cabe ressaltar que não foram ofendidas as garantias da inafastabilidade do controle jurisdicional, do devido processo legal, do contraditório e da ampla defesa, uma vez que a parte recorrente teve acesso a todos os meios de impugnação previstos na legislação processual, havendo o acórdão recorrido examinado todos os argumentos e fundamentado suas conclusões de forma satisfatória.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de abril de 2017.
+Ministro Luís Roberto Barroso
+Relator
