@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98098, de 19 de abril de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8473.30.41 Mercadoria: Placa de circuito impresso com componentes elétricos e eletrônicos, montados, contendo microprocessador Mediatek Cortex-A7 MT8312 de 1,3 GHz (CPU), “chipset”, circuito de memória DDR3L, rede integrada 3G GSM+WDCMA, controladores de dispositivos periféricos, conectores de barramento, própria para interconectar os componentes que formam uma máquina automática para processamento de dados tipo “tablet”, comercialmente denominada placa-mãe.
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 b) da Seção XVI e texto da posição 84.73), RGI 6 (texto da subposição 8473.30) e RGC 1 (textos do item 8473.30.4 e do subitem 8473.30.41) constantes da TEC aprovada pela Res. Camex nº 125, de 2016, e da Tipi aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores
+[arquivo anexo: SC Cosit nº 98098-2017.pdf]
