@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. DESISTÊNCIA. CONTROVÉRSIA QUANTO AO MONTANTE DOS HONORÁRIOS ADVOCATÍCIOS. OFENSA AO ARTIGO 5º, XXXV, DA CONSTITUIÇÃO. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “SENTENÇA QUE HOMOLOGA DESISTÊNCIA DA AÇÃO E FIXA VALOR DOS HONORÁRIOS ADVOCATÍCIOS - APELAÇÃO - PRETENSÃO DA APELANTE NO SENTIDO DA DIMINUIÇÃO DA VERBA FIXADA - VALOR DOS HONORÁRIOS FIXADO DE ACORDO COM OS PARÂMETROS LEGAIS E DA JURISPRUDÊNCIA - NEGADO PROVIMENTO AO RECURSO.” (doc. 20, fls. 16)
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, a parte recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 5º, XXXV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a alegada ofensa à Constituição Federal não teria sido prequestionadas.
+    É o Relatório. DECIDO.
+    O recurso não merece provimento.
+    Com efeito, não prospera o argumento de que restou caracterizada a negativa de prestação jurisdicional, tendo em vista que o Tribunal a quo apreciou as questões apresentadas nos autos, embora de forma contrária aos interesses da parte recorrente. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. 2. ADMINISTRATIVO. 3. ALEGAÇÃO DE AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. DECISÃO FUNDAMENTADA, EMBORA CONTRÁRIA AOS INTERESSES DA PARTE, NÃO CONFIGURA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRECEDENTE: AIQO- RG 791.292 DE MINHA RELATORIA, DJE 13.8.2010. 4. AFRONTA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO, SE DEPENDENTE DO REEXAME PRÉVIO DE NORMAS INFRACONSTITUCIONAIS, CONFIGURA OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL, O QUE INVIABILIZA O PROCESSAMENTO DO RECURSO EXTRAORDINÁRIO. 5. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. ENUNCIADO 636 DA SÚMULA DESTA CORTE. 6. AUSÊNCIA DE ARGUMENTOS SUFICIENTES PARA INFIRMAR A DECISÃO RECORRIDA. 4. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 740.877-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 4/6/2013)
+    Ademais, o Plenário deste Tribunal, no julgamento do AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Plenário, DJe de 13/8/2010, Tema 339 da Repercussão Geral, reafirmou a jurisprudência da Corte no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível, no entanto, que o decisum se funde na tese suscitada pela parte. O julgado restou assim ementado:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de abril de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
