@@ -1,0 +1,17 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+PRISÃO PREVENTIVA – EXCESSO DE PRAZO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Terceira Vara do Júri do Foro Central Criminal da Comarca de São Paulo/SP, no processo nº 0000649-18.2014.8.26.0052, determinou a prisão preventiva do paciente, ocorrida em 29 de julho de 2016, ante o suposto cometimento da infração descrita no artigo 121, § 2º, incisos I, III e IV (homicídio qualificado por motivo torpe, de forma cruel e com meio que impossibilitou a defesa do ofendido), cumulado com o 29 (concurso de pessoas), do Código Penal. Consignou necessária a constrição para garantia da ordem pública e da aplicação da lei penal, reportando-se à gravidade do delito, à periculosidade do paciente e ao fato de ter deixado o distrito da culpa. Não acolheu pedido de revogação da custódia.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 385.909/SP, o qual teve a ordem indeferida pela Sexta Turma.
+    Os impetrantes apontam a inidoneidade da fundamentação do ato que implicou a segregação provisória, tendo-a como lastreada na gravidade abstrata do crime. Destacam o caráter excepcional da prisão cautelar. Articulam com as condições pessoais favoráveis do paciente – primariedade, bons antecedentes, ocupação lícita e residência fixa. Dizem viável a imposição de cautelar diversa.
+    Requerem, no campo precário e efêmero, a revogação da preventiva, com aplicação de medida alternativa prevista no artigo 319 do Código de Processo Penal. No mérito, buscam a confirmação da providência.
+    A fase é de exame da liminar.
+    2. O Juízo considerou a gravidade concreta da imputação para assentar a periculosidade. Inexiste a constrição automática tendo em conta o delito supostamente cometido, levando à inversão da ordem do processo-crime, que direciona, presente o princípio da não culpabilidade, a apurar-se para, selada a culpa, prender-se, em verdadeira execução da pena. Reiterados são os pronunciamentos do Supremo sobre a impossibilidade de potencializar a infração versada no processo. Quanto ao risco à aplicação da lei penal, há de reportar-se, obrigatoriamente, a certo dado. Fora isso é a suposição do excepcional, do extravagante. A questão atinente à apontada fuga do paciente encontra solução no artigo 366 do Código de Processo Penal. Ainda que, citado por edital, o acusado não constitua defesa técnica, as consequências são apenas a suspensão do processo e do prazo prescricional, devendo a preventiva balizar-se no artigo 312 dele constante. A par disso, o paciente está preso, sem culpa formada, há 8 meses e 28 dias. Tem-se a insubsistência das premissas lançadas e o excesso de prazo da segregação.
+    3. Defiro a liminar pleiteada. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja recolhido por motivo diverso da preventiva formalizada no processo nº 0000649-18.2014.8.26.0052, da Terceira Vara do Júri do Foro Central Criminal da Comarca de São Paulo/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 28 de abril de 2017.
+Ministro MARCO AURÉLIO
+Relator
