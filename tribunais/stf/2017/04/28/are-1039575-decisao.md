@@ -1,0 +1,21 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Bruno Holtz Salem Cerqueira contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. Responsabilidade civil. Plano de saúde. Autor alega ter sofrido danos morais em decorrência de sua exclusão de plano de saúde. Dano moral. Inocorrência. Suposto descumprimento contratual. Não verificação de violação à dignidade da pessoa humana, ou a qualquer interesse integrante da esfera de direitos e interesses da esfera extrapatrimonial do autor. Sentença mantida. Recurso improvido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 1º, II, III, IV, 5º, “caput”, V, X, XXXII, e 170, todos da Constituição da República.
+    Cumpre ressaltar, desde logo, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios:
+    “Em que pese o dissabor sofrido pelo autor, não se pode afirmar que o suposto descumprimento do contrato pela ré mostrou-se suficiente para caracterizar o seu abalo psíquico, sua aflição espiritual, humilhação, de modo que seria equivocado afirmar a existência do dano moral. Esse é, aliás, o entendimento da melhor doutrina:
+    …........................................................................................
+    Ademais, não há nos autos a demonstração de fatos pontuais e concretos que possam assegurar ter sido vilipendiada a dignidade do autor ou lhe causado sofrimento psíquico efetivo.
+    E não se pode olvidar que o puro e simples descumprimento de deveres contratuais não autoriza, automaticamente, o reconhecimento de dano moral, resolvendo-se as situações e os eventos no âmbito exclusivamente patrimonial, consoante já reconheceu o Superior Tribunal de Justiça (REsp 151.322-RS, Terceira Turma, Relator Ministro Ari Pargendler, DJ 02.12.02, p.303).”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impõe-se observar, ainda, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 642.062-AgR/RJ, Rel. Min. ELLEN GRACIE – ARE 707.467-AgR/SP, Rel. Min. ROBERTO BARROSO – ARE 815.460-AgR/RJ, Rel. Min. LUIZ FUX, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. PLANO DE SAÚDE. COBERTURA CONTRATUAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. NECESSIDADE DE REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (ARE 734.806-AgR/SP, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 28 de abril de 2017.
+Ministro CELSO DE MELLO
+Relator
