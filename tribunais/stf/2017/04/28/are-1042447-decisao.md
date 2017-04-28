@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Sergipe, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – PENSÃO POR MORTE – FATOR GERADOR: MORTE – MORTE DO SEGURADO QUANDO AINDA ESTAVA EM VIGOR A LEI COMPLEMENTAR 113/2005 – PRINCÍPIO DO “TEMPUS REGE ACTUS” - LIMITE DE 24 ANOS PARA BENEFICIÁRIO – JURISPRUDÊNCIA DESTA CORTE – MANUTENÇÃO DA SENTENÇA – RECURSO CONHECIDO E IMPROVIDO - D E C I S Ã O UNÂNIME.” (eDOC 3, p. 47)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 24, XII, 195, § 5º, do texto constitucional. (eDOC 3, p. 76)
+    Nas razões recursais, alega-se que o recorrido não faz jus ao recebimento de pensão por morte até os 24 anos de idade. Aduz que ao tratar como dependente o filho universitário sem rendimentos entre 21 e 24 anos, a legislação estadual instituiu benefício não previsto no Regime Geral de Previdência Social, violando, assim, o art. 5º da Lei nº 9.717/98 e invadindo a competência da União para legislar sobre normas gerais de Direito Previdenciário.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Complementar Estadual 113/2005), consignou que consignou que o recorrido, matriculado em curso universitário, faria jus à pensão por morte até completar 24 anos.
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “É incontroverso que o fato gerador do direito à pensão é a morte do servidor em atividade ou a do servidor aposentado, sendo beneficiários os integrantes de sua família.
+    O Superior Tribunal de Justiça possui a seguinte súmula sobre o assunto:
+    “Súmula 340 - A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado”.
+    Segundo aludida súmula, o direito a pensão nasce no momento em que são cumpridos os requisitos legais, sobretudo seu fato gerador, que é a morte do servidor, antes dela há apenas expectativa de direito.
+    In casu, quando da morte do genitor do impetrante, em 2010, vigorava a lei complementar 113/2005, com o seguinte dispositivo:
+    “Art. 12. Consideram-se dependentes dos segurados, qualificados como beneficiários do RPPS/SE, exclusivamente, os seguintes: … II - filho, ou equiparado, até 24 (vinte e quatro) anos de idade, se aluno do ensino superior, e sem rendimentos;”
+    (…) Deste modo, denota-se que o impetrante tem direito ao restabelecimento da sua pensão, vez que como demonstrado nos autos, está cursando ensino superior e ainda não completou 24 anos de idade.” (eDOC 3, p. 49-51)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PENSÃO POR MORTE. REGÊNCIA. LEGISLAÇÃO VIGENTE À DATA DO ÓBITO DO INSTITUIDOR. PRECEDENTES. PRORROGAÇÃO DO BENEFÍCIO. LIMITE DE IDADE. MATÉRIA INFRACONSTITUCIONAL. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. 1. A pensão por morte rege-se pela legislação em vigor na data do óbito do instituidor do benefício. Precedentes (…) . 2. A pensão por morte, quando sub judice a controvérsia sobre a sua prorrogação em face do limite de idade, demanda a análise da legislação infraconstitucional aplicável à espécie. Precedentes (...). 3. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional local, torna inadmissível o recurso extraordinário, a teor do Enunciado da Súmula 280 do Supremo Tribunal Federal, verbis: “Por ofensa a direito local não cabe recurso extraordinário”. 4. (...) 5. Agravo regimental DESPROVIDO”. (ARE 833.446 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 14.11.2014)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO. PENSÃO POR MORTE. BENEFICIÁRIO MAIOR DE 21 ANOS DE IDADE. CONCESSÃO DE BENEFÍCIO COM BASE NA LEI ESTADUAL 7.551/77 E NA LEI COMPLEMENTAR 43/02. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. AGRAVO REGIMENTAL IMPROVIDO. I - O Tribunal de origem dirimiu a matéria com fundamento na análise da legislação local pertinente (Lei estadual 7.551/77 e Lei Complementar 43/02), o que torna inviável o recurso, nos termos da Súmula 280 do STF. II - Agravo regimental improvido”. ( AI 854.196 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 21.08.2013)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de abril de 2017.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
