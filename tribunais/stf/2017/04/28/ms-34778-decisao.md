@@ -1,0 +1,29 @@
+Decisão: Trata-se de mandado de segurança, impetrado no dia 27.04.2017, às 23h53min, pelo Departamento Estadual de Trânsito – DETRAN do Estado do Acre, em face de ato praticado pelo Presidente do Conselho Nacional de Trânsito, que consiste na edição de duas Resoluções do Conselho Nacional de Trânsito – CONTRAN que vedam a possibilidade de parcelamento de multas de trânsito.
+    Primeiramente, narra ter impetrado um mandado de segurança junto ao Juízo de 1ª instância do Tribunal de Justiça do Estado do Acre, o qual declinara de sua competência, por entender tratar-se de conflito federativo, sendo competente o Supremo Tribunal Federal, nos termos do art. 102, I, “f” da Constituição Federal. Contudo, alegando atraso na remessa do primeiro feito a esta Corte, bem como necessidade de apreciação da medida liminar até a data de 30.04.2017, impetrou o presente mandamus.
+    Narra o Impetrante que a Lei Estadual nº 1.320/1999 autoriza o parcelamento de multas de trânsito naquilo que consistir competência arrecadadora do DETRAN/AC. Contudo, sustenta que o CONTRAN editou as Resoluções nº 619/2016 e 622/2016, proibindo o parcelamento das multas de trânsito. Ainda, alega que a Resolução nº 637/2016 conferiu aos órgãos de trânsito estaduais prazo até 30.04.2017 para a integração ao sistema RENAINF – Registro Nacional de Infrações de Trânsito, suscitando que a medida causará grandes prejuízos aos contribuintes estaduais, pois os parcelamentos concedidos com base da Lei Estadual citada não poderão ser lançados nesse sistema.
+    Sustenta conflito entre a lei estadual, que jamais fora objeto de declaração de inconstitucionalidade, e as resoluções do CONTRAN, requerendo, desta feita, o afastamento da incidência do art. 23, §3º da Resolução nº 619/2016 e do art. 8º, §4º da resolução nº 622/2016, tanto em sede cautelar como no mérito.
+    Eis o relatório.
+    Decido.
+    O presente feito foi concluso a este gabinete em 28.04.2017, às 16h23min.
+    A impetração do presente mandado de segurança não observou o prazo decadencial imposto pela lei.
+    De fato, analisando-se os documentos juntados, depreende-se inequívoca a decadência do direito alegado, a impedir a apreciação do feito pela presente via, pois ultrapassado o prazo de 120 dias da data do conhecimento do ato impugnado, conforme preconiza o artigo 23 da Lei nº 12.016/2009.
+    A controvérsia ora em apreço resume-se à impugnação dos atos normativos do Conselho Nacional de Trânsito que impedem o parcelamento das multas de trânsito, prática essa prevista na legislação estadual do Acre.
+    Referida vedação está contida na Resolução CONTRAN nº 619, publicada em 08 de setembro de 2016, que no art. 23, §3º traz a seguinte previsão:
+    “Art. 23. Os órgãos e entidades executivos de trânsito e executivos rodoviários dos Estados, do Distrito Federal e dos Municípios, integrantes do Sistema Nacional de Trânsito – SNT, para arrecadarem multas de trânsito de sua competência ou de terceiros, deverão utilizar o documento próprio de arrecadação de multas de trânsito estabelecido pelo DENATRAN, com vistas a garantir o repasse automático dos valores relativos ao FUNSET.
+    (…)
+    § 3º Não é permitido o parcelamento de multas de trânsito.”
+    Por sua vez, a Resolução CONTRAN nº 622, também publicada em 08 de setembro de 2016, ao estabelecer o Sistema de Notificação Eletrônica, prevê a impossibilidade de parcelamento das multas, no seguinte dispositivo:
+    “Art. 8º Os órgãos e entidades integrantes do SNT, para arrecadarem multas de trânsito de sua competência ou de terceiros, por meio do Sistema de Notificação Eletrônica, deverão utilizar o documento próprio de arrecadação de multas de trânsito estabelecido pelo DENATRAN, com vistas a garantir o repasse automático dos valores relativos ao Fundo Nacional de Segurança e Educação de Trânsito - FUNSET.
+    (…)
+    § 4º O Sistema de Notificação Eletrônica não permitirá o parcelamento das multas de trânsito.”
+    Logo, em se considerando a data da impetração do presente mandamus, em 27.04.2017 – e mesmo que se considere válida a data da impetração de writ com semelhante pedido perante a Vara Federal do Acre, o que ocorreu em 13.04.2017 (eDOC 17) – o prazo decadencial de 120 dias operou-se em janeiro de 2017, o que impossibilita o prosseguimento do feito.
+    E nem se alegue que a Resolução CONTRAN nº 637, de 30 de novembro de 2016, teria o condão de lastrear eventual início do prazo para a impetração de mandado de segurança. A uma, porque também em relação a ela já transcorreram mais de 120 dias, prazo este vencido em 30.03.2017. A duas, porque ela apenas prevê o dies ad quem para a integração dos órgãos estaduais ao Registro Nacional de Infrações de Trânsito, nos seguintes termos:
+    “Art. 13. Os órgãos e entidades executivos de trânsito dos Estados e do Distrito Federal deverão integrar-se ao RENAINF para registro de todas as infrações de trânsito, das suas respectivas penalidades e arrecadação, bem como da pontuação delas decorrentes, até 30 de abril de 2017.”
+    Logo, os atos do CONTRAN que, efetivamente, vedaram o parcelamento das multas de trânsito consiste nas Resolução nº 619 e 622, acima transcritas, advindo daí a obrigação de adequação dos órgãos de trânsito estaduais às normativas do órgão federal, e não da Resolução nº 637/2016, que nada dispõe acerca do tema, mas apenas estabelece prazo final para a integração dos sistemas de trânsito, nos termos do art. 19, XXX do Código de Trânsito Brasileiro.
+    Assim, ultrapassado o prazo de 120 dias para impugnação do ato apontado como coator, pela estreita via do mandado de segurança, com fundamento no artigo 23 da Lei nº 12.016/2009, declaro a decadência do direito do Impetrante de impugnar o conteúdo das Resoluções CONTRAN nº 619 e 622, de 08 de setembro de 2016.
+    Publique-se.
+    Intime-se.
+    Brasília, 28 de abril de 2017, às 18h59min.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
