@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – PRECEDENTES DO COLEGIADO MAIOR – BENEFÍCIO PREVIDENCIÁRIO – MAJORAÇÃO – INEXISTÊNCIA DE NORMA RETROATIVA – SEGURANÇA JURÍDICA E PRINCÍPIO ATUARIAL – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à improcedência do pedido de revisão do benefício previdenciário, concedido em 02/05/1988, mediante a aplicação das Leis nº 8.213/91 e nº 9.032/95. No extraordinário o recorrente aponta violado o artigo 201, § 1º, § 4º, e § 8º, da Constituição Federal. Insiste no direito pleiteado, sustentando ter o decidido implicado a contrariedade à legislação de regência.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    O tema versado nas razões recursais foi objeto de exame na sessão do Plenário de 8 de fevereiro de 2007 – recursos extraordinários nº 415.454-4/SC e nº 416.827-8/SC. Na assentada seguinte, ocorreu o julgamento em massa de milhares de recursos, ficando ratificada, com ressalva de entendimento dos vencidos na apreciação primeira, a óptica prevalecente. Em síntese, veio a ser reconhecida a impossibilidade de emprestar às Leis nº 8.213/91 e nº 9.032/95, no que resultaram na majoração de benefícios, interpretação a alcançar situações jurídicas formalizadas e aperfeiçoadas anteriormente. Levaram-se em conta a segurança jurídica e o princípio atuarial regedor do sistema previdenciário. Na oportunidade, os sucumbentes acabaram desobrigados da satisfação dos honorários advocatícios.
+    No julgamento da questão de ordem no recurso extraordinário nº 597.389/SP, o Tribunal, por unanimidade, admitiu a repercussão geral da questão constitucional aqui analisada e reafirmou esse entendimento.
+    3. Em face do precedente, conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a inércia da parte agravada em apresentar contraminuta ao agravo.
+    4. Publiquem.
+Brasília, 28 de abril de 2017.
+Ministro MARCO AURÉLIO
+Relator
