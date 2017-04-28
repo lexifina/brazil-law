@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE RURAL. CONTRIBUIÇÕES PREVIDENCIÁRIAS EM ATRASO. INDENIZAÇÃO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que afastou a incidência de juros e multa de mora sobre a indenização das contribuições a serem pagas para fins de averbação de tempo de trabalho rural, por entender que a norma prevista no artigo 45, § 2º, da Lei 8.212/1991, introduzida pela Medida Provisória 1.523/1996, posteriormente convertida na Lei 9.528/1997, não seria aplicável para períodos de labor pretéritos.
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXVI, 195 e 201, § 1º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da Constituição Federal).
+    Não merece prosperar o agravo.
+    Para dissentir do que decido pelo Tribunal a quo seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Leis 8.212/1991 e Medida provisória 1.523/1996), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido foram as decisões proferidas em casos análogos: RE 846.203, Rel. Min. Dias Toffoli, DJe de 21/8/2015, RE 829.052, Rel. Min. Gilmar Mendes, DJe de 25/2/2016, e RE 933.585, Rel. Min. Edson Fachin, DJe de 1º/2/2016, e do AI 594.419-AgR, da Relatoria do Ministro Gilmar Mendes, DJe de 27/2/2013, assim ementada:
+    “Agravo regimental em agravo de instrumento. 2. Direito Tributário. Recolhimento de contribuições em atraso. Certidão de tempo de serviço. Aposentadoria. Juros e multa. 3. O Tribunal de origem, interpretando legislação infraconstitucional e examinando acervo probatório, consignou que seriam indevidos os juros e a multa previstos no art. 45, § 4º, da Lei 8.212/91. 4. Acórdão recorrido não declarou a inconstitucionalidade de norma, nem afastou sua aplicação. Ausência de violação ao art. 97 da Constituição Federal. 5. Agravo regimental a que se nega provimento.”
+    Por fim, observo que o agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 28 de abril de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
