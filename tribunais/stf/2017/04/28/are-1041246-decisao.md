@@ -1,0 +1,34 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME AMBIENTAL. PICHAÇÃO. ARTIGO 65 DA LEI 9.605/1998. ALEGADA OFENSA AO ARTIGO 5º, LV, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma da decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou em síntese:
+    “(...) A decisão recorrida fez correta análise das provas apresentadas em juízo, concluindo que o recorrente foi o responsável pelas pichações. Houve confissão judicial corroborada por prova testemunhal e documental.
+    O delito imputado não exige prova técnica, podendo ser demonstrado por outros elementos de prova.
+    Não há se falar em atipicidade da conduta. A pichação é prevista como conduta ilícita e independe da intenção do autor, de produzir arte ou dano. Ademais, na hipótese, houve confissão no sentido de que as pichações decorreram da revolta do recorrente por ter permanecido preso (178).
+    A sentença fez correta análise das circunstâncias judiciais, sendo operada substituição da pena privativa de liberdade por restritiva de direito. A pena de multa é consequência da condenação porquanto prevista cumulativamente sua aplicação com a privativa de liberdade.
+    A condição econômica se presta à fixação do valor do dia multa e não para isenção de seu pagamento. O mesmo ocorre com a reparação determinada pelo artigo 20 da Lei 9.605/98 que, no caso dos autos, foi fixada com parâmetros fornecidos pelas vítimas.
+    Ante ao exposto, dou provimento ao recurso tão somente para concessão da assistência judiciária gratuita, mantendo a sentença quanto aos demais termos por seus próprios e jurídicos fundamentos.” (doc. 2, fls. 53-54)
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 5º, LV, da Constituição Federal.
+    Argumenta que não houve “manifestação nos autos sobre o pedido da defesa de adiamento da sessão de julgamento realizado no dia 30/11/2014.” Aduz que “a ausência de decisão sobre o referido pedido caracteriza-se como cerceamento de defesa, violando o artigo 5º, LV da CR.” (doc. 2, fl. 101)
+    O Tribunal a quo negou seguimento ao apelo extremo por entender ausente a preliminar de repercussão geral, bem como porque as alegações encontram óbice na Súmula 279 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (artigo 102, § 3º, da Constituição Federal).
+    A jurisprudência desta Corte é uníssona no sentido de que a verificação de ofensa aos princípios da legalidade, do livre acesso à justiça, do devido processo legal, da ampla defesa, do contraditório e da motivação das decisões judiciais, bem como aos limites da coisa julgada, quando dependente do reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Nesse sentido, os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Constitucional. Processual Penal. Indeferimento de diligência probatória. Cerceamento de defesa (CF, art. 5º, incisos LIV e LV). Ofensa indireta ou reflexa à Constituição Federal. Ausência de repercussão geral reconhecida. Precedentes. Agravo regimental não provido.
+    1. Está consolidado na Corte o entendimento de que ‘não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.
+    2. Agravo regimental a que se nega provimento.” (ARE 830.699-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 12/02/2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO CRIMINAL. APELAÇÃO. IMPEDIMENTO DE UM DOS INTEGRANTES DA CORTE. DECLARAÇÃO DE NULIDADE TÃO SÓ DO JULGAMENTO. CONVALIDAÇÃO DOS ATOS INSTRUTÓRIOS. MATÉRIA AFETA À INTERPRETAÇÃO DE DISPOSITIVOS DO PROCESSO PENAL. MILITAR. OFENSA INDIRETA A PRECEITO CONSTITUCIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta.
+    II – A alegada afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa.
+    III – Agravo regimental a que se nega provimento.” (RE 669.427-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 09/12/2013)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 5º, INCISOS LIV E LV. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA STF Nº 279. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. INQUÉRITO. CONFIRMAÇÃO EM JUÍZO DOS TESTEMUNHOS PRESTADOS NA FASE INQUISITORIAL.
+    1. A suposta ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa passa, necessariamente, pelo prévio reexame de fatos e provas, tarefa que encontra óbice na Súmula STF nº 279.
+    2. Inviável o processamento do extraordinário para debater matéria infraconstitucional, sob o argumento de violação ao disposto nos incisos LIV e LV do art. 5º da Constituição.
+    3. Ao contrário do que alegado pelos ora agravantes, o conjunto probatório que ensejou a condenação dos recorrentes não vem embasado apenas nas declarações prestadas em sede policial, tendo suporte, também, em outras provas colhidas na fase judicial . Confirmação em juízo dos testemunhos prestados na fase inquisitorial.
+    4. Os elementos do inquérito podem influir na formação do livre convencimento do juiz para a decisão da causa quando complementam outros indícios e provas que passam pelo crivo do contraditório em juízo.
+    5. Agravo regimental improvido.” (RE 425.734-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ de 28/10/2005)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de abril de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
