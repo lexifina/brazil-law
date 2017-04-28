@@ -1,0 +1,17 @@
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INOCORRÊNCIA DE ERRO MATERIAL. MANIFESTO INTUITO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.
+    Decisão: Trata-se de embargos de declaração, opostos por Claudia Cirlene de Oliveira e outros, contra decisão de minha relatoria e assim ementada, verbis:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. EDITAL. CRITÉRIOS DE PONTUAÇÃO. SERVIDORES QUE PRESTAVAM SERVIÇO AO ENTE. PONTUAÇÃO DIFERENCIADA. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. AGRAVO DESPROVIDO. ”
+    Em suas razões, a parte embargante aduz que sua insurgência visa a “sanar omissão, posto que ela deixou de analisar fundamento essencial para o adequado deslinde do feito a existência de omissão quanto ao fato”.
+    É o relatório. Decido.
+    Não merecem acolhida as pretensões da parte embargante.
+    Ab initio, pontuo que os embargos de declaração opostos contra decisão do relator serão decididos monocraticamente, nos termos do artigo 1.024, § 2º, do CPC/2015, in verbis: “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente”.
+    Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição ou omissão e para corrigir erro material, consoante dispõe o artigo 1.022 do CPC/2015.
+    De fato, necessário salientar que a omissão apta a atrair a incidência dos embargos de declaração só se manifesta quando há tópico juridicamente relevante no pedido que não tenha sido apreciado. Sobre o conceito de omissão, relevante citar Pontes de Miranda (Comentários ao Código de Processo Civil, Tomo VII, 3ª ed. Rio de Janeiro, Forense, 2002, p. 322), para quem a omissão supõe que algo tenha estado na petição, ou na contestação, ou em embargos, ou em qualquer ato de declaração de conhecimento ou de vontade, a que o juiz tinha de dar solução, e tenha deixado de atender”. (grifo próprio).
+    In casu, não se constata nenhuma das hipóteses ensejadoras dos embargos de declaração, eis que a decisão impugnada apreciou devidamente as questões suscitadas no recurso. Ademais, o requerimento postulado pelos embargantes demandaria verdadeira reanálise do recurso desprovido, providência ora incabível.
+    Com efeito, as partes revelam intuito de tão somente rediscutir os argumentos já refutados pela decisão anterior, pelo que os presentes embargos revelam-se manifestamente incabíveis, notadamente em função do caráter protelatório. Destarte, impõe-se a aplicação da multa prevista no § 2º do artigo 1.026 do Código de Processo Civil de 2015, a qual fixo em 2% (dois por cento) do valor corrigido da causa (precedentes: RE 881.274-AgR-ED, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 17/5/2016; ARE 812.859-AgR-ED, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 17/12/2015; RE 284.969-AgR-ED, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 29/10/2015).
+    Ex positis, DESPROVEJO os embargos de declaração e APLICO  às partes embargantes a multa de 2% (dois por cento) sobre o valor da causa (artigo 1.026, § 2º, do CPC/2015).
+    Publique-se.
+    Brasília, 28 de abril de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
