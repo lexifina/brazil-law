@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LOCAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Sul, reformando parcialmente o entendimento do Juízo, assentou a procedência do pedido de pagamento do triênio, nos termos da legislação de regência. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violado o artigo 37, inciso XIV, da Constituição Federal. Afirma a impossibilidade de percepção de vantagens distintas decorrentes do mesmo fundamento. Discorre sobre a ausência de direito ao triênio, eis que a servidora já recebe o adicional de classe, decorrente também do transcurso de tempo. Alude à vedação do efeito cascata.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    O Município nega que referida lei alcance o magistério público municipal, tendo em vista ser-lhes aplicável regra específica, qual seja, a Lei Complementar Municipal nº 001/95.
+    Analisando a LCM 001/95 – Plano de Carreira do Magistério Público Municipal – constata-se que não há previsão de concessão de avanços trienais aos professores públicos municipais (fls. 104-112).
+    E ao analisar-se o Estatuto dos Servidores – que entrou em vigor posteriormente ao plano de carreira dos professores municipais – verifica-se que não só há previsão de pagamento do avanço trienal, como também há regra clara de que suas disposições alcançam o plano de carreira do magistério.
+    […]
+    Portanto, diversamente do que alega o Município, não há regra específica destinada aos professores municipais acerca do avanço trienal, de modo que se aplica, sim, a regra geral prevista na LCM 006/2000. Não há sobreposição de norma específica sobre norma geral, no caso concreto.
+    Ademais, registro que a LCM nº 006/2000 não faz distinção quanto à data em que o servidor ingressou nos quadros do Município, de modo que a alegação do demandado de que aqueles que tomaram posse até 2005 são regidos apenas pela LCM 001/95 não encontra amparo legal.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação das Leis Complementares municipais nº 001/95 e 006/2000. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação dos honorários advocatícios no patamar de 5% sobre o valor da condenação, fixo os honorários recursais em 2,5%, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 28 de abril de 2017.
+Ministro MARCO AURÉLIO
+Relator
