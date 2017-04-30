@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado (eDOC 02, p. 385):
+    APELAÇÃO CRIMINAL – LATROCÍNIO – MATERIALIDADE E AUTORIA COMPROVADAS – CONFISSÃO DOS ACUSADOS E MÚTUAS DELAÇÕES EM CONSONÂNCIA COM OS DEMAIS ELEMENTOS DE PROVA – AMPLO CONJUNTO PROBATÓRIO – CONDENAÇÕES MANTIDAS – RECURSOS IMPROVIDOS – DECISÃO UNÂNIME. I – A confissão dos réus, seja ela judicial ou extrajudicial, aliada às mútuas delações e sustentada pelos demais indícios, serve perfeitamente como base para se definir a autoria do delito e, assim, afastar a tese absolutória de ausência de provas. II – Assim como não se questiona o direito do réu de se retratar em juízo, também não se pode impedir o julgador de acolher sua confissão extrajudicial, harmônica e coerente com a prova material e testemunhal produzida. III – Recursos improvidos. Decisão unânime.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se violação ao art. 5º, LIV, LV, LVII e LXVI, da CF. Alega-se que o magistrado inverteu regras de valorização da prova ao atribuir valor excessivo à confissão extrajudicial, que posteriormente foi retratada e restou isolada do acervo probatório dos autos.
+    Busca-se, em suma, a absolvição dos recorrentes por insuficiência probatória.
+    A Primeira Vice-Presidência do TJPE aplicou o tema 660 de repercussão geral, quanto ao art. 5º, LIV e LV, da CF, e, no mais, inadmitiu o recurso por configurar ofensa reflexa à CF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Observo que o recorrente não se desincumbiu do ônus de fundamentar suficientemente a preliminar de repercussão geral.
+    A preliminar de repercussão geral é pressuposto de admissibilidade do recurso extraordinário (art. 543-A, § 2º, do CPC de 1973, vigente à época de interposição do recurso). Trata-se de requisito formal exigido quando a intimação do acórdão recorrido for posterior a 03.05.2007, data da publicação da Emenda Regimental 21 do STF, o que ocorre no presente caso (AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 06.09.2007).
+    Alegações vagas e genéricas acerca da transcendência subjetiva da demanda, por si só, não cumprem o preconizado no art. 543-A do CPC, à luz da função de Corte Constitucional desempenhada pelo Supremo Tribunal Federal.
+    Ainda que fosse possível superar tal óbice processual, esta Suprema Corte já assentou, sob a sistemática da repercussão geral, que não há ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    Confira-se, a propósito, a ementa do ARE-RG 748.371, de relatoria do ministro Gilmar Mendes, DJe de 1º.08.2013:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Com efeito, no caso concreto, todas as questões suscitadas neste recurso foram decididas pelo TJPE à luz dos Códigos Penal e Processual Penal e com base no conjunto fático-probatório dos autos. De tal modo, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos, provas e da legislação aplicada à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF e a caracterização de ofensa meramente reflexa à CF.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de abril de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
