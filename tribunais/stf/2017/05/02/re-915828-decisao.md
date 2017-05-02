@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “DIREITO TRIBUTÁRIO. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO IPI. LEGALIDADE E CONSTITUCIONALIDADE. APELO IMPROVIDO.
+    1. A Constituição Federal não cuidou do fato gerador do IPI, daí porque desde já repilo a alegação de que a inclusão do ICMS na base de cálculo do IPI alteraria a sua regra matriz constitucional. Se a Constituição não deu - como nem poderia dar - toda a conformação do tributo, tarefa que logicamente é infralegal, não se pode dizer que a inclusão de carga fiscal referente ao ICMS na base de cálculo do IPI, por si só afrontou o art. 153, IV e §§ 1º e 3º.
+    2. Nas hipóteses em que o critério temporal da hipótese de incidência do IPI é a saída do produto industrializado do estabelecimento, a base de cálculo da exação é o valor da operação (art. 47, II, a, do CTN), ou seja, o preço final de saída da mercadoria do estabelecimento industrial. Sendo o ICMS um tributo calculado por dentro, integra a base de cálculo do IPI. Precedentes do STJ e esta Corte.
+    4. O montante referente ao ICMS está embutido no valor da operação, sendo este o motivo plausível para se vedar ao contribuinte a exclusão do ICMS na apuração da base de cálculo do IPI, o que afasta as alegadas violações aos princípios da razoabilidade e da proporcionalidade, bem como da tributação confiscatória.
+    5. Não há que se cogitar em violação ao princípio da não cumulatividade, pois o fato de o ICMS integrar a base de cálculo do IPI não impede o contribuinte de compensar o imposto pago na etapa anterior com a exação devida na operação seguinte.
+    6. O ICMS integra a receita bruta ou o faturamento da empresa, porquanto tais valores são incluídos no preço da mercadoria ou no valor final da prestação do serviço (tributação indireta), não havendo que se cogitar, pois, em violação ao princípio da capacidade contributiva.
+    7. Inocorrência de violação ao princípio da isonomia por serem as alíquotas de ICMS diferenciadas de Estado para Estado, já que as alíquotas do IPI (salvo previsão do art. 151, I, CF) e a base de cálculo (valor da operação) são idênticas para todos os Estados da Federação.
+    8. Apelo improvido” (fl. 219).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em síntese, ofensa aos princípios constitucionais da capacidade contributiva, da razoabilidade, da proporcionalidade e da não-cumulatividade, para defender que o valor do ICMS deve ser excluído da base de cálculo do IPI, e sustentou-se a aplicação ao presente caso do entendimento firmado no julgamento do RE 240.785.
+    É o relatório necessário. Decido.
+    A pretensão recursal não merece acolhida.
+     A análise da exclusão do valor referente ao ICMS, da base de cálculo do IPI, demandaria necessariamente a interpretação de legislação infraconstitucional, porque a base de cálculo desse tributo é definida pelo art. 47 do Código Tributário Nacional. O recurso extraordinário, portanto, contém alegações de ofensas indiretas ou reflexas à Constituição, insuscetíveis de análise nesta sede recursal.
+    Destaco que essa solução já foi recomendada pelo parecer oferecido pela Procuradoria-Geral da República no RE 925.781, ao examinar recurso semelhante ao presente. Cito, também, os seguintes precedentes: RE 973.054/PR, Rel. Min. Roberto Barroso; RE 609.659/RJ, Rel. Min. Cármen Lúcia.
+    Ademais, ressalto a inaplicabilidade ao presente caso do entendimento firmado no julgamento do RE 240.785, de relatoria do Ministro Marco Aurélio, recentemente reiterado na apreciação de recurso submetido à sistemática da repercussão geral, qual seja, o RE 574.706/RS, de relatoria da Ministra Cármen Lúcia. Neles, este Tribunal, ao fixar a tese de que “o ICMS não compõe a base de cálculo para a incidência do PIS e da Cofins”, o fez em decorrência da interpretação atribuída à expressão “faturamento”, contida na Constituição, e irrelevante para o desfecho do recurso ora em julgamento.
+    Por outro lado, neste recurso o exame da pretensão recursal passa, obrigatoriamente, pela interpretação do art. 47 do CTN.
+    Isso posto, nego seguimento ao recurso extraordinário (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 2 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
