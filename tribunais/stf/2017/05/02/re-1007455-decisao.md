@@ -1,0 +1,10 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – REPARTIÇÃO DE RENDAS TRIBUTÁRIAS – PROGRAMAS DE INCENTIVO FISCAL – RETENÇÃO DE PARTE DA PARCELA PERTENCENTE AOS MUNICÍPIOS – CONSTITUCIONALIDADE – PRECEDENTES – PROVIMENTO.
+    1. O Tribunal de Justiça do Estado de Goiás declarou a inconstitucionalidade da prática do Estado de Goiás de condicionar o repasse da cota do Imposto sobre a Circulação de Mercadorias e Serviços – ICMS de titularidade dos Municípios, consoante o artigo 158, inciso IV, da Carta da República, à disciplina legal relativa a programa de benefício fiscal. Colho do acórdão recorrido o seguinte trecho:
+    Por esta razão, desacolhe-se a tese de que o apelado estaria condicionado ao efetivo ingresso do tributo no erário estadual, à alusão de que apenas neste momento é que passaria a existir como receita pública, porquanto é defeso ao Estado dispor de parte da receita tributária do ICMS pertencente por direito ao Município, ainda que com o fim de incentivo fiscal e mesmo não tendo adentrado os valores nos cofres públicos.
+    2. O entendimento diverge da jurisprudência do Supremo. O Tribunal, no recurso extraordinário nº 705.423/SE, da relatoria do ministro Edson Fachin, analisou, sob o ângulo da repercussão geral, a possibilidade de os valores arrecadados a título de Imposto de Renda e Imposto Sobre Produtos Industrializados e repassados ao Fundo de Participação dos Municípios serem afetados em virtude da concessão de benefícios fiscais realizada pela União. Referido piloto apreciou a matéria sob a óptica de benefício fiscal instituído pelo ente tributante a implicar o não recolhimento de impostos, tema este discutido no presente processo. Na oportunidade, assentou-se a tese de que as desonerações concedidas impactariam no repasse ao município, não podendo, nessa distribuição, levar em conta o que poderia ter sido arrecadado, não houvesse os incentivos.
+    3. Ante o precedente, provejo o recurso extraordinário para reformar o acórdão recorrido, nos termos do citado paradigma. Inverto os ônus da sucumbência.
+    4. Publiquem.
+Brasília, 2 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
