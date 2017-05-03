@@ -1,0 +1,20 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus contra ato de Ministro do STF. Crimes contra a honra. Inadequação da via eleita.
+1. Não cabe habeas corpus contra ato de Ministro do Supremo Tribunal Federal. Precedente do Plenário.
+2. Sem qualquer juízo de valor quanto ao mérito da impetração, o processo deve ser extinto sem resolução do mérito por inadequação da via eleita.
+3. Habeas Corpus não conhecido.
+    1. Trata-se de habeas corpus preventivo, com pedido de liminar, em que se aponta como autoridade coatora o Ministro Relator da Pet nº 6.587, em tramitação neste Supremo Tribunal Federal.
+    2. Extrai-se dos autos que foi oferecida queixa-crime contra o paciente, Senador da República, pela suposta prática dos crimes previstos nos artigos 139 e 140 c/c os artigos 141, III e IV, 61, II, “h”, e 70, caput, todos do Código Penal.
+    3. Neste habeas corpus, a parte impetrante afirma que, “após sucessivas postagens em redes sociais e declarações públicas contra o mandato do paciente, não satisfeito, o Sr. Sebastião Florentino de Lucena, jornalista, enviou uma notícia de teor pejorativo em um reservado grupo de conversas do aplicativo WhatsApp, do qual o paciente é também integrante. O paciente, movido pela emoção provocada e diante do evidente constrangimento que lhe foi causado, pois teve sua imagem veiculada em grupo do qual sabidamente fazia parte, respondeu, por notória provocação anterior”. Diante disso, a defesa entende que deve ser reconhecida a atipicidade da conduta imputada ao paciente, consistente em simples resposta “à injusta provocação, de forma proporcional, não havendo nenhuma pretensão de ofender a honra do então querelante, mas sim em proteger o cargo de Senador que estava ali sendo aviltado”.
+    4. Com essa argumentação, a parte impetrante postula o deferimento de liminar para que seja rejeitada a inicial acusatória que tramita sob o nº 3000351-77.2016.815.2002. No mérito, o pedido é de concessão da ordem para que, ante a falta de justa causa da ação penal, se determine o trancamento do procedimento criminal instaurado contra o acionante, na forma do art. 395 do CPP.
+    Decido.
+    5. O habeas corpus não deve ser conhecido.
+    6. O Supremo Tribunal Federal consolidou orientação no sentido do descabimento da impetração de habeas corpus contra ato de Ministro, Turma ou do Plenário do Tribunal (Cf. Súmula 606/STF; HC 100.738, Redatora para o acórdão a Minª. Cármen Lúcia; HC 101.432, Redator para o acórdão o Min. Dias Toffoli; HC 88.247-AgR-AgR, Rel. Min. Celso de Mello; HC 91.020-AgR, Rel. Min. Celso de Mello; HC 86.548, Rel. Min. Cezar Peluso).
+    7. Muito embora essa orientação jurisprudencial tenha sido rediscutida no julgamento do HC 127.483, da relatoria do Ministro Dias Toffoli (oportunidade em que se verificou o empate na votação), o Plenário do Supremo Tribunal Federal, em 17.02.2016, “reafirmou sua jurisprudência no sentido de não ser cabível ‘habeas corpus’ impetrado contra decisão monocrática de ministro da Corte” (Informativo nº 814 do STF). Refiro-me ao HC 105.959, Redator para o acórdão o Ministro Edson Fachin, julgado com a participação de todos os integrantes do Tribunal.
+    8. Por outro lado, e sem avançar qualquer juízo de valor quanto ao mérito da impetração, lembro que o Supremo Tribunal Federal tem uma jurisprudência consolidada, no sentido de que o trancamento da ação penal só é possível quando estiverem comprovadas, de logo, a atipicidade da conduta, a extinção da punibilidade ou a evidente ausência de justa causa (v.g. HC 103.891, Redator para o acórdão o Min. Ricardo Lewandowski; HC 86.656, Rel. Min. Ayres Britto; HC 81.648, Rel. Min.Ilmar Galvão; HC 118.066-AgR, Rel.ª Min.ª Rosa Weber, e HC 104.267, Rel. Min. Luiz Fux). De modo que o processo deve ser extinto sem resolução do mérito, exclusivamente pela inadequação da via eleita.
+    9. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 03 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
