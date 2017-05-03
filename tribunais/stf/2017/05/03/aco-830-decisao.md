@@ -1,0 +1,23 @@
+DECISÃO
+AÇÃO CÍVEL ORIGINÁRIA – INTERVENÇÃO DE TERCEIRO – REPRESENTATIVIDADE – ADMISSIBILIDADE.
+    1. O assessor Dr. Mário Henrique Ditticio prestou as seguintes informações:
+    O Estado do Paraná e a Paranaprevidência ajuizaram ação ordinária contra a União, pleiteando, em caráter liminar e como pedido principal, a condenação da ré à “obrigação de efetivar o repasse da compensação previdenciária e que se abstenha de aplicar qualquer sanção em decorrência de supostos descumprimentos de norma disposta na Lei nº 9.717/98, e da não expedição do Certificado de Regularidade Previdenciária, abstendo-se, ademais, de empeçar ou embaraçar quaisquer das operações financeiras previstas no artigo 7º da Lei nº 9.717/98, e no artigo 1º do Decreto nº 3.788/01”. Requerem, ainda, a declaração incidental da inconstitucionalidade dos artigos 7º e 9º da referida Lei, do citado Decreto e das Portarias do Ministério da Previdência Social nº 1.317/2003, nº 236/2004, nº 4.992/1999, nº 2.346/2001 e nº 172/2005.
+    O Município do Rio de Janeiro, por meio da petição/STF nº 19.527/2017, requer a admissão como terceiro interessado, aludindo aos artigos 138 do Código de Processo Civil e 322 e seguintes do Regimento Interno do Supremo. Eis o teor do dispositivo processual:
+    Art. 138. O juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de 15 (quinze) dias de sua intimação.
+    § 1º A intervenção de que trata o caput não implica alteração de competência nem autoriza a interposição de recursos, ressalvadas a oposição de embargos de declaração e a hipótese do § 3º.
+    § 2º Caberá ao juiz ou ao relator, na decisão que solicitar ou admitir a intervenção, definir os poderes do amicus curiae.
+    § 3º O amicus curiae pode recorrer da decisão que julgar o incidente de resolução de demandas repetitivas.
+    O artigo 323, § 3º, do Regimento Interno prevê:
+    Art. 323. Quando não for caso de inadmissibilidade do recurso por outra razão, o(a) Relator(a) ou o Presidente submeterá, por meio eletrônico, aos demais Ministros, cópia de sua manifestação sobre a existência, ou não, de repercussão geral.
+    [...]
+    § 3º Mediante decisão irrecorrível, poderá o(a) Relator(a) admitir de ofício ou a requerimento, em prazo que fixar, a manifestação de terceiros, subscrita por procurador habilitado, sobre a questão da repercussão geral.
+    Sustenta ter interesse jurídico no processo, dizendo que os fatos expostos pelo autor retratam a própria situação e de inúmeros Municípios e Estados da Federação. Informa haver formalizado ação em face da União com o mesmo objeto da presente, a qual está com o curso sobrestado aguardando o julgamento desta, porquanto sofrerá os efeitos da decisão do Pleno do Supremo. Discorre sobre a própria representatividade, por ser um dos mais populosos Municípios do Brasil, contando com quase seis milhões e meio de habitantes. Tece considerações sobre o mérito.
+    O processo encontra-se no Gabinete.
+    2. Juntem a petição.
+    3. Conforme afirmado pelo requerente, a situação versada no processo é comum a inúmeros entes federativos, como demonstram os precedentes nos quais o Supremo já enfrentou a matéria, todos relativos a Municípios: agravos regimentais nos recursos extraordinários nº 874.058, Primeira Turma, relator o ministro Luiz Fux; nº 857.438, Primeira Turma, relatora a ministra Rosa Weber; nº 808.352, Segunda Turma, relatora a ministra Carmen Lúcia; nº 815.499, Segunda Turma, relator o ministro Ricardo Lewandowski; nº 891.278, Primeira Turma, relatora a ministra Rosa Weber; nº 864.878, Segunda Turma, relator o ministro Teori Zavascki; nº 797.926, Primeira Turma, de minha relatoria.
+    O exame desta ação, embora de natureza subjetiva, será a primeira oportunidade em que o Colegiado Maior decidirá, no mérito, sobre a constitucionalidade da Lei nº 9.717/1998 – a qual impacta o sistema previdenciário de todos os entes da Federação –, sendo conveniente, sob o ponto de vista da construção democrática da jurisdição, a participação da municipalidade da segunda cidade mais populosa do País.
+    4. Admito o Município do Rio de Janeiro como terceiro interessado no processo, recebendo-o no estágio em que se encontra – aparelhado para o julgamento –, conferindo-lhe o poder de proferir sustentação oral no momento oportuno.
+    5. Publiquem.
+Brasília, 3 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
