@@ -1,0 +1,14 @@
+Decisão:
+    1. Trata-se de ação direta de inconstitucionalidade, com pedido de liminar, movida pela Confederação Nacional da Indústria, contra dispositivos da Lei do Estado do Rio de Janeiro nº 7.428/2016 que, com amparo no Convênio ICMS 42/2016, estabeleceram depósito como condição à fruição de benefícios e incentivos fiscais de ICMS, afetando os valores depositados a um Fundo Estadual de Equilíbrio Fiscal (FEEF), com diferentes destinações, dentre elas a quitação da folha de pagamento, saúde, educação e segurança pública. Insurge-se, ainda, contra o Decreto nº 45.810/2016, que regulamentou a respectiva lei.
+    2. Em 15.02.2017, reconheci a relevância da matéria e adotei o rito do art. 12 da Lei nº 9.868/99, solicitando informações à Assembleia Legislativa, ao Governador do Estado, e, sucessivamente, abrindo vista à AGU e à PGR. Entretanto, em virtude da edição do Decreto do Estado do Rio de Janeiro nº 45.973/2017 e da Resolução SEFAZ nº 33/2017, que previam prazo para realização do depósito em 20.04.2017, foi protocolada petição de aditamento à inicial, reiterando o pedido de urgência para apreciação do pedido liminar de suspensão da eficácia da lei estadual, a qual foi por mim encaminhada para manifestação da PGR.
+    3. Ressalto que a requerente sustenta o pedido de declaração de inconstitucionalidade dos arts. 2º; 4º, caput e inciso I; e 5º, da Lei nº 7.428/2016, no desrespeito a dispositivos [1] e princípios constitucionais já elencados no despacho proferido em fevereiro/2017, destacando a violação aos direitos dos contribuintes que usufruem de benefícios fiscais de ICMS concedidos, pelo Estado, em função de condições a serem, por eles, cumpridas, as chamadas isenções onerosas.
+    4. A requerente destaca que a imposição do depósito como condição para fruição desses benefícios desrespeitaria o direito adquirido dos contribuintes, uma vez que a isenções onerosas não podem ser livremente suprimidas.
+    5. Limitando-me a analisar a violação ao direito adquirido no que se refere aos benefícios fiscais condicionados, penso que, tendo em vista a expressa manifestação do Estado do Rio de Janeiro, de que a Lei nº 7.428/2016 não suprime isenções e benefícios fiscais condicionados [2], não é o caso, por ora, de concessão da liminar, sendo certo que eventual inobservância do afirmado ensejará a apreciação da questão em controle difuso.
+    6. Prossiga-se, portanto, com o rito do art. 12 da Lei nº 9.868/99.
+    7. Publique-se.
+Brasília, 03 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
+    Notas:
+    1. A requerente aponta violação, dentre outros, dos seguintes dispositivos constitucionais: 5º, XXXVI e LIV; 146, III; 148; 149; 150, III, b e c; 154; e 167, IV.
+    2. “VII – A Lei Não Suprime Isenções e Benefícios Fiscais Concedidos sob Condição Onerosa” - fl. 16 das informações prestadas pelo Estado do Rio de Janeiro.
