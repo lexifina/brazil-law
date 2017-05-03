@@ -1,0 +1,14 @@
+DECISÃO: O presente agravo foi interposto pela Bolsa de Valores do Rio de Janeiro contra decisão que negou trânsito ao apelo extremo por ela deduzido, no qual sustentou que o acórdão proferido pelo E. Tribunal de Justiça local teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal (Código Tributário Nacional e Lei nº 9.784/99). Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Impõe-se observar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático- -probatórios:
+    “Feitas tais considerações, ‘in casu’, e como afirmado pelo próprio juízo de piso, a embargante foi notificada dos lançamentos complementares relativas ao ano 2000 em setembro de 2005, portanto, antes do término da fluência do prazo quinquenal referido no art. 173, I, do CTN, que só se findaria em 01 de janeiro de 2006, não havendo, portanto, que se cogitar de decadência do direito da Fazenda Pública de rever o lançamento.
+    Inaplicável na seara tributária, em razão da existência de legislação especial e expressa acerca do tema, o teor do art. 54 da Lei Federal nº 9784/99, por analogia. É o que se extrai do teor do art. 108 do CTN, segundo o qual cabível a sua aplicação somente na hipótese de ausência de disposição sobre o tema, o que não é o caso, repita-se.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 03 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
