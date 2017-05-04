@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Superior Tribunal de Justiça, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Ministério Público Federal. Aparelhado o recurso na ofensa ao art. 5º, XLIII, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    O Tribunal de origem concedeu a ordem de habeas corpus “[...] para outorgar ao réu o benefício da liberdade provisória, mediante compromisso de comparecimento a todos os atos processuais, sob pena de revogação, referendada a liminar [...]”. O acórdão está assim ementado:
+    “HABEAS CORPUS. TRÁFICO. PRISÃO EM FLAGRANTE. INDEFERIMENTO DE PEDIDO DE LIBERDADE PROVISÓRIA. CONSTRANGIMENTO ILEGAL. ORDEM CONCEDIDA. PEDIDOS DE EXTENSÃO FORMULADOS POR CORRÉUS. IMPOSSIBILIDADE DE VERIFICAÇÃO DA IDENTIDADE DE SITUAÇÃO FÁTICO-PROCESSUAL EM RELAÇÃO AO PACIENTE. ORDEM CONCEDIDA. PEDIDOS DE EXTENSÃO INDEFERIDOS. 1. A prisão cautelar só pode ser decretada ou mantida se houver nos autos elementos idôneos que demonstrem a necessidade do recolhimento do agente ao cárcere, antes de decisão condenatória com trânsito em julgado. 2. A simples referência às hipóteses de prisão cautelar não justifica a prisão cautelar. Impõe-se seja demonstrado que, pelo menos uma das hipóteses previstas no artigo 312 do Código de Processo Penal, está caracterizada na espécie. 3. O fato de ter sido o agente denunciado por tráfico de entorpecentes não impede, só por só, o benefício da liberdade provisória. 4. Ordem concedida para outorgar ao paciente o benefício da liberdade provisória, referendada a liminar. 5. Indeferimento dos pedidos de extensão formulados pelos corréus Wagner Cândido dos Santos e Eloir Machado de Oliveira.”
+    Nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “Habeas corpus. 2. Paciente preso em flagrante por infração ao art. 33, caput, c/c 40, III, da Lei 11.343/2006. 3. Liberdade provisória. Vedação expressa (Lei n. 11.343/2006, art. 44). 4. Constrição cautelar mantida somente com base na proibição legal. 5. Necessidade de análise dos requisitos do art. 312 do CPP. Fundamentação inidônea. 6. Ordem concedida, parcialmente, nos termos da liminar anteriormente deferida.” (HC 104339, Relator(a): Min. GILMAR MENDES, Tribunal Pleno, julgado em 10/05/2012, ACÓRDÃO ELETRÔNICO DJe-239 DIVULG 05-12-2012 PUBLIC 06-12-2012)
+    “HABEAS CORPUS – JULGAMENTO POR TRIBUNAL SUPERIOR – IMPUGNAÇÃO. A teor do disposto no artigo 102, inciso II, alínea “a”, da Constituição Federal, contra decisão, proferida em processo revelador de habeas corpus, a implicar a não concessão da ordem, cabível é o recurso ordinário. Evolução quanto à admissibilidade do substitutivo do habeas corpus. PRISÃO PROVISÓRIA – FUNDAMENTOS – INSUBSISTÊNCIA. Contraria o arcabouço normativo ato que implique prisão preventiva decorrente da gravidade do crime imputado ao paciente.” (HC 106240, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, julgado em 18/12/2012, PROCESSO ELETRÔNICO DJe-075 DIVULG 22-04-2013 PUBLIC 23-04-2013)
+    Nesse sentir, não merece processamento o apelo extremo, ausente ofensa a preceito da Constituição da República.
+    Nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de maio de 2017.
+Ministra Rosa Weber
+Relatora
