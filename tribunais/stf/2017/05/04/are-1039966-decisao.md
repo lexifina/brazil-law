@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 3ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 7, p. 157):
+    “APELAÇÃO CÍVEL — ANULATÓRIA DE LANÇAMENTO FISCAL. Transferência de mercadorias entre estabelecimentos de propriedade do mesmo contribuinte. Inocorrência de fato gerador. Inexistência de circulação de mercadorias. A jurisprudência dos Tribunais Superiores é assente no sentido da não incidência do ICMS no caso de simples transferência de mercadorias do estabelecimento matriz para a filial da mesma empresa. Súmula 166 do STJ. Sentença mantida. Recurso não provido.”
+    Os embargos de declaração foram rejeitados (eDOC 7, p. 172-176).
+    No recurso extraordinário (eDOC 7, p. 179-196), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 150, § 4º e 155, § 2º, I e II, do Texto Constitucional.
+    Sustenta-se, em síntese, a possibilidade de incidência do ICMS sobre a transferência de mercadorias entre estabelecimentos de mesma titularidade.
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário com base na ausência de violação constitucional (eDOC 8, p. 43).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 7, p. 158):
+    “Ora, pelo que se depreende do dispositivo acima, dentre os fatos geradores que ensejam a incidência do ICMS, estão as operações relativas à circulação de mercadorias, ou seja, ato ou negócio jurídico que implica na alteração de propriedade, o que não ocorre no caso em tela.
+    Assim, para que haja a incidência do imposto entre matriz e filial é necessário haver a transferência de titularidade e, não apenas, simples deslocamento, ou seja, a circulação deve ser jurídica e não meramente física.”
+    Desta forma, constata-se que o acórdão recorrido não destoa da jurisprudência desta Corte, segundo a qual “o simples deslocamento da mercadoria de um estabelecimento para outro da mesma empresa, sem a transferência de propriedade, não caracteriza a hipótese de incidência do ICMS, ainda que se trate de circulação interestadual de mercadoria” (ARE 764196 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 07.06.2016). Confiram-se, ainda, os seguintes precedentes:
+    “Embargos de declaração em recurso extraordinário com agravo. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Processual Civil e Tributário. Ausência de prequestionamento. 4. Transferência de mercadorias de um estabelecimento para outro, de mesma titularidade. ICMS. Não incidência. Precedentes. 5. Violação ao art. 97, CF. Orientação consolidada do STF sobre questão constitucional. Desnecessidade de submissão ao Pleno ou Órgão Especial do Tribunal de origem. Precedentes. 6. agravo regimental ao qual se nega provimento.”
+(ARE 736946 ED, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 23/09/2014, PROCESSO ELETRÔNICO DJe-199 DIVULG 10-10-2014 PUBLIC 13-10-2014)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. TRANSFERÊNCIAS DE MERCADORIAS DE UM ESTABELECIMENTO PARA OUTRO: MESMA TITULARIDADE. NÃO INCIDÊNCIA DO ICMS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento. 2. A observância pelos tribunais do princípio constitucional da reserva de plenário, disposto no art. 97 da Constituição da República, para declarar uma norma inconstitucional, apenas se justifica se não houver decisão do Supremo Tribunal Federal sobre a questão.”
+(AI 481584 AgR, Relator(a): Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 30/06/2009, DJe-157 DIVULG 20-08-2009 PUBLIC 21-08-2009 EMENT VOL-02370-07 PP-01379 RT v. 98, n. 889, 2009, p. 183-185)
+    Ante o exposto, nego seguimento ao agravo, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 4 de maio de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
