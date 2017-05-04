@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Afasto o sobrestamento anteriormente determinado.
+    2. O Colegiado de origem indeferiu a segurança impetrada contra decisão do Juízo Federal que admitiu a execução dos valores atrasados decorrentes de prestação previdenciária, observado o benefício mais vantajoso concedido administrativamente. No extraordinário, o recorrente aponta a violação dos artigos 5º, cabeça, incisos LIV, LV, 40, 97, 194, 195, e 201, § 1º, da Constituição Federal. Sustenta a impossibilidade de recebimento concomitante de duas aposentadorias, arguindo a necessidade de opção pela parcela mais favorável. Afirma contrariados os princípios do devido processo legal, da ampla defesa e da solidariedade. Diz ter a decisão implicado a desaposentação.
+    3. Colho da decisão recorrida o seguinte trecho:
+    Todavia, a TRU da 4ª Região recentemente uniformizou o entendimento diametralmente oposto, no sentido de que é permitido ao segurado continuar percebendo o benefício deferido no âmbito administrativo, por lhe ser mais vantajoso, sem necessidade de renunciar às parcelas atrasadas, referentes ao benefício reconhecido judicialmente (IUJEF 0002883-02.2009.404.7195, Turma Regional de Uniformização da 4ª Região, Relator p/ Acórdão João Batista Lazzari, D.E. 28/01/2014).
+    Segundo o voto condutor do acórdão, a TRU entendeu possível, no caso em discussão, a execução do julgado em relação aos atrasados devidos por força do preenchimento dos requisitos para aposentadoria por tempo de contribuição (concedida na via judicial) até o início do pagamento do benefício de aposentadoria por invalidez (deferida administrativamente).
+    E, citando trechos de precedentes do e. TRF da 4ª Região, perfilhou-se a tese de que fica garantido ao segurado a percepção dos atrasados decorrentes do benefício deferido judicialmente (com isso prestigiando a aplicação correta do Direito ao caso concreto e justificando a movimentação do aparato judiciário) e possibilita-se-lhe a opção pelo benefício deferido administrativamente (com isso prestigiando o esforço adicional desempenhado pelo segurado, consistente na prorrogação forçada de sua atividade laboral).
+    Somente a partir da análise do quadro fático e da legislação de regência seria dado concluir de forma diversa, o que é vedado em sede extraordinária. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    4. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de recurso formalizado no curso de processo cujo rito os exclua.
+    5. Publiquem.
+Brasília, 4 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
