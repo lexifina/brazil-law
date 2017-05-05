@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu o recurso extraordinário interposto em face de acórdão da Quinta Câmara Cível do Tribunal de Justiça do Estado da Bahia, assim ementado (eDOC 1, p. 263):
+    “EMENTA: APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PRELIMINAR DE ILEGITIMIDADE ATIVA, REJEITADA. NO MÉRITO, CONDENAÇÃO POR DANOS MATERIAIS DE ACORDO COM O VALOR PLEITEADO NA INICIAL. OCORRÊNCIA DE NEXO DE CAUSALIDADE ENTRE ATITUDE DO AGENTE E O FATO LESIVO. RESPONSABILIDADE CIVIL CONFIGURADA. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO DA FAZENDA PÚBLICA. EXCESSO DE CONDENAÇÃO. FIXAÇÃO EQUITATIVA. INTELIGÊNCIA DOS ARTS. Art. 20, §§ 3º e 4º do CPC. RECURSO PARCIALMENTE PROVIDO.”
+    Os embargos de declaração opostos foram rejeitados (eDOC 1, pp. 352-356).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 93, IX, e 37, § 6º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a nulidade do acórdão que apreciou os embargos declaratórios, por negativa de prestação jurisdicional, e, quanto ao mérito, que “parece haver-se abraçado a tese da responsabilidade objetiva do Estado, quando, em verdade, conforme explanado alhures, o caso posto encerra hipótese de responsabilidade subjetiva, porquanto relativa a comportamento omissivo da Administração” (eDOC 2, p. 58).
+    A 2ª Vice-Presidência do TJ/BA inadmitiu o recurso ao entendimento de que inexiste ofensa direta aos dispositivos constitucionais enunciados e ante a incidência do óbice da Súmula 279 do STF (eDOC 2, pp. 115/116).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Quanto à alegação de nulidade do acórdão que apreciou os embargos declaratórios, verifica-se que a Corte de origem inequivocamente prestou a jurisdição, enfrentando as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte recorrente. Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Quanto à questão de fundo, verifica-se que o Tribunal de origem, quando do julgamento da apelação asseverou (eDOC 1, pp. 264/265):
+    “A responsabilidade civil do Apelante em indenizar os danos materiais e morais reclamados encontra respaldo na avaliação da ocorrência por si só bem como, da ausência de prova da interferência de fato inesperado e imprevisível que caracterizasse a excludente de culpabilidade por motivo de caso fortuito ou força maior já que chuvas e ventos moderados e fortes são previsíveis para o período do outono, quando efetivamente ocorreu o sinistro, valendo ressaltar que se tivesse sido devidamente vistoriada e podada a árvore que tombou sobre o veículo, evidentemente não teria ocorrido o acidente que se busca indenizar.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do CPC.
+    Publique-se.
+    Brasília, 5 de maio de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
