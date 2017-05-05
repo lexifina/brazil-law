@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98104, de 25 de abril de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3926.90.90 Mercadoria: Caixa multiuso rígida, em polipropileno, sanfonada em 3 níveis, normalmente utilizada para armazenagem, organização e transporte de ferramentas, cujo interior não foi concebido ou preparado para receber ferramentas específicas, medindo 53 cm de comprimento, 19,2 cm de largura e 23 cm de altura, com alça, travas metálicas, divisórias destacáveis e organizador na tampa, comercialmente conhecida como caixa de ferramentas sanfonada.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.26), RGI 6 (texto da subposição 3926.90) e RGC-1 (texto do item 3926.90.90) da NCM, constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016, e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº  98.104-2017 .pdf]
