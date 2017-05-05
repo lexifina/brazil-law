@@ -1,0 +1,26 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Terceira Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelações e reexame necessário — Ação anulatória de ato administrativo de concessão de pensão por morte — Irmã de professora falecida — Improcedência — Inconformismo — Prescrição quinquenal — Aplicação extensiva da regra insculpida no Decreto n° 20.910132 e Decreto-lei n° 4.597142 — Precedentes desta C. Câmara — Recurso da requerida provido — Recurso da demandante e reexame necessário desprovidos.”
+    Opostos embargos declaratórios, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso XXXV, e 24, inciso XII e § 4º, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    Colhe-se do voto condutor do acórdão recorrido os seguintes fundamentos:
+    “Com efeito, em analogia à prescrição quinquenal estabelecida para dívidas da Fazenda Pública, regulada pelo Decreto n° 20.910/32 e pelo Decreto-lei n° 4.597/42, devem tais regramentos ser aplicados extensivamente em favor do administrado, razão pela qual, portanto, prescreve em cinco anos a pretensão da Administração de anular seus atos judicialmente.
+    No caso em tela, a requerida percebe pensão previdenciária da Administração, ante o falecimento de sua irmã (professora), desde 2.2.2001, concedida com fundamento nos arts. 152, III, e 153, da Lei Estadual n° 180/78.
+    De outro turno, a demanda anulatória em apreço foi ajuizada em 7.1.2013, quando já escoado o prazo prescricional de 5 anos para a autarquia buscar judicialmente a invalidação do ato administrativo de deferimento da pensão.
+    Dessa forma, impõe-se o reconhecimento da prescrição da pretensão autoral na demanda em apreço.
+    (…)
+    Sendo assim, de rigor o reconhecimento da prescrição quanto à invalidade pretendida pela autarquia, mediante aplicação extensiva da regra insculpida no Decreto n° 20.910/32 e Decreto-lei n° 4.597/42, razão pela qual também não prospera o pedido de restituição dos valores pagos a título de pensão.”
+    Como visto, no caso dos autos, as instâncias de origem reconheceram a incidência da prescrição do direito da recorrente anular o ato por ela praticado amparado na legislação infraconstitucional pertinente (Decreto nº 20.910/32 e Decreto-lei n° 4.597/42) e nos fatos e provas dos autos, de reexame incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280. Sobre o tema:
+    “DIREITO ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. MILITAR. PENSÃO POR MORTE À FILHA SOLTEIRA, MAIOR DE 21 ANOS. LEIS NºS 9.717/1998 E 8.213/1991. PRESCRIÇÃO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 279/STF. PRECEDENTES. 1. Hipótese em que para dissentir do acórdão recorrido com relação ao prazo prescricional seriam necessários o reexame dos fatos e do material probatório constantes dos autos, bem como a análise da legislação infraconstitucional pertinente, procedimentos inviáveis em sede de recurso extraordinário. Precedentes. 2. Ademais, o Supremo Tribunal Federal reconheceu a ausência de repercussão geral quanto ao mérito da controvérsia (RE 610.220-RG, Rel.ª Min. ª Ellen Gracie). 3. Embargos de declaração recebidos como agravo regimental a que se nega provimento. (ARE nº 872431/SP-ED, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 21/5/15).
+    “Agravo regimental em recurso extraordinário. 2. Policial militar morto em serviço. Parcelas que compõem a pensão paga. Questão decidida com fundamento na legislação infraconstitucional (Decreto n. 20.910/32 e Lei Complementar n. 10.990/97). 3. Necessidade do reexame prévio da legislação local. Óbice da Súmula 280. Precedentes. 4. Agravo regimental a que se nega provimento” (RE nº 814.183/RS-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes , DJe de 5/9/14).
+    “Agravo regimental no recurso extraordinário com agravo. Ofensa ao art. 5º, inciso XXXV, da Constituição Federal. Não ocorrência. Administrativo. Servidor público. Aposentadoria. Revisão. Prescrição. Verificação. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A jurisdição foi prestada pela Corte de origem mediante decisão suficientemente motivada. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido” (ARE nº 781.423/RJ-AgR, Primeira Turma, de minha relatoria, DJe de 24/6/14).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO CONTRA A FAZENDA PÚBLICA. PRAZO PRESCRICIONAL. ACÓRDÃO FUNDAMENTADO NO DECRETO N. 20.910/1932. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 776.908/DF-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia , DJe de 10/2/14).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 5 de maio de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
