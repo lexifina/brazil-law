@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+    “IMPROBIDADE ADMINISTRATIVA. MEDIDA CAUTELAR DE INDISPONIBILIDADE DE BENS. CONCESSÃO. AGRAVO DE INSTRUMENTO. REFORMA DO DECISUM. DANO AO ERÁRIO. ACERVO PROBATÓRIO EXISTENTE QUE DESAUTORIZA O DEFERIMENTO DO PROVIMENTO, À MÍNGUA DE COMPROVAÇÃO, PELO MENOS POR ORA, DO ALEGADO PREJUÍZO. RECURSO PROVIDO.
+    Hipótese em que o Ministério Público sustenta que a aquisição fracionada de objetos e serviços foi lesiva ao erário, sem, todavia, demonstrar, ainda que indiciariamente, a sua efetiva ocorrência.
+    Autor, ora agravado, que não cogita de superfaturamento das peças, tampouco de favorecimento específico de terceiro, uma vez que as empresas contratadas foram distintas.
+    Ausência de demonstração, de outro vértice, de como se apurou o quantum representativo do alegado prejuízo, sendo certo que se exige ´que o valor alcançado pela indisponibilidade de bens seja fixado com base no potencial prejuízo ao erário, enriquecimento ilícito e eventual multa civil, mediante suficiente e concreta fundamentação´ (STJ, AgRg no AREsp n. 441833, rel. Min Benedito Gonçalves, p. 24-11-2014)” ( pág. 72 do doc. eletrônico 6).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação ao art. 37, § 4º, da mesma Carta.
+    O acórdão recorrido consignou que
+          “[...] Na hipótese específica, a ação de improbidade foi respaldada nos arts. 10 e 11 da Lei n. 8.429/1992, os quais disciplinam, respectivamente, os atos lesivos ao erário e aqueles atentatórios aos princípios da Administração Pública.
+    O prejuízo apontado, R$ 41.942,22 (quarenta e um mil novecentos e quarenta e dois reais e vinte e dois centavos), corresponde ao somatório dos gastos relativos à compra de peças e à contratação de serviços de conserto efetivados nas máquinas pertencentes à Municipalidade, já descriminadas no relatório […]
+    Aliás, convém deixar claro que na tabela de fl. 39, o autor indica preços bem mais elevados para o conserto das ‘máquinas’, ma quantificou os danos em R$ 41.942,22 (quarenta e um mil novecentos e quarenta e dois reais e vinte e dois centavos), sem se saber ao certo como chegou a essa importância.”
+    A pretensão recursal não merece acolhida. Isso porque para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279 do STF – e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, cito precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO POPULAR. ADMINISTRATIVO. DISPENSA DE LICITAÇÃO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO” (ARE 885.050-AgR/MG, Rel. Min. Luiz Fux, Primeira Turma).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Dispensa de licitação. Promoção pessoal de agente público. 3. Improbidade administrativa não caracterizada. Necessidade de revolvimento do acervo fático-probatório e da legislação infraconstitucional aplicável à espécie. Súmula 279. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento” (ARE 840.108-AgR/RN, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 5 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
