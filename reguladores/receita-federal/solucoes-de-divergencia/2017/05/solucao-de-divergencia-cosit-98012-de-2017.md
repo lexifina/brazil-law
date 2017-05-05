@@ -1,0 +1,6 @@
+Solução de Divergência Cosit nº 98012, de 3 de maio de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Reforma de ofício a Solução de Consulta SRRF/6ªRF/Diana nº 53, de 5 de agosto de 2008.
+Código NCM: 8523.59.10 Mercadoria: Transponder (Etiqueta/TAG) de acionamento por aproximação para identificação de chave veicular, composto por microcontrolador, elementos discretos, memória não volátil e bobina de ferrite (antena), envoltos em encapsulamento vítreo, medindo aproximadamente 13,1 mm x 3,15 mm. Destinado a ser acomodado dentro da chave do veículo, comunica-se por radiofrequência RFID (Radio-Frequency Identification) com uma antena fixada no cilindro de ignição para identificação eletrônica da chave e habilitação da partida do veículo. Possui memória interna de 512 bits, freqüência de operação de 125 kHz e não possui alimentação própria.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.23) e RGI 6 (textos das subposições de primeiro nível 8523.5 e de segundo nível 8523.59) e RGC 1 (texto do item 8523.59.10) da NCM constante da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SD Cosit nº 98.012-2017 .pdf]
