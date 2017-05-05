@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98113, de 28 de abril de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8517.62.41 Mercadoria: Roteador digital para rede sem fio (Wi-Fi), com modem de tecnologia celular (HSDPA, WCDMA, GSM, GPRS e EDGE) integrado, contendo um slot USIM/SIM, uma porta RJ45 e uma porta RJ11, próprio para prover acesso simultâneo à internet para até 32 dispositivos via rede Wi-Fi; apresentado em gabinete plástico, medindo 150mm x 120mm x 25mm, pesando 300g, acompanhado de adaptador AC bivolt e cabo de rede.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.17) e RGI 6 (textos da subposição de 1º nível 8517.6 e da subposição de 2º nível 8517.62) e RGC 1 (textos da Nota 3 da Seção XVI, do item 8517.62.4 e do subitem 8517.62.41), constante da TEC, aprovada pela nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016, e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº  98.113-2017 .pdf]
