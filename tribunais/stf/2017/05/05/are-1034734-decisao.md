@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Mato Grosso, ementado nos seguintes termos:
+    “RECURSO DE APELAÇÃO CÍVEL - ADMINISTRATIVO - REDUÇÃO DA JORNADA DE TRABALHO - ASSISTENTE SOCIAL - LEI N. 12.317/2010 - INAPLICABILIDADE - SERVIDOR ESTATUTÁRIO - PRINCÍPIO DA ESPECIFICIDADE - ESTATUTO DOS SERVIDORES PÚBLICOS ESTADUAIS - AUTONOMIA DO ENTE FEDERADO - PLEITO DE REGIMENTO DE HORAS EXTRAS PELO PERÍODO TRABALHADO EM REGIME DE 40 (QUARENTA) HORAS - IMPOSSIBILIDADE – RECURSO IMPROVIDO. 1. Incabível a aplicação da redução da jornada de trabalho dos servidores do Sistema Prisional, que atuam como Assistentes Sociais, prevista na Lei Federal n° 12.317/2010, em respeito à autonomia político-administrativa do ente federado ao dispor sobre o regime jurídico de seus servidores.
+    2. Para solucionar a aparente antinomia das normas na espécie, deve ser utilizado o critério ou princípio da especialidade, aplicando-se ao caso a norma mais específica ou especial para a categoria profissional em detrimento da lei geral (lex specialis derogat generali). Assim, a Lei Estadual n° 7.554/01 é especial em relação à Lei Federal 12.317/10.
+    3. A Lei Federal n° 12.317/10 é aplicada apenas e tão somente para os assistentes sociais que trabalhem e exercem a sua atividade no setor privado, ou seja, aos trabalhadores regidos pela CLT.
+    4. Não há que se falar que recebimento de horas extras por trabalhar em jornada superior ao que estabelece a lei federal (Lei n° 12.317/10) porque o Estado de Mato Grosso está agindo de acordo com o que estabelece a lei estadual sobre a jornada de trabalho desta classe de servidores, ou seja, o Estado está agindo o império da lei e em estrita observância ao princípio constitucional da legalidade.
+    5. Recurso de Apelação conhecido, mas improvido.” (eDOC 1, p. 201-202)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 22, XVI, do texto constitucional. (eDOC 2, p. 33)
+    Alega-se que o Estado do Mato Grosso vem descumprindo os preceitos da Lei 12.317/2010, que prevê a redução da jornada de trabalho dos profissionais assistentes sociais para 30 horas semanais, sem a redução da sua remuneração.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 12.317/2010 e Lei Estadual 7.554/2001), consignou que a jornada de trabalho dos assistentes sociais do Município é de 40 horas semanais.
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REDUÇÃO DE JORNADA DE TRABALHO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280 DO STF. ALEGADA VIOLAÇÃO AO ARTIGO 93, IX, DA CF/88. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO”. (ARE-AgR 902.928, Rel. Min. Luiz Fux, Primeira Turma, DJe 12.9.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. EMPREGADO PÚBLICO. BANCÁRIO. REVERSÃO DE JORNADA. REDUÇÃO SALARIAL. ANÁLISE DE NORMA INFRACONSTITUCIONAL. CLT. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - Indispensável a análise da Consolidação das Leis Trabalhistas – CLT para verificar, no caso, eventual ofensa ao princípio da irredutibilidade salarial. A afronta ao texto constitucional, se ocorrente, seria meramente reflexa, circunstância que torna inviável o recurso extraordinário. II - Agravo regimental improvido.” (ARE 669.052-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 4.9.2012)
+    No mesmo sentido, em caso análogo ao dos autos, destaco o RE 834.943/MG, Rel. Min. Cármen Lúcia, DJe 23.11.2014; o ARE 845.938/MG, Rel. Min. Cármen Lúcia, DJe 11.11.2014; o ARE 955.473/MG, Rel. Min. Roberto Barroso, DJe 28.3.2016; e o ARE 947.805/MG, Rel. Min. Rosa Weber, DJe 25.2.2016.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 5 de maio de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
