@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98106, de 25 de abril de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3926.90.90 Mercadoria: Caixa multiuso rígida, em polipropileno, normalmente comercializada para armazenagem, organização e transporte de utensílios de pesca, cujo interior não foi concebido ou preparado para receber peças específicas, medindo 25 cm de comprimento, 14,5 cm de largura e 11,4 cm de altura, com alça, trava e bandeja.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.26), RGI 6 (texto da subposição 3926.90) e RGC-1 (texto do item 3926.90.90) da NCM, constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016, e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº  98.106-2017 .pdf]
