@@ -1,0 +1,29 @@
+Trata-se de ação cível originária proposta pelo Estado de Mato Grosso contra a União, na qual pleiteia autorização para realizar compensação de valores recolhidos a título de contribuições previdenciárias incidentes sobre subsídios de agentes políticos no período compreendido entre janeiro de 1998 e setembro de 2004, em razão da declaração de inconstitucionalidade da Lei 9.506/1997.
+    Alega o Estado fazer jus à compensação dos valores indevidamente recolhidos com base no art. 12, I, h, da Lei 8.212/1991, que tornou aquele que exerce mandato eletivo segurado obrigatório da previdência social.
+    Aduz que a Resolução do Senado 26/2005, estendeu os efeitos da decisão deste Supremo Tribunal Federal no Recurso Extraordinário (RE) 351.717/PR, que julgou inconstitucional a referida contribuição.
+    Invoca, em defesa de seu direito à compensação, as Instruções Normativas 15 e 18 da extinta Secretaria de Receita Previdenciária do Ministério da Previdência Social.
+    Ressalta, porém, que não poderia a ré obrigar o Estado a retificar as Guias de Recolhimento do FGTS e Informações à Previdência Social (GFIP), pois esta imposição implica sacrifícios desleais aos Estados, que não foram os responsáveis pelo erro ocorrido.
+    Argumenta que seria aplicável ao caso a prescrição decenal, porque, a despeito dos arts. 3º e 4º da Lei Complementar 118/2005, aplica-se a tese dos “cinco mais cinco”, consagrada pelo Superior Tribunal de Justiça (STJ), por serem todos os fatos geradores ora discutidos anteriores ao início da vigência da referida Lei Complementar, em 9 de julho de 2005.
+    Postula, assim, que lhe seja declarado o direito de compensar as parcelas vincendas de contribuições previdenciárias com os valores indevidamente recolhidos no aludido período.
+    A antecipação da tutela foi indeferida (fls. 48/54).
+    Em contestação, a União alega, inicialmente, ausência de interesse processual do pedido de compensação de tributos, por já ter reconhecido administrativamente o direito do autor.
+    No mérito, sustenta a correção do procedimento eleito para realizar a compensação, já que é por meio da GFIP, que só pode ser alterada pelo próprio emitente, que se certifica e formaliza o crédito a ser compensado ou restituído.
+    Insiste em que o emitente – no caso, o autor – é o único interessado capaz de fornecer as informações necessárias para identificar com certeza os segurados a serem excluídos da GFIP.
+    Assegura que a retificação da GFIP é procedimento rotineiro e facilmente operacionalizado.
+    Reporta-se ao art. 89 da Lei 8.212/1991, que não limita a compensação tributária ao percentual de 30% do valor recolhido em cada competência, e que institui a forma de correção dos valores a serem restituídos ou compensados em seu § 4º, o qual transcrevo:
+    “O valor a ser restituído ou compensado será acrescido de juros obtidos pela aplicação da taxa referencial do Sistema Especial de Liquidação e de Custódia – SELIC para títulos federais, acumulada mensalmente, a partir do mês subsequente ao do pagamento indevido ou a maior que o devido até o mês anterior ao da compensação ou restituição e de 1% (um por cento) relativamente ao mês em que estiver sendo efetuada” (Redação dada pela Lei nº 11.941, de 2009).
+    Requer a extinção do processo sem resolução do mérito ou, subsidiariamente, a improcedência.
+    O feito foi saneado (fls. 84/86).
+    Ato contínuo, o Estado e a União apresentaram alegações finais (respectivamente às fls. 90/101 e 104), reiterando suas manifestações anteriores.
+    Na sequência, o Ministério Público Federal opinou pela ausência de interesse processual quanto ao pedido de reconhecimento do direito à compensação tributária, pelo reconhecimento da prescrição quanto a parte das contribuições e pela regularidade do procedimento de compensação tributária instituído.
+    É o relatório. Decido.
+    Bem examinados os autos, esclareço que o autor de fato já conta com o reconhecimento administrativo da União do direito à compensação tributária pretendida, tal como ele mesmo relatou na inicial. Assim, embora seja o caso de se reconhecer a procedência da preliminar de interesse processual quanto ao reconhecimento do direito, a verdadeira irresignação do autor reside na forma de operacionalizar esta compensação tributária, e é disto que trata a presente ação.
+    Rejeito a possibilidade de ocorrência de prescrição, porque esta foi interrompida pelo reconhecimento administrativo do direito do autor nos anos de 2005 e 2006, por meio de Ato Declaratório Executivo da Receita Federal do Brasil 60/2005 e Portaria do Ministério da Previdência Social 133/2006. Aplica-se ao caso o art. 202, VI, do Código Civil.
+    Passando ao mérito propriamente dito, não vinga a irresignação do autor quanto ao procedimento determinado pela ré para a compensação tributária, porque não há falar em impropriedade na retificação das guias de recolhimento das contribuições previdenciárias.
+    Trata-se de obrigação acessória que foi regularmente instituída pela legislação tributária (art. 96 do Código Tributário Nacional), tal como autorizado pelos arts. 194 e seguintes desse mesmo diploma legal. Assim, não há falar em reserva legal para a instituição de obrigações tributárias acessórias.
+    Além disso, embora o Estado não tenha sido o causador dos fatos que levam à compensação tributária, não explicou porque o procedimento adotado seria desproporcional ou excessivamente gravoso, devendo cumprir com os procedimentos válida e legalmente estabelecidos para tanto.
+    Isso posto, julgo improcedente o pedido inicial. Condeno o autor ao pagamento das custas e de honorários advocatícios, que, nos termos do art. 85, § 4º, III, combinado com § 3º, II, do Código de Processo Civil, fixo em 8% do valor dado à causa.
+    Publique-se.
+    Brasília, 8 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
