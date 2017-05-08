@@ -1,0 +1,15 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo de instrumento foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado (fls. 379):
+    “AÇÃO CIVIL PÚBLICA – Atividade comercial dos lojistas da Rua 25 de Março e adjacências comprometida pela ação dos comerciantes clandestinos. A Administração Pública não demonstrou ter adotado as medidas previstas em lei para impedir e reprimir o comércio ambulante, que afeta a livre concorrência. Omissão da Municipalidade reconhecida. Preliminares afastadas. Recursos improvidos.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 2º e 18 da Constituição da República.
+    Cumpre destacar, desde logo, que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    A mera análise do acórdão impugnado torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático- -probatórios, a seguir destacados (fls. 381/382):
+    “Restou incontroverso nos autos que a atividade comercial dos lojistas da Rua 25 de Março e adjacências está comprometida pela ação dos comerciantes clandestinos, não havendo demonstrado a Administração Pública ter adotado as medidas previstas em lei para impedir e reprimir o comércio ambulante, que afeta a livre concorrência.
+    …...................................................................................................
+    No presente caso, não tendo a Municipalidade dado efetivo cumprimento a sua obrigação de impedir e de reprimir o comércio ambulante irregular na região da 25 de Março, surgiu a necessidade de fazer com que a mesma cumprisse a lei e passasse a atuar em prol da comunidade. (…).”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 08 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
