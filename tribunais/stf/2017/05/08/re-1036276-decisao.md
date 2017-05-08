@@ -1,0 +1,14 @@
+DECISÃO: O presente agravo foi interposto por Breno Ryba e outros contra decisão que negou trânsito ao apelo extremo por eles deduzido, no qual sustentaram que o acórdão proferido pelo E. Tribunal Regional Federal da 4ª Região teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário em questão não se revela viável.
+    Cumpre ressaltar, desde logo, que o Plenário do Supremo Tribunal Federal, ao julgar o AI 842.063-RG/RJ, Rel. Min. CEZAR PELUSO, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa, e, na mesma oportunidade, reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Art. 1º-F da Lei 9.494/97. Aplicação. Ações ajuizadas antes de sua vigência. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso provido. É compatível com a Constituição a aplicabilidade imediata do art. 1º-F da Lei 9.494/97, com alteração pela Medida Provisória nº 2.180-35/2001, ainda que em relação às ações ajuizadas antes de sua entrada em vigor.”
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Cumpre ressaltar, ainda, que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, ”b”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 08 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
