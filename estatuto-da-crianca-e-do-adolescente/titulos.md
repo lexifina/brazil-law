@@ -119,6 +119,7 @@ Seção IV
 Da Colocação em Família Substituta
 Seção V
 Da Apuração de Ato Infracional Atribuído a Adolescente
+Seção V-A
 Da Infiltração de Agentes de Polícia para a Investigação de Crimes contra a Dignidade Sexual de Criança e de Adolescente"
 Seção VI
 Da Apuração de Irregularidades em Entidade de Atendimento
