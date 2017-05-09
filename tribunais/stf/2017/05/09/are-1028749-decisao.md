@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-DOC 6, p. 2):
+    “AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. HERDEIRO. INCLUSÃO. CARACTERIZAÇÃO DE SEGURADO. INEXISTÊNCIA. RESERVA DE QUOTA-PARTE PELA AUTARQUIA. IMPOSSIBILIDADE.
+    Muito embora a atual pensionista e ex-cônjuge do de cujus integre a relação processual, a reserva da quota-parte pretendida pela autarquia resta inviabilizada pelo fato de que inexiste – ao menos pelas informações colacionadas pelo agravante – declaração de que o autor da ação, que pleiteia adquirir a condição de assegurado, assim tenha sido reconhecido por sentença ou por decisão liminar. Inteligência do art. 27 da Lei Estadual nº 7.672/82.
+    AGRAVO DE INSTRUMENTO DESPROVIDO POR MAIORIA.”
+    Os embargos de declaração foram desacolhidos (eDOC 7, p. 2).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 40, §§ 2º e 7º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que o valor da pensão por morte, conforme o regime de pagamento estabelecido pela Lei Estadual 7.672/82, com a redação dada pela Lei Estadual 7.716/82, deve ser dividido em cotas iguais entre todos os dependentes habilitados. Dentro desse contexto, argumenta-se que a não reserva da quota-parte eventualmente cabível a outro beneficiário acarretará a alegada violação constitucional, pois a autarquia terá um dispêndio que ultrapassará o valor determinado pela legislação, uma vez que a pensionista já habilitada recebe a integralidade do valor da pensão e essa verba é irrepetível por possuir natureza alimentar.
+    A Vice-Presidência do Tribunal a quo inadmitiu o recurso em face da incidência das Súmulas 280 e 636 do STF.
+    É o relatório. Decido.
+    O acórdão recorrido foi desprovido sob os seguintes fundamentos (e-DOC 6, pp. 4-5):
+    “Cinge-se a controvérsia quanto à possibilidade de manutenção da decisão que impediu a reserva de quota-parte de herdeiro que busca habilitação como pensionista de ex-servidor de pensão percebida, atualmente, em sua integralidade, pela viúva do instituidor.
+    Não prospera a insurgência.
+    Conforme prova constantes dos autos, a pensionista ELENA MARIA PETTO LANCINI foi notificada da existência da presente ação, tendo, inclusive, apresentado contestação (fls. 25/36).
+    Assim, pela prova supra corroborada pelas informações processuais, percebe-se que a ação hoje tramita contra dois réus: o IPERGS e a viúva do ex-servidor, na condição de litisconsorte necessária.
+    Ora, diante do fato de integrar a relação processual e de, inclusive, ter contestado o feito em 01/07/2010 (fl. 19) – momento bem anterior à notícia, pela mesma, de que comunicado remetido pelo IPERGS que ‘em caráter cautelar irá readequar o valor da pensão por morte… levando-se em conta o número de dependentes’ quanto à reserva da quota-parte do herdeiro da existência da presente ação –, a reserva da quota-parte pretendida pela autarquia resta inviabilizada, mas não por eventual afronta ao contraditório e à ampla defesa. Com efeito, a impossibilidade da reserva decorre do fato de que inexiste – ao menos pelas informações colacionadas pelo agravante – declaração de que o autor da ação, que pleiteia adquirir a condição de assegurado, assim tenha sido reconhecido por sentença ou por decisão liminar.
+    Quanto à matéria, prevê especificamente, a Lei Estadual nº 7.672/82:
+    ‘Art. 27 – O valor da pensão por morte será constituído de uma Quota Familiar correspondente a quarenta e cinco por cento do Salário de Benefício, acrescida de tantas Quotas individuais, correspondentes a cinco por cento do Salário de Benefício, quantos forem os dependentes habilitados, até o máximo de onze.
+    § 1º – O valor monetário assim obtido será transposto para Unidades-Padrão de Serviços, para efeito de reajustes posteriores, e rateado, em partes iguais, entre os dependentes habilitados. (grifei)
+    Depreende-se, portanto, com base no § 1º supra, que o valor da pensão por morte deve ser rateado entre os dependentes habilitados.
+    Ocorre que o autor Edson não está habilitado, buscando exatamente isto através da presente ação.
+    A simples determinação de suspensão parcial da pensão percebida pela co-ré revela-se, no mínimo, arbitrária, já que carece, visivelmente, de substrato jurídico para tanto.”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo acórdão impugnado demandaria o exame da legislação local (Lei Estadual 7.672/83), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmulas 280 do STF. Sobre o tema:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.11.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido.” (ARE 877.864-AgR, Min. Rel. Rosa Weber, Primeira Turma, DJe 11.06.2015)
+    Ademais, a discussão quanto à controvérsia da parte ostentar ou não a condição de beneficiário do instituidor da pensão implica rever fatos e provas, o que é inviável em face do óbice da Súmula 279 do STF.
+    Ante o exposto, nego provimento ao agravo, nos termos do artigo 932, IV, “a”, do CPC.
+    Publique-se. Intime-se.
+    Brasília, 09 de maio de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
