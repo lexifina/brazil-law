@@ -1,0 +1,18 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO LEGAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA SOBRE O FATURAMENTO. LEGALIDADE DA MEDIDA. CONSTRIÇÃO NO PERCENTUAL DE 5%. RAZOABILIDADE. OPERAÇÕES DA AGRAVADA NÃO INVIABILIZADA. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+    1. A penhora de percentual do faturamento da empresa vem sendo admitida pela doutrina e pela jurisprudência de nossos Tribunais, em situações excepcionais, constituindo-se na constrição que recai sobre parte da renda da atividade empresarial do executado.
+    2. Entretanto, por se caracterizar como providência excepcional, o montante estipulado há de ser moderado, de sorte a não comprometer a normalidade dos negócios da empresa, pelo que não vislumbro qualquer vulneração aos arts. 5º, XIII e 170, VII e VIII, da Carta Magna. Dessa forma, mostra-se razoável a fixação da constrição no percentual de 5% (cinco por cento) do faturamento da empresa, patamar que não inviabiliza as operações comerciais da agravada.
+    3. Embora a agravante alegue genericamente que possui diversos bens, não juntou qualquer documento que ateste a existência e propriedade nem tampouco a avaliação desses, a fim de ver afastada a excepcionalidade que levou o MM. Juízo a quo a determinar a penhora do faturamento.
+    4. Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática.
+    5. Agravo legal improvido”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, e 170, VII e VIII, da Carta. A parte recorrente sustenta que não foram esgotados todos os meios para localizar bens da devedora e que, portanto, a penhora de parcela do faturamento da recorrente pode ocasionar o encerramento da atividade empresarial. Aduz que o valor de 5% do faturamento mensal penhorado poderá se destinado ao pagamento das atividades da empresa e que a recorrente possui diversos outros bens em condições de garantir o juízo.
+    A pretensão recursal não merece prosperar, tendo em vista que a matéria tal como disposta nas razões da recorrente demandaria o reexame do conjunto fático e probatório, bem como da legislação infraconstitucional, hipóteses vedadas em sede de recurso excepcional. Confira-se:
+    “DIREITO TRIBUTÁRIO. PROCESSO CIVIL. EXECUÇÃO FISCAL. PENHORA SOBRE FATURAMENTO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 09.3.2012. Ambas as Turmas desta Corte têm-se posicionado no sentido de que controvérsia envolvendo ordem de penhora insere-se no campo infraconstitucional. Assim, no caso, eventual incompatibilidade com a Carta da República, se ocorresse, teria caráter reflexo ou indireto, aspecto a inviabilizar o processamento do apelo extremo. Agravo regimental conhecido e não provido” (ARE 746510 AgR / SP, Rel. Min. Rosa Weber)
+    “Agravo regimental em agravo de instrumento. 2. Processual civil e tributário. Penhora de faturamento mensal. Matéria infraconstitucional. Ofensa reflexa. Precedentes. 3. Agravo regimental a que se nega provimento” (AI 828886 AgR / RS, Rel. Min. Gilmar Mendes)
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada da na instância anterior, observados os limites legais do art. 85, §§§ 3º, 4º e 5º, do CPC/2015.
+    Publique-se.
+    Brasília, 09 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
