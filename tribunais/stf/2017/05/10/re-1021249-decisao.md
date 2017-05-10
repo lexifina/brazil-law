@@ -1,0 +1,10 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão da Segunda Turma Cível do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “DIREITO TRIBUTÁRIO. ISS. CESSÃO DO DIREITO DE USO DE MARCA. INCIDÊNCIA. LEGALIDADE. LEI COMPLEMENTAR N. 116/2003. O Supremo Tribunal Federal afastou a aplicação da Súmula Vinculante n. 31 à hipótese de cobrança do ISSQN sobre a cessão de direito de uso de marcas, porquanto entendeu que esta não pode ser considerada locação de bem móvel, mas sim serviço autônomo especificamente previsto na LC 116/2003, manifestando-se no sentido da legalidade de incidência do referido imposto sobre tais serviços (Rcl. 8.623 AGR /RJ, 2ª Turma, em 22/02/2011, DJ 09/03/2011). Recurso conhecido e não provido”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 154, I, e 156, III, ambos da Carta. Sustenta que a cessão de uso de marca não caracteriza uma prestação de serviço, porquanto não envolve uma obrigação de fazer, e sim de dar, o que afasta a incidência do ISS. Defende a inconstitucionalidade do item 3.02 da lista anexa à LC 116/03.
+    A pretensão recursal não merece prosperar. Esta Corte fixou entendimento no sentido de que a cessão do direito de uso de marca não pode ser considerada locação de bem móvel, mas serviço autônomo especificamente previsto na Lei Complementar nº 116/2003. Dessa forma, cabível na hipótese a incidência de ISS. Confira-se:
+    “Agravo regimental em reclamação. 2. Paradigma proferido pela 2ª Turma em processo subjetivo. 3. Inexistência de estrita adequação entre o acórdão-paradigma e o ato reclamado. Precedentes. 4. ISS. Incidência sobre contratos de cessão de direito de uso da marca. Possibilidade. Lei Complementar 116/2003. Item 3.02 do Anexo. 5. Agravo regimental ao qual se nega provimento”. (Rcl 8.623, Rel. Min. Gilmar Mendes)
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 10 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
