@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 23 e 30 e 37, XXI, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos apontados dispositivos da Constituição da República.
+    A verificação da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo demanda prévio reexame da interpretação conferida pelo Tribunal de origem a cláusulas contratuais, o que é vedado a esta instância extraordinária, a teor da Súmula 454/STF: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONTRATO DE CONCESSÃO. DESCUMPRIMENTO. APLICAÇÃO DE MULTA PELA AGÊNCIA REGULADORA. OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636. NECESSIDADE DE REEXAME DAS CLÁUSULAS CONTRATUAIS. SÚMULA 454. MAJORAÇÃO DE HONORÁRIOS. CABIMENTO. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – Este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal de origem (Súmula 636 do STF). II – Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame de cláusulas contratuais e a interpretação de normas infraconstitucionais, o que atrai a incidência da Súmula 454/STF ou porque a afronta à Constituição, caso ocorrente, seria indireta. III- Nos termos do art. 85, § 11, do CPC, majoro os honorários recursais, observados os limites legais dos § 2° e § 3°, do mesmo artigo. IV- Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC.” (ARE 1002327-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 11.4.2017)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de maio de 2017.
+Ministra Rosa Weber
+Relatora
