@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à procedência do pedido de recebimento da Gratificação de Desempenho de Fiscais Federais Agropecuários - GDFFAA - na mesma proporção paga aos servidores da ativa, diante do caráter genérico da rubrica. O recorrente afirma violados os artigos 5º, incisos XXXIV, XXXV, LIV e LV, 37, inciso XI, 40, § 8º, 93, inciso IX, 100, § 12, e 102, § 2º, da Constituição Federal e 3º, cabeça, da Emenda Constitucional nº 47/2005. Argui a nulidade do acórdão dos embargos declaratórios porquanto a matéria levada ao colegiado não foi ventilada no acórdão recorrido. Afirma inexistir direito ao recebimento da nova gratificação pelos inativos. Diz descaber a paridade entre servidores em atividade e aposentados.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, versando, detalhadamente, sobre as razões pelas quais julgou improcedente o pedido de fornecimento de medicamentos não descritos na inicial.
+    A decisão proferida pelo Tribunal de origem está em consonância com a jurisprudência do Supremo. Confiram com as seguintes ementas:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PREVIDENCIÁRIO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE REFORMA AGRÁRIA GDARA. NATUREZA GERAL RECONHECIDA PELO TRIBUNAL DE ORIGEM. EXTENSÃO AOS INATIVOS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    (agravo regimental no recurso extraordinário nº 517387, relatado na Primeira Turma pela ministra Cármen Lúcia, acórdão publicado no Diário da Justiça de 3 de outubro de 2010).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE REFORMA AGRÁRIA GDARA. EXTENSÃO. SERVIDORES INATIVOS. POSSIBILIDADE. SÚMULA VINCULANTE 20. AGRAVO IMPROVIDO.
+    I É possível a extensão da GADARA aos inativos tendo em vista que a jurisprudência desta Corte tem aplicado às diversas gratificações concedidas no âmbito do serviço público federal o mesmo entendimento que embasou a Súmula Vinculante 20, que trata da Gratificação de Desempenho de Atividade Técnico-Administrativa GDATA.
+    II Agravo regimental improvido.
+    (agravo regimental no recurso extraordinário nº 630880, relatado na Segunda Turma pelo ministro Ricardo Lewandowski, acórdão publicado no Diário da Justiça de 5 de junho de 2012).
+    No mais, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário. Fixo os honorários recursais no patamar de 5% sobre o valor da condenação.
+    4. Publiquem.
+Brasília, 10 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
