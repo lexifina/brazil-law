@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Superior Eleitoral, que, em recurso especial eleitoral, manteve o indeferimento do registro de candidatura do requerente para o cargo de Prefeito do Município de Teresópolis/RJ, nas eleições 2012, com base no art. 1º, II, d, da Lei Complementar 64/1990, com redação dada pela Lei Complementar 135/2009.
+    Em 21/3/2014, neguei seguimento ao recurso extraordinário com agravo, ao entender que
+    “Por ocasião do julgamento das Ações Declaratórias de Constitucionalidade 29 e 30, de Relatoria do Min. Luiz Fux, esta Corte julgou procedente as ações para declarar a constitucionalidade da aplicação da Lei Complementar 135/2010 a atos e fatos jurídicos que tenham ocorrido antes do advento do referido diploma.”
+    Ademais, naquela decisão, transcrevi trecho do voto proferido pelo Ministro Relator Luiz Fux, quando do julgamento da ADC 29, que volto a replicar:
+    “[...] a elegibilidade é a adequação do indivíduo ao regime jurídico constitucional e legal complementar do processo eleitoral, consubstanciada no não preenchimento de requisitos negativos (as inelegibilidades). Vale dizer, o indivíduo que tenciona concorrer a cargo eletivo deve aderir ao estatuto jurídico eleitoral. Portanto, a sua adequação a esse estatuto não ingressa no respectivo patrimônio jurídico, antes se traduzindo numa relação ex lege dinâmica.
+    É essa característica continuativa do enquadramento do cidadão na legislação eleitoral, aliás, que também permite concluir pela validade da extensão dos prazos de inelegibilidade, originariamente previstos em 3 (três) , 4 (quatro) ou 5 (cinco) anos, para 8 (oito) anos, nos casos em que os mesmos encontram-se em curso ou já se encerraram. Em outras palavras, é de se entender que, mesmo no caso em que o indivíduo já foi atingido pela inelegibilidade de acordo com as hipóteses e prazos anteriormente previstos na Lei Complementar nº 64/90, esses prazos poderão ser estendidos se ainda em curso ou mesmo restaurados para que cheguem a 8 (oito) anos, por força da lex nova , desde que não ultrapassem esse prazo.
+    Explica-se: trata-se, tão-somente, de imposição de um novo requisito negativo para a que o cidadão possa candidatar-se a cargo eletivo, que não se confunde com agravamento de pena ou com bis in idem” .
+    Os recorrentes interpuseram agravo regimental que, após ser apregoado para julgamento pela Segunda Turma, foi afetado ao Pleno.
+    Entretanto, observo que o pedido formulado neste recurso extraordinário cinge-se ao deferimento do registro de candidatura para o pleito de 2012, bem como a determinação de nova contagem dos votos e a consequente diplomação e posse do autor.
+    Com o decurso do tempo, verifico que o pretenso mandato, conferido aos eleitos nas eleições de 2012, extinguiu-se em 1° de janeiro de 2017, inaugurando a gestão dos candidatos que obtiveram êxito no pleito de 2016, acarretando, assim, na perda de objeto do presente recurso.
+    Isso posto, julgo extinto o recurso extraordinário e declaro prejudicado o recurso de agravo regimental.
+    Publique-se.
+    Arquive-se.
+    Brasília, 10 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
