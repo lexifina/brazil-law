@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal Regional Federal da 1ª Região confirmou o entendimento do Juízo quanto à procedência do pedido formulado em ação de anulação de ato que excluiu candidato de concurso público para o cargo de perito criminal consignou, tendo em vista a realização de novo teste psicológico e a aprovação das demais fases do certame e do curso de formação. No extraordinário cujo trânsito busca alcançar, a recorrente aponta a violação dos artigos 5º, cabeça, e 37, inciso II, da Constituição Federal. Tece considerações sobre a impossibilidade da incidência da teoria do fato consumado. Afirma contrariados os princípios da isonomia e da legalidade, porquanto deferida ao autor a realização de teste em condições diversas daquelas impostas aos demais concorrentes.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    O Colegiado de origem expressamente consignou a ter a nomeação do candidato decorrido de sua aprovação em novo exame psicológico, com observância de critérios objetivos e possibilidade de recurso do resultado:
+    A matéria é conhecida dos eminentes pares, assim como o meu posicionamento a respeito, que condiciona o prosseguimento no concurso à realização de novo exame, sem a exigência de determinado perfil profissiográfico, de caráter sigiloso.
+    […]
+    A realização desse segundo exame, no meu sentir, atende ao princípio constitucional da igualdade, visto que os demais participantes do certame submeteram-se à avaliação psicológica, cuja exigência é legal e constitucional.
+    Ocorre que, no caso, há peculiaridade que deve ser levada em consideração. Depois de haver obtido a antecipação dos efeitos da tutela para participar das demais fases do certame, inclusive do Curso de Formação Profissional, nos autos do AI n. 2005.01.00.058169-0/DF (fls. 185-194, 285-286 e 288-295), o recorrido pleiteou nova antecipação da tutela recursal, nos autos do AI n. 2007.01.00.027022-0/DF, dessa vez, pugnando pela submissão a nova avaliação psicológica e, na hipótese de aprovação, sua nomeação e posse no cargo de Perito de Polícia Federal, no que foi atendido (fls. 413-415).
+    […]
+    no que diz respeito à submissão do candidato à nova avaliação psicológica, conforme consta da sentença, reputo que tal determinação decorre do próprio pedido deduzido em Juízo (fl. 23) e, por óbvio, já foi devidamente cumprida, em atendimento à ordem judicial, oriunda de tutela recursal.
+    Afastado o exame realizado, ante à ilegalidade dos respectivos parâmetros, e realizado novo teste, na forma da legislação de regência, e tendo em vista a aprovação do candidato em todas as fases do certame, concluiu o Colegiado pelo direito à nomeação e à posse. Ora, nem como muito empenho seria dado concluir pela violação aos preceitos constitucionais indicados. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 10 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
