@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Colegiado de origem, reformando parcialmente o entendimento do Juízo, julgou procedente o pedido de aposentadoria integral por tempo de contribuição, comprovado o trabalho em condições especiais por 35 anos, 5 meses e 8 dias. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 1º, inciso IV, 2º, 5º, cabeça e incisos LIV e LV, 37, cabeça, 84, inciso IV, 93, inciso IX, 194, parágrafo único e incisos III e V, 195, § 5º, e 201, cabeça e § 1º, da Constituição Federal. Tece considerações sobre a legislação de regência, afirmando não ser a arma de fogo um agente nocivo à saúde, inexistindo justificativa ao tempo especial concedido.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    Quanto à evocação do enquadramento do extraordinário na alínea b do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco da agravante, de vez que o Tribunal de origem não declarou a inconstitucionalidade de tratado ou de lei federal.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    Assim, desde que se comprove que o trabalho se deu de modo habitual e permanente, com risco de vida no desempenho da atividade de vigilante, mediante uso de arma de fogo, não mais persiste o óbice ao aproveitamento do período como especial.
+    No caso, o PPP exibido no anexo 10 comprova que o demandante laborou como vigia/vigilante, com manuseio de arma de fogo, no intervalo de 29/04/1995 a 01/02/1999, de sorte que cabível a contagem majorada de tal interregno. Nessa esteira, constato que o demandante logrou comprovar 35 anos, 05 meses e 08 dias de tempo de serviço/contribuição, fazendo jus, destarte, à obtenção de ATC integral, a partir da citação, com o pagamento das parcelas em atraso desde então. Isso porque os requisitos para a concessão do benefício só foram cumpridos após a DER. Resta a DIP fixada na data deste julgado.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5% do valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 10 maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
