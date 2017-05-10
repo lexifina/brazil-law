@@ -1,0 +1,31 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus interposto por Kleber Carlos Lima contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC nº 373.878/RJ, Relator o Ministro Rogério Schietti Cruz.
+    Alega o recorrente, em suma, a falta de fundamentação apta a justificar a necessidade da sua custódia preventiva, bem como estariam ausentes os pressupostos autorizadores da prisão, previstos no art. 312 do Código de Processo Penal.
+    Afirma a defesa, a possibilidade de substituição da custódia por medidas cautelares diversas, na forma do art. 319 do Código de Processo Penal.
+    Aduz-se, ainda, o constrangimento ilegal por excesso de prazo no andamento da persecução penal, uma vez que o recorrente está preso preventivamente sem culpa formada desde 17/2/16.
+    Requer-se o provimento do recurso para que, concedida a ordem de habeas corpus, ainda que de ofício, seja revogada a prisão preventiva do recorrente ou substituída por medidas cautelares diversas.
+    Examinados os autos, decido.
+    Transcrevo a ementa do aresto recorrido:
+    “HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, ROUBO CIRCUNSTANCIADO, LATROCÍNIO CONSUMADO E TENTADO E PECULATO. AUSÊNCIA DE PROVA DO ENVOLVIMENTO DO PACIENTE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. SUPRESSÃO DE INSTÂNCIA. ORDEM DENEGADA.
+    1. O Juízo de primeira instância, ao decretar a custódia preventiva dos acusados, considerou haver elementos idôneos para demonstrar que todos os denunciados participavam da suposta atividade delitiva, conclusão que foi mantida no acórdão ora impugnado. Para afastar esse entendimento, seria necessária ampla dilação probatória, incompatível com a via escolhida, consoante a pacífica jurisprudência desta Corte Superior.
+    2. A jurisprudência desta Corte Superior é firme em assinalar que a determinação de segregar o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+    3. O Juízo singular, ao decretar a custódia preventiva, ressaltou o fundado risco de reiteração delitiva, ante os indícios da existência de organização criminosa voltada, principalmente, para a prática de ilícitos contra o patrimônio, em diversas localidades do estado do Rio de Janeiro, mormente nas regiões da Baixada Fluminense e dos Lagos, e que, por vezes, executava as vítimas ou outros indivíduos envolvidos no crime.
+    4. O suposto excesso de prazo para o encerramento do feito não foi objeto de exame pelo Tribunal a quo, de forma que a apreciação do tema diretamente por esta Corte Superior importaria em indevida supressão de instância.
+    5. Ordem denegada.” (fl. 204)
+    O julgado proferido pela Sexta Turma do Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia que justifique o acolhimento do recurso. Com efeito, a decisão emanada daquela aquela Corte encontra-se suficientemente motivada, restando justificado o convencimento formado.
+    Consoante consignado pelo Ministro Rogério Schietti, no voto condutor do acórdão recorrido,
+    “a decisão que decretou a custódia preventiva dos acusados evidenciou fundado risco de reiteração delitiva, ante os indícios da existência de organização criminosa voltada, principalmente, para a prática de ilícitos contra o patrimônio, em diversas localidades do estado do Rio de Janeiro, mormente nas regiões da Baixada Fluminense e dos Lagos, e que, por vezes, executava as vítimas ou outros indivíduos envolvidos no crime.” (fl. 213 – grifos do autor)
+    Esse entendimento não fere a jurisprudência da Corte, segundo a qual,
+    “[se] as circunstâncias do caso indicam a periculosidade do agente e o risco concreto de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardo da ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria” (RHC nº 123.295/PE, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 14/4/15).
+    No mesmo sentido: HC nº 123.304/MS, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/12/14; RHC nº 122.647/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 15/9/14; RHC nº 121.399/SP, Primeira Turma, de minha relatoria, DJe de 1º/8/14; HC nº 120.134/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 14/2/14.
+    Quanto ao alegado excesso de prazo, registro que o tema não foi analisado pelo Superior Tribunal de Justiça ao argumento de que “não foi objeto de exame pelo Tribunal a quo (...)”. Portanto, sua análise, de forma originária, neste ensejo, configuraria inadmissível dupla supressão de instância.
+    Nesse sentido: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ 25/5/07, entre outros.
+    Aliás, a pretensão da concessão da ordem de ofício nesse aspecto, demonstra a intenção do recorrente de submeter o controle de legalidade do ato de primeiro grau diretamente ao Supremo Tribunal Federal, o que vulnera o sistema de competências constitucionalmente estabelecido.
+    Por fim, é de bom alvitre registrar a jurisprudência da Corte, segundo a qual “[é] inviável a apreciação da tese defensiva de inexistência de prova da participação do paciente no crime, enquanto a exigir o reexame e a valoração de fatos e provas, para o que não se presta a via eleita.” (RHC nº 125.240/PE, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 12/5/16)
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário.
+    Publique-se.
+    Brasília, 10 de maio de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
