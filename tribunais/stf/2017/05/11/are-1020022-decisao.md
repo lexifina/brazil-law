@@ -1,0 +1,34 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário em face do acórdão do Tribunal de Justiça de São Paulo, assim ementado (eDOC-3, p. 142):
+    “Execução hipotecária – Escritura pública de venda e compra com pacto adjeto de confissão de dívida e de primeira, única e especial hipoteca – Consórcio de imóvel – Execução extinta, com base no art. 269, VI, do CPC, reconhecendo-se a prescrição intercorrente – Inadmissibilidade – O reconhecimento da prescrição intercorrente depende de prévia intimação pessoal do exequente para dar andamento ao feito, de modo que a fluência do prazo prescricional somente se inicia quando o credor, intimado o credor, intimado pessoalmente a dar andamento ao feito, permanece inerte – Precedentes do STJ. Execução que permaneceu paralisada entre agosto/2000 a outubro/2007 sem que, no entanto, fosse intimada pessoalmente a exequente a dar regular andamento à execução – Prescrição intercorrente na hipótese – Sentença reformada – Recurso provido (art. 557, § 1º-A, do CPC).”
+    No Recurso Extraordinário, com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa aos artigos 1º, III, 5º, caput, XXXII, XXXV, XLII, XLIV, XLVII, “b”, LXXVIII, §§ 1º, 2º; 7º, XXIX, “a”, “b”; 170, V, do Texto Constitucional e 48 da ADCT.
+    O Tribunal de Justiça de São Paulo inadmitiu o recurso com fundamento no óbice da Súmulas 282, tendo-se registrado que “para se perquirir a ocorrência de contrariedade à legislação constitucional, mister se mostra o revolvimento de normas infraconstitucionais, não se caracterizando o requisito da afronta direta à Carta Magna.” (e-DOC 4, p. 50).
+     É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Vejamos o seguinte trecho do acórdão impugnado:
+    “Trata-se de execução hipotecária fundada em escritura pública de venda e compra com pacto adjeto de confissão de dívida e de primeira, única e especial hipoteca (fls. 17/20), no qual os executados figuraram como participantes de cotas de grupos de consórcio de bens imóveis, deixando de honrar com as prestações vencidas de 20/06/92 a 10/06/93, objetivando-se o recebimento do valor de Cr$ 605.299.070,93 (seiscentos e cinco milhões, duzentos e noventa e nove mil, setenta cruzeiros e noventa e três centavos), atualizados para julho de 1993 (fols. 23/24).
+    A execução foi ajuizada em 30/07/1993, opondo os executados embargos à execução, julgados improcedentes por sentença de 06/09/94, com recurso interposto pelos embargantes negado pelo Tribunal por acórdão de 23/05/1996 (fls. 29V/30v e 49/48 do apenso).
+    A coexecutada Maria Helena requereu em petição protocolada em 07/08/2012, o reconhecimento da prescrição intercorrente da execução, com base no art. 27 do CDC e dos arts. 189, 193 e 202 do CC e art. 794, II ou 269, IV, do CPC ou, alternativamente, a insubsistência da penhora por tratar-se de imóvel impenhorável por tratar-se de bem de família de acordo com a Lei 8009/90 (fls. 374/392).
+    A r. sentença de fls. 402/403, entendendo que o prazo prescricional para a cobrança do débito é de cinco anos (art. 206, § 5º, inciso I, no NCC) e que os autos permaneceram paralisados por inércia da credora por período superior a referido prazo prescricional, julgou extinta a execução, com base no art. 269, IV, do Código de Processo Civil, declarando extinta a obrigação, reconhecendo a ocorrência da prescrição intercorrente.
+    Preservado o entendimento da d. Juíza de Direito, dá-se provimento ao recurso, com base no art. 557, § 1º-A do CPC, porque a r. sentença recorrida encontra-se em confronto com a jurisprudência dominante do C. STJ.
+    De acordo com a lição de Humberto Theodoro Jr.:
+    (…)
+    Partindo-se de tal premissa, o Superior Tribunal de Justiça há muito assentou o entendimento de que para o reconhecimento da prescrição intercorrente é imprescindível a prévia intimação pessoal do exequente para dar andamento ao feito.
+    Assim, a fluência do prazo prescricional somente se verifica quando o exequente, intimado pessoalmente para manifestar-se em termos de prosseguimento da execução, permanece inerte, ensejando a paralisação do procedimento executivo.
+    Neste sentido, confira-se:
+    (…)
+    Sobre o tema, precedentes deste E. Tribunal, inclusive desta C. Câmara:
+    (…)
+    In casu, em 17/14/2000 a exequente foi intimada pela imprensa oficial para retirar a carta de adjudicação do imóvel objeto da matrícula 3.716 do CRI de Dois Córregos/SP expedida em seu favor (fls. 164), dando atendimento ao despacho em 02/05/2000 (fls. 164).
+    A execução permaneceu paralisada de maio a agosto de 2000, motivo pelo qual o Juiz determinou provocação no arquivo por despacho de 08/08/2000 (fls. 165).
+    Em 31 de outubro de 2007, a exequente requereu o desarquivamento dos autos (fls. 172), pugnando, em petição protocolada em 16/01/2008, pelo bloqueio on line dos ativos financeiros dos executados no valor de R$ 34.818,70 (trinta e quatro mim, oitocentos e dezoito reais e setenta centavos), conforme planilha de cálculo apresentada (fls. 174/175), retomando, assim, o curso da execução.
+    Diante desse quadro, conquanto tenha havido requerimento expresso dos executados no sentido de reconhecer-se a ocorrência da prescrição intercorrente no período em que os autos encontravam-se paralisados (08/2000 a 12/2007) (cf. Fls. 737/739), não poderia a d. juíza sentenciante reconhecê-la, na hipótese.
+    Isto porque, não obstante a paralisação da exequente em promover o normal andamento da execução (que, na época, sequer encontrava-se suspensa, por falta de bens penhoráveis), não foi ela pessoalmente intimada para dar regular andamento ao feito, a fim de que o prazo prescricional passasse a fluir.
+    Assim, não sendo a exequente intimada pessoalmente para dar andamento à execução, sobe pena de aplicação dos efeitos da prescrição, esta não poderia ser reconhecida.
+    Desse modo, verifica-se que a r. sentença recorrida se coloca em claro confronto com a jurisprudência pacífica do Superior Tribunal de Justiça e deste Tribunal, razão pela qual dá-se provimento ao recurso, nos termos do art. 557, § 1º-A, do CPC, para afastar o reconhecimento da prescrição intercorrente, determinando-se o prosseguimento da execução.” (e-DOC 3, p. 142/147)”.
+    Constata-se que, no caso concreto, a solução da demanda ensejaria reexame de fatos e provas e, ademais, apresenta-se destituída de relevância que transcenda os interesses das partes envolvidas no conflito, constituindo-se peculiar situação jurídica limitada aos interesses subjetivos das partes. Inviável, portanto, o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Publique-se.
+    Brasília, 11 de maio de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
