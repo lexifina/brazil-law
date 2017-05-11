@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “DIREITO ADMINISTRATIVO. DIREITO CIVIL. AÇÃO DE COBRANÇA. NOVACAP. ADMINISTRAÇÃO PÚBLICA INDIRETA. DESCENTRALIZAÇÃO POR SERVIÇOS. PRESTAÇÃO DE SERVIÇOS PÚBLICOS. CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE PAVIMENTAÇÃO DO SETOR HABITACIONAL NOROESTE. CANCELAMENTO DE NOTA DE EMPENHO. DECRETO DISTRITAL 36.182/2014. SERVIÇOS PRESTADOS. INEXISTÊNCIA DE FATO IMPEDITIVO, EXTITNTIVO OU MODIFICATIVO DA COBRANÇA. SENTENÇA MANTIDA”. (eDOC 5, p. 2)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, alega-se violação aos princípios da legalidade, da segurança jurídica, da supremacia do interesse público e da tripartição de poderes.
+    Nas razões recursais, a recorrente alega que, apesar de ter firmado contrato de empreitada com a recorrida, depende de alocação de verbas do Distrito Federal para pagamento das obrigações assumidas.
+    A esse propósito aduz que a responsabilidade do Distrito Federal pelo referido pagamento não é subsidiária, pois seria ele o responsável pela emissão dos recursos para o custeio da obra, nos termos do contrato firmado. (eDOC 6, p. 8)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, bem como interpretar cláusulas contidas em contrato firmado entre as partes, consignou a autonomia, a responsabilidade e a legitimidade passiva da recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No caso vertente, o contrato objeto desta ação de cobrança foi firmado diretamente com a NOVACAP. A própria contratante apontou a fonte dos recursos para o pagamento dos serviços objeto do contrato, bem como a sua responsabilidade pelo pagamento.
+    A Nota de Empenho em favor da empresa autora teve sua emissão autorizada em 22/09/2014 pela própria diretoria financeira da NOVACAP (fl.74), cujos recursos eram provenientes de cancelamento da NE 680/2014. Expediu-se a nota de empenho nº 2634/2014 para pagamento do reajustamento referente à 10ª medição (fl.78).
+    Não há como se esquivar do adimplemento da obrigação nesta fase cognitiva”. (eDOC 5, p. 11)
+    Assim, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. LEGITIMIDADE PASSIVA AD CAUSAM PARA O PROCESSO. CONTROVÉRSIA DE DEMANDA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF. 1. A solução da controvérsia pressupõe, necessariamente, a análise de legislação infraconstitucional e o reexame dos fatos e do material probatório constantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. 4. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 5. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015”. (ARE 957536 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 20.9.2016)
+    “Agravo regimental no recurso extraordinário com agravo. Processual civil. Legitimidade passiva. Infraconstitucional. Necessidade de reexame do conjunto fático probatório. Súmula nº 279/STF. 1. Para superar o entendimento do Tribunal de origem acerca da ilegitimidade do Estado de Goiás para figurar no polo passivo da lide, seria necessário o reexame da causa à luz da legislação infraconstitucional pertinente e do conjunto fático probatório constante dos autos. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido”. (ARE 938374 AgR, rel. Min. Dias Toffoli, Segunda Turma, DJe 2.5.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de maio de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
