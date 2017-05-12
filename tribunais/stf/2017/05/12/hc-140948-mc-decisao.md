@@ -1,0 +1,38 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Roberto Podval, em favor de Nelson Mancini Nicolau, contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça (STJ), que rejeitou os Embargos de Declaração no Recurso Especial n. 1.352.043/SP, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PENAL. CONTRADIÇÃO. REFORMATIO IN PEJUS. INEXISTÊNCIA.
+    1. O julgado embargado não alterou a fundamentação utilizada pelas instâncias ordinárias na fixação da pena-base, mas apenas a interpretou. Além disso, não houve nenhuma modificação na reprimenda estabelecida. Sendo assim, fica afastada a alegação de existência de contradição pela ocorrência de reformatio in pejus.
+    2. Embargos de declaração rejeitados”. (eDOC 20, p. 7)
+    Consta dos autos que o Ministério Público do Estado de São Paulo ajuizou ação civil pública de responsabilidade em face dos ex-administradores e ex-conselheiros fiscais do Banco do Estado de São Paulo (BANESPA), haja vista fatos ocorridos no quinquênio anterior ao RAET – Regime de Administração Especial Temporária, decretado pelo Banco Central do Brasil.
+    O paciente foi então condenado pela prática do delito descrito no art. 4º, parágrafo único, c/c o art. 25, ambos da Lei n. 7.492/86 c/c o art. 29, na forma do art. 71, do Código Penal, à pena de 8 anos e 4 meses de reclusão, a ser cumprida inicialmente em regime fechado.
+    Irresignados, defesa e acusação interpuseram apelação criminal no Tribunal de Justiça bandeirante, que negou provimento aos recursos, nos termos da ementa a seguir transcrita:
+    "Ação civil pública de responsabilidade - Preliminares arguidas pelo Ministério Público que foram rejeitadas - Ilegitimidade de parte e ausência de interesse de agir - Ocorrência - Ministério Público que, na espécie, não defende interesses difusos ou coletivos, mas interesses próprios do BANESPA e de seus acionistas.
+    Ilegitimidade passiva de parte - Reconhecimento - Agentes políticos que não podem estar sujeitos à responsabilidade civil objetiva.
+    Honorários advocatícios - Condenação - Impossibilidade - Ministério Público que, enquanto instituição, conta com isenção dos encargos da sucumbência – Fazenda do Estado, por outro lado, que não pode suportar esse ônus por não ter sido parte no feito - Improvidos os recursos do Ministério Público e dos réus."
+    Opostos embargos de declaração pelo Parquet, estes foram rejeitados. Eis a ementa:
+    "Embargos de declaração - Pressupostos - Inocorrência - Prestação jurisdicional que foi entregue de forma clara e precisa - Embargante que, a pretexto de esclarecer ou completar o julgado, na realidade busca alterá-lo - Embargos rejeitados."
+    Interposto recurso especial nº 1.352.043/SP no Superior Tribunal de Justiça, este foi parcialmente conhecido e nessa extensão, improvido. Transcrevo a ementa do referido julgado:
+    “RECURSO ESPECIALPENAL. GESTÃO TEMERÁRIA (ART4º, PARÁGRAFO ÚNICO, DA LEI N 7.492/1986. CONTINUIDADE DELITIVA. QUESTÃO PREJUDICADA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO PELO STF. PRESCRIÇÃ. NÃO CONSUMADA. NULIDADES OCORRIDAS NA PROLAÇÃO DO ACÓRDÃO RECORRIDO. TEMAS NÃO SUSCITADOS NOS EMBARGOS DE DECLARAÇÃO. SÚMULA 356/STF. DOLO E ATOS DE GESTÃO TEMERÁRIA. EXISTÊNCIA. AFERIÇÃO. INIVIABILIDADE. SÚMULA 7/STJ. ANTECEDENTES. PERSONALIDADE. CONDUTA SOCIAL. NEGATIVAÇÃO. UNITLIZAÇÃO DE PROCESSOS EM CURSO DESCABIMENTO. SÚMULA 444/STJ. COMPENSAÇÃO. ELEMENTOS POSITIVOS INERENTES À CONDUTA SOCIAL E À PERSONALIDADE. NÃO UTILIZAÇÃO COMO FUNDAMENTO PARA EXASPERAÇÃO DA PENA-BASE. CULPABILIDADE E CONSEQUÊNCIAS DO CRIME. DESVALOR. FUNDAMENTAÇÃO CONCRETA.( eDOC 19, p. 45).
+    Desta decisão foram interpostos embargos de declaração, os quais foram rejeitados. Eis a ementa do julgado:
+    EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PENAL. CONTRADIÇÃO. REFORMATIO IN PEJUS. INEXISTÊNCIA.
+    1. O julgado embargado não alterou a fundamentação utilizada pelas instâncias ordinárias na fixação da pena-base, mas apenas a interpretou. Além disso, não houve nenhuma modificação na reprimenda estabelecida. Sendo assim, fica afastada a alegação de existência de contradição pelo ocorrência de reformatio in pejus.
+    2. Embargos de declaração rejeitados. (eDOC 20, p. 7)
+    No presente HC, sustenta-se, em síntese, que:
+    a) o Tribunal Regional Federal ao fixar a pena-base, considerou as ações penais em andamento como elementos negativos em seu desfavor a titulo de antecedentes. Em suas razões alega que “Ao invés, porém, de simplesmente aumentar a pena do paciente a esse título, utilizou essa circunstância judicial para “neutralizar” outras circunstâncias tidas como positivas.”;
+    b) Quanto a culpabilidade aduz que a utilização da culpabilidade com um critério autônomo em relação às demais circunstâncias judiciais representa uma evidente ilegalidade na fixação da pena, devendo ser extirpada do cálculo dosimétrico;
+    c) Consequências do crime, enfatiza que não há que se falar em consequências do crime, se o suposto prejuízo à instituição financeira não foi suficiente para a exposição do bem jurídico a risco potencial de dano.
+    Ao final, requer a concessão da medida liminar para suspender os efeitos do acórdão condenatório proferido pelo Órgão Especial do E. Tribunal Regional Federal da 3ª Região, no mérito que “seja concedida a ordem para fixar a pena-base do paciente no mínimo legal, tendo em vista a impossibilidade de se reavaliar, para pior, circunstâncias judiciais positivas, bem como se considerar como motivos idôneos para o aumento de pena a existência de ações penais em andamento, a qualificação profissional do paciente e, ainda, a alegação genérica da existência de vultosos prejuízos, caracterizados como consequências do crime.” ( eDOC 1, p. 45)
+    E o relatório.
+    Decido.
+    A concessão de liminar em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora. Num juízo preliminar, não reputo presentes os requisitos exigidos para a concessão da medida liminar.
+    Na situação em epígrafe, discute-se a dosimetria da pena, e não a condenação em si. Ou seja, não há qualquer justificativa, por ora, para o deferimento de qualquer medida urgente.
+    Por outro lado, é necessária avaliação mais detalhada dos elementos de convicção trazidos aos autos, o que ocorrerá por ocasião do julgamento da presente ação, até porque a motivação que dá suporte ao pleito de urgência confunde-se com o próprio mérito.
+    No presente HC, verifico que o TRF da 3ª Região ao fazer a individualização da pena do paciente levou em consideração diversos fatores, tais como a gravidade do delito praticado, o qual acarretou em prejuízos vultosos ao Banespa, a condição do paciente como agente público, entre outros. ( eDOC 8, p. 76-87)
+    Ademais, é cediço que a jurisprudência desta Suprema Corte entende que a dosimetria da pena submete-se a certa discricionariedade judicial. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Aos Tribunais Superiores, no exame da dosimetria das penas em grau recursal, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional.
+    Desse modo, entendo que, a despeito de todas as considerações da defesa, o tema merece exame do Colegiado do Supremo Tribunal Federal.
+    Ante o exposto, indefiro o pedido de medida liminar.
+    Abra-se vista à PGR. Publique-se.
+    Publique-se.
+    Brasília, 12 de maio de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
