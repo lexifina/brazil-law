@@ -1,0 +1,20 @@
+Decisão: Trata-se de segundo pedido de extensão em habeas corpus coletivo preventivo, com pedido de liminar, impetrado pela Associação Nacional dos Magistrados da Justiça do Trabalho - ANAMATRA em favor de 57 (cinquenta e sete) magistrados trabalhistas devidamente identificados (eDOC 29), em que se almeja a extensão dos efeitos do referido remédio constitucional concedido neste habeas corpus em 09.05.2017 (Dje 11.05.2017), visando a expedição de salvo-conduto aos novos pacientes para que lhes seja franqueado o acesso aos setores da Câmara dos Deputados destinados aos cidadãos nos dias em que forem designados debates e/ou deliberações da PEC nº 287/2016.
+    Articulam com a ilegalidade e inconstitucionalidade dos atos que restringiram o acesso à Câmara dos Deputados aos cidadãos por ocasião da discussão e votação da PEC da Reforma da Previdência e entendem estar-se diante da hipótese legal do art. 580 do CPP, que autoriza o presente pedido de extensão.
+    É o relatório. Decido.
+    Diante da análise dos elementos fornecidos, fazem-se presente os motivos para a concessão da extensão.
+    Como já fundamentado na decisão que concedeu a medida liminar, o direito de acesso e acompanhamento dos trabalhos legislativos no âmbito do Congresso Nacional é consequência do comando constitucional previsto no art. 1º da Carta Magna, o qual dispõe que a República Federativa do Brasil constitui-se em Estado Democrático de Direito e tem por fundamentos: a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político.
+    Na situação, que ora se apresenta, o impedimento de acesso às dependências do Congresso Nacional viola, ao menos do que se tem desta análise preliminar, o fundamento expresso da cidadania (artigo 1º, II da CRFB) e, sobretudo, o disposto no artigo 1º, parágrafo único da Carta da República Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.
+    Nesse sentido, é cediço o entendimento do Supremo Tribunal Federal no sentido de aceitar o remédio constitucional eleito para conceder liminar, assegurando o ingresso e circulação de pessoas em áreas de prédios públicos, dentro dos limites numéricos, de comportamento e regimentais estabelecidos.
+    A garantia do habeas corpus, prevista no art. 5º, LXVIII da Carta Magna, amolda-se à pretensão dos pacientes, na medida em que sofreram e/ou podem vir a sofrer restrição na sua liberdade de locomoção, entendida aqui como liberdade de entrar e acompanhar as sessões legislativas de seu interesse.
+    Ante o exposto, defiro parcialmente o pedido de extensão da liminar apenas em favor dos membros da Associação que detêm representação estatutária (arts. 23 e 24 do Estatuto Social, eDOC 27, p. 9-10), assegurando-se-lhes o acesso aos setores da Câmara dos Deputados destinados aos cidadãos nos dias em que for designada a deliberação da PEC 287/2016, garantido sempre o poder de polícia daquele órgão para se assegurar o regular andamento dos trabalhos daquela Casa Legislativa.
+    Saliento, ainda, que o alcance da presente medida não se estende aos demais pacientes elencados em virtude da necessidade de se respeitar os limites numérico e espacial da Câmara dos Deputados, bem como de se garantir aos demais cidadãos o direito de também acompanharem as atividades legislativas de seu interesse.
+    Registro, por fim, que eventuais excessos, que impeçam as discussões e deliberações da Câmara dos Deputados podem e devem ser contidos, para garantir a normal continuidade dos trabalhos parlamentares.
+    Comunique-se, nestes termos, o deferimento parcial da liminar, com urgência (inclusive com utilização de fax, se necessário), ao Presidente da Mesa da Câmara dos Deputados.
+    A presente decisão servirá como salvo-conduto.
+    Solicitem-se informações às autoridades apontadas como coatoras.
+    Com as informações, vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 12 de maio de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
