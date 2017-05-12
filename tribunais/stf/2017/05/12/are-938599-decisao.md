@@ -1,0 +1,16 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo que, com base em precedentes do Supremo Tribunal Federal e nas provas acostadas aos autos, manteve a sentença que concedeu a segurança, ao entendimento de que a ora recorrida, por se tratar de entidade de assistência social, sem fins lucrativos, faz jus à imunidade tributária relativamente ao ICMS incidente sobre a importação de produtos destinados às suas atividades de assistência médico-hospitalar (vol. 2, fl. 197). O acórdão recorrido restou assim ementado:
+    Apelação cível – Mandado de segurança – Imunidade – ICMS – Importação de bens por entidade de assistência social, sem fins lucrativos, inteligência do disposto no art. 150, VI, “c”, da Constituição Federal – Imunidade tributária reconhecida – Sentença mantida – Recursos oficial e voluntário do Estado de São Paulo improvidos.
+    No recurso extraordinário, com fundamento no art. 102, III, da Constituição Federal, a parte recorrente alega ter o acórdão recorrido violado os arts. 150, VI, “c”, § 4º, e 155, § 2º, IX, “a”, da CF e à EC 33/2001.
+    É o relatório. Decido.
+    A irresignação não merece prosperar, uma vez que o aresto atacado está em consonância com a jurisprudência desta Corte. Nesse sentido:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMUNIDADE DAS ENTIDADES DE ASSISTENCIAL SOCIAL RECONHECIDA COM RELAÇÃO AO ICMS INCIDENTE SOBRE PRODUTOS IMPORTADOS. PRECEDENTES. A jurisprudência da Corte orienta-se no sentido de que a imunidade prevista no art. 150, VI, c, da Constituição Federal, abrange o ICMS incidente sobre a importação de mercadorias utilizadas na prestação de seus serviços específicos. Não procede a vinculação do recurso à sistemática da repercussão geral com relação a um leading case que controverte sobre questão diversa. Agravo regimental a que se nega provimento. (ARE 803.906-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 21/11/2014)
+    AGRAVO DE INSTRUMENTO - ICMS - INCIDÊNCIA - OPERAÇÃO DE IMPORTAÇÃO, POR ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS, DE BENS RELACIONADOS COM SUAS FINALIDADES ESSENCIAIS - IMPOSSIBILIDADE - TRANSGRESSÃO À NORMA CONSTITUCIONAL DA IMUNIDADE TRIBUTÁRIA (CF, ART. 150, VI, “c”) - RECURSO DE AGRAVO IMPROVIDO.(AI 785.459-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 19/12/2011)
+    Por fim, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte ( Para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem e o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 12 de maio de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
