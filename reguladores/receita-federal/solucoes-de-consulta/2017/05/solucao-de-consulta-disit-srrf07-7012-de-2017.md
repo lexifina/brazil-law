@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF07 nº 7012, de 19 de abril de 2017
+ASSUNTO: Normas Gerais de Direito Tributário EMENTA: PROGRAMA MINHA CASA MINHA VIDA. (PMCMV). CONSTRUÇÃO DE IMÓVEIS. PAGAMENTO UNIFICADO DE TRIBUTOS. SUBCONTRATAÇÃO. O disposto no artigo 2º da Lei nº 12.024, de 2009, que estabelece a possibilidade de pagamento unificado de tributos equivalente a 1% (um por cento) da receita mensal auferida pelo contrato de construção, limita-se à empresa construtora originalmente contratada para fins de construção das unidades no âmbito do PMCMV, não se aplicando à empresa subcontratada. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 146, DE 2 DE JUNHO DE 2014. DISPOSITIVOS LEGAIS: Lei no 12.024/2009, artigo 2o; IN RFB nº 1.435, de 2013, artigos 2º, 5º e 13.
+ASSUNTO: Normas Gerais de Direito Tributário
+EMENTA: PROGRAMA MINHA CASA MINHA VIDA. (PMCMV). CONSTRUÇÃO DE IMÓVEIS. PAGAMENTO UNIFICADO DE TRIBUTOS. SUBCONTRATAÇÃO. O disposto no artigo 2º da Lei nº 12.024, de 2009, que estabelece a possibilidade de pagamento unificado de tributos equivalente a 1% (um por cento) da receita mensal auferida pelo contrato de construção, limita-se à empresa construtora originalmente contratada para fins de construção das unidades no âmbito do PMCMV, não se aplicando à empresa subcontratada. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 146, DE 2 DE JUNHO DE 2014.
+DISPOSITIVOS LEGAIS: Lei no 12.024/2009, artigo 2o; IN RFB nº 1.435, de 2013, artigos 2º, 5º e 13.
+JOSÉ CARLOS SABINO ALVES
+Chefe
