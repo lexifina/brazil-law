@@ -1,0 +1,42 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão monocrática emanada de eminente Ministro do E. Superior Tribunal de Justiça que, em sede de outra ação de “habeas corpus” (HC 397.668/RJ), extinguiu, liminarmente, o processo lá instaurado.
+    Sendo esse o contexto, passo a apreciar a admissibilidade, na espécie, da presente ação de “habeas corpus”. E, ao fazê-lo, devo observar que ambas as Turmas do Supremo Tribunal Federal firmaram orientação no sentido da incognoscibilidade desse remédio constitucional, quando impetrado, como  no caso ora em análise, contra decisão monocrática proferida por Ministro de Tribunal Superior da União (HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA – HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA – HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI – HC 118.189/MG, Rel. Min. RICARDO LEWANDOWSKI – HC 119.821/TO, Rel. Min. GILMAR MENDES – HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI – HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI – HC 122.718/SP, Rel. Min. ROSA WEBER – RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA – RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, v.g.):
+    “’HABEAS CORPUS’. CONSTITUCIONAL. PENAL. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL. SUPRESSÃO DE INSTÂNCIA. IMPETRAÇÃO NÃO CONHECIDA.
+    I – (…) verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, o qual pressupõe seja a coação praticada por Tribunal Superior.
+    …................................................................................................
+    III – ‘Writ’ não conhecido.”
+    (HC 118.212/MG, Rel. Min. RICARDO LEWANDOWSKI – grifei)
+    Embora respeitosamente dissentindo dessa diretriz jurisprudencial, por entender possível a impetração de “habeas corpus” contra decisão monocrática de Ministro de Tribunal Superior da União, devo aplicar, observado o princípio da colegialidade, essa orientação restritiva que se consolidou em torno da utilização do remédio constitucional em questão, motivo pelo qual, em atenção à posição dominante na jurisprudência do Supremo Tribunal Federal, impor-se-á, na espécie, o não conhecimento  da presente ação de “habeas corpus”.
+    É certo que, em situações excepcionais, o Supremo Tribunal Federal, mesmo não conhecendo do “writ” constitucional, tem, ainda assim, concedido, de ofício, a ordem de “habeas corpus”, desde que configurada situação de manifesta ilegalidade.
+    Ocorre, no entanto, que a análise dos presentes autos evidencia  não se registrar, na espécie, hipótese de flagrante ilegalidade ou de abuso de poder, notadamente se se considerar os fundamentos que dão suporte  à decisão que decretou a prisão preventiva do ora paciente:
+    “As condutas imputadas aos acusados pelo Dr. Delegado e seus Agentes através das diligências colhidas demonstram desenvoltura e frieza na execução do crime submetido a este Tribunal.
+    Descreveu a Autoridade Policial, sempre respaldada nos indícios colhidos no procedimento investigatório, destreza ímpar no orquestramento do ‘iter’ criminoso doloso contra a vida ceifada.
+    Segundo Pablo Baltazar Mata, amigo da vítima, em sede policial (fls. 07), no dia dos fatos estava no estabelecimento comercial ‘Barzin’, situado à Rua Vinícius de Moraes, nº 74, Ipanema, nesta cidade, acompanhado de seus amigos: Carlos Catelani e Matías Sebastian Carena, a vítima, quando, por volta de 04h20min, não concordaram com o valor cobrado pelos serviços prestados, o que ocasionou uma confusão com os seguranças; confusão esta devidamente resolvida sem maiores desgastes.
+    Contudo, quatro brasileiros, ora denunciados, imotivadamente começaram a falar em tom agressivo com eles, o que acabou gerando grave e generalizada confusão, que não foi resolvida, apesar da sua intervenção com seu outro colega Yuri Fernando Santana da Silva.
+    Neste momento, a vítima Matías atravessou a rua, tentando fugir dos agressores, ocasião em que o acusado Pedro Henrique, vulgo ‘PH’, seguiu-lhe, desferindo-lhe forte soco no rosto, ato que lhe fez desmaiar, bater com a cabeça no meio-fio da calçada e sofrer a grave lesão externada no auto de exame cadavérico de fls. 28/29.
+    Mesmo inerte, disse o declarante aos policiais, as agressões na vítima continuaram, tanto que o acusado Pedro Henrique arrebatou a muleta de um transeunte e, aproveitando-se da fragilidade de Matías, alvejou-lhe com mais golpes.
+    …...................................................................................................
+    De acordo com Yuri Fernando Santana da Silva (fls. 53), os acusados Pedro Henrique, vulgo ‘PH’, e Thiago, vulgo ‘Kadu Lessa’, muniram-se de muletas, enquanto os acusados Júlio Cézar e Valterson, vulgo ‘Tody’, cercavam a vítima, encurralando-a, para permitir novas agressões.
+    A ação de ambos frustrou a possibilidade de fuga da vítima, permitindo a chegada sorrateira do denunciado Valterson, vulgo ‘Tody’, que também contribuiu com as agressões.
+    O fato da vítima estar caída e desfalecida não inibiu, descreve, a sanha hostil dos agentes violadores, tanto que os denunciados perpetraram suas agressões incessantemente.
+    Os declarantes, em sede policial, reconheceram por fotografia os acusados como os autores do delito praticado (fls. 39/44; 47/52 e 55/60).
+    Ressaltou que a vítima se encontrava desarmada e sem qualquer ânimo de contenda que justificasse a reação dos denunciados.
+    As imagens (fls. 62/70) provam o empenho da vítima em evadir-se, certamente pelo instinto de sobrevivência, da confusão; postura essa ignorada pelos beligerantes, que a seguiram até o lado oposto da via pública, reiterando os ataques a sua vida.
+    Encurralada pelos denunciados, a vítima foi incessantemente golpeada de inopino, isto é, de forma imprevista, estando eles em maior número e utilizando-se, inclusive, de uma muleta como instrumento hábil a infligir-lhe maior dor e sofrimento.
+    Verifica-se, pelos indícios colhidos nesta brilhante investigação, especialmente nos depoimentos das testemunhas de viso (fls. 05, 06, 07, 37/38, 45/46) e nas imagens de fls. 62/70, uma postura de total banalização com o ser humano.
+    …...................................................................................................
+    Evidenciam-se, pois, fortes indícios de personalidades corrompidas e adversas ao convívio social por parte dos denunciados.
+    Partindo destes elementos concretos é possível constatar que as condutas dos denunciados abalaram a garantia da ordem pública porque trouxeram diversas consequências para a sociedade, bem como para a família da vítima.
+    Além do mais, todos os acusados, já conscientes da extensão das suas condutas, trataram de evadir-se do distrito da culpa, assim como se vê nas provas acostadas as fls. 113/114, 117, 132/134.
+    Reforça este indício a prisão, nas últimas horas, do denunciado Pedro Henrique Marciano, o que se deu, segundo a mídia, em razão de denúncia anônima (fls. 155/156).
+    A prisão, estou convicto, faz-se necessária, também, concretamente falando, para garantir a futura aplicação da lei penal.
+    …...................................................................................................
+    Em casos como o presente, especialmente na cidade do Rio de Janeiro, onde a garantia da ordem pública absorve tanto impacto com o elevado grau de violência, reitero, recomendável a custódia cautelar destes acusados.
+    Destarte, necessária a prisão para garantir a ordem pública, com a consequente pacificação social e, por conseguinte, permitir, com eficiência, a garantia da futura aplicação da lei penal.
+    Eis as razões pelas quais, concretamente falando, opto por determinar a prisão cautelar dos acusados, com fulcro no artigo 312 do Código de Processo Penal.
+    Desta forma, decreto a prisão preventiva de PEDRO HENRIQUE MARCIANO, vulgo ‘PH’, VALTERSON FERREIRA CANTUARIA, JULIO CEZAR OLIBEIRA GODINHO e THIAGO NOROES LESSA SILVA, vulgo ‘KADU LESSA’ (...)” (grifei).
+    Sendo assim, e tendo em consideração as razões expostas, não conheço da presente ação de “habeas corpus”, restando prejudicado, em consequência, o exame do pedido de medida liminar.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 12 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
