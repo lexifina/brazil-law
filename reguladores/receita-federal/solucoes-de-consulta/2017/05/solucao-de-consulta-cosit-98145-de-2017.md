@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98145, de 10 de maio de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8451.30.99 Mercadoria: Máquina de operação manual e de aquecimento elétrico, própria para transferir, por meio de pressão e calor, imagem contida em papel “transfer sublimático” para abas de bonés, comercialmente denominada "Prensa térmica". DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.51), RGI 6 (texto da subposição 8451.30) e RGC 1 (textos do item 8451.30.9 e do subitem 8451.30.99) constantes da TEC aprovada pela Res. Camex nº 125, de 2016, e da Tipi aprovada pelo Dec. nº 8.950, de 2016.
+[arquivo anexo: SC Cosit nº  98.145-2017 .pdf]
