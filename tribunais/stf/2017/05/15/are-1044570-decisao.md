@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – TRIBUTO – ARRECADAÇÃO – PROIBIÇÃO DE EMISSÃO DE NOTAS FISCAIS – SANÇÃO POLÍTICA – INCONSTITUCIONALIDADE – PRECEDENTES – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado da Bahia, confirmou o entendimento do Juízo, destacando configurar sanção política para cobrança de tributos o impedimento de emissão de nota fiscal eletrônica. No extraordinário, cujo trânsito busca alcançar, o recorrente alega violados os artigos 1º, 3º, incisos I, II, III e IV, 5º, LV, 24, § 2º, 37, cabeça e inciso XXI, e 93, inciso IX, da Carta Política. Aduz não configurada efeito sancionatório ou coercitivo de cobrança do tributo não previsto em lei, pois somente gera a supressão temporária de obrigação tributária acessória e o marco inicial da responsabilidade de retenção e recolhimento do imposto. Sustenta a impossibilidade de realizar operação fiscal com empresa em situação irregular perante o Fisco estadual.
+    2. O Supremo, no recurso extraordinário nº 565.048/RS, de minha relatoria, sob o ângulo da repercussão geral, assentou a inconstitucionalidade do parágrafo único do artigo 42 da Lei nº 8.820/89, por meio do qual é exigida do contribuinte, devedor do Fisco, a prestação de fiança, garantia real ou fidejussória para deferimento de impressão de documentos fiscais.
+    O Tribunal, reafirmando entendimento consolidado nos Verbetes nº 70, 323 e 547 da Súmula, consignou tratar-se de sanção política, visando ao recolhimento de tributo, discrepante, a mais não poder, da Carta Federal.
+    Os precedentes devem ser observados no caso concreto.
+    A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário quanto à natureza sancionatória da restrição à emissão de nota fiscal eletrônica como meio para exigir o recolhimento de tributos.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 15 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
