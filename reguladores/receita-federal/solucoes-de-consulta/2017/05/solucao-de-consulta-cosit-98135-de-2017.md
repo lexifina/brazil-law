@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98135, de 5 de maio de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 6810.99.00 Mercadoria: Postes de concreto armado pré-moldado, com seção circular ou duplo T (DT), próprios para serem utilizados em redes elétricas. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 68.10) e RGI 6 (textos da subposição de primeiro nível 6810.9 e de segundo nível 6810.99) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº  98.135-2017 .pdf]
