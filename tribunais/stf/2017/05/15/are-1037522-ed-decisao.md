@@ -1,0 +1,12 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RECONSIDERAÇÃO DA DEVOLUÇÃO À ORIGEM. ARGUMENTO PLAUSÍVEL. DISTRIBUIÇÃO NOS TERMOS REGIMENTAIS.
+Relatório
+    1. Em 19.4.2017, determinei a devolução dos autos ao Tribunal de origem por ter este Supremo Tribunal submetido as questões trazidas no recurso à sistemática da repercussão geral (Recurso Extraordinário com Agravo n. 642.841, Tema 464): ausência de repercussão geral.
+    2. Publicado esse despacho no DJe de 27.4.2017, Ada Mello Moreira da Silva e outros opõem embargos de declaração nos quais alegam que, “Como é cediço, no julgamento do ARE-RG nº 642.841/MG (Tema nº 464 de Repercussão Geral), foi considerada inexistente a repercussão geral da questão relativa à extensão integral, aos inativos, “do Prêmio de Produção concedido aos servidores ativos do Quadro Permanente de Tributação, Fiscalização e Arrecadação do Estado de Minas Gerais”, sob o entendimento de que, no caso, a ofensa à Constituição Federal seria meramente reflexa. Contudo, nos autos deste processo, diferentemente do ARE-RG nº 642.841/MG, não se está a pleitear a extensão aos inativos e pensionistas da integralidade de determinado acréscimo pecuniário. Na presente ação, objetiva-se a extensão, aos aposentados, de 50% do valor do Prêmio de Desempenho Individual (PDI), que se consubstancia na PARCELA FIXA de reconhecido caráter geral, que é paga de forma indiscriminada a todos os servidores ativos integrantes das classes regidas pela LCE nº 1.080/2008 indicadas no Anexo VI da LCE nº 1.158/2011 (como, por exemplo, Oficial Administrativo, Auxiliar de Serviços Gerais, Assistente, Oficial Operacional, Oficial Sociocultural, Analista Administrativo, Executivo Público etc.), inclusive aos que têm avaliação de desempenho que resulte em percentual menor, em detrimento dos servidores inativos e pensionistas integrantes das mesmas classes (doc. 5, fl. 2).
+    Analisada a questão trazida na espécie, DECIDO.
+    3. Os Embargantes suscitam distinção entre as questões trazidas nos autos e aquela objeto do Tema 464, havendo plausibilidade jurídica na argumentação apresentada a impor o prosseguimento da tramitação do feito neste Supremo Tribunal para evitar-se desnecessária devolução do processo ao Tribunal de origem.
+    4. Pelo exposto, em juízo de retratação, determino à Secretaria Judiciária a distribuição deste processo na forma regimental.
+    Publique-se.
+    Brasília, 15 de maio de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
