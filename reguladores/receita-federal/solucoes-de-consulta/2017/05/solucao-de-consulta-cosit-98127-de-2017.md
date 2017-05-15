@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98127, de 3 de maio de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 7323.93.00 Mercadoria: Espeto para churrasco com lâmina e roldana de aço inoxidável e cabo de madeira, próprio para uso em churrasqueiras com sistema para rotação automática dos espetos, comercialmente denominado “espeto giratório”. DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 73.23) e 6 (textos das subposições 7323.9 e 7323.93) da TEC, aprovoda pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das NESH aprovadas pelo Decreto de nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº  98.127-2017 .pdf]
