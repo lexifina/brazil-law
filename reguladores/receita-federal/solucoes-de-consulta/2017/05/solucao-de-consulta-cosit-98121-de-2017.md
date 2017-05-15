@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98121, de 3 de maio de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 9503.00.99 Mercadoria: Bóia inflável de plástico (PVC) destinada ao divertimento em piscinas, utilizada para colocar bebidas, com porta-copos e capacidade para até 34 latas, denominada comercialmente “bóia bar inflável”. DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 95.03) e RGC-NCM 1 (textos do item 9503.00.9 e do subitem 9503.00.99), da Nomenclatura Comum do Mercosul (NCM), constante da TEC, aprovada pela Resolução Camex n.º 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016.
+[arquivo anexo: SC Cosit nº 98.121-2017 .pdf]
