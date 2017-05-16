@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário contra acórdão assim ementado:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. TRANSPORTE IN UTILIBUS DA COISA JULGADA. INAPLICABILIDADE.
+    Conquanto o art. 103 da Lei n.º 8.078/90 (CDC) ampare a tese de que a sentença condenatória em ação coletiva para tutela de direitos individuais homogêneos é genérica e permite, pela técnica da coisa julgada secundum eventum litis, o transporte in utilibus do julgado coletivo em proveito de demandas individuais, não houve, no caso concreto, o ajuizamento de ação coletiva por entidade sindical ou associativa em benefício de toda a categoria de servidores públicos, de modo a legitimar a propositura de execução individual, mediante a mera comprovação dessa condição, independentemente de autorização expressa ou filiação àquela. Além disso, a abrangência da lide e dos efeitos do provimento judicial coletivo (limites subjetivos) foi - correta ou incorretamente - delimitada pelo juízo da causa, de modo explícito, operando-se a preclusão máxima (coisa julgada). A execução individual de julgado coletivo pressupõe que o exequente integre o grupo ou categoria processualmente substituído pela entidade associativa. Não basta simplesmente ter o 'mesmo' direito para beneficiar-se do julgado (cujos limites objetivo e subjetivo se impõem), é preciso pertencer à mesma classe ou grupo profissional representado pela autora da ação coletiva” (pág. 44 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 5°, caput, XVII, XXXV e LXXVIII; 40, § 8°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código de Processo Civil). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada a essas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 16 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
