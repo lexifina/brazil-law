@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de dois agravos em recursos extraordinários apresentados pela Godibra Distribuidora e pelo Município de Aparecida de Goiânia. Os recursos têm por objeto decisões que inadmitiram recursos extraordinários interpostos contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “DUPLO GRAU DE JURISDIÇÃO. APELAÇÃO CÍVEL. AÇÃO CIVIL PUBLICA. PRESCRIÇÃO. INOCORRÊNCIA. BEM PÚBLICO DE USO COMUM DO POVO. DESAFETAÇÃO. NECESSIDADE DE LEI ESPECÍFICA. NULIDADE. NEGÓCIO JURÍDICO. ART. 166 DO CÓDIGO CIVIL. DISCRICIONARIEDADE DO PODER PÚBLICO. OMISSÃO DA MUNICIPALIDADE. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES.
+    1 - A prescrição quinquenal para a propositura da ação civil pública e inaplicável quando a pretensão ministerial consubstancia-se na declaração de nulidade de ato administrativo nulo, eivado de vício de inconstitucionalidade, em virtude de afronta aos princípios norteadores da administração pública, mais precisamente o princípio da legalidade, moralidade e eficiência.
+    2 - Para que os bens públicos de uso comum do povo sejam alienados, e necessário que saiam, por disposição especial de lei, da área especial de utilização pública que estejam inseridos, para só depois de desafetados da sua finalidade, tornarem-se passíveis de compra e venda, doação, permuta ou dação em pagamento, restando nulo o ato administrativo de doação de bem público carente de desafetação e autorização legislativa.
+    3 - É nulo o negocio jurídico celebrado quando não preenchidos os requisitos de validade constantes do art. 166 do Código Civil.
+    4- Cabe ao Poder Judiciário o controle da discricionariedade dos autos administrativos, objetivando fiscalizar a observância da administração pública aos princípios e preceitos constitucionais que lhe são inerentes, certo que havendo o descumprimento de preceito constitucional, não há que se falar em ingerência do Judiciário na administração pública, bem como de transgressão ao principio da tripartição de poderes.
+    Apelos e remessa obrigatória conhecidos e improvidos.”
+    A Godibra Distribuidora em seu recurso busca fundamento no art. 102, III, a, da Constituição Federal, alegando violação ao art. 5º, XXII e XXXVI, da Constituição. Por sua vez, o Município interpôs recurso, com fundamento no art. 102, III, a, da Constituição Federal, em que aponta violação aos arts. 2º e 18 da Constituição.
+    Os recursos não devem ser admitidos. De início, pontuo que não afronta o princípio da separação dos Poderes o controle exercido pelo Poder Judiciário sobre atos administrativos tidos por abusivos ou ilegais.
+    Ademais, o Tribunal de origem assentou que “a doação efetivada não preencheu os requisitos da licitude, de forma prescrita em lei, sem olvidar que fraudou lei imperativa, já que se trata o imóvel objeto do negócio de bem de uso comum do povo, o qual não fora desafetado, tratando-se, portanto, de negócio jurídico nulo.”
+    Desse modo, para divergir do entendimento firmado pelo Tribunal a quo, são imprescindíveis uma nova análise da legislação local aplicada à espécia e o reexame dos fatos e do material probatório constantes dos autos, providências vedadas neste momento processual. Incidência das Súmulas 279 e 280/STF.
+    Diante do exposto, com base no 21, § 1º, do RI/STF, nego seguimento aos recursos.
+    Publique-se.
+          Brasília, 16 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
