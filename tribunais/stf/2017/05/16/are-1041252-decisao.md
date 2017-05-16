@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+    “RECURSO INOMINADO - ADMINISTRATIVO - AGENTE DE SEGURANÇA PENITENCIÁRIA - INCORPORAÇÃO DE GRATIFICAÇÃO DE SUPORTE À ATIVIDADE PENITENCIÁRIA AO SALÁRIO-BASE, COM REFLEXO NA GRATIFICAÇÃO DE REGIME ESPECIAL DE TRABALHO ESPECIAL - IMPOSSIBILIDADE - INCORPORAÇÃO AOS VENCIMENTOS - GARANTIDA A IRREDUTIBILIDADE - SENTENÇA REFORMADA - RECURSO PROVIDO” (pág. 89 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 37, XIV, da Carta Magna.
+    A pretensão recursal não merece acolhida.
+    O dispositivo constitucional suscitado pelo recorrente não foi devidamente prequestionado. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+    Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Nesse sentido, cito o ARE 832.707-AgR/RJ, Relator Ministro Luiz Fux, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. COBRANÇA DE ENERGIA ELÉTRICA. DEMANDA CONTRATADA. TARIFAÇÃO. PREQUESTIONAMENTO. ALEGAÇÃO TARDIA. INVIABILIDADE. 1. O prequestionamento da questão constitucional é requisito indispensável à admissão do recurso extraordinário. A Súmula 282 do STF dispõe, verbis: ‘É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada’. 2. A alegação tardia da matéria constitucional, só suscitada em sede de embargos de declaração, não supre o requisito do prequestionamento. Precedentes: ARE 693.333-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 19/9/2012, e AI 738.152- AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJ 8/11/2012. 3. In casu, o acórdão recorrido assentou: ‘Agravo Inominado. Art. 557 do C.P.C. Obrigação de não Fazer c. c. Repetição e Indenização. Cobrança de energia elétrica. Tarifação por fator de demanda de potência (demanda contratada) – (grifei).
+    Além disso, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional local aplicável à espécie (Leis Complementares Estaduais 899/2001, 1.047/2008 e 722/1993).
+    Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo, de modo que incide, na espécie, a Súmula 280/STF. Incabível, portanto, o recurso extraordinário.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Deixo de majorar os honorários recursais previstos no art. 85, § 11, do Código de Processo Civil, uma vez que não foram fixados pelo juízo de origem.
+    Publique-se.
+    Brasília, 16 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
