@@ -1,0 +1,19 @@
+Decisão:
+    Trata-se de recursos extraordinários interpostos contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “Processual Civil e Constitucional. Embargos de Declaração. Execução de título judicial. Retenção dos honorários contratuais. Possibilidade. Art. 22, § 4º, da Lei nº 8.906/94. Precedentes. Afronta à vinculação da dotação orçamentária. Inocorrência. Embargos de declaração providos, com efeitos infringentes.”
+    Passo a analisar os recursos.
+    - Recurso extraordinário interposto pela União
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 60 do ADCT. Sustenta que a Lei nº 11.494/1997 veda a utilização de recursos do FUNDEB na realização de despesas não consideradas como de manutenção e desenvolvimento da educação básica. Requer a reforma do acórdão recorrido.
+    - Recurso extraordinário interposto pelo Ministério Público Federal
+      O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º; 5º, LV; 93, IX, e 167, II, da Constituição, e ao art. 60, § 1º, do ADCT.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Paulo Gustavo Gonet Branco, manifestou-se pela inadmissibilidade dos recursos.
+    Os recursos não devem ser providos. O Tribunal de origem, com apoio na legislação infraconstitucional aplicável à espécie, decidiu que inexiste óbice para a retenção dos honorários advocatícios contratuais. Para firmar entendimento diverso do acórdão recorrido, seria indispensável a análise da legislação infraconstitucional (notadamente as Leis nºs 8.906/1994 e 9.424/1996), providência vedada em sede de recurso extraordinário. A ofensa ao texto constitucional, se existisse, seria meramente indireta ou reflexa. Nesse sentido, confiram-se os julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. COMPETÊNCIA PARA LIMITAÇÃO DO VALOR DA RETENÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 601.616-AgR, Rel.ª Min.ª Cármen Lúcia)
+    “PROCESSUAL CIVIL. PRESTAÇÃO DE CONTAS. LEVANTAMENTO DE DEPÓSITO JUDICIAL. RETENÇÃO. HONORÁRIOS ADVOCATÍCIOS. LEI 8.906/94. ESTATUTO DA ADVOCACIA. AMPLA DEFESA. ATO JURÍDICO PERFEITO. MATÉRIA INFRACONSTITUCIONAL. 1. Recurso extraordinário no qual se pretende a análise de legislação infraconstitucional. Hipótese de ofensa indireta ou reflexa à Constituição Federal. 2. Agravo regimental improvido.” (AI 657.929-AgR, Rel.ª Min.ª Ellen Gracie)
+    Quanto à alegada ofensa aos art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento aos recursos.
+    Publique-se.
+          Brasília, 16 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
