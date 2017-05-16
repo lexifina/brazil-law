@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “RECURSOS OFICIAL E DE APELAÇÃO – AÇÃO DE RITO ORDINÁRIO – PRETENSÃO À CONCESSÃO DE APOSENTADORIA ESPECIAL – ATIVIDADE INSALUBRE. APLICAÇÃO DO RGPS – POSSIBILIDADE. 1. Preliminarmente, possibilidade jurídica do pedido e presença do interesse processual da parte autora. 2. No mérito, aplicação do artigo 57, § 1º, da Lei Federal nº 8.213/91, à hipótese dos autos. 3. Comprovação de efetivo desempenho de atividade insalubre. 4. Matéria pacificada em razão do julgamento do Mandado de Injunção nº 721, perante o E. STF. 5. Os elementos de convicção produzidos nos autos demonstram o exercício da função, por mais de 25 anos. 6. Retificação de mero erro material, constante da r. Sentença impugnada, relativamente ao percentual do adicional de insalubridade. 7. Os honorários advocatícios foram fixados corretamente e remuneram, digna e moderadamente, o advogado que atuou no lide, não comportando redução. 8. Sentença de procedência da ação, parcialmente modificada, apenas, para a correção de mero erro material. 9. Recurso oficial, provido, em parte,, para tal finalidade. 10. Recurso de apelação apresentado pela parte autora, provido, para o fim especificado. 11. Recurso de apelação oferecido pela ré, desprovido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, LXXI; 22, XXIII; 40, § 4º; II e III, da Constituição.
+    A decisão agravada negou seguimento ao recurso por entender que o “posicionamento alcançado pelos doutos julgadores, embora contrário às pretensões da recorrente, não traduz desrespeito à legislação enfocada a ponto de permitir seja o presente alçado à instância superior”.
+    O recurso não deve ser provido, tendo em vista que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal, consolidada na Súmula Vinculante 33:
+    “Aplicam-se ao servidor público, no que couber, as regras de regime geral da previdência social sobre aposentadoria especial que trata o artigo 40, § 4, inciso III da Constituição Federal, até a edição de Lei Complementar específica.”
+    Ademais, dissentir do entendimento firmado pelo Tribunal de origem, faz-se necessário o reexame do conjunto fático-probatório dos autos, procedimento vedado neste momento processual nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 16 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
