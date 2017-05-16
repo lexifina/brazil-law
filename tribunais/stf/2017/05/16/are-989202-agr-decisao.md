@@ -1,0 +1,16 @@
+Trata-se de agravo regimental interposto contra decisão que não conheceu do recurso extraordinário com agravo, ante a sua intempestividade (volume eletrônico 4).
+    A parte agravante sustenta, em suma, que o agravo contra a decisão que inadmitiu o RE foi interposto tempestivamente, pois, conforme o Provimento CSM 2.297/2015 do Tribunal de Justiça do Estado de São Paulo, os prazos processuais ficaram suspensos no período de 7 a 17 de Janeiro de 2016 (volume eletrônico 6).
+    Bem reexaminados os autos, verifico que assiste razão à parte agravante. Para tanto, destaco que a decisão que inadmitiu o recurso extraordinário foi publicada em 7/1/2016, quando vigorava o art. 28 da Lei 8.038/90 e a jurisprudência desta Corte, que admitia a prova da causa de prorrogação de prazo no agravo regimental:
+    “Extraordinário. Prazo. Cômputo. Intercorrência de causa legal de prorrogação. Termo final diferido. Suspensão legal do expediente forense no juízo de origem. Interposição do recurso no termo prorrogado. Prova da causa de prorrogação só juntada em agravo regimental. Admissibilidade. Presunção de boa-fé do recorrente. Tempestividade reconhecida. Mudança de entendimento do Plenário da Corte. Agravo regimental provido. Voto vencido. Pode a parte fazer eficazmente, perante o Supremo, em agravo regimental, prova de causa local de prorrogação do prazo de interposição e da consequente tempestividade de recurso extraordinário” (RE 626.358-AgR, Rel. Min. Cezar Peluso – Presidente).
+    Por tal motivo, reconsidero a decisão constante do volume eletrônico 4 e passo a examinar o agravo.
+    Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário, ante a incidência da Súmula/STF 282 e necessidade de análise de legislação infraconstitucional para apreciação sua apreciação (págs. 71-73 do volume eletrônico 2).
+    O agravo não merece acolhida, dado que a parte recorrente deixou de atacar os fundamentos da decisão agravada (págs. 76-77 do volume eletrônico 2) , o que atrai a incidência da Súmula 287/STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 16 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
