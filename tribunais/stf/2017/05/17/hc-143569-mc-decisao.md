@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+     1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Vara Plantão – 22ª Circunscrição Judiciária – da Comarca de Itapetininga/SP, ao acolher representação do Ministério Público, no processo nº 0000771-89.2015.8.26.0571, determinou a prisão preventiva do paciente, ante o suposto cometimento da infração descrita no artigo 157, § 2º, incisos I e II (roubo com causa de aumento em razão do uso de arma e do concurso de pessoas), do Código Penal. Aludiu à presença de prova da materialidade e indícios suficientes de autoria. Disse ser a segregação cautelar medida de segurança processual destinada a casos em que o acusado ameaça cometer outros crimes. Consignou necessária a custódia para garantia da ordem pública, reportando-se à gravidade do delito, à repercussão social e à credibilidade do Poder Judiciário.
+    Na sequência, o Juízo da Segunda Vara Criminal da Comarca de Tatuí/SP, na qual o processo nº 0000830-78.2016.8.26.0624 passou a tramitar, indeferiu pedido de liberdade provisória.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 384.507/SP, inadmitido pelo Relator.
+    Os impetrantes aduzem a falta de fundamentação do ato constritivo. Afirmam ausentes os requisitos autorizadores da segregação. Sublinham não demonstrado o risco à ordem pública ou à instrução criminal. Argumentam tratar-se de situação apta a mitigar o verbete nº 691 da Súmula do Supremo. Apontam violação dos artigos 93, inciso IX, da Constituição Federal e 312 do Código de Processo Penal.
+    Requerem, em âmbito liminar, a revogação da preventiva, expedindo-se contramandado de prisão. No mérito, buscam a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou que o processo-crime nº 0000830-78.2016.8.26.0624 foi sobrestado pelo Juízo, tendo em conta o artigo 366, do Código de Processo Penal.
+    A ordem prisional encontra-se pendente de cumprimento junto ao Banco Nacional de Mandados de Prisão.
+    A fase é de exame da medida acauteladora.
+    2. A leitura do ato por meio do qual determinada a constrição do paciente revela haver sido considerada a imputação. Inexiste, no arcabouço normativo, a custódia automática tendo em conta o delito possivelmente cometido, levando à inversão da ordem do processo-crime, que direciona, presente o princípio da não culpabilidade, a apurar-se para, selada a culpa, prender-se, em verdadeira execução da pena. Aludiu à possibilidade de reiteração delitiva, sem elementos concretos a embasá-los, partindo da capacidade intuitiva, olvidando que a presunção seria de postura digna, ante o fato de achar-se o paciente submetido aos holofotes da Justiça. A repercussão social causada pelo delito e a credibilidade do Poder Judiciário surgem como elementos neutros, insuficientes a respaldar o argumento referente à garantia da ordem pública. Esta fica vinculada à observância da legislação em vigor. O combate à delinquência não há de fazer-se a ferro e fogo, mas mediante política criminal normativa. Tem-se a insubsistência das premissas lançadas.
+     3. Defiro a liminar pleiteada. Expeçam o contramandado de prisão ou, se já cumprido, o alvará de soltura, a ser implementado com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da preventiva formalizada no processo nº 0000771-89.2015.8.26.0571, da Vara Plantão da Comarca de Itapetininga/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4.Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 17 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
