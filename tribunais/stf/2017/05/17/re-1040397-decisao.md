@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 4º Região confirmou o entendimento do Juízo quanto à procedência do pedido de manutenção de serviço de transportes rodoviário interestadual de passageiros até a conclusão da licitação, considerada a continuidade dos serviços públicos. No extraordinário, a recorrente aponta a violação dos artigos 2º, 5º, inciso XXXV, LIV e LV, 21 inciso XII, alínea “e”, 37, inciso XXI, 93, inciso IX, e 175 da Constituição Federal. Argui a nulidade do acórdão relativo aos embargos de declaração, por negativa de prestação jurisdicional. Discorre sobre a obrigatoriedade de licitação, alegando ter o acórdão impugnado implicado a concessão mediante privilégio a particular, em detrimento do interesse público. Diz ter havido concessão de linha de ônibus pelo Poder Judiciário, tendo como contrariado princípio da separação dos Poderes.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, colho do acórdão recorrido os seguintes trechos:
+    Conforme jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça é inviável a exploração de serviço de transporte interestadual de passageiros sema devida autorização/permissão dado pelo Poder Público, na forma dos artigos 21, XII, “e”, e 175 da Constituição Federal, não sendo possível ao Poder Judiciário substituir a Administração, seja na autorização ou concessão, seja no exame da conveniência e oportunidade para a realização de processo licitatório no setor de transporte interestadual de passageiros, eis que prerrogativa exclusiva do administrador.
+    (...)
+    No caso em exame, contudo, a linha existe há décadas e vinha sendo operada pela apelada, embora a agência setorial tenha revogado prematuramente a autorização, a pretexto de preparar o futuro processo licitatório.
+    Nesse caso, o mais prudente é manter, em caráter excepcional, como fez o magistrado sentenciante, o serviço de transportes, até o final do processo licitatório.
+    Em tais hipóteses, deve ser preservado o objetivo maior do serviço público, cujos traços essenciais são descritos por Marçal Justen Filho:
+    Serviço público é uma atividade administrativa de satisfação concreta de necessidades individuais ou transindividuais, materiais ou imateriais, vinculadas diretamente a um direito fundamental, destinada a pessoas indeterminadas e executadas sob regime de direito público.
+    O serviço existe para satisfação concreta das necessidades do cidadão, razão que fundamenta a retirada de tal atividade do âmbito da iniciativa privada e sua atribuição a uma das pessoas políticas do Estado federal.
+    À toda evidência, em momento algum houve dispensa de licitação, apenas consignou o Colegiado de origem a continuidade dos serviços até conclusão do pertinente processo licitatório, a fim de evitar o prejuízo à população em decorrência da suspensão do transporte. Somente com a análise do quadro probatório seria dado concluir em sentido contrário, o que é vedado em sede extraordinária.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 17 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
