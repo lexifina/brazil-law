@@ -1,0 +1,17 @@
+DECISÃO
+RECLAMAÇÃO – OBJETO – PROCESSO EM CURSO NO SUPREMO – IMPROPRIEDADE.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Alessandro Fernandes afirma haver a Terceira Câmara Criminal do Tribunal de Justiça do Estado de São Paulo, na apelação nº 0086459-69.2011.8.26.0050, inobservado a medida acauteladora deferida por Vossa Excelência no habeas corpus nº 136.143.
+    Segundo narra, o Órgão reclamado, no julgamento das apelações interpostas, manteve a condenação à pena de 18 anos e 8 meses, em regime inicial fechado, ante a prática dos crimes previstos nos artigos 157, § 2º, incisos I, II e V (roubo majorado), e 288, parágrafo único (associação criminosa majorada), em concurso material. Assevera a determinação de imediata expedição de mandado de prisão, presente o decidido nos habeas corpus nº 126.292/SP e nº 135.752/PB, bem assim nas ações declaratórias de constitucionalidade nº 43 e nº 44, surgindo daí o alegado desrespeito.
+    Consoante esclarece, Vossa Excelência implementou a liminar postulada no referido habeas, para assegurar a liberdade, considerado o excesso de prazo da constrição, até o trânsito em julgado da condenação. Realça ainda estar em curso o processo no qual formalizado o pronunciamento dito olvidado. Reputa imprópria a determinação de nova custódia, para fins de execução antecipada da sanção, tendo em vista o assentado no paradigma. Diz da interposição de embargos de declaração contra o acórdão impugnado, pendentes de apreciação, no que ausente a preclusão maior.
+    Sustenta inadequada a imposição da segregação, sem que antes o título condenatório alcance a preclusão maior, levando em conta o seguinte trecho da decisão apontada como inobservada: “A constrição decorrente de título condenatório provisório, embora admitida pela lei penal, integra o campo da excepcionalidade”. Destaca estar a condenação lastreada, exclusivamente, em depoimento de corréu. Ressalta não ser obrigatória a determinação de execução provisória de ato condenatório confirmado em segunda instância. Aponta a existência de precedentes de alguns Ministros do Supremo, no sentido de que a execução provisória da pena viola o princípio da não culpabilidade.
+    Não alude ao elemento do risco.
+    Requer, em sede liminar, a suspensão do cumprimento do título condenatório em caráter provisório. Pede, alfim, a confirmação da medida acauteladora, visando seja assegurada a própria liberdade até a preclusão maior no processo-crime. Sucessivamente, postula o deferimento de ordem de habeas corpus de ofício com a mesma finalidade.
+    2. Percebam as balizas do caso concreto. O reclamante aponta olvidada a liminar implementada no habeas corpus nº 136.143, de minha relatoria, ainda em curso no Supremo.
+    A reclamação serve à preservação da competência do Supremo e da autoridade das respectivas decisões, em relação às quais se pressupõe que não se encontrem em andamento, no próprio Tribunal, as ações que as motivaram. Essa óptica decorre da organicidade e da dinâmica do Direito instrumental, a direcionar ao máximo de eficácia do ordenamento jurídico com o mínimo de atuação judicante e à desburocratização do processo.
+    Em síntese, tratando-se da concretude de pronunciamento do Supremo formalizado em processo que nele ainda está a tramitar, o alegado desrespeito não enseja o início de mais um, emperrando a máquina judiciária.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 17 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
