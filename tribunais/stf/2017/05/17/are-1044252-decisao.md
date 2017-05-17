@@ -1,0 +1,16 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO — Execução fiscal — Exceção de pré-executividade — ISS sobre serviços notariais dos exercícios de 2004 a 2009-- 1) Alegação de decadência e prescrição — Inocorrência - Notificações lavradas em janeiro e fevereiro de 2009 - Constituição definitiva do crédito em 2009 — Execução interposta em março de 2010, dentro do prazo prescricional que é de cinco anos após a constituição definitiva do crédito. 2) Alegada nulidade da Certidão de Dívida Ativa por ilegitimidade passiva do agravante em relação a período anterior à sua nomeação como interino em março de 2006, assumindo a condição de preposto escrevente da unidade —Discussão que melhor se adequa aos embargos à execução. Recurso parcialmente provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI, da Carta. A parte recorrente sustenta que há coisa julgada relativamente à matéria em questão nos presentes autos, razão pela qual a CDA seria nula. Aduz que a segurança conferida à serventia em ação anterior aproveita o seu tabelião na presente ação. Aduz que a decisão transitada em julgada em favor da serventia se estende ao seu sucessor, inclusive porque oriundo da mesma relação jurídica.
+    A pretensão recursal não merece prosperar. Quanto ao mérito, verifica-se que o acórdão recorrido consignou que:
+    “(...)
+    No caso sub judice, havendo impugnação por parte da Municipalidade das alegações do excipiente no tocante à sua legitimidade, há necessidade do revolvimento de matéria fático probatória e, por isso, deve a questão ser remetida aos embargos à execução para que as partes possam produzir as provas que entendem necessárias para a comprovação de seu direito.
+    Assim, fica evidente que a matéria debatida não é unicamente  de direito e dependente de provas, mostrando-se necessário um debate mais aprofundado sobre a questão, com a produção de prova sobre o mérito da matéria discutida, especialmente para que se possa afirmar se a documentação trazida pelo agravante reflete a alegada nulidade da CDA, por ilegitimidade de parte, em especial em relação aos exercícios de 2004 a 2006.”
+    Com efeito, dissentir das conclusões adotadas demandaria tão somente o exame do conjunto fático e probatório, providência vedada nesta via processual.
+    Ademais, ainda que superado tal óbice processual, cumpre registrar que o Supremo Tribunal Federal já assentou a ausência de ofensa direta da controvérsia referente à violação aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE nº 748.371-RG, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada da na instância anterior, observados os limites legais do art. 85, §§§ 3º, 4º e 5º, do CPC/2015.
+    Publique-se.
+    Brasília, 17 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
