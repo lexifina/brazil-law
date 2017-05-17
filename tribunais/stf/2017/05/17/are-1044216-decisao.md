@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÕES. AÇÃO CIVIL PÚBLICA POR ATOS DE IMPROBIDADE ADMINISTRATIVA. POLICIAL RODOVIÁRIO FEDERAL CONDENADO PENALMENTE POR CORRUPÇÃO PASSIVA. COMPROVAÇÃO DA PRÁTICA DAS CONDUTAS, PELO AGENTE PÚBLICO FISCALIZADOR, DE NÃO IMPOSIÇÃO DAS MEDIDAS IMPOSTAS PELA LEGISLAÇÃO DE TRÂNSITO A VEÍCULOS IRREGULARES E DE RECEBIMENTO DE VANTAGEM ILÍCITA ("PROPINA"). PERFAZIMENTO DOS TIPOS DO ART. 9º, CAPUT E INCISOS I E X, E DO ART. 11, CAPUT E INCISOS I E II, DA LEI Nº 8.429/92. ELEMENTO SUBJETIVO. DOLO CARACTERIZADO. DOSIMETRIA DA PENA. ART. 12 DA LEI Nº 8.429/92 E PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS QUANDO AUTOR O MINISTÉRIO PÚBLICO. INADMISSIBILIDADE. PROVIMENTO DO APELO DO AUTOR E PARCIAL PROVIMENTO DO RECURSO DO RÉU.
+    […].”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XLVI, e 93, IX, da Constituição.
+    O recurso extraordinário é inadmissível, tendo em vista que dissentir da conclusão adotada pelo Tribunal de origem implica, necessariamente, a análise da legislação infraconstitucional aplicada ao caso e a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), providências vedadas nesta fase processual.
+    Ademais, o Plenário deste Tribunal, sob a sistemática da repercussão geral, já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões, como ocorre neste caso. Veja-se, a propósito, a ementa do AI 791.292-QO-RG, Rel. Min. Gilmar Mendes (Tema 339):
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 17 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
