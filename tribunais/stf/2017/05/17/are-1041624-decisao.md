@@ -1,0 +1,25 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “CONCURSO PÚBLICO – BANCO DO BRASIL – Anulação de ato administrativo de negativa de posse, diante do fato de a autora, aprovada em concurso público, estar inadimplente junto à instituição financeira – Ação improcedente – As restrições da autora junto ao Banco não foram regularizadas no prazo concedido – Respeito às normas vigentes e aos termos do edital – Inércia da autora em demonstrar o cumprimento das obrigações – Sentença mantida.
+    Recurso desprovido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 1º, III, 5º, II, XIII e XXXVI, e 37, todos da Constituição da República.
+    Cabe observar, desde logo, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula de edital, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém nas Súmulas 279/STF e 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios e em interpretação de cláusula de edital:
+    “De fato, o ato administrativo de negativa de posse não apresenta nenhum vício e foi proferido em acordo com o edital do concurso para o cargo de Escriturário, que exigia que o candidato, no ato da posse (admissão), não tivesse seu nome inscrito em cadastros restritivos (SPS, CCF, SERASA, CADIN, etc.), conforme expressamente previsto no tópico 12.5, letra ‘m’, item 4, bem como item 12.5.2, do Edital do Concurso (fls. 196).
+    Além disso, como se viu ao longo do processo e da prova produzida, a autora não preenchia no momento de sua convocação, nem tampouco nos 30 dias posteriores que lhe foram concedidos para regularizar sua situação cadastral, os requisitos necessários à sua nomeação.
+    Ademais, a situação de inadimplência da autora não foi resolvida, pois não havia somente uma, mas inúmeras restrições em seu nome, não apenas em nome da empresa, mas também restrições cadastrais pessoais por coobrigação, na data de 24 de maio de 2010 (fls. 258/265).
+    …..................................................................................................
+    A autora afirma que a dívida é de responsabilidade da pessoa jurídica, e em fase de regularização, mas não trouxe qualquer documento que demonstrasse o que afirmou, na tentativa de fazer ver existente seu alegado direito líquido e certo.
+    A posição do banco requerido embasou-se na legislação trabalhista e edital, com a conclusão que ela nem mesmo poderia ser contratada, pois não cumpria os quesitos exigidos no edital.
+    A permanência do contrato de trabalho privilegiaria a empregada em detrimento de outros candidatos, que se submeteram às regras do concurso, o que pode ser traduzido em 'ofensa ao interesse público e aos princípios da legalidade e da isonomia'.
+    Não há nos autos qualquer vício a cercear a materialização da pretensão da autora, sendo que existe prova documental a demonstrar que a autora devia para o Banco do Brasil e, no edital, cláusula impeditiva de posse de candidato inadimplente.
+    Indiscutivelmente, a autora era ou ainda é devedora inadimplente do Banco do Brasil, eis que confesso na própria petição inicial e pela documentação a ela anexada, por dívida de empresa da qual é sócia e apurou-se nos autos que a candidata contava com várias restrições anotadas junto ao SERASA e SPC (fls. 258/259 e 261/264).”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 17 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
