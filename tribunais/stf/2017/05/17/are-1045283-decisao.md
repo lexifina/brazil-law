@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 155, § 2º, IV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As alegações de afronta ao dispositivo constitucional apontado não foram analisadas pela instância a quo, tampouco ventilada em embargos de declaração para satisfazer o requisito do prequestionamento. Aplicável, na hipótese, o entendimento jurisprudencial vertido nas Súmulas 282 e 356/STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão suscitada” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”. Nesse sentido, o AI 743.256-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.3.2012; e o AI 827.894-AgR/RJ, Rel. Min. Marco Aurélio, 1ª Turma, unânime, DJe 07.11.2011, cuja ementa transcrevo:
+    "RECURSO EXTRAORDINÁRIO prequestionamento CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé".
+    Ainda que não se ressentisse o recurso quanto ao óbice apontado, melhor sorte não colheria, porquanto o acórdão recorrido não divergiu do entendimento firmado no âmbito desta suprema Corte, verbis:
+    “Segundo agravo regimental no agravo de instrumento. ICMS. Fixação de alíquota. Lei estadual. Resolução do Senado. Período de março a junho de 1989. Constitucionalidade. Matéria pacífica. Precedentes.
+    1. Não ofendem a Constituição Federal leis estaduais que, antes da Resolução nº 22/89 do Senado Federal, fixam as alíquotas de ICMS, desde que observado o limite máximo estabelecido pela Resolução 129/79 também do Senado Federal.
+    2. Agravo regimental não provido.” (AI 813.489-AgR-segundo, Rel. Min. Dias Toffoli, 1ª Turma, DJe 16.12.2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SISTEMA TRIBUTÁRIO NACIONAL. VIGÊNCIA. ARTIGO 34, § 5º DO ADCT. ICMS. OPERAÇÃO DE EXPORTAÇÃO. ALÍQUOTA. RESOLUÇÃO N. 129/79 DO SENADO FEDERAL. OFENSA AO ARTIGO 155, § 2º, IV, DA CB/88. ALEGAÇÃO INSUBISITENTE.
+    O Supremo Tribunal Federal fixou entendimento, à luz do artigo 34, § 5º, do ADCT, no sentido de que, não havendo alíquota fixada pelo Senado Federal --- período que antecedeu a edição da resolução n. 22/89 ---, a adoção, pelos Estados-membros, nas operações de exportação, da alíquota máxima anteriormente fixada pelo Senado no exercício da competência prevista no artigo 23, § 5º, da Constituição de 1969 [resolução n. 129/79] não ofende o artigo 155, § 2º, IV, da CB/88. Precedentes.
+    Agravo regimental a que se nega provimento.” (RE 501.189-AgR, Rel. Min. Eros Grau, 2ª Turma, DJe 06.6.2008)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de maio de 2017.
+Ministra Rosa Weber
+Relatora
