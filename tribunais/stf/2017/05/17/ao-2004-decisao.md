@@ -1,0 +1,13 @@
+DECISÃO
+COMPETÊNCIA – DECLINAÇÃO.
+    1. O assessor Dr. Mário Henrique Ditticio prestou as seguintes informações:
+    Iliete Teresinha Fretta Caldas e Priscilla Figueiredo da Cunha Rodrigues, esta última advogando em causa própria, ajuizaram ação sob o rito ordinário para anular decisão proferida pelo Conselho Nacional de Justiça, o qual negou pleito das autoras de declaração de ilegalidade do artigo 46, alínea “i”, do Edital nº 84/2007, publicado pelo Tribunal de Justiça de Santa Catarina para a abertura de concurso público visando provimento de vagas na Atividade Notarial e de Registro e de Remoção. Requerem a anulação do certame.
+    Justificam a competência originária do Supremo, presente o disposto no artigo 102, inciso I, alínea “r”, da Carta da República, em razão do envolvimento de atos do Conselho Nacional de Justiça. Segundo narram, a previsão editalícia institui a necessidade de os candidatos apresentarem atestado de idoneidade moral, a ser fornecido por dois magistrados ou membros do Ministério Público. Apontam a inconstitucionalidade da exigência, por violação dos princípios da igualdade, legalidade, impessoalidade e moralidade. Aduzem terem formalizado denúncia perante o Conselho, autuada sob o nº 0003258-28.2012.2.00.0000, a qual foi indeferida por meio de decisão prolatada na 178ª Sessão Ordinária daquele Conselho.
+    O processo foi distribuído por prevenção, presente o mandado de segurança nº 28.545, da relatoria de Vossa Excelência.
+    2. A competência do Tribunal é de direito estrito, sendo impróprio elastecê-la para além do que previsto na Constituição Federal. O Pleno, ao apreciar a questão de ordem suscitada na ação originária nº 1.814, de minha relatoria, adotou interpretação sistemática da alínea “r” do inciso I do artigo 102 do Diploma Maior – segundo a qual incumbe ao Supremo julgar ações contra o Conselho Nacional de Justiça –, para assentar a incidência do preceito somente em ações mandamentais. Confiram a ementa confeccionada, publicada no Diário da Justiça eletrônico de 3 de dezembro de 2014:
+    COMPETÊNCIA – AÇÃO – RITO ORDINÁRIO – UNIÃO – MÓVEL – ATO DO CONSELHO NACIONAL DE JUSTIÇA. Cabe à Justiça Federal processar e julgar ação ajuizada contra a União presente ato do Conselho Nacional de Justiça. A alínea “r” do inciso I do artigo 102 da Carta da República, interpretada de forma sistemática, revela a competência do Supremo apenas para os mandados de segurança.
+    3. Ante o quadro, declaro a incompetência do Supremo e determino o envio do processo à Seção Judiciária do Estado de Santa Catarina.
+    4. Publiquem.
+Brasília, 17 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
