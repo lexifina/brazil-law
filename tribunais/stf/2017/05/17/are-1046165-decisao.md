@@ -1,0 +1,18 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL — Embargos à execução — IPTU do exercício de 2001 —Alegação de ilegitimidade passiva —Imóvel objeto de servidão de passagem —Ausência de comprovação da alegação — Juntada de documentos que não se referem ao imóvel indicado na CDA - Ônus da prova que compete à embargante — Improcedência dos embargos - Sentença mantida - Recurso improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 145, § lº, 150, VI, "a", e 177, todos da Carta. A parte recorrente sustenta que não é proprietária do imóvel apontado na CDA, mas somente goza de servidão de passagem, razão pela qual não é sujeito passivo de IPTU. Aduz que, devido ao loteamento efetuado na área, os registros municipais restam incompatíveis com a realidade, indicando recorrente a como proprietária de imóveis que não são e nunca foram de sua propriedade.
+    A pretensão recursal não merece prosperar, tendo em vista que no caso incide a vedação da Súmula 279/STF. No caso dos autos, note-se que o Tribunal de origem consignou o seguinte:
+    “Entretanto, em que pese a discussão referente à possibilidade de incidência de IPTU sobre área objeto de servidão de passagem, referido argumento não é capaz de elidir a responsabilidade  tributária da apelante pelo pagamento do tributo ora cobrado, posto  á que o documento supra referido refere-se a uma faixa de terreno situada no Jardim Sapopemba, com 21.195,40m2, contribuinte n° 154.075.0007, enquanto que o imóvel tributado possui 25.920 m2, cadastrado sob o no 154.232.0244-1, nos termos da CDA de fls. 03 dos autos em apenso, de sorte que não se vislumbra a identificação do imóvel indicado com o imóvel objeto da tributação.
+    Senão por isso, o lançamento do IPTU referente ao exercício de 2001 foi feito de ofício pela Municipalidade de São Paulo  com base nas informações constantes em seu cadastro, consoante consta às fls. 49 e 97/98, que indica a embargante como proprietária do imóvel sub judice.
+    Ademais, não prospera a alegação de erro no cadastramento da área servienda, que segundo a embargante compreenderia - as quadras 194,232 e 240, cadastradas com número de contribuinte 154.994.0038-2, 154.232.0244-1 e 154.240.0183-0. Isto porque, não foram produzidas provas aptas a corroborar tal alegação, capaz de demonstrar' que a faixa servienda descrita às fls. 23 refere-se exatamente ao imóvel.
+    De sorte que, em virtude da presunção de certeza e liquidez de que goza a CDA, deveria a embargante buscar outros meios de prova para comprovar que não é proprietária do imóvel e responsável pelo pagamento do tributo, nos termos do parágrafo único do art. 31, da Lei n° 6.830/80.
+    Verifica-se, contudo, que a embargante não se desincumbiu do ônus de demonstrar o direito alegado, nos termos do art. 333, I, do CPC, que diz caber ao autor a prova do fato constitutivo do seu direito.
+    Assim, em face da presunção de legalidade da CDA e a ausência de prova para ilidir tal presunção, outra solução não há senão manter a sentença e manter a exigência do IPTU”
+    Neste sentido, para firmar entendimento diverso do acórdão recorrido quanto aos pontos aduzidos pela parte recorrente, seria indispensável o reexame do acervo probatório constante dos autos. Nessas condições, a hipótese atrai a incidência da do enunciado da Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 17 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
