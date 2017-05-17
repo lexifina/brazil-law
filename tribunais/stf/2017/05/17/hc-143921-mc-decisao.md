@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Evanildo José Fernandes de Souza, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp nº 1.020.261/MG, Relator o Ministro Rogério Schietti.
+    A impetrante alega, em síntese, estarem presentes os requisitos necessários à aplicação do postulado da insignificância. Aduz, para tanto, que
+    “o paciente, que é MORADOR DE RUA E DEPENDENTE QUÍMICO (ALCÓOL), subtraiu do estabelecimento uma bermuda, avaliada em R$ 10,00 (dez reais), que posteriormente fora restituída à vítima integralmente e em perfeitas condições, ou seja, o estabelecimento não suportou QUALQUER PREJUÍZO, portanto, não há nenhuma lesividade a ser sanada, haja vista a inexistência de dano relevante ausente o prejuízo para a vítima” (grifos da autora).
+    Afirma, ainda, que
+    “as instâncias ordinárias sustentaram que não pode haver reconhecimento da atipicidade material da conduta, derivada da incidência do princípio da insignificância, pois apesar do valor ínfimo da res furtiva, o paciente seria reincidente.
+    Destarte, é necessário salientar que, conforme reiterada jurisprudência deste e. Supremo Tribunal Federal, a reincidência tomada isoladamente, não acarreta necessariamente no afastamento do princípio da insignificância”.
+    Requer a impetrante o deferimento da liminar para suspender “o início da execução da ação penal originária até o juízo definitivo acerca do mérito”. No mérito, pleiteia-se a concessão da ordem para que “seja absolvido o paciente, com fulcro no art. 386, III, do Código de Processo Penal, tendo em vista a incidência do princípio da insignificância.”
+    Examinados os autos, decido.
+    Narra a impetrante, na inicial, que
+    “[o paciente] foi preso em flagrante no dia 17.11.2011, acusado pela suposta prática do crime previsto no art. 155, caput, do Código Penal Brasileiro. Conforme se extrai da exordial acusatória, às e-STJ Fls. 1-2, o assistido adentrou estabelecimento comercial denominado ‘O Baianão’ e subtraiu para si uma bermuda avaliada em R$ 10,00 (e-STJ fls. 29/30) que posteriormente foi devolvida ao estabelecimento (vide e-STJ Fl. 21). Destaca-se que a denúncia foi recebida em 05.06.2012.
+    Após regular instrução processual, o agravante foi condenado em primeira instância ao cumprimento de pena de um ano e sete meses de reclusão, devendo esta iniciar-se em regime fechado, além do pagamento de vinte e dois dias-multa. O Juízo sentenciante afastou a insignificância da conduta sob o fundamento de que "a biografia criminal, túrgida, bem ilustra sua dedicação, seu zelo e seu empenho em obter o alheio”, segue no sentido de que o princípio da insignificância não deve ser aplicado quando houver reincidência, com base nos antecedentes criminais, exibidos em e-STJ Fls. 172-181.
+    Em face da sentença, inconformada a Defensoria Estadual apresentou recurso de apelação, às e-STJ Fls. 223-230, e o MP/MG ofereceu contrarrazões às e-STJ Fls. 231-236, tendo o Tribunal de Justiça Estadual negado provimento ao apelo defensivo, consoante e-STJ Fls. 260-265, sob o argumento de que ‘a reincidência, ou mesmo a reiteração de práticas delitivas, importa em (...) um comportamento de constante ameaça aos bens da vida juridicamente tutelados.’.
+    Irresignada, a DPE/MG interpôs Recurso Especial, no qual se pugnou pela aplicação do princípio da insignificância, todavia, no TJMG, às e-STJ Fls. 299-300, negou seguimento ao RESP, o que levou a interposição do recurso de Agravo, conforme e-STJ Fls. 306-311. Por conseguinte, no e. STJ, por meio de decisão monocrática, às e-STJ Fls. 331-334, negou provimento ao ARESP sob o argumento de que: (...) Apesar do valor irrisório do bem subtraído, evidenciada a contumácia do réu na prática de crimes contra o patrimônio, o pleito defensivo não comporta acolhimento.”
+    Combativa a DPU interpôs AGRAVO REGIMENTAL, às e-STJ Fls. 350-359. O agravante pleiteava, em suma, consideração da atipicidade da conduta, a fim de que seja aplicado o princípio da insignificância no caso em apreço, dado o valor irrisório do bem subtraído e posteriormente devolvido.
+    Ato contínuo em julgamento, a e. Sexta Turma do STJ, às e-STJ Fls. 362-365, negou provimento ao Agravo Regimental (...)” (grifos da autora).
+    Transcrevo a ementa do julgado proferido pelo Superior Tribunal de Justiça:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. IMPOSSIBILIDADE. REINCIDÊNCIA ESPECÍFICA. AGRAVO NÃO PROVIDO.
+    1. As instâncias ordinárias destacaram que o agravante registra mais de uma condenação definitiva pretérita e responde a outros processos por crimes de mesma natureza, a evidenciar a sua contumácia em condutas destinadas a subtrair o patrimônio alheio, o que, nos termos da jurisprudência desta Corte Superior, é suficiente para obstar, por si só, a incidência do princípio da insignificância.
+    2. Agravo regimental não provido.” (anexo 2)
+    Essa é a razão pela qual se insurge a impetrante neste writ.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação constante dos autos configurar manifesto constrangimento ilegal.
+    Pelo que se tem na decisão proferida pelo Superior Tribunal de Justiça, não se vislumbra, neste momento, ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento da liminar.
+    Com efeito, o julgado emanado daquela Corte encontra-se suficientemente motivado, restando justificado o convencimento formado, além de estar em conformidade com a jurisprudência do Tribunal Pleno que, ao denegar o HC nº 123.108/MG, o HC nº 123.533/SP e o HC nº 123.734/MG (sob a relatoria do Ministro Roberto Barroso), consolidou o entendimento já existente no sentido de que a habitualidade delitiva específica ou a reincidência, obstam a aplicação do princípio da insignificância (Informativo nº 793/STF).
+    Com essas considerações, sem prejuízo de exame mais detido quando do julgamento de mérito, indefiro a liminar requerida.
+    Estando a impetração devidamente instruída, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 17 de maio de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
