@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, sucessão de Raphael Stoduto Filho. Aparelhado o recurso na afronta ao art. 226, § 3º, da Constituição Federal e na contrariedade à Súmula nº 10.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não consta no recurso extraordinário, interposto de acórdão cuja publicação se deu após a Emenda Regimental nº 21, de 30.4.2007, preliminar formal e fundamentada de repercussão geral. O preenchimento desse requisito demanda a demonstração, em tópico destacado, da relevância econômica, política, social ou jurídica da questão constitucional suscitada, a ultrapassar os interesses subjetivos das partes (art. 543-A, § 1º, do CPC).
+    A jurisprudência desta Corte é firme no sentido de que a ausência da preliminar acarreta a inadmissibilidade do recurso extraordinário. Nesse sentido, cito o RE 569.476-AgR/SC, rel. Min. Ellen Gracie, Tribunal Pleno, unânime, DJe 25.04.2008, cujo acórdão está assim ementado:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL SUSCITADA. PRELIMINAR FORMAL E FUNDAMENTADA. NECESSIDADE DE DEMONSTRAÇÃO. ART. 543-A, § 2º, DO CÓDIGO DE PROCESSO CIVIL. Inobservância ao que disposto no artigo 543-A, § 2º, do Código de Processo Civil, que exige a apresentação de preliminar sobre a repercussão geral na petição de recurso extraordinário, significando a demonstração da existência de questões constitucionais relevantes sob o ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos das partes. A ausência dessa preliminar na petição de interposição permite que a Presidência do Supremo Tribunal Federal negue, liminarmente, o processamento do recurso extraordinário, bem como do agravo de instrumento interposto contra a decisão que o inadmitiu na origem (13, V, c , e 327, caput e § 1º, do Regimento Interno do Supremo Tribunal Federal). Cuida-se de novo requisito de admissibilidade que se traduz em verdadeiro ônus conferido ao recorrente pelo legislador, instituído com o objetivo de tornar mais célere a prestação jurisdicional almejada. O simples fato de haver outros recursos extraordinários sobrestados, aguardando a conclusão do julgamento de ação direta de inconstitucionalidade, não exime o recorrente de demonstrar o cabimento do recurso interposto. Agravo regimental desprovido.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de maio de 2017.
+Ministra Rosa Weber
+Relatora
