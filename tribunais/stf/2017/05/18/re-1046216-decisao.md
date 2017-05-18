@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “APELAÇÃO CÍVEL. CONSTITUCIONAL. ADMINISTRATIVO. ATUAÇÃO DE MÉDICOS EMPREGADOS DE EMPRESA COMO ASSISTENTES TÉCNICOS. RESOLUÇÃO CFM N. 1488/1998. TUTELA PREVENTIVA E NÃO CONTROLE ABSTRATO DE NORMA REGULAMENTAR. INEFICÁCIA ADMINISTRATIVA CIRCUNSCRITA À ATUAÇÃO DE MÉDICOS DA AUTORA. PROVIMENTO PARCIAL.
+    1. Trata-se de apelação contra sentença que julgou procedente o pedido para declarar a invalidade do art. 12 da Resolução do Conselho Federal de Medicina de n. 1.488, de 11 de fevereiro de 1998, e afastar a sua aplicabilidade em relação à autora no que diz respeito à impossibilidade de atuação de médicos de empresa, médicos responsáveis por qualquer Programa de Controle de Saúde Ocupacional de Empresa e médicos participantes do Serviço Especializado em Segurança e Medicina do Trabalho como assistentes técnicos da autora em juízo.
+    2. Não sendo hipótese de controle abstrato da norma regulamentar, mas sim de tutela preventiva da autora no sentido de não sofrer qualquer tipo de restrição às suas atividades relacionadas à indicação de seus empregados como assistentes técnicos em especialidade referente à Medicina, pode o Poder Judiciário acolher o pedido formulado na ação para o fim de tomar inoponível a norma constante da Resolução relativamente às atividades e condutas da autora.
+    3. Merece reparo a sentença apenas no tocante à declaração de ineficácia da norma administrativa em relação apenas à demandante eis que mesmo o art. 12 da norma em discussão, continua hígido relativamente aos demais casos que não se relacionem à autora.
+    4.A hipótese é de reforma parcial da sentença apenas para alterar o dispositivo de modo a ficar constando que o julgamento é de procedência do pedido para o fim de declarar ineficaz relativamente à autora o art. 12, da Resolução CFM n. 1.488, de 11 de fevereiro de 1998 e, assim, afastar sua aplicabilidade em relação à demandante no que diz respeito à impossibilidade de atuação de médicos de empresa, médicos responsáveis por qualquer Programa de Controle de Saúde Ocupacional de Empresa e Médicos participantes do Serviço Especializado em Segurança e Medicina do Trabalho como assistentes técnicos da autora em juízo.
+    5. Apelo parcialmente provido. Sentença reformada.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º e 5º, X, XIV e XXXIII, da Carta.
+    O recurso é inadmissível, tendo em vista que, para dissentir da conclusão do Tribunal de origem, seriam imprescindíveis a análise das normas infraconstitucionais pertinentes e o reexame do conjunto fático-probatório dos autos, o que torna inviável o processamento do recurso extraordinário (Súmula 279/STF).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 18 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
