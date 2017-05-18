@@ -1,0 +1,18 @@
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. ALEGADA OMISSÃO QUANTO À FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. RECLAMAÇÃO AJUIAZADA ANTES DA ENTRADA EM VIGOR DO CPC/15. NÃO CABIMENTO. AUSÊNCIA DE OMISSÃO.
+    Vistos etc.
+    1. Contra a decisão monocrática pela qual julgada procedente a reclamação, a União opõe embargos de declaração, postulando a fixação dos honorários advocatícios de sucumbência, a serem suportados pela parte beneficiária da decisão reclamada.
+    Alega que o Código de Processo Civil de 2015 promoveu modificação essencial no procedimento da reclamação, ao instituir o contraditório prévio à decisão final (artigo 989, III).
+    Destaca que a parte beneficiária do ato reclamado apresentou impugnação à reclamação ajuizada, bem como contrarrazões ao recurso de agravo interposto pela União, por intermédio de advogado constituído nos autos.
+    É o relatório.
+    Decido. O artigo 1.022 do CPC/2015 admite embargos de declaração contra qualquer decisão judicial , autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal .
+    Com base, pois, nesse permissivo legal, procedo à apreciação singular destes declaratórios, independentemente do caráter infringente que ostentam.
+    Inexistente vício a ensejar estes embargos declaratórios.
+    Ao julgamento da Rcl 24.417, a 1ª Turma desta Suprema Corte, por maioria, entendeu pela viabilidade de fixação de honorários advocatícios em reclamações ajuizadas após a entrada em vigor do CPC/15, em razão da instituição do contraditório prévio à decisão final (Art. 989, III). Confira-se a ementa do referido julgado:
+    EMENTA: AGRAVO INTERNO EM RECLAMAÇÃO. DIREITO ADMINISTRATIVO E DO TRABALHO. REMUNERAÇÃO. SÚMULAS VINCULANTES 37 E 42. HONORÁRIOS ADVOCATÍCIOS EM RECLAMAÇÃO. NOVO REGIME PROCESSUAL. CABIMENTO. 1. Não viola as Súmulas Vinculantes 37 e 42 decisão que, com base no Decreto nº 41.554/97 e Lei nº 8.898/94, ambos do Estado de São Paulo, garante a empregada pública cedida da Fundação Municipal de Ensino Superior de Marília para a Faculdade de Medicina de Marília – FAMENA o percebimento de remuneração conforme índices estabelecidos pelo Conselho de Reitores das Universidades Estaduais de São Paulo – CRUESP. Precedentes. 2. O CPC/2015 promoveu modificação essencial no procedimento da reclamação, ao instituir o contraditório prévio à decisão final (art. 989, III). Neste novo cenário, a observância do princípio da causalidade viabiliza a condenação da sucumbente na reclamação ao pagamento dos respectivos honorários, devendo o respectivo cumprimento da condenação ser realizado nos autos do processo de origem, quando se tratar de impugnação de decisão judicial. 3. Agravo interno a que se nega provimento. (Rcl 24417 AgR/SP, Rel. Min. Roberto Barroso, 1ª Turma, DJe 24.4.2017)
+    A presente reclamação, porém, foi proposta em 25.3.2015, antes, portanto, da entrada em vigor no CPC/2015, em 18.3.2016, razão pela qual incabível a condenação da parte sucumbente ao pagamento de honorários.
+    Dessarte, não se verifica nenhuma das hipóteses ensejadoras dos embargos de declaração , uma vez apreciada reclamação de forma clara e coerente, de acordo com a disciplina da Lei 8.038/1990, em consonância com a jurisprudência desta Corte Suprema. Por conseguinte, reputo desatendidos os pressupostos de embargabilidade, consoante o art. 1022 do CPC.
+    Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 18 de maio de 2017.
+Ministra Rosa Weber
+Relatora
