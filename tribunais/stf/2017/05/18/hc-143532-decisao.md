@@ -1,0 +1,30 @@
+Decisão:
+Ementa: Penal. Recurso ordinário em habeas Corpus. Tentativa de furto. Princípio da insignificância. Reiteração delitiva.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que deu parcial provimento ao Resp 1.652.932, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que a paciente foi condenada à pena de 7 (sete) meses de reclusão, em regime inicial semiaberto, pelo crime previsto no artigo 155, caput, c/c o artigo 14, II, ambos do Código Penal.
+    3. O Tribunal de Justiça do Estado de São Paulo negou provimento à apelação da defesa.
+    4. Em seguida, a defesa interpôs recurso especial. O Relator do Resp 1.652.932, Ministro Felix Fischer, deu parcial provimento ao recurso “tão somente para determinar a compensação da reincidência com a confissão espontânea, ficando a pena da recorrente redimensionada em 6 (seis) meses de reclusão, mantido os demais termos do v. acórdão vergastado”. Aquela Corte determinou, ainda, que, “independentemente da certificação do trânsito em julgado, à Coordenadoria da Quinta Turma, a remessa de cópia da r. sentença, do v. acórdão prolatado em apelação e das decisões proferidas nesta Corte para o juízo de primeira instância, a fim de que proceda à execução provisória da pena”.
+    5. Neste habeas corpus, a defesa sustenta a aplicabilidade, no caso, do princípio da insignificância, tendo em vista o pequeno valor dos bens subtraídos (5 frascos de desodorante, avaliados em R$ 50,00). Daí o pedido de concessão da ordem a fim de absolver a paciente.
+    Decido.
+    6. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via processual (HC 115.659, Rel. Min. Luiz Fux).
+    7. Com efeito, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    8. Por outro lado, não é caso de concessão da ordem de ofício. O Plenário deste STF reiterou o entendimento de que o princípio da insignificância incide quando presentes, cumulativamente, as seguintes condições objetivas: (i) mínima ofensividade da conduta do agente, (ii) nenhuma periculosidade social da ação, (iii) grau reduzido de reprovabilidade do comportamento, e (iv) inexpressividade da lesão jurídica provocada, ressaltando, ainda, que a contumácia na prática delitiva impede a aplicação do princípio.
+    9. No caso de que se trata, não estão configurados os requisitos necessários ao reconhecimento da irrelevância material da conduta, na medida em que se trata de ré contumaz na prática delitiva. Transcrevo, nesse sentido, o seguinte trecho do ato impugnado:
+    “[...]
+    Desse modo, ressalvado meu entendimento pessoal, em respeito ao princípio da colegialidade, verifico que se mostra incompatível com o princípio da insignificância a conduta ora examinada, haja vista que, ainda que se considere de reduzida expressividade do valor do bem subtraído - R$ 50,00 (cinquenta reais), conforme consta do v. acórdão recorrido, a recorrente é reincidente.
+    […].”
+    10. No mesmo sentido, reproduzo o seguinte trecho do acórdão do Tribunal Estadual:
+    “[...]
+    O funcionário Marcos Vinicius Cintra Tonelote disse que a acusada já era conhecida por outros furtos no local, sendo que no dia retratado na inicial, pediu para que outro funcionário a observasse. Ela pegava os produtos e colocava na bolsa. Quando a ré saiu da farmácia foi interceptada e ela confirmou o furto, devolvendo os desodorantes. A polícia então chegou (fls. 118/120).
+    […]
+    O princípio da insignificância, adotado pela relatora sorteada, com todo respeito, entendo não ser passível de ser reconhecido.
+    Para o reconhecimento deste princípio, além do pequeno valor, que deve ser ínfimo, e que no caso não era, deve também se ater a outros requisitos.
+    Assim, embora o bem tenha sido avaliado em R$ 50,00 (cinquenta reais), que realmente é um valor pequeno, o que poderia eventualmente ensejar um furto privilegiado, a ré é reincidente, useira e vezeira na prática de delitos patrimoniais, tendo sido condenada também por tráfico de drogas (fls. 09, 11 do apenso próprio), deixando claro, fazer do crime, seu meio de vida e, assim, incabível ser agraciada com o reconhecimento da atipicidade, benefício que serviria como incentivo para continuar na seara criminal.
+    […].” (grifos acrescidos)
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao presente habeas corpus.
+    Publique-se.
+    Brasília, 18 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
