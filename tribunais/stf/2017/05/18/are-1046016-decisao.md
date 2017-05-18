@@ -1,0 +1,25 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao recurso da defesa e deu parcial provimento ao recurso do assistente de acusação para majorar a pena aplicada ao ora recorrente para 6 anos e 5 meses de reclusão, em regime fechado, pela prática do crime previsto no art. 157, § 2º, I e II, do Código Penal.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LV, LVII; e 93, IX, da Constituição. Sustenta que: (i) “o v. acórdão reconhece, implicitamente, que houve afronta ao artigo 226 do Código de Processo Penal, contudo deixa de anular o reconhecimento pessoal procedido em juízo já claramente viciado desde o inquisitivo”; (ii) “no caso vertente, além da prova científica de que não poderia ter praticado o delito o agente produziu prova testemunhal incontestável no mesmo sentido”; (iii) “incumbe ao Estado-acusação não só a prova de tratar-se o instrumento utilizado na prática do roubo efetivamente de uma arma, mas também que a arma, naquela ocasião, detinha potencialidade lesiva”; (iv) “as circunstâncias do artigo 59 do Código Penal são todas interpretadas como favoráveis ao agente, tanto que levou a fixação da pena base em seu patamar mínimo, daí a aplicação do regime mais gravoso deveria ser fundamentado, para que não houvesse divergência de entendimento dentro de um só decisum”.
+    O recurso está parcialmente prejudicado, tendo em vista que o Superior Tribunal de Justiça deu “parcial provimento ao recurso para afastar o acréscimo aplicado pelo Tribunal a quo, restabelecendo a pena originariamente fixada na primeira instância e fixar o regime semiaberto” (AREsp 1.051.351, Rel. Min. Nefi Cordeiro).
+    No mais, o recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão recorrido:
+    “[...]
+    (…) a negativa não convence, porque as vítimas Rodrigo e Carina foram reinquiridas em juízo e novamente reconheceram o réu como um dos autores do delito, com absoluta certeza, além de narrarem com detalhes a ação delitiva.
+    [...]
+    A defesa aponta informações do boletim de ocorrência que colocariam em dúvida o reconhecimento pessoal efetuado pelas vitimas, mas se alguma dúvida pudesse restar, foi espancada sob o crivo do contraditório, quando Ronaldo esclareceu que foi ele quem registrou a ocorrência, estava nervoso, "queria voltar 'pra' casa", fez rápida descrição dos fatos e assinou o documento, sem atentar para o seu conteúdo. E naquela ocasião não lhe foi indagado sobre reconhecimento dos agentes.
+    […]
+    Tratou-se de roubo, porque os agentes empregaram grave ameaça contra as vítimas.
+    […]
+    (…) as vítimas sempre narraram que foram abordadas pelo réu e seu comparsa, e que ambos portavam arma de fogo. O fato de as armas não terem sido apreendidas e consequentemente não terem sido periciadas não afasta a incidência da agravante, pois uma vez demonstrado o efetivo emprego de arma de fogo inverte-se o ônus da ó prova, cumprindo à defesa demonstrar que o instrumento utilizado estivesse inoperante, ou que fosse arma de brinquedo; enfim, destituído de eficácia vulnerante, ônus do qual a defesa não logrou se desincumbir.
+    […].”
+    Incide a jurisprudência do Supremo Tribunal Federal no sentido de que é prescindível a apreensão e a perícia da arma para caracterizar a majorante prevista no art. 157, § 2º, I, do CP, desde que, por outros meios de prova, puder se comprovar o seu potencial lesivo. Nessa linha, veja o HC 96.099, Rel. Min. Ricardo Lewandowski.
+    Por fim, esta Corte tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Diante do exposto:
+    (i) com base no art. 21, IX, do RI/STF, julgo prejudicado o recurso quanto à discussão acerca do redimensionamento da pena e do regime inicial de cumprimento da pena;
+    (ii) quanto às demais questões, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 18 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
