@@ -1,0 +1,17 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “APELAÇÃO – ANULATÓRIA DE DÉBITO FISCAL – IPTU E PROGRESSIVIDADE DE ALÍQUOTAS – Inocorrência de julgamento ‘extra petita’. Necessidade de devolução de valores indevidamente pagos sob pena de enriquecimento sem causa. Apuração em fase de liquidação mediante comprovação do pagamento. A cobrança de IPTU progressivo depende do cumprimento de requisitos constitucionais e legais que não foram atendidos pela municipalidade. Inteligência do art. 182, § 4º, da CF e do Estatuto da Cidade. Sentença reformada apenas para determinar a fluência dos juros de mora a partir do trânsito em jugado da decisão, conforme previsão do art. 167, p.ú, do CTN e súmula 188, do STJ.
+    Recurso parcialmente provido.”
+    A parte agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que o apelo extremo em questão revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão suscitada em sede recursal extraordinária foi decidida com base no direito local (Lei Complementar municipal nº 113/2001), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Observo, de outro lado, que, para se acolher o pleito deduzido no recurso extraordinário, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, para dar parcial provimento ao recurso da parte ora recorrente, apoiou-se em dispositivos de lei local e em aspectos fático- -probatórios:
+    “No mérito propriamente dito, igualmente não merece provimento o apelo tendo em vista que, apesar a possibilidade de cobrança de alíquotas progressivas de IPTU, tal exação depende do cumprimento de requisitos legais que, no caso em tela, não foram preenchidos pela recorrente. Como bem menciona o douto magistrado de 1ª instância:”
+    Impõe-se observar, finalmente, que essa orientação tem sido observada em sucessivos julgamentos, proferidos no âmbito desta Corte, a propósito de questão processual idêntica à que ora se examina (ARE 955.095/SP, Rel. Min. LUIZ FUX– ARE 969.969/SP, Rel. Min. ROBERTO BARROSO – ARE 973.150/SP, Rel. Min. DIAS TOFFOLI – ARE 992.222/SP, Rel. Min. GILMAR MENDES, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil.
+    Publique-se.
+    Brasília, 18 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
