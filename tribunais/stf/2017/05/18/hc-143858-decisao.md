@@ -1,0 +1,26 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Marcelo Navarro de Morais em favor de Diego Marcos Cantelli, contra acórdão do Superior Tribunal de Justiça, que não conheceu do HC 363.126/PR.
+    Narra a inicial que, em 08.9.2015, o Juiz Federal da 1ª Vara de Pato Branco/PR, decretou a prisão preventiva pela prática, em tese, dos crimes de contrabando e de organização criminosa, tipificados nos arts. 334-A do CP e 2º, caput, da Lei 12.850/2013. O pedido de revogação da constrição cautelar foi indeferido pelo magistrado de primeiro grau.
+    Após, a Defesa impetrou habeas corpus perante o Tribunal Regional Federal da 4ª Região, que denegou a ordem pleiteada.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que não conheceu do HC 397.662/AM.
+    Em 19.12.2016, sobreveio sentença que julgou procedente a denúncia para fixar à pena de 07 (sete) anos e 08 (oito) meses de reclusão, em regime inicial semiaberto, oportunidade em que negado o direito de o paciente recorrer em liberdade.
+    No presente writ, o Impetrante sustenta que “tendo em vista que não há qualquer condenação criminal transitada em julgado, bem como sendo o réu primário, verifica-se que o paciente permanece detido, há mais de um ano – 30.4.2016 -, sem efetiva e fundamentada decisão justificadora da medida de exceção”. Argumenta ausência de fundamentação idônea da prisão preventiva e de seus pressupostos e requisitos autorizadores. Aduz existência de circunstâncias favoráveis ao paciente, como primariedade, emprego lícito, ocupação lícita e residência fixa. Defende a imposição de medidas cautelares diversas da prisão. Requer, em medida liminar e no mérito, a revogação da prisão preventiva do paciente.
+     É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. CONTRABANDO E ORGANIZAÇÃO CRIMINOSA. ALEGAÇÃO DE INOCÊNCIA. DESCABIMENTO. PRISÃO PREVENTIVA. RISCO DE REITERAÇÃO. NECESSIDADE DA PRISÃO PARA GARANTIA DA ORDEM PÚBLICA. SEGREGAÇÃO JUSTIFICADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+    1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+    2. A afirmativa a respeito da fragilidade da prova da participação do paciente na conduta criminosa, consiste, em suma, em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+    3. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico, e a medida deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, sendo vedadas considerações abstratas sobre a gravidade do crime.
+    4. No presente caso, a prisão preventiva está devidamente justificada para a garantia da ordem pública, em razão da periculosidade do agente, evidenciada (i) por dados de sua vida pregressa, notadamente por já ser réu em outra ação penal em que foi preso em flagrante transportando grande quantidade de cigarro contrabandeado e obteve a liberdade mediante o recolhimento de fiança no valor de R$ 60.000,00; (ii) seu profundo envolvimento com organização criminosa extremamente estruturada que atua há anos na região e (iii) bem como por sua ousadia em oferecer dinheiro aos policiais que o abordavam. A prisão preventiva, portanto, mostra-se indispensável para conter a reiteração na prática de crimes e garantir a ordem pública, mormente porque, ao que tudo indica, o paciente fazia do contrabando de cigarros o seu meio de vida.
+    5. As condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes, residência fixa e ocupação lícita, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+    6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+    7. Habeas corpus não conhecido.”
+    Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão exarado pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para manutenção da prisão preventiva.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com a imediata colocação em liberdade do paciente.
+    Ante o exposto, indefiro o pedido de liminar.
+    Colha-se a manifestação do Ministério Público Federal.
+    Publique-se.
+    Brasília, 18 de maio de 2017.
+Ministra Rosa Weber
+Relatora
