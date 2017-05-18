@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de reclamação contra decisão que indeferiu pedido de destacamento de honorários de sucumbência do montante principal de execução em face de pessoa jurídica de direito privado.
+    A parte reclamante alega ter havido afronta à Súmula Vinculante 47 (“Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza”).
+    É o relatório. Decido.
+    Dispenso as informações, bem como o parecer da Procuradoria-Geral da República (RI/STF, art. 52, parágrafo único).
+    A Súmula Vinculante 47 foi editada após reiterados julgamentos desta Corte no sentido da viabilidade do fracionamento de execução contra a Fazenda Pública, para satisfação autônoma dos honorários do advogado. A jurisprudência sobre a matéria encontra-se fundada em duas das características da verba honorária: (i) a autonomia do crédito em relação àquele devido à parte patrocinada, por pertencer a um outro titular; e (ii) a natureza alimentar da parcela. Confiram-se, a propósito, as ementas de dois precedentes que deram origem à Súmula: RE 564.132 RG, Rel. p/ acórdão Min. Cármen Lúcia; RE 415.950-AgR, Rel. Min. Ayres Britto:
+    Ementa: PROCESSO CIVIL. EXECUÇÃO AUTÔNOMA. HONORÁRIOS ADVOCATÍCIOS. REPERCUSSÃO GERAL.
+    A controvérsia dos autos gira em torno da possibilidade do fracionamento do valor da execução proposta contra a Fazenda Pública de Estado-membro, para pagamento de honorários advocatícios.
+    Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR. SUBMISSÃO AO REGIME CONSTITUCIONAL DOS PRECATÓRIOS, OBSERVADA ORDEM ESPECIAL.
+    1. Os honorários advocatícios incluídos na condenação pertencem ao advogado e possuem natureza alimentícia. A satisfação pela Fazenda Pública se dá por precatório, observada ordem especial restrita aos créditos de igual natureza. Precedentes: AIs 623.145, sob a relatoria do ministro Dias Toffoli; 691.824, sob a relatoria do ministro Marco Aurélio; 732.358-AgR, sob a relatoria do ministro Ricardo Lewandowski; e 758.435, sob a relatoria do ministro Cezar Peluso; REs 470.407, sob a relatoria do ministro Marco Aurélio; 538.810, sob a relatoria do ministro Eros Grau; e 568.215, sob a relatoria da ministra Cármen Lúcia; bem como SL 158-AgR.
+    2. Agravo regimental desprovido.
+    No presente caso, porém, o reclamante invoca a Súmula Vinculante 47 em execução contra pessoa jurídica de direito privado, a fim de garantir a incidência de privilégio legal na ordem de pagamento de credores quirografários. Ocorre que, apesar de o referido verbete encontrar-se fundamentado na natureza alimentar e autônoma da verba honorária, sua eficácia vinculante foi expressamente limitada às execuções em face da Fazenda Pública, conforme indica a parte final do enunciado, segundo a qual os honorários advocatícios “consubstanciam verba alimentar, cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor”.
+    Ausente, pois, relação de estrita aderência entre o ato reclamado e a súmula invocada.
+    Saliento, por fim, que a inadmissão da reclamação não implica, necessariamente, a afirmação do acerto do ato reclamado, cuja eventual reforma deve ser realizada por processual própria. É que a reclamação não presta à análise de suposta desconformidade de ato com o direito objetivo. Nas palavras do Min. Luiz Fux, a “reclamação não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade se revela estranha à destinação constitucional subjacente à instituição dessa medida processual” (Rcl 4.637 AgR, Rel. Min. Luiz Fux).
+    Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    Sem honorários, porquanto não inaugurado o contraditório.
+    Publique-se.
+    Brasília, 18 de maio de 2017
+Ministro LUÍS ROBERTO BARROSO
+Relator
