@@ -1,0 +1,29 @@
+Trata-se de julgamento conjunto de ação cível originária e ação cautelar, ajuizadas pelo Estado do Maranhão contra a União, visando a suspensão e cancelamento dos efeitos da inscrição do Estado como inadimplente nos cadastros desabonadores (Siafi, Cadin e Cauc).
+    O autor asseverou que pretende obter crédito do Banco Nacional de Desenvolvimento (BNDES), porém teve seu nome incluído nos mencionados cadastros desabonadores, o que impede a celebração de empréstimos e paralisa as atividades sociais do Estado-membro.
+    Argumentou que a decisão de incluir o autor nos cadastros desabonadores (i) atenta contra os objetivos fundamentais da república; (ii) desrespeita o devido processo legal, já que não houve manifestação definitiva do Tribunal de Contas da União (TCU); e (iii) viola o princípio da legalidade, na medida em que se trata de penalidade não prevista em lei, mas sim em instrução normativa, e da intranscedência.
+    Requereu a suspensão e posteriormente o cancelamento definitivo das inscrições desabonadoras.
+    A liminar requerida na Ação Cautelar 2.657/DF foi deferida (fls. 68/74 e 102/104 da cautelar).
+    A União apresentou contestação (fls. 65/88) e suscitou, preliminarmente, a impossibilidade de pedido genérico, que deixa de discriminar quais as inscrições impugnadas, bem como inépcia da inicial, por ser impossível compreender a controvérsia na ausência de prova documental indispensável.
+    Ressaltou que houve prévia comunicação ao autor a respeito das irregularidades nas prestações de contas dos convênios, tendo sido oportunizada defesa, mas que o autor optou por não responder aos pedidos de esclarecimentos.
+    Salientou que, uma vez constatadas irregularidades no cumprimento de convênio por parte do Estado-membro, a Administração Pública Federal está obrigada a proceder ao registro da pendência, tratando-se de ato vinculado, que tem por fundamento a Lei de Responsabilidade Fiscal.
+    Afirmou que a responsabilidade pela execução dos projetos decorrentes das transferências voluntárias é do Estado-membro, que se responsabiliza pelos atos de seus gestores, por aplicação da teoria do órgão.
+    Insistiu que cabe ao novo gestor comprovar, semestralmente, as ações adotadas para punir os maus gestores, o que não foi feito, e que o princípio da intranscendência das sanções apenas é aplicável quando se trata de pessoas jurídicas diversas.
+    Requereu a extinção do processo sem resolução do mérito e, subsidiariamente, a improcedência.
+    Houve réplica (fls. 567/571).
+    O feito foi saneado (fl. 579), as partes apresentaram razões finais (fls. 585/589 e 593), reiterando suas manifestações anteriores e, na sequência, a Procuradoria-Geral da República manifestou-se pela improcedência dos pedidos (fls. 596/605).
+    É o relatório. Decido.
+    Bem examinados os autos, rejeito as preliminares arguidas, porque embora bastante amplo, o pedido do Estado do Maranhão não é genérico, já que ele impugna todas as inscrições que foram feitas contra ele em cadastros desabonadores da União.
+    Da mesma forma, rejeito a alegação de inépcia da inicial por ausência de prova documental, haja vista que a documentação juntada permitiu o exercício da ampla defesa pela ré, que a exerceu com competência.
+    No mérito, o pedido inicial é improcedente, já que o autor não provou a adoção de medidas para responsabilização e ressarcimento contra os agentes causadores do dano, deixando de cumprir o disposto no art. 5°, § 3°, da IN STN 1/1997.
+    O autor se limitou a afirmar, na réplica, que a sua inércia não tem nenhuma relação com as inscrições desabonadoras, pois seu direito “independe da adoção de tais providências” (fl. 570).
+    O que se extrai dos autos é que o Estado do Maranhão possui inúmeras pendências com a União, tantas que nem chegou a discriminá-las na inicial e impugnar especificamente cada uma das inscrições, e que os atuais gestores vêm sendo omissos frente aos desvios que teriam competência para apurar.
+    Não há infração ao princípio da legalidade visto que as medidas tomadas pela União encontram fundamento no art. 25 da Lei de Responsabilidade Fiscal.
+    Não há ofensa ao devido processo legal, na medida em que a União comprovou, por meio de documentos juntados à contestação, seu empenho em buscar uma solução com o Estado, que pouco fez para elucidar os desvios apontados pela ré. Foi, portanto, o próprio Estado quem demonstrou seu desinteresse em esclarecer os fatos e exercer sua defesa.
+    Assim, perfeitamente legítima a atuação da ré na fiscalização da lisura dos recursos públicos. Transcrevo a manifestação da Procuradoria-Geral da República, que elucida com precisão a questão:
+    “Em relação à alegação de que o atos foram praticados por gestões anteriores, não consta dos autos o efetivo comprometimento do Estado do Maranhão em cooperar com o envio de informações aos órgãos de fiscalização da União nem a instauração da tomada de conta especial ou de ação judicial contra o ex-gestor; a desídia da atual gestão do Estado autor reforça a suspensão dos repasses de verbas provenientes de transferência voluntárias e da assinatura de novos convênios”.
+    Rejeito, por fim, a alegação de incidência da teoria da intranscendência das sanções, porque o caso dos autos não trata de recursos repassados a órgãos com autonomia constitucional. Não incide, por isso, a teoria da intranscendência, cuja ratio repousa no princípio constitucional da separação de poderes, tal como decidido por esta Suprema Corte na ADI 2.238/DF.
+    Isso posto, julgo improcedente o pedido inicial da ação principal e da ação cautelar, revogando a liminar anteriormente deferida. Condeno o Estado ao pagamento de honorários advocatícios, arbitrados em R$ 2.000,00 (dois mil reais), nos termos do art. 85, § 8º, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 18 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
