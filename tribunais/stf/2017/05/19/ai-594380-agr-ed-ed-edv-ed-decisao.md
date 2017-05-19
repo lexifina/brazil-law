@@ -1,0 +1,20 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão que negou seguimento a embargos de divergência em embargos de declaração em embargos de declaração em agravo regimental em agravo de instrumento, em razão da ausência de requisito essencial ao prosseguimento do recurso. (fls. 544-549)
+    Em suas razões, a parte embargante insiste na ausência de prestação jurisdicional, ao argumento de que a decisão embargada fundamentou-se em jurisprudência ultrapassada, a saber, as Súmulas 279 e 287 desta Corte. Sustenta assim a necessidade de esclarecimentos quanto à efetividade das referidas súmulas. (fls. 552.-565)
+    É o breve relatório.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do NCPC). No presente caso, não se verifica nenhuma dessas hipóteses.
+    Com efeito, os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, não vislumbradas no presente caso.
+    Nesse sentido, confira-se a jurisprudência dominante do Supremo Tribunal Federal: AI-AgR-ED 808.362, Ellen Gracie, Segunda Turma, DJe 24.2.2011; e AI-AgR-ED 674.130, Ricardo Lewandowski, Primeira Turma, DJe 22.2.2011.
+    No caso, os embargos de divergência foram inadmitidos por dois fundamentos: distinção entre o caso dos autos e as soluções adotadas por esta Corte, além do fato de o acórdão da Primeira Turma, ora embargado, estar de acordo com a jurisprudência do Plenário do Supremo Tribunal Federal.
+    Nesse sentido, reitero o consignado na decisão embargada, nos termos acima mencionados, especialmente no tocante à incidência das Súmulas 279 e 287 desta Corte, tendo em vista a efetiva prestação jurisdicional. Ademais, ressalto que a decisão objeto da divergência tratou de questão nos termos da jurisprudência do Supremo Tribunal Federal.
+    Assim, considerando a pacificação desta Corte, quanto ao tema tratado nestes autos, no mesmo sentido do acórdão recorrido, verifico a ausência de requisito essencial ao prosseguimento do recurso.
+    Com efeito, os embargos de divergência não objetivam julgar ou rever a decisão do órgão fracionário, mas, sim, uniformizar o entendimento da Corte a respeito do tema em discussão, evitando tratamento desigual a matérias similares, o que não é o caso dos autos. Isso porque este foi decidido segundo a contemporânea jurisprudência do Supremo Tribunal Federal no que diz respeito à inexistência de omissão no acórdão proferido pela Primeira Turma.
+    Nesse sentido, confira-se o seguinte julgado:
+    “Agravo regimental nos embargos de divergência nos embargos de declaração no agravo regimental no recurso extraordinário com agravo. Matéria criminal. Ausência de demonstração de divergência jurisprudencial que justificasse o recurso. Incidência da regra contida no art. 332 do Regimento Interno da Corte. Regimental não provido. 1. Não foi demonstrado o dissenso entre o que decidido e os acórdãos paradigmas trazidos pelo agravante. 2. O acórdão desencadeador dos embargos de divergência, no qual se negou provimento ao agravo regimental interposto, reafirmou a remansosa jurisprudência do Supremo Tribunal sobre a matéria. 3. Essa circunstância atrai a incidência da regra contida no art. 332 de Regimento Interno da Corte, segundo a qual ‘não cabem embargos[ ]se a jurisprudência do Plenário ou de ambas as Turmas estiver firmada no sentido da decisão embargada, salvo o disposto no art. 103’. 4. Agravo regimental ao qual se nega provimento”. (ARE 885.580 AgR-ED-EDv-AgR, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, DJe 28.4.2017
+    Nesses termos, inexiste omissão, contradição, obscuridade a serem sanadas na decisão ora impugnada.
+    Ante o exposto, rejeito os embargos de declaração e, tendo em vista seu caráter protelatório, imponho multa de 2% (dois por cento) sobre o valor atualizado da causa (art. 1.024, § 2º, c/c art. 1.025, § 2º, do CPC/2015).
+    Publique-se.
+    Brasília, 19 de maio de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
