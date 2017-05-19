@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – AUSÊNCIA DE PREQUESTIONAMENTO – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à improcedência do pedido de concessão de benefício previdenciário, tendo por não preenchidos os requisitos da legislação de regência. No extraordinário cujo processamento busca alcançar, a recorrente aponta a violação dos artigos 1º, inciso III, e 203 da Constituição Federal. Sustenta o direito à renda pleitada, afirmando comprovada a moléstia incapacitante para o trabalho.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão atacada mediante o extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    No caso, a autora foi submetida a diversas perícias. A primeira perícia (evento 28 - LAUDPERI1) atestou que a autora possui coxartrose secundária e bursite trocantérica à direita, com redução de amplitude do movimento do quadril direito. Na segunda (evento 110 - LAUDPERI1), a autora foi diagnosticada com síndrome do manguito rotador e coxartrose, estando incapaz temporariamente desde 09/04/2012. A última perícia constatou que a autora possui síndrome do manguito rotador e coxartrose primária bilateral, estando incapaz temporariamente desde 13/04/2012 (evento 129 – LAUDPERI1). Nota-se que o perito fixou a DII com base em exame de imagem.
+    A requerente iniciou suas contribuições ao RGPS em 01/05/2011, tendo contribuído até 30/06/2012. Retomando a contribuição entre 01/07/2012 até 30/09/2012, entre outras contribuições que sucederam. Verifica-se, que o período de carência, disposto no Art. 24 e 25 da Lei 8.213/91, não restou preenchido.
+    Destaca-se que há a qualidade de segurado. Entretanto, em toda a sua história de vinculação ao RGPS não tinha vertido 12 contribuições na DII.
+    Ora, somente pela análise das provas constantes do processo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário, quanto ao suposto desrespeito aos artigos 1º, inciso III, e 203 não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    De resto, o Tribunal, no recurso extraordinário com agravo nº 821.296/PE, da relatoria do ministro Roberto Barroso, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à verificação dos requisitos legais para a concessão de benefício previdenciário.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5% do valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. . Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 19 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
