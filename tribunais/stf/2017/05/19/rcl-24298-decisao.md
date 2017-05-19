@@ -1,0 +1,29 @@
+Trata-se de reclamação ajuizada por Sérgio Weslei da Cunha, advogado, em causa própria, contra atos do Superior Tribunal de Justiça - STJ, do Tribunal de Justiça do Estado de São Paulo - TJSP e do Juiz de Direito da 3ª Vara Criminal da Comarca de Presidente Venceslau, na qual alega o descumprimento de decisão deste Supremo Tribunal Federal - STF nos habeas corpus 80.315/SP, 80.192/SP, 77.637/SP, 73.532/SP, 69.929/SP e 77.613/SP e das Súmulas 718 e 719.
+    Consta dos autos que o paciente foi condenado à pena de 6 anos de reclusão, em regime fechado, pela prática do crime de associação criminosa, previsto no art. 288 do Código Penal.
+    O reclamante alega que foi “acusado sozinho (mas o crime é de concurso necessário) como incurso nas penas do artigo 288 do Código Penal, posteriormente condenado na forma qualificada (mesmo sem ter sido encontrada nenhuma arma em seu poder ou residência)”(pág. 2 do documento eletrônico 1).
+     Sustenta ser “primário, de bons antecedentes, sem nenhum apontamento desabonador na fase do artigo 59 do Código Penal por ocasião da dosimetria da pena”. Entretanto, informa que “foi-lhe negado o direito ao regime semiaberto, sob fundamentos abstratos e genéricos da gravidade do delito, sem análise da subjetividade dos agentes, como recomenda o princípio constitucional da individualização das penas” (pág. 2 do documento eletrônico 1).
+    Elenca, ainda, a ocorrência de 21 supostas nulidades que vão desde a falta de inquérito policial, até a existência de ato de ofício do TJSP que teria reformado a decisão de admissibilidade do recurso extraordinário (pág. 3 do documento eletrônico 1).
+    Requer, por fim, a determinação do regime semiaberto para o cumprimento inicial da pena ou a concessão de habeas corpus, de ofício, “para fixar o regime inicial semiaberto e autorizar a substituição da pena privativa de liberdade por penas restritivas de direitos” (pág. 7 do documento eletrônico 1).
+    Em 27/6/2016, a Ministra Cármen Lúcia negou seguimento à reclamação, mas converteu a ação em habeas corpus, de ofício, concedendo medida cautelar para “suspender a execução definitiva da pena imposta ao Reclamante na Ação Penal n. 0001975-88.2008.8.26.0483, até o julgamento definitivo deste processo, independente de eventual trânsito em julgado da condenação”.
+    Instado a manifestar-se, o Ministério Público Federal, em parecer da lavra do Procurador-Geral da República, Rodrigo Janot Monteiro de Barros, opinou “pela improcedência da reclamação, mas pela concessão da ordem de habeas corpus de ofício para que, em razão da superveniência de lei penal mais benéfica, o Juízo de origem proceda ao redimensionamento das penas” (pág. 4 do documento eletrônico 4).
+    É o relatório. Decido.
+    Inicialmente, destaco que a reclamação perante o Supremo Tribunal Federal será sempre cabível para: (i) preservar a competência do Tribunal; (ii) garantir a autoridade de suas decisões; e (iii) garantir a observância de enunciado de Súmula Vinculante e de decisão desta Corte em controle concentrado de constitucionalidade, nos termos do art. 988 do Código de Processo Civil de 2015.
+    Porém, verifico não ser cabível a presente reclamação.
+    Isso porque, conforme entendimento dessa Corte, enunciados sumulares do STF sem efeito vinculante e decisões desprovidas de eficácia vinculante e efeito erga omnes não constituem fundamento jurídico para a proposição do instrumento constitucional da reclamação. (Rcl 6.165-MC/SP, Rel. Min. Celso de Mello; Rcl 16.097/PB, Rel. Min. Celso de Mello; Rcl 13.610/SP, Rel. Min. Rosa Weber; Rcl 14.638- AgR, Rel. Min. Dias Toffoli; Rcl 13.731- AgR, Rel. Min. Luiz Fux).
+    Entretanto, a jurisprudência deste Supremo Tribunal Federal admite a concessão de habeas corpus de ofício para alterar o regime inicial de cumprimento de pena, quando estiver diante de comprovada ilegalidade ou teratologia (Rcl 17.573, de minha relatoria).
+    Ademais, como bem ressaltado na decisão liminar e no parecer da Procuradoria-Geral da República, ocorreu alteração legislativa no tocante à majorante do emprego de arma pela associação criminosa, reduzindo-a significativamente.
+    Ocorre que na data da condenação, o parágrafo único do art. 288 previa a aplicação da pena em dobro, no caso de associação criminosa armada, sendo esta a redação vigente à data da condenação. Vejamos:
+    “Art. 288 - Associarem-se mais de três pessoas, em quadrilha ou bando, para o fim de cometer crimes:
+    Pena - reclusão, de um a três anos.
+    Parágrafo único - A pena aplica-se em dobro, se a quadrilha ou bando é armado” (grifei).
+    Porém, a Lei 12.850/2013 alterou o referido dispositivo para limitar o aumento da pena em sua metade, litteris:
+    “Art. 288. Associarem-se 3 (três) ou mais pessoas, para o fim específico de cometer crimes:
+    Pena - reclusão, de 1 (um) a 3 (três) anos.
+    Parágrafo único. A pena aumenta-se até a metade se a associação é armada ou se houver a participação de criança ou adolescente” (grifei).
+    Essa reformatio in mellius, ocasionada pela superveniência de norma mais benéfica, tem o condão de provocar a revisão da sanção imputada ao paciente. Pois a Constituição Federal de 1988 admite a retroatividade da lei penal em favor do réu (art. 5°, XL), podendo e devendo ser concedida a revisão criminal, de ofício, conforme prevê o art. 5°, LXVIII, da CF/1988.
+    Isso posto, nego seguimento à presente reclamação (art. 21, § 1°, do RISTF), mas concedo a ordem de habeas corpus, de ofício, para determinar que o Juízo da Execução Penal refaça a dosimetria da pena, adotando a atual redação do parágrafo único do art. 288 do Código Penal e, após determinar o novo quantum poena, e considerando eventual período já cumprido pelo paciente, fixe o regime de cumprimento, em decisão fundamentada.
+    Comuniquem-se aos reclamados.
+    Publique-se.
+    Brasília, 19 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
