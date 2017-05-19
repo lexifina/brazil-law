@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – AUSÊNCIA DE PREQUESTIONAMENTO – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado da Bahia concedeu a segurança para determinar a nomeação de candidata aprovadas em concurso público. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 2º, 5º e 37, incisos I, II e IV, da Constituição Federal. Discorre sobre a inexistência do direito à nomeação porquanto já expirado o concurso e ante à inocorrência de preterição. Diz contrariados os princípios da separação dos Poderes e do concurso público.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Com efeito, no presente caso verifica-se que, inicialmente, os Impetrados não realizaram a nomeação dos candidatos aprovados dentro do número de vagas ofertadas no Edital de Abertura de Inscrições SAEB/03/2005, o que gerou a impetração do Mandado de Segurança nº 000152675.2009.805.0000-0, em razão do qual foi convocada a candidata Cláudia Portugal Petersen (primeira colocada), a qual restou excluída do certame por não se apresentar para entrega da documentação.
+    Restou comprovado que esta candidata, classificada em primeiro lugar, não atendeu à convocação, no entanto a sua exclusão do certame somente foi oficializada pela Portaria Conjunta SAEB/SEC nº 002, de 24 de fevereiro de 2011, conforme documento de fl.49.
+    Por esta razão, ainda que tenha o concurso expirado seu prazo de validade em 09.05.2010, não poderá a Administração Pública deixar de convocar a Impetrante, porquanto a exclusão de candidata melhor colocada ocorreu somente em 24 de fevereiro de 2011, quando o prazo de validade do certame já se encontrava expirado.
+    Com efeito, a Impetrante prestou concurso público para o cargo de Professora de Espanhol, obtendo a 3ª colocação, tendo sido oferecidas no edital duas vagas, fl. 37, e o Superior Tribunal de Justiça já consolidou jurisprudência no sentido de que a desclassificação de candidatos em concurso público em razão do não preenchimento de determinados requisitos, gera para os seguintes na ordem de classificação direito subjetivo à nomeação observada a quantidade das novas vagas disponibilizadas.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 19 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
