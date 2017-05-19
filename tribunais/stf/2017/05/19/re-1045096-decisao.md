@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a União. Aparelhado o recurso na afronta aos arts. 5º, XXXIV, XXXV, LIV, e LV, 93, IX, 109 e 114 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não prospera a insurgência pelo prisma dos incisos XXXV, XXXVI, LIV e LV do art. 5º da Carta Política, consagradores dos princípios da inafastabilidade da prestação jurisdicional, da proteção ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, bem como ao devido processo legal, ao contraditório e à ampla defesa, uma vez que o Plenário Virtual desta Suprema Corte negou a existência de repercussão geral da questão no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.8.2013, e do RE 956.302-RG, Rel. Min. Edson Fachin, DJe 16.6.2016, assim ementados:
+    "Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    “PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.”
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. ALEGAÇÃO DE OFENSA AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA OU AOS PRINCÍPIOS DA LEGALIDADE, DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. REPERCUSSÃO GERAL REJEITADA. ARE 748.371-RG (REL. MIN. GILMAR MENDES, TEMA 660). ADIANTAMENTO PECUNIÁRIO CONCEDIDO AOS SERVIDORES PÚBLICOS. POSTERIOR INCORPORAÇÃO AOS VENCIMENTOS NOS TERMOS DA LEI 8.460/1992. EXAME DE FATOS E DE DIREITO INFRACONSTITUCIONAL. SÚMULA 279 DO STF. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”(RE 888.772-AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 06.9.2016)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de maio de 2017.
+Ministra Rosa Weber
+Relatora
