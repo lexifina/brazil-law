@@ -1,0 +1,36 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido ao Tribunal Regional Federal da 2ª Região para que cumprisse o disposto no art. 543-B do CPC/1973, uma vez que a controvérsia suscitada no recurso estaria representada no tema 93 da sistemática da repercussão geral, cujo paradigma é o RE-RG 585.702, Rel. Min. Marco Aurélio (eDOC 1).
+    Ao receber os autos, o Tribunal a quo não exerceu o juízo de retratação ao fundamento de que o acórdão recorrido não confrontava o decidido pelo STF no recurso-paradigma indicado. Confira-se a ementa:
+    “ADMINISTRATIVO. NOVO JULGAMENTO EM OBSERVÂNCIA AO DISPOSTO NO ART. 543-B, § 3º, DO CPC. VEÍCULO APREENDIDO. LIBERAÇÃO CONDICIONADA AO PAGAMENTO DE MULTA E DESPESAS DE TRANSBORDO. ILEGALIDADE. DECRETO Nº 2.521/98. LEI Nº 8.987/95.
+    I – Esta Relatoria não desconhece o teor do art. 97 da Constituição Federal e da Súmula Vinculante 10, sendo, portanto, necessário esclarecer que o quanto decidido em sede de julgamento monocrático, posteriormente confirmado por esta E. Sétima Turma Especializada na apreciação do Agravo Interno e dos Embargos de Declaração, não contraria o seu conteúdo, e nem tampouco se bate contra o julgado no RE nº 585.7012, paradigma para o caso vertente.
+    II – O que a decisão de fls. 181/185 pretendeu demonstrar foi a ilegalidade do disposto no art. 85, § 3º do Decreto nº 2.521/98, que, ao condicionar a liberação de veículo apreendido ao pagamento de multa e demais despesas, transbordou os limites da lei objeto de sua regulamentação (Lei nº 8.987/95), que nada menciona a respeito do tema.
+    III – O Poder Executivo, ao estabelecer a condicionante debatida, o fez sem qualquer amparo legal para tanto, extrapolando, dessa forma, os limites da sua atuação, motivo este que leva a concluir pela ilegalidade do art. 85, § 3º do Decreto nº 2.521/98.
+    IV – Questões análogas à presente não ficaram alheias à apreciação do E. Supremo Tribunal Federal, que cristalizou o seu entendimento nas Súmulas nºs 70 e 323.
+    V – Precedentes citados.
+    VI – Apenas a título de esclarecimento, que o art. 85, § 3º do Decreto nº 2.521/98 foi revogado pelo Decreto nº 8.083/2013, o que só vem a corroborar o entendimento perfilhado por este E. Órgão Julgador.
+    VII – Há que ser confirmado o posicionamento já firmado pela ilegalidade do art. 85, § 3º do Decreto nº 2.521/98, que, ao condicionar a liberação de veículo ao pagamento de multa e demais despesas, extrapolou os limites da lei que lhe dá fundamento.
+    VIII – Juízo de retratação não exercido”. (eDOC 47)
+    Diante da ausência de retratação e por entender presentes os requisitos de admissibilidade do recurso extraordinário, a Vice-Presidência do TRF da 2ª Região remeteu novamente os autos a esta Corte.
+    Após detida análise dos autos, verifico que o assunto, do modo como é trazido nas razões do recurso extraordinário, é diverso do que abordado pelo tema 93 da sistemática da repercussão geral, motivo pelo qual torno sem efeito a vinculação constante do eDOC 1 e passo ao julgamento do recurso.
+    Cuida-se de recurso que impugna acórdão do Tribunal Regional Federal da 2ª Região ementado nos seguintes termos:
+    “PROCESSUAL CIVIL. AGRAVO INTERNO. APREENSÃO DE VEÍCULO.
+    I – A possibilidade de apreensão de veículo encontra respaldo somente em simples Decreto, o qual não tem o condão de impor obrigações consoante ditame do art. 5º, II, da CRFB.
+    II – No que pertine, por sua vez à multa aplicada ao Impetrante, entende-se pela incensurabilidade da mesma. E isto porque a não declaração de qualquer passageiro, na lista respectiva, constitui a infração prevista no art. 85 do Decreto n. 2.521/98.
+    III – Agravo interno improvido”. (eDOC 24, p. 9)
+    Nas razões do recurso extraordinário, sustenta-se, em síntese, violação ao art. 97 da Constituição e ao conteúdo da Súmula Vinculante 10, deste Tribunal, sob o fundamento de que o Tribunal origem ofendeu a cláusula da reserva de plenário ao afastar a aplicação do Decreto 2.521/98, sem declarar a sua inconstitucionalidade.
+    Decido.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 8.987/95), consignou a ilegalidade do art. 85, § 3º, do Decreto 2.521/98 por extrapolar os limites da lei regulamentada. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A apreensão do referido veículo efetuou-se com base no Decreto n. 2.521/98, que determina que a liberação do veículo apreendido far-se-á após comprovação do pagamento de multas e despesas”. (eDOC 24, p. 5)
+    No mesmo sentido, cito trecho do acórdão que negou o juízo de retratação:
+    “Na verdade, o que a decisão de fls. 181/185 pretendeu demonstrar foi a ilegalidade do disposto no art. 85, § 3º do Decreto nº 2.521/98, que, ao condicionar a liberação de veículo apreendido ao pagamento de multa e demais despesas, transbordou os limites da lei objeto de sua regulamentação (Lei nº 8.987/95), que nada menciona a respeito do tema.
+    (…)
+    Verifica-se, portanto, que o Poder Executivo, ao estabelecer a condicionante debatida, o fez sem qualquer amparo legal para tanto, extrapolando, dessa forma, os limites da sua atenção, motivo este que leva a concluir pela ilegalidade do art. 85, § 3º do Decreto nº 2.521/98”. (eDOC 47, p. 3-4)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesse sentido:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SAT/RAT. ADMINISTRAÇÃO PÚBLICA EM GERAL. ENQUADRAMENTO NO GRAU DE PERICULOSIDADE MÉDIO. ALÍQUOTA DE 2% (DOIS POR CENTO). ANEXO V DO DECRETO 6.042/2007. SUPOSTA CONTRARIEDADE AO DISPOSTO NO ARTIGO 22, II, § 3º, DA LEI 8.212/1991. CONTROVÉRSIA A RESPEITO DA HARMONIA DE DECRETO EXECUTIVO EM FACE DA LEI QUE LHE DÁ FUNDAMENTO DE VALIDADE. CRISE DE LEGALIDADE. QUESTÃO INFRACONSTITUCIONAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/2015. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO”. (RE 798.473-AgR, Rel. Min. Luiz Fux, Primeira Turma, Dje 13.12.2016) - grifei
+    “RECURSOS EXTRAORDINÁRIOS – ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA – EQUIPARAÇÃO, PARA TODOS OS EFEITOS LEGAIS, DOS SERVIÇOS DE TELECOMUNICAÇÃO À INDÚSTRIA BÁSICA – AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO – CONTENCIOSO DE MERA LEGALIDADE – NECESSÁRIO CONFRONTO ENTRE O DECRETO Nº 640/62 E A LEI COMPLEMENTAR Nº 87/96 – INVIABILIDADE DOS RECURSOS EXTRAORDINÁRIOS – AMBOS OS AGRAVOS IMPROVIDOS”. (RE 795.149-AgR-segundo, Rel. Min. Celso de Mello, Segunda Turma, Dje 3.12.2015)
+    Além dos precedentes citados, confiram-se, também, os seguintes julgados: RE 936.557-AgR, Rel. Min. Roberto Barroso, Primeira Turma, Dje 19.12.2016; ARE 904.929-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, Dje 3.11.2015; AI 834.010-AgR-ED, Rel. Min. Dias Toffoli, Primeira Turma, Dje 13.2.2015.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de maio de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
