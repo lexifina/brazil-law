@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de recurso extraordinário interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “ADMINISTRATIVO. AÇÃO POPULAR. CABIMENTO. CEBAS. MP Nº 466/2008. HONORÁRIOS ADVOCATÍCIOS.
+    1. Cabe à Administração Pública e não ao Judiciário verificar o efetivo cumprimento dos requisitos para obtenção do CEBAS, sob pena de trazer para o Poder Judiciário esta análise.
+    2. Os requisitos de relevância e urgência para edição de medida provisória são de apreciação discricionária do Chefe do Poder Executivo, não cabendo, salvo os casos de excesso de poder, seu exame pelo Poder Judiciário.
+    3. As relações jurídicas estabelecidas sob a vigência da MP nº 446/08 permanecem por ela regidas, sendo certo que a renovação automática do certificado de entidade beneficente de assistência social não tem o condão de eximir a entidade beneficiária de implementar os demais requisitos legais para fruição da imunidade prevista no artigo 195, § 7º, da Constituição Federal.
+    4. Não restando comprovado nos autos a má-fé do autor, fica o mesmo isento das custas judiciais e honorários advocatícios, nos termos do que determina o artigo 5º, inciso LXXIII, da Constituição Federal.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal Regional Federal da 4ª Região, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático- -probatórios:
+    “Outrossim, destaco que o autor não demonstrou que a ré não preenche os pressupostos legais para a fruição dos benefícios decorrentes da condição de entidade beneficente, postulando apenas a anulação da Resolução nº 3, de 23/01/09 do CNAS. Registro, que nada obsta que o ato administrativo de concessão do certificado seja impugnado em procedimento próprio, caso entenda não preenchidos os requisitos previstos na legislação de regência.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impende assinalar, ainda, no tocante à alegada violação ao art. 62, §§ 3º e 11, da Constituição da República, que o Plenário desta Suprema Corte, ao julgar a ADI 2.150/DF, Rel. Min. ILMAR GALVÃO, fixou entendimento que torna inacolhível a pretensão de direito material deduzida pela parte ora recorrente:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTS. 11 E 18 DA MEDIDA PROVISÓRIA N.º 1.925-5, SUCESSIVAMENTE REEDITADA ATÉ O ADVENTO DA EMENDA CONSTITUCIONAL N.º 32/2001. ALEGADA VIOLAÇÃO AOS ARTS. 5.º, ‘CAPUT’; 37, ‘CAPUT’, E 62, TODOS DA CONSTITUIÇÃO FEDERAL.
+    Os dispositivos em referência, ao atribuírem aos órgãos de trânsito o registro de ônus reais sobre veículos automotivos de qualquer espécie, não ofendem as normas constitucionais indicadas.
+    Os requisitos de relevância e urgência para edição de medida provisória são de apreciação discricionária do Chefe do Poder Executivo, não cabendo, salvo os casos de excesso de poder, seu exame pelo Poder Judiciário. Entendimento assentado na jurisprudência do STF.
+    Ação julgada improcedente.” (grifei)
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, e considerando, ainda, a existência de precedente específico sobre a matéria em análise (RE 968.449/RS, Rel. Min. MARCO AURÉLIO), nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 19 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
