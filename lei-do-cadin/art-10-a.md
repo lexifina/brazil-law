@@ -10,3 +10,4 @@ IV - 84ª prestação: saldo devedor remanescente.
 § 5º O empresário ou a sociedade empresária poderá ter apenas um parcelamento de que trata o caput, cujos débitos constituídos, inscritos ou não em Dívida Ativa da União, poderão ser incluídos até a data do pedido de parcelamento.
 § 6º A concessão do parcelamento não implica a liberação dos bens e direitos do devedor ou de seus responsáveis que tenham sido constituídos em garantia dos respectivos créditos.
 § 7º O parcelamento referido no caput observará as demais condições previstas nesta Lei, ressalvado o disposto no § 1º do art. 11, no inciso II do § 1º do art. 12, nos incisos I, II e VIII do art. 14 e no § 2º do art. 14-A.
+§ 8º O disposto neste artigo se aplica, no que couber, aos créditos de qualquer natureza das autarquias e fundações públicas federais.
