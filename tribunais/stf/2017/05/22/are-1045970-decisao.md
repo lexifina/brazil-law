@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “PROCESSO CIVIL. APELAÇÃO CÍVEL. INTERDITO PROIBITÓRIO. AUSÊNCIA DE POSSE. CARÊNCIA DE AÇÃO. INTERESSE DE AGIR. INADEQUAÇÃO DA VIA ELEITA. 1. No seio do interdito proibitório, a inexistência de posse acarreta a carência de ação, por ausência de interesse de agir, na modalidade inadequação da via eleita. 2. As ações possessórias não constituem o meio adequado para combater atos administrativos inerentes à proteção das áreas públicas, como embargo e demolição de construções irregularmente erigidas. 3. Recurso desprovido”. (eDOC 8, p. 4)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, XXII, do texto constitucional.
+    Nas razões recursais, alega-se que reconhecer o direito de propriedade da parte, mas não o amparar por considerações processuais, viola a norma constitucional. (eDOC 8, p. 61)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o Código de Processo Civil, legislação infraconstitucional aplicável à espécie, e o conjunto probatório constante dos autos, consignou que o recorrente não dispõe de posse a ser protegida por interdito proibitório. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O artigo 932 do Código de Processo Civil estabelece que o possuidor, sob justo receio de ser molestado em sua posse, pode, fundamentadamente, postular ao juiz que, por meio de mandado proibitório, o segure de iminente turbação ou esbulho.
+    Pois bem, a ameaça é corrigida por meio da ação de interdito proibitório, desde que tenha o requerente a posse da coisa.
+    Na hipótese, embora o apelante defenda insistentemente a existência de contrato de concessão de direito real de uso da área, único argumento para amparar a vindicada proteção possessória, certo é que tal pacto já foi objeto de rescisão por força de édito sentencial que, neste particular, já passou em julgado.
+    Importa considerar, assim, que falece ao autor o interesse de agir, porquanto seu objetivo é combater atos praticados pela Administração Pública, matéria que, a toda evidência, não se enquadra nas ações possessórias. (eDOC 8, p. 10)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Reclamação dirigida para o Superior Tribunal de Justiça. Cabimento. Pressupostos. Verificação. Impossibilidade. Ação possessória. Suspensão da execução provisória. Poder geral de cautela. Princípio do juiz natural. Violação. Análise da legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. O entendimento da Corte é o de que a verificação dos pressupostos autorizadores da reclamação dirigida ao Superior Tribunal de Justiça é matéria de índole eminentemente processual, para cujo exame não se presta o recurso extraordinário. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido. 4. 3. Inaplicável o art. 85, § 11, do CPC, pois não houve prévia fixação de honorários advocatícios na causa”. (ARE 951215 AgR, rel. Min. Dias Toffoli, Segunda Turma, DJe 5.10.2016)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. Posse. Embargos de terceiro. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Impossibilidade do reexame do conjunto fático-probatório dos autos. Enunciado 279 da Súmula do STF. 5. Matéria restrita ao âmbito da legislação infraconstitucional. 6. Agravo regimental a que se nega provimento”. (ARE 823063 AgR, de minha relatoria, Segunda Turma, DJe 5.9.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de maio de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
