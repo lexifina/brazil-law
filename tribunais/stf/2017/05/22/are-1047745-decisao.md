@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado da Paraíba confirmou o entendimento do Juízo quanto à improcedência do pedido de adicional de insalubridade por servidor ocupante do cargo de agente comunitário de saúde, tendo em vista inexistir previsão em lei local. No extraordinário, cujo processamento busca alcançar, o recorrente aponta violados os artigos 7º, inciso XXIII, e 37, cabeça, da Constituição Federal. Sustenta o direito à verba pleiteada, aludindo à Lei Orgânica do Município de Cajazeiras.
+    2. Colho da decisão recorrida o seguinte trecho:
+    A magistrada de primeiro grau julgou improcedente o pedido, extinguindo o processo sem julgamento do mérito, sob o fundamento de que “não obstante a gratificação seja prevista na regra geral do Estatuto do Servidor Público Municipal – Lei nº 1.041/93, não existe lei municipal que regulamente especificamente esse direito, no que tange aos agentes comunitários de saúde , o que é imprescindível para a concessão do referido adicional, em face do princípio da legalidade, previsto no art. 37 da CF/88, tanto é que o promovente pugna em sua inicial pela aplicação analógica da legislação federal e NR 15”.
+    Com efeito, no tocante ao Adicional de Insalubridade, é de se registrar que o Tribunal de Justiça da Paraíba já sumulou a questão, através do Incidente de Uniformização de Jurisprudência nº 2000622-03.2013.815.0000, nos seguintes termos: “O pagamento do adicional de insalubridade aos agentes comunitários de saúde submetidos ao vínculo jurídico-administrativo, depende de lei regulamentadora do ente ao qual pertencer”.
+    Nesse contexto, os agentes comunitários de saúde somente farão jus ao adicional de insalubridade se lei regulamentadora do ente ao qual pertencer o servidor assim prever, o que não ocorre na hipótese do Município de Cajazeiras, pelo que não é devida a concessão de tal verba com base em Norma Regulamentadora do Ministério do Trabalho.
+    Na espécie, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 22 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
