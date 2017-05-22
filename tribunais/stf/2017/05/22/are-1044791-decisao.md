@@ -1,0 +1,21 @@
+Decisão
+    Vistos.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da 4ª Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO - APELAÇÃO CÍVEL E REEXAME NECESSÁRIO - MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - SERVIDORA QUE PRETENDE OCUPAR DOIS CARGOS DE ENFERMEIRA - CARGA SEMANAL DE 76 (SETENTA E SEIS) HORAS - INCOMPATIBILIDADE DE HORÁRIOS - EXEGESE DO ARTIGO 37, INCISO XVI DA CONSTITUIÇÃO FEDERAL - DESNECESSIDADE DE PREVISÃO EXPRESSA EM EDITAL ACERCA DA COMPATIBILIDADE DE HORÁRIOS - PRECEDENTES - SENTENÇA REFORMADA.
+    RECURSO DE APELAÇÃO PROVIDO.
+    SENTENÇA REFORMADA EM SEDE DE REEXAME NECESSÁRIO.”
+    Alega-se, no apelo extremo, violação dos artigos 5º, inciso II, e 37, inciso XVI, alínea ‘c’, da Constituição Federal.
+    Decido.
+    Não merece trânsito a alegada violação do artigo 5º, inciso II, da Constituição, uma vez que a afronta ao referido dispositivo constitucional seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em sede de recurso extraordinário, conforme previsto na Súmula nº 636 desta Corte, que assim dispõe, in verbis:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ademais, para ultrapassar o entendimento do Tribunal de origem de que não há compatibilidade de horários dos cargos ocupados pela autora, ora recorrente, demandaria, induvidosamente, o revolvimento do conjunto fático-probatório dos autos, procedimento vedado em sede extraordinária. Incidência, na espécie, da Súmula nº 279/STF. Sobre o tema:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CUMULAÇÃO DE CARGOS OCORRIDA EM 1990. PROFISSIONAL DA SAÚDE. ART. 17, § 2º, DO ADCT E ART. 37, XVI, C, DA CONSTITUIÇÃO. IMPOSSIBILIDADE. VERIFICAÇÃO DE COMPATIBILIDADE DE HORÁRIOS. EXAME DE MATÉRIA FÁTICA. SÚMULA 279. AGRAVO IMPROVIDO. I – A regra prevista no art. 17, § 2º, do ADCT assegura a acumulação de dois cargos privativos de profissionais de saúde àqueles que, à época da promulgação da Carta de 1988, estavam exercendo os cargos. II – A redação original do art. 37, XVI, c, da Constituição autorizava apenas a acumulação de dois cargos privativos de médico, não abrangendo os cargos privativos de profissionais de saúde contemplados posteriormente pela Emenda Constitucional 34/2001. III – A verificação da compatibilidade de horários dos cargos exercidos pelo agravante demandaria o reexame do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário, nos termos da Súmula 279 desta Corte. IV – Agravo regimental improvido” (RE nº 570.213/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 26/5/11).
+    ”Agravo regimental no agravo de instrumento. Servidor público estadual. Acumulação de cargos. Compatibilidade de horários. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. A verificação da compatibilidade de horários em relação aos cargos exercidos pelo ora agravado demandaria a análise da legislação local, bem como dos fatos e das provas dos autos, o que encontra óbice nas Súmulas ns. 280 e 279/STF. 2. Agravo regimental não provido” (AI nº 730.343-AgR, Primeira Turma, de minha relatoria, DJe de 14/12/12).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS: PROFISSIONAIS DE SAÚDE. COMPATIBILIDADE DE HORÁRIOS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO” (ARE nº 748.734/RJ, Relatora a Ministra Cármen Lúcia, DJe de 22/8/13).
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 22 de maio de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
