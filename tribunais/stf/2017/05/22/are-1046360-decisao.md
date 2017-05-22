@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “Ação Anulatória de Débito Fiscal cumulada com indenização por danos morais - Cobrança indevida de crédito de IPTU pela municipalidade efetuada em face de homônimo - Não comprovação do fato constitutivo do direito do autor - Mero aborrecimento cotidiano - Infortúnio que não caracteriza dano reparável – Recurso provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, III, e 37, §6º, da Carta. A parte recorrente sustenta ter sofrido danos morais em razão da conduta do Estado de São Paulo. Aduz que “pelo erro do Município, o Recorrente permaneceu por 22 dias desprovido de quaisquer ativos financeiros, não tendo dinheiro para pagar suas contas ou sequer para sobreviver”, e que uma situação tão grave e onerosa ao cidadão não pode ser tratada como mero aborrecimento.
+    A pretensão recursal não merece prosperar. De início, verifico que a alegada ofensa ao art. 1º da Constituição não foi apreciada pelo acórdão impugnado. Tampouco os embargos de declaração opostos cuidaram da referida matéria. Portanto, nesse ponto o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Quanto à suposta violação ao art. 37, §6º, da Carta, incide a vedação da Súmula 279/STF. Com efeito, o voto condutor do acórdão recorrido restou fundamentado nos seguintes termos:
+    “Inicialmente, cumpre esclarecer que, a despeito da ação proposta por WALTER FABRI tratar do reconhecimento da inexistência de débito de IPTU, bem como da condenação da Municipalidade de São Paulo ao pagamento de indenização, a título de danos morais, a matéria devolvida cinge-se, tão somente, à questão do cabimento, ou não, da referida reparação, pelos danos morais eventualmente sofridos pelo contribuinte, já que, a Municipalidade, em sede de contestação (fls. 44/45 v°), a reconheceu a inexistência do débito fiscal, tornando incontroversa a questão.
+    (…)
+    Com efeito, não houve prova nos autos de qualquer apontamento de CPF do apelado em órgãos de proteção ao crédito ou mesmo no CADIN municipal. Igualmente não lhe foi restringida a obtenção de certidão negativa de débitos e tampouco há provas de que foi efetuado bloqueio de ativos financeiros por meio do sistema Bacenjud, situações que agravariam o lapso.
+    Ademais, o autor deixou de comprovar o eminente dano sofrido ou qualquer prejuizo ou constrangimento de cunho moral. Ele não demonstrou os fatos constitutivos do seu direito, na forma da regra de julgamento do ônus da prova (Código de Processo Civil, art. 333, inc. I). Não é possível atribuir sucesso a ele com base apenas em sua palavra, em mesmo em sua versão ou suspeita, como se estas, por si só, bastassem à aceitação do seu pedido. Ora, como é cediço, alegar e não provar, em Juízo, é a mesma coisa que nada alegar. Eventual êxito da pretensão recursal só poderia estar calcado em conjecturas ou em meras suposições, o que, à evidência, soaria aberrante e totalmente inadmissível”
+    Nesses termos, para dissentir das conclusões do Tribunal de origem, seria necessário o reexame do conjunto fático e probatório, providência vedada em sede de recurso excepcional.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 22 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
