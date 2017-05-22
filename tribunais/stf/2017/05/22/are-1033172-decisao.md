@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Turma Recursal do Tribunal de Justiça do Estado de Rondônia que manteve a sentença a qual concedeu a implementação de adicional de periculosidade, calculado em 30% (trinta por cento) sobre os vencimentos da recorrida (eDOC 3, p. 6 e 71).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 5º, II; 37, caput e X; 39, § 4º; 144, § 9º; 167; e 169, § 1º, I e II, da Constituição Federal, bem como o art. 17 do ADCT.
+    Nas razões recursais, sustenta-se, em suma, que “O art. 11 da Lei 1041/2002 incorporou, expressamente, todas as vantagens que eram pagas aos servidores da Polícia Civil, que passariam a ser remunerados pelo sistema constitucional da parcela única (subsídio)” (eDOC 3, p. 81).
+    Alega-se, ainda, que “Além de as gratificações e adicionais terem sido incorporados ao SUBSÍDIO dos policiais civis, cabe registrar que com o advento da EC 19/98 o pagamento do adicional de insalubridade e do adicional de periculosidade passou a ser incompatível com o regime do subsídio, até porque fora expressamente retirado pela Constituição Federal.” (eDOC 3, p. 81)
+    A Presidência da Turma Recursal do TJ/RO inadmitiu o recurso com pela ausência de repercussão geral do tema em debate e porque a discussão demandaria reanálise de normas infraconstitucionais (eDOC 3, p. 100).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Quando do julgamento do recurso inominado, a Turma Recursal do TJ/RO asseverou (eDOC 3, p. 6):
+    “No tocante ao adicional de periculosidade, verifica-se que o laudo pericial constante nos autos, elaborado em janeiro de 2009, fora subscrito por médico do trabalho, ocasião na qual foram identificas condições de trabalho insalubres e perigosas, em grau máximo, no ambiente de trabalho e no tipo de atividade desenvolvida pela parte recorrente. O Estado de Rondônia já reconheceu administrativamente, conforme se verifica pelas fichas funcionais de diversos servidores da polícia civil em casos análogos, o direito ao percebimento do adicional de insalubridade.
+    Apesar dos argumentos utilizados para descaracterizar o laudo, o Estado de Rondônia não apresentou outro documento técnico acompanhado de conclusão diversa, tampouco elementos probatórios mínimos hábeis a descaracterizar aquele apresentado pelo servidor (art. 333, II, CPC). O maior beneficiado com a realização da perícia é o próprio ente público, primeiramente porque deve a Fazenda zelar pela saúde e segurança de seus servidores e, em um momento posterior, para evitar que adicionais sejam pagos de forma indevida.
+    A Lei n.° 2165/2009 dispõe em seu Art. 1o, §2°, II e § 3º:
+    Art. 1º. A concessão do adicional de insalubridade, periculosidade e de atividade penosa aos servidores públicos da administração direta, das autarquias e das fundações públicas do Estado passa a ser aplicada mediante a presente Lei.
+    (...)
+    §2°. Os adicionais de que trata o caput deste artigo serão fixados nos percentuais e nas formas a seguir:
+    II. Periculosidade: deverá ser calculada com índice de 30% (trinta por cento).
+    § 3o. A insalubridade terá como base de cálculo o valor correspondente a R$ 500,00 tendo como indexador o percentual correspondente ao aumento geral do servidor público e/ou outros índices adotados pela Administração Pública; a periculosidade e a penosidade terão como base de cálculo o valor correspondente ao vencimento básico do servidor público beneficiado.
+    Devido, portanto, o pagamento do adicional de periculosidade com alíquota de 30% sobre o vencimento + vencimento DJ.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, e o exame da legislação local aplicável à espécie (Lei Estadual 2.165/2009), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+     “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor público. Adicional de insalubridade e periculosidade. 3. Alegação de violação ao princípio da legalidade. Infraconstitucional. Súmula 636. 4. Lei estadual n. 528/2009. Legislação local. Súmula 280. 5. Necessidade de reexame fático-probatório. Súmula 279. 6. Agravo regimental a que se nega provimento.” (ARE nº 815.479/RO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe 3/9/14).
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. LEGISLAÇÃO INFRACONSTITUCIONAL ESTADUAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE nº 873.749/RS-AgR-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 24/8/15).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 22 de maio de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
