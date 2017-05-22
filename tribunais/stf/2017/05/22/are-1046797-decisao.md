@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região, do qual se extrai da ementa o seguinte trecho:
+    “PENAL. PROCESSO PENAL. ART. 22, PARÁGRAFO ÚNICO DA LEI 7.492/86. EVASÃO DE DIVISAS. ABSOLVIÇÃO DE UM DOS RÉUS. ERRO DE TIPO ARGUIDO PELO CORRÉU NÃO CONFIGURADO. DOLO DO CORRÉU COMPROVADO. DOSIMETRIA DA PENA ACERTADA. ARREPENDIMENTO POSTERIOR NÃO CONFIGURADO.
+    […].”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, XXXIX, da Constituição. Sustenta que: (i) o acórdão recorrido “confirmou condenação do recorrente, por crime sem lei anterior que o defina”; (ii) “não há lei que defina a conduta de manter investimentos no exterior sem declarar à autoridade federal competente”.
+    O recurso é inadmissível, tendo em vista que a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se o seguinte trecho do voto condutor do acórdão recorrido:
+    “[...]
+    No que diz respeito ao erro de tipo e ausência de dolo por parte dos acusados, refuto-os de pronto, eis que, pelo conjunto fático-probatório dos autos, verifica-se que os réus têm formação em Administração de Empresas e Economia, além de FERNANDO BUARQUE ter trabalhado no mercado de ações e sua esposa, ELVIRA BUARQUE, ter administrado os alugueis de seus apartamentos.
+    Não é crível que pessoas com este grau de conhecimento ignorem a obrigatoriedade jurídica de declarar ao Fisco o montante considerável que possuem em depósito no exterior, tampouco de que não sabiam da existência da conta bancária em Nova York, eis que os trâmites do negócio exigem o requerimento do titular, com a devida assinatura.
+    Se há elementos que comprovam a ciência dos Apelantes sobre valores existentes na conta bancária mantida fora do território nacional, a quem incumbia declará-los à Receita Federal como rendimentos tributáveis, não há como afastar sua autoria pela prática do crime descrito no parágrafo único do art. 22 da Lei 7.492-86.
+    Neste ponto, destaco trecho da sentença, cujas razões também adoto como fundamentação, ressalvando a fragilidade da versão sustentada pela defesa, mormente do interrogatório do acusado FERNANDO BUARQUE:
+    'A inverdade de tal depoimento torna-se mais evidente pelo fato dos réus serem clientes do banco Citibank brasileiro por aproximadamente 20 anos e conhecerem bem o leiuate, o endereço e os nomes que constam nos extratos bancários da conta que mantêm na instituição financeira no Brasil.
+    Acrescente-se a isso a prova de que a conta-corrente estrangeira recebeu transferências substanciais de outra conta mantida na instituição financeira MTB Hudson Bank, como já mencionado anteriormente. Esse fato infirma a declaração do réu no sentido de que os valores existentes na referida conta consistiam em dólares que auferia no mercado de valores mobiliários, os quais teriam sido depositados na conta-corrente estrangeira a partir de sua agência bancária nesta cidade do Rio de Janeiro.
+    Embora a declaração de ativos brasileiros no exterior deva ser apresentada ao Banco Central do Brasil, constitui mais um indício grave do cometimento do crime o fato de os valores mantidos pelos réus no exterior também não terem sido informados nas suas declarações de rendimentos à Receita Federal do Brasil (fls. 559 ss. destes autos e fls. 11 do Apenso I), o que aponta, ainda, o provável cometimento de delito de sonegação fiscal, mormente quando se recorda a alegada origem dos recursos depositados na conta-corrente.'
+    Outrossim, a defesa não colacionou aos autos qualquer documento que comprovasse as alegações defensivas a ponto de configurar as excludentes de culpabilidade e atipicidade por si levantadas, deixando de honrar com a obrigação que lhe cabe, nos termos do artigo 156 do CPP.
+    Portanto, não há como lograr êxito a tese de erro de tipo consubstanciado no desconhecimento da clandestinidade da conta, bem como a inexistência de operações, saque, remessas ou depósitos.
+    Quanto ao argumento de que a conduta dos Apelantes seria atípica em virtude de alguns valores registrados ao final do ano serem menores que U$100.000,00 (cem mil dólares), não há qualquer modificação a ser implementada no julgado, eis que a sentença acertadamente reconheceu a inexistência de crime nos anos-base de 2007, 2008 e 2009.
+    […].”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
