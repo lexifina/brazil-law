@@ -1,0 +1,12 @@
+Art. 9º A União concederá redução extraordinária integral das prestações relativas aos contratos de dívidas administrados pela Secretaria do Tesouro Nacional do Ministério da Fazenda, por prazo igual ou inferior ao estabelecido para a vigência do Regime de Recuperação Fiscal.
+§ 1º A redução extraordinária de que trata o caput deste artigo não poderá ultrapassar o prazo de 36 (trinta e seis) meses.
+§ 2º Na hipótese de prorrogação do Regime de Recuperação Fiscal, nos termos do § 2º do art. 2º, os pagamentos das prestações de que trata o caput deste artigo serão retomados de forma progressiva e linear, até que seja atingido o valor integral da prestação ao término do prazo da prorrogação.
+§ 3º Para fins do disposto neste artigo, ato do Ministro de Estado da Fazenda estabelecerá a metodologia para a definição do valor integral da prestação.
+§ 4º São dispensados os requisitos legais exigidos para a contratação com a União e a verificação dos requisitos exigidos pela Lei Complementar nº 101, de 4 de maio de 2000, para a realização de operações de crédito
+§ 5º Por força do disposto neste artigo, os valores não pagos das dívidas com a União serão:
+I - controlados em conta gráfica pelo agente financeiro da União e pela Secretaria do Tesouro Nacional do Ministério da Fazenda;
+II - capitalizados de acordo com os encargos financeiros de normalidade previstos originariamente nos contratos, para acréscimo aos saldos devedores atualizados, imediatamente após o encerramento da redução extraordinária de que trata o caput deste artigo ou da retomada progressiva dos pagamentos de que trata o § 2º deste artigo, no caso de se verificar essa possibilidade.
+§ 6º A redução imediata das prestações de que trata este artigo não afasta a necessidade de celebração de termo aditivo para cada um dos contratos renegociados.
+§ 7º Para fins do aditamento a que se refere o § 6º deste artigo, serão considerados os valores consolidados dos saldos devedores das obrigações, incluídos os saldos das contas gráficas, apurados no mês anterior ao da assinatura do termo aditivo.
+§ 8º Constará do termo aditivo a que se refere o § 6º deste artigo que o Estado vinculará em garantia à União as receitas de que trata o art. 155 e os recursos de que tratam o art. 157 e a alínea "a" do inciso I e o inciso II do caput do art. 159 da Constituição Federal.
+§ 9º Os valores pagos à União serão imputados prioritariamente ao pagamento dos juros contratuais, sendo o restante destinado à amortização do principal da dívida.
