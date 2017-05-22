@@ -15,3 +15,4 @@ III - (VETADO)
 I - encargos e condições de contratação;
 II - saldos atualizados e limites relativos às dívidas consolidada e mobiliária, operações de crédito e concessão de garantias.
 § 5º Os contratos de operação de crédito externo não conterão cláusula que importe na compensação automática de débitos e créditos.
+§ 6º O prazo de validade da verificação dos limites e das condições de que trata este artigo e da análise realizada para a concessão de garantia pela União será de, no mínimo, 90 (noventa) dias e, no máximo, 270 (duzentos e setenta) dias, a critério do Ministério da Fazenda.
