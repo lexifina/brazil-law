@@ -1,0 +1,25 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Sexta Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO LEGAL CONTRA DECISÃO PROFERIDA MONOCRATICAMENTE. CASO EM QUE EFETIVAMENTE A DECISÃO UNIPESSOAL NÃO ERA POSSÍVEL. RECURSO ADMINISTRATIVO CONTRA A DECISÃO DA RECEITA FEDERAL QUE JULGOU INTEMPESTIVA A "MANIFESTAÇÃO DE INCONFORMIDADE", OFERTADA NA FORMA DO § 9o DO ART. 74 DA LEI Nº 9.430/96, CONTRA O NÃO RECONHECIMENTO DE COMPENSAÇÃO. AUSÊNCIA DE EFEITO SUSPENSIVO DA EXIGIBILIDADE DO CRÉDITO FISCAL RECUSADO, NO ÂMBITO DESSE RECURSO (FALTA DE PREVISÃO LEGAL). INTELIGÊNCIA DOS ARTS. 151, III, 97, VI E 111, I, TODOS DO CTN, E DECRETO ? 70.230/72. AGRAVO LEGAL PROVIDO, PARA SE DAR PROVIMENTO A APELAÇÃO DA UNIÃO E A REMESSA OFICIAL, REFORMANDO-SE INTEGRALMENTE A SENTENÇA COM CASSAÇÃO DA LIMINAR.
+    1. Efetivamente não era possível emprestar julgamento unipessoal ao apelo e ao reexame necessário à conta da existência de jurisprudência de cortes superiores no sentido da decisão de Io grau, porquanto realmente essa alegada jurisprudência não existe. Caso, ainda, em que o apelo e a remessa não eram de manifesta improcedência.
+    2. A norma do inc. III do art. 151 do CTN deve ser conjugada com as outras normas da legislação infraconstitucional que tratam do processo administrativo-tributário, em especial as regras que se afinam com os recursos e as reclamações propostas na instância administrativa. Deve-se considerar, no ponto, que apenas a lei pode estabelecer os casos de suspensão dos créditos tributários (art. 97, VI, do CTN) e que tal norma só pode ser interpretada restritivamente conforme a regra do inc. I do art. 111 do CTN.
+    3. A ‘manifestação de inconformidade’ tem efeito suspensivo da exigibilidade do crédito fiscal cuja compensação foi recusada pela Receita Federal (§§ 9º e 11 da Lei n° 9.430/96); mas esse efeito não se protrai se a ‘manifestação de inconformidade’ não é conhecida porque foi proposta a destempo, e contra essa decisão o contribuinte manejou um novo recurso perante a Delegacia de Julgamento. Não há previsão legal para que isso ocorra e não cabe ao Judiciário substituir-se ao legislador para emprestar efeito suspensivo a um recurso administrativo que notoriamente não tem o condão de, por si só, suspender a exigibilidade do crédito tributário (afronta ao princípio da legalidade, em caso contrário).
+    4. É ônus do contribuinte interpor os recursos e as reclamações administrativas no prazo legal, se quiser que gerem o efeito suspensivo de que a lei de regência cogita.
+    5. Agravo legal provido, para dar-se provimento à apelação da União e à remessa oficial, a fim de reformar integralmente a sentença de fls. 123/126, cassada a liminar”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LV; 37 e 170 da Carta. Sustenta que: (i) o Tribunal de origem não reconheceu o direito da recorrente às garantias do contraditório e ampla defesa; (ii) a parte recorrida não observou o regramento infraconstitucional que disciplina o processo administrativo. Requer seja determinada a apreciação do recurso administrativo interposto.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[...]
+    O recurso não merece admissão.
+    No caso destes autos, a alegada ofensa aos dispositivos da Constituição Federal de 1988 ocorreu, em tese, apenas de forma indireta ou reflexa ao dispositivo constitucional invocado.
+    […]
+    No mais, o recurso está a revolver matéria fática, insuscetível também de conhecimento na via especial, conforme a Súmula 279 do STF:
+    SÚMULA 279: Para simples reexame de prova não cabe recurso extraordinário.
+    Por tais fundamentos, NÃO ADMITO o Recurso Extraordinário.”
+    O recurso está prejudicado, tendo em vista que o Superior Tribunal de Justiça deu parcial provimento ao Resp 1.617.621-AgInt, simultaneamente interposto pela recorrente em face do mesmo acórdão, para declarar que o recurso administrativo, mesmo intempestivo, suspende a exigibilidade do crédito tributário. Confira-se a parte dispositiva do julgado:
+    “[...]
+    Diante do exposto, recebo o Agravo Interno como Embargos de Declaração e dou-lhes provimento, com efeito integrativo, para alterar a parte dispositiva. Onde se lê "dou provimento ao Recurso Especial" (fl. 316, e-STJ), leia-se: "dou parcial provimento ao Recurso Especial, tão somente para reconhecer que 'recurso administrativo, mesmo intempestivo, suspende a exigibilidade do crédito tributário e, por consequência, o curso do prazo prescricional, enquanto perdurar o contencioso administrativo.” (Resp 1.617.621-AgInt, Rel. Min. Herman Benjamin)
+    Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado o presente recurso.
+    Publique-se.
+          Brasília, 22 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
