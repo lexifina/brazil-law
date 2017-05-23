@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo de instrumento cujo objeto é a decisão que não admitiu recurso extraordinário em face do acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (eDOC 1, p. 46):
+    “Apelação Cível. Processo Civil. Imutabilidade de Regime Jurídico. Inexistência. Vantagem Incorporada ao Patrimônio Jurídico do Servidor. Impossibilidade de Supressão. Ofensa Ao Direito Adquirido. Redução da Verba Advocatícia Fixada. Reexame necessário Documentação. Necessária Ausência. Extinção Sem Julgamento do Mérito. Juros de Mora. Pedido Implícito. Sanação da Sentença a quo.
+    1. A supressão de vantagem cujo fato gerador já foi devidamente completado pelo servidor não pode alcançá-lo, sob pena de ofensa ao direito adquirido.
+    2. A correção monetária é mera atualização do quantum devido, não existindo qualquer óbice à sua aplicação de ofício.
+    3. Reexame Necessário para extinguir a ação sem julgamento do mérito em relação aos AA./apelados que não juntaram a documentação comprobatória de seus direitos e determinar a , incidência dos juros de mora, que se incluem no pedido, ainda que não haja referência expressa na petição inicial. Artigo 293, do CPC.
+    4. Recurso de Apelação parcialmente provido. Sentença reformada em Reexame Necessário.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, XXXVI; e 37, caput, XIV e XV, da Constituição Federal.
+    Nas razões recursais, sustenta, em suma, que “que a Gratificação de Atividade Policial Militar suprimiu não apenas a Gratificação de Habilitação, mas também todas as demais existentes, absorvendo-as e superando-as em termos de valor econômico.” (eDOC 1, p. 98)
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos ao analisar o ARE-RG 685.053, de relatoria do Ministro Ayres Brito, DJe de 8.05.2013 (Tema 605), que reconheceu a inexistência de repercussão geral da controvérsia acerca da percepção da gratificação de atividade e da gratificação de habilitação dos policiais militares do Estado da Bahia. Na oportunidade, a ementa restou assim redigida:
+    “ADMINISTRATIVO. POLICIAIS MILITARES DO ESTADO DA BAHIA. PERCEPÇÃO DA GRATIFICAÇÃO DE ATIVIDADE E DA GRATIFICAÇÃO DE HABILITAÇÃO POLICIAL MILITAR. QUESTÃO CIRCUNSCRITA AO ÂMBITO INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. Nos termos da jurisprudência do Supremo Tribunal Federal, o tema alusivo à percepção da Gratificação de Atividade e da Gratificação de Habilitação pelos Policiais Militares do Estado da Bahia não enseja a abertura da via extraordinária, dado que não prescinde do reexame da legislação infraconstitucional. Não havendo, em rigor, questão constitucional a ser apreciada por esta Suprema Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 23 de maio de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
