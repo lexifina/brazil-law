@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+    “AGRAVO INTERNO. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. ADICIONAL DE INSALUBRIDADE. NECESSIDADE DE LEI LOCAL REGULAMENTANDO A MATÉRIA. SÚMULA Nº 42 DO TJPB. APLICAÇÃO DO ART. 557 “CAPUT”, DO CPC. SEGUIMENTO NEGADO. DESPROVIMENTO DO RECURSO.
+     - ‘O pagamento do Adicional de Insalubridade aos Agentes Comunitários de Saúde submetidos ao vínculo jurídico administrativo, depende de Lei Regulamentadora do Ente ao qual pertencer” (Súmula nº 42 do TJPB).”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º, XXIII, e 37, caput, da Constituição. Sustenta que: (i) “não só a Constituição Federal, mas também a lei municipal determina o pagamento do adicional de insalubridade aos servidores públicos. E, como se sabe, a norma posta no art. 7º, XXII não possui eficácia limitada ou contida, pois essa classificação doutrinária não é mais aceita pela doutrina moderna, devendo a esta Egrégia Corte garantir a obediência aos ditames constitucionais”; (ii) “não há como deixar à margem do tratamento jurídico os servidores que trabalham em condições insalubres simplesmente porque não há norma específica local regulando a matéria”.
+    A decisão agravada negou seguimento ao recurso pelo seguinte fundamento: “No que tange à alegada afronta aos dispositivos supramencionados, a súplica extrema não enseja trânsito ao Supremo Tribunal Federal, em razão de faltar-lhe o devido prequestionamento da matéria no acórdão objurgado, requisito de admissibilidade recursal”.
+    O recurso não deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a Jurisprudência do Supremo Tribunal Federal no sentido de que cabe à legislação infraconstitucional, com observância das regras de competência de cada ente federado, a disciplina da extensão dos direitos sociais estabelecidos no art. 7º do Texto Constitucional a servidores públicos civis. Nesse sentido,veja-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. POLICIAL MILITAR DO ESTADO DE SÃO PAULO. RECEBIMENTO DE ADICIONAL DE PERICULOSIDADE. AUSÊNCIA DE PREVISÃO LEGAL. IMPROCEDÊNCIA DA PRETENSÃO.
+    1. Nos termos da jurisprudência do Supremo Tribunal Federal, cabe à legislação infraconstitucional observadas as regras de competência de cada ente federado a disciplina da extensão dos direitos sociais contidos no art. 7º do Magno Texto a servidores públicos.
+    2. Agravo regimental a que se nega provimento.” (RE 599.166-AgR, Rel. Min. Ayres Britto)
+    Cabe registrar que esse posicionamento tem sido observado por esta Corte ao julgar casos análogos ao presente. Citem-se alguns precedentes oriundos do mesmo ente federado e alusivo à mesma questão: ARE 1.027.815, Rel. Min. Luiz Fux; ARE 1.021.781, Rel. Min. Gilmar Mendes; ARE 1.024.488, Rel. Min. Celso de Melo; ARE 1.021.767, Rel. Min. Dias Toffoli; ARE 1.021.744, Rel. Min. Ricardo Lewandowski; e ARE 889.401, Rel.ª Min.ª Cármen Lúcia.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 23 de maio de 2017
+Ministro Luís Roberto Barroso
+Relator
