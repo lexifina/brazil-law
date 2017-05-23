@@ -1,0 +1,7 @@
+Art. 5º-A Ocorre elevada oscilação da taxa de câmbio quando, no período de um mês-calendário, o valor do dólar dos Estados Unidos da América para venda apurado pelo Banco Central do Brasil sofrer variação, positiva ou negativa, superior a 10% (dez por cento).
+§ 1º A variação de que trata o caput será determinada mediante a comparação entre os valores do dólar no primeiro e no último dia do mês-calendário para os quais exista cotação publicada pelo Banco Central do Brasil.
+§ 2º Verificada a hipótese prevista no caput, a alteração do regime de competência para o regime de caixa para reconhecimento das variações monetárias poderá ser efetivada no mês-calendário seguinte àquele em que ocorreu a elevada oscilação da taxa de câmbio.
+§ 3º O novo regime adotado se aplicará a todo o ano-calendário, observado o disposto no § 4º.
+§ 4º Na hipótese de ter ocorrido elevada oscilação da taxa de câmbio nos meses de janeiro a maio de 2015, a alteração de regime de que trata o § 2º poderá ser efetivada no mês de junho de 2015.
+CAPÍTULO III
+DOS EFEITOS DA ALTERAÇÃO DO CRITÉRIO DE RECONHECIMENTO DAS VARIAÇÕES MONETÁRIAS DE UM ANO-CALENDÁRIO PARA OUTRO
