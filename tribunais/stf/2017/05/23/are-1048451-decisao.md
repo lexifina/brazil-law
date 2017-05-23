@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, julgou improcedente o pedido de recebimento da Gratificação Legislativa de Incentivo à Especialização e Produtividade (GLIEP) na mesma proporção paga aos servidores da ativa, considerado a necessidade de realização de avaliação de desempenho para o percebimento da vantagem. O recorrente afirma violado o artigo 40, § 8º, da Constituição Federal e 7º da Emenda Constitucional nº 41/2003. Afirma o direito ao recebimento da gratificação pelos inativos, ante o caráter genérico da parcela.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    No mais, colho do acórdão recorrido o seguinte trecho:
+    Os autores são servidores públicos aposentados e pretendem que lhes seja paga a Gratificação Legislativa de Incentivo à Especialização e Produtividade (GLIEP), prevista na Lei Municipal nº 14.381/07, haja vista que tal gratificação vem sendo concedida apenas aos servidores ativos.
+    Dispõe o art. 29,caput, § 2º e § 8º, da referida legislação(fls. 57/73), in verbis (fl. 71):
+    “Art. 29. Fica instituída a Gratificação Legislativa de Incentivo à Especialização e Produtividade GLIEP, a qual poderá ser atribuída aos servidores da Câmara Municipal de São Paulo e aos servidores ou empregados públicos da Administração direta, indireta ou fundacional, Federal, Estadual ou de outros Municípios, colocados à disposição da Câmara, para prestar serviços conforme o 'caput' do art. 31 da Lei nº 13.637, de 4 de setembro de 2003, nos termos do Anexo I desta lei.
+    “(...).
+    “§ 2º. A gratificação ora instituída poderá ser atribuída aos servidores como incentivo à especialização e produtividade, mediante aferição anual do desempenho do servidor no exercício das atribuições do cargo, com foco na sua contribuição individual para o alcance de metas do setor, e no aperfeiçoamento educacional ou profissional, conforme disposto no Anexo I desta lei, desde que atendidos, nos mínimo, três dos seguintes requisitos:
+    “(...).
+    “§ 8º. A gratificação de natureza pessoal ora instituída não constituirá, sob nenhuma hipótese, base de cálculo de qualquer outra vantagem pecuniária”
+    De notar-se da leitura do dispositivo supratranscrito que a vantagem em apreço possui nítido caráter pro labore faciendo, com o objetivo de premiar e incentivar os servidores ao aperfeiçoamento e melhoria da produtividade. Não se trata de vantagem geral, estendida a todos os servidores. Tanto é assim, que para fazer jus ao benefício é necessário o preenchimento de alguns requisitos previstos nos incisos I a VII, do §2º, da lei referida.
+    Portanto, a conclusão que se chega é a de que trata-se de benefício de natureza condicional, não podendo ser incorporado aos vencimentos dos servidores, nem tampouco estendido aos inativos.
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à análise da Lei municipal nº 14.381/07. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, porquanto já arbitrados em patamar máximo na origem.
+    4. Publiquem.
+Brasília, 23 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
