@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INADEQUAÇÃO – AGRAVO DESPROVIDO.
+    1. O Tribunal Regional Federal da 2ª Região, reformando o entendimento do Juízo, julgou improcedente o pedido de cumulação de cargos, considerado o excesso de jornada. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação do 37, inciso XVI, alínea “c”, da Constituição Federal. Discorre sobre a compatibilidade de horários. Tece considerações sobre a inexistência de norma que condicione a cumulação de cargos a determinada jornada de trabalho. Aponta a inaplicabilidade do parecer nº 145, da Advocacia Geral da União.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Colegiado de origem expressamente afirmou que a cumulação pretendida implicaria jornada excessivamente longa, em dissonância com os princípios da proteção à saúde e da eficiência. Colho da decisão monocrática, expressamente confirmada pelo acórdão recorrido, o seguinte trecho:
+    In casu, pela análise dos documentos e declarações fornecidos pela própria Autora, observa-se que ela exerce os cargos de Auxiliar de Enfermagem no Hospital Municipal Dr. Moacyr Rodrigues do Carmo, vinculado à Prefeitura Municipal de Duque de Caxias, com carga horária semanal de 24 horas (fl. 30) e também de Auxiliar de Enfermagem no Hospital Geral de Ipanema, cuja carga horária semanal contratada é de 40 horas (fl. 49), não obstante figurar na Declaração de fls. 32 com sendo de 30 horas semanais.
+    Sendo assim, e considerando que resta correta a utilização da jornada para a qual o servidor foi contratado e, principalmente, pela qual é remunerado, para aferir a compatibilidade de horários, percebe-se que na verdade a Autora perfaz uma carga horária semanal de trabalho que totaliza 64 horas, o que caracteriza uma carga excessiva de trabalho, sendo um risco para a saúde da autora e para a dos pacientes por ela atendidos.
+    Noutro giro, é importante ressaltar que a compatibilidade de horários não deve ser entendida, apenas, como a ausência de choque entre as jornadas de trabalho. Tomando-se como base a Lei nº 8.112/90, que prevê uma jornada de trabalho de, no máximo, 40 horas semanais (art. 19), com possibilidade de 2 horas de trabalho extras por jornada (art. 74), vê-se que esse limite foi reputado pelo legislador como necessário para preservar a higidez física e mental do trabalhador e, em consequência, sua produtividade.
+    [...]
+    Em síntese, o número máximo de horas permitido, como de sessenta horas, tem fundamento legal e matemático, o que também autoriza à integração desse entendimento da AGU aos órgãos da Administração Pública.
+    Além disso, a jornada máxima estabelecida parte de um critério de razoabilidade, bom senso e possibilidade física de cumprimento pelo empregado, considerando que não é lícito o cumprimento de mais do que dez horas de trabalho por dia.
+    Entendimento diverso viola todos os princípios básicos insertos desde épocas remotas de organização do trabalho, nas constituições e sistemas jurídicos de países civilizados.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 23 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
