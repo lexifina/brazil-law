@@ -1,0 +1,16 @@
+Em 14/4/2011, o Ministro Ayres Britto, então relator, determinou o sobrestamento do presente feito até o julgamento final do RE 208.526/RS pelo Plenário deste Tribunal (fl. 479).
+    Tendo em vista o julgamento pelo Pleno desta Corte dos Recursos Extraordinários 208.526/RS, 215.811/SC, 221.142/RS e 256.304/RS, afasto o sobrestamento determinado à fl. 479 e passo à análise do recurso.
+    Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que manteve decisão monocrática na qual foi assentado o entendimento de que as demonstrações financeiras referentes ao ano-base de 1989, para efeito de cálculo do Imposto de Renda da Pessoa Jurídica – IRPJ e da Contribuição Social Sobre o Lucro – CSSL, deveriam ser corrigidas pela Obrigação do Tesouro Nacional – OTN, nos termos do art. 30, § 1°, da Lei 7.730/1989 e do art. 30 da Lei 7.799/1989.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXXVI; 145, § 1°; 150, IV; 153, III, e § 2°; e 195, I, da mesma Carta. Para tanto, argumentou-se que para a correção monetária do período em discussão deve ser considerado o índice de inflação de 70,28%, referente ao IPC de janeiro de 1989, ou então, pelo menos que seja considerado o percentual de 42,72%.
+    A pretensão recursal merece parcial acolhida.
+    O acórdão recorrido está em desacordo com o entendimento firmado pelo Plenário do Supremo Tribunal Federal que, no julgamento dos REs 208.526/RS, 256.304/RS, RE 215.811/SC e 221.142/RS, todos da relatoria do Ministro Marco Aurélio, declarou a inconstitucionalidade do art. 30, § 1°, da Lei 7.730/1989 e do art. 30 da Lei 7.799/1989, bem como determinou a aplicação do resultado do julgamento à sistemática da repercussão geral reconhecida no RE 242.689-RG/PR (Tema 311).
+    Confira-se, por oportuno, a ementa do RE 221.142/RS:
+    “IMPOSTO DE RENDA – BALANÇO PATRIMONIAL – ATUALIZAÇÃO – OTN – ARTIGOS 30 DA LEI Nº 7.730/89 E 30 DA LEI Nº 7.799/89. Mostra-se inconstitucional a atualização prevista no artigo 30 da Lei nº 7.799/89 no que, desconsiderada a inflação, resulta na incidência do Imposto de Renda sobre lucro fictício.
+    APLICAÇÃO DA LEI NO TEMPO – REPERCUSSÃO GERAL. Na dicção da ilustrada maioria, é possível observar o instituto da repercussão geral quanto a recurso cujo interesse em recorrer haja surgido antes da criação do instituto – vencido o relator”.
+    Por outro lado, com relação à definição do índice a ser aplicado para a inflação do período em discussão, verifico que o Pleno deste Tribunal, ainda no julgamento do RE 208.526/RS, entendeu que não cabe ao Supremo Tribunal Federal a definição do percentual correto a ser utilizado, mas sim ao Juízo da execução.
+    Isso posto, dou provimento ao presente agravo de instrumento para conhecer do recurso extraordinário e dar-lhe parcial provimento (art. 544, § 4º, II, c, do Código de Processo Civil/1973), apenas para reconhecer a inconstitucionalidade do art. 30, § 1°, da Lei 7.730/1989 e do art. 30 da Lei 7.799/1989, em conformidade com o que ficou decidido pelo Plenário desta Corte.
+    Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 23 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
