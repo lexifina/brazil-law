@@ -1,0 +1,18 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão, proferido no âmbito do Superior Tribunal de Justiça, que denegou a ordem, cassando, assim, a liminar anteriormente concedida, que determinou a revogação da prisão preventiva imposta ao paciente.
+    Narra o impetrante que: a) o paciente foi condenado à pena de 07 (sete) anos, 11 (onze) meses e 08 (oito) dias de reclusão, em regime inicialmente fechado, por suposta prática do crime previsto no art. 33, caput, da Lei 11.343/2006; b) o Min. Relator do HC 391.966/SP no STJ reconheceu a existência de ilegalidade por ausência de fundamentação da decisão que decretou a custódia cautelar do paciente, determinando, liminarmente, a revogação de sua prisão preventiva; c) a Quinta Turma do STJ, ao apreciar o mérito do HC, cassou a liminar anteriormente concedida, de modo que o paciente foi novamente preso preventivamente pelo Juízo de 1º grau em 11.05.2017; e d) deve prevalecer a decisão liminar proferida monocraticamente, porquanto ausente fundamentação para manter a segregação provisória do paciente.
+    À vista dos argumentos acima, pugna pela revogação do decreto de custódia cautelar ou, subsidiariamente, pela sua substituição por medida cautelar diversa da prisão.
+    É o relatório. Decido.
+    No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    O impetrante insurge-se contra à prisão preventiva, contudo não acostou aos autos cópia do acórdão prolatado pelo STJ, documento indispensável para aferição da aventada ilegalidade.
+    Com efeito, não há como analisar a existência do constrangimento ilegal invocado sem a análise do ato coator, emanado pelo STJ, o qual, por consequência, permitiu a decretação de nova custódia cautelar.
+    Ressalte-se que, muito embora conste dos autos cópia do novo decreto prisional, expedido pelo Juízo de 1º grau, tal documento não é suficiente para conferir verossimilhança às alegações do impetrante. A uma porque, dada a competência do STF em matéria de habeas corpus, o exame da impetração circunscreve-se a atos coatores oriundos de Tribunais Superiores, consoante inteligência do art. 102, I, “i” da CF. A duas, porque é possível que exista, na decisão não acostada aos autos, motivação idônea, assentada em circunstâncias não relatadas pelo impetrante e/ou relacionadas com eventual alteração do panorama fático probatório, e que asseverem a necessidade da custódia cautelar.
+    Assim, a instrução deficitária impossibilita a análise da impetração em sua plenitude e inviabiliza a concessão da ordem, nos moldes em que requerida.
+    Acrescente-se que, consoante reiterada jurisprudência da Corte, “constitui ônus do impetrante instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo” (HC nº 95.434/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 2/10/09). Na mesma linha: HC 130240 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 24/11/2015 e HC 131202 AgR, Relator(a): Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 03/03/2016.
+    Na mesma linha é consolidado nesta Corte o entendimento acerca da impossibilidade de emenda à impetração, haja vista que o habeas corpus, “instrumento destinado à proteção de direito líquido e certo, demonstrável de plano, que não admite dilação probatória” (HC 103606, Relator(a): Min. RICARDO LEWANDOWSKI, Primeira Turma, julgado em 21/09/2010).
+    Destarte, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 24 de maio de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
