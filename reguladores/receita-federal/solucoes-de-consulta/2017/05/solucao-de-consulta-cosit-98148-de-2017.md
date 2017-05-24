@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98148, de 11 de maio de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3926.10.00 Mercadoria: Prancheta de plástico possuindo porta caneta, escala métrica na lateral e mecanismo (garra) para fixação do papel com pequena calculadora auxiliar de 8 dígitos; medindo 348mm x 229mm x 40mm e pesando 309g. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.26), RGI 3 b) e RGI 6 (texto da subposição 3926.10.00) constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+Novo segmento
+[arquivo anexo: SC Cosit n° 98148-2017.pdf]
