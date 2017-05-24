@@ -1,0 +1,24 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 2º, caput, 5º, LXXI, 22, XXIII, e 40, § 4º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo o inteiro teor da ementa do acórdão recorrido:
+    “MANDADO DE SEGURANÇA — Servidores Públicos Estaduais — Pretensão à averbação de atividade insalubre para fins de aposentadoria especial — Possibilidade (artigo 40, § 4% inciso III, da Constituição Federal) — Aplicação supletiva da regra do Regime Geral da Previdência Social (Lei Federal n°. 8.213191), tendo em vista a ausência de norma regulamentadora no âmbito estadual — Precedentes — Segurança denegada em l ª instância — Sentença reformada — Recurso provido.”
+    O entendimento adotado pelo Tribunal de origem não divergiu da jurisprudência firmada no âmbito desta Suprema Corte. Colho precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL. OMISSÃO LEGISLATIVA. APLICAÇÃO DO ART. 57 DA LEI 8.213/91. AGRAVO REGIMENTAL DESPROVIDO.
+    1. No entendimento da jurisprudência do STF, aplica-se o art. 57, da Lei 8.213/1991, no que couber, à aposentadoria especial dos servidores públicos, ante a falta de Lei Complementar específica.
+    2. Agravo regimental a que se nega provimento.” (ARE 898.366-AgR, Rel. Min. Edson Fachin, 1ª Turma, DJe 11.4.2016)
+    “RECLAMAÇÃO. AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL REQUERIDA COM BASE NO ART. 40, § 4ª, III, DA CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 33. AUSÊNCIA DE ESTRITA ADERÊNCIA. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    1. A partir da publicação da Súmula Vinculante 33, a administração direta e indireta, nas esferas federal, estadual e municipal, deve aplicar a seus servidores, no que couber, as regras do regime geral da previdência social sobre a aposentadoria especial de que trata o art. 40, § 4º, III, da Constituição Federal, até a edição de lei complementar específica.
+    2. A afronta à Súmula Vinculante nº 33 ocorre quando a Administração se furta de examinar o pleito de concessão de aposentadoria especial ao fundamento de que inexistente a norma regulamentadora a que refere o art. 40, § 4º, III, da Constituição Federal, o que não é o caso dos autos, como deflui da própria inicial.
+    3. Agravo regimental conhecido e não provido.” (Rcl 21.360-AgR, de minha lavra, 1ª Turma, DJe 22.3.2017)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 24, XII, DA CONSTITUIÇÃO DA REPÚBLICA – AUSÊNCIA DE PREQUESTIONAMENTO EXPLÍCITO DA MATÉRIA CONSTITUCIONAL – SERVIDOR PÚBLICO DO DISTRITO  FEDERAL – CONTAGEM DE TEMPO PARA FINS DE APOSENTADORIA ESPECIAL – ATIVIDADES INSALUBRES – MORA LEGISLATIVA RECONHECIDA PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL – APLICAÇÃO DAS REGRAS DO REGIME GERAL DE PREVIDÊNCIA SOCIAL (LEI Nº 8.213/91), ENQUANTO NÃO EDITADA A LEI COMPLEMENTAR A QUE SE REFERE O § 4º DO ART. 40 DA CONSTITUIÇÃO FEDERAL – SINDICATOS – LEGITIMAÇÃO EXTRAORDINÁRIA (CF, ART. 8º, INCISO III) – SUBSTITUIÇÃO PROCESSUAL – QUESTÕES RELATIVAS À CONVERSÃO, EM TEMPO COMUM, DO TEMPO ESPECIAL DE CONTRIBUIÇÃO E À FONTE DE CUSTEIO DAS APOSENTADORIAS – PRETENSÃO RECURSAL QUE IMPORTA EM EVIDENTE INOVAÇÃO DO LITÍGIO CONSTITUCIONAL – IMPOSSIBILIDADE – PRINCÍPIO DO “JURA NOVIT CURIA” – INAPLICABILIDADE EM SEDE RECURSAL EXTRAORDINÁRIA – RECURSO IMPROVIDO.” (ARE 788.842-AgR, Rel. Min. Celso de Mello, 2ª Turma, DJe 16.5.2016)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Aposentadoria especial do servidor público. 3. Omissão legislativa. Falta de Lei Complementar específica. Aplicação do art. 57 da Lei nº 8.213/91, no que couber. 4. Ausência de argumentos suficientes a infirmar a decisão ocorrida. 5. Agravo Regimental a que se nega provimento.” (ARE 910.181-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 05.11.2015)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de maio de 2017.
+Ministra Rosa Weber
+Relatora
