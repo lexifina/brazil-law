@@ -1,0 +1,73 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de José Francisco de Arruda, apontando como autoridade coatora o Ministro Félix Fischer, do Superior Tribunal de Justiça, que não conheceu do HC nº 356.041/SP.
+    O impetrante sustenta, em síntese, que, à míngua de fundamentação idônea, foi imposto ao paciente o regime inicial semiaberto para o cumprimento da pena de 2 (dois) anos, 8 (oito) meses e 20 (vinte) dias de reclusão, em razão do crime capitulado no art. 155, inciso IV, do Código Penal.
+    Invoca-se em favor da tese o enunciado da Súmula nº 719 deste Supremo Tribunal Federal.
+    Requer-se, liminarmente, a concessão da ordem, ainda que de ofício, para fixar em favor do paciente o regime inicial aberto na forma do art. 33, § 2º, c, do Código Penal, com a consequente expedição de contramandado de prisão.
+    Examinados os autos, decido.
+    Transcrevo o teor da decisão ora questionada:
+    “Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE FRANCISCO DE ARRUDA, JOSE DOS SANTOS FREITAS, RAFAEL CAMARGO MESSIAS e JULIANO DE ARRUDA, em face de v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+    Depreende-se dos autos que os pacientes foram condenados como incursos nas sanções do artigo 155, § 4º, inciso IV, do Código Penal, à pena de 2 (dois) anos de reclusão, para RAFAEL CAMARGO MESSIAS, 2 (dois) anos e 4 (quatro) meses de reclusão, para JOSE DOS SANTOS FREITAS e JULIANO DE ARRUDA, e 2 (dois) anos e 8 (oito) meses de reclusão, para JOSE FRANCISCO DE ARRUDA, todos em regime inicialmente semiaberto.
+    No julgamento da apelação, o eg. Tribunal de origem deu provimento parcial ao recurso de JOSE DOS SANTOS FREITAS, a fim de redimensionar sua reprimenda para 2 (dois) anos de reclusão, mantendo-se, no mais, a r. sentença condenatória. Eis a ementa:
+    ‘FURTO QUALIFICADO PELO CONCURSO DE AGENTES. ABIGEATO. Recursos bilaterais. Defensivos. Absolvição. Impossibilidade. Autoria e materialidade bem delineadas. Diminuição unicamente das penas de JOSÉ DOS SANTOS FREITAS, pela aplicação da atenuante da confissão, ainda que extrajudicial, pois também utilizada como fundamento à condenação. Provimento parcial. Regime semiaberto mantido. Improvimento aos remanescentes. Ministerial. Pretendida reversão da absolvição quanto a JOÃO DE JESUS DOS SANTOS, GILDEBRANDO e ROBERTO. Inviabilidade, diante da fragilidade das provas. Adoção do princípio do 'in dubio pro reo'. Improvimento’ (fl. 16).
+    Foram opostos embargos de declaração às fls. 23-25, aos quais foram rejeitados pelo eg. Tribunal de origem.
+    Daí o presente writ, no qual aduz o impetrante, em breve síntese, que ‘houve o transcurso de lapso superior de mais de 08 anos entre o oferecimento da denúncia e a decisão de segunda instância, devendo ser reconhecida a prescrição retroativa’ (fl. 4).
+    Sustenta, ademais, que ‘o regime mais gravoso foi fixado à míngua de fundamentação idônea’ (fl. 5).
+    Requer, ao final, ‘seja determinado a expedição de contramandado de prisão em favor de José Francisco de Arruda, Juliano de Arruda e José dos Santos Freitas, independente da readequação do semiaberto para regime mais brando, e a expedição de alvará de soltura em favor do paciente Rafael Camargo Messias’ (fl. 6).
+    Liminar deferida às fls. 53-55.
+    Informações prestadas às fls. 80-113.
+    O eminente representante do Ministério Público Federal, às fls. 117-124, manifestou-se pela concessão da ordem.
+    É o relatório. Decido.
+    A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+    Dessarte, passo ao exame das razões veiculadas no mandamus.
+    Inicialmente, no que concerne a prescrição da pretensão punitiva, tenho que o writ não merece ser conhecido.
+    Do exame da quaestio, não se verifica a ocorrência da prescrição da pretensão punitiva, pois, considerada a pena máxima em abstrato cominada ao delito de furto qualificado, tem-se que entre o recebimento da denúncia e a presente data não foi ultrapassado o lapso prescricional de 12 (doze) anos, ex vi do art. 109, inciso III, do Código Penal.
+    Por outro lado, quanto ao regime prisional estabelecido, verifico que melhor sorte socorre o impetrante.
+    Insta consignar, inicialmente, que a jurisprudência desta Corte se firmou no sentido de que o deferimento do regime aberto se dá desde que preenchidos os requisitos constantes do art. 33, § 2º, c, e § 3º, c/c o art. 59 do CP, quais sejam, a ausência de reincidência, condenação por um período igual ou inferior a 04 (quatro) anos e a inexistência de circunstâncias judiciais desfavoráveis.
+    Para delimitar a quaestio, transcrevo o seguinte excerto do v. acórdão reprochado:
+    ‘[...] Analisa-se a dosimetria.
+    JOSÉ DOS SANTOS teve as iniciais acrescidas de 1/6, pelo mau antecedente (comprovado pela certidão de fls. 417). Entretanto, porque não reconhecida na origem, impõe-se aplicação da atenuante da confissão, ainda que extrajudicial, em virtude de ter sido utilizada para embasar o decreto condenatório.
+    A este teor, confira-se: ‘(...) Se a confissão extrajudicial do acusado foi utilizada para corroborar o acervo provatório, embasando a condenação, mostra-se obrigatória a atenuação da pena, a teor do art. 65, inciso III, alínea d, do Código Penal, ainda que tenha havido retratação em juízo’ (STJ-5 3 Turma - HC 204280/SP- Ministra LAURITA VAZ – j. 26.02.2013).
+    Assim, retornam aos mínimos e assim tornam- se definitivas, à míngua de outras modificadoras.
+    RAFAEL teve as penas-base estabelecidas nos mínimos , daí porque prejudicada a mesma atenuante, nos termos da Súmula n° 231 do STJ. Sem variáveis, ficam permanentes.
+    As inicias de JOSÉ FRANCISCO saíram com majoração de 1/6, pelo mau antecedente (certidão de fls. 442), perfazendo-se 2 anos, 4 meses e 11 dias-multa. Na segunda fase, bem reconhecida a agravante prevista no art. 62, I, do Código Penal, por se tratar de autor intelectual, sofreram aumento de igual fração, atingindo-se 2 anos, 8 meses, 20 dias e 12 dias-multa, também definitivamente.
+    Por fim, as de JULIANO foram fixadas nos mínimos, seguidas de majoração de 1/6, na segunda fase, pela idêntica agravante (mentor intelectual), ficando estáveis em 2 anos, 4 meses de reclusão e 11 dias-multa.
+    [...]
+    No tocante ao regime, realmente, em razão das circunstâncias e conseqüências do delito, o semiaberto é o mais adequado. Ora, os agentes formavam uma verdadeira quadrilha, atemorizando os pequenos criadores da região. Além disso, registram outros processos por fatos análogos, ainda em fase investigatória.
+    Regime menos rigoroso, assim, não atenderia ao caráter retributivo da conduta, muito menos a substituição da corporal por restritivas de direitos, porque não seria socialmente recomendável’ (fls. 21-22).
+    Na presente hipótese, verifica-se que as penas-base dos pacientes RAFAEL CAMARGO MESSIAS e JULIANO DE ARRUDA, foram fixadas no mínimo legal, pois consideradas favoráveis todas as circunstâncias judiciais. Além disso, os pacientes são primários e as penas finais não excedem quatro anos de reclusão.
+    Diante desse contexto, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que não há razão para não conceder o regime aberto para início de cumprimento das reprimendas.
+    Nesse sentido:
+    ‘CONSTITUCIONAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. ROUBO IMPRÓPRIO. PENA-BASE NO MÍNIMO LEGAL. REINCIDÊNCIA. CARÊNCIA DE MOTIVAÇÃO IDÔNEA PARA A IMPOSIÇÃO DO REGIME FECHADO. SÚMULAS/STJ 269 E 440. HABEAS CORPUS NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+    [...]
+    2. Os fundamentos genéricos utilizados do decreto condenatório não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), contrariando a Súmula 440 deste Superior Tribunal.
+    3. De acordo com a Súmula 269/STJ, ‘é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais’.
+    4. O Tribunal de origem considerou favoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal e, por isso, a pena-base foi fixada no mínimo legal. Assim, estabelecida a reprimenda em 4 (quatro) anos de reclusão, o paciente faz jus ao regime semiaberto de cumprimento de pena, nos termos do art. 33, § 2º, alínea ‘c’, e § 3º, do Código Penal.
+    5. Habeas corpus não conhecido. Ordem concedida, de ofício, para estabelecer o regime semiaberto para o cumprimento inicial da pena, se, por outro motivo, o paciente não estiver descontando a reprimenda em meio mais gravoso’ (HC n. 337.388/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 3/5/2016, grifei).
+    (…)
+    Tal entendimento encontra-se, inclusive, sumulado, conforme se depreende dos enunciados n. 718 e 719 da Súmula/STF, e n. 440 da Súmula/STJ, os quais transcrevo a seguir, respectivamente:
+    ‘A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.’
+    ‘A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.’
+    ‘Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.’
+    Contudo, em relação aos pacientes JOSE FRANCISCO DE ARRUDA e JOSE DOS SANTOS FREITAS, verifica-se que as penas-base foram fixadas acima do mínimo legal ante a presença de circunstâncias judiciais desfavoráveis, o que justifica a imposição do regime mais gravoso do que o cabível em razão do quantum de pena aplicado.
+    Neste sentido:
+    ‘HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. ANTECEDENTES. FEITOS EM CURSO. INVIABILIDADE. CIRCUNSTÂNCIAS DO CRIME. JUSTIFICATIVA CONCRETA. CONCURSO DE AGENTES E EMPREGO DE ARMA. ANÁLISE FEITA NA PRIMEIRA FASE DA DOSIMETRIA. POSSIBILIDADE. PENA SUPERIOR A 4 ANOS DE RECLUSÃO. CIRCUNSTÂNCIA DESFAVORÁVEL. REGIME INICIAL FECHADO. ADEQUAÇÃO. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+    [...]
+    2. A dosimetria é uma operação lógica, formalmente estruturada, de acordo com o princípio da individualização da pena. Tal procedimento envolve profundo exame das condicionantes fáticas, sendo, em regra, vedado revê-lo em sede de habeas corpus. Na espécie, a pena-base foi fixada acima do mínimo legal em razão da valoração negativa dos antecedentes e das circunstâncias do crime. Verifica-se que as instâncias de origem arrolaram fundamentos concretos, no tocante às circunstâncias do crime, que respaldam o acréscimo da pena-base.
+    Todavia, a exasperação cifrada em feitos criminais em curso esbarra no princípio da desconsideração prévia de culpabilidade, entendimento, aliás, constante do Enunciado Sumular n.° 444 desta Casa de Justiça. De rigor, portanto, o decote no incremento sancionatório.
+    3. Não obstante a melhor técnica conduza a avaliação das circunstâncias (concurso de agentes e emprego de arma) na terceira etapa da dosimetria, não há óbice no dimensionamento da reprimenda, conforme alinhavado pelo magistrado (na primeira fase da dosimetria), até porque, in casu, o paciente foi beneficiado com a redução da pena-base, diante da incidência de duas atenuantes, o que não ocorreria caso o aumento tivesse se dado na terceira fase do cálculo de pena.
+    3. Nos termos do artigo 33 do Código Penal, fixada a pena em patamar superior a 4 anos de reclusão, a estipulação do regime inicial fechado é apropriada, tendo em vista que as circunstâncias do crime revelam um plus de reprovabilidade na conduta do paciente.
+    4. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena do paciente para 4 (quatro) anos, 9 (nove) meses e 18 (dezoito) dias de reclusão, mais 12 (doze) dias-multa, mantidos os demais termos da condenação" (HC n. 340.235/SP, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 31/3/2016, grifei).
+    Ante o exposto, não conheço do presente habeas corpus.
+    Contudo, concedo a ordem de ofício, tão somente, para fixar o regime prisional aberto para início de cumprimento da pena dos pacientes RAFAEL CAMARGO MESSIAS e JULIANO DE ARRUDA, mantidos os demais termos da condenação.” (grifos do autor)
+    Como se verifica, esta impetração volta-se contra decisão singular proferida no bojo do HC nº 356.041/SP. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente.” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14)
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ainda que assim não fosse, a título de registro, anoto que a imposição do regime mais gravoso ao paciente foi justificada na existência de circunstância judicial desfavorável a ele.
+    Como se lê na jurisprudência do Supremo Tribunal Federal, a presença de circunstâncias judiciais desfavoráveis legitima a fixação do regime inicial de cumprimento de pena mais gravoso. Nesse sentido: HC nº 132.989/SP-AgR, Primeira Turma, Relator o Ministro Edson Fachin, DJe de 10/10/16; HC nº 134.869/SP, Segunda Turma, de minha relatoria, DJe de 25/8/16; HC nº 130.732/SP-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 16/3/16; HC nº 131.761/SC, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 29/2/16; e HC nº 125.589/CE-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 26/6/15.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 24 de maio de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
