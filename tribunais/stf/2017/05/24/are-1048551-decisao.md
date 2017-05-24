@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+    “ADMINISTRATIVO. ANISTIA. REVISÃO. LEI Nº 8.878/94. DECRETO Nº 5.115/04. REQUERIMENTO APRESENTADO DEPOIS DO PRAZO. ANÁLISE. POSSIBILIDADE. INTIMAÇÃO APENAS POR PUBLICAÇÃO NO DIÁRIO OFICIAL. VIOLAÇÃO AO ART. 26 DA LEI 9.784/99. APELAÇÃO E REMESSA OFICIAL DESPROVIDAS.
+    1. O Decreto nº 5.115/2004 instituiu a Comissão Especial Interministerial para a revisão dos atos administrativos praticados pelas comissões criadas para análise dos processos de anistia de que trata a Lei nº 8.878, de 11 de maio de 1994, estabelecendo prazo de trinta dias para a apresentação dos requerimentos revisionais.
+    2. ‘A Primeira Seção desta Corte firmou o entendimento no sentido de que a intimação do interessado, tão somente, por meio da publicação do Decreto no Diário Oficial da União para apresentar requerimento para revisão de sua anistia ofende o disposto nos §§ 3º, 4º e 5º do artigo 26 da Lei nº 9.784/99’. Precedente.
+    3. De fato, o critério de cientificação ora repelido vulnera os princípios constitucionais que asseguram o direito ao devido processo legal e à ampla defesa (art. 5º, LIV e LV da CF/88). ‘na medida em que, além de desatender a forma expressa em lei, a intimação pela só publicação no Diário Oficial da União, cerceou o direito do impetrante de ter conhecido e analisado seu requerimento de revisão de sua anistia’.
+    4. Apelação e remessa oficial desprovidas.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LIV e LV, da Constituição.
+    A decisão agravada negou seguimento ao recurso pelo seguinte fundamento: “a eventual análise acerca da possibilidade de ofensa aos princípios constitucionais da ampla defesa, do contraditório e do devido processo legal, em face da forma utilizada para proceder à intimação para cumprimento dos prazos previstos nos Decretos nºs 5.115/2004 e 5.215/2004, demanda , concessa venia, o exame de norma infraconstitucional, o que, com a devida licença de posicionamento outro, faz com que a indicada violação à Constituição Federal se configure como reflexa, impedindo, assim, a admissibilidade do recurso extraordinário interposto”.
+    O recurso não merece acolhida. Para dissentir do entendimento firmado pelo Tribunal de origem, faz-se necessária a análise da legislação infraconstitucional aplicada ao caso, o que é inviável nesse momento processual. Nesse sentido, vejam--se os seguinte precedentes: ARE 1.017.756, Rel. Min. Dias Toffoli; e ARE 997.490, Rel. Min. Marco Aurélio.
+    O Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
