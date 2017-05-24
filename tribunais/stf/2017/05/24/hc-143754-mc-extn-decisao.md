@@ -1,0 +1,11 @@
+Decisão: Trata-se de pedido de extensão em habeas corpus coletivo preventivo, com pedido de liminar, impetrado pela Federação Nacional dos Trabalhadores do Judiciário e do Ministério Público da União – FENAJUDE, em favor de seus dirigentes sindicais devidamente nominados (eDOC 30), em que se almeja a extensão dos efeitos do referido remédio constitucional concedido neste habeas corpus em 11.05.2017 (Dje 22.05.2017), visando a expedição de salvo-conduto à paciente para que lhe seja franqueado o acesso aos setores da Câmara dos Deputados destinados aos cidadãos nos dias em que forem designados debates e/ou deliberações da PEC nº 287/2016.
+    Aduz que “(...) tal pedido se justifica, para além da identidade jurídica, com o fato de que a tramitação da PEC nº 287/16 contará com a marcação de diversas sessões nas Casas Legislativas. Assim, a extensão é medida adequada a oportunizar a participação constante dos representantes dos servidores do Poder Judiciário e do Ministério Público nos debates e deliberações da Reforma da Previdência mediante o estabelecimento de um rodízio entre os pacientes que virão de outros Estados.” (eDOC 29, p.1-2)
+    É o relatório. Decido.
+    Como já fundamentado na decisão que concedeu a medida liminar, o direito de acesso e acompanhamento dos trabalhos legislativos no âmbito do Congresso Nacional é consequência do comando constitucional previsto no art. 1º da Carta Magna, o qual dispõe que a República Federativa do Brasil constitui-se em Estado Democrático de Direito e tem por fundamentos: a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político.
+    Entretanto, conforme consignei em decisões cautelares que tratam do mesmo tema (HC´s nº 143.754, nº 143.859 e nº 143.958) em virtude da necessidade de se respeitar os limites numérico e espacial da Câmara dos Deputados, bem como de se garantir aos demais cidadãos o direito de também acompanharem as atividades legislativas de seu interesse, impõe-se a limitação da ordem requerida.
+    Ante o exposto, indefiro o pedido de extensão da liminar.
+    Publique-se.
+    Brasília, 24 de maio de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
