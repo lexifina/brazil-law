@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98146, de 10 de maio de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 9019.10.00 Mercadoria: Aparelho vibrador elétrico portátil utilizado para estimulação sexual masculina utilizado no tratamento de disfunção erétil, constituído por corpo plástico, par de placas almofadadas e bateria recarregável de níquel com carregador. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 90.19) e RGI 6 (texto da subposição 9019.10.00), da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+Novo segmento
+[arquivo anexo: SC Cosit n° 98146-2017.pdf]
