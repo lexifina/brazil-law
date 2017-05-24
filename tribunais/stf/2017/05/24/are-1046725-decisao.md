@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal Regional Federal da 1ª Região, reformando o entendimento do Juízo, julgou improcedente o pedido de anulação do ato administrativo de suspensão de benefício previdenciário. No extraordinário cujo trânsito busca obter, a recorrente alega a violação do artigo 5º, incisos II, LIV e LV, da Constituição Federal. Entende contrariados o princípios do contraditório e da ampla defesa. Discorre acerca do tema de fundo, afirmando o preenchimento dos requisitos para a concessão do benefício.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    13. Na hipótese em apreço, não restou demonstrada a violação dos postulados do contraditório e da ampla defesa na fase inicial do processo, máxime porquanto a apelada, ao ser cientificada por meio do Ofício nº 172/2001/INSS/AUDBEN/MAOAPSJEQ acerca da instauração de procedimento administrativo com o fim de apurar a regularidade da concessão de seu benefício previdenciário, absteve-se de apresentar defesa escrita lhe facultada, limitando-se a fornecer a documentação de fls. 33/38, tempestivamente, a teor do consignado na decisão administrativa de fls. 39.
+    14. Assim dispunha o aludido expediente de intimação (fls. 32):
+    “(...)
+    Considerando o disposto no § 1º do artigo 179, do Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 06.05.99, bem como em respeito ao princípio sagrado do contraditório, concedemos a V.Sa. o prazo de 30 (trinta) dias corridos, a contar do recebimento deste, para apresentação de elementos em forma de defesa escrita, objetivando demonstrar a regularidade do benefício.
+    Comunicamos que, de acordo com o § 2º do artigo 179, do já referido Diploma Legal, o não cumprimento do disposto no item anterior acarretará na suspensão do benefício em epígrafe.
+    Esclarecemos que no prazo estipulado, V.Sa. poderá ter acesso ao processo com todas as suas peças, junto a esta Equipe de Auditoria, que se encontra instalada na Agência da Previdência Social localizada na Pça. Cel. João Borges s/n, Ed. Multicenter Cidade Sol – Centro Jequié/BA., sendo também este o endereço para apresentação de defesa.”
+    15. Nesse contexto, não prospera a assertiva de que o movimento paredista deflagrado pelos servidores da Autarquia Previdenciária no mês de agosto/2001 impossibilitou a entrada da apelada nas dependências da entidade e, por conseguinte, o exercício da ampla defesa. A conclusão que se obtém pela análise da referenciada documentação acostada a fls. 33/38 é diametralmente oposta, no sentido de que a apelada obteve acesso à repartição pública competente para recebimento de sua defesa, mas apenas apresentou cópia de sua CTPS e de certidão referente à lavratura de comunicação de furto em sua residência aos 11.02.2001.
+    16. Ainda mais corrobora o entendimento supra declinado o comunicado acostado a fls. 38, pelo qual é informado ao sindicato dos funcionários da empresa Embasa, categoria na qual se insere a apelada, que o atendimento a eles não sofreria solução de continuidade em decorrência da paralisação das atividades do INSS, restando possibilitada a apresentação de defesa e a obtenção de informações.
+    À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 24 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
