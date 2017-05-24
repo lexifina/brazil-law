@@ -1,0 +1,14 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração e de Juízo de retratação (art. 543-B, CPC/73) pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “PREVIDENCIÁRIO. DECADÊNCIA. QUESTÕES NÃO DEBATIDAS NO PROCESSO ADMINISTRATIVO DE CONCESSÃO. NÃO OCORRÊNCIA.
+    1. Nos termos do que decidido reiteradamente pela 2 º Turma do Superior Tribunal de Justiça (v.g., AgRg no REsp 1558259/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/11/2015), 'o prazo decadencial limita a possibilidade de controle de legalidade do ato administrativo, não pode atingir aquilo que não foi objeto de apreciação pela Administração'.
+    2. Tendo a administração previdenciária tomado conhecimento da especialidade de certos períodos somente quando do pedido de revisão administrativa, é partir daí que tem início o curso do prazo decadencial.”
+    O Instituto Nacional do Seguro Social – INSS, ao deduzir o recurso extraordinário em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, XXXVI, e 225, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o apelo extremo revela-se insuscetível de conhecimento.
+    Com efeito, a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Sendo assim, tendo em considerações as razões expostas, e considerando, ainda, a existência de precedente específico sobre a matéria ora em exame (RE 1.029.939/RS, Rel. Min. DIAS TOFFOLI), não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Assinalo, para efeito de mero registro, que fiquei vencido no julgamento ora mencionado, pois entendia que a ausência de contrarrazões recursais, por não implicar “trabalho adicional”, desautorizava a majoração da verba honorária.
+    Publique-se.
+    Brasília, 24 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
