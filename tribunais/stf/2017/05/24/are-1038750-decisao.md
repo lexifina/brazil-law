@@ -1,0 +1,10 @@
+Vistos etc.
+    As matérias restaram submetidas ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 662.423-RG e no RE 871.597-RG, cujas ementas cito, respectivamente:
+    "DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. APOSENTADORIA DE MEMBRO DO MINISTÉRIO PÚBLICO. IMPLEMENTAÇÃO DOS REQUISITOS ANTES DA ENTRADA EM VIGOR DA EMENDA CONSTITUCIONAL Nº 20/98. EXIGÊNCIA DE EFETIVO EXERCÍCIO DO CARGO EM QUE OCORRERÁ A APOSENTADORIA PELO PRAZO MÍNIMO DE CINCO ANOS. ANÁLISE DA ESTRUTURAÇÃO DE CARREIRA ESCALONADA EM CLASSES. MATÉRIA PASSÍVEL DE REPETIÇÃO EM INÚMEROS PROCESSOS, A REPERCUTIR NA ESFERA DE INTERESSE DE MILHARES DE SERVIDORES PÚBLICOS. TEMA COM REPERCUSSÃO GERAL.”
+    “DIREITO CONSTITUCIONAL. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ART. 1º-F DA LEI Nº 9.494/97 COM A REDAÇÃO DADA PELA LEI Nº 11.960/09”.
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 1.036 do CPC.
+    Devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 24 de maio de 2017.
+Ministra Rosa Weber
+Relatora
