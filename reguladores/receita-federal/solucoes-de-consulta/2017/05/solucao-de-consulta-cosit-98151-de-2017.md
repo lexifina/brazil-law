@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98151, de 11 de maio de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8479.90.90 Mercadoria: Parte de climatizadores de ar por evaporação de água utilizados em veículos automóveis para transporte de mercadorias, de plástico, para acoplamento na saída de ventilação, denominada aleta horizontal esquerda do difusor de ar; medindo 20cm x 5,5cm x 2,8cm e pesando 50g. DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 2 b) da Seção XVI e da posição 84.79), RGI 6 (texto da subposição 8479.90) e RGC 1 (texto do item 8479.90.90) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+Novo segmento
+[arquivo anexo: SC Cosit n° 98151-2017.pdf]
