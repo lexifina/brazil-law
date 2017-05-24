@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão da 5ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, que negou provimento ao recurso da União, assentando a impossibilidade de incidência do imposto de renda sobre rendimentos recebidos acumuladamente (eDOC 20).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição da República, aponta-se violação ao art. 146, III, “b”, do Texto Constitucional.
+    Nas razões recursais, sustenta-se o seguinte:
+    “De fato, a ação de repetição de indébito tributário é ação especial, prevista no Código Tributário Nacional, com natureza tributária, de forma regulada pelo mesmo diploma legal, ou seja, é necessária a edição de lei complementar para sua alteração, conforme o disposto no artigo 146, inciso III, alínea 'b' da CRFB.
+    Assim, o mero ajuizamento de medida cautelar de protesto não tem o condão de interromper o curso do prazo prescricional, tal como previsto no inciso I, do art. 168, do Código Tributário Nacional, em especial diante das normas veiculadas nos arts. 3° e 4°, da Lei Complementar n° 118, de 2005.”
+    A Presidência das Turmas Recursais do Rio Grande do Sul inadmitiu o recurso extraordinário, por ausência de questão constitucional.
+    É o relatório.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem:
+    “Com esse entendimento, tornou-se completamente irrelevante a discussão acerca da configuração, ou não, de homologação expressa, pois isso em nada influenciará na definição ou na contagem do prazo prescricional.
+    No entanto, caso tenha havido a retenção na fonte e o imposto recolhido esteja sujeito ao ajuste anual, nos termos do item 27, alínea 'd', do Parecer Normativo nº 6º da Receita Federal, disponibilizado no DOU de 05/08/2014, o prazo prescricional de 5 (cinco) anos que o contribuinte possui para pleitear a restituição do IRRF sujeito ao ajuste anual, relativo a rendimento posteriormente considerado isento ou não tributável, tem como termo inicial o dia 31 de dezembro do ano-calendário em que ocorreu a retenção, data do fato gerador do IRPF.
+    Além disso, o Superior Tribunal de Justiça já assentou entendimento no sentido de que o contribuinte pode se valer de ação cautelar de protesto a fim de interromper o prazo prescricional para postulação de repetição de indébito tributário, por uma questão de isonomia em relação à Fazenda Pública, à qual essa faculdade é garantida expressamente no artigo 174, II, do Código Tributário Nacional.”
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente, notadamente o CTN e a Lei Complementar 118/2005. Desse modo, a discussão referente aos marcos prescricionais revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Confiram-se, a propósito, os seguintes julgados:
+    “EMBARGOS DE DECLARAÇÃO. DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. PRESCRIÇÃO. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXVI E LV, DA CONSTITUIÇÃO FEDERAL. ATO JURÍDICO PERFEITO, COISA JULGADA E DIREITO ADQUIRIDO. CONTRADITÓRIO E AMPLA DEFESA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. OMISSÃO INOCORRENTE. CARÁTER INFRINGENTE. DECLARATÓRIOS OPOSTOS SOB A VIGÊNCIA DO CPC/2015. 1. Não se prestam os embargos de declaração, não obstante sua vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas no acórdão embargado. 2. Ausente omissão justificadora da oposição de embargos declaratórios, nos termos do art. 1022 do CPC, a evidenciar o caráter meramente infringente da insurgência. 3. Considerando o caráter protelatório dos embargos, aplico multa de 2% (dois por cento) sobre o valor da causa (art. 1026, § 2º do CPC de 2015). 4. Embargos de declaração rejeitados.”
+(ARE 935095 AgR-ED, Rel. Min. ROSA WEBER, Primeira Turma, DJe 14.12.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. SÚMULAS Nº 282 E Nº 356 DO STF. AGRAVO REGIMENTAL DESPROVIDO.”
+(ARE 728814 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 27.09.2016)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 24 de maio de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
