@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – ATIVIDADES EXERCIDAS EM CONDIÇÕES DE RISCO OU INSALUBRES – APOSENTADORIA ESPECIAL – SERVIDOR PÚBLICO – ARTIGO 40, § 4º, DA CONSTITUIÇÃO FEDERAL – INEXISTÊNCIA DE LEI COMPLEMENTAR – MORA LEGISLATIVA – PRECEDENTES DO PLENÁRIO – AGRAVO DESPROVIDO.
+    1. A Turma Recursal, reformando o entendimento do Juízo, julgou procedente o pedido pedido de reconhecimento de tempo de serviço prestado em condições insalubres, visando à concessão de abono de permanência, considerada a omissão legislativa em relação à aposentadoria especial de servidor público. No extraordinário cujo processamento busca alcançar, a recorrente aponta a violação do artigo 40, parágrafos 10º e 19, da Constituição Federal, e verbete vinculante nº 33 da Súmula do Supremo. Afirma a inexistência do direito pleiteado, arguindo a falta de regulamentação do dispositivo constitucional.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. O Plenário, na sessão realizada em 30 de agosto de 2007, concedeu, à unanimidade, a ordem no mandado de injunção nº 721-7/DF, da minha relatoria, reconhecendo a omissão legislativa em razão da inexistência de lei viabilizadora de aposentadoria em atividade realizada sob condições especiais. Assentou que, ante a mora legislativa, há de ser adotado o sistema revelado pelo Regime Geral de Previdência Social, previsto no artigo 57 da Lei nº 8.213, de 24 de julho de 1991. Eis a síntese do julgado:
+    MANDADO DE INJUNÇÃO – NATUREZA. Conforme disposto no inciso LXXI do artigo 5º da Constituição Federal, conceder-se-á mandado de injunção quando necessário ao exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Há ação mandamental e não simplesmente declaratória de omissão. A carga de declaração não é objeto da impetração, mas premissa da ordem a ser formalizada.
+    MANDADO DE INJUNÇÃO - DECISÃO - BALIZAS. Tratando-se de processo subjetivo, a decisão possui eficácia considerada a relação jurídica nele revelada.
+    APOSENTADORIA - TRABALHO EM CONDIÇÕES ESPECIAIS - PREJUÍZO À SAÚDE DO SERVIDOR - INEXISTÊNCIA DE LEI COMPLEMENTAR - ARTIGO 40, § 4º, DA CONSTITUIÇÃO FEDERAL. Inexistente a disciplina específica da aposentadoria especial do servidor, impõe-se a adoção, via pronunciamento judicial, daquela própria aos trabalhadores em geral - artigo 57, § 1º, da Lei nº 8.213/91.
+    Nesse mesmo sentido são os seguintes precedentes:
+    DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE INJUNÇÃO. SERVIDORA PÚBLICA. ATIVIDADES EXERCIDAS EM CONDIÇÕES DE RISCO OU INSALUBRES. APOSENTADORIA ESPECIAL. § 4º DO ARTIGO 40 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE LEI COMPLEMENTAR. MORA LEGISLATIVA. REGIME GERAL DA PREVIDÊNCIA SOCIAL.
+    1. Ante a prolongada mora legislativa, no tocante à edição da lei complementar reclamada pela parte final do § 4º do artigo 40 da Magna Carta, impõe-se ao caso a aplicação das normas correlatas previstas no artigo 57 da Lei nº 8.213/91, em sede de processo administrativo.
+    2. Precedente: MI 721, da relatoria do Ministro Marco Aurélio.
+    3. Mandado de injunção deferido nesses termos.
+    (mandado de injunção nº 788/DF, relator ministro Carlos Ayres Britto, Tribunal Pleno, acórdão publicado no Diário da Justiça de 8 de maio de 2009)
+    MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DO SERVIDOR PÚBLICO. ARTIGO 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE LEI COMPLEMENTAR A DISCIPLINAR A MATÉRIA. NECESSIDADE DE INTEGRAÇÃO LEGISLATIVA.
+    1. Servidor público. Investigador da polícia civil do Estado de São Paulo. Alegado Exercício de atividade sob condições de periculosidade e insalubridade.
+    2. Reconhecida a omissão legislativa em razão da ausência de lei complementar a definir as condições para o implemento da aposentadoria especial.
+    3. Mandado de injunção conhecido e concedido para comunicar a mora à autoridade competente e determinar a aplicação, no que couber, do artigo 57 da Lei nº 8.213/91.
+    (mandado de injunção nº 795/DF, relatora ministra Cármen Lúcia, Tribunal Pleno, acórdão publicado no Diário da Justiça de 22 de maio de 2009)
+    Percebam não ter havido o reconhecimento de direito adquirido ao regime jurídico da Lei nº 8.213/91, mas a supressão da lacuna jurídica se e enquanto ela persistir. A superveniência de legislação que verse critérios diferenciados – melhores ou piores – conduzirá à modificação da regra aplicável.
+    4. Ante os referidos pronunciamentos, desprovejo o agravo. Deixo de majorar os honorários previsto no artigo 85, § 11 do Código de Processo Civil de 2015, considerada a ausência de fixação na origem, descabendo, portanto, a referida condenação.
+    5. Publiquem.
+Brasília, 25 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
