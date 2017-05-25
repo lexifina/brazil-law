@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão em que se negou seguimento a recurso extraordinário, sob o fundamento de que incide, na espécie, a Súmula 281/STF.
+    O agravo não merece acolhida, dado que o recorrente deixou de atacar o fundamento da decisão agravada, o que atrai a incidência da Súmula 287/STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+     “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO”. (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    Ainda que superado esse óbice, o extraordinário não prosperaria.
+    Isso porque, nos termos do art. 102, III, a, da Constituição Federal, admite-se o recurso extraordinário contra decisão de única ou de última instância. No presente caso, constata-se que não foram esgotadas as vias recursais ordinárias, uma vez que, contra o acórdão não unânime alusivo ao julgamento da apelação, ainda seriam cabíveis embargos infringentes, nos termos do art. 609, parágrafo único, do CPP. Incide, no caso, a Súmula 281 desta Corte.
+    Nessa linha, menciono as seguintes decisões, entre outras: RE 613.309/SC, de minha relatoria; AI 819.003/ES, Rel. Min. Cármen Lúcia; ARE 821.149/DF, Rel. Min. Luiz Fux; ARE 791.170/DF e ARE 807.772/SP, Rel. Min. Gilmar Mendes.
+    No mais, quanto à matéria de fundo do recurso extraordinário, observo que a jurisprudência desta Corte é no sentido da impossibilidade de fixação da pena abaixo do mínimo legal por força de circunstância atenuante genérica. Esse entendimento foi consolidado no julgamento do RE 597.270 QO-RG/RS (Tema 158), da relatoria do Ministro Cezar Peluso, cuja ementa segue transcrita:
+    “AÇÃO PENAL. Sentença. Condenação. Pena privativa de liberdade. Fixação abaixo do mínimo legal. Inadmissibilidade. Existência apenas de atenuante ou atenuantes genéricas, não de causa especial de redução. Aplicação da pena mínima. Jurisprudência reafirmada, repercussão geral reconhecida e recurso extraordinário improvido. Aplicação do art. 543-B, § 3º, do CPC. Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
