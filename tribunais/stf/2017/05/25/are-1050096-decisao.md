@@ -1,0 +1,24 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “AÇÃO ANULATÓRIA - IPTU - MUNICÍPIO DE SÃO JOÃO DEL REI - LEI N. 4.492/10 - INCONSTITUCIONALIDADE AFASTADA PELO ÓRGÃO ESPECIAL - VALIDADE DA MAJORAÇÃO. ‘Nos Municípios que não possuem órgão de imprensa oficial, é válida a publicação das leis e dos atos administrativos da municipalidade através da afixação em quadro de avisos na sede de prefeitura ou da Câmara Municipal. Inteligência do art. 1.º da Lei de Introdução às Normas do Direito Brasileiro’ (Arg Inconstitucionalidade n. 1.0625.11.007986-4/004). Declarado, pelo Órgão Especial a validade da Lei Municipal n. 4.492/2010 de São João Del Rei deve ser aplicada a majoração do IPTU instituída pelo referido diploma. Caráter vinculante do incidente” (pág. 288 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, I, XXII, e LIV; 150, II e IV; e 170, II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Supremo Tribunal Federal firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria em acórdão assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Além disso, o Tribunal de origem decidiu a questão posta nos autos com base nos seguintes fundamentos:
+    “O Órgão Especial entendeu, por maioria, que a certidão de f. 129 demonstrou a publicação do diploma legislativo impugnado na sede da Prefeitura, o que seria suficiente para conferir publicidade à Planta de Valores do IPTU.
+    Da mesma forma, entendeu que seria ônus do contribuinte comprovar, de forma insofismável e robusta, que o valor venal atribuído aos imóveis é superior ao valor de mercado, o que não se verificou” (pág. 292 do documento eletrônico 1).
+    Assim, para dissentir da conclusão adotada pelo Tribunal de origem e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório constante dos autos, bem como seria imprescindível a interpretação da legislação infraconstitucional local aplicável à espécie (Lei Municipal 4.492/2010), o que é vedado pelas Súmulas 279 e 280 desta Corte. Incabível, portanto, o recurso extraordinário. Nesse sentido, destaco julgados deste Tribunal cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IPTU. EXIGIBILIDADE DA EXAÇÃO. PUBLICAÇÃO DE PLANTAS GENÉRICAS. BASE DE CÁLCULO. RECURSO POSTERIOR AO ADVENTO DO CPC/15.
+    1. A controvérsia relativa à publicidade da planta de valores tomadas como base de cálculo do IPTU cinge-se ao âmbito infraconstitucional. Súmulas 279 e 280 do STF.
+    2. Majoração em ¼ (um quarto) dos honorários fixados anteriormente. Art. 85, §11, do CPC.
+    3. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC” (ARE 990.063-AgR/SP, Rel. Min. Edson Fachin).
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. COBRANÇA DE IPTU MEDIANTE A PRETENSA AUSÊNCIA DE PUBLICAÇÃO DAS PLANTAS GENÉRICAS DE VALORES. SÚMULA 279/STF. PRECEDENTES.
+    1.  Nos termos da jurisprudência da Corte, a controvérsia relativa à cobrança de IPTU com base na ausência de publicação da planta de valores demanda o reexame de provas. Mostra-se aplicável, no caso, o óbice da Súmula 279/STF.
+    2.  Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF).
+    3.  Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (RE 985.899-AgR/MG, Rel. Min. Roberto Barroso).
+    Especificamente sobre o caso, cito o julgamento do RE 924.754/MG, de relatoria do Ministro Edson Fachin.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
