@@ -1,0 +1,21 @@
+DECISÃO
+PENA – REGIME DE CUMPRIMENTO – CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS – ARTIGO 33, § 3º, DO CÓDIGO PENAL.
+PENA – CAUSA DE DIMINUIÇÃO – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Vara Criminal da Comarca de Olímpia/SP, no processo nº 0005226-62.2014.8.26.0400, condenou o paciente a 2 anos e 6 meses de reclusão, em regime fechado, e ao pagamento de 250 dias-multa, em virtude do cometimento da infração descrita no artigo 33, cabeça e § 4º (tráfico de drogas com causa de diminuição de pena), da Lei nº 11.343/2006. Interposta apelação pela defesa, a Sexta Câmara de Direito Criminal desproveu-a.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 383.874/SP. O impetrante pleiteou o afastamento do caráter hediondo do delito, a redução da pena e o estabelecimento do regime aberto para início do cumprimento da sanção. A Presidente, ministra Laurita Vaz, deferiu parcialmente o pedido de concessão de liminar, para estabelecer o semiaberto. Assentou existirem circunstâncias judiciais desfavoráveis – quantidade e qualidade da droga –, a justificarem a imposição do regime mais grave do que o previsto, considerada a pena aplicada. Afastou a hediondez do delito, ante a incidência da causa especial de diminuição versada no § 4º do artigo 33 da Lei nº 11.343/2006, reportando-se ao julgamento, pelo Pleno do Supremo, do habeas corpus nº 118.533 e à jurisprudência do próprio Tribunal.
+    O impetrante diz ser o caso de superação do verbete nº 691 da Súmula do Supremo. Alude à inobservância dos de nº 718 e nº 719. Alega erronia na fixação do regime semiaberto no Superior Tribunal de Justiça. Sustenta viável o aberto, presente o reconhecimento, nas instâncias anteriores, das condições pessoais favoráveis – primariedade, bons antecedentes e pequena quantidade de entorpecente (7,32 gramas de cocaína).
+    Requer, em âmbito liminar, seja reduzida a sanção e alterado o regime para o aberto. No mérito, pede a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, realizada em 25 de maio último, revelou estarem pendentes de julgamento os embargos de declaração interpostos em face do acórdão relativo à apelação.
+    No Superior Tribunal de Justiça, o relator, ministro Felix Fischer, inadmitiu o habeas de nº 383.874/SP, dizendo-o substitutivo de recurso ordinário. Deferiu a ordem de ofício, para, confirmando a liminar implementada, estabelecer o regime semiaberto para o início do cumprimento da pena. Ressaltou não haver ilegalidade na escolha do patamar de 1/2 para redução da sanção.
+    A fase é de apreciação da medida acauteladora.
+    2. O Juízo, na sentença, fixou a pena-base em 7 anos e 6 meses de reclusão – 1/2 acima do mínimo previsto para o tipo –, aludindo à culpabilidade, à conduta social, às consequências do delito e à quantidade e qualidade da droga apreendida. Levando em conta ser o agente menor de 21 anos na data do fato, diminuiu a sanção em 1/3. Assentou o cabimento da causa de redução versada no artigo 33, § 4º, da Lei nº 11.343/2006, que fez incidir considerado o percentual de 1/2. Impôs a pena definitiva em 2 anos e 6 meses. Impôs o regime inicial fechado, apontando a existência de circunstâncias judiciais desfavoráveis e a hediondez do tráfico de drogas. O Superior Tribunal de Justiça, afastando o caráter hediondo do delito, deferiu parcialmente a ordem para estabelecer o regime semiaberto, consignando, no mais, o acerto na dosimetria da pena.
+    Observado o disposto no artigo 33, § 3º, do Código Penal, no que remete às circunstâncias judiciais a definição do regime de cumprimento da sanção, não há relevância suficiente no pleito de implemento da liminar quanto à alteração para o aberto.
+    No tocante ao pedido de redução da pena, percebam que o § 4º do artigo 33 da Lei de Tóxicos não prevê os dados a serem considerados para efeito de fixação do percentual alusivo à causa de diminuição. De regra, a sanção é estabelecida sob o ângulo do justo ou injusto, descabendo generalizar o instituto da ilegalidade.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 25 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
