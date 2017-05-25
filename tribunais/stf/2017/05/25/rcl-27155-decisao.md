@@ -1,0 +1,18 @@
+DECISÃO
+RECLAMAÇÃO. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL RECONHECIDA NA SISTEMÁTICA DA REPERCUSSÃO GERAL (TEMA 800). SOBRESTAMENTO DO RECURSO EXTRAORDINÁRIO REMETIDO AO ÓRGÃO JULGADOR DE ORIGEM: INOCORRÊNCIA. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Reclamação, com requerimento de medida liminar, ajuizada em 23.5.2017 por Rodrigo Pardal Clemente contra decisão proferida pelo Juizado Especial Cível do Foro Regional de São Miguel Paulista/SP, que teria descumprido decisão no ARE n. 1.012.750/SP, pela qual determinei, com fundamento na al. c do inc. I do art. 13 do Regimento Interno do Supremo Tribunal Federal, a devolução do processo “para observância dos procedimentos previstos nos arts. 1.036, caput e § 1º, 1.039, caput e parágrafo único, e 1.040 do Código de Processo Civil, anterior art. 543-B do Código de Processo Civil/1973” (DJe 21.3.2017).
+    2. O Reclamante alega ter o juízo reclamado determinado “o prosseguimento do feito, mantendo o indeferimento da gratuidade processual, mesmo essa pendente de decisão pelo STF através do Recurso Extraordinário” (fl. 14, e-doc. 1).
+    Argumenta não ter havido “manifestação acerca do deferimento ou não da gratuidade pelo STF, contudo, a Nobre Ministra mandou os autos retornarem ao Tribunal de origem com a suspensão, fato esse não atendido pelo Juiz Reclamado de primeiro grau” (fl. 15).
+    Sustenta que, “Caso seja mantida a decisão ‘a quo’, o processo entrará em execução de sentença, o que prejudicara o pedido de gratuidade de justiça que fora requerida ao Egrégio Supremo Tribunal Federal com elementos Constitucionais elencados no artigo 5º, LXXIV, CF/88, e Lei Federal 1.060/50, o que remete a matéria de mérito ao julgamento pela Suprema Corte, já que não reconhecida pelas instâncias inferiores, assim sendo, requer o deferimento da gratuidade de justiça, ou o escorreito pronunciamento através do Recurso Extraordinário pendente de decisão” (fl. 15).
+    Examinados os elementos havidos nos autos, DECIDO.
+    3. Razão jurídica não assiste ao Reclamante.
+    4. O recurso extraordinário com agravo no qual proferida a decisão que se alega descumprida foi devolvido ao juízo de origem pela natureza infraconstitucional da questão nele suscitada (Tema 800), consubstanciada na concessão do benefício da justiça gratuita previsto na Lei n. 1.060/1950. Nessa linha:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. GRATUIDADE DA JUSTIÇA. BENEFÍCIO CONCEDIDO COM BASE NA LEI Nº 1.060/50. OFENSA INDIRETA. REEXAME DE FATOS E PROVAS. 1. Controvérsia acerca da concessão do benefício da justiça gratuita, com fundamento na Lei nº 1.060/50. Circunstância em que eventual ofensa à Constituição Federal ocorreria de forma indireta. 2. A reforma do acórdão recorrido depende do reexame da matéria fático-probatória. Incidência do óbice da Súmula 279- STF. Agravo regimental a que se nega provimento”(Agravo Regimental no Agravo de Instrumento n. 338.101/RS, Relator o Ministro Maurício Corrêa, Segunda Turma, DJ 15.2.2002).
+    Diferente do alegado pelo Reclamante, não há, nessa situação, sobrestamento do recurso extraordinário, pois a matéria nele versada já teve a apreciação recusada por este Supremo Tribunal Federal.
+    Não há cogitar-se de descumprimento da decisão pela qual aplicada a orientação firmada no Tema 800 da repercussão geral.
+    5. Pelo exposto, nego seguimento à presente reclamação (art. 13, inc. VIII, c/c art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal), prejudicado, por óbvio, o requerimento de medida liminar.
+    Publique-se.
+    Brasília, 25 de maio de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
