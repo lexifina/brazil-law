@@ -1,0 +1,18 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra decisão do Ministro Joel Ilan Paciornik do Superior Tribunal de Justiça – STJ, que indeferiu liminarmente o HC 389.023/SP (documento eletrônico 8).
+    Consta dos autos que o paciente foi preso em flagrante pela suposta prática do crime de posse ou porte ilegal de arma de fogo de uso restrito (art. 16 da Lei 10.826/2003). Em audiência de custódia, o flagrante foi convertido em prisão preventiva (documentos eletrônicos 2 e 3). Ato contínuo, o paciente foi denunciado pela conduta descrita no art. 16, parágrafo único, IV, do Estatuto do Desarmamento (documento eletrônico 4).
+    Questionando a custódia cautelar, a defesa manejou habeas corpus no Tribunal de Justiça do Estado de São Paulo – TJSP, oportunidade em que o Desembargador Relator indeferiu o pedido de liminar (documento eletrônico 5). Inconformada, impetrou novo HC no Superior Tribunal de Justiça, mas, desta feita, o writ foi indeferido liminarmente por aplicação da Súmula 691/STF (documento eletrônico 8).
+    É contra essa última decisão que se insurge o impetrante neste habeas corpus.
+    Assevera, inicialmente, que há equívoco na afirmação de que o paciente encontrava-se em liberdade condicional quando da prática delituosa, uma vez que “ele nunca cumpriu pena alguma, não haveria como estar ele em gozo de benefício executório, se nunca teve qualquer pena executada” (fls. 5-6 da petição inicial).
+    Sustenta, em seguida, que, ao contrário do que decidido, “a segregação acautelatória do Paciente carece de fundamentação e revela flagrante ilegalidade a ser sanada via ordem de habeas corpus” (fl. 8 da petição inicial).
+    Argumenta, ademais, que “o Paciente possui ocupação lícita e residência fixa, o que, como prova, acosta-se, a ofuscar, pois, quaisquer dos parâmetros da segregação cautelar prevista no art. 312 da Legislação Adjetiva Penal […]” (fl. 8 da petição inicial).
+    Requer, liminarmente, a imediata expedição de alvará de soltura em favor do paciente (fl. 15 da petição inicial). No mérito, pede a revogação definitiva do decreto prisional, permitindo que o paciente responda à ação penal em liberdade, com ou sem imposição de medidas cautelares alternativas à prisão (fl. 16 da petição inicial).
+    É o relatório necessário. Decido.
+    A presente impetração volta-se contra decisão de Ministro do Superior Tribunal de Justiça que, aplicando o enunciado da Súmula 691/STF, indeferiu liminarmente o HC 389.023/SP. Essa decisão transitou em julgado em 14/3/2017 (dado obtido no sítio eletrônico do STJ).
+    Desse modo, este pleito não merece seguimento, sob pena de indevida supressão de instância e de extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o seguimento do habeas corpus nesta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Ante esse quadro, é de todo conveniente aguardar o pronunciamento definitivo do Tribunal de Justiça do Estado de São Paulo, não sendo a hipótese de se abrir, neste momento, a via de exceção.
+    Isso posto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 25 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
