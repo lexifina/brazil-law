@@ -1,0 +1,12 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal Superior do Trabalho, está assim ementado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA INTERPOSTO ANTES DA LEI Nº 13.015/2014. 1) COMPETÊNCIA RESIDUAL DA JUSTIÇA DO TRABALHO. MUDANÇA DE REGIME JURÍDICO 2) FORMA DE EXECUÇÃO CONTRA A FAZENDA PÚBLICA. 3) HONORÁRIOS ADVOCATÍCIOS. Uma vez que não foram atendidos os pressupostos intrínsecos de admissibilidade do agravo de instrumento, seu não provimento é medida que se impõe. Agravo de instrumento não provido.”
+    O Município de Barras, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 114, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, ao julgar o ARE 1.001.075-RG/PI, Rel. Min. GILMAR MENDES, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa, e, na mesma oportunidade, reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+    “Recurso extraordinário. Repercussão geral. 2. Competência da Justiça do Trabalho. Mudança de regime jurídico. Transposição para o regime estatutário. Verbas trabalhistas concernentes ao período anterior. 3. Compete à Justiça do Trabalho processar e julgar ações relativas às verbas trabalhistas referentes ao período em que o servidor mantinha vínculo celetista com a Administração, antes da transposição para o regime estatutário. 4. Recurso não provido. Reafirmação de jurisprudência.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu – e reafirmou – na matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 25 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
