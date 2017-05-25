@@ -1,0 +1,30 @@
+Trata-se de recurso ordinário em habeas corpus, sem pedido de liminar, interposto por Albaniso Carneiro, contra decisão monocrática da lavra do Ministro Rogerio Schietti Cruz, do Superior Tribunal de Justiça que indeferiu liminarmente o HC 376.655/CE.
+    O Recorrente foi condenado às penas de 14 (quatorze) anos, 1 (um) mês e 22 (vinte e dois) dias de reclusão, em regime inicial fechado, pela prática dos crimes de organização criminosa e lavagem de dinheiro ( art. 2º, caput, § 2º, da Lei 12.850/2013 e art. 1º da Lei 9.613/1998). Naquela oportunidade, o magistrado de primeiro grau negou o direito de Albaniso Carneiro recorrer em liberdade.
+    A Defesa, ao argumento da ilegalidade da prisão preventiva, impetrou habeas corpus perante o Tribunal de Justiça do Estado do Ceará, que indeferiu a liminar.
+    Submetida a questão à apreciação do Superior Tribunal de Justiça, o Ministro Rogério Schietti Cruz, via decisão monocrática, indeferiu liminarmente o writ.
+    Não há pedido liminar.
+    No presente recurso ordinário, a Defesa aduz, em síntese, falta de fundamentação idônea do decreto prisional. Requer a revogação da prisão preventiva do Recorrente.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...).
+    Inicialmente, destaco que as matérias aventadas nesta ordem de habeas corpus não foram objeto de análise pelo Tribunal a quo, ficando, assim, impedida sua admissão, sob pena de indevida supressão de instância.
+    Nesse sentido é o disciplinamento do enunciado da Súmula n. 691 do Supremo Tribunal Federal: "não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do relator que, em 'habeas corpus' requerido a Tribunal Superior, indefere a liminar".
+    O referido impeditivo é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade não escapa à pronta percepção do julgador, o que não ocorre na hipótese vertente.
+    (…).
+    Com efeito, verifico que o Magistrado, ao decretar a prisão preventiva da paciente na sentença, destacou concretamente a periculosidade do grupo, com informações sobre o planejamento feito de dentro do presídio para o assassinato da Juíza titular da 2ª Vara Criminal de Caucaia, bem como acerca de plano de corrupção de delegados, membros do MPE e servidores do Judiciário e do Detran de Maraponga. Foi consignado, também, que as atividades do grupo permaneceram após as prisões, o que demonstraria a necessidade da custódia dos acusados, embora não se tenha feito particular destaque à paciente nesse trecho da sentença.
+    Além disso, a defesa não comprova a gravidade de eventual doença sofrida pelo paciente, a ponto de necessitar de tratamento específico. A idade do acusado, por si só, não é elemento apto a permitir a concessão de medida cautelar diversa.
+    Verifico, quanto ao pedido de extensão da liminar concedida à corré Priscila Castro Barroso, que o acusados não se encontram na mesma situação fática, a justificar a incidência do art. 580 do Código de Processo Penal. Isso porque a colocação da mencionada acusada em prisão domiciliar deu-se em decorrência da nova redação imprimida ao art. 318 do Código de Processo Penal – que passou a prever a possibilidade de prisão domiciliar à mulher com filho de até 12 anos de idade incompletos (inciso V) –, aliada às particularidades dentro da organização criminosa a ela referentes.
+    Assim, não identifico flagrante constrangimento ilegal ou qualquer mácula no decisum monocrático que justifique a intervenção imediata e prematura desta Corte Superior de Justiça.
+    À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.”
+    Registro que há obstáculo à admissibilidade do presente recurso, porquanto não exaurida a jurisdição do Superior Tribunal de Justiça.
+    Na dicção do art. 102, II, a, da Constituição Federal, compete ao Supremo Tribunal Federal julgar, em recurso ordinário, o habeas corpus decidido em única instância pelos Tribunais Superiores, se denegatória a decisão.
+    O ato impugnado na presente via é mera decisão monocrática e não o resultado de julgamento colegiado do Superior Tribunal de Justiça. Deveria, pretendendo a Defesa a reforma da decisão monocrática, ter interposto o pertinente agravo regimental para que a questão fosse apreciada pelo órgão colegiado. Não o fazendo, inadmissível o presente recurso ordinário.
+    Em relação ao tema, a jurisprudência desta Suprema Corte assenta que “não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça” (RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011) e que “A carência de exaurimento da jurisdição no âmbito do Tribunal a quo, configurada pela não interposição de agravo regimental da decisão monocrática que negou seguimento ao writ, também configura óbice ao conhecimento do presente recurso, por inobservância ao princípio da colegialidade insculpido no artigo 102, inciso II, alínea a, da Constituição Federal” (RHC 111.935/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 30.9.2013). Outros julgados: RHC 114.961/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.8.2013; RHC 115492-EDcl/PE, Rel. Min. Dias Toffoli, 1ª Turma, DJe 28.8.2013.
+    Por outro lado, em consulta ao sítio eletrônico do Tribunal de Justiça do Estado do Ceará, verifico, que, em 09.11.2016, sobreveio julgamento de mérito do HC 0626164-52.2016.8.06.0000, pela denegação da ordem.
+    A superveniência de decisão de mérito exarada pela Corte Estadual passou a constituir o novo título, a desafiar nova impetração no Superior Tribunal de Justiça. Em tal hipótese, a jurisprudência desta Suprema Corte orienta no sentido do prejuízo da impetração (a superveniência do julgamento do mérito do habeas corpus impetrado no tribunal de segundo grau prejudica a análise da impetração - HC 123.431/RJ, Rel. p/ acórdão Min. Roberto Barroso, 1ª Turma, DJe 06.02.2015).
+    Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de maio de 2017.
+Ministra Rosa Weber
+Relatora
