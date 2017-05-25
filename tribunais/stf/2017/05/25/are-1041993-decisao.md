@@ -1,0 +1,31 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Sulamita Einecke Zago contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS DE TERCEIRO. JULGAMENTO CONJUNTO DOS RECURSOS NºS 70060763224 E 70060762648. EMBARGOS DE TERCEIRO OPOSTOS PELO ESPÓLIO EM FACE DA EXECUÇÃO EM QUE ERA PARTE O DE ‘CUJUS’.
+    Ilegitimidade ativa do espólio, que não é terceiro na execução. Manejo de embargos de devedor em que examinada a matéria relativa à impenhorabilidade. Extinção.
+    Embargos de terceiro opostos pela executada. Alegação de impenhorabilidade. Questão de ordem pública que viabiliza o conhecimento da matéria.
+    Imóvel urbano oferecido em garantia real (hipoteca), em cédula rural pignoratícia, para financiamento de lavoura de arroz da família. Impenhorabilidade afastada, nos termos do disposto no art. 3º, inc. V, da Lei 8.009/90. Prova dos autos que demonstra que se tratou de dívida contraída em benefício da família.
+    Nulidade da hipoteca em razão do vício de consentimento. Nulidade relativa. Questão preclusa, que deveria ter sido suscitada nos autos da execução.
+    ILEGITIMIDADE ATIVA DO ESPÓLIO RECONHECIDA DE OFÍCIO. APELAÇÃO Nº 70060763224 PREJUDICADA. APELAÇÃO Nº 70060762648 DESPROVIDA.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido diversos preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    Cumpre ressaltar, desde logo, que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Impende registrar, ainda, no tocante ao fundo da controvérsia, que a suposta ofensa ao texto constitucional, caso existente, também apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 8.009/90), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Cabe acentuar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impõe-se observar, finalmente, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos por ambas as Turmas desta Suprema Corte (ARE 992.200/RO, Rel. Min. LUIZ FUX – ARE 1.006.802/SP, Rel. Min. GILMAR MENDES, v.g.):
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil e Processual Civil. 3. Impenhorabilidade. Bem de família. Matéria infraconstitucional. Necessidade do revolvimento do conjunto fático-probatório. Súmula 279. 4. Ausência de fundamentação do acórdão recorrido. Improcedência. AI-QO-RG 791.292. 5. Violação aos princípios do contraditório, da ampla defesa e do devido processo legal. Ofensa reflexa. ARE-RG 748.371. 6. Agravo regimental a que se nega provimento.”
+    (ARE 938.173-AgR/RS, Rel. Min. GILMAR MENDES)
+    “DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. EMBARGOS À EXECUÇÃO. PENHORA. BEM DE FAMÍLIA. FRAUDE À EXECUÇÃO. CONTROVÉRSIA QUE DEMANDA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF.
+    1. A solução da controvérsia demanda análise da legislação infraconstitucional pertinente e a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal.
+    2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    3. Agravo interno a que se nega provimento.“
+    (ARE 962.548-AgR/SP, Rel. Min. ROBERTO BARROSO)
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Cumpre referir, finalmente, que não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 25 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
