@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Rondônia, confirmando o entendimento do Juízo, assentou demonstrado o erro nas informações e no recolhimento referente ao Imposto sobre Circulação de Mercadorias e Serviços - ICMS. Concluiu pela responsabilidade solidária da recorrente enquanto substituta tributária. A recorrente, em extraordinário cujo trânsito busca alcançar, sustenta violado o artigo 155, § 2º, inciso X, alínea “b” e § 5º, da Carta Maior. Alega ser responsabilidade da distribuidora de combustíveis a prestação das informações exigíveis para o efetivo recolhimento do imposto devido na operação interestadual. Articula com a ausência de regramento quanto à definição dos contribuintes do tributo sob exame no ramo da distribuição de combustíveis à época das operações em questão.
+    O articulado em extraordinário não merece prosperar. Colho do acórdão recorrido o seguinte trecho:
+    Neste caso, a apelante atribui culpa à distribuidora Petro-Amazon, por não ter prestado a informação correta sobre os percentuais de ICMS a serem repassados ao Estado de Rondônia, imputando-lhe a responsabilidade pelo pagamento da diferença constante no auto de infração emitido por este ente público.
+    Inicialmente, convém lembrar que o substituto, embora não tenha realizado o fato imponível, é posto pela lei na posição de verdadeiro sujeito passivo da obrigação tributária, respondendo integralmente pelo adimplemento do débito tributário e obrigações acessórias (deveres instrumentais tributários) do contribuinte.
+    Ao contribuinte (distribuidora), em se tratando de recolhimento de ICMS nas operações de combustível, recai o dever de informar os dados relativos à cada operação, de modo a possibilitar o reconhecimento do Estado destinatário e o consequente cálculo e repasse do tributo já recolhido. O descumprimento desta obrigação, no entanto, leva à responsabilização solidária do substituído pelo ônus decorrente da ausência do repasse.
+    Em suma, o que se tem é que a responsabilidade da distribuidora é solidária em relação à responsabilidade da refinaria, fator que afasta a alegação de responsabilidade exclusiva da empresa Petro-Amazon, mantendo-se a obrigação imposta à Petrobras no auto de infração, que, caso queira, poderá posteriormente pleitear ressarcimento da Petro-Amazon, em ação de regresso.
+    O acórdão impugnado revela interpretação de normas estritamente legais, considerada a responsabilização solidária da recorrente, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 25 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
