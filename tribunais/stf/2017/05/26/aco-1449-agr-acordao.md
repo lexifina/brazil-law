@@ -1,0 +1,399 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 9
+
+26/05/2017
+
+PLENÁRIO
+
+AG.REG. NA AÇÃO CÍVEL ORIGINÁRIA 1.449 MARANHÃO
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. RICARDO LEWANDOWSKI
+: ESTADO DO MARANHÃO
+: PROCURADOR-GERAL
+DO
+ESTADO
+MARANHÃO
+: UNIÃO (CONVÊNIO Nº SEP/001/2007)
+: ADVOGADO -GERAL DA UNIÃO
+
+DO
+
+Ementa: AGRAVO REGIMENTAL EM AÇÃO CÍVEL ORIGINÁRIA.
+INSCRIÇÃO DE ESTADO-MEMBRO NO SIAFI/CAUC. PEDIDO
+GENÉRICO. INVIABILIDADE. AGRAVO A QUE SE NEGA
+PROVIMENTO.
+I. O pedido deve ser formulado de forma certa e determinada, não se
+admitindo sua formulação em termos genéricos, salvo as exceções
+expressamente previstas (nenhuma delas aplicável ao presente caso).
+II. Agravo regimental a que se nega provimento, com majoração de
+honorários advocatícios, nos termos do art. 85, § 11º, do CPC.
+AC ÓRDÃ O
+Acordam os Ministros do Supremo Tribunal Federal, em sessão
+virtual do Plenário, na conformidade da ata de julgamentos, por
+unanimidade e nos termos do voto do Relator, negar provimento ao
+agravo regimental, com majoração de honorários advocatícios, nos
+termos do art. 85, § 11, do CPC.
+Brasília, 26 de maio de 2017.
+
+RICARDO LEWANDOWSKI – RELATOR
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13000143.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 9
+
+26/05/2017
+
+PLENÁRIO
+
+AG.REG. NA AÇÃO CÍVEL ORIGINÁRIA 1.449 MARANHÃO
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. RICARDO LEWANDOWSKI
+: ESTADO DO MARANHÃO
+: PROCURADOR-GERAL
+DO
+ESTADO
+MARANHÃO
+: UNIÃO (CONVÊNIO Nº SEP/001/2007)
+: ADVOGADO -GERAL DA UNIÃO
+
+DO
+
+RE LAT Ó RI O
+O Senhor Ministro Ricardo Lewandowski (Relator): Trata-se de
+agravo regimental interposto contra decisão de relatoria da Ministra
+Cármen Lúcia que julgou improcedente Ação Cível Originária ajuizada
+contra a União, com o objetivo de afastar os apontamentos de
+inadimplência nos cadastros de inadimplentes do Governo Federal
+(Siafi/Cauc/Cadin).
+Neste recurso, o agravante sustenta que os pedidos não são
+genéricos, insiste nos argumentos já rechaçados e ataca novamente os
+fundamentos da decisão agravada.
+Houve contrarrazões.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13000144.
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 3 de 9
+
+26/05/2017
+
+PLENÁRIO
+
+AG.REG. NA AÇÃO CÍVEL ORIGINÁRIA 1.449 MARANHÃO
+
+VOTO
+O Senhor Ministro Ricardo Lewandowski (Relator): Bem
+examinados os autos, verifico que a decisão agravada não merece
+reforma.
+Por oportuno, transcrevo o inteiro teor da decisão guerreada:
+“1. Ação cível originária ajuizada pelo Maranhão, em
+24.9.2009, contra a União, com o objetivo de afastar os
+apontamentos de inadimplência no Sistema Integrado da
+Administração Financeira SIAFI e no Cadastro Único de
+Exigências para Transferências Voluntárias CAUC, que estariam
+a impedir a prorrogação do Convênio n. SEP/001/2007, cujo
+objeto é a execução da dragagem de parte do canal de acesso e
+junto aos berços 100 a 103 e dragagem e construção do aterro
+hidráulico da retroarea dos berços 100 e 101 no Porto de
+Itaqui/MA (fl. 62).
+2. Em 28.8.2009, o Ministro Celso de Mello deferiu a
+medida liminar requerida na Ação Cautelar n. 2.441 (art. 38, inc.
+I, do Regimento Interno do Supremo Tribunal Federal),
+preparatória desta ação, determinando a suspensão dos efeitos
+restritivos resultantes da inscrição impugnada, decisão
+referendada pela Primeira Turma deste Supremo Tribunal em
+23.3.2010 (DJe 23.4.2010).
+3. Concluída a instrução, declarei saneado o processo e
+determinei vista às partes para razões finais, o que foi atendido
+(Petições ns. 11.007/2011 e 13.198/2011).
+4. Em 14.12.2012, o Procurador-Geral da República opinou
+pela improcedência desta ação (Petição n. 65.556/2012).
+5. Em 29.3.2016, pelo transcurso do tempo e pela
+possibilidade de composição por conciliação na Câmara de
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13000145.
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 4 de 9
+
+ACO 1449 AGR / MA
+Conciliação e Arbitragem da Administração Federal CCAF,
+determinei se manifestassem as partes sobre a utilidade de
+prosseguimento da presente ação.
+6. Pela Petição n. 25.623, de 19.5.2016, a União asseverou
+não ter interesse em submeter a matéria à Câmara de
+Conciliação e Arbitragem da Administração Federal CCAF,
+ressaltando que o Convênio SEP001/2007 já expirou, estando
+atualmente em fase de prestação de contas, o que indica a perda
+do objeto da presente ação [, e] até o presente momento a
+SEP/PR não efetuou qualquer registro de inadimplência no
+CAUC, SIAFI e CADIN referente ao mencionado convênio (fl.
+158 v.).
+7. Em 24.5.2016, o Maranhão afirmou ter interesse na
+continuidade do feito, tendo em vista que a prestação de contas
+do convênio SEP 001/2007 ainda está pendente, remanescendo
+os riscos que ensejaram a propositura da presente Ação Cível
+Originária (Petição n. 26.546/2016), enfatizando que no
+momento não pretende submeter o conflito à Câmara de
+Conciliação e Arbitragem da Administração Federal CCAF (fl.
+166 Petição n. 26.546/2016).
+Uma semana depois apresentou petição na qual afirma ter
+interesse na composição da lide junto à Câmara de Conciliação
+e Arbitragem da Administração Federal CCAF, (...) esperando
+somente ser intimado para se fazer representar por Procurador
+na audiência a ser marcada (fl. 169 Petição n. 28.129/2016).
+Examinados os elementos havidos nos autos, DECIDO .
+8. Na ação cautelar preparatória e nesta ação ordinária, o
+Autor assevera que a presente demanda redunda em saber da
+necessidade, eficácia e legalidade do ato emanado impugnado,
+no caso, a inclusão do nome do Requerente no SIAFI, CAUC e
+CADIN, impossibilitando-o de receber recursos de órgãos
+federais (fl. 4).
+Aponta prejuízo ao Convênio n. SEP/001/2007, celebrado
+entre a Empresa Maranhense de Administração Portuária e a
+Secretaria Especial dos Portos da Presidência da República,
+para a execução da dragagem de parte do canal de acesso e
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13000145.
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 5 de 9
+
+ACO 1449 AGR / MA
+construção do aterro hidráulico no porto de Itaqui/MA, por
+exigir o órgão federal a regularização do Maranhão nos
+cadastros de inadimplência para prorrogação da vigência do
+contrato mencionado.
+Sustentando ser inconstitucional e ilegal sua inscrição no
+SIAFI, no CADIN e no CAUC, requer a suspensão dos efeitos
+das inscrições levadas a efeito em decorrência dos atos de que
+cuidam os documentos anexos (docs. 01-33) , juntados à Ação
+Cautelar n. 2.441.
+A invocação do Convênio n. SEP/001/2007 deu-se para
+comprovar urgência na suspensão dos efeitos das inscrições
+inviabilizadoras de repasses entre os entes federados, não
+importando sua situação atual para o deslinde da causa, pelo
+que o término de sua vigência não acarreta automática perda do
+objeto da presente ação.
+9. Ao afirmar a manutenção do interesse no
+prosseguimento do feito, o Autor demonstra o caráter genérico
+do pedido formulado na presente ação, por defender a inclusão
+do Convênio n. SEP 001/2007 como objeto, de forma preventiva.
+Comprova-o a assertiva da União, de não ter efetuado
+qualquer registro de inadimplência relacionado ao Convênio n.
+SEP 001/2007 (fl. 158 v.), pelo que manifesta seu desinteresse em
+submeter a matéria tratada à Câmara de Conciliação e
+Abitragem da Administração Federal CCAF, sendo certa sua
+irrelevância para o deslinde da presente causa.
+10. Tem-se, portanto, caracterizada pretensão do Estado
+Autor de desconstituir as inscrições nos cadastros de
+inadimplentes, existentes ou futuras, demonstrada pelos termos
+do requerimento e por não terem sido apontados vícios nas
+inscrições porventura realizadas.
+11. O provimento de ações por este Supremo Tribunal,
+garantindo o repasse de verbas com a suspensão dos efeitos dos
+atos de inscrição de entes federados nos cadastros de
+inadimplência, ocorre em casos concretos, com ampla dilação
+probatória, objetivando-se constatar eventuais abusos ou
+ilegalidades na prática do ato impugnado, que deve, por isso,
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13000145.
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 6 de 9
+
+ACO 1449 AGR / MA
+ser individualizado, exigindo-se, assim, a apresentação, pelo
+requerente, das razões para o afastamento.
+Têm sido negadas as pretensões de obter-se provimento
+judicial que impeça indefinidamente a adoção pela União de
+mecanismos restritivos de crédito previstos na legislação
+vigente. Confira-se, por exemplo, a decisão monocrática
+proferida pelo Ministro Teori Zavascki:
+‘A presente ação postula pretensão jurisdicional de caráter
+universal. O sistema processual brasileiro veda a formulação de
+pedido genérico, não se tratando, no caso dos autos, de
+qualquer das hipóteses de exceção previstas nos incisos do art.
+286, do CPC.
+O autor concluiu seu pedido nos seguintes termos: A
+procedência da ação, para desconstituir ou declarar nula a
+inscrição do Estado do Rio Grande do Sul no CAUC/SIAFI, bem
+como para declarar que eventuais inscrições do Estado-membro
+no CAUC/SIAFI não constituem óbices ao repasse de recursos
+da União, a título de transferências voluntárias concernentes a
+convênios cujos objetos refiram-se a ações e serviços vinculados
+às áreas da saúde, educação e assistência social (fl. 65).
+Como se vê, a pretensão autoral busca a desconstituição
+ou declaração de nulidade das inscrições já existentes, bem
+como a suspensão da eficácia de futuras inscrições que
+porventura possam se efetivar.
+Da análise das sucessivas petições protocoladas
+requerendo a extensão dos efeitos da medida cautelar
+inicialmente deferida (fls. 699/711; 780/782; 886/887 e 986/991),
+evidencia-se a indeterminação do objeto da presente ação cível
+originária, variando esse de acordo com o momento e
+necessidade do demandante.
+Deveras, esta Corte tem se debruçado sobre esta matéria,
+seja para garantir a observância prévia do devido processo legal
+nas inserções de entes federativos nos cadastro de
+inadimplentes, seja para reconhecer a intranscendência
+subjetiva na aplicação das medidas restritivas de direitos,
+porém tais provimentos são concedidos na análise de casos
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13000145.
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 7 de 9
+
+ACO 1449 AGR / MA
+concretos, específicos, de amplo espectro probatório a fim de se
+apreciar eventuais abusos ou ilegalidades praticadas.
+Nesse sentido, em caso análogo, assim se manifestou a
+Primeira Turma desta Corte no julgamento da ACO 1.609/PI, de
+relatoria do Min. LUIZ FUX:
+‘Ementa: AGRAVO REGIMENTAL NA AÇÃO CÍVEL
+ORIGINÁRIA.
+CONSTITUCIONAL.
+ADMINISTRATIVO.
+FINANCEIRO. APLICAÇÃO DE PERCENTUAIS MÍNIMOS
+EM AÇÕES E SERVIÇOS DE SAÚDE. NECESSIDADE DE
+ANÁLISE
+CASUÍSTICA.
+PEDIDO
+FORMULADO
+GENERICAMENTE. PRETENSÃO AUTORAL QUE SE
+MOSTRA CONCRETAMENTE IRREALIZÁVEL. PEDIDO
+QUE, NO SISTEMA PROCESSUAL VIGENTE, DEVE SER
+FORMULADO DE FORMA CERTA OU DETERMINADA. ART.
+286 DO CPC. AGRAVO REGIMENTAL A QUE SE NEGA
+PROVIMENTO.
+1. No sistema processual vigente, nos termos do art. 286
+do CPC, o pedido deve ser formulado de forma certa ou
+determinada, não se admitindo sua formulação em termos
+genéricos, salvo as exceções expressamente previstas (nenhuma
+delas aplicável ao presente caso).
+2. In casu, o pedido de mérito foi assim formulado pelo
+autor: O Estado do Piauí, à vista dessas conclusões, requer
+deste C. Tribunal: […] b) O julgamento final de procedência da
+ação, que, confirmando a decisão liminar proferida nos autos da
+ação cautelar 2.648, determine em definitivo a exclusão do autor
+do CAUC ou de quaisquer outros cadastros restritivos
+administrados pela União Federal com fundamento em
+divergências de metodologia na apuração de percentual
+mínimo de investimento em ações e serviços públicos de saúde
+(art. 77, II, ADCT) ou, em qualquer hipótese, sem a notificação
+prévia do requerente para o oferecimento de defesa em prazo
+hábil .
+3. Tal pedido, formulado em caráter genérico, torna
+irrealizável a pretensão autoral no plano concreto.
+4. Agravo regimental a que se nega provimento. (ACO
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13000145.
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 8 de 9
+
+ACO 1449 AGR / MA
+1.609-AgR, Rel. Min. LUIZ FUX, Dje 2/6/2015).’
+Neste cenário, em sendo o pedido do autor de caráter
+genérico e ilimitado, eventual procedência da ação imprimiria
+ao provimento jurisdicional almejado efeitos desmedidos,
+desprestigiando preceitos esculpidos na Constituição Federal e
+na Lei de Responsabilidade Fiscal que prezam pelo controle e
+fiscalização dos recursos públicos (Ação Cível Originária n.
+1.115/RS, decisão monocrática, DJe 4.4.2016).
+Assim também, por exemplo, as seguintes decisões
+monocráticas: Ação Cível Originária n. 1.410/MT, Relator o
+Ministro Luiz Fux, DJe 2.10.2015; Ação Cível Originária n.
+2.661/DF, Relator o Ministro Celso de Mello, DJe 5.10.2015; Ação
+Cível Originária n. 1.200/AP, Relator o Ministro Luiz Fux, DJe
+27.3.2015; e Ação Cível Originária n. 1.609/PI, Relator o Ministro
+Luiz Fux, DJe 27.3.2015.
+O advento do novo Código de Processo Civil não afastou a
+obrigação do autor de formular pedido de forma certa e
+determinada, sendo inaplicáveis, na espécie vertente, as
+exceções previstas no § 1º do art. 324.
+Pelo exposto, nego seguimento ao pedido (art. 21, § 1º, do
+Regimento Interno do Supremo Tribunal Federal), ficando
+cassada a medida cautelar. Condeno o Maranhão ao pagamento
+de honorários advocatícios à base de 10% (dez por cento) sobre
+o valor atualizado da causa (art. 85, § 3º, inc. I, do Código de
+Processo Civil de 2015)”.
+
+Os argumentos lançados no regimental não são capazes de afastar os
+fundamentos da decisão combatida, que, por tal razão, deve ser mantida.
+Ante o exposto, nego provimento ao agravo regimental.
+Nos termos do artigo 85, § 11, CPC, majora-se para 20% a verba
+honorária fixada anteriormente, devendo ser observados os limites dos §
+2º e § 3º do mesmo dispositivo.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13000145.
+
+Supremo Tribunal Federal
+Extrato de Ata - 26/05/2017
+
+Inteiro Teor do Acórdão - Página 9 de 9
+
+PLENÁRIO
+EXTRATO DE ATA
+AG.REG. NA AÇÃO CÍVEL ORIGINÁRIA 1.449
+PROCED. : MARANHÃO
+RELATOR : MIN. RICARDO LEWANDOWSKI
+AGTE.(S) : ESTADO DO MARANHÃO
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DO MARANHÃO
+AGDO.(A/S) : UNIÃO (CONVÊNIO Nº SEP/001/2007)
+ADV.(A/S) : ADVOGADO-GERAL DA UNIÃO
+Decisão: O Tribunal, por unanimidade e nos termos do voto do
+Relator, negou provimento ao agravo regimental, com majoração de
+honorários advocatícios, nos termos do art. 85, § 11, do CPC.
+Plenário, sessão virtual de 19 a 25.05.2017.
+Composição: Ministros Cármen Lúcia (Presidente), Celso de
+Mello, Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski, Dias
+Toffoli, Luiz Fux, Rosa Weber, Roberto Barroso, Edson Fachin e
+Alexandre de Moraes.
+p/ Doralúcia das Neves Santos
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 12978127
