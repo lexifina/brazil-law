@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE PENSÃO. RIOPREVIDENCIA. PENSIONISTA DE FISCAL DE RENDAS. SENTENÇA QUE EXTINGUIU O PROCESSO SEM JULGAMENTO DO MÉRITO EM RAZÂO DA EXISTÊNCIA DE COISA JULGADA. MANUTENÇÃO DA SENTENÇA. PARTE AUTORA QUE JÁ AJUIZOU DEMANDA ANTERIORMENTE ENVOLVENDO AS MESMAS PARTES, PEDIDO E CAUSA DE PEDIR, TENDO OCORRIDO A FORMAÇÃO DA COISA JULGADA, EIS QUE A MESMA TRANSITOU EM JULGADO. IMPOSSIBILIDADE DE O JUDICIÁRIO REEXAMINAR NOVAMENTE TAL QUESTÃO. NEGADO PROVIMENTO AO RECURSO”. (eDOC 5, p. 38)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao artigo 40, §§ 7º e 8º, do texto constitucional. (eDOC 5, p. 64)
+    Nas razões recursais, alega-se que o reajustamento de benefício previdenciário é uma forma preservar o seu valor real e manter a paridade entre o valor da pensão e os vencimentos integrais do servidor falecido.
+    Sustenta-se que não há falar em coisa julgada, ao fundamento de que a causa de pedir o pedido da presente demanda se diferem daqueles pleiteados na ação 1990.001.115273-9.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Processo Civil) e o conjunto probatório constante dos autos, negou provimento ao recurso, ao argumento de que a pretensão do recorrente foi objeto de outra ação com sentença transitada em julgada. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Portanto, verifica-se que a referida ação ordinária de revisão de pensão previdenciária teve por fim que o réu fosse condenado ao pagamento da integralidade dos vencimentos do falecido servidor.
+    No caso da ação anterior, o pedido restou julgado improcedente, em razão da prescrição intercorrente (fls. 381/382), sendo confirmada em sede de recurso de apelação (fls. 386/387), e já com transito em julgado.
+    Deste modo, ao se comparar as duas ações em questão, podemos ver que há identidade da relação jurídica discutida em ambas as demandas, ensejando assim a ocorrência da tríplice identidade prevista no artigo 301, VI do Código de Processo Civil.
+    Vê-se, portanto, que o pleito nesta ação revisional previdenciária e seu respectivo fundamento demonstram que se postula o provimento jurisdicional sobre a mesma relação jurídica requerida em ação distinta, o que já foi apreciado em outra demanda, de modo que resta caracterizada a coisa julgada.
+    Sendo assim, no presente caso não há como se discutir os pontos trazidos pelo apelante, conforme dispõe o artigo 467 do Código de Processo Civil, uma vez que a matéria já foi decidida anteriormente por sentença transitada em julgado.
+    Ademais, ainda que a congruência entre os pedidos e causas de pedir de ambas as ações não fosse total, considerando a existência de idêntica causa de pedir remota, mas não a mesma causa de pedir próxima, certo é que o objeto da ação, distribuída sob o nº0048138-69.1995.8.19.0001 abrange o objeto da presente, diante do julgamento naquele feito determinando a revisão do benefício em 100% (cem por cento), ou seja, em valor superior ao que se requer nos presentes autos. Sendo assim, ainda que o feito não fosse extinto pelo reconhecimento do instituto da coisa julgada, seria o caso de extinção do feito pela falta de interesse, tendo em vista que a presente ação não mais se revela útil à demandante”. (eDOC 5, p. 42)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. COISA JULGADA. NECESSIDADE DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL. TEMA SEM REPERCUSSÃO GERAL. PRECEDENTE. NECESSIDADE DE REEXAME DE FATOS E PROVAS DA CAUSA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. ARE 800.013-AgR/RS, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 6.5.2014)
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Concurso público. Exame psicológico. Litispendência. Coisa julgada. Verificação. Aprovação de candidato. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido”. (ARE 772.309-AgR/DF, Rel. Min. Dias Toffoli, Primeira Turma, DJe 24.6.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de maio de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
