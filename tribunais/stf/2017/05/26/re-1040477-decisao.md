@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TAXA DE COLETA DE RESÍDUOS SÓLIDOS URBANOS - TCR. MUNICÍPIO DE BELO HORIZONTE. CONCLUSÃO DO ACÓRDÃO RECORRIDO DE QUE TERIA OCORRIDO MAJORAÇÃO DE TRIBUTO POR MEIO DE ATO INFRALEGAL. OFENSA AO PRINCÍPIO DA LEGALIDADE. DECRETO MUNICIPAL 15.433/2013 E LEI MUNICIPAL 8.147/2000. INTERPRETAÇÃO DE DIREITO LOCAL. INVIABILIDADE EM SEDE EXTRAORDINÁRIA. INCIDÊNCIA DA SÚMULA 280 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS FIXADOS NA ORIGEM NO PATAMAR LEGAL MÁXIMO. IMPOSSIBILIDADE DE MAJORAÇÃO. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    DECISÃO: Trata-se de recurso extraordinário interposto com fundamento na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “RECURSO INOMINADO - MAJORAÇÃO DE IMPOSTO - TAXA DE COLETA DE RESÍDUOS SÓLIDOS (TCR) - AUMENTO DO IPTU - INCIDÊNCIA FEITA POR DECRETO - INCONSTITUCIONALIDADE DO ART. 22 DO DECRETO MUNICIPAL Nº 15.433/13 - MUNICIPIO INCOMPETENTE PARA MAJORAR TRIBUTOS - TRIBUTO SÓ PODERIA SER MAJORADO POR LEI - SENTENÇA MANTIDA PELOS SEUS PRÓPRIOS E JURÍDICOS FUNDAMENTOS - RECURSO NÃO PROVIDO.” (doc. 37)
+    Nas razões do apelo extremo, a parte recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 150, I, da Constituição Federal. Alegou que “o valor fixado para a TCR dos exercícios financeiros de 2014 e 2015 decorreu do propugnado em lei material e formal, mais precisamente, o disposto no artigo 23 da Lei municipal n. 8.147/2000, tendo o Decreto 15.433/2013 tão somente aplicado o disposto em Lei, levando em consideração os elementos próprios à individualização do serviço público e considerando que a TCR tem como base de cálculo o custo previsto do serviço rateado entre os contribuintes, conforme a frequência da coleta e o número de economias existentes no imóvel”.
+    É o Relatório. DECIDO.
+    A irresignação não merece prosperar.
+    Com efeito, verifica-se que concluir diversamente do acórdão recorrido, no sentido da validade da majoração do valor da Taxa de Coleta de Resíduos Sólidos - TCR do Município de Belo Horizonte, demandaria a interpretação de direito local (Lei municipal 8.147/2000 e Decreto municipal 15.433/2013), o que é vedado em sede extraordinária. Incide, in casu, o óbice da Súmula 280 do STF, que dispõe, in verbis: “Por ofensa a direito local não cabe recurso extraordinário”.
+    No mesmo sentido: RE 1.040.366, Rel. Min. Dias Toffoli, DJe de 16/5/2017; RE 983.329, Rel. Min. Marco Aurélio, DJe de 18/8/2016; e RE 983.344, Rel. Min. Roberto Barroso, DJe de 10/8/2016.
+    Por fim, observa-se que o presente recurso foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Entretanto, como os honorários advocatícios já foram fixados no patamar legal máximo, fica impossibilitada a sua majoração (artigo 85, § 11, do CPC/2015).
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de maio de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
