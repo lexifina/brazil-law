@@ -1,0 +1,33 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “APELAÇÃO. DROGA. ABSOLVIÇÃO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. CONJUNTO PROBATÓRIO EFICIENTE. PROVA ORAL CONVINCENTE. MANUTENÇÃO DO ÉDITO CONDENATÓRIO. APELO NÃO PROVIDO.
+    1. Verificando-se que o conjunto probatório se encontra harmônico com os fatos, a decisão combatida deve ser mantida.
+    2. Certificada a configuração do bis in idem, e considerando que a defesa se insurgiu apenas no que diz respeito a causa de diminuição de pena, entende esta relatoria que a maneira de evitar esse odioso vício é a de considerar a quantidade e/ou qualidade da droga somente na pena-base.
+    3. No entanto, observa-se que a fração aplicada pelo magistrado, de 1/6 (um sexto), não merece reforma, na medida em que o modus operandi da apelante não é condizente com uma pessoa no estágio inicial do tráfico de drogas. Portanto, afasta-se o vício do bis in idem, mantendo-se, todavia, a fração aplicada na sentença, desta feita sob fundamentação diversa, o que de acordo com a jurisprudência do Superior Tribunal de Justiça, não configura reformatio in pejus.
+    4. Recurso não provido” (pág. 72 do documento eletrônico 4).
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação aos arts. 5°, XLVI e LVII, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o Tribunal de origem decidiu a questão da aplicação da pena com fundamento na interpretação da legislação infraconstitucional (Lei 11.343/2006), bem como no conjunto fático probatório constante dos autos. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo, além de incidir, na espécie, a Súmula 279/STF, o que inviabiliza o extraordinário. Nesse sentido, cito o RE 936.145-AgR/SP, Rel. Min. Roberto Barroso:
+    “EMENTA: DIREITO PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DOSIMETRIA DA PENA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343/2006. INDIVIDUALIZAÇÃO DA PENA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a quantidade de drogas apreendida constitui elemento que pode ser validamente valorado no dimensionamento do benefício previsto no § 4º do art. 33 da Lei nº 11.343/2006. Precedentes. 2. A orientação do Supremo Tribunal Federal é no sentido de que a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Precedentes. 3. A decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante. 4. Para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário. 5. Agravo regimental a que se nega provimento”.
+    Sendo assim, torna-se inviável o seguimento do recurso, nos termos da Súmula 279/STF.
+    Embora seja o caso de negar seguimento ao recurso extraordinário, verifico hipótese de flagrante constrangimento ilegal a autorizar a concessão do habeas corpus, de ofício, nos termos do art. 654, § 2°, do CPP.
+    A recorrente foi condenada como incursa no art. 33, caput, da Lei 11.343/06, à pena de 5 anos de reclusão, em regime inicial fechado. (págs. 13-18 do documento eletrônico 2 e pág. 1 do documento eletrônico 3).
+    O Tribunal de Justiça do Estado do Acre, em apelação exclusiva da defesa, manteve a sentença condenatória (págs. 72-76 do documento eletrônico 4).
+    Observo, entretanto, que o juízo sentenciante não apresentou motivação idônea quanto à fixação do regime inicial de cumprimento da pena mais gravoso. Limitou-se a assentar o seguinte: “O regime de cumprimento da pena será o Inicialmente Fechado” (pág. 1 do documento eletrônico 3). Dessa forma, deixou-se de observar o disposto no art. 93, IX, da Constituição.
+    Pois bem. Os critérios de fixação do regime inicial estão estabelecidos no artigo 33 do Código Penal:
+    “Art. 33 - A pena de reclusão deve ser cumprida em regime fechado, semiaberto ou aberto. A de detenção, em regime semiaberto, ou aberto, salvo necessidade de transferência a regime fechado.
+    (…)
+    § 2º - As penas privativas de liberdade deverão ser executadas em forma progressiva, segundo o mérito do condenado, observados os seguintes critérios e ressalvadas as hipóteses de transferência a regime mais rigoroso:
+    a) o condenado a pena superior a 8 (oito) anos deverá começar a cumpri-la em regime fechado;
+    b) o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto;
+    c) o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto.
+    § 3° - A determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código.”
+    Como se vê, o regime inicial será fixado à luz da pena concreta e com observância das circunstâncias judiciais, ou seja, exige-se fundamentação idônea e autônoma. Aliás, é nesse sentido o teor da Súmula 719/STF:
+    “Súmula 719: A imposição de regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea”.
+    Com efeito, constato que a sentença não descreve minimamente razões adequadas a justificar a escolha de regime inicial mais gravoso que o sugerido pela Lei Penal.
+    Desse modo, a violação ao princípio constitucional alusivo à necessidade de fundamentação das decisões judiciais gera constrangimento ilegal apto à concessão de writ, de ofício.
+    Nessa esteira, cito os seguintes precedentes, entre outros: Rcl. 25.737/RS, Rcl. 24.298/SP, ambos de minha relatoria; ARE 1.018.185/SP, Rel. Min. Edson Fachin; Rcl. 25.560/PA, Rel. Min. Roberto Barroso; ARE 938.357-AgR-ED/AL, Rel. Min. Gilmar Mendes; ARE 752.467/DF, Rel. Min. Dias Toffoli; RE 882.839/SP, Rel. Min. Luiz Fux.
+    Isto posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF), e, nos termos do art. 654 do CPP, concedo a ordem de habeas corpus, de ofício, para fixar o regime inicial semiaberto, nos termos do art. 33, § 2°, b, e § 3°, do CP.
+    Publique-se.
+    Brasília, 26 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
