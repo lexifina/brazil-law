@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 5º Região, ementado nos seguintes termos:
+    “AGRAVO REGIMENTAL. PREVIDENCIÁRIO. CADUCIDADE DO DIREITO À REVISÃO DE BENEFÍCIOS PREVIDENCIÁRIOS. PRETENSÃO DA PARTE AGRAVANTE EM AFASTAR A ORIENTAÇÃO PRECONIZADA PELO STJ NO RESP 1309529 - PR e RESP 1.326.114/SC. INADMISSIBILIDADE, MÁXIME EM FÂCE DA CIRCUNSTÂNCIA DE QUE A SITUAÇÃO FÁTICA RETRATA HIPÓTESE NA QUAL O AJUIZAMBSITO DA AÇÃO SUCEDEU QUANDO TRANSCORRIDO MAIS DE UM DECÊNIO DA NOVA REDAÇÃO DO ART. 103 DA LEI 8.213/91. IMPROVIMENTO”. (eDOC 1, p. 153)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao artigo 5º, XXXVI, do texto constitucional.
+    Nas razões recursais, aponta-se que não se aplica a decadência aos benefícios previdenciários concedidos na vigência da MP 1.523-9/97.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Inicialmente, observo que a parte recorrente interpôs o recurso extraordinário contra a decisão do Tribunal de origem que negou seguimento ao recurso especial (eDOC 1, p. 138-139), com base na sistemática dos processos repetitivos, nos termos do artigo 543-C do Código de Processo Civil de 1973.
+    Esta Corte possui o entendimento, segundo o qual é inadmissível o recurso interposto em face de decisão que aplica a sistemática dos processos repetitivos.
+    Ainda, verifico que o agravante não manejou o recurso extraordinário simultaneamente com o recurso especial, no momento que o Tribunal de origem deu provimento à apelação do INSS para reconhecer a decadência do direito revisão de benefício previdenciário, o que implica preclusão da questão constitucional.
+    Sobre os temas, confiram-se os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Acórdão prolatado na origem. Ausência de interposição simultânea de recurso extraordinário e recurso especial. Manutenção do entendimento pelo Tribunal de origem após julgamento de recurso repetitivo pelo Superior Tribunal de Justiça. Recurso extraordinário. Inadmissibilidade. Preclusão. Precedentes. 1. No caso dos autos, julgada a apelação, o agravante interpôs tão somente recurso especial, o qual não foi admitido em virtude de o acórdão proferido no julgamento da apelação estar de acordo com julgado proferido pelo Superior Tribunal de Justiça em recurso representativo da controvérsia, restando incólume a conclusão adotada na apelação. 2. Contra essa decisão em que se negou seguimento ao recurso especial, confirmada após a interposição de agravo interno para o TRF 5ª, o agravante interpôs, então, recurso extraordinário. 3. Destarte, é inadmissível o recurso extraordinário, uma vez que a questão objeto do apelo extremo já teria surgido no julgamento da apelação e o agravante não interpôs recurso extraordinário simultaneamente ao especial, acarretando a preclusão da discussão sob o ângulo constitucional. 4. Agravo regimental não provido”. (ARE 794.493-AgR/PE, Rel. Min. Dias Toffoli, Primeira Turma, DJe 9.10.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. 1. RECURSO DE AGRAVO (ART. 544 DO CÓDIGO DE PROCESSO CIVIL) INCABÍVEL CONTRA JULGADO QUE APLICA A SISTEMÁTICA DOS RECURSOS REPETITIVOS (ART. 543-C, § 7º, INC. I, DO CÓDIGO DE PROCESSO CIVIL). 2. AUSÊNCIA DE INTERPOSIÇÃO SIMULTÂNEA DO RECURSO EXTRAORDINÁRIO. PRECLUSÃO DAS QUESTÕES CONSTITUCIONAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 796.984-AgR/RN, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 5.5.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de maio de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
