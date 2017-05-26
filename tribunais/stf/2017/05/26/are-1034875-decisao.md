@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MANDADO DE SEGURANÇA. FARMÁCIA DE MANIPULAÇÃO. RESOLUÇÃO 67/2007 DA DIRETORIA COLEGIADA DA ANVISA. VEDAÇÃO À PREPARAÇÃO, EXPOSIÇÃO E COMERCIALIZAÇÃO DE COSMÉTICOS E PRODUTOS FITOTERÁPICOS. LEIS 3.820/1960, 5.991/1973, 6.360/1976 E 9.782/1999. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “REEXAME NECESSÁRIO – MANDADO DE SEGURANÇA – CONSTITUCIONAL – ADMINISTRATIVO – FARMÁCIA DE MANIPULAÇÃO – RESOLUÇÃO DA DIRETORIA COLEGIADA DA ANVISA N.° 67/2007 – VEDAÇÃO À PREPARAÇÃO, EXPOSIÇÃO E COMERCIALIZAÇÃO DE COSMÉTICOS E PRODUTOS FITOTERÁPICOS – RESTRIÇÃO NÃO ESTABELECIDA NA LEI – INJURIDICIDADE – CONCESSÃO DA ORDEM.
+    Revela-se injurídica a norma constante da Resolução da Diretoria Colegiada da ANVISA n.° 67/2007 que, ao arrepio de disposição em lei – sabidamente a sede exclusiva de ampliação ou restrição de obrigações às pessoas em geral -, impede a manipulação, exposição e comercialização de produtos cosméticos e fitoterápicos isentos de prescrições médicas, assim impositiva a concessão da ordem de forma a afastar eventuais autuações da impetrante fundadas no descumprimento do regulamento.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5°, II, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 636 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, ressalte-se que para divergir das razões do referido acórdão seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Leis 3.820/1960, 5.991/1973, 6.360/1976 e 9.782/1999), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Demais disso, no que diz respeito à alegação de ofensa ao princípio da legalidade (artigo 5º, II, da CF), verifico que o acórdão ora recorrido tão somente interpretou o que dispõe a Lei 5.991/1973 em sentido contrário àquele desejado pela parte ora agravante, o que configura ofensa indireta à Constituição Federal, não suscetível de apreciação em sede de recurso extraordinário. Assevere-se, ainda, que a jurisprudência desta Suprema Corte se consolidou no sentido de que “não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida” (Súmula 636 do STF).
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de maio de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
