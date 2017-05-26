@@ -1,0 +1,24 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Fernando Augusto Henriques Fernandes em favor de Robson Cleyton de Moraes Rangel, contra acórdão do Superior Tribunal de Justiça, que denegou o HC 389.677/RJ.
+    O Juízo da Vara Única da Comarca de Quissamã/RJ condenou o paciente à perda de seu cargo e à pena de 06 (seis) anos e 08 (oito) meses de reclusão, em regime inicial fechado, pela prática do crime de roubo qualificado, tipificado no art. 157, § 2º, I, do Código Penal.
+    Irresignada com a suposta ausência de defesa técnica, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Rio de Janeiro, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, denegou o HC 389.677/RJ.
+    Neste writ, o Impetrante alega nulidade processual por ausência de intimação pessoal do paciente acerca da sentença condenatória. Sustenta evidente a deficiência de defesa técnica desde a fase em que não apresentadas as alegações finais, não suprida pela nomeação de defensor dativo ou Defensor Público. Assevera que, à época da sentença, o paciente gozava das prerrogativas de suas funções de bombeiro militar, cuja intimação deveria ser feita em seu domicílio necessário. Argumenta que a ciência da condenação se deu apenas quando da exclusão do paciente da Corporação, após o trânsito em julgado da sentença. Requer, em medida liminar e no mérito, a suspensão dos efeitos da sentença condenatória e, sucessivamente, a intimação pessoal do paciente quanto ao teor da sentença, a reabertura de prazo para interposição de recurso e o direito de o paciente recorrer em liberdade.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “PROCESSO PENAL. HABEAS CORPUS. SENTENÇA CONDENATÓRIA. INTIMAÇÃO PESSOAL. RÉU MILITAR SOLTO. ADVOGADO CONSTITUÍDO DEVIDAMENTE INTIMADO. INEXISTÊNCIA DE NULIDADE. ORDEM DENEGADA.
+    1. Nos termos do art. 392, inciso II, do Código de Processo Penal, tratando-se de réu solto, é suficiente a intimação do defensor constituído a respeito da sentença condenatória.
+    2. Suficiente a intimação do advogado constituído quanto à sentença condenatória, irrelevante, neste ponto, a condição de militar do sentenciado.
+    3. Ordem denegada”.
+    Contra o ato apontado como coator, prevê a Constituição da República remédio jurídico expresso, o recurso ordinário (art. 102, II, a). Diante da dicção constitucional não cabe a utilização de novo habeas corpus, em caráter substitutivo (HC 109.956/PR, Rel. Min. Marco Aurélio, 1ª Turma, DJe 11.9.2012 e HC 104.045/RJ, de minha relatoria, DJe 06.9.2012).
+    Ao exame dos autos, não detecto manifesta ilegalidade ou teratologia do ato dito coator hábil à concessão da ordem de ofício.
+    De acordo com o art. 392, I e II, do Código de Processo Penal, ‘a intimação da sentença será feita: I - ao réu, pessoalmente, se estiver preso; II - ao réu, pessoalmente, ou ao defensor por ele constituído, quando se livrar solto, ou, sendo afiançável a infração, tiver prestado fiança’.
+    Conforme bem enfatizado pelo ato dito coator, ‘o réu estava solto e o advogado constituído pelo paciente foi devidamente intimado por meio de publicação da sentença no Diário Oficial nº 200/212’, e ‘embora não tenha havido tentativa de intimar o paciente – militar – no seu local de trabalho, tentou-se efetivar a intimação pessoal do condenado, ainda que desnecessária, em vários endereços fornecidos nos autos, tendo sido expedida inclusive carta precatória, a qual restou infrutífera (fls. 113-16 e 118-120), razão pela qual determinou-se sua intimação por edital (fl. 121)’.
+    Evidenciado, portanto, esgotados todos os meios para intimação para comunicação do teor da condenação do paciente. Descabe, dessa forma, o reconhecimento de qualquer afronta ao devido processo legal.
+    Ademais, consta dos autos que, em 27.4.2009, foi proferida a sentença condenatória, cujo trânsito em julgado ocorreu em 13.7.2012. A alegada nulidade invocada pela Defesa, no âmbito do tribunal local, foi julgada 26.6.2014, e só em 23.02.2017, ou seja, transcorridos mais de 02 (dois) anos, houve a interposição do HC 389.677/RJ na Corte Superior. A jurisprudência do Supremo Tribunal Federal é no sentido de que ‘argüida apenas após o trânsito em julgado da sentença condenatória, toda nulidade relativa é coberta pela preclusão (HC 95.142/RS, Rel. Min. Cezar Peluso, 2ª Turma, DJe 05.12.2008).
+    Anoto, por fim, que a jurisprudência desta Suprema Corte posiciona-se pela inviabilidade de utilização do habeas corpus como sucedâneo recursal ou revisão criminal (HC 130.415- AgR/MG, Rel. Min. Cármen Lúcia, Segunda Turma, Dje 12.11.2015, RHC 123.813/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 21.11.2014; HC 121.255/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 01.8.2014).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de maio de 2017.
+Ministra Rosa Weber
+Relatora
