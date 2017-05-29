@@ -1,0 +1,27 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Dori Alimentos Ltda. contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “TRIBUTÁRIO. ICMS. Mercadoria destinada à Zona Franca de Manaus. Ausência de declaração de internamento emitida pela SUFRAMA (art. 84, § 6º, do RICMS). Pretensão de não perder o direito ao benefício da isenção fiscal. INVIABILIDADE. Descumprimento de obrigação acessória (art. 175, do CTN).
+    Recurso desprovido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário em questão não se revela viável.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei estadual nº 6.374/89), o que torna incognoscível o apelo extremo.
+    Impõe-se observar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático-probatórios:
+    “A saída de produtos industrializados de origem nacional para comercialização ou industrialização na Zona Franca de Manaus ou Áreas de Livre Comércio são beneficiadas com isenção de tributo estadual, nos termos do Convênio ICMS nº 36/97 (art. 155, § 2º,XII, ‘g’, da Constituição Federal e art. 5º, da Lei Estadual nº 6.374/89), sendo o benefício condicionado à comprovação da entrada efetiva dos produtos no estabelecimento destinatário.
+    …...................................................................................................
+    A apelante relaciona diversos documentos que estariam a comprovar a efetiva entrada das mercadorias nas áreas incentivadas: primeiras vias das Notas Fiscais, cópias do livro Registro de Entradas do destinatário e Conhecimentos de Transporte Rodoviário de Cargas, menos aquele exigido pelo § 6º, do art. 84, do RICMS, Declaração de Ingresso emitida pela SUFRAMA (Superintendência da Zona Franca de Manaus).
+    A legislação atual não admite qualquer outro documento como prova de internamento na Zona Franca de Manaus. Essa falta de comprovação é admitida pela própria apelante.
+    …...................................................................................................
+    O beneficiário da isenção tem a obrigação de comprovar o internamento da mercadoria, observado, sempre, o disposto no § 2º, do art. 6º, da Lei n. 6.374/89: A outorga de benefício não dispensa o contribuinte do cumprimento de obrigações acessórias.
+    Ao contrário do que afirma a apelante, a isenção do ICMS constitui hipótese excepcional a reclamar estrito cumprimento da legislação que rege a matéria, mormente as obrigações acessórias consoante o disposto no art. 175, parágrafo único do CTN. Ademais, convém ressaltar que a interpretação da legislação tributária sobre exclusão de crédito tributário deve ser literal (art. 111, do mesmo diploma legal).”
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.040.719/SP, Rel. Min. ROBERTO BARROSO, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS NECESSÁRIOS À OBTENÇÃO DE ISENÇÃO. MULTA PELO DESCUMPRIMENTO DE OBRIGAÇÃO TRIBUTÁRIA. RAZOABILIDADE. PRÉVIA ANÁLISE DO REGULAMENTO E DA LEGISLAÇÃO INFRACONSTITUCIONAL FUNDAMENTADORES DO ACÓRDÃO RECORRIDO. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (ARE 832.200-AgR/SP, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 29 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
