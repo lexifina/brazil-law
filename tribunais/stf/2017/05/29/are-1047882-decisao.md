@@ -1,0 +1,20 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, caput, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Destaco que o primeiro juízo de admissibilidade do apelo extremo, seja por seus pressupostos extrínsecos, a que sujeitos todos os recursos, seja por seus pressupostos intrínsecos, está previsto no art. 28 da Lei 8.038/90. Nesse diapasão, cabe ao Tribunal de origem o exame da admissibilidade do extraordinário, facultado à parte, porventura inconformada, buscar o destrancamento do recurso justamente pelo meio processual de que está a se valer. Entendimento em sentido contrário tornaria letra morta o disposto no referido preceito legal.
+    Ressalto, ademais, que o caráter precário da análise pelo juízo a quo não vincula nem torna precluso o exame da matéria pelo juízo ad quem, razão pela qual inocorrente exorbitância da competência funcional pela Corte a quo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie (Lei estadual 6672/74 e Decreto Estadual 34.823/93), razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta 37, caput, da Lei Maior. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário.”
+    Nesse sentido:
+    “EMENTA: Agravo regimental em recurso extraordinário. 2. Promoção de professor estadual do nível 3 para o nível 6. Lei n.º 6.672/74 do Estado do Rio Grande do Sul. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento”. (RE 571416 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 14/09/2010, DJe-185 DIVULG 30-09-2010 PUBLIC 01-10-2010 EMENT VOL-02417-05 PP-01152)
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MAGISTÉRIO. MUDANÇA DE NÍVEL. LEI ESTADUAL N. 6.672/74. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DAS SÚMULAS 280 E 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 659202 AgR, Relator(a): Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 07/04/2009, DJe-084 DIVULG 07-05-2009 PUBLIC 08-05-2009 EMENT VOL-02359-12 PP-02518)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor Público Estadual. Magistério. Adicional noturno. Aplicação conforme legislação infraconstitucional (Leis Estaduais 6.672/74 e 10.098/94). 3. Inadmissibilidade do recurso extraordinário. 4. Necessidade do reexame prévio da legislação local. Óbice da Súmula 280 do STF. Precedentes. 5. Agravo regimental a que se nega provimento.” (ARE 780.376-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.2.2014)
+    Na esteira da Súmula 636/STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de maio de 2017.
+Ministra Rosa Weber
+Relatora
