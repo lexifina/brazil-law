@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA – BENEFÍCIO PREVIDENCIÁRIO – REAJUSTE – TETO – EMENDA CONSTITUCIONAL Nº 20/98 – AGRAVO DESPROVIDO.
+    1. O Tribunal de origem modificou o entendimento do Juízo e assentou a improcedência do pedido de revisão do benefício previdenciário da autora pelos novos tetos estabelecidos pelas Emendas Constitucionais nº 20/1998 e nº 41/2003, porquanto não limitado ao referido teto quando de sua concessão. No recurso extraordinário cujo trânsito busca alcançar, a recorrente alega violação do artigo 5º da Emenda Constitucional nº 41/2003 e 14 da Emenda Constitucional nº 20/1998. Articula com a incidência do novo teto previdenciário estabelecido pelas referidas emendas.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão atacada mediante o extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    Colho do acórdão recorrido o seguinte trecho:
+    Nos termos do entendimento firmado pelo STF, os benefícios concedidos anteriormente à edição da EC nº 20/98 e da EC 41/03 e que tiveram o salário de benefício limitado ao teto, devem sofrer a readequação dos valores fixados pelas referidas emendas, sem que isso implique ofensa ao ato jurídico perfeito.
+    Contudo, no caso dos autos, os documentos que instruíram o feito, comprovam que o benefício da parte autora, não foi limitado pelo teto do salário-de-benefício ou pelo teto da renda mensal inicial, considerando que o salário-de-benefício e a renda mensal foram fixados em Cr$ 62.115,01 (sessenta e dois mil, cento e quinze cruzeiros e um centavo), enquanto o teto vigente à época era de Cr$ 66.079,80 (sessenta e seis mil e setenta e nove cruzeiros e oitenta centavos) o que impede a sua revisão nos termos requeridos (Documento n.º 4058400.689184).
+    Registro que as alegações do recorrente partem de premissas estranhas às contidas na decisão atacada, buscando, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula desta Corte:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    No mais, a situação em jogo não se enquadra no que preconizado pelo Supremo no recurso extraordinário nº 564.354/SE, relatora a ministra Cármen Lúcia, acórdão publicado no Diário da Justiça de 15 de fevereiro de 2011. O referido entendimento pressupõe a limitação do benefício previdenciário pelo teto anterior às Emendas à Constituição nº 20/1998 e 41/2003, e não o alegado direito ao reajuste da renda mensal inicial de acordo com o incremento do teto.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5 % do valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 29 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
