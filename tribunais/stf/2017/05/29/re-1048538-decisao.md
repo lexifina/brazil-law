@@ -1,0 +1,9 @@
+DECISÃO: A parte recorrente, ao deduzir o presente recurso extraordinário, sustentou que o acórdão confirmado em sede de embargos de declaração pela 3ª Turma Recursal de Santa Catarina teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao julgar o  RE 631.880-RG/CE, Rel. Min. CEZAR PELUSO, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa, e, na mesma oportunidade, reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+    “Extraordinário. Gratificação de Desempenho da Carreira da Previdência, da Saúde e do Trabalho – GDPST. Critérios de cálculo. Extensão. Servidores públicos inativos. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso improvido. É compatível com a Constituição a extensão, aos servidores públicos inativos, dos critérios de cálculo da GDPST estabelecidos para os servidores públicos em atividade.”
+    Cumpre registrar, por oportuno, que os eminentes Ministros desta Suprema Corte têm determinado a incidência da sistemática da repercussão geral, inclusive quando houver julgamento sobre o mérito da matéria cuja transcendência foi reconhecida (RE 606.915/SP, Rel. Min. DIAS TOFFOLI – RE 607.501/SE, Rel. Min. LUIZ FUX – RE 907.942/RS, Rel. Min. EDSON FACHIN – RE 1.029.168/PR, Rel. Min. GILMAR MENDES – ARE 855.723-AgR-Segundo-ED/RJ, Rel. Min. GILMAR MENDES, v.g.).
+    Isso significa que se impõe, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução destes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 29 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
