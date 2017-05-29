@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “EMENTA — MANDADO DE SEGURANÇA - Pensão por morte — Suspensão do benefício previdenciário, com fulcro no artigo 51 da LF 9.717/98 c.c artigo 16 da LF 8.213/91 — Pretensão ao restabelecimento da pensão — Sentença de denegação da ordem — Recurso de apelação — Alegação da Administração de que os atos administrativos podem ser revistos, uma vez que ainda não transcorreu o prazo de dez anos estabelecido pela Lei 10.177/98 — Inadmissibilidade — Aplicação, por simetria, e pelos princípios da isonomia e reciprocidade ou similaridade, do artigo 1º do Decreto nº 20.910/32 — Precedentes desta Corte — Necessidade, também, de preservar os princípios da boa-fé e da segurança jurídica — Recurso provido”. (eDOC 1, p. 180)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a e d, da Constituição Federal, aponta-se violação ao art. 24, XII e § 4º, do texto constitucional.
+    Nas razões recursais, sustenta-se que compete aos Estados disporem sobre o trâmite de seus respectivos processos administrativos. Por esse motivo, levando em consideração o disposto na Lei Estadual 10.177/98, não haveria incidido, na hipótese, a decadência do direito de rever a pensão conferida aos recorridos.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar, legislação infraconstitucional aplicável à espécie (Decreto 20.910/32 e Lei Estadual 10.177/1998), consignou que o recorrente decaíra do direito de rever a concessão da pensão por morte. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Desse modo, o ato administrativo que concedeu a pensão por morte não pode ser revisto a qualquer tempo, tendo em vista os princípios da segurança jurídica, da boa-fé, da estabilidade das relações entre a Administração e os particulares e, ainda, em face do interesse público.
+    De outro lado, a jurisprudência deste Tribunal já se posicionou no sentido de que, nas hipóteses em que é demandante a Fazenda Pública ou suas autarquias, como no caso em tela, admissível a aplicação, por simetria com a matéria federal, e em observância ao princípio da isonomia, da reciprocidade ou similaridade, das disposições do Decreto n° 20.910/32, não se aplicando a LE n° 10.177/98.” (eDOC 1, p. 183)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confira-se, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO INTERPOSTO EM 25.02.2016. REVISÃO DE PENSÃO POR MORTE. AUSÊNCIA DE PREQUESTIONAMENTO DAS QUESTÕES CONSTITUCIONAIS INVOCADAS. SÚMULAS 282 E 356 DO STF. REEXAME. IMPOSSIBILIDADE. SÚMULA 280/STF. 1. As questões constitucionais invocadas no recurso extraordinário não foram objeto de debate no acórdão recorrido, o qual se limitou à análise de legislação local para reconhecer a decadência do direito à revisão do benefício de pensão por morte. Óbice das Súmulas 282 e 356 do STF. 2. Nos termos da orientação sedimentada na Súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 3. Agravo regimental a que se nega provimento”. (ARE 913077 AgR, rel. Min. Edson Fachin, Primeira Turma, DJe 7.10.2016)
+    No mesmo sentido, cito as seguintes decisões monocráticas: ARE 1.047.018, Rel. Min. Luiz Fux, DJe 23.5.2017; ARE 1.048.592, Rel. Min. Ricardo Lewandowski, DJe 29.5.2017; ARE 1.040.303, Rel. Min. Dias Toffoli, DJe 27.4.2017.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de maio de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
