@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objetivo é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “RECURSO DE APELAÇÃO. AÇÃO CONDENATÓRIA. ‘GRATIFICAÇÃO DE ATIVIDADE’ - EXTENSÃO AOS INATIVOS. CARÁTER ‘PROPTER LABOREM’. DESCABIMENTO. Servidores inativos que pretendem a extensão da ‘Gratificação de Atividade’ a si – Lei Municipal nº 15.362/2011. Descabimento. Vantagem que possui nítido caráter ‘propter laborem’, posto que paga somente de acordo com critérios e condições que somente servidores ativos podem preencher. Recurso desprovido.”
+    O recurso busca fundamento no art. 102, III, c, da Constituição Federal. A parte recorrente alega violação ao art. 40, § 8º, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário, pelos seguintes fundamentos: (i) “Com efeito, ao que se infere, os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada”; e (ii) incidem, no caso, as Súmulas 279 e 280/STF.
+    O recurso extraordinário é inadmissível. O acordão recorrido entendeu que a gratificação em debate não possui caráter genérico, o que impede sua extensão aos proventos do servidor aposentado. Dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza jurídica da mencionada vantagem exigiria o exame da legislação local pertinente (Lei complementar municipal nº 15.364/2011), o que é inviável em recurso extraordinário, nos termos da Súmula 280/STF. Nessa linha, vejam-se os seguintes julgados: ARE 724.094, Rel.ª Min.ª Rosa Weber; ARE 743.960, Rel. Min. Marco Aurélio; ARE 744.827, Rel. Min. Dias Toffoli; e ARE 751.284-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXTENSÃO DE GRATIFICAÇÃO A SERVIDORES INATIVOS. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO.
+    I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar norma infraconstitucional local (Lei Complementar municipal 15.364/2011), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes.
+    II - Agravo regimental improvido.”
+    Ademais, o Tribunal de origem também não julgou válida lei ou ato de governo local contestados em face da Constituição Federal, o que inviabiliza o recurso extraordinário com base na alínea c do inciso III do art. 102 da Constituição. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 29 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
