@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Servidora Pública Municipal de Sorocaba. Ação objetivando o cômputo de gratificações, bem assim da média anual das horas extraordinárias no cálculo das férias e do terço constitucional. Sentença de procedência. Recurso da Municipalidade buscando a inversão do julgado. Inadmissibilidade. Base de cálculo das férias e do terço constitucional de férias que deve incluir a média anual das horas extraordinárias e demais vantagens percebidas pelo servidor, nos termos do § 2º do artigo 69 da Lei Municipal nº 3.800/1991. Recursos oficial, considerado interposto, e voluntário improvidos”.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º, 37, caput e X; e 60, § 4º, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que o Tribunal de origem, ao decidir pela concessão as vantagens pecuniárias pleiteadas pela recorrida, incidiu em violação ao princípio da separação de poderes. Ademais, sustenta-se que somente lei específica poderá conceder aumento ou vantagens a servidores.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal a quo, ao examinar a legislação local aplicável à espécie, Lei 3.800/1991 do Município de Sorocaba, consignou que média das horas extras e das gratificações devem ser incluídas na base de cálculo das férias, do terço de férias e demais gratificações.
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em agravo de instrumento. 2. Policial civil. Jornada de trabalho. Regime de plantão. Pagamento de horas extras. 3. Aplicação do Estatuto dos Servidores Públicos Estaduais, Lei 2.148/77 do Estado de Sergipe. 4. Deslinde da controvérsia demanda análise da legislação local. Impossibilidade. Enunciado 280 da Súmula do STF. Precedentes desta Corte. 5. Ausência de argumentos suficientes para infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (AI-AgR 784.639, Segunda Turma, de minha relatoria, DJe de 27.03.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. HORAS EXTRAS E ADICIONAL NOTURNO. REGIME DE COMPENSAÇÃO. LEIS ESTADUAIS 2.068/1976, 2.148/1977 E 3.868/1977 E DECRETO 21.892/2003. MATÉRIA INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base no conjunto fático-probatório dos autos e na legislação infraconstitucional local aplicável à espécie, o que inviabiliza o recurso extraordinário, nos termos das Súmulas 279 e 280 do STF. Precedentes. II - Agravo regimental improvido.” (RE-AgR 606.516, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe de 05.05.2011).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de maio de 2017.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
