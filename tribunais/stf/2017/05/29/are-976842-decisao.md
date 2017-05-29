@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo contra inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, cuja ementa transcrevo:
+    “AGRAVO INTERNO. APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO MENSAL DE JUROS. ART.5 º DA MEDIDA PROVISÓRIA N.º 2.170-36/2001. POSSIBILIDADE. INEXISTÊNCIA DE ELEMENTOS APTOS A MODIFICAR A DECISÃO RECORRIDA. RECURSO CONHECIDO E DESPROVIDO”. (eDOC 3, p. 45)
+     No recurso extraordinário, interposto com fundamento no art. 102, inciso III, a, da Constituição Federal, sustenta-se violação aos artigos 62, § 1º, III; 173, §§ 4º e 5º; e 192 do texto constitucional.
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 18.3.2016.
+    No caso, registro que, no julgamento AI-QO 209.885/RJ, Rel. Min. Marco Aurélio, DJ 10.5.2002, o Plenário do Supremo Tribunal Federal consolidou o entendimento de que, nos termos do disposto no artigo 511 do Código de Processo Civil/1973 e, ainda, com amparo na norma do artigo 59 do Regimento Interno desta Corte, o preparo do recurso extraordinário deve ser efetuado dentro do prazo previsto para sua interposição. Eis a ementa dessa decisão:
+    “RECURSO EXTRAORDINÁRIO - PREPARO. Conjugam-se os artigos 59 do Regimento Interno do Supremo Tribunal Federal e 511 do Código de Processo Civil. Impõe-se a comprovação do preparo do extraordinário no prazo relativo à interposição deste. O fato de não haver coincidência entre o expediente forense e o de funcionamento das agências bancárias longe fica de projetar o termo final do prazo concernente ao preparo para o dia subseqüente ao do término do recursal”.
+    Ressalto, no mesmo sentido, precedentes de ambas as Turmas do Tribunal, conforme se depreende das ementas a seguir transcritas:
+    “Agravo regimental a que se nega provimento por considerar, esta Corte, deserto o recurso extraordinário cujo preparo foi efetuado no dia seguinte ao término do prazo recursal”. (AI-AgR 325.661, Rel. Min. Ellen Gracie, Primeira Turma, DJ 15.3.2002)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. 1. AUSÊNCIA DE PREPARO. DESERÇÃO. 2. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL). 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE-AgR 715.522, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4.12.2012)
+    Desse modo, constata-se que a jurisprudência desta Corte é no sentido de que o recurso extraordinário não pode ser admitido quando o preparo não é feito de forma correta.
+    Confiram-se ainda os seguintes precedentes: ARE 706.988, Rel. Min. Ricardo Lewandowski, DJe 17.9.2012; AI 704.101, Rel. Min. Joaquim Barbosa, DJe 24.3.2011; e ARE-AgR 707.484, Rel. Min. Dias Toffoli, Primeira Turma, DJe 28.6.2013, cuja ementa transcrevo:
+    “Agravo regimental no recurso extraordinário com agravo. Porte de remessa e retorno do recurso extraordinário. Comprovação no ato de interposição. Ausência. Deserção. Precedentes. 1. O preparo do recurso extraordinário deve ocorrer concomitantemente à sua interposição. Sua não efetivação, conforme os ditames legais, enseja a deserção do recurso. 2. Agravo regimental não provido”. (grifo nosso)
+    Vale ressaltar que, intimada para comprovar o pagamento do preparo do recurso, a parte quedou-se inerte.
+    Ainda que superado esse óbice, observo a deficiência da fundamentação do agravo, visto que suas razões estão dissociadas da matéria versada na decisão recorrida. No caso, o recurso extraordinário foi inadmitido por deserção. Entretanto, nas razões do agravo, a parte limitou-se a suscitar questões de mérito, argumentando que a negativa de seguimento ao apelo extremo fundamentou-se no fato de a decisão do tribunal de origem estar de acordo com a orientação desta Corte.
+    Desse modo, por não atacar o fundamento usado pelo Tribunal a quo para emitir juízo negativo de admissibilidade, incide no caso a Súmula 287 do STF, uma vez que a deficiência na fundamentação do agravo não permite a exata compreensão da controvérsia.
+    Nesse sentido, trago os seguintes precedentes de ambas as turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E ADMINISTRATIVO. RAZÕES RECURSAIS DISSOCIADAS DO QUE RESTOU DECIDIDO NA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 287/STF. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO” (ARE 782.043 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 10.12.2015).
+    “AGRAVO REGIMENTAL. PROCESSUAL CIVIL. RAZÕES RECURSAIS DISSOCIADAS DA FUNDAMENTAÇÃO ADOTADA NA DECISÃO AGRAVADA. NÃO PROVIMENTO DO RECURSO. ART. 317, § 1º DO RISTF. TRIBUTÁRIO. ICMS. IMUNIDADE. OPERAÇÕES INTERESTADUAIS COM COMBUSTÍVEIS, LUBRIFICANTES E DERIVADOS DE PETRÓLEO. Agravo regimental ao qual se nega provimento” (AI 829.218 AgR, rel. Min. Joaquim Barbosa, Segunda Turma, DJe 13.8.2012).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de maio de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
