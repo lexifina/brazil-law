@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “REEXAME NECESSÁRIO. DIREITO TRIBUTÁRIO. ITBI. IMUNIDADE. INTEGRALIZAÇÃO DO CAPITAL SOCIAL. HOLDING FAMILIAR. AUSÊNCIA DE ATIVIDADES. IMUNIDADE NÃO APLICÁVEL.
+    O art. 156, § 2°, inc. I, da CRFB excepciona as hipóteses de incidência do ITBI justamente para impulsionar a atividade financeira e econômica. Pela não incidência do imposto, fomenta-se o setor econômico e privilegia-se o interesse público, na medida em que as receitas incorporadas a cada pessoa jurídica acabam por incrementar o capital nacional. No caso concreto, conquanto a impetrante tenha concentrado seu patrimônio familiar através de uma personalidade jurídica, é incontroverso que ela não exerceu, desde a constituição, qualquer atividade. Assim, não se aplica a imunidade em apreço.
+    SENTENÇA REFORMADA EM REEXAME NECESSÁRIO. UNÂNIME”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação ao art. 156, § 2º, I, da Carta. Sustenta que cumpriu com os requisitos constitucionais para fazer jus à imunidade e que não poderia o Tribunal presumir que a intenção da empresa não seria a integralização do capital.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que incide a vedação da Súmula 279/STF.
+    A pretensão recursal não merece prosperar, tendo em vista que para dissentir das conclusões adotadas pelo Tribunal de origem sobre a natureza da atividade realizada pela parte recorrente e, consequentemente, sobre a imunidade do tributo incidente no caso, demandaria tão somente o reexame do conjunto fático e probatório, providência vedada em sede de recurso extraordinário.
+    Além de inexistir no recurso extraordinário fundamentação quanto à violação ao art. 102, III, c, as razões de decidir constantes do acórdão recorrido permitem concluir que o Tribunal de origem não julgou válida lei local em face da Constituição Federal, o que inviabiliza o recurso extraordinário com base na alínea c do inciso III do art. 102 da Carta. Não verifico na conclusão assentada um juízo de constitucionalidade de legislação lançado à luz da Constituição Federal. Nesse sentido, confira-se a ementa do AI 792.964-ED, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. É INCABÍVEL O RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NO ART. 102, INC. III, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA QUANDO NÃO HÁ APLICAÇÃO DE LEI local EM DETRIMENTO DA CONSTITUIÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 29 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
