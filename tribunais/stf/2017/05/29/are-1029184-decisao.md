@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA – SERVIDOR PÚBLICO MUNICIPAL – LEI COMPLEMENTAR N. 35/2002 – GOVERNADOR VALADARES – PROGRESSÃO HORIZONTAL – REQUISITOS PREENCHIDOS – DIFERENÇAS DEVIDAS – CUSTAS PROCESSUAIS – ISENÇÃO.
+    - Preenchidos os requisitos estabelecidos na Lei Complementar n. 35/2002, relativos à percepção de valores a título de progressão horizontal na carreira, as autoras, servidoras do Município de Governador Valadares, fazem jus ao recebimento das diferenças vencidas e não pagas.
+     - O Município é isento do pagamento de custas processuais, nos termos do artigo 10, inciso I, da Lei Estadual n. 14.939/2003.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação ao art. 37, XIV, da Constituição, bem como ao art. 17 do ADCT.
+    A decisão agravada negou seguimento ao recurso pelo seguinte fundamento: “Os preceitos constitucionais indicados não foram examinados pela Turma Julgadora, que não emitiu juízo explícito a respeito deles, haja vista ter prescindido da análise de tais normas ao desatar a lide. Ausente, portanto, o requisito do prequestionamento”.
+    O recurso é inadmissível. Isso porque as supostas ofensas ao texto constitucional não foram apreciadas pelo acórdão impugnado. O recurso extraordinário carece, portanto, de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, para dissentir das conclusões do Tribunal de origem, seriam necessárias a análise das normas infraconstitucionais pertinentes e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF.
+    Nesse sentido, veja-se o seguinte precedente:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO HORIZONTAL. PLANO DE CARREIRA. LEI COMPLEMENTAR MUNICIPAL Nº 35/2002. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 07.3.2014. 1. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional e na reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Precedentes. 3. Agravo regimental conhecido e não provido.” (ARE 898774-AgR, Rel.ª Min.ª Rosa Weber).
+    Diante do exposto, com base no art. 932, IV e VII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 29 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
