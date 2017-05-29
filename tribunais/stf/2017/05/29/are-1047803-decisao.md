@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO INVIABILIDADE AGRAVO DESPROVIDO.
+    1. O Tribunal Regional Federal da 3ª Região, reformando parcialmente o entendimento do Juízo, julgou improcedente o pedido de concessão de aposentadoria especial. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação do artigo 5º, inciso LV, da Constituição Federal. Argui nulidade processual por cerceamento de defesa, considerado o indeferimento da produção de prova pericial. Alega fazer jus ao benefício. Diz que a atividade realizada é insalubre, devendo ser reconhecido o tempo como especial.
+    2. Colho da decisão monocrática, expressamente mantida pelo Tribunal de origem, o seguinte trecho:
+    Inicialmente, esclareço que não há que se falar na realização de perícia, eis que a exposição a agentes nocivos é comprovada por meio de documentos, previstos nos atos normativos pertinentes. Tais documentos, ademais, encontram-se anexados aos autos, não estando demonstrada qualquer razão para sua desconsideração.
+    Outrossim, para comprovação da atividade insalubre, foram acostados aos autos, PPP (fls. 30/31 e fls. 72/73), Formulários DSS- 8030 (fls. 61/64) e Laudo Técnico Pericial (fls. 65/69, fls. 70/71) que demonstram que o autor desempenhou suas funções de:
+    - 06/03/1997 a 31/12/2003, na empresa COSIPA, exposto de modo habitual e permanente, ao agente agressivo ruído, em níveis superiores a 80dB(A), considerado inferior para caracterização como atividade especial.
+    - 01/01/2004 a 22/07/2007, na empresa COSIPA, exposto de modo habitual e permanente, ao agente agressivo ruído, sob o nível de 94dB(A), considerado prejudicial para a saúde, nos termos legais.
+    - 23/11/2007 a 21/08/2008, na empresa COSIPA, exposto de modo habitual e permanente, ao agente agressivo ruído, sob o nível de 94dB(A), considerado prejudicial para a saúde, nos termos legais.
+    Frise-se que não assiste razão a parte autora ao suscitar o quadro de transcrição dos níveis de pressão sonora (fls. 68/71). Isso porque, considerando-se o período compreendido entre 06/03/1997 a 31/12/2003, no setor de Laminação, onde o autor laborou, nota-se grande variação nos níveis de pressão sonora, havendo locais apontando ruídos inferiores a 90dB(A), exigido legalmente para a caracterização da atividade especial.
+    Contudo, forçoso reconhecer que o PPP - Perfil Profissiográfico Previdenciário (fls. 30/31 e fls. 72/73) se presta a comprovar a atividade especial exercida pelo autor no período de 01/01/2004 a 22/07/2007 e de 23/11/2007 a 21/08/2008, eis que tal documento indica a exposição do autor a ruído de 94dB(A), demonstrando de forma inequívoca sua exposição de modo habitual e permanente a índice superior a 85 dB, o que enseja a caracterização de atividade especial.
+    Destarte, faz-se necessária a reforma da r. sentença impugnada para reconhecer a atividade especial exercida pelo autor nos períodos de 01/01/2004 a 22/07/2007 e de 23/11/2007 a 21/08/2008.
+    Ora, somente pela análise das provas constantes do processo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária. Por outro lado, o ato impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 639.228/RJ, consignando a natureza infraconstitucional da questão, concluiu não ter repercussão geral o tema relativo à suposta ofensa aos princípios da ampla defesa e do contraditório quando o juiz indefere pedido de produção de provas.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 29 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
