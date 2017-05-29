@@ -1,0 +1,12 @@
+Solução de Consulta Cosit nº 246, de 22 de maio de 2017
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS
+EMENTA: NÃO INCIDÊNCIA. PRESTAÇÃO DE SERVIÇOS DECORRENTES DE OPERAÇÕES DE VENDAS DE MATERIAIS E EQUIPAMENTOS À ITAIPU BINACIONAL. SUBCONTRATAÇÃO DE SERVIÇO DE TRANSPORTE.
+Somente se aplica a não incidência da Cofins sobre o faturamento correspondente aos serviços de transporte de materiais e equipamentos vendidos à Itaipu Binacional quando decorrentes de operações efetuadas diretamente àquela entidade.
+Por outro lado, a subcontratação de transporte, com ponto de partida no território nacional, tendo por destino a sede da Itaipu Binacional no Paraguai, configura prestação de serviços de transporte internacional de cargas ou passageiros, cujas receitas são isentas da mencionada contribuição social.
+DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966 (Código Tributário Nacional), art. 111; Decreto Legislativo nº 23, de 1973; Medida Provisória nº 2.158-35, de 2001, art. 14, V e § 1º; Decreto nº 72.707, de 1973; Decreto nº 4.524, de 2002, art. 43, I; Portaria MF nº 237, de 1974; Instrução Normativa SRF nº 247, de 2002, art. 44, I; Instrução Normativa SRF nº 404, de 2004, art. 6º, IV; Ato Declaratório SRF nº 74, de 1999.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: NÃO INCIDÊNCIA. PRESTAÇÃO DE SERVI- ÇOS DECORRENTES DE OPERAÇÕES DE VENDAS DE MATERIAIS E EQUIPAMENTOS À ITAIPU BINACIONAL. SUBCONTRATAÇÃO DE SERVIÇO DE TRANSPORTE.
+Somente se aplica a não incidência da Contribuição para o PIS/Pasep sobre o faturamento correspondente aos serviços de transporte de materiais e equipamentos vendidos à Itaipu Binacional quando decorrentes de operações efetuadas diretamente àquela entidade.
+Por outro lado, a subcontratação de transporte, com ponto de partida no território nacional, tendo por destino a sede da Itaipu Binacional no Paraguai, configura prestação de serviços de transporte internacional de cargas ou passageiros, cujas receitas são isentas da mencionada contribuição social.
+DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966 (Código Tributário Nacional), art. 111; Decreto Legislativo nº 23, de 1973; Medida Provisória nº 2.158-35, de 2001, art. 14, V e § 1º; Decreto nº 72.707, de 1973; Decreto nº 4.524, de 2002, art. 43, I; Portaria MF nº 237, de 1974; Instrução Normativa SRF nº 247, de 2002, art. 44, I; Instrução Normativa SRF nº 404, de 2004, art. 6º, IV; Ato Declaratório SRF nº 74, de 1999.
+[arquivo anexo: SC Cosit nº 246-2017.pdf]
