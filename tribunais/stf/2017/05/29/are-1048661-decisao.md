@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – FORNECIMENTO DE MEDICAMENTOS – MATÉRIA FÁTICA – INVIABILIDADE AGRAVO DESPROVIDO.
+    1. Eis a síntese do acórdão recorrido:
+    Agravo interno em apelação cível. Ação de obrigação de fazer. Saúde pública. Medicamentos. Sentença que julgou procedente o pedido, condenando os Réus ao fornecimento dos medicamentos de que necessita o Autor. Responsabilidade solidária dos entes federativos. Súmula 65 desta Corte. Honorários fixados em desfavor do Município do Rio de Janeiro. Observância dos termos da Súmula 182 desta Corte. Condenação na prestação dos medicamentos necessários. Súmula 116 do TJ/RJ. Astreintes necessárias em decisões que objetivam o cumprimento de obrigação de fazer, estando o valor e o prazo fixados em sintonia com a natureza da obrigação. Agravo retido rejeitado. Desprovimento do recurso.
+    No extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 2º, 5º, cabeça e incisos LIV e LV, 97, 196, 197 e 198 da Constituição Federal. Diz ter ocorrido o afastamento, por órgão fracionário do Tribunal, da incidência de dispositivos da Lei n° 12.401/11, o que implica contrariedade à cláusula de reserva de Plenário. Discorre sobre a existência de medicamento fornecido pelo sistema público de saúde com idênticos efeitos terapêuticos. Aponta o risco de comprometimento da execução orçamentária.
+    2. De início, quanto à evocação do artigo 97 da lei Fundamental, no que direciona a atuação do Tribunal Pleno ou do órgão especial que lhe faça às vezes, tem-se que a Corte de origem não incorreu em erro de procedimento. Limitou-se a examinar a controvérsia à luz da legislação de regência. Descabe confundir declaração de inconstitucionalidade de norma com simples interpretação da lei, à luz do caso concreto.
+    O Supremo, no exame do recurso extraordinário nº 855.78/SE, da relatoria do ministro Luiz Fux, concluiu que o tratamento adequado aos necessitados insere-se no rol dos deveres do Estado, porquanto de responsabilidade solidária dos entes federados. O artigo 196 da Constituição Federal revela que a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e ao acesso universal e igualitário às ações e serviços para a sua promoção, proteção e recuperação. O preceito vincula a União, os estados, o Distrito Federal e os municípios.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    Os documentos de fls. 14/19, emitidos por médico da Secretaria Municipal de Saúde da Prefeitura de São Jesus de Itabapoana, são suficientes para atestar a existência da doença narrada na inicial e comprova a necessidade de medicação de uso contínuo.
+    Portanto, assiste aos Réus a obrigação de fornecer à parte Autora os medicamentos por ela solicitados.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 29 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
