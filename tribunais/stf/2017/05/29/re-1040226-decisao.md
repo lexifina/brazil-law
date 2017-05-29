@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. CONCURSO PÚBLICO. CABIMENTO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “PROCESSUAL CIVIL. CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. CONCURSO PÚBLICO. PROVA.
+PONTUAÇÃO. ATRIBUIÇÕES DA BANCA EXAMINADORA. COMPETÊNCIA PODER JUDICIÁRIO LIMITADA.
+    I. Afastada a preliminar de nulidade da sentença por incompetência do juízo, não prevalecendo a tese de que o presente feito deva ser distribuído por dependência ao proc. nº 0007175-49.2010.4.05.8300, para a 10ª Vara Federal, ante a existência de ações análogas. O presente feito constitui ação cautelar de exibição de documentos, a qual, por possuir caráter autônomo e satisfativo, não torna aquele juízo competente, de forma preventiva.
+    II. A ação cautelar de exibição de documentos tem por finalidade a obtenção de documento, próprio ou comum, que esteja em poder de co-interessado, sócio, condômino, credor ou devedor ou, ainda, em poder de terceiro que o tenha em sua guarda, como inventariante, testamenteiro, depositário ou administrador de bens alheios, nos termos do art. 844, I do CPC.
+    III. No caso, pretende o recorrente a exibição dos documentos que fundamentaram a sua reprovação no concurso público para
+provimento de cargo de Auditor Fiscal da Receita Federal do Brasil, além de documentos relativos a outros candidatos.
+    IV. Não merece guarida o inconformismo do apelante, seja por não haver previsão no edital de atribuição de notas da forma discriminada como pretende, seja por não ser cabível questionar os critérios do edital na via estreita de Ação Cautelar de Exibição de Documentos.
+    V. Não podem ser objeto de exibição os documentos que digam respeito à terceiros, no caso, notas, provas ou lista de presença, consoante preceitua o inciso II, do art. 844, do CPC.
+    VI. Apelação improvida.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXIII e XXXV, e 37, I, da Constituição Federal.
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Ab initio, ressalte-se que para divergir das razões do referido acórdão quanto ao cabimento ou não do ajuizamento de ação cautelar de exibição de documentos, no presente caso, seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Código de Processo Civil de 1973), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AÇÃO CAUTELAR. EXIBIÇÃO DE DOCUMENTOS. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. ALEGAÇÃO DE AFRONTA ÀS GARANTIAS CONSTITUCIONAIS DO PROCESSO. OFENSA REFLEXA. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie e a análise dos fatos e provas constantes dos autos. Providências vedadas na instância extraordinária. 2. Violação às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. 3. Agravo regimental desprovido.” (AI 800.071-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe de 26/11/2010).
+    Por fim, quanto à alegação de ofensa ao artigo 5°, XXXV, da Constituição Federal, melhor sorte não assiste à parte recorrente, tendo em vista que da análise dos autos é possível observar que a parte se valeu dos meios recursais cabíveis e teve a jurisdição devidamente prestada por decisões fundamentadas, embora contrárias aos seus interesses. Assim, não resta caracterizada a negativa de prestação jurisdicional. Nesse sentido, ARE 740.877-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 4/6/2013, o qual possui a seguinte ementa:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. 3. Alegação de ausência de prestação jurisdicional. Decisão fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. Precedente: AI-QO-RG 791.292 de minha relatoria, DJe 13.8.2010. 4. Afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, se dependente do reexame prévio de normas infraconstitucionais, configura ofensa reflexa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. 5. Alegação de ofensa ao princípio da legalidade. Enunciado 636 da Súmula desta Corte. 6. Ausência de argumentos suficientes para infirmar a decisão recorrida. 7. Agravo regimental a que se nega provimento.”
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de maio de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
