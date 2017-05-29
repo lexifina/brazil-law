@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+    “RECURSO INOMINADO. DETRAN. REGULARIZAÇÃO DE VEÍCULO. REMARCAÇÃO DO MOTOR. Em que pese a parte autora tenha trazido aos autos comprovação parcial de que o inquérito policial investigativo de irregularidade no motor do veículo foi arquivado, insta referir que o arquivamento ocorreu por impossibilidade de indiciamento, ou seja, não foi apurada a autoria delitiva, mas restaram colhidos indícios suficientes quanto à materialidade. A esfera penal, no entanto, é independente, de modo que o arquivamento do inquérito policial não pode obrigar o recorrente a tornar lícito o que é ilícito, haja vista a irregularidade do veículo na esfera administrativa (segundo o laudo, o motor teve a numeração identificadora suprimida pela ação de abrasivos) RECURSO INOMINADO PROVIDO POR MAIORIA”. (eDOC 4)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, XXII, do texto constitucional.
+    Nas razões recursais, alega-se que não se pretende a perpetuação da irregularidade, mas sim a regularização da propriedade do veículo em decorrência da boa-fé constatada no negócio jurídico. (eDOC 5, p. 5)
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Trânsito Nacional, Resolução 282/2008 do CONTRAN, Portarias 171/2002 e 243/2003 do DETRAN/RS) e o conjunto probatório constante dos autos, reconheceu a irregularidade do veículo na esfera administrativa, o que não permite o desbloqueio da placa para regularização. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Na espécie, em que pese a parte autora tenha trazido aos autos comprovação parcial de que o inquérito policial investigativo de irregularidade no motor do veículo foi arquivado, insta referir que o arquivamento ocorreu por impossibilidade de indiciamento, ou seja, não foi apurada a autoria delitiva, mas restaram colhidos indícios suficientes quanto à materialidade.
+    (…)
+    Diante do exposto, havendo causa impeditiva para a remarcação do motor do veículo e o seu devido licenciamento (impossibilidade de aferir a numeração que foi removida por abrasivos), dou provimento ao recurso do DETRAN, julgando improcedente a pretensão da parte autora”. (eDOC 191-192 e 196)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA COBRANÇA IRREGULAR DE IPVA. NEGATIVA DE LICENCIAMENTO DE VEÍCULO. DANOS MORAIS. REEXAME DE FATOS E PROVAS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. ENUNCIADOS 279 E 288 DA SÚMULA/STF. Agravo regimental a que se nega provimento”.(AI 663297 AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 11.11.2010)
+    “Agravo regimental no agravo de instrumento. Administrativo. Multa de trânsito. Artigo 5º, inciso XXXVI, da Constituição Federal. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. Inviável, em recurso extraordinário, a análise de ofensa indireta ou reflexa à Constituição Federal. 3. Agravo regimental não provido”. (AI 832.578 AgR, Primeira Turma, Rel. Min Dias Toffoli, DJe 28.4.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de maio de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
