@@ -1,0 +1,20 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 196 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Oportuna a transcrição parcial do acórdão recorrido:
+    “[...] as demandas envolvendo prescrição de medicamento são tratadas caso-a-caso, na medida em que não apenas a resposta de cada paciente é diferente, mas, sobretudo, o histórico de cada situação é diverso. Como já dito, sem grave ofensa ao princípio republicano não se pode desconsiderar a alternativa existente no âmbito do SUS, presumindo ser ela ineficaz, devendo restar comprovada concretamente a ineficácia na sua situação específica, o que, infelizmente, no caso examinado não ocorreu, já que não houve esgotamento das alternativas ofertadas pelo Sistema Único de Saúde
+    14. Verifica-se que, de fato, há tratamento alternativo existente para a demanda médica do paciente e a petição inicial não apresenta elementos satisfatórios, capazes de indicar minimamente a ineficácia dos tratamentos existentes na rede pública, sendo o pedido, na forma como foi apresentado, um pleito de tratamento diferenciado, de oferta do melhor tratamento possível, o que, nos termos já anunciados, não pode ser atendido. O que se busca é o melhor tratamento possível – o que como regra não é reconhecido - nada discorrendo acerca da ineficácia do tratamento ofertado no âmbito do SUS.
+    15. Diante, pois, da ausência de relato e comprovação de que o tratamento ofertado pelo SUS é ineficaz, deve o recurso ser provido [...]”
+    Desse modo, é certo que o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Cito:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. SUBSTITUIÇÃO POR FÁRMACOS FORNECIDOS PELO SISTEMA ÚNICO DE SAÚDE – SUS. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO. REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 827931-AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 26.9.2014)
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Fornecimento de medicamento. Medicamento não disponibilizado pelo SUS. Perícia judicial que conclui pela possibilidade de sua substituição por outro constante na rede pública. Escolha do melhor tratamento. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A verificação acerca do melhor tratamento a que deve ser submetido o agravante enseja, inevitavelmente, o reexame do conjunto fático-probatório da causa, para o que não se presta o recurso extraordinário. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido.” (RE 801841-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 04.9.2015)
+    No mesmo sentido, o seguinte julgado: ARE 1009810, Rel. Min. Alexandre de Moraes, DJe 22.5.2017.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de maio de 2017.
+Ministra Rosa Weber
+Relatora
