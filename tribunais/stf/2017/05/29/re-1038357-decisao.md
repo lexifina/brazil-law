@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional da Terceira Região, assim ementado:
+    “DIREITO CONSTITUCIONAL. DIREITO TRIBUTÁRIO. ITR. LEI 9.393/96. ALÍQUOTA PROGRESSIVA. FUNÇÃO SOCIAL DA PROPRIEDADE. LEGITIMIDADE DA COBRANÇA. SENTENÇA MANTIDA.
+    1- A Lei nº 9.393/96, ao dispor sobre o Imposto sobre a Propriedade Territorial Rural - ITR, instituiu progressividade em função do grau de utilização da terra (GU) e do tamanho da propriedade rural, determinando a forma de apuração do valor do imposto.
+    2- Com a alteração promovida pela EC n° 42/2003 no art. 154, § 4º, não há dúvida que a Constituição passou a albergar a progressividade fiscal. Antes estipulava ‘terá suas alíquotas fixadas de forma a desestimular a manutenção de propriedades improdutivas’ e passou a estipular ‘será progressivo e terá suas alíquotas (...), anteriormente ao ano-base em questão, sabendo-se que a lei, especialmente a Carta Magna, não contém palavras inúteis.
+    3- Firmada a jurisprudência no sentido da validade da progressividade de alíquota, nos termos da Lei 9.393/96, consoante o disposto no artigo 154, § 4º, da CF/88.
+    4- Apelação improvida.”
+    A parte recorrente alega contrariedade ao art. 153, § 4º da Constituição Federal, o qual determinaria que a progressividade do imposto territorial rural (ITR) deve ser estabelecida para desestimular a manutenção de propriedades improdutivas. Sustenta a impossibilidade de se estabelecer alíquotas progressivas em razão do tamanho da propriedade.
+    Decido.
+    A irresignação não merece prosperar.
+    No presente caso, o Tribunal de origem concluiu pela constitucionalidade da progressividade da alíquota do ITR (presente na Lei nº 9.393/96) em função da área do imóvel. Verifica-se que o posicionamento da Corte a quo não destoa do entendimento do Supremo Tribunal Federal.
+    No exame do RE nº 562.045/RS, Relatora para o acórdão a Ministra Cármen Lúcia, DJe de 27/11/13, submetido à sistemática da repercussão geral, o Tribunal Pleno firmou orientação no sentido de que todos os impostos, sejam eles de caráter pessoal ou real, devem observar a capacidade contributiva, nos termos do art. 145, § 1º, da Constituição Federal, e consignou que a progressividade fiscal seria apta para dar concretude a isso. Naquela ocasião, a Corte concluiu pela validade da progressividade fiscal de determinado imposto (ITCMD) cujo texto constitucional específico não previa, de modo expresso, a adoção dessa técnica.
+    Sobre o assunto, destaco a seguinte passagem do voto do Ministro Eros Grau proferido no julgamento daquele recurso extraordinário:
+    ‘(…) todos os impostos podem e devem guardar relação com a capacidade contributiva do sujeito passivo e não ser impossível aferir-se a capacidade contributiva do sujeito passivo do ITCD. Ao contrário, tratando-se de imposto direto, a sua incidência poderá expressar, em diversas circunstâncias, progressividade ou regressividade direta. Todos os impostos --- repito --- estão sujeitos ao princípio da capacidade contributiva, especialmente os diretos, independentemente de sua classificação como de caráter real ou pessoal; isso é completamente irrelevante.”
+    Eis a ementa daquele julgado:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. LEI ESTADUAL: PROGRESSIVIDADE DE ALÍQUOTA DE IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO DE BENS E DIREITOS. CONSTITUCIONALIDADE. ART. 145, § 1º, DA CONSTITUIÇÃO DA REPÚBLICA. PRINCÍPIO DA IGUALDADE MATERIAL TRIBUTÁRIA. OBSERVÂNCIA DA CAPACIDADE CONTRIBUTIVA. RECURSO EXTRAORDINÁRIO PROVIDO.” (RE nº 562.045/RS, Tribunal Pleno, Relatora para o acórdão a Ministra Cármen Lúcia, DJe de 27/11/13).
+    Corroborando o entendimento, cito o seguinte precedente, em que a Corte analisou caso idêntico ao dos presentes autos.
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ITR. PROGRESSIVIDADE DE ALÍQUOTAS EM PERÍODO ANTERIOR À EC 42/2003. LEI 8.847/1994. INEXISTÊNCIA DE CONTRARIEDADE À REDAÇÃO ORIGINAL DO 153, § 4º, DA CF. ART. 145, § 1º, DA CF. NECESSIDADE DE TODOS OS IMPOSTOS GUARDAREM RELAÇÃO COM A CAPACIDADE CONTRIBUTIVA DO SUJEITO PASSIVO, INDEPENDENTEMENTE DE POSSUIREM CARÁTER REAL OU PESSOAL. IMPOSTOS DIRETOS. UTILIZAÇÃO DE ALÍQUTOAS PROGRESSIVAS. CONSTITUCIONALIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Nos termos do art. 145, § 1º, da CF, todos os impostos, independentemente de seu caráter real ou pessoal, devem guardar relação com a capacidade contributiva do sujeito passivo e, tratando-se de impostos diretos, será legítima a adoção de alíquotas progressivas.. II – Constitucionalidade da previsão de sistema progressivo de alíquotas para o imposto sobre a propriedade territorial rural mesmo antes da EC 42/2003. III – Agravo regimental a que se nega provimento.” (RE nº 720.945/SP-AgR, Segunda Turma, Relator Ministro Ricardo Lewandowski, DJe de 18/9/14)
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de maio de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
