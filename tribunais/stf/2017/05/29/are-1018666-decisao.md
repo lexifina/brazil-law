@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem, reformando o entendimento do Juízo quanto à incompetência territorial, julgou procedente o pedido de pagamento, pela fornecedora de energia elétrica, dos valores antecipados pelo consumidor, bem como à indenização por danos morais. No extraordinário cujo trânsito pretende alcançar, a recorrente aponta a violação do artigo 37 da Constituição Federal. Discorre sobre a complexidade da matéria, aludindo à inadequação do rito da Lei nº 9.099/90. Afirma inexistir nexo de causalidade entre a conduta da empresa e o alegado prejuízo. Tece argumentos sobre a falta de razoabilidade quando da fixação do valor indenizatório.
+    2. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Nesse passo, não havendo contestação especifica da empresa Recorrida acerca do aludido valor, assim como inexiste nos autos prova da sua restituição/pagamento à parte autora, impõe-se a condenação da Recorrida ao pagamento da respectiva quantia, com os devidos acréscimos legais.
+    Demais disso, a Recorrida não logrou êxito em comprovar que a cobrança do importe de R$ 712,43 (...) era devida - apesar de veementemente contestada pelo requerente -, uma vez que contestou de forma genérica o tópico da inicial sobre este aspecto.
+    Dentre tudo o quanto acima mencionado, configurada restou a conduta ilícita perpetrada pela empresa Ré, bem como a prestação defeituosa do serviço ofertado pela Recorrida, motivo pelo qual deve responder objetivamente pelos danos suportados pela parte autora, inclusive os extrapatrimoniais, configurados na hipótese, de acordo com o quanto estabelecido no art. 14 do CDC.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4 Publiquem.
+Brasília, 29 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
