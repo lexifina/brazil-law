@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “RECURSO INOMINADO. AÇÃO ANULATÓRIA DE PROCESSO ADMINISTRATIVO. REPROVAÇÃO DE CONTAS PÚBLICAS. FALTA DE NOTITIFICAÇÃO. CERCEAMENTO DE DEFESA. RECURSO DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, LV, da Constituição. Sustenta que “não foram observadas as garantias de ampla defesa e do contraditório para o Recorrente, posto que, não obstante fosse o responsável pelas contas da Câmara Municipal e podendo ser alcançado pelos efeitos de decisão que reprovasse as contas, não houve sua intimação pessoal para apresentação de defesa. Por conta disso, não pôde apresentar seus argumentos para que fossem considerados pelo julgador, participar da instrução processual, acompanhar o julgamento, realizar sustentação oral, tomar ciência da decisão condenatória e recorrer.”
+    O recurso extraordinário não merece ser provido. Isso porque o Tribunal de origem não considerou demonstrada nenhuma ilegalidade no ato de notificação do recorrente acerca do processo em que figura como parte no Tribunal de Contas do Estado. Desse modo, dissentir dessa conclusão exigiria a análise da legislação infraconstitucional aplicada ao caso e o reexame de fatos e provas constantes dos autos, providências que não têm lugar neste momento processual (Súmula 279/STF).
+    Ademais, incide a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, Rel. Min. Ricardo Lewandowski:
+    “II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Diante do exposto, com base no art. 932, IV e VII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+     Publique-se.
+          Brasília, 30 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
