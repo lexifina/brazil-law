@@ -1,0 +1,19 @@
+Decisão
+    Trata-se de habeas corpus impetrado contra acórdão Superior Tribunal Militar (Apelação 111-90.2015.7.09.0009/MS, Rel. Ministro Gen. Ex. MARCO ANTÔNIO DE FARIAS), assim ementado:
+    (…) Sendo o agente militar ao tempo do crime — art. 52 do CPM-, a competência da Justiça Militar da União para processar e julgar o feito mostra-se, em face do art. 124 da CF/1988 e do art. 92 do CPM, ainda mais nítida, independentemente de ter sido excluído do serviço ativo — art. 94 da Lei n° 6.880/80 - Estatuto dos Militares.
+    Para o crime previsto no art. 290 do CPM, eventual exclusão do serviço ativo das Forças Armadas ocorrida no curso da Ação Penal não tem o condão de interferir no prosseguimento do processo já deflagrado. Precedentes do STM.
+    (...)
+    A censura prevista no art. 290, caput, do CPM consubstancia proteção voltada à preservação da saúde pública. A conduta expõe a perigo os integrantes e o patrimônio da OM, sendo ultrapassado o risco socialmente tolerado. Crime de perigo presumido, sem a exigência da materialização do dano pela consumação.
+    Decisão unânime.
+    Nesta ação, Defensoria Pública da União sustenta, em suma, que (a) não há condição de procedibilidade da ação penal perante a Justiça Militar, uma vez que o paciente foi licenciado dos serviços das Forças Armadas; (b) ocorrência de bis in idem, “já que não há dúvidas que os fatos motivadores da punição disciplinar (licenciamento à bem da disciplina) são os mesmos da reprimenda penal”; e (c) não há provas suficientes para a condenação. Requer, assim, a concessão da ordem, para “absolver o ‘cidadão civil’ do crime do art. 290, CPM”.
+    É relatório. Decido.
+    Em relação à alegada ausência de procedibilidade da ação penal perante a Justiça Castrense, não merece reparo o acordão impugnado. O Plenário do Supremo Tribunal Federal, ao apreciar caso análogo, decidiu que a condição de militar deve ser aferida no momento em que o delito é cometido, sendo irrelevante, para fins de fixação da competência da Justiça Militar, a posterior exclusão do agente do serviço ativo das Forças Armadas (cf. HC 127900, Relator(a): Min. DIAS TOFFOLI, DJe de 3/8/2016). Na mesma linha:
+    Crime praticado pelo Paciente quando ainda era militar. Irrelevância da posterior perda do vínculo com a corporação. competência fixada considerada a situação quando cometido o crime. (HC 134108, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, j. 31/05/2016)
+    No que concerne à suposta ocorrência de bis in idem, o Superior Tribunal Militar não examinou a questão. Desse modo, torna-se inviável a esta Suprema Corte conhecer dela originariamente, sob pena de indevida supressão de instância e violação das regras constitucionais de repartição de competências (HC 132.864-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, Dje de 18/3/2016; HC 136.452-ED, Rel. Min. ROSA WEBER, Primeira Turma, Dje de 10/2/2017; HC 135.021-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, Dje de 6/2/2017; HC 135.949, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, Dje 24/10/2016).
+    Por fim, em relação ao fundamento de que não há provas para justificar a condenação, as instâncias precedentes concluíram pela suficiência do conjunto probatório. Logo, para se chegar a conclusão diversa seria necessário o exame de fatos e provas, providência incompatível com esta via processual (HC 136622-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, Dje de 17/2/2017; HC 135748, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, Dje de 13/2/2017; HC 135956, Rel. Min. TEORI ZAVASCKI, Segunda Turma, Dje de 28/11/2016; HC 134445-AgR, Rel. Min. EDSON FACHIN, Primeira Turma, Dje de 27/9/2016).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO HABEAS CORPUS.
+    Publique-se.
+    Brasília, 30 de maio de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
