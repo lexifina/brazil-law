@@ -1,0 +1,10 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Otni Transportes e Serviços Ltda. EPP contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Pernambuco, está assim ementado:
+    “APELAÇÀO CÍVEL – EXECUÇÃO FISCAL – ICMS – AUTO DE INFRAÇÃO DEVIDAMENTE FUNDAMENTADO – inteligência dos arts.188, ‘caput’ e parágrafo único, do RICMS/SE, c/c os arts. 9º, I, ‘b’; 72, III, a, todos da lei nº 3796/96; art. 188 do Decreto nº 21400/2002 – IDONEIDADE DO DOCUMENTO FISCAL CONFIGURADA – PROCEDIMENTO FISCAL REALIZADO DE MODO ESCORREITO – OBSERVÂNCIA DAS NORMAS QUE REGEM A MATÉRIA – INEXISTÊNCIA DE PROVA QUE DESCONSTITUA O ATO ADMINISTRATIVO VERBERADO – LEGISLAÇÃO ESTADUAL QUE REGE A MATÉRIA - RECURSO DE APELAÇÃO CÍVEL CONHECIDO E DESPROVIDO – DECISÃO UNÂMINE.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito na no art. 150, IV, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 640.452-RG/RO, Rel. Min. ROBERTO BARROSO, reconheceu existente a repercussão geral da questão constitucional nele suscitada, que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa.
+    O tema objeto do recurso extraordinário representativo de mencionada controvérsia jurídica, passível de se reproduzir em múltiplos feitos, refere-se ao “Caráter confiscatório da ‘multa isolada’ por descumprimento de obrigação acessória decorrente de dever instrumental” (Tema nº 487 – www.stf.jus.br – Jurisprudência – Repercussão Geral).
+    Isso significa que se impõe, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 30 de maio de 2017.
+Ministro CELSO DE MELLO
+Relator
