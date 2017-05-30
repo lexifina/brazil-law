@@ -1,0 +1,20 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 24, XII, 40, §§ 7º, 18, e 201, §5, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo (Leis Estaduais n. 10.366/1990 e 13.962/2001, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “DIREITO PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PENSÃO POR MORTE. CÔNJUGE DIVORCIADA. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. LEI 10.366/1990 DO ESTADO DE SÃO PAULO. OFENSA À CONSTITUIÇÃO FEDERAL NÃO CONFIGURADA. Embargos de declaração recebidos como agravo regimental. Controvérsia limitada à interpretação de legislação local, a inviabilizar o reexame da matéria na via extraordinária. Aplicação da Súmula 280/STF: “por ofensa a direito local não cabe recurso extraordinário”. Agravo regimental a que se nega provimento.”
+(AI 828242 ED, de minha relatoria, Primeira Turma, julgado em 10/04/2012, ACÓRDÃO ELETRÔNICO DJe-088 DIVULG 04-05-2012 PUBLIC 07-05-2012)
+    “EMENTA: DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DESCABIMENTO. 1. Hipótese em que a resolução da controvérsia demandaria a análise da norma infraconstitucional pertinente, bem como o reexame do conjunto fático-probatório dos autos (Súmulas 279 e 280/STF), procedimentos inviáveis nesta fase recursal. Precedente. 2. Agravo regimental a que se nega provimento.”
+(ARE 770987 AgR, Relator(a):  Min. ROBERTO BARROSO, Primeira Turma, julgado em 22/09/2015, PROCESSO ELETRÔNICO DJe-202 DIVULG 07-10-2015 PUBLIC 08-10-2015)
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Previdenciário. Restabelecimento de pensão. Indeferimento de diligência probatória. Inexistência de repercussão geral. Legislação local. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Plenário da Corte, no exame do ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, concluiu pela ausência de repercussão geral do tema relativo à suposta violação dos princípios do contraditório e da ampla defesa nos casos de indeferimento de produção de provas no âmbito de processo judicial, dado o caráter infraconstitucional da matéria. 2. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 280 e 279/STF. 3. Agravo regimental não provido.”
+(ARE 778863 AgR, Relator(a):  Min. DIAS TOFFOLI, Primeira Turma, julgado em 27/05/2014, PROCESSO ELETRÔNICO DJe-122 DIVULG 23-06-2014 PUBLIC 24-06-2014)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento ao agravo (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de maio de 2017.
+Ministra Rosa Weber
+Relatora
