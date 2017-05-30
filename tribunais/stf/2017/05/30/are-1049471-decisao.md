@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AÇÃO CIVIL PÚBLICA. DIREITO DE CONSUMIDOR. AGRAVO DE INSTRUMENTO. AGRAVANTE QUE PUGNA PELA LIMITAÇÃO TERRITORIAL DA DECISÃO E PELA CASSAÇÃO DA DECISÃO QUE INVERTEU O ÔNUS DA PROVA. RECURSO DESPROVIDO. 1. o Superior Tribunal de Justiça (REsp 1243887/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial), ao julgar recursos especiais repetitivos, firmou a tese para os fins do art. 543-C do CPC estabelecendo que ‘os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, levando-se em conta, para tanto, sempre a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo (arts. 468, 472 e 474, CPC e 93 e 103, CDC). 2. A inversão ora deferida visa à facilitação da defesa do consumidor, sendo ônus da instituição financeira a demonstração da regularidade das cobranças praticadas.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 97 da Constituição Federal, sob o fundamento de negativa de vigência do art. 16 da Lei nº 7.347/1985.
+    O recurso extraordinário é inadmissível, tendo em vista que o preceito constitucional tido por violado não foi objeto de análise pelo Tribunal de origem. Tampouco foi suscitado em embargos de declaração para suprir eventual omissão, de modo que o recurso carece de prequestionamento (Súmulas 282 e 356/STF).
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (arts. 17 e 18 da Lei nº 7.347/1985).
+    Publique-se.
+          Brasília, 30 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
