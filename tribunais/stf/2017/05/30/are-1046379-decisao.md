@@ -1,0 +1,21 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “Processual civil. Agravo de instrumento contra decisum que, nos autos do processo 0000023-27.2008.4.05.8103, deferiu o pedido de destaque dos honorários advocatícios contratuais.
+    1. Sustenta a parte agravante que a decisão agravada incidiu em total violação ao art. 60, do ADCT, bem como à Lei 9.424/96, ao determinar, do precatório a ser expedido sobre a parte incontroversa, o destaque da verba honorária contratual.
+    2. O cerne da questão debatida no presente agravo é a possibilidade de destaque dos honorários advocatícios contratuais do precatório, em epígrafe, relativos às verbas do Fundef que não foram pagas nas épocas próprias.
+    3. O posicionamento deste Relator é no sentido de que não pode haver o destaque dos honorários advocatícios contratuais, posto que o § 4º, do art. 22, da Lei 8.906/94, ao se referir a dedução de quantia a ser recebida pelo constituinte deixou bem claro se cuidar de condenação destinada diretamente ao constituinte, que, in casu, é da Prefeitura, e, não, do Prefeito. Neste aspecto, agrega-se a companhia do des. Francisco Cavalcanti, conforme se observa no julgamento do AG 126993, DJE de 19 de outubro de 2012.
+    4. Entretanto, o posicionamento da Turma já se firmou no sentido de que é direito do advogado a retenção do percentual de honorários contratuais, se requerida, mediante a juntada do contrato, antes da expedição do requisitório, com arrimo no art. art. 22, parágrafo 4º, da Lei 8.906/94, razão pela qual fica-se vencido no presente recurso.
+    5. Precedentes: AG 142381, des. Paulo Roberto de Oliveira Lima, DJE de 03 de agosto de 2015; AG 141497, desta relatoria, DJE de 02 de julho de 2015.
+    6. Agravo de instrumento improvido, por maioria, vencido o Relator” (pág. 240 do volume eletrônico 1) .
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação ao art. 60 do ADCT, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Do exame dos autos e da leitura atenta ao julgado de origem, verifica-se que a instância a quo decidiu a lide amparada na legislação ordinária pertinente.
+    Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279/STF – e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta, o que é insuficiente para amparar o apelo extremo. Sobre o tema cito os seguintes precedentes:
+    “Ementa: RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PROCESSO CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO FUNDEF. PRECATÓRIO. RETENÇÃO DE HONORÁRIOS CONTRATUAIS. DESVIO DE FINALIDADE: MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO” (RE nº 915.109/PE, Rel. Min. Cármen Lúcia).
+    “Ementa: RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. FUNDEF. VMNA. VINCULAÇÃO DOS VALORES. EXECUÇÃO. PRECATÓRIO. POSSIBILIDADE DE RETENÇÃO DE HONORÁRIOS CONTRATUAIS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. GARANTIA DE ACESSO À JUSTIÇA. RAZÕES SUFICIENTES PARA A MANUTENÇÃO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. RECURSO DESPROVIDO” (RE nº 914.948/PE, Rel. Min. Luiz Fux).
+    A propósito, registro que a Primeira Turma, na sessão virtual de 17 a 23/3/2017, por unanimidade, negou provimento ao agravo regimental interposto contra a supracitada decisão monocrática proferida no RE 914.948/PE.
+    No mesmo sentido, cito as seguintes precedentes, entre outros: ARE 1.017.945, Rel. Min. Marco Aurélio; RE 879.933, Rel. Min. Gilmar Mendes; ARE 1.002.610, Rel. Min. Roberto Barroso e ARE 974.419, Rel. Min. Edson Fachin.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 30 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
