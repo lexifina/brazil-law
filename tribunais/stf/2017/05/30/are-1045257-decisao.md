@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão de Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “CONSTITUCIONAL - TRIBUTÁRIO — ICMS — SENAI —Imunidade - Importação de equipamento para uso de suas finalidades institucionais — Prestador de serviços de interesse público e social, sem fins lucrativos, que preenche os requisitos do artigo 14 do CTN - Imunidade tributária reconhecida - Recurso voluntário desprovido.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, do permissivo constitucional, aponta-se violação aos artigos 5º, LXIX, e 150, VI, “c”, e § 4º, da Constituição Federal.
+    Nas razões recursais, sustenta-se que o Senai não goza de imunidade tributária quando importa maquinário para compor o ativo fixo.
+    Assevera-se, ainda, que a operação de importação está sujeita à cobrança de ICMS.
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o recurso por considerar que os fundamentos do recurso não infirmaram as razões do acórdão recorrido.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Constata-se que o acórdão recorrido não diverge da jurisprudência pacífica desta Corte, segundo a qual a imunidade tributária consignada no art. 150, inciso VI, alínea ‘c’, da Constituição Federal, abrange o ICMS incidente na importação de bens utilizados na prestação de serviços específicos das entidades de assistência social sem fins lucrativos.
+    Confiram-se, a propósito, os seguintes precedentes:
+    "Agravo regimental no agravo de instrumento. ICMS. Imunidade. Importação. Precedentes. Repercussão geral presumida. 1. É pacífico o entendimento desta Corte no sentido de que a imunidade tributária consignada no art. 150, inciso VI, alínea ‘c’, da Constituição Federal abrange o Imposto sobre Circulação de Mercadorias e Serviços (ICMS) incidente na importação de bens utilizados na prestação de serviços específicos das entidades de assistência social sem fins lucrativos. 2. Caso de repercussão geral presumida, conforme disposto no art. 543-A, § 3º, do Código de Processo Civil. Agravo regimental não provido.” (AI 776.205 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 18.10.2011)
+     “RECURSO. Extraordinário. Inadmissibilidade. Tributo. Imposto sobre circulação de mercadorias - ICMS. Importação de mercadorias. Entidade prestadora de serviço de ensino, sem fins lucrativos. Imunidade reconhecida (art. 150, VI, c, da Constituição Federal). Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte” (RE 571.809 AgR, Segunda Turma, Rel. Min. CEZAR PELUSO, DJe de 09.02.210).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMUNIDADE: ABRANGÊNCIA DO IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. IMPORTAÇÃO DE EQUIPAMENTOS MÉDICOS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 311.626 AgR , Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 26.06.2009)
+    “DIREITO CONSTITUCIONAL E TRIBUTÁRIO. ICMS. IMUNIDADE TRIBUTÁRIA. ENTIDADE SEM FINS LUCRATIVOS. IMPORTAÇÃO DE EQUIPAMENTOS MÉDICOS. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. RECURSO MANEJADO SOB A VIGÊNCIA DO CPC/1973. 1. O entendimento da Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no Supremo Tribunal Federal, no sentido de que a imunidade insculpida no art. 150, VI, “c”, da Constituição Federal se aplica ao ICMS. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.”
+(RE 596885 AgR-terceiro, Rel. Min. ROSA WEBER, Primeira Turma, DJe 28.09.2016)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 30 de maio de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
