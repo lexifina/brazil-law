@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal Regional da 4ª Região, ementado nos seguintes termos:
+    “BENEFÍCIO CONCEDIDO ADMINISTRATIVAMENTE NO CURSO DA AÇÃO, MAIS VANTAJOSO, E EXECUÇÃO DAS PARCELAS ATRASADAS DO BENEFÍCIO POSTULADO EM JUÍZO. POSSIBILIDADE. BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE ABATIMENTO DE VALORES. COMPENSAÇÃO VERBA HONORÁRIA FIXADA NA AÇÃO PRINCIPAL COM A FIXADA NOS EMBARGOS À EXECUÇÃO. IMPOSSIBILIDADE”. (eDOC 1, p. 123)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI; 194 e 195 do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão recorrido, ao entender que o segurado pode optar pelo benefício mais vantajoso, concedido na via administrativa, e também receber as parcelas atrasadas referentes ao benefício reconhecido judicialmente, ofendeu especialmente o ato jurídico e o princípio da solidariedade.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 8.213/91) e o conjunto probatório constante dos autos, entendeu pela possibilidade da manutenção do benefício concedida na via administrativa e, concomitantemente, a execução das de parcelas atrasadas do benefício concedido judicialmente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Tenho que merece guarida a pretensão recursal da parte autora, tendo em vista a possibilidade da manutenção do benefício concedido administrativamente no curso da ação e, concomitantemente, a execução das parcelas do benefício postulado na via judicial até a data da implantação administrativa.
+    A Terceira Seção desta Corte, por voto de desempate de seu Presidente, firmou o entendimento na linha do acima esposado, conforme se pode ver na ementa a seguir transcrita:
+    (…)
+    Assim, considerando-se a jurisprudência desta Corte e o contido no título judicial, merece ser reformada a sentença, uma vez que a mera opção pelo segundo benefício (mais vantajoso), sem a possibilidade de execução das parcelas do primeiro benefício, a que já fazia jus e lhe fora indevidamente recusado na via administrativa, obrigando-o a postulá-lo em juízo, configuraria indevido gravame ao segurado, tendo em vista não ter concorrido para o equívoco da autarquia, que seria beneficiada apesar do ilegal ato administrativo de indeferimento do benefício na época oportuna”.
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. 1. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 2. Necessidade de reexame de fatos e provas. Incidência da Súmula n. 279 do Supremo Tribunal Federal. 3. Interposição simultânea de recursos extraordinário e especial. Aplicabilidade do art. 543, § 1º, do Código de Processo Civil somente se admitidos os recursos. Precedentes. 4. Sucumbência recíproca. Matéria infraconstitucional. Questão a ser verificada pelo juízo da execução. Precedentes. 5. Agravo regimental ao qual se nega provimento”. (AI 792.204/MG-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe 15.8.2012)
+    “DIREITO PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. O acórdão recorrido reconheceu o direito da impetrante com fundamento no conjunto fático-probatório delineado nos presentes autos (Súmula STF 279) e na legislação infraconstitucional. 2. O agravante não trouxe nenhum argumento capaz de infirmar o entendimento adotado pela decisão impugnada, que deve ser mantida por seus próprios fundamentos. 3. Agravo regimental a que se nega provimento” (AI 787.773/RJ-AgR, Segunda Turma, Rel. Min. Ellen Gracie, DJe de 24.2.2011).
+    Cito ainda as seguintes decisões monocráticas: RE 906.499, Rel. Min. Dias Toffoli, DJe 23.9.2015; RE 891.891, Rel. Min. Roberto Barroso, DJe 16.6.2015; e ARE 905.014, Rel. Min. Luiz Fux, DJe 31.8.2015.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de maio de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
