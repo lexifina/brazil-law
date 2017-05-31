@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 250, de 23 de maio de 2017
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS
+EMENTA: REMUNERAÇÃO RETROATIVA PREVISTA EM LEI. SERVIDOR PÚBLICO VINCULADO AO RGPS COMO SEGURADO EMPREGADO. FATO GERADOR. MOMENTO DE OCORRÊNCIA.
+O fato gerador da contribuição previdenciária relativa a remuneração do segurado empregado, a cargo deste e da empresa, ocorre no mês em que a remuneração é paga, devida ou creditada, o que ocorrer primeiro.
+O recolhimento regular das contribuiçõesé até o dia 20 (vinte) do mês subsequente à ocorrência do fato gerador ou no dia útil imediatamente anterior, caso não haja expediente bancário naquele dia, para efeito de não incidência de juros e multa de mora.
+Em regra, o fato gerador da contribuição relativa às parcelas de remuneração pagas de forma retroativa, ou seja, pagas em atraso, ocorre em cada uma das competências em que a parcela era devida, mesmo sendo paga ou creditada posteriormente.
+Nas hipóteses em que parcelas de remuneração concedidas de forma retroativa somente passam a ser devidas com o advento do instrumento jurídico que a constituiu, este advento é o momento de ocorrência do fato gerador das contribuições, marco para a contagem do prazo para seu regular recolhimento, sem acréscimos de juros e multa, ou marco para a contagem dos juros e multa de mora no caso de pagamento em atraso.
+Neste caso, em relação às parcelas de remuneração retroativas, devem ser empregados códigos específicos para a informação em GFIP e para o recolhimento das contribuições, conforme prevê, o inciso I do §1º e §3º deste art. 108 da IN RFB nº 971, de 2009, para situação análoga.
+DISPOSITIVOS LEGAIS: Constituição Federal de 1988, art. 40, §13; Lei nº 8.212, de 1991, arts. 13, 20, 22, incisos I e II, 28, inciso I, art. 30, inciso I, alíneas “a” e “b”; RPS aprovado pelo Decreto 3.048, de 1999, art. 9º, inciso I, alínea “l”; IN RFB nº 971, de 2009, Art. 52, inciso I, alínea “a”, inciso III, alínea “a” e art.108.
+[arquivo anexo: SC Cosit nº 250-2017.pdf]
