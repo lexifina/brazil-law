@@ -1,0 +1,21 @@
+Decisão: Trata-se agravo cujo objeto é a decisão que não admitiu recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, que negou a percepção dos adicionais de periculosidade, insalubridade e noturno ao recorrente (eDOC 2, p. 148).
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 168).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta ofensa aos arts. 1º; 5º, XXXIV, “a”, XXXV e LV; 6º; e 7º, IX e XIII; e 39, § 3º, da Constituição Federal.
+    Nas razões recursais, sustenta, em suma, que “não há que se falar que o pagamento dos referidos adicionais implicará em aumento do subsídio fixo, pois não há óbice constitucional para o recebimento na remuneração de parcela que venha a corresponder circunstância específica daquela atividade.” (eDOC 2, p. 228).
+    A Vice-Presidência do TRF/3ª Região inadmitiu o recurso com base na Súmula 279 do STF (eDOC 2, p. 263).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, reproduzindo trechos da decisão monocrática, quando do julgamento do agravo, asseverou que (eDOC 2, p. 147):
+    “A Medida Provisória nº 305/2006, posteriormente convertida na Lei 11.358 do mesmo ano, determinou que os integrantes da Carreira Policial Federal passam a ser remunerados mediante subsídio em parcela única, excluindo de seu âmbito, expressamente, as parcelas remuneratórias denominadas adicionais de periculosidade, in salubridade e noturno.”
+    Como se depreende desses fundamentos e daqueles que constam da ementa do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o exame da legislação infraconstitucional aplicável à espécie (Lei Federal nº 11.358/06). Dessa forma, resta demonstrado a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da vedação contida na Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 15.8.2016. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO REMUNERADO POR SUBSÍDIO. RECEBIMENTO DE HORAS EXTRAS E ADICIONAL NOTURNO. EXAME DE LEGISLAÇÃO INFRA. INVIABILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. IMPOSIÇÃO DE MULTA. AGRAVO REGIMENTAL DESPROVIDO .
+    1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, quanto à possibilidade de pagamento ou não das horas extras e do adicional noturno para os servidores que recebam remuneração por subsídio, seria necessário o exame de legislação infra, além do reexame de de fatos e provas. Incidência da Súmula 279 do STF.
+    2. Agravo regimental a que se nega provimento, com majoração de honorários advocatícios, com base no art. 85, § 11, do CPC, e aplicação de multa, nos termos do art. 1.021, § 4º, do CPC.” (RE 951.925-AgR, de minha relatoria, Primeira Turma, DJe de 19/12/2016)
+    “Agravo regimental em recurso extraordinário. 2. Adicional de periculosidade. Agentes penitenciários estaduais remunerados por subsídio. 3. Leis 5.247/1991, 6.772/06 e 6.906/2008 do Estado de Alagoas. 4. Análise da legislação local e revolvimento do conjunto fático-probatório. Incidência das súmulas 279 e 280. 5. Agravo regimental a que se nega provimento.” (RE nº 835.578-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe de 8/6/15)
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil, e majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os limites dos §§ 2º e 3º do artigo 85, §11, do CPC.
+    Publique-se.
+    Brasília, 31 de maio de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
