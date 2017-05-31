@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à procedência do pedido de contagem recíproca do tempo de serviço prestado sem a realização de concurso, para fins de aposentadoria no setor público, considerada a legislação de regência. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação do artigo 37, inciso II, da Constituição Federal. Argui a nulidade do contrato de trabalho, tendo como impossível a averbação do tempo trabalhado. Diz contrariado o princípio do respeito ao concurso público.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Consta da sentença, expressamente confirmada pelo Colegiado:
+    Verifica-se dos documentos acostados aos autos que, realmente, o autor atuou como professor do Estado, no período compreendido entre 01/02/1986 a 31/12/1988, no Departamento Regional Estadual de Educação de Porangatu-Goiás. (movimentação n. 01).
+    Ressalte-se, por oportuno, que a requerida não nega que a requerente prestou os serviços noticiados. Não restam duvidas, portanto, que a autora faz jus ao tempo de serviço pleiteado e demonstrado em sua peca vestibular, por ser esse o meio legal de comprovar o seu labor para fins de averbação, independentemente do tipo de contratação, descabendo-se falar em afronta aos princípios da legalidade, moralidade e impessoalidade.
+    Destarte, possível a averbação do tempo de serviço, satisfatoriamente demonstrado nos autos, como pretendido pela promovente.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em recurso inominado dos honorários advocatícios no valor de R$ 600,00 (seiscentos reais), fixo os honorários recursais no patamar de R$ 300,00 (trezentos reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 31 de maio de 2017.
+Ministro MARCO AURÉLIO
+Relator
