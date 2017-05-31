@@ -1,0 +1,9 @@
+Decisão: Trata-se recurso extraordinário contra acórdão de Tribunal Regional Federal da 3ª Região em que se discute a possibilidade de exclusão dos créditos escriturais do PIS e da COFINS da base de cálculo do Imposto de Renda da Pessoa Jurídica (IRPJ) e da Contribuição Social Sobre o Lucro Líquido (CSLL), no regime não cumulativo.
+    Esta Corte, ao julgar o ARE-RG 957.842, de relatoria do Ministro Teori Zavascki, DJe 21.09.2016 (Tema 911), refutou a existência de repercussão geral da controvérsia vertida nos autos. Na oportunidade, o acórdão ficou assim ementado:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO DE RENDA PESSOA JURÍDICA (IRPJ) E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO (CSLL). BASE DE CÁLCULO. INCLUSÃO DOS CRÉDITOS ESCRITURAIS DA CONTRIBUIÇÃO AO PROGRAMA DE INTEGRAÇÃO SOCIAL (PIS) E DA CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. Possui natureza infraconstitucional a controvérsia relativa à inclusão, na base de cálculo do IRPJ e da CSLL, dos créditos escriturais apurados no regime não cumulativo da contribuição ao PIS e da COFINS. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 1.035 do CPC/2015.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 31 de maio de 2017.
+Edson Fachin
+Relator
+Documento assinado digitalmente
