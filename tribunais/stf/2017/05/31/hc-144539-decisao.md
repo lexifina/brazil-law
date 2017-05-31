@@ -1,0 +1,29 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Ângelo Goulart Villela, contra decisão do Ministro Edson Fachin proferida nos autos da AC 4.331.
+    Os impetrantes esclarecem, inicialmente, não desconhecerem a jurisprudência desta Suprema Corte em relação ao não cabimento de HC contra ato de Ministro da Casa. No entanto, alegam que a situação em exame é teratológica a permitir o conhecimento do writ.
+    Em seguida, narram que o Procurador Geral da República requereu a instauração de inquérito policial contra várias autoridades: o Presidente da República, um Senador, um Deputado Federal, um Procurador da República, entre outras pessoas. Além disso, pugnou por diversas prisões preventivas, mas apenas a do paciente e a de um outro acusado foi deferida.
+    Contra essa decisão, a defesa interpôs agravo regimental.
+    Afirmam, contudo, que o relator não apreciou o agravo, nem o submeteu a Turma ou ao Plenário. Além disso, determinou o desmembramento do inquérito em relação ao paciente e remeteu os autos ao Tribunal Regional da 3ª Região.
+    Sustentam, nessa linha, que, embora o Ministro tenha reconhecido a incompetência absoluta do STF para processar e julgar o paciente, manteve a sua prisão.
+    Requerem, ao final, o deferimento de liminar, a fim de revogar a prisão preventiva do paciente.
+    No mérito, pedem a concessão da ordem.
+    É o relatório necessário. Decido.
+    Bem examinados os autos, tenho que o writ não comporta seguimento.
+    Isso porque a jurisprudência desta Corte está consolidada no sentido de não ser cabível a impetração de habeas corpus contra ato jurisdicional do próprio Supremo Tribunal Federal.
+    Os reiterados julgados nessa mesma esteira resultaram na edição da Súmula 606. Eis o teor do mencionado verbete: “Não cabe habeas corpus originário para o Tribunal Pleno de decisão de Turma, ou do Plenário, proferida em habeas corpus ou no respectivo recurso”.
+    A ilustrar, menciono os seguintes julgados do Tribunal Pleno:
+    “Agravo regimental em habeas corpus. 2. Impetração contra decisão de ministro do Supremo Tribunal Federal. Negativa de seguimento ao writ. 3. Decisão recorrida em sintonia com a jurisprudência da Corte. Súmula 606. 4. Agravo a que se nega provimento” (HC 102.745 AgR/SP, Rel. Min. Gilmar Mendes).
+    “HABEAS CORPUS. SUPOSTA COAÇÃO QUE PASSOU A SER DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL EM RAZÃO DA DIPLOMAÇÃO DO PACIENTE COMO DEPUTADO FEDERAL. APLICAÇÃO DA SÚMULA N. 606 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DA IMPETRAÇÃO. PRECEDENTES DO STF. 1. Não cabe habeas corpus para o Plenário contra ato de Ministro do Supremo Tribunal Federal. 2. Habeas corpus não conhecido” (HC 107.325/PR, Rel. Min. Marco Aurélio).
+    “AGRAVO REGIMENTAL. HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO SINGULAR DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO ANALÓGICA DA SÚMULA 606. NEGATIVA DE SEGUIMENTO DO WRIT. DECISÃO RECORRIDA EM SINTONIA COM A JURISPRUDÊNCIA DESTE NOSSO TRIBUNAL. AGRAVO DESPROVIDO. 1. A recente orientação jurisprudencial desta nossa Casa de Justiça é no sentido do descabimento da impetração de habeas corpus contra ato de Ministro Relator do próprio Tribunal, por aplicação analógica da Súmula 606/STF. (Cf. HC 100.738/RJ, Tribunal Pleno, redatora para o acórdão a ministra Cármen Lúcia, DJ 01/07/2010; HC 101.432/MG, Tribunal Pleno, redator para o acórdão o ministro Dias Toffoli, DJ 16/04/2010; HC 91.207/RJ, Tribunal Pleno, redator para o acórdão o ministro Eros Grau, DJ 05/03/2010; HC 99.510-AgR/MG, Tribunal Pleno, da relatoria do ministro Cezar Peluso, DJ 16/10/2009; HC 97.250-AgR/SP, Segunda Turma, da relatoria da ministra Ellen Gracie, DJ 07/08/2009; HC 86.548/SP, Tribunal Pleno, da relatoria do ministro Cezar Peluso, DJ 19/12/2008.) 2. Agravo regimental desprovido” (HC 103.193-AgR/RJ, Rel. Min. Ayres Britto).
+    “HABEAS CORPUS. Ação de competência originária. Impetração contra ato de Ministro Relator do Supremo Tribunal Federal. Decisão de órgão fracionário da Corte. Não conhecimento. HC não conhecido. Aplicação analógica da súmula 606. Precedentes. Voto vencido. Não cabe pedido de habeas corpus originário para o tribunal pleno, contra ato de ministro ou outro órgão fracionário da Corte” (HC 86.548/SP, Rel. Min. Cezar Peluso).
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ATO DA PRIMEIRA TURMA DO SUPREMO TRIBUNAL FEDERAL. NÃO CABIMENTO. PRECEDENTES DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+    I Esta Corte já firmou jurisprudência no sentido de não caber habeas corpus contra ato de Ministro Relator, de Turma ou do próprio Tribunal Pleno. Precedentes.
+    II - Os reiterados julgados nessa mesma esteira resultaram na edição da Súmula 606. Eis o teor do mencionado verbete: ‘Não cabe habeas corpus originário para o Tribunal Pleno de decisão de Turma, ou do Plenário, proferida em habeas corpus ou no respectivo recurso’.
+    III - Agravo regimental em habeas corpus não provido” (HC 118.037 AgR/AC, de minha relatoria).
+    No mesmo sentido: HC 101.318 AgR/RS, Rel. Min. Gilmar Mendes; HC 96.954-AgR/SP e HC 100.598/SP, Rel. Min. Ayres Britto; HC 96.851/ BA, Rel. Min. Marco Aurélio; HC 95.079-AgR/MG, Rel. Min. Cármen Lúcia, entre outros.
+    Ademais, o inquérito policial foi desmembrado e os autos em relação ao paciente foram remetidos ao TRF da 3ª Região, o que também torna este Tribunal incompetente para apreciar o feito, uma vez que a manutenção ou não da custódia deverá ser decidida pela Corte Regional.
+    Desse modo, com base no art. 21, § 1°, do RISTF, nego seguimento ao habeas corpus, por considerá-lo manifestamente incabível. Prejudicado o exame da medida liminar.
+    Encaminhe-se cópia da presente decisão ao Gabinete do Ministro Edson Fachin para ciência.
+    Publique-se.
+    Brasília, 31 de maio de 2017.
+Ministro Ricardo Lewandowski
+Relator
