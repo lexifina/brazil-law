@@ -10,11 +10,11 @@ c) ao Conselho Nacional de Desestatização pela Lei nº 9.491, de 9 de setembro
 VI - editar o seu Regimento Interno.
 § 1º Serão membros do CPPI, com direito a voto:
 I - o Ministro de Estado Chefe da Secretaria-Geral da Presidência da República;
-II - o Ministro de Estado Chefe da Casa Civil;
+II - o Ministro de Estado Chefe da Casa Civil da Presidência da República;
 III - o Ministro de Estado da Fazenda;
-IV - o Ministro de Estado do Planejamento, Desenvolvimento e Gestão;
+IV - o Ministro de Estado dos Transportes, Portos e Aviação Civil;
 V - o Ministro de Estado de Minas e Energia;
-VI - o Ministro de Estado dos Transportes, Portos e Aviação Civil;
+VI - o Ministro de Estado do Planejamento, Desenvolvimento e Gestão;
 VII - o Ministro de Estado do Meio Ambiente;
 VIII - o Presidente do Banco Nacional de Desenvolvimento Econômico e Social - BNDES;
 IX - o Presidente da Caixa Econômica Federal; e
