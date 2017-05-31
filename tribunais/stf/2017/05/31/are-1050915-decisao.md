@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “87 FURTOS QUALIFICADOS. Preliminar de prescrição. Crimes que integram a sequência de continuidade (art. 71, CP) prescrevem autonomamente. Prescrição da pretensão punitiva retroativa daqueles praticados de 2003 até março 2007. Quanto aos demais, impossível a absolvição por insuficiência probatória. Subtração de vultosa quantia comprovada por documentos e prova testemunhal. Versão defensiva pouco crível. Condenação mantida. Apelo provido em parte, apenas para adequar a fração de aumento pela continuidade delitiva, a fim de espelhar a prescrição da grande maioria dos crimes.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LV e 93, IX, da Constituição. Sustenta que “a omissão ou indeferimento do pedido da recorrente quando a necessidade da produção da prova judicial contábil fartamente requerida durante as fases procedimentais, cerceou ou impediu a apuração quanto à ocorrência dos créditos do ICMS, decorrentes das notas frias, utilizados pelas empresas com a ciência dos proprietários quanto à ilegalidade desses créditos”.
+    O recurso é inadmissível, tendo em vista que esta Corte assentou a ausência de repercussão geral da questão relativa à obrigatoriedade de observância das garantias constitucionais do processo ante o indeferimento, pelo juiz, de determinada diligência probatória. Nessa linha, veja-se o ARE 639.228-RG, julgado sob a relatoria do Ministro Cezar Peluso.
+    Para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário.
+    Esta Corte tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 31 de maio de 2017.
+Ministro Luís Roberto Barroso
+Relator
