@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. INSTITUIÇÃO DE ENSINO SUPERIOR. VERBA DE CONVÊNIOS. BOLSA DE ENSINO PARA PROFESSORES UNIVERSITÁRIOS. FORMAÇÃO DE MAGISTÉRIO EM ÁREAS DE REFORMA AGRÁRIA. INCRA. LEI 8.958/1994. LEIS DE DIRETRIZES ORÇAMENTÁRIAS 514/2007 E 11.768/2008. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “ADMINISTRATIVO. INSTITUIÇÃO DE ENSINO SUPERIOR. CONVÊNIO. FORMAÇÃO DE MAGISTÉRIO EM ÁREAS DE REFORMA AGRÁRIA. BOLSAS DE ENSINO. LEI Nº 8.958/94. PAGAMENTO DEVIDO.
+    1. As instituições federais de ensino superior poderão contratar fundações privadas para dar apoio a projetos de pesquisa, ensino e extensão, autorizando, inclusive, a participação dos seus servidores nas atividades desenvolvidas por essas entidades.
+    2. A Lei de Diretrizes Orçamentárias, desde 2004, proíbe a utilização de verbas de convênios para a remuneração de servidores públicos, exceto nos casos regulados por legislação específica.
+    3. A Lei 8.958/94 permite que as fundações contratadas concedam bolsas de ensino aos servidores cedidos pelas instituições de ensino pelo exercício de atividade diversa das suas atribuições funcionais.
+    4. Apelação e remessa oficial improvidas.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 37 e 169, § 1º, I e II, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 282 do STF.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (artigo 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (artigo 102, § 3º, da CF).
+    Cabe ressaltar o seguinte trecho do acórdão recorrido:
+    “Da leitura dos artigos transcritos acima, vê-se que a Lei 8.958/1994 permite o pagamento de retribuição financeira aos professores integrantes do quadro das universidades federais quando estes atuarem em programas de ensino desenvolvidos pelas fundações federais contratadas. Tal legislação, apesar de se referir a instituições de ensino federais, deve ser aplicada por analogia ao caso em questão, na medida em que a Fundação Universidade do Ceará tem os mesmos objetivos das fundações federais referidas no texto legal, isto é, dar apoio a projetos de ensino, pesquisa e extensão, dentre outros.
+    Assim, considerando que o pagamento das bolsas de ensino pleiteado pelos apelados na inicial encontra-se regulado por norma específica, concluo que não há como se aplicar, no caso, a proibição prevista na Lei de Diretrizes Orçamentárias.” (Doc. 2, fl. 77)
+    Verifica-se que a matéria relativa à remuneração dos servidores públicos através de recursos provenientes de convênio, quando sub judice a controvérsia, implica a análise das legislações infraconstitucionais aplicáveis à espécie – Leis 8.958/1994, 514/2007 (LDO/2008) e 11.768/2008 (LDO/2009) –, o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Ademais, no que diz respeito à alegação de ofensa ao princípio da legalidade, verifico que o acórdão ora recorrido tão somente interpretou o que dispõe a Lei 8.958/1994 em sentido contrário àquele desejado pela parte ora agravante, o que configura ofensa indireta à Constituição Federal, não suscetível de apreciação em sede de recurso extraordinário. Assevere-se, ainda, que a jurisprudência desta Suprema Corte se consolidou no sentido de que “não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida” (Súmula 636 do STF).
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de maio de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
