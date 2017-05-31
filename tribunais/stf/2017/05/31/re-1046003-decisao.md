@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Emilio Marko. Aparelhado o recurso na violação do art. 109, § 3º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O Tribunal de origem decidiu a controvérsia em acórdão cuja ementa transcrevo:
+    “AGRAVO. PROCESSUAL. VALOR DA CAUSA. COMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL FEDERAL. Considerando a competência absoluta do Juizado Especial Federal, prevista no art. 3º, caput, da Lei nº 10.259/2001 e, tendo o Julgador monocrático fixado o valor da causa em montante inferior a sessenta salários mínimos, correta a decisão que declinou da competência para uma das Varas do Juizado Especial Federal “.
+    A matéria veiculada no recurso extraordinário teve a repercussão geral negada por esta Suprema Corte no AI 768.339-RG, a denotar a desnecessidade de reparos na decisão prolatada pelo Tribunal de origem. Anoto precedentes:
+    “PROCESSUAL CIVIL. COMPETÊNCIA. COMPLEXIDADE DA DEMANDA. VALOR DA CAUSA. JUIZADO ESPECIAL FEDERAL. LEI 10.259/01. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.” (AI 768339 RG, Rel. Min. Ricardo Lewandowski, DJe 20-11-2009)
+    “Agravo regimental no recurso extraordinário. Direito Processual Civil. Juizado especial. Valor da causa. Competência. Ausência de repercussão geral. Precedentes. 1. O Plenário da Corte, em sessão realizada por meio eletrônico, no exame do AI nº 768.339/SC, Relator o Ministro Ricardo Lewandowski, concluiu pela ausência de repercussão geral da discussão acerca da fixação da competência dos juizados especiais, em razão do valor ou da complexidade da causa, haja vista ser matéria de índole infraconstitucional. 2. Agravo regimental não provido.” (RE 813182 AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 21-08-2015)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. COMPETÊNCIA DOS JUIZADOS ESPECIAIS EM RAZÃO DA COMPLEXIDADE DA DEMANDA E DO VALOR DA CAUSA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. REEXAME DE CLÁUSULAS CONTRATUAIS. SÚMULA 454/STF. O art. 5º, XXXV, da Constituição, tido por violado, não foi objeto de análise prévia e conclusiva pela Turma de origem. Incidência das Súmulas 282 e 356/STF. O Supremo Tribunal Federal já decidiu pela ausência de repercussão geral em controvérsia relativa à competência dos Juizados Especiais Federais, aferida em face da complexidade da demanda e do valor da causa (AI 768.339-RG, Rel. Min. Ministro Ricardo Lewandowski). A solução da controvérsia pressupõe, necessariamente, o reexame das cláusulas do contrato bancário firmado entre as partes demandantes, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 454/STF. Agravo regimental a que se nega provimento.” (ARE 767190 AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 12-12-2014)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de maio de 2017.
+Ministra Rosa Weber
+Relatora
