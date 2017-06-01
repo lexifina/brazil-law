@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da 3ª Seção Cível do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (e-DOC 2, p. 28):
+    “MANDADO DE SEGURANÇA – PENSÃO POR MORTE – SUSPENSÃO EM RAZÃO DA BENEFICIÁRIA COMPLETAR 21 ANOS – BENEFICIÁRIA CURSANDO ENSINO SUPERIOR – PRORROGAÇÃO DO BENEFÍCIO ATÉ 24 ANOS – REDAÇÃO ANTERIOR DO INCISO II DO ART. 6º DA LEI 2.207/00 – MENOR DE 24 FREQUENTANDO CURSO SUPERIOR – APLICAÇÃO DA LEGISLAÇÃO VIGENTE À ÉPOCA DO ÓBITO – ILAÇÃO EXTRAÍDA DO RECURSO REPETITIVO (REsp nº 1369832/SP) – DIREITO ADQUIRIDO – ORDEM CONCEDIDA.
+    Quando do falecimento da genitora da impetrante (19.05.01) estava em vigor a seguinte redação do art. 6º, II da Lei Estadual nº 2.207/00: ‘os filhos solteiros, menores de vinte e um anos ou inválidos, ou menor de vinte e quatro anos, frequentando curso superior;’. Assim, deve ser aplicada a legislação em tela e conferida a manutenção do pagamento da pensão por morte à impetrante até que complete 24 (vinte e quatro) anos de idade, sob pena de violação a direito adquirido.
+    Além da legislação prevista no presente caso, ainda devem ser observados os princípios basilares de nosso ordenamento jurídico, mormente o princípio do acesso à educação e da dignidade da pessoa humana, pois com a interrupção da pensão de sua genitora a impetrante estará desprovida de renda e sem condições de custear a conclusão de seu curso superior, ou mesmo seu sustento, possuindo a veba pretendida caráter alimentar.
+    Ordem concedida.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 24, XII, 25, § 1º, 40, § 12, e 195, § 5º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que a norma local invocada para se conceder o benefício requerido não guarda equivalência com a lei federal, além de inexistir no acórdão recorrido indicação da fonte de custeio para o adimplemento do respectivo pagamento por parte do Estado.
+    O Tribunal a quo inadmitiu o recurso extraordinário por se tratar de matéria infraconstitucional e pela incidência da Súmula 356 (eDOC 3, p. 13).
+    É o relatório. Decido.
+    Inicialmente, assento que os dispositivos constitucionais tidos por violados não foram objeto de prequestionamento na via ordinária, tampouco foram opostos embargos de declaração para sanar eventual omissão, razão pela qual o recurso, nesse ponto, não merece conhecimento, pelo óbice das Súmulas 282 e 356 do STF.
+    Quanto ao mais, o Tribunal de origem, ao decidir a questão refutando os fundamentos do recorrente, assim concluiu (eDOC 2, pp. 32-33):
+    “De outro lado, como apontou a própria autoridade coatora nas informações apresentadas, quando do falecimento da genitora da impetrante (19.05.01) estava em vigor a seguinte redação do art. 6º, II da Lei Estadual nº 2.207/00:
+    (…)
+    Dessa maneira, deve ser aplicada a legislação em tela e conferida a manutenção do pagamento da pensão por morte à impetrante até que complete 24 (vinte e quatro) anos de idade, sob pena de violação a seu direito adquirido.”
+    Assim, constata-se que eventual divergência em relação ao entendimento adotado pelo acórdão impugnado demandaria o exame da legislação local (Lei Estadual 2.207/00), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmulas 280 do STF. Sobre o tema:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.11.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido.” (ARE 877.864-AgR, Min. Rel. Rosa Weber, Primeira Turma, DJe 11.06.2015)
+    Ante o exposto, nego provimento ao agravo, com fundamento no art. 932, IV, “a”, do CPC.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, porquanto não houve fixação de verba honorária nas instâncias de origem.
+    Publique-se.
+    Brasília, 01 de junho de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
