@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão de Tribunal de Justiça do Estado de São Paulo, cuja ementa se reproduz a seguir (eDOC 2, p. 10):
+    “Embargos à execução fiscal. IPTU. Os imóveis desapropriados e explorados pela DERSA — Desenvolvimento Rodoviário S/A passam a constituir bens públicos destinados ao atendimento dos interesses da coletividade (construção, ampliação e melhoramentos das rodovias). Aplicação da limitação constitucional (imunidade) que veda a instituição de impostos por um ente federativo sobre o patrimônio do outro (art. 150, VI "a", CF). Nega-se provimento ao recurso.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos artigos 30, III, 150, caput, II e VI, “a”; e 170, 2º e 3º, da Constituição Federal.
+    Nas razões recursais, sustenta-se que a parte Recorrida não ostenta repercussão geral, por ser sociedade de economia mista exploradora de atividade econômica (eDOC 2, p. 30).
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o recurso por considerá-lo prematuro (eDOC 2, p. 71).
+    É o relatório.
+    A irresignação não merece prosperar.
+    Inicialmente, afasto a extemporaneidade do recurso extraordinário, porquanto o acórdão a ser reformado sob a ótica da parte Recorrente foi publicado em 29.05.2013 e o apelo extremo foi interposto em 05.06.2013. Tendo em vista a data de interposição dos embargos infringentes, estes estariam preclusos, à luz do princípio da unirecorribilidade.
+    No mérito, convém ressaltar o assentado pelo Tribunal de origem no voto condutor:
+    “Com efeito, apesar da embargada não possuir a natureza de autarquia, como demonstrado adiante, era mesmo caso de reconhecimento da imunidade.
+    A sociedade de economia mista DERSA — Desenvolvimento Rodoviário S.A integra a administração pública indireta do Estado de São Paulo. Seu objeto, inicialmente, era a ampliação e introdução de melhoramento na "Via Anchieta", além da construção e pavimentação da "Rodovia dos Imigrantes", sendo que posteriormente a exploração foi estendida a outras rodovias.
+    (…)
+    Já as sociedades de economia mista que substituem as pessoas. políticas na prestação de serviços públicos essenciais previstos na Constituição Federal, como é o caso do serviço de transporte, não estão sujeitas às normas que regulam a livre iniciativa. Conforme Odete Medauar, "incide sobre elas grande carga de normas do direito público, abrangendo prerrogativas e sujeições características dos órgãos públicos (Direito Administrativo Moderno, 11a, edição, pág.91). Destarte, ainda que sejam remuneradas por preços ou tarifas, fazem jus à imunidade recíproca.”
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente, notadamente o Decreto-lei estadual 51969 e o Código Civil. Desse modo, a discussão referente à natureza jurídica da sociedade de economia mista e respectivas finalidade para fins de extensão da imunidade tributária revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Confiram-se, a propósito, os seguintes precedentes em relação à DERSA – Desenvolvimento Rodoviário S/A:
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ISS. IMUNIDADE. EXPLORAÇÃO DE ATIVIDADE DE ARRECADAÇÃO DE PEDÁGIO, NAS PRAÇAS CORRESPONDENTES LOCALIZADAS NAS ESTRADAS SOB A JURISDIÇÃO DA RECORRENTE. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, a aferição da natureza jurídica da atividade de arrecadação de pedágio demanda o reexame do contexto fático e probatório, bem como da legislação infraconstitucional de regência, providências vedadas em sede de recurso extraordinário. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.”
+(ARE 946978 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 27.10.2016)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMUNIDADE RECÍPROCA. AUSÊNCIA DE LASTRO PROBATÓRIO. 1. Constata-se que eventual divergência ao entendimento adotado pelo Tribunal de origem, em relação ao alcance da regra imunizante para abarcar a situação fático-normativa da parte Recorrente, demandaria o reexame de fatos e provas e o da legislação infraconstitucional. Súmula 279 do STF. 2. Agravo regimental a que se nega provimento.”
+(ARE 915942 AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe 11.12.2015)
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IMUNIDADE RECÍPROCA. ENTIDADE DE DIREITO PRIVADO. PREENCHIMENTO DOS REQUISITOS. PRETENSÃO CUJO ACOLHIMENTO DEMANDARIA REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. DESCABIMENTO. 1. Hipótese em que a resolução da controvérsia demanda a análise de legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal. Precedentes. 2. Agravo regimental a que se nega provimento.”
+(RE 902167 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 15.06.2016)
+    Cito, ainda, o ARE 909.078, de relatoria do Ministro Dias Toffoli, DJe 30.06.2016, transitado em julgado em 15.09.2016.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do artigo 21, §1º, RISTF.
+     Publique-se.
+    Brasília, 1º de junho de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
