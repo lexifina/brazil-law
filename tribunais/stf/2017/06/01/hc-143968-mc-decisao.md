@@ -1,0 +1,21 @@
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Girleu Oliveira de Asevedo, contra acórdão proferido pelo Superior Tribunal Militar - STM nos autos do HC 8.163/RJ, de relatoria do Ministro Tenente Brigadeiro do Ar Francisco Joseli Parente Camelo, assim ementado:
+    “HABEAS CORPUS. DESACATO. TRANCAMENTO DA AÇÃO PENAL QUANTO AO TIPO PENAL DO ARTIGO 299 DO CPM. DECISÃO STJ. DESCRIMINALIZAÇÃO DO TIPO PENAL PREVISTO NO ARTIGO 331 DO CÓDIGO PENAL. NÃO EXTENSÃO AO CRIME DE DESACATO A MILITAR, PREVISTO NO ARTIGO 299 DO CPM. BENS TUTELADOS DIVERSOS. ORDEM DENEGADA. A decisão do Superior Tribunal de Justiça de descriminalizar o crime de desacato previsto no artigo 331 do Código Penal, ante sua desconformidade com a Convenção Americana de Direitos Humanos, não alcança o tipo penal previsto no artigo 299 do Código Penal Castrense. É que este tutela o respeito à dignidade da função de natureza militar, visando não prejudicar o exercício da função constitucional maior atribuída às Forças Armadas, que é a defesa da soberania e garantia da lei e da ordem, enquanto aquele resguarda a Administração Púbica nos seus interesses material e moral. Porquanto, são propósitos diversos. Conclui-se que a citada decisão em nada afetou o ordenamento jurídico substantivo castrense, em face do principio da especialidade das leis, o qual consigna que a lei especial afasta a geral. Ordem denegada. Decisão unânime.”
+    Consta na inicial que o paciente foi denunciado pela suposta prática dos seguintes crimes, previstos no Código Penal Militar: (i) violência contra militar de serviço com lesão corporal (art. 158, § 2°); (ii) lesão leve (art. 209); (iii) desacato a militar (art. 299).
+    Irresignada com o recebimento da denúncia, a defesa impetrou habeas corpus no STM. Entretanto, a ordem foi denegada pelo Plenário da Corte Castrense, em sessão do dia 9/5/2017.
+    A Defesa informa que “nesse ínterim, a Juíza Auditora da 2ª Auditoria 1ª CJM, designou audiência de julgamento para o dia 5/6/2017, às 13h30min”.
+    Aduz que, em caso semelhante, “o Superior Tribunal de Justiça, em 15/12/2016, descriminalizou a conduta tipificada como crime de desacato a autoridade, por entender que a tipificação é incompatível com o art. 13 da Convenção Americana de Direitos Humanos” (pág. 2 do documento eletrônico 1).
+    Sustenta, assim, que “a denúncia deve ser rejeitada na parte que diz respeito ao crime de desacato”, em razão do entendimento do STJ sobre o o crime de desacato, consignado no julgamento do REsp 1.640.084/SP.
+    Requer, liminarmente, “o cancelamento da Audiência de Julgamento, designada para o dia 5/6/2017, às 13h30, pelo Juízo da 2ª Auditoria da 1ª CJM (Ação Penal Militar nº 0000151-71.2013.7.01.0201)” e, no mérito, que seja “rejeitada a denúncia recebida pelo Juízo a quo, em relação a conduta tipificada como crime de desacato, prevista no art. 299, do CPM” (pág. 7 do documento eletrônico 1).
+    É o relatório. Decido.
+    A concessão de medida liminar necessita da presença de seus requisitos autorizadores, quais sejam, o fumus boni iuris e o periculum in mora.
+    Em relação ao fumus boni iuris, impende registrar que a ação penal ainda encontra-se em sua fase inicial, cujo trancamento pela via do habeas corpus ocorre somente diante de flagrante ilegalidade ou teratologia.
+    Ademais, à primeira vista, a decisão proferida pelo Superior Tribunal de Justiça – STJ no julgamento do REsp 1.640.084/SP não tem o condão de produzir efeitos na ação penal a qual responde o paciente. Isso porque, mesmo que analisado pela sistemática de recursos repetitivos, o caso analisado por aquela Corte tratou do crime de desacato praticado por cidadão contra funcionário público civil e não entre militares, como se observa no presente writ.
+    Vislumbro, ainda, que a realização da audiência de julgamento não causa prejuízo iminente e irreparável ao paciente.
+    Destarte, verifico a ausência dos requisitos autorizadores à concessão de medida cautelar.
+    Isso posto, indefiro a liminar.
+    Requisitem-se informações à autoridade coatora.
+    Ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 1° de junho 2017.
+Ministro Ricardo Lewandowski
+Relator
