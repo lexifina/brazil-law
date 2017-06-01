@@ -1,0 +1,35 @@
+Decisão: Trata-se de habeas corpus impetrado por Guilherme Madi Rezende e outros, em favor de Cássio Tadeu Rizzitano, contra decisão proferida pelo Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça (STJ), que rejeitou os embargos de declaração nos autos do HC 362.669/SP.
+    Segundo os autos, no dia 28.7.2004, nas dependências do Shopping Boa-Vista, no bairro de Santo Amaro/SP, o paciente, agindo em concurso de pessoas, mediante grave ameaça desempenhada pelo uso de arma de fogo e violência física, submeteu as vítimas a intenso sofrimento físico e mental (tortura), com o intuito de obter confissão e informações das vítimas (eDOC 2, p. 2).
+    Consta, ainda, que na mesma oportunidade e sob as mesmas condições, os indiciados, mediante violência real e grave ameaça, subtraíram para eles a quantia de R$ 560,00, pertencente às vítimas, provocando-lhes lesões corporais de natureza grave, que não lhes causaram a morte em razão de intervenção médica (eDOC 2, p. 2).
+    Após regular trâmite da instrução, a denúncia foi julgada procedente, e o réu condenado pela prática do delito descrito no art. 1º, inciso I, alínea “a”, da Lei 9.455/1997, c/c art. 157, § 3º, do CP, na forma do art. 70, do CP, à pena de 14 anos e 8 meses de reclusão, em regime inicial fechado, tendo sido negado o direito de recorrer em liberdade (eDOC 22, p. 51-53 e eDOC 23, p. 1-12).
+    Irresignada, a defesa interpôs apelação criminal no Tribunal de Justiça bandeirante, alegando, em síntese, violação ao princípio da ampla defesa, pois a sentença teria dado capitulação diversa da contida na denúncia. Ainda, postulou nulidade no reconhecimento fotográfico realizado pelas vítimas.
+    A 3ª Câmara de Direito Criminal negou provimento ao recurso, mantendo a sentença por seus próprios fundamentos. (eDOC 38, p. 20)
+    Interposto recurso especial, este restou obstado na origem.
+    Na sequência, impetrou-se habeas corpus no TJ/SP, arguindo, em suma, nulidade na instrução, a medida em que o processo foi sentenciado sem que se procedesse a intimação do defensor para que apresentasse alegações finais.
+    O writ não foi conhecido nos seguintes termos:
+    “A presente ação mandamental foi protocolizada neste Egrégio Tribunal de Justiça, aos 17.02.2016, ou seja, após ter havido o exaurimento da prestação jurisdicional nesta Instância, não havendo que se falar em constrangimento ilegal a ser solucionado por esta via, nos termos do quanto sustentado pelos Impetrantes.
+    Em considerando os termos da inicial, vale destacar que as ações estão sujeitas a condições genéricas, como a possibilidade jurídica do pedido, interesse de agir e legitimidade ou legitimação. O interesse está vinculado à necessidade e adequação. A adequação é justamente a correlação entre a situação lamentada e a providência pretendida. No caso, resta evidente a ausência de interesse de agir dos Impetrantes, na modalidade adequação, tendo em vista que há muito a Apelação interposta em favor do Paciente foi julgada.
+    Por fim, vale destacar que, se o Paciente sofre constrangimento ilegal decorrente da confirmação de condenação, este Tribunal de Justiça, através de seu órgão fracionário, tornou-se autoridade coatora, restando ao interessado buscar eventual reparação perante o Tribunal Superior competente”. (Consulta ao sítio do TJ/SP, nos autos do HC 2031213-34.2016.8.26.0000)
+    Daí a impetração de novo mandamus no Superior Tribunal de Justiça. Na oportunidade, a defesa novamente alegou nulidade no curso da instrução. O relator indeferiu liminarmente o pedido em razão de supressão de instância e por ausência de ilegalidade manifesta.
+    Nesta Corte, o impetrante reitera os pedidos pretéritos e enfatiza a anulação da sentença ante a afronta aos princípios constitucionais do devido processo legal, ampla defesa e contraditório, pois o réu teria sido condenado sem que fosse intimado para oferecimento de alegações finais.
+    Alega, ainda, que o paciente é inocente, pois não se encontrava no local dos fatos.
+    Requer, por fim, a concessão de liberdade provisória até o julgamento final do writ.
+    É o relatório.
+    Passo a decidir.
+    No caso, destaco que a decisão impugnada do STJ é monocrática e que o agravo regimental interposto encontra-se pendente de apreciação.
+    No ponto, registro que, na Turma, tenho-me posicionado, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, sessão de 6.11.2013), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, insculpido no art. 102, inciso II, “a”, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012 e RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011.
+    Contudo, ressalte-se que, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste HC.
+    Ademais, assevero que o Plenário do Supremo Tribunal Federal, no julgamento do HC 126.292/SP, de relatoria do Min. Teori Zavascki, DJe 17.5.2016, firmou entendimento de ser possível o início da execução da pena na pendência de recurso extraordinário ou especial. Isso porque, no plano legislativo, o art. 637 do CPP prevê que os recursos extraordinários não têm efeito suspensivo. Logo, uma decisão condenatória de segunda instância poderia ser executada na pendência do recurso. Os embargos de declaração opostos ao acórdão do citado feito foram rejeitados em 2.9.2016 (DJe 7.2.2017).
+    No caso, a condenação do paciente, decorrente do cometimento de roubo qualificado e tortura, foi mantida no julgamento do recurso de apelação pelo TJ/SP (acórdão, eDOC 38, p. 20), fato que possibilita a imediata execução da reprimenda.
+    Além disso, sobre a matéria, cito os seguintes julgados: RHC 133.150 AgR/RR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 28.6.2016; HC 136.951 AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, DJe 17.2.2017 e HC 140.645/MT, Rel. Min. Luiz Fux, DJe 1º.3.2017.
+    No caso, não há que se falar em constrangimento ilegal a dar ensejo à concessão deste writ.
+    Feitas essas considerações, ressalvo a minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer deste habeas corpus.
+    Ante o exposto, nego seguimento ao presente habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 1º de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
