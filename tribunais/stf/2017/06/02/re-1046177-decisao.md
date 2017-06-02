@@ -1,0 +1,22 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Distrito Federal e dos Territórios, está assim ementado:
+    “ADMINISTRATIVO. APELAÇÃO E REMESSA DE OFÍCIO. PRELIMINAR. INCOMPETÊNCIA DA JUSTIÇA COMUM. REJEITADA. CONCURSO PÚBLICO PARA PROVIMENTO DE VAGAS E FORMAÇÃO DE CADASTRO RESERVA PARA O METRÔ-DF. CARGO DE OPERADOR DE TRANSPORTE METROFERROVIÁRIO. EXAME PSICOTÉCNICO. NÃO RECOMENDAÇÃO. AUSÊNCIA DE PREVISÃO LEGAL.
+    1. Verificado a participação direta do Distrito Federal na realização do concurso público, compete à justiça comum processar e julgar as causas que questionam as exigências editalícias de seleção e admissão de pessoal da Companhia do Metropolitano do Distrito Federal (METRO/DF).
+    2. A Lei Distrital nº 4.246/2008, que criou a Companhia do Metropolitano do Distrito Federal – Metrô e seus respectivos cargos, o Decreto 21.688/00, que dispõe sobre concurso público na Administração Pública do Distrito Federal e a Lei Federal nº 6.149/1974, que dispõe sobre a segurança do transporte metroviário, não exigem o exame psicotécnico como etapa em concurso público.
+    3. Ausente a previsão legal a exigir exame psicotécnico, deve o ato administrativo, que considerou o candidato inapto, ser declarado nulo, consoante Súmula Vinculante n. 44.
+    4. APELAÇÃO E REMESSA NECESSÁRIA CONHECIDAS. PRELIMINAR REJEITADA. RECURSOS IMPROVIDOS.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o acórdão impugnado em sede recursal extraordinária teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre assinalar, desde logo, que o Plenário do Supremo Tribunal Federal, ao apreciar questão constitucional assemelhada à versada na presente causa, julgou o AI 758.533-RG/MG, Rel. Min. GILMAR MENDES, nele proferindo decisão que torna inviável o recurso extraordinário em causa.
+    Em consequência do referido julgamento, o Pleno desta Suprema Corte formulou o enunciado consubstanciado na Súmula Vinculante nº 44, que possui o seguinte conteúdo:
+    “Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público.”
+    Cabe ressaltar, ainda, por relevante, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito do Supremo Tribunal Federal (AI 677.718-AgR/DF, Rel. Min. ROBERTO BARROSO – RE 558.833-AgR/CE, Rel. Min. ELLEN GRACIE, v.g.):
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA CONTRA EDITAL DE CONCURSO PÚBLICO DA COMPANHIA METROVIÁRIA DO DISTRITO FEDERAL (METRÔ/DF). EXAME PSICOTÉCNICO. AUSÊNCIA DE PREVISÃO LEGAL. ALEGAÇÃO DE INAPLICABILIDADE PARA EMPREGOS PÚBLICOS. DESCABIMENTO. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. ACÓRDÃO RECORRIDO PUBLICADO EM 26.5.2015.”
+    (RE 934.447-AgR/DF, Rel. Min. ROSA WEBER)
+    Impõe-se registrar, de outro lado, a propósito da alegada violação ao art. 114, I, da Constituição Federal, que o Plenário do Supremo Tribunal Federal, ao julgar o RE 726.035-RG/SE, Rel. Min. LUIZ FUX, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa e, na mesma oportunidade, reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E CONSTITUCIONAL. CONCURSO PÚBLICO. MANDADO DE SEGURANÇA. SOCIEDADE DE ECONOMIA MISTA. AUTORIDADE FEDERAL. COMPETÊNCIA. JUSTIÇA FEDERAL. RECURSO EXTRAORDINÁRIO DESPROVIDO. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMADA A JURISPRUDÊNCIA DOMINANTE SOBRE A MATÉRIA.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu – e reafirmou – na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao presente recurso extraordinário, por achar-se em confronto com súmula desta Suprema Corte (CPC, art. 932, IV, “a”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 02 de junho de 2017.
+Ministro CELSO DE MELLO
+Relator
