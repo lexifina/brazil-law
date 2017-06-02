@@ -1,0 +1,30 @@
+Mandado de segurança. Ausência dos requisitos previstos no art. 7º, III, da Lei nº 12.016/2016. Indeferimento do pedido de medida liminar.
+    Vistos etc.
+    1. Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Girleu Oliveira de Asevedo contra a Segunda Turma do Supremo Tribunal Federal, órgão ao qual imputa omissão em promover o julgamento dos embargos de declaração opostos nos autos do HC nº 133.078.
+    2. O impetrante narra que, publicado, em 22.9.2016, acórdão proferido no HC nº 133.078, opôs, no dia seguinte (23.9.2016), embargos de declaração, ainda não apreciados pela Segunda Turma do Supremo Tribunal Federal, quadro a evidenciar, na sua perspectiva, afronta à garantia da razoável duração do processo.
+    3. Alega que, nos referidos embargos de declaração, foi veiculada matéria prejudicial à ação penal militar nº 0000151-71.2013.7.01.0201, em trâmite perante o Juízo da 2ª Auditoria da 1ª Circunscrição Judiciária Militar, na qual é imputada ao impetrante a prática de crimes tipificados no Código Penal Militar. Noticia que, a despeito da mencionada relação de prejudicialidade, foi dada sequência aos atos processuais na referida ação penal – atualmente em fase de designação de audiência de julgamento -, sem aguardar o trânsito em julgado da decisão proferida no habeas corpus nº 133.078, circunstância a revelar, segundo defende, ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa.
+    4. Nesse contexto, aduz que “os atos praticados pelo Juízo da 2ª Auditoria da 1ª CJM, devem retroagir, para que sejam anulados todos os atos praticados, a partir da publicação do v. acórdão, proferido no referido habeas corpus, fato que ocorreu em 22-09-2016”.
+    5. Requer a concessão de medida liminar, para determinar ao órgão impetrado que julgue os embargos de declaração opostos, em 23.9.2016, no HC nº 133.078, bem como para decretar a nulidade dos atos praticados pelo Juízo da 2ª Auditoria da 1ª Circunscrição Judiciária Militar, enquanto pendentes os referidos embargos de julgamento.
+    6. Ao final, pugna pela concessão da segurança, com a confirmação da medida liminar.
+    7. Nas petições nºs 24390/2017, 24413/2017, 24415/2017 e 24443/2017 (eventos 6, 9, 16 e 19), o impetrante noticia que, nos autos da ação penal militar nº 0000151-71.2013.7.01.0201, houve designação de audiência para 05.06.2017, junta documentos e pede urgência na apreciação do pedido de medida liminar.
+    8. Solicitadas informações à autoridade impetrada (evento 23), ainda não se esgotou o prazo para que sejam prestadas.
+    9. Por meio da Petição nº 30147/2017 (evento 24), o impetrante reitera o pedido de concessão de medida liminar, ao argumento de que está na iminência de ser realizada a audiência na ação penal militar nº 0000151-71.2013.7.01.0201.
+    É o relatório.
+    Examino o pedido de medida liminar.
+    1. O pedido de suspensão do andamento da ação penal militar nº 0000151-71.2013.7.01.0201, enquanto não houver o trânsito em julgado do acórdão prolatado no HC nº 133.078, foi deduzido e rechaçado, nos autos do mencionado habeas corpus, como se extrai da decisão monocrática, publicada em 28.11.2016, do atual relator daquele feito, Ministro Ricardo Lewandowski:
+    “Trata-se de petição em que se requer a determinação da suspensão da Ação Penal 151-71.2013.7.01.0201, em trâmite na 2ª Auditoria da 1ª Circunscrição Judiciária Militar, até o trânsito em julgado dos embargos de declaração interpostos contra o acórdão proferido pela Segunda Turma desta Suprema Corte.
+    É o relatório necessário. Decido.
+    Em 6/9/2016, a Segunda Turma desta Suprema Corte, por votação unânime, concedeu ordem de habeas corpus nestes autos para que o paciente não seja obrigado a se submeter a incidente de insanidade mental, nos termos do voto da Relatora.
+    Naquela assentada, a Turma não vislumbrou motivos suficientes para também determinar a suspensão da ação penal, em que pese haver pedido formulado para tanto na petição inicial.
+    Na espécie, cumpre esclarecer que, nos termos do art. 1.026, caput, do NCPC, “os embargos de declaração não possuem efeito suspensivo [...]”.
+    Observo, ademais, que o embargante não conseguiu demonstrar o dano irreparável a que estaria sujeito.
+    Isso posto, indefiro o pedido.”
+    2. Vale dizer que o pedido de suspensão da ação penal militar em que o impetrante figura como réu já foi apreciado, ao julgamento do HC nº 133.078, pela Segunda Turma deste Supremo Tribunal Federal, que se limitou, contudo, a conceder a ordem de habeas corpus para que o paciente não fosse obrigado a se submeter a incidente de insanidade mental. A ponderar, a propósito, como destacado na decisão acima reproduzida, que o art. 1.026 do CPC/2015 (art. 3º do Decreto-Lei nº 1.002/1969) não confere efeito suspensivo aos embargos de declaração.
+    3. Em relação à alegada demora no julgamento dos embargos de declaração opostos, em 23.9.2016, nos autos do HC nº 133.078, o cenário de sobrecarga processual, associado à natureza imprópria dos prazos para julgamento de recursos permite, em alguma medida, leitura flexível da garantia da razoável duração do processo. Nesse sentido, reporto-me aos seguintes precedentes: MS 33023 AgR, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe de 19.5.2016; e HC 119451 AgR, de minha relatoria, Primeira Turma, DJe de 11.12.2013).
+    4. Registro inviável, por outro lado, impugnar, em mandado de segurança de competência originária do Supremo Tribunal Federal, atos imputáveis ao Juízo da 2ª Auditoria da 1ª Circunscrição Judiciária Militar, autoridade que não figura no rol taxativo previsto no art. 102, I, “d”, da Magna Carta.
+    5. Ante o exposto, porque não demonstrada a concomitância dos requisitos do art. 7º, III, da Lei nº 12.016/2009, indefiro o pedido de medida liminar.
+    Aguarde-se o decurso do prazo para prestação das já solicitadas informações. Após, voltem os autos conclusos.
+    Publique-se.
+    Brasília, 02 de junho de 2017.
+Ministra Rosa Weber
+Relatora
