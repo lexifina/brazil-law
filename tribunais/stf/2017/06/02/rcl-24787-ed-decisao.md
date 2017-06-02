@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de embargos de declaração opostos contra decisão monocrática pela qual neguei seguimento a reclamação e condenei a parte reclamada, em razão da presença de contraditório efetivo nos autos, ao pagamento de honorários de sucumbência, fixados em dez por cento do valor da causa.
+    As embargantes, alegando que a decisão seria omissa e contraditória, questionam a fixação dos honorários advocatícios, sob o fundamento de que a reclamação constitucional é remédio processual constitucionalmente previsto (art. 103, A, § 3º da CRB/88), e que, nessa linha, por se tratar de um direito assegurado pela Constituição, não caberia o pagamento dos honorários.
+    É o relatório. Decido.
+    Os presentes embargos de declaração não preenchem os requisitos do art. 1.022 do CPC, porquanto inexistente obscuridade, contradição, omissão ou erro material no acórdão questionado.
+    A reclamação constitucional foi originalmente regulada pela Lei nº 8.038/1990, que não impunha a formação de contraditório prévio à decisão de mérito. Nessa linha, a jurisprudência do STF se desenvolveu no sentido de que a reclamação, antes de atender a direitos subjetivos, visava a garantir a observância da competência e a autoridade das decisões do STF, de modo que o contraditório, embora possível, não constituía requisito de validade das decisões finais: Rcl 7.904-AgR, Rel. Min. Luiz Fux; Rcl 449-AgR, Rel. Min. Celso de Mello; Rcl 3.375-AgR, Rel. Min. Gilmar Mendes; Rcl 8.478, Rel.ª Min.ª Cármen Lúcia; e Rcl 8.197-AgR, Rel. Min. Dias Toffoli.
+    Ocorre que o CPC/2015 promoveu modificação essencial no procedimento da reclamação, ao instituir o contraditório prévio à decisão final (art. 989, III). Disso decorre o ingresso do beneficiário do ato impugnado como parte, com respectiva obrigatoriedade de oportunizar-lhe a defesa do seu direito. Isto é, a reclamação indiscutivelmente tornou-se ação. Neste novo cenário, e sem prejuízo de qualquer adaptação que o Tribunal venha a fazer relativamente ao novo regime processual, a observância do princípio da causalidade viabiliza a condenação da sucumbente na reclamação ao pagamento dos respectivos honorários.
+    Por outro lado, as mudanças trazidas pelo Novo CPC não podem implicar a mudança do estrito objeto constitucional da reclamação, qual seja a garantia da autoridade do STF, por meio da proteção da sua competência e de seus precedentes e súmulas vinculantes. É dizer, deve-se conformar a lei processual com a especialidade do procedimento em que incide e a função do órgão que a aplica. Por essa razão, a execução da verba honorária foi delegada ao juízo reclamado.
+    Neste sentido, confira-se Rcl 24.417-AgR, da minha relatoria, julgada pela Primeira Turma, na sessão presencial de 07.03.2017:
+    “EMENTA: AGRAVO INTERNO EM RECLAMAÇÃO. DIREITO ADMINISTRATIVO E DO TRABALHO. REMUNERAÇÃO. SÚMULAS VINCULANTES 37 E 42. HONORÁRIOS ADVOCATÍCIOS EM RECLAMAÇÃO. NOVO REGIME PROCESSUAL. CABIMENTO.
+    1. (…)
+    2. O CPC/2015 promoveu modificação essencial no procedimento da reclamação, ao instituir o contraditório prévio à decisão final (art. 989, III). Neste novo cenário, a observância do princípio da causalidade viabiliza a condenação da sucumbente na reclamação ao pagamento dos respectivos honorários, devendo o respectivo cumprimento da condenação ser realizado nos autos do processo de origem, quando se tratar de impugnação de decisão judicial.
+    3. Agravo interno a que se nega provimento”.
+    Diante do exposto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 02 de junho de 2017
+Ministro LUÍS ROBERTO BARROSO
+Relator
