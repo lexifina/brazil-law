@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – FALTA DE PREQUESTIONAMENTO – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado de São Paulo, confirmando o entendimento do Juízo, anulou, observada a legislação de regência, procedimento administrativo por irregularidades na produção de elementos probatórios. No extraordinário, cujo trânsito busca alcançar, o recorrente alega violados os artigos 5º, inciso II, E 37 , cabeça, da Carta Política. Aduz demonstrado o ilícito, consubstanciado na desconformidade de combustível e concorrência desleal. Sustenta a inocorrência de cerceamento de defesa na apuração administrativa dos ilícitos apontados. Aduz a responsabilidade objetiva da recorrida, ante o risco da atividade que desenvolve.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Sucede que, consoante se pode constatar nos autos, de fato, o procedimento administrativo seguiu as formalidades impostas pela Lei estadual 11.929/05 e pela Portaria CAT nº 28/05 até o momento em que oportunizou ao autor o direito à realização do exame das "amostras nº 2", ou "amostras testemunhas", consoante se verifica nas fis. 191/210.
+    Todavia, após o pedido de realização do segundo exame feito pelo autor, não houve regular prosseguimento, constatando-se a fl. 211 que o exame não foi realizado em razão de as amostras terem sido retiradas do IPT por funcionário da Delegacia Regional
+    Tributária da Capital (DRTC-I) SEFAZ, sem que se tenha apurado o motivo pelo qual foram retiradas e porque não foi realizado o exame, de modo que a contraprova requerida pelo autor não foi produzida, em flagrante desrespeito às regras impostas pela Portaria CAT n0 28/05.
+    Desta feita, o vício constatado não permite seja mantido o processo administrativo, tampouco seu julgamento pelas autoridades administrativa com a imposição de penalidade ao autor, porquanto caracteriza cerceamento de defesa.
+    Sendo assim, por restar caracterizada a ofensa ao direito de defesa do autor, restam prejudicadas as demais teses defendidas pela apelante em suas razões recursais.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Colegiado de origem julgado a apelação a partir de interpretação conferida à Lei estadual nº 11.929/05 e Portaria CAT nº 28/05. Ora, a controvérsia sobre o alcance de norma local não viabiliza, conforme sedimentado pela jurisprudência Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário, o acesso ao Supremo. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça.
+    Acresce que o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 2 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
