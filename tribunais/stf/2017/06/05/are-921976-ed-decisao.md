@@ -1,0 +1,11 @@
+Decisão:
+    Trata-se de embargos de declaração, opostos em 5.11.2015 pela Funerária São Salvador Ltda., contra decisão monocrática que negou seguimento ao recurso extraordinário interposto pela embargante e também ao do Município de Nova Iguaçu.
+    A parte embargante sustenta que “o ponto controvertido deste recurso extraordinário consiste em saber se o art. 42, §2º, da Lei Federal nº 8987/95 poderia ser aplicado aos contratos, firmados antes da Constituição de 1988, quando os mesmos tenham sido precedidos do competente processo licitatório”. Ademais, alega ofensa ao art. 93, IX, tendo em conta a fundamentação da decisão ora embargada.
+     O pedido não merece provimento. De início, ressalta-se que a decisão agravada tem por fundamento o disposto no art. 544, § 4º, II, a,  do CPC/1973, o qual previa caber ao relator o exame de admissibilidade do agravo, podendo negar-lhe provimento quando correta a decisão que não admitiu o recurso extraordinário.
+    A utilização da técnica processual prevista no art. 544, § 4º, II, a, do CPC/1973 não configura violação à prestação jurisdicional. Igualmente, não se pode afirmar que não está fundamentada a decisão que utiliza os fundamentos da decisão agravada para decidir. Com efeito, a jurisprudência do Supremo Tribunal Federal orienta-se no sentido de que a técnica da motivação por remissão se alinha com o princípio constitucional da obrigatoriedade da fundamentação das decisões judiciais (RE 790.913, Rel. Min. Celso de Mello; RE 179.557, Rel. Min. Ilmar Galvão; AI 179.379-AgR, Rel. Min. Celso de Mello).
+     Ademais, tal como constatou o Tribunal de origem, na decisão de admissibilidade, a controvérsia em análise é de índole infraconstitucional. Com efeito, ficou assentado no acórdão recorrido que “os réus celebraram contrato de prestação de serviços funerários, sem licitação prévia, afrontando a Constituição da República, bem como as leis de licitação e de concessão e permissão”. Para dissentir dessa conclusão, seriam necessárias a análise do conjunto fático-probatório constante dos autos, bem como da legislação infraconstitucional aplicável ao caso, providência inviável nesse momento processual.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, rejeito os embargos.
+    Publique-se.
+          Brasília, 5 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
