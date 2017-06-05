@@ -1,0 +1,10 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo não se mostra processualmente viável, eis que interposto contra decisão denegatória de mandado de segurança, proferida, em sede originária, pelo Tribunal de Justiça local.
+    O apelo extremo em questão revela-se recurso processualmente inadequado, eis que, das decisões denegatórias de mandado de segurança, proferidas em única instância pelos Tribunais locais ou pelos Tribunais Regionais Federais, o recurso cabível é apenas o recurso ordinário (CPC, art. 1.027, II, “a”), cujo julgamento compete, nos termos da própria Constituição, ao Superior Tribunal de Justiça (CF, art. 105, II, “b”), independentemente de a controvérsia mandamental consubstanciar matéria constitucional (RTJ 128/953 – RTJ 146/665):
+    “As decisões denegatórias de mandado de segurança, quando proferidas em única instância pelos Tribunais Regionais Federais ou pelos Tribunais locais, comportam uma só e específica modalidade recursal: o recurso ordinário constitucional, interponível, nos termos do art. 105, II, b, da Carta Política, para o Superior Tribunal de Justiça. A previsão constitucional do recurso ordinário em tal hipótese não permite a imediata utilização do recurso extraordinário para o Supremo Tribunal Federal, eis que, enquanto não esgotada a via recursal ordinária, revela-se inadmissível a interposição do apelo extremo. Inexistência de decisão final. Súmula 281/STF.”
+    (RTJ 158/976-978, Rel. Min. CELSO DE MELLO)
+    Vê-se, portanto, que a parte ora agravante, ao interpor recurso evidentemente incabível, incidiu em erro grosseiro, circunstância essa que sequer permite a útil invocação, na espécie, do princípio da fungibilidade recursal (RTJ 132/194 – RTJ 132/1374 – RTJ 142/472).
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 05 de junho de 2017.
+Ministro CELSO DE MELLO
+Relator
