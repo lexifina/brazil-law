@@ -1,0 +1,13 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO E PROCESSO CIVIL. SERVIDOR PÚBLICO ESTADUAL. ADMISSÃO. CONTRATO IRREGULAR. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE O PAGAMENTO DE SALÁRIOS.
+    - A contribuição previdenciária destinada ao financiamento da seguridade social incide sobre o pagamento de salários, independente da nulidade do contrato de servidor admitido de forma irregular no serviço público estadual”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, II, § 2º, da Carta. A parte recorrente sustenta que a nulidade do contrato de trabalho impossibilita a cobrança de contribuição previdenciária incidente sobre as parcelas pagas a esses trabalhadores. Insiste na impossibilidade do contrato de prestação de serviços gerar efeitos tributários, tanto para o empregado quanto para o ente público empregador.
+    A pretensão recursal não merece prosperar. De início, verifico que a única norma constitucional suscitada foi o art. 37, II e § 2º, da Carta, que nada diz sobre a obrigatoriedade de recolhimento de contribuição previdenciária. Desse modo, não há uma fundamentação que correlacione a mencionada violação com a obrigação tributária em questão. A recorrente limita-se a fazer observações genéricas sobre os fatos, sem concluir de forma clara como o acórdão recorrido teria cometido violação aos artigos constitucionais relativos à obrigação tributária em questão. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”
+    Ressalte-se, por fim, que para ultrapassar o entendimento da Corte de origem acerca dos vícios que nulificaram o contrato em questão, bem como sobre a obrigatoriedade do recolhimento da contribuição, é necessária a análise de legislação estadual e do conjunto fático-probatório dos autos, o que não se mostra cabível em sede de recurso extraordinário. Incidência das Súmulas 279 e 280/STF. Com efeito, antes de analisar a possibilidade de concessão de efeitos previdenciários decorrentes de contrato de trabalho nulo, seria necessário o exame da regularidade do referido contrato. No mesmo sentido, vejam-se as seguintes decisões: 652.386-AgR/GO, Rel.ª Min.ª Cármen Lúcia; RE 968.848/SC, Rel. Min. Ricardo Lewandowski; ARE 658.763/GO, Rel. Min. Ricardo Lewandowski; e ARE 648.708-AgR/GO, Rel. Min. Luiz Fux.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 05 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
