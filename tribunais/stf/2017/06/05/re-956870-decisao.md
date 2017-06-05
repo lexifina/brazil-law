@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região que julgara procedente pedido de readequação de benefício previdenciário, concedido em 08.01.1991, aos tetos das EC 20/1998 e 41/2003. Confira-se, a propósito, o seguinte trecho conclusivo do julgado:
+    “[...]
+    No caso dos autos, a aposentadoria foi concedida inicialmente com salário-de-benefício no valor de Cr$ 51.108,99, revisado administrativamente pelo art. 144 da Lei nº 8.213/91 (período do buraco negro) no valor de Cr$ 126.368,79 (Cr$ 4.549.276,44 / 36), limitada ao teto vigente à época em janeiro de 1991, no valor de Cr$ 92.168,11 e aplicado o coeficiente de cálculo de 82% resultando no valor de Cr$ 75.577,85 (fl. 33), de modo que a parte autora faz jus às diferenças decorrentes da aplicação da readequação dos tetos das Emendas Constitucionais nº 20/98 e nº 41/03, aplicando-se os efeitos do julgamento do Recurso Extraordinário 564354/SE, realizado na forma do artigo 543-B do Código de Processo Civil.
+    Ressalte-se que a Contadoria Judicial apurou diferenças decorrentes da aplicação das EC 20/98 e EC 41/03, conforme se verifica da informação juntada aos autos às fls. 74/79.
+    [...”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI; e 195, § 5º, da Constituição, bem como afirma que ocorreu aplicação inadequada do art. 14 da EC 20/1998 e do art. 5º da EC 41/2003.
+    O recurso é inadmissível. O Supremo Tribunal Federal, no julgamento do RE 564.354, Rel.ª Min.ª Cármen Lúcia, com repercussão geral reconhecida, entendeu ser possível a aplicação imediata do art. 14 da Emenda Constitucional nº 20/1998 e do art. 5º da Emenda Constitucional nº 41/2003 àqueles que percebem seus benefícios com base em limitador anterior, levando-se em conta os salários-de-contribuição que foram utilizados para os cálculos iniciais. Na oportunidade, esta Corte não impôs limites temporais à atualização do benefício. Precedentes: RE 953.093, Rel. Min. Dias Toffoli; RE 938.801, Rel. Min. Luiz Fux; RE 899.546, Rel.ª Min.ª Cármen Lúcia; ARE 758.317, de minha relatoria; ARE 917.319, Rel. Min. Edson Fachin.
+    O Plenário do Supremo Tribunal Federal, ao examinar o RE 937.595-RG, de minha relatoria, sob a sistemática da repercussão geral, reafirmou sua jurisprudência e fixou a seguinte tese: “os benefícios concedidos entre 05.10.1988 e 05.04.1991 (período do buraco negro) não estão, em tese, excluídos da possibilidade de readequação segundo os tetos instituídos pelas EC´s nº 20/1998 e 41/2003, a ser aferida caso a caso, conforme os parâmetros definidos no julgamento do RE 564.354, em regime de repercussão geral”.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 05 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
