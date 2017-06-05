@@ -1,0 +1,22 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da 2ª Turma Especializada do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “PREVIDENCIÁRIO. SUSPENSÃO DE BENEFÍCIO. PROCEDIMENTO ADMINISTRATIVO ADEQUADO. AUSÊNCIA DE COMPROVAÇÃO DO VÍNCULO EMPREGATÍCIO.
+    1. Cuida-se de apelação cível interposta por REINALDO DA SILVA RIBEIRO em face de sentença (fls.181/189) que julgou improcedente seu pedido de restabelecimento do benefício previdenciário (NB 107.955.244-5) e o pagamento dos atrasados.
+    2. Conforme é possível observar pelo processo administrativo, a auditoria inconsistências nos dados relativos aos vínculos utilizados para a concessão do benefício da parte autora, o que culminou na suspensão do mesmo.
+    3. A suspensão do referido benefício não se baseou exclusivamente em informações do CNIS ou em mera suspeita de fraude. Houve a instauração de procedimento administrativo, em que foi assegurada a ampla defesa e o contraditório, bem como adequada apuração das irregularidades identificadas pela auditoria.
+    4. Apelação desprovida.”.
+    No recurso extraordinário, sustenta-se violação do artigo 5º, incisos LIV e LV, da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação.
+    Anote-se, inicialmente, que a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ademais, no caso dos autos, para acolher a pretensão recursal acerca das alegadas nulidades do processo administrativo que resultou na suspensão do benefício do autor seria imprescindível o reexame dos fatos e provas dos autos, o que não se mostra cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Sobre o tema:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. SUSPENSÃO DE BENEFÍCIO. ALEGADA OFENSA ÀS GARANTIAS CONSTITUCIONAIS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. As ofensas à Carta de Outubro, se existentes, dar-se-iam de modo reflexo ou indireto, o que não autoriza a abertura da via extraordinária. De outra parte, para se chegar à conclusão pretendida pela parte agravante seria necessário o reexame do conjunto probatório dos autos, providência vedada pela Súmula 279 desta excelsa Corte. Precedente: RE 421.119-AgR, Relator Ministro Carlos Ayres Britto. Agravo regimental a que se nega provimento” (RE nº 444.811/MG-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 23/6/06).
+    “Agravo regimental em agravo de instrumento. 2. Previdenciário. Suspensão de benefício. Impossibilidade de reexame do conjunto fático-probatório. Súmula 279. 3. Recurso intempestivo e não assinado por advogado. Agravo regimental a que se nega provimento” (AI nº 800.581/RJ-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 10/11/11).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) de seu total, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do citado artigo e a eventual concessão do benefício da gratuidade da justiça.
+    Publique-se.
+    Brasília, 5 de junho de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
