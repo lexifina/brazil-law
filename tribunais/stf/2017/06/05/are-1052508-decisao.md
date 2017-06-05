@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “AÇÃO DECLARATÓRIA – ISSQN – ENTIDADE SEM FINS LUCRATIVOS – TOMADORA DE SERVIÇOS PRESTADOS POR TERCEIROS – IMUNIDADE NÃO CARACTERIZADA – ART. 150, VI, C, DA CF – INAPLICABILIDADE – CONSTRUÇÃO CIVIL – BASE DE CÁLCULO – INOBSERVÂNCIA DA REGRA QUE DETERMINA A DEDUÇÃO DOS MATERIAIS NÃO COMPROVADA – DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO – IMPOSSIBILIDADE. A imunidade tributária não impede que a lei municipal atribua às entidades imunes a responsabilidade pelo recolhimento do ISSQN incidente sobre os serviços prestados por terceiros por elas contratadas. Não restando comprovado que a Fazenda Municipal deixou de observar a regra que obriga a deduzir o valor dos materiais e da subempreitada da base de cálculo do ISSQN na construção civil (art. 333, I, do CPC), é impossível reconhecer a ilegalidade do lançamento. RECURSO IMPROVIDO” (pág. 49 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 150, VI, c, da Carta Magna.
+    A pretensão recursal não merece acolhida.
+     O Tribunal de origem decidiu a controvérsia com base nos seguintes fundamentos:
+    “[...] Ocorre que, realmente, é vedado aos Municípios instituir impostos sobre o patrimônio, renda ou serviços das instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei – art. 150, VI, c, da CF.
+    Todavia, a denominada imunidade tributária não impede que a lei municipal atribua às entidades imunes a responsabilidade pelo recolhimento do ISSQN incidente sobre os serviços prestados por terceiros por ela contratados.
+    […]
+    Como se observa, a legislação municipal prevê a responsabilidade solidária do proprietário da obra em relação aos serviços de construção civil que lhe foram prestados (cf. fls. 139), o que é expressamente permitido pelo disposto no art. 128 do CTN.
+    Aliás, no caso do ISS, há previsão legal específica possibilitando a responsabilização dos entes imunes os isentos pelo cumprimento da obrigação tributária (art. 6, §2°, II, da Lei complementar n° 116/2003), de modo que, realmente, não há óbice legal a que o autor figure no polo passivo de uma eventual execução [...]” (págs. 51-52 do doc. eletrônico 3).
+    Assim, para se chegar à conclusão contrária à adotada pelo acórdão impugnado quanto à responsabilidade pelo recolhimento do ISSQN, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279/STF, bem como seria imprescindível a interpretação da legislação infraconstitucional aplicável à espécie (Lei municipal 5.466/1999, Lei complementar 116/2003 e Código Tributário Nacional), sendo certo que eventual ofensa à Constituição seria meramente indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, cito o seguinte precedente:
+     “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ISSQN. EMPRESA TERCEIRIZADA. INCIDÊNCIA. LEI COMPLEMENTAR 116/2003. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO” (ARE 947.891-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 23/2/2017).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF)
+    Publique-se.
+    Brasília, 5 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
