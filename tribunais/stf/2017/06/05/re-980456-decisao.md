@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região que possui a seguinte ementa (doc. 5):
+    “PREVIDENCIÁRIO. PROCESSUAL CIVIL. REVISÃO. DECADÊNCIA. NÃO OCORRÊNCIA. SENTENÇA. ANULAÇÃO. RETORNO DOS AUTOS À ORIGEM.
+    1. O prazo de decadência do direito ou ação do segurado ou beneficiário para a revisão do ato de concessão do benefício, previsto no art. 103, caput, da Lei n. 8.213/91 - a partir da redação dada pela Lei n. 9.528, de 10-12-1997, alterada pelas Leis n. 9.711/98 e 10.839/04, todas precedidas de uma ou mais medidas provisórias - somente é aplicável aos segurados que tiveram benefícios concedidos após a publicação da lei que o previu pela primeira vez, não podendo esta incidir sobre situações jurídicas já constituídas sob a vigência da legislação anterior. 2. Entretanto, tal entendimento não alcança o direito de ajuizar ações revisionais que busquem a correção de reajustes de benefícios, que continuam atingidas apenas pela prescrição qüinqüenal, eis que, inclusive nos termos do próprio artigo 103, caput, da Lei 8.213/1991, tais revisões não envolvem discussão sobre o ato de concessão dos benefícios. 3. Em respeito ao duplo grau de jurisdição e ao princípio do juiz natural, impõe-se a anulação da sentença com o retorno dos autos ao Juízo de origem para a angularização da relação processual e para a prolação de nova decisão de mérito.”
+    O Instituto Nacional do Seguro Social – INSS sustenta, com fulcro no artigo 102, III, “a”, da Constituição Federal, violação ao artigo 5º, XXXVI, da Carta Magna.
+    O apelo extremo do INSS foi sobrestado para aguardar o julgamento do RE 626.489-RG, Tema 313, pelo Plenário desta Corte. (doc. 23)
+    Finalizado o julgamento de mérito, do precedente acima mencionado, pelo Supremo Tribunal Federal, a Vice-Presidência do Tribunal de origem, determinou o retorno dos autos para o devido juízo de retração, nos termos do artigo 543-B, § 3º, do CPC/1973, o qual recebeu acórdão com a seguinte ementa (doc. 30):
+    “PROCESSUAL CIVIL. PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. DIREITO ADQUIRIDO A BENEFÍCIO MAIS VANTAJOSO. DECADÊNCIA.
+    1. Entende o STF que a decadência deve incidir em relação a toda a matéria de fato ou de direito que gere majoração da renda mensal inicial do benefício previdenciário, orientação extraída do RE n.º 626489 com repercussão geral, que decidiu que o prazo decadencial previsto na Medida Provisória n.º 1.523-9, de 1997, aplica-se a benefícios concedidos antes da sua edição, tendo como termo inicial da decadência, a data de 27/06/1997 - início da vigência da referida medida provisória, sem que tal procedimento acarrete aplicação retroativa do prazo extintivo do direito. 2. A controvérsia acerca do direito adquirido ao melhor benefício não foge à incidência de prazo decadencial, em razão do que restou definido na sessão da 3ª Seção, de 03.12.2015, no julgamento dos EI nº 2012.04.99.019058-6.”
+    É o relatório. Decido.
+    O recurso extraordinário perdeu o objeto, tendo em vista o reconhecimento pelo Tribunal de origem, em juízo de retratação, da incidência do prazo decadencial para revisão do benefício previdenciário em análise.
+    Assim, uma vez que esse provimento jurisdicional atende ao postulado no recurso extraordinário da autarquia federal, há a perda do objeto do excepcional apelo.
+    Diante do exposto, não subsistindo interesse no julgamento do recurso, nos termos do art. 21, IX, do Regimento Interno do Supremo Tribunal Federal, JULGO PREJUDICADO o recurso extraordinário.
+     Publique-se.
+    Brasília, 5 de junho de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
