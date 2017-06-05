@@ -1,0 +1,16 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Minas Gerais.
+    No apelo extremo, promovido com amparo no art. 102, III, “a”, da Constituição Federal, o recorrente sustenta, em síntese, que o julgado ofendeu os arts. 5º, II, e 37, caput, da CF/88.
+    É o relatório. Decido.
+    O Tribunal de origem deu provimento à apelação da recorrida para julgar improcedentes os embargos à execução opostos pelo Município, consignando “que não há vedação à fixação de qualquer outra base de cálculo para vantagens de servidor público, caso a Lei Municipal seja omissa quanto a este ponto” (e-STJ, fl. 229).
+    Dessa forma, o acordão recorrido está em consonância com a jurisprudência dessa Corte que, em caso análogo a destes autos, firmou o entendimento segundo o qual “não viola a Constituição a decisão do Tribunal que, em razão da omissão legislativa, fixa o vencimento básico do servidor como base de cálculo do adicional de insalubridade”. Nesse sentido, confiram-se os seguintes precedentes de ambas as Turmas desta Corte:
+    DIREITO ADMINISTRATIVO. SEGUNDO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. MUNICÍPIO DE IPATINGA/MG. BASE DE CÁLCULO DO ADICIONAL DE INSALUBRIDADE. DECISÃO QUE ESTÁ ALINHADA À JURISPRUDÊNCIA DESTA CORTE. PRECEDENTES. 1. Em casos análogos, o Supremo Tribunal Federal decidiu no sentido de que não viola a Constituição a decisão do Tribunal que, em razão da omissão legislativa, fixa o vencimento básico do servidor como base de cálculo do adicional de insalubridade. Precedentes. 2. Agravo regimental a que se nega provimento. (RE 672.687-AgR-segundo, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 13/10/2015)
+    CONSTITUCIONAL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. MUNICÍPIO DE IPATINGA/MG. BASE DE CÁLCULO DO ADICIONAL DE INSALUBRIDADE. OMISSÃO LEGISLATIVA. FIXAÇÃO PELO PODER JUDICIÁRIO. LEGITIMIDADE. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (RE 673.644- AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 6/5/2015)
+    Agravo regimental no recurso extraordinário. Administrativo. Servidor público. Município. Base de cálculo do adicional de insalubridade. Ausência de previsão legal. Incidência sobre o vencimento básico. Possibilidade. Súmula Vinculante nº 4. Precedentes. 1. Diante da proibição constitucional de vinculação de qualquer vantagem de servidor público ou empregado ao salário mínimo e da impossibilidade da modificação da respectiva base de cálculo, não viola a Constituição a decisão do Tribunal que, em razão da omissão legislativa, fixa o vencimento básico do servidor como base de cálculo do adicional de insalubridade. 2. Agravo regimental não provido. (RE 687.395-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 10/3/2014)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 5 de junho de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
