@@ -1,0 +1,16 @@
+DECISÃO
+    Trata-se de inquérito instaurado para apurar a suposta prática de crime tipificado no art. 299 do Código Eleitoral por diversos candidatos a cargo eletivos, nas eleições de 2014, na cidade de Nova Esperança/PR.
+    Após a realização de diversas diligências, os autos foram encaminhados à Procuradoria-Geral da República, que assim se manifestou (fls. 211-214):
+    O feito não reúne condições de prosseguimento sob supervisão do Supremo Tribunal Federal à míngua de elementos mínimos que indiquem o efetivo envolvimento de Fernando Francischini nos fatos em apuração.
+    Muito embora tenham sido colhidas declarações de pessoas que confirmaram a existência de fornecimento gratuito de combustíveis a condutores de veículos adesivados com propaganda política do parlamentar e de outros candidatos, nenhum dos inquiridos afirmou que Fernando Francischini tenha pessoalmente oferecido ou determinado o oferecimento de combustíveis a eleitores em troca de votos.
+    Essa corte tem entendimento firme no sentido de que a simples menção de nome de deputado federal em investigação criminal não tem o condão de firmar a competência do Supremo Tribunal Federal para processamento do feito.
+    Assim, o arquivamento dos autos em relação ao parlamentar é medida que se impõe, sem prejuízo do retorno do feito ao Supremo Tribunal Federal caso surjam indícios consistentes de seu envolvimento nas supostas infrações penais.
+    O princípio do monopólio constitucional da titularidade da ação penal pública no sistema jurídico brasileiro, somente permite a deflagração do processo criminal por denúncia do Ministério Público (Pet. 4281/DF, rel. Min. CELSO DE MELLO, DJE de 17/8/2009), tendo esta Corte decidido pela incompatibilidade do novo modelo acusatório consagrado pelo artigo 129, inciso I, do texto constitucional com todos os procedimentos que afastavam a titularidade privativa da ação penal pública do Parquet, previstos antes da promulgação da Constituição brasileira de 5 de outubro de 1988 (RTJ, 149/825, Rel. Min. SEPÚLVEDA PERTENCE; HC nº 67.931/RS, Rel. Min. MOREIRA ALVES, Diário da Justiça, Seção I, 31 ago. 1990).
+    Assim, tendo o Ministério Público requerido o arquivamento no prazo legal, não cabe ação privada subsidiária, ou a título originário (CPP, art. 29; CF, art. 5º, LIX), sendo essa manifestação irretratável, salvo no surgimento de novas provas (HC nº 84.253/RO, Segunda Turma, Rel. Min. CELSO DE MELLO; Inquérito nº 2028/BA, Pleno, Rel. Min. ELLEN GRACIE, Red. p/ o acórdão Min. JOAQUIM BARBOSA, 28/4/2004, HC 68.540-DF, Primeira Turma, Rel. Min. OCTÁVIO GALLOTTI, DJU 28 jun. 1991).
+    Diante disto, acolho a manifestação do Procurador Geral da República e defiro o arquivamento deste inquérito em relação aos investigados Fernando Francischini, Felipe Francischini, Tiago Amaral e Eduardo Pasquini, nos termos do art. 3º, I, da Lei 8.038/1990, c/c os arts. 21, XV, e 231, § 4º, do RISTF, ressalvada a hipótese do art. 18 do Código de Processo Penal.
+    Oportunamente, providencie-se cópia eletrônica dos autos, nos termo do pedido de fl. 217, em obséquio ao disposto na Súmula Vinculante 14.
+    Publique-se. Intimem-se.
+    Brasília, 5 de junho de 2017.
+     Ministro Alexandre de Moraes
+     Relator
+      documento assinado digitalmente
