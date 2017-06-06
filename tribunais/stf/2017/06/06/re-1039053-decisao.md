@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “RECURSO INOMINADO. NOTÁRIOS E REGISTRADORES. CONTRIBUIÇÃO PATRONAL E PREVIDENCIÁRIA. PLEITO EXORDIAL EFETUADO PELA PARTE AUTORA PARA A SUSPENSÃO DA COBRANÇA DA CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL POR ENTENDER SER ILEGAL E INCONSTITUCIONAL A EXIGÊNCIA PREVISTA NO INCISO II DO ART. 17 DA LEI COMPLEMENTAR N. 412/2008. PRINCÍPIO DA VEDAÇÃO DO CONFISCO. IMPROCEDÊNCIA DO PEDIDO. INCORRÊNCIA DO MESMO FATO GERADOR. NÃO VIOLAÇÃO DO PRINCÍPIO DA VEDAÇÃO AO EFEITO CONFISCATÓRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA INSTITUÍDA PARA RESGUARDAR O EQUILÍBRIO FINANCEIRO E AUTUARIAL DO ESTADO. INEXISTÊNCIA DE ILEGALIDADE OU INCONSTITUCIONALIDADE. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO” (documento eletrônico 10).
+    Neste RE, fundado no art. 102, III, a e c, da Constituição, alega-se, em suma, violação aos arts. 40, caput, e 150, I,II e IV, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque acórdão impugnado dirimiu a questão com base na legislação local pertinente ao caso (Lei Complementar estadual 412/2008, o que inviabiliza o extraordinário a teor da Súmula 280/STF. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. REGIME PRÓPRIO DE SERVIDOR PÚBLICO ESTADUAL. MAJORAÇÃO DE ALÍQUOTAS E EQUILÍBRIO ATUARIAL. SÚMULAS 279/STF E 280/STF.PRECEDENTES O acolhimento da pretensão dos contribuintes impõe uma revisão dos critérios de equilíbrio financeiro e atuarial do regime próprio de previdência estabelecido pelo Estado. Nos termos da jurisprudência da Corte firmada em casos análogos, a análise das razões recursais demanda o reexame do acervo probatório constante dos autos, bem como um juízo interpretativo sobre a legislação local pertinente (Leis Complementares estaduais nº 266/2004 e 412/2008), circunstâncias vedadas nos termos das Súmulas 279/STF e 280/STF. Agravo regimental a que se nega provimento” (RE 774.491-AgR/SC, Rel. Min. Roberto Barroso).
+    Menciono, ainda, entre outras, as seguintes decisões monocráticas: RE 807.0440/SC, Rel. Min. Teori Zavascki; RE 782.337/SC, Rel. Min. Dias Toffoli; RE 745.507/SC, Rel. Min. Luiz Fux.
+    Por fim, o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Carta.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 6 de junho de 2017.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
