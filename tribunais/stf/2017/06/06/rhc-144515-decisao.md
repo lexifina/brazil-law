@@ -1,0 +1,10 @@
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Rodrigo Bueno Braga, advogado, contra acórdão da Sexta Turma do Superior Tribunal de Justiça – STJ, que denegou a ordem no HC 378.470/MG, de relatoria do Ministro Nefi Cordeiro.
+    A insurgência é inviável. Isso porque o pedido veiculado neste recurso ordinário em habeas corpus é mera repetição do HC 141.400/MG, também de minha relatoria, com a mesma causa de pedir e o mesmo pedido, no sentido de se conceder ao recorrente a prisão domiciliar, nos termos do art. 7º do Estatuto da Ordem dos Advogados do Brasil. O acórdão questionado, aliás, é o mesmo.
+    No referido habeas corpus, indeferi o pedido de liminar, solicitei informações ao Juízo de primeiro grau e determinei que, na sequência, fosse ouvido o Procurador-Geral da República.
+    Mutatis mutandis, a remansosa orientação desta Corte é no sentido de não se admitir a reiteração de habeas corpus (RHC 121127-AgR/SP, de relatoria do Ministro Teori Zavascki; HC 103.004/SP e RHC 91.237/MS, ambos de minha relatoria; HC 102.597/SP, Rel. Min. Cármen Lúcia; HC 83.578/RJ, Rel. Min. Nelson Jobim; HC 84.351/RS e HC 85.679/DF, Rel. Min. Carlos Velloso). Na mesma linha de consideração, é ilustrativo o RHC 120.023-AgR/PE, de relatoria da Ministra Cármen Lúcia, cuja ementa possui o seguinte teor:
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CONSTITUCIONAL. PROCESSUAL PENAL. RECURSO ORDINÁRIO IDÊNTICO AO HABEAS CORPUS IMPETRADO ORIGINARIAMENTE NO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE IDENTIDADE DE SITUAÇÕES ENTRE O RECORRENTE E OS CORRÉUS. AGRAVO AO QUAL SE NEGA PROVIMENTO. 1. É incabível a repetição do que posto em discussão e objeto de prestação jurisdicional neste Supremo Tribunal. Precedentes. […] 3. Agravo regimental ao qual se nega provimento”.
+    Isso posto, com base no art. 21, § 1º, do Regimento Interno do STF, nego seguimento ao recurso. Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 6 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
