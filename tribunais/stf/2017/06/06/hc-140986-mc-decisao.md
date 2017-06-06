@@ -1,0 +1,23 @@
+DECISÃO
+PROCESSO-CRIME – SUSPENSÃO –  HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Vara Criminal da Comarca de Tupã/SP, no processo nº 0001608-77.2014.8.26.0637, condenou a paciente a 8 anos de reclusão, em regime inicial fechado, e ao pagamento de 1.200 dias-multa, ante a prática das infrações versadas nos artigos 33, cabeça (tráfico de drogas), e 35 (associação para o tráfico), ambos da Lei nº 11.343/2006. Concedeu o direito de recorrer em liberdade, aludindo à medida acauteladora deferida, por Vossa Excelência, no habeas corpus nº 125.487.
+    Chegou-se ao Superior Tribunal de Justiça com a impetração de nº 338.393, a qual teve pedido liminar indeferido pelo Relator.
+    O impetrante sustenta a ausência de materialidade delitiva, reportando-se ao laudo de constatação cujo resultado revelou-se negativo para cocaína. Afirma que o denominado entorpecente apreendido na residência da paciente era maisena utilizada para alimentação dos filhos. Aduz ter o Juízo recebido a denúncia e proferido sentença condenatória sem considerar a perícia, lastreando a condenação na apreensão de substância pertencente a corréu, com quem não mantinha relação. Argui a ilegalidade decorrente da falta de individualização das condutas de cada denunciado, dizendo genérica a sentença. Frisa o risco iminente de expedição de mandado de prisão, uma vez que se encontra pautado para julgamento o recurso de apelação formalizado pela defesa.
+    Requer, em âmbito liminar, seja reconhecida a nulidade do processo-crime, em relação ao tráfico de drogas, desde o recebimento da denúncia e, sucessivamente, absolvida a paciente no tocante à mencionada imputação, suspenso o processo-crime até o julgamento final da impetração, e reconhecido o direito de aguardar, solta, o trânsito em julgado da condenação, ou a determinação de julgamento do habeas corpus formalizado no Superior Tribunal de Justiça. No mérito, busca a absolvição da paciente relativamente ao delito previsto no artigo 33, cabeça, da Lei de Drogas.
+    Consulta ao sítio do Tribunal de Justiça do Estado de São Paulo revelou o desprovimento da apelação, pela Terceira Câmara de Direito Criminal, no último dia 30 de maio, pendente a publicação do acórdão.
+    Em pesquisa no Superior Tribunal de Justiça, constatou-se que o habeas de nº 338.393 está concluso ao Relator.
+    Anoto que a Primeira Turma, em 18 de abril de 2017, inadmitiu a impetração nº 125.487, revogando a liminar implementada.
+    Não foi apresentada cópia da denúncia.
+    A fase é de exame da medida acauteladora.
+    2. Descabe pretender pronunciamento que implique a definição da matéria de fundo do habeas corpus, como são as questões alusivas à nulidade do processo-crime e à absolvição da paciente, que hão de ser projetadas para o julgamento de mérito, para a oportunidade do crivo do Colegiado.
+    No tocante ao pedido sucessivo, observem que a suspensão do processo-crime surge como excepcionalidade maior. Mostra-se indispensável haver quadro a retratar a ilegalidade. Consta da sentença que as investigações, a partir de dados obtidos mediante interceptações telefônicas, revelaram o cometimento do delito de tráfico de entorpecentes por membros da organização criminosa denominada Primeiro Comando da Capital – PCC –, na cidade de Tupã/SP, em meados de abril de 2014. Segundo a sentença, a paciente, companheira de um dos corréus, atuava na intermediação dos contatos, repassando ordens e orientando a forma de entrega dos produtos e valores. Foram apreendidos, na residência de corréu responsável pela guarda e manutenção da droga em depósito, 1 tijolo de maconha (812,46 gramas); 2 tabletes de maconha (94,18 gramas); e 31 porções de maconha (26,68 gramas), presentes laudos de constatação provisória e laudos químicos toxicológicos. O material periciado pela Equipe de Perícias Criminalísticas de Tupã – Laudo nº 330441/2014 –, cujo resultado revelou-se negativo para cocaína, não foi levado em conta na condenação.
+    Consoante consta das informações, o Juízo deferiu o direito de recorrer em liberdade, não havendo notícia da expedição de mandado de prisão em desfavor da paciente.
+    3. Indefiro a liminar.
+    4. O curso deste habeas não prejudica o de nº 338.393, em trâmite no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Gurgel de Faria.
+    5. Oficiem ao Superior Tribunal de Justiça para que dê prioridade ao julgamento de fundo do habeas corpus.
+    6. Colham o parecer da Procuradoria-Geral da República.
+    7. Publiquem.
+Brasília, 6 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
