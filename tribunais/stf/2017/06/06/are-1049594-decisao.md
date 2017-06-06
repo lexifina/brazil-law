@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – AUSÊNCIA DE PREQUESTIONAMENTO – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Distrito Federal e dos Territórios confirmou o entendimento do Juízo quanto à improcedência do pedido de reingresso no programa habitacional, considerado o não atendimento às convocações de recadastramento. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 1º, inciso III, e 6º da Constituição Federal. Entende contrariados os princípios do direito à moradia e da dignidade da pessoa humana. Afirma fazer jus ao recebimento de imóvel residencial em decorrência do longo tempo de espera. Diz preencher os requisitos pertinentes.
+    2. De início, inviável a alegação de ofensa aos artigos 1º, inciso III e 6º da Carta de 1988, considerada a ausência de prequestionamento. Somente é possível definir se houve transgressão a texto do Diploma Maior mediante o confronto do que decidido com as razões do extraordinário, mais precisamente com o que evocado no tocante à adoção de entendimento contrário ao ditame constitucional. Daí o instituto do prequestionamento, que significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o acórdão impugnado nada contém sobre o que versado no extraordinário, descabe assentar o enquadramento deste no permissivo constitucional. Acresce não terem sido interpostos embargos declaratórios.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Ocorre que o autor, apesar de convocado, não efetuou o recadastramento obrigatório.
+    Nesse descortino, cumpre ressaltar que para que alguém seja contemplado com imóvel destinado à política habitacional, a Lei 3.877/2006 exige o preenchimento de uma série de requisitos, inclusive investigatório, a fim de ser determinada ao candidato a sua ordem de classificação no programa.
+    Assim, sem a documentação pertinente ao processo de recadastramento, não se pode averiguar se o requerente preenche os requisitos para ser contemplado no programa habitacional
+    À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise da Lei nº 3.877/06. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 6 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
