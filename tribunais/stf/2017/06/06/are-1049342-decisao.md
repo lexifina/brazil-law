@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à concessão da segurança para determinar a cessação de descontos na remuneração do servidor, considerada a prescrição do direito da Administração em rever ato administrativo. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 37, inciso XIV, e 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão por negativa de prestação jurisdicional. Afirma que o restabelecimento da gratificação paga ao autor implica o vedado efeito cascata.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, ressaltando a impossibilidade de revisão do ato administrativo diante do decurso do prazo prescricional previsto no Decreto 20.910/32.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese da decisão recorrida:
+    Todavia, na hipótese dos autos, o exercício do poder conferido à Administração Pública para anular seus próprios atos viciados encontra impedimento no instituto da prescrição administrativa, que consagra o princípio da segurança jurídica, no que toca às relações entre o administrado e a Administração e entre esta e seus servidores, vez que mesmo na falta de lei fixadora do prazo prescricional, não pode o servidor público ou o particular ficar perpetuamente sujeito à sanção administrativa por ato ou fato praticado há muito tempo (Hely Lopes Meirelles, in Direito Administrativo Brasileiro, 15a edição, p. 577).
+    […]
+    Quando a lei não fixa o prazo da prescrição administrativa, como se sucede na hipótese sub examine, o prazo a ser adotado para regular a prescrição para a Administração Pública é o de cinco anos, à semelhança da prescrição das ações pessoais contra a Fazenda Pública (Dec. 20.910/32) (Hely Lopes Meirelles, ob. cit., p. 577), entendimento que não destoa do posicionamento do Colendo Superior Tribunal de Justiça, segundo se observa das ementas ora transcritas:
+    [….]
+    No caso, o ato administrativo concessivo do benefício data de 15 de setembro de 2000, ao passo que a retificação se sucedeu somente 17 de setembro de 2013, daí porque irremediável a cognição da prescrição administrativa.
+    Em verdade, ainda que se possível fosse a aplicação retroativa do prazo decenário estabelecido na Lei n° 10.177, de 30 de dezembro de 1998, que regula o processo administrativo no âmbito do Estado de São Paulo, o prazo decadencial estaria superado da mesma forma.
+     Daí se conclui que a concessão da ordem era medida de inteiro rigor, pelo que o improvimento do recurso se impõe.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 6 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
