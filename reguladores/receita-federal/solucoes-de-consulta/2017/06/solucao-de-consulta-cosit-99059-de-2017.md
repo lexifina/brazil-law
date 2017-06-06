@@ -1,0 +1,23 @@
+Solução de Consulta Cosit nº 99059, de 30 de maio de 2017
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: NÃO CUMULATIVIDADE. INSUMOS. AQUISIÇÃO DE DESPERDÍCIOS E RESÍDUOS, E SUCATA, DE FERRO FUNDIDO, FERRO OU AÇO. AQUISIÇÃO DE DESPERDÍCIOS E RESÍDUOS, EM LINGOTES, DE FERRO OU AÇO. VENDA EFETUADA POR PESSOA JURÌDICA OPTANTE DO SIMPLES NACIONAL. CRÉDITOS. IMPOSSIBILIDADE.
+É vedada a apuração do crédito de que trata o art. 3º, II, da Lei nº 10.833, de 2003, nas aquisições de desperdícios, resíduos ou aparas de plástico, de papel ou cartão, de vidro, de ferro ou aço, de cobre, de níquel, de alumínio, de chumbo, de zinco e de estanho, classificados respectivamente nas posições 39.15, 47.07, 70.01, 72.04, 74.04, 75.03, 76.02, 78.02, 79.02 e 80.02 da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, e demais desperdícios e resíduos metálicos do Capítulo 81 da Tipi, ainda que sejam adquiridos de pessoas jurídicas optantes pelo Simples Nacional.
+VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 176, DE 14 DE MARÇO DE 2017, PUBLICADA NO DOU DE 22 DE MARÇO DE 2017.
+DISPOSITIVOS LEGAIS: Lei nº 11.196, de 2005, arts. 47 e 48; Lei nº 10.833, de 2003, art. 3º, II.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: NÃO CUMULATIVIDADE. INSUMOS. AQUISIÇÃO DE DESPERDÍCIOS E RESÍDUOS, E SUCATA, DE FERRO FUNDIDO, FERRO OU AÇO. AQUISIÇÃO DE DESPERDÍCIOS E RESÍDUOS, EM LINGOTES, DE FERRO OU AÇO. VENDA EFETUADA POR PESSOA JURÌDICA OPTANTE DO SIMPLES NACIONAL. CRÉDITOS. IMPOSSIBILIDADE.
+É vedada a apuração do crédito de que trata o art. 3º, II, da Lei nº 10.637, de 2002, nas aquisições de desperdícios, resíduos ou aparas de plástico, de papel ou cartão, de vidro, de ferro ou aço, de cobre, de níquel, de alumínio, de chumbo, de zinco e de estanho, classificados respectivamente nas posições 39.15, 47.07, 70.01, 72.04, 74.04, 75.03, 76.02, 78.02, 79.02 e 80.02 da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, e demais desperdícios e resíduos metálicos do Capítulo 81 da Tipi, ainda que sejam adquiridos de pessoas jurídicas optantes pelo Simples Nacional.
+VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 176, DE 14 DE MARÇO DE 2017, PUBLICADA NO DOU DE 22 DE MARÇO DE 2017.
+DISPOSITIVOS LEGAIS: Lei nº 11.196, de 2005, arts. 47 e 48; Lei nº 10.637, de 2002, art. 3º, II.
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: NÃO CUMULATIVIDADE. INSUMOS. AQUISIÇÃO DE DESPERDÍCIOS E RESÍDUOS, E SUCATA, DE FERRO FUNDIDO, FERRO OU AÇO. AQUISIÇÃO DE DESPERDÍCIOS E RESÍDUOS, EM LINGOTES, DE FERRO OU AÇO. VENDA EFETUADA POR PESSOA JURÌDICA OPTANTE DO SIMPLES NACIONAL. CRÉDITOS. IMPOSSIBILIDADE.
+É vedada a apuração do crédito de que trata o art. 3º, II, da Lei nº 10.833, de 2003, nas aquisições de desperdícios, resíduos ou aparas de plástico, de papel ou cartão, de vidro, de ferro ou aço, de cobre, de níquel, de alumínio, de chumbo, de zinco e de estanho, classificados respectivamente nas posições 39.15, 47.07, 70.01, 72.04, 74.04, 75.03, 76.02, 78.02, 79.02 e 80.02 da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, e demais desperdícios e resíduos metálicos do Capítulo 81 da Tipi, ainda que sejam adquiridos de pessoas jurídicas optantes pelo Simples Nacional.
+VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 176, DE 14 DE MARÇO DE 2017, PUBLICADA NO DOU DE 22 DE MARÇO DE 2017.
+DISPOSITIVOS LEGAIS: Lei nº 11.196, de 2005, arts. 47 e 48; Lei nº 10.833, de 2003, art. 3º, II.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: NÃO CUMULATIVIDADE. INSUMOS. AQUISIÇÃO DE DESPERDÍCIOS E RESÍDUOS, E SUCATA, DE FERRO FUNDIDO, FERRO OU AÇO. AQUISIÇÃO DE DESPERDÍCIOS E RESÍDUOS, EM LINGOTES, DE FERRO OU AÇO. VENDA EFETUADA POR PESSOA JURÌDICA OPTANTE DO SIMPLES NACIONAL. CRÉDITOS. IMPOSSIBILIDADE.
+É vedada a apuração do crédito de que trata o art. 3º, II, da Lei nº 10.637, de 2002, nas aquisições de desperdícios, resíduos ou aparas de plástico, de papel ou cartão, de vidro, de ferro ou aço, de cobre, de níquel, de alumínio, de chumbo, de zinco e de estanho, classificados respectivamente nas posições 39.15, 47.07, 70.01, 72.04, 74.04, 75.03, 76.02, 78.02, 79.02 e 80.02 da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, e demais desperdícios e resíduos metálicos do Capítulo 81 da Tipi, ainda que sejam adquiridos de pessoas jurídicas optantes pelo Simples Nacional.
+VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 176, DE 14 DE MARÇO DE 2017, PUBLICADA NO DOU DE 22 DE MARÇO DE 2017.
+DISPOSITIVOS LEGAIS: Lei nº 11.196, de 2005, arts. 47 e 48; Lei nº 10.637, de 2002, art. 3º, II.
+OTHONIEL LUCAS DE SOUSA JUNIOR
+Coordenador
