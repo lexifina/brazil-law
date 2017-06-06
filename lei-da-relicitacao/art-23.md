@@ -1,0 +1,1 @@
+Art. 23. Na hipótese de concessão à iniciativa privada de aeroportos atribuídos à Empresa Brasileira de Infraestrutura Aeroportuária (Infraero), o edital e o respectivo contrato de concessão poderão prever o pagamento, pela concessionária, diretamente à Infraero, de indenização pelos custos de adequação de efetivo de pessoal.

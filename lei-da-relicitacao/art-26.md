@@ -1,0 +1,1 @@
+Art. 26. Os contratados poderão promover, nos termos de regulamentação do Poder Executivo, a alienação ou a disposição de bens móveis inservíveis do Departamento Nacional de Infraestrutura de Transportes (Dnit), arrendados ou não, localizados na faixa de domínio da ferrovia objeto do contrato de parceria.

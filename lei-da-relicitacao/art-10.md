@@ -1,0 +1,2 @@
+Art. 10. As prorrogações de que trata o art. 5º desta Lei deverão ser submetidas previamente a consulta pública pelo órgão ou pela entidade competente, em conjunto com o estudo referido no art. 8º desta Lei.
+Parágrafo único. A consulta pública será divulgada na imprensa oficial e na internet e deverá conter a identificação do objeto, a motivação para a prorrogação e as condições propostas, entre outras informações relevantes, fixando-se o prazo mínimo de 45 (quarenta e cinco) dias para recebimento de sugestões.

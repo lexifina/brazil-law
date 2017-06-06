@@ -1,0 +1,5 @@
+Art. 30. São a União e os entes da administração pública federal indireta, em conjunto ou isoladamente, autorizados a compensar haveres e deveres de natureza não tributária, incluindo multas, com os respectivos contratados, no âmbito dos contratos nos setores rodoviário e ferroviário.
+§ 1º Excluem-se da compensação de que trata o caput deste artigo os valores já inscritos em dívida ativa da União.
+§ 2º Os valores apurados com base no caput deste artigo poderão ser utilizados para o investimento, diretamente pelos respectivos concessionários e subconcessionários, em malha própria ou naquelas de interesse da administração pública.
+§ 3º A parcela dos investimentos correspondente aos valores compensados não poderá ser utilizada para fins de reequilíbrio econômico-financeiro do contrato e indenização.
+§ 4º O órgão ou a entidade competente realizará estudo técnico que fundamente a inclusão dos novos investimentos ou serviços a serem considerados, podendo valer-se para tanto de estudos técnicos realizados pelo respectivo parceiro contratado.

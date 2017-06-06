@@ -1,0 +1,1 @@
+Art. 24. O Poder Executivo estabelecerá as diretrizes para a utilização da metodologia do fluxo de caixa marginal para fins de recomposição do equilíbrio econômico-financeiro dos contratos de parceria relacionados aos setores de que trata esta Lei.
