@@ -1,0 +1,1 @@
+Art. 11. Encerrada a consulta pública, serão encaminhados ao Tribunal de Contas da União o estudo de que trata o art. 8º desta Lei, os documentos que comprovem o cumprimento das exigências de que tratam os incisos I e II do § 2º do art. 6º desta Lei, quando for o caso, e o termo aditivo de prorrogação contratual.

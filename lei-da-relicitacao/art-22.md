@@ -1,0 +1,1 @@
+Art. 22. As alterações dos contratos de parceria decorrentes da modernização, da adequação, do aprimoramento ou da ampliação dos serviços não estão condicionadas aos limites fixados nos §§ 1º e 2º do art. 65 da Lei nº 8.666, de 21 de junho de 1993.

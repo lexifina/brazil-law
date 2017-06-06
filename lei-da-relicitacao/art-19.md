@@ -1,0 +1,1 @@
+Art. 19. Encerrada a consulta pública, os estudos de que trata o art. 17 desta Lei deverão ser encaminhados ao Tribunal de Contas da União, em conjunto com os documentos referidos no art. 14 desta Lei.

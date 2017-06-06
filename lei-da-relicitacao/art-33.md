@@ -1,0 +1,1 @@
+Art. 33. Os concessionários de serviços ferroviários poderão subconceder a manutenção e a operação de trechos ferroviários aos entes federados interessados, desde que haja anuência do poder concedente, conforme regulamento.

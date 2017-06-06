@@ -1,0 +1,1 @@
+Art. 7º O termo aditivo de prorrogação do contrato de parceria deverá conter o respectivo cronograma dos investimentos obrigatórios previstos e incorporar mecanismos que desestimulem eventuais inexecuções ou atrasos de obrigações, como o desconto anual de reequilíbrio e o pagamento de adicional de outorga.

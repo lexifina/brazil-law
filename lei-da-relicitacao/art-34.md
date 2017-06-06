@@ -1,0 +1,2 @@
+Art. 34. Quando se mostrar necessário à viabilidade dos projetos associados ou dos empreendimentos acessórios, admitir-se-á que a exploração de tais projetos ou empreendimentos ocorra por prazo superior à vigência dos respectivos contratos de parceria.
+Parágrafo único. O órgão ou a entidade competente avaliará a pertinência da adoção da medida de que trata o caput deste artigo, sendo vedada, em qualquer caso, a antecipação das receitas oriundas dos projetos associados ou dos empreendimentos acessórios relativamente ao período que extrapolar o prazo do contrato de parceria.

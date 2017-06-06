@@ -1,0 +1,2 @@
+Estabelece diretrizes gerais para prorrogação e relicitação dos contratos de parceria definidos nos termos da Lei nº 13.334, de 13 de setembro de 2016, nos setores rodoviário, ferroviário e aeroportuário da administração pública federal, e altera a Lei nº 10.233, de 5 de junho de 2001, e a Lei nº 8.987, de 13 de fevereiro de 1995.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:

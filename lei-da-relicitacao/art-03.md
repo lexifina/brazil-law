@@ -1,0 +1,1 @@
+Art. 3º O ministério ou a agência reguladora, na condição de órgão ou de entidade competente, adotará no contrato prorrogado ou relicitado as melhores práticas regulatórias, incorporando novas tecnologias e serviços e, conforme o caso, novos investimentos.
