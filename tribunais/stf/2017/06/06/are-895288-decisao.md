@@ -1,0 +1,8 @@
+DECISÃO: Trata-se de recursos – recurso extraordinário, de um lado, interposto por FPT Powertrain Technologies do Brasil – Indústria e Comercio de Motores Ltda. e agravo (CPC/73, art. 544), de outro, deduzido pela União Federal. O apelo extremo em questão, interposto contra acórdão emanado do E. Tribunal Regional Federal da 4ª Região, sofreu juízo positivo de admissibilidade, sendo que o recurso de agravo foi interposto contra decisão da Vice-Presidência do E. Superior Tribunal de Justiça, que não admitiu recurso extraordinário manifestado contra acórdão dessa Alta Corte.
+    Sendo esse o contexto, passo a apreciar os apelos extremos em referência. E, ao fazê-lo, verifico que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 684.261/PR, posteriormente substituído pelo RE 677.725-RG/RS, ambos de Relatoria do eminente Ministro LUIZ FUX, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa.
+    O tema objeto do recurso representativo de mencionada controvérsia jurídica, passível de se reproduzir em múltiplos feitos, refere-se à “Fixação de alíquota da contribuição ao SAT a partir de parâmetros estabelecidos por regulamentação do Conselho Nacional de Previdência Social” (Tema nº 554 – www.stf.jus.br – Jurisprudência – Repercussão Geral).
+    Sendo assim, impõe-se o sobrestamento dos presentes autos, que permanecerão na Secretaria desta Corte até final julgamento do mencionado recurso extraordinário.
+    Publique-se.
+    Brasília, 06 de junho de 2017.
+Ministro CELSO DE MELLO
+Relator
