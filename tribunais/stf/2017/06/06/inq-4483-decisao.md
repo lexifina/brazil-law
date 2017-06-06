@@ -1,0 +1,9 @@
+Despacho (Petição 30.965/2017): Por meio da petição em epígrafe, o investigado Rodrigo Santos da Rocha Loures requer: a) o acesso à totalidade dos elementos indiciários já colhidos no contexto da investigação; b) a urgente realização de audiência de custódia, antes de sua oitiva; c) seja postergada sua transferência ao Complexo Prisional da Papuda para momento posterior ao de seu depoimento e, quando efetivada, lhe seja reservada a “ala de internados de alto risco pela repercussão social”, localizada no Pavilhão 5; d) sejam assegurados todos os direitos fundamentais não abrangidos pela decretação de prisão preventiva, garantindo-se, em especial, “que não se lhe raspe o cabelo”; e) seja determinado aos órgãos da persecução criminal que apresentem todos os áudios e vídeos existentes até o momento, intimando o Ministério Público para tal fim e f) a disponibilização do conjunto probatório com antecedência mínima de 48 horas, relativamente à data do depoimento a ser prestado pelo peticionante na Polícia Federal.
+    Quanto ao pedido de acesso aos elementos já coligidos nos autos dessa investigação, a urgência procede. Considerando que o sigilo dos autos já foi levantado, está facultado o acesso integral pelo peticionante, mediante a pronta disponibilização de certidão e/ou cópias deste procedimento, dos que lhe são vinculados, bem assim das mídias anexadas a serem obtidas diretamente junto à Seção de Processos Originários Criminais deste Supremo Tribunal Federal.
+    Considerando tratar-se de investigado preso, determino também a imediata vista do pedido Procurador-Geral da República, em expediente avulso, para que se manifeste em 48 (quarenta e oito) quanto ao mais.
+    Cumpra-se, com a necessária urgência.
+    Publique-se. Intimem-se.
+    Brasília, 6 de junho de 2017
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
