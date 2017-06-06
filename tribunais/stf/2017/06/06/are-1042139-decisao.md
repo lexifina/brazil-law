@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal Regional Federal da 3ª Região confirmou o entendimento do Juízo quanto à improcedência do pedido de nulidade do Compromisso de Ajuste de Conduta firmado entre a Funai e o Ministério Público, por se tratar apenas de procedimento destinado a verificar a existência de terras indígenas no município de Iguatemi, sem a prática de qualquer ato expropriatório. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 5º, incisos XXII e LV, e 231 da Constituição Federal. Diz contrariados os princípios da ampla defesa e do contraditório. Entende que era necessária a participação do município no negócio jurídico, ante as consequências do estudo realizado, a implicar a respectiva invalidade.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    Apenas no caso de ser constatado estarem as referidas terras localizadas em área de antigos aldeamentos indígenas é que terá início o processo demarcatório sendo, então, garantido aos proprietários o direito à ampla defesa e ao contraditório. Por conseguinte, na atual fase do procedimento administrativo não haverá a prática de atos expropriatórios irreversíveis, não se vislumbrando qualquer prejuízo ou violação a direitos e garantias decorrentes do referido estudo perpetrado pela FUNAI sem a participação da parte agravante.
+    Por fim, entendo que não é plausível a alegação da agravante acerca da simulação de negócio jurídico, pois, como já salientado acima, o CAC foi firmado com vistas a compelir a FUNAI a realizar atos administrativos que, independentemente da ação do Ministério Público Federal, já eram objeto de suas atribuições legais. Deste modo, o fato de já terem sido realizados estudos sobre a área em momento anterior à elaboração do CAC não configura a simulação de negócio jurídico e, por consequência, não eiva de nulidade tal compromisso, firmado entre a FUNAI e o Ministério Público Federal.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+ Brasília, 6 de junho de 2017.
+ Ministro MARCO AURÉLIO
+Relator
