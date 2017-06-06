@@ -1,0 +1,1 @@
+Art. 2º A prorrogação e a relicitação de que trata esta Lei aplicam-se apenas a empreendimento público prévia e especificamente qualificado para esse fim no Programa de Parcerias de Investimentos (PPI).

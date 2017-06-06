@@ -1,0 +1,4 @@
+Art. 4º Para os fins desta Lei, considera-se:
+I - prorrogação contratual: alteração do prazo de vigência do contrato de parceria, expressamente admitida no respectivo edital ou no instrumento contratual original, realizada a critério do órgão ou da entidade competente e de comum acordo com o contratado, em razão do término da vigência do ajuste;
+II - prorrogação antecipada: alteração do prazo de vigência do contrato de parceria, quando expressamente admitida a prorrogação contratual no respectivo edital ou no instrumento contratual original, realizada a critério do órgão ou da entidade competente e de comum acordo com o contratado, produzindo efeitos antes do término da vigência do ajuste;
+III - relicitação: procedimento que compreende a extinção amigável do contrato de parceria e a celebração de novo ajuste negocial para o empreendimento, em novas condições contratuais e com novos contratados, mediante licitação promovida para esse fim.
