@@ -1,0 +1,24 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Conselho Regional de Fisioterapia e Terapia Ocupacional da 1ª Região contra acórdão que, proferido pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. FISIOTERAPEUTAS. LEI 8.856/94. JORNADA DE TRABALHO. 40 HORAS SEMANAIS. REGIME ESTATUTÁRIO. LEGALIDADE. REMESSA OFICIAL PROVIDA.
+    1. Mandado de segurança impetrado pelo Conselho Regional de Fisioterapia e Terapia Ocupacional da 1ª Região em face de ato praticado pelo Prefeito do Município de Brejinho/PE, objetivando a redução para 30 (trinta) horas da jornada de trabalho dos Fisioterapeutas, prevista no edital do concurso, que estabelecia 40 horas semanais, tendo a sentença concedido a segurança requestada.
+    2. A Lei nº 8.856/94, que fixa a carga máxima de trabalho de 30 horas semanais para os Fisioterapeutas, destina-se, apenas, a regular o regime de trabalho dos profissionais com vínculo celetista, não se prestando, pois, a estabelecer a jornada de trabalho de servidores públicos municipais que se encontram submetidos ao regime jurídico estatutário.
+    3. Hipótese em que deve prevalecer a lei municipal, nos termos do edital do concurso público, em respeito aos princípios da legalidade e da especialidade da administração pública.
+    4. Remessa oficial provida.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 22, XVI, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, o que torna incognoscível o apelo extremo.
+    É preciso salientar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 454/STF, que assim dispõe:
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário a interpretação de cláusulas de edital, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem estritamente infraconstitucional e em interpretação de cláusulas de edital:
+    “A Lei nº 8.856, de 1º de março de 1994, em seu artigo 1º, fixa a jornada de trabalho a ser aplicada aos profissionais Fisioterapeuta e Terapeuta Ocupacional em, no máximo, trinta horas semanais, ‘verbis’:
+    ‘Art. 1º. Os profissionais Fisioterapeuta e Terapeuta Ocupacional ficarão sujeitos à prestação máxima de 30 horas semanais de trabalho.’
+    Uma primeira leitura do dispositivo transcrito poderia conduzir à falsa impressão de que, pelo caráter especial do diploma legal, teria de ser aplicada em relação aos profissionais do concurso em referência. Todavia, tal interpretação não merece prosperar, haja vista que os candidatos aprovados serão regidos por norma municipal própria, editada no âmbito da competência reservada ao Município, conforme item 15.13 do edital.
+    A Lei nº 8.856/94 destina-se, apenas, a regular o regime de trabalho dos Fisioterapeutas e Terapeutas Ocupacionais empregados com vínculo celetista, ou que estejam na condição de profissionais liberais, não se prestando, pois, a estabelecer a jornada de trabalho dos servidores públicos municipais que se encontram submetidos ao regime jurídico estatutário municipal.
+    Destarte, deve prevalecer a lei municipal, nos termos do edital do concurso público, em respeito aos princípios da legalidade e da especialidade da administração pública.”
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 07 de junho de 2017.
+Ministro CELSO DE MELLO
+Relator
