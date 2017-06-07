@@ -1,0 +1,30 @@
+DECISÃO
+    Trata-se de reclamação, com pedido de liminar, contra ato da Presidência do Tribunal de Justiça do Estado do Maranhão que determinou o sequestro no valor de R$ 2.280.741,76 (Precatório 16.659/2012), o que teria desrespeitado decisão desta Corte no julgamento da ADI 1.662 (Rel. Min. MAURÍCIO CORRÊA, DJ de 11/9/2001).
+    O reclamante apresenta os seguintes fatos e argumentos: (a) a expedição do Precatório 16.659/2012 decorre do trânsito em julgado da Ação Ordinária 22.671/2004, sendo, portanto, o Estado do Maranhão devedor de R$ 2.280.741,76; (b) “o único motivo de sequestro de verbas públicas destinadas à satisfação de dívidas judiciais é o relacionado à preterição da ordem de pagamento, o que não ocorre no caso” (fl. 8); (c) a inclusão do importe de R$ 124.077.989,00 no orçamento de 2013 para o pagamento de débitos de sentenças judiciais transitadas em julgado também afasta a outra hipótese autorizadora do sequestro de verbas públicas, que é a falta de alocação; e (c) por outro fundamento, também não se justifica o sequestro desses valores, decorrentes de precatório de 2013, se ainda estão pendentes os de 2012. Requer o deferimento de medida liminar e, ao fim, pugna pela cassação do ato reclamado.
+    A liminar foi deferida e as informações foram prestadas (doc. 117).
+    A Procuradoria-Geral da República opinou pela improcedência da reclamação (doc. 122).
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõe o art. 102 da Constituição:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    (...)
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Veja-se também o art. 988, III e § 4º, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    (...)
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    (...)
+    § 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+    O paradigma de confronto invocado é o decidido por esta CORTE na ADI 1.662 (Rel. Min. MAURÍCIO CORRÊA), cujo objeto restringiu-se à verificação da constitucionalidade de alguns dispositivos da Instrução Normativa 11/1997, aprovada pela Resolução 67/1997, do Órgão Especial do TST, a qual regulamentava o procedimento de expedição de precatórios e ofícios requisitórios referentes a condenações decorrentes de decisões transitadas em julgado contrárias à União, suas autarquias e fundações, permitindo o sequestro, pelos Presidentes dos Tribunais Regionais do Trabalho, de valores em razão da não inclusão em orçamento de verba destinada à quitação de precatório. Naquela oportunidade, esta Corte concluiu que seria incabível a ampliação das possibilidades de cabimento de sequestro, somente admitindo a utilização do instituto na única hipótese até então prevista na Constituição Federal – os casos de preterição na ordem de pagamento do art. 100, § 2º, da CF.
+    Na presente hipótese, o ato reclamado não se ajusta ao contexto do parâmetro de controle acima transcrito. Verifico, ao teor do ato impugnado, que a ordem de sequestro pautou-se no § 6º do art. 100 da Constituição Federal (EC 62/2009), pois restou “incontroverso nos autos que, apesar de devidamente notificado para tal, não incluiu em seu orçamento os recursos necessários ao adimplemento do precatório em questão” (doc. 117, fl. 4).
+    A transcendência do raciocínio que orientou a conclusão da ADI 1.662 para viabilizar o cotejo com o caso em análise não é agasalhada pela jurisprudência desta Corte. Até o presente momento, conforme afirmado pelo Ministro RICARDO LEWANDOWSKI, em julgado recente da Segunda Turma, prevalece o entendimento contrário à “chamada transcendência ou efeitos irradiantes dos motivos determinantes das decisões proferidas em sede de controle adstrato de normas, como se depreende da Rcl 3.014, Min. CARLOS BRITTO, Pleno (...) ” (Rcl 21.986, Segunda Turma, Dje de 5/12/2016).
+    Na mesma linha de consideração, a Primeira Turma assentou:
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO. SEQUESTRO DE VERBAS PÚBLICAS. PRECATÓRIOS. CRÉDITOS DE NATUREZA ALIMENTÍCIA. PRETERIÇÃO DA ORDEM. 1. Não se pode conhecer neste feito da alegação de violação a decisões supervenientes à decisão reclamada. Precedentes. 2. Inaplicabilidade da transcendência dos motivos determinantes. Precedentes. 3. A jurisprudência desta Corte se firmou no sentido de que a Constituição não exime os créditos de natureza alimentícia da inclusão em lista cronológica, mas assegura aos seus titulares o pagamento preferencial em relação aos demais precatórios. 4. Agravo regimental a que se nega provimento” (Rcl 5.536, Rel. Min. ROBERTO BARROSO, Dje de 15/10/2014)
+    Ademais, pretensão idêntica, envolvendo o mesmo Estado reclamante, foi indeferida pela Primeira Turma no julgamento da Rcl 22.637, de relatoria do Ministro MARCO AURÉLIO, cujo trecho da ementa transcrevo, na parte de interesse: “a reclamação pressupõe tenha sido usurpada a competência do Supremo ou desrespeitada decisão proferida, sendo imprópria quando o objetivo é a uniformização de julgados presente o princípio da transcendência” (DJe de 19/12/2016).
+    Nessas circunstâncias, em que não se tem presente o contexto específico da Instrução Normativa 11/1997, aprovada pela Resolução 67/1997, do Órgão Especial do TST, não há estrita aderência entre o ato impugnado e o ato paradigma invocado. É, portanto, inviável a presente reclamação.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, REVOGO MEDIDA LIMINAR E NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Publique-se.
+    Brasília, 7 de junho de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
