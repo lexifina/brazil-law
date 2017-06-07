@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Câmara Especializada Cível do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+    “AGRAVO INTERNO. DECISÃO QUE NEGA SEGUIMENTO AO RECURSO APELATÓRIO. AÇÃO DE COBRANÇA. AGENTE COMUNITÁRIO DE SAÚDE. ADICIONAL DE INSALUBRIDADE. AUSÊNCIA DE REGULAMENTAÇÃO ESPECÍFICA MUNICIPAL. IMPOSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO. PREJUDICADO O PLEITO DE PAGAMENTO RETROATIVO DO ADICIONAL. ENTENDIMENTO SUMULADO DO TJPB. MANUTENÇÃO DA DECISÃO. DESPROVIMENTO DO RECURSO.
+    - Nos termos da linha jurisprudencial uniformizada da Egrégia Corte de Justiça da Paraíba, emerge o seguinte entendimento sumulado: ‘O pagamento do adicional de insalubridade aos agentes comunitários de saúde submetidos ao vínculo jurídico administrativo, depende de lei reguladora do ente ao qual pertencer’.
+    - Em não havendo regulamentação específica acerca do adicional de insalubridade à carreira dos agentes comunitários de saúde, incabível a concessão do pleito vestibular, em razão do que deve ser mantida a sentença sub examine.
+    - Mantido o provimento jurisprudencial proferido pelo douto magistrado a quo, para o fim de julgar improcedente a percepção de adicional de insalubridade, resta prejudicado o pleito recursal atinente ao recebimento de valores retroativos e reflexos nas demais verbas.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 7º, inciso XXIII, e 37, caput, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, uma vez que o acórdão recorrido está em sintonia com a jurisprudência desta Corte que no julgamento do RE n° 169.173/SP, Relator o Ministro Moreira Alves, a Primeira Turma proferiu decisão no sentido de que para haver implantação do adicional de insalubridade para os servidores civis é necessário que o respectivo ente federado (União, Estado e Município) edite lei específica regulamentando-o. O referido julgado está assim ementado:
+    “Servidor público. Adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei. Art. 7º, XXIII, da Constituição Federal. - O artigo 39, § 2º, da Constituição Federal apenas estendeu aos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios alguns dos direitos sociais por meio de remissão, para não ser necessária a repetição de seus enunciados, mas com isso não quis significar que, quando algum deles dependesse de legislação infraconstitucional para ter eficácia, essa seria, no âmbito federal, estadual ou municipal, a trabalhista. Com efeito, por força da Carta Magna Federal, esses direitos sociais integrarão necessariamente o regime jurídico dos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios, mas, quando dependem de lei que os regulamente para dar eficácia plena aos dispositivos constitucionais de que eles decorrem, essa legislação infraconstitucional terá de ser, conforme o âmbito a que pertence o servidor público, da competência dos mencionados entes públicos que constituem a federação. Recurso extraordinário conhecido, mas não provido”.
+    Nesse mesmo sentido, as seguintes decisões monocráticas que tratam especificamente do tema em questão: ARE nº 1.032.767/PB, Relator o Ministro Luiz Fux, DJe de 30/3/17; ARE nº 1.029.321/PB, Relator o Ministro Gilmar Mendes, DJe de 27/3/17; ARE nº 846.593/PB, Relatora a Ministra Cármen Lúcia, DJe de 19/11/14; ARE nº 781.809/PB, Relator o Ministro Roberto Barroso, DJe de 19/9/14.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 7 de junho de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
