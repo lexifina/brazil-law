@@ -1,0 +1,14 @@
+Decisão: Trata-se de mandado de segurança impetrado contra decisão monocrática proferida pela Ministra Presidente deste Supremo Tribunal Federal no RE 1.046.716, a qual determinou a devolução dos autos ao tribunal de origem em virtude do regime da repercussão geral, respaldada no art. 1030, I, ‘a’, do CPC e no art. 13, V, ‘c’, do RISTF.
+    Sustenta-se, em síntese, que o ato coator carece de fundamentação, bem como afronta o princípio da legalidade, de modo que, ao não admitir que o recurso extraordinário fosse distribuído e julgado por um dos ministros desta Suprema Corte, impedindo a discussão de tema relevante e transcendente, ofendeu direito líquido e certo do ora impetrante.
+    Dispenso as informações, assim como a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório.
+    A jurisprudência desta Suprema Corte é uníssona no sentido de que não cabe mandado de segurança contra ato judicial, inclusive aqueles proferidos por qualquer de seus Ministros, salvo nas hipóteses de teratologia, ilegalidade ou abuso flagrante – o que não se verifica no caso dos autos – , porque tais atos decisórios só podem reformados por via dos recursos admissíveis, ou, em se tratando de julgamento de mérito com trânsito em julgado, por ação rescisória.
+    Confiram-se, a propósito, os seguintes precedentes: MS 34.119, de relatoria da Ministra Rosa Weber; MS 34.029, de relatoria do Min. Roberto Barroso; RMS-AgR 32.932, de relatoria do Ministro Gilmar Mendes, Segunda Turma, DJe 25.02.2016; RMS-ED 27.401, de relatoria do Ministro Luís Roberto Barroso, Primeira Turma, DJe 11.02.2016; e RMS-AgR 28.082, de relatoria do Ministro Dias Toffoli, Primeira Turma, DJE 29.11.2013, MS 25.070, de relatoria do Ministro Cezar Peluso, este último assim ementado:
+    MANDADO DE SEGURANÇA. Ato decisório. Impetração contra atos de Ministro do STF. Inadmissibilidade. Não conhecimento. Agravo improvido. Precedentes. Não cabe pedido de mandado de segurança ao Supremo Tribunal Federal contra suas próprias decisões jurisdicionais, inclusive as emanadas de qualquer de seus Ministros.
+    Outrossim, o Supremo Tribunal Federal firmou orientação no sentido do não conhecimento de mandados de segurança contra decisão que aplica a sistemática da repercussão geral. Nesse sentido: MS-AgR 31.955, Relatora Ministra Cármen Lúcia, Segunda Turma, DJe 18.08.2014; MS-AgR 28.379, Relator Ministro Celso de Mello, Tribunal Pleno, DJe 30.10.2014; e MS-AgR 33.459, Relator Ministro Luiz Fux, Primeira Turma, DJe 15.09.2016.
+    Ante o exposto, nego seguimento ao pedido, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 7 de junho de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
