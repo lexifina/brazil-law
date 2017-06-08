@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Sergipe confirmou o entendimento do Juízo quanto à procedência dos pedidos de concessão de reajuste e reenquadramento na carreira, observada a legislação de regência. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, inciso XXXVI, e 169 da Constituição Federal. Defende a constitucionalidade do artigo 28 da Lei municipal nº 826/2009. Discorre sobre a inexistência de direito adquirido a regime jurídico.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão atacada mediante o extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis os fundamentos do acórdão recorrido:
+    Ocorre que o Pleno desta Corte, por unanimidade de votos, declarou a inconstitucionalidade do art. 28 da lei Municipal nº 826/2009, que estabelece limite remuneratório aos servidores públicos municipais diverso daquele estabelecido pela Constituição Federal, nos termos do Acórdão 13004/2015, que recebeu a recebeu a seguinte ementa (fls. 154/159):
+    Constitucional e Civil – Incidente de Inconstitucionalidade – Ação de Cobrança –Incidente de Inconstitucionalidade – Artigo 28 da Lei Municipal nº 826/2009 – Dispositivo que cria um subteto para os servidores públicos do Município de Itabaianinha, diverso do subteto previsto na Constituição Federal, artigo 37 inciso XI – Inconstitucionalidade declarada.
+    I- A Lei Complementar Municipal nº 826/2009 do Município de Itabaianinha ao prever o congelamento da remuneração do servidor municipal ao atingir valor superior ao determinado para o seu nível e letra, em verdade criou um sub teto;
+    II- Afigura-se inconstitucional tal dispositivo da referida lei municipal, tendo em vista que apenas o texto constitucional, em seu artigo 37, inciso XI, estabelece os limites de remuneração para os agentes públicos;
+    III- Subteto constitucional no âmbito dos Municípios é o subsídio do Prefeito.
+    IV- Incidente conhecido, para declarar a inconstitucionalidade do artigo 28 da lei municipal nº 826/2009, do Município de Itabaianinha, com eficácia retroativa, sendo nulos todos os atos decorrentes da aplicação do referido dispositivo.
+    […]
+    Assim, dada a inconstitucionalidade do artigo 28 da Lei Municipal n° 826/2009, reconhecida pelo Pleno deste Tribunal em sede de Incidente de Constitucionalidade, forçoso reconhecer que o Autor faz jus ao reajuste da sua remuneração no percentual de 12,5% previsto na Lei Municipal 879/2012.
+    No que diz respeito ao direito da parte autora ao enquadramento previsto nas Leis Municipais 825/2009 e 826/2009, que organizaram a carreira dos servidores públicos municipais em grupos, classes e níveis, garantindo-lhes direitos e vantagens, melhor sorte não assiste ao Recorrente.
+    Os artigos 14 e 15, ambos da Lei nº 826/2009, estabelecem que:
+    Art. 14 - Serão enquadrados no quadro de servidores desta lei, funcionários que:
+    I.Faça prova documental ou testemunha de estar em pleno exercício da função e que tenha adquirido estabilidade nos termos dos atos das disposições transitórias da CF/88, e que ainda não tenha regularizada sua situação funcional;
+    (...)
+    Art. 15 - Será constituída Comissão designada pelo Prefeito para proceder ao enquadramento e avaliação de que trata a presente lei.
+    Analisando os documentos trazidos aos autos, observo que o demandante comprovou o seu direito à luz da legislação municipal vigente, posto que em serviço há mais de 23 anos, faz jus ao enquadramento na Classe A, Nível III, Letra H, considerando que o tempo de serviço prestado pela servidora perfaz um total de mais de 23 (vinte e três) anos de serviço público.
+    Em análise aos documentos acostados aos autos, verifico que o demandante, até dezembro de 2009, data de entrada em vigor da Lei 826/2009, possuía 23 (vinte e três) anos de serviço público, de acordo com o interstício de 03 (três) anos estabelecidos pela Lei Complementar 608/2000, então vigente.
+    Somente a partir de janeiro de 2010, com as alterações promovidas pela Lei 826/2009, é que a contagem de progressão de tempo de serviço passo a ser de 05 (cinco) anos, o que invalida por completo os argumentos do recorrente.
+    Ora, somente pela análise das provas constantes do processo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise das Leis municipais nº 825/2009, nº 826/2009 e 879/2009. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 1.000,00 (mil reais), fixo os honorários recursais no patamar de R$ 500,00 (quinhentos reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 8 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
