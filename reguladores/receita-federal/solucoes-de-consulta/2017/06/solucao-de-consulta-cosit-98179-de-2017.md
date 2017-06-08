@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98179, de 1º de junho de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 2710.19.99 Mercadoria: Mistura de isômeros de hidrocarbonetos acíclicos insaturados C14, C16 e C18, sob a forma líquida, apresentando aproximadamente 97% da mistura de isômeros C16, contendo em torno de 60% de um isômero determinado, produzida por processo de oligomerização a partir do gás etileno, com ponto final de ebulição a aproximadamente 286°C, segundo o método ASTM D 86, utilizada como matéria prima para fabricação de fluidos de perfuração.
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 do Capítulo 27 e texto da posição 27.10), RGI 6 (textos da subposição de primeiro nível 2710.1 e de segundo nível 2710.19) e RGC-1 (textos do item 2710.19.9 e do subitem 2710.19.99) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº  98.179-2017 .pdf]
