@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – AUSÊNCIA DE PREQUESTIONAMENTO – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo, afastando a prescrição assentada pelo Juízo, julgou improcedente o pedido de pagamento de seguro decorrente de morte, ante a ausência de provas da respectiva contratação. No extraordinário cujo trânsito busca alcançar, a recorrente alega violado o artigo 5º, incisos XXXII e XXXV, da Constituição Federal. Discorre acerca do cerceamento de defesa, afirmando a necessidade de inversão do ônus da prova, tal como previsto no código de Defesa do Consumidor. Afirma não possuir as apólices solicitadas, as quais deveriam ter sido apresentados pelo contratado, conforme requerido em ação de exibição de documentos.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    De fato, observa-se que a autora deixou de trazer o mínimo de comprovação dos fatos constitutivos de seu direito(art. 333, inciso I do CPC).
+    Da análise detida dos autos, denota-se que a apelante instruiu a petição inicial com documentos em que há a demonstração de que seu falecido esposo efetuava pagamento de seguros, bem como com os recibos de fls. 51, 66, 72 e 76 que comprovam que a requerente recebeu várias indenizações securitárias.
+    Entretanto, pela leitura atenta da peça inaugural, observa-se que a autora de fato não foi clara em seu pleito noque diz respeito ao pagamento pretendido, tendo afirmado apenas que não recebeu o Seguro de Vida atrelado a Roubo e Lucros Cessantes e de Previdência Privada e que não possui nenhum documento que demonstre a existência de tal seguro.
+    Importante frisar, neste passo, que a apelante afirmou que propôs ações de exibição de documentos a fim de obter a localização precisa dos seguros, porém não trouxe aos autos nenhuma documentação que demonstrasse um indício mínimo acerca da existência das citadas ações, bem como de outra apólice que não aquelas cujos recibos de pagamentos foram juntados com a inicial mas que não se pretende aqui nenhum pagamento à título de diferença.
+    E as alegações contidas no presente recurso se resumem a a pleitear o afastamento da ocorrência da prescrição, o que já reconhecido de início, bem como a asseverar que a inicial não poderia ter sido indeferida, pois somente após a exibição dos documentos por parte das tés é que restaria clara a existência dos seguros e das previdências.
+    Portanto, sem qualquer lógica o pedido de autora nesse sentido, pois, por mais que se tente acolher o pleito inicial, não há qualquer indício mínimo que comprove a existência de direito por parte da autora no que diz respeito à indenização securitária pretendida.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que os argumentos expendidos no recurso não foram enfrentados pelo Órgão julgador. . Não houve debate e decisão prévios sobre a alegada violação ao artigo 5º, incisos XXXII e XXXV, da Constituição Federal. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula deste Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 8 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
