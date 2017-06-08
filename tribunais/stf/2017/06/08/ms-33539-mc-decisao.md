@@ -1,0 +1,40 @@
+DECISÃO
+CONCURSO PÚBLICO – CARTÓRIOS – TÍTULOS – CONSELHO NACIONAL DE JUSTIÇA – MANDADO DE SEGURANÇA – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Paulo Timponi Torrent assim revelou as balizas do caso:
+    Associação Nacional de Defesa dos Concursos para Cartórios – ANDECC insurge-se contra decisão do Conselho Nacional de Justiça formalizada no procedimento de controle administrativo nº 0006024-83.2014.2.00.0000, por meio da qual promovida alteração na contagem de títulos realizada pela Comissão do LIII Concurso Público de Provas e Títulos para Outorga das Delegações das Atividades Notariais e/ou Registrais do Estado do Rio de Janeiro.
+    Discorre sobre a adequada interpretação dos incisos I e II do item nº 16.3 do edital – os quais reproduzem integralmente os incisos I e II do item nº 7.1 da minuta que acompanha a Resolução nº 81/2009 –, a seguir transcritos:
+    16.3 - Serão considerados os seguintes títulos:
+    I - exercício da advocacia ou de delegação, ou cargo, ou emprego, ou função pública privativa de bacharel em Direito, todos por um mínimo de três anos até a data da primeira publicação deste Edital (2 pontos, no máximo de 2 pontos);
+    II - exercício na atividade notarial ou de registro, por não bacharel em direito, por um mínimo de dez anos até a data da primeira publicação deste Edital (2 pontos, no máximo de 2 pontos);
+    Consoante narra, após a divulgação das notas finais, diversos candidatos questionaram os critérios de avaliação dos títulos, o que levou a autoridade dita coatora a consignar a inviabilidade de atribuir ao exercício de delegação os pontos previstos no inciso I. A decisão baseou-se em entendimento segundo o qual as funções notariais e registrais não são privativas de bacharel em Direito.
+    Segundo afirma, em virtude da nova orientação, os próprios associados foram prejudicados com a perda de posições na classificação final do concurso.
+    Sustenta inadequada a impugnação administrativa do edital, considerado o estágio avançado do certame. Alude à regra do artigo 4º da Resolução CNJ nº 81/2009, segundo a qual “o edital somente poderá ser impugnado no prazo de 15 dias de sua primeira publicação”.
+    Destaca o acerto da óptica adotada no âmbito do Tribunal de Justiça do Estado do Rio de Janeiro, sublinhando que o inciso I sempre foi interpretado de forma a abranger o cômputo de pontos em três situações: o exercício (1) da advocacia; (2) de delegação e (3) de cargo, emprego ou função privativa de bacharel em Direito.
+    Salienta não revelar interpretação lógica do edital a exclusão dos valores relativamente aos bacharéis titulares de delegação. Reporta-se ao voto vencido do conselheiro Guilherme Calmon. Conforme argumenta, o pronunciamento atacado contraria o artigo 14 da Lei nº 8.935/1994, o qual consagra a formação jurídica – requisito para a delegação do exercício da atividade notarial e de registro – como critério justificador da avaliação dos títulos.
+    Aponta injusta a decisão, no que coloca o bacharel em posição de desvantagem relativamente ao delegatário sem formação jurídica, o qual, considerado o inciso II do item 16.3, poderá auferir dois pontos pelo desempenho da função notarial e de registro. Cita precedentes do Supremo.
+    Evoca o assentado na ação direta de inconstitucionalidade nº 3.522, da relatoria de Vossa Excelência, enfatizando que a observância do princípio constitucional da isonomia pressupõe a atribuição proporcional de pontos aos candidatos atuantes no serviço notarial e em outras áreas jurídicas, mostrando-se inconstitucional ato a resultar na exclusão total de pontos concernentes aos títulos relativos ao exercício daquela atividade.
+    Sob o ângulo do risco, alega a ineficácia do pronunciamento final, ante a potencial concretização das escolhas das serventias em desrespeito à classificação inicialmente estabelecida.
+    Requer, liminarmente, a suspensão dos efeitos da decisão questionada e a recontagem dos pontos atribuídos na etapa de títulos, reconhecendo-se, aos delegatários bacharéis em direito, o enquadramento na regra do item nº 16.3, inciso I, do edital do concurso. No mérito, pede a confirmação da medida acauteladora.
+    O processo foi distribuído por prevenção, observado o artigo 69, cabeça, do Regimento Interno do Supremo, presente o mandado de segurança nº 33.527, da relatoria de Vossa Excelência.
+    2. Observem as balizas objetivas. O Conselho Nacional de Justiça, em procedimento de controle administrativo, promoveu significativa alteração nos critérios de contagem dos títulos em concurso público para outorga de delegações no Estado do Rio de Janeiro. A Associação impetrante insurge-se contra o pronunciamento, buscando a restauração da decisão administrativa do Tribunal de Justiça, para que sejam computados os pontos dos títulos de exercício profissional como delegatários bacharéis, consoante o inciso I do item 16.3 do edital do certame.
+    O Órgão impetrado conferiu ao edital interpretação incompatível com os artigos 14, inciso V, e 15, § 2º, da Lei nº 8.935/1994. Transcrevo, pela pertinência, os dispositivos:
+    Artigo 14. A delegação para o exercício da atividade notarial e de registro depende dos seguintes requisitos:
+    […]
+    V - diploma de bacharel em direito;
+    […]
+    Artigo 15. Os concursos serão realizados pelo Poder Judiciário, com a participação, em todas as suas fases, da Ordem dos Advogados do Brasil, do Ministério Público, de um notário e de um registrador.
+    […]
+    § 2º Ao concurso público poderão concorrer candidatos não bacharéis em direito que tenham completado, até a data da primeira publicação do edital do concurso de provas e títulos, dez anos de exercício em serviço notarial ou de registro.
+    Percebam: os preceitos legais admitem a delegação da atividade notarial e de registro tanto a bacharéis em Direito quanto àqueles que, embora sem formação jurídica, tenham completado, até a data da primeira publicação do edital do concurso, dez anos de exercício em serviço notarial ou de registro. O Tribunal de Justiça, na elaboração do instrumento convocatório, seguiu essas balizas. Vejam o teor dos incisos I e II do item 16.3 do documento:
+    16.3 - Serão considerados os seguintes títulos:
+    I - exercício da advocacia ou de delegação, ou cargo, ou emprego, ou função pública privativa de bacharel em Direito, todos por um mínimo de três anos até a data da primeira publicação deste Edital (2 pontos, no máximo de 2 pontos);
+    II - exercício na atividade notarial ou de registro, por não bacharel em direito, por um mínimo de dez anos até a data da primeira publicação deste Edital (2 pontos, no máximo de 2 pontos);
+    Há vinculação direta entre cada um dos incisos transcritos e os dispositivos legais evocados. A manutenção da óptica veiculada no ato impugnado, além de contrariar o diploma que regulamenta o artigo 236 da Constituição Federal, revela inadmissível tratamento discriminatório em relação aos candidatos com formação jurídica, que, excluídos da contagem de títulos com fundamento no inciso I, também não poderiam ser beneficiados pela previsão do inciso II, em virtude da associação com o § 2º do artigo 15 da Lei nº 8.935/1994.
+    Ressalto que, ao se inscreverem para participar da seleção, os candidatos tomaram conhecimento das normas, as quais não podem ser alteradas no curso do processo sem que haja ofensa ao princípio da vinculação ao instrumento convocatório nos concursos públicos, implicando desrespeito à segurança jurídica, consubstanciada na frustração das expectativas criadas.
+    3. Suspendo os efeitos da deliberação atacada. Determino a recontagem dos pontos da etapa de títulos, reconhecendo, aos delegatários com formação jurídica, o direito ao enquadramento na regra do item nº 16.3, inciso I, do edital do concurso.
+    4. Ouçam o Órgão impetrado e deem ciência à Advocacia-Geral da União, observado o artigo 7º, incisos I e II, da Lei nº 12.016/2009.
+    5. Após as manifestações, colham o parecer do Procurador-Geral da República.
+    6. Publiquem.
+Brasília, 8 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
