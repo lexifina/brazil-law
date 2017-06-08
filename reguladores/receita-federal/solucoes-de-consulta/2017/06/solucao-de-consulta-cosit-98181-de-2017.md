@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98181, de 1º de junho de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8517.62.99 Mercadoria: Dispositivo eletrônico próprio para ser conectado a uma televisão através de entrada HDMI, cuja função é receber fluxo de mídia (streaming) através de internet sem fio (Wi-Fi), permitindo a visualização do conteúdo (filmes, programas de TV, vídeos, fotos e jogos) na tela do televisor, sendo o comando de transmissão realizado por meio de aplicativos compatíveis utilizados em aparelhos do tipo smartphone, tablet ou notebook, apresentando formato semelhante a pendrive, com dimensões de 72 x 35 x 12 mm, entrada USB para alimentação de energia e comercializado juntamente com cabo de conexão USB, fonte de alimentação e extensor HDMI.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.17), RGI 6 (textos da subposição de primeiro nível 8517.6 e de segundo nível 8517.62) e RGC- 1 (textos do item 8517.62.9 e do subitem 8517.62.99) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº Decreto nº 8.950, de 2016.
+[arquivo anexo: SC Cosit nº  98.181-2017 .pdf]
