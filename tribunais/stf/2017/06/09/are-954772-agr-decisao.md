@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo interno interposto em 08.06.2016, cujo objeto é decisão que negou seguimento ao recurso (art. 21, § 1º, do RI/STF) porque a decisão que negou seguimento ao recurso extraordinário está correta e alinhada aos precedentes firmados por esta Corte.
+    O recurso extraordinário não foi admitido sob o fundamento de que o acórdão recorrido, que “julgou prejudicado o recurso ordinário em mandado de segurança, em razão de perda superveniente do objeto, não examinando o mérito recursal”, está alinhado com a jurisprudência do Supremo Tribunal Federal.
+    Reconsidero a decisão agravada. Deixo de abrir prazo para contrarrazões, na medida em que, por outros fundamentos, está sendo mantida a decisão que negou seguimento ao recurso extraordinário.
+    No caso, trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+    “PROCESSO CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. SOLDADO DO CORPO DE BOMBEIROS MILITAR. CANDIDATO ELIMINADO DO CERTAME. AÇÃO CIVIL PÚBLICA AJUIZADA PELO MINISTÉRIO PÚBLICO. DECISÃO QUE DETERMINA A INCLUSÃO, NA LISTA DE APROVADOS, DE CANDIDATOS EXCEDENTES AO QUANTITATIVO DO CADASTRO DE RESERVA. CONVOCAÇÃO PARA PARTICIPAÇÃO DO CURSO DE FORMAÇÃO. PERDA DO OBJETO.
+    1. No caso dos autos, o objeto da impetração consubstancia-se em suposto direito subjetivo do impetrante à convocação para realização de curso de formação e a consequente nomeação e posse em cargo público, em razão de sua classificação no certame para provimento de pessoal para o Corpo de Bombeiros Militar do Estado de Goiás.
+    2. O Ministério Público do Estado de Goiás ajuizou ação civil pública na qual foi proferida decisão para que os candidatos aprovados em todas as fases do concurso fossem considerados aprovados, independentemente do número de vagas de cadastro de reserva.
+    3. A superveniência de convocação do candidato para a participação no Curso de Formação não justifica a continuação do trâmite processual do presente recurso ordinário, em razão da perda superveniente de objeto. Precedente específico: AgRg no RMS 43.685/GO, Rel. Ministro Humberto Martins, Segunda Turma, DJe 23.3.2015.
+    Agravo regimental improvido.”
+    A parte recorrente, na peça de recurso extraordinário (Constituição Federal, art. 102, III, a), alega que ocorreu violação aos arts. 5º, XXXV, e 37 da Constituição Federal.
+    O recurso extraordinário é inadmissível. O Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Ademais, o Tribunal de origem julgou impossível a modificação do pedido do presente mandado de segurança e decidiu pela perda do objeto da impetração, em face das seguintes premissas: (i) “o pedido do mandado de segurança em questão estava dirigido à participação do candidato no curso de formação”; (ii) “como indicou o Estado de Goiás, o impetrante foi beneficiado por tutela judicial de ação civil pública e foi guindado ao curso de formação”, e que “foi aprovado e encontra-se em exercício”; (iii) “o próprio recorrente admite que foi beneficiado e demanda a modificação do seu pleito mandamental”.
+    Como se vê, dissentir da conclusão do acórdão recorrido, implica, necessariamente, a análise da legislação infraconstitucional, bem como nova reapreciação dos fatos e do material probatório constantes dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário.
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 09 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
