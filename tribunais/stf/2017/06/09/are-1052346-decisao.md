@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A Turma Recursal confirmou o entendimento do Juízo confirmou o entendimento do Juízo quanto à procedência do pedido de desbloqueio da internet, na forma prevista em contrato. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 1º, inciso IV, 5º, inciso LV, 21, inciso XI, 22, inciso IV, 93, inciso IX, e 170 da Constituição federal. Argui a nulidade da decisão por negativa de prestação jurisdicional. Diz ter havido a imposição de obrigação em caráter perpétuo. Entende feridas a ordem econômica, a livre iniciativa e a livre concorrência.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão atacada mediante o extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, fundamentando a desnecessidade de deslocamento da competência diante da ausência de interesse da ANATEL.
+    A recorribilidade extraordinária mostra-se distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula desta Corte:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    Na hipótese, em sede de contestação, a ré sustentou, com base no artigo 52 da Res. 631/2014 da ANATEL, o direito de, unilateralmente, alterar ou extinguir seus contratos, desde que respeitada prévia comunicação ao consumidor. Neste sentido, teria agido o demandado no exercício regular de seu direito ao cessar o serviço após o esgotamento da franquia.
+    Todavia, sua conduta reputa-se abusiva. E ainda que assim não fosse, o recorrente sequer fez prova da prévia notificação alegada.
+    Assim, deve o contrato ser cumprido nos exatos termos em que fora contratado (fl. 11), assistindo ao recorrente o direito em reduzira velocidade da transmissão dos dados quando atingido o limite da franquia contratada.
+    O Colegiado de origem assentou o cumprimento das obrigações firmadas em contrato. As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+          3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 9 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
