@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL - USUCAPIÃO - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - PARTE DO BEM OBJETO DO LITÍGIO QUE PERTENCE A MUNICIPALIDADE - IMÓVEIS PÚBLICOS QUE NÃO PODEM SER ADQUIRIDOS POR USUCAPIÃO - APLICAÇÃO DO DISPOSTO NO ART. 102 DO CC E ART. 183, §3°, E 191, § ÚNICO, AMBOS DA CF - ENTENDIMENTO QUE É OBJETO DA SÚMULA 340 DO STF - SENTENÇA DE PARCIAL PROCEDÊNCIA MANTIDA. PRELIMINAR REJEITADA. RECURSO IMPROVIDO”. (eDOC 8, p. 34)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXII, XXXV, LIV, LV; e 6º do texto constitucional.
+    Nas razões recursais, alega-se que houve ofensa aos direitos de moradia, de propriedade e de obter a prestação jurisdicional, uma vez que a recorrente “vem exercendo, há mais de 20 anos, a posse direta, ininterrupta, de forma mansa e pacífica, sem oposições e nele introduzindo ampliações de edificações e melhoramentos, para sua moradia e de sua família, com justo título e boa fé” (eDOC 8, p. 94).
+    Sustenta-se, ainda, que o laudo pericial é inconclusivo, “na medida em que insiste em não analisar como está disposto fisicamente e atualmente o imóvel usucapiendo e, este em relação aos demais (vizinhos) e via pública” (eDOC 8, p. 94).
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, no tocante à suposta ofensa aos princípios da ampla defesa, do contraditório e do devido processo legal, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão quando a solução depender da prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ademais, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que a posse de bens públicos por particulares é inviável, porque impossível a usucapião. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Em resumo, a recorrente debate-se em tese que já foi amplamente debatida nos autos e bem analisada pelo MM. Juiz a quo: ‘O fato é que a conclusão da prova realizada ser supostamente contrária ao pedido do autor não franqueia ao mesmo o direito de realização de nova perícia, de sorte que indefiro o pedido em voga’.
+    A prova pericial foi realizada por profissional isento e como bem expôs o sentenciante, não é a conclusão contrária à tese da autora que lhe traz o direito de ver realizada nova perícia ou torna o a laudo inconclusivo.
+    Desta forma, rejeito a preliminar.
+    No tocante ao mérito, também não cabe modificação do julgado.
+    A autora pleiteia que seja declarado o seu domínio sobre área comprovadamente pertencente à Municipalidade, ou seja, bem público que ocupa na condição de invasora.
+    "A posse, como se sabe, é visualização do domínio, exteriorização do direito de propriedade, tanto que apenas há posse onde possível o domínio. Não se pode dizer, em resumo, que os invasores estão na posse de bem público. Os atos de tolerância e permissão não induzem posse (Código Civil, art. 1208)." (TJ/SP, 10ª Câmara de Direito Público, Agravo de Instrumento n° 2063212-10.2013.8.26.0000, Rel. Des. URBANO RUIZ, j. 17 de fevereiro de 2014).
+    Como determinando no Código Civil e na Constituição Federal (artigo 102¹ do Código Civil e artigos 183, parágrafo 3°², e 191, parágrafo único³, ambos da Constituição Federal), bens públicos são insuscetíveis de serem usucapidos, não havendo fundamentação para que seja modificada parte da sentença que somente aplica o estabelecido em Lei, sendo de rigor a manutenção do julgado, nos termos prolatados”. (eDOC 8, p. 36-37)
+    Assim, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. USUCAPIÃO. REQUISITOS. CONTROVÉRSIA QUE DEMANDA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. NECESSIDADE DE REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. 1. A solução da controvérsia demanda a análise da legislação infraconstitucional pertinente e a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal. 2. Agravo regimental a que se nega provimento.” (ARE 886.471-AgR/PE, Rel. Min. Roberto Barroso, Primeira Turma, DJe 11.9.2015)
+    “Agravo regimental em recurso extraordinário. 2. Direito Civil. Usucapião. Terreno da Marinha. Alegação de ofensa ao art. 183, § 3º, da Constituição Federal. 3. Necessidade do revolvimento fático-probatório dos autos. Incidência do Enunciado 279 da Súmula do STF. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (RE 800.130-AgR/PE, de minha relatoria, Segunda Turma, DJe 10.6.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 9 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
