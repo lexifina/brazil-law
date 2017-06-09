@@ -1,0 +1,674 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 16
+
+09/06/2017
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 19.632 G OIÁS
+RELATORA
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. ROSA WEBER
+: ESTADO DE GOIÁS
+: PROCURADOR-GERAL DO ESTADO DE GOIÁS
+: DIRETÓRIO REGIONAL DO PARTIDO DO
+MOVIMENTO DEMOCRÁTICO BRASILEIRO - PMDB
+: KOWALSKY DO CARMO COSTA RIBEIRO
+: TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS
+: SEM REPRESENTAÇÃO NOS AUTOS
+EMENTA
+
+RECLAMAÇÃO.
+DECLARAÇÃO
+DE
+INCONSTITUCIONALIDADE
+DE
+DISPOSITIVOS
+DE
+ATO
+NORMATIVO ESTADUAL QUE PREVIA A ADOÇÃO DE MEDIDAS
+ADMINISTRATIVAS A SEREM TOMADAS EM RAZÃO DE ADESÃO À
+GREVE DE SERVIDOR PÚBLICO CIVIL. ALEGAÇÃO DE AFRONTA
+AO QUANTO DECIDO NOS MANDADOS DE INJUNÇÃO 670, 708 e
+712 E NA ADI 3.235/AL. AUSÊNCIA DE ESTRITA ADERÊNCIA.
+PRETENSÃO DE EXAME DA INTERPRETAÇÃO CONFERIDA AO ART.
+14 DA LEI 7.783/1989. IMPOSSIBILIDADE.
+1. A jurisprudência desta Casa consolidou-se no sentido de que,
+sendo o cerne da decisão proferida no MI 708 a aplicação aos servidores
+públicos da Lei de Greve concernente ao setor privado até que o Poder
+Legislativo discipline o direito de greve no âmbito da Administração
+Pública, há afronta a esse julgado quando o ato reclamado nega o direito
+de greve aos servidores públicos por falta de normatização.
+2. À míngua de identidade material entre os paradigmas invocados e
+o ato reclamado, não há como divisar a alegada afronta à autoridade de
+decisão desta Excelsa Corte.
+3. Agravo regimental conhecido e não provido.
+ACÓRDÃO
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155566.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 16
+
+RCL 19632 AGR / GO
+
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal em conhecer do agravo regimental e negar-lhe
+provimento, nos termos do voto da Relatora e por unanimidade de votos,
+em sessão virtual da Primeira Turma de 02 a 08 de junho de 2017, na
+conformidade da ata do julgamento.
+Brasília, 09 de junho de 2017.
+Ministra Rosa Weber
+Relatora
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155566.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 16
+
+09/06/2017
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 19.632 G OIÁS
+RELATORA
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. ROSA WEBER
+: ESTADO DE GOIÁS
+: PROCURADOR-GERAL DO ESTADO DE GOIÁS
+: DIRETÓRIO REGIONAL DO PARTIDO DO
+MOVIMENTO DEMOCRÁTICO BRASILEIRO - PMDB
+: KOWALSKY DO CARMO COSTA RIBEIRO
+: TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS
+: SEM REPRESENTAÇÃO NOS AUTOS
+RELATÓRIO
+
+A Senhora Ministra Rosa Weber (Relatora): Contra decisão por
+mim proferida, mediante a qual negado seguimento à presente
+reclamação, maneja agravo regimental o Estado de Goiás.
+O agravante reitera a alegação de que a Corte Especial do Tribunal
+de Justiça de Goiás, ao declarar a inconstitucionalidade dos arts. 1º e 2º do
+Decreto Estadual nº 7.964/2013, o qual “estabelece medidas administrativas a
+serem adotadas, no âmbito do Poder Executivo, em razão de greves, paralisações
+ou operações de retardamento administrativo, promovidas por servidores públicos
+estaduais na prestação de atividades ou serviços públicos”, teria afrontado a
+autoridade das decisões proferidas por esta Suprema Corte nos
+Mandados de Injunção 670, 708 e 712 e na Ação Direta de
+Inconstitucionalidade nº 3.235/AL.
+Alega que ato normativo declarado inconstitucional no decreto foi
+elaborado dentro dos expressos limites do poder regulamentar, não
+inovando na ordem jurídica. Consoante aponta, o referido ato “foi
+elaborado segundo orientação que resultou do julgamento proferido pelo próprio
+STF nos mandados de injunção em referência, que têm eficácia contra todos, e
+desse modo, a decisão que o declarou inconstitucional está em desacordo com o
+que restou decidido em referidos mandados de injunção.”
+Argumenta que o Tribunal de Justiça Goiano, ao declarar a
+inconstitucionalidade dos arts. 1º e 2º do Decreto 7.964/2013, contrariou a
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155567.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 16
+
+RCL 19632 AGR / GO
+interpretação que essa Excelsa Corte confere aos dispositivos
+constitucionais que preveem o direito de greve de servidores públicos,
+quais sejam, os arts. 5º, LXXI, e 37, VII, da CF/88.
+Consoante aponta, “(…) trata-se de discutir a validade de ato
+normativo que foi declarado materialmente inconstitucional”.
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155567.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 5 de 16
+
+09/06/2017
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 19.632 G OIÁS
+VOTO
+A Senhora Ministra Rosa Weber (Relatora): ): Preenchidos os
+pressupostos genéricos, conheço do agravo regimental e passo ao exame
+do mérito.
+Transcrevo o teor da decisão que desafiou o agravo:
+“RECLAMAÇÃO.
+DECLARAÇÃO
+DE
+INCONSTITUCIONALIDADE MATERIAL PELA CORTE
+RECLAMADA DE DISPOSITIVOS DE ATO NORMATIVO
+ESTADUAL QUE PREVIA A ADOÇÃO DE MEDIDAS
+ADMINISTRATIVAS A SEREM TOMADAS EM RAZÃO DE
+ADESÃO À GREVE DE SERVIDOR PÚBLICO CIVIL.
+ALEGAÇÃO DE AFRONTA AO QUE DECIDO NOS
+MANDADOS DE INJUNÇÃO 670, 708 e 712 E NA ADI
+3.235/AL. INEXISTÊNCIA.
+Vistos etc.
+1. Trata-se de reclamação constitucional, com pedido de
+liminar, fundada no art. 102, I, “l”, da Constituição Federal,
+ajuizada pelo Estado de Goiás contra acórdão prolatado pelo
+Órgão Especial do Tribunal de Justiça daquele Estado, nos autos
+da Ação Direta de Inconstitucionalidade nº 29657172.2013.8.09.0000,
+em virtude de suposta afronta ao
+entendimento adotado por esta Suprema Corte no julgamento
+dos Mandados de Injunção 670, 708 e 712 e da Ação Direta de
+Inconstitucionalidade nº 3.235/AL.
+2. O reclamante narra que a Corte Especial do Tribunal de
+Justiça de Goiás declarou, com base na Constituição Estadual, a
+inconstitucionalidade dos arts. 1º e 2º do Decreto Estadual nº
+7.964/2013, o qual “estabelece medidas administrativas a serem
+adotadas, no âmbito do Poder Executivo, em razão de greves,
+paralisações ou operações de retardamento administrativo, promovidas
+por servidores públicos estaduais na prestação de atividades ou
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155568.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 6 de 16
+
+RCL 19632 AGR / GO
+serviços públicos”, cujo teor destaco:
+“Art. 1º Em caso de greve, paralisação ou retardamento na
+prestação de atividades ou serviços públicos no âmbito da
+Administração direta, autárquica e fundacional do Poder
+Executivo, os Secretários de Estado e os dirigentes de
+Autarquias e Fundações promoverão, relativamente aos agentes
+públicos que participarem de tais movimentos, a adoção
+imediata das seguintes providências:
+I – convocação expressa dos servidores, mediante
+publicação no Diário Oficial do Estado, para reassumirem, de
+maneira integral e sem demora, o exercício das suas funções;
+II – instauração de procedimento administrativodisciplinar, na forma da Lei nº 10.460, de 22 de fevereiro de
+1998, e Lei nº 13.800, de 18 de janeiro de 2001, para a apuração
+de faltas funcionais e aplicação de penalidades administrativas
+aos faltosos, sem prejuízo das de ordem civil e penal;
+III – desconto, na respectiva folha de pagamento, do valor
+referente aos vencimentos e às vantagens dos dias de falta ao
+serviço por motivo de greve ou paralisação.
+Parágrafo único. Somente em caso de acordo celebrado
+pela categoria profissional com o Poder Público, a fim de que
+haja a reposição dos dias não trabalhados e após comprovação
+do efetivo cumprimento da medida, é que será autorizado o
+pagamento dos valores relativos a vencimentos e vantagens
+anteriormente descontados da folha de pagamento do servidor.
+Art. 2º Serão imediatamente exonerados os ocupantes de
+cargos de provimento em comissão e dispensados os que
+exerçam função de confiança ou gratificada que vierem a
+participar de greve, paralisação ou retardamento na prestação
+de atividades ou serviços públicos.
+Parágrafo único. Os Secretários de Estado e dirigentes de
+Autarquias e Fundações encaminharão ao Governador do
+Estado e ao Secretário de Estado da Casa Civil a relação dos
+servidores que incorrerem nas situações descritas no caput
+deste artigo, para a adoção das providências de exoneração do
+cargo de provimento em comissão ou desligamento da função
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155568.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 7 de 16
+
+RCL 19632 AGR / GO
+de confiança ou gratificada.
+3. Segundo aponta, “este Supremo Tribunal Federal, nos autos
+do Mandado de Injunção nº 708 decidiu, no ano de 2008, pela
+aplicabilidade, aos servidores públicos, da Lei Federal 7.783/89, sem
+prejuízo de que, diante do caso concreto e mediante solicitação de
+entidade ou órgão legítimo, seja facultado ao juízo competente a
+fixação de regime de greve mais severo, quando o caso de serviços ou
+atividades essenciais”.
+4. Afirma que o indigitado decreto estadual, ao prever o
+desconto em folha dos dias não trabalhados nada mais fez do
+que aplicar o art. 7º da Lei 7.783, o qual prevê que “a participação
+em greve suspende o contrato de trabalho”.
+5. Ressalta o entendimento firmado por esta Corte no MI
+708, no sentido de que a deflagração da greve, em princípio,
+corresponde à suspensão do contrato de trabalho e acrescenta
+que, “(…) como regra geral, portanto, os salários dos dias de
+paralisação não deverão ser pagos, salvo no caso em que a greve tenha
+sido provocada justamente por atraso no pagamento aos servidores
+públicos civis, ou por outras situações excepcionais que justifiquem o
+afastamento da premissa da suspensão do contrato de trabalho (art. 7o
+da Lei no 7.783/1989, in fine)”.
+6. Consoante registra, a Corte reclamada teria conferido
+interpretação equivocada ao que definido no MI 708, ao
+concluir que o corte de pagamento e a exoneração dos
+servidores ocupantes de cargo de provimento em comissão
+“somente poderiam ser impostos aos servidores públicos em caso de
+manutenção do movimento grevista após a celebração de acordo ou
+após a decisão judicial pela ilegalidade do litígio”.
+7. Pontua que, para evitar o desconto dos vencimentos, os
+servidores teriam que demonstrar, por meio de dissídio
+coletivo, a legitimidade e a legalidade da greve, uma vez
+reconhecido o direito subjetivo da Administração de realizar
+tais descontos. Segundo defende, não competiria à
+Administração Pública recorrer ao Poder Judiciário para
+pleitear a declaração de ilegalidade de greve, porquanto “(..)
+partir do julgamento do MI 708 o ônus passa a ser dos sindicatos ou
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155568.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 8 de 16
+
+RCL 19632 AGR / GO
+categoria profissional”
+8. Relativamente à declaração de inconstitucionalidade do
+art. 2º do Decreto Estadual 7.964/2013, que determina a
+exoneração dos participantes de greve ocupantes de cargo de
+provimento em comissão e dispensa dos que exerçam função de
+confiança ou gratificada, sustenta que, na ADI 1.696/SE, ao
+apreciar norma de idêntico teor, esta Suprema Corte teria
+reconhecido a constitucionalidade da medida. Aponta, no
+mesmo sentido, trecho do voto proferido pelo Ministro Ricardo
+Lewandowski no MI 708.
+9. Requer a concessão de liminar para que seja
+determinada a suspensão dos efeitos do acórdão prolatado nos
+autos da ADI nº 296571-81.2013.8.09.0000. Sustenta presente o
+requisito do periculum in mora, consistente na possibilidade da
+ocorrência do trânsito em julgado do acórdão reclamado.
+Pugna, por fim, pela procedência da reclamação pra que seja
+cassada a decisão reclamada.
+É o relatório.
+Decido.
+1. Colho, para melhor compreensão da controvérsia,
+trecho do voto exarado pelo desembargador redador do
+acórdão reclamado:
+“Verifica-se do texto acima transcrito que a simples
+participação de servidor público em movimento paredista
+induz à aplicação das penalidades dos arts. 1º e 2º do Decreto
+Estadual 7.964/2013, servindo, portanto, como instrumento para
+a coibição de direito constitucionalmente assegurado (greve).
+Com efeito, o direito de greve dos servidores públicos foi
+assegurado pelo STF no julgamento dos Mandados de Injunção
+n. 670, 708 e 712, cujas ementas restaram assim transcritas:
+(…)
+Conforme dessume-se das ementas acima reproduzidas
+restou assegurado, pelo Supremo Tribunal Federal, o direito de
+greve aos servidores públicos, com a aplicação da Lei Federal n.
+7.783/1989 à espécie, enquanto inexistente regulamentação
+específica da matéria.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155568.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 9 de 16
+
+RCL 19632 AGR / GO
+Aplicando-se, portanto, a Lei Federal n. 7.783/1989 ao
+caso, conforme pronunciamento do STF, tem-se que as
+penalidades previstas pelo Decreto Estadual ora combatido
+somente poderiam ser impostas aos servidores públicos em
+caso de manutenção do movimento grevista após a celebração
+de acordo ou após a decisão judicial pela ilegalidade do litígio.
+Nesse sentido a redação do art. 14 da Lei 7.783/89:
+‘Art. 14. Constitui abuso do direito de greve a
+inobservância das normas contidas na presente Lei, bem como a
+manutenção da paralisação após a celebração de acordo,
+convenção ou decisão da Justiça do Trabalho.’
+Tem-se, pois, que qualquer medida prevista nos arts. 1º e
+2º do Decreto Estadual n. 7.964/2013 somente poderá ser
+aplicada após a declaração de ilegalidade da greve pelo órgão
+judicial competente ou após a realização de acordo entre a
+Administração e os servidores para o encerramento do
+movimento paredista, caso em que restará configurado o abuso
+do direito de greve. Assim, afiguram-se inconstitucionais as
+determinações dos arts. 1º e 2º do Decreto Estadual n.
+7.964/2013, posto violadoras do direito constitucional de greve
+dos servidores públicos estaduais, por permitirem a aplicação
+de penalidades administrativas em função de simples
+participação de servidor público estadual em movimento
+paredista.” (destaquei)
+2. Como visto, a reclamação foi proposta pelo Estado de
+Goiás contra acórdão do Órgão Especial do TJGO que declarou
+a inconstitucionalidade dos arts. 1º e 2º do Decreto Estadual
+7.964/201, que estabeleciam medidas a serem adotadas em caso
+de greve ou paralisação dos servidores públicos do Estado de
+Goiás, tais como desconto dos dias não trabalhados, exoneração
+dos ocupantes de cargos de provimento em comissão e
+dispensa dos que exerçam função de confiança ou gratificada, à
+consideração de que “violadoras do direito constitucional de greve
+dos servidores públicos estaduais, por permitirem a aplicação de
+penalidades administrativas em função de simples participação de
+servidor público estadual em movimento paredista.”
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155568.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 10 de 16
+
+RCL 19632 AGR / GO
+3. O Órgão Especial da Corte reclamada entendeu, com
+base no art. 14 da Lei 7.783/1989, que as medidas previstas no
+decreto estadual em questão somente poderiam ser impostas
+aos servidores públicos em caso de manutenção do movimento
+grevista após celebração de acordo ou decisão judicial pela
+ilegalidade do litígio. Destacou, ainda, o julgamento da ADI
+3.235 por esta Suprema Corte, em que declarada a
+inconstitucionalidade de decreto do Estado de Alagoas que
+previa a aplicação imediata de penalidades ao servidor em
+razão do exercício do direito de greve, ainda que não abusivo.
+4. Esta Suprema Corte, ao julgamento dos Mandados de
+Injunção 670, 708 e 712, assegurou o direito de greve dos
+servidores públicos mediante a aplicação das Leis nº 7.701/1988
+e 7.783/1989, até que seja editada a legislação específica de que
+trata o art. 37, VII, da Constituição Federal.
+5. Na ocasião, foi fixada, ainda, a competência
+constitucional para a apreciação dos dissídios de greve de
+servidor público civil, consoante a abrangência da paralisação,
+bem como restou facultado ao Tribunal competente decidir
+acerca do mérito do pagamento dos dias de paralisação,
+considerada a abusividade, ou não, da greve, e adotar regime
+mais severo em razão de tratar-se de paralisação de serviços ou
+atividades essenciais. Confira-se:
+6. DEFINIÇÃO DOS PARÂMETROS DE COMPETÊNCIA
+CONSTITUCIONAL PARA APRECIAÇÃO DO TEMA NO
+ÂMBITO DA JUSTIÇA FEDERAL E DA JUSTIÇA ESTADUAL
+ATÉ
+A
+EDIÇÃO
+DA
+LEGISLAÇÃO
+ESPECÍFICA
+PERTINENTE, NOS TERMOS DO ART. 37, VII, DA CF.
+FIXAÇÃO DO PRAZO DE 60 (SESSENTA) DIAS PARA QUE O
+CONGRESSO NACIONAL LEGISLE SOBRE A MATÉRIA.
+MANDADO DE INJUNÇÃO DEFERIDO PARA DETERMINAR
+A APLICAÇÃO DAS LEIS Nos 7.701/1988 E 7.783/1989.
+6.1 Aplicabilidade aos servidores públicos civis da Lei no
+7.783/1989, sem prejuízo de que, diante do caso concreto e
+mediante solicitação de entidade ou órgão legítimo, seja
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155568.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 11 de 16
+
+RCL 19632 AGR / GO
+facultado ao juízo competente a fixação de regime de greve
+mais severo, em razão de tratarem de "serviços ou atividades
+essenciais" (Lei no 7.783/1989, arts. 9o a 11).
+6.2. Nessa extensão do deferimento do mandado de
+injunção, aplicação da Lei no 7.701/1988, no que tange à
+competência para apreciar e julgar eventuais conflitos judiciais
+referentes à greve de servidores públicos que sejam suscitados
+até o momento de colmatação legislativa específica da lacuna
+ora declarada, nos termos do inciso VII do art. 37 da CF.
+6.3. Até a devida disciplina legislativa, devem-se definir as
+situações provisórias de competência constitucional para a
+apreciação desses dissídios no contexto nacional, regional,
+estadual e municipal. Assim, nas condições acima especificadas,
+se a paralisação for de âmbito nacional, ou abranger mais de
+uma região da justiça federal, ou ainda, compreender mais de
+uma unidade da federação, a competência para o dissídio de
+greve será do Superior Tribunal de Justiça (por aplicação
+analógica do art. 2o, I, "a", da Lei no 7.701/1988). Ainda no
+âmbito federal, se a controvérsia estiver adstrita a uma única
+região da justiça federal, a competência será dos Tribunais
+Regionais Federais (aplicação analógica do art. 6o da Lei no
+7.701/1988). Para o caso da jurisdição no contexto estadual ou
+municipal, se a controvérsia estiver adstrita a uma unidade da
+federação, a competência será do respectivo Tribunal de Justiça
+(também por aplicação analógica do art. 6º da Lei no
+7.701/1988). As greves de âmbito local ou municipal serão
+dirimidas pelo Tribunal de Justiça ou Tribunal Regional Federal
+com jurisdição sobre o local da paralisação, conforme se trate de
+greve de servidores municipais, estaduais ou federais.
+6.4. Considerados os parâmetros acima delineados, a par
+da competência para o dissídio de greve em si, no qual se
+discuta a abusividade, ou não, da greve, os referidos tribunais,
+nos âmbitos de sua jurisdição, serão competentes para decidir
+acerca do mérito do pagamento, ou não, dos dias de paralisação
+em consonância com a excepcionalidade de que esse juízo se
+reveste. Nesse contexto, nos termos do art. 7º da Lei no
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155568.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 12 de 16
+
+RCL 19632 AGR / GO
+7.783/1989, a deflagração da greve, em princípio, corresponde à
+suspensão do contrato de trabalho. Como regra geral, portanto,
+os salários dos dias de paralisação não deverão ser pagos, salvo
+no caso em que a greve tenha sido provocada justamente por
+atraso no pagamento aos servidores públicos civis, ou por
+outras situações excepcionais que justifiquem o afastamento da
+premissa da suspensão do contrato de trabalho (art. 7o da Lei
+no 7.783/1989, in fine).
+6.5. Os tribunais mencionados também serão competentes
+para apreciar e julgar medidas cautelares eventualmente
+incidentes relacionadas ao exercício do direito de greve dos
+servidores públicos civis, tais como: i) aquelas nas quais se
+postule a preservação do objeto da querela judicial, qual seja, o
+percentual mínimo de servidores públicos que deve continuar
+trabalhando durante o movimento paredista, ou mesmo a
+proibição de qualquer tipo de paralisação; ii) os interditos
+possessórios para a desocupação de dependências dos órgãos
+públicos eventualmente tomados por grevistas; e iii) as demais
+medidas cautelares que apresentem conexão direta com o
+dissídio coletivo de greve.” (MI 708/DF, Rel. Min. Gilmar
+Mendes, Tribunal Pleno, DJe 31.10.2008 - destaquei)
+6. Não há falar, portanto, em descumprimento das
+decisões proferidas pelo Supremo Tribunal Federal nos
+Mandados de Injunção 670, 708 e 712, uma vez que que
+autoridade reclamada não inviabilizou ou sequer restringiu o
+direito de greve, em razão de lacuna normativa. Ao contrário,
+em atenção ao decidido por esta Suprema Corte nos referidos
+paradigmas e na ADI 3.235, bem como mediante interpretação
+do art. 14 da Lei 7.783/1989, concluiu pela impossibilidade de
+aplicação imediata das medidas previstas no decreto estadual,
+sem que houvesse declaração de ilegalidade da paralisação pelo
+órgão judicial competente.
+7. Destaco que descabe lançar mão, como atalho
+processual, do instituto da reclamação para questionar a correta
+aplicação da Lei 7.783/89, porquanto tal exame deve ser
+realizado pelas vias recursais ordinárias. Colho precedentes:
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155568.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 13 de 16
+
+RCL 19632 AGR / GO
+“AGRAVO
+REGIMENTAL.
+RECLAMAÇÃO.
+DESRESPEITO
+ÀS
+DECISÕES
+PROFERIDAS
+NOS
+MANDADOS DE INJUNÇÃO 670/ES, 708/DF e 712/PA. NÃO
+OCORRÊNCIA. MOVIMENTO GREVISTA ANALISADO À
+LUZ DOS REQUISITOS E LIMITES ESTABELECIDOS NA LEI
+7.783/1989. AGRAVO REGIMENTAL A QUE SE NEGA
+PROVIMENTO.
+I O pedido formulado nesta ação reclamatória não se
+enquadra em nenhuma das duas hipóteses permissivas inscritas
+no art. 102, I, l, da Constituição Federal, seja para preservar a
+competência desta Corte, seja para garantir a autoridade de
+suas decisões.
+II A decisão reclamada não afastou, por ausência de
+regulamentação legal, a possibilidade do exercício do direito de
+greve pelos servidores ora envolvidos. Ao contrário, procedeu,
+em juízo cautelar, ao exame do movimento paredista
+deflagrado à luz dos requisitos e limites estabelecidos na Lei
+7.783/1989.
+III Pretensão de, por meio desta reclamação, verificar
+eventuais desacertos ou deficiências na interpretação dada pelo
+juízo reclamado à legislação infraconstitucional relativa ao
+exercício do direito de greve, pretensão que não pode ser
+acolhida nessa via estreita, que, ademais, não pode ser utilizada
+como mero sucedâneo recursal.
+IV Além disso, não cabe analisar nesta via processual se a
+atividade docente pode ou não ser considerada serviço
+essencial, à luz do que dispõem os arts. 10 e 11 da Lei
+7.783/1989.
+V Agravo regimental a que se nega provimento” (Rcl
+15.692 AgR/PB, Rel. Min. Ricardo Lewandowski, Tribunal
+Pleno, DJE 18.11.2013).
+“RECLAMAÇÃO. GREVE DE SERVIDORES PÚBLICOS.
+INEXISTÊNCIA DE OFENSA A DECISÕES DO STF. 1. Em sede
+de reclamação, não se pode corrigir a interpretação dada à Lei
+nº 7.783/1989, a pretexto de assegurar a autoridade dos
+acórdãos proferidos por este Tribunal nos MIs 670, 708 e 712. 2.
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155568.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 14 de 16
+
+RCL 19632 AGR / GO
+A reclamação não serve como sucedâneo recursal. Precedentes.
+3. Seguimento negado.” (Rcl 17.405, Rel. Min. Roberto Barroso,
+DJe 03.4.2014)
+7. Ante o exposto, ausente afronta aos paradigmas
+invocados, forte no art. 21, § 1º, do RISTF, nego seguimento à
+presente reclamação, restando prejudicado o exame do pedido
+liminar.
+
+Nada colhe o agravo.
+Consoante registrado na decisão agravada, ao julgamento dos
+Mandados de Injunção 670, 708 e 712, esta Suprema Corte assegurou o
+direito de greve dos servidores públicos mediante a aplicação das Leis nº
+7.701/1988 e 7.783/1989 até que seja editada a legislação específica de que
+trata o art. 37, VII, da Constituição Federal, bem como fixou a
+competência constitucional para a apreciação dos dissídios de greve de
+servidor público civil, consoante a abrangência da paralisação, facultando
+ao Tribunal competente decidir acerca do mérito do pagamento dos dias
+de paralisação, considerada a abusividade, ou não, da greve, e adotar
+regime mais severo em razão de tratar-se de paralisação de serviços ou
+atividades essenciais.
+Sendo o cerne da decisão proferida no MI 708 a aplicação aos
+servidores públicos da Lei de Greve concernente ao setor privado até que
+o Poder Legislativo discipline o direito de greve no âmbito da
+Administração Pública, há afronta a esse julgado quando o ato reclamado
+nega o direito de greve aos servidores públicos por falta de normatização.
+Verifico que a Corte reclamada declarou a inconstitucionalidade
+material dos arts. 1º e 2º do Decreto Estadual nº 7.964/13,
+ao
+entendimento de que as medidas neles previstas, a serem adotadas em
+caso de paralisação promovidas por servidores públicos estaduais,
+somente poderiam ser impostas em caso de manutenção do movimento
+grevista após celebração de acordo ou decisão judicial pela ilegalidade
+do litígio, tendo em vista o disposto no art. 14 da Lei 7.789/89.
+Nesse contexto, não se tratando de inviabilização ou restrição do
+direito de greve, em razão de lacuna normativa, impõe-se reconhecer a
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155568.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 15 de 16
+
+RCL 19632 AGR / GO
+ausência de estrita aderência entre os atos confrontados.
+O reclamante pretende, pois, com fundamento em suposta afronta à
+autoridade das decisões proferidas nos MIs 670, 708 e 712, o reexame da
+interpretação dada à Lei 7.783/89 pela Corte Estadual, escopo ao qual não
+se amolda o instituto da reclamação. Não é possível, pois, conferir à
+reclamação a natureza de sucedâneo recursal ou de meio viabilizador do
+reexame do conteúdo do ato reclamado.
+Agravo regimental conhecido e não provido.
+É como voto.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13155568.
+
+Supremo Tribunal Federal
+Extrato de Ata - 09/06/2017
+
+Inteiro Teor do Acórdão - Página 16 de 16
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NA RECLAMAÇÃO 19.632
+PROCED. : GOIÁS
+RELATORA : MIN. ROSA WEBER
+AGTE.(S) : ESTADO DE GOIÁS
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DE GOIÁS
+AGDO.(A/S) : DIRETÓRIO REGIONAL DO PARTIDO DO MOVIMENTO
+DEMOCRÁTICO BRASILEIRO - PMDB
+ADV.(A/S) : KOWALSKY DO CARMO COSTA RIBEIRO (33710/GO)
+INTDO.(A/S) : TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS
+ADV.(A/S) : SEM REPRESENTAÇÃO NOS AUTOS
+Decisão: A Turma, por unanimidade, conheceu do agravo e negoulhe provimento, nos termos do voto da Relatora. Primeira Turma,
+Sessão Virtual de 2 a 8.6.2017.
+Composição: Ministros Marco Aurélio (Presidente), Luiz Fux,
+Rosa Weber, Luís Roberto Barroso e Alexandre de Moraes.
+Disponibilizou processos para esta Sessão o Ministro Edson
+Fachin, não tendo participado do julgamento desses processos o
+Ministro Alexandre de Moraes por sucedê-lo na Primeira Turma.
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 13062394
