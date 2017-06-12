@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário. No caso, o Tribunal Regional Federal da 5ª Região deu parcial provimento ao pedido autoral, de modo a assegurar direito à progressão funcional de servidor nomeado tardiamente por erro da Administração Pública. Confira-se a ementa do julgado:
+    ADMINISTRATIVO. CONCURSO PÚBLICO. INDENIZAÇÃO. NOMEAÇÃO APÓS DECISÃO JUDICIAL. VENCIMENTOS PRETÉRITOS. INCABIMENTO.
+    I. A jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça, já vem se posicionando no sentido de que o candidato aprovado em concurso público e nomeado tardiamente em razão de erro da Administração Pública, reconhecido judicialmente, não faz jus à indenização por dano patrimonial. Precedente: STF, RE 593373 AgR, rel. Min. JOAQUIM BARBOSA, DJe 18-4-2011; STJ, AgRg nos EDcl nos EDcl no RMS 30054 / SP, rel. Ministro OG FERNANDES, DJe 1º.3.2013.
+    II. O candidato que participou de concurso público em igualdade com os demais concorrentes, considerado apto para posse no cargo para o qual concorreu, por meio de decisão judicial, tem direito à progressão funcional, nos termos da legislação vigente à época do concurso.
+    III. No caso, os colegas que juntamente fizeram o curso de formação na Polícia Federal com o autor, já se encontram na 1ª CLASSE, ao passo em que ele que tomou posse depois de decisão judicial, entrou na 3ª CLASSE. O tratamento diverso dado a um aprovado que teve a oportunidade de ser assim considerado por decisão judicial, afronta o princípio da isonomia, ínsito no art. 5º, caput, da Constituição Federal
+    IV. Apelação parcialmente provida, para assegurar ao autor o direito à progressão na carreira, decorrente da contagem do tempo em que indevidamente foi mantido fora da Polícia Federal.
+    Em síntese, o recorrente alega violação aos arts. 37; 39; 84, IV e VI; e 97, da Constituição.
+    O recurso deve ser provido. O tribunal de origem divergiu do entendimento firmado por esta Corte no julgamento do RE 629.392-RG, Tema 454, Rel. Min. Marco Aurélio, no sentido de que o servidor público nomeado por meio de decisão judicial não faz jus a progressão ou promoção funcional, sob o fundamento de que deveria ter sido investido em momento anterior, em razão de erro da Administração Pública. Confira-se a ementa do precedente:
+    CONCURSO PÚBLICO – NOMEAÇÃO – ORDEM JUDICIAL – PROMOÇÕES. A nomeação tardia de candidatos aprovados em concurso público, por meio de ato judicial, à qual atribuída eficácia retroativa, não gera direito às promoções ou progressões funcionais que alcançariam houvesse ocorrido, a tempo e modo, a nomeação.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, conheço do agravo para dar provimento ao recurso extraordinário e julgar improcedentes os pedidos iniciais. Invertidos os ônus da sucumbência, ressalvada eventual concessão do benefício da justiça gratuita, sem prejuízo do disposto no art. 12 da Lei nº 1.060/1950.
+    Publique-se.
+          Brasília, 12 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
