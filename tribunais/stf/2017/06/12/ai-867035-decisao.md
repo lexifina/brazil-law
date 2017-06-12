@@ -1,0 +1,25 @@
+Decisão:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado:
+    “AGRAVO REGIMENTAL CONTRA DECISÃO MONOCRÁTICA QUE DETERMINOU PAGAMENTO A IMPETRANTE. TÍTULO JUDICIAL CONDENATÓRIO DE OBRIGAÇÃO DE DAR. LEGALIDADE. PROCESSO DE EXECUÇÃO DEVIDAMENTE INSTAURADO. CITAÇÃO VÁLIDA. PAGAMENTO DOS HONORÁRIOS PERICIAIS PELA PARTE VENCIDA. ACERTO DA DECISÃO MONOCRÁTICA. RECURSO IMPROVIDO”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art.  5º, LIV e LV, da Carta. Sustenta que: (i) o Estado não foi citado para embargar a execução, nem para formar o precatório; (ii) os honorários periciais devem ser pagos pela parte que os requereu.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[…]
+    Também não merece prosperar o apelo extraordinário.
+    Com efeito, os dispositivos constitucionais, referidos no apelo extremo, não foram examinados no acórdão recorrido; os embargos declaratórios, à sua vez, não foram suficientes para suprir tal omissão. Incide, na espécie, a Súmula 282 do Supremo Tribunal Federal, que dispõe ‘É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada’.
+    Em face do exposto, NÃO ADMITO ambos os recursos.”
+    A pretensão recursal não merece prosperar. Quanto à suposta violação aos princípios do contraditório, ampla defesa e devido processo legal, a irresignação não merece acolhida. Esta Corte entende que é inviável a apreciação, em recurso extraordinário, de alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e da inafastabilidade da jurisdição, uma vez que, se violação houvesse, seria meramente indireta ou reflexa. Nesse sentido, confira-se o seguinte julgado:
+    “DIREITO PROCESSUAL CIVIL. LEVANTAMENTO DE DEPÓSITOS EM JUÍZO. REQUISITOS. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. INAFASTABILIDADE DA JURISDIÇÃO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. RECURSO MANEJADO EM 16.02.2016.
+    1. Inexiste violação do art. 93, IX, da Lei Maior. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo constitucional exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento, dispensando o exame detalhado de cada argumento suscitado pelas partes.
+    2. O exame da alegada ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal, observada a estreita moldura com que devolvida a matéria à apreciação desta Suprema Corte, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária prevista no art. 102 da Magna Carta.
+    3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+    4. Agravo regimental conhecido e não provido.” (ARE 939.004-AgR, Rel.ª Min.ª Rosa Weber)
+    Quanto à alegada ausência de citação, cabe registra que esta Corte já fixou o entendimento de que a controvérsia sobre ausência de citação é de índole infraconstitucional. Nessa linha, veja-se:
+    “DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. VANTAGENS RECONHECIDAS. PROFESSORES. CITAÇÃO. ALEGAÇÃO DE OFENSA AO ART. 5º, II, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. LEGALIDADE. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. NATUREZA INFRACONSTITUCIONAL DA CONTROVÉRSIA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 09.11.2007.
+    1. Obstada a análise da suposta afronta aos incisos II, LIV e LV do artigo 5º da Carta Magna, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+    3. Agravo regimental conhecido e não provido”. (ARE 885.567-AgR, Rel.ª Min.ª Rosa Weber)
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 12 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
