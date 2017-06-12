@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO CÍVEL. Ação de indenização por danos materiais e morais. Morte de preso em unidade prisional. Detento, preso em flagrante pela prática de furto qualificado tentado, fora encontrado morto na cela com um fio de nylon preso ao pescoço no mesmo dia em que fora detido. Conjunto probatório coligido aos autos que demonstra a falta do serviço. Responsabilidade do Estado em indenizar configurada. Suicídio caracterizado. Não obstante o Estado não deva ser responsabilizado por ato desatinado de preso, a omissão está configurada na medida em que fora permitido que o detento adentrasse na cela com fios sintéticos e os utilizasse para praticar suicídio. Sentença de parcial procedência do pedido mantida. Danos materiais indevidos diante da falta de demonstração da dependência econômica. Danos morais mitigados. Dado parcial provimento ao recurso da Fazenda e negado ao da autora.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que “a redução por danos morais de quinhentos para cento e cinquenta salários mínimos, contraria o disposto nos artigos 37, § 6º, e 5º, XLIX, ambos da Constituição Federal”.
+    O recurso é inadmissível, tendo em vista que a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    O Supremo Tribunal Federal já assentou entendimento pela ausência de repercussão geral em questão acerca de modificação de valor fixado a título de indenização por danos morais, em face do óbice da Súmula 279/STF. Nessa linha, veja-se a ementa do ARE 743.771, julgado sob a relatoria do Ministro Gilmar Mendes (Tema 655):
+    “DIREITO CIVIL. RESPONSABILIDADE CIVIL. VALOR FIXADO A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO 279 DA SÚMULA DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 12 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
