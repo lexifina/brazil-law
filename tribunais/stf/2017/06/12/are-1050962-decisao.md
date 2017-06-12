@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação – dispensa de servidor em estágio probatório – dispensa por ato subjetivo, sem prova, em nítida afronta à ampla defesa e contraditório – anulado ato de exoneração – sentença mantida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 41 da Constituição.
+    A decisão agravada negou seguimento ao recurso por entender que incidem, no caso, as Súmulas 282 e 356/STF.
+    O recurso não merece acolhida. Isso porque a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC/1973.
+    Como já registrado por este Tribunal, “a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Ademais, a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência do Supremo Tribunal Federa no sentido de que qualquer ato da Administração Pública, capaz de repercutir negativamente sobre a esfera de interesses do cidadão, deve ser precedido de devido processo legal, em que se assegure a ampla defesa e o contraditório. A conclusão não se altera quando o ato em questão seja a dispensa de funcionário público. Nessa linha, confiram-se os seguintes precedentes:
+    “CONSTITUCIONAL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL NÃO ESTÁVEL. EVENTUAL DEMISSÃO. CONTRADITÓRIO E AMPLA DEFESA. 1. Garantia do contraditório e da ampla defesa em eventual demissão de servidor público pela Administração, mesmo que de cargo não efetivo. Precedentes. 2. A decisão agravada reconheceu que o acórdão recorrido decidiu conforme a jurisprudência do Supremo Tribunal. RE 244.544-AgR/MG, 2ª Turma, rel. Min. Maurício Corrêa, DJ 21.06.2002, dentre outros. 3. Agravo regimental ao qual se nega provimento.” (RE 491.724 AgR/MG, Rel.ª Min.ª Ellen Gracie)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ESTADO DE RONDÔNIA. POLICIAIS MILITARES. PROCESSO ADMINISTRATIVO DISCIPLINAR. LICENCIAMENTO EX OFFICIO . OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA.
+    A jurisprudência da corte tem se firmado no sentido de que a ausência de processo administrativo ou a inobservância aos princípios do contraditório e da ampla defesa torna nulo o ato de demissão de servidor público, seja ele civil ou militar, estável ou não.
+    Agravo regimental a que se nega provimento.” (RE 196.554-AgR, Rel. Min. Eros Grau)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 12 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
