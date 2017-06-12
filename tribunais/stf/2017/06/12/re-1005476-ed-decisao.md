@@ -1,0 +1,22 @@
+Decisão:
+    Trata-se de embargos de declaração opostos contra decisão de minha relatoria pela qual julguei procedente recurso extraordinário, pelos seguintes fundamentos:
+    “Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    ‘Apelação. Ação declaratória de inexistência de relação jurídico-tributária com pedido cumulado de repetição de indébito. Contribuição para custeio de serviço de iluminação pública. Tributo destinado a custear atividade de interesse geral. Natureza jurídica que não se compatibiliza com a de contribuição. Alegação de inconstitucionalidade. Procedência. Recurso denegado. Juros moratórios de 1% (um por cento) ao mês. Incidência a partir do trânsito em julgado da decisão condenatória. Aplicação do que rezam os artigos 161, § 1% e 167, parágrafo único, do Código Tributário Nacional. Matéria de ordem pública.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 97 e 149-A, ambos da Carta. Sustenta a constitucionalidade da Lei Complementar Municipal n° 07, de 20 de dezembro de 2004, que instituiu a Contribuição para o Custeio do Serviço de Iluminação Pública no Município de Santa Bárbara d’Oeste.
+    A pretensão recursal merece prosperar, tendo em vista que o acórdão recorrido está em desconformidade com a jurisprudência desta Corte. O Plenário do Supremo Tribunal Federal, no julgamento do RE 573.675-RG, Rel. Min. Ricardo Lewandowski, reconheceu a repercussão geral do tema em exame e assentou que a contribuição para custeio do serviço de iluminação pública constitui, dentro do gênero tributo, um novo tipo de contribuição que não se confunde com taxa ou imposto.
+    Nessas condições, concluiu pela constitucionalidade de sua cobrança. Confira-se a ementa da decisão:
+    ‘CONSTITUCIONAL. TRIBUTÁRIO. RE INTERPOSTO CONTRA DECISÃO PROFERIDA EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE ESTADUAL. CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA - COSIP. ART. 149-A DA CONSTITUIÇÃO FEDERAL. LEI COMPLEMENTAR 7/2002, DO MUNICÍPIO DE SÃO JOSÉ, SANTA CATARINA. COBRANÇA REALIZADA NA FATURA DE ENERGIA ELÉTRICA. UNIVERSO DE CONTRIBUINTES QUE NÃO COINCIDE COM O DE BENEFICIÁRIOS DO SERVIÇO. BASE DE CÁLCULO QUE LEVA EM CONSIDERAÇÃO O CUSTO DA ILUMINAÇÃO PÚBLICA E O CONSUMO DE ENERGIA. PROGRESSIVIDADE DA ALÍQUOTA QUE EXPRESSA O RATEIO DAS DESPESAS INCORRIDAS PELO MUNICÍPIO. OFENSA AOS PRINCÍPIOS DA ISONOMIA E DA CAPACIDADE CONTRIBUTIVA. INOCORRÊNCIA. EXAÇÃO QUE RESPEITA OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO EXTRAORDINÁRIO IMPROVIDO.
+    I - Lei que restringe os contribuintes da COSIP aos consumidores de energia elétrica do município não ofende o princípio da isonomia, ante a impossibilidade de se identificar e tributar todos os beneficiários do serviço de iluminação pública.
+    II - A progressividade da alíquota, que resulta do rateio do custo da iluminação pública entre os consumidores de energia elétrica, não afronta o princípio da capacidade contributiva.
+    III - Tributo de caráter sui generis, que não se confunde com um imposto, porque sua receita se destina a finalidade específica, nem com uma taxa, por não exigir a contraprestação individualizada de um serviço ao contribuinte.
+    IV - Exação que, ademais, se amolda aos princípios da razoabilidade e da proporcionalidade.
+    V - Recurso extraordinário conhecido e improvido’.
+    Diante do exposto, com base no art. 21, §2º, do RI/STF, dou provimento ao recurso. Invertidos os ônus sucumbenciais. Fixo os honorários em 10% do valor da condenação.”
+    A parte embargante sustenta haver omissão na decisão embargada ao fundamento de que é beneficiária da justiça gratuita, razão pela por que a execução dos honorários e custas deveria ficar suspensa, enquanto persistir o estado de pobreza, conforme se depreende do art. 98, § 3º, do Código de Processo Civil.
+    Com razão a embargante. Reconsidero a decisão anterior para suprir a omissão apontada, mantidos os demais fundamentos.
+    Em decisão de fls. 14 do volume 01 do processo eletrônico, verifica-se que foi deferido o pedido de gratuidade de justiça ao ora embargante.
+    Diante do exposto, reconsidero a decisão embargada tão somente para suspender a exigibilidade dos ônus de sucumbência, nos termos do Código de Processo Civil, mantidos os demais fundamentos. Julgo prejudicados os embargos declaratórios.
+    Publique-se.
+          Brasília, 12 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
