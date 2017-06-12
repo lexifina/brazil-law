@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. LEVANTAMENTO DOS VALORES INCONTROVERSOS, ANTES DO TRÂNSITO EM JULGADO DOS EMBARGOS À EXECUÇÃO. DEDUÇÃO E RETENÇÃO DOS HONORÁRIOS ADVOCATÍCIOS IMPOSTOS AO EXEQUENTE PELA SUCUMBÊNCIA NOS EMBARGOS.
+     - É cabível a dedução e retenção do valor relativo aos honorários fixados na sentença dos embargos à execução em favor do embargante/executado, do montante do débito incontroverso depositado pelo executado, a ser levantado pelo exequente. Contudo, a dedução e retenção têm por limite máximo o valor dos honorários fixado na sentença, não se devendo considerar para tanto aquele valor superior, pretendido pelo executado/embargante na apelação por ele interposta.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, XXXVI; e 40, § 8º, da Constituição. Sustenta que “O v. acórdão regional violou a legislação federal, pelo que merece ampla reforma. Vejamos quais os fundamentos adotados: que a ação rescisória não é sucedâneo recursal; e que não há violação à legislação porque a incorporação dos quintos está fundamentada em vasta jurisprudência favorável. A tese adotada pelo acórdão apenas seria viável se forçada pelo efeito da repristinação, que, sabemos, é figura excepcional ao nosso ordenamento jurídico (art. 2º, §3º, da LICC), e o STF acaba de roborar a tese da Fazenda Pública – exaustivamente sustentada ao longo dos anos -, de que inexiste repristinação de lei sem expressa determinação nesse sentido”.
+    A decisão agravada negou seguimento ao recurso por entender que eventual ofensa à Constituição seria reflexa ou indireta.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral Paulo Gustavo Gonet Branco, opinou pelo desprovimento do recurso.
+    Correto o parecer ministerial. Nota-se que o Tribunal de origem decidiu sobre a liberação de valores incontroversos na fase de execução antes do trânsito dos embargos, com a possibilidade de haver a compensação com os honorários advocatícios devidos. Por sua vez, a parte recorrente dedicou a petição de recurso extraordinário a afirmar a inconstitucionalidade de incorporação de quintos e a adequação do julgado ao precedente firmado em repercussão geral por esta Corte ( RE 638.115 -RG, Rel. Min. Gilmar Mendes).
+    Nesse caso, as razões apresentadas no recurso extraordinário estão dissociadas dos fundamentos do acórdão que impugnou. A hipótese atrai a incidência da Súmula 284/STF:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 12 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
