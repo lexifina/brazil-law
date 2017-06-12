@@ -1,0 +1,21 @@
+DECISÃO: O Departamento Nacional de Infraestrutura de Transportes – DNIT, ao deduzir o presente recurso extraordinário, sustentou que o acórdão proferido pelo E. Tribunal Regional Federal da 5ª Região teria transgredido o preceito inscrito no art. 97 da Constituição da República e o enunciado constante da Súmula Vinculante nº 10.
+    O exame da presente causa evidencia que o apelo extremo em questão não se revela viável.
+    É que a análise do acórdão recorrido evidencia que, na espécie, não houve qualquer declaração de inconstitucionalidade de diploma legislativo ou de ato normativo a ele equivalente, em clara demonstração de que se revela impertinente a fundamentação com que a parte ora recorrente pretendeu justificar a interposição do recurso extraordinário.
+    No caso em análise, como já enfatizado, não houve qualquer declaração de inconstitucionalidade, tanto que o acórdão impugnado em sede recursal extraordinária resultou de julgamento efetuado por órgão fracionário do E. Tribunal Regional Federal da 5ª Região, considerada, na espécie, a inaplicabilidade da cláusula inscrita no art. 97 da Constituição da República, cuja prescrição – ressalte-se – somente incidirá na hipótese de a decisão do Tribunal importar em proclamação da invalidade constitucional de determinado ato estatal (RTJ 95/859 – RTJ 96/1188 – RT 508/217 – RF 193/131):
+    “Nenhum órgão fraccionário de qualquer Tribunal dispõe de competência, no sistema jurídico brasileiro, para declarar a inconstitucionalidade de leis ou atos emanados do Poder Público. Essa magna prerrogativa jurisdicional foi atribuída, em grau de absoluta exclusividade, ao Plenário dos Tribunais ou, onde houver, ao respectivo Órgão Especial. Essa extraordinária competência dos Tribunais é regida pelo princípio da reserva de Plenário, inscrito no artigo 97 da Constituição da República.
+    Suscitada a questão prejudicial de constitucionalidade perante órgão fraccionário de Tribunal (Câmaras, Grupos, Turmas ou Seções), a este competirá, em acolhendo a alegação, submeter a controvérsia jurídica ao Tribunal Pleno.”
+    (RTJ 150/223-224, Rel. Min. CELSO DE MELLO)
+    Vê-se, portanto, no tocante à suposta transgressão ao art. 97 da Constituição, que não se revela viável o recurso extraordinário interposto pela parte ora recorrente, em face da própria ausência de declaração de inconstitucionalidade, efetivamente inexistente na espécie ora em exame.
+    Cabe ressaltar, por necessário, que esse entendimento tem prevalecido na jurisprudência do Supremo Tribunal Federal, cujas decisões, na matéria, acentuam a inviabilidade processual do recurso extraordinário, quando, interposto com fundamento em alegada violação ao art. 97 da Carta Política, impugna, como no caso, decisão que não declarou a inconstitucionalidade do diploma normativo questionado (AI 654.893-ED/SP, Rel. Min. RICARDO LEWANDOWSKI – AI 684.976-AgR/MG, Rel. Min. CÁRMEN LÚCIA – AI 733.334-AgR/RJ, Rel. Min. CÁRMEN LÚCIA – AI 736.977-AgR/CE, Rel. Min. ELLEN GRACIE – AI 769.804-AgR/DF, Rel. Min. CÁRMEN LÚCIA – AI 791.673- -AgR/SC, Rel. Min. RICARDO LEWANDOWSKI – RE 527.814-AgR/PR, Rel. Min. EROS GRAU, v.g.):
+    “EMBARGOS DE DECLARAÇÃO. ALEGADA CONTRADIÇÃO DO ACÓRDÃO EMBARGADO QUE AFASTOU A OFENSA AO ART. 97 DA CF.
+    Balda que não se verificou, explicitado que se acha, no aresto embargado, que o Tribunal a quo afastou a aplicação, na hipótese, de norma infraconstitucional, sem, contudo, declará-la inconstitucional.
+    Embargos rejeitados.”
+    (AI 230.990-AgR-AgR-ED/DF, Rel. Min. ILMAR GALVÃO)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E CONSTITUCIONAL. INEXISTÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO TRIBUNAL ‘A QUO’. AUSÊNCIA DE CONTRARIEDADE AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (AI 799.809-AgR/PE, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 12 de junho de 2017.
+Ministro CELSO DE MELLO
+Relator
