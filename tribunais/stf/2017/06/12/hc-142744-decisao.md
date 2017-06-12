@@ -1,0 +1,35 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Fernando da Silva Cardoso em favor de Roger dos Santos, contra acórdão do Superior Tribunal de Justiça, que denegou o HC 383.353/RS.
+    O paciente foi preso em flagrante delito e, posteriormente, denunciado pelos crimes de receptação e de resistência, tipificados nos arts. 180 e 329 do Código Penal. O Juízo da Vara Criminal da Comarca de Gravataí/RS decretou a prisão preventiva e, ato contínuo, indeferiu o pedido de revogação da custódia cautelar.
+    Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça de São Paulo, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que denegou o HC 383.353/RS.
+    No presente writ, o Impetrante defende a ocorrência de ilegalidades no auto de prisão em flagrante, por falta de defensor, e no decreto preventivo, por falta de homologação prévia do flagrante delito. Sustenta ausência dos requisitos autorizadores da custódia cautelar. Assevera a existência de circunstâncias favoráveis ao paciente, como primariedade e bons antecedentes. Requer, em medida liminar e no mérito, a revogação da custódia cautelar e, sucessivamente, a aplicação de medidas cautelares diversas da prisão (art. 319 do CPP).
+    Em 20.4.2017, indeferi o pedido liminar.
+    O Ministério Público Federal, em parecer da Subprocuradora-Geral de República Cláudia Sampaio Marques, opina pelo não conhecimento do writ.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “PENAL. HABEAS CORPUS. SUPOSTA PRÁTICA DOS DELITOS PREVISTOS NOS ARTS. 15 DA LEI N. 10.826/2003 E 180 DO CP. FLAGRANTE CONVERTIDO EM PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ALEGAÇÃO DE ILEGALIDADE NO FLAGRANTE. CONVERSÃO DO FLAGRANTE PARA PREVENTIVA. PERDA DE OBJETO.
+    1. O Julgador amparou-se em fatos concretos, de que há condenação recente por homicídio, e no fato de que a conduta do paciente é identificada com a atividade ilícita, de difícil contenção em caso de simples cumprimento de medidas cautelares, mostrando-se, assim, idôneos os fundamentos trazidos na decisão.
+    2. A alegação de nulidade da prisão em flagrante fica superada com a ocorrência da decretação da prisão preventiva.
+    3. Ordem de habeas corpus denegada”.
+    Contra o ato apontado como coator, prevê a Constituição da República remédio jurídico expresso, o recurso ordinário (art. 102, II, a). Diante da dicção constitucional não cabe a utilização de novo habeas corpus, em caráter substitutivo (HC 109.956/PR, Rel. Min. Marco Aurélio, 1ª Turma, DJe 11.9.2012 e HC 104.045/RJ, de minha relatoria, DJe 06.9.2012).
+    Ademais, não detecto constrangimento ilegal ou teratologia hábil à concessão da ordem de ofício.
+    O paciente foi preso em flagrante pela suposta prática dos crimes de receptação e de resistência, tipificados nos arts. 180 e 329 do Código Penal. Ato contínuo, o magistrado de primeiro grau decretou a prisão preventiva e indeferiu pedido defensivo de revogação da custódia cautelar.
+    Os argumentos defensivos relativos à ilegalidade da prisão em flagrante não repercutem, no caso concreto, na validade da prisão preventiva posteriormente decretada. Inclusive, esta Suprema Corte já asseverou que “As alegadas nulidades referentes à prisão em flagrante do paciente e ao pretenso excesso de prazo para o oferecimento da denúncia são questões superadas pela substituição do título prisional e pelo recebimento da denúncia” (HC 120.601/MG, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 20.02.2014).
+    A prisão preventiva do paciente, decretada pelo magistrado de primeiro grau, está fundamentada na garantia da ordem pública. Confira-se:
+    “(...)
+    É que a apreensão do veículo roubado em poder de Reger, as declarações dos policiais militares no sentido de que ele foi capturado após perseguição e troca ele disparos ele arma de fogo, bem como a consulta de veículo juntada ao processo provam a existência de, no mínimo, uma receptação.
+    Há indícios, inclusive de que o preso seja o próprio autor do roubo do veículo, porque realizado um reconhecimento prévio pela vítima por meio de fotografia a ela enviada pelo aplicativo Whatsapp, conforme relato da testemunha Rodrigo Peres Marques.
+    Ademais, ele registra condenação recente, de 23.05.2016, por outros crimes, inclusive homicídio, o que aponta para uma conduta identificada com a atividade ilícita, de difícil contenção em caso de simples cumprimento de medidas cautelares que não imponham restrição de sua liberdade.
+    Assim, presentes os requisitos dos artigos 311 a 313, inciso I, todos do Código de Processo Penal, a fim de resguardar a ordem pública, DECRETO A PRISÃO PREVENTIVA de Roger dos Santos.”
+    A Corte Estadual ratificou a prisão cautelar ao fundamento de que o “Paciente reincidente, com condenação pela prática de delito de tentativa de homicídio, …, é flagrado na posse de um veículo roubado, tendo efetuado disparos de arma de fogo contra policiais durante fuga”.
+    Por seu turno, o Superior Tribunal de Justiça asseverou que “o Julgador amparou-se em fatos concretos, de que há condenação recente por homicídio, e no fato de que a conduta do paciente é identificada com a atividade ilícita, de difícil contenção em caso de simples cumprimento de medidas cautelares, mostrando-se, assim, idôneos os fundamentos trazidos na decisão”.
+    Sem dúvida a custódia cautelar, enquanto medida excepcional, exige demonstração inequívoca de sua necessidade, em observância ao princípio constitucional da presunção de inocência ou da não culpabilidade, sob pena de representar mera antecipação da reprimenda a ser cumprida quando da condenação (HC 105.556/SP, Rel. Min. Celso de Mello, 2ª Turma, DJe de 30.8.2013).
+    Dessa forma, o decreto de prisão cautelar há de se apoiar nas circunstâncias fáticas do caso concreto, evidenciando que a soltura colocará em risco a ordem pública, a ordem econômica, a instrução criminal ou a aplicação da lei penal, à luz do art. 312 do CPP, e desde que igualmente presentes prova da materialidade da delito e indícios suficientes da autoria.
+    Se as circunstâncias concretas da prática dos delitos indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP (v.g. HC 105.585/SP, HC 112.763/MG e HC 112.364 AgR/DF, precedentes da minha lavra). Dentre eles, destaco o seguinte:
+    "Este Supremo Tribunal assentou que a periculosidade do agente evidenciada pelo modus operandi e o risco concreto de reiteração criminosa são motivos idôneos para a manutenção da custódia cautelar.” (HC 110.313/MS, Rel. Min. Carmen Lúcia, 1ª Turma, Dje 13.02.2012).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de junho de 2017.
+Ministra Rosa Weber
+Relatora
