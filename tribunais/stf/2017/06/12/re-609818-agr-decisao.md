@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo interno interposto em 31.01.2017, cujo objeto é decisão que negou seguimento ao recurso, sob o fundamento de que “a jurisprudência do Supremo Tribunal Federal afirma positivamente acerca do respeito às regras e princípios constitucionais que estabelecem a simetria entre os diversos órgãos do Ministério Público, e os respectivos órgãos jurisdicionais perante os quais atuam. Desse modo, é certo que o Ministério Público Federal detém legitimidade para atuar junto à Justiça Federal e os Ministérios Públicos estaduais, junto às respectivas justiças estaduais, ressalvada a peculiar situação da justiça eleitoral”.
+    A parte agravante sustenta que “se reconhece a legitimidade ativa do Ministério Público Estadual para a propositura de ações civis públicas perante a Justiça Federal nas hipóteses em que há litisconsórcio facultativo em virtude da comunhão entre interesses federais e estaduais presentes nas ações que envolvem os danos causados ao meio ambiente, consumidor e patrimônio público e histórico, com base nas previsões dos artigos 113 do Código do Consumidor e artigo 5 ,§ 5º da Lei 7347/85”.
+    Há decisões desta Corte, conforme assentado na decisão agravada, no sentido de que eventual infração cometida contra bem que pertence ao acervo da União atrai a competência da Justiça Federal para o feito e, consequentemente, a legitimidade processual do Ministério Público Federal.
+    Ocorre que, na hipótese dos autos, em que o bem tutelado tratar-se do meio ambiente, esse entendimento não pode ser absoluto, uma vez que sobre o meio ambiente paira o interesse de toda a coletividade.
+    Veja-se, inclusive, a jurisprudência do Supremo Tribunal Federal que já firmou entendimento no sentido de que a competência para a defesa do meio ambiente é concorrente à União, aos Estados e ao Distrito Federal (ARE 1.034.006, Rel. Min. Ricardo Lewandowski; AI 147.111-AgR, Rel. Min. Carlos Velloso; e RE 585.932-AgR, Rel. Min. Gilmar Mendes).
+    Deve-se considerar que, ao lado do interesse da União em proteger um bem de sua propriedade, existe um interesse maior de proteger o meio ambiente, que é bem de toda a coletividade.
+    Nessa linha, diante da inércia do Ministério Público Federal e da imprescindibilidade de o bem ser protegido, não deve ser imposta barreira para a proposição de ação civil por parte do Ministério Público Estadual.
+    Diante do exposto, reconsidero a decisão agravada, para, com base no art. 21, § 2º, do RI/STF, dar provimento ao recurso extraordinário, a fim de reconhecer a legitimidade do Ministério Público do Estado do Rio de Janeiro para propor a ação civil pública em questão.
+    Publique-se.
+          Brasília, 12 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
