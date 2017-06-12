@@ -1,0 +1,39 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da 2ª Câmara Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA – REVELIA – NATUREZA RELATIVA - BEM DE FAMÍLIA – MATÉRIA OBJETO DE EXAME EM OUTRO FEITO – IMPEDIMENTO AO DIREITO INVOCADO – DIREITO A MEAÇÃO – RECONHECIMENTO – FALTA DE INTERESSE – SENTENÇA MANTIDA – RECURSO NÃO PROVIDO.
+    A natureza relativa da revelia impede o reconhecimento da pretensão da parte autora, se as provas trazidas evidenciam que a questão do bem de família já foi objeto de exame em outro feito e foi rejeitada.
+    Garantido à suplicante o direito a meação do imóvel discutido, falta-lhe interesse neste pedido da súplica.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso XXXV, 6º e 226, § 4º, da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação.
+    No que se refere aos artigos 5º, inciso XXXV, e 6º da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, colhe-se do voto condutor do acórdão recorrido a seguinte fundamentação:
+    “No presente caso, em consulta ao sistema de automação judiciária desta Corte, observo que a questão da desconstituição da penhora já foi objeto dos embargos de terceiro ajuizado pela recorrente, fato este, inclusive, reconhecido pela magistrada de primeiro grau, condutora da execução de sentença em procedimento ordinário de n. 0009038-63.1999.8.12.0001/01, o que, por certo, impossibilita nova discussão e apreciação sobre o tema, sob pena de ofensa à coisa julgada.
+    Logo, apesar da parte recorrida não apresentar sua contestação, essa situação não garante à suplicante o acolhimento de sua pretensão, indistintamente dos fatos, provas e direitos existentes.
+    Outrossim, corretamente a Juíza singular reconheceu falta interesse à apelante quanto ao seu pedido de reconhecimento do direito à sua meação do imóvel discutido, uma vez que tal requerimento já restou atendido nos autos da execução.”
+    Nesse caso, para que se pudesse decidir de forma diversa do Tribunal de origem, seria imprescindível a verificação dos limites objetivos da coisa julgada, ao que não se presta o recurso extraordinário, pois demandaria o reexame da legislação infraconstitucional. Sobre o tema, anote-se a seguinte passagem do voto do Ministro Celso de Mello, Relator, proferido no julgamento do AI nº 452.174/RJ-AgR:
+    “Cabe não desconhecer, de outro lado, com relação à suposta ofensa ao postulado da coisa julgada, a diretriz jurisprudencial prevalecente no Supremo Tribunal Federal, cuja orientação, no tema, tem enfatizado que a indagação pertinente aos limites objetivos da “res judicata” traduz controvérsia “que não se alça ao plano constitucional do desrespeito ao princípio de observância da coisa julgada, mas se restringe ao plano infraconstitucional, configurando-se, no máximo, ofensa reflexa à Constituição, o que não dá margem ao cabimento do recurso extraordinário” (RE 233.929/MG, Rel. Min. MOREIRA ALVES - grifei).
+    Daí recente decisão desta Suprema Corte, que, em julgamento sobre a questão ora em análise, reiterou esse mesmo entendimento jurisprudencial:
+    ‘RECURSO EXTRAORDINÁRIO - POSTULADO CONSTITUCIONAL DA COISA JULGADA - ALEGAÇÃO DE OFENSA DIRETA - INOCORRÊNCIA - LIMITES OBJETIVOS - TEMA DE DIREITO PROCESSUAL - MATÉRIA INFRACONSTITUCIONAL - VIOLAÇÃO OBLÍQUA À CONSTITUIÇÃO - RECURSO DE AGRAVO IMPROVIDO.
+    - Se a discussão em torno da integridade da coisa julgada reclamar análise prévia e necessária dos requisitos legais, que, em nosso sistema jurídico, conformam o fenômeno processual da res judicata, revelar-se-á incabível o recurso extraordinário, eis que, em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição - por supor o exame, in concreto, dos limites subjetivos (CPC, art. 472) e/ou objetivos (CPC, arts. 468, 469, 470 e 474) da coisa julgada - traduzirá matéria revestida de caráter infraconstitucional, podendo configurar, quando muito, situação de conflito indireto com o texto da Carta Política, circunstância essa que torna inviável o acesso à via recursal extraordinária. Precedentes.’
+    (RTJ 182/746, Rel. Min. CELSO DE MELLO)
+    Mostra-se relevante acentuar que essa orientação tem sido observada em sucessivas decisões proferidas no âmbito desta Suprema Corte (AI 268.312-AgR/MG, Rel. Min. MAURÍCIO CORRÊA - AI 330.077-AgR/RS, Rel. Min. CELSO DE MELLO - AI 338.927-AgR/RS, Rel. Min. ELLEN GRACIE - AI 360.269-AgR/SP, Rel. Min. NELSON JOBIM).
+    Sendo esse o contexto em que proferida a decisão em causa, não vejo como dele inferir o pretendido reconhecimento de ofensa direta ao que dispõe o art. 5º, XXXVI, da Carta Política, pois - insista-se - a discussão em torno da definição dos limites subjetivos ou objetivos pertinentes à coisa julgada qualifica-se como controvérsia impregnada de natureza eminentemente infraconstitucional, podendo configurar, ‘no máximo, ofensa reflexa à Constituição, o que não dá margem a recurso extraordinário’ (RTJ 158/327, Rel. Min. MOREIRA ALVES - grifei)” (DJ de 17/10/03).
+    No mesmo sentido, destaco os seguintes precedentes:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. DECISÃO BASEADA NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. LIMITES DA COISA JULGADA. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 desta Corte.
+    II - esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária.
+    III - Agravo regimental improvido” (AI nº 601.325/PR-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 17/8/07).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA REFLEXA. REPETIÇÃO DE INDÉBITO. JUROS MORATÓRIOS. TERMO INICIAL. TRÂNSITO EM JULGADO.
+    1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+    2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição.
+    3. O termo inicial da fluência dos juros moratórios, na repetição do indébito, dá-se na data do trânsito em julgado da decisão [art. 167, parágrafo único, do CTN]. Precedentes.
+    4. Agravo regimental a que se nega provimento” (AI nº 658.206/RS-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 28/9/07).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 12 de junho de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
