@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão assim ementado:
+    “EMENTA: CONFLITO NEGATIVO DE JURISDIÇÃO – INFRAÇÃO DE PEQUENO POTENCIAL OFENSIVO – INEXISTÊNCIA DA APON TADA COMPLEXIDADE DO FEITO – DESNECESSIDADE DE PERÍCIA – COMPETÊNCIA DO JUIZADO ESPECIAL CRIMINAL – DOU PELA COMPETENCIA DO JUÍZO SUSCITADO.” (pág. 235 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição de 1988, aponta-se violação ao art. 98, I, da mesma Carta, sob o o argumento de que o Juizado Especial Criminal é incompetente para julgar a demanda, por se tratar de causa com necessidade de complexa dilação probatória.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido decidiu as questões postas nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código de Processo Penal e Lei 9.099/95). Dessa forma, o exame das alegadas ofensas ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o extraordinário. Por oportuno, transcrevo a seguinte ementa:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO QUE NÃO ATACA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. JUSTIÇA COMPETENTE PARA O JULGAMENTO DO PROCESSO. NECESSIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. CONTROVÉRSIA DECIDIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. A petição de agravo regimental não impugnou todos os fundamentos da decisão agravada. Nesses casos, é inadmissível o agravo, conforme a orientação do Supremo Tribunal Federal. Precedentes. De qualquer forma, a discussão acerca da justiça competente para o julgamento do processo, no caso concreto, passa necessariamente pela análise da legislação infraconstitucional pertinente e por uma nova apreciação dos fatos e do material probatório constantes dos autos (Súmula 279/STF). Agravo regimental a que se nega provimento”. (AI 816.586-AgR/RJ, Rel. Min. Roberto Barroso).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 12 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
