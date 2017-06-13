@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Embargos à execução fiscal. Aplicação de multa prevista em lei municipal por não constar o endereço da instituição bancária no controle de senha. Competência municipal para legislar sobre a matéria. Identificação da agência, porém, por meio do número respectivo, o que é suficiente para a consecução do escopo legal, que foi atendido. Sentença de procedência no particular mantida. Reexame necessário que, porém, impõe a redução da verba honorária arbitrada em desfavor da Fazenda Pública, por isso que não atenciosa às diretrizes legais. Recurso não provido e redução dos honorários advocatícios em reexame necessário.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 97 da Constituição.
+    O recurso extraordinário é inadmissível. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não se deve confundir interpretação de normas legais com a declaração de inconstitucionalidade dependente da observância da cláusula de reserva de plenário. Nessa linha, veja-se o ARE 723.052, julgado sob a relatoria do Ministro Marco Aurélio, assim ementado:
+    “RECURSO EXTRAORDINÁRIO reserva DE PLENÁRIO. Descabe confundir reserva de Plenário artigo 97 da Constituição Federal com interpretação de normas legais. RECURSO EXTRAORDINÁRIO MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé”.
+    No caso, o Tribunal de origem apenas realizou interpretação sistemática com o intuito de alcançar o verdadeiro sentido da norma, sem que houvesse declaração de sua incompatibilidade com a Constituição Federal. Assim, não há que falar em ofensa ao art. 97 da Constituição ou à Súmula Vinculante nº 10.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 13 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
