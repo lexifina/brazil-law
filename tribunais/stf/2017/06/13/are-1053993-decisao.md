@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sexta Turma do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. PRESCRIÇÃO - RESPONSABILIDADE CIVIL DO EMPREGADOR. DOENÇA OCUPACIONAL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. NÃO PROVIMENTO. Nega-se provimento a agravo de instrumento pelo qual a parte agravante não consegue infirmar os fundamentos do despacho denegatório do recurso de revista. Agravo de instrumento a que se nega provimento.”
+    No recurso extraordinário, sustenta-se violação dos artigos 7º, inciso IV, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere ao artigo 7º, inciso IV, da Constituição Federal, e à Súmula Vinculante nº 4, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Também não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ademais, ressalte-se que as instâncias de origem decidiram a lide amparadas em legislação infraconstitucional e no conjunto fático-probatório constante dos autos, cujo o reexame é incabível no âmbito do recurso extraordinário. Incidência da Súmula nº 279 desta Suprema Corte.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) de seu total, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do citado artigo e a eventual concessão do benefício da gratuidade da justiça.
+    Publique-se.
+    Brasília, 13 de junho de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
