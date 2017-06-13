@@ -1,0 +1,24 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão da Segunda Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “EMBARGOS À EXECUÇÃO FISCAL. PARCELAMENTO. AUSÊNCIA DE REGISTRO DE FATURAMENTO. MANUTENÇÃO DE PAGAMENTOS MENSAIS. IMPOSSIBILIDADE DE CONTAGEM DO PRAZO DE PRESCRIÇÃO NA FORMA DA SÚMULA Nº 248 DO TFR. MULTA CONFISCATÓRIA. INOCORRÊNCIA.
+    1. O contribuinte que, a despeito da presença de circunstâncias factuais independentes da sua vontade, mas que possibilitem a rescisão motivada do parcelamento, mantém em dia o pagamento das parcelas, não descumpriu o acordo, razão pela qual não é cabível a contagem do prazo de prescrição na forma da Súmula nº 248 do TFR.
+    2. A finalidade punitiva e dissuasória da multa justifica a sua fixação em percentuais elevados sem que com isso ela assuma natureza confiscatória.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV e LIV; 93, IX; 146, III, d; e 150, IV, todos da Carta. Sustenta que: (i) o acórdão recorrido não se pronunciou sobre ponto juridicamente relevante; já ocorreu a prescrição do crédito tributário exigido pela Fazenda Nacional; (iii) a multa punitiva, aplicada no percentual de 75%, tem caráter confiscatório.
+    Quanto à suposta ofensa aos princípios da inafastabilidade da jurisdição e devido processo legal, a irresignação não merece acolhida. Esta Corte entende que é inviável a apreciação, em recurso extraordinário, de alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e da inafastabilidade da jurisdição, uma vez que, se violação houvesse, seria meramente indireta ou reflexa. Nesse sentido, confira:
+    “DIREITO PROCESSUAL CIVIL. LEVANTAMENTO DE DEPÓSITOS EM JUÍZO. REQUISITOS. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. INAFASTABILIDADE DA JURISDIÇÃO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. RECURSO MANEJADO EM 16.02.2016.
+    1. Inexiste violação do art. 93, IX, da Lei Maior. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo constitucional exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento, dispensando o exame detalhado de cada argumento suscitado pelas partes.
+    2. O exame da alegada ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal, observada a estreita moldura com que devolvida a matéria à apreciação desta Suprema Corte, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária prevista no art. 102 da Magna Carta.
+    3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+    4. Agravo regimental conhecido e não provido”. (ARE 939.004-AgR, Rel.ª Min.ª Rosa Weber)
+    Quanto à alegada prescrição do crédito tributário, a articulação formulada não encontra fundamento. Esta Corte entende que a controvérsia sobre ocorrência da prescrição é de índole infraconstitucional. Confira-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA COLETIVA. PRESCRIÇÃO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO”. (AI 858.171-AgR, Rel. Min. Luiz Fux)
+    Quanto ao valor máximo das multas punitivas, esta Corte tem entendido que são confiscatórias aquelas que ultrapassam o percentual de 100% (cem por cento) do valor do tributo devido. Nesse sentido, confira-se o seguintes julgado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. LANÇAMENTO POR HOMOLOGAÇÃO. NECESSIDADE DE NOTIFICAÇÃO. CARÁTER CONFISCATÓRIO DA MULTA FISCAL.
+    Em se tratando de débito declarado pelo próprio contribuinte, não se faz necessária sua homologação formal, motivo por que o crédito tributário se torna imediatamente exigível, independentemente de qualquer procedimento administrativo ou de notificação do sujeito.
+    O valor da obrigação principal deve funcionar como limitador da norma sancionatória, de modo que a abusividade se revela nas multas arbitradas acima do montante de 100%.
+    Agravo regimental a que se nega provimento.” (AI 838.302-AgR, de minha relatoria)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 13 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
