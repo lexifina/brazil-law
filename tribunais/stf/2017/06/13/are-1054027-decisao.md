@@ -1,0 +1,13 @@
+Decisão:
+    Trata-se de agravo interposto em face de decisão que negou seguimento a recurso extraordinário interposto em face de acórdão assim ementado:
+    “AGRAVO INTERNO - Decisão monocrática - Entendimento do art. 557, caput, segunda parte e § 1º - A, do CPC – Possibilidade, independentemente de outros pressupostos - Recurso não provido. Cabível ao relator negar provimento, de forma monocrática, a recurso que se apresentar em confronto com jurisprudência dominante do mesmo Tribunal ou de Tribunal Superior, ante o disposto no art. 557, caput, segunda parte do Cód. Proc. Civil, independentemente de ser manifestamente inadmissível, improcedente ou prejudicado, pressupostos distintos, contidos na primeira parte do artigo de lei (art. 557, caput, segunda parte, do CPC)”
+    A recorrente sustenta violação aos arts. 1º; 5º, XXXV; 37;93, IX; 155, § 2º, I e XII, todos da Constituição. Sustenta (i) presunção de legitimidade e legalidade do auto de infração e da multa imposta; (ii) que ao questionar o auto de infração compete ao contribuinte ônus de provar que não cometeu a infração que lhe é imposta; (iii) "ausência de provas da existência da empresa ou do negócio ou que este não tenha sido meramente simulado"; (iv) infração fiscal que independe da vontade do agente.
+    A pretensão recursal não merece prosperar. O Tribunal de origem, com apoio no acervo probatório dos autos e com fundamento na interpretação da legislação infraconstitucional aplicável à espécie, concluiu pela regularidade da situação fiscal da recorrida. Nos termos do voto condutor do acórdão do Tribunal de origem:
+    “Não se vislumbra qualquer indicio de má-fé da compradora, ademais, as operações realizadas, no aspecto jurídico e fiscal, fora regulares, com emissão da nota respectiva”.
+    Para firmar entendimento diverso do acórdão recorrido quanto aos pontos aduzidos pela recorrente, seria indispensável o reexame da legislação infraconstitucional e do acervo fático-probatório, o que é vedado em sede de recurso extraordinário. A hipótese atrai a incidência da Súmula 279/STF. Nesse sentido, confira-se o seguinte julgado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. CREDITAMENTO. IMPOSSIBILIDADE DA ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 654.997-AgR, Rel.ª Min.ª Cármen Lúcia)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 13 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
