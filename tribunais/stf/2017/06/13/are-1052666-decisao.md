@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime previsto no artigo 302 do Código de Trânsito Brasileiro. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 5º, inciso XLVI, e 93, inciso IX, da Constituição Federal. Diz contrariado o verbete nº 719 da Súmula do Supremo. Argui a nulidade do acórdão recorrido, por ausência de fundamentação, tendo como genérica a decisão.
+    2. Quanto à evocação do enquadramento do extraordinário na alínea "c" do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do agravante, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal.
+    Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, versando, detalhadamente, sobre as razões pelas quais manteve a condenação do acusado, deixando clara a existência de materialidade e autoria do delito, e a impossibilidade de compensação de culpas no direito penal, daí a inviabilidade do pedido de absolvição.
+    Colho do acórdão recorrido o seguintes fundamentos:
+    Interrogado em juízo, o réu apresentou versão exculpatória. Disse que o veículo das vítimas estava à sua frente, na pista da esquerda e, devido aos talos de cana-de-açúcar, freou repentinamente e mudou de faixa, ingressando na pista de rolamento em que trafegava (pista ~ da direita), o que provocou a colisão.
+    Sua versão, porém, não convence, pois a prova produzida nos autos não deixa qualquer dúvida sobre a responsabilidade penal atribuída ao réu na peça incoativa.
+    […]
+    Como se vê, a versão do réu não encontrou respaldo na provas. Ao contrário, ficou demonstrada a conduta imprudente do apelante, seja por dirigir veículo automotor com velocidade excessiva, seja por não observar a distância de segurança em relação ao veículo que seguia à sua frente, causas determinantes do acidente que acarretou a morte das vítimas. E, ainda que os talos de cana-de açúcar estivessem no local, como afirmado pelo réu, o que não guardou consonância com a conclusão do perito oficial, o réu não reduziu a velocidade do veículo ao visualizá-los, ocasionando a colisão.
+    Frise-se, por oportuno, que em Direito Penal não se admite a compensação de culpas. Assim, a eventual hipótese de que o veículo dirigido pelo recorrente poderia ter sido interceptado pelo veículo das vítimas, sob o argumento de existir dúvida acerca da higidez mental da vítima condutora do veículo Ford Pampa, como sustentado pela defesa, não tem o condão de suprimir ou mitigar a culpa do apelante.
+    Somente pela análise do quadro fático do processo seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 13 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
