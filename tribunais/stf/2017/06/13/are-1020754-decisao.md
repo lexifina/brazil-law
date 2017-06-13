@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. SERVIDOR PUBLICO. PROGRESSÃO HORIZONTAL DEFINIDA PELA LEI MUNICIPAL No 4.108/92 E REGULADA PELO DECRETO MUNICIPAL No 4.637/92. PRESCRIÇAO DE FUNDO DO DIREITO. RELAÇÃO DE TRATO SUCESSIVO. APLICAÇÃO DOS ENUNCIADOS DAS SUMULAS 443 DO STF E 85 DO STJ. PRESCRIÇÃO QUE ATINGE APENAS AS PARCELAS VENCIDAS NO QUINQUÊNIO ANTERIOR AO AJUIZAMENTO DA DEMANDA. PROGRESSÃO CONDICIONADA À AVALIAÇÃO DE DESEMPENHO. INÉRCIA DA ADMINISTRAÇÃO PÚBLICA. JURISPRUDÊNCIA CONSOLIDADA NESTA CORTE DE JUSTIÇA. ALTERAÇÕES EFETUADAS PELA LEI COMPLEMENTAR No 118/2010 QUE ASSEGUROU PROGRESSÕES DA LEI No 4.108/92 INDEPENDENTEMENTE DE AVALIAÇÃO DE DESEMPENHO. DECLARAÇÃO DE INCONSTITUCIONALIDADE INCIDENTAL DO ART. 15 DA LEI No 4.108/92 PELO TRIBUNAL PLENO. VINCULAÇÃO DE AUMENTO DE VENCIMENTOS ENTRE CARREIRAS DISTINTAS. AFRONTA AO ART. 37, XIII, DA CF/1988. JUROS DE MORA E CORREÇÃO MONETARIA. REFORMA PARCIAL DA SENTENÇA. DESPROVIMENTO DO RECURSO DE APELAÇÃO E PROVIMENTO PARCIAL DA REMESSA NECESSARIA.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, XXXVI, e 37, XIII, da Constituição.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Paulo Gustavo Gonet Branco, opinou pelo não provimento do agravo. Veja-se a ementa da manifestação ministerial:
+    “Recurso Extraordinário com agravo. Plano de Cargos e Salários. Fixação de vencimentos com razão de 5% entre cada nível. Alegada ofensa ao art. 37, XIII, da CF, que não se positiva. Arguida afronta ao art. 5º, XXXVI, da Carta da República não prequestionada. Parecer por que seja negado seguimento ao recurso.”
+    Correto o parecer ministerial. Com efeito, a jurisprudência desta Corte é pacífica no sentido de ser possível a vinculação remuneratória entre diferentes níveis da mesma carreira.
+    Ademais, para dissentir das conclusões do Tribunal de origem, seria necessária a análise das normas infraconstitucionais pertinentes, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 280/STF.
+    Nesse sentido, veja-se o seguinte precedente:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO HORIZONTAL. PLANO DE CARREIRA. LEI COMPLEMENTAR MUNICIPAL Nº 35/2002. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 07.3.2014.
+    1. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário.
+    2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional e na reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Precedentes.
+    3. Agravo regimental conhecido e não provido.” (ARE 898774-AgR, Rel.ª Min.ª Rosa Weber).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 13 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
