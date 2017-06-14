@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “PENSIONISTA E FERROVIÁRIO INATIVOS DA EXTINTA FEPASA – Pretensão voltada ao recebimento da sexta-parte sobre os proventos integrais – Improcedência do pedido pronunciada em primeiro grau – Decisório que não merece subsistir – Aplicação do art. 129 da Constituição Estadual que adota a expressão servidor público de modo genérico, abrangendo todo aquele que presta serviço a Administração, independente da forma de contratação – norma de eficácia imediata, prescindindo de regulamentação ou complementação em legislação infraconstitucional – Cálculo da sexta-parte que deve compreender o padrão e todas as demais vantagens pecuniárias efetivamente percebidas a cada mês, pouco importando se o servidor está ou não em atividade – Fórmula adotada que não representa, outrossim, a proscrita ‘incidência recíproca’ de acréscimos – Apelo provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 7, XXIX; 37, XIV; 39; 40; 173, § 1º; e 114, I, da Constituição.
+    O recurso não deve ser provido. O Tribunal de origem decidiu a controvérsia com base no art. 129 da Constituição do Estado de São Paulo. Dissentir do entendimento assentado no acórdão recorrido demandaria uma nova análise das referidas normas infraconstitucionais, providência vedada no âmbito do recurso extraordinário, nos termos da Súmula 280/STF.
+    O Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia acerca da incidência de vantagem pessoal sobre os vencimentos integrais de servidor público. Veja-se a ementa do RE 764.332-RG, julgado sob a relatoria do Ministro Presidente:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. QUINQUÊNIO. INCIDÊNCIA SOBRE OS VENCIMENTOS INTEGRAIS, INCLUINDO OS ADICIONAIS E AS GRATIFICAÇÕES REPUTADOS COMO DE NATUREZA PERMANENTE. INTERPRETAÇÃO DE LEGISLAÇÃO ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. ATRIBUIÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.”
+    Igualmente, esta Corte, ao julgar o ARE 651.153-RG , Rel. Min. Ayres Britto, assentou a ausência de repercussão geral de caso semelhante ao destes autos por ser restrita, justamente, à análise da legislação infraconstitucional. Veja-se a ementa do mencionado julgado:
+    “ADMINISTRATIVO. ADICIONAL DE SEXTA-PARTE. SERVIDOR PÚBLICO ESTADUAL ESTATUTÁRIO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    Nos termos da jurisprudência do Supremo Tribunal Federal, está circunscrito ao âmbito infraconstitucional o tema atinente à incidência do adicional de sexta-parte sobre a integralidade dos vencimentos dos servidores públicos estaduais estatutários.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta Suprema Corte, falta ao caso elemento de configuração da própria repercussão geral, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 14 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
