@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “TRIBUTÁRIO. SALÁRIO-EDUCAÇÃO. TRABALHADOR AVULSO. INEXIGIBILIDADE.
+    Não é devida a contribuição social do salário-educação sobre as remunerações pagas ou creditadas aos trabalhadores avulsos” (pág. 219 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 195 e 212, § 5º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 8.212/1991 e 9.424/1996). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo de origem. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, destaco julgados de ambas as Turmas desta Corte cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO AO SALÁRIO-EDUCAÇÃO. LEI Nº 9.424/1996. TRABALHADORES AVULSOS PORTUÁRIOS. CONTROVÉRSIA QUE NÃO ENCONTRA RESSONÂNCIA CONSTITUCIONAL. PRECEDENTES.
+    A constitucionalidade da contribuição vertida ao salário-educação foi reconhecida por ambas as Turmas desta Corte. Verifica-se, entretanto, que a possibilidade de a exação incidir sobre os valores pagos aos trabalhadores portuários avulsos demanda o reexame da legislação infraconstitucional correlata (Leis nºs 8.212/1991 e 9.424/1996).
+    Agravo regimental a que se nega provimento” (ARE 817.564-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. SALÁRIO-EDUCAÇÃO. INCIDÊNCIA SOBRE VALORES PAGOS A TRABALHADORES PORTUÁRIOS AVULSOS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - O acórdão recorrido decidiu a questão referente à possibilidade de incidência do salário-educação sobre os valores pagos aos trabalhadores portuários avulsos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 8.212/1991 e 9.424/1996). A afronta à Constituição, se ocorrente, seria apenas indireta. Incabível, portanto, o recurso extraordinário. Precedentes.
+    II – Agravo regimental a que se nega provimento” (RE 793.032-AgR/RS, de minha relatoria, Segunda Turma).
+    Com essa mesma orientação, cito, ainda, as seguintes decisões, entre outras: ARE 855.784-AgR/PR, Rel. Min. Rosa Weber; RE 645.057-AgR-ED/DF e RE 1.038.041/SC, Rel. Min. Luiz Fux; RE 714.428-AgR/RS e RE 1.012.907/RS, Rel. Min. Roberto Barroso.
+    Por fim, com o não conhecimento do agravo em recurso especial pelo Superior Tribunal de Justiça (AREsp 1.071.177/RS, com trânsito em julgado certificado em 6/6/2017 – págs. 417-418 e 423 do documento eletrônico 1), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão impugnado, o que atrai a incidência da Súmula 283/STF. Nesse sentido, cito os seguintes precedentes, entre outros: RE 587.089-AgR/MS, Rel. Min. Roberto Barroso; AI 785.229/PR e RE 827.447-AgR/RS, Rel. Min. Cármen Lúcia; RE 588.235-AgR/SP, Rel. Min. Celso de Mello; AI 681.482-AgR/MG, Rel. Min. Joaquim Barbosa; AI 775.488-AgR/RJ, Rel. Min. Dias Toffoli; ARE 816.971-AgR/RS, AI 627.964-AgR/RS e RE 594.910/MT, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites do art. 85, § 2º e § 3º, do CPC.
+    Publique-se.
+    Brasília, 14 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
