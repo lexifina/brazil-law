@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça (RHC 77.477/RS, Rel. Min. RIBEIRO DANTAS), assim ementado:
+    (…) 1. Após o julgamento do Habeas Corpus n. 126.292/SP (STF, Relator Ministro TEORI ZAVASCKI, TRIBUNAL PLENO, julgado em 17/2/2016), esta Corte passou a adotar o entendimento do Supremo Tribunal Federal de que "a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal". Em outras palavras, voltou-se a admitir o início de cumprimento da pena imposta pelo simples esgotamento das instâncias ordinárias, ou seja, antes do trânsito em julgado da condenação, nos termos da Súmula 267/STJ.
+    2. O Supremo Tribunal Federal também reconheceu a repercussão geral do tema (ARE 964.246/SP, Rel. Ministro TEORI ZAVASCKI) e, em 11/11/2016, decidiu, em Plenário Virtual, pela reafirmação de sua jurisprudência externada no mencionado HC 126.292/SP.
+    3. Esta Corte já se manifestou no sentido de que a determinação de execução da pena na pendência de recursos sem efeito suspensivo trata-se de simples efeito da condenação e não de ato decisório que se sobreponha às competências das instâncias superiores.
+    4. Recurso ordinário em habeas corpus desprovido.
+    Nesta ação, os impetrantes sustentam, em síntese, que o paciente, condenado a dez anos e quatro meses de reclusão pela prática dos delitos tipificados nos arts. 4º, 5º e 16 da Lei 7.492/1986, sofre constrangimento ilegal, tendo em vista a determinação da execução provisória da reprimenda. Requer, assim, a concessão da ordem, para que seja revogado “o decreto de execução provisória, possibilitando-se que o paciente tenha suas irresignações julgadas pelas Cortes Superiores, para, somente após, dar início à execução da pena”.
+    É o relatório. Decido.
+    O acórdão impugnado está em consonância a orientação firmada por esta Corte, que, no julgamento do HC 126.292/SP (Relator(a): Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 17-05-2016), concluiu que “a execução provisória de condenação penal confirmada em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência”. Esse entendimento foi confirmado no julgamento das medidas cautelares nas ADCs 43 e 44 (julgadas em 05-10-2016), oportunidade na qual se decidiu, também, pelo indeferimento do pedido de modulação dos efeitos. E, em repercussão geral, foi reafirmada a jurisprudência, no exame do ARE 964.246 (Relator(a): Min. TEORI ZAVASCKI, DJe de 25-11-2016).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO HABEAS CORPUS.
+    Publique-se.
+    Brasília, 14 de junho de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
