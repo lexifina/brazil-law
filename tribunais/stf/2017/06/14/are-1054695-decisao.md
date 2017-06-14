@@ -1,0 +1,30 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 2º, 5º, II, 37, XVI, e 61, § 1º, II, “a”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Mostra-se deficiente de fundamentação, no recurso extraordinário interposto de acórdão cuja publicação se deu após a Emenda Regimental nº 21, de 30.4.2007, a preliminar formal de repercussão geral. O preenchimento desse requisito demanda a demonstração, em tópico destacado, da relevância econômica, política, social ou jurídica da questão constitucional suscitada, a ultrapassar os interesses subjetivos das partes (art. 543-A, § 1º, do CPC).
+    A jurisprudência desta Corte é firme no sentido de que a deficiência da preliminar acarreta a inadmissibilidade do recurso extraordinário. Nesse sentido, cito:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DA RECORRENTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (ARE 947.208-AgR/RJ, Rel. Min. Teori Zavascki, 2ª Turma, DJe 11.4.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E PROCESSUAL CIVIL. INTIMAÇÃO DO JULGADO RECORRIDO APÓS 3.5.2007. DEMONSTRAÇÃO INSUFICIENTE DA REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 919922 AgR / MG, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 01.12.2015)
+    Ademais, a matéria constitucional versada no recurso extraordinário não foi analisada pelas instâncias ordinárias, tampouco opostos embargos de declaração para satisfazer o requisito do prequestionamento. Aplicável, na hipótese, o entendimento jurisprudencial vertido nas Súmulas 282 e 356/STF: “é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”. Nesse sentido, o AI 743.256-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.3.2012; e o AI 827.894-AgR/RJ, Rel. Min. Marco Aurélio, 1ª Turma, unânime, DJe 07.11.2011, cuja ementa transcrevo:
+    "RECURSO EXTRAORDINÁRIO prequestionamento CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé".
+    Por outro lado, oportuna a transcrição parcial do acórdão recorrido:
+    “[...]
+    Bem analisado os autos, temos que o benefício denominado Gratificação por Acúmulo de
+    Titularidade (GAT), objetiva remunerar o servidor que tenha efetivamente desempenhado sua atividade policial em situação de acúmulo de atividade, por período igual ou superior a quinze dias, sem fazer distinção se de forma ininterrupta ou não.
+    A Lei Complementar Estadual assim disciplina:[...]
+    No mesmo sentido, temos o Decreto Estadual n° 57.669/2001 que dá efetividade a norma
+    infraconstitucional, regulamentando o que segue:[...]
+    De todo o exposto, temos que a Lei Complementar Estadual em nenhum momento restringe o recebimento do benefício para os responderem cumulativamente pelo comando de unidades e equipes operacionais e de plantão dos órgãos de execução da Polícia Civil, por período igual ou superior a 15 (quinze) dias.
+    Embora o Decreto Estadual regulamentar afirme que o tempo computado será de dias consecutivos, nesse ponto extrapolou o que disciplina a Lei Complementar, sendo nesta parcela ilegal.
+    Desta forma, tem os impetrantes o direito ao recebimento da GAT, pelos períodos acumulados na titularidade de mais de uma delegacia, porquanto preenchidos os requisitos estabelecidos na Lei Complementar n° 1.020/07 […]".
+    Desse modo, não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local aplicável à espécie (Lei Complementar Estadual nº 1.020/07 e Decreto Estadual nº 57.669/2011), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de junho de 2017.
+Ministra Rosa Weber
+Relatora
