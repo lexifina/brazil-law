@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 2º, 5º, II, 37 e 150, § 6º, da Constituição Federal.
+    Anote-se a ementa do acórdão recorrido:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. PEDIDO ADMINISTRATIVO. RESPOSTA. PRAZO. TAXA SELIC. TERMO INICIAL DA CORREÇÃO MONETÁRIA, NA HIPÓTESE EM QUE CARACTERIZADA A MORA DO FISCO.
+    1. A Lei nº 11.457, de 2007, estabelece, em seu art. 24, o prazo de 360 dias para que a administração decida os requerimentos administrativos de matéria tributária. Assim, fixa-se prazo razoável, no caso, 75 dias, para que se prolate decisão nos processos administrativos referidos na inicial, protocolados há mais de 360 dias.
+    2. Caracterizada a mora do Fisco ao analisar o pedido administrativo de reconhecimento de crédito escritural ou presumido (quando extrapolado o prazo de análise do pedido - 150 ou 360 dias, conforme o caso), deve incidir correção monetária, pela taxa SELIC, a partir da data do protocolo do pedido administrativo.”
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o Tribunal de origem decidiu a controvérsia consignando que:
+    “A matéria sob enfoque encontra-se pacificada no âmbito do egrégio STJ no sentido de que, tratando-se de créditos escriturais, não há incidência de correção monetária, por ausência de previsão legal, salvo na hipótese de óbice proporcionado pelo Fisco para o seu aproveitamento”.
+    Desse modo, não se contrariou a jurisprudência do Supremo Tribunal Federal consolidada no sentido de ser cabível a incidência da correção monetária sobre créditos tributários quando há oposição injustificada do Fisco no que tange ao aproveitamento dos referidos créditos. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CORREÇÃO MONETÁRIA DE CRÉDITOS ESCRITURAIS DE IPI MEDIANTE RESISTÊNCIA INJUSTIFICADA DO FISCO. POSSIBILIDADE. PRECEDENTES. O aproveitamento extemporâneo de créditos escriturais em razão de resistência indevida pela Administração tributária dá ensejo à correção monetária. Precedentes. Agravo regimental a que se nega provimento” (RE nº 645.074/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 22/8/14 – grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPI. CRÉDITO. RESISTÊNCIA ILEGÍTIMA DO ESTADO EM AUTORIZAR A UTILIZAÇÃO DOS CRÉDITOS. ATRASO INJUSTIFICADO. CORREÇÃO MONETÁRIA DEVIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Resta configurado resistência ilegítima, a ensejar a correção monetária do crédito, no atraso injustificado do Estado em autorizar a utilização de crédito de IPI, quando era possível sua compensação pelo contribuinte. II – Situação diversa da mera pretensão de se corrigir monetariamente os créditos escriturais, consideradas as datas de recolhimento e de compensação do tributo. III – Agravo regimental a que se nega provimento” (ARE nº 695.150/SP-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 20/2/14 – grifei).
+    Destaca-se, ainda, a ementa do seguinte julgado:
+    “EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CRÉDITO PRÊMIO DE IPI. RESSARCIMENTO SOLICITADO NA VIA ADMINISTRATIVA. RESISTÊNCIA INJUSTIFICADA DA ADMINISTRAÇÃO TRIBUTÁRIA. ADIMPLEMENTO INTEMPESTIVO. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que há o direito à correção monetária dos créditos de IPI referentes aos valores não aproveitados na etapa seguinte da cadeia produtiva, desde que fique comprovada a estrita hipótese de resistência injustificada da Administração Tributária em realizar o pagamento tempestivamente. Precedentes. 2. A verificação, em concreto, da injustificada resistência do Fisco e da adequação dos termos da correção monetária cingem-se ao contencioso infraconstitucional. 3. Fixação de tese: “A mora injustificada ou irrazoável do fisco em restituir o valor devido ao contribuinte caracteriza a ‘resistência ilegítima’ autorizadora da incidência da correção monetária.” 4. Embargos de divergência a que se dá provimento” (RE nº 299.605/PR-AgR-ED-EDv, Tribunal Pleno, Relator o Ministro Edson Fachin, DJe de 20/6/16).
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 16 de junho de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
