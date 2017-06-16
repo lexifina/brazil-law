@@ -1,0 +1,14 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao recurso, diante dos seguintes fundamentos:
+    “[...] acórdão recorrido harmoniza-se com a jurisprudência desta Suprema Corte que vedou a conversão de tempo de serviço especial em comum, tendo em vista a impossibilidade de contagem de tempo ficto.
+    […]
+    a Súmula Vinculante 33 garantiu aos servidores públicos o direito à aposentadoria especial por insalubridade, porém não tratou da conversão do tempo de serviço especial em comum.
+    […]” (pág. 1 do documento eletrônico 13).
+    A parte ora agravante peticionou às fls. 1/9 do documento eletrônico 15 sustentando que: (i) não há entendimento unânime com relação à matéria de fundo discutida no presente caso, para tanto transcreveu trechos do pronunciamento do Ministro Roberto Barroso quando dos debates para aprovação da Súmula Vinculante 33; fundamentos contidos no MI 4.204/DF, de relatoria do mesmo Ministro; e o RE 563.665 AgR/DF, Rel. Min. Marco Aurélio; (ii) apontou que no julgamento do MI 3.162/DF, manifestei-me favoravelmente à isonomia entre a categoria dos trabalhadores do setor privado e do setor público, não podendo haver diferenciação possível para o caso analisado naquela assentada; (iii) “a autorização para adoção de requisitos ou critérios diferenciados deriva do próprio art. 40 da Constituição Federal, e, a conversão de tempo especial nada mais é do que a materialização efetiva desta garantia Constitucional” (pág. 5 do documento eletrônico 15).
+    É o relatório necessário. Decido.
+    Bem reexaminados os autos, constato que esta Corte reconheceu a repercussão geral da matéria por meio do RE 1.014.286-RG (Tema 942), da sistemática da repercussão geral, de relatoria do Luiz Fux, cujo leading case foi assim sumariado:
+    “EMENTA: RECURSO EXTRAORDINÁRIO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO. ARTIGO 40, § 4º, III, DA CONSTITUIÇÃO FEDERAL. PEDIDO DE AVERBAÇÃO DE TEMPO DE SERVIÇO PRESTADO EM ATIVIDADES EXERCIDAS SOB CONDIÇÕES ESPECIAIS QUE PREJUDIQUEM A SAÚDE OU A INTEGRIDADE FÍSICA DO SERVIDOR, COM CONVERSÃO DO TEMPO ESPECIAL EM COMUM, MEDIANTE CONTAGEM DIFERENCIADA, PARA OBTENÇÃO DE OUTROS BENEFÍCIOS PREVIDENCIÁRIOS. QUESTÃO NÃO ABRANGIDA PELO ENUNCIADO DA SÚMULA VINCULANTE 33. REITERAÇÃO DA CONTROVÉRSIA EM MÚLTIPLOS PROCESSOS. IMPACTO DA DECISÃO NO EQUILÍBRIO FINANCEIRO E ATUARIAL DA PREVIDÊNCIA PÚBLICA. RECONHECIDA A EXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Isso posto, com base no art. 317, § 2°, do Regimento Interno do Supremo Tribunal Federal, reconsidero a decisão agravada, tornando-a sem efeito, e determino a devolução destes autos à origem a fim de que seja observado o disposto no art. 1.036 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 16 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
