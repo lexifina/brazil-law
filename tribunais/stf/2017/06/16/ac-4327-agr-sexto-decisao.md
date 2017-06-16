@@ -1,0 +1,11 @@
+DESPACHO
+PETIÇÃO – ESCLARECIMENTOS – JUNTADA.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    Mediante a petição/STF nº 33.667/2017, Frederico Pacheco de Medeiros, por meio de advogado habilitado, adita a minuta do agravo interno protocolado. Diz ter sido denunciado unicamente pelo crime do artigo 317, cabeça (corrupção passiva), combinado com o 29 (coautoria), do Código Penal, ante o recolhimento de R$ 2.000.000,00 na sede da empresa JBS, em São Paulo. Informa que contatou o Departamento de Polícia Federal, na Superintendência Regional em Minas Gerais, para devolver a quantia de R$ 1.520.100,00. Aduz haver a autoridade policial, em 13 de junho último, procedido à apreensão do numerário e ao depósito judicial. Junta cópia dos documentos. Reitera que as circunstâncias inerentes à coleta de R$ 2.000.000,00 na cidade de São Paulo, a pedido do senador Aécio Neves da Cunha, serão esclarecidas no momento processual oportuno. Ressalta a restituição integral do montante, considerados os valores apreendidos em poder de Mendherson Souza Lima, quando do cumprimento de mandado de busca e apreensão deferida no âmbito da ação cautelar nº 4.326. Consoante alega, o período de 30 dias em que permanece preso foi suficiente para que o Órgão acusador tenha reunido toda a prova documental necessária ao oferecimento da denúncia, pendente apenas a inquirição das testemunhas arroladas. Destaca postura colaborativa, a revelar que as investigações em curso não sofrerão ingerência. Articula com a suficiência das medidas cautelares impostas, aludindo ao recolhimento do passaporte, à proibição de contato com os demais investigados e ao recolhimento domiciliar, as quais, segundo articula, teriam os mesmo efeito da custódia em unidade prisional. Reitera o pedido de provimento do agravo.
+    Anoto encontrar-se o recurso devidamente aparelhado e pautado para julgamento da Primeira Turma, na sessão do próximo dia 20 de junho.
+    2. Juntem a petição e os documentos que a acompanham. Os esclarecimentos mostram-se consequência natural do princípio da ampla defesa.
+    3. Aguardem o exame do agravo interno interposto pelo requerente.
+    4. Publiquem.
+Brasília, 16 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
