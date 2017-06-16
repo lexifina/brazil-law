@@ -1,0 +1,18 @@
+Solução de Consulta Cosit nº 293, de 13 de junho de 2017
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: CUMULATIVIDADE. NÃO CUMULATIVIDADE. CRÉDITOS. ATIVO IMOBILIZADO. COMBUSTÍVEIS. CONTRATO FIRMADO EM REGIME DE EPC OU TURN KEY.
+Caso o contrato firmado em regime de EPC ou Turn Key envolver o desenvolvimento de obras de construção civil nos termos do inciso XX do art. 10 c/c inciso V do art. 15 da Lei nº 10.833, de 2003, será obrigatória aplicação do regime de apuração cumulativa da Contribuição para o PIS/Pasep em relação às receitas decorrentes da execução desse contrato;
+Caso seja aplicável o regime de apuração não cumulativa da Contribuição para o PIS/Pasep às receitas decorrentes da execução de contrato firmado em regime de EPC ou Turn Key, é possível o desconto de créditos da referida contribuição em relação a:
+a) guindastes, caminhões e veículos de transporte incorporados ao ativo imobilizado e utilizados na produção de bens destinados à venda ou na prestação de serviços, nos termos do inciso VI do art. 3º da Lei nº 10.637, de 2002;
+b) combustível consumido nos referidos veículos diretamente utilizados na produção de bens destinados à venda ou na prestação de serviços (no caso presente, na prestação de serviços “serviços de montagem eletromecânica e de instalações industriais”);
+O direito aos créditos do item anterior só é possível caso os veículos sejam utilizados em atividades cujas receitas estão sujeitas ao regime de apuração não cumulativa da Contribuição para o PIS/Pasep. Assim, caso haja a utilização dos mencionados veículos tanto em atividades sujeitas ao regime de apuração não cumulativa quanto em atividades sujeitas ao regime de apuração cumulativa da contribuição, será necessária a proporcionalização estabelecida pelos § 7º a 9º do art. 3º da Lei nº 10.637, de 2002.
+DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 3º; Lei nº 10.833, de 2003, art. 10, XX e art. 15, V.
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: CUMULATIVIDADE. NÃO CUMULATIVIDADE. CRÉDITOS. ATIVO IMOBILIZADO. COMBUSTÍVEIS. CONTRATO FIRMADO EM REGIME DE EPC OU TURN KEY.
+Caso o contrato firmado em regime de EPC ou Turn Key envolver o desenvolvimento de obras de construção civil nos termos do inciso XX do art. 10 da Lei nº 10.833, de 2003, será obrigatória aplicação do regime de apuração cumulativa da Cofins em relação às receitas decorrentes da execução desse contrato;
+Caso seja aplicável o regime de apuração não cumulativa das Cofins às receitas decorrentes da execução de contrato firmado em regime de EPC ou Turn Key, é possível o desconto de créditos da referida contribuição em relação a:
+a) guindastes, caminhões e veículos de transporte incorporados ao ativo imobilizado e utilizados na produção de bens destinados à venda ou na prestação de serviços, nos termos do inciso VI do art. 3º da Lei nº 10.833, de 2003;
+b) combustível consumido nos referidos veículos diretamente utilizados na produção de bens destinados à venda ou na prestação de serviços (no caso presente, na prestação de serviços “serviços de montagem eletromecânica e de instalações industriais”);
+O direito aos créditos do item anterior só é possível caso os veículos sejam utilizados em atividades cujas receitas estão sujeitas ao regime de apuração não cumulativa da Cofins. Assim, caso haja a utilização dos mencionados veículos tanto em atividades sujeitas ao regime de apuração não cumulativa quanto em atividades sujeitas ao regime de apuração cumulativa das contribuições, será necessária a proporcionalização estabelecida pelos § 7º a 9º do art. 3º da Lei nº 10.833, de 2003.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3º e art. 10, XX.
+[arquivo anexo: SC Cosit nº 293-2017.pdf]
