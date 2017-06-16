@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98192, de 8 de junho de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM 9403.70.00 Mercadoria: Armário (gabinete) de redução de ruído, que se assenta sobre o solo, próprio para conter uma bomba de vácuo de laboratório, constituído de paredes laterais de plástico de alta resistência, forrado internamente com espuma para absorver o ruído da bomba (espuma com relevo do tipo caixa de ovo), munido de um ventilador de 5W (para resfriamento da bomba), um termopar e um alarme luminoso e/ou sonoro, com dimensões de 40 cm x 26 cm x 46 cm (altura x largura x profundidade), podendo apresentar-se em conjunto com uma bandeja de metal com rodízios que se encaixa a sua base.
+DISPOSITIVOS LEGAIS: RGI/SH 1 e 3b (texto da posição 94.03), RGI/SH 6 (texto da subposição 9403.70.00) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.192-2017 .pdf]
