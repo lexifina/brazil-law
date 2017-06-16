@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à ocorrência da prescrição do crédito de natureza tributária, considerada a legislação de regência. Consignou, ainda, inexistir fato interruptivo do prazo em questão. No extraordinário cujo trânsito busca alcançar, o recorrente alega violado o artigo 5º, incisos XXXV e LV, da Constituição Federal. Aduz a contrariedade dos princípios do contraditório e da ampla defesa. Sustenta a necessidade de intimação da Fazenda Pública anterior ao reconhecimento de prescrição do crédito fiscal objeto da execução.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis os fundamentos do acórdão recorrido:
+    6. No que tange a prescrição, o artigo 174 do Código Tributário Nacional prevê que a ação para a cobrança do crédito tributário prescreve em 05 (cinco) anos contados da sua constituição definitiva, o que ocorre “no primeiro dia seguinte ao prazo dado ao devedor na intimação a este dirigida, para que efetue o pagamento do crédito tributário” (Hugo de Brito Machado, Comentários ao Código Tributário Nacional, art. 139 a 218,Vol. III, Atlas, 2005, p. 563).
+    O § único do artigo 174 do Código Tributário Nacional previa, antes da Lei Complementar 118/2005, as hipóteses de interrupção da prescrição protesto judicial, ato judicial que constitua o devedor em mora e citação.
+    Não consta nos autos prova da intimação para pagamento do crédito, motivo pelo qual se tomará como data constituição definitiva do crédito tributário a data da inscrição em dívida ativa (08/09/2003 fls. 02/ss), que pressupõe lançamento anterior.
+    Logo, entre a constituição definitiva do crédito tributário e a r. sentença (04/10/2011 fls. 15/ss), fluiu prazo superior a cinco anos e, por esse motivo, a prescrição a que se refere o art. 174 CTN pode ser reconhecida, mesmo porque não houve nenhuma causa suspensiva ou interruptiva do curso prescricional.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário, quanto ao suposto desrespeito ao artigo 5º, incisos XXXV e LV, da Carta Política não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    No mais, o Tribunal, no recurso extraordinário nº 602.883/SP, relatado pela ministra Ellen Gracie, concluiu não ter repercussão geral o tema relativo à ocorrência da prescrição em execução fiscal, nos termos do artigo 174, parágrafo único, inciso I, do Código Tributário Nacional, anteriormente à Lei Complementar nº 118/2005.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 16 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
