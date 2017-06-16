@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98189, de 8 de junho de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 3920.10.91 Mercadoria: Lâmina de polímero de etileno, compacto, microporoso, com densidade média de 0,927g/cm³, contendo óleo com componentes químicos contido na parafina, negro de fumo utilizado como corante, carga sílica e pequena proporção de antioxidantes, apresentando nervuras paralelas entre si, com uma resistência elétrica média variando entre 0,068ohms.cm² e 0,090ohms.cm², do tipo utilizado na fabricação de separadores de acumuladores elétricos automotivos, apresentada em rolos de largura 117 a 170mm e peso de 280 a 300kg.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 10 do Capítulo 39 e da posição 39.20), RGI 6 (texto da subposição de 3920.10) e RGC 1 (textos do item 3920.10.9 e do subitem 3920.10.91) constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.189-2017 .pdf]
