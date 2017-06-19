@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, julgou improcedente o pedido formulado em ação revindicatória. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 183, § 3º, e 191, parágrafo único, da Constituição Federal. Diz ter demonstrado serem as terras patrimônio público municipal, incabível o usucapião.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Ora, as fotografias acostadas no laudo do perito judicial fls. 100/104) dão a nítida e ululante constatação de que as rés estão a exercer de forma abusiva ou antissocial o direito de sua propriedade sobre o bem em questão, e que a reivindicação formulada pela Municipalidade não tem por desiderato qualquer interesse público, nem mesmo dos vizinhos que residem na vila restrita por portão que obstrui a passagem do público em geral à exceção, é claro, do suposto vizinho melindrado.
+    Na verdade, a regularização do uso dos 31 ,05 m2 (trinta e um, cinco metros quadrados) atingirá mais o interesse público do que a sua destruição para fins não bem definidos pela autora.
+    Aliás é da própria Lei que dispõe sobre o parcelamento do solo urbano a imposição de medidas para regularizar loteamento ou desmembramento não autorizado ou executado sem observância do ato administrativo de licença, para evitar lesão aos seus padrões de desenvolvimento urbano e na defesa dos direitos dos adquirentes de lotes (art. 40, caput da Lei no 6.766/79).
+    [...]
+    Invocar a existência de interesse público para retomada e destruição da garagem das rés, quando efetivamente o interesse da Municipalidade está um tanto quanto obnubilado no processo, é atentar contra a dignidade da pessoa humana, contra o direito de propriedade e de a regularização deste bem, em garantia ao livre exercício e utilização continua e duradoura de quem lá se encontra permanentemente a exercê-lo, sem qualquer ofensa, obstrução ou abuso, nem mínimo sequer, à coletividade.
+    Dessume-se, portanto, que a máquina pública não deve se ater a questiúnculas, a pormenores entre vizinhos melindrados, e que nem de perto oferecem oposição ao interesse público, nem de pedo o não pode entrar por sendas subjetivas e impróprias ao atendimento do essencial e supremo dimensionamento do padrão urbanístico de toda a sociedade paulistana, e que por cedo não será lesado, jé que a retomada e destruição da garagem não facilitará acesso a ninguém, senão apenas que o veiculo das corrés permanecerá ao relento ao invés da cobertura existente.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 19 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
