@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 1ª Região, ementado nos seguintes termos:
+    “ADMINISTRATIVO. ENSINO. MANDADO DE SEGURANÇA. VESTIBULAR. ENSINO FUNDAMENTAL PÚBLICA. CONCLUSÃO DO ENSINO MÉDIO POR MEIO DE EXAME SUPLETIVO EM ESTABELECIMENTO PÚBLICO. POSSIBILIDADE DE MATRICULAR NA UNIVERSIDADE FEDERAL DA BAHIA.” (eDOC 3, p. 10)
+    Os embargos de declaração opostos foram rejeitados (eDOC 3, p. 30).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º; 37, I e II; 205; e 207, do texto constitucional. (eDOC 3, p. 116)
+    Nas razões recursais, defende-se, em síntese, que apenas os candidatos que cursaram todo o ensino médio em instituições públicas de ensino poderão concorrer às cotas nas universidades.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto fático-probatório constante dos autos e as cláusulas editalícias do certame em questão, consignou que o recorrido preenchia os requisitos necessários para ingressar no curso pretendido pelo sistema de cotas. Confira-se, nesse sentido, trecho do voto condutor do acórdão recorrido:
+    “A controvérsia instaurada nos presentes autos gira em torno do indeferimento da matrícula do aluno processo seletivo (sic), sob o argumento de que o candidato não teria cursado o ensino médio exclusivamente em escola pública, descumprindo um dos requisitos o edital para concorrer pelo sistema de cotas.
+    No caso em questão, verifico que o aluna (sic) frequentou o ensino fundamental em escola da rede oficial; tendo, outrossim, concluído o ensino médio por meio de exames supletivos patrocinados por unidade da Secretaria de Educação do Estado da Bahia.
+    Desse modo, entendo que o fato de a impetrante ter concluído o ensino médio através de supletivo, não é razão suficiente para excluí-lo do Programa de Cotas, afigurando-se ilegítimo o indeferimento da sua matrícula no curso de Ciências Sociais da Universidade Federal da Bahia. (…).” (eDOC 3, p. 6).
+    Assim, divergir do entendimento firmado pelo Tribunal de origem demandaria o reexame do acervo fático-probatório e dos termos do edital do concurso, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os precedentes de ambas as Turmas:
+    “DIREITO ADMINISTRATIVO. ENSINO SUPERIOR. SISTEMA DE COTAS. REQUISITOS. ANÁLISE DE EVENTUAL VIOLAÇÃO DA CONSTITUIÇÃO FEDERAL DEPENDENTE DE REELABORAÇÃO DA ESTRUTURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 05.4.2013. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. A pretensão do agravante encontra óbice na Súmula 279 do Supremo Tribunal Federal, pois eventual ofensa aos preceitos constitucionais invocados somente se materializaria, no caso, de forma reflexa, a demandar, em primeiro plano, para sua constatação, a reelaboração do quadro fático delineado. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido”. (ARE-AgR 864770, Rel. Min. ROSA WEBER, Primeira Turma, DJe 7.8.2015)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Administrativo. Ensino superior. Supletivo. Sistema de cotas. Preenchimento de requisitos. 3. Matéria debatida no Tribunal de origem restringe-se ao âmbito infraconstitucional. Ofensa reflexa à Constituição Federal. 4. Necessidade do reexame do conjunto fático-probatório e interpretação de cláusulas editalícias. Impossibilidade. Súmulas 279 e 454. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.”. (ARE-AgR 940.592, de minha relatoria, Segunda Turma, DJe 18.5.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
