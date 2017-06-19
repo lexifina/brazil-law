@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – SERVIDOR – COMPETÊNCIA DA JUSTIÇA COMUM – PROVIMENTO PARCIAL.
+    1. O Tribunal de Justiça do Estado do Piauí, julgando recurso de ofício, anulou o entendimento do Juízo e determinou o retorno do processo à Justiça do Trabalho, por se tratar de demanda que versa sobre normas relativas à segurança, higiene e saúde dos trabalhadores. No extraordinário, o recorrente afirma a violação do artigo 114, inciso I, da Constituição Federal. Insiste na competência Justiça Comum, porquanto trata-se de relação que envolve a Administração Pública e servidores submetidos ao regime estatutário.
+    2. A decisão recorrida está em contrariedade com o a jurisprudência do Supremo. Confiram com o decidido na ação direta de inconstitucionalidadae3395/DF, relatada no Pleno pelo ministro Cezar Peluso, com acórdão publicado no Diário de Justiça de 10 de junho de 2006, com o seguinte teor:
+    INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos de competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República não abrange as causas instauradas entre o Poder Público e o servidor que seja vinculado por relação jurídico-estatutária.
+    Descabe confundir com o decido na Reclamação 3303/PI, que teve na origem ação civil pública ajuizada contra determinado ente estatal, a fim de compeli-lo a implementar a observância de normas relacionadas à segurança e higiene do trabalho de forma indistinta, considerados trabalhadores e servidores.
+    3. Diante de tal quadro, dou provimento parcial ao extraordinário para, reformando acórdão recorrido, determinar o retorno do processo ao Tribunal de Justiça do Estado do Piauí, a fim de que prossiga no julgamento da apelação. Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a ausência de fixação na origem, descabendo, portanto, a referida condenação.
+    4. Publiquem.
+Brasília, 19 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
