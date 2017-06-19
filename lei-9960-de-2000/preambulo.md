@@ -1,0 +1,2 @@
+Institui a Taxa de Serviços Administrativos - TSA, em favor da Superintendência da Zona Franca de Manaus - Suframa, estabelece preços a serem cobrados pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama, cria a Taxa de Fiscalização Ambiental - TFA, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
