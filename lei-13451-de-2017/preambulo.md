@@ -1,0 +1,2 @@
+Dispõe sobre a competência da Superintendência da Zona Franca de Manaus (Suframa) para regular e controlar a importação e o ingresso de mercadorias, com incentivos fiscais, na Zona Franca de Manaus, nas áreas de livre comércio e na Amazônia Ocidental e institui a Taxa de Controle de Incentivos Fiscais (TCIF) e a Taxa de Serviços (TS).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
