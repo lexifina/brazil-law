@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4º Região, que manteve sentença de procedência em ação de usucapião, assim ementado (eDOC 9):
+    “ADMINISTRATIVO. USUCAPIÃO. FAIXA DE FRONTEIRA. POSSE MANSA E PACÍFICA POR MAIS DE VINTE ANOS. DOMÍNIO PÚBLICO NÃO COMPROVADO. 1. O fato de o imóvel estar localizado em faixa de fronteira não é, por si, suficiente para caracterizá-lo como bem de domínio da União. Precedentes. 2. Incumbe à União o ônus da prova do domínio público, enquanto fato obstativo do direito alegado na inicial (art. 333, inciso II, do CPC) ”
+    No recurso extraordinário, com fundamento do art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXV, LIV, LV; 20, II, e § 2º; 183, § 3º; e 191, parágrafo único, todos da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a impossibilidade de usucapião de bem público (eDOC 21).
+    A Vice-Presidência do TRF da 4ª Região inadmitiu o recurso com base nas Súmulas 279 e 286 do STF e por entender reflexa a ofensa constitucional apontada (eDOC 30).
+    É o relatório. Decido.
+    Inicialmente, quando do julgamento da apelação, o Tribunal de origem asseverou que (eDOC 8, p. 6/8):
+    “Com efeito, nem todas as terras situadas na faixa de fronteira são públicas e de propriedade da União; a Constituição faz referência às terras devolutas. Existem terras particulares nessa faixa, que ficam, por óbvio, sujeitas a uma série de restrições de uso e alienação em benefício da segurança nacional, mas que não se enquadram na categoria de terras devolutas (in Maria Sylvia Zanella di Pietro, Direito Administrativo. 16ª edição. São Paulo: Atlas, págs 591/592).”
+    (…)
+    Nessa perspectiva, e considerando a ausência de prova de que o imóvel usucapiendo é terra devoluta indispensável à defesa das fronteiras, a sentença encontrase em consonância com a jurisprudência deste Tribunal:
+     ADMINISTRATIVO. PROCESSO CIVIL. USUCAPIÃO. FAIXA DE FRONTEIRA. TERRA DEVOLUTA. INEXISTÊNCIA DE PRESUNÇÃO. IMPRESCRITIBILIDADE AQUISITIVA. NECESSÁRIA A PROVA DA INDISPENSABILIDADE PARA A DEFESA DAS FRONTEIRAS. ÔNUS DA PROVA. PODER PÚBLICO. APELO E REMESSA OFICIAL DESPROVIDOS. 1. A circunstância do imóvel objeto do litígio estar situado em área de fronteira não tem, por si só, o condão de torná-lo de domínio público. 2. A ausência de transcrição no ofício imobiliário não conduz à presunção de que o imóvel se constitua em terra devoluta, cabendo ao Poder Público o encargo de provar a titularidade pública do bem. 3. Inexistindo prova da indispensabilidade do imóvel para a defesa da fronteira (a despeito da produção de prova pericial), não há que se falar em imprescritibilidade aquisitiva (ou vedação à usucapião). Inteligência dos artigos 20, II e §2º, e 191, parágrafo único, da CRFB. 4. Apelação e remessa oficial improvidas. (TRF4, APELAÇÃO/REEXAME NECESSÁRIO Nº 5002979-66.2013.404.7202, 3ª TURMA, Des. Federal FERNANDO QUADROS DA SILVA, POR UNANIMIDADE, JUNTADO AOS AUTOS EM 17/12/2015)”
+    Como se depreende desses fundamentos e daqueles que constam da ementa do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo, quanto ao preenchimento dos requisitos legais para caracterização de terras devolutas, demandaria o reexame dos fatos e provas constantes dos autos, o que encontra óbice na Súmula 279 do STF.
+    Nesse sentido: ARE 682.218-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJE 26.3.2014; RE 607.681-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 22.2.2011; ARE 1.037.201, Rel. Min. Luís Roberto Barroso, Dje 2.5.2017; ARE 1.033.658, Rel. Min. Rosa Weber, DJe 28.3.2017.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 20 de junho de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
