@@ -1,0 +1,35 @@
+Vistos etc.
+    O embargado/exequente iniciou execução por quantia certa (apenso, fls. 84-6) objetivando o recebimento das verbas de sucumbência, consistentes nos honorários advocatícios e despesas com a execução do julgado. Apresentou demonstrativo discriminando seu crédito no valor de R$ 76.894,81  (em 09.9.2003).
+    O executado/embargante apresentou embargos à execução (apenso, fls. 117-22) invocando excesso na execução que, segundo alega, deveria se limitar à quantia de R$ 60.206,72. Sustenta que, do valor executado, devem ser excluídos – ao argumento de que não constantes no acórdão exequendo –, os valores decorrentes das despesas com a reimplantação de marcos geográficos, bem como os juros de mora sobre os honorários advocatícios. Estes últimos, se devidos, segundo sustenta, seriam de 6% ao ano, e não 12%.
+    O embargado impugnou os embargos (apenso, fls. 133-5).
+    O Procurador-Geral da República lavrou parecer pela procedência parcial dos embargos, apenas para excluir da execução os juros de mora sobre os honorários advocatícios (apenso, fls. 141-8).
+    Nestes mesmos autos, foi julgado agravo regimental (acórdão às fls. 1.413-22), interposto pelo ora embargante, tendo como objeto decisão sobre outro tema da execução.
+    Efetivamente, não tendo sido objeto daquele acórdão a questão tratada nos presentes embargos à execução (juros nos honorários advocatícios e despesas processuais), o ora embargante apresentou, face àquele acórdão, embargos de declaração (fls. 1.431-5vº), invocando omissão quanto ao julgamento dos presentes embargos à execução.
+    A embargada teve vista dos autos para se manifestar sobre os embargos de declaração e o fez (fls. 1.442-4).
+    É o relatório. Decido.
+    Primeiramente, quanto aos embargos de declaração, estes perdem o objeto com a presente decisão – o que consignarei ao final –, pois nela julgo os embargos à execução apresentados.
+    O RISTF autoriza o julgamento monocrático dos atos de execução e seus incidentes (artigos 21, II, 340, 341 e 343 do RISTF). Tal compreensão alcança os embargos à execução, conforme precedente do Plenário (ACO 342, Rel. Ministro Marco Aurélio, DJe 16.6.2011).
+    Discute-se nos embargos à execução o suposto excesso quanto a despesas com o cumprimento do julgado, portanto a ele supervenientes, bem como juros de mora sobre os honorários advocatícios.
+    Quanto ao primeiro ponto – inclusão de despesas processuais antecipadas pelo exequente na conta de execução – não assiste dúvida quanto ao dever de ressarcimento.
+    A alegação de que tal verba não constou do acórdão exequendo é frágil desde o ponto de vista da cronologia dos atos processuais, pois tal despesa foi realizada somente após o trânsito em julgado do acórdão, na fase de execução (cumprimento) do julgado.
+    Explica-se: a despesa questionada corresponde ao valor pago pelo embargado ao Serviço Geográfico do Exército (R$ 7.857,77 - apenso, fl. 82), órgão que foi intimado para realizar os atos materiais necessários à execução do acórdão (fixação dos limites geográficos entre os territórios do embargante e do embargado) e assim foi feito por expressa determinação deste STF. Registre-se o item 15, do acórdão exequendo (fls. 1.234-5): “O Serviço Geográfico do Exército ficou, desde logo, nomeado para a execução dos trabalhos de demarcação necessários, com base no laudo técnico elaborado”.
+    Conforme se vê à fl. 58 do apenso, a Diretoria de Serviço do Exército acusou a inexistência de fundos para realizar o trabalho que a decisão judicial lhe incumbiu, de modo que o Estado de Mato Grosso/embargado, vitorioso na demanda e beneficiário da tarefa, depositou a quantia (apenso, fl. 82) cujo valor jamais foi questionado pelo embargante.
+    Os valores despendidos pela parte vencedora para viabilizar o cumprimento do acórdão (outrora denominada fase de execução) se inserem no campo das despesas endoprocessuais, sujeitando-se ao regime de sucumbência e ao princípio da causalidade (artigos 19 e 20 do CPC/73, 82 e 84 do CPC/2015), com imperativo ressarcimento ao vencedor da causa.
+    O art. 82 do CPC/2015 é expresso em sua parte final quanto ao dever da parte de prover as despesas dos atos que realizarem na execução, até a plena satisfação do direito reconhecido no título.
+    Este inclusive o sentido que se extrai do art. 322, §1º, do CPC/2015, ao dispor que compreendem-se no principal os juros legais, a correção monetária e as verbas de sucumbência […].
+    Cabível, portanto, o ressarcimento desta despesa pelo embargante.
+    Quanto aos juros, existindo mora no pagamento de honorários advocatícios fixados em acórdão transitado em julgado, eles incidem durante o inadimplemento.
+    Os juros da mora são compreendidos como pedido implícito (artigos 293 do CPC/73, 322, § 1º, do CPC/2015, 407 do Código Civil e Súmula 254 deste Colendo STF).
+    Quanto ao seu índice, todavia, o embargante tem razão em parte.
+    Seu cálculo, todavia, deve se dar com base:
+    - no percentual de 0,5% ao mês de 26.6.2002 (data do trânsito em julgado, fl. 1.358) até 11.01.2003 (data da entrada em vigor do Código Civil/2002), conforme art. 1.062 do Código Civil/1916;
+    - no percentual de 1% ao mês de 11.1.2003 a 29.6.2009 (data da entrada em vigor da Lei nº 11.960/2009, que alterou o art. 1º-F da Lei nº 9.494/97), conforme artigo 161, § 1º, do CTN c/c artigo 406 do Código Civil/2002 e;
+    - a partir de 29.6.2009 nos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança (art. 1º-F da Lei nº 9.494/97), quando então tais índices substituem inclusive a correção monetária.
+    Quanto ao termo inicial para a sua incidência, o embargado considerou em seu cálculo (apenso, fl. 85) a data do trânsito em julgado do acórdão exequendo – 26.6.2002 (fl. 1.358). Tal entendimento encontra-se em consonância com o que dispõe o art. 85, § 16, do CPC/2015: Quando os honorários forem fixados em quantia certa, os juros de mora incidirão a partir da data do trânsito em julgado da decisão.
+    Ante o exposto, julgo PROCEDENTES EM PARTE os embargos à execução, apenas para modificar o índice de cálculo dos juros, determinando que a execução prossiga com os mesmos créditos cobrados pelo exequente, ou seja, as despesas decorrentes da execução do julgado e os honorários advocatícios, inclusive com juros, todavia calculados com os índices indicados nesta decisão, devendo o exequente, para tal finalidade, apresentar novo demonstrativo de seu crédito.
+    Ante a presente decisão, julgo prejudicados os embargos de declaração de fls. 1.431-5vº.
+    Considerando a sucumbência mínima do exequente, a natureza da causa, o tempo de processamento do feito, o trabalho desenvolvido pelos procuradores e as circunstâncias do presente processo, fixo a verba honorária nos presentes embargos à execução em R$ 2.000,00 (dois mil reais), a cargo do embargante, na forma do artigo 86, parágrafo único e 85, §§ 1º, 2º, e 8º, do CPC.
+    Publique-se.
+    Brasília, 20 de junho de 2017.
+Ministra Rosa Weber
+Relatora
