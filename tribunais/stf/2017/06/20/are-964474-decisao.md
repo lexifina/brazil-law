@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 7, p.1):
+    “AGRAVO REGIMENTAL. AÇÃO DE EXECUÇÃO. PEDIDO DE REMIÇÃO. INDEFERIMENTO. AUSÊNCIA DE DEPÓSITO DO PREÇO OFERECIDO. SÚMULA 83/STJ. PRECLUSÃO. OCORRÊNCIA.
+    1. Nos termos do art. 787 do CPC, atualmente revogado pela Lei 11.382/2006, a remição deve ser autorizada ao legitimado que, depositando o preço por que foram alienados ou adjudicados os bens, ingresse em juízo com o pedido, acompanhado de prova do depósito do preço oferecido.
+    2. No caso, concluiu o Tribunal de origem pela ocorrência de preclusão, uma vez que o legitimado requereu a remição, deixando de proceder ao depósito, muito embora já tenha transcorrido, desde o requerimento até a presente data, mais de 10 (dez) anos.
+    3. Inviável o recurso especial se o acórdão recorrido se alinha com o posicionamento sedimentado na jurisprudência do STJ, a teor do que dispõe a Súmula 83 desta Corte Superior.
+    4. A ausência de prequestionamento dos dispositivos legais tidos por violados impede o conhecimento do recurso especial quanto ao ponto (enunciados 282 e 356 da Súmula do STF).
+    5. Agravo regimental a que se nega provimento.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se violação aos arts. 5º, II, XXXV, LIV, e 93, IX, da Constituição da República.
+    Nas razões recursais, sustenta-se, em suma, que “ao prequestionar as vulnerações dos artigos 5º, XXXV, e 93, IX, da Carta Política, e o órgão julgador ter reiterado a omissão, com inescusável jogo de palavras, recalcitrando na entrega da prestação jurisdicional, surgiu um novo vício, i.é., o desrespeito ao devido processo legal, que, na espécie, retrata a omissão em apreciar matérias da defesa” (eDOC 7, p. 109).
+    Argumenta-se, também, que “basta os confrontos do acórdão recorrido, proferido pela 3ª Turma do Superior Tribunal de Justiça, com o acórdão proferido no julgamento do agravo regimental e com a decisão matriz agravada, e constatar, a olhos desarmados, que as teses recursais ditadas pelo recorrente, no seu legitimo direito ao contraditório e à ampla defesa, como pilares do devido processo legal (CF, art. 5º, LV e LIV), não foram apreciadas e julgadas nas suas inteirezas, mesmo quando apresentados embargos de declaração” (eDOC 7, p.110).
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    Verifica-se que, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, Dje de 1º.08.2013 (Tema 660), este Tribunal assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal e da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    Ressalte-se também, que ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, Dje de 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 20 de junho de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
