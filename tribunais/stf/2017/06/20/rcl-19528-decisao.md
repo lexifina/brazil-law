@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada pelo Município de Cocal em face do Juiz do Trabalho da Vara do Trabalho de Parnaíba, cujas decisões proferidas nos autos dos Processos nºs 0000727-22.2014.5.22.0101, 0000741-06.2014.5.22.0101, 0000743-73.2014.5.22.0101 e 0000851-05.2014.5.22.0101, teriam afrontado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido na ADI nº 3.395/DF-MC e na ADC nº 4/DF-MC.
+    Reporto-me ao relatório exarado quando da análise do pedido liminar, que bem elucida os fatos:
+    “O reclamante narra que as ações trabalhistas foram ajuizadas por servidores públicos concursados, cujo vínculo com o Poder Público possui natureza estatutária, regido pela Lei Municipal nº 281/1993.
+    Sustenta que a autoridade reclamada proferiu decisão contrária ao entendimento vinculante do STF, firmado na ADC nº 3.395/DF-MC, ao assentar a competência da Justiça especializada para julgar as ações de referência.
+    Defende que a decisão reclamada vai de encontro à decisão na ADC nº 4/DF, uma vez que produz efeitos que acarretam dispêndio ao erário, em sede de antecipação dos efeitos da tutela. Nesse tocante, informa que a decisão proferida pela Vara do Trabalho de Parnaíba foi no sentido determinar “[o] arresto imediato dos cofres da Fazenda Pública Municipal do crédito salarial de natureza alimentar das partes reclamantes”.
+    O Município de Cocal requer que seja deferido o pedido de liminar para suspender os efeitos das sentenças reclamadas, presente o periculum in mora ante a iminência do cumprimento da ordem de arresto imediato dos valores nas contas do Poder Público.
+     No mérito, postula que seja julgada procedente a reclamação para anular as decisões reclamadas, reconhecendo-se a incompetência da Justiça Trabalhista.”
+    A Procuradoria-Geral da República manifestou-se pela extinção desta reclamatória, por perda superveniente de objeto ou, sucessivamente, pela improcedência do pedido, em parecer assim ementado:
+    “RECLAMAÇÃO. REFORMA DA DECISÃO RECLAMADA. PREJUDICIALIDADE. DEMANDA TRABALHISTA MOVIDA CONTRA ENTE PÚBLICO. COMPETÊNCIA MATERIAL DA JUSTIÇA DO TRABALHO. AUSÊNCIA DE PROVA DA NATUREZA ESTATUTÁRIA DO VÍNCULO. ALEGADA VIOLAÇÃO À DECISÃO PROFERIDA PELO STF NA ADI 3.395/DF. INOCORRÊNCIA.
+    1. A superveniência, na demanda originária, de julgado que reforma a decisão reclamada implica a perda de objeto da reclamação. Art. 512 do CPC/1973 e art. 1.008 do CPC/2015. Precedentes.
+    2. Não viola a decisão proferida pelo STF na ADI 3.395/DF julgado que reconhece a competência da Justiça do Trabalho para apreciar demanda que envolve a Administração Pública na hipótese em que a decisão reclamada se assenta em ausência de prova da natureza estatutária do vínculo mantido com o trabalhador contratado. Precedente.
+    3. Parecer pela extinção da reclamação sem julgamento de mérito; subsidiariamente, pela improcedência do pedido.”
+    É o relatório. Decido.
+    Em consulta ao sítio eletrônico do Tribunal Regional do Trabalho da 22ª Região, pelo número dos processos, verifico que:
+    a) Do extrato de andamento processual eletrônico, extrai-se que, em 22/8/16, exarou-se o Despacho nº 2.025/2016, por que e se determinou o envio dos autos da Reclamação Trabalhista nº 0000727-22.2014.5.22.0101 à origem para arquivamentos, ante o juízo de extinção do feito, após se reconhecer a incompetência da Justiça Especializada.
+    Essa informação vai ao encontro da notícia obtida em consulta ao sistema de acompanhamento processual e confirmada após busca no Diário de Justiça Eletrônico do TRT da 22ª Região, no sentido da extinção do processo, sem resolução do mérito, em acórdão proferido em 3/3/15 e disponibilizado em 20/3/15, conforme atestado pelo MPF em seu parecer.
+    b) na Reclamação Trabalhista nº 0000741-06.2014.5.22.0101 (ajuizada por Maria da Cruz Soares Lucena), também julgou-se extinto o feito sem julgamento de mérito, acolhendo a preliminar de incompetência da Justiça do Trabalho, em acórdão prolatado em 3/3/15 e disponibilizado o no DJe do TRT da 22ª Região de 17/3/15, conforme atestado pelo MPF em seu parecer.
+    Essa informação coincide, também, com notícia obtida após consulta ao sistema de acompanhamento processual do TRT22 pelo número da Reclamação Trabalhista nº 0000727-22.2014.22.0101, na qual se exarou o Despacho nº 2.026/2016, determinando o envio dos autos à origem para arquivamento.
+    c) na Reclamação Trabalhista nº 0000743-73.2014.5.22.0101 (ajuizada por Cleber Douglas de Pinho Alves), conforme atesta o MP, o acórdão que reconheceu a incompetência daquela Especializada foi proferido em 23/2/16 e disponibilizado no DJe de 3/3/15. O andamento processual eletrônico disponibilizado no sítio do TRT da 22ª Região informa que o recurso ordinário restou provido, com a baixa e consequente arquivamento definitivo dos autos em 1º/2/16.
+    d) na Reclamação Trabalhista nº 0000851-05.2014.5.22.0101 (ajuizada por Raimunda Maria de Jesus Oliveira), transitou em julgado o juízo de prescrição bienal do direito (art. 7º, inc. XXIX, da CF/88), com extinção do feito, em acórdão disponibilizado no DJe de 12/3/15, com a subsequente baixa e arquivamento dos autos em 15/2/16.
+    Ante a superveniência de decisões que julgaram extinto os processos reclamados - seja pelo reconhecimento da incompetência da Justiça Especializada, seja pelo reconhecimento da prescrição bienal do direito -, julgo prejudicada a presente reclamação por perda superveniente de seu objeto, nos termos do art. 21, inciso IX, do RISTF.
+    Publique-se. Int..
+    Brasília, 20 de junho de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
