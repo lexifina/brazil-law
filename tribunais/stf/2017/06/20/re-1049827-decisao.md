@@ -1,0 +1,18 @@
+DECISÃO: O presente recurso extraordinário foi interposto por Ariovaldo Assunção Gama contra acórdão que, proferido pelo E. Tribunal de Justiça do Distrito Federal e dos Territórios, está assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. CONCURSO PÚBLICO. CANDIDATO APROVADO PARA O CARGO DE TÉCNICO DE ADMINISTRAÇÃO PÚBLICA DA SECRETARIA DE GESTÃO ADMINISTRATIVA DO DF. INVESTIRURA NO CARGO DE ASSISTENTE DE SAÚDE DA SECRETARIA DE SAÚDE DO DF. POSSIBILIDADE. REGULAÇÃO NORMATIVA VIGORANTE. TERMO DE OPÇÃO. DECRETO Nº 21.688/2000. INCONSTITUCIONALIDADE. DECLARAÇÃO POSTERIOR. EFEITOS ‘EX NUNC’. MODULAÇÃO DOS EFEITOS DA DECLARAÇÃO DE INCONSTITUCIONALIADE. CABIMENTO. NORMA CONSTITUCIONAL À ÉPOCA DA POSSE DO CANDIDATO. INOBSERVÂNCIA DA ORDEM DE CLASSIFICAÇÃO DO CERTAME. NÃO DEMONSTRAÇÃO. INOCORRÊNCIA DE FATOS NOVOS APTOS A INFLUIR NO JULGAMENTO DA LIDE. DOCUMENTOS. JUNTADA. FASE POSTULATÓRIA. LEGITIMIDADE. PRESERVAÇÃO NOS AUTOS.”
+    A parte recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre salientar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado nesta sede recursal, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 9.868/99 e Decreto Distrital nº 21.688/2000), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Cabe registrar, de outro lado, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito ora deduzido, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusulas contratuais, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contêm nas Súmulas 279/STF e 454/STF.
+    É preciso destacar, finalmente, no que concerne à própria controvérsia suscitada nestes autos, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 724.152/DF, Rel. Min. LUIZ FUX – RE 980.101/DF, Rel. Min. DIAS TOFFOLI – RE 1.039.533/DF, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO NOMEADO EM CARGO DIVERSO. DECRETO N. 21.688/2000. NECESSIDADE DO REEXAME DAS PROVAS, DO EDITAL E DA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (ARE 885.081-AgR/DF, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 20 de junho de 2017.
+Ministro CELSO DE MELLO
+Relator
