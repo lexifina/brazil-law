@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu parcial provimento ao recurso da defesa somente para reduzir prazo de suspensão da habilitação para dirigir veículo automotor por dois meses, e manteve sentença que condenara ora recorrente à pena de dois anos de detenção, em regime inicial aberto, pela prática do crime previsto no art. 302 da Lei nº 9.503/1997.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 1º, III, e 5º, LV, da Constituição. Sustenta que “restou devidamente demonstrado que os argumentos invocados pelo v. Acórdão ora recorrido não se revelam aptos a afastar a violação à garantia constitucional da ampla defesa, posto que que a determinação do D. Magistrado a quo em retirar o apelante da sala de audiência, não obstante os protestos de seu defensor, para se proceder à oitiva da testemunha Tainan dos Santos Caravaca, com base em mera e lacônica assertiva de que a mesma "estava com medo de possíveis represálias" culminou por provocar a nulidade de tal ato processual, relegando-o à imprestabi1idade”.
+    O recurso extraordinário é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Para chegar a conclusão diversa do acórdão recorrido, imprescindível seria a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário. Nessa linha, veja-se o AI 790.356, Rel.ª Min.ª Cármen Lúcia, assim ementado:
+    “AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 20 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
