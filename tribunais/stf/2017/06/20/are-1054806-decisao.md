@@ -1,0 +1,18 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pela colenda Segunda Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, está assim ementado:
+    “RECURSO INOMINADO. SEGUNDA TURMA RECURSAL DA FAZENDA PÚBLICA. SERVIDOR PÚBLICO ESTADUAL. RETROAÇÃO DE PROMOÇÃO POR MERECIMENTO Á DATA DA IMPLEMENTAÇÃO DOS REQUISITOS. IMPOSSIBILIDADE.
+    Ao que se verifica do ato, foi a promoção implementada a contar da publicação, sem quaisquer efeitos retroativos à data da implementação dos requisitos para tanto. Em sendo a promoção ato discricionário, vinculado ao juízo de conveniência e oportunidade da Administração Pública, não cabe ao Poder Judiciário fazê-la retroagir, sob qualquer motivação. Sentença que vai mantida por seus próprios fundamentos.
+    NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido o preceito inscrito no art. 37, “caput”, da Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário em questão não se revela viável.
+    Cumpre ressaltar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei estadual nº 6.672/1974 e Decreto nº 34.823/93), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Observo, de outro lado, por relevante, que para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impende registrar, por necessário, que essa orientação plenária vem sendo observada em decisões que, proferidas no âmbito desta Corte, versaram questões idênticas à que ora se examina nesta sede recursal (ARE 1.043.760/RS, Rel. Min. GILMAR MENDES – ARE 1.051.806/RS, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.053.043/RS, Rel. Min. LUIZ FUX).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 20 de junho de 2017.
+Ministro CELSO DE MELLO
+Relator
