@@ -1,0 +1,25 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração, está assim ementado:
+    “DIREITO PREVIDENCIÁRIO E DO CONSUMIDOR. AÇÃO ORDINÁRIA COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. IRRESIGNAÇÃO COM O REAJUSTE DE ALÍQUOTA DE CONTRIBUIÇÃO DE PREVIDÊNCIA PRIVADA. PEDIDO DE RESSARCIMENTO DOS VALORES PAGOS A MAIOR. APLICAÇÃO DO CDC. EXEGESE DA SÚMULA Nº 321/STJ. EXISTÊNCIA DE PREVISÃO LEGAL ACERCA DA POSSIBILIDADE DE ALTERAÇÃO DO VALOR DA CONTRIBUIÇÃO. OBSERVÂNCIA DA LEI COMPLEMENTAR Nº 109/2001. OBRIGAÇÃO DE TRATO SUCESSIVO. INEXISTÊNCIA DE DIREITO ADQUIRIDO RELATIVO AO PERCENTUAL APLICADO. NECESSIDADE DE MANUTENÇÃO DO EQUILÍBRIO ECONÔMICO-FINANCEIRO E ATUARIAL DO PLANO DE BENEFÍCIOS PREVIDENCIÁRIOS. PRECEDENTES DESTA CORTE. SENTENÇA MANTIDA. CONHECIMENTO E DESPROVIMENTO DO RECURSO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cabe enfatizar, de outro lado, que o acórdão ora recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos fundando-se, ainda, para resolver o litígio, em interpretação de cláusula contratual, circunstância esta que impede o conhecimento do apelo extremo, nos termos das Súmulas 279 e 454 do Supremo Tribunal Federal.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado do Rio Grande do Norte, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de legislação infraconstitucional, em aspectos fático-probatórios e em cláusula contratual:
+    “Alega a Recorrente que a alteração da alíquota da contribuição fere o direito adquirido, entendendo que a Lei Complementar nº 109/2001 não poderia ser aplicada ao caso, vez que posterior à admissão do autor ao Plano de Previdência Privada, bem como ao aumento do percentual imposto pela ré.
+    Impende destacar o disposto no art. 42 da Lei nº 6.435/77, que dispunha sobre as entidades de previdência privada:
+    ‘Art. 42. Deverão constar dos regulamentos dos planos de benefícios, das propostas de inscrição e dos certificados dos participantes das entidades fechadas, dispositivos que indiquem:
+    (…)
+    III – normas de cálculo dos benefícios;
+    IV – sistema de revisão dos valores das contribuições e dos benefícios;’
+    Constata-se, portanto, que a norma legal que regia os planos de previdência privada à época da contratação do autor (20.03.1978) já continha hipótese de alteração nos valores de contribuições.
+    Assim sendo, o aumento da alíquota, ocorrido em 1991, de 11% (onze por cento) para 14,9% (quatorze vírgula nove por cento), discutida pelo autor, encontrava-se plenamente em sintonia com a legislação pertinente à matéria, em vigor à época dos fatos.
+    A Lei Complementar nº 109/2001, que revogou a Lei nº 6.435/77, igualmente possibilita a alteração das contribuições para promover o reajustamento das contas do plano de previdência, conforme se vê em seu art. 21:
+    ‘Art. 21. O resultado deficitário nos planos ou nas entidades fechadas será equacionado por patrocinadores, participantes e assistidos, na proporção existente entre as suas contribuições, sem prejuízo de ação regressiva contra dirigentes ou terceiros que deram causa a dano ou prejuízo à entidade de previdência complementar.
+    § 1º O equacionamento referido no caput poderá ser feito, dentre outras formas, por meio do aumento do valor das contribuições, instituição de contribuição adicional ou redução do valor dos benefícios a conceder, observadas as normas estabelecidas pelo órgão regulador e fiscalizador.’
+    …...................................................................................................
+    Imperativo reafirmar que a alteração percentual ora analisada, sobre a qual se insurge o Recorrente, encontra-se devidamente tutelada pela legislação atinente à questão, inexistindo instrumento normativo que possa referendar o pleito autoral de retorno da alíquota anterior ao reajuste efetuado em sua contribuição de previdência privada.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 20 de junho de 2017.
+Ministro CELSO DE MELLO
+Relator
