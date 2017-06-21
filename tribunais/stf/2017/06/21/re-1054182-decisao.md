@@ -1,0 +1,23 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Butzke Importacao e Exportacao Ltda. Aparelhado o recurso na afronta aos arts. 5º, LIV, 145, § 1º, 150, I e II, 154, I, 194, § 4º, e 195, §§ 12 e 13, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Inicialmente verifica-se não impugnados, de forma específica e na íntegra, os fundamentos adotados na decisão recorrida, conforme excerto a seguir:
+    “Neste feito, tem-se presente questão acerca da técnica da não-cumulatividade, que, ordinariamente, visa a evitar o pernicioso efeito da tributação em cascata, desonerando parcialmente a cadeia produtiva. Entretanto, além disso, a técnica se presta como mecanismo jurídico destinado a mitigar os encargos tributários suportados pelos agentes econômicos, que, no exercício de sua atividade, venham a executar um grande número de aquisições de bens e serviços na condição jurídica de contribuinte de fato, sofrendo, dessa forma, mais acentuadamente os reflexos da carga tributária incidente em tais operações.
+    A avaliação do uso e da contingência de tal técnica, longe de figurar como garantia constitucional do contribuinte, é fruto da escolha política do legislador tributário (conveniência e oportunidade), não cabendo ao Poder Judiciário o papel de proeminência nesse campo, pena de macular o princípio da Tripartição do Poder.
+    Certo, disso não se infira que a política legislativa adotada possa desconsiderar o sistema jurídico-constitucional, solapando as garantias do contribuinte.”
+    Aplicáveis, na hipótese, os entendimentos jurisprudenciais vertidos nas Súmulas 283 e 284/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles” e “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    De outra parte, divergir da conclusão da Corte de origem demandaria a análise prévia da legislação infraconstitucional aplicável, o que torna obliqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Cito:
+    “DIREITO TRIBUTÁRIO. CASO TÍPICO DE JULGAMENTO MONOCRÁTICO. ART. 544, § 4º, II, DO CPC. OPÇÃO DE APURAÇÃO DO IRPJ PELO LUCRO REAL/PRESUMIDO. VEDAÇÃO DE CREDITAMENTO. PIS/COFINS. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. AGRAVO IMPROVIDO. ACÓRDÃO RECORRIDO PUBLICADO 01.9.2011.
+    Caso de típico julgamento monocrático do recurso, a incidir as disposições constantes no art. 554, § 4º, II, do Código de Processo Civil.
+    A matéria sobre o regime de creditamento do PIS e da COFINS e suas eventuais vedações, em decorrência de opção pela apuração do IRPJ pelo lucro real ou presumido, não alcança status constitucional. O exame das alegadas ofensas à Constituição Federal dependeria de análise da legislação infraconstitucional aplicada à espécie (Leis 10.637/2002 e 10.833/2003), o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal.
+    Agravo regimental conhecido e não provido.” (RE 671.759-AgR, de minha lavra, 1ª Turma, DJe 26.11.2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÕES AO PROGRAMA DE INTEGRAÇÃO SOCIAL – PIS E PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS. DEDUÇÃO DE CRÉDITOS. EMPRESAS NÃO SUJEITAS AO REGIME NÃO CUMULATIVO. NECESSIDADE DE PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 640.980-AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 12.02.2014)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de junho de 2017.
+Ministra Rosa Weber
+Relatora
