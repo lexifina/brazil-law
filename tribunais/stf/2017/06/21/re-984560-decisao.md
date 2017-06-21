@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão de Tribunal de Justiça do Distrito Federal e Territórios que negou provimento a agravo. A ementa do julgado foi assim redigida: (e-DOC 2, p. 89):
+    “CONSTITUCIONAL. DEFENSORIA PÚBLICA. MODIFICAÇÕES CONSTITUCIONAIS. EMENDA À LEI ORGÂNICA 86/2015. ARBITRAMENTO DE HONORÁRIOS. POSSIBILIDADE JURÍDICA DO PEDIDO. COMPETÊNCIA. FAZENDA PÚBLICA.
+    São devidos honorários advocatícios em favor da Defensoria Pública quando a atuação se dá em face de ente federativo diverso do qual é parte integrante. O Enunciado 421 da Súmula do STJ prescreve: ‘Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público a qual pertença”. Contudo, em uma atuação como curadora especial, não cabem honorários, uma vez que essa função faz parte de suas atribuições institucionais (RESp 1203312/SP). Por fim, são devidos honorários advocatícios decorrentes da regra geral de sucumbência, conforme determina o art. 4º, XXI da LC 80/94.
+    Alguns parâmetros acerca da Defensoria Pública: (a) é ‘Concebida como um órgão público, essencial à função jurisdicional do Estado’ (SADEK); (b) a independência não retira a qualidade dos órgãos ‘representativos dos Poderes de Estado’ (MEIRELLES); (c) certa vinculação aos ‘organismos estatais e ao próprio Poder ao qual encontra-se’ (GALLIEZ) e (d) mesmo independente funcionalmente ‘a Defensoria Pública é um organismo que se situa vinculado ao Poder Executivo’ (JUNKES).
+    Em razão de se constituir órgão público distrital – a Defensoria Pública integra o aparato organizacional do Estado -, a tramitação dos autos no ilustre Juízo da Vara da Fazenda Pública não constitui ingerência indevida no estabelecimento da programação administrativa e financeira da Defensoria. Por consequência não se divisa, no caso, qualquer descumprimento ao preceito constitucional previsto no §2º do art. 134 da Constituição da República.
+    A competência para processar e julgar a ação de arbitramento de honorários em favor da Defensoria Pública da vara de Fazenda Pública, consoante preleciona o art. 26, incico I, da Lei 11.697/2008.!
+    No recurso extraordinário, com fundamento no artigo 102, III, “a”, do permissivo constitucional, aduz-se ofensa ao artigo 134, §2º, da Constituição Federal.
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nestes autos.
+    No exame do RE-RG 592.730, de relatoria do Min. Menezes Direito, DJe de 21.11.2008, (Tema 134), o Tribunal decidiu pela inexistência de repercussão geral das controvérsias que versem sobre o direito de recebimento de honorários advocatícios quando a Defensoria Pública litiga em demanda ajuizada contra o ente federativo.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 21 de junho de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
