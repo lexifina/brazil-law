@@ -1,0 +1,11 @@
+Vistos etc.
+    As matérias restaram submetidas ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 666.156-RG, RE 748.371-RG e RE 576.321-QO-RG, verbis:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA – IPTU. ALÍQUOTAS DIFERENCIADAS. IMÓVEIS RESIDENCIAIS, NÃO RESIDENCIAIS, EDIFICADOS E NÃO EDIFICADOS. PERÍODO ANTERIOR À EMENDA CONSTITUCIONAL 29/2000. Possui repercussão geral a questão constitucional atinente à possibilidade de instituir alíquotas de IPTU distintas para imóveis residenciais, não residenciais, edificados e não edificados, no período anterior à Emenda Constitucional 29/2000.” (RE 666156 RG, Rel. Min. Ayres Britto, DJe 30-03-2012)
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.” (RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013)
+    “CONSTITUCIONAL. DIREITO TRIBUTÁRIO. TAXA. SERVIÇOS DE LIMPEZA PÚBLICA. DISTINÇÃO. ELEMENTOS DA BASE DE CÁLCULO PRÓPRIA DE IMPOSTOS. AUSÊNCIA DE IDENTIDADE. ART. 145, II E § 2º, DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIAS DE MÉRITO PACIFICADAS NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE OS MESMOS TEMAS. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 256.588-ED-EDV/RJ, MIN. ELLEN GRACIE; RE 232.393/SP, CARLOS VELLOSO. II - JULGAMENTO DE MÉRITO CONFORME PRECEDENTES. III - RECURSO PROVIDO.” (RE 576321 QO-RG, Relator(a): Min. RICARDO LEWANDOWSKI, julgado em 04/12/2008, REPERCUSSÃO GERAL - MÉRITO DJe-030 DIVULG 12-02-2009 PUBLIC 13-02-2009 EMENT VOL-02348-05 PP-00976 RTFP v. 18, n. 91, 2010, p. 365-372 )
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos nos arts. 1.036 a 1.040 do CPC/2015.
+    Devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 21 de junho de 2017.
+Ministra Rosa Weber
+Relatora
