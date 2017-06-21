@@ -1,0 +1,11 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. PRESCRIÇÃO. LC 118/05. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE VERBAS INDENIZATÓRIAS. COMPENSAÇÃO.
+    Prazo prescricional. Tributo sujeito a lançamento por homologação. Marco temporal eleito pelo Supremo Tribunal Federal para aplicabilidade da LC nº 118/05. Prescrição das parcelas recolhidas há mais de cinco anos do ajuizamento. Reconhecido o direito da impetrante, o indébito pode ser objeto de compensação com parcelas relativas a tributo de mesma espécie e destinação constitucional, devidamente corrigidas pela SELIC desde a data do recolhimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, § 6º, e 195, I, da Carta. Sustenta a exigibilidade da contribuição previdenciária sobre os valores pagos a trabalhadores celetistas a título de terço constitucional de férias. Afirma que “O TRF/4ª Região aplicou ao presente feito, por analogia, a decisão proferida por esse E. Supremo Tribunal Federal, proferida nos AI n° 603.537-AgR/DF, RE 587.941 e AI n° 710.361, processos que envolviam a discussão sobre a incidência da contribuição previdenciária incidente sobre o terço constitucional de férias pago a SERVIDORES PÚBLICOS, hipótese diversa da aqui tratada, que envolve trabalhadores celetistas”.
+    Esta Corte reconheceu a repercussão geral da matéria no julgamento do RE 565.160-RG (Tema 20), porém, o acórdão ainda se encontra pendente de formalização e publicação. O recurso extraordinário paradigma discutiu o alcance da expressão folha de salários, contida no art. 195, I, da CF, além da constitucionalidade ou não do art. 22, I, da Lei nº 8.212/1991, com a redação dada pela Lei nº 9.876/1999, que instituiu contribuição social sobre o total das remunerações pagas, devidas ou creditadas a qualquer título aos empregados.
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 21 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
