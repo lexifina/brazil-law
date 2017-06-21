@@ -1,0 +1,24 @@
+Decisão:
+Ementa: Processual Penal. Habeas Corpus. Regime inicial. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Sebastião Reis Júnior, assim ementado:
+    “AGRAVO REGIMENTAL CONTRA O INDEFERIMENTO LIMINAR DE HABEAS CORPUS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PENA SUPERIOR A 4 ANOS E INFERIOR A 8 ANOS. ADEQUAÇÃO DO REGIME SEMIABERTO. ART. 33, § 2º, B, DO CP.
+    1. Inexistindo patente ilegalidade a ser reparada, não há razão para processar o habeas corpus.
+    2. Hipótese em que o regime fixado é exatamente o cabível em razão da sanção imposta, não havendo possibilidade de adoção de regime menos gravoso apenas pelo fato de serem favoráveis todas as circunstâncias judiciais.
+    3. Agravo regimental improvido.”
+    2. Extrai-se dos autos que o paciente foi condenado às penas de 2 (dois) anos de reclusão e de 3 (três) anos e 9 (nove) meses de detenção, pelos crimes previstos no artigo 1º, I, do Decreto Lei 201/67 e no artigo 89 da Lei 8.666/93, respectivamente. O Juízo de origem unificou as penas privativas de liberdade e fixou o regime inicial semiaberto.
+    3. O Tribunal Regional Federal da 3ª Região negou provimento à apelação da defesa.
+    4. Após o trânsito em julgado da condenação, foi ajuizada revisão criminal. A Corte Regional julgou “improcedentes os pedidos deduzidos na revisão”. Contudo, de ofício, decidiu “desconstituir a decisão impugnada no que tange (a) à dosimetria da pena do delito do artigo 89, da Lei n. 8.666/93, reduzindo a respectiva pena para o mínimo legal, ou seja, 3 (três) anos de detenção e 10 (dez) dias-multa; e (b) à pena de multa aplicada ao delito do artigo 1°, I, do Decreto-lei 201/67, ficando a pena pelo delito do artigo 89, da Lei n. 8.666/93, em 3 (três) anos de detenção e 10 (dez) dias-multa, no valor unitário mínimo legal, e a pena do crime do artigo 1°, I, do Decreto-Lei 201/67, em 2 (dois) anos de reclusão. Mantido, no mais, o decisum impugnado, inclusive no que diz respeito ao regime inicial de cumprimento de pena, já que a soma das penas privativas de liberdade é de 05 (cinco) anos, o que impõe a fixação do regime inicial semiaberto, nos termos do artigo 33, §2°, b, do CP”.
+    5. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 392.168, Ministro Sebastião Reis Júnior, indeferiu liminarmente o writ.
+    6. Contra essa decisão, foi interposto agravo regimental, não provido.
+    7. Neste habeas corpus, a parte impetrante sustenta a possibilidade, no caso, da imposição de regime inicial mais brando, destacando que “o estabelecimento do regime semiaberto para o paciente, considerando somente a somatória e quantificação final de sua pena, desrespeitou a aplicabilidade do parágrafo 3º do artigo 33, do Código Penal, e por via de consequência desconsiderou as circunstâncias judiciais que lhe são totalmente favoráveis”.
+    8. Com essa argumentação, requer a concessão da ordem a fim de fixar o regime inicial aberto.
+    Decido.
+    9. A Primeira Turma do Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade da impetração de habeas corpus em substituição ao recurso ordinário constitucional (HC 109.956, Rel. Min. Marco Aurélio). De modo que o processo deve ser extinto, sem resolução do mérito, por inadequação da via eleita.
+    10. Por outro lado, o caso não autoriza a concessão da ordem de ofício. Para além de observar que a parte impetrante não instruiu os autos com cópia do inteiro teor do acórdão impugnado, a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “O art. 111 da Lei de Execução Penal estabelece que, em condenação por mais de um crime, para a determinação do regime de cumprimento considera-se o resultado da soma ou unificação das penas, independentemente de serem de detenção ou reclusão”. De modo que “a soma ou unificação das penas em execução definem o regime prisional de seu cumprimento, podendo o resultado implicar a regressão” (RHC 118.626, Relª. Minª Cármen Lúcia).
+    11. Na hipótese de que se trata, a Corte Regional assentou que “a soma das penas privativas de liberdade é de 05 (cinco) anos, o que impõe a fixação do regime inicial semiaberto”. Sendo assim, o acórdão regional está alinhado com o entendimento do Supremo Tribunal Federal no sentido de que “O artigo 33, § 2º, alínea b, do Código Penal determina que ‘o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto” (HC 117.774, Rel. Min. Luiz Fux).
+    12. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 21 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
