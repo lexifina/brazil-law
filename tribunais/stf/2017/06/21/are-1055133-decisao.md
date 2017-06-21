@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 5ª Região, ementado nos seguintes termos, no que interessa:
+    “ADMINISTRATIVO. SUSPENSÃO DA INSCRIÇÃO DO MUNICÍPIO NO SIAFI E NO CAUC. ATOS IRREGULARES PRATICADOS PELO GESTOR DA MUNICIPALIDADE. RECURSOS FINANCEIROS RETIDOS. NÃO ATENDIMENTO DAS PROVIDÊNCIAS DETERMINADAS NA INSTRUÇÃO NORMATIVA Nº 01/1997, DA SECRETARIA DO TESOURO NACIONAL (...)”. (eDOC 2, p. 93)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos artigos 5º, II; e 37, caput, do texto constitucional.
+    Nas razões recursais, aponta-se ofensa ao princípio da legalidade, uma vez que foi imposto ao Município conduta não tipificada em lei.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Instrução Normativa 01/97) e o conjunto probatório constante dos autos, consignou que o Município de Primavera não faz jus à suspensão do cadastro no SIAFI e no CAUC, tampouco à liberação dos recursos provenientes dos convênios firmados. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O art. 5º, da Instrução Normativa nº 01, de 5-1-97, alterada pela IN nº 05/2001, do Ministério da Fazenda, assim dispõe:
+    (…)
+    Dos dispositivos transcritos, depreende-se que a situação de inadimplência do Município somente poderá ser afastada, com a liberação de novas transferências, se a Prefeitura tiver outro gestor que não o faltoso, e se comprovada a instauração da devida tomada de contas especial, com imediata inscrição, pela unidade de contabilidade analítica, do potencial responsável em conta de ativo ‘Diversos Responsáveis’.
+    No caso concreto, apesar da inadimplência ter sido causada pelo ex-prefeito, estando o Município sob a liderança de um outro administrador, não há comprovação de que as providências exigidas nos §§ 2º e 3º da Instrução Normativa nº 01/97 tenham sido adotadas.
+    É que não houve a comprovação de que teria sido providenciada a instauração da Tomada de Contas Especial, e que o atual Prefeito venha apresentando, semestralmente, o prosseguimento das ações adotadas para reaver a verba que teria sido desviada pelo ex-Gestor do Município.
+    A só alegação de que adotou providencias no sentido de responsabilizar o seu ex-gestor junto ao Tribunal de Contas da União, não serve para viabilizar a suspensão do registro do Município nos cadastros restritivos e a liberação de novas transferências, eis que o ‘... mero protocolamento de ações no Poder Judiciário e de representações nos órgãos de fiscalização, desacompanhado dos documentos necessários à viabilização da persecução e do efetivo acompanhamento do ente público não legitima a suspensão da situação de inadimplência. Não é incomum, e o Poder Público não pode fechar os olhos para essa situação, os atuais gestores apenas formalizarem ações e representações em face de seus antecessores, mesmo quando aliados políticos, apenas para afastar a inadimplência do ente público, viabilizando o recebimento de verbas federais’ (TRF 5ª Região, AC nº 458256- RN, Segunda Turma, julg. em 12-1-2010, DJ de 22-12010, Rel. Des. Rubens Mendonça Canuto -Convocado)
+    Os documentos lançados aos autos não evidenciam que o Município Apelante adotou as medidas cabíveis para a responsabilização do Prefeito anterior.
+    Destarte, enquanto não atendidas tais exigências, o Município Apelante não faz jus à suspensão do cadastro no SIAFI e no CAUC, nem à liberação dos recursos provenientes dos convênios firmados”. (eDOC 2, p. 89-91)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confira-se, a propósito, o seguinte julgado:
+    “Agravo regimental no recurso extraordinário. Administrativo. Exclusão de município dos cadastros do SIAFI. Requisitos da Instrução Normativa 01/97/STN. Preenchimento. Discussão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. 1. Inviável, em recurso extraordinário, a análise da legislação infraconstitucional, bem como o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido. 3. Inaplicável o art. 85, § 11, do Código de Processo Civil, haja vista que o agravado não apresentou contrarrazões”. (RE 964.313-AgR/PB, Rel. Min. Dias Toffoli, Segunda Turma, DJe 26.5.2017)
+    Cito ainda as seguintes decisões monocráticas: ARE 783.431/CE, Rel. Min. Luiz Fux, DJe 12.6.2017; ARE 967.794/SE, Rel. Min. Marco Aurélio, DJe 1º.6.2017; e o RE 1.008.809, Rel. Min. Celso de Mello, DJe 18.11.2016.
+    Ainda, anoto que o Supremo Tribunal Federal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
