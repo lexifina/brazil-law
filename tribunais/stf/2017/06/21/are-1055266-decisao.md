@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do TRF da 2ª Região, assim ementado:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. ACUMULAÇÃO DE CARGOS DA ÁREA DE SAÚDE. COMPATIBILIDADE DE HORÁRIOS COMPROVADA. DESPROVIMENTO DA APELAÇÃO E DA REMESSA NECESSÁRIA. 1. É cediço que o art. 37, XVI, “c”, da CRFB/88 excepciona a regra da inacumulabilidade de cargos ao admitir a cumulação de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas, exigindo, todavia, a compatibilidade de horários. 2. Além de inexistir sobreposição de horários, resta claro que a jornada semanal da autora nunca ultrapassa 60 (sessenta) horas, patamar que se encontra dentro dos padrões admitidos pela Administração Pública, não havendo que se falar na impossibilidade de cumulação de cargos na hipótese. 3. Acrescente-se que há intervalo interjornada mínimo de 24 (vinte e quatro) horas, superior, inclusive, às 11 (onze) horas previstas no art. 66 da CLT, bem como que a autora exerce seus 2 (dois) trabalhos de forma cumulativa por cerca de 8 (oito anos) anos, não constando dos autos qualquer indício de faltas injustificadas ou de que exerça seu labor de forma deficiente. 4. Deve-se prestigiar a sentença recorrida. 5. Apelação e remessa necessária conhecidas e desprovidas”. (eDOC 2, p. 137)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 37, XVI e XVII, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que não pode haver compatibilidade de horários entre um cargo de 40 horas e outro de 30 horas, pois a carga horária excessiva prejudica a saúde do funcionário e o bom desempenho de suas tarefas. (eDOC 3, p. 30)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou a compatibilidade de horários entre os cargos exercidos pela recorrida. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Ou seja, além de inexistir sobreposição de horários, resta claro que sua jornada semanal nunca ultrapassa 60 (sessenta) horas, patamar que se encontra dentro dos padrões admitidos pela Administração Pública, não havendo que se falar na impossibilidade de cumulação de cargos na hipótese.
+    Acrescente-se que há intervalo interjornada mínimo de 24 (vinte e quatro) horas, superior, inclusive, às 11 (onze) horas previstas no art. 66 da CLT, bem como que a autora exerce seus 2 (dois) trabalhos de forma cumulativa por cerca de 8 (oito) anos, não constando dos autos qualquer indício de faltas injustificadas ou de que exerça seu labor de forma deficiente. ”. (eDOC 2, p. 135)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS NA ÁREA DE SAÚDE. COMPATIBILIDADE DE HORÁRIO. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA”. (ARE-AgR 812.147, rel. Min. Luiz Fux, Primeira Turma, DJe 14.8.2014)
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Servidor público. Acumulação de cargos. Compatibilidade de horários. Verificação. Fatos e provas. Reexame. Impossibilidade. 1. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido.”(RE-AgR 883.732, rel. Min. Dias Toffoli, Segunda Turma, DJe 21.8.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
