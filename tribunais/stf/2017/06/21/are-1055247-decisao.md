@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “ADMINISTRATIVO. TREINADOR DE FUTEBOL. LEIS N°S 8.650/93 E 9.696/98. INSCRIÇÃO NO CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA. NÃO OBRIGATORIEDADE. AGRAVO DESPROVIDO.
+    1. Sobre a aplicação do artigo 557 do CPC, observa-se que a decisão recorrida negou seguimento ao reexame necessário e ao recurso de apelação do agravante com fundamento em entendimento escorado em precedentes do Superior Tribunal de Justiça e desta Corte, o que satisfaz a aplicação do referido dispositivo legal.
+    2. Conjugando os dispositivos das Leis n°s 8.650/93 e 9.696/98, nota-se que a expressão “preferencialmente” contida no “caput” do artigo 3° da Lei n° 8.650/1993 não obriga os treinadores e monitores de futebol a se inscrevem nos Conselhos de Educação Física, mas apenas prioriza aqueles que possuem diploma em educação física para o exercício da profissão.
+    3. Ademais, também não se extrai da Lei n° 9.696/1998 regra que determine a inscrição de treinadores de futebol nos Conselhos de Educação Física ou a obrigatoriedade de possuírem diploma de nível superior.
+    4. Os fundamentos deduzidos pela agravante não infirmam as conclusões adotadas na decisão recorrida, que deve ser mantida por seus próprios fundamentos.
+    5. Agravo desprovido. (pág. 28 do documento eletrônico 7).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação ao art. 5°, XIII, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Leis 8.650/1993 e 9.696/1998), sendo certo que eventual ofensa à Constituição seria apenas indireta. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA. OBRIGATORIEDADE DE REGISTRO. TREINADORES E MONITORES DE FUTEBOL. RESOLUÇÃO CONFEF Nº 45/2002. LEIS Nºs 9.696/1998, 8.650/1993 E 6.354/1976. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. 1. A presente causa foi decidida com base na análise de legislação infraconstitucional aplicada à espécie, hipótese que impede o processamento do recurso extraordinário. Precedentes. 2. Agravo interno a que se nega provimento” (ARE 819.631-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 04.03.2016. TREINADOR DE FUTEBOL PROFISSIONAL. REGISTRO JUNTO AOS QUADROS DO CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DO ESTADO DE SÃO PAULO. MATÉRIA INFRACONSTITUCIONAL. 1. É inviável o processamento do recurso extraordinário quando a sua análise demanda o reexame de atos normativos infraconstitucionais. Precedentes. 2. Agravo regimental a que se nega provimento” (ARE 918.180-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma).
+    “Agravo regimental no recurso extraordinário com agravo. 2. Treinadores e monitores de futebol. Necessidade de registro nos Conselhos de Educação Física. Discussão que demanda prévia interpretação da legislação infraconstitucional (Leis 8.650/1993 e 9.696/1998). Ofensa reflexa à Constituição Federal. Precedente do STF. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento” (ARE 911.552-AgR/RS, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 21 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
