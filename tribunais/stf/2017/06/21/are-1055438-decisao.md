@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “EMBARGOS DE TERCEIRO - SUCUMBÊNCIA - CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS - A imposição do ônus da sucumbência é regida pelo princípio da causalidade, de modo que, se a embargada é quem deu causa ao ajuizamento dos embargos de terceiro, deve arcar com as custas e despesas desembolsadas pela embargante, que foi obrigada a contratar advogado para impedir a expropriação de seus bens – Instituição financeira embargada que resistiu aos embargos de terceiro opostos - Leitura da Súmula 303-STJ - RECURSO DESPROVIDO”. (eDOC 1, p. 138)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao artigo 5º, LV e XLVII, b, do texto constitucional.
+    Nas razões recursais, insurge-se contra a condenação da instituição financeira no pagamento das verbas sucumbenciais.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Processo Civil) e o conjunto probatório constante dos autos, consignou que o recorrente deve arcar com as custas, despesas e honorários advocatícios da parte contrária. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Todavia, da análise do acervo probatório, o MM. Sentenciante verificou, apesar da oposição e resistência da instituição financeira, que o bem constrito constitui bem de família (fls. 79/81 e 93).
+    Logo, fica evidente que a instituição financeira, ora apelante, deu ensejo ao ajuizamento dos presentes embargos e resistiu ao pedido, devendo, pois, arcar com o ônus da sucumbência.
+    O tema, inclusive, já está pacificado na jurisprudência, com a edição da Súmula 303, do STJ: ‘Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios’.” (eDOC 1, p. 140)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas desta Corte:
+    “DIREITO CONSTITUCIONAL E DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. CONTROVÉRSIA QUE DEMANDA A ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. NÃO CARACTERIZAÇÃO. 1. A solução da controvérsia pressupõe, necessariamente, a análise de legislação infraconstitucional e o reexame dos fatos e do material probatório constantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. 2. O acórdão recorrido está devidamente fundamentado, embora em sentido contrário aos interesses da parte agravante, circunstância que não configura violação ao art. 93, IX, da CF/88. 3. Agravo regimental a que se nega provimento”. (ARE 914.239-AgR/MG, Primeira Turma, DJe 12.2.2016)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. 1. ISENÇÃO DE CUSTAS PROCESSUAIS. MATÉRIA INFRACONSTITUCIONAL. 2. AUSÊNCIA DE REPERCUSSÃO GERAL. 3. FALTA DE PREQUESTIONAMENTO. 1. Entendimento diverso do adotado pela instância judicante de origem exigiria a análise da legislação estadual. Providência vedada neste momento processual. 2. De mais a mais, o Plenário virtual do Supremo Tribunal Federal, ao apreciar o AI 826.496, sob a relatoria do ministro Gilmar Mendes, assentou a ausência de repercussão geral do tema versado nestes autos, por não tratar de matéria constitucional. 3. Incidência da Súmula 282/STF 4. Agravo regimental desprovido”. (AI 808.055-AgR/RS, Rel. Min. Ayres Britto, Segunda Turma, DJe 30.8.2011)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
