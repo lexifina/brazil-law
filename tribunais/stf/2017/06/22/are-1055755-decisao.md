@@ -1,0 +1,23 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 5ª Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “APELAÇÃO. EXECUÇÃO FISCAL. FGTS. PRESCRIÇÃO. PRAZOS. PRESCRIÇÃO ANTES DO INÍCIO DA AÇÃO. PRESCRIÇÃO INTERCORRENTE. INÉRCIA. PRESSUPOSTO. RECURSO PROVIDO.
+    1. Prazo prescricional. O STF pacificou o entendimento de que as contribuições para o FGTS estão sujeitas ao prazo trintenário, mesmo as relativas ao período anterior à EC n.° 08/77. Não aplicação do ARE 709.212. Efeitos prospectivos.
+    2. Nos termos do artigo 8°,§2° da Lei 6830/80, o despacho do juiz que ordena a citação interrompe o lapso prescricional.
+    3. Prescrição Intercorrente. Artigo 40 e §4° Lei 6830/80. Prazo Trintenário. Inércia como pressuposto para caracterização;
+    4. Ausência de decurso do prazo trintenário
+    5. Apelação provida.”
+    No recurso extraordinário, sustenta-se violação do artigo 5º, incisos XXXV, LV, LXXVIII, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Ademais, ressalte-se que esta Suprema Corte consolidou o entendimento de que a questão relativa à incidência da prescrição está restrita à interpretação da legislação infraconstitucional pertinente e ao exame das provas dos autos, operações vedadas em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636 desta Corte. Sobre o tema:
+    “Agravo regimental no agravo de instrumento. Prequestionamento. Ausência. Prescrição. Legislação infraconstitucional. Impossibilidade de análise. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356 desta Corte. 2. Para ultrapassar o entendimento firmado pelo Tribunal de origem quanto à questão relativa à incidência da prescrição, seria necessário interpretar a legislação infraconstitucional. Incidência da Súmula nº 279 do Supremo Tribunal Federal. 3. Agravo regimental não provido” (AI nº 807.332/SP-AgR, Primeira Turma, de minha relatoria, DJe de 9/11/12).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 2. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 3. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 4. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI nº 719.749/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 14/5/10).
+    Registre-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 22 de junho de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
