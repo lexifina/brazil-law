@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado Estado da Bahia, assim ementado:
+    “APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. RECURSO DEFENSIVO. PLEITO ABSOLUTÓRIO POR INSUFICIÊNCIA DE PROVAS. INADMISSIBILIDADE. MATERIALIDADE DO FATO E AUTORIA DELITIVA COMPROVADAS. DEPOIMENTOS POLICIAIS HARMÔNICOS E COERENTES, DEVIDAMENTE CORROBORADOS POR OUTROS ELEMENTOS DE PROVAS CARREADOS AOS AUTOS TAIS COMO LAUDOS PERICIAIS E AUTO DE EXIBIÇÃO E APREENSÃO. DESCLASSIFICAÇÃO PARA ART. 28 DA LEI 11.343/06. DESCABIMENTO. RECURSO CONHECIDO E DESPROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, LVII, da Constituição. Afirma que “frente à evidente insuficiência de provas a justificar uma condenação criminal, que exige, como se sabe, certeza inconteste da autoria e materialidade delitivas, vez que o Órgão Acusador não se desincumbiu, devidamente, do ônus de demonstrar a sua imputação - em claro desrespeito ao comando do art. 156 do CPP - imperiosa a absolvição do réu”.
+    O recurso é inadmissível, tendo em vista que a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão recorrido:
+    “[...]
+    Compulsando detidamente os fólios, constata-se que a autoria e a materialidade delitiva revelam-se incontestes, devendo ser afastada a irresignação da Defesa, uma vez que a sentença recorrida encontra respaldo no arcabouço probatório colacionado, mostrando-se, portanto, harmônica com o ordenamento pátrio, senão vejamos.
+    A materialidade do fato restou sobejamente comprovada, conforme se depreende do auto de exibição e apreensão (f. 16), laudo de constatação preliminar (f. 35) e laudo de exame pericial definitivo (f. 54/55), os quais atestam que foram apreendidos cerca de 4,28g (quatro gramas e vinte e oito centigramas), distribuídos em cinco porções, de cannabis sativa; 21,56g (vinte e um gramas e cinquenta e seis centigramas) de “cocaína”, sob a forma de pedras, distribuída em noventa e oito porções embaladas individualmente em pedaços de plástico incolor, e 25g (vinte e cinco gramas) de “cocaína” na forma de pó, distribuída em sessenta e uma porções, embaladas individualmente em pedaços de plástico incolor.
+    Relativamente à autoria delitiva, em que pese a tese de negativa sustentada pelo recorrente, constam dos autos elementos probatórios suficientes à manutenção do édito condenatório, não merecendo, também neste aspecto, qualquer reforma a sentença recorrida, uma vez que devidamente fundamentada.
+    […]
+    Com efeito, apesar do acusado ter negado em Juízo a prática do crime de tráfico imputado na denúncia, alegando que no momento da abordagem nada foi encontrado com ele, os elementos dos autos evidenciam a discrepância da versão apresentada, razão pela qual não há falar em insuficiência de provas, tampouco que a sentença recorrida baseou-se em ilações e deduções, ou em depoimentos contraditórios - o que, de fato, não ocorreu -, a indicar inexistência de comprovação inequívoca, tal como exigido no ordenamento jurídico pátrio em matéria penal.
+    Houve, assim, material probandi apto à condenação do réu, restando a autoria e a materialidade da prática do crime de tráfico de drogas comprovadas, não podendo ser acolhido o pleito de desclassificação para o art. 28 da lei 11.343/2006.
+    […].”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
