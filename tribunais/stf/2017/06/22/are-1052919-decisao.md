@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, alterou o regime inicialmente fechado para o semi aberto e substituiu a pena privativa de liberdade por uma restritiva de direitos, considerada a prática do crime de tráfico ilícito de entorpecentes, previsto no artigo 33 da Lei nº 11.343/06. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 1º, inciso III, e 5º, cabeça, da Constituição Federal. Diz contrariados os princípios da dignidade da pessoa humana e da isonomia. Argui a falta de fundamentação no tocante à não aplicação do regime aberto.
+    2. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Primeiramente, as exitosas incursões recursais do patrono com o pedido de fixação do regime aberto foram demonstradas por meio da petição avulsa de fls. 170/171 em momento posterior ao do recurso de apelação. Ocorreu, portanto, a preclusão consumativa. Ainda que se receba e analise a petição em homenagem ao princípio da ampla defesa, esta Colenda não está obrigada a analisar teses e pedidos formulados a destempo.
+    Cingindo a análise dos presentes embargos ao quanto alegado em recurso de apelação, verifica-se que o embargante, em primeira instância, foi condenado a cumprir sua pena em regime fechado. Formulado pedido de cumprimento em regime aberto, foi este parcial e fundamentadamente acolhido para fixar o regime semiaberto.
+    […]
+    É evidente que, fundamentado o regime semiaberto, está, tacitamente, afastado quaisquer outros.
+    Logo, o acórdão aplicou disposições legais cabíveis e analisou criteriosamente as provas, inexistindo contrariedade ou violação a qualquer dispositivo legal, ou omissões.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    No mais, no tocante ao regime de cumprimento da pena, o acórdão recorrido está em consonância com entendimento do Supremo proferido pelo Pleno no habeas corpus nº 111.840/ES, porquanto não implicou imposição de regime inicial semi aberto em decorrência da hediondez do delito, procedendo a julgamento fundamentado de forma consentânea com a ordem jurídica, versando, detalhadamente, sobre as razões pelas quais afastou o pedido de alteração para o regime aberto.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 22 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
