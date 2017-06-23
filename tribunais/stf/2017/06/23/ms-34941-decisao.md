@@ -1,0 +1,19 @@
+Decisão: Trata-se de mandado de segurança interposto por Inês Thomé Poldi Taddei em face de ato do Presidente do Conselho Nacional do Ministério Público que, nos autos do processo autuado sob n. 1.00443/2015-76 aplicou-lhe a penalidade de advertência.
+    Narra a impetrante que, por meio da Portaria n. 173/2015, foi instaurado monocraticamente pelo Corregedor Nacional processo administrativo disciplinar tendente a apurar irregularidades em processos extrajudiciais que estavam sob sua responsabilidade. O processo foi, então, distribuído a um relator escolhido entre os membros do Conselho Nacional que, por não vislumbrar ilegalidade em algumas das imputações, delimitou o objeto da acusação. Levado o feito ao Plenário do Conselho, foi aplicada à impetrante a penalidade de advertência.
+    Na inicial, alega-se a nulidade da portaria de instauração que foi monocraticamente aprovada pelo Relator e não foi referendada pelo Plenário do Conselho. Defende-se que somente o Plenário, por disposição constitucional, detém competência para a instauração de processo disciplinar contra membro do Ministério Público, interpretação que, por analogia, é consagrada no âmbito do Conselho Nacional de Justiça. Aduz-se que o fundamento jurídico invocado pelo Corregedor Nacional foi suspenso por decisão liminar na ADI n. 5.125, sob relatoria do Min. Gilmar Mendes. Assim, no entender da impetrante, o ato de instauração seria nulo, não podendo produzir efeitos a condenação posteriormente verificada.
+    Com base nesses argumentos, requer, em sede de liminar, a suspensão dos efeitos do ato que inaugurou monocraticamente a suspensão da pena de advertência averbada em sua ficha funcional até o julgamento definitivo do mandado de segurança e, no mérito, a anulação do procedimento.
+    É, em síntese, o relatório. Decido.
+    Em sede de liminar em mandado de segurança, é preciso que, em suas razões, o impetrante demonstre fundamento relevante e que comprove que o ato impugnado pode implicar a ineficácia do provimento jurisdicional, caso somente ao fim seja deferida a segurança pleiteada.
+    Em que pesem as razões apresentadas, o mandado de segurança não reúne condições para ter seguimento.
+    Isso porque a impetrante já ajuizou mandado de segurança com o objetivo de desconstituir precisamente a decisão proferida no processo 1.00443/2015-76 que lhe aplicou a penalidade de advertência. Autuado sob n. 34.587 e distribuído a este Relator, o mandado de segurança está com vistas à Procuradoria-Geral da República.
+    A reprodução de ação ainda em curso configura, nos termos do art. 337, § 3º, do Código de Processo Civil, litispendência, o que implica o indeferimento da inicial sem julgamento de mérito.
+    Ainda que se alegue que há novos argumentos ventilados nesta ação mandamental, à luz da decisão liminar proferida na ADI n. 5.125, os argumentos apresentados foram trazidos após o transcurso do prazo decadencial.
+    Com efeito, o direito de requerer mandado de segurança extingue-se após o transcurso do prazo decadencial de 120 (cento e vinte) dias, conforme preceitua o art. 23 da Lei 12.016/2009.
+    In casu, a decisão que se objetiva desconstituir transitou em julgado em 10.01.2017 (eDOC 25, p. 1). O prazo para ajuizar o mandado de segurança encerrou-se em 10.05.2017. Assim, tendo sido autuado em 22.06.2017, é forçoso reconhecer a decadência do direito de impetrar a ação constitucional.
+    Assim, seja pela litispendência, seja pela decadência, não reúne condições o presente mandado de segurança para ter seguimento.
+    Ante o exposto, com fundamento nos arts. 332, § 1º, do Código de Processo Civil e 21, § 1º, do RISTF, nego seguimento ao presente mandado de segurança, prejudicado o pedido de liminar.
+    Publique-se. Intime-se.
+    Brasília, 23 de junho de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
