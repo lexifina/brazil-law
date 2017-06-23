@@ -1,0 +1,22 @@
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por Sankhya Tecnologia em Sistemas Ltda. e outros, contra ato do Presidente da República, consubstanciado na edição da Medida Provisória 774/2017.
+    As impetrantes, em síntese, sustentam que o ato normativo atacado feriu direito líquido e certo à manutenção da contribuição previdenciária pela receita bruta durante todo o ano calendário, com amparo no art. 9°, § 13, da Lei 12.546/2011,
+    “[...] por meio do qual a opção pela tributação substitutiva prevista nos artigos 7° e 8° da referida lei, será manifestada mediante o pagamento da contribuição incidente sobre a receita bruta relativa a janeiro de cada ano, ou à primeira competência subsequente para a qual haja receita bruta apurada, e será irretratável para todo o ano calendário” (pág. 3 do documento eletrônico 1).
+    Ao final, requerem que seja deferida a liminar para suspender os efeitos da MP 774/2017. No mérito, pedem concessão da ordem, com a confirmação da liminar.
+    É o relatório suficiente. Decido.
+    Bem examinados os autos, constato a existência de óbice intransponível ao conhecimento deste mandado de segurança, tendo em vista que o ato atacado, de caráter geral e abstrato, possui força de lei, nos termos do art. 62, caput, da Constituição Federal.
+    Assim, pretendem as impetrantes, na verdade, discutir a própria constitucionalidade da MP 774/2017, o que é vedado nessa via, a teor da Súmula 266 do STF, verbis: “Não cabe mandado de segurança contra lei em tese”.
+    A propósito, transcrevo acórdãos de ambas as Turmas desta Suprema Corte, os quais corroboram o entendimento consolidado no enunciado súmula supramencionado:
+    MANDADO DE SEGURANÇA. Lei em tese. Inadmissibilidade. Impetração contra Medida Provisória. Criação do PROUNI. Alegação de inconstitucionalidade. Necessidade de adesão ao Programa para obtenção de isenção ou imunidade tributária. Efeito concreto dependente de cadeia de atos administrativos por praticar em diversas esferas de competência. Justo receio inexistente. Caráter preventivo não caracterizado. Processo extinto, sem julgamento de mérito. Improvimento liminar do recurso ordinário. Agravo regimental improvido. Aplicação da súmula 266. Não cabe mandado de segurança contra lei em tese, nem sequer sob alegação de caráter preventivo, quando não tenha sido praticado nenhum ato suscetível de induzir receio fundado de lesão a direito subjetivo” (RMS 25473 AgR/DF, Rel. Min. Cezar Peluso; grifei).
+    “AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ATO COATOR. MEDIDA PROVISÓRIA. REFORMA DO ENSINO MÉDIO. IMPOSSIBILIDADE. GENERALIDADE, ABSTRAÇÃO E IMPESSOALIDADE. AUSÊNCIA DE EFEITOS CONCRETOS. LEI EM TESE. INADEQUAÇÃO DA VIA ELEITA. SÚMULA 266 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE LEGITIMIDADE ATIVA AD CAUSAM. PEDIDO DE TUTELA DE DIREITOS OBJETIVOS. INVIABILIDADE. WRIT NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A lei em tese, como norma abstrata de conduta, não lesa qualquer direito individual, razão pela qual, na forma da Súmula 266 do Supremo Tribunal Federal, não é passível de impugnação por mandado de segurança.
+    2. O mandado de segurança não pode ser utilizado como mecanismo de controle abstrato da validade constitucional das leis e dos atos normativos em geral, posto não ser sucedâneo da ação direta de inconstitucionalidade. Precedentes: MS 32.809 AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 30.10.2014; MS 25.456 AgR, Rel. Min. Cezar Peluso, Tribunal Pleno, DJ 09.12.2005.
+    [...]
+    4. In casu, a Medida Provisória 746/2016, ao propor mudanças no currículo escolar do Ensino Médio no Brasil, fixou, por norma geral, impessoal e abstrata, a procedimentalização da reforma de políticas de ensino e os efeitos mediatos dela decorrentes.
+    5. A norma impugnada, de alcance genérico, torna as eventuais ofensas ao impetrante meramente indiretas, descaracterizando coação possível de ser amparada pela via do mandado de segurança.
+    6. Agravo regimental a que se NEGA PROVIMENTO” (MS 34.432 AgR/DF, Rel. Min. Luiz Fux; Grifei).
+    Por todas essas razões, é de rigor a extinção do feito em virtude da jurisprudência cristalizada nesta Suprema Corte quanto ao tema de fundo, que impede o cabimento da ação mandamental contra lei em tese.
+    Isso posto, nego seguimento ao writ (art. 21, § 1°, RISTF). Prejudicado, pois, o exame do pedido liminar.
+    Publique-se.
+    Brasília, 23 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
