@@ -1,0 +1,22 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, com a seguinte ementa (fl. 28, Vol. 3) :
+    PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DIFERENÇAS SALARIAIS RECONHECIDAS EM RECLAMATÓRIA TRABALHISTA NÃO INTEGRADA PELO INSS.
+    1. O êxito do segurado em reclamatória trabalhista, no que pertine ao reconhecimento de diferenças salariais, lhe atribui o direito de postular a revisão dos salários de contribuição componentes do período básico de cálculo do benefício, os quais, por conseqüência, acarretarão novo salário de benefício, sendo irrelevante o fato de o INSS não ter participado da lide trabalhista.
+    2. Tratando-se de empregado, é ônus do empregador o recolhimento das contribuições pertinentes.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, o recorrente sustenta, em síntese, que o julgado ofendeu os arts. 5º, XXXVI, e 201, § 1º, da Constituição Federal.
+    A decisão agravada tem por fundamento a incidência da Súmula 284 desta Corte.
+    No agravo, a parte agravante sustenta, em síntese, que a despeito do entendimento formulado na decisão agravada, no presente processo, discute-se sobre os efeitos da decadência, sendo exatamente esta a matéria versada no recurso extraordinário. No mais, repisa as alegações de mérito do recurso extraordinário.
+    É o relatório. Decido.
+    O Juízo de origem, ao apreciar a controvérsia, concluiu que não houve a decadência do direito da parte recorrida nos seguintes termos a seguir citados (vol. 3, fl. 15):
+    No caso dos autos, por outro lado, o segurado objetiva a inclusão de diferenças de verbas trabalhistas em seus salários-de-contribuição, integrantes do período básico de cálculo, que não foram requeridos e/ou analisados por ocasião do requerimento administrativo de concessão do benefício de aposentadoria. Assim, não há falar em decadência, como visto, porquanto se trata de algo não requerido, não analisado na ocasião do requerimento do benefício na via administrativa, sem pronunciamento algum naquela esfera.
+    A discussão pode ser sintetizada no seguinte raciocínio: o que ainda não foi apreciado, sequer pode ser revisado. Logo, como a discussão em tela trata de reconhecimento de direito não requerido expressamente ou analisado na DER e, por consequência, não apreciado pelo INSS, configurado-se, assim, direito novo, não estaria abrangida pela decadência do art. 103 da Lei 8.213/91.
+    Assim, trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição indicadas no recurso extraordinário são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. Nesse sentido:
+    Agravo regimental no recurso extraordinário com agravo. Direito Previdenciário. Revisão de benefício. Decadência. RE nº 626.489/SE-RG. Repercussão geral reconhecida. Inaplicabilidade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inviável, em recurso extraordinário, a interpretação da legislação infraconstitucional, bem como o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido. (ARE 910.691-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 7/3/2016)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. INÍCIO DA CONTAGEM DO PRAZO DECADENCIAL. SÚMULA/STF 279. HONORÁRIOS NÃO FIXADOS PELA ORIGEM. MAJORAÇÃO DESCABIDA. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – A discussão em torno do início do prazo decadencial para revisão de benefício previdenciário implica rever fatos e provas, o que é inviável ante a incidência da Súmula/STF 279. II – Incabível a majoração de honorários, uma vez que não foram fixados pelo juízo de origem. III – Agravo regimental a que se nega provimento, com prevista no art. 1.021, § 4º, do CPC. (RE 982.350-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 21/4/2017)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 23 de junho de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
