@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, tendo em vista a incidência das Súmulas 280 e 282 do Supremo Tribunal Federal.
+    O agravo não merece acolhida, dado que a recorrente deixou de atacar os fundamentos da decisão agravada – limitando-se a transcrever as razões do recurso extraordinário, sem, contudo, desenvolver argumentação autônoma destinada a refutar a decisão que inadmitiu o apelo extremo –, o que atrai a incidência da Súmula 287/STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma – grifei).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma – grifei).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    Ademais, os dispositivos constitucionais arguidos no apelo extremo, ressalvados os arts. 40, § 12, e 24, § 4°, da Lei Maior, não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Além disso, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356/STF.
+    Outrossim, para dissentir do acórdão recorrido, conforme assinalado na decisão agravada, seria necessário o reexame do conjunto fático-probatório dos autos e das normas locais pertinentes ao caso, o que é vedado pelas Súmulas 279 e 280 do Supremo Tribunal Federal.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
