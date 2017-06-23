@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Primeira Turma Recursal dos Juizados Especiais Federais do Estado de São Paulo, que manteve sentença que extinguira o processo sem resolução de mérito, nos termos do art. 267, I, do CPC/1973. Na hipótese, o juízo de primeiro grau entendeu que a parte autora não tem interesse de agir na demanda, uma vez que não comprovou a formulação de prévio requerimento administrativo junto ao Instituto Nacional do Seguro Social – INSS, com vistas à obtenção da retroação da data de início de benefício (DIB), de sua aposentadoria por idade, de 12.07.2011 para 27.09.2007. Veja-se, o seguinte trecho condutor da sentença:
+    “[...]
+    É descabida qualquer alegação de que não foi permitido o requerimento de aposentadoria por idade na época, haja vista que segundo documentos anexado aos autos houve o requerimento de benefício assistencial - LOAS idoso, o qual lhe foi deferido com DIB em 27/09/2007.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, III; 5º, XXXV, XXXVI, LIV e LV; 37 e 201, I, § 7º, II, todos da Constituição. Afirma que, “em 27/08/2007, data em que completou a idade de 65 (sessenta e cinco) anos, ou seja, antes da data do requerimento do beneficio previdenciário, 27/09/2007, o direito ao benefício aposentadoria por idade já estava incorporado ao patrimônio do Recorrente”
+    A Turma de origem, em juízo de retratação (art. 543-B, § 3º, do CPC/1973), manteve a decisão recorrida, sob o seguinte fundamento:
+    “[...]
+    No presente feito não houve apresentação de defesa de mérito, caso em que as regras de transição do RE 631240 estabeleceram providências que, dada a sua natureza saneadora, devem ser tomadas initio lites, o que inviabiliza a sua aplicação aos processos que já se encontravam sentenciados no momento da publicação do acórdão que julgou a questão pelo STF. Nestes casos, entende-se, então, que as regras de transição apenas devem ser aplicadas enquanto não proferida sentença no feito.
+    Ante o exposto, deixo de exercer o juízo de retratação, por entender que a decisão recorrida está em consonância com o entendimento firmado pelo E. STF no Recurso Extraordinário nº 631.240.”
+    O recurso extraordinário deve ser parcialmente provido. O Plenário do Supremo Tribunal Federal, ao apreciar o mérito do RE 631.240-RG, sob a sistemática da repercussão geral, concluiu pela necessidade de prévio requerimento administrativo quando se tratar de pedido de concessão de benefício previdenciário. Entretanto, no presente caso, a discussão limita-se à revisão da data de início de benefício previdenciário já concedido, matéria que dispensa formulação prévia de requerimento administrativo, conforme orientação desta Corte. Confira-se, nesse sentido, a seguinte passagem da ementa do RE 631.240-RG:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. PRÉVIO REQUERIMENTO ADMINISTRATIVO E INTERESSE EM AGIR.
+    [...]
+    4. Na hipótese de pretensão de revisão, restabelecimento ou manutenção de benefício anteriormente concedido, considerando que o INSS tem o dever legal de conceder a prestação mais vantajosa possível, o pedido poderá ser formulado diretamente em juízo – salvo se depender da análise de matéria de fato ainda não levada ao conhecimento da Administração –, uma vez que, nesses casos, a conduta do INSS já configura o não acolhimento ao menos tácito da pretensão.
+    […].”
+    Diante do exposto, com base nos arts. 21, § 2º, e 328, parágrafo único, do RI/STF, dou parcial provimento ao recurso, tão somente para determinar às instâncias de origem que aprecie novamente o feito, sem levar em consideração exigência de prévio requerimento administrativo junto ao Instituto Nacional do Seguro Social – INSS.
+    Publique-se.
+          Brasília, 23 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
