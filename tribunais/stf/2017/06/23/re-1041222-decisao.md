@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recurso extraordinário interposto pelo Município de Monte Alegre contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de Sergipe, está assim ementado:
+    “Apelação Cível – Município de Monte Alegre de Sergipe – PSDI – Programa Sergipano de Desenvolvimento Industrial – ICMS – Incidente de Inconstitucionalidade que tramitou junto ao Pleno desta Corte de Justiça (Processo nº 201100103795) – Constitucionalidade declarada do Art. 3º da Lei Estadual nº 3.140/91 – Manutenção da Sentença Monocrática que julgou improcedente a demanda originária. Recurso conhecido e improvido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 158, IV, e 160 da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional assemelhada à versada na presente causa, julgou o  RE 705.423-RG/SE, Rel. Min. EDSON FACHIN, nele fixando tese assim consubstanciada:
+    “É constitucional a concessão regular de incetivos, benefícios e isenções fiscais relativos ao Imposto de Renda e Imposto sobre Produtos Industrializados por parte da União em relação ao Fundo de Participação de Municípios e respectivas quotas devidas às Municipalidades.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Observo, ainda, que a douta Procuradoria-Geral da República, ao opinar nesta causa, manifestou-se contrariamente à parte ora recorrente, apoiando-se, para tanto, em fundamentos evidenciadores da inviabilidade do recurso extraordinário em questão, em parecer assim ementado:
+    “Recurso extraordinário. Repartição de receitas. Constitucionalidade do Programa Sergipano de Desenvolvimento Industrial, instituído pela Lei estadual nº 3.140/91. A repartição de receitas tributárias deve levar em conta o produto efetivamente arrecadado. Evolução na jurisprudência do STF. Parecer pelo desprovimento do recurso.”
+    Sendo assim, tendo em consideração as razões expostas, e considerando, ainda, a existência de precedente específico sobre a matéria em análise (RE 904.155/SE, Rel. Min. MARCO AURÉLIO), nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 23 de junho de 2017.
+Ministro CELSO DE MELLO
+Relator
