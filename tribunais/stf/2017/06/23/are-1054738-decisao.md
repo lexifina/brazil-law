@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXXV, e 127 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A Corte de origem decidiu a controvérsia em acórdão assim ementado (fl. 231, vol. 2):
+    “PROCESSUAL CIVIL. AGRAVO EM AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE EM EXECUÇÃO DE SENTENÇA - REAJUSTE DAS TABELAS DO SUS. PRECLUSÃO DO QUESTIONAMENTO VERTIDO NA EXCEÇÃO DE PRÉ-EXECUTIVIDADE - INOCORRÊNCIA. OFENSA À COISA JULGADA - INEXISTÊNCIA - OBSERVÂNCIA AOS ESTRITOS LIMITES DO TÍTULO EXECUTIVO - MATÉRIA COGNOSCÍVEL DE OFÍCIO. IMPROVIMENTO DO RECURSO EM SEDE MONOCRÁTICA. AGRAVO - INSUFICIENTE COMBATE AOS FUNDAMENTOS DECISÓRIOS. PREQUESTIONAMENTO.
+    Agravo improvido”.
+    Divergir da conclusão da Corte de origem demandaria a análise da legislação infraconstitucional apontada no apelo extremo, bem como o revolvimento do conjunto fático delineado, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Processual civil. Execução de sentença. Exceção de pré-executividade. Coisa julgada. Preclusão. Fundamento não impugnado no recurso extraordinário. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. 1. Existência de fundamento adotado no acórdão recorrido não impugnado no recurso extraordinário. Incide a orientação da Súmula nº 283/STF. 2. A discussão acerca da ocorrência ou não da preclusão não prescinde do exame do conjunto fático-probatório da causa (Súmula nº 279/STF), nem da análise da legislação infraconstitucional, o que é inviável em recurso extraordinário. 3. O conteúdo material dos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada, considerados de forma isolada, não se encontra na Constituição Federal, mas sim na legislação ordinária (Lei de Introdução ao Código Civil, art. 6º). 4. Agravo regimental não provido. 5. Inaplicável o art. 85, § 11, do CPC, pois não houve fixação prévia de honorários advocatícios na causa”. (ARE 989364 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 16/12/2016, PROCESSO ELETRÔNICO DJe-040 DIVULG 02-03-2017 PUBLIC 03-03-2017).
+    Ademais, esta Suprema Corte já se manifestou pela inexistência de repercussão geral da controvérsia referente ao Tema nº 234 – reajuste das tabelas dos serviços prestados ao SUS – no RE nº 602.324, Rel. Min. Ellen Gracie, DJe 18.12.09, reconhecendo sua natureza infraconstitucional, verbis:
+    “TABELAS DOS SERVIÇOS PRESTADOS PELO SISTEMA ÚNICO DE SAÚDE - SUS. PLANO REAL. CORREÇÃO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de junho de 2017.
+Ministra Rosa Weber
+Relatora
