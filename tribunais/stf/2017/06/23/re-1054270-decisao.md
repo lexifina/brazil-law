@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado de Sergipe. Aparelhado o recurso na afronta ao art. 37, § 6°, da Carta Magna.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local (Lei complementar estadual 16/94 e Lei estadual 2.148/77) apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “ PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. SERVIDOR PÚBLICO APOSENTADO. LICENÇA PRÊMIO EM PECÚNIA. ANÁLISE DE DIREITO LOCAL. LEI COMPLEMENTAR 1.059/2008, DO ESTADO DE SÃO PAULO. INVIABILIDADE. SÚMULA 280/STF. NATUREZA DA VERBA. EXAME DE MATÉRIA INFRACONSTITUCIONAL. VIOLAÇÃO CONSTITUCIONAL REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.(ARE 823297 AgR, Relato: Min. Teori Zavascki, 2ª Turma, DJe 08.10.2014)”.
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. POLÍCIA CIVIL. CONVERSÃO EM PECÚNIA DA LICENÇA PRÊMIO NÃO GOZADA. LEIS 197/1991, 9.527/1997 E 8.112/1990. NECESSIDADE DA REAPRECIAÇÃO DE NORMA INFRACONSTITUCIONAL. ART. 21 XXIV DA CF. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA 282/STF. HONORÁRIOS INCABÍVEIS EM MANDADO DE SEGURANÇA. MAJORAÇÃO DESCABIDA. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - Para divergir da conclusão adotada pelo acórdão recorrido, seria necessário, a realização de nova interpretação da legislação infraconstitucional aplicável ao caso (Leis 197/1991, 9.527/1997 e 8.112/1990), circunstância que torna inviável o recurso ou porque a afronta à Constituição, se ocorrente, seria indireta . Precedentes. II - Ausência de prequestionamento do art. 21, XXIV da CF. Incidência da Súmula 282/STF. III - Incabível a majoração dos honorários advocatícios por tratar-se, na origem, de mandado de segurança. IV - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC.(ARE 942038 AgR, Relator: Min. Ricardo Lewandowski, 2ª Turma, DJe 08.05.2017)”.
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de junho de 2017.
+Ministra Rosa Weber
+Relatora
