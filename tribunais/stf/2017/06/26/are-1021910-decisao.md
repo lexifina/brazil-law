@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. PROCESSO SELETIVO PARA PRESTAÇÃO DE SERVIÇO MILITAR TEMPORÁRIO. ADOÇÃO DE CRITÉRIOS OBJETIVOS E IMPESSOAIS, MEDIANTE A APLICAÇÃO DE PROVAS OU DE PROVAS E TÍTULOS (CF, ART. 37, INCISO II, C/C O ART. 142, INCISO VIII). PREVALÊNCIA DOS PRINCÍPIOS DA LEGALIDADE, IMPESSOALIDADE, MORALIDADE, PUBLICIDADE E EFICIÊNCIA (CF, ART. 37, CAPUT). POSSIBILIDADE.
+    I - Nos termos do art. 142, inciso VIII, da Constituição Federal ‘aplica-se aos militares o disposto no art. 7º, incisos VIII, XII, XVII, XVIII, XIX e XXV, e no art. 37, incisos XI, XIII, XIV e XV, bem como, na forma da lei e com prevalência da atividade militar, no art. 37, inciso XVI, alínea ‘c’, razão por que os processos seletivos para prestação do serviço militar temporário sujeitam-se às normas do art. 37, caput, e respectivo inciso II, da Carta Magna, mediante a adoção de avaliação por provas escritas, ou provas escritas e títulos, ou alternativamente, mediante processo simplificado, com prévia divulgação das regras de regência, em que se contemple a aplicação de prova escrita, abordando conteúdo previamente estabelecido, bem assim, a possibilidade de recurso e acesso dos candidatos às provas, após a sua correção.
+    II - Desprovimento da apelação e da remessa oficial. Sentença confirmada.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, II, e 142, § 3º, VIII, da Constituição.
+    O Subprocurador-Geral da República Odim Brandão Ferreira opinou pelo não conhecimento do recurso.
+    O recurso é inadmissível. A parte recorrente limitou-se a defender a não incidência da regra do concurso público para o ingresso no serviço militar temporário e não rebateu o fundamento utilizado pela Tribunal de origem, que decidiu positivamente pela adoção de critérios objetivos e claros de avaliação, como a aplicação de prova escrita, tendo em vista a necessidade de obediência da Marinha aos princípios gerais que regem a Administração Pública. Portanto, o acórdão recorrido permanece incólume quanto ao ponto, o que atrai a incidência da Súmula 283/STF:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (arts. 17 e 18 da Lei nº 7.347/1985).
+    Publique-se.
+          Brasília, 26 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
