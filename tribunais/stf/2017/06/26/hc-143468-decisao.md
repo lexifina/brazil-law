@@ -1,0 +1,35 @@
+Decisão: Trata-se de habeas corpus impetrado pela Defensoria Pública da União, em favor de Paulo Ricardo Cruz e Reginaldo Rosa de Jesus, em face de acórdão da Sexta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao agravo regimental no Recurso Especial n. 1.619.811/MG.
+    Consta dos autos que os pacientes Paulo Ricardo e Reginaldo Rosa foram condenados pela prática do delito descrito no art. 155, § § 2º e 4º, inciso IV, do Código Penal, respectivamente à pena de 1 ano e 4 meses de reclusão, em regime aberto, e 2 anos e 6 meses de reclusão, em regime semiaberto, além de 10 dias-multa.
+    A reprimenda de Paulo Ricardo foi substituída por restritivas de direito.
+    Irresignada, o Parquet interpôs apelação criminal do Tribunal de Justiça mineiro, postulando, em suma, o reconhecimento das qualificadoras de escalada e rompimento de obstáculo, bem como a incidência da causa especial de aumento de pena em razão do repouso noturno.
+    A 5ª Câmara Criminal deu parcial provimento ao apelo acusatório a fim de reconhecer as qualificadoras, nos termos da ementa a seguir transcrita:
+    “APELAÇÃO CRIMINAL - CRIME CONTRA O PATRIMÔNIO - FURTO QUALIFICADO - QUALIFICADORAS DA ESCALADA E ROMPIMENTO DE OBSTÁCULO - CONFISSÃO DO RÉU E PROVA PERICIAL - ESFORÇO INCOMUM COMPROVADO - QUALIFICADORAS RECONHECIDAS - MAJORANTE DO REPOUSO NOTURNO - INCOMPATIBILIDADE COM A FIGURA QUALIFICADA DO CRIME - REESTRUTURAÇÃO DAS PENAS - NECESSIDADE - UMA QUALIFICADORA CONSIDERADA PARA QUALIFICAR O DELITO E AS DEMAIS VALORADAS COMO CIRCUNSTÂNCIA JUDICIAL - RECEPTAÇÃO DOLOSA - AUSÊNCIA DE PROVA DO ELEMENTO SUBJETIVO – MEROS INDÍCIOS NÃO SUFICIENTES A ENSEJAR A CONDENAÇÃO - DESCLASSIFICAÇÃO MANTIDA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+    I - É de se reconhecer as qualificadoras do rompimento de obstáculo e escalada se comprovado que, para adentrar no imóvel, os agentes se valeram de esforço incomum e danificaram as madeiras da lateral da garagem da residência, fatos estes comprovados pela prova pericial e testemunhal.
+    II - A majorante do repouso noturno (§1º do art. 155 do Código Penal) somente incide em caso de furto simples, não se compatibilizando com a figura qualificada do delito (§ 4º do mesmo artigo).
+    III - Na hipótese de existência de mais de uma qualificadora no furto, sendo uma considerada para qualificar o delito, as outras podem ser valoradas como circunstâncias judiciais desfavoráveis.
+    IV - Necessária a reestruturação das reprimendas aplicadas aos acusados, em decorrência do reconhecimento da causa de aumento de pena e das qualificadoras.
+    V - Merece ser mantida a desclassificação quando o contexto probatório revela-se frágil e não se reveste de segurança necessária para a formação de um juízo de certeza acerca do elemento subjetivo do delito de receptação, não havendo provas suficientes de que o réu tinha ciência da origem ilícita do objeto por ele adquirido”. (eDOC 3, p. 128)
+    Opostos embargos de declaração, estes foram rejeitados. Eis a ementa:
+    “EMABARGOS DE DECLARAÇÃO – REFORMA DE QUESTÃO JÁ DECIDIDA – REDISCUSSÃO DE TESES – INEXISTÊNCIA DOS VÍCIOS ELENCADOS NO ART. 619 DO CPP – EMBARGOS NÃO ACOLHIDOS.
+    -Inocorrentes as hipóteses de omissão, contradição, obscuridade ou erro material, não há como prosperar o inconformismo do embargante, cujo real objetivo é a reforma da decisão, não passível de revisão em sede de embargos de declaração”. (eDOC 3, p. 162)
+    Na sequência, o Ministério Público interpôs recurso especial endereçado ao Superior Tribunal de Justiça, requerendo a aplicação da causa de aumento prevista no art. 155, § 1º, do CP.
+    O Ministro Relator deu provimento ao recurso para determinar a aplicação, na terceira fase da dosimetria, da causa de aumento de pena relativa ao furto qualificado praticado durante o repouso noturno, redimensionando a pena para 1 ano, 9 meses e 10 dias de reclusão ao réu Paulo Ricardo e 3 anos, 10 meses e 20 dias de reclusão para Reginaldo Rosa.
+    A defesa interpôs agravo regimental, que restou desprovido nos seguintes moldes:
+    “PENAL. FURTO QUALIFICADO. ESCALADA E ROMPIMENTO DE OBSTÁCULO. INCIDÊNCIA DA CAUSA DE AUMENTO DO REPOUSO NOTURNO. COMPATIBILIDADE. DESNECESSIDADE DE REEXAME DE PROVAS. JULGAMENTO CONFORME A JURISPRUDÊNCIA DESTA CORTE.
+    1. A jurisprudência do Superior Tribunal de Justiça já se manifestou pela compatibilidade do furto qualificado e da causa de aumento relativa ao seu cometimento no período noturno. Precedentes.
+    2. A questão em debate restringe-se a matéria de direito, não havendo que se falar em reexame de provas.
+    3. Agravo regimental a que se nega provimento”. (eDOC 5)
+    Nesta Corte o impetrante enfatiza a incompatibilidade do reconhecimento da causa de aumento do repouso noturno com o furto qualificado.
+    Requer o decote da causa de aumento previsto no art. 155, § 1º, do Código Penal.
+    É o relatório.
+    Passo a decidir.
+    As razões não merecem acolhimento.
+    Isso porque o Superior Tribunal de Justiça decidiu em conformidade com a jurisprudência desta Corte no sentindo de ser possível a incidência da majorante do repouso noturno, prevista no art. 155, § 1º, do CP, com o furto qualificado (art. 155, § 4º, do CP), ante a ausência de vedação legal e de contradição lógica, quando compatíveis com a situação fática.
+    Nesse sentido, cito o seguinte julgado:
+    “Habeas corpus. Penal. Tentativa de furto qualificado pelo rompimento de obstáculo (CP, art. 155, § 4º, I, c/c o art. 14, II). Condenação. Incidência da majorante do repouso noturno (CP, art. 155, § lº) nas formas qualificadas do crime de furto (CP, art. 155, § 4º). Admissibilidade. Inexistência de vedação legal e de contradição lógica que possa obstar a convivência harmônica dos dois institutos quando perfeitamente compatíveis com a situação fática. Entendimento doutrinário e jurisprudencial. Ordem denegada. 1. Não convence a tese de que a majorante do repouso noturno seria incompatível com a forma qualificada do furto, a considerar, para tanto, que sua inserção pelo legislador antes das qualificadoras (critério topográfico) teria sido feita com intenção de não submetê-la às modalidades qualificadas do tipo penal incriminador. 2. Se assim fosse, também estaria obstado, pela concepção topográfica do Código Penal, o reconhecimento do instituto do privilégio (CP, art. 155, § 2º) no furto qualificado (CP, art. 155, § 4º) -, como se sabe, o Supremo Tribunal Federal já reconheceu a compatibilidade desses dois institutos. 3. Inexistindo vedação legal e contradição lógica, nada obsta a convivência harmônica entre a causa de aumento de pena do repouso noturno (CP, art. 155, § 1º) e as qualificadoras do furto (CP, art. 155, § 4º) quando perfeitamente compatíveis com a situação fática. 4. Ordem denegada”. (HC 130.952/MG, Rel. Min. Dias Toffoli, 2ª Turma, DJe 20.2.2017)
+    Ante o exposto, com base no art. 192, caput, do RISTF, denego a ordem.
+    Publique-se.
+    Brasília, 26 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
