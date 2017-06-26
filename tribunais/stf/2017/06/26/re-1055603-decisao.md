@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. NOMEAÇÃO E POSSE TARDIAS POR FORÇA DE DECISÃO JUDICIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DIREITO. INEXISTÊNCIA.
+    1. Consoante a jurisprudência firmada no STF e no STJ, inexiste direito à indenização em razão de nomeação e posse tardias de candidato, pelo tempo em que aguardou a solução judicial definitiva acerca de sua aprovação no concurso público (STF, RE 593373, rel. Min. Joaquim Barbosa).
+    2. Em que pese o longo tempo de espera do autor, pelo período de 14 (catorze) anos de trâmite da ação judicial, descabido o pleito de indenização por danos materiais e morais, na esteira do entendimento das Cortes Superiores, pois o pagamento de remuneração depende do efetivo exercício das funções do cargo, bem assim porque 'considera-se que, se a nomeação foi decorrente de sentença judicial, o retardamento não configura preterição ou ato ilegítimo da Administração Pública a justificar uma contrapartida indenizatória', conforme registrado no EREsp 1.117.974/RS, julgado .
+    3. Apelo da União provido. Apelo do autor prejudicado.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao arts. 5º, XXXVI; 37, IV, § 6º, da Constituição. Em suma, o autor pede: (i) o ressarcimento por danos morais e materiais pelo tempo que deixou de ser empossado no cargo de Perito Criminal da Polícia Federal, por erro da Administração Pública reconhecido em decisão judicial transitada em julgado; e (ii) o enquadramento na carreira no nível que estaria caso a posse tivesse ocorrido.
+    O recurso não deve ser provido. O Supremo Tribunal Federal, ao julgar o RE 724.347-RG, sob a sistemática da repercussão geral (Tema 671), assentou entendimento de que na hipótese de posse em cargo público determinada por decisão judicial o servidor não faz jus à indenização sob fundamento de que deveria ter sido investido em momento anterior, salvo situação de arbitrariedade flagrante. Veja-se, a propósito, a ementa do referido julgado, do qual fui redator para o acórdão:
+    “ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. INVESTIDURA EM CARGO PÚBLICO POR FORÇA DE DECISÃO JUDICIAL.
+    1. Tese afirmada em repercussão geral: na hipótese de posse em cargo público determinada por decisão judicial, o servidor não faz jus a indenização, sob fundamento de que deveria ter sido investido em momento anterior, salvo situação de arbitrariedade flagrante.
+    2. Recurso extraordinário provido.”
+    A simples existência de um litígio judicial sobre concurso público, como a atual controvérsia, é fato normal na vida de uma sociedade com instituições, e a defesa judicial pelo Estado de um ponto de vista minimamente razoável, dentro das regras do jogo, não gera dano indenizável.
+    Ademais, a decisão do Tribunal de origem também está alinhada ao entendimento firmado por esta Corte, no julgamento do RE 629.392-RG, Tema 454, Rel. Min. Marco Aurélio, no sentido de que o servidor público nomeado por meio de decisão judicial não faz jus a progressão ou promoção funcional, sob o fundamento de que deveria ter sido investido em momento anterior, em razão de erro da Administração Pública. Confira-se a ementa do precedente:
+    “CONCURSO PÚBLICO NOMEAÇÃO ORDEM JUDICIAL PROMOÇÕES. A nomeação tardia de candidatos aprovados em concurso público, por meio de ato judicial, à qual atribuída eficácia retroativa, não gera direito às promoções ou progressões funcionais que alcançariam houvesse ocorrido, a tempo e modo, a nomeação.”
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
