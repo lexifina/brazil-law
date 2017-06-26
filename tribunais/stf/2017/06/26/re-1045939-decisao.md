@@ -1,0 +1,19 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “MANDADO DE SEGURANÇA. ATO DO PRESIDENTE DA CORTE. PRECATÓRIO. MULTA. IMPOSSIBILIDADE. SÚMULA 311 DO STJ.
+    Considerando o enunciado da Súmula 311 do STJ – ‘Os atos do presidente do tribunal que disponham sobre processamento e pagamento de precatório não têm caráter jurisdicional.’ – entendo que a segurança deve ser concedida para afastar a imposição da multa. É que o caráter estritamente administrativo dos atos da Presidência do Tribunal, no processamento dos precatórios, afasta a possibilidade de sejam proferidas decisões que estão exclusivamente ligadas ao poder jurisdicional do magistrado da execução, tal como a própria imposição da multa.”
+    A parte recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o acórdão impugnado nesta sede recursal ajusta-se, com absoluta fidelidade, à diretriz jurisprudencial que o Supremo Tribunal Federal consagrou na apreciação de controvérsia assemelhada à ora em análise (ADI 1.098/SP, Rel. Min. MARCO AURÉLIO – AI 409.331-AgR/SP, Rel. Min. CARLOS VELLOSO – ARE 693.712/SP, Rel. Min. CELSO DE MELLO – RE 281.208-AgR/SP, Rel. Min. ELLEN GRACIE – RE 309.103/SP, Rel. Min. MOREIRA ALVES, v.g.):
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. PRECATÓRIO: PROCESSAMENTO DO TRIBUNAL: ATIVIDADE ADMINISTRATIVA.
+    I. – A atividade desenvolvida pelo Presidente do Tribunal, no processamento do precatório, não é jurisdicional, mas administrativa. Também é administrativa a decisão do Tribunal tomada em agravo regimental interposto contra despacho do Presidente na mencionada atividade. Precedente do STF:  ADIn 1098-SP.
+    II. – O recurso extraordinário pressupõe a existência de causa decidida em única ou última instância por órgão do Poder Judiciário no exercício de função jurisdicional. Proferida a decisão em sede administrativa, não há falar em causa. Não cabimento do recurso extraordinário.
+    – R.E. admitido na origem. Negativa de trânsito por decisão do Relator. Agravo não provido.”
+    (RE 213.696-AgR/PS, Rel. Min. CARLOS VELLOSO – grifei)
+    Impende assinalar, no ponto, por relevante, que a atividade desenvolvida pelo Presidente do Tribunal no processamento dos precatórios decorre do exercício de função revestida de caráter eminentemente administrativo.
+    É por isso que se tem enfatizado, em julgamentos realizados pelo Supremo Tribunal Federal, que “(...) a atribuição do Presidente do Tribunal, ao processar o precatório, não é sequer jurisdicional. É atividade puramente administrativa”, pois, consoante foi então ressaltado, “A atividade jurisdicional termina com a expedição do precatório (…)”  (RTJ 71/572, 575 – grifei).
+    Vê-se, desse modo, que o Presidente do Tribunal, ao desempenhar as suas atribuições no processamento dos precatórios, atua como autoridade administrativa (RTJ 80/683, 691-692), não exercendo, em consequência, nesse estrito contexto procedimental, qualquer parcela de poder jurisdicional (PINTO FERREIRA, “Comentários à Constituição Brasileira”, vol. 4/67-68, 1992, Saraiva).
+    Sendo assim, e tendo em consideração das razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, VIII, e RISTF, art. 21, § 1º).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 26 de junho de 2017.
+Ministro CELSO DE MELLO
+Relator
