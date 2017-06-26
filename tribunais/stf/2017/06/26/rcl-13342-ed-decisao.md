@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de embargos de declaração contra decisão, que julgou prejudicada a reclamação pelos fundamentos a seguir transcritos:
+    “1. Trata-se de reclamação constitucional proposta pela União contra decisão proferido pelo juízo da 13ª Vara Federal do Ceará, no processo 0000001-36.2012.4.05.8100, que suspendeu os efeitos de decisão do CNJ de declaração de vacância da serventia extrajudicial ocupada por Lucia Josino da Costa Liebmann. O Ministro Joaquim Barbosa deferiu a medida liminar em regime de plantão, para suspender a tramitação do processo referido. A autoridade reclamada prestou informações, nas quais afirma que a decisão questionada foi reconsiderada, com a declinação da competência para o STF. Lucia Liebmann peticionou como interessada e requereu a revogação da liminar.
+    2. Diante da reconsideração da decisão reclamada, julgo prejudicada a presente reclamação, em face da perda de seu objeto”.
+    Sustenta a embargante que há contradição no julgado. Segundo afirma, após o deferimento da medida liminar nesta reclamação, a juíza condutora do feito na 7ª. Vara da Seção Judiciária do Ceará declinara da competência para esta Corte. Conclusão contraditória, na medida em que “o pleno desse colendo Tribunal já decidira, ao julgar a AO 1706, da relatoria do Min. Celso de Mello, que a competência para processar e julgar ações ordinárias promovidas contra a União Federal e que cujo objeto seja a discussão de atos provenientes do Conselho Nacional de Justiça é da Justiça Federal de primeira instância” (doc. 47, fls. ½).
+    É o relatório. Decido.
+    A decisão embargada não apresenta nenhum dos vícios passíveis de correção por meio de embargos de declaração, a saber, omissão, contradição, obscuridade ou erro material.
+    A contradição fundada em desacerto com precedente jurisprudencial não serve de exame aos embargos declaratórios. Quanto ao ponto, bem enfatizou o saudoso Ministro TEORI ZAVASCKI, “a contradição que dá ensejo aos embargos de declaração é a que se estabelece no âmbito interno do julgado embargado, ou seja, a contradição do julgado consigo mesmo, como quando, por exemplo, o dispositivo não decorre logicamente da fundamentação, e não a eventual contrariedade do acórdão com um parâmetro externo (um preceito normativo, um precedente jurisprudencial, uma prova etc)”(MS 29768AgRED, Segunda Turma, DJe de 23/9/2015).
+    Além disso, a tese de usurpação de competência trazida ao debate por meio desta reclamação foi totalmente estabilizada pelo julgamento da ACO 1.878 (Rel. Min. TEORI ZAVASCKI), onde determinou-se que o Juízo de origem apreciasse a demanda, o que, inclusive, já foi feito, conforme andamento processual disponibilizado do sítio eletrônico do TRF da 5ª Região – sendo, portanto, incontroversa a ausência de interesse processual.
+    Por todo o exposto, ausentes os vícios dos incisos do art. 1.022 do Código de Processo Civil, REJEITO OS embargos DE DECLARAÇÃO.
+    Publique-se. Int..
+    Brasília, 26 de junho de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
