@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98200, de 14 de junho de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 9018.39.29 Mercadoria: Cateter venoso periférico, do tipo scalp, composto de agulha de aço inox (cânula), podendo ser nos calibres 19G, 21G, 23G, 25G e 27G, acoplada a uma aleta de plástico para empunhadura (apelidada debutterfly) que, por sua vez, está ligada a uma mangueira de plástico extensora que contém um conector luer-lock na extremidade oposta onde se conecta a seringa ou equipo para a administração da medicação.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 90.18), 6 (texto das subposições 9018.3 e 9018.39) e RGC 1 (textos do item 9018.39.2 e do subitem 9018.39.29 c/c a RGI-3 b)) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.200-2017 .pdf]
