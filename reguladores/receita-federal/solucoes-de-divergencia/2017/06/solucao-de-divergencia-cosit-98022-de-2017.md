@@ -1,0 +1,6 @@
+Solução de Divergência Cosit nº 98022, de 22 de junho de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Reforma de ofício a Solução de Consulta SRRF/8ªRF/Diana nº 71, de 18 de outubro de 2010.
+Código NCM: 1704.90.90 Mercadoria: Doce de amendoim composto de amendoim torrado e açúcar, obtido por moagem e prensagem, no formato de pequenos cilindros de 16 gramas, acondicionado em potes com 63 unidades, 21 unidades e 14 unidades, com as unidades desembrulhadas, vulgarmente denominado paçoca rolha. Código NCM: 1704.90.90 Mercadoria: Doce de amendoim composto de amendoim torrado e açúcar, obtido por moagem e prensagem, no formato de pequenos cilindros de 16 gramas, acondicionado em caixa com 175 unidades, pote com 56 unidades e pote com 21 unidades, com as unidades embrulhadas, vulgarmente denominado paçoca rolha.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 17.04 e Nota 2 do Capítulo 20), RGI-6 (texto da subposição 1704.90) e RGC 1 (texto do item 1704.90.90) da NCM constante da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SD Cosit nº 98.022-2017 .pdf]
