@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “MANDADO DE SEGURANÇA – CAPITÃO QOPM QUE ESTÁ RESPONDENDO A PROCESSO PENAL POR CRIME DE TORTURA – EXCLUSÃO DO QUADRO DE ACESSO À PROMOÇÃO POR MERECIMENTO E ANTIGUIDADE AO POSTO DE MAJOR QOPM – AUSÊNCIA DE TRÂNSITO EM JULGADO – ALEGAÇÃO DE INCONSTITUCIONALIDADE DO ART. 47, VI, DA LEI COMPLEMENTAR ESTADUAL N. 53/90 POR OFENSA AO PRINCÍPIO DA PRESUNÇAO DE INOCÊNCIA, INSCULPIDO NO ART. 5º, LVII, DA CF – OCORRÊNCIA – SECRETÁRIO DA JUSTIÇA E DA SEGURANÇA PÚBLICA – (...) IMPEDIMENTO LEGAL À INCLUSÃO DE OFICIAL MILITAR QUE RESPONDE A PROCESSO PENAL POR CRIME DOLOSO EM LISTA DE QUADRO DE ACESSO À PROMOÇÃO – ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA – OCORRÊNCIA – PRECEDENTE DO STF. Na esteira do posicionamento firmado pelos novos integrantes do Órgão Especial desta Corte, tenho que a não inclusão de militar nos quadros de acesso à promoção ao Posto de Major QOPMS em face de estar respondendo à ação penal pela prática de crime doloso, sem condenação criminal transitada em julgado, viola o princípio constitucional da presunção de inocência, mostrando-se imperiosa a concessão da ordem para garantir o direito do autor de concorrer à promoção. SEGURANÇA CONCEDIDA” (pág. 7, volume eletrônico 3).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 2°, 5°, LVII, 22, XXI, 42, e 144, da mesma Carta. Aduz não haver ofensa ao princípio da presunção de inocência, na hipótese de impedimento de acesso à promoção, em razão da existência de processo penal contra o militar, ainda mais porque a legislação estadual referente à matéria apresenta orientação em simetria com a legislação nacional, sendo, portanto, constitucional. Afirma que não há prejuízo ao militar, tendo em vista a previsão de ressarcimento em caso de preterição.
+    O parecer da Procuradoria-Geral da República foi pelo provimento do recurso extraordinário (documento eletrônico 7).
+    A pretensão recursal merece prosperar.
+    O entendimento de ambas as turmas do Supremo Tribunal Federal é de que inexiste violação ao princípio da presunção de inocência no fato de a legislação ordinária não permitir a inclusão de militar no quadro de acesso à promoção em face de denúncia em processo criminal, desde que previsto o ressarcimento em caso de absolvição:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MILITAR QUE RESPONDE A PROCESSO CRIMINAL. EXCLUSÃO DE QUADRO DE ACESSO À PROMOÇÃO. PREVISÃO LEGAL DE RESSARCIMENTO. POSSIBILIDADE. PRINCÍPIO DA PRESUNÇÃO DA INOCÊNCIA. NÃO VIOLAÇÃO. AGRAVO REGIMENTAL DESPROVIDO” (ARE 710.266-AgR/ES, Rel. Min. Luiz Fux, Primeira Turma).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROMOÇÃO DE OFICIAL DA POLÍCIA MILITAR. EXCLUSÃO. ABSOLVIÇÃO. RESSARCIMENTO. PRECEDENTE.
+    1. A jurisprudência do Supremo Tribunal Federal é no sentido da inexistência de violação do princípio da presunção de inocência (CB/88, artigo 5°, LVII) no fato de a lei não permitir a inclusão de oficial militar no quadro de acesso à promoção em razão de denúncia em processo criminal.
+    2. É necessária a previsão legal do ressarcimento em caso de absolvição. Precedentes.
+    Agravo Regimental a que se nega provimento” (RE 459.320-AgR/PI, Rel. Min. Eros Grau, Segunda Turma).
+    Com efeito, os parágrafos 1° e 2° do artigo 56 da Lei Complementar Estadual (Estatuto dos Policiais Militares de Mato Grosso do Sul) preveem a hipótese de ressarcimento, vejamos:
+    “Art. 56. As promoções serão efetuadas pelo critério de antiguidade, de merecimento, ou ainda, por bravura e post-mortem’.
+    § 1º Em casos extraordinários, poderá haver promoção em ressarcimento de preterição”.
+    Isso posto, dou provimento ao recurso para determinar o retorno dos autos ao Tribunal a quo a fim de que seja observada a jurisprudência deste Tribunal.
+    Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 26 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
