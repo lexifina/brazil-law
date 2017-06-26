@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pela 2ª Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, está assim ementado:
+    “RECURSO INOMINADO. SERVIDOR PÚBLICO ESTADUAL. RETROAÇÃO DE PROMOÇÃO À DATA DA IMPLEMENTAÇÃO DOS REQUISITOS IMPOSSIBILIDADE.
+    Ao que se verifica do ato, foi a promoção implementada a contar da publicação, sem quaisquer efeitos retroativos à data da implementação dos requisitos para tanto. Em sendo a promoção ato discricionário, vinculado ao juízo de conveniência e oportunidade da Administração Pública, não cabe ao Poder Judiciário fazê-la retroagir, sob qualquer motivação. Sentença que vai mantida por seus próprios fundamentos.
+    NEGARAM PROVIMENTO AO RECURSO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido os preceitos inscritos no art. 37, “caput”, da Constituição da República.
+    Cumpre ressaltar, desde logo, que o Supremo Tribunal Federal tem enfatizado, a propósito da questão pertinente à transgressão constitucional indireta, que, em regra, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, hipóteses em que não se revelará admissível o recurso extraordinário (AI 165.054/SP, Rel. Min. CELSO DE MELLO – AI 174.473/MG, Rel. Min. CELSO DE MELLO – AI 182.811/SP, Rel. Min. CELSO DE MELLO – AI 188.762-AgR/PR, Rel. Min. SYDNEY SANCHES – RE 236.333/DF, Red. p/ o acórdão Min. NELSON JOBIM, v.g.).
+    Cabe registrar, ainda, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei estadual nº 6.672/74), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 931.697/RS, Rel. Min. DIAS TOFFOLI – ARE 939.027/RS, Rel. Min. GILMAR MENDES – ARE 946.932/RS, Rel. Min. EDSON FACHIN – ARE 1.043.760/RS, Rel. Min. GILMAR MENDES – ARE 1.051.491/RS, Rel. Min. ROSA WEBER – ARE 1.051.466/RS, Rel. Min. DIAS TOFFOLI, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a fixação da verba honorária, na origem, em seu percentual máximo.
+    Publique-se.
+    Brasília, 26 de junho de 2017.
+Ministro CELSO DE MELLO
+Relator
