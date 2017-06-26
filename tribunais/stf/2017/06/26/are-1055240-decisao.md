@@ -1,0 +1,25 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por José Albertino Tavares contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Sergipe, está assim ementado:
+    “AGRAVO DE INSTRUMENTO – AÇÃO DE EXECUÇÃO FISCAL – DECISÃO QUE ACOLHEU EM PARTE EXCEÇÃO DE PRÉ-EXECUTIVIDADE – IRRESIGNAÇÃO – ALEGAÇÃO DE ERRO NA BASE DE CÁLCULO DO IPTU NOS IMÓVEIS EM QUE HÁ TERRENO DE MARINHA – IMPOSSIBILIDADE DE INCIDÊNCIA SOBRE APENAS 83% (OITENTA E TRÊS POR CENTO) DO VALOR TOTAL DO IMÓVEL – BASE DE CÁLCULO REFERE-SE AO VALOR VENAL DO MESMO – MANUTENÇÃO DA DECISÃO – RECURSO CONHECIDO E IMPROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 150, II, e 156, I, ambos da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou-se em dispositivos de ordem meramente legal:
+    “O cerne da presente questão refere-se à verificação da correta base de cálculo a ser aplicada quando da tributação do IPTU nos denominados terrenos de marinha sob regime de aforamento.
+    …...................................................................................................
+    Recorrendo ao Código Tributário Nacional, observa-se que o legislador, por intermédio dos arts. 32 e 33, estabeleceu normas gerais acerca do seu fato gerador e da base de cálculo a ser aplicada ao IPTU. Veja-se:
+    …...................................................................................................
+    Da análise dos dispositivos legais acima transcritos restou claro que a base de cálculo do IPTU é o valor venal do imóvel, isto é, uma estimativa do valor atribuído a determinado bem, considerando-se os aspectos que o compõem, e que o fato gerador do aludido tributo é, no caso em exame, o domínio útil do bem imóvel, ou seja, o direito de usar e gozar do mesmo.
+    …...................................................................................................
+    Portanto, inexiste norma que estabeleça percentuais para a cobrança do IPTU em terrenos de marinha, atribuindo-se ao possuidor do domínio útil do imóvel localizado em zona urbana de determinado Município a responsabilidade para o pagamento do aludido imposto cuja base de cálculo será o valor venal do imóvel não apenas sobre a percentagem atribuída pelo Decreto nº 9.760, de 1946, uma vez que o domínio útil do imóvel, que é o direito de usar e gozar do mesmo, é utilizado pelo foreiro em sua integralidade.
+    …...................................................................................................
+    Dessa maneira, importante reprisar o quanto fora decidido às fls. 67/69-verso, quando fora indeferido o pedido de efeito suspensivo, ‘verbis’:
+    (...) Malgrado o domínio dos imóveis em terreno de marinha, por força do art. 103, § 2º do Decreto nº 9.760/46, seja compartilhada, ou seja, 17% (dezessete por cento) pertence à União e 83% (oitenta e três por cento) ao proprietário de fato, o domínio útil do bem permanece integralmente com este.
+    Destarte, o ônus de adimplir o IPTU é somente do proprietário de fato do imóvel predial e territorial urbano, haja vista que o domínio útil, fato gerador do IPTU, é exclusivo do mesmo.”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável, por tratar-se de aplicação, ao caso concreto, de normas eminentemente infraconstitucionais.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 26 de junho de 2017.
+Ministro CELSO DE MELLO
+Relator
