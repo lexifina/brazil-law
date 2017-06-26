@@ -1,0 +1,7 @@
+Solução de Divergência Cosit nº 98018, de 14 de junho de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Reforma de ofício parcialmente a Solução de Consulta SRRF/6ª RF/Diana nº 13, de 26 de março de 2004.
+Código NCM: 3004.50.90 Mercadoria: Medicamento de uso veterinário contendo vitaminas A, B1, B2, B6 e B12, D3, E, aminoácidos, ferro e outros nutrientes, indicado na profilaxia do raquitismo, osteomalácia, anemia por deficiência de ferro/cobalamina e/ou cobre e como coadjuvante no tratamento de doenças infecciosas e parasitárias, apresentado em pó, em potes de 200 g.
+Código NCM: 3004.90.59 Mercadoria: Medicamento de uso veterinário, contendo Praziquantel, Pamoato de Pirantel e Febantel, indicado no tratamento de parasitoses gastrintestinais e pulmonares em cães e gatos, apresentado em comprimidos.
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 da Seção VI e texto da posição 30.04) e 6 (texto da subposição 3004.90), e RGC/NCM 1 (textos do item 3004.90.5 e subitem 3004.90.59) da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex n.º 94, de 2011, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto n.º 7.660, de 2011, e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela Instrução Normativa (IN) RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SD Cosit nº 98.018-2017 .pdf]
