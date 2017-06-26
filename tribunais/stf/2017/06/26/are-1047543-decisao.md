@@ -1,0 +1,18 @@
+Trata-se agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que entendeu que o Adicional por Direção da Atividade da Polícia Judiciária (ADPJ) deve ser estendido aos servidores inativos, por ter um caráter genérico.
+    Os embargos de declaração opostos, foram rejeitados sob a seguinte ementa:
+    “EMENTA: Embargos de Declaração pela requerida - Critérios de correção monetária - Matéria própria de liquidação de sentença - Não objeto de controvérsia nos autos - Negado Provimento” (pág. 134 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a e b, da Constituição, alegou-se, em suma, ofensa ao art. 97, da mesma Carta. Limita-se, em síntese, a sustentar a aplicabilidade da Lei 11.960/2009 ao caso, afirmando que referida matéria foi objeto de reconhecimento de repercussão geral sob o Tema 810 – RE 870.947/SE).
+    A pretensão recursal não merece acolhida.
+    Destaca-se do voto condutor do acórdão nos embargos de declaração opostos pelo recorrente (pág. 134 do documento eletrônico 2):
+    “Inexiste obscuridade, contradição, omissão ou erro material no julgado.
+    A matéria abordada sobre juros e correção monetária deverá ser dirimida por ocasião da liquidação, sendo descabida sua solução em embargos de declaração, até porque não foi objeto de controvérsia expressa nos autos antes do julgamento pelo Colégio Recursal.
+    Observo, neste ponto, que nas razões recursais apresentadas pela ora embargante às fls. 85/94 não houve a devolução à segunda instância da matéria inerente à correção monetária decidida na sentença então recorrida.”
+    Observa-se que o Tribunal de origem afirmou que a questão trazida à baila no recurso extraordinário não foi devolvida à segunda instância e nem objeto de controvérsia expressa nos autos, em virtude disso, não foi analisada. Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula 282 desta Corte. Nesse sentido:
+    "RECURSO EXTRAORDINÁRIO. PREQUESTIONAMENTO. CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé" (AI 827.894-AgR/RJ, Rel. Min. Marco Aurélio).
+    Nesse contexto, as razões recursais estão dissociadas dos fundamentos da decisão recorrida, o que caracteriza a deficiência na sua fundamentação. Inadmissível o recurso, logo, nos termos da Súmula 284 deste Tribunal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. 1) RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DOS FUNDAMENTOS DO JULGADO RECORRIDO: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2) CONTRARIEDADE AO PRINCÍPIO DA ISONOMIA: IMPOSSIBILIDADE DE INOVAÇÃO DE ARGUMENTOS EM AGRAVO REGIMENTAL. PRECEDENTES. 3) AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 667.051-AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 26 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
