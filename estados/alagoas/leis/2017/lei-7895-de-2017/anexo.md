@@ -1,0 +1,43 @@
+ANEXO ÚNICO
+
+CRÉDITO SUPLEMENTAR SUPLEMENTAÇÃO
+
+Código Orçamentário
+
+Especificação
+
+Natureza da
+
+Despesa/ Fonte de Recurso
+
+Valor R$ Tribunal de Justiça
+
+02561 Fundo Especial da Escola Superior da Magistratura de
+
+Alagoas – FUNDESMAL
+
+R$ 500.000,00
+
+02.061.0003.2279.0000 PI 952
+
+MANUTENÇÃO DO FUNDESMAL 1º GRAU DE
+
+JURISDIÇÃO
+
+3.3.90-31/0291 3.3.90-32/0291 3.3.90-36/0291 3.3.90-39/0291 3.3.90-47/0291
+
+R$ 5.000,00 R$ 5.000,00 R$ 220.000,00
+
+R$ 20.000,00 R$ 44.000,00
+
+02.061.0003.2432.0000 PI 4954
+
+MANUTENÇÃO DO FUNDESMAL 2º GRAU DE
+
+JURISDIÇÃO
+
+3.3.90-18/0291 3.3.90-36/0291 3.3.90-39/0291 3.3.90-47/0291
+
+R$ 130.000,00
+
+R$ 55.000,00 R$ 10.000,00 R$ 11.000,00
