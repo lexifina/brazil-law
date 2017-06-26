@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Colegiado local reformou o entendimento do Juízo ante fundamentos assim resumidos:
+    URP – ABRIL E MAIO/1988 – SÚMULA 85 DO STJ – AUSÊNCIA DE PRESCRIÇÃO DO FUNDO DE DIREITO – SÚMULA 671 DO STF – DECRETOSLEIS N.S 2335/87 E 2425/88. DIREITO AO ÍNDICE DE 3,77% (7/30 DE 16,19%) APLICADO, NÃO CUMULATIVAMENTE, SOBRE OS VENCIMENTOS DE ABRIL E MAIO DE 1988. ARTIGO 1. DA LEI N. 7686/88 DETERMINOU INCORPORAÇÃO DO ÍNDICE POSTULADO A PARTIR DE NOVEMBRO DE 1988. DEMANDANTE NÃO AFIRMA NA CAUSA DE PEDIR DESCUMPRIMENTO DESTA OBRIGAÇÃO. EFEITO PATRIMONIAL DA PRETENSÃO LIMITADA AO PERÍODO ENTRE ABRIL E OUTUBRO DE 1988. AÇÃO AJUIZADA MAIS DE CINCO ANOS DEPOIS. ARTIGO 1. DO DECRETO N. 20.910/32. PRESCRIÇÃO QUINQUENAL DA PRETENSÃO AO RECEBIMENTO DOS ATRASADOS. RECURSO CONHECIDO E PROVIDO.
+    No extraordinário cujo trânsito busca alcançar, a recorrente alega violado o artigo 37, cabeça, da Constituição Federal, e a contrariedade do verbete n° 671 da súmula do Supremo. Requer o recebimento da parcela referente à URP dos meses de abril e maio de 1988.
+    2. Eis os fundamentos da decisão recorrida:
+    Ocorre que em agosto e novembro de 1988, foram, respectivamente, repostas as URP de abril e maio, em atenção ao disposto no art. 1º do Decreto-Lei nº 2.453/88 (art. 1º) e no art. 1º da Lei nº 7.686/88. Neste sentido, transcrevo:
+    Art. 1º Será feita a reposição, nos salários, vencimentos, soldos, proventos, pensões e demais remunerações correspondentes ao mês de novembro de 1988, do reajuste mensal, a título de antecipação, instituído pelo art. 8º do Decreto-lei nº 2.335, de 12 de junho de 1987, que:
+    I - no mês de maio de 1988, deixou de ser aplicado ao pessoal de que trata o art. 1º do Decreto-lei nº 2.425, de 7 de abril de 1988;
+    II - no mês de junho, deixou de ser aplicado ao pessoal de que tratam o item I do art. 2º e o art. 4º do Decreto-lei nº 2.425, de 1988; e
+    III - no mês de julho, deixou de ser aplicado ao pessoal a que alude o item II do art. 2º do Decreto-lei nº 2.425, de 1988.
+    Parágrafo único. A reposição, nos percentuais de 16,19% (dezesseis inteiros e dezenove centésimos por cento), no caso do item I, e de 17,68% (dezessete inteiros e sessenta e oito centésimos por cento), nos casos dos itens II e III, será calculada sobre os salários, vencimentos, soldos, proventos, pensões e demais remunerações correspondentes ao mês de novembro, após a aplicação da antecipação salarial, pela Unidade de Referência de Preços (URP) fixada para o mesmo mês.
+    Art. 2º A reposição de que trata esta Lei não será concedida a quem já tenha recebido antecipação salarial pela URP, correspondente aos meses referidos no artigo anterior.
+    Parágrafo único. A reposição não será concedida, igualmente, às categorias cujas datas-base ocorreram a partir do mês de junho de 1988.
+    Art. 3º Na reposição prevista no art. 1º, serão compensados quaisquer acréscimos salariais concedidos a partir de maio de 1988, salvo os decorrentes de disposição legal.
+    Art. 4º A reposição de que trata esta Lei não importará efeitos financeiros retroativos aos meses de maio a outubro, no que se refere aos salários, vencimentos, soldos, proventos, pensões e demais remunerações.
+    Deste modo, ante o disposto nos artigos acima transcritos, não vejo como afastar o reconhecimento segundo o qual a depreciação perpetrada por força da edição do Decreto-Lei n. 2425, de 7/4/1988 foi corrigida, na própria esfera político-administrativa, a partir de, no máximo, novembro de 1988, com reflexos patrimoniais apenas no período entre abril e outubro de 1988, já que expressamente excluídos os efeitos financeiros no período.
+    Como houve reposição do índice postulado nesta ação a partir de, no máximo, novembro de 1988, não tendo o demandante afirmado o descumprimento, pela Administração Federal, da obrigação veiculada na norma inferida dos artigos acima transcritos, impositivo o reconhecimento do direito ao recebimento dos atrasados relativos apenas ao período entre abril e outubro de 1988.
+    Não obstante a declaração do direito às diferenças entre abril e outubro de 1988, não há como se condenar a entidade pública demandada na obrigação de pagar seus valores, dado que, mesmo afastada a prescrição do fundo de direito, impositivo, no caso concreto, o reconhecimento da prescrição da pretensão à cobrança de quaisquer valores anteriores ao quinquidio do artigo 1. do Decreto n. 20.910/32.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 26 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
