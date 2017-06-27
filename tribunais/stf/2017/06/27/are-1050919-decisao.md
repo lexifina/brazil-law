@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça da Bahia, assim ementado:
+    “MANDADO DE SEGURANÇA. DENEGAÇÃO. APELAÇÃO VOLUNTÁRIA. REEXAME NECESSÁRIO. POLICIAL MILITAR. DEMISSÃO. ALEGAÇÃO DE VÍCIOS NO PROCESSO ADMINISTRATIVO POR PRECLUSÃO, INOBSERVÂNCIA DO DEVIDO PROCESSO LEGAL E CERCEAMENTO DE DEFESA. AUSÊNCIA NOS AUTOS DE CÓPIA INTEGRAL DO PROCESSO ADMINISTRATIVO DISCIPLINAR, A DEMANDAR DILAÇÃO PROBATÓRIA PARA A AVERIGUAÇÃO DOS VÍCIOS APONTADOS: INADMISSIBILIDADE, EM SEDE MANDAMENTAL. EXTINÇÃO DO FEITO, NO REFERENTE A TAIS PEDIDOS. APURAÇÃO DOS FATOS INSTAURADA APÓS A LEI ESTADUAL 7990/2001. COMPETÊNCIA DA COMISSÃO PROCESSANTE PARA O JULGAMENTO DOS PAD’S. VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DA INOCÊNCIA ANTE À DEMISSÃO ANTES DO TRÂNSITO EM JULGADO DE CONDENAÇÃO NA ESFERA CRIMINAL: INOCORRÊNCIA. INCOMUNICABILIDADE DAS INSTÂNCIAS. CONDUTAS ATRIBUÍDAS AO SERVIDOR, INCOMPATÍVEIS COM O SERVIÇO POLICIAL MILITAR. PORTE ILEGAL DE ARMA DE FOGO. ART. 57, II, DA LEI 7990/2001. AUSÊNCIA DE ARBITRARIEDADE NA SANÇÃO DEMISSIONÁRIA. MODIFICAÇÃO DA SENTENÇA PARA EXTINGUIR PARTE DO FEITO SEM JULGAMENTO DO MÉRITO, MANTENDO-A, NO MAIS. PROVIMENTO PARCIAL DO RECURSO VOLUNTÁRIO. CONFIRMAÇÃO PARCIAL DA SENTENÇA EM NECESSÁRIO REEXAME”. (eDOC 6, p. 8)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, LIV e LV; e 37 do texto constitucional.
+    Nas razões recursais, o recorrente alega não haver sido intimado da sentença que concedera a segurança. (eDOC 7, p. 23)
+    No mérito, afirma não ser possível a aplicação da prescrição intercorrente. (eDOC 7, p. 24)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Na espécie, verifica-se que o acórdão recorrido extinguiu parte do feito sem julgamento de mérito, e, no mais, manteve a sentença que denegara a segurança contra ato de órgão do recorrente. De outro modo, no recurso extraordinário, o recorrente refere-se a acórdão que teria concedido a segurança a impetrante para declarar a prescrição intercorrente em processo administrativo disciplinar.
+    Vislumbra-se, portanto, a deficiência da fundamentação do recurso extraordinário, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão impugnado. Desse modo, incide no caso a Súmula 284 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PROCESSO DEMARCATÓRIO DE TERRENO DE MARINHA. PRESCRIÇÃO. RECURSO EXTRAORDINÁRIO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA 284/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 26.3.2013. Deficiência na fundamentação por ausência de ataque, nas razões do recurso extraordinário, aos fundamentos do acórdão recorrido. Aplicação da Súmula 284/STF. Agravo regimental conhecido e não provido”. (ARE 832317 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 18.2.2015)
+    “Processual civil. Agravo regimental no recurso extraordinário com agravo. Responsabilidade civil do Estado. Prazo prescricional. Alegação de violação ao art. 5º, caput, da Constituição Federal. Norma genérica, deficiência recursal. Súmula 284/STF. Alegação de violação aos princípios do devido processo legal, da ampla defesa e do contraditório. Ofensa reflexa. ARE 748.371-RG (rel. Min. Gilmar Mendes, tema 660). Análise de legislação infraconstitucional. Decreto 20.910/32 e Código Civil. Impossibilidade. Ofensa constitucional meramente reflexa. Agravo regimental a que se nega provimento”. (ARE 777390 AgR, rel. Min. Teori Zavascki, Segunda Turma, DJe 5.3.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
