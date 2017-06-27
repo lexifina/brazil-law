@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal da Comarca de Tatuí/SP, no processo nº 0002419-71.2017.8.26.0624, converteu a prisão em flagrante do paciente, ocorrida em 18 de março de 2017, em preventiva, ante a suposta prática da infração versada no artigo 155, § 4º, III (furto qualificado por uso de chave falsa), combinado com o 14, inciso II (tentativa), ambos do Código Penal. Entendeu ser a custódia indispensável para a garantia da ordem pública, levando em conta a sensação de impunidade gerada pelo delito. Ao indeferir pedido de liberdade provisória, aludiu à folha de antecedentes, consignando tratar-se de paciente com personalidade voltada ao crime. Considerou a medida imprescindível para a aplicação da lei penal.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 403.202/SP, o qual teve o pedido de concessão de medida de urgência indeferido pelo Relator.
+    Os impetrantes sustentam a inidoneidade da fundamentação do ato que implicou a preventiva, tendo-o como baseado na gravidade genérica do delito. Apontam cabível a flexibilização do verbete nº 691 da Súmula do Supremo. Assinalam a ausência dos requisitos descritos no artigo 312 do Código de Processo Penal. Sublinham as condições pessoais favoráveis do paciente – primariedade e vínculo com o distrito da culpa. Defendem a aplicação de medida cautelar diversa da constrição. Ressaltam que a continuidade da prisão consubstancia antecipação da pena.
+    Postulam, em âmbito liminar, a revogação da preventiva, com expedição de alvará de soltura. No mérito, pretendem a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, realizada em 24 de junho de 2017, revelou ter sido designada para o dia 18 de julho audiência de instrução, debates e julgamento.
+     A fase é de apreciação da medida acauteladora.
+    2. A leitura do ato que implicou a segregação demonstra ter sido observada a imputação. Inexiste a custódia automática considerado o delito supostamente cometido, levando à inversão da ordem do processo-crime, que direciona, ante o princípio da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. Reiterados são os pronunciamentos do Supremo sobre a inviabilidade de potencializar a infração versada no processo. A possível sensação de impunidade gerada pelo delito surge como elemento neutro, insuficiente a embasar o argumento alusivo à preservação da ordem pública. A preventiva deve ser balizada no artigo 312 do Código de Processo Penal. Ao indeferir pedido de liberdade provisória, o Juízo reportou-se à existência de antecedentes criminais para assentar a periculosidade, sem apontar o trânsito em julgado de título condenatório anterior. Tem-se a insubsistência das premissas lançadas.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja recolhido por motivo diverso da preventiva formalizada no processo nº 0002419-71.2017.8.26.0624, da Primeira Vara Criminal da Comarca de Tatuí/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. O curso deste habeas não prejudica o de nº 403.202/SP, em trâmite no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao Relator, ministro Jorge Mussi.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 27 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
