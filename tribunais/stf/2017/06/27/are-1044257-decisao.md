@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto contra acórdão que reconheceu a incompatibilidade do exercício da advocacia com a função de agente socioeducativo do Departamento Geral de Ações Socioeducativas da Secretaria de Edução do Estado do Rio de Janeiro (págs. 32-46 do volume eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação aos arts. 5°, XIII, 144 e 227, da mesma Carta (págs. 97-109 do volume 2).
+    A pretensão recursal não merece acolhida.
+    Isso porque o Tribunal de origem negou provimento à apelação a partir da interpretação de dispositivos da Lei 8.906/1994, da legislação local e dos fatos e provas dos autos. Dessa forma, o exame da alegada ofensa ao texto constitucional é meramente reflexa ante a necessidade de reanálise da interpretação dada à norma infraconstitucional pelo Tribunal a quo, o que inviabiliza o extraordinário, nos termos da Súmulas/STF 279 e 280. Nesse sentido, destaco os seguintes julgados desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADICIONAL DE INSALUBRIDADE. REGULAMENTAÇÃO ESTADUAL. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Para se chegar ao exame da alegada ofensa à Constituição faz-se necessário analisar as normas infraconstitucionais locais pertinentes ao caso (Decreto estadual 10.214/2002 e Lei estadual 1.068/2002), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes. II – Agravo regimental a que se nega provimento” (RE 780.761-AgR/RO, de minha relatoria).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor público. Sistema remuneratório e benefícios. Adicional de insalubridade. 3. Matéria debatida no Tribunal de origem restringe-se ao âmbito infraconstitucional. Ofensa reflexa à Constituição Federal. Matéria infraconstitucional. 4. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE 990.822-AgR/PB, Rel. Min. Gilmar Mendes).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 27 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
