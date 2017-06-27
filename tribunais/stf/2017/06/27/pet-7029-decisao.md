@@ -1,0 +1,12 @@
+Decisão: 1. O Procurador-Geral da República, por meio da petição de fls. 28-30, requer o apensamento da PET 7.030 a estes autos, bem como a declinação da competência do Supremo Tribunal Federal no que diz respeito aos fatos relatados pelos colaboradores Wesley Mendonça Batista (Termo de Depoimento n. 1) e Valdir Aparecido Boni (Termo de Depoimento n. 1), no âmbito dos respectivos acordos de colaboração premiada celebrados com o Ministério Público Federal e homologados em 11.5.2017.
+    2. Conforme requerido pelo Ministério Público Federal, e tendo em vista a identidade de objetos, determino que seja apensada a estes autos, para tramitação conjunta, a PET 7.030.
+    3. Na linha de precedente desta Suprema Corte, cabe apenas ao próprio tribunal ao qual toca o foro por prerrogativa de função a análise da cisão das investigações (Rcl 7.913 AgR, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, DJe de 9.9.2011), assim como, conforme orientação mais recente, de promover, sempre que possível, o desmembramento de inquérito e peças de investigação correspondentes, para manter sob sua jurisdição, em regra, apenas o que envolva autoridade com prerrogativa de foro, segundo as circunstâncias de cada caso (Inq 3.515 AgR, Rel. Min. MARCO AURÉLIO, Tribunal Pleno, DJe de 13.3.2014), ressalvadas as situações em que os fatos se revelem “de tal forma imbricados que a cisão por si só implique prejuízo a seu esclarecimento”(Ap 853, Rel. Min. ROSA WEBER, DJe de 21.5.2014).
+    Desse modo, conforme indicado no pleito ministerial e especificado às fls. 28-30, as informações relacionadas a fatos que não envolvam autoridades com foro por prerrogativa de função nesta Corte Suprema devem ser remetidas ao primeiro grau de jurisdição para adoção das providências cabíveis.
+    3. Ante o exposto, defiro os requerimentos formulados pelo Procurador-Geral da República (fls. 28-30), determinando: (i) o apensamento a estes autos da PET 7.030; (ii) o envio de cópia do Termo de Depoimento n. 1 do colaborador Wesley Mendonça e do Termo de Depoimento n. 1 do colaborador Valdir Aparecido Boni, bem como os respectivos documentos relacionados, à Seção Judiciária da Justiça Federal no Estado de Mato Grosso para adoção das providências cabíveis, ficando autorizada, por parte do requerente, a remessa de cópia de idêntico material à Procuradoria da República naquele Estado.
+    Junte-se cópia desta decisão nos autos da PET 7.030.
+    Publique-se. Intime-se.
+    Após, arquivem-se.
+    Brasília, 27 de junho de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
