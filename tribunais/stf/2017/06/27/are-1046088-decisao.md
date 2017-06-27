@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Paraná, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. AÇÃO DE DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA E INTERESSE SOCIAL.
+    1. RECURSO DE APELAÇÃO COHAPAR – PRELIMINAR DE VIOLAÇÃO AO PRINCÍPIO DA DILAETICIDADE AFASTADO – MÉRITO – INSURGÊNCIA QUANTO AO VALOR FICADO A TÍTULO DE INDENIZAÇÃO – FIXAÇÃO DE ACORDO COM O VALOR APURADO NO LAUDO PERICIAL – AUSÊNCIA DE IRREGULARIDADES NOS DADOS UTILIZADOS – VALOR QUE MELHOR REPERSENTA A JUSTA INDENIZAÇÃO – PLEITO DE ATUALIZAÇÃO APENAS DO DEPÓSITO PRÉVIO – NÃO ACOLHIMENTO – HONORÁRIOS ADVOCATÍCIOS – FIXAÇÃO NA PERCENTAGEM MÁXIMA – MINORAÇÃO PARA 05% DA DIFERENÇA ENTRE O VALOR OFERECIDO E O ARBITRADO PELA SENTENÇA – RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+    2. RECURSO ADESIVO – LIMITAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS AO VALOR DE R$ 151.000,00 (CENTO E CINQUENTA MIL REAIS) – PREVISÃO NO § 1º DO ART. 27, DO DECRETO-LEI Nº 3365/41 – IMPOSSIBILIDADE – SUSPENSÃO DE EFICÁCIA DA EXPRESSÃO ‘NÃO PODENDO OS HONORÁRIOS ULTRAPASSAR R$ 151.000,00 (CENTO E CINQUENTA E UM MIL REAIS)’ PELO SUPREMO TRIBUNAL FEDERAL DE JUSTIÇA EM SEDE DE MEDIDA LIMINAR DA ADI Nº 2332 – DECISÃO QUE ACOLHEU OS EMBARGOS DE DECLARAÇÃO REFORMADA NESSE PONTO – RECURSO CONHECIDO E PROVIDO” ( eDOC 5, p. 78/79).
+    Os embargos de declaração opostos foram acolhidos apenas para correção de erro material da grafia relativa ao percentual de honorários advocatícios fixados na sentença (eDOC 5, p. 108).
+    O agravo em recurso especial não foi conhecido pelo Superior Tribunal de Justiça (eDOC 6, p. 104 e p. 114).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, XXIV, do texto constitucional.
+    Nas razões recursais, alega-se que o valor da indenização arbitrada não se pautou no conceito de justa indenização, o qual não diz respeito ao valor de mercado do imóvel e considera o descumprimento da função social da propriedade, o que deixou de ser observado pelo acórdão recorrido. Aduz-se que “ressarcir integralmente aquele que descumpre o seu dever funcional de proprietário é proceder com manifesta injustiça, premiando o abuso” (eDOC 6, p. 1)
+    Sustenta-se, ademais, que o laudo de avaliação do perito judicial considerou para a fixação do valor de cada lote as melhorias nos imóveis que teriam sido feitas pelo próprio poder público.
+    Pugna-se, ao final, pela reforma do acórdão impugnado para que o valor da indenização seja fixado nos termos da inicial.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base na legislação infraconstitucional (Devreto-Lei 3.365/1941) e nas provas dos autos, consignou que foi garantido ao recorrido justa indenização, conforme verificado em laudo pericial. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Conforme consta do laudo, o método utilizado para obtenção do mercado foi o método involutivo concatenado com o Comparativo Direto de Dados do Mercado com utilização da regressão linear (inferência estatísticas), de acordo com a NBR 14653-2:2011, o qual, nas palavras da perita: ‘é uma simulação de um empreendimento onde hipoteticamente o imóvel avaliando seria loteado. Assim o valor do imóvel avaliando seria a diferença das receitas obtidas com verbas dos lotes hipotéticos e as despesas de implantação do loteamento, tais como arruamento, infra-estrutura e outros’.
+    Para se chegar ao valor atual do imóvel a expert analisou, além do valor unitário do lote hipotético, o panorama do mercado imobiliário local, juntando amostra de apartamentos à venda, as quais demonstram o valor do m².
+    De acordo com a jurisprudência pacífica, tem-se que, em matéria de desapropriação, o laudo do perito judicial, quando bem elaborado, fundamentado e alicerçado em elementos seguros e objetivos, deve ser acolhido para se fixar o valor da indenização, haja vista a imparcialidade que esse profissional assume por conta dos interesses em conflito existentes entre as partes.
+    (…)
+    Como se sabe, o valor da justa e prévia indenização pelo imóvel desapropriado deve se dar de acordo com o preço atual de mercado na data da avaliação ou da perícia. Neste sentido, é da redação expressa do artigo 26 do Decreto-Lei nº 3.365/1941: ‘No valor da indenização, que será contemporâneo da avaliação, não se incluirão os direitos de terceiros contra o expropriado’.
+    (…)
+    Ou seja, o valor apresentado pela expert no laudo pericial avaliatório, realizado em junho/2012, é o que melhor representa o valor real do imóvel e de sua indenização” ( eDOC 6, pp. 85/87).
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório e a análise da legislação infraconstitucional, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 e a jurisprudência do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as turmas: ARE-AgR 795.879-AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 18.10.2016; ARE-AgR 863.937, rel. Min. Cármen Lúcia, Segunda Turma, DJe 30.3.2015; e ARE-AgR 868.389, de minha relatoria, Segunda Turma, DJe 17.4.2015, este último assim ementado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Desapropriação de complexo cultural. 3. Justa indenização. Avaliação. Laudo pericial. Necessidade de revolvimento do conjunto fático-probatório. Súmula 279. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento.”
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
