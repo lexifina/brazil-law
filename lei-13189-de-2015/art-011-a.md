@@ -1,0 +1,4 @@
+Art. 11-A. Até o final do mês de fevereiro de cada exercício, o Poder Executivo federal estabelecerá o limite máximo anual para as despesas totais do PSE, observados os parâmetros econômicos oficiais utilizados na gestão fiscal.
+§ 1º Para fins de estimativa do cálculo das despesas totais referidas no caput deste artigo, será considerado o somatório do estoque de benefícios concedidos com os novos benefícios a serem desembolsados no exercício.
+§ 2º A gestão fiscal de que trata o caput deste artigo compreende a elaboração dos orçamentos anuais e as avaliações de receitas e despesas para cumprimento do disposto no art. 9º da Lei Complementar nº 101, de 4 de maio de 2000.
+§ 3º O Poder Executivo federal, por meio de regulamento, poderá fixar orçamento do PSE dedicado exclusivamente a microempresas e empresas de pequeno porte.
