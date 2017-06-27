@@ -1,0 +1,25 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus contra ato de Ministro do STF. Inadequação da via eleita.
+1. A jurisprudência atual e majoritária do Supremo Tribunal Federal não admite a impetração de habeas corpus contra ato de Ministro do STF. Precedente específico: HC 105.959, Redator para o acórdão o Ministro Edson Fachin (Sessão de 17.02.2016).
+2. Hipótese em que os autos não evidenciam teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício.
+3. Habeas Corpus não conhecido, por inadequação da via eleita.
+    1. Trata-se de habeas corpus contra decisão monocrática proferida pelo Ministro Relator do ARE 983.148, interposto neste Supremo Tribunal Federal.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, bem como à perda do cargo público, pelo crime previsto no artigo 1º, II, da Lei 9.455/97.
+    3. O Tribunal de Justiça do Distrito Federal e Territórios negou provimento à apelação da defesa.
+    4. Em seguida, foram opostos embargos declaratórios, rejeitados.
+    5. Na sequência, a defesa interpôs recursos especial e extraordinário, ambos inadmitidos na origem. Ato contínuo, interpôs agravos para o Superior Tribunal de Justiça e para o Supremo Tribunal Federal.
+    6. No Superior Tribunal de Justiça, o Relator do AResp 17.620, Ministro Rogerio Schietti Cruz, não conheceu do recurso especial. Contra essa decisão, foi interposto agravo regimental, não provido.
+    7. Neste Supremo Tribunal Federal, o Relator do ARE 983.148, Ministro Edson Fachin, negou provimento ao agravo.
+    8. Neste habeas corpus, a parte impetrante sustenta cerceamento do direito de defesa. Isto porque, “com a nomeação do impetrante como defensor do paciente e após atenta análise dos autos, a defesa observou que desde a publicação da sessão de julgamento do recurso de apelação – fls. 736-7 do eSTJ, até o trânsito em julgado, a única advogada constituída nos autos não fora intimada das r. decisões e v. acórdãos subsequentes, de modo que o paciente não teve a oportunidade de ser defendido por sua única advogada constituída e, portanto, de sua confiança. Desse modo, Vossa Excelência poderá constatar, conforme as seguintes razões, que não foi dado ao paciente a devida oportunidade de recorrer da r. decisão proferida pelo eminente Ministro EDSON FACHIN, relator do Agravo em Recurso Extraordinário n. 983148/DF, quando houve por bem em negar provimento ao referido recurso”.
+    9. Com essa argumentação, requer a concessão da ordem “a fim de declarar a nulidade da publicação da r. decisão que negou provimento ao Agravo em Recurso Extraordinário n. 983.148/DF, determinando-se a sua republicação, com a correta indicação da advogada constituída, assim como a do impetrante, restituindo-se o prazo para interposição de recurso, revogando-se, por consequência, o prematuro trânsito em julgado certificado por essa excelsa Suprema Corte”.
+    Decido.
+    10. O habeas corpus não pode ser conhecido.
+    11. O Supremo Tribunal Federal consolidou orientação no sentido do descabimento da impetração de habeas corpus contra ato de Ministro, Turma ou do Plenário do Tribunal (Cf. Súmula 606/STF; HC 100.738, Redatora para o acórdão a Minª. Cármen Lúcia; HC 101.432, Redator para o acórdão o Min. Dias Toffoli; HC 88.247-AgR-AgR, Rel. Min. Celso de Mello; HC 91.020-AgR, Rel. Min. Celso de Mello; HC 86.548, Rel. Min. Cezar Peluso).
+    12. Muito embora essa orientação jurisprudencial tenha sido rediscutida no julgamento do HC 127.483, Rel. Min. Dias Toffoli (oportunidade em que se verificou o empate na votação), o Plenário do Supremo Tribunal Federal, em 17.02.2016, “reafirmou sua jurisprudência no sentido de não ser cabível ‘habeas corpus’ impetrado contra decisão monocrática de ministro da Corte.” (Informativo nº 814 do STF). Refiro-me ao HC 105.959, Redator para o acórdão o Ministro Edson Fachin, julgado com a participação de todos os integrantes do Tribunal. De modo que o processo deve ser extinto sem resolução do mérito.
+    13. De fora parte a inadequação da via eleita, não encontro nos autos situação de teratologia, ilegalidade flagrante ou abuso de poder que justifique a concessão da ordem de ofício, notadamente se se considerar que a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “quando a parte tem mais de um advogado, basta que a intimação seja realizada em nome de um deles. Se o advogado, ao outorgar o substabelecimento com reserva de poderes, não o faz para o substabelecido acompanhar especificamente a tramitação do processo na superior instância, nem requer que o nome dele figure nas publicações, inclusive para efeito de intimação, pertinentes ao julgamento da causa, reputa-se inocorrente a invalidade da intimação” (HC 96.501-AgR, Relª. Minª. Cármen Lúcia).
+    14. Diante do exposto, com base no art. 21, § 1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+    Brasília, 27 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
