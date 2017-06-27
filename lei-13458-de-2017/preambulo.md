@@ -1,0 +1,2 @@
+Altera a Lei nº 11.482, de 31 de maio de 2007, para prorrogar o prazo de vigência da não incidência do Adicional ao Frete para Renovação da Marinha Mercante (AFRMM) previsto no art. 17 da Lei nº 9.432, de 8 de janeiro de 1997; a Lei nº 9.432, de 8 de janeiro de 1997; e a Lei nº 10.893, de 13 de julho de 2004.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
