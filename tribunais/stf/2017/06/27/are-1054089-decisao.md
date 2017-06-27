@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+    “REEXAME NECESSÁRIO - APELAÇÃO CÍVEL - ADMINISTRATIVO - SERVIDORA DO MUNICÍPIO DE BELO HORIZONTE - PRESCRIÇÃO QUINQUENAL - PROGRESSÃO NA CARREIRA - APOSENTADORIA - FUNDO DO DIREITO - EXTINÇÃO DO PROCESSO COM EXAME DE MÉRITO. Ao obter a concessão de sua aposentadoria, ato único de efeitos concretos, a autora tomou conhecimento do recebimento dos seus proventos sem o posicionamento desejado, o que constitui o marco inicial para o prazo prescricional de cinco anos para o ajuizamento da ação em que pleiteia a revisão. Passados mais de cinco anos entre a data da concessão da aposentadoria e o ajuizamento da ação, o reconhecimento da prescrição da pretensão é medida que se impõe”. (eDOC 1, p. 199)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, II; e 37 do texto constitucional.
+    Nas razões recursais, afirma-se que ofende o princípio da legalidade e da impessoalidade contar o tempo de serviço, para fim de promoção, a partir da entrada em vigor da lei que institui o plano de carreira, quando tal lei não determina qual seria o termo ad quem. (eDOC 1, p. 255)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Na espécie, verifica-se que o acórdão recorrido assentou que ocorreu a prescrição quinquenal do direito de rever o ato de aposentadoria para que se apurasse um salário de benefício maior. De outro modo, no recurso extraordinário, a parte recorrente limita-se a sustentar que tem direito a ter antecipadas suas datas de promoção de nível na carreira, pois teria cumprido os requisitos em momento anterior ao reconhecido pela Administração.
+    Vislumbra-se, portanto, a deficiência da fundamentação do recurso extraordinário, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão impugnado. Desse modo, incide no caso a Súmula 284 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PROCESSO DEMARCATÓRIO DE TERRENO DE MARINHA. PRESCRIÇÃO. RECURSO EXTRAORDINÁRIO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA 284/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 26.3.2013. Deficiência na fundamentação por ausência de ataque, nas razões do recurso extraordinário, aos fundamentos do acórdão recorrido. Aplicação da Súmula 284/STF. Agravo regimental conhecido e não provido”. (ARE 832317 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 18.2.2015)
+    “Processual civil. Agravo regimental no recurso extraordinário com agravo. Responsabilidade civil do Estado. Prazo prescricional. Alegação de violação ao art. 5º, caput, da Constituição Federal. Norma genérica, deficiência recursal. Súmula 284/STF. Alegação de violação aos princípios do devido processo legal, da ampla defesa e do contraditório. Ofensa reflexa. ARE 748.371-RG (rel. Min. Gilmar Mendes, tema 660). Análise de legislação infraconstitucional. Decreto 20.910/32 e Código Civil. Impossibilidade. Ofensa constitucional meramente reflexa. Agravo regimental a que se nega provimento”. (ARE 777390 AgR, rel. Min. Teori Zavascki, Segunda Turma, DJe 5.3.2014)
+    Ante o exposto, nego seguimento ao recurso e majoro o valor da verba honorária fixada pela origem (eDOC 1, p. 200) em 10%, observados os limites previstos nos parágrafos 2º e 3º do art. 85 do CPC (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
