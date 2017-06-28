@@ -1,0 +1,18 @@
+Trata-se de pedido de extensão em favor de Rodrigo Rodrigues Duarte (documento eletrônico 19) para que seja beneficiado com a decisão proferida pela Segunda Turma deste Tribunal no julgamento do RHC 138.715/MS, cujo acórdão ficou assim ementado:
+    HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. LEI 11.343/2006. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4°, DA LEI 11.343/2006. GRANDE QUANTIDADE DE MACONHA APREENDIDA (132,85 KG). DEDICAÇÃO À ORGANIZAÇÃO CRIMINOSA. NÃO OCORRÊNCIA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. PACIENTE ABSOLVIDA PELO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. CONTRADIÇÃO ENTRE OS FUNDAMENTOS.PREENCHIMENTO DOS REQUISITOS LEGAIS. RECURSO ORDINÁRIO AO QUAL SE DÁ PROVIMENTO EM PARTE.
+    I - A grande quantidade de entorpecente, apesar de não ter sido o único fundamento utilizado para afastar a aplicação do redutor do art. 33, § 4°, da Lei 11.343/2006, foi, isoladamente, utilizado como elemento para presumir-se a participação da paciente em uma organização criminosa e, assim, negar-lhe o direito à minorante.
+    II - A quantidade de drogas não poderia, automaticamente, proporcionar o entendimento de que a paciente faria do tráfico seu meio de vida ou integraria uma organização criminosa. Ausência de fundamentação idônea, apta a justificar o afastamento da aplicação da causa especial de diminuição de pena prevista no art. 33, § 4°, da Lei 11.343/2006. Precedentes.
+    III - É patente a contradição entre os fundamentos expendidos para absolver a paciente da acusação da prática do delito tipificado pelo art. 35 da Lei 11.343/2006 e aqueles utilizados para negar-lhe o direito à minorante constante do art. 33, § 4°, do mesmo diploma legal. Precedentes.
+    IV - Recurso ordinário ao qual se dá provimento, em parte, para reconhecer a incidência da causa de diminuição da pena prevista no art. 33, § 4°, da Lei 11.343/2006, e determinar que o juízo a quo, após definir o patamar de redução, recalcule a pena e proceda ao reexame do regime inicial do cumprimento da sanção e da substituição da pena privativa de liberdade por sanções restritivas de direitos, se preenchidos os requisitos do art. 44 do Código Penal” (documento eletrônico 19; grifei).
+    É o relatório necessário. Decido.
+    Entendo ser o caso de deferimento do pedido de extensão.
+    Para tanto, observo que o deferimento de pedido de extensão em habeas corpus deve observar o disposto no art. 580 do Código de Processo Penal, litteris:
+    “Art. 580. No caso de concurso de agentes, a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros”.
+    Ou seja, tratando-se de extensão em habeas corpus, é necessário que o requerente seja corréu do paciente no processo-crime e que as razões para a concessão da decisão favorável a um dos réus não seja fundada em motivos de caráter exclusivamente pessoal.
+    Muito bem. Do cotejo entre a decisão à qual se pede a extensão dos seus efeitos e os elementos de prova coligidos a estes autos é possível verificar que, em essência, a situação jurídico-processual do requerente é análoga à de Jaqueline Vidal Lage, ambos corréus na Ação Penal 0001432-21.2014.8.12.0045, que tramita na 1ª Vara da Comarca de Sidrolândia/MS (págs. 127-133 do documento eletrônico 2; sentença condenatória).
+    Isso posto, defiro o pedido de extensão, em favor de Rodrigo Rodrigues Duarte, nos exatos termos do acórdão proferido pela Segunda Turma deste Tribunal no julgamento do RHC 138.715/MS (documento eletrônico 19).
+    Comunique-se com urgência.
+    Publique-se.
+    Brasília, 28 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
