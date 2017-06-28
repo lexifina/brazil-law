@@ -1,0 +1,27 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul, maneja agravo o Ministério Público do Estado do Rio Grande do Sul. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5º, XXXIX, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    A Defensoria Pública do Estado do Rio Grande do Sul interpôs apelação contra sentença que condenou o ora agravado à pena de 17 (dezessete) dias de prisão simples e de 3 (três) meses de prestação de serviços à comunidade, além de 50 (cinquenta) dias-multa, aplicadas cumulativamente, na forma do art. 69 do Código Penal, por infração aos arts. 34 do Decreto-lei nº 3.688/1941 e 28, caput, da Lei nº 11.343/2006, respectivamente. A Turma Recursal Criminal dos Juizados Especiais Criminais do Estado do Rio Grande do Sul deu parcial provimento ao recurso, em acórdão com esta ementa: (fls. 149-58)
+    “DIREÇÃO PERIGOSA. ARTIGO 34 DA LEI DAS CONTRAVENÇÕES PENAIS. SENTENÇA CONDENATÓRIA REFORMADA. Mudança de orientação: O Código de Trânsito Brasileiro, ao regulamentar a totalidade das infrações penais e administrativas, derrogou o art. 34 da Lei das Contravenções Penais. Natureza do CTB (codificação) que contempla a pretensão de regulamentar, em sua totalidade, a matéria por ele disciplinada. Atipicidade da conduta. POSSE DE SUBSTÂNCIA ENTORPECENTE. ART. 28 DA LEI 11.343/06. PRINCÍPIO DA ALTERIDADE. INSIGNIFICÂNCIA PENAL.  INSUFICIÊNCIA DE PROVAS. REINCIDÊNCIA. TESES DEFENSIVAS AFASTADAS. CONDENAÇÃO MANTIDA. 1. Inaplicabilidade do princípio da insignificância aos delitos da espécie, conforme entendimento já sedimentado nos tribunais superiores, inclusive sob a égide da Repercussão Geral. 2. É típica a conduta de quem porta substância entorpecente, mesmo que ínfima a quantidade, o que constitui característica do delito em questão. 3. Prova suficiente para amparar o decreto condenatório. 4. Pena readequada. Sentença condenatória mantida. RECURSO PARCIALMENTE PROVIDO.”
+    Nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa ao princípio da legalidade suscitado. Nesse sentido, em casos análogos, cito as decisões: RHC 80.362/SP, Rel. Min. Ilmar Galvão, DJ 4/10/2002; ARE 635.241/RS, Rel. Min. Gilmar Mendes, DJe 01/8/2012; e ARE 1.045.747/RS, Rel. Min. Celso de Mello, DJe 12/6/2017, cuja decisão reproduzo:
+    “DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Ministério Público do Estado do Rio Grande do Sul contra acórdão que, confirmado em sede de embargos de declaração pela Turma Recursal Criminal local, está assim ementado:
+     ‘APELAÇÃO CRIMINAL.
+     I – DESOBEDIÊNCIA (ART. 330 DO CP). PRINCÍPIO DA CORRELAÇÃO. Impossibilidade de condenar o acusado por fato não descrito na peça acusatória, o que importaria em violação ao princípio da correlação. RECURSO DA ACUSAÇÃO IMPROVIDO
+     II – DIREÇÃO PERIGOSA. ARTIGO 34 DA LEI DAS CONTRAVENÇÕES PENAIS. SENTENÇA CONDENATÓRIA REFORMADA. Mudança de orientação: O Código de Trânsito Brasileiro, ao regulamentar a totalidade das infrações penais e administrativas, derrogou o art. 34 da Lei
+    das Contravenções Penais. Natureza do CTB (codificação) que contempla a pretensão de regulamentar, em sua totalidade, a matéria por ele disciplinada. Atipicidade da conduta.
+     RECURSO DEFENSIVO PROVIDO.’
+     A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido o preceito inscrito no art. 5º, XXXIX, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário a que se refere o presente agravo revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+    Com efeito, o Plenário desta Suprema Corte, ao julgar o RHC 80.362/SP, Rel. Min. ILMAR GALVÃO, firmou orientação sobre a controvérsia ora em análise que desautoriza a pretensão deduzida pela parte ora recorrente:
+    “HABEAS CORPUS. ARTIGO 32, PRIMEIRA PARTE, DA LEI DE CONTRAVENÇÕES PENAIS. DISPOSITIVO QUE RESULTOU REVOGADO PELO NOVO CÓDIGO DE TRÂNSITO BRASILEIRO – CTB.
+    Se é certo que não houve revogação expressa do dispositivo em apreço e, também, que, em tese, não seria ele incompatível com o disposto no art. 309 do CTB, a sua derrogação, na parte indicada, decorreu de haver o CTB, como é próprio das codificações, tratado de todas as infrações penais comissíveis na condução de veículos automotores, o que, de resto, ficou expressamente declarado no art. 161.
+    Habeas corpus deferido.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego seguimento ao recurso extraordinário com agravo (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de junho de 2017.
+Ministra Rosa Weber
+Relatora
