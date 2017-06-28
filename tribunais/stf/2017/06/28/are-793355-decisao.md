@@ -1,0 +1,21 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que julgou parcialmente procedente representação de inconstitucionalidade em face da Resolução nº 01/2013, da Câmara Municipal de Votorantim. Veja-se, a propósito, a ementa do acórdão recorrido:
+    “Ação Direta de Inconstitucionalidade. Ausência de interesse processual superveniente. Extinção do cargo em comissão de Coordenador de Serviços Jurídicos pelo artigo 1º da Resolução nº 01/2013, que ocorreu após a propositura da demanda, determinando a extinção, em parte, do feito sem resolução do mérito.
+    Ação Direta de Inconstitucionalidade. Vício Material da Resolução 04/11, da Câmara Municipal de Votorantim, Estado de São Paulo, que, segundo alega o postulante, cria de forma irregular e desproporcional cargos em comissão. Interesse de agir que persiste em relação ao número de cargos de assessores parlamentares e da impossibilidade do provimento em comissão para o cargo de Assessor Jurídico. Necessidade de provimento por concurso público. Contratação de 22 (vinte e dois) Assessores Parlamentares para alocação no gabinete dos legisladores municipais. Número que não se harmoniza com o total de vereadores (onze) e de servidores efetivos (trinta e um). Violação ao princípio da razoabilidade e do interesse público. Procedência parcial da ação para declarar inconstitucional a expressão Assessor Jurídico, constante nos Anexos II e V, e do numeral ‘22’, expresso no Anexo V, em referência ao total de cargos de Assessores Parlamentares, ambos documentos constantes na Resolução 04/11 do Município de Votorantim, Estado de São Paulo. Ação julgada parcialmente procedente.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 2º; 18 e 37, caput, II e V, da Constituição.
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, a Súmula 282/STF.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Odim Brandão Ferreira, opinou pelo não conhecimento do recurso.
+    Correto o parecer ministerial. A jurisprudência do Supremo Tribunal Federal se orienta no sentido de que o procurador jurídico municipal não possui legitimidade para ajuizar ações de controle de constitucionalidade, nem interpor seus respectivos recursos, sem que as referidas peças processuais também estejam subscritas ou ratificadas pelo prefeito municipal. Nesse sentido, cito os seguintes precedentes:
+    “DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONTROLE DE CONSTITUCIONALIDADE ESTADUAL. ILEGITIMIDADE PARA INTERPOR RECURSO EXTRAORDINÁRIO. PROCURADOR JURÍDICO MUNICIPAL. PRECEDENTES.
+    1. O Supremo Tribunal Federal entende que o procurador jurídico municipal não possui legitimidade para ajuizar ações de controle de constitucionalidade, bem como interpor seus respectivos recursos, sem que as referidas peças processuais também estejam subscritas ou ratificadas pelo prefeito municipal. Precedentes.
+    2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios
+    3. Agravo interno a que se nega provimento.” (RE 899.382-AgR, da minha relatoria)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. DIREITO CONSTITUCIONAL. REPRESENTAÇÃO DE INCONSTITUCIONALIDADE PERANTE O TRIBUNAL DE JUSTIÇA LOCAL. ART. 125, §2º, DA CONSTITUIÇÃO FEDERAL.LEGITIMIDADE ATIVA.
+    1. O Procurador-Geral do Estado ou do Distrito Federal não pode ajuizar, singularmente, ações de controle abstrato de constitucionalidade e respectivos recursos cabíveis, inclusive o recurso extraordinário, sem que as referidas peças processuais também estejam subscritas ou ratificadas pelo Governador do ente federativo. Precedentes.
+    2. Agravo regimental em que se nega provimento.” (RE 804.048-AgR, Rel. Min. Edsom Fachin).
+    No caso dos autos, a petição de recurso extraordinário apenas foi subscrita pelo procurador jurídico, contrariando a jurisprudência desta Corte.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, não conheço do recurso.
+    Publique-se.
+          Brasília, 28 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
