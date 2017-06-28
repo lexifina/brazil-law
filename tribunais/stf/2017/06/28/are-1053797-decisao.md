@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPTU. IMUNIDADE. AUTARQUIA ESTADUAL. PRESUNÇÃO DE DESTINAÇÃO DO PATRIMÔNIO, DA RENDA E DOS SERVIÇOS DOS ENTES IMUNES ÀS SUAS FINALIDADES ESSENCIAIS. CABE AO FISCO PROVAR EVENTUAL DESVIO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “APELAÇÃO - Embargos à execução fiscal - DER/SP - IPTU - Exercício de 2005 - Sentença de procedência a fim de reconhecer a imunidade - Autarquia estadual que serve ao direito público - Inteligência do artigo 150, §2º, da Constituição Federal - Ônus da prova de que o imóvel não cumpria as finalidades da autarquia cabia à Municipalidade - Presunção de que os bens servem às suas finalidades - Honorários mantidos - Manutenção da sentença - RECURSO DESPROVIDO.”
+    Nas razões do apelo extremo, a parte recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 150, VI, a, e § 2º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a análise da controvérsia demandaria o reexame de matéria fática.
+    É o Relatório. DECIDO.
+    A irresignação não merece prosperar.
+    É assente nesta Corte que os entes imunes gozam da presunção de que seu patrimônio, renda e serviços são destinados a suas finalidades essenciais, de modo que o afastamento da imunidade só pode ocorrer mediante a constituição de prova do desvio de finalidade, a cargo da administração tributária. Nesse sentido:
+    “Imunidade. Entidade educacional. Artigo 150, inciso VI, alínea c, da Constituição Federal. ITBI. Aquisição de terreno sem edificação. Fato gerador. Momento da aquisição. Destinação às finalidades essenciais da entidade. Presunção. Ônus da prova. Precedentes. 1. No caso do ITBI, a destinação do imóvel às finalidades essenciais da entidade deve ser pressuposta, sob pena de não haver imunidade para esse tributo. 2. A condição de um imóvel estar vago ou sem edificação não é suficiente, por si só, para destituir a garantia constitucional da imunidade. 3. A regra da imunidade se traduz numa negativa de competência, limitando, a priori, o poder impositivo do Estado. 4. Na regra imunizante, como a garantia decorre diretamente da Carta Política, mediante decote de competência legislativa, as presunções sobre o enquadramento originalmente conferido devem militar a favor das pessoas ou das entidades que apontam a norma constitucional. 5. Quanto à imunidade prevista no art. 150, inciso VI, alínea c, da Constituição Federal, o ônus de elidir a presunção de vinculação às atividades essenciais é do Fisco. 6. Recurso extraordinário provido.” (RE 470.520, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 21/11/2013)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de junho de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
