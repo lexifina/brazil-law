@@ -1,0 +1,11 @@
+Decisão: Verifico que o assunto versado no recurso extraordinário corresponde ao tema 339 da sistemática da repercussão geral, cujo paradigma é o AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010.
+    Verifico ainda, que o Tribunal de origem aplicou o tema 660 da sistemática da repercussão geral, cujo paradigma é o ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013, em relação ao art. 5º, LIV e LV, do texto constitucional tido por violado. (eDOC 11, p. 77)
+     Sobre esse ponto, o Supremo, na Questão de Ordem no AI 760.358, de minha relatoria, DJe 3.12.2009, firmou entendimento no sentido de que não cabe a este Tribunal rever decisão que, na origem, aplica o disposto no art. 543-B do CPC. Confira-se:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem”. (grifo nosso)
+    Nesse sentido, não cabe a interposição do agravo previsto no artigo 1.042 do CPC contra decisão do Tribunal de origem que aplica a sistemática da repercussão geral.
+    Assim, conheço em parte do recurso e nesta parte determino a devolução dos autos ao tribunal de origem, para que observe o disposto no art. 1.036 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 28 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
