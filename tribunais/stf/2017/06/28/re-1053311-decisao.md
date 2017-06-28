@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. FALSIFICAÇÃO E USO DE DOCUMENTO FALSO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO. ABRANDAMENTO POR MEIO DE OUTRAS MEDIDAS CAUTELARES. POSSIBILIDADE. RECURSO PROVIDO.
+    1. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, vedadas considerações abstratas sobre a gravidade do crime.
+    2. Caso em que o acusado, na qualidade de advogado, propôs diversas ações judiciais de cunho indenizatório, valendo-se de procurações com assinaturas falsas, sem o conhecimento das partes autoras, com o intuito de obter proveito patrimonial decorrente de eventuais procedências dos pedidos.
+    3. A despeito do risco de reiteração delitiva e tendo em vista o tempo de prisão cautelar (cerca de 19 meses) e o encerramento da instrução criminal (processo em fase de alegações finais), o recorrente tem residência fixa e os crimes imputados não envolvem violência ou grave ameaça. Possibilidade de aplicação de outras medidas cautelares previstas no art. 319 do CPP.
+    4. Recurso provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, XIII, da Constituição. Sustenta ser “flagrante ilegalidade do acórdão que determinou condição agravante da situação do paciente, uma vez que aplicou medida restritiva do exercício da sua profissão de advogado como condição para a sua liberdade que, repise-se, já gozava desta condição e com medidas cautelares mais benéficas ratificadas pelo juízo da 4ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro”.
+    O recurso é inadmissível. O Ministério Público Federal se manifestou no autos sob os seguintes fundamentos:
+    “[...]
+    1. Resume a ementa do acórdão recorrido (RHC 67.973/RJ do STJ): “o acusado, na qualidade de advogado, propôs diversas ações judiciais de cunho indenizatório, valendo-se de procurações com assinaturas falsas, sem o conhecimento das partes autoras, com o intuito de obter proveito patrimonial decorrente de eventuais procedências dos pedidos”.
+    2. O Superior Tribunal de Justiça proveu parcialmente o recurso ordinário em habeas corpus para substituir a prisão preventiva pelas seguintes medidas cautelares: comparecimento periódico em juízo, proibição de ausentar-se da Comarca sem autorização judicial; recolhimento domiciliar no período noturno e nos dias de folga, suspensão do exercício da atividade de advogado, inclusive com o recolhimento da carteira profissional e comunicação à OAB/RJ.
+    3. As questões constitucionais invocadas não foram devidamente prequestionadas. No caso, substituída a prisão preventiva, o recorrente busca agora revogar as medidas substitutivas o que, resulta claro, demanda interpretação da legislação processual e da questão de fato. E mais, conforme as contrarrazões do Ministério Público, incidem os óbices das Súmulas 284 (fundamentação deficiente) e 279 (proibição do reexame da prova).
+    4. Isso posto, o Ministério Público Federal opina pelo não conhecimento do recurso.
+    [...]”
+    Correto o parecer ministerial que acolho como razões de decidir. Com efeito, a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 28 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
