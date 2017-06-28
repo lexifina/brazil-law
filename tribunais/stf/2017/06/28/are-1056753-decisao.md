@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, § 6º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “EMENTA: CONSTITUCIONAL. RESPONSABILIDADE DO ESTADO. ART. 37, § 6º, DA CONSTITUIÇÃO. PESSOAS JURÍDICAS DE DIREITO PRIVADO PRESTADORAS DE SERVIÇO PÚBLICO. CONCESSIONÁRIO OU PERMISSIONÁRIO DO SERVIÇO DE TRANSPORTE COLETIVO. RESPONSABILIDADE OBJETIVA EM RELAÇÃO A TERCEIROS NÃO-USUÁRIOS DO SERVIÇO. RECURSO DESPROVIDO. I - A responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público é objetiva relativamente a terceiros usuários e não-usuários do serviço, segundo decorre do art. 37, § 6º, da Constituição Federal. II - A inequívoca presença do nexo de causalidade entre o ato administrativo e o dano causado ao terceiro não-usuário do serviço público, é condição suficiente para estabelecer a responsabilidade objetiva da pessoa jurídica de direito privado. III - Recurso extraordinário desprovido”. (RE 591874, Relator(a): Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 26/08/2009, REPERCUSSÃO GERAL - MÉRITO DJe-237 DIVULG 17-12-2009 PUBLIC 18-12-2009 EMENT VOL-02387-10 PP-01820 RTJ VOL-00222-01 PP-00500).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Decisão monocrática. Competência do relator. 3. Ofensa ao art. 544, § 4º, II, “b”, do CPC e ao princípio da colegialidade. Inocorrência. 4. Responsabilidade objetiva prevista no art. 37, § 6º, da Constituição Federal abrange também os atos omissivos do poder público. Precedentes. 5. Impossibilidade de reexame do conjunto fático-probatório. Enunciado 279 da Súmula do STF. 6. Ausência de argumentos suficientes a infirmar a decisão recorrida. 7. Agravo regimental a que se nega provimento” (ARE 842088 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 03/03/2015, PROCESSO ELETRÔNICO DJe-050 DIVULG 13-03-2015 PUBLIC 16-03-2015).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de junho de 2017.
+Ministra Rosa Weber
+Relatora
