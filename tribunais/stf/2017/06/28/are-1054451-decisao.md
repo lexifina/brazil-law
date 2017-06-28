@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+    “PRESTAÇÃO DE SERVIÇOS – FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO – AÇÃO DE OBRIGAÇÃO DE FAZER C/C RESTITUIÇÃO DE PAGAMENTOS INDEVIDOS – INXISTÊNCIA DE REDE DE TRATAMENTO – TARIFA – LEGITIMIDADE DA COBRANÇA – JULGAMENTO DE RECURSO REPETITIVO PELO STJ (RESP Nº 1339319/RJ) – IMPROCEDÊNCIA MANTIDA”. (eDOC 3, p. 143)
+    Os embargos de declaração opostos foram rejeitados (eDOC 4, p. 45).
+    O recurso especial interposto foi julgado prejudicado pelo Presidente do TJSP (eDOC 5, p. 25).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, caput, II; 6º; 23, VI, IX; 196 e 225, do texto constitucional. (eDOC 4, p. 142)
+    Nas razões recursais, alega-se, em síntese, que não pode haver cobrança de tarifa de coleta de esgoto sem o efetivo tratamento dos dejetos ou, ao menos, correlação entre o valor da tarifa e o nível de tratamento que recebe o esgoto de cada consumidor. Aponta-se, ainda, a violação aos princípios da legalidade, da irretroatividade das leis e da isonomia.
+    Decido.
+    Não assiste razão ao recorrente.
+    Isso porque o TJSP dirimiu a controvérsia dos autos com fundamento na legislação infraconstitucional e local (Lei estadual 119/93; Lei federal 6.528/78; Lei 11.445/2007, Decreto 41.446/96 e Decreto 7.217/2010) e consignou que o serviço prestado pela concessionária consiste em fornecer água potável por meio do sistema de canalização e receber de volta o esgoto dele proveniente; e que, na formação do preço cobrado pelo usuário, é desconsiderada a destinação do esgoto.
+    Assim, verifico que a matéria debatida pelo Tribunal a quo restringe-se ao âmbito da legislação infraconstitucional e local, de modo que a ofensa à Constituição Federal, caso configurada, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso por óbice da Súmula 280 do Supremo Tribunal Federal.
+    Ademais, ressalto que, nos termos da Súmula 636 do STF, não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Nesse sentido, confiram-se precedentes de ambas as Turmas:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TARIFA DE ESGOTO. RESTITUIÇÃO AO CONSUMIDOR DO VALOR DISPENDIDO A MAIOR. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. RECURSO MANIFESTAMENTE INADMISSÍVEL. IMPOSIÇÃO DE MULTA. 1. Hipótese em que, para dissentir do entendimento do Tribunal de origem, seria necessário análise de legislação infraconstitucional. Precedente. 2. Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973”. (ARE 943.013-AgR, Rel. Min. Roberto Barroso, Primeira Turma, Dje 22.6.2016)
+    “Agravo regimental no recurso extraordinário com agravo. Fornecimento de água e tratamento de esgoto. Tarifa mínima. Critérios de cobrança. Princípio da legalidade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 636, 280 e 279/STF. 2. Agravo regimental não provido. 3. Inaplicável o art. 85, § 11, do CPC, pois o agravado não apresentou contrarrazões.” (ARE 957.406-AgR, Rel. Min. Dias Toffoli, Segunda Turma, Dje 8.8.2016).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. SERVIÇO DE COLETA DE ESGOTO. COBRANÇA BASEADA NO CONSUMO TOTAL DE ÁGUA. DECRETO ESTADUAL 41.446/96. SÚMULA 280/STF. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (ARE-AgR 872.217, Rel. Min. Teori Zavascki, Segunda Turma, Dje 7.5.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
