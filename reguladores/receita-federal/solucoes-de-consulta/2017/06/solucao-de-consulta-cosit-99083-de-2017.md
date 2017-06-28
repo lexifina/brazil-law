@@ -1,0 +1,23 @@
+Solução de Consulta Cosit nº 99083, de 23 de junho de 2017
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: ROYALTIES. PAGAMENTO A RESIDENTE OU DOMICILIADO NO EXTERIOR. LICENÇA DE USO DE MARCA OU PATENTE. SERVIÇOS VINCULADOS.
+O pagamento, o crédito, a entrega, o emprego ou a remessa de valores a residentes ou domiciliados no exterior, a título de royalties, por simples licença ou uso de marca, ou seja, sem que haja prestação de serviços vinculada a essa cessão de direitos, não caracterizam contraprestação por serviço prestado e, portanto, não sofrem a incidência da Contribuição para o PIS/Pasep-Importação. Entretanto, se o documento que embasa a operação não for suficientemente claro para individualizar, em valores, o que corresponde a serviço e o que corresponde a royalties, o valor total da operação será considerado como correspondente a serviços e sofrerá a incidência da contribuição.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 71, DE 10 DE MARÇO DE 2015.
+DISPOSITIVOS LEGAIS: Lei nº 4.506, de 30 de novembro de 1964, arts. 21 a 23; Lei nº 10.865, de 30 de abril de 2004, art. 1º, caput e § 1º, art. 3º, inciso II; e art. 7º; e IN RFB nº 1.455, de 06 de março de 2014, art. 17.
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: ROYALTIES. PAGAMENTO A RESIDENTE OU DOMICILIADO NO EXTERIOR. LICENÇA DE USO DE MARCA OU PATENTE. SERVIÇOS VINCULADOS.
+O pagamento, o crédito, a entrega, o emprego ou a remessa de valores a residentes ou domiciliados no exterior, a título de royalties, por simples licença ou uso de marca, ou seja, sem que haja prestação de serviços vinculada a essa cessão de direitos, não caracterizam contraprestação por serviço prestado e, portanto, não sofrem a incidência da Cofins-Importação. Entretanto, se o documento que embasa a operação não for suficientemente claro para individualizar, em valores, o que corresponde a serviço e o que corresponde a royalties, o valor total da operação será considerado como correspondente a serviços e sofrerá a incidência da contribuição.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 71, DE 10 DE MARÇO DE 2015.
+DISPOSITIVOS LEGAIS: Lei nº 4.506, de 30 de novembro de 1964, arts. 21 a 23; Lei nº 10.865, de 30 de abril de 2004, art. 1º, caput e § 1º, art. 3º, inciso II; e art. 7º; e IN RFB nº 1.455, de 06 de março de 2014, art. 17.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: ROYALTIES. PAGAMENTO A RESIDENTE OU DOMICILIADO NO EXTERIOR. LICENÇA DE USO DE MARCA OU PATENTE. SERVIÇOS VINCULADOS.
+O pagamento, o crédito, a entrega, o emprego ou a remessa de valores a residentes ou domiciliados no exterior, a título de royalties, por simples licença ou uso de marca, ou seja, sem que haja prestação de serviços vinculada a essa cessão de direitos, não caracterizam contraprestação por serviço prestado e, portanto, não sofrem a incidência da Contribuição para o PIS/Pasep-Importação. Entretanto, se o documento que embasa a operação não for suficientemente claro para individualizar, em valores, o que corresponde a serviço e o que corresponde a royalties, o valor total da operação será considerado como correspondente a serviços e sofrerá a incidência da contribuição.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 71, DE 10 DE MARÇO DE 2015.
+DISPOSITIVOS LEGAIS: Lei nº 4.506, de 30 de novembro de 1964, arts. 21 a 23; Lei nº 10.865, de 30 de abril de 2004, art. 1º, caput e § 1º, art. 3º, inciso II; e art. 7º; e IN RFB nº 1.455, de 06 de março de 2014, art. 17.
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: ROYALTIES. PAGAMENTO A RESIDENTE OU DOMICILIADO NO EXTERIOR. LICENÇA DE USO DE MARCA OU PATENTE. SERVIÇOS VINCULADOS.
+O pagamento, o crédito, a entrega, o emprego ou a remessa de valores a residentes ou domiciliados no exterior, a título de royalties, por simples licença ou uso de marca, ou seja, sem que haja prestação de serviços vinculada a essa cessão de direitos, não caracterizam contraprestação por serviço prestado e, portanto, não sofrem a incidência da Cofins-Importação. Entretanto, se o documento que embasa a operação não for suficientemente claro para individualizar, em valores, o que corresponde a serviço e o que corresponde a royalties, o valor total da operação será considerado como correspondente a serviços e sofrerá a incidência da contribuição.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 71, DE 10 DE MARÇO DE 2015.
+DISPOSITIVOS LEGAIS: Lei nº 4.506, de 30 de novembro de 1964, arts. 21 a 23; Lei nº 10.865, de 30 de abril de 2004, art. 1º, caput e § 1º, art. 3º, inciso II; e art. 7º; e IN RFB nº 1.455, de 06 de março de 2014, art. 17.
+OTHONIEL LUCAS DE SOUSA JUNIOR
+Coordenador da Cotex
