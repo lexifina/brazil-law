@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – COISA JULGADA – ARTIGO 741, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL – PRECEDENTE DO PLENÁRIO – AGRAVO DESPROVIDO.
+    1. Afasto o sobrestamento determinado a folha 129.
+    2. Eis a síntese do acórdão recorrido:
+    APELAÇÃO CÍVEL. POLÍTICA SALARIAL. SERVIDOR PÚBLICO. REAJUSTES PREVISTOS NA LEI ESTADUAL Nº 10.395/95 SOBRE VENCIMENTOS BÁSICOS. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. RELATIVIZAÇÃO DA COISA JULGADA. PRINCÍPIO DA ISONOMIA.
+    Restou verificado ajuizamento de ação anterior com mesmas partes, a mesma causa de pedir e o mesmo pedido. A mudança de entendimento do órgão fracionário da Corte sobre a matéria não autoriza o afastamento da coisa julgada. O fundamento da isonomia não tem o condão, na espécie, de relativizar a coisa julgada e prover o recurso, conforme, inclusive, dita a Súmula 339 do Supremo Tribunal Federal.
+    POR MAIORIA, NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO. VENCIDA A DESA. PRESIDENTE, QUE PROVIA O APELO.
+    Discute-se o alcance do aludido dispositivo da legislação instrumental, no que prevista a relatividade da coisa julgada, tema sobre o qual versam as ações diretas de inconstitucionalidade nº 2.418, da relatoria do ministro Teori Zavascki, e nº 3.740, cuja ementa restou assim redigida:
+    CONSTITUCIONAL. LEGITIMIDADE DAS NORMAS ESTABELECENDO PRAZO DE TRINTA DIAS PARA EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA (ART. 1º-B DA LEI 9.494/97) E PRAZO PRESCRICIONAL DE CINCO ANOS PARA AÇÕES DE INDENIZAÇÃO CONTRA PESSOAS DE DIREITO PÚBLICO E PRESTADORAS DE SERVIÇOS PÚBLICOS (ART. 1º-C DA LEI 9.494/97). LEGITIMIDADE DA NORMA PROCESSUAL QUE INSTITUI HIPÓTESE DE INEXIGIBILIDADE DE TÍTULO EXECUTIVO JUDICIAL EIVADO DE INCONSTITUCIONALIDADE QUALIFICADA (ART. 741, PARÁGRAFO ÚNICO E ART. 475-L, § 1º DO CPC/73; ART. 525, § 1º, III E §§ 12 E 14 E ART. 535, III, § 5º DO CPC/15).
+    1. É constitucional a norma decorrente do art. 1º-B da Lei 9.494/97, que fixa em trinta dias o prazo para a propositura de embargos à execução de título judicial contra a Fazenda Pública.
+    2. É constitucional a norma decorrente do art. 1º-C da Lei 9.494/97, que fixa em cinco anos o prazo prescricional para as ações de indenização por danos causados por agentes de pessoas jurídicas de direito público e de pessoas jurídicas de direito privado prestadoras de serviços públicos, reproduzindo a regra já estabelecida, para a União, os Estados e os Municípios, no art. 1º do Decreto 20.910/32.
+    3. São constitucionais as disposições normativas do parágrafo único do art. 741 do CPC, do § 1º do art. 475-L, ambos do CPC/73, bem como os correspondentes dispositivos do CPC/15, o art. 525, § 1º, III e §§ 12 e 14, o art. 535, § 5º. São dispositivos que, buscando harmonizar a garantia da coisa julgada com o primado da Constituição, vieram agregar ao sistema processual brasileiro um mecanismo com eficácia rescisória de sentenças revestidas de vício de inconstitucionalidade qualificado, assim caracterizado nas hipóteses em que (a) a sentença exequenda esteja fundada em norma reconhecidamente inconstitucional – seja por aplicar norma inconstitucional, seja por aplicar norma em situação ou com um sentido inconstitucionais; ou (b) a sentença exequenda tenha deixado de aplicar norma reconhecidamente constitucional; e (c) desde que, em qualquer dos casos, o reconhecimento dessa constitucionalidade ou a inconstitucionalidade tenha decorrido de julgamento do STF realizado em data anterior ao trânsito em julgado da sentença exequenda.
+    4. Ação julgada improcedente.
+    3. Diante do precedente, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 28 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
