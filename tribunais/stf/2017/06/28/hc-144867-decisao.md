@@ -1,0 +1,24 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Tráfico de entorpecentes. Dosimetria da Pena. Ausência de ilegalidade flagrante.
+    1. Trata-se de habeas corpus, sem pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria da Ministra Laurita Vaz, assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS . TRÁFICO ILÍCITO DE ENTORPECENTES. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4.º, DA LEI N.º 11.343/2006. MANUTENÇÃO DA NATUREZA HEDIONDA DO DELITO. PRECEDENTES. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4.º, DA NOVA LEI DE TÓXICOS. FIXAÇÃO DO QUANTUM DE REDUÇÃO. APLICAÇÃO, PELO JUÍZO SENTENCIANTE, NO PATAMAR DE 2/5. CONFIRMAÇÃO PELO TRIBUNAL A QUO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PLEITO DE SUBSTITUIÇÃO DA PENA. MEDIDA QUE NÃO SE MOSTRA SOCIALMENTE RECOMENDÁVEL NA HIPÓTESE. REGIME PRISIONAL FECHADO. OBRIGATORIEDADE. CRIME COMETIDO SOB A ÉGIDE DA LEI N.º 11.464/2007.
+    1. Segundo o entendimento da Quinta Turma deste Superior Tribunal de Justiça, a aplicação da causa de diminuição do art. 33, § 4.º, da Lei n.º 11.343/2006, não afasta o caráter hediondo do crime de tráfico de drogas. Precedentes.
+    2. O art. 42 da Lei n.º 11.343/2006 impõe ao Juiz considerar, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da droga, tanto na fixação da pena-base, quanto na determinação do grau de redução da causa de diminuição de pena prevista no § 4.º do art. 33 da nova Lei de Tóxicos.
+    3. Na hipótese, à luz do art. 42 da Lei n.º 11.343/2006, a variedade e a quantidade das substâncias apreendidas – 12 tabletes de ‘maconha’, pesando 19,5 quilos – justificam a não-aplicação do redutor em seu grau máximo, qual seja: 2/3.
+    4. Não havendo ilegalidade na fixação do quantum a ser reduzido pela minorante do art. 33, § 4.º, da Lei de Drogas, é vedado, na estreita via do habeas corpus, proceder ao amplo reexame dos critérios considerados para a sua fixação, por demandar análise de matéria fático-probatória.
+    5. O Plenário do Supremo Tribunal Federal, no julgamento do HC n.° 97.256/RS, Rel. Min. AYRES BRITTO, declarou, incidentalmente, a inconstitucionalidade da proibição da conversão da pena privativa de liberdade em restritivas de direitos, prevista no art. 44 da Lei n.º 11.343/2006.
+    6. Não obstante o afastamento da vedação legal, constata-se que, no caso em apreço, não se mostra socialmente recomendável a conversão da pena privativa de liberdade em sanções restritivas de direitos, tendo em vista as peculiaridades do caso, que justificaram, aliás, a aplicação do redutor em patamar intermediário, em razão da variedade e quantidade da droga apreendida.
+    7. O regime inicial fechado é obrigatório aos condenados pelo crime de tráfico de drogas cometido após a publicação da Lei n.º 11.464, de 29 de março de 2007, que deu nova redação ao § 1.º do art. 2.º da Lei 8.072/90, ressalvada a possibilidade de fixação de regime prisional mais brando, quando, aplicada a causa especial de diminuição prevista no § 4.º do art. 33 da lei n.º 11.343/06, for substituída a pena privativa de liberdade por restritivas de direitos, a fim de adequar a reprimenda ao benefício concedido justamente para evitar o encarceramento, o que não se verifica na espécie.
+    8. Recurso desprovido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 2 (dois) anos de reclusão, em regime inicial fechado, pelo crime previsto no artigo 33, § 4º, da Lei 11.343/06.
+    3. Em seguida, foi impetrado habeas corpus no Tribunal de Justiça do Estado do Mato Grosso do Sul. Denegada a ordem, foi interposto recurso ordinário no Superior Tribunal de Justiça, não provido.
+    4. Neste habeas corpus, a parte impetrante sustenta que a valoração da quantidade de droga apreendida na primeira fase da fixação da pena e também na definição do fator de redução previsto no art. 33, § 4º, da Lei nº 11.343/2006, configura bis in idem. Daí o pedido de concessão da ordem para que seja reduzida a pena imposta ao paciente.
+    Decido.
+    5. De início, observo que a matéria não foi apreciada pelo Tribunal Estadual, sendo inovada no julgamento do recurso ordinário interposto no Superior Tribunal de Justiça. O que impede o imediato exame da matéria por esta Corte, sob pena de supressão de instância.
+    6. Não bastasse isso, as peças que instruem o processo não ostentam teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício, notadamente se se considerar que se trata de tráfico de 19,50kg de maconha.
+    7. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 28 de junho de 2017.
+Ministro Luís Roberto Barroso
+Relator
+     Documento assinado digitalmente
