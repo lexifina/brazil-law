@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Mato Grosso, assim ementado:
+    “APELAÇÃO CIVEL – HORAS EXTRAS – POLÍCIA MILITAR – IMPOSSIBILIDADE - AUSÊNCIA DE LEGISLAÇÃO ESPECÍFICA – RECURSO IMPROVIDO. 1- Os servidores militares dos Estados, Distrito Federal e Territórios, compreendidos os policiais e bombeiros, possuem regime especial definido no art. 42, § 1º e art. 142, ambos da Constituição Federal. 2- A Constituição Federal não estabelece ao militar a obrigatoriedade da carga horária de trabalho de 40 (quarenta) horas e o direito a horas extraordinárias, sendo vedado ao jurista intérprete da norma socorrer-se à interpretação extensiva, caso não haja lei específica”. (eDOC 2, p. 7)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, b, c e d, da Constituição Federal, aponta-se violação aos arts. 5º, I, XXXV e LV; e 7º, XIII, XV e XVI do texto constitucional.
+    Nas razões recursais, o recorrente alega que, ao não atender ao pedido de requisição judicial das escalas de serviços e dos documentos dos eventuais pagamentos de horas extras, o Tribunal a quo cerceou seu direito de defesa. (eDOC 2, p. 83)
+    No mérito, afirma-se que deve ser aplicada aos militares do Estado a jornada constitucional de 44 horas semanais, sob a pena de torná-los trabalhadores escravos. (eDOC 2, p. 89)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Registro que a controvérsia versada no recurso extraordinário corresponde ao tema 424 da sistemática da repercussão geral, cujo paradigma é o ARE-RG 639.228, DJe 31.8.2011. Transcrevo sua ementa:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional”.
+    O Tribunal de origem, ao examinar as Leis Complementares Estaduais 4/1990 e 231/2005, legislação local aplicável à espécie, consignou que não foi instituída jornada de trabalho para os militares estaduais, de modo que não haveria suporte legal para a condenação do recorrido ao pagamento de horas extras.
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. POLICIAL MILITAR. REGIME DE PLANTÃO. PERCEPÇÃO DE HORAS EXTRAS. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO”. (ARE 987270 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 2.12.2016)
+    “Agravo regimental em recurso extraordinário. 2. Policial-Militar. Jornada de trabalho. Limitação. Ausência de previsão constitucional que ampare a pretensão da agravante. 3. Inexistência de previsão infraconstitucional que disponha sobre a vantagem ou garantia aos servidores policiais-militares. 4. Agravo regimental a que se nega provimento”. (RE 725180 AgR, rel. Min. Gilmar Mendes, Segunda Turma, DJe 7.3.2013)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
