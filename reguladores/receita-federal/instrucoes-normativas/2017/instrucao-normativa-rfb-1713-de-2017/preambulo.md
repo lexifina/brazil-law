@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1713, de 26 de junho de 2017
+Dispõe sobre o parcelamento de débitos devidos pelo Microempreendedor Individual, apurados na forma do Sistema de Recolhimento em Valores Fixos Mensais dos Tributos abrangidos pelo Simples Nacional (Simei).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 9º da Lei Complementar nº 155, de 27 de outubro de 2016, e na Resolução CGSN nº 134, de 13 de junho de 2017, resolve:
