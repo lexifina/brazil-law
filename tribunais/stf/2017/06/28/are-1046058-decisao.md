@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional da 3ª Região assim ementado, no relevante:
+    “PROCESSUAL CIVIL - AGRAVO LEGAL (ART. 557, § 1o, AFASTAMENTO DAS DISPOSIÇÕES DO ART. 14, X DA MP 2158-35/01 NOS TERMOS DO INCONSTITUCIONALIDADE – MANUTENÇÃO DA DECISÃO (...)”. (eDOC 3, p. 137)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos artigos 195, § 7º; e o 150, VI, c, do texto constitucional.
+    Nas razões recursais, aponta-se que, no termos do artigo 14, X, da MP 2.158-35/01, apenas estão isentas da contribuição à COFINS as receitas de atividades própria da entidade beneficente.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Verifico que o entendimento firmado pelo acórdão recorrido não diverge da jurisprudência desta Corte, no sentido de que as instituições de assistência social, sem fins lucrativos, desde que atendidos os requisitos da lei para o enquadramento de entidade beneficente, possuem imunidade tributária.
+    Confiram-se, a propósito, os seguintes julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IMUNIDADE TRIBUTÁRIA. PIS. SOCIEDADES BENEFICENTES DE ASSISTÊNCIA SOCIAL. DECISÃO AGRAVADA EM CONFORMIDADE COM O ENTENDIMENTO ASSENTADO PELO PLENÁRIO EM SEDE DE REPERCUSSÃO GERAL. 1. No julgamento do RE 636.941-RG, sob a relatoria do Ministro Luiz Fux, a Corte definiu três pontos essenciais sobre a matéria em questão: (i) o PIS é uma contribuição social vertida em favor da seguridade social, razão pela qual se sujeita ao regime jurídico constante do art. 195 da Carta; (ii) a lei de que trata o art. 195, § 7º, da Constituição é a lei ordinária que prevê os requisitos formais de estrutura, organização e funcionamento das entidades beneficentes de assistência social; (iii) ainda que se admita, hipoteticamente, que o dispositivo constitucional demanda complementação pela via da lei complementar, a imunidade possui eficácia imediata, devendo ser reconhecida em favor do contribuinte ainda que pendente de regulamentação. 2. As razões de decidir adotadas pela decisão monocrática foram confirmadas pelo Plenário da Corte. 3. Agravo regimental a que se nega provimento”. (RE 594.914-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma, DJe 14.4.2014)
+    “CONSTITUCIONAL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. imunidade TRIBUTÁRIA. IMPOSTO DE RENDA SOBRE RENDIMENTO E GANHOS DE CAPITAL. ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. ARTIGO 12, § 1º, DA LEI 9.532/97. EFICÁCIA SUSPENSA. ADI 1.802-MC/DF. MEDIDA CAUTELAR. EFEITO ERGA OMNES. 1. Esta Suprema Corte, ao julgar a ADI 1.802-MC/DF, deferiu, em parte, o pedido de medida cautelar, para suspender, até a decisão final da ação direta, a eficácia do § 1º do artigo 12 da Lei 9.532/97. 2. Conforme dispõe o artigo 11, § 1º, da Lei 9.868/99, a medida cautelar em ação direta de inconstitucionalidade é dotada de eficácia contra todos. 3. O julgamento de medida cautelar em ação direta de inconstitucionalidade permite a análise imediata de recursos que tratem da matéria nela debatida. Precedente. 4. Agravo regimental a que se nega provimento” (RE-AgR 480.021, Rel. Min. Ellen Gracie, Segunda Turma, DJe 8.2.2011).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de junho de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
