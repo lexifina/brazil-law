@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Décima Nona Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 14, pp. 31/32):
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. DEMANDA DEFLAGRADA PELO MINISTÉRIO PÚBLICO ESTADUAL. MATÉRIA AFETA ÀS POLÍTICAS PÚBLICAS NO MUNICÍPIO DE MARICÁ. Alegação de falta de saneamento básico, pavimentação nas ruas, ausência de rede de esgoto, de água e drenagem das águas pluviais. Pedido consistente na apresentação de plano de pavimentação, de macro e microdenagem de águas pluviais, com apresentação de projetos de redes de esgoto. Sentença improcedente. Apelo ofertado pelo demandante. Preliminar de nulidade. Rejeição. Livre apreciação da prova pelo Juiz, a quem cabe indeferir as diligências que entender inúteis ou desnecessárias. Causa de pedir que se sustenta na violação de direitos constitucionais. No mérito, correta a sentença de improcedência. A Administração, segundo os elementos dos autos, tem agido para solucionar a questão. Na hipótese em comento, em se tratando de implantação de políticas públicas, com a apresentação de projetos de pavimentação, urbanismo e saneamento básico a cargo do Poder Executivo municipal, o Judiciário somente pode intervir em caráter excepcional, desde que demonstradas circunstâncias violadoras dos princípios constitucionais fundamentais, o que não é o caso.
+    APELO CONHECIDO E DESPROVIDO.”
+    Os embargos de declaração foram rejeitados (eDOC 15, pp. 8-11).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 23, IX, 196 e 197 da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma (eDOC 15: p. 23):
+    “Com efeito, pretensão recursal é amparada no preceito constitucional consignado no inciso IX, do art. 23, da Carta Magna, o qual confere à União, Estados, Distrito Federal e Municípios a competência comum para promover a melhoria das condições habitacionais e de saneamento básico.
+    Esclareça-se que o direito à pavimentação, à drenagem de águas pluviais, ao abastecimento de água e à coleta de esgoto são direitos que estão ínsitos ao gozo de vida em condições dignas de saúde, num meio ambiente equilibrado. A saúde é um direito fundamental do ser humano, devendo o Estado, pautando-se nos princípios da universalidade e igualdade, prover as condições indispensáveis ao seu pleno exercício.”
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 14, pp. 44/45):
+    “No caso em comento não houve a demonstração de indivíduos em situação desumana ou degradante. Tampouco há prova da ocorrência de total descaso dos réus, sendo certo que o Judiciário não pode impor ao Poder Executivo a obrigação de pavimentar todas as ruas de Maricá, tampouco de criar planos de drenagem e esgoto nos moldes desejados pelo postulante, na medida em que tais atos se inserem no âmbito do mérito administrativo, a depender, inclusive, de previsão orçamentária para esse fim. Toda essa evolução é paulatina e depende das metas definidas pelos seus Governos.
+    O pleito autoral, desacompanhado da demonstração efetiva de total omissão ou total violação dos direitos sociais e da dignidade da pessoa humana, denota intervenção indevida, precoce e reflexa nas políticas públicas governamentais, violando os preceitos orçamentários, já que de sua implantação decorreria o dispêndio de verba pública, em violação aos arts. 165 e 167, I, II e VI, todos da CRFB/88.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do CPC.
+    Publique-se.
+    Brasília, 29 de junho de 2017.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
