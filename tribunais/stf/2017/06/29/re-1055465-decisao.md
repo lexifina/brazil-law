@@ -1,0 +1,31 @@
+DECISÃO:
+    Vistos.
+    União e Estado de Pernambuco interpõem recursos extraordinários, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. MEDICAMENTO/APARELHO. BOTTON DE GASTROSTOMIA BALONADO. MENOR IMPÚBERE. AGRAVO RETIDO. INTERPOSTO APÓS A APELAÇÃO. NÃO CONHECIMENTO. DIREITO À SAÚDE. RESPONSABILIDADE SOLIDÁRIA DOS ENTES DA FEDERAÇÃO. OCORRÊNCIA. LEGITIMIDADE AD CAUSAM DO ESTADO DE PERNAMBUCO E DA UNIÃO. RESERVA DO POSSÍVEL. NÃO APLICAÇÃO. APARELHO CONSTANTE DOS REGISTROS DA ANVISA, MAS NÃO FORNECIDO PELO SUS. AUSÊNCIA DE ÓBICE AO SEU FORNECIMENTO.
+    1. Remessa oficial e apelações da União e do Estado de Pernambuco, em face da sentença que julgou procedente o pedido, para condenar a União e o Estado de Pernambuco a fornecerem o botton de gastrostomia balonado, conforme prescrição médica, bem como a sua devida colocação e substituição, sempre que necessário.
+    2. O Agravo Retido - que se insurge contra a decisão interlocutória que majorou as , foi este interposto astreintes - em 19.11.2014, portanto, posteriormente à sentença proferida em 31.07.2014 e ao recurso de apelação em 08.08.2014.
+    3. Este recurso está condicionado à reiteração expressa nas razões ou resposta da apelação, nos exatos termos do art. 523, § 1º, do CPC, significando dizer que a decisão agravada deve ser anterior ao recurso de apelação. Tendo sido, no caso, interposto após o recurso, não deve ser conhecido.
+    4. A Autora, menor assistida por sua genitora, atualmente com 2 anos e 6 meses de idade, possui sequela neurológica com retardo do desenvolvimento fisiológico normal (CID 10 R62), com quadro de disfagia grave. Em razão deste fato, necessita alimentar-se de comunicação cirúrgica realizada no abdome (gastronomia).
+    5. A despeito de já fazer uso de sonda de gastronomia balonada, foi solicitado pelo médico, o uso de BOTTONDE GASTROSTOMIA, em razão de a sonda atualmente utilizada precisar ser mensalmente substituída, fato este que potencializa risco de infecção, além de diminuir a qualidade de vida da paciente. Não obstante tal aparelho seja autorizado pela ANVISA, ele não é regularmente fornecido pelo SUS.
+    6. A questão discutida nos autos recai sobre o direito fundamental à saúde, constitucionalmente garantido (art. 196), com a determinação de ser dever do Estado, garantir a saúde a todos, devendo, para tanto, realizar políticas públicas, sociais e
+    econômicas que concretizem e tornem efetivo esse direito.
+    7. A matéria suscitada na peça recursal - solidariedade passiva da União, Estados e Municípios, no fornecimento de medicamento -, já foi decidida pelo colendo Supremo Tribunal Federal, em sua composição plena no julgamento do AI 808059 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Primeira Turma, julgado em 02/12/2010, DJe-020 DIVULG 31-01-2011 PUBLIC 01-02-2011 EMENT VOL-02454-13 PP-03289.
+    8. Não há como a União e o Estado de Pernambuco se eximirem da responsabilidade. Preliminar de ilegitimidade passiva para a causa, rejeitada.
+    9. A reserva do possível não pode ser invocada com o intuito de fraudar, frustrar ou mesmo inviabilizar a implementação de políticas públicas constitucionalmente previstas, por encontrar insuperável limitação na garantia constitucional do mínimo existencial. Precedente do STF: ARE 639337 AgR, Relator(a): Min. CELSO DE MELLO, Segunda Turma, julgado em 23/08/2011, DJe-177 DIVULG 14-09-2011 PUBLIC 15-09-2011 EMENT VOL-02587-01 PP-00125.
+    10. O não fornecimento do medicamento na lista do SUS, a despeito de constar dos registros da ANVISA, não pode, por si só, ser óbice à pretensão deduzida, notadamente quando o medicamento foi prescrito por médico capacitado, e necessário à saúde da parte, considerando as graves peculiaridades do caso concreto.
+    11. Além da prescrição médica à Autora, a perícia judicial constante dos autos, a declaração médica do IMIP, bem como o Parecer Ministerial acostado aos autos em Primeira Instância com fundamento em laudo médico realizado em vistora oficial, integrante do Serviço de Gastroenterologia Pediátrica do Hospital das Clínicas da UFPE, foram todos unânimes em afirmar a necessidade de utilização do Botton de Gastrostomia Balonado, inclusive, para maior bem estar à usuária e familiares.
+    12. Restando efetivamente comprovada a necessidade de utilização do Botton de Gastrostomia Balonado pela menor/Autora, irreparável a sentença recorrida em todos os seus termos.
+    13. Agravo retido não conhecido. Preliminares rejeitadas. Apelações e remessa oficial improvidas..”
+    Opostos embargos declaratórios por ambos os recorrentes, não foram providos.
+    No recurso extraordinário da União sustenta-se violação dos artigos 2°, 5º, incisos V, X, LIV, LV, 93, inciso IX, 198, inciso I, da Constituição.
+    Já o Estado de Pernambuco, por sua vez, alega em seu apelo extremo contrariedade aos artigos 2°, 5°, caput, inciso XXI, 196, caput, da Constituição Federal.
+    Decido.
+    Esta Corte, ao examinar os Recursos Extraordinários nºs 855.178/SE e 566.471/RN concluiu pela existência da repercussão geral das matérias constitucionais tratadas nestes autos.
+    A primeira matéria corresponde ao tema 793 da Gestão por Temas da Repercussão Geral do portal do STF na internet , no qual se examina a existência, ou não, de responsabilidade solidária entre os entes federados pela promoção dos atos necessários à concretização do direito à saúde, tais como o fornecimento de medicamentos e o custeio de tratamento médico adequado aos necessitados.
+    O segundo assunto, por sua vez, é relativo ao tema 6 da Gestão por Temas da Repercussão Geral do portal do STF na internet e trata da obrigatoriedade, ou não, de o Estado fornecer medicamento de alto custo a portador de doença grave que não possui condições financeiras para comprá-lo.
+    Ante o exposto, nos termos do art. 328 do Regimento Interno do Supremo Tribunal Federal, determino a devolução dos autos ao Tribunal de origem para aplicação da sistemática da repercussão geral.
+    Publique-se.
+    Brasília, 29 de junho de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
