@@ -1,0 +1,15 @@
+Poder Legislativo Assembleia Legislativa do Estado do Amazonas
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS Av. Mário Ypiranga Monteiro (antiga Recife), 3950, Parque Dez, CEP: 69.050-030, Manaus - Amazonas
+
+Fone: (+55) (092) 3183-4444, CNPJ: 04.530.820/0001-46
+
+www.ale.am.gov.br
+
+LEI N. 4.454, DE 31/3/2017
+
+INSTITUI adicional nas alíquotas do ICMS, nos termos do artigo 82 do Ato das Disposições Constitucionais Transitórias da Constituição Federal.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+D E C R E T A:
