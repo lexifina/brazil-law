@@ -1,0 +1,16 @@
+Trata-se de embargos de declaração opostos contra decisão da Ministra Cármen Lúcia, minha antecessora na relatoria do feito, que primeiramente negou seguimento ao pedido inicial do mandado de segurança (doc. eletrônico 11), bem como indeferiu o pedido “inominado de reconsideração”, que asseverou “ineficácia do peticionamento eletrônico no Tribunal de Origem”(doc. eletrônico 13), ambos contra ato imputado ao Desembargador relator do Agravo de Instrumento 2074042.30.2016.8.26.0000, em trâmite na Primeira Câmara Reservada ao Meio Ambiente do Tribunal de Justiça de São Paulo.
+          O recorrente requer, em suma, que,
+          [...] se tratando de repercussão geral o fato da ineficácia do peticionamento eletrônico, pela estrondosa demora nos julgamentos e pelo represamento digital das demandas, aliada ao fato de que a construção do presídio se dá clandestinamente, a combativa defesa invoca o direito de ação perante ao Supremo Tribunal Federal, para cumprimento do Novo código de Processo Civil, para que Vossa Excelência responda a seguinte indagação:
+    Pelo exposto, requer:
+    1 – Que V.Exa se manifesta sobre a fundamentação de item 8 de Vossa Excelência citada acima, de como se dá o retardo por parte da presente demanda no julgamento do feito, vez que a gravidade do fato apontado merece todo respeito da nação brasileira, posto que após o julgamento virtual da demanda pelo TJSP o presidio clandestino e irregular já estará concluído e o socorro do STF será ineficaz por omissão[...].
+    É o relatório. Decido.
+    Preliminarmente, ressalto que a jurisprudência desta Suprema Corte é firme e consolidada no sentido de que não se faz necessária a manifestação do julgador sobre todas as teses jurídicas ventiladas pelas partes, tal como ocorreu, bastando a demonstração de fundamento suficiente para a solução da controvérsia. Nesse sentido, cito o RE 465.739-AgR-ED/SC, Relatoria do Ministro Ayres Britto, cuja ementa transcrevo a seguir:
+    EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDORES DO ESTADO DE SANTA CATARINA. GRATIFICAÇÃO COMPLEMENTAR DE VENCIMENTO. § 6º DO ARTIGO 10 DA LEI ESTADUAL Nº 9.503/94. OMISSÃO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS. Não padece de omissão o acórdão proferido de forma clara, precisa e suficientemente fundamentada, pois é cediço que o Juiz não está obrigado a responder, um a um, aos argumentos expendidos pelas partes. Matéria de fundo dirimida em conformidade com a jurisprudência do Plenário e de ambas as Turmas do STF. Precedentes: RE 426.059, 422.154-AgR, 426.058-AgR, 426.060-AgR e 433.236- AgR. Embargos de declaração rejeitados.
+    De toda sorte, uma vez que o pedido de “tutela de urgência” não foi deferido, não se obstou o transcurso do prazo recursal para impugnação da decisão que negou seguimento ao presente writ.
+    Desse modo é forçoso reconhecer o respectivo trânsito em julgado daquele decisum.
+    Isso posto, não conheço dos presentes embargos declaratórios (art. 1.024, § 2°, do CPC).
+    À Secretaria Judiciária para certificar o trânsito em julgado da decisão proferida em 12/05/2016, dando-lhe cumprimento ao que nela decidido.
+    Publique-se.
+    Brasília, 29 de junho de 2017.
+Ministro Ricardo Lewandowski
+Relator
