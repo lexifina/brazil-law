@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior Eleitoral.
+    O recorrente sustenta a existência de repercussão geral da matéria discutida, apontando violação ao art. 5º, IV, XIV, e LIV, da Constituição Federal. Alega a inconstitucionalidade material do art. 57-C da Lei 9.504/1997, que determina a vedação absoluta de propaganda eleitoral paga na internet.
+    Segundo o recorrente, o dispositivo incide em frontal inconstitucionalidade, visto que restringe a liberdade de manifestação do cidadão e a garantia de amplo acesso à informação, além de macular os princípios da razoabilidade e da proporcionalidade.
+    O Tribunal Superior Eleitoral negou seguimento ao recurso extraordinário, sustentando que o acórdão recorrido não nega vigência aos aludidos dispositivos constitucionais, mas interpreta a legislação pertinente – Lei 9.504/1997 – para afastar a preliminar suscitada e concluir pela procedência da representação em relação ao recorrente.
+    O recorrente interpôs agravo à decisão, ante os fundamentos expostos no recurso extraordinário.
+    Nas contrarrazões ao agravo, as agravadas sustentam que o art. 57-C, da Lei 9.504/1997, não padece de inconstitucionalidade material, na medida em que não há, na espécie, violação clara, completa e inequívoca de normas constitucionais. Defendem a manutenção do dispositivo e a presunção de sua constitucionalidade.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 29 de junho de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
