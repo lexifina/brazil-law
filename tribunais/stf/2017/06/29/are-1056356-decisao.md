@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5º, XXXVI, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Assentado no voto condutor do acórdão recorrido que “(...) não há que se falar em coisa julgada e imutabilidade da decisão, pois se trata de despacho de mero expediente e, portanto, não recorrível”, deixou a parte recorrente de impugnar tal fundamento, ensejando o entendimento jurisprudencial vertido vertido na Súmula 283 e 284/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Ademais, a discussão relativa à fixação de verba honorária não alcança estatura constitucional, tendo em vista que a análise das violações apontadas no apelo extremo demandaria, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, em desatenção à exigência contida no art. 102, III, “a”, da Lei Maior. Precedentes nesse sentido, entre outros:
+    “DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AOS ARTS. 5º, XXXV, LIV, LV E 133 DA CONSTITUIÇÃO DA REPÚBLICA. CONTROVÉRSIA SOBRE EXECUÇÃO PROVISÓRIA E HONORÁRIOS ADVOCATÍCIOS. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 22.4.2014. O exame das alegadas ofensas à Constituição Federal dependeriam de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal. Agravo regimental conhecido e não provido.” (ARE 825.876-AgR/DF, de minha relatoria, 1ª Turma, DJe 13.10.2014.)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Previdenciário e Processo Civil. Fixação dos honorários advocatícios. Matéria infraconstitucional. Ofensa reflexa. Incidência do Enunciado 279 da Súmula do STF. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE 706.879-AgR/MG, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 06.6.2014.)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA ORIGEM: DISCUSSÃO SOBRE O PERCENTUAL E A FORMA DE INCIDÊNCIA. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 740.552-AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 13.6.2013)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de junho de 2017.
+Ministra Rosa Weber
+Relatora
