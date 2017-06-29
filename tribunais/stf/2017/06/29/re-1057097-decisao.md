@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Dentscare Ltda. Aparelhado o recurso na afronta aos arts. 5º, X, 170, IV, e 173, § 4º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos apontados dispositivos da Constituição da República.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Programa aplicativo fiscal. Obrigação acessória. Convênio do CONFAZ. Decreto estadual. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 766.258-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 25.05.2017)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. FIXAÇÃO DE OBRIGAÇÕES ACESSÓRIAS PRETENSAMENTE CONTRÁRIAS AO SIGILO COMERCIAL. ANÁLISE DAS EXIGÊNCIAS. SÚMULA 279/STF. 1. O Supremo Tribunal Federal assentou a ausência de repercussão geral da controvérsia relativa à violação aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes). 2. Analisando detidamente a prova dos autos, o acórdão recorrido apontou que as exigências supostamente contrárias ao sigilo comercial foram revogadas posteriormente por meio de convênio firmado no âmbito do Confaz. Não obstante, apontou-se que as informações seriam recebidas em arquivo digital criptografado, protegidas pelo sigilo fiscal. O acolhimento da pretensão encontra óbice na Súmula 279/STF. 3. Agravo regimental a que se nega provimento.” (ARE 876.044-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 22.5.2015)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de junho de 2017.
+Ministra Rosa Weber
+Relatora
