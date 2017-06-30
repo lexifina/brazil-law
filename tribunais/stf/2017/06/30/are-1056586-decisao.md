@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal Regional Federal da 5ª Região confirmou o entendimento do Juízo quanto à concessão da segurança para declarar a nulidade do ato de homologação do resultado de concurso público. No extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 2º, 5º, inciso XXXV, e 37, incisos I e II, da Constituição Federal. Entende contrariados os princípios da isonomia e separação dos Poderes. Diz não preenchidos pelo candidato os critérios para a obtenção da pontuação pleiteada.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Tribunal de origem expressamente consignou a presença de irregularidades no certame. Confiram com os seguintes fundamentos:
+    No caso em tela, as irregularidades na condução do processo administrativo de seleção de professores prejudicaram o apelado, em especial pelo extravio dos memoriais necessários à avaliação, como disciplinado pelo art. 16 §1º da Resolução n°10/ CEPE, que prevê que a prova de julgamento de títulos compreende a análise dos memoriais apresentados pelo candidato.
+    Ressalte-se que o edital UFC ° 029/2006, fls. 39/42, também não estabelecia o critério de aferição da pontuação a ser atribuída aos títulos apresentados, denotando a falta de clareza nas normas constantes do edital do concurso, quanto à forma de avaliação dos títulos.
+    Sem embargos, relatam os autos que embora a Comissão Julgadora não estivesse de posse dos memoriais necessários à avaliação dos títulos, atribuiu ao apelado a nota de 0,9 à sua titulação. Ainda, no novo julgamento de títulos realizado em 24/10/2006, a comissão deixou de atribuir ao recorrido os pontos correspondentes à Dissertação de Mestrado, conquanto este houvesse apresentado, fl. 33, “certidão de obtenção do grau de mestre do postulante, datada de 29/05/2006, assinada pela professora Denise Lucena Cavalcante, Coordenadora do Curso de Mestrado da Faculdade de Direito da UFC” e “Declaração de obtenção do Grau de Mestre do postulante, datada de 29/05/2006, assinada pela Sra. Marilene Diogo S. Arrais, Secretária do Mestrado de Direito da UFC”.
+    À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
