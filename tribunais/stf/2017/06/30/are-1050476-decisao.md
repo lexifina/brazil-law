@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 13ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 32, p. 50):
+    “Licitação. Fornecimento do terreno para construção de casas populares. Pertinência de contratação para “empreitada total”. Ausência de irregularidade ou ilegalidade no preço contratado e reajustamento. Improbidade não caracterizada. Recurso desprovido.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37, “caput” e XXI, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma:
+    “Com efeito, quando a lei prevê que a contratação pode ser realizada no regime de empreitada integral (art. 6º, VIII, “e”, da Lei n. 8.666/93), o faz para que seja possível à Administração contratar objeto em condições de pleno funcionamento, sendo exemplo disto a avença que objetive a construção e operação de um hospital. O Poder Público se interessa, no exemplo proposto, não apenas pela construção do prédio, mas também pela instalação de todos os equipamentos necessários para o tratamento de pacientes (o que implica a execução de redes internas à própria construção). Bem por isto, nestes casos admitisse a formação de consórcios, exatamente para que a competitividade não seja restrita em demasiado e possa a Administração obter proposta vantajosa.
+    No caso concreto, a Administração contratou a construção de conjuntos habitacionais, sendo óbvio que não havia qualquer razão para que o contratado fornecesse, também, o terreno. Houve evidente restrição ao caráter competitivo do certame.” (eDOC 32, pp. 81/82)
+    “A exigência no edital de que a eventual empresa concorrente fosse proprietária ou promitente compradora de imóvel compatível com a dimensão do empreendimento, é cláusula que se configura restritiva da competitividade, haja vista que impertinente ao regime de empreitada integral.” (eDOC 32, p. 83)
+    “Após adjudicação do objeto à única licitante aparentemente apta, foi celebrado o ajuste que antecipou o pagamento à empresa e lhe possibilitou, enfim, a aquisição do terreno. Todavia, esta faculdade não estava prevista no edital.” (eDOC 32, p. 83)
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso ao entendimento de que inexistiu afronta direta à Carta da República e que incide à espécie a Súmula 282 do STF (eDOC 33, pp. 7/8).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Conforme depreende-se da leitura da ementa do acórdão recorrido, o Tribunal de origem assentou a pertinência da contratação sob a forma de “empreitada total”, a ausência de irregularidade ou ilegalidade no preço contratado e reajustamento, bem como não restar caracterizada a improbidade (eDOC 32, pp. 50-54).
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos e das normas editalícias, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 454 do STF.
+    Ademais, a discussão referente ao correto enquadramento das alegadas irregularidades na conduta configuradora de ato de improbidade administrativa, bem como sobre o regime de contratação revela-se adstrita ao âmbito infraconstitucional, a exigir juízo prévio de legalidade (Leis 8.429/1992 e 8.666/1993), tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que obstaculiza o acesso à via do recurso extraordinário.
+    Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPROBIDADE ADMINISTRATIVA. SUSPENSÃO DE DIREITOS POLÍTICOS. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO E NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 810.865 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 29.9.2014)
+    Agravo regimental em agravo de instrumento. 2. Direito Administrativo. 3. Improbidade administrativa. Ação civil pública. Contratação de advogado sem procedimento licitatório. 4. Leis n. 8.429/92 e 8.666/93. Prévia análise da legislação infraconstitucional. Impossibilidade em sede de recurso extraordinário. 5. Revolvimento do acervo fático-probatório. Incidência do Enunciado 279 da Súmula desta Corte. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento. (AI 737.547 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 4.6.2013)
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do CPC e art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de junho de 2017.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
