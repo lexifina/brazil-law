@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Conselho Regional de Enfermagem de Santa Catarina – COREN/SC. Aparelhado o recurso na afronta aos arts. 1º, III, e 196, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo (Resolução 375/2011 e Portarias 2048/2002 e 1010/2012), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário. Direito Constitucional. Prequestionamento. Ausência. Ação civil pública. Adequação do número de enfermeiros em hospital público aos ditames legais. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. Lei federal nº 7.498/86. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. O Poder Judiciário, em situações excepcionais, pode determinar que a Administração pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação dos poderes, inserto no art. 2º da Constituição Federal. 3. Inviável, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 636 e 279/STF. 4. Agravo regimental não provido. 5. Inaplicável o art. 85, § 11, do CPC, pois não houve fixação prévia de honorários advocatícios na causa.” (RE 827662 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 09/09/2016, PROCESSO ELETRÔNICO DJe-212 DIVULG 04-10-2016 PUBLIC 05-10-2016.)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2017.
+Ministra Rosa Weber
+Relatora
