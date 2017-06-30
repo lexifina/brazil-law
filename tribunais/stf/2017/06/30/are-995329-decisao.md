@@ -1,0 +1,14 @@
+Decisão
+    Cuida-se de agravo contra decisão da instância de origem que, aplicando precedentes desta Corte formados sob a sistemática da repercussão geral (ARE 748.371-RG e AI 791.292-RG, ambos de Rel. Min. GILMAR MENDES, Temas 660 e 339, respectivamente), negou seguimento ao recurso extraordinário e, quanto às demais questões, inadmitiu o recurso em face dos óbices das Súmulas 282, 279 e 280 desta Corte.
+    É o relatório. Decido.
+    A jurisprudência desta Corte firmou entendimento pela inadmissibilidade de agravo para o Supremo Tribunal Federal com o objetivo de impugnar decisão da instância de origem que aplica a sistemática da repercussão geral, seja inadmitindo o recurso extraordinário, seja sobrestando-o até a formação de precedente pela Suprema Corte, pois, como destacado pelo Decano de nosso Supremo Tribunal Federal, MIN. CELSO DE MELLO, “se revela incognoscível o recurso deduzido contra decisão que, ao aplicar os parágrafos do art. 543-B do CPC/73, faz incidir, no caso concreto, orientação plenária desta Suprema Corte, não importando que se trate de ato decisório que deixa de reconhecer a existência de repercussão geral da controvérsia jurídica ou que se cuide de julgamento de mérito sobre matéria cuja repercussão geral tenha sido anteriormente proclamada”(RE 1023231/PR, DJe de 21/2/2017).
+    Dessa forma, não existe, em relação à decisão do Juízo de origem que aplicou a sistemática da repercussão geral, previsão legal de interposição de recurso (Pleno, AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 994.469, Relatora: Min. CÁRMEN LÚCIA (Presidente), DJe de 14/3/2017).
+    Ademais, na presente hipótese, o Juízo de origem, tendo em vista “a eficácia preclusiva da coisa julgada material” (e-STJ, fl. 58, Vol. 1), negou provimento à apelação ao entendimento de que, no caso, não é possível rediscutir na presente demanda direito que já foi discutido pelas mesmas partes em ação anterior, visando aos reajustes previstos na Lei Estadual 10.395/95. Para chegar a essa conclusão, o acórdão procedeu à análise do Código de Processo Civil/1973 e da referida lei estadual.
+    Efetivamente, a solução dessa controvérsia depende da análise da legislação infraconstitucional, o que é incabível em recurso extraordinário, bem como do revolvimento da legislação local que rege os reajustes em tela, o que atrai o óbice consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (CPC/2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 30 de junho de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
