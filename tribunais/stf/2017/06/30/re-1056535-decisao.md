@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça Militar do Estado de Minas Gerais confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de calúnia, previsto no artigo 214, do Código Penal Militar. No extraordinário, o recorrente aponta a violação dos artigos 5º, inciso LV, 92, inciso VI e 93, inciso IX, da Constituição Federal. Argui a nulidade da sentença por ausência de fundamentação no tocante à dosimetria da pena e ao benefício da suspensão condicional do processo, tendo como cerceado o direito de defesa.
+    2. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    De início, sob o ângulo da falta de fundamentação, verifica-se a não interposição de embargos declaratórios, ficando afastada a possibilidade de concluir-se pela ofensa ao artigo 93, inciso IX, da Constituição Federal.
+    Colho do acórdão recorrido o seguinte trecho:
+    Com efeito, essa preliminar não pode prosperar, notadamente porque as razões manifestadas na primeira oportunidade da oferta de benefícios penais ( fls. 106 e 108 dos autos) deixam claro o entendimento de que é incabível a plicação de instituto despenalizador em razão da gravidade do delito, tendo esse entendimento sido explicitado pelo próprio Ministério Público e a ele anuído os eminentes Juízes que compõem o CEJ.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/M, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Nego seguimento ao extraordinário. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 30 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
