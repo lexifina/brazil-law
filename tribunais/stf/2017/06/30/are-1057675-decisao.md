@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 146, III, “a”, e 153, II, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O exame de eventual ofensa aos preceitos constitucionais indicados nas razões recursais demanda, além do exame de cláusulas contratuais, o revolvimento do quadro fático delineado, procedimentos vedados em sede extraordinária conforme disposto nas Súmulas 279 e 454/STF. Colho precedentes:
+    “DIREITO TRIBUTÁRIO. IMPOSTO SOBRE O LUCRO LÍQUIDO. SOCIEDADE POR QUOTAS DE RESPONSABILIDADE LIMITADA. CONTRATO SOCIAL. LUCRO. DISPONIBILIDADE. LEI 7.713/1988, ART. 35. IMPOSSIBILIDADE DE REAPRECIAÇÃO DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS STF 279 E 454. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à indispensabilidade do reexame de fatos e cláusulas contratuais, a inviabilizar o trânsito do recurso extraordinário. Agravo regimental conhecido e não provido.” (AI 737.654-AgR, de minha lavra,1ª Turma, DJe 06.12.2012.)
+    “Agravo regimental no agravo de instrumento. Negativa de prestação jurisdicional. Não ocorrência. Artigo 35 da Lei nº 7.713/88. Sócio quotista. Disponibilidade jurídica. Constitucionalidade. Ausência de imediata distribuição de lucros. Reexame de fatos e provas dos autos. Incidência das Súmulas nºs 279 e 454 da Corte. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada. 2. A jurisprudência da Corte se firmou no sentido de que a norma insculpida no art. 35 da Lei nº 7.713/88 mostra-se harmônica com a Constituição Federal no que diz respeito à sujeição do sócio quotista ao imposto de renda na fonte, na hipótese em que o contrato social prevê a disponibilidade econômica ou jurídica imediata, pelos sócios, do lucro líquido apurado, na data do encerramento do período-base. 3. Inadmissível, em recurso extraordinário, o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 279 e 454 da Corte. 4. Agravo regimental não provido.” (AI nº 590713-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 15.10.2013.)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2017.
+Ministra Rosa Weber
+Relatora
