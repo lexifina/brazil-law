@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Helena Maria Cabreira Fernandes Daniel. Aparelhado o recurso na afronta ao art. 40, § 5º, da Constituição Federal..
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Na hipótese em apreço, o Tribunal de origem lastreou-se na prova produzida e na legislação local para firmar seu convencimento. Aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, bem como a análise da legislação infraconstitucional aplicável, procedimentos vedados em sede extraordinária.
+    Dessarte, desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência deste Supremo Tribunal Federal. Aplicação dos enunciados das Súmulas 279 e 280/STF: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. MAGISTÉRIO. REQUISITOS PARA A APOSENTADORIA ESPECIAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL E DE REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 596.519-ED, Rel. Min. Cármen Lúcia, 1ª Turma,DJe 27.11.2009.)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PROVENTOS. REGIME JURÍDICO. APOSENTAÇÃO. REEXAME DE FATOS E PROVAS. LEGISLAÇÃO INFRACONSTITUCIONAL. LEI LOCAL SÚMULAS 279 E 280 DO STF. PRECEDENTES. 1. Em caso análogo, a tese suscitada pelo recorrente restou apreciada no julgamento do ARE 781.861 AgR/BA, Rel. Min. Rosa Weber, DJe 10.12.2013, no sentido de que “tendo a Corte de origem dirimido a controvérsia acerca do preenchimento dos requisitos legais vigentes à época e necessários à incorporação das aulas ministradas aos proventos da professora aposentada, à luz do conjunto fático-probatório dos autos e da legislação local, inviável o reexame em sede recursal extraordinária”. 2. Agravo regimental a que se nega provimento.” (ARE 925.543-AgR, Rel. Min. Edson Fachin, 1ª Turma, DJe 18.10.2016.)
+    “Agravo regimental em recurso extraordinário. 2. Direito Previdenciário. 3. Conversão do tempo de serviço comum em especial. Cômputo para fins de aposentadoria. Violação ao direito adquirido. Não ocorrência. Não preenchimento dos requisitos necessários à aposentadoria na época. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 917.012-ED-ED-AGR-AGR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 06.02.2017.)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2017.
+Ministra Rosa Weber
+Relatora
