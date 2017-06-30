@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – APOSENTADORIA – BENEFÍCIO MAIS VANTAJOSO – PRECEDENTE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem, reformando parcialmente o entendimento do Juízo, julgou procedente o pedido de concessão de aposentadoria proporcional, tendo por preenchidos os requisitos legais, assentando a data inicial do benefício em 12/07/2010. No extraordinário, cujo trânsito pretende alcançar, o recorrente alega violação dos artigos 2º, e 5º, inciso XXXVI, da Constituição Federal. Afirma a inexistência de interesse de agir, aludindo à necessidade de prévio requerimento administrativo. Requer a improcedência do pedido, tendo em conta o entendimento firmado pelo Supremo no julgamento do recurso extraordinário nº 631.240/MG.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    Até a entrada do requerimento administrativo em 21/09/05 o autor contava com 32 anos, 8 meses e 16 dias de tempo de contribuição, suficiente para a aposentadoria proporcional, conforme contagem em anexo, mas só teria 53 anos em 2010, não fazendo jus ao benefício na DER. 9. Contudo, deve-se considerar a real possibilidade de que o benefício seja requerido novamente na via administrativa, isto porque o autor implementou os requisitos em momento posterior, assim, por medida de economia processual e considerando os princípios norteadores do direito previdenciário, afigura-se plenamente justificável que o Judiciário se manifeste sobre o direito supervenientemente adquirido pela parte autora, desde que observado o disposto no art. 49, I, a, da Lei 8.213/91, alterada, no entanto, a DIB para a data da implementação da idade em 12/07/2010.
+    O acórdão recorrido está em consonância com a jurisprudência do Supremo. O Tribunal, no recurso extraordinário nº 630.501/RS, relatado pela ministra Ellen Gracie, concluiu possuir o segurado do Instituto Nacional do Seguro Social – INSS direito adquirido ao cálculo do benefício mais vantajoso, consideradas todas as datas a partir das quais a aposentadoria proporcional poderia ter sido requerida, observado o preenchimento dos requisitos pertinentes.
+    3. Ante o precedente, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
