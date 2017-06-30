@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – FALTA DE PREQUESTIONAMENTO – LEGISAÇÃO LOCAL – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem, com pequena ressalva quanto aos honorários advocatícios, confirmou o entendimento do Juízo, assentando o direito da autora ao recebimento do adicional de insalubridade no grau máximo, aludindo à legislação de regência. No extraordinário cujo processamento busca alcançar, o recorrente aponta violados os artigos 1º, 2º, 18, 30, incisos III e V, 34, inciso VIII, alínea “c”, 37, inciso XII, e 39, § 1º, da Constituição Federal. Sustenta a autonomia do município quanto a remuneração dos respectivos servidores. Discorre sobre a usurpação da competência municipal em matéria orçamentária e administrativa. Alude ao decidido no recurso extraordinário nº301.256/RS.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    No ano de 1999, o Decreto Municipal nº 3.449, que regulamentou a Lei Complementar nº 352, classificou a atividade desenvolvida pela autora como insalubre no “grau I” (fls. 40/41), razão pela qual passou a receber o adicional de 40% do salário mínimo, nos termos do artigo 2º da Lei Complementar nº 352 (fls. 32 e 39).
+    A partir de 11 de julho de 2005, a autora realizou permuta com a servidora Maria Cristina Pulice, passando a estar à disposição da Prefeitura Municipal de Bertioga, “com prejuízo das funções, mas sem prejuízo dos vencimentos e das demais vantagens do seu cargo efetivo” (fls. 34/35).
+    No Município de Bertioga, a demandante continuou a prestar os serviços de “técnica de laboratório” (fls. 20), mas deixou de receber o adicional de insalubridade a partir de 01 de agosto de 2005 (fls. 68).
+    Deve ser mantida a r. sentença.
+    Restou incontroverso nos autos que a autora, embora à disposição do Município de Bertioga, continuava a exercer atividades como “técnica de laboratório”, o que é considerado insalubre no grau máximo pela legislação do Município de Santos.
+    Ademais, o cadastro da servidora informa que as portarias que previam a permuta dispunham que não haveria “prejuízo dos vencimentos e das demais vantagens de seu cargo efetivo” (fls. 34/35).
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise do Decreto municipal nº 3.449/99 e da Lei Complementar municipal nº 352. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
