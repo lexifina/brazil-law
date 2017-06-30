@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – FALTA DE PREQUESTIONAMENTO –INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de Santa Catarina confirmou o entendimento do Juízo quanto à competência da Justiça comum para julgar ação indenizatória, considerada a ausência de vínculo empregatício entre empresa apelada e vítima do ilícito. No extraordinário cujo processamento busca alcançar, a recorrente aponta violado o artigo 114, inciso VI, da Constituição Federal. Sustenta a competência da Justiça do Trabalho para julgar a demanda, alegando caber somente a esta perquirir acerca da existência de vínculo empregatício.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido :
+    APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. SENTENÇA DEIMPROCEDÊNCIA. INSURGÊNCIA RECURSAL DA AUTORA.PRELIMINAR DE NULIDADE DA SENTENÇA. AFASTADA.FUNDAMENTAÇÃO CONCISA, MAS SUFICIENTE.PROVAS ENCARTADAS AOS AUTOS QUE NÃOEVIDENCIAM O VÍNCULO EMPREGATÍCIO ENTRE A VÍTIMA EA EMPRESA APELADA. COMPETÊNCIA DA JUSTIÇAESTADUAL PARA O JULGAMENTO DO FEITO.TRANSPORTE DE CORTESIA. APLICABILIDADE DASÚMULA 145 DO STJ. DOLO OU CULPA GRAVE NÃOEVIDENCIADOS. OBRIGAÇÃO DE INDENIZAR INEXISTENTE.SENTENÇA MANTIDA.RECURSO CONHECIDO E DESPROVIDO.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de  prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais em R$ 2.500,00 (dois mil e quinhentos), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 30 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
