@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à improcedência do pedido ante fundamentos assim resumidos:
+    DIREITO ADMINISTRATIVO. RESSARCIMENTO DE VALORES RECEBIDOS INDEVIDAMENTE. ACERTO POR EXONERAÇÃO DE CARGO EM COMISSÃO. AMPLA DEFESA E CONTRADITÓRIO.
+    1 – Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+    2 – Contraditório e ampla defesa. Não havendo irregularidade no procedimento administrativo que determinou os descontos em folha de pagamento, eis que foi concedida oportunidade para apresentação de recurso administrativo (documento de ID 571839), não se mostra plausível a argumentação trazida pela parte autora.
+    3 – Verbas alimentícias. Repetição. Recebimento de boa-fé não configurado. A percepção, até abril de 2014, de valores referentes ao exercício de cargo em comissão por servidor exonerado em fevereiro do mesmo ano, o qual tinha conhecimento sobre o desligamento de suas funções (ID 571839, pág. 3), sem justificativa plausível ou sem indicação de equivocada aplicação da legislação, afasta a presunção de boa-fé. Assim, em face do princípio da autotutela, cabe a repetição das verbas pagas pela Administração, mediante desconto em folha. Precedente (ACJ20120110695400, Relator(a): DEMETRIUS GOMES CAVALCANTI). Sentença que se mantém pelos próprios fundamentos.
+    4 – Recurso conhecido, mas não provido. Custas processuais, e honorários advocatícios, fixados em 10% do valor da causa, pelo recorrente vencido.
+    No extraordinário cujo trânsito busca alcançar, a recorrente alega violado o artigo 5º, inciso LIV, da Constituição Federal. Diz ter recebido de boa-fé os valores pagos indevidamente pela Administração.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão atacada mediante o extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    Colho da decisão recorrida o seguinte trecho:
+    O art. 178 da Lei Complementar 840/2011 estatui que a Administração deverá rever seus atos, a qualquer tempo, quando eivados de ilegalidade. No mesmo norte, o art. 119 da referida Lei Complementar dispõe sobre a forma de reposição e indenização ao erário pelo servidor público, ao passo que o art. 120 esclarece que a restituição será devida, mesmo que o servidor não tenha dado causa ao erro de pagamento.
+    No caso concreto, observo que a parte autora reconhece, em sua Petição Inicial, a possibilidade de que os valores por ela recebidos realmente tenham sido pagos de forma indevida. Ademais, o excesso no valor pago à autora restou demonstrado pela administração pública no processo administrativo nº 0080-008074/2014 (ID Num. 2389131), com as respectivas planilhas demonstrativas, não tendo a parte autora apresentado qualquer prova em sentido contrário, limitando-se ao argumento de ter recebido tais valores de boa-fé.
+    Ora, somente pela análise das provas constantes do processo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação na origem dos honorários advocatícios em 10% do valor da causa, fixo os honorários recursais no patamar 5%, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 30 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
