@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORIDNÁRIO – FAC-SÍMILE – ORIGINAL – APRESENTAÇÃO – PRAZO – CONTAGEM – TÉCNICA – AGRAVO DESPROVIDO .
+    1. De inicio, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do recurso regida por esse diploma legal.
+    O Tribunal Superior Eleitoral inadmitiu o extraordinário ante a ausência de apresentação dos originais do recurso no prazo legal de cinco dias. No agravo, cujo trânsito busca alcançar, a recorrente aduz a tempestividade do extraordinário. Defende a contagem do prazo recursal a partir da data da postagem nos Correios.
+    A recorrente interpôs o extraordinário por meio de fac-símile em 30 de janeiro de 2017 (segunda-feira), sem apresentar a respectiva peça recursal original até o exaurimento do prazo legal em 6 de fevereiro de 2017 (segunda-feira), conforme certidão de 16 de fevereiro de 2017 (folha 383 – TSE).
+    Observem a organicidade e a dinâmica do Direito, especialmente do instrumental. Os atos das partes hão de ser praticados perante o Tribunal. Ao contrário do que acontece, por exemplo, com o agravo de instrumento visando a infirmar o pronunciamento interlocutório do Juízo, inexiste norma a viabilizar a consideração, para saber-se da oportunidade do ato, do dia em que entregue o postado à Empresa Brasileira de Correios e Telégrafos – ECT. Prevalece, no caso, a data do recebimento da peça original, ou seja, a alusiva ao protocolo. Acontece que o artigo 2º da Lei nº 9.800, de 26 de maio de 1999, encerra simples acréscimo no prazo relativo à prática do ato, não cogitando de nova dilação propriamente, mas na exigência de entrega das peças originais até cinco dias da data do término do respectivo prazo recursal. Assim, o extraordinário foi interposto fora do prazo assinado em lei.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo eleitoral, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 30 de junho de 2017.
+Ministro MARCO AURÉLIO
+Relator
