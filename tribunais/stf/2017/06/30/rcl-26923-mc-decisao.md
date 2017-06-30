@@ -1,0 +1,18 @@
+RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 37. RECONHECIMENTO DO DIREITO AO PAGAMENTO DE LICENÇA PRÊMIO A MAGISTRADO COM BASE NA LEI COMPLEMENTAR Nº 75/93. LIMINAR CONCEDIDA.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional fundada no art. 102, I, “l”, e 103-A, da Constituição Federal, ajuizada pela União em face da decisão proferida pelo Juízo da 22ª Vara do Juizado Especial Federal da Seção Judiciária do Estado da Bahia, nos autos do Processo n° 0020952-67.2016.4.01.33000, à alegação de afronta à Súmula Vinculante 37.
+    A reclamante afirma que o Juízo reclamado, sob fundamento de isonomia e/ou simetria com o Ministério Público, assegurou ao autor da ação originária, magistrado federal aposentado, o direito ao pagamento das licenças-prêmio por tempo de serviço não gozadas, correspondentes a 03 (três) meses de remuneração a cada quinquênio ininterrupto de exercício, contados da data de ingresso na magistratura federal, com base na última remuneração em atividade.
+    Afirma que o juízo reclamado, ao assim proceder, incidiu na vedação constante da Súmula Vinculante 37, cujo enunciado“[...] embora se refira a ‘vencimentos’, também incide nas hipóteses de extensão de verbas indenizatórias, como no caso destes autos”.
+    É o relatório.
+    Decido.
+    1. A questão jurídica controversa na presente reclamação constitucional consistente na suposta violação da autoridade da Súmula Vinculante 37 por parte de decisão que reconheceu em favor de magistrado federal o direito ao pagamento de licenças-prêmio por tempo de serviço não gozadas, com base na simetria constitucional entre as carreiras do Ministério Público e da Magistratura, assegurada no art. 129, § 4º, da CF/88, com redação dada pela Emenda nº 45/2004.
+    2. Entendeu o juízo reclamado que a ausência de previsão na Resolução 133/2011 do CNJ de concessão de licença-prêmio aos juízes federais - direito assegurado expressamente aos membros do MPF por força do art. 222, inciso III, da Lei Complementar n. 75/93 -, não constitui obstáculo ao ao direito pretendido, eis que calcado em preceito constitucional que por si só já garante a simetria das carreiras (art.129, §4º).”
+    3. Nesse contexto, reconhecido o direito de magistrado federal ao recebimento de licença prêmio com base na Lei Complementar n. 75/93, em razão da simetria entre as carreiras do Ministério Público e da Magistratura, tem plausibilidade jurídica a tese de afronta ao enunciado da Súmula Vinculante 37, de seguinte teor: “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”.
+    4. Registro que a pretensão da reclamante vem sendo acolhida por decisões liminares desta Corte: Rcl 27345 MC/PB, Rel. Min. Gilmar Mendes, DJe 22.6.2017; Rcl 27.347 MC/DF, Rel. Min. Alexandre De Moraes, DJe 30.6.2017; Rcl 27349 MC/SP, Rel. Min. Edson Fachin, DJE 16.6.2017; Rcl 25960 MC/CE, Rel. Min. Teori Zavascki, DJe 01.02.2017.
+    6. Por todo o exposto, sem prejuízo da nova apreciação da matéria, quando do julgamento definitivo de mérito, local em que os argumento serão amplamente debatidos, defiro a medida cautelar requerida para suspender os efeitos da decisão proferida no processo nº Processo n° 0020952-67.2016.4.01.33000, em trâmite perante o Juízo da 22ª Vara do Juizado Especial Federal da Seção Judiciária do Estado da Bahia.
+    Requisitem-se informações à autoridade reclamada, nos termos do artigo 987, inciso II, do CPC/2015.
+    Cite-se o beneficiário da decisão reclamada, conforme disposto no artigo 987, III, do CPC/2015, a fim de que apresente contestação, no prazo legal.
+    Publique-se. Intime-se.
+    Brasília, 30 de junho de 2017.
+Ministra Rosa Weber
+Relatora
