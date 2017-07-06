@@ -1,0 +1,5 @@
+Solução de Divergência Cosit nº 98025, de 28 de junho de 2017
+ASSUNTO:Classificação de Mercadorias
+EMENTA: Reforma de ofício a Solução de Consulta SRRF/8ªRF/Diana nº 27, de 18 de abril de 2011. Código NCM: 3808.94.29 Mercadoria: Preparação para a higiene das mãos, com ação antisséptica e hidratante, constituída por álcool etílico (70%, em peso), água, glicerina, carbômero e trietanolamina, na forma de um gel, acondicionado em frasco com 50 g, 140 g e 250 g, comercialmente denominado “gel higienizante para as mãos”.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 38.08), RGI-6 (textos da subposição de 1º nível 3808.9 e de 2º nível 3808.94) e RGC-1 (texto do item 3808.94.2 e do subitem 3808.94.29) da NCM constante da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e em subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SD Cosit nº 98.025-2017 .pdf]
