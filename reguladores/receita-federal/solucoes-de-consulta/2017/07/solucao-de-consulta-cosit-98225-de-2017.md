@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98225, de 29 de junho de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 4016.99.90 Mercadoria: Pulseira em fluorelastômero, utilizada em dispositivo conhecido como “smart watch”, própria para assegurar a fixação do dispositivo no pulso do usuário. Código NCM: 4205.00.00 Mercadoria: Pulseiras em couro, utilizadas em dispositivo conhecido como “smart watch”, próprias para assegurar a fixação do dispositivo no pulso do usuário. Código NCM: 8517.70.99 Mercadoria: Pulseiras em aço, utilizadas em dispositivo conhecido como “smart watch”, próprias para assegurar a fixação do dispositivo no pulso do usuário.
+DISPOSITIVOS LEGAIS: RGI 1 (Notas 1 a), 1 b) e 2 b) da Seção XVI e textos da posição 40.16, da posição 42.05 e da posição 85.17), RGI 6 (textos da subposição de primeiro nível 4016.9 e de segundo nível 4016.99 e da subposição 8517.70) e RGC 1 (textos dos itens 4016.99.9 e 8517.70.9 e do subitem 8517.70.99) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016.
+[arquivo anexo: SC Cosit nº 98.225-2017 .pdf]
