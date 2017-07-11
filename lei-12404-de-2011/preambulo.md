@@ -1,0 +1,2 @@
+Autoriza a criação da Empresa de Planejamento e Logística S.A. - EPL; estabelece medidas voltadas a assegurar a sustentabilidade econômico-financeira do Banco Nacional de Desenvolvimento Econômico e Social - BNDES; dispõe sobre a autorização para garantia do financiamento do Trem de Alta Velocidade - TAV, no trecho entre os Municípios do Rio de Janeiro, Estado do Rio de Janeiro, e Campinas, Estado de São Paulo; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
