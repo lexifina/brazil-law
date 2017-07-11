@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. REMESSA INDEVIDA PELA ORIGEM AO SUPREMO TRIBUNAL FEDERAL. BAIXA IMEDIATA.
+Relatório
+    1. Em 11.10.2016, determinei a devolução destes autos ao Tribunal de origem por ter este Supremo Tribunal assentado a ausência de repercussão geral das questões trazidas no presente recurso (Recurso Extraordinário com Agravo n. 748.444, Tema 663).
+    Em 11.1.2017, os autos foram enviados ao Tribunal de origem.
+    2. Em 20.3.2017, o Juiz Federal Presidente da Terceira Turma Recursal/PE proferiu o seguinte despacho:
+    “Os presentes autos foram devolvidos pelo Supremo Tribunal Federal, que apontou como motivo da devolução o Tema 663: ‘Incidência do fator previdenciário sobre período trabalhado em condições especiais convertido em tempo de serviço comum para o cálculo de aposentadoria por tempo de contribuição’. No entanto, verifico que a matéria constante (incidência do fator previdenciário sobre aposentadoria de professor) nos autos em epígrafe não corresponde ao tema indicado pelo STF. Neste sentido, determino o retorno dos autos à Suprema Corte” (doc. 36).
+    Analisada a questão trazida na espécie, DECIDO.
+    3. Não há razão jurídica para a devolução dos autos a este Supremo Tribunal.
+    4. No Código de Processo Civil, determina-se que, submetido o recurso paradigma ao Plenário Virtual, este Supremo Tribunal pode: a) recusá-lo por ausência de repercussão geral e devolver os demais recursos aos Tribunais de origem, que a eles deverão negar seguimento (art. 1.030, inc. I, al. a, do Código de Processo Civil); b) reconhecer a existência da repercussão geral e devolver os demais recursos aos Tribunais de origem para serem sobrestados e aguardarem o julgamento de mérito pelo Supremo Tribunal Federal (art. 1.030, inc. III, do Código de Processo Civil); c) reconhecer a repercussão geral e julgar o mérito do recurso, devolvendo os demais recursos aos Tribunais de origem, que a eles negarão seguimento ou exercerão juízo de retratação, conforme o caso (art. 1.030, incs. I, al. a, e II, do Código de Processo Civil).
+    A espécie em exame subsume-se ao previsto no art. 1.030, inc. I, al. a, do Código de Processo Civil.
+    Diferente do alegado pelo Juiz Federal Presidente da Terceira Turma Recursal/PE, a questão submetida à sistemática de repercussão geral, que foi tida como inexistente (Tema 663) abrange todos os casos de “incidência do fator previdenciário sobre período trabalhado em condições especiais convertido em tempo de serviço comum para o cálculo de aposentadoria por tempo de contribuição”, independente da qualificação do sujeito de direito que discuta a matéria, vale dizer, se professor ou profissional de outra categoria.
+    A questão controvertida e decidida pelo não reconhecimento de repercussão geral por este Supremo Tribunal respeita à incidência do fator previdenciário e à conversão de tempo de serviço prestado em condições especiais para o tempo de serviço comum. Portanto, a abrangência da matéria inclui o que se discutiu neste processo, não havendo como prevalecer a compreensão apresentada pelo Juiz Federal Presidente da Terceira Turma Recursal/PE.
+    Comprovada identidade entre a questão trazida no presente recurso e aquela objeto de recurso paradigma no qual tida como sem repercussão geral, cabe ao Tribunal de origem negar seguimento ao recurso e não mais encaminhar os autos ao Supremo Tribunal Federal, que somente atuará nos termos previstos no art. 1.036 e seguintes do Código de Processo Civil.
+    5. Pelo exposto, mantenho o despacho de devolução dos autos pela sistemática da repercussão geral, com determinação de envio imediato à origem para os fins apontados (art. 13, inc. V, al. c, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de julho de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
