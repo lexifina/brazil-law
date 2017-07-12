@@ -1,0 +1,5 @@
+Art. 21. Na hipótese de apresentação de impugnação, poderá ser adotado procedimento extrajudicial de composição de conflitos.
+§ 1º Caso exista demanda judicial de que o impugnante seja parte e que verse sobre direitos reais ou possessórios relativos ao imóvel abrangido pela demarcação urbanística, deverá informá-la ao poder público, que comunicará ao juízo a existência do procedimento de que trata o caput deste artigo.
+§ 2º Para subsidiar o procedimento de que trata o caput deste artigo, será feito um levantamento de eventuais passivos tributários, ambientais e administrativos associados aos imóveis objeto de impugnação, assim como das posses existentes, com vistas à identificação de casos de prescrição aquisitiva da propriedade.
+§ 3º A mediação observará o disposto na Lei nº 13.140, de 26 de junho de 2015, facultando-se ao poder público promover a alteração do auto de demarcação urbanística ou adotar qualquer outra medida que possa afastar a oposição do proprietário ou dos confrontantes à regularização da área ocupada.
+§ 4º Caso não se obtenha acordo na etapa de mediação, fica facultado o emprego da arbitragem.

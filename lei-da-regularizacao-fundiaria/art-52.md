@@ -1,0 +1,2 @@
+Art. 52. Registrada a CRF, será aberta matrícula para cada uma das unidades imobiliárias regularizadas.
+Parágrafo único. Para os atuais ocupantes das unidades imobiliárias objeto da Reurb, os compromissos de compra e venda, as cessões e as promessas de cessão valerão como título hábil para a aquisição da propriedade, quando acompanhados da prova de quitação das obrigações do adquirente, e serão registrados nas matrículas das unidades imobiliárias correspondentes, resultantes da regularização fundiária.

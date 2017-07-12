@@ -1,0 +1,8 @@
+Art. 78. A Lei nº 6.766, de 19 de dezembro de 1979, passa a vigorar com as seguintes alterações:
+"Art. 2º.
+§ 7º O lote poderá ser constituído sob a forma de imóvel autônomo ou de unidade imobiliária integrante de condomínio de lotes.
+§ 8º Constitui loteamento de acesso controlado a modalidade de loteamento, definida nos termos do § 1º deste artigo, cujo controle de acesso será regulamentado por ato do poder público Municipal, sendo vedado o impedimento de acesso a pedestres ou a condutores de veículos, não residentes, devidamente identificados ou cadastrados." (NR)
+"Art. 4º.
+§ 4º No caso de lotes integrantes de condomínio de lotes, poderão ser instituídas limitações administrativas e direitos reais sobre coisa alheia em benefício do poder público, da população em geral e da proteção da paisagem urbana, tais como servidões de passagem, usufrutos e restrições à construção de muros." (NR)
+"Art. 36-A. As atividades desenvolvidas pelas associações de proprietários de imóveis, titulares de direitos ou moradores em loteamentos ou empreendimentos assemelhados, desde que não tenham fins lucrativos, bem como pelas entidades civis organizadas em função da solidariedade de interesses coletivos desse público com o objetivo de administração, conservação, manutenção, disciplina de utilização e convivência, visando à valorização dos imóveis que compõem o empreendimento, tendo em vista a sua natureza jurídica, vinculam-se, por critérios de afinidade, similitude e conexão, à atividade de administração de imóveis.
+Parágrafo único. A administração de imóveis na forma do caput deste artigo sujeita seus titulares à normatização e à disciplina constantes de seus atos constitutivos, cotizando-se na forma desses atos para suportar a consecução dos seus objetivos."

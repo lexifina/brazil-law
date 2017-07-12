@@ -1,0 +1,1 @@
+Art. 90. Ficam a União, suas autarquias e fundações autorizadas a transferir aos Estados, aos Municípios e ao Distrito Federal as áreas públicas federais ocupadas por núcleos urbanos informais, para que promovam a Reurb nos termos desta Lei, observado o regulamento quando se tratar de imóveis de titularidade de fundos.
