@@ -1,0 +1,12 @@
+Art. 31. Instaurada a Reurb, o Município deverá proceder às buscas necessárias para determinar a titularidade do domínio dos imóveis onde está situado o núcleo urbano informal a ser regularizado.
+§ 1º Tratando-se de imóveis públicos ou privados, caberá aos Municípios notificar os titulares de domínio, os responsáveis pela implantação do núcleo urbano informal, os confinantes e os terceiros eventualmente interessados, para, querendo, apresentar impugnação no prazo de trinta dias, contado da data de recebimento da notificação.
+§ 2º Tratando-se de imóveis públicos municipais, o Município deverá notificar os confinantes e terceiros eventualmente interessados, para, querendo, apresentar impugnação no prazo de trinta dias, contado da data de recebimento da notificação.
+§ 3º Na hipótese de apresentação de impugnação, será iniciado o procedimento extrajudicial de composição de conflitos de que trata esta Lei.
+§ 4º A notificação do proprietário e dos confinantes será feita por via postal, com aviso de recebimento, no endereço que constar da matrícula ou da transcrição, considerando-se efetuada quando comprovada a entrega nesse endereço.
+§ 5º A notificação da Reurb também será feita por meio de publicação de edital, com prazo de trinta dias, do qual deverá constar, de forma resumida, a descrição da área a ser regularizada, nos seguintes casos:
+I - quando o proprietário e os confinantes não forem encontrados; e
+II - quando houver recusa da notificação por qualquer motivo.
+§ 6º A ausência de manifestação dos indicados referidos nos §§ 1º e 4º deste artigo será interpretada como concordância com a Reurb.
+§ 7º Caso algum dos imóveis atingidos ou confinantes não esteja matriculado ou transcrito na serventia, o Distrito Federal ou os Municípios realizarão diligências perante as serventias anteriormente competentes, mediante apresentação da planta do perímetro regularizado, a fim de que a sua situação jurídica atual seja certificada, caso possível.
+§ 8º O requerimento de instauração da Reurb ou, na forma de regulamento, a manifestação de interesse nesse sentido por parte de qualquer dos legitimados garantem perante o poder público aos ocupantes dos núcleos urbanos informais situados em áreas públicas a serem regularizados a permanência em suas respectivas unidades imobiliárias, preservando-se as situações de fato já existentes, até o eventual arquivamento definitivo do procedimento.
+§ 9º Fica dispensado o disposto neste artigo, caso adotados os procedimentos da demarcação urbanística.

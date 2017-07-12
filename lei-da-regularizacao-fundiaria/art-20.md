@@ -1,0 +1,7 @@
+Art. 20. O poder público notificará os titulares de domínio e os confrontantes da área demarcada, pessoalmente ou por via postal, com aviso de recebimento, no endereço que constar da matrícula ou da transcrição, para que estes, querendo, apresentem impugnação à demarcação urbanística, no prazo comum de trinta dias.
+§ 1º Eventuais titulares de domínio ou confrontantes não identificados, ou não encontrados ou que recusarem o recebimento da notificação por via postal, serão notificados por edital, para que, querendo, apresentem impugnação à demarcação urbanística, no prazo comum de trinta dias.
+§ 2º O edital de que trata o § 1º deste artigo conterá resumo do auto de demarcação urbanística, com a descrição que permita a identificação da área a ser demarcada e seu desenho simplificado.
+§ 3º A ausência de manifestação dos indicados neste artigo será interpretada como concordância com a demarcação urbanística.
+§ 4º Se houver impugnação apenas em relação à parcela da área objeto do auto de demarcação urbanística, é facultado ao poder público prosseguir com o procedimento em relação à parcela não impugnada.
+§ 5º A critério do poder público municipal, as medidas de que trata este artigo poderão ser realizadas pelo registro de imóveis do local do núcleo urbano informal a ser regularizado.
+§ 6º A notificação conterá a advertência de que a ausência de impugnação implicará a perda de eventual direito que o notificado titularize sobre o imóvel objeto da Reurb.

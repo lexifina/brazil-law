@@ -1,0 +1,1 @@
+Art. 74. Serão regularizadas, na forma desta Lei, as ocupações que incidam sobre áreas objeto de demanda judicial que versem sobre direitos reais de garantia ou constrições judiciais, bloqueios e indisponibilidades, ressalvada a hipótese de decisão judicial específica que impeça a análise, aprovação e registro do projeto de regularização fundiária urbana.

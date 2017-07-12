@@ -1,0 +1,2 @@
+Art. 53. Com o registro da CRF, serão incorporados automaticamente ao patrimônio público as vias públicas, as áreas destinadas ao uso comum do povo, os prédios públicos e os equipamentos urbanos, na forma indicada no projeto de regularização fundiária aprovado.
+Parágrafo único. A requerimento do Município, o oficial de registro de imóveis abrirá matrícula para as áreas que tenham ingressado no domínio público.

@@ -1,0 +1,1 @@
+Art. 29. A fim de fomentar a efetiva implantação das medidas da Reurb, os entes federativos poderão celebrar convênios ou outros instrumentos congêneres com o Ministério das Cidades, com vistas a cooperar para a fiel execução do disposto nesta Lei.

@@ -1,0 +1,2 @@
+Art. 97. O art. 11 da Lei nº 13.139, de 26 de junho de 2015, passa a vigorar com a seguinte redação:
+" Art. 11. Será concedido desconto de 50% (cinquenta por cento) na incidência de multa de mora para os débitos patrimoniais não inscritos em dívida ativa da União e vencidos até 31 de dezembro de 2016, desde que os débitos do interessado perante a Secretaria do Patrimônio da União (SPU) venham a ser pagos integralmente e em parcela única até o dia 31 de dezembro de 2017." (NR)

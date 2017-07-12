@@ -1,0 +1,3 @@
+Art. 50. Nas matrículas abertas para cada parcela, deverão constar dos campos referentes ao registro anterior e ao proprietário:
+I - quando for possível, a identificação exata da origem da parcela matriculada, por meio de planta de sobreposição do parcelamento com os registros existentes, a matrícula anterior e o nome de seu proprietário;
+II - quando não for possível identificar a exata origem da parcela matriculada, todas as matrículas anteriores atingidas pela Reurb e a expressão "proprietário não identificado", dispensando-se nesse caso os requisitos dos itens 4 e 5 do inciso II do art. 167 da Lei nº 6.015, de 31 de dezembro de 1973.

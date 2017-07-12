@@ -1,0 +1,1 @@
+Art. 89. Os procedimentos para a transferência gratuita do direito real de uso ou do domínio pleno de imóveis da União no âmbito da Reurb-S, inclusive aqueles relacionados à forma de comprovação dos requisitos pelos beneficiários, serão regulamentados em ato específico da Secretaria do Patrimônio da União (SPU).
