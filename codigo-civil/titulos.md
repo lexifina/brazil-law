@@ -517,6 +517,8 @@ Seção II
 Da Administração do Condomínio
 Seção III
 Da Extinção do Condomínio
+Seção IV
+Do Condomínio de Lotes
 Disposições Gerais
 Da Instituição da Multipropriedade
 Dos Direitos e das Obrigações do Multiproprietário
@@ -598,7 +600,7 @@ Da Hipoteca de Vias Férreas
 CAPÍTULO IV
 Da Anticrese
 TÍTULO XI
-CAPÍTULO ÚNICO
+DA LAJE
 LIVRO IV
 Do Direito de Família
 TÍTULO I

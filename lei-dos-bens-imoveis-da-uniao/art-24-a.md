@@ -1,0 +1,2 @@
+Art. 24-A. Na hipótese de ocorrência de leilão deserto ou fracassado na venda de bens imóveis da União, os referidos imóveis poderão ser disponibilizados para venda direta.
+Parágrafo único. Na ocorrência de leilão deserto ou fracassado por duas vezes consecutivas, cujo valor de avaliação do imóvel seja de até R$ 5.000.000,00 (cinco milhões de reais), a Secretaria do Patrimônio da União (SPU) fica autorizada a conceder desconto de até 10% (dez por cento) sobre o valor estabelecido em avaliação vigente.

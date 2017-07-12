@@ -1,1 +1,0 @@
-§ 2º Os documentos exigíveis para o registro do parcelamento, conforme o caso, são aqueles relacionados nos incisos I a IV do art. 65 da Lei nº 11.977, de 7 de julho de 2009. Revogado pela Medida Provisória nº 759, de 2016)

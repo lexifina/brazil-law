@@ -8,4 +8,4 @@ III - planta e memorial descritivo do perímetro da área pretendida, cuja preci
 IV - cópia do plano diretor ou da lei municipal que contemple os elementos do ordenamento territorial urbano, observado o previsto no § 2º do art. 22 desta Lei;
 V - relação de acessões e benfeitorias federais existentes na área pretendida, contendo identificação e localização.
 § 2º Caberá ao Incra ou, se for o caso, ao Ministério do Planejamento, Orçamento e Gestão analisar se a planta e o memorial descritivo apresentados atendem as exigências técnicas fixadas.
-§ 3º O Ministério das Cidades participará da análise do pedido de doação ou concessão de direito real de uso de imóveis urbanos e emitirá parecer conclusivo.
+§ 3º O Ministério das Cidades participará da análise do pedido de doação ou concessão de direito real de uso de imóveis urbanos e emitirá parecer.

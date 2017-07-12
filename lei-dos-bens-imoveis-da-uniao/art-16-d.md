@@ -1,0 +1,2 @@
+Art. 16-D. O adquirente receberá desconto de 25% (vinte e cinco por cento) na aquisição à vista, com fundamento no art. 16-A desta Lei, requerida no prazo de um ano, contado da data de entrada em vigor da portaria de que trata o art. 16-C desta Lei, que incluir o bem na lista de imóveis sujeitos à alienação.
+Parágrafo único. Para as alienações efetuadas de forma parcelada não será concedido desconto.

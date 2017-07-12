@@ -1,0 +1,1 @@
+Art. 16-G. A União repassará 20% (vinte por cento) da receita patrimonial decorrente da remição do foro dos imóveis a que se refere o art. 16-A desta Lei aos Municípios e ao Distrito Federal onde estão localizados.

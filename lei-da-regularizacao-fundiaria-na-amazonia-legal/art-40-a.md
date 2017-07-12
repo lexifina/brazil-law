@@ -1,8 +1,6 @@
-Art. 40-A. Aplicam-se as disposições desta Lei, à exceção do disposto nos arts. 11, 12, § 1º, e 38, parágrafo único, à regularização fundiária das ocupações fora da Amazônia Legal nas áreas rurais da União e do Incra, inclusive nas áreas remanescentes de colonizações oficiais, e nas áreas urbanas do Incra.
-§ 1º O preço do imóvel regularizado nos termos do caput terá como base o valor mínimo da terra nua estabelecido na PPR e seu cálculo considerará o tamanho da área, nos seguintes percentuais:
-I - até um módulo fiscal - trinta por cento do valor mínimo da terra nua da PPR;
-II - acima de um e até dois módulos fiscais - quarenta por cento do valor mínimo da terra nua da PPR;
-III - acima de dois e até três módulos fiscais - cinquenta por cento do valor mínimo da terra nua da PPR;
-IV - acima de três e até quatro módulos fiscais - sessenta por cento do valor mínimo da terra nua da PPR; e
-V - acima de quatro e até quinze módulos fiscais - setenta por cento do valor mínimo da terra nua da PPR.
-§ 2º O disposto no art. 18 da Lei nº 12.024, de 27 de agosto de 2009, não se aplica à regularização fundiária de imóveis rurais da União e do Incra situados no Distrito Federal.
+Art. 40-A. Aplicam-se as disposições desta Lei, à exceção do disposto no art. 11, à regularização fundiária das ocupações fora da Amazônia Legal nas áreas urbanas e rurais do Incra, inclusive nas áreas remanescentes de projetos criados pelo Incra, dentro ou fora da Amazônia Legal, em data anterior a 10 de outubro de 1985 com características de colonização, conforme regulamento.
+§ 1º O disposto no art. 18 da Lei nº 12.024, de 27 de agosto de 2009, não se aplica à regularização fundiária de imóveis rurais da União e do Incra situados no Distrito Federal.
+§ 2º Aplica-se o disposto no § 1º do art. 12 desta Lei à regularização fundiária disciplinada pelo Decreto-Lei nº 1.942, de 31 de maio de 1982.
+§ 3º Aplica-se o disposto nesta Lei às áreas urbanas e rurais, dentro ou fora da Amazônia Legal, da Superintendência da Zona Franca de Manaus (Suframa), que fica autorizada a doar as seguintes áreas, independentemente de sua localização no território nacional:
+I - áreas rurais ao Incra para fins de reforma agrária; e
+II - áreas urbanas e rurais, aos Municípios de Manaus e Rio Preto da Eva, para fins de regularização fundiária, com ocupações consolidadas até 22 de dezembro de 2016, aplicando-se especialmente, e no que couber, o disposto nos arts. 21 a 30 desta Lei.
