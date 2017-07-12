@@ -1,0 +1,1 @@
+Art. 60. Para a aprovação e registro dos conjuntos habitacionais que compõem a Reurb ficam dispensadas a apresentação do habite-se e, no caso de Reurb-S, as respectivas certidões negativas de tributos e contribuições previdenciárias.

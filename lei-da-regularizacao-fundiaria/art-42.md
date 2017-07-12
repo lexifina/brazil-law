@@ -1,0 +1,2 @@
+Art. 42. O registro da CRF e do projeto de regularização fundiária aprovado será requerido diretamente ao oficial do cartório de registro de imóveis da situação do imóvel e será efetivado independentemente de determinação judicial ou do Ministério Público.
+Parágrafo único. Em caso de recusa do registro, o oficial do cartório do registro de imóveis expedirá nota devolutiva fundamentada, na qual indicará os motivos da recusa e formulará exigências nos termos desta Lei.
