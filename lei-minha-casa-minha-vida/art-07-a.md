@@ -1,0 +1,2 @@
+Art. 7º-A. Os beneficiários de operações do PMCMV, com recursos advindos da integralização de cotas no FAR, obrigam-se a ocupar os imóveis adquiridos, em até trinta dias, a contar da assinatura do contrato de compra e venda com cláusula de alienação fiduciária em garantia, firmado com o FAR.
+Parágrafo único. Descumprido o prazo de que trata o caput deste artigo, fica o FAR automaticamente autorizado a declarar o contrato resolvido e a alienar o imóvel a beneficiário diverso, a ser indicado conforme a Política Nacional de Habitação.

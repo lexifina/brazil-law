@@ -25,6 +25,10 @@ b) a solicitação de movimentação da conta vinculada será admitida até 90 (
 c) o valor máximo do saque da conta vinculada será definido na forma do regulamento.
 XVII - integralização de cotas do FI-FGTS, respeitado o disposto na alínea i do inciso XIII do art. 5º desta Lei, permitida a utilização máxima de 30% (trinta por cento) do saldo existente e disponível na data em que exercer a opção.
 XVIII - quando o trabalhador com deficiência, por prescrição, necessite adquirir órtese ou prótese para promoção de acessibilidade e de inclusão social.
+XIX - pagamento total ou parcial do preço de aquisição de imóveis da União inscritos em regime de ocupação ou aforamento, a que se referem o art. 4º da Lei nº 13.240, de 30 de dezembro de 2015, e o art. 16-A da Lei nº 9.636, de 15 de maio de 1998, respectivamente, observadas as seguintes condições:
+a) o mutuário deverá contar com o mínimo de três anos de trabalho sob o regime do FGTS, na mesma empresa ou em empresas diferentes;
+b) seja a operação financiável nas condições vigentes para o Sistema Financeiro da Habitação (SFH) ou ainda por intermédio de parcelamento efetuado pela Secretaria do Patrimônio da União (SPU), mediante a contratação da Caixa Econômica Federal como agente financeiro dos contratos de parcelamento;
+c) sejam observadas as demais regras e condições estabelecidas para uso do FGTS.
 § 1º A regulamentação das situações previstas nos incisos I e II assegurar que a retirada a que faz jus o trabalhador corresponda aos depósitos efetuados na conta vinculada durante o período de vigência do último contrato de trabalho, acrescida de juros e atualização monetária, deduzidos os saques.
 § 2º O Conselho Curador disciplinará o disposto no inciso V, visando beneficiar os trabalhadores de baixa renda e preservar o equilíbrio financeiro do FGTS.
 § 3º O direito de adquirir moradia com recursos do FGTS, pelo trabalhador, só poderá ser exercido para um único imóvel.
