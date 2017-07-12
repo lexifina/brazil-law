@@ -1,5 +1,5 @@
-Art. 65. Na regularização fundiária de interesse específico dos núcleos urbanos informais inseridos em área urbana consolidada e que ocupem Áreas de Preservação Permanente não identificadas como áreas de risco, a regularização ambiental será admitida por meio da aprovação do projeto de regularização fundiária, na forma da lei específica de regularização fundiária urbana.
-§ 1º O processo de regularização ambiental, para fins de prévia autorização pelo órgão ambiental competente, deverá ser instruído com os seguintes elementos:
+Art. 65. Na Reurb-E dos núcleos urbanos informais que ocupam Áreas de Preservação Permanente não identificadas como áreas de risco, a regularização fundiária será admitida por meio da aprovação do projeto de regularização fundiária, na forma da lei específica de regularização fundiária urbana.
+§ 1º O processo de regularização fundiária de interesse específico deverá incluir estudo técnico que demonstre a melhoria das condições ambientais em relação à situação anterior e ser instruído com os seguintes elementos:
 I - a caracterização físico-ambiental, social, cultural e econômica da área;
 II - a identificação dos recursos ambientais, dos passivos e fragilidades ambientais e das restrições e potencialidades da área;
 III - a especificação e a avaliação dos sistemas de infraestrutura urbana e de saneamento básico implantados, outros serviços e equipamentos públicos;
