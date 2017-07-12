@@ -1,0 +1,2 @@
+Art. 47. Os padrões dos memoriais descritivos, das plantas e das demais representações gráficas, inclusive as escalas adotadas e outros detalhes técnicos, seguirão as diretrizes estabelecidas pela autoridade municipal ou distrital competente, as quais serão consideradas atendidas com a emissão da CRF.
+Parágrafo único. Não serão exigidos reconhecimentos de firma nos documentos que compõem a CRF ou o termo individual de legitimação fundiária quando apresentados pela União, Estados, Distrito Federal, Municípios ou entes da administração indireta.

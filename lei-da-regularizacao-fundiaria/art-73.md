@@ -1,0 +1,2 @@
+Art. 73. Devem os Estados criar e regulamentar fundos específicos destinados à compensação, total ou parcial, dos custos referentes aos atos registrais da Reurb-S previstos nesta Lei.
+Parágrafo único. Para que os fundos estaduais acessem os recursos do Fundo Nacional de Habitação de Interesse Social (FNHIS), criado pela Lei nº 11.124, de 16 de junho de 2005, deverão firmar termo de adesão, na forma a ser regulamentada pelo Poder Executivo federal.

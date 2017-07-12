@@ -1,0 +1,1 @@
+Art. 27. O título de legitimação de posse poderá ser cancelado pelo poder público emitente quando constatado que as condições estipuladas nesta Lei deixaram de ser satisfeitas, sem que seja devida qualquer indenização àquele que irregularmente se beneficiou do instrumento.

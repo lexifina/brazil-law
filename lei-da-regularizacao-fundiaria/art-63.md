@@ -1,0 +1,1 @@
+Art. 63. No caso da Reurb-S, a averbação das edificações poderá ser efetivada a partir de mera notícia, a requerimento do interessado, da qual constem a área construída e o número da unidade imobiliária, dispensada a apresentação de habite-se e de certidões negativas de tributos e contribuições previdenciárias.

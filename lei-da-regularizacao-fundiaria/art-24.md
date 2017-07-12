@@ -1,0 +1,1 @@
+Art. 24. Nos casos de regularização fundiária urbana previstos na Lei nº 11.952, de 25 de junho de 2009, os Municípios poderão utilizar a legitimação fundiária e demais instrumentos previstos nesta Lei para conferir propriedade aos ocupantes.

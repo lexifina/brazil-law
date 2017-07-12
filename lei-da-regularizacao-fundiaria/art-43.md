@@ -1,0 +1,2 @@
+Art. 43. Na hipótese de a Reurb abranger imóveis situados em mais de uma circunscrição imobiliária, o procedimento será efetuado perante cada um dos oficiais dos cartórios de registro de imóveis.
+Parágrafo único. Quando os imóveis regularizados estiverem situados na divisa das circunscrições imobiliárias, as novas matrículas das unidades imobiliárias serão de competência do oficial do cartório de registro de imóveis em cuja circunscrição estiver situada a maior porção da unidade imobiliária regularizada.

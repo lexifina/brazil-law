@@ -1,0 +1,1 @@
+Art. 37. Na Reurb-S, caberá ao poder público competente, diretamente ou por meio da administração pública indireta, implementar a infraestrutura essencial, os equipamentos comunitários e as melhorias habitacionais previstos nos projetos de regularização, assim como arcar com os ônus de sua manutenção.

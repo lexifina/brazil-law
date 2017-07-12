@@ -1,0 +1,2 @@
+Art. 51. Qualificada a CRF e não havendo exigências nem impedimentos, o oficial do cartório de registro de imóveis efetuará o seu registro na matrícula dos imóveis cujas áreas tenham sido atingidas, total ou parcialmente.
+Parágrafo único. Não identificadas as transcrições ou as matrículas da área regularizada, o oficial do cartório de registro abrirá matrícula com a descrição do perímetro do núcleo urbano informal que constar da CRF e nela efetuará o registro.

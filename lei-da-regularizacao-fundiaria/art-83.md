@@ -1,0 +1,1 @@
+Art. 83. Os procedimentos para a Reurb promovida em áreas de domínio da União serão regulamentados em ato específico da Secretaria do Patrimônio da União (SPU), sem prejuízo da eventual adoção de procedimentos e instrumentos previstos para a Reurb.

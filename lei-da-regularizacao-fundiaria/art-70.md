@@ -1,0 +1,1 @@
+Art. 70. As disposições da Lei nº 6.766, de 19 de dezembro de 1979, não se aplicam à Reurb, exceto quanto ao disposto nos arts. 37, 38, 39, no caput e nos §§ 1º, 2º, 3º e 4º do art. 40 e nos arts. 41, 42, 44, 47, 48, 49, 50, 51 e 52 da referida Lei.

@@ -1,0 +1,3 @@
+Art. 39. Para que seja aprovada a Reurb de núcleos urbanos informais, ou de parcela deles, situados em áreas de riscos geotécnicos, de inundações ou de outros riscos especificados em lei, estudos técnicos deverão ser realizados, a fim de examinar a possibilidade de eliminação, de correção ou de administração de riscos na parcela por eles afetada.
+§ 1º Na hipótese do caput deste artigo, é condição indispensável à aprovação da Reurb a implantação das medidas indicadas nos estudos técnicos realizados.
+§ 2º Na Reurb-S que envolva áreas de riscos que não comportem eliminação, correção ou administração, os Municípios deverão proceder à realocação dos ocupantes do núcleo urbano informal a ser regularizado.
