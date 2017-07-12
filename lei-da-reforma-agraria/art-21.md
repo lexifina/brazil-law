@@ -1,1 +1,2 @@
 Art. 21. Nos instrumentos que conferem o título de domínio, concessão de uso ou CDRU, os beneficiários da reforma agrária assumirão, obrigatoriamente, o compromisso de cultivar o imóvel direta e pessoalmente, ou por meio de seu núcleo familiar, mesmo que por intermédio de cooperativas, e o de não ceder o seu uso a terceiros, a qualquer título, pelo prazo de 10 (dez) anos.
+Parágrafo único. A família beneficiária poderá celebrar o contrato de integração de que trata a Lei nº 13.288, de 16 de maio de 2016.

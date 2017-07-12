@@ -1,0 +1,2 @@
+Art. 16-B. Fica o Poder Executivo Federal autorizado, por intermédio da Secretaria do Patrimônio da União (SPU), a contratar a Caixa Econômica Federal, independentemente de processo licitatório, para a prestação de serviços relacionados à administração dos contratos, à arrecadação e à cobrança administrativa decorrentes da remição do foro dos imóveis a que se refere o art. 16-A desta Lei.
+Parágrafo único. A Caixa Econômica Federal representará a União na celebração dos contratos de que trata o caput deste artigo.

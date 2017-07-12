@@ -8,10 +8,11 @@ e) redução de gastos com manutenção;
 f) qualidade e eficiência das edificações;
 II - à ampliação e à qualificação do cadastro dos bens imóveis da União;
 III - à aquisição, à reforma, ao restauro e à construção de imóveis;
-IV - ao incentivo à regularização e à fiscalização dos imóveis públicos federais e ao incremento das receitas patrimoniais;
-V - ao desenvolvimento de recursos humanos visando à qualificação da gestão patrimonial;
-VI - à modernização e à informatização dos métodos e processos inerentes à gestão patrimonial dos imóveis públicos federais;
-VII - à regularização fundiária.
+IV - ao incentivo à regularização e realização de atividades de fiscalização, demarcação, cadastramento, controle e avaliação dos imóveis públicos federais e ao incremento das receitas patrimoniais;
+V - ao desenvolvimento de recursos humanos visando à qualificação da gestão patrimonial, mediante a realização de cursos de capacitação e participação em eventos relacionados ao tema;
+VI - à aquisição e instalação de equipamentos, bem como à modernização e informatização dos métodos e processos inerentes à gestão patrimonial dos imóveis públicos federais;
+VII - à regularização fundiária; e
+VIII - à gestão e manutenção das atividades das Unidades Central e Descentralizadas da SPU.
 Parágrafo único. Comporão o Fundo instituído pelo Decreto-Lei nº 1.437, de 17 de dezembro de 1975, e integrarão subconta especial destinada a atender às despesas com o Programa instituído neste artigo, que será gerida pelo Secretário do Patrimônio da União, as receitas patrimoniais decorrentes de:
 I - multas; e
 II - parcela do produto das alienações de que trata esta Lei, nos percentuais adiante indicados, observado o limite de R$ 25.000.000,00 (vinte e cinco milhões de reais) ao ano:

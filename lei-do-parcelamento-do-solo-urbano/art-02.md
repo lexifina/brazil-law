@@ -9,3 +9,5 @@ I - vias de circulação;
 II - escoamento das águas pluviais;
 III - rede para o abastecimento de água potável; e
 IV - soluções para o esgotamento sanitário e para a energia elétrica domiciliar.
+§ 7º O lote poderá ser constituído sob a forma de imóvel autônomo ou de unidade imobiliária integrante de condomínio de lotes.
+§ 8º Constitui loteamento de acesso controlado a modalidade de loteamento, definida nos termos do § 1º deste artigo, cujo controle de acesso será regulamentado por ato do poder público Municipal, sendo vedado o impedimento de acesso a pedestres ou a condutores de veículos, não residentes, devidamente identificados ou cadastrados.

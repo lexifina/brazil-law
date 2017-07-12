@@ -1,3 +1,4 @@
 Art. 21. São passíveis de regularização fundiária as ocupações incidentes em terras públicas da União, previstas no art. 3º desta Lei, situadas em áreas urbanas, de expansão urbana ou de urbanização específica.
 § 1º A regularização prevista no caput deste artigo será efetivada mediante doação aos Municípios interessados, para a qual fica o Poder Executivo autorizado, sob a condição de que sejam realizados pelas administrações locais os atos necessários à regularização das áreas ocupadas, nos termos desta Lei.
 § 2º Nas hipóteses previstas no § 1º do art. 4º desta Lei, será aplicada concessão de direito real de uso das terras.
+§ 3º Fica vedado aos Municípios e ao Distrito Federal alienar os imóveis recebidos na forma do § 1º deste artigo por valor superior àquele cobrado pela Secretaria do Patrimônio da União (SPU) ou, na ausência de previsão nesse sentido, na forma de ato da SPU.

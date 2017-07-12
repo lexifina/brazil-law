@@ -9,3 +9,6 @@ V - a consolidação dos projetos de assentamento integrantes dos programas de r
 § 3º Poderá ser contratada instituição financeira federal para a operacionalização da concessão referida no inciso V do caput, dispensada a licitação.
 § 4º As despesas relativas à concessão de crédito de que trata o inciso V do caput adequar-se-ão às disponibilidades orçamentárias e financeiras do órgão responsável pela execução do referido programa.
 § 5º O regulamento a que se refere o § 2º estabelecerá prazos, carências, termos, condições, rebates para liquidação e procedimentos simplificados para o cumprimento do disposto neste artigo.
+§ 6º Independentemente da implementação dos requisitos exigidos no inciso V do caput deste artigo, considera-se consolidado o projeto de assentamento que atingir o prazo de quinze anos de sua implantação, salvo por decisão fundamentada do Incra.
+§ 7º Os assentamentos que, em 1º de junho de 2017, contarem com quinze anos ou mais de criação, deverão ser consolidados em até três anos.
+§ 8º A quitação dos créditos de que trata o § 2º deste artigo não é requisito para a liberação das condições resolutivas do título de domínio ou da Concessão de Direito Real de Uso (CDRU), autorizada a cobrança da dívida na forma legal.

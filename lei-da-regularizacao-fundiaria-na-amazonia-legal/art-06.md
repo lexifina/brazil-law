@@ -1,5 +1,5 @@
 Art. 6º Preenchidos os requisitos previstos no art. 5º, o Ministério do Desenvolvimento Agrário ou, se for o caso, o Ministério do Planejamento, Orçamento e Gestão regularizará as áreas ocupadas mediante alienação.
-§ 1º Serão regularizadas as ocupações de áreas de até quinze módulos fiscais e não superiores a 1.500ha (mil e quinhentos hectares).
+§ 1º Serão regularizadas as ocupações de áreas não superiores a 2.500 ha (dois mil e quinhentos hectares).
 § 2º Serão passíveis de alienação as áreas ocupadas, demarcadas e que não abranjam as áreas previstas no art. 4º desta Lei.
 § 3º Não serão regularizadas ocupações que incidam sobre áreas objeto de demanda judicial em que sejam parte a União ou os entes da administração pública federal indireta até o trânsito em julgado da decisão, ressalvadas a hipótese de o objeto da demanda não impedir a análise da regularização da ocupação pela administração pública e a hipótese de acordo judicial.
 § 4º A concessão de direito real de uso nas hipóteses previstas no § 1º do art. 4º desta Lei será outorgada pelo Ministério do Planejamento, Orçamento e Gestão, após a identificação da área, nos termos de regulamento.

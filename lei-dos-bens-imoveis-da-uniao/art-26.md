@@ -1,4 +1,3 @@
 Art. 26. Em se tratando de projeto de caráter social para fins de moradia, a venda do domínio pleno ou útil observará os critérios de habilitação e renda familiar fixados em regulamento, podendo o pagamento ser efetivado mediante um sinal de, no mínimo, 5% (cinco por cento) do valor da avaliação, permitido o seu parcelamento em até 2 (duas) vezes e do saldo em até 300 (trezentas) prestações mensais e consecutivas, observando-se, como mínimo, a quantia correspondente a 30% (trinta por cento) do valor do salário mínimo vigente.
 § 1º (Revogado).
 § 2º (Revogado).
-§ 3º Nas vendas de que trata este artigo, aplicar-se-ão, no que couber, as condições previstas no art. 27 desta Lei, não sendo exigido, a critério da administração, o pagamento de prêmio mensal de seguro nos projetos de assentamento de famílias carentes ou de baixa renda.

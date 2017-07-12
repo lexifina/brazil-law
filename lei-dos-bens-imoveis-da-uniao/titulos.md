@@ -6,16 +6,8 @@ Seção II
 Do Cadastramento
 Seção II-A
 Da Inscrição da Ocupação
-Seção II-B
-Da autorização de uso sustentável
 SEÇÃO III
 Da Fiscalização e Conservação
-Seção III-A
-Da avaliação de imóvel
-Seção III-B
-Da avaliação para fins de cobrança de receitas patrimoniais
-Seção III-C
-Da Avaliação para fins de alienação onerosa
 SEÇÃO IV
 Do Aforamento
 SEÇÃO V
