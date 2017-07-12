@@ -1,4 +1,4 @@
-Art. 64. Na regularização fundiária de interesse social dos núcleos urbanos informais inseridos em área urbana de ocupação consolidada e que ocupam Áreas de Preservação Permanente, a regularização ambiental será admitida por meio da aprovação do projeto de regularização fundiária, na forma da Lei específica de Regularização Fundiária Urbana.
+Art. 64. Na Reurb-S dos núcleos urbanos informais que ocupam Áreas de Preservação Permanente, a regularização fundiária será admitida por meio da aprovação do projeto de regularização fundiária, na forma da lei específica de regularização fundiária urbana.
 § 1º O projeto de regularização fundiária de interesse social deverá incluir estudo técnico que demonstre a melhoria das condições ambientais em relação à situação anterior com a adoção das medidas nele preconizadas.
 § 2º O estudo técnico mencionado no § 1º deverá conter, no mínimo, os seguintes elementos:
 I - caracterização da situação ambiental da área a ser regularizada;
