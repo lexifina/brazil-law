@@ -1,0 +1,11 @@
+Art. 80. O art. 7º da Lei nº 11.977, de 7 de julho de 2009, passa a vigorar acrescido do seguinte parágrafo único:
+"Art. 7º.
+Parágrafo único. Para as operações com recursos de que trata o inciso III do art. 2º desta Lei, fica o Ministério das Cidades autorizado a fixar novas condições de pagamento e prazos para a conclusão das unidades habitacionais contratadas, obedecidos os seguintes parâmetros:
+I - o prazo para conclusão das unidades habitacionais será de até doze meses, contados da entrada em vigor deste parágrafo;
+II - as instituições e agentes financeiros habilitados deverão declarar a viabilidade de execução das unidades habitacionais contratadas, dentro dos prazos fixados pelo Ministério das Cidades, observado o limite previsto no inciso I deste parágrafo;
+III - as instituições e agentes financeiros habilitados deverão declarar a viabilidade de execução das unidades habitacionais contratadas, dentro do valor originalmente previsto, sem custos adicionais para a União;
+IV - a aceitação e a adesão pelas instituições e agentes financeiros habilitados às novas condições e prazos fixados serão formalizadas em instrumento próprio a ser regulamentado pelo Ministério das Cidades;
+V - a liberação de recursos pela União às instituições e agentes financeiros habilitados dependerá da comprovação da correspondente parcela da obra executada, vedadas quaisquer formas de adiantamento;
+VI - o não atendimento das condições e prazos finais fixados pelo Ministério das Cidades ensejará imediata devolução ao erário do valor dos recursos liberados, acrescido de juros e atualização monetária, com base na remuneração dos recursos que serviram de lastro à sua concessão, sem prejuízo das penalidades previstas em lei;
+VII - nos casos de inadimplência pelas instituições e agentes financeiros habilitados das condições e prazos estabelecidos pelo Ministério das Cidades, fica autorizada a inscrição em dívida ativa da União dos valores previstos no inciso VI deste parágrafo; e
+VIII - a definição dos procedimentos a serem adotados nos casos omissos caberá ao Ministério das Cidades." (NR)

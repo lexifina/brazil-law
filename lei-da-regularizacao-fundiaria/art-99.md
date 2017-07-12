@@ -1,0 +1,3 @@
+Art. 99. O art. 28 da Lei nº 11.483, de 31 de maio de 2007, passa a vigorar com as seguintes alterações:
+" Art. 28. Fica a União autorizada a renegociar, notificar e inscrever em dívida ativa da União dívidas e saldos devedores decorrentes de contratos de transferência de domínio e de débitos dos demais contratos firmados pela extinta RFFSA que tenham por objeto bens imóveis operacionais e não operacionais.
+§ 2º Para os fins deste artigo, considera-se débito consolidado o somatório da dívida e do saldo devedor decorrente de contrato de transferência de domínio ou de posse, ou o valor correspondente ao total da dívida decorrente dos demais contratos firmados pela extinta RFFSA que tenham por objeto bens imóveis operacionais e não operacionais." (NR)

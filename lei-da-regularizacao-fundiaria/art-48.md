@@ -1,0 +1,1 @@
+Art. 48. O registro da CRF produzirá efeito de instituição e especificação de condomínio, quando for o caso, regido pelas disposições legais específicas, hipótese em que fica facultada aos condôminos a aprovação de convenção condominial.

@@ -1,0 +1,1 @@
+Art. 49. O registro da CRF será feito em todas as matrículas atingidas pelo projeto de regularização fundiária aprovado, devendo ser informadas, quando possível, as parcelas correspondentes a cada matrícula.

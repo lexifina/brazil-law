@@ -1,0 +1,32 @@
+Art. 92. A Lei nº 13.240, de 30 de dezembro de 2015, passa a vigorar com as seguintes alterações:
+"Art. 1º.
+§ 4º Para os casos em que a União seja a proprietária do terreno e das edificações de imóveis enquadrados no regime de ocupação onerosa e para as permissões de uso de imóveis funcionais, será exigido do usuário, pessoa física ou jurídica, seguro patrimonial do imóvel, na forma a ser regulamentada pela Secretaria do Patrimônio da União (SPU)." (NR)
+" Art. 4º Os imóveis inscritos em ocupação poderão ser alienados pelo valor de mercado do imóvel, segundo os critérios de avaliação previstos no art. 11-C da Lei nº 9.636, de 15 de maio de 1998, excluídas as benfeitorias realizadas pelo ocupante.
+§ 1º A alienação a que se refere este artigo poderá ser efetuada à vista ou de forma parcelada, permitida a utilização dos recursos do FGTS para pagamento total, parcial ou em amortização de parcelas e liquidação do saldo devedor, observadas as demais regras e condições estabelecidas para uso do FGTS.
+§ 2º As demais condições para a alienação dos imóveis inscritos em ocupação a que se refere este artigo serão estabelecidas em ato da Secretaria do Patrimônio da União (SPU).
+§ 3º A Secretaria do Patrimônio da União (SPU) verificará a regularidade cadastral dos imóveis a serem alienados e procederá aos ajustes eventualmente necessários durante o processo de alienação.
+§ 4º O prazo de validade da avaliação de que trata o caput deste artigo será de, no máximo, doze meses." (NR)
+" Art. 5º O ocupante que não optar pela aquisição dos imóveis a que se refere o art. 4º continuará submetido ao regime de ocupação, na forma da legislação vigente." (NR)
+" Art. 5º -A. Fica o Poder Executivo federal autorizado, por intermédio da Secretaria do Patrimônio da União (SPU), a contratar a Caixa Econômica Federal, independentemente de processo licitatório, para a prestação de serviços relacionados à administração dos contratos, arrecadação e cobrança administrativa decorrentes da alienação dos imóveis a que se refere o art. 4º desta Lei.
+Parágrafo único. A Caixa Econômica Federal representará a União na celebração dos contratos de que trata o caput deste artigo."
+" Art. 8º O Ministro de Estado do Planejamento, Desenvolvimento e Gestão, permitida a delegação, editará portaria com a lista de áreas ou imóveis sujeitos à alienação nos termos desta Lei.
+§ 1º.
+II - deverão estar situados em área urbana consolidada.
+.........................................................................." (NR)
+" Art. 8º -A. Fica a Secretaria do Patrimônio da União (SPU) autorizada a receber Proposta de Manifestação de Aquisição por ocupante de imóvel da União que esteja regularmente inscrito e adimplente com suas obrigações com aquela Secretaria.
+§ 1º O ocupante deverá apresentar à SPU carta formalizando o interesse na aquisição juntamente com a identificação do imóvel e do ocupante, comprovação do período de ocupação e de estar em dia com as respectivas taxas, avaliação do imóvel e das benfeitorias, proposta de pagamento e, para imóveis rurais, georreferenciamento e CAR individualizado.
+§ 2º Para a análise da Proposta de Manifestação de Aquisição de que trata este artigo deverão ser cumpridos todos os requisitos e condicionantes estabelecidos na legislação que normatiza a alienação de imóveis da União, mediante a edição da portaria do Ministério do Planejamento, Desenvolvimento e Gestão, de que trata o art. 8º desta Lei, bem como os critérios de avaliação previstos no art. 11-C da Lei nº 9.636, de 15 de maio de 1998.
+§ 3º O protocolo da Proposta de Manifestação de Aquisição de imóvel da União pela Secretaria do Patrimônio da União (SPU) não constituirá nenhum direito ao ocupante perante a União.
+§ 4º A Secretaria do Patrimônio da União (SPU) fica autorizada a regulamentar a Proposta de Manifestação de Aquisição de que trata este artigo, mediante edição de portaria específica."
+" Art. 11. O adquirente receberá desconto de 25% (vinte e cinco por cento) na aquisição à vista, com fundamento no art. 4º desta Lei, requerida no prazo de um ano, contado da data de entrada em vigor da portaria de que trata o art. 8º desta Lei que incluir o bem na lista de imóveis sujeitos à alienação.
+Parágrafo único. Para as alienações efetuadas de forma parcelada, não será concedido desconto." (NR)
+"Art. 12.
+I - à vista;
+III - a prazo, mediante as condições de parcelamento estabelecidas em ato da Secretaria do Patrimônio da União (SPU)." (NR)
+" Art. 17. A União repassará 20% (vinte por cento) da receita patrimonial decorrente da alienação dos imóveis a que se refere o art. 4º aos Municípios e ao Distrito Federal onde estão localizados." (NR)
+" Art. 18. As receitas patrimoniais da União decorrentes da venda de imóveis de que tratam o art. 8º desta Lei e os arts. 12 a 15 e 16-C da Lei nº 9.636, de 15 de maio de 1998, e dos direitos reais a eles associados, bem como as obtidas com as alienações e outras operações dos fundos imobiliários, descontados os custos operacionais, comporão o Fundo instituído pelo Decreto-Lei nº 1.437, de 17 de dezembro de 1975, e integrarão a subconta especial destinada a atender às despesas com o Programa de Administração Patrimonial Imobiliária da União (Proap), instituído pelo art. 37 da Lei nº 9.636, de 15 de maio de 1998, ressalvadas aquelas com outra destinação prevista em lei.
+Parágrafo único. (Revogado)." (NR)
+" Art. 18-A. O percentual de 2,5% (dois inteiros e cinco décimos por cento) das receitas patrimoniais da União arrecadadas anualmente por meio da cobrança de taxa de ocupação, foro e laudêmio, recuperação de dívida ativa, arrendamentos, aluguéis, cessão e permissão de uso, multas e outras taxas patrimoniais integrará a subconta especial destinada a atender às despesas previstas no Programa de Administração Patrimonial Imobiliária da União (PROAP), instituído pelo art. 37 da Lei nº 9.636, de 15 de maio de 1998, ressalvadas aquelas com outra destinação prevista em lei.
+Parágrafo único. Os recursos referidos no caput deste artigo serão alocados para as finalidades previstas nos incisos II a VIII do caput do art. 37 da Lei 9.636, de 15 de maio de 1998, e poderão ser utilizados a qualquer momento pela Secretaria do Patrimônio da União (SPU)."
+" Art. 20. Os imóveis de propriedade da União arrolados na portaria de que trata o art. 8º e os direitos reais a eles associados poderão ser destinados à integralização de cotas em fundos de investimento.
+..........................................................................." (NR)
