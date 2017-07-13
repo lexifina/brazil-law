@@ -1,0 +1,20 @@
+DECISÃO
+MEDIDA LIMINAR EM MANDADO DE SEGURANÇA. DESEMBARGADORA DO TRIBUNAL DE JUSTIÇA DO AMAZONAS. ART. 102, INC. I, AL. D, DA CONSTITUIÇÃO DA REPÚBLICA. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA CONHECER DO MANDADO DE SEGURANÇA. COMPETÊNCIA DECLINADA.
+Relatório
+    1. Mandado de segurança, com requerimento de medida liminar, impetrado por Eronildo Braga Bezerra em 11.7.2017 contra decisão proferida por Desembargadora do Tribunal de Justiça do Amazonas.
+    2. O Impetrante informa ser réu em ação de improbidade administrativa ajuizada pelo Ministério Público amazonense, tendo sido condenado em primeira instância “a restituir aos cofres públicos solidariamente ao ressarcimento do dano a quantia R$ 483.132,90 (quatrocentos e oitenta e três mil, cento e trinta e dois reais e noventa centavos), com fundamento no art. 10, VII e IX e 10 da LIA” (fl. 3).
+    Informa a determinação de bloqueio de bens e de sua conta salarial “até o limite da condenação com fundamento no art. 300 do Código de Processo Civil” (fl. 3) e indica como autoridade coatora quem competente “para a adoção de medidas pertinentes para que seja realizado o desbloqueio de sua conta salarial na quantia de R$ 15.114,70 (quinze mil cento e quatorze reais e setenta centavos)” (fl. 5).
+    Sustenta a impenhorabilidade da conta salarial. Requer medida liminar para afastar-se o bloqueio determinado e pleiteia, em caráter subsidiário, a liberação de verbas de natureza alimentar e de valor correspondente a quarenta salários mínimos de sua caderneta de poupança.
+    Alega ter “direito líquido e certo diante do aprisionamento do seu saldo salarial, que tem como finalidade o seu sustento e de sua família, como preconiza o art. 7º, X da Lei Suprema de 1988” (sic, fl. 14).
+    3. Distribuído ao Ministro Luiz Fux, o processo veio-me em conclusão, nos termos do inc. VIII do art. 13 do Regimento Interno do Supremo Tribunal Federal.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O presente mandado de segurança tem como objeto ato judicial imputado a membro de Tribunal de Justiça estadual.
+    5. Tem-se equívoco na impetração do presente mandado de segurança neste Supremo Tribunal. No rol dos casos subsumidos constitucionalmente à competência originária deste Supremo Tribunal não se inclui a atribuição de processar e julgar originariamente mandado de segurança no qual se aponte como autoridade coatora Desembargador de Tribunal de Justiça (art. 102, inc. I, al. d, da Constituição da República).
+    A matéria não admite discussão mínima, por se tratar de competência constitucional expressa, a impossibilitar interpretação extensiva e a consideração de elementos circunstanciais para sua mitigação.
+    Confiram-se, por exemplo, os julgados: Mandado de Segurança n. 22.041-AgR/BA, Relator o Ministro Celso de Mello; Mandado de Segurança n. 21.559-AgR/DF, Relator o Ministro Moreira Alves; Mandado de Segurança n. 21.250/DF, Relator o Ministro Néri da Silveira; Mandado de Segurança n. 20.938/DF, Relator o Ministro Carlos Madeira, Plenário, DJ 31.5.1989; Mandado de Segurança n. 34.261/DF, de minha relatoria, decisão monocrática, DJe 29.6.2016; Mandado de Segurança n. 32.748/AP, de minha relatoria; Mandado de Segurança n. 30.193-AgR/DF, Relator o Ministro Celso de Mello; Mandado de Segurança n. 25.170-AgR/DF, Relator o Ministro Cezar Peluso; Mandado de Segurança n. 34.072/DF, Relator o Ministro Teori Zavascki, decisão monocrática, DJe 22.3.2016; Mandado de Segurança n. 33.975/DF, Relatora a Ministra Rosa Weber, decisão monocrática, DJe 11.2.2016; e Mandado de Segurança n. 33.179/GO, Relator o Ministro Roberto Barroso, decisão monocrática, DJe 10.9.2014.
+    6. Pelo exposto, nego seguimento ao mandado de segurança e determino a remessa dos autos com urgência ao Tribunal de Justiça do Amazonas (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal e art. 21, inc. VI, da Lei Complementar n. 35/1979) para o processo ser apreciado como de direito.
+    Publique-se.
+    Brasília, 13 de julho de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
+(art. 13, inc. VIII, do Regimento Interno do Supremo Tribunal Federal)
