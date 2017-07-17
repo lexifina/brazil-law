@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98242, de 11 de julho de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8517.70.29 Mercadoria: Antena externa direcional, utilizada para melhorar o nível de recepção e transmissão do sinal GSM por meio de conexão em equipamento de telefonia celular (principalmente telefone celular fixo ou repetidor de sinal GSM), frequência de 824Mhz ~ 960Mhz, apresentada desmontada, incluindo peças para fixação.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da posição 85.17 e da Nota 2 b) da Seção XVI), RGI 2 a), RGI 6 (texto da subposição de 1º nível fechada 8517.70) e RGC 1 (textos do item 8517.70.2 e do subitem 8517.70.29) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.242-2017 .pdf]
