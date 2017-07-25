@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA OBSERVÂNCIA DA SISTEMÁTICA DA REPERCUSSÃO GERAL. REMESSA INDEVIDA PELA ORIGEM AO SUPREMO TRIBUNAL FEDERAL. BAIXA IMEDIATA.
+Relatório
+    1. Em 1º.12.2016, determinei a devolução destes autos ao Tribunal de origem por terem sido submetidas à sistemática da repercussão geral as questões trazidas no recurso: Recurso Extraordinário n. 565.160, Tema 20, Recurso Extraordinário n. 611.505, Tema 482 e Recurso Extraordinário com Agravo n. 745.901, Tema 759 (doc. 203).
+    2. Em 25.1.2017, Águia Sistemas de Armazenagem S/A protocolizou petição requerendo ao Vice-Presidente do Tribunal Regional Federal da 4ª Região a devolução dos autos ao Supremo Tribunal Federal, porque o recurso teria sido remetido à instância de origem antes de esgotado o prazo para interposição de agravo interno contra o despacho de devolução para aplicação da sistemática da repercussão geral (doc. 211).
+    O pedido foi indeferido por ser inadmissível a interposição de recurso contra aquele provimento judicial (doc. 214).
+    3. Em 13.3.2017, a Recorrente protocolizou pedido de reconsideração, acolhido pela mesma Vice-Presidência, embora não se oferecessem razões novas.
+    Analisada a questão trazida na espécie, DECIDO.
+    4. Não se há cogitar de “devolução prematura” do processo à instância de origem.
+    5. Submetido o recurso paradigma ao Plenário Virtual, este Supremo Tribunal pode: a) recusá-lo por ausência de repercussão geral e devolver os demais recursos aos Tribunais de origem, que a eles deverão negar seguimento (art. 1.030, inc. I, al. a, do Código de Processo Civil); b) reconhecer a existência da repercussão geral e devolver os demais recursos aos Tribunais de origem, para serem sobrestados e aguardarem o julgamento de mérito pelo Supremo Tribunal Federal (art. 1.030, inc. III, do Código de Processo Civil); c) reconhecer a repercussão geral e julgar o mérito do recurso, devolvendo os demais recursos aos Tribunais de origem, que a eles negarão seguimento ou exercerão juízo de retratação, conforme o caso (art. 1.030, incs. I, al. a, e II, do Código de Processo Civil).
+    6. As possibilidades descritas compõem a sistemática da repercussão geral. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido da irrecorribilidade do ato (decisão ou despacho) de devolução dos autos aos Tribunais de origem para os fins previstos na legislação processual e referentes ao instituto da repercussão. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RECURSO INTERPOSTO CONTRA DESPACHO PELO QUAL SE DETERMINA A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. INADMISSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 874.816 AgR-AgR, Pleno, de minha relatoria, DJe 8.11.2016).
+    Não merecia, pois, reforma a primeira decisão da Vice-Presidência do Tribunal Regional Federal da 4ª Região, que inadmitiu o agravo da Águia Sistemas de Armazenagem S/A ao Supremo Tribunal Federal.
+    7. Pelo exposto, mantenho o despacho de devolução dos autos à origem pela sistemática da repercussão geral, com determinação de baixa imediata (art. 13, inc. V, al. c, do Regimento Interno do Supremo Tribunal Federal).
+    Brasília, 25 de julho de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
