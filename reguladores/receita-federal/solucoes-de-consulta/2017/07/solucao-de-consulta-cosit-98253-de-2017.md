@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98253, de 25 de julho de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 7324.90.00 Mercadoria: Suporte para rolo de papel higiênico, de aço inoxidável, com dimensões de 12,5 X 12,0 X 5,20 cm, para ser fixado à parede do banheiro. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 73.24) e RGI 6 (texto da subposição 7324.90) constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.253-2017 .pdf]
