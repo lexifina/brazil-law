@@ -1,0 +1,5 @@
+# Lei Complementar nº 45, de 26 de julho de 2017, do Estado de Alagoas
+
+ENCAMINHANDO PROJETO DE LEI QUE ALTERA A LEI COMPLEMENTAR ESTADUAL Nº 29, DE 01 DE DEZEMBRO DE 2011, PARA ADEQUA-LA A LEI CONSTITUCIONAL Nº 80, DE 04 DE JUNHO DE 2014, BEM COMO ADEQUA-LA AS NECESSIDADES PERCEBIDAS NO COTIDIANO DA DEFENSORIA  QUE, DESDE A ENTRADA EM VIGOR DA LEI COMPLEMENTAR 29/2011, FORAM PERCEBIDAS, EXIGINDO MODIFICAÇÕES E COMPLEMENTOS.
+
+Fonte: Assembleia Legislativa (sapl.al.al.leg.br), <https://sapl.al.al.leg.br/norma/1338>; texto: <http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2017/1338/1338_texto_integral.pdf>
