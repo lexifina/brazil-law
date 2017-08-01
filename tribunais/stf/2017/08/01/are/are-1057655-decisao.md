@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, condenou o réu pela prática do crime de roubo circunstanciado, previsto no artigo 157, § 2º, inciso II, do Código Penal. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação do artigo 5º, inciso LV, da Constituição Federal. Argui a nulidade do processo por cerceamento de defesa. Alega ter sido condenado com base apenas em confissão extrajudicial. Diz ter o Colegiado interpretado de forma equivocada a situação, devendo prevalecer o quadro fático lançado na sentença.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+     A versão apresentada por Willians, muito embora tenha sido absolvido, no sentir desta Relatoria, colide frontalmente com as provas amealhadas aos autos, porquanto, na Delegacia consignou que juntamente com Ednei praticou o assalto, versão também manifestada por Ednei.
+    Observo que depoimento Willians na fase inquisitiva é detalhado, mencionou, até a coronhada que o corréu desferiu na vítima, situação que se coaduna com a aquele que participou da empreitada criminosa.
+    Em Juízo, negou a prática do delito, dizendo que sequer sabia que Ednei iria praticá-lo, todavia, Ednei, embora tenha tentado eximi-lo do crime, dizendo que o executou sozinho, disse que convidou para efetuar o roubo Willians, o qual, apesar de não ter aceito por medo, ficou na esquina aguardando o desfecho do crime.
+           Ora, os envolvidos além de apresentarem outra versão em Juízo, elas sequer são compatíveis, o que nos leva a conclusão de que os dois praticaram o crime juntos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/M, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 1º de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
