@@ -1,0 +1,14 @@
+DECISÃO: O presente agravo foi interposto pela União contra decisão que negou trânsito ao apelo extremo por ela deduzido, no qual sustentou que o órgão judiciário de origem teria transgredido o preceito inscrito no art. 146, III, “b”, da Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Código Tributário Nacional), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Impõe-se registrar, finalmente, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.046.086/RS, Rel. Min. GILMAR MENDES – RE 1.011.473/RS, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Execução fiscal. Prescrição. Interrupção. Código Tributário Nacional, Código de Processo Civil e Lei nº 6.830/80. Infraconstitucional. Ofensa constitucional indireta ou reflexa.
+    1. Possui natureza infraconstitucional a discussão a respeito da interrupção do prazo prescricional em sede de execução fiscal na qual se envolva a interpretação do Código Tributário Nacional, do Código de Processo Civil e da Lei nº 6.830/80. A afronta ao texto constitucional seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo.
+    2. Agravo regimental não provido.”
+    (ARE 810.802-AgR-ED/CE, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
