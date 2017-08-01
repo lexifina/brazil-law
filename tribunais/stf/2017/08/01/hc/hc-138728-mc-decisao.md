@@ -1,0 +1,20 @@
+DECISÃO
+HABEAS CORPUS – LIMINAR – OBSERVÂNCIA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    Vossa Excelência, em 6 de dezembro de 2016, deferiu a medida acauteladora para afastar a prisão preventiva do paciente e do corréu Marcos Leandro Alves Coutinho, apontando a inidoneidade da fundamentação e o excesso de prazo da segregação cautelar.
+    Por meio da petição/STF nº 36.067/2017, o impetrante requer seja determinada a observância da liminar. Afirma que, seis meses após implementada, o Juízo, ao proferir sentença condenatória, determinou a prisão preventiva do paciente.
+    Consoante cópia apresentada, o Juízo, no último dia 14 de junho, condenou o paciente a 10 anos e 8 meses de reclusão, em regime inicial fechado, e ao pagamento de 26 dias-multa; e o corréu a 16 anos e 3 meses de reclusão, em regime inicial fechado, e ao pagamento de 67 dias-multa, em razão do cometimento dos delitos versados nos artigos 157, § 2º, inciso II, e 157, § 2º, incisos II e V, em concurso material, do Código Penal. Assentou que a custódia é efeito da sentença condenatória, afirmando-a necessária para garantia da aplicação da lei penal, ante o risco de fuga.
+    2. Quando do deferimento da medida acauteladora, consignei:
+    [...]
+    2. O Juízo, ao implementar a preventiva, considerou aspectos que não a fundamentam. Aludiu à inexistência de comprovação de vínculo com o distrito da culpa. A problemática tem solução conforme o disposto no artigo 366 do Código de Processo Penal. Ainda que, citado por edital, o acusado deixe de constituir defesa técnica, as consequências são apenas a suspensão do processo e do prazo prescricional, devendo a segregação cautelar fazer-se balizada no artigo 312 dele constante. O sentimento de insegurança da vítima não respalda o argumento alusivo à preservação da ordem pública e da instrução criminal. Tem-se a insubsistência das premissas lançadas.
+    A par disso, o paciente encontra-se preso cautelarmente há quase 1 ano e 6 meses, situação a configurar o excesso de prazo da constrição.
+    3. Defiro a liminar pleiteada. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja recolhido por motivo diverso da preventiva formalizada no processo nº 0018581-71.2015.8.19.0054, da Segunda Vara Criminal da Comarca de São João do Meriti/RJ. Advirtam-no da necessidade de permanecer na residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. Sendo idêntica a situação do corréu Marcos Leandro Alves Coutinho, estendo-lhe esta medida acauteladora, com os mesmos cuidados, consoante o disposto no artigo 580 do Código de Processo Penal.
+    […]
+    A superveniência de sentença condenatória não afasta a natureza preventiva da custódia, especialmente quando pautada nos mesmos fundamentos. O artigo 283, cabeça, do Código de Processo Penal, ao versar os títulos prisionais provisórios, prevê o flagrante, a temporária e a preventiva, revelando que as segregações decorrentes da pronúncia e da sentença penal condenatória recorrível integram a última. O artigo 387, § 1º, denomina, expressamente, preventiva a prisão oriunda da condenação recorrível.
+    3. Oficiem, com urgência, ao Juízo da Segunda Vara Criminal da Comarca de São João do Meriti/RJ, para que expeça, em favor do paciente e do corréu Marcos Leandro Alves Coutinho, os contramandados de prisão ou, se já cumpridos, os alvarás de soltura, a serem implementados com as cautelas próprias: caso não se encontrem recolhidos por motivo diverso da preventiva formalizada no processo nº 0018581-71.2015.8.19.0054. Advirtam-nos da necessidade de permanecerem com as residências indicadas, atendendo aos chamamentos judiciais, de informarem eventual transferência e de adotarem a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 1º de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
