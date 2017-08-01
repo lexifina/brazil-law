@@ -1,0 +1,21 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de decisão monocrática da qual se colhem os seguintes excertos:
+    “Trata-se de Apelação Cível proposta contra sentença proferida pelo juízo da Vara Única da Comarca de Mucambo, fls. 295/302, que, nos autos da Execução Judicial Provisória movida por MARIA DE FÁTIMA ALVES DE ALMEIDA e OUTROS em desfavor do MUNICÍPIO DE MUCAMBO, julgou extinto o feito, com fundamento nos arts. 581 e 794, inciso I, do Código de Processo Civil, porquanto comprovado o adimplemento da decisão exequenda (pagamento de salário não inferior ao mínimo ao funcionalismo público municipal), desde julho de 2013.
+    Propostos Embargos Declaratórios, fls. 306/331, foram rejeitados, fls. 350/353.
+    Apelaram as demandantes, fls. 358/382, informando, em suma, que prestaram concurso para jornada de trabalho de 20 (vinte) horas semanais. Acrescentam que, depois de julgada procedente ação que tornava obrigatório o pagamento do salário-mínimo nacional aos servidores, independentemente do período efetivamente trabalhado, o apelante publicou o Decreto nº 17/2013, dobrando as horas de serviço para 08 (oito) diárias, e aplicando faltas àqueles que não o observassem, com os consequentes descontos na folha de pagamento. Alegam descabida a rediscussão da matéria transitada em julgado e contida na Súmula nº 16 do STF, pelo magistrado, bem como a validade de ato administrativo evidentemente inconstitucional, destacando a aplicação do Princípio da Isonomia. Pugnam, ao final, pela concessão da tutela recursal, com objetivo de ser implementada, na folha de pagamento, o salário-mínimo como menor remuneração, com fixação de multa diária em caso de descumprimento. Requer, ainda, o provimento do apelo, com a consequente reforma da decisão primeva.
+    […]
+    Dito isso, passo a insurgência.
+    In casu, trata-se de recurso proposto contra sentença que, em Ação de Execução de Título Judicial, extinguiu o feito tendo em vista o cumprimento da obrigação, na forma do art. 794, inciso I, do CPC, verbis:
+    Extingue-se a execução quando:
+    I – o devedor satisfaz a obrigação;”
+    Argumentam as autoras que, apesar de transitado em julgado a decisão que assegura o percebimento do salário-mínimo nacional aos servidores públicos municipais, independente da jornada de trabalho, o apelado vem aplicando descontos com a justificativa da não observância do período de 8 (oito) horas diárias, baseando-se na publicação do Decreto nº 17/2013.
+    […]
+    Assim, como bem salientou o juiz, “entendo que a documentação acostada aos autos comprova que o município executado, desde junho de 2013, vem adimplindo a sentença exequenda, nos limites em que se faz possível exigir-lhe cumprimento. Como explanado, eventual reproche à jornada laboral exigida pela municipalidade de seus servidores não pode ser discutida nos presentes fólios.” - fls. 301/302.
+    Ante o exposto, vez que o presente recurso apelatório afigura-se em confronto com a jurisprudência deste Sodalício, bem como manifestamente improcedente, nego-lhe seguimento, com arrimo no art. 557, caput, da Lei Processual Civil, determinando o arquivamento dos autos caso transcorra in albis o prazo contra a vertente decisão” (págs. 35-38 e 43 do volume eletrônico 8).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 1°, III; 5°, XXXVI, LIV, LV e 37, caput, da mesma Carta da República.
+    A pretensão recursal não merece acolhida.
+    Isso porque o recorrente não esgotou as vias recursais ordinárias, tendo interposto o recurso extraordinário diretamente contra decisão monocrática do relator da apelação no Tribunal de Justiça do Estado do Ceará. Não há, portanto, decisão de última ou única instância como é exigido na Constituição Federal. Desse modo, é forçoso reconhecer a incidência do óbice previsto na Súmula 281 desta Corte.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Deixo de majorar os honorários recursais previstos no art. 85, § 11, do Código de Processo Civil, uma vez que não foram fixados pelo juízo de origem.
+    Publique-se.
+    Brasília, 1° de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
