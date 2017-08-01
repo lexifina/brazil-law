@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça (AgRg no Agravo em Recurso Especial 1.034.151/RJ, Rel. Min. REYNALDO SOARES DA FONSECA), assim ementado:
+    AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE DO VERBETE N. 182 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO NÃO CONHECIDO.
+    1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+    2. Agravo regimental não conhecido.
+    Nesta ação, o impetrante alega, em síntese, que a paciente, condenada à pena de quatro anos de reclusão, em regime aberto, pela prática do crime previsto no art. 1º, § 1º, I, da Lei 9.163/98, sofre constrangimento ilegal, ao argumento de que “a matéria ventilada é de direito, não havendo necessidade de revolvimento de fatos e provas, tão somente exame perfunctório dos autos e dos questionáveis argumentos utilizados para a fixação da pena, não incidindo, no caso, o óbice da Súmula 07 do Superior Tribunal de Justiça”. Requer, assim, a concessão da ordem, com vistas a “desconstituir parcialmente a decisão ‘a quo’”, a fim de que outra seja proferida, com a indicação de critérios concretos para fixação da pena.
+    É o relatório. Decido.
+    As matérias trazidas pelo impetrante a respeito da dosimetria da pena não foram analisadas pelo Superior Tribunal de Justiça, que se limitou a examinar os requisitos do recurso especial. Desse modo, torna-se inviável a esta Suprema Corte conhecer delas originariamente, sob pena de indevida supressão de instância e violação das regras constitucionais de repartição de competências (HC 132.864-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 18/3/2016; HC 136.452-ED, Rel. Min. ROSA WEBER, Primeira Turma, Dje de 10/2/2017; HC 135.021-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, Dje de 6/2/2017; HC 135.949, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, Dje 24/10/2016).
+    Quanto ao mais, por não haver quadro de flagrante ilegalidade, incide na espécie o entendimento firmado por ambas as Turmas deste Tribunal, de que “O Superior Tribunal de Justiça é a jurisdição final sobre os pressupostos de admissibilidade do recurso especial, motivo pelo qual não pode o Supremo Tribunal Federal reapreciar tais requisitos e o rejulgar do recurso” (HC 85.195, Relator(a): Min. AYRES BRITTO, Primeira Turma, DJ 7/10/2005). E ainda: HC 94.236, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, DJe 19/9/2013; HC 113.407, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 15/2/2013; HC 112.323, Relator(a): Min. ROSA WEBER, Primeira Turma, DJe de 25/9/2012.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO HABEAS CORPUS.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
