@@ -1,0 +1,26 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, acha-se assim ementado:
+    “POLÍCIA MILITAR – SOLDADO TEMPORÁRIO – 13º SALÁRIO E FÉRIAS – DESCABIMENTO. Mesmo diante do reconhecimento da inconstitucionalidade da Lei Federal 10.029/00 e Lei Estadual 11.064/02 que autorizam a contratação de jovens para prestarem serviço voluntário junto a determinados setores da Administração, não há de se impor à Fazenda do Estado o pagamento de 13º salário, férias e saldo de FGTS, pois pressupõem a validade da relação jurídica existente entre o agente público e a Administração. A declaração de inconstitucionalidade enseja, tão somente, pagamento a título de contraprestação, a fim de obstar enriquecimento sem causa. Sentença de procedência reformada. Recurso da FESP provido e recurso da autora desprovido.”
+    A parte agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 7º, VIII, XVII, XXIII, XXX, da Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário em questão não se revela viável.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Cabe enfatizar, por relevante, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local, sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Impõe-se registrar, ainda, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos por ambas as Turmas desta Suprema Corte:
+    “DIREITO ADMINISTRATIVO. POLICIAL MILITAR TEMPORÁRIO. CONTRATAÇÃO COM BASE NA LEI FEDERAL Nº 10.029/2000 E NA LEI ESTADUAL Nº 11.064/2002. SÚMULA Nº 282 E Nº 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 16.7.2014.
+    1. Cristalizada a jurisprudência desta Suprema Corte, a teor da Súmula nº 282 e nº 356/STF: ‘Inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada’, bem como ‘O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento’.
+    2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.
+    3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula nº 280 do STF, a inviabilizar o trânsito do recurso extraordinário.
+    4. Agravo regimental conhecido e não provido.”
+    (ARE 837.806-AgR/SP, Rel. Min. ROSA WEBER)
+    “Agravo regimental no recurso extraordinário com agravo. Policial Militar Temporário. Lei Federal nº 10.029/2000 e Lei Estadual nº 11.064/2002. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+    1. O recurso extraordinário não se presta para o exame de matéria ínsita à legislação infraconstitucional. Incidência das Súmulas nºs 280 e 636/STF.
+    2. Agravo regimental não provido.
+    3. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça.”
+    (ARE 867.190-AgR/SP, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
