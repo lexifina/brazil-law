@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 135, Vol. 1):
+    EMENTA: ADMINISTRATIVO – APELAÇÃO CÍVEL/REEXAME NECESSÁRIO – RECLAMAÇÃO TRABALHISTA – SERVIDORA MUNICIPAL – ADICIONAL DE INSALUBRIDADE – BASE DE CÁLCULO – SALÁRIO MÍNIMO – IMPOSSIBILIDADE – SÚMULA 04, DO STF – PRECEDENTES.
+    Nas razões recursais, com amparo no art. 102, III, “a”, da Constituição Federal, foram alegadas violações aos arts. 7º, IV, XXIII, 37, ambos da CF/88.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do recurso extraordinário.
+    Ainda que fosse possível superar esse grave óbice, o acórdão recorrido está em harmonia com a jurisprudência desta Corte, conforme se verifica da leitura do seguinte precedente:
+    EMBARGOS DE DIVERGÊNCIA EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO. DISCIPLINA NORMATIVA INEXISTENTE. OMISSÃO LEGISLATIVA. FIXAÇÃO POR DECISÃO JUDICIAL. LEGITIMIDADE. JURISPRUDÊNCIA DE AMBAS AS TURMAS FIRMADA NO SENTIDO DA DECISÃO EMBARGADA. PRECEDENTES. ART. 332 DO RISTF. NÃO CABIMENTO.
+    1. A jurisprudência de ambas as Turmas desta Corte evoluiu para afirmar o entendimento de que não viola os arts. 2º, 5º, II, 7º, IV, e 37, caput, da Constituição da República nem contraria a Súmula Vinculante nº 4 do STF a decisão que, face a lacuna normativa, fixa o vencimento básico como base de cálculo do adicional de insalubridade devido a servidor municipal. Precedentes.
+    2. Não se conhece dos embargos de divergência quando firmada a jurisprudência de ambas as Turmas no sentido da decisão embargada (art. 332 do RISTF), a evidenciar a superação da tese assentada no aresto cotejado.
+    Embargos de divergência não conhecidos. (RE 673.644 – AgR – Edv, Rel. Min. ROSA WEBER, Plenário, DJe 24/10/2016)
+    No mesmo sentido: RE 987.079-AgR, Rel. Min. RICARDO LEWANDOWISKI, Segunda Turma, DJe de 11/4/2017; RE 987.443-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 21/11/2016; e ARE 918.007-AgR, Rel. Min. ROSA WEBER, DJe de 18/11/2015.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
