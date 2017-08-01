@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho que possui a seguinte ementa (fl. 61):
+    RECURSO DE REVISTA. REINTEGRAÇÃO. APOSENTADORIA VOLUNTÁRIA. EXTINÇÃO DO CONTRATO DE TRABALHO. Decisão regional proferida em consonância com a orientação Jurisprudencial nº 177 da SDBI1 do TST, que assim dispõe: ‘A aposentadoria espontânea extingue o contrato de trabalho, mesmo quando o empregado continua a trabalhar na empresa após a concessão do benefício previdenciário. Assim sendo, indevida a multa de 40% do FGTS em relação ao período anterior à aposentadoria. Incidência do Enunciado 333 do TST e do § 4º do artigo 896 da CLT. Recurso de revista não conhecido.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, o recorrente sustenta, em síntese, que o julgado ofendeu os artigos 5º, II, XXXV, XXXVI, LIV e LV, e 93, IX, da Constituição Federal.
+    Em contrarrazões, a parte contrária pede, preliminarmente, o não conhecimento do apelo extremo haja vista a ausência de prequestionamento da matéria constitucional suscitada. No mérito, postula a manutenção do julgado.
+    É o relatório. Decido.
+    Não procede a preliminar de não conhecimento do recurso suscitada pela parte recorrida, pois o tema da extinção do contrato de trabalho em razão da aposentadoria espontânea constituiu o objeto central do acórdão recorrido.
+    O recurso merece provimento, senão vejamos.
+    O Tribunal de origem divergiu do entendimento firmado por esta Corte no sentido de que a aposentadoria espontânea não extingue o contrato de trabalho. Nesse sentido:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. APOSENTADORIA ESPONTÂNEA. MULTA DE 40% SOBRE O FGTS. EXTINÇÃO. INOCORRÊNCIA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. 1. A aposentadoria espontânea não extingue, por si só, o contrato de trabalho. Havendo continuidade do trabalho mesmo após a aposentadoria voluntária, não há que falar em ruptura do vínculo empregatício. 2. O acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, no sentido de que tem direito à multa de 40% sobre o FGTS, nos casos de aposentadoria espontânea, se o empregado permanece prestando serviços ao empregador após a jubilação. 3. Agravo regimental, interposto em 1º.08.2016, a que se nega provimento, com aplicação da multa prevista no art. 1.021, §4º, CPC/15. Quanto à majoração dos honorários, prevista no artigo 85, §11, do CPC/15, verifica-se, que não se aplica ao caso dos autos uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem. (ARE 931.326-AgR, REL. Min. EDSON FACHIN, Primeira Turma, DJe de 17/11/2016)
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. APOSENTADORIA ESPONTÂNEA. EXTINÇÃO DO CONTRATO DE TRABALHO. NÃO-OCORRÊNCIA. DECISÃO PLENÁRIA. ADIs 1.721 E 1.770. DECLARAÇÃO DE INCONSTITUCIONALIDADE DOS §§ 1º E 2º DO ART. 453 DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO. Agravo regimental desprovido. (AI 749.394-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe de 26/04/2012)
+    Diante do exposto, com base no art. 21, § 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, dou provimento ao recurso extraordinário para que, afastada a causa obstativa, o Juízo de 1º grau julgue a causa.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
