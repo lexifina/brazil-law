@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravos interpostos contra decisões que não admitiram os recursos extraordinários (eDOC 2, p. 101-114; e eDOC 2, p. 268-275), em face do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (eDOC 2, p. 72-79) e pelo Superior Tribunal de Justiça (eDOC 2, p. 241-245) ementados, respectivamente, nos seguintes termos:
+    “APELAÇÃO. Crime de responsabilidade. Prefeito. Nomeação de pessoa vítima de atropelamento para cargo em comissão a fim de que os vencimentos recebidos servissem para pagamento de indenização devida pelo réu. Materialidade e autoria comprovadas. Condenação mantida. Pena e regime bem dosados. Recurso improvido”. (eDOC 2, p. 74 – TJSP)
+    “PROCESSUAL PENAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CRIME DE RESPONSABILIDADE DE PREFEITO. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+    Não merece ser conhecido o agravo regimental que deixa de infirmar todos os fundamentos utilizados para impedir o trânsito do recurso especial, a teor do enunciado sumular n. 182 desta Corte”. (eDOC 2, p. 241 - STJ)
+    Ambos os recursos extraordinários foram interpostos com fundamento no art. 102, III, a, da Constituição Federal. Aponta-se violação aos arts. 5º, incisos LIV, LV; e 93, IX, do texto constitucional.
+    Consta dos autos que o recorrente fora condenado pela prática do crime tipificado no art. 1º, inciso I, do Decreto 201/1967, por 42 vezes e de forma continuada, à pena de 3 anos, 10 meses e 20 dias de reclusão, substituída por prestação pecuniária de R$ 24.797,98, a título de ressarcimento ao erário municipal e de serviços à comunidade. (eDOC 2, p. 74)
+    As alegações são comuns a ambos os extraordinários. A defesa alega, primeiramente, atipicidade na conduta do recorrente ao art. 1º, inciso I, do Decreto-lei 201/1967; insuficiência de prova para sua condenação; não comprovação de dolo na sua ação; e que o recorrente foi condenado por ter supostamente desviado dinheiro público a uma terceira pessoa sem que esta figurasse no polo passivo da ação.
+    Requer a procedência dos recursos para que seja decretada a improcedência total da ação, com consequente absolvição do recorrente. (eDOC 2, p. 112)
+    É o relatório.
+    Decido.
+    Os recursos não merecem prosperar.
+    Registro que o TJSP aplicou o Tema 182 da sistemática da repercussão geral, cujo paradigma é o AI-RG 742.460/RJ, Rel. Min. Cezar Peluso, DJe 25.9.2009.
+    Já o STJ aplicou ao caso os Temas 181 e 339 da sistemática da repercussão geral, cujos paradigmas são o RE-RG 598.365/MG, Rel. Min. Ayres Britto, DJe 26.03.2010, e o AI–QO-RG 791.292/PE, de minha relatoria, DJe 13.08.2010.
+    Nesse ponto, o Plenário deste Tribunal decidiu não ser cabível recurso ao Supremo Tribunal Federal contra a aplicação do procedimento da repercussão geral nas instâncias de origem. Transcrevo a ementa do AI-QO 760.358, de minha relatoria, DJe 18.2.2010:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem”.
+    Ante o exposto, nego seguimento aos recursos (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
