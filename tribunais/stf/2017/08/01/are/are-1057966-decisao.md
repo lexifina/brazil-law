@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de incidente de uniformização pela Turma Regional de Uniformização de Jurisprudência, está assim ementado:
+    “DIREITO PREVIDENCIÁRIO. RECURSO INOMINADO. REVISÃO DE RMI. LIMITAÇÃO AO TETO. EC Nº 20/98 E 41/03. BENEFÍCIO NÃO LIMITADO AO TETO NA ÉPOCA DA CONCESSÃO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO IMPROVIDO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o órgão judiciário de origem, ao proferir a decisão ora questionada, apoiou-se em aspectos fático-probatórios:
+    “6. No caso em análise, conforme se extrai dos documentos constante do anexo 12, a RMI do benefício da autora, concedido em 20/01/1991, não foi limitada ao teto então vigente, correspondente ao valor de Cr$ 92.168,11, posto que correspondia somente a Cr$ 86.525,71.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria idêntica à veiculada no caso em exame (ARE 685.015/RS, Rel. Min. RICARDO LEWANDOWSKI – ARE 757.680/RS, Rel. Min. DIAS TOFFOLI – ARE 758.618/RS, Rel. Min. CÁRMEN LÚCIA – ARE 766.856/RJ, Rel. Min. LUIZ FUX – ARE 767.918/RJ, Rel. Min. TEORI ZAVASCKI – ARE 772.943/BA, Rel. Min. GILMAR MENDES – ARE 792.960/DF, Rel. Min. ROBERTO BARROSO – RE 783.262/SC, Rel. Min. ROSA WEBER, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no  § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
