@@ -1,0 +1,16 @@
+DECISÃO: O presente agravo foi interposto por Raimundo Marinho dos Santos contra decisão que negou trânsito ao apelo extremo por ele deduzido, no qual sustentou que o acórdão proferido pelo E. Tribunal Regional Federal da 1ª Região teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário em questão não se revela viável.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou-se em dispositivos de ordem meramente legal:
+    “Como se vê, a ‘gratificação de balanço’ recebida pelo autor em sua reclamação trabalhista decorrente da participação dos empregados no lucro ou resultado não pode ser confundida com os lucros ou dividendos previstos na Lei nº 9.249/1995:
+    ‘Art. 10. Os lucros ou dividendos calculados com base nos resultados apurados a partir do mês de janeiro de 1996, pagos ou creditados pelas pessoas jurídicas tributadas com base no lucro real, presumido ou arbitrado, não ficarão sujeitos à incidência do imposto de renda na fonte, nem integrarão a base de cálculo do imposto de renda do beneficiário, pessoa física ou jurídica, domiciliado no País ou no exterior.
+    § 1º No caso de quotas ou ações distribuídas em decorrência de aumento de capital por incorporação de lucros apurados, a partir do mês de janeiro de 1996, ou de reservas constituídas com esses lucros, o custo de aquisição será igual à parcela do lucro ou reserva capitalizado, que corresponder ao sócio ou acionista.’
+    Não há dúvida de que a isenção prevista no art. 10 da Lei nº 9.250/95 refere-se tão somente ao sócio ou acionista da empresa, e não aos seus empregados, que não recebem distribuição de lucro, mas sim participação.”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável, por tratar-se de aplicação, ao caso concreto, de normas eminentemente infraconstitucionais.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
