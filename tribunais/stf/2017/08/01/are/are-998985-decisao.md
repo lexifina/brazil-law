@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. RÉU REVEL. SUSPENSÃO DO PROCESSO. PRODUÇÃO ANTECIPADA DE PROVAS. ARTIGO 366 DO CÓDIGO DE PROCESSO PENAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIAS COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PRODUÇÃO ANTECIPADA DE PROVAS. ART. 366 DO CPP. OITIVA DE TESTEMUNHA. AGENTE DE FISCALIZAÇÃO DO IBAMA. URGÊNCIA NÃO DEMONSTRADA.
+    1. Segundo a orientação jurisprudencial desta Corte, nos termos do que dispõe o art. 366 do CPP, poderá o magistrado determinar a produção antecipada de provas consideradas urgentes.
+    2. A simples afirmação de que a testemunha, por se tratar de agente do Ibama, poderá se esquecer dos fatos, em razão de sua atividade diária de fiscalização, não justifica a produção antecipada de provas.
+    3. Recurso ordinário em habeas corpus provido, para anular a decisão que determinou a produção antecipada de provas, cujo produto deve ser desentranhado dos autos.” (doc. 3, fl. 109)
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 1º, caput, 5º, XXXV, LIV, LVI e 129, I, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que se trataria, na espécie, de matéria infraconstitucional.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A matéria relativa à possibilidade de produção antecipada de provas, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie (Código de Processo Penal), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Outrossim, os princípios da ampla defesa, do contraditório (artigo 5º, LV), do devido processo legal (artigo 5º, LIV) e os limites da coisa julgada (artigo 5º, XXXVI), quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, Tema 660, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Quanto à alegação de ofensa ao artigo 5°, XXXV, da Constituição Federal, melhor sorte não assiste à parte agravante, tendo em vista que da análise dos autos é possível observar que a parte se valeu dos meios recursais cabíveis e teve a jurisdição devidamente prestada por decisões fundamentadas, embora contrárias aos seus interesses. Assim, não resta caracterizada a negativa de prestação jurisdicional. Nesse sentido, ARE 740.877-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 4/6/2013, o qual possui a seguinte ementa:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. 3. Alegação de ausência de prestação jurisdicional. Decisão fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. Precedente: AI-QO-RG 791.292 de minha relatoria, DJe 13.8.2010. 4. Afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, se dependente do reexame prévio de normas infraconstitucionais, configura ofensa reflexa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. 5. Alegação de ofensa ao princípio da legalidade. Enunciado 636 da Súmula desta Corte. 6. Ausência de argumentos suficientes para infirmar a decisão recorrida. 7. Agravo regimental a que se nega provimento.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
