@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto a procedência do pedido de concessão do benefício previdenciário, tendo por preenchidos os requisitos da legislação de regência. Nas razões do extraordinário, o recorrente aponta violado o artigo 9º da Emenda constitucional nº 20/98. Afirma não preenchidos os requisitos para a concessão do benefício.
+    2. De inicio, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do recurso regida por esse diploma legal.
+    A par desse aspecto, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    Analisando as regras supra mencionadas, observa-se que o autor se encontra com idade superior a 2/4 cinquenta e três anos e possui o tempo mínimo para a aposentadoria integral por tempo de contribuição (30 anos + mais pedágio de 20%), senão vejamos: na data da publicação da EC 20/98, restou comprovado, segundo o INSS (V. documento n.º 4058300.590564), 18 anos, 5 meses e 16 dias.
+    Para alcançar o pedágio especificado na alínea b, inciso II do art. 9º da EC 20/98, caberia, ao autor, recolher 20% do período remanescente de 35 anos menos 18 anos, 5 meses e 16 dias, o que importa em 3 anos, 3 meses e 22 dias. Sendo assim, o tempo mínimo necessário seria de 33 anos, 3 meses e 22 dias. Ocorre que, pelas regras de transição vigentes ao caso, conclui-se que o autor alcançou o tempo mínimo de contribuição, visto que o total de suas contribuições equivale a 33 anos, 4 meses e 27 dias, superando o lapso mínimo de contribuições.
+    Assim, tendo tempo de contribuição suficiente à concessão de aposentadoria integral por tempo de contribuição, forçoso o deferimento do pleito.
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Nego seguimento ao extraordinário. Considerada a fixação dos honorários advocatícios no valor de R$ 1.000,00 (mil reais), fixo os honorários recursais no patamar de R$ 500,00 (quinhentos reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 1º de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
