@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 3ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SFH. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+    - É da Justiça Federal a competência para julgamento dos feitos que versem sobre cobertura securitária no âmbito do SFH (apólices públicas - ramo 66, com comprometimento do FCVS). Precedentes desta Corte.
+    - Na hipótese dos autos, trata-se de apólice privada (Ramo 68), de modo que não resta configurado interesse da Caixa Econômica Federal, razão pela qual deve o feito prosseguir na Justiça Estadual, como bem decidido na decisão agravada.”.
+    Opostos embargos de declaração, foram parcialmente providos apenas para fins de prequestionamento.
+    No recurso extraordinário, sustenta-se afronta ao artigo 5º, inciso LV, da Constituição Federal.
+    Decido.
+    A jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ademais, ressalte-se que o acolhimento da pretensão recursal não prescinde do reexame da legislação infraconstitucional pertinente e do conjunto fático-probatório constante dos autos, o que não é cabível no âmbito do recurso extraordinário. Incidência da Súmula nº 279 desta Suprema Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SISTEMA FINANCEIRO DA HABITAÇÃO (SFH). RESPONSABILIDADE SECURITÁRIA. CONTRATAÇÃO SEM PREVISÃO DE COBERTURA PELO FUNDO DE COMPENSAÇÃO DE VARIAÇÕES SALARIAIS (FCVS). COMPETÊNCIA JUSTIÇA FEDERAL NÃO CONFIGURADA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A discussão acerca da competência da Justiça federal, para análise de responsabilidade securitária de contrato habitacional, demandaria a reanálise de fatos e provas, o que se revela incabível em sede de recurso extraordinário. 2. Para divergir da conclusão adotada pelo tribunal a quo também seria necessário analisar legislação infraconstitucional, incabível na instância extraordinária. 3. Agravo regimental, interposto em 30.06.2016, a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Verba honorária majorada em 25%, nos termos do art. 85, §§ 2º, 3º e 11, CPC” (ARE nº 956.649/RS-AgR, Primeira Turma, Relator o Ministro Edson Fachin, DJe de 17/11/16).
+    Registre-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
