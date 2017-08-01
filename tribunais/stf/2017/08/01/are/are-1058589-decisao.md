@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “RECURSO INOMINADO – SERVIDOR ESTADUAL – MILITAR DA RESERVA REMUNERADA – FÉRIAS PROPORCIONAIS – PERÍODO AQUISITIVO – REFERÊNCIA ANO CIVIL – RECURSO CONHECIDO E IMPROVIDO – SENTENÇA MANTIDA. ‘Conforme se depreende do art. 59 da Lei Estadual n. 6.745/1985, o servidor tem direito ao usufruto de suas primeiras férias apenas depois de completar o primeiro período aquisitivo (365 dias). Daí em diante, o gozo das férias passa a ser permitido no início do ano civil seguinte, mesmo que o respectivo período aquisitivo ainda esteja incompleto. Com lastro em tal regra, deve se dar a apuração do período de férias não usufruído pelo servidor’ (AC n. 2012.082167-6, da Capital, rel. Des. Jorge Luiz de Borba, Primeira Câmara de Direito Público,j. 18-12-2012) (Apelação Cível n. 2014.017315-5, da Capital, Relator: Des. Subst. Paulo Henrique Moritz Martins da Silva, da Capital, Primeira Câmara de Direito Público, julgado em 25/08/2015)." (pág. 1 do documento eletrônico 11).
+    No RE, interposto com base no art. 102, III, a , da Constituição Federal, alegou-se, em suma, violação aos arts. 7°, XVII, e 39, § 3°, da mesma Carta. Aduz o recorrente, em síntese, que
+    “O acórdão recorrido, desvirtuando o caráter anual do período aquisitivo de férias, tal qual disciplinado pela legislação estadual, em conformidade com a Constituição Federal de 1988, assegurou ao recorrido o cômputo das férias associado ao calendário civil. Assim agindo, não só violou a legislação local, mas maculou a ordem constitucional.” (pág. 4 do evento 13).
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem decidiu a questão relativa ao período aquisitivo e à indenização das férias proporcionais não usufruídas nos seguintes termos (pág. 2 do documento eletrônico 11):
+    “Acerca da matéria, o artigo 59, § 1º ,da Lei Estadual nº 6.745/1985 menciona: ‘Somente depois do primeiro ano de exercício, adquirirá o funcionário direito a férias, as quais corresponderão ao ano em que completar o período.’
+    Sendo assim, compreende-se com a simples leitura da legislação supra que o servidor fará jus as férias somente quando completar o primeiro ano de labor. Após este, poderá gozar férias no início do ano civil, mesmo não completando o período aquisitivo, sendo assente nosso Tribunal de Justiça:
+    […]
+    Logo, sendo o ano civil correspondente à 1º de janeiro a 31 de dezembro, e o autor ter se aposentado em 29 de agosto de 2014, este faz jus à indenização das férias proporcionais, razão pela qual mantenho a sentença recorrida.”
+    Assim, para divergir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessária a análise do conjunto fático-probatório constante dos autos, o que encontra óbice na Súmula 279 do STF, além da interpretação da legislação infraconstitucional aplicável ao caso (Lei Estadual 6.745/1985), o que é vedado pela Súmula 280 desta Corte. Dessa forma, a afronta à Constituição, se ocorresse, seria indireta ou reflexa.
+    Nesse mesmo sentido as seguintes decisões: ARE 971.945/SC e RE 1.016.063, ambos da relatoria do Ministro Roberto Barroso; RE 1.016.001/SC, Relatora a Ministra Rosa Weber; ARE 1.054.060/SC e RE 1.031.029/SC, ambos da relatoria do Ministro Luiz Fux e RE 1.010.892, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1° de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
