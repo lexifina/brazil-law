@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. LEI 13.015/2014. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. AUSÊNCIA DE CONCURSO PÚBLICO. CONTRATAÇÃO POSTERIOR À VIGÊNCIA DA CONSTITUIÇÃO DE 1988. SÚMULA 363 DO TST. Nega-se provimento a agravo de instrumento quando suas razões, mediante as quais se pretende demonstrar que o recurso de revista atende aos pressupostos de admissibilidade inscritos no art. 896 da CLT, não conseguem infirmar os fundamentos do despacho agravado” (pág. 1 do documento eletrônico 7).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação ao art. 114, I, da mesma Carta.
+    A pretensão recursal merece acolhida.
+    Este Tribunal tem asseverado que compete à Justiça Comum o processamento de litígios envolvendo eventuais irregularidades do vínculo estabelecido entre empregados e o Poder Público, nos termos da decisão proferida na ADI 3.395-MC/DF, da relatoria do Ministro Cezar Peluso, cuja ementa transcrevo a seguir:
+    “Ementa: INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária”.
+    Por oportuno, menciono decisões de ambas as Turmas desta Corte, em que se analisam situações análogas a destes autos:
+    “Ementa: AGRAVO REGIMENTAL EM RECLAMAÇÃO. ADI-MC 3395. EX-EMPREGADO DA TRENSURB. EMPRESA SUBSIDIÁRIA DA REDE FERROVIÁRIA FEDERAL (RFFSA). COMPETÊNCIA DA JUSTIÇA COMUM. PRECEDENTES. RECURSO NÃO PROVIDO.
+    1. A Justiça do Trabalho é incompetente para apreciar ação proposta por aposentado que já pertenceu aos quadros da antiga Rede Ferroviária Federal (RFFSA) ou suas subsidiárias, com o fim de buscar a complementação de sua aposentadoria, com base nas Leis 8.186/91 e 10.478/02, nos termos do que decidido no julgamento da ADI-MC 3.395.
+    2. Agravo regimental, interposto em 02.06.2016, a que se nega provimento” (Rcl 23.961-AgR/RS, Rel. Min. Edson Fachin, Primeira Turma).
+    “Ementa: CONSTITUCIONAL E PROCESSUAL CIVIL. RECLAMAÇÃO. ALEGAÇÃO DE DESRESPEITO AO DECIDIDO NA ADI 3.395-MC. COMPETÊNCIA DA JUSTIÇA FEDERAL COMUM PARA JULGAMENTO DE CAUSAS RELATIVAS À COMPLEMENTAÇÃO DE APOSENTADORIA DE EX-FUNCIONÁRIOS DE EMPRESA SUBSIDIÁRIA DA RFFSA (TRENSURB). RECLAMAÇÃO JULGADA PROCEDENTE. AGRAVO REGIMENTAL NÃO PROVIDO” (Rcl 21.177-AgR-AgR/RS, Rel. Min. Teori Zavascki, Segunda Turma).
+    Como visto, o exame da presente causa evidencia que o acórdão impugnado no apelo extremo diverge da diretriz jurisprudencial firmada por esta Suprema Corte, razão pela qual dou provimento ao recurso extraordinário de modo a reconhecer a competência da Justiça Comum para processar e julgar a causa (art. 21, § 2°, do RISTF).
+    Publique-se.
+    Brasília, 1° de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
