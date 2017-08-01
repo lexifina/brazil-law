@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Superior Eleitoral, assim ementado:
+    “RECURSO ORDINÁRIO. ELEIÇÕES 2010. DEPUTADO FEDERAL. REPRESENTAÇÃO. ABUSO DO PODER ECONÔMICO. NÃO CONFIGURAÇÃO. PROVIMENTO.
+    1. Consoante a jurisprudência do Tribunal Superior Eleitoral, o abuso do poder econômico caracteriza-se pelo uso desproporcional de recursos patrimoniais, sejam eles públicos ou privados, de forma a comprometer a igualdade da disputa eleitoral e a legitimidade do pleito em benefício de determinada candidatura.
+    2. No caso dos autos, a única prova da suposta prática do abuso de poder - descartada a gravação ambiental reconhecida como ilícita - consiste em vales-combustível apreendidos com os respectivos recibos, os quais totalizam a ínfima quantia de R$ 500,00, sem qualquer evidência da alegada distribuição indiscriminada. Não foram produzidas outras provas de razoável simplicidade, como a tomada de depoimentos de outras pessoas a quem poderia ter sido ofertado combustível, da mulher que falou pela segunda vez com o jornalista, do responsável pelas declarações acerca da suposta oferta de combustível ou dos empregados dos postos titularizados pelo candidato, tampouco foram requeridos documentos de controle desses postos.
+    3. Recurso ordinário provido para julgar improcedente o pedido formulado.”
+    Contra o acórdão acima transcrito foram opostos embargos de declaração, que foram acolhidos, sem efeitos modificativos, apenas para esclarecer que o entendimento adotado no julgado deve ser mantido para as Eleições 2010 em observância à segurança jurídica, postulado contido no art. 16 da CF/88.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II e XII; e 93, IX, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “O acórdão recorrido não declarou ilícita toda e qualquer gravação ambiental, e sim que a gravação no caso ocorreu em ambiente íntimo, levando à sua ilicitude”; (ii) rver a posição do acórdão recorrido demandaria o reexame de fatos e provas, esbarrando no Súmula 279/STF; e (iii) “A decisão adotada pela Corte, antes de afrontar o art. 5º, inciso XII, da Constituição Federal, privilegia a máxima eficácia de cada um dos princípios envolvidos, como o da isonomia e o da segurança jurídica”.
+    O recurso não deve ser provido, uma vez que deixou de impugnar o único fundamento em que se baseou o acórdão recorrido, qual seja, o de que a tese de ilicitude da gravação ambiental para processos relativos às Eleições 2010 deve ser mantida em observância ao princípio da segurança jurídica, implicitamente previsto no art. 16 da CF/88. Nessas condições, incide a Súmula 284/STF.
+    Diante do exposto, com base no art. 932, III, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço recurso.
+    Publique-se.
+          Brasília, 1º de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
