@@ -1,0 +1,24 @@
+DECISÃO: O presente agravo foi interposto por Luiz Carlos Nicodemo Chaves contra decisão que negou trânsito ao apelo extremo por ele deduzido, no qual sustentou que o acórdão confirmado em sede de embargos de declaração pela 3ª Turma Recursal do Rio Grande do Sul teria transgredido preceitos inscritos na Constituição Federal.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Leis nºs 8.213/91 e 9.876/99), circunstância essa que obsta o próprio conhecimento do apelo extremo.
+    Cabe observar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas constantes dos autos, circunstância essa que inviabiliza, como acima observado, a possibilidade de utilização do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o órgão judiciário de origem, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de dispositivos meramente legais e em aspectos fático-probatórios:
+    “A decisão deve ser confirmada pelos seus próprios fundamentos (art. 46 da Lei n. 9.099/95 c/c 1º da Lei n. 10.259/2001), valendo transcrever a bem-lançada análise empreendida pelo juízo singular:
+    …..........................................................................................
+    Desta forma, não se pode aplicar isoladamente o art. 29, I, da Lei nº 8.213/91, no caso da aposentadoria por tempo de contribuição da postulante, sendo necessária a aplicação do divisor de, no mínimo, sessenta por cento a partir de julho de 1994.
+    …..........................................................................................
+    O cálculo da RMI do benefício da parte autora observou esses requisitos legais, ao que não há como acolher a pretensão deduzida nos autos.”
+    Cabe observar, por oportuno, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito do Supremo Tribunal Federal, a propósito de questões virtualmente assemelhadas à que ora se examina nesta sede recursal (ARE 752.348- -AgR/SP, Rel. Min. CÁRMEN LÚCIA – ARE 1.056.541/PE, Rel. Min. GILMAR MENDES, v.g.):
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. RENDA MENSAL INICIAL DE BENEFÍCIO. CRITÉRIO DE CÁLCULO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.”
+    (AI 857.754-AgR/RS, Rel. Min. LUIZ FUX)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Previdenciário. Critérios de cálculo da renda mensal inicial e da atualização monetária. 3. Matéria debatida no Tribunal de origem restringe-se ao âmbito infraconstitucional. Ofensa reflexa à Constituição Federal. 4. Necessidade do reexame do conjunto fático- -probatório. Impossibilidade. Súmula 279. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.”
+    (ARE 942.972-AgR/PR, Rel. Min. GILMAR MENDES)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
