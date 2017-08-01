@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba.
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, a parte recorrente sustenta que o acórdão recorrido viola os seguintes dispositivos constitucionais: arts. 5º, caput, 37, I e II.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do recurso extraordinário.
+    Ademais, o Juízo de origem fundamentou-se no contexto probatório dos autos, concluindo pelo descumprimento do item 6.5 do Edital 003/2007:
+    “Não consta nos autos documentos que comprovam que os apelados foram convocados por publicação no endereço eletrônico UEPB/COMVEST (www.uepbcomvest.inf.br) e da Polícia Militar (www.pm.br.gov.br/newsite), previstos no item 6.5 do Edital 003/2007”(fls. 218-219)
+    Incide, portanto, o óbice da Súmula 279 desta Corte: Para simples reexame de prova não cabe recurso extraordinário.
+    Por fim, para se chegar em conclusão contrária ao acórdão recorrido seria preciso interpretar as cláusulas do Edital, o que viola, por analogia, a súmula 454 deste Supremo Tribunal Federal: Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário. Neste sentido: RE 805681 RG, Relator: Min. RICARDO LEWANDOWSKI; ARE 1016215 AgR, Relatora: Min. ROSA WEBER; RE 946477 AgR, Relator: Min. GILMAR MENDES.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
