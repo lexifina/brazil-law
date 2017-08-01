@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão ementado nos seguintes termos:
+    “RECURSO INOMINADO – SERVIDORA ESTADUAL APOSENTADA – FÉRIAS PROPORCIONAIS – PERÍODO AQUISITIVO – REFERÊNCIA ANO CIVIL INDEPENDENTEMENTE DA DATA EM QUE O SERVIDOR INGRESSOU NO SERVIÇO – RECURSO CONHECIDO E IMPROVIDO – SENTENÇA MANTIDA "Conforme se depreende do art. 59 da Lei Estadual n. 6.745/1985, o servidor tem direito ao usufruto de suas primeiras férias apenas depois de completar o primeiro período aquisitivo (365 dias). Daí em diante, o gozo das férias passa a ser permitido no início do ano civil seguinte, mesmo que o respectivo período aquisitivo ainda esteja incompleto. Com lastro em tal regra, deve se dar a apuração do período de férias não usufruído pelo servidor" (AC n. 2012.082167-6, da Capital, rel. Des. Jorge Luiz de Borba, Primeira Câmara de Direito Público, j. 18-12-2012) (Apelação Cível n. 2014.017315-5, da Capital, Relator: Des. Subst. Paulo Henrique Moritz Martins da Silva, da Capital, Primeira Câmara de Direito Público, julgado em 25/08/2015)”. (eDOC 9, p.1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 7º, XVII; 37, caput; e 39, §3º, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão recorrido, ao considerar como período aquisitivo para cômputo de férias, após o primeiro ano de trabalho, o ano civil, em vez da data de ingresso do servidor no serviço público, violou o princípio da legalidade, bem como desvirtuou o caráter anual do período aquisitivo de férias previsto na Constituição Federal.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie, Lei Estadual 6.745/85, e o conjunto probatório constante dos autos, consignou que seria devido o recebimento de férias proporcionais. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Tocante ao ano civil, acerca da matéria, o artigo 59, § 1º, da Lei Estadual nº 6.745/1985 menciona:
+    ‘Somente depois do primeiro ano de exercício, adquirirá o funcionário direito a férias, as quais corresponderão ao ano em que completar o período.’
+     Sendo assim, compreende-se com a simples leitura da legislação supra que o servidor fará jus as férias somente quando completar o primeiro ano de labor. Após este, poderá gozar férias no início do ano civil, mesmo não completando o período aquisitivo (…)
+    Logo, sendo o ano civil correspondente à 1º de janeiro a 31 de dezembro, e a autora ter se aposentado em 22 de junho de 2010, esta faz jus à indenização das férias proporcionais, independentemente da data do ingresso do recorrido no serviço público, razão pela qual mantenho a sentença recorrida”. (eDOC 9, p. 3-5)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. FÉRIAS. PERÍODO AQUISITIVO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. AGRAVO INTERNO DESPROVIDO. “ (RE-AgR 1.038.535, Rel. Min. Luiz Fux, Primeira Turma, DJe 23.06.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. CAUSA DE PEDIR AUTÔNOMA. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE-AgR 844.800, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 16.3.2015)
+    Por fim, observo ainda que esta Corte entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
