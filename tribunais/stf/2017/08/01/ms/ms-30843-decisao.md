@@ -1,0 +1,11 @@
+DESPACHO:
+    1. Trata-se de mandado de segurança impetrado em face do Superintendente da Fundação Nacional de Saúde (Funasa) no Estado de Pernambuco. Narra a impetrante que a Funasa comunicou-lhe que a pensão por morte por ela percebida, instituída por seu avô (ex-servidor do órgão), havia sido cancelada por ordem do Tribunal de Contas da União (TCU). Alega, em síntese, decadência do direito de anular o benefício e violação ao direito à ampla defesa e ao contraditório.
+    2. Impetrado o writ na primeira instância da Seção Judiciária do Estado de Pernambuco, o juízo, atento ao caráter impositivo da determinação enviada à Funasa (acórdão TCU nº 1.572/2011), determinou a emenda da inicial para nela fazer constar o TCU como autoridade impetrada e, em seguida, determinou a remessa do feito para a Seção Judiciária do Distrito Federal. Após, os autos vieram a esta Corte, com base no art. 102, I, d, da Constituição.
+    3. O Min. Joaquim Barbosa, relator originário do feito, deferiu a medida liminar, para suspender o acórdão TCU nº 1.572/2011, no que se refere ao ponto em que considerou ilegal a concessão da pensão por morte à impetrante (doc. 4). Contra essa decisão, a União interpôs agravo regimental (doc. 1).
+    4. O TCU sustentou a legalidade do ato (doc. 12) e, posteriormente, informou o cumprimento da medida liminar (doc. 26). A Procuradoria-Geral da República manifestou-se pela concessão parcial da segurança, “para determinar ao TCU que assegure à impetrante o direito ao contraditório e à ampla defesa no processo de registro de sua pensão” (doc. 21).
+    5.  Da leitura dos autos, observo que a pensão foi concedida, pela Funasa, com fundamento no art. 217, II, d, primeira parte, da Lei nº 8.112/90, que previa a concessão de pensão temporária à pessoa designada que vivia na dependência econômica do servidor, até 21 (vinte e um) anos. Agora, a impetrante já está com 24 (vinte quatro) anos, isto é, ultrapassou a idade limite para a percepção da referida pensão (cf. doc. 2, p. 12 e 14).
+    6. Diante do exposto, intimem-se as partes e a PGR, no prazo sucessivo de 05 (cinco) dias cada, a começar pela impetrante, para que informem sobre possível perda do objeto do writ, justificando sua manifestação.
+     Publique-se. Intimem-se.
+          Brasília, 1º de agosto de 2017.
+Ministro LUÍS ROBERTO BARROSO
+Relator
