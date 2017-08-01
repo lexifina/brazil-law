@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Lucas César dos Santos, apontando como a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 372.519/SC, Relator o Ministro Félix Fischer.
+    A impetrante sustenta, em suma, que o processo administrativo disciplinar (PAD), que reconheceu a prática de falta grave pelo paciente seria nulo, “haja vista que não foi assegurada a assistência jurídica por defensor público ou advogado constituído ao paciente” (grifos da autora).
+    Segundo a defesa,
+    “no caso em tela, supostamente se constatou a prática de uma falta grave pelo paciente, instaurou-se um procedimento de apuração, o qual foi acompanhado por um gerente de revisões criminais e não por advogado constituído ou defensor público. Portanto, muito embora tenha sido instaurado o procedimento administrativo disciplinar, ao paciente não foi oportunizado constituir advogado tampouco ser assistido pela Defensoria Pública do Estado, relativizando-se o art. 59 da LEP que manda que neste procedimento haja ampla defesa técnica”.
+    Destaca, outrossim, que,
+    “a partir da leitura do art. 16 da LEP, constata-se que, em não havendo advogado constituído, quem deve fazer a defesa do reeducando no Processo Administrativo Disciplinar é a Defensoria Pública, a qual possui a função constitucional de realizar a defesa, em tais casos.
+    Mesmo que se cuide de profissional inscrito na OAB/SC, o gerente de revisões criminais não se trata de advogado desvinculado da instituição que promovera a sanção questionada – e, assim, formalmente apto a assegurar a ampla defesa do ora recorrente –, senão de servidor comissionado” (grifos da autora).
+    Requer-se, liminarmente, a concessão da ordem para seja declarada “a nulidade do PAD realizado sem defesa técnica”.
+    Examinados os autos, decido.
+    Transcrevo a ementa do aresto questionado:
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR. PAD. DEFESA TÉCNICA FEITA POR FUNCIONÁRIO DO ESTABELECIMENTO PENAL. POSSIBILIDADE. SUPOSTA NULIDADE. AUSÊNCIA DE COMPROVAÇÃO DE PREJUÍZO. AGRAVO DESPROVIDO.
+    I - A jurisprudência desta Quinta Turma tem-se firmado no sentido de que o fato de a defesa técnica ter sido exercida por servidores integrantes dos quadros do Departamento de Administração Penitenciária não acarreta, por si só, a nulidade do processo administrativo disciplinar, sendo imprescindível a demonstração de efetivo prejuízo ao apenado, o que não ocorreu na espécie.
+    II - ‘A mera alegação de falta de independência funcional do advogado que patrocinou a defesa do paciente (funcionário do estabelecimento prisional), sem comprovação de efetivo prejuízo, afasta a apontada nulidade do procedimento administrativo disciplinar que apurou a prática de falta grave’ (HC n. 369.567/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 8/11/2016).
+    Agravo regimental desprovido” (grifos do autor).
+    O julgado proferido pela Quinta Turma não evidencia ilegalidade flagrante, abuso de poder ou teratologia. Pelo contrário, encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Consoante destacou o Ministro Félix Fischer em sua escorreita decisão,
+    “ao paciente, no curso de procedimento administrativo disciplinar para apuração de falta grave, foi assegurada defesa técnica, exercida por funcionária comissionada do estabelecimento prisional, devidamente inscrita nos quadros da Ordem dos Advogados do Brasil, conforme defesa apresentada às fls. 62-64.
+    Desta forma, não há que se falar em nulidade do PAD por ausência de defesa técnica.
+    Além disso, a jurisprudência desta Quinta Turma tem-se firmado no sentido de que o fato de a defesa técnica ter sido exercida por servidores integrantes dos quadros do Departamento de Administração Penitenciária não acarreta, por si só, a nulidade do processo administrativo disciplinar, sendo imprescindível a demonstração de efetivo prejuízo ao apenado (...)” (grifos nossos).
+    Esse entendimento não fere a jurisprudência da Corte, consolidada no sentido de que, uma vez “reconhecida pela Corte de origem a ocorrência da defesa técnica no processo de apuração de falta grave, a decisão que a homologa deve ser mantida” (HC nº 138.123/SC, Relator o Ministro Luiz Fux, DJe de 28/10/16).
+    Perfilhando esse entendimento:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE 5 DO SUPREMO TRIBUNAL FEDERAL. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR PARA APURAÇÃO DE FALTA GRAVE. DEFESA TÉCNICA EXERCIDA. ACÓRDÃO QUE AFIRMA A EXISTÊNCIA. NÃO APLICABILIDADE DO ENUNCIADO SUMULADO. PRECEDENTES. AUSÊNCIA DAS HIPÓTESES DE CABIMENTO DA RECLAMAÇÃO. 1. Ao exame dos autos, consigno que a remissão feita ao enunciado da Súmula Vinculante 5 pela Corte a quo não é o fundamento principal do acórdão reclamado. Em verdade, reconhecida a existência de defesa técnica no procedimento de apuração de falta disciplinar do apenado, motivo per se suficiente para manutenção da decisão atacada. 2. Em qualquer hipótese, a jurisprudência desta Suprema Corte já assentou a inaplicabilidade do verbete da Súmula Vinculante 5 aos processos disciplinares administrativos para apuração de cometimento da falta grave. Precedentes. 3. Agravo regimental conhecido e não provido” (Rcl nº 8.830/SP-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 11/3/16);
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. EXECUÇÃO PENAL. INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA COLEGIALIDADE. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 5 DO SUPREMO TRIBUNAL FEDERAL. DEFESA TÉCNICA EXERCIDA EM BENEFÍCIO DO AGRAVANTE NO PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR PARA APURAÇÃO DA FALTA GRAVE E NA FASE JUDICIAL. IMPROCEDÊNCIA. DECISÃO AGRAVADA MANTIDA. AGRAVO AO QUAL SE NEGA PROVIMENTO.” (Rcl nº 18.824/SC-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/11/14).
+    Conclui-se, portanto, que a tese de nulidade do PAD, em razão de ausência de defesa técnica, não vinga.
+    Com essas considerações, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
