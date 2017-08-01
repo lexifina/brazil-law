@@ -1,0 +1,19 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO - Embargos à Execução Fiscal — IPTU e Taxas de Conservação e de Limpeza - Exercício 1994 - Imunidade tributária prevista no artigo 150, inciso VI, alínea "c" da Constituição Federal — Requisitos do artigo 14 do Código Tributário Nacional — Ocorrência - Ausência de prévio requerimento administrativo — Desnecessidade — Falta de prova de que o património da parte executada não se destina às finalidades essenciais desta. Taxas de serviço de conservação e de limpeza - Descabimento da respectiva cobrança. Serviços que beneficiam toda a comunidade, não um contribuinte individualmente considerado - Inteligência dos artigos da Constituição Federal e 77 e 79 do Código Tributário Nacional — Sentença mantida — Recurso improvido. REEXAME NECESSÁRIO — Não conhecido - Valor da execução inferior ao limite do §2 do artigo 475 do CPC”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 150, VI, c, da Carta. Sustenta que neste caso concreto não há qualquer vincularão do bem aos objetivos essenciais da entidade, porque conforme se apreende da CDA que instrui a execução, trata-se de terreno não edificado.
+    A pretensão recursal não merece prosperar. O Tribunal de origem, com apoio no acervo probatório dos autos e com fundamento na legislação infraconstitucional, decidiu que a parte recorrida goza de imunidade tributária recíproca, consoante o seguinte trecho do voto condutor do acórdão recorrido:
+    “Da análise dos documentos anexados aos autos, mormente, o estatuto social (fls. 22/42), declarações de utilidade pública (fls.57/60), certificado de entidade de fins filantrópicos (fl. 61), dessume-se, que a embargante faz jus ao reconhecimento da imunidade tributária, nos termos do artigo 150, inciso VI, alínea "c" da Constituição Federal, uma vez que atendido os requisitos do artigo 14 do Código Tributário Nacional.
+    (...)
+    Dessa forma, desnecessário qualquer requerimento administrativo prévio para a configuração das condições da ação, bastando ao órgão jurisdicional verificar o atendimento dos requisitos constitucionais para a configuração da imunidade tributária.
+    (...)
+    Ademais, nos termos do parágrafo 4 0, do artigo 150 da Constituição Federal, para o caso de haver indícios de que determinado bem não estaria sendo destinado às finalidades essenciais da entidade, caberia ao Fisco, no uso de seu poder de polícia, providenciar tal constatação e tomar as providências cabíveis, o que não houve no caso concreto.
+    (...)
+    Assim, o direito a imunidade tributária é de ser reconhecido, sendo, portanto, indevida a cobrança relativa ao IPTU do exercício de 1994. Igualmente, indevida a cobrança dos valores relativos às taxas de conservação e de limpeza, porquanto apesar de configurar uma atuação estatal, referido tributo não atende aos requisitos de especificidade e divisibilidade previstos nos artigos 77, caput e 79, incisos 11 e I11, do Código Tributário, haja vista que tais serviços não comportam divisão entre os contribuintes, individualmente considerados.”
+    Para dissentir das conclusões do acórdão recorrido, seria imprescindível o reexame do acervo fático-probatório e da legislação infraconstitucional, providência vedada em sede de recurso extraordinário. A hipótese atrai a incidência da Súmula 279/STF (RE 378. 136-AgR, Rel. ª Min. Cármen Lúcia).
+    Ademais, a presunção de que os imóveis estão afetados às finalidades essenciais milita em favor da entidade. Cabe ao Fisco o ônus de elidir essa presunção, mediante a constituição de prova em contrário.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 01 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
