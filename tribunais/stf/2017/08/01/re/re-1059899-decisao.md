@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário criminal interposto contra acórdão que possui a seguinte ementa:
+    “APELAÇÃO CRIMINAL. ARQUIVAMENTO DO TERMO CIRCUNSTANCIADO PELO MAGISTRADO. POSSIBILIDADE. ENTREGA DA DIREÇÃO À PESSOA NÃO HABILITADA. ART. 310, PRIMEIRA PARTE, DO CTB. ATIPICIDADE DA CONDUTA. INCIDÊNCIA DOS PRINCÍPIOS DA LESIVIDADE E DA FRAGMENTARIDADE. MUDANÇA DE ORIENTAÇÃO. RECURSO PROVIDO.
+    1. Em hipóteses excepcionais, quando houver comprovação, de plano, da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito, é perfeitamente possível, por equivaler a concessão de habeas corpus de ofício, a determinação de arquivamento do termo circunstanciado por parte do Magistrado. Tal não importa em violação ao comando do art. 129 I da Constituição Federal e, tampouco, em usurpação da atribuição do Ministério Público para a propositura da ação penal.
+    2. O comportamento que lesa o bem jurídico tutelado na hipótese do art. 309 do CTB, é o mesmo que viola o bem jurídico tutelado pelo artigo 310 do mesmo diploma legal, sendo exigível, pela similitude das condutas, nas duas hipóteses, a demonstração do perigo de dano concreto, sem o qual não se tem por configurada lesão ao bem jurídico tutelado, sempre ressalvando que tal entendimento se aplica exclusivamente à primeira parte do art. 310 do CTB.
+    3. A infração tipificada no art. 310, primeira parte, do CTB, quando ausente o perigo de dano concreto, não reclama a intervenção do direito penal, satisfazendo-se com a adoção das penalidades e medidas estabelecidas pelo artigo 163 do CTB, mais do que suficientes, quando não atingido o bem jurídico tutelado, para regulamentar as relações sociais.
+    4. Hipótese em que a conduta, pelos elementos colhidos na fase inquisitorial, se revela manifestamente atípica.
+    RECURSO IMPROVIDO” (pág. 41 do doc. eletrônico 4)
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação aos arts. 2° e 5°, XXXIX, da mesma Carta.
+    É o breve relatório. Decido.
+    Destaco, preliminarmente, que os autos foram distribuídos e vieram-me conclusos em 10/7/2017.
+    Registro constar do termo circunstanciado que o ato praticado pelo ora recorrido foi capitulado como entrega de direção de veículo automotor a pessoa não habilitada – art. 310 do Código de Trânsito Brasileiro – CTB (pág. 1 do doc. eletrônico 1). A pena abstrata estabelecida para o delito é de detenção de 6 meses a 1 ano, ou multa.
+    Desse modo, levando-se em conta a pena em abstrato, bem como o disposto no art. 109, V, do CP, se o máximo da pena é igual a 1 ano ou, sendo superior, não excede a 2, a prescrição opera-se em 4 anos. Ocorre que o acusado possuía vinte anos à época do fato, conforme consta do referido termo circunstanciado, reduzindo-se esse prazo pela metade em virtude do disposto no art. 115 do referido diploma. Assim, o prazo prescricional em questão é de 2 anos.
+    No caso sob exame, o fato apontado como delituoso ocorreu em 23/12/2014, não existindo nos autos qualquer causa de interrupção do prazo prescricional, porquanto o juízo de piso determinou o arquivamento do procedimento investigativo (em face da atipicidade da conduta), e o recurso interposto pelo Ministério Público do Estado do Rio Grande do Sul foi desprovido. Dessa forma, a prescrição da pretensão punitiva do Estado ocorreu em 22/12/2016.
+    Isso posto, declaro a extinção da punibilidade em decorrência da prescrição da pretensão punitiva (art. 107, IV, do CP), e, nos termos do art. 21, IX, do RISTF, julgo prejudicado este recurso extraordinário.
+    Publique-se.
+    Brasília, 1° de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
