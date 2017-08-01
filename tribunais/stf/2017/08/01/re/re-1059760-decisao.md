@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 5ª Região confirmou o entendimento do Juízo quanto à condenação de réu pela prática do crime de tráfico internacional de drogas, privilegiado, previsto no artigo 33, § 4º combinado com o artigo 40, inciso I, ambos da Lei nº 11.343/06. No extraordinário, o recorrente aponta a violação dos artigos 5º, incisos XLVI e LXXIV, 93, inciso IX, e 134 da Constituição Federal. Argui a nulidade da sessão de julgamento do recurso de apelação, alegando a falta de intimação pessoal do defensor público para realizar a sustentação oral. Sustenta a ausência de fundamentação no tocante à dosimetria da pena, dizendo contrariados os princípios da individualização da pena e da vedação da dupla punição pelo mesmo fato.
+    2. De início, simultaneamente com o extraordinário, versando idêntica matéria, foi interposto recurso especial. O Superior Tribunal de Justiça dele conheceu e acolheu o pedido formulado relativo à dosimetria da pena. A decisão prolatada substituiu, consoante o disposto no artigo 512 do Código de Processo Civil, a formalizada pelo Colegiado de origem, a qual, assim não mais subsiste, no particular.
+    Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    Quanto à alegação de afronta dos artigos 5º, inciso LXXXIV, e 134 da Constituição Federal, à toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Colho do acórdão recorrido o seguinte trecho:
+    Não há a nulidade apontada pela embargante (suposto embaraço ao direito de acesso aos autos), mormente porque o caderno processual esteve à sua disposição desde sempre, no Gabinete, como a fase processual impunha que tivesse acontecido ( em respeito ao idêntico direito do outro litigante), não se cogitando, sequer remotamente, de ter qualquer cerceio a seu direito de defesa.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Pelas razões acima, nego seguimento ao extraordinário. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 1º de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
