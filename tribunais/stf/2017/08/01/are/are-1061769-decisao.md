@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Colegiado de origem, reformando parcialmente a sentença, concedeu a segurança para o restabelecimento da pensão por morte, considerados os requisitos legais. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violado o artigo 24, inciso XII e § 4º, da Constituição Federal. Discorre sobre a inexistência do direito ao benefício pleiteado. Alega modificações na legislação de regência. Sustenta a aplicação da Lei nº 9.717/98.
+    2. De início, quanto à evocação do enquadramento do extraordinário na alínea d do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do agravante, uma vez que não se declarou a validade de lei local contestada em face de lei federal.
+    A par desse aspecto, excluo a possibilidade de considerar infringido o princípio da reserva de Plenário. O Colegiado de origem não declarou a inconstitucionalidade de ato normativo abstrato e autônomo, pelo que inviável concluir-se pela afronta ao artigo 97 da Carta Federal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    E esta Egrégia Corte, em casos análogos:
+    “ANULAÇÃO DE ATO ADMINISTRATIVO - Possibilidade da Administração rever seus próprios atos, conforme sua conveniência e oportunidade - Poder que deve, contudo, ser exercido dentro de certos limites, em respeito ao princípio da segurança jurídica - Prescrição administrativa que deve encontrar limites no Decreto 20.910/32, com prazo de 05 anos para a manifestação da administração - Prescrição reconhecida - Apelação provida.” (AC nº. 0167183-89.2006.8.26.0000, 3ª. Câmara de Direito Público, rel. Des. LEONEL COSTA, j. de 15.03.2011).
+    Não bastasse a ocorrência da prescrição, passa-se à análise do requerimento de fundo da apelante que é de procedência.
+    Cumpre lembrar que a autora é neta de servidor público estadual falecido em 28.07.2005, e, sob a égide da Lei nº 180/78 (nos termos do artigo 153) a SPPREV concedeu o benefício previdenciário naquela ocasião.
+    Assim, deve-se levar em consideração de que a regra da Lei Estadual nº 180/78 a ser aplicada é a da redação dada a tempo do óbito do segurado, como já pacificado pelo Superior Tribunal de Justiça, no enunciado da Súmula nº 340: “A Lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado”.
+    E, no presente caso, aplica-se a redação original dada ao artigo 153 da Lei Estadual nº 180/78, que dispõe:
+    “Artigo 153 Poderá o contribuinte sem filhos com direito à pensão, instituir beneficiários parentes até 2°. (segundo) grau, se forem incapazes ou inválidos, ressalvado, na razão da metade, o direito que competir ao seu cônjuge.”
+    Ora, consolidado o benefício previdenciário nos termos da Lei Estadual nº 180/78, ou seja, anterior à vigência da Lei Complementar Estadual nº 1.012 de 06 de julho de 2007, faz jus a impetrante à concessão do restabelecimento da pensão.
+    De outra banda, havendo previsão legal especial sobre o tema da pensão previdenciária dos servidores públicos, não há que se falar na existência de um único regramento como quer a SPPREV, com a aplicação exclusiva da Lei nº 8.213/91, pois esta não tem o condão de revogar expressa ou tacitamente a Lei Estadual nº 180/78, nem mesmo com a vigência da Lei nº 9.717/98.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação da Lei Complementar estadual nº 180/78. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 1º de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
