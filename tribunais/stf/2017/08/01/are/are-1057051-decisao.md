@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “RESPONSABILIDADE CIVIL. DANO MORAL. DANO MATERIAL. PRÓTESE MAMÁRIA DA MARCA PIP. ALTERAÇÃO DA COMPOSIÇÃO PELO FABRICANTE.
+    A ANVISA não responde por eventuais danos causados pelo uso uso da prótese mamária decorrentes da conduta exclusiva do fabricante que, unilateralmente, alterou a composição do produto, a revelia da autarquia ré.” (pág. 222 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação aos arts. 37, § 6, e 196, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque a recorrente, na petição do recurso extraordinário, não demonstrou, em preliminar formal e fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso, consoante determinam o art. 543-A, § 2°, do CPC/1973, introduzido pela Lei 11.418/2006, e o art. 327, § 1º, do RISTF. Nesse sentido, destaco o entendimento do Plenário desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PRELIMINAR FORMAL DE EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL INVOCADA NO RECURSO EXTRAORDINÁRIO. INTIMAÇÃO DO ACÓRDÃO RECORRIDO POSTERIOR A 03.05.2007. De acordo com a orientação firmada neste Tribunal, é dever da parte recorrente apresentar preliminar formal e fundamentada da repercussão geral da questão constitucional em debate no recurso extraordinário. Cabe à parte recorrente apontar de forma expressa e clara as circunstâncias que poderiam configurar a relevância – do ponto de vista econômico, político, social ou jurídico – das questões constitucionais invocadas no recurso extraordinário (CPC, art. 543-A, §§ 1º e 2º). Agravo regimental a que se nega provimento” (ARE 682.069-AgR/MG, Rel. Min. Joaquim Barbosa – grifos meus).
+    Ademais, destaca-se do voto condutor do acórdão recorrido (pág. 221 do documento eletrônico 3):
+    “O controle da ANVISA ocorre pelo registro do produto, nos termos dos arts. 12 a 15 da Lei nº 6.360/76, momento em que é verificado se o produto atende as exigências para o fim a que se destina. Após a realização do controle primário da qualidade do produto é concedido o registro, podendo ser comercializado.
+    Ocorre que, no processo em tela, após a concessão do registro da prótese mamária, que cumpria os requisitos legais para sua importação e comercialização, o próprio fabricante alterou, de forma totalmente irregular, sua fórmula, adicionando componente não previsto originalmente, qual seja, o silicone de uso industrial.
+    Sendo assim, não havendo o nexo direto e imediato entre o suposto evento danoso e a pretensa omissão da ANVISA, não há do que se cogitar na responsabilidade civil da Agência por suposta conduta omissiva no exercício do seu poder de polícia.
+    Portanto, entendo que a ANVISA não responde por eventuais danos causados pelo uso da prótese mamária, decorrentes da conduta exclusiva do fabricante, que unilateralmente alterou a composição do produto, a revelia da autarquia ré.”
+    Desse modo, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 desta Corte, e da legislação infraconstitucional aplicável ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 1° de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
