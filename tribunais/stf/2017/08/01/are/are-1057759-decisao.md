@@ -1,0 +1,28 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela Fundação Oswaldo Cruz contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 2ª Região, está assim ementado:
+    “CIVIL. COMODATO VERBAL. MORA. DANOS MATERIAIS.
+    1. Não há vulnerabilidade técnica da FIOCRUZ no caso, pois as negociações foram conduzidas por seu gerente técnico responsável pela rede de dados.
+    2. A proposta para fornecimento dos aparelhos de videoconferência não abarcava a entrega de nenhum computador para suporte, que foi cedido pela autora a título de comodato enquanto a FIOCRUZ providenciasse a compra de outra máquina, como expressamente reconhecido pela ré.
+    3. Da ‘obrigação de fazer’ de instalação, ativação e treinamento não decorre a ‘obrigação de dar’ consubstanciada no fornecimento de qualquer material além daqueles previstos na proposta.
+    4. ‘In casu’, passado prazo razoável (cerca de um ano) sem a compra de novo computador, a mora na restituição do bem se dá a partir da notificação do credor (arts. 397, parágrafo único, e 581 do CC) e negativa de restituição da ré, quando a posse exercida passou a ser de má-fé, nos termos do art. 1.202 do CC.
+    5. Tendo em vista os arts. 235 e 1.218 do CC, na medida em que o computador apresentou defeito enquanto em mora a ré, a concordância posterior com a devolução não afasta a obrigação de indenizar.
+    6. No tocante ao valor fixado a título de danos materiais, os orçamentos apresentados não desqualificam o montante apontado na nota fiscal para o computador, tendo em vista (i) que não dizem respeito a máquinas com idênticas características; e (ii) que tais valores foram cotados muito após a realização do comodato e notificação para devolução do bem.
+    7. O recurso adesivo da autora não deve ser conhecido, pois o pedido para fixação do aluguel pelo período da mora é pretensão que não se extrai da petição inicial, sendo inadmissível a inovação do pedido em sede de apelação (art. 264 do CPC).
+    8. Por fim, a data para cálculo do valor do bem discutido deve se dar a partir da notificação para entrega e negativa por parte da FIOCRUZ, qual seja, 29.07.2005, e não do dia em que o bem foi entregue em comodato (14.07.2004), por força dos arts. 240 e 1.218 do CC.
+    9. Recurso da LABORE TECNOLOGIA LTDA. não conhecido, recurso da FIOCRUZ desprovido e remessa necessária parcialmente provida.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O exame dos presentes autos evidencia que o recurso extraordinário não se revela viável.
+    É que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento, no ponto, do recurso extraordinário interposto pela parte ora recorrente.
+    Cumpre salientar, por oportuno, com relação à alegada ofensa à norma inscrita no art. 5º, inciso XXXV, da Constituição, que foi assegurado, no caso ora em exame, à parte agravante, o direito de acesso à jurisdição estatal, não se podendo inferir, do insucesso processual que experimentou, o reconhecimento de que lhe teria sido denegada a concernente prestação jurisdicional.
+    Com efeito, não se negou, à parte recorrente, o direito à prestação jurisdicional do Estado. Este, bem ou mal, apreciou, por intermédio de órgãos judiciários competentes, o litígio que lhe foi submetido.
+    É preciso ter presente que a prestação jurisdicional, ainda que errônea, incompleta ou insatisfatória, não deixa de configurar-se como resposta efetiva do Estado-Juiz à invocação, pela parte interessada, da tutela jurisdicional do Poder Público, circunstância que afasta a alegada ofensa a quanto prescreve o art. 5º, inciso XXXV, da Carta Política, consoante tem enfatizado o magistério jurisprudencial do Supremo Tribunal Federal (RTJ 132/455, Rel. Min. CELSO DE MELLO – RTJ 141/980, Rel. Min. CARLOS VELLOSO – AI 120.933-AgR/RS, Rel. Min. NÉRI DA SILVEIRA – AI l25.492-AgR/SP, Rel. Min. CARLOS MADEIRA).
+    Cabe observar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    Com efeito, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
