@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    APELAÇÃO CRIMINAL – PRELIMINARES DE ILEGITIMIDADE DO MINISTÉRIO PÚBLICO E CERCEAMENTO DO DIREITO DE DEFESA REJEITADAS – MÉRITO – CRIME PREVISTO NO ART. 1º, INC. V, DA LEI Nº 8.137/90 – COMPROVAÇÃO DA MATERIALIDADE E DA AUTORIA – MANUTENÇÃO DA CONDENAÇÃO – AUSÊNCIA DE FUNDAMENTAÇÃO PARA AUMENTO DO VALOR DA PRESTAÇÃO PECUNIÁRIA. - Dispõe o art. 577 do Código de Processo Penal que podem recorrer o Ministério Público, o querelante, bem como o réu, seu procurador ou seu defensor. - Devidamente fundamentado o indeferimento de diligência requerida ela parte, não procede a alegação de nulidade por cerceamento de defesa. - Comprovadas a materialidade e a autoria do delito previsto no art. 1º, inc. V, da Lei nº 8.137/90, a condenação é medida que se impõe. - Inexistindo justificativa para a fixação da prestação pecuniária acima do mínimo legal, a manutenção no valor de um salário-mínimo é medida salutar.
+    Nas razões recursais iniciais, com amparo no art. 102, III, “a”, da Constituição Federal, foram alegadas violações aos seguintes dispositivos constitucionais: arts. 5º, LIV e LV; e 93, IX.
+    É o relatório. Decido.
+    Quanto à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta Corte no julgamento do AI 791.292-QO-RG/PE (Relator Min. GILMAR MENDES, Tema 339).
+    Nessa oportunidade, o Supremo Tribunal Federal assentou que o referido inciso IX do art. 93 “exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+    No tocante ao indeferimento pelo juiz do pedido de dilação probatória requerido pelos recorrentes, essa Corte, no julgamento do ARE 639.228-RG (Relator Min. CEZAR PELUSO, Tema 424), rejeitou a repercussão geral da suposta violação aos princípios da ampla defesa e do contraditório, previstos no art. 5º, LV, da Constituição Federal. Veja-se que este entendimento se estende aos processos criminais, conforme o ARE 965.920-AgR (Relator Min. TEORI ZAVASCKI, Segunda Turma, DJe 3/10/2016) e o ARE 978.746-AgR (Relator Min. ROBERTO BARROSO, Primeira Turma, DJe 25/10/2016).
+    Quanto ao mais, o apelo extraordinário não teria mesmo chances de êxito, pois o STF, ao apreciar o ARE 748.371-RG (Rel. Min. GILMAR MENDES, Tema 660), assentou a ausência de repercussão geral da alegada afronta ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Enfim, mesmo que fosse possível superar todos esses graves óbices, o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte: Para simples reexame de prova não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
