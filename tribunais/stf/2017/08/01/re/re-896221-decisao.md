@@ -1,0 +1,24 @@
+Decisão
+    Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região que possui a seguinte ementa (fl. 106):
+    PREVIDENCIÁRIO. AGRAVO (CPC, ART. 557, §1º). JULGAMENTO MONOCRATICO. ART. 557 DO CÓDIGO DE PROCESSO CIVIL. ATIVIDADE RURAL. INÍCIO DE PROVA MATERIAL HÁBIL E PROVA TESTEMUNHAL IDÔNEA. RECONHECIMENTO DO TRABALHO A MAIORES DE DOZE ANOS DE IDADE. JUROS. CORREÇÃO MONETÁRIA. APLICAÇÃO DA LEI Nº 11.960/09.
+    1. O julgamento do apelo nos termos do artigo 557 do Código de Processo Civil atendeu os requisitos legalmente previstos.
+    2. A jurisprudência do E. STJ firmou-se no sentido de que é insuficiente apenas a produção de prova testemunhal para a comprovação de atividade rural, na forma da Súmula 149 - STJ.
+    3. Início de prova material, conforme a própria expressão traduz, não indica completude, mas sim começo de prova, princípio de prova, elemento indicativo que permita o reconhecimento da situação jurídica discutida, desde que associada a outros dados probatórios.
+    4. A Constituição Federal de 1946, art. 157, inciso IX, proibia qualquer trabalho aos menores de 14 (quatorze) anos. Posteriormente, com a Constituição Federal de 1967, proibiu-se o trabalho de menores de 12 anos, nos termos do inciso X do artigo 165, de forma que se deve tomar como parâmetro para a admissão do trabalho rural tal limitação.
+    5. A parte autora apresentou os seguintes documentos para designar sua profissão: certidão de nascimento de seu filho (16.11.1987; fl. 40), título eleitoral (04.07.1982; fl. 41), no qual ele está qualificado como lavrador, bem como certidão do Ministério da Defesa demonstrando que o autor informou exercer a profissão de lavrador, constituindo tais documentos início de prova material do labor rural.
+    6. Demonstrado o labor do autor na condição de rurícola, no período de 15.05.1975 a 30.09.1982 e 02.01.1987 a 31.12.1987, devendo ser procedida a contagem de tempo de serviço cumprido no citado interregno, independentemente do recolhimento das respectivas contribuições previdenciárias, exceto para efeito de carência, nos termos do art. 55, parágrafo 2º, da Lei 8.213/91.
+    7. A partir de julho de 2009 os critérios de juros e correção monetária devem ser aplicados nos termos da Lei nº 11.960/09, que modificou a redação do art. 1º-F da Lei 9.494/97 e estabeleceu que, nas condenações impostas à Fazenda Pública, haverá incidência, de uma única vez, de correção monetária e juros aplicados à caderneta de poupança. Esse critério de cálculo, constante do Manual de Cálculos aprovado pela Resolução 134, de 21/12/2010, do Conselho da Justiça Federal.
+    8. Agravo interposto pela parte autora improvido. Agravo interposto pelo INSS parcialmente provido.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, o recorrente sustenta, em síntese, que o julgado ofendeu preceitos constitucionais.
+    É o relatório. Decido.
+    O recurso merece provimento, senão vejamos.
+    O Tribunal de origem divergiu do entendimento firmado por esta Corte no sentido de que é possível a contagem de tempo de serviço de trabalhador rural menor de 12 anos, tendo em vista que as normas constitucionais devem ser interpretadas em benefício do menor. Nesse sentidoe:
+    Agravo de instrumento. 2. Trabalhador rural ou rurícola menor de quatorze anos. Contagem de tempo de serviço. Art. 11, VII, da Lei nº. 8213. Possibilidade. Precedentes. 3. Alegação de violação aos arts. 5º, XXXVI; e 97, da CF/88. Improcedente. Impossibilidade de declaração de efeitos retroativos para o caso de declaração de nulidade de contratos trabalhistas. Tratamento similar na doutrina do direito comparado: México, Alemanha, França e Itália. Norma de garantia do trabalhador que não se interpreta em seu detrimento. Acórdão do STJ em conformidade com a jurisprudência desta Corte. 4. Precedentes citados: AgRAI 105.794, 2ª T., Rel. Aldir Passarinho, DJ 02.04.86; e RE 104.654, 2ª T., Rel. Francisco Rezek, DJ 25.04.86 5. Agravo de instrumento a que se nega provimento. (AI 529.694, Rel. Min. GILMAR MENDES, Segunda Turma, DJ de 11/03/2005)
+    Corroborando esse entendimento, cito as seguintes decisões monocráticas, transitadas em julgado, RE 906.259, Rel. Min. LUIZ FUX, DJe de 21/09/2015; RE 895.037, Rel. Min. TEORI ZAVASCKI, DJe de 03/09/2015; e RE 889.635, Rel. Min. CÁRMEN LÚCIA, DJe de 19/06/2015, esse último assim ementado:
+    RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APOSENTADORIA. CONTAGEM DE TEMPO DE SERVIÇO DE TRABALHADOR RURAL OU RURÍCOLA MENOR DE QUATORZE ANOS. POSSIBILIDADE. PRECEDENTES. RECURSO PROVIDO
+    Diante do exposto, com base no art. 21, § 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, dou provimento ao recurso extraordinário para restabelecer a sentença.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
