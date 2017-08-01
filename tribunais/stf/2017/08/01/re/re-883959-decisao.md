@@ -1,0 +1,19 @@
+Decisão
+    Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, “b”, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 144):
+    TRIBUTÁRIO. INCLUSÃO DO VALOR DO FRETE NA BASE DE CÁLCULO DO IPI. INCONSTITUCIONALIDADE. REPETIÇÃO/COMPENSAÇÃO DE VALORES PRETÉRITOS. IMPOSTO INDIRETO. PROVA DO NÃO REPASSE DO ENCARGO. ART. 166 DO CTN. EXIGÊNCIA.
+    1. As despesas de frete não estão inseridas na base de cálculo do IPI, consoante já decidido pela Corte Especial deste Tribunal na Argüição de Inconstitucionalidade na AC nº 96.04.28893.8/PR, Rel. Des. Federal Dirceu de Almeida Soares, DJU de 11.08.2004.
+    2. O IPI é um tributo indireto que, por sua natureza, comporta a transferência do respectivo encargo financeiro a terceiro.
+    3. O recolhimento de IPI efetuado a maior, em face da inclusão indevida do valor do frete na base de cálculo, é a típica situação em que o contribuinte busca a restituição/compensação de valores pagos indevidamente ao Fisco, em que imprescinde a comprovação da não tranferência do respectivo encargo ao consumidor final, nos termos do art. 166 DO CTN.
+    4. Apelação e remessa oficial providas em parte.
+     No apelo, a União alega que o acórdão recorrido violou o art. 146, III, “a”, e 150, I, da Carta Magna, porquanto não se vislumbra qualquer inconstitucionalidade no art. 15 da Lei 7.798/1989, que deu nova redação ao art. 14, §§ 1º e 3º, da Lei 4.502/1964, pois “apenas materializou um conceito previsto originariamente pelo art. 47, inciso II, letra “a” do Código Tributário Nacional, explicitando o alcance de um conceito de base de cálculo do IPI previamente moldado no CTN” (fl. 152).
+    É o relatório. Decido.
+    A irresignação não merece prosperar, uma vez que o acórdão recorrido está em consonância com a jurisprudência desta Corte. Nesse sentido:
+    EMENTA Agravo regimental no recurso extraordinário. Tributário. IPI. Base de cálculo. Valor da operação. Inclusão do valor do frete. Impossibilidade por lei ordinária. Artigo 146, III, a, da CF. 1. No julgamento do RE nº 567.935-RG, de relatoria do Ministro Marco Aurélio, a Corte firmou a orientação de que, sendo o valor da operação de que decorrer a saída da mercadoria a base de cálculo do imposto sobre produtos industrializados (IPI), tal como definida na alínea a do inciso II do art. 47 do Código Tributário Nacional, padece de inconstitucionalidade formal lei ordinária que, a pretexto de disciplinar a base de cálculo do tributo, extrapola as balizas quantitativas constantes do Código Tributário Nacional, por afronta ao art. 146, III, a, da CF. 2. Agravo regimental não provido. (RE 567.276 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, DJe de 9/11/2015)
+    IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – FRETE – BASE DE CÁLCULO – INCLUSÃO – LEI ORDINÁRIA – INCONSTITUCIONALIDADE FORMAL. Viola o artigo 146, inciso III, alínea “a”, da Carta Federal norma ordinária segundo a qual hão de ser incluídos, na base de cálculo do Imposto sobre Produtos Industrializados – IPI, valores em descompasso com o disposto na alínea “a” do inciso II do artigo 47 do Código Tributário Nacional. Precedente – Recurso Extraordinário nº 567.935/SC, de minha relatoria, Pleno, apreciado sob o ângulo da repercussão geral.(RE 881.908 AgR, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, DJe de 9/10/2015)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, porque o julgado recorrido foi publicado antes da entrada em vigor da nova codificação processual.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
