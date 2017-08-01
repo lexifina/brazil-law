@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região.
+    No apelo extremo, promovido com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta, em síntese, que o julgado ofendeu dispositivos constitucionais.
+    É o relatório. Decido.
+    O Tribunal de origem deu provimento ao recurso inominado da recorrente, assentando que incide contribuição para o salário-educação das sociedades sem fins lucrativos. (fl. 257, verso).
+    Dessa forma, o acordão recorrido está em consonância com a jurisprudência dessa Corte. Nesse sentido, confiram-se os seguintes precedentes:
+    TRIBUTO. Contribuição. Salário-educação. Sujeito passivo. Sociedade sem fins lucrativos. Caracterização. Conceito de empresa. Alegação de que apenas as pessoas jurídicas dedicadas a atividades empresariais estariam sujeitas ao tributo. Descabimento. Art. 212, § 5º, da CF/88. Art. 15 da Lei nº 9.424/96. Agravo regimental improvido. Precedente. O conceito de "empresa", para fins de sujeição passiva à contribuição para o salário-educação, corresponde à firma individual ou à pessoa jurídica que, com ou sem fins lucrativos, pague remuneração a segurado-empregado. (RE 405.444-AgR, Rel. Min. CEZAR PELUSO, Segunda Turma, DJe de 28/3/2008)
+    CONSTITUCIONAL. AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE DO ART. 15, LEI 9.424/96. SALÁRIO-EDUCAÇÃO. CONTRIBUIÇÕES PARA O FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO. DECISÕES JUDICIAIS CONTROVERTIDAS. ALEGAÇÕES DE INCONSTITUCIONALIDADE FORMAL E MATERIAL. FORMAL: LEI COMPLEMENTAR. DESNECESSIDADE. NATUREZA DA CONTRIBUIÇÃO SOCIAL. § 5º, DO ART. 212 DA CF QUE REMETE SÓ À LEI. PROCESSO LEGISLATIVO. EMENDA DE REDAÇÃO PELO SENADO. EMENDA QUE NÃO ALTEROU A PROPOSIÇÃO JURÍDICA. FOLHA DE SALÁRIOS - REMUNERAÇÃO. CONCEITOS. PRECEDENTES. QUESTÃO INTERNA CORPORIS DO PODER LEGISLATIVO. CABIMENTO DA ANÁLISE PELO TRIBUNAL EM FACE DA NATUREZA CONSTITUCIONAL. INCONSTITUCIONALIDADE MATERIAL: BASE DE CÁLCULO. VEDAÇÃO DO ART. 154, I DA CF QUE NÃO ATINGE ESTA CONTRIBUIÇÃO, SOMENTE IMPOSTOS. NÃO SE TRATA DE OUTRA FONTE PARA A SEGURIDADE SOCIAL. IMPRECISÃO QUANTO A HIPÓTESE DE INCIDÊNCIA. A CF QUANTO AO SALÁRIO-EDUCAÇÃO DEFINE A FINALIDADE: FINANCIAMENTO DO ENSINO FUNDAMENTAL E O SUJEITO PASSIVO DA CONTRIBUIIÇÃO: AS EMPRESAS. NÃO RESTA DÚVIDA. CONSTITUCIONALIDADE DA LEI AMPLAMENTE DEMONSTRADA. AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE QUE SE JULGA PROCEDENTE, COM EFEITOS EX-TUNC. (ADC 3, Rel. Min. NELSON JOBIM, Tribunal Pleno, DJ de 9/5/2003)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
