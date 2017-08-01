@@ -1,0 +1,25 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Elizabeth Ballin Vaz contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Paraná, está assim ementado:
+    “ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. OMISSÃO DO ENTE PÚBLICO QUE IMPORTA EM APLICAÇÃO DA TEORIA DA RESPONSABILIDADE SUBJETIVA. AUSÊNCIA DE PROVA DO NEXO CAUSAL ENTRE A OMISSÃO DO ESTADO E A LESÃO SOFRIDA PELA AUTORA. INEXISTÊNCIA DE PROVA QUANTO A QUEDAS OCORRIDAS ANTERIORMENTE. AFIRMAÇÃO DA AUTORA DE QUE ESCORREGOU COM SALTO DO SAPATO NA ESCADA E CAIU. RESPONSABILIDADE QUE NÃO PODE SER IMPUTADA AO ESTADO. RECURSO DESPROVIDO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal "a quo" teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário em questão revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado do Paraná, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático- -probatórios:
+    “Pois bem, o que se extrai é que a recorrente sofreu queda na escada e deslizou alguns lances e foi socorrida pelo Dr. Brasil Vianna Neto, médico que trabalha no IML.
+    …...................................................................................................
+    O que se observa é que a própria autora contou ao depoente que tinha enroscado o salto do sapato em uma tira plástica e veio a cair.
+    Com efeito, a vítima foi socorrida pelo depoente quando já estava no pé da escadaria, portanto a queda não foi presenciada por qualquer pessoa.
+    No caso em tela, incumbia à autora comprovar que o dano sofrido se deu em razão da omissão do Estado, nos termos do artigo 333 do Código de Processo Civil.
+    De acordo com o depoimento das testemunhas, indicadas pela própria autora, dão conta de que a escadaria realmente não passava por manutenção, mas também afirmam que não tem conhecimento de outros acidentes como o sofrido pela autora.
+    As provas colacionadas aos autos comprovam que a autora sofreu fratura no úmero, mas não é possível afirmar que a lesão se deu por omissão do ente público ou em razão do descuido da vítima ao descer apressadamente as escadas, enroscou o salto do seu sapato no degrau.
+    Além do mais, pelas fotos constantes do laudo pericial bem se vê que havia corrimão dos dois lados da escada e, se a autora tinha conhecimento que a escada apresentava risco de queda, deveria tomar as cautelas necessárias uma vez que trabalhava no local, diferentemente de um passante ocasional.
+    De se notar que se a autora estivesse se valendo do uso do corrimão por certo não teria sofrido o acidente.
+    Assim, tem-se que as provas produzidas neste processo não trouxeram informações suficientes a comprovar de forma inequívoca os fatos alegados na inicial no que concerne à relação de causalidade entre a alegada omissão do estado e o acidente sofrido pela Autora, ora Apelante.
+    Nenhuma das testemunhas estava presente no momento do acidente e as alegações trazidas somente comprovam que a autora sofreu fratura no úmero em razão da queda, mas não se prestam a comprovar a responsabilidade do ente público.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
