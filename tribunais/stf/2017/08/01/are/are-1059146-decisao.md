@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da 10ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO - AÇÃO DE OBRIGAÇÃO DE FAZER - PACIENTE PORTADOR DE PSORÍASE - FORNECIMENTO DO FÁRMACO "STELARA" - AUSÊNCIA DE PROVA DA NECESSIDADE DO MEDICAMENTO. Falta de prova da imprescindibilidade do medicamento pleiteado. Somente a perícia médica demonstraria a necessidade do tratamento recomendado pelo médico do autor, ante a avaliação em sentido contrário da Secretaria de Estado da Saúde. A obrigação de produzir prova é do próprio autor (art. 333, I, CPC), que dela não se desincumbiu nem postulou no apelo pela necessidade de fazê-lo. Sentença de improcedência mantida, por fundamento diverso. Recurso desprovido.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação dos artigos 5º, caput, 6º e 196 da Constituição Federal.
+    Decido.
+    Colhe-se do voto condutor do acórdão recorrido, a seguinte fundamentação:
+    “A improcedência da ação deve ser mantida, porém, sob fundamento diverso - falta de prova do direito alegado.
+    (…)
+    No curso da ação, o autor não se desincumbiu do dever de demonstrar a necessidade do tratamento indicado no relatório e prescrição médica de fls. 16/17, em face da resposta ao pedido administrativo de fornecimento do fármaco “ustequinumabe”, quando a Secretaria de Estado da Saúde informou que a avaliação presencial a que o apelante foi submetido, realizada no Serviço Especializado, concluiu pela não indicação do referido medicamento (fls. 18).
+    A decisão que negou provimento ao agravo de instrumento nº 2050418-20.2014.8.26.0000, mantendo o indeferimento da antecipação da tutela, apontou que a divergência entre o relatório médico do autor e o afirmado pela Secretaria de Saúde que impõe sérias restrições à aplicação do medicamento no caso em exame, seja pela ausência de elementos que comprovem sua adequação, seja por possíveis efeitos colaterais (fls. 70/72).
+    Ainda que, em regra, a presença de indicação médica, cumulada quase sempre com a ausência de impugnação específica, possa se mostrar suficiente para concluir-se pela obrigação de fornecer o fármaco, o caso concreto, com suas peculiaridades indicava para a necessidade da perícia.
+    E embora a Fazenda Estadual tenha pleiteado a realização de perícia médica para apuração da alegada incompatibilidade do autor com os medicamentos disponíveis para o tratamento de psoríase, a prova não foi produzida, persistindo a dúvida sobre a necessidade do tratamento pleiteado.
+    É de se registrar que a obrigação de produzir prova é do próprio autor (art. 333, I, CPC), que dela não se desincumbiu nem postulou no apelo pela necessidade de fazê-lo.
+    De outro lado, os documentos apresentados pelo autor não demonstram a possibilidade de risco iminente e irreversível à saúde, aptos a caracterização da necessidade do medicamento Stelara, cujo custo de cada ampola equivale a aproximadamente, a R$ 14.000,00, salientando-se que o tratamento consiste em duas aplicações iniciais do referido medicamento e outras a cada 12 semanas, conforme a necessidade do paciente (fls. 17).
+    Assim, sem a demonstração cabal da necessidade do fármaco “ustequinumabe”, a ação é mesmo improcedente.”
+    Assim, para acolher a pretensão recursal e divergir do entendimento firmado pelo Tribunal de origem seria imprescindível o reexame do conjunto fático-probatório dos autos, o que se mostra incabível no âmbito do recurso extraordinário. Incidência da Súmula nº 279/STF. Sobre o tema, anotem-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. SUBSTITUIÇÃO POR FÁRMACOS FORNECIDOS PELO SISTEMA ÚNICO DE SAÚDE – SUS. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO. REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE nº 827.931/SC-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 26/9/14).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. EFEITOS INFRINGENTES. CONVERSÃO EM AGRAVO REGIMENTAL. DIREITO CONSTITUCIONAL. FORNECIMENTO DE MEDICAMENTO. ADEQUAÇÃO DO MEDICAMENTO PRESCRITO. REEXAME DE PROVAS. IMPOSSIBILIDADE: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 924.158/MG-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 29/2/16).
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Fornecimento de medicamento. Medicamento não disponibilizado pelo SUS. Perícia judicial que conclui pela possibilidade de sua substituição por outro constante na rede pública. Escolha do melhor tratamento. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A verificação acerca do melhor tratamento a que deve ser submetido o agravante enseja, inevitavelmente, o reexame do conjunto fático-probatório da causa, para o que não se presta o recurso extraordinário. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido” (RE nº 801.841/PR-AgR, Segunda Turma, de minha relatoria, DJe de 4/9/15).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
