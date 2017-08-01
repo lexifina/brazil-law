@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão que manteve a sentença de improcedência do pedido de prorrogação do benefício de salário-maternidade, por ausência de previsão legal. (eDOC 58)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 1º, III; 6º, caput; 196; 226; e 227, §1º, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão violou os princípios da dignidade da pessoa humana, da legalidade, da vida e da saúde, ao não lhe conceder o benefício de salário-maternidade.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie, Lei 11.770/08, e o conjunto probatório constante dos autos, consignou que a recorrente não faria jus à prorrogação da licença por não ter aderido o programa Empresa Cidadã. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Conforme já demonstrado na própria petição inicial, a empregadora da recorrente não aderiu ao referido programa.
+    Ademais, ainda que houvesse adesão da empregadora ao programa Empresa Cidadã, o mesmo não se aplica ao INSS. De acordo com o art. 5° da Lei n° 11.770/08, a responsabilidade pelo pagamento da remuneração integral da empregada durante a prorrogação da licença-maternidade é da empresa aderente, deduzindo do Imposto de Renda o valor total se tributada com base no lucro real.(...)
+    Nessas condições, é indevida a prorrogação do salário-maternidade, devendo ser mantida a sentença de improcedência.” (eDOC 58, p.2)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Servidora pública estadual. Contrato temporário. Licença maternidade. Prorrogação. Prequestionamento. Ausência. Legislação local. Ofensa reflexa. Cláusulas contratuais. Reexame. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. O recurso extraordinário não se presta para a análise da legislação local, tampouco para o exame de cláusulas contratuais. Incidência das Súmulas nºs 280 e 454/STF. 3. Agravo regimental não provido.” (ARE-AgR 929.187, Rel. Min. Dias Toffoli, Segunda Turma, DJe 29.4.2016)
+     “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DIREITO ADMINISTRATIVO. SERVIDORA PÚBLICA ESTADUAL. PRORROGAÇÃO DE LICENÇA MATERDINADE PARA 180 DIAS. LEI Nº 11.770/2008. MATÉRIA DE CUNHO INFRACONSTITUCIONAL. PRECEDENTES À exceção do art. 7º, XVIII, da Constituição Federal, os demais dispositivos constitucionais tidos por violados não foram apreciados pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. O recurso extraordinário carece, no ponto, do necessário prequestionamento. Incidem, no caso, as Súmulas 282 e 356/STF. A discussão acerca da ampliação do direito de servidoras públicas estaduais e municipais à licença maternidade com fundamento em legislação federal se restringe ao âmbito infraconstitucional. Precedentes. Agravo regimental a que se nega provimento.” (ARE-AgR 803.386, Rel. Min. Roberto Barroso, Primeira Turma, DJe 1.9.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
