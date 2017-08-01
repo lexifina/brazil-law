@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho que possui a seguinte ementa (fl. 379, Vol. 2):
+    RECURSO DE REVISTA. NULIDADE DA SENTENÇA. FUNDAMENTAÇÃO EQUIVOCADA. 1. O Reclamante reitera a arguição de nulidade da sentença, sob o argumento de que sua fundamentação jurídica está equivocada. Requer o retorno dos autos à Vara do Trabalho de origem, para que nova decisão seja proferida. 2. O Autor não aponta ofensa a dispositivo de lei nem divergência jurisprudencial. Portanto, não merece conhecimento o apelo, por desfundamentado, à luz do art. 896 da CLT. 3. Recurso de revista de que não se conhece. CONTRIBUIÇÃO PATRONAL INSTITUÍDA EM FAVOR DO SINDICATO PROFISSIONAL. PREVISÃO EM NORMA COLETIVA. INVALIDADE. 1. O Tribunal Regional negou provimento ao recurso ordinário interposto pelo Autor e confirmou a sentença, em que se julgou improcedente a pretensão ao pagamento do valor referente à "Taxa de Contribuição Permanente", instituída por norma coletiva, a ser paga pela empresa em favor do sindicato profissional. 2. A decisão regional, em que se julgou inválida a cláusula convencional mediante a qual se instituiu modalidade de contribuição patronal para custeio do sindicato profissional está de acordo com a jurisprudência desta Corte Superior. Precedentes. Logo, inviável o processamento do recurso de revista por divergência jurisprudencial, de acordo com o art. 896, § 4º, da CLT e com a Súmula nº 333 do TST. 3. Recurso de revista de que não se conhece.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, o recorrente sustenta, em síntese, que o julgado ofendeu os artigos 7º, XXVI, e 8º, I e III, da Carta Magna.
+    A decisão agravada tem por fundamento a ausência de violação dos dispositivos constitucionais apontados como violados.
+    No agravo, a parte agravante sustenta, em síntese, há violação à Constituição. No mais, repisa as alegações de mérito do recurso extraordinário.
+    É o relatório. Decido.
+    O Juízo de origem, ao apreciar a controvérsia, julgou improcedente pedido de pagamento da “Taxa de Contribuição Permanente” instituída em norma coletiva de trabalho.
+    Assim, a reversão do entendimento formulado no acórdão recorrido requer a revisão de acordo coletivo de trabalho, de forma que as ofensas à Constituição indicadas no recurso extraordinário são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo, incidindo, no caso, o óbice previsto na Súmula 454 do STF (Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário). Nesse sentido, a decisão monocrática proferida pela Ministra CÁRMEN LÚCIA, no AI 758.834, DJe de 01/07/2009, transitada em julgado, que possui a seguinte ementa:
+    AGRAVO DE INSTRUMENTO. TRABALHISTA. TAXA DE CONTRIBUIÇÃO PERMANENTE. NORMA COLETIVA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL APLICÁVEL À ESPÉCIE E DE INTERPRETAÇÃO DE ACORDO COLETIVO DE TRABALHO. INCIDÊNCIA DA SÚMULA 454 DESTE SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
