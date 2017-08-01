@@ -1,0 +1,35 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Lincoln Del Bianco de Menezes Carvalho, em favor de Edgar Longo, contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao agravo regimental no HC 395.493/SP.
+    Consta dos autos que o paciente mantinha em depósito 670 videogramas produzidos com violação de direito autoral, além de 70 comprimidos do medicamento Pramil, 8 de Diagran e 5 de Cytotec, para fins de comercialização.
+    Após regular trâmite da instrução, a denúncia foi julgada procedente e o réu restou condenado pela prática dos delitos descritos nos arts. 184, § 2º, e 273, § 1º, inciso I, todos do Código Penal, à pena de 12 anos e 4 meses de reclusão, a ser cumprida inicialmente em regime fechado, bem como 25 dias-multa.
+    Irresignada, a defesa interpôs apelação criminal no Tribunal de Justiça bandeirante, postulando, em suma, a absolvição do acusado por ausência de provas.
+    A 9ª Câmara de Direito Criminal deu parcial provimento ao recurso para absolver o réu do crime previsto no art. 273, § 1º, inciso I, do CP e redimensionar a pena para 2 anos e 4 meses de reclusão, nos termos da ementa a seguir transcrita:
+    “Violação de direito autoral. Autoria e materialidade comprovadas. Confissão. Falsidade que não oferece dúvida: compete a quem expõe à venda demonstrar que está autorizado a fazê-lo, e não ao titular do direito autoral comprovar que não o está. Absolvição inadmissível. Pequeno reparo na dosimetria da pena, alterando apenas o cálculo dos dias-multa. Fixado o regime semiaberto para cumprimento da pena.
+    Ter em depósito para vender ou, de qualquer forma, distribuir ou entregar a consumo, medicamento sem registro no órgão de vigilância sanitária. Art. 273, § 1º, B, I, do CP. Dolo não demonstrado. Finalidade de comercialização ou entrega para consumo não demonstrada. Absolvição quanto a essa imputação. Recurso parcialmente provido”. (eDOC 17, p. 3)
+    Daí a impetração de habeas corpus no Superior tribunal de Justiça, que não conheceu do writ em razão de supressão de instância, porquanto a matéria não teria sido apreciada pelas instâncias antecedentes.
+    Interposto agravo regimental, este restou desprovido nos seguintes termos:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. CONDENAÇÃO. TRÂNSITO EM JULGADO. INCOMPETÊNCIA. SUPRESSÃO. AGRAVO NÃO PROVIDO.
+    1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Não existindo nesta Corte julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o julgamento do presente pedido.
+    2. Ademais, as questões aventadas neste habeas corpus – incompetência do Juízo, nulidade da busca e apreensão, assim como do laudo pericial e inépcia da denúncia – não foram sequer objeto de análise pelo Tribunal a quo, o que impede também o seu conhecimento nesta Corte Superior, sob pena de indevida supressão de instância, pois até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária.
+    3. Agravo regimental não provido”. (eDOC 26)
+    Nesta Corte, o impetrante reitera os pedidos pretéritos e enfatiza a incompetência da justiça estadual para julgamento da ação penal.
+    Alega, ainda, que a busca e apreensão e o laudo pericial – provas que lastrearam a condenação – seriam ilícitos, além de a denúncia ser inepta.
+    Postula, liminarmente e no mérito, a suspensão dos efeitos da condenação.
+    É o relatório.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão de mérito objeto de exame definitivo pelo STJ, ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido.
+    Nesse sentido: HC 103.282/PA, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 28.8.2013; HC 114.867/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.8.2013; HC 127.975-AgR/SP, Rel. Min. Teori Zavascki, Segunda Turma, DJe 3.8.2015 e HC 131.320-AgR/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação dos entendimentos jurisprudenciais trazidos à baila pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder. No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste habeas corpus.
+    No caso, destaco os seguintes trechos da decisão impugnada do STJ:
+    “O writ não merece prosseguimento, porquanto as questões aventadas neste habeas corpus – incompetência do Juízo, nulidade da busca e apreensão, nulidade do laudo pericial e inépcia da denúncia – não foram objeto de análise pelo Tribunal a quo, o que impede o seu conhecimento nesta Corte Superior, sob pena de indevida supressão de instância.
+    Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste mandamus.
+    (…)
+    À vista do exposto, com espeque no art. 210 do RISTJ, indefiro liminarmente o writ”. (eDOC 25)
+    Ademais, assevero que o Plenário do Supremo Tribunal Federal, no julgamento do HC 126.292/SP, de relatoria do Min. Teori Zavascki, DJe 17.5.2016, firmou entendimento de ser possível o início da execução da pena na pendência de recurso extraordinário ou especial. Isso porque, no plano legislativo, o art. 637 do CPP prevê que os recursos extraordinários não têm efeito suspensivo. Logo, uma decisão condenatória de segunda instância poderia ser executada na pendência do recurso. Os embargos de declaração opostos ao acórdão do citado feito foram rejeitados em 2.9.2016 (DJe 7.2.2017).
+    No caso, a condenação do paciente, decorrente do cometimento do tipo previsto no art. 184, § 2º, do Código Penal (sentença eDOC 15), foi mantida no julgamento do recurso de apelação pelo TJSP, fato que possibilita a imediata execução da reprimenda.
+    Além disso, sobre a matéria, cito os seguintes julgados: RHC 133.150 AgR/RR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 28.6.2016; HC 136.951 AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, DJe 17.2.2017 e HC 140.645/MT, Rel. Min. Luiz Fux, DJe 1º.3.2017.
+    No caso, não há que se falar em constrangimento ilegal a dar ensejo à concessão deste writ.
+    Ante o exposto, nego seguimento ao presente habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
