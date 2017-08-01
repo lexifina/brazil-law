@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CONTROVÉRSIA SOBRE CABIMENTO DE RECURSO DE CORTE DIVERSA – IMPROPRIEDADE.
+    1. O Tribunal Superior Eleitoral negou provimento a agravo interposto contra decisão negativa de seguimento do especial, considerada a ausência de atendimento dos requisitos pertinentes. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação do artigo 129, incisos I e VII, da Constituição Federal. Sustenta ser do Ministério Público Eleitoral a prerrogativa de conduzir o procedimento preliminar de investigação. Alega violado o princípio acusatório.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    Eis a síntese do acórdão recorrido:
+    AGRAVO REGIMENTAL. AGRAVO. RECURSO ESPECIAL. ELEIÇÕES 2012. PREFEITO. VEREADOR. AÇÃO PENAL. CORRUPÇÃO. ART. 299 DO C ÓDIGO ELEITORAL. FORO POR PRERROGATIVA DE FUNÇÃO. INQUÉRITO POLICIAL. SUPERVISÃO POR JUÍZO INCOMPETENTE. NULIDADE. DESPROVIDO.
+    1. Insere-se na prerrogativa de foro – assegurada a determinadas autoridades – a investigação perante órgãos jurisdicionais de maior hierarquia. Precedentes do c. Supremo Tribunal Federal.
+    2. Inquérito instaurado diante de suposto crime eleitoral cometido por prefeito exige supervisão do órgão a quem compete processar e julgar a respectiva ação penal, sob pena de nulidade de todos os atos (precedentes do TSE e do STF). Esse entendimento visa proteger as instituições públicas, e não interesses de titulares de cargos eletivos.
+    3. Na espécie, o TRE/SC declarou nulos o inquérito e os atos posteriores, inclusive a denúncia. A Polícia Federal, atendendo a requerimento de promotor de justiça, instaurou inquérito em que, desde o início, um dos suspeitos era detentor do cargo de prefeito. Contudo, toda a investigação, que durou mais de dois anos, foi supervisionada pelo juízo singular, sem nenhuma ciência por parte da Corte Regional.
+    4. Inexiste similitude com o HC 1364-13/SP, em que este Tribunal excepcionou a regra e assentou válido inquérito presidido por juiz incompetente. Enquanto naquele caso houve sucessivas mudanças de prefeito e o TRE/SP acompanhou as investigações e ratificou os atos anteriores, na hipótese o TRE/SC teve conhecimento dos fatos apenas após a denúncia, quando não poderia mais sequer proceder à ratificação.
+    Uma vez em jogo controvérsia sobre cabimento de recurso da competência de Corte diversa, a via do extraordinário só é aberta quando o acórdão proferido revela tese contrária a texto da Carta da República. Isso não ocorreu na espécie. Acresce que somente seria dado concluir de forma diversa a partir da análise da prova, o que é vedado em sede extraordinária.
+    No recurso extraordinário nº 598.365/MG, da relatoria do ministro Ayres Britto, o denominado Plenário Virtual, assentando a natureza infraconstitucional da matéria, concluiu pela inexistência de repercussão geral do tema relativo ao cabimento de recursos da competência dos demais tribunais.
+    Em momento algum, foi adotado entendimento conflitante com a Constituição Federal. A alegação de ofensa ao Diploma Maior apenas visa a deslocar o processo ao Supremo, mostrando-se de todo imprópria.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo eleitoral, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 1º de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
