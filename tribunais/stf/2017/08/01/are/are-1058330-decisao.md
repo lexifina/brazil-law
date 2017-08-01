@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Câmara Cível do Tribunal de Justiça do Estado do Estado do Paraná, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. AGENTE PENITENCIÁRIO. CONCESSÃO DA PROMOÇÃO POR MERECIMENTO, PREVISTA NO ARTIGO 10 DA LEI ESTADUAL 13.666/02. REGULAMENTAÇÃO PELO DECRETO 3.739/2008 QUE EXIGE O PRAZO DE 10 ANOS DE EFETIVO EXERCÍCIO. PRAZO NÃO PREENCHIDO. AUSÊNCIA DE EXTRAPOLAÇÃO AO PODER REGULAMENTADOR. RECURSO DESPROVIDO.”
+    No recurso extraordinário sustenta violação do artigo 37, caput, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, uma vez que a discussão travada nestes autos está restrita ao âmbito da legalidade, tendo em vista que se examina o alegado excesso do Decreto nº 3.739/08 ao regulamentar as disposições da Lei nº 13.666/02. Desse modo, a ofensa a Constituição seria, quando muito, reflexa ou indireta, o que não dá ensejo à interposição de recurso extraordinário. Sobre o tema, confira-se:
+    “ AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. DECRETO N. 332/1991. EXCESSO DO PODER REGULAMENTAR. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 738.739/SP-AgR-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/2/13)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. LEI N. 8.200/91, ARTIGO 3º, INCISO I. CONSTITUCIONALIDADE DECLARADA PELO TRIBUNAL PLENO. DECRETO N. 332/91. NORMA REGULAMENTAR. APLICAÇÃO DA NORMA TRIBUTÁRIA. 1. Decreto n. 332/91. Norma regulamentar. Inconstitucionalidade de suas disposições por extrapolarem o comando da Lei n. 8.200/91. Alegação improcedente. Se a norma regulamentar padece de vícios dessa espécie, a questão se resolve no âmbito da legalidade e não no âmbito da inconstitucionalidade. 2. Eventual declaração de ilegalidade de preceitos da norma regulamentar não exime o contribuinte da observância da legislação regulamentada, tendo em vista que ‘o conteúdo e o alcance dos decretos restringem-se aos das leis em função das quais sejam expedidos’ (CTN, artigo 99). Agravo regimental a que se nega provimento” (AI nº 519.375/RJ-AgR, Primeira Turma, Relator o Ministro Eros Grau, DJ de 19/8/05) (Grifo nosso).
+    Ainda no mesmo sentido, as seguintes decisões monocráticas: ARE nº 1.029.793/PR, Relator o Ministro Luiz Fux, DJe de 5/4/17; ARE nº 1.016.638/PR, Relator o Ministro Celso de Mello, DJe de 14/2/17; ARE nº 988.050/PR, Relator o Ministro Ricardo Lewandowski, DJe de 1º/2/17 e ARE nº 1.003.726/PR, de minha Relatoria, DJe de 3/11/16.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) de seu total, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do citado artigo e a eventual concessão do benefício da gratuidade da justiça.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
