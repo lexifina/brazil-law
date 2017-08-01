@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de recurso extraordinário interposto em face de acórdão da Turma Recursal dos Juizados Especiais Federais do Espirito Santo que possui a seguinte ementa (fl. 141):
+    RECURSO INOMINADO – PROCEDENTE O PEDIDO DE CONVERSÃO DO TEMPO DE SERVIÇO PRESTADO SOB CONDIÇÕES ESPECIAIS EM TEMPO DE SERVIÇO COMUM ATÉ 29.04.1995 – RECURSO CONHECIDO E PROVIDO – SENTENÇA REFORMADA.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a recorrente sustenta, em síntese, que o julgado ofendeu os artigos 5º, II, e 40, § 4º, da Constituição Federal.
+    É o relatório. Decido.
+    O recurso merece parcial provimento, senão vejamos.
+    O Tribunal de origem divergiu do entendimento firmado por esta Corte no sentido de que a contagem de tempo especial no período posterior à instituição do Regime Jurídico Único, pela Lei 8.112/1990, depende de complementação legislativa, nos termos do artigo 40, § 4º, da Constituição Federal. Nesse sentido:
+    RECURSO. Extraordinário. Provimento parcial. Servidor público federal. Regime celetista. Atividade insalubre. Contagem especial de tempo de serviço. Período posterior à Lei nº 8.112/90. Art. 40, § 4º, na redação anterior à Emenda Constitucional nº 20/98. Inaplicabilidade. Agravo regimental parcialmente provido. Para concessão do direito à contagem de especial de tempo de serviço referente ao período posterior à Lei nº 8.112/90, é necessária a complementação legislativa de que trata o artigo 40, § 4º, da Constituição, na redação anterior à Emenda Constitucional nº 20/98. (RE 371.749-AgR, REL. Min. CEZAR PELUSO, Primeira Turma, DJ de 04/02/2005)
+    SERVIDORA PÚBLICA. ATIVIDADE INSALUBRE. CONTAGEM ESPECIAL DE TEMPO DE SERVIÇO EM PERÍODO ANTERIOR ADVENTO LEI 8.112/90. DIREITO ADQUIRIDO. MUDANÇA DE REGIME. O direito à contagem especial do tempo de serviço prestado sob condições insalubres pela servidora pública celetista, à época em que a legislação então vigente permitia tal benesse, incorporou-se ao seu patrimônio jurídico. Não obstante, para o período posterior ao advento da Lei 8.112/90, é necessária a regulamentação do art. 40, §4º da Carta Magna. Precedentes. Recurso extraordinário conhecido e parcialmente provido. (RE 382.352, Rel. Min. ELLEN GRACIE, Segunda Turma, DJ de 06/02/2004)
+    Por fim, esta Corte, no RE 870.947 (Rel. Min. LUIZ FUX, Tema 810), reconheceu a repercussão geral da controvérsia acerca da validade da correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública, conforme previstos no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009 .
+    Diante do exposto, com base no art. 21, § 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, dou parcial provimento ao recurso extraordinário para afirmar a impossibilidade de contagem de tempo especial após o advento do Regime Geral Único, enquanto não sobrevir a legislação regulamentadora e, quanto aos índices de correção monetária e juros de mora aplicados aos débitos imputados à Fazenda Pública, com fundamento no art. 1.036 e seguintes do Código de Processo Civil de 2015 e no art. 328, parágrafo único, do Regimento Interno do STF, determino a devolução dos autos ao Juízo de origem para que seja observada a decisão do Supremo no precedente.
+    Distribuídos proporcionalmente os ônus sucumbenciais.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
