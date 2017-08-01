@@ -1,0 +1,18 @@
+Trata-se de arguição de descumprimento de preceito fundamental ajuizada pelo Partido Trabalhista Nacional, na qual sustenta a incompatibilidade do art. 224, § 4°, do Código Eleitoral com o dispositivo constitucional inscrito no art. 81, § 1°, da CF/1988.
+    Afirma, também, que a decisão do TSE, a qual determinou a realização de eleições diretas violou
+    “preceitos fundamentais previstos nos artigos 2º, e 60, § 4°, inciso III, todos da Constituição Federal de 1988, que tutela direitos referentes à independência harmônica dos poderes, que não pode ser restringida por nenhuma norma inferior a esculpida pelo legislador originário, conforme dispõe a Carta da República”.
+    Alega, outrossim, que, em face “da vigência de duas normas, uma constitucional (Art. 81, § 1º da CF/884) e outra ordinária (Art. 224, § 4º, do CE), é necessário que o Supremo Tribunal decida as seguintes questões: 1º: Qual norma deve ser aplicada para a sucessão do governador, o Art. 81 da CF/88 ou o Art. 224, § 4º do CE? A eleição deve ser direta ou indireta?”.
+    Acrescenta, ainda, que a decisão do TSE, a qual estabeleceu eleições diretas para um mandato inferior a dois anos “não é mais segura para o momento de instabilidade institucional e financeira, onde o país está passando pela maior recessão de sua existência, fazendo-se uma atuação mais célere e econômica, conforme os princípios basilares do ordenamento pátrio tais como o princípio da celeridade e da economicidade”.
+    Pleiteia, com tais argumentos, “a concessão da medida liminar para determinar a SUSPENSÃO DO PROCESSO ELEITORAL DE SUCESSÃO DO GOVERNADOR DO ESTADO DO AMAZONAS ATÉ DECISÃO DE MÉRITO DESTA ADPF ou das ADIs 5525/5619”.
+    No mérito, requer “que seja declarada a violação do preceito fundamental, e a consequentemente determinação de eleições indiretas a serem realizadas pela Assembleia Legislativa do Amazonas nos termos do Art. 81, § 1º, da CF/88”.
+    Instado a manifestar-se, o Ministério Público Federal, em parecer de lavra do Procurador-Geral da República Rodrigo Janot Monteiro de Barros, opinou pelo não conhecimento da ação, mas, caso conhecida, pela procedência..
+    É o relatório. Decido.
+    De plano, verifico que a presente ação não merece prosperar.
+    Isso porque existe uma falha na representação do arguente, uma vez que a procuração apresentada foi subscrita pelo Diretório Regional do Partido Trabalhista Nacional no Amazonas, em desacordo com a jurisprudência do Supremo, que exige que o instrumento de mandato seja outorgado pelo diretório nacional do partido político (documento eletrônico 2).
+    Cito, nesse sentido, ADI 1426 MC, Rel. Min. Celso de Mello, ADI 1528 QO, Rel. Min. Ellen Gracie, e ADI 2547 QO, Rel. Min. Celso de Mello. Veja-se, no ponto, a ementa deste último julgado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE AJUIZAMENTO POR COMISSÃO DIRETORA ESTADUAL PROVISÓRIA DE PARTIDO POLÍTICO - HIPÓTESE DE CARÊNCIA - AÇÃO DIRETA NÃO CONHECIDA. - O Partido Político, com bancada parlamentar no Congresso Nacional, é carecedor da ação direta de inconstitucionalidade, quando representado, no processo objetivo de controle normativo abstrato, por Diretório Regional ou por Comissão Diretora Estadual Provisória, pois a representação partidária, em sede de fiscalização concentrada de constitucionalidade, instaurada perante o Supremo Tribunal Federal, compete, exclusivamente, ao Diretório Nacional ou, quando for o caso, à Comissão Executiva do Diretório Nacional da agremiação partidária, ainda que o objeto de impugnação seja lei ou ato normativo de origem local. Precedentes”.
+    Isso posto, não conheço da ação (art. 4° da Lei 9.882/1999).
+    Publique-se.
+    Brasília, 1° de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
