@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, os recorrentes sustentam que existe repercussão geral e que o julgado ofendeu o art. 114 da Carta Magna.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus do recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional discutida no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. Não bastam, portanto, para que seja atendido o requisito previsto nos artigos 102, § 3º, da CF e 543-A, § 2º, do CPC/1973, alegações genéricas a respeito do instituto, como a mera afirmação de que (a) a matéria controvertida tem repercussão geral; (b) o tema goza de importância econômica, política, social ou jurídica; (c) a questão ultrapassa os interesses subjetivos da parte ou tem manifesto potencial de repetitividade; (d) a repercussão geral é consequência inevitável de suposta violação a dispositivo constitucional; ou, ainda, (e) há jurisprudência pacífica desta Corte quanto ao tema discutido. Nesse sentido: ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Ora, no caso, a alegação de repercussão geral não está acompanhada de fundamentação demonstrativa nos moldes exigidos pela jurisprudência do STF.
+    Ainda que superado esse grave óbice, o apelo extremo não teria chances de êxito.
+    A jurisprudência do Supremo Tribunal Federal é no sentido de “que a relação de trabalho se limita à relação jurídica estabelecida entre o trabalhador e o empregador, regida pela CLT, em virtude de vínculo empregatício”. Confira-se:
+    Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS. COMPETÊNCIA. JUSTIÇA COMUM. AGRAVO A QUE SE NEGA PROVIMENTO. I – O Plenário desta Corte, no julgamento da ADI 3.395-MC/DF, Rel. Min. Cezar Peluso, concluiu que a relação de trabalho se limita à relação jurídica estabelecida entre o trabalhador e o empregador, regida pela CLT, em virtude de vínculo empregatício. II – Ausente, na espécie, vínculo empregatício entre o profissional liberal e seu cliente, cabe à Justiça Comum o julgamento da presente demanda. III – Agravo regimental a que se nega provimento.(RE 700.131 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 23/6/2014)
+    Por fim, o Plenário do Supremo Tribunal Federal, no RE 607.520 (Rel. Min. DIAS TOFFOLI, Tema 305), examinou a repercussão geral da questão constitucional análoga à debatida neste recurso, tendo firmado a seguinte tese: “Compete à Justiça comum estadual processar e julgar as ações de cobrança ou os feitos executivos de honorários advocatícios arbitrados em favor de advogado dativo em ações cíveis e criminais.”
+    O acórdão recorrido está em consonância com os precedentes acima elencados.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+documento assinado digitalmente
