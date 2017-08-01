@@ -1,0 +1,10 @@
+DESPACHO:
+    1. Trata-se de recurso extraordinário, com repercussão geral, em que se discute a constitucionalidade do ensino doméstico (homeschooling) de crianças e adolescentes em idade escolar.
+    2.  Pediram ingresso no processo, na qualidade de amici curiae, as seguintes entidades: (i) União, em 19.02.2016; (ii) Estados do Acre, de Alagoas, do Amazonas, do Goiás, do Espírito Santo, do Maranhão, de Mato Grosso, de Mato Grosso do Sul, de Minas Gerais, da Paraíba, do Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e o Distrito Federal, em 19.02.2016; (iii) Estado do Rio Grande do Sul, em 9.11.2015; e (iv) Associação Nacional de Educação Domiciliar – ANED, em 7.04.2016.
+    3. Tendo em vista que todos os pedidos de ingresso mencionados acima foram formulados antes da liberação do processo para inclusão em pauta (ADI 4.071 AgR e ADI 2.435 AgR), bem como considerando os critérios de representatividade dos postulantes, pertinência temática, abrangência e equilíbrio na sustentação de teses contrapostas, defiro o ingresso no feito dos interessados.
+    4. O Instituto Conservador de Brasília, em 07.03.2016, também postulou ingresso no processo na qualidade de amicus curiae. Embora o pedido tenha sido formulado tempestivamente, pela leitura do estatuto social da requerente, não vislumbro representatividade e pertinência temática exigidas para o ingresso no feito.
+    5. Diante do exposto, defiro o ingresso no processo, na qualidade de amici curiae, das seguintes entidades: (i) União; (ii) Estados do Acre, de Alagoas, do Amazonas, do Goiás, do Espírito Santo, do Maranhão, de Mato Grosso, de Mato Grosso do Sul, de Minas Gerais, da Paraíba, do Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e o Distrito Federal; (iii) Estado do Rio Grande do Sul; e (iv) Associação Nacional de Educação Domiciliar – ANED.
+          Publique-se.
+          Brasília, 01 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
