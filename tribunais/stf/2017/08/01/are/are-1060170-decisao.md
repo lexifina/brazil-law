@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da 2ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, que confirmou a concessão de liminar, em ação civil pública de improbidade administrativa, no sentido de proibir a parte recorrente de celebrar novos contratos com a Administração Pública enquanto não apurada se ela cometeu ato de improbidade administrativa.
+    O recurso busca fundamento no art. 102, III, a da Constituição. A parte recorrente alega violação ao art. 5º, LV, da Constituição Federal.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que a solução da controvérsia não prescinde da análise da legislação infraconstitucional pertinente.
+    O recurso extraordinário foi apresentado contra decisão de natureza precária que confirmara decisão interlocutória de concessão de medida liminar de proibição de contratação com a Administração Pública em ação civil de improbidade administrativa. Desse modo, não foi preenchido o requisito do art. 102, III, da Constituição Federal, que prevê a competência do Supremo Tribunal Federal para julgar mediante recurso extraordinário, as causas decididas em única ou última instância. Veja-se, a propósito, a ementa do AI 597.618-AgR, julgado sob a relatoria do Ministro Celso de Mello:
+    “AGRAVO DE INSTRUMENTO ACÓRDÃO QUE CONFIRMA DEFERIMENTO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA ATO DECISÓRIO QUE NÃO SE REVESTE DE DEFINITIVIDADE MERA ANÁLISE DOS PRESSUPOSTOS DO FUMUS BONI JURIS E DO PERICULUM IN MORA INVIABILIDADE DO APELO EXTREMO  RECURSO DE AGRAVO IMPROVIDO.
+    - Não cabe recurso extraordinário contra decisões que concedem ou que denegam a antecipação dos efeitos da tutela jurisdicional ou provimentos liminares, pelo fato de que tais atos decisórios precisamente porque fundados em mera verificação não conclusiva da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada - não veiculam qualquer juízo definitivo de constitucionalidade, deixando de ajustar-se, em conseqüência, às hipóteses consubstanciadas no art. 102, III, da Constituição da República. Precedentes.”
+    Nessas condições, incide, igualmente, a Súmula 735/STF:
+    “Não cabe recurso extraordinário contra acórdão que defere medida liminar.”
+    Confiram-se precedentes sobre a matéria: RE 613.182-AgR, Rel. Min. Ricardo Lewandowski; e AI 635.237-AgR, Rel. Min. Menezes Direito.
+    Ademais, o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal no sentido de que “a razoável duração do processo não pode ser considerada de maneira isolada e descontextualizada das peculiaridades do caso concreto (HC 127.621, Rel.ª Min.ª Rosa Weber); o acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal no sentido de não ser procedente a alegação de excesso de prazo quando a complexidade justifica a tramitação mais alongada do processo” (RHC 132.322, Rel.ª Min.ª Cármen Lúcia).
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
