@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão das Turmas Recursais dos Juizados Especiais do Estado do Rio de Janeiro. Naquela assentada, o Tribunal a quo manteve por seus próprios fundamentos a sentença, cujo teor transcrevo, no que interessa:
+    “Rejeito a questão prejudicial trazida pelo réu em sua defesa, de ocorrência da prescrição, considerando-se que o prazo prescricional no caso vertente passou a correr na data da publicação da do reconhecimento de dívida, a partir de quanto teria o autor cinco anos para cobrá-la judicialmente, ou seja, até o mês de setembro de 2015.
+    No presente caso, a parte autora acostou aos autos o termo de reconhecimento de dívida - fls.08, além do mais, o réu limitou-se em sua peça de bloqueio, a arguir a possível ocorrência da prescrição, o que já foi refutado nesta decisão.
+    Posto isto, JULGO PROCEDENTE O PEDIDO, para condenar o réu, ao pagamento da quantia de R$ 1.959,68, relativa ao crédito do autor, conforme Termo de Reconhecimento de dívida, firmado pelo réu, que deverá ser corrigido monetariamente, nos termos do que dispõe o art. 1º.-F da Lei 9.494/97, a contar da citação”. (eDOC 5, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º; 84, II, VI; 167, II; 169, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que a decisão judicial supracitada resulta em interferência no ordenamento das despesas públicas, o que viola a separação entre os Poderes.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou a ocorrência de inadimplemento decorrente de diferenças estipendiais, a teor de processo administrativo bem como de termo de reconhecimento de dívida específicos. Nesse sentido, extrai-se o seguinte trecho da sentença, cujo teor foi integralmente mantido pelo acórdão impugnado:
+    “ANTONIO CARLOS DE MORAIS GORJÃO propôs a presente ação em face de ESTADO DO RIO DE JANEIRO, na qual afirma que é credor da quantia de R$ 1.959,68, relativa a diferenças estipendiais, cuja dívida foi expressamente reconhecida, no processo administrativo nº E-09/120324/1570/2010.
+    […]
+    Posto isto, JULGO PROCEDENTE O PEDIDO, para condenar o réu, ao pagamento da quantia de R$ 1.959,68, relativa ao crédito do autor, conforme Termo de Reconhecimento de dívida, firmado pelo réu, que deverá ser corrigido monetariamente, nos termos do que dispõe o art. 1º.-F da Lei 9.494/97, a contar da citação”. (eDOC 5, p. 1)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO FISCAL. PROCESSO ADMINISTRATIVO. NECESSIDADE DE INTIMAÇÃO OU NOTIFICAÇÃO. CERTIDÃO DE DÍVIDA ATIVA. VALIDADE. REQUISITOS. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA REFLEXA. INCURCIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO”. (ARE-AgR 933.085, Rel. Min. Luiz Fux, Primeira Turma, DJe 6.4.2016)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – OFENSA INDIRETA À CONSTITUIÇÃO – CONTENCIOSO DE MERA LEGALIDADE – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC/15, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE “TRABALHO ADICIONAL” POR PARTE DO VENCEDOR DA DEMANDA (NÃO APRESENTAÇÃO DE CONTRARRAZÕES RECURSAIS) – AGRAVO INTERNO IMPROVIDO”. (ARE-ED-AgR 958.024, Rel. Min. Celso de Mello, Segunda Turma, DJe 24.2.2017)
+    Não fosse suficiente, é de se reconhecer que as razões do recurso extraordinário não demonstram suficientemente de que modo, no entendimento da parte recorrente, teriam ocorrido, no âmbito da decisão recorrida, as violações aos dispositivos constitucionais suscitados. Também por essa razão, não há como se conhecer do recurso extraordinário, haja vista a incidência do óbice da súmula 284 desta Corte.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de agosto de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
