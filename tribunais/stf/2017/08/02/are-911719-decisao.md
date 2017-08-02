@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de agravo contra decisão da instância de origem que inadmitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 32, Vol. 1):
+    Mandado de segurança. Impetrante que pretende incluir adicional de encargos especiais na base de cálculo do seu triênio. Possibilidade. Verba de caráter remuneratório, reconhecida por decisão judicial pretérita. Ordem concedida.
+    Nas razões recursais iniciais, com amparo no art. 102, III, “a”, da Constituição Federal, foram alegadas violações aos seguintes dispositivos constitucionais: arts. 2º, 5º, 37, XIV, 40 § 2º e 93, X, da CF/88.
+    É o relatório. Decido.
+    Não merecem ser acolhidas as razões da parte recorrente. Em relação à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta Corte no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+    Nessa oportunidade, o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da Constituição Federal de 1988 “exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+    De outro lado, o Juízo de origem entendeu que a Gratificação de Encargos Especiais – GEE trata-se “de verba que integra o vencimento-base da servidora sobre a qual deve incidir o adicional por tempo de serviço” (e-STJ, fl. 33, Vol. 1). Consta, ainda, o seguinte:
+    Da análise dos contracheques que instruem a inicial, verificou que os encargos especiais são pagos em separado, sob a rubrica “determinação judicial”, mas não integram a base de cálculo dos triênios. Isso representa ofensa a direito líquido e certo da impetrante, pois a verba tem caráter remuneratório (e-STJ, fl. 33)
+    Como se vê, a instância a quo, com base na análise dos documentos acostados aos autos, concluiu que Gratificação de Encargos Especiais – GEE integra o vencimento-base e tem caráter remuneratório. Assim, a reversão desse entendimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte: Para simples reexame de prova não cabe recurso extraordinário.
+     Ademais, a definição da natureza jurídica da gratificação por encargos especiais - GEE depende da análise da legislação local que rege a concessão da verba remuneratória em tela, o que é incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário). Nesse sentido:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. EXTENSÃO A SERVIDORES INATIVOS. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280/STF. Em casos análogos, a jurisprudência do Supremo Tribunal Federal afastou o cabimento de recurso extraordinário, tendo em vista que o deslinde da controvérsia depende do exame prévio da legislação local aplicável à espécie (Súmula 280/STF). Precedentes. Agravo regimental a que se nega provimento. (AI 821.728-AgR, Rel. ROBERTO BARROSO, Primeira Turma, DJe de 23/4/2014).
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. NATUREZA DA VANTAGEM. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO ESTADUAL. 1. A discussão acerca da natureza jurídica de parcelas remuneratórias devidas a servidores públicos é de índole eminentemente infraconstitucional. Pelo que é de incidir a Súmula 280/STF. 2. Agravo regimental desprovido. (AI 649.653-AgR, Rel. Min. AYRES BRITTO, Segunda Turma, DJe de 12/9/2011).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 2 de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
