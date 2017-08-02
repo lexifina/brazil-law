@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região.
+    A recorrente sustenta violação dos arts. 5º, XXXV, LIV e LV, 93, IX, 145, § 1º, 150, II, 170, IV, e 195, I, e § 9º, da Constituição Federal.
+    Em 2/5/2013, foi determinado o retorno do processo,
+    “nos termos da Ordem de Serviço nº 01/2013 da Vice-Presidência, (…) ao Órgão Julgador originário (…), a fim de, se for o caso, ajustar o acórdão à decisão proferida pelo Superior Tribunal de Justiça no Resp 566.621, nos termos do art. 543-C, § 7º, II, do CPC c/c o art. 220, § 1º do Regimento Interno deste Tribunal” (fl. 441).
+     O TRF5, então, proferiu novo acórdão dando parcial provimento à remessa oficial e à apelação da Fazenda Nacional para adequar o acórdão ao entendimento do STF quanto à aplicabilidade da Lei Complementar 118/2005. O acórdão de julgamento foi assim ementado:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. ADEQUAÇÃO DO ACÓRDÃO AO ENTENDIMENTO DO STF. ART. 543-B, §3º, CPC. LC 118/05. AÇÃO MANDAMENTAL IMPETRADA APÓS A ENTRADA EM VIGOR DA LC 118/05. 1. Os presentes autos retornaram em face do disposto no art. 543-B, § 3º, II, do CPC, c/c o art. 223, § 2º, II, do Regimento Interno deste Tribunal, para fins de adequação ao entendimento sedimentado no RE 566.621/RS pelo Supremo Tribunal Federal, em sede de repercussão geral. 2. No primeiro julgamento, adotou-se o entendimento do STJ segundo o qual o prazo prescricional quinquenal instituído pela LC 118/05 deveria ser aplicado aos pagamentos indevidos efetuados após a sua entrada em vigor (09 de junho de 2005). Em se tratando de recolhimentos efetuados até 08 de junho de 2005, aplicar-se-á o prazo decenal (cinco mais cinco), até o limite de cincos anos a contar da vigência da lei nova. 3. Decisão proferida pelo STF, em sede de repercussão geral (RE 566.621/RS; DJ, 11/10/11), determinando a aplicação da nova regra instituída pela LC 118/05 (prazo prescricional quinquenal) às demandas interpostas a partir da sua vigência (09 de junho de 2005). 4. Mandado de segurança impetrado em 2008, motivo pelo qual é cabível a aplicação do prazo prescricional quinquenal. 5. Adequação do acórdão ao entendimento do STF quanto à aplicabilidade da LC 118/05, para dar parcial provimento à remessa oficial e à apelação da Fazenda Nacional” (fl. 448).
+    Em 14/2/2014, a União
+    “requere[u] a devolução dos autos à Vice-Presidência para que seja dado continuidade à análise do juízo de admissibilidade do recurso extraordinário de fls. 336/378, considerando que tal recurso não tem como objeto apenas a questão da prescrição. De fato, em item separado (fls. 355), a Fazenda Nacional alega a ocorrência de violação ao art. 195, I, ‘B’ e § 9º; art. 145, I; art. 150, II e art. 170, IV, todos da Constituição Federal, defendendo ser constitucional a exigência do recolhimento do PIS/COFINS com base no regime não cumulativo de tributação” (fl. 450).
+    Em 3/6/2017, determinei o sobrestamento do feito até o julgamento final do RE 570.122-RG/RS e do RE 607.642-RG/RJ.
+    A recorrida peticionou, no entanto, sustentando não ser o caso de sobrestar o RE, uma vez que ele estaria prejudicado.
+    Com razão.
+    Reexaminados os autos, noto, conforme relatado, que após a interposição pela União do RE sob análise, o TRF5 proferiu novo acórdão dando parcial provimento à remessa oficial e à apelação da Fazenda Nacional para adequar o acórdão ao entendimento do STF quanto à aplicabilidade da Lei Complementar 118/2005.
+    Contra essa decisão não foi interposto novo recurso.
+    Dessa forma, não é possível a análise do RE interposto contra o primeiro acórdão do TRF5, uma vez que ele perdeu seu objeto com a substituição do acórdão de fls. 270-291 por aquele de fls. 444-449.
+    Isso posto, cancelo o sobrestamento deste recurso e julgo prejudicado o RE (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 2 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
