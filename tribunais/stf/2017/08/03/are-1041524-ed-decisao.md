@@ -1,0 +1,20 @@
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INOCORRÊNCIA DE ERRO MATERIAL. MANIFESTO INTUITO PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.
+    Decisão: Trata-se de embargos de declaração, opostos pelo SINDICATO NACIONAL DOS AUDITORES FISCAIS DO TRABALHO – SINAIT, contra decisão de minha relatoria assim ementada, in verbis:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIMES DE DIFAMAÇÃO E INJÚRIA. ARTIGOS 139 E 140 DO CÓDIGO PENAL. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, LIV E LV, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. ACÓRDÃO PROFERIDO POR TURMA RECURSAL. REMISSÃO AOS FUNDAMENTOS ADOTADOS NA SENTENÇA IMPUGNADA. ARTIGO 82, PARÁGRAFO 5º, DA LEI 9.099/1995. MATÉRIA SUBMETIDA AO REGIME DA REPERCUSSÃO GERAL. TEMA 451. RE 635.729. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. AGRAVO DESPROVIDO.”
+    Em suas razões, a parte embargante aduz que a r. decisão “limitou-se a afirmar que as ofensas alegadas nas razões do agravo seriam indiretas (ou reflexas), sem demonstrar a razão pela qual dependeriam de reexame de normas infraconstitucionais.” (Doc. 138, fl. 5).
+    É o relatório. DECIDO.
+    Não merecem acolhida as pretensões da parte embargante.
+    Ab initio, pontuo que os embargos de declaração opostos contra decisão do relator serão decididos monocraticamente, nos termos do artigo 1.024, § 2º, do CPC/2015, in verbis: “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente”.
+    Os embargos de declaração somente são cabíveis quando houver, na decisão judicial, ambiguidade, obscuridade, contradição ou omissão, consoante dispõe o artigo 619 do CPP.
+    In casu, a decisão hostilizada, ao contrário do alegado pelo recorrente, enfrentou os argumentos trazidos nas razões recursais, ao assentar que: (i) a análise do mérito recursal ficara adstrita ao reexame de normas infraconstitucionais aplicáveis à espécie (Código de Processo Penal e Lei 9.099/1995); e (ii) a matéria debatida já fara objeto de exame por esta Corte no regime de repercussão geral (Temas 339 e 451).
+    Nesse contexto, não se verifica nenhuma das hipóteses ensejadoras dos embargos de declaração, já que a decisão embargada, não tendo partido de premissas equivocadas, apreciou as questões suscitadas no recurso extraordinário de maneira clara e coerente, em consonância com a jurisprudência pertinente.
+    Ademais, saliente-se que os restritos limites dos embargos de declaração não permitem rejulgamento da causa. O efeito modificativo ora pretendido somente é possível em hipóteses excepcionais e desde que comprovada a existência de obscuridade, de contradição, de omissão ou de erro material no julgado, o que não ocorre no caso sub examine, pelas razões acima delineadas. Nesse sentido:
+    “EMBARGOS DECLARATÓRIOS - ACÓRDÃO - INEXISTÊNCIA DE VÍCIO - DESPROVIMENTO. Uma vez voltados os embargos declaratórios ao simples rejulgamento de certa matéria, inexistindo, no acórdão proferido, qualquer dos vícios que os respaldam - omissão, contradição e obscuridade -, impõe-se o desprovimento.” (RE 812.827-AgR-ED, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 26/3/2015)
+    “EMBARGOS DE DECLARAÇÃO - INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO - EMBARGOS DE DECLARAÇÃO REJEITADOS.
+    - Os embargos de declaração destinam-se, precipuamente, a desfazer obscuridades, a afastar contradições e a suprir omissões que eventualmente se registrem no acórdão proferido pelo Tribunal. A inocorrência dos pressupostos de embargabilidade, a que se refere o art. 535 do CPC, autoriza a rejeição dos embargos de declaração, por inadmissíveis.” (ARE 835.081-AgR-ED, Rel. Min. Celso de Mello, Segunda Turma, DJe de 25/3/2015, grifos originais)
+    Ex positis, DESPROVEJO os embargos de declaração.
+    Publique-se.
+    Brasília, 3 de agosto de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
