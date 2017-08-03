@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Distrito Federal. Aparelhado o recurso na afronta aos arts. 37, caput, 196 e 197 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO INTERPOSTO APÓS O NOVO CÓDIGO DE PROCESSO CIVIL. MÉRITO. JULGAMENTO POR UNANIMIDADE. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. JULGAMENTO POR MAIORIA, VENCIDO O RELATOR ORIGINÁRIO. AGRAVO REGIMENTAL DESPROVIDO. MÉRITO RECURSAL. SAÚDE. TRATAMENTO MÉDICO. ART. 196 DA CONSTITUIÇÃO DA REPÚBLICA. EFICÁCIA IMEDIATA. DIREITO ASSEGURADO AOS MENOS AFORTUNADOS. ACÓRDÃO EM HARMONIA COM O TEXTO CONSTITUCIONAL. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM ¼ (UM QUARTO). ARTIGO 85, §11, CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE RESPOSTA AO RECURSO. IRRELEVÂNCIA. MEDIDA DE DESESTÍMULO À LITIGÂNCIA PROCRASTINATÓRIA. CABIMENTO. VENCIDO O RELATOR ORIGINÁRIO, NO PONTO.” (ARE 947297 AgR, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. EDSON FACHIN, Primeira Turma, julgado em 29/11/2016, PROCESSO ELETRÔNICO DJe-017 DIVULG 31-01-2017 PUBLIC 01-02-2017.)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito à vida e à saúde. Procedimento cirúrgico de urgência. Obrigação solidária de todos os entes da Federação. Art. 196 da Constituição. Precedentes. 3. Divergir do entendimento do Tribunal de origem acerca da procedência do pedido para que o Estado do Rio Grande do Sul forneça transporte aéreo e estada à paciente para realização de procedimento cirúrgico de urgência, bem como custeie 20% de tratamento, em razão de seu plano de saúde não cobrir todas as despesas, demandaria análise da moldura fática delineada nos autos. Súmula 279. 4. Agravo regimental a que se nega provimento.” (ARE 839974 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 05/05/2015, ACÓRDÃO ELETRÔNICO DJe-096 DIVULG 21-05-2015 PUBLIC 22-05-2015.)
+    Ademais, em relação à alegada violação ao art. 37, caput, da Constituição Federal, incide a Súmula 636/STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de agosto de 2017.
+Ministra Rosa Weber
+Relatora
