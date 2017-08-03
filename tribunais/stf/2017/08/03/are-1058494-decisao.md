@@ -1,0 +1,17 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “EMBARGOS DE DECLARAÇÃO – Omissão – Ocorrência – Acórdão que deixou de analisar a preliminar de incompetência absoluta do juízo, arguida em contrarrazões de apelação – Suprimento da omissão – Ausência de alteração no v. acórdão embargado – Embargos acolhidos.”
+    O ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 114, I e IV, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    De outro lado, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido nesta sede recursal, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo” apoiou-se em dispositivos de ordem meramente legal e em aspectos fático-probatórios:
+    “Assim, não se trata de ação oriunda de relação de trabalho (art. 114, I, Constituição Federal) a ensejar a competência da Justiça Trabalhista. A matéria diz respeito à análise da violação de legalidade praticada em processo administrativo, enquadrando-se, portanto, no caso da competência residual da Justiça Comum Estadual.
+    …...................................................................................................
+    Ademais, no próprio relatório do ‘Relatório Final’ do processo administrativo disciplinar nº 033/2013 constou que ‘pelos elementos apresentados acima descritos, apurou-se o cometimento, em tese, de infringência ao disposto nas alíneas 'a' e 'h', do artigo 482 da CLT, quais sejam, ato de improbidade, bem como ato de indisciplina e ou insubordinação, no exercício de suas funções’, sem, contudo, indicar quais atos implicavam improbidade e quais implicavam indisciplina e/ou insubordinação (fl. 67).”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 03 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
