@@ -1,0 +1,50 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Debs Antônio Rosa, apontando como autoridade coatora a Ministra Laurita Vaz, Presidente do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 406.212/PA.
+    O impetrante sustenta que as circunstâncias do caso autorizariam a mitigação do enunciado da Súmula nº 691/STF.
+    Aduz, em suma, a presença de constrangimento ilegal por excesso de prazo na conclusão da instrução criminal da ação penal à qual responde o paciente, pois ele aguarda preso o seu desenrolar desde 8/11/16.
+    Afirma o impetrante que não deu causa ao aventando excesso de prazo. Esclarece que
+    “só o Juiz de piso e o Promotor de Justiça deram causa ao atraso, este por não apresentar dados para a quebra de sigilo hoje em curso e aquele por não cobrar essa providência do Acusador e fazer, em consequência, com que o processo caminhasse para a fase da pronúncia, encerrando a instrução”.
+    Requer, liminarmente, a concessão da ordem para que a prisão preventiva do paciente seja revogada.
+    Examinados os autos, decido.
+    O caso é de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 deste Supremo Tribunal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    É certo que a jurisprudência da Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia.
+    Transcrevo o teor da decisão ora questionada:
+    “Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido de liminar, impetrado em favor de DEBS ANTÔNIO ROSA - preso desde 08/11/2016, contra acórdão do Tribunal de Justiça do Estado do Pará, que denegou a ordem no writ n.º 0006333-11.2017.8.14.0000, ante a não configuração de excesso de prazo na hipótese.
+    Conforme se extrai dos autos, o Recorrente foi denunciado pela suposta prática do crime descrito no art. 121, §2º, incisos I e IV, do Código Penal. No curso do processo, a autoridade judiciária decretou a prisão preventiva do Paciente, com fundamento na garantia da ordem pública ante a gravidade concreta do crime em apuração.
+    Inconformada com o lapso temporal decorrido, a Defesa Técnica impetrou habeas corpus na Corte estadual, pleiteando o reconhecimento do excesso de prazo e a soltura do Paciente. Contudo, o pleito foi indeferido pelo colegiado local (fls. 133/135).
+    Nas razões da impetração, sustenta-se que há flagrante constrangimento ilegal na hipótese, pois ‘o excesso de prazo, in casu, é tão evidente, que a audiência de instrução e julgamento se realizou no dia 25 (vinte e cinco) do mês de janeiro de 2016 (f. 46/48), desde quando se passaram mais de 160 (cento e sessenta) dias, só aí considerável excesso, diante do que determina o transcrito artigo 412, do CPP’ (fl. 166).
+    Pleiteia-se, assim, ‘seja expedida ordem liminar para que o paciente aguarde em liberdade o julgamento deste writ, em razão do flagrante e desarrazoado excesso de prazo na conclusão do procedimento, ainda que sob medidas cautelares‘ (fl. 19).
+    É o relatório inicial.
+    Passo ao exame do pedido liminar.
+    Na hipótese, apesar das alegações defensivas, observa-se que o Tribunal de origem expressamente consignou que não há indícios de desídia ou omissão na condução do feito, razão pela qual igualmente não há falar em excesso de prazo na formação da culpa.
+    A esse respeito, confira-se o seguinte excerto do julgado (e-STJ, fl. 134):
+    ‘Conforme relatei, o paciente foi preso em 08/11/2016 e, desde então, não verifico nenhuma desídia do juízo e nem paralisação injustificada do trâmite processual, ou seja, não há registro de qualquer evento relevante atribuído ao Poder Judiciário que possa caracterizar constrangimento ilegal e justificar o relaxamento da prisão, ao contrário, entendo que a dilação do prazo ainda se encontra dentro dos limites da razoabilidade que devem nortear esta decisão.’ (Grifo aditado).
+    De fato, a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que o excesso de prazo não decorre da simples soma aritmética dos dias de recolhimento, mas exige a demonstração de que a demora se deve à desídia do magistrado ou da acusação na condução do processo, o que foi expressamente afastado pelo Tribunal local.
+    Nesse sentido:
+    PENAL. PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO. NÃO OCORRÊNCIA.RAZOABILIDADE. APLICAÇÃO DA SÚMULA 21 DESTA CORTE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO ADEQUADA. RISCO À GARANTIA DA ORDEM PÚBLICA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. MODUS OPERANDI. RECURSO NÃO PROVIDO.
+    1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal
+    2. Na hipótese, a prisão preventiva foi adequadamente motivada com base em elementos concretos extraídos dos autos, restando demonstrada a elevada periculosidade do agente e a gravidade dos fatos, além do risco da reiteração delitiva, porquanto o recorrente é acusado ser o mandante do homicídio de um adolescente, atuando, ainda, como chefe do tráfico ílicito de entorpecentes em sua comunidade, apesar de encontrar-se recolhido em unidade de segurança máxima no Estado de Pernambuco.
+    3. Este Superior Tribunal de Justiça já firmou o entendimento de que o modus operandi, os motivos, a repercussão social, entre outras circunstâncias, em crime grave (na espécie, inclusive, hediondo), são indicativos, como garantia da ordem pública, da necessidade de segregação cautelar, dada a afronta a regras elementares de bom convívio social.
+    4. Esta Corte há muito sedimentou o entendimento de que a alegação de excesso de prazo na formação da culpa deve ser analisada à luz do princípio da razoabilidade, sendo que eventual extrapolação dos prazos processuais não decorre da simples soma aritmética. Para ser considerado injustificado o excesso na custódia cautelar, deve a demora ser de responsabilidade da acusação ou do Poder Judiciário, situação em que o constrangimento ilegal pode ensejar o relaxamento da segregação antecipada.
+    5. Não há como reconhecer o direito de relaxamento da prisão, pois não se verifica qualquer desídia do magistrado na condução do processo em questão, que tem tido regular tramitação.
+    6. Eventual demora para a conclusão do feito estaria justificada em razão das peculiaridades do caso concreto, tendo em vista a complexidade do processo, crime grave, com multiplicidade de réus (quatro), e defensores distintos, além de constantes pedidos de relaxamento de prisão e de interposição de recursos. Sessão de julgamento pelo Tribunal do Júri, designada para 23/5/2017 .
+    7. Nos termos da Súmula 21/STJ, pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução 8. Recurso ordinário em habeas corpus não provido. (RHC 83.048/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/05/2017, DJe 19/05/2017; sem grifos no original).
+    Assim, o caso em apreço não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade. Além disso, a medida liminar postulada é de natureza satisfativa, confundindo-se com o próprio mérito da impetração, cuja análise competirá ao órgão colegiado, em momento oportuno.
+    Ante o exposto, INDEFIRO o pedido liminar.
+    Solicitem-se, ao Juízo que processa a ação penal, informações pormenorizadas acerca do trâmite do processo, especialmente em relação à eventual pronúncia do Recorrente.
+    Após, ouça-se o Ministério Público Federal.” (anexo 8 – grifos da autora).
+    Não há como ter-se por desprovida de fundamentação ou teratológica a decisão que entende não haver elementos suficientes, demonstrados de plano, para o deferimento da liminar.
+    Pode e deve o magistrado, ao apreciar o pedido inicial, pautar-se no poder geral de cautela para buscar outros elementos formadores das razões de decidir além daqueles trazidos pela impetração, sem que tanto caracterize constrangimento ilegal, abuso de poder ou teratologia.
+    A pretensão do impetrante é trazer ao conhecimento desta Suprema Corte, de forma precária, questão não analisada, definitivamente, no Superior Tribunal de Justiça, em flagrante intenção de suprimir a instância antecedente.
+    Vale ressaltar, ainda, que o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, justificada apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano. Com maior rigor deve ser tratada a questão, portanto, quando a pretensão formulada for contrária à súmula desta Suprema Corte.
+    Ademais, não vislumbro, salvo melhor juízo, ato configurador de flagrante constrangimento ilegal poro excesso de prazo.
+    Destaco, com efeito, que o lapso temporal transcorrido desde a prisão preventiva do paciente, por si só, não induz à conclusão de que esteja ocorrendo o excesso, sendo pertinente que se aguarde um pedido de informações atualizadas ao juízo de origem a respeito da situação da ação penal à qual ele responde, tendo em vista a existência de diligência formulada pela acusação.
+    Ante o exposto, sem prejuízo do exame mais detido quando do julgamento de mérito, indefiro e liminar requerida.
+    Solicitem-se informações à autoridade coatora e ao Juízo de Direito da Vara Única da Comarca de Anapu/PA a respeito do andamento da Ação Penal nº 0003805-12.2016.8.14.0138.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 3 de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
