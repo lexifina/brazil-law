@@ -1,0 +1,11 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Tocantins, com a seguinte ementa (eDOC-4, p. 51):
+    “AGRAVO REGIMENTAL. VARA DO TRABALHO DE DIANÓPOLIS. JURISDIÇÃO SOBRE O MUNICÍPIO DE ARRAIS. INCOMPETÊNCIA DA JUSTIÇA ESTADUAL PARA JULGAR O PRESENTE FEITO. AUSÊNCIA DE NOVOS ELEMENTOS. RECURSO INTERNO CONHECIDO E IMPROVIDO. 1. A Vara do Trabalho de Dianópolis, no Estado do Tocantins, foi criada pela Lei nº 10.770/2003 e instalada em 14/09/2005. Antes, porém, a sua jurisdição inicial foi ampliada pela Resolução Administrativa nº 19, de 30/08/2005, do Tribunal Regional do Trabalho da Décima Região, passando a contemplar, desde então, o Município de Arraias, dentre outros. 2. Deste modo, ao contrário do que apregoa o recorrente, o Juiz de Direito que conduziu o feito na instância originária não se encontrava investido de jurisdição trabalhista por força do disposto no artigo 112 da Constituição Federal, uma vez que a Vara do Trabalho de Dianópolis possui jurisdição sobre o Município de Arraias. 3. Agravo Regimental não provido. Mantida a decisão que declarou a incompetência da justiça estadual e a nulidade de todos os atos decisórios prolatados pelo juiz singular, determinando, ainda, a remessa dos autos ao juízo da Vara do Trabalho de Dianópolis. ”
+    Contra esta decisão foi interposto recurso extraordinário, com fundamento no art. 102, III, a, da Constituição Federal, alegando-se ofensa ao art. 112, da Constituição Federal.
+    A irresignação não merece prosperar.
+    Sem embargo do teor, manifestado nestes autos, a respeito, abstratamente, da previsão constitucional de competência residual da Justiça Comum (art. 112), a parte Recorrente fundamenta o apelo extremo em argumentos que, a mim, demonstram inconformismo com o deslinde legal do feito, fundado em normas legais (Lei 10.770/2003-TO; Resolução Administrativa 19/2005, TRT da 10ª Região.), o que não é cabível em sede de recurso extraordinário, por demandar o reexame de legislação infraconstitucional.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 932, VIII, CPC, c/c o art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 3 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
