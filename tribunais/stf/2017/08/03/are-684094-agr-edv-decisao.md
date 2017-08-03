@@ -1,0 +1,16 @@
+DECISÃO:
+    1. Trata-se de embargos de divergência interpostos contra acórdão unânime proferido pela Primeira Turma do Supremo Tribunal Federal, sob a minha relatoria, assim ementado:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL QUE NÃO ATACA O FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE PRELIMINAR FUNDAMENTADA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL ALEGADA NOS RECURSOS EXTRAORDINÁRIOS. EXIGÊNCIA DA DEMONSTRAÇÃO.
+    1. A petição de agravo regimental não impugnou o fundamento da decisão agravada. Nesses casos é inadmissível o agravo, conforme orientação do Supremo Tribunal Federal. Precedente.
+    2. A parte recorrente não apresentou preliminar formal e fundamentada de repercussão geral das questões constitucionais discutidas nos recursos extraordinários, o que atrai a incidência do art. 327, § 1º, do RI/STF.
+    3. Agravo regimental a que se nega provimento.”
+    2. As partes embargantes alegam que o acórdão acima transcrito ofendeu “direta e frontalmente o Art. 5º, XXXV, da CF/88, como em caso igual decidiu este SUPREMO TRIBUNAL FEDERAL no RE nº 107.439-6-SP, 1ª Turma – Ementa publicada no DJU-I, de 26-06-86. pg. 10.931, 1ª Coluna, e no RE nº 89.553-GO, 1ª Turma, RTJ 97/1.197, 2ª Coluna”. Fazem relato das questões fáticas e jurídicas discutidas nos autos e requerem a absolvição da condenação imposta pela justiça trabalhista.
+    3. É o relatório. Decido.
+    4. O recurso não pode ser conhecido, uma vez que não preenche requisitos de admissibilidade exigidos pelo CPC/1973 – aplicável ao caso nos termos dos arts. 14 e 1.046 do novo Código (Lei nº 13.105/2015). A propósito da definição da legislação incidente na hipótese, vale registrar que tanto a decisão impugnada como o recurso de embargos datam de período anterior a 18.03.2016, quando entrou em vigor o CPC/2015.
+    5. Dito isso, destaco que o acórdão recorrido não adentrou no mérito dos recursos extraordinários, em face da ausência de preliminar formal e fundamentada da existência de repercussão geral das questões constitucionais discutidas. A jurisprudência firmada por esta Corte à luz do CPC/1973 e do RI/STF é firme, todavia, no sentido de não serem cabíveis embargos de divergência contra acórdão que apenas examina os pressupostos processuais de outro recurso. Veja-se, entre outros, seguintes precedentes: RE 611.405, Rel. Min. Teori Zasvacki; ARE 755.228, Relª Minª Rosa Weber; AI 840.355, Rel. Min. Dias Toffoli; AI 544.577-AgR-EDv, de minha relatoria.
+    6. A título de argumentação complementar, assinalo que o embargante não se desincumbiu do ônus de demonstração analítica da divergência jurisprudencial, que também seria essencial para viabilizar o conhecimento dos seus embargos acerca do tema, uma vez que os paradigmas utilizados não impugnam o fundamento da decisão embargada. Precedentes: AI 388.823-AgR-ED-EDv-AgR, Rel. Min. Ricardo Lewandowski, e AI 767.226-AgR-EDv-AgR, Relª Minª Cármen Lúcia.
+    7. Diante do exposto, nos termos do artigo 335, § 1º, do RI/STF, não admito os embargos de divergência.
+    Publique-se. Intimem-se.
+          Brasília, 03 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
