@@ -1,0 +1,18 @@
+Decisão: Trata-se de inquérito instaurado para apurar supostas irregularidades no convênio nº 700485/2008, celebrado entre a Prefeitura Municipal de Luziânia e o Ministério dos Esportes, com a liberação de recursos públicos federais para o funcionamento de núcleos de esporte recreativo e de lazer e do Programa Esporte e Lazer da Cidade, no valor de R$281.687,87 (duzentos e oitenta e um mil, seiscentos e oitenta e sete reais e oitenta e sete centavos).
+    O procedimento investigativo foi instaurado em virtude de ter o gestor municipal deixado de prestar contas dos recursos federais recebidos em razão do sobredito convênio, o que configuraria, em tese, a prática do crime descrito no art. 1º, VII, do Decreto-Lei nº 201/1967.
+    Com a diplomação do investigado Célio Antônio da Silveira para o exercício do cargo de Deputado Federal, o Juízo Federal da Subseção Judiciária de Luziânia declinou da competência a esta Corte.
+    Os autos foram encaminhados à Procuradoria-Geral da República, que assim se manifestou (fls. 418-419):
+    O prazo para prestação de contas, inicialmente fixado em 02/08/2010, foi prorrogado pelo Ministério dos Esportes.
+    Diante da informação da efetiva prestação de contas pelo Prefeito Municipal, o Ministério Público Federal oficiou o [sic] Diretor do Departamento de Gestão Interna do Ministério do Esporte solicitando que comunicasse eventual desaprovação das contas prestadas, ao tempo em que requereu ao TRF da 1ª Região o arquivamento das Peças de Informação Criminal, ante a ausência de justa causa para a ação penal, o que foi deferido pela decisão de fls. 367/368.
+    (…)
+    O conteúdo trazido pela documentação juntada aos autos não é capaz de alterar a fundamentação da promoção de arquivamento de fls. 364/365, especialmente porque não foi acostado nenhum novo elemento a justificar a investigação perante o STF.
+    Do exposto, o Procurador-Geral da República requer o arquivamento dos autos, observado o disposto no art. 18, do Código de Processo Penal.
+    É o breve relato do essencial.
+    O princípio do monopólio constitucional da titularidade da ação penal pública no sistema jurídico brasileiro somente permite a deflagração do processo criminal por denúncia do Ministério Público (Pet. 4281/DF, rel. Min. CELSO DE MELLO, DJE de 17-8-2009), tendo esta Corte decidido pela incompatibilidade do novo modelo acusatório consagrado pelo artigo 129, inciso I, do texto constitucional com todos os procedimentos que afastavam a titularidade privativa da ação penal pública do Parquet, previstos antes da promulgação da Constituição brasileira de 5 de outubro de 1988 (RTJ, 149/825, Rel. Min. SEPÚLVEDA PERTENCE; HC n67.931/RS, Rel. Min. MOREIRA ALVES, Diário da Justiça, Seção I, 31 ago. 1990).
+    Assim, tendo o Ministério Público requerido o arquivamento no prazo legal, não cabe ação privada subsidiária, ou a título originário (CPP, art. 29; CF, art. 5o, LIX), sendo essa manifestação irretratável, salvo no surgimento de novas provas (HC no84.253/RO, Segunda Turma, Rel. Min. CELSO DE MELLO; Inquérito no2028/BA, Pleno, Rel. Min. ELLEN GRACIE Red. p/ o acórdão Min. JOAQUIM BARBOSA, 28.4.2004, HC 68.540-DF, Primeira Turma, Rel. Min. OCTÁVIO GALLOTTI, DJU, 28 jun. 1991).
+    Diante do exposto, acolho a manifestação do Procurador Geral da República e determino o arquivamento deste inquérito em relação ao investigado Célio Antônio da Silveira, nos termos do art. 3º, I, da Lei 8.038/1990, c/c os arts. 21, XV, e 231, § 4º, do RISTF, ressalvada a hipótese do art. 18 do Código de Processo Penal.
+    Publique-se. Intime-se.
+    Brasília, 3 de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
