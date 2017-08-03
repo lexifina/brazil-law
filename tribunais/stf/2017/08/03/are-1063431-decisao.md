@@ -1,0 +1,25 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Minas Gerais, está assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA DE COBRANÇA – AGENTE DE SEGURANÇA PENITENCIÁRIO – CONTRATO TEMPORÁRIO – PRORROGAÇÃO SUCESSIVA – OFENSA AO ARTIGO 37, II E IX, CR/88 – NULIDADE – ADICIONAL POR LOCAL DE TRABALHO – VERBA DEVIDA E NÃO PAGA – RECURSO PROVIDO.
+    1. O servidor temporário ocupante da função pública de ‘Agente de Segurança Penitenciário’ que exerça atividade permanente junto à população carcerária de sentenciados e adolescentes infratores, expondo-se a situações de desgaste psíquico ou de risco de agressão física, faz jus ao recebimento do adicional por local de trabalho previsto no artigo 1º da Lei nº 11.717/94, até o advento da Lei nº 21.333/2014.
+    2. Recurso provido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Leis estaduais nºs 11.717/94 e 21.333/2014), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de Minas Gerais, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “Assim, certo é que, se o trabalhador preencher os requisitos legais, fará jus à percepção de adicional de local de trabalho, prevendo as redações originais dos artigos 1º e 6º da citada Lei Estadual nº 11.717/94, vigente ao tempo de ajuizamento da ação:
+    …...................................................................................................
+    Registra-se, por oportuno, que igual raciocínio não se aplica aos servidores contratados temporariamente para o exercício da função pública de ‘Agente de Segurança Penitenciário’, os quais, por não pertencerem a quadro de carreira, não são alcançados pela vedação do artigo 6º da Lei nº 11.717/94 (redação original), a qual deve ser interpretada restritivamente, à luz do brocardo jurídico ‘exceptiones suntstrictissimoe interpretationis’.
+    Logo, não se olvidando do disposto no § 1º do artigo 1º da Lei nº 11.717/94, o provimento do recurso é medida de rigor, não socorrendo o apelado os precedentes citados em incidente de uniformização de jurisprudência, que dizem respeito aos servidores efetivos, hipótese distinta do caso do apelante.
+    Deste modo, os servidores temporários possuem o direito ao citado adicional, ao menos até o advento da Lei Estadual nº 21.333, de 26/06/2014, que também deu nova redação ao artigo 6º da Lei Estadual 11.717/94:”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 961.580/MG, Rel. Min. LUIZ FUX – ARE 968.294/MG, Rel. Min. ROSA WEBER – ARE 971.483/MG, Rel. Min. DIAS TOFFOLI):
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AGENTE DE SEGURANÇA PENITENCIÁRIO. CONTRATO TEMPORÁRIO. ADICIONAL DE LOCAL DE TRABALHO. LEI ESTADUAL 11.717/1994. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. MATÉRIA DIVERSA DA TRATADA NO ARE 646.000 (TEMA 551).
+    1. Nos termos da orientação sedimentada na Súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em debate.
+    2. Agravo regimental a que se nega provimento.”
+    (ARE 918.037-AgR/MG, Rel. Min. EDSON FACHIN)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 03 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
