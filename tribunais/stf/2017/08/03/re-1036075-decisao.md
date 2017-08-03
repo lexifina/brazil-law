@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. NÃO INCIDÊNCIA DO INSTITUTO DA DECADÊNCIA DO DIREITO ALEGADO. SUBTETO REMUNETATÓRIO FIXADO EM LEI ESTADUAL DE Nº 7.348/2012. INCONSTITUCIONALIDADE. AFRONTA AO ART. 37, INC XI, CF/88. SEGURANÇA CONCEDIDA. DECISÃO POR MAIORIA DE VOTOS.
+    1. A partir da Emenda Constitucional nº 41/2003, não é mais possível que o legislador infraconstitucional estabeleça limites remuneratórios.
+    2. Declaração de inconstitucionalidade incidente. Efeitos ex tunc e inter partes.
+    3. Concedida a segurança, por maioria de votos, em favor da impetrante para, declarando incidentalmente a inconstitucionalidade do art. 2° da Lei Estadual n.° 7.348/2012, determinando, ato contínuo, que seja aplicado como teto para a remuneração da impetrante o subsídio percebido pelo deputado estadual” (pág. 43 do documento 2).
+    Neste RE, fundado no art. 102, III, a e d, da Constituição, alegou-se, em suma, violação aos arts. 97 e 169, § 1°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o art. 169, § 1°, da Constituição Federal não foi prequestionado. Desse modo, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+    Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Nesse sentido, cito o ARE 832.707-AgR/RJ, de relatoria do Ministro Luiz Fux, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. COBRANÇA DE ENERGIA ELÉTRICA. DEMANDA CONTRATADA. TARIFAÇÃO. PREQUESTIONAMENTO. ALEGAÇÃOTARDIA. INVIABILIDADE. 1. O prequestionamento da questão constitucional é requisito indispensável à admissão do recurso extraordinário. A Súmula 282 do STF dispõe, verbis: ‘É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada’. 2. A alegação tardia da matéria constitucional, só suscitada em sede de embargos de declaração, não supre o requisito do prequestionamento. Precedentes: ARE 693.333-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 19/9/2012, e AI 738.152- AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, Dje 8/11/2012. 3. In casu, o acórdão recorrido assentou: ‘Agravo Inominado. Art. 557 do C.P.C. Obrigação de não Fazer c. c. Repetição e Indenização. Cobrança de energia elétrica. Tarifação por fator de demanda de potência (demanda contratada). Improcedência’. 4. Agravo regimental DESPROVIDO’” (grifei).
+    Ademais, com relação à matéria de fundo, os Ministros desta Corte, no RE 576.336-RG/RO (Tema 81), de minha relatoria, manifestaram-se pela inexistência de repercussão geral da controvérsia referente à questão envolvendo subteto estadual como parâmetro para limite remuneratório de servidores públicos estaduais. Por oportuno, transcrevo a ementa do referido julgado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. AUDITOR FISCAL. ESTORNO NA REMUNERAÇÃO. SUBSÍDIO DO GOVERNADOR. EMENDA CONSTITUCIONAL 41/2003. SUPERVENIÊNCIA DA EMENDA CONSTITUCIONAL 47/2005. SUBSÍDIO DO DESEMBARGADOR. INEXISTÊNCIA DE REPERCUSSÃO GERAL. Questão restrita ao interesse regional e das partes.”
+    Por fim, ressalta-se que o presente caso não trata de acórdão que tenha julgado válida lei local contestada em face de lei federal, o que afasta o cabimento de recurso extraordinário com base na alínea d do art.102, III, da Constituição.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 3 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
