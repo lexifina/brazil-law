@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime previsto no artigo 33 da Lei nº 11.343/06. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação do artigo 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão recorrido.
+    2. Eis os fundamentos da decisão impugnada:
+    Em fase idêntica, GILVAN também confirmou que uma das armas encontradas é de sua propriedade. Esclareceu que veio do Ceará e adquiriu a arma neste estado porquanto iria trabalhar como vigilante. Declarou que pediu para "Be" guardá-la em sua casa. Quanto às drogas, negou a prática delitiva. Afirmou que não é usuário de drogas e nem traficante. Negou qualquer participação com o roubo praticado na casa lotérica (mídia de fls. 206).
+    […]
+    O  Policial  Militar  DANIEL estava em cumprimento de mandado de busca domiciliar para averiguar denúncias de posse de arma de fogo. Deslocou-se ao local e o proprietário do imóvel "CEARÁ" permitiu a entrada e apontou uma arma que estava no quarto. Constatou que se tratava de um revólver calibre 38, municiado e com a numeração suprimida. Localizou também mais vinte e cinco munições do mesmo calibre. Soube que no outro quarto dormia GILVAN. Em busca pessoal nada foi encontrado. Localizou em um calça duas munições de calibre 38. Ressaltou que GILVAN assumiu a propriedade. Juntamente com CEARÁ e GILVAN deslocaram-se até a residência de ELISANDRO. No local, encontraram duas armas, de propriedade de ELISANDRO, além da importância de R$ 666,00 e algumas porções de entorpecentes (fls. 10/11 e mídia de fls. 206).
+     Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, versando, detalhadamente, sobre as razões pelas quais manteve a sentença, deixando clara a existência de provas aptas a embasar a condenação. Somente pela análise do conteúdo fático do processo seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Conheço do agravo interposto por Gilvan Soares da Silva Costa e o desprovejo.
+    4. Publiquem.
+Brasília, 3 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
