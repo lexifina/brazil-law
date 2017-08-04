@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão proferido pela 3ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (e-DOC 5, p. 467):
+    “AGRAVO EM AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA CONTRA INSTITUIÇÕES DE ENSINO SUPERIOR. ATRASO NA EXPEDIÇÃO DO DIPLOMA. PLEITO LIMITADO AOS DANOS MORAIS. INEXISTÊNCIA DE PEDIDO DE OBTENÇÃO DO CERTIFICADO. ESFERA JURÍDICA DA UNIÃO OU DE SEUS ENTES NÃO AFETADA. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA Nº 1.344.771/PR. COMPETÊNCIA DA JUSTIÇA LOCAL. PRECEDENTE DO STJ.
+    O STJ, consoante recente precedente, vem distinguindo as ações que visam ao registro do diploma, objeto do RESP repetitivo, daquelas em que visam unicamente à indenização por dano moral, como o presente caso, assentando que nestas inexiste interesse da União (CC 133.851/PR).
+    Agravo improvido.”
+    O Estado do Paraná interpôs recurso extraordinário, com fundamento no artigo 102, III, “a”, do permissivo constitucional, aduzindo ofensa ao artigo 109, I, da Constituição da República, por entender que haveria ofensa à competência federal, cabendo à Justiça Federal analisar e julgar o feito (e-DOC 5, p. 517).
+    A União apresentou contrarrazões ao recurso extraordinário (e-DOC 5, p. 553).
+    É o relatório. Decido.
+    Considera-se presumida a repercussão geral sempre que o acórdão recorrido contrariar súmula ou jurisprudência dominante do Supremo Tribunal Federal, nos termos do art. 1.035, §3º, do Código de Processo Civil.
+    A irresignação merece prosperar, eis que a decisão recorrida contraria jurisprudência dominante do Supremo Tribunal Federal, consubstanciada na seguinte tese: tendo em vista que a Vizivali integra o sistema federal de educação, patente é a existência de interesse da União, razão pela qual a competência para julgar o feito é da Justiça Federal. Nesse sentido, os precedentes: RE 698.440, Rel. Min. Luiz Fux, 1ª Turma, DJ-e 02/10/2012; RE 700.936, Rel. Min. Cármen Lúcia, 2ª Turma, DJ-e 11/04/2014; RE 762.119, Rel. Min. Celso de Mello, 2ª Turma, DJ-e 10/10/2014; RE 692.456, Rel. Min. Ricardo Lewandowski, DJe 28/06/2013; ARE 750.186, Rel. Min. Gilmar Mendes, 2ª Turma, DJ-e 27/08/2014; RE 754.849, Rel. Min. Dias Toffoli, 2ª Turma, DJ-e 27/05/2015; RE 509.442, Rel. Min. Ellen Gracie, 2ª Turma, DJ-e 20/08/2010; RE 748.161, Rel. Min. Gilmar Mendes, 2ª Turma, Dj-e 17/04/2015; RE 687.361, Rel. Min. Dias Toffoli, 1ª Turma, DJ-e, 11/06/2015; AgRg no RE 691.035, 2ª Turma, Rel. p/ o acórdão Min. Ricardo Lewandowski, Dj-e 18/09/2014; Ag no RE 702.279, Rel, Min. Ricardo Lewandowski, 2ª Turma, Dj-e 06/11/2014; AgRg no RE 740.935, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJ-e 06/11/2014.
+    Ante o exposto, dou provimento ao recurso extraordinário para reformar a decisão recorrida, nos termos do artigo 932, V, “b” do Código de Processo Civil, e determino o envio dos autos à Justiça Federal para julgar como de direito.
+    Publique-se.
+    Brasília, 4 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
