@@ -1,0 +1,16 @@
+DECISÃO
+DOCUMENTOS – JUNTADA.
+AUTOS DE INQUÉRITO – DESMEMBRAMENTO – AÇÕES CAUTELARES – CÓPIA – ENCAMINHAMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    Este inquérito, distribuído a Vossa Excelência em 31 de maio de 2017, veio ao Gabinete acompanhado das ações cautelares a ele relacionadas: nº 4.326 – buscas e apreensões –, nº 4.327 – prisões preventivas e cautelares diversas – e nº 4.334 – quebra de sigilos fiscal e bancário. Foi encaminhada, também, cópia das ações cautelares nº 4.315 – no âmbito da qual deferida ação controlada – e nº 4.316 – referente ao implemento de interceptações telefônicas. Estas foram autuadas, respectivamente, sob o nº 4.335 e nº 4.336.
+    Vossa Excelência, em 21 de junho último, determinou o desmembramento destes autos, com reprodução integral e remessa ao Tribunal Regional Federal da 3ª Região, órgão competente considerado o local da suposta prática dos delitos imputados – São Paulo –, para sequência quanto aos investigados que não detêm prerrogativa de foro – Andrea Neves da Cunha, Frederico Pacheco de Medeiros e Mendherson Souza Lima.
+    Por meio da petição/STF nº 40.507/2017, o Juízo da Sexta Vara Federal Criminal da Seção Judiciária de São Paulo postula o envio de cópia das ações cautelares nº 4.326, nº 4.327, nº 4.334, nº 4.335 e nº 4.336. Aduz ter o Ministério Público Federal apontado imprescindível a providência para subsidiar a formação da opinião.
+    Mediante a petição/STF nº 38.265/2017, a delegada de Polícia Federal Graziela Machado da Costa e Silva encaminha, para juntada aos autos, o Memorando nº 017/2017, da Superintendência Regional de Polícia Federal em Minas Gerais, acompanhado de procuração e petição do advogado de Frederico Pacheco de Medeiros, na qual solicitou à autoridade policial a designação de data e hora para devolver a quantia de R$ 1.520.100,00; o respectivo auto de apresentação e apreensão; o Ofício nº 6.520/2017-SR/DPF/MG, endereçado a agência da Caixa Econômica Federal; a guia de depósito do referido numerário; e mídia digital contendo as fotos da apreensão.
+    Anoto a existência de certidão emitida pela Seção de Processos Originários Criminais, à folha 661, a revelar a extração de cópia dos autos do inquérito e dos processos alusivos às ações cautelares nº 4.326, nº 4.327, nº 4.334, nº 4.335 e nº 4.336 e o envio à Seção de Recebimento e Distribuição de Originários, em 22 de junho último, para cumprimento da decisão de Vossa Excelência.
+    2. Juntem aos autos a documentação e a mídia digital encaminhadas pela Polícia Federal.
+    3. Consoante consignado nas informações, certidão constante do processo revela ter a Seção de Processos Originários Criminais procedido à extração de cópia destes autos e dos processos referentes às ações cautelares nº 4.326, nº 4.327, nº 4.334, nº 4.335 e nº 4.336, bem como à remessa à Seção de Recebimento e Distribuição de Originários, em 22 de junho de 2017.
+    4. Certifique a Secretaria Judiciária o cumprimento da decisão relativa ao encaminhamento, ao Juízo competente, da cópia das ações cautelares vinculadas a este inquérito.
+    5. Publiquem.
+Brasília, 4 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
