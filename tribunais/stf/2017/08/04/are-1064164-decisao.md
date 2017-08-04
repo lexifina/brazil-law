@@ -1,0 +1,30 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Paulo Celso Guarnieri e outros contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “APELAÇÃO CÍVEL – SERVIDORES PÚBLICOS MUNICIPAIS – APOSENTADOS – GRATIFICAÇÃO DE ATIVIDADE – Lei Municipal nº 15.364/11 – Extensão aos inativos – Inadmissibilidade – Verba ‘pro labore faciendo’ – Precedentes – Recurso desprovido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário em questão não se revela viável.
+    Cumpre ressaltar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local, sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal “a quo”, ao proferir a decisão questionada, fundamentou suas conclusões em interpretação de direito local:
+    “Dispõe a Lei Municipal nº 15.364/11:
+    ‘Art. 1º. Fica instituída a Gratificação de Atividade, a ser concedida mensalmente aos integrantes das carreiras dos níveis básico e médio do Quadro de Pessoal da Prefeitura do Município de São Paulo, instituídas, respectivamente,pelas Leis nº 13.652, de 25 de setembro de 2003, e nº 13.748,de 16 de janeiro 2004, e legislação subsequente, bem como aos titulares de cargos anteriormente correspondentes aos transformados e reenquadrados pelas referidas leis, não optantes pelos respectivos planos de carreiras, que estejam no efetivo exercício de suas atribuições, mediante a aferição de seu desempenho individual e do desempenho institucional, o alcance de metas e a apresentação de títulos. (…).’
+    …...................................................................................................
+    Como é cediço, a doutrina pátria divide as vantagens pagas aos servidores em adicionais e gratificações. As primeiras são retribuições decorrentes do tempo de serviço, da natureza especial da função ou do regime especial de trabalho, enquanto as segundas referem-se ao pagamento de serviços prestados em situações anormais ou em razão de situações individuais do servidor.
+    A Gratificação de Atividade, portanto, foi corretamente nomeada como gratificação pelo legislador, pois a lei não exige apenas que os beneficiados sejam integrantes das carreiras dos níveis básico e médio, mas também requer prova de efetivo exercício de suas atribuições, avaliação de desempenho individual e institucional, alcance de metas e apresentação de títulos”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito de ambas as Turmas desta Suprema Corte:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. GRATIFICAÇÃO POR ATIVIDADE. EXTENSÃO AOS INATIVOS. NÃO POSSIBILIDADE. LEI COMPLEMENTAR MUNICIPAL Nº 15.364/2011. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 04.9.2012.
+    O Tribunal a quo decidiu que a Gratificação por Atividade aos integrantes das carreiras de níveis básico e médio depende de verificação de metas e realização de curso de reciclagem para sua concessão, razão pela qual não seria possível sua extensão aos servidores inativos. Para divergir desse entendimento, seria necessária a prévia análise da legislação infraconstitucional aplicável à espécie – Lei Complementar Municipal nº 15.364/2011, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal.
+    As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    Agravo regimental conhecido e não provido.”
+    (ARE 724.094-AgR/SP, Rel. Min. ROSA WEBER)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXTENSÃO DE GRATIFICAÇÃO A SERVIDORES INATIVOS. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO.
+    I – Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar norma infraconstitucional local (Lei Complementar municipal 15.364/2011), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes.
+    II – Agravo regimental improvido.”
+    (ARE 751.284-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no  § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 04 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
