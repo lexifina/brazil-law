@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – SERVIDOR INATIVO – PROVENTOS – REAJUSTE – LEI ESTADUAL Nº 15.150/2005 – INCONSTITUCIONALIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado do Goiás concedeu a segurança para determinar a revisão da pensão na forma prevista na Lei estadual nº 15.150/05. No extraordinário, o recorrente aponta a violação dos artigos 5º, incisos XXXV e LV, 18, 37, cabeça, 40, cabeça e § 8º, 93, inciso IX e 201, da Constituição Federal. Argui a nulidade do acórdão recorrido por negativa de prestação jurisdicional. Discorre sobre a inconstitucionalidade da Lei estadual nº 15.150/2005. Sustenta a autonomia do Estado para a determinação do índice de reajuste do benefício. Afirma a inaplicabilidade do regime próprio de previdência social aos notários e registradores.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, o Supremo, na ação direta de inconstitucionalidade nº 4.639/GO, da relatoria do ministro Teori Zavascki, assentou a inconstitucionalidade integral da Lei 15.150/2005, do Estado de Goiás, por meio da qual foi estabelecido modelo de previdência extravagante, destinado a beneficiar agentes não remunerados pelos cofres públicos. Concluiu pela violação aos artigos 40, 201 e 24, inciso XII, da Carta da República.
+    Na oportunidade, buscando a preservação das situações jurídicas já consolidadas, determinou-se a não incidência dos efeitos da decisão em face dos aposentados e pensionistas cujos requisitos para a concessão dos benefícios tenham sido implementados até a data de publicação do julgamento.
+    O recorrido é aposentado, como titular de cartório, anteriormente à publicação da citada ação direta de inconstitucionalidade. Observe-se o enquadramento na hipótese delineada na modulação dos efeitos.
+    4. Diante da sedimentação do entendimento, ressalvada a óptica pessoal, nego seguimento ao extraordinário.
+    5. Publiquem.
+Brasília, 7 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
