@@ -1,0 +1,25 @@
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. PROCESSUAL CIVIL. SINDICATO. LEGITIMIDADE. REGISTRO NO MINISTÉRIO DO TRABALHO E EMPREGO. RECURSO CONTRA ACÓRDÃO DO STJ. CONTROVÉRSIA CONSTITUCIONAL SURGIDA NA INSTÂNCIA ORDINÁRIA. INADMISSIBILIDADE DO RECURSO. AGRAVO INTERNO PREJUDICADO. RECURSO EXTRAORDINÁRIO DESPROVIDO.
+    DECISÃO: Trata-se de agravo interno interposto pelo SINDICATO DOS SERVIDORES DE APOIO À ADMINISTRAÇÃO FAZENDÁRIA DO ESTADO DO MATO GROSSO DO SUL SINDAFAZ – MS contra decisão de minha relatoria, assim ementada:
+    “RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. SINDICATO. LEGITIMIDADE. REGISTRO NO MINISTÉRIO DO TRABALHO E EMPREGO. NECESSIDADE. RECURSO PROVIDO.”
+    Inconformada com a decisão supra, a parte agravante interpõe o presente recurso, alegando, em síntese, que:
+    "(...) há decisão específica do próprio STF com relação à agravante, analisando questão processual idêntica a ventilada neste agravo interno, devendo o mesmo ser provido, até porque registro sindical do agravante foi deferido e comprovado nos autos, demonstrando justamente o atendimento ao princípio da unicidade sindical.
+    Com efeito, o caso do agravante está amparado justamente em decisão desta própria Primeira Turma, que por unanimidade negou provimento ao recurso do Estado de MS no RE 370.834, cuja situação é idêntica à presente (mesmas partes)." (doc. 11, pág. 5)
+    RECONSIDERO a decisão agravada, tornando-a sem efeito.
+    Passo ao reexame do recurso.
+    Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “ADMINISTRATIVO. SINDICATO. LEGITIMIDADE ATIVA. MANDADO DE SEGURANÇA COLETIVO. PERSONALIDADE JURÍDICA ADQUIRIDA COM O REGISTRO NO CARTÓRIO PRÓPRIO. ARQUIVO DO ESTATUTO DO SINDICATO NO MINISTÉRIO DO TRABALHO É INDIFERENTE PARA A SUA ATUAÇÃO COMO SUBSTITUTO PROCESSUAL. PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL – RE 370.834/MS, REL. MIN. MARCO AURÉLIO, DJe 26.09.2011. NÃO CONFIGURAÇÃO DE DECADÊNCIA. OBSERVÂNCIA DO PRAZO DE 120 DIAS A CONTAR DA CIÊNCIA INEQUÍVOCA DO ATO IMPUGNADO. PRECEDENTE: MS 8.192/DF, REL. MIN. ARNALDO ESTEVES LIMA, DJU 26.06.2006. FALTA DE PREQUESTIONAMENTO DO ART. 460 DO CPC. SÚMULA 211/STJ. AGRAVO REGIMENTAL DO ESTADO DO ESTADO DE MATO GROSSO DO SUL A QUE SE NEGA PROVIMENTO.
+    1. O Supremo Tribunal Federal, ao apreciar a questão referente à legitimidade ativa ad causam das entidades sindicais, por ocasião do no julgamento do RE 370.834/MS, relatado pelo eminente Ministro MARCO AURÉLIO, afirmou ser suficiente o registro no Cartório de Registro de Títulos e Documentos e Registro Civil das Pessoas Jurídicas para que seja reconhecida a personalidade jurídica do Sindicato, sendo mera formalidade o registro junto ao Ministério do Trabalho e Emprego.
+    2. Conforme o entendimento acolhido, o Sindicato adquire sua personalidade jurídica no momento de seu registro no Cartório de Registro de Títulos e Documentos e Registro Civil das Pessoas Jurídicas, não sendo necessário o registro junto ao Ministério do Trabalho para possuir capacidade postulatória.
+    3. O prazo decadencial para a impetração de Mandado de Segurança começa a correr da data em que o servidor tem conhecimento do ato lesivo ao seu direito líquido e certo, a ser amparado pela via do mandamus, ou seja, do conhecimento inequívoco do ato.
+    4. Agravo Regimental do Estado de Mato Grosso do Sul a que se nega provimento.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, LXX, b, e 8º, I, II e III, da Constituição Federal.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Esta Corte já firmou entendimento no sentido de que só cabe recurso extraordinário contra acórdão do Superior Tribunal de Justiça, proferido no julgamento do recurso especial, quando a questão constitucional objeto da controvérsia for diversa da decidida pela instância ordinária. Assim, o apelo extremo só será cabível quando a suposta violação constitucional tiver sido, originariamente, apreciada pela Corte Especial. Nesse sentido, as seguintes decisões, entre outras: RE 750.300-ED, Rel. Min. Celso de Mello, DJe de 6/9/2013, ARE 644.906-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 12/4/2012, que possui a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE ACÓRDÃO DO STJ. INVIABILIDADE. AUSÊNCIA DE QUESTÃO DIVERSA DA DECIDIDA PELA INSTÂNCIA ORDINÁRIA. AGRAVO IMPROVIDO. I – Somente se admite recurso extraordinário de decisão do Superior Tribunal de Justiça se a questão constitucional impugnada for nova. Assim, a matéria constitucional impugnável via RE deve ter surgido, originariamente, no julgamento do recurso especial. II – Agravo regimental improvido.”
+    Ex positis, RECONSIDERO a decisão agravada, julgo PREJUDICADO o agravo interno e DESPROVEJO o recurso extraordinário, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 7 de agosto de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
