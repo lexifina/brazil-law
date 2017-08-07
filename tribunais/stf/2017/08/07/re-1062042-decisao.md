@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Darliane Goncalves Silva. Aparelhado o recurso na afronta aos arts. 1º, III, e 5º da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As alegações de afronta aos dispositivos constitucionais apontados não foram analisadas pela instância a quo, tampouco ventiladas em embargos de declaração para satisfazer o requisito do prequestionamento. Aplicável, na hipótese, o entendimento jurisprudencial vertido nas Súmulas 282 e 356/STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão suscitada” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”. Nesse sentido, o AI 743.256-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.3.2012 e o AI 827.894-AgR/RJ, Rel. Min. Marco Aurélio, 1ª Turma, unânime, DJe 07.11.2011, cuja ementa transcrevo:
+    "RECURSO EXTRAORDINÁRIO prequestionamento CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé".
+    Ainda que não se ressentisse o recurso quanto ao óbice apontado, melhor sorte não colheria, porquanto dirimida a questão pelas instâncias de origem com base na legislação infraconstitucional. Compreensão diversa do entendimento adotado demandaria o exame prévio das leis ordinárias aplicáveis, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 07 de agosto de 2017.
+Ministra Rosa Weber
+Relatora
