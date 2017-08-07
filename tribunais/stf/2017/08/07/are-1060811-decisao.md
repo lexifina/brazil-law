@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, interposto em face de acórdão da Quarta Turma do Tribunal Superior do Trabalho, sob o fundamento de que o recurso encontra óbice na Súmula 279 desta Corte.
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, ofensa ao art. 114, I, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Esta Corte tem consignado, de forma pacífica na sua jurisprudência, não ser admissível o recurso extremo quando houver a necessidade de reexaminar o conjunto fático-probatório da pretensão debatida. Desse modo, o tribunal a quo, acertadamente, decidiu a questão aplicando o enunciado da Súmula 279 desta Corte. Nesse sentido:
+    “EMENTA DIREITO DO TRABALHO. EMPREGADA PÚBLICA MUNICIPAL. MÉDICA PLANTONISTA. ADMISSÃO EM CONCURSO PÚBLICO. AUSÊNCIA DE VÍNCULO ESTATUTÁRIO. A COMPETÊNCIA PARA O PROCESSAMENTO E JULGAMENTO DAS AÇÕES ORIUNDAS DE RELAÇÃO DE TRABALHO É DA JUSTIÇA DO TRABALHO, EM CONFORMIDADE COM O DISPOSTO NO ARTIGO 114, INCISO I, DA CONSTITUIÇÃO FEDERAL. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. ACÓRDÃO RECORRIDO PUBLICADO EM 13.11.2013. 1. O entendimento adotado pela Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. Entender de modo diverso demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido” (RE 882.216 AgR/SP, Relatora Ministra Rosa Weber, Primeira Turna, grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 7 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
