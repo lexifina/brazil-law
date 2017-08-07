@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal Regional Federal da 2ª Região confirmou o entendimento do Juízo quanto à improcedência do pedido de extensão aos inativos da gratificação pró-labore no mesmo patamar pago aos servidores da ativa. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, cabeça e inciso I e 40, § 8º, da Constituição Federal. Diz terem as disposições contidas na Emenda Constitucional nº 43/02 implicado ofensa ao princípio da isonomia. Aponta a ilegalidade da retirada da rubrica do vencimento básico percebido.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    Verifica-se, da leitura do disposto acima, que as Leis 10.549/2002 e 10.910/2004, ao disporem sobre o pró-labore devido aos Procuradores da Fazenda Nacional, estipularam um percentual máximo de 41% sobre o vencimento básico para os servidores ativos, de acordo com critérios de avaliação de desempenho individual e institucional, e condicionaram a incorporação da gratificação aos proventos de aposentadoria ao seu prévio recebimento pelo período de sessenta meses.
+    Por seu turno, o art. 7º, caput, da Lei 10.549/2002 determinou que não se aplicaria o pró-labore relativamente às aposentadorias e pensões concedidas até a data de publicação daquele diploma legal, o que é o caso da autora, que se aposentou em 08/09/1981 (fl. 36).
+    Com o advento da Lei 10.909/2004, que reestruturou a carreira de Procurador da Fazenda Nacional, foi estendido o pagamento do pró-labore aos aposentados e pensionistas, nos seguintes termos:
+    [...]
+    Não existe qualquer irregularidade na fixação de um percentual diferenciado de pagamento do pró-labore para inativos, uma vez que a gratificação foi instituída com o objetivo de aperfeiçoar a qualidade dos serviços, sendo devida ao servidor de acordo com a avaliação de desempenho individual e do alcance de metas de desempenho institucional.
+    Haveria uma relação entre a concessão da gratificação e a produtividade do servidor, tornando inviável o cálculo da vantagem no que se refere a aposentados e pensionistas, uma vez que, nesses casos, não há desempenho funcional a ser avaliado.
+    Observe-se, ainda, que o Decreto 5.189/2004 veio a regulamentar os critérios de avaliação individual e institucional para o recebimento do pró-labore, de modo que estaria afastada qualquer alegação quanto a um eventual caráter genérico da gratificação.
+    Não procede o argumento de que teria havido a redução dos proventos da autora em razão do advento da Lei 10.549/2002, uma vez que os documentos de fls. 32/35 não indicam o decréscimo de seus vencimentos após a supressão da gratificação pró-labore.
+    Vale registrar que o ofício de fl. 76 informa que, após o advento da Lei 10.909/2004, passou a autora a perceber a referida gratificação no percentual de 30% do valor máximo a que o servidor faria jus na atividade.
+    À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No mais, a questão foi decidida sobre a óptica da legislação de regência. Assim, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 7 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
