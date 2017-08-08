@@ -1,0 +1,11 @@
+Trata-se de agravo regimental interposto contra decisão da então relatora, Ministra Cármen Lúcia, que negou seguimento ao recurso extraordinário, sob o fundamento de que a apreciação do pleito recursal demandaria a interpretação da legislação infraconstitucional aplicável à espécie (Leis estaduais 331/2002 e 339/2002), o que ensejou a incidência da Súmula 280/STF.
+    O agravante sustenta, em suma, que o recurso extraordinário prescinde do reexame de normas locais, o que afasta a aplicação da Súmula 280/STF.
+    É o relatório necessário. Decido.
+    Bem reexaminados os autos, verifico que, após a decisão agravada, esta Corte reconheceu a repercussão geral da matéria discutida no presente recurso extraordinário no julgamento do RE 905.357-RG/RR (Tema 864), de relatoria do Ministro Teori Zavascki, cuja ementa segue transcrita:
+    “ADMINISTRATIVO E CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. ESTADO DE RORAIMA. SERVIDORES PÚBLICOS. REVISÃO GERAL ANUAL. ÍNDICE DE 5%. PREVISÃO NA LEI DE DIRETRIZES ORÇAMENTÁRIAS (LEI ESTADUAL 339/02). AUSÊNCIA DA DOTAÇÃO ORÇAMENTÁRIA CORRESPONDENTE NA LEI ORÇAMENTÁRIA DO RESPECTIVO ANO. EXISTÊNCIA OU NÃO DE DIREITO SUBJETIVO. REPERCUSSÃO GERAL CONFIGURADA. 1. Possui repercussão geral a controvérsia relativa à existência ou não de direito subjetivo a revisão geral da remuneração dos servidores públicos por índice previsto apenas na Lei de Diretrizes Orçamentárias, sem correspondente dotação orçamentária na Lei Orçamentária do respectivo ano. 2. Repercussão geral reconhecida”.
+    Assim, tendo em vista a identidade entre a questão debatida nestes autos e a que será julgada no Tema 864 da repercussão geral, impõe-se a reconsideração da decisão agravada para submissão deste recurso extraordinário ao regime da repercussão geral.
+    Isso posto, com base no art. 317, § 2°, do Regimento Interno do Supremo Tribunal Federal, reconsidero a decisão agravada, julgo prejudicado o agravo regimental e determino a devolução destes autos à origem a fim de que seja observado o disposto no art. 1.036 do Código de Processo Civil, dado que este recurso extraordinário trata de matéria já submetida à sistemática da repercussão geral no RE 905.357-RG/RR (Tema 864).
+    Publique-se.
+    Brasília, 8 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
