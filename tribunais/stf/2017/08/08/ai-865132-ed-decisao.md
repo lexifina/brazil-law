@@ -1,0 +1,16 @@
+Trata-se de embargos de declaração opostos contra decisão que negou seguimento ao agravo de instrumento, em razão da incidência das Súmulas 283, 279 e 454 (volume eletrônico 4).
+    Sustenta a parte embargante que a decisão embargada não se manifestou quanto à ausência de qualquer peça essencial à formação do instrumento de agravo, o que inviabiliza a aplicação da Súmula/STF 283, apontando a interposição do recurso especial, conforme cópia que faz juntar nestes embargos.
+    Afirma, também, que a decisão é omissa na medida em que não se manifestou quanto às violações constitucionais suscitadas pela recorrente. (volume eletrônico 9).
+    É o relatório necessário. Decido.
+    Ao contrário do alegado nas razões deste agravo, não existem os vícios apontados.
+    Em primeiro lugar, o agravo de instrumento foi interposto na vigência do Código de Processo Civil de 1973 (pág. 2 do volume eletrônico 1), devendo-se aplicar, no seu julgamento, as regras do art. 544 sem as alterações da Lei 12.322/10. Assim, além das peças obrigatórias, deveriam instruir o agravo, aquelas necessárias “ao exato conhecimento das questões discutidas”, nos termos da Súmula/STF 288, devendo suportar os consectários da decisão decorrentes da sua omissão.
+    Neste sentido, esta Corte Suprema firmou entendimento no sentido de que cabe à parte agravante o dever de zelar pela correta formação do processo. Nesse sentido, menciono julgados de ambas as Turmas desta Corte:
+    “AGRAVO DE INSTRUMENTO. FORMAÇÃO DEFICIENTE. AUSÊNCIA DE CÓPIAS DE PEÇAS OBRIGATÓRIAS. Incumbe à parte agravante indicar as peças a ser trasladadas e também fiscalizar a correta formação do instrumento, por cuja deficiência responde, não se permitindo sua complementação após a subida dos autos ao Supremo Tribunal Federal. Agravo regimental desprovido (AI 625.391-AgR/MG, Rel. Min. Ayres Britto)”.
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PEÇAS DE TRASLADO OBRIGATÓRIO. AUSÊNCIA. SÚMULA N. 288 DO SUPREMO TRIBUNAL FEDERAL. INOBSERVÂNCIA. REGULARIZAÇÃO. IMPOSSIBILIDADE. 2. Ausência de cópia da certidão de intimação da decisão de admissibilidade e respectiva juntada do mandado cumprido. Óbice ao conhecimento do agravo de instrumento. Súmula n. 288 do STF. 3. Ônus exclusivo da parte agravante de fiscalizar a correta formação do instrumento, sendo tardia a tentativa de regularizá-lo quando os autos já se encontrem no Tribunal ad quem . Agravo regimental a que se nega provimento” (AI 640.862-AgR/RS, Rel. Min. Eros Grau).
+    Quanto ao mais, o recurso extraordinário foi interposto em razão da suposta violação aos arts. 7°, XXVI, e 8°, III, da Constituição Federal e, como apontado na decisão embargada, para que o recurso extraordinário prosperasse, ou seja, para a verificação da alegada violação aos arts. 7°, XXVI, e 8°, III, seria o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação das cláusulas integrantes de acordo coletivo de trabalho, o que atrai a incidência das Súmulas/STF 279 e 454.
+     Assim, a decisão ora embargada não possui qualquer vício a ser sanado, isto é, inexiste omissão, contradição ou obscuridade a ser suprida.
+    Isso posto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 8 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
