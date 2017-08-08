@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional ajuizada por José Dionísio de Barros Cavalcanti Neto em face de decisão da Primeira Turma Recursal do Juizado Especial Cível de Porto Alegre, que teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia da Súmula Vinculante nº 47.
+    José Dionísio de Barros Cavalcanti Neto narra que “ingressou com ação ordinária de cobrança de honorários contratuais (…) sem que tenha logrado êxito no recebimento de sua verba de natureza alimentar” e que contra o indeferimento do pedido de penhora do quantum devido a título de honorários advocatícios impetrou mandado de segurança.
+    Aduz que o juízo reclamado teria descumprido a Súmula Vinculante nº 47, haja vista o caráter alimentar dos honorários advocatícios contratuais.
+    Por fim, requer que seja julgada procedente a presente reclamação para cassar a decisão reclamada, para que nova seja proferida à luz da Súmula Vinculante nº 47.
+    É o relatório. Decido.
+    Aponta-se como paradigma a Súmula Vinculante nº 47, cuja redação transcrevo:
+    “Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza.”
+    A súmula vinculante paradigma enuncia norma de interpretação constitucional obrigatória atinente à execução contra a Fazenda Pública, mais especificamente acerca do regime de pagamento por precatório judicial ou requisição de pequeno valor.
+    A vinculação que exsurge da SV nº 47 refere-se à execução de título judicial formado contra a Fazenda Pública, segundo os seguintes postulados:
+    a) não viola o §4º (em sua redação original) ou o §8º (incluído pela EC nº 62/2009) do art. 100 da CF/88 o fracionamento de precatório para pagamento de honorários sucumbenciais em favor do advogado da parte vencedora; e
+    b) o rol do §1º-A do art. 100 da CF/88 (atual §1º, com a redação dada pela EC nº 62/2009) não é taxativo, razão pela qual, havendo a expedição de precatório para pagamento de verbas honorárias sucumbenciais, é constitucional sua classificação na lista de preferência de pagamento de débitos de natureza alimentícia.
+    A pretensão dos autos, entretanto, não tem como objeto ato judicial proferido em sede de regime de execução contra a Fazenda Pública, tampouco refere-se a valor fixado pelo juízo em favor do advogado da parte que contendeu contra a Fazenda Pública e resultou exitosa em sede jurisdicional.
+    De outra forma, José Dionísio de Barros Cavalcanti Neto vale-se da presente reclamação, com fundamento na Súmula Vinculante nº 47, com o objetivo de “cassar a sentença emanada nos autos n. proferida pelo Juízo da 1º Turma Recursal de Porto Alegre – RS” e, assim, viabilizar reanálise de sua pretensão de penhora do benefício previdenciário percebido por Valter Benites Menegotto a fim de adimplir valores devidos por força de contrato de prestação de serviços advocatícios firmado entre eles.
+    O direito controvertido no ato reclamado – relacionado com atos executivos de título extrajudicial consistente em contrato advocatício firmado entre particulares – não possui relação de pertinência temática com o entendimento consubstanciado na SV nº 47, referente à expedição de precatório ou requisição de pequeno valor em favor de advogado de forma destacada do credor principal da Fazenda Pública, cujo direito fora constituído por força de decisão judicial.
+    No sentido do caráter estrito da competência do STF no conhecimento das reclamações e da necessidade de aderência estrita do objeto do ato reclamado ao conteúdo das decisões paradigmáticas do STF, vide precedentes:
+    “(...) INADMISSIBILIDADE DA RECLAMAÇÃO PELO FATO DE O ACÓRDÃO ORA IMPUGNADO NÃO SE AJUSTAR, COM EXATIDÃO E PERTINÊNCIA, AO PARADIGMA DE CONFRONTO INVOCADO PELA PARTE RECLAMANTE – PRECEDENTES – RECLAMAÇÃO NÃO CONHECIDA – INTERPOSIÇÃO DE RECURSO DE AGRAVO – PARECER DA PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO PROVIMENTO DO RECURSO – RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO” (Rcl nº 16.492/SP-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe de 6/11/14).
+    “Agravo regimental na reclamação. Ausência de identidade de temas entre o ato reclamado e a ADI nº 3.460/DF. Reclamação como sucedâneo de recurso. Agravo regimental não provido. 1. Deve haver aderência suestrita do objeto do ato reclamado ao conteúdo da decisão paradigmática do STF para que seja admitido o manejo da reclamatória constitucional. 2. Agravo regimental não provido” (Rcl nº 11.463/DF-AgR, de minha relatoria, Primeira Turma, DJe de 13/2/15).
+    O meio utilizado tem o demérito de provocar o exame per saltum por esta Suprema Corte de questão a ser desenvolvida pelos meios ordinários e respectivos graus, sendo inadequado o emprego do instrumento reclamatório como “sucedâneo de ação rescisória, de recursos ou de ações judiciais em geral” (Rcl nº 23.157/BA-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 7/4/2016).
+    Ante o exposto, nego seguimento à presente reclamação, nos termos do artigo 21, § 1º, do RI/STF.
+    Publique-se. Int..
+    Brasília, 8 de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
