@@ -1,0 +1,10 @@
+DECISÃO: O Reino da Arábia Saudita comunica a esta Suprema Corte que requereu, por via diplomática, ao Ministério das Relações Exteriores do Brasil, a extinção do presente pleito extradicional, eis que “Não possui mais interesse na extradição do requerido Saleh Abdulrahman M. Alderaibi” (fls. 52).
+    O pedido em questão implica verdadeira desistência do processo extradicional.
+    Cabe assinalar, neste ponto, que a possibilidade de desistência, pelo Estado estrangeiro, da ação de extradição passiva, em curso perante o Supremo Tribunal Federal, tem sido admitida pela jurisprudência desta Corte, que, por mais de uma vez – seja mediante decisão colegiada (RTJ 127/379, Rel. Min. MOREIRA ALVES – Ext 416/EUA, Rel. Min. OSCAR CORRÊA – Ext 460/Itália, Rel. Min. NÉRI DA SILVEIRA, v.g.), seja, ainda, mediante decisão singular, proferida pelo próprio Relator da causa (Ext 464/Alemanha, Rel. Min. DJACI FALCÃO – Ext 502/Portugal, Rel. Min. CELSO DE MELLO – Ext 550/República Argentina, Rel. Min. CELSO DE MELLO – Ext 676/Itália, Rel. Min. CELSO DE MELLO – Ext 760/Bélgica, Rel. Min. CELSO DE MELLO, v.g.) –, reconheceu viável, em sede extradicional, a incidência dessa causa particular de extinção do processo, sem julgamento do mérito.
+    Sendo assim, tendo em consideração as razões expostas, homologo o pedido de desistência (RISTF, art. 21, VIII) e julgo extinto este processo extradicional, revogando, em consequência, a prisão cautelar do ora extraditando e determinando, ainda, a imediata soltura do súdito estrangeiro em questão, se por al não estiver preso.
+    Comunique-se, com urgência, o teor da presente decisão aos Senhores Ministros de Estado da Justiça e das Relações Exteriores do Brasil, requisitando-se, ainda, ao Senhor Diretor-Geral do Departamento de Polícia Federal a imediata devolução do mandado de prisão cautelar expedido contra SALEH ABDULRAHMAN M. ALDERAIBI.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 08 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
