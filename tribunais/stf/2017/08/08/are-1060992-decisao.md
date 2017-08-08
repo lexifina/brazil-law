@@ -1,0 +1,31 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 146, III, “b”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo as razões de decidir apontadas no voto condutor do acórdão recorrido:
+    “(..)
+    No caso dos autos, o efetivo recolhimento ocorreu em 29/10/2009, mesmo ano de retenção, aliás, (1-darf19). Assim, o prazo de 05 anos para o pedido de restituição conta-se a partir de 31.12.2009.
+    O protesto interruptivo de prescrição n.º 5006840-09.2013.4.04.7122 foi proposto após decorrido mais da metade do prazo prescricional, porém, entre o último ato do protesto e a data da distribuição da presente ação não decorreu mais de dois anos e meio. Logo, não se operou a prescrição no caso.
+    (..)”
+    O Superior Tribunal de Justiça já assentou entendimento no sentido de que o contribuinte pode se valer de ação cautelar de protesto a fim de interromper o prazo prescricional para postulação de repetição de indébito tributário, por uma questão de isonomia em relação à Fazenda Pública, a qual essa faculdade é garantida expressamente no artigo 174, II, do Código Tributário Nacional:
+    “PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO DOS ARTS. 165, 458 E 535, TODOS DO CPC. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. REPETIÇÃO DE INDÉBITO/COMPENSAÇÃO. PRESCRIÇÃO. LC N. 118/2005. NOVEL ENTENDIMENTO DO STF. REPERCUSSÃO GERAL. APLICAÇÃO DO PRAZO PRESCRICIONAL DE 5 ANOS SOMENTE ÀS AÇÕES AJUIZADAS A PARTIR DE 9.6.2005. PROTESTO JUDICIAL. INTERRUPÇÃO DO PRAZO PRESCRICIONAL.
+    PRECEDENTES. PROTESTO INTERPOSTO ANTES DA VIGÊNCIA DA LC N. 118/2005. APLICAÇÃO DO PRAZO DECENAL.
+    (...) 4. Na hipótese, tal entendimento é inaplicável, pois a recorrente cuidou de interpor cautelar de protesto antes da vigência do novel marco normativo, o que lhe garante a incidência da prescrição nos termos da anterior interpretação jurisprudencial.
+    5. 'O Código Tributário Nacional elege o protesto judicial como causa interruptiva do prazo prescricional, para que a Fazenda Pública proponha a ação de cobrança de credito tributário (art. 174, paragrafo único, inciso II). Face ao principio da igualdade das partes, no processo (isonomia processual), idêntico tratamento deve ser dispensado ao contribuinte nas ações em que postula a repetição do indébito.' (REsp 82.553/DF, Rel. Min. Demócrito Reinaldo, Primeira Turma, julgado em 29.4.1996, DJ 3.6.1996, p. 19.214.) 6. Precedente idêntico: REsp 1329901/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/04/2013, DJe 29/04/2013.
+     6. Recurso especial provido. (REsp 1042524/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/12/2013, DJe 16/12/2013.)
+     Ademais, compreender diversamente do entendimento adotado pelo Tribunal a quo, demandaria o exame prévio da legislação infraconstitucional, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário, conforme já assentado na jurisprudência desta Casa:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Execução fiscal. Prescrição. Interrupção. Código Tributário Nacional, Código de Processo Civil e Lei nº 6.830/80. Infraconstitucional. Ofensa constitucional indireta ou reflexa.
+    1. Possui natureza infraconstitucional a discussão a respeito da interrupção do prazo prescricional em sede de execução fiscal na qual se envolva a interpretação do Código Tributário Nacional, do Código de Processo Civil e da Lei nº 6.830/80. A afronta ao texto constitucional seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo.
+    2. Agravo regimental não provido.” (ARE 810.802-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 01.9.2014.)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Reajuste de 28,86%. Diferenças. 3. Prescrição da pretensão declarada na origem. Interrupção do prazo prescricional pelo ajuizamento de ação coletiva. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 982.177-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 28.4.2017.)
+    “TRIBUTÁRIO. EXECUÇÃO FISCAL. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. CONFLITO ENTRE A APLICAÇÃO DO ART. 174, PARÁGRAFO ÚNICO, I, DO CTN, COM REDAÇÃO ANTERIOR À LC 118/05, E A DO ART. 8º, § 2º, DA LEI 6.830/80. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.” (RE 602.883-RG, Rel. Min. Ellen Gracie, Pleno, DJe 13.8.2010.)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. SÚMULAS N. 282 E N.356 DO STF. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 728814 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJE 27.09.2016.)
+     Outrossim, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, bem como das cláusulas contratuais, procedimentos vedados em sede extraordinária conforme disposto nas Súmulas 279 do STF.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 08 de agosto de 2017.
+Ministra Rosa Weber
+Relatora
