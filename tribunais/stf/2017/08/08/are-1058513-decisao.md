@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal Regional Federal da 4ª Região, em execução de sentença, assentou a impossibilidade de manifestação sobre o tema relativo à incidência dos juros da mora entre a data do cálculo e a inscrição do precatório diante da pendência de agravo interposto pela parte com o mesmo teor. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação do artigo 5º, inciso LIV, e 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão diante da negativa de prestação jurisdicional.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu o julgamento fundamentado de forma consentânea com a ordem jurídica, versando, detalhadamente, sobre a impossibilidade de julgamento de tema já levado ao Tribunal e ainda não analisado.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Conforme bem assinalado na decisão agravada, a questão acerca da incidência dos juros moratórios está sendo discutida no Agravo de Instrumento nº 5002787-11.2013.404.0000, interposto pela ora agravante, o qual, julgado por esta 4ª Turma, restou assim ementado:
+    AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. JUROS DE MORA. PRECATÓRIO. EXECUÇÃO EMBARGADA. 1. Não há incidência de juros moratórios entre a data da conta e a inscrição do precatório ou requisição de pagamento, com a observação de que em se tratando de embargos à execução, aí, então, cabíveis os juros. (TRF4, AGRAVO DE INSTRUMENTO Nº 5002787-11.2013.404.0000, 4ª TURMA, Des. Federal CANDIDO ALFREDO SILVA LEAL JUNIOR , POR UNANIMIDADE, JUNTADO AOS AUTOS EM 05/04/2013)
+    Contra o acórdão proferido, foi interposto recurso extraordinário, atualmente concluso para exame de admissibilidade.
+    Assim, descabido que se reabra a discussão acerca do período de incidência dos juros moratórios, porquanto esta questão está sendo apreciada no Agravo de Instrumento nº 5002787-11.2013.404.0000, ainda sem trânsito em julgado.
+    O órgão julgador decidiu a questão a partir de pressupostos fáticos estranhos às razões do extraordinário. Divergir daquele entendimento demandaria, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 8 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
