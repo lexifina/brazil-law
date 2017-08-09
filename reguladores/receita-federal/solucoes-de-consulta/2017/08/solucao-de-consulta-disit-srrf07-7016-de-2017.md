@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF07 nº 7016, de 11 de julho de 2017
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF EMENTA: RESIDENTE NO EXTERIOR. PROVENTOS DE APOSENTADORIA E PENSÃO PERCEBIDOS NO BRASIL. TRIBUTAÇÃO. CONVENÇÃO ENTRE O BRASIL E A ESPANHA. Por força da Convenção entre o Brasil e a Espanha, as pensões pagas através de fundos provenientes da Previdência Social de um Estado Contratante a um residente de outro Estado Contratante só são tributáveis nesse último Estado. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT N.º 10, DE 8 DE JANEIRO DE 2014. DISPOSITIVOS LEGAIS: IN SRF n.º 208, de 2002, arts. 35 e 36; e Decreto n.º 76.975, de 1976, art. 19, § 4º.
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF
+EMENTA: RESIDENTE NO EXTERIOR. PROVENTOS DE APOSENTADORIA E PENSÃO PERCEBIDOS NO BRASIL. TRIBUTAÇÃO. CONVENÇÃO ENTRE O BRASIL E A ESPANHA. Por força da Convenção entre o Brasil e a Espanha, as pensões pagas através de fundos provenientes da Previdência Social de um Estado Contratante a um residente de outro Estado Contratante só são tributáveis nesse último Estado. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT N.º 10, DE 8 DE JANEIRO DE 2014.
+DISPOSITIVOS LEGAIS: IN SRF n.º 208, de 2002, arts. 35 e 36; e Decreto n.º 76.975, de 1976, art. 19, § 4º.
+JOSÉ CARLOS SABINO ALVES Chefe
