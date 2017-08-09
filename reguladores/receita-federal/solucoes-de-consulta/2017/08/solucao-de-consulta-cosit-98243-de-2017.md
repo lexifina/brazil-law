@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98243, de 14 de julho de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3926.90.21 Mercadoria: Correia dentada, em plástico, própria para ser encaixada a uma polia motriz e a uma não motriz, de modo a sincronizar a velocidade entre as duas, utilizada em portas deslizantes automáticas. DISPOSITIVOS LEGAIS: RGI 1 (Nota 1 a) da Seção XVI e texto da posição 39.26), RGI 6 (texto da subposição 3926.90) e RGC-1 (textos do item 3926.90.2 e do subitem 3926.90.21) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016.
+[arquivo anexo: SC Cosit nº 98.243-2017 .pdf]
