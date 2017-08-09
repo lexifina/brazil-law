@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98244, de 14 de julho de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8483.50.10 Mercadoria: Polia transmissora, em alumínio, própria para ser utilizada no sistema de transmissão em portas deslizantes automáticas. DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 a) da Seção XVI e texto da posição 84.83), RGI 6 (texto da subposição 8483.50) e RGC-1 (texto do item 8483.50.10) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.244-2017 .pdf]
