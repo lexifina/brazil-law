@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Santa Catarina, reformando o entendimento do Juízo, julgou procedentes os pedidos de cessação de restituição ao erário de valores percebidos em razão de acumulação de cargo público com aposentadoria por invalidez, e de repetição de indébito, considerado o princípio da boa-fé. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 37, inciso XVI, alíneas “a”, “b” e “c” e § 10º, 40, 42 e 142 da Constituição Federal. Diz inexistir dúvida no tocante à interpretação da legislação de regência, alegando o conhecimento da servidora pública da proibição de acumulação dos mencionados cargos.
+    2. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Entretanto, a questão que exsurge é aferir se essa cumulação indevida ou não notória ao homem médio e, no meu sentir, tenho que não se trata da hipótese.
+    Admito que até mesmo este julgador desconhecia a proibição de cúmulo nesta hipótese e que, somente através deste processo, atentou e teve ciência da vedação insculpida através da conjugação do inciso XVI, letras a, b e c e §10º, do art. 37, além do art. 40, 42 e 142, todos da Constituição Federal, além dos arts. 131, caput e §1º, c/c art. 134, ambos da Lei Estadual n. 6.844/86.
+    Portanto, não vejo como exigir esse conhecimento da servidora em foco se até mesmo a administração pública levou mais de uma década para descobrir o equívoco.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo. Ante o disposto no artigo 85, § 11, do Código de Processo Civil de 2015, fica afastada, no julgamento de recurso, a majoração de honorários advocatícios quando ausente fixação de verba sucumbencial na origem.
+    4. Publiquem.
+Brasília, 9 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
