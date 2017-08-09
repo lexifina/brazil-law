@@ -1,0 +1,59 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado pela Defensoria Pública do Estado de São Paulo, em favor de Robson Marcos Mariano, contra decisão proferida pelo Ministro Felix Fischer, do Superior Tribunal de Justiça (STJ), que, nos autos do AREsp 886.389/SP, conheceu do agravo para negar provimento ao recurso especial e, ainda, determinou a execução provisória da pena, com base na decisão do STF proferida no ARE 964.246/SP.
+    Segundo os autos, o paciente foi condenado pelo Juízo de Direito da 3ª Vara Criminal da Comarca de Bauru/SP, ante a prática do delito descrito no art. 33, § 4º, da Lei 11.343/2006, à pena de 1 ano e 8 meses de reclusão, em regime inicial fechado, substituída por duas penas restritivas de direitos consistentes em prestações de serviços à comunidade e prestação pecuniária. (eDOC 4, p. 1-12)
+    Dessa decisão recorreu somente o Parquet, tendo sido seu recurso de apelação parcialmente provido pelo TJSP. A pena inicialmente imposta foi majorada para 5 anos de reclusão em regime inicial fechado, e a substituição da pena privativa de liberdade por penas restritivas de direitos cancelada. (eDOC 2, p. 1-13)
+    Irresignada, a defesa apresentou recurso especial ao STJ, que, inadmitido, foi objeto de agravo. (eDOC 6)
+    No STJ, o agravo foi provido, e, ao final, negou-se provimento ao especial, bem como ao agravo regimental interposto. (eDOC 8, p. 1-12)
+    No presente habeas corpus, a defesa alega que a quantidade de drogas, diversamente do sustentado, não é significativa (9,05g de crack e 33, 44 g de maconha) para inviabilizar o privilégio ao acusado.
+    Assim, reconhecida a minorante, defende a possibilidade de fixação do regime aberto para início de cumprimento da reprimenda, bem como a substituição da pena privativa de liberdade por penas restritivas de direitos.
+    Assevera, ainda:
+    “com a decisão do Supremo Tribunal Federal decidindo em controle incidental de constitucionalidade pela inconstitucionalidade da vedação de substituição de pena privativa de liberdade por restritiva de direitos constante do art. 33, § 4º da Lei de Drogas e a Resolução 05/12 do Senado Federal, que suspendeu a eficácia desta mesma vedação, dando eficácia ‘erga omnes’ a decisão de nossa Corte Suprema, fica superada a decisão do Tribunal de Justiça de São Paulo, que não substituiu a pena privativa de liberdade por restritiva de direitos”. (eDOC 1, p. 21)
+    Desse modo, requer a concessão da ordem para que se reconheça ao paciente o direito à aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, bem como para substituir a pena privativa de liberdade por restritivas de direitos e fixar o regime inicial aberto. (eDOC 1, p. 32)
+    É o relatório.
+    Passo a decidir.
+    A defesa busca a aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/2006.
+    De início, ressalto que são os seguintes os requisitos para concessão da causa de diminuição de pena, segundo os termos do art. 33, § 4º, da Lei 11.343/2006: (i) ser o agente primário; (ii) possuir bons antecedentes; (iii) não se dedicar a atividades criminosas e (iv) não integrar organização criminosa.
+    Tudo indica que a intenção do legislador, ao inserir a redação contida no § 4º do artigo 33, foi distinguir o traficante contumaz e profissional daquele iniciante na vida criminosa, bem como daquele que se aventura na vida da traficância por motivos que, por vezes, confundem-se com a sua própria sobrevivência e/ou de sua família. Daí, acredito essencial, para legitimar o afastamento do redutor, fundamentação corroborada em elementos capazes de afastar um dos requisitos legais, sob pena de desrespeito ao princípio da individualização da pena e de fundamentação das decisões judiciais.
+    Nesse aspecto, da leitura das razões de decidir tomadas pelo TJSP para dar provimento à apelação do Parquet, afastando a aplicação ao paciente do redutor a que se refere o § 4º do art. 33 da Lei 11.343/2006, percebe-se ter-se fundamentado não na quantidade de droga apreendida, que inclusive foi considerada pequena, mas na sua diversidade (crack e maconha) e na forma com a qual se encontravam acondicionadas, para ao final concluir que estas características indicariam ser o paciente profissional do tráfico.
+    Do acórdão transcrevo os seguintes trechos:
+    “(...) Passa-se, então, à dosimetria da pena, contra o que se insurge o Ministério Público.
+    O comando do art. 42 da Lei 11.343/06 impõe ao juiz considerar, com preponderância, como previsto no art. 59 do CP, certos critérios que o orientarão na fixação da primeira fase da pena. Assim, ainda que altamente nociva parte do entorpecente apreendido, as penas-bases eram mesmo de ser fixadas no mínimo, considerado não ser tão elevada a quantidade de droga encontrada em poder do réu, ainda que significativa, além de ser ele primário e ostentar bons antecedentes.
+    Mas impossível a incidência do privilégio previsto § 4º do art. 33 do Estatuto Regressivo, considerados a variedade da substância apreendida, a alta lesividade de parte dela e o acondicionamento (13,62g de cocaína, na forma de crack, distribuídos em 05 invólucros; e 33,52g de maconha, divididos em 02 tabletes), tudo indicando tratar-se de profissional do tráfico”. (eDOC 2, p. 3 – g rifei)
+    Da sentença, transcrevo os seguintes trechos:
+    “Passa-se à fixação da pena.
+    O acusado é primário e não registra antecedentes.
+    Assim, fixa-se a pena-base no mínimo legal, que é de cinco anos de reclusão e mais quinhentos dias-multa.
+    Estão presentes os requisitos previstos no § 4º do art. 33 da Lei n. 11.343/2006, de modo que é aplicável ao caso a causa de diminuição da pena nele estabelecida.
+    Com efeito, a par da primariedade e ausência de antecedentes, não se evidenciou ser o acusado pessoa dedicada a atividades criminosas ou integrante de organização criminosa.
+    A quantidade de droga apreendida não foi das mais elevadas, sendo possível crer que o acusado não se trata de criminoso contumaz.
+    Reduz-se, assim, a pena de dois terços, de modo a resultar um ano e oito meses de reclusão, mais cento e sessenta e seis dias-multa.
+    O regime inicial de cumprimento de pena deve ser o fechado, em razão de expressa disposição legal (art. 2º, § 1º, da Lei n. 8.072/90, com a redação dada pela Lei n. 11.464/2007)
+    Levando em conta as circunstâncias judiciais favoráveis, conforme antes apontado, e, ainda, o fato de a quantidade da droga não ser das mais elevadas, entende-se cabível, no caso, a substituição da pena privativa de liberdade por duas restritivas de direitos, na forma do art. 44 do Código Penal”. (eDOC 4, p. 9)
+    O arcabouço probatório não viabiliza concluir, com certeza, que o réu estivesse ligado à organização criminosa estável e permanente, nos exatos termos da lei ou “indicando tratar-se de profissional do tráfico”, como se fez constar no acórdão proferido pelo TJSP. (eDOC 2, p. 3)
+    Tecidas as considerações pertinentes, verifico que o paciente preenche os requisitos legais previstos no art. 33, § 4º, da Lei 11.343/2006, de forma que faz jus ao redutor.
+    Além disso, anoto que as instâncias anteriores (sentença de primeiro grau eDOC 4, p. 9; TJSP eDOC 2, p. 5-11; e STJ eDOC 8, p. 3-6) consideraram o tráfico privilegiado como crime equiparado a hediondo.
+    Diversamente, sobre o tema, assevere-se que o Plenário do Supremo Tribunal Federal, em sessão realizada na data de 23.6.2016, finalizou o julgamento do HC 118.533/MS, de relatoria da Ministra Cármen Lúcia, no sentido de conceder a ordem para afastar a natureza hedionda do tráfico privilegiado de drogas.
+    Proferi voto-vista no citado HC 118.533/MS, do qual destaco o seguinte:
+    “O legislador pode afastar a hediondez de duas formas: ou criando figuras típicas à margem do regime constitucional, ou relegando ao juiz certa margem de avaliação para decidir na sentença se o fato tem a necessária gravidade.
+    Em qualquer hipótese, a descaracterização da hediondez é exceção. O legislador precisa fazer constar, do texto legal, a exclusão, ou o poder do juiz para excluir.
+    Resta ver se, no caso específico do tráfico privilegiado, o legislador optou por tratar o fato como crime equiparado a hediondo ou não.
+    Tenho que o legislador fez essa opção, ao especificar os crimes da lei de drogas que são sujeitos ao tratamento constitucional:
+    ‘Art. 44. Os crimes previstos nos arts. 33, caput e § 1º, e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos’.
+    Deixou-se de fora tanto o já mencionado art. 33, § 3º - oferecimento para consumo - conjunto quanto o art. 33, § 4º tráfico privilegiado.
+    Não desconheço que o art. 44 menciona os tipos penais que são considerados hediondos, incluindo na lista o art. 33, caput e § 1º. Muito embora se costume falar em tráfico privilegiado, em verdade o § 4º traz uma causa de diminuição de pena, aplicável sobre o art. 33, caput e § 1º:
+    ‘§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa’.
+    Ainda que privilegiadoras e qualificadoras, de um lado, e causas de diminuição e de aumento de pena, de outro, acrescentem circunstâncias, objetivas ou subjetivas, a um tipo penal básico, há diferenças importantes entre ambas.
+    As privilegiadoras e qualificadoras trazem uma nova cominação de penas, respectivamente inferior ou superior àquela do tipo básico. Já as causas de diminuição ou aumento de pena estabelecem um percentual de redução ou aumento sobre a pena cominada no tipo base. (...)
+    Não há dúvida, não estamos diante de um tipo penal novo em relação ao crime de tráfico de drogas. Nem mesmo de um tipo derivado se trata. Ninguém comete o crime do art. 33, § 4º. Comete-se o crime do art. 33, caput, ou de seu § 1º, ainda que, na terceira fase da aplicação da pena, o agente seja beneficiado pela diminuição de pena prevista no § 4º. Não há um tipo penal derivado, mas a incidência de uma causa de diminuição de pena sobre o tipo penal básico.
+    Ainda assim, tenho que, caso o objetivo fosse tratar o tráfico privilegiado como crime hediondo, o art. 44 mencionaria o § 4º do art. 33.
+    Ou seja, tenho que o legislador excluiu o tráfico privilegiado do tratamento dado aos crimes hediondos’(...)”.
+    Tenho que é o caráter isolado do envolvimento com o crime que autoriza o afastamento da hediondez.
+    Aliás, quanto a esse ponto, não é incomum a alegação de que a privilegiadora socorre os pequenos traficantes. Não se trata de uma verdade absoluta. A percepção mais correta é de que o dispositivo é aplicável ao agente que tomou parte no crime de forma episódica. Nos dizeres da lei, as penas são reduzidas para o agente que “seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa”. Todas essas circunstâncias dizem com a inexistência de participação do agente em crimes para além de uma oportunidade.
+    Em suma, tenho que o legislador optou, de forma válida, por excluir a modalidade criminosa do art. 33, § 4º, da Lei 11.343/2006 do regime constitucional dos crimes equiparados a hediondo.
+    Além do regime constitucional, há previsões legais que dão ao condenado por tráfico de drogas sanções mais severas do que as comuns. Tenho que ao tráfico privilegiado, tampouco, essas disposições se aplicam.
+    Ante o exposto, com fundamento no art. 192, caput, do RISTF, concedo a ordem, restabelecendo a condenação imposta pelo Juízo de primeiro grau.
+    Comunique-se com urgência.
+    Publique-se.
+    Brasília, 9 de agosto de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
