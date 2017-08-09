@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98256, de 25 de julho de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 9018.41.00 Mercadoria: Aparelho de brocar para cirurgia dentária, composto de unidade de controle eletrônico, micromotor, pedal, peça de mão e outras peças e acessórios. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 90.18) e RGI 6 (textos da subposição de primeiro nível 9018.4 e da subposição de segundo nível 9018.41.00) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.256-2017 .pdf]
