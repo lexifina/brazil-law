@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE.
+    1. O Colegiado de origem reformou o entendimento do Juízo quanto à ilegalidade da modificação da remuneração de servidor público por meio de decreto do Poder Executivo. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violados os artigos 2º, cabeça, 61, § 1º, inciso II, alínea “f”, e 84, inciso VI, alínea “a”, da Constituição Federal. Diz contrariado o princípio da separação dos Poderes. Sustenta a afronta à reserva de iniciativa administrativa. Afirma inexistir decréscimo remuneratório.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    A Lei nº 9.028, de 12 de abril de 1995, em seu artigo 9°, criou 27 cargos de Procurador-Chefe, titulares das Procuradorias da União e no Distrito Federal, estabelecendo que este corresponderia ao padrão DAS 101.5:
+    […]
+    Posteriormente foi editada a Medida Provisória n° 103, de 1° de janeiro de 2003, que estabeleceu no parágrafo único do seu artigo 50:
+    [...]
+    Com base nessa Medida Provisória foi editado o Decreto n° 4.697, 16 de maio de 2003, que transformou o cargo em comissão de Procurador-Chefe da União, DAS 101.5, para o de Procurador-Chefe da União, DAS 101.4, nos seguintes termos:
+    […]
+    Contudo, quando a Medida Provisória n° 103/2003 foi convertida na Lei n° 10.683, de 28 de maio de 2003, o parágrafo único do artigo 50 foi vetado, sendo excluído do texto legal por iniciativa do Poder Executivo, fato que, a meu ver, tem implicação direta nas questões ventiladas pelo autor nesta ação.
+    Ainda que se interprete que o parágrafo único do artigo 50 autorizava o Decreto n° 4.697/2003 a alterar a classificação do cargo em comissão de Procurador-Chefe da União de DAS 101.5 para DAS 101.4 e, via de consequência, a diminuir a remuneração pelo exercício de tal cargo, esse raciocínio não se sustenta nem mesmo até a vigência da Lei n° 10.683/2003 (29.05.2003), porquanto a lei de conversão sequer ressalvou a convalidação dos atos já praticados.
+    Importa registrar que decretos governamentais, considerada a fonte jurídica de sua emanação, não se qualificam como equivalentes constitucionais da lei, não podendo, por isso mesmo, sob pena de frontal transgressão ao princípio constitucional da separação de poderes, criar cargos ou extinguir cargos que não estejam vagos, nem mesmo sob a rubrica de “transformação” ou “alteração”, especialmente quando o cargo em questão - Procurador-Chefe, DAS 101.5 - originava-se de válida disposição legal, qual seja, o artigo 9° da Lei n° 9.028, de 12 de abril de 1995 .
+    Em situações análogas, já se reconheceu a ilegalidade da modificação de remuneração por meio de decreto do Poder Executivo, como no julgado que transcrevo:
+    […]
+    O tema concernente à disciplina jurídica da criação de cargos submete-se ao postulado constitucional da reserva de lei, vedando-se, em consequência, a intervenção de outros atos estatais revestidos de menor positividade jurídica, emanados de fontes normativas que se revelem estranhas, quanto à sua origem institucional, ao âmbito de atuação do Poder Legislativo.
+    […]
+    Portanto, sem lei vigorante que autorize o tratamento normativo pertinente aos diversos aspectos que concernem ao estipêndio funcional devido aos servidores públicos em geral, não há como disciplinar essa matéria, automaticamente, mediante simples decreto editado pelo Chefe do Poder Executivo.
+    Assim, não cabe ao Poder Executivo, na matéria em questão, atuar na anômala (e inconstitucional) condição de legislador, para, em assim agindo, proceder à imposição de seus próprios critérios de formulação normativa, afastando, desse modo, os fatores que só podem ser legitimamente definidos pelo Parlamento. Se isso fosse possível, o Poder Executivo passaria a desempenhar atribuição que lhe é excepcional (a de legislador), usurpando, no contexto de um sistema de poderes essencialmente limitados, competência que não lhe pertence, com evidente transgressão ao princípio constitucional da separação de poderes.
+    Ademais, a garantia constitucional da irredutibilidade de
+    vencimentos dos servidores públicos (art. 37,XV, CF/88) impede que o poder público adote medidas que importem, especialmente quando implementadas no plano infraconstitucional, em diminuição do valor nominal concernente a remuneração de seus agentes. Dessa forma, esta cláusula proíbe a diminuição daquilo que o servidor já recebe no momento em que sobrevém nova disciplina legislativa relacionada aos vencimentos legalmente devidos.
+    Diante de todo o exposto, deve ser afastado o artigo 2°, IV, do Decreto n° 4.697/2003, devendo prevalecer, em face da autora, o disposto no artigo 9° da Lei nº 9.028/95, que criou 27 cargos de Procurador-Chefe, DAS 101.5.
+    Não custa lembrar, por fim, que a Lei 10.869, de 13 de maio de 2004, instituiu majoração do coeficiente de cálculo da remuneração dos cargos do grupo DAS, níveis 4, 5 e 6, de 40% para 65%:
+    [...]
+    O reconhecimento do direito às diferenças remuneratórias em valor nominal não implica em violação do art. 2º da Constituição Federal (Princípio da Separação dos Poderes), porquanto não está o judiciário a invadir a seara legislativa para conceder aumento de remuneração, mas apenas reconhecendo impossibilidade constitucional de o Poder Executivo, por meio de decreto, extrapolar suas atribuições para criar cargos ou extinguir cargo não vago, sob qualquer pretexto, ou da lei posterior agir sobre situação jurídica pretérita para prejudicar o titular de um direito, reduzindo-lhe os vencimentos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    À toda evidência, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 10 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
