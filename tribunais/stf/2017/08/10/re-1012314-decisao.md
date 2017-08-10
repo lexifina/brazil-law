@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO. PENAL E PROCESSO PENAL. CRIME DE ESTELIONATO. ARTIGO 171 DO CÓDIGO PENAL. FALSIFICAÇÃO DE DOCUMENTO. LESÃO A INTERESSES DE PESSOAS JURÍDICAS DE DIREITO PRIVADO. FALSO ABSORVIDO PELO ESTELIONATO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. FALSIFICAÇÃO DE CPF. USO DE DOCUMENTO PARA PRÁTICA DE GOLPES EM ESTABELECIMENTOS COMERCIAIS. INCIDÊNCIA DO MESMO RACIOCÍNIO EMPREGADO NO ENUNCIADO DA SÚMULA 107 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. É da competência da Justiça comum estadual o julgamento do crime de falsificação de documento expedido por Órgão Federal (CPF) que resulta na prática de estelionato contra estabelecimento comercial.
+    2. Raciocínio análogo ao que deu ensejo ao enunciado da Súmula 107 do STJ.
+    2. Agravo regimental não provido.” (doc. 5, fl. 43)
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 109, IV, da Constituição Federal.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    É assente a jurisprudência desta Suprema Corte no sentido de que a competência da Justiça Federal para julgar o crime de falsificação de documentos somente será fixada nos casos em que comprovada a intenção do agente em causar lesão a bens, interesse ou patrimônio da União. Nesse sentido: RHC 119.959, minha relatoria, DJe 3/3/2017; HC 112.489, minha relatoria, 1ª Turma, DJe 10/11/2014; e HC 113.167, minha relatoria, 1ª Turma, DJe 16/10/2014, cuja ementa transcrevo:
+    “HABEAS CORPUS. DIREITO PENAL. PROCESSO PENAL MILITAR. USO DE DOCUMENTO EXPEDIDO PELA FORÇAS ARMADAS PARA FINS DE OBTENÇÃO DE BENEFÍCIO JUNTO A INSTITUIÇÃO FINANCEIRA PRIVADA. COMPETÊNCIA DA JUSTIÇA COMUM. 1. O uso de documento falso expedido pela administração militar para o fim de obter empréstimo junto a instituição financeira particular, mercê de configurar conduta tipificada pelo Código Penal Militar (art. 311 da Decreto-Lei nº 1001/69), é ilícito absorvido pelo crime de estelionato contra o patrimônio da pessoa jurídica lesada, não configurando crime autônomo sujeito à jurisdição castrense. 2. É competente a Justiça Comum para conhecer e julgar infração penal cometida em detrimento de bens, serviços e interesses de pessoas privadas, que não possuam foro especial por força de regra constitucional. 3. In casu, o paciente, ex-3º Sargento do Exército Brasileiro, foi condenado a 02 (dois) anos de reclusão por incorrer no crime previsto no art. 311 do Código Penal Militar (falsificação de documento), ao simular declaração do Ordenador de Despesas do Comando da 11ª Brigada de Infantaria Leve, com o objetivo de obter empréstimo financeiro junto ao Banco Alpha. Não se observa dos autos a vontade do paciente de se voltar contra as Forças Armadas, tampouco a de impedir a continuidade de eventual operação militar. Consectariamente, evidencia-se a incompetência da Justiça Penal Militar. 4. Ordem de habeas corpus concedida para declarar a incompetência da Justiça Militar para a causa e determinar o declínio da competência para processar e julgar os fatos em favor da Justiça Comum.”
+    In casu, o cogitado uso de documento falso expedido pela Receita Federal do Brasil para o fim de realizar operações de crédito junto a estabelecimentos privados é ilícito absorvido pelo crime de estelionato contra o patrimônio da pessoa jurídica lesada, não configurando crime autônomo sujeito à jurisdição federal.
+    Assim, é competente a Justiça Comum Estadual para conhecer e julgar infração penal cometida em detrimento de bens, serviços e interesses de pessoas privadas, que não possuam foro especial por força de regra constitucional.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 10 de agosto de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
