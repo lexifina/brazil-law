@@ -1,0 +1,14 @@
+Decisão
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra decisão proferida pela Ministra MARIA THEREZA DE ASSIS MOURA, do Superior Tribunal de Justiça, que concedeu de ofício o HC 354.061/SP.
+    Consta dos autos, em síntese, que o paciente, condenado à pena de 35 anos, 5 meses e 28 dias de reclusão, em regime inicial fechado, pela prática dos crimes de latrocínio (art. 157, § 3º, segunda parte, CP) e roubo majorado (art. 157, § 2º, CP), requereu a progressão de regime. O pedido foi indeferido pelo Juízo de Execução Penal. Irresignada, a defesa interpôs agravo em execução ao Tribunal de Justiça do Estado de São Paulo, que lhe negou provimento. Assim, foi impetrado habeas corpus ao Superior Tribunal de Justiça, que não o conheceu, mas concedeu a ordem de ofício, a fim de “determinar que o Juízo da Execução reexamine o pedido de progressão carcerária formulado pelo paciente, analisando o requisito subjetivo (mérito) com base em elementos concretos da execução da pena, à luz do disposto no art. 112 da Lei de Execução Penal”.
+    Nesta ação, o impetrante alega, em suma, que “a medida concedida de ofício [pelo Superior Tribunal de Justiça] não teve a eficácia preponderante de demover o ilegal constrangimento exercido pelas instâncias ordinárias, continuando até o presente momento o paciente no mesmo regime, sem previsão de promoção de regime pelo Juízo ‘a quo’, evidenciando-se assim o reiterado descumprimento do magistrado, mesmo após decisão das Cortes Superiores” (DOC. 1, p. 21). Requer, assim, “a concessão de promoção de Regime Prisional” (DOC. 1, p. 22).
+    É o relatório. Decido.
+    No presente caso, a Ministra MARIA THEREZA DE ASSIS MOURA concedeu a ordem de habeas corpus para que o Juízo das Execuções Criminais de origem aprecie o pedido de progressão do regime prisional à luz das regras descritas na Lei de 7.210/84.
+    Nessas circunstâncias, não cabe a esta Corte, em sede de habeas corpus, antecipar-se ao exame do Juízo da Execução, a fim de avaliar, por primeiro, as circunstâncias fáticas da causa com vistas a estabelecer o regime prisional adequado.
+    Por outro lado, eventual descumprimento do julgado do Superior Tribunal de Justiça ou, ainda, inconformismo com decisão do Juízo da origem devem ser impugnados perante a instância competente (HC 132.864-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 18/3/2016; HC 136.452-ED, Rel. Min. ROSA WEBER, Primeira Turma, Dje de 10/2/2017; HC 135.021-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, Dje de 6/2/2017; HC 135.949, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, Dje 24/10/2016).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO HABEAS CORPUS.
+    Publique-se.
+    Brasília, 10 de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
