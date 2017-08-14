@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO ORDINÁRIA – Servidor público municipal exonerado durante o estágio probatório, por ter sido considerado inapto para desempenhar as funções do cargo (auxiliar de enfermagem), tendo em vista ser portador de esclerose múltipla de origem viral – Não cabimento – Além de inexistir avaliação que comprove condutas irregulares por parte do autor, ele adquiriu a doença após a nomeação – Impossibilidade de avaliações durante os períodos de licença – Necessidade de prorrogação do estágio probatório, para que seja efetivamente avaliado durante o desempenho de suas funções, inclusive com eventual readaptação – Reintegração ao cargo em que foi admitido de rigor, restituindo-se, ainda, os valores não pagos a título de salário desde a data da exoneração até a efetiva recondução – No tocante à correção monetária e aos juros moratórios incidentes sobre os valores devidos, tendo em vista que o crédito em discussão não ostenta natureza tributária, deve ser observado, no íntegra, o disposto no artigo 1º-F da Lei Federal nº 11.960/09 – Precedentes – Reexame necessário e apelo parcialmente providos.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, LV; 18; 37, caput, § 4º; e 41 da Constituição.
+    A decisão agravada negou seguimento ao recurso por entender que “Ao que se infere, os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada”.
+    O recurso extraordinário é inadmissível. Isso porque, para dissentir do entendimento firmado pelo Tribunal de origem, seria imprescindível o reexame dos fatos e do material probatório constantes dos autos, o que é vedado neste momento processual, nos termos da Súmula 279/STF.
+    Ademais, incide, no caso, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 14 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
