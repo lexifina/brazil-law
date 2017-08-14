@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “ADMINISTRATIVO. INSCRIÇÃO DO MUNICÍPIO NOS CADASTROS DO SIAFI, CAUC E CADIN. IRREGULARIDADES NA EXECUÇÃO DO OBJETO (FERROFOLIA 2009). GESTÃO DO PREFEITO ANTERIOR. IN/STN 01/97.
+    I. Trata-se de apelação de sentença que julgou procedente o pedido, para determinar que a União exclua o nome do Município autor de registros de órgãos de restrição ao crédito (SIAFI, CAUC e CADIN), referente ao repasse de verbas do Convênio 706587/2009, cujo objeto era o Projeto intitulado "FERROFOLIA 2009", salvo se por outros motivos alheios a presente demanda justificar-se a restrição.
+    II. O parágrafo 2º do art. 5º da Instrução Normativa nº. 01/97 e o art. 26 da Lei nº. 10.522/02 garantem a possibilidade de repasse de verbas públicas federais aos Municípios que, ora sob nova administração, tomar as providenciais legais cabíveis, como representar o ex-gestor junto ao Ministério Público Federal e ao Tribunal de Contas da União, bem como ajuizar ação para o ressarcimento dos cofres públicos das quantias irregulares.
+    III. No caso, o Município autor pediu a instauração da Tomada de Contas Especial (Id. 4058107.147744), não podendo ser responsabilizado pela sua demora, uma vez que envidou esforços para que fosse apurada a responsabilidade de seu ex-gestor, apresentando, ainda, representação junto ao Ministério Público Federal (Id. 4058107.147743).
+    IV. O STF já se posicionou pela possibilidade de suspensão da inadimplência, afim de assegurar a percepção de recursos federais por estados-membros, em casos análogos ao presente, manifestando-se, também, sobre a demora na instauração da tomada de contas especial que é atribuição do convenente e não do município. Precedente: STF, AC 1896 MC / SE, rel. Min. CÁRMEN LÚCIA, DJe1.8.2008.
+    V. Apelação improvida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 37; e 160, parágrafo único, I, todos da Constituição. Sustenta que “Sendo o Município recorrido a pessoa jurídica que firmou o convênio que não foi cumprido, despiciendo é o questionamento se a responsabilidade pela sua prestação de contas é do ex-gestor ou do atual, haja vista possuir o Município personalidade jurídica própria e distinta de seus administradores”.
+    O recurso extraordinário é inadmissível. Com efeito, o Tribunal de origem assentou que:
+    “No caso, não ficou demonstrada a abertura de tomada de contas especial contra o ex-gestor municipal em relação ao Convênio 706587/2009, celebrado com o Ministério do Turismo, no entanto, o Município autor pediu a instauração da Tomada de Contas Especial (Id. 4058107.147744), não podendo ser responsabilizado pela sua demora, uma vez que envidou esforços para que fosse apurada a responsabilidade de seu ex-gestor, apresentando, ainda, representação junto ao Ministério Público Federal (Id. 4058107.1447343).
+    O STF já se posicionou pela possibilidade de suspensão da inadimplência afim de assegurar a percepção de recursos federais por estados-membros, em casos análogos ao presente, manifestando-se, também sobre a demora na instauração da tomada de contas especial que é atribuição do convenente e não do município.”
+     Esses são fundamentos autônomos e suficientes para a manutenção do julgado, que não foram atacados no recurso extraordinário. Houve recurso especial quanto à matéria, não provido e já transitado em julgado. Nessas condições, aplica-se a Súmula 283/STF:
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 14 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
