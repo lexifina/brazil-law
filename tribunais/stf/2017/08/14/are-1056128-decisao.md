@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “AGRAVO REGIMENTAL - Legitimidade ativa configurada - Desnecessidade da associação dos poupadores ao IDEC - Suscitada competência do órgão colegiado para o julgamento do agravo de instrumento - Descabimento - Matérias de entendimento consolidado na Turma Julgadora, em consonância com jurisprudência dominante do Superior Tribunal de Justiça - Hipótese em que o Relator pode julgar monocraticamente o recurso - Inteligência do parágrafo 1-A e do caput, ambos do artigo 557 do Código de Processo Civil – A multa imposta tem previsão no parágrafo 2º, do supracitado dispositivo legal - Recurso improvido, com observação *” (pág. 57 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5°, II, XXI, LIV, LV e 92, § 2º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, observo que esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+     “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Por fim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos (Súmula 279 do STF) e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Nesse mesmo sentido, cito o ARE 1.039.024/SP, de relatoria do Ministro Dias Toffoli; ARE 1.042.715/SP, de relatoria do Ministro Edson Fachin; ARE 1.038.103/SP, de relatoria do Ministro Gilmar Mendes e o ARE 705.194/SP, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 14 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
