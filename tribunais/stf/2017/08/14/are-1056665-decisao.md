@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 2°, 37, II e IX, e 165 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 29.12.2016. DIREITO À SEGURANÇA E MORADIA. CONSTRUÇÃO EM ENCOSTAS. RISCO DE DESABAMENTO. DETERMINAÇÃO PELO PODER JUDICIÁRIO DE MEDIDAS EMERGENCIAIS PARA EVITAR DESMORONAMENTO. POSSIBILIDADE. 1. É firme o entendimento deste Tribunal de que o Poder Judiciário pode, sem que fique configurada violação ao princípio da separação dos Poderes, determinar a implementação de políticas públicas nas questões relativas ao direito constitucional à segurança e moradia. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Inaplicável o artigo 85, § 11, CPC, por se tratar de recurso oriundo de ação civil pública.” (RE 909943 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 02/06/2017, PROCESSO ELETRÔNICO DJe-143 DIVULG 29-06-2017 PUBLIC 30-06-2017.)
+    “EMENTA Agravo regimental no recurso extraordinário. Direito Constitucional. Ação civil pública. Reforma em escola. Implementação de políticas públicas. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. Precedentes. 1. O Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação dos poderes, inserto no art. 2º da Constituição Federal. 2. Agravo regimental não provido. 3. Inaplicável o art. 85, § 11, do CPC, pois não houve fixação prévia de honorários advocatícios na causa.” (RE 908680 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 07/04/2017, ACÓRDÃO ELETRÔNICO DJe-093 DIVULG 04-05-2017 PUBLIC 05-05-2017.)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de agosto de 2017.
+Ministra Rosa Weber
+Relatora
