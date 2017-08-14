@@ -1,0 +1,24 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “ILEGITIMIDADE PASSIVA ‘AD CAUSAM’ DA FESP – Manutenção – Autora que se aposentou após a LC 1.010/07 – Responsabilidade exclusiva da SPPREV para fins de pagamento dos seus proventos de aposentadoria.
+    APELAÇÃO – Previdenciário – Ex-docente aposentada proporcionalmente por idade – Alegação de que o benefício foi calculado erroneamente, posto que tem direito ao cálculo com base na aposentadoria especial, nos termos do art. 40, § 5º, da CF, com a redução de cinco anos estabelecida na CF – Sentença de procedência – Admissibilidade – Direito à aposentadoria especial, com vinte e cinco (25) anos de tempo de contribuição – Cálculo que deve considerar o divisor de 25, e não de 30 – Inteligência do art. 40, inciso I e § 5º, da CF – Precedentes.
+    LEI n. 11.960/09 – Admissibilidade – Efeitos da declaração de inconstitucionalidade das ADI’s n. 4.357 e 4.425 que foram modulados pela Suprema Corte, em 25.03.2015 somente para fins de precatórios, nada ficando decidido quanto à fase de liquidação – Aplicação da Lei n. 11.960/09 a partir de sua vigência – Sujeição do precatório à alteração de seu valor quando for decidido o incidente instaurado na Repercussão Geral n. 810/STF – Precedentes – Ilegitimidade passiva ‘ad causam’ da FESP mantida – Recurso da autora improvido – Recurso da ré parcialmente provido, no tocante à Lei n. 11.960/09.”
+    A recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 40, § 1º, III, e § 5º da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, a possibilidade de utilização do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o E. Tribunal de Justiça do Estado de São Paulo apoiou-se em aspectos fático-probatórios:
+    “Consta da inicial que a autora foi aposentada voluntariamente por idade, com proventos proporcionais, cuja publicação do ato de inativação se deu em 14.11.2014 (fls. 02).
+    Na ocasião, seus proventos foram calculados na razão de 24/30 avos, posto que possuía vinte e quatro anos de serviço, cuja proporção totalizou em 80% dos vencimentos que percebia na ativa.
+    Insurgiu-se a autora contra esta fórmula de cálculo, eis que, como professora de educação básica – PEB-I – tinha direito à aposentadoria especial, com base no que dispõe o art. 40, § 5º, da Constituição Federal.
+    Desse modo, seus proventos de aposentadoria deveriam ter sido calculados à razão de 24/25 avos, já com o redutor previsto no texto constitucional.
+    E com razão.
+    …...................................................................................................
+    Dessa forma, tendo a autora sido aposentada voluntariamente por idade, de forma proporcional, e comprovando ela que exerceu a atividade de magistério na educação infantil, fundamental ou ensino médio, tem o direito à aposentadoria especial, com proventos proporcionais ao tempo de contribuição que, no caso, resulta na divisão de vinte e quatro (24) por vinte e cinco (25) anos, nos termos do texto constitucional, e não de vinte e quatro (24) por trinta (30) anos, como pretende a Administração.
+    …...................................................................................................
+    Dessa forma, tem a autora o direito a ter os seus proventos calculados com base no redutor de cinco anos previstos na Carta Magna, cabendo a retificação do ato de sua aposentadoria para que estes passem a ser calculados na razão de 24/25 avos.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 14 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
