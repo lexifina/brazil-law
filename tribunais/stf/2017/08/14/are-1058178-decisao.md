@@ -1,0 +1,9 @@
+DECISÃO: O presente agravo foi interposto por Breda Transportes e Serviços S.A. contra decisão que negou trânsito ao apelo extremo por ela deduzido, no qual sustentou que o acórdão proferido pelo E. Tribunal de Justiça do Estado de São Paulo teria transgredido preceitos inscritos na Constituição da República.
+    Cabe observar, desde logo, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 635.688/RS, Rel. Min. GILMAR MENDES, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “Recurso Extraordinário. 2. Direito Tributário. ICMS. 3. Não cumulatividade. Interpretação do disposto art. 155, § 2º, II, da Constituição Federal. Redução de base de cálculo. Isenção parcial. Anulação proporcional dos créditos relativos às operações anteriores, salvo determinação legal em contrário na legislação estadual. 4. Previsão em convênio (CONFAZ). Natureza autorizativa. Ausência de determinação legal estadual para manutenção integral dos créditos. Anulação proporcional do crédito relativo às operações anteriores. 5. Repercussão geral. 6.Recurso extraordinário não provido.”
+    Cumpre registrar, por oportuno, que os eminentes Ministros desta Suprema Corte têm determinado a incidência da sistemática da repercussão geral, inclusive quando houver julgamento sobre o mérito da matéria cuja transcendência foi reconhecida (RE 606.915/SP, Rel. Min. DIAS TOFFOLI – RE 607.501/SE, Rel. Min. LUIZ FUX – RE 907.942/RS, Rel. Min. EDSON FACHIN – RE 1.029.168/PR, Rel. Min. GILMAR MENDES – ARE 855.723-AgR-Segundo-ED/RJ, Rel. Min. GILMAR MENDES, v.g.).
+    Isso significa que se impõe, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução destes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 14 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
