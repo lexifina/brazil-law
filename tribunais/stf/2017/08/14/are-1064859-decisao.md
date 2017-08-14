@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Norte confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de porte ilegal de arma de fogo de uso permitido, previsto no artigo 14, da Lei nº 10.826/2003. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 5º, incisos LIV, LV e LVI, da Constituição Federal. Argui a nulidade da sentença por cerceamento de defesa, ante o indeferimento de oitiva de perito.
+    2. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Colho do acórdão recorrido o seguinte trecho:
+    Ademais, como bem assinalou o representante ministerial em suas contrarrazões, ao magistrado é concedida a prerrogativa de indeferir a produção de provas que entender irrelevantes à elucidação dos fatos, inteligência do art. 411, § 2º, do Código de Processo Penal.
+    Convém, sobretudo,m registrar que é entendimento pacificado na jurisprudência acerca da prescindibilidade do exame pericial para comprovar o potencial lesivo da arma, porquanto a conduta prevista no art. 14 da Lei nº 10.826/2003 é crime de perigo abstrato, exigindo um resultado naturalístico.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/M, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo. Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 14 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
