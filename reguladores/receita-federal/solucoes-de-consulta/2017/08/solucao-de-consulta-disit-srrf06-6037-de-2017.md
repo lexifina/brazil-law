@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF06 nº 6037, de 7 de agosto de 2017
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: CONTRIBUIÇÃO PARA O PIS/PASEP SOBRE A FOLHA DE SALÁRIOS. ENTIDADES BENEFICENTES DE ASSISTÊNCIA SOCIAL. IMUNIDADE. O Supremo Tribunal Federal, ao julgar o recurso extraordinário n° 636.941/RS, no rito do art. 543-B da revogada Lei n° 5.869/1973 - antigo Código de Processo Civil, decidiu que são imunes à Contribuição ao PIS/Pasep, inclusive quando incidente sobre a folha de salários, as entidades beneficentes de assistência social que atendam aos requisitos legais, quais sejam, aqueles previstos nos artigos 9° e 14 do CTN, bem como no art. 55 da Lei n° 8.212/1991 (atualmente, art. 29 da Lei n° 12.101/2009). Em razão do disposto no art. 19 da Lei n° 10.522/2002, na Portaria Conjunta PGFN/RFB n° 1/2014, e na Nota PGFN/CASTF/N° 637/2014, a Secretaria da Receita Federal do Brasil encontra-se vinculada ao referido entendimento. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 173, DE 13 DE MARÇO DE 2017.
+DISPOSITIVOS LEGAIS: Lei n° 10.522/2002, art. 19; Portaria Conjunta PGFN/RFB n° 1/2014, Nota PGFN/CASTF/N° 637/2014.
+SC SRRF06-Disit nº 6.037-2017
+[arquivo anexo: SC SRRF06-Disit nº 6.037-2017.pdf]
+MÁRIO HERMES SOARES CAMPOS
+Chefe
