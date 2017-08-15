@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, interposto em face de acórdão do Tribunal de Justiça do Estado de Goiás, sob o fundamento de não ter havido qualquer ofensa a dispositivo constitucional.
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, ofensa aos arts. 5°, II e XXXV; e 37, caput, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O agravante tem a obrigação de impugnar especificadamente os fundamentos da decisão recorrida. No caso em tela, as razões recursais apresentadas não possuem correlação com os fundamentos da decisão recorrida. O acórdão tratou a questão da incompetência absoluta em razão da matéria e o agravante, sem conexão, alega ofensa aos dispositivos constitucionais citados acima. Portanto, inviável a via recursal escolhida por encontrar óbice na Súmula 284/STF. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 284/STF. ART. 1.021, § 1°, DO CPC. MAJORAÇÃO DE HONORÁRIOS. NÃO CABIMENTO. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - É deficiente a fundamentação do agravo regimental cujas razões não atacam os fundamentos da decisão agravada. Incidência da Súmula 284 desta Corte. Precedentes. II - Na linha do entendimento até então firmado por este Supremo Tribunal Federal, o art. 1.021, § 1°, do Código de Processo Civil de 2015 tornou expressa a exigência de impugnação específica dos fundamentos da decisão que for objeto de agravo interno nos tribunais. III - Deixo de majorar os honorários recursais com base no artigo 85, § 11, do CPC, haja vista tratar-se de mandado de segurança. IV - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC” (ARE 1.038.608 AgR/BA, de minha relatoria, Segunda Turma - grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF)
+    Publique-se.
+    Brasília, 15 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
