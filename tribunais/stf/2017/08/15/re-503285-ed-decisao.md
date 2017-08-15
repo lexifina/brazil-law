@@ -1,0 +1,32 @@
+Decisão:
+    Trata-se de embargos de declaração opostos contra decisão monocrática assim fundamentada:
+    “Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    ‘DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU PROGRESSIVO. MUNICÍPIO DE PORTO ALEGRE. TERRENO SITUADO NA 1.ª DIVISÃO FISCAL. INCONSTITUCIONALIDADE DA NORMA MUNICIPAL DECLARADA PELO STF. DESNECESSIDADE DE DECLARAÇÃO DE NULIDADE DOS LANÇAMENTOS. UTILIZAÇÃO DA ALÍQUOTA PREVISTA NA LEGISLAÇÃO ANTERIOR.
+    Conforme decisão do STF, a Lei Complementar n.º 7/73, no tocante à progressividade do IPTU, foi declarada inconstitucional.
+    Não é caso de anulação do lançamento, mas de mera adequação das diferenças existentes entre a alíquota cobrada na norma inconstitucional e a alíquota cabível, que é estipulada pela legislação anterior, no caso, no mesmo percentual.
+    Precedentes do Tribunal de Justiça do Estado e STF.
+    REEXAME NECESSÁRIO. NÃO-CONHECIMENTO. ARTIGO 475, PARÁGRAFO 3.º, DO CÓDIGO DE PROCESSO CIVIL, COM A REDAÇÃO DADA PELA LEI N.º 10.352, DE 26 DE DEZEMBRO DE 2001. NORMA DE APLICAÇÃO IMEDIATA.
+    A nova redação do parágrafo 3.º do art. 475 do CPC, dada pela Lei n.º 10.352/01, norma processual de ordem pública e de aplicação imediata, dispensa o reexame necessário nos casos em que a sentença estiver fundada em jurisprudência do plenário do Supremo Tribunal Federal ou em súmula deste Tribunal ou do tribunal superior competente.
+    Precedentes jurisprudenciais do STJ e do TJRS.
+    Apelação da embargante desprovida.
+    Apelação do embargado provida.
+    Reexame necessário não conhecido’.
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 2°; 145, §1°; 150, I; 156, §1° e 182, §4°, todos da Carta. Sustenta a impossibilidade de que seja aplicada a legislação municipal anterior (LCM n° 7/73) para a fixação do valor do imposto, visto que padece do mesmo vício de inconstitucionalidade da Lei n° 212/89.
+    A pretensão recursal merece prosperar em parte. O Supremo Tribunal Federal reconheceu a existência da repercussão geral da questão constitucional suscitada no RE n° 602.347 (Tema nº 226), de relatoria do Ministro Edson Fachin, e fixou entendimento no sentido de que é constitucional a cobrança de IPTU com base na alíquota mínima prevista na lei municipal, referente a período anterior à Emenda Constitucional 29/2000, mesmo que a progressividade das alíquotas tenha sido declarada inconstitucional. Confira-se:
+    ‘RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. IMPOSTO TERRITORIAL PREDIAL URBANO - IPTU. PROGRESSIVIDADE DAS ALÍQUOTAS. INCONSTITUCIONALIDADE. EXIGIBILIDADE DO TRIBUTO. FATO GERADOR OCORRIDO EM PERÍODO ANTERIOR À EMENDA CONSTITUCIONAL 29/2000. ALÍQUOTA MÍNIMA. MENOR GRAVOSIDADE AO CONTRIBUINTE. PROPORCIONALIDADE DO CRITÉRIO QUANTITATIVO DA REGRA-MATRIZ DE INCIDÊNCIA TRIBUTÁRIA.
+    1. Tese de repercussão geral fixada: Declarada inconstitucional a progressividade de alíquota tributária do Imposto Predial Territorial Urbano no que se refere à fato gerador ocorrido em período anterior ao advento da EC 29/2000, é devido o tributo calculado pela alíquota mínima correspondente, de acordo com a destinação do imóvel e a legislação municipal de instituição do tributo em vigor à época.
+    2. O Supremo Tribunal Federal possui entendimento sumulado no sentido de que É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana. Súmula 668 do STF. Precedente: AI-QO-RG 712.743, de relatoria da Ministra Ellen Gracie, Tribunal Pleno, DJe 8.5.2009.
+    3. É constitucional a cobrança de IPTU, referente a período anterior à Emenda Constitucional 29/2000, mesmo que a progressividade das alíquotas tenha sido declarada inconstitucional, em sede de representação de inconstitucionalidade em Tribunal de Justiça local. Função da alíquota na norma tributária. Teoria da divisibilidade das leis. Inconstitucionalidade parcial.
+    4. O IPTU é exigível com base na alíquota mínima prevista na lei municipal, de modo que o critério quantitativo da regra matriz de incidência tributária seja proporcional e o menos gravoso possível ao contribuinte. Precedentes.
+    5. Recurso extraordinário provido’.
+    O Tribunal de origem andou bem ao reconhecer que o vício não é caso de anulação do lançamento, mas de mera adequação das diferenças existentes entre a alíquota cobrada na norma inconstitucional e a alíquota cabível. Todavia, determinou a aplicação das alíquotas previstas na legislação anterior - LC nº 7/73, na sua redação original - o que está em desconformidade com a tese fixada em sede de repercussão geral, uma vez que restou assentado que se tornará exigível o IPTU, calculado com base na alíquota mínima, segundo a destinação do imóvel, e em conformidade com a legislação municipal em vigor no período do fato gerador.
+    Desse modo, consoante a tese fixada em sede de repercussão geral, incide a legislação em vigência na data do fato gerador, isto é, a Lei Complementar nº 212. No mesmo sentido: RE nº 466.412, Rel. Min. Edson Fachin; e RE nº 403.256 ED-segundos-AgR-terceiro, Rel. Min. Dias Toffoli.
+    Diante do exposto, nos termos do art. 21, §2º, do RI/STF, dou parcial provimento ao recurso extraordinário para determinar a aplicação da alíquota mínima, segundo a destinação do imóvel, e em conformidade com a legislação municipal em vigor no período do fato gerador”.
+    A parte embargante sustenta que, tendo em vista a natureza declaratória da ação, o dispositivo da decisão deve ser alterado, determinando a incidência de honorários em razão do valor da causa e não sobre o valor da condenação.
+    O recurso não pode ser acolhido, tendo em vista a inexistência de obscuridade, contradição, omissão ou erro material no acórdão questionado, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015.
+    Estes embargos veiculam pretensão improcedente, haja vista que não houve na decisão embargada condenação em honorários advocatícios, de modo que inexiste alteração a ser realizada no dispositivo da decisão.
+    Diante do exposto, rejeito os embargos e mantenho a decisão embargada.
+    Publique-se.
+    Brasília, 15 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
