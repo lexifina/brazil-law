@@ -1,0 +1,3 @@
+Solução de Divergência Cosit nº 98027, de 9 de agosto de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Reforma a Solução de Consulta SRRF/5ª RF/Diana nº 9, de 12 de junho de 2013. Código NCM: 8507.60.00 Mercadoria: Acumulador elétrico, de polímero de lítio, em forma de capa para telefone celular, denominado comercialmente "capa carregadora". DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.07), RGI 3 b) e RGI 6 (texto da subposição 8507.60.00), da NCM constante da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SD Cosit nº 98.027-2017 .pdf]
