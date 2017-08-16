@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98291, de 9 de agosto de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 3926.90.40 Mercadoria: Protetor auricular, do tipo de inserção, com três flanges, produzido em silicone grau farmacêutico, em tamanho único e cores diversas, com ou sem cordão de algodão, PVC ou sintético, próprio para proteção contra ruídos. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.26), RGI 6 (texto da subposição 3926.90) e RGC-1 (texto do item 3926.90.40) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.291-2017 .pdf]
