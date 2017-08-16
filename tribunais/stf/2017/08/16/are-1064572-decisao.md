@@ -1,0 +1,14 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Patrícia de Araújo contra acórdão que, confirmado em sede de embargos de declaração pela 2ª Turma Recursal dos Juizados Especiais do Distrito Federal, está assim ementado (fls. 121):
+    “JUIZADOS ESPECIAIS CRIMINAIS. DESACATO. ART. 331 DO CP. XINGAMENTOS, INSULTOS PROFERIDOS CONTRA POLICIAL MILITAR. MATERIALIDADE E AUTORIA COMPROVADAS. PROVA ROBUSTA (DEPOIMENTO DE POLICIAIS E TESTEMUNHO DE TERCEIRO). ABSOLVIÇÃO AFASTADA. RECURSO CONHECIDO E NÃO PROVIDO.”
+    A parte ora agravante sustenta, no apelo extremo em questão, que o órgão judiciário de origem teria transgredido o preceito inscrito no art. 5º, IV, da Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    Cabe registrar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (CP, art. 331), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos por esta Suprema Corte (ARE 1.015.214/DF, Rel. Min. LUIZ FUX – RE 1.002.697/GO, Rel. Min. ROSA WEBER – RE 1.058.324/DF, Rel. Min. ROBERTO BARROSO, v.g.):
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal. 3. Crime de desacato (331 do CP). 4. Ausência de prequestionamento. Súmulas 282 e 356. Precedentes. 5. Alegação de não recepção do delito de desacato pela legislação brasileira, haja vista incompatibilidade do tipo com o art. 13 da CADH. Suposta violação ao art. 5º, incisos IV, do texto constitucional. Ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. 6. Agravo regimental a que se nega provimento.”
+    (ARE 1.003.305-AgR/DF, Rel. Min. GILMAR MENDES)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 16 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
