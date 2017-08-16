@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98296, de 10 de agosto de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8418.21.00 Mercadoria: Refrigerador do tipo doméstico (L x A x P: 48cm x 87cm x 58cm), de compressão, próprio para refrigeração e conservação principalmente de bebidas, comercialmente denominado “Cervejeira”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.18) e RGI 6 (textos da subposição de 1º nível 8418.2 e da subposição de 2º nível 8418.21) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016.
+[arquivo anexo: SC Cosit nº 98.296-2017 .pdf]
