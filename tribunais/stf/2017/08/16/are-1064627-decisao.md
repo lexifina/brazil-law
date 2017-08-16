@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “TRIBUTÁRIO. APELAÇÃO EM MANDADO DE SEGURANÇA. IPI. IMPORTAÇÃO DE AERONAVE. REGIME DE ADMISSÃO TEMPORÁRIA. INCIDÊNCIA ARTIGO 79 DA LEI Nº 9.430/96.
+    -De acordo com o artigo 46 do Código Tributário Nacional, o desembaraço aduaneiro de bem industrializado de procedência estrangeira está sujeito à incidência de IPI, de modo que é irrelevante a natureza do negócio jurídico firmado entre as partes para a entrada do bem no país. Precedentes do STJ.
+    -Com a edição da Lei nº 9.430/96 os bens admitidos temporariamente no país, com a finalidade de utilização econômica, passaram a se sujeitar ao pagamento dos impostos incidentes na importação de modo proporcional ao tempo de permanência no território nacional.
+    -Verificada a legalidade da exação, resta prejudicada a análise do pedido de compensação.
+    Apelação desprovida” (eDOC 1, p. 200).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 146, III; 150, I; 153, § 3º, II; e 154, I, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão recorrido violou o princípio da não cumulatividade, por se tratar de importação para uso próprio por não contribuinte e que, portanto não teria como se creditar o IPI pago por ocasião da devolução do bem.
+    Por fim, aduz-se a inconstitucionalidade do art. 79 da Lei 9.430/1996, por entender que a norma estaria sujeita à reserva de lei complementar (eDOC 1, p. 231).
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código Tributário Nacional, Leis 7.212/10 e 9.430/1996, Decreto-Lei 37/66) e o conjunto probatório constante dos autos, consignou a ocorrência do fato gerador do imposto e a legalidade da exação. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Nos termos do artigo 46, inciso I, do Código Tributário Nacional, o IPI tem como uma de suas hipóteses de incidência a ocorrência do desembaraço aduaneiro de bens de procedência estrangeira, de modo que é irrelevante a natureza do negócio jurídico firmado entre as partes para a entrada do bem no país” (eDOC 1, p. 192).
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO TRIBUTÁRIO. IPI. ARRENDAMENTO OPERACIONAL. FATO GERADOR. DESEMBARAÇO ADUANEIRO. ADMISSÃO TEMPORÁRIA DE AERONAVE. INAPLICABILIDADE DA EXCEÇÃO PREVISTA NO ART. 37, II, A, DO DECRETO 4.544/2002, ART. 79 DA LEI 9.430/1996. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 20.8.2013. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido” (ARE 939.122 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 12.4.2016).
+    “Agravo regimental em recurso extraordinário. 2. Direito Tributário. 3. Incidência de Imposto de Importação e Imposto sobre Produtos Industrializados (II e IPI). Arrendamento operacional. Importação pelo regime de admissão temporária. Art. 79 da Lei 9.430/96. 4. O Tribunal de origem solucionou a controvérsia com base na interpretação e aplicação da legislação infraconstitucional. Ofensa reflexa à Constituição Federal. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (RE 781.339 AgR, de minha relatoria, Segunda Turma, DJe 23.9.2015).
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 16 de agosto de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
