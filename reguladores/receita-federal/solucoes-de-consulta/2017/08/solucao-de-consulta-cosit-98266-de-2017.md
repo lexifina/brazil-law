@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98266, de 28 de julho de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM 9603.90.00 Mercadoria: Cabeça preparada de esfregão, constituída de cordões confeccionados com fios de matéria têxtil (algodão, poliéster e viscose), apresentada sem cabo e sem suporte de fixação, comercialmente denominada “MOP úmido rayon ponta dobrada 340 g”. DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 96.03) e 6 (texto da subposição 9603.90) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e Tipi aprovada pelo Decreto 8.950, de 2016, e subsídios das NESH, aprovadas pelo Decreto nº 435/92, atualizadas pela IN/RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.266-2017 .pdf]
