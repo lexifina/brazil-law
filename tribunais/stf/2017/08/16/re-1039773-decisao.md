@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “Administrativo. Servidor público. Acumulação de duas aposentadorias ocorridas antes da vedação constitucional prevista no § 10 do art. 37 da CRFB, introduzido pela EC 20/1998. Cabimento.
+    1. O demandante postula a manutenção de duas aposentadorias, uma na ECT e outra na TV Educativa, atual Fundação Roquete Pinto.
+    2. O caso não trata apenas do poder da Administração rever o ato eivado de nulidade, mas de aplicação retroativa da EC 20/1998 que vedou o acúmulo de aposentadorias.
+    3. Veja-se que as duas aposentadorias foram concedidas uma em 1979 e outra em 1994, antes da vedação constitucional prevista no § 10 do art. 37 da CRFB, introduzido pela EC 20/1998.
+    4. Ato impugnado praticado em abril de 2006. Ação proposta em 16.5.2006. Art. 54 da Lei 9.874, de 1º.2.1999. Afastamento. Precedente do STJ e do TRF2.
+    5. Reexame necessário e Apelação não providos.” (pág. 29 do documento eletrônico 23).
+    Os embargos de declaração opostos, em seguida, foram desprovidos.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se violação aos arts. 37, XVI, XVII e § 10; e 40, § 6°, da mesma Carta.
+    Em parecer da lavra do Subprocurador-Geral da República Odim Brandão Ferreira, o Ministério Público Federal opinou pelo desprovimento do recurso (doc. eletrônico 41).
+    A pretensão recursal não merece acolhida.
+    O acórdão impugnado decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 9.784/1999). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo Juízo de origem. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+     Ademais, esse fundamento infraconstitucional tornou-se definitivo com a não interposição de recurso especial. Assim, subsistindo fundamento infraconstitucional autônomo e suficiente para manutenção do julgado recorrido, incide na espécie a Súmula 283/STF. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Servidora pública. Acumulação de cargos. Orientação da Súmula nº 283/STF. Precedentes. 1. É pacífica a jurisprudência da Corte no sentido de não se admitir recurso extraordinário contra acórdão que contenha fundamento infraconstitucional suficiente para a manutenção do julgado recorrido. 2. Agravo regimental não provido” (ARE 805.935-AgR/PI, Rel. Min. Dias Toffoli).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. DUPLA FUNDAMENTAÇÃO: CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO ESPECIAL. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE À MANUTENÇÃO DO JULGADO. SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1.008.108-AgR/MG, Rel. Min. Cármen Lúcia).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO - FUNDEF. DEFINIÇÃO DO VALOR MÍNIMO ANUAL POR ALUNO. COMPLEMENTAÇÃO DE RECURSOS. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. MANUTENÇÃO DOS FUNDAMENTOS INFRACONSTITUCIONAIS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - O acórdão recorrido dirimiu a questão com base na interpretação da legislação infraconstitucional aplicável à espécie. Assim, a afronta à Constituição, se ocorrente, seria apenas indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II - Com a negativa de provimento, pelo Superior Tribunal de Justiça, ao agravo de instrumento interposto contra decisão que inadmitiu o recurso especial, tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF). [...] (ARE 948.773-AgR/MA, de minha relatoria).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 16 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
