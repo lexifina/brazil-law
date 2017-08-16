@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 1ª Turma Recursal da Seção Judiciária do Maranhão, ementado nos seguintes termos, no que interessa:
+    “RECURSO INOMINADO. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL. PROCESSO EXTINTO SEM RESOLUÇÃO DE MÉRITO. ARTIGO 3°, §3°, DA LEI 10.259/01. INCOMPETÊNCIA RECONHECIDA, DE OFÍCIO, PELO MAGISTRADO. DOMICÍLIO DA PARTE RECORRENTE FORA DO ROL DE COMPETÊNCIA DA SEÇÃO JUDICIÁRIA DO MARANHÃO. MUNICÍPIO PERTENCENTE À COMPETÊNCIA DA SUBSEÇÃO JUDICIÁRIA. NEGAR PROVIMENTO”. (eDOC 1, p. 73)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 109, § 2º; e 110 do texto constitucional. (eDOC 1, p. 78)
+    Nas razões recursais, aponta-se que as causas intentadas contra a União podem ser ajuizadas na seção judiciária do domicílio do autor.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (9.099/95 e 10.259/2001), manteve a sentença que extinguiu o processo ante incompetência absoluta do Juizado Especial Federal do Maranhão. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Sem razão a parte recorrente, pois, domiciliada a parte autora em município jurisdicionado por subseção judiciária, a competência (funcional), a teor do artigo 30, §3°, da Lei na. 10.259/01, é absoluta, devendo o magistrado em situações que tais reconhecer de oficio a incompetência e extinguir o processo sem resolução de mérito (artigo 51, III, da Lei na. 9.099/95), consoante já decido por esta Turma Recursal em várias oportunidades (Cf. Proc. 0018883-31.2013.4.01.3700, 0030799-28.2014.4.01.3700, 0018977-76.2013.4.01.3700, 0030773-30.2014.4.01.3700)”. (eDOC 1, p. 73)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. JUIZADOS ESPECIAIS. COMPETÊNCIA. CAUSA DECIDIDA À LUZ DA LEI 10.259/2001. EXAME DE MATÉRIA INFRACONSTITUCIONAL. AGRAVO DESPROVIDO. 1. Para dissentir do acórdão recorrido, seria necessária a análise da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo. 2. Agravo regimental a que se nega provimento”. (ARE 927.246-AgR/SP, Rel. Min. Edson Fachin, Primeira Turma, DJe 16.2.2016)
+    “PROCESSUAL CIVIL. COMPETÊNCIA. AÇÃO RESCISÓRIA. JUIZADO ESPECIAL FEDERAL. TURMA RECURSAL. OFENSA INDIRETA. LEIS 9.099/95 E 10.259/2001. 1. O Tribunal Regional Federal declinou da competência para julgar ação rescisória de julgados de Turma Recursal. Ofensa aos arts. 5º, LV, 98, I e 108, I, b, da Constituição Federal, no caso, se existente, seria indireta, porquanto dependente do exame das Leis 9.099/95 e 10.259/2001, matéria, pois, de índole processual. 2. O agravante pretende o reexame da interpretação que o Tribunal de origem, no regular exercício de sua competência, conferiu às normas infraconstitucionais, o que é inviável em sede de recurso extraordinário. 3. Agravo regimental a que se nega provimento”. (RE 533.749-AgR/PR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 24.2.2011)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 16 de agosto de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
