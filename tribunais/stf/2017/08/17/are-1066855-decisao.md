@@ -1,0 +1,33 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 2ª Região, está assim ementado:
+    “ADMINISTRATIVO E CONSTITUCIONAL – ACUMULAÇÃO DE CARGOS PÚBLICOS – ART. 118, § 2º, DA LEI Nº 8.112/90 – PROFISSIONAL DE SAÚDE – COMPATIBILIDADE DE HORÁRIOS – COMPROVAÇÃO.
+    1 – O parágrafo 2º, do art. 118, da Lei nº 8.112/9, dispõe que a acumulação de cargos, ainda que lícita, fica condicionada à comprovação da compatibilidade de horários.
+    2 – Ademais, o Acórdão TCU nº 2.133/2005, firmou o entendimento de que o servidor submetido a dois ou mais regimes de serviço que excedam a 60 horas semanais, fica impossibilitado de cumprir de maneira legal e lícita os seus deveres funcionais.
+    3 – Por sua vez, o Parecer GQ 145/98, da Advocacia-Geral da União, ao tratar da acumulação remunerada de cargos públicos, esclarece que o servidor não poderá ultrapassar o limite de 60 (sessenta) horas semanais.
+    4 – ‘In casu’, a impetrante ocupa o cargo de enfermeira no Hospital Federal de Bonsucesso, cumprindo carga horária de 30 horas (trinta horas) semanais, com base na Portaria/MS nº 1.281/2006, com carga horária contratual de 40 (quarenta) horas semanais (fls. 121), e outro de enfermeira na Central Estadual de Transplantes, com carga horária semanal de 30 (trinta) horas (fls.118), perfazendo o total de 70 (setenta) horas semanais.
+    5 – Em que pese a possibilidade de acumulação de dois cargos na área da saúde, consoante o teor do inciso XVI, do artigo 37 da Constituição Federal, há que se prestigiar um dos princípios basilares da atuação da Administração Pública, expresso no ‘caput’ do mesmo artigo, qual seja, o princípio da eficiência, que, no presente caso, seria afrontado pela excessiva carga horária a ser exercida pela ora apelante.
+    6 – Precedente: TRF2, 3ª Seção Especializada, Emb. Infringentes 2008.51.01.013528-2, DJ 06/7/2011.
+    7 – Apelação desprovida.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cabe registrar, desde logo, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal Regional Federal da 2ª Região, ao proferir a decisão questionada, sustentou as suas conclusões em aspectos fático-probatórios:
+    “’In casu’, a impetrante ocupa o cargo de enfermeira no Hospital Federal de Bonsucesso, cumprindo carga horária de 30 horas (trinta horas) semanais, com base na Portaria/MS nº 1.281/2006, com carga horária contratual de 40 (quarenta) horas semanais (fls.121), e outro de enfermeira na Central Estadual de Transplantes, com carga horária semanal de 30 (trinta) horas (fls.118), perfazendo o total de 70 (setenta) horas semanais.
+    A compatibilidade de horários prevista no inciso XVI do art.37 da CF, deve ser aferida levando-se em consideração a saúde do trabalhador e a atividade exercida, ‘in casu’, as funções desempenhadas pela impetrante, correlatas a vida e a saúde de outros seres humanos, sendo-lhe exigida total atenção e concentração, que ficam evidentemente comprometidas por tantas horas de trabalho.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 991.242/DF, Rel. Min. MARCO AURÉLIO – RE 1.050.954/SE, Rel. Min. GILMAR MENDES, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS NA ÁREA DE SAÚDE. COMPATIBILIDADE DE HORÁRIO. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA.
+    1. A acumulação remunerada de cargos públicos, quando ‘sub judice’ a controvérsia sobre a compatibilidade de horários, demanda o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 desta Corte, a qual dispõe, ‘verbis’: ‘Para simples reexame de prova não cabe recurso extraordinário’. Precedentes: AI 730.343-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 14/12/2012, RE 633.298-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, Dje 14/2/2012, e ARE 773.327-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 20/11/2013.
+    2. ‘In casu’, o acórdão extraordinariamente recorrido assentou: ‘CONSTITUCIONAL E ADMINISTRATIVO. PROFISSIONAL DE SAÚDE. CUMULAÇÃO DE CARGOS PÚBLICOS. CARGA HORÁRIA. INCOMPATIBILIDADE. TCU. ACÓRDÃO Nº 2.133/2005. ENTENDIMENTO’.
+    3. Agravo regimental DESPROVIDO.”
+    (ARE 812.147-AgR/CE, Rel. Min. LUIZ FUX)
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Servidor público. Acumulação de cargos. Compatibilidade de horários. Verificação. Fatos e provas. Reexame. Impossibilidade.
+    1. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF.
+    2. Agravo regimental não provido.”
+    (RE 883.732-AgR/CE, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 17 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
