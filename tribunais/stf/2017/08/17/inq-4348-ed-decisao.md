@@ -1,0 +1,28 @@
+Decisão: 1. Trata-se de Embargos de Declaração (fls. 196-195) opostos contra a decisão de fls. 185-188, por meio da qual declarei extinta a punibilidade do querelado pela ocorrência da decadência, nos termos do art. 103 e art. 107, IV, ambos do Código Penal.
+    Sustenta o embargante, em síntese, omissão no julgado quanto à fixação dos honorários sucumbenciais, afirmando, a esse respeito, que, “em virtude da rejeição da queixa-crime”, deve o querelante ser “condenado ao pagamento de honorários advocatícios sucumbenciais”, arbitrados na forma prevista no Código de Processo Civil (fls. 194-195).
+    Requer, ao final, o acolhimento dos embargos para seja sanada a apontada omissão.
+    2. Principio anotando que, de acordo com o estatuído no art. 619 do Código de Processo Penal, são cabíveis embargos de declaração nas hipóteses de ambiguidade, obscuridade, contradição ou omissão do julgado atacado. Da mesma forma, prevê o art. 337 do Regimento Interno do Supremo Tribunal Federal: “Cabem embargos de declaração, quando houver no acórdão obscuridade, dúvida, contradição ou omissão que devam ser sanadas”.
+    Haverá ambiguidade se o julgado revelar incerteza, dubiedade; omissão, quando não enfrentadas todas as questões postas ou esquecidos pedidos dos litigantes; obscuridade ao faltar clareza no acórdão; contradição nas vezes em que não existir lógica na fundamentação ou serem registradas proposições inconciliáveis. Ainda se tem admitido, em hipóteses excepcionalíssimas, a atribuição de efeito infringente quando a consequência lógica do provimento dos embargos de declaração impor a correção do caminho anteriormente adotado.
+    Feitos tais registros, no caso, assiste razão ao embargante.
+    Com efeito, em se tratando de Queixa-Crime rejeitada pela ocorrência da decadência, exsurge a sucumbência do querelante, porque, ao dar causa à instauração da ação penal privada, sem a observância dos requisitos formais necessários à validação da peça acusatória, incumbe-lhe arcar com os ônus processuais suportados pela parte adversa, à luz do princípio geral da sucumbência.
+    Reporto-me, para assentar a possibilidade de imposição das verbas sucumbenciais, aos exatos termos do art. 85 do Código de Processo Civil, dispositivo que, invocada a janela hermenêutica do art. 3º do Código de Processo Penal, perfaz-se plenamente aplicável às ações penais privadas.
+    Aliás, no âmbito do Superior Tribunal de Justiça, Corte constitucionalmente responsável por uniformizar a interpretação da lei federal, firmou-se a orientação de que “o princípio geral da sucumbência é aplicável no âmbito do processo penal quando se tratar de ação penal privada”, sendo que “ tal entendimento, que decorre da aplicação do disposto no art. 3º do CPP, restritivamente às ações penais privadas, deve observar o princípio da causalidade, não se limitando a condenação de honorários aos casos em que haja sentença de mérito, pois utilizado subsidiariamente o CPC, devem ser aplicados também seus princípios norteadores” (Eresp 1.218.726, Rel. Min. FÉLIX FISCHER, Terceira Seção, Dje 1.7.2016).
+    Nessa mesma direção há precedente do Supremo Tribunal Federal, assim ementado:
+    “HONORÁRIOS. QUEIXA CRIME IMPROCEDENTE. I. O ARTIGO 3º, DO CÓDIGO DE PROCESSO PENAL, ADMITE EXPRESSAMENTE A APLICAÇÃO ANALÓGICA E O SUPLEMENTO DOS PRINCÍPIOS GERAIS DE DIREITO. II. NÃO VIOLA A CONSTITUIÇÃO FEDERAL, NEM DISCREPA DE JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL, O ACÓRDÃO QUE CONDENA O QUERELANTE VENCIDO A INDENIZAR OS HONORÁRIOS DO ADVOGADO QUE DEFENDEU VITORIOSAMENTE O QUERELADO. ESSA DECISÃO LONGE DE OFENDER O ARTIGO 114 DO CÓDIGO DE PROCESSO CIVIL - 1939, INTERPRETOU-O BEM RAZOAVELMENTE EM HARMONIA COM OS ARTIGOS 4º E 5º DA LEI DE INTRODUÇÃO AO CÓDIGO CIVIL E COM O ARTIGO 3º, DO CÓDIGO DE PROCESSO PENAL” (RE 78.770/ES, Min. ALIOMAR BALEEIRO, Primeira Turma, DJ 4.11.1974).
+    No que diz respeito à quantificação da verba, mostra-se necessária a observância do disposto na última parte do §2º do art. 85 do Código de Processo Civil, verbis:
+    “Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+    (...)
+    § 2º Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos:
+    I - o grau de zelo do profissional;
+    II - o lugar de prestação do serviço;
+    III - a natureza e a importância da causa;
+    IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço;
+    (...)
+    § 8º Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º”.
+    Considerando esses parâmetros e, especialmente, que, na situação vertente, o causídico constituído pelo querelado peticionou nos autos por 5 (cinco) oportunidades (fl. 45, fl. 54, fls. 60-63, fls. 145-163 e fls. 196-195), atribuo verba honorária no importe de R$ 2.000,00 (dois mil reais).
+    3. Ante o exposto, acolho os embargos de declaração opostos por Laerte Rodrigues de Bessa para, sanando a omissão verificada, fixar, nos moldes do §8º c/c §2º do art. 85 do Código de Processo Civil e art. 3º do Código de Processo Penal, honorários advocatícios sucumbenciais no valor de R$ 2.000,00 (dois mil reais), devidos pelo querelante Rodrigo Sobral Rollemberg.
+    Publique-se. Intime-se.
+    Brasília, 17 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
