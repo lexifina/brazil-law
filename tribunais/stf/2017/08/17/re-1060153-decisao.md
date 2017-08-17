@@ -1,0 +1,16 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. IMPOSTO DE RENDA SOBRE TERÇO DE FÉRIAS GOZADAS. CARÁTER SALARIAL. INCIDÊNCIA. ENTENDIMENTO DO STJ FIRMADO PELO RITO DO ARTIGO 543-C DO CPC. APELO IMPROVIDO. 1. "A Primeira Seção deste STJ, na sessão de 22/4/15, ao julgar o REsp 1.459.779/MA pelo rito do art. 543-C do CPC, consolidou o entendimento de que incide o Imposto de Renda sobre o adicional (1/3) de férias gozadas.". (AgRg nos EAREsp 408.040/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 12/08/2015, DJe 03/09/2015). 2. O fato de o adicional de um terço constituir uma espécie de remuneração extraordinária, paga apenas por ocasião do gozo das férias, não lhe retira o caráter salarial, sujeitando-se, assim, ao conceito de renda de que trata o artigo 43 do CTN e, consequentemente, ao respectivo imposto. 3. Apelo conhecido e improvido.4. Unanimidade.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXII; 7°, XVII; 150, IV, da Carta. Sustenta, em síntese, que as verbas recebidas não devem ser tributadas pelo Imposto de Renda, uma vez que tem cunho indenizatório.
+    A pretensão recursal não merece prosperar, tendo em vista que dissentir da conclusão do Tribunal de origem e redefinir a natureza jurídica das rubricas em questão demandaria o exame da legislação infraconstitucional pertinente ao caso e do acervo probatório constante dos autos, providência vedada nesta fase processual (Súmulas 279 e 280/STF). Na mesma linha, confiram-se os seguintes precedentes:
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. IMPOSTO DE RENDA. INCIDÊNCIA. VALORES RECEBIDOS A TÍTULO DEGRATIFICAÇÃO POR RESCISÃO DE CONTRATO DE TRABALHO. CARÁTER JURÍDICO. MATÉRIAINFRACONSTITUCIONAL. OFENSA INDIRETA.
+    1. O Tribunal a quo não se manifestou explicitamente sobre o tema constitucional tido por violado. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+    2. Controvérsia decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento.” (AI 702.206-AgR, Rel. Min. Eros Grau)
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Imposto de renda. Terço de férias. Natureza jurídica da verba. Matéria infraconstitucional. Ofensa constitucional indireta ou reflexa.
+    l. Possui natureza infraconstitucional a discussão a respeito da natureza jurídica da verba (se indenizatória ou salarial) para a verificação da incidência de imposto de renda. Eventual ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Precedentes.
+    2. Agravo regimental não provido.” (ARE 888.108-AGR, Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada da na instância anterior, observados os limites legais do art. 85, §§§ 3º, 4º e 5º, do CPC/2015.
+    Publique-se.
+          Brasília, 17 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
