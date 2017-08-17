@@ -1,0 +1,24 @@
+Trata-se de pedido de arquivamento de representação formulado pela Procuradoria-Geral da República. Pelo seu caráter elucidativo, transcrevo a manifestação ministerial:
+    “Trata-se de inquérito autuado na Suprema Corte em razão da recepção de autos de inquérito policial instaurado para apurar a suposta prática do crime tipificado no art. 299 do Código Eleitoral (compra de votos) pelo deputado federal Thiago Mello Peixoto da Silveira.
+    O caderno investigatório iniciou-se a partir de representação formulada pelo Sindicato dos Trabalhadores em Educação de Goiás (SINTEGO) ao Ministério Público Eleitoral em Goiás, noticiando que o então candidato ao cargo de deputado federal, Thiago Peixoto, durante as eleições gerais de 2014, estaria ‘realizando propaganda eleitoral irregular utilizando meios ardilosos para se promover’ ao obter e utilizar informações pessoais sigilosas de alunos da rede pública estadual, pertencentes ao programa ‘Prêmio do Aluno’ para expedir correspondências com propaganda políticas endereçadas às residências destes (fls. 7/10).
+    Uma vez que Thiago Peixoto encontrava-se no exercício do cargo de deputado federal, o Tribunal Regional Eleitoral de Goiás declinou de sua competência e encaminhou os autos ao Supremo Tribunal Federal (fls. 139/141).
+    Vossa Excelência determinou a abertura de vista dos autos à Procuradoria-Geral da República.
+    É o relatório do essencial.
+    Os autos foram encaminhados ao Supremo Tribunal Federal em razão do possível cometimento do crime tipificado no art. 299 do Código Eleitoral pelo deputado federal Thiago Peixoto.
+    Todavia, não se divisa nenhum indício de materialidade do crime de compra de votos. As mensagens supostamente remetidas pelo então candidato a alunos pertencentes ao programa "Prêmio do Aluno", não obstante possam caracterizar irregularidades de cunho eleitoral, não configuram, por si só, o crime em comento. Vejamos.
+    A representação, subscrita por Maria Euzébia de Lima, deixou a entender que o candidato Thiago Peixoto estaria encaminhando correspondência com propaganda eleitoral juntamente com o cartão que permitiria ao aluno participante do programa movimentar a quantia depositada a título de premiação, sugerindo ter havido uma promíscua relação entre a candidatura e o programa governamental com a espúria finalidade de angariar votos em prol de Thiago Peixoto, fato que poderia caracterizar, além de ilícitos eleitorais, delitos de falsidade documental (art. 296, § 1º, III, do Código Penal) e contra a Administração Pública.
+    No entanto, quando inquirida no interesse deste inquérito, Maria Euzébia declarou que a propaganda eleitoral foi encaminhada aos participantes por e-mail, e não em conjunto com a correspondência encaminhada ao aluno pelo programa ‘Prêmio do Aluno’. Declarou, ademais, que o e-mail com propaganda eleitoral utilizado para instruir a representação foi retirado do perfil público do jornalista Luiz Carlos Bordini, pessoa com quem sequer mantém relacionamento (fls. 67/68).
+    Vê-se, pois, que, muito embora faça menção ao programa "Prêmio do Aluno" nos e-mails encaminhados aos estudantes, é certo que o envio da correspondência eletrônica pelo candidato não possui nenhuma relação com recebimento da premiação pelo aluno, dela não tendo se utilizado com o intuito de obter votos.
+    Ademais, o teor da mensagem, ainda que de eminente caráter eleitoral, não se enquadra em nenhuma das condutas típicas descritas no art. 299 do Código Eleitoral, porquanto não houve oferta ou promessa de vantagens indevidas a eleitores em troca de sufrágio.
+    Está-se, assim, diante de fato atípico.
+    Ante o exposto, o Procurador-Geral da República requer a Vossa Excelência que determine:
+    (i) o arquivamento do feito, por ausência de justa causa para a persecução penal;
+    (ii) a devolução dos autos ao Juízo de origem para adoção das medidas que entender pertinentes em relação às supostas irregularidades eleitorais.”
+    É o relatório. Decido.
+    Bem examinados os autos, relembro que o princípio do monopólio constitucional da titularidade da ação penal pública, no sistema jurídico brasileiro, somente permite a deflagração do processo criminal por denúncia do Ministério Público (Pet. 4281/DF, Rel. Min. Celso de Mello).
+    Assim, tendo o Ministério Público requerido o arquivamento no prazo legal, não cabe ação privada subsidiária, ou a título originário (CPP, art. 29; CF, art. 5º, LIX), sendo essa manifestação irretratável, salvo no surgimento de novas provas (HC 84.253/RO, Rel. Min. Celso de Mello).
+    Diante disso, acolho a manifestação do Procurador-Geral da República e defiro o arquivamento deste expediente. Determino, ainda, a devolução dos autos ao Juízo de origem para adoção das medidas que entender pertinentes em relação às supostas irregularidades eleitorais
+    Publique-se.
+    Brasília, 17 de agosto de 2017.
+Ministro  Ricardo Lewandowski
+Relator
