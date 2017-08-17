@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 1ª Turma Recursal Criminal do Tribunal de Justiça do Estado do Rio de Janeiro, que deu provimento ao recurso do Ministério Público para anular decisão que rejeitou denúncia imputada ao ora recorrente pela prática da conduta tipificada no art. 47 do Decreto-Lei nº 3.688/1941.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XIII, 6º e 193, da Constituição. Sustenta a “inexistência de justa causa para deflagração da ação penal pela figura contravencional imputada, em virtude da manisfesta atipicidade da conduta praticada”.
+    O recurso é inadmissível. De início, anoto que os arts. 6º e 193 da Constituição, nos termos trazidos na petição de recurso extraordinário, não foram objeto de apreciação pelo acórdão do Tribunal de origem, de modo que o recurso carece, no ponto, do necessário prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    A parte recorrente se limita a postular uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Nessa linha, veja-se o ARE 710.104, Rel. Min. Luiz Fux, assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSO PENAL. CONTRAVENÇÃO PENAL. ART. 47, DECRETO-LEI Nº 3.688/41. EXERCÍCIO DE PROFISSÃO SEM PREENCHIMENTO DAS CONDIÇÕES DA LEI. COMPROVAÇÃO DE AUTORIA E MATERIALIDADE. ALEGAÇÃO DE SENTENÇA CONTRÁRIA ÀS PROVAS DOS AUTOS. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+    1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    2. O prequestionamento explícito da questão constitucional é requisito indispensável à admissão do recurso extraordinário.
+    3. A Súmula 282 do STF dispõe, verbis : É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+    4. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10.
+    5. A Súmula 279/STF dispõe, verbis : Para simples reexame de prova não cabe recurso extraordinário.
+    6. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    7. In casu, o acórdão recorrido negou provimento ao apelo do ora recorrente, mantendo sua condenação pela contravenção penal prevista no art. 47 do Decreto-lei nº 3.688/41, por exercer profissão sem preencher as condições a que por lei está subordinado.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 17 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
