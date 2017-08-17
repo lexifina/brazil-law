@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – AUSÊNCIA DE PREJUÍZO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Segunda Vara da Comarca de Jaguariúna/SP, no processo nº 0005169-31.2015.8.26.0296, ao receber a denúncia, determinou a prisão preventiva do paciente, ocorrida em 29 de junho de 2017, considerado o alegado cometimento da infração descrita no artigo 121 (homicídio simples) do Código Penal. Consignou o cabimento da custódia para garantia da ordem pública e da instrução processual, aludindo à periculosidade do paciente, aos contornos e à gravidade do crime, ao risco de reiteração delituosa e de intimidação de testemunhas.
+    Determinou a redistribuição do processo-crime à Primeira Vara da Comarca de Jaguariúna/SP, recebido o nº 0001693-14.2017.8.26.0296, ante a competência para processar e julgar matérias atinentes ao Tribunal do Júri. O Juízo não acolheu pedido de revogação da preventiva, reportando-se à necessidade de preservar a ordem pública. Destacou que o paciente levou a crer tratar-se de suicídio, com o objetivo de encobrir a autoria dos delitos de homicídio e aborto motivados por suposta traição conjugal.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 407.287/SP, indeferido liminarmente pelo Relator, o qual aludiu ao verbete nº 691 da Súmula do Supremo.
+    Os impetrantes sustentam a inidoneidade da fundamentação dos atos que implicaram a segregação, tendo-os como lastreados na gravidade abstrata do crime. Aduzem ausentes os requisitos da constrição provisória, apontando ter ocorrido o fato no ano de 2015. Salientam as condições pessoais favoráveis do paciente – primariedade, bons antecedentes, residência fixa e trabalho lícito. Apontam a viabilidade de imposição de medida cautelar diversa. Asseveram consubstanciar o caso antecipação de pena.
+    Requerem, em âmbito liminar, o afastamento da preventiva. No mérito, buscam a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 14 de agosto de 2017, revelou encontrar-se o processo-crime na fase de instrução, com audiência designada para o próximo dia 27 de setembro.
+    A etapa é de exame da medida acauteladora.
+    2. O Juízo considerou a gravidade concreta da imputação para assentar a periculosidade do paciente. Inexiste a custódia automática tendo em conta a infração supostamente cometida, levando à inversão da ordem do processo-crime, que direciona, presente o princípio da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. Os contornos do delito surgem como elemento neutro, insuficiente a respaldar o argumento alusivo à preservação da ordem pública. Esta fica vinculada à observância da legislação em vigor. Aludiu ao risco de reiteração delituosa e de intimidação de testemunhas, sem revelar dado concreto, individualizado, a demonstrar a indispensabilidade da cautelar. Partiu da capacidade intuitiva, olvidando que a presunção seria de postura digna, ante o fato de o paciente estar submetido aos holofotes da Justiça. Tem-se a insubsistência das premissas lançadas.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja recolhido por motivo diverso da preventiva formalizada no processo nº 0001693-14.2017.8.26.0296, da Primeira Vara da Comarca de Jaguariúna/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. O curso deste habeas não prejudica o de nº 407.287/SP, em trâmite no Superior Tribunal de Justiça. Com as homenagens merecidas, remetam cópia desta decisão ao relator, ministro Ribeiro Dantas.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 17 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
