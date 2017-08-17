@@ -1,0 +1,19 @@
+Decisão
+    Trata-se de agravo de decisão que inadmitiu recurso extraordinário interposto em face de acórdão proferido pela Quarta Turma Recursal do Juizado Especial Federal da Terceira Região - Seção Judiciária de São Paulo.
+    Nas razões recursais, com amparo no art. 102, III, da Constituição Federal, foi alegada violação aos seguintes dispositivos constitucionais: arts. 2º, 5º, II, LIV, LV e LXXVIII, 22, I, e 37, caput.
+    É o relatório. Decido.
+    Quanto à alegação de afronta ao art. 5º, LIV e LV, da CF/1988, o apelo extraordinário não tem chances de êxito, pois esta Corte, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    No tocante à vulneração ao princípio da legalidade, aplica-se, neste caso, a restrição da Súmula 636/STF (Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida).
+    Ademais, o Juízo de origem não analisou a questão constitucional veiculada nos arts. 2º e 22, I, da CF/88, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 (É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada) e 356 (O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento), ambas desta Corte Suprema.
+    Ainda que fosse possível superar todos esses graves óbices, o Tribunal de origem, com base na Lei 9.099/1995, entendeu não haver qualquer vício na sentença, uma vez que o decisório contém todos os parâmetros de liquidação. Quanto ao mérito, deferiu a revisão do benefício da recorrida, aplicando ao caso, o entendimento firmado pelo Supremo Tribunal Federal, no RE 564.354, julgado pela sistemática da repercussão geral.
+    No recurso extraordinário, contudo, pleiteia-se a reforma do acórdão recorrido para afastar a condenação imposta à Autarquia para apresentação de cálculos, anulando a decisão impugnada por ser ilíquida (fl. 11, Vol. 30).
+    Todavia, da análise dos fundamentos da decisão combatida, é patente que não houve pronunciamento acerca da obrigação do INSS em apresentar cálculos. Dessa forma, as razões recursais estão dissociadas do fundamento do acórdão recorrido.
+    Assim, emerge como óbice ao conhecimento do presente recurso extraordinário o obstáculo constante da 284 (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia) do STF.
+    Ademais, quanto à questão da iliquidez da sentença, a controvérsia foi decidida exclusivamente à luz da legislação infraconstitucional. Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 17 de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
