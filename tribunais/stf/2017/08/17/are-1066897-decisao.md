@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “Recurso Inominado – Servidores públicos inativos – Gratificação de Gestão Educacional (GGE), instituída pela Lei Complementar n° 1.256/2015 – Pagamento de vantagem a todos os servidores integrantes das classes de suporte pedagógico do quadro do magistério, indistintamente, sem realização de avaliação de desempenho – Verba de natureza salarial e geral, sem caráter de retribuição por trabalho determinado ou realizado em condições especiais – Possibilidade de extensão aos inativos – Recurso interposto pela SP-PREV e Fazenda Pública – Não provido“ (pág. 210 do documento eletrônico 6).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 37, caput, e X; e 40, § 8° (na redação dada pela EC 41/2003), da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    É que para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279/STF – e das normas infraconstitucionais pertinentes ao caso (Súmula 280/STF), sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, cito o ARE 972.925-AgR/SP, de relatoria do Ministro Edson Fachin:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO. GRATIFICAÇÃO DE GESTÃO EDUCACIONAL.EXTENSÃO AOS SERVIDORES INATIVOS E PENSIONISTAS. NATUREZA JURÍDICA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. SÚMULA Nº 280 DO STF 1. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. Aplicável, na espécie, a Súmula 280 do STF. 2. Agravo regimental a que se nega provimento”.
+    Menciono, também, o ARE 1.018.435/SP, de relatoria do Ministro Marco Aurélio; ARE 1.008.155/SP, de relatoria do Ministro Celso de Mello; ARE 984.274-ED/SP, de minha relatoria; RE 983.239/SP, de relatoria do Ministro Dias Toffoli; ARE 984.274/SP, de relatoria da Ministra Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 17 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
