@@ -1,0 +1,13 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DIFERENÇAS SALARIAIS RECONHECIDAS EM RECLAMATÓRIA TRABALHISTA NÃO INTEGRADA PELO INSS.
+    1. O êxito do segurado em reclamatória trabalhista, no que pertine ao reconhecimento de diferenças salariais, lhe atribui o direito de postular a revisão dos salários de contribuição componentes do período básico de cálculo do benefício, os quais, por conseqüência, acarretarão novo salário de benefício, sendo irrelevante o fato de o INSS não ter participado da lide trabalhista. 2. Tratando-se de empregado, é ônus do empregador o recolhimento das contribuições pertinentes.”
+    O Instituto Nacional do Seguro Social – INSS, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, XXXV e 201, “caput” e § 1º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    É que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, pois a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Impõe-se registrar, no que concerne à própria controvérsia suscitada nestes autos, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 858.779/SC, Rel. Min. CÁRMEN LÚCIA – ARE 888.519/SC, Rel. Min. ALEXANDRE DE MORAES – ARE 910.691-AgR/RS, Rel. Min. DIAS TOFFOLI – RE 982.350-AgR/RS, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 17 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
