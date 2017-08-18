@@ -1,0 +1,29 @@
+Decisão: Trata-se de recurso extraordinário interposto pela União em face do acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 1, p. 265-266):
+    “TRIBUTÁRIO. PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. ADICIONAIS. ABONOS. COMISSÕES. AUXÍLIO-DOENÇA. AUXÍLIO-ACIDENTE. AVISO PRÉVIO INDENIZADO. SALÁRIO-MATERNIDADE. INTERESSE PROCESSUAL. COMPENSAÇÃO.
+    1. Extintos os pedidos de declaração de inexigibilidade de contribuição previdenciária sobre as férias indenizadas e o respectivo adicional constitucional, os abonos de férias (arts. 143 e 144 da CLT), o auxílio alimentação pago de acordo com o PAT, o incentivo à demissão, a licença-prêmio indenizada, o vale-transporte, a participação nos lucros e resultados, as despesas pelo uso do veículo do empregado, o auxílio-creche e a bolsa de estudos, auxílio funeral e seguro de vida, por falta de interesse processual.
+    2. A inicial não expõe qualquer fato que constitua óbice à incidência da norma do § 9º do art. 28, que expressamente afasta essas verbas do salário de contribuição. Não há qualquer demonstração de que a Administração Previdenciária desrespeitou os ditames da lei.
+    3. O suporte de validade da exigência tributária instituída pelo art. 22, I, da Lei nº 8.212/91, é o art. 195, I, da CF/88. A interpretação do referido dispositivo não extrapola ou ofende o conceito de salário, analisado sob a égide da legislação trabalhista e previdenciária.
+    4. A legislação trabalhista, ao utilizar os termos salário e remuneração, diferencia as verbas pagas diretamente pelo empregador daquelas que não são desembolsadas por ele, embora sejam resultado do trabalho realizado pelo empregado, no âmbito da relação contratual. Essa distinção tem o intuito de dar relevo ao caráter salarial das verbas remuneratórias, dessemelhando-as de outras figuras de natureza indenizatória, previdenciária ou tributária, ainda que nominadas como "salário".
+    5. O fato gerador referido no art. 195, inciso I, da CF/88, na sua redação original, envolve todas as verbas alcançadas pelo empregador, a título de remuneração, ao empregado que lhe presta serviços. Importa, para elucidar a inteligência desse dispositivo, verificar se os pagamentos feitos ao empregado têm natureza salarial, não a denominação da parcela integrante da remuneração.
+    6. A alteração introduzida pela Emenda Constitucional nº 20/98 no art. 195, I, da Carta, não acarretou alargamento da base de cálculo antes prevista, em relação aos empregados, visando somente a expressar de forma clara e explícita o conteúdo do conceito de folha de salários.
+    7. O pagamento recebido pelo empregado, nos quinze dias consecutivos ao afastamento da atividade, embora suportado pelo empregador, representa verba decorrente da inatividade, não se conformando à noção de salário. Não estando o empregado capacitado para trabalhar, por causa de doença, a prestação respectiva tem natureza previdenciária.
+    8. A exigência de contribuição previdenciária sobre as verbas pagas pelo empregador durante os quinze dias que antecedem a concessão do auxílio-doença não tem amparo no art. 22, inciso I, da Lei nº 8.212/91, por não consistir em remuneração pela prestação de serviços.
+    9. O salário maternidade possui natureza salarial, à luz do disposto no art. 7º, inc. XVIII, da Constituição Federal, integrando a base de cálculo das contribuições ora discutidas.
+    10. Resta clara a natureza salarial dos pagamentos feitos a título de horas extras, sobreaviso, adicionais noturno, de insalubridade, periculosidade, adicionais de função, gratificações, comissões, abono assiduidade e repouso semanal remunerado, haja vista o notório caráter de contraprestação.
+    11. A compensação somente poderá ser realizada após o trânsito em julgado.”
+    Decisão: Trata-se de agravo de instrumento cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, cuja ementa transcrevo (eDOC 5, p. 79):
+    “PROCESSUAL CIVIL. AGRAVO DE. INSTRUMENTO CONTRA ATO DE MERO EXPEDIENTE. SEGUIMENTO NEGADO. AGRAVO REGIMENTAL.
+    1. O ato agravado visa, unicamente, à realização de impulso processual, não se configurando decisão interlocutória. Dos despachos ordinatórios não cabe recurso, nos termos do art. 504 do CPC.
+    2. A urgência do caso só justifica a excepcionalidade de suprimir a decisão de primeira instância, quando a omissão puder ocasionar, em determinados casos, dano irreparável à parte recorrente.
+    3. Agravo regimental a que se nega provimento.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a” do permissivo constitucional, aponta-se a ofensa ao artigo 150, IV, da Constituição Federal.
+    A Presidência do TRF da 1ª Região inadmitiu o extraordinário sob o fundamento de que o recurso não tratou da matéria discutida no acórdão recorrido (eDOC 5, p. 152).
+    É o relatório. Decido.
+    De plano, verifica-se que a controvérsia relativa à composição da base de cálculo da contribuição previdenciária patronal cinge-se ao Tema 20 da sistemática da repercussão geral, cujo recurso-paradigma é o RE-RG 565.160, de relatoria do Ministro Marco Aurélio, DJe 1º.02.2008, assim ementado:
+    “CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL - REMUNERAÇÃO - PARCELAS DIVERSAS - SINTONIA COM O DISPOSTO NO INCISO I DO ARTIGO 195 DA CONSTITUIÇÃO FEDERAL - DEFINIÇÃO - RECURSO EXTRAORDINÁRIO - REPERCUSSÃO GERAL ADMITIDA. Surge com envergadura maior questionamento sobre o alcance da expressão “folha de salários” versada no artigo 195, inciso I, da Carta da República, considerado o instituto abrangente da remuneração.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 18 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
