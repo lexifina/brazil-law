@@ -1,0 +1,3 @@
+Solução de Divergência Cosit nº 22, de 11 de agosto de 2017
+ASSUNTO: Contribuição para o PIS/Pasep EMENTA: PESSOA JURÍDICA DE DIREITO PÚBLICO INTERNO. BASE DE CÁLCULO. REGIME DE CAIXA. As receitas que compõem a base de cálculo da Contribuição para o PIS/Pasep devida pelas pessoas jurídicas de direito público são apuradas mediante do regime de caixa, ou seja, as receitas correntes efetivamente arrecadadas e as transferências correntes e de capital efetivamente recebidas. DISPOSITIVOS LEGAIS: inciso III do art. 2º da Lei nº 9.715, de 25 de novembro de 1998; art. 70 do Decreto nº 4.524, de 17 de dezembro de 2002; art. 35 da Lei nº 4.320, de 17 de março de 1964.
+[arquivo anexo: SD Cosit nº 22-2017.pdf]
