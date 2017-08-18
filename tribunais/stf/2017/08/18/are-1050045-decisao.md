@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DEFENSOR DATIVO. HONORÁRIOS ADVOCATÍCIOS. TABELA DA OAB. OBSERVÂNCIA.
+    1. O Estado de Santa Catarina tem legitimidade e interesse recursal relacionados à condenação de honorários destinados ao advogado dativo nomeado para atuar em processo criminal, uma vez que é o responsável pelo custeio de aludida verba.
+    2. Não é possível, nesta via processual, analisar suposta infringência de dispositivos constitucionais, uma vez que se cuida de recurso voltado à interpretação de direito federal infraconstitucional.
+    3. O agravo apresenta inconformismo quanto à validade da Lei Complementar Estadual n. 155/1997 diante da Lei n. 8.906/1994 (Estatuto da Advocacia). No entanto, com a promulgação da Emenda Constitucional n. 45/2004, esta Corte Superior deixou de ser competente para examinar validade de lei local contestada em face de lei federal, devendo a questão ser dirimida pelo Supremo Tribunal Federal, conforme o disposto no art. 102, III, "d", da Constituição Federal.
+    4. "A análise da proporcionalidade entre os valores mínimos tabelados pela Seccional de Santa Catarina e de outros Estados implica o revolvimento do conjunto fático-probatório dos autos, ensejando a incidência da Súmula 7/STJ" (AgRg no REsp 1.540.647/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016).
+    5. O arbitramento judicial dos honorários advocatícios ao defensor dativo, nomeado para oficiar em processos criminais, deve observar os valores mínimos estabelecidos na tabela da OAB, considerados o grau de zelo do profissional e a dificuldade da causa.
+    6. Agravo regimental parcialmente conhecido e, nessa extensão, não provido.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LV e 37, caput, X, e 102, § 2º, da Constituição. Alega que “o acórdão do Superior Tribunal de Justiça merece ser reformado, a fim de que seja afastada a aplicação da tabela da OAB na espécie”.
+    O recurso é inadmissível. Acolho o parecer do Ministério Público Federal no sentido de que “o Vice-Presidente do STJ não admitiu o recurso extraordinário por falta de questão constitucional direta e pela impossibilidade de revisar fatos e provas na via extraordinária. O agravante não se desincumbiu de impugnar o apontado óbice da Súmula 279, circunstância que impede o processamento do agravo, nos termos do art. 932, III, do CPC/2015 e em linha com a jurisprudência firme dessa Corte”.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) “o Supremo Tribunal Federal tem entendimento pacífico no sentido de que, se houvesse violação, esta seria reflexa. Assim, eventual ofensa ao texto constitucional dar-se-ia de forma reflexa”; (ii) “bem como a matéria demandaria o reexame da matéria fático-probatória, vedado pela Súmula 279/STF”.No entanto, a parte recorrente não se desincumbiu do seu dever processual de desconstituir o fundamento da decisão agravada de que incide, no caso, a Súmula 279/STF. Nesses casos, é inadmissível o agravo, conforme a orientação desta Corte. Veja-se, nesse sentido, a seguinte passagem da ementa do ARE 695.632-AgR/SP, julgado sob a relatoria do Ministro Luiz Fux:
+    “[...]
+    1. O princípio da dialeticidade recursal impõe ao recorrente o ônus de evidenciar os motivos de fato e de direito suficientes à reforma da decisão objurgada, trazendo à baila novas argumentações capazes de infirmar todos os fundamentos do decisum que se pretende modificar, sob pena de vê-lo mantido por seus próprios fundamentos.
+    2. O agravo de instrumento é inadmissível quando a sua fundamentação não impugna especificamente a decisão agravada. Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia. (súmula 287/STF).
+    3. Precedentes desta Corte: AI 841690 AgR, Relator: Min. Ricardo Lewandowski, DJe - 01/08/2011; RE 550505 AgR, Relator: Min. Gilmar Mendes, DJe - 24/02/2011; AI 786044 AgR, Relatora: Min. Ellen Gracie, DJe- 25/06/2010.
+    […].”
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso.
+    Publique-se.
+          Brasília, 18 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
