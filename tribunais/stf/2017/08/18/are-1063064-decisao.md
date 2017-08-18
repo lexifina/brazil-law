@@ -1,0 +1,13 @@
+DECISÃO
+SERVIDOR PÚBLICO – PRISÃO PREVENTIVA – REDUÇÃO DE VENCIMENTOS – IMPOSSIBILIDADE – RECURSO EXTRAORDINÁRIO – PROVIMENTO.
+    1. Eis a síntese do acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo:
+    APELAÇÃO Mandado de segurança Servidor público estadual Investigador de polícia Prisão temporária decretada Suspensão do pagamento dos seus vencimentos Pretensão de imediato restabelecimento Segurança denegada Insurgência Impossibilidade de inversão do julgamento Ato administrativo respaldado pelo artigo 70 da Lei nº 10.261/68, com redação dada pela Lei Complementar nº 1.012/07 Inocorrência de afronta aos princípios da irredutibilidade de vencimentos e da presunção de inocência Manutenção da sentença nos termos do artigo 252 do RITJSP Não provimento do recurso.
+    No extraordinário cujo trânsito busca alcançar, o agravante aponta a violação dos artigos 5º, inciso LVII, e 37, inciso XV, da Constituição Federal. Afirma contrariados os princípios da presunção de inocência e da irredutibilidade de vencimentos.
+    2. O acórdão impugnado está em dissonância com a jurisprudência do Supremo, a qual assentou a impossibilidade de redução dos vencimentos de servidor público preso preventivamente. Assim concluíram ambas as Turmas do Tribunal:
+    SERVIDOR PÚBLICO PRESO PREVENTIVAMENTE. DESCONTOS NOS PROVENTOS. ILEGALIDADE. PRECEDENTES. 1. A jurisprudência da Corte fixou entendimento no sentido de que o fato de o servidor público estar preso preventivamente não legitima a Administração a proceder a descontos em seus proventos. 2. Agravo regimental não provido. (agravo regimental no recurso extraordinário com agravo 705.174, relatado na Primeira Turma pelo ministro Dias Toffoli, acórdão publicado no Diário da Justiça de 23/10/2013)
+    RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – POLICIAL CIVIL – PRISÃO CAUTELAR – REDUÇÃO DOS VENCIMENTOS – IMPOSSIBILIDADE – VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA E DA IRREDUTIBILIDADE DE VENCIMENTOS (CF, ART. 5º, INCISO LVII, E ART. 37, INCISO XV) – RECURSO IMPROVIDO. (agravo regimental no recurso extraordinário com agravo 715.658/PR, relatados na Segunda Turma pelo ministro Celso de Mello, acórdão publicado no Diário da Justiça de 5/9/2013).
+    3. Conheço e provejo este agravo, assentando o enquadramento do extraordinário no permissivo da alínea a do inciso III do artigo 102 da Constituição Federal. Conheço do extraordinário e o provejo para, reformando o acórdão recorrido, determinar o restabelecimento do pagamento da remuneração do agravante. Ficam invertidos os ônus da sucumbência.
+    4. Publiquem.
+Brasília, 18 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
