@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado (eDOC 2, p. 3):
+    “APELAÇÃO CÍVEL – CONSTRUÇÃO CIVIL – RECOLHIMENTO DE DIFERENCIAL DE ALÍQUOTA DE ICMS – AQUISIÇÃO DE MERCADORIAS PARA USO NO CONSTRUÇÃO – IMPOSSIBILIDADE DE INCIDÊNCIA DO TRIBUTO – PRECEDENTES DO STF E STJ – HONORÁRIOS ADVOCATÍCIOS – FAZENDA PÚBLICA – FIXAÇÃO NOS MOLDES ESTABELECIDOS NO ART. 20, § 4º DO CPC – APLICAÇÃO DO ART. 557, § 1-A DO CPC – PROVIMENTO PARCIAL. ”
+    Os embargos de declaração foram desprovidos (eDOC 2, p. 58).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 155, § 2º, VII “a” e “b” e VIII, da Constituição Federal.
+     Nas razões recursais, aduz-se que “uma vez recolhido na origem o ICMS pela alíquota interestadual, constata-se que o Recorrido é contribuinte do ICMS, cabendo, portanto ao Estado destinatário a diferença entre alíquotas” (eDOC 2, p. 88).
+    A Vice-Presidência do TRF da 3ª Região inadmitiu o recurso em virtude do não recolhimento prévio do valor correspondente à multa aplicada no recurso de agravo (eDOC 2, p. 5).
+    É o relatório. Decido.
+    Sob a vigência do Código de Processo Civil de 1973, competia ao recorrente, ainda que Fazenda Pública, em sede de recurso extraordinário, comprovar o recolhimento da multa processual imposta pelo Tribunal de origem, condição objetiva de procedibilidade de novos recursos, nos termos do parágrafo único do art. 1.026, § 3º, do CPC.
+    Logo, diante da inexistência de recolhimento da multa de 1% que lhe foi imposta, correta a decisão do Tribunal de Justiça do Estado da Paraíba ao inadmitir o extraordinário pela ausência desse pressuposto processual objetivo.
+    Neste sentido, vejam-se os seguintes julgados:
+    “EMBARGOS DECLARATÓRIOS EM RECURSO EXTRAORDINÁRIO COM AGRAVO RECEBIDOS COMO AGRAVO REGIMENTAL. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE RECOLHIMENTO DE MULTA PROCESSUAL. CONDIÇÃO OBJETIVA DE PROCEDIBILIDADE. 1. É inadmissível o recurso interposto sem o recolhimento da multa processual anteriormente aplicada, uma vez que seu recolhimento é condição objetiva de procedibilidade para interposição de novos recursos, nos termos do art. 538, parágrafo único, do CPC. 2. Agravo regimental a que se nega provimento” (ARE 901.450-ED, de minha relatoria, Primeira Turma, DJe 10.12.2015).
+    “AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MULTA DO ART. 557, § 2º, DO CPC. RECOLHIMENTO. CARÁTER SANCIONATÓRIO. PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE PARA NOVOS RECURSOS. PRECEDENTES. PARTE BENEFICIADA COM ISENÇÃO DE CUSTAS PROCESSUAIS. NATUREZA E FINALIDADE DIVERSAS. EXIGIBILIDADE. Por ostentar caráter sancionatório e inibitório do uso abusivo e inadequado dos meios processuais, o recolhimento oportuno da multa do art. 557, § 2º, do CPC, longe de se confundir com as custas processuais, constitui pressuposto objetivo de admissibilidade de novos recursos, ainda que interpostos com o objetivo de discutir a sua imposição. Precedentes. A isenção do pagamento das custas não alcança a penalidade imposta, forte no art. 557, § 2º, do CPC, ao agravo manifestamente protelatório. Agravo regimental conhecido e não provido” (AI 541.146-AgR-ED-EDv-AgR, Rel. Min. Rosa Weber, Plenário, DJe 28.11.2014).
+    Ante o exposto, não conheço do recurso, nos termos do artigo 21, § 1º do RISTF.
+    Publique-se.
+    Brasília, 18 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
