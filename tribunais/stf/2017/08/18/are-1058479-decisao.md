@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 6, p 200):
+    “DIREITO ADMINISTRATIVO — AÇÃO DE COBRANÇA —Contribuições — Convênio de Arrecadação Direta — SESI —Empresa que deixou de cumprir sua obrigação legal ao não efetuar o recolhimento das contribuições exigidas, nos termos do Convênio — Sentença que julgou a ação procedente, com exceção dos períodos atingidos pela decadência mantida — Recurso não provido.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, caput e II; e 150, II e IV, da Constituição Federal.
+    Sustenta-se, em síntese, que apesar de existirem vícios formais, efetuou o pagamento das contribuições cobradas.
+    Alude-se a abusividade da conduta da Administração Tributária, uma vez que já houve o recolhimento pleiteado.
+    A Presidência de Direito Público do TJ/SP inadmitiu o recurso extraordinário com base na Súmula 282 do STF.
+    É o relatório. Decido.
+    Inicialmente, verifico que as questões referentes à violação dos artigos da Constituição Federal, como o princípio da legalidade e da vedação ao efeito confiscatório, supostamente violados não foram objeto de debate no acórdão recorrido. Ressalta-se, que apesar da oposição de embargos de declaração, a petição foi omissa em relação aos dispositivos tidos por violados.
+    Nesse quadro, a jurisprudência desta Corte é firme no sentido de ser inadmissível o recurso extraordinário, quando a matéria constitucional suscitada não tiver sido apreciada no acórdão recorrido. Incide, portanto, a Súmula 356 do Supremo Tribunal Federal.
+    Cito os seguintes julgados:
+    “AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. AUTÔNOMOS. LEI COMPLEMENTAR 84/1996. CONSTITUCIONALIDADE. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. PLEITO DE IMUNIDADE. CONTROVÉRSIA A RESPEITO DA EXISTÊNCIA DE CONTRIBUIÇÃO DOS PARTICIPANTES. VALORES PAGOS A PROFISSIONAIS DE SAÚDE PRESTADORES DE SERVIÇOS. CONTROVÉRSIA QUANTO À OCORRÊNCIA DO FATO GERADOR DO TRIBUTO. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS E DE CLÁUSULAS CONTRATUAIS. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. SÚMULAS 730, 636, 454 E 279 DO STF. ARTIGO 195, I, A, DA CONSTITUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE AGRAVANTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. APLICAÇÃO DA MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. SEM HONORÁRIOS (SÚMULA 512 DO STF). AGRAVO INTERNO DESPROVIDO.”
+(AI 860815 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 21.11.2016)
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Prequestionamento. Ausência. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Compensação. Discussão quanto à identidade de pleitos. Conexão. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A matéria constante dos dispositivos constitucionais tidos como violados não foi examinada pelo Tribunal de origem. Incidência das Súmulas nºs 282 e 356 desta Corte. 2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 3. Inadmissível, em recurso extraordinário, a análise de legislação infraconstitucional ou o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 4. Agravo regimental não provido.”
+(ARE 938284 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 02.05.2016)
+    Ademais, no intento de conferir maior clareza à presente controvérsia, transcrevo trecho da decisão do voto que julgou a apelação interposta pela parte ora recorrente (eDOC 6, p. 204):
+    “É certo que do contido nos autos, não comprovou a apelante, o recolhimento das contribuições exigidas nesta ação de cobrança, nos termos do Convênio de Arrecadação Direta firmado com o SESI.
+    Ademais, embora a apelante afirme que os recolhimentos nunca deixaram de ser efetuados, admite que ‘por um lapso, tais recolhimentos foram efetuados a partir de informações incorretas e/ou através de meios inadequados’.
+    (…)
+    Dessa forma, comprovada a regularidade das notificações e não comprovado o recolhimento das contribuições, devidamente exigidas nesta ação de cobrança, nos termos do Convênio de Arrecadação Direta firmado com o SESI e diante da sucumbência mínima da apelada, de rigor a manutenção da sentença.”
+    Sendo essas as razões de decidir, constato que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista as vedações contidas na Súmulas 279 e 280 do STF.
+    Confira-se, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONTRIBUIÇÕES PARA O SESC E O SENAI. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.”
+(AI 630259 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 01.07.2009)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, com fundamento no artigo 932, IV, a, do CPC e 21, § 1º do RISTF.
+    Publique-se.
+    Brasília, 18 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
