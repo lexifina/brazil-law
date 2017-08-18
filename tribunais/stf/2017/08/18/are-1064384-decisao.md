@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – FALTA DE PREQUESTIONAMENTO - INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, julgou procedente o pedido para declarar o direito de servidora pública municipal ao recebimento da gratificação especial saúde da família, no período de 1º de janeiro de 2012 a 13 de março de 2104. No extraordinário cujo trânsito busca alcançar, o recorrente afirma violado o artigo 37, cabeça, da Constituição Federal. Diz contrariado o verbete nº 339 da Súmula do Supremo. Diz inobservado o princípio da legalidade. Aponta a impossibilidade de o Poder Judiciário aumentar vencimento de servidores com fundamento em isonomia.
+    2. Colho do acórdão recorrido os seguintes trechos:
+    O Município de São Bernardo do Campo justificou o não pagamento da gratificação com base na ausência de cadastro da apelante junto ao SCNES Sistema de Cadastro Nacional de Estabelecimentos de Saúde como membro da Equipe Azul, e por exercer, desde 1996, como titular de cargo efetivo, jornada de 30 horas semanais de trabalho.
+    Ainda que a apelante tenha sido designada para integrar a “equipe azul” em 1.1.2012, já na vigência da Portaria Ministerial nº 2.488, de 21 de outubro de 2011, na ocasião estava em vigor a Lei Municipal nº 5.052/2009, que criou as Gratificações Especiais na Secretaria de Saúde e seus critérios de aplicação:
+    […]
+    O diploma não impunha a carga horária de quarenta horas estabelecida no ato administrativo nacional. Simplesmente estabelecia como paradigma o cumprimento da carga horária do servidor.
+    Referida norma só foi revogada pela Lei Municipal nº 6.280, de 21.6.2013 que assim estabeleceu:
+    […]
+    A prova de que a apelante exerceu suas atividades no Programa Saúde da Família na vigência da Lei nº 5.952/09 encontra-se a f. 24/32; assim permanecendo na vigência da Lei nº 6.280/2013, conforme se vê dos relatórios de f. 55/72 até sua aposentadoria em 14.3.2014, inclusive participando de reuniões com a equipe técnica, visitas e atendimentos exatamente como exigido pela legislação.
+    A Lei Municipal nº 5.952, de 2009, não podia exigir o que a portaria ministerial passou a impor em 2011, quando editada; e a Lei nº 6.280, de 2013, permitiu que a apelante, mesmo sem o cadastro no SCNES, exercendo jornada de 30 horas semanais, continuasse integrando a Equipe Azul, como, aliás, admitido pela Administração.
+    De proêmio relembre-se que ato administrativo federal não revoga lei municipal. A responsabilidade pelo cadastramento, como visto, era do município, que tem competência para organizar seus próprios serviços. E, se como convenientemente foi alegado, a servidora designada não quis aumentar sua carga horária, deveria ser excluída do programa. Não o foi e a lei municipal assegurava lhe o direito à correspondente gratificação. Logo, sob pena de enriquecimento sem causa, ao serviço efetivamente prestado deve corresponder a respectiva retribuição pecuniária nela prevista.
+    Assim, faz jus a apelante à Gratificação Especial Saúde da Família no período de janeiro de 2012 a março de 2014, quando se aposentou, observando-se os demais dispositivos da Lei nº 5.952/09 (arts. 7º e ss.) e da Lei nº 6.280/13 (arts. 4º e ss.), isto é, não incorporação, não incidência sobre férias e 13º etc. (f. 10 e 17/8), não havendo, por conseguinte, “reflexos pertinentes” porque não previstos na legislação.
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, haver o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise das Leis municipais nº 5.952/09 e nº 6.280/2013. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo.
+    Acresce que o sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 18 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
