@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (e-DOC 4, p. 81):
+    “CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DA RENDA MENSAL INICIAL. PRESERVAÇÃO DO VALOR REAL DO BENEFÍCIO. ÍNDICES DE REAJUSTES DIVERSOS. DESCABIMENTO. APELAÇÃO A QUE SE NEGA PROVIMENTO.
+    1. Ao interpretar o enunciado do art. 201, § 4º, da Constituição Federal, o Supremo Tribunal Federal entendeu que o constituinte deixou para o legislador ordinário o estabelecimento dos critério de atualização com vistas a preservar o valor real dos benefícios (RE 219.880-RN). No cumprimento dessa autorização, o legislador infraconstitucional editou regras com os índices a serem utilizados, de modo que não cabe ao operador jurídico criar novos parâmetros para a aplicação do princípio.
+    2. Relativamente aos índices oficiais, as Leis nºs 8.212 e 8.213, de 24 de julho de 1991, aprovaram os planos de custeio e de benefícios da Previdência Social. Na sequência, o INPC foi sucedido pelo IRSM, a partir da edição da Lei nº 8.542/92, pelo IPC-r, em julho de 1994 (Lei nº 8.880/94), retornando em julho de 1995 (Medida Provisória nº 1.053/95), para ser afastado com a retroatividade de aplicação do IGP-DI, aos doze meses anteriores a maio de 1996, expresso na Medida Provisória n. 1.415/96, reeditada e convertida na Lei n. 9.711/98. A partir daí, sucessivos índices foram utilizados pela legislação superveniente: Medidas Provisórias nºs 1.572-1/97 (7,76%), 1.663-10/98 (4,81%), 1.824/99 (4,61%), 2.022-17/2000 (5,81%) e 2.187-11/2001 (7,66%) e pelos Decretos nºs 3.826/01 (7,66%), 4.249/02 (9,20%), 4.709/03 (19,71%), 5.061/04 (4,53%) e 5.443/05 (6,355%).
+    3. O segurado não tem direito de escolher, sob a alegação genérica de perda de poder aquisitivo, o índice que, a seu ver, melhor reflete a inflação do período para fins de reajustamento da renda mensal do benefício.
+    4. Apelação a que se nega provimento.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI, 37, X, e 39, § 4º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que a parte recorrente possui direito à reincorporação de anuênios e da vantagem prevista no art. 184, II, da Lei 1.711/52, combinado com o art. 250 da Lei 8.112/90, de forma cumulativa com o subsídio e com o pagamento das parcelas suprimidas desde a edição da Medida Provisória 305/2006.
+    A Vice-Presidência Tribunal de origem inadmitiu o recurso extraordinário, por entender que não há congruência entre as razões recursais e o pedido consignado na petição inicial, além de não ter sido prequestionada a matéria constitucional suscitada, o que faz incidir o óbice das Súmulas 282 e 356 do STF.
+    É o relatório. Decido.
+    De plano, observa-se que os dispositivos constitucionais tidos por violados carecem do necessário prequestionamento e tampouco foram opostos embargos de declaração visando sanar eventual omissão. Esta Corte tem consignado ser inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo ato recorrido. Incidem, portanto, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes julgados:
+    “DIREITO PREVIDENCIÁRIO. CONTAGEM RECÍPROCA. REGIMES DISTINTOS. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. Cristalizada a jurisprudência desta Suprema Corte, a teor das Súmulas 282 e 356/STF: “Inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”, bem como “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.”
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+    3. Majoração em 10% (dez por cento) os honorários advocatícios anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+    4. Agravo regimental conhecido e não provido.” (ARE 973.581-AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 13.03.2017)
+    “Agravo regimental no recurso extraordinário com agravo. Benefício previdenciário. Concessão. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF.
+    2. Não se presta o recurso extraordinário para o reexame das provas constantes dos autos ou para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF.
+    3. Agravo regimental não provido.” (ARE 928.668-AgR, rel. Min. Dias Toffoli, Segunda Turma, DJe 28.04.2016)
+    Ante o exposto, nego seguimento ao agravo, nos termos do artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 21 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
