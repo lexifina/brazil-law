@@ -1,0 +1,25 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela União contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 1ª Região, está assim ementado:
+    “ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL RODOVIÁRIO FEDERAL. EDITAL N. 01/2009. PROVA OBJETIVA. MATÉRIA ALHEIA AO EDITAL. ANULAÇÃO DA QUESTÃO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário” (grifei)
+    Com efeito, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula de edital, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém nas Súmulas 279/STF e 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal Regional Federal da 1ª Região, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático- -probatórios e em interpretação de cláusula de edital:
+    “De imediato, no que concerne à questão n. 66, creio que não subsiste interesse processual do autor. Consoante documento acostado à fl. 505, a banca acadêmica decidiu pela sua anulação, ‘atribuindo-se o ponto da questão anulada a todos os candidatos’.
+    Já com relação às questões n. 22, 67 e 76, este Tribunal já se manifestou pela sua anulação. A primeira não apresenta alternativa correta; outras, não integram o conteúdo programático do concurso público. Em tais bases, resta configurado, pois, erro grosseiro e, por essa razão, sujeito a correção pelo Poder Judiciário. Confiram-se:
+    …...................................................................................................
+    A seu turno, a questão n. 23, impugnada pelo autor, possui o seguinte enunciado (fl. 88):
+    …...................................................................................................
+    De acordo com a banca avaliadora, dita ‘... questão envolve tabelas e seu conteúdo se enquadra em ‘noções de estatística’, o qual faz parte do conteúdo programático’ (fl. 211), precisamente na disciplina raciocínio lógico, conforme edital (fls. 73-74):
+    …...................................................................................................
+    Não conformado, o apelante, por sua vez, ampara-se em 05 (cinco) pareceres para alegar que, conquanto a solução da questão demande conhecimento de estatística, matéria prevista no edital, exige também conhecimentos sobre ‘matrizes’, não englobada (fls. 110-141).
+    Vejo que a alegação de que a solução da questão exigiria conhecimentos sobre matrizes não foi objeto de impugnação pela rés/apeladas (União e FUNRIO). Limitaram a arguir ‘impossibilidade de atuação do Poder Judiciário em casos onde se busca anulação de questões de prova de concursos públicos’ (fl. 220), ‘adequação da questão [...] ao conteúdo programático’ (fl. 227), visto que seu conteúdo estaria abrangido na disciplina ‘noções de estatística’.
+    Depois de analisar tudo o que se alegou, penso que, conforme assinalado pelo juiz na decisão em que antecipada a tutela, a questão n. 23 deve ser anulada, porquanto: a) ‘demanda solução por meio de método não previsto no conteúdo programático do edital’; b) ‘os pareceres matemáticos demonstram inequivocamente que a resposta da questão n. 23 de raciocínio lógico demanda o manuseio de matrizes, tema pertencente ao grupo disciplinar matemático álgebra linear, assunto que não consta do rol programático do edital que rege o concurso’; c) essa conclusão deriva ‘da precisão lógica inerente aos pareceres matemáticos apresentados pelo autor, confeccionados por especialistas em matemática (mestres e doutores)’ (fls. 146-147).”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte agravante revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 21 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
