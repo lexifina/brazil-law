@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO EM MANDADO DE SEGURANÇA – Preliminar de anulação da sentença em primeiro grau e, no mérito, alegação de usurpação de competência pela autoridade estadual, inaplicabilidade de Decreto Estadual em rio federal e inconstitucionalidade da Portaria do IBAMA – NÃO ACOLHIMENTO – Sentença que motivou adequadamente sua decisão e solucionou a controvérsia com aplicação do direito que entendeu cabível à espécie – Lei Federal autoriza o IBAMA ao exercício da competência para a preservação, conservação e utilização sustentável de ecossistemas, biodiversidades e florestas – Decreto Estadual que se coaduna com as previsões da Lei Federal 11.959/2009 – Aplicabilidade do Decreto Estadual à extensão do rio que estiver dentro do Estado de São Paulo – Previsão constitucional e legal que autoriza a fiscalização pela autoridade estadual – Autoridade estadual que legislou dentro dos limites autorizados pela Constituição – NEGADO PROVIMENTO AO APELO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, II, XIII, LIV; 24, VI; e 48, V, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso pelo seguinte fundamento: “os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada”.
+    O recurso não merece acolhida. O Tribunal de origem entendeu ser compatível com a Lei federal nº 11.959/2009 o decreto estadual que versa sobre a preservação, conservação e utilização sustentável de ecossistemas. Ademais, assentou que a autoridade estadual legislou dentro dos limites autorizado pela Constituição Federal. Para divergir desse entendimento, seria imprescindível a análise da legislação infraconstitucional aplicada ao caso, procedimento vedado neste momento processual.
+    Ademais, incide, no caso, a Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 21 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
