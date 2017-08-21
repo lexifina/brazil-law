@@ -1,0 +1,22 @@
+DECISÃO
+PRISÃO PREVENTIVA – EXCESSO DE PRAZO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+LIMINAR – EXTENSÃO – CORRÉUS.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – AUSÊNCIA DE PREJUÍZO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal da Comarca de Governador Valadares/MG, no processo nº 010515020666-9, converteu a prisão em flagrante do paciente, ocorrida em 27 de maio de 2015, em preventiva, ante a suposta prática dos crimes versados nos artigos 33 (tráfico de drogas), 35 (associação para o tráfico), combinados com o 40, incisos III e VI (aumento da pena de 1/6 a 2/3 se a infração houver sido cometida nas imediações de estabelecimento de ensino e envolver ou visar atingir criança ou adolescente), todos da Lei nº 11.343/2006, e 12 (posse irregular de arma de fogo) da Lei nº 10.826/2003. Assentou inviável a liberdade provisória, reportando-se ao artigo 44 da Lei de Drogas. Frisou que, apesar da discussão a respeito da constitucionalidade do dispositivo, estando presentes os requisitos da preventiva, esta se mostra impositiva. Destacou a gravidade das condutas, apontando-as como a causa da criminalidade na Comarca. Disse tratar-se de reincidente em delito de tráfico de drogas, aludindo a condenação anterior para assentar a periculosidade. Afirmou imperiosa a constrição, dizendo-a necessária para a preservação da ordem e saúde públicas.
+    Posteriormente, no processo que recebeu o nº 0005756-07.2015.8.13.0105, condenou o paciente a 8 anos e 9 meses de reclusão, em regime inicial fechado, e ao pagamento de 854 dias-multa, em virtude da prática de tráfico, absolvendo-o das demais imputações. Negou o direito de recorrer em liberdade, consignando haver permanecido recolhido durante a instrução processual, a revelar a subsistência dos motivos ensejadores da segregação provisória.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 408.071/MG, tendo o vice-presidente, ministro Humberto Martins, indeferido a medida de urgência.
+    A impetrante alega excesso de prazo da prisão. Menciona sucessivos adiamentos da audiência de instrução e julgamento, que implicaram o prolongamento da custódia. Evoca os princípios da dignidade da pessoa humana e da presunção da não culpabilidade. Alega a falta de razões para a constrição cautelar. Aduz que o Juízo, na sentença, justificou a medida no fato de o paciente ter respondido ao processo preso.
+    Requer, no campo precário e efêmero, a expedição de alvará de soltura. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 12 de agosto de 2017, revelou encontrar-se pendente de julgamento a apelação formalizada pela defesa.
+    A fase é de apreciação da liminar.
+    2. Observem ter o Juízo aludido à reincidência do paciente no ato mediante o qual determinou a preventiva e na sentença, ocasião em que a manteve. Nesse aspecto, a imposição da custódia mostrou-se fundamentada.
+    Ocorre que, a esta altura, sem culpa formada, o paciente está preso há 2 anos, 2 meses e 24 dias. Surge o excesso de prazo considerada a segregação provisória e o estágio do processo-crime, porquanto pendente de exame a apelação interposta pela defesa. A preventiva deve ser balizada no tempo. Privar da liberdade, por prazo desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. Nada justifica tal fato. A constrição decorrente de título condenatório provisório, embora admitida pela lei penal, integra o campo da excepcionalidade.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da preventiva formalizada no processo nº 0005756-07.2015.8.13.0105, da Segunda Vara Criminal da Comarca de Governador Valadares/MG. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. Sendo idêntica a situação dos corréus José Guilherme Teixeira de Sena Soares, Nilson Barbosa de Oliveira, Luis Carlos Silva Padim e Rômulo Vinícius de Assunção Moreira, estendo-lhes, com os mesmos cuidados, a medida acauteladora, observado o disposto no artigo 580 do Código de Processo Penal.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 21 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
