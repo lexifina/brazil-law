@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Minas Gerais ementado nos seguintes termos:
+    “DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO DO MUNICÍPIO DE BELO HORIZONTE. PROGRESSÃO PROFISSIONAL. ARTIGOS 91 A 96 DA LEI 7.169/96. CÔMPUTO DO TEMPO DE SERVIÇO PRESTADO DESDE O INGRESSO NO SERVIÇO PÚBLICO MUNICIPAL PARA CONCESSÃO DA VANTAGEM. IMPOSSIBILIDADE. SENTENÇA MANTIDA.
+    - O tempo de serviço trabalhado antes da edição da Lei 7.169/96 não pode ser considerado para concessão da progressão prevista nos art. 91 e ss. dessa lei.
+    - Não há como retroagir a contagem do tempo de serviço para ter início na data de ingresso do servidor no serviço público, como meio de se adquirir vantagem futura ainda não existente àquela data.
+    - Recurso não provido. (eDOC 1, p. 136)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alíneas “a” e “c”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 5º, caput e 37, caput, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, violação aos princípios da legalidade, da moralidade e da impessoalidade. Ademais, sustenta-se que o prazo para progressão deve ser contado a partir da admissão do servidor público e não da data da edição da lei.
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque o Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipal nº 7.169/96), consignou que o prazo para progressão profissional deve ser contado após a adesão do servidor pelo Plano de Carreira.
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO DO MUNICÍPIO DE BELO HORIZONTE. LEI MUNICIPAL Nº 7.169/1996. PROGRESSÃO FUNCIONAL. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA 280/STF. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 09.10.2012. A decisão agravada está em harmonia com a jurisprudência desta Casa acerca do caráter infraconstitucional do debate atinente à interpretação dada pelo Tribunal de Justiça mineiro à progressão funcional prevista na Lei nº 7.169/96 do Município de Belo Horizonte. Precedentes. A suposta ofensa aos postulados constitucionais somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo. Eventual violação oblíqua ou reflexa não viabiliza trânsito a recurso extraordinário. Agravo regimental conhecido e não provido.” (ARE-AgR 748649, Rel. Min. Rosa Weber, Primeira Turma, Dje 03.09.2014)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Servidor público municipal. Progressão horizontal. Lei nº 7.169/1996. 3. Legitimidade da cumulação da progressão funcional com o adicional por tempo de serviço. Necessidade de interpretação de legislação local. Súmula 280. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento.” (ARE-AgR 827128, Rel. Min. Gilmar Mendes, Dje 12.11.2014)
+    Ademais, ressalta-se que esta Corte entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro o valor da verba honorária fixada pela origem em 10%, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 22 de agosto de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
