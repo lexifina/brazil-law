@@ -1,0 +1,17 @@
+Decisão:
+Ementa: Penal e Processual penal. Habeas corpus. Tráfico de drogas. Regime inicial. Substituição da pena. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 409.156, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 6 (seis) anos e 28 (vinte e oito) dias de reclusão, em regime inicial fechado, pelo crime previsto no artigo 33, caput, c/c o artigo 40, III, ambos da Lei 11.343/06.
+    3. Em seguida, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo, não conhecido. Na sequência, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 409.156, Ministro Rogerio Schietti Cruz, indeferiu a medida liminar.
+    4. Neste habeas corpus, a parte impetrante sustenta a possibilidade, no caso, da fixação de regime inicial mais brando e da substituição da pena privativa de liberdade por outra pena restritiva de direitos.
+    5. Com essa argumentação, requer a concessão da ordem a fim de “determinar a suspensão do cumprimento da pena até que o juiz da execução proceda à analise dos requisitos subjetivos e objetivos para verificar a possibilidade que se modifique o regime inicial da pena a ser cumprida pelo paciente, modificando-o para o semiaberto/aberto”.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As decisões das instâncias precedentes não são teratológicas ou patentemente desfundamentadas. Reconheço que a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). Mas o fato é que, na hipótese de que se cuida, o Juízo de origem fixou o regime inicial fechado com apoio em dados empíricos idôneos, extraídos da prova judicialmente colhida, em especial na quantidade e variedade da droga apreendida (60 invólucros de cocaína e 15 tabletes de maconha). De modo que não verifico teratologia, ilegalidade flagrante ou abuso de poder que autorize o pronto acolhimento do pedido.
+    8. Quanto ao mais, é certo que o paciente foi condenado à pena de 6 (seis) anos e 28 (vinte e oito) dias de reclusão. Nessas condições, incide a orientação jurisprudencial do Supremo Tribunal Federal no sentido da impossibilidade de substituição da pena fixada em patamar superior a 4 (quatro) anos de reclusão, nos termos do artigo 44, inciso I, do Código Penal (vg. HC 119.811, Rel. Min. Teori Zavascki, DJe de 1º.07.14; HC 121.543, Rel. Min. Luiz Fux, DJe de 1º.08.14; HC 118.602, Rel. Min. Teori Zavascki, DJe de 11.03.14; HC 118.717, Rel. Min. Ricardo Lewandowski, DJe de 11.03.14).
+    9. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 22 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
