@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária de Sergipe, que, ao dar provimento ao recurso inominado da parte autora, adotou tese jurídica firmada nos seguintes termos: (eDOC 12, p. 1):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. PLANO DE CARREIRA. PROVENTOS DE APOSENTADORIA. RUBRICAS. RETRIBUIÇÃO POR TITULAÇÃO – RT. NOVO MÉTODO DE CÁLCULO INAUGURADO PELA LEI Nº 12.772/12, O QUAL PASSOU A LEVAR EM CONSIDERAÇÃO O INDICADOR ‘RECONHECIMENTO DE SABERES E COMPETÊNCIAS – RSC’. REGIME JURÍDICO PREVIDENCIÁRIO. DEMANDANTE COM INGRESSSO NO SERVIÇO PÚBLICO ANTERIOR À EC 41/2003, COM APOSENTADORIA EM 24/06/2011. DIREITO À PARIDADE DECLARADO. APROVEITAMENTO DE TÍTULOS E CERTIFICADOS OBTIDOS ANTES DA APOSENTAÇÃO, CONFORME PREVISTO NO ART. 17, §1º, LEI 12.772/12. DEVER ADMINISTRATIVO DE ANALISAR A EQUIVALÊNCIA CONFORME RESOLUÇÃO 01/2014, DO MEC/SETEC/CPRSC. PRAZO DE TRAMITAÇÃO DO PEDIDO QUE DEVERÁ OBSERVAR O ART. 49 E 69-A DA LEI 9.784/99 SOB PENA DE IMPOSIÇÃO DE MULTA. RECURSO DA PARTE AUTORA PROVIDO.”
+    Os embargos de declaração opostos pela parte ré foram rejeitados (eDOC 15).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 5º, XXXVI, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a vedação ao reconhecimento do indicador RSC (reconhecimento de saberes e competências) quanto às aposentadorias concedidas antes de sua instituição pela Lei 12.772/13, em face do princípio tempus regit actum.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, convém transcrever o que assentado pelo Tribunal de origem (eDOC 12):
+    “A parte autora recorreu contra sentença que julgou improcedente seu pedido de reconhecimento, nos seus proventos de aposentadoria, de novo método de cálculo da gratificação intitulada Retribuição por Titulação – RT, inaugurado pelo art. 18, da Lei nº 12.772/12, e que instituiu o indicador Reconhecimento de Saberes de Competências – RSC.
+    Com relação ao mérito da presente demanda, esta Turma Recursal já teve oportunidade de se manifestar sobre a matéria, ocasião em que, por unanimidade, reconheceu o pedido.
+    (…)
+    Vê-se que o diploma legislativo reconhece expressamente que a RT, nos moldes estabelecidos pela Lei nº 12.772/12, deve ser considerada no cômputo dos proventos e pensões conforme o regramento de regime previdenciário aplicável e desde que os certificados ou títulos houvessem sido obtidos antes da aposentação, nos termos da regulamentação, no caso, a Resolução MEC/SETEC/CPRSC nº 01, de 20 de fevereiro de 2014.
+    Em síntese, o servidor aposentado faz jus ao cálculo da RT nos moldes estabelecidos nos artigos 17 e 18 da Lei 12.772/12 desde que: 1) tenha direito à paridade com ingresso anterior a EC 41/2003; 2) os certificados e títulos exigidos para o “Reconhecimento de Saberes e Competências” hajam sido obtidos antes do início da inatividade, requisito este que haverá de ser aferido pela Administração no bojo do procedimento administrativo a ser instaurado pelo interessado”
+    Sendo estas as razões de decidir, verifica-se que eventual divergência com o entendimento adotado pelo juízo a quo – sobre a possibilidade de se reconhecer o direito dos inativos a perceberem a mencionada vantagem RSC, nos moldes dos requisitos delineados pelo acórdão recorrido –, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie (Lei 12.772/12). Desse modo resta inviabilizado o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    A hipótese tratada nos autos guarda pertinência com os seguintes precedentes, assim ementados:
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Servidor público. Gratificação de Estímulo à Docência (GED). Extensão aos inativos. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Os dispositivos constitucionais tidos como violados não foram examinados pelo Tribunal de origem. Incidência das Súmulas nºs 282 e 356 da Corte.
+    2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF.
+    3. Agravo regimental não provido.” (ARE 729.128-AgR, rel. Min. Dias Toffoli, Primeira Turma, DJe 08.08.2013).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA - GED. EXTENSÃO A INATIVOS. LEI 9.678/1998. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. Precedentes. II – Agravo regimental improvido.” (RE 58.273-AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 27.03.2012).
+    Em casos análogos ao dos autos, cito as decisões: ARE 1.047.268, rel. Min. Ricardo Lewandowski, DJe 29.05.2017; ARE 1.065.313, rel. Min. Luiz Fux, DJe 16.08.2017; ARE 1.040.709, rel. Min. Luiz Fux, DJe 29.06.2017.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos dos artigo 21, § 1º, RISTF.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, porquanto não houve fixação de verba honorária nas instâncias de origem.
+    Publique-se.
+    Brasília, 22 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
