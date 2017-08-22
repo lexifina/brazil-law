@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. AÇÃO ANULATÓRIA. ICMS. ATIVO FIXO. AQUISIÇÃO DE BEM EM OUTRA UNIDADE DA FEDERAÇÃO. FIXAÇÃO DA ALÍQUOTA APLICÁVEL. CONTRIBUINTE QUALIFICADO COMO CONSUMIDOR FINAL. INCIDÊNCIA DO ARTIGO 155, § 2º, VII E VIII, DA CONSTITUIÇÃO FEDERAL. EXIGIBILIDADE DO DIFERENCIAL DE ALÍQUOTA. PRECEDENTE. RECURSO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário (Doc. 3, p. 63), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (Doc. 3, p. 12) que assentou, in verbis:
+    “APELAÇÃO. TRIBUTÁRIO. ICMS. BENS DESTINADOS AO ATIVO IMOBILIZADO. DÉBITO FISCAL. DIFERENÇA DE ALÍQUOTA INTERESTADUAL. DESCONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. 1) O fato gerador do ICMS é a circulação da mercadoria, que envolve a transferência de sua titularidade. 2) É pacífica a jurisprudência pátria, no sentido de que os bens destinados à integração no ativo fixo do estabelecimento não gera o direito ao crédito tributário, caso em que o adquirente é o destinatário final. 3) Conforme jurisprudência do STF, o contribuinte do ICMS que adquire bens com a finalidade de integrar o ativo fixo da empresa é considerado, em termos conceituais, destinatário final da mercadoria. 4) Apelação desprovida.”
+    Os embargos de declaração opostos foram desprovidos (Doc. 3, p. 53).
+    Nas razões do apelo extremo, a Fazenda sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 155, § 2º, VII e VIII, da Constituição Federal. Asseverou a incidência do diferencial de alíquota do ICMS nas operações interestaduais de aquisição de bens destinados ao consumo ou ao ativo fixo do contribuinte.
+    É o relatório. DECIDO.
+    Verifica-se que a controvérsia, além de envolver o conceito de destinatário final, implica saber se o contribuinte do ICMS que adquire mercadoria em outra Unidade da Federação e a destina ao consumo próprio ou ao ativo fixo do estabelecimento tem obrigação de pagar ao Estado de sua sede a diferença entre a alíquota.
+    O Supremo Tribunal Federal já decidiu que o contribuinte do ICMS que adquire bens com a finalidade de integrar o ativo fixo da empresa é considerado destinatário final da mercadoria, mesmo antes da edição da Lei Complementar 87/1996. Cito a título de ilustração o RE 349.543-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 21/11/2008.
+    Por conseguinte, fica evidente a incidência do diferencial de alíquota do ICMS nos termos do artigo 155, § 2º, VII e VIII, da Constituição. Nesse sentido, confiram:
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ICMS. OPERAÇÃO INTERESTADUAL. AQUISIÇÃO DE BENS PARA O ATIVO FIXO. CONSUMIDOR FINAL DO PRODUTO. PRECEDENTES. INCIDÊNCIA DA ALÍQUOTA INTERESTADUAL (ART. 155, § 2º, VII, “A”, DA CONSTITUIÇÃO FEDERAL). COBRANÇA DO DIFERENCIAL DE ALÍQUOTA PELO ESTADO DA LOCALIZAÇÃO DO DESTINATÁRIO. LEGITIMIDADE. PRECEDENTE.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de qualificar como consumidora final, para fins de incidência do ICMS, a sociedade empresária que adquire bens e serviços para integrar seu ativo fixo. Precedentes: RE 540.588-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 21/3/2013; RE 244.982-AgR, de minha relatoria, Segunda Turma, DJe de 7/5/2013.
+    2. Estabelecido que (a) a empresa agravante é contribuinte do ICMS e (b) qualifica-se como consumidora final dos bens destinados ao seu ativo fixo, é plenamente cabível a aplicação dos incisos VII e VIII do § 2º do art. 155 da Carta Magna, de modo que a alíquota a incidir na operação será a interestadual, destinando-se ao Estado de localização da empresa o diferencial de alíquota.
+    3. Agravo regimental a que se nega provimento.” (RE 472.035-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 10/3/2015).
+    Dessa orientação divergiu o acórdão recorrido.
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 932, V, do CPC/2015. Ficam invertidos os ônus da sucumbência.
+    Publique-se.
+    Brasília, 22 de agosto de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
