@@ -1,0 +1,29 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Segunda Turma do Tribunal Regional Federal da 5ª Região, que deu provimento à apelação da parte autora, sob os seguintes fundamentos (e-DOC 1, p. 75):
+    “PREVIDENCIÁRIO. PROCESSUAL CIVIL. CONSTITUCIONAL. VALOR DA CAUSA SUPERIOR A 60 SALÁRIOS MÍNIMOS. COMPETÊNCIA DA VARA COMUM JUSTIÇA FEDERAL. JULGAMENTO DA LIDE PELO TRIBUNAL. ART. 515, § 3º DO CPC. BENEFÍCIO DE RENDA MENSAL VITALÍCIA. SERINGUEIRO. PERÍODO DA SEGUNDA GUERRA MUNDIAL. ART. 54 DO ADCT E ART. 3º DA LEI Nº 7.986/89, COM AS ALTERAÇÕES INTRODUZIDAS PELA LEI Nº 9.711/98. REQUISITOS. PREENCHIMENTO. DANOS MORAIS. INOCORRÊNCIA.
+    - O valor da causa deve corresponder ao que se busca na ação, ainda que não se possa aferir de imediato o montante a ser pago com o deslinde favorável, mas deve se aproximar, na medida do possível, do benefício buscado.
+    - Hipótese em que o montante buscado na ação é superior ao teto de 60 (sessenta) salários mínimos estabelecido pelos Juizados Especiais Federais Civis, devendo, neste caso, ser reconhecida a competência da Vara comum da Justiça Federal para julgar a pretensão autoral.
+    - Na espécie, tratando-se a causa de questão unicamente de direito e encontrando-se o processo em condição de imediato julgamento, pode a lide ser analisada por egrégio Regional, com fulcro no § 3º, art. 515 do CPC.
+    - Na espécie, tendo o autor preenchido os requisitos necessários para a concessão do benefício de pensão vitalícia, ou seja, a comprovação do desenvolvimento da atividade de seringueiro no período de Guerra, na Região Amazônica, bem como a qualidade de carente, consubstanciado em prova material acostada aos autos, deve ser acolhida a sua pretensão ao recebimento do referido benefício, nos termos art. 54 do ADCT c/c art. 3º da Lei nº 7.986/89.
+    - O dano moral e aquele que, distinguindo-se do dano patrimonial, ocorrem em atributos da personalidade como a dor, angústia, consternação, vergonha, humilhação, ataques à honra subjetiva, etc. Tais caracteres somente podem ser medidos analisando-se a natureza objetiva do evento e perscrutando-se quanto à sua potencialidade danosa, tendo por base a análise da normalidade das relações pessoais.
+    - No caso, o simples fato do INSS não ter atendido a pretensão do autor, não obriga a Autarquia a indenizar, haja vista a inexistência da comprovação do fato, do dano e o nexo causal, mormente quando há nos autos prova de que o autor, já recebia uma renda decorrente de aposentadoria por idade.
+    - Precedentes jurisprudenciais.
+    - Apelação provida.”
+    Os embargos de declaração opostos em duas oportunidades foram rejeitados (eDOC 1, p. 93 e eDOC 1, p. 106).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 203, V, da Constituição Federal e ao art. 54 do ADCT, uma vez que o acórdão recorrido determinou a concessão de pensão mensal vitalícia cumulada com outro benefício previdenciário ou assistencial, o que desnatura a situação de carência econômica da parte autora exigida pela legislação.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Observo que o acórdão recorrido decidiu a controvérsia interpretando a Lei Federal 7.986/89, que regulamenta a concessão do benefício previsto no art. 54 do ADCT, conforme se observa do seguinte trecho do voto condutor (eDOC 1, pp. 71-72):
+    “O art. 54 do ADCT reconhece o direito ao benefício de pensão mensal vitalícia no valor de dois salários mínimos aos seringueiros que, durante a Segunda Guerra Mundial, trabalharam na produção de borracha na Região Amazônica.
+    Por sua vez, a Lei nº 7.986/89, regulamentando a norma constitucional em comento, dispõe em seu art. 3º, com as alterações introduzidas pela Lei 9.711/98, que:
+    ‘Art. 3º. A comprovação da efetiva prestação de serviços a que alude esta Lei, inclusive mediante justificação administrativa ou judicial, só produzirá efeito quando baseada em início de prova material, não sendo admitida prova exclusivamente testemunhal.’
+    Assim, a concessão do benefício em tela depende de início de prova material, não sendo admitida prova exclusivamente testemunhal.
+    Do exame dos autos verifico que o autor logrou comprovar a atividade de seringueiro no período de guerra. Observa-se na certidão emitida pelo Ministério da Agricultura que a parte autora trabalhou no período de 31/12/1943 a 09/05/1955, como seringueiro, na localidade de Belterra/PA. Registre-se que o INSS não colacionou aos autos nenhum documento que infirme o conteúdo da prova material trazida pelo autor acerca de sua atividade profissional desempenhada naquele período.
+    No tocante ao período da carência, impende registrar que não há de se exigir uma situação de miserabilidade absoluta para concessão do referido benefício, bastando a comprovação de que o beneficiário não tem condições de prover a própria manutenção. No caso, verifica-se que o autor por ser uma pessoa de idade avançada, recebendo apenas um benefício de aposentadoria equivalente a um salário mínimo, denota-se a condição de carente de modo a fazer jus ao recebimento da pensão em comento.”
+    Ademais, a falta de comprovação de carência, para fins de percepção do benefício previdenciário ora em debate, é tema que se refere ao conjunto fático-probatório constante dos autos, de modo que rever a posição adotada pelo Tribunal de origem, em sede extraordinária, encontra óbice no enunciado da Súmula 279 do STF.
+    Nesse sentido, cito precedentes análogos ao presente: RE 606.781, rel. Min. Teori Zavascki, DJe 12.12.2014; RE 1.051.025, rel. Min. Celso de Mello, DJe 30.06.2017.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, § 1º, do RISTF e do art. 932, IV, “a”, do CPC.
+    Publique-se.
+    Brasília, 22 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
