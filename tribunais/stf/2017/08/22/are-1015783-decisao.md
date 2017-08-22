@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPTU. CEMITÉRIO NÃO VINCULADO A ENTIDADE DE CUNHO RELIGIOSO. INEXISTÊNCIA DE IMUNIDADE TRIBUTÁRIA. AGRAVO PROVIDO E, DESDE LOGO, PROVIDO O RECURSO EXTRAORDINÁRIO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “APELAÇÃO - Mandado de Segurança - IPTU - Imunidade da tributação do IPTU em relação a cemitérios - Possibilidade - Deram provimento ao recurso, para conceder a segurança.”
+    Nas razões do apelo extremo, a parte recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 150, VI, b, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que o acórdão recorrido estaria em consonância com a jurisprudência do Supremo Tribunal Federal.
+    É o Relatório. DECIDO.
+    O recurso merece provimento.
+    O Plenário desta Corte, no julgamento do RE 578.562, Rel. Min. Eros Grau, DJe de 12/9/2008, assentou que os cemitérios que consubstanciam extensões de entidades de cunho religioso estão abrangidos pela imunidade tributária prevista no artigo 150, VI, b, da Constituição Federal. Transcrevo a ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. IMUNIDADE TRIBUTÁRIA. IPTU. ARTIGO 150, VI, ‘B’, CB/88. CEMITÉRIO. EXTENSÃO DE ENTIDADE DE CUNHO RELIGIOSO. 1. Os cemitérios que consubstanciam extensões de entidades de cunho religioso estão abrangidos pela garantia contemplada no artigo 150 da Constituição do Brasil. Impossibilidade da incidência de IPTU em relação a eles. 2.A imunidade aos tributos de que gozam os templos de qualquer culto é projetada a partir da interpretação da totalidade que o texto da Constituição é, sobretudo do disposto nos artigos 5º, VI, 19, I e 150, VI, ‘b’. 3. As áreas da incidência e da imunidade tributária são antípodas. Recurso extraordinário provido.”
+    In casu, trata-se de cemitério administrado por sociedade empresarial, sem conotação religiosa, de forma que não há que se falar em imunidade tributária.
+    Versando controvérsia semelhante, confira-se, ainda, o RE 562.351, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 12/4/2013, assim ementado:
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. IMUNIDADE TRIBUTÁRIA. ART. 150, VI, C, DA CARTA FEDERAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. ART. 150, VI, B, DA CONSTITUIÇÃO DA REPÚBLICA. ABRANGÊNCIA DO TERMO ‘TEMPLOS DE QUALQUER CULTO’. MAÇONARIA. NÃO CONFIGURAÇÃO. RECURSO EXTRAORDINÁRIO CONHECIDO EM PARTE E, NO QUE CONHECIDO, DESPROVIDO. I - O reconhecimento da imunidade tributária prevista no art. 150, VI, c, da Constituição Federal exige o cumprimento dos requisitos estabelecidos em lei. II - Assim, para se chegar-se à conclusão se o recorrente atende aos requisitos da lei para fazer jus à imunidade prevista neste dispositivo, necessário seria o reexame do conjunto fático-probatório constante dos autos. Incide, na espécie, o teor da Súmula 279 do STF. Precedentes. III - A imunidade tributária conferida pelo art. 150, VI, b, é restrita aos templos de qualquer culto religioso, não se aplicando à maçonaria, em cujas lojas não se professa qualquer religião. IV - Recurso extraordinário parcialmente conhecido, e desprovido na parte conhecida.”
+    Ex positis, DOU PROVIMENTO ao agravo para, desde logo, PROVER o recurso extraordinário. Sem honorários (Súmula 512 do STF). Custas ex lege.
+    Publique-se.
+    Brasília, 22 de agosto de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
