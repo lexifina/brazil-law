@@ -1,0 +1,17 @@
+DECISÃO:
+    1.  Trata-se de embargos de divergência opostos contra acórdão proferido pela Primeira Turma do Supremo Tribunal Federal em 26.08.2016, à unanimidade de votos, sob a minha relatoria, assim ementado:
+    “DIREITO CONSTITUCIONAL E DIREITO DO TRABALHO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. CONTRATO DE TRABALHO ANTERIOR À CF/1988. INEXISTÊNCIA DE TRANSPOSIÇÃO AO REGIME JURÍDICO ÚNICO. ALEGAÇÃO DE NULIDADE DO CONTRATO DE TRABALHO. SÚMULA 284/STF. PRECEDENTES.
+    1. A controvérsia dos autos não é fundada em vínculo estatutário ou em contrato de trabalho temporário submetido a lei especial. Trata-se de contrato que fora celebrado antes do advento da Constituição Federal de 1988, em época na qual se admitia a vinculação à Administração Pública de servidores sob o regime da CLT. A competência, portanto, é da Justiça do Trabalho. Precedentes.
+    2. As razões do recurso extraordinário quanto à nulidade do vínculo com a Administração Pública não guardam pertinência com a fundamentação do acórdão recorrido. Nessas circunstâncias, incide a Súmula 284/STF.
+    3. Agravo regimental a que se nega provimento.”
+    2.  A parte embargante aponta como paradigmática da divergência a decisão proferida no RE 573.202-RG. Afirma que, no mencionado precedente, o Plenário deste Tribunal teria solucionado o mérito do recurso de modo distinto do que acabou sendo mantido pela Corte no presente caso. Defende a competência da Justiça Comum para apreciar a presente controvérsia.
+    3. É o relatório. Decido.
+    4. O recurso é inadmissível. O Plenário do Supremo Tribunal Federal, ao examinar, em 1º.10.2015, o ARE 906.491-RG, Rel. Min. Teori Zavascki, sob a sistemática da repercussão geral, reafirmou a jurisprudência da Corte e decidiu positivamente pela competência da Justiça do Trabalho para apreciar e julgar demanda proposta por servidor público admitido sem concurso público, pelo regime da CLT, anteriormente ao advento da Constituição Federal de 1988. Na oportunidade, a Corte determinou que, para tais casos, são inaplicáveis os precedentes formados na ADI 3.395-MC, Rel. Min. Cezar Peluso, e RE 573.202-RG, Rel. Min. Ricardo Lewandowski. Veja-se, nesse sentido, a ementa que recebeu o julgado (Tema 853):
+    “CONSTITUCIONAL. TRABALHISTA. COMPETÊNCIA. SERVIDOR PÚBLICO ADMITIDO SEM CONCURSO PÚBLICO, PELO REGIME DA CLT, ANTES DO ADVENTO DA CONSTITUIÇÃO DE 1988. DEMANDA VISANDO OBTER PRESTAÇÕES DECORRENTES DA RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+    1. Em regime de repercussão geral, fica reafirmada a jurisprudência do Supremo Tribunal Federal no sentido de ser da competência da Justiça do Trabalho processar e julgar demandas visando a obter prestações de natureza trabalhista, ajuizadas contra órgãos da Administração Pública por servidores que ingressaram em seus quadros, sem concurso público, antes do advento da CF/88, sob regime da Consolidação das Leis do Trabalho – CLT. Inaplicabilidade, em casos tais, dos precedentes formados na ADI 3.395-MC (Rel. Min. CEZAR PELUSO, DJ de 10/11/2006) e no RE 573.202 (Rel. Min. RICARDO LEWANDOWSKI, DJe de 5/12/2008, Tema 43).
+    2. Agravo a que se conhece para negar seguimento ao recurso extraordinário.”
+    5. Diante do exposto, nos termos do artigo 335, § 1º, do RI/STF, não admito os embargos de divergência.
+    Publique-se. Intimem-se.
+          Brasília, 23 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
