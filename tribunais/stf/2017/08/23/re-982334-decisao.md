@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região que possui a seguinte ementa (fl. 184, Vol. 1):
+          ADMINISTRATIVO. CONCURSO PARA INGRESSO EM CARGO DO SERVIÇO MILITAR TEMPORÁRIO. DISCRIMINAÇÃO POR ALTURA NÃO PREVISTA EM LEI.
+    1. Remessa Oficial e Apelação interposta pela UNIÃO FEDERAL em face de sentença que, ratificando liminar anteriormente concedida, nos autos de Mandado de Segurança, deferiu o pleito da exordial a fim de conceder a segurança para declarar a nulidade do ato de eliminação do impetrante da fase pertinente à avaliação de saúde, tornando definitiva a manutenção da mesma no concurso público em causa, acaso não eliminada por outro motivo.
+    2. A Constituição Federal de 1988, em seu artigo 7º, XXX, proíbe a instituição de critério de admissão por motivo de sexo, idade, cor ou estado civil.
+    3. Não há existência de qualquer dispositivo legal que lastreie a exigência editalícia pertinente à altura mínima para os candidatos ao serviço militar. Com efeito, as Leis n° 12.464/2011 e n° 6.880/80 reportam-se apenas à possibilidade de fixação de requisitos específicos necessários ao desempenho do cargo integrante da carreira militar, mas não aludem expressamente a restrição pertinente à altura mínima em causa, a qual encontra sua base normativa, portanto, apenas na regra constante do item 5.1.2, alínea "d" do Edital EAT/EIT 2014.
+    4. A necessidade de adstrição ao edital do concurso, o qual opera como verdadeira lei reguladora dos concursos e seleções públicas, não elide a observância aos Princípios da Razoabilidade e da Proporcionalidade como consectários da atuação da Administração, princípios estes que terminariam por ser violados com a eliminação da candidata do concurso em causa em virtude do suposto descumprimento de requisito, a princípio, dissociado das atribuições inerentes à função militar almejada, revestida de natureza eminentemente administrativa.
+    5. Remessa Oficial e Recurso de Apelação não providos.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta que o julgado ofendeu o artigo 142 da CF/88.
+    É o relatório. Decido.
+    O Juízo de origem não divergiu da jurisprudência desta Corte firmada no sentido de que a exigência de altura mínima para acesso a cargo público deve estar prevista em lei em sentido formal e material. Nesse sentido:
+    DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. EXIGÊNCIA DE ALTURA MÍNIMA. LIMITAÇÃO IMPOSTA APENAS POR EDITAL. IMPOSSIBILIDADE. PRECEDENTES. 1. A jurisprudência do Supremo Tribunal Federal possui o entendimento de que a exigência de altura mínima para o cargo de policial militar é válida, desde que prevista em lei em sentido formal e material, bem como no edital que regulamente o concurso. 2. Na hipótese, apenas o edital do concurso estabelecia a exigência, de modo que tal limitação se mostra ilegítima. Precedentes. 3. Agravo regimental a que se nega provimento. (ARE 906.295-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 15/12/2015)
+    PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. EXIGÊNCIA DE ALTURA MÍNIMA PARA INVESTIDURA EM CARGO PÚBLICO. PREVISÃO EM LEI ESPECÍFICA E NO EDITAL DO CERTAME. LEGITIMIDADE. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (RE 668.499-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 22/3/2016)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem e o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 23 de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
