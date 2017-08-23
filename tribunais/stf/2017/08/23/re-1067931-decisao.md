@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra acórdão que julgou válida a Resolução 56/2009 da Agência Nacional de Vigilância Sanitária - ANVISA, que proíbe a atividade de bronzeamento artificial para fins estéticos.
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação ao art. 5º, II, da mesma Carta, sob o argumento de que apenas mediante a edição de lei seria válida a proibição do funcionamento comercial das câmaras de bronzeamento.
+    A pretensão recursal não merece acolhida.
+    É que esta Corte, ao julgar casos similares ao ora em exame, concluiu que a controvérsia referente à validade da Resolução 56/2009 da ANVISA está restrita ao âmbito infraconstitucional, de modo que eventual violação à Constituição Federal seria apenas indireta. Além disso, entendeu que a apreciação dos recursos extraordinários sobre esse tema demanda o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, destaco o ARE 937.365-AgR/RS, de relatoria do Ministro Edson Fachin, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ANVISA. RESOLUÇÃO 56/2009. EQUIPAMENTOS DE BRONZEAMENTO ARTIFICIAL. FISCALIZAÇÃO. ANÁLISE DE FATOS E PROVAS. SÚMULA 279. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. A análise de alegação que deva ser contrastada com elementos probatórios trazidos aos autos esbarra no óbice da Súmula 279 do STF. 2. É incabível o recurso extraordinário por ofensa reflexa ou indireta à Constituição, o que se verifica no caso, dada a necessidade de se examinar legislação infraconstitucional. 3. Agravo Regimental a que se nega provimento”.
+    Com o mesmo entendimento, menciono as seguintes decisões, entre outras: ARE 966.405/RS, Rel. Min. Alexandre de Moraes; ARE 1.050.246/SC, Rel. Min. Marco Aurélio; ARE 1.031.303/RS, Rel. Min. Rosa Weber; ARE 1.024.197/SC, Rel. Min. Gilmar Mendes; ARE 1.023.160/RS, de minha relatoria; ARE 1.001.805/RS, Rel. Min. Dias Toffoli; ARE 994.887/RS, Rel. Min. Celso de Mello; ARE 989.954/RS, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
