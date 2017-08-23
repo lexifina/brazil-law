@@ -1,0 +1,16 @@
+DECISÃO
+SUSPENSÃO DE SEGURANÇA. MANDADO DE SEGURANÇA. GREVE. CORTE DE VENCIMENTOS NOS DIAS PARADOS. PERDA SUPERVENIENTE DE INTERESSE DE AGIR. SUSPENSÃO DE SEGURANÇA PREJUDICADA.
+Relatório
+    1. Pedido de suspensão de segurança ajuizado pelo Município de Camaçari objetivando a suspensão da segurança concedida pelo Relator do Mandado de Segurança n. 0010697-12.2016.8.05.0000 em favor do Sindicato dos Servidores Públicos do Município de Camaçari – SINDEC, “determinando seja expedido ofício, em caráter de urgência, à Prefeitura Municipal de Camaçari, para que se abstenha de continuar efetuando os cortes nos salário dos servidores, bem como para que libere, no prazo de 05 (cinco) dias úteis, todos os valores retidos indevidamente até o presente momento” (doc. 1, fl. 36).
+    2. Em 14.7.2017, intimei o “Requerente para manifestar-se, no prazo de quinze dias, sobre interesse no prosseguimento do feito e no julgamento desta suspensão, justificando-o e juntando andamento atualizado da ação principal e da certidão de trânsito em julgado, se houver, sob pena de extinção desta suspensão” (doc. 15).
+    3. Em 22.8.2017, o Requerente “MANIFEST[ou] O DESINTERESSE NO PROSSEGUIMENTO DO FEITO E NO JULGAMENTO DESTA SUSPENSÃO, pelas razões a seguir expostas.
+    O presente pedido de suspensão, tem como objeto liminar concedida pelo Tribunal de Justiça da Bahia, nos autos do Mandado de Segurança n. 0010697-12.2016.8.05.0000, onde se determinou que a Prefeitura de Camaçari, em caráter de urgência, se abstivesse de continuar efetuando os cortes nos salários dos servidores em greve, tendo em vista que, naquela época, o movimento paredista ainda não tinha sido declarado ilegal pelo Poder Judiciário.
+    Ocorre que, o julgamento da Ação Declaratória de Ilegalidade de Greve (nº 0007535-09.2016.8.05.0000, publicado em 23 de novembro de 2016), – que indeferiu o pedido incidental de reconvenção e julgou procedente a ação, declarando a ilegalidade da greve deflagrada pelo Sindicato dos Servidores Públicos do Município de Camaçari - SINDSEC e pelo Sindicato dos Professores do Município de Camaçari - SISPEC –, acabou por provocar a perda do objeto do mandamus, conforme se extrai da movimentação atualizada do processo (doc. anexo).
+    Ademais, em que pese o parecer da douta Procuradoria da República, a possibilidade de corte do ponto já está pacificada, merecendo registro à tese de repercussão geral fixada no julgamento do RE 693456, na qual “A administração pública deve proceder ao desconto dos dias de paralisação decorrentes do exercício do direito de greve pelos servidores públicos, em virtude da suspensão do vínculo funcional que dela decorre, permitida a compensação em caso de acordo. O desconto será, contudo, incabível se ficar demonstrado que a greve foi provocada por conduta ilícita do Poder Público”.
+    Assim, em razão da perda superveniente do objeto, o Município não tem mais interesse no prosseguimento do feito e julgamento desta suspensão“ (sic, doc. 16).
+    4. Pelo exposto, julgo prejudicada a presente suspensão de segurança pela perda superveniente do interesse de agir do Requerente (art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Arquive-se.
+    Brasília, 23 de agosto de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
