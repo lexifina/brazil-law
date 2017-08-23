@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Tribunal de Justiça do Estado do Paraná, confirmando o entendimento do Juízo, julgou procedente o pedido formulado em execução, considerada a possibilidade de cobrança, por concessionária da rodovia, pelo uso da faixa de domínio lindeira por empresa de telefonia, tendo em vista o contrato firmado entre as partes. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, inciso XXIII, 21, inciso XI, e 22, inciso IV, da Constituição Federal. Aponta a inconstitucionalidade da cobrança. Afirma a necessidade de observância à competência da União em disciplinar os serviços de telecomunicações. Diz ferido o interesse coletivo. Ressalta ser necessária a autorização legal para a realização da cobrança pelo uso de bem de uso comum. Entende inviável a cobrança de uma concessionária sobre outra.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    Reporta-se a principal divergência dos autos acerca da possibilidade de a concessionária da rodovia – no caso, a Caminhos do Paraná S/A –, poder contratualmente cobrar da outra concessionária – no caso, a Brasil Telecom S/A –, pelo uso da faixa de domínio lindeira, uma vez que para realizar a atividade concedida (telefonia), e, assim, satisfazer o interesse público, necessita aterrar cabos na via que não é da concessionária da rodovia, mas sim do Estado. Estaria, assim, impelida a, para praticar a atividade pública, remunerar outra pessoa privada. Há, portanto, controvérsia a respeito da legitimidade da cobrança, uma vez que são dois serviços de natureza pública sendo executados por pessoas privadas, em que uma das concessionárias lucra às expensas da outra, que, afinal, também está para satisfazer o interesse público.
+    (…)
+    Em que pesem tais argumentos, os mesmos não prosperam, em decorrência da própria natureza jurídica das relações ora analisadas, que são, basicamente, três: da Caminhos do Paraná para com o Estado, da Brasil Telecom para com o Estado e de ambas as concessionárias, contratualmente, entre si.
+    Há, assim, primeiramente, duas relações de direito público e uma de direito privado envolvidas. As alegações da Embargante-Apelante fazem aparentar que o regime jurídico-administrativo invalidaria o contrato, mas não é o caso.
+    (…)
+    Inicialmente, sublinhe-se o art. 11 da Lei nº 8.987/95, alcunhada de “Lei das Concessões”:
+    (…)
+    Dando concretude a tal vênia legal, o contrato administrativo firmado entre o Estado do Paraná e a Caminhos do Paraná (fls. 159/228) prevê expressamente que a concessão do serviço permite o aferimento de receitas oriundas da cobrança pelo uso do lote cedido, inclusive a faixa marginal (lindeira), além do próprio uso típico de tráfego de veículos pedagiado. É o que se observa na fl 180:
+    (…)
+    Assim, a Lei das Concessões, somada ao Contrato de Concessão da estrada à Caminhos do Paraná S/A, permitem o expediente de cobrança pelo uso das faixas marginais da rodovia, deixando-a livre para pactuar tal maneira de captação de receitas com outras empresas (…). Vale dizer, a Lei e o contrato abremessa possibilidade de remuneração da concessionária, uma vez que lhe é concedido o lote da estrada e sua remuneração não é exclusivamente o pedágio, mas sim “quaisquer receitas (…) provenientes da atividade vinculada à exploração do lote, das suas faixas marginais...”, nos exatos termos do contrato de concessão.
+    Ademais, ao contrato do alegado, a Lei Geral de Telecomunicações (nº 9.472/97) não exime tal possibilidade e não ampara a Apelante-Embargada.
+    À toda evidência, somente pela análise pela legislação de regência e revisão do quadro fático, seria dado concluir de forma diversa, o que é vedado em sede extraordinária. Por outro lado, os dispositivos indicados não foram prequestionados, esbarrando o recurso no óbice do verbete nº 356 da Súmula do Supremo. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Julgo prejudicada a petição/STF nº 11.943/2017.
+    5. Publiquem.
+Brasília, 23 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
