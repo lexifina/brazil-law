@@ -1,0 +1,29 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Órgão Especial do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (eDOC 6, p. 93):
+    "MANDADO DE SEGURANÇA - DECADÊNCIA - AFASTADA ATO COATOR OMISSIVO - MÉRITO - SERVIDORES ESTADUAIS COM VERBAS DE GRATIFICAÇÃO DE FUNÇÃO INCORPORADAS - ARTIGO 77 DA LEI N. 1.102/1990 - DIREITO ADQUIRIDO - REORGANIZAÇÃO DA ESTRUTURA DOS CARGOS DO PODER EXECUTIVO ESTADUAL - ALTERAÇÃO DA SIMBOLOGIA DOS CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA - IDÊNTICAS ATRIBUIÇÕES - REAJUSTES OPERADOS PELAS LEIS N. 2.387/2001, 2.964/2004 E 3.146/2005 ASSEGURADOS - NÃO INCIDÊNCIA DA SÚMULA N. 339/STF - MANDAMUS PARCIALMENTE CONHECIDO E, NESTA PARTE, ORDEM CONCEDIDA.
+    A jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça assentaram o entendimento de que a decadência não se aperfeiçoa, quando a conduta da autoridade impetrada é omissiva e continuada, consubstanciada no não reajuste da parcela pleiteada, renovando-se a relação jurídica, continuadamente.
+    A vantagem pessoal incorporada, nos termos do então vigente artigo 77 da Lei n. 1.102/1990, representa direito adquirido do servidor como um dos vetores dos direitos e garantias individuais, não podendo alteração legislativa retroagir para alcançá-lo e suprimi-lo. Inconfundível, ademais, com a vedação de direito adquirido a regime jurídico, pois este circunscreve-se às normas de caráter genérico e abstrato, reguladoras de situações hipotéticas ainda não consumadas.
+    O novo cálculo da verba para o servidor em exercício perpetrado pela Lei n. 2.387/2001, com as posteriores majorações imprimidas pelas Leis n. 2.964/2004 e 3.146/2005, aplica-se, consectariamente, aos servidores que possuem a mesma verba incorporada.
+    Inaplicável a Súmula n. 339/STF na hipótese, porquanto não se discute a extensão de vantagens concedidas a determinado cargo para outro com atribuições semelhantes, mas o direito de servidores integrantes da mesma carreira possuírem igual padrão remuneratório. Precedentes STJ."
+    Os embargos de declaração foram rejeitados (eDOC 7, pp. 59-64).
+    No recurso extraordinário, com fundamento no art. 102, III, “a” e “c”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXVI, e 37, XIII e XV, da Constituição Federal. Nas razões recursais, sustenta-se, em suma (eDOC 7, pp. 75/76):
+    “... não se trata de pedido de mera extensão de reajustes, mas sim de uma equiparação indevida entre a remuneração dos exercentes de um cargo na atualidade e aqueles que somente exerceram cargo supostamente igual de forma comissionada em determinada época e não cessaram de receber a vantagem correspondente.
+    Pelo conteúdo do acórdão, fica claro que ele efetua uma verdadeira equiparação ou vinculação da verba recebida, referente à incorporação de cargo em comissão que exerceram (estabilidade financeira) com o vencimento pago ao cargo em que se teria transformado aquele, estendendo as majorações do novo cargo à vantagem paga ao recorrido.
+    Ocorre, porém, que tal entendimento do acórdão, por qualquer ângulo que se examine, é expressamente vedada pela Constituição Federal.”
+    Em contrarrazões, a parte recorrida assevera que “ao deixar de reajustar os valores incorporados, a administração pública reduz os vencimentos da recorrida” (eDOC 8, p. 25).
+    É o relatório. Decido.
+    Assiste razão à parte recorrente.
+    Ao julgar o RE 563.965, Rel. Min. Cármen Lúcia, DJe 20.3.2009, processo sob a sistemática da repercussão geral, Tema 41, esta Corte decidiu sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico. Reproduzo a ementa desse julgado:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico.
+    2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, consequentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração.
+    3. Recurso extraordinário ao qual se nega provimento.”
+    No mesmo sentido, confira-se também:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDORES PÚBLICOS. ESTADO DO MATO GROSSO DO SUL. ESTABILIDADE FINANCEIRA. DESVINCULAÇÃO ENTRE A VANTAGEM INCORPORADA E OS VENCIMENTOS DO CARGO EM COMISSÃO. LEGITIMIDADE. AUSÊNCIA DE DIREITO ADQUIRIDO A REGIME DE CÁLCULO DE REMUNERAÇÃO. JURISPRUDÊNCIA PACÍFICA. ART. 332 DO RISTF.
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 698242 AgR-EDv-AgR, Rel. Min. Teori Zavascki, Plenário, DJe 28.10.2015)
+    Na espécie, a jurisprudência desta Corte é pacífica no sentido de que a alteração do regime jurídico garante ao servidor o direito à irredutibilidade dos vencimentos, mas não ao regime de cálculo de remuneração, ainda mais quando, quanto a essa tese, restou confirmado pelo acórdão recorrido que não houve decesso remuneratório nos proventos dos servidores.
+    Ante o exposto, dou provimento ao recurso extraordinário, nos termos do artigo 932, V, “b” , CPC, para, reformando o acórdão recorrido, denegar a segurança.
+    Publique-se.
+    Brasília, 23 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
