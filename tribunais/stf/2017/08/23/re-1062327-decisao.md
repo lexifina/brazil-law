@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Ministério Público do Estado do Rio Grande do Sul interpõe recurso extraordinário contra acórdão proferido por Turma Recursal Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CRIMINAL. CRIME DE TRÂNSITO. ARTIGO 307 DO CTB. VIOLAÇÃO DA SUSPENSÃO DA HABILITAÇÃO IMPOSTA COM BASE EM DECISÃO ADMINISTRATIVA. MUDANÇA DE ORIENTAÇÃO. ATIPICIDADE.
+    I- A suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor está prevista no art. 292 da Lei 9.503/1997, na parte do CTB que trata dos crimes de trânsito, e somente pode ser imposta pela autoridade judicial, isolada ou cumulativamente com outras penalidades, não se confundindo com a penalidade administrativa de suspensão do direito de dirigir, penalidade imposta pela autoridade administrativa. O legislador utilizou duas expressões diversas para identificar a espécie de suspensão da CNH imputada: 1) ‘suspensão do direito de dirigir’, aplicada pela autoridade administrativa, pelo prazo de dois meses a dois anos, prevista na parte das infrações administrativas (art. 161 ao 290 do CTB); 2) ‘suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor’, aplicada pela autoridade judicial, pelo prazo de dois meses a cinco anos, prevista na parte dos Crimes de Trânsito (a partir do art. 291 do CTB).
+    II- A conduta tipificada pelo art. 307 do CTB refere-se à violação da penalidade disposta no art. 292 (e seguintes) do Código de Trânsito, tratando-se, portanto, de afronta à decisão judicial que determina a suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor, seja cautelarmente (art. 394), seja por condenação transitada em julgado (art. 293, §1º, do CTB).
+    III- Inviabilidade da aplicação do artigo 307 ao condutor que dirige com a CNH suspensa administrativamente, tendo em vista que dirigir com a CNH cassada (imposição administrativa mais gravosa) não é crime. Ademais, as penas cumulativas do art. 307 justificam a interpretação de se tratar de delito mais grave, já que ao art. 309 do CTB são cominadas as mesmas penas, mas de forma alternativa.
+    IV- Hipótese em que inexiste qualquer imposição judicial de suspensão ou de proibição de se obter a permissão ou a habilitação para dirigir veículo automotor contra o réu, sendo que os documentos existentes nos autos comprovam a existência apenas de suspensão administrativa do direito de dirigir. Sendo assim, impõe-se a absolvição com base na atipicidade da conduta.
+    APELO PROVIDO.”
+    Os embargos de declaração opostos foram desacolhidos.
+    Nas razões do extraordinário, sustenta contrariedade aos arts. 2º, 5º, incisos II e XXXIX, da Constituição Federal.
+    Aduz para tanto que
+    “(...) mostra-se indevida a extensão conferida ao princípio da legalidade pelo órgão fracionário a quo, na medida em que, na existência de disposição legal penal que tipifica a conduta, sem restrição ou limitação, de violar ‘a suspensão ou a proibição de se obter a permissão ou a habilitação para dirigir veículo automotor imposta com fundamento neste Código’, é criminalmente punível todo o desrespeito à determinação legal restritiva imposta, seja ela administrativa ou judicial”.
+    Examinados os autos decido.
+    A irresignação não merece prosperar.
+    É que, para averiguar-se a suposta violação à Carta Constitucional, seria imprescindível analisar a legislação infraconstitucional, em especial o Código de Trânsito Brasileiro. Portanto, a violação aos preceitos constitucionais apontados, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Nesse sentido, destaco a seguinte decisão: RE nº 1.062.323/RS, Relator o Ministro Marco Aurélio, DJe de 7/8/17.
+    Ressalte-se que a jurisprudência desta Suprema Corte é assente no sentido de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, não configura ofensa direta e frontal à Constituição da República.
+    Nesse sentido, confira-se: AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 27/6/08; AI nº 651.927/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 30/5/08; AI nº 649.191/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/6/07; AI nº 622.527/AP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 18/5/07; AI nº 562.809/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 18/5/07; e AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/5/07, entre outros.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 23 de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
