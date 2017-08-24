@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 377, de 22 de agosto de 2017
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF EMENTA: HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. ART. 30 DA LEI Nº 13.327, DE 2016. O imposto será retido por ocasião de cada pagamento e se, no mês, houver mais de um pagamento, a qualquer título, pela mesma fonte pagadora, aplicar-se-á a alíquota correspondente à soma dos rendimentos pagos à pessoa física. DISPOSITIVOS LEGAIS: Art. 30 da Lei n° 13.327, de 29 de julho de 2016; Art. 46 da Lei n° 8.541, de 23 de dezembro de 1992; e arts. 620 e 718 do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda - RIR/1999.
+[arquivo anexo: SC Cosit nº 377-2017.pdf]
