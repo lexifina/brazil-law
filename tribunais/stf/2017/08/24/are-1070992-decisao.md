@@ -1,0 +1,38 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Turma da Fazenda Pública do Colégio Recursal Central da Capital de São Paulo, assim ementado:
+    “CARTEIRA DE PREVIDÊNCIA DOS ADVOGADOS. IMPOSSIBILIDADE DE APLICAÇÃO DAS DISPOSIÇÕES DA LEI ESTADUAL N. 13.549/2009 AOS APOSENTADOS ANTES DE SUA VIGÊNCIA QUANTO À CONTRIBUIÇÃO E REAJUSTE DO BENEFÍCIO. PRECEDENTE DO STF NA ADI 4.429. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS – RECURSO NÃO PROVIDO.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação do artigo 7º, inciso IV, da Constituição Federal. Alega, também, ofensa à Súmula Vinculante nº 4.
+    Decido.
+    O recurso não merece prosperar.
+    No julgamento das ADIs nºs 4.429 e 4.291, o Plenário da Corte reconheceu a constitucionalidade do ingresso da Carteira de Previdência dos Advogados de São Paulo em regime de extinção, previsto na Lei estadual nº 13.549/2009, declarando, todavia, inconstitucionais os §§ 2º e 3º do art. 2º do referido diploma legal, que excluíam a responsabilidade do Estado pela gestão e pagamento de benefícios concedidos por aquela Carteira de Previdência. Na ocasião, ademais, atribuiu-se “interpretação conforme à Constituição ao restante da norma impugnada, proclamando que as regras não se aplicam a quem, na data da publicação da Lei, já estava em gozo de benefício ou já tinha cumprido, com base no regime instituído pela Lei nº 10.394, de 1970, os requisitos necessários à concessão, nos termos do voto do relator”.
+    No mesmo sentido a decisão do Ministro Roberto Barroso, proferida nos autos do ARE 942.365/SP ( DJe de 30/8/16), com o seguinte teor:
+    “Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “RECURSO INOMINADO – Advogado aposentado – Majoração da contribuição previdenciária por força da Lei Estadual n. 13.549/2009 – inconstitucionalidade dos parágrafos 2º e 3º, do artigo 2º, já declarada pelo STF nos autos da ADI 4.429/SP – Sentença mantida com improvimento do recurso e determinação”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 7º, IV, da Carta e à Súmula Vinculante 4. A parte recorrente requer a concessão de efeito suspensivo ao presente recurso. Defende a impossibilidade de adotar o salário mínimo como índice para o reajuste dos benefícios.
+    A pretensão recursal não merece prosperar, haja vista que, para dissentir das conclusões do Tribunal de origem, seria necessária a revisão da legislação infraconstitucional de regência, a saber, as Leis nºs 10.394/1970 e 13.549/2009.
+    O Tribunal de origem manteve a sentença nos exatos termos em que proferida, tendo decidido, portanto, no sentido de haver direito adquirido da recorrida à manutenção do seu benefício nos termos da Lei nº 10.349/1970, anterior à vigência da Lei nº 13.549/2009. Fundamentou-se na ADI 4.429, julgada por esta Corte, adotando o entendimento de que para aqueles que já reuniram as condições para a aposentadoria ou já estavam em seu gozo, o reajuste do benefício seja proporcional ao reajuste do salário mínimo, tudo nos termos da Lei nº 10.349/1970.
+    Para decidir sobre a aplicação, ao caso, da vedação inserta no art. 7º, IV, todos da Carta, seria necessário perquirir a existência, no caso, de direito adquirido e de ato jurídico perfeito, tal como constatado pelo acórdão recorrido, demandando, por conseguinte, do reexame da legislação infraconstitucional. De fato, é firme o entendimento desta Corte no sentido de que a controvérsia relativa à existência de direito adquirido e de ato jurídico perfeito, quando dependente da análise de legislação infraconstitucional, não enseja a abertura da via extraordinária. No mesmo sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MILITAR. VENCIMENTO BÁSICO DE REFERÊNCIA. LEI ESTADUAL Nº. 11.216/95. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 279 DESTA CORTE.
+    1. O direito local acaso violado por decisão judicial não autoriza a interposição de recurso extraordinário .
+      2. In casu, a questão relativa ao pagamento do soldo dos policiais militares do Estado de Pernambuco foi decidida à luz de interpretação de legislação local (Lei nº. 11.216/95), revelando-se incabível a insurgência recursal extraordinária para rediscussão da matéria. Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário.” Precedentes: AI 835.748-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 01.08.2011; AI 461.855-AgR, Rel. Min. Ellen Gracie, Dje de 30.4.2010 e AI 544.721-AgR, Rel. Min. Ricardo Lewandowski, Dje de 31.10.2007; AI 694.656-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 12.03.2009.
+      3. O direito adquirido, o ato jurídico perfeito e a coisa julgada, quando objeto de verificação de cada caso concreto acerca da ocorrência ou não de violação, não desafiam a instância extraordinária, posto implicar análise de matéria infraconstitucional. Precedentes. AI 700.685-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe 23.02.2008 e AI 635.789-AgR, Primeira Turma, Relator o Ministro Dias Toffoli, DJe de 27.04.2011.
+    4. A Súmula 279/STF dispõe: ‘Para simples reexame de prova não cabe recurso extraordinário’.
+    5. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    6. In casu, o acórdão recorrido assentou: ‘CONSTITUCIONAL E ADMINISTRATIVO. RECURSO DE AGRAVO. VALOR BÁSICO DE REFERÊNCIA DO SOLDO INFERIOR AO SALÁRIO MINIMO. POSSIBILIDADE. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO IMPROVIDO. 1. De acordo com a jurisprudência dominante do STF, a Lei nº 11.216/95 que determina o pagamento de soldo não inferior ao salário mínimo deve ser interpretada como garantia da remuneração total dos militares em patamar nunca abaixo do mínimo legal. 2. Precedentes do STJ, razão pela qual não considero vulnerados os arts. 5º, XXXVI, 7º, IV e 39, § 2º, da CF e a Lei nº 11.216/95. 3. Agravo improvido. 4. Decisão unânime’.
+    7. Agravo regimental a que se nega provimento.” (AI 833.410-AgR/PE, Rel. Min. Luiz Fux)
+    Ademais, ainda que respeitados os requisitos processuais, a pretensão recursal não merece prosperar, tendo em vista que o acórdão recorrido está em conformidade com a jurisprudência desta Corte que, no julgamento das ADIs 4.429 e 4.291, entendeu pela inconstitucionalidade doas arts. 13 e 14 da Lei nº 10.394/1970 do Estado de São Paulo.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de agosto de 2016.
+    Ministro Luís Roberto Barroso
+    Relator”
+     Ainda no mesmo sentido as seguintes decisões monocráticas, já transitadas em julgado, RE nº 905.535, Rel. Min. Edson Fachin, DJe de 1º/9/2015; e ARE 1.018.307, Rel. Min. Luiz Fux, DJe de 21/02/2017
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida no valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 30 de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
