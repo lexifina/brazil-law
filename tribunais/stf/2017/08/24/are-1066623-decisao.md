@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quando à procedência do pedido de indenização por danos morais, considerado o indevido bloqueio de cartão de crédito. No extraordinário cujo trânsito busca obter, a recorrente alega violado os artigos 1º, 3º, 5º, incisos II, XXXV, LIV e LV, e 170 da Constituição Federal. Articula com a legalidade do ato, considerada a inexistência de quitação de débito anterior. Entende contrariados os princípios da proporcionalidade e da razoabilidade. Pleiteia a diminuição do valor fixado à titulo de danos morais.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão atacada mediante o extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+     Analisando-se os autos, verifica-se que trata os autos de relação de consumo, o que acarreta a aplicação do Código de Defesa do Consumidor. De acordo com o art. 14 e seu § 3o do aludido diploma legal, o fornecedor de serviços possui responsabilidade objetiva, somente se eximindo desta se demonstrar alguma hipótese excludente do nexo causal ou a inexistência de dano.
+    Ressalte-se que tal dispositivo consagra a inversão do ônus da prova em benefício do consumidor, nas hipóteses de fato do serviço.
+    No caso em análise, restou incontroversa a falha na prestação do serviço por parte do primeiro réu que confirma em contestação que o cartão de credito do autor encontrava-se bloqueado, quando da tentativa de utilização no estabelecimento do segundo réu.
+    O primeiro réu não demonstrou que ao autor foi dada ciência de que no caso de existência de alguma restrição no nome do mesmo, haveria bloqueio do cartão, não havendo comprovação nos autos de ciência, pelo autor, acerca do teor do documento de fls. 54/65.
+    Assim, comprovado o pagamento da primeira prestação do valor acordado, como se extrai de fls. 12, cabia ao primeiro réu proceder ao desbloqueio do cartão do autor, conforme acordado.
+    Ora, somente pela análise das provas constantes do processo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    Quanto ao montante fixado, o Supremo, no recurso extraordinário com agravo nº 743.771/SP, assentando a natureza infraconstitucional da matéria, concluiu pela inexistência de repercussão geral do tema referente à fixação do valor relativo a indenização por danos morais.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, porquanto já arbitrados em patamar máximo na origem.
+    4. Publiquem.
+Brasília, 24 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
