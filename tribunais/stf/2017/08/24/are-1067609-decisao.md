@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região. Veja-se o seguinte trecho de ementa:
+    “DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. AUXILIAR DE ENFERMAGEM/TÉCNICA DE ENFERMAGEM. EXONERAÇÃO A PEDIDO. ACUMULAÇÃO DE CARGOS. 60 HORAS SEMANAIS DE TRABALHO COM COMPLEMETAÇÃOS. PRINCÍPIOS DA EFEICIÊNCIA E DA ADEQUAÇÃO. IMPERATIVO DO INTERESSE PÚBLICO EM RESPEITO À LEGALIDADE CONSTITUCIONAL. IMPOSSIBILIDADE.
+    […]
+    7. A apelante limitou-se a afirmar o cumprimento de (30) horas semanais no HGB e de (30) horas na FIOCRUZ, acrescida de duas complementações a combinar, mas isso é insuficiente para evidenciar direito líquido e certo à acumulação de cargos. A mera previsão de cargo horária de 60 (sessenta) horas semanais, e mais as complementações não pressupõe, por si só, a não sobreposição de horário entre as jornadas e a impossibilidade de gerar gravames na área sensível da saúde pública, sabidamente desguarnecida e despreparada de pessoas e equipamentos, com noticiários de todas as mídias, informando mortes e sequelas oriundas da ausência de pessoal em plantões e serviços médico-hospitalar.
+    8. É imperativo coibir cumulação de cargos, em ofensa à Constituição, e contrária ao interesse público, que exige a prestação de serviço médico-hospitalar qualificado pela eficiência e adequação, além de inibir o acesso de novos servidores aos quadros da administração, ampliando a força de trabalho. Tanto é bastante para negar a pretensão, ante a incompatibilidade de horários para a pretendida cumulação.
+    9. Apelação desprovida. Sentença mantida.”
+    O recurso não merece ser provido. De início, nota-se que o acórdão recorrido se alinha à jurisprudência desta Corte no sentido da constitucionalidade da acumulação de dois cargos públicos privativos de profissionais da área de saúde, desde que exista compatibilidade de horários. Nesse sentido, confira-se a ementa do RE 553.670-AgR, julgado sob a relatoria da Ministra Ellen Gracie:
+    “CONSTITUCIONAL. ADMINISTRATIVO. ACUMULAÇÃO DE CARGOS PRIVATIVOS DE PROFISSIONAIS DA SAÚDE. CF/88, ART. 37, XVI, c. POSSIBILIDADE.
+    1. A Constituição Federal prevê a possibilidade da acumulação de cargos privativos de profissionais da saúde, em que se incluem os assistentes sociais. Precedentes.
+    2. Agravo regimental improvido”
+    O Tribunal de origem assentou que, “à Administração Pública deve-se impor um critério único e objetivo, evitando o exercício de discricionariedade arbitrária, em prejuízo do princípio da igualdade constitucional, que coíbe tratamentos discricionários ou injustificáveis. […] Tanto é bastante, para negar os pedidos ante a ausência de vício de vontade que enseje a anulação do ato administrativo de exoneração e a incompatibilidade de horários para a pretendida cumulação de cargos.” Dissentir dessas conclusões demandaria o exame dos fatos e material probatório constantes dos autos, providência inviável neste momento processual, a atrair a incidência da Súmula 279/STF. Nesse sentido, veja-se a ementa do RE 634.086-AgR, julgado sob a relatoria do Ministro Luiz Fux:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. MANDADO DE SEGURANÇA. ACUMULAÇÃO DE CARGOS DA ÁREA DE SAÚDE. NÃO COMPROVAÇÃO DE COMPATIBILIDADE DE HORÁRIOS. SÚMULA 279 DO STF.
+    1. A acumulação de cargos da área da saúde é assegurada pela Constituição Federal (art. 37, XVI, “c”, CF), observada a compatibilidade de horários.
+    2. In casu, a recorrente não comprovou, quando da impetração do writ, a compatibilidade de horários para exercício do cargo de auxiliar de enfermagem em dois hospitais públicos, o que atrai a aplicação da Súmula 279 do STF, verbis: ‘Para simples reexame de prova não cabe recurso extraordinário’. Precedentes: AI 644.432-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, Dje de 26/06/09 e AI 733.152-AgR, 2ª Turma, Rel. Min. Eros Grau.
+    3. Agravo regimental a que se nega provimento.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
