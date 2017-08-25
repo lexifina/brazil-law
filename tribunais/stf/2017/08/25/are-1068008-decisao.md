@@ -1,0 +1,23 @@
+DECISÃO: O presente agravo foi interposto por São Paulo Transporte S.A. contra decisão que negou trânsito ao apelo extremo por ela deduzido, no qual sustentou que o acórdão proferido pelo E. Tribunal de Justiça local teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que o recurso extraordinário em questão revela-se insuscetível de conhecimento, eis que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Observo, ainda, que a questão ora em exame foi decidida com base no direito local (Decreto municipal nº 36.071/96), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios e em interpretação de direito local:
+    “Emerge dos autos que o autor é portador de insuficiência renal crônica terminal, secundário à diabetes mellitus, e, em virtude dessa doença metabólica, ostenta um déficit visual no olho esquerdo de 70% e no olho direito de 95%, não possuindo sua família condições financeiras para arcar com o seu transporte periódico até a ‘Clínica São Jorge Serviços Nefrológicos Ltda.’ para realização de sessões de hemodiálise.
+    Foi realizada perícia médica junto ao Instituto de Medicina Social e de Criminologia de São Paulo – IMESC, concluindo o laudo elaborado que:
+    …...................................................................................................
+    Nesse contexto, faz mesmo jus ao transporte especial, denominado ‘ATENDE’, nos termos do Decreto Municipal nº 36.071/96, que instituiu, no Sistema de Transporte Coletivo de Passageiros do Município de São Paulo, Modalidade Comum, serviço destinado a atender pessoas com mobilidade reduzida.
+    Apesar do decreto priorizar, em seu artigo 1º, o atendimento de pessoas portadoras de deficiência motora, mental e múltipla, temporária ou permanente, em alto grau de dependência, não há como afastar o direito de outros portadores de severas limitações de locomoção; na verdade, o direito ao transporte gratuito e adequado para viabilizar tratamento médico aos deficientes que não podem arcar com as respectivas despesas, é consequência lógica e inexorável à garantia do direito à saúde, razão pela qual não podem prosperar as alegações das oras apelantes.
+    …...................................................................................................
+    De outra banda, o argumento da SPTRANS, no sentido de que somente as pessoas portadoras de deficiência física com alto grau de comprometimento fariam jus ao transporte ATENDE, não merece guarida, porquanto a Administração Pública não pode ser indiferente à notória dificuldade enfrentada pelo apelado, o qual é enfermo grave e desprovido de recursos financeiros que lhe permitam acesso autônomo à clínica em que realiza o tratamento médico.”
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 902.056/SP, Rel. Min. CÁRMEN LÚCIA – ARE 909.467/SP, Rel. Min. EDSON FACHIN – ARE 942.731/SP, Rel. Min. LUIZ FUX, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PASSE LIVRE. PASSAGEIRO COM ENFERMIDADE CRÔNICA. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO MUNICIPAL E NO CONJUNTO PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 826.609-AgR/RJ, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 25 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
