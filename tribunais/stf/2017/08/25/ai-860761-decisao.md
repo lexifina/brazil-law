@@ -1,0 +1,23 @@
+Decisão
+    Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região que possui a seguinte ementa (fl. 234, vol. 1):
+    ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA E DE INDENIZAÇÃO POR LUCROS CESSANTES. CONVÊNIO. GEAP. AUSÊNCIA DE LICITAÇÃO. OBRIGAÇÃO DE PAGAR PELOS SERVIÇOS PRESTADOS. ENRIQUECIMENTO SEM CAUSA. CORREÇÃO MONETÁRIA.
+    1. Para contratação de plano de saúde com entidade de previdência privada é indispensável a realização de licitação, nos termos do art. 37, XXI, da Constituição, sendo causa de nulidade a ausência do procedimento prévio, caso em que o pagamento deve ser realizado apenas em relação aos serviços efetivamente prestados.
+    2. Não havendo contrato válido a estipular o prazo de repasse das verbas, não há que se falar em direito ao recebimento de correção monetária. O pagamento, em casos tais, não prescinde da demonstração de que houve o efetivo prejuízo para a parte que prestou os serviços.
+    3. Havendo sucumbência recíproca, aplica-se em relação às despesas processuais, o disposto no art. 21 do Código de Processo Civil.
+    4. Apelação a que se dá parcial provimento.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta que o julgado ofendeu os artigos 37, caput, § 6º, 196 e 199 da Carta Magna.
+    A decisão agravada entendeu que incide, no caso, o óbice da Súmula 279/STF.
+    No agravo, a parte agravante sustenta, em síntese, não é necessário o reexame do conjunto fático-probatório dos autos. No mais, repisa as alegações de mérito do recurso extraordinário.
+    É o relatório. Decido.
+    O Juízo de origem não divergiu da jurisprudência firmada pelo Plenário desta Corte no sentido de que é obrigatória a observação do procedimento licitatório para a contratação da ora recorrente para fins de prestação de serviço de assistência à saúde. Nesse sentido:
+    MANDADO DE SEGURANÇA. PRESTAÇÃO DE ASSISTÊNCIA SUPLEMENTAR À SAÚDE DE SERVIDOR PÚBLICO FEDERAL. GEAP – FUNDAÇÃO DE SEGURIDADE SOCIAL. CELEBRAÇÃO DE CONVÊNIO DE ADESÃO POR ENTES DA ADMINISTRAÇÃO PÚBLICA NÃO PATROCINADORES. TRIBUNAL DE CONTAS DA UNIÃO: IMPRESCINDIBILIDADE DE LICITAÇÃO (ART. 1º, INC. II, DO DECRETO N. 4.978/2004). 1. A natureza jurídica contratual do vínculo negocial que a GEAP mantém com a Administração Federal, cujo núcleo é a obrigação de prestar serviço de assistência à saúde visando a uma contraprestação pecuniária, impõe regular procedimento licitatório, observados os parâmetros estabelecidos na Constituição Federal e Lei 8.666/1993. 2. O modelo de gestão da GEAP não se caracteriza como de autogestão para os fins previstos no art. 1º, I, do Decreto 4.978/2004: impossibilidade de firmar convênios com órgãos e entidades da Administração Pública, que não sejam seus patrocinadores, sem licitação. 3. Não há violação a direito líquido e certo no acórdão do Tribunal de Contas da União que vedou aos órgãos e às entidades da Administração Pública Federal, excetuados os patrocinadores originários da GEAP, a celebração de novos convênios para a prestação de serviços de assistência à saúde para os respectivos servidores. 4. Mandado de segurança denegado. (MS 25.855, Relator para o acórdão Min. CÁRMEN LÚCIA, DJe de 22/09/2014)
+    No que concerne ao suposto saldo residual pendente de pagamento, o Juízo de origem assim se manifestou sobre a controvérsia (fl. 230, vol. 1):
+    Assim sendo, não há que se falar em obrigação de pagar perdas e danos ou lucros cessantes em relação às parcelas pagas administrativamente. De fato, não havendo contrato válido a estipular o prazo de repasse das verbas, não há que se falar em direito ao recebimento de correção monetária por atraso. O pagamento em casos tais não prescinde da demonstração de que houve o efetivo prejuízo para a parte que prestou os serviços, o que não ocorreu no caso dos autos.
+    Assim, verifica-se que a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte: Para simples reexame de prova não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 25 de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
