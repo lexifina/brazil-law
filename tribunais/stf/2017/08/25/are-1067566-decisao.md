@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “REMESSA OFICIAL E APELAÇÃO CÍVEL VOLUNTÁRIA. AÇÃO COMINATÓRIA. PRESCRIÇÃO DO FUNDO DE DIREITO INOCORRENTE. POLICIAL MILITAR. TEMPO DE SERVIÇO COMO ALUNO APRENDIZ EM ESCOLA TÉNICA PROFISSIONALIZANTE. CONTAGEM PARA EFEITO DE APOSENTADORIA E ADICIONAIS. POSSIBILIDADE. SENTENÇA CONFIRMADA.
+    1. Proposta a ação antes de ser consumado o prazo, inocorre a alegada prescrição do fundo do direito.
+    2. O art. 36, § 7º, da Constituição do Estado de Minas Gerais assegura a contagem recíproca do tempo de serviço nas atividades públicas ou privadas para efeito de aposentadoria.
+    3. O tempo de serviço prestado pelo militar na condição de aluno aprendiz, em escola técnica profissionalizante, pode ser computado para fins de aposentadoria e adicionais, de acordo com o art. 162 da Lei estadual nº 5.301, de 1969, e da Súmula nº 96 do TCU.
+    4. Remessa oficial e apelação cível voluntária conhecidas.
+    5. Sentença que acolheu a pretensão inicial, confirmada no reexame necessário, prejudicado o recurso voluntário.”
+    Opostos embargos de declaração, foram parcialmente providos para determinar que “os valores deverão ser corrigidos monetariamente pela tabela da douta Corregedoria Geral de Justiça deste Tribunal, desde quando eram devidos, até 30.06.2009. A partir de 01.07.2009 a correção monetária deve ser calculada na forma prevista no art. 1º-F da Lei nº 9.494, de 1997, em sua redação atual. (...)”.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, caput e inciso II, 37, caput, 40, § 10º, e 201, § 9º, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “Agravo regimental em agravo de instrumento. 2. Prequestionamento. Ausência. Embargos de declaração que não trataram da matéria constitucional. Súmulas 282 e 356 do STF. 3. Ofensa aos princípios da legalidade e da prestação jurisdicional. Análise da legislação infraconstitucional. Precedente. 4. Revisão de cláusula contratual. Ofensa reflexa. Precedente. 5. Agravo regimental a que se nega provimento” (AI nº 551.533/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 3/3/06).
+    Ademais, ressalte-se que o acórdão recorrido está em conformidade com o entendimento desta Suprema Corte que, no julgamento do MS nº 27.185/DF, Tribunal Pleno, Relatora a Ministra Cármen Lúcia (DJe de 12/3/10), reconheceu a legalidade do cômputo do tempo de serviço prestado como aluno aprendiz para fins de aposentadoria. Tal julgado restou assim ementado:
+    “MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO. ACÓRDÃO N. 188/2008. DETERMINAÇÃO DE RETORNO DO IMPETRANTE À ATIVIDADE PARA COMPLETAR O TEMPO NECESSÁRIO PARA APOSENTADORIA COM PROVENTOS INTEGRAIS, OU SUA PERMANÊNCIA, NA CONDIÇÃO DE APOSENTADO, COM PROVENTOS PROPORCIONAIS. LEGALIDADE DO CÔMPUTO DO PRAZO DE ALUNO-APRENDIZ EM ESCOLA TÉCNICA PARA APOSENTADORIA DO IMPETRANTE: PRECEDENTES. SEGURANÇA CONCEDIDA”.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO. TEMPO DE SERVIÇO PRESTADO COMO ALUNO-APRENDIZ EM ESCOLA TÉCNICA. CÔMPUTO PARA APOSENTADORIA. LEGALIDADE. MUDANÇA DE ORIENTAÇÃO DA CORTE DE CONTAS QUANTO AOS REQUISITOS EXIGIDOS, APÓS A CONCESSÃO DA APOSENTADORIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO. I – A jurisprudência do Supremo Tribunal Federal consolidou-se, em casos idênticos ao que ora se analisa, pela legalidade do cômputo do tempo prestado como aluno-aprendiz para fins de aposentadoria. II – A nova interpretação da Súmula 96 do TCU, firmada no Acórdão 2.024/2005, não pode ser aplicada à aposentadoria concedida anteriormente. III – Agravo regimental improvido” (MS nº 28.399/DF-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 5/6/12).
+    Acompanhando esse entendimento, destaco as seguintes decisões monocráticas: ARE nº 656.830/ES, Relator o Ministro Gilmar Mendes, DJe de 25/4/12; e AI nº 834.536, Relator o Ministro Joaquim Barbosa, DJe de 15/2/12.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida no valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 25 de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
