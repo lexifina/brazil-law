@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo remetido ao Tribunal de Justiça do Estado de Santa Catarina, para que se cumprisse o disposto no art. 543-B do CPC/1973, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral, pelo tema 191, cujo paradigma é o RE-RG 596.478, Rel. Min. Dias Toffoli, DJe 2.10.2009 (eDOC 7).
+    Encaminhados os autos ao Tribunal de origem, a 2ª Câmara de Direito Público do TJSC entendeu que não seria caso de retratação, motivo pelo qual os autos foram reencaminhados a esta Corte (eDOC 9).
+    Passo então ao julgamento do apelo.
+    Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. SERVIDOR CONTRATADO EM CARÁTER TEMPORÁRIO. REGIME ESTATUTÁRIO. PEDIDO DE PAGAMENTO DE FGTS E MULTA DE 40%. IMPOSSIBILIDADE. VERBAS TRABALHISTAS SOMENTE NA CONSOLIDAÇÃO DAS LEIS DO TRABALHO. SENTENÇA MANTIDA. RECURSO DESPROVIDO. Sendo o servidor contratado temporariamente, regido pelo regime estatutário, não possui direito ao FGTS e multa de 40%, por serem verbas trabalhistas previstas somente na Consolidação das Leis do Trabalho”. (eDOC 5, p. 54)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 37, § 2º, do texto constitucional.
+    Nas razões recursais, defende-se, em síntese, que é devido o depósito do FGTS, em razão de sua contratação irregular.
+    Decido.
+    Assiste razão à recorrente.
+    Esta Corte, ao julgar o tema 191 da sistemática da repercussão geral, assentou ser devido o depósito de FGTS em favor do trabalhador em caso de declaração de nulidade da contratação com a Administração Pública, nos seguintes termos:
+    “Recurso extraordinário. Direito Administrativo. Contrato nulo. Efeitos. Recolhimento do FGTS. Artigo 19-A da Lei nº 8.036/90. Constitucionalidade. 1. É constitucional o art. 19-A da Lei nº 8.036/90, o qual dispõe ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário. 2. Mesmo quando reconhecida a nulidade da contratação do empregado público, nos termos do art. 37, § 2º, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados. 3. Recurso extraordinário ao qual se nega provimento”. (RE 596478, Rel. Min. ELLEN GRACIE, Rel. p/ Acórdão: Min. DIAS TOFFOLI, Tribunal Pleno, REPERCUSSÃO GERAL - MÉRITO DJe 1.3.2013)
+    No caso dos autos, o recorrente foi contratado em 24.1.2000, sem concurso público e sem demonstração do caráter temporário e excepcional da contratação, pelo Município de Lages, para exercer a função de Servente, lotado na secretaria de Saúde, sem prestar concurso público. Em 31.12.2007, foi dispensado do cargo (eDOC 5, p. 23).
+    Assim, diante da patente nulidade da contratação e do entendimento pacificado pelo STF no âmbito da repercussão geral, verifica-se a necessidade do recolhimento do FGTS.
+    Ante o exposto, dou provimento ao recurso extraordinário para reformar o acórdão recorrido, e reconhecer o direito do parte recorrente ao recebimento do Fundo de Garantia por Tempo de Serviço, conforme assentado no âmbito do RE-RG 596.478, Red. p/ acórdão Min. Dias Toffoli, DJe 1º.3.2013. Tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 28 de agosto de 2017.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
