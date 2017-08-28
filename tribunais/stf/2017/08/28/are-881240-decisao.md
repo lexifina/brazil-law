@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal de Justiça do Distrito Federal e dos Territórios, maneja agravo Diego Gabriel Alves Amorim. Aparelhado o recurso na afronta ao art. 5º, XXXVIII e LV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Em síntese, o Recorrente articula violação dos princípios constitucionais da plenitude de defesa e do contraditório, consubstanciada na ausência de reinquirição de determinada testemunha pelo Tribunal do Júri.
+    Nesse contexto, a alegada violação do art. 5º, XXXVIII e LV, da Constituição Federal é eminentemente infraconstitucional. Ofensa à Constituição, se houvesse, seria meramente reflexa, não sendo cabível o extraordinário, conforme jurisprudência uníssona do Supremo Tribunal Federal (v.g.: “Inviável em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional” RE 660.186 AgR/RS, Rel. Min. Dias Toffoli, 1ª Turma, DJe 14.02.2012; “Os princípios da legalidade, o do devido processo legal, o da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária” RE 642.408 AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 14.02.2012).
+    Oportuna, ainda, a transcrição de excertos do acórdão hostilizado que rechaçou o alegado cerceamento de defesa:
+    “(...)
+    A Defesa alega ofensa ao contraditório e à ampla defesa ao argumento de que o depoimento da testemunha PAULO SERGIO DE MORAES é contraditório e divergente e, por isso, requereu, durante a sessão do júri, que fosse ela mantida no plenário para reinquirição ou acareação, o que foi negado pelo d. Magistrado Presidente do Tribunal do Júri.
+    Não há contradições e divergências nos depoimentos da testemunha e, ademais, pequenas variações em suas declarações são absolutamente irrelevantes para o deslinde do caso em testilha, mormente considerando que descreveu com riquezas de detalhes a dinâmica dos fatos, conforme se expõe a seguir:
+    (…)
+    Da leitura dos depoimentos alinhavados extrai-se a narrativa coerente e harmônica sobre o desenrolar dos fatos, não havendo se falar em contradições e divergências. Ademais, pequenas distorções e irrelevantes contradições (se o acusado usa tênis ou chinelo no dia dos fatos, cor da bicicleta e da camiseta usada, o detalhamento do local onde ocorreram os fatos e etc.,) se existentes, não invalidam o conjunto probatório quanto, em um contexto geral, se mostra seguro, harmônico e coerente.
+    À visto do exposto, não vislumbro a necessidade de reinquirição ou mesmo acareação da testemunha, tornado-se, com efeito, desnecessária sua manutenção, após seu interrogatório, no Plenário do Tribunal do Júri, razão pela qual agiu com acerto o d. Magistrado Sentenciante ao indeferir pedido da Defesa neste sentido.
+    Outrossim, conforme muito bem destacado pela i. Procuradora de Justiça, a Defesa não apontou “os pontos nos quais pretendia reinquirir a testemunha, ou mesmo acareá-la com qualquer outra, não demonstrando a ocorrência de efetivo prejuízo decorrente de sua liberação após o término de seu depoimento”, logo o indeferimento do pedido de permanência da testemunha na sessão do júri para eventual reinquirição ou mesmo acareação, sem justo motivo, por si só, não é causa de nulidade do ato.”
+    Inobstante a irresignação defensiva, a Corte de origem examinou o acervo probatório dos autos para afastar a tese de cerceamento de defesa. Para dissentir do entendimento do Tribunal de Justiça, a pretexto de ofensa aos princípios apontados como violados, e concluir pelo eventual prejuízo à Defesa, seria necessário o revolvimento do conjunto fático-probatório do caso, de todo inviável em sede extraordinária, nos termos da Súmula 279/STF, segundo a qual “para simples reexame de prova não cabe recurso extraordinário”.
+    Nego seguimento ao agravo (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de agosto de 2017.
+Ministra Rosa Weber
+Relatora
