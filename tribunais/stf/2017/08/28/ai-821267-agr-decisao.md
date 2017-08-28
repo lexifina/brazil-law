@@ -1,0 +1,23 @@
+DECISÃO:
+    Trata-se de agravo interno interposto em 08.06.2011, cujo objeto é decisão monocrática proferida pelo Ministro Joaquim Barbosa, relator originário do feito, que negou seguimento ao agravo de instrumento, pelos seguintes fundamentos:
+    “Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto contra acórdão, publicado em 25.11.2008, que trata sobre contrato de financiamento estudantil.
+    Consigno que se trata de apelo extraordinário interposto de acórdão julgado em data posterior a 03.05.2007, portanto, quando já exigível a demonstração formal da existência de repercussão geral da questão constitucional invocada na peça recursal (cf. AI 664.567-QO, rel. min. Sepúlveda Pertence).
+    Observo que o recurso extraordinário está fundamentado em suposta afronta a normas da Constituição federal, afirmando-se, em preliminar, que há existência de repercussão geral porque “comprovado está o caráter social do contrato sub judice, de modo que, uma vez admitidas as ilegalidades praticadas pela instituição Demandada, estar-se-á prejudicando um imensurável leque de estudantes que necessitam do financiamento estudantil (FIES) para cursarem seus cursos de graduação e obterem formação adequada para enfrentamento de árduo mercado de trabalho” (fls. 131).
+    É patente, pois, que a parte não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância do ponto de vista econômico, político, social ou jurídico das questões constitucionais aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza.
+    Nesse sentido: AI 709.995, rel. min. Cármen Lúcia, DJe de 24.06.2008).
+    Do exposto, nego seguimento ao presente agravo.”
+    A parte agravante alega que a preliminar de repercussão geral está devidamente fundamentada.
+    Assiste razão à parte agravante.
+    Reconsidero a decisão agravada e passo à análise do agravo de instrumento.
+    Trata-se de agravo de instrumento interposto contra decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, que trata sobre a incidência de juros nos contratos realizados no âmbito do FIES – Financiamento Estudantil.
+    O recurso busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 5º, 6º, 205 e 206 da Constituição Federal.
+    O recurso não pode ser provido. O Tribunal de origem decidiu, com suporte na legislação infraconstitucional pertinente à matéria, bem como pautado em cláusulas contratuais, que a taxa de juros aplicada ao contrato é valida e assentou a impossibilidade de sua redução. Assim concluiu o acórdão recorrido:
+    “A irretroatividade da lei ou ato normativo é a regra e a exceção pretendida pelos apelantes, ao argumento da isonomia não encontra amparo no sistema, porquanto não encontra amparo no sistema, porquanto não há direito assegurado no mercado a uma determinada taxa de juros. Essas são estabelecidas pelas Resoluções do CMN, a partir de um juízo de oportunidade e conveniência concretizada no ato administrativo emanado do Poder Executivo. Não há ofensa ao princípio da igualdade nesse proceder. Veja-se que a forma do financiamento e a taxa de juros têm sido modificadas no tempo, para melhor se adaptar às condições que o Executivo entende adequadas para o financiamento estudantil. Ademais, a taxa de juros no percentual de 9% não capitalizada é razoável, estando longe de ser abusiva, o que atende ao caráter social do contrato.”
+     Desse modo, para dissentir desse entendimento, seria necessário reinterpretar a legislação infraconstitucional aplicada ao caso, assim com reexaminar cláusulas contratuais, o que é vedado neste momento processual (Súmula 454/STF). Nesse sentido, veja-se a ementa do AI 829.893-AgR, julgado sob a relatoria do Ministro Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CIVIL. CRÉDITO EDUCATIVO. JUROS PACTUADOS EM CONTRATO. IMPOSSIBILIDADE DO REEXAME DE LEGISLAÇÃO INFRACONTRATUAL E DE NORMAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS N. 279 E N. 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Outros precedentes nessa linha: AI 859.049, Rel. Min. Luiz Fux; RE 719.534, Relª. Min.ª Rosa Weber; e RE 633.905, Rel. Min. Gilmar Mendes.
+    Diante do exposto, reconsidero a decisão agravada e com base no art. 21, § 1º , do RI/STF, nego seguimento ao recurso. Julgo prejudicado o agravo interno.
+    Publique-se.
+          Brasília, 28 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
