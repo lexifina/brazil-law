@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (eDOC 01, p. 100-101):
+    AGRAVO EM EXECUÇÃO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PENA PRIVATIVA DE LIBERDADE. SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS. DECRETO Nº 8.380/2014. INDULTO. IMPOSSIBILIDADE. VEDAÇÃO. CF/88 E LEI 8.072/90. PRECEDENTES DO STF E DO STJ. PENA DE MULTA. INDULTO. POSSIBILIDADE.
+    1. O art. 2º, I, da Lei 8.072/90, ao regulamentar o art. 5º, XLIII, da Constituição Federal, vedou a concessão de graça, anistia e indulto aos condenados por crime hediondo e por tráfico de drogas (hediondo por equiparação). Nem a Constituição Federal nem a Lei dos Crimes Hediondos fez qualquer exceção, seja quanto à pena privativa de liberdade aplicada, seja quanto à sua substituição por restritivas de direitos.
+    2. Apena de multa constitui dívida de valor destinada ao fundo penitenciário (art. 51 do Código Penal), cuja execução, como é sabido, cabe à Procuradoria da Fazenda Nacional. Sucede que a Chefe do Executivo, nos moldes do artigo 84, inciso XII, da CF, ao conceder, expressamente, o benefício de indulto para a pena de multa dispensou, na prática, o interesse estatal no recebimento de tais valores, razão pela qual a continuidade da persecução da multa, ainda que pela Fazenda Pública, constituiria providência inócua, contraprodutiva e lesiva ao erário público em face dos custos gerados para tanto, com possibilidade, inclusive, de os esforços restarem frustrados diante de eventual hipossuficiência econômica/do condenado. Aliás, o valor da multa, no caso, embora autorize sua inscrição na dívida ativa, está aquém do valor mínimo exigido para o ajuizamento de execução fiscal previsto no § 1º do art. 1º da Portaria n. 75/2012, qual seja, R$20.000,00. Vale dizer, o valor da multa, ainda que inscrito na dívida ativa, não seria objeto de execução, o que também reforça a necessidade de manutenção do indulto. Portanto, no caso, o indulto, na prática, foi concedido para dívida de valor, cuja cobrança foi dispensada pela Chefe da União Federal, quando editou o Decreto n° 8.380/2014.
+    3. Recurso de agravo provido em parte
+    Os embargos de declaração opostos foram desprovidos.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XLIII, e 84, XII, ambos da Constituição Federal. Busca-se, em suma, a reforma do acórdão recorrido para que seja afastada a concessão de indulto da pena de multa pela prática de crime hediondo.
+    É o relatório. Decido.
+    Verifico que o Superior Tribunal de Justiça deu provimento ao Recurso Especial 1.635.070/DF, simultaneamente interposto ao presente recurso, para afastar a concessão do indulto relativo à multa. Essa decisão transitou em julgado em 1º.03.2017 (eDOC 02, p. 204).
+    Ante o exposto, julgo prejudicado o presente recurso por perda superveniente do objeto, nos termos do art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 28 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
