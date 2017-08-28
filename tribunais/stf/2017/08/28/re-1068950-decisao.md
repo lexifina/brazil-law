@@ -1,0 +1,18 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Município de Belo Horizonte, no qual sustentou que o órgão judiciário de origem teria transgredido o preceito inscrito no art. 150, I, da Constituição da República.
+    Cabe registrar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei municipal nº 8.147/2000 e Decreto municipal nº 15.433/2013), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise das razões recursais da parte recorrente evidencia a necessidade de interpretação de direito local:
+    “Dessarte, perfeitamente válidos os valores da TCR/2014 a 2016 cobrados do Recorrido, cobrança que se deu com base no CUSTO do serviço, não havendo, outrossim, que se falar em majoração pelo Decreto Municipal nº 15.433/2013, visto que este somente consigna o valor que foi obtido a partir da utilização da fórmula prevista pela Lei municipal 8.147/2000 para o cálculo da taxa.
+    Com efeito, os valores da TCR/2014 estão apontados no art. 22 do Decreto municipal n. 15.433/2013, sendo tais valores o resultado obtido a partir da fórmula prevista no disposto no artigo 23 da Lei Municipal n. 8.147/2000.
+    O Decreto municipal n. 15.433/2013 esclareceu, em seu art. 22, relativamente à TCR/2014:
+    …...................................................................................................
+    Assim, o valor fixado para a TCR do exercício financeiro de 2014 decorreu do propugnado em lei material e formal, mais precisamente, o disposto no artigo 23 da Lei municipal n. 8.147/2000, que guarda consonância com as previsões constitucionais e legais sobre a aludida taxa. O Decreto 15.433/2013, tão somente aplicou o disposto em Lei, levando em consideração exatamente os elementos próprios à individualização do serviço público. O mesmo se diga em relação ao Decreto 15.828/14.
+    Resta inequívoco que não é o ato normativo editado pelo Poder Executivo que promove a majoração da TCR, este simplesmente consigna o valor que foi determinado seguindo-se a fórmula estabelecida na lei municipal para o cálculo do tributo, que leva em consideração exatamente os elementos próprios à individualização do serviço público, já que o mesmo é específico e divisível, como reconhecido pela Súmula Vinculante n. 19 e já examinado exaustivamente por este Egrégio TJMG.”
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 983.329/MG, Rel. Min. MARCO AURÉLIO – RE 1.040.366/MG, Rel. Min. DIAS TOFFOLI – RE 1.040.477/MG, Rel. Min. LUIZ FUX, v.g.).
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 28 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
