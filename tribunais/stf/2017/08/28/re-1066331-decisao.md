@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade aos artigos 2º, 5º, XXXV e LV, 37, caput, 93, IX, e 160, § único e inciso I, da Constituição Federal.
+    Anote-se a ementa do acórdão recorrido:
+    “Processual Civil e Administrativo. Não demonstrada a falta de interesse de agir. Agravo retido convertido em preliminar de apelação improvido. Tutela antecipada mantida. Presença dos requisitos. Convênio. Município. Inscrição. No SIAFI/CAUC. Irregularidades na prestação de contas da gestão anterior. Suspensão. Providências voltadas à responsabilização do antigo gestor, a saber: Notificação Extrajudicial; Portaria n.º 0334/2015 de Abertura da Tomadas de Contas Especial; e Inscrição do prejuízo na Dívida Ativo do Município (docs. 06, 07 e 08, respectivamente). Cabimento. Precedentes. Apelação e remessa oficial improvidas.”
+    Decido.
+    O recurso não merece prosperar.
+    No que se refere a matéria contida nos artigos 2º, e 5º, XXXV e LV e 93, IX, da Constituição, apontados como violados, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, colhe-se trecho do acórdão recorrido:
+    “Cuida-se de apelação interposta contra sentença que julgou procedente ação ajuizada pelo Município de Goiana (PE) em face da União, com a pretensão de obter provimento jurisdicional que determine à ré a providenciar a suspensão imediata da sua inscrição no CAUC/SIAFI e dos demais meios de restrições creditícias, em relação ao Convênio nº 370531 celebrado com a União por intermédio do Ministério do Desenvolvimento Social e Combate à Fome - MDS.
+    A transferência de recursos federais aos Estados, Distrito Federal e Municípios depende da comprovação da situação regular quanto à prestação de contas de recursos anteriormente recebidos. Entretanto, em determinados casos a referida restrição pode ser suspensa, conforme estabelece a Instrução Normativa STN nº 01/1997, quando há comprovação de que foram adotadas as medidas necessárias por parte do atual gestor, objetivando a recuperação do crédito, referente ao gestor anterior e após a instauração de tomada de contas especial e remessa ao TCU.” (fls. 342 e 343)
+    Como se vê, o Tribunal de origem decidiu a controvérsia amparado na legislação infraconstitucional pertinente (Instrução Normativa STN 1/1997, Lei Complementar 101/2000, Lei 10.522/2002 e Medida Provisória nº 2.176-79) e no conjunto fático e probatório dos autos, o que não enseja a abertura da via extraordinária. A afronta ao texto constitucional, caso ocorresse seria meramente reflexa. Incidência, ademais, da Súmula nº 279/STF.
+     “Agravo regimental no recurso extraordinário. Administrativo. Exclusão de município dos cadastros do SIAFI. Requisitos da Instrução Normativa 01/97/STN. Preenchimento. Discussão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. 1. Inviável, em recurso extraordinário, a análise da legislação infraconstitucional, bem como o reexame do conjunto fático–probatório da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido. 3. Inaplicável o art. 85, § 11, do Código de Processo Civil, haja vista que o agravado não apresentou contrarrazões.” (RE 964.313-AgR, Rel. Segunda Turma, de minha relatoria, DJe de 5/5/17).
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 28 de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
