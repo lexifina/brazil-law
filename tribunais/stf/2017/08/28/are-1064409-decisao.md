@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto de acórdão assim ementado (eDOC 22):
+     “SERVIDORA PÚBLICA MUNICÍPIO DE SANTOS ORIENTADORA DE ESTACIONAMENTO REGULAMENTADO PCCS PLANO DE CARGOS, CARREIRA E SALÁRIOS.
+    Pretensão à inclusão do PCCS na base de cálculo do adicional por tempo de serviço, da gratificação “Letra de 8 anos” e das horas extraordinárias, com o pagamento das diferenças pretéritas devidas. Sentença de procedência. Insurgência da Municipalidade. Não acolhimento. Preliminar de impossibilidade jurídica do pedido afastada LCM nº 162/1975, com alterações posteriores. Norma que implantou novo Plano de Cargos, Carreira e Salários Adicional por tempo de serviço, gratificação por oito anos no mesmo nível do cargo e horas extras. Cálculo das verbas que deve considerar o PCCS, diante de seu caráter remuneratório, genérico e não eventual. Pagamento das diferenças devidas, observada a prescrição quinquenal. Inexistência de ofensa à Lei Complementar n° 101/2000. Precedentes desta E. Corte. Sentença mantida. Recurso voluntário e reexame necessário não providos.”
+    Em seu recurso extraordinário (art. 102, III, a) o Município de Santos alega violação aos artigos artigos 1º, 18, 30, III e V, 34, VIII, “c”, 37, XII, e 39, §1º e 97, da Constituição Federal.
+    Nas razões recursais (eDOC 24), sustenta-se, em suma, que o princípio da separação de poderes impõe ao município o dever de aplicar ao caso a legislação municipal. Assim, em face da autonomia municipal, norteada pelas disposições dos artigos 18, 30, 37 e 169 da Carta da República, o Município deve organizar seu quadro funcional dentro dos limites impostos pela lei para despesas com pessoal.
+    Defende-se que a manutenção do acórdão recorrido desrespeitaria o princípio federativo, em manifesta afronta aos artigos 1º, 18, 30 e 34, VII, “c”, da Constituição Federal, caracterizando ingerência do poder judiciário sobre o Poder Executivo, com violação do art. 2º da CRFB.
+    O Tribunal de Justiça de São Paulo inadmitiu o recurso extraordinário por considerar necessário o reexame de direito local, apontando o óbice da súmula 280 do STF (eDOC 27).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Consabido, a admissibilidade dos recursos às instâncias especiais é aferida tanto na origem quanto no destino. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu , o agravo sequer tem preenchidos os pressupostos processuais.
+    De plano, verifica-se que a negativa de seguimento do apelo extremo se fundamentou na incidência da súmula 280 do STF. Entretanto, o agravante fala de “contribuição sindical” (da qual este feito não trata), reafirma haver repercussão geral e defende que a matéria está prequestionada.
+    O recurso, portanto, não ataca os fundamentos da decisão que inadmitiu o recurso extraordinário. Sendo assim, torna-se inviável seu conhecimento, nos termos da súmula 287 do STF.
+    Ante o exposto, não conheço do agravo, por ser manifestamente inadmissível, nos termos do art. 932, III, do CPC. Nos termos do art. 85, §11, do CPC, majoro em 1/4 (um quarto) os honorários advocatícios fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo. Publique-se.
+    Brasília, 28 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
