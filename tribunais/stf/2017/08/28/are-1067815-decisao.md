@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Alagoas, ementado nos seguintes termos:
+    “CONSTITUCIONAL. ADMINISTRATIVO. MANDADO DE SEGURANÇA CONTRA ATO DA MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA DO ESTADO. ARTIGOS 7º, INCISO II, E 12 DA LEI 12.016/09. ADI N.º 1557 DO SUPREMO TRIBUNAL FEDERAL. DOUTRINA E JURISPRUDÊNCIA. PRELIMINAR REJEITADA. TETO REMUNERATÓRIO CONSTITUCIONAL. FIXAÇÃO DE SUBTETO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. ART. 37, XI, DA CF/88. INCONSTITUCIONALIDADE INCIDENTAL DO ARTIGO 2º DA LEI ESTADUAL N.º 7.348/12. EFEITOS “EX NUNC”. SEGURANÇA CONCEDIDA. DOUTRINA E JURISPRUDÊNCIA.” (eDOC 2, p.59)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “d”, da Constituição Federal, aponta-se violação aos arts. 97 e 169, §1º, do texto constitucional.
+     Nas razões recursais, alega-se que o Tribunal de origem, ao conceder a segurança à recorrida, não observou o limite de gasto com pessoal previsto no texto constitucional, bem como na Lei de Responsabilidade Fiscal. (eDOC 4, p. 49)
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Estadual 7.349/12), consignou que a norma que estipulava o subteto, diversamente do redutor previsto no art. 37, XI, do texto constitucional, é inconstitucional, e que a possível afronta à Lei de Responsabilidade Fiscal contempla matéria diversa do objeto do mandamus. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “IN CASU, haja vista que o artigo 2º da Lei Estadual n.º 7.349/2012, ofende e viola a Carta da República – artigo 37, XI, da CF/88, resta estreme de dúvida sua inconstitucionalidade material, razão pela qual deve ser declarada incidenter tantum, com efeitos ex nunc, entre as partes, fazendo cessar a partir do julgamento a relação jurídica fundada na lei inconstitucional.
+    De arremate, ainda que, ad argumentandum tantum, se cogitasse que a aplicação do teto constitucional, tendo em vista o subsídio dos Deputados fixados na Lei Estadual n.º 7.349/12, afrontaria a Lei de Responsabilidade Fiscal, restaria sem êxito a pretensão uma vez tratar-se de matéria que, por contemplar tema distinto e diverso do objeto do mandamus, exigiria dilação probatória, o que não se admite em sede de Mandado de Segurança.” (eDOC 3, p. 10)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LIMITAÇÃO DO TETO SALARIAL. INTERPRETAÇÃO DA LEI ESTADUAL 11.071/95. SÚMULA STF 280. 1. Para se concluir, como pretende a parte agravante, pelo caráter específico da gratificação em análise, necessário seria o reexame de legislação local, o que é defeso nesta via extraordinária (Súmula STF 280). Precedentes. 2. Agravo regimental improvido. (AI-AgR 746754, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.12.2009)”
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TETO LOCAL REMUNERATÓRIO INSTITUÍDO PELA LEI ESTADUAL N. 6.995/90. PRECEDENTES. NATUREZA DO PRÓ-LABORE: IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”(RE-AgR 574692, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 13.11.2009)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de agosto de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
