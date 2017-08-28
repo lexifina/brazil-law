@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL. DETERMINAÇÃO PARA INTERNAÇÃO COMPULSÓRIA DE MENOR. DEPENDÊNCIA QUÍMICA. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. AUSÊNCIA DE FUNDAMENTOS QUE IMPLIQUEM EM ALTERAÇÃO DO JULGADO.
+    1-Tratando-se de matéria pacificada no âmbito do Tribunal, autorizado o julgamento monocrático, nos termos do art. 557, caput, do CPC;
+    2. A Constituição Federal garante ao menor, dependente químico, tratamento para a desintoxicação, sendo dever do ente público o cumprimento dessa garantia;
+    3- Ausente qualquer novo fundamento capaz de ensejar a modificação da decisão agravada, deve esta ser mantida em seus exatos termos, inexistindo subsídios que conduzam ao provimento do Agravo Regimental. Agravo Regimental conhecido e desprovido. Decisão mantida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte alega violação aos arts. 2º e 167, IV, da Constituição.
+    O recurso não deve ser admitido. É pacífico o entendimento desta Corte de que o Poder Judiciário pode, sem que fique configurada violação ao princípio da separação dos Poderes, determinar a implementação de políticas públicas nas questões relativas ao direito constitucional à saúde. Nesse sentido, veja-se:
+    “Suspensão de Liminar. Agravo Regimental. Saúde pública. Direitos fundamentais sociais. Art. 196 da Constituição. Audiência Pública. Sistema Único de Saúde - SUS. Políticas públicas. Judicialização do direito à saúde. Separação de poderes. Parâmetros para solução judicial dos casos concretos que envolvem direito à saúde. Responsabilidade solidária dos entes da Federação em matéria de saúde. Ordem de regularização dos serviços prestados em hospital público. Não comprovação de grave lesão à ordem, à economia, à saúde e à segurança pública. Possibilidade de ocorrência de dano inverso. Agravo regimental a que se nega provimento” (SL 47-AgR, Rel. Min. Gilmar Mendes, Plenário)
+    Incide, também, a jurisprudência do Supremo Tribunal Federal no sentido de que cumpre aos entes federativos o papel de destinar recursos orçamentários que garantam a implementação de políticas públicas de saúde. Veja-se, nessa linha, a ementa do RE 607.381-AgR, julgado sob a relatoria do Ministro Luiz Fux:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PROCESSUAL CIVIL. DIREITO À SAÚDE (ART. 196, CF). FORNECIMENTO DE MEDICAMENTOS. SOLIDARIEDADE PASSIVA ENTRE OS ENTES FEDERATIVOS. CHAMAMENTO AO PROCESSO. DESLOCAMENTO DO FEITO PARA JUSTIÇA FEDERAL. MEDIDA PROTELATÓRIA. IMPOSSIBILIDADE.
+    1. O artigo 196 da CF impõe o dever estatal de implementação das políticas públicas, no sentido de conferir efetividade ao acesso da população à redução dos riscos de doenças e às medidas necessárias para proteção e recuperação dos cidadãos.
+    2. O Estado deve criar meios para prover serviços médico-hospitalares e fornecimento de medicamentos, além da implementação de políticas públicas preventivas, mercê de os entes federativos garantirem recursos em seus orçamentos para implementação das mesmas. (arts. 23, II, e 198, § 1º, da CF).
+    3. O recebimento de medicamentos pelo Estado é direito fundamental, podendo o requerente pleiteá-los de qualquer um dos entes federativos, desde que demonstrada sua necessidade e a impossibilidade de custeá-los com recursos próprios. Isto por que, uma vez satisfeitos tais requisitos, o ente federativo deve se pautar no espírito de solidariedade para conferir efetividade ao direito garantido pela Constituição, e não criar entraves jurídicos para postergar a devida prestação jurisdicional.
+    4. In casu, o chamamento ao processo da União pelo Estado de Santa Catarina revela-se medida meramente protelatória que não traz nenhuma utilidade ao processo, além de atrasar a resolução do feito, revelando-se meio inconstitucional para evitar o acesso aos remédios necessários para o restabelecimento da saúde da recorrida.
+    5. Agravo regimental no recurso extraordinário desprovido.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 28 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
