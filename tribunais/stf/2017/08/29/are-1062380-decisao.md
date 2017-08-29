@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5°, LV, e 37, X, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie. A aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada violação da Constituição da República. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. HONORÁRIOS ADVOCATÍCIOS. ADVOGADO DATIVO. RECURSO ESPECIAL ADMITIDO. FIXAÇÃO DE HONORÁRIOS. TABELA OAB SECCIONAL. MATÉRIA INFRACONSTITUCIONAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Para divergir da conclusão adotada pelo Tribunal a quo, que determinou a fixação da verba honorária ao defensor dativo em atenção aos valores mínimos fixados na tabela de honorários da Seccional de Santa Catarina da Ordem dos Advogados do Brasil, seria necessário analisar legislação infraconstitucional, incabível na instância extraordinária. 2. Agravo regimental, interposto em 05.10.2016, a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Verba honorária majorada em 1/4 (um quarto), nos termos do art. 85, §§ 2º, 3º e 11, CPC.” (ARE 985562 AgR, Relator(a): Min. EDSON FACHIN, Primeira Turma, julgado em 16/12/2016, PROCESSO ELETRÔNICO DJe-027 DIVULG 09-02-2017 PUBLIC 10-02-2017.)
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Advogado dativo. Fixação de honorários. Tabela da OAB. Conselho Seccional. Matéria Infraconstitucional. Agravo regimental não provido. 1. O acórdão recorrido concluiu pela fixação de honorários advocatícios ao defensor dativo com base na análise da legislação infraconstitucional aplicada à espécie (Lei nº 8.906/94). 2. O exame de legislação infraconstitucional é inadmissível em recurso extraordinário, por configurar ofensa reflexa à Constituição. 3. Agravo regimental a que se nega provimento.” (ARE 985565 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 09/06/2017, PROCESSO ELETRÔNICO DJe-138 DIVULG 22-06-2017 PUBLIC 23-06-2017.)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de agosto de 2017.
+Ministra Rosa Weber
+Relatora
