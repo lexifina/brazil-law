@@ -1,0 +1,16 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. SOBRESTAMENTO OU SUSPENSÃO DO FEITO POR MOTIVO DO RECONHECIMENTO DE REPERCUSSÃO GERAL, COM BASE NA MULTIPLICIDADE DE RECURSOS, PELO STF. DESCABIMENTO.
+    Não é caso de sobrestamento do presente feito em razão do reconhecimento, nos termos do art. 543-A do CPC, da existência de repercussão geral da questão constitucional suscitada, tendo em vista que as providências previstas no artigo 543-B, § 1º, do CPC aplicam-se aos recursos extraordinários, e não aos de apelação.
+    AUTOS DE LANÇAMENTO. MERCADORIAS INTEGRANTES DA CESTA BÁSICA. REDUÇÃO DA BASE DE CÁLCULO. ISENÇÃO PARCIAL. ANULAÇÃO PROPORCIONAL. CREDITAMENTO INTEGRAL. IMPOSSIBILIDADE. PRINCÍPIO DA NÃO-CUMULATIVIDADE. MULTAS. CONFISCO. OCORRÊNCIA.
+    Caso em que, optando o contribuinte pela redução da base de cálculo, automaticamente haverá a anulação parcial do crédito fiscal, o que inviabiliza o creditamento integral pretendido pela apelante, operando-se pelo modo proporcional, consoante determinação constitucional e, por conseguinte, afastando a hipótese de ofensa ao princípio da não-cumulatividade.
+    Descabida a apropriação do crédito fiscal excedente à aplicação ao percentual de 7% sobre a base respectiva, impondo-se o estorno correspondente nas saídas subsequentes e a usufruição da redução da base de cálculo.
+    Prospera a irresignação quanto à abusividade da multa aplicada, tendo em vista o novo posicionamento do STF, quando do julgamento do RE nº 657.372/RS, ao considerar confiscatórias as multas fiscais superiores a 100%. Todavia, embora não seja possível a manutenção em 120%, cabe reduzir a multa fiscal para 100% sobre o valor do tributo devido, pois inexiste justificativa para sua fixação em patamar inferior.
+    APELAÇÃO PROVIDA EM PARTE. UNÂNIME.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta, em síntese, a legalidade e a constitucionalidade do estabelecimento da multa no montante de 120% do valor do tributo.
+    A pretensão recursal não merece prosperar, tendo em vista que o acórdão recorrido está alinhado com a jurisprudência desta Corte. Verifico que a hipótese reporta à aplicação de uma multa punitiva. Em casos tais, a Corte tem entendido que são confiscatórias as sanções que ultrapassem o percentual de 100% (cem por cento) do valor do tributo devido. Nas palavras do Ministro Marco Aurélio, embora haja dificuldade, como ressaltado pelo Ministro Sepúlveda Pertence, para se fixar o que se entende como multa abusiva, constatasse que as multas são acessórias e não podem, como tal, ultrapassar o valor do principal (ADI 551, Rel. Min. Ilmar Galvão).
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada da na instância anterior, observados os limites legais do art. 85, §§ 3º, 4º e 5º, do CPC/2015.
+    Publique-se.
+          Brasília, 29 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
