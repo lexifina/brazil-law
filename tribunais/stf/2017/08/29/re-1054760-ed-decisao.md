@@ -1,0 +1,18 @@
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. RECURSO INTEMPESTIVO. EMBARGOS NÃO CONHECIDOS.
+    Decisão: Trata-se de embargos de declaração opostos por Alexson Leite Lira contra decisão de minha relatoria, cuja ementa transcrevo:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. NULIDADES. AUSÊNCIA DE DEMONSTRAÇÃO DA EXISTÊNCIA DE REPERCUSSÃO GERAL. ARTIGO 1.035, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015 C.C. ARTIGO 327, § 1º, DO RISTF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.”
+    Inconformada com a decisão supra, a parte embargante interpõe o presente recurso, alegando, em síntese, que:
+    “(...) se faz mister a NULIDADE de todos os atos processuais a contar do protocolo do presente recurso junto ao STF diante da confusão existente com o cadastramento de nosso registro junto a OAB/AL nº 5307 quando na verdade o referido processo foi oriundo do Estado de Sergipe com a OAB/SE nº 281-A, entretanto, caso não seja o entendimento de Vossa Excelência que seja republicada no DJE a decisão monocrática com apenas a OAB/SE nº 281-A excluindo-se a OAB/AL nº 5307 que já não está mais em atividade, o que de per si facilitará a nossa intimação via DJE pelo Estado de Sergipe onde tal processo teve sua origem.”
+    É o relatório. DECIDO.
+    O recurso não merece ser conhecido, por intempestividade.
+    A decisão embargada foi publicada em 3/8/2017. Os embargos de declaração, no entanto, foram opostos apenas em 21/8/2017 (Doc. 7), por conseguinte, fora do prazo legal de 5 (cinco) dias (artigo 1.023, caput, do CPC/2015).
+    Ressalto que o nome das partes e de seus advogados, com o respectivo número de inscrição na Ordem dos Advogados do Brasil (OAB), constou da publicação no Diário da Justiça Eletrônico, nos termos do que dispõe o artigo 272, § 2º, do CPC/2015. Portanto, a alegação de que a publicação foi efetivada em nome do patrono da parte com o número de inscrição na OAB da Seccional de Alagoas e também com o número de inscrição suplementar proveniente do Estado de Sergipe, não é suficiente para caracterizar nulidade na intimação.
+    Destaco que esta Corte já firmou entendimento no sentido de que, para fins de declaração de nulidade da intimação do advogado, é necessária a constatação de erro grosseiro na publicação do órgão oficial. Nesse sentido:
+    “Agravo de Instrumento. 2. Incorreção, pela simples omissão de uma consoante, na grafia do sobrenome do advogado. 3. Circunstância que não configura nulidade do ato processual, nem mesmo sua ineficácia, vez que não se tornou impossível a identificação do processo, para efeito de intimação. 4. Agravo desprovido.” (AI 243.275-petição avulsa-AgR, Rel. Min. Marco Aurélio, Redator p/ o acórdão Min. Gilmar Mendes, Tribunal Pleno, DJ de 5/10/2007)
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXISTÊNCIA DE ERRO DE GRAFIA NO NOME DA ADVOGADA DO AGRAVANTE. POSSIBILIDADE DE IDENTIFICAÇÃO DO REPRESENTANTE PROCESSUAL: AUSÊNCIA DE ERRO GROSSEIRO. NULIDADE DA INTIMAÇÃO NÃO CONFIGURADA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 765.746-AgR-ED-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 4/6/2010)
+    Ex positis, NÃO CONHEÇO os embargos de declaração, nos termos do artigo 932, III, do Código de Processo Civil de 2015.
+    Publique-se.
+    Brasília, 29 de agosto de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
