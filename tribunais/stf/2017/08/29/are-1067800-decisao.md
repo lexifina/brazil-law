@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “AÇÃO SOB O RITO ORDINÁRIO. Servidores públicos. Pretensão ao reconhecimento do direito de não sofrerem a incidência do Imposto de Renda sobre o terço constitucional de férias. Referido, incidente sobre férias usufruídas possui natureza jurídica de remuneração, nele podendo incidir Imposto de Renda, nos termos do art. 43 do Código Tributário Nacional. Precedentes e deste Tribunal. Ação julgada improcedente. Sentença mantida. Recurso conhecido e não provido”(pág. 18 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se, em suma, violação ao art. 7°, XVII, da mesma Carta. Sustentou-se, ainda, a natureza indenizatória das verbas recebidas a título de terço constitucional de férias, o que impossibilitaria a incidência de imposto de renda sobre elas.
+    A pretensão recursal não merece acolhida.
+    A jurisprudência desta Corte firmou-se no sentido de que a discussão a respeito da natureza jurídica dos valores percebidos a título de terço de férias, se indenizatória ou salarial, para fins de incidência de imposto de renda, situa-se no âmbito infraconstitucional. Desse modo, eventual ofensa à Constituição seria apenas indireta, o que inviabiliza o recurso extraordinário. Nesse sentido, destaco julgados de ambas as Turmas deste Tribunal cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA. VALORES RECEBIDOS A TÍTULO DE TERÇO DE FÉRIAS. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. AGRAVO REGIMENTAL DESPROVIDO” (RE 759.432-AgR/AM, Rel. Min. Luiz Fux, Primeira Turma).
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Imposto de renda. Terço de férias. Natureza jurídica da verba. Matéria infraconstitucional. Ofensa constitucional indireta ou reflexa.
+    1.Possui natureza infraconstitucional a discussão a respeito da natureza jurídica da verba (se indenizatória ou salarial) para a verificação da incidência de imposto de renda. Eventual ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Precedentes.
+    2. Agravo regimental não provido” (ARE 888.108-AgR/DF, Rel. Min. Dias Toffoli, Segunda Turma).
+    Com essa mesma orientação, menciono as seguintes decisões, entre outras: ARE 818.684-AgR/DF e RE 1.009.131-AgR/SE, Rel. Min. Edson Fachin; RE 1.010.292-AgR/SE, Rel. Min. Roberto Barroso; ARE 920.882-AgR/DF, Rel. Min. Marco Aurélio; RE 1.009.129-AgR/SE, Rel. Min. Rosa Weber; RE 851.677-AgR/SE, Rel. Min. Cármen Lúcia; ARE 773.707-AgR/PE, Rel. Min. Teori Zavascki; ARE 892.062-AgR/DF, Rel. Min. Dias Toffoli; RE 609.701-AgR/PE e ARE 1.040.275/MG, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 29 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
