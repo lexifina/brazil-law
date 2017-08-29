@@ -1,0 +1,27 @@
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INOCORRÊNCIA DE ERRO MATERIAL. MANIFESTO INTUITO PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.
+    Decisão: Trata-se de embargos de declaração, opostos por ANDERSON DE SOUZA MACEDO, ANDRÉ ALEXANDRE RIBEIRO DA COSTA e HENRIQUE RIBEIRO DA COSTA, contra decisão de minha relatoria, assim ementada, in verbis:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIMES DE ROUBO E EXTORSÃO MEDIANTE SEQUESTRO. ARTIGOS 157, § 2º, I E II, E 159, CAPUT, AMBOS DO CÓDIGO PENAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS VIOLADOS. SÚMULA 284 DO STF.”
+    Em suas razões, a parte embargante argumenta que a “decisão monocrática embargada não atentou no todo para a tese apresentada no corpo do agravo em recurso extraordinário, tornando-se, ao ver da defesa, omissa, o que de plano autoriza a interposição (…) dos presentes embargos, para que seja totalmente analisada a tese defensiva, inclusive na parte que se a ofensa indireta ao artigo 5º, da Constituição Federal (Contraditório e Ampla Defesa).” [Sic] (Doc. 6, fl. 1)
+    É o relatório. DECIDO.
+    Não merece acolhida a pretensão dos embargantes.
+    Ab initio, pontuo que os embargos de declaração opostos contra decisão do relator serão decididos monocraticamente, nos termos do artigo 1.024, § 2º, do CPC/2015, in verbis: “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente”.
+    Demais disso, é inviável a apreciação do argumento de ofensa aos princípios da ampla defesa e do contraditório, porquanto a tese constitui inovação, tendo em vista que não foi aduzida em sede de recurso extraordinário. Esta Corte já firmou entendimento no sentido de que é incabível a inovação de argumentos nesta fase processual, mesmo em se tratando de matéria de ordem pública. Nesse sentido, AI 518.051-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ de 17/2/2006, com a seguinte ementa:
+    “O prequestionamento é requisito de admissibilidade recursal na via extraordinária, ainda que a questão debatida seja de ordem pública. 2. Além de ser de índole infraconstitucional, constitui inovação à discussão da lide controvérsia relativa à prescrição, não impugnada no apelo extremo. 3. Agravo regimental improvido.”
+    No mesmo sentido, o ARE 665.255-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 22/5/2013, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+    I - O agravo não atacou os fundamentos da decisão que inadmitiu o recurso extraordinário, o que torna inviável o recurso, conforme a Súmula 287 do STF. Precedentes.
+    II - O argumento expendido no presente recurso referente à suposta admissibilidade recursal com base no art. 102, III, c , da Constituição traduz inovação recursal, haja vista não ter sido mencionada nas razões do apelo extremo.
+    III - Agravo regimental improvido.”
+    Ressalto que os embargos de declaração somente são cabíveis quando houver, na decisão judicial, ambiguidade, obscuridade, contradição ou omissão, consoante dispõe o artigo 619 do CPP.
+    In casu, a decisão hostilizada, ao contrário do alegado pelo recorrente, enfrentou os argumentos trazidos nas razões recursais, ao assentar a deficiência na fundamentação dos dispositivos constitucionais violados.
+    Nesse contexto, não se verifica nenhuma das hipóteses ensejadoras dos embargos de declaração, eis que a decisão embargada, não tendo partido de premissas equivocadas, apreciou as questões suscitadas no recurso extraordinário de maneira clara e coerente, em consonância com a jurisprudência pertinente.
+    Ademais, saliente-se que os restritos limites dos embargos de declaração não permitem rejulgamento da causa. O efeito modificativo ora pretendido somente é possível em hipóteses excepcionais e desde que comprovada a existência de obscuridade, de contradição, de omissão ou de erro material no julgado, o que não ocorre no caso sub examine , pelas razões acima delineadas. Nesse sentido:
+    “EMBARGOS DECLARATÓRIOS - ACÓRDÃO - INEXISTÊNCIA DE VÍCIO - DESPROVIMENTO. Uma vez voltados os embargos declaratórios ao simples rejulgamento de certa matéria, inexistindo, no acórdão proferido, qualquer dos vícios que os respaldam - omissão, contradição e obscuridade -, impõe-se o desprovimento.” (RE 812.827-AgR-ED, Rel. Min. Marco Aurélio, Primeira Turma, DJ de 26/3/2015)
+    “EMBARGOS DE DECLARAÇÃO - INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO - EMBARGOS DE DECLARAÇÃO REJEITADOS .
+    - Os embargos de declaração destinam-se , precipuamente , a desfazer obscuridades, a afastar contradições e a suprir omissões que eventualmente se registrem no acórdão proferido pelo Tribunal. A inocorrência dos pressupostos de embargabilidade, a que se refere o art. 535 do CPC, autoriza a rejeição dos embargos de declaração, por inadmissíveis.” (ARE 835.081-AgR-ED, Rel. Min. Celso de Mello, Segunda Turma, DJ de 25/3/2015, grifos originais)
+    Ex positis, DESPROVEJO os embargos de declaração.
+    Publique-se.
+    Brasília, 29 de agosto de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
