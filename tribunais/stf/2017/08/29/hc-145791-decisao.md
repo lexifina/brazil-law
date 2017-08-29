@@ -1,0 +1,20 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Marcelo Alexandre Alves Monteiro, contra acórdão do Superior Tribunal Militar que rejeitou os embargos infringentes na Apelação 170-80.2011.7.04.0007/DF.
+    Extraio do ato dito coator:
+    “EMBARGOS INFRINGENTES. DEFENSORIA PÚBLICA DA UNIÃO. DENUNCIAÇÃO CALUNIOSA. ART. 343 DO CÓDIGO PENAL MILITAR. DIVERGÊNCIA QUANTO À COMPROVAÇÃO DO DOLO NA CONDUTA DO AGENTE. ELEMENTO SUBJETIVO DO TIPO CARACTERIZADO. MANUTENÇÃO DA CONDENAÇÃO. EMBARGOS REJEITADOS. MAIORIA.
+    A prática delituosa descrita no art. 343 do Código Penal Militar tipifica a conduta de quem dá causa à instauração de inquérito policial ou processo judicial militar contra alguém, imputando-lhe crime sujeito à jurisdição militar, de que o sabe inocente.
+    Fornece instrumentos para a investigação aquele que informa à autoridade policial, verbalmente, a existência de um crime e de seu autor, sabendo que o faz falsamente.
+    Configura-se o elemento subjetivo do tipo penal descrito no art. 343 do Código Penal Militar quando o autor baseia a denunciação em mera suposição, sem que para isso apresente a devida comprovação. Nesse caso, fica afastada a alegação de exercício regular de direito, pois o agente tinha conhecimento da inocência do colega de farda.
+    Embargos rejeitados. Maioria.”
+    No presente writ, assevera a Impetrante, em síntese, que o “paciente não tinha conhecimento da suposta falsidade dos fatos alegados e tampouco dolo em prejudicar um inocente, mas agiu no seu dever de noticiar as autoridades de uma conduta ilegal que acreditava estar ocorrendo”. Sustenta a inexistência da infração penal imputada ao paciente e da falta de provas para comprovação do dolo direto. Requer, em medida liminar, a suspensão dos efeitos do acórdão recorrido. No mérito, pugna pela absolvição do paciente.
+    Em 09.8.2017, indeferi a liminar.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Edson Oliveira de Almeida, opina pela denegação da ordem.
+    É o relatório.
+    Decido.
+    Na hipótese, para concluir em sentido diverso da condenação do paciente por inexistência de crime ou insuficiência probatória para comprovação do dolo direto, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Com efeito, esta Suprema Corte já assentou que “A ação de habeas corpus – de caráter sumaríssimo – constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise aprofundada da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos indiciários e/ou coligidos no procedimento penal” (HC 92.887/GO, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.12.2012). No mesmo diapasão: “O habeas corpus não comporta reexame de fatos e provas para chegar-se à absolvição, consoante remansosa jurisprudência desta Corte” (HC 124.479/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 11.12.2014); e “para concluir de forma diversa do assentado nas instâncias antecedentes e restabelecer a decisão de absolvição do Recorrente, seria necessário o reexame de fatos e provas para averiguar se esta decisão primeira no sentido da absolvição do Recorrente seria ou não contrária à prova dos autos, ao que não se presta o recurso ordinário em habeas corpus” (RHC 132.321/PE, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 01.3.2016).
+    Nesse diapasão, na esteira do parecer ministerial, “sem razão a impetração, sendo nítido o propósito de revolvimento do quadro fático-probatório, o que sabidamente ultrapassa os limites estreitos do habeas corpus”.
+    Anoto, por fim, a inviabilidade de utilização do habeas corpus como sucedâneo recursal ou revisão criminal (RHC 123.813/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 21.11.2014; HC 121.255/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 01.8.2014).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de agosto de 2017.
+Ministra Rosa Weber
+Relatora
