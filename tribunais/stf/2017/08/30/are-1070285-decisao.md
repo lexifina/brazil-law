@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 5ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio Grande do Sul, o qual manteve o entendimento de que a atuação do poder judiciário restringe-se ao controle da legalidade da decisão administrativa, não podendo adentrar no mérito administrativo, já que, no caso concreto, a rejeição ou não do pedido de redistribuição por parte da recorrente é acobertado pelo poder discricionário da autoridade competente (eDOC 39, p. 2).
+    Os embargos de declaração foram rejeitados (eDOC 46).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta ofensa ao art. 226, da Constituição Federal.
+    Nas razões recursais, sustenta, em suma, que “não há qualquer prejuízo para a Administração Pública em decorrência da remoção da Recorrente, visto que não é razoável que a mesma permaneça afastada de seu marido e filhos e ainda, de seus genitores em idade avançada, sendo que a manutenção da decisão a quo ignora por completo os dispositivos previstos na Lei Maior, subtraindo da Recorrente direitos largamente assegurados.” (eDOC 49, p. 7).
+    A Presidência das Turmas Recursais da Seção Judiciária do Rio Grande do Sul – TRF/4ª Região inadmitiu o recurso extraordinário por entender que não houve ofensa direta à Constituição Federal (eDOC 53).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do recurso inominado, asseverou que (eDOC 39, p. 1-4):
+    “Trata-se de recurso da parte autora contra sentença de improcedência da pretensão veiculada na inicial, consistente no direito à redistribuição da autora, servidora pública federal lotada no IFRS, campus de São Vicente do Sul, para o cargo de professora, na área de Química, do Colégio Técnico Industrial da UFSM.
+    (…)
+    A autora não logrou êxito em seu intento diante da decisão tomada pelo órgão colegiado do CTISM (Colégio Técnico Industrial de Santa Maria), que entendeu pela necessidade de realização de concurso público para preenchimento do cargo vago de professor da área de Química.
+      (…)
+    Quanto ao fundamento da negativa de redistribuição, portanto, não há de se cogitar na hipótese de abuso ou excesso. Adentrar na questão debatida e perquirir se seria realmente necessária a ocupação do cargo mediante concurso público, ao invés de se permitir a simples redistribuição, configuraria indevida invasão no próprio mérito administrativo.”
+    Como se depreende dos fundamentos do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Nesse sentido:
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAL MILITAR. EXPULSÃO DA CORPORAÇÃO. IMPOSSIBILIDADE DE INCURSÃO PELO PODER JUDICIÁRIO NO  MÉRITO ADMINISTRATIVO.   REGULARIDADE DO PROCESSO ADMINISTRATIVO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.” (ARE 968.607-AgR, Min. Rel. Luiz Fux, Primeira Turma, DJe 15.9.2016).
+     “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Defensoria pública. Implantação de plantão permanente na cidade de Erechim.  Mérito administrativo. Impossibilidade de ingerência do Poder Judiciário ante a ausência de ilegalidade ou abuso de poder. Princípio da separação dos poderes. Precedentes. Inexistência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (RE 636.686-AgR, Min. Rel. Gilmar Mendes, Segunda Turma, DJe 16.8.2013).
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 932, IV, “a” e “b”, do CPC, e do art. 21, §1º, do RISTF, e majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os limites dos §§ 2º e 3º do artigo 85, §11, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 30 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
