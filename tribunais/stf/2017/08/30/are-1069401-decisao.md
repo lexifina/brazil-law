@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5º, caput, e 150 da Constituição Federal.
+    Anote-se a ementa do acórdão recorrido:
+    “EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REDIRECIONAMENTO DA EXECUÇÃO. PRECLUSÃO CONSUMATIVA. 1. Questão já decidida e repelida em sede de exceção de pré-executividade. Hipótese em que não se apresenta qualquer fato ou fundamento novo a autorizar a reapreciação da questão. Ocorrência da preclusão consumativa acerca da matéria. Inteligência do art. 473 do Código de Processo Civil. 2. Agravo de instrumento a que se nega provimento”.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que para acolher a pretensão do agravante acerca da incidência ou não do instituto processual da preclusão seria necessário o reexame da legislação infraconstitucional pertinente, o que é incabível em sede de recurso extraordinário. Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. PRECLUSÃO DE PROVA PERICIAL. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Inviável o processamento do recurso extraordinário quando para seu deslinde seja necessária a análise de legislação infraconstitucional aplicável. 2. Ausência de novos argumentos suficientes para modificação da decisão agravada. 3. Agravo regimental, interposto em 31/05/2016, a que se nega provimento” (ARE n° 932.377/RJ-AgR, Primeira Turma, Relator o Ministro Edson Fachin, DJe de 9/9/16 - grifei).
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Processual Civil. Prequestionamento. Ausência. Contrato de compra e venda. Ação declaratória de nulidade. Exceção de incompetência. Preclusão. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF . 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido” (ARE n° 783.430/GO-AgR, Primeira Turma, de minha relatoria, DJe de 24/2/14 - grifei).
+    “EMENTA Agravo regimental no agravo regimental no recurso extraordinário. Precatório complementar. Juros moratórios e compensatórios. Preclusão reconhecida pelo Tribunal de origem. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279 da Corte. 2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 3. Agravo regimental não provido.”
+(RE 593865 AgR-AgR, Primeira Turma, de minha relatoria, DJe de 22/10/2013 - grifei).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
