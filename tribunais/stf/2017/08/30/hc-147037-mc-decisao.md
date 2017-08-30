@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada de eminente Ministra do Superior Tribunal de Justiça em sede de outra ação de “habeas corpus” (HC 411.349/ES), indeferiu, liminarmente, o “writ” lá ajuizado.
+    O impetrante também aponta como órgão coator o E. Tribunal Regional Federal da 2ª Região (Apelação Criminal nº 0000583- -12.2006.4.02.5002).
+    Sendo esse o quadro, passo a apreciar a admissibilidade da presente ação de “habeas corpus”. E, ao fazê-lo, devo observar que ambas as Turmas  do Supremo Tribunal Federal firmaram orientação no sentido da incognoscibilidade desse remédio constitucional, quando ajuizado, como no caso em análise, em face de decisão monocrática proferida por Ministro de Tribunal Superior da União (HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA – HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA – HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI – HC 118.189/MG, Rel. Min. RICARDO LEWANDOWSKI – HC 119.821/TO, Rel. Min. GILMAR MENDES – HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI – HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI – HC 122.718/SP, Rel. Min. ROSA WEBER – RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA – RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, v.g.):
+    “’HABEAS CORPUS’. CONSTITUCIONAL. PENAL. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL. SUPRESSÃO DE INSTÂNCIA. IMPETRAÇÃO NÃO CONHECIDA.
+    I – (…) verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, o qual pressupõe seja a coação praticada por Tribunal Superior.
+    …...................................................................................................
+    III – ‘Writ’ não conhecido.”
+    (HC 118.212/MG, Rel. Min. RICARDO LEWANDOWSKI – grifei)
+    Esta Suprema Corte, como se vê dos precedentes acima referidos, compreende que a cognoscibilidade da ação de “habeas corpus” supõe, em contexto idêntico ao de que ora se cuida, a existência de decisão colegiada da Corte Superior apontada como coatora, situação inocorrente na espécie.
+    Embora respeitosamente dissentindo dessa diretriz jurisprudencial, por entender possível a impetração de “habeas corpus” contra decisão monocrática de Ministro de Tribunal Superior da União, devo aplicar, observado o princípio da colegialidade, essa orientação restritiva que se consolidou em torno da utilização do remédio constitucional em questão, motivo pelo qual, em atenção à posição dominante na jurisprudência do Supremo Tribunal Federal, impor-se-á, na espécie, o não conhecimento deste “writ”.
+    Examino, ainda, a questão concernente à competência desta Suprema Corte para processar e julgar a presente ação de “habeas corpus” na parte em que impugna acórdão proferido pelo E. Tribunal Regional Federal da 2ª Região (Apelação Criminal nº 0000583-12.2006.4.02.5002).
+    Ao proceder a esse exame, assinalo que, por serem taxativas as hipóteses do art. 102, I, letras “d” e “i”, da Constituição Federal – pertinentes à impetrabilidade originária de “habeas corpus” perante o Supremo Tribunal Federal (RTJ 93/113 – RTJ 115/687 – RTJ 121/1050 – RTJ 125/1027 – RTJ 140/865, v.g.) –, falece competência a esta Corte para apreciar o presente “writ” no que se refere ao ato emanado do TRF/2ª Região.
+    Sendo assim, e em face das razões expostas, não conheço desta ação de “habeas corpus”, restando prejudicado, em consequência, o exame da medida liminar pleiteada.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 30 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
