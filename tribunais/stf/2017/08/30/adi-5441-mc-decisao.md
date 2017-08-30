@@ -1,0 +1,11 @@
+Decisão: Trata-se de ação direta em que se discute a constitucionalidade de leis editadas pelo Estado de Santa Catarina que concederam a diversas categorias do funcionalismo público a percepção de vantagem funcional intitulada estabilidade financeira.
+    Pela decisão monocrática de 26/6/2017 (DJe de 27/6/2017, peça 94 dos autos eletrônicos) concedi medida cautelar para afastar a vigência das normas questionadas, naquilo em que permitiam a contagem do tempo de exercício pretérito para efeito de incorporação de valores a título de estabilidade financeira. Assim, foi suspensa a possibilidade de futuras incorporações e pagamentos de valores decorrentes da contagem de tempo pretérito já incorporados, até o julgamento final da presente ação direta.
+    Reitero que a suspensão cautelar da norma é providência indispensável para afastar o dano irreparável ao erário do Estado de Santa Catarina, considerada a natureza alimentar desses pagamentos, que impediria a restituição das quantias pagas na hipótese de juízo definitivo de inconstitucionalidade das normas impugnadas (ADI 4433-MC, Rel. Min. ELLEN GRACIE, Tribunal Pleno, DJe de 9/11/2010).
+    Por meio de inúmeras manifestações apresentadas nos autos pelas autoridades interessadas e por entidades admitidas como amici curiae, vieram à minha atenção circunstâncias de fato relacionadas ao efeito concreto da decisão proferida sobre certa categoria de servidores em situação de especial vulnerabilidade econômica e social.
+     Especificamente, em relação aos servidores aposentados, para os quais se presume maior dependência de seus proventos, em razão dos custos e eventuais dificuldades que a idade e a inatividade econômica normalmente acarretam, reconheço a possibilidade do periculum in mora inverso, que poderá acarretar danos irrecuperáveis ao sustento e à manutenção do padrão de vida dessas pessoas.
+     Em vista do exposto, RECONSIDERO PARCIALMENTE a decisão monocrática proferida, a fim de que a suspensão da eficácia das normas impugnadas, e a consequente suspensão dos pagamentos de valores decorrentes da contagem de tempo pretérito já incorporados, não se aplique somente ao pagamento dos proventos de aposentadoria existentes à época da concessão inicial.
+    Publique-se. Int..
+    Brasília, 30 de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
