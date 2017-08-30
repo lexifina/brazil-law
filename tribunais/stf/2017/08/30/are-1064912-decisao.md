@@ -1,0 +1,30 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO. Mandado de segurança. Exclusão do apelante do regime tribuário do Simples Nacional, em razão de irregularidades. Feição declaratória da decisão administrativa de exclusão e seus efeitos retroativos. Sentença denegatória da ordem impetrada. RECURSO NÃO PROVIDO.
+    São retroativos os efeitos da decisão administrativa de exclusão do sistema do ‘simples nacional’ por não satisfação dos pressupostos legais dos pressupostos legais ao regime especial, ante as irregularidades constatadas e consistentes em reiterada omissão de receita, constatada pelo confronto do resumo da receita bruta do contribuinte com os extratos de cartões de crédito apresentados pelas operadoras” (pág. 103 do documento eletrônico 2).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5°, XXXVI e XL; 150, II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Destaco trechos do voto do relator do acórdão recorrido:
+    “[...] A  apelante  pretende a reforma da sentença, sustentando, em síntese, que os efeitos da exclusão da impetrante do regime do Simples Nacional não podem ser retroativos, sob pena de ofensa à garantia de irretroatividade da lei e ao direito adquirido.
+    […]
+    A discussão central da lide repousa nos efeitos da decisão administrativa que excluiu a apelante do regime tributário do Simples Nacional.
+    […]
+    Ademais, observe-se que, no caso, a referida exclusão do Simples Nacional ocorreu em razão da verificação de irregularidades cometidas pela apelante, que declarava ao Fisco receita inferior àquelas apontadas pelas operadoras de cartão de crédito (‘exclusão partir de 01/03/2008 por prática reiterada, de omissão de receita nos meses de 01, 02 e 03 de 2008, comprovada pela comparação do RESUMO DA RECEITA BRUTA do contribuinte com os extratos de cartões de crédito apresentados pelas operadoras’ — fls. 75). Neste quadro, ante a fraude, constatou-se que a impetrante não tem direito ao referido sistema tributário específico.
+    [...]
+    Em resumo, pois, em decorrência da situação de exclusão- sanção, por conduta irregular da empresa, ora apelante, não se pode deixar de reconhecer a feição meramente declaratória de sua exclusão do regime tributário do Simples Nacional, e, portanto, a juridicidade dos efeitos retroativos, sem ofensa alguma à garantia da irretroatividade da lei e ao alegado direito […]” (grifei - pág. 102-106 do documento eletrônico 2).
+    Verifica-se que o Tribunal de origem concluiu pela exclusão do recorrido do Sistema “Simples Nacional” com base na legislação infraconstitucional e nas provas dos autos.
+    Desse modo, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279 deste Tribunal, bem como na legislação infraconstitucional aplicável à espécie (Código Tributário Nacional e Lei 9.317/1996).
+    Ademais, verifico que a recorrente não demonstrou as razões pelas quais entende que a questão constitucional aqui versada seria relevante, sob o ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos do processo. A mera alegação de existência de repercussão geral, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2°, do CPC/1973, introduzido pela Lei 11.418/2006, e no art. 327, § 1°, do RISTF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPROBIDADE. ADMINISTRATIVO. AUSÊNCIA DE PRELIMINAR FUNDAMENTADA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL. EXIGÊNCIA DE DEMONSTRAÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 279/STF.
+    1. A parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. A peça de recurso, portanto, não atende ao disposto no art. 543-A, § 2º, do CPC. Precedente.
+    2. A solução da controvérsia demanda a análise da legislação infraconstitucional pertinente e uma nova reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável nesta fase recursal.
+    3. Agravo regimental a que se nega provimento” (AI 814.690-AgR/RS, de relatoria do Ministro Roberto Barroso; grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS SUSCITADAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ADMINISTRATIVO. EXERCÍCIO DE FUNÇÃO PÚBLICA. REGULARIDADE DO VÍNCULO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF.
+    II – Ausência de prequestionamento das questões constitucionais suscitadas. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    III – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF.
+    IV – Agravo regimental a que se nega provimento” (ARE 820.902-AgR/RO, de minha relatoria; grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 30 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
