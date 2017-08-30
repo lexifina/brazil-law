@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “PREVIDENCIÁRIO - Pensão por morte - Integralidade - EC nº 47/2005 - Art. 3º - Regra de transição – Improcedência - Reforma da sentença - Possibilidade: Embora o instituidor da pensão tenha falecido posteriormente à edição da Lei Complementar nº 1.012/07, sua situação jurídica já estava consolidada quando do advento da EC nº 41/2003, razão pela qual indevida a aplicação da pensão reduzida, por afrontar o direito adquirido e a garantia da irredutibilidade de vencimentos.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 37, caput, e 40, § 7º, da Constituição.
+    O recurso deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem não está alinhada com a jurisprudência desta Corte.
+    No julgamento do RE 603.580-RG, sob a relatoria do Min. Ricardo Lewandowski, esta Corte entendeu que a EC nº 47/2005 alterou as normas que regem a previdência e trouxe nova regra de transição sobre a matéria, prevendo, no que interessa ao caso em exame, que a paridade subsistirá, ainda que o falecimento do instituidor da pensão se dê após o marco temporal de 31.12.2003, desde que sejam preenchidos pelo servidor os requisitos de: (i) 35 anos de contribuição; (ii) 25 anos de efetivo exercício no serviço público; (iii) 15 anos de carreira; e (iv) 5 anos no cargo em que se deu a aposentadoria. Por outro lado, não houve extensão do direito à integralidade. Firmou-se a seguinte tese:
+    "Os pensionistas de servidor falecido posteriormente à Emenda Constitucional nº 41/2003 têm direito à paridade com servidores em atividade (artigo 7º da EC nº 41/2003), caso se enquadrem na regra de transição prevista no artigo 3º da Emenda Constitucional nº 47/2005. Não têm, contudo, direito à integralidade (artigo 40, § 7º, inciso I, da Constituição Federal)".
+    No caso dos autos, o Tribunal de origem assentou que:
+    “o instituidor da pensão, Desembargador Antônio Carlos Penteado de Moraes, aposentou-se em 18.9.1981, com 31 anos, 8 meses e 6 dias de serviço, fazendo jus a proventos integrais e com direito a paridade, conforme título de liquidação de tempo de serviço (fls. 27). Logo, também ingressou no serviço público antes da data limite (19.12.1998) e teve a integralidade e a paridade assegurada nos seus proventos, beneficiando-se do art. 7º da Emenda nº 41/2003.
+    Embora o instituidor da pensão tenha falecido em 25.10.2012 (fls. 24), posteriormente à edição da Lei Complementar nº 1.012/07, sua situação jurídica já estava consolidada quando do advento da EC nº 41/2003, razão pela qual indevida a aplicação da pensão reduzida, por afrontar o direito adquirido e a garantia da irredutibilidade de vencimentos.”
+    O acórdão recorrido, portanto, divergiu do entendimento desta Corte, ao concluir que a recorrida tem direito à integralidade da pensão, nada obstante o instituidor ter falecido em 25.10.2012.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso, a fim de restabelecer o dispositivo da sentença.
+    Publique-se.
+          Brasília, 30 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
