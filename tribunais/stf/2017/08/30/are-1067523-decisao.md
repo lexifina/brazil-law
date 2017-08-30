@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de origem confirmou o entendimento do Juízo quanto à condenação do Município ao pagamento de indenização por danos morais e materiais em razão de acidente de trânsito, considerada a negligência da Administração no tocante à conservação da via pública. No extraordinário, cujo trânsito busca alcançar, o recorrente alega a violação do artigo 37, § 6º, da Constituição Federal. Discorre sobre as teorias da responsabilidade, afirmando não o ser o Estado garantidor universal, tendo em vista as limitações econômicas e de pessoal para atuar no reparo das ruas.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão atacada mediante o extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso. Colho do acórdão recorrido os seguintes trechos:
+    O policial civil que registrou a ocorrência informou que no local do acidente havia um "afundamento do asfalto provocado, provavelmente, por grande volume de água das chuvas" (cf. fl. 28-verso), o que confirma a assertiva da autora de que não visualizou o buraco em decorrência da grande quantidade de água que cobria o local (cf. fl. 03). Também descreveu, em seu relatório, que não havia qualquer sinalização que indicasse a existência de problemas no asfalto, o que afasta a apregoada culpa da vítima.
+    De seu lado, a testemunha José Faustino, que prestou os primeiros socorros à autora, informou que "a pista estava coberta de água e onde ela passava não dava pra ver a existência do buraco". E mais. Confirmou que "não havia nenhuma sinalização a indicar a existência do buraco" (cf. fl. 155).
+    Não há que se olvidar, portanto, da existência do nexo causal já que ficou evidenciado que a autora desequilibrou-se e caiu da motocicleta em razão do buraco existente no leito carroçável, que não contava com qualquer sinalização.
+    […]
+    No concernente aos danos morais, o acidente acarretou dor, sofrimento e angústia a autora, que foi hospitalizada, passou por cirurgias, sendo portadora de quadro de invalidez parcial e permanente, como também de dano estético (extensa cicatriz na perna - cf. laudos periciais de fls. 941104 e 1331136).
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios em 10% do valor da causa, fixo os honorários recursais no patamar 5%, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 30 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
