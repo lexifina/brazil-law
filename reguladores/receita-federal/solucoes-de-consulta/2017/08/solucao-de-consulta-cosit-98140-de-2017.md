@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98140, de 5 de maio de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3926.90.90 Mercadoria: Protetor cônico, de polietileno de baixa densidade, usado para cobrir roscas, orifícios e peças técnicas com dimensões apropriadas, fixado com leve pressão, para proteção contra danos decorrentes de impactos e da entrada de impurezas, durante o transporte, o manuseio e o armazenamento. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.26), RGI 6 (texto da subposição 3926.90) e RGC 1 (texto do item 3926.90.90) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016.
+[arquivo anexo: SC Cosit nº 98140-2017.pdf]
