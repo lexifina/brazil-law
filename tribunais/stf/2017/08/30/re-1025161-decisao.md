@@ -1,0 +1,29 @@
+DECISÃO
+    Ministério Público do Estado do Rio Grande do Norte interpõe recurso extraordinário, com fundamento na alínea a do permissivo constitucional, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça daquele Estado, assim ementado:
+    “ADMINISTRATIVO E CONSTITUCIONAL. APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. ADEQUAÇÃO DE CALÇADAS COM VISTAS À ACESSIBILIDADE. DEVER DE MANUTENÇÃO E CONSERVAÇÃO DE CALÇADAS PELOS PROPRIETÁRIOS LINDEIROS. ART. 105 DO CÓDIGO DE OBRAS DO MUNICÍPIO DE NATAL. DEVER DE FISCALIZAÇÃO DO MUNICÍPIO. OMISSÃO. SINALIZAÇÃO DE VIAS ESPECÍFICAS. IMPOSSIBILIDADE DE INGERÊNCIA NO PODER EXECUTIVO EM ATIVIDADES EMINENTEMENTE DISCRICIONÁRIAS. INTERVENÇÃO JUDICIAL SOMENTE POSSÍVEL EM SITUAÇÕES DE EXCEPCIONALIDADE PARA GARANTIA DO MÍNIMO EXISTENCIAL. DESPROVIMENTO DO APELO.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação ao art. 23, inciso I, da Constituição Federal.
+    Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Paulo Gustavo Gonet Branco, pelo “desprovimento do agravo”.
+    Decido.
+    Não merece prosperar a irresignação.
+    No caso dos autos, o acórdão recorrido manteve a sentença de primeiro que julgou improcedente a ação civil pública proposta pelo ora recorrente amparado nos seguintes fundamentos:
+    “As razões apresentadas pelo Ministério Público para subsidiar sua insurgência recursal não são suficientes para rechaçar o fundamento da sentença recorrida, de modo que, pela coerência de seu fundamento, adoto parcialmente seus termos como razões de decidir, cujo teor passo a transcrever:
+    ‘Finalmente, ressalte-se que o Código de Obras do Município de Natal estabeleceu ser de responsabilidade do proprietário do imóvel lindeiro a manutenção e conservação das calçadas, cabendo ao Poder Público Municipal apenas o exercício do Poder de Polícia de fiscalizar o exercício de tal atividade:
+    (…)
+    Em relação ao pleito deduzido em face do Município no sentido de que este remova os obstáculos presentes nas ruas Lauro Pinto e Raimundo Chaves, não vislumbro procedência no mesmo em razão da própria inexistência de obrigação legal do Município de manter as calçadas acessíveis.
+    Conforme demonstrado acima, não é do Município a responsabilidade pela conservação e manutenção das calçadas, a qual dirige-se ao proprietário do imóvel lindeiro segundo o disposto no art. 105 do Código de Obras do Município de Natal.
+    Tal responsabilidade não se confunde, todavia, com á do Município que é a de fiscalizar, mediante o exercício do seu poder de polícia, a conservação das calçadas, podendo para tanto exercer medidas restritivas ao direito de propriedade do imóvel, conforme bem demonstra o art. 150 do mencionado Código de Obras.
+    Note-se, portanto, que nos termos da legislação municipal vigente, não se pode exigir do Município o cumprimento de uma obrigação que não lhe foi legalmente imposta (remover os obstáculos das calçadas), mas sim ao particular.
+    (…)
+    No contexto dos autos, não ficou demonstrada a omissão inconstitucional de providências prioritárias, nas quais a exigência constitucional de preservação do mínimo existencial, como preceito ressonante do princípio da dignidade da pessoa humana autorizariam ao Poder Judiciário obrigar o Poder Executivo a levar a efeito medidas específicas para consecução dessas providências.”
+    Nessa conformidade, verifica-se que a análise acerca da alegada violação do dispositivo constitucional suscitado no apelo extremo demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como da legislação local utilizada na fundamentação da decisão recorrida, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõem as Súmulas nºs 279 e 280 desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLÍTICAS PÚBLICAS. ACESSIBILIDADE. PORTADORES DE NECESSIDADES FÍSICAS ESPECIAIS. PRAZO PARA REALIZAÇÃO DE OBRAS. LEI N. 10.098/2000 E DECRETO N. 5.296/2004: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 722.778/MG-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 3/4/14).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. MULTA POR DESCUMPRIMENTO DE OBRIGAÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Turma Recursal: sentença mantida por seus próprios fundamentos. Inexistência de afronta ao art. 93, inc. IX, da Constituição da República. 2. Indenização. Multa. Obrigação de fazer. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas (Súmula 279). Ofensa constitucional indireta. 3. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 664.732/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/12/08).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 15/4/05).
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
