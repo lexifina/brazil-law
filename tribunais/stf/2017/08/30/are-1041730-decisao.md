@@ -1,0 +1,26 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Terceira Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    "MANDADO DE SEGURANÇA - TRIBUTÁRIO - COFINS SOBRE VARIAÇÕES MONETÁRIAS ATIVAS EM OPERAÇÕES COM MOEDA ESTRANGEIRA - OPÇÃO PELO MOMENTO DA LIQUIDAÇÃO DA OPERAÇÃO, A PARTIR DE 2000 - LICITUDE (§ 1º DO ARTIGO 39, MP 2.158) - PARCIAL CONCESSÃO DA ORDEM.
+    1. A precisa separação entre os temas aqui debatidos e os em discussão noutra demanda, como delimitado da prefacial, e sabiamente fincado na r. sentença, impõe pronto julgamento desta causa, pois sim.
+    2. Harmoniza-se a postura contribuinte, albergada na impetração, ao v. vaticínio jurisprudencial adiante em destaque, no sentido de que a opção, referida no § 1º do artigo 30 da MP 2.158-35, de agosto/2001, pela inserção, na base de cálculo da COFINS em questão, das variações monetárias segundo o regime de competência, a poder abranger em separado a esta receita, em que pese a contábil adoção (ao mais) de regime de caixa. Precedente.
+    3. Não decorre de referido ditame clausura na adoção deste ou daquele regime unissonamente a todos os tributos, não se lhe impondo opção em conjunto a respeito, por patente.
+    4. Superior a estrita legalidade tributária, artigo 97, CTN, na sistemática ali positivada a partir de janeiro/2000 (e não como o quer o impetrante, já com o advento da Lei 9.718/98, artigo 9º), põe-se de rigor a parcial concessão da ordem, então para que a parte apelante recolha a pertinente COFINS quando do momento de liquidação das operações referentes a variações cambiais ativas em moeda estrangeira, sem reprimenda estatal a tanto, igualmente se lhe permitindo compensação, de recolhimentos porventura indevidos em tal cenário, e a partir de cada prestação, com vincendas parcelas da mesma COFINS, sob correção monetária da Selic.
+    5. Em suma - reformada a r. sentença, ausente reflexo sucumbencial diante da via eleita e do desfecho firmado - de rigor a parcial concessão da segurança, na forma aqui estabelecida, com valência a partir de 2000 (logo, não havendo de se falar em decadência/'prescrição' repetitória, sob tal ângulo, face ao ajuizamento em pauta, de 2004).
+    6. Parcial provimento à apelação. Parcial concessão da segurança”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXII, XXXV, LIV e LV; 93, IX; 145, §1º, 150, IV; e 195, I, b, todos da Carta. Sustenta que: (i) o acórdão do Tribunal de origem que julgou os embargos declaratórios não se pronunciou sobre pontos relevantes arguidos; (ii) a concessão parcial da segurança pelo Tribunal a quo permitiu, no período compreendido entre a edição da Lei nº 9.718/1998 e janeiro de 2000, a incidência da COFINS sobre valores que não configuram receita.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[...]
+    As alegações genéricas de desrespeito a postulados constitucionais, como o direito de propriedade, princípio da capacidade contributiva e vedação ao confisco podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição.
+    O Pretório Excelso já pronunciou, reiteradamente, que tais situações só podem ser verificadas em cotejo com a legislação infraconstitucional, não justificando, portanto, o cabimento do recurso excepcional.
+    [...]
+    Ante o exposto, não admito o recurso extraordinário”.
+    O recurso está prejudicado, tendo em vista que o Superior Tribunal de Justiça deu provimento ao Resp 1.563.709, simultaneamente interposto pela parte recorrente contra o mesmo acórdão, para anular o acórdão do Tribunal de origem que julgou os embargos de declaração. Confira-se parte do julgado:
+    “[...]
+    Registre-se que não se considera suficientemente fundamentado o acórdão recorrido, quanto ao solicitado pronunciamento sobre as disposições normativas acima, pelo simples fato de o Tribunal de origem haver consignado, na parte final do acórdão, o seguinte parágrafo: ‘Portanto, refutados se põem os demais ditames legais invocados em pólo vencido, tais como a Lei 9.718/98, artigos 96, 100, 106, 113, 117, 150, 168 e 170, CTN, LC 118/2005, artigos 30 e 40, artigo 150, 111, 'a', CF, LC 7/70, artigo 15, MP no 1.212/95, Decretos-Lei 2.445/88 e 2.449/88, Lei 10.637/2002, Lei 8.383/91, artigo 66, INSRF 21/97 e 73/97 que objetivamente a não socorrerem, com seu teor e consoante este julgamento, ao mencionado polo (artigo 93, IX, CF)’ (fl. 431e).
+    Finalmente, em razão do acolhimento da alegação de ofensa ao art. 535 do CPC/73, deixo de submeter o presente Recurso Especial ao regime previsto no art. 1.036 e seguintes, do CPC/2015.
+    Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao Recurso Especial, para anular o acórdão dos Embargos de Declaração, a fim de que o Tribunal de origem se pronuncie sobre os pontos suscitados como omissos”.
+    Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado o presente recurso.
+    Publique-se.
+          Brasília, 30 de agosto de 2017.
+Ministro Luís Roberto Barroso
+Relator
