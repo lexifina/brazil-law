@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da 4ª Câmara Cível do Tribunal de Justiça do Estado do Maranhão, assim ementado:
+    “PRESCRIÇÃO. INTERRUPÇÃO. CONCURSO PÚBLICO ANULAÇÃO. SERVIDOR ESTÁVEL. PROCESSO ADMINISTRATIVO. NECESSIDADE. PRINCIPIO DUTY TO MITIGATE THE LOSS. 1. A prescrição interrompida recomeça a correr, pela metade do prazo, da data do último ato do respectivo processo. 2. A anulação de concurso público, nos casos em que já houver servidores nomeados e empossados, exige a instauração de processo administrativo com observância das garantias do due process of law, sobretudo, na hipótese em que o servidor já adquiriu a estabilidade no serviço público. 3. Aparte à -quem a perda aproveita não deve manter-se inerte nem agravar o próprio prejuízo com à adoção de procedimentos sabidamente equivocados ou procrastinatórios, pois no atual estágio do Estado Constitucional, em que a boa-fé também permeia as relações jurídico-administrativas, todos tem o dever de minorar os próprios danos. 4. Apelação conhecida e improvida. Remessa conhecida e provida em parte. Maioria.”
+    No recurso extraordinário, sustenta-se violação do artigo 37, inciso II e § 6º, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que a matéria constitucional contida nos dispositivos constitucionais indicados como violados no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Observo, ainda, que esta Corte Suprema não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo , é necessário e indispensável oporem-se embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional, sob pena de se inviabilizar o conhecimento do recurso extraordinário.
+    Nesse sentido:
+    AGRAVO REGIMENTAL NOS RECURSOS EXTRAORDINÁRIOS COM AGRAVOS. CONSTITUCIONAL E PROCESSUAL CIVIL. 1. ALEGADA CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA: INOCORRÊNCIA. FUNDAMENTAÇÃO ADEQUADA AINDA QUE NÃO ANALISADOS TODOS OS ARGUMENTOS DA PARTE. PRECEDENTES. 2. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. INADMISSIBILIDADE DO PREQUESTIONAMENTO IMPLÍCITO. PRECEDENTES . AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (ARE nº 735.948/SP-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia , DJe de 28/10/13 - grifei).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 30 de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
