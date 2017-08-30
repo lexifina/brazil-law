@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da Turma Recursal Criminal dos Juizados Especiais do Estado do Rio Grande do Sul, assim ementado (eDOC 4, p. 108):
+    APELAÇÃO CRIME. POSSE DE DROGAS PARA CONSUMO PRÓPRIO. ART. 28 DA LEI 11.343/06, SUFICIÊNCIA PROBATÓRIA. Típica a conduta de quem porta substância entorpecente para uso próprio, independente da quantidade, por configurar ofensa ao bem jurídico tutelado. Conjunto probatório suficiente para sustentar uma condenação. Afastado o argumento de inconstitucionalidade do delito, nega-se provimento ao recurso.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, X, da Constituição da República. Alega-se a inconstitucionalidade do art. 28 da Lei de Drogas.
+    A 2ª Vice-Presidência dos Juizados Especiais do Estado do Rio Grande do Sul inadmitiu o recurso por considerá-lo intempestivo.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Embora a defesa alegue que a intimação só teria sido efetivada quando da assinatura do Defensor Público nos autos, datada de 26.09.2016, consta do processo certidão do Oficial Escrevente (eDOC 1, p. 124) que atesta que a Defensoria Pública local foi intimada pessoalmente do acórdão em 22.09.2016, com a retirada dos autos em carga.
+    Como é cediço, por força da Lei Complementar 80/94, a intimação pessoal é prerrogativa da Defensoria Pública. Entretanto, não se exige que a comunicação seja dirigida exatamente à pessoa do defensor que atua no processo, podendo, nos moldes das intimações do Ministério Público, ser realizado o endereçamento administrativo. Esse procedimento não descaracteriza, por si, a pessoalidade do ato processual.
+    Nesse sentido:
+    HABEAS CORPUS. DIREITO PROCESSUAL PENAL. INTIMAÇÃO PESSOAL DO DEFENSOR PÚBLICO. OFÍCIO ENCAMINHADO AO DEFENSOR PÚBLICO-GERAL E RECEBIDO POR SERVIDOR DO ÓRGÃO. INTIMAÇÃO pessoal CONFIGURADA. AUSÊNCIA DE NULIDADE. ORDEM DENEGADA. 1. Foi encaminhado ofício do TJ/AP endereçado nominalmente ao Defensor Público-Geral do Estado e recebido por servidora do órgão. 2. Configura-se razoável, para fins de intimação pessoal, proceder-se à inequívoca ciência da defensoria pública, por intermédio de ofício ou mandado, devidamente recebido, competindo à Instituição organizar a atuação de seus membros, sob pena de burocratizar o processo, em total desrespeito à efetividade e celeridade da Justiça. 3. Aplica-se, por analogia, o entendimento desta Corte segundo o qual a entrega de processo em setor administrativo, formalizada a carga por servidor do órgão, configura intimação pessoal. 4. Havendo intimação pessoal da defensoria pública estadual para a sessão de julgamento da apelação criminal, não há que se falar em nulidade no acórdão prolatado. 5. habeas corpus denegado. (HC 99540, Relator(a): Min. ELLEN GRACIE, Segunda Turma, julgado em 04/05/2010, grifei)
+    Destarte, a comunicação ao servidor por meio da carga dos autos, ainda que despida da inequívoca ciência pessoal do Defensor, cumpre a finalidade do ato e, nos termos da jurisprudência da Corte, constitui causa de intimação válida.
+    Na mesma linha: HC 136.060 AgR, de minha relatoria, Primeira Turma, DJe 17.11.2016; HC 108.475, Rel. Min. Dias Toffoli, Primeira Turma, julgado em 08.05.2012.
+    Dessa forma, considerando que a intimação da Defensoria Pública se deu efetivamente em 22.09.2016, o prazo recursal iniciou-se em 23.09.2016 (sexta-feira) e encerrou-se em 24.10.2016 (segunda-feira). Portanto, o recurso extraordinário, protocolado em 25.10.2016, é intempestivo.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 30 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
