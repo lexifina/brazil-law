@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “EXECUÇÃO POR TÍTULO EXTRAJUDICIAL.
+    Exceção de preexecutividade. Hipótese em que os excipientes postulam a extinção do processo executivo, ao fundamento de que a Lei. n. 10.931/2004 é inconstitucional. Descabimento. Eficácia executiva da cédula de crédito bancário. Decisão mantida. Recurso improvido.
+    Dispositivo: negaram provimento ao recurso” (pág. 2 do documento eletrônico 28).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação aos arts. 59, parágrafo único e 192, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    De início, verifico que a matéria constitucional suscitada no recurso extraordinário não foram devidamente prequestionadas, pois não foram objeto de debate específico no Tribunal de origem, nem foram opostos embargos declaratórios para suprir eventuais omissões. Incidem, portanto, as Súmulas 282 e 356 desta Corte.
+    Por outro lado, o recorrente alega ser inconstitucional a execução extrajudicial de cédula de crédito bancário, na forma da Lei 10.931/2004. Para tanto, além de indicar ofensa aos preceitos constitucionais acima indicados, aponta desrespeito aos incisos I, II e III do art. 7° da Lei Complementar 95/1998.
+    Dessa forma, verifica-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo, no que diz respeito à análise da legalidade da execução extrajudicial de cédula de crédito bancário, demandaria a análise da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo, pois a ofensa, se existente, seria indireta.
+    Com efeito, esta Corte já se manifestou no sentido de que a controvérsia relativa à execução extrajudicial de cédula de crédito bancário demanda a análise da legislação infraconstitucional aplicável à espécie, o que se revela inviável em sede de recurso extraordinário. Nesse sentido, é a jurisprudência do Supremo Tribunal Federal como se infere dos seguintes julgados de ambas as Turmas desta Corte:
+    "AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO EXECUTIVO EXTRAJUDICIAL. EXECUÇÃO. LEI Nº 10.931/2004. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. MULTA DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO." (RE 902.505-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 17/6/2016) "AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CÉDULA DE CRÉDITO BANCÁRIO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. 1. Para divergir da conclusão adotada pelo tribunal a quo, seria necessária a interpretação de legislação infraconstitucional aplicável a espécie, o que inviabiliza o processamento do recurso extraordinário. 2. Agravo regimental a que se nega provimento" (ARE 898.147- AgR, Rel. Min. Edson Fachin, Primeira Turma).
+    "Agravo regimental em recurso extraordinário. 2. Civil e Processo Civil. 3. Cédula de crédito bancário. Execução. Embargos do devedor. Alegação de inconstitucionalidade. Inadmissibilidade. 4. Matéria infraconstitucional. Ofensa reflexa. 5. Agravo regimental não provido" (RE 835.518-AgR, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 31 de agosto 2017.
+Ministro Ricardo Lewandowski
+Relator
