@@ -1,0 +1,16 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Bruno Mendonça Ventura afirma haver a Primeira Turma Recursal Fazendária do Tribunal de Justiça do Estado do Rio de Janeiro, no processo nº 0025100-61.2014.8.19.0001, violado o artigo 5º, inciso XXXVI, da Constituição Federal e olvidado o decidido no recurso extraordinário nº 699.535/RS.
+    Segundo narra, formalizou, na condição de servidor público estadual, ação visando a averbação de tempo de serviço prestado na condição de aluno aprendiz, o qual, embora previamente anotado em 2006, acabou sendo desconsiderado pelo Estado em 2012. Relata a improcedência do pedido, entendimento mantido em sede de recurso inominado. Conforme sustenta, não merece êxito a alegação de decadência relativamente à anulação do ato administrativo praticado.
+    Aponta a ofensa ao princípio da segurança jurídica, no que desconstituído, pela Administração, apesar de decorrido mais de cinco anos, o ato administrativo que implicou a contagem do período como aluno aprendiz. Articula com a teoria do fato consumado considerada a inércia do Poder Público. Destaca haver o Supremo reconhecido a repercussão geral, no recurso extraordinário nº 699.535, de controvérsia envolvendo a possibilidade de o Instituto Nacional do Seguro Social rever ato administrativo de concessão de aposentadoria. Aponta a afronta aos princípios da boa-fé, da confiança e da dignidade da pessoa humana, bem assim ao artigo 54 da Lei nº 9.784/1999, a revelar prazo decadencial para a Administração anular atos administrativos dos quais decorram efeitos favoráveis aos destinatários.
+    Solicitado ao reclamante esclarecimentos acerca do fundamento desta medida, disse, por meio da petição/STF nº 23.848/2015, estar calcada no desrespeito ao assentado no recurso extraordinário nº 699.535/RS, com repercussão geral reconhecida, cujo mérito está pendente de julgamento.
+    Não menciona o requisito do risco.
+    Requer a declaração de nulidade do ato atacado.
+    2. Este processo somente serve à sobrecarga da máquina judiciária, à sobrecarga suportada pelo Supremo, que, no tocante à celeridade processual, encontra-se inviabilizado. Surge impertinente a medida. Por meio de alegações genéricas, considerada a apontada ofensa ao artigo 5º, inciso XXXVI, da Constituição Federal, o reclamante não argui, na inicial, a afronta a nenhum verbete ou pronunciamento do Supremo dotado de eficácia vinculante ou alusivo a processo no qual tenha figurado como parte. Presente a sistemática da repercussão geral, o simples reconhecimento da repercussão maior do tema debatido no recurso extraordinário nº 699.535/RS não permite o acesso ao Supremo, na via excepcional da reclamação, visando atacar acórdão proferido por Turma Recursal de Juizado Especial.
+    Atentem para a organicidade e a instrumentalidade do Direito. O manuseio da reclamação mostra-se excepcional. Pressupõe a usurpação da competência do Supremo ou a inobservância de decisão por si proferida. É impróprio utilizá-la, mediante queima de etapas, como sucedâneo recursal.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 31 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
