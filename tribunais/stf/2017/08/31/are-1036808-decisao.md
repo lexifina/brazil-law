@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PENSÃO POR MORTE. ANULAÇÃO DE ATO ADMINISTRATIVO. DECADÊNCIA. DECRETO 20.910/1932. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “Apelações Pretensão ao restabelecimento de pensão por morte, com pagamento das verbas pretéritas Neta de servidor público falecido Improcedência com a suspensão dos efeitos da decisão até o trânsito em julgado Inconformismo Adequada suspensão dos efeitos da decisão - Prescrição administrativa Prazo quinquenal para revisão do ato de concessão do benefício Inteligência do art. 1º do Decreto nº 20.910/32 Princípios da isonomia e da segurança jurídica Precedentes desta C. Câmara Recurso da requerida desprovido e provido o da requerente.” (Doc. 38).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 25 e 97 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A matéria relativa à relativa à prescrição não dá ensejo ao cabimento de recurso extraordinário, por situar-se no âmbito infraconstitucional. A violação reflexa e oblíqua da Constituição Federal, decorrente da análise de malferimento de dispositivos infraconstitucionais, torna inadmissível o recurso extraordinário. Nesse sentido anote-se:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. DESCABIMENTO. 1. A discussão acerca do prazo prescricional pautado no Decreto nº 20.910/1932 se restringe ao âmbito infraconstitucional. Precedentes. 2. Existência de fundamento infraconstitucional suficiente para manutenção do acórdão recorrido (Súmula 283/STF). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973. (AI 838.326-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJE de 17/5/2017)
+    Demais disso, não há que se falar em inobservância da cláusula de reserva de plenário, pois o Tribunal a quo não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do artigo 97 da Constituição Federal, mas apenas interpretou a norma infraconstitucional que disciplina a matéria. Nesse sentido, menciono os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. LEI COMPLEMENTAR ESTADUAL 59/2004. EXTENSÃO AOS INATIVOS E PENSIONISTAS. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. RESERVA DE PLENÁRIO. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional local aplicável ao caso (Lei Complementar estadual 59/2004). A afronta à Constituição, se ocorrente, seria indireta. Incidência da Súmula 280 do STF. Precedentes.
+    II - Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior.
+    III - Agravo regimental a que se nega provimento.” (ARE 784.179-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 17/2/2014).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARTEIRA NACIONAL DE HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. EXPEDIÇÃO DA CNH. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE Nº 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional, ou afasta sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes.
+    Ausência de argumentos capazes de infirmar a decisão agravada.
+    Agravo regimental a que se nega provimento.” (ARE 767.313-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 26/3/2015).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
