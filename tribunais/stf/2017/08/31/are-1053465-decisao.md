@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão assim ementado:
+    “COMPLEMENTO DE APOSENTADORIA. Pensionistas de ferroviários e aposentados. Pretensão de reestruturação de cargos e salários a partir do piso salarial de 2,5 salários mínimos, com o consequente aumento do complemento de aposentadoria. Pretensão que possibilitaria manter a equidistância salarial entre as diferentes classes de trabalhadores. Inadmissibilidade por ausência de previsão legal. Não cabe ao poder judiciário aumentar vencimentos, proventos ou complemento de aposentadoria, com fundamento na equidade ou isonomia. Súmula 339 do E. STF. Precedentes. Recurso improvido” (pág. 92 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 7°, IV, I e VI, da Carta Magna.
+    A pretensão recursal não merece acolhida.
+    Inicialmente, observo que o artigo 7° e incisos indicados não foram devidamente prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+    Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356/STF. Nesse sentido, destaco o RE 750.142-AgR/ES, de relatoria do Ministro Edson Fachin:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. JUSTIÇA FEDERAL. SÚMULA 517 DO STF. 1. O recurso extraordinário esbarra nos óbices previstos nas Súmulas 282 e 356 do STF, por ausência de prequestionamento e não oposição de embargos declaratórios. 2. A competência é da Justiça Federal quando a União intervém como assistente nos casos envolvendo sociedades de economia mista. 3. Agravo regimental a que se nega provimento” (grifei).
+    Além disso, destaco trechos do voto do relator condutor do acórdão:
+    “[...] Note-se, entretanto, que a pretensão ora deduzida é diversa. Não se busca o recebimento do piso salarial fixado, mas sim, pretende-se que, a partir do piso, haja a reestruturação dos salários, para, então, escalonar-se os critérios de remuneração e, com isso, os proventos, elevando-se o complemento de aposentadoria dos Apelantes.
+    A pretensão deduzida, portanto, não possui respaldo legal, notadamente porque não cabe ao Poder Judiciário aumentar vencimentos, proventos ou complemento de aposentadoria, com fundamento na equidade ou isonomia.
+    Do contrário, afrontar-se-ia o quanto dispõe a Súmula 339 do E. Supremo Tribunal Federal […]” (págs. 92-93 do documento eletrônico 2).
+    Verifica-se, assim, que o acórdão recorrido está em harmonia com o entendimento deste Tribunal, conforme o disposto na Súmula 339, no sentido de que não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimento de servidor público sob o fundamento da isonomia.
+    Com esse entendimento, menciono as seguintes decisões: RE 577.626-AgR/CE, de Relatoria do Ministro Cezar Peluso; RE 413.433-AgR/CE, de Relatoria do Ministro Eros Grau, e AI 701.472- AgR/CE, de minha relatoria e RE 467.011- AgR/CE, de Relatoria da Ministra Cármen Lúcia, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL NO RECURSO“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. 1. EQUIPARAÇÃO DE VENCIMENTOS COM FUNDAMENTO NO PRINCÍPIO DA ISONOMIA: INCIDÊNCIA DA SÚMULA 339 DO SUPREMO TRIBUNAL FEDERAL. 2. DE FIXAÇÃO DO PISO SALARIAL EM MÚLTIPLOS DO SALÁRIO MÍNIMO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” - grifei).
+    Destaco, por fim, que tal orientação jurisprudencial foi consolidada com a edição da Súmula Vinculante 37, cujo teor é: "Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
