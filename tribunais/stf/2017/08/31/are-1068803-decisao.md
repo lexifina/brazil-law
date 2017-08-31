@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão proferido pela Turma Recursal de Jurisdição Exclusiva de Belo Horizonte, Betim e Contagem (Vol. 37):
+     DIREITO TRIBUTÁRIO. TAXA DE COLETA DE RESÍDUOS SÓLIDOS. DECRETO DO PODER EXECUTIVO MUNICIPAL. MAJORAÇÃO DA TAXA. OFENSA AO PRINCÍPIO DA LEGALIDADE. REPETIÇÃO DO INDÉBITO. SENTENÇA QUE PERMANECE HÍGIDA. RECURSO DESPROVIDO.
+    Nas razões recursais iniciais, com amparo no art. 102, III, “a”, da Constituição Federal, foi alegada violação ao art. 150, I, da CF/1988.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do recurso extraordinário.
+    Ademais, o Tribunal de origem, analisando o Código Tributário Nacional e o Decreto Municipal 15.433/2013, entendeu que a taxa de coleta de resíduos sólidos da municipalidade não poderia ter sido majorada por decreto, sob pena de ofensa ao princípio da legalidade.
+    Assim, a solução dessa controvérsia, portanto, depende da análise da legislação infraconstitucional, medida incabível em sede de recurso extraordinário, bem como de exame de norma local, o que encontra óbice na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
