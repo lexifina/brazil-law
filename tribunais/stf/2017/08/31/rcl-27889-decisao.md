@@ -1,0 +1,22 @@
+Trata-se de reclamação proposta pelo Sindicato dos Engenheiros no Estado de São Paulo, com fundamento nos arts. 102, I, l; e 103-A, § 3°, da Constituição Federal, e art. 988, III e § 4°, do Código de Processo Civil, na qual sustenta inobservância ao enunciado da Súmula Vinculante 4.
+    O reclamante alega, inicialmente, que
+    “[...] os engenheiros do DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE SÃO PAULO que se aposentaram posteriormente ao mês de dezembro de dezembro [sic] de 2009, os valores da complementação de aposentadoria estão congelados desde a data da respectiva aposentadoria, com base no salário mínimo vigente no mês da aposentadoria” (pág. 3 do documento eletrônico 1).
+    Esclarece, então, que,
+    “a partir do mês de dezembro de 2009, com a edição da Súmula Vinculante nº 4 pelo Supremo Tribunal Federal, foi que a Fazenda Pública Estadual determinou o congelamento dos valores da complementação de aposentadoria devida aos engenheiros aposentados do Departamento de Estradas de Rodagem (DER)” (pág. 4 do documento eletrônico 1).
+    Formula, ao final, o seguinte pedido:
+    “a) Seja DEFERIDO LIMINARMENTE O PEDIDO para o fim de obrigar a Reclamada a cessar o congelamento da complementação de aposentadoria dos engenheiros aposentados do Departamento de Estradas de Rodagem (DER) e a aplicar de todos os reajustes com base no salário mínimo a partir do mês de dezembro de 2009, bem como a pagar as diferenças em parcelas vencidas e vincendas, mês a mês, com os acréscimos legais, tudo nos termos da Lei nº 4950-A/66 e parte final da Súmula Vinculante nº 4 do Supremo Tribunal Federal, a fim de evitar dano irreparável aos engenheiros aposentados do Departamento de Estradas de Rodagem do Estado de São Paulo que recebem complementação de aposentadoria através do Departamento de Despesa de Pessoal do Estado de São Paulo (DDPE) da Coordenadoria da Administração Financeira da Secretaria da Fazenda do Estado de São Paulo;
+    […]
+    d) Seja mantido o pedido de liminar no Plenário desta Colenda Corte e ao final dada a procedência da Reclamação para definitivamente obrigar a Reclamada a cessar o congelamento da complementação de aposentadoria dos engenheiros aposentados do Departamento de Estradas de Rodagem (DER) e a aplicar de todos os reajustes com base no salário mínimo a partir do mês de dezembro de 2009, bem como a pagar as diferenças em parcelas vencidas e vincendas, mês a mês, com os acréscimos legais, tudo nos termos da Lei nº 4950-A/66 e parte final da Súmula Vinculante nº 4 do Supremo Tribunal Federal, em favor de todos os engenheiros aposentados do Departamento de Estradas de Rodagem do Estado de São Paulo que recebem complementação de aposentadoria através do Departamento de Despesa de Pessoal do Estado de São Paulo (DDPE) da Coordenadoria da Administração Financeira da Secretaria da Fazenda do Estado de São Paulo” (grifos no original; págs. 11-12 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    Eis o teor do ato reclamado:
+    “Em atenção ao seu Ofício Of. Pre 2014/2014 n° 159/2017, no qual requer a revogação do congelamento da complementação de aposentadoria dos engenheiros aposentados do Departamento de Estradas e Rodagem (DER), temos a informar que o reajuste das complementações de aposentadoria/pensão é aplicado automaticamente sempre quando ocorre concessão de reajuste à categoria profissional. Esclarecemos que os reajustes aplicados são aqueles concedidos pelo Poder Executivo e aprovados pela Assembleia Legislativa do Estado de São Paulo” (grifei; documento eletrônico 8).
+    Bem examinados os autos, entendo que a pretensão da reclamante não merece acolhida.
+    Com efeito, a questão debatida nestes autos é se o ato reclamado afrontou ou não o conteúdo da Súmula Vinculante 4, verbis:
+    “Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial”.
+    Como se observa, a decisão apontada como reclamada não utilizou o salário mínimo como indexador, mas, tão somente, aplicou reajuste concedido à categoria profissional.
+    Verifico, por fim, que o valor da causa não corresponde ao proveito econômico em discussão, razão pela qual o corrijo, de ofício, para R$ 200.000,00 (duzentos mil reais), nos termos do art. 292, § 3°, do CPC.
+    Por essas razões, nego seguimento a esta reclamação (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
