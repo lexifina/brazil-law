@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário em face do acórdão da 10ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 13, p. 15):
+    “SERVIDOR MUNICIPAL
+    Santos – Motorista de ambulância – Horas extras – Indenizações – Assédio moral – Vínculo estatutário – CLT – Impossibilidade:
+    – A ampla defesa e o devido processo legal não justificam a realização de provas inúteis ou protelatórias.
+    – A base de cálculo das horas extras, diante da declaração de inconstitucionalidade da Lei Complementar Municipal nº 350/99 pelo Órgão Especial, é a remuneração total do servidor.
+    – Não se configura assédio moral de determinado servidor quando todos se sentem prejudicados pela chefia.”
+    No Recurso Extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 37, XI, e 39, § 4º, da Constituição Federal, bem como ao art. 17 do ADCT.
+    Nas razões recursais, sustenta-se, em suma, que “existindo norma expressa determinando a utilização, apenas e tão somente, do salário base do servidor para fins de cálculo do pagamento da hora extraordinária, inviável a pretensão do Autor, sob pena de desrespeito ao princípio constitucional da legalidade” (eDOC 16, p. 6).
+    Verifica-se que a matéria discutida neste autos foi objeto de análise por esta Corte. Ao julgar o RE 774927 RG, de relatoria do Ministro Teori Zavascki, DJe 4.6.2014, Tema 730, o Plenário desta Corte reconheceu a inexistência de repercussão geral da questão relativa à base de cálculo de vantagem devida a servidores públicos em razão da prestação de serviços em regime de plantão e de sobreaviso. O acórdão restou assim ementado:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. ESTADO DE SANTA CATARINA. VANTAGEM DECORRENTE DE SERVIÇOS PRESTADOS EM REGIME DE PLANTÃO. BASE DE CÁLCULO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à base de cálculo da vantagem denominada “horas plantão” é de natureza infraconstitucional, já que decidida pelo Tribunal de origem à luz da Lei Complementar estadual 1.137/92 e da Lei estadual 6.745/85. 2. Incabível, ademais, em recurso extraordinário, apreciar violação ao art. 5º, XXXV, da Constituição Federal, que demanda a revisão da interpretação das normas infraconstitucionais pertinentes (AI 796.905-AgR/PE, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21.5.2012; AI 622.814-AgR/PR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08.3.2012; ARE 642.062-AgR/RJ, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19.8.2011). 3. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009). 4. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
