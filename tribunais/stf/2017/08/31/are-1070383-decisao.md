@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Colegiado de origem, confirmou o entendimento do Juízo quanto a condenação dos réus pela prática do crime previsto no artigo 233 do Código Penal Militar, com pequena alteração, reduzindo a pena-base. No extraordinário cujo trânsito buscam alcançar, os recorrentes dizem violado o princípio do contraditório. Arguem a nulidade do acórdão recorrido.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    À fl. 270, consta que a defesa teve vista dos autos, para fins do art. 427 do CPPM, após a juntada de tais documentos, que foram acostados durante a fase de instrução processual. Evidentemente que a defesa teve oportunidade de tomar conhecimento e ciência de todo o conteúdo probatório, inclusive na apresentação de alegações finais, não mencionando nada que pudesse ensejar a nulidade do feito, motivo pelo qual esta preliminar não merece ser acolhida.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à suposta violação ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 31 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
