@@ -1,0 +1,14 @@
+DECISÃO:
+    1. Trata-se de reclamação, com pedido liminar, ajuizada por Márcia Inês Nalin em face de acórdão proferido pela Terceira Turma Recursal Cível do TJ/RS, que, em ação envolvendo a cobrança de diferenças de índices de correção monetária em caderneta de poupança referentes ao Plano Verão, acolheu a alegação de prescrição.
+    2.  Alega a parte reclamante que a decisão reclamada viola a liminar proferida por esta Corte no RE 626.307, Rel. Min. Dias Toffoli, submetido à sistemática da repercussão geral, no qual foi determinado o sobrestamento dos recursos e processos que tivessem como objeto a discussão sobre os expurgos inflacionários advindos dos Planos Econômicos Bresser e Verão, até o julgamento final da controvérsia pelo STF.
+    3.  O pedido liminar foi indeferido (doc. 18). As informações foram prestadas pela autoridade reclamada (doc. 21). O parecer da Procuradoria-Geral da República é pela improcedência da reclamação (doc. 23).
+    4.  É o relatório. Decido.
+    5.  De início, observo que se trata de reclamação ajuizada antes de 18.03.2016, de modo que segue o rito definido na Lei 8.038/90.
+    6.  No RE 626.307, Rel. Min. Dias Toffoli, foi reconhecida a repercussão geral da matéria relativa ao direito adquirido e ao ato jurídico perfeito em face dos expurgos inflacionários supostamente ocorridos nos Planos Econômicos Bresser e Verão (tema 264). O Min. Dias Toffoli determinou o sobrestamento de todos os “processos que tenham por objeto da lide a discussão sobre os expurgos inflacionários advindos, em tese, dos Planos Econômicos Bresser e Verão, em curso em todo o País, em grau de recurso, independentemente de juízo ou tribunal, até julgamento final da controvérsia pelo STF. Não é obstada a propositura de novas ações, nem a tramitação das que forem distribuídas ou das que se encontrem em fase instrutória”.
+    7.  Assim, a ordem de suspensão dos processos pretende impedir o julgamento da matéria submetida à repercussão geral antes que a controvérsia seja decidida por esta Corte. Não há, no entanto, obstáculo ao reconhecimento de questão prejudicial, suficiente ao julgamento da causa, que seja prévia e estranha ao tema objeto do RE 626.307.
+    8.  No caso em análise, a decisão reclamada examinou se o ajuizamento de ação civil pública é causa interruptiva da prescrição. A Terceira Turma Recursal Cível do TJ/RS, concluindo que a ação civil pública não pode interromper um prazo prescricional já decorrido, reconheceu a prescrição e declarou extinto o feito com fundamento do art. 269, IV, do CPC/1973. Não houve, portanto, qualquer análise sobre o tema discutido no RE 626.307, não havendo que se falar em violação à autoridade de decisão desta Corte.
+    9.  Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    Publique-se.
+          Brasília, 31 de agosto de 2017.
+Ministro LUÍS ROBERTO BARROSO
+Relator
