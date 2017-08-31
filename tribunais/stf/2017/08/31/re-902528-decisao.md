@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 111):
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO. REVISÃO DE ATO ADMINISTRATIVO. POSSIBILIDADE. PODE A ADMINISTRAÇÃO PÚBLICA REVER SEUS ATOS QUANDO EIVADOS DE VÍCIO QUE OS TORNAM ILEGAIS, CONFORME SÚMULA N. 473, DO STF. HONORÁRIOS ADVOCATÍCIOS. REDUZIDOS. APELAÇÃO PARCIALMENTE PROVIDA.”
+    Os embargos de declaração foram rejeitados (fls. 130).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, LIV e LV, da Constituição Federal, além das Súmulas 20 e 21 do STF.
+    Nas razões recursais, sustenta-se que “a recorrente, servidora pública municipal, aprovada em concurso público, e tendo adquirido a estabilidade, não poderia ser exonerada ad nutum pela Administração municipal, sem que lhe fosse garantido o direito à ampla defesa em processo administrativo.” (fls. 186)
+    O Tribunal de origem inadmitiu o recurso com fundamento de que o acórdão recorrido está em consonância com entendimento desta Corte (fls. 194v).
+    Insatisfeita, a parte recorrente interpõe agravo de instrumento, ocasião em que o órgão de origem o julga prejudicado, uma vez que esta Corte procedeu a devolução dos autos nos termos do art. 543-B do CPC/73 (Apenso 2, fls. 207-208).
+    O recorrente, não satisfeito com a decisão de prejudicialidade do agravo, opõe embargos declaratórios, alegando que tal entendimento “conflita com o mérito da decisão de repercussão geral julgada nos autos do Recurso Extraordinário 594.296/MG.” (Apenso 2, fls. 211).
+    No julgamento dos embargos, o Tribunal a quo decidiu pelo encaminhamento dos autos ao órgão julgador de origem para exame e possível retratação, nos termos do art. 543-B, § 3º, do CPC/73 (fls. 339v).
+    O órgão de origem, entretanto, manteve o acórdão recorrido, nos seguintes termos da ementa (fls. 349):
+    “APELAÇÃO CÍVEL. RECURSO SUBMETIDO À APRECIAÇÃO DO COLEGIADO PARA FINS DO DISPOSTO NO ART. 543-B, § 3º, DO CPC, EM RAZÃO DO JULGAMENTO DO RE 594.296/MG. RATIFICAÇÃO DO JULGAMENTO ANTERIOR PROFERIDO POR ESTE COLEGIADO. OBSERVÂNCIA AO ART. 543-B, § 3º, DO CPC. MATÉRIA CONTROVERTIDA QUE NÃO GUARDA ORIENTAÇÃO CONSOLIDADA PELO EGRÉGIO STF AO APRECIAR REPERCUSSÃO GERAL NO RECURSO EXTRAORDINÁRIO 594.296/MG.
+    DECISÃO MANTIDA, EM JUÍZO DE RETRATAÇÃO.
+    Em novo juízo de admissibilidade, a 1ª Vice-Presidência do TJ/RS admitiu o recurso extraordinário (fls. 355v).
+    É o relatório. Decido.
+    Assiste razão ao recorrente.
+    O Supremo Tribunal Federal reconheceu a existência de repercussão geral da controvérsia objeto dos autos no RE 594.246-RG, de relatoria do Ministro Menezes Direito, DJe 13.2.2009 (Tema 138), em acórdão assim ementado:
+    “EMENTA DIREITO ADMINISTRATIVO. ANULAÇÃO DE ATO ADMINISTRATIVO CUJA FORMALIZAÇÃO TENHA REPERCUTIDO NO CAMPO DE INTERESSES INDIVIDUAIS. PODER DE AUTOTUTELA DA ADMINISTRAÇÃO PÚBLICA. NECESSIDADE DE INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO SOB O RITO DO DEVIDO PROCESSO LEGAL E COM OBEDIÊNCIA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. EXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Quando do julgamento de mérito, o Plenário, por unanimidade, negou provimento ao recurso, em decisão assim ementada:
+    “EMENTA RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA. 1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo. 2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa. 3. Recurso extraordinário a que se nega provimento.” (RE 594.246-RG, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe em 13/2/2012)
+     Dessa forma, observa-se que o entendimento firmado pelo Tribunal a quo diverge da orientação firmada pelo Plenário desta Corte quando do julgamento do mérito da repercussão geral reconhecida no RE 594.246, Rel. Min. Dias Toffoli, no qual se firmou entendimento no sentido de que “Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já tiverem decorrido efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.”
+    Ante o exposto, nos termos do art. 932, V, b, do CPC e art. 21, § 2º, do RISTF, dou provimento ao recurso extraordinário para tão somente declarar a nulidade do ato de exoneração e garantir a realização do regular procedimento administrativo, assegurado o efetivo exercício do direito ao contraditório e à ampla defesa.
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
