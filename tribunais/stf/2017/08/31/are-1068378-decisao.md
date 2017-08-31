@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de extensão a inativo da Gratificação de Gestão Educacional (GGE), instituída pela Lei Complementar estadual nº 1.256/15, assentando ser a verba devida apenas para os servidores em efetivo exercício. No extraordinário cujo trânsito buscam alcançar, os recorrentes alegam a violação do artigo 40, § 8º, da Constituição Federal, 7º da Emenda Constitucional n° 41/03 e 2º da Emenda Constitucional nº 47/05.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão impugnada o seguinte trecho:
+    Instituiu-se a Gratificação de Gestão Educacional - GGE através da Lei Complementar Estadual nº 1.256/2015, aos servidores estaduais integrantes das classes de suporte pedagógico em efetivo exercício na Secretaria da Educação, nos seguintes termos:
+    Art. 8º - Fica instituída a Gratificação de Gestão Educacional - GGE aos integrantes das classes de suporte pedagógico do Quadro do Magistério, em efetivo exercício na Secretaria da Educação.
+    (...)
+    § 2º - Fica vedada a concessão da Gratificação de Gestão Educacional - GGE aos servidores afastados para o exercício de funções estritamente administrativas.
+    (...)
+    Art. 13 - Para os atuais servidores que vierem a se aposentar com fundamento nos artigos 3º e 6º da Emenda à Constituição Federal nº 41, de 19 de dezembro de 2003, e no artigo 3º da Emenda à Constituição Federal nº 47, de 5 de julho de 2005, a Gratificação de Gestão Educacional - GGE será computada no cálculo dos proventos, por ocasião da aposentadoria, à razão de 1/30 (um trinta avos) por ano de percebimento.”
+    Da leitura dos dispositivos legais, extrai-se, de forma cristalina, o caráter pro labore faciendo da Gratificação de Gestão Educacional - GGE, pois concedida somente aos servidores integrantes das classes de suporte pedagógico do Quadro do Magistério, e restringe o deferimento da verba aqueles em efetivo exercício na Secretaria da Educação e veda-a aos afastados para o exercício de funções estritamente administrativas, a demonstrar o não caráter permanente da benesse.
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação da Lei Complementar estadual nº 1.256/15. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5% do valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 31 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
