@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Cleusa Mariza Bebba opõe tempestivos embargos de declaração contra decisão em que neguei seguimento ao recurso, com a seguinte fundamentação:
+    “Trata-se de agravo interposto contra a decisão que não admitiu o recurso extraordinário. A decisão agravada negou seguimento ao apelo extremo amparada, inclusive, no seguinte fundamento:
+    ‘Por fim, importante referir, quanto ao entendimento de que o adicional de insalubridade está abrangido pelo subsídio, que a revisão da matéria comporta reexame do conjunto fático-probatório, o que não se mostra possível na via do recurso eleito, de acordo com a Súmula n. 279, do Supremo Tribunal Federal, a cujo teor Para simples reexame de prova não cabe recurso extraordinário.’
+    Decido.
+    Esta Suprema Corte firmou o entendimento de que deve a parte impugnar todos os fundamentos da decisão que não admitiu o recurso extraordinário, o que não ocorreu na espécie, uma vez que mantida incólume a motivação anteriormente reproduzida, relativa à incidência da Súmula nº 279 deste Supremo Tribunal Federal.
+    Nesse caso, a jurisprudência de ambas as Turmas deste Tribunal, com amparo na norma do art. 544, § 4º, inc. I, do Código de Processo Civil, com a redação da Lei nº 12.322/10, é no sentido de não conhecer do agravo. Nesse sentido, os seguintes julgados: AI nº 488.369/RS-AgR, Primeira Turma, Relator Ministro Sepúlveda Pertence , DJ de 28/5/04; AI nº 330.535/SP-AgR, Segunda Turma, Relator o Ministro Maurício Corrêa , DJ de 21/9/01; ARE nº 637.373/MS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski , DJe de 15/6/11; e ARE nº 704.986/PA-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 28/2/13, esse último assim ementado:
+    ‘AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO POPULAR. ESCOLHA DE CIDADE SEDE DE EVENTO DA COPA DO MUNDO DE FUTEBOL DE 2014. FUNDAMENTOS DO DESPACHO DENEGATÓRIO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO NÃO IMPUGNADOS. AGRAVO NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC. SÚMULA 283/STF. A teor do art. 544, § 4º, I, do CPC e da Súmula 283/STF, não se conhece de agravo contra despacho negativo de admissibilidade de recurso extraordinário quando, lastreada a decisão agravada em múltiplos fundamentos, independentes e suficientes para obstar o processamento do apelo extremo, não foram esgrimidos argumentos tendentes a desconstituir todos eles. Não importa em ofensa ao princípio constitucional da inafastabilidade da jurisdição (art. 5º, XXXV, da Constituição da República) a negativa de seguimento a recurso extraordinário, ou o não conhecimento de agravo, quando verificado o não-atendimento dos pressupostos extrínsecos ou intrínsecos de admissibilidade recursal, cuja observância pelas partes constitui verdadeira imposição da garantia constitucional do devido processo legal (art. 5º, LIV, da Lei Maior). Agravo regimental conhecido e não provido.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.”
+    Sustenta a embargante que a decisão embargada teria sido omissa em relação ao seu direito à percepção do adicional de insalubridade.
+    Decido.
+    Não merece prosperar a irresignação.
+    Anote-se, inicialmente, que as alegações suscitadas pela embargante atinentes ao mérito da causa são impertinentes, haja vista que não se conheceu do agravo em razão da ausência de impugnação dos fundamentos da decisão de inadmissão do recurso extraordinário na origem.
+     Destarte, não está presente nenhuma hipótese autorizadora da oposição do recurso declaratório.
+    A decisão embargada não incorreu em omissão, tendo-se decidido, fundamentadamente, nos limites necessários ao deslinde do feito. A contradição que autoriza opor o recurso declaratório deve ser interna à decisão, verificada entre os fundamentos do julgado e sua conclusão, o que não ocorreu no caso em tela. Da mesma forma, a decisão não é obscura, pois a ela não faltam clareza nem certeza quanto ao que foi decidido. Ademais, também não há nenhum erro material a ser corrigido.
+    Assim, o que pretende a parte embargante, efetivamente, é promover o rejulgamento da causa, fim para o qual não se prestam os embargos declaratórios.
+    Ante o exposto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
