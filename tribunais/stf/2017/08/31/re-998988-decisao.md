@@ -1,0 +1,15 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Ministério Público do Estado do Rio Grande do Sul contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “AGRAVO EM EXECUÇÃO PENAL. APENADO CUMPRINDO PENA EM REGIME ABERTO. DECISÃO QUE RECONHECE A PRÁTICA DE FALTAS GRAVES, CONSISTENTES EM FUGA (1ª INFRAÇÃO DISCIPLINAR) E PRÁTICA DE FATO DEFINIDO COMO CRIME DOLOSO DURANTE O CUMPRIMENTO DA PENA (2ª INFRAÇÃO DISCIPLINAR) E APLICA AS SANÇÕES DE REGRESSÃO DE REGIME CARCERÁRIO E ALTERAÇÃO DA DATA-BASE PARA O DIA DA RECAPTURA. INSURGÊNCIA DEFENSIVA.
+    1. Preliminar. Nulidade da decisão no ponto em que apura a prática de fato definido como crime doloso sem a prévia instauração do competente procedimento administrativo disciplinar. Declarada de ofício.
+    Comando normativo contido no art. 22, inc. III, do Decreto n. 46534/2009, com as alterações do Decreto n. 47594/2010, que não tem o condão de dispensar procedimento que lei hierarquicamente superior (Lei n. 7210/84) não dispensou.
+    2. A extinção da punibilidade do apenado quanto à fuga pela autoridade administrativa, porque operada a prescrição porque implementado o prazo previsto no art. 37 do RDP, impede o reconhecimento e sancionamento dessa infração disciplinar na seara judicial.
+    3. Prescrição da pretensão punitiva quanto à prática de fato definido como crime doloso no curso da execução penal. Reconhecida de ofício. Transcorrido o lapso temporal previsto no art. 36 do Regimento Disciplinar Penitenciário deste Estado sem a instauração do PAD.
+    DE OFÍCIO, DECLARADA A NULIDADE DA DECISÃO AGRAVADA QUANTO AO RECONHECIMENTO DAS FALTAS GRAVES, EXTINTA A PUNIBILIDADE DO APENADO PELA PRESCRIÇÃO E, VIA DE CONSEQUÊNCIA, JULGADO PREJUDICADO O EXAME DO MÉRITO RECURSAL. UNÂNIME.”
+    A parte ora recorrente, ao deduzir o presente apelo extremo, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, XXXV, LIV e LV, e 22, I, da Constituição da República.
+    Cabe registrar, desde logo, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 972.598-RG/RS, Rel. Min. ROBERTO BARROSO, reconheceu existente a repercussão geral da questão constitucional nele suscitada, que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa.
+    O tema objeto do recurso extraordinário representativo de mencionada controvérsia jurídica, passível de reproduzir-se em múltiplos feitos, refere-se à “Possibilidade de afastar-se o prévio procedimento administrativo disciplinar – PAD, ou suprir sua eventual deficiência técnica, na hipótese de oitiva do condenado em audiência de justificação no juízo da execução penal, realizada na presença do ministério público ou defensor” (Tema nº 941).
+    Isso significa que se impõe, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
