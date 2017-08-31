@@ -1,0 +1,4 @@
+Art. 62-B. O acesso de professores das redes públicas de educação básica a cursos superiores de pedagogia e licenciatura será efetivado por meio de processo seletivo diferenciado.
+§ 1º Terão direito de pleitear o acesso previsto no caput deste artigo os professores das redes públicas municipais, estaduais e federal que ingressaram por concurso público, tenham pelo menos três anos de exercício da profissão e não sejam portadores de diploma de graduação.
+§ 2º As instituições de ensino responsáveis pela oferta de cursos de pedagogia e outras licenciaturas definirão critérios adicionais de seleção sempre que acorrerem aos certames interessados em número superior ao de vagas disponíveis para os respectivos cursos.
+§ 3º Sem prejuízo dos concursos seletivos a serem definidos em regulamento pelas universidades, terão prioridade de ingresso os professores que optarem por cursos de licenciatura em matemática, física, química, biologia e língua portuguesa.
