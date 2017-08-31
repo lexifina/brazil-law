@@ -1,0 +1,16 @@
+DECISÃO: O presente agravo foi interposto pelo Instituto Nacional do Seguro Social – INSS contra decisão que negou trânsito ao apelo extremo por ele deduzido, no qual sustentou que o acórdão proferido pela Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul teria transgredido preceitos inscritos na Constituição Federal.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância essa que obsta o próprio conhecimento do apelo extremo.
+    De outro lado, o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Impende ressaltar, ainda, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 702.966-AgR/BA, Rel. Min. GILMAR MENDES – ARE 791.166- -AgR/RS, Rel. Min. DIAS TOFFOLI – ARE 892.396/SP, Rel. Min. ROSA WEBER, v.g.):
+    “DIREITO PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCESSÃO DE AUXÍLIO-RECLUSÃO. CUMPRIMENTO DE REQUISITOS. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS DOS AUTOS. SÚMULA 279/STF. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que matéria relativa ao cumprimento dos requisitos para concessão de benefícios previdenciários não tem natureza constitucional, justamente por tratar-se de matéria infraconstitucional e demandar o reexame do acervo probatório dos autos (Súmula 279/STF). Precedentes.
+    2. Agravo regimental a que se nega provimento.”
+    (ARE 828.289-AgR/RJ, Rel. Min. ROBERTO BARROSO)
+    Impõe-se observar, finalmente, que o presente recurso extraordinário também discute o Tema nº 810 “Validade da correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública, conforme previstos no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009”.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço, em parte, do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III), e, de outro lado, quanto ao Tema nº 810, determino a devolução destes autos ao órgão judiciário de origem.
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro CELSO DE MELLO
+Relator
