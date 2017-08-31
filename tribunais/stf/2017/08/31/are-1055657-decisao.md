@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região (Vol. 2 – Evento 13).
+    No apelo extremo, com amparo no art. 102, III, “a”, da Constituição Federal, o recorrente alega afronta aos arts. 1º, III, e 5º, LIV, LV e LVII da CF/88, sustentando, em síntese, que teve sua pena aumentada em processo penal instaurado com base apenas em denúncia anônima; que o desmembramento do processo dificultou a ampla defesa e o contraditório; e que a dosimetria da pena deve ser revista, por ser primário e possuir bons antecedentes (Vol. 2 – Evento 18).
+    A decisão agravada inadmitiu o apelo extremo por entender que: (a) a alegada ofensa aos preceitos constitucionais invocados apenas se verificaria de modo reflexo ou indireto; (b) incide o óbice da Súmula 279 do STF (Vol. 2 – Evento 29).
+    No agravo do art. 1042 do Código de Processo Civil de 2015, a parte agravante explana que as alegadas afrontas constitucionais se deram de modo direto e que é atribuição da Suprema Corte a análise de decisões que afrontam a constituição para dar provimento a Recursos e Hábeas Corpus mesmo que não seja possível em tese o exame de provas (Vol. 2 – Evento 38).
+    É o relatório. Decido.
+    Embora o recorrente tenha transcrito vários precedentes judiciais, não demonstrou com clareza de que modo as normas constitucionais veiculadas no apelo teriam sido ofendidas pelo acórdão recorrido, o que leva à aplicação, por analogia, do óbice da Súmula 284 do Supremo (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+    Quanto à alegação de afronta ao art. 5º, LIV e LV, da Carta Magna, o apelo extraordinário não tem chances de êxito, pois essa Corte, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Ademais, o Juízo de origem não analisou a questão constitucional veiculada no art. 1º, III, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 e 356 desta Corte Suprema.
+    Por fim, conforme consignado no aresto impugnado, as interceptações telefônicas foram decorrentes não só da denúncia anônima, mas também dos fatos que se revelaram com a prisão do paraguaio Elvio Santos Garay, quando realizava o transporte ilegal de aproximadamente 32 Kg de agrotóxicos (Vol. 2 – Evento 13 – fls. E-STJ 805/806), de modo que o acolhimento do recurso, neste particular, passa necessariamente pela revisão de fatos e provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
