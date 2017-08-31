@@ -1,0 +1,43 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça – STJ, que negou provimento ao Agravo Regimental no Recurso Especial 1.644.962/MG, de relatoria do Ministro Sebastião Reis Júnior.
+    Consta dos autos que, ao proceder à unificação das penas impostas ao paciente, para incluir condenação advinda no curso da execução, o Juízo de Execuções Penais de Ribeirão das Neves/MG considerou como marco inicial para a concessão de novos benefícios executórios a data da última prisão do reeducando (fls. 3-6 do documento eletrônico 2).
+    Inconformado, o Ministério Público interpôs agravo em execução no Tribunal de Justiça do Estado de Minas – TJMG, que negou provimento ao recurso (fls. 11-38 do documento eletrônico 2). Houve, ainda, oposição de embargos de declaração, porém rejeitados (fls. 40-44 do documento eletrônico 2).
+    Alegando negativa de vigência ao art. 111, caput e parágrafo único, da Lei 7.210/1984 e ao art. 75, § 2º, do Código Penal, o órgão acusador interpôs recurso especial para o Superior Tribunal de Justiça, o qual, depois de admitido na origem (fl. 45 do documento eletrônico 2), foi provido por decisão monocrática do Ministro Relator (fls. 46-50 do documento eletrônico 2).
+    Contra essa decisão, a defesa interpôs agravo regimental, que foi desprovido, em acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DOS ARTS. 111, CAPUT E PARÁGRAFO ÚNICO, DA LEP E 75, § 2º, DO CP. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. ALTERAÇÃO DA DATA-BASE PARA BENEFÍCIOS. DATA DO TRÂNSITO EM JULGADO DA NOVA CONDENAÇÃO. PRECEDENTES DESTA CORTE.
+    1. A Corte a quo manifestou-se no sentido de que uma nova condenação no curso da execução da pena não faria com que o marco inicial para a contagem do novo prazo aquisitivo do direito a eventuais benesses relativas à execução fosse o trânsito em julgado da última sentença condenatória.
+    2. A jurisprudência do Superior Tribunal de Justiça firmou entendimento de que, sobrevindo condenação no curso da execução penal, seja por fato anterior ou posterior, a unificação das penas acarreta a interrupção dos prazos para concessão de benefícios, prazo este que terá como novo marco inicial a data do trânsito em julgado da nova condenação. Precedentes.
+    3. Agravo regimental desprovido” (fl. 51 do documento eletrônico 2).
+    É contra essa decisão que se insurge a impetrante neste habeas corpus.
+    Sustenta, em síntese, que
+    “[...] o artigo 111 da Lei nº 7.210/84 (LEP) deve ser interpretado em benefício do condenado, razão pela qual o novo marco para contagem dos benefícios deve necessariamente coincidir com o início da execução provisória da pena, sob pena de se impor grave constrangimento legal ao apenado no curso do cumprimento da pena privativa de liberdade. Como a norma penal não indica expressamente qual a data base para início da contagem do prazo, qualquer interpretação da lei deve ser em benefício do reeducando, visto que a principiologia constitucional afeta ao Processo Penal se orienta pelos vetores do favor rei.
+    Assim, não se pode admitir o desprezo pelo tempo de encarceramento provisório, quando da unificação da pena, sob pena de se acarretar lesão gravíssima ao direito de liberdade do reeducando.
+    Dessa forma, considerar o marco inicial a data do trânsito em julgado da última sentença condenatória viola todo o sistema penal e processual de garantias […]” (fl. 4 da petição inicial).
+    Requer, ao final, liminarmente, a suspensão da “tramitação da ação original, até que seja julgado o mérito deste writ”. No mérito, pede a concessão da ordem, “a fim de cessar a ilegalidade do ato de utilização da data do trânsito em julgado da última condenação como novo marco para obtenção de benefícios […]” (fl. 8 da petição inicial).
+    Indeferi o pedido de liminar (documento eletrônico 5).
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Edson Oliveira de Almeida manifestou-se pelo provimento do recurso (documento eletrônico 7).
+    É o breve relatório. Decido.
+    Em que pesem os argumentos da impetrante e do Ministério Público Federal, tenho que o caso é de manutenção da reiterada jurisprudência desta Suprema Corte sobre a matéria.
+    Conforme relatado, a impetrante pretende que seja considerado como marco interruptivo, em razão da unificação das penas do paciente, o dia do início da execução provisória da primeira reprimenda, ou seja, o dia do encarceramento provisório, e não a data em que a última condenação transitou em julgado.
+    Ocorre que Tribunal de Justiça local, ao dar provimento ao recurso do Ministério Público, assentou que o termo inicial a ser considerado deve ser aquele decorrente do trânsito em julgado da nova condenação, ainda que o fato típico tenha sido praticado em período anterior ao início do cumprimento da pena.
+    Com esse mesmo entendimento, ao julgar o recurso especial defensivo, o STJ reafirmou que, para a progressão de regime, deve ser considerada a soma do restante da pena em cumprimento com a nova sanção imposta, calculada a contagem a partir da data do trânsito em julgado da nova condenação.
+    Tenho que não merece reparo a decisão do Superior Tribunal de Justiça, pelas razões que passo a expor.
+    Com efeito, a superveniência de nova condenação definitiva no curso da execução criminal sempre altera a data-base para concessão de benefícios.
+    Esta conclusão decorre da interpretação do art. 111, parágrafo único, combinado com o art. 118, II, ambos da Lei de Execuções Penais, cuja redação é a seguinte:
+    “Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.
+    Parágrafo único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime.
+    Art. 118. A execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado:
+    […]
+    II - sofrer condenação, por crime anterior, cuja pena, somada ao restante da pena em execução, torne incabível o regime (artigo 111)”.
+    Nesse sentido, transcrevo abaixo trecho da ementa do acórdão relatado pela Ministra Cármen Lúcia no HC 90.030/RJ:
+    “2. Constata-se que a manutenção do regime prisional fechado foi justificada pela quantidade da pena que ainda falta ao réu cumprir, após ser realizado novo cálculo de unificação de penas, em virtude da nova sanção imposta. 3. Habeas corpus denegado”.
+    Ora, se a legislação prevê a possibilidade de regressão de regime, quando a unificação das penas resultar na necessidade de sua alteração, é evidente que a data-base também deve ser alterada, uma vez que seria ilógico regredir o regime do sentenciado sem alterar-se o termo inicial para concessão de benefícios, pois chegar-se-ia à situação absurda de, ao mesmo tempo em que se reconhece a necessidade de regressão em razão de condenação superveniente, esta não surtiria efeito pelo fato de o preso já ter direito à progressão.
+    Esta Suprema Corte abonou essa tese no HC 77.765/PR, de relatoria do Ministro Nelson Jobim, em acórdão assim ementado:
+    “HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. Quando ocorre nova condenação no curso da execução da pena, aplica-se o art. 111, parágrafo único, da Lei Execução Penal. A data de nova condenação é o termo inicial ao fim de contagem do prazo. Ordem denegada”.
+    Embora não haja previsão expressa na lei acerca da aludida alteração do termo inicial para concessão de benefícios, esta conclusão é uma consequência necessária dos dispositivos legais sob exame, visto que afigurar-se-ia incoerente a possibilidade de regressão de regime de um condenado em razão de nova reprimenda sem a alteração da data-base.
+    Assim, há de ser mantida a data do trânsito em julgado da última condenação do paciente como termo inicial para a concessão de benefícios prisionais, observada a soma da sanção desta condenação superveniente ao período de pena que resta a ser cumprida.
+    Na mesma linha de consideração, cito, ainda, os seguintes julgados mais recentes: RHC 116.528/RS, Rel. Min. Luiz Fux; RHC 121.849/MG, Rel. Min. Dias Toffoli; HC 100.499/RS, Rel. Min. Marco Aurélio.
+    Ante o exposto, denego a ordem de habeas corpus (art. 192 do RISTF).
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro Ricardo Lewandowski
+Relator
