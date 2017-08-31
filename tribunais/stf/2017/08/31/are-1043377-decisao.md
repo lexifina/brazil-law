@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. PENSÃO POR MORTE. TETO CONSTITUCIONAL. RAZÕES SUFICIENTES PARA A MANUTENÇÃO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. PENSÃO POR MORTE. SEGURADO FALECIDO ANTES DA EDIÇÃO DA EC 41/2003. PRESSUPOSTOS LEGAIS QUE GARANTEM A INTEGRALIDADE E PARIDADE DO BENEFÍCIO. DIREITO DA AUTORA, NA QUALIDADE DE VIÚVA DO SEGURADO, À REVISÃO E ATUALIZAÇÃO DE SUA PENSÃO PARA QUE CORRESPONDA AO VALOR DOS PROVENTOS A QUE TERIA DIREITO O SERVIDOR SE VIVO ESTIVESSE, CONFORME O DISPOSTO NO ARTIGO 40, §§ 7º E 8º DA CRFB. BASE DE CÁLCULO DA PENSÃO DEVE ABRANGER APENAS AS VANTAGENS DE CARÁTER REMUNERATÓRIO RECEBIDAS PELO FALECIDO SERVIDOR NA DATA DE SEU ÓBITO. APLICAÇÃO DE JUROS DE MORA E CORREÇÃO MONETÁRIA, CONFORME DISPOSIÇÃO DO ART. 1º-F DA LEI Nº 9.494/97, COM A REDAÇÃO DADA PELA LEI Nº 11.960/09, DE ACORDO COM RECENTE ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA REDUZIDA PARA 5% SOBRE O VALOR DA CONDENAÇÃO, OBSERVANDO-SE A SÚMULA Nº 111 DO STJ, DISPONDO QUE OS HONORÁRIOS ADVOCATÍCIOS, NAS AÇÕES PREVIDENCIÁRIAS, NÃO INCIDEM SOBRE AS PRESTAÇÕES VENCIDAS APÓS A SENTENÇA. RECURSO DE APELAÇÃO A QUE SE DEU PARCIAL PROVIMENTO. INCABÍVEL EM SEDE DE AGRAVO INTERNO INAUGURAR DISCUSSÃO DE TESE ESTRANHA AOS AUTOS, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. AGRAVO INTERNO DESPROVIDO.” (Doc. 21)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 37, XI, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 284 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Com efeito, o Tribunal de origem consignou ser inviável a apreciação da matéria atinente à submissão do benefício de pensão por morte ao teto constitucional, por se incabível, em sede de agravo interno, a discussão de matéria estranha aos autos.
+    Nada obstante, a parte recorrente, nas razões do recurso extraordinário não impugnou esse fundamento do acórdão recorrido e, ao assim proceder, deixou de atacar as razões que, por si só, são suficientes para a manutenção da decisão vergastada.
+    Incide, na espécie, o enunciado da Súmula 283 do STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas sobre a Súmula 283 do STF:
+    “Pontes de Miranda sustentava opinião favorável à admissão do recurso extraordinário com fulcro num dos fundamentos quando a decisão assenta em vários (Comentários ao Código de Processo Civil, 2ª ed., t. XII/278). Opiniões contrárias são sustentadas por Lopes da Costa (Direito Processual Civil Brasileiro, 2ª ed., v. III/418) e José Afonso da Silva (Do Recurso Extraordinário, p. 201), que inadmitem o recurso nessas condições.
+    A Súmula 283 expressa que é inadmissível o recurso extraordinário quando a decisão recorrida tem mais de um fundamento suficiente e o recurso não abrange todos eles (RE 65.072, Rel. Min. Amaral Santos, RTJ 53/371; RE 66.768, Rel. Min. Djaci Falcão, RTJ 52/606; RE 60.854, Rel. Min. Barros Monteiro, RTJ 45/855; RE 63.174, Rel. Min. Evandro Lins, RTJ 45/419; RE 79.083, Rel. Min. Rodrigues de Alckmin, RTJ 75/844; RE 79.623, RTJ 75/849; RE 84.077, RTJ 80/906).
+    Aplicável o disposto nesta Súmula (decisão assentada em mais de um fundamento) às decisões do STJ (REsp 16.076; REsp 21.064; REsp 23.026; REsp 29.682).
+    V. Luiz Guilherme Marinoni, Manual do Processo de Conhecimento, Ed. RT, 2001, p. 561.” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 140)
+    Destaca-se, nesse sentido:
+    “AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO. SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL.
+    1. Inviável o agravo de instrumento que não ataca todos os fundamentos autônomos da decisão recorrida (Súmula 283 do Supremo Tribunal Federal). Agravo não provido.” (AI 489.247-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJ de 16/2/2007)
+    Por fim, observo que o agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
