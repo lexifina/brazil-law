@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 10, p. 84):
+    “EMENTA: Ação Civil Pública – Improbidade Administrativa – Alegação de violação ao artigo 93, IX, da Constituição Federal – Inocorrência – Circunstância em que o Prefeito Municipal de Nova Europa na gestão 2005/2008 contratou servidores sem concurso para cargos nas áreas da educação; saúde; serviços gerais e motoristas – Aplicação do artigo 37, §5° da Constituição Federal – Princípio da discricionariedade infringido, bem como o da legalidade e moralidade – Redução da pena de multa – Recurso parcialmente provido.”
+    Os embargos de declaração foram rejeitados (eDOC 11, p. 1).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta ofensa aos artigos 37, IX; e 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta, em suma, que “não basta a mera conduta antijurídica para a tipificação no artigo 11, da Lei de Improbidade Administrativa (LIA), mas a conduta antijurídica, coadjuvada pela má intenção do administrador, ou seja, os atos ilegais devem ser qualificados pela desonestidade e má-fé do agente.” (eDOC 11, p. 29)
+    Alega, ainda, que “a Lei de Improbidade não visa punir os administradores públicos ineptos, incapazes ou ineficientes, mas os que agem com má-fé, desonestidade e deslealdade (dolo).” (eDOC 11, p. 30)
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso com base na Súmula 279 do STF (eDOC 12, p. 35).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Quando do julgamento da apelação, o Tribunal de origem asseverou (eDOC 10, p. 86-87):
+    “Ficou cabalmente demonstrado nos autos que o Sr. Sebastião em total desrespeito aos princípios basilares da Administração Pública, contratou pelo menos 354 pessoas sem concurso público e, continuou a realizar durante seu mandato, sucessivas contratações sem prévio processo seletivo, muito embora fossem todas previsíveis, ignorando os limites da lei.
+    Veja-se que não ficou demonstrado que as referidas contratações eram de urgência a fim de atender o interesse público.
+    E mais, o Tribunal de Contas do Estado constatou que as circunstâncias que ensejaram as contratações eram previsíveis e, portanto, havia a necessidade de prévio processo seletivo.
+    Data vênia é certo, pois, que, os atos de improbidade praticados por qualquer agente público,serão punidos na forma da Lei.
+    Os agentes públicos de qualquer nível ou hierarquia são obrigados a zelar pela estrita observância dos princípios da legalidade,impessoalidade, moralidade e publicidade no trato dos assuntos que lhe são afetados. (artigo 4° da LIA).
+    Veja-se que no caso dos autos o então ex-prefeito sequer observou os princípios da administração.
+    (…)
+    Representam e constituem deveres a que está sujeita a Administração Pública e, consequentemente os agentes desta, no caso, os requeridos, que praticaram atos investidos nos cargos de Prefeito, Vereador e Funcionário.
+    O princípio da legalidade significa estar a Administração Pública, em toda a sua atividade, presa aos mandamentos da lei, deles não se podendo afastar,sob pena de invalidade do ato e responsabilidade de seu autor.
+    Qualquer ação estatal sem o correspondente calço legal, ou que exceda ao âmbito demarcado pela lei, é injurídica e expõe-se a anulação.
+     Depreende-se desses fundamentos e daqueles que constam da ementa do acórdão recorrido, que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o exame da legislação infraconstitucional (Lei Federal 8.429/92). Dessa forma, resta demonstrado a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da vedação contida na Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. IRREGULARIDADE EM CONTRATAÇÕES. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS Nº 279 E Nº 280 DO STF. ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.” (AI nº 858.248/MS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 6/11/15)
+    “CONTRATAÇÃO TEMPORÁRIA DE PESSOAL SEM CONCURSO PÚBLICO PELA ADMINISTRAÇÃO PÚBLICA. ALEGADA URGÊNCIA E EXEPCIONALIDADE. SOBRESTAMENTO AFASTADO. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE LEGISLAÇÃOINFRACONSTITUCIONAL: IMPOSSIBLIDADE. SÚMULAS 279 E 280 DO SUPREMO TIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. I – Para se concluir de maneira diversa do que assentado pelo tribunal de origem, seria necessário tanto o reexame do conjunto fático-probatório constante dos autos quanto a análise da legislação infraconstitucional aplicada na espécie (Lei 8.666/1993 e Decreto estadual 11.938/1987), hipóteses inviáveis em recurso extraordinário, a teor das Súmulas 279 e 280 desta Suprema Corte. II – Agravo regimental a que se nega provimento” (RE n. 702.618-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 28.8.2014)
+    Por fim, no tocante à alegada afronta ao art. 93, IX, da C.F., verifica-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde os ora Agravantes.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a” e “b”, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 31 de agosto de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
