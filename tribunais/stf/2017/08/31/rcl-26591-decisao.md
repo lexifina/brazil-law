@@ -1,0 +1,17 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Marco Aurélio Bispo Silva, representado pela Defensoria Pública da União, afirmar haver o Superior Tribunal Militar, no processo nº 292-67.2016.7.01.0401, afrontado a jurisprudência do Supremo.
+    Segundo narra, foi denunciado, em 25 de maio de 2016, ante o suposto cometimento do delito previsto no artigo 187 (deserção) do Código Penal Militar. Conforme esclarece, determinada a citação, o Comandante do Primeiro Distrito Naval informou a impossibilidade de fazê-lo em virtude de nova deserção. Informa haver o Juízo, considerada a falta de condição de procedibilidade, determinado a suspensão do processo até a apresentação voluntária ou eventual captura. Formulado pedido de correição parcial pelo Ministério Público Militar, o Órgão reclamado deferiu-o para consignar o prosseguimento da ação penal militar, apesar de não ostentar a condição de militar da ativa, surgindo daí a insurgência.
+    Consoante argumenta, os chamados crimes tipicamente militares, entre os quais se inclui o atinente à deserção, pressupõem a condição de militar da ativa. Alega, presente o artigo 22 do Código Penal Militar, a necessidade de o agente estar incorporado às Forças Armadas. Refere-se ao previsto na Lei do Serviço Militar, bem assim ao respectivo regulamento. Menciona o verbete nº 12 da Súmula do Superior Tribunal Militar, cujo teor é o seguinte:
+    A praça sem estabilidade não pode ser denunciada por deserção sem ter readquirido o status de militar, condição de procedibilidade para a persecutio criminis através de reinclusão. Para a praça estável, a condição de procedibilidade é a reversão ao serviço ativo.
+    Diz desrespeitada a jurisprudência do Supremo, considerada a pertinência da qualidade de militar para figurar no polo passivo de ação penal militar a envolver o delito de deserção. Articula com a ausência de condição de prosseguibilidade. Cita o decidido nos habeas corpus nº 115.754, nº 108.197, ambos da relatoria do ministro Ricardo Lewandowski, nº 103.254, relator o ministro Celso de Mello, e nº 90.672, relator o ministro Joaquim Barbosa.
+    Não menciona do requisito do risco.
+    Requer, em sede liminar, a suspensão da decisão atacada. Postula, alfim, a cassação do ato impugnado e a extinção do processo-crime. Busca, sucessivamente, a concessão de ordem de habeas corpus de ofício.
+    2. Este processo somente serve à sobrecarga da máquina judiciária, à sobrecarga suportada pelo Supremo, que, no tocante à celeridade processual, encontra-se inviabilizado. É evidente a impertinência da medida. Por meio de alegações genéricas, o reclamante não argui, na inicial, a afronta a nenhum verbete ou pronunciamento deste Tribunal dotado de eficácia vinculante ou alusivo a processo no qual tenha figurado como parte.
+    Atentem para a organicidade e a instrumentalidade do Direito. O inconformismo deve ser veiculado na via própria, a recursal. Descabe emprestar a esta medida excepcional os contornos de incidente de uniformização de jurisprudência ou, até mesmo, considerados os limites próprios, de habeas corpus. Parte-se de exercício interpretativo para guindar, com queima de etapas, controvérsia ao Supremo.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 31 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
