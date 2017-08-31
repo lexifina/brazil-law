@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – MATÉRIA FÁTICA – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de extensão de gratificação a servidor inativo, considerada a respectiva natureza jurídica. No extraordinário, cujo trânsito buscam alcançar, os recorrentes alegam violado o artigo 40, § 4º, § 5º e § 8º, da Constituição Federal. Tecem considerações sobre o caráter geral da parcela, paga indiscriminadamente a todos os servidores em atividade, sem nenhuma especificação de função.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    SERVIDORES PÚBLICOS MUNICIPAIS INATIVOS - Gratificação de Atividade, instituída pela Lei n° 15.364/2011, paga aos servidores da ativa - Pleito de extensão aos inativos, nos termos do art. 40, § 8% da Constituição Federal — Lei instituidora que especifica os critérios para pagamento da gratificação - Vantagem de caráter pro labore faciendo - Admissibilidade somente quanto às vantagens remuneratórias com caráter genérico, excluídas as vantagens pessoais - Sentença de improcedência mantida. Recurso não provido.
+    O Tribunal de origem expressamente consignou tratar-se de gratificação a ser concedida somente aos servidores da ativa, mediante avaliação de desempenho, metas e títulos. Confiram com o seguinte trecho:
+    Da leitura dos dispositivos legais resta claro o caráter pro labore faciendo da Gratificação de Atividade, uma vez que concedida mediante a aferição do desempenho individual do servidor, do desempenho institucional, do alcance de metas e da apresentação de títulos, fatores a influenciar, de forma direta, no montante a ser percebido a esse título, conforme redação do art. 3 0 acima transcrito.
+    Não obstante, o art. 70 vedou a incidência de vantagens sobre a referida gratificação e o art. 9 0 do Diploma Legal vedou expressamente sua concessão aos servidores que já se encontravam na inatividade quando da entrada em vigor da Lei.
+    Some-se o fato do art. 60 prever a possibilidade de perda do direito à percepção da gratificação, nos casos de repreensão e suspensão do servidor, a afastar o alegado caráter permanente da benesse.
+    Ora, somente pela análise das provas constantes do processo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária.
+    De resto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação das Leis municipais nº 15.364/11 e nº 15.389/11. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 31 de agosto de 2017.
+Ministro MARCO AURÉLIO
+Relator
