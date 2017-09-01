@@ -1,0 +1,822 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 19
+
+01/09/2017
+
+SEGUNDA TURMA
+
+AG.REG. EM MANDADO DE SEGURANÇA 34.407 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: ELIANE GAZOLA DE SOUZA
+: MARCELO ANTONIO RODRIGUES VIEGAS
+OUTRO(A/S)
+: PROCURADOR-GERAL DA REPÚBLICA
+: SEM REPRESENTAÇÃO NOS AUTOS
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+
+E
+
+EMENTA
+Agravo interno em mandado de segurança. Reversão de
+aposentadoria compulsória de membro septuagenário do Ministério
+Público da União. Impossibilidade (art. 25, II, b, da Lei nº 8.112/90).
+Inaplicabilidade da LC nº 152/2015 (aposentadoria compulsória aos 75
+anos). Tempus Regit Actum. Não ocorrência de desconstituição de ato
+jurídico perfeito ou de afronta ao princípio constitucional da isonomia.
+Artigo 100 do ADCT. Agravo interno não provido.
+1. Pretensão de reversão de aposentadoria compulsória de membro
+septuagenário do Ministério Público da União, aposentado
+compulsoriamente antes do advento da LC nº 152/2015.
+2. A singularidade do instituto da reversão, prevista na Seção VIII do
+Capítulo I do Título II da Lei nº 8.112/90, não se presta para satisfazer a
+pretensão de retorno à atividade de servidores já aposentados
+compulsoriamente.
+3. A jurisprudência da Suprema Corte é sólida no sentido de que a
+aposentadoria é regida pela legislação vigente ao tempo em que reunidos
+os requisitos necessários à obtenção do benefício. Precedentes.
+4. A mudança de parâmetro etário trazida pela EC nº 88/2015 não
+retira a condição de ato jurídico perfeito de aposentação compulsória,
+levada a efeito em momento pretérito. Precedentes.
+5. Não há falar em afronta ao princípio constitucional da isonomia
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613478.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 19
+
+MS 34407 AGR / DF
+pelo art. 100 do ADCT (incluído pela EC nº 88/2015), visto que o Supremo
+Tribunal Federal já assentou que a unidade do Poder Judiciário nacional e
+o princípio da isonomia são compatíveis com a existência de regra de
+aposentadoria específica para integrantes do Supremo Tribunal Federal e
+dos Tribunais Superiores, cujos cargos apresentam peculiaridades para
+seu provimento (ADI nº 5.316/DF).
+6. A inexistência de argumentação apta a infirmar o julgamento
+monocrático conduz à manutenção da decisão recorrida.
+7. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, em sessão virtual de 25 a
+31/8/2017, na conformidade da ata do julgamento, por unanimidade de
+votos, em negar provimento ao agravo regimental, nos termos do voto do
+Relator.
+Brasília, 1º de setembro de 2017.
+MINISTRO DIAS TOFFOLI
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613478.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 19
+
+01/09/2017
+
+SEGUNDA TURMA
+
+AG.REG. EM MANDADO DE SEGURANÇA 34.407 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: ELIANE GAZOLA DE SOUZA
+: MARCELO ANTONIO RODRIGUES VIEGAS
+OUTRO(A/S)
+: PROCURADOR-GERAL DA REPÚBLICA
+: SEM REPRESENTAÇÃO NOS AUTOS
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+
+E
+
+RELATÓRIO
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Cuida-se de agravo interno interposto por ELIANE GAZOLA DE SOUZA
+em face de decisão monocrática de minha lavra mediante a qual neguei
+seguimento ao mandamus - impetrado contra ato do Procurador-Geral
+da República -, denegando a ordem, com a seguinte fundamentação:
+“De início, registro que a singularidade do instituto da
+reversão, prevista na Seção VIII do Capítulo I do Título II da
+Lei nº 8.112/90, não se presta a satisfazer a pretensão de
+retorno à atividade de servidores já aposentados
+compulsoriamente. No rigor jurídico, somente fará jus à
+reversão, no interesse da Administração Pública, o servidor
+inativo que preencher todos os requisitos do artigo 25, inciso II,
+da Lei nº 8.112/90, ou seja, que atendam aos ditames do
+dispositivo cumulativamente – com os quais, ressalte-se, não se
+coaduna a aposentação compulsória. Vide o teor da norma:
+‘Art. 25. Reversão é o retorno à atividade de servidor
+aposentado: (Redação dada pela Medida Provisória nº
+2.225-45, de 4.9.2001)
+I - por invalidez, quando junta médica oficial
+declarar insubsistentes os motivos da aposentadoria; ou
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613477.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 19
+
+MS 34407 AGR / DF
+(Incluído pela Medida Provisória nº 2.225-45, de 4.9.2001)
+II - no interesse da administração, desde que:
+(Incluído pela Medida Provisória nº 2.225-45, de 4.9.2001)
+a) tenha solicitado a reversão; (Incluído pela Medida
+Provisória nº 2.225-45, de 4.9.2001)
+b) a aposentadoria tenha sido voluntária; (Incluído
+pela Medida Provisória nº 2.225-45, de 4.9.2001)
+c) estável quando na atividade; (Incluído pela
+Medida Provisória nº 2.225-45, de 4.9.2001)
+d) a aposentadoria tenha ocorrido nos cinco anos
+anteriores à solicitação; (Incluído pela Medida Provisória
+nº 2.225-45, de 4.9.2001)
+e) haja cargo vago.’
+Portanto, não há, na lei nº 8.112/90, como argumenta a
+impetrante, previsão legal que autorize o atendimento do
+pleito.
+Friso também que a jurisprudência dessa Suprema Corte
+é assente no sentido de que a aposentadoria é regida pela
+legislação vigente ao tempo em que reunidos os requisitos
+necessários à obtenção do benefício.
+In casu, o ato concessivo de aposentação da impetrante
+data de 24/11/15, sendo que a LC nº 152 somente foi publicada
+em 3/12/2015, e a eficácia do artigo 40, § 1º, inciso II, da CF/88 com a redação alterada pela EC nº 88/2015 - está condicionada à
+edição de lei complementar. Assim sendo, a aposentadoria
+compulsória da impetrante aos 70 (setenta) anos de idade era
+medida que se impunha ante a ordem jurídica vigente ao tempo
+da aposentação (Súmula nº 349 do STF), antes, portanto, do
+advento da referida norma legal complementar.
+Nesse sentido, vide precedentes:
+’Agravo regimental em recurso extraordinário. 2.
+Direito Administrativo. 3. Tabelião. Serventia extrajudicial.
+Exercício de serviço público por delegação. Caráter
+privado. Sujeição ao Regime Geral de Previdência Social
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613477.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 19
+
+MS 34407 AGR / DF
+(RGPS). Precedentes. 4. A aposentadoria rege-se pela lei
+vigente ao tempo do preenchimento de todos os
+requisitos conducentes à inatividade. Súmula 359. 5.
+Ausência de argumentos capazes de infirmar a decisão
+agravada. 6. Agravo regimental a que se nega provimento’
+(RE nº 908337 AgR, Relator Ministro Gilmar Mendes,
+Segunda Turma, Dje de 7/6/17 – grifei).
+’DIREITO ADMINISTRATIVO. EMBARGOS DE
+DECLARAÇÃO
+RECEBIDOS
+COMO
+AGRAVO
+REGIMENTAL EM AGRAVO DE INSTRUMENTO.
+SERVIDOR PÚBLICO MUNICIPAL. APOSENTADORIA.
+ACRESCIMO DE 20%. CONSTITUCIONALIDADE.
+REQUISITOS PARA A APOSENTADORIA. LEI VIGENTE
+AO TEMPO DO PREENCHIMENTO. SÚMULA 359/STF.
+REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. 1. A
+jurisprudência do Supremo Tribunal Federal é no sentido
+da constitucionalidade do adicional de 20% previsto na
+Lei Orgânica do Município de Vitória. Precedentes. 2. O
+entendimento sumulado por esta Corte é no sentido de
+que a aposentadoria é regida pela lei vigente ao tempo
+em que reunidos os requisitos necessários à obtenção do
+benefício (Súmula/STF 359). 3. Para dissentir da
+conclusão do Tribunal de origem acerca do preenchimento
+dos requisitos para a aposentação, seria necessária a
+análise do conjunto fático-probatório constante dos autos
+(Súmula 279/STF). 4. Embargos de declaração recebidos
+como agravo regimental a que se nega provimento’ (AI nº
+522667 ED, Relator Ministro Roberto Barroso, Primeira
+Turma, DJe de 25/6/15 – grifei).
+Além disso, e reforçando a fundamentação, tenho que a
+mudança de parâmetro etário trazida pela EC nº 88/2015 não
+retira a condição de ato jurídico perfeito da aposentação
+compulsória da ora impetrante, levada a efeito em momento
+pretérito, pelo que a pretensão autoral representaria manifesto
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613477.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 19
+
+MS 34407 AGR / DF
+incentivo à insegurança jurídica.
+A Lei de Introdução às Normas do Direito Brasileiro
+define o conceito de ato jurídico perfeito “o já consumado
+segundo a lei vigente ao tempo em que se efetuou”. Por
+conseguinte, a aposentadoria da impetrante já se revestia da
+qualidade de ato jurídico constitucional perfeito porque foi
+cumprido o requisito constitucional de idade limite antes da
+publicação da Lei Complementar nº 152/2015. Acrescento,
+ainda, que, além de não restar previsto expressamente no bojo
+de tal norma sua retroatividade, não é dado à lei nova retroagir
+em desfavor de ato aperfeiçoado (artigo 5º, inciso XXXVI, da
+CF/88).
+Senão, vejamos:
+‘LEI Nº 8.030/90. EFEITOS RETROATIVOS SOBRE
+CONTRATOS ANTERIORES A SUA EDIÇÃO. ART. 5º,
+XXXVI, DA CF/88. OFENSA DIRETA. 1. O controle de
+constitucionalidade exercido em hipóteses de ofensa ao
+princípio da irretroatividade das leis (art. 5º, XXXVI, da
+CF/88) pressupõe a interpretação da lei ordinária, cuja
+validade se pretende questionar, não havendo que se falar
+em ofensa indireta. 2. O despacho agravado fundou-se em
+jurisprudência consolidada deste Supremo Tribunal, no
+sentido de que, no nosso ordenamento jurídico, a
+legislação infraconstitucional, ainda quando de ordem
+pública, não pode retroagir para alcançar ato jurídico
+perfeito. 3. Agravo regimental a que se nega provimento’
+(RE nº 263161 AgR, Relatora Ministra Ellen Gracie,
+Primeira Turma, DJ de 6/12/02 – grifei).
+’Recurso extraordinário. Incorporação de gratificação
+pelo exercício de cargos comissionados. - Falta de
+prequestionamento das questões relativas aos artigos 5º,
+II, LXIX, 37, ’caput’, e 169 da Constituição (súmulas 282 e
+356). - Por outro lado, no tocante à alegação de ofensa a
+ato jurídico perfeito e a direito adquirido, essa violação
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613477.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 19
+
+MS 34407 AGR / DF
+inexiste, como demonstrou o eminente Ministro
+Sepúlveda Pertence ao indeferir, em caso análogo ao
+presente, o pedido de suspensão de segurança nº 1.033,
+’verbis’: ’De logo, a situação não parece ser de retroação,
+mas de aplicação imediata; de outro lado, quando se
+entendesse ser o caso da chamada ’retroatividade mínima’
+(Matos Peixoto, ‘apud’ Moreira Alves, ADIN 493, RTJ
+143/724, 744), o certo é que a proibição constitucional da
+lei retroativa não é absoluta, mas restrita às hipóteses de
+prejuízo ao direito adquirido, ao ato jurídico perfeito e à
+coisa julgada (Pontes de Miranda, Comentários à
+Constituição de 1946, 1953, IV/126), do que,
+evidentemente, não se trata. Até porque, de regra, não os
+pode invocar contra o particular o Estado de que dimana a
+lei nova’. Recurso extraordinário não conhecido” (RE nº
+244931/PA, Relator Ministro Moreira Alves, Primeira
+Turma, DJ de 9/8/02 – grifei).
+“PREVIDENCIA SOCIAL. APOSENTADORIA POR
+TEMPO DE SERVIÇO.APOSENTADORIA ESPECIAL. LEI
+6.887/80. INAPLICAÇÃO DE LEI NOVA AS
+SITUAÇÕES PRETERITAS. INAPLICAVEL E A LEI
+NOVA A APOSENTADORIA CONCEDIDA SOB A
+EGIDE DE LEI ANTERIOR, SE OS SEUS BENEFÍCIOS
+NÃO FORAM EXPRESSAMENTE ESTENDIDOS AS
+SITUAÇÕES PRETERITAS, SOB A GARANTIA
+CONSTITUCIONAL DO ATO JURÍDICO PERFEITO.
+RECURSO
+EXTRAORDINÁRIO
+CONHECIDO
+E
+PROVIDO” (RE nº 110075/SP, Relator Ministro Rafael
+Mayer, Primeira Turma, DJ de 7/11/86 - grifei).
+E, ainda, no que concerne ao enunciado de Súmula nº
+654/STF (‘A garantia da irretroatividade da lei, prevista no art.
+5º, XXXVI, da Constituição da República, não é invocável pela
+entidade estatal que a tenha editado’), transcrevo trecho do
+voto proferido pelo e. Ministro Celso de Mello no RE nº
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613477.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 19
+
+MS 34407 AGR / DF
+567360-ED, que esclareceu o tema com propriedade. Confira-se:
+’Revela-se de todo impertinente a invocação, na
+espécie, desse enunciado sumular. É que os precedentes
+que motivaram a formulação da Súmula 654/STF
+versavam hipóteses em que o próprio diploma legislativo
+previa, de modo expresso, a aplicação retroativa de seus
+efeitos, de cuja incidência, no entanto, o Poder Público que editara a lei - pretendia ver-se excluído, invocando,
+então, de maneira inadequada, o postulado da
+irretroatividade da lei’.
+Por fim, percebo, em verdade, que na espécie busca-se sob a nomenclatura da ‘reversão’ - conferir ao artigo 100 do
+ADCT, incluído pela EC nº 88/2015, a amplitude que se
+pretendeu obstar com o pronunciamento cautelar desta
+Suprema Corte em sede de controle concentrado de
+constitucionalidade, fazendo incidir a regra transitória dos 75
+(setenta e cinco) anos à aposentadoria compulsória de agente
+público não indicado no dispositivo.
+Entretanto, a extensão do rol do artigo 100 do ADCT para
+contemplar a ora impetrante não possui razão de ser, nos
+termos do entendimento firmado - e exposto nos
+esclarecimentos acima expendidos - em sede cautelar, nesse
+Supremo Tribunal (ADI nº 5.316/DF).
+Nesse sentido, cito os seguintes precedentes: Rcl nº
+22980/DF, Relator Ministro Luiz Fux, Dje de 11/5/16; Rcl nº
+22322 MC/DF, Relator Ministro Edson Fachin, Dje de 4/11/15; e
+MS nº 33618 MC/DF, Relator Ministro Celso de Mello, Dje de
+16/6/15.
+Destarte, esteado nos fundamentos acima alinhados, tenho
+que inexiste qualquer ilegalidade ou abusividade na decisão do
+Procurador-Geral da República ora impugnada.
+Ante o exposto, com base nos artigos 205 e 21, § 1º, ambos
+do RISTF, conheço do mandamus e nego-lhe seguimento,
+denegando a ordem” (doc. 40).
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613477.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 19
+
+MS 34407 AGR / DF
+
+Em suas razões recursais, sustenta a agravante que a decisão
+impugnada não merece prevalecer.
+Insiste que possui direito líquido e certo de retornar ao exercício do
+cargo de membro do MPDFT, pois preencheu todos os requisitos
+descritos no inciso II do art. 25 da Lei nº 8.112/1990, bem como ficar
+devidamente comprovado o interesse da Administração para que seja
+provido cargo vago de promotor de justiça.
+Reitera os argumentos de que:
+(i) tendo em vista que não mais subsiste o motivo da aposentadoria
+compulsória aos 70 (setenta) anos para membros do Ministério Público, a
+referência à aposentadoria voluntária no inciso II do art. 25 da Lei nº
+8.112/90 exige interpretação harmônica do texto normativo, com ênfase
+em sua finalidade, para fins de alcançar sua aposentadoria compulsória,
+ocorrida poucos dias antes da edição da LC nº 152/2015;
+(ii) a norma do inciso XXXVI do art. 5º da CF/88 consiste em garantia
+fundamental de proteção do particular contra o Estado - que não pode
+fazer retroagir os efeitos da lei para prejudicar o direito adquirido, o ato
+jurídico perfeito e a coisa julgada;
+(iii) com fundamento na Súmula nº 654/STF, o Estado não pode
+invocar a incidência da norma para prejudicar o direito do particular, sob
+pena de se caracterizar inversão do exercício dos direitos fundamentais; e
+(iv) que a restrição dos efeitos do art. 100 do ADCT, incluído pela EC
+nº 88/2015, aos cargos expressamente indicados na norma, viola o
+princípio constitucional da isonomia, e que a LC nº 152/2015 tem eficácia
+efetivamente declaratória, com efeitos ex tunc, desde a data da edição da
+Emenda Constitucional nº 88/2015.
+Postula a reconsideração da decisão agravada para que seja
+concedida a segurança e, caso não seja esse o entendimento, “seja o tema
+levado ao descortino da Egrégia Turma, como AGRAVO INTERNO ” (fl.
+10 – doc. 40).
+É o relatório.
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613477.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 10 de 19
+
+01/09/2017
+
+SEGUNDA TURMA
+
+AG.REG. EM MANDADO DE SEGURANÇA 34.407 DISTRITO FEDERAL
+VOTO
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Em sede de juízo de admissibilidade, conheço do agravo interno,
+porquanto presentes os pressupostos legais.
+No mérito, entretanto, tenho que a irresignação não merece
+prosperar.
+É que as alegações da agravante, com todo respeito, decorrem de
+mero inconformismo com a decisão adotada por este Relator, já que
+deixou de trazer argumentos suficientes para infirmá-la, limitando-se a
+reiterar as afirmações postuladas na inicial.
+Conforme relatado, a questão encontra-se pautada na possibilidade
+de reversão de aposentadoria de membro septuagenário do Ministério
+Público da União determinada, compulsoriamente, antes do advento da
+Lei Complementar nº 152/2015 – que prevê aposentadoria aos 75 (setenta
+e cinco) anos para servidores públicos no âmbito da União, dos Estados,
+do Distrito Federal e dos Municípios.
+As questões que norteiam a presente controvérsia já foram
+exaustivamente tratadas e repelidas em julgamentos anteriores,
+demonstrando que a irresignação é clara manifestação de inconformismo
+com o julgado.
+Como já ressaltado expressamente no provimento monocrático que
+se pretende reformar, esta Suprema Corte, em sede de controle abstrato
+de constitucionalidade do art. 2º da Emenda Constitucional nº 88/2015,
+afastou o fundamento da violação ao princípio da isonomia pelo art. 100
+do ADCT e proferiu decisão cautelar afirmando que
+“ (…) [a] unidade do Poder Judiciário nacional e o
+princípio da isonomia são compatíveis com a existência de
+regra de aposentadoria específica para integrantes do
+Supremo Tribunal Federal e dos Tribunais Superiores, cujos
+cargos também apresentam peculiaridades para o seu
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613475.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 11 de 19
+
+MS 34407 AGR / DF
+provimento. 5. É inconstitucional todo pronunciamento
+judicial ou administrativo que afaste, amplie ou reduza a
+literalidade do comando previsto no art. 100 do ADCT e, com
+base em neste fundamento, assegure a qualquer agente
+público o exercício das funções relativas a cargo efetivo ou
+vitalício após ter completado setenta anos de idade” (ADI nº
+5.316/DF-MC, Rel. Min. Luiz Fux, Tribunal Pleno, DJe de
+6/8/2015, grifei).
+
+Transcrevo, ipsis litteris, a redação do art. 100 do ADCT, incluído
+pela Emenda Constitucional nº 88, de 2015:
+“Art. 100. Até que entre em vigor a lei complementar de
+que trata o inciso II do § 1º do art. 40 da Constituição Federal,
+os Ministros do Supremo Tribunal Federal, dos Tribunais
+Superiores e do Tribunal de Contas da União aposentar-se-ão,
+compulsoriamente, aos 75 (setenta e cinco) anos de idade, nas
+condições do art. 52 da Constituição Federal” (grifei).
+
+O deferimento de pedido cautelar por esta Suprema Corte, em sede
+de controle concentrado de constitucionalidade, possui eficácia erga
+omnes e efeito vinculante relativamente aos demais órgãos do Poder
+Judiciário, bem como à Administração Pública. Nesse sentido:
+“Reclamação. 2. Garantia da autoridade de provimento
+cautelar na ADI 1.730/RN. 3. Decisão do Tribunal de Justiça do
+Estado do Rio Grande do Norte em Mandado de Segurança.
+Reenquadramento de servidor aposentado, com efeitos ‘ex
+nunc’. Aposentadoria com proventos correspondentes à
+remuneração de classe imediatamente superior. 4. Decisão que
+restabelece dispositivo cuja vigência encontrava-se suspensa
+por decisão do Supremo Tribunal Federal, em sede de cautelar.
+5. Eficácia ‘erga omnes’ e efeito vinculante de decisão cautelar
+proferida em ação direta de inconstitucionalidade. 6.
+Reclamação julgada procedente” (Rcl nº 2.256/RN, Rel. Min.
+Gilmar mendes, Tribunal Pleno, DJ de 30/4/2004).
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613475.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 12 de 19
+
+MS 34407 AGR / DF
+
+“O provimento cautelar deferido, pelo Supremo Tribunal
+Federal, em sede de ação declaratória de constitucionalidade,
+além de produzir eficácia ‘erga omnes’, reveste-se de efeito
+vinculante, relativamente ao Poder Executivo e aos demais
+órgãos do Poder Judiciário. Precedente” (ADC nº 8/DF-MC, Rel.
+Min. Celso de Mello, Tribunal Pleno, DJ de 4/4/2003).
+
+Logo, o acatamento do pronunciamento do STF, em sede cautelar, na
+ADI nº 5.316/DF é obrigatório.
+Prosseguindo, anteriormente à EC nº 88/2015, vigia a seguinte
+redação do art. 40, § 1º, inciso II, da CF/88:
+“Art. 40. Aos servidores titulares de cargos efetivos da
+União, dos Estados, do Distrito Federal e dos Municípios,
+incluídas suas autarquias e fundações, é assegurado regime de
+previdência de caráter contributivo e solidário, mediante
+contribuição do respectivo ente público, dos servidores ativos e
+inativos e dos pensionistas, observados critérios que preservem
+o equilíbrio financeiro e atuarial e o disposto neste artigo.
+(…)
+II - compulsoriamente, aos setenta anos de idade, com
+proventos proporcionais ao tempo de contribuição”.
+
+Esse dispositivo passou a vincular a magistratura por força da
+modificação implementada pela EC nº 20/98 ao art. 93, inciso VI, da CF/88
+(“a aposentadoria dos magistrados e a pensão de seus dependentes
+observarão o disposto no art. 40”).
+A EC nº 88/2015, nesse tocante, trouxe modificações no dispositivo
+em questão, no qual estabeleceu a aposentadoria compulsória “aos 70
+(setenta) anos de idade, ou aos 75 (setenta e cinco) anos de idade, na
+forma de lei complementar” (grifei).
+Pois bem. A norma legal que regulamentou tal dispositivo dispondo
+sobre a aposentadoria compulsória por idade, com proventos
+proporcionais, no âmbito da União, dos Estados, do Distrito Federal e dos
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613475.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 13 de 19
+
+MS 34407 AGR / DF
+Municípios, dos agentes públicos ali contemplados é a Lei Complementar
+nº 152, de 3 de dezembro de 2015.
+Passando ao mérito propriamente dito, registro que a singularidade
+do instituto da reversão, prevista na Seção VIII do Capítulo I do Título
+II da Lei nº 8.112/90, não se presta para satisfazer a pretensão de retorno
+à atividade de servidores já aposentados compulsoriamente. No rigor
+jurídico, somente fará jus à reversão, no interesse da Administração
+Pública, o servidor inativo que preencher todos os requisitos do art. 25,
+inciso II, da Lei nº 8.112/90, ou seja, que atendam aos ditames do
+dispositivo cumulativamente – com os quais, ressalte-se, não se coaduna
+a aposentação compulsória. Vide o teor da norma:
+“Art. 25. Reversão é o retorno à atividade de servidor
+aposentado: (Redação dada pela Medida Provisória nº 2.22545, de 4.9.2001)
+I - por invalidez, quando junta médica oficial declarar
+insubsistentes os motivos da aposentadoria; ou (Incluído pela
+Medida Provisória nº 2.225-45, de 4.9.2001)
+II - no interesse da administração, desde que: (Incluído
+pela Medida Provisória nº 2.225-45, de 4.9.2001)
+a) tenha solicitado a reversão; (Incluído pela Medida
+Provisória nº 2.225-45, de 4.9.2001)
+b) a aposentadoria tenha sido voluntária; (Incluído pela
+Medida Provisória nº 2.225-45, de 4.9.2001)
+c) estável quando na atividade; (Incluído pela Medida
+Provisória nº 2.225-45, de 4.9.2001)
+d) a aposentadoria tenha ocorrido nos cinco anos
+anteriores à solicitação; (Incluído pela Medida Provisória nº
+2.225-45, de 4.9.2001)
+e) haja cargo vago”.
+
+Portanto, não há, na lei nº 8.112/90, como argumenta a impetrante,
+previsão legal que autorize o atendimento do pleito.
+Friso também que a jurisprudência dessa Suprema Corte é assente
+no sentido de que a aposentadoria é regida pela legislação vigente ao
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613475.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 14 de 19
+
+MS 34407 AGR / DF
+tempo em que reunidos os requisitos necessários à obtenção do
+benefício.
+In casu, o ato concessivo de aposentação da impetrante data de
+24/11/15, sendo que a LC nº 152 somente foi publicada em 3/12/2015, e a
+eficácia do art. 40, § 1º, inciso II, da CF/88 - com a redação alterada pela
+EC nº 88/2015 - está condicionada à edição de lei complementar. Assim
+sendo, a aposentadoria compulsória da impetrante aos 70 (setenta) anos
+de idade era medida que se impunha, ante a ordem jurídica vigente ao
+tempo da aposentação (Súmula nº 349 do STF) - antes, portanto, do
+advento da referida norma legal complementar.
+Nesse sentido, vide precedentes:
+“Agravo regimental em recurso extraordinário. 2. Direito
+Administrativo. 3. Tabelião. Serventia extrajudicial. Exercício de
+serviço público por delegação. Caráter privado. Sujeição ao
+Regime Geral de Previdência Social (RGPS). Precedentes. 4. A
+aposentadoria rege-se pela lei vigente ao tempo do
+preenchimento de todos os requisitos conducentes à
+inatividade. Súmula 359. 5. Ausência de argumentos capazes
+de infirmar a decisão agravada. 6. Agravo regimental a que se
+nega provimento” (RE nº 908337 AgR, Relator Ministro Gilmar
+Mendes, Segunda Turma, DJe de 7/6/17 – grifei).
+“DIREITO
+ADMINISTRATIVO.
+EMBARGOS
+DE
+DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL
+EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO
+MUNICIPAL. APOSENTADORIA. ACRESCIMO DE 20%.
+CONSTITUCIONALIDADE.
+REQUISITOS
+PARA
+A
+APOSENTADORIA. LEI VIGENTE AO TEMPO DO
+PREENCHIMENTO. SÚMULA 359/STF. REEXAME DE FATOS
+E PROVAS. SÚMULA 279/STF. 1. A jurisprudência do Supremo
+Tribunal Federal é no sentido da constitucionalidade do
+adicional de 20% previsto na Lei Orgânica do Município de
+Vitória. Precedentes. 2. O entendimento sumulado por esta
+Corte é no sentido de que a aposentadoria é regida pela lei
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613475.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 15 de 19
+
+MS 34407 AGR / DF
+vigente ao tempo em que reunidos os requisitos necessários à
+obtenção do benefício (Súmula/STF 359). 3. Para dissentir da
+conclusão do Tribunal de origem acerca do preenchimento dos
+requisitos para a aposentação, seria necessária a análise do
+conjunto fático-probatório constante dos autos (Súmula
+279/STF). 4. Embargos de declaração recebidos como agravo
+regimental a que se nega provimento” (AI nº 522667 ED,
+Relator o Ministro Roberto Barroso, Primeira Turma, DJe de
+25/6/15 – grifei).
+
+Além disso, e reforçando a fundamentação, tenho que a mudança de
+parâmetro etário trazida pela EC nº 88/2015 não retira a condição de ato
+jurídico perfeito da aposentação compulsória da ora impetrante, levada
+a efeito em momento pretérito, pelo que a pretensão autoral
+representaria manifesto incentivo à insegurança jurídica.
+A Lei de Introdução às Normas do Direito Brasileiro define o
+conceito de ato jurídico perfeito “o já consumado segundo a lei vigente ao
+tempo em que se efetuou”. Por conseguinte, a aposentadoria da
+impetrante já se revestia da qualidade de ato jurídico constitucional
+perfeito porque foi cumprido o requisito constitucional de idade limite
+antes da publicação da Lei Complementar nº 152/2015. Acrescento, ainda,
+que, além de não restar previsto expressamente no bojo de tal norma sua
+retroatividade, não é dado à lei nova retroagir em desfavor de ato
+aperfeiçoado (art. 5º, inciso XXXVI, da CF/88).
+Vejamos:
+“LEI Nº 8.030/90. EFEITOS RETROATIVOS SOBRE
+CONTRATOS ANTERIORES A SUA EDIÇÃO. ART. 5º, XXXVI,
+DA CF/88. OFENSA DIRETA. 1. O controle de
+constitucionalidade exercido em hipóteses de ofensa ao
+princípio da irretroatividade das leis (art. 5º, XXXVI, da CF/88)
+pressupõe a interpretação da lei ordinária, cuja validade se
+pretende questionar, não havendo que se falar em ofensa
+indireta. 2. O despacho agravado fundou-se em jurisprudência
+consolidada deste Supremo Tribunal, no sentido de que, no
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613475.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 16 de 19
+
+MS 34407 AGR / DF
+nosso ordenamento jurídico, a legislação infraconstitucional,
+ainda quando de ordem pública, não pode retroagir para
+alcançar ato jurídico perfeito. 3. Agravo regimental a que se
+nega provimento” (RE nº 263161 AgR, Relatora Ministra Ellen
+Gracie, Primeira Turma, DJ de 6/12/02 – grifei).
+“Recurso extraordinário. Incorporação de gratificação pelo
+exercício
+de
+cargos
+comissionados.
+Falta
+de
+prequestionamento das questões relativas aos artigos 5º, II,
+LXIX, 37, "caput", e 169 da Constituição (súmulas 282 e 356). Por outro lado, no tocante à alegação de ofensa a ato jurídico
+perfeito e a direito adquirido, essa violação inexiste, como
+demonstrou o eminente Ministro Sepúlveda Pertence ao
+indeferir, em caso análogo ao presente, o pedido de suspensão
+de segurança nº 1.033, "verbis": "De logo, a situação não parece
+ser de retroação, mas de aplicação imediata; de outro lado,
+quando se entendesse ser o caso da chamada "retroatividade
+mínima" (Matos Peixoto, "apud" Moreira Alves, ADIN 493, RTJ
+143/724, 744), o certo é que a proibição constitucional da lei
+retroativa não é absoluta, mas restrita às hipóteses de prejuízo
+ao direito adquirido, ao ato jurídico perfeito e à coisa julgada
+(Pontes de Miranda, Comentários à Constituição de 1946,
+1953, IV/126), do que, evidentemente, não se trata. Até porque,
+de regra, não os pode invocar contra o particular o Estado de
+que dimana a lei nova". Recurso extraordinário não conhecido”
+(RE nº 244931/PA, Relator o Ministro Moreira Alves, Primeira
+Turma, DJ de 9/8/02 – grifei).
+“PREVIDENCIA SOCIAL. APOSENTADORIA POR
+TEMPO DE SERVIÇO.APOSENTADORIA ESPECIAL. LEI
+6.887/80. INAPLICAÇÃO DE LEI NOVA AS SITUAÇÕES
+PRETERITAS. INAPLICAVEL E A LEI NOVA A
+APOSENTADORIA CONCEDIDA SOB A EGIDE DE LEI
+ANTERIOR, SE OS SEUS BENEFÍCIOS NÃO FORAM
+EXPRESSAMENTE
+ESTENDIDOS
+AS
+SITUAÇÕES
+PRETERITAS, SOB A GARANTIA CONSTITUCIONAL DO
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613475.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 17 de 19
+
+MS 34407 AGR / DF
+ATO JURÍDICO PERFEITO. RECURSO EXTRAORDINÁRIO
+CONHECIDO E PROVIDO” (RE nº 110075/SP, Relator o
+Ministro Rafael Mayer, Primeira Turma, DJ de 7/11/86 - grifei).
+
+E, ainda, no que concerne ao enunciado de Súmula nº 654/STF (“[a]
+garantia da irretroatividade da lei, prevista no art. 5º, XXXVI, da
+Constituição da República, não é invocável pela entidade estatal que a
+tenha editado”), transcrevo trecho do voto proferido pelo e. Ministro
+Celso de Mello no RE nº 567360-ED, que esclareceu o tema com
+propriedade. Confira-se:
+"Revela-se de todo impertinente a invocação, na espécie,
+desse enunciado sumular. É que os precedentes que motivaram
+a formulação da Súmula 654/STF versavam hipóteses em que o
+próprio diploma legislativo previa, de modo expresso, a
+aplicação retroativa de seus efeitos, de cuja incidência, no
+entanto, o Poder Público - que editara a lei - pretendia ver-se
+excluído, invocando, então, de maneira inadequada, o
+postulado da irretroatividade da lei.”
+
+Por fim, percebo, em verdade, que, na espécie, busca-se - sob a
+nomenclatura da ‘reversão’ - conferir ao art. 100 do ADCT, incluído pela
+EC nº 88/2015, a amplitude que se pretendeu obstar com o
+pronunciamento cautelar desta Suprema Corte em sede de controle
+concentrado de constitucionalidade, fazendo incidir a regra transitória
+dos 75 (setenta e cinco) anos à aposentadoria compulsória de agente
+público não indicado no dispositivo.
+Entretanto, a extensão do rol do art. 100 do ADCT para contemplar
+a ora impetrante não possui razão de ser, nos termos do entendimento
+firmado - e exposto nos esclarecimentos acima expendidos - em sede
+cautelar, nesse Supremo Tribunal (ADI nº 5.316/DF).
+Nesse sentido, cito os seguintes precedentes: Rcl nº 22.980/DF,
+Relator o Ministro Luiz Fux, DJe de 11/5/16; Rcl nº 22.322/DF-MC, Relator
+o Ministro Edson Fachin, DJe de 4/11/15; e MS nº 33.618/DF-MC, Relator
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613475.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 18 de 19
+
+MS 34407 AGR / DF
+o Ministro Celso de Mello, DJe de 16/6/15.
+Tenho, portanto, que a decisão objurgada se encontra devidamente
+fundamentada, ainda que divirja dos interesses da agravante, sendo certo
+que os argumentos ora apresentados não têm o condão de reformá-la.
+Pelo exposto, conheço do agravo interno e a ele nego provimento.
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 13613475.
+
+Supremo Tribunal Federal
+Extrato de Ata - 01/09/2017
+
+Inteiro Teor do Acórdão - Página 19 de 19
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. EM MANDADO DE SEGURANÇA 34.407
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. DIAS TOFFOLI
+AGTE.(S) : ELIANE GAZOLA DE SOUZA
+ADV.(A/S) : MARCELO ANTONIO RODRIGUES VIEGAS (18503/DF) E OUTRO(A/
+S)
+AGDO.(A/S) : PROCURADOR-GERAL DA REPÚBLICA
+ADV.(A/S) : SEM REPRESENTAÇÃO NOS AUTOS
+INTDO.(A/S) : UNIÃO
+ADV.(A/S) : ADVOGADO-GERAL DA UNIÃO
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. 2ª Turma, Sessão
+Virtual de 25 a 31.8.2017.
+Composição: Ministros Edson Fachin (Presidente), Celso de
+Mello, Gilmar Mendes, Ricardo Lewandowski e Dias Toffoli.
+Disponibilizou processos para esta sessão o Ministro Alexandre
+de Moraes, não tendo participado do julgamento desses feitos o
+Ministro Edson Fachin por suceder, na Segunda Turma, o Ministro
+Teori Zavascki.
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 13579677
