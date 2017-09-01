@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – AUSÊNCIA DE PREJUÍZO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Vara Plantão de Santos/SP, no processo nº 0000271-60.2017.8.26.0536, converteu a prisão em flagrante do paciente, ocorrida no dia 1º de julho de 2017, em preventiva, ante a suposta prática da infração prevista no artigo 16, cabeça (posse ilegal de arma de fogo de uso restrito), do Estatuto do Desarmamento. Consignou necessária a custódia para garantia da ordem pública e da instrução processual. Frisou existirem indícios de autoria e materialidade de crime grave. Destacou que o paciente, se colocado em liberdade, certamente se furtaria à aplicação da lei penal.
+    Na sequência, o Juízo da Quarta Vara Criminal da Comarca de Santos/SP não acolheu pedido de revogação da constrição, frisando permanecerem os motivos ensejadores. Sublinhou tratar-se de portador de maus antecedentes, mencionando condenação por tráfico de drogas.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 407.255/SP. A Ministra Presidente indeferiu a liminar, aludindo ao verbete nº 691 da Súmula do Supremo.
+    O impetrante aponta constrangimento ilegal decorrente da inobservância dos requisitos autorizadores da preventiva. Afirma não se ter justificado a inviabilidade de medida cautelar menos gravosa. Aponta a insubsistência da fundamentação do ato mediante o qual convertido o flagrante, dizendo-o lastreado apenas nos indícios de autoria e na materialidade do crime. Realça as condições pessoais favoráveis – residência fixa e vínculo com o distrito da culpa. Salienta a excepcionalidade da segregação, evocando precedentes dos Tribunais Superiores.
+    Requer, no campo precário e efêmero, seja afastada a preventiva, com expedição de alvará de soltura. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 26 de agosto de 2017, revelou haver audiência de instrução e julgamento designada para o dia 9 de outubro de 2017.
+    A fase é de apreciação da liminar.
+    2. O Juízo considerou a imputação. Inexiste a prisão automática tendo em conta o delito supostamente cometido, levando à inversão da ordem do processo-crime, que direciona, presente o princípio da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. A preservação da ordem pública fica vinculada à observância da legislação em vigor. Há de revelar-se dado concreto, individualizado, a demonstrar a indispensabilidade da cautelar. Idêntica óptica deve ser adotada no tocante à conveniência da instrução processual. O combate à delinquência não há de fazer-se a ferro e fogo, mas mediante política criminal normativa. A preventiva deve ser balizada no artigo 312 do Código de Processo Penal. Enfatizou a presença de indícios de autoria e materialidade para assentar o risco de o paciente furtar-se à aplicação da lei penal. Partiu da capacidade intuitiva, olvidando que a presunção seria de postura digna, ante o fato de estar submetido aos holofotes da Justiça. Aludiu à existência de maus antecedentes, sem apontar o trânsito em julgado de condenação anterior. Tem-se a insubsistência das premissas lançadas.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da preventiva retratada no processo nº 0000271-60.2017.8.26.0536, da Quarta Vara Criminal da Comarca de Santos/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. O curso deste habeas não prejudica o de nº 407.255/SP, em trâmite no Superior Tribunal de Justiça. Com as homenagens merecidas, remetam cópia desta decisão ao relator, ministro Ribeiro Dantas.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 1º de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
