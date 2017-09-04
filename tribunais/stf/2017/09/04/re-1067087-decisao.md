@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – FGTS – CONTRATO DE TRABALHO FIRMADO COM A ADMINISTRAÇÃO PÚBLICA DECLARADO NULO – AUSÊNCIA DE PRÉVIA APROVAÇÃO EM CONCURSO PÚBLICO – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado da Paraíba confirmou o entendimento do Juízo quanto à procedência do pedido de pagamento de verbas rescisórias e dos depósitos relativos ao FGTS, considerada a nulidade do contrato temporário realizado com a Administração Pública. No extraordinário, o recorrente afirma a violação do artigo 37, incisos II e IX e § 2º, da Constituição Federal. Aduz ser devido apenas o pagamento do saldo de salários.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão atacada mediante o extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    Quanto às parcelas rescisórias, diz o recorrente:
+    Por fim, diga-se que o direito às férias só surge após completado o período aquisitivo de 12 (doze) meses. O contrato temporário lícito, no Estado da Paraíba, tem, por força da lei estadual nº 5391/91, duração limitada ao período de seus meses, prorrogável por mais seis. Estando, pois, findo o prazo de validade no lapso máximo de um ano, não teria sentido conceder férias, após a extinção do contrato. De outra banda, extrapolando o prazo de um ano, passa a ser ilegal, portanto, nulo de pleno direito, sendo, também, incabível pagamento de quaisquer verbas, a exceção do saldo de salários.
+    Quanto ao saldo de salários dos meses de fevereiro a maio de 2010, tem-se que o promovido foi afastado no mês de março de 2010, sendo, assim, descabido o pagamento de salários após esse período.
+    No particular, somente pela análise da legislação local e do quadro fático do processo seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    Em relação aos depósitos do FGTS, colho do acórdão recorrido o seguinte trecho:
+    Quanto ao mérito, fundamental destacar que a casuística em disceptação transita em redor do suposto direito do autor, contratado temporariamente pelo Estado, aos depósitos relativos ao FGTS do período anterior aos cinco anos que antecederam o ajuizamento do litígio.
+    Exsurge do caderno processual, em verdade, que a natureza do vinculo que o autor mantinha com o Estado, a época das verbas que ora pretende receber, era de prestador de serviço, sendo o contrato manifestamente nulo, eis que firmado independentemente de prévia aprovação em concurso publico e renovado sucessivamente por mais de 6 (seis) anos.
+    A propósito, muito embora o promovente tenha sido contratado sem a realização de concurso publico e que a contratação temporária tenha sido desnaturada pela permanência do vinculo por prazo acentuado, creio que a pretensão recursal ventilada no apelo do réu não merece qualquer guarida, notadamente porque o Colendo STJ, em sede de julgamento de recursos repetitivos, já assentou o cabimento do FGTS nos casos de contratos temporários.
+    À toda evidência, a decisão proferida está em consonância com a conclusão do Supremo no julgamento do recurso extraordinário nº 596.478/RR, mediante a qual restou reconhecido o direito aos depósitos do Fundo de Garantia do Tempo de Serviço FGTS aos servidores que tiveram o contrato de trabalho com a Administração Pública declarado nulo em razão da inobservância da regra constitucional.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 4 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
