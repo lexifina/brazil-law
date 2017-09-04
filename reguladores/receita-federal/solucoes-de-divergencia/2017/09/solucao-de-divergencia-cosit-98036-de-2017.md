@@ -1,0 +1,5 @@
+Solução de Divergência Cosit nº 98036, de 30 de agosto de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Reforma de ofício a Solução de Consulta SRRF/6ªRF/Diana nº 33, de 3 de setembro de 2013. Código NCM: 8541.40.21 Dispositivo composto por diodos emissores de luz (LED), próprios para montagem em superfície (SMD - Surface Mounted Device), montados em placas de circuito impresso circulares com diâmetro de 4,70 cm ou 7,40 cm ou em placas de circuito impresso retangulares de 2,5 cm x 27 cm ou de 1 cm x 44 cm, empregado como componente de lâmpadas de LED e luminárias de LED.
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 9 do Capítulo 85 e texto da posição 85.41), RGI 6 (texto da subposição 8541.40) e na Regra Geral Complementar RGC 1 (textos do item 8541.40.2 e do subitem 8541.40.21) da Nomenclatura Comum do Mercosul (NCM) constante na Tarifa Externa Comum (TEC), aprovada pela Resolução Camex nº 125, de 2016, e na Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto nº 8.950, de 2016.
+[arquivo anexo: SD Cosit nº 98036-2017.pdf]
