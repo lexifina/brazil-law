@@ -1,0 +1,16 @@
+DECISÃO: Verifico que os presentes recursos de agravo não impugnaram os fundamentos em que se apoiam os atos decisórios ora questionados.
+    É que as partes agravantes, ao insurgirem-se contra as decisões que não admitiram os apelos extremos por elas interpostos, deixaram, de um lado, o Instituto de Aposentadoria e Pensão dos Servidores Públicos Municipais de Garça de ilidir o único fundamento em que se assentou o ato decisório proferido pela Presidência do Tribunal “a quo”, abstendo-se de impugnar a incidência do óbice previsto na Súmula 284/STF, e, de outro lado, o Município de Garça, de ilidir o não cabimento do apelo extremo quanto à alínea “c” do inciso III do art. 102 da Constituição Federal.
+    A ausência de impugnação abrangente de todos os fundamentos nos quais se assenta a decisão recorrida significa que as partes agravantes, ao assim procederem, descumpriram típica obrigação processual que lhes incumbia atender, pois, como se sabe, impõe-se ao recorrente afastar, pontualmente, cada uma das razões invocadas como suporte do ato decisório recorrido (AI 238.454-AgR/SC, Rel. Min. CELSO DE MELLO, v.g.).
+    Não constitui demasia assinalar que o descumprimento desse dever jurídico – ausência de impugnação de cada um dos fundamentos em que se apoia o ato decisório agravado – conduz, nos termos da orientação jurisprudencial firmada por esta Suprema Corte, ao reconhecimento da inadmissibilidade do agravo interposto (RTJ 126/864 – RTJ 133/485 – RTJ 145/940 – RTJ 146/320):
+    “RECURSO EXTRAORDINÁRIO – DECISÃO QUE NEGA SEGUIMENTO AO APELO EXTREMO – INTERPOSIÇÃO DE AGRAVO QUE NÃO IMPUGNA AS RAZÕES DESSE ATO DECISÓRIO (…).
+    – Impõe-se, à parte recorrente, quando da interposição do agravo de instrumento, a obrigação processual de impugnar  todas as razões em que se assentou a decisão veiculadora do juízo negativo de admissibilidade do recurso extraordinário. Precedentes.”
+    (AI 428.795-AgR/RJ, Rel. Min. CELSO DE MELLO)
+    Os precedentes que venho de referir guardam inteira pertinência com a legislação processual que se achava em vigor no momento em que ocorrida a publicação do ato ora questionado (“tempus regit actum”), que impunha à parte recorrente o dever processual da impugnação especificada das deliberações judiciais, sob pena de não conhecimento do recurso interposto.
+    Não se desconhece que o ordenamento normativo, informado pela teoria geral dos recursos, erige à condição de pressuposto essencial (e, portanto, indispensável) inerente às modalidades recursais a obrigação, que é indeclinável, da parte recorrente de expor as razões de fato (quando cabíveis) e de direito viabilizadoras da reforma ou da invalidação da decisão recorrida.
+    É tão significativo esse específico pressuposto recursal de índole objetiva que, desatendido pela parte recorrente, produz, como inevitável efeito consequencial, a própria incognoscibilidade do meio recursal utilizado.
+    Sendo assim, e em face das razões expostas, não conheço dos presentes agravos, por não impugnados, especificadamente, os fundamentos das decisões agravadas (CPC, art. 932, III, “in fine”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 04 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
