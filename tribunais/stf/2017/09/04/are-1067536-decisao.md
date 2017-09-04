@@ -1,0 +1,14 @@
+Decisão
+    Trata-se de agravo de decisão que inadmitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 832, Vol. 2):
+    HONORÁRIOS PROFISSIONAIS LIBERAIS — AÇÃO DE ARBITRAMENTO C/C COBRANÇA - Contrato verbal - Serviços de advocacia efetivamente prestados durante dez anos — Prescrição inocorrente - Réu que não fez prova do pagamento — Valor arbitrado de acordo com o estabelecido na perícia — Manutenção - Honorários definidos de acordo com os parâmetros do art. 22, § 20, da Lei n° 8.906/94 - Ação parcialmente procedente — Recurso desprovido.
+     Nas razões recursais iniciais, a parte recorrente alega que o acórdão recorrido contraria a Constituição Federal.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    Observe-se, ainda, que, mesmo a Corte já tendo reconhecido, em processo distinto, a transcendência geral da matéria discutida, o recorrente não se exime de apresentar, formal e motivadamente, a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), desde que a intimação da decisão que se pretende impugnar tenha ocorrido a partir de 3 de maio de 2007, data da publicação da Emenda Regimental 21, de 30 de abril de 2007 (Plenário, AI 664.567-QO, Relator: MIN. SEPÚLVEDA PERTENCE, Tribunal Pleno, DJe de 6/9/2007), como na presente hipótese.
+    Ademais, ante a ausência de indicação da norma constitucional que teria sido violada pelo acórdão recorrido, impõe-se a aplicação, por analogia, do óbice da Súmula 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia), em face da inexistência de paradigma expresso. Nesse sentido: AI 176.344-AgR (Rel. Min. MAURÍCIO CORRÊA, Tribunal Pleno, DJE de 19/4/1996).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Publique-se.
+    Brasília, 4 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
