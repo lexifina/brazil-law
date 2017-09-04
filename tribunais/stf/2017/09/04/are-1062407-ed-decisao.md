@@ -1,0 +1,13 @@
+Decisão:
+    Trata-se de embargos de declaração opostos contra decisão monocrática que negou seguimento ao recurso, sob o fundamento de que a questão debatida se mostra insuficiente para apresentar transcendência e relevância constitucional.
+    A parte embargante sustenta que a decisão é omissa em sua fundamentação, na medida em que não foram analisados os argumentos expostos nas razões do recurso extraordinário capazes de demonstrar a repercussão geral da matéria.
+    Os embargos não podem ser providos, tendo em vista a inexistência de obscuridade, contradição, omissão ou erro material na decisão embargada, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015.
+    O recurso não traz nenhum subsídio apto a alterar esses fundamentos, razão pela qual deve ser mantido o entendimento da decisão embargada. De fato, é ônus da recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional discutida no recurso extraordinário. A descrição do caso não foi capaz de explicitar a sua relevância e transcendência.
+    A simples descrição do instituto da repercussão geral não é suficiente para demonstrar as razões por que a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa (RE 596.579-AgR/MG, Rel. Min. Ricardo Lewandowski).
+    Dessa forma, com fundamento em orientação consolidada pela Jurisprudência do STF, não há como acolher o pedido de reforma da decisão que negou seguimento ao recurso. Nesse sentido: RE 807.143-AgR, Rel. Min. Teori Zavascki; ARE 691.595-AgR, Rel. Min. Ricardo Lewandowski; ARE 696.347-AgR-segundo, Rel.ª Min.ª Cármen Lúcia; ARE 696.263-AgR, Rel. Min. Luiz Fux; RE 762.114-AgR, Rel.ª Min.ª Rosa Weber, AI 717.821-AgR, Rel. Min. Joaquim Barbosa; e ARE 858.726-AgR, sob a minha relatoria.
+    Ademais, o Tribunal de origem assentou que “restou demonstrado nos autos que não há qualquer irregularidade ou ilegalidade no ato de imposição de multa pela Administração Pública, ante a obrigação legal da apelante em requerer ao final da obra o certificado de sua conclusão inerente ao contrato de permissão de uso”. Tal fato só pode ser verificado, caso a caso, pelo Tribunal de origem, uma vez que não cabe ao Supremo Tribunal Federal o reexame de fatos e prova e a análise de legislação infraconstitucional pertinente (Súmulas 279 e 280/STF).
+    Diante do exposto, com base no art. 1.024, § 2º, do CPC/2015, rejeito os embargos.
+    Publique-se.
+          Brasília, 04 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
