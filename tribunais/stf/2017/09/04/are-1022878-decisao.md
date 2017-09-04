@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO – FUNDEB. PRAZO PARA AJUSTE NA COMPLEMENTAÇÃO. LEI 11.494/2007. DECRETO REGULAMENTAR 6.257/2007. PORTARIA 1.462/2008 DO MINISTRO DE ESTADO DA EDUCAÇÃO. VALOR MÍNIMO NACIONAL POR ALUNO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. AGRAVO DESPROVIDO.
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma da decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL. VALOR MÍNIMO NACIONAL POR ALUNO. COMPETÊNCIA DO MINISTRO DA EDUCAÇÃO.
+    1. Não existe omissão, contradição ou obscuridade no acórdão recorrido. Não há que se falar em incompetência do Ministro da Educação para editar a portaria impugnada, ‘pois compete a sua ‘pasta’ (órgão do Poder Executivo Federal) publicar (art. 15 da Lei n. 11.494/2007) a estimativa da receita total do FUNDEB, do valor da complementação da União, do VMMA, bem como (art. 30) monitorar a aplicação dos recursos aplicados e divulgar orientações sobre a sua operalização.’ (AC 2009.40.00.001760-3/PI, Rel. Desembargador Federal Luciano Tolentino Amaral, Sétima Turma, e-DJF1 p. 1122 de 18/05/2012)
+    2. Como se vê, a decisão agravada adotou precedente da 7ª Turma afirmando que ‘Não há que se falar em incompetência do Ministro da Educação para editar a portaria impugnada...’. Além disso, tendo a Lei 11.494/2007 estabelecido que ‘o Poder Executivo federal publicará... o valor anual mínimo por aluno definido nacionalmente’ (art. 15/IV), o Decreto Regulamentar 6.257/2007 não pode dispor de modo contrário dizendo que essa atribuição será realizada em ‘aLto conjunto’ dos Ministérios da Educação e da Fazenda (art. 7º/III).
+    3. Embargos declaratórios do autor recebidos como agravo regimental a que se negou provimento.”
+    Nas razões de apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 37 da Constituição Federal, porquanto o Tribunal de origem teria interpretado a expressão “no primeiro quadrimestre”, contida no artigo 6º, § 2º, da Lei 11.494/2007, como “um lapso mínimo” e não um lapso temporal fixo e objetivo para a realização de ajustes na complementação dos repasses destinados a compor o FUNDEB.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontraria óbice na Súmula 636 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A matéria relativa ao prazo para ajuste na complementação do FUNDEB, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie (Lei 11.494/2007), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO - FUNDEB. COMPLEMENTAÇÃO DE RECURSOS. REPASSE PELA UNIÃO: ANÁLISE QUANTO AO PRAZO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 924.230-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 25/4/2016)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 4 de setembro de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
