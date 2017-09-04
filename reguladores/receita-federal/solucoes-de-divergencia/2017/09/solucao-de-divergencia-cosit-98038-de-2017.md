@@ -1,0 +1,3 @@
+Solução de Divergência Cosit nº 98038, de 31 de agosto de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Reforma de ofício a Solução de Consulta Diana/SRRF/8ª RF nº 1, de 23 de janeiro de 2004 Código NCM: 8413.20.00 Mercadoria: Bomba manual para líquidos viscosos (por exemplo, gel vedante para pneumáticos), de pistão, com divisores na haste para dosagem de 50 g ou seus múltiplos até 250 g de vazão por curso completo do pistão, dotada de mangueira com bico de aplicação, comercialmente denominada “Bomba dosadora manual” DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.13) e RGI 6 (texto da subposição 8413.20) da NCM constante da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016.
+[arquivo anexo: SD Cosit nº 98038-2017.pdf]
