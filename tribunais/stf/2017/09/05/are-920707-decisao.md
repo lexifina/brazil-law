@@ -1,0 +1,24 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça que possui a seguinte ementa (fl. 80, Vol. 6):
+    DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO CONSTITUCIONAL. AGRAVO REGIMENTAL. IRRECORRIBILIDADE DAS DECISÕES DO RELATOR. ART. 6o. DA RESOLUÇÃO STJ 12/2009. RECURSO NÃO CONHECIDO.
+    1. É irrecorrível a decisão do relator que julga improcedente reclamação nos termos do art. 6o. da Resolução STJ 12/2009.
+    2. A 1a. Seção desta Corte Superior firmou entendimento de que o oferecimento de reclamação deve obedecer o prazo previsto no art. 1o., caput, da Resolução 12/2009, não se podendo considerar como termo inicial a decisão que nega seguimento ao Recurso Extraordinário.
+    3. Agravo regimental não conhecido.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta, em síntese, que o julgado ofendeu os artigos 5º, caput, XXXV, XXXVI, 22, I, e 105, I e III, da Carta Magna.
+    A decisão agravada, aplicando precedente desta Corte formado sob a sistemática da repercussão geral (AI 791.292-RG, Rel. Min. Gilmar Mendes, Tema 339), julgou, no ponto, prejudicado o recurso extraordinário, e, quanto às demais questões do apelo extremo entendeu que a violação à Constituição seria meramente reflexa.
+    No agravo, a parte agravante sustenta, em síntese, que há violação direta da Constituição. No mais, repisa as alegações de mérito do recurso extraordinário.
+    É o relatório. Decido.
+    A jurisprudência desta Corte firmou entendimento pela inadmissibilidade de agravo para o Supremo Tribunal Federal com o objetivo de impugnar decisão da instância de origem que aplica a sistemática da repercussão geral, seja inadmitindo o recurso extraordinário, seja sobrestando-o até a formação de precedente pela Suprema Corte, pois, como destacado pelo Decano de nosso Supremo Tribunal Federal, MIN. CELSO DE MELLO, “se revela incognoscível o recurso deduzido contra decisão que, ao aplicar os parágrafos do art. 543-B do CPC/73, faz incidir, no caso concreto, orientação plenária desta Suprema Corte, não importando que se trate de ato decisório que deixa de reconhecer a existência de repercussão geral da controvérsia jurídica ou que se cuide de julgamento de mérito sobre matéria cuja repercussão geral tenha sido anteriormente proclamada”(RE 1023231/PR, DJe de 21/2/2017).
+    Dessa forma, não existe, em relação à decisão do Juízo de origem que aplicou a sistemática da repercussão geral, previsão legal de interposição de recurso (Pleno, AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 994.469, Relatora: Min. CÁRMEN LÚCIA (Presidente), DJe de 14/3/2017).
+    Ademais, o Tribunal de origem, apreciou o cabimento da Reclamação com base na Resolução-STJ nº 12/2009.
+    Assim, trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição indicadas no recurso extraordinário são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. Nesse sentido:
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. AFRONTA AOS PRINCÍPIOS DA LEGALIDADE, DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA. ARE 748.371-RG (REL. MIN. GILMAR MENDES, TEMA 660). CRITÉRIOS DE ADMISSIBILIDADE DE RECLAMAÇÃO DIRIGIDA AO SUPERIOR TRIBUNAL DE JUSTIÇA. QUESTÃO INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (ARE 823.176-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 03/08/2015)
+    DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO PARA O SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. AGRAVO NÃO PROVIDO. 1. Arrostar o entendimento do Superior Tribunal de Justiça, no tocante aos critérios de admissibilidade de Reclamação de sua competência, demandaria a análise da legislação infraconstitucional (Resolução nº 12/2009). Precedentes. 2. Agravo regimental conhecido e não provido. (ARE 895.300-AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe de 02/03/2016)
+    Destaco, por fim, que o Plenário desta Corte, ao apreciar o RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, Tema 181, assentou a ausência de repercussão geral sobre a controvérsia a respeito dos “Pressupostos de admissibilidade de recursos da competência de outros Tribunais.”
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 5 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
