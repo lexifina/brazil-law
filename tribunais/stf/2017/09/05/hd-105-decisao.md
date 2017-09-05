@@ -1,0 +1,17 @@
+HABEAS DATA. ALEGADA NEGATIVA DE EXPEDIÇÃO DE CERTIDÃO DE TEMPO DE SERVIÇO PELO SENADO FEDERAL. DOCUMENTO FORNECIDO PELA AUTORIDADE COATORA. PROPÓSITO DA AÇÃO JÁ ALÇANÇADO. PEDIDO QUE PERDEU O OBJETO. AÇÃO QUE SE JULGA PREJUDICADA.
+    Decisão: Trata-se de habeas data impetrado por Elizabeth Bucker Veronese em face de ato do Senado Federal, atribuído ao Presidente de sua Comissão Diretora, em que se postula, como pedido principal, a determinação de expedição de “Certidão de Tempo de Serviço referente ao período em que a Impetrante laborou junto ao Senado Federal […] no prazo de 5 (cinco) dias, sob pena de multa cumulativa no valor de R$ 1.000,00 (hum mil reais) por dia de atraso, a ser revertida em favor da Impetrante”.
+    Em 3/08/2016, determinei a notificação da autoridade coatora para que prestasse as informações que considerasse necessárias, nos termos do art. 9º da Lei nº 9.504/1997.
+    Em 29/08/2016, o impetrado manifestou-se nos autos, informando que a certidão de tempo de serviço solicitada pela impetrante já se encontrava pronta e à disposição da mesma, fato posteriormente confirmado pela própria impetrante que informou ter tido acesso ao documento almejado.
+    É o relatório. Decido.
+    O habeas data é remédio constitucional destinado a garantir o acesso a informações pessoais constantes de banco de dados de entidades governamentais ou de caráter público relativas à pessoa do requerente, bem como sua retificação. É o que dispõe a Constituição Federal, em seu art. 5º, LXXII, in verbis: “conceder-se-á ‘habeas-data’: a) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público; b) para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo”.
+    Consoante lição de Hely Lopes Meirelles, Arnold Wald e Gilmar Ferreira Mendes, o habeas data
+    “é o meio constitucional posto à disposição de pessoa física ou jurídica para lhe assegurar o conhecimento de registros concernentes ao postulante e constantes de repartições públicas ou particulares acessíveis ao público, para retificação de seus dados pessoais” (MEIRELLES, Hely Lopes; WALD, Arnolo; e MENDES, Gilmar Ferreira. Mandado de Segurança e Ações Constitucionais, 35. ed, São Paulo: Malheiros, p. 339).
+    No âmbito infraconstitucional, tem-se a Lei nº 9.504/97, que dispõe sobre o rito processual do referido remédio constitucional. Seu art. 9º, é assim disposto, verbis:
+    Art. 9° Ao despachar a inicial, o juiz ordenará que se notifique o coator do conteúdo da petição, entregando-lhe a segunda via apresentada pelo impetrante, com as cópias dos documentos, a fim de que, no prazo de dez dias, preste as informações que julgar necessárias.
+    Analisando os autos, verifico que a impetrante já teve acesso à certidão de tempo de serviço que buscava através do presente remédio processual, motivo pelo qual operou-se a perda superveniente de objeto da presente ação. Dessarte, não mais factível o pedido, posto que já realizado, tenho que deve o mesmo ser dado por prejudicado.
+    Ex positis, julgo prejudicado o presente habeas data, por perda superveniente de seu objeto, nos termos do art. 21, IX, do Regimento Interno do STF.
+    Publique-se. Int..
+    Brasília, 5 de setembro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
