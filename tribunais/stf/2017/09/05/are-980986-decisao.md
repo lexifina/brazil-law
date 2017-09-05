@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+    SERVIDOR PÚBLICO ESTADUAL - LICENÇA-PRÊMIO. Conversão em pecúnia. Não retenção do IR sobre os valores devidos, por tratar-se de verbas de natureza indenizatória. Recurso da Fazenda Pública improvido. (e-STJ, fl. 102, Vol. 1)
+    Nas razões recursais, com amparo no art. 102, III, “a”, da Constituição Federal, alegam-se violações aos arts. 153, III e 157, I, da Carta Magna.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do recurso extraordinário.
+    Lado outro, o Tribunal de origem, essencialmente com base na Súmula 136 do Superior Tribunal de Justiça, bem como no conjunto probatório acostado aos autos, reconheceu o direito ao não recolhimento de imposto de renda sobre o valor pago em razão de licença-prêmio não usufruída, uma vez que o pagamento teria adquirido natureza indenizatória.
+    A solução dessa controvérsia, portanto, depende da análise da legislação local que rege a carreira e das provas constantes dos autos, o que é incabível em sede de recurso extraordinário, conforme consubstanciado nas Súmulas 280 (Por ofensa a direito local não cabe recurso extraordinário) e 279 (Para simples reexame de prova não cabe recurso extraordinário), ambas desta Corte.
+    Sobre a matéria, confiram-se os seguintes precedentes monocráticos em casos análogos: ARE 995.351, Rel. Min. MARCO AURÉLIO, DJe de 19/12/2016; e ARE 845.510, Rel. Min. ROBERTO BARROSO, DJe de 4/11/2015.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 05 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
