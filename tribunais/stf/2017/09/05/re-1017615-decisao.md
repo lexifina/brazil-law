@@ -1,0 +1,29 @@
+Decisão
+Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região que possui a seguinte ementa (fl. 56, Vol. 2):
+    DIREITO CIVIL. PROCESSUAL CIVIL. DESNECESSIDADE DE PRODUÇÃO DE PROVA TESTEMUNHAL. CONTRATO DE GAVETA. ADJUDICAÇÃO. USUCAPIÃO. SISTEMA FINANCEIRO DE HABITAÇÃO.
+    I. Apelação de sentença que julgou improcedente pedido de aquisição de imóvel por usucapião, ora em razão da autora não obter êxito em comprovar sua boa-fé e, também, por não haver a posse mansa e pacífica alcançado o interstício de quinze anos, ora por se tratar de bem imóvel vinculado ao Sistema Financeiro de Habitação.
+    II. Tratando-se a questão de direito real e havendo provas suficientes para a solução da lide a oitiva de testemunhas não seria capaz de contraditar as provas documentais constantes dos autos.
+    III. No tocante à alegação de que o preço do imóvel era inferior ao definido como essencial à validade dos negócios jurídicos, conforme estabelecido no art. 108 do Código Civil, não pode prosperar, porquanto o fato do imóvel não precisar ser escriturado não garante ao seu possuidor de que possa infirmar escrituração pública em nome de outro, visto que o referido imóvel estava devidamente registrado em cartório de imóvel, com restrição fiduciária.
+    IV. O domínio do imóvel registrado em cartório não está sujeito a perecimento ante a contrato de compra e venda particular, denominado contrato de gaveta.
+    V. Os imóveis vinculados ao Sistema Financeiro da Habitação, independentemente de serem adquiridos irregularmente por terceiro, não são suscetíveis de usucapião, em razão de sua natureza social e, sobretudo, por serem financiados com recursos públicos e provenientes do FGTS, fundo angariado da economia dos trabalhadores nacionais. (AC 504304, Rel. Des. Fed. Francisco Wildo, DJE em 07/04/2011).
+    VI. Improvimento da apelação.
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, a recorrente sustenta que o julgado ofendeu os artigos 5º, XXIII, 6º, 173, § 1º, e 183, §§ 1º, 2º e 3º, da CF/88.
+    É o relatório. Decido.
+    O Tribunal de origem, ao apreciar a controvérsia, assim se manifestou (fls. 53-54, Vol. 2):
+    No tocante à alegação de que o preço do imóvel era inferior ao definido como essencial à validade dos negócios jurídicos, conforme estabelecido no art. 108 do Código Civil, não pode prosperar, porquanto o fato do imóvel não precisar ser escriturado não garante ao seu possuidor de que possa infirmar escrituração pública em nome de outro, visto que o referido imóvel estava devidamente registrado em cartório de imóvel, com restrição fiduciária.
+    Dessa forma, o domínio do imóvel registrado em cartório não está sujeito a perecimento ante a contrato de compra e venda particular, denominado também de contrato de gaveta.
+    O que se vê no presente caso é a aquisição do imóvel pelo Sr. Evandro de Souza Passos, que o adquiriu mediante leilão formalizado e divulgado pela CEF – Caixa Econômica Federal, em razão de adjudicação do imóvel da mutuaria Marlene da Silva, em virtude de inadimplemento do contrato de mútuo.
+    A autora, por sua vez, adquiriu o imóvel que ainda estava sob o domínio da CEF, porquanto não havia sido transferido para a mutuária Marlene da Silva, em razão do contrato de mútuo ainda não haver sido concluído, o que não o foi, em razão de inadimplemento.
+    Ademais, como frisado na sentença, os imóveis vinculados ao Sistema Financeiro da Habitação, independentemente de serem adquiridos irregularmente por terceiro, não são suscetíveis de usucapião, em razão de sua natureza social e, sobretudo, por serem financiados com recursos públicos e provenientes do FGTS, fundo angariado da economia dos trabalhadores nacionais.
+    Assim, trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição indicadas no recurso extraordinário são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Acrescente-se que a reversão do julgado atacado impõe a revisão das provas, medida inviável nesta sede recursal. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). Nesse sentido:
+    Agravo regimental em recurso extraordinário. 2. Direito Civil. 3. Imóvel financiado pelo Sistema Financeiro de Habitação. Usucapião. Não preenchimento dos requisitos. Necessidade do reexame do conjunto fático-probatório dos autos. Incidência do Enunciado 279 da Súmula do STF. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento. (RE 727.768-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 14/5/2014)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CIVIL. USUCAPIÃO ESPECIAL. IMÓVEL VINCULADO AO SISTEMA FINANCEIRO DA HABITAÇÃO. PREENCHIMENTO DOS REQUISITOS. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. (RE 785.870-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 29/2/2016)
+    Confiram-se, ainda, as seguintes decisões monocráticas: RE 1.002.356/AL, Rel. Min. CELSO DE MELLO, DJe de 15/3/17; RE 1.026.806/AL, Rel. Min. DIAS TOFFOLI, DJe de 2/3/2017; e RE 1.012.488/AL, Rel. Min. MARCO AURÉLIO, DJe de 8/12/16.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 5 de setembro de 2017.
+Ministro Alexandre de Moraes
+relator
+documento assinado digitalmente
