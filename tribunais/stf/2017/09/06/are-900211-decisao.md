@@ -1,0 +1,22 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que manteve decisão monocrática que possui a seguinte ementa (Vol. 6):
+    APELAÇÃO CÍVEL. REVISÃO DE GRATIFICAÇÃO DE REGÊNCIA DE TURMA. PARIDADE COM SERVIDORES DA ATIVA. Legitimidade da autarquia previdenciária, nos termos do artigo 1º da Lei n.º 3.189/99. Paridade que é assegurada constitucionalmente. Gratificação de regência de classe incorporada aos proventos de aposentadoria. Necessidade de revisão da mesma forma que o pessoal da ativa. Legislação expressa garantindo a atualização dos valores referente a gratificação. Precedentes do E. TJRJ. Juros de mora adequadamente fixados, diante da declaração de inconstitucionalidade do artigo 5º da Lei n.º 11.960/2009. Pequeno reparo na sentença quanto a multa, eis que excessiva. Recurso a que se dá provimento parcial, na forma do artigo 557, § 1º - A do CPC.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta, em síntese, que o julgado ofendeu os arts. 37, XIII, e 97 da Carta Magna.
+    A decisão agravada entendeu que a violação da Constituição seria meramente reflexa.
+    No agravo, a parte agravante sustenta, em síntese, que há violação direta da Constituição. No mais, repisa as alegações de mérito do recurso extraordinário.
+    É o relatório. Decido.
+    O Juízo de origem, ao apreciar a controvérsia, assim se manifestou nos autos (fl. 5, Vol. 6)
+    Os Decretos n.º 42.922/10 e 42926/10, modificaram o valor da gratificação, sem que no entanto, tivesse sido feita a alteração em favor da autora, eis que a mesma faz jus a paridade. Ademais, a própria Lei n.º 2.365/94, em seu artigo 3º, assegurou expressamente o direito da mesma ser reajustada.
+    Assim, diante da atualização dos valores da referida gratificação, não pode prevalecer a alegação da autarquia de que “somente é devida ao pessoal da ativa que efetivamente exerça cargo comissionado.” Extrai-se claramente de uma detida análise de toda legislação invocada, que a gratificação não é paga a quem exerce cargo em comissão, mas sim é calculada nos valores dos cargos em comissão, e mais, foram incorporadas, desaparecendo portanto, o caráter de transitoriedade que pretende atribuir o apelante.
+    A solução dessa controvérsia, portanto, depende da análise da legislação local que rege a controvérsia em tela, o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário. Nesse sentido:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PENSIONISTA DE SERVIDOR PÚBLICO BENEFICIADO PELA REGRA DE PARIDADE. NATUREZA JURÍDICA DE GRATIFICAÇÃO PAGA AOS ATIVOS. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULAS 279 E 280/STF. PRECEDENTES. Hipótese em que, para dissentir da conclusão do Tribunal de origem quanto à natureza jurídica das vantagens, se genéricas ou pro labore faciendo, seria necessário analisar a legislação infraconstitucional pertinente e rever os fatos e provas constates dos autos. Incidência das Súmulas 279 e 280/STF. Agravo regimental a que se nega provimento (RE 467.529-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 2/2/2015)
+    Por fim, esta Corte, no RE 870.947 (Rel. Min. LUIZ FUX, Tema 810), reconheceu a repercussão geral da controvérsia acerca da validade da correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública, conforme previstos no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009 .
+    Diante do exposto,
+    - com fundamento no art. 1.036 e seguintes do Código de Processo Civil de 2015 e no art. 328, parágrafo único, do Regimento Interno do STF, determino a devolução dos autos ao Juízo de origem para que seja observada a decisão do Supremo no RE 870.947 (Rel. Min. LUIZ FUX, Tema 810) quanto aos índices de correção monetária e juros de mora aplicados aos débitos imputados à Fazenda Pública;
+    - com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO quanto às demais questões.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 6 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
