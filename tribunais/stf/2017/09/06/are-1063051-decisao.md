@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Santa Catarina, reformando o entendimento do Juízo, concluiu pela legitimidade passiva dos réus e julgou procedente o pedido de aposentadoria pelo regime próprio, considerada anterior decisão transitada em julgado. No extraordinário cujo trânsito buscam alcançar, os recorrentes alegam a violação dos artigos 40, cabeça, e 236 da Constituição Federal. Dizem que os oficiais de registros, após a Emenda Constitucional nº 20/98, estão vinculados ao Regime Geral da Previdência Social. Afirma a inexistência de coisa julgada, porquanto o objeto da demanda anterior é diverso daquele constante no processo ora em julgamento.
+    2. Colho do acórdão recorrido os seguintes trechos:
+    A parte autora propôs “ação declaratória” contra o Estado de Santa Catarina e o Instituto de Previdência do Estado de Santa Catarina – IPREV, aduzindo que, com base no Ato n. 375, de 18/06/1993, foi nomeada para exercer o cargo de Titular do Ofício do Registro Civil e Documentos da Comarca de Mondaí/SC, permanecendo em exercício até a presente data.
+    Mencionou que o IPREV, em 2004, sob o argumento de que a parte autora se submete ao Regime Geral de Previdência Social (INSS), interrompeu a remessa de guias para que pudesse efetuar o recolhimento de contribuição, sendo a situação regularizada por ordem judicial concedida no Mandado de Segurança nº 023.04.700832-9 e confirmada pelo Eg. Tribunal de Justiça através do Recurso de Apelação nº 2005.041894-1.
+    (…)
+    A quaestio juris resta controvertida sob o aspecto da manutenção ou não da parte recorrente ao Instituto de Previdência do Estado de Santa Catarina – IPREV.
+    Sobre o assunto, o Eg. Tribunal de Justiça, em casos semelhantes, decidiu que “o art. 3º da Lei Estadual nº 6036/1982 previa que os Serventuários e Auxiliares da Justiça deveriam recolher, compulsoriamente, a contribuição previdenciária para o Instituto de Previdência do Estado de Santa Catarina IPESC (atual IPREV). Todavia, com a Constituição de 1988 e o advento da Lei Federal nº 8935/1994, os notários, oficiais de registro, escreventes e demais auxiliares passaram a estar vinculados à previdência social de âmbito federal – INSS (art. 40, caput), ressalvando-se, entretanto, os direitos e vantagens previdenciários adquiridos até a data da publicação da citada lei ( parágrafo único do artigo 40 da Lei Federal nº 8935/1994, e artigo 95 da LCE n. 412/2008). Em consequência, salvo opção pelo regime geral, aqueles que já se encontravam vinculados ao regime especial de previdência social do IPESC (atual IPREV), nele hão de permanecer, sobretudo quando o vínculo do contribuinte com o Instituto de Previdência do Estado foi mantido por decisão transitada em julgado.
+    Assentou o Tribunal de origem estar a matéria coberta pelo manto da coisa julgada. Somente pela análise do quadro fático seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 6 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
