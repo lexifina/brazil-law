@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+PRISÃO PREVENTIVA – EXCESSO DE PRAZO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – AUSÊNCIA DE PREJUÍZO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Vara Criminal da Comarca de Reserva/PR, no processo nº 0001473-03.2016.8.16.0143, converteu a prisão em flagrante do paciente, ocorrida em 27 de outubro de 2016, em preventiva, ante a suposta prática da infração versada no artigo 33 (tráfico de drogas) da Lei nº 11.343/2006. Consignou necessária a custódia para garantia da ordem pública, reportando-se à gravidade e à hediondez do delito. Apontou a quantidade de entorpecente apreendido – 33,3 gramas de substância análoga à maconha, em 12 invólucros enrolados em papel alumínio –, a evidenciar a destinação ao comércio ilegal de drogas. Destacou a existência de extensa folha de antecedentes criminais e processos em curso em desfavor do paciente. Ressaltou a insuficiência de medida alternativa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 409.054/PR, o qual teve a liminar indeferida pelo Relator.
+    O impetrante afirma constrangimento ilegal decorrente da busca realizada na residência do paciente quando do cumprimento de mandado de prisão por outro delito, no que encontrados os entorpecentes. Diz que a busca ocorreu além da estrita observância da ordem de prisão. Sustenta a ilicitude do recolhimento da prova, a ensejar anulação da ação penal desde a respectiva admissão. Destaca a inidoneidade da fundamentação do ato que resultou na preventiva, tendo-o como lastreado em elementos abstratos.
+    Requer, no campo precário e efêmero, a revogação da preventiva e, sucessivamente, a imposição de medida cautelar diversa. No mérito, requer a anulação do processo-crime desde o acolhimento da prova ilícita.
+    A fase é de apreciação da liminar.
+    2. Os fundamentos da preventiva não resistem a exame. Inexiste a constrição automática observado o delito possivelmente cometido, levando à inversão da ordem do processo-crime, que direciona, presente o princípio da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. O Juízo levou em conta a gravidade concreta da imputação. A quantidade de droga apreendida surge como elemento neutro, insuficiente a respaldar o argumento alusivo à preservação da ordem pública. Esta fica vinculada à observância da legislação em vigor. Fez ver a existência de antecedentes criminais, sem apontar o trânsito em julgado de condenação anterior. O combate à delinquência não há de fazer-se a ferro e fogo, mas mediante política criminal normativa. A preventiva deve ser balizada no artigo 312 do Código de Processo Penal. Tem-se a insubsistência das premissas lançadas.
+    A par desse aspecto, o paciente, sem culpa formada, está preso há 10 meses e 9 dias, período a configurar o excesso de prazo. Concluir pela manutenção da custódia é autorizar a transmutação do pronunciamento mediante o qual determinada, em execução antecipada de pena ainda não imposta e preclusa, em conflito com garantia constitucional – a da presunção de não culpabilidade.
+    No tocante à alegação de nulidade do processo-crime, uma vez encontrados entorpecentes durante diligência policial voltada ao cumprimento de mandado de prisão contra o paciente, deve ser examinada em definitivo, ou seja, pelo Colegiado, quando o processo retornar da Procuradoria-Geral da República.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja recolhido por motivo diverso da preventiva formalizada no processo nº 0001473-03.2016.8.16.0143, da Vara Criminal da Comarca de Reserva/PR. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. O curso desta impetração não prejudica a de nº 409.054/PR, em trâmite no Superior Tribunal de Justiça. Remetam cópia desta decisão ao relator, ministro Ribeiro Dantas, com as homenagens merecidas.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 6 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
