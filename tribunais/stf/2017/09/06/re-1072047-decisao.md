@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de recurso extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que recebeu a seguinte ementa (e-STJ, fl. 231, Evento 7, Vol. 2):
+    TRIBUTÁRIO. ATUALIZAÇÃO MONETÁRIA. PREJUÍZOS FISCAIS. BASES DE CÁLCULO NEGATIVAS. BENEFÍCIO FISCAL. PREVISÃO LEGAL. AUSÊNCIA. IMPOSSIBILIDADE.
+    1. Tratando-se de benefício fiscal e não havendo previsão legal, não pode o Judiciário imiscuir-se na atividade legislativa e autorizar a correção monetária dos prejuízos fiscais e bases de cálculo negativas na hipótese de ficar diferida no tempo a compensação dos prejuízos. Precedentes desta Corte.
+    2. Apelação desprovida
+    Nas razões recursais, com amparo no art. 102, III, “a”, da Constituição Federal, foram apontadas violações aos arts. 5º, caput, XXXVI, LIV, LV, 93, IX, 37, 145, § 1°, e 150, II , da CF/88.
+    É o relatório. Decido.
+    Não merecem ser acolhidas as razões da parte recorrente. Em relação à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta Corte no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+    Nessa oportunidade, o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da Constituição Federal de 1988 “exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+    Quanto à alegação de afronta à ampla defesa e ao direito de ação, o apelo extraordinário não tem chances de êxito, pois esta Corte, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Ademais, o acórdão recorrido encontra-se em conformidade com a jurisprudência reiterada desta Corte. Confiram-se:
+    Agravo regimental no recurso extraordinário. Demonstrações financeiras. Saldos de prejuízos fiscais do IRPJ e das bases negativas da CSLL. Natureza de benefício fiscal. Correção monetária. Revogação. Questão infraconstitucional. Ausência de previsão legal. Impossibilidade de atuação do Poder Judiciário como legislador positivo. Precedentes da Corte. 1. A questão alusiva à revogação da correção monetária pelo art. 4º da Lei nº 9.249/95 repousa na esfera da legalidade. A afronta ao texto constitucional, se ocorresse, seria meramente reflexa ou indireta. 2. Nos julgamentos do RE nº 344.994/PR e do RE nº 545.308/SP, o Tribunal concluiu que a dedução de prejuízos de exercícios anteriores da base de cálculo do IRPJ e a compensação das bases negativas da CSLL constituem favores fiscais. 3. Impossibilidade de atualização monetária do saldo a ser compensado em períodos futuros, por ausência de previsão legal. 4. Agravo regimental não provido. (RE 807.062-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 9/10/2014)
+    RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. IMPOSTO DE RENDA. PESSOA JURÍDICA. BALANÇO. CORREÇÃO MONETÁRIA. LEI Nº 8.088/90. 1. Não cabe ao Poder Judiciário agir como legislador positivo para alterar índice de correção monetária definido em lei. A majoração de índice de correção, no decorrer de um ano fiscal, não representa ofensa aos princípios da anterioridade e da irretroatividade. Precedente: RE 200.844-AgR, DJ de 16/08/2002. 2. Conforme consignado pelo Plenário desta Corte no RE 201.465, inexiste direito, fundado na Constituição, a índice de indexação real. 3. Agravo regimental improvido. (RE 309381- AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, julgado em 15/06/2004, DJ de 6/8/2004)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 6 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
