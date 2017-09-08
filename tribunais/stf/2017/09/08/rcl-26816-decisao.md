@@ -1,0 +1,10 @@
+DECISÃO
+RECLAMAÇÃO – IMPROPRIEDADE – NEGATIVA DE SEGUIMENTO AO PEDIDO.
+    1. Liquigás Distribuidora S.A., subsidiária da Petrobras Distribuidora S.A., articula com o desrespeito ao que decidido pelo Supremo na ação declaratória de constitucionalidade nº 16/DF. Visa anular a sentença proferida pelo Juízo da Quinta Vara do Trabalho de São Luís/MA e o acórdão da Primeira Turma do Tribunal Regional do Trabalho da 16ª Região, no processo nº 0016152-87.2015.5.16.0015, por meio dos quais teria sido afastada a vigência do § 1º do artigo 71 da Lei nº 8.666/1993, considerada a jurisprudência consolidada nos itens IV e V do enunciado nº 331 da Súmula do Tribunal Superior do Trabalho.
+    Requer a concessão de medida acauteladora para suspender, até o julgamento final desta reclamação, a tramitação do processo trabalhista. Postula, alfim, ver cassado o ato questionado, de modo a garantir a autoridade do pronunciamento formalizado na ação declaratória de constitucionalidade nº 16/DF.
+    2. Percebam os limites próprios à reclamação. A medida, de natureza excepcional, pressupõe a usurpação da competência do Supremo ou a inobservância de decisão por si prolatada. No caso, não há identidade material entre o paradigma e os atos impugnados. Embora tenha o Juízo admitido a responsabilidade subsidiária de Liquigás Distribuidora S.A. pelo pagamento das verbas trabalhistas devidas à interessada, Hayala Santos Costa, a aludida obrigação não decorreu do enquadramento da reclamante como ente pertencente à Administração Pública, no que se mostra irrelevante a declaração da constitucionalidade do artigo 71, § 1º, da Lei nº 8.666/1993. Relativamente ao acórdão do recurso ordinário, a discussão ficou restrita ao alcance da responsabilidade do Banco do Brasil S.A., não tendo o Tribunal Regional do Trabalho da 16ª Região adotado óptica sobre a situação da reclamante.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 8 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
