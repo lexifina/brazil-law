@@ -1,0 +1,22 @@
+DECISÃO
+LIMINAR IMPLEMENTADA – EXTENSÃO – INDEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    Ernestino Teixeira de Azevedo, por meio da petição/STF nº 39.303/2017, subscrita por advogado devidamente credenciado, requer a extensão dos efeitos da liminar deferida em favor de Tito Eugênio Cardoso de Castro, alegando idêntica situação fática e jurídica, e, sucessivamente, o implemento da ordem de ofício. Afirma estar submetido a medidas cautelares diversas da prisão desde 5 de maio de 2016, destacando sequer recebida a denúncia contra si apresentada. Aduz ausentes os requisitos descritos no artigo 282, incisos I e II, do Código de Processo Penal. Articula com a ofensa aos princípios da razoabilidade e da presunção de não culpabilidade. Aponta as próprias condições pessoais favoráveis – primariedade, bons antecedentes, profissão definida e residência fixa.
+    2. Quando da concessão da liminar, assentei:
+    [...]
+    2. A leitura do ato que implicou, ainda na fase de inquérito policial, a prisão do paciente revela ter sido considerada a imputação.
+    Foram tecidos comentários sobre as infrações e afirmou-se, a seguir, a existência de grupo criminoso voltado à prática de desvios de recursos dos cofres municipais. Destacou-se indispensável a custódia considerada a existência de indícios de continuidade da prática delituosa, com base nos elementos probatórios obtidos na investigação. Enfatizando-se o modo de execução do crime – por meio de pessoas interpostas e valendo-se de endereços e telefones fictícios –, aludiu-se à necessidade de assegurar campo propício à instrução processual.
+    A generalidade da articulação não permite endosso. Sob o ângulo da garantia da ordem pública e da econômica, descabe partir da capacidade intuitiva acerca da possibilidade de reiteração criminosa. Quanto ao risco à conveniência da instrução processual, há de reportar-se, obrigatoriamente, a dado concreto. Fora isso é a suposição do excepcional, do extravagante, o que se mostra insuficiente a respaldar a preventiva.
+    O possível envolvimento em delito não leva à inversão da sequência do processo-crime, que direciona a apurar-se para, selada a culpa, prender-se, em verdadeira execução da pena. Inexiste, no arcabouço normativo, a constrição automática presente possível imputação.
+    A par disso, o paciente encontra-se recolhido, sem culpa formada, há mais de 7 meses, situação a configurar o excesso de prazo da segregação.
+    3. Defiro a liminar pleiteada. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja preso por motivo diverso da preventiva formalizada no processo nº 67853-36.2015.4.01.0000, do Tribunal Regional Federal da 1ª Região. Advirtam-no da necessidade de permanecer na residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Sendo idêntica a situação dos corréus Gercino Ribeiro Cardoso e Alberto Jorge Cardoso de Castro Júnior, estendo-lhes esta medida acauteladora, com os mesmos cuidados, observando o disposto no artigo 580 do Código de Processo Penal.
+    O artigo 580 do Código de Processo Penal possibilita, no caso de concurso de agentes, a extensão dos efeitos de decisão proferida em recurso e, presente o princípio da equidade, em sede não recursal, como nas ações de habeas corpus, desde que este haja sido formalizado por um dos réus e não esteja o pronunciamento fundado em motivos de caráter exclusivamente pessoal.
+    Mostra-se imprópria a pretensão. O requerente teve contra si impostas medidas cautelares alternativas à custódia, estando em situação diversa da que desaguou no habeas corpus no bojo do qual implementada a liminar, uma vez assentada a insubsistência das premissas que ensejaram a prisão preventiva do paciente e o excesso de prazo da segregação provisória.
+    No tocante ao pedido sucessivo, de deferimento da ordem de ofício, tem-se óbice na observância do princípio da colegialidade, a revelar a inadequação de potencializar o disposto no artigo 192 do Regimento Interno do Supremo – “Quando a matéria for objeto de jurisprudência consolidada do Tribunal, o Relator poderá desde logo denegar ou conceder a ordem, ainda que de ofício, à vista da documentação da petição inicial ou do teor das informações”.
+    3. Indefiro os pedidos formulados.
+    5. Deem sequência ao habeas corpus.
+    6. Publiquem.
+Brasília, 8 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
