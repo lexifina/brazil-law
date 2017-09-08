@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1735, de 5 de setembro de 2017
+Dispõe sobre os procedimentos relativos à consolidação de débitos para parcelamento e pagamento à vista de que trata o art. 17 da Lei nº 12.865, de 9 de outubro de 2013, no âmbito da Secretaria da Receita Federal do Brasil (RFB).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 17 da Lei nº 12.865, de 9 de outubro de 2013, e na Portaria Conjunta PGFN/RFB nº 7, de 15 de outubro de 2013, resolve:
