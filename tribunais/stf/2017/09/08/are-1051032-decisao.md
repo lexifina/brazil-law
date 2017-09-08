@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face do acórdão da 11ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 86):
+    “AÇÃO RESSARCITÓRIA DE DANOS. PAGAMENTO DE HORAS EXTRAORDINÁRIAS. CARGO EM COMISSÃO.
+    O servidor nomeado para exercer cargo em comissão não faz jus à percepção de horas extraordinárias, dada a relação de confiança estabelecida para a nomeação e que pressupõe devotamento maior ao serviço que o exigido dos demais servidores de diversa espécie de provimento.
+    Situação peculiar adicional, reconhecida pela própria lei aplicável ao caso, que vedou o pagamento da versada gratificação a esses servidores nomeados para cargo em provimento em comissão.
+    Não provimento do recurso.”
+    Os embargos de declaração foram rejeitados (eDOC 2, 119).
+    No recurso extraordinário, com fundamento no art. 102, III, a e c, do permissivo constitucional, aponta-se ofensa aos arts. 1º, III e IV; 5º, caput; 7º, XIII e XVI; 39, § 3º e 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “Com efeito, é neste contexto que a tese do decisium regional deve ser apreciada: ao proibir a Administração Pública Municipal de reconhecer o direito do servidor comissionado em ter sua jornada de trabalho limitada, e, portanto, ao decidir que este não faz jus ao pagamento por serviços efetivamente prestados além desta jornada, a decisão não só autoriza, mas institucionaliza absurdos como a imposição de jornada de trabalho de 20 horas diárias 7 dias por semana ofendendo de morte a dignidade desses servidores, bem como a dos seus familiares e amigos.” (eDOC 3, p. 21).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Com efeito, o Tribunal de origem ao manter a sentença originária, com apoio nos fatos e provas dos autos, asseverou que (eDOC 2, p. 96):
+    “ A demanda sob exame concerne a reparação pecuniária relativa ao pagamento - cuja licitude se discute - por horas extras de serviço prestadas por servidor em exercício de cargo de provimento em comissão. (…)
+    Bem se avista que, não havendo, quanto aos servidores em cargo de provimento em comissão, possível excesso ou suplemento de carga horária - porque essa carga não se molda aos cargos fiduciários, não há, de conseguinte, retribuição correspondente a adicional por serviço suplementar, que, de toda a sorte, fosse ainda de cogitar-se, exigiria previsão legal expressa quanto a seus critérios definidores (VIRGA, Pietro. II pubblico impiego dopo Iapriva tizzazione. 2.ed. Milão: Giuffrè, 1995, p. 164). E, na espécie, não há preceito local a demarcar as horas de serviço ordinário do servidor público itapeviense em provimento comissionado.”
+    Nesse contexto, como se depreende desses fundamentos e de outros previstos no voto condutor do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de elementos fáticos-probatórios e o exame da legislação local aplicável à espécie (Lei Municipal de Itapevi 223/1974), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMIINSTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. BASE DE CÁLCULO DE HORAS EXTRAS. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 280/STF. A resolução da controvérsia demandaria a analise da legislação local aplicada ao caso, procedimento vedado em recurso extraordinário pela Súmula 280/STF. Precedentes. O Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal, o que inviabiliza o recurso extraordinário pela alínea c do inciso III do art. 102 da Constituição. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento.” (ARE-AgR 846.840, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 3.2.2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. HORAS EXTRAS. BASE DE CÁLCULO. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE-AgR 728.440, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 28.10.2013).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 8 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
