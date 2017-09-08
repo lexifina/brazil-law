@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA PARA EXTRADIÇÃO – AUTUAÇÃO.
+PRISÃO PREVENTIVA PARA EXTRADIÇÃO – REVOGAÇÃO – INDEFERIMENTO.
+EXTRADIÇÃO – CUSTÓDIA PROVIDÊNCIA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Escritório Central Nacional da INTERPOL encaminhou a este Tribunal, por meio do Ofício nº 14672/2017, representação visando custódia cautelar para extradição do espanhol Ruben Parra Alonso, procurado pela Justiça da Espanha por apropriar-se indevidamente da quantia de 290 mil euros, havendo ordem de prisão – de nº 306/2012 –, expedida em 19 de maio de 2015 pelo Juzgado de Instruccion nº 44 de Madrid, Espanha (folha 2 a 18).
+    A Presidente do Supremo, ministra Cármen Lúcia, determinou, em 18 de julho de 2017, a segregação preventiva de Ruben Parra Alonso, aludindo ao artigo 82 da Lei nº 6.815/1980. Assinalou que o pedido de extradição deveria ser formalizado no prazo de 80 dias, a contar da data de notificação, ao Estado requerente, da constrição, sob pena de ser este colocado em liberdade – artigo 82, § 4º, do mesmo diploma (folha 20 a 24).
+    Mediante o Ofício nº 2808/2017 (folha 32 e 32-verso), a delegada de Polícia Federal Márcia Lúcia Wunderlich dos Santos comunica a prisão de Ruben Parra Alonso, ocorrida em 25 de julho de 2017, às 10h40, na cidade de Campo Bom/RS. Informa estar recolhido nas dependências da Superintendência Regional do Departamento de Polícia Federal no Rio Grande do Sul, destacando que o local não possui setor de custódia apropriado ao acautelamento de detentos por longos períodos. Requer autorização para que o extraditando seja transferido para o sistema prisional do Estado do Rio Grande do Sul (folhas 32 e 33).
+    O Departamento de Recuperação de Ativos e Cooperação Jurídica Internacional, por meio do Ofício nº 1105/2017 – petição/STF nº 40.662/2017 –, noticia o cumprimento do mandado de prisão (folha 49).
+    Mediante a petição/STF nº 49.289, o advogado constituído pelo extraditando busca a substituição da preventiva por medida cautelar diversa, consubstanciada em recolhimento domiciliar ou entrega de passaporte, e, sucessivamente, a manutenção na carceragem da Polícia Federal ou a transferência para a sala de Estado Maior da Brigada Militar do Rio Grande do Sul. Aponta a insalubridade das condições carcerárias dos presídios estaduais. Aduz tratar-se de extradição voluntária, apresentando declaração de concordância do extraditando. Aponta não estar foragido, frisando ter informado, à Espanha, o endereço em que reside, trabalhado em empresas no Brasil e ingressado em curso superior. Assevera existirem precedentes na jurisprudência do Supremo no sentido de, em casos excepcionais, superar-se a obrigatoriedade da preventiva como condição de procedibilidade da extradição. Afirma que o extraditando possui residência fixa e ocupação lícita. Destaca a desproporcionalidade da prisão considerada a imputação de crime sem gravidade (folha 51 a 53-verso).
+    Com o término do recesso forense, a Ministra Presidente encaminhou o processo a Vossa Excelência (folhas 83 e 84).
+    Não consta do processo a ciência, pelo Estado requerente, de que foi efetivada a custódia do extraditando.
+    2. Retifiquem a autuação para fazer constar, no cabeçalho, o advogado Alexandre Ayub Dargel e outros(a/s)
+    3. A prisão preventiva para fins de extradição destina-se a assegurar a execução de eventual extradição. Ausente comprovação de que o extraditando se encontra em precário estado de saúde, inexiste situação a excepcionar a regra descrita no artigo 82 da Lei nº 6.815/1980.
+    Consoante dispõe o artigo 144, § 1º, inciso IV, da Carta da República, a Polícia Federal exerce, com exclusividade, as funções de polícia judiciária da União. É injustificável não contar com dependência própria a manter, por ordem do Supremo, prisão provisória de certo cidadão, no caso, do extraditando.
+    4. Oficiem ao Ministro de Estado da Justiça, Dr. Torquato Lorena Jardim, para as providências cabíveis relativamente ao quadro, dando-lhe conhecimento do fato de o extraditando encontrar-se sob custódia isso visando a ciência do Governo requerente.
+    6. Providenciem.
+    7. Publiquem.
+Brasília, 8 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
