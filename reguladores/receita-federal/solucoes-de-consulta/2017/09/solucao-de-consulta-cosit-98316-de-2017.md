@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98316, de 14 de agosto de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 7602.00.00 Mercadoria: Partículas de alumínio obtidas pela retirada das impurezas (materiais que não sejam de alumínio) de sucata coletada e posterior moagem ou picotagem do alumínio, podendo ou não passar pelo processo de briquetagem, para utilização como matéria-prima na fabricação de artefatos de alumínio. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 7602.00.00) da TEC,aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.316-2017 .pdf]
