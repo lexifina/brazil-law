@@ -1,0 +1,24 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. MP 2.215-10. ADICIONAL DE INATIVIDADE. AUSÊNCIA DE DIREITO ADQUIRIDO.
+    Está pacificado no âmbito do STF o entendimento de que o servidor público não tem direito adquirido a regime jurídico e remuneratório, sendo-lhe assegurado tão somente a irredutibilidade de vencimentos.” (pág. 160 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação ao art. 5º, XXXVI, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem decidiu a presente controvérsia com base nos seguintes fundamentos:
+    “O apelo não merece acolhida.
+    A supressão, pela Medida Provisória nº 2.131/00 (atualmente sob o nº. 2.215-10), do adicional de inatividade da remuneração paga aos militares não importou ofensa a direitos adquiridos ou à irredutibilidade de vencimentos dos servidores públicos.
+    Com efeito, o próprio art. 29 da MP assegura a irredutibilidade da remuneração, proventos ou pensões dos servidores militares:
+    Art. 29. Constatada a redução de remuneração, de proventos ou de pensões, decorrente da aplicação desta Medida Provisória, o valor da diferença será pago a título de vantagem pessoal nominalmente identificada, sendo absorvido por ocasião de futuros reajustes.
+    Parágrafo único. A vantagem pessoal nominalmente identificada prevista no caput deste artigo constituirá parcela de proventos na inatividade, além das previstas no art. 10 desta Medida Provisória, até que seja absorvida por ocasião de futuros reajustes.
+    Ressalte-se que o servidor público não tem direito adquirido a regime remuneratório, mas tão somente à irredutibilidade global de vencimentos” (grifos no original, pág. 157 do documento eletrônico 1).
+    Verifica-se que o acórdão recorrido está em consonância com a tese firmada por esta Corte no julgamento do RE 563.965-RG (Tema 41), da relatoria do Ministra Cármen Lúcia, no sentido de que “[...] não há direito adquirido a regime jurídico, desde que respeitado o princípio constitucional da irredutibilidade de vencimentos”. Transcrevo, por oportuno, a ementa desse precedente:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico.
+    2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, consequentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração.
+    3. Recurso extraordinário ao qual se nega provimento.”
+    Ressalte-se, ademais, que para se chegar a conclusão contrária à adotada pelo Tribunal de origem quanto à ocorrência ou não do decesso remuneratório seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279 do STF – e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, cito o ARE 989.660-AgR/DF, de relatoria do Ministro Dias Toffoli:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Adicional de inatividade. Extinção pela MP nº 2.215-10/01. Direito adquirido a regime jurídico. Inexistência. Violação do princípio da irredutibilidade de vencimentos. Não ocorrência. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. É pacífica a jurisprudência da Corte de que não há direito adquirido à manutenção da forma de cálculo da remuneração do servidor, o que importaria em direito adquirido a regime jurídico, ficando assegurada, entretanto, a irredutibilidade de vencimentos. 2. A Corte de origem consignou expressamente que ‘não houve redução dos proventos dos servidores públicos’. Para se concluir de modo diverso, seria necessário reexaminar o conjunto-fático probatório da causa. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido. 4. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de setembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
