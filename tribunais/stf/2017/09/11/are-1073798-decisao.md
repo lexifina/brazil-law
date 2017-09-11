@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, sob os fundamentos de que incidem, na espécie, os óbices das Súmulas 280 e 282 desta Corte.
+    O agravo não merece acolhida, dado que o recorrente deixou de atacar o fundamento da decisão agravada referente à incidência, no caso, da Súmula 280 deste Tribunal.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287/STF. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    Ademais, consoante assinalado na decisão agravada, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame da legislação local aplicável ao caso (Lei Estadual 10.705/2000 e Decreto Estadual 55.002/2009), o que é vedado pela Súmula 280/STF. Nesse sentido, cito as seguintes decisões, entre outras: ARE 952.857/SP, Rel. Min. Roberto Barroso; ARE 963.531/SP, Rel. Min. Edson Fachin; ARE 960.325/SP, Rel. Min. Gilmar Mendes; ARE 934.769/SP, Rel. Min. Luiz Fux; ARE 781.826/SP, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de setembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
