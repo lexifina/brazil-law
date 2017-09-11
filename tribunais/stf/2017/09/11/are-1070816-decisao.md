@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO—PRECEDENTE DO PLENO—DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Rio Grande do Sul, reformando o entendimento do Juízo, absolveu o réu da prática da contravenção penal prevista no artigo 34, do Decreto Lei nº 3.688/41, assentando ter o Código de Trânsito Brasileiro revogado todas as tipificações penais relativas ao tráfego de veículos automotores em vias terrestres. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação do 5º, inciso XXXIX, da Constituição Federal. Diz contrariado o princípio da legalidade, insistindo na tipicidade da conduta de direção perigosa de veículo em via pública. Alude à divergência com o decidido no habeas corpus nº 80.362/SP.
+    2. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    3. O contido no acórdão recorrido está em consonância com entendimento do Supremo, prolatado no julgamento do habeas corpus nº 80.362/SP, no pleno, com acórdão publicado no Diário de Justiça de 4 de outubro de 2002. Confiram a síntese do decidido:
+    EMENTA: HABEAS CORPUS. ARTIGO 32, PRIMEIRA PARTE, DA LEI DE CONTRAVENÇÕES PENAIS. DISPOSITIVO QUE RESULTOU REVOGADO PELO NOVO CÓDIGO DE TRÂNSITO BRASILEIRO - CTB. Se é certo que não houve revogação expressa do dispositivo em apreço e, também, que, em tese, não seria ele incompatível com o disposto no art. 309 do CTB, a sua derrogação, na parte indicada, decorreu de haver o CTB, como é próprio das codificações, tratado de todas as infrações penais comissíveis na condução de veículos automotores, o que, de resto, ficou expressamente declarado no art. 161. Habeas corpus deferido.
+    Muito embora o aludido precedente tenha se referido expressamente ao artigo 32 da Lei de Contravenções Penais, resta claro o entendimento de que o Código revogou todas as outras contravenções ou crimes relacionados ao trânsito brasileiro.
+    4. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    5. Publiquem.
+Brasília, 11 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
