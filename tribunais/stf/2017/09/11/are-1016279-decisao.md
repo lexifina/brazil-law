@@ -1,0 +1,19 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que acolheu os embargos de declaração no seguintes termos (fls. 70, Vol. 1):
+    Entretanto, nos termos do inciso III do § 2º do art. 6º-A do Regimento Interno desta Corte de Justiça, com a redação conferida pela Resolução TJOE nº 10/2015, de 27/04/2015, foram excluídos da competência das Câmaras Cíveis Especializadas os processos oriundos de litígios entre instituição de previdência privada aberta ou fechada e seus participantes.
+    Isto posto, voto no sentido de ACOLHEREM-SE os embargos de declaração, reconhecendo-se a competência desta Câmara, de acordo com o Termo de Distribuição de fls. 30.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta, em síntese, que o julgado ofendeu os artigos 5º, XXXVII, LIII e LIV, 37, caput, e 96, I, da Carta Magna.
+    A decisão agravada tem por fundamento a ofensa meramente reflexa da Constituição.
+    No agravo, a parte agravante sustenta, em síntese, que há demonstração de violação direta da Constituição Federal. No mais, repisa as alegações de mérito do recurso extraordinário.
+    É o relatório. Decido.
+    De início, pontuo que, no que concerne à suposta violação aos artigos 5º, LIII, 37, caput, e 96, I, da Constituição, verifica-se, na presente hipótese, que o Juízo de origem não analisou a questão constitucional veiculada, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 e 356 desta Corte Suprema.
+    Além disso, quanto à alegação de afronta à ampla defesa e ao direito de ação, o apelo extraordinário não tem chances de êxito, pois esta Corte, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Ademais, o Tribunal de origem apreciou a legitimidade das Câmeras recursais para atuarem no feito com base no Código de Processo Civil/1973 e no Regimento Interno do TJRJ.
+    Assim, trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição indicadas no recurso extraordinário são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. Nesse sentido:
+    EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. JUIZADOS ESPECIAIS CÍVEIS. PRINCÍPIO DO JUIZ NATURAL. DEBATE DE ÂMBITO INFRACONSTITICIONAL. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO SER UTILIZADO COMO ÓRGÃO DE CONSULTA SUBJETIVA. PRECEDENTES. OMISSÃO E OBSCURIDADE. INOCORRÊNCIA. CARÁTER INFRINGENTE. Ausente omissão e obscuridade justificadoras da oposição de embargos declaratórios, nos termos do art. 535 do CPC, a evidenciar o caráter meramente infringente da insurgência. Não se prestam os embargos de declaração, não obstante sua vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas no acórdão embargado. Embargos de declaração rejeitados. (ARE 745.693-AgR-AgR-ED, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 10/9/2015)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Publique-se.
+    Brasília, 11 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
