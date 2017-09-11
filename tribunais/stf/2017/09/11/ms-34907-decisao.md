@@ -1,0 +1,16 @@
+DECISÃO:
+    1. Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Deputados Federais e Senadores da República integrantes do Partido dos Trabalhadores contra o Presidente do Senado Federal, por ter colocado em votação emendas que alteraram o mérito do Projeto de Lei de Conversão nº 12/2017 (decorrente da Medida Provisória nº 759/2016), e posteriormente encaminhado a proposição aprovada à sanção presidencial.
+    2. Os impetrantes sustentam que as redações propostas nas oito emendas apresentadas ao Plenário do Senado Federal, principalmente as de nºs 1, 4 e 7, teriam alterado o mérito da proposição, pelo que deveria a autoridade impetrada tê-la devolvido à Câmara dos Deputados para apreciação, em observância ao art. 65, p. único, da CF. Pedem, ao final, a concessão da ordem, nestes termos (doc. 1, p. 25):
+    “i. seja anulada a votação pelo Plenário do Senado Federal do PLV 12, de 2017 e todos os atos posteriores, inclusive o encaminhamento do projeto à sanção presidencial, intimando-se o Presidente da República, ou ainda, caso assim não entenda esta Egrégia Corte;
+    ii. seja anulado o ato de encaminhamento do Projeto de Lei de Conversão 12, de 2017 à sanção presidencial para que sejam apreciadas e votadas pelo Plenário da Câmara dos Deputados as emendas aprovadas pelo Plenário do Senado Federal.”
+    3. Por decisão datada de 19.06.2017, deferi a medida liminar para “suspender os efeitos da aprovação do PLV 12, de 2017 pelo Plenário do Senado Federal, determinando o retorno da proposição legislativa à Câmara dos Deputados para deliberação sobre as emendas no prazo regimental (art. 7º, §4º, da Resolução CN nº 1/2002) com dilação de até 10 (dez) dias corridos a partir do recebimento do PLV”. Asseverei que, durante o prazo concedido, deveria permanecer em vigor o texto original da medida provisória, por aplicação analógica da regra do art. 62, §12, da Constituição (doc. 15).
+    4. Na petição nº 36.784/2017, a União informou o seguinte (doc. 21):
+    “(...) conforme extrato da tramitação legislativa da Medida Provisória nº 759/2016 (documento anexo), em 26 de junho de 2017, foi determinada a submissão da matéria ao Plenário da Câmara do Deputados, a fim de dar cumprimento à decisão liminar proferida nestes autos. Na data de ontem, 27 de junho de 2017, a Câmara dos Deputados aprovou as emendas à Medida Provisória nº 759/2016 e encaminhou a matéria para sanção presidencial, conforme notícia anexa.” (dest. acres.)
+    5. A autoridade impetrada prestou informações no mesmo sentido e requereu a extinção do feito, sem resolução do mérito, por ausência de interesse de agir (doc. 26).
+    6. Em razão disso, intimei a parte impetrante e a PGR para se manifestarem sobre possível perda do objeto (doc. 33), ao que anuiu a PGR (doc. 36). Os impetrantes não se manifestaram, conforme certificado nos autos (doc. 35).
+    7. Tenho que, já atendida a pretensão, com o retorno do projeto à Câmara dos Deputados, para aprovação das emendas, perde o objeto o presente mandado de segurança.
+    8.  Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado o presente mandado de segurança.
+     Publique-se. Intimem-se.
+          Brasília, 11 de setembro de 2017.
+Ministro LUÍS ROBERTO BARROSO
+Relator
