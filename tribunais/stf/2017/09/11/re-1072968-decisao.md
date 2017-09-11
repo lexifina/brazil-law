@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “AÇÃO ORDINÁRIA. CONSELHO PROFISSIONAL. ANUIDADE. FILIAL.
+    1. As anuidades devidas aos Conselhos de Fiscalização Profissional possuem fundamento jurídico no art. 149 da Magna Carta, o qual atribui à União a competência para a instituição das contribuições de interesse das categorias profissionais ou econômicas. Por possuírem a natureza jurídica de tributos, as referidas contribuições submetem-se aos princípios que regem o Sistema Tributário Nacional, em especial o princípio da legalidade tributária (art. 150, I, CF/88).
+    2. O art. 1º, § 3º, da Lei nº 6.994/82, expõe que as filiais de pessoas jurídicas somente são obrigadas ao pagamento das anuidades desde que instaladas em jurisdição de outro Conselho Regional que não o da sua sede. A contrario sensu, às filiais, situadas na mesma área de atuação do Conselho de Fiscalização de sua matriz, como no caso em comento, não enseja o pagamento de anuidade específica” (pág. 156 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação aos arts. 5º, II; 97; 145, § 1º; 150, II e 151, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 6.404/1976, 6.830/1980, 6.994/1982 e 12.514/2011), o que torna inviável o recurso extraordinário, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Inexigibilidade dos valores cobrados a título de anuidade. Leis 6.994/82 e 8.383/91. Análise de legislação infraconstitucional. Ofensa reflexa à Constituição Federal. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento.” (ARE 647.735-AgR/DF, Rel. Min. Luiz Fux).
+    “TRIBUTÁRIO. CONTRIBUIÇÃO A CONSELHO DE FISCALIZAÇÃO E REGULAMENTAÇÃO PROFISSIONAL. ENGENHARIA. PREVISÃO DE CANCELAMENTO AUTOMÁTICO DO REGISTRO PROFISSIONAL APÓS DOIS ANOS DE INADIMPLÊNCIA. INTERPRETAÇÃO DA PALAVRA 'AUTOMÁTICO'. MATÉRIA INFRACONSTITUCIONAL. ART. 64, PARÁGRAFO ÚNICO DA LEI 5.194/1966. PROCESSUAL CIVIL. AGRAVO REGIMENTAL.
+    Tal como posta nos autos, toda a questão resume-se em se saber se a expressão 'automaticamente', prevista no art. 64 da Lei 5.194/1966, permite que se extraiam consequências jurídicas do chamado cancelamento do registro no CREA independentemente de pedido formal de interessado ou de procedimento de ofício do órgão de fiscalização profissional. Trata-se de problema cuja solução esgota-se no texto de lei federal, sem necessidade de apelo à interpretação Constitucional. Agravo regimental ao qual se nega provimento.” (AI 590.448-AgR/RJ, Rel. Min. Joaquim Barbosa).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 11 de setembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
