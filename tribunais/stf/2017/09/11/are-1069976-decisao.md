@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu o recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 4, p. 25):
+    “APELAÇÃO. MANDADO SEGURANÇA. SERVIDORA PÚBLICA ESTADUAL. PROFESSORA. JORNADA DE TRABALHO. ATRIBUIÇÃO DE AULAS. INTERPRETAÇÃO CONTROVERSA DA LEI FEDERAL Nº 11.738/08. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PRETENSÃO À INAPLICABILIDADE DA RESOLUÇÃO SE Nº 08/2012. DESCABIMENTO. LEGALIDADE DAQUELA ESTRIBADA NA LEI COMPLEMENTAR ESTADUAL Nº 836/97. SEGURANÇA DENEGADA. MANUTENÇÃO. RECURSO DESPROVIDO.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 206, V e VIII, da Constituição Federal.
+    Nas razões recursais, sustenta-se que a edição da Resolução 8, da Secretaria de Educação, fere o art. 10 da Lei Complementar 836/97, já que a jornada de trabalho estipulada por tal norma é superior a determinada pela Lei Federal 11.738/08 (eDOC 4, p. 63-65).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário com base na Súmula 282 do STF (eDOC4, p. 107).
+    É o relatório. Decido.
+    A irresignação merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, assim asseverou (eDOC 4, p. 27-29):
+    “A apelante pretende, em sede de mandado de segurança, ordem para compelir a autoridade impetrada (dirigente regional de ensino) a tomar todas as medidas administrativas necessárias para que a jornada de trabalho respeite a proporcionalidade de 2/3 (dois terços) de aulas em atividades de interação com os educandos e um terço em atividades de trabalho coletivo e em local de livre escolha, tal como determina o artigo 2º, parágrafo 4º, da Lei Federal nº 11.738/2008, revendo-se as atribuições de aulas.
+    Não há que se falar no alegado direito líquido e certo da impetrante a trabalhar em jornada na forma estipulada pela Lei Federal nº 11.738/2008.
+    Apesar da declaração de constitucionalidade da referida Lei pelo Supremo Tribunal Federal na ADI nº 4167/DF, ainda não transitada em julgado, e da decisão do então Presidente do Tribunal de Justiça Paulista no pedido de suspensão de liminar nº 0304427-84.2011.8.26.0000, a Secretaria da Educação do Estado de São Paulo editou a Resolução nº 8/2012 com o escopo de regulamentar a jornada de trabalho fixada com base na Lei Complementar nº 836/97, alterada pela Lei Complementar nº 1.094/09.
+    No caso presente, não se vislumbra manifesta ilegalidade ou abuso de poder no ato administrativo impugnado.
+    (…)
+    Portanto, diante das evidências de divergência interpretativa quanto à compatibilidade entre a Resolução SE nº 08/2012, que regulamenta a LC Estadual nº 836/97, e a Lei Federal nº 11.738/08, que estipulou a divisão da jornada de trabalho, recomenda-se cautela na suspensão do ato administrativo.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação local (Leis Complementares Estaduais 836/97 e 1.094/09), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDORA PÚBLICA MUNICIPAL. PROFESSORA. ALTERAÇÃO DE CARGA HORÁRIA E DO LOCAL DE TRABALHO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. CONTRARRAZÕES APRESENTADAS. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL O QUAL SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 926.848-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 29.8.2016).
+    “Agravo regimental em recurso extraordinário. 2. Direito administrativo.  Jornada  de trabalho de  professor  de educação física. Conflito aparente de normas. Impossibilidade de análise de legislação local. Ofensa reflexa à Constituição Federal. Incidência do Enunciado  280  da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (RE 647.059-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 27.3.2012).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a” e “b”, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 11 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
