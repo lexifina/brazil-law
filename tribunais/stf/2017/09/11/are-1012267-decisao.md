@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão, cuja ementa segue transcrita:
+    “SERVIDOR PÚBLICO – Autárquico inativo – Recebimento de Gratificação Pro Labore – Inviabilidade – Inteligência do art. 19 da Lei Complementar nº 1.080/08 – Afronta ao princípio da irredutibilidade de vencimentos – Inocorrência – Sentença de improcedência mantida – Recurso não provido” (pág. 5 do doc. eletrônico 2).
+    No RE, interposto, com base no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação ao art. 37, XV, da mesma Carta da República.
+    A pretensão recursal não merece acolhida por se tratar de violação reflexa ao texto constitucional, a teor da Súmula 280 do Supremo Tribunal Federal. Isso porque no acórdão do Tribunal a quo, com apoio na legislação local aplicável à espécie - Lei Complementar 1.080/2008 do Estado de São Paulo – entendeu como nítido os contornos do benefício pro labore faciendo da gratificação pretendida, motivo pelo qual não pode ser incorporado aos proventos dos autores.
+    Dessa forma, para concluir em sentido diverso, faz-se necessário o reexame da norma local pertinente ao caso. Nesse sentido, cito o ARE 968.699-AgR/SP, Rel. Min. Roberto Barroso, cuja ementa segue transcrita:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO ESTADUAL. PRÊMIO DE DESEMPENHO INDIVIDUAL. LEI COMPLEMENTAR ESTADUAL Nº 1.158/2011. NATUREZA DA VANTAGEM. SÚMULAS 279 E 280. PRECEDENTES. RECURSO MANIFESTAMENTE INADMISSÍVEL. IMPOSIÇÃO DE MULTA. 1. Hipótese em que dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza jurídica das vantagens concedidas aos servidores, se genéricas ou pro labore faciendo , exige o exame da legislação local pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (incidência das Súmulas 279 e 280/STF). 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015”.
+    No mesmo sentido, menciono as seguintes decisões: ARE 977.201-AgR/SP, Rel. Min. Marco Aurélio; ARE 968.869/SP, Rel. Min. Teori Zavascki; ARE 987.053-AgR/SP, Rel. Min. Luiz Fux.
+    Isto posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 11 de setembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
