@@ -1,0 +1,19 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal Superior Eleitoral, cuja ementa ostenta o seguinte cabeçalho:
+    ELEIÇÕES 2014. AGRAVO INTERNO EM RECURSO ORDINÁRIO. CONDUTA VEDADA A AGENTE PÚBLICO CONSUBSTANCIADA NA DIVULGAÇÃO DE PUBLICIDADE INSTITUCIONAL NOS 3 MESES ANTERIORES À ELEIÇÃO. DIVULGAÇÃO DE VÍDEO QUE DESTACA OBRA REALIZADA PELO GOVERNO DO ESTADO DO CEARÁ, EM SEU SÍTIO ELETRÔNICO OFICIAL, DURANTE PERÍODO VEDADO PELA LEGISLAÇÃO ELEITORAL. ALÍNEA B DO INCISO VI DO ART. 73 DA LEI 9.504/97. DESPROVIMENTO. (...)
+    Nas razões recursais, com amparo no art. 102, III, “a”, da Constituição Federal, foram alegadas violações aos arts. 5º, XIV, XXXIII, e 37, caput, §§ 1º e 6º da CF/88.
+    A decisão agravada tem por fundamento a ofensa meramente reflexa ao texto constitucional, bem como a incidência da Súmula 282 desta Corte.
+    No agravo, a parte agravante sustenta, em síntese, que a matéria constitucional suscitada foi devidamente prequestionada nas instâncias de origem e que demonstrou ofensa direta à Constituição da República.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do recurso extraordinário.
+    Ademais, o Juízo de origem, com base na legislação ordinária pertinente (Lei 9.504/1997 e Código de Processo Civil de 2015) e nos fatos da causa, reconheceu a legitimidade passiva do ora agravante, mantendo a multa aplicada em decisão pretérita.
+    Desse modo, a reversão do julgado recorrido depende da análise da legislação infraconstitucional, o que é incabível em sede de recurso extraordinário, e dos fatos e provas do processo, providência igualmente vedada no Enunciado 279/STF (Para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 11 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
