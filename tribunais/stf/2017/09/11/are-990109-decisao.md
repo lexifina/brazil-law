@@ -1,0 +1,22 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, III, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 145, Vol. 1):
+    AGRAVO LEGAL. MATÉRIA JÁ DECIDIDA PELOS TRIBUNAIS SUPERIORES. INCIDÊNCIA DO ART. 557 DO CPC. TAXA DE LICENÇA E FUNCIONAMENTO. BASE DE CÁLCULO. ILEGALIDADE.
+    1 - A base de cálculo da taxa de licença e funcionamento não pode variar segundo o número de empregados ou em relação à natureza da atividade desempenhada pelo contribuinte. Precedentes do STJ e desta Corte.
+    3 - Agravo legal improvido.
+    Opostos embargos de declaração, foram eles rejeitados (fl. 166, Vol. 1).
+    Nas razões recursais, o recorrente alega que o acórdão recorrido contraria o art. 145, inciso II e § 2º, da CF/1988.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do recurso extraordinário.
+    Mesmo que superado esse grave óbice, o Tribunal de origem considerou ilegal a cobrança da Taxa de Localização, Instalação e Funcionamento (TLIF) do Município de São Paulo, pelo fato de ter como base de cálculo o número de empregados do estabelecimento.
+    Dessa forma, o entendimento proferido pelo Tribunal a quo está em harmonia com o entendimento desta Corte. Nesse sentido, confiram-se precedentes de ambas as Turmas desta Corte:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TAXA DE FISCALIZAÇÃO DE LOCALIZAÇÃO, INSTALAÇÃO E FUNCIONAMENTO. LEI MUNICIPAL Nº 9.670/1983. BASE DE CÁLCULO. NÚMERO DE EMPREGADOS. IMPOSSIBILIDADE. PRECEDENTES. É pacífico nesta Corte o entendimento de que não se pode admitir a utilização do número de empregados como critério válido para fixação da base de cálculo das taxas de funcionamento e fiscalização instituídas pelos Municípios. Agravo regimental a que se nega provimento. (AI 470.124-AgR-segundo, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 31/10/2014)
+    Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. Taxa de fiscalização de localização, instalação e funcionamento. Lei Municipal 9.670/83. Base de cálculo. Número de empregados. Impossibilidade. Precedentes. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento. (ARE 803.725-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 1º/7/2014)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 11 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
