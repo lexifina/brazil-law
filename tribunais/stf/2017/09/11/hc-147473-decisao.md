@@ -1,0 +1,21 @@
+Decisão:
+Ementa: Penal e processual penal. Habeas corpus. Prisão preventiva. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que não conheceu do HC 406.621, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante delito em 22.06.2017, pela suposta prática dos crimes previstos nos artigos 131, 329 e 344, todos do Código Penal. O Juízo de origem, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Indeferida a liminar, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 406.621, Ministro Felix Fischer, não conheceu do writ.
+    4. Neste habeas corpus, a parte impetrante sustenta que “a apresentação do paciente em audiência de custódia foi dispensada pelo Juízo de 1ª instância com base no artigo 3º, §2º, do Provimento Conjunto TJSP nº 03/2015 (…), haja vista a impossibilidade de assegurar a incolumidade física das partes e dos serventuários da justiça’, uma vez que houve ‘ameaça de contaminação de agentes policiais pelo vírus HIV, tudo dentro do ambiente forense e durante sessão do Tribunal do Júri”. De modo que “A audiência, portanto, representou mera formalidade totalmente divorciada dos propósitos da audiência de custódia, uma vez que não houve contato pessoal com o paciente por parte da Defensoria Pública, do Ministério Público e Judiciário”.
+    5. Prossegue a impetração para sustentar que “não há prova da materialidade do delito de perigo de contágio de moléstia contagiosa, já que não há laudo médico que certifique ser o paciente portador do vírus HIV”. Destaca, por fim, a ausência dos requisitos necessários para a manutenção da custódia preventiva.
+    6. Com essa argumentação, requer a concessão da ordem a fim de revogar a prisão processual do paciente. Subsidiariamente, pleiteia a substituição da custódia por outra medida cautelar.
+    Decido.
+    7. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar a concessão da ordem de ofício. Transcrevo, nesse sentido, as seguintes passagens do decreto prisional:
+    “(...)
+    Evidentemente não se cogita discutir questão de mérito, mas apenas aferir se há constrangimento ilegal a atentar contra a liberdade da paciente. E, prima facie, não há, pois não há nulidades na prisão em flagrante e a decisão converteu a prisão em flagrante em preventiva está fundamentada na necessidade da custódia para garantia da ordem pública, conveniência da instrução processual e para assegurar a aplicação da lei penal, observando, ainda, que o paciente tem surtos constantes e já está preso preventivamente por crime doloso contra a vida e ‘o fato praticado possui considerável gravidade concreta, vez que envolveu ameaça de contaminação de agentes policiais pelo vírus HIV, tudo dentro do ambiente forense e durante sessão plenária do Tribunal do Júri', sendo suficiente e inadequada a aplicação das medidas cautelares alternativas a prisão.
+    (…)” - Sem grifos no original
+    9. Não bastasse isso, o Tribunal pacificou o entendimento de que “A alegação de ausência de autoria e materialidade é insuscetível de deslinde em sede de habeas corpus, que, como é cediço, não comporta reexame de fatos e provas” (RHC 117.491, Rel. Min. Luiz Fux).
+    10. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 11 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
