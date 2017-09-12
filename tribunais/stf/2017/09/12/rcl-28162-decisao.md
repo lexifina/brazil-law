@@ -1,0 +1,52 @@
+Trata-se de reclamação, com pedido de liminar, ajuizada pela Ordem dos Advogados do Brasil – Secção de São Paulo, contra decisão do Juízo da 1ª Vara Cível do Foro Regional da Penha de França da Comarca de São Paulo/SP que, ao impor multa pessoal aos advogados por litigância de má-fé, teria afrontado o quanto decidido por esta Corte na ADI 2.652/DF, de relatoria do Ministro Maurício Corrêa.
+    A reclamante esclarece que,
+    “[m]esmo tendo julgado parcialmente procedente o pedido, a r. sentença acabou condenando a advogada CAROLINE MEIRELLES LINHARES, que não era parte no feito, e funcionava como apenas como advogada da autora, nas penas de litigância de má-fé, determinando a expedição de Ofício à Delegacia de Polícia para instauração de inquérito policial, bem como ao Tribunal de Ética da OAB” (grifos no original; pág. 3 do documento eletrônico 1).
+    Narra, então, que
+    “[a] condenação acima e demais providências são decorrentes do fato da advogada no feito, CAROLINE MEIRELLES LINHARES, ter juntado aos autos uma cópia de documento denominado ‘Relatório Médico’ que instruiu processo administrativo para cobrança de seguro obrigatório junto à Seguradora Líder” (grifos no original; pág. 4 do documento eletrônico 1).
+    Prossegue informando que,
+    “mesmo tendo sido reconhecido que advogada no feito, CAROLINE MEIRELLES LINHARES, não teve participação nos fatos, está sendo executada e deverá pagar a quantia de R$ 29.846,09, em razão de imposição de multa de litigância de má-fé à advogada, que sequer é parte no feito” (grifos no original; pág. 11 do documento eletrônico 1).
+    A reclamante indica, ainda, que
+    “ingressou nos autos e ofereceu embargos de declaração contra o julgado (doc. nº 10), que não foram conhecidos (doc. nº 11), tendo, em seguida, oferecido conta o julgado recursos especial e extraordinário (doc. nº 12/14), o que comprova que a decisão reclamada não transitou em julgado” (pág. 11 do documento eletrônico 1).
+    Argumenta, por essas razões, ter a decisão reclamada, ao aplicar multa por litigância de má-fé à advogada Caroline Meirelles Linhares, desrespeitado o paradigma firmado por esta Suprema Corte na mencionada ADI.
+    Formula, ao final, o seguinte pedido:
+    “[...]
+    48. Diante do exposto, a ORDEM DOS ADVOGADOS DO BRASIL – OAB, SEÇÃO DO ESTADO SÃO PAULO, requer a concessão da tutela de urgência acima, a ser deferida inaudita altera pars, a fim de suspender, até o julgamento final desta Reclamação, os efeitos da sentença proferida pelo MM. JUIZ DE DIREITO DA 1ª VARA CÍVEL DO FORO REGIONAL DA PENHA DE FRANÇA – SÃO PAULO/SP, Dr. JOSÉ LUIZ DE JESUS VIEIRA e confirmada pela 26ª Câmara de Direito Privado do TJSP, nos autos do Processo nº 0018379-20.2013.8.26.0006, na parte em que condenou advogada CAROLINE MEIRELLES LINHARES, ao pagamento de multa e indenização por litigância de má-fé, desrespeitando, abertamente, decisão vinculante desta Corte.
+    49. Em consequência da suspensão dos efeitos da sentença reclamada, na parte em que condenou advogada CAROLINE MEIRELLES LINHARES, ao pagamento de multa e indenização por litigância de má-fé, deve também ser suspenso o andamento do cumprimento de sentença em caráter provisório (Processo nº 0002082-30.2016.8.26.0006 –doc. nº 2), como do Agravo de Instrumento dele extraído (Processo nº 2101131-91.2017.8.26.0000), oficiando-se, para tanto:
+    […]
+    50. No mérito, requer a procedência do pedido a fim de que seja cassada a sentença reclamada, apenas no tocante à condenação da advogada CAROLINE MEIRELLES LINHARES nas penas de litigância de má-fé, com a imposição de ‘multa de 1% (um por cento) sobre o valor da causa em favor da Fazenda Estadual e indenização em favor do requerido, no importe de 20% (vinte por cento) sobre o valor da causa’, com o que, além de se fazer a mais sóbria e digna Justiça que os homens de bem anseiam, respeitar-se-á a legislação em vigor, bem como a decisão vinculante do Supremo Tribunal Federal!” (grifos no original; págs. 24-25 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    Consigno, inicialmente, que deixo de requisitar informações e, sucessivamente, de ouvir a Procuradoria-Geral da República, tanto pela presença de elementos documentais suficientes para a apreciação definitiva do feito como pela existência de jurisprudência firmada pelo Plenário desta Corte sobre a matéria versada nos autos (art. 52, parágrafo único, do RISTF). Dispenso, igualmente, a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do pedido.
+    Com efeito, verifico que o pedido formulado pelo reclamante não se enquadra em nenhuma das hipóteses de cabimento de reclamação previstas no art. 102, I, l, da Constituição Federal, seja para preservar a competência desta Suprema Corte, seja para garantir a autoridade de suas decisões e súmulas vinculantes.
+    Esta reclamação utiliza como paradigma a decisão deste Tribunal proferida na ADI 2.652/DF, de relatoria do Ministro Maurício Corrêa, que porta a seguinte ementa:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. IMPUGNAÇÃO AO PARÁGRAFO ÚNICO DO ARTIGO 14 DO CÓDIGO DE PROCESSO CIVIL, NA REDAÇÃO DADA PELA LEI 10358/2001. PROCEDÊNCIA DO PEDIDO.
+    1. Impugnação ao parágrafo único do artigo 14 do Código de Processo Civil, na parte em que ressalva ‘os advogados que se sujeitam exclusivamente aos estatutos da OAB’ da imposição de multa por obstrução à Justiça. Discriminação em relação aos advogados vinculados a entes estatais, que estão submetidos a regime estatutário próprio da entidade. Violação ao princípio da isonomia e ao da inviolabilidade no exercício da profissão. Interpretação adequada, para afastar o injustificado discrímen.
+    2. Ação Direta de Inconstitucionalidade julgada procedente para, sem redução de texto, dar interpretação ao parágrafo único do artigo 14 do Código de Processo Civil conforme a Constituição Federal e declarar que a ressalva contida na parte inicial desse artigo alcança todos os advogados, com esse título atuando em juízo, independentemente de estarem sujeitos também a outros regimes jurídicos”.
+    Como se observa, a decisão proferida na ADI 2.652/DF deu interpretação conforme parágrafo único do art. 14 do Código de Processo Civil de 1973, para determinar que “a ressalva contida na parte inicial desse artigo alcança todos os advogados, com esse título atuando em juízo, independentemente de estarem sujeitos também a outros regimes jurídicos”.
+    O parágrafo único do art. 14 do CPC/1973 determinava a aplicação de multa, por ato atentatório ao exercício da jurisdição, no caso de violação ao inciso V do citado artigo, verbis:
+    “Art. 14. São deveres das partes e de todos aqueles que de qualquer forma participam do processo:
+    (...)
+    V - cumprir com exatidão os provimentos mandamentais e não criar embaraços à efetivação de provimentos judiciais, de natureza antecipatória ou final.
+    Parágrafo único. Ressalvados os advogados que se sujeitam exclusivamente aos estatutos da OAB, a violação do disposto no inciso V deste artigo constitui ato atentatório ao exercício da jurisdição, podendo o juiz, sem prejuízo das sanções criminais, civis e processuais cabíveis, aplicar ao responsável multa em montante a ser fixado de acordo com a gravidade da conduta e não superior a vinte por cento do valor da causa; não sendo paga no prazo estabelecido, contado do trânsito em julgado da decisão final da causa, a multa será inscrita sempre como dívida ativa da União ou do Estado” (grifei).
+    No caso em exame, contudo, a sentença não aplicou multa ao advogado por ato atentatório ao exercício da jurisdição (art. 14, parágrafo único, do CPC/1973), mas sim por litigância de má-fé, como afirmado pela própria reclamante, embasada nos arts. 17 e 18 do CPC/1973, os quais transcrevo por oportuno:
+    “Art. 17. Reputa-se litigante de má-fé aquele que:
+    I - deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso;
+    II - alterar a verdade dos fatos;
+    III - usar do processo para conseguir objetivo ilegal;
+    IV - opuser resistência injustificada ao andamento do processo;
+    V- proceder de modo temerário em qualquer incidente ou ato do processo;
+    VI - provocar incidentes manifestamente infundados;
+    VII - interpuser recurso com intuito manifestamente protelatório.
+    Art. 18. O juiz ou tribunal, de ofício ou a requerimento, condenará o litigante de má-fé a pagar multa não excedente a um por cento sobre o valor da causa e a indenizar a parte contrária dos prejuízos que esta sofreu, mais os honorários advocatícios e todas as despesas que efetuou” (grifei).
+    Não houve, portanto, desrespeito à ADI 2.652/DF.
+    Nesse sentido, menciono a decisão proferida pelo Plenário no julgamento da Rcl 14.112-ED/PE, de relatoria do Ministro Teori Zavascki, cujo acórdão foi assim ementado:
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECLAMAÇÃO. LITIGÂNCIA DE MÁ-FÉ. MULTA PESSOAL APLICADA A ADVOGADO. ALEGAÇÃO DE OFENSA À ADI 2.652. AUSÊNCIA DE ESTRITA ADERÊNCIA.
+    1. Não há exata correlação entre os conteúdos decisórios da ADI 2.652, em que esta Corte decidiu que tanto os advogados particulares quanto os públicos são alcançados pela exceção do art. 14, parágrafo único, do CPC, e as decisões reclamadas, que aplicaram multa pessoal a advogado, por litigância de má-fé, com base nos incisos II e III do mesmo artigo.
+    2. Agravo regimental a que se nega provimento” (grifei).
+    No mesmo sentido, cito os seguintes precedentes de ambas as Turmas desta Corte: Rcl 22.500-AgR/RJ, de relatoria do Ministro Roberto Barroso, Rcl 25.313-AgR/MG, de relatoria do Ministro Teori Zavascki, Rcl 24.423-AgR/MG, de relatoria do Ministro Edson Fachin e Rcl 23.851-AgR/MG, de relatoria do Ministro Luiz Fux.
+    Assim, diante da ausência de identidade material entre os fundamentos do ato reclamado e aqueles emanados da Ação Direta ora invocada, não merece seguimento a pretensão dos reclamantes.
+    Verifico, por fim, que o valor da causa não corresponde ao valor da condenação da ação principal, razão pela qual o corrijo, de ofício, para R$ 29.846,09 (vinte e nove mil, oitocentos e quarenta e seis reais e nove centavos), nos termos do art. 292, § 3°, do CPC.
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1º, do RISTF). Prejudicada a análise do pedido de liminar.
+    Publique-se.
+    Brasília, 12 de setembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
