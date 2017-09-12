@@ -1,0 +1,13 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão da Terceira Câmara de Direito Público do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (eDOC 5 , p. 48):
+    “LEI MUNICIPAL QUE RESTRINGE O USO DE HERBICIDA 2.4-D. MATÉRIA REGULAMENTADA POR LEI FEDERAL E ESTADUAL. COMPETÊNCIA DO MUNICÍPIO PARA LEGISLAR. INCIDENTE DE INCONSTITUCIONALIDADE. JULGAMENTO. DIREITO LÍQUIDO E CERTO.
+    O mandado de segurança pressupõe existência de direito líquido e certo, sendo que ausente esse requisito, a ordem há de ser denegada.”
+    No recurso extraordinário, aduz-se violação aos arts. 5º, “caput”, XXXVI e LIV; 23, VI e VII; 24, VI; 30, I, II; 93, IX; e 170, IV, da Constituição Federal, asseverando, em síntese, a nulidade do acórdão que apreciou os embargos de declaração, ante a deficiência na prestação da jurisdição; a incompetência do município para legislar sobre matéria ambiental; a inexistência de interesse local a justificar a possibilidade de atuação em caráter suplementar; e que a legislação supletiva não pode anular os efeitos da lei que pretende suplementar, tampouco restringir direitos por esta conferidos ou extrapolar os limites da competência supletiva (eDOC 5, pp. 153-169).
+    Verifica-se que as matérias discutidas nestes autos já foram analisadas por esta Corte.
+    Ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Quanto à discussão acerca da competência dos municípios para legislar sobre meio ambiente, ao apreciar o RE-RG 586.224, da relatoria do Ministro Luiz Fux, DJe 8.5.2015, sob a sistemática da repercussão geral, Tema 145, o Supremo Tribunal Federal firmou a tese de que o município é competente para legislar sobre o meio ambiente com a União e Estado, no limite do seu interesse local e desde que tal regramento seja harmônico com a disciplina estabelecida pelos demais entes federados (art. 24, VI, c/c 30, II e II, da Constituição Federal).
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 12 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
