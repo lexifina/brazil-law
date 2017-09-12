@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “EMBARGOS DE DECLARAÇÃO. AÇÃO DE DEPÓSITO. ARMAZÉNS GERAIS. CONAB. PRESCRIÇÃO TRIMESTRAL. SÚMULA N° 50 DESTE TRIBUNAL. RECONHECIMENTO DE OFÍCIO. EMBARGOS DE DECLARAÇÃO PREJUDICADOS.
+    1. Dispõe a Súmula n° 50 TRF - 1° Região que ‘prescreve em 3 (três) meses para a CONAB, o prazo pra propositura da ação de depósito, contado a partir do dia em que a mercadoria foi ou deveria ser entregue (Decreto n. 1.102/1903, art. 11, in fine)’.
+    2. A prescrição é matéria de ordem pública e deve ser reconhecida de ofício, consoante o § 5° do art. 219 do CPC, incluído pela Lei n. 11.280/06. Esse dispositivo visa atender aos princípios da celeridade, economia e utilidade processuais, evitando-se a prática de atos desnecessários nas demandas em que o direito material controvertido foi fulminado pela prescrição.
+    3. Reconhecimento, de ofício, de ocorrência da prescrição. Os embargos de declaração restam prejudicados.” (pág. 75, volume eletrônico 5).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação ao art. 37, § 5°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Para dissentir do acórdão impugnado e examinar a procedência dos argumentos consignados no apelo extremo, seria necessária a interpretação das normas infraconstitucionais aplicáveis ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta, o que inviabiliza o processamento do presente recurso.
+    Esse tem sido o entendimento da Corte em situações análogas a dos autos, como se observa dos seguintes julgados:
+“EMENTA: Agravo regimental nos embargos de declaração no recurso extraordinário. Direito Administrativo. Artigo 93, inciso IX, da CF/88. Violação. Não ocorrência. Prescrição. Decreto n. 1.102/1903. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. O art. 93, inciso IX, da Constituição Federal não determina que o órgão judicante se manifeste sobre todos os argumentos de defesa apresentados, mas sim que ele explicite as razões que entendeu suficientes à formação de seu convencimento. Ao reconhecer a repercussão geral desse tema, o Plenário do Supremo Tribunal Federal reafirmou essa orientação (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10). 2. A matéria relativa ao prazo prescricional da pretensão indenizatória, no caso, está circunscrita ao âmbito infraconstitucional. Incidência da Súmula nº 636/STF. 3. Agravo regimental não provido. 4. Inaplicável o art. 85, § 11, do CPC, pois a parte agravada não apresentou contrarrazões.” (RE 656.908-ED-AgR/RS, Rel. Min. Dias Toffoli, Segunda Turma)
+    “EMENTA: Agravo regimental em recurso extraordinário com agravo. 2. Prescrição. Controvérsia solucionada pelo Tribunal a quo com fundamento no Decreto n. 1.102/1903. Matéria infraconstitucional. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE 890.112-AgR/MS, Rel. Min. Gilmar Mendes, Segunda Turma)
+    Ainda neste sentido, cito os seguintes precedentes: AI 853.917-AgR/RS, Rel. Min. Roberto Barroso; ARE 996.680/GO, Rel. Min. Celso de Mello.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 12 de setembro de 2011.
+Ministro Ricardo Lewandowski
+Relator
