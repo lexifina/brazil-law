@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Segunda Turma Recursal do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos (eDOC 5, p. 1):
+    “RECURSO INOMINADO. SEGUNDA TURMA RECURSAL DA FAZENDA PÚBLICA. SERVIDOR PÚBLICO ESTADUAL. RETROAÇÃO DE PROMOÇÃO À DATA DA IMPLEMENTAÇÃO DOS REQUISITOS. IMPOSSIBILIDADE.
+    Ao que se verifica do ato, foi a promoção implementada a contar da publicação, sem quaisquer efeitos retroativos à data da implementação dos requisitos para tanto. Em sendo a promoção ato discricionário, vinculado ao juízo de conveniência e oportunidade da Administração Pública, não cabe ao Poder Judiciário fazê-la retroagir, sob qualquer motivação. Sentença que vai mantida por seus próprios fundamentos.
+    NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.”
+    Os embargos de declaração foram rejeitados (eDOC 6, p. 1).
+    Nas razões recursais, com fundamento no permissivo constitucional do art. 102, III, a , alega-se violação do artigo 37, caput, da Constituição da República, sob os argumentos de ofensa aos princípios da moralidade e da legalidade.
+    O Tribunal a quo inadmitiu o recurso com fundamento no óbice das Súmulas 280, 282 e 636 do STF (eDOC 9, p. 6).
+    É o relatório. Decido.
+    Quando do julgamento do recurso inominado, a 2ª Turma Recursal de origem, com apoio nos fatos e provas constantes dos autos, decidiu não atribuir efeito retroativo a promoção de servidor público, por considerar ato discricionário da Administração Pública (eDOC 5, p. 89).
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de elementos fáticos-probatórios e o exame da legislação local aplicável à espécie (Lei Estadual 6.672/74 e Decreto 20.910/32), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Policial militar. Promoção por merecimento. Legislação local. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Recurso extraordinário interposto com fundamento nas alíneas c e d do art. 102, inciso III, da Constituição Federal. Não cabimento. Precedentes. 1. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação local de regência. Incidência das Súmulas nºs 279 e 280/STF. 2. A Corte de origem não julgou válidos lei ou ato de governo local contestados em face da Constituição da República ou de lei federal, razão pela qual fica inviabilizado o processamento do recurso extraordinário pelas alíneas c e d do permissivo constitucional. 3. Agravo regimental não provido.” (RE 734.540 Agr, Min. Dias Toffoli, Segunda Turma, Dje 14.12.15)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. PROFESSOR ESTADUAL. PROMOÇÃO NA CARREIRA. CASO EM QUE ENTENDIMENTO DIVERSO DO ADOTADO PELA INSTÂNCIA JUDICANTE DE ORIGEM EXIGIRIA O REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE.
+    1. Eventual ofensa ao Magno Texto apenas ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via recursal extraordinária. 2. Agravo regimental desprovido.” (AI 459701 AgR, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 20.4.2012).
+    Além disso, é entendimento sumulado desta Corte que “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. (Súmula 636 do STF).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do Código de Processo Civil, e majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os limites dos §§ 2º, 3º e 11 do art. 85, do mesmo diploma legal.
+    Publique-se.
+    Brasília, 12 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
