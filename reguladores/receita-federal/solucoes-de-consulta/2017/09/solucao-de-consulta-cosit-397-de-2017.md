@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 397, de 5 de setembro de 2017
+Assunto: Simples Nacional EMENTA: LOCAÇÃO DE MÁQUINAS REPROGRÁFICAS COM OPERADOR. CESSÃO DE MÃO DE OBRA. POSSIBILIDADE DE OPÇÃO PELO SIMPLES NACIONAL. Pode optar pelo Simples Nacional a pessoa jurídica que explore contrato de locação de máquinas reprográficas com operador, desde que não se enquadre em nenhuma das vedações legais à opção. A tributação no Simples Nacional dar-se-á na forma do Anexo III, deduzida a alíquota percentual correspondente ao Imposto sobre Serviços de Qualquer Natureza (ISS), conforme disposto no § 4º, inciso V, do art. 18 da Lei Complementar nº 123, de 2006. DISPOSITIVOS LEGAIS: Arts. 17, XII, e 18 da Lei Complementar nº 123, de 2006
+[arquivo anexo: SC Cosit nº 397-2017.pdf]
