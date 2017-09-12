@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça (HC 393.709/SP, Rel. Min. RIBEIRO DANTAS)
+    Consta dos autos, em síntese, que o paciente foi condenando à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/06). Interposto recurso de apelação pela defesa, o Tribunal de Justiça do Estado de São Paulo negou-lhe provimento. A defesa, então, impetrou habeas corpus ao Superior Tribunal de Justiça, que não o conheceu, mas examinou os fundamentos da impetração.
+    Nesta ação, o impetrante alega, em suma, que a reincidência, a partir de uma condenação a pena exclusiva de multa, não é condição apta a afastar a aplicação da minorante do art. 33, § 4º, da Lei de Drogas. Requer, assim, a concessão da ordem, a fim de aplicar a mencionada causa de diminuição da pena, em seu patamar máximo, com a fixação do regime inicial aberto e a substituição da pena corporal por restritiva de direitos.
+    É o relatório. Decido.
+    O Tribunal de Justiça do Estado de São Paulo negou o reconhecimento do denominado tráfico privilegiado, nos termos seguintes:
+    Não é o caso de aplicação da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06, eis que o acusado é reincidente (cf. certidão de fls. 76/77), fator que, na dicção legal, obsta a concessão do benefício.
+    Reconhecida pela Corte de origem a reincidência do paciente, é incabível a aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006, cuja incidência está condicionada ao preenchimento cumulativo dos seguintes requisitos: (a) primariedade do agente; (b) bons antecedentes; (c) não se dedicar a atividades criminosas; e (d) não integrar organização criminosa. Nesse sentido, precedentes de ambas as Turmas desta Suprema Corte: HC 123.430, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 18/11/2014; HC 101.265, Rel. Min. AYRES BRITTO, Relator p/ acórdão, Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 6/8/2012.
+    Por fim, ao contrário do alegado, o art. 63 do Código Penal não faz distinção em relação à natureza da pena aplicada para efeito de reincidência. Assim, ainda que a pena seja branda, atesta a doutrina penal, “é preciso considerar que houve condenação, logo, é o suficiente para o juiz levar em conta na próxima condenação que surgir. No mesmo prisma, defende Aníbal Bruno que a multa 'pode ter caráter pouco aflitivo, mas impõe ao réu a qualidade de condenado e assim adverte-o para comissão de novo crime, que lhe comunicaria a condição de reincidente, com as graves consequências daí resultantes' (Das penas, p. 82)." (NUCCI, Guilherme de Souza. Código Penal Comentado. 15. ed. Rio de Janeiro: Forense, 2015. p. 496).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO HABEAS CORPUS.
+    Publique-se.
+    Brasília, 12 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
