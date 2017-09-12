@@ -1,0 +1,22 @@
+DECISÃO:
+    1.  Trata-se de embargos de divergência interpostos contra acordão unânime da Primeira Turma do Supremo Tribunal Federal, publicado em 24.05.2016, sob minha relatoria, assim ementado:
+    “DIREITO PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO EXTRAORDINÁRIO. PRAZO EM DOBRO. INEXISTÊNCIA.
+    1. O Plenário do Supremo Tribunal Federal firmou orientação no sentido de que os embargos declaratórios opostos, com caráter infringente, objetivando a reforma da decisão do relator, devem ser conhecidos como agravo regimental (Plenário, MI 823 ED-segundos, Rel. Min. Celso de Mello; Rcl 11.022 ED, Rel.ª Min.ª Cármen Lúcia; ARE 680.718 ED, Rel. Min. Luiz Fux).
+    2. Orientação reafirmada pelo Plenário do Supremo Tribunal Federal, que, no julgamento do ARE 639.846-AgR-QO/SP, Redator para o acórdão o Ministro Luiz Fux, assentou o entendimento de que, em matéria penal, mantém-se o prazo de cinco dias previsto no art. 28 da Lei nº 8.038/1990 (na vigência do CPC/1973) para a interposição do agravo contra a inadmissibilidade de recurso extraordinário.
+    3. Embora o acórdão recorrido tenha sido proferido em face do ora agravante e de outro corréu, apenas o ora recorrente interpôs recurso extraordinário contra aquela decisão. Razão pela qual, a partir de então, o agravante já não se beneficia com a regra do prazo recursal em dobro. Precedentes.
+    4. Embargos recebidos como agravo regimental a que se nega provimento.”
+    2.  A parte embargante alega que “o entendimento perfilhado na decisão ora atacada, a despeito do disposto na mesma, não possui aceitação unânime, ou seja, existem ministros no próprio STF que possuem o pensamento de que o prazo para interposição do agravo em recurso especial é de 10 (dez) dias, tendo em vista que a Lei nº 12.322/2010 (Lei do Agravo) teve o escopo de promover um único regime para os recursos, tanto no âmbito penal, quanto no cível”. Aduz que o acórdão embargado está em contrariedade com o entendimento manifestado por esta Corte ao julgar o RE 639.846, AgR, Rel. Min. Dias Toffoli.
+          É o relatório. Decido.
+    3.  O recurso é inadmissível. Com efeito, nos termos do art. 331/RISTF, é dever da parte embargante a demonstração explícita do conflito entre a decisão embargada e o paradigma apontado como divergente. No caso, a parte embargante não se desincumbiu do seu dever processual de demonstrar, de maneira objetiva e analítica, o dissídio interpretativo. Nessa linha, veja-se o AI 388.823/MG-AgR-ED-EDv-AgR, Rel. Min. Ricardo Lewandowski.
+    4. Ademais, o art. 332 do RISTF dispõe serem incabíveis os embargos divergentes se a jurisprudência do Plenário ou de ambas as Turmas estiver firmada no sentido da decisão embargada. No caso de que se trata, esta Corte tem entendimento de que a Lei 12.322/2010 não derrogou o teor da Súmula 699/STF.
+    5.  Nessa linha, vejam-se o ARE 949.656-ED, Primeira Turma, de minha relatoria; e o ARE 933.848-Rcon, Segunda Turma, Rel. Min. Dias Toffoli, assim ementado:
+    “Pedido de reconsideração. Conversão em agravo regimental. Possibilidade. Matéria criminal. Intempestividade do agravo. Não observância do prazo de cinco (5) dias previsto no art. 28 da Lei nº 8.038/90. Incidência da Súmula nº 699/STF, não obstante a superveniência da Lei nº 12.322/10. Precedente. Recurso não provido.
+    1. Estando no prazo previsto pelo art. 317 do RISTF, o pedido de reconsideração pode ser recebido como agravo regimental, na linha de precedentes.
+    2. O recorrente não observou o prazo de cinco (5) dias para a interposição do agravo contra a decisão denegatória do recurso extraordinário, conforme estabelece o art. 28 da Lei nº 8.038/90, o qual não foi revogado, em matéria penal, pela Lei nº 8.950/94, de âmbito normativo restrito ao Código de Processo Civil. Incidência, na espécie, do enunciado da Súmula nº 699/STF.
+    3. O Plenário da Corte, ao julgar o ARE nº 639.846/SP-AgR-QO, Relator para o acórdão o Ministro Luiz Fux, assentou, a teor das alterações promovidas pela Lei nº 12.322/10, a aplicabilidade do prazo de cinco (5) dias previsto no art. 28 da Lei nº 8.038/90 para a interposição de agravo contra decisão em que não se admite recurso extraordinário que verse sobre matéria penal e processual penal.
+    4. Agravo regimental não provido.”
+    5.  Diante do exposto, nos termos do artigo 335, § 1º, do RI/STF, não admito os embargos de divergência.
+    Publique-se.
+          Brasília, 12 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
