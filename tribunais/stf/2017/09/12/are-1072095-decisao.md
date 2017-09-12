@@ -1,0 +1,24 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Eglantine Muniz Costa contra acórdão que, confirmado em sede de embargos de declaração pela colenda Turma Recursal da Seção Judiciária do Maranhão, está assim ementado:
+    “ADMINISTRATIVO. GRATIFICAÇÕES DE DESEMPENHO. GDASS. GDAP. SERVIDORA APOSENTADA DO INSS. SENTENÇA ‘EXTRA PETITA’. PEDIDO REFERENTE À GDASS. JULGAMENTO DO MÉRITO. AUTORA NÃO FAZ JUS À PERCEPÇÃO DA GDASS. RECURSO PARCIALMENTE PROVIDO.
+    1 – Na espécie, o INSS se insurge contra sentença que o condenou a pagar os valores correspondentes à diferença entre montante pago a título de GDAP e o que foi destinado aos servidores ativos, incluindo as respectivas gratificações antecessoras e sucessoras, ressalvadas as parcelas atingidas pela prescrição qüinqüenal.
+    2 – Analisando mais detidamente os autos, percebe-se que a autora, em seu pedido inicial, requereu a condenação do INSS a incorporar, em seu contracheque, a GDASS, no mesmo valor pago aos servidores ativos.
+    3 – No entanto, o juiz proferiu sentença extra petita, por isso que condenou o INSS a pagar à parte autora os valores correspondentes à diferença entre o montante que a esta foi pago a título de GDAP e o que foi destinado aos servidores ativos. Constata-se, portanto, que a causa de pedir foi, de fato, modificada, devendo a sentença ser anulada.
+    4 – Sendo, por outro lado, a matéria exclusivamente de direito, com fundamento no artigo 515, § 3º, do Código de Processo Civil, passo à análise de mérito.
+    5 – O contracheque que veio aos autos demonstra que a autora não optou por integrar a carreira do Seguro Social, instituída pela Lei nº. 10.855/2004, razão pela qual permaneceu integrando a carreira previdenciária de que cuida a Lei nº. 10.355/2001, no exercício da qual percebe, até a presente data, a GDAP.
+    6 – Desse modo, não faz jus a parte autora à percepção da GDASS, improcedente, portanto, o pedido formulado na inicial.
+    7 – Honorários advocatícios indevidos (recorrente vencedor).
+    8 – Recurso parcialmente provido para anular a sentença e, em novo exame de mérito, julgar improcedente o pedido formulado na inicial.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 10.855/2004 e Lei nº 10.355/2001), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que a Turma Recursal da Seção Judiciária do Maranhão, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem estritamente infraconstitucional:
+    “Com efeito, a Gratificação de Desempenho de Atividade de Seguro Social— GDASS somente era devida aos servidores públicos federais, ativos e inativos, que se enquadrassem nas situações descritas no art. 1º da Lei n. 10855, de 01 de abril de 2004.
+    No caso da autora, extrai-se de seu contracheque que nunca houve pagamento da gratificação em questão, uma vez que a recorrida não optou por integrar a Carreira do Seguro Social, instituída pela Lei nº 10.855/2004, razão por que continua a integrar a carreira Previdenciária de que trata a Lei no 10.355/2001, percebendo até a presente data a GDAP.
+    Desse modo, não faz jus a parte autora à percepção da GDASS, devendo ser julgado improcedente o pedido inicial.”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável, por tratar-se de aplicação, ao caso concreto, de normas eminentemente infraconstitucionais.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 12 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
