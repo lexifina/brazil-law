@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face do acórdão, que manteve a sentença pelos seus próprios fundamentos, em que houve o reconhecimento do direito do recorrido à complementação de indenização de seguro de vida, com a devida atualização monetária.
+     O acórdão concluiu, também, que não houve necessidade de produção de prova pericial e não acolheu prejudicial de prescrição (págs. 23-24 do documento eletrônico 3).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5°, XXXV e LV, da Carta Magna. Sustenta que o acórdão violou os princípios da ampla defesa e do contraditório em razão da negativa da pedido de realização de perícia atuarial.
+    A pretensão recursal não merece acolhida. É que a jurisprudência desta Suprema Corte é firme no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional.
+    O referido entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), Relator Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Destaco, ainda, que para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de cláusulas contratuais, o que inviabiliza o recurso extraordinário nos termos das Súmulas 279 e 454/STF. Nesse sentido, cito o seguinte julgado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CIVIL. INDENIZAÇÃO. CONTRATO DE SEGURO. IMPOSSIBILIDADE DE ANÁLISE DE CLÁUSULAS CONTRATUAIS E DE REEXAME DE PROVAS (SÚMULAS 279 E 454). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 709.904-AgR/SP, Rel. Min. Cármen Lúcia; grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 20% os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites do art. 85, § 2° e § 3°, do CPC.
+    Publique-se.
+    Brasília, 13 de setembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
