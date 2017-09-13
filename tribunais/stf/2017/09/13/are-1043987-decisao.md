@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento ao recurso extraordinário interposto pelo Ministério Público Federal em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 2, p 8):
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONTRIBUINTE AUTÔNOMO OU EMPRESÁRIO. TEMPO DE SERVIÇO. ART. 45 § 4º DA LEI Nº 8.212/91. IRRETROATIVIDADE. PAGAMENTO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS EM ATRASO. INCIDÊNCIA DE JUROS E MULTA SOMENTE A PARTIR DA EDICAÇÃO DA MP Nº 1.523/96.
+    1 – O cálculo de contribuições previdenciárias em atraso deve ser feito consoante a disciplina normativa vigente à época dos fatos geradores das obrigações.
+    2 – Segundo entendimento dominante, os juros de mora e multa são devidos nos casos em que o recolhimento em atraso se refira a períodos anteriores à edição da Medida Provisória nº 1.523/96, uma vez que somente a partir desse diploma legal referidos consectários passaram a ter previsão para a hipótese. Aplicabilidade do princípio da irretroatividade da lei previdenciária que prejudique o segurado. Precedentes do STJ.
+    3 – Agravo legal desprovido.”
+    Os embargos de declaração foram desprovidos (eDOC 2, p. 39)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 97 da Constituição Federal.
+    Sustenta-se que o juízo de origem violou a cláusula de reserva de plenário, tendo em vista que deixou de aplicar o art. 45 da Lei 8.212/1991, implicando em juízo de inconstitucionalidade.
+    A Vice-Presidência do TRF da 3ª Região inadmitiu o recurso extraordinário, por ausência de violação ao art. 97 do Texto Constitucional (eDOC 2, p. 92).
+    É o relatório. Decido.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem (eDOC 2, p. 5):
+    ”Em suma, deve ser reconhecido o direito à parte-impetrante de promover o recolhimento dessas contribuições indenizatórias nos termos da legislação vigente ao tempo em que executou o trabalho que quer reconhecer, hipótese na qual as contribuições apuradas deverão ser acrescidas de correção monetária, juros e multa, visando recompor o erário quanto aos valores necessários ao custeio do benefício previdenciário exigido. Na ausência de documentação viável para apuração do montante devido ao tempo do trabalho executado, a indenização somente poderá se dar nos termos previstos no art. 45 e §§ da Lei 8.212/1991, quando também serão devidos correção monetária, juros e multa nos moldes desse mencionado preceito.”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo, notadamente sobre a incidência do artigo 45 da Lei 8.212/1991 ao caso, demandaria a análise de legislação infraconstitucional aplicável à espécie, o que torna inviável o processamento da demanda.
+    A esse respeito, veja-se o ARE-AgR 894.429, de relatoria do Ministro Luís Roberto Barroso, Primeira Turma, DJe 11.04.2016, em que também figurou como Recorrente o Parquet federal e o objeto do recurso foi do juízo a quo. Eis o teor da ementa:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ART. 45, § 4º, DA LEI Nº 8.212/1991. IRRETROATIVIDADE. PAGAMENTO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS EM ATRASO. INCIDÊNCIA DE JUROS E MULTA SOMENTE A PARTIR DA EDIÇÃO DA MP Nº 1.523/1996. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO. NÃO OCORRÊNCIA. 1. A jurisprudência desta Corte é firme no sentido de que não se aplica a restrição do art. 97 da Constituição Federal quando o acórdão recorrido apenas interpreta legislação infraconstitucional, sem declarar sua inconstitucionalidade. 2. Agravo regimental a que se nega provimento.”
+    Sendo assim, ressalta-se que o Tribunal de origem não declarou a inconstitucionalidade de dispositivo normativo, mas apenas interpretou norma legal.
+    Assim, a jurisprudência do STF é firme no sentido de que é necessário que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal e o Texto Constitucional para caracterizar violação à cláusula de reserva de plenário, o que não se verificou no caso concreto, haja vista que se baseou na eficácia temporal da MP 1.523/1996.
+    Nesse sentido, confiram-se os seguintes precedentes: ARE 822.168-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 18.11.2014; RE 792.917-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 03.06.2014; e RE 773.577-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 19.03.2014.
+    Ante o exposto, conheço do agravo e nego seguimento ao recurso extraordinário, com fundamento no artigo 21, § 1º do RISTF.
+    Publique-se.
+    Brasília, 13 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
