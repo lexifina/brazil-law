@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 2ª Turma Recursal dos Juizados Especiais Federais do Paraná.
+    Opostos embargos de declaração, não foram providos.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, caput, e 194, parágrafo único, incisos I e II, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que que o Tribunal de origem decidiu a lide amparado na legislação infraconstitucional pertinente (Lei nº 8.213/91). Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 279 desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. BENEFÍCIO ACIDENTÁRIO. DOENÇA PROFISSIONAL. ACÓRDÃO PROFERIDO COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 778.131/SP-AgR, Primeira Turma, relatora a Ministra Cármen Lúcia, DJ de 21/6/11).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA. LEI VIGENTE À ÉPOCA EM QUE REUNIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. NECESSIDADE DE INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO A QUE SE NEGA PROVIMENTO. I A jurisprudência desta Corte é pacífica no sentido de que, em matéria previdenciária, a lei de regência é a vigente ao tempo em que reunidos os requisitos para a concessão do benefício. Precedentes. II - Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria a análise de norma infraconstitucional aplicável à espécie (Lei 8.213/1991), bem como o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o extraordinário, a teor da Súmula 279 do STF. III - Agravo regimental a que se nega provimento” (ARE nº 753.225/SP-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJ de 13/2/14).
+    Registrem-se, ainda, as seguintes decisões monocráticas que também tratam do tema em questão: ARE nº 889.822/SC, Relatora a Ministra Cármen Lúcia, Dje de 7/8/15, e ARE nº 682.257/RS, Relatora a Ministra Cármen Lúcia, Dje de 23/5/12.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 13 de setembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
