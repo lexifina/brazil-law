@@ -1,0 +1,39 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado da Paraíba, está assim ementado:
+    “APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. PRELIMINARES DE NULIDADE DO AUTO DE INFRAÇÃO E DA CERTIDÃO DA DÍVIDA ATIVA. INOCORRÊNCIA. REJEIÇÃO. COBRANÇA DE ISS EM SUBCONTA DA INSTITUIÇÃO FINANCEIRA. ALEGAÇÃO DE QUE ESTA SERVE APENAS PARA REEMBOLSO DE GASTOS COM DESPESAS DE EXPEDIENTE. FALTA DE PROVAS. APLICAÇÃO DOS ITENS 95 E 96 DA LEI COMPLEMENTAR Nº 56/87. MULTA PECUNIÁRIA. PREVISÃO LEGAL. POSSIBILIDADE. CORREÇÃO MONETÁRIA. FALTA DE PROVAS NO QUE SE REFERE À SUA APLICAÇÃO IRREGULAR. DESPROVIMENTO.
+    – O Auto de Infração e a Certidão de Dívida Ativa quando dispõem, claramente, os valores a serem tributados e o enquadramento desses valores na Lista de Serviços instituída pela Lei Complementar nº 56/87, não possuem qualquer vício a ensejar sua nulidade.
+    – Inexistindo provas de que a subconta tributada serve para reembolso de despesas de expediente, deve prevalecer a presunção de liquidez e certeza da CDA, até porque os itens 95 e 96 da Lei Complementar nº 56/87 listam serviços similares ao analisado no caso vertente.
+    – Havendo previsão legal para imputação de multa no percentual de 100% (cem por cento) do valor tributado pelo não recolhimento do imposto, não se vê qualquer ilegalidade na sua aplicação.
+    – Ao se impugnar ao cálculo de qualquer valor da execução, deve o executado apontar os erros e/ou excessos do cálculo apresentado pelo exeqüente, bem como o valor que entende ser correto da dívida.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Código Tributário Nacional, Lei Complementar nº 56/87 e Lei nº 6.830/80), o que torna incognoscível o apelo extremo.
+    Cabe observar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora agravante, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impende ressaltar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 983.844/SP, Rel. Min. GILMAR MENDES – ARE 993.855/SP, Rel. Min. MARCO AURÉLIO, v.g.):
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ISS. NATUREZA DOS SERVIÇOS BANCÁRIOS TRIBUTADOS. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES.
+    1. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia nos casos em que o acórdão recorrido decidiu a questão com base no exame dos fatos e da legislação infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta.
+    2. Agravo regimental a que se nega provimento.”
+    (RE 642.451-AgR/MG, Rel. Min. ROBERTO BARROSO)
+    É preciso registrar, finalmente, no que concerne ao caráter confiscatório da multa punitiva, que a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal:
+    “TRIBUTÁRIO – MULTA – VALOR SUPERIOR AO DO TRIBUTO – CONFISCO – ARTIGO 150, INCISO IV, DA CARTA DA REPÚBLICA. Surge inconstitucional multa cujo valor é superior ao do tributo devido. Precedentes: Ação Direta de Inconstitucionalidade nº 551/RJ – Pleno, relator ministro Ilmar Galvão – e Recurso Extraordinário nº 582.461/SP – Pleno, relator ministro Gilmar Mendes, Repercussão Geral.”
+    (RE 833.106-AgR/GO, Rel. Min. MARCO AURÉLIO – grifei)
+    “Agravo regimental no recurso extraordinário. CDA. Nulidade. Alegada violação do art. 5º, LV, da CF/88. Matéria infraconstitucional. Afronta reflexa. Multa. Caráter confiscatório. Necessidade de reexame de fatos e provas. Taxa SELIC. Constitucionalidade.
+    1. A afronta aos princípios do devido processo legal, da ampla defesa ou do contraditório, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal.
+    2. Ambas as Turmas da Corte têm-se pronunciado no sentido de que a incidência de multas punitivas (de ofício) que não extrapolem 100% do valor do débito não importa em afronta ao art. 150, IV, da Constituição.
+    3. Para acolher a pretensão da agravante e ultrapassar o entendimento do Tribunal de origem acerca da proporcionalidade ou da razoabilidade da multa aplicada, seria necessário o revolvimento dos fatos e das provas constantes dos autos. Incidência da Súmula nº 279/STF.
+    4. É firme o entendimento da Corte no sentido da legitimidade da utilização da taxa Selic como índice de atualização de débitos tributários, desde que exista lei legitimando o uso do mencionado índice, como no presente caso.
+    5. Agravo regimental não provido.”
+    (RE 871.174-AgR/PR, Rel. Min. DIAS TOFFOLI – grifei)
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MULTA PUNITIVA DE 120% REDUZIDA AO PATAMAR DE 100% DO VALOR DO TRIBUTO. ADEQUAÇÃO AOS PARÂMETROS DA CORTE.
+    1. A multa punitiva é aplicada em situações nas quais se verifica o descumprimento voluntário da obrigação tributária prevista na legislação pertinente. É a sanção prevista para coibir a burla à atuação da Administração tributária. Nessas circunstâncias, conferindo especial destaque ao caráter pedagógico da sanção, deve ser reconhecida a possibilidade de aplicação da multa em percentuais mais rigorosos, respeitados os princípios constitucionais relativos à matéria.
+    2. A Corte tem firmado entendimento no sentido de que o valor da obrigação principal deve funcionar como limitador da norma sancionatória, de modo que a abusividade revela-se nas multas arbitradas acima do montante de 100%. Entendimento que não se aplica às multas moratórias, que devem ficar circunscritas ao valor de 20%. Precedentes.
+    3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.”
+    (ARE 938.538-AgR/ES, Rel. Min. ROBERTO BARROSO – grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 13 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
