@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Júlio Antón Alvarez contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “PREVIDENCIÁRIO. AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. BENEFÍCIO PREVIDENCIÁRIO. APOSENTADORIA. REVISÃO. COISA JULGADA. RECONHECIMENTO. VALOR DA CAUSA. REMESSA AO CONTADOR. DESPACHO DE MERO EXPEDIENTE. IRRECORRÍVEL. AUSÊNCIA DE GRAVAME ÀS PARTES. DECISÃO FUNDAMENTADA.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 5º, XXXV e LXXVIII, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário em questão revela-se processualmente inviável, eis que se insurge contra acórdão que examinou a controvérsia jurídica sob uma perspectiva estritamente infraconstitucional.
+    É que o exame da causa evidencia que o acórdão emanado do Tribunal “a quo” discutiu a matéria pertinente à extinção do processo, sem solução de mérito, fazendo-o em contexto meramente legal, invocando, para fundamentar esse julgamento, as regras inscritas no art. 267, V, do CPC/73.
+    Isso significa, portanto, que o fundamento jurídico que sustenta a decisão em referência reveste-se, unicamente, de índole ordinária, apoiando-se, por isso mesmo, em prescrições e formulações que se situam em domínio regido pelo direito comum, circunstância esta que poderá caracterizar, quando muito, situação de ofensa reflexa ao texto da Carta Política, apta, por si só, a tornar incabível o acesso à via recursal extraordinária (RTJ 94/462 – RTJ 132/455 – RTJ 150/587 – RTJ 161/685, v.g.).
+    Vê-se, desse modo, que o debate veiculado no julgamento em questão fez instaurar, na espécie, contencioso de mera legalidade, o que basta para inviabilizar a admissibilidade do recurso extraordinário.
+    Cumpre registrar, ainda, no tocante ao cabimento de recurso contra o ato judicial que determina a remessa dos autos ao contador, que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no RE 598.365- -RG/MG, Rel. Min. AYRES BRITTO, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência  de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso ‘elemento de configuração da própria repercussão geral’, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.” (grifei)
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora recorrente.
+    Com efeito, o Supremo Tribunal Federal recusará o apelo extremo sempre que se registrar hipótese, como sucede na espécie, na qual a controvérsia jurídica não se qualifique como tema revestido de repercussão geral.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 13 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
