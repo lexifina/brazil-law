@@ -1,0 +1,21 @@
+Trata-se de ação ordinária proposta pela Associação dos Magistrados do Trabalho da 18ª Região – Amatra XVIII contra a União, alegando que a Lei 11.964/2009 ampliou a composição do Tribunal Regional do Trabalho (TRT) da 18ª Região de 8 (oito) para 13 (treze) Desembargadores, e que o CNJ, no PCA 0004380-76.2012.2.00.0000, decidiu que, nos casos em que o números de vagas nos tribunais corresponde a número não múltiplo de 5 (cinco), o número de vagas do quinto constitucional do Ministério Público e da Advocacia deve ser arredondado para o número inteiro imediatamente superior, uma vez que o quinto é regra explícita na Constituição, ao passo que os quatro quintos dos membros oriundos da magistratura é regra implícita.
+    Defendeu que todas as vagas criadas pela Lei 11.964/2009 devem ser preenchidas por juízes de carreira, porque “sendo a regra a constituição dos Tribunais por juízes de carreira, o cálculo para inclusão de advogados e membros do Ministério Público deve ser feito no sentido de restringir o número de representantes destas classes quando não for uma divisão exata” (fl. 9).
+    Ressaltou que este foi o entendimento que vigorou por décadas no Supremo Tribunal Federal, que foi acolhido pela Resolução Administrativa 35/2012 Tribunal Regional do Trabalho da 18ª Região – posteriormente revogada pelo Conselho Nacional de Justiça no PCA 0004380-76.2012.2.00.0000, e que merece ser retomado pela atual composição da Corte Suprema.
+    Requereu a declaração de que todas as vagas criadas pela Lei 11.964/2009 devem ser preenchidas por juízes de carreira, restaurando-se os efeitos da Resolução Administrativa 35/2012 Tribunal Regional do Trabalho da 18ª Região.
+    A liminar foi deferida pelo juízo de origem (fls. 200/203).
+    A Associação Nacional dos Procuradores do Trabalho – ANPT requereu sua habilitação no feito (fls. 212/213), o que foi deferido (fl. 455).
+    A União contestou (fl. 299/312), alegando a incompetência absoluta do juízo de origem para julgar ações contra atos do Conselho Nacional de Justiça. No mais, defendeu o teor da decisão do Conselho Nacional de Justiça, e requereu a improcedência.
+    A ANPT ofereceu contestação (fls. 515/538), alegando a usurpação da competência do Supremo Tribunal Federal pelo juízo de Goiás e, no mérito, pleiteou a improcedência.
+    A Amatra XVIII apresentou réplica (fls. 542/543).
+    A Ministra Cármen Lúcia acolheu reclamação para reconhecer a usurpação de competência e determinou a remessa dos autos ao Supremo Tribunal Federal, para julgamento nesta Corte (fls. 606/619).
+    A Procuradoria-Geral da República opinou pelo não conhecimento da ação e, no mérito, pela improcedência.
+    É o relatório. Decido.
+    Bem examinados os autos, verifico que o entendimento desta Corte firmou-se, em julgado em que fui vencido, no sentido da de que “o disposto no artigo 5º, inciso XXI, da Carta da República encerra representação específica, não alcançando previsão genérica do estatuto da associação a revelar a defesa dos interesses dos associados” (RE 573232 / SC, Rel. Min. Marco Aurélio).
+    As condicionantes próprias da ação coletiva de rito ordinário, prevista no art. 5º, XXI, da Carta Política, previstas na Lei no artigo 2º-A da Lei nº 9.494/1997, incluído pela Medida Provisória nº 2.180-35/2001, foram reafirmadas no Recurso Extraordinário 612.043 – PR, em que fui vencido.
+    A autora foi intimada para se manifestar quanto à preliminar de ilegitimidade ativa arguida pela Procuradoria-Geral da República, mas quedou-se silente, deixando de apresentar comprovação da regularidade da propositura da ação, nos termos de julgado do Plenário do Supremo Tribunal Federal.
+    Assim, a despeito de meu entendimento exposto nos julgados supracitados, a interpretação que aqui prevaleceu, à qual me curvo, torna imperioso o reconhecimento da ilegitimidade ativa da autora.
+    Ante o exposto, acolho a preliminar corretamente suscitada pela Procuradoria-Geral da República e julgo extinto o processo, sem resolução do mérito, com fulcro no art. 485, VI, do Código de Processo Civil. Condeno a autora a arcar com custas e honorários, que fixo em 10% do valor atualizado da causa.
+    Publique-se.
+    Brasília, 13 de setembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
