@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “SERVIDOR PÚBLICO ESTADUAL. Escrivão de polícia. Desvio de função. Pretensão de receber quinquênios acumulados referentes aos cargos de papiloscopista e de agente de telecomunicações, nos termos do art. 131 do Estatuto dos Funcionários Públicos Estaduais de São Paulo. Inadmissibilidade. Não comprovado o desvio de função. Realização de funções que se inclui nas atribuições de serviço policial. Falta de amparo legal. Pretensão que ofende aos incisos XIII, XIV e XVI do artigo 37 da Constituição Federal. Sentença mantida. Recurso improvido.”
+    O recurso busca fundamento no art. 102, III, a, b e c, da Constituição Federal. A parte recorrente alega violação ao art. 37, caput, II, da Constituição.
+    A decisão deve ser mantida. A parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC.
+    Como já registrado por este Tribunal, “a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Ademais, aplica-se a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o seguinte trecho de ementa:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.” (AI 839.837-AgR, Rel. Min. Ricardo Lewandowski)
+    O Tribunal de origem concluiu que “que não houve desvio de função, pois o servidor não exerceu atribuições inerentes a cargo diverso daquele em que foi inicialmente investido”. Dissentir dessa conclusão exigiria a análise dos fatos e provas colacionados aos autos, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 13 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
