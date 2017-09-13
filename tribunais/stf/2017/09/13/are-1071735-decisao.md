@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “CERCEAMENTO DE DEFESA – Processo administrativo disciplinar – Servidor público municipal – Demissão – Julgamento antecipado da lide – Aplicabilidade – Fatos suficientemente comprovados pela documentação acostada – Dilação probatória que é dispensada – ART. 330, I, CPC – Nulidade afastada.
+    PROCESSO ADMINISTRATIVO DISCIPLINAR – Servidor público municipal – Demissão – Reintegração no cargo – Ausência de portaria de instalação – Comissão processante formada por servidores ocupantes de cargo em comissão – Irrelevância – Prejuízo ao exercício do direito de defesa não demonstrado – Improcedência mantida.
+    PROCESSO ADMINISTRATIVO DISCPLINAR – Servidor público municipal – Demissão - Devolução dos vencimentos – Inadmissibilidade – Uma vez que o servidor efetivamente desempenhou as atividades do cargo, faz jus à remuneração correspondente, sob pena de enriquecimento sem causa por parta da Administração – Reconvenção improcedente – Recursos desprovidos.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIV e LV; 37, caput, I; e 41, § 1º, , da Constituição.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) “ao que se infere, os argumentos expendidos não são suficientes para infirmar a conclusão do v. aresto combatido que contém fundamentação adequada para lhe dar respaldo. Tampouco restou evidenciado qualquer maltrato a normas constitucionais, não sendo atendida qualquer das hipóteses das alíneas ‘a’, ‘b’, ‘c’, e ‘d’ do permissivo constitucional”; (ii) “a análise demandaria o exame de matéria infraconstitucional, quando é sabido que a ofensa à Constituição Federal deve ser direta e frontal, e não por via reflexa”.
+    O recurso extraordinário não deve ser provido. Aplica-se a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido em face da da Constituição. Nessa linha, veja-se o seguinte trecho da ementa do AI 839.837-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “[...]
+    II - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.”
+    Ademais, para dissentir do entendimento do Tribunal de origem de que os procedimentos que antecederam a demissão da parte recorrente contrariaram o contraditório e a ampla defesa, seria necessária uma nova apreciação dos fatos e do material probatório constantes dos autos, o que não tem lugar neste momento processual, nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+     Publique-se.
+          Brasília, 13 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
