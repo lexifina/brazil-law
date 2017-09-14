@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de recursos extraordinários interpostos em face de acórdão do Tribunal Regional Federal da 4ª Região que possui a seguinte ementa (fl. 266, Vol. 3):
+    ADMINISTRATIVO E CIVIL. AÇÃO REGRESSIVA. INSS. RESSARCIMENTO DE PENSÃO POR MORTE. ACIDENTE DE TRABALHO. LEGITIMIDADE PASSIVA. ARTIGO 120 DA LEI Nº 8.213/91. CONSTITUCIONALIDADE. CONSTITUIÇÃO DE CAPITAL. DESCABIMENTO.
+    1. Em caso de terceirização de serviços, o tomador e o prestador respondem solidariamente pelos danos causados à saúde dos trabalhadores.
+    2. A constitucionalidade do artigo 120 da Lei nº 8.213/91 restou reconhecida por esta Corte, nos autos da Argüição de Inconstitucionalidade na AC nº 1998.04.01.023654-8. Portanto, se o benefício é custeado pelo INSS, este é titular de ação regressiva contra o responsável negligente, nos termos do artigo 120 da Lei nº 8.213/91, sem que tal previsão normativa ofenda a Constituição Federal.
+    3. O artigo 120 da Lei nº 8.213/91 é claro ao vincular o direito de regresso da autarquia previdenciária à comprovação da negligência por parte do empregador quanto às normas padrão de segurança e higiene do trabalho, indicadas para a proteção individual e coletiva. Evidenciada a negligência das empresas, impõe-se o dever de ressarcir o INSS pelas despesas efetuadas com a concessão do benefício de pensão por morte aos dependentes do empregado falecido.
+    4. Descabida a constituição de capital em relação a parcelas vincendas do benefício, pois a aplicação do artigo 475-Q do Código de Processo Civil destina-se à garantia de subsistência de pensionista. Como a parte ré não está sendo condenada a um pensionamento e sim a um ressarcimento das despesas relativas ao pagamento de benefício previdenciário, o segurado não corre risco de ficar sem a verba alimentar, cujo pagamento é de responsabilidade do INSS.
+    Nos apelos extremos, interpostos com amparo no art. 102, III, “a”, da Constituição Federal, os recorrentes sustentam, em síntese, que o julgado ofendeu os artigo 7º, XXVIII, da Constituição Federal.
+    É o relatório. Decido.
+    O Juízo de origem manteve a procedência da ação regressiva com pedido de ressarcimento pelo pagamento por pensão por morte com fulcro na Lei 8.213/1991.
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição indicadas no recurso extraordinário são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. Nesse sentido:
+    AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO REGRESSIVA ACIDENTÁRIA PROPOSTA PELO INSS. RESSARCIMENTO DE VALORES RELATIVOS AO PAGAMENTO DE BENEFÍCIO PREVIDENCIÁRIO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO. (ARE 1.009.404-AgR, Rel. Min. LUIZ UX, Primeira Turma, DJe de 23/03/2017)
+    Agravo regimental em recurso extraordinário com agravo. 2. Acidente de trabalho. Ação regressiva movida pelo INSS. Responsabilidade do empregador. Necessidade do revolvimento do conjunto fático-probatório. Incidência do Enunciado 279 da Súmula do STF. Reexame de matéria infraconstitucional. 3. Ofensa reflexa à Constituição Federal. 4. Alegação de ofensa ao inciso IX do art. 93 da Constituição Federal. Inexistência. Precedente. AI-QO-RG 791.292, Tema 339. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento. (ARE 897.801-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 05/11/2015)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AOS RECURSOS EXTRAORDINÁRIOS.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 14 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
