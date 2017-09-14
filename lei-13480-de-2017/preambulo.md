@@ -1,0 +1,2 @@
+Altera o art. 2º e o Anexo IV da Lei nº 13.408, de 26 de dezembro de 2016, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2017, e o art. 2º e o Anexo IV da Lei nº 13.473, de 8 de agosto de 2017, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2018.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
