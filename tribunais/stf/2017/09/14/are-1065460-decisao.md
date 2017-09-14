@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “TRIBUTÁRIO. PIS. COFINS. FATURAMENTO. BASE DE CÁLCULO. INCONSTITUCIONALIDADE RECONHECIDA PELO STF. ART. 9º DA LEI 9.718/98. VARIAÇÕES MONETÁRIAS. INCIDÊNCIA NA LIQUIDAÇÃO DA OPERAÇÃO. APELAÇÃO NÃO PROVIDA.”
+    No recurso extraordinário, interposto com base no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 97 da Constituição Federal.
+    Sustenta-se, em síntese, que o art. 9º da Lei 9.718/1998, a qual preconiza a incidência das contribuições para o PIS/COFINS sobre as receitas oriundas de variações cambiais, foi afastado pelo Tribunal de origem, sem a observância da cláusula de reserva de plenário.
+    A Vice-Presidência do Tribunal Regional Federal da 2ª Região inadmitiu o recurso, com base na Súmula 636 do Supremo Tribunal Federal e por ofensa à Constituição, caso houvesse, ser reflexa.
+    É o relatório.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem em sede de embargos declaratórios:
+    “Apesar de fazer menção a não aplicação do art. 9º da Lei 9.718/98 em razão de possível inconstitucionalidade deste dispositivo, o acórdão embargado anulou o auto de infração porque houve lançamento do PIS na operação financeira antes que houvesse a efetiva liquidação da variação cambial.
+    Segundo ficou consignado no acórdão embargado, a fiscalização lastreou a infração com base em registro contábeis, sem apuração da receita efetiva, desta forma, seria incabível a incidência dos tributos, sem prejuízo a eventual tributação quando ocorresse a liquidação das operações cambiais.”
+    Nesses termos, verifica-se a ausência de impugnação a fundamento determinante infraconstitucional suficiente, por si só, para a manutenção do acórdão recorrido, o que veda o processamento do presente recurso extraordinário, nos termos da Súmula 283 do STF.
+    Confiram-se, a propósito, os seguintes julgados:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. HONORÁRIOS. SUCUMBÊNCIA. COMPENSAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO (SÚMULAS 282 E 356). INTEPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. INCIDÊNCIA DA SÚMULA 283 DO STF. É pacífica a jurisprudência desta excelsa Corte no sentido de somente se considerar atendido o requisito do prequestionamento quando houver, no acórdão recorrido, manifestação prévia e conclusiva sobre o dispositivo constitucional tido por violado. Precedente: AI 413.963-AgR, Rel. Min. Celso de Mello. Não bastasse, observa-se que o Tribunal de origem utilizou como razão de decidir fundamentos de ordem infraconstitucional. Tais fundamentos, como se sabe, são insuscetíveis de apreciação em sede de recurso extraordinário, porque eventual ofensa ao Texto Magno, se existente, dar-se-ia de modo indireto ou reflexo. Além disso, ante o trânsito em julgado dessas questões legais suficientes, per se, para a manutenção do acórdão recorrido, é de se aplicar o óbice da Súmula 283 desta colenda Corte. Agravo regimental a que se nega provimento.”
+(RE 395838 AgR, Rel. Min. CARLOS BRITTO, Primeira Turma, DJ 02.12.2005)
+    “DIREITO TRIBUTÁRIO E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CRÉDITO-PRÊMIO DO IPI. DECRETO-LEI 491/69, RESOLUÇÃO CIEX 2/79 E ART. 6º, PARÁGRAFO ÚNICO, DA CONSTITUIÇÃO FEDERAL DE 1967. APLICAÇÃO DE ALÍQUOTA CORRETA EM PROCESSO EXECUTIVO. TEMA INFRACONSTITUCIONAL. VIOLAÇÃO AOS ARTS. 5º , LV, XXXV E 93, IX, DA CONSTITUIÇÃO FEDERAL. FUNDAMENTO INATACADO. SÚMULA/STF 283. 1. A discussão acerca da ofensa ao art. 6º, parágrafo único, da Constituição Federal de 1967 referente à incidência da Resolução CIEX 2/79 envolve a apreciação de legislação infraconstitucional. 2. Existência de fundamento inatacado suficiente, per se, para a manutenção da decisão agravada. Incidência da Súmula/STF 283. Precedentes. 3. Agravo regimental desprovido.”
+(RE 500808 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 24.09.2010)
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 14 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
