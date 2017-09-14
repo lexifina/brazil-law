@@ -1,0 +1,9 @@
+DECISÃO: Reconsidero a decisão por mim proferida nestes autos, ficando prejudicado, em consequência, o exame do recurso de agravo interno contra ela interposto.
+    Passo, desse modo, a apreciar o apelo extremo deduzido pelo Programa das Nações Unidas Para o Desenvolvimento – PNUD. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 1.034.840/DF, Rel. Min. LUIZ FUX, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. ORGANISMO INTERNACIONAL. ORGANIZAÇÃO DAS NAÇÕES UNIDAS - ONU. PROGRAMA DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO - PNUD. CONVENÇÃO SOBRE PRIVILÉGIOS E IMUNIDADES DAS NAÇÕES UNIDAS - DECRETO 27.784/1950. CONVENÇÃO SOBRE PRIVILÉGIOS E IMUNIDADES DAS AGÊNCIAS ESPECIALIZADAS DAS NAÇÕES UNIDAS - DECRETO 52.288/1963. ACORDO BÁSICO DE ASSISTÊNCIA TÉCNICA COM AS NAÇÕES UNIDAS E SUAS AGÊNCIAS ESPECIALIZADAS - DECRETO 59.308/1966. IMPOSSIBILIDADE DE O ORGANISMO INTERNACIONAL VIR A SER DEMANDADO EM JUÍZO, SALVO EM CASO DE RENÚNCIA EXPRESSA À IMUNIDADE DE JURISDIÇÃO. ENTENDIMENTO CONSOLIDADO EM PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.”
+    O exame da presente causa evidencia que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte estabeleceu e reafirmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, VIII, c/c o RISTF, art. 21, § 1º), em ordem a determinar seja observada a orientação referida.
+    Publique-se.
+    Brasília, 14 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
