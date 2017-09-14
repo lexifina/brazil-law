@@ -1,0 +1,7 @@
+LEI N. 4.511, DE 14 DE SETEMBRO DE 2017.
+
+ALTERA, na forma que especifica, a Lei n. 2.358, de 29 de novembro de 1995, que “DISPÕE sobre a criação do CONSELHO ESTADUAL DE ASSISTÊNCIA SOCIAL e do FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL e dá outras providências.”
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+D E C R E T A:
