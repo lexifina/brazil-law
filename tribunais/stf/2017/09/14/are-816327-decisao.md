@@ -1,0 +1,23 @@
+Decisão
+    Trata-se de agravo contra decisão que não admitiu recurso extraordinários interposto em face de acórdão do Tribunal Regional Federal da 4ª Região que possui a seguinte ementa (Vol. 24):
+    PENSÃO POR MORTE. DECADÊNCIA. MORTE DA ESPOSA. ÓBITO ANTERIOR A LEI 8.312/91. REQUISITOS. IMPOSSIBILIDADE.
+    In casu, não há que se falar em decadência do direito do INSS em rever o ato de concessão do benefício de pensão por morte, já que tal procedimento sequer foi efetuado pela Autarquia, que apenas suspendeu o benefício em razão da ausência de dependente válido.
+    A concessão do benefício de pensão depende da ocorrência do evento morte, da condição de dependente de quem objetiva a pensão e da demonstração da qualidade de segurado do de cujus.
+    Para a obtenção do benefício de pensão por morte deve a parte interessada preencher os requisitos estabelecidos na legislação previdenciária vigente à data do óbito, consoante iterativa jurisprudência dos Tribunais Superiores e desta Corte
+    Somente com o advento da Lei nº 8.213/91 surge o direito ao marido ou companheiro não-inválido ao benefício de pensão por morte da esposa, uma vez que inexistia previsão legal na legislação anterior nesse sentido.
+    Hipótese em que a legislação vigente à época do óbito apenas considerava o marido inválido como beneficiário, não há como se conceder o benefício pretendido, por forma e prestígio do princípio tempus regit actum.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, alega-se, em síntese, que o julgado ofendeu os artigos 1º, III, 3º, III e IV, 5º, XXXVI e XLII, 6º, 37, 182, § 3º, 191, 193, 194, 201 e 203 da Constituição Federal.
+    A decisão agravada tem por fundamento a incidência do óbice da Súmula 282/STF.
+    No agravo, a parte agravante sustenta, em síntese, que os dispositivos foram prequestionados. No mais, repisa as alegações de mérito do recurso extraordinário.
+    É o relatório. Decido.
+    O recurso merece provimento, senão vejamos.
+    O Tribunal de origem divergiu do entendimento firmado por esta Corte no sentido de que a exigência de comprovação de invalidez do cônjuge varão, para fins de recebimento de pensão por morte, viola o princípio da isonomia. Nesse sentido:
+     Agravo regimental no recurso extraordinário. Previdenciário. Pensão por morte. Cônjuge varão. Demonstração de invalidez. Princípio da isonomia. Aplicabilidade imediata do Regime Geral de Previdência Social. Precedentes. 1. A regra isonômica aplicada ao Regime Próprio de Previdência Social também se estende ao Regime Geral de Previdência Social. 2. O art. 201, inciso V, da Constituição Federal, que equiparou homens e mulheres para efeito de pensão por morte, tem aplicabilidade imediata e independe de fonte de custeio. 3. A Lei nº 8.213/91 apenas fixou o termo inicial para a aferição do benefício de pensão por morte. 4. Agravo regimental não provido. (RE 415.861-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 1/8/2012)
+    DIREITO CONSTITUCIONAL E PREVIDENCIÁRIO. PENSÃO POR MORTE. CÔNJUGE VARÃO. COMPROVAÇÃO DE DEPENDÊNCIA ECONÔMICA. INOVAÇÃO DA MATÉRIA: IMPOSSIBILIDADE. AUSÊNCIA DE OMISSÃO. 1. Os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais. 2. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que afronta o princípio constitucional da isonomia lei que exige do marido, para fins de recebimento de pensão por morte da mulher, a comprovação de estado de invalidez. 3. A questão referente à comprovação da dependência econômica do cônjuge varão como condição para adquirir a qualidade de pensionista não foi argüida no agravo regimental, no qual a parte embargante se limitou a levantar argumentos em relação à categoria de dependente – obrigatório ou facultativo –, à fonte de custeio e à necessidade de comprovação da condição de invalidez. 4. Os embargos de declaração devem apontar omissão, contradição ou obscuridade no acórdão impugnado e não inovar matéria até então estranha à discussão dos autos. 5. Embargos de declaração rejeitados. (RE 563.953-AgR-ED, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 26/4/2011)
+    Diante do exposto, com base no art. 21, § 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, conheço do agravo para, desde logo, DAR PROVIMENTO ao recurso extraordinário para julgar parcialmente procedente o pedido inicial, apenas para restabelecer a pensão por morte.
+    Ficam proporcionalmente compensados os ônus da sucumbência.
+    Publique-se.
+    Brasília, 14 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
