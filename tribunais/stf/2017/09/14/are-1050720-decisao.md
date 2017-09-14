@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu Recurso Extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho, do qual destaco a seguinte trecho (eDOC 11, p. 10):
+    “2.30. CLÁUSULA 5ª- HORAS EXTRAORDINÁRIAS
+    DECISÃO DO TRIBUNAL REGIONAL:
+    A Corte Regional, às fls. 447, deferiu a pretensão referente às horas extraordinárias nos seguintes termos, in litteris: CLÁUSULA 5ª - HORAS EXTRAORDINÁRIAS: As horas extraordinárias serão remuneradas com o adicional de 100%, vencidos os Exmos. Desembargadores Gilmar Cavalieri, Relator e Lourdes Dreyer Revisora.”
+    No Recurso Extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 7º, XVI e 114, § 2º, da Constituição Federal. Nas razões recursais, sustenta-se, inicialmente, que a “remuneração das horas extraordinárias prestadas, encontra previsão expressa no art. 7º, inciso XVI, da Constituição” e que “qualquer ampliação do percentual a ser calculado somente é possível, via legislativa, ou por acordo autônomo firmado entre as partes interessadas” (eDOC 20, p. 5).
+    Argumenta-se, nesse sentido, que “não esta no papel do poder normativo do justiça do trabalho fixar valores de forma diversa, contrariando disposições legais e aquelas já fixadas pelas partes em acordo autônomo, desprestigiando o reconhecimento das convenções coletivas (art. 7º, XXVI, da CF/88) (eDOC 20, p. 5).
+    Sustenta-se, por fim, que a previsão contida no art. 114, § 2º, da Constituição da República, “ao delimitar a atuação do poder normativo da justiça do trabalho, deixa claro, sem margens de dúvidas, que a Justiça Especializada, no gozo de suas atribuições, deve normatizar, respeitando o mínimo constitucional assegurado (no caso pagamento de horas extras em no mínimo 50%) e respeitando o que convencionado pelas partes em acordo autônomo” (eDOC 20, p. 5).
+    O Tribunal de origem não admitiu o recurso extraordinário em virtude do óbice da Súmula 282, bem como em relação ao tema 181 de repercussão geral, todos do Supremo Tribunal Federal (eDOC 28).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que as instâncias de origem, quando do julgamento do Recurso Ordinário, asseverou (eDOC 11, p. 11-12):
+    “A jurisprudência pacífica desta Corte Normativa fixou o entendimento de que é cabível a estipulação do adicional de 100% para todo o labor extraordinário, sob o fundamento de que essa medida inibe o abuso na prorrogação da jornada e protege a saúde física e mental dos trabalhadores, além de incentivar novas contratações para o desempenho das atividades laborais.
+    Nesse sentido, citem-se os seguintes precedentes: TST-RO-369-19.2012.5.12.0000, Rel. Min. Walmir Oliveira da Costa, SDC, DEJT 13/12/13; TST-RO-8473-56.2011.5.04.0000, Rel. Min. Márcio Eurico Vitral Amaro, SDC, DEJT 30/10/13; TST-RO-355400-75.2009.5.04.0000, Rel. Min. Mauricio Godinho Delgado, SDC, DEJT 18/05/12; TST-AgR-ES-221-41. 2012.5.00.0000, Rel. Min. João Oreste Dalazen, SDC, DEJT 04/05/12; TST-RO-2013300-67.2010.5.02.0000, Rel. Min. Kátia Magalhães Arruda, SDC, DEJT 27/04/12.
+    Nota-se, portanto, que a CLÁUSULA 5ª está harmonizada com o entendimento jurisprudencial atual deste Tribunal Superior do Trabalho, não havendo prejuízo à disciplina legal da matéria.
+    Registre-se, no tocante à alegação de inviabilização econômica do setor, que a impugnação recursal se mostra genérica, pois desacompanhada de dados concretos que pudessem demonstrar a efetiva situação econômico-financeira dos empregadores, o que impossibilita o acolhimento da pretensão de exclusão da proposta.
+    Ressalte-se que a imposição de condição laboral por meio de sentença normativa é inerente à competência constitucional desta Justiça Especializada para, no exercício do poder normativo, julgar dissídios coletivos.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 e 454 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. DISSÍDIO COLETIVO DE NATUREZA ECONÔMICA. ALEGADA OFENSA AO ART. 114, §2º, DA CONSTITUIÇÃO DA REPÚBLICA. PODERES E LIMITES DA SENTENÇA NORMATIVA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 759.617 AgR, Relatora Ministra Cármen Lúcia, Primeira Turma, Dje 23.10.2009)
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a” e “b” do CPC c/c art. 21, §1º do RISTF.
+    Publique-se.
+    Brasília, 14 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
