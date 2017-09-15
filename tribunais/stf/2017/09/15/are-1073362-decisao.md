@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, que entendeu que a imunidade não desonera o cumprimento de obrigação tributária acessória.
+    A decisão agravada está correta e alinhada aos precedentes firmados por esta Corte.
+    O art. 102, § 3º, da Constituição exige, como requisito de admissibilidade do recurso extraordinário, a demonstração de repercussão geral das questões constitucionais discutidas no caso. Para caracterizar a repercussão geral deve ser considerada a existência ou não de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo.
+    Cabe à parte recorrente o dever de demonstrar a existência de repercussão geral. Diante disso, a admissibilidade do recurso extraordinário exige que a demanda não apenas ultrapasse os interesses das partes, como também se mostre adequada para a discussão das questões constitucionais relevantes do ponto de vista econômico, político, social ou jurídico. Do exame do caso concreto, porém, estou convencido que o recurso extraordinário não preenche os requisitos fáticos, normativos e comparativos necessários para o seu conhecimento.
+    A pretensão recursal não merece prosperar. A jurisprudência do STF já afirmou que é ônus da parte recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional discutida no recurso extraordinário. A alegação de repercussão geral com fundamentação insuficiente ou não demonstrativa da relevância e transcendência do caso impede o conhecimento do recurso, o que não ocorreu no caso. Nesse sentido:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DA PARTE RECORRENTE. ANÁLISE DE NORMAS LOCAIS. INVIABILIDADE. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 807143 – AgR, Rel. Min. Teori Zavascki, grifos acrescentados)
+    Citem-se, ainda, contendo igual orientação, o ARE 691.595-AgR, Rel. Min. Ricardo Lewandowski; ARE 696.347-AgR-segundo, Rel.ª Min.ª Cármen Lúcia; ARE 696.263-AgR, Rel. Min. Luiz Fux; RE 762.114-AgR, Rel.ª Min.ª Rosa Weber, AI 717.821-AgR, Rel. Min. Joaquim Barbosa; e ARE 858.726-AgR, sob a minha relatoria.
+    Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 15 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
