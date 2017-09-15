@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Ministério Público Federal. Aparelhado o recurso na afronta ao art. 231 da Carta Magna.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional (Lei 8.437/92 e Decreto 1.775/96) apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse norte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TERRENOS DE MARINHA. TITULARIDADE. DEMARCAÇÃO. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. IMPRESCINDIBILIDADE DE EXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, acerca da titularidade do imóvel, seria necessária a análise das normas infraconstitucionais aplicáveis à especie, bem como o reexame do conjunto fático probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II – Agravo regimental improvido.(ARE 757502 AgR, Relator Min. Ricardo Lewandowski, 2ª Turma, DJe 24.09.2013) “.
+    Além disso, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DEMARCAÇÃO DE TERRENO DE MARINHA. REGULARIDADE DE PROCESSO DE DEMARCAÇÃO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 279/STF. A jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Precedentes. Caso em que a solução da controvérsia demandaria a análise da legislação infraconstitucional aplicada à espécie, bem como o reexame dos fatos e provas constantes dos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. Agravo regimental a que se nega provimento.(ARE 675606 AgR, Relator: Min. Roberto Barroso, 1ª Turma, DJe 02.02.2015)”.
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de setembro de 2017.
+Ministra Rosa Weber
+Relatora
