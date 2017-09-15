@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso extraordinário interposto contra acórdão que, confirmado em sede de embargos de declaração pela colenda Primeira Turma Recursal Fazendária do Estado do Rio de Janeiro, está assim ementado:
+    “Servidor público. Férias não gozadas a critério da Administração. Fracionamento em quantas demandas forem os períodos de férias não gozadas. Possibilidade. Inexistência de burla à alçada dos Juizados Especiais Fazendários. Teto constitucional que não incide na hipótese, uma vez que se impõe apenas às verbas de caráter remuneratório. ‘In casu’, a natureza indenizatória das parcelas enteladas esvazia o argumento. Impossibilidade de cômputo das vantagens ‘pro labore faciendo’, tais como auxílio alimentação e transporte, na base de cálculo da indenização. Verbas que remuneram o exercício da atividade e não podem ser outorgadas àqueles que estariam afastados dela. Conhecimento e provimento parcial do recurso.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido o preceito inscrito no art. 37, XI, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário desta Suprema Corte, ao julgar a SS 4.404-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI, fixou entendimento que torna acolhível a pretensão recursal deduzida pela parte ora recorrente:
+    “AGRAVO REGIMENTAL. SUSPENSÃO DE SEGURANÇA. TETO CONSTITUCIONAL. CONVERSÃO DE LICENÇA-PRÊMIO EM PECÚNIA.  INCIDE O ART. 37, XI, DA CONSTITUIÇÃO FEDERAL NA BASE DE CÁLCULO DE VERBA INDENIZATÓRIA, E NÃO NO VALOR TOTAL DEVIDO. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – No caso da licença-prêmio não usufruída, paga em pecúnia ao servidor aposentado, a conclusão pela natureza indenizatória é válida apenas no que se refere ao seu valor total (§ 11 do art. 37 da Constituição, na redação da EC 47/2005).
+    II – O caráter indenizatório da parcela não se estende à remuneração do servidor, ainda que para o fim específico de cálculo da licença-prêmio, sob pena de violação do inciso XI do art. 37 da Constituição, na redação da EC 41/2003.
+    III – Entendimento deste Supremo Tribunal Federal no sentido de que afronta a ordem pública a decisão que afasta a aplicação do teto constitucional.
+    IV – Agravo regimental a que se nega provimento.” (grifei)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, e considerando, ainda, a existência de precedente específico sobre a matéria ora em exame (RE 901.784-AgR/RJ, Rel. Min. CÁRMEN LÚCIA), dou provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, V, “b”), em ordem a determinar seja observada a orientação jurisprudencial em referência.
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 15 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
