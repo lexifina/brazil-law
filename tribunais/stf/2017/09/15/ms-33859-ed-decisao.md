@@ -1,0 +1,15 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão de minha lavra que negou seguimento ao mandado de segurança, por entender não configurada qualquer ilegalidade ou abuso de poder, bem como não demonstrado o direito líquido e certo violado, nos termos do art. 10 da Lei 12.016/2009 c/c 21, § 1º, RISTF.
+    Em síntese, alega o embargante que, “durante a análise do presente Remédio Constitucional, adveio, em 1º de junho de 2016, a Lei 13293-2016, a qual alterou a Lei n. 12.505, de 11 de outubro de 2011” e que, ”o ingresso da presente lei no mundo jurídico, provoca alteração na fundamentação adotada”.
+    Decido.
+    Como se sabe, o cabimento dos embargos de declaração restringe-se à análise de possível e real contradição, omissão, obscuridade ou para correção de erro material, inteligência do art. 1.022, NCPC, c/c art. 337, RISTF.
+     Na caso, verifica-se que a pretensão do embargante é a análise de sua pretensão à luz de legislação posterior ao julgado, inexistente quando da prolação da decisão ora impugnada, bem como do ato administrativo atacado por meio deste mandado de segurança, o que demonstra não haver qualquer omissão ou outro vício da decisão embargada.
+    Registre-se que os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, não vislumbradas no presente caso.
+    A esse propósito, registro que a jurisprudência desta Corte firmou-se no sentido de que é aplicável multa processual ao recurso com caráter abusivo. Confira-se:
+    “Embargos de declaração nos embargos de declaração nos embargos de declaração no agravo regimental no recurso ordinário em mandado de segurança. Terceiros embargos mediante os quais se busca rediscutir a causa. Reexame. Impossibilidade. Não conhecimento. Precedentes. 1. Inexistência dos vícios do art. 1.022 do novo Código de Processo Civil (Lei nº 13.105/15). As questões trazidas nos declaratórios já foram apreciadas pela Turma no julgamento dos dois embargos de declaração anteriormente opostos. 2. Não se conhece de terceiros embargos de declaração cujo objetivo seja promover a rediscussão da causa. 3. Não conhecimento dos embargos de declaração, com aplicação da multa prevista no art. 1.026, § 2º, do atual Código de Processo Civil, e determinação de certificação do trânsito em julgado e de pronta baixa dos autos à origem”. (MS 31.833-AgR-ED-ED-ED, Rel. Min. Dias Toffoli, Segunda Turma, Dje 9.6.2016)
+    Logo, não há como conhecer dos presentes embargos, por não se revelar o meio adequado para sanar as irresignações do embargante, sobretudo quando a jurisprudência consolidada da Corte entende não caber exame aprofundado de provas em mandado de segurança para averiguar a preterição do requerimento do impetrante junto à Administração Publica que, no caso em comento, sequer analisou seu pedido à luz na novel legislação.
+    Ante o exposto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 15 de setembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
