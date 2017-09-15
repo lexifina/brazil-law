@@ -1,0 +1,25 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na contrariedade ao princípio da isonomia.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não restou demonstrada, de forma efetiva,  a existência de repercussão geral no caso concreto, tampouco mencionada a fundamentação pertinente.
+    Observo que este Supremo Tribunal Federal consolidou entendimento no sentido de que não basta a mera descrição do instituto em tela, nem a simples referência a precedente recursal. Cabe à parte recorrente a demonstração formal e fundamentada da existência de repercussão geral da matéria, indicando especificamente as razões que evidenciem a relevância econômica, social, política ou jurídica, ainda que tal repercussão já tenha sido presumida ou declarada em outro processo. Insuficiente a mencionada preliminar, inadmissível o recurso extraordinário. Colho precedentes:
+    “RECURSO EXTRAORDINÁRIO. PRELIMINAR. REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS. DEMONSTRAÇÃO. AUSÊNCIA. PROCESSO CIVIL. NULIDADE DE ATOS PROCESSUAIS. TEMA DECIDIDO COM FUNDAMENTO NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA.
+    I – A simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa.
+    II - Inviável o recurso extraordinário se a decisão recorrida se fundamenta na interpretação de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta.
+    III - Agravo regimental desprovido.” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 24.9.2010)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS SUSCITADAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ADMINISTRATIVO. EXERCÍCIO DE FUNÇÃO PÚBLICA. REGULARIDADE DO VÍNCULO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF.
+    II – Ausência de prequestionamento das questões constitucionais suscitadas. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    III – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF.
+    IV – Agravo regimental a que se nega provimento.” (ARE 820.902-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 28.8.2014)
+    Noutro giro, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “DIREITO PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCESSÃO DE AUXÍLIO-RECLUSÃO. CUMPRIMENTO DE REQUISITOS. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS DOS AUTOS. SÚMULA 279/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que matéria relativa ao cumprimento dos requisitos para concessão de benefícios previdenciários não tem natureza constitucional, justamente por tratar-se de matéria infraconstitucional e demandar o reexame do acervo probatório dos autos (Súmula 279/STF). Precedentes. 2. Agravo regimental a que se nega provimento.(ARE 828289 AgR, Relator: Min. Roberto Barroso, 1ª Turma, DJe 28.05.2015)”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de setembro de 2017.
+Ministra Rosa Weber
+Relatora
