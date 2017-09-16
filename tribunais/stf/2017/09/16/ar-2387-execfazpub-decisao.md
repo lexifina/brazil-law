@@ -1,0 +1,42 @@
+Decisão:
+    Cuida-se de execução de honorários contra a Fazenda Pública nos autos de ação rescisória julgada parcialmente procedente.
+    O executado INSS suscita, em sua impugnação à execução, preliminar de incompetência da Suprema Corte para o julgamento da execução, “que devem ser executados no mesmo juízo de execução do valor principal [processo nº 5015639-68.2017.4.04.7100/RS]”, no bojo do qual – aponta – “estão sendo executados os honorários contratuais”. O exequente, a seu turno, defende que se tratando de ação rescisória, feito de competência originária do STF, a execução dos honorários nela arbitrados estaria submetido ao mesmo âmbito de competência.
+    É o relato do necessário. Decido.
+    Nos autos da Pet nº 6076-QO, de minha relatoria, este Supremo Tribunal definiu que, para atração de sua competência com base na alínea m do art. 102, I, da CF/88 (execução de seus julgados), se faz necessário perquirir sobre a manutenção da ratio que justificou, até a prolação da sentença, o exame da demanda pela Corte. O julgado restou assim ementado:
+    “Questão de ordem em cumprimento de sentença em mandado de segurança. Artigo 102, I, m, da CF/88. Interpretação teleológica. Ausência de competência, no caso, para processar a demanda. Questão de ordem resolvida pela incompetência da Corte.
+    1. Para atração da competência da Corte com base na alínea m do art. 102, I, da CF/88 (execução de seus julgados), se faz necessário perquirir sobre a manutenção da ratio que justificou, até a prolação da sentença, o exame da demanda pela Corte.
+    2. Questão de ordem resolvida no sentido de que não compete originariamente ao STF a execução individual de sentenças genéricas de perfil coletivo, inclusive aquelas proferidas em sede mandamental coletiva, cabendo essa atribuição aos órgãos competentes de primeira instância.
+    3. Aplicação do entendimento, no caso, da remessa dos autos ao juízo federal de primeira instância”. (Pet 6076 QO, Relator o  Min. Dias Toffoli, Segunda Turma, DJe de 26/5/17)
+    Essa compreensão se alinha ao olhar bastante criterioso que esta Corte tem lançado sobre os dispositivos insertos no art. 102, I, da CF/88, voltado sempre a preservar a feição excepcional da competência da Corte Suprema.
+    De fato, nos autos da ACO nº 359/SP-QO, o eminente Ministro Celso de Mello trouxe a este Plenário a discussão quanto ao alcance da alínea f do citado dispositivo. Naqueles autos, firmou-se o entendimento – em que pese a menção genérica do texto constitucional a “causas” e “conflitos” entre os entes federados – de que tão somente os litígios com potencialidade ofensiva sobre os valores que informam o pacto federativo seriam de competência originária desta Corte.
+    Naquele mesmo julgado foi citado trecho do voto proferido pelo eminente ministro Sepúlveda Pertence no julgamento da ACO nº 417/PA-QO, o qual bem ressalta a superação da interpretação literal por esta Corte em favor da apreensão da finalidade do dispositivo:
+    “A jurisprudência da Corte traduz uma audaciosa redução do alcance literal da alínea questionada da sua competência original: cuida-se, porém, de redução teleológica e sistematicamente bem fundamentada (...)” (ACO 417/PA-QO, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 7/12/90).
+    De igual modo, esta Corte reduziu o alcance literal da alínea n do art. 102, I, da CF para excluir da categoria de “ação em que todos os membros da magistratura sejam direta ou indiretamente interessados” aquelas demandas que: (i) comportem interesse restrito a magistrados que se encontrem sob condição específica; ou (ii) veiculem direito extensível a outros servidores públicos.
+    São precedentes: o MS nº 21.441/RJ-QO, Tribunal Pleno, Rel. Min. Paulo Brossard, Rel. p/ o ac.: Min. Ilmar Galvão, DJ de 28/5/93; e a Rcl 16.065/PR-AgR, Tribunal Pleno, Rel. Min. Teori Zavascki, DJe de 19/2/14.
+    Nesses julgados, superou-se a interpretação literal dos dispositivos fundamentalmente com o objetivo de atingir o núcleo normativo de seus comandos.
+    A interpretação que adotada, portanto, nos autos da Pet nº 6076-QO, segue a linha de compreensão deste Supremo Tribunal quanto à necessidade de se atender à ratio subjacente à edição da norma (in casu, a alínea m do art. 102, I, da CF), o que implica certa restrição ao alcance da expressão “causas de sua competência originária” constante do dispositivo, mas – insisto – apenas na exata medida exigida para o atendimento da finalidade do comando normativo.
+    O art. 102, I, m, da CF/88 traça a competência originária do Supremo Tribunal para “a execução de sentença nas causas de sua competência originária”, facultando, ainda, “a delegação de atribuições para a prática de atos processuais”. Eis o teor do dispositivo:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    (...)
+    m) a execução de sentença nas causas de sua competência originária, facultada a delegação de atribuições para a prática de atos processuais.”
+    A se adotar uma interpretação literal da norma, seria decorrência necessária a conclusão de que é competência desta Corte Suprema apreciar toda e qualquer execução de sentença proferida nas causas de sua competência originária.
+    Não vislumbro, todavia, que esse seja o intuito da norma em apreço.
+    Começo observando que esse dispositivo contém, em face dos demais, uma particularidade. É que as disposições insertas no art. 102, I, da CF/88, consoante disposto na AC nº 2596/DF, constituem “um complexo de atribuições jurisdicionais de extração essencialmente constitucional” (AC nº 2596/DF), dispostas sob critérios que envolvem:
+    (i) ora a natureza da demanda – é o que se dá com: alínea a (preservação da supremacia constitucional); alínea g (soberania do Estado brasileiro), alínea l (garantia da autoridade das decisões da Corte), alínea j (exclusividade na reapreciação e rescisão dos julgados da Corte) e alíneas n, o e r (hierarquia do Poder Judiciário); e
+    (ii) ora a posição constitucional da autoridade ou órgão envolvido nas demandas (alíneas b, c, d, i e q).
+    E aqui fica evidenciada a particularidade da regra de competência inserta na alínea m, que ostenta nítido caráter de acessoriedade às demais regras de competência do art. 102, I.
+    Isso porque “a execução de sentença nas causas de sua competência originária” constitui mero prolongamento da análise já realizada por esta Corte com base nas demais regras de competência. É, portanto, uma regra de competência firmada por atração da primeira.
+    Sendo apreciação acessória, entendo que a definição da competência desta Corte com base na alínea m se justificará sempre que existente a ratio que permitiu a atração da análise principal.
+    Aprecio a hipótese dos autos.
+    Aqui se trata de cumprimento de sentença de honorários em ação rescisória.
+    A atração da competência desta Corte, portanto, se deu em razão do julgado que esta Corte proferiu, com exame do mérito, nos autos da ação matriz, sendo, portanto, nos termos do art. 102, I, j, da CF/88, competente para o julgamento da rescisória. Vide o teor da norma:
+    j) a revisão criminal e a ação rescisória de seus julgados;
+    A ação, portanto, foi julgada originariamente em razão de ser a Suprema Corte a única instância passível de reapreciar seus próprios julgados. Essa foi a razão da atração da competência originária desta Corte. O julgado do STF, todavia, se deu em sede de recurso extraordinário, havendo, naturalmente, um juízo perante o qual tramitou o próprio feito matriz. Nesse passo, a execução de verbas honorárias não exige atuação deste Supremo Tribunal, que já cumpriu com sua missão constitucional de reapreciar, nas hipóteses legais, seus próprios julgados.
+     Lado outro, as decisões acerca da execução de honorários na ação rescisória se coaduna com as atribuições do juízo de origem, que, como salientado pelo INSS nos presentes autos, já executa os honorários contratuais da ação matriz.
+    Pelo exposto, tenho, no caso, como esgotada a jurisdição desta Corte frente à razão que justificou sua competência originária para julgamento da ação rescisória, razão pela qual determino a remessa dos autos à instância ordinária, para prosseguimento das apreciações nos autos do cumprimento de sentença da AR nº 2387.
+    Publique-se. Intime-se.
+    Brasília, 16 de setembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
