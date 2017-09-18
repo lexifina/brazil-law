@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “Constitucional e Administrativo – Apelação Cível – Revisão de Pensão Previdenciária por Morte – Servidor Policial Militar – Cobrança das Diferenças – Art. 40, § 8º da CF/1988 – Princípio da Isonomia – Paridade – Art. 3º da Lei Estadual nº 6.660/2009 aplicável – Correção monetária e juros de mora – Modificação dos índices – Matéria de ordem pública – Aplicação do art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/2009 – Correção monetária e juros de mora calculados com base no índice oficial de remuneração básica e juros aplicados à caderneta de poupança – Precedentes do STJ em recurso repetitivo – Honorários Recursais – Sucumbência Mínima – Majoração – não cabimento – Sentença parcialmente modificada.
+    I – A regra da paridade plena esculpida no art. 40, § 8º da CF, com a redação anterior à EC nº 41/2003, alcança todas as vantagens de natureza geral, configurando direito aos aposentados e pensionistas à revisão na mesma proporção e na mesma data, sempre que se alterar a remuneração dos servidores em atividade;
+    II – A não extensão do pagamento de adicionais aos inativos e pensionistas configura burla ao art. 40, § 8º, da CF/88, com a redação anterior à EC nº 41/2003. Precedentes jurisprudenciais;
+    III – Devem as pensões serem revisadas a partir de 01/05/2009, conforme arts. 3º e 9º Lei Estadual nº 6.660/09, respeitando a situação de paridade e sem redução de vencimentos;
+    IV – A correção monetária e os juros de mora, por se tratarem de consectários legais da condenação principal, possuem natureza de ordem pública, podendo ser modificados inclusive de ofícios e sem que se caracterize a reformatio in pejus . Precedentes do STJ;
+    V – A correção monetária, de acordo com os índices oficiais d e remuneração básica e juros aplicados à caderneta de poupança;;
+    VI – Recurso conhecido e parcialmente provido.
+    Sentença parcialmente modificada somente quanto à incidência da correção monetária.”
+    Opostos embargos de declaração, foram providos para suprir omissão, mantendo-se inalterado o julgamento proferido no acórdão recorrido, verbis:
+    “Ora, se a aposentadoria voluntária especial prevista para os policiais dispensa a exigência de uma idade mínima, prevendo como requisito tempo mínimo de serviço e tempo mínimo de exercício em cargo de natureza estritamente policial, não há razão para se exigir dos autores/Embargados o preenchimento de uma idade mínima para fazer jus à regra de transição inscrita na EC nº 47/2005.
+    É importante relembrar que a previsão de requisitos especiais para a aposentadoria dos policiais possui expressa autorização da Carta Política de 1988, conforme se pode verificar da redação de seu art. 10, §4º, inciso II:
+    (...)
+    Sendo assim, tem-se por inaplicável aos autores/Embargados o disposto no inciso III do art. 3º da Emenda Constitucional nº 47/2005, estando preenchidos, tal como já consignado na decisão colegiada embargada, todos os requisitos para a incidência da regra de transição prevista naquele diploma normativo em seu favor.
+    Como consequência do suprimento da omissão detectada, verifico que a decisão proferida no julgamento da Apelação Cível nº 201600819907 deve permanecer sem qualquer alteração.”
+    Sustenta o recorrente, nas razões de seu apelo extremo, violação do artigo 40, § 8º, da Constituição Federal, bem como do artigo 3º da Emenda Constitucional nº 47/2005.
+    Requer que a pensão por morte dos recorridos seja reajustada nos termos da lei, conforme dispõe o art. 40, § 8º, da Constituição Federal, vez “que o beneficiário falecido não preencheu os requisitos da regra de transição do artigo 3º da EC 47/2005.”
+    Decido.
+    Não merece prosperar a irresignação, uma vez que para ultrapassar o entendimento do Tribunal de origem de que o instituidor do benefício enquadrar-se-ia nas regras de transição previstas nas Emendas Constitucionais nºs 41/03 e 47/05, seria necessário o reexame do conjunto fático-probatório constante dos autos, cuja operação é vedada pela Súmula nº 279/STF. Sobre o tema:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Militar. Pensão por morte. Paridade e Integralidade. Decreto Estadual nº 30.886/02. Legislação local. Ofensa reflexa. Precedentes. 1. O recurso extraordinário não se presta para o exame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido. 3. Inaplicável o art. 85, § 11, do CPC, pois a parte agravada não apresentou contrarrazões” (ARE nº 868.155/RJ- AgR, Segunda Turma, de minha relatoria, DJe de 31/5/17).
+    “Direito Previdenciário. Agravo interno em recurso extraordinário com agravo. Pensão por morte. Militar. Paridade e integralidade. Ausência de matéria constitucional. Descabimento. 1. Hipótese em que a conclusão adotada pelo Tribunal de origem se sustenta na interpretação conferida ao Decreto nº 30.886/2002. Nessas condições, torna-se inviável o processamento do recurso extraordinário. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE nº 1.005.475/RJ-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 14/3/17).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 18 de setembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
