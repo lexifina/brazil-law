@@ -1,0 +1,25 @@
+Decisão:
+    1. Trata-se de reclamação formulada contra decisão da Câmara Criminal do Tribunal de Justiça do Estado da Paraíba, que denegou ordem de habeas corpus impetrada pelo reclamante, que visava trancar ação penal que tramita na 5ª Vara da Comarca de Santa Rita/PB.
+    Narra o reclamante que a decisão reclamada teria contrariado a autoridade da Súmula Vinculante 25 na medida em que admite o processamento de ação penal em face do reclamante, por suposto crime de apropriação indevida de coisa alheia móvel, quando deveria ter reconhecido a falta de justa causa da ação porque o reclamante está na condição de depositário fiel por força de decisão judicial.
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    Portanto, a função precípua da reclamação constitucional reside na proteção da autoridade das decisões de efeito vinculante proferidas pela Corte Constitucional e no impedimento de usurpação da competência que lhe foi atribuída constitucionalmente. A reclamação não se destina, destarte, a funcionar como sucedâneo recursal ou incidente dirigido à observância de entendimento jurisprudencial sem força vinculante.
+    Outrossim, a reclamação também tem guarida na efetivação de decisões proferidas em processos subjetivos, desde que a parte reclamante integre a relação processual:
+    “O uso, como paradigmas, de acórdãos prolatados em ações intersubjetivas, despossuídas de caráter erga omnes e de eficácia vinculante, não é válido na reclamação, quando delas não fez parte o reclamante.” (Rcl 9.545 AgR, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 08.04.2010)
+    3. Ademais, a jurisprudência sedimentada desta Corte compreende que a estrita pertinência entre o ato reclamado e o parâmetro de controle decisório é pressuposto de abertura da via reclamatória, de modo que o remédio não se revela adequado na hipótese em que se persegue pronunciamento que desborde do ato apontado como paradigma:
+    “Esta Corte assentou que constitui pressuposto de cabimento da reclamação a identidade material entre a decisão reclamada e o julgado tido como paradigma.” (Rcl 24126 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/11/2016)
+    “É inviável a reclamação que não demonstra a estrita aderência temática entre o ato reclamado e as decisões proferidas pelo Supremo Tribunal Federal, tidas como desrespeitadas.” (Rcl 18867 AgR, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 16/09/2016)
+    “A jurisprudência do Supremo Tribunal Federal assentou a ser incabível reclamação que trate de situação que não guarda relação de estrita pertinência com o parâmetro de controle ou quando fundada na teoria da transcendência dos motivos determinantes de acórdão com efeito vinculante.” (Rcl 7672 AgR, Relator(a): Min. EDSON FACHIN, Primeira Turma, julgado em 02/08/2016)
+    4. No caso concreto, articula-se violação à Súmula Vinculante 25:
+    “É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito.”
+    Ante as especificidades do caso concreto, observo que a situação narrada não guarda relação de estrita pertinência com o verbete, pois não se trata de prisão civil, ao contrário, o reclamante está sendo processado criminalmente por supostos ilícitos praticados na gestão da clínica Odontologia Sorriso Perfeito.
+    Segundo a denúncia (eDOC 18):
+    “Descobriu-se, posteriormente, que, aproveitando-se da sua qualidade de administrador, o meliante sonegou impostos, desviou valores da pessoa jurídica, inadimpliu obrigações para com credores e terceiros, desviou dinheiro para outras empresas, não repassou a parte do capital integralizado que cabia a André, não efetuou a devida prestação de contas, dilapidou bens, etc...tudo resultando num acumulado de dívidas na ordem de mais de R$ 1.000.000,00 (um milhão de reais), segundo o próprio denunciado relatou em documentos anexados aos autos dos vários processos civis originários dos fatos anteriormente transcritos.
+    Ao final de tudo o antigo proprietário retomou o controle da clínica mediante ordem judicial exarada pelo Juízo de Direito da 5ª Vara desta comarca.”
+    Assim, independentemente do acerto ou desacerto da decisão reclamada, o reconhecimento da justa causa para a persecução penal não traduz violação ao enunciado vinculante.
+    Assim, a irresignação deve ser aviada pelas vias próprias, a tempo e modo, descabendo conferir à reclamação contornos de atalho processual ou sucedâneo recursal.
+    5. Pelo exposto, nos termos do art. 21, § 1°, do RISTF, nego seguimento à presente reclamação.
+    Publique-se. Intime-se.
+    Brasília, 18 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
