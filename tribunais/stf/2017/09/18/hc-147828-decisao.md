@@ -1,0 +1,43 @@
+Decisão:
+    Vistos.
+    Habeas corpus impetrado por Rosenildo Ventura dos Santos, em causa própria, apontando como autoridade coatora o Ministro Rogério Schietti Cruz, do Superior Tribunal de Justiça, que denegou a ordem no HC nº 385.027/SP.
+    O impetrante/paciente aduz, em suma, que faz jus a progressão para o regime semiaberto, uma vez que preenche os requisitos objetivos e subjetivos para tanto.
+    Requer a concessão da ordem nesse sentido.
+    Examinados os autos, decido.
+    Transcrevo o teor da decisão questionada:
+    “ROSENILDO VENTURA DOS SANTOS estaria sofrendo constrangimento ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo de Execução Penal n. 7002835-26.2015.8.26.0482.
+    O paciente cumpre pena de 64 anos, 2 meses e 16 dias de reclusão, em razão da prática dos crimes de homicídio, sete roubos majorados, 2 tráficos ilícitos de drogas, furto, estelionato e porte ilegal de arma de fogo.
+    Iniciou o cumprimento da pena em 10/12/1987, com término previsto para o dia 25/9/2055.
+    Nesta Corte Superior, em impetração de próprio punho, requer a progressão ao regime semiberto, sob a assertiva de cumpriu os requisitos necessários para a concessão do benefício e existe nos autos exame criminológico favorável.
+    O Ministério Público Federal opinou pela denegação do habeas corpus.
+    Decido.
+    Em 3/3/2015, o Juízo das Execuções indeferiu o pedido de progressão do paciente ao regime semiaberto, ante a ausência de requisito subjetivo. Confira-se:
+    Com efeito, o sentenciado não reúne méritos subjetivos para alcançar a progressão e possui longa pena por cumprir - 25.9.2055, conforme cálculo de liquidação de penas elaborado. Outrossim, o sentenciado possui histórico prisional desfavorável eis que já perpetrou inúmeras faltas disciplinares de natureza grave consistentes em evasões com prática de novos delitos, evidenciando a ausência de senso de responsabilidade e a inadequação à terapêutica penal aplicada, demonstrando a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar seu merecimento à progressão para regime mais brando.
+    Sendo que diante da situação específica do sentenciado apesar do atestado de bom comportamento carcerário não se pode dizer somente com base nele que está preenchido o requisito subjetivo, pois seu prontuário demonstra com fatos concretos que o sentenciado ainda não desenvolveu meios próprios de autocensura.
+    Se num ambiente completamente regrado e vigiado o sentenciado não conseguiu desenvolver senso de responsabilidade para sua autocontenção diante das frustrações normais da vida em regime mais brando por óbvio não irá frear os seus instintos primitivos para suportar as regras da vida sem vigilância (fl. 74, destaquei).
+    Aportou aos autos da execução exame criminológico favorável ao apenado, oportunidade em que o Juízo das Execuções, em 29/4/2016, acrescentou:
+    Em que pese à conclusão do exame criminológico realizado (fl.73/80), observo que se trata de mero prognóstico; contudo, o histórico prisional do sentenciado demonstra que não há elementos que permitam a progressão de regime.
+    Diante do exposto, por ora, INDEFIRO o pedido de progressão de regime ante ausência de requisito subjetivo (fl. 75)
+    Irresignada, a defesa interpôs agravo em execução, julgado em 24/11/2016. Confira-se a ementa do acórdão:
+    AGRAVO EM EXECUÇÃO. PROGRESSÃO AO REGIME SEMIABERTO. INDEFERIMENTO. RECURSO DEFENSIVO. Progressão que se pleiteia diante do cumprimento dos requisitos necessários e resultado favorável do exame criminológico. Descabimento. O agravante cometeu delitos de natureza gravíssima (tráfico, homicídio, roubos majorados), que demandam maior cautela na concessão de benefícios, pois evidenciaram sua periculosidade. Ainda, conforme relatório psicológico, com sua postura, recorrente em fugas e cometimento de novos delitos, sinalizou pouca assimilação às regras do sistema prisional. Ausência de mérito para o pretendido perfeitamente observada. Negado provimento (fl. 24).
+    O Tribunal de origem, de acordo com sua persuasão racional, fez constar do julgado:
+    Ainda, embora lhe tenha sido favorável o resultado (conclusão) do exame criminológico a que foi submetido, situações evidentemente contrárias a ele (resultado), de importância capital para a questão, foram observados. Foi destacado pela expert, no Relatório Psicológico: ‘É reincidente, possui uma condenação de cinqüenta e nove anos, dez meses e nove dias, do montante cumpriu até a presente data 34%, no decurso desta manteve uma postura recorrente em fugas e cometimento de novos delitos, sinalizando pouca assimilação das regras do sistema prisional, bem como, nas oportunidades que teve de abrandamento da pena’. E no Relatório Conjunto de Avaliação: ‘Aparentemente não reconhece a gravidade dos fatos e as implicações decorrentes de suas ações’, bem como, destacando, que ‘os planos futuros são pouco estruturados’ (fls. 27-28).
+    Não verifico ilegalidade no ato apontado como coator.
+    Embora, a teor dos julgados desta Corte, a gravidade dos crimes cometidos e a longa pena a cumprir não sejam, por si só, fundamentos idôneos para indeferir a progressão de regime, na hipótese, as instâncias ordinárias indicaram o histórico carcerário conturbado do apenado para evidenciar a falta de requisito subjetivo, haja vista o registro de inúmeras fugas e prática de novos delitos durante a execução da pena.
+    O aplicador do direito não está adstrito a provas técnicas.
+    Consoante a sua persuasão racional, pode discordar, de maneira fundamentada, do resultado do exame criminológico. No caso, o Tribunal de Justiça analisou o comportamento global do reeducando e destacou, além da execução penal conturbada, trechos desfavoráveis do exame pericial para concluir pela sua incapacidade de adaptar-se ao regime menos rigoroso.
+    Transcreveu relatório psicológico, que indicou ‘postura recorrente em fugas e cometimento de novos delitos, sinalizando pouca assimilação das regras do sistema prisional’ e que o apenado, aparentemente ‘não reconhece a gravidade dos fatos e as implicações decorrentes de suas ações’ e seus ‘planos futuros são poucos estruturados’ (fl. 27).
+    O acórdão foi proferido em consonância com a jurisprudência desta Corte Superior, firme em assinalar que: "O exame criminológico não vincula o magistrado, que deverá formar sua convicção após a análise de todos os elementos constantes dos respectivos autos’ (HC n. 372.954/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 10/2/2017) e ‘a despeito do atestado de boa conduta, o Juízo das execuções pode considerar como não preenchido o requisito subjetivo se baseado em fatos ocorridos durante a execução penal, tal qual o histórico carcerário conturbado. Precedentes’ (AgRg no HC n. 345.795/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 13/3/2017).
+    À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem”.
+    Como visto, volta-se esta impetração contra decisão singular proferida no bojo do HC nº 385.027/SP. Logo, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente.” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14)
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    De qualquer modo deve-se registrar que o impetrante/paciente teve seu direito de progressão negado, uma vez que “as instâncias ordinárias indicaram o histórico carcerário conturbado (…) para evidenciar a falta de requisito subjetivo, haja vista o registro de inúmeras fugas e prática de novos delitos durante a execução da pena”.
+    Consoante se lê na jurisprudência da Corte:
+    “O não preenchimento dos requisitos subjetivos impede a progressão do regime de cumprimento da pena, ainda que cumprido o lapso temporal definido em lei. Inteligência do art. 112 da Lei 7.210/1984 (Lei de Execução Penal)” (HC nº 135.748/DF, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 13/2/17).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus.
+    Publique-se.
+    Brasília, 18 de setembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
