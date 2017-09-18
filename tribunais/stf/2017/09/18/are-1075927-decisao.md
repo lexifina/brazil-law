@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INTERPRETAÇÃO DE NORMAS LEGAIS — INVIABILIDADE — DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de origem julgou improcedente a exceção de suspeição criminal de magistrado, considerada a legislação de regência. No extraordinário cujo trânsito busca alcançar, a recorrente aponta a violação do artigo 5º, inciso LIII, da Constituição Federal. Aponta a contrariedade do princípio da isonomia. Diz que a atuação parcial do juiz afrontou o postulado do juiz natural. Articula com o artigo 8º do Pacto de São José da Costa Rica.
+    2. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Confiram a síntese do acórdão recorrido acórdão recorrido :
+    EXCEÇÃO DE SUSPEIÇÃO. Alegações invocadas para a arguição de suspeição que não encontram eco nas hipóteses previstas no artigo 254 do CPP. Circunstâncias tidas como indicativas de suspeição da Magistrada que, ao revés, evidenciam a busca pela verdade real, indispensável à adequada prestação jurisdicional: lastro nos arts. 155 e 156 do CPP Inexistência ao direito constitucional de defesa. Ausente o alegado pré-julgamento. EXCEÇÃO REJEITADA.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, sobretudo o artigo 254 do Código de Processo Penal, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário, apesar da interposição de embargos declaratórios, não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 18 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
