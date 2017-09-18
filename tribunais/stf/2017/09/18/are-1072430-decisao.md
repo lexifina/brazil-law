@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de Goiás confirmou o entendimento do Juízo quanto correção do procedimento e à ausência de nulidade, considerado o julgamento antecipado da lide. No extraordinário cujo trânsito pretendem alcançar, os recorrente apontam a violação do artigo 93, inciso IX, da Constituição Federal. Arguem a nulidade do acórdão por ausência de fundamentação. Sustentam a necessidade de instrução probatória.
+    2. Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, apresentando os motivos pelos quais entendeu desnecessárias as provas requeridas pelos recorrentes.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Compulsando detidamente os autos, verifico que a parte autora atendeu ao despacho limitando-se tão somente a pugnar pela realização das provas. Logo, não cuidou de demonstrar que as provas realmente se fazem necessárias e convenientes ao desate da questão controvertida, informando o motivo pelo qual deveria ser realizada, motivo esse que a tenho como impertinente.
+    Ademais, o alegado excesso de execução deve ser demonstrado na petição inicial, inclusive sob pena de rejeição liminar conforme inteligência do artigo 739-A, § 5º, do CPC, o que não foi observado pelos embargantes.
+    Do mesmo modo, quanto ao pedido de perícia agronômica, visando comprovar a frustração de safra e perdas de produtividade nas lavouras, impossível a sua realização, eis que as safras que supostamente tiveram prejuízos referem-se aos anos de 2002/2003 a 2004/2005, e não tendo a parte aforado medida cautelar de produção antecipada de provas, não há qualquer possibilidade de produzir a prova almejada.
+    A esse respeito, o Código de Processo Civil conferiu ao Juiz da causa a faculdade de indeferir as provas que reputar inócuas ou desnecessárias ao julgamento da causa.
+    (...)
+    De início, importa consignar que a decisão recorrida não padece de nulidade por falta de fundamentação, pois, como cediço, a nulidade só alcança decisões ausentes de motivação, não aquelas com fundamentação sucinta, mormente quando possibilita o amplo direito de defesa por parte do recorrente.
+    Da mesma forma, não se pode alardar nulidade processual quando o juiz, destinatário das provas, considerar despicienda produção de alguma delas, estando satisfeito com o repertório probante já existente nos autos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 18 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
