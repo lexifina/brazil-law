@@ -1,0 +1,22 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Prefeito do Município de Governador Valadares. Aparelhado o recurso na violação do art. 2º da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As instâncias ordinárias decidiram que a legislação impugnada não trata de matéria reservada à competência legislativa do Poder Executivo. Nesse contexto a apontada afronta aos preceitos constitucionais indicados nas razões recursais somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: AI 694.299-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 13.8.2013; e AI 822349 AgR, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 08.4.2011, cuja ementa transcrevo:
+    “Agravo regimental no agravo de instrumento. Representação de inconstitucionalidade de lei municipal em face de Constituição estadual. Ausência de normas de reprodução obrigatória. Incidência da Súmula nº 280/STF. Precedentes. 1. Para que seja admissível recurso extraordinário de ação direta de inconstitucionalidade processada no âmbito do Tribunal local, é imprescindível que o parâmetro de controle normativo local corresponda à norma de repetição obrigatória da Constituição Federal. 2. Inadmissível, em recurso extraordinário, a análise da legislação local. Incidência da Súmula nº 280 do Supremo Tribunal Federal. 3. Agravo regimental a que se nega provimento.”
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. TRANSPORTE COLETIVO MUNICIPAL. MATÉRIA INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Lei municipal 7.939/1997 e Lei Orgânica Municipal), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. II – Agravo regimental improvido.”
+    Quanto à interposição do apelo extremo pelo permissivo da alínea “c” do art. 102, III, da CF/88, também não se mostra cabível o recurso, deixando o Tribunal de origem de julgar válida lei ou ato de governo local contestado em face da Constituição Federal. Na hipótese, contestada a Lei municipal em face da Constituição do Estado de Minas Gerais. Colho os seguintes precedentes o RE 633.421-AgR/MS, 1ª Turma, Rel. Min. Cármen Lúcia, unânime, DJe 12.4.2011; e o RE 597.003-AgR/RJ, 2ª Turma, Rel. Min. Eros Grau, unânime, DJe 29.5.2009, verbis:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. PROMOÇÃO. LEI COMPLEMENTAR ESTADUAL N. 53/1990. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO PELAS ALÍNEAS “C” E “D” DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    (…)
+    1. A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 do Supremo Tribunal Federal.
+    2. Acórdão recorrido que não julgou válida lei ou ato de governo local contestado em face da Constituição, tampouco julgou válida lei local contestada em face de lei federal. Inviabilidade da admissão do recurso extraordinário interposto com fundamento nas alíneas “c” e “d” do artigo 102, III, da Constituição.
+    3. Agravo regimental a que se nega provimento”.
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de setembro de 2017.
+Ministra Rosa Weber
+Relatora
