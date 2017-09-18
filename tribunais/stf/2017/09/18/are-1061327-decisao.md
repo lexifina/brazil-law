@@ -1,0 +1,16 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+    Nas razões recursais, com amparo no art. 102, III, “a”, da Constituição Federal, alegou-se violação ao art. 5º, XLVI, da Magna Carta. Em sintéticas razões, o agravante sustentou no apelo extremo que: a) “O plenário do Supremo Tribunal Federal no julgamento do HC nº 111.840 concluiu pela inconstitucionalidade do § 1º do artigo 2º da Lei Nº 8.072/90. Em razão disso há possibilidade jurídica de aplicação do regime inicial semiaberto para condenados que preencham os requisitos do artigo 33, § 2º do Código Penal.”; e b) “a recorrente quando da sentença prolatada preenchia todos os requisitos para a obtenção do regime inicial semiaberto” (Vol. 3 - fls. 91-92).
+    É o relatório. Decido.
+    Pois bem. Observa-se, inicialmente, que as singelas alegações recursais não se fizeram acompanhar da necessária fundamentação, o que leva à aplicação, por analogia, do óbice da Súmula 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+    Ainda que se relevasse esse importante óbice processual, outro não seria o resultado. Com efeito, a fixação do regime inicial de cumprimento da reprimenda ficou assim fundamentada no acórdão proferido pelo TJRS (fls. 44-45, Vol. 3):
+    Assim, mercê do precedente citado, cada caso deverá ter seu regime estabelecido a partir de determinadas circunstâncias, com a prevalência do disposto no art. 33, do CP.
+    Na situação telada, embora o quantum da pena fixado ao réu em patamar inferior a 08 (oito) anos de reclusão, as circunstâncias da prática do crime, em que restou demonstrado a prática habitual do tráfico de drogas pelo réu, bem como a apreensão de significativa volumetria de cocaína, droga esta de alto poder nocivo perante a saúde pública, são circunstâncias que não permitem o cumprimento da pena em [regime] mais brando pelo réu, impondo-se o inicial fechado, com fulcro no artigo 33, §§ 2º e 3º, do Código Penal, associado ao comando do art. 42 da Lei de Tóxicos.
+    Ora, além de o art. 2º, § 1º da Lei 8.072/90 não ter sido o motivo para eleição do regime mais gravoso, neste particular, incide o óbice da Súmula 283/STF (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles), pois o recurso deixou incólume argumento apto por si só a sustentar o julgado.
+    Por fim, quanto ao alegado preenchimento dos requisitos para fixação do regime semiaberto – além da já mencionada ausência de fundamentação da alegação, é bom repetir -, o acolhimento do recurso passaria necessariamente pela revisão de fatos e provas. Incide, portanto, o óbice da Súmula 279 desta Corte: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Publique-se.
+    Brasília, 18 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
