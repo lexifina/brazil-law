@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98372, de 12 de setembro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 9025.19.90 Mercadoria: Sensor de temperatura formado por termistor e cabo elétrico, desprovido de mostrador, que fornece um sinal elétrico proporcional à temperatura medida, principalmente usado como parte de controladores eletrônicos. DISPOSITIVOS LEGAIS: RGI/SH 1 e 2a (texto da posição 90.25 e Nota nº 2 do Capítulo 90), RGI/SH 6 (texto das subposições 9025.1 e 9025.19) e RGC 1 (texto do item 9025.19.9), da Nomenclatura Comum do Mercosul (NCM), constante da TEC, aprovada pela Resolução Camex nº 125/2016, e da Tipi, aprovada pelo Decreto nº 8.950/2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435/1992, e atualizadas pela IN RFB nº 807/2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.372-2017 .pdf]
