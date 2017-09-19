@@ -1,0 +1,10 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de Mato Grosso do Sul, está assim ementado:
+    “APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO FISCAL – NULIDADE DE UMA CERTIDÃO DE DÍVIDA ATIVA POR TER SIDO CONSTITUÍDA POR INVESTIGAÇÃO DO MINISTÉRIO PÚBLICO ESTADUAL – PROVA ILÍCITA – DESCABIMENTO – NULIDADE DE UMA CERTIDÃO DE DÍVIDA ATIVA CONSTITUÍDA SEM UM PROCESSO ADMINISTRATIVO CONTENCIOSO – CONTRIBUINTE QUE REQUER O PARCELAMENTO DE UM TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO – DESNECESSIDADE – MULTA – ABUSIVA – REDUÇÃO PARA O VALOR DO IMPOSTO – JUROS – INADEQUAÇÃO DO ART. 285, DA LEI N. 1.810/97 – NÃO DEMONSTRADA – PREQUESTIONAMENTO – DESNECESSIDADE – APELO CONHECIDO E PARCIALMENTE PROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 736.090/SP, Rel. Min. LUIZ FUX, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MULTA FISCAL QUALIFICADA. SONEGAÇÃO, FRAUDE E CONLUIO. 150% SOBRE A TOTALIDADE OU DIFERENÇA DO IMPOSTO OU CONTRIBUIÇÃO NÃO PAGA, NÃO RECOLHIDA, NÃO DECLARADA OU DECLARADA DE FORMA INEXATA (ATUAL § 1º C/C O INCISO I DO ‘CAPUT’ DO ARTIGO 44 DA LEI FEDERAL Nº 9.430/1996). VEDAÇÃO AO EFEITO CONFISCATÓRIO. MATÉRIA CONSTITUCIONAL. QUESTÃO RELEVANTE DOS PONTOS DE VISTA ECONÔMICO E JURÍDICO. TRANSCENDÊNCIA DE INTERESSES. REPERCUSSÃO GERAL RECONHECIDA.”
+    Isso significa que se impõe, quanto ao Tema nº 863, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 19 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
