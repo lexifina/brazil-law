@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ÓBICE JURÍDICO INTRANSPONÍVEL: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Em 10.4.2017, determinei a devolução dos autos ao Tribunal de origem por ter sido submetida à sistemática da repercussão geral a questão trazida no presente recurso (Recurso Extraordinário com Agravo n. 901.963, Tema 848: ausência de repercussão geral; e-doc. 7).
+    2. Em 27.7.2017, os autos foram novamente remetidos para este Supremo Tribunal com o seguinte despacho do Desembargador Presidente do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “(...) o STF, em decisão proferida pela Ministra Presidente, determinou a devolução dos autos a este Tribunal de origem, considerando que o assunto versado no recurso extraordinário corresponde ao Tema 848 da sistemática da repercussão geral, cujo paradigma (ARE 901.963) discute os ‘Limites subjetivos de sentença condenatória genérica transitada em julgado proferida nos autos de ação civil pública ajuizada por associação’. Todavia, salvo melhor juízo, não seria hipótese de aplicação do regime disciplinador dos repetitivos, tendo em vista a ausência de discussão e debate nos autos acerca do tema versado no representativo. Em razão do exposto, submeto à apreciação da Corte Suprema a pretensão deduzida pela parte, para eventual reexame da matéria. Remetam-se os autos ao Supremo Tribunal Federal” (e-doc. 9).
+    Analisada a questão trazida na espécie, DECIDO.
+    3. Trata-se de agravo nos autos de recurso extraordinário interposto contra o seguinte acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXPURGOS. POUPANÇA. CORREÇÃO MONETÁRIA. IRP. INPC. TABELA PRÁTICA.
+    1. Cediço o entendimento de que a correção monetária não é um plus, mas sim simples correção do valor do débito, devendo ser aplicada independentemente do pedido expresso do credor ou de determinação expressa na sentença condenatória.
+    2. Nos procedimentos de cumprimento de sentença coletiva, que condenou instituição financeira a pagar aos poupadores a diferença decorrente de plano econômico, os valores depositados devem ser atualizados pelos índices de remuneração da poupança (IRP), somados aos expurgos inflacionários posteriores ao deferido na sentença exequenda, até a data do ajuizamento do cumprimento de sentença, quando a correção do débito deverá seguir índice oficial adotado na Tabela Prática deste Tribunal de Justiça (INPC).
+    3. Recurso conhecido e parcialmente provido” (vol. 1, e-STJ, fl. 108).
+    4. No recurso extraordinário Banco do Brasil S/A alega afronta ao inc. XXI do art. 5º da Constituição da República. Assevera que o recorrido não é parte legítima porque “a sentença coletiva beneficia apenas os poupadores que eram associados do IDEC à época do ajuizamento da ação, bem como que tenham expressamente autorizado, de forma pessoal ou assemblear, tal propositura” (vol. 3, e-STJ, fl. 200).
+    5. O recurso foi inadmitido por ausência de prequestionamento e interposto agravo, o processo veio para o Supremo Tribunal Federal.
+    6. Examinados os autos, verifica-se não haver identidade entre a questão objeto do Tema 848 da repercussão geral e aquela decidida pelo Tribunal de origem.
+    7. Como afirmado na decisão agravada, há óbice jurídico intransponível ao processamento deste recurso: o caso é de ausência de prequestionamento. A alegação de contrariedade ao inc. XXI do art. 5º da Constituição da República, suscitada no recurso extraordinário, não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar, ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+    8. Pelo exposto, nego seguimento ao presente recurso (art. 13, inc. V, al. c, do Regimento Interno do Supremo Tribunal Federal).
+    Brasília, 19 de setembro de 2017.
+Ministra CÁRMEN LÚCIA
+                                  Presidente
