@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL –INTERPRETAÇÃO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de origem, reformando o entendimento do Juízo, assentou a procedência do pedido de progressão funcional por tempo de serviço, nos termos da legislação de regência. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 2º, 5º, inciso II, 37, cabeça e inciso XIV, e 61, inciso II, § 1º, da Constituição Federal. Sustenta a ilegitimidade passiva para a causa. Diz não possuir, a complementação da pensão, caráter de benefício previdenciário. Discorre sobre a inexistência de fonte de custeio. Aponta a impossibilidade de recebimento da progressão sobre o total da remuneração. Sustenta a vedação ao efeito cascata. Alude à observância da iniciativa privativa do chefe do Poder executivo.
+    2. Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de Justiça do Estado de São Paulo julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise das Leis municipais nº 5.784/95 e da Lei Complementar municipal nº 005/02. Confiram com os seguintes trechos:
+    Quanto à gratificação de progressão funcional, o art. 18, da Lei no 2.784/95, com a redação dada pela Lei Complementar Municipal no 005, de 27 de julho de 2002, passou a estabelecer que "Fica instituída a progressão funcional por tempo de serviço a partir da data de aprovação desta lei, para cada ano (período aquisitivo) de serviço ininterrupto, de 2% (dois por cento) da respectiva remuneração a todos os servidores da FMSRC contratados por intermédio de concurso público."
+    A autora, desde que preenchidos os requisitos legais, fará jus à progressão por tempo de serviço, pois, ao contrário do alegado pela ré, não há inconstituciona1idade na base de cálculo instituída pelo art. 18, da Lei no 2.784/95, com a redação dada pela Lei Complementar Municipal n° 00512002.
+    Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 19 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
