@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da 3ª Turma Recursal de Santa Catarina que negou provimento ao recurso interposto pela parte autora para manter a sentença de improcedência do pedido de incorporação da gratificação de desempenho GDASS, por reconhecer que esta possui caráter propter laborem ou pro labore faciendo, o que leva à conclusão de que tal entendimento não fere a integralidade, tampouco o princípio da irredutibilidade de vencimentos (eDOC 32).
+    Os embargos de declaração foram rejeitados (eDOC 39).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37, XV, da Constituição Federal, bem como ao art. 3º da EC 47/2005.
+    Nas razões recursais, busca-se, em suma, “o pagamento à parte autora do benefício de aposentadoria nos exatos termos que lhe garante o fundamento constitucional que levou à sua concessão (art. 3º da Emenda Constitucional nº 47/2005), ou seja, integralmente, especialmente no tocante à gratificação de desempenho, conforme a pontuação adimplida pela parte ré no último mês em que a autora exerceu atividades profissionais” (eDOC 42, p. 12 – grifos no original).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    A hipótese tratada nos autos guarda pertinência com os seguintes precedentes, assim ementados:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Gratificação de desempenho de atividade da seguridade social (GDASS). Termo final do direito à paridade entre servidores ativos e inativos. Homologação dos resultados das avaliações. Precedentes.
+    1. O STF fixou o entendimento de que o termo inicial para o pagamento diferenciado das gratificações de desempenho entre os servidores ativos e inativos é a data da homologação do resultados das avaliações (RE nº 662.406/AL-RG).
+    2. Agravo regimental a que se nega provimento.” (ARE 812.653 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 15.12.2015).
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO FEDERAL. OFENSA CONSTITUCIONAL REFLEXA. SERVIDOR PÚBLICO APOSENTADO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL (GDASS). PARIDADE ENTRE ATIVOS E INATIVOS. TERMO FINAL. PROCESSAMENTO DOS RESULTADOS DA PRIMEIRA AVALIAÇÃO INDIVIDUAL DE DESEMPENHO. REDUÇÃO DO PERCENTUAL PAGO. INFRINGÊNCIA AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. INOCORRÊNCIA. PRECEDENTE.
+    1. Apreciando a Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo (GDPGPE), cujo regramento é similar ao da Gratificação de Desempenho de Atividade do Seguro Social (GDASS), o Plenário do STF, no julgamento do RE 631.389, Rel. Min. MARCO AURÉLIO, DJe de 3/6/2014, Tema 351, submetido ao regime do art. 543-B do CPC, decidiu pela sua concessão aos inativos, no mesmo percentual pago aos ativos, apenas até que fossem processados os resultados da primeira avaliação de desempenho. A partir desse termo, a gratificação perde sua natureza geral e adquire o caráter pro labore faciendo.
+    2. Assim, avaliados os servidores em atividade, o pagamento da GDASS aos pensionistas e inativos deverá observar o art. 16 da Lei 10.855/04, o que não ofende o princípio da irredutibilidade de vencimentos.
+    3. Agravo regimental a que se nega provimento.” (ARE 774.673-AgR-segundo, Rel. Min. Teori Zavascki, Segunda Turma, DJe 24.11.2014,).
+    Tendo em vista que a decisão recorrida observou a jurisprudência desta Corte, apreciar eventual divergência entre as alegações apresentadas pelo recorrente e o entendimento adotado pelo Tribunal a quo demandaria o reexame da legislação aplicável à espécie, o que inviabiliza o processamento do apelo extremo. Nesse sentido: AI 794.828, Rel. Min. Marco Aurélio, Primeira Turma, DJe 18.12.2012; RE 717.878 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 14.11.2014; AI 794.363 AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 20.08.2014.
+    Ante o exposto, nego seguimento ao recurso, nos termos do artigo 21, § 1º, do RISTF.
+    Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários advocatícios fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 19 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
