@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INVIABILIDADE – MINISTÉRIO PÚBLICO– INVESTIGAÇÃO – PODERES – PRECEDENTE – RESSALVA DA ÓPTICA PESSOAL – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Santa Catarina, reformando o entendimento do Juízo, condenou o acusado pela prática dos crimes descritos nos artigos 180, § 1º, do Código Penal e 1º, inciso I, da Lei 8.137/1990. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violados os artigos 5º, incisos LV e LVI, 93, inciso IX, e 129, incisos III e VIII, da Constituição Federal. Argui a nulidade da decisão, por ausência de fundamentação. Diz contrariados os princípios do devido processo legal e do contraditório. Destaca a ilegitimidade do Ministério Público para a investigação criminal, tendo como ilícito o conjunto probatório por ele produzido. Entende nula a interceptação telefônica realizada pelo Órgão acusador.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, ressaltando as premissas por meio das quais condenado o recorrente.
+    Colho do acórdão os seguintes trechos:
+    A materialidade do delito encontra-se delineada através da notificação fiscal de n. 1.023.466-16 (fl. 1.070); dos demonstrativos de cálculo de tributos confeccionados pela Secretaria do Estado da Fazenda – Anexo “Z”, ( fls.1.071-1.073) e do demonstrativo de notas fiscais, também produzido pela Fazenda Estadual – Anexo B-6 (fls. 1.074-1.078).
+    (…)
+    Todavia, como já demonstrado acima, era ele o proprietário e controlador da sociedade sonegadora. O próprio assumiu essa condição em conversa interceptada (fls. 871-872). Assim, indubitável que o recorrente tinha pleno conhecimento a respeito das falsificações realizadas pela empresa, com intuito de suprimir ICMS.
+    Ora, o apelante, conforme apontou a prova testemunhal e as interceptações telefônicas, encontrava-se frequentemente presente na empresa Laticínios Guarujá, bem assim orientava Loreci em todas as tratativas, seja na comercialização de produtos, seja na forma de pagamento de fornecedores. Portanto, detendo o real controle administrativo e financeiro da empresa – muito embora, ardilosamente, não figure no contrato social –, responde por dolo direto ou eventual quanto ao injusto
+    A decisão atacada está em consonância com a jurisprudência do Tribunal. O Supremo, no julgamento do recurso extraordinário nº 593.727, analisado sob a óptica da repercussão geral, concluiu:
+    Questão constitucional com repercussão geral. Poderes de investigação do Ministério Público. Os artigos 5º, incisos LIV e LV, 129, incisos III e VIII, e 144, inciso IV, § 4º, da Constituição Federal, não tornam a investigação criminal exclusividade da polícia, nem afastam os poderes de investigação do Ministério Público.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 19 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
