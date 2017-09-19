@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA. AGRAVO LEGAL. PREVIDENCIÁRIO. BENEFÍCIO CONCEDIDO NA ESFERA ADMINISTRATIVA E JUDICIAL. PERCEPÇÃO DE ATRASADOS. POSSIBILIDADE.
+    O artigo 124, incisos I e II, da Lei 8.213/91, com a redação dada pela Lei 9.032/95, não permite o recebimento conjunto de auxílio-doença e aposentadoria, bem como de mais de uma aposentadoria.
+    Necessária se faz a opção do segurado por um dos benefícios, para evitar a sua cumulação, o que já se deixou evidente nos autos, em razão da pretensão de executar os créditos decorrentes da ação judicial, até o dia anterior do termo inicial da aposentadoria por tempo de contribuição concedido administrativamente.
+    A opção pela aposentadoria mais vantajosa, concedida administrativamente, não obsta a execução para o recebimento de diferenças devidas em razão do benefício concedido na via judicial, em respeito ao direito adquirido e a coisa julgada, e por inexistir, neste caso, a concomitância rejeitada pelo ordenamento jurídico.
+    Agravo legal improvido.” (eDOC 3, p. 80)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, caput; 195, §5º; e 201, §§ 4º e 7º, do texto constitucional.
+    Nas razões recursais, alega-se que a parte recorrida fez a opção pela aposentadoria concedida administrativamente, e, por isso, não teria direito ao recebimento de parcelas vencidas relativas a benefício concedido judicialmente.
+    É o relatório.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Leis n. 8.213/1991 e 9.032/1995) e o conjunto probatório constante dos autos, consignou que a opção pela aposentadoria mais vantajosa, concedida administrativamente, não obsta a execução para o recebimento de diferenças devidas em razão do benefício concedido na via judicial (eDOC 3, p. 57). Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Com efeito, o artigo 124, incisos I e II, da Lei 8.213/91, com a redação dada pela Lei 9.032/95, não permite o recebimento conjunto de auxílio-doença e aposentadoria, bem como de mais de uma aposentadoria.
+    Nessa situação, necessária se faz a opção do segurado por um dos benefícios, para evitar a sua cumulação, o que já se deixou evidente nos autos, em razão da pretensão de executar os créditos decorrentes da ação judicial, até o dia anterior do termo inicial da aposentadoria por tempo de contribuição concedido administrativamente.
+    Todavia, a opção pela aposentadoria mais vantajosa, concedida administrativamente, não obsta a execução para o recebimento de diferenças devidas em razão de benefício concedido na via judicial, em respeito ao direito adquirido e a coisa julgada, e por inexistir, neste caso, a concomitância rejeitada pelo ordenamento jurídico.
+    Saliento, ainda, ter-se pacificado a jurisprudência do E. Superior Tribunal de Justiça no sentido de que a aposentadoria é um direito patrimonial disponível (REsp 1334488/SC, submetido ao regime do art. 543-C do CPC) e, portanto, renunciável, podendo ser substituída por outra”. (eDOC 3, p. 57)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas desta Corte:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. DIREITO ADQUIRIDO AO BENEFÍCIO MAIS VANTAJOSO. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. OMISSÃO. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.” (ARE 718.047-AgR-ED/RS, Rel. Min. Luiz Fux, Primeira Turma, DJe 25.9.2015)
+    “Agravo regimental no recurso extraordinário. 2. Direito Previdenciário. Direito adquirido ao melhor benefício previdenciário. 3. Acórdão do Tribunal a quo concluiu que a revisão causaria prejuízo ao autor. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279 do STF. 4. Agravo que não impugna fundamentos da decisão de inadmissibilidade. Súmula 287 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 778.636-AgR/RS, da minha relatoria, Segunda Turma, DJe 29.2.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro o valor da verba honorária fixada pela origem em 10%, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 19 de setembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
