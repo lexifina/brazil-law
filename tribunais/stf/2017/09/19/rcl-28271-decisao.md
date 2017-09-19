@@ -1,0 +1,30 @@
+RECLAMAÇÃO. DIREITO PROCESSUAL CIVIL E DO TRABALHO. BLOQUEIO DE VALORES DO FPM. ALEGAÇÃO DE DESCUMPRIMENTO DA EMENDA CONSTITUCIONAL 94/2016. DESCABIMENTO DA RECLAMAÇÃO. IMPOSSIBILIDADE DE USO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de reclamação ajuizada pelo Município de Uiraúna contra decisão do Tribunal de Justiça do Estado da Paraíba, sob alegação de violação de dispositivos da Emenda Constitucional 94/2016.
+    Eis o teor do ato impugnado:
+    “(...) determino que seja oficiado à Secretaria do Tesouro Nacional, para efetuar o desconto menção junto ao Fundo de Participação, e transferido para conta do Regime Especial de precatórios respectiva do ente, gerida por este Tribunal de Justiça, a cada mês dos valores das parcelas vincendas de 2017 (agosto a dezembro) bem como das parcelas vincendas ao acordo referente ao débito de 2016, no montante de R$ 153.114,62 (cento e cinquenta e três mil, cento e catorze reais e sessenta e dois centavos), e que se iniciem já no primeiro decênio do mês e, em não havendo recursos suficientes para integralizar o montante mensal nesse primeiro período, que se proceda à retenção nos decênios seguintes até a complementação do valor ordenado para o mês”.
+    Narra que a decisão reclamada determinou o sequestro de valores da cota do Fundo de Participação dos Municípios do Município de Uiraúna. Aduz, ainda, que “foi determinado que a Secretaria do Tesouro Nacional efetuasse o desconto mensal junto ao FPM e transferisse para a conta do Regime Especial de precatórios gerida pelo TJ-PB, a cada mês, os valores das parcelas vinculadas de 2017 e vencidas de 2016 totalizando o montante do débito a ser transferido de R$ 153.114,64”, decisão essa que, de acordo com o reclamante, contraria o art. 101 da Emenda Constitucional 94/2016.
+    Requer, ao final, a concessão de liminar a fim de suspender os efeitos da decisão reclamada, além de impedir novos sequestros na cota do FPM do Município de Uiraúna.
+    É o relatório. Decido.
+    Ab initio, destaco que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e garantir a autoridade de suas decisões, ex vi do art. 102, I, alínea l, além de salvaguardar o estrito cumprimento das súmulas vinculantes, nos termos do art. 103-A, § 3º, da Constituição da República, incluído pela EC nº 45/2004.
+    A matéria também veio disciplinada pelo Novo Código de Processo Civil, que, no art. 988, prevê as hipóteses de cabimento da reclamação, verbis:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+    § 1o A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+    § 2o A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+    § 3o Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+    § 4o As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+    § 5º É inadmissível a reclamação: (Redação dada pela Lei nº 13.256, de 2016)
+    I – proposta após o trânsito em julgado da decisão reclamada; (Incluído pela Lei nº 13.256, de 2016)
+    II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias. (Incluído pela Lei nº 13.256, de 2016)
+    § 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação”.
+    In casu, no entanto, não se observa nenhuma das hipóteses de cabimento da reclamação estabelecidas no Novel Estatuto Processual Civil, uma vez que: i) não se está diante de usurpação da competência, porquanto o Tribunal reclamado agiu nos limites de sua competência; ii) não há que se falar em afronta à autoridade de decisão desta Corte, que só admite a reclamação para questionar a observância de precedente firmado em processos objetivos, ou, em se tratando de feitos de índole subjetiva, quando a parte reclamante houver integrado a relação processual em que proferido o decisum que reputa descumprido; iii) não se alega ofensa a enunciado de súmula vinculante, tampouco de acórdão proferido em controle concentrado; e iv) não se argui afronta à autoridade de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+    Destarte, o que pretende o autor, em última análise, é utilizar o instrumento processual da reclamação como sucedâneo de recurso. Entretanto, restou assentado neste Tribunal que “a reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, l , da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual” (Rcl 4.381-AgR, Rel. Min. Celso de Mello, Plenário, DJe de 5/8/2011).
+    Ex positis, com esteio no artigo 161, parágrafo único, do RISTF, NEGO SEGUIMENTO à presente reclamação. Prejudicado o exame de medida liminar.
+    Publique-se.
+    Brasília, 19 de setembro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
