@@ -1,0 +1,12 @@
+Decisão: 1. Intimado acerca do resultado da diligência deferida por meio da decisão de fls. 271-276, o Procurador-Geral da República manifesta-se pelo levantamento do sigilo dos autos, por considerar inexistente qualquer motivo para manutenção da restrição de publicidade, bem como a juntada desta ação cautelar aos autos do Inquérito 4.487.
+    2. Principio destacando que a medida cautelar deferida nestes autos culminou no afastamento do sigilo dos dados constantes de auditoria externa realizada pela sociedade empresária Hypermarcas S/A e entregue à Comissão de Valorem Mobiliários, tendo por objeto os contratos fictícios celebrados por Nelson José de Mello em nome da companhia.
+    Tendo em vista que não se trata propriamente de quebra de sigilo bancário, anoto que, como regra geral, a Constituição Federal veda a restrição à publicidade dos atos processuais, ressalvada a hipótese em que a defesa do interesse social e da intimidade exigir providência diversa (art. 5º, LX), e desde que a preservação do direito à intimidade do interessado no sigilo não prejudique o interesse público à informação (art. 93, IX).
+    Percebe-se, nesse cenário, que a própria Constituição, em antecipado juízo de ponderação, iluminado pelos ideais democráticos e republicanos, no campo dos atos jurisdicionais, prestigia o interesse público à informação. Acrescenta-se que a exigência de motivação e de publicidade das decisões judiciais integra o mesmo dispositivo constitucional (art. 93, IX), fato decorrente de uma razão lógica: ambas as imposições, a um só tempo, propiciam o controle da atividade jurisdicional tanto sob uma ótica endoprocessual (pelas partes e outros interessados), quanto extraprocessual (pelo povo em nome de quem o poder é exercido).
+    Logo, o Estado-Juiz, devedor da prestação jurisdicional, ao aferir a indispensabilidade, ou não, da restrição à publicidade, não pode se afastar da eleição de diretrizes normativas vinculantes levadas a efeito pelo legislador constitucional.
+    No caso, a manifestação do órgão acusador revela que não mais subsistem, sob a ótica do sucesso da investigação, razões que determinem a manutenção do regime restritivo da publicidade, também não se constatando qualquer razão que assim determine em favor do requerido.
+    3. À luz dessas considerações, determino o levantamento do sigilo destes autos. Atendida a providência, providencie-se o seu apensamento aos autos do Inq 4.487.
+    Publique-se. Intime-se.
+    Brasília, 20 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
