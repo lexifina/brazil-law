@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A Turma Recursal, modificando o entendimento do Juízo, julgou improcedente o pedido de recebimento da gratificação natalina e do terço constitucional sobre as férias, porquanto expressamente vedado na legislação de regência. No extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 7º, incisos VIII e XVII, 37 e 39, § 4º, da Constituição Federal. Afirma serem as verbas pleiteadas garantidas constitucionalmente a todos os trabalhadores.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    No mais, colho do ato atacado o seguinte trecho:
+    Sobreveio a Lei Municipal n° 2.061/08 que, em seu artigo 3°, § 1°, ao dispor a respeito da fixação do subsídio dos secretários municipais para o quadriênio de 2009/2012, excluiu a possibilidade de pagamento de adicionais relativos à verba de representação, gratificação natalina, abonos de férias ou outras parcelas remuneratórias, reiterando o artigo supra destacado.
+    Observando tais normas, o Município requerido não paga as verbas ali consignadas, limitando-se ao adimplemento dos subsídios estabelecidos para o exercício do cargo em consideração.
+    Imperioso destacar que não se pode olvidar que a Administração Pública é regida pelos princípios constitucionais previstos no art. 37 da Constituição Federal e que o princípio da legalidade vincula todos os atos da Administração Pública, de modo que a Administração só pode atuar conforme a lei. Em assim sendo, o crédito dos valores reclamados, em favor do autor, significaria ofensa a tal condicionante, submetendo o Administrador, enfim, a responder na via adequada.
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Colegiado de origem julgado o recurso inominado a partir de interpretação conferida a normas locais. Procedeu à análise da Lei municipal nº 2.261/2012. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Não houve debate e decisão prévios sobre a alegada violação aos artigos 7º, incisos VIII e XVII, 37 e da Constituição Federal. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 20 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
