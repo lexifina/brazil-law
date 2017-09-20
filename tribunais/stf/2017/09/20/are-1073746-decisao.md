@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem, reformando parcialmente o entendimento do Juízo, julgou procedente o pedido de pagamento do adicional de qualificação a partir da publicação da Lei nº 1.217/13 e fixou como base de cálculo o vencimento do cargo exercido pelo servidor. No extraordinário cujo trânsito buscam alcançar, os recorrentes apontam a violação do artigo 37, cabeça, da Constituição Federal. Entendem contrariado o princípio da legalidade. Afirma que a base cálculo do pleiteado adicional deve corresponder à base de incidência da contribuição previdenciária.
+    2. De inicio, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do recurso regida por esse diploma legal.
+    Colho do ato atacado os seguintes trecho:
+    Fixadas tais premissas, as autoras comprovaram, efetivamente, o regular protocolo dos diplomas junto ao Egrégio Tribunal de Justiça deste Estado (folhas 25/29), donde fazem jus ao recebimento do benefício desde a data prevista na inicial.
+    No que concerne à base de cálculo do adicional de qualificação, cabe a esta Turma Julgadora curva-se ao entendimento fixado pela Trua de Uniformização, restando superado o entendimento antes esposado: “Pedido de Uniformização de Interpretação de Lei. Servidor do Tribunal de Justiça de São Paulo. Adicional de Qualificação. Lei Complementar Estadual n 1.217/13. Base de cálculo: a base de cálculo do adicional de qualificação é o vencimento (padrão ou salário base) do cargo atual exercido pelo servidor (base de cálculo da contribuição previdenciária), nele incluído apenas os décimos constitucionais efetivamente incorporados ao cargo, sem considerar quaisquer outras vantagens (inclusive adicionais temporais quinquênios e sexta-parte). Pedido conhecido e acolhido” (0000160-57.20168.26.9025, Relator Carlos Eduardo Borges Fantacini, Comarca: São José do Rio Preto, j. Em 08.03.2017).
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Deixo de majorar os honorários previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a sucumbência recíproca.
+    4. Publiquem.
+Brasília, 20 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
