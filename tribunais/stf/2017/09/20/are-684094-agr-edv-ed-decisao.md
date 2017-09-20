@@ -1,0 +1,13 @@
+Decisão: Trata-se de embargos de declaração opostos em 11.08.2017 contra decisão monocrática que não admitiu os embargos de divergência, sob o fundamento de que “o acórdão recorrido não adentrou no mérito dos recursos extraordinários, em face da ausência de preliminar formal e fundamentada da existência de repercussão geral das questões constitucionais discutidas. A jurisprudência firmada por esta Corte à luz do CPC/1973 e do RI/STF é firme, todavia, no sentido de não serem cabíveis embargos de divergência contra acórdão que apenas examina os pressupostos processuais de outro recurso” e “o embargante não se desincumbiu do ônus de demonstração analítica da divergência jurisprudencial, que também seria essencial para viabilizar o conhecimento dos seus embargos acerca do tema, uma vez que os paradigmas utilizados não impugnam o fundamento da decisão embargada”.
+    A parte embargante sustenta omissão e reitera as razões já expendidas, no sentido de que “todas as verbas reclamadas afiguram-se indevidas porque o autor nunca fora empregado das requeridas, que desse ensejo a relação empregatícia entre as partes”.
+    É o relatório. Decido.
+    Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis apenas nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como para corrigir eventual erro material. Na hipótese, não se constata nenhum dos referidos vícios.
+    Conforme consignado na decisão impugnada, não há divergência a ser sanada. Isso porque, em decorrência do disposto no art. 332 do RISTF, o cabimento dos embargos de divergência está condicionado à existência de decisões conflitantes do Plenário ou de ambas as Turmas, o que não foi verificado no presente caso em virtude de o acórdão recorrido não ter adentrado no mérito dos recursos extraordinários.
+    Na verdade, observa-se nítido caráter infringente nas alegações recursais, uma vez que se busca o reexame da controvérsia.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que os embargos de declaração não se prestam à rediscussão do assentado no julgado, em decorrência de inconformismo da parte embargante. São representativos desse entendimento os seguintes precedentes: ARE 906.026 AgR-ED, rel. Min. Cármen Lúcia, DJe 03.11.2015; AI 768.149 AgR-ED, rel. Min. Teori Zavascki, DJe 05.11.2015; Recl 20.061 AgR-ED-ED, rel. Min. Luiz Fux, DJe 28.10.2015.
+    Diante do exposto, com base no art. 1.024, § 2º, do CPC/2015, rejeito os embargos. Em razão do caráter manifestamente protelatório do recurso, aplico multa de 1% (um por cento) sobre o valor atualizado da causa.
+    Publique-se.
+    Brasília, 20 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
