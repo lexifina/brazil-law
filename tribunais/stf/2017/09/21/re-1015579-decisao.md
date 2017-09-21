@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO. CONSUMIDOR. AÇÃO CIVIL PÚBLICA. INDENIZAÇÃO PELO FURTO DE JÓIAS SOB PENHOR. DIREITOS INDIVIDUAIS HOMOGÊNEOS. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NATUREZA DOS DIREITO COLETIVOS TUTELADOS. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 907.209. TEMA 861. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “CIVIL E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA AJUIZADA PELO MINISTÉRIO PÚBLICO FEDERAL. LEGITIMIDADE ATIVA DESTE. CONTRATO DE PENHOR. ASSALTO A AGÊNCIA DA CAIXA ECONÔMICA FEDERAL. ROUBO DAS JÓIAS EMPENHADAS. INDENIZAÇÃO AOS MUTUÁRIOS. PRETENDIDA FIXAÇÃO DO VALOR EM UMA VEZ E MEIA O DA AVALIAÇÃO. CLÁUSULA ABUSIVA. NULIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICAÇÃO.
+    1. O Ministério Público Federal está legitimado ativamente para defender interesses individuais homogêneos, quando tais direitos têm repercussão no interesse público.
+    2. Aplicam-se as disposições do Código de Defesa do Consumidor aos serviços bancários, consoante jurisprudência pacífica do Superior Tribunal de Justiça.
+    2. Desse modo, afigura-se nula cláusula inserta em contrato de penhor (adesão) que limita a indenização, em caso de extravio do bem empenhado, a uma vez e meia (1,5) o valor da avaliação, sabido que esta não leva em consideração o valor de mercado.
+    3. A justa indenização deve corresponder ao valor de mercado do bem extraviado, a ser apurado em liquidação de sentença, no caso.
+    4. Apelação desprovida. Sentença confirmada.” (Doc. 1, fl. 278)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXVI, 127, 129, 133 e 134 da Constituição Federal.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Com efeito, o acórdão recorrido não divergiu da jurisprudência desta Corte no sentido de que o Ministério Público tem legitimidade ativa para ajuizar ação civil pública em defesa dos interesses individuais homogêneos dos consumidores. Nesse sentido:
+    “PROCESSO CIVIL. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. DIREITOS DO CONSUMIDOR. CONTRATO DE LEASING. AGRAVO REGIMENTAL DESPROVIDO. O acórdão recorrido prestou, inequivocamente, jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões que lhe foram postas. Esta Corte firmou entendimento no sentido de que o Ministério Público tem legitimidade ad causam para propor ação civil pública quando a controvérsia envolver a defesa de direitos individuais homogêneos de consumidores. Agravo regimental desprovido.” (AI 606.235-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe de 22/6/2012).
+    Demais disso, a controvérsia relativa à natureza, se individual homogênea ou heterogênea, dos direitos postulados pelo Ministério Público, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 907.209 – RG, da relatoria do Min. Teori Zavascki, que possui a seguinte ementa:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. RECLAMATÓRIA TRABALHISTA AJUIZADA POR SINDICATO, NA QUALIDADE DE SUBSTITUTO PROCESSUAL. CONTROVÉRSIA ACERCA DA NATUREZA DOS DIREITOS DEMANDADOS, SE INDIVIDUAIS HOMOGÊNEOS OU HETEROGÊNEOS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à natureza, se individual homogênea ou heterogênea, dos direitos postulados por Sindicato em reclamação trabalhista, na qualidade de substituto processual, é de natureza infraconstitucional. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+    Ex positis, DESPROVEJO o recurso, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 21 de setembro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
