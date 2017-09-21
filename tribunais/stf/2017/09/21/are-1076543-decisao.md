@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – DESPROVIMENTO DE AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado de São Paulo consignou, em síntese:
+    PENSÃO POR MORTE — Mandado de segurança — Verificação de ilegalidades quanto à concessão de beneficio previdenciário — Anulação do ato administrativo írrito — Decadência do direito de anular os atos eivados de vícios — Afastamento — Observância do prazo decenal, previsto na Lei Estadual nº 10.177/1998 — Aplicação da lei especifica, em detrimento da Lei Federal nº 9.784/1999, que estabelece o prazo quinquenal. — Critério especializante — Autonomia do ente federativo — Precedentes jurisprudenciais — Demais fundamentos mantidos nos termos do que estabelece o artigo 252 do Regimento Interno desta Corte — Apelação não provida.
+    No extraordinário cujo trânsito busca alcançar, a recorrente aponta violado os artigos 1º, inciso III, e 5º, inciso XXXVI, da Constituição Federal, afirmando desrespeitado o direito adquirido à percepção de pensão por morte. Entende adequado, presente a obrigatoriedade de tratamento isonômico, o prazo decadencial de 5 anos para Administração estadual anular os próprios atos, considerada a legislação federal. Articula com o artigo 42, § 2º, da Emenda Constitucional nº 41/2003. Alega incidir sobre os fatos a lei vigente no momento do óbito do segurado. Aponta a contrariedade do princípio da dignidade da pessoa humana.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    O exercício dessa faculdade-dever - isto é extreme de dúvidas - reclama dos administradores cautela e respeito aos interesses de todos os sujeitos prejudicados com a anulação do ato, em especial pela consolidação de situações pelo decurso do tempo. Prazo que deve ser observado na lei.
+    Porém, a discussão que surge diz respeito à incidência prazo quinquenal, previsto na Lei n° 9.784/99, que regula o processo administrativo no âmbito federal, ou o lapso decenal, estipulado na Lei n° 10.177/1998, que disciplina o processo administrativo no âmbito da Administração Pública Estadual.
+    Tenho que deve prevalecer o preceito especializante da norma estadual, que prevê o prazo decenal, o que não representa ofensa ao princípio da igualdade.
+    A decisão impugnada mediante o extraordinário revela interpretação de normas estritamente legais, sobretudo a Lei estadual nº 10.177/1998 e a Lei federal nº 9.784/1999, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário quanto ao artigo 1º, inciso III, da Constituição Federal, não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 21 de setembro de 2016.
+Ministro MARCO AURÉLIO
+Relator
