@@ -1,0 +1,9 @@
+Despacho: Trata-se de Agravo Regimental interposto por ITAMARA CENCI, em face de decisão que, atendendo à manifestação do Ministério Público Federal, expediu contra-ordem de restituição de coisas apreendidas e concedeu prazo de 15 dias para que a Polícia Federal concluísse a análise dos objetos recolhidos na residência da Requerente, durante diligência de busca e apreensão decretada nos autos da PET 7226..
+    A Agravante alega que está cabalmente demonstrado nos autos que o investigado JOSÉ DOMINGOS FRAGA FILHO, um dos alvos da operação, reside em local diverso daquele onde foi realizada a busca e apreensão. Argumenta inexistir indício de qualquer relação da Agravante ou de seu apartamento com o indiciado JOSÉ DOMINGOS FRAGA FILHO. Sustenta, ainda, que “a existência de um envelope lacrado endereçado ao indiciado é prova de que ele não frequenta o local. Esta prova é corroborada com a declaração de colaboradores do condomínio de que o indiciado sequer frequenta a área comum do edifício”. Salienta que “o real endereço restou incólume”, o que evidenciaria o erro das autoridades de investigação, salientando que “o próprio investigado divulga no rol de seus bens apresentados à justiça eleitoral o apartamento em que é domiciliado desde 2012, quando o casamento com a Agravante desfez-se de direito”. Por fim, afirma que “a perpetuação da ilegalidade pode conduzir à desonra pública e pessoal da Agravante ao ter sua intimidade violada, ainda que somente interna corporis do órgão policial. Sua condição de mulher a torna ainda fragilizada e vulnerável à potencialidade de acesso por quem quer que seja a conteúdo de cunho marcadamente íntimo”.
+    É o relatório.
+    Intime-se a Procuradoria-Geral da República para, querendo, manifestar-se sobre o teor do recurso interposto pela ora Requerente, no prazo de 48 horas.
+    Publique-se.
+    Brasília, 21 de setembro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
