@@ -1,0 +1,29 @@
+Decisão
+    Trata-se habeas corpus impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça (AgRg no Agravo em Recurso Especial 684.972/RS, Rel. Min. NEFI CORDEIRO).
+    Consta dos autos, em síntese, que os pacientes foram condenados à reprimenda de 1 ano e 4 meses de reclusão, em regime inicial aberto, substituída por restritiva de direito, pela prática do crime previsto no art. 334, § 1º, “b” e “c”, do Código Penal.
+    Interposto recurso de apelação pelos acusados, o Tribunal Regional Federal da 4ª Região negou-lhe provimento. Irresignada, a defesa interpôs recurso especial no Superior Tribunal de Justiça, que, inadmitido na origem, desafiou agravo nos próprios autos, ao qual o Ministro relator negou provimento. Essa decisão foi mantida pelo colegiado no julgamento de agravo interno, em acórdão assim ementado:
+    AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO. PENA-BASE EXASPERADA. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE. EXPRESSIVA QUANTIDADE DE MERCADORIAS APREENDIAS. MAIOR REPROVABILIDADE. EXECUÇÃO PROVISÓRIA. RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. AGRAVO PARCIALMENTE PROVIDO.
+    1. Esta Corte Superior entende que a expressiva quantidade de mercadorias apreendidas no delito de contrabando é fundamentação válida para justificar a exasperação da pena-base. Precedentes.
+    2. Não se demonstra excessiva, desarrazoada ou ilegal a exasperação da pena-base em 4 meses pela valoração de uma circunstância judicial, consoante orientação jurisprudencial do STJ, segundo a qual A exasperação da pena-base não se dá por critério objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada aos elementos concretos dos autos (AgInt no HC 352.885/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/05/2016, DJe 09/06/2016).
+    3. Recente julgado da Terceira Seção desta Corte Superior, no AResp n. 1619087/SC, pacificou o entendimento quanto à execução provisória da pena restritivas de direitos, no sentido de que estas só podem ser executadas após o trânsito em julgado da sentença penal condenatória, nos estritos termos do art. 147 da Lei de Execução Penal.
+    5. Agravo regimental parcialmente provido para cassar a execução provisória da pena restritiva de direitos.
+    Nesta ação, a Defensoria Pública da União sustenta, em suma, que a exasperação da pena-base em 4 meses, em razão de apenas uma circunstância judicial desfavorável, é imotivada e desproporcional. Requer, assim, a concessão da ordem, a fim de fixar a pena-base no mínimo legal.
+    É o relatório. Decido.
+    No presente caso, o Juízo de origem fundamentou a exasperação da reprimenda em razão da circunstâncias do delito, nos termos seguintes (Doc. 4, fls. 13-14):
+    - Do réu Leandro Marthendal da Silva
+    a) Das circunstâncias judiciais: O réu não registra antecedentes (Súmula 444 do STJ: ‘é vedada a utilização de inquéritos policias e ações penais em curso para agravar a pena-base’). Conduta social e personalidade não reveladas. O motivo do crime – lucro – é compatível com o tipo penal. Comportamento da vítima irrelevante. As circunstâncias são consideráveis diante da quantidade de cigarros apreendidos. Não foram apuradas consequências mais graves, diante da apreensão da mercadoria anteriormente à distribuição. A culpabilidade é normal.
+    Considerandos as circunstâncias mencionadas, estabeleço a pena-base em 1 ano e 4 meses de reclusão.
+    [...]
+    - Do réu César Melo Prestes
+    a) Das circunstâncias judiciais: O réu não registra antecedentes (Súmula 444 do STJ: ‘é vedada a utilização de inquéritos policias e ações penais em curso para agravar a pena-base’). Conduta social e personalidade não reveladas. O motivo do crime – lucro – é compatível com o tipo penal. Comportamento da vítima irrelevante. As circunstâncias são consideráveis diante da quantidade de cigarros apreendidos. Não foram apuradas consequências mais graves, diante da apreensão da mercadoria anteriormente à distribuição. A culpabilidade é normal.
+    Considerandos as circunstâncias mencionadas, estabeleço a pena-base em 1 ano e 4 meses de reclusão.
+    A dosimetria da pena está ligada ao mérito da ação penal, ao juízo que é realizado pelo magistrado sentenciante após a análise do acervo probatório amealhado ao longo da instrução criminal. Daí ser inviável, na via estreita do habeas corpus, reavaliar os elementos de convicção, a fim de se redimensionar a sanção. O que está autorizado, segundo reiterada jurisprudência desta Corte, é apenas o controle da legalidade dos critérios invocados, com a correção de eventuais arbitrariedades (cf. HC 105.802, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 4/12/2012; HC 94.125, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 6/2/2009; HC 102.966 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 21/3/2012; HC 110390, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2012).
+    No presente caso, o aumento da pena foi devidamente motivado pelas circunstâncias do crime, revelada pela quantidade de mercadoria apreendida no delito de contrabando. Registra-se que os acusados adquiriram, transportaram e mantiveram em depósito 24.960 maços de cigarros de origem do Paraguai. (Doc. 4, p. 2).
+    Desse modo, o acórdão, ao declinar quadro relativamente desfavorável ao paciente, atendeu adequadamente aos requisitos de legalidade.
+    Em suma, o incremento da pena-base em 4 meses, ante a variação de 1 a 4 anos da sanção em abstrato, foi estabelecido de maneira proporcional e adequada às particularidades do caso, não havendo constrangimento ilegal a ser sanado.
+     Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO HABEAS CORPUS.
+    Publique-se. Intime-se.
+    Brasília, 21 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
