@@ -1,0 +1,2 @@
+Altera a Lei nº 10.893, de 13 de julho de 2004, para estabelecer a obrigatoriedade de divulgação dos valores arrecadados do Adicional ao Frete para a Renovação da Marinha Mercante (AFRMM) e do quantitativo e da destinação dos valores arrecadados ao Fundo da Marinha Mercante (FMM).
+O PRESIDENTE DA CÂMARA DOS DEPUTADOS, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
