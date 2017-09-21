@@ -1,0 +1,10 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA – BENEFÍCIO PREVIDENCIÁRIO – REAJUSTE – TETO – EMENDA CONSTITUCIONAL Nº 20/1998 – PROVIMENTO PARCIAL.
+    1. O Tribunal de origem, reformando o entendimento do Juízo, assentou a improcedência do pedido de revisão de benefício previdenciário pelos novos tetos estabelecidos pelas Emendas Constitucionais nº 20/1998 e nº 41/2003. No extraordinário, a recorrente alega a violação dos artigos 5º, inciso XXXVI, da Constituição Federal, 14 da Emenda Constitucional nº 20/1998 e 5º da Emenda Constitucional nº 41/2003. Sustenta o direito à revisão pleiteada. Afirma pertinente o decidido no recurso extraordinário nº 564.354, arguindo a inexistência de restrição temporal.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    O Tribunal, na apreciação do recurso extraordinário nº 564.354/SE, relatora a ministra Cármen Lúcia, acórdão publicado no Diário da Justiça da 15 de fevereiro de 2011, confirmou a aplicação do novo teto previdenciário determinado pelas Emendas Constitucionais nº 20/1998 e nº 41/2003 a aposentadorias implementadas antes de a referida norma entrar em vigor, sem imposição de limites temporais relacionados à data de início do benefício.
+    3. Ante o precedente, conheço e dou provimento ao agravo. Ante o precedente, julgou desde logo o extraordinário, conhecendo-o e provendo-o parcialmente para, reformando o acórdão recorrido, determinar o retorno do processo ao Colegiado de origem, a fim de que enfrente o tema na forma dos parâmetros indicados. Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a ausência de fixação na origem, descabendo, portanto, a referida condenação.
+    4. Publiquem.
+Brasília, 21 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
