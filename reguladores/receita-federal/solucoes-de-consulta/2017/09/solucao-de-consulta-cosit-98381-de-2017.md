@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98381, de 14 de setembro de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8542.31.90 Mercadoria: Circuito integrado eletrônico monolítico controlador, contendo microprocessador, memórias e outros componentes, todos criados na massa do material semicondutor, montado (isto é, encapsulado no seu invólucro de plástico e provido das suas conexões elétricas com aparência de um circuito impresso), do tipo utilizado em cartão inteligente, apresentado em uma tira com duas fileiras contendo diversos circuitos e acondicionada em carretel (“rolo de chips”), tecnicamente denominado "módulo microchip para cartão smartcard".
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 9 b) do Capítulo 85 e texto da posição 85.42), RGI 6 (textos das subposições 8542.3 e 8542.31) e RGC 1 (texto do item 8542.31.90) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, IN RFB nº 1.459, de 2014, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.381-2017.pdf]
