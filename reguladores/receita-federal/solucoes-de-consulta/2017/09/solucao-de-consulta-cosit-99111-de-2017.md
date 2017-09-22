@@ -1,0 +1,18 @@
+Solução de Consulta Cosit nº 99111, de 13 de setembro de 2017
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: FRETE INTERNO CONTRATADO POR COMERCIAL EXPORTADORA ATÉ O PONTO DE SAÍDA DO TERRITÓRIO NACIONAL. EMPRESA COMERCIAL EXPORTADORA. TRADING COMPANY. SUSPENSÃO. SUBCONTRATAÇÃO.
+As tradings companies (regidas pelo Decreto-Lei nº 1.248, de 1972) podem ser consideradas Empresas Comerciais Exportadoras (ECE) para fins de aplicação da suspensão de incidência da Contribuição para o PIS/Pasep estabelecida pelo §§ 6º-A a 9º do art. 40 da Lei nº 10.865, de 2004, observados os demais requisitos estabelecidos pela legislação.
+A suspensão da incidência da Contribuição para o PIS/Pasep prevista no § 6º-A a 9º do art. 40 da Lei nº 10.865, de 2004, não alcança as receitas de frete obtidas por transportador subcontratado para a execução dos serviços de transporte.
+A suspensão da incidência da Contribuição para o PIS/Pasep de que trata o inciso II do § 6º-A do art. 40 da Lei nº 10.865, de 30 de abril de 2004, somente se aplica à receita decorrente do transporte do produto até o ponto de saída do território nacional, conforme disposto no § 7º do mesmo art. 40, não alcançando receita decorrente do transporte do produto até ponto do território diverso deste, ainda que posteriormente haja o transporte do produto por outra pessoa jurídica até o ponto de saída do território nacional.
+Vinculada à Solução de Consulta Cosit nº 80, de 2017, publicada no Diário Oficial da União (DOU) de 26 de janeiro de 2017. Vinculada à Solução de Consulta Cosit nº 341, de 2017, publicada no DOU de 27 de julho de 2017.
+Vinculada à Solução de Consulta Cosit nº 100, de 30 de junho de 2016, publicada no DOU de 29 de setembro de 2016.
+DISPOSITIVOS LEGAIS: Lei nº 10.865, de 2004, art. 40, §§ 6ºA, II, 8º e 9º, com redação dada pela Lei nº 11.774, de 2008.
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS
+EMENTA: FRETE INTERNO CONTRATADO POR COMERCIAL EXPORTADORA ATÉ O PONTO DE SAÍDA DO TERRITÓRIO NACIONAL. EMPRESA COMERCIAL EXPORTADORA. TRADING COMPANY. SUSPENSÃO. SUBCONTRATAÇÃO.
+As tradings companies (regidas pelo Decreto-Lei nº 1.248, de 1972) podem ser consideradas Empresas Comerciais Exportadoras (ECE) para fins de aplicação da suspensão de incidência da Cofins estabelecida pelo §§ 6º-A a 9º do art. 40 da Lei nº 10.865, de 2004, observados os demais requisitos estabelecidos pela legislação.
+A suspensão da incidência da Cofins prevista no § 6º-A a 9º do art. 40 da Lei nº 10.865, de 2004, não alcança as receitas de frete obtidas por transportador subcontratado para a execução dos serviços de transporte.
+A suspensão da incidência da Cofins de que trata o inciso II do § 6º-A do art. 40 da Lei nº 10.865, de 30 de abril de 2004, somente se aplica à receita decorrente do transporte do produto até o ponto de saída do território nacional, conforme disposto no § 7º do mesmo art. 40, não alcançando receita decorrente do transporte do produto até ponto do território diverso deste, ainda que posteriormente haja o transporte do produto por outra pessoa jurídica até o ponto de saída do território nacional.
+Vinculada à Solução de Consulta Cosit nº 80, de 2017, publicada no Diário Oficial da União (DOU) de 26 de janeiro de 2017.
+Vinculada à Solução de Consulta Cosit nº 341, de 2017, publicada no DOU de 27 de julho de 2017. Vinculada à Solução de Consulta Cosit nº 100, de 30 de junho de 2016, publicada no DOU de 29 de setembro de 2016.
+DISPOSITIVOS LEGAIS: Lei nº 10.865, de 2004, art. 40, §§ 6ºA, II, 8º e 9º, com redação dada pela Lei nº 11.774, de 2008.
+[arquivo anexo: SC Cosit nº 99.111-2017.pdf]
