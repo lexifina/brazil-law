@@ -1,0 +1,12 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. FGTS. AÇÃO ORDINÁRIA. ARTIGO 1º DA LEI COMPLEMENTAR Nº 110/2001. CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal, no julgamento da Medida Cautelar em ADIN nº 2556, firmou sua posição no sentido da constitucionalidade das contribuições sociais gerais previstas na Lei Complementar nº 110/2001, obstando apenas a exigibilidade das novas contribuições no mesmo exercício financeiro em que instituídas.
+    2. A Corte Especial deste Tribunal, na sessão realizada em 23 de junho de 2016, ao julgar o Incidente de Arguição de Inconstitucionalidade nº 5029170-55.2015.4.04.0000, rejeitou a arguição de inconstitucionalidade superveniente do artigo 1º da Lei Complementar nº 110/2001.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 878.313-RG/SC, Rel. Min. MARCO AURÉLIO, reconheceu existente a repercussão geral da questão constitucional nele suscitada, que coincide com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+    “CONTRIBUIÇÃO SOCIAL – ARTIGO 1º DA LEI COMPLEMENTAR Nº 110/2001 – FINALIDADE EXAURIDA – ARTIGOS 149 E 154, INCISO I, DA CARTA DE 1988 – ARGUIÇÃO DE INCONSTITUCIONALIDADE SUPERVENIENTE – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia relativa a saber se, constatado o exaurimento do objetivo – custeio dos expurgos inflacionários das contas vinculadas do Fundo de Garantia do Tempo de Serviço – em razão do qual foi instituída a contribuição social versada no artigo 1º da Lei Complementar nº 110, de 29 de junho de 2001, deve ser assentada a extinção do tributo ou admitida a perpetuação da cobrança ainda que o produto da arrecadação seja destinado a fim diverso do original.”
+    Isso significa que se impõe, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 22 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
