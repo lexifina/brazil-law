@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE - DESPROVIMENTO DO AGRAVO.
+    1. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    Atentem para o decidido na origem. O Tribunal de Justiça do Estado do Rio Grande do Sul, confirmando o entendimento do Juízo, não assentou não preenchidos os requisitos para o reconhecimento da imunidade em razão da finalidade do uso do imóvel em questão, na forma do artigo 150, inciso VI, alínea “c”, da Constituição Federal, quanto à incidência do Imposto sobre a Propriedade Territorial Urbana – IPTU. No extraordinário, cujo trânsito busca alcançar, o recorrente alega a violação do artigo 150, inciso VI, alínea “c” e § 4º, da Constituição Federal. Aduz ter demonstrado a destinação do imóvel nas atividades partidárias submetidas à regra da imunidade constitucional.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    A Corte local asseverou a ausência de comprovação do vínculo entre a finalidade das atividades essenciais e a destinação do imóvel empregado na atividade do contribuinte. Concluiu não submetido à regra da imunidade quanto à incidência do Imposto sobre a Propriedade Territorial Urbana - IPTU. As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação no acórdão dos honorários advocatícios no valor de R$ 5.000,00 (cinco mil reais), fixo os honorários recursais no patamar de R$ 2.500,00 (dois mil e quinhentos reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 22 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
