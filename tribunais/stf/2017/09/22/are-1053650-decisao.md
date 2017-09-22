@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça, assim ementado (eDOC 2, p. 180):
+    “Administrativo. Acúmulo de cargos. Técnico em radiologia. Lei Municipal nº 7.957/73 de São Paulo e Lei Federal nº 97.394/85. Limitação de jornada de trabalho que a impede no caso em apreço. Sentença de improcedência.
+    Recurso improvido.”
+    No recurso extraordinário, com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa ao art. 37, XVI, c, do Texto Constitucional.
+    Nas razões recursais, requer a declaração da legalidade e constitucionalidade do acúmulo de cargo, à luz do disposto no artigo 37, XVI, c, da CF, e em consonância aos arestos proferidos pelo STF, especificamente o RE 633.298 (caso análogo), o RE 351.905 e o RE 553.670. (eDOC 2, p. 202).
+    A Presidência da Seção de Direito Público do Tribunal de origem inadmitiu o recurso (eDOC 2, p. 216).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, quando do julgamento da apelação, consignou o seguinte (eDOC 2, pp. 181-182):
+    “O apelo invoca a regra constitucional de acumulação de cargos sob condição de compatibilidade de horários (art. 37, § XVI, alínea "C”, da CF), ao passo que a hipótese cuida de coisa distinta, isto é, da jornada de trabalho máxima do trabalhador técnico em radiologia nos termos da Lei Municipal nº 7.957/73 e na Lei Federal n° 7.394/85, que com aquela não se confunde e nem tem sua eficácia obstada por vício de inconstitucionalidade, dado que cada qual tem seu âmbito material próprio, sendo de observar que, no campo legislado pela lei municipal, a Constituição Federal estabelece jornada máxima de trabalho (art. 6º, inciso XIII), e não mínima, igual ou de livre escolha.
+    Logo, o direito invocado ao abrigo da norma prevista no art. 37, § XVI, alínea "d', da CF não existe, pois a administração não pretende limitar o acúmulo de cargos, mas observar a jornada de trabalho que em virtude resta concretamente excedida.
+    Anoto, tendo em vista o argumento relativo à longevidade do acúmulo de cargos, que a hipótese não cuida de direito adquirido, de prescrição ou de decadência, pois a administração pública tem o interesse de resguardar a relação jurídica continuada entre ela e o servidor dos efeitos da atividade perigosa ou insalubre, e porque a administração jamais reconheceu o acúmulo de jornadas de trabalho (que é diferente da compatibilidade de horários como já visto).”
+    Como se observa da leitura dos fundamentos do voto condutor do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria a análise da legislação local (Lei Municipal 7.957/73) e das provas produzidas nos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 280 e 279 do STF.
+    Demais disso, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, notadamente da Lei Federal 7.394/85 e do Decreto 92.790/86, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Ressalte-se, ainda, que a hipótese tratada nos autos guarda pertinência com os seguintes precedentes, assim ementados:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor público. Técnico em radiologia. Acumulação de cargos. 3. Matéria restrita à analise de legislação infraconstitucional (Lei 7.394/85 e Decreto 92.790/86). 4. Reexame fático-probatório. Verbete 279 da Súmula do STF. Precedentes. 5. Agravo regimental a que se nega provimento.” (ARE nº 817.366-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 12/9/14).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PEDIDO DE ACUMULAÇÃO DE DOIS CARGOS PÚBLICOS DA ÁREA DE SAÚDE. EXTRAPOLAÇÃO DE JORNADA DE TRABALHO ESTABELECIDA PELA LEI Nº 7.394/1985. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 279/STF. Para dissentir da conclusão firmada pelo Tribunal de origem, faz-se necessário analisar a legislação infraconstitucional aplicada ao caso, bem como uma nova apreciação dos fatos e do material probatório constantes dos autos, providências vedadas neste momento processual. Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento.” (ARE nº 826.177-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 24/10/14).
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 932, IV, a e b, do CPC.
+    Publique-se.
+    Brasília, 22 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
