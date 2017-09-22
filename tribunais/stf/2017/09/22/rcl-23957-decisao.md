@@ -1,0 +1,21 @@
+DECISÃO
+RECLAMAÇÃO – AFASTAMENTO DE PRECEITO LEGAL – AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 16 – PROCEDÊNCIA DO PEDIDO.
+    1. Em 13 de maio de 2016, ao deferir a liminar, assim me pronunciei:
+RECLAMAÇÃO – AFASTAMENTO DE PRECEITO LEGAL – AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 16 – LIMINAR DEFERIDA.
+    1. O Município de Porto Alegre/RS articula com o desrespeito ao que decidido pelo Supremo na ação declaratória de constitucionalidade nº 16/DF. Visa anular a sentença formalizada no processo nº 0020609-74.2015.5.04.0023 pelo Juízo da 23ª Vara do Trabalho de Porto Alegre, por meio da qual teria sido afastada a vigência do § 1º do artigo 71 da Lei nº 8.666/93, considerada a jurisprudência consolidada nos itens IV e V do enunciado nº 331 da Súmula do Tribunal Superior do Trabalho.
+    Requer a concessão de medida acauteladora para suspender, até o julgamento final desta reclamação, a tramitação do processo trabalhista e, alfim, busca ver cassado o ato questionado, de modo a garantir a autoridade do pronunciamento formalizado na ação declaratória de constitucionalidade nº 16/DF.
+    2. Nota-se haver sido afastado o § 1º do artigo 71 da Lei nº 8.666/93, no que exclui a responsabilidade subsidiária do tomador dos serviços.
+    Saliento que, em 24 de novembro de 2010, o Plenário do Supremo julgou procedente o pedido formulado na ação declaratória de constitucionalidade nº 16/DF e assentou a harmonia do citado parágrafo com a Constituição Federal.
+    3. Defiro a liminar para suspender, até a decisão final desta reclamação, a eficácia da sentença proferida pelo Juízo da 23ª Vara do Trabalho de Porto Alegre no processo nº 00200609-74.2015.5.04.0023, no tocante ao reconhecimento de responsabilidade subsidiária do ente público.
+    4. Presente a regência do Código de Processo Civil de 2015, citem os interessados e solicitem informações. Com o recebimento, colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+    O Juízo reclamado, em informações, relata o histórico processual do caso.
+    A interessada Cooperativa de Trabalho Riograndense Ltda. manifesta-se pela inadequação do pedido, afirmando demonstrada a culpa da Administração relativamente ao dever de fiscalizar a execução do contrato de terceirização. Consoante informa, após a assinatura deste último, sofreu intervenção do Ministério Público do Trabalho, que resultou na obrigação de formalizar vínculo de emprego com os próprios cooperados, onerando os custos sem contrapartida do Poder Público, a acarretar o quadro de inadimplência.
+    O Ministério Público Federal opina pela improcedência do pedido. Destaca a pertinência da responsabilização do Poder Público ante a verificação da culpa da Administração na fiscalização do cumprimento das obrigações contratuais assumidas pela prestadora de serviços.
+    2. Considerado o verbete nº 331 da Súmula do Tribunal Superior do Trabalho, partiu-se para a responsabilidade do Poder Público, presente preceito que não a versa, porque não há o ato do agente público a causar prejuízo a terceiros – os prestadores dos serviços. Mostra-se descabida a pretensão de reconhecimento de obrigação subsidiária da Administração quando arregimenta mão de obra, mediante prestadores de serviços, em razão do inadimplemento da contratada. Tal é o entendimento do Supremo, formalizado no julgamento da ação declaratória de constitucionalidade nº 16/DF, dotado, portanto, de eficácia vinculante. A óptica foi reiterada, sob o ângulo da repercussão geral, quando da apreciação do recurso extraordinário nº 760.931, redator do acórdão o ministro Luiz Fux, Diário da Justiça eletrônico de 11 de setembro de 2017. Após examinar o referido precedente, o Pleno fixou, em 26 de abril de 2017, a seguinte tese:
+    O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93.
+    3. Ante o exposto, julgo procedente o pedido para cassar a sentença proferida pelo Juízo da Vigésima Terceira Vara do Trabalho de Porto Alegre no processo nº 00200609-74.2015.5.04.0023, quanto à admissão de responsabilidade subsidiária do ente público.
+    4. Publiquem.
+Brasília, 22 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
