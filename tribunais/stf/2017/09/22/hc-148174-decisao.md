@@ -1,0 +1,19 @@
+Decisão:
+Ementa: Penal e Processual penal. Habeas corpus. Tráfico de drogas. Regime inicial. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que denegou a ordem de HC 406.032, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, pelo crime previsto no artigo 33, caput, c/c o artigo 40, V, ambos da Lei 11.343/06.
+    3. O Tribunal de Justiça do Estado do Mato Grosso do Sul negou provimento à apelação da defesa.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 406.032, Ministro Antonio Saldanha Palheiro, denegou a ordem.
+    5. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a imposição de regime inicial mais gravoso, destacando que o regime fechado teria sido fixado com fundamento apenas no artigo 2º, § 1º, da Lei 8.072/90, declarado inconstitucional pelo Supremo Tribunal Federal.
+    6. Com essa argumentação, requer a concessão da ordem a fim de impor o regime inicial semiaberto.
+    Decido.
+    7. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via processual (HC 115.659, Rel. Min. Luiz Fux).
+    8. Com efeito, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    9. Por outro lado, não é o caso de concessão da ordem de ofício. Reconheço que a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). Mas o fato é que, na hipótese de que se cuida, as instâncias precedentes fixaram o regime inicial fechado com apoio em dados empíricos idôneos, extraídos da prova judicialmente colhida, em especial na quantidade da droga apreendida (298kg de maconha). De modo que não verifico teratologia, ilegalidade flagrante ou abuso de poder que autorize o pronto acolhimento do pedido.
+    10. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 22 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
