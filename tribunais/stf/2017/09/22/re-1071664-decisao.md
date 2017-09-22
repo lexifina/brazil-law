@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado da Paraíba concedeu parcialmente a segurança, afirmando o direito subjetivo do aprovado à posse, ante o surgimento de vagas no prazo de validade de concurso. No extraordinário, o recorrente aponta violados os artigos 37, inciso II, e 169, § 1º, da Constituição Federal. Discorre sobre a existência apenas de expectativa de direito à nomeação pleiteada, ante a não previsão de vagas no edital do concurso, sendo o mesmo destinado somente à formação de cadastro de reserva. Alude à falta de dotação orçamentária.
+    2. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    O Tribunal de origem expressamente consignou o atendimento das normas editalícias. Confiram com os seguintes trechos do acórdão recorrido:
+    No caso dos autos, a impetrante comprovou ter sido aprovada para o concurso do Tribunal de Justiça do Estado da Paraíba, tendo concorrido para o cargo de Técnico Judiciário - Área Judiciária, 1ª Região, logrando a 175ª (centésima septuagésima quinta) posição, conforme lista publicada no Diário da Justiça.
+    A Administração Pública, conforme seu critério de conveniência e oportunidade e observando a ordem de classificação ,nomeou 147 (cento e quarenta e sete) candidatos de ampla concorrência, dentro do prazo de validade do concurso, o qual expirou em 21 de junho de 2014.
+    E mais, quando das informações prestadas, pela Gerência de Desenvolvimento de Gestão de Pessoas reconheceu o surgimento de 33 (trinta e três) novas vagas para o cargo referido, admitindo, assim, que a impetrante está dentro dessas vagas surgidas durante o prazo de validade do concurso. Senão yejamos:
+    "Esta Gerência, informa que, no di8 de hoje, encontram-se vagos trinta e três cargos de Técnico Judiciário – Área Judiciária na 1ª Região.”.
+    Assim, com a criação das vagas proveniente de lei, restou evidente que a impetrante foi alcançada com a novas vagas, pois a Administração deveria proceder à nomeação até o candidato classificado na posição 180 (cento e oitenta), tendo a impetrante sido classificada na posição 175, conferindo o direito subjetivo de ser nomeada no cargo em questão.
+    Entretanto, mesmo com a existência de vagas surgidas durante o prazo de validade do concurso, sustenta a autoridade impetrada que não haveria necessidade e nem condições orçamentárias para proceder à convocação, de novos candidatos, sem contudo comprovar detalhadamente o impacto financeiro que somente a nomeação da impetrante causaria ao seu orçamento.
+    Ocorre que, as alegações subjetivas de ausência de condições orçamentárias, não atestadas pelos órgãos ,de controle interno e externo, respectivos, da Administração, não têm o condão de afastar o direito dos impetrantes.
+    Nesse cenário, havendo vaga ofertada a ser preenchida e surgindo outras durante a validade do certame, o que antes era expectativa, se tornou direito efetivo dos impetrantes.
+    Ora, somente pela análise das provas constantes do processo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária.
+    3. Nego seguimento ao extraordinário. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 22 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
