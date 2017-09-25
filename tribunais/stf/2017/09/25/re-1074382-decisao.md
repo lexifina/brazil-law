@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à improcedência do pedido de majoração de auxílio moradia a policiais militares de antigo Território Federal, considerada a ausência de regulamentação. No extraordinário, o recorrente aponta a violação dos artigos 5º, incisos II e LIV, da Constituição Federal, 31, cabeça, da Emenda Constitucional 19/1998 e 1º e 3º da Emenda Constitucional de 79/2014. Discorre sobre a aplicação do Decreto distrital nº 35.181/14, aludindo aos princípios da legalidade e da isonomia remuneratória.
+    2. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    Colho do acórdão recorrido o seguinte trecho:
+    2. No caso em tela, o art. 2º da Lei nº 10.486/2002 elenca os direitos pecuniários em acréscimo à remuneração a que tem direito os policiais militares do Distrito Federal. É certo, que tais vantagens estendem-se aos policiais do ex-território do Amapá, conforme previsto no art. 65 da referida lei, com fundamento no art. 31 da EC nº 19/1998, alterada pela EC. Nº 79/2014.
+    3. Entretanto, no caso do auxílio-moradia, previsto no art. 2º, I, f, seus valores foram especificados na tabela III do anexo IV (art. 3º, XIV da Lei nº 10.486/2002), sendo incabível sua majoração aos policiais militares do ex-território Federal do Amapá através de Decreto do Governo do Distrito Federal.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+     Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula deste Tribunal.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Nego seguimento a este extraordinário. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 200,00 (duzentos reais), fixo os honorários recursais no patamar de R$ 100,00 (cem reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 25 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
