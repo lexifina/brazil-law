@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 102, I, “r”, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “RECLAMAÇÃO. ALEGADA USURPAÇÃO DA COMPETÊNCIA DESTE SUPREMO TRIBUNAL FEDERAL ESTABELECIDA NO ART. 102, INC. I, ALÍNEAS N E R, DA CONSTITUÇÃO DA REPÚBLICA. MANDADO DE SEGURANÇA IMPETRADO NO TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS. O PRESIDENTE DAQUELE TRIBUNAL DE JUSTIÇA É MERO EXECUTOR DO ATO EMANADO DO CONSELHO NACIONAL DE JUSTIÇA. SUPRESSÃO DO ADICIONAL POR TEMPO DE SERVIÇO DETERMINADA PELA RESOLUÇÃO N. 13/2006 DO CONSELHO NACIONAL DE JUSTIÇA. INTERESSE DE TODA A MAGISTRATURA. RECLAMAÇÃO JULGADA PROCEDENTE.” (Rcl 4731, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 05/08/2014, ACÓRDÃO ELETRÔNICO DJe-159 DIVULG 18-08-2014 PUBLIC 19-08-2014)
+    “Agravo regimental em mandado de segurança. Ato do CNJ. Ilegitimidade passiva da Presidência do TJPA. Decadência. Ausência de prova do ato coator. Impossibilidade de dilação probatória em mandado de segurança. Agravo regimental não provido. 1. A atuação da autoridade tida como 2ª impetrante limitou-se à execução de determinação emanada do Conselho Nacional de Justiça, o que exclui sua legitimidade passiva ad causam no feito. 2. O termo a quo para efeito de contagem do prazo decadencial para impetrar mandado de segurança é o da ciência pelo interessado da prática do ato inquinado de ilegal. O presente mandado de segurança fora impetrado mais de 10 (dez) dias após o término do prazo decadencial previsto no art. 23 da Lei nº 12.016/09. 3. O mandado de segurança exige a comprovação de plano do quanto alegado, mediante provas pré-constituídas. Não se admite dilação probatória incidental nessa via processual. 4. Agravo regimental não provido.” (MS 31385 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 28/10/2014, PROCESSO ELETRÔNICO DJe-229 DIVULG 20-11-2014 PUBLIC 21-11-2014)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de setembro de 2017.
+Ministra Rosa Weber
+Relatora
