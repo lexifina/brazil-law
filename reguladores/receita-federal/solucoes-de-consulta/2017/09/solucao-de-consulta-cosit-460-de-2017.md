@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 460, de 20 de setembro de 2017
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA - IRPJ EMENTA: DIREITO DE CRÉDITO DE FLORESTA. REQUISITO DE DEDUTIBILIDADE. NECESSIDADE. AMORTIZAÇÃO. DESPESA INDEDUTÍVEL. São operacionais as despesas não computadas nos custos, necessárias à atividade da empresa e à manutenção da respectiva fonte produtora. A carência do requisito da necessidade impõe a indedutibilidade da amortização do direito creditório de floresta.. DISPOSITIVOS LEGAIS: Lei nº 4.506, de 1964, art. 47; Decreto nº 3.000, de 1999, artigo 299.
+[arquivo anexo: SC Cosit nº 460-2017.pdf]
