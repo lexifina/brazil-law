@@ -1,0 +1,29 @@
+Decisão:
+    Vistos
+    Habeas corpus impetrado em favor de Robson Idelfonso Siqueira, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no REsp nº 1.653.605/SP, Relator o Ministro Sebastião Reis Júnior.
+    Sustenta o impetrante, em síntese, que à míngua de fundamentação idônea, o regime inicial fechado para o cumprimento de uma pena de 5 (cinco) anos de reclusão pelo crime de tráfico de drogas (art. 33 da Lei nº 11.343/06).
+    Defende, ainda, que seja reconhecido em favor do paciente o direito de progredir “de regime, sobre o lapso de 1/6 (um sexto), conforme entendimento deste Supremo Tribunal Federal no julgamento do Habeas Corpus n.º 118.533/MS (...)”.
+    Requer a defesa a concessão da ordem, ainda que de ofício, para “fixar o regime inicial semiaberto e o direito de progressão de regime sobre o lapso de 1/6 (um sexto)”.
+    Por não haver pedido de liminar e por estando a impetração devidamente instruída, foram dispensadas as informações.
+    O Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República Edson Oliveira da Almeida, opinou pelo não conhecimento do writ.
+    É o relatório.
+    Decido.
+    Transcrevo o teor do aresto questionado:
+    “AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (38 KG DE MACONHA). VIOLAÇÃO DOS ARTS. 33, § 2º, B, E 59, AMBOS DO CP. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO CONCRETA. QUANTIDADE DE ENTORPECENTE APREENDIDO. PENA-BASE ACIMA DO MÍNIMO LEGAL. APLICAÇÃO DO ART. 33, § 3º, DO CP. RESPEITO ÀS SÚMULAS 718 E 718 DO STF E 440 DO STJ.
+    1. A despeito da alegação do agravante de que foi beneficiado com a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, o fundamento apresentado pelo Tribunal de origem, atinente à quantidade de entorpecente apreendido (38 kg de maconha), que, inclusive, condicionou a pena-base a ficar em um patamar acima do mínimo legal, revela-se apto a justificar a imposição do regime inicial fechado.
+    2. Nos termos do entendimento firmado por esta Corte Superior de Justiça, a quantidade, a natureza e a variedade da droga apreendida constituem fundamentos idôneos a justificar a imposição do regime mais severo, assim como a exasperação da pena-base, consoante o art. 42 da Lei n. 11.343/2006, não havendo, pois, que se falar em ofensa ao ne bis in idem, pois o estabelecimento do modo inicial de execução da pena deve, obrigatoriamente, considerar os vetores valorados na dosimetria penal, à luz do art. 33, § 3º, do CP (HC n. 382.165/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/3/2017).
+    3. Agravo Regimental improvido” (anexo 7).
+    Pelo que há no julgado proferido pela Sexta Turma do Superior Tribunal de Justiça, não se vislumbra ilegalidade flagrante, abuso de poder ou teratologia que justifique a concessão da ordem. Pelo contrário, a decisão em questão encontra-se suficientemente fundamentada, estado justificado o convencimento formado.
+    Com efeito, está sedimentado na jurisprudência do Supremo Tribunal Federal que o regime inicial de cumprimento de pena deve observar o disposto no art. 33, § 3º, do Código Penal, e no art. 42 da Lei nº 11.343/06, que expressamente remetem às circunstâncias do crime (art. 59, CP) e à natureza e à quantidade da droga. Por esse contexto, não há constrangimento ilegal na valoração negativa desses mesmos vetores na fixação da pena e na imposição do regime prisional mais gravoso (v.g. HC nº 132.904/MS, Segunda Turma, de minha relatoria, DJe de 11/10/16).
+    Perfilhando esse entendimento:
+    “[I]ndependentemente do momento em que os vetores referentes à quantidade e à natureza da droga forem utilizados para dosar a reprimenda (na pena-base ou na escolha da fração de redução do § 4º do art. 33 da Lei 11.343/2006), tais circunstâncias revelam-se idôneas para imprimir maior rigor na seleção do regime prisional, dado o óbice intransponível ao julgador de considerá-los de forma cumulativa (HC 112.776/MS, Rel. Min. Teori Zavascki, Pleno, Dje 30/10/2014). 3. No caso, a imposição do regime prisional inicial foi motivada pelo volume e pela variedade de drogas apreendidas, circunstâncias igualmente sopesadas negativamente quando da dosagem da fração da minorante prevista do § 4º do art. 33 da Lei 11.343/06” (HC nº 136.818/SP, Segunda Turma, Relator o Ministro Teori Zavascki , DJe de 13/12/16);
+    “A teor das normas de regência, além da quantidade de pena, a fixação do regime inicial deve observar as circunstâncias sopesadas no desenrolar da dosimetria da pena, notadamente, na hipótese de tráfico de drogas, a natureza e quantidade dos entorpecentes apreendidos” (HC nº 140.720/AM, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 2/6/17).
+    Desse entendimento não divergiu o Superior Tribunal de Justiça.
+    Por fim, admito que o Tribunal Pleno, no julgamento do HC nº 118.533/MS, Relatora a Ministra Cármen Lúcia, reconheceu, em sua maioria, que o tráfico privilegiado de drogas (art. 33, § 4º, da Lei nº 11.343/06) não tem natureza hedionda e, por consequência, afastou a incidência dos prazos estipulados no art. 44, parágrafo único, da Lei de Drogas e no art. 2º, § 2º, da Lei nº 8.072/90, para o livramento condicional e para a progressão de regime, respectivamente.
+    Todavia, consoante pertinentemente observado pela Procuradoria-Geral da República em seu parecer, “a impetração não demonstrou a ocorrência de constrangimento a ser reparado, uma vez que não consta que o Juízo da Execução penal tenha recusado o direito à progressão”.
+    Com essas considerações, nos termos do art. 192, caput, do Regimento Interno da Corte, denego a ordem de habeas corpus.
+    Publique-se.
+    Brasília, 25 de setembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
