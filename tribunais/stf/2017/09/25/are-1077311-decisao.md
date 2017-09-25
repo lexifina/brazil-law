@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Rio Grande do Norte, cuja ementada transcrevo:
+    “APELAÇÃO CÍVEL EM AÇÃO MONITÓRIA E RECONVENÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE ALIMENTAÇÃO E HOTELARIA. RETENÇÃO DE BOLETINS DE MEDIÇÃO. PEDIDO INSTRUÍDO COM DOCUMENTOS HÁBEIS A ENSEJAR O PAGAMENTO DA DÍVIDA. NÃO DESINCUMBÊNCIA DO ÔNUS DA PROVA QUANTO A EXISTÊNCIA DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DA AUTORA. INTELIGÊNCIA DO ARTIGO 333, INCISO II, DO CÓDIGO DE PROCESSO CIVIL. MANUTENÇÃO DA SENTENÇA. CONHECIMENTO E DESPROVIMENTO DO RECURSO”(eDOC 5, p. 11).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 37, caput; 71; e 195, § 3º, do texto constitucional.
+    Nas razões recursais, alega-se violação ao princípio da moralidade, tendo em vista que a recorrida não cumpriu sua obrigação de fornecer a documentação relativa à regularidade fiscal, o que impede a recorrente de realizar o pagamento referente ao contrato de prestação de serviços de alimentação e hotelaria (eDOC 5, p. 79-84).
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Processo Civil) e o conjunto probatório constante dos autos, bem como interpretar cláusulas contidas em contrato de prestação de serviços na área de alimentação e hotelaria, consignou abusiva a retenção dos créditos. Nesse sentido, extraem-se os seguintes trechos do acórdão impugnado:
+    “Entretanto não me deparei com nenhum procedimento da PETROBRAS notificando LENILTON MOREIRA JUNIO – ME sobre a possibilidade de rescisão do contrato decorrente de eventual descumprimento das obrigações trabalhistas.
+    De plano se verifica que a retenção de crédito é medida gravosa e para que esta ocorra exige-se a realização de procedimento administrativo sob o manto do contraditório.
+    No entanto, inexiste nos autos sequer indícios de que esse procedimento foi instaurado, o que me leva à conclusão que a retenção se deu de forma abusiva.
+    Essa abusividade se observa também no fato de que as cláusulas do pacto firmado entre as partes impõe à prestadora de serviços, como condição para efetivação do pagamento pelos serviços prestados, apenas a apresentação das notas fiscais ou faturas que deverão estar anexadas ao Boletim de Medição.
+    É o que se extrai da redação dos itens 6.1 e 6.1.1 da Cláusula Sexta do Contrato nº 161.2.149.01-1 fls. 26/39 ”(eDOC 5, p. 18-19).
+    Assim, verifica-se que divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO CONTRATO DE PRESTAÇÃO DE SERVIÇOS. PRETENSÃO AO RECEBIMENTO POR SERVIÇOS EFETIVAMENTE REALIZADOS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS E DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. OFENSA AO PRINCÍPIO DA LEGALIDADE. DENUNCIAÇÃO DA LIDE. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA. SÚMULA 636 DO STF. INCIDÊNCIA. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO” (ARE 838.681 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 19.4.20170).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Contrato administrativo. Imposição de penalidade. Ausência de previsão legal. 3. Legalidade da retenção de pagamento como sanção por irregularidade fiscal. Revolvimento do acervo fático-probatório e da legislação infraconstitucional. Súmula 279. 4. Razões do agravo regimental dissociadas do acórdão recorrido. Súmula 287. 5. Ausência de argumentos suficientes a infirmar a decisão recorrida. 6. Agravo regimental a que se nega provimento” (ARE 831.519 AgR, de minha relatoria, Segunda Turma, DJe 19.3.2015).
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 25 de setembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
