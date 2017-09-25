@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de Minas Gerais confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime previsto no artigo 33 da Lei nº 11.343/2006. No extraordinário cujo trânsito busca alcançar, o recorrente alega contrariados os princípios da individualização da pena e do devido processo legal. Aponta a fixação da pena-base acima do mínimo legal, levando-se em conta elementos ínsitos ao tipo penal. Destaca ter havido dupla punição pelo mesmo fato, no que valorada a reincidência na primeira e segunda fases da dosimetria da pena.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, sobretudo as previstas nos 59 e seguintes do Código Penal, relativas à aplicação da pena, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+     Confiram o trecho da sentença, mantida pela decisão recorrida:
+    Tendo em vista que o réu é duplamente reincidente, a aplicação da agravante prevista no art. 61, inciso I, do CPB, é medida que se impõe, aumento a pena em 1/6 e fixo a reprimenda em 06 (SEIS) ANOS e 05 (CINCO) MESES DE RECLUSÃO E 641 (SEISCENTOS E QUARENTA E UM) DIAS-MULTA. (…)
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 25 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
