@@ -1,0 +1,24 @@
+Decisão
+    Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais que possui a seguinte ementa (fl. 174):
+    EMBARGOS INFRINGENTES – AÇÃO ORDINÁRIA – SERVIDORA DA HEMOMINAS – ADICIONAL POR TEMPO DE SERVIÇO – BASE DE CÁLCULO – GIES – INCORPORAÇÃO – QUINQUÊNIOS ADQUIRIDOS ANTES DA EC Nº 19/98 – POSSIBILIDADE – ART. 112, DO ADCT, DA CONSTITUIÇÃO ESTADUAL – EMBARGOS ACOLHIDOS.
+    A EC nº 57/2003 extinguiu o adicional por tempo de serviço, mas acrescentou o art. 112 ao ADCT da Constituição Estadual Mineira, garantindo que o cálculo dos quinquênios adquiridos antes da entrada em vigor daquela emenda fosse realizado com base no vencimento básico mais gratificações do servidor.
+    A Gratificação de Incentivo à Eficientização do Serviço, por se tratar de vantagem inerente ao exercício do cargo ou função. Deve ser considerada para fins de cálculo dos quinquênios adquiridos pelo servidor antes da EC nº 19/98.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, alega-se, em síntese, que o julgado ofendeu o artigo 37, XIII e XIV, da Constituição Federal.
+    Em contrarrazões, a parte recorrida postula o não conhecimento do apelo extremo, ao argumento de que (a) a ofensa constitucional é apenas reflexa e (b) não houve o prequestionamento da matéria constitucional. No mérito, pede a manutenção do julgado.
+    É o relatório. Decido.
+    Não merecem acolhida as preliminares de não conhecimento do apelo extremo. A matéria constitucional foi expressamente agitada no acórdão (fls. 176), e não há necessidade de se interpretar a legislação local para se examinar a alegada ofensa à Constituição.
+    No mérito, o recurso não merece provimento, senão vejamos.
+    O Tribunal de origem não divergiu do entendimento firmado pelo Plenário desta Corte no julgamento do mérito da repercussão geral reconhecida no RE 563.708-RG/MS, Rel. Min. CÁRMEN LÚCIA, DJe de 02/05/2013, no sentido de que “Não há direito adquirido a regime jurídico, notadamente à forma de composição da remuneração de servidores públicos, observada a garantia da irredutibilidade de vencimentos”, conforme se infere da ementa do julgado:
+     RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO À REGIME JURÍDICO. BASE DE CÁLCULO DE VANTAGENS PESSOAIS. EFEITO CASCATA: PROIBIÇÃO CONSTITUCIONAL. PRECEDENTES. IMPOSSIBILIDADE DE REDUÇÃO DOS VENCIMENTOS. PRINCÍPIO DA IRREDUTIBILIDADE DOS VENCIMENTOS. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO.
+    No mesmo sentido, vale ressaltar os fundamentos da decisão proferida no RE 828.942, Rel. Min. ROBERTO BARROSO, DJe de 07/04/2015, que ao analisar questão análoga à dos autos, envolvendo a mesma entidade, assim dispôs:
+    O recurso não deve ser provido, uma vez que o acórdão impugnado está alinhado ao decidido no RE 563.708-RG, julgado sob a relatoria da Ministra Cármen Lúcia. No julgado, cuja matéria teve a repercussão geral reconhecida, o Plenário do Supremo Tribunal Federal assentou a aplicabilidade imediata da redação dada pela Emenda Constitucional nº 19/1998 ao art. 37, XIV, da Constituição Federal. Fixou-se, assim, que a partir da vigência da EC nº 19/1998 é inconstitucional a adoção da remuneração como base de cálculo para os acréscimos pecuniários percebidos por servidor público. Por outro lado, assegurou-se a observância do princípio de irredutibilidade de vencimentos
+    Cabe destacar, ainda, os seguintes precedentes com decisões transitadas em julgado: RE 917.894, Rel. Min. ROBERTO BARROSO, DJe de 19/10/2015; RE 930.986, Rel. Min. LUIZ FUX, DJe de 01/02/2016; RE 902.409, Rel. Min. DIAS TOFFOLI, DJe de 20/08/2015.
+    Por fim, no que concerne à natureza da Gratificação de Incentivo à Eficientização do Serviço – GIEFS, para fins de incidência na base de cálculo dos quinquênios, essa Corte afirmou a ausência de repercussão geral sobre o tema, no julgamento do RE 764.332-RG/SP, Rel. Min. JOAQUIM BARBOSA, DJe de 21/03/2014, com a seguinte ementa:
+    ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. QUINQUÊNIO. INCIDÊNCIA SOBRE OS VENCIMENTOS INTEGRAIS, INCLUINDO OS ADICIONAIS E AS GRATIFICAÇÕES REPUTADOS COMO DE NATUREZA PERMANENTE. INTERPRETAÇÃO DE LEGISLAÇÃO ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. ATRIBUIÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 25 de setembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
