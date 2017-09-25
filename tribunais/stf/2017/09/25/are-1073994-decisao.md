@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto a concessão da segurança, assentando a nulidade do decreto de exoneração, aludindo ao direito dos servidores ao prévio processo administrativo, assegurados o contraditório e a ampla defesa. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violados os artigos 37, incisos I e II, 93, inciso IX, e 198, § 4º, da Constituição Federal. Sustenta a ilegalidade da nomeação, ante a ausência de aprovação em concurso público. Argui a nulidade do acórdão prolatado por negativa de prestação jurisdicional.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    No mérito, em que pese a Lei nº 11.350/2006 exigir na contratação de agentes comunitários de saúde e de agentes de combates às endemias prévio processo seletivo público de provas ou de provas e títulos, caberia à municipalidade a desconstituição dos atos de nomeação dos servidores já que os atos juntados na inicial demonstram que os servidores foram nomeados e tomaram posse nos cargos indicados na inicial.
+    Com efeito, o ato de exoneração dos Apelados não foi precedido do devido processo legal, com a instauração do indispensável processo administrativo.
+    É Sabido que a Administração deve anular seus atos, se houver constatação de vício de legalidade. Tal dever se prende à necessidade de restauração da situação de regularidade, então violada por algum ato. Nesse sentido, a caracterização da situação irregular que deve ser afastada, é fundamental.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 25 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
