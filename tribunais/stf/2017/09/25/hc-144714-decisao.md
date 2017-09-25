@@ -1,0 +1,44 @@
+DECISÃO: Trata-se de “habeas corpus” impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, restou consubstanciada em acórdão assim ementado:
+    “’HABEAS CORPUS’. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. MATERIALIDADE E INDÍCIOS DE AUTORIA. PACIENTE FORAGIDA APÓS A DECRETAÇÃO DE SUA SEGREGAÇÃO. CONVERSÃO DA CUSTÓDIA CAUTELAR EM PRISÃO DOMICILIAR. ART. 318 DO CPP. FALTA DE COMPROVAÇÃO DOS PRESSUPOSTOS AUTORIZADORES.
+    1. Para a decretação/manutenção da prisão preventiva é imprescindível a fundamentação com base em dados concretos, bem como a presença dos requisitos do art. 312 do Código de Processo Penal, dentre os quais, a comprovação da existência do crime e indícios suficientes de sua autoria, sendo dispensável, para tanto, prova cabal da prática delituosa.
+    2. Na espécie, o Juízo de origem remeteu-se às circunstâncias concretas reveladoras da periculosidade da paciente, indicando que faz parte da complexa e violenta organização criminosa voltada ao tráfico de drogas denominada Amigos dos Amigos (ADA) com atuação, sobretudo, no Morro do Dezoito. E o Tribunal destacou, além disso, a necessidade de se garantir a aplicação da lei penal e o regular desenvolvimento da instrução criminal, diante do tempo em que a paciente permaneceu foragida, já que sua prisão foi decretada em 17/1/2014 e somente foi efetivada em 6/1/2017.
+    3. Quanto à impossibilidade de a paciente ficar segregada sem que houvesse danos às suas três filhas menores, pois seria a responsável pelo seu sustento e cuidado, tal prejuízo não foi comprovado nos autos, e as meninas atualmente têm 16, 14 e 12 anos de idade, o que afastaria a incidência do art. 318, III e V, do Código de Processo Penal.
+    4. Ordem denegada.”
+    (HC 391.238/RJ, Rel. Min. SEBASTÃO REIS JUNIOR – grifei)
+    Busca-se, nesta sede processual, seja assegurado à ora paciente o direito de estar em liberdade.
+    O Ministério Público Federal, em pronunciamento da lavra do ilustre Subprocurador-Geral da República Dr. EDSON OLIVEIRA DE ALMEIDA, opinou, quanto ao mérito, pela denegação da ordem de “habeas corpus”.
+    Sendo esse o contexto, passo a examinar o pleito em causa. E, ao fazê-lo, entendo assistir razão à douta Procuradoria-Geral da República, eis que o acórdão ora impugnado ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou a propósito da matéria em análise.
+    Cabe assinalar que, não obstante o seu caráter extraordinário, a prisão cautelar pode efetivar-se, desde que o ato judicial formalizador de sua decretação tenha fundamentação substancial, apoiando-se em elementos concretos e reais que se ajustem aos requisitos abstratos – juridicamente definidos em sede legal – autorizadores da utilização dessa modalidade de tutela cautelar penal (RTJ 134/798, Red. p/ o acórdão Min. CELSO DE MELLO, v.g.).
+    É por essa razão que o Supremo Tribunal Federal, em pronunciamentos sobre a matéria (RTJ 64/77, Rel. Min. LUIZ GALLOTTI, v.g.), tem acentuado, na linha de autorizado magistério doutrinário (JULIO FABBRINI MIRABETE, “Código de Processo Penal Interpretado”, p. 688, 7ª ed., 2000, Atlas; PAULO LÚCIO NOGUEIRA, “Curso Completo de Processo Penal”, p. 250, item n. 3, 9ª ed., 1995, Saraiva; VICENTE GRECO FILHO, “Manual de Processo Penal”, p. 274/278, 4ª ed., 1997, Saraiva), que, uma vez comprovada a materialidade dos fatos delituosos e constatada a existência de meros indícios de autoria – e desde que concretamente ocorrente qualquer das situações referidas no art. 312 do Código de Processo Penal –, torna-se legítima, presentes razões de necessidade, a decretação, pelo Poder Judiciário, dessa especial modalidade de prisão cautelar:
+    “A PRISÃO CAUTELAR CONSTITUI MEDIDA DE NATUREZA EXCEPCIONAL.
+    – A privação cautelar da liberdade individual reveste-se de caráter excepcional, somente devendo ser decretada ou mantida em situações de absoluta necessidade.
+    – A questão da decretabilidade ou da manutenção da prisão cautelar. Possibilidade excepcional, desde que satisfeitos os requisitos mencionados no art. 312 do CPP. Necessidade da verificação concreta, em cada caso, da imprescindibilidade da adoção dessa medida extraordinária. Precedentes.
+    DEMONSTRAÇÃO, NO CASO, DA NECESSIDADE CONCRETA DE DECRETAR-SE A PRISÃO CAUTELAR DO PACIENTE.
+    – Revela-se legítima a prisão cautelar se a decisão que a decreta, mesmo em grau recursal, encontra suporte idôneo em elementos concretos e reais que – além de ajustarem-se aos fundamentos abstratos definidos em sede legal – demonstram que a permanência em liberdade do suposto autor do delito comprometerá a garantia da ordem pública e frustrará a aplicação da lei penal.”
+    (HC 101.026/SP, Rel. Min. CELSO DE MELLO)
+    É inquestionável, portanto, que a antecipação cautelar da prisão – qualquer que seja a modalidade autorizada pelo ordenamento positivo (prisão em flagrante, prisão temporária, prisão preventiva, prisão decorrente da decisão de pronúncia e prisão resultante de sentença penal condenatória recorrível) – não se revela incompatível com o princípio constitucional da presunção de inocência (RTJ 133/280 – RTJ 138/216 – RTJ 142/855 – RTJ 142/878 – RTJ 148/429 – HC 68.726/DF, Rel. Min. NÉRI DA SILVEIRA, v.g.).
+    O exame das decisões que mantiveram a prisão cautelar da ora paciente evidencia, como bem salientou o acórdão ora impugnado, que tais atos sustentam-se em razões de necessidade, confirmadas, no caso, pela existência de base empírica idônea.
+    Impende registrar, por relevante, que o Supremo Tribunal Federal tem entendido, em precedentes de ambas as Turmas (HC 89.847/BA, Rel. Min. ELLEN GRACIE – HC 90.889/PE, Rel. Min. JOAQUIM BARBOSA – HC 94.999/SP, Rel. Min. ELLEN GRACIE – HC 95.024/SP, Rel. Min. CÁRMEN LÚCIA – HC 97.378/SE, Rel. Min. CELSO DE MELLO, v.g.), revestir-se de fundamentação idônea a prisão cautelar decretada contra acusados/réus que supostamente integrem organização criminosa:
+    “‘HABEAS CORPUS’. PRISÃO PREVENTIVA. DECISÃO FUNDAMENTADA. ORDEM DENEGADA.
+    A decisão que decretou a prisão preventiva demonstrou a materialidade dos fatos e a presença de indícios da autoria, o que restou confirmado pela sentença condenatória.
+    Dados concretos evidenciam a necessidade de garantir-se a ordem pública, dada a alta periculosidade do paciente, que integrava sofisticada organização criminosa dedicada ao tráfico internacional de drogas. Ademais, ao que se apurou, o réu faz do comércio de entorpecentes a sua profissão, a indicar que ele, caso venha a ser solto, voltará à criminalidade.
+    Assim, presentes os requisitos previstos no art. 312 do Código de Processo Penal, impõe-se a manutenção da prisão preventiva.
+    Ordem denegada.”
+    (HC 94.442/SP, Rel. Min. JOAQUIM BARBOSA – grifei)
+    “AGRAVO REGIMENTAL EM ‘HABEAS CORPUS’. PROCESSUAL PENAL. PRISÃO CAUTELAR CONCRETAMENTE FUNDAMENTADA. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL A JUSTIFICAR EXCEÇÃO À REGRA DA SÚMULA 691/STF.
+    A prisão cautelar do paciente acusado de ser um dos principais integrantes da organização criminosa está concretamente fundamentada, não justificando excepcionar-se a Súmula 691 desta Corte.
+    Agravo regimental em ‘habeas corpus’ não provido.”
+    (HC 95.421-AgR/RJ, Rel. Min. EROS GRAU – grifei)
+    “‘HABEAS CORPUS’ – PRISÃO PREVENTIVA – NECESSIDADE COMPROVADA DE SUA DECRETAÇÃO – DECISÃO FUNDAMENTADA – MOTIVAÇÃO IDÔNEA QUE ENCONTRA APOIO EM FATOS CONCRETOS – POSSÍVEL INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA – LEGALIDADE DA DECISÃO QUE DECRETOU A PRISÃO CAUTELAR – PEDIDO INDEFERIDO.
+    …...................................................................................................
+    PACIENTE QUE INTEGRARIA ORGANIZAÇÃO CRIMINOSA – SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA.
+    A jurisprudência desta Suprema Corte, em situações semelhantes à dos presentes autos, já se firmou no sentido de que se reveste de fundamentação idônea a prisão cautelar decretada contra possíveis integrantes de organizações criminosas. Precedentes.”
+    (HC 101.026/SP, Rel. Min. CELSO DE MELLO)
+    “AGRAVO REGIMENTAL EM ‘HABEAS CORPUS’. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA.  1. A prisão preventiva está devidamente motivada, tendo em vista ‘tratar-se de agentes, em tese, integrantes de perigosa quadrilha especializada em assaltos a agências bancárias’, bem como em razão da ‘necessidade de se prevenir a reprodução de novos delitos’. (...). 3. Agravo regimental a que se nega provimento.”
+    (HC 125.568-AgR/BA, Rel. Min. ROBERTO BARROSO – grifei)
+    Sendo assim, em face das razões expostas, e acolhendo, ainda, os fundamentos do parecer da douta Procuradoria-Geral da República, indefiro o pedido de “habeas corpus”.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 25 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
