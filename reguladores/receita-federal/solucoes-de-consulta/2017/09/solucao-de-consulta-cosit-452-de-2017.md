@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 452, de 20 de setembro de 2017
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF EMENTA: PAGAMENTO. PRESTAÇÃO DE SERVIÇOS.TRATAMENTO E DESTINAÇÃO FINAL DE RESÍDUOS. RETENÇÃO. Não se sujeita à incidência do imposto sobre a renda na fonte o pagamento efetuado por pessoas jurídicas a outras pessoas jurídicas, civis ou mercantis, quando forem tomados serviços de tratamento e destinação final de resíduos. DISPOSITIVOS LEGAIS: Decreto nº 3.000, de 1999, artigos 647, §1º e 649, e Parecer Normativo (PN) CST nº 8, de 17 de abril de 1986, itens 11, 12, 14 a 16.
+[arquivo anexo: SC Cosit nº 452-2017.pdf]
