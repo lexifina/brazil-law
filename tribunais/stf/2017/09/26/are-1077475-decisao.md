@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO PELO MOTIVO FÚTIL E MEIO CRUEL. 1) PRECLUSÃO PARA A ALEGAÇÃO DA INÉPCIA DA DENÚNCIA. Eventual nulidade deveria ser arguida em tempo oportuno, sob pena de preclusão. 1) PRESENÇA DE ANIMUS NECANDI. Afigura-se crime doloso contra a vida, se demonstrada a vontade livre e consciente de ceifar a vida da vítima. 2) EXCLUSÃO DAS QUALIFICADORAS. 2.1) MOTIVO FÚTIL. A existência de uma discussão posterior à contenda originária descaracteriza o motivo fútil. 2.2) MEIO CRUEL. A inexistência de conclusão do Laudo Pericial, atestando se a morte ocorreu por meio cruel, aliada às demais provas constantes dos autos, que não demonstram que houve a intenção de provocar na vítima um sofrimento maior, ou mais intenso, leva ao afastamento da qualificadora. 3) DECISÃO MANIFESTAMENTE CONTRÁRIA ÀS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE EXCLUSÃO DAS QUALIFICADORAS TRIBUNAL. O Tribunal não pode excluir as qualificadoras em julgamento de recurso apelatório, mas reconhecendo a absoluta falta de apoio nas provas dos autos, deve enviar o réu a novo júri. 4) APELO CONHECIDO E PROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVIII, c, da Constituição. Afirma que “o acórdão extrapolou a análise das provas para concluir que a existência de de brigas anteriores entre o acusado e a vítima afasta a incidência de qualificadora”.
+    O recurso extraordinário é inadmissível, tendo em vista que a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, a atrair a incidência da Súmula 279/STF.
+    Nesse sentido, vejam-se o AI 709.068-AgR, Rel. Min. Ayres Britto, Primeira Turma; e o RE 559.742, Rel.ª Min.ª Ellen Gracie, Segunda Turma.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
