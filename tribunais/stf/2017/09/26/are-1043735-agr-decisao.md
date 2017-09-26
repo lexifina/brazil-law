@@ -1,0 +1,12 @@
+Vistos etc.
+    Contra a decisão monocrática, na qual foi negado seguimento ao recurso com fulcro no art. 21, § 1º, do RISTF, maneja agravo interno o Município da Santos. Alega que a matéria tratada no caso presente refere-se “[...] a cessação dos juros compensatórios com a vigência da Constituição Federal de 1988, por conta do artigo 33, bem como o artigo 78 ambos do ADCT, este último INCLUÍDO PELA EMENDA 30 DE 13/09/00, quanto ao pagamento da integralidade das parcelas, pois trata-se de Ação de Desapropriação, beneficiada pelas moratórias instituídas pela Constituição de Federal de 1988 e Emendas [...]”.
+    É o relatório.
+    Assiste razão.
+    Observo que a matéria restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 590.751-RG, verbis :
+    "CONSTITUCIONAL. PRECATÓRIO. ART. 78 DO ADCT, INTRODUZIDO PELA EC 30/2000. INCIDÊNCIA DE JUROS COMPENSATÓRIOS E MORATÓRIOS NAS PARCELAS SUCESSIVAS. INADMISSIBILIDADE. ART 5º, XXIV E XXXVI, DA CONSTITUIÇÃO. OFENSA AO PRINCÍPIO DA JUSTA INDENIZAÇÃO. NECESSIDADE DE REEXAME DE PROVA. OFENSA REFLEXA. INCIDÊNCIA DA SÚMULA 279 DO STF. RE PARCIALMENTE PROVIDO. I - O art. 78 do ADC possui a mesma mens legis que o art. 33 deste Ato, razão pela qual, uma vez calculado o precatório pelo valor real do débito, acrescido de juros legais, não há mais falar em incidência destes nas parcelas anuais, iguais e sucessivas em que é fracionado, desde que adimplidas a tempo e corrigidas monetariamente. II – Não se mostra possível, em sede de recurso extraordinário, examinar a alegação de ofensa ao princípio da justa indenização, abrigado no art. 5º, XXIV, da Constituição Federal, diante do que dispõe a Súmula 279 do STF. III - A discussão acerca dos limites objetivos da coisa julgada, ademais, constitui matéria de legislação ordinária, que não dá ensejo à abertura da via extraordinária. IV - Recurso extraordinário parcialmente provido.” (RE 590751, Relator(a): Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 09/12/2010, REPERCUSSÃO GERAL - MÉRITO DJe-063 DIVULG 01-04-2011 PUBLIC 04-04-2011 EMENT VOL-02495-01 PP-00153)
+    Ante o exposto, reconsidero a decisão recorrida para aplicar o paradigma da repercussão geral.
+    Devolvam-se os autos ao Tribunal a quo para os fins previstos nos arts. 1.036 a 1.040 do CPC/2015.
+    Publique-se.
+    Brasília, 26 de setembro de 2017.
+Ministra Rosa Weber
+Relatora
