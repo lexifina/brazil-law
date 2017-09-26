@@ -1,0 +1,29 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região assim ementado (eDOC 9, p. 210):
+    “ADMINISTRATIVO. MULTA DE TRÂNSITO. EMBRIAGUEZ AO VOLANTE. ALCOOLEMIA COMPROVADA. TESTE DO ETILÔMETRO DENTRO DA MARGEM DE ERRO. INDEPENDÊNCIA DAS ESFERAS PENAL E ADMINISTRATIVA.
+    1) Estando o etilômetro dentro do prazo de validade anual na ocasião da lavratura do auto de infração, não há falar em necessidade de inspeção do aparelho.
+    Também não há qualquer comprovação de que o equipamento utilizado não preenche os requisitos previstos pelo art. 6º, I a IV, da Resolução n.º 206 de 2006, do CONTRAN.
+    2) Correta a margem de erro inscrita no auto de infração, que partindo de uma medição realizada de 0,73 mg/L, resultou na medição considerada de 0,67 mg/L, bem acima do limite de 0,3 mg/L.
+    3) As esferas administrativa e penal são independentes, sendo possível que o réu absolvido na esfera penal seja condenado na esfera administrativa, sem que se configure qualquer nulidade.”
+    Os embargos de declaração foram rejeitados (eDOC 9, p. 257).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 5º, LIV e LV, da Constituição Federal.
+    Aduz-se que “a absolvição na esfera criminal traz repercussões na esfera administrativa, principalmente em face da violação constitucional, pois considerou o Poder Judiciário Estadual inexistente o fato criminoso, não se comprovando a existência do fato pela materialidade, uma vez que foi considerado inconstitucional o meio pelo qual a prova foi obtida. Desta feita, o E. TJRS afastou a prova da alegada embriaguez e não há no auto de infração lavrado qualquer outra prova comprobatória da embriaguez do apelante.” (eDOC 9, pp. 287-288).
+    A Vice-Presidência do TRF/4ª Região admitiu o recurso extraordinário. (eDOC 9, p. 371)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    A Quarta Turma do Tribunal de origem, quando do julgamento da apelação, ao adotar os fundamentos da sentença originária, assentou que eDOC 9, p. 209):
+    “1) Estando o etilômetro dentro do prazo de validade anual na ocasião da lavratura do auto de infração, não há falar em necessidade de inspeção do aparelho. Também não há qualquer comprovação de que o equipamento utilizado não preenche os requisitos previstos pelo art. 6º, I a IV, da Resolução n.º 206 de 2006, do CONTRAN.
+    2) Está correta a margem de erro inscrita no auto de infração, que partindo de uma medição realizada de 0,73 mg/L, resultou na medição considerada de 0,67 mg/L, bem acima do
+    limite de 0,3 mg/L.
+    3) As esferas administrativa e penal são independentes, sendo possível que o réu absoetilometrolvido na esfera penal seja condenado na esfera administrativa.
+    Portanto, o que foi trazido nas razões de recurso não me parece suficiente para alterar o que foi decidido, mantendo-se o resultado do processo e não vendo motivos para reforma da sentença.”
+    Desse modo, a discussão acerca da validade dos aparelhos etilômetros, cujos requisitos estão regulamentados pelo art. 6º, I a IV, da Resolução 206 de 2006, do CONTRAN, demandaria o reexame de fatos e provas e a interpretação da legislação infraconstitucional aplicável à espécie (Código de Trânsito Brasileiro - CTB e Resoluções do CONTRAN), restando inviabilizado o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 desta Corte e a ofensa reflexa e indireta ao Texto Constitucional. No mesmo sentido, confiram-se os seguintes precedentes:
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional (Código Nacional de Trânsito): alegada ofensa reflexa ou indireta à Constituição, inviável no RE: pretensão a reexame de matéria de fato e de prova (Súmula 279).” (AI 451.268-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 30/4/2004).
+    “DIREITO ADMINISTRATIVO. INFRAÇÃO DE TRÂNSITO. APLICAÇÃO DE MULTA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXVI, DA LEI MAIOR. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 13.7.2009. Tendo a Corte de origem dirimido, à luz da legislação infraconstitucional, controvérsia acerca da aplicação de penalidade a infração de trânsito, obter decisão em sentido diverso demandaria a análise de matéria infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível de viabilizar o conhecimento do recurso extraordinário, considerada a disposição do art. 102, III, da Lei Maior. Precedentes. Agravo regimental conhecido e não provido.” (RE 611.678-AgR. Rel. Min, Rosa Weber, Primeira Turma, DJe de 10/12/2013).
+    “Agravo regimental no recurso extraordinário. 2. Direito Administrativo. 3. Ato administrativo. Multas de trânsito. 4. Ofensa meramente reflexa ao texto constitucional. Análise do Código de Trânsito Brasileiro e da Resolução n. 131/2002 do CONTRAN. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.”
+    Além disso, o Plenário desta Corte, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, Dje de 1º.08.2013 (Tema 660), assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a” e “b”, do CPC, c/c o art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
