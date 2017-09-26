@@ -1,0 +1,34 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Regional Federal da 1ª Região, assim ementado:
+    “CIVIL E PROCESSUAL CIVIL. INÉPCIA INICIAL. NULIDADES – FALTA INTIMAÇÃO MPF, CERCEAMENTO DE DEFESA POR FALTA DE AUDIÊNCIA. PRESCRIÇÃO. IMPENHORABILIDADE DE BENS DA ECT. MÉRITO – CORREÇÃO MONETÁRIA E JUROS POR ATRASO NO PAGAMENTO DAS FATURAS. SUCUMBÊNCIA.
+    1.Falta de prova de culpa e ausência de reclamação sobre pagamento incompleto não são temas afetos à inépcia da inicial e nem a qualquer preliminar processual conhecida (sic). A inicial deste feito responde completamente aos arts. 282 e 283 do CPC e não está presente nenhuma das situações do art. 295, parágrafo único, do CPC para se falar em inépcia.
+    2.A mera existência de interesse patrimonial da Fazenda Pública, não se confunde com o interesse público no sentido próprio, que demanda a participação do Ministério Público, na forma da lei, não se justificando, pois, a esse título, a pretendida anulação do processo (AC 2000.01.00.094578-0/MG, Rel. Desembargador Federal Antônio Ezequiel da Silva, Sétima Turma, DJ de 28/10/2005, p. 36).
+    3.A audiência de instrução não é necessária quando não há provas a serem produzidas em tal ato. Não se fala em cerceamento de defesa sem indicar que prova útil para a parte teria deixado de ser produzida.
+    4.Está prescrita a pretensão de cobrança de diferenças das faturas com data de vencimento até 17/11/91.
+    5.O pagamento de faturas em atraso verificado no laudo pericial gera responsabilidade contratual e legal no pagamento de juros de mora e correção monetária.
+    6.Sucumbência mínima para a ECT, condenando-se a Apelada em honorários advocatícios de 10% do valor da condenação, além de arcar com as custas e despesas.
+    7.Apelação parcialmente provida”. (fl. 52)
+    No recurso, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, alega-se violação ao artigo 100 do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que uma vez que o acórdão recorrido reconheceu a prescrição quinquenal analogamente ao que ocorre com a Fazenda Pública, também deveria ter reconhecido a impenhorabilidade de seus bens.
+    Aduz-se, portanto, que ao não decidir nesse sentido, o Tribunal violou o art. 100 da Carta Magna, bem como lei federal.
+    A Procuradoria-Geral da República, em parecer de fls. 142-143, sustentou que ao caso sob análise aplica-se as Súmulas 282 e 356 do STF (fls. 142-143).
+    É o relatório.
+    Decido.
+    A irresignação recursal não merece prosperar.
+    Inicialmente, verifico que o artigo 100, da Constituição Federal, apontado como violado no recurso extraordinário não foi debatido no acórdão recorrido. Falta-lhe, pois, o necessário prequestionamento da questão constitucional, o que inviabiliza o apelo extremo nesse ponto. Incide, neste caso, o óbice a Súmula 282 do Supremo Tribunal Federal.
+    Ademais, em detida análise dos autos, observa-se que o Tribunal a quo se limitou a dizer que aquele não era o momento processual adequado para se discutir os procedimentos executórios, desse modo, não se manifestando acerca da possibilidade ou não da penhora dos bens da ECT, o que se constata ao analisar o proferido no acórdão recorrido:
+    “A impenhorabilidade de bens não tem nenhuma relevância no processo de conhecimento, posto que nele não se realiza a penhora de nada.
+    Não se confunda impenhorabilidade com impossibilidade de alguém ser processado (sic), o que nem sequer existe.
+    Só na execução é que o tema surgirá, pois existindo a impenhorabilidade a execução se faz pelas regras da execução contra a Fazenda Pública, mas nada,
+    O título judicial não descreveu e nem lhe cabia declarar qual será o processo de execução que deverá ser adotado, pelo que cabe ao Exequente, no momento oportuno, optar por uma das vias que a legislação processual lhe oferece e, se optar pela execução de quantia certa, SÓ AÍ, caberá à ECT apresentar sua tese de impenhorabilidade pela via processual adequada.
+    Sendo tema alheio ao processo de conhecimento em relação ao qual não gera qualquer efeito, além de que não se arrola em qualquer preliminar conhecida na legislação processual, tenho que o argumento nem merece resposta e, com certeza, em nada faz variar o conteúdo da sentença.” (fl. 48) – grifei
+    Constata-se, sob essa ótica, que o recorrente não impugnou o fundamento utilizado pelo Tribunal a quo, cingindo-se a apenas afirmar que tem direito à referida impenhorabilidade.
+    Nesses termos, tendo em vista a ausência de impugnação específica do acórdão recorrido, verifica-se a deficiência da fundamentação do recurso extraordinário, a atrair a incidência da Súmula 284 do STF.
+    Nesse sentido, cito os seguintes precedentes:
+    “CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA. SÚMULAS 287 DO STF. FALTA DE IMPUGNAÇÃO DAS RAZÕES DO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. ALEGADA VIOLAÇÃO AO ART. 5º, II, LIV E LV DA CONSTITUIÇÃO. OFENSA INDIRETA. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - As razões do recurso não infirmam os fundamentos da decisão agravada, o que atrai a incidência da Súmula 287 do STF. II - A recorrente não atacou as razões expostas no acórdão recorrido. Incide, no caso, a Súmula 284 do STF, haja vista a deficiente fundamentação do recurso extraordinário. III - É pacífico o entendimento nesta Corte de que não cabe rever, em recurso extraordinário, decisão do Superior Tribunal de Justiça que inadmitiu recurso IV - O Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). V - A orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. VI - Recurso protelatório. Aplicação de multa. VII - Agravo regimental improvido”. (AI-AgR 742.177, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 9.10.2009)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INSUFICIÊNCIA DO APELO QUANTO AOS FUNDAMENTOS DO JULGADO. SÚMULAS 283 E 284 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (RE-AgR 748.922, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 17.11.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de setembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
