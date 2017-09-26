@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1740, de 22 de setembro de 2017
+Dispõe sobre o Conhecimento Eletrônico Rodoviário.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no § 4º do art. 15 da Lei nº 9.611, de 19 de fevereiro de 1998, no art. 64 da Lei nº 10.833, de 29 de dezembro de 2003, e nos Decretos nº 660, de 25 de setembro de 1992, nº 3.411, de 12 de abril de 2000, e nº 6.759, de 5 de fevereiro de 2009, resolve:
