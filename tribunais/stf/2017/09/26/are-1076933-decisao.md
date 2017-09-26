@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “EMBARGOS À EXECUÇÃO. Legitimidade da Fazenda Pública para a execução da multa. Legislação que não permite a queima de cana-de-açúcar sem prévia autorização. Ausentes elementos que demonstrem a realização de prévio pedido de autorização para a queima. Responsabilidade objetiva. Aplicabilidade da teoria do risco e da responsabilidade solidária. Lei estadual que permite a penalização de quem se beneficiou com o procedimento não autorizado. Incompatibilidade entre a tese de que tinha autorização tácita para a queima e que não teve qualquer envolvimento nos atos que ocasionaram o incêndio. REJEITADA A PRELIMINAR. É NEGADO PROVIMENTO AO APELO” (pág. 211 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a e d, da Constituição, alegou-se, em suma, violação ao art. 24 da Carta Magna.
+    A pretensão recursal não merece acolhida.
+    O Tribunal a quo concluiu, com base na legislação aplicada à espécie, pela responsabilidade da recorrente pela queima da cana-de-açúcar sem autorização, uma vez que se beneficiou do procedimento e aderiu voluntariamente à conduta infracional. Entendeu, ainda, que a legislação federal se coaduna com a legislação estadual, não havendo usurpação de competência (págs. 210-216 do documento eletrônico 1).
+    Verifica-se, assim, que para divergir do entendimento do Tribunal a quo seria necessária a interpretação da legislação infraconstitucional aplicável à espécie (Decreto 8.468/1976, Lei estadual 997/1976, Decreto 2.661/1998, Lei 4.771/1965 – Código Florestal, Lei 10.547/2000 e Decreto-lei 4.657/1942) e do reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 desta Corte, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, cito o seguinte precedente:
+    “ACÓRDÃO QUE DECIDIU CONTROVÉRSIA RELATIVA À CONFIGURAÇÃO E APLICAÇÃO DE MULTA AMBIENTAL COM BASE NA PROVA DOS AUTOS E NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. Hipótese em que ofensa à Carta da República, se existente, seria reflexa e indireta, não ensejando a abertura da via extraordinária. Incidência, ainda, da Súmula 279 desta Corte. Agravo desprovido.” (AI 393.488-AgR, de relatoria do Min. Ilmar Galvão, 1ª Turma).
+    Além disso, ressalta-se que o presente caso não trata de acórdão que tenha julgado válida lei local contestada em face de lei federal, o que afasta o cabimento de recurso extraordinário com base na alínea d do art. 102, III, da CF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 26 de setembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
