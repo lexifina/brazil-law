@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado (eDOC 1, p. 288):
+    “EMENTA: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL. DECISÃO TERMINATIVA. PRINCÍPIO DA FUNGIBILIDADE. RECEBIDO COMO RECURSO DE AGRAVO. SERVIDORA PÚBLICA MUNICIPAL. ADICIONAL DE INSALUBRIDADE. NORMA CONSTITUCIONAL DE EFICÁCIA LIMITADA. INEXISTÊNCIA DE LEI ESPECÍFICA MUNICIPAL REGULAMENTADORA. IMPOSSIBILIDADE DE CONCESSÃO DO DIREITO RECLAMADO. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO.
+    1 – A agravante ingressou no serviço público, mediante aprovação em processo seletivo, para exercer a função de agente comunitário de saúde desde o ano de 1991.
+    2 – É pacífico na doutrina e jurisprudência que a Emenda Constitucional nº 19/1998 (que deu nova redação ao art. 39, § 3º da Constituição Federal) não suprimiu o direito à percepção do adicional de insalubridade pelos servidores públicos, pois a alteração ocorrida, na medida e que retirou a gratificação do rol dos direito constitucionalmente assegurados, apenas relegou, desta forma, sua regulamentação à legislação infraconstitucional.
+    3 – Como a Administração Pública é regida pelo princípio da legalidade, sua conduta só pode estar adstrita a ela. Havendo omissão quanto à edição de lei para regulamentar o adicional de insalubridade, este não pode ser concedido, ainda que o ambiente de trabalho se enquadre em uma situação inóspita.
+    4 – Recurso de Agravo a que se nega provimento. À unanimidade. ”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 10).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 7º, XXIII; e 37, caput, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “a lei municipal determina o pagamento do adicional de insalubridade aos servidores municipais, o que corrobora com a tese ora pleiteada.” (eDOC 2, p. 26).
+    Alega-se, ainda, que “a parte demandante tem o devido direito de receber os valores devidos ao Adicional de Insalubridade, por ser uma garantia constitucionalmente assegurada e regulamentada no âmbito municipal.” (eDOC 2, p. 26).
+    A 2ª Vice-Presidência do TJ/PE inadmitiu o recurso extraordinário com base na Súmula 280 do STF (eDOC 2, p. 78-79).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do agravo, asseverou (eDOC 1, p. 291):
+    “No presente caso, não há como atender às expectativas da agravante, tendo em vista a inexistência de lei específica, regulamentando a possibilidade de de percepção do adicional de insalubridade, bem como o seu grau e percentual. Nesse mesmo sentido, bastante esclarecedores são os fundamentos utilizados pelo magistrado a quo.
+    Nesse sentido, se não há que se falar em pagamento do adicional de insalubridade, também seus reflexos não são devidos.
+    Como a Administração Pública é regida pelo princípio da legalidade, sua conduta só pode estar adstrita a ela. Havendo omissão quanto à edição de lei para regulamentar o adicional de insalubridade, este não pode ser concedido, ainda que o ambiente de trabalho se enquadre em uma situação inóspita.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação local (Lei Orgânica do Município de Custódia) com o fim de verificar possível, ou não, sua aplicação analógica, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF. Nesse sentido:
+     “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO. LEIS MUNICIPAIS 100/1990 E 836/2001. REEXAME. INCIDÊNCIA DA SÚMULA 280 DO STF. 1. Nos termos da orientação sedimentada na Súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. A questão referente à base de cálculo do adicional de insalubridade, no caso em análise, depende do reexame da legislação local aplicável à espécie. Incidência da Súmula 280 do STF. 3. Agravo regimental a que se nega provimento.” (ARE 905.111-AgR, minha relatoria, Primeira Turma, Dje de 07/04/2016)
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADICIONAL DE INSALUBRIDADE. REGULAMENTAÇÃO ESTADUAL. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Para se chegar ao exame da alegada ofensa à Constituição faz-se necessário analisar as normas infraconstitucionais locais pertinentes ao caso (Decreto estadual 10.214/2002 e Lei estadual 1.068/2002), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes. II – Agravo regimental a que se nega provimento.” (RE 780.761-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, Dje de 03/06/2014)
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a” e “b”, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 26 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
