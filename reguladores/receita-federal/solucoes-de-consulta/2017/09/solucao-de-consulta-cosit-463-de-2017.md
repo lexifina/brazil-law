@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 463, de 20 de setembro de 2017
+ASSUNTO: CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL EMENTA: SOCIEDADE CORRETORA DE SEGUROS. ALÍQUOTA. Para fins de recolhimento da Contribuição Social sobre o Lucro Líquido, a sociedade corretora de seguros deve utilizar a alíquota prevista no inciso III do art. 3º da Lei nº 7.689, de 1988. DISPOSITIVOS LEGAIS: Lei nº 7.689, de 1988, art. 3º, incisos I a III, com a redação dada pela Lei nº 13.169, de 2015; Instrução Normativa RFB nº 1.591, de 2015, art. 1º; Lei Complementar nº 105, de 2001, art. 1º; e Lei nº 4.594, de 1964, arts. 1º e 2º.
+[arquivo anexo: SC Cosit nº 463-2017.pdf]
