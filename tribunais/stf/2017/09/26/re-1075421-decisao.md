@@ -1,0 +1,17 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Município de Jurema/PE contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “APELAÇÃO CÍVEL. FPM. CORREÇÃO MONETÁRIA DOS VALORES PAGOS EM ATRASO. ÔNUS DA PROVA. BASE DE CÁLCULO DO FPM. SENTENÇA MANTIDA.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceito inscrito na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cabe registrar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impõe-se observar, ainda, no tocante a dedução dos valores destinados ao PIN e ao PROTERRA da base de cálculo do FPM, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 705.423-RG/SE, Rel. Min. EDSON FACHIN, nele fixando tese assim consubstanciada:
+    “É constitucional a concessão regular de incetivos, benefícios e isenções fiscais relativos ao Imposto de Renda e Imposto sobre Produtos Industrializados por parte da União em relação ao Fundo de Participação de Municípios e respectivas quotas devidas às Municipalidades.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 26 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
