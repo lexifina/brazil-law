@@ -1,0 +1,16 @@
+DECISÃO: O Deputado Federal Luiz Felipe Baleia Tenuto Rossi alega que a competência penal originária do Supremo Tribunal Federal estaria sendo usurpada pelo ilustre Juiz de Direito da 4ª Vara Criminal da Comarca de Ribeirão Preto/SP, perante o qual estaria tramitando a Ação Penal nº 0028369-82.2016.8.26.0506, referente à denominada “Operação Sevandija”.
+    Tenderia a conhecer do pleito em questão como reclamação, considerada a jurisprudência desta Corte que bem define as funções processuais do instrumento reclamatório (RTJ 134/1033, v.g.).
+    Ocorre, no entanto, que o requerente não figura na denúncia oferecida naquela comarca pelo Ministério Público local (Ação Penal nº 0028369- -82.2016.8.26.0506), circunstância que, por revelar-se processualmente relevante, indica a ausência, no caso, da alegada usurpação, por parte do ilustre magistrado estadual, da competência originária desta Corte, o que torna inaplicável a jurisprudência que Supremo Tribunal Federal firmou na matéria, como se vê, p. ex., do seguinte julgado:
+    “RECLAMAÇÃO – RECEBIMENTO, POR MAGISTRADO DE PRIMEIRA INSTÂNCIA, DE DENÚNCIA OFERECIDA CONTRA TRINTA E DOIS INDICIADOS, ENTRE OS QUAIS FIGURA UM DEPUTADO FEDERAL NO PLENO EXERCÍCIO DE SEU MANDATO – USURPAÇÃO DA COMPETÊNCIA PENAL ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL – NULIDADE – RECLAMAÇÃO QUE SE JULGA PROCEDENTE.
+    O RESPEITO AO PRINCÍPIO DO JUIZ NATURAL – QUE SE IMPÕE À OBSERVÂNCIA DOS ÓRGÃOS DO PODER JUDICIÁRIO – TRADUZ INDISPONÍVEL GARANTIA CONSTITUCIONAL OUTORGADA A QUALQUER ACUSADO, EM SEDE PENAL.
+    – O Supremo Tribunal Federal qualifica-se como juiz natural dos membros do Congresso Nacional (RTJ 137/570 – RTJ 151/402), quaisquer que sejam as infrações penais a eles imputadas (RTJ 33/590), mesmo que se cuide de simples ilícitos contravencionais (RTJ 91/423) ou se trate de crimes sujeitos à competência dos ramos especializados da Justiça da União (RTJ 63/1 – RTJ 166/785-786). Precedentes.
+    SOMENTE O SUPREMO TRIBUNAL FEDERAL, EM SUA CONDIÇÃO DE JUIZ NATURAL DOS MEMBROS DO CONGRESSO NACIONAL, PODE RECEBER DENÚNCIAS CONTRA ESTES FORMULADAS.
+    – A decisão emanada de qualquer outro Tribunal judiciário que implique recebimento de denúncia formulada contra membro do Congresso Nacional configura hipótese caracterizadora de usurpação da competência penal originária desta Suprema Corte, revestindo-se, em consequência, de nulidade, pois, no sistema jurídico brasileiro, somente o Supremo Tribunal Federal dispõe dessa especial competência, considerada a sua qualificação constitucional como juiz natural de Deputados Federais e Senadores da República, nas hipóteses de ilícitos penais comuns. Precedentes.”
+    (Rcl 1.861/MA, Rel. Min. CELSO DE MELLO, Pleno)
+    De outro lado, cabe observar que o congressista em questão sequer indicou qualquer outro procedimento penal em que figure como investigado ou, até mesmo, como réu, motivo pelo qual não vejo como reconhecer configurada, na espécie, qualquer situação caracterizadora de usurpação da competência penal originária do Supremo Tribunal Federal.
+    Sendo assim, e em face das razões expostas, não conheço do pedido ora formulado.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 26 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
