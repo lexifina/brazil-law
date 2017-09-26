@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 4, p. 41):
+    “PROCESSUAL CIVIL – SENTENÇA – APELAÇÃO – EXTINÇÃO DO PROCESSO – INÉPCIA DA INICIAL – OMISSÃO – INEXISTÊNCIA – ERRO DE FATO – EMBARGOS DE DECLARAÇÃO – ACOLHIMENTO.
+    Constatada a existência de erro de fato, consistente na falsa percepção da realidade dos autos, de rigor a correção do acórdão embargado. Precedente do Colendo STF. Embargos acolhidos com efeitos modificativos.
+    SERVIDOR PÚBLICO MUNICIPAL – GRATIFICAÇÃO ESPECIAL PARA ESPECIALISTAS – GEE – LEI MUNICIPAL Nº 14.244/06 – VANTAGEM PECUNIÁRIA DE CARÁTER GENÉRICO – AUMENTO DISSIMULADO DE VENCIMENTOS.
+    1 Vantagem salarial concedida de forma genérica a todos os servidores do Quadro da Polícia Militar.
+    2. Equiparação salarial entre os funcionários da ativa e os aposentados ou pensionistas devida nos termos do art. 40, § 8º, CF, acrescentado pela EC 20/98.
+    3. A supressão do regime de paridade entre proventos de aposentadoria e pensões e vencimentos de servidores públicos em atividade não atinge os inativos e pensionistas cujos proventos ou pensões estivessem sendo pagos na data da publicação da EC-41/03 (art. 7º), que tenham cumprido todos os requisitos para obtenção do benefício (art. 3º), que tenham se aposentado com base nos arts. 3º e 6º da EC nº 47/05. Reexame necessário, considerado interposto, e recurso providos, em parte.”
+    No recurso extraordinário, com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 1º, 2º, 18, caput, 30, I, 37, caput, 39, § 1º, e 169, caput e § 1º, da Constituição Federal.
+    Nas razões recursais, sustenta-se que a denominada Gratificação Especial para Especialistas, instituída pela Lei Municipal 14.244/2006, não possui caráter genérico, pois sua sua concessão depende de critérios específicos aferíveis somente aos servidores ativos.
+    O Presidente da Seção de Direito Público do TJ/SP negou seguimento ao recurso extraordinário por se tratar de matéria infraconstitucional.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Observo que o acórdão recorrido decidiu a controvérsia interpretando a Lei Municipal 14.244/2006, entendendo-se que a vantagem em questão possui caráter genérico e que por essa razão deverá ser estendida aos servidores inativos, esclarecendo que:
+    “Esclarecido esse ponto, dúvida não há, pelo exame das informações iniciais não impugnadas especificamente pela parte contrária, de que os autores têm direito à percepção da gratificação concedida aos servidores em atividade. A gratificação em questão foi instituída pela Lei Municipal nº 14.244, de 29 de novembro de 2006, nos termos seguintes: (…)
+    Segundo se infere da leitura dos referidos dispositivos legais, a gratificação em tela não se reveste de caráter pro labore faciendo ou propter laborum, pois beneficiou genérica e indiscriminadamente os servidores da Secretaria Municipal da Educação, constituindo verdadeiro acréscimo de vencimentos.
+    A instituição do benefício em forma de gratificação prestou-se apenas a dissimular o caráter indiscriminado da medida e a excluir os servidores inativos e pensionistas do campo de incidência da vantagem concedida apenas aos servidores em efetivo exercício.” (eDOC 4, pp. 45-46).
+     Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria a análise da legislação local, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF.
+    Ressalta-se o entendimento consolidado nesta Corte segundo o qual a discussão acerca da possibilidade de extensão aos inativos e pensionistas de gratificações concedidas aos servidores em atividade, especialmente quanto à natureza da verba, é adstrita ao âmbito da interpretação da legislação local.
+    Nesse mesmo sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AGENTE DE SEGURANÇA PENITENCIÁRIO. CONTRATO TEMPORÁRIO. ADICIONAL DE LOCAL DE TRABALHO. LEI ESTADUAL 11.717/1994. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. MATÉRIA DIVERSA DA TRATADA NO ARE 646.000 (TEMA 551). 1. Nos termos da orientação sedimentada na Súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em debate. 2. Agravo regimental a que se nega provimento.” (ARE 918.037-AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe 9.12.2015).
+     “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADICIONAL OPERACIONAL PENITENCIÁRIO. NATUREZA JURÍDICA. SÚMULA 280/STF. PRECEDENTES. Em casos análogos, o Supremo Tribunal Federal assentou que, para dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza jurídica das vantagens concedidas aos servidores, se genéricas ou pro labore faciendo, seria necessário o exame da legislação local pertinente (incidência da Súmula 280/STF). Agravo regimental a que se nega provimento.” (ARE 660.811-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 2.2.2015).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Publique-se.
+    Brasília, 26 de setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
