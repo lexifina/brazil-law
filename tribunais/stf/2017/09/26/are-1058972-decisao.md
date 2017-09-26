@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, sob o fundamento de que eventual ofensa à Constituição seria apenas indireta.
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, ofensa ao art. 146, III, b, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque a jurisprudência do Supremo Tribunal Federal consigna a inviabilidade do recurso extraordinário, quando a análise da ofensa constitucional demande a revisão da interpretação dada à normas infraconstitucionais pela decisão recorrida.
+    Com efeito, o Tribunal a quo decidiu a questão à luz da legislação infraconstitucional (Código Tributário Nacional, Lei Complementar 118/2005). O próprio agravante, em suas razões, reconhece que a presente lide trata-se de matéria infraconstitucional. Vejamos:
+    “De fato, a ação de repetição de indébito tributário é ação especial, prevista no Código Tributário Nacional, com natureza tributária, de forma regulada pelo mesmo diploma legal, ou seja, é necessária a edição de lei complementar para sua alteração, conforme o disposto no artigo 146, inciso III, alínea 'b' da CRFB” (pág. 18 doc. eletrônico 53).
+    Neste diapasão, a suposta ofensa, se existente, ocorreria de forma indireta ou reflexa. Confira-se:
+    “Agravo regimental no agravo de instrumento. Representação de inconstitucionalidade. Parâmetro. Contrariedade ao art. 170, CTN. Compensação. Questão de mera legalidade. Afronta reflexa. 1. O art. 170 do Código Tributário Nacional não é reprodução mitigada do art. 146, III, b, da Constituição. Trata-se de norma geral de direito tributário, a qual, atendendo o comando do art. 146, III, b, CF, dispõe sobre a compensação, uma das formas de extinção do crédito tributário. 2. A questão suscitada se limita ao plano da legalidade, atingindo apenas de forma reflexa a Constituição da República. 3. Agravo regimental não provido” (AI 774.016-AgR/GO, Rel. Min. Dias Toffoli; grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PRESCRIÇÃO. ADESÃO A PARCELAMENTO. ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. SÚMULA 636 DO STF. INCIDÊNCIA. VIOLAÇÃO DOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. OFENSA AO ARTIGO 146 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 869.156-AgR/PE, Rel. Min. Luiz Fux; grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 26 de setembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
