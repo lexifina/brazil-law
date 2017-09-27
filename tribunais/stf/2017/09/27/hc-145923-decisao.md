@@ -1,0 +1,62 @@
+DECISÃO: Trata-se de “habeas corpus” impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONDENAÇÕES ANTERIORES COM TRÂNSITO EM JULGADO HÁ MAIS DE CINCO ANOS. UTILIZAÇÃO COMO MAUS ANTECEDENTES. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A jurisprudência desta Corte é firme no sentido de que condenações anteriores com trânsito em julgado há mais de cinco anos podem ser consideradas como maus antecedentes para efeito de fixação da pena-base.
+    Agravo regimental desprovido.”
+    (REsp 1.630.808-AgRg/SP, Rel. Min. JOEL ILAN PACIORNIK – grifei)
+    Buscam-se, em síntese, no presente “writ”, (a) o reconhecimento da ocorrência do excesso na fixação da pena-base, que restou estabelecida acima do mínimo legal, e (b) a conversão da pena privativa de liberdade em sanções restritivas de direitos.
+    O Ministério Público Federal, em pronunciamento da lavra da ilustre Subprocuradora-Geral da República Dra. CLÁUDIA SAMPAIO MARQUES, opinou pelo não conhecimento desta ação de “habeas corpus”.
+    Sendo esse o contexto, passo a examinar o pleito em causa. E, ao fazê-lo, observo, desde logo, ser incabível, nos termos pleiteados pela impetrante, a análise da pretendida substituição da pena privativa de liberdade por sanções restritivas de direitos. É que a decisão ora impugnada sequer examinou esse específico fundamento em que se apoia esta impetração.
+    Inexiste, portanto, coincidência temática entre esse particular fundamento invocado na presente ação de “habeas corpus” e aqueles que dão apoio à decisão objeto de impugnação nesta sede processual.
+    A circunstância que venho de mencionar (ocorrência de incoincidência temática) faz incidir, na espécie, em relação a este “writ” constitucional, a jurisprudência desta Corte, que assim se tem pronunciado nos casos em que os fundamentos apresentados pelo impetrante não guardam pertinência com aqueles que dão suporte à decisão impugnada (RTJ 182/243-244, Rel. Min. SEPÚLVEDA PERTENCE – HC 73.390/RS, Rel. Min. CARLOS VELLOSO – HC 81.115/SP, Rel. Min. ILMAR GALVÃO, v.g.):
+    “IMPETRAÇÃO DE ‘HABEAS CORPUS’ COM APOIO EM FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL APONTADO COMO COATOR: HIPÓTESE DE INCOGNOSCIBILIDADE DO ‘WRIT’ CONSTITUCIONAL.
+    – Revela-se insuscetível de conhecimento, pelo Supremo Tribunal Federal, o remédio constitucional do ‘habeas corpus’, quando impetrado com suporte em fundamento que não foi apreciado pelo Tribunal apontado como coator.
+    Se se revelasse lícito ao impetrante agir ‘per saltum’, registrar-se-ia indevida supressão de instância, com evidente subversão de princípios básicos de ordem processual. Precedentes.”
+    (RTJ 192/233-234, Rel. Min. CELSO DE MELLO)
+    “Em ‘habeas corpus’ substitutivo de recurso ordinário, a inconformidade deve ser com o acórdão proferido pelo STJ, e não contra o julgado do Tribunal de Justiça.
+    O STF só é competente para julgar ‘habeas corpus’ contra decisões provenientes de Tribunais Superiores.
+    Os temas objeto do ‘habeas corpus’ devem ter sido examinados pelo STJ.
+    .......................................................................................................
+    Caso contrário, caracterizaria supressão de instância.
+    ‘Habeas Corpus’ não conhecido.”
+    (HC 79.551/SP, Rel. Min. NELSON JOBIM – grifei)
+    Disso tudo resulta que esse específico fundamento que dá suporte à presente impetração, para ser conhecido pelo Supremo Tribunal Federal em sede de “habeas corpus”, precisaria constituir objeto de prévio exame por parte do E. Superior Tribunal de Justiça, sob pena de configurar-se, como precedentemente já acentuado, inadmissível supressão de instância, consoante tem advertido o magistério jurisprudencial desta Suprema Corte:
+    “EXECUÇÃO PENAL. ‘HABEAS CORPUS’. PROGRESSÃO DE REGIME. CUMPRIMENTO DE UM SEXTO DA PENA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL ‘A QUO’. SUPRESSÃO DE INSTÂNCIAS. PRECEDENTES. ‘WRIT’ NÃO CONHECIDO.
+    1. A presente impetração visa ao reconhecimento do direito do paciente em progredir de regime prisional em razão do cumprimento de um sexto da pena.
+    2. A questão suscitada pelo impetrante no presente ‘habeas corpus’ não foi sequer apreciada pelo Superior Tribunal de Justiça, já que não tinha sido submetida anteriormente ao crivo do Tribunal de Justiça do Rio de Janeiro.
+    3. Desse modo, o conhecimento da matéria, neste momento, pelo Supremo Tribunal Federal acarretaria inadmissível supressão de instâncias.
+    4. A jurisprudência dessa Suprema Corte é firme no sentido de que ‘não se conhece de ‘habeas corpus’ cujas questões não foram apreciadas pela decisão contra a qual é impetrado.’ (HC 93.904/RS, Rel. Min. Cezar Peluso, DJe 094).
+    5. ‘Writ’ não conhecido.”
+    (HC 97.761/RJ, Rel. Min. ELLEN GRACIE – grifei)
+    “PROCESSUAL PENAL E CONSTITUCIONAL. ‘HABEAS CORPUS’. DECISÃO MONOCRÁTICA QUE NEGA SEGUIMENTO A RECURSO ESPECIAL. IMPOSSIBILIDADE. CRIME DE RESPONSABILIDADE. PREFEITO. CONDENAÇÃO. DOSIMETRIA. AVENTADA ILEGALIDADE NA APLICAÇÃO DA PENA-BASE E NO NÃO RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. MATÉRIAS NÃO EXAMINADAS PELO  TRIBUNAL ORIGINÁRIO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. ‘HABEAS CORPUS’ EXTINTO.
+    …...................................................................................................
+    4. A jurisprudência desta Suprema Corte é firme no sentido de que não se conhece, em ‘habeas corpus’, de questões que não foram apreciadas nas instâncias inferiores (HC 93.904/RS, Rel. Min. Cezar Peluso, DJe 22.5/2009;  HC 97.761/RJ, Rel. Min. Ellen Gracie, DJe 11.12.2009;  HC 79.551/SP, Rel. Min. Nelson Jobim, DJ 20.10.2000;  HC 73.390/RS, Rel. Min. Carlos Velloso; HC 81.115/SP, Rel. Min. Ilmar Galvão, DJ 14.12.2001).
+    5. ‘Writ’ extinto, por inadequação da via processual.”
+    (HC 113.662/PA, Rel. Min. LUIZ FUX – grifei)
+    “Recurso ordinário em ‘habeas corpus’. Processual Penal. (…) Pretensão à diminuição da pena, em decorrência de aventada presença da atenuante decorrente da confissão espontânea. Matéria não submetida ao crivo do Superior Tribunal de Justiça. Supressão de instância. Precedentes. Recurso não provido.
+    …...................................................................................................
+    4. Quanto ao pretendido reconhecimento da atenuante da confissão espontânea, anoto que o Superior Tribunal de Justiça deixou de analisar a questão, em razão de não ter sido analisada em instância antecedente. Portanto, sua análise, de forma originária, pelo Supremo Tribunal Federal, configuraria inadmissível dupla supressão de instância.
+    5. Recurso não provido.”
+    (RHC 117.646/SP, Rel. Min. DIAS TOFFOLI – grifei)
+    Vê-se, portanto, que a pretensão jurídica de substituição da pena privativa de liberdade por sanções restritivas de direitos revela-se incognoscível, pois – insista-se – essa matéria suscitada pela ora impetrante sequer foi apreciada pelo E. Superior Tribunal de Justiça, conforme se verifica do acórdão impugnado.
+    Observo, de outro lado, que os elementos produzidos nesta sede processual revelam-se suficientes para justificar o acolhimento da pretensão relativa ao excesso na fixação da pena-base, uma vez que ocorre, na espécie, a situação prevista no art. 64, I, do Código Penal, que consagra a impropriamente denominada “prescrição da reincidência”.
+    Com efeito, decorrido o período de 5 (cinco) anos a que se refere o art. 64, I, do Código Penal, não há como reconhecer a subsistência residual, contra o réu, dos efeitos negativos resultantes de condenações anteriores, a significar, portanto, que se mostrará ilegal qualquer valoração desfavorável ao acusado que repercuta, de modo gravoso, na operação de dosimetria penal.
+    É por isso que a colenda Segunda Turma do Supremo Tribunal Federal tem advertido que, “Decorridos mais de 5 anos desde a extinção da pena da condenação anterior (CP, art. 64, I), não é possível alargar a interpretação de modo a permitir o reconhecimento dos maus antecedentes” (HC 110.191/RJ, Rel. Min. GILMAR MENDES – HC 125.586/SP, Rel. Min. DIAS TOFFOLI – HC 126.315/SP, Rel. Min. GILMAR MENDES – HC 130.500/RJ, Rel. Min. DIAS TOFFOLI – HC 130.613/RJ, Rel. Min. DIAS TOFFOLI – HC 133.077/SP, Rel. Min. CÁRMEN LÚCIA, v.g.):
+    “’HABEAS CORPUS’. CONSTITUCIONAL. PENAL. CONDENAÇÃO TRANSITADA EM JULGADO HÁ MAIS DE CINCO ANOS. IMPOSSIBILIDADE DE UTILIZAÇÃO PARA CARACTERIZAÇÃO DE MAUS ANTECEDENTES. ORDEM CONCEDIDA.
+    1. Condenação transitada em julgado há mais de cinco anos utilizada nas instâncias antecedentes para consideração da circunstância judicial dos antecedentes como desfavorável e majoração da pena-base. Impossibilidade. Precedentes.
+    2. Ordem concedida.”
+    (HC 131.720/RJ, Rel. Min. CÁRMEN LÚCIA – grifei)
+    Cabe registrar, por oportuno, que essa mesma orientação tem sido observada pela colenda Primeira Turma desta Suprema Corte (RHC 118.977/MS, Rel. Min. DIAS TOFFOLI, v.g.):
+    “‘Habeas corpus’. Tráfico de entorpecentes. Dosimetria.  Fixação da pena-base acima do mínimo legal em decorrência de maus antecedentes. Condenações extintas há mais de cinco anos. Pretensão à aplicação do disposto no inciso I do art. 64 do Código Penal. Admissibilidade. Precedente. ‘Writ’ extinto. Ordem concedida de ofício.
+    1. Impetração dirigida contra decisão singular não submetida ao crivo do colegiado competente por intermédio de agravo regimental, o que configura o não exaurimento da instância antecedente, impossibilitando o conhecimento do ‘writ’. Precedentes.
+    2. Quando o paciente não pode ser considerado reincidente, diante do transcurso de lapso temporal superior a cinco anos, conforme previsto no art. 64, I, do Código Penal, a existência de condenações anteriores não caracteriza maus antecedentes. Precedentes.
+    3. ‘Writ’ extinto. Ordem concedida de ofício.”
+    (HC 119.200/PR, Rel. Min. DIAS TOFFOLI – grifei)
+    Cumpre ressaltar, ainda, que eminentes doutrinadores perfilham igual entendimento (AMILTON BUENO DE CARVALHO e SALO DE CARVALHO, “Aplicação da Pena e Garantismo”, p. 52, 3ª ed., 2004, Lumen Juris; CELSO DELMANTO, ROBERTO DELMANTO, ROBERTO DELMANTO JÚNIOR e FÁBIO M. DE ALMEIDA DELMANTO, “Código Penal Comentado”, p. 274, 8ª ed., 2010, Saraiva; CEZAR ROBERTO BITENCOURT, “Código Penal Comentado”, p. 297, item n. 11, 8ª ed., 2014, Saraiva; JOSÉ ANTONIO PAGANELLA BOSCHI, “Das Penas e seus Critérios de Aplicação”, p. 168, 6ª ed., 2000, Livraria do Advogado; LEONARDO MASSUD, “Da Pena e sua Fixação”, p. 157/159, 2009, DPJ; JUAREZ CIRINO DOS SANTOS, “Direito Penal – Parte Geral”, p. 521, item n. 1.1, “b”, 4ª ed., 2010, Conceito Editorial, v.g.), valendo destacar, por extremamente relevante, a lição de PAULO QUEIROZ (“Direito Penal – Parte Geral”, p. 342/343, 4ª ed., 2008, Lumen Juris):
+    “Como vimos, autores há que entendem que, retomando a condição de primário, em razão do decurso do prazo de cinco [anos] sem praticar novo delito, poder-se-á, não obstante, usar tal condenação como maus antecedentes. Também aqui,  no entanto, há clara ofensa ao princípio da legalidade, pois, se, com o decurso do prazo, cessa a reincidência, principal forma de maus antecedentes, ela não pode ser aproveitada para outros fins, frustrando a finalidade da lei, até porque o acessório (maus antecedentes) deve seguir a sorte do principal (a reincidência).  Mais: os maus antecedentes acabariam assumindo caráter perpétuo.” (grifei)
+    Sendo assim, em face das razões expostas, conheço, em parte, deste “writ” e, na parte conhecida, defiro o pedido de ”habeas corpus”, para restabelecer, em sua integralidade, o acórdão proferido pelo E. Tribunal Regional Federal da 3ª Região (Apelação Criminal nº 0006144- -87.2013.4.03.6119/SP), notadamente no ponto em que afastou o reconhecimento, como maus antecedentes, de condenação penal anterior já atingida pelo decurso do quinquênio a que se refere o art. 64, inciso I, do CP.
+    Comunique-se, com urgência, transmitindo-se cópia desta decisão ao E. Superior Tribunal de Justiça (REsp 1.630.808-AgRg/SP), ao E. Tribunal Regional Federal da 3ª Região (Apelação Criminal nº 0006144- -87.2013.4.03.6119/SP) e ao Juízo Federal da 1ª Vara Federal da Subseção Judiciária de Guarulhos/SP (Ação Penal nº 0006144-87.2013.4.03.6119).
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 27 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
