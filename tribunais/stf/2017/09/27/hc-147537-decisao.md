@@ -1,0 +1,114 @@
+Vistos etc.
+    Referente à Petição STF 52.179/2017.
+    Em 12.9.2017, a Defesa do ora paciente formulou pedido de reconsideração da decisão em que neguei seguimento ao habeas corpus, forte na instrução deficiente do writ (HC 103.240-AgR/RS, Rel. Min. Ayres Britto, 2ª Turma, DJe 11.4.2011). Para tanto, a Defesa, por intermédio da referida petição, instrui o feito com os documentos necessários à apreciação do writ.
+    Superado o referido óbice e no exercício, pois, de juízo de retratação, reconsidero a decisão em que neguei seguimento ao habeas corpus pela deficiência na instrução, prosseguindo em sua análise.
+    O presente habeas corpus, com pedido de liminar, foi impetrado por William Fernandes Chaves e outro em favor de Lucas Pereira dos Santos, contra decisão monocrática da lavra do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça, que não conheceu do HC 397.437/SP.
+    Narra a inicial que o paciente foi preso cautelarmente, em 17.11.2015, pela suposta prática dos crimes de associação para o tráfico de drogas e de organização criminosa (art. 2º, caput, §§ 2º e 4º, IV, da Lei 12.850/2013 e art. 35 c/c art. 40, III, da Lei 11.343/06).
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que conheceu parcialmente do writ e, nessa extensão, denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Ribeiro Dantas, não conheceu do HC 397.437/SP.
+    No presente writ, os Impetrantes alegam, em síntese, falta de fundamentação idônea do decreto prisional e ausência dos pressupostos autorizadores da prisão preventiva. Aduzem a existência de circunstâncias favoráveis ao paciente, como primariedade, bons antecedentes, residência fixa e ocupação lícita. Sustentam excesso de prazo prisional, preso o paciente desde 17.11.2015. Requerem, em medida liminar e no mérito, a revogação da prisão preventiva do paciente e, sucessivamente, a aplicação de medidas cautelares diversas da prisão.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+    Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+    Do exame da decisão ora impugnada, tem-se que a Juíza de primeira instância decretou a prisão preventiva do paciente sob a seguinte motivação:
+    "Consta da representação que foi instaurado inquérito policial para dar continuidade às investigações que anteriormente aqui ocorreram para apurar atos praticados pela organização criminosa PCC. Durante o curso das investigações, onde censuras telefônicas foram deferidas, surgiram os ora investigados, sendo que se apurou que alguns desses indivíduos, mesmo na condição de reclusos, participam ativamente de ações criminosas promovidas por organização criminosa, sendo o mais evidente o tráfico ilícito de drogas, fato comprovado durante as investigações. Observo que anteriormente, pela decisão de fls. 552/558 houve a decretação da prisão temporária de vários indivíduos que estavam sendo investigados, bem como da expedição de mandados de busca e apreensões em diversos endereços.
+    Observo que em relação aos mandados de prisão temporária foram cumpridos os seguintes em 17 11 2015:
+    (...)
+    D) LUCAS PEREIRA DOS SANTOS - RDO - 10569/2015 e 10573/2015 (fls. 856/858 e 901) - mandado fls. 864;
+    (...)
+    Após relatório da D. Autoridade Policial, o Ministério Público manifestou-se favoravelmente à representação (fls 1657/1661).
+    Com efeito, as provas colhidas durante o curso da investigação, que veio a ser apoiada também em interceptações telefônicas, demonstram que os investigados fazem parte de organização criminosa que atua tanto dentro como fora dos estabelecimentos prisionais, sendo certo que se dedicam com assiduidade à prática de tráfico de drogas. As buscas realizadas resultaram na apreensão de grande quantidade de documentos que demonstram que os agentes até aqui investigados estão vinculados ao tráfico de drogas que se realiza, inclusive, dentro de estabelecimentos prisionais. Os documentos apreendidos demonstram grande movimentação financeira derivada de tais práticas ilícitas. É certo que há, ainda, indivíduo responsável pela codificação das mensagens que são enviadas com a prestação de contas, demonstrando que a organização a cada dia mais fica mais estruturada.
+    Por certo, aqueles que se dedicam a tais atividades ilícitas são pessoas de altíssima periculosidade, pois atentam contra o Estado Democrático de Direito e a todas as instituições. Não se pode deixar de considerar que, mesmo detidos, os agentes continuam a praticar e comandar o tráfico de drogas, demonstrando mais ainda a necessidade de suas contenções.
+    As provas até aqui amealhadas, especialmente as censuras realizadas, indicam a participação de cada um dos investigados nos crimes aqui apurados, sendo que, assim, há indícios suficientes de autoria.
+    Não se pode perder de vista que realizada a busca dentro das celas onde alguns dos envolvidos se encontravam, foram encontrados celulares, chips, drogas, dentre outros objetos (vide fls. 1374/1376).
+    Assim, visando a garantia da ordem pública, visando, ainda, a futura aplicação da lei penal, haja vista que alguns não chegaram ser localizados nas diligências realizadas, tais como RENAN MELO SANTOS, LEANDRO LIMA MAIS, DANILO MATEUS DE CARVALHO, GUSTAVO ERIKSON DE CARVALHO e VINÍCIUS POLLY BATISTA FIDÊNCIO, considerando que a prisão dos investigados é conveniente para a instrução criminal, que são motivos autorizadores previstos no art 312 do Código de Processo Penal, DECRETO a prisão preventiva dos indiciados, nos termos do art. 312 do Código de Processo Penal, de:
+    (...)
+    9) LUCAS PEREIRA DOS SANTOS, RG. n° 45 029.515. filho de Cláudia Pereira dos Santos, nascido aos 22.09.1986" (e-STJ, fls. 37-41, grifou-se).
+    Do exame da decisão impugnada, entendo que a prisão preventiva está suficientemente fundamentada na necessidade de acautelamento da ordem pública, tendo em vista a periculosidade do paciente, demonstrada por meio de interceptações telefônicas que indicam sua participação em complexa e estruturada organização criminosa, denominada de "PCC".
+    O Supremo Tribunal Federal já se manifestou no sentido de que a custódia cautelar para a garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa. A corroborar tal entendimento, os seguintes julgados:
+    (…).
+    Não há, pois, qualquer ilegalidade flagrante que justifique a revogação da prisão preventiva decretada em desfavor do paciente, devendo-se frisar que o argumento segundo o qual não haveria qualquer prova que indicasse a autoria do paciente em relação aos delitos imputados é questão que demanda cognição exauriente dos autos, reservada ao Juízo natural da causa e que excede os limites cognitivos desta estreita via do habeas corpus.
+    Ademais, quanto ao alegado constrangimento ilegal por excesso de prazo, deve-se ressaltar que, conforme orientação pacificada nesta Corte, "o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade, não se ponderando a mera soma aritmética dos prazos para a realização dos atos processuais" (RHC 58.140/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/9/2015, DJe 30/9/2015).
+    Sobre o tema:
+    (…).
+    O Juízo de primeira instância, no que concerne ao andamento processual, prestou os seguintes esclarecimentos:
+    "Venho pelo presente prestar as informações requisitadas por Vossa Excelência por meio do ofício expedido nos autos do habeas corpus impetrado em favor de LUCAS PEREIRA DOS SANTOS.
+    Consta dos autos que o inquérito policial foi instaurado para apurar atos praticados pela organização criminosa PCC. Durante o curso das investigações, onde censuras telefônicas foram deferidas nos autos da Cautelar n° 0010870-42.2015.8.26.0564 - Controle n° 914/2015, surgiu a pessoa ora investigada.
+    A autoridade policial representou pela decretação da prisão temporária e expedição de mandados de busca e apreensão (pág. 76/83). Houve manifestação do Ministério Público às pgs. 569/575.
+    Por decisão de 11.11.2015 foram decretadas as prisões temporárias, bem como deferidas buscas e apreensões (pág. 576/582).
+    Após devidamente cumpridas as temporárias e buscas e apreensões, a autoridade policial representou pela decretação das prisões preventivas do paciente e de outros às pgs. 1480/1490.
+    Houve manifestação ministerial pelo deferimento do pedido às fls. 1769/1775.
+    Por decisão de 03.12.2015 foram decretadas as prisões preventivas do paciente e dos demais denunciados (pág. 1776/1783).
+    O Ministério Público ofertou denúncia em 09.12.2015 contra:
+    I. BRUNO ABRAÃO SANT'ANNA XAVIER LIMA,
+    II. ADEILDO LOPES DIAS JUNIOR,
+    III. JASON FETT RODRIGUES,
+    IV. RENAN MELO SANTOS,
+    V. HÉLIO NASCIMENTO JÚNIOR,
+    VI. RICARDO BENTO,
+    VII.DANILO MATEUS DE CARVALHO,
+    VIII. LEANDRO LIMA MAIA,
+    IX. DOUGLAS MENDES DOS SANTOS,
+    X. RIGONE BORGES DE ALMEIDA,
+    XI. RODOLFO FERREIRA LEAL DO NASCIMENTO,
+    XII. LUCAS PEREIRA DOS SANTOS (ora paciente),
+    XIII. JÚLIO CÉSAR DO AMARAL,
+    XIV. ALEX DE SOUZA MENDES
+    XV. KLEBER SOARES ALVES,
+    XVI. HERMES PEREIRA BRITO,
+    XVII. FLÁVIA GOMES DE ARAÚJO;
+    XVIII. JAIR ANTONIO DA SILVA SOUZA,
+    XIX. GUSTAVO ERICKSSON DE CARVALHO,
+    XX. VINÍCIUS POLLY BATISTA FIDÉNCIO,
+    XXI. SUZANA ALVES DOS SANTOS,
+    XXII. GENILSON GONÇALVBES NASCIMENTO e
+    XXIII. ANDERSON CLEITON DE SOUZA SANTOS.
+    O Ministério Público dividiu a denúncia em grupos delineados, a saber: o 'grupo interno', o 'fora do ar', 'paiol', 'motocas', 'guarda de dinheiro - escritórios' e 'braço operacional'.
+    Imputou aos denunciados constantes dos cinco primeiros grupos a prática dos crimes definidos no art. 2º, caput e §§ 2º e 4º, inciso IV, da Lei n° 12.850/2013 e art. 35 c/c o art. 40, inciso III, da Lei n° 11343/06, c/c na forma do art. 69, caput, do Código Penal, onde se inclui o paciente ALEX.
+    Pela decisão de fls. 2070/2077 foi determinado o desmembramento do feito na forma do art. 80 do CPP, em razão da quantidade de denunciados, tudo visando evitar o tumulto processual.
+    Pela certidão de fls. 5922/5923 consta que foi realizado o desmembramento do feito, sendo que nestes autos estão sendo processados os denunciados que integram o 'fiscalização e contabilidade - guarda do dinheiro - escritórios', que estão sendo acusados da prática dos crimes definidos no art. 2º, caput e §§ 2º e 4º, inciso IV, da Lei n° 12.850/2013 e art. 35 c/c o art. 40, inciso III, da Lei n° 11343/06, c/c na forma do art. 69 caput do Código Penal, a saber:
+    LUCAS PEREIRA DOS SANTOS,
+    (...)
+    Os mandados de prisões foram cumpridos em relação a Hermes (fls. 1832/1833), Alex (fls. 1836/1837), Jair Antonio (fls. 1842/1843), Júlio César (fls. 1850/1851), Lucas (fls. 1852/1853), Kleber (fls. 1856).
+    Pela decisão de 01.03.2016 foi determinada a notificação do paciente e dos demais denunciados para apresentarem defesa preliminar no prazo legal, dentre outras providências (pág. 5937/5946), eis que foi determinado que o feito seguisse o rito especial previsto na Lei nº 11343/03, que há de prevalecer sobre o rito ordinário, como decide o E. STJ em casos semelhantes.
+    Após o oferecimento da denúncia, coube à Serventia, como determinado pela E. Presidência, proceder a digitalização de todo o inquérito policial, bem como da medida cautelar, sendo que somente os autos da cautelar conta com mais de três mil e oitocentas páginas.
+    Após a digitalização, que certamente, neste caso específico, diante da grande quantidade de volumes, veio em prejuízo da celeridade do feito, foi determinado o seu desmembramento em face da quantidade de denunciados, o que foi feito para evitar o tumulto processual.
+    A partir de então, passou a Serventia a enfrentar dificuldades junto ao SAJ para proceder ao desmembramento e, por isso, somente em 01.03.2016 se pôde finalmente apreciar a denúncia e determinar a notificação dos denunciados.
+    Observo, ainda, que o paciente se encontra detido no CDP de São Bernardo do Campo.
+    O paciente foi notificado pessoalmente (fls. 7310), assim como os denunciados Júlio César, Lucas, Hermes e Jair. O codenunciado Kleber também foi notificado (fls. 7314), assim como Flávia (fls. 7457). Gustavo foi notificado por edital às fls. 7510 e constituiu Defensor às fls. 1916.
+    Após a apresentação de defesas preliminares por todos os réus, a decisão de fls. 7558/7562 recebeu a denúncia, tendo sido designada audiência de interrogatório, debates e julgamento.
+    A folha de antecedentes do paciente foi juntada a fls. 7338/7341, a qual dá conta de que ele já se viu condenado anteriormente, inclusive por homicídio (vide certidão de fls. 7625).
+    Na data designada, o MM. Juiz que presidiu a audiência determinou que os interrogatórios fossem realizados ao término da instrução.
+    Naquela data foram inquiridas todas as testemunhas da acusação, tendo havido desistência das remanescentes (Cleiton e Clemente), encerrando-se a prova acusatória.
+    Porém, diante da insistência da oitiva das testemunhas por parte da defesa dos demais acusados, foi designada audiência em continuação, bem como expedida precatória, para oitiva das testemunhas arroladas pela defesa de Flávia, residentes fora da Comarca (fls. 7658/7663 e 7745/7870).
+    A precatória foi expedida (fls. 7714/7716).
+    Em audiência de continuação, foi inquirida a testemunha Clemente, tendo sido os réus qualificados e interrogados (fls. 7871/7873), determinando-se se aguardasse ao final a devolução da precatória expedida para oitiva das testemunhas de defesa.
+    Assim, no momento, os autos aguardam retorno de carta precatória que foi expedida com a finalidade de oitiva de testemunha da defesa e após seu retorno será aberta vista às partes para apresentação de memoriais." (e-STJ, fls. 72-76, grifou-se).
+    Na hipótese, o exame das informações prestadas pelo Magistrado de primeiro grau permite a conclusão de que, muito embora esteja o paciente preso preventivamente desde 17/11/2015, fica afastada a hipótese de excesso de prazo em sua prisão, notadamente em razão das peculiaridades do feito, como a complexidade da causa e a existência de multiplicidade de réus (23), circunstâncias que justificam maior demora na formação da culpa, sendo certo que o impetrante não trouxe, em suas razões, qualquer argumento que indique que eventual atraso na conclusão da instrução criminal poderia ser atribuído exclusivamente ao Juízo de origem.
+    Neste sentido, de acordo com o entendimento consolidado na jurisprudência do Superior Tribunal de Justiça, o alegado constrangimento ilegal da prisão preventiva por excesso de prazo para conclusão da instrução criminal deve ser analisado à luz do princípio da razoabilidade, e somente se cogita da sua ocorrência quando a demora for motivada pelo descaso injustificado do juízo, o que não se verifica nesta hipótese.
+    Ressalte-se, por fim, ainda conforme as informações prestadas, que os autos estariam na pendência de devolução de carta precatória para ouvida de testemunha de defesa, e que, após tal providência, será aberta vista às partes para apresentação de alegações finais. Pode-se afirmar, portanto, que a instrução já se encontra próxima do fim, afastando-se, ao menos por ora, o alegado constrangimento decorrente de suposto excesso de prazo para a formação da culpa.
+    Ante o exposto, não conheço do habeas corpus.”
+    Registro a existência de óbice ao conhecimento do presente writ, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça. O ato impugnado é decisão monocrática extintiva do writ e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Além disso, não detecto constrangimento ilegal ou teratologia hábil à concessão da ordem de ofício.
+    Ao decretar a prisão preventiva do Recorrente forte na garantia da ordem pública, o magistrado de primeiro grau consignou que “as provas colhidas durante o curso da investigação, que veio a ser apoiada também em interceptações telefônicas, demonstram que os investigados fazem parte de organização criminosa que atua tanto dentro como fora dos estabelecimentos prisionais, sendo certo que se dedicam com assiduidade à prática de tráfico de drogas” e que “Os documentos apreendidos demonstram grande movimentação financeira derivada de tais práticas ilícitas”. Naquela oportunidade, destacou que “aqueles que se dedicam a tais atividades ilícitas são pessoas de altíssima periculosidade, pois atentam contra o Estado Democrático de Direito e a todas as instituições. Não se pode deixar de considerar que, mesmo detidos, os agentes continuam a praticar e comandar o tráfico de drogas, demonstrando mais ainda a necessidade de suas contenções”.
+    Ressalto que, em um juízo meramente cautelar, não se exige a prova plena da culpa em relação aos pressupostos da custódia preventiva, “mas de pleno convencimento quanto a existência de dados (informações) nesse sentido” (Eugênio Pacelli de Oliveira e Douglas Fischer, Comentários ao Código de Processo Penal e sua jurisprudência, 4ª ed. rev. e atual.; São Paulo: Atlas, 2012, p. 621).
+    Para concluir em sentido diverso das instâncias anteriores, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Esta Suprema Corte já assentou que “A ação de habeas corpus – de caráter sumaríssimo – constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise aprofundada da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos indiciários e/ou coligidos no procedimento penal” (HC 92.887/GO, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.12.2012).
+    O Tribunal de Justiça manteve a constrição cautelar dada a idoneidade de fundamentação exarada pelo magistrado de primeiro grau.
+    O Superior Tribunal de Justiça enfatizou “que a prisão preventiva está suficientemente fundamentada na necessidade de acautelamento da ordem pública, tendo em vista a periculosidade do paciente, demonstrada por meio de interceptações telefônicas que indicam sua participação em complexa e estruturada organização criminosa, denominada de "PCC".
+    Sem dúvida a custódia cautelar, enquanto medida excepcional, exige demonstração inequívoca de sua necessidade, em observância ao princípio constitucional da presunção de inocência ou da não culpabilidade, sob pena de representar mera antecipação da reprimenda a ser cumprida quando da condenação (HC 105.556/SP, Rel. Min. Celso de Mello, 2ª Turma, DJe de 30.8.2013).
+    Dessa forma, o decreto de prisão cautelar há de se apoiar nas circunstâncias fáticas do caso concreto, evidenciando que a soltura colocará em risco a ordem pública, a ordem econômica, a instrução criminal ou a aplicação da lei penal, à luz do art. 312 do CPP, e desde que igualmente presentes prova da materialidade da delito e indícios suficientes da autoria.
+    Se a pertinência do paciente a grupo criminoso organizado e dedicado ao tráfico de drogas e as circunstâncias concretas da prática do delito indicam a periculosidade da agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP (v.g. HC 105.585/SP, HC 112.763/MG e HC 112.364 AgR/DF, precedentes da minha lavra).
+    De acordo com a jurisprudência predominante deste Supremo Tribunal Federal, “a prisão cautelar com fundamento na garantia da ordem pública ressai legítima quando evidenciada a necessidade de cessar a atuação de organização criminosa constituída para a disseminação reiterada de drogas” (HC 122.911-AgR/RS, Rel. Min. Luiz Fux, 1ª Turma, DJe de 24.10.2014). Nesse sentido, cito: RHC 120.977/PA, Rel. Min. Dias Toffoli, 1ª Turma, DJe de 25.06.2014, HC 118.551/PA, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe de 16.10.2013).
+    Nesse contexto, diante da validade e da necessidade da prisão preventiva do Recorrente, perde relevo a eventual imposição de medida alternativa prevista no art. 319 do CPP .
+    Além disso, nada colhe o alegado excesso de prazo para formação da culpa.
+    A razoável duração do processo não pode ser considerada de maneira isolada e descontextualizada das peculiaridades do caso concreto, até porque a melhor compreensão do princípio constitucional aponta para “processo sem dilações indevidas”, em que a demora na tramitação do feito há de guardar proporcionalidade com a complexidade do delito nele veiculado e as diligências e os meios de prova indispensáveis a seu deslinde. Nesse sentido o magistério de Daniel Mitidiero, que se endossa (Curso de Direito Constitucional, 2ª edição revista, atualizada e ampliada, Revista dos Tribunais).
+    Por outro lado, “o excesso de prazo da instrução criminal não resulta de simples operação aritmética, impondo-se considerar a complexidade do processo, atos procrastinatórios da defesa e número de réus envolvidos, fatores que, analisados em conjunto ou separadamente, indicam ser, ou não, razoável o prazo para o encerramento” (HC 108.426/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 07.8.2012).
+    Ressalto que a maior ou menor demora no julgamento de um processo pode variar conforme as peculiaridades do feito. Na esteira do parecer ministerial, “a complexidade da causa, aliada à pluralidade de corréus (no total de 23), justifica a maior delonga para a conclusão do feito e não fere os padrões da razoabilidade”, sendo que “a ação penal segue seu trâmite regular”.
+    Anoto, por fim, que, em casos mais complexos, como na hipótese, envolvendo crimes de acentuada gravidade concreta, é tolerável alguma demora (HC 107.629/PB, redação do acórdão à Ministra atribuída, 1ª Turma, DJe 15.3.2012).
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de setembro de 2017.
+Ministra Rosa Weber
+Relatora
