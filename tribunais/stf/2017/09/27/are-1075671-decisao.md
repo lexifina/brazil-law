@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 144 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido da constitucionalidade da restrição do exercício da advocacia por servidores policiais, imposta pelo art. 28, V, da Lei nº 8.906/94, razão pela qual não se divisa a alegada ofensa ao dispositivo constitucional suscitado. Nesse sentido:
+    “Ação direta de inconstitucionalidade. Exercício da advocacia. Servidores policiais. Incompatibilidade. Artigo 28, inciso V, da Lei nº 8.906/94. Ausência de ofensa ao princípio da isonomia. Improcedência da ação. 1. A vedação do exercício da atividade de advocacia por aqueles que desempenham, direta ou indiretamente, serviço de caráter policial, prevista no art. 28, inciso V, da Lei nº 8.906/94, não se presta para fazer qualquer distinção qualificativa entre a atividade policial e a advocacia. Cada qual presta serviços imensamente relevantes no âmbito social, havendo, inclusive, previsão expressa na Carta Magna a respeito dessas atividades. O que pretendeu o legislador foi estabelecer cláusula de incompatibilidade de exercício simultâneo das referidas atividades, por entendê-lo prejudicial ao cumprimento das respectivas funções. 2. Referido óbice não é inovação trazida pela Lei nº 8.906/94, pois já constava expressamente no anterior Estatuto da Ordem dos Advogados do Brasil, Lei nº 4.215/63 (art. 84, XII). Elegeu-se critério de diferenciação compatível com o princípio constitucional da isonomia, ante as peculiaridades inerentes ao exercício da profissão de advogado e das atividades policiais de qualquer natureza. 3. Ação julgada improcedente.” (ADI 3541, Relator(a): Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 12/02/2014, ACÓRDÃO ELETRÔNICO DJe-057 DIVULG 21-03-2014 PUBLIC 24-03-2014)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de setembro de 2017.
+Ministra Rosa Weber
+Relatora
