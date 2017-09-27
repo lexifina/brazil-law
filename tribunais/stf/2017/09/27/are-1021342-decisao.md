@@ -1,0 +1,9 @@
+DECISÃO: O ora recorrente, Luiz Fernando Farias, faleceu em 23/08/2016. Esse fato – que assume relevo jurídico-penal – resultou comprovado (v. certidão encaminhada pelo Ofício nº 181/2017 – 5ª Secretaria do Crime do Foro da comarca da Região Metropolitana de Curitiba/PR).
+    Como se sabe, tratando-se do falecimento de quem sofre persecução penal, revela-se imprescindível o cumprimento da determinação constante do art. 62 do Código de Processo Penal, que impõe, para efeito de declaração judicial da extinção da punibilidade, seja aquele evento demonstrado mediante prova específica: a certidão de óbito (DAMÁSIO E. DE JESUS, “Código de Processo Penal Anotado”, p. 72, 14ª ed., 1998, Saraiva).
+    É por essa razão que JULIO FABBRINI MIRABETE (“Código de Processo Penal Interpretado”, p. 119, 2ª ed., 1994, Atlas), comentando o preceito legal em causa, e com fundamento na jurisprudência dos Tribunais (RT 615/271), adverte que, “Nessa específica causa de extinção da punibilidade, a lei restringe o princípio de liberdade das provas, exigindo a certidão de óbito para seu reconhecimento” (grifei).
+    A prova em questão, como precedentemente referido, foi produzida nos presentes autos .
+    Sendo assim, pelas razões expostas, com apoio no art. 3º, n. II, da Lei nº 8.038/90, declaro a extinção da punibilidade de Luiz Fernando Farias (CPP, art. 61, “caput”), relativamente à condenação penal que lhe foi imposta nos autos da Ação Penal nº 2013.0006149-9 (5ª Secretaria do Crime do Foro da comarca da Região Metropolitana de Curitiba/PR), em decorrência de seu óbito (CP, art. 107, I), conforme consta de certidão anexada à Petição/STF nº 6.532/2017, restando extinto, em consequência, este procedimento recursal.
+    Publique-se.
+    Brasília, 27 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
