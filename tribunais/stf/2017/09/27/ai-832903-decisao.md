@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de diferenças decorrentes de erro no reajuste do contrato. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 22, inciso VI, 37, inciso XXI, e 49, incisos XIII e XIV, da Constituição Federal. Discorre sobre o desequilíbrio contratual, considerada a utilização de índices diversos dos previstos em norma nacional quando da implementação do Plano Real.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    O contrato foi assinado em 15.09.94, com valor global ("... das obras e serviços, objeto deste contrato é de R$ 498.374,86 - quatrocentos e noventa e oito mil, trezentos e setenta e quatro reais e oitenta e seis centavos - fls. 71), já expresso em Real e previsão de reajustes de acordo com o Decreto n° 27.133/87 e Decreto n° 35.527/92, adotando-se os índices divulgados mensalmente pela FIPE (fls/43).
+    O Decreto n° 27.133/87, em seu art. 12, "fixa a metodologia do cálculo de reajustamento, determinando a aplicação de reajustes por índices plenos mensais, e ainda a aplicação do índice do mês correspondente ao último dia do período de execução dos serviços, ou correspondente ao mês de reajuste contratual, em consonância ainda com as disposições da Resolução Conjunta PGE/SF 02/95 (...) incompatível com o reajuste pro rata" (grifei - AC n° 861.938- 5/8 - v.u. j . de 01.06.09 - Rei. Des. ÂNGELO MALANGA).
+    A legislação invocada não se aplica ao caso dos autos nem, assim não fosse, legitima a pretensão.
+    No mais, a apelada trouxe aos autos termo de aditamento firmado pelas partes (fls. 269/271), datado de 17.10.95, onde se confirma a forma de reajuste, porém, "... com periodicidade anual..." (fls. 270). Dessa forma, inequívoca demonstração da autora de que "... concordou com os termos pactuados no contrato administrativo, seus respectivos aditamentos, sem qualquer ressalva...", (grifei - AC n° 298.104-5/3 - v.u. j . de 25.08.08 - Rei. Des. JOSÉ HABICE). Inviável agora pretensa alteração. Presente o ato jurídico perfeito (art. 5o , XXXVI da CF).
+    Não há falar, portanto, em desequilíbrio contratual.
+    O Colegiado assentou inexistir prejuízo a ser indenizado. Somente pela análise das provas constantes do processo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária.
+    No mais, o Tribunal de origem julgou a apelação a partir de análise conferida a normas locais. Procedeu à interpretação do Decreto n° 27.133/87. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo.
+    Acresce que, no caso, o alegado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 27 de setembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
