@@ -1,0 +1,19 @@
+Trata-se de reclamação, proposta por Ricardo Cosme Silva dos Santos, contra decisão que teria desrespeitado aquela por mim proferida no HC 146.830/MT.
+    O reclamante narra que, em 8/7/2015, nos autos do processo 555-88.2015.4.01.3601, aberto a partir da denominada “Operação Hybris”, para apurar a suposta prática dos crimes de tráfico de entorpecentes e associação para o tráfico, teve juntamente com outros cinco corréus a prisão preventiva decretada como garantia da ordem pública e para assegurar a aplicação da lei penal.
+    As defesas manejaram diversas medidas objetivando a soltura dos réus. Em uma delas, o Tribunal Regional Federal da 1ª Região, nos autos do HC 0026886-75.2017.4.01.0000, concedeu a ordem parcialmente em favor do corréu Valdemir Gonçalves e determinou ao Juízo da Subseção Judiciária de Cáceres que, no prazo de 60 (sessenta) dias, prolatasse sentença no bojo das ações penais derivadas da denominada “Operação Hybris”, sob pena de que os acautelados fossem postos em liberdade por excesso de prazo.
+    Paralelamente, o corréu Rodolfo Onofre Mattos ajuizou o HC 146.803/MT, de minha relatoria, no qual questionou o excesso de prazo da prisão preventiva decretada.
+    Ao analisar o referido writ, entendi que o fato daquele corréu permanecer preso há mais de dois anos sem sentença e inexistir nos autos elementos que indicassem que tal demora processual pudesse ser-lhe imputada caracterizava constrangimento ilegal. Concedi, então, a ordem de ofício para o fim de determinar a imediata soltura daquele paciente, salvo se preso por outro motivo. Determinei, no entanto, a fim de assegurar a devida aplicação da lei penal, a imposição de seis medidas cautelares.
+    O ora reclamante, então, ajuizou pedido de extensão sob o fundamento de que sua situação processual era idêntica à do corréu Rodolfo Onofre Mattos. O pedido foi deferido, pois entendi, num primeiro momento, que ele também estava submetido a constrangimento ilegal.
+    Ele informa, no entanto, que, ao tomar ciência da decisão proferida inicialmente no HC 146.803/MT, o Ministério Público Federal,
+    “[...] antevendo a similitude fática jurídica entre a condição do paciente/corréu Rodolfo Onofre Mattos com a do ora reclamante, Ricardo Cosme Silva dos Santos, UM DIA DEPOIS, na data de 24 de agosto de 2017, valendo-se de fatos carentes de qualquer contemporaneidade, apurados no bojo da Ação Penal nº. 0003855- 58.2015.4.01.36101, atinentes ao suposto cometimento de crimes de lavagem de dinheiro, representou pela decretação de uma segunda prisão preventiva do reclamante” (pág. 4 do documento eletrônico 1).
+    O juízo reclamado então decretou a sua prisão preventiva em relação à ação penal que busca apurar suposta prática do delito de lavagem de dinheiro.
+    O reclamante alega, então, que a segunda prisão demonstra o inconformismo do juízo reclamado com a decisão por mim proferida no HC 146.803/MT.
+    Pugna, por essa razão, pelo deferimento da limar para suspender os efeitos da decisão que decretou a sua prisão, expedindo-se o competente alvará de soltura. Alternativamente, caso não se entenda cabível esta reclamação, postula a concessão de habeas corpus, de ofício, para garantir sua liberdade.
+    É o relatório necessário. Decido.
+    Com efeito, ao examinar o agravo regimental interposto pelo Ministério Público Federal contra a decisão que revogou a prisão do reclamante verifiquei que o cenário descrito na inicial era completamente diverso daquele apresentado pelo Parquet. Entendi, dessa forma, que a liminar concedida deveria ser imediatamente cassada, bem como as extensões que foram deferidas.
+    Assim, como a decisão que se alega desrespeitada não mais subsiste, ocorreu a perda superveniente de objeto desta reclamação.
+    Isso posto, julgo-a prejudicada (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 27 de setembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
