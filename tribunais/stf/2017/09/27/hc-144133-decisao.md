@@ -1,0 +1,40 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça – STJ, que negou provimento ao Agravo Regimental no REsp 1.626.045/PR, de relatoria do Ministro Joel Ilan Paciornik (fls. 93-98 do documento eletrônico).
+    Consta dos autos que, sobrevindo nova condenação no curso da execução, o Juízo da Vara de Execuções Penais e Corregedoria dos Presídios de Foz do Iguaçu/PR procedeu à unificação das penas impostas ao paciente, fixando o regime semiaberto para o desconto da reprimenda (fls. 14-15 do documento eletrônico 2).
+    Alegando ter cumprido os requisitos objetivo e subjetivo, o sentenciado, por intermédio da Defensoria Pública do Estado do Paraná, requereu a progressão de regime, do semiaberto para o aberto, o que foi deferido pelo juízo das execuções, mediante imposição de condições (fls. 89-91 do documento eletrônico 2).
+    Posteriormente, em razão de nova condenação no curso da execução, o paciente regrediu para o regime semiaberto (fls. 207-208 do documento eletrônico 2) e teve, mais uma vez, unificadas suas penas, desta feita no total de 10 anos e 5 meses de reclusão, no regime fechado. Na mesma decisão, foram indeferidos os pedidos de livramento condicional e de progressão de regime (fls. 70-72 do documento eletrônico 3).
+    Inconformada com a modificação da data-base para concessão de novos benefícios executórios, a defesa interpôs agravo em execução no Tribunal de Justiça do Estado do Paraná – TJPR, que negou provimento ao recurso (fls. 216-221 do documento eletrônico 3 e fls. 1-3 do documento eletrônico 4).
+    Contra esse acórdão, a Defensoria Pública do Estado interpôs recurso especial para o STJ, o qual, depois de admitido na origem (fls. 39-40 do documento eletrônico 4), foi parcialmente provido por decisão monocrática do Ministro Relator, “para determinar que a data-base para a concessão do livramento condicional não se modifique em consequência da unificação das penas” (fls. 67-70 do documento eletrônico 4).
+    Sustentando que o mesmo entendimento deveria ser aplicado à progressão de regime, a Defensoria Pública da União interpôs agravo regimental, que foi desprovido (fls. 93-98 do documento eletrônico 4), em acórdão assim ementado:
+    “EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DATA-BASE PARA A PROGRESSÃO DE REGIME. TRÂNSITO EM JULGADO DA ÚLTIMA CONDENAÇÃO. AGRAVO DESPROVIDO.
+    1. Na unificação de penas, considera-se a data do trânsito em julgado da nova condenação como termo a quo do prazo para a concessão da progressão de regime.
+    Agravo regimental desprovido” (fl. 93 do documento eletrônico 4).
+    É contra essa decisão que se insurge a impetrante neste habeas corpus.
+    Sustenta, inicialmente, que “a interpretação jurisprudencial objeto deste remédio constitucional posterga e dificulta a ressocialização do condenado, que igualmente tem frustrada a sua expectativa de liberdade” (fls. 5 da petição inicial).
+    Registra, em seguida, que “a lei n. 7.210/84 (Lei de Execução Penal) é omissa no sentido de indicar o termo a quo para concessão de benesses decorrentes da execução, principalmente em sede de unificação das penas, de sorte que, nesta situação, a questão deve ser sempre resolvida em favor do condenado”, ou seja, deve ser aplicada a data da última prisão (fl. 6 da petição inicial).
+    Requer, ao final, o que seja concedida a ordem, ”reconhecendo a data da última prisão como termo inicial do lapso temporal referente a concessão de benefícios na execução penal, bem como para contagem da progressão de regime” (fl. 8 da petição inicial).
+    É o breve relatório. Decido.
+    Em que pesem os argumentos da impetrante, tenho que o caso é de manutenção da reiterada jurisprudência desta Suprema Corte sobre a matéria.
+    Conforme relatado, a impetrante pretende que seja considerado como marco interruptivo, em razão da unificação de penas, a data da última prisão.
+    Ocorre que as instâncias ordinárias, tendo em vista que, à época, ainda não havia ocorrido o trânsito em julgado da última condenação, fixaram como termo inicial a ser considerado para concessão de novos benefícios, inclusive para progressão de regime, a data da decisão que procedeu à unificação das penas, por se tratar de interpretação mais favorável ao reeducando.
+    O Superior Tribunal de Justiça, por sua vez, ao julgar o recurso especial, reafirmou que, para a progressão de regime, deve ser considerada a soma do restante da pena em cumprimento com a nova sanção imposta, calculada a contagem a partir da data do trânsito em julgado da nova condenação.
+    Tenho que não merece reparo a decisão do Superior Tribunal de Justiça, pelas razões que passo a expor.
+    Com efeito, a superveniência de nova condenação definitiva no curso da execução criminal sempre altera a data-base para concessão de benefícios.
+    Esta conclusão decorre da interpretação do art. 111, parágrafo único, combinado com o art. 118, II, ambos da Lei de Execuções Penais, cuja redação é a seguinte:
+    “Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.
+    Parágrafo único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime.
+    Art. 118. A execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado:
+    […]
+    II - sofrer condenação, por crime anterior, cuja pena, somada ao restante da pena em execução, torne incabível o regime (artigo 111)”.
+    Nesse sentido, transcrevo abaixo trecho da ementa do acórdão relatado pela Ministra Cármen Lúcia no HC 90.030/RJ:
+    “2. Constata-se que a manutenção do regime prisional fechado foi justificada pela quantidade da pena que ainda falta ao réu cumprir, após ser realizado novo cálculo de unificação de penas, em virtude da nova sanção imposta. 3. Habeas corpus denegado”.
+    Ora, se a legislação prevê a possibilidade de regressão de regime, quando a unificação das penas resultar na necessidade de sua alteração, é evidente que a data-base também deve ser alterada, uma vez que seria ilógico regredir o regime do sentenciado sem alterar-se o termo inicial para concessão de benefícios, pois chegar-se-ia à situação absurda de, ao mesmo tempo em que se reconhece a necessidade de regressão em razão de condenação superveniente, esta não surtiria efeito pelo fato de o preso já ter direito à progressão.
+    Esta Suprema Corte abonou essa tese no HC 77.765/PR, de relatoria do Ministro Nelson Jobim, em acórdão assim ementado:
+    “HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. Quando ocorre nova condenação no curso da execução da pena, aplica-se o art. 111, parágrafo único, da Lei Execução Penal. A data de nova condenação é o termo inicial ao fim de contagem do prazo. Ordem denegada”.
+    Embora não haja previsão expressa na lei acerca da aludida alteração do termo inicial para concessão de benefícios, esta conclusão é uma consequência necessária dos dispositivos legais sob exame, visto que afigura-se incoerente a possibilidade de regressão de regime de um condenado em razão de nova reprimenda sem a alteração da data-base.
+    Assim, há de ser mantida, na hipótese sob exame, a data da decisão que procedeu à unificação das reprimendas, na ausência, à época, do trânsito em julgado da última condenação do paciente, observada a soma da sanção desta condenação superveniente ao período de pena que resta a ser cumprida, tal como ocorreu.
+    Na mesma linha de consideração, cito, ainda, os seguintes julgados mais recentes: RHC 116.528/RS, Rel. Min. Luiz Fux; RHC 121.849/MG, Rel. Min. Dias Toffoli; HC 100.499/RS, Rel. Min. Marco Aurélio.
+    Ante o exposto, denego a ordem de habeas corpus (art. 192 do RISTF).
+    Publique-se.
+    Brasília, 27 de setembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
