@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5°, II, e 37, caput, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Servidora pública. Prequestionamento. Ausência. Professora. Licenças. Progressão funcional. Leis nºs 7.169/96 e 7.235/96 do Município de Belo Horizonte. Ofensa a direito local. Artigo 97 da Constituição Federal. Súmula Vinculante nº 10. Violação. Inexistência. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. O Tribunal de origem decidiu a questão relativa à progressão funcional da agravada com fundamento nas Leis municipais nºs 7.169/96 e 7.235/96. 3. Inadmissível, em recurso extraordinário, a análise da legislação local. Incidência da Súmula nº 280/STF. 4. Pacífica a jurisprudência do STF de que não há violação do art. 97 da Constituição Federal, tampouco da Súmula Vinculante nº 10 do STF, quando o Tribunal de origem, sem declarar a inconstitucionalidade da norma e sem afastá-la sob fundamento de contrariedade à Constituição Federal, limita-se a interpretar e aplicar a legislação infraconstitucional ao caso concreto. 5. Agravo regimental não provido”. (ARE 868948 AgR, Relator(a):  Min. DIAS TOFFOLI, Segunda Turma, julgado em 26/05/2015, PROCESSO ELETRÔNICO DJe-118 DIVULG 18-06-2015 PUBLIC 19-06-2015)
+    Ademais, na esteira da súmula 636/STF, não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de setembro de 2017.
+Ministra Rosa Weber
+Relatora
