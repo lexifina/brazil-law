@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de embargos de declaração apresentados em 20.06.2017, cujo objeto é decisão monocrática que deu provimento a recurso extraordinário por entender que não cabe ao servidor público receber quintos de carreira diversa.
+    A parte embargante alega que “a situação jurídica debatida na presente ação se refere a do instituidor da Pensão percebida pela ora recorrente (Maria Augusta Cavalcanti Pimenta), instituidor este que ocupava o cargo efetivo de Advogado da União, tendo (na qualidade de CEDIDO) exercido Cargo em Comissão junto ao TRF da 1ª Região no período de 11/12/1989 a 21/12/1995”.
+    Em contrarrazões, a União afirma a inexistência de contradição na decisão embargada.
+    Reconsidero a decisão agravada e passo à análise do caso dos autos.
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “ADMINISTRATIVO. PENSIONISTA DE EX-SERVIDOR PÚBLICO DO PODER EXECUTIVO. EXERCÍCIO DE FUNÇÃO COMISSIONADA NO ÂMBITO DO PODER JUDICIÁRIO. DIREITO À INCORPORAÇÃO DO VALOR DA FUNÇÃO EFETIVAMENTE EXERCIDA. PRECEDENTES. SEGURANÇA PARCIALMENTE CONCEDIDA. APELAÇÃO E REMESSA OFICIAL NÃO PROVIDAS.
+    1. De acordo com o entendimento consolidado no Superior Tribunal de Justiça e adotado pela Primeira Seção deste Tribunal, a incorporação de quintos à remuneração do servidor que exerce função no âmbito de outro Poder – no caso, no Poder Judiciário -, que não o seu de origem, deve corresponder ao valor da função efetivamente exercida, com a observância das disposições da Lei 9.421/96.
+    2. Apelação e remessa oficial não providas.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II; 37, caput e X; 61, § 1º, II, a, todos da Constituição. Sustenta que afronta o texto constitucional “a concessão dos quintos/décimos entre a edição da Lei nº 9.624/98 e a Medida Provisória nº 2225-45/2001, a pretexto de revogação da Lei nº 9.527/97 que extinguiu esse direito, sem previsão legal, bem como a incorporação de quintos à remuneração do servidor que exerce função no âmbito do outro Poder – no caso, no Poder Judiciário, que não o seu de origem, correspondente ao valor da função efetivamente exercida”.
+    O recurso não merece ser provido. Isso porque, para dissentir do entendimento firmado pelo Tribunal de origem, seria imprescindível a análise da legislação infraconstitucional aplicada ao caso, o que é inviável nesse momento processual. Nesse sentido, veja-se o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO CEDIDO. FUNÇÃO COMISSIONADA. INCORPORAÇÃO DE QUINTOS. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    Inexistência de declaração de inconstitucionalidade pelo Tribunal a quo . Não há falar em ofensa ao art. 97 da Constituição da República nem em incidência da Súmula Vinculante 10 do Supremo Tribunal.” (AI 766.633-AgR, Rel.ª Min.ª Cármen Lúcia)
+    Diante do exposto, reconsidero a decisão recorrida e, com base no art. 932, IV e VII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF). Julgo prejudicado o recurso de embargos de declaração.
+    Publique-se.
+          Brasília, 27 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
