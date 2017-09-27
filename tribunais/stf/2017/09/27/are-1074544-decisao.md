@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado, no que interessa:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO MUNICIPAL. MUNICÍPIO DE CAMPO BOM. AÇÃO COLETIVA. SINDICATO MUNICIPAL DE SERVIDORES PÚBLICOS. INCENTIVO À ASSIDUIDADE. LEIS MUNICIPAIS Nº 3.169, 3.171 E 3.175/2008 DO MUNICÍPIO DE CAMPO BOM. PRELIMINARES REJEITADAS. INCONSTITUCIONALIDADE AFASTADA. MÉRITO PROVIDO. (...) 4. A instituição de prêmio de assiduidade, estipulado isonomicamente e de forma abstrata, mediante lei, em valores diferenciados conforme o número de faltas do servidor, mesmo que justificadas, longe está de acarretar lesão ao princípio da igualdade ou ao da dignidade da pessoa humana, não se podendo confundir corte de remuneração - efetivamente vedado em caso de falta justificada ao serviço, como prevê a lei estatutária - com a hipótese de valor diferenciado para gratificação pro labore faciendo, que tem a natureza de plus ou prêmio salarial, e que não se incorpora à remuneração do servidor, podendo assim ser suprimido ou modificado segundo se modifiquem as condições de prestação do trabalho. 5. Ação de cobrança julgada procedente na origem. EXTINÇÃO DA AÇÃO QUANTO À CAMARA DE VEREADORES. APELAÇÕES PROVIDAS”. (eDOC 13, p. 2)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 1º, III; 5º, caput e III; 7º, XVIII; 37; 39, § 3º; e 37 do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que viola diversos princípios constitucionais excluir ou reduzir a gratificação de assiduidade dos servidores que faltem justificadamente ao serviço.
+    Pleiteia-se o pagamento da gratificação por assiduidade a todos os servidores municipais que deixaram de recebê-lo por estarem, por qualquer motivo legalmente previsto, afastados do serviço, com a declaração de inconstitucionalidade incidenter tantum da norma limitadora. (eDOC 15, p. 9)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a espécie, consignou que o princípio da isonomia não permitiria deferir o pagamento aos servidores não contemplados. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Primeiro, há de se reconhecer que inaceitável que, ao reconhecer a inconstitucionalidade da previsão de limitação ou menor expressão do benefício financeiro por assiduidade a quem teve faltas justificadas, o Judiciário possa transformar-se em legislador positivo e outorgar a todos os servidores uma gratificação que não foi prevista e idealizada pela legislador”. (eDOC 13, p. 11)
+    Verifico que o acórdão recorrido está em consonância com a jurisprudência desta Corte, que reconhece a inviabilidade de o Judiciário estender benefícios a servidores não contemplados na hipótese de incidência legal.
+    Esse entendimento restou pacificado no julgamento do RE-RG 592.317, tema 315 da sistemática da repercussão geral, de minha relatoria, e consolidou-se com a edição da Súmula Vinculante 37: “Não cabe ao poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e majoro o valor da verba honorária fixada pela origem (eDOC 13, p. 14) em 10%, observados os limites previstos nos parágrafos 2º e 3º do art. 85 do CPC.
+    Publique-se.
+    Brasília, 27 de setembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
