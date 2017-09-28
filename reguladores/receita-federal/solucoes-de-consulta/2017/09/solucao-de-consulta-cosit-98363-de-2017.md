@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98363, de 4 de setembro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8541.40.21 Mercadoria: Placa de circuito impresso (PCB), em formato de régua (550 mm x 20,6 mm x 1,6 mm), com diversos diodos emissores de luz (LED) montados em sua superfície (SMD), mas sem circuitos de controle para ajuste da corrente elétrica, empregada como componente de lâmpadas e tubos de LED, luminárias e outros aparelhos de iluminação. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.41), RGI 6 (texto da subposição 8541.40) e RGC 1 (textos do item 8541.40.2 e do subitem 8541.40.21) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.363-2017 .pdf]
