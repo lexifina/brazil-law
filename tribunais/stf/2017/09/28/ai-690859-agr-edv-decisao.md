@@ -1,0 +1,17 @@
+Decisão:
+    1. Trata-se de embargos de divergência opostos contra acórdão unânime da Primeira Turma desta Corte, assim ementado:
+    “TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. MATERIA INFRACONSTITUCIONAL. ALEGADA VIOLAÇÃO AO ART. 5º, XXXVI, DA CONSTITUIÇÃO. OFENSA REFLEXA. TRÂNSITO EM JULGADO DE RECURSO ESPECIAL. SÚMULA 283 DO STF. AGRAVO IMPROVIDO.
+    I – Ausência de prequestionamento da questão constitucional suscitada. Incidência das Súmulas 282 e 356 do STF.
+    II - Questão decidida com base na legislação infraconstitucional. Eventual ofensa à Constituição, se ocorrente, seria indireta.
+    III – Com a negativa de provimento ao recurso especial pelo Superior Tribunal de Justiça, tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+    IV - Agravo regimental improvido”.
+    2. A parte embargante aponta como paradigmática da divergência as decisões proferidas nos seguintes processos: RE 103.510; RE 243.652-AgR; RE 100.437; RE 93.048; RE 187.376; e RE 353.986-AgR. Sustenta que ambas as Turmas desta Corte teriam solucionado a controvérsia aplicando entendimento distinto do adotado pela Primeira Turma. Afirma que é suficiente o prequestionamento da matéria, e não dos dispositivos constitucionais. Defende que a coisa julgada proferida em Mandado de Segurança é passível de apreciação por meio de Recurso Extraordinário.
+                É o relatório. Decido.
+    3.  O recurso não pode ser conhecido, uma vez que não preenche requisitos de admissibilidade exigidos pelo CPC/1973 – aplicável ao caso nos termos dos arts. 14 e 1.046 do novo Código (Lei nº 13.105/2015). A propósito da definição da legislação incidente na hipótese, vale registrar que tanto a decisão impugnada como o recurso de embargos datam de período anterior a 18.03.2016, quando entrou em vigor o CPC/2015.
+    4. O acórdão embargado se ateve à verificação de pressupostos processuais de cabimento do recurso, tendo como fundamento a jurisprudência do Supremo Tribunal Federal. O art. 330 do RI/STF prevê que são cabíveis “embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário”. Dessa forma, decisões que não guardam pertinência com o mérito da discussão não são aptas à demonstração de dissídio jurisprudencial, de modo que não são cabíveis embargos de divergência contra acórdão que julgou não estar preenchidos os requisitos processuais do recurso. Nessa linha, vejam-se os seguintes precedentes: RE 611.405, Rel. Min. Teori Zasvacki; ARE 755.228, Rel. Min. Rosa Weber; AI 840.355, Rel. Min. Dias Toffoli; e AI 544.577-AgR-EDv, de minha relatoria; e a ementa do AI 506.019-AgR-ED-EDv-AgR/MG, Rel. Min. Eros Grau:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NÃO-CABIMENTO. 1. Cabem embargos de divergência quando o acórdão atacado analisa o mérito do recurso extraordinário. 2. Incabíveis os embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento, que teve o seguimento negado por ausência de requisitos processuais, sem avançar no mérito da questão. Agravo regimental a que se nega provimento.”
+    5.  Diante do exposto, nos termos do artigo 335, § 1º, do RI/STF, não admito os embargos de divergência.
+    Publique-se.
+          Brasília, 28 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
