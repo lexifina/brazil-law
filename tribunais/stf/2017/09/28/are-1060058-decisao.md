@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 1ª Região, ementado nos seguintes termos:
+    “APELAÇÃO. ADMINISTRATIVO. AGÊNCIA REGULADORA. LEI 9.478/1997. AUTO DE INFRAÇÃO. MULTA. PORTARIAS MINFRA 843/90 E ANP 297/03. LEI 9.847/1999. DESCREDENCIAMENTO E ENCERRAMENTO DE ATIVIDADES DE POSTOS REVENDEDORES. FATOS DISTINTOS SEGUNDO PARECER TÉCNICO. CONDUTA DA EMPRESA DISRIBUIDORA NÃO PREVISTA NA NORMA TIDA POR VIOLADA. PRINCÍPIOS DA LEGALIDADE E DA RESERVA LEGAL. SENTENÇA REFORMADA.” (eDOC 3, p. 55)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, II, XXXVI, XL, 170, 174, 177 e 238 do texto constitucional.
+    Nas razões recursais, o recorrente alega ter competência para aplicação da sanção imposta ao recorrido. Aduz, ainda, que a multa aplicada é legítima e não viola os princípio da legalidade. (eDOC 3, p. 83)
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie e o conjunto probatório constante dos autos, declarou nulos o auto de infração e a multa aplicada, por ausência de previsão legal. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Assim, forçoso entender que a conduta expressamente descrita no auto de infração se refere ao encerramento das atividades da revendedora, que, segundo entendimento técnico da própria Agência Nacional de Petróleo – ANP, não se subsume à norma tida por violada (descredenciamento), são consideradas tecnicamente como condutas equivalentes, o que inviabiliza a manutenção do ato administrativo ora analisado, em celebração aos princípios da legalidade e reserva legal. Além disso, o § 4º, do art. 8º, da Portaria ANP/03, que revogou expressamente a Portaria MINFRA 843/90, impôs a obrigação de comunicar o encerramento das atividades de revenda de GLP à ANP ao próprio revendedor e não à distribuidora, (...)” (eDOC 3, p. 52)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Administrativo. Agência Nacional de Petróleo. Multa. 3. Matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional. Ofensa reflexa à Constituição Federal. 4. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 949.276 AgR, de minha relatoria, Segunda Turma, DJe 18.5.2016)
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.” (ARE 928.798 AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 1.3.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de setembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
