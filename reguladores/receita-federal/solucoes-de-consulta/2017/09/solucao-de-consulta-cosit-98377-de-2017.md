@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98377, de 13 de setembro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8505.90.10 Mercadoria: Eletroímã de forma tubular com seis bobinas para produzir um campo eletromagnético principal de 3 T e duas bobinas para limitar a dispersão deste campo, com um tanque de cerca de 2.000 litros com hélio líquido para resfriamento, destinado a integrar aparelho de eletrodiagnóstico por ressonância magnética nuclear. DISPOSITIVOS LEGAIS: RGI/SH 1 (Nota 2 do Capítulo 90 e texto da posição 85.05), RGI/SH 6 (texto da subposição 8505.90) e RGC/NCM 1 (texto do item 8505.90.10) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e subsídios extraídos das NESH, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.377-2017 .pdf]
