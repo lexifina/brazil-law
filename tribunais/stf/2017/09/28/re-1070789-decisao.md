@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO. TETO DE 20 SALÁRIOS MÍNIMOS. RECÁLCULO DA RMI DE ACORDO COM O ART. 144 DA LEI 8.213/91. REGIME HIBRIDO. DIREITO ADQUIRIDO. INEXISTÊNCIA. AGRAVO LEGAL. ART. 557, § 1°, CPC. AGRAVO DESPROVIDO.
+    [...].”
+    O mencionado entendimento foi mantido pelo Tribunal de origem, por ocasião do exercício do juízo de retratação de que trata o art. 543-B, § 3º, do CPC/1973. Veja-se a ementa do julgado:
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. PEDIDO INICIAL QUE COMPORTA ASPECTOS DE REGIMES DISTINTOS (LEI 6.950/81 E LEI 8.213/91). PRETENSÃO A REGIME HÍBRIDO: IMPOSSIBILIDADE. INAPLICABILIDADE DO PRECEDENTE DO STF (REPERCUSSÃO GERAL): RE 630.50l/RS. HIPÓTESE NÃO SUJEITA A JUÍZO DE RETRATAÇÃO.
+    1 - A questão apreciada no Recurso Extraordinário nº 630.50l/RS, sob o instituto da repercussão geral, não se aplica à situação fática dos presentes autos.
+    2 - Pedido plural, que pretende, simultaneamente e sob o fundamento do direito adquirido, duas providências, a saber: 1) o recálculo da RMI nos termos do artigo 4°, da Lei 6.950/81, pelo qual o limite máximo do salário de contribuição corresponde a 20 (vinte) vezes o maior salário mínimo vigente no país; e 2) o recálculo da renda mensal, considerando a atualização dos 36 salários de contribuição que integram o período básico de cálculo nos termos do artigo 144, da Lei 8.213/91 (pelo INPC).
+    3 - O feito não apresenta pedidos alternativos ou subsidiários, mas apenas pedido principal, por meio do qual não se pretende simplesmente a aplicação do regime jurídico mais favorável ao beneficiário - como na hipótese do precedente citado -, e sim a aplicação dos aspectos mais favoráveis de cada regime, constituindo um terceiro sistema, essencialmente híbrido.
+    4 - O voto proferido pela Relatora, Excelentíssima Ministra Ellen Gracie, no precedente em questão (RE nº 630.50l/RS), fez expressa ressalva aos aludidos regimes mistos.
+    5 - Hipótese não sujeita a juízo de retratação. Devolução dos autos à Vice-Presidência.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI, da Constituição.
+    O Plenário do Supremo Tribunal Federal, ao apreciar o mérito do RE 630.501, sob a sistemática da repercussão geral, garantiu a segurado da previdência social o direito adquirido ao cálculo da renda mensal inicial, com base nas regras vigentes, quando preenchidos os requisitos necessários para sua aposentação. No ponto, merece acolhida a pretensão recursal, pelo que devem os autos retornar à origem para verificação do preenchimento dos requisitos para a concessão do benefício em 02.07.1989, e a consequente retroação da data inicial do benefício (DIB), como pretende o recorrente.
+    Ademais, o Supremo Tribunal Federal, ao examinar o RE 193.456, redator para o acórdão o Ministro Maurício Corrêa, decidiu pela aplicação do art. 144 da Lei nº 8.213/1991 aos benefícios concedidos entre 5 de outubro de 1988 a 5 de abril de 1991.
+    Cabe ressaltar, nos termos da jurisprudência deste Tribunal, que a pretensão em análise não implica adoção de regime jurídico híbrido, mas de aplicação integral de leis, cada qual a seu tempo. Na hipótese, o art. 4º da Lei nº 6.950/1981 define parâmetros para a concessão da RMI do benefício, enquanto o art. 144 da Lei nº 8.213/1991 estabelece critérios para sua revisão. Precedentes: RE 964.114, Rel. Min. Dias Toffoli; RE 959.709, Rel. Min. Celso de Mello; RE 928.934, Rel. Min. Teori Zavascki.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou parcial provimento ao recurso, tão somente para determinar o retorno dos autos ao Tribunal de origem para que julgue novamente o processo, aplicando-se o entendimento do Supremo Tribunal Federal firmado no julgamento do RE 630.501-RG.
+    Publique-se.
+          Brasília, 28 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
