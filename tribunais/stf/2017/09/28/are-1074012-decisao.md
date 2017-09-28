@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto em face de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de São Paulo (eDOC 02, p.60), assim ementado:
+    “AÇÃO ANULATÓRIA – IPTU – Exercícios de 2002 a 2010 – Município de Guarulhos – Prescrição desta ação contra a Fazenda Pública, a teor do Decreto n° 20.910/32 – Exercícios de 2002 a 2006 - Lei Municipal n° 5.753/01 – Falta de publicação da planta genérica de valores – Desatendimento ao artigo 97 do CTN – Nulidade dos lançamentos – Sentença reformada - Sucumbência recíproca —Apelo parcialmente provido.”
+    No recurso extraordinário, com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa ao art. 37, do Texto Constitucional.
+    Nas razões recursais, sustenta-se que a ausência de publicação do Anexo I de lei municipal instituidora de IPTU referente à Planta Genérica de Valores não interferiu na efetividade da instituição do tributo ou inobservância ao princípio da publicidade.
+    Subsidiariamente, pugna-se pela observância da alíquota mínima, como forma de evitar a intributabilidade de uma série de imóveis no território municipal.
+    O Presidente da Seção de Direito Público do Tribunal de Justiça de São Paulo inadmitiu o recurso julgando serem insuficientes os argumentos expendidos para respaldar suposto maltrato à norma constitucional elencada.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem:
+    “Quanto a eficácia do texto legal, tem-se que a falta de publicação em jornal local, ou veículo oficial — como determina a Lei Orgânica respectiva (art. 111) - do Anexo I da Lei Municipal n° 5.753/01 lhe nega eficácia, além de prejudicar diretamente o cidadão, o qual não pode controlar os atos do Poder Público. ' De fato, depois de votada e sancionada, a aludida Lei Municipal acabou publicada, sem o dito complemento, em afronta ao artigo 97 do Código Tributário Nacional, porquanto a Lei deve conter, para a sua validade, todos os elementos previstos pela norma tributária, para os lançamentos, inclusive quanto à base de cálculo, o que não ocorreu na legislação local em apreço, daí a inexigibilidade do IPTU, por violação ao princípio da legalidade, para cujo atendimento não basta o mero registro na secretaria de governo, ou inserção na ‘internet’, inclusive ante os termos da aludida legislação municipal.”
+    De fato, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo, sobretudo em relação à publicação de anexo de lei municipal que atualizou a planta de valores do IPTU, demandaria o reexame de fatos e provas e o da legislação localaplicável, notadamente a Lei Municipal 5.753/01, de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Confiram-se, a propósito do Município de Guarulhos, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Tributário. Cobrança de IPTU mediante a pretensa ausência de publicação das plantas genéricas de valores. Súmula 279/STF. Precedentes. 3. Agravo regimental a que se nega provimento.” (ARE 974112 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 05.09.2017)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IPTU. EXIGIBILIDADE DA EXAÇÃO. PUBLICAÇÃO DE PLANTAS GENÉRICAS. BASE DE CÁLCULO. RECURSO POSTERIOR AO ADVENTO DO CPC/15. 1. A controvérsia relativa à publicidade da planta de valores tomadas como base de cálculo do IPTU cinge-se ao âmbito infraconstitucional. Súmulas 279 e 280 do STF. 2. Majoração em ¼ (um quarto) dos honorários fixados anteriormente. Art. 85, §11, do CPC. 3. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC.”
+(ARE 990063 AgR, de minha relatoria, Primeira Turma, DJe 19.12.2016)
+    Cito também o seguinte julgado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EMBARGOS À EXECUÇÃO FISCAL. COBRANÇA DE IPTU MEDIANTE A PRETENSA AUSÊNCIA DE PUBLICAÇÃO DAS PLANTAS GENÉRICAS DE VALORES. SÚMULA 279/STF. PRECEDENTES. Nos termos da jurisprudência da Corte, a controvérsia relativa à cobrança de IPTU com base na ausência de publicação da planta de valores demanda o reexame de provas. Mostra-se aplicável, no caso, o óbice da Súmula 279/STF. Agravo regimental a que se nega provimento.(ARE 709312 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 19.12.2014).”
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos do art. 932, IV, “b”, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 28 de Setembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
