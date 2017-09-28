@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98411, de 25 de setembro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8483.60.19 Mercadoria: Embreagem do ventilador do sistema de arrefecimento dos motores de veículos automóveis, cuja atuação (acoplamento e desacoplamento) utiliza um óleo viscoso (silicone) confinado no reservatório formado entre a tampa e a placa divisória da embreagem, comercialmente denominada “embreagem viscosa do ventilador” (Visco Fan Clutch). DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 a) da Seção XVI e texto da posição 84.83), RGI 6 (texto da subposição 8483.60) e RGC-1 (textos do item 8483.60.1 e do subitem 8483.60.19), da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.411-2017 .pdf]
