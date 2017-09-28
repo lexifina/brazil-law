@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98395, de 21 de setembro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 2208.70.00 Mercadoria: Bebida com teor alcoólico de 16,5% em volume, constituída pela mistura de álcool etílico potável, açúcar, leite condensado, extrato de marula, extrato de cacau, extrato de guaraná, corante caramelo 150d e água potável, apresentada em garrafas de 900 ml, denominada comercialmente “coquetel de leite com aroma de marula, cacau e guaraná”. DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 3 do Capítulo 22 e da posição 22.08) e RGI 6 (texto da subposição 2208.70) da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.395-2017 .pdf]
