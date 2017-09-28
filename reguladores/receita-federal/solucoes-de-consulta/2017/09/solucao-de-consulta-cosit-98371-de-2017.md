@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98371, de 12 de setembro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8714.10.00 Mercadoria: Conjunto de transmissão para ciclomotores, tais como, motocicletas, motonetas, triciclos e quadriciclos, composto de coroa, corrente e pinhão, contidos em uma mesma embalagem, caracterizando um sortido acondicionado para venda a retalho. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.14), RGI 3c e RGI 6 (texto da subposição 8714.10) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.371-2017 .pdf]
