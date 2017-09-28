@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “ADMINISTRATIVO E CONSTITUCIONAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADMINISTRAÇÃO DA CONTA VINCULADA AO REGIME ESPECIAL DE PAGAMENTO DE PRECATÓRIOS ESTABELECIDO PELA EMENDA CONSTITUCIONAL N. 62/2009. DETERMINAÇÃO DE REALOCAÇÃO DE RECURSOS PELO PRESIDENTE DO TRIBUNAL DE JUSTIÇA. POSSIBILIDADE.
+    1. Em interpretação teleológica e sistemática do art. 97, §§ 4º, 6 º, 14 e 15 do ADCT, deve-se entender que a competência do Tribunal de Justiça para administrar as contas especiais com os 50% dos recursos depositados para o pagamento de precatórios em ordem cronológica engloba a possibilidade de realocação dos recursos, que, afinal, não são depositados em contas específicas para cada precatório.
+    2. Se o ente adere à sistemática de pagamento pelo regime especial, deve-se limitar ao depósito do percentual financeiro a que está obrigado, cabendo ao Tribunal de Justiça administrar os recursos, com a estrita observância da ordem cronológica e observado os demais requisitos constitucionais.
+    3. Compete ao Conselho Nacional de Justiça o monitoramento e a supervisão do pagamento dos precatórios pelos entes públicos, de tal sorte que esse órgão, juntamente com o Tribunal de Justiça, detêm a competência para estabelecer as regras pelas quais serão administrados os recursos financeiros depositados pelos entes devedores. Precedente: RMS 44.483/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 28/05/2015.
+    4. Agravo regimental não provido.”
+    O Superior Tribunal de Justiça, ao negar provimento ao recurso ordinário, manteve acórdão do Tribunal de Justiça do Estado de São Paulo, que denegara mandado de segurança. O mandamus tem por objeto ato do Desembargador-Coordenador da Diretoria de Execuções de Precatórios, que, por delegação do Presidente do Tribunal de Justiça, determinou a complementação e não a expedição de novo precatório por dívida reconhecida pelo Juízo da Execução.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. O recorrente alega violação ao art. 100, 8º, da Constituição, bem como ao art. 97, §§ 4º, 6º, 9º, 14 e 15, do ADCT. Sustenta, em síntese, que o “mero aditamento do precatório na ordem cronológica original, por si só, já acarreta ilegalidade consistente na violação ao regime de pagamento de precatórios”.
+    O recurso não deve ser provido. Esta Corte assentou que, salvo nas hipóteses de erro material, inexatidão aritmética ou de substituição de índices aplicáveis ao caso, é necessária a expedição de novo precatório, observando-se os procedimentos de citação e demais aspectos processuais pertinentes. Nessa linha, confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. FINANCEIRO. PRECATÓRIOS. COMPLEMENTAÇÃO DE PRECATÓRIO ORIGINAL. NÃO CONFIGURAÇÃO DAS HIPÓTESES PERMISSIVAS. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – A complementação de precatório original apenas pode ocorrer em três hipóteses: a) erro material; b) inexatidão aritmética; c) substituição do índice aplicado ao caso, por força normativa. ADI 2.024/SP, Rel. Min. Carlos Velloso.
+    II – A não verificação de uma das hipóteses permissivas enseja a expedição de novo precatório, observada a vedação do § 8º do art. 100 da CF/1988.
+    III – Agravo regimental a que se nega provimento.” (ARE 722.803/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski).
+    No caso dos autos, assentou-se a inexistência de ilegalidade ou abusividade no ato administrativo, uma vez que o ato tido como coator não implicou alteração do valor determinado pelo Juízo da Execução. Portanto, não qualquer das situações que, segundo a jurisprudência desta Corte, importariam violação ao art. 100 da Constituição.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 28 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
