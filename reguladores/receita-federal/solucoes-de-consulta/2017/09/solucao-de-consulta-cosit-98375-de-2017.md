@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98375, de 13 de setembro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3926.90.90 Mercadoria: Artigo de polietileno de alta densidade, reforçado estruturalmente com fibra de vidro ou aço, medindo 200cm x 9cm x 9cm, próprio para suportar cabos e isoladores elétricos, do tipo que se monta perpendicularmente na porção superior de postes de distribuição de energia elétrica, comercialmente denominado “Cruzeta de Poste”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.26) e RGI 6 (texto da subposição 3926.90) e RGC 1 (texto do item 3926.90.90) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.375-2017 .pdf]
