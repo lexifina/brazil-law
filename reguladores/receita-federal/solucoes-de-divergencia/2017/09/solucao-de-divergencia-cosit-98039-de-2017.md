@@ -1,0 +1,4 @@
+Solução de Divergência Cosit nº 98039, de 22 de setembro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Reforma de ofício a Solução de Consulta SRRF/6ªRF/Diana nº 24, de 23 de junho de 2005. Código NCM: 8418.30.00 Mercadoria: Congelador (freezer) horizontal, com abertura superior efetuada por meio de portas deslizantes de vidro transparente, com temperatura de trabalho abaixo de –18 ºC e capacidade de 650 litros, medindo 205 cm x 95 cm x 95 cm, destinado a conservação e exposição de alimentos, comercialmente denominado “Ilha de congelados”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.18) e RGI 6 (texto da subposição 8418.30) da NCM constante da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016.
+.
+[arquivo anexo: SD Cosit nº 98.039-2017 .pdf]
