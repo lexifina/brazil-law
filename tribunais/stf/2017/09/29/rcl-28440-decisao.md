@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por Cleidinaldo Souza Lima contra decisão do Ministro Celso de Mello, que negou seguimento ao HC nº 147.692/BA.
+    Segundo o reclamante,
+    “a decisão choca-se de frente com disposições constitucionais e infraconstitucionais garantidoras do pleno exercício da defesa na amplitude garantida pelo texto constitucional e ainda, por disposições expressas da Lei Decreto Lei 3.689/1941 – Código de Processo Penal.”
+    Pretende-se, por intermédio desta nobre ação constitucional, a reapreciação do que decidido no HC nº 147.692/BA.
+    É o relatório.
+    Decido.
+    O feito é manifestamente incabível, uma vez que indevidamente utilizada pelo reclamante para manifestar seu inconformismo acerca de decisão legitimamente proferida pelo próprio STF no HC nº 147.692/BA, que deixou de acolher a pretensão ali deduzida.
+    Com efeito, a jurisprudência da Corte firmou-se no sentido da impropriedade do uso da reclamação contra decisão judicial de ministro ou órgão colegiado desta Suprema Corte. Nesse sentido, vide precedentes:
+    “Não cabe reclamação contra atos decisórios dos ministros ou das Turmas que integram esta Corte Suprema, dado que tais decisões são juridicamente imputados à autoria do próprio Tribunal em sua inteireza” (Rcl nº 3.916/AP-AgR, Relator o Ministro Ayres Britto, Tribunal Pleno, DJ de 25/8/06);
+    “EMBARGOS DE DECLARAÇÃO. RECLAMAÇÃO. EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. RECLAMAÇÃO PROPOSTA CONTRA ATO DESTE TRIBUNAL. INADMISSIBILIDADE. AGRAVO IMPROVIDO. I – O recurso cabível contra decisão monocrática é o agravo regimental. II - Não cabe reclamação contra decisões do Supremo Tribunal Federal. Precedentes. III – Embargos de declaração convertidos em agravo regimental, ao qual se nega provimento.” (Rcl nº 9.542/SP-ED, Relator o Ministro Ricardo Lewandowski, Tribunal Pleno, DJe de 8/2/11);
+    “RECLAMAÇÃO. Propositura contra decisão de Turma do Supremo. Inadmissibilidade. Seguimento negado. Recurso improvido. Precedentes. Não se admite reclamação contra decisão de turma ou ministro do Supremo Tribunal Federal.” (Rcl nº 2.969/MG-AgR, relator o Ministro Cezar Peluso, Tribunal Pleno, DJe de 25/3/10);
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. IMPUGNAÇÃO DE ATO DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL. COMPETÊNCIA DO RELATOR PARA DECIDIR MONOCRATICAMENTE AÇÃO SOB SUA RELATORIA. AGRAVO REGIMENTAL PREJUDICADO. 1. Não cabe reclamação para impugnar decisão monocrática de Ministro do Supremo Tribunal Federal. 2. Reconsideração da decisão reclamada. Substituição do título judicial: perda de objeto.” (Rcl 8.301/DF-AgR, Relatora a Ministra Cármen Lúcia, Tribunal Pleno, DJe de 9/10/09);
+    “CONSTITUCIONAL. RECLAMAÇÃO. VIOLAÇÃO DA AUTORIDADE DE ACÓRDÃO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL. DECISÃO QUE RECONHECE A INTERPOSIÇÃO DE RECLAMAÇÃO CONTRA DECISÃO JÁ TRANSITADA EM JULGADO. 1. Não cabe reclamação contra decisão prolatada pelo Supremo Tribunal Federal ou qualquer de seus órgãos. 2. Não cabe reclamação contra decisão já transitada em julgado, dado que a medida não pode operar como sucedâneo ou substitutivo de ação rescisória ou outra medida judicial tendente a reformar decisão judicial. Agravo regimental conhecido, mas ao qual se nega provimento.” (Rcl nº 2.090/MG-AgR, relator o Ministro Joaquim Barbosa, Tribunal Pleno, DJe de 21/8/09);
+    “AGRAVO REGIMENTAL E EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. RECEBIMENTO DOS EMBARGOS DE DECLARAÇÃO COMO AGRAVO REGIMENTAL. EXTINÇÃO DA RECLAMAÇÃO POR PERDA DE OBJETO SUPERVENIENTE. AUSÊNCIA DE IMPUGANÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. A RECLAMAÇÃO NÃO SE PRESTA AO EXAME DE CONSTITUCIONALIDADE DOS ATOS DO SUPREMO TRIBUNAL FEDERAL [ART. 102, I, ‘l’, DA CB]. RECURSOS NÃO PROVIDOS. 1. Recebimento dos embargos declaratórios como agravo regimental, que é o recurso cabível contra decisão monocrática de Relator nessa Corte. Precedentes. 2. A impugnação dos fundamentos da decisão agravada é pressuposto para o conhecimento do agravo regimental. 3. Ausência de comprovação de afronta a julgados do Supremo Tribunal Federal. 4. Os atos impugnados nas reclamações devem emanar de outros Tribunais. 5. Agravos regimentais não providos” (Rcl nº 2.246/GO-AgR, Relator o Ministro Eros Grau, Tribunal Pleno, DJ de 8/9/06).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno deste Supremo Tribunal, nego seguimento à reclamação, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Arquive-se.
+    Brasília, 29 de setembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
