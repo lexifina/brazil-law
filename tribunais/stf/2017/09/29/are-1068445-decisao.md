@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo assim ementado, no que interessa:
+    “EMBARGOS À EXECUÇÃO — (…) - Utilização do salário mínimo como parâmetro para fixação de indenização. Impossibilidade de rediscussão. Respeito à coisa julgada. Sentença reformada em parte — Recurso parcialmente provido”. (eDOC 1, p. 105)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 7º, IV, do texto constitucional.
+    Nas razões recursais, alega-se que teria ocorrido a indevida atualização monetária de valores pela variação do salário mínimo. Colho o seguinte trecho do arrazoado:
+    “Com efeito, não há óbice à fixação de indenização em salários mínimos. Todavia, para efeitos de cálculo, deve ser considerado o salário mínimo da data da fixação da indenização e sua posterior atualização deve ser feito pelos índices legais, sob pena de violação do artigo 7°, IV, da CF”. (eDOC 1, p. 152)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou que o cálculo dos valores foi realizado segundo as disposições da sentença transitada em julgado. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Por fim, pretende a embargante novamente rediscutir a possibilidade de utilização do salário minimo como parâmetro para fixação de indenização. Contudo, uma vez que o embate já foi levantado em fase de conhecimento, certo é que o magistrado singular já exauriu tal questão (fls. 244/253 do 2° volume do apenso).
+    Desta feita, a controvérsia não comporta maiores digressões, mormente porquanto o valor da execução restou bem definido à decisão judicial proferida, a qual, nos estritos limites subjetivos da coisa julgada, é de ser respeitada”. (eDOC 1, p. 110)
+    Para melhor esclarecimento, transcrevo o dispositivo da sentença condenatória, de cuja execução se originou o presente recurso:
+    “Isto posto, julgo parcialmente procedente a presente ação ordinária que Luzinete Barbosa move contra a Fazenda Pública do Estado de São Paulo, condenando a ré ao pagamento, de uma só vez, a título de reparação dos danos morais, de quantia correspondente a noventa salários mínimos, no valor vigente na data da liquidação, incidentes juros de mora, desde a data do evento danoso (art. 398 do CC) até a data do efetivo pagamento, à taxa de 6% ao ano, na forma do artigo 1°- F da lei Federal n.° 9.494/97”. (grifo meu - eDOC 3, p. 22)
+    Dessa forma, percebe-se que o acórdão recorrido não efetuou vinculação do montante da condenação ao salário-mínimo, o que foi realizado pelo título judicial que lastreava a execução.
+    Por outro lado, a existência de coisa julgada, óbice oposto pelo acórdão recorrido e não atacado no extraordinário, impediria o julgamento da questão arguida pelo recorrente. Incide no caso a Súmula 283 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas as turmas deste Tribunal:
+    “Agravo regimental no recurso extraordinário. Súmula nº 283 do STF. Aplicação. Ausência de impugnação específica a todos os fundamentos do acórdão objurgado. Artigo 33 do ADCT. Não incidência de juros. Controvérsia referente aos limites objetivos da coisa julgada. Ofensa reflexa à Constituição Federal. Precedentes. 1. Incidência da Súmula nº 283 do Supremo Tribunal Federal, que dispõe, in verbis: “[é] inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". 2. É pacífica a orientação da Corte de que não se presta o recurso extraordinário para a verificação dos limites objetivos da coisa julgada, haja vista tratar-se de discussão de índole infraconstitucional. 3. Agravo regimental não provido”. (RE 598164 AgR, rel. Min. Dias Toffoli, Primeira Turma, DJe 2.2.2015)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. VIOLAÇÃO AOS LIMITES DA COISA JULGADA E AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL E DA INAFASTABILIDADE DA JURISDIÇÃO. QUESTÃO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL NEGADA (ARE 748.371, REL. MIN. GILMAR MENDES, TEMA 660). INCAPACIDADE E INSUFICIÊNCIA DO RECURSO PARA REVERTER O JULGADO, POR DESCUIDAR DOS PECULIARES MOTIVOS QUE LEVARAM O TRIBUNAL DE ORIGEM A NEGAR A PRETENSÃO. SÚMULAS 283 E 284. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VEDAÇÃO. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (ARE 757661 AgR, rel. Min. Teori Zavascki, Segunda Turma, DJe 29.10.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de setembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
