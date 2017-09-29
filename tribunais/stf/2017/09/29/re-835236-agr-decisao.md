@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo regimental cujo objeto é decisão monocrática que deu parcial provimento ao recurso extraordinário, a fim de que seja julgada procedente a ação quanto ao pedido de condenação à obrigação de fazer, consistente na promoção de medidas ou na execução de obras emergenciais no estabelecimento prisional citado na inicial.
+    A parte recorrente sustenta que “cumpre registrar que ainda que essa corte não entenda haver distinção do caso dos autos com o precedente citado, diante das circunstâncias fáticas, considerando que não houve julgamento que adentrasse ao mérito pela instância simples, de bom alvitre seria que a corte inferior, em atendimento ao disposto no art. 1.036 c/c 1.040, do Código de Processo Civil atual, fizesse a adequação da controvérsia ao quanto restou decidido por essa e. Corte no caso paradigma. É que não estão claras as circunstâncias fáticas pertinentes ao caso concreto. Até pelo decurso de tempo em que ajuizada a ação, não é possível aferir como atualmente encontra-se o presídio da cidade de Inhumas”.
+    Assiste razão à parte agravante.
+    O Tribunal de origem, ao decidir a questão, assentou que “pelo fato de o processo ter sido extinto, no primeiro grau, sem análise de mérito, e estando o feito devidamente instruído e em condições de imediato julgamento, compete a este egrégio Tribunal, com arrimo na teoria da causa madura, julgar de imediato a lide, por se tratar de matéria preponderante de direito”. Concluiu, em seu julgamento, que a reforma de cadeia pública é ato discricionário da administração pública, não sendo passível de ingerência do poder Judiciário.
+    De fato, esse entendimento está em confronto com a jurisprudência do Supremo Tribunal Federal, ao julgar o RE 592.581-RG, submetido à sistemática da repercussão geral, decidiu que “É licito ao Judiciário impor à Administração geral obrigação de fazer, consistente na promoção de medidas ou na execução de obras emergenciais em estabelecimentos prisionais”.
+    Entretanto, assiste razão a parte recorrente no sentido de que, para dar provimento ao recurso, seria necessário a instrução do processo com a análise das circunstâncias fáticas pertinentes.
+    Diante do exposto, reconsidero a decisão agravada, e com base no art. 21, § 2º, dou provimento ao recurso para que o Tribunal de origem instrua e aprecie o mérito do presente processo, tudo em conformidade com o que foi decidido pelo Supremo Tribunal Federal no RE 592.581-RG.
+    Publique-se.
+          Brasília, 29 de setembro de 2017
+Ministro Luís Roberto Barroso
+Relator
