@@ -1,0 +1,30 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a União. Aparelhado o recurso na afronta aos arts. 150, § 6º, da Constituição Federal e 40 do ADCT.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Cito precedentes sobre a matéria:
+    “Agravo regimental no recurso extraordinário. PIS e COFINS. Produtos destinados à Zona Franca de Manaus. DL n.º 288/67. Natureza infraconstitucional da controvérsia. Ofensa reflexa. Discussão sob o enfoque do art. 40, parágrafo único, do ADCT. Entendimento do STF na ADI 2.348-MC. MP nº 2.037-24/00. Suspensão da eficácia.
+    1. As discussões relativas à isenção concedida na venda de produtos destinados à Zona Franca de Manaus, à luz do Decreto-lei nº 288/97, ensejam reinterpretação de normas infraconstitucionais, sendo que a suposta afronta à Constituição, se ocorresse, seria indireta. Precedentes.
+    2. O Supremo Tribunal Federal, no julgamento da ADI 2.348-MC, Relator o Ministro Marco Aurélio, DJ de 7/11/03, apreciando a questão, afastou a eficácia de dispositivos da MP nº 2.037-24/2000, à luz do art. 40 do ADCT, no intuito de preservar a imunidade tributária constitucionalmente deferida à Zona Franca de Manaus. Precedentes.
+    3. Agravo regimental não provido.” (RE 568.417-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 15.3.2012)
+    “Agravo regimental no recurso extraordinário. Tributário. Contribuição ao PIS. COFINS. Não cumulatividade. IN SFR nºs 247/02 e 404/04. Leis nºs 10.637/02 e 10.833/03. Necessidade de reexame da contenda à luz da legislação infraconstitucional. Ofensa constitucional indireta ou reflexa.
+    1. No caso, o debate de temas constitucionais porventura envolvidos demanda previamente o cotejo das Instruções Normativas da Secretaria da Receita Federal nºs 247/02 e 404/04 com as Leis nºs 10.637/02 e 10.833/03, notadamente para saber se os atos normativos limitaram ou não o alcance dos diplomas legais.
+    2. Questão de mera legalidade. A afronta ao texto constitucional, se ocorresse, seria meramente reflexa ou indireta.
+    3. Agravo regimental não provido.” (RE 809.400-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 23.02.2015)
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. PIS/COFINS. Frete relacionado à transferência de mercadorias entre estabelecimentos. Creditamento. Leis nºs 10.637/02 e 10.833/03. Soluções de Divergência. SRFB. Necessidade de reexame da contenda à luz da legislação infraconstitucional. Ofensa constitucional indireta ou reflexa.
+    1. O Tribunal de origem entendeu que a previsão legal de desconto de créditos relativos ao frete pago nas operações de venda de mercadorias (art. 3º, IX, da Lei nº 10.833/03) não abarca as despesas despendidas no transporte interno de mercadorias entre os estabelecimentos da impetrante, haja vista que tais despesas não estão diretamente ligadas a operações de venda, não fazendo jus ao desconto de créditos postulado.
+    2. Ambas as Turmas da Corte têm decidido pela natureza infraconstitucional da controvérsia posta nos autos, uma vez que o debate de temas constitucionais porventura envolvidos demandaria previamente o cotejo das normas internas da Secretaria da Receita Federal do Brasil com as Leis nºs 10.637/02 e 10.833/03. A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extraordinário.
+    3. Agravo regimental não provido. Não se aplica a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.” (ARE 964.493-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 20.02.2017)
+    “Agravo regimental no recurso extraordinário. Incentivos fiscais à Zona Franca de Manaus. Artigo 40 do ADCT. Imunidade. Recepção do elenco de incentivos. DL nº 288/67. Equiparação. Alcance. Questão infraconstitucional.
+    1. O Plenário da Corte, nos autos da ADI nº 310/AM, analisou o alcance do art. 40 do Ato das Disposições Constitucionais Transitórias e assentou que referida norma transitória permitiu a recepção do elenco pré-constitucional de incentivos à Zona Franca de Manaus, persistindo vigente a equiparação procedida pelo art. 4º do Decreto-lei nº 288/1967.
+    2. As discussões relativas à equiparação prevista no art. 4º do Decreto-lei nº 288/67, para fins da isenção concedida na venda de produtos destinados à Zona Franca de Manaus, ensejam reinterpretação de normas infraconstitucionais, o que não viabiliza o processamento do recurso extraordinário.
+    3. Agravo regimental não provido.” (RE 829.779-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 16.12.2015)
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ZONA FRANCA DE MANAUS. PROGRAMA REINTEGRA. BASE DE CÁLCULO. LEI Nº 12.546/2011. DECRETO-LEI Nº 288/1967. OPERAÇÃO DE EXPORTAÇÃO. EQUIPARAÇÃO. NATUREZA INFRACONSTITUCIONAL DA CONTROVÉRSIA. IMPOSSIBILIDADE DE REINTEPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. AFRONTA REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL.” (RE 1023434-RG, Rel. Min. Dias Toffoli, Pleno, DJe 06.9.2017)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de setembro de 2017.
+Ministra Rosa Weber
+Relatora
