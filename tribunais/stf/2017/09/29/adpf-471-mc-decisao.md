@@ -1,0 +1,30 @@
+DECISÃO: A Associação Nacional dos Membros do Ministério Público – CONAMP, ora requerente, por meio da Petição Eletrônica nº 49.192/2017, expôs e requereu o que se segue:
+    “(...)
+    A Associação Autora ingressou com a presente ação contra os seguintes atos do Tribunal Superior Eleitoral – TSE: Resolução nº 23.512, de 16 de março de 2017; Portaria nº 207, de 21 de março de 2017 e Resolução nº 23.520, de 1º de junho de 2017, posteriormente alterada pela Resolução nº 23.522, de 13 de junho de 2017.
+    …...................................................................................................
+      Ocorre que Vossa Excelência, em decisão publicada em 1º de agosto de 2017, preferiu adotar o rito do art. 12 da Lei nº 9.868/99, e não deferiu a medida liminar pleiteada, para que os atos questionados ficassem suspensos até o julgamento definitivo por essa colenda Corte Suprema.
+    Porém, fatos novos surgiram após a decisão acima mencionada, que permitem à Associação Autora, vir, novamente, pleitear Medida Liminar, como se demonstrará abaixo.
+    Conforme documentos cuja juntada ora se requer, Presidentes de Tribunais Regionais Eleitorais de alguns Estados, dentre aqueles afetados pelos atos aqui impugnados, receberam, no dia 25 de agosto do ano corrente, um ofício do TSE com o seguinte teor:
+    ‘Senhor Presidente,
+    A equipe técnica do TSE procedeu à análise da proposta encaminhada por esse Regional, tendo verificado que a distribuição no estado continua com 56 zonas eleitorais que não cumprem os requisitos da Resolução TSE nº 23.520/2017.
+    Diante disso, comunico a Vossa Excelência que ficam suspensos os recursos de folha de pagamento referentes às 56 zonas eleitorais do Estado do Rio Grande do Sul até o envio de nova proposta de adequação à referida Resolução.
+    Ressalto, por fim, que o propósito do remanejamento e extinção de zonas eleitorais do interior dos estados não se limita à economia de recursos orçamentários, também, visando, principalmente, à criação de novos postos de atendimento a fim de promover a melhoria do atendimento ao eleitorado.
+    Atenciosamente,
+Ministro Gilmar Mendes
+Presidente’
+    Além do Estado do Rio Grande do Sul, já se tem notícia de que o mesmo aconteceu com o Estado de Tocantins, como se comprova pelos documentos anexos.
+    Ora, como já demonstrado na petição inicial, além de configurar nítido retrocesso, a redução de zonas eleitorais trará graves prejuízos à jurisdição eleitoral, afetando, principalmente, o eleitor, usuário dos serviços judiciários eleitorais, já que este terá de percorrer, em muitos casos, maiores distâncias para conseguir atendimento da Justiça Eleitoral, inclusive para exercer sua obrigação de votar.
+    Além disso, afetará o trabalho da Magistratura e do Ministério Público, cuja fiscalização do processo eleitoral ficará enfraquecida. Isso ocorrerá porque haverá redução de juízes e de membros do Ministério Público, na mesma proporção numérica das zonas extintas.
+    Porém, os ofícios enviados aos Tribunais Regionais Eleitorais acima mencionados são suficientes para demonstrar, claramente, que há necessidade de urgente concessão de medida liminar, tendo em vista que Magistrados e Membros do Ministério Público e servidores das zonas eleitorais terão suas remunerações suspensas. Isso significa, principalmente para os servidores, que estes ficarão sem os alimentos básicos a que têm direito, além de poderem ter a própria moradia comprometida, pois muitos pagam seus aluguéis contando com o salário que recebem por seu oficio. Além do prejuízo incalculável para toda a família que depende daquela remuneração para sua subsistência.
+    Portanto, clara está a presença da fumaça do bom direito que, além de decorrer da simples leitura das normas impugnadas, que contrariam, radical e manifestamente, os preceitos constitucionais mencionados, decorre dos ofícios que constituem fatos novos a justificar a análise desse novo pedido de medida liminar, relevante e urgente.
+    Não é necessário tecer maiores comentários sobre o ‘periculum in mora’ que está estampado nos documentos anexos. A suspensão das folhas de pagamento já foi determinada e efetivada, prejudicando gravemente diversas famílias!!!
+    Assim, ainda que não se leve em conta o transtorno que a aplicação imediata destes atos causa para os eleitores em geral, deve ser concedida a liminar para evitar, ao menos, no presente momento, que o pior aconteça aos servidores diretamente afetados pelos atos inconstitucionais aqui questionados.
+    Observando-se os atos já colocados em prática pelo TSE, verifica-se que, no caso em teia, a não concessão da liminar e manutenção dos atos questionados podem trazer, ainda, outros problemas como, por exemplo, o remanejamento imediato de servidores para outras zonas, causando prejuízos de ordem familiar, financeira e até psicológica, segundo mensagem por e-mail anexa. Pode ensejar, também, alteração de milhares de títulos de eleitor em função de tais mudanças. Por isso, a Autora insiste que a suspensão dos atos evita que se tenha um enorme transtorno, caso a ação venha ser julgada procedente ao final. A preservação da situação anterior aos atos impugnados evitará, inclusive, gasto de dinheiro público que poderá somar um prejuízo astronômico, caso a ADPF tenha sucesso.
+    Por todo o exposto, a CONAMP reitera os termos da petição inicial e requer, em virtude da ocorrência de fatos novos, seja revista a decisão que não concedeu o pedido liminar de suspensão da eficácia das normas impugnadas, conforme acima demonstrado.
+    Pede deferimento.” (grifei).
+    Não obstante as razões apontadas pela ora requerente, indefiro o pedido formulado, apoiando-me, para tanto, nos próprios fundamentos que dão suporte à decisão proferida em 30/06/2017, que adotou o procedimento abreviado, a que se refere o art. 12 da Lei nº 9.868/99, bem assim as informações prestadas pelo E. Tribunal Superior Eleitoral.
+    Sendo assim, e em face das razões expostas, indefiro o pedido formulado pela autora.
+    Publique-se.
+    Brasília, 29 de setembro de 2017.
+Ministro CELSO DE MELLO
+Relator
