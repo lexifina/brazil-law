@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PREENCHIMENTO DOS REQUISITOS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO. RECURSO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma da decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “PREVIDENCIÁRIO E PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PLEITO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CÔMPUTO PARA FINS DE CARÊNCIA DE TEMPO DE SERVIÇO RURAL PRESTADO ANTERIORMENTE À VIGÊNCIA DA LEI DE BENEFÍCIOS. ALEGAÇÃO DE VIOLAÇÃO LITERAL À DISPOSIÇÃO DE LEI (ART. 55, § 2.º, DA LEI 8.213/91).
+    1. Embora o acórdão rescindendo tenha computado para fins de carência os períodos de atividades agrícolas anteriores a 1991 sem as respectivas contribuições - o que, em tese, contraria o disposto no § 2º do art. 55 da Lei de Benefícios - o fez com base em precedente do Superior Tribunal de Justiça (STJ, REsp. 554068/SP, Rel. Min. Laurita Vaz, 5ª Turma, DJ de 17.11.03) e, assim, considerando a função uniformizadora do STJ no que toca à interpretação da legislação infraconstitucional, entendo que não se possa afirmar tenha o acórdão violado de forma literal e direta disposição de lei.
+    2. Caso em que, computadas as contribuições vertidas contemporaneamente pelo empregador rural pessoa física no período anterior à vigência da Lei n. 8.213/91, o segurado, ora réu, contava com a carência necessária à concessão do benefício pleiteado na data do requerimento administrativo. Ademais, corrigido o erro material do acórdão rescindendo quanto ao somatório do tempo de serviço, e observados os demais requisitos legais, o autor faz jus à concessão da aposentadoria por tempo de serviço proporcional em 16-12-1998 (com renda mensal inicial de 70% do valor do salário de benefício), bem como à aposentadoria por tempo de contribuição proporcional na data da DER, em 22-02-2007 (com renda mensal inicial correspondente a 90% do valor do salário de benefício), podendo, pois, optar pela mais vantajosa.
+    3. Ação rescisória julgada improcedente.” (Doc. 8, fl. 70)
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 195, § 5º, e 201, da Constituição Federal.
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso.
+    É o relatório. DECIDO.
+    O recurso não merece provimento.
+    O Tribunal de origem entendeu pela improcedência da Ação Rescisória, fundada na violação literal de dispositivo de lei, na hipótese em que a decisão rescindenda tiver se baseado em texto legal de interpretação controvertida nos tribunais.
+    Assim, acolher a pretensão da parte agravante e divergir do entendimento firmado pelo acórdão recorrido, no presente caso, demandaria a análise da legislação infraconstitucional aplicável à espécie (Código de Processo Civil), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido, cito os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRABALHISTA. PRESTAÇÃO JURISDICIONAL EFETIVADA. AUSÊNCIA DE PREQUESTIONAMENTO (SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL). PRESSUPOSTOS DE CABIMENTO DE AÇÃO RESCISÓRIA NA JUSTIÇA DO TRABALHO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (RE 548.111-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 20/2/2009).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PRESSUPOSTOS DE CABIMENTO DA AÇÃO RESCISÓRIA. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 897.237-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 1º/2/2016).
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de setembro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
