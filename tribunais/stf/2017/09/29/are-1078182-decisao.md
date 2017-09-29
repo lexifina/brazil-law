@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. PRELIMINAR DE NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ENGENHEIRA. VINCULAÇÃO A MÚLTIPLOS DO SALÁRIO MÍNIMO. VEDAÇÃO CONSTITUCIONAL. DESPACHO MANTIDO POR SEUS PRÓPRIOS FUNDAMENTOS. A despeito das razões expostas pela parte agravante, merece ser mantido o despacho que negou seguimento ao Recurso de Revista, pois subsistentes os seus fundamentos. No mais, a jurisprudência desta Corte consagrou o entendimento de que a fixação do salário profissional em múltiplos do salário mínimo, conforme fixado na Lei n.º 4.950-A/1966, caso dos autos, não se revela incompatível com a regra prevista no inciso IV do artigo 7.º da Constituição Federal, porquanto, conforme se depreende da decisão recorrida, o que não pode ser feito é estabelecer a correção automática do salário da Reclamante pelo reajuste do salário mínimo. Nesse sentido é o teor da Orientação Jurisprudencial n.º 71 da SBDI-II do TST. Precedentes. Agravo de Instrumento conhecido e desprovido” (pág. 1 do documento eletrônico 5).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação ao art. 7º, IV, da mesma Carta, sob o argumento de que a vinculação de piso profissional ao salário mínimo, tal como prevista na Lei 4.950-A/1966, é inconstitucional.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido está em consonância com a jurisprudência desta Corte firmada no sentido de que o estabelecimento de piso salarial em múltiplos do salário mínimo, consoante previsto na Lei 4.950-A/1966, não afronta o art. 7º, IV, da Constituição Federal nem a Súmula Vinculante 4, tendo em vista que a aludida lei não estipulou reajustes automáticos atrelados à variação do salário mínimo. Nesse sentido, destaco julgados de ambas as Turmas deste Tribunal cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. LEI 4.950-A/66. SALÁRIO FIXADO EM MÚLTIPLOS DO SALÁRIO MÍNIMO. SÚMULA VINCULANTE 4. ADPF 53 MC.
+    1. Não há vedação para a fixação de piso salarial em múltiplos do salário mínimo, desde que inexistam reajustes automáticos.
+    2. O ato reclamado, ao aplicar a OJ 71, da SBDI-2 do TST, não afrontou a Súmula Vinculante 4, nem a ADPF 53 MC.
+    3. Agravo regimental a que se nega provimento” (Rcl 9.951-AgR/MS, Rel. Min. Edson Fachin, Primeira Turma).
+    “Agravo regimental no recurso extraordinário com agravo. Trabalhista. Salário profissional. Piso salarial fixado na Lei nº 4.950-A/66. Múltiplos do salário mínimo. Inexistência de reajustes automáticos. Violação da Súmula Vinculante nº 4. Não ocorrência. Precedentes.
+    1. A fixação da base de cálculo do piso salarial em múltiplos do salário mínimo, nos termos da Lei nº 4.950-A/66, não configura ofensa à Súmula Vinculante nº 4, haja vista a ausência de reajustes automáticos com base nesse mesmo índice.
+    2. Agravo regimental não provido” (ARE 914.780-AgR/DF, Rel. Min. Dias Toffoli, Segunda Turma).
+    Com esse mesmo entendimento, menciono os seguintes precedentes, entre outros: ARE 922.319-AgR/DF, Rel. Min. Edson Fachin; Rcl 19.275-AgR/MG, Rel. Min. Gilmar Mendes; Rcl 18.356-AgR/PE, Rel. Min. Cármen Lúcia; Rcl 19.990/PA, Rel. Min. Teori Zavascki; ARE 1.008.855/PA, Rel. Min. Celso de Mello; ARE 1.038.038-AgR/RS, Rel. Min. Dias Toffoli; ARE 1.021.288/MT, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de setembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
