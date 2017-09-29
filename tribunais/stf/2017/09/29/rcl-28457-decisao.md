@@ -1,0 +1,28 @@
+Decisão: Trata-se de reclamação constitucional proposta pelo Centro de Contatos S/A, contra ato do Tribunal Superior do Trabalho, proferido nos autos do Processo Ag-ED-AIRR-106-83.2015.5.03.0015. (eDOC 13)
+    Na petição inicial, alega-se usurpação da competência do Supremo Tribunal Federal, em razão da prolação de decisão de inadmissibilidade de agravo contra despacho denegatório de recurso extraordinário. Sustenta-se que o presente caso não se amolda ao tema 181 da sistemática da repercussão geral. (eDOC 1, p. 6)
+    É o breve relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Passo a decidir.
+    Inicialmente, registro que esta Corte, na Sessão Plenária do dia 19.11.2009, por unanimidade, resolveu questão de ordem no AI 760.358, de minha relatoria, DJe de 19.2.2010, no sentido de não conhecer de agravo de instrumento nem de reclamação contra decisões que aplicam a sistemática da repercussão geral na origem.
+    No caso, observo que o TST, ao obstar a subida do recurso extraordinário a esta Corte, consignou o seguinte:
+    “Considerando que em ambos os agravos de instrumento foram aplicados óbices unicamente de natureza processual, o que resulta em pretensões recursais idênticas, a admissibilidade dos recursos extraordinários interpostos será apreciada conjuntamente. O Supremo Tribunal Federal tem entendimento pacífico no sentido de que não cabe recurso extraordinário, por ausência de repercussão geral, em matéria de pressupostos de admissibilidade de recursos de competência de outro Tribunal. Tal entendimento foi consagrado no RE 598.365, da relatoria do Min. Ayres Britto, no qual a Corte Suprema firmou a tese de que não há repercussão geral em relação ao “Tema 181” do ementário temático de Repercussão Geral do STF, hipótese dos autos.” (eDOC 12, p. 2)
+    Compulsando os documentos acostados aos autos, vejo que o tribunal reclamado aplicou corretamente a jurisprudência do STF, firmada no julgamento do RE-RG 598.365, Rel. Min. Ayres Britto, DJe 26.3.2010, no sentido de que a questão alusiva ao cabimento de recursos da competência de outros tribunais se restringe ao âmbito infraconstitucional. Nesse sentido:
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. TEMA 181. ALEGADA USURPAÇÃO DE COMPETÊNCIA DO STF. INOCORRÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (Rcl 25.228 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 21.9.2017)
+    “Agravo regimental na reclamação. Negativa de seguimento do recurso extraordinário pelo tribunal de origem com fundamento na sistemática da repercussão geral. Requisito de admissibilidade de recurso da competência do TST. RE nº 598.365/MG (Tema nº 181 de repercussão geral. Ausência de usurpação de competência do Supremo Tribunal Federal. Agravo regimental não provido. 1. Não se admite o uso da reclamação constitucional para questionar a aplicação, pelo tribunal de origem, de entendimento do STF sobre a repercussão de determinada matéria, conforme a sistemática da repercussão geral. 2. Agravo regimental não provido.” (Rcl 24.117 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 29.6.2017)
+    Conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência e garantia da autoridade de suas decisões (art. 102, I, l, da CF/88).
+    Nesse sentido, o novo Código de Processo Civil, que entrou em vigor em 18.3.2016, estabelece o rol das hipóteses de cabimento da reclamação, conforme a seguir transcrito:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+    IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência(…). (Redação dada pela Lei nº 13.256, de 2016).” (Grifou-se)
+    O § 4º do mesmo artigo prevê que as hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondem. Verifica-se, ainda, nos termos do §5º, que a reclamatória proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida somente será cabível quando esgotadas as instâncias ordinárias.
+    No caso dos autos, não obstante a parte reclamante ter exaurido as instâncias, não vislumbro a aplicação errônea da tese firmada por esta Corte no âmbito da repercussão geral. Com efeito, a parte pretende, em verdade, a revisitação da tese firmada por este Tribunal em recurso afetado pela sistemática da repercussão geral.
+    Saliente-se ainda o entendimento do STF no sentido de que o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes: Rcl 9.545, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 13.5.2010; e Rcl 5.494, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 11.12.2009.
+    Ante ao exposto, nego seguimento à reclamação (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de setembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
