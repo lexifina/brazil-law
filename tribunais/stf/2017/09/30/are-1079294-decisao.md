@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AÇÃO ORDINÁRIA. DIREITO ADMINISTRATIVO. LITISCONSÓRCIO ATIVO, IMPOSSIBILIDADE JURÍDICA DO PEDIDO. PRESCRIÇÃO JUÍZES CLASSISTAS. APOSENTADORIA. REGIME DA LEI 6.903/81. DIREITO ADQUIRIDO. AUSÊNCIA. 1. A preliminar de limitação do litisconsórcio ativo facultativo não merece prosperar, porquanto não houve qualquer prejuízo à defesa, visto que o feito trata de matéria de direito. 2. A preliminar de impossibilidade jurídica do pedido confunde-se com o próprio mérito. 3. A prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação (Súmula 85 do STJ). 4. A contar da superveniência da Lei 9.528/97, não há falar em direito adquirido dos juízes classistas à aposentação com proventos integrais quando não preenchido o necessário requisito temporal até a sua edição.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º e 39, § 1º, da Constituição.
+    O recurso extraordinário não deve ser provido.A jurisprudência do Supremo Tribunal Federal se orienta no sentido de que não há paridade entre os juízes classistas de primeira instância e os juízes togados. Nesse sentido, confira-se o seguinte precedente:
+    “Agravo regimental no recurso extraordinário. Pretensão de reconhecimento da inconstitucionalidade da Lei nº 9.655/98 rejeitada com base na pacífica jurisprudência a Suprema Corte a respeito do tema. 1. Inexiste paridade entre juízes classistas de primeira instância e juízes togados da Justiça Federal do Trabalho a amparar a pretensão deduzida pelo agravante. 2. Não incumbe ao Poder Judiciário promover o aumento de vencimentos de servidores públicos sob o fundamento da isonomia. 3. Orientação recentemente reafirmada pelo Plenário da Corte, no julgamento do RMS nº 25.841. 4. Agravo regimental não provido" (RE 598.009-AgR, Rel. Min. Dias Toffoli).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+     Publique-se.
+          Brasília, 30 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
