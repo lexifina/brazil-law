@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “VEREADOR. Ação ajuizada contra a Câmara Municipal e Vereadores integrantes da Câmara Municipal de São José dos Campos.
+    PRELIMINAR DE ILEGITIMIDADE PASSIVA da Câmara Municipal, acolhida. Ausência de personalidade jurídica. Processo extinto.
+    PRELIMINAR DE FALTA DE INTERESSE DE AGIR. Inexistência de ato ou resolução determinando a aplicação de lei revogada. O interesse de agir está vinculado ao binômio utilidade/necessidade. A simples análise da causa de pedir e do pedido revela que há o interesse de agir. Preliminar rejeitada.
+    MÉRITO. Inteligência do art. 29, inciso VI da CF/88. A remuneração do Prefeito, Vice-Prefeito e dos Vereadores será fixada pela Câmara Municipal em cada legislatura para a subsequente. Vigência temporária. Ato lesivo ao Poder Público e à moralidade administrativa. Processo extinto nos termos do art. 267, inciso VI do CPC com relação à Câmara Municipal, rejeitada a preliminar de falta de interesse de agir. Recursos não providos.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. Os recorrentes alegam violação ao art. 29, VI, da Constituição.
+    O recurso não deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência do Supremo Tribunal Federal, no sentido de que o art. 29, V, da Constituição é autoaplicável, devendo o subsídio dos agentes políticos ser fixado até o final de uma legislatura para produzir efeitos na seguinte. Confiram-se, a propósito, os seguintes precedentes:
+     “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PREFEITO, VICE-PREFEITO E VEREADORES. REMUNERAÇÃO. MAJORAÇÃO. FIXAÇÃO. LEGISLATURA SUBSEQUENTE. ART. 29, V, DA CONSTITUIÇÃO. PRECEDENTES. AGRAVO IMPROVIDO. I – O Tribunal de origem, ao constatar que os Atos 3 e 4/97 da Mesa da Câmara Municipal de Arapongas traduziram majoração de remuneração, agiram em conformidade com o entendimento pacífico desta Suprema Corte no sentido de que a remuneração de Prefeito, Vice-Prefeito e de Vereadores será fixada pela Câmara Municipal, para a legislatura subsequente, de acordo com o disposto no art. 29, V, da Constituição Federal. Precedentes. III – Agravo regimental improvido.” (AI 776.230-AgR, Rel. Min. Ricardo Lewandowski).
+    “Prefeito. Subsídio. Art. 29, V, da Constituição Federal. Precedente da Suprema Corte. 1. Já assentou a Suprema Corte que a norma do art. 29, V, da Constituição Federal é auto-aplicável. 2. O subsídio do prefeito é fixado pela Câmara Municipal até o final da legislatura para vigorar na subsequente. 3. Recurso extraordinário desprovido.” (RE 204.889-AgR, Rel. Min. Menezes Direito).
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 30 de setembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
