@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal de Justiça do Estado de São Paulo, maneja agravo Sílvia Regina Martins. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5º, LIV e LV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    A agravante foi condenado em razão da prática da conduta típica prevista no artigo 121, § 3º, do Código Penal, à pena de 1 ano, 6 meses e 20 dias de reclusão. Irresignada, a defesa manejou recurso de apelação. O Tribunal estadual no acórdão da apelação, declarou a extinção da punibilidade da ré. O acórdão está assim ementado:
+    "APELAÇÃO CRIMINAL. HOMICÍDIO CULPOSO, COM CAUSA DE AUMENTO DE PENA (artigo 121, §§3º e 4º, do CP). Imprudência e negligência verificadas, com demonstração do nexo causal entre a conduta imputada à médica e a morte da paciente, em decorrência de hepatite medicamentosa. Reversão da solução absolutória proferida em primeiro grau, prejudicado o apelo defensivo objetivando a alteração do fundamento da absolvição. Recurso da Justiça Pública provido, declarada extinta a punibilidade, pela ocorrência da prescrição, considerado o interstício decorrido entre o recebimento da denúncia e o julgamento em segundo grau.”
+    Nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido da ausência de interesse recursal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    "DIREITO PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO. AUSÊNCIA DE INTERESSE RECURSAL. 1. A jurisprudência dessa Corte é no sentido de que “consumada a prescrição da pretensão punitiva do Estado, não mais se discutem as questões pertinentes ao fundo da controvérsia que se instaurou no âmbito do processo penal de conhecimento, eis que a ocorrência dessa típica questão preliminar de mérito impede que o órgão judiciário competente prossiga no exame da causa penal, por não mais subsistir o próprio objeto da persecutio criminis in judicio” (AI 795.670, Rel. Min. Celso de Mello). 2. Ainda nessa linha, vejam-se o AI 528.695 AgR, Rel. Min. Gilmar Mendes, e, em sede de habeas corpus, o HC 115.098, Rel. Min. Luiz Fux. 3. Agravo regimental a que se nega provimento.” (ARE 940489 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 19/04/2016, PROCESSO ELETRÔNICO DJe-092 DIVULG 06-05-2016 PUBLIC 09-05-2016.)
+    Compreensão diversa exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”).
+    De mais a mais, esta Suprema Corte, ao julgamento do RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, decidiu pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do devido processo legal, do contraditório e da ampla defesa, verbis:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 02 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
