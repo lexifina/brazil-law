@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE - LEI Nº 8.375/2016 DO MUNICÍPIO DE FRANCA – DIPLOMA NORMATIVO DE AUTORIA PARLAMENTAR QUE 'DISPÕE SOBRE O FUNCIONAMENTO DE SEMÁFOROS INTERMITENTES NO MUNICÍPIO DE FRANCA' – ATO TÍPICO DE ADMINISTRAÇÃO, CUJO EXERCÍCIO E CONTROLE CABE AO CHEFE DO PODER EXECUTIVO - VÍCIO DE INICIATIVA E AFRONTA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES - CRIAÇÃO DE DESPESAS NÃO PREVISTAS NO ORÇAMENTO - AFRONTA AOS ARTIGOS 5º, 25, 47, INCISOS II E XIV, E 144, TODOS DA CONSTITUIÇÃO ESTADUAL – INCONSTITUCIONALIDADE DECLARADA – AÇÃO PROCEDENTE.
+    A competência da Câmara Municipal se circunscreve à edição de normas gerais e abstratas, ficando a cargo do Chefe do Poder Executivo a direção superior da administração, disciplinando situações concretas e adotando medidas específicas de planejamento, organização e execução de serviços públicos. Quando lei de iniciativa parlamentar cria ou fornece atribuição ao Poder Executivo ou seus órgãos demandando diretamente a realização de despesa pública não prevista no orçamento para atendimento de novos encargos, com ou sem indicação de sua fonte de cobertura inclusive para os exercícios seguintes, ela também padece de inconstitucionalidade por incompatibilidade com o artigo 25 da Carta Paulista.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação aos arts. 2º; 30, I e II, e 61, da Constituição Federal. Sustenta que “a lei impugnada não cria diretamente cargos, órgãos, ou encargos para a administração pública, nem regula diretamente a prestação de serviços pelo Poder Público, e tampouco gera diretamente qualquer despesa para a Administração”.
+    A Subprocuradora-Geral da República Ela Wiecko V. De Castilho opinou pelo desprovimento do recurso. Veja-se a ementa do parecer do Ministério Público Federal:
+    “RECURSO EXTRAORDINÁRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N. 8.375/2016 DO MUNICÍPIO DE FRANCA. ALEGADA VIOLAÇÃO AOS ARTS. 2º E 61, DA CONSTITUIÇÃO FEDERAL.
+    Desrespeita a competência atribuída ao chefe do Poder Executivo local, adentrando na organização e execução de serviços públicos, lei de iniciativa parlamentar que normatiza a utilização dos semáforos intermitentes, e estabelece horários de funcionamento e prazo para sua regulamentação.
+    Pelo não seguimento.”
+    Correto o parecer ministerial, que adoto como razões de decidir. O Supremo Tribunal Federal reconhece compatível com a Constituição a técnica da motivação per relationem (ARE 757.522 AgR, Rel. Min. Celso de Mello).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 2 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
