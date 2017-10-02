@@ -1,0 +1,27 @@
+Decisão
+    Trata-se de recurso extraordinário contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que recebeu a seguinte ementa (e-STJ, fl. 72, Vol. 1 ):
+     EXECUÇÃO FISCAL. EMBARGOS. CDA. NULIDADE NÃO CONFIGURADA. DEMONSTRATIVO DISCRIMINADO DE CÁLCULO. DESNECESSIDADE. ICMS. EXCLUSÃO DA BASE DE CÁLCULO DA CONTRIBUIÇÃO PARA O PIS E DA COFINS. ENCARGO LEGAL.
+    1. Não há falar em iliquidez da CDA, porquanto presentes os requisitos legais e indicada a legislação pertinente a cada acréscimo. Ademais, a dívida ativa regularmente inscrita é dotada de presunção juris tantum de certeza e liquidez, só podendo ser afastada por prova inequívoca.
+    2. Não há necessidade de que a certidão de dívida ativa venha instruída por demonstrativo discriminado de cálculo (art. 614, inciso II,do CPC), prevalecendo, nesse aspecto, a especialidade da LEF.
+    3. O ICMS não integra a base de cálculo da contribuição para o PIS e da COFINS.
+    4. O encargo legal de 20%, previsto no Decreto-Lei nº 1.025/69, compõe o débito exequendo e é sempre devido nas execuções fiscais, substituindo, nos embargos, a condenação em honorários advocatícios (Súmula 168 do extinto TFR).
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, alega-se violação aos arts. 5º, LIV e LV, 93, IX, e 150, § 6º, da Carta Magna.
+    É o relatório. Decido.
+    O recurso não merece provimento.
+    Em relação à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta Corte no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+    Nessa oportunidade, o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da Constituição Federal de 1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+    Ademais, quanto à alegação de afronta ao art. 5º, LIV e LV, da CF/88, o apelo extraordinário não tem chances de êxito, pois esta Corte, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    De outro lado, o Tribunal a quo, com base no RE 240.785, reformou a sentença, no ponto, assentando que a parcela relativa ao ICMS deve ser excluída da base de cálculo do PIS e da COFINS (e-STJ, fl.170, Vol. 1). Essa matéria, inclusive, teve a repercussão geral reconhecida no Tema 69 (RE 574.706-RG, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 16/5/2008). Confira-se:
+    Ementa: Reconhecida a repercussão geral da questão constitucional relativa à inclusão do ICMS na base de cálculo da COFINS e da contribuição ao PIS. Pendência de julgamento no Plenário do Supremo Tribunal Federal do Recurso Extraordinário n. 240.785.
+    No entanto, a parte recorrente alega que “ao consagrar o direito da demandante de excluir valores referentes aos créditos presumidos de ICMS por ela obtidos em razão da sua inclusão em programa de incentivo fiscal estadual da base de cálculo do PIS/COFINS, por entender não configurarem os referidos créditos receita tributável, o v. Acórdão ora recorrido desconsiderou o disposto no art. 150, § 6º, da CRFB, negando-lhe vigência, como se expõe. (e-STJ, fl. 221, Vol. 1)
+    Confrontando os fundamentos do acórdão com as razões do extraordinário, é possível constatar que se tratam de controvérsia diversa, pois a instância de origem não tratou da exclusão de créditos presumidos de ICMS obtidos em razão da sua inclusão em programa de incentivo fiscal estadual da base de cálculo do PIS/COFINS. Inclusive, a questão debatida no apelo extremo também teve a repercussão geral reconhecida por este SUPREMO TRIBUNAL FEDERAL, no Tema 843 (RE 835.818-RG, Rel. Min. MARCO AURÉLIO, Tribunal Pleno, DJe de 22/9/2015). Veja-se a ementa a decisão:
+    COFINS – PIS – BASE DE CÁLCULO – CRÉDITO PRESUMIDO DE IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ARTIGOS 150, § 6º, E 195, INCISO I, ALÍNEA “B”, DA CARTA DA REPÚBLICA – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia acerca da constitucionalidade da inclusão de créditos presumidos do Imposto sobre Circulação de Mercadorias e Serviços – ICMS nas bases de cálculo da Cofins e da contribuição ao PIS.
+    Verifica-se, portanto, que as razões do apelo encontram-se dissociadas dos fundamentos utilizados pelo TRF da 4ª Região, incidindo, no caso, o óbice constante da Súmula 284/STF: é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia .
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 2 de outubro de 2017.
+Ministro Alexandre de Moraes
+Relator
+documento assinado digitalmente
