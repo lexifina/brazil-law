@@ -1,0 +1,24 @@
+Decisão:
+Ementa: Penal. Habeas corpus. Tráfico de entorpecentes. Dosimetria da pena. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, sem pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Joel Ilan Paciornik, assim ementado:
+    “HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. TRÁFICO DE DROGAS DOSIMETRIA. PENA-BASE. MAJORAÇÃO. QUANTIDADE E NATUREZA DA SUBSTÂNCIA ENTORPECENTE. QUANTUM DE AUMENTO. DISCRICIONARIEDADE. ART. 42 DA LEI N. 11.343/06. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+    1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal – STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+    2. O aumento da pena-base em 2 anos não se mostra, no caso, desproporcional, tendo em vista a elevada gravidade da conduta, evidenciada pela quantidade e natureza da droga apreendida (mais de 3kg de cocaína). Inteligência do art. 42 da Lei n. 11.343/06. Precedentes.
+    3. A instância ordinária afastou a incidência da causa especial de redução da pena prevista no § 4º do art. 33 da Lei n. 11.343/2006 em face das circunstâncias apuradas na instrução processual evidenciarem a dedicação da ré à atividade criminosa. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus , porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+    Habeas corpus não conhecido.”
+    2. Extrai-se dos autos que a paciente foi condenada à pena de 6 (seis) anos e 9 (nove) meses de reclusão, em regime inicial fechado, pelo crime previsto no artigo 33, caput, da Lei 11.343/06.
+    3. O Tribunal de Justiça do Estado do Acre negou provimento à apelação da defesa.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça, não conhecido.
+    5. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a fixação da pena-base em patamar acima do mínimo legal. Alega a aplicabilidade, no caso, da minorante prevista no artigo 33, § 4º, da Lei de Drogas. Daí o pedido de concessão da ordem a fim de reduzir a pena imposta à paciente.
+    Decido.
+    6.  A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal (v.g HC 109.956, Rel. Min. Marco Aurélio, e HC 104.045, Rel.ª Min.ª Rosa Weber). De modo que o processo deve ser extinto sem resolução do mérito por inadequação da via eleita.
+    7. Não é caso de concessão da ordem de ofício.
+    8. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. De modo que a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda pertence).
+    9. Na hipótese de que se trata, a paciente foi condenada à pena de 6 (seis) anos e 9 (nove) meses de reclusão. Observo que o Juízo de origem fixou a pena-base em patamar acima do mínimo legal –, em razão da quantidade da droga apreendida (3,039 kg de cocaína) –, bem como afastou a minorante do artigo 33, § 4º, da Lei 11.343/06, tendo em vista que a paciente “estava sob o comando de uma organização criminosa, não se tratando, então, de traficante eventual”.
+    10. Nessas condições, não se verifica a alegada contrariedade à orientação Plenária do Supremo Tribunal Federal. Isso porque, no julgamento dos habeas corpus 112.776 e 109.193, sob a relatoria do Ministro Teori Zavascki, o Tribunal, por maioria de votos, entendeu que “configura ilegítimo bis in idem considerar a natureza e a quantidade da substância ou do produto para fixar a pena base (primeira etapa) e, simultaneamente, para a escolha da fração de redução a ser imposta na terceira etapa da dosimetria (§ 4º do art. 33 da Lei 11.343/2006). Todavia, nada impede que essa circunstância seja considerada para incidir, alternativamente, na primeira etapa (pena-base) ou na terceira (fração de redução).”
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 02 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+              Documento assinado digitalmente
