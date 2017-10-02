@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, XV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal no sentido da impossibilidade de manutenção, para os servidores inativos, do percentual das gratificações concedidas aos servidores em atividade após a implementação dos critérios de avaliação de desempenho, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: AI 794.347-AgR/PR, Rel. Min. Dias Tóffoli, 1ª Turma, DJe 10.10.2011; e RE 973.093-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 30.8.2017, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL (GDASS). MANUTENÇÃO DA PONTUAÇÃO APÓS A ADOÇÃO DOS CRITÉRIOS DE AVALIAÇÃO. IMPOSSIBILIDADE. OFENSA AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. NÃO OCORRÊNCIA. PRECEDENTES. MAJORAÇÃO DOS HONORÁRIOS. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - A jurisprudência da Corte firmou-se no sentido de que o direito à paridade dos servidores inativos ocorre somente até que sejam processados os resultados das primeiras avaliações de desempenho. II - A partir da conclusão do primeiro ciclo das avaliações, a gratificação assume a natureza pro labore faciendo, não ocorrendo, portanto, ofensa ao princípio da irredutibilidade de vencimentos. III - A verificação da existência de decréscimo na remuneração da ora agravante demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF. IV - Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais do art. 85, § 2° e § 3°, do CPC. V - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 02 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
