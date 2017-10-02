@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Jerônimo Guimarães Filho, apontando como autoridade coatora a Terceira Seção do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no CC nº 151.374/RJ, Relator o Ministro Antônio Saldanha Palheiro.
+    O impetrante sustenta que o paciente está submetido a constrangimento ilegal, pois está sendo mantido na Penitenciária Federal de Mossoró/RN há mais tempo que lei permite.
+    Argumenta que o paciente “já permaneceu por 7 (sete) anos submetido a custódia do Estado em penitenciárias federais, enquanto a lei prevê um tempo máximo para tanto de 360 (trezentos e sessenta) dias”.
+    Aduz de outra parte, que o paciente, segundo documentos juntados aos autos, “não possui quaisquer condições de saúde para permanecer, além do longo tempo ao qual já foi submetido, a um isolamento dos seus familiares e amigos”.
+    Prossegue argumentando que
+    “submeter o paciente a prisão no sistema penitenciário federal, isolado do convívio mais próximo com seus parentes e amigos, sem que haja motivo lastreado em uma base mínima de provas de que se trata de medida indispensável para atender uma situação emergencial de segurança pública e, ainda, a sua frágil condição de saúde aliada a sua faixa etária avançada, não é apenas uma medida absolutamente ilegal, mas, um risco de fazer com que o Estado seja o responsável pela sua morte” (grifos do autor).
+    Requer, liminarmente, a concessão da ordem
+    “para que seja franqueado ao paciente permanecer em uma unidade prisional situada no estado do Rio de Janeiro, tendo em vista a que a utilização da medida extrema por prazo que supera em muito o máximo estabelecido pela lei que rege a matéria – art. 10, § 1º, da Lei nº 11.671/2008 – que estabelece o limite de 360 (trezentos e sessenta) dias, bem como, a impossibilidade de isolamento do mesmo na penitenciária federal pelas suas condições clínicas (...)”.
+    Examinados os autos, decido.
+    Transcrevo o teor do aresto questionado:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. PRESÍDIO FEDERAL DE SEGURANÇA MÁXIMA. PRORROGAÇÃO DA PERMANÊNCIA DO PRESO. FUNDAMENTOS DECLINADOS.
+    1. ‘Consoante o entendimento da Terceira Seção desta Corte, permanecendo inalterados os fundamentos que justificaram a transferência de preso para presídio federal de segurança máxima, não cabe ao Juízo federal questionar as razões do Juízo estadual, sendo a renovação da permanência do apenado providência indeclinável, como medida excepcional e adequada para resguardar a ordem pública’. (CC 143.634/RJ, Rel. Ministro GURGEL DE FARIA, TERCEIRA SEÇÃO, julgado em 24/2/2016, DJe 7/3/2016).
+    2. Agravo regimental desprovido” (anexo 11 – grifos do autor).
+    Pelo que há no aresto impugnado, não se vislumbra ilegalidade flagrante, abuso de poder ou teratologia que justifique o provimento do recurso. Pelo contrário, o julgado em questão encontra-se devidamente motivado, restando justificado o convencimento formado.
+    Ademais, o Supremo Tribunal Federal já reconheceu que o habeas corpus não é a via adequada para revisitar decisão que renova a permanência do preso em penitenciária federal de segurança máxima, a fim de se verificar seus fundamentos quanto à necessidade ou não da medida.
+    Perfilhando esse entendimento:
+    “Habeas corpus. Processual Penal. Transferência de preso para penitenciária federal de segurança máxima em Mossoró/RN. Discussão quanto à renovação de permanência do paciente naquele estabelecimento prisional federal. Questão que não comporta análise na via do habeas corpus. Precedentes. Não conhecimento do writ. 1. O Supremo Tribunal Federal já sinalizou que o habeas corpus não é a via adequada para revisitar decisão que renova a permanência do preso em penitenciária federal de segurança máxima, a fim de se verificar seus fundamentos quanto à necessidade ou não da medida (HC nº 119.061/RJ, Primeira Turma, de minha relatoria, DJe de 19/12/13). 2. Habeas corpus do qual não se conhece” (HC nº 131.649/RJ, Segunda Turma, de minha relatoria, DJe de 2/8/17).
+    Confiram-se ainda os seguintes julgados: HC nº 126.934/MS-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 19/5/15; HC nº 119.061/RJ, Primeira Turma, de minha relatoria, DJe de 19/12/13; HC nº 101.540/SP, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 18/2/11; HC nº 93.003/RJ, Primeira Turma, Relator o Ministro Menezes Direito, DJe de 13/6/08.
+    Por fim, ressalto que as demais teses da trazidas na impetração não foram não analisadas pelo Superior Tribunal de Justiça. Logo, sua apreciação pela Corte configuraria, na linha de precedentes, inadmissível supressão de instância.
+    Anote-se que este Supremo Tribunal tem assentado a impossibilidade de, em exame per saltum, apreciar questão não analisada pelo Superior Tribunal de Justiça, sob pena de incorrer em grave violação às regras de competência constitucionalmente previstas (v.g. HC nº 111.171/DF, Primeira Turma, de minha relatoria, DJe de 9/4/12).
+    Nesse sentido: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ 25/5/07, entre outros.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 2 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
