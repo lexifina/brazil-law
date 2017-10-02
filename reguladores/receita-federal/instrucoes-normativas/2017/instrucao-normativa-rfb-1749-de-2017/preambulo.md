@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1749, de 29 de setembro de 2017
+Altera a Instrução Normativa nº 1.728, de 14 de agosto de 2017, que regulamenta o Programa de Regularização Tributária Rural (PRR), instituído pela Medida Provisória nº 793, de 31 de julho de 2017, no âmbito da Secretaria da Receita Federal do Brasil (RFB).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Medida Provisória nº 793, de 31 de julho de 2017, e na Medida Provisória nº 803, de 31 de julho de 2017, resolve:
