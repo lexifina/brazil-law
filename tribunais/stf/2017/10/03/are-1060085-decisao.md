@@ -1,0 +1,12 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. MILITAR. PENSÃO MILITAR. APLICAÇÃO DO PARÁGRAFO 18 DO ARTIGO 40 DA CONSTITUIÇÃO FEDERAL. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR. ENUNCIADO 118 DAS TRRJ. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA. (...)”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 40, §§ 5º e 18, da Carta. A parte recorrente sustenta, em síntese, que o militar é atingido pela EC 41/2003 ao ser obrigado a custear o regime de previdência próprio. Tal se deu pela percepção que seriam situações tributárias equivalentes. Nesse contexto, não faz sentido lógico tributar o militar com base na EC 41/2003, mesmo sem referência expressa, e não conceder a isenção prevista no §18, do art. 40, da CF ao servidor civil. Requer declaração de inexigibilidade da contribuição previdenciária incidente sobre a parcela dos seus proventos de aposentadoria que não excede o teto do Regime Geral da Previdência Social, por inobservância do limite estabelecido no § 18 do artigo 40 da Constituição Federal, alterado pela Emenda Constitucional nº 41/2003, com determinação de cessação dos respectivos descontos e restituição dos valores indevidamente recolhidos.
+    No julgamento eletrônico do Recurso Extraordinário n. 596.701-RG, Relator o Ministro Edson Fachin, este Supremo Tribunal reconheceu a repercussão geral da controvérsia sobre a incidência de contribuição previdenciária sobre pensões e proventos de militares inativos entre a Emenda Constitucional n. 20/98 e a Emenda Constitucional n. 41/2003. Nesse recurso, este Supremo Tribunal definirá o regime jurídico aplicável à cobrança de contribuição previdenciária sobre pensões e proventos de militares inativos:
+    “CONSTITUCIONAL. ADMINISTRATIVO. MILITAR INATIVO. REGIME PREVIDENCIÁRIO APLICÁVEL. COBRANÇA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. RELEVÂNCIA JURÍDICA E ECONÔMICA DA QUESTÃO CONSTITUCIONAL. EXISTÊNCIA DE REPERCUSSÃO GERAL” (Relator o Ministro Ricardo Lewandowski).
+    Diante do exposto, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.
+    Publique-se.
+    Brasília, 03 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
