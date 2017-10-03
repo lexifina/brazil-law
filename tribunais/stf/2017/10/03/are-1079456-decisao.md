@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5º, XXXVIII, “c”, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Nada colhe o agravo.
+    Não prospera a insurgência pelo prisma do inciso XXXVIII do art. 5º da Carta Política, uma vez que, no caso, a infringência a tal preceito constitucional somente poderia ser constatada a partir da análise de legislação infraconstitucional apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário nos moldes exigidos pelo art. 102, III, “a”, da Lei Maior.
+    Ademais, a análise efetuada pelo Tribunal a quo enfrentou o conjunto probatório para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido: ARE 907.264-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 25.9.2015; ARE 969.273-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 10.8.2016; e RE 929795 AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 24.3.2017, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MATÉRIA CRIMINAL. RECEBIMENTO DA DENÚNCIA. NULIDADE POR AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Recebimento da denúncia ratificado após a reforma processual trazida pela Lei 11.719/2008. Juízo de mera delibação nesta fase processual. 2. Alegação de nulidade suscitada pela defesa somente após a interposição do recurso de apelação. Preclusão. 3. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido. Súmulas 282 e 356 do STF. 4. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 5. É inviável o processamento do apelo extremo quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentaram a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. 6. Agravo regimental a que se nega provimento.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
