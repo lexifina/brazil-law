@@ -1,0 +1,30 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 1.098, Vol. 12):
+    AÇÃO RESCISÓRIA. ACÓRDÃO EM AÇÃO DE PRESTAÇÃO DE CONTAS. ALEGAÇÃO DE ERRO DE FATO, VIOLAÇÃO DE LITERAL DISPOSIÇÃO DA LEI E DOLO PROCESSUAL.
+    1. A ação rescisória é remédio extremo, com hipóteses taxativamente previstas na lei processual, não se prestando para o reexame da prova ou para análise da justiça da decisão.
+    II. Dolo a que se refere o inc. III, do art. 485, do CPC, “É o dolo processual, representado pela má-fé ou deslealdade com que, no processo rescindendo, a parte levou o julgador à decisão impugnada”.
+    III. Afastada a aplicação do art. 485, V, do CPC, eis que não verificada violação de disposição literal de lei.
+    IV. Para aplicação da hipótese prevista no art. 485, inc. IV, do CPC, pressupõe-se não tenha havido controvérsia ou pronunciamento judicial sobre a questão debatida.
+    V. Ausência, no caso em exame, de correspondência entre os fundamentos elencados e as hipóteses legais de rescindibilidade.
+    INDEFERIDA A PETIÇÃO INICIAL E EXTINTO O PROCESSO.
+    Nas razões recursais iniciais, com amparo no art. 102, III, “a”, da Constituição Federal, foram alegadas violações aos seguintes dispositivos constitucionais: art. 5º, XXXV, XXXVI e LV; e 93, IX.
+    A decisão agravada tem por fundamento a eventual configuração de ofensa meramente reflexa à Constituição e ausência do requisito do prequestionamento.
+    No agravo, a parte agravante sustenta, em síntese, que é direta a ofensa à Constituição. No mais, reitera as alegações de mérito do recurso extraordinário.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do recurso extraordinário.
+    No tocante à negativa de prestação jurisdicional, o Juízo de origem não destoou do entendimento firmado por esta Corte no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+    Nessa oportunidade, assentou o Supremo Tribunal Federal que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Quanto à alegação de afronta ao art. 5º, XXXV, XXXVI e LV da Carta Magna, o apelo extraordinário não tem chances de êxito, pois essa Corte, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Efetivamente, o Juízo de origem consignou ausente quaisquer das hipóteses autorizadoras da rescisão do julgado previstas no art. 485 do Código de Processo Civil de 1973, nos seguintes termos (e-STJ, fl. 1.104, Vol. 12):
+    Destarte, ausente a correspondência entre os fundamentos elencados pelos autores e as hipóteses legais de rescindibilidade, forte no art. 490, inciso I, combinado com o art. 295, parágrafo único, inciso II, ambos do Código de Processo Civil, indefiro a petição inicial e extingo o processo sem julgamento do mérito.
+    Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição indicadas no recurso extraordinário são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    De outro lado, infirmar tais razões de decidir do acórdão recorrido demandaria a incursão nos fatos e provas dos autos, incabível em recurso extraordinário, nos termos da Súmula 279 do STF (Para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 3 de outubro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
