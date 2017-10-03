@@ -1,2 +1,3 @@
 Dispõe sobre o parcelamento de débitos com a Fazenda Nacional relativos às contribuições previdenciárias de responsabilidade dos Estados, do Distrito Federal e dos Municípios, e sobre a revisão da dívida previdenciária dos Municípios pelo Poder Executivo federal; altera a Lei nº 9.796, de 5 de maio de 1999; e dá outras providências.
-O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
