@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INTERPRETAÇÃO DE NORMAS LEGAIS — INVIABILIDADE — NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à procedência do pedido de indenização por danos morais e materiais. No extraordinário, a Agência Nacional de Energia Elétrica - ANEEL aponta a violação dos artigos 2º, 5º, incisos XXV, XXXV, LIV e LV, e 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão relativo aos embargos de declaração por negativa de prestação jurisdicional e cerceamento de defesa. Alega a intromissão do Judiciário na esfera do Executivo.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, versando, detalhadamente, sobre as razões pelas quais manteve a sentença, abordando os temas suscitados neste extraordinário.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão impugnada o seguinte trecho:
+    Diga-se que, por certo, a encampação causou prejuízos à autora, pois lhe retirou todo o patrimônio e também a única forma de adquirir receita, o que sem a devida indenização no momento correto impediu que honrasse com seus débitos pendentes, bem como com os encargos trabalhistas decorrentes das demissões que se fizeram necessárias.
+    Desta forma, tenho que efetivamente assiste razão à autora que deve ser indenizada pelo período em que permaneceu sem acesso à indenização devida por desídia da ré.
+    No caso, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce que o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    Por fim, o Supremo, no recurso extraordinário com agravo nº 748.371/MT, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    4. Nego seguimento ao extraordinário.
+    5. Publiquem.
+Brasília, 3 de outubro de 2017.
+Ministro MARCO AURÉLIO
+Relator
