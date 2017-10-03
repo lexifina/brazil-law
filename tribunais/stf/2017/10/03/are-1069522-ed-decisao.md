@@ -1,0 +1,37 @@
+Trata-se de embargos de declaração opostos contra decisão que negou seguimento ao agravo, sob o entendimento de que o recurso previsto no art. 544 do Código de Processo Civil de 1973 não é cabível contra a decisão a quo que aplica a sistemática da repercussão geral, nos termos do art. 543-B do CPC/1973.
+    A embargante sustenta, em suma, a ocorrência de erro material na decisão embargada, sob o argumento de que
+    “[...] a negativa de seguimento foi vinculada à eventual erro processual da Fazenda Nacional ao interpor recurso de agravo previsto no artigo 544 do CPC/73, contra decisão que aplica entendimento firmado em Repercussão Geral, quando na verdade, o correto seria a interposição de agravo regimental no Tribunal de origem.
+    Não se trata, contudo, da hipótese acima narrada.
+    Verifica-se, na verdade, erro material na respeitável decisão proferida, já que a negativa de seguimento do Recurso Extraordinário da União, decorreu, no entender da Vice-Presidência da Corte Regional, de natureza infraconstitucional da questão tratada e não de aplicação equivocada de Repercussão Geral.
+    [...]
+    Não se trata, portanto, de aplicação equivocada de Repercussão Geral, e sim, decisão que entendeu pela natureza infraconstitucional da matéria ventilada no acórdão recorrido” (págs. 1-2 do documento eletrônico 39).
+    Alega, ainda, que a matéria discutida nestes autos guarda similitude com o Tema 20 da repercussão geral, o que impõe a devolução do feito à origem “onde deverá ser adequado o julgamento de mérito ao precedente fixado no Tema 20 da Repercussão Geral” (pág. 3 do documento eletrônico 39).
+    É o relatório. Decido.
+    Bem reexaminada a questão, verifico que a decisão ora atacada não merece reforma, visto que a embargante não aduz argumentos capazes de afastar as razões nela expendidas.
+    Os embargos de declaração apenas são cabíveis, nos termos do art. 1.022 do Código de Processo Civil, quando a decisão recorrida contiver omissão, contradição, obscuridade ou erro material.
+    No presente caso, inexiste o erro material apontado. O tribunal de origem, ao contrário do que alega a recorrente, ao proferir a decisão de admissibilidade do recurso extraordinário (documento eletrônico 31), aplicou o entendimento firmado por esta Corte, em sede de repercussão geral, no julgamento do ARE 745.901-RG (leading case do Tema 759), tendo inclusive colacionado a ementa do referido julgado.
+    Desse modo, nos termos na decisão embargada, não é cabível o agravo previsto no art. 544 do CPC/1973 para atacar decisão a quo que aplica a sistemática da repercussão geral. Nesse sentido, transcrevo a ementa do julgamento da Rcl 22.284-AgR/SP, de relatoria do Ministro Teori Zavascki, que bem elucida a questão:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. DECISÃO DO JUÍZO OU TRIBUNAL DE ORIGEM QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. IMPOSSIBILIDADE DE IMPUGNAÇÃO AO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES DO TRIBUNAL PLENO.
+    1. O Plenário desta Corte assentou o entendimento de que a negativa de seguimento do recurso extraordinário, pelo Juízo de origem, com base na sistemática da repercussão geral não é impugnável pelo agravo do art. 544 do CPC, nem por reclamação.
+    2. Na sistemática da repercussão geral pela instância a quo, admite-se a remessa do recurso ao STF unicamente quando, julgado o mérito do leading case, o Órgão de origem recusa a retratar-se para adequar o acórdão recorrido à orientação desta Corte. Em todas as demais situações, qualquer irresignação manifestada pela parte contra a aplicação dos arts. 543-A, § 5º, e 543-B do CPC – seja no caso do § 2º, seja no caso do § 3º – deverá ser apreciada no âmbito do próprio Tribunal/Juízo a quo, por meio de agravo interno.
+    3. Essa diretriz é aplicável aos casos em que a fundamentação da inadmissão do extraordinário esteja amparada em precedente do STF formado sob a sistemática da repercussão geral, seja indicando a inexistência da relevância da matéria, seja reconhecendo-a e pronunciando-se acerca do mérito em sentido contrário ao pretendido pela parte recorrente. Independentemente do modo como a instância de origem obsta a admissão do recurso extraordinário (negando-lhe seguimento, inadmitindo-o, não o conhecendo, julgando-o prejudicado ou inferindo-o liminarmente), não caberá nenhuma forma de impugnação a esta Corte se a decisão tiver por fundamento precedente do STF julgado sob o rito da repercussão geral.
+    4. Observadas essas condições, a orientação não representa desrespeito à Súmula 727/STF.
+    5. Agravo regimental a que se nega provimento” (grifei).
+    Além disso, cumpre ressaltar que os Ministros desta Corte, ao julgarem o ARE 745.901-RG (Tema 759), rejeitaram a repercussão geral da matéria debatida nestes autos em acórdão assim ementado:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. AVISO PRÉVIO INDENIZADO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA JURÍDICA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. A controvérsia relativa à incidência de contribuição previdenciária sobre as verbas pagas a título de aviso prévio indenizado, fundada na interpretação da Lei 8.212/91 e do Decreto 6.727/09, é de natureza infraconstitucional.
+    2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009).
+    3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC”.
+    Assim, não há falar em aplicação do Tema 20 da repercussão geral ao presente caso.
+    Por fim, verifico que, a pretexto de sanar suposto erro material, a embargante tem o propósito de provocar o reexame da causa. Entretanto, os embargos de declaração não constituem meio processual adequado para a reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. Nesse sentido, destaco os seguintes precedentes do Plenário desta Corte:
+    “Ementa: EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS” (ARE 892.129-AgR-ED/DF, Rel. Min. Cármen Lúcia).
+    “Ementa: EMBARGOS DECLARATÓRIOS. PEDIDO DE SOBRESTAMENTO DO FEITO POSTERIOR A JULGAMENTO DE EMBARGOS DE DECLARAÇÃO. INDEFERIMENTO. ALEGAÇÃO DE OMISSÃO. NÃO CONFIGURAÇÃO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+    1. Nos termos do artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como para fins de correção de erro material.
+    2. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição ou obscuridade, o que não ocorre no presente caso.
+    3. O Embargante busca indevidamente rediscussão da matéria.
+    4. Embargos de declaração, opostos em 06.02.2017, rejeitados” (Rcl 17.218-AgR-EDv-ED-ED/RS, Rel. Min. Edson Fachin).
+    Isso posto, rejeito os embargos de declaração (art. 1.024, § 2°, do CPC).
+    Publique-se.
+    Brasília, 3 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
