@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — LEGISLAÇÃO LOCAL — INTERPRETAÇÃO — AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Goiás confirmou o entendimento do Juízo quanto à improcedência do pedido de à correção de reenquadramento funcional, assentando terem sido os servidores reposicionados de acordo com a legislação de regência. No extraordinário cujo trânsito buscam alcançar, os recorrentes apontam a violação dos artigos 5º, inciso XXXVI, e 37, inciso XV, da Constituição Federal. Sustentam a afronta dos princípios do direito adquirido e da irredutibilidade de vencimentos, aludindo à jurisprudência do Supremo.
+    2. Observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do agravo regida por esse diploma legal.
+    De início, tem-se que o extraordinário foi interposto também com alegada base na alínea “c” do permissivo constitucional. Todavia, não tendo ocorrido a declaração da validade de lei ou ato de governo local contestado em face da Carta da República, salta aos olhos o não cabimento do recurso, no particular.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Como se vê dos comprovantes de rendas dos Requerentes relativos aos meses anteriores e posteriores ao enquadramento de carreira, que ocorreu em 10/2/2010, conforme previsto na citada Lei nº 16.921/2010, não houve qualquer redução de remuneração (documentos de fls. 188/627).
+     À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida à Lei estadual nº 16.921/2010. Ora, a controvérsia sobre o alcance de norma local não viabiliza, conforme sedimentado pela jurisprudência Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário, o acesso ao Supremo. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 1.000,00 (mil reais), fixo os honorários recursais no patamar de R$ 500,00 (quinhentos reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 3 de outubro de 2017.
+Ministro MARCO AURÉLIO
+Relator
