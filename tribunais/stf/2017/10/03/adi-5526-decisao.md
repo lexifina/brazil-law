@@ -1,0 +1,19 @@
+Despacho:
+    Proposta a ADI em petição datada e assinada em 12/05/2016, na data de ontem, 02/10/2017, por meio da Petição 57.549/2017 (eDOC 39), o Partido Social Cristão vem de ratificar e reiterar os termos da medida cautelar requerida junto à peça exordial.
+    Naquela petição inicial do ano pretérito, no item 4, denominado “Da medida cautelar pleiteada”, os partidos políticos autores da ação requereram, ali, o deferimento de medida cautelar, para fixar-se a interpretação suscitada e, no mérito, a procedência da ação, declarando-se que a única interpretação adequada dos mencionados arts. 312 e 319 do CPP é a que propugnam. Requereram, expressamente, que não fosse aplicado o rito do art. 12 da Lei 9.868/1999, “permitindo o julgamento da cautelar com a maior brevidade possível”.
+    Por meio de despacho (eDOC 15), adotei em 18.05.2016 o rito previsto no artigo 12 da Lei n. 9.868/1999. Nos termos do artigo citado, “havendo pedido de medida cautelar, o relator, em face da relevância da matéria e de seu especial significado para a ordem social e a segurança jurídica, poderá, após a prestação das informações, no prazo de dez dias, e a manifestação do Advogado-Geral da União e do Procurador-Geral da República, sucessivamente, no prazo de cinco dias, submeter o processo diretamente ao Tribunal, que terá a faculdade de julgar definitivamente a ação”. (grifei)
+    Daquela decisão, tomada no ano pretérito, não houve qualquer irresignação ou impugnação da parte autora. Prosseguiu-se, como de praxe, a coleta de informações e instrução da demanda.
+    Em 29.09.2017, em decorrência, foi determinada a inclusão em pauta da presente ação direta, por meio do seguinte despacho que proferi:
+    “Indico inclusão desta ADI em pauta. Registro que, sem prejuízo de outras manifestações complementares, a serem apresentadas em razão do despacho que as facultou (publicado em 19 de junho de 2017), importa desde logo indicar o feito à pauta. Determino ao Gabinete que assim proceda. “
+    Dessa decisão também não houve manifestação alguma em sentido diverso por parte dos partidos políticos autores da demanda.
+    Naquela mesma data, ressalto, a Presidência do Supremo Tribunal Federal incluiu a ação no calendário de julgamento.
+    Após a inclusão em pauta do processo e com data prevista para o respectivo julgamento, o PSC “ratifica e reitera todos os termos da medida cautelar”; a petição ratifica e reitera os termos da medida cautelar cuja apreciação, nos termos da lei, em despacho anterior, foi remetida ao Pleno. A petição se reporta ao pedido cautelar como constante da inicial aforada.
+    Portanto, como se pode haurir, o tema já está afeto à jurisdição do Tribunal Pleno, quer na cautelar, quer no mérito da ADI, especialmente para a aplicação, se for o caso, do artigo 11, § 1º da Lei 9.868/1999.
+    De consequência, a análise dessa matéria, assim posta, cabe à apreciação pelo colegiado, em respeito à segurança jurídica e à própria colegialidade.
+    Tomando em conta a publicidade do calendário de pauta dessa ADI para julgamento pelo Tribunal Pleno, o relatório para os devidos fins este Relator já o encaminhou aos eminentes Colegas Ministros e determinou a respectiva publicação, para ciência às partes.
+    Registro, por fim, que os poderes outorgados em instrumento de procuração ao Dr. Alessandro Martello Panno, causídico que assina a petição em pauta, não contém a indicação objetiva da regra legal impugnada nesta sede de controle normativo abstrato, como exige a jurisprudência desta Corte (e.g.: ADI – MC 4841, rel. Min. Celso de Mello, despacho de 25/02/2013). Desta forma, assinalo ao PSC o prazo de cinco (5) dias para que regularize o mencionado instrumento de mandato judicial.
+    Publique-se. Intime-se.
+    Brasília, 03 de outubro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
