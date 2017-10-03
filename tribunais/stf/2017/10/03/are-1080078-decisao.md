@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão assim ementado:
+    “RECURSO — APELAÇÃO — JULGAMENTO NOS MOLDES DO ART. 557, CAPUT DO CPC.
+    APELAÇÃO — OBRIGAÇÃO DE FAZER — FORNECIMENTO DE MEDICAMENTO — CABIMENTO.
+    Em atendimento a preceito constitucional (artigos 5° e 196 da CF) é direito do paciente com doença crônica obter o fornecimento de medicamento prescrito pelo médico, mesmo que não esteja padronizado na rede pública de saúde. Obrigação dos órgãos públicos de garantir atendimento salutar a quem deles necessitar.
+    MULTA DIÁRIA — Possibilidade de fixação de multa diária no caso de descumprimento, considerando que lídima a sua fixação em face do ente público, nos moldes do art. 461, § 40 do CPC.
+    HONORÁRIOS ADVOCATÍCIOS — Valor arbitrado de modo excessivo — Redução para a fixação equitativa da paga profissional — Inteligência dos §§ 3° e 4% do art. 20 do CPC.
+    Preliminares rejeitadas.
+    Recurso provido em parte” (grifos no original, págs. 188-189 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, sem suma, ao art. 5°, XLV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    A matéria constitucional suscitada no extraordinário não foi examinada no acórdão recorrido, tão pouco foi objeto dos embargos de declaração opostos, estando, assim, ausente o necessário prequestionamento dos dispositivos supostamente violados. Incidem, portanto, as Súmulas 282 e 356 do STF.
+    Além disso, percebe-se da leitura do acórdão atacado, que para se chegar à conclusão contrária a que chegou a Corte de origem, quanto à responsabilidade do Município pelos danos alegados, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que encontra óbice na Súmula 279 desta Corte.
+    Por fim, esta Corte já firmou entendimento no sentido de que o Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação de poderes, o que se aplica ao caso dos autos em que se busca a tutela do direito à vida. Nesse sentido, cito precedentes de ambas as Turmas:
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. IMPLEMENTAÇÃO POLÍTICA PÚBLICA. AUSÊNCIA DE OFENSA À SEPARAÇÃO DOS PODERES. PRECEDENTES. 1. O acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal, que afirma a possibilidade, em casos emergenciais, de implementação de políticas públicas pelo Judiciário, ante a inércia ou morosidade da Administração, como medida assecuratória de direitos fundamentais. Precedentes. 2. Agravo interno a que se nega provimento” (RE 808.193-AgR/RR, Rel. Min. Roberto Barroso, Primeira Turma).
+     “Agravo regimental no recurso extraordinário com agravo. 2. Danos ao meio ambiente. Determinação da cessação de despejo de efluentes sem tratamento no rio e na atmosfera da Comarca de Campo Belo/MG, sob pena de multa. 3. Direito ao meio ambiente ecologicamente equilibrado. Direito Fundamental de terceira geração. Art. 225 da Constituição Federal. 4. Violação do princípio da separação de poderes. Inocorrência. Possibilidade de o Poder Judiciário determinar a adoção de medidas assecuratórias dos direitos difusos, coletivos e individuais homogêneos previstos na Constituição Federal. 5. Efetividade do dano. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279 do STF. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento” (ARE 955.846-AgR/MG, Rel. Min. Gilmar Mendes, Segunda Turma)
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) os honorários advocatícios anteriormente fixados pelos juízo de origem, observados os limites do art. 85, § 2° e § 3°, do CPC.
+    Publique-se.
+    Brasília, 3 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
