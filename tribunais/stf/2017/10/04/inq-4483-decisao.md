@@ -1,0 +1,9 @@
+Despacho: 1. Por meio da petição de fl. 3.764, o advogado Reginaldo Paixão dos Santos pleiteia a disponibilização das notas taquigráficas da sessão de julgamento do Plenário desta Suprema Corte de 20 de setembro de 2017, em que: “O Tribunal, por maioria e nos termos do voto do Relator, Ministro Edson Fachin, resolveu Questão de Ordem no sentido de que: (i) o juízo político de admissibilidade por dois terços da Câmara dos Deputados em face de acusação contra o Presidente da República, nos termos da norma constitucional aplicável (CRFB, art. 86, caput), precede a análise jurídica pelo Supremo Tribunal Federal, se assim autorizado for a examinar o recebimento da denúncia, para conhecer e julgar qualquer questão ou matéria defensiva suscitada pelo denunciado; (ii) a possibilidade de rescisão ou de revisão, total ou parcial, do acordo de colaboração premiada, em decorrência de descumprimento de deveres assumidos pelo colaborador, devidamente reconhecida pelo Poder Judiciário, não propicia, no caso concreto, conhecer e julgar alegação de imprestabilidade das provas, porque a rescisão ou revisão tem efeitos somente entre as partes, não atingindo a esfera jurídica de terceiros. Vencido o Ministro Gilmar Mendes”.
+    2. Nos termos art. 96, § 7º, do RISTF: “O Relator sorteado ou o Relator para o acórdão poderá autorizar, antes da publicação, a divulgação, em texto ou áudio, do teor do julgamento.” Ao lado disso, a própria Constituição Federal, no campo dos atos jurisdicionais, prestigia o interesse público à informação (art. 93, IX).
+    3. Com isso, defiro o pedido, nos termos em que formulado. À Secretaria para as providências.
+    Intime-se o solicitante, por chamada de seu nome no Diário de Justiça Eletrônico.
+    Publique-se.
+    Brasília, 4 de outubro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
