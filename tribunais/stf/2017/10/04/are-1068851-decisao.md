@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário proferida pelo Tribunal de Justiça do Estado de São Paulo, nos seguintes termos:
+    “O recurso é extemporâneo.
+    Consoante se depreende da certidão lavrada às fls. 255, o acórdão foi publicado em 21 setembro de 2016. Já o recurso foi protocolado apenas aos 11 de outubro de 2016 (fls. 294), portanto, fora do prazo legal, conforme disposto no § 5º, do artigo 1.003, do Código de Processo Civil, e no artigo 798 do Código de Processo Penal.
+    Ante o exposto, não preenchido requisito exigido, NÃO SE CONHECE do recurso extraordinário. Procedidas as anotações de praxe, devolvam-se os autos à origem”. (eDOC 4, p. 19)
+    De fato, a observância à tempestividade recursal é elemento imprescindível ao conhecimento do extraordinário. Assim, não há como conhecer da pretensão do agravante ante a intempestividade do extraordinário interposto na origem. Esse é o entendimento desta Corte consolidado nas ementas a seguir:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. O recurso extraordinário não pode ser conhecido por ser intempestivo, uma vez que a parte recorrente protocolou a petição quando já transcorrido o prazo de 15 (quinze) dias previsto no art. 508 do Código de Processo Civil, contados após a publicação do acórdão em que o Tribunal de origem rejeitou os embargos de declaração. Agravo regimental a que se nega provimento”. (ARE 831.172 AgR/DF, Rel. Min. Roberto Barroso, Primeira Turma, DJe 31.10.2014)
+    “Agravo regimental no recurso extraordinário com agravo. 1. ARE interposto na origem. RE intempestivo. 2. ARE interposto no STJ. RE contra decisão em que não se admitiu o REsp. Pressupostos processuais. Ausência de repercussão geral do tema. Precedentes. 1. ARE interposto na origem: o agravante não observou o prazo de 15 dias para a interposição do recurso extraordinário. 2. ARE interposto no STJ: o Plenário da Corte, no exame do RE nº 598.365/MG, Relator o Ministro Ayres Britto, entendeu pela ausência de repercussão geral do tema relativo a pressupostos de admissibilidade de recursos da competência de outros tribunais, dado o caráter infraconstitucional da matéria. No caso, o STJ assentou a intempestividade do recurso especial. 3. Agravo regimental não provido”. (ARE 810.140 AgR/RJ, Rel. Min. Dias Toffoli, Primeira Turma, DJe 14.11.2014)
+    Registro que mesmo não fosse intempestivo o recurso extraordinário interposto, seu conhecimento não se daria pela ausência de preliminar de repercussão geral.
+    Verifico, na petição do recurso extraordinário (eDOC 3, p. 64-105), a ausência de preliminar formal e fundamentada de repercussão geral, pressuposto de admissibilidade do recurso (art. 1.035, § 2º, do CPC).
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 6.9.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 3.5.2007, data da publicação da Emenda Regimental 21 do STF, o que ocorre no presente caso.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 4 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
