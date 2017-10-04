@@ -1,0 +1,48 @@
+Ementa: Penal Militar. Habeas Corpus. Trânsito em julgado da condenação. Estelionato. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime do Superior Tribunal Militar, da Relatoria do Ministro José Coêlho Ferreira, assim ementado:
+    “CRIME CAPITULADO NO ART. 251 DO CPM. SENTENÇA CONDENATÓRIA. PRELIMINAR DE INCOMPETÊNCIA DA JUSTIÇA MILITAR SUSCITADA PEAL DEFESA E PRELIMAR DE INCOMPETÊNCIA DO CONSELHO PERMANENTE DE JUSTIÇA PARA PROCESSAR E JULGAR CIVIL. REJIÇÃO. PROPOSTA DE REFORMA DA DECISÃO RECORRIDA, ALEGANDO TESE DA EXCLUSÃO DA CULPABILIDADE DA APELANTE POR ERRO DE DIREITO OU POR ESTADO DE NECESSIDADE.
+    I – É da Justiça Militar da União a competência para julgar o crime de estelionato cometido por civil que saca indevidamente valores destinados à pensionista falecida, de acordo com o que dispõe o art. 9º, inciso III, alínea ‘a’, do CPM.
+    II – No âmbito desta Corte castrense prevalece o entendimento de que compete ao Conselho Permanente de Justiça processar e julgar civis pela prática de crime militar contra o patrimônio sob a Administração Militar, nos termos do inciso III do art. 9º do CPM.
+    III – A autoria e a materialidade em relação ao crime de estelionato estão sobejamente delineadas nos autos, uma vez que a apelante, mantendo a Administração Militar em erro, sacou, indevidamente, os valores depositados, a título de pensão, pelo Exército Brasileiro.
+    IV – Não procedem as alegações da Defesa fundadas na tese de exclusão de culpabilidade da apelante por erro de direito ou por estado de necessidade, pois lhe era exigível conduta diversa à época dos fatos. Além disso, não há espaço para afastar o juízo de reprovação social em relação à conduta da apelante, uma vez que não houve comprovação de que ela tenha agido em estado de necessidade exculpante.
+    Preliminar de incompetência da JMU rejeitada. Decisão unânime.
+    Preliminar de incompetência do Conselho julgador rejeitada. Decisão majoritária.
+    Apelo da Defesa desprovido.
+    Decisão unânime.”
+    2. Extrai-se dos autos que a paciente, civil, foi condenada à pena de 2 (dois) anos de reclusão, em regime inicial aberto, pelo crime previsto no artigo 251 do Código Penal Militar.
+    3. Da sentença, a defesa interpôs recurso de apelação. O Superior Tribunal Militar, contudo, negou provimento ao recurso.
+    4. Neste habeas corpus, a parte impetrante sustenta a incompetência da Justiça Militar para processar e julgar o feito, tendo em vista que “a conduta atribuída à Paciente, civil, não atinge as funções típicas das Forças Armadas”. Alega a inconstitucionalidade do artigo 90-A da Lei 9.099/95 e do próprio Conselho Permanente de Justiça, composto por juízes militares temporários que não dispõem “de nenhuma das garantias inerentes ao exercício da jurisdição válida, previstas no artigo 95, incisos I a III, da Constituição da República”.
+    5. Com essa argumentação, pede o deferimento de liminar para sobrestar o andamento da ação penal. No mérito, pleiteia a concessão da ordem para declarar a incompetência da Justiça Militar, com a remessa dos autos para a Justiça Comum Estadual.
+    6. A liminar foi indeferida.
+    7. O Ministério Público Federal manifesta-se pela denegação da ordem.
+    Decido.
+    8. A página oficial do Superior Tribunal Militar na internet revela que foi certificado o trânsito em julgado da condenação da paciente, em 24.09.2015. Nessas condições, o presente habeas corpus ganha contornos de revisão criminal. A não deixar nenhuma dúvida quanto à inadequação da via eleita. Vejam-se, nessa linha, os seguintes julgados:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS . PROCESSUAL PENAL. NEGATIVA DE SEGUIMENTO. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. IMPETRAÇÃO COMO SUCEDÂNEO DE REVISÃO criminal. IMPOSSIBILIDADE. DUPLA SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    I A orientação do STF é a de que não cabe habeas corpus como sucedâneo de revisão criminal. Precedentes.
+    II A ausência de manifestação do Tribunal de Justiça estadual e do Superior Tribunal de Justiça sobre as matérias versadas na impetração impede o exame destas por esta Corte, sob pena de se incorrer em dupla supressão de instância, com evidente extravasamento dos limites da competência descritos no art. 102 da Carta Magna. Precedentes.
+    III- Agravo regimental ao qual se nega provimento.” (HC 144.323-AgR, Rel. Min. Ricardo Lewandowski).
+    ““HABEAS CORPUS” – IMPETRAÇÃO DEDUZIDA CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR DA UNIÃO – HIPÓTESE DE INCOGNOSCIBILIDADE DO REMÉDIO CONSTITUCIONAL EM EXAME – DIRETRIZ JURISPRUDENCIAL FIRMADA POR AMBAS AS TURMAS DO SUPREMO TRIBUNAL FEDERAL – “HABEAS CORPUS” NÃO CONHECIDO – RESSALVA DA POSIÇÃO PESSOAL DO RELATOR DESTA CAUSA, QUE ENTENDE CABÍVEL O “WRIT” EM CASOS COMO ESTE – AÇÃO DE “HABEAS CORPUS”, ADEMAIS, UTILIZADA COMO SUCEDÂNEO DE REVISÃO CRIMINAL – INADMISSIBILIDADE – RECURSO DE AGRAVO IMPROVIDO.” (HC 143.580-AgR, Rel. Min. Celso de Mello).
+    9. Não é caso de concessão da ordem de ofício. De início, porque a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que compete à Justiça Militar processar e julgar os crimes praticados por civil, em tempo de paz, quando há lesão ao patrimônio sob a administração militar. Nesse sentido, colaciono os seguintes precedentes:
+    “’HABEAS CORPUS’ – IMPUTAÇÃO, A CIVIL, DE CRIME MILITAR EM SENTIDO IMPRÓPRIO – SUPOSTA PRÁTICA DO DELITO DE ESTELIONATO (CPM, ART. 251) – FATO PRATICADO CONTRA A ADMINISTRAÇÃO DAS FORÇAS ARMADAS – COMPETÊNCIA DA JUSTIÇA MILITAR DA UNIÃO – PRECEDENTES – PEDIDO INDEFERIDO.”
+    (HC 115.912, Rel. Min. Celso de Mello)
+    “Habeas corpus’. 2. Estelionato (art. 251, ‘caput’, do CPM). Saques indevidos de pensão militar. Crime militar praticado por civil. 3. Competência para processo e julgamento. Art. 9º, III, ‘a’, do CPM: ofensa a patrimônio sob administração militar. Fixação da competência da Justiça Militar. Precedentes. 4. Ordem denegada.”
+    (HC 116.810, Rel. Min. Gilmar Mendes)
+    “‘HABEAS CORPUS’. CONSTITUCIONAL E PROCESSUAL PENAL. ART. 251 DO CÓDIGO PENAL MILITAR. CRIME PRATICADO POR CIVIL. CONDENAÇÃO NA JUSTIÇA CASTRENSE. COMPETÊNCIA DA JUSTIÇA MILITAR FEDERAL. ORDEM DENEGADA.
+    1. Compete à Justiça Militar processar e julgar crime de estelionato tipificado no art. 251 do Código Penal Militar praticado por civil, em tempo de paz, em que foram obtidos valores sujeitos à Administração Militar. Precedentes.
+    2. Ordem denegada.”
+    (HC 117.180. Relª. Minª. Cármen Lúcia)
+    “Recurso ordinário em ‘habeas corpus’. Processual Penal Militar. Competência. Estelionato previdenciário (CPM, art. 251, ‘caput’). Delito militar cometido por civil. Lesão a patrimônio sob a administração militar. Competência da Justiça Militar. CPM, art. 9º, inciso III, alínea a. Recurso não provido.
+    1. No caso, a situação da paciente efetivamente se enquadra na alínea a do inciso III do art. 9º do CPM. A infração pela qual ela está sendo processada atenta diretamente contra o patrimônio sob a administração militar.
+    2. A decisão está em perfeita consonância com a jurisprudência da Corte Suprema no sentido da competência da Justiça especializada em hipóteses análogas à versada na impetração. Precedentes.
+    3. Recurso não provido.”
+    (RHC 119.530, Rel. Min. Dias Toffoli)
+    10. No caso, conforme assentou o Superior Tribunal Militar, “os valores pagos a título de pensão civil, repassados pela União, estavam sob a gestão da Administração Militar, ressaltando que a Lei Orçamentária Anual, por intermédio de Fonte de Recursos do Tesouro (FR-100), destina às Forças Armadas os recursos financeiros necessários ao pagamento de seus pensionistas, sendo de sua responsabilidade zelar pelo correto controle dos recursos federais destinados ao pagamento do seu pessoal, incluídos os seus pensionistas...”
+    11. Por outro lado, a tese de inconstitucionalidade da organização da Justiça Militar já foi recusada por precedente desta Corte. Refiro-me ao HC 115.530, Rel. Min. Luiz Fux, assim ementado:
+    “HABEAS CORPUS . DIREITO PENAL E PROCESSUAL PENAL MILITAR. CRIME DE USO E POSSE DE ENTORPECENTE EM LUGAR SUJEITO À ADMINISTRAÇÃO MILITAR (CPM, ART. 290). ARGUIÇÃO DE INCONSTITUCIONALIDADE DA ORGANIZAÇÃO DA JUSTIÇA PENAL MILITAR (LEI N. 8.457/92). IMPROCEDÊNCIA. EXISTÊNCIA DE GARANTIAS PRÓPRIAS E IDÔNEAS À IMPARCIALIDADE DO JULGADOR. SIMETRIA CONSTITUCIONAL. ALEGAÇÃO DE AUSÊNCIA DE PROVA DO FATO CRIMINOSO. COMPROVAÇÃO DO ILÍCITO POR LAUDO PERICIAL SUBSCRITO POR UM ÚNICO PERITO. VALIDADE. INAPLICABILIDADE DA SÚMULA 361 DO STF. PERITO OFICIAL. PRECEDENTES. INTERROGATÓRIO NAS AÇÕES DE COMPETÊNCIA DA JUSTIÇA MILITAR. ATO QUE DEVE PASSAR A SER REALIZADO AO FINAL DO PROCESSO. NOVA REDAÇÃO DO ART. 400 DO CPP. PRECEDENTE DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL (AÇÃO PENAL Nº 528). ORDEM CONCEDIDA .
+    1. A Lei nº 8.457/92, ao organizar a Justiça Militar da União criando os Conselhos de Justiça (art. 1º c/c art. 16) e confiando-lhes a missão de prestar jurisdição criminal, não viola a Constituição da República ou a Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica), porquanto assegura a seus respetivos membros garantias funcionais idôneas à imparcialidade do ofício judicante, ainda que distintas daquelas atribuídas à magistratura civil....”
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 04 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
