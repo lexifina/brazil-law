@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Goiás confirmou o entendimento do Juízo quanto ao reconhecimento da prescrição quinquenal. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação do artigo 5º, incisos XXXV, XXXVI e LV, da Constituição Federal. Destaca a contrariedade dos princípios do devido processo legal, da inafastabilidade da jurisdição, do ato jurídico perfeito, do direito adquirido e do respeito à coisa julgada. Defende a não incidência do Decreto nº 20.910/32 ao caso em análise.
+    2. Colho da decisão monocrática expressamente confirmada pela decisão recorrida o seguinte trecho:
+    “No caso em tela, restou claro que, tratando-se de dívida da fazenda pública, aplicável o prazo prescricional de 5 (cinco) anos previsto no art. 1º do Decreto nº 20.910/1932, lei especial em relação ao Código Civil, consoante orientação uniformizada no Superior Tribunal de Justiça em sede de recurso representativo de controvérsia (REsp nº 1251993/PR).
+    Destarte, o acórdão recorrido encontra-se em harmonia com os parâmetros da legalidade e da razoabilidade. Portanto, merece ser mantido em todos os seus termos.” (fls. 139/146).
+    À toda evidência, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de outro processo.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Nego provimento ao agravo. Considerada a fixação em acórdão dos honorários advocatícios no valor de R$ 600,00 (seiscentos reais), fixo os honorários recursais no patamar de R$ 300,00 (trezentos reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+ Brasília, 4 de outubro de 2017.
+ Ministro MARCO AURÉLIO
+Relator
