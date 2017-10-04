@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão da 6ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo.
+    No apelo extremo, interposto com amparo no art. 102, III, alínea ”a” da Constituição Federal, o recorrente sustenta a existência de repercussão geral e que o julgado ofendeu dispositivos constitucionais. Por fim, pede que o recurso seja conhecido e provido para modificar o acórdão recorrido.
+    É o relatório. Decido.
+    O apelo extremo não pode ser acolhido. Constou da fundamentação do aresto impugnado:
+    Verifico que a pena básica imposta ao apelante ficou assentada acima do mínimo legal, ou seja, em 7 anos e 6 meses de reclusão, mais o pagamento de 750 dias-multa, no piso, e assim deve permanecer, porquanto o juiz explicitou os motivos pelos quais resolveu exacerbá-la, em obediência aos ditames dos artigos 59 do Estatuto Repressivo e 42 da Lei de Drogas. Assim, não e possível a redução da pena básica, como pleiteia o defensor de RICARDO. Em  seguida,  foi reconhecida a atenuante da confissão e a reprimenda foi diminuída para 6 anos e 3 meses de reclusão, mais o pagamento de 620 dias-multa, no limiar.
+    Depois, o apelante foi beneficiado com a redução de 1/6 do castigo, em  razão  do  reconhecimento  do  privilégio contemplado no artigo 33, parágrafo 4 0, da Lei11.343/06.
+    Todavia, tenho que o réu não poderia ter sido favorecido com o reconhecimento do privilégio, como sustenta o Parquet. Em relação ao redutor do artigo 33, parágrafo 4, da Lei no 11.343/06, sabe-se que, nos termos do referido dispositivo legal, o julgador poderá reduzir a pena fixada ao agente - de um sexto a dois terços - desde que este seja primário, não possua antecedentes criminais,  não  se  dedique a atividades criminosas,  nem  integre organização criminosa.
+    Cuida-se, pois, de faculdade que o julgador usará ou não, tendo em vista as circunstâncias do caso concreto, e não direito subjetivo do acusado. E, na hipótese vertente, tendo em vista a quantidade de droga encontrada, mais as circunstâncias em que o réu foi surpreendido, fica evidente que RICARDO possuía sério envolvimento com a máquina criminosa que movimenta o comércio ilícito de entorpecentes. Assim, afasto o redutor e a reprimenda totaliza, em definitivo, 6 anos e 3 meses de reclusão, mais o pagamento de 620 dias-multa, no limiar.
+    Efetivamente, o Tribunal de origem, com fundamento no substrato fático constante dos autos e na legislação ordinária, negou provimento ao recurso defensivo e concedeu parcial provimento ao recurso ministerial para afastar a aplicação do redutor previsto no § 4º do artigo 33 da Lei 11.343/06. Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ademais, o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 (para simples reexame de prova não cabe recurso extraordinário).
+    Em relação à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta Corte no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+    Nessa oportunidade, o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da Constituição Federal de 1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+    Por fim, ressalto que o recurso não apontou outro dispositivo de lei federal ou constitucional para ensejar a interposição de Extraordinário, a teor do disposto na Súmula 282 (é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Publique-se.
+Brasília, 4 de outubro de 2017.
+Min. Alexandre de Moraes
+Relator
+documento assinado digitalmente
