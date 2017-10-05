@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, cuja ementa possui o seguinte cabeçalho (e-STJ, fl. 707, Vol. 4) :
+    CIVIL E PROCESSUAL CIVIL. DÚVIDA REGISTRÁRIA. AVERBAÇÃO DE TÍTULO EXECUTIVO. GLEBAS DE TERRA PERTENCENTES A EMPRESA PÚBLICA. NOTÓRIA CAPACIDADE DE ADIMPLEMENTO. ABUSO DO EXERCÍCIO DO DIREITO DE AVERBAÇÃO. INOBSERVÂNCIA AOS PRINCÍPÍOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. DÚVIDA PROCEDENTE.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a recorrente sustenta que o julgado ofendeu dispositivos constitucionais.
+    É o relatório. Decido.
+    A jurisprudência desta CORTE, firmou-se no sentido de que é incabível recurso extraordinário contra decisão que dirime procedimento de dúvida registrária, haja vista seu caráter administrativo. A propósito, o seguinte precedente:
+    PROCEDIMENTO DE DÚVIDA, EM MATÉRIA DE REGISTROS PÚBLICOS. CARÁTER MATERIALMENTE ADMINISTRATIVO. INEXISTÊNCIA DE CAUSA. NÃO-CABIMENTO DE RECURSO EXTRAORDINÁRIO. RE NÃO CONHECIDO. - Não cabe recurso extraordinário contra acórdão de Tribunal de Justiça, que, em sede de procedimento de dúvida, instaurado em matéria de registros públicos, julga recurso de apelação. Precedentes. - A dúvida constitui procedimento de natureza administrativa, e a decisão nela proferida reveste-se, por igual, de conteúdo materialmente administrativo (Lei nº 6.015/73, art. 204). Esse procedimento - no qual inexiste ação, mas simples pedido, onde figuram interessados, e não partes, e em que não há lide, mas mera divergência entre o apresentante do título, que pretende o seu registro, e o Oficial registrador, que se recusa a efetuá-lo - apresenta-se destituído de caráter jurisdicional, não se ajustando, por isso mesmo, ao conceito constitucional de causa. - Não é qualquer decisão do Poder Judiciário que se expõe, na via do recurso extraordinário, ao controle jurisdicional do Supremo Tribunal Federal. Acham-se excluídos da esfera de abrangência do apelo extremo todos os pronunciamentos, que, embora formalmente oriundos do Poder Judiciário (critério subjetivo-orgânico), não se ajustam à noção de ato jurisdicional (critério material). - Conceito de causa: doutrina e jurisprudência do Supremo Tribunal Federal. (RE 254.497/ES, Rel. Min. CELSO DE MELLO, DJ de 18/2/2000).
+    No mesmo sentido: Rcl 19.119/SP, Rel. Min. LUIZ FUX, DJe de 30/1/2015; ARE 948.214/DF, Rel. Min. DIAS TOFFOLI, DJe de 4/3/2016; e AI 804.111/RJ, Min. EROS GRAU, DJe de 2/8/2010.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 5 de outubro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
