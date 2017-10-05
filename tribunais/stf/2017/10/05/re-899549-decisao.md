@@ -1,0 +1,28 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Tocantins que possui a seguinte ementa (Vol. 12):
+    MANDADO DE SEGURANÇA. APOSENTADORIA. PROPORCIONAL. PRETENSÃO DE PERCEPÇÃO DE PROVENTOS INTEGRAIS. DOENÇA IRREVERSÍVEL COMPROVADA. SEGURANÇA CONCEDIDA PARCIALMENTE.
+    1. Aposentadoria por invalidez pressupõe o fato gerador consubstanciado na invalidez permanente. No entanto, a comprovação de tal requisito, unicamente, não é suficiente à configuração ao direito aos proventos na forma integral, uma vez que, nos termos do que preconiza o art. 40, § 1º, inc. I, da Constituição Federal, reiterado na redação do art. 52, da Lei Estadual nº 1.614/2005, apenas as hipóteses de a invalidez ser decorrente de acidente em serviço, moléstia profissional, ou de doença grave, contagiosa ou incurável, especificada em lei, conduzem ao direito à percepção dos proventos integrais.
+    2. Ao que consta dos autos, a doença da impetrante é, além de incapacitante, irreversível, ou seja, incurável, restando satisfeito, pois, o requisito para o percebimento dos proventos na forma integral.
+    3. Concessão de efeitos patrimoniais pretéritos ao ajuizamento da ação mandamental encontram óbice nos preceitos do art. 14, § 4º, da Lei nº 12.016/09 e das Súmulas 269 e 271, do STF.
+    3. Segurança parcialmente concedida.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, o recorrente sustenta, em síntese, que o julgado ofendeu os artigos 7º, XXX, 37, I, e 39, § 2º, da Constituição Federal.
+    A Presidência da Turma Recursal, em razão do julgamento pelo Plenário desta Corte do mérito da repercussão geral reconhecida no RE 656.860-RG/MT, determinou o retorno dos autos para o devido juízo de retração, nos termos do artigo 543-B, § 3º, do CPC/1973, o qual foi realizado por acórdão que recebeu a seguinte ementa (Vol. 34):
+    MANDADO DE SEGURANÇA. APOSENTADORIA. PROPORCIONAL. PRETENSÃO DE PERCEPÇÃO DE PROVENTOS INTEGRAIS. DOENÇA IRREVERSÍVEL COMPROVADA. SEGURANÇA CONCEDIDA PARCIALMENTE.
+    1. Aposentadoria por invalidez pressupõe o fato gerador consubstanciado na invalidez permanente. No entanto, a comprovação de tal requisito, unicamente, não é suficiente à configuração ao direito aos proventos na forma integral, uma vez que, nos termos do que preconiza o art. 40, § 1º, inc. I, da Constituição Federal, reiterado na redação do art. 52, da Lei Estadual nº 1.614/2005, apenas as hipóteses de a invalidez ser decorrente de acidente em serviço, moléstia profissional, ou de doença grave, contagiosa ou incurável, especificada em lei, conduzem ao direito à percepção dos proventos integrais.
+    2. Ao que consta dos autos, a doença da impetrante é, além de incapacitante, irreversível, ou seja, incurável, restando satisfeito, pois, o requisito para o percebimento dos proventos na forma integral.
+    3. Concessão de efeitos patrimoniais pretéritos ao ajuizamento da ação mandamental encontram óbice nos preceitos do art. 14, § 4º, da Lei nº 12.016/09 e das Súmulas 269 e 271, do STF.
+    4. Segurança parcialmente concedida.
+    É o relatório. Decido.
+    O recurso merece provimento, senão vejamos.
+    O Juízo de origem ao exercer o juízo de readequação, previsto no artigo 543-B, § 3º, do CPC/1973, assim se manifestou sobre a controvérsia:
+    Dessa forma, conclui-se que toda doença que cause a invalidez conduz à aposentadoria, entretanto, apenas aquelas tidas como graves, contagiosas ou incuráveis; originadas em acidente de trabalho; ou profissionais, importam na concessão da aposentadoria com proventos integrais.
+    O “transtorno depressivo recorrente”, patologia a qual acomete a impetrante e a conduziu para a aposentadoria por invalidez, não consta da relação de doenças previstas no §2º, do art. 52, da Lei estadual nº 1.614/2005, e não obstante o laudo da junta médica pericial não indicar a gravidade da doença, atesta ser ela incurável, na medida em que declara a sua irreversibilidade.
+    Assim, verifica-se que o Tribunal a quo divergiu do entendimento firmado pelo Plenário desta Corte, quando do julgamento do mérito da repercussão geral reconhecida no RE 656.860-RG/MT, Rel. Min. TEORI ZAVASCKI, DJe de 18/09/2014, no sentido de que “a concessão de aposentadoria de servidor público por invalidez com proventos integrais exige que a doença incapacitante esteja prevista em rol taxativo da legislação de regência”, conforme se infere da ementa do julgado:
+    CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ COM PROVENTOS INTEGRAIS. ART. 40, § 1º, I, DA CF. SUBMISSÃO AO DISPOSTO EM LEI ORDINÁRIA. 1. O art. 40, § 1º, I, da Constituição Federal assegura aos servidores públicos abrangidos pelo regime de previdência nele estabelecido o direito a aposentadoria por invalidez com proventos proporcionais ao tempo de contribuição. O benefício será devido com proventos integrais quando a invalidez for decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, “na forma da lei”. 2. Pertence, portanto, ao domínio normativo ordinário a definição das doenças e moléstias que ensejam aposentadoria por invalidez com proventos integrais, cujo rol, segundo a jurisprudência assentada pelo STF, tem natureza taxativa. 3. Recurso extraordinário a que se dá provimento.
+    Diante do exposto, com base no art. 21, § 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, DOU PROVIMENTO ao Recurso Extraordinário para denegar a ordem.
+    Sem honorários. Súmula 512/STF.
+    Publique-se.
+    Brasília, 5 de outubro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
