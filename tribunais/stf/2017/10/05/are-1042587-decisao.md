@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Colégio Recursal da 11ª Circunscrição Judiciária de Pirassununga do Tribunal de Justiça do Estado de São Paulo (eDOC 2, p. 15), que manteve sentença que desconstituiu “o ato administrativo que determinou a suspensão do pagamento de pensão ao instituidor Carolino da Assunção Ramos à autora (…)” (eDOC 1, p. 130).
+    Os embargos de declaração foram rejeitados (e-DOC 2, pp. 40-43).
+    No recurso extraordinário, com fundamento no art. 102, III, “a” e “d”, do permissivo constitucional, aponta-se ofensa aos artigos 24, XII e § 4º; e 40, § 12, e 201, V, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que a superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrária, motivo pelo qual requer a reforma do acórdão recorrido que preteriu a aplicação da Lei Federal 9.717/1998 em benefício da Lei Estadual 452/1974.
+    A Presidência do Tribunal a quo inadmitiu o recurso por não estar suficientemente demonstrada a repercussão geral da matéria alegada no apelo extremo.
+    É o relatório. Decido.
+    O Tribunal de origem negou provimento ao recurso, confirmando os fundamentos da sentença proferida nos seguintes termos (e-DOC 1, pp. 126-128):
+    “(...) da análise dos documentos coligidos aos autos, verifico que a pensão foi concedida à autora em 24/3/06 (fls. 61), em decorrência do falecimento de seu pai, policial militar, quando estava em vigor a Lei Complementar nº 452/74, cujo art. 8º assim estabelecia: (…)
+    Como se vê, a pensão foi concedida à autora, por ato administrativo, de acordo com a Lei em vigor na data do óbito do instituidor.
+    Logo, não há que se falar em aplicação retroativa da Lei Complementar nº 1.013, de 06 de julho de 2007, que alterou o citado art. 8º, nos seguintes termos: (…)
+    Ademais disso, impende sobrelevar que a Lei Federal nº 9.717/98, cujo art. 5º estabeleceu que os Regimes de Previdência Social dos Servidores Públicos da União, dos Estados, Distrito Federal e dos Municípios, dos Militares dos Estados não poderão conceder benefícios distintos daqueles previstos no Regime Geral de Previdência Social (Lei nº 8.213, de 2 de julho de 1991), ressalvou expressamente disposição em contrário da Constituição Federal, nos seguintes termos: (…) ”
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo acórdão impugnado demandaria o exame da legislação local (Lei Estadual 425/1974), o que é obstado pela Súmula 280 do STF.
+    Na mesma linha, observa-se que o Tribunal de origem assentou seu entendimento também com base em norma infraconstitucional (Lei Federal 9.717/1998 e Lei Federal 8.213/1991), o que do mesmo modo inviabiliza o processamento do apelo extremo, por caracterizar eventual ofensa reflexa ao texto constitucional.
+    Sobre o tema:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.11.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido.” (ARE 877.864-AgR, Min. Rel. Rosa Weber, Primeira Turma, DJe 11.06.2015)
+    Especificamente sobre as referidas leis, cito os precedentes: ARE 967.724, Rel. Min. Celso de Mello, DJe 29.06.2011; ARE 976.422, Rel Min. Cármen Lúcia, DJe 28.06.2016; ARE 964.122, Rel. Min. Roberto Barroso, DJe 09.06.2016.
+    Ademais, o Supremo Tribunal Federal, no julgamento do RE 610.220, de relatoria da Ministra Ellen Gracie, concluiu pela inexistência de repercussão geral quanto ao mérito da controvérsia (Tema 271). Confira-se a ementa do julgado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. DIREITO À PENSÃO PARA FILHA SOLTEIRA MAIOR DE 21 ANOS. LEI ESTADUAL 7.672/82 DO RIO GRANDE DO SUL. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO ESTADUAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Por fim, ressalta-se que o acórdão recorrido não julgou válida lei local contestada em face de lei federal, o que não enseja a interposição do apelo extremo com base na alínea “d” do permissivo constitucional,
+    Ante o exposto, nego seguimento ao agravo, nos termos do artigo 21, § 1º, do RISTF.
+    Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários advocatícios fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 05 de outubro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
