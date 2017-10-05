@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio de Janeiro, está assim ementado:
+    “AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE FAZER. SERVIDORES DA FEEMA SUCEDIDA PELO INEA. OPÇÃO PELA TRANSMUTAÇÃO DO REGIME CELETISTA PARA O ESTATUTÁRIO. PRELIMINAR DE CERCEAMENTO DE DEFESA. REJEIÇÃO. DESNECESSIDADE DE SUSPENSÃO DO PROCESSO. MÉRITO. PRETENSÃO AUTORAL DE MANUTENÇÃO DO REAJUSTE EM SEUS VENCIMENTOS APÓS A ALTERAÇÃO DO REGIME JURÍDICO. IMPOSSIBILIDADE. MIGRAÇÃO DO REGIME CELETISTA PARA O ESTATUTÁRIO QUE DEU INÍCIO A UM NOVO CONTRATO.”
+    A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 7º e 39, § 2º, da Constituição da República.
+    Cabe salientar, desde logo, a propósito das alegadas violações à Constituição Federal, que a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. VANTAGEM OBTIDA POR SENTENÇA TRABALHISTA. PASSAGEM PARA O REGIME JURÍDICO ÚNICO. EFEITOS DA SENTENÇA TRABALHISTA LIMITADOS AO ADVENTO DA LEI Nº 8.112/1990. DIREITO ADQUIRIDO. INEXISTÊNCIA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTIGO 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. ACÓRDÃO RECORRIDO PUBLICADO EM 22.02.2011.
+    1. O entendimento adotado pela Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que diante da transposição do servidor público celetista para o regime estatutário, extinto em decorrência o contrato de trabalho, não há falar em direito adquirido a diferenças remuneratórias deferidas em decisão trabalhista.
+    2. Inexiste violação do artigo 93, IX, da Constituição Federal. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo constitucional exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento, dispensando o exame detalhado de cada argumento suscitado pelas partes.
+    3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    4. Agravo regimental conhecido e não provido.”
+    (ARE 808.607-AgR/RO, Rel. Min. ROSA WEBER)
+    “Embargos de declaração em recurso extraordinário. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Transposição do regime celetista para o estatutário. 4. Ausência de direito adquirido às vantagens do regime anterior. 5. Inexistência de argumentos suficientes para infirmar a decisão recorrida. 6. Agravo regimental a que se nega provimento.”
+    (RE 562.757-ED/SP, Rel. Min. GILMAR MENDES)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se, no ponto, à diretriz jurisprudencial que esta Suprema Corte estabeleceu na matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, VIII, e RISTF, art. 21, § 1º).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 05 de outubro de 2017.
+Ministro CELSO DE MELLO
+Relator
