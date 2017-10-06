@@ -1,0 +1,17 @@
+Art. 59-A. No processo de votação eletrônica, a urna imprimirá o registro de cada voto, que será depositado, de forma automática e sem contato manual do eleitor, em local previamente lacrado.
+Parágrafo único. O processo de votação não será concluído até que o eleitor confirme a correspondência entre o teor de seu voto e o registro impresso e exibido pela urna eletrônica.
+"Art. 73.
+VII - realizar, no primeiro semestre do ano de eleição, despesas com publicidade dos órgãos públicos federais, estaduais ou municipais, ou das respectivas entidades da administração indireta, que excedam a média dos gastos no primeiro semestre dos três últimos anos que antecedem o pleito;
+............................................................................" (NR)
+"Art. 93. O Tribunal Superior Eleitoral poderá, nos anos eleitorais, requisitar das emissoras de rádio e televisão, no período de um mês antes do início da propaganda eleitoral a que se refere o art. 36 e nos três dias anteriores à data do pleito, até dez minutos diários, contínuos ou não, que poderão ser somados e usados em dias espaçados, para a divulgação de comunicados, boletins e instruções ao eleitorado." (NR)
+"Art. 93-A. O Tribunal Superior Eleitoral, no período compreendido entre 1º de abril e 30 de julho dos anos eleitorais, promoverá, em até cinco minutos diários, contínuos ou não, requisitados às emissoras de rádio e televisão, propaganda institucional, em rádio e televisão, destinada a incentivar a participação feminina na política, bem como a esclarecer os cidadãos sobre as regras e o funcionamento do sistema eleitoral brasileiro." (NR)
+"Art. 94.
+§ 5º Nos Tribunais Eleitorais, os advogados dos candidatos ou dos partidos e coligações serão intimados para os feitos que não versem sobre a cassação do registro ou do diploma de que trata esta Lei por meio da publicação de edital eletrônico publicado na página do respectivo Tribunal na internet, iniciando-se a contagem do prazo no dia seguinte ao da divulgação." (NR)
+"Art. 96.
+§ 11. As sanções aplicadas a candidato em razão do descumprimento de disposições desta Lei não se estendem ao respectivo partido, mesmo na hipótese de esse ter se beneficiado da conduta, salvo quando comprovada a sua participação." (NR)
+"Art. 96-B. Serão reunidas para julgamento comum as ações eleitorais propostas por partes diversas sobre o mesmo fato, sendo competente para apreciá-las o juiz ou relator que tiver recebido a primeira.
+§ 1º O ajuizamento de ação eleitoral por candidato ou partido político não impede ação do Ministério Público no mesmo sentido.
+§ 2º Se proposta ação sobre o mesmo fato apreciado em outra cuja decisão ainda não transitou em julgado, será ela apensada ao processo anterior na instância em que ele se encontrar, figurando a parte como litisconsorte no feito principal.
+§ 3º Se proposta ação sobre o mesmo fato apreciado em outra cuja decisão já tenha transitado em julgado, não será ela conhecida pelo juiz, ressalvada a apresentação de outras ou novas provas."
+"Art. 100. A contratação de pessoal para prestação de serviços nas campanhas eleitorais não gera vínculo empregatício com o candidato ou partido contratantes, aplicando-se à pessoa física contratada o disposto na alínea h do inciso V do art. 12 da Lei nº 8.212, de 24 de julho de 1991.
+Parágrafo único. Não se aplica aos partidos políticos, para fins da contratação de que trata o caput, o disposto no parágrafo único do art. 15 da Lei nº 8.212, de 24 de julho de 1991." (NR)
