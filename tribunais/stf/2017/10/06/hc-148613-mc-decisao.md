@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Rafael da Silva Sousa, apontando como autoridade coatora o Superior Tribunal Militar, que negou provimento à Apelação nº 234-73.2016.7.11.0211/DF.
+    A impetrante sustenta, em síntese, que o paciente está sendo processado pelo crime de deserção (CPM, art. 187). Porém, o fato de ter sido desligado das fileiras das Forças Armadas, em virtude do término do período de serviço militar obrigatório, afasta “a condição de procedibilidade/prosseguibilidade para a persecução penal militar (...)”.
+    Requer o deferimento da liminar para suspender o andamento do processo-crime na origem.
+    No mérito, pleiteia a concessão da ordem a fim de
+    “extinguir a ‘Ação Penal Militar’ por perda da condição de procedibilidade/prosseguibilidade, caracterizando ilegitimidade passiva superveniente, em virtude do licenciamento que causou a perda do status de Militar da ativa”.
+    Examinado os autos, decido.
+    Transcrevo o teor do julgado questionado:
+    “APELAÇÃO. DESERÇÃO. ARTIGO 187 DO CPM. SENTENÇA A QUO QUE JULGOU EXTINTA, SEM RESOLUÇÃO DO MÉRITO, A AÇÃO PENAL MILITAR REFERENTE A DESERTOR.
+    Militar que se ausenta sem autorização por mais de oito dias de sua OM consumando a deserção, ocasionando sua exclusão do serviço ativo do Exército. Após apresentar-se voluntariamente, foi considerado apto para o serviço militar, reincluído ao serviço ativo e denunciado. Posteriormente, em face da notícia de que o Réu havia sido licenciado da Força, o Conselho Permanente de Justiça julgou extinto o processo sem resolução do mérito.
+    O licenciamento de militar não é abrangido pelas hipóteses legais previstas no CPPM de extinção do processo sem julgamento do mérito e, conforme entendimento majoritário desta Corte, não cria óbice ao prosseguimento da Ação Penal Militar.
+    Analisa-se a conduta do militar que cometeu o crime de deserção, devendo ser julgado e processado pelo ato que praticou, independente de sua condição de militar da ativa. Precedentes.
+    Recurso ministerial provido para cassar a Sentença recorrida e determinar a baixa dos autos ao Juízo de origem para o regular prosseguimento do feito. Maioria” (anexo 3).
+    Essa é a razão pela qual se insurge a impetrante neste writ.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação apresentada nos autos demonstrar manifesto constrangimento ilegal, o que se vislumbra na espécie.
+    No caso, reconheço a plausibilidade jurídica dos argumentos relativos à perda da “condição de procedibilidade/prosseguibilidade” da ação penal, à qual o paciente, que não mais integra as Forças Armadas, responde pelo crime de deserção (CPM, art. 187).
+    Com efeito, o entendimento do Superior Tribunal Militar a respeito da possibilidade de o paciente ser julgado e processado pelo crime de deserção, independente de sua condição de militar da ativa, contrasta, salvo melhor juízo, com o entendimento deste Supremo Tribunal, que já se manifestou no sentido de que “a condição de militar é necessária para ‘o prosseguimento da ação e, por conseguinte, para a execução da pena imposta pelo crime de deserção [CPPM 457, § 2º]’.” (RHC nº 138.449/DF-MC, Relator o Ministro Teori Zavascki, DJe de 6/12/16).
+    Perfilhando esse entendimento:
+    “HABEAS CORPUS. PENAL. PROCESSO PENAL MILITAR. DESERÇÃO (ART. 187 DO CÓDIGO PENAL MILITAR). LICENCIAMENTO A BEM DA DISCIPLINA. IMPOSSIBILIDADE DE EXECUÇÃO DA PENA. AUSÊNCIA DE CONDIÇÃO DE PROCEDIBILIDADE. ORDEM CONCEDIDA DE OFÍCIO. I - Paciente condenado pela prática do crime de deserção, que foi licenciado a bem da disciplina, não mais ostentando a qualidade de militar. Ausente, pois, condição de procedibilidade para o prosseguimento da ação e, por conseguinte, para a execução da pena imposta pelo crime de deserção. Precedentes. II – Ordem concedida de ofício” (HC nº 108.197/PR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/2/12);
+    “HABEAS CORPUS” – POLICIAL MILITAR - CRIME DE DESERÇÃO (CPM, ART. 187) – DELITO MILITAR EM SENTIDO PRÓPRIO – RÉU QUE NÃO DETINHA A QUALIDADE DE MILITAR DA ATIVA QUANDO DO RECEBIMENTO DA DENÚNCIA PELA JUSTIÇA MILITAR ESTADUAL – ESSENCIALIDADE DA CONDIÇÃO DE MILITAR DA ATIVA, NA HIPÓTESE DE CRIME DE DESERÇÃO, PARA EFEITO DE VÁLIDA INSTAURAÇÃO E/OU PROSSEGUIMENTO DA AÇÃO PENAL PROMOVIDA PERANTE A JUSTIÇA MILITAR – SÚMULA 12 DO SUPERIOR TRIBUNAL MILITAR – PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL – DOUTRINA – CONFIGURAÇÃO DE INJUSTO CONSTRANGIMENTO – INVIABILIDADE DO PROSSEGUIMENTO DA PERSECUÇÃO PENAL – EXTINÇÃO DEFINITIVA DO PROCESSO CRIMINAL INSTAURADO PERANTE A JUSTIÇA MILITAR - PEDIDO DEFERIDO” (HC nº 103.254/PR, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 13/4/11);
+    “HABEAS CORPUS. PROCESSO PENAL MILITAR. CRIME DE DESERÇÃO. PERDA DA CONDIÇÃO DE MILITAR ANTES DO JULGAMENTO DA APELAÇÃO PELO SUPERIOR TRIBUNAL MILITAR. AUSÊNCIA DE CONDIÇÃO DE PROCEDIBILIDADE. IMPOSSIBILIDADE DE SE PROSSEGUIR NA EXECUÇÃO DA PENA. 1. Em razão da ausência de condição de procedibilidade, o art. 457, § 2º, do Código de Processo Penal Militar e a Súmula n. 8 do Superior Tribunal Militar impedem a execução da pena imposta ao réu incapaz para o serviço ativo do Exército, que não detinha a condição de militar no ato de julgamento do recurso de apelação. 2. Ordem concedida” (HC nº 90.838/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 22/5/09).
+    Ante o exposto, sem prejuízo do reexame posterior da matéria, defiro a liminar para suspender o andamento da ação penal nº 23-73.2016.7.11.0211 na origem.
+    Comunique-se, solicitando informações ao Superior Tribunal de Justiça e à 2ª Auditoria da 11ª CJM.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 6 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
