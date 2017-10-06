@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto a parcial procedência da ação revisional de pensão por morte, assentando o direito da autora ao recebimento do benefício no patamar de 100% dos vencimentos do ex-servidor. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, cabeça, inciso XXXVI e 42, § 2º, da Constituição Federal. Alude ao percentual correspondente à 75% do vencimento do beneficiário, conforme previsto em legislação estadual.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    Eis a síntese do acórdão recorrido:
+    APELAÇÃO — Pensão por morte de policial militar — Falecimento do ex-servidor anterior à EC no 41/2003 e à Lei Complementar Estadual no 1.013/07 — Limitação da pensão ao valor correspondente a 75% dos vencimentos ou proventos — Inadmissibilidade — Inteligência do art. 26 da Lei Estadual no452/74 e do art. 40, § 5°, I, da CF/88, em sua redação original — Sentença de parcial procedência mantida — RECURSO DESPROVIDO, com observação.
+    A pensão por morte de policial militar deve corresponder à totalidade dos vencimentos ou proventos do servidor falecido, conforme a ordem normativa vigente e aplicável ao tempo do óbito, não prevalecendo sua limitação ao valor correspondente a 75% dos vencimentos , ou proventos, por aplicação de norma infraconstitucional (art. 26 da Lei Estadual no452/74) não recepcionada pela CF/88 (art. 40, § 51, em sua redação primitiva, autoaplicável) nem repristinada (anotado que o prescrito no art. 42, § 20, da CF/88, na redação da EC 41/03, dependente de regulamentação e o óbito antecede à Lei Complementar Estadual no 1.013/07).
+    À toda evidência, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 6 de outubro de de 2017.
+Ministro MARCO AURÉLIO
+Relator
