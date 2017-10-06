@@ -1,1 +1,0 @@
-Art. 48. O partido registrado no Tribunal Superior Eleitoral que não atenda ao disposto no art. 13 tem assegurada a realização de um programa em cadeia nacional, em cada semestre, com a duração de dois minutos.
