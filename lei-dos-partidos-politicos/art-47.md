@@ -1,1 +1,0 @@
-Art. 47. Para agilizar os procedimentos, condições especiais podem ser pactuadas diretamente entre as emissoras de rádio e de televisão e os órgãos de direção do partido, obedecidos os limites estabelecidos nesta Lei, dando-se conhecimento ao Tribunal Eleitoral da respectiva jurisdição.
