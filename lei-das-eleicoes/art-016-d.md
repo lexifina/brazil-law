@@ -1,0 +1,7 @@
+Art. 16-D. Os recursos do Fundo Especial de Financiamento de Campanha (FEFC), para o primeiro turno das eleições, serão distribuídos entre os partidos políticos, obedecidos os seguintes critérios:
+I - 2% (dois por cento), divididos igualitariamente entre todos os partidos com estatutos registrados no Tribunal Superior Eleitoral;
+II - 35% (trinta e cinco por cento), divididos entre os partidos que tenham pelo menos um representante na Câmara dos Deputados, na proporção do percentual de votos por eles obtidos na última eleição geral para a Câmara dos Deputados;
+III - 48% (quarenta e oito por cento), divididos entre os partidos, na proporção do número de representantes na Câmara dos Deputados, consideradas as legendas dos titulares;
+IV - 15% (quinze por cento), divididos entre os partidos, na proporção do número de representantes no Senado Federal, consideradas as legendas dos titulares.
+§ 1º (VETADO).
+§ 2º Para que o candidato tenha acesso aos recursos do Fundo a que se refere este artigo, deverá fazer requerimento por escrito ao órgão partidário respectivo.

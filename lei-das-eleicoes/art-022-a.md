@@ -1,3 +1,5 @@
 Art. 22-A. Os candidatos estão obrigados à inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ.
 § 1º Após o recebimento do pedido de registro da candidatura, a Justiça Eleitoral deverá fornecer em até 3 (três) dias úteis, o número de registro de CNPJ.
 § 2º Cumprido o disposto no § 1º deste artigo e no § 1º do art. 22, ficam os candidatos autorizados a promover a arrecadação de recursos financeiros e a realizar as despesas necessárias à campanha eleitoral.
+§ 3º Desde o dia 15 de maio do ano eleitoral, é facultada aos pré-candidatos a arrecadação prévia de recursos na modalidade prevista no inciso IV do § 4º do art. 23 desta Lei, mas a liberação de recursos por parte das entidades arrecadadoras fica condicionada ao registro da candidatura, e a realização de despesas de campanha deverá observar o calendário eleitoral.
+§ 4º Na hipótese prevista no § 3º deste artigo, se não for efetivado o registro da candidatura, as entidades arrecadadoras deverão devolver os valores arrecadados aos doadores.
