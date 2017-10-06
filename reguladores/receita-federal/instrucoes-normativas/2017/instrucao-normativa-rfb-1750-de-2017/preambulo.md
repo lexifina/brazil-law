@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1750, de 4 de outubro de 2017
+Altera a Instrução Normativa RFB nº 1.710, de 7 de junho de 2017, que dispõe sobre o parcelamento de débitos perante a Secretaria da Receita Federal do Brasil, relativos a contribuições previdenciárias de responsabilidade dos estados, do Distrito Federal e dos municípios, de que trata a Medida Provisória nº 778, de 16 de maio de 2017.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Lei nº 13.485, de 2 de outubro 2017, resolve:
