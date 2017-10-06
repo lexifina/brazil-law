@@ -1,0 +1,1 @@
+Art. 57-J. O Tribunal Superior Eleitoral regulamentará o disposto nos arts. 57-A a 57-I desta Lei de acordo com o cenário e as ferramentas tecnológicas existentes em cada momento eleitoral e promoverá, para os veículos, partidos e demais entidades interessadas, a formulação e a ampla divulgação de regras de boas práticas relativas a campanhas eleitorais na internet.
