@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sexta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AGRAVO REGIMENTAL
+    Previdência social. Pensionista designado de Professora de Educação Básica falecida. Prorrogação até conclusão de curso superior ou 25 anos de idade. Descabimento.
+    Matérias apreciadas de acordo com segura orientação jurisprudencial do Tribunal de Justiça de São Paulo quanto a cada uma delas. Ausência de fundamentos jurídicos para alteração do julgado.
+    Agravos não providos.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, 6º, 40, § 6º, e 205 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, uma vez que as instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente (Lei Complementar Estadual nº 180/78). Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Além disso, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 280/STF. Sobre o tema:
+    “DIREITO PREVIDENCIÁRIO. PENSÃO POR MORTE. PRORROGAÇÃO. ESTUDANTE UNIVERSITÁRIO. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. RECURSO MANEJADO EM 11.5.2016. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido” (ARE nº 957.362/SP-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 24/8/16).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. ESTUDANTE UNIVERSITÁRIO. PENSÃO ATÉ 24 ANOS. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO” (RE nº 586.893/CE-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 27/4/16).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo e Previdenciário. Pensão por morte concedida a estudante universitária com base na legislação estadual e sucessivas alterações. Discussão acerca de aplicação de legislação estadual superveniente e de preenchimento de requisitos pessoais. 4. Necessidade de prévia análise e interpretação da legislação infraconstitucional. 5. Ofensa reflexa. 6. Necessidade de revolvimento de fatos e provas. Óbice da Súmula 279. 7. Agravo regimental a que se nega provimento” (ARE nº 740.855/PE-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 25/11/13).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PENSÃO PREVIDENCIÁRIA. ESTUDANTE UNIVERSITÁRIO. PERCEPÇÃO DE BENEFÍCIO ATÉ OS 25 (VINTE E CINCO) ANOS DE IDADE. CASO EM QUE ENTENDIMENTO DIVERSO DO ADOTADO PELA INSTÂNCIA JUDICANTE DE ORIGEM EXIGIRIA O REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. SÚMULA 280/STF. 1. Eventual ofensa ao Magno Texto apenas ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via recursal extraordinária. 2. Agravo regimental desprovido” (AI nº 799.030/PE-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 28/4/11).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 6 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
