@@ -1,5 +1,6 @@
-Art. 57-C. Na internet, é vedada a veiculação de qualquer tipo de propaganda eleitoral paga.
+Art. 57-C. É vedada a veiculação de qualquer tipo de propaganda eleitoral paga na internet, excetuado o impulsionamento de conteúdos, desde que identificado de forma inequívoca como tal e contratado exclusivamente por partidos, coligações e candidatos e seus representantes.
 § 1º É vedada, ainda que gratuitamente, a veiculação de propaganda eleitoral na internet, em sítios:
 I - de pessoas jurídicas, com ou sem fins lucrativos;
 II - oficiais ou hospedados por órgãos ou entidades da administração pública direta ou indireta da União, dos Estados, do Distrito Federal e dos Municípios.
-§ 2º A violação do disposto neste artigo sujeita o responsável pela divulgação da propaganda e, quando comprovado seu prévio conhecimento, o beneficiário à multa no valor de R$ 5.000,00 (cinco mil reais) a R$ 30.000,00 (trinta mil reais).
+§ 2º A violação do disposto neste artigo sujeita o responsável pela divulgação da propaganda ou pelo impulsionamento de conteúdos e, quando comprovado seu prévio conhecimento, o beneficiário, à multa no valor de R$ 5.000,00 (cinco mil reais) a R$ 30.000,00 (trinta mil reais) ou em valor equivalente ao dobro da quantia despendida, se esse cálculo superar o limite máximo da multa.
+§ 3º O impulsionamento de que trata o caput deste artigo deverá ser contratado diretamente com provedor da aplicação de internet com sede e foro no País, ou de sua filial, sucursal, escritório, estabelecimento ou representante legalmente estabelecido no País e apenas com o fim de promover ou beneficiar candidatos ou suas agremiações.
