@@ -5,6 +5,7 @@ III - a realização de prévias partidárias e a respectiva distribuição de m
 IV - a divulgação de atos de parlamentares e debates legislativos, desde que não se faça pedido de votos;
 V - a divulgação de posicionamento pessoal sobre questões políticas, inclusive nas redes sociais;
 VI - a realização, a expensas de partido político, de reuniões de iniciativa da sociedade civil, de veículo ou meio de comunicação ou do próprio partido, em qualquer localidade, para divulgar ideias, objetivos e propostas partidárias.
+VII - campanha de arrecadação prévia de recursos na modalidade prevista no inciso IV do § 4º do art. 23 desta Lei.
 § 1º É vedada a transmissão ao vivo por emissoras de rádio e de televisão das prévias partidárias, sem prejuízo da cobertura dos meios de comunicação social.
 § 2º Nas hipóteses dos incisos I a VI do caput, são permitidos o pedido de apoio político e a divulgação da pré-candidatura, das ações políticas desenvolvidas e das que se pretende desenvolver.
 § 3º O disposto no § 2º não se aplica aos profissionais de comunicação social no exercício da profissão.
