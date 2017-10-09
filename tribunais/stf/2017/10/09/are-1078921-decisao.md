@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à procedência do pedido de aposentadoria especial, observadas a paridade e a integralidade, aludindo ao preenchimento dos requisitos estabelecidos na legislação de regência. No extraordinário cujo trânsito busca alcançar, a recorrente alega violado o artigo 40, § 1º, § 3º, § 4º, 8º e § 17, da Constituição Federal. Alude às Emendas Constitucionais nº 41/03 e nº 47/05, afirmando a inexistência do direito pleiteado.
+    2. Atentem para o momento da formalização, para fins de incidência da norma processual. A publicação da decisão atacada mediante o extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil, sendo a protocolação do recurso regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    A Lei Complementar Federal nº 51/85 já definia regra especial de aposentadoria do policial civil, estabelecendo que este poderá se aposentar,voluntariamente, com trinta (trinta) anos de serviço, desde que conte com pelo menos trinta anos de contribuição e vinte anos de exercício de atividade estritamente policial, se homem (artigo 1º, II, a).
+    No Estado de São Paulo, foi promulgada a Lei Complementar nº 1.062, de 13 de novembro de 2008, a qual estabelece critérios diferenciados para fins de concessão de aposentadoria aos integrantes da carreira da polícia civil a que se referem as Leis Complementares nºs 492/86 e 494/86.
+    O mencionado texto legal fixou as regras especiais para fins de aposentadoria voluntária do policial civil, determinando que esta poderá ser atendida, e preenchidos, cumulativamente, os requisitos de idade (55 anos para homens, e 50 anos para mulheres), tempo de contribuição (30 anos) e tempo de efetivo exercício no cargo de natureza estritamente policial (20 anos para homens) (art. 2º), sendo que, para aqueles que ingressaram na carreira antes da vigência da Emenda Constitucional nº 41, de 19 de dezembro de 2003, não é exigido o requisito de idade.
+    A discussão tratada nos autos diz respeito ao direito da parte autora à paridade e integralidade dos vencimentos com os servidores da ativa,sem aplicação da média salarial da Lei 10.887/04.
+    [...]
+    A Lei 10.887/04 não se aplica ao policial civil ou militar, até porque a Lei Complementar Federal nº 144, de 15 de maio de 2014, é expressa no sentido de que o servidor público policial será aposentado:
+    […]
+    Assim, era mesmo caso de se declarar o direito da parte autora à aposentadoria especial voluntária, com base na Lei nº 51/85 e Lei Complementar Paulista nº 1062/2008, com integralidade (correspondente à totalidade da remuneração da impetrante no cargo efetivo em que se der a aposentadoria), bem como à paridade de vencimentos.
+    À toda evidência, a decisão impugnada mediante o extraordinário revela a análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Ante o quadro, conheço do agravo e o desprovejo. Fixo os honorários recursais em R$ 400,00 (quatrocentos reais), nos termos do artigo 85, § 11, do Código de Processo Civil.
+    4. Publiquem.
+Brasília, 9 de outubro de 2017.
+Ministro MARCO AURÉLIO
+Relator
