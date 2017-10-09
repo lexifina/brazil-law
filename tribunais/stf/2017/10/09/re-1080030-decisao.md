@@ -1,0 +1,18 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP contra acórdão que, complementado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “REGISTRO DE REVENDEDOR VAREJISTA. PORTARIA 116/00 DA ANP. PODER DE POLÍCIA PAUTADO PELAS DIRETRIZES DA LEI Nº 9.478/97.
+    A autorização dada à agência reguladora e fiscalizadora da indústria do petróleo e derivados, inclusive a relativa à autorização da atividade de comércio a varejo de combustíveis e lubrificantes para veículos automotores pressupõe que as restrições procedidas devem estar relacionadas com os objetivos previstos no artigo 1º da Lei nº 9.478/97, os quais concernem à segurança e à proteção do consumidor e do meio ambiente, da garantia do abastecimento e da livre concorrência, princípios que não se relacionam com o pagamento de débitos para com a Agência.
+    Reformada a sentença no que tange ao quantum fixado a título de honorários advocatícios.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 9.478/97 e Portaria ANP nº 116/2000), o que torna incognoscível o apelo extremo.
+    Cabe registrar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo em questão revela-se processualmente inviável.
+    Impõe-se observar, finalmente, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 807.370/RS, Rel. Min. CÁRMEN LÚCIA – RE 1.070.946/RS, Rel. Min. EDSON FACHIN, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 09 de outubro de 2017.
+Ministro CELSO DE MELLO
+Relator
