@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Câmara Cível do Tribunal de Justiça do Estado da Paraíba, assim ementado, no que interessa:
+    “AGRAVO INTERNO. APELAÇÃO CÍVEL INTERPOSTA PELA PARTE AUTORA. ADICIONAL DE INSALUBRIDADE. EXISTÊNCIA DE LEI ESPECÍFICA A REGULAMENTAR O PAGAMENTO DO BENEFÍCIO. PERÍODO ANTERIOR À VIGÊNCIA DA NORMA REGULAMENTADORA. APLICAÇÃO ANALÓGICA DAS NORMAS TRABALHISTAS. IMPOSSIBILIDADE. PAGAMENTO RESTRITO AO PERÍODO EM QUE A NORMA INSTITUIDORA OBTEVE EFICÁCIA PLENA DECORRENTE DA REGULAMENTAÇÃO PELA LEI POSTERIOR. PIS/PASER INSCRIÇÃO DO SERVIDOR PÚBLICO. INDENIZAÇÃO DEVIDA EM RAZÃO DA OMISSÃO DO MUNICÍPIO. MODIFICAÇÃO DA SENTENÇA APENAS NESSE PONTO. JUROS E CORREÇÃO MONETÁRIA. REGRA DO ART. 1°-F DA LEI N° 9.494/97, COM REDAÇÃO DADA PELA LEI N° 11.960/09. INCIDÊNCIA DO DISPOSITIVO ATE ULTERIOR DELIBERAÇÃO DO STF. APLICAÇÃO DO ART. 557,1°- A, DO CPC. PROVIMENTO PARCIAL. DESPROVIMENTO.
+    (…). ”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do artigo 7º, inciso XXIII, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, uma vez que o acórdão recorrido está em sintonia com a jurisprudência desta Corte que no julgamento do RE n° 169.173/SP, Relator o Ministro Moreira Alves, a Primeira Turma proferiu decisão no sentido de que para haver implantação do adicional de insalubridade para os servidores civis é necessário que o respectivo ente federado (União, Estado e Município) edite lei específica regulamentando-o. O referido julgado está assim ementado:
+    “Servidor público. Adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei. Art. 7º, XXIII, da Constituição Federal. - O artigo 39, § 2º, da Constituição Federal apenas estendeu aos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios alguns dos direitos sociais por meio de remissão, para não ser necessária a repetição de seus enunciados, mas com isso não quis significar que, quando algum deles dependesse de legislação infraconstitucional para ter eficácia, essa seria, no âmbito federal, estadual ou municipal, a trabalhista. Com efeito, por força da Carta Magna Federal, esses direitos sociais integrarão necessariamente o regime jurídico dos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios, mas, quando dependem de lei que os regulamente para dar eficácia plena aos dispositivos constitucionais de que eles decorrem, essa legislação infraconstitucional terá de ser, conforme o âmbito a que pertence o servidor público, da competência dos mencionados entes públicos que constituem a federação. Recurso extraordinário conhecido, mas não provido”.
+    Nesse mesmo sentido, as seguintes decisões monocráticas que tratam especificamente do tema em questão: ARE nº 1.032.767/PB, Relator o Ministro Luiz Fux, DJe de 30/3/17; ARE nº 1.029.321/PB, Relator o Ministro Gilmar Mendes, DJe de 27/3/17; ARE nº 846.593/PB, Relatora a Ministra Cármen Lúcia, DJe de 19/11/14; ARE nº 781.809/PB, Relator o Ministro Roberto Barroso, DJe de 19/9/14.
+    Registre-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 9 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
