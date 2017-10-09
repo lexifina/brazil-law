@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL.  PENAL E PROCESSO PENAL. CRIME TIPIFICADO NO ARTIGO 89 DA LEI 8.666/1993. ALEGADA VIOLAÇÃO AOS ARTIGOS 5º, LV E LVII, E 37, XXI, DA CONSTITUIÇÃO FEDERAL. APELO EXTREMO INTEMPESTIVO. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos, interposto por JOSÉ AMÉRICO REPISO E SILVA, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “APELAÇÃO. PREFEITO MUNICIPAL – DISPENSA INDEVIDA DE LICITAÇÃO – EMPRESA COM FINS LUCRATIVOS E COM QUESTIONÁVEL REPUTAÇÃO ÉTICO-PROFISSIONAL – PROCURADOR DO MUNICÍPIO – MANIFESTAÇÃO EM PARECER – INVIOLABILIDADE – INTELIGÊNCIA DO ART. 133 DA CF E DO ART. 2º, § 3º, DO ESTATUTO DA ADVOCACIA.
+    1) Prefeito Municipal que contrata sem licitação, empresa de Brasília, do ramo de informática, de propriedade de co-denunciado, que alardeava não ter fins lucrativos e inquestionável reputação ético-profissional, muito embora o custo elevado de seus produtos, acima dos preços de mercado. Licitação que não poderia ter sido dispensada, tendo em vista que a aludida instituição não se enquadra no inc. XIII do art. 24 da lei 8.666. Negado provimento às apelações do Prefeito Municipal e do Diretor Presidente da empresa. Parcialmente provida a apelação do Secretário Municipal, para reduzir a pena-base ao mínimo legal.
+    2) Procurador do Município que emite parecer sobre dispensa de licitação não comete o delito do art. 89 da lei de licitações. O advogado é inviolável pelas manifestações exaradas no exercício de sua profissão, nos termos do art. 133, da Constituição da República e do art. 2º, § 3º do Estatuto da Advocacia (Lei nº 8.906/04). Provida a apelação de réu Procurador do Município, para absolvê-lo.”(Doc. 18, fl. 25)
+    Os embargos de declaração opostos foram desprovidos (doc. 18, fl. 70).
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, LV e LVII, e 37, XXI, da Constituição Federal.
+    Argumenta que “a sentença e o Acórdão impugnado ferem o princípio da presunção de inocência, tendo em vista que não há nos autos provas que sustentem a condenação do réu.” (Doc. 22, fl. 4)
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entendê-lo intempestivo (doc. 22, fls. 61-62).
+    É o relatório. DECIDO.
+    Da análise dos autos, verifica-se que o recurso extraordinário é intempestivo. O acórdão recorrido foi publicado em 15/8/2011 (doc. 18, fl. 75), sendo que a petição de recurso extraordinário somente foi recebida pelo protocolo do Tribunal a quo no dia 31/8/2011 (doc. 18, fl. 76 e doc. 21, fl. 93), após decorrido o prazo para a sua interposição.
+    Destaco que esta Corte já firmou entendimento no sentido de que a data a ser considerada para se aferir a tempestividade do recurso é aquela do efetivo ingresso da petição no protocolo do tribunal, sendo irrelevante a data da postagem do recurso nos Correios. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO NOS PRÓPRIOS AUTOS. MATÉRIA PROCESSUAL CIVIL. PETIÇÃO ENCAMINHADA POR MEIO DO SERVIÇO DE POSTATAGEM DA EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS ECT. AGRAVO REGIMENTAL INTEMPESTIVO. 1. Nos termos da jurisprudência desta Casa de Justiça, a tempestividade do recurso é de ser aferida pela data de protocolo da petição na Secretaria deste Tribunal e não pela data de postagem na Empresa Brasileira de Correios e Telégrafos ECT. Precedentes. 2. Agravo regimental não conhecido.” (ARE 702.331-AgR/RS, Rel. Min. Ayres Britto, Plenário, DJe 30/11/2012)
+    Registre-se, por sua relevância, que a tempestividade constitui requisito recursal de admissibilidade indispensável, razão pela qual o recorrente deve observar as regras previstas no Código de Processo Penal e, subsidiariamente, o Código de Processo Civil.
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 9 de outubro de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
