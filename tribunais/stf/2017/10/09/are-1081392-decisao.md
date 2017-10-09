@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 150, IV, “a”, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao art. 150, VI, “a”, da Constituição da República. Nesse sentido:
+    “Ementa: DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ISS. IMUNIDADE TRIBUTÁRIA. REQUISITOS PARA O RECONHECIMENTO DA IMUNIDADE. REEXAME DO ACERVO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279/STF. VINCULAÇÃO DOS BENS OU RENDAS ÀS FINALIDADES ESSENCIAIS. ÔNUS DA PROVA. 1. O Tribunal de origem, ao apreciar a controvérsia, consignou que a parte recorrida preencheu todos os requisitos legais para o reconhecimento da imunidade tributária. Para firmar entendimento diverso, seria imprescindível o reexame da legislação infraconstitucional e do acervo fático-probatório dos autos, providência vedada em sede de recurso extraordinário. A hipótese atrai a incidência da Súmula 279/STF. Precedentes. 2. A jurisprudência do Supremo Tribunal Federal entende que não cabe à entidade demonstrar que utiliza seus bens ou rendas de acordo com suas finalidades institucionais. Ao contrário, compete à Administração tributária demonstrar a eventual tredestinação do bem ou da atividade gravados pela imunidade. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.”
+(ARE 1010350 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/06/2017, PROCESSO ELETRÔNICO DJe-173 DIVULG 04-08-2017 PUBLIC 07-08-2017)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ISS. IMUNIDADE. ALCANCE. FINALIDADES ESSENCIAIS. 1. A discussão acerca do alcance da imunidade tributária para fins de incidência de ISS cinge-se ao âmbito infraconstitucional e depende do reexame de fatos e provas para se determinar quais serviços relacionam-se com as atividades essenciais da Agravante. 2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC.”
+(ARE 976060 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 02/05/2017, PROCESSO ELETRÔNICO DJe-111 DIVULG 25-05-2017 PUBLIC 26-05-2017)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 09 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
