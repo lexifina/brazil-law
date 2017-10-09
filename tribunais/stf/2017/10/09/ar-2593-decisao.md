@@ -1,0 +1,23 @@
+Decisão: Trata-se de ação rescisória ajuizada por Marli Ribeiro de Oliveira em face da Light – Serviços de Eletricidade S/A., com o objetivo de rescindir o entendimento firmado no julgamento pela 2ª Turma Recursal dos Juizados Especiais Cíveis do Tribunal de Justiça do Rio de Janeiro (processo n. 0001059-35.2016.8.19.0203)
+    É o breve relato. Passo a decidir.
+    Esta Corte é manifestamente incompetente para apreciar o feito, a teor do disposto no art. 259 do RISTF, in verbis:
+    “Art. 259. Caberá ação rescisória de decisão proferida pelo Plenário ou por Turma do Tribunal, bem assim pelo Presidente, nos casos previstos na lei processual”.
+    Inicialmente, frise-se que inexiste qualquer decisão proferida por integrante deste Supremo Tribunal Federal.
+    Apesar de a autora não ter anexado documentos à inicial, pela pesquisa no sítio eletrônico do TJRJ, extrai-se que a decisão da inadmissibilidade do recurso extraordinário foi proferida pela Vice-Presidência daquele Tribunal em 18.11.2016, com baixa definitiva em 23.1.2017, não havendo qualquer insurgência posterior perante esta Suprema Corte.
+    A recorrente pretende, na verdade, rescindir acórdão de Turma Recursal de Juizado Especial do Tribunal de Justiça do Rio de Janeiro, conforme se depreende da análise da inicial, de tal forma que resta clara a incompetência desta Corte Suprema para a apreciar a presente ação rescisória.
+    Transcreva-se trecho da exordial:
+    “A presente ação tem por objeto rescindir a decisão prolatada pelo juízo da 2º Turma Recursal, em Recurso Inominado o sob o número 0001059-35.2016.8.19.0203 (2016.700.548166-9), já transitado em julgado, conforme documento em anexo, onde foram litigantes as partes supra qualificadas
+    (…)
+    No entanto, em decisão publicada em 22 de novembro de 2016, o recurso foi negado, por entender que as alegadas violações dos artigos 5º, LV e LIV, e 7º, XV, da CRFB/88 existissem, seriam reflexas, vez que necessariamente precedidas de afronta a dispositivo de legislação infraconstitucional.” (grifo no original).
+    A petição inicial desenvolve tese de nulidade do acórdão proferido pela 2ª Turma Recursal de Juizado Especial do Tribunal de Justiça do Rio de Janeiro por diversos fundamentos, não se insurgindo no mérito quanto a eventual pronunciamento do Supremo Tribunal Federal, tornando incognoscível a presente demanda nesta Corte.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NA AÇÃO RESCISÓRIA. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO PEDIDO, POR MANIFESTAMENTE INCABÍVEL. MANUTENÇÃO DA DECISÃO QUE DESOBRIGOU OS AGRAVADOS DO RECOLHIMENTO DO IMPOSTO SOBRE TRANSMISSÃO INTER VIVOS DE BENS IMÓVEIS - ITBI - PELO SISTEMA DE ALÍQUOTAS PROGRESSIVAS. LEI MUNICIPAL PAULISTA N. 11.154/91. 1. Alegada existência de anterior decisão favorável ao agravante e que lhe fora favorável, com trânsito em julgado e objeto de novo mandado de segurança com resultado divergente. Matéria que o Agravante deixou de alegar no momento processual adequado, conforme destacou a decisão rescindenda. Preclusão. 2. A ação rescisória não se presta a nova análise das questões julgadas no acórdão rescindendo. Precedentes. 3. A competência rescisória deste Supremo Tribunal Federal para processar e julgar ação rescisória restringe-se aos casos em que ela é ajuizada contra os seus próprios julgados. A pretensão rescindenda deveria ter sido interposta contra o julgado do Tribunal Estadual Paulista. súmula 515 do Supremo Tribunal Federal. 4. Agravo regimental ao qual se nega provimento”. (AR-AgR 1778, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 20.8.2010, grifo nosso)
+    Com efeito, a competência para o julgamento do feito é do Tribunal estadual de origem, conforme preceitua a Constituição Federal, no seu art. 125, § 1º, da CF.
+    Segundo doutrina alemã, o Postulado Kompetenz-Kompetenz promana que todo juiz tem competência para analisar sua própria competência, de forma que nenhum juiz é totalmente incompetente pois, ao verificar sua incompetência absoluta, tem atribuição para reconhecê-la.
+    Esclareço que eventual óbice de cabimento de ação rescisória, em sede de processo submetido ao rito sumaríssimo, deve ser analisado pelo órgão do Poder Judiciário competente para apreciar a demanda, qual seja, Tribunal de Justiça do Rio de Janeiro.
+    Ante o exposto, não conheço da presente ação rescisória por manifesta incompetência desta Corte e determino a remessa dos autos ao Tribunal de Justiça do Rio de Janeiro, por reputá-lo competente para apreciar a demanda (art. 21, § 1º, do RISTF), deixando de apreciar a medida liminar (art. 61, §§1º e 3º, do CPC).
+    Publique-se. Intime-se.
+    Brasília, 9 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
