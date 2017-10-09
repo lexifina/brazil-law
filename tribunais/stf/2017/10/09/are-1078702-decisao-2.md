@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de origem confirmou o entendimento do Juízo quanto à condenação do réu pela prática dos crimes previstos nos artigos 33, cabeça, observada a causa de aumento do inciso V do artigo 40, e 35, cabeça, da Lei nº 11.343/2006. No extraordinário cujo trânsito busca alcançar, Abnadábio Gomes dos Santos alega violados os artigos 5º, inciso XII, e 93, inciso IX, da Constituição Federal. Aponta a nulidade da interceptação telefônica realizada, no que desrespeitado o requisito da excepcionalidade. Afirma contrariado o previsto no artigo 4º da Lei nº 9.296/96. Diz inidônea a fundamentação lançada na fixação da pena.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, consignando as razões por meio das quais fixada a sanção penal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Feitas tais considerações, no caso, observa-se que os requisitos contidos na Lei nº 9.296/1996 foram devidamente atendidos, de forma que as interceptações telefônicas figuram como provas legítimas.
+    As decisões que determinaram as interceptações das conversas telefônicas e de dados, bem assim aquelas que autorizaram as respectivas prorrogações restaram devidamente fundamentadas, conforme se nota pelas decisões de fls. 42/45, 70/73, 123/129, 419/424, 454/462, 565/573, 632/638, 472/750, 863/872 e 1004/1011, do processo nº 2010.01.1.149941-5 (processo em apenso).
+    […]
+    Desse modo, o que se percebe é que antes da quebra de sigilo, a autoridade policial conseguiu reunir elementos que indicavam fortes indícios do cometimento de crime de tráfico de drogas e de associação para tráfico chefiado pelos réus HENRIQUE (Duda) e ANTÔNIO FIGUEIREDO (Bozó), sendo que durante o monitoramento foi possível se aferir também a participação dos demais acusados.
+    A indispensabilidade da medida também restou comprovada diante da dificuldade em se obter provas com os métodos tradicionais de investigação, sobretudo considerando o comportamento dissimulado e sub-reptício empregado pelos agentes. Igualmente, o fato de que os envolvidos se comunicavam via telefone público e pessoalmente. Assim, não poderia se apurar a conduta criminosa de outra maneira.
+    Ora, somente pela análise das provas constantes do processo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, sobretudo a Lei nº 9.296/96, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo interposto por Abnadábio Gomes dos Santos e o desprovejo.
+    4. Publiquem.
+Brasília, 9 de outubro de 2017.
+Ministro MARCO AURÉLIO
+Relator
