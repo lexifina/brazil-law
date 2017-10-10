@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98423, de 4 de outubro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3923.21.90 Mercadoria: Bolsa plástica, transparente ou aluminizada, em formato de "almofada", constituída por filmes de polietileno de baixa densidade, podendo apresentar diversos tipos de tampas de vedação e de bocais, válvulas ou mangueiras para enchimento asséptico e esvaziamento, utilizada no acondicionamento e transporte de produtos líquidos ou pastosos, com capacidade superior a 1 litro e inferior ou igual a 1.200 litros. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 39.23), RGI 6 (Nota de subposições 1 do Capítulo 39 e textos das subposições de primeiro nível 3923.2 e de segundo nível 3923.21) e RGC 1 (texto do item 3923.21.90) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016.
+.
+[arquivo anexo: SC Cosit nº 98.423-2017 .pdf]
