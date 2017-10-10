@@ -1,0 +1,17 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Vara Plantão da Comarca de Tupã/SP, no processo nº 0000204-24.2017.8.26.0592, converteu a prisão em flagrante do paciente, ocorrida no dia 1º de setembro de 2017, em preventiva, ante o suposto cometimento da infração descrita no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Consignou necessária a custódia para garantir a ordem pública e a aplicação da lei penal, aludindo à notícia de que o paciente estaria promovendo o comércio ilegal de entorpecentes.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 417.122/SP, indeferido liminarmente.
+    O impetrante sustenta ser o caso de afastamento do verbete nº 691 da Súmula do Supremo. Alega a inidoneidade do ato por meio qual convertido o flagrante, tendo-o como calcado na gravidade abstrata do delito. Destaca a excepcionalidade da prisão no ordenamento jurídico pátrio. Cita precedentes do Supremo nesse sentido, referindo-se à declaração de inconstitucionalidade do artigo 44 da Lei nº 11.343/2006, no que vedava a liberdade provisória. Anota a desproporcionalidade da constrição, salientando tratar-se de paciente primário, com ocupação lícita e bons antecedentes. Aponta ofensa ao artigo 312 do Código de Processo Penal. Evoca o princípio da não culpabilidade, a viabilizar a imposição de medida cautelar alternativa.
+    Requer, no campo precário e efêmero, a revogação da preventiva, com expedição de alvará de soltura. No mérito, busca a confirmação da providência.
+    Em consulta ao sítio do Tribunal estadual, em 7 de outubro de 2017, constatou-se que o Juízo da Vara Criminal de Tupã/SP indeferiu pedido de liberdade provisória, presente a gravidade do delito, afirmando-o hediondo e causador de desassossego e instabilidade social.
+    A etapa é de apreciação da medida acauteladora.
+    2. A leitura do ato que implicou a preventiva revela haver sido considerada a imputação. Inexiste a custódia automática tendo em conta o delito supostamente cometido, levando à inversão da ordem do processo-crime, que direciona, presente o princípio da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. Os argumentos alusivos à preservação da ordem pública e ao risco à aplicação da lei penal devem revelar dado concreto, individualizado. Fora isso é a suposição do excepcional, do extravagante, o que não justifica a preventiva. Ao indeferir a liberdade provisória, o Juízo frisou tratar-se de crime hediondo, responsável pelo desassossego social. A hediondez do delito e os malefícios do tráfico surgem como elementos neutros, insuficientes a respaldarem a constrição da liberdade. A preventiva deve fazer-se balizada no artigo 312 do Código de Processo Penal. Tem-se a insubsistência das premissas lançadas.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre preso por motivo diverso da preventiva formalizada no processo nº 0000204-24.2017.8.26.0592, da Vara Criminal da Comarca de Tupã/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 10 de outubro de 2017.
+Ministro MARCO AURÉLIO
+Relator
