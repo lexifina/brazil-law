@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98421, de 2 de outubro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 2106.90.90 Mercadoria: Preparação alimentícia, em pó, com cerca de 25 g de matéria proteica por 29,2 g do produto, constituída por proteínas de soro de leite isoladas hidrolisadas, aromas naturais e artificiais, sal, sucralose, extrato de stevia e lecitina de soja, apresentada em embalagem PET de 3 libras (1.342 gramas). DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 21.06), RGI 6 (texto da subposição 2106.90) e RGC 1 (texto do item 2106.90.90) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.421-2017 .pdf]
