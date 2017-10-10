@@ -1,0 +1,11 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL — Mandado de Segurança - ISS - Protesto de CDA — Município de Campinas — Possibilidade — Meio extrajudicial de satisfação de crédito conferido aos entes federados pelo parágrafo único do art. 10 da Lei 9.494/1997, introduzido pela Lei 12.767/2012, que autoriza expressamente o protesto de certidões de dívida ativa — Entendimento consolidado pelo STJ — Precedentes desta 15a Câmara de Direito Público — Sentença mantida - Recurso não provido. ”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XIII; 170, III; e 174 da Carta.
+    De início verifico que o ao art. 174 da Constituição, não foi objeto do acórdão recorrido e nem dos embargos declaratórios opostos, de modo que a referida matéria não está prequestionada.
+    Quanto aos demais artigos constitucionais supostamente violados, a pretensão recursal não merece melhor sorte, tendo em vista que o acórdão recorrido está alinhado com a jurisprudência desta Corte, que já declarou a constitucionalidade do protesto de CDA como meio eficaz e proporcional de cobrança de débitos fiscais. Assentou que o parágrafo único do art. 1º da Lei nº 9.492/1997, inserido pela Lei 12.767/2012, que inclui as Certidões de Dívida Ativa - CDA no rol dos títulos sujeitos a protesto, é compatível com a Constituição Federal, tanto do ponto de vista formal quanto material, nos termos do julgamento da ADI 5.135, de minha relatoria, ocasião em que foi firmada a seguinte tese: “O protesto das Certidões de Dívida Ativa constitui mecanismo constitucional e legítimo, por não restringir de forma desproporcional quaisquer direitos fundamentais garantidos aos contribuintes e, assim, não constituir sanção política.”
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 10 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
