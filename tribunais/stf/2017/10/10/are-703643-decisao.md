@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL. ATIVIDADES INSALUBRES. ARTIGO 40, § 4º, III, DA CONSTITUIÇÃO DA REPÚBLICA. INEXISTÊNCIA DE LEI COMPLEMENTAR. LEGITIMIDADE DA APLICAÇÃO DO ARTIGO 57 DA LEI FEDERAL 8.213/1991, PARA POSSIBILITAR A ANÁLISE PELA ADMINISTRAÇÃO PÚBLICA DO REQUERIMENTO DE APOSENTADORIA ESPECIAL, ATÉ O ADVENTO DA LEGISLAÇÃO ESPECÍFICA. PRECEDENTES. SÚMULA VINCULANTE 33. AGRAVO PROVIDO PARA, DESDE LOGO, PROVER O RECURSO EXTRAORDINÁRIO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma da decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “SERVIDOR PÚBLICO ESTADUAL. Atividade insalubre. Aposentadoria especial. Inadmissibilidade. Inexistência de Lei Complementar. Inteligência dos artigos 40, § 4°, da Constituição Federal e 126, § 1º , da Constituição Estadual. Improcedência da ação mantida. Recurso não provido.” (Vol. 2 – fl. 59)
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, afirma que o entendimento adotado pelo Tribunal de origem – para não reconhecer o direito do recorrente à aposentadoria especial pelo exercício de atividade em local insalubre – viola o disposto nos artigos 1º, III e IV, 39, § 1º e I e III, e 40, § 4°, III, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta (vol. 2 – fls. 89-90).
+    É o relatório. DECIDO.
+    O agravo merece prosperar.
+    O Supremo Tribunal Federal reconheceu a mora legislativa do Presidente da República para regulamentar o artigo 40, § 4º, III, da Constituição Federal e concluiu ser legítima a aplicação do artigo 57 da Lei Federal 8.213/1991, com o fim específico de viabilizar a análise de requerimento de aposentadoria especial formulado por servidor público que exerce suas atividades em condições insalubres, até o advento de legislação específica sobre a matéria. Nesse sentido, à guisa de exemplo, foram os seguintes acórdãos do Plenário desta Corte:
+    “MANDADO DE INJUNÇÃO - NATUREZA. Conforme disposto no inciso LXXI do artigo 5º da Constituição Federal, conceder-se-á mandado de injunção quando necessário ao exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Há ação mandamental e não simplesmente declaratória de omissão. A carga de declaração não é
+objeto da impetração, mas premissa da ordem a ser formalizada.
+    MANDADO DE INJUNÇÃO - DECISÃO - BALIZAS. Tratando-se de processo subjetivo, a decisão possui eficácia considerada a relação jurídica nele revelada.
+    APOSENTADORIA - TRABALHO EM CONDIÇÕES ESPECIAIS - PREJUÍZO À SAÚDE DO SERVIDOR - INEXISTÊNCIA DE LEI COMPLEMENTAR - ARTIGO 40, § 4º, DA CONSTITUIÇÃO FEDERAL. Inexistente a disciplina específica da aposentadoria especial do servidor, impõe-se a adoção, via pronunciamento judicial, daquela própria aos trabalhadores em geral - artigo 57, § 1º, da Lei nº 8.213/91.” (MI 721, Rel. Min. Marco Aurélio, DJe de 30/11/2007, grifos meus)
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE INJUNÇÃO. SERVIDORA PÚBLICA. ATIVIDADES EXERCIDAS EM CONDIÇÕES DE RISCO OU INSALUBRES. APOSENTADORIA ESPECIAL. § 4º DO ART. 40 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE LEI COMPLEMENTAR. MORA LEGISLATIVA. REGIME GERAL DA PREVIDÊNCIA SOCIAL.
+    1. Ante a prolongada mora legislativa, no tocante à edição da lei complementar reclamada pela parte final do § 4º do art. 40 da Magna Carta, impõe-se ao caso a aplicação das normas correlatas previstas no art. 57 da Lei nº 8.213/91, em sede de processo administrativo.
+    2. Precedente: MI 721, da relatoria do ministro Marco Aurélio.
+    3. Mandado de injunção deferido nesses termos.” (MI 788, Rel. Min. Ayres Britto, DJe de 8/5/2009, grifos meus)
+    Assevere-se, por fim, que esta Suprema Corte já pacificou a questão, ao editar a Súmula Vinculante 33, cujo cumprimento se revela obrigatório por parte da Administração Pública, in verbis:
+    “Aplicam-se ao servidor público, no que couber, as regras do Regime Geral de Previdência Social sobre aposentadoria especial de que trata o artigo 40, parágrafo 4º, inciso III, da Constituição Federal, até edição de lei complementar específica.” (Grifos meus)
+    Ex positis, PROVEJO o agravo e, com fundamento no disposto no artigo 932, V, do CPC/2015, DOU PROVIMENTO ao recurso extraordinário, para o fim específico de garantir ao recorrente o direito de ter o seu pedido de verificação de preenchimento dos requisitos para a aposentadoria especial analisados pela Administração Pública, nos termos da Súmula Vinculante 33. Invertidos os ônus da sucumbência.
+    Publique-se
+    Brasília, 10 de outubro de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
