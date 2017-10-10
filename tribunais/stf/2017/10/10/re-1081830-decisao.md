@@ -1,0 +1,23 @@
+Vistos etc.
+    Contra acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, maneja recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, o Ministério Público Estadual, sob o argumento de que restou deficiente a fundamentação do cálculo da pena aplicada ao réu Edglayson Ray Garcia Pereira. Aparelhado o recurso na afronta ao art. 93, IX, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    O Juízo a quo, confirmando a sentença de primeiro grau, manteve a condenação do réu em acórdão assim ementado:
+    "PENAL. PROCESSUAL. TRÁFICO DE ENTORPECENTES. PORTE ILEGAL DE ARMA DE FOGO. COMPROVAÇÃO. DOSIMETRIA DA PENA. APELAÇÃO CRIMINAL.
+    1. Não carece de fundamentação a sentença condenatória que, em percuciente análise da hipótese, faz expressa referência ao conjunto fático-probatório dos autos, sopesando corretamente a prova em Juízo produzida.
+    2. Devidamente comprovadas a autoria e a materialidade do crime, a condenação do autor é medida que se impõe.
+    3. Fixada a pena após devidamente avaliadas as circunstâncias judiciais pertinentes, é de se ter satisfatória e adequada a resposta penal dada ao caso concreto.
+    4. Apelação Criminal conhecida, mas não provida.”
+    Nada colhe o recurso.
+    Da leitura dos fundamentos do acórdão prolatado na origem, constato explicitados os motivos de decidir, a afastar o vício da nulidade por negativa de prestação jurisdicional arguido. Destaco que, no âmbito técnico-processual, o grau de correção do juízo de valor emitido na origem não se confunde com vício ao primado da fundamentação, notadamente consabido que a disparidade entre o resultado do julgamento e a expectativa da parte não sugestiona lesão à norma do texto republicano. Colho precedente desta Suprema Corte na matéria, julgado segundo a sistemática da repercussão geral:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG, Relator Ministro Gilmar Mendes, Plenário Virtual, DJe 13.8.2010)
+    A análise efetuada pelo Tribunal a quo enfrentou o conjunto probatório para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTROVÉRSIA DECIDIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. O recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constante dos autos. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Agravo regimental a que se nega provimento.” (ARE 800369 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 19/08/2014, PROCESSO ELETRÔNICO DJe-170 DIVULG 02-09-2014 PUBLIC 03-09-2014)
+    "RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. AGRAVO – ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL – MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.” (AI 744656 AgR, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, julgado em 21/08/2012, ACÓRDÃO ELETRÔNICO DJe-174 DIVULG 03-09-2012 PUBLIC 04-09-2012)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
