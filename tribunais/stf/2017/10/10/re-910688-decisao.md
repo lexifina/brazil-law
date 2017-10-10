@@ -1,0 +1,17 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o acórdão proferido pela 5ª Turma Recursal dos Juizados Especiais Federais do Estado do Rio Grande do Sul teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o apelo extremo em questão não se revela viável.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Leis nºs 7.713/88 e 12.350/2010), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 910.630/RS, Rel. Min. LUIZ FUX – RE 928.735/RS, Rel. Min. ROSA WEBER – RE 928.998/RS, Rel. Min. ROBERTO BARROSO – RE 972.281/RS, Rel. Min. DIAS TOFFOLI – RE 982.496/RS, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOA FÍSICA. RENDIMENTOS PAGOS EM ATRASO E ACUMULATIVAMENTE EM RELAÇÃO A ANOS-CALENDÁRIOS ANTERIORES A 2010. LEI Nº 12.350/2010. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA ISONOMIA. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/1973.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. O entendimento adotado no acórdão de origem não diverge da jurisprudência firmada no Supremo Tribunal Federal, segundo a qual não cabe ao Poder Judiciário, com fundamento no princípio da isonomia, estender benefício fiscal a hipótese não contemplada na legislação de regência. Precedentes.
+    3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    4. Agravo regimental conhecido e não provido.“
+    (RE 910.900-AgR/RS, Rel. Min. ROSA WEBER)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11 do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 10 de outubro de 2017.
+Ministro CELSO DE MELLO
+Relator
