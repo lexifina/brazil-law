@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98406, de 25 de setembro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8517.70.99 Mercadoria: Tela de cristal líquido (LCD) com adesivo sensível ao toque e conector para utilização única e exclusiva em telefone móvel inteligente, sem chip processador de comando, apresentada em "case" de proteção de plástico duro e embalada em caixa de papelão. DISPOSITIVOS LEGAIS: RGI 1 c/c Nota 2 b da Seção XVI (texto da posição 85.17), RGI 6 (texto da subposição 8517.70) e RGC 1 (textos do item 8517.70.9 e do subitem 8517.70.99) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.406-2017 .pdf]
