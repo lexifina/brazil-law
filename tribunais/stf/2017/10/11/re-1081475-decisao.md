@@ -1,0 +1,9 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela União contra acórdão confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, no qual sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário em questão revela-se insuscetível de conhecimento, eis que incide, na espécie, a Súmula 284/STF.
+    É que a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de proclamar a incognoscibilidade do recurso extraordinário, sempre que as razões em que se apoiar a petição recursal não permitirem a exata compreensão do pleito deduzido pela parte recorrente, eis que, em tal se verificando, registrar-se-á hipótese de “deficiência da fundamentação” do apelo extremo, apta a impedir o próprio conhecimento dessa modalidade recursal, considerados, para tanto, os termos da Súmula 284/STF (RTJ 86/629, Rel. Min. ANTONIO NEDER – RTJ 125/675, Rel. Min. NÉRI DA SILVEIRA – AI 136.360-AgR/DF, Rel. Min. MOREIRA ALVES – AI 211.083-AgR/MG, Rel. Min. NELSON JOBIM – AI 266.752-AgR/RJ, Rel. Min. NÉRI DA SILVEIRA – AI 564.302-AgR/AM, Rel. Min. JOAQUIM BARBOSA – AI 716.193-AgR/SP, Rel. Min. AYRES BRITTO – AI 740.146-AgR-AgR/RN, Rel. Min. CEZAR PELUSO – AI 844.459- -AgR/SP, Rel. Min. LUIZ FUX – AI 855.359-AgR/AM, Rel. Min. JOAQUIM BARBOSA – ARE 652.233-AgR/RN, Rel. Min. CÁRMEN LÚCIA – ARE 656.022-AgR/SE, Rel. Min. RICARDO LEWANDOWSKI – RE 235.694-AgR/DF, Rel. Min. SEPÚLVEDA PERTENCE, v.g.).
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 11 de outubro de 2017.
+Ministro CELSO DE MELLO
+Relator
