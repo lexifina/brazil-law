@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – AGRAVO DESPROVIDO.
+    1. O Tribunal Superior do Trabalho negou provimento a agravo interposto contra decisão negativa de seguimento ao recurso de revista aludindo, em síntese, à respectiva inviabilidade. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, incisos XXXV, e XXXVI, 7º, inciso XXVI, e 93, inciso IX, da Constituição Federal. Discorre sobre o tema de fundo, sustentando invalidade do acordo coletivo voltado a estabelecer condições para adesão ao plano de cargos e salários.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    Uma vez em jogo controvérsia sobre cabimento de recurso da competência de Corte diversa, a via do extraordinário só é aberta quando o acórdão proferido revela tese contrária a texto da Carta da República. Isso não ocorreu na espécie.
+    Eis a síntese da decisão recorrida:
+    AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. NULIDADE DO ACÓRDÃO PROFERIDO PELO TRIBUNAL REGIONAL DO TRABALHO POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. O reclamante não apresenta argumentos novos capazes de desconstituir a juridicidade da decisão monocrática que denegou seguimento ao agravo de instrumento, uma vez que o recurso de revista não observou pressuposto intrínseco capitulado no art. 896 da CLT. O Tribunal Regional do Trabalho, no acórdão impugnado, não violou o art. 93, IX, da Constituição Federal, pois a prestação jurisdicional foi entregue na medida da pretensão deduzida, contendo as premissas fáticas e jurídicas necessárias ao desate da controvérsia, ainda que a decisão seja contrária aos interesses da parte. Agravo a que se nega provimento.
+    Em momento algum, foi adotado entendimento conflitante com a Constituição Federal. A alegação de ofensa ao Diploma Maior apenas visa a deslocar o processo ao Supremo, mostrando-se de todo imprópria.
+    A par desse aspecto, no recurso extraordinário nº 598.365/MG, da relatoria do ministro Ayres Britto, o denominado Plenário Virtual, assentando a natureza infraconstitucional da matéria, concluiu pela inexistência de repercussão geral do tema relativo ao cabimento de recursos da competência dos demais tribunais.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 11 de outubro de 2017.
+Ministro MARCO AURÉLIO
+Relator
