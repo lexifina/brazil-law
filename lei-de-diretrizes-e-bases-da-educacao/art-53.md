@@ -9,10 +9,12 @@ VII - firmar contratos, acordos e convênios;
 VIII - aprovar e executar planos, programas e projetos de investimentos referentes a obras, serviços e aquisições em geral, bem como administrar rendimentos conforme dispositivos institucionais;
 IX - administrar os rendimentos e deles dispor na forma prevista no ato de constituição, nas leis e nos respectivos estatutos;
 X - receber subvenções, doações, heranças, legados e cooperação financeira resultante de convênios com entidades públicas e privadas.
-Parágrafo único. Para garantir a autonomia didático-científica das universidades, caberá aos seus colegiados de ensino e pesquisa decidir, dentro dos recursos orçamentários disponíveis, sobre:
+§ 1º Para garantir a autonomia didático-científica das universidades, caberá aos seus colegiados de ensino e pesquisa decidir, dentro dos recursos orçamentários disponíveis, sobre:
 I - criação, expansão, modificação e extinção de cursos;
 II - ampliação e diminuição de vagas;
 III - elaboração da programação dos cursos;
 IV - programação das pesquisas e das atividades de extensão;
 V - contratação e dispensa de professores;
 VI - planos de carreira docente.
+§ 2º As doações, inclusive monetárias, podem ser dirigidas a setores ou projetos específicos, conforme acordo entre doadores e universidades.
+§ 3º No caso das universidades públicas, os recursos das doações devem ser dirigidos ao caixa único da instituição, com destinação garantida às unidades a serem beneficiadas.
