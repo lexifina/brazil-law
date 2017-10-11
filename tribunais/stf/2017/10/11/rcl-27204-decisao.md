@@ -1,0 +1,23 @@
+Decisão:
+Ementa: CRIMINAL.RECLAMAÇÃO. PRECEDENTES SEM EFEITOS VINCULANTES. NEGATIVA DE SEGUIMENTO.
+1. A reclamação perante o Supremo Tribunal Federal só é cabível para (i) evitar usurpação de sua competência, (ii) preservar a autoridade de suas decisões vinculantes e (iii) garantir a observância de súmulas vinculantes.
+2. Os precedentes invocados não são dotados de efeitos vinculantes, o que afasta de plano o cabimento da reclamação.
+3. Reclamação a que se nega seguimento.
+    1.  Trata-se de reclamação proposta em face de ato da 2º Câmara Criminal do Tribunal de Justiça de Goiás, que, ao não intimar a defesa do reclamante, supostamente, afrontou a autoridade de decisões desta Corte.
+    2.  O reclamante sustenta, em síntese, que a defesa não foi intimada da sessão de julgamento da ação de habeas corpus impetrado perante o Tribunal de Justiça de Goiás, embora houvesse pedido expresso neste sentido. Ao assim proceder, no entender do reclamante, a autoridade reclamada violou a autoridade do Supremo Tribunal Federal, notadamente quanto ao decidido nos HC 108014, RHC 116691 e RHC 122615.
+    3.  Requer-se a nulidade do julgamento do acórdão no Habeas Corpus nº 8938-65.2017.8.09.0000 (201790089387).
+          É o relatório. Decido.
+    4.  De início, pontuo que a reclamação dirigida a esta Corte só é cabível quando se sustenta usurpação de sua competência, ofensa à autoridade de suas decisões ou contrariedade a Súmula vinculante (CF/88, arts. 102, I, l , e 103-A, § 3º). Em particular, o Plenário já assentou que a cassação ou revisão das decisões dos juízes contrárias à orientação firmada em sede de repercussão geral hão de ser feitas pelo tribunal a que estiverem vinculados, pela via recursal ordinária. Nada autoriza ou aconselha que se substituam as vias recursais ordinária e extraordinária pela reclamação (Rcl 10.793/SP, Rel.ª Min.ª Ellen Gracie). No mesmo sentido: Rcl 9.302 AgR/PE, Rel. Min. Dias Toffoli; Rcl 12.600 AgR/SP, Rel. Min. Ricardo Lewandowski.
+    5.  Verifico que os precedentes invocados pelo reclamante como parâmetros para a presente reclamação são os seguintes: HC 108014, RHC 116691 e RHC 122615 . Contudo, tais precedentes são processos de índole subjetiva, das quais o reclamante não foi parte, além de serem desprovidos de eficácia erga omnes ou efeitos vinculantes, o que afasta o cabimento da reclamação.
+    6.  Nesse sentido, a jurisprudência do Supremo Tribunal Federal. Veja-se:
+    “RECLAMAÇÃO - ALEGADO DESRESPEITO A DECISÕES PROFERIDAS PELO SUPREMO TRIBUNAL FEDERAL EM PROCESSOS DE ÍNDOLE SUBJETIVA, VERSANDO CASOS CONCRETOS NOS QUAIS A PARTE RECLAMANTE NÃO FIGUROU COMO SUJEITO PROCESSUAL - INADMISSIBILIDADE - INADEQUAÇÃO DO EMPREGO DA RECLAMAÇÃO COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL - EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO - PRECEDENTES - RECURSO DE AGRAVO IMPROVIDO.
+    Não se revela admissível a reclamação quando invocado, como paradigma, julgamento do Supremo Tribunal Federal proferido em processo de índole subjetiva que versou caso concreto no qual a parte reclamante sequer figurou como sujeito processual. Precedentes.
+    Não cabe reclamação quando utilizada com o objetivo de fazer prevalecer a jurisprudência desta Suprema Corte, em situações nas quais os julgamentos do Supremo Tribunal Federal não se revistam de eficácia vinculante, exceto se se tratar de decisão que o STF tenha proferido em processo subjetivo no qual haja intervindo, como sujeito processual, a própria parte reclamante.
+    O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. […].” (Rcl 4.381 AgR/RJ, Rel. Min. Celso de Mello)
+    7.   Confiram-se, ainda: Rcl 4.119 AgR/BA, Rel.ª Min.ª Cármen Lúcia; Rcl 5.391 AgR, Rel. Min. Dias Toffoli.
+    8.  É importante esclarecer que não se trata de afirmar o acerto ou desacerto do ato reclamado, mas tão somente de assentar que a reclamação não é o meio processual adequado para aferir violação à precedente não vinculante desta Corte. Nada obstante, pontuo que, a meu ver, os precedentes desta Corte, formalmente vinculantes ou não, devem ser respeitados por todos os juízes e Tribunais. Porém, eventual afronta à precedentes não vinculantes desta Corte devem ser arguida na via processual própria.
+    9.  Diante do exposto, nos termos do art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    Publique-se. Int..
+          Brasília, 11 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
