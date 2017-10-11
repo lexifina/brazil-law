@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem, reformando parcialmente o entendimento do juízo, julgou improcedentes os embargos à execução, assentando o direito do segurado ao recebimento das parcelas atrasadas do benefício previdenciário concedido judicialmente, relativas ao período de 24/11/1993 a 22/07/1996. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violados os artigos 5º, incisos XXXV e LV, 93, inciso IX, 195, § 5º, 201, § 7º, da Constituição Federal. Sustenta a impossibilidade de execução parcial do título, tendo em vista a opção do segurado por benefício mais vantajoso concedido administrativamente em data posterior.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    No presente caso, houve opção pelo benefício concedido na esfera administrativa, com renda mensal mais favorável. Todavia, remanesce o direito de receber as parcelas atrasadas referentes ao benefício judicial, tendo em vista as diferentes datas de concessão dos benefícios.
+    Assim, se o exequente recebeu administrativamente o benefício de aposentadoria por tempo de contribuição desde 23.07.1996, mas obteve judicialmente o direito ao recebimento do mesmo benefício a partir de 24.11.1993, cabe a execução das prestações devidas entre a concessão judicial e a administrativa, ou seja, entre 24.11.1993 e 22.07.1996, consoante cálculo elaborado pela Autarquia de fl.46 e conferido pelo Contador deste Gabinete.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    À toda evidência, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 11 de outubro de 2017.
+Ministro MARCO AURÉLIO
+Relator
