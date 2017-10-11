@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região.
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, a parte recorrente sustenta, em síntese, que o julgado ofendeu os arts. 146, II e 150, § 6º, 195, caput e § 7º, da CF/1988.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do recurso extraordinário.
+    Ademais, o Tribunal de origem, em sede de agravo legal em apelação, ratificou decisão monocrática, assentando, com base na legislação infraconstitucional pertinente, estar o Serviço Social da Indústria – SESI abrangido pela imunidade tributária relativa às contribuições sociais, especificamente à COFINS.
+    Conforme a jurisprudência desta CORTE, a matéria em questão não alcança estatura constitucional, razão pela qual eventual ofensa à Constituição Federal seria meramente indireta. Nesse sentido:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. SERVIÇO SOCIAL DA INDÚSTRIA – SESI. REQUISITOS LEGAIS PARA CONCESSÃO DE IMUNIDADE TRIBUTÁRIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.(RE 771.001-AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 11/11/2013)
+    Confiram-se também as seguintes decisões monocráticas proferidas em casos análogos: AI 714.987, Rel. Min. ROSA WEBER, DJe de 1º/10/2015; RE 883.650, Rel. Min. DIAS TOFFOLI, DJe de 3/8/2015; e RE 985.496, Rel. Min. CELSO DE MELLO, DJe de 23/08/2016.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 11 de outubro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
