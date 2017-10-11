@@ -1,0 +1,24 @@
+Decisão: Trata-se de reclamação constitucional com pedido liminar, ajuizada por Leonardo Derzi Resende, contra ato do Tribunal Regional Federal da 4ª Região, com fundamento na alegação de descumprimento ao julgado no HC 138.488/RS, por esta Segunda Turma.
+    Em suas razões o reclamante, alega que a “8ª Turma do Tribunal Regional Federal da 4ª Região além de descumprir literalmente o acórdão proferido por esta C. Suprema Corte no writ n. 138.488/RS, que determinou a prioridade no julgamento do recurso de Apelação interposto pelo ora Reclamante, por indícios de constrangimento ilegal por excesso de prazo ocasionados pelo aparelho estatal, feriu frontalmente o princípio da razoabilidade da duração do processo, insculpido na Constituição Federal” ( eDOC 1, p. 5)
+    Ao final, requer a a procedência da reclamação para revogar a prisão cautelar do reclamante diante do descumprimento do acórdão do HC 138.488.
+    Nas informações constantes do site do TRF 4ª Região, a autoridade reclamada informou que a referida apelação foi levada a julgamento em 12.07.2017, observando a prazo de quatro sessões sucessivas.
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    Em consulta ao sitio eletrônico do Tribunal Regional Federal da 4ª Região, o Desembargador Federal Victor Luiz dos Santos Laus informa o seguinte:
+    “Em atenção ao Ofício n. 18967/2017, dirijo-me a Vossa Excelência a fim de prestar informações no bojo da Medida Cautelar na Reclamação n. 27908, referente ao Habeas Corpus 138.488/RS, impetrado perante essa Corte em favor do paciente LEONARDO DERZI RESENDE (réu preso).
+    No julgamento do referido Habeas Corpus 138.488/RS, em 13-6-2017, foi determinada a esta Corte Regional o julgamento prioritário da Apelação Criminal 5054993-08.2014.404.7100, a qual versa sobre tráfico internacional de entorpecentes, organização criminosa e associação para o tráfico, envolvendo o julgamento de 17 corréus no âmbito da denominada Operação Suçuarana.
+    A Apelação Criminal em epígrafe foi inserida na pauta de julgamentos da Oitava Turma do Tribunal Regional Federal da 4ª Região na data de 12-7-2017, contando o sequencial número 07 (evento 106 dos autos), restando observado o prazo de quatro sessões sucessivas estabelecido para esse fim no decisum antes referido.
+    Na sessão de 12-07-2017 efetivamente foi iniciado o julgamento da Operação Suçuarana, com apresentação de relatório e oitiva das sustentações orais, após o que esta Relatoria indicou o adiamento do processo para apreciação das teses apresentadas pelas defesas a partir da Tribuna. Ainda, na ocasião, a Turma deliberou pela continuidade do julgamento no dia 09-8-2017, a partir de sugestão de data formulada por seu Presidente, em vista da impossibilidade técnica de seguimento nas sessões imediatamente posteriores, especialmente em face de outros julgamentos complexos aprazados, em especial, aqueles decorrentes da Operação Lava Jato. Destaca-se que os advogados presentes à solenidade (aí incluído o defensor de LEONARDO DERZI RESENDE) foram intimados acerca da data de continuidade da sessão de julgamento - 09-08-2017 - e nada opuseram ao Colegiado a esse respeito.
+    Em 09-08-2017, como estabelecido, esta Relatoria levou a Apelação Criminal 5054993-08.2014.404.7100 a julgamento em mesa, tendo apresentado seu voto, no que foi acompanhado, com acréscimo pontual de fundamentação, pelo Desembargador Federal João Pedro Gebran Neto. O Desembargador Federal Leandro Paulsen exerceu a prerrogativa regimental de pedido de vista (art. 174-A do RITRF4). Na sessão imediatamente seguinte, em 16-9-2017, os autos foram apresentados em mesa pelo Desembargador Federal Leandro Paulsen, o qual também apresentou seu voto escrito, tendo o Colegiado concluído o julgamento, o qual restou assim ementado:
+    (…)
+    A presente ação criminal encontra-se atualmente em fase de intimação das partes acerca do julgamento proferido por esta Oitava Turma.
+    Por fim, informo que a chave de acesso aos autos, que permite a visualização de toda a movimentação processual neste Regional é 225211725316.
+    Em face do exposto, e esperando ter atendido o quanto nos foi solicitado, renovamos a Vossa Excelência nossas expressões de real apreço e distinta consideração.”
+    Conforme se observa na espécie, não verifico descumprimento da decisão proferida por esta Segunda Turma (HC 138.488/RS), apta a ensejar o conhecimento e provimento da presente reclamação ( art. 102, I, “l”, da Constituição Federal)
+    Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
