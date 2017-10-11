@@ -1,0 +1,27 @@
+Trata-se de reclamação, com pedido de liminar, proposta pela União, contra decisão proferida em 6/7/2016 nos autos da ação ordinária 0020846-69.2016.4.01.3700, pelo Juízo da 5ª Vara Federal da Seção Judiciária do Estado do Maranhão.
+    Consta dos autos que o Estado do Maranhão ajuizou ação ordinária em face da União, pleiteando a anulação de ato normativo editado pelo Ministério da Saúde.
+    O decisum atacado declarou a nulidade da Portaria 1.105/GM/MS, de 1° de junho de 2016, do Ministério da Saúde, repristinando os efeitos da Portaria 961/GM/MS, de 10 de maio de 2016.
+    A reclamante alega, em síntese, a existência de conflito federativo com densidade suficiente para abalar o pacto federativo e a consequente usurpação de competência desta Suprema Corte, uma vez que
+    “[...] a Portaria n° 961, de 10 de maio de 2016, do Ministério da Saúde, que se pretende restabelecer, foi editada na mesma época que outras Portarias, com o mesmo fim, a exemplo: Portaria n° 960/2016 (Estado de Minas Gerais e Município de São Lourenço), Portaria n° 962/2016 (Estado de Maranhão e Município de Tuntum), Portaria n° 1004/2016 (Estado de Minas Gerais e Município de Belo Horizonte), e Portaria n° 1006/2016 (Estado de São Paulo e Município de Cubatão).
+    Todas as portarias mencionadas foram suspensas pelo Ministério da Saúde, de modo que a decisão reclamada está, por via transversas, fazendo juízo de conveniência e oportunidade de política pública, beneficiando o Maranhão em detrimento de outros Estados e Municípios.
+    Nítido, pois, o potencial da ação de abalo no pacto federativo, sobretudo porque envolve discussão em torno da repartição de recursos no Sistema Único de Saúde. Com efeito, não há sistema que mais demande uma concertação interfederativa do que o SUS” (pág. 5 do documento eletrônico 1).
+    Requer, ao final, a suspensão liminar dos efeitos da decisão ora impugnada e, no mérito, a sua cassação, “com a consequente determinação de remessa dos autos para esse Supremo Tribunal Federal” (pág. 8 do documento eletrônico 1).
+    Em 22/2/2017, solicitei informações e abri vista dos autos à Procuradoria-Geral da República. Conforme documento eletrônico 21, foi certificado que as informações não foram recebidas.
+    A Procuradoria-Geral da República opinou pela procedência da reclamação (documento eletrônico 22).
+    Posteriormente, a União atravessou a Petição 42.821/2017 - STF, na qual informa que
+    “[...] a decisão impugnada na presente Reclamação, a qual concedera a tutela antecipada ao Estado do Maranhão, a União também interpôs agravo de instrumento, ao qual foi atribuído efeito suspensivo (decisão anexa). Tal recurso ainda não foi definitivamente julgado.
+    Ainda no bojo do processo originário, a União aduziu a incompetência da Justiça Federal para processar e julgar o feito, reiterando a fundamentação expendida na inicial da presente Reclamação no sentido da competência originária do STF, presente o conflito federativo.
+    Com efeito, a preliminar de incompetência suscitada pela União foi acolhida pelo Juízo da 5" Vara Federal do Maranhão, sendo determinada a remessa daqueles autos ao STF [...]” (pág. 2 do documento eletrônico 24; grifei).
+    Ao final, conclui que:
+    “Nesse contexto, evidencia-se a prejudicialidade desta reclamação constitucional, por perda superveniente do interesse de agir da União, a ensejar a extinção do feito sem resolução do mérito.
+    Todavia, tendo em vista a citada norma contida no § 4° do art. 64 do CPC/20 15, a União requer, por cautela, caso acolhida a argumentação ora exposta, que, antes de extinta a presente Reclamação, seja declarada, de forma expressa, por essa Suprema Corte, a nulidade da decisão atacada (por incompetência absoluta), determinando-se, por consequência, a extinção dos seus efeitos” (pág. 4 do documento eletrônico 24; grifei).
+    Registre-se, ainda, que, nos documentos eletrônicos 28 e 29, é possível constatar que a decisão aqui atacada já não subsiste.
+    Desse modo, as alegadas violações colacionadas nestes autos restaram superadas, levando-se em consideração o exame do agravo de instrumento, ao qual foi atribuído efeito suspensivo, nos seguintes termos:
+    “Defiro o pleito de atribuição de efeito suspensivo ao agravo, por identificar, em juízo de cognição sumária, próprio dos juízos liminares, a presença dos requisitos estabelecidos no artigo 995 do Código de Processo Civil. São relevantes os fundamentos deduzidos no arrazoado recursal, seja no que dizem com os efeitos praticamente satisfativos da providência determinada pelo ato jurisdicional impugnado, seja no que diz com a afirmada existência de mera expectativa de direito na hipótese em causa, resultante da revogação de ato discricionário sem indícios de desvio de finalidade ou abuso de poder, podendo advir à agravante, até o julgamento do recurso, dano irreparável ou de difícil reparação” (documento eletrônico 29; grifei).
+    Certifico, assim, por motivo inconteste, a perda do objeto da reclamação.
+    Sobre o requerimento final, para que seja declarada a nulidade da decisão atacada, entendo que nada há a prover, ante a inutilidade da medida, haja vista que a decisão acima transcrita, proferida no âmbito do Tribunal regional, suspendeu expressamente os efeitos da decisão guerreada.
+    Isso posto, julgo prejudicada a presente reclamação, por perda superveniente de objeto (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 11 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
