@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “RECURSO INOMINADO. SERVIDOR PÚBLICO ESTADUAL APOSENTADO. FÉRIAS NÃO GOZADAS QUANDO DA PASSAGEM À INATIVIDADE. PLEITO INDENIZATÓRIO – POSSIBILIDADE. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE – ART. 7º, XVII E ART. 39, § 3º, DA CONSTITUIÇÃO FEDERAL DE 1988. DIREITO ADQUIRIDO – ART. 5º, XXXVI, CF E ART. 6º, § 2º DA LINDB. VEDAÇÃO AO LOCUPLETAMENTO INDEVIDO PELO ENTE ESTATAL (ART. XXIII, DUDH) – DEVER DE INDENIZAR. OBSERVÂNCIA DO ANO CIVIL PARA O CÔMPUTO DO PERÍODO. BASE DE CÁLCULO DA CONDENAÇÃO – VALOR BRUTO DA REMUNERAÇÃO RECEBIDA NO MÊS ANTERIOR A INSERÇÃO Á INATIVIDADE. ACRÉSCIMO LEGAL DO TERÇO CONSTITUCIONAL. POSICIONAMENTO RECENTE DESTA TURMA DE RECURSO. RECURSO IMPROVIDO. SENTENÇA MANTIDA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º, XVII; e 39, §§ 3º e 7º, da Constituição.
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, a Súmula 280//STF.
+    O recurso extraordinário não deve ser provido, tendo em vista que o entendimento adotado no acórdão recorrido se alinha à jurisprudência do Supremo Tribunal Federal, que, ao jugar o ARE 721.001-RG, Rel. Min. Gilmar Mendes, reafirmou sua jurisprudência no sentido da possibilidade da “conversão de férias não gozadas bem como outros direitos de natureza remuneratória em indenização pecuniária, por aqueles que não mais podem delas usufruir”. Veja-se a ementa do mencionado paradigma:
+    “Recurso extraordinário com agravo. 2. Administrativo. Servidor Público. 3. Conversão de férias não gozadas bem como outros direitos de natureza remuneratória em indenização pecuniária, por aqueles que não mais podem delas usufruir. Possibilidade. Vedação do enriquecimento sem causa da Administração. 4. Repercussão Geral reconhecida para reafirmar a jurisprudência desta Corte.”
+    Ademais, para dissentir do entendimento firmado pelo Tribunal de origem, imprescindíveis seriam a análise da legislação infraconstitucional pertinente (Lei estadual nº 6.745/1985) e uma nova apreciação dos fatos e do material probatório constante dos autos, procedimentos vedados pelas Súmulas 279 e 280/STF. Nesse sentido, cito o RE 1.016.001, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 11 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
