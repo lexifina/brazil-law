@@ -1,0 +1,50 @@
+Trata-se de agravos contra decisões que negaram seguimento aos recursos extraordinários interpostos contra acórdão assim ementado:
+    “ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. EX-PREFEITO. CONVÊNIO. LESÃO AO ERÁRIO. LEI N° 8.429/1992.
+    I. Apelação de sentença que julgou parcialmente procedente o pedido, para condenar os réus, nos termos do art. 10, XI c/c art. 12, II, da Lei n° 8.429/92, por ato de improbidade administrativa, tendo em vista supostas irregularidades consistentes no fracionamento de licitação para a construção de 44 casas populares, através do Convênio 088/99 em que o Município recebeu recursos financeiros do Ministério da Integração Nacional.
+    II. O Ministério Público Federal é parte legítima para figurar no polo ativo da demanda, pois nos termos da Lei Complementar 75/93, arts. 6°, VII, alínea b e 39, I, II, III e IV, incumbe-lhe a defesa do patrimônio da União.
+    III. O fato narrado na inicial refere-se a atos praticados pelos réus, no exercício de sua função, com alegação de dano ao erário, não prevalecendo a afirmação de que a via eleita deveria ser a ação popular, sendo cabível a aplicação da Lei de Improbidade Administrativa.
+    IV. Não há que se falar em impossibilidade jurídica do pedido, pois a inicial descreve os fatos, o enquadramento legal do ato ilícito, o montante do prejuízo causado ao erário, a conduta, instruído o processo com o processo administrativo respectivo, com observância do art. 282 do CPC e do art. 17, § 6°, da Lei n° 8.429/92.
+    V. A decisão proferida pelo Supremo Tribunal Federal, nos autos da Reclamação n° 2.138-6, conforme informativo n° 4 do STF, não produz eficácia erga omnes nem efeito vinculante, sendo aplicada a agente político previsto no art. 102, I, “c” da CF/88.
+    VI. A Lei n° 8429/92, ao tratar dos atos de improbidade administrativa, enquadra aqueles que importem em enriquecimento ilícito do agente, os que causam prejuízo ao erário e os que atentam contra os princípios da administração pública, sendo estes últimos entendidos como aqueles que violam os deveres de honestidade, imparcialidade, legalidade, lealdade, dentro outros.
+    VII. Restou comprovado o fracionamento de licitação, bem como a apresentação pelo ex-prefeito de relatório de conclusão de obras falso.
+    VIII. A conduta do réu (Antônio Anchieta Varela) consistiu em ato de improbidade administrativa, enquadrando-se na hipótese do art. 10, XI, XII da Lei n° 8.429/92, com a aplicação das penalidades previstas no art. 12, II, da mesma Lei.
+    IX. Demonstradas as atitudes ilícitas dos réus, (Jailton Barros de Freitas e Newton Varela Bacurau), no recebimento de verbas, sem a realização das obras contratadas, devem os mesmos ser incursos nas penas do artigo 12 da Lei 8429/92.
+    X. Apelações improvidas” (págs. 75-76 do documento eletrônico 3).
+    A decisão que negou seguimento ao recurso extraordinário da Construtora Potiguar LTDA e de Antônio Anchieta Varela fundamentou ausência de preliminar de repercussão geral no recurso extraordinário.
+    O agravo não merece acolhida, dado que a recorrente deixou de atacar o fundamento da decisão agravada, o que atrai a incidência da Súmula 287 do STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    No RE, fundado no art. 102, III, a, da Constituição, Newton Varela Bacurau alegou violação ao art. 37, § 4°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Consta do voto condutor do acórdão recorrido:
+    “[...]
+    No caso dos autos, o objeto do Convênio 088/99 – SEDEC/MI foi realizado com a finalidade de construir 44 casas populares, em que o valor da obra foi orçado em R$ 201.479,52.
+    O artigo 23, I, b, e § 5°, da Lei 9666/93 [sic] dispõe o seguinte:
+    ‘Art. 23. As modalidades de licitação a que se referem os incisos I a III do artigo anterior serão determinadas em função dos seguintes limites, tendo em vista o valor estimado da contratação:
+    I – para obras e serviços de engenharia:
+    (…)
+    b) tomadas de preços – até R$ 1.5000.000,00 (um milhão e quinhentos mil reais)
+    (…)
+    § 5° É vedada a utilização da modalidade ‘convite’ ou ‘tomada de preços’, conforme o caso, para parcelas de uma mesma obra ou serviço, ou ainda para obras e serviços da mesma natureza e no mesmo local que possam ser realizadas conjunta e concomitantemente, sempre que o somatório de seus valores caracterizar o caso de ‘tomada de preços’ ou ‘concorrência, respectivamente, nos termos deste artigo, exceto para as parcelas de natureza específica que possam ser executadas por pessoas ou empresas de especialidade diversa daquela do executor da obra ou serviço’
+    Embora a Lei de Licitações estabeleça que é vedada a realização de convite para a realização de obras da mesma natureza e mesmo local, nos casos que o seu somatório caracterize o caso de tomadas de preço, no presente caso, o ex-prefeito realizou os convites 005/2000 e 007/2000, cabendo ao primeiro a construção de 32 casas no valor de R$ 146.530,00 e 12 casas no valor R$ 54.948,00, tendo vencido os certames as empresas DJ Construtora e JM Construtora, atual Construtora Potiguar.
+    O ex-prefeito apresentou relatório, atestando a conclusão da [sic], assim como efetuou o pagamento às empresas contratadas, que por sua vez, através de seus representantes, Jailton Barros de Freitas e Newton Varela Bacurau, assinaram contrato com a prefeitura, além de emitir recibos e notas fiscais, confirmando a conclusão de um serviço que não foi realizado, fato constatado pela [sic] Ministério da Integração Social, através da Secretaria de Defesa Civil e pela Caixa Econômica Federal que realizaram vistoria no local indicado para a construção das casas.
+    A conduta do réu (ex-prefeito) consistiu em ato de improbidade administrativa, enquadrando-se na hipótese do art. 10, XI, XII da Lei 8.429/92, com a aplicação das penalidades previstas no art. 12, II, do mesmo regramento.
+    […]
+    Reconhecida a ocorrência de fato que tipifica improbidade administrativa, cumpre ao juiz aplicar a correspondente sanção, devendo ser mantidas as penalidades fixadas na sentença.
+    Diante do exposto, nego provimento às apelações.
+    É como voto” (págs. 69-73 do documento eletrônico 3).
+    Assim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos o que é vedado pela Súmula 279/STF e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Nesse mesmo sentido, cito o ARE 1.046.638/RS, de relatoria do Ministro Celso de Mello.
+    Registre-se, também, a interposição de recurso extraordinário, por Jailton Barros de Freitas, fundado no art. 102, III, a, e b, da Constituição Federal, alegou-se ofensa aos arts. 5°, LIV e LV; e 37, § 4°, da mesma Carta.
+    A pretensão recursal também não merece prosperar.
+    É que este Tribunal firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Assim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos o que é vedado pela Súmula 279/STF e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Nesse mesmo sentido, cito o ARE 1.046.638/RS, de relatoria do Ministro Celso de Mello.
+    Isso posto, nego seguimento aos recursos extraordinários de Jailton Barros de Freitas (documento eletrônico 3 págs. 120-138), e de Newton Varela Bacurau (documento eletrônico 4 págs. 11-27), bem como ao recurso de agravo da Construtora Potiguar LTDA e de Antônio Anchieta Varela (documento eletrônico 5 págs. 27-34), ambos com fundamento no art. 21, § 1°, do RISTF.
+    Publique-se.
+    Brasília, 13 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
