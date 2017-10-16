@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE – Lei Estadual n° 16.785/2011 – Ilegitimidade ativa de parte Inocorrência, nos termos do voto do relator – Inexistência, por outro lado, de ofensa a qualquer dispositivo estabelecido na Constituição Estadual – Legislação que disciplina matéria relativa ao direito do consumidor – Competência concorrente do Estado-membro – Inteligência do art. 145 da Carta Magna Estadual e art. 24, inciso VIII, da Constituição Federal – Inconstitucionalidade, contudo, da regra prevista no art. 2°, § 2°, da citada lei estadual – Limitação do preço relativo às horas subsequentes – Inadmissibilidade, por ofender o direito à propriedade e à livre iniciativa – Ações julgadas parcialmente procedentes” (grifos no original, págs. 527-528 do volume 3).
+    No RE, fundado no art. 102, III, a , da Constituição, alegou-se, em suma, violação aos arts. 1º, IV; 5º, XXII, XXIV, LIV; 22, I; 24, VIII, e § 2°; e 170, da mesma Carta.
+    A pretensão recursal merece acolhida.
+    O acórdão recorrido está em dissonância com o entendimento desta Corte no sentido de que é competência privativa da União legislar sobre direito civil, conforme se vê do julgamento da ADI 1.918/ES, de relatoria do Ministro Maurício Côrrea, cuja ementa segue transcrita:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 2º, CAPUT E §§ 1º E 2º, DA LEI Nº 4.711/92 DO ESTADO DO ESPÍRITO SANTO. ESTACIONAMENTO DE VEÍCULOS EM ÁREAS PARTICULARES. LEI ESTADUAL QUE LIMITA O VALOR DAS QUANTIAS COBRADAS PELO SEU USO. DIREITO CIVIL. INVASÃO DE COMPETÊNCIA PRIVATIVA DA UNIÃO. 1. Hipótese de inconstitucionalidade formal por invasão de competência privativa da União para legislar sobre direito civil (CF, artigo 22, I). 2. Enquanto a União regula o direito de propriedade e estabelece as regras substantivas de intervenção no domínio econômico, os outros níveis de governo apenas exercem o policiamento administrativo do uso da propriedade e da atividade econômica dos particulares, tendo em vista, sempre, as normas substantivas editadas pela União. Ação julgada procedente”.
+    Nesse sentido: ADI 1.623-MC/RJ, Rel. Min. Moreira Alves e ADI 2.928/SP, Rel. Min. Eros Grau.
+    Isso posto, dou provimento ao recurso, para declarar a inconstitucionalidade da Lei 16.785/2011 do Estado do Paraná, tendo em vista a competência da União para legislar sobre a matéria (art. 21, § 2°, do RISTF).
+    Publique-se.
+    Brasília, 16 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
