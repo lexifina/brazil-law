@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de adicionais de insalubridade e periculosidade por servidor ocupante do cargo de guarda civil municipal, tendo em vista a percepção da gratificação RETP (Regime Especial de Atividade Policial), assentando abarcado por esta o risco do trabalho. No extraordinário, cujo trânsito busca alcançar, a recorrente aponta violados os artigos 5º, inciso II, parágrafos 2º e 3º; e 7º, inciso XXII, da Constituição Federal. Diz inobservado o disposto na Convenção nº 155 da Organização Internacional do Trabalho, introduzida no ordenamento jurídico pelo Decreto nº 1.254/1994. Discorre sobre as rubricas em questão.
+    2. De início, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão mediante a qual inadmitido o recurso é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do agravo regida por esse diploma legal.
+    Colho da decisão recorrida o seguinte trecho:
+    Assim, a apelante é regida pela Lei Municipal n.9.572/11, que assim dispõe em seu art. 2º, § 1º:
+    “Art. 2º - Fica concedida uma gratificação de 100%, calculada sobre o padrão acrescido de referência, aos ocupantes dos cargos de carreira da Guarda Civil Municipal, sob o título de REGIME ESPECIAL DE TRABALHO POLICIAL RETP.
+    § 1º - O Regime Especial mencionado neste artigo é concedido a todos os componentes da carreira, exceto aluno guarda, em virtude do risco da atividade, sujeição à prestação de serviços em condições especiais de segurança, atendimento de urgências e emergências e convocações extraordinárias até o limite de 40 horas/mês, de acordo com a necessidade do serviço.” (g.m.)
+    O RETP é uma gratificação que visa compensar o risco do trabalho, advindos da própria natureza e exigência do cargo, conforme descreve o artigo destacado acima. Por esta razão, é incompatível com os adicionais de insalubridade e periculosidade.
+    Permitir o pagamento de ambos os benefícios configuraria bis in idem, uma vez que se estaria recompensando o funcionário duas vezes pelo mesmo fato, ou seja, pela mesma atividade laboral, afrontando, assim, o que dispõe o artigo 37, inciso XIV, da Constituição Federal: “os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores”.
+    Na espécie, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida à Lei municipal nº 9.572/2011. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 16 de outubro de 2017.
+Ministro MARCO AURÉLIO
+Relator
