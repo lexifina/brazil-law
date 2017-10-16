@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Ladimir Rodrigues Costa contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Espírito Santo, está assim ementado:
+    “APELAÇÃO CRIMINAL. CONDENAÇÃO NO ART. 33 DA LEI Nº 11.343/06 E ART. 14 DA LEI Nº 10.826/03. 1. TESE DE ABSOLVIÇÃO. AUTORIA E MATERIALIDADE PREENCHIDAS. 2. SENTENÇA CONDENATÓRIA. PLEITO DE REDUÇÃO DA PENA BASE E INAPLICAÇÃO DOS MAUS ANTECEDENTES. IMPOSSIBILIDADE. RECONHECIMENTO DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. 3. APLICAÇÃO DO TRÁFICO PRIVILEGIADO. INVIABILIDADE. 4. PEDIDO DE RECONHECIMENTO DO CONCURSO FORMAL. NÃO CABIMENTO. 5. RECURSOS CONHECIDOS E IMPROVIDOS.
+    1. Autoria e materialidade devidamente comprovadas pelo vasto conteúdo probatório dos autos. A sentença condenatória, pautou-se sobretudo em provas testemunhais e periciais, razão pela qual impossível a absolvição.
+    2. A pena fixada pelo Juízo ‘a quo’ não merece reparos, pois embasada por fundamentação idônea. As circunstâncias judiciais contidas no artigo 59 do Código Penal não devem ser analisadas a partir de uma fórmula matemática. O julgador detém discricionariedade para valorar a partir de seu convencimento, desde que devidamente fundamentado. Além disso, impossível considerar bons antecedentes, pois mesmo ultrapassado o lapso temporal de cinco anos, a condenação anterior transitada em julgado pode ser considerada como maus antecedentes. Precedentes.
+    3. Inviável aplicação do tráfico privilegiado, pois os antecedentes criminais impedem tal benesse.
+    4. O tráfico de drogas e o porte ilegal de arma de fogo de uso permitido foram praticados pelos réus mediante mais de uma ação, com desígnios autônomos. Desta forma, inaplicável o concurso formal de crimes, que exige o cometimento de apenas uma ação ou omissão.
+    5. Recursos conhecidos e improvidos.”
+    A parte ora agravante, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 5º, XLVII, “b”, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário a que se refere o presente agravo revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+    Com efeito, a colenda Primeira Turma desta Suprema Corte, ao julgar o RHC 106.814/MS, Rel. Min. RICARDO LEWANDOWSKI, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora recorrente:
+    “’HABEAS CORPUS’. DIREITO PENAL. INDIVIDUALIZAÇÃO DA PENA. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. CONDENAÇÕES EXTINTAS HÁ MAIS DE CINCO ANOS. MAUS ANTECEDENTES. CARACTERIZAÇÃO. PRECEDENTES. RECURSO DESPROVIDO.
+    I – Embora o paciente não possa ser considerado reincidente, em razão do decurso do prazo de cinco anos previsto no art. 64, I, do Código Penal, a existência de condenações anteriores caracteriza maus antecedentes e demonstra a sua reprovável conduta social, o que permite a fixação da pena-base acima do mínimo legal. Precedentes.
+    II – Recurso ordinário em habeas corpus desprovido.”
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 856.393/RJ, Rel. Min. DIAS TOFFOLI – ARE 925.136/DF, Rel. Min. EDSON FACHIN – ARE 961.374/MS, Rel. Min. GILMAR MENDES, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, VIII, e RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 16 de outubro de 2017.
+Ministro CELSO DE MELLO
+Relator
