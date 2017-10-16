@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à absolvição da ré da imputação relativa ao delito de desacato, previsto no artigo 331 do Código Penal, assentando não demonstrado o elemento volitivo do tipo. No extraordinário, afirma o recorrente a violação dos artigos 2º e 5º, incisos II e XXXIX, da Constituição Federal. Argui a tipicidade do fato, considerado o dolo específico da ré em desprezar a função pública exercida pelos policiais militares. Diz contrariados os princípios da separação dos poderes e da legalidade.
+    2. De inicio, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do recurso regida por esse diploma legal.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Confiram a síntese do acórdão recorrido:
+    APELAÇÃO-CRIME. DESACATO. ART. 331 DO CÓDIGO PENAL. AUSÊNCIA DE DOLO. SENTENÇA ABSOLUTÓRIA CONFIRMADA. 1. Desacato. Prova judicializada que indica a ocorrência de mera exaltação ou revolta momentânea, afastando o elemento volitiva do tipo, consistente na vontade livre e consciente de praticar a ação ou de proferir palavra injuriosa com o propósito de ofender ou de desrespeitar o funcionário público. 2. Dolo específico. Mera enunciação de palavras em desabafo ou em revolta momentânea não configura as elementares do tipo penal. 3. Inexistente adequação e dolo específico, impositiva a manutenção da absolvição da ré, por falta de provas. RECURSO MINISTERIAL DESPROVIDO.
+    Ora, somente pela análise das provas constantes do processo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, em especial o artigo 331 do Código Penal, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, a referida condenação.
+    4. Publiquem.
+Brasília, 16 de outubro de 2017.
+Ministro MARCO AURÉLIO
+Relator
