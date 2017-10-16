@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, e 40, § 8º, da Constituição Federal, bem como ao art. 7º da EC nº 41/2003.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Prequestionamento. Ausência. Servidor público inativo. Aposentadoria antes da EC nº 41/03. Gratificação. Natureza jurídica. Legislação local. Reexame. Impossibilidade. Precedentes. 1. Inadmissível o recurso extraordinário se os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. É pacífica a Jurisprudência da Corte no sentido de reconhecer que a controvérsia acerca da natureza jurídica da gratificação concedida aos servidores em atividade, para fins de extensão aos inativos e pensionistas, está restrita à interpretação da legislação local. 3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 4. Inaplicável o art. 85, § 11, do CPC, pois houve compensação dos honorários advocatícios.” (ARE 1048017 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 01/09/2017, PROCESSO ELETRÔNICO DJe-222 DIVULG 28-09-2017 PUBLIC 29-09-2017.)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAIS MILITARES. ABONO INSTITUÍDO PELO DECRETO 2.219/1997, DO ESTADO DO PARÁ. NATUREZA JURÍDICA. EXTENSÃO A INATIVOS. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. AGRAVO REGIMENTAL DESPROVIDO.” (RE 714374 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 28/06/2016, ACÓRDÃO ELETRÔNICO DJe-167 DIVULG 09-08-2016 PUBLIC 10-08-2016.)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
