@@ -1,0 +1,23 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Itajaí/SC contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Santa Catarina, está assim ementado:
+    “ISS. ‘LEASING’. VIOLAÇÃO AO PRINCÍPIO DA IRRETROATIVIDADE DA LEGISLAÇÃO TRIBUTÁRIA. NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA. EXTINÇÃO DA EXECUÇÃO FISCAL. DECLARAÇÃO DE OFÍCIO. PRECEDENTES.
+    A não observância ao princípio da irretroatividade da legislação tributária, embora não suscitada no recurso de apelação, 'trata-se de matéria de ordem pública a qual deriva de princípio constitucional (art. 150, III, a), razão pela qual o Magistrado está autorizado a conhecê-la ‘ex officio’' (Ap. Cív. n. 2006.01718-9, de Itajaí, rel. Des. Rui Fortes, julgada em 16-4-2008).
+    'Viola o princípio constitucional da irretroatividade, de que trata o art. 150, inciso III, 'a', da Constituição Federal de 1988, a aplicação de lei tributária a fatos geradores ocorridos antes do início da sua vigência, razão pela qual são nulos os autos de infração e as notificações fiscais lavradas com fundamento em lei editada após a ocorrência do fato gerador do tributo' (Apelação Cível n. 2007.008691-5, de Barra Velha, rel. Des. Jaime Ramos, j. 21.02.2008)' (Ap. Cív. n. 2006.007523-2, de Itajaí, rel. Des. Sérgio Roberto Baasch Luz, j. Em 22-6-2010).”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Observo, ainda, que a questão ora em exame foi decidida com base no direito local (Lei Complementar municipal nº 20/2002), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão acha-se consagrado em acórdão proferido pela colenda Primeira Turma desta Suprema Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EXECUÇÃO FISCAL. NULIDADE DE CDA. LANÇAMENTO DE DÉBITO TRIBUTÁRIO COM BASE EM LEI POSTERIOR À OCORRÊNCIA DO FATO GERADOR DO TRIBUTO. LEI QUE REPETE O CONTEÚDO DE LEI ANTERIOR, VIGENTE A ÉPOCA DOS FATOS. IMPOSSIBILIDADE DA APLICAÇÃO DE LEI A FATOS GERADORES ANTERIORES À SUA VIGÊNCIA. VERIFICAÇÃO DO ATENDIMENTO DOS REQUISITOS DE VALIDADE DA CDA E DA EXISTÊNCIA DE PREJUÍZO PARA O EXECUTADO. NECESSIDADE DO EXAME DE PROVAS E LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 279 E OFENSA INDIRETA À CF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – É inconstitucional permitir que lei que institua tributo seja aplicada a fatos geradores anteriores à sua vigência, em razão do princípio da irretroatividade (art. 150, III, ‘a’, da CF).
+    II – Lei nova que repete o conteúdo de lei anterior, quanto à previsão de tributo, dispensa a obediência às regras da anterioridade tributária, mas os fatos geradores são regidos dentro do período de vigência da cada norma.
+    III – A verificação do atendimento aos requisitos de validade da CDA e da existência de prejuízo para o executado no caso concreto depende da reanálise dada ao conjunto fático-probatório dos autos e do exame de normas infraconstitucionais. Inviabilidade do extraordinário. Súmula 279 do STF e ofensa indireta.
+    IV – Agravo regimental a que se nega provimento.”
+    (RE 776.156-AgR/SC, Rel. Min. RICARDO LEWANDOWSKI)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 16 de outubro de 2017.
+Ministro CELSO DE MELLO
+Relator
