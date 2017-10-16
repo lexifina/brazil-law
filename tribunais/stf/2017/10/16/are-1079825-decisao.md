@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 20, XI, 215, caput, e §1°, 216, 231, caput, e §§1°, 2° e 6º, e 232 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal Regional Federal da 4ª Região decidiu a controvérsia em acórdão cuja ementa transcrevo:
+    “ADMINISTRATIVO. AÇÃO DE REINTEGRAÇÃO DE POSSE. TERRAS INDÍGENAS. CACIQUE DOBLE. SÚMULA 650 DO STF. ESBULHO CARACTERIZADO. - O termo "tradicionalmente" atribuído às terras ocupadas pelos índios (art. 231, § 1º, da CF) diz respeito ao modus vivendi, aos seus costumes e tradições, e não à ocupação temporal, memorial ou histórica. - Os incisos I e XI do art. 20 da Constituição Federal não alcançam terras de aldeamentos extintos, ainda que ocupadas por indígenas em passado remoto. Súmula 650 do STF. - Não há, nos autos, dados suficientes para se afirmar que o imóvel objeto da demanda é de ocupação tradicional indígena. - Demonstrada a posse indireta do imóvel pelos autores, bem como a invasão recente da área debatida, caracterizado o esbulho. - Reintegração de posse que se impõe. “
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, cristalizada no enunciado da Súmula 650/STF: “Os incisos I e XI do art. 20 da Constituição Federal não alcançam terras de aldeamentos extintos, ainda que ocupadas por indígenas em passado remoto”. Nesse contexto, não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “Medida cautelar em recurso extraordinário: deferimento: a questão objeto do RE - acerca da competência da Justiça Federal ou da Justiça Estadual para a causa - é daquelas em que se deve afastar a regra de retenção do recurso contra decisões interlocutórias (C.Pr.Civil, art. 542, § 3º). Ademais, densa a plausibilidade do RE, à vista da Súmula 650 (‘Os incisos I e XI do art. 20 da Constituição Federal não alcançam terras de aldeamentos extintos, ainda que ocupadas por indígenas em passado remoto’).” (AC 1.005-QO, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 09.12.2005).
+    “RECURSO. Extraordinário. Inadmissibilidade. Usucapião. Antigos aldeamentos indígenas. Falta de interesse da União. Incompetência da Justiça Federal. Agravo regimental não provido. Aplicação da súmula 650. As regras definidoras de domínio da União, insertas no art. 20 da Constituição Federal de 1988, não abrangem as terras ocupadas, em passado remoto, por antigos aldeamentos indígenas.” (AI 307.401-AgR, Rel. Min. Cezar Peluso, 1ª Turma, DJ 29.4.2005.)
+    Compreensão diversa demandaria o revolvimento do quadro fático delineado na origem, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
