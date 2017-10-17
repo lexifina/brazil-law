@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus interposto por Sabrina Gonçalves Petrol da Silva, Willian Gonçalves da Silva e Sirleide Rosa da Silva, contra decisão monocrática do Ministro Félix Fischer, do Superior Tribunal de Justiça, que não conheceu do HC nº 375.808/SP.
+    A defesa dos recorrentes alega, em suma, que eles foram submetidos a constrangimento ilegal, pois, à míngua de fundamentação idônea, lhes foi imposto o regime inicial semiaberto para o cumprimento de pena inferior a 4 (quatro) anos de reclusão pela prática do crime de sequestro (CP, art. 148).
+    Requer-se, liminarmente, o provimento do recurso para que, reformado o entendimento externado pelo Superior Tribunal de Justiça, seja concedida a ordem de habeas corpus para fixar o regime inicial aberto em favor dos recorrentes.
+    Examinados os autos, decido.
+    O recurso sequer merece que dele se conheça, uma vez que se volta, pelo que se depreende dos autos, contra decisão singular proferida pelo relator no bojo do HC nº 375.808/SP.
+    Consoante pacífica jurisprudência do Supremo Tribunal Federal, “não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça” (RHC nº 108.877/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/10/11).
+    Segundo preconizado pela eminente relatora naquele julgado, “tratando-se de decisão monocrática, contra ela não poderia ser interposto o Recurso Ordinário em Habeas Corpus, porque o art. 102, II, a, da Constituição da República, condiciona a sua apresentação às situações em que se teve um pronunciamento colegiado”.
+    Perfilhando esse entendimento, destaco:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO. RECURSO INTEMPESTIVO. SUPRESSÃO DE INSTÂNCIA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. AUSÊNCIA DE RISCO À LIBERDADE DE LOCOMOÇÃO” (RHC nº 121.834/SP, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 6/11/14);
+    “Agravo regimental no recurso ordinário em habeas corpus. Argumentos insuficientes para modificar a decisão ora agravada. Recurso ordinário manejado contra decisão monocrática proferida em sede de habeas corpus impetrado ao Superior Tribunal de Justiça. Não cabimento. Precedentes. Violação do princípio da colegialidade suscitada de forma inovadora no agravo regimental. Impossibilidade. Precedentes. Regimental não provido” (RHC nº 121.999/SP-AgR, Primeira Turma, de minha relatoria, DJe de 27/8/14);
+    “Penal e processual penal. Recurso ordinário em habeas corpus. Atentado violento ao pudor contra vulnerável menor de 4 anos de idade (CP, art. 214, c/c art. 224, a). Falsa declaração de pobreza. ilegitimidade do Ministério Público para propor ação penal pública condicionada. Tema não suscitado no Tribunal local. Writ não conhecido, monocraticamente, no STJ. Não interposição de agravo regimental. Jurisdição não exaurida no âmbito do Tribunal a quo. Inobservância do princípio da colegialidade (artigo 102, inciso II, alínea a, da Constituição Federal). Supressão de instância. Pretensão de habeas corpus, de ofício. Reexame de fatos e provas. Inviabilidade” (RHC nº 11.935/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13).
+    Registre-se, ademais, que “a não interposição de agravo regimental no STJ e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o conhecimento do habeas corpus por esta Corte” (HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14).
+    Perfilhando esse entendimento, destaco, da Primeira Turma, o RHC nº 111.395/DF, Relator o Ministro Luiz Fux, DJe de 30/9/13; e o HC nº 101.407/PR, de minha relatoria, DJe de 19/3/14.
+    Anote-se de outra parte, que o tema em discussão já é objeto de apreciação na Corte. Refiro-me ao HC nº 145.871/SP, de minha relatoria, que se encontra em trâmite na Corte, não havendo, portanto, razão para o seu prosseguimento, visto que se trata de mera reiteração de impetração anterior.
+    Nesse sentido: HC nº 130.772/MG-AgR, Primeira Turma, Relator o Ministro Edosn Fachin, DJe de 1º/2/16; HC nº 129.705/SP-AgR, Segunda Turma, de minha relatoria, DJe de 14/12/15; HC nº 92.555/SC-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 24/10/11; e HC nº 81.107/SP, Segunda Turma, Relator o Ministro Néri da Silveira, DJ de 5/10/01, entre outros.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário.
+    Publique-se.
+    Brasília, 17 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
