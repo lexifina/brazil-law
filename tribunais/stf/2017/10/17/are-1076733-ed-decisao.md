@@ -1,0 +1,15 @@
+Decisão: Trata-se de petição de embargos de declaração opostos contra decisão monocrática que negou seguimento ao recurso extraordinário com agravo, por julgá-lo intempestivo. Eis um trecho dessa decisão:
+    “Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016. Observo que o acórdão recorrido foi publicada em 10 de dezembro de 2015 (eDOC 8, p. 17) e o recurso extraordinário foi interposto somente em 22 de janeiro de 2016 (eDOC 9, p. 67), ou seja, posteriormente ao prazo de 15 dias corridos previsto no artigo 508 do CPC/73. Dessa forma, em caso de ocorrência de feriado local, recesso ou paralisação ou interrupção do expediente forense, deveria ser comprovado pelo recorrente no momento da interposição do recurso, o que não ocorreu. Portanto, notória é a intempestividade do recurso extraordinário, o que inviabiliza o seguimento deste recurso”. (eDOC 13)
+    Nas razões de embargos, alega-se que o recurso é tempestivo e junta documentos para comprovar a existência de feriado local na origem. (eDOC 15-17)
+    Intimada, a parte embargada apresentou contrarrazões (eDOC 21).
+    É o breve relatório.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do NCPC). No presente caso, não se verifica nenhuma dessas hipóteses.
+    O que a parte pretende é a alteração do julgado, que foi proferido em conformidade com a jurisprudência desta Corte, consoante já consignado na decisão recorrida. Cito, nesse sentido, o seguinte precedente da Segunda Turma:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL INTEMPESTIVIDADE DO RECURSO EXTRAORDINÁRIO. FERIADO LOCAL. MAJORAÇÃO DE HONORÁRIOS. AGRAVO A QUE SE NEGA PROVIMENTO COM APLICAÇÃO DE MULTA. I – Intempestividade do recurso extraordinário, pois segundo a jurisprudência desta Corte, incumbe ao recorrente comprovar, no momento da interposição do recurso, a ocorrência de feriado local ou de suspensão de prazos processuais pelo Tribunal de origem. II - Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais do art. 85, § 2° e § 3°, do CPC. III – Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC.” (ARE-AgR 1011686, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 27.4.2017)
+    Ainda, destaco que no julgamento do ARE-AgR 978.277, o Ministro Roberto Barroso destacou que a jurisprudência do Supremo Tribunal Federal é no sentido de que a ‘tempestividade do recurso em virtude de feriado local ou de suspensão dos prazos processuais pelo Tribunal a quo que não sejam de conhecimento obrigatório da instância ad quem deve ser comprovada no momento da sua interposição.
+    Ante o exposto, nos termos do artigo 1.024, §2º, do CPC, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 17 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
