@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão de Tribunal de Justiça do Estado de Minas Gerais, que reconhecera o direito da ora recorrida, servidora pública aposentada, de converter em pecúnia as férias prêmio não gozadas.
+    O recurso foi interposto com fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 18; e 37, caput, da Constituição.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) “O presente recurso extraordinário não pode ser admitido porque nas suas razões não há demonstração de imposição constitucional da apreciação da matéria, inviabilizando a sua admissão, nos termos do art. 543-A, § 2º do Código de Processo Civil”; (ii) “não restou provada a necessidade de repercussão geral, a ultrapassar o interesse individual, porque não demonstrado interesse coletivo ou público, que viesse a influenciar em questões jurídicas de relevância constitucional a gerar efeitos acima do particular”.
+    O recurso extraordinário não deve ser provido. Isso porque o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal, que, no julgamento do ARE 721.001-RG, julgado sob a relatoria do Ministro Gilmar Mendes, reconheceu a repercussão geral da matéria e reafirmou a jurisprudência acerca da possibilidade de conversão em pecúnia de férias não gozadas por servidor público a pedido da Administração, tendo em conta a vedação de enriquecimento ilícito pelo Poder Público. Veja-se a ementa do mencionado recurso:
+    “Recurso extraordinário com agravo. 2. Administrativo. Servidor Público. 3. Conversão de férias não gozadas – bem como outros direitos de natureza remuneratória – em indenização pecuniária, por aqueles que não mais podem delas usufruir. Possibilidade. Vedação do enriquecimento sem causa da Administração. 4. Repercussão Geral reconhecida para reafirmar a jurisprudência desta Corte.”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 17 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
