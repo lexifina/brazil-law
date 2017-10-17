@@ -1,0 +1,29 @@
+Decisão:
+Ementa: Processo penal. Habeas corpus. Crime contra a ordem tributária. Condenação transitada em julgado. Extinção da punibilidade pela quitação do débito. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Corte Especial do Superior Tribunal de Justiça, da Relatoria do Ministro Humberto Martins, assim ementado:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. RECONHECIMENTO DA EXTINÇÃO DA PUNIBILIDADE. TRÂNSITO EM JULGADO DA CONDENAÇÃO. COMPETÊNCIA DO JUÍZO DA VARA DE EXECUÇÕES PENAIS.
+    1. A jurisprudência do Supremo Tribunal Federal vem acolhendo a tese de que ‘recursos especial e extraordinário indeferidos na origem, porque inadmissíveis, em decisões mantidas pelo STF e pelo STJ, não têm o condão de empecer a formação da coisa julgada’ (HC 86.125/SP, Segunda Turma, Relatora a Ministra Ellen Grace, DJ de 2/9/2005). No mesmo sentido: ED nos ED no AgR no AI 684.246/RJ, Primeira Turma, Relator Ministro Dias Toffoli, DJe 13/13/2017.
+    2. Na hipótese dos autos, o não conhecimento do agravo em recurso especial ensejou a retroação do trânsito em julgado da ação penal ao último dia do prazo do recurso cabível.
+    Agravo regimental improvido.”
+    2. Extrai-se dos autos que o paciente foi denunciado pelos crimes previstos no artigo 1º, I, II, e V, da Lei 8.137/90.
+    3. Narra a denúncia que, “Durante o período de outubro de 1999 a novembro de 2000, o denunciado, na condição de sócio-gerente da empresa J A S FILHOS MERCEARIAS-ME, suprimiu pagamento de tributo, deixando de recolher ICMS (Imposto sobre Circulação de Mercadorias e Serviços), mediante as seguintes condutas: a) omissão de informação à Receita; b) inserção de elementos inexatos em notas fiscais; c) deixar de fornecer notas fiscais relativas à venda de mercadorias, dando ensejo ao auto de infração nº 090.002843/01-7”.
+     4. Concluída a instrução criminal, o paciente foi condenado à pena de 4 (quatro) anos e 1 (um) mês de reclusão, pelo crime previsto no artigo 1º, I, II e V, da Lei 8.137/90 c/c o artigo 71 do Código Penal, em regime inicial semiaberto, assegurado o direito de recorrer em liberdade.
+    5. O Tribunal de Justiça do Estado de Pernambuco negou provimento à apelação da defesa.
+    6. Em seguida, a defesa interpôs recurso especial, inadmitido na origem. Ato contínuo, interpôs agravo. O Relator do AResp 371.169, Ministro Rogerio Schietti Cruz, conheceu do agravo para negar seguimento ao recurso especial.
+    7. Contra essa decisão, foram opostos embargos declaratórios, rejeitados monocraticamente. Após, foi interposto agravo regimental, não provido.
+    8. Na sequência, a defesa interpôs recurso extraordinário e, em seguida, peticionou nos autos requerendo fosse declarada a extinção da punibilidade do agente. O Relator do AResp 371.169-ED-AgInt-RE, Ministro Humberto Martins, indeferiu o pedido defensivo, bem como negou seguimento ao apelo extremo.
+    9. Dessa decisão, foram opostos embargos declaratórios, rejeitados monocraticamente. Ato contínuo, foi interposto agravo regimental, não provido.
+    10. Neste habeas corpus, a parte impetrante sustenta que, nos crimes praticados contra a ordem tributária, “o pagamento do tributo, a qualquer tempo, extingue a punibilidade do agente”. De modo que “busca-se com o presente mandamus, suprir a ilegalidade na decisão proferida pelo Eminente Ministro HUMBERTO MARTINS, relator do ARESP 371.169, e referendada pela Corte Especial, que negou seguimento ao agravo e não reconheceu a extinção da punibilidade do PACIENTE, apesar de ter sido efetuado o pagamento integral do tributo”.
+    11. Prossegue a impetração para alegar a comprovação inequívoca da quitação do crédito tributário, bem como para destacar que “O processo encontra-se em vias de execução da pena, pois transitou em julgado em 20/09/2017”.
+    12. Com essa argumentação requer a concessão da ordem a fim de determinar a expedição de salvo-conduto em favor do paciente.
+    Decido.
+    13. O habeas corpus não deve ser conhecido.
+    14. O Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal (v.g, RHC119.605-AgR, Rel. da minha relatoria; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski). No caso, em consulta à página oficial do Superior Tribunal de Justiça na internet, verifico que a condenação transitou em julgado, em 20.09.2017.
+    15. Não é o caso de concessão da ordem de ofício. Reconheço a existência de precedente, no sentido de que “O pagamento integral do crédito tributário constitui causa de extinção da punibilidade do agente, nos termos do artigo 9º, § 2º, da Lei 10.684/03” (RHC 117.173-ED, Rel. Min. Luiz Fux).
+    16. No caso de que se trata, contudo, a autoridade impetrada assentou que, “Não obstante o requerente alegue que ‘o crédito perseguido pela administração pública encontra-se devidamente quitado por meio de pagamento conforme documentação em anexo sentença que confirma o pagamento’ (fl. 832, e-STJ), certo é que referida documentação não se mostra hábil a comprovar que o pagamento de tal débito tributário tem relação com o processo criminal que tratam os presentes autos”. Nessas condições, o acolhimento da pretensão defensiva – quanto à comprovação da quitação integral do crédito tributário – demandaria o revolvimento do conjunto fático-probatório, inviável na via restrita do habeas corpus.
+    17. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 17 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+             Documento assinado digitalmente
