@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Cuida-se de ação ordinária movida pelo rito especial da Lei nº 10.259/2001, ajuizada em face da União, com o objetivo de que seja reconhecido o direito do magistrado autor ao recebimento de pagamento de indenização a título de ajuda de custo para ressarcimento de despesas decorrentes de sua nomeação e posse no cargo de Juiz Substituto do TJDFT.
+    O Juízo da 24ª Vara Federal da Seção Judiciária do Distrito Federal se declarou incompetente para processar e julgar a presente ação e remeteu os autos a esta Corte, por entender que a controvérsia envolve interesse de toda a magistratura, ensejando a competência originária do Supremo Tribunal Federal, nos termos do artigo 102, inciso I, alínea “n”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    A controvérsia envolve pretensão ao recebimento de pagamento de indenização a título de ajuda de custo decorrente de nomeação e posse em cargo de Juiz Substituto do TJDFT, destinada a ressarcimento de despesas de instalação, com base na LC nº 35/79 (LOMAN) e na LC nº 75/93 (c/c Resolução nº 133/11, CNJ) – dada a simetria entre as carreiras da magistratura e do Ministério Público.
+    Tenho que não é caso de competência originária deste Supremo Tribunal.
+    Com efeito, para a instauração da competência originária do Supremo Tribunal Federal prevista no art. 102, inciso I, alínea n, da Constituição Federal, faz-se necessário que o interesse direto ou indireto da magistratura na causa seja efetivo e se refira à totalidade da magistratura.
+    E sob esse enfoque, ambas as Turmas do Supremo Tribunal Federal reconheceram a incompetência desta Corte para apreciar questão relativa a ajuda de custo percebida por magistrados (AO nº 1816 AgR-ED-AgR/SP, Relator o Ministro Edson Fachin, Primeira Turma, DJe de 8/4/16 - grifei).
+    Senão, vejamos:
+    “AGRAVO REGIMENTAL NA AÇÃO ORIGINÁRIA. MAGISTRADO. DIREITO À AJUDA DE CUSTO. ALEGADO INTERESSE DE TODA A MAGISTRATURA, COM USURPAÇÃO DA COMPETÊNCIA ORIGINÁRIA DO STF. NÃO CONFIGURAÇÃO. CAUSA DE INTERESSE RESTRITO. INCOMPETÊNCIA ORIGINÁRIA DO STF. REMESSA DOS AUTOS AO JUÍZO COMPETENTE DA JUSTIÇA FEDERAL DE PRIMEIRO GRAU. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A competência constitucional originária do Supremo Tribunal Federal para a ação prevista no art. 102, I, n, da Constituição Federal, demanda a existência de situação em que todos os membros da magistratura sejam direta ou indiretamente interessados e que o direito postulado seja exclusivo da categoria. 2. Nesse sentido: “Não fixa competência originária do STF a propositura de ação com peculiaridades que dizem respeito a número restrito de magistrados alegadamente interessados na solução da causa.” (Rcl 16.061-AgR, rel. Min. Teori Zavascki, Segunda Turma, DJe de 6/3/2014). 3. In casu, trata-se de causa de interesse restrito, que não alcança a totalidade da magistratura nacional, nem sequer da local, pelo que não se justifica a competência originária desta Corte para o julgamento do feito 4. Agravo regimental a que se nega provimento” (AO nº 1951 AgR, Relator Ministro Luiz Fux, Primeira Turma, DJe de 10/12/15 – grifei).
+    “Agravo regimental na ação originária. Ajuda de custo. Magistrado. Interesse individual. Ausência de competência originária. Agravos regimentais não providos. Não é a simples condição de magistrado pleiteando o benefício de auxílio-moradia que atrai a competência da Corte para a apreciação do feito, sendo necessário, para tanto, o interesse de toda a magistratura. A demanda que, relativa a período anterior à edição da Resolução CNJ nº 199, verse sobre concessão de auxílio-moradia a magistrados federais que estariam lotados em localidades em que não haveria residência oficial à disposição não tem o potencial de atingir interesse de toda a magistratura. Precedentes. Agravos não providos” (AO nº 1775 AgR-segundo, Segunda Turma, de minha relatoria, DJe de 28/9/15 – grifei).
+    Entendo, desse modo, ser caso de incompetência do Supremo Tribunal Federal para o processamento e o julgamento do feito.
+    Pelo exposto, não conheço da presente ação originária, por incompetência desta Corte para julgar a causa.
+    Retornem-se os autos à origem.
+    Publique-se. Intime-se.
+    Brasília, 17 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
