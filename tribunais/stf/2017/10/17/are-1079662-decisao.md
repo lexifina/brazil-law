@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “Servidores estaduais inativos - Contribuição previdenciária – Leis Complementares nº 943/03 e 954/03 - Admissibilidade após a vigência da Emenda Constitucional 41/03 - ADIN n° 3.105-DF - Legalidade da contribuição do servidor inativo ou pensionista no valor que ultrapassar o teto de imunidade do Regime Geral de Previdência Social, nos termos dos artigos 4º e 5º da Emenda Constitucional n° 41/03 - Edição da Lei Complementar n° 1.012/07 que apenas alterou a forma de incidência - Sentença denegatória mantida — Recurso improvido” (pág. 73 do volume eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 40, § 20; 149, § 1°; 150, I e 195 II, da mesma Carta.
+    A pretensão recursal não merece prosperar.
+    O órgão de origem, com apoio na legislação local aplicável à espécie (Leis Complementares 943/2003, 954/2003 e 1.012/2007), sufragou o entendimento da legalidade da contribuição do servidor inativo ou pensionista no valor que ultrapassar o teto de imunidade do Regime Geral de Previdência Social. Dessa forma, verifica-se que para concluir em sentido diverso, faz-se necessário o reexame da legislação local pertinente ao caso, o que é inviável nos termos da Súmula 280/STF. Nesse sentido, cito os seguintes julgados, em casos análogos ao que examinado nos presentes autos, de ambas as Turmas desta Corte:
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. COMPLEMENTAÇÕES DE APOSENTADORIA. 1. O deslinde da controvérsia relativa à legalidade da cobrança de contribuição previdenciária sobre complementação de aposentadoria cinge-se ao âmbito infraconstitucional. Súmulas 279 e 280 do STF. 2. Agravo regimental a que se nega provimento” (ARE 914.760 AgR/SP, Rel. Min. Edson Fachin, 1ª Turma).
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. COMPLEMENTAÇÃO DE APOSENTADORIA. LEIS COMPLEMENTARES ESTADUAIS NS. 954/2003 E 1.012/2007. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 813.173 AgR/SP, Rel. Min. Cármen Lúcia, 2ª Turma).
+    Com essa mesma orientação, cito, ainda, as seguintes decisões monocráticas: ARE 1.048.659/SP, Rel. Min. Rosa Weber; ARE 914.760/SP, Rel. Min. Edson Fachin e ARE 785.565/SP, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 17 de outubro de 2017.
+      Ministro Ricardo Lewandowski
+Relator
