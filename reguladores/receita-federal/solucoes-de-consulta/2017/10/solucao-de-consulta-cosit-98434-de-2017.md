@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98434, de 6 de outubro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 2710.12.60 Mercadoria: Óleo de petróleo, constituído de mistura de hidrocarbonetos alifáticos, saturados, cíclicos e acíclicos, variando de C7 a C12, com ponto inicial de destilação de 160 ºC e ponto final de destilação de 203 ºC. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 27.10), RGI 6 (texto da subposição de 1º nível 2710.1 e da subposição de 2º nível 2710.12) e RGC 1 (texto do item 2710.12.60) da NCM, constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.434-2017 .pdf]
