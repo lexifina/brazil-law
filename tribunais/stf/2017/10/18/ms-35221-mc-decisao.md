@@ -1,0 +1,52 @@
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por Ismânia do Nascimento Rodrigues Pessoa Nóbrega, contra ato do Conselho Nacional do Ministério Público – CNMP, nos autos da Revisão de Processo Administrativo Disciplinar 1.00137/2017- 10.
+    A impetrante narra que, em 27/9/2016, foi instaurada reclamação disciplinar contra ela no Ministério Público do Estado da Paraíba – MPPB a partir de expediente encaminhado pela promotora de justiça da Comarca de Mamanguape/PB
+    “noticiando a existência de suposta gravação em que a Promotora de Justiça Ismânia Pessoa negocia pagamentos em dinheiro e/ou cargos na Administração com candidatos a Vereador do Município de Mamanguape, em troca de apoio político à candidatura de sua genitora, Eunice Pessoa, candidata ao cargo de Prefeita deste Município” (pág. 4 do documento eletrônico 1)
+    Posteriormente, o MPPB converteu a citada reclamação disciplinar em Processo Administrativo Disciplinar para verificar a suposta prática de atividade político-partidária, vedada aos membros do Parquet, e, em tese, de crime de corrupção eleitoral, previsto no art. 299 da Lei 4.737/1965 (Código Eleitoral) .
+     A impetrante informa, ademais, que, paralelamente, o CNMP instaurou, de ofício, reclamação disciplinar para apurar esses mesmos fatos. No entanto, ao tomar ciência dos processos instaurados pelo órgão de origem da impetrante, deliberou em sobrestar dita reclamação.
+    Após a tramitação, a comissão processante do MPPB elaborou relatório final em que propôs:
+    “a) o reconhecimento da conduta imputada à acusada de violação da vedação prevista no art. 128, § 5º, inciso II, alínea “e”, da CF, art. 44, inciso V, da Lei Orgânica Nacional do Ministério Público (Lei nº 8.625/93) e art. 142, inciso V, da Lei Orgânica do Ministério Público do Estado da Paraíba (LC Estadual nº 97/2010, consistente no exercício de atividade político-partidária (engajamento ativo na campanha de sua genitora ao cargo de Prefeita do Município de Mamanguape).
+    b) a subsunção desta conduta ao tipo descrito no art. 142, inciso V, combinado com o art. 192, inciso II, ambos da LC Estadual nº 97/2010, com a consequente aplicação da pena de suspensão de 100 dias” (pág. 5 do documento eletrônico 1).
+    Ato contínuo, o Conselho Superior do Ministério Público do Estado da Paraíba, em 9/2/2017, decidiu, por maioria, julgar procedente a acusação formulada, aplicando à impetrante, em consequência, a pena de suspensão pelo prazo de 100 (cem) dias.
+    Ausente recurso contra essa decisão, a pena foi aplicada e integralmente cumprida.
+    No entanto, o Corregedor Nacional do Ministério Público propôs a revisão do citado processo disciplinar, sob o fundamento de que o MP da Paraíba “deixou de adotar as medidas administrativas sancionatórias para o ajuizamento da ação civil para a decretação de perda de cargo de membro do Ministério Público” (pág. 6 do documento eletrônico 1).
+    O CNMP julgou procedente o referido pedido de revisão disciplinar e determinou o seguinte:
+    a) ao Procurador-Geral de Justiça do Ministério Público do Estado da Paraíba o ajuizamento de ação civil para decretação da perda do cargo contra a impetrante;
+    b) a disponibilidade da Promotora de Justiça impetrante, por motivo de interesse público, enquanto durar a mencionada ação civil para decretação da perda do cargo.
+    A impetrante alega que tal decisão não se mostra jurídica, nem razoável, uma vez que a ação civil para perda do cargo somente poderia ser ajuizada após o trânsito em julgado de sentença penal condenatória, o que não se verificou na espécie.
+    Sustenta, ademais, que o CNMP utilizou-se de entendimento doutrinário e de jurisprudência que não guarda semelhança com o caso dos autos para determinar o ajuizamento de ação de perda do cargo e sua disponibilidade antes da existência de sentença criminal transitada em julgado.
+    Acrescenta, além disso, a existência de decisão atual do Ministro Celso de Mello tomada no MS 31.351-MC/DF em sentido inverso ao julgamento do CNMP. Assim, o órgão nacional de controle do MP poderia apenas recomendar o ajuizamento de ação para perda do cargo, mas não determinar tal medida.
+    A impetrante argumenta, portanto, que a condenação criminal com trânsito em julgado é condição de procedibilidade para o ajuizamento da ação civil de perda do cargo, o que não se verificou no caso dos autos.
+    Aduz, apenas para argumentar, que, ao menos, deveria ser exigida “a propositura e encerramento da instrução da demanda penal, como condição de procedibilidade da ação civil para perda do cargo” (pág. 16 do documento eletrônico 1).
+    Nessa linha, afirma que o Conselheiro do CNMP teria apresentado proposta de enunciado que corrobora a necessidade de pelo menos existir ação penal em curso. Eis o teor:
+    “Nos casos de prática de crime incompatível com o exercício do cargo, por membro do Ministério Público, a ação civil para a decretação da perda do cargo somente pode ser ajuizada quando houver ação penal em curso” (pág. 17 do documento eletrônico 1).
+    A impetrante ataca, ainda, a decretação de sua disponibilidade por interesse público pelo CNMP, uma vez que não existiria previsão legal desse instituto como sanção ou afastamento preventivo na Lei Orgânica do Ministério Público do Estado da Paraíba.
+    Além disso, diz que sua disponibilidade foi determinada enquanto perdurasse a ação civil de perda do cargo, ou seja, por tempo indeterminado, o que não seria razoável e proporcional. Aponta, para subsidiar sua alegação, o art. 89, § 3°, do Regimento Interno do CNMP, em que o afastamento preventivo de membro do MP que está sob investigação pode durar apenas até 120 dias.
+    E prossegue, dizendo que “[p]or seu turno, a Lei Orgânica do Ministério Público da Paraíba prevê o afastamento pelo prazo máximo de 90 (noventa) dias” (pág. 25 do documento eletrônico 1).
+    Dessa forma, conclui que
+    “[a] grave medida do afastamento do Membro do Ministério Público, portanto, não pode ser decretado ao alvedrio do Conselho Nacional do Ministério Público sem qualquer estabelecimento de prazo, haja vista que tanto o Regimento Interno do CNMP, quanto a Lei Orgânica do Ministério Público do Estado da Paraíba são expressas ao estabelecer prazos” (págs. 26-27 do documento eletrônico 1).
+    Por todas essas razões, pugna, ao final, pelo deferimento de liminar para suspender a punição que recebeu e, no mérito, pela concessão da ordem para anular o ato do CNMP.
+    É o relatório necessário. Decido.
+    O primeiro ponto em discussão neste mandado de segurança relaciona-se à necessidade ou não da existência de sentença penal com trânsito em julgado para que seja iniciada a ação civil com o objetivo de decretar a perda do cargo do membro do Ministério Público.
+    Principio o exame do tema pelo art. 128, § 5°, I, a, da Constituição Federal, in verbis:
+    “§ 5º Leis complementares da União e dos Estados, cuja iniciativa é facultada aos respectivos Procuradores-Gerais, estabelecerão a organização, as atribuições e o estatuto de cada Ministério Público, observadas, relativamente a seus membros:
+    I - as seguintes garantias:
+    a) vitaliciedade, após dois anos de exercício, não podendo perder o cargo senão por sentença judicial transitada em julgado”.
+    Com efeito, a vitaliciedade é a garantia que os membros do Ministério Público têm de que somente perderão o respectivo cargo após o trânsito em julgado da sentença, nos termos do citado dispositivo constitucional. Note-se, todavia, que a Constituição Federal não especificou o tipo de ação, nem em que hipóteses se dará essa perda.
+    A Lei 8.625/1993, por seu turno, que institui a Lei Orgânica Nacional do Ministério Público, dispõe sobre normas gerais para a organização do Ministério Público dos Estados, estabelece em seu art. 38, § 1°:
+    “§ 1º O membro vitalício do Ministério Público somente perderá o cargo por sentença judicial transitada em julgado, proferida em ação civil própria, nos seguintes casos:
+    I – prática de crime incompatível com o exercício do cargo, após decisão judicial transitada em julgado;
+    II – exercício da advocacia;
+    III – abandono do cargo por prazo superior a trinta dias corridos”.
+    Dessa forma, do citado dispositivo chego, a priori, à conclusão de que a norma exige, para a perda do cargo na hipótese do inciso I, a existência de ação civil própria transitada em julgado após a ação criminal, também com trânsito em julgado. É dizer, a ação penal transitada é condição sine qua non para a instauração da ação civil, da qual também não caiba mais recurso.
+    Ressalto, ademais, que a Lei Complementar 97/2010 do Estado da Paraíba, que estabelece a organização do Parquet paraibano, em seu art. 135, § 1°, repetiu a regra estabelecida na lei geral da União.
+    Pois bem. No caso em exame, vejo que já há a determinação ao Procurador-Geral de Justiça do Ministério Público do Estado da Paraíba para que ajuize ação civil com o fim de decretar a perda do cargo da impetrante em razão da suposta prática de crime, no entanto, ainda não transitada em julgado e, mais, sem notícia nos autos de que a impetrante tenha sido condenada criminalmente, aliás, que sequer tenha sido instaurada a respectiva ação penal, o que, em tese, viola a condição de procedibilidade estabelecida pela Lei 8.625/1993.
+    Parece-me, assim, que a deliberação do CNMP violou a citada garantia dos membros do Ministério Público, que, como visto, somente poderiam perder o cargo após as sentenças transitadas em julgado.
+    Quanto ao segundo aspecto da impetração, qual seja, a questão da aplicação da disponibilidade da Promotora de Justiça impetrante, observo o esvaziamento dessa discussão, pelo menos por ora. Isso porque, consoante acima consignei, a ação civil só pode se iniciar após o trânsito em julgado da ação penal, que sequer existe. Logo, não há falar em disponibilidade nesse momento.
+    Isso posto, defiro a liminar para suspender a decisão proferida pelo CNMP até o julgamento do mérito deste writ.
+    Assim, comunique-se com urgência à autoridade apontada como coatora, notificando-a para que preste informações no prazo de 10 (dez) dias (art. 7°, I, da Lei 12.016/2009).
+    Dê-se ciência, ademais, à Advocacia-Geral da União para, querendo, ingressar no feito (art. 7°, II, da Lei 12.016/2009).
+    Após, ouça-se a Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 18 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
