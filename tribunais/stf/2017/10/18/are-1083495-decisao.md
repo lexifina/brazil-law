@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “APELAÇÃO. PENSÃO POR MORTE. BENEFICIÁRIO. ESTUDANTE UNIVERSITÁRIO. LIMITE TEMPORAL.
+    A Lei Federal nº 9.717/98 pretendeu extinguir os benefícios não estabelecidos no regime geral de previdência. Interpreta-se que o art. 5º da Lei Federal determinou, apenas e tão somente, a proibição aos entes federados, de concessão de benefícios distintos daqueles previstos no Regime Geral de Previdência. Identidade do benefício de pensão por morte do Regime Próprio com aquele previsto no Regime Geral. Inaplicabilidade das alterações estabelecidas pela Lei Complementar Estadual n. 1.012/07. Entendimento adotado pelo STJ, segundo o qual, para os casos de recebimento de pensão por morte aplica-se a lei vigente à época do óbito. Falecimento do servidor em meados de 2006, enquanto vigente o §2º do art. 147 da Lei Complementar Estadual n. 180/78. Cessação da pensão aos 21 anos do beneficiário. Inadmissibilidade. Violação de direito adquirido. Sentença reformada.
+    CORREÇÃO MONETÁRIA E JUROS DE MORA.
+    Incidência de correção monetária e juros de mora de acordo com o artigo 1º-F, da Lei 9.494/97, com a redação que lhe deu a MP nº 2.180/01. Reconhecimento da inconstitucionalidade do artigo 5º da Lei n. 11.960/09. Termo inicial. Juros de mora. Citação. Relação contratual. Correção monetária. Desde a data em que deveria ter sido feito o pagamento. Aplicação da Tabela Prática do Tribunal de Justiça. Providência que não configura 'reformatio in pejus'.
+    HONORÁRIOS ADVOCATÍCIOS. Arbitramento considera a regra do § 4º do art. 20 do CPC, fundada no princípio da equidade, levando-se em conta o grau de zelo do profissional; o lugar de prestação do serviço; e, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, conforme alíneas "a", "b" e "c", do § 3º do art. 20 do CPC.
+    RECURSO PROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a e d, da Constituição Federal. A parte recorrente alega violação ao art. 24, XII e § 4º, da Constituição.
+    O recurso não deve ser admitido. O Supremo Tribunal Federal já assentou que a controvérsia relativa à possibilidade de prorrogação do pagamento de pensão por morte a filho, estudante universitário e maior de 21 anos, de servidor público falecido se insere no âmbito infraconstitucional. Nesse sentido, confira-se a ementa do RE 647.727-AgR, julgado pelo Ministro Gilmar Mendes e envolvendo o mesmo ente federativo:
+    “Embargos declaratórios em recurso extraordinário. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Direito Administrativo e Previdenciário. Pensão de servidor público. 4. Dependente. Maioridade e estudante de ensino superior. Benefício previdenciário assegurado com base em legislação local. Súmula 280. 5. Erro material. Ocorrência no relatório e na parte dispositiva. 6. Agravo regimental a que se dá parcial provimento para fins de correção de erro material.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 18 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
