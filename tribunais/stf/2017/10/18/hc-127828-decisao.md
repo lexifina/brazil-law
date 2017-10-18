@@ -1,0 +1,25 @@
+Trata-se de habeas corpus, sem pedido de liminar, impetrado pela Defensoria Pública da União em favor de Everton da Silva Teixeira contra acórdão do Superior Tribunal de Justiça, que negou provimento ao REsp 1.505.722/RS.
+    O Ministério Público Federal ofereceu denúncia contra o paciente pela suposta prática do crime de descaminho, tipificado no art. 334 do Código Penal. O Juízo da Vara Federal de Santiago/RS, condenou o paciente à pena de 1 (um) ano e 2 (dois) meses de reclusão, em regime inicial aberto, substituída por duas penas restritivas de direito.
+    Em sede de apelação, o Tribunal Regional Federal da 4ª Região deu parcial provimento ao recurso ministerial para aplicar a inabilitação para dirigir como efeito da condenação, nos termos do art. 92, III, do CP. Opostos embargos de declaração, foram rejeitados.
+    Inconformada, a Defesa interpôs recurso especial, que, admitido na origem, ensejou sua remessa para o Superior Tribunal de Justiça. A Corte Superior negou provimento ao recurso defensivo.
+    No presente habeas, a Defesa alega, em síntese, ilegalidade da pena acessória de inabilitação para dirigir veículo automotor como medida de repressão ao crime de descaminho. Requer, em medida liminar e no mérito, a exclusão da pena acessória.
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, opina pelo não conhecimento do writ.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “RECURSO ESPECIAL. EFEITOS EXTRAPENAIS DA CONDENAÇÃO. INABILITAÇÃO PARA DIRIGIR VEÍCULO AUTOMOTOR. NECESSIDADE DE FUNDAMENTAÇÃO DA MEDIDA.
+    1. São requisitos objetivos para a imposição de inabilitação para dirigir veículo automotor a prática de crime doloso e a utilização do automóvel como meio para a realização do delito.
+    2. Além dos requisitos objetivos e por não guardar necessariamente um efeito retributivo (por isso não tem aplicação automática), é exigido, também, que o juiz justifique a conveniência de sua imposição no caso específico.
+    3. Na espécie, o Tribunal, além de apontar os requisitos objetivos, fundamentou a necessidade de aplicação da medida no caso concreto no fato de o réu fazer uso do veículo para transportar grande quantidade de mercadorias internalizadas ilegalmente, acrescentando que, devido à elevada quantidade, o transporte deveria ser feito por automóvel, bem como também indicaria uma destinação comercial para o produto ilegal.
+    4. Recurso especial não provido.
+    Em relação ao efeito da condenação pertinente à inabilitação do paciente para dirigir veículos pelo período de 1 (um) ano, nos termos do art. 92, III, do Código Penal, nada colhe a impetração.
+    A Constituição Federal no seu art. 5º, LXVIII, rege expressamente que “conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder.” Nesse prisma, “o habeas corpus visa a proteger a liberdade de locomoção – liberdade de ir, vir e ficar – por ilegalidade ou abuso de poder, não podendo ser utilizado para proteção de direitos outros” (HC 82.880-AgR, rel. Min. Carlos Velloso, DJ 16.05.2003), como na espécie.
+    Em hipótese análoga à dos autos, no julgamento do HC 73.655/GO, Rel. Min. Sydney Sanches, 1ª Turma, DJ 13.9.1996, esta Suprema Corte não conheceu da impetração, visto que a suspensão de habilitação para dirigir veículos automotores não caracteriza cerceamento à liberdade de locomoção:
+    “DIREITO PENAL E PROCESSUAL PENAL. INTERDIÇÃO DE DIREITO: SUSPENSÃO DE HABILITAÇÃO PARA DIRIGIR VEÍCULOS AUTOMOTORES. MULTA PECUNIÁRIA. "HABEAS CORPUS": LIBERDADE DE LOCOMOÇÃO. 1. O "habeas corpus" é instituto processual de índole constitucional, destinado a tutelar a liberdade pessoal de locomoção, em face de constrangimento ilegal (art. 5º, inc. LXVIII, da Constituição Federal e art. 647 do Código de Processo Penal). 2. Não se presta à impugnação de interdição de direito, consistente em suspensão de habilitação para dirigir veículos automotores, nem de sanção pecuniária (multa). 3. Precedentes. 4. "H.C." não conhecido.”
+    Aliás, o saudoso Ministro Teori Zavascki, ao julgar o HC 129.302/PR, 2ª Turma, DJe 21.11.2016, sobre a matéria enfatizou “a inadequação da via processual do habeas corpus para arguir proteção do indivíduo contra ato que não se identifique com ameaça ou restrição ao direito fundamental de locomoção (CF, art. 5º, LXVIII)”, pois “até mesmo o eventual descumprimento da pena acessória imposta no caso não importaria prejuízo à liberdade do condenado”.
+    No mesmo diapasão, destaco decisões monocráticas exaradas em idêntica situação – condenação pelo crime de descaminho com imposição de inabilitação para conduzir veículo automotor: HC 129.873/PR, Rel. Min. Luiz Fux, DJe 21.8.2015; e HC 128.543/PR, Rel. Min. Teori Zavascki, DJe 18.9.2015.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
