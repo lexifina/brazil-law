@@ -1,0 +1,40 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Alessandro Rezende da Silva em favor de Marcelo Aguilar e Thiago Piellusch, contra acórdão do Superior Tribunal de Justiça, que não conheceu do HC 394.233/SP.
+    O Juízo da Vara Criminal da Comarca de Caraguatatuba/SP condenou os pacientes à pena de 6 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, pela prática do crime de roubo qualificado (para ambos) e de uso de drogas (para Thiago Piellusch), tipificados no art. 157, § 2º, I e II, e art. 28 da Lei 11.343/2006.
+    Inconformada com a realização dos interrogatórios por videoconferência, a Defesa interpôs correição parcial perante o Tribunal de Justiça do Estado de São Paulo, que indeferiu liminarmente o recurso.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que não conheceu do HC 394.233/SP.
+    No presente habeas corpus, o Impetrante alega a nulidade dos fundamentos da designação de audiência de interrogatório por videoconferência, porquanto supostamente sem base legal. Sustenta não comprovada a necessidade da medida, visto que a motivação utilizada de interdição do pavimento do Fórum perdura por mais de 02 (dois) anos. Requer, em medida liminar e no mérito, a nulidade do ato que determinou a realização da audiência via videoconferência.
+    Em 9.6.2017, indeferi a liminar.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Edson Oliveira de Almeida, opina pela denegação da ordem.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    Extraio do ato dito coator:
+    “PENAL E PROCESSO PENAL. HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO (DUAS VEZES) E POSSE PARA USO PRÓPRIO DE SUBSTÂNCIA ENTORPECENTE. INTERROGATÓRIOS A SEREM REALIZADOS POR VIDEOCONFERÊNCIA. MOTIVAÇÃO IDÔNEA. NULIDADE AFASTADA. HABEAS CORPUS NÃO CONHECIDO.
+    1. A Primeira Turma do Supremo Tribunal Federal e as Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+    2. ‘A realização de interrogatório por meio de videoconferência é medida que objetiva a desburocratização, agilização e economia da justiça, podendo ser determinada excepcionalmente nas hipóteses previstas no rol elencado no § 2º do art. 185 do Código de Processo Penal’ (RHC 80.358/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 14/03/2017, DJe 22/03/2017)
+    3. No caso, o Juízo de 1º Grau, motivadamente, decidiu adotar a videoconferência para os interrogatórios dos pacientes tendo em vista a interdição, por problemas estruturais, de todo o pavimento do Fórum, onde se situa a sala de audiências que integra a Unidade Judiciária na qual se realizariam os atos processuais.
+    4. Habeas corpus não conhecido”.
+    Contra o ato apontado como coator, prevê a Constituição da República remédio jurídico expresso, o recurso ordinário (art. 102, II, a). Diante da dicção constitucional não cabe a utilização de novo habeas corpus, em caráter substitutivo (HC 109.956/PR, Rel. Min. Marco Aurélio, 1ª Turma, DJe 11.9.2012 e HC 104.045/RJ, de minha relatoria, DJe 06.9.2012).
+    Além disso, não detecto constrangimento ilegal ou teratologia hábil à concessão da ordem de ofício.
+    Observo que o Juízo de primeiro grau designou a audiência de interrogatório por videoconferência, em decisão assim exarada:
+    “Diante da instalação dos equipamentos para realização de teleaudiência nesta Vara Criminal, e considerando as inúmeras dificuldades na apresentação de detentos em audiência, determino que o interrogatório do réu seja colhido através deste sistema.
+    A colheita da prova por teleaudiência visa também evitar o deslocamento do acusado até o Fórum, bem como de todo o efetivo policial para realização da escolta, o que gera um investimento de alta monta para o Estado. Ademais, este prédio não conta com pessoal qualificado que possa garantir a efetiva segurança dos funcionários e do publico em geral.
+    Frise-se ainda o fato de que por diversas vezes os Estabelecimentos Prisionais deixam de apresentar os detentos, justamente por não haver viatura ou escolta disponível, o que gera redesignação das audiências e atraso no andamento processual.
+    No mais, o pavimento do fórum em que se situa a sala de audiências foi recentemente interditado por problemas estruturais do prédio. A utilização da sala foi liberada mediante laudo pericial, no qual se atesta a real existência dos referidos problemas, limitando o número de pessoas em cada sala, num máximo de 07 (sete) pessoas.”
+    Em sede de correição parcial, o Tribunal de Justiça do Estado de São Paulo ressaltou “a excepcionalidade da medida, repita-se, corretamente adotada pelo MM Juiz, diante de questão de ordem pública consistente na necessidade de manter-se a segurança física de integrantes do Poder Judiciário, e das mais diversas instituições que se fariam representar no aludido interrogatório, e mesmo do público em geral, sempre presente no Fórum, de forma a prevenir um eventual, possível e indesejado desabamento, com possibilidade inclusive de vítimas fatais”.
+    O Superior Tribunal de Justiça, ao não conhecer do habeas corpus, asseverou que “foi apresentada motivação idônea para que os acusados não fossem ouvidos presencialmente, estando a utilização do sistema de videoconferência justificada em razão da impossibilidade de se realizar o interrogatório no Fórum”.
+    A Lei 11.900/2009, que alterou a redação do § 2º do artigo 185 do Código de Processo Penal, admitiu a realização do interrogatório do acusado por videoconferência. Confira-se:
+    “Art. 185. O acusado que comparecer perante a autoridade judiciária, no curso do processo penal, será qualificado e interrogado na presença de seu defensor, constituído ou nomeado.
+    § 1º O interrogatório do réu preso será realizado, em sala própria, no estabelecimento em que estiver recolhido, desde que estejam garantidas a segurança do juiz, do membro do Ministério Público e dos auxiliares bem como a presença do defensor e a publicidade do ato.
+    § 2º Excepcionalmente, o juiz, por decisão fundamentada, de ofício ou a requerimento das partes, poderá realizar o interrogatório do réu preso por sistema de videoconferência ou outro recurso tecnológico de transmissão de sons e imagens em tempo real, desde que a medida seja necessária para atender a uma das seguintes finalidades:
+    I - prevenir risco à segurança pública, quando exista fundada suspeita de que o preso integre organização criminosa ou de que, por outra razão, possa fugir durante o deslocamento;
+    II - viabilizar a participação do réu no referido ato processual, quando haja relevante dificuldade para seu comparecimento em juízo, por enfermidade ou outra circunstância pessoal;
+    III - impedir a influência do réu no ânimo de testemunha ou da vítima, desde que não seja possível colher o depoimento destas por videoconferência, nos termos do art. 217 deste Código;
+    IV - responder à gravíssima questão de ordem pública.”
+    Conforme assentado no voto condutor do acórdão apontado como coator, configura-se idônea a motivação apresentada pelo magistrado de primeiro grau, para a realização do interrogatório por videoconferência, principalmente, em razão da impossibilidade de sua realização no Fórum da Comarca.
+    Desse modo, não detecto qualquer ilegalidade na decisão ora atacada do Superior Tribunal de Justiça, porque reconheceu como suficientemente motivada, com demonstração plena da sua excepcionalidade no caso concreto, a realização do interrogatório dos pacientes por videoconferência, nos termos do art. 185 do CPP.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 18 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
