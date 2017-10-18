@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “MANDADO DE SEGURANÇA. ESCREVENTE JURAMENTADO E SUBOFICIAL DE REGISTRO DE IMÓVEIS E TABELIONATO DE NOTAS DA COMARCA DE FORMOSO. REAJUSTE DE APOSENTADORIA. DECADÊNCIA. NÃO CARACTERIZAÇÃO. PRESCRIÇÃO. PEDIDO ADMINISTRATIVO NÃO APRECIADO. CONSUMAÇÃO PRESCRITIVA NÃO CONFIGURADA. ART. 15 DA LEI ESTADUAL 15.150/05. INCONSTITUCIONALIDADE AFASTADA. REAJUSTE DO BENEFÍCIO PREVIDENCIÁRIO. DIREITO LÍQUIDO E CERTO RECONHECIDO. PREQUESTIONAMENTO. DESCABIMENTO. REAJUSTAMENTOS FUTUROS. ABRANGÊNCIA LIMITADA DO MANDAMUS.
+    […].”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 18; 40, § 8º; 201; e 236, todos da Constituição.
+    O recurso extraordinário não deve ser provido. O Plenário do Supremo Tribunal Federal, ao julgar a ADI 4.639, sob a relatoria do Ministro Teori Zavascki, declarou a inconstitucionalidade integral da Lei nº 15.150/2005, do Estado de Goiás. No entanto, houve modulação dos efeitos da declaração de inconstitucionalidade da lei goiana para ressalvar os direitos dos agentes que, até a data da publicação da ata do julgamento da ADI 4.639, já tivessem reunidos os requisitos necessários para obter os correspondentes benefícios de aposentadoria ou pensão.
+    Na hipótese, verifica-se que o benefício previdenciário já havia sido concedido ao ora recorrido antes data da publicação da ata do julgamento da ADI 4.639 (22.05.2015).
+    A jurisprudência desta Corte é firme no sentido de ser aplicável aos aposentados e pensionistas que se enquadram na situação excepcionada pela modulação de efeitos do julgamento da ADI 4.639, inclusive, o reajuste da pensão previsto no art. 15 da Lei estadual nº 15.150/05. Nesse sentido, vejam-se precedentes das duas Turmas deste Tribunal:
+    “DIREITO PREVIDENCIÁRIO. SISTEMA DE APOSENTADORIA DOS DOBRISTAS E CARTORÁRIOS. REAJUSTE DOS PROVENTOS. LEI Nº 15.150/2005 DO ESTADO DE GOIÁS. NORMA DECLARADA INCONSTITUCIONAL PELO PLENÁRIO DO STF NO JULGAMENTO DA ADI 4.639. MODULAÇÃO DOS EFEITOS DA DECISÃO. ACÓRDÃO RECORRIDO PUBLICADO EM 27.8.2014.
+    1. O Plenário desta Corte, no julgamento da ADI 4.639/GO, declarou a inconstitucionalidade da Lei estadual nº 15.150/2005 e modulou os efeitos da decisão para ressalvar (...) os direitos dos agentes que, até a data da publicação da ata deste julgamento, já houvessem reunido os requisitos necessários para obter os correspondentes benefícios de aposentadoria ou pensão (...) .
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido.” (RE 862.857-AgR, Rel.ª Min.ª Rosa Weber, Primeira Turma)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Lei 15.150/2005 do Estado de Goiás. Criação de regime previdenciário alternativo. Reajuste de proventos de aposentadoria conforme Regime Geral da Previdência Social. 3. ADI 4.639. Declaração de inconstitucionalidade da lei. Modulação de efeitos para ressalvar direitos dos agentes que já houvessem reunido requisitos necessários a obter os correspondentes benefícios de aposentadoria ou pensão. 4. Recorrido que se enquadra na ressalva da modulação de efeitos. Precedentes. 5. Agravo regimental a que se nega provimento.” (ARE 744.852-AgR, Rel. Min. Gilmar Mendes, Segunda Turma)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 18 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
