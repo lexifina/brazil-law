@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 61, p. 2):
+    “SERVIDOR PÚBLICO ESTADUAL. Inativo. Professor de Educação Básica II. Pretensão visando incorporação da Gratificação por Trabalho no curso noturno aos proventos de aposentadoria. Impossibilidade. Vantagem pecuniária de caráter condicional, vinculada ao exercício da função em determinado horário. Falta de amparo legal para a incorporação pretendida. Sentença mantida.
+    Recurso improvido.”
+    Os embargos declaratórios foram rejeitados (eDOC 75).
+    No recurso extraordinário, com fulcro no art. 102, III, a e c, do permissivo constitucional, aponta-se ofensa ao art. 40, § 3º, da Constituição Federal.
+    Nas razões recursais, sustenta-se que sobre a denominada Gratificação por Trabalho em Curso Noturno – GTCN, percebida pelo autor quando em atividade, incidia a contribuição previdenciária, sobre a qual devem também ser calculados os proventos de aposentadoria, por força do art. 40, § 3º, da Carta Magna, com a redação dada pela EC 47/05.
+    O Presidente da Seção de Direito Público do TJ/SP negou seguimento ao recurso extraordinário em face da incidência da Súmula 282 do STF e, quanto à alínea c do permissivo constitucional, entendeu não ser cabível à hipótese dos autos.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Observo que o acórdão recorrido decidiu a controvérsia interpretando a Lei Complementar 444/85, entendendo-se que a vantagem em questão não possui caráter genérico e que por essa razão somente será percebida pelos servidores em atividade, esclarecendo que:
+    “De acordo com o art. 86 da Lei Complementar nº 444/85, com a redação dada pela Lei Complementar nº 74/94:
+    ‘Artigo 86 - Os funcionários e servidores integrantes do Quadro do Magistério perderão o direito à Gratificação por Trabalho no Curso Noturno quando ocorrer afastamento, licença ou ausência de qualquer natureza, salvo nas hipóteses de falta abonada, férias, licença-prêmio, licença à gestante, licença adoção, gala, nojo, júri, afastamento para participar de treinamento, orientação técnica ou curso, promovidos pela Secretaria da Educação e de licença para tratamento de saúde, neste último caso até o limite de 45 (quarenta e cinco)’.
+    Com efeito, a gratificação por trabalho noturno não é paga a todo o servidor da ativa, mas apenas àqueles que estão em exercício no horário noturno, cessando o pagamento quando cessar a condição anormal de trabalho. Ou seja, a GTCN constitui-se gratificação que só é paga enquanto perdurar a situação especial, deixando de recebê-la o servidor no momento em que cessar tal situação.
+    Desta forma, verifica-se que esta gratificação não é uma vantagem pecuniária de caráter genérico.” (eDOC 61, pp. 3-4).
+     Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria a análise da legislação local, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF.
+    Ressalta-se o entendimento consolidado nesta Corte segundo o qual a discussão acerca da possibilidade de extensão aos inativos e pensionistas de gratificações concedidas aos servidores em atividade, especialmente quanto à natureza da verba, é adstrita ao âmbito da interpretação da legislação local.
+    Nesse mesmo sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AGENTE DE SEGURANÇA PENITENCIÁRIO. CONTRATO TEMPORÁRIO. ADICIONAL DE LOCAL DE TRABALHO. LEI ESTADUAL 11.717/1994. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. MATÉRIA DIVERSA DA TRATADA NO ARE 646.000 (TEMA 551). 1. Nos termos da orientação sedimentada na Súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em debate. 2. Agravo regimental a que se nega provimento.” (ARE 918.037-AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe 9.12.2015).
+     “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADICIONAL OPERACIONAL PENITENCIÁRIO. NATUREZA JURÍDICA. SÚMULA 280/STF. PRECEDENTES. Em casos análogos, o Supremo Tribunal Federal assentou que, para dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza jurídica das vantagens concedidas aos servidores, se genéricas ou pro labore faciendo, seria necessário o exame da legislação local pertinente (incidência da Súmula 280/STF). Agravo regimental a que se nega provimento.” (ARE 660.811-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 2.2.2015).
+    Por fim, ressalta-se que o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição a justificar a interposição do apelo extremo com base na alínea c do permissivo constitucional,
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários advocatícios fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 18 de outubro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
