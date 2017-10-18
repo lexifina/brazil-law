@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98450, de 9 de outubro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Revisa Solução de Consulta nº 154, de 22 de julho de 2016. Código NCM: 8418.40.00, Ex 01 da Tipi Mercadoria: Congelador (freezer) vertical tipo armário (com abertura frontal), de capacidade de 34 litros, tensão de 120 V, com velocidade de congelamento programável para otimizar a viabilidade celular antes do seu armazenamento criogênico, funcionando na faixa de temperatura de +50°C até -180°C. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 84.18), RGI 6 (texto da subposição 8418.40.00) e RGC/Tipi 1 (texto do Ex 01 do código 8418.40.00) constantes da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016.
+.
+[arquivo anexo: SC Cosit nº 98.450-2017 .pdf]
