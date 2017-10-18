@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98390, de 19 de setembro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 2106.90.90 Mercadoria: Preparação alimentícia em pó, composta de proteína do soro do leite isolada hidrolisada, estabilizante citrato de potássio, espessantes goma carboximetilcelulose sódica (CMC) e goma xantana, edulcorante sucralose e aromas natural e artificial de baunilha, acondicionada em embalagem plástica contendo 1.343g, comercialmente denominada “suplemento proteico para atletas”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 21.06) e RGI 6 (texto da subposição 2106.90) e RGC 1 (texto do item 2106.90.90) constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.390-2017 .pdf]
