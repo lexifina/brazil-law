@@ -1,0 +1,18 @@
+Decisão:
+ementa: Processo Penal. Medida Liminar em Reclamação. Alegada usurpação de competência do Supremo Tribunal Federal. Ausência de plausibilidade do direito. Indeferimento.
+1. A avocação ou o sobrestamento de processo criminal que tramita em primeira instância são medidas drásticas, que retardam a persecução penal. Por esta razão, devem ser tomadas sempre com cautela, e somente quando verdadeiramente fortes indícios de usurpação da competência do Supremo Tribunal Federal.
+2. Da análise dos autos, não resta evidente que a autoridade reclamada tenha sob sua jurisdição processo criminal envolvendo parlamentar, notadamente quando o único elemento citado na petição inicial como suporte para tais alegações é a menção ao nome de parlamentares em denúncia anônima que supostamente deu origem às investigações.
+3. Medida liminar indeferida.
+    1.  Trata-se de reclamação ajuizada em face do Juízo da 5ª Vara Federal Criminal do Rio de Janeiro, que teria usurpado a competência do Supremo Tribunal Federal.
+    2.  Sustenta o reclamante, em síntese, que os fatos investigados na ação penal nº 0017642-26.2014.4.02.5101 envolvem a participação de parlamentares, o que caracteriza usurpação de competência do Supremo Tribunal Federal. Aduz, ainda, que as pessoas mencionadas e investigadas no aludido procedimento criminal são as mesmas investigada do INQ 4.492, sob minha relatoria.
+    3.  A reclamante requer, liminarmente, o sobrestamento da ação penal nº 0017642-26.2014.4.02.5101 e dos feitos a ela correlatos, até o julgamento de mérito da reclamação. No mérito requer a avocação destes processos ao Supremo Tribunal Federal. Requer, alternativamente, a concessão de habeas corpus de ofício para que os autos sejam remetidos ao Supremo Tribunal Federal.
+          É o relatório. Passo a apreciar o pleito liminar.
+    4.  Nos termos do art. 102, I, l , da Constituição, a reclamação destina-se a preservar a competência deste Tribunal e a garantir a autoridade das suas decisões. Nesta última hipótese, pressupõe-se que esta Corte tenha proferido decisão no caso em que o reclamante é parte, ou, ainda, que haja alegado desrespeito a súmula vinculante (CRFB/88, art. 103-A, § 3º).
+    5.  Da análise dos documentos que instruem a presente reclamação, não verifico plausibilidade no direito invocado pelo reclamante. Os fatos objeto de investigação sob condução da autoridade reclamada não parecem envolver o Senador Renan Calheiros, em especial, quando se observa que é apenas o trecho de uma denúncia anônima faz referência ao parlamentar. Não há qualquer outro elemento que comprove que as investigações deflagradas e que a ação penal instaurada tenham por objeto a apuração de condutas por este praticadas. Ademais, o simples fato de a referida ação penal versar sobre fatos praticados no âmbito do fundo POSTALIS e PETROS não conduz à conclusão automática de que o parlamentar seja investigado nela. Deste modo, não há indícios fortes a autorizar a concessão da tutela de urgência.
+    6.  De se ressaltar, no ponto, que a avocação ou o sobrestamento de processo criminal que tramita em primeira instância são medidas drásticas, que retardam sensivelmente a persecução penal. Por esta razão, tais medidas devem sempre ser tomadas com cautela, e somente quando houver fortes indícios de usurpação da competência do Supremo Tribunal Federal, o que não se verifica no caso sob exame.
+    7.  Diante do exposto, indefiro a liminar. Comunique-se com urgência a autoridade reclamada e requisitem-se as informações. Após, abra-se vista ao Ministério Público Federal para manifestação.
+    Publique-se. Int..
+          Brasília, 18 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
