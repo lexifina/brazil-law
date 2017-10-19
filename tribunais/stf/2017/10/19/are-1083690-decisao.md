@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da 22ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “AGRAVO. DIREITO PÚBLICO NÃO ESPECIFICADO. CONSTITUCIONAL. FORNECIMENTO DE MEDICAMENTO À NECESSITADA. SULFATO DE GLICOSAMINA E SULFATO DE CONDROITINA. LEGITIMIDADE PASSIVA DO ESTADO E DO MUNICÍPIO. LAUDO DO DMJ. INEXISTÊNCIA DE EVIDÊNCIA CIENTÍFICA PARA O TRATAMENTO DA DOENÇA COM O FÁRMACO PLEITEADO.
+    O direito à saúde é assegurado a todos, devendo a necessitada receber do ente público os medicamentos necessários.
+    Aplicação do artigo 196 da Constituição Federal.
+    O Estado e o Município possuem legitimidade passiva na demanda visando ao fornecimento de medicamento à necessitada.
+    Posição do 11º Grupo Cível.
+    Precedentes do TJRGS, STJ e STF.
+    Havendo Parecer Técnico do DMJ atestando a inexistência de evidência cientifica para o tratamento da doença que acomete a parte autora com o medicamento pleiteado, não há como se compelir os demandados a fornecê-lo.
+    Agravo desprovido, por maioria.”
+    No recurso extraordinário, sustenta-se violação dos artigos 1º, inciso III, 6º, 196 e 197 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 1º, inciso III, 6º e 197 da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Ademais, colhe-se da decisão monocrática mantida pelo acórdão recorrido os seguintes fundamentos:
+    “Todavia, em relação ao medicamento postulado na inicial da presente demanda, ATROLIVE (Sulfato de Glicosamina+Condroitina), há Parecer Técnico do Departamento Médico Judiciário sobre Sulfato de Glicosamina e Sulfato de Condroitina no tratamento de artrose, datado de 31-10-2013, com a seguinte conclusão ‘Pelo exposto, consideramos que, do ponto de vista da medicina baseada em evidências, o benefício teórico a ser obtido com o uso da associação de sulfato de glicosamina e condroitina para pacientes com artrose não encontra suporte científico na literatura médica corrente.’
+    Como se vê, não obstante a ressalva com relação à responsabilidade solidária do réu no tocante ao fornecimento de medicamentos aos necessitados, o Parecer do DMJ afirma claramente ausência de suporte científico para uso do fármaco pleiteado para a patologia que acomete a parte autora, não havendo como se compelir os demandados a fornecer tal medicamento.”
+    Assim, verifica-se que para acolher a pretensão recursal e divergir do entendimento firmado pelo Tribunal de origem seria imprescindível o reexame do conjunto fático-probatório dos autos, o que se mostra incabível no âmbito do recurso extraordinário. Incidência da Súmula nº 279/STF. Sobre o tema, anotem-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. SUBSTITUIÇÃO POR FÁRMACOS FORNECIDOS PELO SISTEMA ÚNICO DE SAÚDE – SUS. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO. REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE nº 827.931/SC-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 26/9/14).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. EFEITOS INFRINGENTES. CONVERSÃO EM AGRAVO REGIMENTAL. DIREITO CONSTITUCIONAL. FORNECIMENTO DE MEDICAMENTO. ADEQUAÇÃO DO MEDICAMENTO PRESCRITO. REEXAME DE PROVAS. IMPOSSIBILIDADE: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 924.158/MG-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 29/2/16).
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Fornecimento de medicamento. Medicamento não disponibilizado pelo SUS. Perícia judicial que conclui pela possibilidade de sua substituição por outro constante na rede pública. Escolha do melhor tratamento. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A verificação acerca do melhor tratamento a que deve ser submetido o agravante enseja, inevitavelmente, o reexame do conjunto fático-probatório da causa, para o que não se presta o recurso extraordinário. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido” (RE nº 801.841/PR-AgR, Segunda Turma, de minha relatoria, DJe de 4/9/15).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 19 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
