@@ -1,0 +1,38 @@
+Decisão: Trata-se de agravo regimental interposto contra decisão de minha lavra que negou seguimento ao mandado de segurança.
+    Nas razões recursais, a agravante afirma que dos cinco argumentos autônomos utilizados para fundamentar a impetração três já foram efetivamente vencidos pela jurisprudência do STF, motivo pelo qual apenas insistirá com relação a dois deles.
+    Primeiramente, afirma que a decisão agravada não enfrentou a alegação de que o CNJ, ao acolher o pedido de revisão disciplinar, teria realizado, na verdade, juízo recursal e não revisional, violando o art. 103, § 4º, da CF e 83, I, RICNJ. A esse propósito aduz o seguinte:
+    “Se o pedido de revisão disciplinar somente é cabível quando se verificasse uma ‘decisão contrária evidência dos autos’, não poderia o CNJ reconhecer que o que ocorrera no âmbito do TRF fora uma ‘apuração ligeira dos fatos’ e uma ‘ausência de aprofundamento na persecução administrativa dos fatos’, pois, ao assim fazer, está o CNJ reconhecendo que não estava diante da hipótese de cabimento do pedido de revisão disciplinar.
+    58. Realmente, nesse ponto, está o CNJ reconhecendo que houve alguma apuração dos fatos, mas que ela não teria sido aprofundada, o que não leva à conclusão de ter sido proferido uma decisão contrária à ‘evidência dos autos’.
+    (…)
+    Tal raciocínio, como parece óbvio, não parte do pressuposto regimental de que seria necessária uma ‘revisão dos fatos’, mas sim uma ‘nova avaliação’, em claro procedimento ‘recursal’ e não ‘revisional’. (eDOC 38, p. 10)
+    Por fim, salienta que, apesar de a rejeição da denúncia pelo STJ não implicar a negativa de existência dos fatos ou de sua autoria, o que afastaria sua responsabilidade, o CNJ não teve a oportunidade de fazer o cotejo entre a referida decisão e os fatos postos no processo administrativo disciplinar.
+    A União apresentou contrarrazões requerendo, preliminarmente, o não conhecimento do agravo, uma vez que o recurso não teria impugnado todos os fundamentos da decisão agravada.
+    Afirmou ainda que “não há qualquer ilegalidade no ato do CNJ que determinou a abertura do processo administrativo disciplinar para apurar as condutas reputadas à impetrante e que consistiriam em faltas funcionais” (eDOC 42, p. 5-6).
+    Decido.
+    Após detida análise dos autos, entendo que assiste razão à agravante, motivo pelo qual passo ao juízo de reconsideração.
+    O artigo 83 do Regimento Interno do Conselho Nacional de Justiça, ao tratar da revisão disciplinar, assim determina:
+    “Art. 83. A revisão dos processos disciplinares será admitida:
+I - quando a decisão for contrária a texto expresso da lei, à evidência dos autos ou a ato normativo do CNJ;
+II - quando a decisão se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a decisão, surgirem fatos novos ou novas provas ou circunstâncias que determinem ou autorizem modificação da decisão proferida pelo órgão de origem”.
+    Extrai-se dos autos que o fundamento para o acolhimento do pedido de revisão disciplinar pelo CNJ consiste, em síntese, no fato de que a decisão do TRF da 1ª Região, de arquivamento do procedimento avulso, foi precipitada e contrária à evidência dos autos, sem aprofundamento da apuração dos graves fatos noticiados, diante da existência de indícios suficientes de prática de atos com aptidão, em tese, para caracterizar infração disciplinar.
+    Entretanto, o voto do relator no TRF da 1ª Região, acolhido à unanimidade naquela Corte, considerou de forma fundamentada todos os fatos objetivamente apontados como objeto de investigação. Cada fato foi descrito, cotejado com os esclarecimentos da impetrante e avaliado de forma individualizada, tendo-se concluído, com apoio nos elementos colhidos na investigação, que não estariam configurados ilícitos por parte da ora impetrante.
+    Há que se ressaltar que o devido processo legal foi estritamente observado no âmbito do procedimento avulso que tramitou perante o TRF da 1ª Região, não havendo qualquer ilegalidade na atuação daquela Corte.
+    Assim, observa-se que a decisão do CNJ reconhece a análise dos fatos exercida pelo TRF-1ª Região, mas diverge quanto à forma e a dimensão de sua apreciação jurídica, configurando verdadeiro juízo recursal, hipótese não admitida no âmbito da revisão disciplinar.
+    Destaco que o próprio CNJ, em casos semelhantes ao presente, tem assentado a impossibilidade da utilização da revisão disciplinar como sucedâneo recursal, conforme se extrai das seguintes decisões:
+    REVISÃO DISCIPLINAR. TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO. ARQUIVAMENTO DE SINDICÂNCIA. REANÁLISE DO CONJUNTO PROBATÓRIO. PRETENSÃO RECURSAL. FALTA DE PREVISÃO REGIMENTAL. IMPROCEDÊNCIA.
+    1. A requerente, ao pleitear a revisão da decisão, apresentou apenas o relato que já fora apreciado pelo Órgão Pleno do Tribunal por ocasião do julgamento da Sindicância nº 3/2012, e não demonstrou, em sua alegação, que as provas dos autos estão em sentido contrário à decisão de arquivamento, de modo que a presente Revisão é, claramente, usada como sucedâneo recursal.
+2. Esta Corte tem entendimento sedimentado no sentido de que a Revisão Disciplinar não possui natureza recursal. Ao contrário, trata-se de procedimento administrativo autônomo, cujos requisitos estão expressamente elencados no art. 83 do Regimento Interno deste Conselho.
+3. A revisão disciplinar não se presta para reexame da matéria objeto de anterior análise e decisão anterior pelo Tribunal censor, não podendo a parte, por meio do processo revisional, retomar a discussão da causa em si, especificamente acerca da correção ou não da deliberação originária. É possível a reapreciação do acervo probante em situação semelhante à da revisão criminal. Cabe o controle da legalidade do procedimento disciplinar, o que também não foi demonstrado no caso sob exame.
+    4. Revisão Disciplinar julgada improcedente. (Revisão Disciplinar 0003374-97.2013.2.00.0000, Rel. Conselheiro Guilherme Calmon Nogueira da Gama, julgado em 11.2.2014)
+    “REVISÃO DISCIPLINAR. APURAÇÃO DE INFRAÇÕES DISCIPLINARES PRATICADAS POR MAGISTRADO. TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ. AUSÊNCIA DAS HIPÓTESES DE CABIMENTO PREVISTAS NO ARTIGO 83 DO REGIMENTO INTERNO DO CONSELHO NACIONAL DE JUSTIÇA. NÃO CONHECIMENTO.
+1. Consoante entendimento sedimentado no âmbito do CNJ, a revisão disciplinar não possui natureza recursal, caracterizando procedimento administrativo autônomo, cujos requisitos de admissibilidade estão taxativamente dispostos nos Artigos 82 e 83 do RICNJ.
+    2. Deve ser mantida a pena de aposentação compulsória imposta a magistrado ao fim de processo administrativo disciplinar no qual foram respeitadas as garantias do contraditório e da ampla defesa.
+    3. A aplicação da penalidade de aposentação compulsória não acarreta, por si só, a impossibilidade de instauração de novo processo disciplinar para a apuração de outras infrações administrativas, tendo em vista a possibilidade de posterior modificação da decisão administrativa condenatória, que não fica acobertada pelo manto da coisa julgada.
+    4. Revisão Disciplinar julgada improcedente. (Revisão Disciplinar 0006929-25.2013.2.00.0000, Rel. Conselheira Ana Maria Duarte Amarante Brito, julgado em 5.12.2014)
+    Ante o exposto, reconsidero a decisão constante do eDOC 32, julgo prejudicado o agravo regimental e concedo a segurança para anular a decisão proferida nos autos do Processo de Revisão Disciplinar n. 0000976-22.2009.2.00.0000, que determinou a instauração do Processo Administrativo Disciplinar n. 0006004-34.2010.2.00.0000.
+    Publique-se.
+    Brasília, 19 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
