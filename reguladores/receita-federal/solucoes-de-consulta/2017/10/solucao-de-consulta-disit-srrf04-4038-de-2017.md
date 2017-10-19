@@ -1,0 +1,14 @@
+Solução de Consulta Disit/SRRF04 nº 4038, de 17 de outubro de 2017
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins REGIME CUMULATIVO. PRODUTOS MÉDICOS E HOSPITALARES. ALÍQUOTA ZERO. IMPOSSIBILIDADE. A redução a zero da alíquota da Contribuição para o PIS/Pasep prevista no art. 1º, III, do Decreto nº 6.426, de 2008, aplica-se apenas ao regime de apuração não cumulativa desse tributo, não abrange o regime de apuração cumulativa, e alcança receitas decorrentes da venda, no mercado interno, de produtos nacionais ou importados. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 222, DE 2017. Dispositivos Legais: Lei nº 10.833, de 2003, art. 2º, § 3º; Decreto nº 6.426, de 2008, art. 1º, III. Assunto: Contribuição para o PIS/Pasep REGIME CUMULATIVO. PRODUTOS MÉDICOS E HOSPITALARES. ALÍQUOTA ZERO. IMPOSSIBILIDADE. A redução a zero da alíquota da Contribuição para o PIS/Pasep prevista no art. 1º, III, do Decreto nº 6.426, de 2008, aplica-se apenas ao regime de apuração não cumulativa desse tributo, não abrange o regime de apuração cumulativa, e alcança receitas decorrentes da venda, no mercado interno, de produtos nacionais ou importados. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 222, DE 2017. Dispositivos Legais: Lei nº 10.637, de 2002, art. 2º § 3º; Decreto nº 6.426, de 2008, art. 1º, III.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+REGIME CUMULATIVO. PRODUTOS MÉDICOS E HOSPITALARES. ALÍQUOTA ZERO. IMPOSSIBILIDADE.
+A redução a zero da alíquota da Contribuição para o PIS/Pasep prevista no art. 1º, III, do Decreto nº 6.426, de 2008, aplica-se apenas ao regime de apuração não cumulativa desse tributo, não abrange o regime de apuração cumulativa, e alcança receitas decorrentes da venda, no mercado interno, de produtos nacionais ou importados.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 222, DE 2017.
+Dispositivos Legais: Lei nº 10.833, de 2003, art. 2º, § 3º; Decreto nº 6.426, de 2008, art. 1º, III.
+Assunto: Contribuição para o PIS/Pasep
+REGIME CUMULATIVO. PRODUTOS MÉDICOS E HOSPITALARES. ALÍQUOTA ZERO. IMPOSSIBILIDADE.
+A redução a zero da alíquota da Contribuição para o PIS/Pasep prevista no art. 1º, III, do Decreto nº 6.426, de 2008, aplica-se apenas ao regime de apuração não cumulativa desse tributo, não abrange o regime de apuração cumulativa, e alcança receitas decorrentes da venda, no mercado interno, de produtos nacionais ou importados.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 222, DE 2017.
+Dispositivos Legais: Lei nº 10.637, de 2002, art. 2º § 3º; Decreto nº 6.426, de 2008, art. 1º, III.
+FLÁVIO OSÓRIO DE BARROS Chefe
