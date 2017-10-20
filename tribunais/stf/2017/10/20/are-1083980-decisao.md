@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que reputou incabível o mandado de segurança impetrado contra ato judicial praticado no âmbito do juizado especial federal, em fase de execução.
+    No RE, fundado no art. 102, III, a e b, da Constituição Federal, sustenta-se, em suma, violação aos arts. 5°, LXIX, e 37, § 6°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, observo que o art. 37, § 6°, da Constituição não foi prequestionado. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, transcrevo a ementa do ARE 909.749-AgR/DF, da relatoria do Min. Roberto Barroso:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 1. A questão constitucional alegada no recurso extraordinário não foi objeto de análise pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF. 2.Agravo regimental a que se nega provimento”.
+    Além disso, os Ministros desta Corte, ao julgarem o AI 800.074-RG (Tema 318), de relatoria do Ministro Gilmar Mendes, rejeitaram a repercussão geral da matéria relativa ao preenchimento dos requisitos de admissibilidade do mandado de segurança, conforme se verifica na ementa do aludido julgado:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral”
+    Outrossim, em caso análogo ao dos autos, este Tribunal, no julgamento do RE 576.847-RG, da relatoria do Ministro Eros Grau (Tema 77 da repercussão geral), firmou tese no sentido de que “não cabe mandado de segurança das decisões interlocutórias exaradas em processos submetidos ao rito da Lei 9.099/1995”.
+    Por fim, o recorrente não demonstrou de que forma o acórdão impugnado teria declarado a inconstitucionalidade de tratado ou lei federal, de forma a ensejar o cabimento de recurso extraordinário com base na alínea b do art. 102, III, da CF. Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da Súmula 284 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: ARE 952.448-AgR/SP, Rel. Min. Roberto Barroso; ARE 771.250/SP, Rel. Min. Gilmar Mendes; AI 753.967/SP, Rel. Min. Joaquim Barbosa; ARE 717.574/RS e AI 833.240-AgR/RO, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 20 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
