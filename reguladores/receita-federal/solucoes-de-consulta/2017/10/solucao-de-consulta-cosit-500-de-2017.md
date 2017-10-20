@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 500, de 16 de outubro de 2017
+ASSUNTO: CONTRIBUIÇÕES PREVIDENCIÁRIAS. EMENTA: AGROINDÚSTRIA. CONTRIBUIÇÃO SUBSTITUTIVA DO ART. 22-A LEI Nº 8.212/1991. ATIVIDADE DE GERAÇÃO DE ENERGIA ELÉTRICA. PRESTAÇÃO DE SERVIÇOS NÃO CARACTERIZADA. NÃO ENQUADRAMENTO NAS EXCEÇÕES PREVISTAS NOS §§ 2º E 3º DO ART. 22-A DA LEI Nº 8.212/1991. A energia elétrica é considerada bem móvel incorpóreo, de forma que sua comercialização não configura prestação de serviços. Portanto, não é possível o enquadramento de agroindústria que também atua na geração de energia elétrica nas exceções previstas nos §§ 2º e 3º do art. 22-A da Lei nº 8.212/1991. DISPOSITIVOS LEGAIS: art. 22-A da Lei nº 8.212/1991.
+[arquivo anexo: SC Cosit nº 500-2017.pdf]
