@@ -2,4 +2,5 @@ Art. 26. Somente as empresas de auditoria contábil ou auditores contábeis inde
 § 1º - A Comissão estabelecerá as condições para o registro e o seu procedimento, e definirá os casos em que poderá ser recusado, suspenso ou cancelado.
 § 2º - As empresas de auditoria contábil ou auditores contábeis independentes responderão, civilmente, pelos prejuízos que causarem a terceiros em virtude de culpa ou dolo no exercício das funções previstas neste artigo.
 § 3º Sem prejuízo do disposto no parágrafo precedente, as empresas de auditoria contábil ou os auditores contábeis independentes responderão administrativamente, perante o Banco Central do Brasil, pelos atos praticados ou omissões em que houverem incorrido no desempenho das atividades de auditoria de instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.
+§ 4º Na hipótese do parágrafo anterior, o Banco Central do Brasil aplicará aos infratores as penalidades previstas no art. 11 desta Lei.
 § 5º (VETADO)
