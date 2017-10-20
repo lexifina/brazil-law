@@ -1,0 +1,24 @@
+DECISÃO
+     Trata-se de Recurso Extraordinário interposto, com fundamento no art. 102, III, da Constituição Federal, contra acórdão da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária de São Paulo que, ao confirmar a sentença proferida em Ação de Repetição de Indébito, reconheceu, no caso, a incidência da prescrição decenal.
+    A parte recorrente alega que o aresto impugnado violou o art. 5º, caput, LIV e LV, da Constituição Federal, pois, no caso, a prescrição é quinquenal, haja vista que presente ação foi ajuizada após o prazo de vacatio legis da LC 118/2005.
+    Em contrarrazões, a parte recorrida, preliminarmente, defende o descabimento do recurso por ausência de afronta a dispositivo constitucional e pela deficiência na demonstração da repercussão geral da matéria. No mérito, assevera, em suma, não haver qualquer violação ao devido processo legal e aos princípios do contraditório e da ampla defesa.
+    É relatório. Decido.
+    Não merecem prosperar as preliminares de não conhecimento do apelo extremo. A matéria discutida no acórdão tem caráter constitucional, tendo, inclusive, recebido o selo da repercussão geral pelo Pleno deste Tribunal, conforme se exporá a seguir.
+    A irresignação merece prosperar. O Plenário desta CORTE, no julgamento do RE 566.621-RG (Min. Rel. ROSA WEBER, Tema 4), pacificou a matéria objeto deste apelo. Confira-se a ementa do acórdão:
+    DIREITO TRIBUTÁRIO – LEI INTERPRETATIVA – APLICAÇÃO RETROATIVA DA LEI COMPLEMENTAR Nº 118/2005 – DESCABIMENTO – VIOLAÇÃO À SEGURANÇA JURÍDICA – NECESSIDADE DE OBSERVÂNCIA DA VACACIO LEGIS – APLICAÇÃO DO PRAZO REDUZIDO PARA REPETIÇÃO OU COMPENSAÇÃO DE INDÉBITOS AOS PROCESSOS AJUIZADOS A PARTIR DE 9 DE JUNHO DE 2005.
+    Quando do advento da LC 118/05, estava consolidada a orientação da Primeira Seção do STJ no sentido de que, para os tributos sujeitos a lançamento por homologação, o prazo para repetição ou compensação de indébito era de 10 anos contados do seu fato gerador, tendo em conta a aplicação combinada dos arts. 150, § 4º, 156, VII, e 168, I, do CTN.
+    A LC 118/05, embora tenha se auto-proclamado interpretativa, implicou inovação normativa, tendo reduzido o prazo de 10 anos contados do fato gerador para 5 anos contados do pagamento indevido.
+    Lei supostamente interpretativa que, em verdade, inova no mundo jurídico deve ser considerada como lei nova.
+    Inocorrência de violação à autonomia e independência dos Poderes, porquanto a lei expressamente interpretativa também se submete, como qualquer outra, ao controle judicial quanto à sua natureza, validade e aplicação.
+    A aplicação retroativa de novo e reduzido prazo para a repetição ou compensação de indébito tributário estipulado por lei nova, fulminando, de imediato, pretensões deduzidas tempestivamente à luz do prazo então aplicável, bem como a aplicação imediata às pretensões pendentes de ajuizamento quando da publicação da lei, sem resguardo de nenhuma regra de transição, implicam ofensa ao princípio da segurança jurídica em seus conteúdos de proteção da confiança e de garantia do acesso à Justiça. Afastando-se as aplicações inconstitucionais e resguardando-se, no mais, a eficácia da norma, permite-se a aplicação do prazo reduzido relativamente às ações ajuizadas após a vacatio legis, conforme entendimento consolidado por esta Corte no enunciado 445 da Súmula do Tribunal.
+    O prazo de vacatio legis de 120 dias permitiu aos contribuintes não apenas que tomassem ciência do novo prazo, mas também que ajuizassem as ações necessárias à tutela dos seus direitos.
+    Inaplicabilidade do art. 2.028 do Código Civil, pois, não havendo lacuna na LC 118/08, que pretendeu a aplicação do novo prazo na maior extensão possível, descabida sua aplicação por analogia. Além disso, não se trata de lei geral, tampouco impede iniciativa legislativa em contrário.
+    Reconhecida a inconstitucionalidade art. 4º, segunda parte, da LC 118/05, considerando-se válida a aplicação do novo prazo de 5 anos tão-somente às ações ajuizadas após o decurso da vacatio legis de 120 dias, ou seja, a partir de 9 de junho de 2005.
+    Aplicação do art. 543-B, § 3º, do CPC aos recursos sobrestados. Recurso extraordinário”
+    O acordão recorrido, no entanto, contrariou esse entendimento, haja vista que a presente ação foi proposta em 20/2/2008, ou seja, em data posterior ao prazo de 120 dias de publicação da LC 118/2005, devendo, portanto, ser aplicado o prazo prescricional de 5 anos, contados do ajuizamento da ação.
+    Diante do exposto, com base no art. 21, § 1º e 2º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, DOU PROVIMENTO AO RECURSO EXTRORDINÁRIO para apenas, e tão somente, limitar a restituição dos valores indevidamente pagos ao período de cinco anos anteriores à propositura da ação.
+    Publique-se.
+    Brasília, 20 de outubro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
