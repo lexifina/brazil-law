@@ -1,0 +1,39 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus interposto por Jair Francisco Felix, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 382.163/MS, Relator o Ministro Félix Fischer.
+    Sustenta o recorrente, em síntese, que faria jus à incidência da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/06, haja vista tratar-se de réu primário, portador de bons antecedentes e que não se dedica a atividades criminosas e sequer integra organização criminosa.
+    Assevera
+    “que a decisão objurgada, proferida pelo Tribunal e corroborada pelo Superior Tribunal de Justiça, no sentido de que o Recorrente integra organização criminosa, não se pautou, a bem da verdade, em elementos concretos extraídos do bojo probatório, mas, sim, em mera conjecturas absolutamente inidôneas para estear um decreto condenatório”.
+    Requer o provimento do recurso para que, concedida a ordem de habeas corpus, seja aplicada a redução entabulada no § 4º do artigo 33 da Lei de Drogas.
+    É o relatório.
+    Decido.
+    Transcrevo a ementa do acórdão recorrido:
+    “PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. INCIDÊNCIA DA MINORANTE DO § 4º DO ART. 33 DA LEI 11.343/2006. IMPOSSIBILIDADE. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL NO WRIT. AGRAVO DESPROVIDO.
+    I - ‘O entendimento deste Tribunal firmou-se no sentido de que, em sede de habeas corpus, não cabe qualquer análise mais acurada sobre a dosimetria da reprimenda imposta nas instâncias inferiores, se não evidenciada flagrante ilegalidade, tendo em vista a impropriedade da via eleita’ (HC n. 39.030/SP, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJU de 11/4/2005).
+    II - Os requisitos previstos na causa de diminuição do tráfico privilegiado (primariedade, bons antecedentes, não dedicação à atividades criminosas ou não participação em organização criminosa) são de observância cumulativa. A ausência de qualquer deles implica o afastamento da causa de diminuição de pena.
+    III - Na presente hipótese, verifica-se razoável o afastamento da aplicação da minorante. É que o fundamento para afastar o benefício foi a convicção da participação do paciente em organização criminosa, juízo de fato que está adequadamente fundamentado nos títulos judiciais das instâncias ordinárias.
+    IV - Esta Corte Superior tem entendido que ‘concluído pela instância antecedente, com fulcro nas circunstâncias fáticas do delito e nos demais elementos colhidos na instrução, que o paciente se dedica a atividades ilícitas, bem como que há indícios que integre organização criminosa, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus’ (HC n. 354.522/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/6/2016).
+    Agravo regimental desprovido” (fl. 420 – grifos do autor).
+    Pelo que há no julgado proferido pela Quinta Turma do Superior Tribunal de Justiça não se vislumbra ilegalidade flagrante, abuso de poder ou teratologia. Com efeito, a decisão emanada daquela Corte encontra-se suficientemente motivada, restando justificado o convencimento formado.
+    No tocante à incidência da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, destacou o Ministro Félix Fischer no voto condutor do acórdão que,
+    “[n]a presente hipótese, verifica-se razoável o afastamento da aplicação da minorante. É que o fundamento para afastar o benefício foi a convicção da participação do paciente em organização criminosa, juízo de fato que está adequadamente fundamentado nos títulos judiciais das instâncias ordinárias.
+    De fato, da sentença condenatória extrai-se que:
+    ‘Quanto ao tráfico de drogas, a materialidade do delito está demonstrada pelos laudos periciais acima citados e depoimentos testemunhais, assim como pela confissão do acusado realizada na fase judicial.
+    O acusado confirma que foi contratado para o transporte da droga e que as armas e munições eram da sua propriedade, embora não tivesse autorização para tanto.
+    As testemunhas ouvidas em juízo afirmaram unanimemente que a droga estava acondicionada dentro da cabine do veículo e o réu prontamente reconheceu aos policiais que sabia que transportava a droga. Afirmam que o réu admitiu que foi contratado para levar a droga, indicou quanto ganharia para o transporte.
+    As testemunhas ouvidas afirmaram que o réu estava de fato transportando os 62 quilos de cocaína, 01 arma de fogo e as munições. Confirmam o contido na denúncia de que o réu conduzia o veículo apreendido.
+    Os depoimentos judiciais confirmam exatamente os elementos de informação colhidos na fase policial de modo que tudo o que consta dos autos aponta com segurança para a procedência do pedido autoral.
+    O conjunto probatório se apresenta de forma precisa e segura apontando a autoria, materialidade e responsabilidade criminal do acusado, conferindo o necessário juízo de certeza para a prolação da sentença condenatória.
+    O privilégio previsto no artigo 33, § 4º, da lei em comento não pode ser aplicado. Observe-se que o réu foi contratado para transporte de relevante quantidade de droga consistente em 62 quilos de cocaína. Esse conjunto de fatores gera a convicção de dedicação e adesão à associação criminosa, sendo que seria ingênuo acreditar que tão expressiva quantidade de droga seja transportada sem o amparo de uma estrutura criminosa’ (fls. 237-238).
+    Já do v. acórdão reprochado destaque-se a passagem abaixo:
+    ‘[...] Sucede que o julgador de instância singela, conquanto tenha sustentado o afastamento da redutora especial afirmando a apreensão de grande quantidade de cocaína não o fez somente com base neste fato, mas concluiu que desses fatores somados às circunstâncias dessume-se que o apelante estivesse integrado à organização criminosa.
+    Assim, a despeito da natureza e quantidade de droga - já empregadas na primeira fase - há, ainda, motivação suficiente para não aplicar a causa especial de diminuição ao apelante, evidenciada sua integração a grupo criminoso, sem que isso incorra em bis in idem, consoante entendimento dos Tribunais Superiores verificados nos paradigmas (HC 112.776/MS e ARE 666.334/AM).
+    Desse modo, a redutora do § 4º do art. 33 da Lei 11.343/06, não deve ser aplicada’ (fls. 352-353)’.” (fls. 426/427 – grifos do autor).
+    Tem-se, portanto, que o entendimento do Superior Tribunal de Justiça não se contrapõe ao do Supremo Tribunal Federal, consolidado no sentido de que, concluindo a instância ordinária, para afastar a causa de diminuição de pena do art. 33, § 4º, da Lei nº 11.343/06, que o paciente se dedicava a atividade criminosa, torna-se inviável a utilização do habeas corpus para revolver o contexto fático-probatório e glosar os elementos de prova que ampararam aquela conclusão (v.g. HC nº 122.249/SP, Primeira Turma, de minha relatoria, DJe de 7/10/14).
+    Perfilhando esse entendimento: HC nº 123.042/MG, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 31/10/14; RHC nº 105.150, Primeira Turma, de minha relatoria, DJe de 4/5/12; RHC nº 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12/5/14; HC nº 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11/3/14; e o HC nº 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/5/12.
+    Com essas considerações, nos termos do art. 192, caput, c/c o art. 312, caput, ambos do Regimento Interno da Corte, nego provimento ao recurso ordinário.
+    Publique-se.
+    Brasília, 20 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
