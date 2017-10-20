@@ -1,0 +1,7 @@
+O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE ALAGOAS, no uso das atribuições que lhe confere o parágrafo 6º do artigo 89 da Constituição Estadual, promulga a seguinte Lei:
+
+LEI Nº 7.937, DE 18 DE OUTUBRO DE 2017.
+
+Autor: Dep. Marcelo Victor.
+
+INSTITUI O DIÁRIO OFICIAL ELETRÔNICO DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE ALAGOAS, ALTERA O § 1º DO ART. 1º DA LEI Nº 7.397, DE 03 DE AGOSTO DE 2012 E DÁ OUTRAS PROVIDENCIAS.
