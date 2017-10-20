@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão do Colégio Recursal do Estado de São Paulo assim ementado (eDOC 2, p. 42):
+    “Servidor Estadual- Exercício de Atividade Insalubre - Ausência de lei a regulamentar a situação laborativa especial - Incidência do disposto no artigo 57, da Lei n° 8.213/91 - Procedente - Sentença mantida pelos próprios fundamentos - Recurso não provido.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 56).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 40, III e §§ 4º e 10, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “Não se há falar, pois, em conversão de tempo especial em comum dentro das regras da aposentadoria especial, uma vez que esta última exige tenha o segurado trabalhado sujeito a condições especiais que prejudiquem a saúde ou a integridade física, de forma permanente, e não ocasional nem intermitente, pelo período de 15. 20 ou 25 anos.” (eDOC 2, p. 79).
+    A Presidência do TJ/SP inadmitiu o recurso, com base no óbice das Súmulas 282 e 356 do STF e por configurar ofensa reflexa à CF/88 (eDOC 2, pp. 81-82).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Quando do julgamento do recurso inominado, o Colégio Recursal, com apoio nos fatos e provas dos autos, decidiu manter a sentença originária (eDOC 2, p. 1) que deferiu a averbação, no prontuário do Recorrido, do período em que trabalhou em condições especiais, determinando a aplicação do fator previdenciário de 1,4, para fins de aposentadoria especial, na forma da Lei 8.213/91, e para os demais fins de direito.
+    Sendo essas as razões acolhidas para fundamentar o acórdão recorrido, haveria indevida incursão probatória para desconstituir a hipótese fática, providência não admitida em sede extraordinária, ante o óbice da Súmula 279 do STF.
+    No que tange aos fundamentos acolhidos pelo Colégio Recursal, o acórdão recorrido não diverge do entendimento desta Corte no sentido de que, enquanto não editada lei complementar de que trata o artigo 40, § 4º, da Constituição Federal, os servidores têm direito à aposentadoria especial, consoante as normas do Regime Geral de Previdência Social, especificamente os artigos 57 e 58 da Lei 8.213/91. Nesse sentido, o aravo regimental no MI 3.650, rel. Min. Teori Zavascki, Tribunal Pleno:
+    “MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO. ART. 40, § 4º, DA CONSTITUIÇÃO FEDERAL, APLICAÇÃO DAS NORMAS DO REGIME GERAL DE PREVIDÊNCIA SOCIAL. SÚMULA VINCULANTE 33/STF. AGRAVO DESPROVIDO. 1. Segundo a jurisprudência do STF, firmada a partir do julgamento dos Mandados de Injunção 721 e 758 (Min. Marco Aurélio, DJe de 30/11/2007 e DJe de 26/09/2008), a omissão legislativa na regulamentação do art. 40, § 4º, da Constituição deve ser suprida mediante a aplicação das normas do Regime Geral de Previdência Social, atualmente previstas na Lei 8.213/91 e no Decreto 3.048/99. 2. O entendimento reiterado sobre o tema foi recentemente consolidado na Súmula Vinculante 33: Aplicam-se ao servidor público, no que couber, as regras do Regime Geral da Previdência Social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica. 3. Agravo regimental desprovido.”
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC, e do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 20 de outubro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
