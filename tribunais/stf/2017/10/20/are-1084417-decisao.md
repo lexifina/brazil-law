@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão da Turma Criminal do Colégio Recursal – Itapetininga/SP, que negou provimento ao recurso da defesa e manteve sentença que condenou os ora recorrentes às penas de 19 dias de prisão simples pela prática dos delitos previstos nos arts. 42, III; 42, I e III, da Lei das Contravenções Penais (Decreto-Lei nº 3.668/1941).
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXIX, XLVI, e 93, IX, da Constituição.
+    O recurso é inadmissível, tendo em vista que as partes recorrentes se limitam a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Nessa linha, vejam-se o ARE 954.933, Rel. Min. Gilmar Mendes; e o RE 639.544, Rel. Min. Luiz Fux, assim ementado:
+    “RECURSO EXTRAORDINÁRIO. PENAL E PROCESSUAL PENAL. PERTURBAÇÃO DO TRABALHO OU DO SOSSEGO ALHEIOS (ART. 42, III, DO DECRETO-LEI 3.688/41). MATERIALIDADE. COMPROVAÇÃO. EXAME PERICIAL. EXIGIBILIDADE. REPERCUSSÃO GERAL NÃO EXAMINADA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. REEXAME DE FATOS E PROVAS. SÚMULA 279 DESTA CORTE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DE FATOS E PROVAS. SÚMUAL N. 279 DO STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+    1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF).
+    2. Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    3. O reexame dos fatos e provas que fundamentaram a decisão recorrida inviabiliza o processamento do recurso extraordinário, ante a vedação contida no enunciado da Súmula n. 279 desta Corte, verbis: para simples reexame de prova não cabe recurso extraordinário .
+    4. A controvérsia sub judice possui índole infraconstitucional, por isso que eventual ofensa à Constituição operar-se-ia de forma indireta, circunstância que inviabiliza a admissão do extraordinário. (Precedentes: RE 148.512, Relator o Ministro ILMAR GALVÃO, 1ª Turma, DJ de 2.8.96; AI 157.906-AgR, Relator o Ministro SYDNEY SANCHES, 1ª Turma, DJ de 9.12.94; AI 145.680-AgR, Relator o Ministro CELSO DE MELLO, 1ª Turma, DJ de 30.4.93).”
+    5 . Recurso extraordinário a que se nega seguimento.
+    Ademais, a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido, vejam-se o AI 797.666-AgR, Rel. Min Ayres Britto; o AI 796.208-AgR, Rel Min. Dias Toffoli; e o RE 505.815-AgR, Rel. Min. Joaquim Barbosa.
+    Esta Corte tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 20 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
