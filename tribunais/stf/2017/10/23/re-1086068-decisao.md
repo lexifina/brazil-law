@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado do Amazonas. Aparelhado o recurso na afronta aos arts. 5°, LIV e LV, e 93, IX, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    A Corte de origem consignou que “[...] o direito ao recebimento da encimada Gratificação já foi alvo de discussão no referido mandamus, de modo que os questionamentos suscitados no presente recurso de apelação com o objetivo de afasta-lo não se mostram passíveis de reapreciação por este Colegiado, sob pena de ofensa ao manto da coisa julgada”.
+    Da leitura dos fundamentos do acórdão prolatado na origem, constato explicitados os motivos de decidir, a afastar o vício da nulidade por negativa de prestação jurisdicional arguido. Destaco que, no âmbito técnico-processual, o grau de correção do juízo de valor emitido na origem não se confunde com vício ao primado da fundamentação, notadamente consabido que a disparidade entre o resultado do julgamento e a expectativa da parte não sugestiona lesão à norma do texto republicano. Colho precedente desta Suprema Corte na matéria, julgado segundo a sistemática da repercussão geral:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI 791.292-QO-RG, Relator Ministro Gilmar Mendes, Plenário Virtual, DJe 13.8.2010).
+    Verifico que no julgamento do RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, decidiu-se pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do devido processo legal, do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, cuja ementa transcrevo:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
