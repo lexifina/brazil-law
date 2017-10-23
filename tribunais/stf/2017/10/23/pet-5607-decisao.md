@@ -1,0 +1,15 @@
+Decisão: Trata-se de procedimento autônomo instaurado por decisão proferida nos autos do Inquérito 3.989 pelo saudoso Ministro Teori Zavascki, meu antecessor na relatoria (cópia às fls. 479-484), com o fim de otimizar o processamento dos seguintes pedidos deduzidos por João Felipe de Souza Leão (fls. 422-439):
+    “Diante dos argumentos expostos, convicto de suas razões jurídicas, este peticionário requer seja determinado, afetando o julgamento do pedido à Colenda Segunda Turma do Supremo Tribunal Federal, o arquivamento deste procedimento de investigação, em razão da ausência de mínimo material probatório para instauração, conforme manifestação do Procurador-Geral da República em casos análogos. Caso o pedido seja desacolhido monocraticamente, o que não se acredita, espera ver o pedido apreciado como questão de ordem pela E. Turma Julgadora.
+    Na remota hipótese de indeferimento do pedido supra, o peticionário, subsidiariamente, com amparo no Enunciado n. 14 da Súmula Vinculante deste Supremo Tribunal Federal, requer:
+    1. O acesso às mídias referentes aos termos de delação já constantes dos autos, bem como a todos os arquivos, impressos e de imagem ou voz, relacionados aos mencionados investigados;
+    2. O acesso à íntegra de todos os termos de dlação firmados pelos réus PAULO ROBERTO COSTA e ALBERTO YOUSSEF e eventualmente por outros investigados que tenham relação com a presente apuração, com as respectivas mídias;
+    3. O acesso à integralidade de todos os procedimentos nos quais foi feita a promoção de arquivamento pelo Ministério Público Federal relacionados à denominada “operação lava jato” ou a qualquer outro procedimento a ela relacionado” (fl. 438).
+    2. Constata-se a superveniente perda de objeto do procedimento em exame.
+    Em 1º.9.2017, a Procuradoria-Geral da República restituiu a esta Suprema Corte os autos do Inquérito 3.989 com denúncia oferecida, oportunidade em que também pleiteou arquivamento com relação a Jerônimo Pizzolotto Goergen, Gladson de Lima Cameli, Roberto Pereira de Britto, Dilceu João Sperafico, Luís Carlos Heinze, Renato Delmar Molling, Lázaro Botelho Martins, José Olímpio Silveira Moraes, Roberto Egídio Balestra, Simão Sessim, Waldir Maranhão Cardoso, Mário Sílvio Mendes Negromonte Junior, José Alfonso Ebert Hamm e João Felipe de Souza Leão, sob o fundamento de inexistir lastro probatório suficiente contra referidas pessoas.
+    Na ocasião, diante das razões apontadas pelo Ministério Público Federal, deferi o processamento da peça acusatória quanto aos envolvidos denunciados e, no que diz respeito às condutas inicialmente atribuídas ao requerente João Felipe de Souza Leão, reconheci a ausência de justa causa para o prosseguimento da persecução criminal deflagrada contra si, acolhendo o pronunciamento do titular da ação penal.
+    3. Diante o exposto, com fundamento no art. 21, IX, do RISTF, julgo prejudicado o pedido veiculado nesta Petição.
+    Publique-se. Intimem-se.
+    Brasília, 23 de outubro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
