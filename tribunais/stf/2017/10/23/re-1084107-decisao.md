@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão de turma recursal federal que manteve sentença que julgou prescrita a pretensão ao recebimento de expurgos inflacionários do saldo de conta PIS/PASEP. (eDOC 43)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 7º, III, do texto constitucional.
+    Nas razões recursais, alega-se que seria trintenário, e não quinquenal, o prazo prescricional aplicável às pretensões relativas aos índices de correção das contas PIS/PASEP. Colho o seguinte trecho do arrazoado:
+    “Não podemos olvidar que o Acórdão merece reforma, na exata medida em que aplicou a Constituição erroneamente ao caso concreto. Isto porque, utilizando-se de analogia, há de se referir ao FGTS, de forma equiparada, ao PIS/PASEP, uma vez que ambos possuem natureza jurídica de contribuição social, distinguindo-se dos tributos.
+    Portanto, a natureza jurídica do PASEP, é a mesma que a do FGTS, devendo, portanto, ter o mesmo tratamento com relação ao prazo prescricional disposto, uma vez que há de se utilizar da equiparação para ambas contribuições sociais”. (eDOC 46, p. 13)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    A Turma Recursal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Decreto 20.910/1932), consignou que a pretensão da recorrente estaria sujeita ao prazo prescricional de cinco anos. Nesse sentido, extrai-se o seguinte trecho da sentença confirmada por seus próprios fundamentos pelo acórdão impugnado:
+    “A jurisprudência é pacífica em considerar que as contribuições do PIS/PASEP possuem natureza jurídica tributária, distanciando-se, dessa forma, do FGTS em relação ao lapso prescricional (STJ, AgREsp 913.400/PR, 1ª Turma, Rel. Min. José Delgado, DJ 28/05/2007). Via de desdobramento, não se aplicam, in casu, as disposições contidas no art. 144, da Lei 3.807/60, que preveem prazo trintenário.
+    Por outro lado, considerando a ausência de previsão normativa dispondo acerca do prazo específico para o exercício de pretensão que tenha por fundamento a relação jurídica obrigacional entre o titular da conta vinculada ao Fundo PIS-PASEP e o responsável pela sua gestão, tenho que a melhor solução a ser conferida ao caso é aplicar a regra geral da prescrição quinquenal prevista no art. 1º, do D. 20.190/32. Tal entendimento, vale assinalar, é a reprodução da deliberação tomada pelo E. STJ, nos autos do REsp nº 1205277, julgado sob a sistemática dos recursos repetitivos”. (eDOC 35, p. 1)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. CONTRIBUIÇÃO AO PIS/PASEP. CORREÇÃO MONETÁRIA. PRESCRIÇÃO E DECADÊNCIA. SÚMULAS Nº 282 E Nº 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. RECURSO MANEJADO SOB A VIGÊNCIA DO CPC/2015”. (ARE 967087 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 3.10.2016)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PIS/PASEP E COFINS. LEI 9.718/1998. 1. A jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta, é firme no sentido de que as questões envolvendo a compensação de valores recolhidos a maior com outros tributos, a incidência da prescrição, bem como a aplicação de correção monetária e de juros de mora não transbordam os limites do âmbito infraconstitucional. Cuida-se, em verdade, de controvérsia a ser decidida nas instâncias ordinárias. 2. Agravo regimental desprovido”. (RE 496911 AgR, rel. Min. Ayres Britto, Segunda Turma, DJe 18.8.2011)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e majoro o valor da verba honorária fixada pela origem (eDOC 43, p. 4) em 10%, observados os limites previstos nos parágrafos 2º e 3º do art. 85 do CPC.
+    Publique-se.
+    Brasília, 23 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
