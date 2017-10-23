@@ -1,0 +1,36 @@
+Trata-se de habeas corpus impetrado em favor de Carlos Rosa de Aquino, contra decisão proferida pelos Ministros integrantes da Sexta Turma do Superior Tribunal de Justiça que denegaram a ordem no HC 371.1066/MG.
+    Consta dos autos que o paciente
+    “[...] foi condenado pela prática dos crimes tipificados nos arts. 33 e 35 c/c o art. 40, III e V, todos da Lei n. 11.343/2006, além do art. 61, inciso I, do Código Penal, na forma do art. 69 do mesmo código” (pág. 1 do documento eletrônico 13).
+    O impetrante sustenta, em síntese, que
+    “[a] falta de fundamentação do Acórdão coator, data venia, é flagrante. Não obstante afirmar que se trata de réu reincidente e que voltou a delinquir no curso do feito, deve ser ressaltado que a reincidência no caso não está verificada. Nos 8 (oito!!) anos em que respondeu ao presente feito não houve, por parte do PACIENTE, qualquer envolvimento com Tráfico ou delitos congêneres. Também não praticou qualquer outro delito hediondo ou mesmo com violência ou grave ameaça à pessoa. Teve um imbróglio em que foi preso em flagrante por uma tentativa de estelionato, estando em Liberdade Provisória. O fato de ter respondido solto durante 8 anos, é fundamental para que se perceba de plano a desnecessidade da prisão neste momento, uma vez que o PACIENTE obviamente apelou da sentença que lhe condenou, por se tratar de decisão absolutamente desprovida de fundamento. Sobre o direito de apelar em liberdade, este Egrégio Superior Tribunal de Justiça vem decidindo: [...]” (págs. 7-8 do documento eletrônico 1).
+    Ao final, requer
+    “[...] a concessão da presente Ordem de HABEAS CORPUS, para que seja imediatamente sanada a coação para conceder ao PACIENTE o direito de APELAR EM LIBERDADE, revogando-se a Prisão Preventiva mantida pelo colegiado IMPETRADO, determinando-se a expedição do competente ALVARÁ DE SOLTURA em favor do PACIENTE” (pág. 19 do documento eletrônico 1, grifos no original).
+    Em 3/2/2017, indeferi a liminar, solicitei informações à autoridade coatora e dei vista dos autos à Procuradoria-Geral da República (documento eletrônico 18).
+    As informações foram prestadas (documento eletrônico 20).
+    Posteriormente, o Subprocurador-Geral da República, Edson Oliveira de Almeida, manifestou-se pelo não conhecimento do habeas corpus (documento eletrônico 19).
+    É o relatório necessário. Decido.
+    Registre-se, inicialmente, que, embora o presente habeas corpus tenha sido impetrado em substituição a recurso ordinário, não oponho óbice ao seu conhecimento, na linha do que tem decidido a Segunda Turma deste Supremo Tribunal. Nesse sentido, cito os seguintes precedentes: HC 122.268/MG, Rel. Min. Dias Toffoli; HC 116.437/SC, Rel. Min. Gilmar Mendes; e HC 112.836/SE, Rel. Min. Cármen Lúcia.
+    Anote-se, também, que o art. 192, caput, do Regimento Interno do Supremo Tribunal Federal faculta ao Relator denegar ou conceder a ordem de habeas corpus, ainda que de ofício, quando a matéria for objeto de jurisprudência consolidada neste Supremo Tribunal.
+    Por este motivo, passo ao exame do mérito desta impetração.
+    Esta Suprema Corte consolidou entendimento no sentido de que “revela-se legítima a prisão cautelar se a decisão que a decreta encontra suporte idôneo em elementos concretos e reais que - além de ajustarem-se aos fundamentos abstratos definidos em sede legal - demonstram que a permanência em liberdade do suposto autor do delito comprometerá a garantia da ordem pública e frustrará a aplicação da lei penal” (RHC 128.727-ED/SP, Rel. Min. Celso de Mello, Segunda Turma, DJ 18/2/2016).
+    Registre-se, também, que “a possibilidade de reiteração criminosa e a participação em organização criminosa são motivos idôneos para a manutenção da custódia cautelar, a fim de garantir a ordem pública” (HC 104.669/SP, Primeira Turma, Rel. Min. Cármen Lúcia, DJ de 24/11/10).
+    Feito esse registro, convém transcrever o inteiro teor da decisão combatida, pertinente ao objeto deste writ:
+    “A sentença, na parte da preventiva, assim dispôs (fls. 307/308):
+    ‘O primeiro denunciado é multirreincidente específico na traficância e respondeu custodiado ao processo (fls. 1.035/1.036v e 1.057/1.070).
+    Ao longo da instrução, os demais foram agraciados com ordens de habeas corpus.
+    Contudo, à exceção de Juliana (ff. 1.055/1.054v; 1.130/1.134), todos eles voltaram a delinquir após serem postos em liberdade; registrando alguns, inclusive, condenações pelas práticas dos novos crimes (fls. 1.044/1.045 e 1.102/1.105, 1.037/1.039v e 1.071/1.084, 1.049/1.051 e 1.116/1.123, 1.055/1.056v e 1.135/1.145, 1.042/1.043v e 1.090/1.101, 1.040/1.041 e 1.085/1.089, 1.046/1.048 e 1.106/1.115; e, 1.052/1.053 e 1.124/1.129).
+    Não se pode olvidar, ainda, que Flávio (fls. 1.049/1.051), Adilson (fls. 1.055/1.056v) e Carlos (fls. 1.046/1.048; 1.106/1.115) são reincidentes.
+    Repita-se, salvo Juliana, os demais denunciados demonstraram que fazem da seara criminal uma constância em suas vidas.
+    Desta maneira, afora Juliana, os demais deverão manter-se custodiados para apelar, a fim de se resguardar a ordem pública.
+    Com efeito, por mais que se tente, não se vislumbra que quaisquer das medidas cautelares preconizadas no artigo 319 do Código de Processo Penal, possam impedir que eles perseverem na prática de crimes ou nas condutas que ensejaram suas condenações, mormente pelo fato de a traficância ser prática permanente e rentável; a qual, cediço é, somente cessa com a prisão do criminoso. As ações de Cleiton, Wallace, Marcelo Wagner e Marcelo Pires demonstram o acerto da assertiva.
+    Expeçam-se mandados de prisão em seus desfavores, com prazos de validade, respectivamente, de 28.12.2042; 28.04.2032; 28.04.2036; 28.12.2042; 28.12.2042; 28.04.2036; 28.04.2024; 28.12.2042; e, 28.08.2021; e, cumpridas as ordens, extraiam-se guias para execuções provisórias, nos termos das Súmulas 716 e 717 do STF’.
+    Como já adiantado no exame da liminar, o magistrado a quo fundamentou a prisão preventiva na constatação de fato novo, ocorrido no decurso do processo, que se trata de reiteração delitiva por parte do paciente, o que é considerado como fundamento idôneo.
+    Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: [...].
+    Ante o exposto, voto por denegar o habeas corpus” (págs. 2-3 do documento eletrônico 13).
+    Conforme se verifica, não existem razões para a reforma da decisão combatida pois está muito bem fundamentada e cumpre todos os requisitos legais.
+    O magistrado de piso, ao decretar a prisão preventiva, utilizou-se de fundamentação idônea para demonstrar a periculosidade do paciente e a gravidade concreta do delito, evidenciadas pelo fato do mesmo fazer parte de articulada organização criminosa e reconhecida reiteração delituosa, circunstâncias que justificam a necessidade do cárcere para garantia da ordem pública.
+    Ademais, ainda que assim não fosse, dissentir das instâncias originárias demandaria o reexame do conjunto fático-probatório constante dos autos, o que é inviável em sede de habeas corpus.
+    Isso posto, denego a ordem (art. 192, caput, do RISTF).
+    Brasília, 23 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
