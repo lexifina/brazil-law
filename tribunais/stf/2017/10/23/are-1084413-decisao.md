@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL – Mandado de Segurança – Intimação por meio do domicílio eletrônico do contribuinte – DEC – Insurgência em face da r. sentença que reconheceu a nulidade do ato - Notificação eletrônica válida - A comunicação eletrônica tem amparo na Lei nº 13.918/09 e é considerada pessoal para todos os efeitos – Sentença reformada - Recurso provido” (pág. 2 do documento eletrônico 73).
+    No RE, fundado no art. 102, III, a e b, da Constituição Federal, alegou-se, em suma, ofensa ao art. 5º, LV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o Supremo Tribunal Federal firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório, da prestação jurisdicional e dos limites da coisa julgada, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria em acórdão assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Além disso, o tribunal de origem decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional local aplicável à espécie (Lei Estadual 13.918/2009). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo, o que inviabiliza o recurso extraordinário, nos termos da Súmula 280/STF.
+    Ademais, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 desta Corte.
+    Por fim, apenas para argumentar, saliento que o acórdão impugnado não declarou a inconstitucionalidade de lei federal ou tratado, o que afasta o cabimento de recurso extraordinário com base na alínea b do art. 102, III, da Constituição Federal.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 23 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
