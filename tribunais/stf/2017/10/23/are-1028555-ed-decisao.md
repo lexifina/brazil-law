@@ -1,0 +1,20 @@
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO E CONSTITUCIONAL. REPRESENTAÇÃO SINDICAL. LEGITIMIDADE SINDICAL. PRINCÍPIOS DA UNICIDADE E DA LIBERDADE SINDICAIS. REPASSE DE CONTRIBUIÇÕES. RECONSIDERAÇÃO DA DECISÃO EMBARGADA. EMBARGOS DE DECLARAÇÃO PREJUDICADOS. AGRAVO PROVIDO PARA MELHOR EXAME DO RECURSO EXTRAORDINÁRIO. REAUTUAÇÃO COMO RECURSO EXTRAORDINÁRIO. VISTA À PGR.
+    DECISÃO: Trata-se de embargos de declaração, opostos pela CONFEDERAÇÃO NACIONAL DO COMÉRCIO DE BENS, SERVIÇOS E TURISMO – CNC, contra decisão de minha relatoria, assim ementada:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. REPRESENTAÇÃO SINDICAL. LEGITIMIDADE. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA E CONTRADITÓRIO. DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. APLICAÇÃO DE PRECEDENTE DESTA CORTE PROFERIDO NA SISTEMÁTICA DA REPERCUSSÃO GERAL. INTERPOSIÇÃO DE AGRAVO. NÃO CABIMENTO. AGRAVO NÃO CONHECIDO NESSA PARTE. ALEGADA OFENSA AOS ARTIGOS 5º, II E XX, E 8º, V, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. LEGITIMIDADE SINDICAL. PRINCÍPIO DA UNICIDADE SINDICAL. CONTRIBUIÇÕES. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. REGISTRO SINDICAL E CONTRIBUIÇÕES SINDICAIS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. AGRAVO CONHECIDO EM PARTE E, NESSA PARTE, DESPROVIDO.”
+    A parte embargante sustenta, em síntese:
+    "Ínclito Ministro, nessa toada pugna a embargante que sua Excelência analise a tese exposta de limitação à representação da CNTur contido no Registro Sindical da embargada, uma vez que o mesmo restringiu a base de sua representação às Federações a ela filiadas e nada foi dito sobre esse tema.
+    […]
+    E mais, nobre Relator, não existe nenhuma previsão legal para compelir que essas Federações e seus respectivos sindicatos filiados a recolher a contribuição sindical à Confederação embargada, daí porque a violação ao artigo 5º, II, da CF, o que passou despercebido no julgado embargado.
+    Nessa toada, como bem foi exposto nas razões do recurso embargado, a liberdade de filiação garantida pelo legislador é um direito constitucional garantido, à inteligência e abrangência do inciso I, do artigo 8º, da Carta Magna, o que carece de apreciação por Vossa Excelência.
+    Neste diapasão, a decisão embargada não analisou a tese exposta no recurso de agravo sob a ótica de flagrante violação ao contido no artigo 5º XX da CF.
+    Isto porque a decisão como posta pela instância de origem, e com todo respeito não apreciada no decisum embargado, veda a liberdade sindical, na medida em que a CNTur apenas representa as entidades que estão devidamente filiadas à ela – Conforme descrito em seu Registro Sindical, contudo, o julgado ora impugnado, ao contrário da Constituição Federal, está determinando, indiretamente, que estas outras Federações ou entidades, não possam repassar valores de contribuição sindical à CNC, mesmo estando filiadas à ela.
+    Dessa forma, suplica a embargante a manifestação expressa de Vossa Excelência sobre esse ponto, haja vista que o comando do texto constitucional acima mencionado veda expressamente tal prática, de modo que se não há a efetiva representação da embargada, evidente que aquela Confederação não pode receber as contribuições sindicais compulsórias." (Doc. 151, fls. 2-4)
+    À luz dos argumentos expostos e da relevância jurídica do tema, RECONSIDERO a decisão embargada, tornando-a sem efeito, e, por conseguinte, JULGO PREJUDICADOS os embargos de declaração.
+    Preenchidos, ademais, os requisitos de admissibilidade do recurso, PROVEJO o agravo e determino a conversão dos autos em recurso extraordinário, para melhor exame da matéria de fundo.
+    À Secretaria para a reautuação do feito.
+    Após, abra-se vista à PGR.
+    Publique-se.
+    Brasília, 23 de outubro de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
