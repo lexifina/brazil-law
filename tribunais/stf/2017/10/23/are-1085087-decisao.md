@@ -1,0 +1,27 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, caput, II, XXIII, LIV, LV, LXXVIII, e parágrafo único, e 170 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se no conjunto probatório e na legislação infraconstitucional para firmar seu convencimento. Compreensão diversa do entendimento adotado demandaria o exame prévio da lei ordinária, bem como a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Colho precedentes sobre a matéria, inclusive em sede de repercussão geral:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO. DESCONSTITUIÇÃO DE PENHORA. RECUSA DO BEM OFERECIDO. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+    1. O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso extraordinário, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo o óbice da Súmula 282 do Supremo Tribunal Federal.
+    2. A violação indireta ou reflexa das regras constitucionais não enseja recurso extraordinário. Precedentes: AI n. 738.145 - AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 25.02.11; AI n. 482.317-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma DJ 15.03.11; AI n. 646.103-AgR, Rel. Ministra CÁRMEN LÚCIA, 1ª Turma, DJ 18.03.11.
+    3. A alegação de ofensa aos postulados da legalidade, do devido processo legal, da ampla defesa, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se ocorrente, seria indireta ou reflexa. Precedentes: AI n. 803.857-AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 17.03.11; AI n. 812.678-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma, DJ 08.02.11; AI n. 513.804-AgR, Rel. Min. JOAQUIM BARBOSA, 1ª Turma, DJ 01.02.11 .
+    4. A Súmula 279/STF dispõe verbis: Para simples reexame de prova não cabe recurso extraordinário.
+    5. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    6. In casu, o acórdão originariamente recorrido assentou: “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA – PROCESSO DE EXECUÇÃO. EMBARGO DE TERCEIRO. A admissibilidade do Recurso de Revista em processo execução depende de demonstração inequívoca de ofensa direta e literal à Constituição, nos termos do art. 896, § 2º, da CLT e da Súmula 266 do TST. Agravo de Instrumento a que se nega provimento.”
+    7. Agravo regimental desprovido.” (ARE 672.646-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 21.8.2012)
+    “Agravo regimental no recurso extraordinário. Negativa de prestação jurisdicional. Não ocorrência. Processual civil. Execução. Nomeação de bem à penhora. Recusa. Possibilidade. Discussão. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada (AI nº 791.292-QO-RG, Relator o Ministro Gilmar Mendes).
+    2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, e do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República.
+    3. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF.
+    4. Agravo regimental não provido.” (RE 840.479-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 21.10.2015)
+    “REPERCUSSÃO GERAL. EXECUÇÃO FISCAL. NOMEAÇÃO DE PRECATÓRIO À PENHORA. ORDEM LEGAL DE PREFERÊNCIA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.” (ARE 703.595-RG, Rel. Min. Ricardo Lewandowski, Pleno, DJe 12.6.2013)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
