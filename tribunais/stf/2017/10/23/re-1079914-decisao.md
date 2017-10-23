@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. USO DE EPI. CONCESSÃO DE APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. OPÇÃO PELA RMI MAIS VANTAJOSA. TUTELA ESPECÍFICA.
+    […].”
+    O Tribunal de origem deu parcial provimento a embargos de declaração, em acórdão assim ementado:
+    “PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. TEMPO ESPECIAL E COMUM. POSSIBILIDADE DE CONVERSÃO. LEI APLICÁVEL. CRITÉRIO. LEGISLAÇÃO VIGENTE QUANDO PREENCHIDOS OS REQUISITOS DA APOSENTADORIA. PREQUESTIONAMENTO.
+    1. O sistema previdenciário vigente após a Lei 9.032/1995, portanto, somente admite aposentadoria especial para quem exerceu todo o tempo de serviço previsto no art. 57 da Lei 8.213/1991 (15, 20 ou 25 anos, conforme o caso) em condições especiais que prejudiquem a saúde ou a integridade física. 2. Somente terão direito à conversão do tempo comum em especial os segurados que até 28-04-1995 (data em que limitada a conversão de tempo especial para comum pela Lei nº 9.032/1995) tenham implementado todos os requisitos necessários à concessão do benefício de aposentadoria especial, devendo, nesta hipótese, para fins de aferição do implemento do requisito tempo de serviço especial, ser levada em conta a efetiva conversão do tempo comum em especial. 3. Alteração de julgamento em decorrência do trânsito em julgado repetitivo do STJ (EDcl no REsp 1310034/PR, Rel. Min. Herman Benjamin, Primeira Seção, julgado em 26/11/2014, DJe 02/02/2015). 4. A acolhida dos embargos declaratórios tem cabimento nas hipóteses de omissão, contradição ou obscuridade. 5. Embargos de declaração providos em parte para efeitos de prequestionamento.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, I e XXXVI, da Constituição. Requer o reconhecimento do direito “à conversão dos períodos comuns anteriores a 28/04/1995 em tempo especial pela aplicação do fator multiplicador ‘0,71’, com a consequente concessão da aposentadoria especial (B46), a contar da DER”.
+    O recurso extraordinário é inadmissível. O Plenário Virtual desta Corte, ao apreciar o RE 1.029.723-RG, Rel. Min. Edson Fachin, em 21.04.2017, decidiu pela inexistência de repercussão geral da questão envolvendo pretensão de beneficiário da previdência social de converter tempo comum em especial, relativamente a trabalho prestado em período anterior à Lei nº 9.032/1995, nas hipóteses em que o segurado tenha preenchido os requisitos para o benefício somente após a edição da referida lei (Tema 943).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+                Brasília, 23 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
