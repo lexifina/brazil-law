@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Mato Grosso, ementado nos seguintes termos:
+    “IMPROBIDADE ADMINISTRATIVA – ASSEMBLÉIA LEGISLATIVA DO ESTADO DO MATO GROSSO – MEMBROS DA MESA DIRETORA – VEICULAÇÃO DE NOTA DE ESCLARECIMENTO EM EMISSORAS DE TELEVISÃO – AFIRMAÇÃO DE QUE TERIA VINCULADO O PODER LEGISLATIVO AO CRIME ORGANIZADO – DEFESA DA INSTITUIÇÃO – AUSÊNCIA DE INDÍCIOS DE QUE OS FATOS QUE A MOTIVARAM SE REFERIRIAM À SITUAÇÃO PESSOAL DOS APELADOS, DEPUTADOS À ÉPOCA – CONDUTA ÍMPROBA – NÃO CONSTATAÇÃO – REJEIÇÃO DA INICIAL – CORREÇÃO.
+    É certo que ninguém, em seu juízo perfeito, exigira prova cabal da existência de conduta ímproba para o recebimento da inicial da pretensão de imposição de sanções pela prática de atos de improbidade administrativa, visto que é pacífico, tanto na doutrina quando nos arestos de tribunais, que bastam indícios.
+    Aliás, esse é o entendimento que persevera, mais firme do que moirões de cerne de aroeira, perdidos na imensidão dos carandazais pantaneiros, na Quarta Câmara Civil de Direito Público e Coletivo, retratado em dezenas de acórdãos.
+    No entanto, a ausência de indícios suficientes de que os fatos teriam motivado a veiculação da nota de esclarecimento se referiam à situação pessoal dos deputados, não se pode tachar de ímproba a conduta de divulgar nota de esclarecimento, em defesa do Poder Legislativo, por Membros da Mesa Diretora, em emissores de televisão.
+    Recurso não provido.” (eDOC 7, p. 2)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos art. 37, §1º, do texto constitucional.
+    Nas razões recursais, alega-se que os recorridos utilizaram a Assembleia Legislativa do Estado do Mato Grosso para defesa pessoal de suas condutas referentes ao crime organizado. Aduz, assim, a violação aos princípios da legalidade, impessoalidade e da moralidade administrativa.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que não há elementos suficientes para o recebimento da exordial de improbidade administrativa. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “É certo, e ninguém, em seu juízo perfeito, exigira prova cabal da existência de conduta ímproba para recebimento da inicial da pretensão de imposição de sanções pela prática de atos de improbidade administrativa, visto que é pacífico, tanto na doutrina quanto nos arestos de tribunais, que bastam indícios. Aliás, é esse o entendimento que persevera, mais firme do que moirões de cerne de aroeira, perdidos na imensidão dos carandazais pantaneiros, na Quarta Câmara Civil de Direito Público e Coletivo, retratado em dezenas de acórdãos. Todavia, na falta deles, é de rigor a rejeição.
+    (…)
+    Essas, as razões por que voto no sentido de negar provimento ao recurso e manter a rejeição da inicial” (eDOC 7, p. 9)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Ação Civil Pública de Improbidade Administrativa. Propaganda institucional do Município. Promoção pessoal do Prefeito. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Incidência da Súmula 279 do STF e da jurisprudência desta Corte. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE-AgR 660719, Rel. Min. Gilmar Mendes, Segunda turma, DJe 03.08.2017)
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONTRATAÇÕES IRREGULARES. ATO DE IMPROBIDADE. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULAS 279 E 280/STF. 1. A resolução da controvérsia demanda a análise da legislação infraconstitucional pertinente, bem como dos fatos e provas constantes dos autos, o que é vedado em recurso extraordinário. Incidência das Súmulas 279 e 280/STF. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (arts. 17 e 18, Lei nº 7.347/1985). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, §4º, do CPC/2015, em caso de unanimidade.” (RE-AgR 1024002, Rel. Min. Roberto Barroso, Primeira Turma, DJe 18.05.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
