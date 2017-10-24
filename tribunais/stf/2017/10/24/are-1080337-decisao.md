@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Sergipe, assim ementado:
+    “APELAÇÃO CÍVEL – EMBARGOS – EXECUÇÃO CONTRA A FAZENDA PÚBLICA – MULTA FIXADA EM SEDE DE AÇÃO CIVIL PÚLICA – POSSIBILIDADE - ACORDO POSTERIOR – TENTATIVA DE CONCILIAÇÃO NA AÇÃO PRINCIPAL – AUSÊNCIA DE EXTINÇÃO DO FEITO - REDUÇÃO DO VALOR DA ASTREINTE – PERMANÊNCIA DO INTERESSE PROCESSUAL DO EXEQUENTE, PARA RECEBIMENTO DO MONTANTE ACUMULADO ATÉ O NOVO ACORDO – INEXISTÊNCIA DE PERDA DO OBJETO – REFORMA DA SENTENÇA – IMPROCEDÊNCIA DOS EMBARGOS – APELO CONHECIDO E PROVIDO - DECISÃO UNÂNIME”. (eDOC 4, p. 14)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, V; e 23, VI e IX, do texto constitucional.
+    Nas razões recursais, alega a recorrente que o novo acordo celebrado nos autos do processo substituiu o acordo inicial executado em juízo, o que teria levado à perda do objeto da execução – a multa cominatória por descumprimento de determinação judicial. (eDOC 6, p. 14)
+    Afirma, ainda, não ter qualquer relação com o dano ambiental causado. (eDOC 6, p. 15)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, bem como interpretar cláusulas contidas em acordo judicial, consignou que a conciliação entre as partes não afastaria a responsabilidade pelo pagamento das multas vencidas. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Diante dessas premissas, pode-se concluir que o acordo firmado nos autos da ação civil pública, e que fixou outro valor de astreinte, não prejudica a tramitação desta execução. A meu ver, a nova multa diz respeito a um possível descumprimento daqueles termos a partir de então. Aliás, vale registrar que a ação civil pública ainda continua em tramitação.
+    Lembre-se que a presente execução tem como objeto o crédito de quantia certa, representada pelo acúmulo da multa fixada anteriormente, cujo período sequer foi mencionado no aludido acordo – fls. 09/10”. (eDOC 4, p. 18)
+    Assim, divergir do entendimento firmado pelo Tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. VÍCIO DE PROCEDIMENTO. INEXISTÊNCIA. OFENSA INDIRETA. PREQUESTIONAMENTO. SÚMULA N. 454. 1. A observância do disposto no parágrafo primeiro do artigo 543 do Código de Processo Civil não pode ser dissociada da previsão legal do seu caput, que prevê primeiramente a remessa do processo ao Superior Tribunal de Justiça somente na hipótese em que ambos os recursos foram admitidos pelo Presidente do Tribunal a quo. 2. É pacífico o entendimento desta Corte de que o requisito do prequestionamento somente se configura quando o órgão julgador a quo haja emitido juízo explícito sobre o tema constitucional. 3. Não se admite recurso extraordinário por ofensa indireta a preceitos da Constituição do Brasil. Hipótese em que se faz necessário o prévio exame da legislação infraconstitucional pertinente. 4. A análise e a interpretação de termo de ajustamento de conduta é vedada em sede de recurso extraordinário, nos termos do verbete n. 454 da Súmula desta Corte. Agravo regimental a que se nega provimento”. (AI 495587 AgR, rel. Min. Eros Grau, Primeira Turma, DJ 1º.4.2005)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA PRIVADA. MIGRAÇÃO DE PLANO. TRANSAÇÃO EXTRAJUDICIAL. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 859444 AgR, rel. Min. Cármen Lúcia, Segunda Turma, DJe 11.11.2013)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
