@@ -1,0 +1,22 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, e 201 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não logrou a parte recorrente demonstrar, de forma efetiva, a existência de repercussão geral da controvérsia.
+    Observo que este Supremo Tribunal Federal firmou entendimento no sentido de que não basta a mera descrição do instituto em tela, nem a simples referência a precedente recursal. Cabe à parte recorrente a demonstração formal e fundamentada da existência de repercussão geral da matéria, indicando especificamente as razões que evidenciem a relevância econômica, social, política ou jurídica, ainda que tal repercussão já tenha sido presumida ou declarada em outro processo. Insuficiente a mencionada preliminar, inadmissível o recurso extraordinário. Colho precedentes:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO CIVIL. COMPETÊNCIA. CUMPRIMENTO DE SENTENÇA. PRELIMINAR FORMAL DE REPERCUSSÃO GERAL. AUSÊNCIA DE FUNDAMENTAÇÃO. ARTIGO 543-A, § 2º, DO CÓDIGO DE PROCESSO CIVIL C.C. ARTIGO 327, § 1º, DO RISTF. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 834.512-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.4.2016)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 27.2.2017. RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+    1. Nos termos da orientação firmada nesta Corte, cabe à parte recorrente demonstrar fundamentadamente a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, mediante o desenvolvimento de argumentação que, de maneira explícita e clara, revele o ponto em que a matéria veiculada no recurso transcende os limites subjetivos do caso concreto do ponto de vista econômico, político, social ou jurídico.
+    2. Revela-se deficiente a fundamentação da existência de repercussão geral de recurso extraordinário que se restringe a alegar de forma genérica que a questão em debate tem repercussão geral.
+    3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os §§ 2º e 3º do mesmo dispositivo.” (RE 930.889-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 02.5.2017)
+    Ainda que não se ressentisse o recurso quanto ao óbice apontado, melhor sorte não colheria uma vez que o exame de eventual ofensa aos preceitos constitucionais indicados nas razões recursais demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, bem como o revolvimento do quadro fático delineado, procedimentos vedados em sede extraordinária.
+    Ademais, não prospera a insurgência pelo prisma do inciso XXXVI do art. 5º da Carta Política, consagrador dos princípios da proteção ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, uma vez que o Plenário Virtual desta Suprema Corte negou a existência de repercussão geral da questão no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.8.2013, assim ementado:
+    "Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
