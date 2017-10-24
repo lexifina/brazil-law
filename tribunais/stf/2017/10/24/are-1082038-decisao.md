@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu o recurso extraordinário no qual se alega contrariedade aos artigos 2º, 5º, caput, II, XXXV, LIV e LV, 22, I, 37, caput e 93, IX, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão que restou assim ementado:
+    “TRIBUTÁRIO. FALTA DE INTERESSE DE AGIR. INOCORRÊNCIA. SEGURADO VINCULADO AO RGPS. RESTITUIÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. REMUNERAÇÃO SUPERIOR AO TETO MÁXIMO. EMPREGADORES DIVERSOS. TETO DO SALÁRIO DE CONTRIBUIÇÃO. LEI Nº 8.212 /91, ART. 28 , § 5º. NECESSIDADE DE OBSERVÂNCIA AO LIMITE LEGAL. RECURSO DA PARTE AUTORA PROVIDO”.
+    Decido.
+    A irresignação não merece prosperar.
+    No que tange aos artigos 5º, caput, II, LIV e LV, 22, I, 37, caput, e 93, IX, da CF/88, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Inadmissibilidade de prequestionamento implícito. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Precedentes. 1. Entendimento sedimentado na Corte no sentido de não admitir o chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal de origem, é necessária e indispensável a oposição de embargos de declaração para suprir a omissão. Precedentes. (...) 4. Agravo regimental não provido” (AI nº 735.115/RS-AgR, Primeira Turma, de minha relatoria, DJe de 11/5/12 – grifei).
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. SÚMULAS STF 282 E 356. 1. Não tendo sido apreciadas, pela instância a quo, as questões constitucionais em que se apoia o extraordinário, é imprescindível a oposição de embargos de declaração para suprir o prequestionamento. Súmulas STF 282 e 356. 2. O Supremo Tribunal não admite o "prequestionamento implícito" da questão constitucional. AI 413.963-AgR/SC, rel. Min. Celso de Mello, DJ 1º.04.2005. 3. Não há negativa de prestação jurisdicional quando a parte recorrente opta por não atacar o fundamento infraconstitucional, arrastando para si a preclusão temporal para viabilizar, em tese, a sua pretensão. 4. Agravo regimental improvido” (RE n° 353.514/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 1°/10/10) (Grifo nosso).
+    Ademais, verifico que o Tribunal de origem decidiu pela existência do interesse de agir do ora agravado, baseando-se nos seguintes fundamentos:
+    “In casu, observo que há interesse de agir, uma vez que a demonstração dos entraves administrativos ao acolhimento da pretensão, equivale a uma negativa estatal (vide os diversos requerimentos administrativos do autor sem resposta – anexos 12 -17).
+    Ademais, a exigência de prévio requerimento administrativo (ou julgamento do mesmo) não deve prevalecer quando o entendimento da Administração for notória e reiteradamente contrário à postulação do segurado, situação que se verifica em relação ao pedido de repetição de indébito de quantia recolhida acima do teto do valor do salário de contribuição legalmente fixado, o qual é reiteradamente contestado pela União (vide processo 0505619-08.2017.4.05.8300 desta Turma Recursal). Nesse sentido, o Supremo Tribunal Federal firmou entendimento acerca da sua desnecessidade no caso de "o entendimento da Administração for notória e reiteradamente contrário à postulação do segurado".
+    Como visto, o Tribunal de origem além de assentar a caracterização do interesse de agir do autor ante a comprovação de inexistência de respostas aos vários requerimentos administrativos feitos pelo ora agravado, o referido Órgão julgador consignou também que não se necessita de prévio requerimento administrativo, haja vista que o entendimento da Administração, na matéria objeto da presente lide, é notório e reiteradamente contrário ao pedido do autor da ação.
+    Desse modo, não divergiu o Tribunal a quo do entendimento firmado por esta Corte que em sede de de repercussão geral assim decidiu:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. PRÉVIO REQUERIMENTO ADMINISTRATIVO E INTERESSE EM AGIR.
+    1. A instituição de condições para o regular exercício do direito de ação é compatível com o art. 5º, XXXV, da Constituição. Para se caracterizar a presença de interesse em agir, é preciso haver necessidade de ir a juízo.
+    (...)
+    3. A exigência de prévio requerimento administrativo não deve prevalecer quando o entendimento da Administração for notória e reiteradamente contrário à postulação do segurado; (...)” (RE n° 631.240/MG, Tribunal Pleno, Relator o Ministro Roberto Barroso, DJe de 10/11/14).
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso
+    Publique-se.
+    Brasília, 24 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
