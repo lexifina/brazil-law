@@ -1,0 +1,17 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. RECURSO INTERPOSTO CONTRA DECISÃO DETERMINANTE DE DISTRIBUIÇÃO POR PREVENÇÃO. RECURSO MANIFESTAMENTE INADMISSÍVEL. EMBARGOS NÃO CONHECIDOS.
+Relatório
+    1. Em 27.9.2017, tornei sem efeito decisão de devolução do recurso ao Tribunal de origem e determinei a distribuição por prevenção ao Ministro Alexandre de Moraes, conforme o art. 69 do Regimento Interno do Supremo Tribunal Federal (e-doc. 60).
+    2. Em 6.10.2017, Guilherme Pinho Machado opôs embargos de declaração nos quais sustenta:
+    “Não se discute que, tanto o RISTF quanto o CPC, estabelecem a prevenção do julgador que profere decisão liminar em medida cautelar. Não se trata disso, mas, sim, de estabelecer se a atribuição expressa no art. 13, V, alínea ‘c’ do RISTF se submete, ou não, à prévia verificação de prevenção. No caso destes autos, o que se vê é que, em que pese se tratar do Tema n. 338, diferente do procedimento realizado em tantas outras ações, entendeu agora a Presidência que os processos devem ser remetidos aos juízos preventos, negando vigência ao art. 13, V, alínea ‘c’ do RISTF” (e-doc. 61).
+    3. Intimado para manifestar-se, Espírito Santo argumenta a ausência das circunstâncias autorizadoras dos embargos de declaração e requer a rejeição do recurso (e-doc. 73).
+    Analisada a questão trazida na espécie, DECIDO.
+    4. O presente recurso não pode ser conhecido.
+    5. É manifestamente inadmissível o recurso interposto contra decisão da Presidência pela qual definida a competência de Ministro, pois se trata de matéria administrativa sobre a organização interna do Supremo Tribunal Federal. Assim, por exemplo:
+    “SEGUNDO AGRAVO REGIMENTAL EM AÇÃO PENAL. DESPACHO QUE RECONHECE A EXISTÊNCIA, OU NÃO, DE PREVENÇÃO A DETERMINADO MINITRO PARA RELATORIA DOS PROCESSO. INEXISTÊNCIA DE LESIVIDADE AO INTERESSE DAS PARTES. 1. O despacho do Presidente do Supremo Tribunal Federal que reconhece a existência, ou não, de prevenção a determinado Ministro para relatoria de processos, em respeito à normas regimentais de organização interna e à legislação processual, não possui conteúdo capaz de lesar direito da parte. 2. Incognoscibilidade do pedido deduzido no agravo regimental” (AP n. 493 AgR-segundo, Relator o Ministro Ayres Britto (Presidente), Plenário, DJe 12.11.2012).
+    “AGRAVO REGIMENTAL NO SEGUNDO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. IRRECORRIBILIDADE DA DECISÃO DE FIXAÇÃO DE COMPETÊNCIA. REITERAÇÃO DE RECURSO MANIFESTAMENTE PROTELATÓRIO. LITIGÂNCIA DE MÁ-FÉ. IMPOSIÇÃO DE MULTA. RECURSO REJEITADO. I – A fixação da competência é assunto atinente à organização desta Corte e, portanto, matéria irrecorrível. II – Recurso manifestamente protelatório. Condenação em multa de 1% do valor atualizado da causa (arts. 17, VII, e 18 do CPC). III – Recurso manifestamente inadmissível, nos termos do artigo 577 do Código de Processo Civil. IV – Agravo a que se nega provimento, com imposição de multa” (AI n. 608.833 AgR-ED-ED-ED-AgR-segunddo-AgR, Relator o Ministro Ricardo Lewandowski (Presidente), Plenário, DJe 25.2.2015).
+    6. Pelo exposto, não conheço dos presentes embargos (inc. III do art. 932 do Código de Processo Civil e al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de outubro de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
