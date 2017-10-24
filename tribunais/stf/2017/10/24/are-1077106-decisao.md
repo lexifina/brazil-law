@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do TRF da 4ª Região, assim ementado:
+    "ADMINISTRATIVO. MANDADO DE SEGURANÇA. ENSINO SUPERIOR. COTA SOCIAL. PERFIL SOCIOECONÔMICO. INCIDÊNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. 1. Não é razoável impedir o estudante de cursar a Universidade, em face de ter cursado durante 4 meses supletivo, na modalidade EJA, com bolsa de estudos. 2 . In casu, restou demonstrada, pela documentação, a situação socioeconômica familiar do impetrante, de forma que se deve assegurar ao estudante o direito líquido e certo o ingresso na Universidade, afigurando-se ilegal sua exclusão, sobretudo se considerado o objetivo do programa, que é facilitar o acesso à educação a alunos hipossuficientes". (eDOC 6, p. 125)
+    Opostos embargos de declaração, estes foram rejeitados.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, alega-se violação aos artigos 5º caput, LIV e LV; 37, caput; 205; 206, I, e 208 do texto constitucional.
+    Nas razões recursais, defende-se, em síntese, violação ao princípio da razoabilidade. Ademais, sustenta-se que o recorrido não preencheu os requisitos necessários para concorrer às vagas reservadas aos cotistas.
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque o Tribunal de origem, com base nas provas dos autos, consignou que o recorrido preenchia os requisitos para ingresso em Universidade Federal por meio das cotas sociais.
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. ENSINO PÚBLICO SUPERIOR. SISTEMA DE COTAS. NÃO CUMPRIMENTO DOS REQUISITOS EXIGIDOS NO EDITAL. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL, NAS CLÁUSULAS DO EDITAL E NO CONJUNTO PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE-AgR 887.798, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 24.8.2015)
+    “DIREITO ADMINISTRATIVO. ENSINO SUPERIOR. SISTEMA DE COTAS. REQUISITOS. ANÁLISE DE EVENTUAL VIOLAÇÃO DA CONSTITUIÇÃO FEDERAL DEPENDENTE DE REELABORAÇÃO DA ESTRUTURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 05.4.2013. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. A pretensão do agravante encontra óbice na Súmula 279 do Supremo Tribunal Federal, pois eventual ofensa aos preceitos constitucionais invocados somente se materializaria, no caso, de forma reflexa, a demandar, em primeiro plano, para sua constatação, a reelaboração do quadro fático delineado. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido”. (ARE-AgR 864770, Rel. Min. ROSA WEBER, Primeira Turma, DJe 7.8.2015)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 24 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
