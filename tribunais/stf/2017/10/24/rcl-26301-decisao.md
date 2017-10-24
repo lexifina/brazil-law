@@ -1,0 +1,18 @@
+Trata-se de reclamação, com pedido de liminar, ajuizada pela União, contra decisão proferida pelo Juízo da 3ª Vara Federal da Seção Judiciária de Criciúma, nos autos do processo 5003428-13.2016.4.04.7204.
+    A reclamante alega, em síntese, a ocorrência de afronta ao enunciado da Súmula Vinculante 37, argumentando que a decisão reclamada “firmou o entendimento de que a vantagem pecuniária individual (VPI), instituída pela Lei n° 10.698, de 2003, possui natureza jurídica de revisão geral anual, devendo ser estendido aos servidores públicos federais o índice de aproximadamente 13,23%, decorrente do percentual mais benéfico proveniente do aumento instituído pelas Leis n°s 10.697 e 10.698, ambas de 2003” (pág. 6 do documento eletrônico 1).
+    Alega, assim, que o acórdão reclamado, ao se respaldar, “ainda que indiretamente, no princípio da isonomia e na suposta violação do art. 37, X, da CF/1988, para convolar incremento absoluto de R$ 59,87 (cinquenta e nove reais e oitenta e sete centavos) em aumento de 13,23% retroativo a 2003, sem nenhuma autorização legal” (pág. 10 do documento eletrônico 1), violou a Súmula Vinculante 37.
+    Requer, liminarmente, a suspensão da eficácia da decisão reclamada e, no mérito, a cassação definitiva do acórdão.
+    É o relatório suficiente. Decido.
+    Preliminarmente, deixo de solicitar informações e enviar o feito ao Procurador-Geral da República, por entender que o processo já está em condições de julgamento (arts. 52, parágrafo único, e 161, parágrafo único, ambos do RISTF).
+    Com efeito, o ato reclamado garantiu a incorporação do índice de 13,23% à remuneração da parte autora, ora interessado (pág. 5 do documento eletrônico 4).
+    A Segunda Turma desta Corte, no julgamento da Rcl 14.872/DF, de relatoria do Ministro Gilmar Mendes, em caso semelhante ao dos autos, cassou todos os atos administrativos decorrentes de órgãos da Justiça do Trabalho que envolviam o pagamento dos 13,23%, inclusive a decisão administrativa do Tribunal Superior do Trabalho (Resolução 1.819, de 12.4.2016), bem como a do Conselho Superior da Justiça do Trabalho (Resolução 168/2016), em acórdão assim ementado:
+    “Reclamação. 2. Direito Administrativo. 3. Servidores públicos. 4. Incorporação da vantagem referente aos 13,23%. Lei 10.698/2003. 5. Ações que visam à defesa do texto constitucional. O julgador não está limitado aos fundamentos jurídicos indicados pelas partes. Causa petendi aberta. 6. Órgão fracionário afastou a aplicação do dispositivo legal sem observância do art. 97 da CF (reserva de plenário). Interpretação conforme a Constituição configura claro juízo de controle de constitucionalidade. Violação à Súmula Vinculante n. 10. 7. É vedado ao Poder Judiciário conceder reajuste com base no princípio da isonomia. Ofensa à Súmula Vinculante 37. 8. Reclamação julgada procedente” (grifei).
+    Reconheceu-se, naquela assentada, que a concessão, por decisão judicial, de diferenças salariais relativas a 13,23% a servidores públicos federais, sem o devido amparo legal, viola a Súmula Vinculante 37.
+    No mesmo sentido, a Rcl 24.343-AgR/SE, também de relatoria do Ministro Gilmar Mendes.
+    Ressalto, por fim, que o art. 161, parágrafo único, do RISTF, permite o julgamento monocrático da reclamação pelo relator, “quando a matéria for objeto de jurisprudência consolidada do Tribunal”.
+    Isso posto, julgo procedente o pedido para cassar o ato reclamado e determinar que outro seja proferido em seu lugar, com a observância da Súmula Vinculante 37.
+    Comunique-se.
+    Publique-se.
+    Brasília, 24 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
