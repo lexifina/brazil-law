@@ -1,0 +1,21 @@
+Ref. Petição 56.749/2017-STF.
+    A Ordem dos Advogados do Brasil – Seccional do Rio Grande do Sul requer o ingresso no feito na qualidade de amicus curiae, pelos seguintes motivos:
+    “Na presente Reclamação, o tema trazido à baila está diretamente relacionado, tanto ao trabalho executado pelos advogados, quanto aos fins institucionais da Ordem dos Advogados do Brasil. A questão do inadimplemento dos precatórios judiciais pelas Administrações Públicas do Estado do Rio Grande do Sul e dos Municípios gaúchos é tratada no cotidiano da ora postulante, que possui inclusive uma comissão especial para tratar do assunto.
+    15 - Quanto ao (des)cumprimento, pelo Estado do Rio Grande do Sul, das regras constitucionais atinentes aos seus débitos judiciais, vem a Seccional da Ordem atuando de forma a fiscalizar e cobrar o pagamento, conforme estas regras, dos precatórios judiciais.
+    16 - Nesse sentido, é que se entende salutar que a entidade de pronto se manifeste sobre o tema, trazendo imediatamente a tese aqui lançada para reflexão dos nobres julgadores, pedindo vênia, para sustentar oralmente, já quando da análise de admissibilidade” (págs. 5-6 do documento eletrônico 35).
+    Examino a pertinência do pedido.
+    Consoante a dicção do art. 138 do Código de Processo Civil:
+    “O juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de 15 (quinze) dias de sua intimação”.
+    Percebe-se, portanto, que o novo Código de Processo Civil adota como requisitos de admissão de pessoa física ou jurídica na qualidade de amicus curiae a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, bem como a representatividade adequada.
+    Em julgado recente, o Plenário desta Corte sufragou decisão monocrática proferida pelo Ministro Edson Fachin no RE 705.423-AgR-segundo/SE, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. FPM. PEDIDO DE INGRESSO COMO AMICUS CURIAE INDEFERIDO. ASSOCIAÇÕES ESTADUAIS E FEDERAÇÕES DE MUNICÍPIOS. AUSÊNCIA DE REPRESENTATIVIDADE E CONTRIBUIÇÃO ESPECÍFICA. 1. A interação dialogal entre o STF e pessoas naturais ou jurídicas, órgãos ou entidades especializadas, que se apresentem como amigos da Corte, tem um potencial epistêmico de apresentar diferentes pontos de vista, interesses, aspectos e elementos nem sempre alcançados, vistos ou ouvidos pelo Tribunal diretamente da controvérsia entre as partes em sentido formal, possibilitando, assim, decisões melhores e também mais legítimas do ponto de vista do Estado Democrático de Direito. 2. Conforme o art. 138 do CPC/15, os critérios para admissão de entidades como amicus curiae são a relevância da matéria, especificidade do tema ou repercussão social da controvérsia, assim como a representatividade adequada do pretendente. 3. Agravo regimental a que se nega provimento” (grifei).
+    Ademais, é de se ter em conta que a admissão do ingresso de qualquer entidade ou pessoa natural como amigo da corte (friend of court) deve ter como premissa a utilidade e necessidade dessa intervenção.
+    A esse respeito, manifestou-se o Ministro Celso de Mello, Relator, no julgamento da ADI 3.045/DF:
+    “A intervenção do amicus curiae, para legitimar-se, deve apoiar-se em razões que tornem desejável e útil a sua atuação processual na causa, em ordem a proporcionar meios que viabilizem uma adequada resolução do litígio constitucional”.
+    No caso concreto, entendo que tal circunstância se faz presente.
+    De fato, é salutar a presença de instituição que defenda interesses contrapostos no processo, afim de que se possa pluralizar o debate. Assim, entendo que a requerente preenche os requisitos processuais para figurar como amicus curie nesta reclamação.
+    Isso posto, defiro o pedido.
+    Publique-se.
+    Brasília, 25 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
