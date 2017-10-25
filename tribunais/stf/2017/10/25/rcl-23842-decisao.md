@@ -1,0 +1,20 @@
+Trata-se de reclamação, com pedido de liminar, ajuizada por Claudiney Ernani Giannini e Edson Chaves Filho em face do Juízo da 3ª Turma Recursal do Estado do Paraná, relator dos autos 5056761-41.2015.4.04.7000, na qual apontam a necessidade de “garantir a autoridade das decisões deste Excelso Tribunal, na Súmula Vinculante 47”.
+    Sustentam, em síntese, “que os honorários advocatícios e de sucumbência são autônomos em relação ao crédito principal, haja vista que aqueles pertencem ao advogado, e este à parte exequente, ou seja, trata-se de créditos que pertencem a titulares diversos”.
+    Alegam, assim, “que ofende a Súmula Vinculante 47 a decisão que afasta sua incidência dos créditos decorrentes de honorários advocatícios contratuais”.
+    A liminar foi indeferida pela à época Relatora, Ministra Cármen Lúcia. O parecer do Ministério Público foi pela procedência.
+    É o relatório suficiente. Decido.
+    Bem examinados os autos, verifico que a pretensão não merece acolhida, pois o pedido formulado pelos reclamantes não se enquadra em nenhuma das hipóteses de cabimento de reclamação previstas no art. 102, I, l, da Constituição Federal, seja para preservar a competência desta Suprema Corte, seja para garantir a autoridade de suas decisões e súmulas vinculantes.
+    É que, na espécie, constou o seguinte da decisão reclamada:
+    “Não há dúvida quanto à qualidade de beneficiário do advogado tanto nos honorários sucumbenciais quanto nos honorários contratuais. No entanto, ao contrário dos honorários de sucumbência, a verba contratual deve ser considerada parcela integrante do valor principal para fins de classificação do requisitório.
+    (…) resta claro que apenas os honorários sucumbenciais podem ser exigidos autonomamente. Quanto aos honorários contratuais, o advogado possui apenas o direito de exigir que o pagamento lhe seja feito diretamente, quando do levantamento do valor principal”.
+    Com efeito, a pretensão de adimplemento de honorários decorrentes de cláusula de contrato de prestação de serviço firmado entre a parte vencedora e seu patrono, por meio de precatório ou requisição de pequeno valor de forma destacada do montante principal, é matéria que não possui aderência estrita com o entendimento consubstanciado na Súmula Vinculante 47.
+    Nesse sentido, cito a ementa dos seguintes julgados:
+    “Agravo regimental na reclamação. Adimplemento de honorários contratuais decorrentes de negócio jurídico firmado entre particulares. Súmula Vinculante nº 47. Ausência de aderência estrita. Agravo regimental não provido. 1. A Súmula Vinculante nº 47 não alcança os honorários contratuais, resultante do contrato firmado entre advogado e cliente, não alcançando aquele que não fez parte do acordo. 2. A pretensão de adimplemento de honorários decorrentes de cláusula de contrato de prestação de serviço firmado entre a parte vencedora e seu patrono por meio de precatório ou requisição de pequeno valor de forma destacada do montante principal é matéria que não possui aderência estrita com o entendimento consubstanciado na Súmula Vinculante nº 47. 3. A aderência estrita do objeto do ato reclamado ao conteúdo das decisões paradigmas é requisito de admissibilidade da reclamação constitucional. 4. Agravo regimental não provido” (Rcl 23.886-AgR/AP, Rel. Min. Dias Toffoli; grifei).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. SÚMULA VINCULANTE 47. CONTRARIEDADE INEXISTENTE. PRECEDENTES. IMPOSIÇÃO DE MULTA.
+    1. É firme o entendimento desta Corte no sentido de que a decisão do juízo singular que impede a expedição de RPV em separado para pagamento de honorários contratuais não viola a Súmula Vinculante 47. Precedentes.
+    2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC” (RE 968.116 AgR/RS, Rel. Min. Edson Fachin; grifei).
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 25 de outubro de 2017.
+          Ministro Ricardo Lewandowski
+                      Relator
