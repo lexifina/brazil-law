@@ -1,0 +1,23 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, LIV e LV, 93, IX, e 109, I, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo a ementa do acórdão recorrido:
+    “PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. FERROVIÁRIO DA EXTINTA FEPASA. LEIS NºS 8.186/91, 10.478/2002 E LEI Nº 11.483/2007. PARCIALMENTE PROCEDENTE. RECURSO DA UNIÃO FEDERAL. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. SENTENÇA ANULADA. PARCIAL PROVIMENTO AO RECURSO.”
+    O Tribunal de origem decidiu no sentido da incompetência da justiça federal considerada a alegação de ilegitimidade passiva ad causam por parte da União, em razão de contrato firmado com o Estado de São Paulo. A decisão recorrida não divergiu da jurisprudência firmada no âmbito desta Suprema Corte. Compreensão diversa do entendimento adotado demandaria o exame prévio da legislação infraconstitucional aplicável, bem como a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário, verbis:
+    “DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. COMPLEMENTAÇÃO DE APOSENTADORIA. FERROVIÁRIOS DA EXTINTA FEPASA. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. ACÓRDÃO RECORRIDO PUBLICADO EM 09.6.2008.
+    O entendimento adotado pela Corte de origem, nos moldes do que assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. Entender de modo diverso demandaria a análise da legislação infraconstitucional aplicável à espécie, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    Agravo regimental conhecido e não provido.” (AI 859.828-AgR, de minha lavra, 1ª Turma, DJe 11.12.2014.)
+    “Agravo regimental em recurso extraordinário. 2. Direito Processual Civil. 3. Ações de complementação de aposentadoria ajuizadas por ferroviários da extinta FEPASA. Competência da Justiça comum estadual. Jurisprudência da Corte. Precedentes. 4. Agravo regimental a que se nega provimento.” (RE 808.513-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 01.9.2014.)
+    Quanto às alegações de violação aos arts. 5º, LIV e LV, e 93, IX, da Constituição Federal, ressalto a jurisprudência reafirmada por esta Suprema Corte no ARE 748.371-RG e no AI 791.292-QO-RG, respectivamente, verbis:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
