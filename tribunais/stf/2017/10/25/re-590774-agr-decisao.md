@@ -1,0 +1,30 @@
+Decisão: Cuida-se de agravo regimental interposto em face de decisão monocrática em que o Ministro Ricardo Lewandowski, meu antecessor na relatoria deste feito, deu provimento ao recurso extraordinário interposto pelo Estado do Maranhão para reconhecer a impossibilidade de acumulação dos três proventos a que se refere o presente caso, considerando ser inaplicável à espécie a EC 20/1998 (fls. 232-233). O ato decisório impugnado tem o seguinte teor (fls. 232/233):
+    “Trata-se de recurso extraordinário contra acórdão que considerou ilegal ato de renúncia de aposentadoria praticado pelos recorridos, em razão da acumulação de proventos provenientes de dois cargos de médico com um cargo de professor, aposentadorias essas concedidas antes da EC 20/98.
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, sustentou-se, em suma, afronta ao art. 37, XVI, e § 10, da mesma Carta e art. 11 da EC 20/98.
+    O Subprocurador-Geral da República Paulo de Tarso Braz Lucas opinou pelo conhecimento e provimento do recurso (fls. 227-229).
+    A pretensão recursal merece acolhida.
+    Como tem consignado esta Suprema Corte, por meio de remansosa jurisprudência, não é possível a acumulação do valor referente a três proventos, sendo inaplicável ao caso a EC 20/98. Nesse sentido, mutatis mutandis, cito o AI 419.426-AgR/SP, Rel. Min. Carlos Velloso:
+    ‘CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. MAGISTÉRIO. PROVENTOS E VENCIMENTOS: ACUMULAÇÃO TRÍPLICE. Art. 37, XVI e XVII. SUPERVENIÊNCIA DA EC 20/98. INAPLICABILIDADE. I. - A acumulação de proventos e vencimentos somente é permitida quando se tratar de cargos, funções ou empregos acumuláveis na atividade, na forma permitida pela Constituição. II. - Inaplicabilidade à espécie da EC 20/98, porquanto não admitida a acumulação, na ativa, de três cargos de professora. III. - Precedente do Plenário: RE 163.204/SP. IV. - Agravo não provido’.
+    Nesse sentido, menciono ainda as seguintes decisões, entre outras: RE 141.376/RJ, Rel. Min. Néri da Silveira; AI 567.707-AgR/PR, Rel. Min. Eros Grau; AI 565.422-AgR/PR, Rel. Min. Cezar Peluso; RE 423.213-AgR/PR, Rel. Min. Gilmar Mendes; RE 506.955/MG, Rel. Min. Cármen Lúcia.
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento (CPC, art. 557, § 1º-A). Honorários a serem fixados pelo Juízo de Execução, nos termos da legislação processual.
+    Publique-se.”
+    A parte agravante sustenta que a decisão merece ser reformada, porquanto o que se debate no presente caso não é a legalidade ou constitucionalidade da acumulação dos três proventos, mas, sim, a validade do ato da UFMA por meio do qual os ora recorrentes foram coagidos a optar entre os proventos das aposentadorias provenientes de dois cargos de médico, um do INSS, outro do Estado, bem como do cargo de professor da referida Universidade.
+    Alega que os recorrentes aposentaram-se em data anterior à EC 20/1998 em dois cargos de médico, um federal e outro estadual, e num cargo de professor da Universidade Federal do Maranhão e que foram induzidos a erro pela UFMA a exercer o direito de opção entre as aposentadorias. Disso decorreu a renúncia à aposentadoria de médico do Estado do Maranhão.
+    Afirma, ainda, que a questão referente à constitucionalidade da acumulação das aposentadorias é incidental no caso em exame, pois a matéria foi objeto de debate em outra ação, que deu origem ao RE 495.682, de relatoria do i. Ministro Marco Aurélio.
+    A parte Agravada apresentou manifestação (fls. 277-281-v).
+    O Ministério Público Federal manifestou-se pelo provimento do agravo regimental para negar seguimento ao recurso extraordinário (fls. 287-289).
+    É o relatório. Decido.
+    Inicialmente, reconsidero a decisão monocrática anteriormente proferida (fls. 232/233) e procedo a novo exame do recurso extraordinário.
+    Não merece prosperar o apelo extremo.
+    Com efeito, conforme noticiado na petição inicial (fl. 3), a parte Autora impetrou mandado de segurança na origem, e obteve decisão favorável à cumulação de proventos. Dessa decisão, foi interposto recurso extraordinário que, nesta Corte, foi registrado com a numeração 495.682, e distribuído para a relatoria do Min. Marco Aurélio.
+    Verifica-se que, no julgamento do referido recurso, a Primeira Turma deste Tribunal concluiu pela possibilidade de acumulação das aposentadorias em exame, por acórdão cuja ementa tem o seguinte teor:
+    “ACUMULAÇÃO PROVENTOS E VENCIMENTOS. Com o artigo 11 da Emenda Constitucional nº 20, de 15 de dezembro de 1998, ocorreu o afastamento da incidência da proibição de acumular proventos e vencimentos em relação àqueles que tivessem reingressado no serviço público em data anterior à da promulgação do novo texto constitucional. “ (RE 495.682-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 15.4.2013)
+    O mencionado acórdão transitou em julgado em 17.5.2013.
+    Constata-se, pois, que o acórdão proferido no recurso extraordinário oriundo do mandado de segurança torna o presente recurso extraordinário supervenientemente destituído de objeto, em parte, eis que ataca, justamente, a possibilidade de cumulação, ou não, das aposentadorias dos Autores.
+    Já em relação à alegação de ausência de prova nos autos referente à suposta coação exercida pela UFMA para que os autores renunciassem a uma das aposentadorias, observa-se que a análise da questão encontra óbice na Súmula 279/STF.
+    Ante o exposto, dou provimento ao agravo regimental para reconsiderar a decisão agravada, e, passando à análise do recurso extraordinário, quanto à possibilidade, ou não, de acumulação das aposentadorias, dele não conhecer, por estar prejudicado o recurso, por perda superveniente do seu objeto, nos termos do art. 932, III, do CPC, c/c art. 21, § 1º, do RISTF. No que se refere à alegação de ausência de prova que demonstra a existência de coação para a mencionada renúncia, nego provimento ao recurso, nos termos do 932, IV, a , do Código de Processo Civil.
+    Publique-se.
+    Brasília, 25 de outubro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
