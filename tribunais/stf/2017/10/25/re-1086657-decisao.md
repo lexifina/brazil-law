@@ -1,0 +1,18 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “DIREITO ADMINISTRATIVO. FGTS. JUROS PROGRESSIVOS. TRABALHADORES AVULSOS. IMPROCEDÊNCIA.
+    É firme a posição do egrégio STJ no sentido da improcedência do pedido de aplicação dos juros progressivos sobre contas vinculadas ao FGTS de trabalhadores avulsos.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    É que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no RE 628.137-RG/RJ, Rel. Min. ELLEN GRACIE, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “ADMINISTRATIVO. INCIDÊNCIA DOS JUROS PROGRESSIVOS SOBRE CONTA VINCULADA DE FUNDO DE GARANTIA POR TEMPO DE SERVIÇO – FGTS. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Com efeito, o Supremo Tribunal Federal recusará o apelo extremo sempre que se registrar hipótese, como sucede na espécie, na qual a controvérsia jurídica não se qualifique como tema revestido de repercussão geral.
+    A rejeição, em causa anterior (RE 628.137-RG/RJ), do pretendido reconhecimento da existência de repercussão geral referente ao mesmo litígio ora renovado nesta sede recursal impede que se conheça do recurso extraordinário em questão, mesmo porque a repercussão geral supõe, necessariamente, apelo extremo cognoscível, situação de todo inocorrente no caso, eis que o julgamento da causa em análise depende de prévio exame concernente à aplicação de diplomas infraconstitucionais, a evidenciar, quando muito, a ocorrência de ofensa meramente reflexa ao texto da Constituição.
+    Cumpre destacar, ainda, o que dispõe o art. 326 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, que veicula regra no sentido de que a decisão que proclama inexistente a repercussão geral, como aquela proferida no RE 628.137-RG/RJ, a que anteriormente aludi (em tudo aplicável ao presente caso), vale “para todos os recursos sobre questão idêntica”, tal como tem advertido o Plenário desta Corte Suprema (RE 659.109-RG-ED/BA, Rel. Min. LUIZ FUX), motivo pelo qual se mostra evidente a inadmissibilidade, na espécie, do recurso extraordinário em causa.
+    De outro lado, cabe ter presente que a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 25 de outubro de 2017.
+Ministro CELSO DE MELLO
+Relator
