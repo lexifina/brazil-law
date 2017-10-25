@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “AGRAVO EXECUÇÃO DE SENTENÇA – ISS - Alegação de ausência de coisa julgada - Inconsistência da alegação, pois os precatórios expedidos anteriormente, relacionados à condenação de repetição de indébito e honorários advocatícios, tem por base decisão judicial transitada em julgado - Rediscussão referente a juros, cálculos e reclassificação do precatório inadmissíveis ao caso - RECURSO IMPROVIDO”. (eDOC. 40, p. 146)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 100, § 1º, do texto constitucional.
+    Nas razões recursais, alega-se que o título executivo não foi nem formado, visto que ausente o trânsito em julgado do referido título exequendo. Sob essa ótica, assevera-se não ser possível a execução provisória contra a Fazenda Pública.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que o título exequendo transitou em julgado. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Isso porque ficou claro na r. decisão agravada, a qual se reporta aos respectivos documentos existentes nos autos de execução (fls. 287/s, 393/s, entre outras), que o título exequendo já transitou em julgado.
+    Com efeito, o d. juiz a quo realçou que, diferentemente do alegado pelo Município executado e recorrente, não se cuida de execução provisória.
+    O que está sendo executado é a parte incontroversa da r. sentença e do v. acórdão, tal como evidencia a carta de sentença (fls. 287/s).
+    A parte controversa termo inicial dos juros moratórios - , foi objeto de agravo regimental interposto pelo credor exequente, conforme realça o próprio recorrente.
+    Por essa razão, ao contrário do que alegou o recorrente, não existe contrariedade ao § 1º do art. 100 da CF, pois está claro que o objeto da execução está acobertado pela coisa julgada (art. 474, CPC).
+    [...]É oportuno registrar, segundo realçou o d. Juiz a quo com base em elementos constantes dos autos da execução, que as questões trazidas neste recurso já foram alcançadas pela preclusão decorrente de coisa julgada, pois todas elas já tinham sido impugnadas em oportunidades anteriores pelo Município e devidamente rejeitadas (fls. 393/s). Porém, não houve o recurso próprio à época.
+    Neste particular, cabe frisar que, ainda que existentes decisões remetendo a análise de uma ou outra questão para outra ocasião, isso não remove a impossibilidade de rediscussão de temas acobertados pela coisa julgada, nem vincula decisões posteriores. ” (eDOC 40, fl. 148-149)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    "Agravo regimental no recurso extraordinário. Tributário. Prequestionamento. Ausência. Depósitos judiciais. Conversão em renda antes do trânsito em julgado. Devolução imediata. Necessidade de precatório. Matéria infraconstitucional. Afronta reflexa. Ocorrência de trânsito em julgado. Fatos e provas. Súmula 279/STF. 1. A matéria constitucional contida no art. 167, II, da Constituição, indicado como violado no recurso extraordinário, carece do necessário prequestionamento. Incidência das Súmulas nºs 282 e 356/STF. 2. A questão relativa à devolução do valor do depósito pelo Fisco e sua equiparação ao pagamento de condenação contra a Fazenda Pública mediante precatório não se traduz em ofensa direta à Constituição Federal. A afronta ao texto constitucional, caso ocorresse, seria reflexa ou indireta, o que não enseja a abertura da via extraordinária. Necessidade, ademais, de revolvimento dos fatos e das provas dos autos, incidindo a Súmula 279/STF. 3. Agravo regimental não provido." (RE 815779 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe DIVULG 30.05.2017)
+    "AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CESSÃO DE CRÉDITO DE PRECATÓRIO. PROVA DA HABILITAÇÃO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULAS 283, 279 E 636/STF. Caso em que o Tribunal de origem adotou fundamento autônomo e suficiente à manutenção do julgado que restou incólume ante o trânsito em julgado do Recurso Especial no Superior Tribunal de Justiça (Súmula 283/STF). hipótese, de qualquer modo, em que a resolução da controvérsia demandaria o reexame dos fatos e provas constantes nos autos e da legislação infraconstitucional. Incidência das Súmulas 279 e 636/STF. Agravo regimental a que se nega provimento." (AI 800797 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 05.03.2015)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de outubro de 2017
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
