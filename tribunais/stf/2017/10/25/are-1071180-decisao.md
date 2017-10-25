@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, interposto em face de acórdão do Tribunal Superior Eleitoral, sob os seguintes fundamentos: (i) eventual ofensa à Constituição seria apenas indireta; (ii) incidência do óbice da Súmula 282/STF.
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, ofensa aos arts. 5°, XIV, XXXIII; 37, caput, § 1° e § 2°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Observando atentamente a presente lide, percebo que foi decidida à luz de legislação infraconstitucional aplicada à espécie (Lei 9.504/1997). Dessa forma, para analisar o recurso extraordinário seria necessário rever a interpretação da norma que fundamentou o acórdão a quo. Eventual ofensa a dispositivo constitucional ocorreu de forma indireta (reflexa), tornando inviável o RE. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ELEITORAL. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE TRIBUNAL DIVERSO. RECURSO ESPECIAL ELEITORAL. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. PRESTAÇÃO DE CONTAS DE DIRETÓRIO ESTADUAL DO PARTIDO SOCIALISTA BRASILEIRO – PSB. FUNDO PARTIDÁRIO. CÓDIGO ELEITORAL E LEIS NS. 9.096/1995 E 9.504/1997. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 839.080-AgR/DF, Relatora Ministra Cármen Lúcia, Segunda Turma; grifei).
+    Ademais, os dispositivos constitucionais alegadamente violados (arts. 5°, XIV, XXXIII; 37, caput, § 1° e § 2°) não foram devidamente prequestionados no momento oportuno. Dessa forma, incide o óbice da Súmula 282/STF, o que torna inviável o RE. Nesse sentido:
+    “Ementa: PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE ATAQUE ESPECÍFICO A FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 284 DO STF. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. OFENSA AOS ARTS. 5º, II, 37, CAPUT, 150, I, 153, § 1º, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA PARTE, DESPROVIDO” (RE 809.864-AgR/DF, Relator Ministro Teori Zavascki, Segunda Turma; grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 25 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
