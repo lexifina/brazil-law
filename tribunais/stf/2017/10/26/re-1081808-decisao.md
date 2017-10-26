@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade aos artigos 154, I e 195, I, § 4º, da Constituição Federal.
+    Eis a ementa do acórdão recorrido:
+    “TRIBUTÁRIO. COMERCIANTE ATACADISTA. LEGITIMIDADE. CONTRIBUIÇÕES PREVIDENCIÁRIAS INCIDENTES SOBRE A RECEITA BRUTA DA PRODUÇÃO RURAL. PERÍODO ANTERIOR À EC 20/98. INEXIGIBILIDADE DO TRIBUTO, POR VÍCIO DE INCONSTITUCIONALIDADE. EXIGIBILIDADE A PARTIR DA LEI 10.256/01, QUE CONFERIU NOVA REDAÇÃO AO ART. 25 DA LEI 8.212/91. - O STF, quando do julgamento do RE 363852, em 03/10/2010, decidiu que a nova redação conferida ao art. 25 da Lei 8.212/91, pelo art. 1º da Lei 8.540/92, que estendeu a incidência da contribuição previdenciária sobre a receita da comercialização da produção rural - anteriormente restrita aos produtores rurais que exercessem suas atividades em regime de economia familiar, aos empregadores rurais, pessoas físicas, equiparando-os aos segurados especiais, é inconstitucional, por violar o disposto no §4º, do art. 195, da CRFB/88, na redação anterior à Emenda 20/98, por constituir nova fonte de financiamento da seguridade social, sem a observância da obrigatoriedade de lei complementar para tal, "até que legislação nova, arrimada na Emenda Constitucional nº 20/98, venha a instituir a contribuição". - Por outro lado, consoante o disposto no artigo 195, § 4º e a orientação embutida no RE nº 150755 - PE, somente é exigível a instituição de contribuição para a Seguridade Social por meio de lei complementar, para o nascimento de novas fontes de financiamento da Seguridade Social,. Destarte, a instituição de contribuição incidente sobre a "receita bruta proveniente da comercialização da produção rural" não estaria condicionada à edição de lei complementar, com validade no permissivo do art. 195, caput, da Constituição Federal. - A partir da edição da Lei n. 10.256/2001, a contribuição em apreço é legalmente exigível, sendo, portanto, improcedentes os pedidos, eis que se reportam a fatos geradores ocorridos na vigência da referida lei. - Precedentes desta Corte. - Remessa necessária e recurso providos.”
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que a controvérsia acerca da contribuição a ser recolhida pelo empregador rural pessoa física está abrangida na matéria analisada no Tema 669 (RE n° 718.874/RS) da Gestão por Temas da Repercussão Geral do portal do STF na internet. Trata-se de discussão sobre a constitucionalidade, ou não, da contribuição sobre a receita bruta proveniente da comercialização de produção rural, nos termos da Lei 10.256/01.
+    O referido RE nº 718.874/RS foi recentemente julgado. Na sessão de 30/03/17, o Tribunal Pleno fixou a seguinte tese: “é constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção”.
+    Desse modo, é válida a incidência de contribuição social do empregador rural sobre as receitas obtidas com a comercialização de sua produção.
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, §1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 26 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
