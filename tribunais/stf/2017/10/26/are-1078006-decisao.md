@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “Apelação Cível. Servidor público estadual. Procuradores do Estado. Afastada a pretensão dos autores de haver diferenças decorrentes de retenção, alegadamente, indevida, de valores que compõem o cálculo mensal do ‘triplique’ a que fazem jus, eis que o contingenciamento de tais quantias, que ostentam induvidosa natureza de receitas públicas, cabe exclusivamente ao Procurador Geral do Estado, de acordo com as normas que regem a matéria. Inteligência do artigo 55 da Lei Complementar Estadual n° 93/74 e da Resolução PGE n° 139/2002. Precedentes. Ação improcedente. Reexame necessário e recurso voluntário da Fazenda acolhidos” (pág. 134 do documento eletrônico 5).
+    Os embargos de declaração, opostos em seguida, foram rejeitados.
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa ao art. 37, X, XI e XV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional local aplicável à espécie (Leis Complementar Estadual 93/1974, Lei Complementar Estadual 478/1986 e Constituição Estadual). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o recurso extraordinário, nos termos da Súmula 280/STF.
+    Além disso, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 desta Corte.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. VERBA HONORÁRIA. SISTEMA “TRIPLIQUE”. CONTROVÉRSIA CIRCUNSCRITA À LEGISLAÇÃO MUNICIPAL PERTINENTE. INCIDÊNCIA DA SÚMULA 280/STF. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Eventual ofensa ao Magno Texto, no caso, apenas ocorreria de forma reflexa ou indireta. 2. De mais a mais, incide no caso a Súmula 282/STF. 3. Agravo regimental desprovido” (AI 786158-AgR/SP, Rel. Min. Ayres Britto).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Fórmula de cálculo de pagamento de honorários advocatícios de Procuradores do Município de São Paulo. 3. Análise da legislação infraconstitucional. Lei 13.400/2002. Ofensa meramente reflexa ao texto constitucional. 4. Alegação de ofensa ao princípio da legalidade. Enunciado 636 da Súmula desta Corte. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE 771.262-AgR/SP, Rel. Min. Gilmar Mendes).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCURADORES AUTÁRQUICOS DO ESTADO DE SÃO PAULO. DIREITO A RECEBER HONORÁRIOS ADVOCATÍCIOS. RECURSO EXTRAORDINÁRIO. FUNDAMENTO SUFICIENTE INATACADO. SÚMULA 283/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO AO DIREITO ADQUIRIDO. OFENSA MERAMENTE REFLEXA À CONSTITUIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE 428.865-AgR/SP, Rel. Min. Teori Zavascki).
+    Menciono, ainda, no mesmo sentido, a decisão proferida no ARE 978.331/SP, de relatoria do Ministro Edson Fachin.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 26 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
