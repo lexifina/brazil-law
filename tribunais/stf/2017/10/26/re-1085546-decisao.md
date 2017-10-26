@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Superior Tribunal de Justiça, assim ementado:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. INVASÃO DO IMÓVEL RURAL. DESAPROPRIAÇÃO. IMPOSSIBILIDADE. ART. 2º, § 6º, DA LEI 8.626/93. SÚMULA 354/STJ. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO”. (eDOC 10, p. 74)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 186, I e II, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que a interpretação do Tribunal a quo quanto à norma vedadora de desapropriação de imóvel rural invadido diverge da interpretação firmada por esta Corte – enquanto aquele entenderia que qualquer invasão seria suficiente para suspender o processo expropriatório, esta teria assentado a necessidade de ponderar sobre seus impactos sobre a produtividade do imóvel. (eDOC 10, p. 107)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 8.629/1993) e o conjunto probatório constante dos autos, consignou que não haveriam transcorrido dois anos entre o término da invasão e a avaliação do imóvel. Nesse sentido, extrai-se o seguinte trecho da sentença transcrito pelo acórdão impugnado:
+    “Embora a data da desocupação seja um dado relevante, os contornos do presente caso a torna dispensável, porque mesmo na hipótese de se considerar que a desocupação tenha se dado no mesmo dia em que se iniciou, ou seja em 31 .01 .2009, ainda restaria violada a regra contida no §6º do art. 2º da Lei n.º 8.629/93.
+    Sim, pois os atos de vistoria, avaliação e de ajuizamento da ação desapropriatória não poderiam ter se iniciado antes de 31.01.2011 e sem maiores esforços nota-se que a vistoria, realizada em maio/2008 e o ajuizamento da ação desapropriação feito em 04.10.2011, não encontraram qualquer óbice, pois o primeiro ocorreu antes da invasão e o segundo mais de 02 anos após o seu início, no entanto o mesmo não pode ser dito quanto à avaliação, que fora feita em pouco mais de 09 meses após a invasão”. (eDOC 10, p. 84)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 20.3.2014. ADMINISTRATIVO. ALEGAÇÃO DE NULIDADE POR AUSÊNCIA DE INTIMAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL. PREJUÍZO NÃO DEMONSTRADO. DESAPROPRIAÇÃO PARA REFORMA AGRÁRIA. FUNÇÃO SOCIAL DA PROPRIEDADE. ACÓRDÃO RECORRIDO FUNDAMENTADO NO CONJUNTO PROBATÓRIO E NA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 279 DO STF. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO”. (RE 787122 AgR, rel. Min. Edson Fachin, Segunda Turma, DJe 17.3.2017)
+    “Agravo regimental em recurso extraordinário. 2. Direito Civil e Administrativo. 3. Desapropriação. Invasão de imóvel cujo processo expropriatório encontra-se em curso na esfera administrativa. Esbulho possessório. Lei Federal 8.629/1993. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmulas 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento”. (RE 946749 AgR, de minha relatoria, Segunda Turma, DJe 7.6.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e majoro o valor da verba honorária fixada pela origem (eDOC 9, p. 30) em 10%, observados os limites previstos nos parágrafos 2º e 3º do art. 85 do CPC.
+    Publique-se.
+    Brasília, 26 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
