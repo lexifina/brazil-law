@@ -1,0 +1,32 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO DE USUCAPIÃO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO–PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO DEPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos pelo ESTADO DO RIO DE JANEIRO, objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “USUCAPIÃO. SÍTIO PARCIALMENTE INSERIDO NO PARQUE NACIONAL DA SERRA DA TIRIRICA. CONFIGURADA POSSE AD USUCAPIONEM. AUSÊNCIA DE PROVA DE DESAPROPRIAÇÃO. BEM PRIVADO QUE ESTÁ INSERIDO EM ÁREA DE PRESERVAÇÃO. POSSE ANTERIOR À CRIAÇÃO DO PARQUE ESTADUAL.
+    1. Trata-se de ação de usucapião de imóvel que conta com 50% de sua extensão dentro dos limites do Parque Estadual da Serra da Tiririca. Ao final o pedido foi acolhido sendo declarado o domínio dos autores, que contaram com o tempo de posse de seus antecessores;
+    2. A propriedade de pequena fração do imóvel, sustentada pelo primeiro apelante, não implica na improcedência do pedido autoral, uma vez que não abala a posse ad usucapionem configurada;
+    3. A tese recursal no sentido de que não há norma que determine ao proprietário alguma atividade é no mínimo estranha, dado o instituto das limitações administrativas que foi suscitado na presente ação, e mesmo a própria usucapião, que reflete os efeitos de uma conduta omissa por parte do proprietário;
+    4. Diante da conduta das partes, ativa dos autores e inativa do apelante, é pueril a tese de que não se pode tratar o imóvel como terra devoluta, não se trata disso;
+    5. Também não produz efeito a tese do apelante no sentido de que os apelados não utilizaram a fração reclamada do imóvel para alguma atividade, basta observar o laudo pericial;
+    6. No mais, quanto ao pedido de vista fora do Cartório para se manifestar em relação ao citado laudo, trata-se de matéria preclusa;
+    7. Em relação ao segundo apelo, do Estado do Rio de Janeiro, não há falar em desapropriação, vez que não há prova de que a expropriação tenha sido levada a efeito, ônus probatório de quem alega;
+    8. No mais, a rigor, não se trata especificamente de bem público não passível de usucapião, mas sim bem privado, inserido em área de preservação, passível de limitações, usucapião e desapropriação, pelo que enquanto não houver prova desta, como sustentado pelo apelante, aquele bem mantém-se passível de ser usucapido;
+    9. Negado provimento a ambos os recursos.” (Doc. 9, fls. 79-80)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 183, § 3º, e 191, parágrafo único, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    O Tribunal de origem consignou que não há falar em desapropriação, vez que não há prova de que a expropriação tenha sido levada a efeito pelo Estado do Rio de Janeiro.
+    Assim, para divergir do entendimento do Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos, o que inviabiliza o apelo extremo.
+    Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, face ao óbice erigido pela Súmula 279 do STF. Nesse sentido:
+    "Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. 3. Usucapião. Preenchimentos dos requisitos. Matéria infraconstitucional. Necessidade do revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula 279. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento." (ARE 971.365-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 7/4/2017)
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do referido verbete sumular, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas acerca da Súmula 279 do STF:
+    “Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+    A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+    Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+    A Súmula 279 é peremptória: ‘Para simples reexame de prova não cabe recurso extraordinário’. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.“ (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 137-138).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de outubro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
