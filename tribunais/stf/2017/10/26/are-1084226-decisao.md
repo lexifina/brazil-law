@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 3ª Turma Recursal de Santa Catarina.
+     O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV e LV; 37, § 6º; 61, § 1º, II, a, e 93, IX, todos da Constituição Federal. Sustenta que o recorrido não tem direito ao instituto da rubrica RSC – Reconhecimento de Saberes e Competência, tendo em vista que se aposentou antes da edição da Lei nº 12.772/2012.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que eventual ofensa ao texto constitucional somente ocorreria de maneira indireta ou reflexa.
+    O recurso não merece seguimento, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência do Supremo Tribunal Federal, que, ao julgar o RE 590.260-RG, Rel. Min. Ricardo Lewandowski, submetido à sistemática da repercussão geral, decidiu que os servidores públicos que ingressaram no serviço público antes da EC nº 41/2003, mas que se aposentaram após da edição da referida emenda, possuem direto à paridade e integralidade remuneratória, desde que observada a regra de transição prevista na EC nº 47/2005. Veja-se a ementa do mencionado julgado:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO POR ATIVIDADE DE MAGISTÉRIO, INSTITUÍDA PELA LEI COMPLEMENTAR 977/2005, DO ESTADO DE SÃO PAULO. DIREITO INTERTEMPORAL. PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS QUE INGRESSARAM NO SERVIÇO PÚBLICO ANTES DA EC 41/2003 E SE APOSENTARAM APÓS A REFERIDA EMENDA. POSSIBILIDADE. ARTS. 6º E 7º DA EC 41/2003, E ARTS. 2º E 3º DA EC 47/2005. REGRAS DE TRANSIÇÃO. REPERCUSSÃO GERAL RECONHECIDA. RECURSO PARCIALMENTE PROVIDO.
+    I – Estende-se aos servidores inativos a gratificação extensiva, em caráter genérico, a todos os servidores em atividade, independentemente da natureza da função exercida ou do local onde o serviço é prestado (art. 40, § 8º, da Constituição).
+    II – Os servidores que ingressaram no serviço público antes da EC 41/2003, mas que se aposentaram após a referida emenda, possuem direito à paridade remuneratória e à integralidade no cálculo de seus proventos, desde que observadas as regras de transição especificadas nos arts. 2º e 3º da EC 47/2005.
+    III – Recurso extraordinário parcialmente provido.”
+    Ademais, dissentir da conclusão firmada pelo Tribunal de origem acerca da natureza da rubrica RSC, se benefício ou reajuste, seria necessário analisar a legislação infraconstitucional aplicada ao caso, procedimento vedado neste momento processual.
+    Quanto à questão da correção monetária e dos juros, o Supremo Tribunal Federal, nos autos do RE 870.947-RG, julgado sob a relatoria do Ministro Luiz Fux, reconheceu a existência de repercussão geral da controvérsia relativa à validade da correção monetária e dos juros moratórios incidentes sobre condenações impostas à Fazenda Pública, tanto na fase de conhecimento quanto na fase de execução, conforme determina o art. 1º-F da Lei nº 9.494/1997, com redação dada pela Lei nº 11.960/2009 (Tema 810).
+    Diante do exposto:
+    (i) quanto ao pagamento da vantagem RSC, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    (ii) quanto à controvérsia dos juros, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 26 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
