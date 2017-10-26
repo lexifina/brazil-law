@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. INCLUSÃO DE CONTRIBUINTE DEVEDOR NO CADASTRO DE INADIMPLENTES (CADIN). CONTROVÉRSIA DE CUNHO INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. PRECEDENTES. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos (Doc. 2, p. 204) objetivando a reforma de decisão que inadmitiu recurso extraordinário (Doc. 2, p. 161), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (Doc. 2, p. 131) que assentou, in verbis:
+    “MANDADO DE SEGURANÇA - Pretensão voltada a impedir a inclusão do nome da impetrante no CADIN enquanto pendente solução em pedido administrativo de compensação tributária com crédito oriundo de precatório cedido - Sentença concessiva da segurança - Hipótese que não configura causa de suspensão da exigibilidade do crédito tributário - Não enquadramento no art. 151, III, do CTN - Orientação consolidada no Superior Tribunal de Justiça, através do julgamento de recurso repetitivo, no sentido de que "a mera discussão judicial da dívida, sem garantia idônea ou suspensão da exigibilidade do crédito, nos termos do art. 151 do CTN, não obsta a inclusão do nome do devedor no CADIN - Precedentes do STJ e desta Câmara - Sentença reformada - Recurso voluntário e reexame necessário providos.”
+    Os embargos de declaração opostos foram desprovidos (Doc. 2, p. 149).
+    Nas razões do apelo extremo, a ora agravante sustentou preliminar de repercussão geral e, no mérito, apontou violação aos artigos 1º, IV; 5º, II, XIII, XXXV e LXIX; e 170, caput, IV e parágrafo único, da Constituição Federal. Alegou que a inscrição no CADIN representa meio abusivo de cobrança de tributos à medida que impede o livre exercício da atividade comercial.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontra óbice na Súmula 282 do STF. Consignou ainda que a ofensa à Constituição, acaso existente, seria indireta (Doc. 2, p. 200).
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    O Tribunal a quo concluiu no âmbito da ação mandamental que não foi constatada a presença de qualquer causa de suspensão de exigibilidade do crédito tributário e muito menos se vislumbrou qualquer constrangimento ao exercício da atividade econômica.
+    Para divergir das razões do acórdão recorrido seria necessário o reexame da legislação infraconstitucional aplicável à espécie (CTN), o que se revela inviável em sede de recurso extraordinário por configurar ofensa indireta à Constituição Federal, bem como o incursionamento no contexto fático-probatório engendrado nos autos, o que também não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, face ao óbice erigido pela Súmula 279 do STF.
+    Nesse sentido: ARE 949.968-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 5/9/2017; ARE 951.324-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 3/5/2016; ARE 792.340-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 23/6/2014; entre outros.
+    Por fim, observo que o presente agravo foi interposto sob a égide da lei processual de 2015. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de outubro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
