@@ -1,0 +1,31 @@
+Decisão: Trata-se de reclamação constitucional, proposta por Luigi Caldana, em face de decisão proferida pela 9ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, nos autos do Processo 1052355-83.2015.8.26.0053.
+    O reclamante alega que a decisão atacada ofendeu a autoridade desta Corte, consubstanciada na decisão do AI-RG 758.533 (paradigma do tema 338 da repercussão geral) e na Súmula Vinculante 44, ao negar seu pedido de reintegração a Curso de Formação de Oficiais da Polícia Militar do Estado de São Paulo.
+    Afirma, em síntese, que foi reprovado em exame psicológico exigido com fundamento apenas em decreto, mas não em norma legal, de modo que não poderia ter sido excluído do concurso.
+    Argumenta que o Decreto estadual 54.911/2009 não traz regramentos objetivos para a aplicação do exame psicológico, e que a Lei Complementar estadual 1.036/2008, por ele regulamentado, não prevê a realização de tal exame. (eDOC 1, p. 8)
+    Sustenta não ser possível buscar amparo para legitimidade do exame psicológico na Lei federal 10.826/2003, porquanto seria lei genérica, que abrange outros assuntos, e não teria sido editada para regulamentar o exame. (eDOC 1, p. 9)
+    Solicita a gratuidade de Justiça.
+    Requer a concessão de liminar para suspender o processo de origem, e, ao final, a cassação do ato de reprovação, a dispensa do exame psicológico e seu prosseguimento no concurso.
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    A reclamação não pode ser conhecida por ofensa à tese fixada no julgamento do AI-RG 758.533, pois, como informado pelo reclamante (eDOC 1, p. 3), o agravo interposto contra a decisão de inadmissibilidade do recurso extraordinário, oposto contra o acórdão reclamado, ainda pende de remessa ao STF para julgamento. Logo, não ocorreu o exaurimento das vias ordinárias para que este Tribunal analise a irresignação.
+    Confira-se, a propósito, o seguinte precedente:
+    “PROCESSUAL CIVIL. RECLAMAÇÃO PROPOSTA PARA GARANTIR A OBSERVÂNCIA DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. CPC/2015, ART. 988, § 5º, II. INTERPRETAÇÃO TELEOLÓGICA. 1. Em se tratando de reclamação para o STF, a interpretação do art. 988, § 5º, II, do CPC/2015 deve ser fundamentalmente teleológica, e não estritamente literal. O esgotamento da instância ordinária, em tais casos, significa o percurso de todo o íter recursal cabível antes do acesso à Suprema Corte. Ou seja, se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação. 2. Agravo regimental não provido”. (Rcl 24686 ED-AgR, rel. Min. Teori Zavascki, Segunda Turma, DJe 11.4.2017)
+    Quanto à ofensa à Súmula Vinculante 44, também não assiste razão ao reclamante.
+    A referida Súmula Vinculante possui a seguinte redação:
+    “Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público”.
+    O ato reclamado enfrentou a questão, consignando que haveria previsão legal para a aplicação de exame psicotécnico aos candidatos. Nesse sentido, extrai-se o seguinte trecho:
+    “A exigência dos exames psicológicos para ingresso em curso de formação de Oficiais da Policia Militar está amparada na Lei nº 10.826/03 Estatuto do Desarmamento, que disciplina os requisitos a serem atendidos por aqueles que utilizarão de armas de fogo”. (eDOC 7, p. 14)
+    Verifico que o ato reclamado manifesta entendimento já agasalhado na jurisprudência desta Corte, reconhecendo a Lei federal 10.826/2003 (Sistema Nacional de Armas), cujo art. 4º, III, exige a “comprovação de capacidade técnica e de aptidão psicológica para o manuseio de arma de fogo”, como suporte legal da exigência de exame psicológico para os candidatos ao cargo de policial militar.
+    Por outro lado, não se verifica estrita aderência entre o comando da Súmula Vinculante 44, que veicula a exigência de reserva legal para o exame psicológico, e a controvérsia trazida pelo reclamante, que diz respeito ao caráter genérico da Lei 10.826/2003, a qual não regulamentaria especificamente o cargo disputado pelo reclamante.
+    De igual forma, a Súmula Vinculante 44 não contém prescrição normativa a respeito dos critérios de avaliação nos exames psicológicos.
+    Ora, conforme jurisprudência da Corte, os atos reclamados devem ajustar-se com exatidão e pertinência ao conteúdo das decisões desta Suprema Corte indicadas como desrespeitadas.
+    Nesse sentido, confiram-se os seguintes julgados:
+    “AGRAVO INTERNO. RECLAMAÇÃO. ALEGADA OFENSA À SÚMULA VINCULANTE 44. INEXISTÊNCIA NO CASO CONCRETO. 1. A sentença que indica haver leis amparando a exigência do exame psicotécnico em concurso público está de acordo com a Súmula Vinculante 44 (Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público). 2. A alegação de que as leis citadas não prevêem o teste psicológico extrapola o restrito âmbito da reclamação. 3. Reclamação não é recurso. Não está entre suas importantes finalidades funcionar como um atalho para trazer ao Supremo Tribunal Federal toda e qualquer discussão em curso nas instâncias ordinárias. 4. Agravo interno a que se nega provimento”. (Rcl 26711 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe 20.6.2017)
+    “Agravo regimental na reclamação. Súmula Vinculante nº 44. Ausência de aderência estrita entre o ato reclamado e o paradigma da Corte. Agravo regimental não provido. Agravo regimental não provido. 1. A aderência estrita do objeto do ato reclamado ao conteúdo das decisões paradigmas é requisito de admissibilidade da reclamação constitucional. 2. A reclamação não é meio processual adequado para o reexame do mérito da demanda originária. 3. Agravo regimental não provido”. (Rcl 25230 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 21.2.2017)
+    Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF). Concedo a gratuidade de Justiça.
+    Publique-se.
+    Brasília, 26 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
