@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “ADMINISTRATIVO. MILITAR. CURSO DE FORMAÇÃO DE OFIIAIS. DEMISSÃO A PEDIDO. NÃO CUMPRIMENTO DE PERÍODO OBRIGATÓRIO. INDENIZAÇÃO. LEGALIDADE.
+    1. A União Federal faz jus ao ressarcimento de investimentos feitos em profissional que abandona o oficialato antes do prazo de permanência, após a conclusão do curso de formação de oficiais da Marinha. Fruição de benesses de preparo avançado. O texto legal prevê a indenização (art. 116 e §1º “b” do mesmo artigo da Lei n 6.880/80) e, existindo emlei, não sendo ela inconstitucional, existe dever de ressarcir.
+    2. A indenização cobrada pela União Federal é acolhida, considerando que já foi efetuada a redução proporcional preconizada pela jurisprudência.
+    3. Agravo retido e apelo desprovidos.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 206, IV, da Constituição.
+    O recurso não merece acolhida, tendo em vista que a decisão proferida pelo tribunal de origem está alinhada com a jurisprudência do Supremo Tribunal Federal, que, ao julgar a ADI 1.626, Rel. Min. Dias Toffoli, assentou ser constitucional a parte final do art. 117 da Lei nº 6.880/1980 (Estatuto dos Militares da União). Decidiu que o dever do militar com menos de cinco anos de corporação de indenizar os custos decorrentes de sua formação, no caso de assunção de cargo ou emprego civil não viola o princípio da proporcionalidade, e não ofende o direito de liberdade profissional. Assentou que o desembolso, pelo erário de custos adicionais, destinados à preparação e à manutenção de seus servidores, em especial os militares, não pode ser negligenciado, em razão da própria configuração constitucional da supremacia do interesse público e da integridade do erário. Veja-se a ementa do julgado:
+    “Ação direta de inconstitucionalidade. Parte final do art. 117 da Lei nº 6.880/80 (Estatuto dos Militares da União), na redação dada pela Lei nº 9.297/1996. Dever do oficial militar com menos de cinco anos de corporação de indenizar os custos decorrentes de sua formação, no caso de assunção de cargo ou emprego civil. Supremacia do interesse público. Ressarcimento ao erário. Ausência de ofensa à liberdade de profissão e ao princípio da proporcionalidade. Liminar indeferida. Ação que se julga improcedente.
+    1. O desembolso pelo erário de custos adicionais, destinados à preparação e à manutenção de seus servidores, em especial dos militares, com a finalidade de aprimoramento do Corpo das Forças Armadas, não poder ser negligenciado, em razão da própria configuração constitucional da supremacia do interesse público e da integridade do erário. A norma questionada é similar a outras previstas na legislação do servidor civil, que preveem a necessidade de devolução pelo servidor dos valores gastos pela União com sua formação profissional. Ausente ainda ofensa ao princípio da proporcionalidade, na medida em que a norma é adequada para o fim que se destina, sem agressão ou nulificação do direito de liberdade profissional.
+    2. Ação direta julgada improcedente.”
+    Dessa orientação não divergiu o acórdão recorrido.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
