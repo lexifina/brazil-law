@@ -1,0 +1,20 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Ministério Público Federal contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “Penal e Processo Penal. Conflito Negativo de Jurisdição. Execução Penal. Criação de nova vara federal no local da infração. Competência do Juízo suscitado. Conflito conhecido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 1º, 2º, e 93, IX, da Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    Cabe registrar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal:
+    “Para melhor deslinde da questão, transcrevo o que dispõe a Resolução nº 33/2010, deste Tribunal, que entrou em vigor em 01/12/2010, disciplinando a competência da 26ª Vara Federal de Pernambuco:
+    Art. 1º As 25ª, 26ª e 27ª Varas Federais da Seção Judiciária de Pernambuco têm, no seu âmbito territorial de atuação, competência plena para processar e julgar as causas previstas no art. 109 da Constituição da República, inclusive a conciliação, o julgamento a execução de causas cíveis até o valor de sessenta salários mínimos e os feitos relativos às infrações de menor potencial ofensivo concernentes aos Juizados Especiais Criminais instituídos através da Lei nº 10.259, de 12 de julho de 2011.
+    Art. 2º As varas mencionadas no artigo anterior receberão os feitos em tramitação nas demais Varas da Seccional pernambucana que sejam da sua jurisdição.
+    Vejamos, ainda, o que preceitua o art. 70 do Código de Processo Penal – CPP:
+    Art. 70. A competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+    Assim, diante da criação da 26ª Vara Federal de Pernambuco, e considerando que os fatos narrados na denúncia da Ação Penal foram praticados no município de Palmares/PE, a execução penal deve ser processada no Juízo suscitado, que tem plena competência para processar e julgar as causas previstas no art. 109 da Carta Magna.
+    Inaplicável o disposto no art. 87 do Código de Processo Civil –CPC (princípio da ‘perpetuatio jurisdictions’), que não trata do caso específico da criação de nova Vara Federal antes de iniciada a execução, como na hipótese presente.
+    Também não há que se falar na aplicação do art. 65 da Lei nº 7.210/84 (Lei de Execução Penal), que afirma ser de competência do juiz da sentença a execução penal, afinal, no caso concreto, a Ação penal não se processou no local da infração apenas pela inexistência, naquela oportunidade, de Vara Federal no município de Palmares/PE.”
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 26 de outubro de 2017.
+Ministro CELSO DE MELLO
+Relator
