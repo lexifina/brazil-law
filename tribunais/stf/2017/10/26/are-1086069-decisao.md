@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO SOCIAL. PIS/COFINS. ISENÇÃO. RECEITA DECORRENTE DE VENDAS REALIZADAS NA ZONA FRANCA DE MANAUS. INTERPRETAÇÃO DA NORMA INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. AGRAVO INTERPOSTO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 2015. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos (Doc. 8, p. 43) objetivando a reforma de decisão que inadmitiu recurso extraordinário (Doc. 7, p. 77), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (Doc. 6, p. 77) que assentou, in verbis:
+    “PROCESSUAL CIVIL. CONSTITUCIONAL. TRIBUTÁRIO. MANDADO SEGURANÇA. REPETIÇÃO DE INDEBITO. PIS/COFINS. ZONA FRANCA DE MANAUS. ISENÇÃO. (ART. 40 E ART. 92 DO ADCT-CF/88, C/C DL Nº 288/1967). COMPENSAÇÃO. PRESCRIÇÃO QUINQUENAL. (8)
+    1. O Pleno do STF (RE nº 566.621/RS), sob o signo do art. 543-B/CPC, que concede ao precedente extraordinária eficácia vinculativa que impõe sua adoção em casos análogos, reconheceu a inconstitucionalidade do art. 4º, segunda parte, da LC 118/2005, declarando a prescrição quinquenal às ações repetitórias ajuizadas a partir de 09/JUN/2005.
+    2. Permanecem imunes à COFINS e ao PIS as operações de vendas realizadas no âmbito da Zona Franca de Manaus, uma vez que estabelecido expressamente pelo art. 40 do ADCT a manutenção dos incentivos fiscais por 25 anos e, tendo a legislação tributária preservado os benefícios para as receitas de exportação, também o fez para aquela região.
+    3. É legítima a pretensão da parte autora de inexigibilidade do PIS e da COFINS, uma vez que se encontra localizada na Zona Franca de Manaus, atuando – preponderantemente - no ramo da importação/exportação, industrialização e comercialização de produtos diversos e prestação de serviços correlatos.
+    4. Quanto à compensação, o Superior Tribunal de Justiça, sob o rito dos recursos repetitivos, firmou o entendimento de que a lei que rege a compensação tributária é a vigente na data de propositura da ação, ressalvando-se, no entanto, o direito de o contribuinte proceder à compensação dos créditos pela via administrativa, em conformidade com as normas posteriores. Precedente (REsp nº 1.137738/SP – Rel. Min. Luiz Fux – STJ – Primeira Seção – Unânime – DJe 1º/02/2010). Aplicável, ainda, o disposto no art. 170-A do CTN.
+    5. A correção monetária e os juros devem incidir na forma do Manual de Cálculos da Justiça Federal.
+    6. Honorários advocatícios incabíveis. Custas ex lege.
+    7. Apelação não provida e remessa oficial parcialmente provida.”
+    O embargos de declaração opostos foram desprovidos (Doc. 7, p. 65).
+    Nas razões do apelo extremo, a União sustentou preliminar de repercussão geral e, no mérito, apontou violação aos artigos 2º, 5º, II, 149, § 2º, I, 150, II e § 6º, 151, I, 170, 173, 194, caput e parágrafo único, V, e 195, caput e § 5º, da Constituição Federal e 40 do Ato das Disposições Constitucionais Transitórias. Asseverou que a comercialização ocorreu dentro da Zona Franca de Manaus e, por isso, não estaria caracterizada a operação de exportação o que, consequentemente, afastaria a hipótese de benefício fiscal ou de imunidade. Alegou a impossibilidade de isenção da contribuição ao PIS e da Cofins por ausência de previsão legal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta (Doc. 8, p. 33).
+    O Superior Tribunal de Justiça não conheceu o agravo em recurso especial (Doc. 8, p. 86).
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    A cobrança da contribuição ao PIS e da Cofins, quando sub judice a controvérsia acerca da isenção do tributo incidente sobre as receitas decorrentes das operações de venda às empresas instaladas na Zona Franca de Manaus, demanda a análise da legislação infraconstitucional, o que inviabiliza a admissibilidade do recurso extraordinário. Nesse sentido, ARE 634.512-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 30/9/2013, e RE 640.653-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 30/9/2011, com a seguinte ementa:
+    “Agravo interno em recurso extraordinário. 2. Tributário. COFINS e Contribuição ao PIS. Receitas decorrentes de vendas de mercadorias destinadas à Zona Franca de Manaus. 3. Isenção. Aspecto do execício de competência tributária inserido na liberdade de conformação do legislador infraconstitucional. Ausência de contencioso constitucional in concreto. Inviabilidade de acesso da controvérsia à via extraordinária. Precedentes. 4. Agravo interno a que se nega provimento.”
+    Por fim, observo que o presente agravo foi interposto sob a égide da lei processual de 2015. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 26 de outubro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
