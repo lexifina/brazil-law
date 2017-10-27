@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “MANDADO DE SEGURANÇA – Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer bens ou Direitos (ITCMD) – Base de cálculo – Pretensão de ver reconhecido o direito de recolher o ITCMD com base no valor do imóvel declarado para fins de lançamento de Imposto Territorial Rural – ITR – Decretos Estaduais que foram além das disposições da Lei Estadual nº 10.705/00, ao estabelecer nova base de cálculo – Ilegalidade – Inteligência da regra dos arts. 146, III, a, da CF e 97, IV, do CTN – Recurso provido” (pág. 7 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustentou-se, em suma, ofensa aos arts. 5º, caput e II; 150, I e II; e 155, I, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356/STF. É o caso dos autos em relação à suposta violação aos arts. 5º, caput; e 150, II, da Lei Maior.
+    Além disso, o tribunal de origem decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional local aplicável à espécie (Lei Estadual 10.705/2000, Decreto Estadual 46.655/2002 e Decreto Estadual 55.002/2009). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280/STF. Nesse sentido, cito as seguintes decisões, entre outras: ARE 1.043.204/SP, Rel. Min. Alexandre de Moraes; ARE 952.857/SP, Rel. Min. Roberto Barroso; ARE 963.531/SP, Rel. Min. Edson Fachin; ARE 960.325/SP, Rel. Min. Gilmar Mendes; ARE 934.769/SP e ARE 957.859/SP, Rel. Min. Luiz Fux; ARE 781.826/SP, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
