@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98446, de 9 de outubro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 1806.32.20 Mercadoria: Barra de cereais com coco e biscoito sabor chocolate com cobertura parcial de chocolate, um produto de confeitaria contendo cacau, apresentado em barras de 22g. DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 2 do Capítulo 18 e da posição 18.06), RGI 6 (textos da subposição de 1º nível 1806.3 e subposição de 2º nível 1806.32) e RGC 1 (texto do item 1806.32.20) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.446-2017 .pdf]
