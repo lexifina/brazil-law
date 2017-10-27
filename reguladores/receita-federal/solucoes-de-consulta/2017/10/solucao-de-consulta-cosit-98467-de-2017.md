@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98467, de 11 de outubro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8205.59.00 Mercadoria: Ferramenta manual dinamométrica com corpo de metal comum, para ferramentas intercambiáveis diversas (chaves de caixa, chaves de parafusos, etc.), própria para o controle do torque aplicado sobre a peça, com capacidade de torque de 60 Nm a 340 Nm, comercialmente denominada “torquímetro de estalo”, apresentada em estojo com recesso especialmente concebido para abrigá-la. DISPOSITIVOS LEGAIS: RGI/SH 1 (Notas 3 e 6 da Seção XV, Nota 1 a) do Capítulo 82 e texto da posição 82.05) e RGI/SH 6 (texto da subposição 8205.59) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.467-2017  .pdf]
