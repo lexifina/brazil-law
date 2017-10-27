@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98427, de 5 de outubro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 1806.90.00 Mercadoria: Preparação alimentícia à base de açúcar, gordura vegetal, leite em pó, farinha de trigo, fécula de mandioca e cacau em pó, denominada creme sabor chocolate branco com biscoito sabor chocolate, apresentada em potes de 130g ou 300g. DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 2 do Capítulo 18 e da posição 18.06), RGI 6 (textos da subposição 1806.90.00) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.427-2017 .pdf]
