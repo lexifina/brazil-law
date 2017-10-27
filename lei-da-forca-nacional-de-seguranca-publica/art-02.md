@@ -1,2 +1,2 @@
-Art. 2º A cooperação federativa de que trata o art. 1º, para os fins desta Lei, compreende operações conjuntas, transferências de recursos e desenvolvimento de atividades de capacitação e qualificação de profissionais, no âmbito da Secretaria Nacional de Segurança Pública do Ministério da Justiça e Segurança Pública.
+Art. 2º A cooperação federativa de que trata o art. 1º, para os fins desta Lei, compreende operações conjuntas, transferências de recursos e desenvolvimento de atividades de capacitação e qualificação de profissionais, no âmbito da Secretaria Nacional de Segurança Pública (Senasp).
 Parágrafo único. As atividades de cooperação federativa têm caráter consensual e serão desenvolvidas sob a coordenação conjunta da União e do Ente convenente.
