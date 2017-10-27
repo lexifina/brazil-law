@@ -1,0 +1,41 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Cristiano Alves Barbosa, apontando como autoridade coatora o Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça, que julgou prejudicado o HC nº 386.503/SP.
+    O impetrante sustenta, em síntese, que o paciente está submetido a constrangimento ilegal, pois o seu decreto de prisão preventiva estaria desprovido de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos do art. 312 do Código de Processo Penal.
+    Requer, liminarmente, a concessão da ordem, ainda que de ofício, para que a prisão preventiva do paciente seja revogada ou “convertida a prisão preventiva em prisão domiciliar, com uso de tornozeleira eletrônica”.
+    Examinados os autos, decido.
+    Transcrevo o teor da decisão ora questionada:
+    “Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Cristiano Alves Barbosa, no qual se aponta como órgão coator o Tribunal de Justiça de São Paulo.
+    Infere-se dos autos que o Juízo de Direito da 1ª Vara Judicial da comarca de Hortolândia/SP, nos Autos n. 0000486-84.2017.8.26.0229, decretou, em 23/1/2017, a prisão temporária do paciente, por 30 dias, em razão da suposta prática do delito de homicídio qualificado e de tentativa de homicídio qualificado.
+    Irresignada, a defesa impetrou habeas corpus na origem, cuja liminar foi indeferida pelo Desembargador relator (HC n. 0006477-49.2017.8.26.0000 – fl. 56).
+    Daí a presente impetração, na qual a defesa, pretendendo afastar a incidência da Súmula 691/STF, alega que o decreto da prisão temporária é genérico e não demonstra os requisitos da custódia cautelar.
+    Aduz que o paciente se apresentou espontaneamente perante a Autoridade Policial, mesmo sabendo que havia contra si um Mandado de Prisão Temporária, esclarecendo o que realmente ocorreu no dia dos fatos e ainda, as diligências já foram realizadas, não sendo localizado nenhum ilícito (fl. 3).
+    Requer, assim, inclusive em caráter liminar, seja expedido alvará de soltura em favor do ora paciente.
+    Em 31/1/2017, Ministro Vice-Presidente Humberto Martins, no exercício da Presidência, indeferiu o pedido liminar (fls. 65/68).
+    Prestadas informações e acostados documentos pelo Juízo de origem e o Tribunal local às fls. 71/103 e 105/108, o Ministério Público Federal emitiu parecer pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 111/114).
+    Em 23/3/2017, foi juntada ao processo petição informando que, em 15/2/2017, nos autos n. 00000831-50.2017.8.26.0229, houve o recebimento da denúncia e a conversão da prisão temporária em preventiva (fls. 118/129).
+    É o relatório.
+    O presente feito volta-se contra decisão que indeferiu pedido liminar em prévio writ, buscando seja concedido ao paciente – denunciado como incurso no art. 121, § 2º, II, III e IV c/c art. 18, I e art. 121, § 2º, II, III e IV c/c art. 14, II, c/c art. 18, I, (por sete vezes), todos do Código Penal – o direito de responder ao processo em liberdade.
+    Ocorre que, em 5/5/2017, sobreveio o julgamento do habeas corpus pela Décima Terceira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo no qual, superada a questão acerca da revogação da prisão temporária, entendeu devidamente fundamentada a decisão que decretou a prisão preventiva, amparada no modus operandi do delito e no fato de ser o paciente reincidente.
+    Situação que impõe o reconhecimento da prejudicialidade desta impetração. Nesse sentido, os seguintes julgados: AgRg no HC 340.314/CE, de minha Relatoria, Sexta Turma, DJe 23/2/2016 e AgRg no HC 330.651/SP, Ministro Felix Fischer, Quinta Turma, DJe 11/12/2015.
+    Ademais, não visualizo dos elementos constantes destes autos ilegalidade flagrante a justificar a superação de tal entendimento.
+    Isso porque, o magistrado, ao decretar a prisão preventiva, destacou que o crime possui contornos concretos de gravidade, porquanto o acusado, em razão de uma discussão envolvendo jogo, teria efetuado disparos aleatórios de arma de fogo em direção a todos os frequentadores de bar de pequenas dimensões, fazendo com que sua conduta as expusesse a sério risco de vida. Não bastasse, é de se ver que o acusado ostenta diversas passagens por crime contra o patrimônio e por homicídio, havendo sérios indícios, conforme se depreende de sua folha de antecedentes, de que seja reincidente (fl. 132).
+    Ora, é consabido que o histórico criminal do agente, a revelar fundado receio de reiteração delitiva, autoriza, por si só, o decreto de prisão preventiva como forma de garantir a ordem pública, nos termos do art. 312 do Código de Processo Penal. A propósito, entre outros, estes julgados: HC n. 302.029/SP, de minha relatoria, Sexta Turma, DJe 5/2/2015; e HC n. 293.389/PR, Ministra Laurita Vaz, Quinta Turma, DJe 22/8/2014.
+    E, sobre a possibilidade de se manter a constrição cautelar em razão da gravidade concreta do delito e do modus operandi empregado, confiram-se: RHC n. 47.834/PB, da minha relatoria, Sexta Turma, DJe 5/2/2015; HC n. 311.909/CE, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/3/2015; e HC n. 315.775/DF, Ministro Gurgel de Faria, Quinta Turma, DJe 9/4/2015.
+    Ante o exposto, julgo prejudicado o presente writ (art. 34, XI, do RISTJ)” (grifos do autor).
+    Como visto, a impetração volta-se contra decisão singular proferida no bojo do HC nº 386.503/PR. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14)
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ainda que assim não fosse, registro que a decisão emanada do Superior Tribunal de Justiça não encerra situação de constrangimento ilegal a justificar uma concessão da ordem de ofício.
+    Com efeito, consoante destacou o Ministro Sebastião Reis Júnior em sua decisão,
+    “o magistrado, ao decretar a prisão preventiva, destacou que ‘o crime possui contornos concretos de gravidade, porquanto o acusado, em razão de uma discussão envolvendo jogo, teria efetuado disparos aleatórios de arma de fogo em direção a todos os frequentadores de bar de pequenas dimensões, fazendo com que sua conduta as expusesse a sério risco de vida. Não bastasse, é de se ver que o acusado ostenta diversas passagens por crime contra o patrimônio e por homicídio, havendo sérios indícios, conforme se depreende de sua folha de antecedentes, de que seja reincidente’ (fl. 132)”.
+    E conclui Sua Excelência “[ser] consabido que o histórico criminal do agente, a revelar fundado receio de reiteração delitiva, autoriza, por si só, o decreto de prisão preventiva como forma de garantir a ordem pública, nos termos do art. 312 do Código de Processo Pena”.
+    Esse entendimento não fere a jurisprudência do Supremo Tribunal Federal para quem a gravidade concreta do crime e o modus operandi da ação delituosa, respaldam a prisão preventiva para a garantia da ordem pública (v.g. HC nº 130.708/SP, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 6/4/16).
+    Perfilhando esse entendimento: HC nº 134.444/SP-AgR, Segunda Turma, de minha relatoria, DJe de 28/6/16; HC nº 134.132/MG-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/6/16; HC nº 132.172/PR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 9/5/16.
+    Anote-se, ainda, que o risco concreto de reiteração delitiva, como verificado na espécie, também autoriza a custódia preventiva (v.g. HC nº 140.215/RS-AgR, Segunda Turma, de minha relatoria, DJe de 27/4/17).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 27 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
