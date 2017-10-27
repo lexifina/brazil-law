@@ -10,4 +10,4 @@ VII - epidemia com resultado morte (art. 267, § 1º).
 VII-A - (VETADO)
 VII-B - falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais (art. 273, caput e § 1º, § 1º-A e § 1º-B, com a redação dada pela Lei nº 9.677, de 2 de julho de 1998).
 VIII - favorecimento da prostituição ou de outra forma de exploração sexual de criança ou adolescente ou de vulnerável (art. 218-B, caput, e §§ 1º e 2º).
-Parágrafo único. Considera-se também hediondo o crime de genocídio previsto nos arts. 1º, 2º e 3º da Lei nº 2.889, de 1º de outubro de 1956, tentado ou consumado.
+Parágrafo único. Consideram-se também hediondos o crime de genocídio previsto nos arts. 1º, 2º e 3º da Lei nº 2.889, de 1º de outubro de 1956, e o de posse ou porte ilegal de arma de fogo de uso restrito, previsto no art. 16 da Lei nº 10.826, de 22 de dezembro de 2003, todos tentados ou consumados.
