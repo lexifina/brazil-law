@@ -1,0 +1,21 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão, proferido no âmbito do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS . PRISÃO PREVENTIVA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. FORMAÇÃO DE NOVO TÍTULO. RECURSO DESPROVIDO. 1. A Sexta Turma desta Corte é firme na compreensão de que, sobrevindo sentença condenatória na qual foi mantida a prisão cautelar anteriormente decretada, fica prejudicado o pedido de revogação da custódia por ausência dos requisitos contidos no art. 312 do Código de Processo Penal, tendo em vista a formação de novo título para justificar a segregação (precedentes). 2. Agravo regimental desprovido.” (AgRg no RHC 73.457/AL),
+    Narra o impetrante que: a) o Juízo de primeiro grau decretou a prisão preventiva do paciente, em decisão desprovida de adequada fundamentação; b) impetrado recurso ordinário em habeas corpus no STJ, aquela Corte julgou prejudicado o recurso, em razão do advento de sentença condenatória em desfavor do ora paciente, não considerando que tal decisão limitou-se a repetir os argumentos utilizados quando da decretação da custódia cautelar; c) não estão presentes os requisitos previsto no art. 312 do CPP, exigidos para imposição da prisão preventiva.
+    À vista do exposto, pugna liminarmente pela “concessão da medida liminar de modo que seja determinado ao Superior Tribunal de Justiça o julgamento do mérito do recurso em habeas corpus ou, ao menos, que seja analisado se os fundamentos para a manutenção da prisão cautelar expostos na r. sentença repetiram aqueles proferidos originalmente e, nesse caso, seja analisado o mérito do recurso em habeas corpus.” No mérito, requer “a concessão da ordem, a fim de que seja determinado o julgamento do mérito do recurso em habeas corpus ou, subsidiariamente, que isso seja realizado após constatado que a r. sentença condenatória utilizou-se dos mesmos fundamentos para a manutenção da prisão.”
+    É o relatório. Decido.
+    1. No caso concreto, a ilegalidade apontada não pode ser aferida de pronto.
+    Com efeito, a matéria ora articulada, relacionada à ausência de fundamentação da decisão que decretou a prisão preventiva, não foi previamente examinada pelo Superior Tribunal de Justiça, de modo que o conhecimento originário por esta Corte configuraria supressão de instância.
+    Calha enfatizar que Supremo não detém competência para revisar, em habeas corpus e diretamente, atos jurisdicionais emanados das instâncias ordinárias:
+    “Inviável o exame das teses defensivas não analisada pelo Superior Tribunal de Justiça e pela Corte Estadual, sob pena de indevida supressão de instâncias. Precedentes” (RHC 135560 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 21.10.2016).
+    “A inexistência de manifestação do STJ sobre o mérito da impetração impede o exame da matéria por esta Corte, sob pena de incorrer-se em indevida supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal” (HC 135949, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 04.10.2016).
+    “A supressão de instância impede o conhecimento de Habeas Corpus impetrado per saltum, porquanto ausente o exame de mérito perante a Corte Superior” (HC 130375 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 13.09.2016).
+    Não bastasse a ausência de enfrentamento pela instância antecedente, consoante informações obtidas junto ao sítio eletrônico do TJAL, houve o trânsito em julgado do édito condenatório.
+    Desta feita, superada está qualquer alegação relacionada com anterior prisão preventiva imposta ao paciente, já que, atualmente, sua custódia já não mais ostenta natureza cautelar, mas sim deriva de cumprimento de pena.
+    Destarte, como a decisão vergastada não é manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, descabe conceder a ordem.
+    2. Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Intime-se.
+    Brasília, 27 de outubro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
