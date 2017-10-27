@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (FL. 165, Vol. 2):
+    Ato administrativo. Multa imposta pelo Tribunal de Contas do Estado com base no art. 104, incisos II e VI, da LC 709/93. Conduta passível da pena imposta. Regime jurídico de direito administrativo-sancionador. Correção no expediente administrativo. Recurso desprovido.
+    Nas razões recursais, com amparo no art. 102, III, da Constituição Federal, alega-se violação aos arts. 37, § 6º, 71, III, e 75.
+    É o relatório. Decido.
+    Os Recursos Extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, ainda que superado esse grave óbice, a matéria devolvida a esta CORTE versa sobre controvérsia acerca da proporcionalidade da multa aplicada à parte recorrente pelo Tribunal de Contas Estadual.
+    Todavia, a solução dessa controvérsia depende da análise da legislação local (Lei Complementar Estadual 709/1994) e da revisão das provas, o que é incabível em sede de Recurso Extraordinário, conforme consubstanciado na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário) e no Enunciado 279/STF (Para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 27 de outubro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
