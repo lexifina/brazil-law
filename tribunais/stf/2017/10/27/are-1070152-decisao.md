@@ -1,0 +1,12 @@
+Petição 59.022/2017-STF
+    Francisco Juvino da Costa, único advogado constituído nos autos, requer a devolução do prazo para interposição de recurso. Informa o causídico que no momento em que elaborava a peça recursal, recebeu a notícia do falecimento do seu genitor em outro Estado, não possuindo condições psicológicas para finalizar a referida peça e tendo que viajar às pressas e que apresentará, oportunamente, a certidão de óbito.
+    Este Tribunal já enfrentou questão semelhante em que se requereu devolução de prazo recursal, especificamente em razão de enfermidade do patrono da parte, ocasião em que se assentou que a alegação de doença da pessoa responsável pela interposição do recurso não caracteriza justa causa ou motivo de força maior a autorizar a devolução do prazo recursal, sendo necessário a comprovação da impossibilidade do advogado em realizar o ato por si ou por mandatário substabelecido. Nesse sentido, menciono os seguintes precedentes:
+    “Agravo regimental. Intempestividade. enfermidade dermatológica, sem demonstração de que o profissional ficou impossibilitado até mesmo de substabelecer o mandato, não se constitui em motivo de força maior de que trata o § 4º, do art. 798 do CPP. Precedentes. Intempestividade reconhecida. Ademais, a questão de fundo é de natureza infraconstitucional (Súmula 524), insuscetível de reexame no recurso extraordinário”.(RE 335.612-AgR/RJ, Rel. Min. Ellen Gracie).
+    “Agravo regimental em agravo de instrumento. 2. AgR -AI intempestivo. 3. Alegação de doença da pessoa responsável pela interposição do recurso. Força maior. Justa causa. Inocorrência. Patrono da causa que não comprova sua impossibilidade em substabelecer, ou em protocolar o recurso dentro do prazo. 4. Lei 9.800, de 1999. Inaplicabilidade. 5. Agravo regimental não conhecido”. (AI 421.932-AgR/SP, Rel. Min. Gilmar Mendes).
+    Como se verifica dos precedentes acima, a existência de qualquer impossibilidade do patrono da causa só configura força maior, de modo a justificar a devolução do prazo recursal, quando tiver gravidade bastante para obstacularizar até mesmo o substabelecimento do mandato, circunstância não observada no caso.
+    Pelo exposto, indefiro o pedido.
+    À Secretaria Judiciária, para que certifique o trânsito em julgado da decisão publicada em 14/9/2017 e providencie a baixa dos autos à origem.
+    Publique-se.
+    Brasília, 27 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
