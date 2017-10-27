@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário, interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro - TJRJ, sob o fundamento de que eventual ofensa a dispositivo constitucional teria ocorrido de forma reflexa.
+    No RE, fundado no art. 102, III, a, c e d, da Constituição, alega-se, em suma, ofensa aos arts. 5°, II; 21, XIX e 84, IV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Esta Corte tem pacificado na sua jurisprudência, através da Súmula 280/STF, não ser cabível o recurso extraordinário por ofensa a direito local. Dessa forma, observando atentamente o acordão recorrido percebe-se que a presente lide foi decidida à luz do direito local (Decreto Estadual 40.156/2006) e também de legislação infraconstitucional aplicada à espécie (Lei Federal 11.445/2007). A suposta ofensa teria ocorrido de forma indireta. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Deficiência do agravo regimental. Alegações dissociadas dos fundamentos contidos na decisão agravada. Incidência do Enunciado 287. 4. Concessionária de serviço público. Cobrança de tarifa de tratamento de esgoto sem efetiva prestação do serviço. 5. Necessidade de prévia análise da legislação infraconstitucional. Lei 11.445/2007 e Código de Defesa do Consumidor. Ofensa meramente reflexa ao texto constitucional. Precedentes. 6. Acórdão recorrido suficientemente motivado. Ausência de violação ao artigo 93, IX, do texto constitucional. 7. Falta de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento.” (ARE 763.118 AgR/RJ, Relator Ministro Gilmar Mendes, Segunda Turma; grifei)
+    Quanto a alegada violação ao art. 5°, II, da CF/1988, observo que este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636/STF).
+    Registro, por fim, que a controvérsia ora suscitada já foi objeto de debate em julgamentos nesta Corte. Nesse sentido, cito os seguintes precedentes: ARE 1.026.049/RJ, Rel. Min. Celso de Melo; RE 831.464/RJ, Rel. Min. Roberto Barroso.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 27 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
