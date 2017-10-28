@@ -1,0 +1,23 @@
+Vistos etc.
+    Trata-se de embargos de declaração opostos de decisão monocrática, da minha lavra, em que neguei seguimento ao agravo em recurso extraordinário interposto contra decisão do Tribunal de Justiça do Estado de São Paulo, haja vista não apresentada preliminar formal e fundamentada de repercussão geral da matéria constitucional suscitada no recurso extraordinário.
+    O embargante deixa de apontar omissão, obscuridade ou contradição no julgado. Requer a concessão de efeitos infringentes para permitir a apreciação do mérito do apelo extremo.
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil (Lei nº 13.105/2015).
+    O artigo 1.022 do novel Codex estabelece o cabimento de embargos de declaração “contra qualquer decisão judicial”, permitido expressamente, consoante o art. 1.024, § 2º, desse Diploma, sejam decididos monocraticamente quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base, pois, nesse permissivo legal, procedo à apreciação singular destes declaratórios, independentemente do caráter infringente que ostentam.
+    Inexistente vício a ensejar estes embargos declaratórios.
+    Verifico, de plano, nítido o caráter meramente infringente com o qual opostos os declaratórios, uma vez que o embargante deixou de indicar qualquer omissão, obscuridade ou contradição, tendo se restringido a atacar os fundamentos do julgado, hipótese que não se insere no rol art. 1022 do Código de Processo Civil.
+    Reputo truísmo mencionar que o ônus da impugnação especificada, sem o que inviável a apreciação de recurso, consubstancia indeclinável dever processual, albergado não só pelos Códigos de Processo Civil tanto de 1973 quanto de 2015, mas também pelo Regimento Interno desta Casa.
+    Essa orientação coaduna-se com o firme entendimento desta Suprema Corte de que constitui pressuposto de todo e qualquer recurso a fundamentação específica e suscetível de atacar a decisão recorrida. Nesse diapasão, os seguintes precedentes, prolatados sob a vigência do CPC de 2015, inter plures: ARE 935684 AgR, Tribunal Pleno, Relator Min. Ricardo Lewandowski, DJe 2.9.2016, ARE 958585 AgR, Tribunal Pleno, Relator Min. Ricardo Lewandowski, DJe 2.9.2016, ARE 974823 AgR, 2ª Turma, Relator Min. Teori Zavascki, DJe 8.9.2016, ARE 919185 AgR, 2ª Turma, Relatora Min. Cármen Lúcia, DJe 29.8.2016, ARE 887116 AgR, 1ª Turma, da minha lavra, DJe 25.8.2016, RE 630122 AgR-ED, 1ª Turma, Relator Min. Edson Fachin, DJe 25.11.2015.
+    Por conseguinte, inexistentes os pressupostos de embargabilidade.
+    O decisum embargado foi explícito ao ressaltar a inviabilidade do recurso extraordinário, ante a ausência preliminar formal e fundamentada de repercussão geral da matéria constitucional suscitada no recurso extraordinário. Nesse sentir, transcrevo o seguinte trecho da decisão monocrática:
+    “Na dicção do artigo 543-A, § 2º, do CPC, ‘O recorrente deverá demonstrar, em preliminar do recurso, para apreciação exclusiva do Supremo Tribunal Federal, a existência da repercussão geral’. A teor do decidido no julgamento do AI 664.567-QO, rel. Min. Sepúlveda Pertence, Plenário, DJe 05.9.2007, aplica-se aquele dispositivo legal nos recursos extraordinários interpostos após a publicação da Emenda Regimental 21 desta Corte ocorrida em 03.5.2007. Nesse sentido, o AI 729.430, Rel. Min. Cármen Lúcia, DJe 30.10.2008; o AI 724.267, Rel. Min. Cezar Peluso, DJe 02.9.2008; o RE 591.103, Rel. Min. Ricardo Lewandowski, DJe 29.8.2008; e o RE 569.476-AgR, Rel. Min. Ellen Gracie, Plenário, DJe 24.4.2008.
+    Na espécie, embora intimado o Recorrente do acórdão hostilizado já em 2013, não consta do recurso extraordinário qualquer alusão sobre a repercussão geral da questão constitucional, tampouco preliminar específica.”
+     Gizo, por derradeiro, que não se prestam, os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que lhes é pertinente e presente sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    Nesse passo, aquilato protelatórios estes embargos, à míngua dos pressupostos de embargabilidade, a denotarem mero inconformismo sistemático da parte, à luz da fundamentação bastante contida na decisão singular – lastreada em firme jurisprudência desta Corte Suprema.
+    Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 28 de outubro de 2017.
+Ministra Rosa Weber
+Relatora
