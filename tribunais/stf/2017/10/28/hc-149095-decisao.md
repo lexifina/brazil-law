@@ -1,0 +1,25 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado contra acórdão, proferido no RHC 83.321/RS, no âmbito do Superior Tribunal de Justiça, assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E CRIME CONTRA ECONOMIA POPULAR. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. GRAVIDADE CONCRETA DO DELITO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. ORGANIZAÇÃO CRIMINOSA VOLTADA PARA A LAVAGEM DE DINHEIRO ORIUNDO DE ROUBOS E TRÁFICO ILÍCITO DE ENTORPECENTES. NECESSIDADE DE INTERROMPER AS ATIVIDADES DO GRUPO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. EXTENSÃO DE BENEFÍCIO CONCEDIDO ÀS CORRÉS. IMPOSSIBILIDADE. SITUAÇÃO FÁTICO-PROCESSUAL DISTINTA RECURSO IMPROVIDO.
+    1. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, vedadas considerações abstratas sobre a gravidade do crime.
+    2. Mostra-se fundamentada a prisão como forma de garantir a ordem pública em caso no qual se constata a existência de organização criminosa destinada a lavagem de dinheiro oriundo de delitos graves, como roubos e tráfico de entorpecentes, e estruturada com nítida divisão de tarefas, mormente pelo fato de que as atividades ilícitas permaneceram mesmo após a prisão de um de seus líderes (Tiago Gonçalves, companheiro da ora recorrente), evidenciando o alto risco de reiteração delitiva e a necessidade de desestruturar a organização criminosa a fim de interromper a atividade ilícita.
+    3. A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo.
+    4. Condições subjetivas favoráveis à recorrente não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes.
+    5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+    6. O deferimento do pedido de extensão exige que os requerentes estejam na mesma condição fático-processual daqueles já beneficiados, a teor do artigo 580 do Código de Processo Penal.
+    7. A inexistência de identidade das situações fático-jurídicas impede a extensão do benefício (liberdade provisória) concedido às corrés pela instância ordinária. Inteligência do art. 580 do Código de Processo Penal. Precedentes do STJ.
+    8. Recurso ordinário improvido.”
+    Narra o impetrante que: a) a paciente, presa preventivamente, foi denunciada pela suposta prática dos delitos de organização criminosa, lavagem de dinheiro e contra a economia popular; b) as condições pessoais da paciente revelam a desnecessidade da segregação cautelar; c) as corrés, em situação fático-processual similar, foram beneficiadas com a liberdade, razão pela qual o benefício deve ser estendido à paciente.
+    À vista do exposto, requer a revogação da prisão preventiva, com expedição de alvará de soltura. Subsidiariamente, pleiteia a extensão dos efeitos da liminar concedida às corrés ou a aplicação de medidas cautelares alternativas à prisão.
+    É o relatório. Decido.
+    2. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    O impetrante insurge-se quanto à decisão do STJ que negou provimento ao recurso ordinário para manter a prisão cautelar da ora paciente. Contudo, não acostou aos autos os documentos indispensáveis para aferição da ilegalidade.
+    Com efeito, olvidou-se de instruir o feito com cópia das decisões proferidas pelo STJ e pelas instâncias ordinárias, bem como dos documentos necessários para a comprovação das condições fático-processuais daqueles já beneficiados, elementos indispensáveis à compreensão da matéria.
+    Assim, a instrução deficitária inviabiliza a análise do constrangimento ilegal invocado pelo impetrante e a concessão da ordem pleiteada.
+    Acrescente-se que, consoante reiterada jurisprudência da Corte, “constitui ônus do impetrante instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo” (HC 95.434, Primeira Turma, Rel. Min. RICARDO LEWANDOWSKI, julgado em 25.08.2009). No mesmo sentido: HC 130.240 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, julgado em 24.11.2015 e HC 131.202 AgR, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 03.03.2016.
+    3. Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 28 de outubro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
