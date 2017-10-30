@@ -1,3 +1,5 @@
-Art. 60-D. O valor mensal do auxílio-moradia é limitado a 25% (vinte e cinco por cento) do valor do cargo em comissão, função comissionada ou cargo de Ministro de Estado ocupado.
+Art. 60-D. O valor mensal do auxílio-moradia é limitado a vinte e cinco por cento do valor do cargo em comissão, da função de confiança ou do cargo de Ministro de Estado ocupado.
 § 1º O valor do auxílio-moradia não poderá superar 25% (vinte e cinco por cento) da remuneração de Ministro de Estado.
-§ 2º Independentemente do valor do cargo em comissão ou função comissionada, fica garantido a todos os que preencherem os requisitos o ressarcimento até o valor de R$ 1.800,00 (mil e oitocentos reais).
+§ 2º O valor do auxílio-moradia será reduzido em vinte e cinco pontos percentuais a cada ano, a partir do segundo ano de recebimento, e deixará de ser devido após o quarto ano de recebimento.
+§ 3º O prazo de que trata o § 2º não terá sua contagem suspensa ou interrompida na hipótese de exoneração ou mudança de cargo ou função.
+§ 4º Transcorrido o prazo de quatro anos após encerrado o pagamento do auxílio-moradia, o pagamento poderá ser retomado se novamente vierem a ser atendidos os requisitos do art. 60-B.
