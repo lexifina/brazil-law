@@ -1,0 +1,12 @@
+DECISÃO
+    1. Em 18.10.2017, neguei seguimento ao presente requerimento de suspensão, pelo qual Paulo Soares Nora, na condição de Presidente da Câmara Municipal de Cambé/PR, buscou a suspensão dos efeitos de decisão proferida na Ação Civil Pública n. 0008145-60.2017.8.16.0056, em trâmite no Poder Judiciário do Paraná, determinando seu afastamento do cargo de presidente daquela Casa parlamentar municipal, pela impossibilidade de recondução dos membros da mesa diretora do Poder Legislativo municipal nos mesmos cargos em biênios consecutivos em legislaturas distintas.
+    2. Assentei a ilegitimidade ativa do requerente, a pretensão deduzida provocar insegurança jurídica, pela troca sucessiva da mesa diretora da câmara municipal, e a ausência de grave lesão aos valores tutelados na legislação de contracautela, sendo desprovida de plausibilidade a alegação de ofensa ao princípio da separação dos Poderes (art. 2º da Constituição da República), com fundamento na jurisprudência segundo a qual se admite ação mandamental para discutir alegado desrespeito à literalidade das prescrições regimentais de casa legislativa (DJe 24.10.2017).
+    3. Pela Petição n. 64.519, protocolizada às 16h44 de 27.10.2017 (sexta-feira), o requerente reitera os argumentos desenvolvidos na inicial da medida de contracautela e pede a reconsideração da decisão pela qual negado seguimento ao processo. Alega ter obtido documento para comprovar a convocação dos parlamentares municipais para eleição da nova mesa diretora no dia 30.10.2017 (segunda-feira).
+    4. O pedido de reconsideração apresentado deve ser indeferido porque, além de não apresentar argumentos suficientes para afastar as razões que levaram à negativa de seguimento da suspensão, acentuou-se a irrelevância da não efetivação do que determinado na decisão objeto da contracautela:
+    “7. Nem eventual pendência na execução da tutela de urgência impugnada viabilizaria a pretensão do requerente, pois, mesmo que se pudessem superar todos os óbices apontados, o que não é possível, inexiste, na decisão impugnada, risco de grave lesão aos valores tutelados na legislação da contracautela”.
+    5. Pelo exposto, indefiro o pedido de reconsideração.
+    Aguarde-se o esgotamento do prazo para as contrarrazões ao agravo regimental interposto; depois, vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 30 de outubro de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
