@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. AÇÃO ORDINÁRIA. IPTU. FATO GERADOR. DIREITO DE PROPRIEDADE. LIMITAÇÕES. ALEGADA OFENSA AO ARTIGO 5º, XII E XIII, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 2015. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos (Doc. 4, p. 38) objetivando a reforma de decisão que inadmitiu recurso extraordinário (Doc. 3, p. 51), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (Doc. 3, p. 26) que assentou, in verbis:
+    “DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICO - TRIBUTÁRIA C.C. REPETIÇÃO DO INDÉBITO - IPTU - Adquirente de lote a quem foi negado administrativamente o direito de edificar, como fundamento da pretensão declaratória - Descabimento - Tributação exigível, pois, apesar das limitações administrativas em relação ao imóvel, estas não anulam o exercício da propriedade e não desnatura o fato gerador do IPTU - Recurso improvido.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, o contribuinte sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 5º, XII e XIII, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que “posicionamento alcançado pelos doutos Julgadores, embora contrário às pretensões da recorrente, não traduz desrespeito à legislação enfocada a ponto de permitir seja o presente alçado à instância superior” (Doc.4, p. 36).
+    O Superior Tribunal de Justiça não conheceu o agravo em recurso especial (Doc. 5, p. 23).
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    Verifica-se que o artigo 5º, XII e XIII, da Constituição Federal, que a parte agravante considera violado, não foi debatido no acórdão recorrido. Além disso, não foram opostos embargos de declaração para sanar tal omissão, faltando, ao caso, o necessário prequestionamento da matéria constitucional, o que inviabiliza a pretensão de exame do recurso extraordinário. Incidem, portanto, os óbices das Súmulas 282 e 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+    A respeito da aplicação das aludidas súmulas, assim discorre Roberto Rosas:
+    “A Constituição de 1891, no art. 59, III, a, dizia: 'quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela'.
+    De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: ‘quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado’.
+    Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+    (...)
+    Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+    A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+    O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 139-140 e 175-176)
+    Nesse sentido, AI 738.029-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 25/6/2013, e ARE 737.360-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 24/6/2013, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Agravo regimental improvido.”
+    Por fim, observo que o presente agravo foi interposto sob a égide da lei processual de 2015, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao dobro do valor fixado pela origem (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 30 de outubro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
