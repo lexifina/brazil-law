@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, ementado nos seguintes termos:
+    “DIREITO ADMINISTRATIVO – AÇÃO DE REPARAÇÃO CÍVEL POR DANOS MORAIS E MATERIAIS – IMPROCEDÊNCIA – APELAÇÃO – RESPONSABILIDADE CIVIL DO ESTADO – PACIENTE PORTADORA DE CÂNCER LINFOIDE- MEDICAÇÃO – DECISÃO LIMINAR – CUMPRIMENTO – PRAZO – ÓBITO ANTERIOR – CONDUTA ILÍCITA- NEXO DE CAUSALIDADE – NÃO CARACTERIAÇÃO – DEVER DE INDENIZAR – INEXISTÊNCIA- RECURSO DESPROVIDO.
+    1 . A norma inscrita no artigo 37, §6º, da Constituição da República acrescida da teoria do risco administrativo contemplam a responsabilidade objetiva do Estado, hipótese que faz emergir da ação imputada ao agente público o dever estatal de indenizar a vítima pelas lesões a ela causadas ainda que inexistente a caracterização da culpa.
+    2. Não se configura a responsabilidade civil do Estado quando o óbito da paciente, vítima de câncer linfoide, ocorre antes do prazo concedido ao ente público para cumprir a determinação judicial de fornecimento da medicação, haja vista a ausência de caracterização de conduta ilícita e de nexo de causalidade dos quais resulte o evento danoso.
+    3. Recurso desprovido.” (eDOC 3, p.35)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos art. 37, § 6º, do texto constitucional.
+    Nas razões recursais, alega-se que a omissão estatal foi relevante para o agravamento das condições de saúde da genitora da recorrente, o que ensejou o seu falecimento, configurando, portanto causa direta do evento danoso. (eDOC 3, p. 77)
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que não há elementos que evidenciam a existência de ato ilícito e nexo causalidade capaz de ensejar a responsabilidade civil do Estado. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Logo, não há como imputar ao Estado a prática de conduta ilícita caracterizada pelo descumprimento de decisão judicial, tendo em vista que a pacientes faleceu antes do decurso do prazo para o cumprimento da decisão que condenou a fornecer a medicação.
+    (…)
+    Em síntese, os elementos constantes dos autos não evidenciam, indubitavelmente, a existência de ato ilícito nem de nexo de causalidade entre a conduta atribuível ao Estado e o evento danoso, o que enseja a improcedência do pedido de reparação cível formulado pela apelante” (eDOC 3, p. 49)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL DO ESTADO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA/STF 279. INCIDÊNCIA. HONORÁRIOS NÃO FIXADOS PELA ORIGEM. MAJORAÇÃO DESCABIDA. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula/STF 279. Precedentes. II - Incabível a majoração de honorários, uma vez que não foram fixados pelo juízo de origem. III - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC.” (ARE-AgR 1067539, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 27.10.2017)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. DESABAMENTO DE MURO DE ESCOLA. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.” (ARE-AgR 1016769, Rel. Min. Luiz Fux, Primeira Turma, Dje 12.06.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro o valor da verba honorária fixada pela origem em 10%, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 30 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
