@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL. CONFLITO NEGATIVO DE COMPETÊNCIA. SUPOSTO CRIME DE HOMICÍDIO PRATICADO POR ÍNDIO CONTRA ÍNDIO. INEXISTÊNCIA DE DISPUTA SOBRE DIREITOS INDÍGENAS. APLICABILIDADE SÚMULA 140/STJ. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+    I - Nos termos do artigo 109, XI, da Constituição Federal, será da competência da Justiça Federal processar e julgar ‘disputa sobre direitos indígenas’.
+    II - Via de regra, crime praticado por índio ou contra ele, será processado e julgado pela Justiça Estadual, salvo comprovação efetiva de que a motivação se refere a disputa de direitos indígenas.
+    III - In casu, o suposto homicídio praticado por índio contra outro não teve conotação de disputa de seus direitos indígenas, não sendo relevante, para fins de competência, a crença pessoal do autor que alega ter praticado o crime em virtude de ‘feitiço’, porquanto tal fato não atinge direitos coletivos, ou seja, o crime não foi praticado para atingir a cultura indígena.
+    IV - A jurisprudência deste col. Superior Tribunal de Justiça se firmou nesse sentido, somente havendo interesse da União quando existir relevante interesse da coletividade indígena. Precedentes.
+    Agravo regimental desprovido” (pág. 291 do vol. 2 dos autos eletrônicos – grifos no original).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação aos arts. 109, XI; e 231, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque esta Corte já se manifestou, em relação ao art. 109, XI, da Constituição Federal, no sentido de que cabe à Justiça Federal o processo quando nele veiculadas questões ligadas aos elementos da cultura indígena e aos direitos sobre terras, não abarcando delitos isolados praticados sem nenhum envolvimento com a comunidade indígena, conforme consignado no julgamento do RE 419.528/PR, Relator para o acórdão o Ministro Cezar Peluso:
+    “EMENTA: COMPETÊNCIA CRIMINAL. Conflito. Crime praticado por silvícolas, contra outro índio, no interior de reserva indígena. Disputa sobre direitos indígenas como motivação do delito. Inexistência. Feito da competência da Justiça Comum. Recurso improvido. Votos vencidos. Precedentes. Exame. Inteligência do art. 109, incs. IV e XI, da CF. A competência penal da Justiça Federal, objeto do alcance do disposto no art. 109, XI, da Constituição da República, só se desata quando a acusação seja de genocídio, ou quando, na ocasião ou motivação de outro delito de que seja índio o agente ou a vítima, tenha havido disputa sobre direitos indígenas, não bastando seja aquele imputado a silvícola, nem que este lhe seja vítima e, tampouco, que haja sido praticado dentro de reserva indígena”.
+    Nesse mesmo sentido, menciono precedentes de ambas as Turmas desta Corte:
+    “Ementa: PROCESSUAL PENAL E CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. CONFLITO DE COMPETÊNCIA. HOMICÍDIO PRATICADO POR SILVÍCOLA CONTRA OUTRO ÍNDIO MOTIVADO POR VINGANÇA. DIREITOS INDÍGENAS. NÃO CONFIGURAÇÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE 633.499-AgR, Segunda Turma, Rel. Min. Teori Zavascki).
+    “COMPETÊNCIA – ARTIGO 109, INCISOS IV E XI, DA CONSTITUIÇÃO FEDERAL – INDÍGENAS. A competência da Justiça Federal não alcança situação concreta em que o conflito revela o fato de, em seio familiar, a genitora imprimir maus-tratos à filha, embora ambas sejam indígenas. Precedente: Recurso Extraordinário nº 419.528, relator ministro Cezar Peluso” (AI 794.447-AgR, Primeira Turma, Rel. Min. Marco Aurélio).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de outubro de 2017.
+Ministro Ricardo Lewandowski
+Relator
