@@ -1,0 +1,37 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por César Castellucci Lima em favor de Vilmar dos Santos, contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça, nos autos do HC 374.585/SC.
+    Eis a ementa desse acórdão:
+    “PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO. ASSOCIAÇÃO PARA O TRÁFICO. FALSA IDENTIDADE. DECISÕES DE INTERCEPTAÇÃO TELEFÔNICA E DE BUSCA E APREENSÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. PROVAS AUTÔNOMAS. CONDENAÇÃO. TRANSNACIONALIDADE DO DELITO. COMPETÊNCIA DA JUSTIÇA FEDERAL. SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA EM PARTE.
+    1. Diante da ausência de fundamentação casuística, em genérico decreto de quebra de sigilo e de busca e apreensão, passível de ser utilizada em qualquer procedimento investigatório, é de ser reconhecida a nulidade dessa decisão.
+    2. A existência de provas autônomas, desvinculadas daquelas decorrentes das decisões acoimadas ilegais, e devidamente examinadas pelo Tribunal de origem, é suficiente à manutenção do decreto condenatório.
+    3. O tema relativo à transnacionalidade do delito de tráfico não foi abordado no acórdão combatido, sendo vedado o seu exame por esta Corte sob pena de indevida supressão de instância.
+    4. Ordem concedida, em parte, para declarar nulas as decisões que determinaram a quebra de sigilo telefônico e de busca e apreensão, assim como das provas decorrentes, devendo esse material probatório ser extraído dos autos.” (eDOC 9, p. 219)
+    Extrai-se dos autos que o recorrente restou condenado à pena de 9 anos e 11 meses de reclusão, em regime inicial fechado, e 3 meses de detenção, mais o pagamento de 1.516 dias-multa, em razão da prática dos crimes previstos nos arts. 33, caput, e 35, c/c art. 40, V, todos da Lei nº 11.343/06, e art. 307 do CP, na forma do art. 69 do Código Penal, substituída a pena de detenção. (eDOC 1)
+    Transitada em julgado a sentença condenatória, a defesa ajuizou revisão criminal no Tribunal de Justiça do Estado de Santa Catarina que indeferiu o pedido nos termos da seguinte ementa:
+    “REVISÃO CRIMINAL. CRIMES DE TRÁFICO DE DROGAS E DE FALSA IDENTIDADE. PLEITOS DE INTERCEPTAÇÕES TELEFÔNICAS FORMULADOS PELA POLÍCIA FEDERAL E DEFERIDOS POR JUIZ ESTADUAL NO CURSO DE INVESTIGAÇÃO CRIMINAL DE SUPOSTO TRAFICO INTERNACIONAL DE SUBSTÂNCIA ENTORPECENTE. DECISÕES SUCINTAS, MAS FUNDAMENTADAS AUTORIDADE APARENTEMENTE COMPETENTE. PROVA LÍCITA. AUSÊNCIA DE NULIDADE.
+    RESSALVA PESSOAL DO RELATOR. AUTORIDADE INCOMPETENTE. JUIZ ESTADUAL FORA DA JURISDIÇÃO CRIMINAL E DO PLANTÃO JUDICIÁRIO. VIOLAÇÃO AO ART. 1º DA LEI Nº 9.296/1996. PROVA ILÍCITA DESENTRANHAMENTO DOS AUTOS, MAS SEM ALTERAÇÃO DO DECRETO CONDENATÓRIO.
+    PRESENÇA DE PROVAS AUTÔNOMAS E INDEPENDENTES APTAS A JUSTIFICAR A MANUTENÇÃO DA SENTENÇA CONDENATÓRIA. APREENSÃO EM FLAGRANTE DELITO, DE 15 QUILOS DE PASTA BASE DE COCAÍNA. INVESTIGAÇÃO PRÉVIA REALIZADA PELA AUTORIDADE POLICIAL, COM IDENTIFICAÇÃO DOS AGENTES, LEVANTAMENTO DE DADOS E APURAÇÃO DE VÍNCULOS COM TRAFICANTES DA REGIÃO. MONITORAMENTO VISUAL DOS AGENTES, MEDIANTE CAMPANA. CONFISSÃO DOS RÉUS, COM DETALHAMENTO DA EMPREITADA CRIMINOSA. CONDENAÇÃO MANTIDA.
+    PEDIDO REVISIONAL INDEFERIDO.” (eDOC 6, p. 44)
+    Inconformada, a defesa impetrou habeas corpus perante o Superior Tribunal de Justiça que concedeu a ordem, em parte, para declarar a nulidade das decisões que determinaram a interceptação telefônica e a busca e apreensão, mantendo, quanto aos demais aspectos, o acórdão proferido pelo Tribunal de origem. (eDOC 9, p. 236)
+    Daí a interposição do presente recurso ordinário em habeas corpus. (eDOC 9, p. 244)
+    Nestes autos, a defesa enfatiza inicialmente que o recorrente sofre constrangimento ilegal, porquanto encontra-se na iminência de ser preso.
+    Sustenta que a Corte Superior “ao somente reconhecer como nulas as provas e não determinar a anulação da denúncia, da sentença e de todo o processo ou mesmo o retorno dos autos ao juízo primeiro para que realizasse a análise sobre o quanto contaminada a decisão pelas provas nulas – perpetuou o constrangimento ilegal imposto ao Recorrente.” (eDOC 9, p. 256)
+    Assevera no mais que:
+    “Dos autos se extrai que a materialidade do delito, só foi apreendida por intermédio das interceptações telefônicas, donde se descobriu a transação, forma de pagamento, meio de transporte, inclusive com detalhes da quantidade de droga e dados dos veículos que a transportariam, quando e como. Inclusive, no dia 11.03.2008, o setor de inteligência monitorou tudo, chegando a materialidade do delito em razão das informações prévias e contemporâneas, colhidas por intermédio da interceptação telefônica.
+    (...)
+    É objetiva, direta e jurídica, portanto, a questão tratada nos presentes autos. O constrangimento ilegal imposto ao Recorrente é decorrente do uso de prova ilícita, colhida após decisão manifestamente nula, e foi perpetuado com a concessão parcial do habeas corpus que coonestou, em parte, o entendimento da Revisão Criminal.
+    Ora, no caso dos autos, o que se tem de concreto, até pela data dos documentos que instruíram o inquérito policial, é que se iniciou a investigação com interceptação telefônica, cujo número – somente o número – foi recebido por denúncia anônima, tendo-se daí se seguido mais interceptações telefônicas dos números que se comunicavam com o número interceptado primeiro e, daí, monitoramento, até a materialidade do delito.
+    Por tais razões e tão claras evidências se requer a este colendo Supremo Tribunal Federal, declare contaminadas a denúncia e a sentença proferida em desfavor do Recorrente, com o consequente retorno dos autos ao juízo de origem para que avalie os efeitos da decisão no contexto probatório, sem prejuízo de que o Ministério Público ofereça nova denúncia, com base em elementos independentes e autônomos.” (eDOC 9, p. 258-259)
+    Requer, liminarmente, a suspensão da execução da pena e, no mérito, o provimento do presente recurso para declarar a nulidade da ação penal desde a denúncia.
+    O Ministério Público Federal opinou pela negativa de provimento ao recurso (eDOC 9, p. 297-304).
+    Decido.
+    A sentença condenatória contra o paciente transitou em julgado. Em revisão criminal, logrou ele o reconhecimento da ilicitude de provas obtidas por interceptação telefônica e em cumprimento a mandato de busca e apreensão domiciliar. Ainda assim, a condenação foi mantida, tendo em vista a “existência de provas autônomas, desvinculadas daquelas decorrentes das decisões acoimadas ilegais, e devidamente examinadas pelo Tribunal” – STJ.
+    O debate proposto nesta recurso ordinário gira em torno da derivação ou da autonomia das demais provas que embasaram a condenação.
+    A decisão recorrida afirmou que há provas autônomas, na medida em que os membros da associação criminosa, dentre eles o motorista do automóvel no qual foram apreendidos os quinze quilos de cocaína eram suspeitos de tráfico de drogas e estavam sendo investigados antes mesmo da interceptação telefônica. Além disso, o paciente confessou os delitos em juízo.
+    Dado esse contexto, os argumentos da impetração não são suficientes para recomendar a suspensão do cumprimento da sentença condenatória transitada em julgado.
+    Ante o exposto, indefiro a medida liminar.
+    Dê-se vista à Procuradoria-Geral da República para parecer, por dois dias.
+    Publique-se.
+    Brasília, 30 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
