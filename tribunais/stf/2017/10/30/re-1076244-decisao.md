@@ -1,0 +1,32 @@
+Decisão
+    Vistos.
+    Instituto Nacional de Colonização e Reforma Agrária - INCRA interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da 4ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO. REGIME DOS JUROS MORATÓRIOS. ART. 15-B, DECRETO-LEI 3.365/41. MEDIDA PROVISÓRIA Nº 1.901-30/99. APLICAÇÃO. EFICÁCIA NO TEMPO. ATUALIZAÇÃO. PRECATÓRIO. EXPEDIÇÃO. INEXISTÊNCIA DE MORA. PROCEDIMENTO ADMINISTRATIVO.
+    1. O regime jurídico a ser aplicado em relação aos juros moratórios em processos de desapropriação é dado pelo art. 15-B do Decreto-Lei n.º 3.365/41, inserido pela Medida Provisória 1.901-30/99.
+    2. As normas atinentes aos juros moratórios têm eficácia imediata, inclusive aos processos em curso, não retroagindo, porém, para incidir sobre o período do cálculo anterior à vigência da nova lei. Precedentes do STJ e do Tribunal.
+    3. Inexiste violação à coisa julgada a modificação da forma de cálculo de juros, porquanto se tratar de obrigação que se protrai no tempo mês a mês.
+    4. No período anterior à Medida Provisória nº 1.901-30/99, incidem juros compensatórios e juros de mora conjuntamente, sendo que os moratórios incidem sobre a indenização, nela compreendida o principal e os juros compensatórios, sem que isso represente anatocismo vedado em lei (Súmulas 12 e 102/STJ).
+    5. Os juros compensatórios, em desapropriação, somente incidem até a data da expedição do precatório original. Entendimento que encontra amparo no § 12 do art. 100 da CF, com a redação dada pela EC 62/09.
+    6. Os juros previstos no art. 100, § 12 da Constituição Federal, acrescentado pela EC nº 62 têm natureza administrativa e incidem a contar da expedição do precatório requisitório, independem de mora e não se confundem com aqueles decorrentes da condenação.
+    7. A contar da expedição do precatório, não mais incidem juros compensatórios, porquanto inicia-se procedimento de natureza meramente administrativa, conforme fixado no art. 100, § 12, in fine.
+    8. No atual quadro normativo, no período posterior à vigência da Medida Provisória nº 1.901-30/99 inexiste cumulação de juros moratórios e juros compensatórios, eis que se tratam de encargos de naturezas diversas e que incidem em períodos diferentes: os juros compensatórios têm incidência até a data da expedição de precatório, enquanto que os moratórios somente incidirão se o precatório expedido não for pago no prazo constitucional.
+    9. Prequestionamento estabelecido pelas razões de decidir.
+    10. Agravo de instrumento parcialmente provido.”
+    Opostos embargos de declaração, não foram providos.
+    Sustenta o recorrente violação dos artigos 100, § 12, e 184 da Constituição Federal.
+    Alega que que o prazo inicial para a incidência dos juros compensatórios é a data da imissão na posse e o prazo final seria a data da liquidação da sentença do processo de conhecimento da desapropriação.
+    Sustenta a vedação da incidência de juros moratórios sobre os compensatórios e que o pagamento dos juros fixados no acórdão recorrido violou a justa indenização, porquanto deveria ser adotados os índices da caderneta de poupança e respectiva correção monetária.
+    Decido.
+    A irresignação não merece prosperar.
+    Vê-se que o Tribunal de origem decidiu a controvérsia acerca da aplicação de juros e correção monetária com base na eficácia temporal da legislação infraconstitucional pertinente e na sucessão das respectivas alterações legislativas, bem como na jurisprudência preconizada pelo Superior Tribunal de Justiça à espécie.
+    Como se vê, o recorrente deixou de atacar especificamente os fundamentos que levaram o Tribunal de origem a decidir acerca da matéria suscitada nos autos. Incide, portanto, no caso, as Súmulas 283/STF e 284/STF.
+    Mesmo que ultrapassado o óbice apontado, verifico que para divergir do Tribunal de origem seria necessário a reanálise da causa à luz da legislação infraconstitucional de regência. Com efeito, a afronta ao texto constitucional, caso ocorresse, seria reflexa ou indireta, não ensejando a abertura da via extraordinária. Nesse sentido, anote-se:
+    “Agravo regimental no recurso extraordinário. Administrativo. Desapropriação. Precatório. Juros moratórios e compensatórios. Incidência. Coisa julgada reconhecida pelo Tribunal de origem. Limites objetivos. Fundamento suficiente para a manutenção do acórdão recorrido. Matéria infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se admite recurso extraordinário contra acórdão que contenha fundamento infraconstitucional suficiente para a manutenção do julgado recorrido. Orientação da Súmula nº 283/STF. 2. É pacífica a jurisprudência do STF de que não se presta o recurso extraordinário para a verificação dos limites objetivos da coisa julgada, haja vista tratar-se de discussão de índole infraconstitucional. 3. Agravo regimental não provido.” (RE nº 919.346/Sp-AgR, Segunda Turma, de minha relatoria, DJe de 7/3/16).
+    “1. Reserva Florestal Serra do Mar: indenização. É da jurisprudência do Supremo Tribunal que é devida indenização pela desapropriação de área pertencente à reserva florestal Serra do Mar, independentemente das limitações administrativas impostas para proteção ambiental dessa propriedade. Precedentes. 2. Indenização: redução do quantum: inviabilidade, no recurso extraordinário: Súmula 279. É inviável modificar o quantum indenizatório fixado pelo Tribunal a quo com base nos laudos periciais apresentados pelas partes, que demandaria o reexame de fatos e provas, ao que não se presta o recurso extraordinário (Súmula 279). 3. Juros compensatórios e moratórios: recurso extraordinário: inadmissibilidade: questão decidida pelo acórdão recorrido com base em jurisprudência do Superior Tribunal de Justiça, fundada em legislação infraconstitucional: incidência da Súmula 636” (RE nº 471.110/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 7/12/06).
+    “Desapropriação Indireta. Indenização. Juros Moratórios e Compensatórios. Matéria Legal. Ofensa Indireta à CF. Precedentes do Tribunal. Regimental não provido” (AI nº 286.516/SP-AgR, Segunda Turma, Relator o Ministro Nelson Jobim, DJ de 23/3/01).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
