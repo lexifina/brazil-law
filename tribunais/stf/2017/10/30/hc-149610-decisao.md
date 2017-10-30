@@ -1,0 +1,18 @@
+Decisão:
+Ementa: Penal e processual penal. Habeas corpus. Direito de recorrer em liberdade. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 421.726, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 8 (oito) anos e 3 (três) meses de reclusão, em regime inicial fechado, pelos crimes previstos no artigo 33, caput, da Lei 11.343/06 e no artigo 14 da Lei 10.826/03, ambos c/c o artigo 69 do Código Penal, vedado o direito de recorrer em liberdade.
+    3. Da sentença, a defesa opôs embargos declaratórios, rejeitados.
+    4. Em seguida, foi impetrado habeas corpus no Tribunal de Justiça do Estado de Goiás. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. A Relatora do HC 421.726, Ministra Maria Thereza de Assis Moura, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a vedação do direito de recorrer em liberdade. Afirma, ainda, que “a pena do paciente só ficou superior a 8 (oito) anos de reclusão por um erro da Juíza sentenciante em ter o condenado pelo crime de PORTE de arma quando o correto é POSSE, que tem a pena menor”. Destaca, por fim, que a corré Angélica Pereira da Silva, em que pese encontrar-se em situação idêntica à do paciente, teve assegurado o direito de recorrer em liberdade.
+    6. Com essa argumentação, requer a concessão da ordem a fim de revogar a prisão processual do paciente. Subsidiariamente, pleiteia a substituição da custódia por outra medida cautelar.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As decisões das instâncias precedentes não são teratológicas ou patentemente desfundamentadas. Ademais, as instâncias precedentes fizeram expressa referência a dados objetivos da causa – natureza e quantidade de droga apreendida (935,950g de maconha e 798,740g de cocaína) – para justificar a prisão cautelar para a garantia da ordem pública, não sendo o caso, portanto, de concessão da ordem de ofício. Notadamente se se considerar que o Supremo Tribunal Federal tem precedentes no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (Cf. HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Rel.ª Min.ª Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux).
+    8. Quanto ao mais, a eventual desclassificação do crime de porte para o delito de posse de arma de fogo esbarra na firme jurisprudência desta Corte no sentido de que “o pleito de desclassificação de crime não tem lugar na estreita via do habeas corpus por demandar aprofundado exame do conjunto fático-probatório da causa, e não mera revaloração” (RHC 120.417, Rel. Min. Ricardo Lewandowski).
+    9. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 30 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
