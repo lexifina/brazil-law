@@ -1,0 +1,20 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão da Quinta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “EMBARGOS À EXECUÇÃO – RECURSO DE APELAÇÃO – DEVOLUÇÃO DE ICM RETIDO – PRESCRIÇÃO E PRECLUSÃO – NÃO OCORRÊNCIA – EXEQUENTE QUE NÃO SE QUEDOU INERTE PROMOVENDO ATOS PARA RECEBER A TOTALIDADE DO VALOR DEVIDO PELA FAZENDA ESTADUAL – A DÍVIDA CONSTITUI UMA ÚNICA UNIDADE EXECUTÁVEL – O ART. 33 DO ADCT NÃO TRANSFORMOU CADA PARCELA EM DÉBITO AUTÔNOMO – JUROS E CORREÇÃO MONETÁRIA DEVIDOS E CORRETAMENTE APLICADOS – RECURSO DESPROVIDO”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 33 do ADCT. Sustenta que: (i) os índices de correção aplicados pelo Tribunal de origem são indevidos; (ii) não incidem juros moratórios sobre dívidas parceladas com fundamento no art. 33 do ADCT.
+    A pretensão recursal não merece prosperar. A jurisprudência desta Corte fixou entendimento no sentido de que, no parcelamento dos precatórios previsto no art. 33 do ADCT, não são devidos juros compensatórios. Quanto aos juros moratórios, somente são devidos na hipótese de atraso do pagamento das parcelas. Nesse sentido, confiram-se os julgados:
+    “CONSTITUCIONAL. ADMINISTRATIVO. DESAPRO PRIAÇÃO. PRECATÓRIO. PARCELAMENTO. ART. 33 DO ADCT. JUROS COMPENSATÓRIOS E MORATÓRIOS. EXCLUSÃO. INCIDÊNCIA DE JUROS MORATÓRIOS NO PAGAMENTO DE PARCELAS PAGAS EM ATRASO.
+    I - Excluem-se os juros moratórios e compensatórios do pagamento de precatórios decorrentes de desapropriação, realizado conforme o art. 33 do ADCT. Os juros moratórios são cabíveis tão-somente nos casos de pagamento atrasado das parcelas do parcelamento previsto no art. 33 do ADCT.
+    II - Agravo não provido.” (RE 466.145-AgR, Rel. Min. Ricardo Lewandowski)
+    “Embargos de declaração no recurso extraordinário. Conversão em agravo regimental. Precatório. Juros moratórios e compensatórios. Incidência de juros de mora no caso de inadimplemento. 1. Os juros moratórios e compensatórios não incidem durante o parcelamento previsto no art. 33 do ADCT da Constituição Federal de 1988. 2. Somente são cabíveis os juros moratórios na hipótese de inadimplência da Fazenda Pública. Precedentes. 3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.” (RE 593.573-ED, Rel. Min. Dias Toffoli)
+    Dessa orientação não divergiu o acórdão recorrido. Na hipótese, o Tribunal de origem, ao apreciar a controvérsia, consignou o seguinte:
+    “[…]
+    Assim, incidirá somente correção monetária e juros moratórios quando ocorrer atraso no pagamento, afastando-se a incidência dos juros compensatórios após a prolação da sentença”.
+    Quanto aos juros moratórios não são devidos no período do parcelamento, mas ocorrendo o pagamento a menor, voltam a incidir, juntamente com a correção monetária [...]”.
+    Para verificar a efetiva quitação de todas as parcelas, seria imprescindível o reexame do acervo probatório dos autos, providência inviável nesta fase processual. A hipótese atrai a incidência da Súmula 279/STF. Nesse sentido, confira-se:
+    “DIREITO ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO CONVERTIDO EM RECURSO EXTRAORDINÁRIO. PARCELAMENTO. PRECATÓRIO. ART. 33 DO ADCT. JUROS MORATÓRIOS. PRECEDENTES. 1. O entendimento do Supremo Tribunal Federal é no sentido de que se excluem os juros moratórios e compensatórios do pagamento de precatórios realizado conforme o art. 33 do ADCT. Os juros moratórios são cabíveis tão somente nos casos de pagamento atrasado das parcelas do parcelamento previsto no art. 33 do ADCT. 2. A análise das questões relativas à efetiva quitação de todas as parcelas atrai a incidência da Súmula 279/STF. 3. Agravo regimental a que se nega provimento.” (AI 539.514-ED, de minha relatoria)
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 30 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
