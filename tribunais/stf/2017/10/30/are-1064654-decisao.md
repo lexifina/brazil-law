@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Décima Sétima Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 3, p. 42):
+    “Apelação cível. Direito administrativo. Enquadramento de servidor público. Guarda Municipal. Transformação de cargos. Sentença de improcedência. Autor/apelante admitido pela Empresa Municipal de Vigilância em 1992 e que, por força da Lei Complementar Estadual 100/2009, passou a parte à condição de servidor público do novo órgão. Art. 17 da LC 100/2009 que dispõe acerca da consideração do tempo de efetivo exercício de emprego na EMV do empregado contratado mediante concurso público para fins de progressão e promoção. Parágrafo único do art. 14 da LC 100/2009 que estabelece critério temporal para progressão do servidor público. Critério alterado por força da superveniência da LC 135/2014, especificamente seu art. 7º, que estabeleceu critério temporal para progressão automática. Apelante que cumpriu o requisito objetivo para movimentação na carreira e que, portanto, faz jus ao reenquadramento pretendido. Efeitos financeiros que devem retroagir à data em que se findou o prazo de 180 dias conferido pelo art. 16 da LC 100/2009, computando-se, assim, todo o tempo de serviço prestado pelo apelante à EMV e à GM-Rio. Diferenças remuneratórias devidas. Dano moral, entretanto, não configurado. Recurso parcialmente provido.”
+    Os embargos de declaração foram rejeitados (eDOC 3, pp. 73-76).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 2º e 5º, II e XXXVI, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma:
+     “Por esta legislação [Lei Complementar Estadual 100/2009], em nenhum momento, ficou assegurado reenquadramento funcional ipso iure e, exclusivamente, por tempo de serviço, senão um emolduramento funcional por critérios específicos, de antiguidade e mérito, esse último, ainda, não alcançado pelo Autor na autarquia.” (eDOC 3, p. 87)
+    “Ao contrário do que foi decidido, se o pedido foi acolhido com base na Lei Complementar n. 135/14, somente disposição expressa nesta lei concedendo efeitos financeiros retroativos poderia justificar a imposição da condenação retroativa, sendo certo, todavia, que inexiste na citada lei promulgada em 2014 qualquer disposição que autorize tal retroação.” (eDOC 3, p. 93)
+    A Terceira Vice-Presidência do TJ/RJ inadmitiu o recurso por entender inexistente a alegada ofensa direta as dispositivos constitucionais evocados (eDOC 4, pp. 26-32 ).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, assim asseverou (eDOC 3, p. 44):
+    “Incidente, portanto, a norma estatutária relativa à contagem de tempo de serviço prestado à extinta EMV prevista na LC 100/2009 e ao critério temporal para progressão automática prevista na LC 135/2014.
+    O apelante ingressou nos quadros da extinta EMV e migrou do regime celetista para o estatutário a partir de 14 de janeiro de 2010, de acordo com o prazo estabelecido no Decreto 31.346/2009. Dessa forma, infere-se da interpretação dos dispositivos legais acima referidos que o recorrente cumpriu o requisito objetivo para movimentação na carreira, razão pela qual faz jus ao reenquadramento pretendido.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, bem como o exame da legislação local aplicável à espécie (Leis Complementares Estaduais 100/2009 e 135/2014 e Decreto 31.346/2009), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Publique-se.
+    Brasília, 30 de outubro de 2017.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
