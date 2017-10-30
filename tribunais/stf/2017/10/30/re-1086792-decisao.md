@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 2ª. Turma Recursal dos Juizados Especiais da Seção do Estado do Rio Grande do Sul.
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º, caput, II; 37, caput, e 40, § 8º , todos da Constituição. Sustenta que, “além de não haver qualquer obrigação de fazer (majoração da GDPGPE) a ser satisfeita pela União, com a publicação da Portaria GM/MS 3.627/2010, seus efeitos financeiros retroagirão a 22-11-2010, data da publicação do referido ato administrativo”.
+    O recurso não deve ser admitido. O acordão recorrido entendeu que a hipótese seria de gratificação dotada de caráter genérico, o que imporia a sua extensão aos servidores inativos ainda beneficiados pela regra de paridade. Vale dizer: aos servidores que tenham se aposentado antes da edição da Emenda Constitucional nº 41, de 19 de dezembro de 2003, ou que, nos termos de seu art. 3º, já tivessem reunido as condições para tanto. Esse é, precisamente, o entendimento adotado pelo Supremo Tribunal Federal em diversas oportunidades, inclusive em relação à gratificação em análise. Nesse sentido, confira-se a ementa do RE 631.880, Rel. Min. Gilmar Mendes:
+    “RECURSO. Extraordinário. Gratificação de Desempenho da Carreira da Previdência, da Saúde e do Trabalho – GDPST. Critérios de cálculo. Extensão. Servidores públicos inativos. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso improvido. É compatível com a Constituição a extensão, aos servidores públicos inativos, dos critérios de cálculo da GDPST estabelecidos para os servidores públicos em atividade”.
+    Ademais, o Tribunal de origem entendeu que:
+    “A superveniência do Decreto nº 7.133/2010, que regulamenta as avaliações de desempenho, é condição precedente que possibilita a realização da avaliação, mas, por si só, não a torna concreta. Para haver uma mudança quanto aos valores a serem pagos à parte, é necessário que seja efetivamente realizada a avaliação e que seu resultado seja demonstrado.
+    Assim, a gratificação passa a possuir caráter pro labore faciendo apenas com a efetiva avaliação dos servidores em atividade, ou seja, somente após o término do primeiro ciclo avaliativo.”
+    Nesse contexto, para se chegar à conclusão pretendida pela parte recorrente, seria necessário rever a interpretação dada à legislação infraconstitucional pertinente, bem como reexaminar os fatos e provas constantes dos autos, providências inviáveis em sede de recurso extraordinário (Súmula 279/STF).
+    Por fim, não cabe a interposição do recurso com fundamento no art. 102, III, b, da Constituição Federal, dado que não houve declaração de inconstitucionalidade de tratado ou lei federal, na forma do art. 97 da Constituição.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 30 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
