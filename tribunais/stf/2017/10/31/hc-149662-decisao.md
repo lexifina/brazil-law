@@ -1,0 +1,18 @@
+Decisão:
+ementa: Execução penal. Habeas corpus. Comutação de penas. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que não conheceu do HC 405.992, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o impetrante – condenado à pena total de 31 (trinta e um) anos e 7 (sete) meses de reclusão – requereu ao Juízo da Execução o benefício da comutação de penas. O pedido foi indeferido.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo, indeferido liminarmente.
+    4. Em seguida, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 405.992, Ministro Jorge Mussi, não conheceu do writ.
+    5. Neste habeas corpus, de próprio punho, o impetrante sustenta que preenche os requisitos previstos no Decreto n. 8.615/15, necessários à comutação de penas. Daí o pedido de concessão da ordem a fim de que seja concedido ao condenado aquele benefício.
+    Decido.
+    6. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via processual (HC 115.659, Rel. Min. Luiz Fux).
+    7. Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    8. Não é o caso de concessão da ordem de ofício. Tal como assentou a autoridade impetrada, “O Tribunal de origem, ao indeferir o pleito de comutação de pena, esclareceu que o impetrante somente alcançou 1/3 do total das penas que lhe foram impostas em 30/07/2016, portanto, em data posterior ao mais recente decreto presidencial, o que impossibilita a concessão das comutações pretendidas, diante da ausência do requisito objetivo para tanto, exatamente como se deu no Juízo próprio”. Nessas condições, o acolhimento da pretensão defensiva – no sentido de que o paciente preenche os requisitos necessários para a comutação de penas –, passa, necessariamente, pelo revolvimento de matéria fática, inviável na via processualmente restrita do habeas corpus.
+    9. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 31 de outubro de 2015.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
