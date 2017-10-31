@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário interpostos em face do acórdão da 3ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 2, p. 120):
+    “ADMINISTRATIVO. SERVIDOR CIVIL. PROCURADOR FEDERAL PROMOÇÃO CRITÉRIO EDITALÍCIO. LEGALIDADE. ESTÁGIO PROBATÓRIO. CUMPRIMENTO. PRAZO TRIENAL.
+    1. Consoante os precedentes do egrégio Superior Tribunal de Justiça, o fato de o servidor encontrar-se em período de prova, por si só, não o impede de galgar promoção ou progressão funcional, a menos que haja restrição normativa nesse sentido.
+    2. Os Procuradores Federais estão sujeitos às proibições e aos impedimentos estabelecidos na MP 2.229-43, de 06-9-2001, dentre os quais, o previsto no § 3º do art. 4º, qual seja, que ao servidor, em estágio probatório, será admitida tão-somente a progressão funcional, não sendo admitida a promoção nesse período, estando-se diante de institutos que não se confundem, segundo o próprio normativo referido. Consequentemente, não há a invocada autorização legal para que a promoção seja realizada no intervalo anual, prerrogativa garantida, apenas, à progressão funcional.
+    3. Do teor do Edital do concurso de remoção (03/2009), não se extrai qualquer incompatibilidade com a Medida Provisória 2.229-43/91, não fazendo jus ao pleito de progressão, dada a restrição contida em seu teor, qual seja o não atendimento pelo requerente do lapso temporal de efetivo exercício para a conclusão do período de estágio probatório.
+    4. A fixação de critérios e diretrizes para promoção e progressão funcional por meio de atos administrativos, não é, por si, ilegal, visto que encontra amparo no disposto no art. 10 da Lei n. 8.112/1990. Logo, dessume-se que, não só a lei, como também os regulamentos, podem fixar os critérios para o desenvolvimento do servidor na carreira.
+    5. Uma vez que a orientação da Corte ad quem é no sentido de que o estágio probatório é o período compreendido entre a nomeação e a aquisição da estabilidade, passando o seu prazo, após a EC 19/1998, a ser trienal, acompanhando a alteração do lapso temporal exigido para a estabilidade, não obstante tratar-se de institutos distintos, resta inviável o acolhimento da postulação subsidiária de outorga da promoção após o intervalo bianual.”
+    No recurso extraordinário, com fundamento no art. 102, III, a, da Constituição, aponta-se ofensa aos arts. 5º, “caput”, I, XIII e LIV; 37, XXI, da Constituição Federal. Sustenta-se, em suma, que “não há lei que imponha o estágio probatório como requisito à promoção” e que “não pode o ato administrativo criar requisito de interstício mínimo sem lei que o preveja” (eDOC 2, p. 220).
+    Por meio da Petição 57791/2017, de 3.10.2017, a parte recorrente informa o provimento e o trânsito em julgado do REsp 1.528.740/SC, ocasionando o prejuízo do presente extraordinário. Ao final, requer, caso este “relator entenda que o recurso pode/deve ser conhecido, como a vitória obtida do REsp já lhe garantiu a prestação jurisdicional buscada”, a desistência do recurso extraordinário interposto, com imediato retorno dos autos à origem (eDOC 7).
+    É o relatório. Decido.
+    Verifica-se que o Superior Tribunal de Justiça, nos autos do Recurso Especial 1.528.740-SC, deu parcial provimento ao recurso especial para garantir o direito à promoção do Recorrente com efeitos retroativos.
+    O agravo interno interposto pela União foi desprovido, com trânsito em julgado 10.8.2017 (eDOC 3, p. 4).
+    Ante o exposto, julgo prejudicado o recurso, por perda superveniente do objeto, nos termos do art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 31 de outubro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
