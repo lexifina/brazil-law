@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO —MATÉRIA FÁTICA — NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado da Paraíba concedeu a segurança para assegurar a nomeação e posse de candidato aprovado em concurso público. No extraordinário, o recorrente aponta a violação do artigo 37, inciso II, da Constituição Federal. Afirma a inexistência de preterição. Discorre sobre a necessidade de comprovação de contratação de terceirizados e comissionados para o exercício das funções do cargo. Alude à discricionariedade da Administração para nomear candidatos aprovados além do número de vagas previstas no edital.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    Diante dessa situação, se fossem consideradas isoladamente as regras editalícias, a lotação do referido cargo, para o qual, como dito, foi previsto o cadastro de reserva, caberia exclusivamente ao juízo de oportunidade e conveniência do Tribunal de Justiça do Estado da Paraíba.
+    Contudo, por meio de uma simples interpretação sistemática das normas do edital, verifica-se que, previamente e de forma clara, esta Corte de Justiça afirmou aos cidadãos que pretendessem participar do certame que seriam selecionados os candidatos para o provimento de cargos vagos e dos cargos que viessem a surgir no prazo de validade do concurso.
+    Dessa forma, o próprio edital previu como regra de preenchimento dos cargos ofertados que, surgindo "novas vagas" - seja em razão da criação de novos cargos mediante lei, seja em virtude de vacância decorrente de exoneração, demissão, aposentadoria, posse em outro cargo inacumulável ou falecimento -, os aprovados seriam nomeados.
+    Logo - em respeito às normas editalícias, bem como à proteção da confiança gerada pela própria conduta administrativa deste Egrégio Tribunal de Justiça -, extrai-se a interpretação de que, uma vez demonstrada a existência de "novas vagas" surgidas durante o prazo de validade do Concurso regido pelo Edital n° 001/2008, há direito subjetivo à nomeação dos aprovados, ainda que fora do número inicial de vagas previstas ou mesmo constantes em cadastro de reserva.
+    Na hipótese dos autos, verifica-se que o impetrante foi aprovado na 57ª (quinquagésima sétima) posição para o cargo de Técnico Judiciário - Área Judiciária da 3ª Região. Em relação a este, houve a nomeação de 54 (cinquenta e quatro) aprovados na lista geral e de um portador de necessidades especiais. Consta, ainda, que um dos candidatos, posicionado em 51º lugar, solicitou desistência e teve seu pedido deferido.
+    Doutro norte, o próprio Tribunal de Justiça do Estado da Paraíba prestou informação no sentido de que, até o término do prazo de validade do concurso, restavam vagos 3 (três) cargos de Técnico Judiciário - Área Judiciária para a 3ª Região.
+    Dessa forma, a própria Administração confessou a existência de mais 3 (trinta e três) vagas que não foram preenchidas até o final do prazo de validade do certame, havendo, pois, que acrescer à nomeação do classificado na 54ª (quinquagésima quarta) posição o numerário informado, o que estende o direito subjetivo à nomeação à posição de número 57 (cinquenta e sete).
+    Tendo o Colegiado de origem assentado decorrer o direito à nomeação do previsto no próprio edital do concurso, somente pelo reexame do quadro fático e da legislação de regência seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem
+Brasília, 31 de outubro de 2017.
+Ministro MARCO AURÉLIO
+Relator
