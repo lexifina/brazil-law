@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de Agravo contra decisão que negou seguimento a Recurso Extraordinário interposto, com fundamento no art. 102, III, da Constituição Federal, em face de acórdão proferido pelo Tribunal Regional Federal da 1ª Região, que assim se manifestou sobre a controvérsia objeto do apelo extremo (fl. 118, Vol. 2):
+    O STJ uniformizou a jurisprudência a respeito do nível de tolerância do ruído entre 06/03/1997, quando foi estabelecido o limite de 90 dB, e 18/11/2003, quando foi reduzido para 85 dB. O entendimento prevalente é de que o serviço rege-se pela lei vigente à época de sua prestação, não cabendo retroatividade, ainda que de norma mais benéfica. Logo, o limite de tolerância a ser observado neste período é de 90 dB.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, o recorrente sustenta, em síntese, que o julgado ofendeu os arts. 4º, II, 5º, caput, 196,  e 201, § 1º, da Carta Magna.
+    A decisão agravada tem por fundamento a ofensa meramente reflexa à Constituição.
+    No Agravo, a parte agravante sustenta, em síntese, que há violação direta à Carta Magna.
+    É o relatório. Decido.
+    O Tribunal de origem, ao apreciar a controvérsia, não reconheceu o período controverso como tempo especial, com base na análise do Decreto nº 4.882/2203.
+    Assim, trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ademais, cumpre ressaltar que essa CORTE, no julgamento do ARE 906.569-RG, Rel. Min. EDSON FACHIN, Tema 852, DJe de 25/09/2015 afirmou a ausência de repercussão geral em relação a “Avaliação judicial de critérios para a caracterização de trabalho especial, para fins de reconhecimento de aposentadoria especial ou de conversão de tempo de serviço, nos termos dos arts. 57 e 58 da Lei 8.213/1991”. O julgado recebeu a seguinte ementa:
+    RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. CONVERSÃO DO TEMPO DE SERVIÇO. CARACTERIZAÇÃO DA ESPECIALIDADE DO LABOR. ARTIGOS 57 E 58 DA LEI 8.213/91. 1. A avaliação judicial de critérios para a caracterização da especialidade do labor, para fins de reconhecimento de aposentadoria especial ou de conversão de tempo de serviço, conforme previsão dos artigos 57 e 58 da Lei 8.213/91, é controvérsia que não apresenta repercussão geral, o que inviabiliza o processamento do recurso extraordinário, nos termos do art. 543-A, §5º, do Código de Processo Civil. 2. O juízo acerca da especialidade do labor depende necessariamente da análise fático-probatória, em concreto, de diversos fatores, tais como o reconhecimento de atividades e agentes nocivos à saúde ou à integridade física do segurado; a comprovação de efetiva exposição aos referidos agentes e atividades; apreciação jurisdicional de laudos periciais e demais elementos probatórios; e a permanência, não ocasional nem intermitente, do exercício de trabalho em condições especiais. Logo, eventual divergência ao entendimento adotado pelo Tribunal de origem, em relação à caracterização da especialidade do trabalho, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 31 de outubro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
