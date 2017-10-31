@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado:
+    “APELAÇÕES CÍVEIS. AÇÃO ORDINÁRIA. REVISÃO DO SOLDO E DAS DEMAIS PARCELAS DO PROVENTO. IMPOSSIBILIDADE. SOMENTE DO SOLDO E DO AUXÍLIO-INVALIDEZ. CONSTITUCIONALIDADE DOS DISPOSITIVOS QUE AUTORIZAM A REVISÃO NO CASO EM EXAME. CONSTATADA. VIOLAÇÃO AO ART. 195, §5º, DA CF/88. NÃO CONSTATADA. RECURSOS DESPROVIDOS.
+    I A remuneração do militar é composta do soldo, da gratificação de tropa e de demais vantagens a que porventura tenha direito, consoante artigo 6.º da Lei Estadual n.º 2.392/1996. Portanto, à gratificação de tropa e às demais vantagens (exceção ao auxílio por invalidez) atribui-se um valor que independe daquele correspondente ao soldo, não funcionando este último como base de cálculo para àqueles. Nessa esteira, tratando-se a gratificação de tropa e demais vantagens de espécies remuneratórias autônomas, com valores autonomamente definidos, incabível se falar em vinculação ao soldo, a possuir, o autor tão somente direito ao soldo da patente superior e ao pagamento da gratificação de tropa e vantagens da patente em que foi aposentado.
+    II - De acordo com o posicionamento do Superior Tribunal de Justiça (STJ), tanto a Constituição Federal, quanto à Constituição Estadual, deixam a cargo da lei ordinária as regras atinentes à transição do militar da atividade para inatividade. Ademais, os militares possuem regramento constitucional específico, de modo que, a eles, não se aplica, em regra, aquelas normas dirigidas aos servidores públicos civis.
+    III - O art. 40, § 2.º, da Constituição Federal não foi expressamente estendido aos militares. Nesse sentido, a jurisprudência do Superior Tribunal de Justiça é pela a constitucionalidade do art. 98, da Lei n.º 1.154/75, do Estado do Amazonas (Estatuto dos Policiais Militares do Amazonas).
+    IV - No tocante a suposta violação ao art. 195, §5º, da Constituição da República, necessário asseverar que o Poder Judiciário de forma alguma cria benefício previdenciário. Na realidade, o que se faz na hipótese é tão só o reconhecimento de benefício já existente, do qual, o policial militar aposentado por invalidez, vinha sendo privado, a mercê do direito assegurado legal e constitucionalmente.
+    V Apelações improvidas.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 37, XIII; 40; 142, VIII; e 195, § 5º , da Constituição Federal.
+    O recurso extraordinário é inadmissível. O Supremo Tribunal Federal firmou o entendimento no sentido de que a presente controvérsia se insere no âmbito infraconstitucional. Nesse sentido, confira-se a ementa do RE 615.109-AgR/AM, julgado sob a relatoria da Ministra Rosa Weber:
+    “DIREITO ADMINISTRATIVO. MILITAR. PROVENTOS. GRAU HIERÁRQUICO SUPERIOR. LEI 1.154/1975 DO ESTADO DO AMAZONAS. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. ACÓRDÃO RECORRIDO PUBLICADO EM 07.4.2009.
+    As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, no que se refere ao caráter infraconstitucional da discussão travada no recurso extraordinário, a inviabilizar-lhe o trânsito. Precedentes.
+    Agravo regimental conhecido e não provido.”
+    Outros precedentes: RE 655.494-AgR/AM, Rel. Min. Dias Toffoli; ARE 717.898-RG/SC, Rel. Min. Gilmar Mendes; e AI 634.249-AgR/SE, Rel.ª Min.ª Cármen Lúcia.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 31 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
