@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDORES INATIVOS. RETRIBUIÇÃO POR TITULAÇÃO. NOVO MÉTODO DE CÁLCULO. LEI 12.772/2012. RESOLUÇÃO 01/2014 DO MEC/SETEC/CPRSC. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que determinou que o Instituto Federal de Santa Catarina proceda a análise do pedido administrativo da parte recorrida, com a respectiva avaliação dos critérios para o Reconhecimento de Saberes e Competências – RSC, que tem por objetivo a alteração do valor da Retribuição por Titulação – RT.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXVI e LV, 37, § 6º, e 93, IX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por entender que a ofensa à Constituição, acaso existente, seria reflexa.
+    É o relatório. DECIDO.
+    Não merece prosperar o agravo.
+    Os princípios da ampla defesa e do contraditório, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, Tema 660, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Demais disso, para divergir das razões do referido acórdão seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Lei 12.772/2012 e Resolução 01/2014 do MEC/SETEC/CPRSC), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Nesse sentido foram as decisões monocráticas proferidas no ARE 986.725, Rel. Min. Celso de Mello, DJe de 10/8/2016, ARE 991.828, Rel. Min. Ricardo Lewandowski, DJe de 7/12/2016, e ARE 1.038.240, Rel. Min. Marco Aurélio, DJe de 5/5/2017.
+    Relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de outubro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
