@@ -1,0 +1,16 @@
+DECISÃO
+AGRAVO REGIMENTAL NA SUSPENSÃO DE TUTELA ANTECIPADA. AUSÊNCIA DE MANIFESTAÇÃO DO AGRAVANTE/REQUERENTE QUANTO AO INTERESSE PROCESSUAL. EXTINÇÃO DA SUSPENSÃO DE TUTELA ANTECIPADA E PREJUÍZO DO AGRAVO REGIMENTAL.
+Relatório
+    1. Consta dos autos: “A presente suspensão de tutela antecipada foi ajuizada no Superior Tribunal de Justiça, corte que, por entender tratar-se de matéria constitucional, determinou a remessa dos autos a este Tribunal (fls. 389 a 392).
+    O Município de Torres pede a suspensão da tutela antecipada, concedida em acórdão prolatado no Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos do Agravo de Instrumento n.º 70026351486, que dando provimento parcial ao agravo, concedeu parcialmente a antecipação de tutela.
+    O pedido de tutela antecipada, veiculado na inicial da ação civil pública de origem, consistia na (1) suspensão do alvará 086/2007, que permitiu a construção de um edifício residencial de 29 andares não antecedido de estudo prévio de impacto ambiental e de vizinhança, e (2) na determinação ao Município para que se abstenha de expedir novos alvarás a quaisquer novos projetos com altura superior a 30 metros, nas zonas em que não houver limitação, bem como a expedição de alvará com burla a outra limitação fixada em aprofundado e prévio estudo de impacto ambiental e de vizinhança (fls. 153/154). Da média dos votos proferidos no acórdão, resultou a concessão parcial do primeiro pedido, autorizando que a construção prossiga até 21 andares, e a concessão integral do segundo pedido de tutela antecipada.
+    (…) o Município de Torres apresenta pedido de suspensão a este Tribunal, suscitando que a manutenção da liminar acarretará grave lesão à ordem e à economia públicas. Sustenta o requerente a existência de lesão á ordem econômica diante da provável indenização que o Município deverá suportar caso perdure a suspensão do alvará já concedido (fl. 41/42), bem como a existência de danos à economia da cidade, dependente exclusivamente da construção civil e turismo, afetando o emprego na construção civil e a atividade de todos os profissionais ligados à área”.
+    2. Em 6.7.2009, o Ministro Gilmar Mendes, então Presidente deste Supremo Tribunal, indeferiu o pedido de suspensão. Contra essa decisão o requerente interpôs o presente agravo regimental.
+    3. Em 13.10.2017, determinei a intimação do agravante/requerente para manifestar-se, no prazo máximo de cinco dias, sobre interesse no prosseguimento do feito, justificando-o e juntando andamento atualizado do Processo n. 072/1.08.0003451-0 e do Agravo de Instrumento n. 70026351486 e as certidões de trânsito em julgado, se houver, sob pena de extinção desta suspensão.
+    4. Em 31.10.2017, a Seção de Processos Diversos deste Supremo Tribunal certificou que, “até o dia 25/10/2017, não houve qualquer manifestação em relação ao despacho de 13/10/2017” (Evento 17).
+    5. Pelo exposto, diante da ausência da manifestação do agravante/requerente, determino a extinção desta suspensão de tutela antecipada e julgo prejudicado o agravo regimental (inc. XX do art. 21 do Regimento Interno do Supremo Tribunal Federal c/c o § 3º do art. 485 do Código de Processo Civil).
+    Publique-se.
+    Arquive-se.
+    Brasília, 31 de outubro de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
