@@ -1,0 +1,29 @@
+Decisão
+          Trata-se de habeas corpus, com pedido de medida liminar, contra acórdão do Superior Tribunal Militar, proferido nos autos do RSE 114-64.2016.7.04.0004/MG (Rel. Min. FRANCISCO JOSELI PARENTE CAMELO).
+          Consta dos autos, em síntese, que o paciente foi denunciado pela suposta prática do crime de furto simples (art. 240, caput, do Código Penal Militar). Assevera-se que o acusado, soldado do Exército Brasileiro em licença-paternidade, teria subtraído uma motocicleta de um colega de farda, nas cercanias de uma Unidade Militar (Doc. 3, fls. 6-7). O Conselho Permanente de Justiça da Auditoria da 4ª CJM declinou a competência para processar e julgar a ação penal. Irresignado, o Ministério Publico Militar interpôs recurso em sentido estrito, ao qual o Superior Tribunal Militar deu provimento, a fim de reconhecer a competência da Justiça castrense, em acórdão assim ementado:
+    [...]
+    Furto praticado por militar em desfavor de outro militar em local não sujeito à Administração Militar ou o fato de a subtração da res furtiva não guardar qualquer correlação direta com a condição de militar dos envolvidos ou com a atividade inerente à função militar não são o bastante para afastar a competência da Justiça Militar da União para apreciar o fato. Nessas situações, exige-se apenas a condição de militar da ativa dos militares, agente e vítima, para desafiar a competência desta Justiça Especializada para processar e julgar o feito, em face do critério de competência ratione personae. Inteligência do artigo 9º, inciso II, alínea “a”, da Lei Substantiva Penal Castrense.
+    Recurso conhecido e dado provimento.
+                Decisão unânime.
+          Nesta ação, a Defensoria Pública da União sustenta, em linhas gerais, a incompetência da Justiça Castrense para processar e julgar a causa, uma vez que “os fatos imputados [...] não se amoldam ao conceito de ‘crime militar’ porque a ação deu-se em lugar não sujeito à Administração Militar e não atingiu os interesses da Força Militar” (Doc. 1, fls. 4-5).
+          Requer, assim, a concessão da ordem, a fim de “declarar a incompetência da Justiça Militar da União para processamento e julgamento do feito, tal qual já julgou a instância inicial, determinando o encaminhamento à Justiça comum” (Doc. 1, fl. 12).
+          É o relatório. Decido.
+          O Superior Tribunal Militar concluiu pela competência da Justiça especializada para processar e julgar o paciente pelo delito de furto previsto no art. 240 do Código Penal Militar, com arrimo nos seguintes fundamentos:
+    (…) Mais recentemente, passou-se ao entendimento de que, em casos que envolvam militares, basta que estejam na ativa, nos termos do art. 9º, II, alínea “a”, do CPPM, para desafiar a competência da JMU. É o critério de competência ratione persone.
+          Adiante, a respeito do quadro fático, consignou:
+    Na espécie, ficou configurado que o militar não atuou em local sob administração militar, eis que o estacionamento onde se encontrava a res furtiva era público e qualquer um poderia estacionar seu veículo, conforme depoimento do militar responsável pelo manuseio das câmeras que ficavam direcionadas para aquele local.
+    Também não há dúvidas de que o réu nenhuma missão militar cumpria fora do estabelecimento militar, em face de seu licenciamento para fruição da licença-paternidade.
+          De acordo com o art. 124 da Constituição da República, compete à Justiça Militar processar e julgar os crimes militares definidos em lei. A norma constitucional autorizou o legislador ordinário, dentro dos preceitos referentes à Justiça Militar, dispor sobre sua organização, funcionamento e competência.
+          O art. 9º, II, “a”, do Código Penal Militar, por sua vez, dispõe:
+    Art. 9º Consideram-se crimes militares, em tempo de paz:
+    [...]
+    II – os crimes previstos neste Código e os previstos na legislação penal, quando praticados:
+    a) por militar em situação de atividade ou assemelhado, contra militar na mesma situação ou assemelhado
+          A respeito desse regramento normativo, o SUPREMO TRIBUNAL FEDERAL já decidiu que o cometimento “de delito por agente militar contra vítima militar somente desafia a competência da Justiça Castrense nos casos em que houver vínculo direto com o desempenho da atividade militar”. (HC 135.019, Rel. Min. ROSA WEBER, Primeira Turma, DJe 3/10/2016). Assim, “a mera condição da vítima e do agressor não tem a virtude de acionar a competência da Justiça Militar” (HC 121.778, Rel. Min. Luiz Fux, Primeira Turma, DJe de 1/7/2014)
+          No presente caso, portanto, em que houve subtração de patrimônio privado, cometido fora de local sob a administração militar, a mera condição de militar do acusado e da vítima, ambos fora de serviço, é insuficiente para atrair a competência da Justiça especializada, já que ausente outro elemento de conexão com a vida castrense. É farta a jurisprudência desta CORTE nesse sentido: HC 135.675, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 15/3/2017; HC 131.076, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 18/12/2015; RHC 122562, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 18/9/2014; HC 121.778, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 1/7/2014; HC 117.254, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 15/10/2014.
+          Diante do exposto, com base no art. 192 do Regimento Interno do Supremo Tribunal Federal, CONCEDO A ORDEM DE HABEAS CORPUS, a fim de reconhecer a incompetência da Justiça Militar da União para o julgamento da Ação Penal 0000114-64.2016.7.04.0004, que tramita na Auditoria da 4ª Circunscrição Judiciária Militar. Determino a remessa dos autos principais ao Ministério Público do Estado de Minas Gerais para que tome as providências que entender cabíveis. Comunique-se, com urgência.
+          Publique-se.
+          Brasília, 31 de outubro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
