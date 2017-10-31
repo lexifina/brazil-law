@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 5ª Região, ementado nos seguintes termos:
+    “Administrativo. Processual civil. Acumulação de cargos. Técnico de Enfermagem. Carga horária superior a 60 (sessenta) horas semanais. Compatibilidade de horários a ser verificada caso a caso. Precedentes deste TRF5 e do STF. Apelação improvida”. (eDOC 1, p. 185)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação ao artigo 37 XVI, “c”, do texto constitucional (eDOC 1, p. 305ss).
+    Nas razões recursais, sustenta-se que existe incompatibilidade de horários entre dois cargos exercidos, o que não permitiria a acumulação.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, com base nas provas dos autos, consignou que existe compatibilidade de horários que permite a acumulação dos cargos pretendida.
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS NA ÁREA DE SAÚDE. COMPATIBILIDADE DE HORÁRIO. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. 1. A acumulação remunerada de cargos públicos, quando sub judice a controvérsia sobre a compatibilidade de horários, demanda o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 desta Corte, a qual dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”. Precedentes: AI 730.343-AgR, Rel. Min. Dias Toffoli, Primeira Turma, Dje 14/12/2012, RE 633.298-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, Dje 14/2/2012, e ARE 773.327-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, Dje 20/11/2013. 2. In casu, o acórdão extraordinariamente recorrido assentou: “CONSTITUCIONAL E ADMINISTRATIVO. PROFISSIONAL DE SAÚDE. CUMULAÇÃO DE CARGOS PÚBLICOS. CARGA HORÁRIA. INCOMPATIBILIDADE. TCU. ACÓRDÃO Nº 2.133/2005. ENTENDIMENTO”. 3. Agravo regimental DESPROVIDO. (ARE-AgR 812.147, Rel. Min. LUIZ FUX, Primeira Turma, DJe 14.8.2014)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor público. Técnico em radiologia. Acumulação de cargos. 3. Matéria restrita à analise de legislação infraconstitucional (Lei 7.394/85 e Decreto 92.790/86). 4. Reexame fático-probatório. Verbete 279 da Súmula do STF. Precedentes. 5. Agravo regimental a que se nega provimento.”(ARE 817.366 AgR, de minha relatoria, Segunda Turma, DJe 12.9.2014)
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Servidor público. Acumulação de cargos. Compatibilidade de horários. Verificação. Fatos e provas. Reexame. Impossibilidade. 1. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido.”(RE-AgR 883.732, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 21.8.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro o valor da verba honorária fixada pela origem em 10%, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita..
+    Publique-se.
+    Brasília, 31 de outubro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
