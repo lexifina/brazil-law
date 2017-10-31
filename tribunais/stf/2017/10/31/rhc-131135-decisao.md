@@ -1,0 +1,30 @@
+Decisão:
+    Ementa: Penal. Recurso ordinário em habeas corpus. Furto. Aplicação do Princípio da insignificância. Impossibilidade.
+    1.  Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Newton Trisotto, Desembargador Convocado do TJ/SC, assim ementado:
+    “CONSTITUCIONAL. PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. FURTO QUALIFICADO PELO CONCURSO DE AGENTES. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. MAIOR REPROVABILIDADE DA CONDUTA. HABEAS CORPUS NÃO CONHECIDO.
+    01. Prescreve a Constituição da República que o habeas corpus será concedido sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder (art. 5º, inc. LXVIII). O Código de Processo Penal impõe aos juízes e aos tribunais que expeçam, de ofício, ordem de habeas corpus, quando, no curso de processo, verificarem que alguém sofre ou está na iminência de sofrer coação ilegal (art. 654, § 2º).
+    Desses preceptivos infere-se que no habeas corpus devem ser conhecidas quaisquer questões de fato e de direito relacionadas a constrangimento ou ameaça de constrangimento à liberdade individual de locomoção. Por isso, ainda que substitutivo do recurso expressamente previsto para a hipótese, é imprescindível que seja processado para perquirir a existência de ilegalidade ou abuso de poder no ato judicial impugnado (STF, HC 121.537, Rel. p/ acórdão Min. Roberto Barroso, Primeira Turma; HC 111.670, Rel. Ministra Cármen Lúcia, Segunda Turma; STJ, HC 277.152, Rel. Ministro Jorge Mussi, Quinta Turma; HC 275.352, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma).
+    02. De ordinário, é inaplicável o princípio da insignificância quando o delito foi praticado em concurso de agentes (STJ, AgRg no HC 246.784/RS, Rel. Ministro Jorge Mussi, Quinta Turma, julgado em 19/08/2014; AgRg no AREsp 464.513/MG, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 02/06/2015; AgRg no REsp 1.432.283/MG, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/06/2014; STF, HC 103.359, Rel. Ministra Cármen Lúcia, Primeira Turma, julgado em 18/05/2010; HC 112.378, Rel. Ministro Joaquim Barbosa, Segunda Turma, julgado em 28/08/2012).
+    À luz desses precedentes e da premissa fática estabelecida na sentença de que o crime é qualificado (CP, art. 155, § 4º, inc. IV) tendo em vista que o crime foi cometido em concurso de pessoas e sua motivação era a compra de substância entorpecente, não há como aplicar o "princípio da insignificância" de modo a afastar a tipicidade da conduta delituosa.
+    03. Habeas corpus não conhecido.”
+    2.  Extrai-se dos autos que o recorrente foi condenado à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime aberto, pelo crime previsto no artigo 155, § 4º, inciso IV, do Código Penal. A pena privativa de liberdade foi substituída por duas penas restritivas de direito.
+    3. O Tribunal de Justiça do Estado de Minas Gerais deu parcial provimento à apelação da defesa a fim de reduzir a pena para 1 (um) ano e 6 (seis) meses de reclusão, mantendo o regime inicial aberto e a substituição da pena privativa de liberdade.
+    4. Em seguida, foram opostos embargos infringentes no Tribunal Estadual, rejeitados.
+    5. Na sequência, sobreveio a impetração de HC no Superior Tribunal de Justiça. O writ não foi conhecido.
+    6. Neste recurso ordinário, sustenta-se a aplicabilidade, no caso, do princípio da insignificância, em razão do pequeno valor do objeto material do crime de furto um aparelho de DVD, avaliado em R$ 70,00 (setenta reais). Daí o pedido de provimento a este recurso para que se reconheça a atipicidade material da conduta praticada pelo agente.
+    Decido.
+    7.  O habeas corpus não deve ser concedido. No caso de que se trata, não estão configurados os requisitos necessários ao reconhecimento da irrelevância material da conduta. Dou especial relevância ao parecer do Ministério Público Federal, que acolho como razões de decidir:
+    “[...]
+    10. Atentando-se para essas balizas, fica claro que o valor da coisa é um dos aspectos a ser considerado, não sendo, nem de longe, o único.
+    11. Efetivamente, a conduta, tal como narrada na denúncia, passa ao largo da inexpressividade penal, não podendo ser qualificada como sendo de ínfima afetação social ou de absoluta irrelevância ao bem juridicamente tutelado (patrimônio).
+    12. Segundo consta, “o denunciado Leandro, aproveitando-se da circunstância de estar hospedado na residência da vítima, cedeu as chaves do imóvel ao denunciado Maycon para que este se dirigisse até o local e se apropriasse da res furtiva, que seria revendida a terceiros para custear a aquisição de drogas para uso comum” (e-STJ, fls. 19/20).
+    13. No momento, devem ser interpretadas em desfavor do recorrente as circunstâncias do crime, que demonstram o alto grau de periculosidade da ação, assim como a reprovabilidade do comportamento, pois o delito foi praticado em concurso de agentes e teve como motivação a compra de entorpecentes.
+    14. Ademais, trata-se de furto qualificado pelo concurso de agentes, cometido com abuso de confiança. Por diversas vezes, já decidiu esse Pretório Excelso que o furto qualificado desautoriza a incidência do princípio da insignificância, ante a reprovabilidade acentuada da conduta.
+    […]”
+    8. Nessa linha, vejam-se o HC 121.760 - AgR, Relª. Minª, Rosa Weber e o HC 130.617 - AgR, Relª. Minª. Cármen Lúcia, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. PROCESSUAL PENAL. AUSÊNCIA DE REFORÇO INDEVIDO NA FUNDAMENTAÇÃO. REPRODUÇÃO DAS CONSTATAÇÕES FÁTICAS AFIRMADAS NAS INSTÂNCIAS INFERIORES. NÃO INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. FURTO QUALIFICADO PELO CONCURSO DE AGENTES, PRATICADO DURANTE O REPOUSO NOTURNO. REINCIDÊNCIA.”
+    9. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 31 de outubro de 2017.
+Ministro Luís Roberto Barroso
+Relator
