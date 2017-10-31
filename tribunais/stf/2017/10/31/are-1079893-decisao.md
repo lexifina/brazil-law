@@ -1,0 +1,23 @@
+Decisão:
+    Cuida-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão prolatado pela Quarta Câmara Cível do Tribunal de Justiça do Estado do Paraná, o qual foi assim ementado:
+    “APELAÇÕES CÍVEIS, RECURSO ADESIVO E AGRAVOS RETIDOS. AÇAO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. SUPERDIMENSIONAMENTO DE VALOR DE ÁREA DE DESAPROPRIAÇÃO. NÃO CONHECIMENTO DO RECURSO ADESIVO. AUSÊNCIA DE PREPARO E DE SUCUMBÊNCIA RECÍPROCA DO RECORRENTE. AGRAVOS RETIDOS. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO CONFIGURADA, VIA ELEITA ADEQUADA. INÉPCIA DA INICIAL INOCORRENTE. RECURSOS DESPROVIDOS. PRELIMINAR DE AUSÊNCIA DE INTERESSE DE AGIR AFASTADA. AUSÊNCIA DE LESÃO AO ERÁRIO. IRRELEVÂNCIA. MÉRITO. ATO DE IMPROBIDADE ADMINISTRATIVA CONFIGURADO EM RELAÇÃO A LUIZ ALBERTO CÍRICO, MARCOS PERONDINI FONTANA E NBC ARQUITETURA E CONSTRUÇÕES LTDA. AUSÊNCIA DE DOLO EM RELAÇÃO AOS DEMAIS RÉUS. IMPOSSIBILIDADE DE ENQUADRAR O ATO REPUTADO COMO ÍMPROBO NO ARTIGO 10 DA LEI N.º 8.429/92 QUANDO NÃO HÁ LESÃO PATRIMONIAL AO ERÁRIO. PRECEDENTE DO STJ. SUBSUNÇÃO DOS FATOS NO ARTIGO 11 DO MESMO DIPLOMA LEGAL. DOSIMETRIA. ADEQUAÇÃO DAS SANÇÕES FIXADAS PELA SENTENÇA.
+    RECURSO ADESIVO NÃO CONHECIDO.
+    AGRAVOS RETIDOS DESPROVIDOS.
+    APELO DO MINISTÉRIO PÚBLICO DESPROVIDO.
+    APELOS DE LUIZ ALBERTO CÍRICO E DE MARCOS PERONDINI FONTANA PROVIDOS PARCIALMENTE. SENTENÇA READEQUADA DE OFÍCIO, PARA ENQUADRAR OS RÉUS CONDENADOS COMO INCURSO NO ARTIGO 11, CAPUT DA LEI N.º 8.429/92 E ESTABELECER EM RELAÇÃO À RÉ NBC ARQUITETURA E CONSTRUÇÕES LTDA., POR FORÇA DA NOVA SUBSUNÇÃO LEGAL, A REDUÇÃO PARA TRÊS ANOS O PRAZO DE PROIBIÇÃO DE CONTRATAR COM O PODER PÚBLICO OU RECEBER BENEFÍCIOS OU INCENTIVOS FISCAIS OU CREDITÍCIOS.”
+    Não foram opostos embargos de declaração.
+    Simultaneamente a este apelo extremo, foi aviado recurso especial, o qual, todavia, não logrou êxito.
+    O recurso extraordinário ancora-se em pretensa afronta ao art. 37, caput da Constituição Federal.
+    Intimada, a parte contrária não ofertou contrarrazões.
+    Decido.
+    A irresignação não prospera.
+    A recorrente intenta questionar a proporcionalidade e a razoabilidade das sanções a ela aplicadas pelo juízo condenatório.
+    Ocorre que essa análise demandaria o revolvimento do acervo fático-probatório dos autos (incidência da Súmula nº 279/STF), bem como a apreciação de legislação infraconstitucional - notadamente da Lei nº 8.429/92 - de modo que a propalada ofensa à Constituição, acaso existente, seria apenas reflexa. Nesse sentido:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. INEXISTÊNCIA DE REPERCUSSÃO GERAL (ARE 748.371-RG, REL. MIN. GILMAR MENDES, TEMA 660). IMPROBIDADE ADMINISTRATIVA. SANÇÕES. GRADAÇÃO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA E NECESSIDADE DE INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE nº 884.264/DF-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 27/10/15).
+    “DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. POLICIAL MILITAR. ARTS. 11 e 12 DA LEI 8.429/1992. NÃO OCORRÊNCIA. ANÁLISE DE EVENTUAL AFRONTA AOS PRECEITOS CONSTITUCIONAIS INVOCADOS NO APELO EXTREMO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE NO ACÓRDÃO REGIONAL. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. ACÓRDÃO RECORRIDO PUBLICADO EM 03.6.2008. Com espeque no conjunto probatório, ante a aplicação dos princípios da razoabilidade e proporcionalidade, o Tribunal de Justiça do Distrito Federal e Territórios manteve a sentença que não enquadrou a conduta dos agravados como improbidade administrativa, uma vez que praticada sem que estivessem no exercício da atividade policial, e afastou a aplicação das penalidades previstas na Lei 8.429/1992. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate e a reelaboração da moldura fática constante do acórdão recorrido, a inviabilizar o trânsito do recurso extraordinário. Precedentes. Agravo regimental conhecido e não provido.” (AI nº 768.891/DF-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 20/6/14).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 31 de outubro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
