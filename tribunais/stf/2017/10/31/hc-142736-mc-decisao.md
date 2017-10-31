@@ -1,0 +1,17 @@
+DECISÃO
+PENA – EXECUÇÃO – REGIME SEMIABERTO – INEXISTÊNCIA DE ESTABELECIMENTO PRÓPRIO – CONSEQUÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O paciente cumpre pena de 5 anos de reclusão e 1 ano de detenção, em regime inicial semiaberto. O Juízo da Terceira Vara Criminal, no processo de execução nº 0011099-48.2016.8.24.0038, acolheu o pedido de prisão domiciliar do paciente, em virtude de inspeção realizada na Penitenciária Industrial de Joinville pelo Juiz Corregedor do sistema prisional da Comarca, no que verificada a inadequação da ala onde recolhido para fins de cumprimento de sanção no regime intermediário.
+    O Relator deu provimento ao agravo em execução nº 0020210-56.2016.8.24.0038, interposto pelo Ministério Público, para revogar a custódia domiciliar e determinar o retorno do paciente à citada Penitenciária, ao argumento de ser o local compatível com o regime semiaberto.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 389.353/SC, liminarmente indeferido. A Sexta Turma não conheceu do agravo interno protocolado, decisão transitada em julgado no último dia 4 de maio.
+    O impetrante sustenta constrangimento ilegal consistente na submissão do paciente a regime mais gravoso do que o estabelecido pelo Juízo. Aponta violação do verbete nº 56 da Súmula do Supremo. Ressalta a ilegalidade decorrente da permanência em estabelecimento penal voltado à constrição em regime fechado. Diz viável a imposição de prisão domiciliar. Reitera a constatação do magistrado de primeira instância no sentido da impropriedade da aludida Penitenciária.
+    O processo foi distribuído a Vossa Excelência por prevenção, ante a relatoria da reclamação nº 26.534/SC, na qual o paciente, articulando com a afronta ao verbete nº 56 da Súmula do Supremo, requereu a colocação em regime aberto ou custódia domiciliar. Vossa Excelência, em 30 de março de 2017, negou seguimento ao pedido. A Primeira Turma, em 3 de outubro último, desproveu o agravo interno formalizado.
+    2. Consoante se depreende da leitura das peças que acompanham a inicial, a controvérsia reside na adequação da Penitenciária Industrial de Joinville para albergar condenados submetidos ao regime semiaberto. O Juízo acolheu o pedido de prisão domiciliar em virtude de inspeção realizada pelo Juiz Corregedor do sistema prisional da Comarca de Joinville/SC, no que constatada inapropriada a ala onde recolhido o paciente para fins de cumprimento de sanção no regime semiaberto.
+    Fixado, no título executivo judicial, o regime inicial semiaberto, a falta de vaga em estabelecimento compatível – colônia agrícola, industrial ou similar – é conducente a assentar-se o direito ao aberto e, não havendo casa do albergado, à custódia domiciliar. Surgindo risco de indevida submissão do paciente a regime mais gravoso do que o imposto na decisão condenatória, mostra-se relevante o pedido de concessão de medida acauteladora.
+    3. Defiro a liminar para restabelecer, até o julgamento final desta impetração, o pronunciamento do Juízo da Terceira Vara Criminal da Comarca de Joinville/SC, no processo de execução criminal nº 0011099-48.2016.8.24.0038, mediante a qual autorizada a prisão domiciliar, observadas as condições estipuladas.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 31 de outubro de 2017.
+Ministro MARCO AURÉLIO
+Relator
