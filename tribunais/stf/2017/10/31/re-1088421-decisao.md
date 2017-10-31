@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de recurso extraordinário interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de Minas Gerais, está assim ementado:
+    “AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PRETENSÃO FUNDADA EM RELAÇÃO DE EMPREGO E EM RESPONSABILIDADE CIVIL COMUM. DECLÍNIO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. IMPOSSIBILIDADE. PRETENSÕES DISTINTAS. COMPETÊNCIAIS MATERIAIS DIVERSAS. INTELIGÊNCIA DA SÚMULA 170, STJ. DECISÃO REFORMADA. AGRAVO PROVIDO.
+    – Conforme o art. 114, IV, da Constituição da República, são de competência da Justiça do Trabalho as demandas indenizatórias decorrentes da relação de trabalho.
+    – Relacionadas duas pretensões distintas numa mesma demanda, e, sendo estas de competências materiais diversas, não há se falar em declínio de competência para a Justiça Especializada.
+    – Em conformidade com a interpretação principiológica da Súmula 170 do STJ, incumbe ao juízo em que primeiro ajuizada a demanda decidir a lide nos limites de sua competência.”
+    A parte recorrente, ao deduzir este apelo extremo, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 114, VI, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame dos fatos e das provas existentes nos autos, circunstância esta que impede o conhecimento do apelo extremo, nos termos da Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o E. Tribunal de Justiça do Estado de Minas Gerais, no julgamento do recurso, sustentou as suas conclusões em aspectos fático-probatórios:
+    “’In casu’, verifico que a Agravante relacionou, equivocadamente, duas pretensões distintas numa mesma demanda. Isto, por que ao noticiar desfalque em sua conta corrente mantida na Instituição Financeira Agravada, em razão de suposta adulteração de assinaturas e valores em títulos executivos, efetuada pelo Agravado Luiz Fernando, ex-empregado da empresa Agravante, também alega negligência do Banco ao autorizar saques expressivos. Como consequência, requer seja declarada a responsabilidade solidária dos Réus, ora Agravados, pela restituição dos valores.
+    Assim, a primeira pretensão, deduzida contra Luiz Fernando dos Santos Meireles, ex- empregado da empresa Agravante, tem como fundamento o suposto ilícito praticado durante vigência de relação de emprego entre as partes, circunstância que atrai a competência da Justiça do Trabalho para julgamento da demanda, nos termos do art. 114, VI, da Constituição Federal.
+    Por outro lado, a segunda pretensão, deduzida contra Banco Itaú S.A., funda-se no reconhecimento de responsabilidade solidária no dever de indenizar, o que tem como fundamento a responsabilidade civil comum, prescindível da existência de relação de emprego, atraindo a competência da Justiça Comum para julgamento do pleito indenizatório.
+    Destarte, diante da indevida cumulação de pedidos que envolve matérias de competências distintas, aplica-se, ‘mutatis mutandis’, no caso concreto, a Súmula 170 do Colendo Superior Tribunal de Justiça:”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 634.072-AgR/RJ, Rel. Min. RICARDO LEWANDOWSKI – AI 642.351-AgR/SP, Rel. Min. EROS GRAU – ARE 909.857-AgR/DF, Rel. Min. CÁRMEN LÚCIA, v.g.):
+    “CONSTITUCIONAL. TRABALHO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DANO MORAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. REEXAME DE FATOS E PROVAS. SÚMULA STF 279.
+    …..............................................................................................................
+    2. Para verificar se a relação entre as partes da presente demanda é proveniente da relação de trabalho, é necessária a análise da matéria fático-probatória, circunstância inviável nesta sede recursal (Súmula STF 279).
+    3. Agravo regimental improvido.”
+    (RE 563.173-AgR/DF, Rel. Min. ELLEN GRACIE)
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora recorrente revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 31 de outubro de 2017.
+Ministro CELSO DE MELLO
+Relator
