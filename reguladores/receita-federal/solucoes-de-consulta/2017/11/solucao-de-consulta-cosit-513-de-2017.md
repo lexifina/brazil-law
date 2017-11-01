@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 513, de 24 de outubro de 2017
+ASSUNTO: Simples Nacional EMENTA: ATIVIDADE DE PREPARAÇÃO DO PISO E DE APLICAÇÃO DE REVESTIMENTO CERÂMICO. A empresa optante pelo Simples Nacional que não exerce atividade vedada a esse regime de tributação, contratada para prestar serviço de preparação de piso e aplicação de revestimento cerâmico, em relação a essa atividade, deve ser tributada na forma do Anexo III da Lei Complementar nº 123, de 2006. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, Art. 17, §2º c/c Art. 18, §5º-F, Art. 18, §5º-B, inciso IX; Ato Declaratório Interpretativo RFB nº 8, de 30 de dezembro de 2013.
+[arquivo anexo: SC Cosit nº 513-2017.pdf]
