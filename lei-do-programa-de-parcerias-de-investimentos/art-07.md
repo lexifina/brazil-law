@@ -16,9 +16,9 @@ IV - o Ministro de Estado dos Transportes, Portos e Aviação Civil;
 V - o Ministro de Estado de Minas e Energia;
 VI - o Ministro de Estado do Planejamento, Desenvolvimento e Gestão;
 VII - o Ministro de Estado do Meio Ambiente;
-VIII - o Presidente do Banco Nacional de Desenvolvimento Econômico e Social - BNDES;
+VIII - o Presidente do Banco Nacional de Desenvolvimento Econômico e Social (BNDES);
 IX - o Presidente da Caixa Econômica Federal; e
-X - o Presidente do Banco do Brasil.
+X - o Presidente do Banco do Brasil;
 § 2º Serão convidados a participar das reuniões do Conselho, sem direito a voto, os ministros setoriais responsáveis pelas propostas ou matérias em exame e, quando for o caso, os dirigentes máximos das entidades reguladoras competentes.
 § 3º A composição do Conselho do Programa de Parcerias de Investimento da Presidência da República observará, quando for o caso, o § 2º do art. 5º da Lei nº 9.491, de 9 de setembro de 1997.
 § 4º As reuniões do Conselho serão presididas pelo Presidente da República, a quem caberá, nas matérias deliberativas, a decisão final em caso de empate.
