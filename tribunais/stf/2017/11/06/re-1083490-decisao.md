@@ -1,0 +1,24 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela Companhia Riograndense de Saneamento – CORSAN contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. ESTAÇÃO DE TRATAMENTO DE ESGOTO. IRREGULARIDADES NA CONSTRUÇÃO. MAU CHEIRO. PROLIFERAÇÃO DE VETORES. DANOS MORAIS. CONFIGURAÇÃO. ‘QUANTUM’ INDENIZATÓRIO. REDUÇÃO. PRECATÓRIO E JUROS APLICADOS À FAZENDA PÚBLICA. IMPOSSIBILIDADE.
+    1. A prova constante nos autos é farta a demonstrar os danos sofridos pelo autor (morador do bairro Parque Marinha, cidade de Rio Grande, dentro dos limites do zoneamento delineado pelo Ministério Público no TAC firmado com a ré), em face da construção da ETE Navegantes, sem a observância do disposto no art. 6º, caput, §§ 1º e 2º da Lei 8.987/95 pela ré, notadamente no que tange à adequação.
+    2. A responsabilidade da ré, concessionária de serviço público essencial, é objetiva, nos termos do art. 37, § 6º, da Constituição Federal. E sua opção pela tecnologia mais barata e menos eficiente quando existia alternativa viável (que apenas reduziria em pouco o seu lucro) caracteriza ato ilícito, restando configurados os pressupostos ensejadores de indenização.
+    3. ‘Quantum‘ indenizatório reduzido para R$ 1.500,00.
+    4. Juros moratórios que incidem desde a data do evento danoso, o que no caso corresponde a da entrada em atividade da referida ETE. Inteligência do art. 398 do CC e da Súmula 54 do STJ.
+    5. A ré, por se tratar de sociedade de economia mista que exerce atividade em regime de concorrência e distribuição de lucros, ainda que prestadora de serviço público essencial, não se submete ao regime jurídico dos precatórios para pagar as condenações judiciais que lhe são impostas, devendo sujeitar-se ao regime de execuções das empresas privadas. Em conseqüência, não se beneficia a ré, por equiparação, do modo de pagamento de juros moratórios aplicados às condenações judiciais impostas à Fazenda Pública nos termos do art. 1ºF da Lei nº 9494/97. Precedentes do STF (RE 599628, Relator Min. AYRES BRITTO, Relator(a) p/ Acórdão Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 25/05/2011, Repercussão Geral – Mérito, DJe-199, publicado em 17-10-2011).
+    APELAÇÃO PARCIALMENTE PROVIDA.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 599.628/DF, Red. p/ o acórdão Min. JOAQUIM BARBOSA, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “FINANCEIRO. SOCIEDADE DE ECONOMIA MISTA. PAGAMENTO DE VALORES POR FORÇA DE DECISÃO JUDICIAL. INAPLICABILIDADE DO REGIME DE PRECATÓRIO.
+    ART. 100 DA CONSTITUIÇÃO.
+    CONSTITUCIONAL E PROCESSUAL CIVIL. MATÉRIA CONSTITUCIONAL CUJA REPERCUSSÃO GERAL FOI RECONHECIDA.
+    Os privilégios da Fazenda Pública são inextensíveis às sociedades de economia mista que executam atividades em regime de concorrência ou que tenham como objetivo distribuir lucros aos seus acionistas.
+    Portanto, a empresa Centrais Elétricas do Norte do Brasil S.A. – Eletronorte não pode se beneficiar do sistema de pagamento por precatório de dívidas decorrentes de decisões judiciais (art. 100 da Constituição).
+    Recurso extraordinário ao qual se nega provimento.”
+    O exame da presente causa evidencia que o acórdão impugnado nesta sede recursal ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos nesta Suprema Corte (RE 1.077.846/RS, Rel. Min. RICARDO LEWANDOWSKI – RE 1.078.944/RS, Rel. Min. LUIZ FUX – RE 1.083.618/RS, Rel. Min. DIAS TOFFOLI, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 06 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
