@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Inventário. Sucessão por irmãos. Partilha. Plano homologado que respeitou o disposto no artigo 1.841 do CC, conferindo ao irmão unilateral metade do quinhão destinado aos bilaterais. Sobrinho da falecida, no entanto, que não é herdeiro. Ausência de disposição em testamento e de regular cessão de direitos hereditários em seu favor, não observado o art. 1793 do CC. Discussão acerca dos aluguéis que deve ser feita em momento oportuno, sem óbice à partilha. Sentença mantida. Recurso desprovido.”
+    No recurso extraordinário, sustenta-se violação do artigo 5º, incisos XXXV e LIV, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ressalte-se, ainda, que esta Suprema Corte, em sessão realizada por meio eletrônico, concluída em 16/6/11, no exame do ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, Presidente, entendeu pela ausência de repercussão geral do tema relativo à suposta violação dos princípios do contraditório e da ampla defesa nos casos de indeferimento de produção de provas no âmbito de processo judicial, dado o caráter infraconstitucional da matéria. Este julgado restou assim ementado:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional” (DJe de 31/8/11).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 6 de novembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
