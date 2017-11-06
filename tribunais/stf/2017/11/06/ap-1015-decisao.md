@@ -1,0 +1,11 @@
+Despacho: 1. Junte-se a estes autos a carta de ordem protocolizada na Seção Judiciária de Rondônia sob o n. 12161.03.2017.4.01.4100.
+    2. Como já anunciado na ata da última audiência em Porto Velho/RO, designo o dia 21 de novembro de 2017, às 17:00 (horário de Brasília), na sala de audiências desta Suprema Corte, para a inquirição presencial da testemunha Amir Francisco Lando, bem como para oitiva de Mário Alves da Costa e Neodi Carlos Francisco de Oliveira, estas últimas por videoconferência com a Seção Judiciária de Rondônia.
+    3. Oficie-se à aludida Seção Judiciária, por malote digital ou e-mail, com suporte no art. 3º, III, da Lei 8.038/1990 c/c o art. 21-A, IX, do Regimento Interno do Supremo Tribunal Federal, solicitando que: a) seja disponibilizada sala de audiência, para o ato de instrução criminal a ser realizado por videoconferência e b) seja realizado prévio contato com os servidores responsáveis do Setor de Áudio e Vídeo desta Corte a fim de fornecerem os dados de ID (identificação) dos equipamentos a serem disponibilizados na origem, bem como concertarem os testes prévios necessários (Osiel Luís de Souza ou Bernardo Paulo Pessoa, tel. (61) 3217-3770 ou (61) 3217-5939, correio eletrônico audioevideo@stf.br ou osiel.souza@stf.jus.br).
+    Ressalto que a defesa constituída firmou compromisso em conduzir as testemunhas Mário Alves da Costa e Neodi Carlos Francisco de Oliveira àquela Seccional independentemente de intimação.
+    3. No que diz respeito à testemunha Amir Francisco Lando, a qual comparecerá pessoalmente a esta Capital Federal, determino aos Oficiais de Justiça desta Suprema Corte que realizem sua intimação por meio de contato telefônico com os números (69) 98116-1100 ou (61) 99271-1044, certificando-se nos autos a ciência inequívoca.
+    4. Determino, ademais, seja oficiado à Ordem dos Advogados do Brasil para indicar advogado dativo que possa comparecer em Brasília/DF na data aprazada, na eventualidade de o(s) defensor(es) constituído(s) dos acusados faltar(em) ao ato, observado o art. 263 do Código de Processo Penal.
+     Publique-se. Intime-se.
+    Brasília, 6 de novembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
