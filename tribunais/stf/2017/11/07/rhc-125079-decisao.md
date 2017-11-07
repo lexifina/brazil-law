@@ -1,0 +1,23 @@
+Decisão:
+Ementa: Processual Penal. Recurso ordinário em habeas Corpus. Furto qualificado. Princípio da insignificância. Reiteração delitiva.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Moura Ribeiro, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. CRIMINOSO CONTUMAZ. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça entendem que, para a configuração do delito de bagatela, devem estar presentes, de forma concomitante, os seguintes requisitos: 1) conduta minimamente ofensiva; 2) ausência de periculosidade do agente; 3) reduzido grau de reprovabilidade do comportamento; e, 4) lesão jurídica inexpressiva.
+    2. No caso do autos, não há que se falar em reduzido grau de reprovabilidade da conduta porque ‘no caso concreto, a conduta não se mostra, de forma alguma, irrelevante penalmente, pois se trata de dois furtos qualificados e os bens, ainda que restituídos às vítimas, foram avaliados em R$ 50,00 (tapete) e R$ 20,00 (tesoura de cortar grama da Igreja, fl. 22), isso em abril de 2009, valor nada desprezível.’ (fl. 124), além disso ficou constatado que os réus são contumazes praticantes de crimes, pois ‘segundo certidão de antecedentes criminais (fls. 29/30, 31/32) os réus respondem a outro processo por delito de mesma natureza, não constituindo o presente processo fato isolado na suas vidas’ (fl. 124), situação incompatível com a aplicação do princípio da insignificância.
+    3. Agravo regimental não provido.”
+    2. Extrai-se dos autos que os pacientes foram denunciados pelo crime previsto no artigo 155, § 4º, inciso IV, do Código Penal, por terem, em tese, subtraído, uma tesoura de cortar grama e um tapete. O valor total da res furtiva foi avaliado em R$ 70,00 (setenta reais).
+    3. O Juízo de origem reconheceu a aplicabilidade, no caso, do princípio da insignificância, absolvendo sumariamente os pacientes, com fundamento no artigo 397, III, do Código de Processo Penal.
+    4. Dessa decisão, o Ministério Público interpôs apelação, provida pelo Tribunal de Justiça do Estado do Rio Grande do Sul para “desconstituir a decisão a fim de ser dado regular andamento ao processo”.
+    5. Na sequência, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Relator do HC 182.883, Ministro Moura Ribeiro, negou seguimento ao writ. Contra essa decisão, foi interposto agravo regimental, não provido.
+    6. Neste recurso ordinário, sustenta-se a aplicabilidade, no caso, do princípio da insignificância, em razão do pequeno valor do objeto material do crime de furto (uma tesoura de cortar grama e um tapete, avaliados em R$ 70,00). Requer-se, ao final, o provimento do recurso a fim de restabelecer a sentença absolutória.
+    7. O Ministério Público Federal manifesta-se pelo não provimento do recurso ordinário.
+    Decido.
+    8. A orientação jurisprudencial do Plenário do Supremo Tribunal Federal, firmada a partir do julgamento dos HCs 123.734, 123.533 e 123.108, é no sentido de que, em se tratando de crime de furto, a aplicação do princípio da insignificância deve ser casuística, incumbindo ao Juízo de origem avaliar, no caso concreto, a melhor forma de assegurar a aplicação do princípio constitucional da individualização da pena, examinando a possibilidade da incidência do privilégio previsto no artigo 155, § 2º, do Código Penal, ou do reconhecimento da atipicidade da conduta, com fundamento no princípio da bagatela.
+    9. Ademais, o Plenário do Tribunal reiterou o entendimento de que o princípio da insignificância incide quando presentes, cumulativamente, as seguintes condições objetivas: (i) mínima ofensividade da conduta do agente, (ii) nenhuma periculosidade social da ação, (iii) grau reduzido de reprovabilidade do comportamento, e (iv) inexpressividade da lesão jurídica provocada, ressaltando, ainda, que a contumácia na prática delitiva impede a aplicação do princípio.
+    10. No caso de que se trata, o Tribunal de Justiça do Estado do Rio Grande do Sul, em sede de apelação, afirmou que os pacientes são reincidentes na prática criminosa, destacando que “segundo certidão de antecedentes criminais (fls. 29/30, 31/32) os réus respondem a outro processo por delito de mesma natureza, não constituindo o presente processo fato isoladonas suas vidas”.
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+    Brasília, 07 de novembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
