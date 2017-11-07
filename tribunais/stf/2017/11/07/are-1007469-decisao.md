@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão da 4ª Turma do Tribunal Regional Federal da 5ª Região.
+    No apelo extremo, interposto com amparo no art. 102, III, alínea ”a” da Constituição Federal, o recorrente sustenta a existência de repercussão geral e que o julgado ofendeu dispositivos constitucionais, notadamente a utilização de provas que teriam sido obtidas de maneira ilícita. Por fim, pede que o recurso seja conhecido e provido para modificar o acórdão recorrido.
+    É o relatório. Decido.
+    O aresto impugnado foi assim ementado:
+    PENAL E PROCESSUAL PENAL. ATIVIDADE DE TELECOMUNICAÇÃO CLANDESTINA. ART. 183 DA LEI 9472/97. PRINCÍPIOS DA INTERVENÇÃO MÍNIMA DO DIREITO PENAL E INSIGNIFICÂNCIA. CONDUTA TIPIFICADA COMO CRIME PELO LEGISLADOR. TRANSMISSÃO EM POTÊNCIA MUITO SUPERIOR A PERMITIDA. INAPLICABILIDADE. DESCLASSIFICAÇÃO PARA A CONDUTA TIPIFICADA NO ART. 70 DA LEI 4.111/62. IMPOSSIBILIDADE. ERRO DE PROIBIÇÃO NÃO CONFIGURADO. FIXAÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. AUSÊNCIA DE CAUSA DE DIMINUIÇÃO DE PENA. IMPOSSIBILIDADE. MULTA PREVISTA EM VALOR ÚNICO. MANUTENÇÃO. APELAÇÃO NÃO PROVIDA.
+    Efetivamente, o Tribunal de origem, com fundamento na legislação ordinária e no substrato fático constante dos autos e, negou provimento ao recurso defensivo mantendo a sentença monocrática que condenou o recorrente pela prática da conduta descrita no art. 183 da Lei 9.472/97. Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as eventuais ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ademais, o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 (para simples reexame de prova não cabe recurso extraordinário).
+    Nesse sentido, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIMES DE ASSOCIAÇÃO CRIMINOSA E DE FURTO QUALIFICADO. ARTIGOS 288 E 155, § 4º, I, III E IV, C.C. ARTIGO 14, II, DO CÓDIGO PENAL. VIOLAÇÃO AO ARTIGO 5º, XII E LVI, DA CONSTITUIÇÃO FEDERAL. ILICITUDE DA PROVA. OFENSA REFLEXA. ALEGAÇÃO DE IRREGULARIDADES NO CURSO DO INQUÉRITO POLICIAL E UTILIZAÇÃO DE PROVAS ILÍCITAS. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO” (ARE-AgR 999.198/DF, Rel. Min. Luiz Fux, Primeira Turma, DJe 1º.9.2017).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito processual penal. 3. Concussão. Condenação. 4. Alegação de utilização de prova ilícita, colhida mediante tortura. 5. Suposta violação aos artigos 1º, inciso III; 4º, inciso II; e 5º, inciso LVI, do texto constitucional. 6. Matéria enfrentada pelo Tribunal de origem. 7. Revolvimento do acervo fático-probatório. Providência vedada em sede de recurso extraordinário (Súmula 279). Precedentes. 8. Ofensa reflexa ao texto constitucional. 9. Agravo regimental a que se nega provimento”(ARE-AgR 1.017.861/SP, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 5.6.2017)
+    Por fim, ressalto que o recurso não apontou outro dispositivo de lei federal ou constitucional para ensejar a interposição de Extraordinário, a teor do disposto na Súmula 282 (é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Publique-se.
+Brasília, 7 de novembro de 2017.
+Min. Alexandre de Moraes
+Relator
+documento assinado digitalmente
