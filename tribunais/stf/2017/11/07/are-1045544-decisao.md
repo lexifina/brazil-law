@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão da 1ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios.
+    No apelo extremo, interposto com amparo no art. 102, III, alínea ”a” da Constituição Federal, o recorrente sustenta a existência de repercussão geral e que o julgado ofendeu princípios constitucionais. Por fim, pede que o recurso seja conhecido e provido para modificar o acórdão recorrido.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus do recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional discutida no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. Não bastam, portanto, para que seja atendido o requisito previsto nos artigos 102, § 3º, da CF e 543-A, § 2º, do CPC/1973, alegações genéricas a respeito do instituto, como a mera afirmação de que (a) a matéria controvertida tem repercussão geral; (b) o tema goza de importância econômica, política, social ou jurídica; (c) a questão ultrapassa os interesses subjetivos da parte ou tem manifesto potencial de repetitividade; (d) a repercussão geral é consequência inevitável de suposta violação a dispositivo constitucional; ou, ainda, (e) há jurisprudência pacífica desta Corte quanto ao tema discutido. Nesse sentido: ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Ora, no caso, a alegação de repercussão geral não está acompanhada de fundamentação demonstrativa nos moldes exigidos pela jurisprudência do STF.
+    Ainda que superado esse grave óbice, o apelo extremo não teria chance de êxito. O aresto impugnado foi assim ementado:
+    PENAL. APELAÇÃO. ART. 180, CAPUT, DO CÓDIGO PENAL. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS QUANTO À AUTORIA – IMPOSSIBILIDADE. REVISÃO DA DOSIMETRIA – FIXAÇÃO DO REGIME ABERTO – INVIABILIDADE – RECURSO NÃO PROVIDO.
+    Efetivamente, o Tribunal de origem, com fundamento na legislação ordinária e no substrato fático constante dos autos, negou provimento ao recurso defensivo para manter a condenação do recorrente pela prática do delito de receptação. Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ademais, o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 (para simples reexame de prova não cabe recurso extraordinário ).
+    Em relação à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta Corte no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+    Nessa oportunidade, o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da Constituição Federal de 1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+    Por fim, ressalto que o recurso não apontou outro dispositivo de lei federal ou constitucional para ensejar a interposição de Extraordinário, a teor do disposto na Súmula 282 (é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Publique-se.
+Brasília, 7 de novembro de 2017.
+Min. Alexandre de Moraes
+Relator
+documento assinado digitalmente
