@@ -1,0 +1,15 @@
+Vistos etc.
+    1. Contra acórdão da Primeira Turma do Supremo Tribunal Federal mediante o qual foram rejeitados os seus embargos de declaração em agravo regimental em reclamação, maneja embargos de divergência Joel Vianei Lohn.
+    É o breve relatório.
+    Decido.
+    2. Nos termos dos arts. 1.043 do CPC/2015 e 330 do RISTF, desafia embargos de divergência acórdão de Turma do Supremo Tribunal Federal que, ao julgamento de recurso extraordinário ou agravo de instrumento, diverge do julgamento da outra Turma ou do Plenário.
+    3. Mostram-se, pois, manifestamente incabíveis os presentes embargos, na medida em que interpostos contra acórdão exarado ao julgamento de reclamação.
+    4. Firme, nesse sentido, a jurisprudência do Plenário desta Casa:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA RECLAMAÇÃO. MANIFESTO DESCABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A teor do art. 330 do Regimento Interno desta Corte, os embargos de divergência são cabíveis de acórdão de Turma que divergir do julgado de outra Turma ou do Plenário em recurso extraordinário ou em agravo em recurso extraordinário. 2. Não há previsão de cabimento de embargos de divergência contra acórdão proferido no julgamento de embargos de declaração no agravo regimental em reclamação constitucional, impondo-se, portanto, sua inadmissão. 3. Agravo regimental desprovido.” (Rcl 14933-AgR-ED-EDv-AgR/SE, Relator Ministro Luiz Fux, Tribunal Pleno, DJe 16.2.2016)
+    “Agravo regimental nos embargos de divergência nos embargos declaratórios no agravo regimental na reclamação. Não conhecimento dos embargos divergentes. Ausência de impugnação específica dos fundamentos da decisão agravada. 1. Não subsiste o agravo regimental quando inexiste ataque específico aos fundamentos da decisão agravada (art. 317, § 1º, do RISTF). Precedentes. 2. O uso legítimo dos embargos de divergência pressupõe anterior julgamento colegiado por quaisquer das turmas da Corte em recurso extraordinário ou em agravo de instrumento, sendo inidôneo o recurso para modificar decisão proferida em reclamação. 3. Agravo regimental não provido, com aplicação da multa prevista no art. 557, § 2º, do Código de Processo Civil.” (Rcl 17700-AgR-ED-EDv-AgR/PA, Relator Ministro Dias Toffoli, Tribunal Pleno, DJe 11.11.2015)
+    Na mesma linha, destaco as seguintes decisões monocráticas, pelas quais negado seguimento a embargos de divergência interpostos contra acórdãos proferidos ao julgamento de reclamação: Rcl 24145-AgR-ED-EDv/SC (Relator Ministro Edson Fachin, DJe 08.8.2017); Rcl 12804-ED-EDv/SP (Relator Ministro Gilmar Mendes, DJe 03.8.2017); Rcl 26331-AgR-EDv/BA (Relator Ministro Luiz Fux, DJe 29.6.2017); Rcl 23644-AgR-EDv/DF (Relator Ministro Roberto Barroso, DJe 06.10.2016); Rcl 19074-AgR-EDv/MG (Ministra Cármen Lúcia, DJe 18.3.2015) e Rcl 9087-AgR-EDv/SP (Ministro Marco Aurélio, DJe 10.8.2012).
+    5. Ante o exposto, nego seguimento aos embargos de divergência (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 07 de novembro de 2017.
+Ministra Rosa Weber
+Relatora
