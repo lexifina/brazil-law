@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás.
+    No apelo extremo, alega-se, com amparo no art. 102, III, “a”, violação ao art. 5º, LV, da Constituição Federal. Sustenta, em síntese, que a produção de prova pericial deveria ter sido deferida, tendo em vista sua importância para a resolução da lide.
+    A decisão agravada tem por fundamento a ausência de prequestionamento da matéria.
+    No Agravo, a parte agravante sustenta, em síntese, que a matéria foi devidamente prequestionada. No mais, repisa as alegações de mérito do recurso extraordinário.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Mesmo que fosse possível superar tal óbice, verifica-se que o Tribunal de origem decidiu pelo indeferimento da prova pericial ao constatar que sua produção seria desnecessária para o julgamento da causa.
+    A propósito, confira-se trecho do voto condutor do acórdão recorrido:
+    “Ora, para o julgamento da lide faz-se necessária a produção de elementos probatórios suficientes para a formação do convencimento do julgador, inocorrendo, pois o propalado cerceamento de defesa se o magistrado singular entende por dispensável a realização de prova pericial contábil, que em nada acrescentará ao processo, frentes aos limites do pedido declinado na ação de restituição de importâncias pagas, consoante a peça vestibular protocolizada no primeiro grau de jurisdição” (fls. 715, Vol. 04)
+    Dessa forma, para se chegar a conclusão contrária, seria necessário analisar a legislação ordinária de regência e reexaminar o contexto fático-probatório dos autos, o que faz incidir, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 7 de novembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
